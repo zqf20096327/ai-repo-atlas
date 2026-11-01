@@ -1,6 +1,6 @@
 # calmsprite2001/mcd-mailu
 
-⭐ 61 · Python · 推送 2026-10-19 · [GitHub](https://github.com/calmsprite2001/mcd-mailu) · 个人维护 · 中文 README
+⭐ 69 · Python · 推送 2026-10-19 · [GitHub](https://github.com/calmsprite2001/mcd-mailu) · 个人维护 · 中文 README
 
 **读取麦当劳历史订单，生成可回溯真实订单的场景叙事足迹卡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "calmsprite2001/mcd-mailu 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-31"]
+    title "calmsprite2001/mcd-mailu 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 56 --> 119
-    line [114, 61]
+    line [114, 61, 69]
 ```
 
-2026-10-22 114 → 2026-10-31 61（-53）
+2026-10-22 114 → 2026-11-01 69（-45）
 
 
 ---

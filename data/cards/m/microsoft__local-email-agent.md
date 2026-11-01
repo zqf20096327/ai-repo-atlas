@@ -1,6 +1,6 @@
 # microsoft/local-email-agent
 
-⭐ 21 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/microsoft/local-email-agent) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/microsoft/local-email-agent) · 组织维护
 
 **微软本地邮件助手：Phi-4 本地模型代发邮件与管日程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/local-email-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 20 --> 24
+    line [21, 23]
 ```
 
-2026-10-18 21 → 2026-10-31 21（+0）
+2026-10-18 21 → 2026-11-01 23（+2）
 
 
 ---

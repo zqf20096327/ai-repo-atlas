@@ -1,6 +1,6 @@
 # buildoak/agent-mux
 
-⭐ 35 · Go · MIT · 推送 2026-07-10 · [GitHub](https://github.com/buildoak/agent-mux) · 组织维护
+⭐ 36 · Go · MIT · 推送 2026-07-10 · [GitHub](https://github.com/buildoak/agent-mux) · 组织维护
 
 **给 AI 编程助手的跨引擎调度层：一个 CLI 统一调度多个编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buildoak/agent-mux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-10-31 35（+0）
+2026-10-18 35 → 2026-11-01 36（+1）
 
 
 ---

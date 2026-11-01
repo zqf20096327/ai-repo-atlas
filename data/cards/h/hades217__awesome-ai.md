@@ -1,6 +1,6 @@
 # hades217/awesome-ai
 
-⭐ 554 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hades217/awesome-ai) · [官网](https://jracademy.ai/) · 个人维护 · 中文 README
+⭐ 555 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hades217/awesome-ai) · [官网](https://jracademy.ai/) · 个人维护 · 中文 README
 
 **AI 资源策展清单：模型、工具、框架、课程等分类收录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hades217/awesome-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 553 --> 555
-    line [554, 554]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 553 --> 556
+    line [554, 555]
 ```
 
-2026-10-18 554 → 2026-10-31 554（+0）
+2026-10-18 554 → 2026-11-01 555（+1）
 
 
 ---

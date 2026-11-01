@@ -44,13 +44,13 @@ MindMux 是一款 Electron 桌面应用，用于持久化项目记忆：与 AI �
 
 ```mermaid
 xychart-beta
-    title "mindmuxai/mindmux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "mindmuxai/mindmux 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 17 --> 21
-    line [18, 20]
+    line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-31 20（+2）
+2026-10-18 18 → 2026-11-01 20（+2）
 
 
 ---

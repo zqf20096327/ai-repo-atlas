@@ -1,6 +1,6 @@
 # NVlabs/blade
 
-⭐ 62 · Python · NOASSERTION · 推送 2025-11-04 · [GitHub](https://github.com/NVlabs/blade) · [官网](https://research.nvidia.com/labs/amri/projects/blade/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **CVPR 2025 论文官方实现：近距人体网格恢复与相机参数求解**
 
@@ -11,7 +11,7 @@ NVIDIA 研究团队发布的 BLADE 官方 PyTorch 实现，处理近距离（透
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

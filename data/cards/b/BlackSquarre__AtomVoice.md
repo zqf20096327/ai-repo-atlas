@@ -1,6 +1,6 @@
 # BlackSquarre/AtomVoice
 
-⭐ 20 · Swift · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/BlackSquarre/AtomVoice) · [官网](https://blacksquarre.github.io/AtomVoice/) · 个人维护 · 中文 README
+⭐ 20 · Swift · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/BlackSquarre/AtomVoice) · [官网](https://blacksquarre.github.io/AtomVoice/) · 个人维护 · 中文 README
 
 **macOS 菜单栏语音听写应用：按键说话转文字进任意应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BlackSquarre/AtomVoice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 20（+0）
 
 
 ---

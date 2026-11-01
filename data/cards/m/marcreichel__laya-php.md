@@ -1,6 +1,6 @@
 # marcreichel/laya-php
 
-⭐ 109 · PHP · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/marcreichel/laya-php) · [官网](https://packagist.org/packages/marcreichel/laya-php) · 个人维护 · 中文 README
+⭐ 110 · PHP · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/marcreichel/laya-php) · [官网](https://packagist.org/packages/marcreichel/laya-php) · 个人维护 · 中文 README
 
 **PHP/Laravel 的 Laya 文本决策 SDK：自托管分类替代 LLM API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marcreichel/laya-php 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-01"]
     y-axis "stars" 105 --> 111
-    line [106, 107, 109, 110, 109, 109]
+    line [106, 107, 109, 110, 109, 110]
 ```
 
-2026-10-18 106 → 2026-10-31 109（+3）
+2026-10-18 106 → 2026-11-01 110（+4）
 
 
 ---

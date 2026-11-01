@@ -1,6 +1,6 @@
 # Jgocunha/dynamic-neural-field-composer
 
-⭐ 19 · C++ · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Jgocunha/dynamic-neural-field-composer) · [官网](https://youtu.be/Ss_FOccIM_o) · 个人维护
+⭐ 19 · C++ · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Jgocunha/dynamic-neural-field-composer) · [官网](https://youtu.be/Ss_FOccIM_o) · 个人维护
 
 **构建与仿真动态神经场（DNF）架构的 C++20 库与交互应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jgocunha/dynamic-neural-field-composer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-31 19（+1）
+2026-10-18 18 → 2026-11-01 19（+1）
 
 
 ---

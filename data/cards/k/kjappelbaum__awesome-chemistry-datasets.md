@@ -1,6 +1,6 @@
 # kjappelbaum/awesome-chemistry-datasets
 
-⭐ 430 · CC0-1.0 · 推送 2026-09-01 · [GitHub](https://github.com/kjappelbaum/awesome-chemistry-datasets) · 个人维护
+⭐ 429 · CC0-1.0 · 推送 2026-09-01 · [GitHub](https://github.com/kjappelbaum/awesome-chemistry-datasets) · 个人维护
 
 **面向化学机器学习的数据集策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kjappelbaum/awesome-chemistry-datasets 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 428 --> 431
-    line [429, 430, 430]
+    line [429, 430, 429]
 ```
 
-2026-10-18 429 → 2026-10-31 430（+1）
+2026-10-18 429 → 2026-11-01 429（+0）
 
 
 ---

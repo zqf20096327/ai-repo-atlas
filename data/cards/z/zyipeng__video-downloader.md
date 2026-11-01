@@ -1,6 +1,6 @@
 # zyipeng/video-downloader
 
-⭐ 29 · Shell · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zyipeng/video-downloader) · 个人维护 · 中文 README
+⭐ 30 · Shell · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zyipeng/video-downloader) · 个人维护 · 中文 README
 
 **让 AI Agent 从 9 个视频平台下载视频的通用 Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zyipeng/video-downloader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 30]
 ```
 
-2026-10-18 27 → 2026-10-31 29（+2）
+2026-10-18 27 → 2026-11-01 30（+3）
 
 
 ---

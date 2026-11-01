@@ -45,13 +45,13 @@ Hostinger 官方发布的 Model Context Protocol 服务器，把 Hostinger API �
 
 ```mermaid
 xychart-beta
-    title "hostinger/api-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31"]
+    title "hostinger/api-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 162 --> 168
-    line [163, 164, 165, 167]
+    line [163, 164, 165, 167, 167]
 ```
 
-2026-10-18 163 → 2026-10-31 167（+4）
+2026-10-18 163 → 2026-11-01 167（+4）
 
 
 ---

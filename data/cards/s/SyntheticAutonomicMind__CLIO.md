@@ -1,6 +1,6 @@
 # SyntheticAutonomicMind/CLIO
 
-⭐ 232 · Perl · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/SyntheticAutonomicMind/CLIO) · 个人维护
+⭐ 232 · Perl · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/SyntheticAutonomicMind/CLIO) · 个人维护
 
 **终端 AI 编程代理：多模型接入、带工具与沙箱的 agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SyntheticAutonomicMind/CLIO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 231 --> 233
     line [232, 232]
 ```
 
-2026-10-18 232 → 2026-10-31 232（+0）
+2026-10-18 232 → 2026-11-01 232（+0）
 
 
 ---

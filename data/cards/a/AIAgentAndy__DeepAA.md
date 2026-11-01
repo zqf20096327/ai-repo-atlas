@@ -1,6 +1,6 @@
 # AIAgentAndy/DeepAA
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AIAgentAndy/DeepAA) · [官网](https://deepaa.dev) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AIAgentAndy/DeepAA) · [官网](https://deepaa.dev) · 个人维护 · 中文 README
 
 **本地运行的 AI Agent 网关，统一接入供应商并追踪调用与成本**
 
@@ -44,13 +44,13 @@ DeepAA（Deep Agent Analytics）是开源免费、本地运行的 AI Agent 网�
 
 ```mermaid
 xychart-beta
-    title "AIAgentAndy/DeepAA 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 1 --> 29
-    line [3, 4, 5, 8, 27]
+    title "AIAgentAndy/DeepAA 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1 --> 32
+    line [3, 4, 5, 8, 27, 30]
 ```
 
-2026-10-23 3 → 2026-10-31 27（+24）
+2026-10-23 3 → 2026-11-01 30（+27）
 
 
 ---

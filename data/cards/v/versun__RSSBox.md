@@ -1,6 +1,6 @@
 # versun/RSSBox
 
-⭐ 683 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/versun/RSSBox) · [官网](https://rssbox.app) · 个人维护 · 中文 README
+⭐ 682 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/versun/RSSBox) · [官网](https://rssbox.app) · 个人维护 · 中文 README
 
 **自托管的 RSS 翻译、总结与过滤服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "versun/RSSBox 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
+    title "versun/RSSBox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 680 --> 684
-    line [681, 682, 681, 682, 683]
+    line [681, 682, 681, 682, 683, 682]
 ```
 
-2026-10-18 681 → 2026-10-31 683（+2）
+2026-10-18 681 → 2026-11-01 682（+1）
 
 
 ---

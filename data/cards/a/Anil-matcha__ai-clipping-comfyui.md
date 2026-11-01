@@ -1,6 +1,6 @@
 # Anil-matcha/ai-clipping-comfyui
 
-⭐ 33 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Anil-matcha/ai-clipping-comfyui) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Anil-matcha/ai-clipping-comfyui) · 组织维护
 
 **ComfyUI 节点包：调 muapi.ai 把长视频切成热门短视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/ai-clipping-comfyui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 33, 34]
 ```
 
-2026-10-18 30 → 2026-10-31 33（+3）
+2026-10-18 30 → 2026-11-01 34（+4）
 
 
 ---

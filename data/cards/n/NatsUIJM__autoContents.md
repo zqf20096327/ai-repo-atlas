@@ -1,6 +1,6 @@
 # NatsUIJM/autoContents
 
-⭐ 271 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/NatsUIJM/autoContents) · 个人维护 · 中文 README
+⭐ 272 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/NatsUIJM/autoContents) · 个人维护 · 中文 README
 
 **为扫描版 PDF 自动生成可跳转书签的视觉 LLM 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NatsUIJM/autoContents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 267 --> 272
-    line [268, 269, 270, 271, 271]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 267 --> 273
+    line [268, 269, 270, 271, 272]
 ```
 
-2026-10-18 268 → 2026-10-31 271（+3）
+2026-10-18 268 → 2026-11-01 272（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # baidu-baige/LoongFlow
 
-⭐ 482 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/baidu-baige/LoongFlow) · [官网](https://arxiv.org/abs/2512.24077) · 组织维护 · 中文 README
+⭐ 481 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/baidu-baige/LoongFlow) · [官网](https://arxiv.org/abs/2512.24077) · 组织维护 · 中文 README
 
 **专家级 Agent 开发框架：以计划-执行-总结循环持续学习进化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baidu-baige/LoongFlow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-01"]
     y-axis "stars" 480 --> 484
-    line [483, 482, 481, 482, 482]
+    line [483, 482, 481, 482, 481]
 ```
 
-2026-10-18 483 → 2026-10-31 482（-1）
+2026-10-18 483 → 2026-11-01 481（-2）
 
 
 ---

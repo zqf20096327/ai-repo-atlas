@@ -1,6 +1,6 @@
 # snowsky/yourfinanceworks
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/snowsky/yourfinanceworks) · [官网](https://www.yourfinanceworks.com) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/snowsky/yourfinanceworks) · [官网](https://www.yourfinanceworks.com) · 个人维护
 
 **面向开发者与小微企业的自托管 AI 财务管理平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "snowsky/yourfinanceworks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 16（+1）
 
 
 ---

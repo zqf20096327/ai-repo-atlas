@@ -1,6 +1,6 @@
 # denameidina/hanoman
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/denameidina/hanoman) · [官网](https://nafanesia.id/) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/denameidina/hanoman) · [官网](https://nafanesia.id/) · 个人维护
 
 **多项目并行运行与监控 coding agent 的编排器+仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "denameidina/hanoman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

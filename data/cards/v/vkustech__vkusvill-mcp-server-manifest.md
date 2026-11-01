@@ -1,6 +1,6 @@
 # vkustech/vkusvill-mcp-server-manifest
 
-⭐ 20 · 推送 2026-10-23 · [GitHub](https://github.com/vkustech/vkusvill-mcp-server-manifest) · 组织维护
+⭐ 21 · 推送 2026-10-23 · [GitHub](https://github.com/vkustech/vkusvill-mcp-server-manifest) · 组织维护
 
 **ВкусВилл 官方购物 MCP 服务器，供 AI 助手代选代购食品**
 
@@ -39,6 +39,18 @@
 
 > L4: Это официальный MCP-сервер ВкусВилла. Подключите его своему ИИ-помощнику, чтобы делегировать ему выбор и заказ проду
 > L2: ### https://mcp.vkusvill.ru/mcp
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vkustech/vkusvill-mcp-server-manifest 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
+```
+
+2026-10-31 20 → 2026-11-01 21（+1）
 
 
 ---

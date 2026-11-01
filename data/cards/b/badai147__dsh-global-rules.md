@@ -1,6 +1,6 @@
 # badai147/dsh-global-rules
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/badai147/dsh-global-rules) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/badai147/dsh-global-rules) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness Web 面板中编辑全局规则文件的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "badai147/dsh-global-rules 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
     y-axis "stars" 12 --> 16
-    line [13, 15, 15]
+    line [13, 15, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 15（+2）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

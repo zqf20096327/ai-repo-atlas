@@ -1,6 +1,6 @@
 # OpenSourceAGI/qwksearch-research-agent
 
-⭐ 77 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/OpenSourceAGI/qwksearch-research-agent) · [官网](https://qwksearch.com) · 组织维护
+⭐ 77 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/OpenSourceAGI/qwksearch-research-agent) · [官网](https://qwksearch.com) · 组织维护
 
 **AI 研究搜索代理：多源检索、正文提取与大纲摘要写作**
 
@@ -46,12 +46,12 @@ QwkSearch 是一个以“自组织思维导图”为定位的 AI 研究搜索平
 ```mermaid
 xychart-beta
     title "OpenSourceAGI/qwksearch-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-31 77（+0）
+2026-10-18 77 → 2026-11-01 77（+0）
 
 
 ---

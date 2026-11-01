@@ -1,6 +1,6 @@
 # LazyGod75/The-LazyIDE
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/LazyGod75/The-LazyIDE) · 个人维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/LazyGod75/The-LazyIDE) · 个人维护
 
 **给开发者的桌面 AI IDE：一个 AI 管理者规划并调度 agent 舰队干活**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LazyGod75/The-LazyIDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

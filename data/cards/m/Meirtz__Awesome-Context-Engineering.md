@@ -1,6 +1,6 @@
 # Meirtz/Awesome-Context-Engineering
 
-⭐ 3,332 · MIT · 推送 2026-05-28 · [GitHub](https://github.com/Meirtz/Awesome-Context-Engineering) · 个人维护 · 中文 README
+⭐ 3,333 · MIT · 推送 2026-05-28 · [GitHub](https://github.com/Meirtz/Awesome-Context-Engineering) · 个人维护 · 中文 README
 
 **上下文工程综述资源清单：论文、框架与实现指南汇编**
 
@@ -45,12 +45,12 @@ Context Engineering 主题的综合调研与资源集合：从静态提示工程
 ```mermaid
 xychart-beta
     title "Meirtz/Awesome-Context-Engineering 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 3326 --> 3333
-    line [3327, 3329, 3330, 3331, 3330, 3331, 3332, 3332]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 3326 --> 3334
+    line [3327, 3329, 3330, 3331, 3330, 3331, 3332, 3333]
 ```
 
-2026-10-18 3,327 → 2026-10-31 3,332（+5）
+2026-10-18 3,327 → 2026-11-01 3,333（+6）
 
 
 ---

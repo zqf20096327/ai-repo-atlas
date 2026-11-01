@@ -1,6 +1,6 @@
 # eserie/wax-ml
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/eserie/wax-ml) · [官网](https://eserie.github.io/wax-ml/) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/eserie/wax-ml) · [官网](https://eserie.github.io/wax-ml/) · 个人维护
 
 **面向流数据与时间序列的 JAX 机器学习研究库**
 
@@ -45,12 +45,12 @@ WAX-ML 是研究导向的 Python 库，基于 JAX 与 Haiku 函数式范式，�
 ```mermaid
 xychart-beta
     title "eserie/wax-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-31 64（+0）
+2026-10-18 64 → 2026-11-01 64（+0）
 
 
 ---

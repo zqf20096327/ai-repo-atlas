@@ -1,6 +1,6 @@
 # epoko77-ai/tokenhabit
 
-⭐ 19 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/epoko77-ai/tokenhabit) · [官网](https://pypi.org/project/tokenhabit/) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/epoko77-ai/tokenhabit) · [官网](https://pypi.org/project/tokenhabit/) · 个人维护 · 中文 README
 
 **扫描 Claude Code 本地日志、定位浪费 token 的使用习惯的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "epoko77-ai/tokenhabit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 20（+1）
 
 
 ---

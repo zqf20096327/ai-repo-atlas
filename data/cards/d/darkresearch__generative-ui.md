@@ -1,6 +1,6 @@
 # darkresearch/generative-ui
 
-⭐ 171 · TypeScript · 推送 2026-01-06 · [GitHub](https://github.com/darkresearch/generative-ui) · 个人维护
+⭐ 172 · TypeScript · 推送 2026-01-06 · [GitHub](https://github.com/darkresearch/generative-ui) · 个人维护
 
 **Expo/React Native 生成式 UI 工具与模板：流式 Markdown 渲染**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "darkresearch/generative-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 170 --> 172
-    line [171, 171]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 170 --> 173
+    line [171, 172]
 ```
 
-2026-10-18 171 → 2026-10-31 171（+0）
+2026-10-18 171 → 2026-11-01 172（+1）
 
 
 ---

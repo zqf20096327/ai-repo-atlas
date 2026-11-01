@@ -1,6 +1,6 @@
 # minmaxflow/mini-kode
 
-⭐ 305 · TypeScript · MIT · 推送 2025-11-04 · [GitHub](https://github.com/minmaxflow/mini-kode) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **教学用途的 AI 编程代理 CLI，供开发者学习 Agent 架构**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # BobRandomNumber/ComfyUI-Crystools-MonitorOnly
 
-⭐ 25 · TypeScript · MIT · 推送 2026-05-04 · [GitHub](https://github.com/BobRandomNumber/ComfyUI-Crystools-MonitorOnly) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-05-04 · [GitHub](https://github.com/BobRandomNumber/ComfyUI-Crystools-MonitorOnly) · 个人维护
 
 **ComfyUI 内 Nvidia 资源监控扩展：实时显示 CPU/GPU/显存等**
 
@@ -43,12 +43,12 @@ ComfyUI-Crystools 的轻量 fork，仅保留实时系统资源监控功能（CPU
 ```mermaid
 xychart-beta
     title "BobRandomNumber/ComfyUI-Crystools-MonitorOnly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-31 25（+0）
+2026-10-18 25 → 2026-11-01 26（+1）
 
 
 ---

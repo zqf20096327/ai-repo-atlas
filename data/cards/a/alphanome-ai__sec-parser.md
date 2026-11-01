@@ -1,6 +1,6 @@
 # alphanome-ai/sec-parser
 
-⭐ 297 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/alphanome-ai/sec-parser) · 组织维护
+⭐ 298 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/alphanome-ai/sec-parser) · 组织维护
 
 **SEC EDGAR 财报 HTML 解析库：产出语义元素树**
 
@@ -45,12 +45,12 @@ Python 库 sec-parser，将 SEC EDGAR 的 10-Q、10-K 等 HTML 财报文档解�
 ```mermaid
 xychart-beta
     title "alphanome-ai/sec-parser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 294 --> 298
-    line [295, 296, 297, 297]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 294 --> 299
+    line [295, 296, 297, 298]
 ```
 
-2026-10-18 295 → 2026-10-31 297（+2）
+2026-10-18 295 → 2026-11-01 298（+3）
 
 
 ---

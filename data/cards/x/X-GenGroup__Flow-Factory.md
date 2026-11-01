@@ -1,6 +1,6 @@
 # X-GenGroup/Flow-Factory
 
-⭐ 739 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
+⭐ 740 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
 
 **扩散与 Flow-Matching 模型的统一微调框架：SFT/DPO/在线 RL**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "X-GenGroup/Flow-Factory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 728 --> 740
-    line [729, 733, 734, 735, 737, 739]
+    title "X-GenGroup/Flow-Factory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 728 --> 741
+    line [729, 733, 734, 735, 737, 739, 740]
 ```
 
-2026-10-18 729 → 2026-10-31 739（+10）
+2026-10-18 729 → 2026-11-01 740（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # earthwalker17/MiniDSH
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/earthwalker17/MiniDSH) · [官网](https://www.npmjs.com/package/minidsh) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/earthwalker17/MiniDSH) · [官网](https://www.npmjs.com/package/minidsh) · 个人维护
 
 **本地优先的极简编码 agent 运行框架，面向终端与浏览器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "earthwalker17/MiniDSH 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-10-31 16（+1）
+2026-10-18 15 → 2026-11-01 16（+1）
 
 
 ---

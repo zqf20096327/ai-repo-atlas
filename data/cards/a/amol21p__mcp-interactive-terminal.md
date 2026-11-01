@@ -1,6 +1,6 @@
 # amol21p/mcp-interactive-terminal
 
-⭐ 19 · TypeScript · MIT · 推送 2026-02-16 · [GitHub](https://github.com/amol21p/mcp-interactive-terminal) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-02-16 · [GitHub](https://github.com/amol21p/mcp-interactive-terminal) · 个人维护
 
 **给 AI agent 提供真实交互终端会话的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amol21p/mcp-interactive-terminal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 20（+1）
 
 
 ---

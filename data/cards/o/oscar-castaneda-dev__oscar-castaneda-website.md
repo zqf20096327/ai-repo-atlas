@@ -1,6 +1,6 @@
 # oscar-castaneda-dev/oscar-castaneda-website
 
-⭐ 130 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) · [官网](https://oscar-castaneda-website-brown.vercel.app/) · 个人维护
+⭐ 132 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) · [官网](https://oscar-castaneda-website-brown.vercel.app/) · 个人维护
 
 **个人作品集网站：展示全栈与 AI 工程工作**
 
@@ -41,13 +41,13 @@ Oscar Castaneda 的个人 portfolio 网站，自我介绍为专注 ML、NLP 与�
 
 ```mermaid
 xychart-beta
-    title "oscar-castaneda-dev/oscar-castaneda-website 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 110 --> 131
-    line [111, 112, 115, 119, 120, 122, 123, 124, 125, 130]
+    title "oscar-castaneda-dev/oscar-castaneda-website 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 109 --> 134
+    line [111, 112, 115, 119, 120, 122, 123, 124, 125, 130, 132]
 ```
 
-2026-10-18 111 → 2026-10-31 130（+19）
+2026-10-18 111 → 2026-11-01 132（+21）
 
 
 ---

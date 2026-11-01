@@ -41,6 +41,18 @@ ROS 2 Humble 包，将 UR3e + Robotiq 2F-140 + RealSense D435i 仿真环境接�
 > L8: RealSense view; a Claude planner breaks the instruction into pick / place /
 > L27: - **Tool-use loop over Anthropic's Messages API** — 8 tools:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NishanthSundaran/embodied_agent 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-31 17 → 2026-11-01 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `cec0350cc465` · [字段定义](../../DATASET.md)*

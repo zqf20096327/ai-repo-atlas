@@ -1,6 +1,6 @@
 # Sowiedu/Edict
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Sowiedu/Edict) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Sowiedu/Edict) · 个人维护
 
 **面向 AI agent 的编程语言：agent 直接生成 JSON AST 并经 MCP 编译执行**
 
@@ -45,12 +45,12 @@ Edict 是一种静态类型、带效果追踪的编程语言，其程序格式�
 ```mermaid
 xychart-beta
     title "Sowiedu/Edict 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

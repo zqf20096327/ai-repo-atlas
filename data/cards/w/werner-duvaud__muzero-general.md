@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "werner-duvaud/muzero-general 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    title "werner-duvaud/muzero-general 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 2876 --> 2879
-    line [2877, 2878]
+    line [2877, 2878, 2878]
 ```
 
-2026-10-30 2,877 → 2026-10-31 2,878（+1）
+2026-10-30 2,877 → 2026-11-01 2,878（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PerryLink/dsh-session-sync
 
-⭐ 25 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-session-sync) · [官网](https://perrylink.github.io/plugins/dsh-session-sync/) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-session-sync) · [官网](https://perrylink.github.io/plugins/dsh-session-sync/) · 个人维护 · 中文 README
 
 **DSH 会话的跨设备 git 同步插件：冲突时双方保留**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）插件，将会话存储镜像到用户自控的专用 
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-session-sync 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 19 --> 26
-    line [20, 21, 23, 21, 23, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 19 --> 27
+    line [20, 21, 23, 21, 23, 24, 25, 26]
 ```
 
-2026-10-18 20 → 2026-10-31 25（+5）
+2026-10-18 20 → 2026-11-01 26（+6）
 
 
 ---

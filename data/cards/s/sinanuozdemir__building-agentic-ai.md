@@ -45,13 +45,13 @@ Sinan Ozdemir 所著《Applied AI》（O'Reilly/Pearson）的官方代码仓库�
 
 ```mermaid
 xychart-beta
-    title "sinanuozdemir/building-agentic-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31"]
+    title "sinanuozdemir/building-agentic-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 91 --> 98
-    line [92, 93, 94, 95, 97]
+    line [92, 93, 94, 95, 97, 97]
 ```
 
-2026-10-18 92 → 2026-10-31 97（+5）
+2026-10-18 92 → 2026-11-01 97（+5）
 
 
 ---

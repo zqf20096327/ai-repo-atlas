@@ -1,6 +1,6 @@
 # SnowLeopard-io/CogitoAgent
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SnowLeopard-io/CogitoAgent) · [官网](https://snowleopard-io.github.io/CogitoAgent/) · 组织维护 · 中文 README
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/SnowLeopard-io/CogitoAgent) · [官网](https://snowleopard-io.github.io/CogitoAgent/) · 组织维护 · 中文 README
 
 **本地优先的自主 AI 智能体，替用户持续思考并操作工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SnowLeopard-io/CogitoAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-31 33（+0）
+2026-10-18 33 → 2026-11-01 33（+0）
 
 
 ---

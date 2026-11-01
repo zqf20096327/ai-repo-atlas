@@ -1,6 +1,6 @@
 # r-Larch/OpenAi.JsonSchema
 
-⭐ 16 · C# · MIT · 推送 2026-05-12 · [GitHub](https://github.com/r-Larch/OpenAi.JsonSchema) · 个人维护
+⭐ 17 · C# · MIT · 推送 2026-05-12 · [GitHub](https://github.com/r-Larch/OpenAi.JsonSchema) · 个人维护
 
 **为 OpenAI Structured Outputs 生成 JSON Schema 的 C# 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "r-Larch/OpenAi.JsonSchema 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 17（+1）
 
 
 ---

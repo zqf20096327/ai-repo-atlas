@@ -1,6 +1,6 @@
 # synapticore-io/marimo-flow
 
-⭐ 15 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/synapticore-io/marimo-flow) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/synapticore-io/marimo-flow) · 组织维护
 
 **面向物理信息 ML 的多智能体科学计算平台，编排 PINA 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "synapticore-io/marimo-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

@@ -45,12 +45,12 @@ TypeScript/npm 库，为 AI persona 提供有状态的性格（Big Five + MBTI�
 ```mermaid
 xychart-beta
     title "Ahmed-KHI/digital-companion-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

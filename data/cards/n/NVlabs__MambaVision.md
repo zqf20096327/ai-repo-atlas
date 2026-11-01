@@ -1,6 +1,6 @@
 # NVlabs/MambaVision
 
-⭐ 2,246 · Python · NOASSERTION · 推送 2026-03-11 · [GitHub](https://github.com/NVlabs/MambaVision) · [官网](https://arxiv.org/abs/2407.08083) · 组织维护
+⭐ 2,247 · Python · NOASSERTION · 推送 2026-03-11 · [GitHub](https://github.com/NVlabs/MambaVision) · [官网](https://arxiv.org/abs/2407.08083) · 组织维护
 
 **混合 Mamba-Transformer 视觉骨干的 PyTorch 官方实现**
 
@@ -45,13 +45,13 @@ NVIDIA 发布的 CVPR 2025 论文官方 PyTorch 实现：提出结合自注意�
 
 ```mermaid
 xychart-beta
-    title "NVlabs/MambaVision 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2241 --> 2247
-    line [2242, 2243, 2244, 2245, 2246]
+    title "NVlabs/MambaVision 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2241 --> 2248
+    line [2242, 2243, 2244, 2245, 2246, 2247]
 ```
 
-2026-10-18 2,242 → 2026-10-31 2,246（+4）
+2026-10-18 2,242 → 2026-11-01 2,247（+5）
 
 
 ---

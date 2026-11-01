@@ -1,6 +1,6 @@
 # rergards/mempalace-code
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/rergards/mempalace-code) · [官网](https://pypi.org/project/mempalace-code/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/rergards/mempalace-code) · [官网](https://pypi.org/project/mempalace-code/) · 个人维护
 
 **本地优先的 AI 编程记忆层：29 个 MCP 工具+时序知识图谱+本地向量检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rergards/mempalace-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-31 24（+1）
+2026-10-18 23 → 2026-11-01 24（+1）
 
 
 ---

@@ -46,13 +46,13 @@ Eikos 是 MIT 许可的开放类型化决策模型家族，含 4B 与 27B 两档
 
 ```mermaid
 xychart-beta
-    title "caiovicentino/eikos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "caiovicentino/eikos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 40 --> 44
-    line [41, 43]
+    line [41, 43, 43]
 ```
 
-2026-10-18 41 → 2026-10-31 43（+2）
+2026-10-18 41 → 2026-11-01 43（+2）
 
 
 ---

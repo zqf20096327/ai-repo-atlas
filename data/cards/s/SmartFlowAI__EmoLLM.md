@@ -1,6 +1,6 @@
 # SmartFlowAI/EmoLLM
 
-⭐ 1,796 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/SmartFlowAI/EmoLLM) · [官网](https://openxlab.org.cn/apps/detail/chg0901/EmoLLMV3.0) · 组织维护 · 中文 README
+⭐ 1,797 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/SmartFlowAI/EmoLLM) · [官网](https://openxlab.org.cn/apps/detail/chg0901/EmoLLMV3.0) · 组织维护 · 中文 README
 
 **面向心理健康辅导的开源中文大模型及微调/数据/评测全链路仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SmartFlowAI/EmoLLM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1789 --> 1797
-    line [1790, 1793, 1795, 1796, 1796]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 1789 --> 1798
+    line [1790, 1793, 1795, 1796, 1797]
 ```
 
-2026-10-18 1,790 → 2026-10-31 1,796（+6）
+2026-10-18 1,790 → 2026-11-01 1,797（+7）
 
 
 ---

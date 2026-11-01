@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/vertex-ai-samples
 
-⭐ 791 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/GoogleCloudPlatform/vertex-ai-samples) · [官网](https://cloud.google.com/vertex-ai) · 组织维护
+⭐ 791 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/GoogleCloudPlatform/vertex-ai-samples) · [官网](https://cloud.google.com/vertex-ai) · 组织维护
 
 **Vertex AI 官方示例库：notebook 与代码演示 ML/生成式 AI 工作流**
 
@@ -44,13 +44,13 @@ GoogleCloudPlatform 维护的示例资源库，收录 notebook、代码示例、
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/vertex-ai-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31"]
+    title "GoogleCloudPlatform/vertex-ai-samples 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 789 --> 793
-    line [790, 791, 792, 791]
+    line [790, 791, 792, 791, 791]
 ```
 
-2026-10-18 790 → 2026-10-31 791（+1）
+2026-10-18 790 → 2026-11-01 791（+1）
 
 
 ---

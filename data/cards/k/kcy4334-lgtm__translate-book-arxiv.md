@@ -1,6 +1,6 @@
 # kcy4334-lgtm/translate-book-arxiv
 
-⭐ 37 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kcy4334-lgtm/translate-book-arxiv) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kcy4334-lgtm/translate-book-arxiv) · 个人维护
 
 **把 arXiv 论文 LaTeX 源码翻译成书籍 PDF 的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kcy4334-lgtm/translate-book-arxiv 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 13 --> 39
-    line [15, 16, 33, 37, 37]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 13 --> 40
+    line [15, 16, 33, 37, 38]
 ```
 
-2026-10-18 15 → 2026-10-31 37（+22）
+2026-10-18 15 → 2026-11-01 38（+23）
 
 
 ---

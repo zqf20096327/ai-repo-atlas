@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "loganthorneloe/ai-for-software-engineers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    title "loganthorneloe/ai-for-software-engineers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1373 --> 1377
-    line [1374, 1375, 1376]
+    line [1374, 1375, 1376, 1376]
 ```
 
-2026-10-18 1,374 → 2026-10-31 1,376（+2）
+2026-10-18 1,374 → 2026-11-01 1,376（+2）
 
 
 ---

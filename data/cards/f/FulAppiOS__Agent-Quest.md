@@ -1,6 +1,6 @@
 # FulAppiOS/Agent-Quest
 
-⭐ 169 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FulAppiOS/Agent-Quest) · [官网](https://www.fulvioscichilone.it/agent-quest/) · 个人维护
+⭐ 171 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FulAppiOS/Agent-Quest) · [官网](https://www.fulvioscichilone.it/agent-quest/) · 个人维护
 
 **把 Claude Code/Codex 会话可视化为中世纪村庄英雄的实时监控面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FulAppiOS/Agent-Quest 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 156 --> 170
-    line [157, 160, 162, 163, 165, 164, 166, 167, 169]
+    title "FulAppiOS/Agent-Quest 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 156 --> 172
+    line [157, 160, 162, 163, 165, 164, 166, 167, 169, 171]
 ```
 
-2026-10-18 157 → 2026-10-31 169（+12）
+2026-10-18 157 → 2026-11-01 171（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # dwgx/YuKiKo
 
-⭐ 21 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/dwgx/YuKiKo) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/dwgx/YuKiKo) · 个人维护 · 中文 README
 
 **QQ 群聊/私聊 AI 机器人：多模型对话+Agent+插件+WebUI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dwgx/YuKiKo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-18 20 → 2026-10-31 21（+1）
+2026-10-18 20 → 2026-11-01 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DVPombo/SOLETE
 
-⭐ 15 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/DVPombo/SOLETE) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/DVPombo/SOLETE) · 个人维护
 
 **风-光-气象 colocated 数据集清洗与机器学习预测工具包**
 
@@ -47,12 +47,12 @@ SOLETE 项目的一体化仓库，包含两半：数据清洗与质量控制流�
 ```mermaid
 xychart-beta
     title "DVPombo/SOLETE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 15（+1）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DoubangoTelecom/ultimateALPR-SDK
 
-⭐ 747 · C++ · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/DoubangoTelecom/ultimateALPR-SDK) · [官网](https://www.doubango.org/webapps/alpr/) · 组织维护
+⭐ 748 · C++ · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/DoubangoTelecom/ultimateALPR-SDK) · [官网](https://www.doubango.org/webapps/alpr/) · 组织维护
 
 **给开发者的深度学习车牌识别（ANPR/ALPR）SDK，跨平台多语言 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DoubangoTelecom/ultimateALPR-SDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 746 --> 748
-    line [747, 747]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 746 --> 749
+    line [747, 748]
 ```
 
-2026-10-18 747 → 2026-10-31 747（+0）
+2026-10-18 747 → 2026-11-01 748（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 04mg/caw
 
-⭐ 109 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/04mg/caw) · [官网](https://caw.rocks) · 个人维护
+⭐ 110 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/04mg/caw) · [官网](https://caw.rocks) · 个人维护
 
 **在浏览器中并排运行与管理多个 AI 编程 Agent 的 Web 界面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "04mg/caw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 107 --> 110
-    line [108, 109, 109]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 107 --> 111
+    line [108, 109, 110]
 ```
 
-2026-10-18 108 → 2026-10-31 109（+1）
+2026-10-18 108 → 2026-11-01 110（+2）
 
 
 ---

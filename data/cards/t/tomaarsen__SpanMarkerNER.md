@@ -44,13 +44,13 @@ SpanMarker 是构建在 🤗 Transformers 之上的命名实体识别（NER）�
 
 ```mermaid
 xychart-beta
-    title "tomaarsen/SpanMarkerNER 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "tomaarsen/SpanMarkerNER 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 474 --> 477
-    line [476, 475]
+    line [476, 475, 475]
 ```
 
-2026-10-18 476 → 2026-10-31 475（-1）
+2026-10-18 476 → 2026-11-01 475（-1）
 
 
 ---

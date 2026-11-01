@@ -1,6 +1,6 @@
 # menkesu/awesome-pm-skills
 
-⭐ 453 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/menkesu/awesome-pm-skills) · [官网](https://genaipm.com) · 个人维护
+⭐ 454 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/menkesu/awesome-pm-skills) · [官网](https://genaipm.com) · 个人维护
 
 **产品经理工作流技能集：25 个基于播客内容的 AI 技能文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "menkesu/awesome-pm-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 443 --> 454
-    line [444, 446, 447, 448, 449, 450, 451, 453]
+    title "menkesu/awesome-pm-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 443 --> 455
+    line [444, 446, 447, 448, 449, 450, 451, 453, 454]
 ```
 
-2026-10-18 444 → 2026-10-31 453（+9）
+2026-10-18 444 → 2026-11-01 454（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # Marvae/douban-cli
 
-⭐ 200 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Marvae/douban-cli) · [官网](https://www.npmjs.com/package/@marvae24/douban-cli) · 个人维护 · 中文 README
+⭐ 201 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Marvae/douban-cli) · [官网](https://www.npmjs.com/package/@marvae24/douban-cli) · 个人维护 · 中文 README
 
 **豆瓣命令行工具 + AI Agent Skill：查影书、备份记录、AI 代标记评分**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Marvae/douban-cli 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 20 --> 216
-    line [36, 37, 118, 134, 140, 153, 183, 191, 196, 200]
+    title "Marvae/douban-cli 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 20 --> 217
+    line [36, 37, 118, 134, 140, 153, 183, 191, 196, 200, 201]
 ```
 
-2026-10-22 36 → 2026-10-31 200（+164）
+2026-10-22 36 → 2026-11-01 201（+165）
 
 
 ---

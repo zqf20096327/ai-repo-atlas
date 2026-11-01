@@ -1,6 +1,6 @@
 # markster/markster-os
 
-⭐ 51 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/markster/markster-os) · [官网](https://markster.ai/) · 组织维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/markster/markster-os) · [官网](https://markster.ai/) · 组织维护
 
 **在 AI agent 内运行的 B2B 销售/GTM 方法论与技能体系**
 
@@ -46,12 +46,12 @@ Markster OS 是一套基于 ScaleOS 方法论的 B2B GTM（进入市场）操作
 ```mermaid
 xychart-beta
     title "markster/markster-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-31 51（+0）
+2026-10-18 51 → 2026-11-01 52（+1）
 
 
 ---

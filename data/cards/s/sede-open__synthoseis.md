@@ -1,6 +1,6 @@
 # sede-open/synthoseis
 
-⭐ 134 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sede-open/synthoseis) · 组织维护
+⭐ 134 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sede-open/synthoseis) · 组织维护
 
 **为深度学习生成带标签的合成地震训练数据的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sede-open/synthoseis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 131 --> 135
     line [132, 134, 134]
 ```
 
-2026-10-18 132 → 2026-10-31 134（+2）
+2026-10-18 132 → 2026-11-01 134（+2）
 
 
 ---

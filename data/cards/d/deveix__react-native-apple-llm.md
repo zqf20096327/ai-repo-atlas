@@ -1,6 +1,6 @@
 # deveix/react-native-apple-llm
 
-⭐ 346 · Swift · MIT · 推送 2026-01-17 · [GitHub](https://github.com/deveix/react-native-apple-llm) · 个人维护
+⭐ 347 · Swift · MIT · 推送 2026-01-17 · [GitHub](https://github.com/deveix/react-native-apple-llm) · 个人维护
 
 **React Native 插件：调用 Apple 端侧 Foundation Models**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deveix/react-native-apple-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 345 --> 347
-    line [346, 346]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 345 --> 348
+    line [346, 347]
 ```
 
-2026-10-18 346 → 2026-10-31 346（+0）
+2026-10-18 346 → 2026-11-01 347（+1）
 
 
 ---

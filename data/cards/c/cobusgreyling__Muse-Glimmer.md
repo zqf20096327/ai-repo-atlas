@@ -1,6 +1,6 @@
 # cobusgreyling/Muse-Glimmer
 
-⭐ 25 · JavaScript · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/cobusgreyling/Muse-Glimmer) · [官网](https://huggingface.co/meta-models/Muse-Glimmer-30B) · 个人维护
+⭐ 26 · JavaScript · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/cobusgreyling/Muse-Glimmer) · [官网](https://huggingface.co/meta-models/Muse-Glimmer-30B) · 个人维护
 
 **Muse Glimmer 30B 本地 agent 模型的离线交互实验室与指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cobusgreyling/Muse-Glimmer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 26]
 ```
 
-2026-10-18 23 → 2026-10-31 25（+2）
+2026-10-18 23 → 2026-11-01 26（+3）
 
 
 ---

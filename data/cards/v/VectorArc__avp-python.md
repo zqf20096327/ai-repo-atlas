@@ -1,6 +1,6 @@
 # VectorArc/avp-python
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/VectorArc/avp-python) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/VectorArc/avp-python) · 组织维护
 
 **多智能体间直接传输 KV-cache 的 Python SDK**
 
@@ -45,12 +45,12 @@ Agent Vector Protocol 的 Python SDK：在 LLM 智能体交接时传输 KV-cache
 ```mermaid
 xychart-beta
     title "VectorArc/avp-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-31 29（+0）
+2026-10-18 29 → 2026-11-01 30（+1）
 
 
 ---

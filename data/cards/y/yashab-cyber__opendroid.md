@@ -1,6 +1,6 @@
 # yashab-cyber/opendroid
 
-⭐ 1,225 · Kotlin · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/yashab-cyber/opendroid) · [官网](https://yashab-cyber.github.io/opendroid/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **运行在 Android 手机上的自主 AI 代理应用，替用户执行任务**
 
@@ -11,7 +11,7 @@ OpenDroid 是一个 Android 原生应用（Kotlin/Jetpack Compose，Dagger-Hilt 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # SoFluffyOS/lumide
 
-⭐ 141 · 推送 2026-10-21 · [GitHub](https://github.com/SoFluffyOS/lumide) · [官网](https://lumide.dev) · 组织维护
+⭐ 142 · 推送 2026-10-21 · [GitHub](https://github.com/SoFluffyOS/lumide) · [官网](https://lumide.dev) · 组织维护
 
 **Flutter 构建的桌面代码编辑器，内置 AI agent 接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SoFluffyOS/lumide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 129 --> 142
-    line [130, 131, 139, 141, 141]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 129 --> 143
+    line [130, 131, 139, 141, 142]
 ```
 
-2026-10-18 130 → 2026-10-31 141（+11）
+2026-10-18 130 → 2026-11-01 142（+12）
 
 
 ---

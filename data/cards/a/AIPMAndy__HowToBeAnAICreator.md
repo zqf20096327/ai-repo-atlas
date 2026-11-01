@@ -1,6 +1,6 @@
 # AIPMAndy/HowToBeAnAICreator
 
-⭐ 15 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/HowToBeAnAICreator) · [官网](https://aipmandy.github.io/HowToBeAnAICreator/) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/HowToBeAnAICreator) · [官网](https://aipmandy.github.io/HowToBeAnAICreator/) · 个人维护 · 中文 README
 
 **AI 博主实操手册：59 张操作卡教新手起号到接商单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/HowToBeAnAICreator 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 7 --> 16
-    line [8, 9, 10, 15]
+    title "AIPMAndy/HowToBeAnAICreator 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 6 --> 33
+    line [8, 9, 10, 15, 31]
 ```
 
-2026-10-19 8 → 2026-10-31 15（+7）
+2026-10-19 8 → 2026-11-01 31（+23）
 
 
 ---

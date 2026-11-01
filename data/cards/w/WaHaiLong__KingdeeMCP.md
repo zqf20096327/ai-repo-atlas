@@ -1,6 +1,6 @@
 # WaHaiLong/KingdeeMCP
 
-⭐ 126 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WaHaiLong/KingdeeMCP) · [官网](https://wahailong.github.io/KingdeeMCP/) · 个人维护 · 中文 README
+⭐ 127 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WaHaiLong/KingdeeMCP) · [官网](https://wahailong.github.io/KingdeeMCP/) · 个人维护 · 中文 README
 
 **让 AI 助手用自然语言操作金蝶云星空 ERP 的 MCP 服务端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WaHaiLong/KingdeeMCP 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 110 --> 127
-    line [111, 112, 116, 117, 119, 120, 122, 123, 125, 126]
+    title "WaHaiLong/KingdeeMCP 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 110 --> 128
+    line [111, 112, 116, 117, 119, 120, 122, 123, 125, 126, 127]
 ```
 
-2026-10-18 111 → 2026-10-31 126（+15）
+2026-10-18 111 → 2026-11-01 127（+16）
 
 
 ---

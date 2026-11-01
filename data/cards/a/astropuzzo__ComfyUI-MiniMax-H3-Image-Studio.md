@@ -1,6 +1,6 @@
 # astropuzzo/ComfyUI-MiniMax-H3-Image-Studio
 
-⭐ 212 · Python · Unlicense · 推送 2026-09-30 · [GitHub](https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio) · [官网](https://docs.comfy.org/tutorials/video/minimax/minimax-h3) · 个人维护
+⭐ 213 · Python · Unlicense · 推送 2026-09-30 · [GitHub](https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio) · [官网](https://docs.comfy.org/tutorials/video/minimax/minimax-h3) · 个人维护
 
 **ComfyUI 节点包：MiniMax H3 文生图与参考图编辑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "astropuzzo/ComfyUI-MiniMax-H3-Image-Studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 206 --> 213
-    line [207, 208, 209, 210, 209, 210, 212]
+    title "astropuzzo/ComfyUI-MiniMax-H3-Image-Studio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 206 --> 214
+    line [207, 208, 209, 210, 209, 210, 212, 213]
 ```
 
-2026-10-18 207 → 2026-10-31 212（+5）
+2026-10-18 207 → 2026-11-01 213（+6）
 
 
 ---

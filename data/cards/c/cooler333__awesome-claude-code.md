@@ -1,6 +1,6 @@
 # cooler333/awesome-claude-code
 
-⭐ 14 · Python · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/cooler333/awesome-claude-code) · [官网](https://coolerov.com) · 个人维护 · 中文 README
+⭐ 14 · Python · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/cooler333/awesome-claude-code) · [官网](https://coolerov.com) · 个人维护 · 中文 README
 
 **Claude Code 与 AI agent 工具的星标排行策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cooler333/awesome-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AI-Application-and-Integration-Lab/MegaRAG
 
-⭐ 74 · Python · NOASSERTION · 推送 2026-04-17 · [GitHub](https://github.com/AI-Application-and-Integration-Lab/MegaRAG) · 组织维护
+⭐ 75 · Python · NOASSERTION · 推送 2026-04-17 · [GitHub](https://github.com/AI-Application-and-Integration-Lab/MegaRAG) · 组织维护
 
 **构建多模态知识图谱并实现文档全局视觉问答的 RAG 系统**
 
@@ -45,12 +45,12 @@ ACL 2026 论文的配套实现：将 PDF 文档解析后构建多模态知识图
 ```mermaid
 xychart-beta
     title "AI-Application-and-Integration-Lab/MegaRAG 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-31"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-25", "2026-11-01"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-25 74 → 2026-10-31 74（+0）
+2026-10-25 74 → 2026-11-01 75（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mochow13/keen-code
 
-⭐ 76 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mochow13/keen-code) · [官网](https://mochow13.github.io/keen-code/) · 个人维护 · 中文 README
+⭐ 84 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mochow13/keen-code) · [官网](https://mochow13.github.io/keen-code/) · 个人维护 · 中文 README
 
 **终端 AI 编码 agent：多模型接入的命令行编程助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mochow13/keen-code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 71 --> 77
-    line [72, 73, 74, 75, 76]
+    title "mochow13/keen-code 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 71 --> 85
+    line [72, 73, 74, 75, 76, 84]
 ```
 
-2026-10-18 72 → 2026-10-31 76（+4）
+2026-10-18 72 → 2026-11-01 84（+12）
 
 
 ---

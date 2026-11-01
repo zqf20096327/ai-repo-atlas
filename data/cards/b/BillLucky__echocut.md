@@ -1,6 +1,6 @@
 # BillLucky/echocut
 
-⭐ 69 · JavaScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/BillLucky/echocut) · [官网](https://github.com/BillLucky/echocut) · 个人维护 · 中文 README
+⭐ 70 · JavaScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/BillLucky/echocut) · [官网](https://github.com/BillLucky/echocut) · 个人维护 · 中文 README
 
 **本地优先的视频 CLI：转录、加字幕、品牌包装、多平台成片**
 
@@ -46,12 +46,12 @@ echocut 是一个在本地机器上运行的命令行视频处理工具：给定
 ```mermaid
 xychart-beta
     title "BillLucky/echocut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-31 69（+0）
+2026-10-18 69 → 2026-11-01 70（+1）
 
 
 ---

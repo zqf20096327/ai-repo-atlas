@@ -1,6 +1,6 @@
 # emergencescience/histrategy
 
-⭐ 34 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/emergencescience/histrategy) · [官网](https://emergence.science/play/histrategy) · 组织维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/emergencescience/histrategy) · [官网](https://emergence.science/play/histrategy) · 组织维护 · 中文 README
 
 **LLM 驱动的历史叙事策略游戏（三国/罗马/南明）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "emergencescience/histrategy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-31 34（+1）
+2026-10-18 33 → 2026-11-01 35（+2）
 
 
 ---

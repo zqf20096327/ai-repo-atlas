@@ -1,6 +1,6 @@
 # thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease
 
-⭐ 17 · 推送 2026-10-29 · [GitHub](https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 21 · 推送 2026-10-29 · [GitHub](https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **CoreGold 虚拟信用卡服务的订阅付款教程（含 AI 工具付费）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 5 --> 18
-    line [6, 17]
+    title "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 5 --> 22
+    line [6, 17, 21]
 ```
 
-2026-10-30 6 → 2026-10-31 17（+11）
+2026-10-30 6 → 2026-11-01 21（+15）
 
 
 ---

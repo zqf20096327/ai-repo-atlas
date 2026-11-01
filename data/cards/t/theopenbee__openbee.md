@@ -46,12 +46,12 @@ OpenBee 是一个自托管（self-hosted）的数字员工服务：将 Claude Co
 ```mermaid
 xychart-beta
     title "theopenbee/openbee 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-31 34（+0）
+2026-10-18 34 → 2026-11-01 34（+0）
 
 
 ---

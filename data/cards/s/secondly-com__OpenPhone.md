@@ -1,6 +1,6 @@
 # secondly-com/OpenPhone
 
-⭐ 206 · Java · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/secondly-com/OpenPhone) · [官网](https://openphone.secondly.com/) · 组织维护
+⭐ 207 · Java · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/secondly-com/OpenPhone) · [官网](https://openphone.secondly.com/) · 组织维护
 
 **AI 原生 Android 操作系统：系统级 agent 操作手机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "secondly-com/OpenPhone 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 199 --> 207
-    line [202, 200, 202, 203, 204, 203, 205, 206, 206]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 199 --> 208
+    line [202, 200, 202, 203, 204, 203, 205, 206, 207]
 ```
 
-2026-10-18 202 → 2026-10-31 206（+4）
+2026-10-18 202 → 2026-11-01 207（+5）
 
 
 ---

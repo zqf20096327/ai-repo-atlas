@@ -1,6 +1,6 @@
 # Adoit/open-data-agent
 
-⭐ 14 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/Adoit/open-data-agent) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/Adoit/open-data-agent) · 个人维护
 
 **本地 CLI 数据库查询工具：供人及 AI agent 只读安全地用 SQL 查数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Adoit/open-data-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 13（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BrianRWagner/ai-marketing-claude-code-skills
 
-⭐ 449 · Shell · 推送 2026-03-19 · [GitHub](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) · [官网](https://www.brianrwagner.com/) · 个人维护
+⭐ 450 · Shell · 推送 2026-03-19 · [GitHub](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) · [官网](https://www.brianrwagner.com/) · 个人维护
 
 **面向 Claude Code 的营销技能包：定位/内容/外联等 19 个免费技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BrianRWagner/ai-marketing-claude-code-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 443 --> 450
-    line [444, 445, 447, 448, 449, 449]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 443 --> 451
+    line [444, 445, 447, 448, 449, 450]
 ```
 
-2026-10-18 444 → 2026-10-31 449（+5）
+2026-10-18 444 → 2026-11-01 450（+6）
 
 
 ---

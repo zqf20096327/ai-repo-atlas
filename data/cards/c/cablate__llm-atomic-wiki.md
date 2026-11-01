@@ -1,6 +1,6 @@
 # cablate/llm-atomic-wiki
 
-⭐ 151 · Shell · 推送 2026-04-20 · [GitHub](https://github.com/cablate/llm-atomic-wiki) · 个人维护 · 中文 README
+⭐ 152 · Shell · 推送 2026-04-20 · [GitHub](https://github.com/cablate/llm-atomic-wiki) · 个人维护 · 中文 README
 
 **个人知识库编译框架：扩展 Karpathy LLM Wiki 模式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cablate/llm-atomic-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 149 --> 152
-    line [150, 151, 151]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 149 --> 153
+    line [150, 151, 152]
 ```
 
-2026-10-18 150 → 2026-10-31 151（+1）
+2026-10-18 150 → 2026-11-01 152（+2）
 
 
 ---

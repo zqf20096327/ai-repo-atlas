@@ -46,12 +46,12 @@ BIRDeep 项目的研究代码仓库：提供基于 YOLOv8 的鸟鸣检测器（�
 ```mermaid
 xychart-beta
     title "GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

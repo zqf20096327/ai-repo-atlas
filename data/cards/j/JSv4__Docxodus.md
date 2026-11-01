@@ -1,6 +1,6 @@
 # JSv4/Docxodus
 
-⭐ 106 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JSv4/Docxodus) · [官网](https://jsv4.github.io/Docxodus/) · 个人维护
+⭐ 106 · C# · MIT · 推送 2026-10-31 · [GitHub](https://github.com/JSv4/Docxodus) · [官网](https://jsv4.github.io/Docxodus/) · 个人维护
 
 **面向 LLM agent 的 DOCX 工具箱：渲染/编辑/对比/锚定 markdown 投影**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JSv4/Docxodus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "JSv4/Docxodus 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 100 --> 107
-    line [101, 102, 103, 104, 105, 106]
+    line [101, 102, 103, 104, 105, 106, 106]
 ```
 
-2026-10-18 101 → 2026-10-31 106（+5）
+2026-10-18 101 → 2026-11-01 106（+5）
 
 
 ---

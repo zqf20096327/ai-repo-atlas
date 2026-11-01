@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/Android-GPU
 
-⭐ 18 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AbuZar-Ansarii/Android-GPU) · 个人维护
+⭐ 20 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AbuZar-Ansarii/Android-GPU) · 个人维护
 
 **把 Android 手机变成 PC 的离线 AI 加速器（本地 LLM 推理服务器）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbuZar-Ansarii/Android-GPU 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 7 --> 19
-    line [8, 14, 18]
+    title "AbuZar-Ansarii/Android-GPU 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 7 --> 21
+    line [8, 14, 18, 20]
 ```
 
-2026-10-29 8 → 2026-10-31 18（+10）
+2026-10-29 8 → 2026-11-01 20（+12）
 
 
 ---

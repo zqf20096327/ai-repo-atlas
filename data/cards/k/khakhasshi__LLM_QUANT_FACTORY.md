@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "khakhasshi/LLM_QUANT_FACTORY 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "khakhasshi/LLM_QUANT_FACTORY 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 69 --> 73
-    line [70, 72]
+    line [70, 72, 72]
 ```
 
-2026-10-18 70 → 2026-10-31 72（+2）
+2026-10-18 70 → 2026-11-01 72（+2）
 
 
 ---

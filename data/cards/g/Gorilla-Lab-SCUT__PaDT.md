@@ -45,13 +45,13 @@ ICLR 2026 论文官方实现。提出 Patch-as-Decodable-Token（PaDT）范式�
 
 ```mermaid
 xychart-beta
-    title "Gorilla-Lab-SCUT/PaDT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "Gorilla-Lab-SCUT/PaDT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 165 --> 168
-    line [166, 167]
+    line [166, 167, 167]
 ```
 
-2026-10-18 166 → 2026-10-31 167（+1）
+2026-10-18 166 → 2026-11-01 167（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # madebymustafa/design-taste
 
-⭐ 208 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/madebymustafa/design-taste) · 个人维护
+⭐ 209 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/madebymustafa/design-taste) · 个人维护
 
 **给 AI 编码代理的 24 个设计品味技能包，避免模板化 UI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "madebymustafa/design-taste 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 149 --> 213
-    line [154, 168, 187, 191, 193, 196, 199, 206, 208]
+    title "madebymustafa/design-taste 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 149 --> 214
+    line [154, 168, 187, 191, 193, 196, 199, 206, 208, 209]
 ```
 
-2026-10-18 154 → 2026-10-31 208（+54）
+2026-10-18 154 → 2026-11-01 209（+55）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/gym3
 
-⭐ 155 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/openai/gym3) · 组织维护
+⭐ 156 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/openai/gym3) · 组织维护
 
 **强化学习环境向量化接口库（gym 接口的改进版）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/gym3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 153 --> 156
-    line [154, 155, 155]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 153 --> 157
+    line [154, 155, 156]
 ```
 
-2026-10-18 154 → 2026-10-31 155（+1）
+2026-10-18 154 → 2026-11-01 156（+2）
 
 
 ---

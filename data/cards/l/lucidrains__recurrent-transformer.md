@@ -1,6 +1,6 @@
 # lucidrains/recurrent-transformer
 
-⭐ 25 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/lucidrains/recurrent-transformer) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/lucidrains/recurrent-transformer) · 个人维护
 
 **哈佛提出的 Recurrent Transformer 的 PyTorch 探索实现（wip）**
 
@@ -42,13 +42,13 @@ lucidrains 对 Harvard 的 Costin-Andrei Oncescu 等人提出的 Recurrent Trans
 
 ```mermaid
 xychart-beta
-    title "lucidrains/recurrent-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 23 --> 26
-    line [24, 25]
+    title "lucidrains/recurrent-transformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-10-31 25（+1）
+2026-10-18 24 → 2026-11-01 26（+2）
 
 
 ---

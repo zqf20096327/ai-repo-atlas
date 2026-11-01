@@ -1,6 +1,6 @@
 # cardmagic/classifier
 
-⭐ 741 · Ruby · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/cardmagic/classifier) · 个人维护
+⭐ 741 · Ruby · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/cardmagic/classifier) · 个人维护
 
 **Ruby 文本分类库：贝叶斯/LSI/KNN/逻辑回归/TF-IDF**
 
@@ -45,12 +45,12 @@ Ruby 文本分类 Gem，提供 Naive Bayes、LSI、k-近邻、逻辑回归与 TF
 ```mermaid
 xychart-beta
     title "cardmagic/classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 740 --> 742
     line [741, 741]
 ```
 
-2026-10-18 741 → 2026-10-31 741（+0）
+2026-10-18 741 → 2026-11-01 741（+0）
 
 
 ---

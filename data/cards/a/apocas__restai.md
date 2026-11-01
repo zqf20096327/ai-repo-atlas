@@ -1,6 +1,6 @@
 # apocas/restai
 
-⭐ 515 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/apocas/restai) · [官网](https://restai.cloud) · 个人维护
+⭐ 516 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/apocas/restai) · [官网](https://restai.cloud) · 个人维护
 
 **开源 AIaaS 平台：创建 AI 项目并通过 REST API 与 Web 界面使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "apocas/restai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 513 --> 516
-    line [514, 515, 515]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 513 --> 517
+    line [514, 515, 516]
 ```
 
-2026-10-18 514 → 2026-10-31 515（+1）
+2026-10-18 514 → 2026-11-01 516（+2）
 
 
 ---

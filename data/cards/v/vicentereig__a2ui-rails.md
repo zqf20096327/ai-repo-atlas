@@ -45,12 +45,12 @@ Google A2UI 规范的 Ruby/Rails 移植，基于 DSPy.rb 与 Turbo Streams 实�
 ```mermaid
 xychart-beta
     title "vicentereig/a2ui-rails 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

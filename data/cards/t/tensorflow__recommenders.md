@@ -1,6 +1,6 @@
 # tensorflow/recommenders
 
-⭐ 2,040 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/tensorflow/recommenders) · 组织维护
+⭐ 2,038 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/tensorflow/recommenders) · 组织维护
 
 **基于 TensorFlow 的推荐系统模型构建库**
 
@@ -44,12 +44,12 @@ TensorFlow Recommenders 是构建推荐系统模型的 TensorFlow 库，覆盖�
 ```mermaid
 xychart-beta
     title "tensorflow/recommenders 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01"]
     y-axis "stars" 2035 --> 2041
-    line [2036, 2037, 2038, 2040, 2040]
+    line [2036, 2037, 2038, 2040, 2038]
 ```
 
-2026-10-18 2,036 → 2026-10-31 2,040（+4）
+2026-10-18 2,036 → 2026-11-01 2,038（+2）
 
 
 ---

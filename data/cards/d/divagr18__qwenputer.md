@@ -1,6 +1,6 @@
 # divagr18/qwenputer
 
-⭐ 289 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/divagr18/qwenputer) · 个人维护
+⭐ 368 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/divagr18/qwenputer) · 个人维护
 
 **把 RISC-V CPU 编译进语言模型权重的实验模型：模型内精确计算**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "divagr18/qwenputer 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 35 --> 312
-    line [58, 218, 289]
+    title "divagr18/qwenputer 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 27 --> 399
+    line [58, 218, 289, 368]
 ```
 
-2026-10-29 58 → 2026-10-31 289（+231）
+2026-10-29 58 → 2026-11-01 368（+310）
 
 
 ---

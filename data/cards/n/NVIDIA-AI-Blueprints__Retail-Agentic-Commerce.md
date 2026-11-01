@@ -45,13 +45,13 @@ NVIDIA AI Blueprints 出品的 Agentic Commerce Protocol（ACP）与 Universal C
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/Retail-Agentic-Commerce 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    title "NVIDIA-AI-Blueprints/Retail-Agentic-Commerce 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01"]
     y-axis "stars" 80 --> 84
-    line [81, 82, 83]
+    line [81, 82, 83, 83]
 ```
 
-2026-10-18 81 → 2026-10-31 83（+2）
+2026-10-18 81 → 2026-11-01 83（+2）
 
 
 ---

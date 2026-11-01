@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sachitrafa/YourMemory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "sachitrafa/YourMemory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 269 --> 272
-    line [270, 271]
+    line [270, 271, 271]
 ```
 
-2026-10-18 270 → 2026-10-31 271（+1）
+2026-10-18 270 → 2026-11-01 271（+1）
 
 
 ---

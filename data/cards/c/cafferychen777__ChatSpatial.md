@@ -1,6 +1,6 @@
 # cafferychen777/ChatSpatial
 
-⭐ 46 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cafferychen777/ChatSpatial) · [官网](https://docs.cafferyang.com/) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cafferychen777/ChatSpatial) · [官网](https://docs.cafferyang.com/) · 组织维护
 
 **空间转录组分析 MCP server：自然语言调用 67 种方法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cafferychen777/ChatSpatial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    line [45, 46, 45]
 ```
 
-2026-10-18 45 → 2026-10-31 46（+1）
+2026-10-18 45 → 2026-11-01 45（+0）
 
 
 ---

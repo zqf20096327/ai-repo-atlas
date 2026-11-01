@@ -1,6 +1,6 @@
 # PacificStudio/openase
 
-⭐ 269 · Go · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/PacificStudio/openase) · [官网](https://pacificstudio.ai) · 组织维护 · 中文 README
+⭐ 270 · Go · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/PacificStudio/openase) · [官网](https://pacificstudio.ai) · 组织维护 · 中文 README
 
 **工单驱动的自动化软件工程平台，AI agent 自动领取并执行工单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PacificStudio/openase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 268 --> 270
-    line [269, 269]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 268 --> 271
+    line [269, 270]
 ```
 
-2026-10-18 269 → 2026-10-31 269（+0）
+2026-10-18 269 → 2026-11-01 270（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # study8677/open-gpt-live
 
-⭐ 18 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/study8677/open-gpt-live) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/study8677/open-gpt-live) · 个人维护 · 中文 README
 
 **自托管实时语音 AI 会话层：浏览器语音对话可打断、可观测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "study8677/open-gpt-live 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19]
 ```
 
-2026-10-18 16 → 2026-10-31 18（+2）
+2026-10-18 16 → 2026-11-01 19（+3）
 
 
 ---

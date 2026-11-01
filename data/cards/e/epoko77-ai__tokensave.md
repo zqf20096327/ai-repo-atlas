@@ -1,6 +1,6 @@
 # epoko77-ai/tokensave
 
-⭐ 25 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/epoko77-ai/tokensave) · [官网](https://github.com/epoko77-ai/tokensave) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/epoko77-ai/tokensave) · [官网](https://github.com/epoko77-ai/tokensave) · 个人维护 · 中文 README
 
 **Claude Code 多智能体 harness 的 token 成本 lint 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "epoko77-ai/tokensave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-31 25（+0）
+2026-10-18 25 → 2026-11-01 26（+1）
 
 
 ---

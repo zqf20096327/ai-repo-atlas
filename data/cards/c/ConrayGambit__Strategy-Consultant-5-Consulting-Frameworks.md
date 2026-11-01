@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    title "ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 27 --> 33
-    line [28, 29, 30, 31, 32]
+    line [28, 29, 30, 31, 32, 32]
 ```
 
-2026-10-18 28 → 2026-10-31 32（+4）
+2026-10-18 28 → 2026-11-01 32（+4）
 
 
 ---

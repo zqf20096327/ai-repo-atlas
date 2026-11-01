@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Vishai/contextual-bandit-offer-recommendation 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-22", "2026-11-01"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-22 16 → 2026-10-31 16（+0）
+2026-10-22 16 → 2026-11-01 16（+0）
 
 
 ---

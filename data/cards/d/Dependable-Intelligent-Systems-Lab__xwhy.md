@@ -1,6 +1,6 @@
 # Dependable-Intelligent-Systems-Lab/xwhy
 
-⭐ 14 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy) · [官网](https://dependable-intelligent-systems-lab.github.io/xwhy/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy) · [官网](https://dependable-intelligent-systems-lab.github.io/xwhy/) · 组织维护
 
 **模型不可知局部解释工具包：用统计距离度量生成黑盒解释**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Dependable-Intelligent-Systems-Lab/xwhy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

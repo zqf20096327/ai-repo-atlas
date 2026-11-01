@@ -1,6 +1,6 @@
 # openai/openai-cs-agents-demo
 
-⭐ 6,598 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/openai/openai-cs-agents-demo) · 组织维护
+⭐ 6,599 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/openai/openai-cs-agents-demo) · 组织维护
 
 **OpenAI Agents SDK 客服智能体示例：航班客服多 Agent 编排**
 
@@ -44,13 +44,13 @@ OpenAI 官方演示项目：基于 Agents SDK 实现航空公司客服场景，�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-cs-agents-demo 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 6588 --> 6599
-    line [6589, 6590, 6594, 6596, 6595, 6594, 6595, 6597, 6598]
+    title "openai/openai-cs-agents-demo 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 6588 --> 6600
+    line [6589, 6590, 6594, 6596, 6595, 6594, 6595, 6597, 6598, 6599]
 ```
 
-2026-10-18 6,589 → 2026-10-31 6,598（+9）
+2026-10-18 6,589 → 2026-11-01 6,599（+10）
 
 
 ---

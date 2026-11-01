@@ -44,12 +44,12 @@ ComfyUI 自定义节点扩展：针对工作流（有向无环图）应用分层
 ```mermaid
 xychart-beta
     title "phineas-pta/comfyui-auto-nodes-layout 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-30", "2026-11-01"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-30 74 → 2026-10-31 74（+0）
+2026-10-30 74 → 2026-11-01 74（+0）
 
 
 ---

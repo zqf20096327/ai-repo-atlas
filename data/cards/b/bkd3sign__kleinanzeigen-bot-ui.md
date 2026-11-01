@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bkd3sign/kleinanzeigen-bot-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    title "bkd3sign/kleinanzeigen-bot-ui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 18]
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-10-31 18（+2）
+2026-10-18 16 → 2026-11-01 18（+2）
 
 
 ---

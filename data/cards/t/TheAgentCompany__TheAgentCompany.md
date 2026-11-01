@@ -1,6 +1,6 @@
 # TheAgentCompany/TheAgentCompany
 
-⭐ 807 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/TheAgentCompany/TheAgentCompany) · [官网](https://the-agent-company.com) · 组织维护
+⭐ 808 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/TheAgentCompany/TheAgentCompany) · [官网](https://the-agent-company.com) · 组织维护
 
 **评测 LLM agent 执行真实职场任务的基准（175 项任务）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheAgentCompany/TheAgentCompany 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 796 --> 808
-    line [797, 798, 800, 802, 801, 802, 803, 804, 805, 807]
+    title "TheAgentCompany/TheAgentCompany 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 796 --> 809
+    line [797, 798, 800, 802, 801, 802, 803, 804, 805, 807, 808]
 ```
 
-2026-10-18 797 → 2026-10-31 807（+10）
+2026-10-18 797 → 2026-11-01 808（+11）
 
 
 ---

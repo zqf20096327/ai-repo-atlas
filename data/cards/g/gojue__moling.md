@@ -1,6 +1,6 @@
 # gojue/moling
 
-⭐ 339 · Go · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/gojue/moling) · [官网](https://gojue.cc) · 组织维护 · 中文 README
+⭐ 340 · Go · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/gojue/moling) · [官网](https://gojue.cc) · 组织维护 · 中文 README
 
 **本地办公自动化 MCP 服务器：让 AI 客户端操作文件与浏览器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gojue/moling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 338 --> 340
-    line [339, 339]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 338 --> 341
+    line [339, 340]
 ```
 
-2026-10-18 339 → 2026-10-31 339（+0）
+2026-10-18 339 → 2026-11-01 340（+1）
 
 
 ---

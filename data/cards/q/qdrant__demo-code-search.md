@@ -1,6 +1,6 @@
 # qdrant/demo-code-search
 
-⭐ 63 · Python · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/demo-code-search) · 组织维护
+⭐ 63 · Python · 推送 2026-10-30 · [GitHub](https://github.com/qdrant/demo-code-search) · 组织维护
 
 **Qdrant 官方代码语义搜索演示：混合检索 Qdrant 源码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/demo-code-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-10-31 63（+1）
+2026-10-18 62 → 2026-11-01 63（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L45: Every existing tool is designed for **humans to read reports**. cloud-audit-mcp is designed for **AI agents to take
 > L52:  MCP → AI agent calls tools in real-time
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "badchars/cloud-audit-mcp 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-10-31 24 → 2026-11-01 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `a174758e6e6e` · [字段定义](../../DATASET.md)*

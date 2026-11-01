@@ -1,6 +1,6 @@
 # darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP
 
-⭐ 430 · 推送 2026-10-28 · [GitHub](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) · [官网](http://gourav.is-a.dev/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP/) · 个人维护
+⭐ 432 · 推送 2026-10-28 · [GitHub](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) · [官网](http://gourav.is-a.dev/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP/) · 个人维护
 
 **AI/ML/DL/CV/NLP 项目链接合集（100+ 条目）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 423 --> 431
-    line [424, 425, 426, 427, 429, 430]
+    title "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 423 --> 433
+    line [424, 425, 426, 427, 429, 430, 432]
 ```
 
-2026-10-18 424 → 2026-10-31 430（+6）
+2026-10-18 424 → 2026-11-01 432（+8）
 
 
 ---

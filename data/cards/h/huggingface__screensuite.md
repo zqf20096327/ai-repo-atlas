@@ -1,6 +1,6 @@
 # huggingface/screensuite
 
-⭐ 148 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/screensuite) · 组织维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/screensuite) · 组织维护
 
 **GUI Agent 底层多模态模型的评测基准套件**
 
@@ -44,12 +44,12 @@ Hugging Face 维护的 GUI agent 评测套件，覆盖感知（ScreenSpot 系列
 ```mermaid
 xychart-beta
     title "huggingface/screensuite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 146 --> 149
-    line [147, 148, 148]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 146 --> 151
+    line [147, 148, 150]
 ```
 
-2026-10-18 147 → 2026-10-31 148（+1）
+2026-10-18 147 → 2026-11-01 150（+3）
 
 
 ---

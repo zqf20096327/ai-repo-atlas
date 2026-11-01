@@ -1,6 +1,6 @@
 # lyonzin/knowledge-rag
 
-⭐ 300 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lyonzin/knowledge-rag) · [官网](https://pypi.org/project/knowledge-rag/) · 个人维护
+⭐ 299 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lyonzin/knowledge-rag) · [官网](https://pypi.org/project/knowledge-rag/) · 个人维护
 
 **本地混合检索 RAG MCP 服务器：给 AI 编码代理提供知识库搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lyonzin/knowledge-rag 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-01"]
     y-axis "stars" 296 --> 302
-    line [297, 299, 300, 301, 300, 300]
+    line [297, 299, 300, 301, 300, 299]
 ```
 
-2026-10-18 297 → 2026-10-31 300（+3）
+2026-10-18 297 → 2026-11-01 299（+2）
 
 
 ---

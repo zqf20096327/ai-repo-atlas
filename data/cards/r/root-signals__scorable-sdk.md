@@ -1,6 +1,6 @@
 # root-signals/scorable-sdk
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/root-signals/scorable-sdk) · [官网](https://sdk.rootsignals.ai/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/root-signals/scorable-sdk) · [官网](https://sdk.rootsignals.ai/) · 组织维护
 
 **面向 LLM 自动化应用的评测与监控 SDK（Python/TS/CLI）**
 
@@ -43,12 +43,12 @@ Scorable 提供用于 LLM 自动化应用的测量与控制工具，形式包括
 ```mermaid
 xychart-beta
     title "root-signals/scorable-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

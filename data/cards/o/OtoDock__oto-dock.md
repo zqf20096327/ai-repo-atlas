@@ -1,6 +1,6 @@
 # OtoDock/oto-dock
 
-⭐ 196 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/OtoDock/oto-dock) · [官网](https://otodock.io) · 组织维护
+⭐ 197 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/OtoDock/oto-dock) · [官网](https://otodock.io) · 组织维护
 
 **企业自托管的 AI agent 协作平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OtoDock/oto-dock 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 190 --> 197
-    line [191, 192, 193, 195, 196]
+    title "OtoDock/oto-dock 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 190 --> 198
+    line [191, 192, 193, 195, 196, 197]
 ```
 
-2026-10-18 191 → 2026-10-31 196（+5）
+2026-10-18 191 → 2026-11-01 197（+6）
 
 
 ---

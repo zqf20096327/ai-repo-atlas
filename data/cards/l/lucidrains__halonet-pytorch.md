@@ -1,6 +1,6 @@
 # lucidrains/halonet-pytorch
 
-⭐ 200 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/lucidrains/halonet-pytorch) · 个人维护
+⭐ 199 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/lucidrains/halonet-pytorch) · 个人维护
 
 **HaloNet 注意力层的 PyTorch 实现，供视觉骨干网络使用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/halonet-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 199 --> 201
-    line [200, 200]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 198 --> 201
+    line [200, 199]
 ```
 
-2026-10-18 200 → 2026-10-31 200（+0）
+2026-10-18 200 → 2026-11-01 199（-1）
 
 
 ---

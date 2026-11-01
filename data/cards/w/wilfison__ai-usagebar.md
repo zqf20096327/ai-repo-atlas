@@ -1,6 +1,6 @@
 # wilfison/ai-usagebar
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/wilfison/ai-usagebar) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/wilfison/ai-usagebar) · 个人维护
 
 **GNOME Shell 扩展：顶栏实时显示各家 AI 订阅用量与重置倒计时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wilfison/ai-usagebar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 15]
 ```
 
-2026-10-18 12 → 2026-10-31 13（+1）
+2026-10-18 12 → 2026-11-01 15（+3）
 
 
 ---

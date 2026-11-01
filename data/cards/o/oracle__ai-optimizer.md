@@ -1,6 +1,6 @@
 # oracle/ai-optimizer
 
-⭐ 102 · Python · UPL-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/oracle/ai-optimizer) · [官网](https://www.oracle.com/database/ai-optimizer-toolkit/?source=:ex:tb:::::Githubrepo&SC=:ex:tb:::::Githubrepo&pcode=) · 组织维护
+⭐ 103 · Python · UPL-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/oracle/ai-optimizer) · [官网](https://www.oracle.com/database/ai-optimizer-toolkit/?source=:ex:tb:::::Githubrepo&SC=:ex:tb:::::Githubrepo&pcode=) · 组织维护
 
 **面向开发者的 GenAI 实验工具：在 Oracle AI 数据库上做 RAG 与 NL2SQL**
 
@@ -46,12 +46,12 @@ Oracle 维护的 Agentic 优化与实验工具包：集成 Oracle AI Database Ve
 ```mermaid
 xychart-beta
     title "oracle/ai-optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-10-18 102 → 2026-10-31 102（+0）
+2026-10-18 102 → 2026-11-01 103（+1）
 
 
 ---

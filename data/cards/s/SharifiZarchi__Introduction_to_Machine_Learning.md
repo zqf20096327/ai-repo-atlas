@@ -1,6 +1,6 @@
 # SharifiZarchi/Introduction_to_Machine_Learning
 
-⭐ 2,149 · Jupyter Notebook · 推送 2026-05-18 · [GitHub](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) · [官网](https://SharifML.ir) · 组织维护
+⭐ 2,148 · Jupyter Notebook · 推送 2026-05-18 · [GitHub](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) · [官网](https://SharifML.ir) · 组织维护
 
 **谢里夫理工大学机器学习课程：讲义、笔记与练习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SharifiZarchi/Introduction_to_Machine_Learning 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
+    title "SharifiZarchi/Introduction_to_Machine_Learning 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 2142 --> 2150
-    line [2146, 2144, 2143, 2144, 2145, 2146, 2147, 2149]
+    line [2146, 2144, 2143, 2144, 2145, 2146, 2147, 2149, 2148]
 ```
 
-2026-10-18 2,146 → 2026-10-31 2,149（+3）
+2026-10-18 2,146 → 2026-11-01 2,148（+2）
 
 
 ---

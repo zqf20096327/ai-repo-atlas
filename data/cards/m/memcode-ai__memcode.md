@@ -1,6 +1,6 @@
 # memcode-ai/memcode
 
-⭐ 18 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/memcode-ai/memcode) · [官网](https://memcode.ai/docs) · 组织维护
+⭐ 18 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/memcode-ai/memcode) · [官网](https://memcode.ai/docs) · 组织维护
 
 **带仓库持久记忆的开源终端编码 Agent 与自托管网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "memcode-ai/memcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-31 18（+1）
+2026-10-18 17 → 2026-11-01 18（+1）
 
 
 ---

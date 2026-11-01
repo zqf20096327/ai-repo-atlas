@@ -1,6 +1,6 @@
 # PndaMan/cortex
 
-⭐ 47 · Svelte · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PndaMan/cortex) · [官网](https://cortexos.study) · 个人维护
+⭐ 48 · Svelte · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PndaMan/cortex) · [官网](https://cortexos.study) · 个人维护
 
 **本地优先的桌面学习系统：把课件资料变成备考材料与引用溯源对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PndaMan/cortex 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 42 --> 48
-    line [43, 45, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 42 --> 49
+    line [43, 45, 46, 47, 48]
 ```
 
-2026-10-18 43 → 2026-10-31 47（+4）
+2026-10-18 43 → 2026-11-01 48（+5）
 
 
 ---

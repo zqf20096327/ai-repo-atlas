@@ -1,6 +1,6 @@
 # shaneholloman/codemapper
 
-⭐ 31 · Python · MIT · 推送 2025-11-04 · [GitHub](https://github.com/shaneholloman/codemapper) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把代码库/文档转成单文件 Markdown 供 LLM 使用的 Python 工具**
 
@@ -11,7 +11,7 @@ Python 编写的命令行工具：扫描本地目录或 GitHub 仓库，生成�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

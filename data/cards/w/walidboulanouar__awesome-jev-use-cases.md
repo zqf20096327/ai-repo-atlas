@@ -1,6 +1,6 @@
 # walidboulanouar/awesome-jev-use-cases
 
-⭐ 470 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/walidboulanouar/awesome-jev-use-cases) · [官网](https://ayautomate.com/jev-builds) · 个人维护
+⭐ 472 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/walidboulanouar/awesome-jev-use-cases) · [官网](https://ayautomate.com/jev-builds) · 个人维护
 
 **TypeSafe AI Jev 模型用例策展清单：74 个 demo 与 150+ 仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "walidboulanouar/awesome-jev-use-cases 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 432 --> 473
-    line [435, 442, 449, 451, 454, 456, 459, 461, 463, 466, 470]
+    title "walidboulanouar/awesome-jev-use-cases 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 432 --> 475
+    line [435, 442, 449, 451, 454, 456, 459, 461, 463, 466, 470, 472]
 ```
 
-2026-10-18 435 → 2026-10-31 470（+35）
+2026-10-18 435 → 2026-11-01 472（+37）
 
 
 ---

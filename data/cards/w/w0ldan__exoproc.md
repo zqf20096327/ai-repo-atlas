@@ -1,6 +1,6 @@
 # w0ldan/exoproc
 
-⭐ 87 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/w0ldan/exoproc) · [官网](exoproc.woldan.me) · 个人维护
+⭐ 89 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/w0ldan/exoproc) · [官网](exoproc.woldan.me) · 个人维护
 
 **面向 AI agent 的 Windows x64 进程逆向与插桩 MCP 工具集**
 
@@ -45,13 +45,13 @@ TypeScript 编写的统一 CLI 与 MCP 服务器（stdio），把 Claude Code、
 
 ```mermaid
 xychart-beta
-    title "w0ldan/exoproc 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 73 --> 88
-    line [74, 87]
+    title "w0ldan/exoproc 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 73 --> 90
+    line [74, 87, 89]
 ```
 
-2026-10-30 74 → 2026-10-31 87（+13）
+2026-10-30 74 → 2026-11-01 89（+15）
 
 
 ---

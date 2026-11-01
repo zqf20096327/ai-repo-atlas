@@ -1,6 +1,6 @@
 # Kohaku-Lab/KohakuTerrarium
 
-⭐ 537 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Kohaku-Lab/KohakuTerrarium) · [官网](https://terrarium.kohaku-lab.org/) · 组织维护 · 中文 README
+⭐ 542 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Kohaku-Lab/KohakuTerrarium) · [官网](https://terrarium.kohaku-lab.org/) · 组织维护 · 中文 README
 
 **Python 通用 AI agent 框架：构建与编排单体/多智能体**
 
@@ -46,12 +46,12 @@ KohakuTerrarium 是用 Python 编写的 agent 框架与配套应用：以 creatu
 ```mermaid
 xychart-beta
     title "Kohaku-Lab/KohakuTerrarium 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 525 --> 538
-    line [526, 527, 528, 527, 533, 535, 536, 537, 537]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 525 --> 543
+    line [526, 527, 528, 527, 533, 535, 536, 537, 542]
 ```
 
-2026-10-18 526 → 2026-10-31 537（+11）
+2026-10-18 526 → 2026-11-01 542（+16）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "visibl-ai/visibl-audiobooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "visibl-ai/visibl-audiobooks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 72 --> 75
-    line [73, 74]
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-10-31 74（+1）
+2026-10-18 73 → 2026-11-01 74（+1）
 
 
 ---

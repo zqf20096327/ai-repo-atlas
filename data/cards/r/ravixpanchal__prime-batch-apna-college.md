@@ -1,6 +1,6 @@
 # ravixpanchal/prime-batch-apna-college
 
-⭐ 63 · Jupyter Notebook · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ravixpanchal/prime-batch-apna-college) · [官网](https://www.apnacollege.in/course/prime-ai) · 个人维护
+⭐ 65 · Jupyter Notebook · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ravixpanchal/prime-batch-apna-college) · [官网](https://www.apnacollege.in/course/prime-ai) · 个人维护
 
 **Shradha Khapra AI/ML Prime Batch 课程学习笔记与代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ravixpanchal/prime-batch-apna-college 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 62 --> 66
+    line [63, 65]
 ```
 
-2026-10-18 63 → 2026-10-31 63（+0）
+2026-10-18 63 → 2026-11-01 65（+2）
 
 
 ---

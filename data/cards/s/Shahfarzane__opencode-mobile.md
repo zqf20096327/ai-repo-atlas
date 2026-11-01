@@ -1,6 +1,6 @@
 # Shahfarzane/opencode-mobile
 
-⭐ 132 · TypeScript · MIT · 推送 2026-01-15 · [GitHub](https://github.com/Shahfarzane/opencode-mobile) · 个人维护
+⭐ 133 · TypeScript · MIT · 推送 2026-01-15 · [GitHub](https://github.com/Shahfarzane/opencode-mobile) · 个人维护
 
 **OpenCode AI 编程代理的 iOS 原生移动客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Shahfarzane/opencode-mobile 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 128 --> 133
-    line [129, 130, 131, 132, 132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 128 --> 134
+    line [129, 130, 131, 132, 133]
 ```
 
-2026-10-18 129 → 2026-10-31 132（+3）
+2026-10-18 129 → 2026-11-01 133（+4）
 
 
 ---

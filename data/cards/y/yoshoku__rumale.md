@@ -1,6 +1,6 @@
 # yoshoku/rumale
 
-⭐ 920 · Ruby · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/yoshoku/rumale) · [官网](https://rubygems.org/gems/rumale) · 个人维护
+⭐ 920 · Ruby · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/yoshoku/rumale) · [官网](https://rubygems.org/gems/rumale) · 个人维护
 
 **Ruby 机器学习库：提供类 Scikit-Learn 接口的算法集合**
 
@@ -43,13 +43,13 @@ Rumale 是纯 Ruby 编写的机器学习库，提供与 Python Scikit-Learn 相�
 
 ```mermaid
 xychart-beta
-    title "yoshoku/rumale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "yoshoku/rumale 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 918 --> 921
-    line [919, 920]
+    line [919, 920, 920]
 ```
 
-2026-10-18 919 → 2026-10-31 920（+1）
+2026-10-18 919 → 2026-11-01 920（+1）
 
 
 ---

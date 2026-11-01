@@ -40,6 +40,18 @@
 > L3: Benchmark aberto de LLMs sobre o processo legislativo brasileiro, por Como Votam.
 > L5: O Teor separa compreensão factual, previsão e uso de ferramentas. Publica métricas por trilha; não transforma tarefa
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "como-votam/teor 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-10-31 30 → 2026-11-01 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `7ea344193f9e` · [字段定义](../../DATASET.md)*

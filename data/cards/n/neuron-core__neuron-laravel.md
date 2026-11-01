@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "neuron-core/neuron-laravel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "neuron-core/neuron-laravel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 121 --> 124
-    line [122, 123]
+    line [122, 123, 123]
 ```
 
-2026-10-18 122 → 2026-10-31 123（+1）
+2026-10-18 122 → 2026-11-01 123（+1）
 
 
 ---

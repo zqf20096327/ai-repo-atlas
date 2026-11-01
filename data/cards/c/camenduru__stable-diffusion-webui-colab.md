@@ -1,6 +1,6 @@
 # camenduru/stable-diffusion-webui-colab
 
-⭐ 15,899 · Jupyter Notebook · Unlicense · 推送 2025-12-16 · [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) · 个人维护
+⭐ 15,898 · Jupyter Notebook · Unlicense · 推送 2025-12-16 · [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) · 个人维护
 
 **在 Google Colab 上运行 Stable Diffusion WebUI 的笔记本合集**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "camenduru/stable-diffusion-webui-colab 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 15898 --> 15911
-    line [15910, 15906, 15905, 15906, 15904, 15902, 15901, 15899, 15899]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 15897 --> 15911
+    line [15910, 15906, 15905, 15906, 15904, 15902, 15901, 15899, 15898]
 ```
 
-2026-10-18 15,910 → 2026-10-31 15,899（-11）
+2026-10-18 15,910 → 2026-11-01 15,898（-12）
 
 
 ---

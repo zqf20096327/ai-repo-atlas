@@ -1,6 +1,6 @@
 # daturkel/learning-papers
 
-⭐ 726 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/daturkel/learning-papers) · 个人维护
+⭐ 727 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/daturkel/learning-papers) · 个人维护
 
 **机器学习里程碑论文策展清单，按技术分类整理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "daturkel/learning-papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 725 --> 728
-    line [727, 726, 726]
+    line [727, 726, 727]
 ```
 
-2026-10-18 727 → 2026-10-31 726（-1）
+2026-10-18 727 → 2026-11-01 727（+0）
 
 
 ---

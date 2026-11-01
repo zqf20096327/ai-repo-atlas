@@ -1,6 +1,6 @@
 # jmtomczak/intro_dgm
 
-⭐ 1,347 · Jupyter Notebook · MIT · 推送 2026-04-28 · [GitHub](https://github.com/jmtomczak/intro_dgm) · 个人维护
+⭐ 1,349 · Jupyter Notebook · MIT · 推送 2026-04-28 · [GitHub](https://github.com/jmtomczak/intro_dgm) · 个人维护
 
 **深度生成模型教材配套的入门示例代码集（Jupyter notebooks）**
 
@@ -45,12 +45,12 @@ Jakub M. Tomczak 所著 Springer 书籍《Deep Generative Modeling》的配套�
 ```mermaid
 xychart-beta
     title "jmtomczak/intro_dgm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 1343 --> 1348
-    line [1344, 1345, 1346, 1347, 1347]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 1343 --> 1350
+    line [1344, 1345, 1346, 1347, 1349]
 ```
 
-2026-10-18 1,344 → 2026-10-31 1,347（+3）
+2026-10-18 1,344 → 2026-11-01 1,349（+5）
 
 
 ---

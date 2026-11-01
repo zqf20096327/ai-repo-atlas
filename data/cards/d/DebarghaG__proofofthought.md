@@ -1,6 +1,6 @@
 # DebarghaG/proofofthought
 
-⭐ 377 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/DebarghaG/proofofthought) · [官网](https://debarghag.github.io/proofofthought/) · 个人维护
+⭐ 377 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DebarghaG/proofofthought) · [官网](https://debarghag.github.io/proofofthought/) · 个人维护
 
 **结合 LLM 与 Z3 定理证明器的神经符号推理 Python 库**
 
@@ -46,12 +46,12 @@ ProofOfThought 是一个 Python 3.12 库（PyPI 包名 proofofthought，导入�
 ```mermaid
 xychart-beta
     title "DebarghaG/proofofthought 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 376 --> 378
     line [377, 377]
 ```
 
-2026-10-18 377 → 2026-10-31 377（+0）
+2026-10-18 377 → 2026-11-01 377（+0）
 
 
 ---

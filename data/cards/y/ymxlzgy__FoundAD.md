@@ -1,6 +1,6 @@
 # ymxlzgy/FoundAD
 
-⭐ 91 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/ymxlzgy/FoundAD) · [官网](https://arxiv.org/pdf/2510.01934) · 组织维护
+⭐ 100 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/ymxlzgy/FoundAD) · [官网](https://arxiv.org/pdf/2510.01934) · 组织维护
 
 **基于基础视觉编码器的少样本异常检测研究实现**
 
@@ -43,13 +43,13 @@ ICLR 2026 论文 Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detect
 
 ```mermaid
 xychart-beta
-    title "ymxlzgy/FoundAD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 87 --> 92
-    line [88, 89, 91]
+    title "ymxlzgy/FoundAD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 87 --> 101
+    line [88, 89, 91, 100]
 ```
 
-2026-10-18 88 → 2026-10-31 91（+3）
+2026-10-18 88 → 2026-11-01 100（+12）
 
 
 ---

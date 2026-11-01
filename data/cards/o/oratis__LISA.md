@@ -1,6 +1,6 @@
 # oratis/LISA
 
-⭐ 176 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/oratis/LISA) · [官网](https://meetlisa.ai) · 组织维护 · 中文 README
+⭐ 177 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/oratis/LISA) · [官网](https://meetlisa.ai) · 组织维护 · 中文 README
 
 **开源 AI 个人助手：规划、写作与个人知识管理，可本地或云端运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oratis/LISA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 174 --> 177
-    line [175, 176, 176]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 174 --> 178
+    line [175, 176, 177]
 ```
 
-2026-10-18 175 → 2026-10-31 176（+1）
+2026-10-18 175 → 2026-11-01 177（+2）
 
 
 ---

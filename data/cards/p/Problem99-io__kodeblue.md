@@ -1,6 +1,6 @@
 # Problem99-io/kodeblue
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Problem99-io/kodeblue) · 组织维护
+⭐ 37 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Problem99-io/kodeblue) · 组织维护
 
 **每台 Linux 服务器一个防御 agent：SOC、事件响应与 SecOps**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Problem99-io/kodeblue 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-31"]
-    y-axis "stars" 3 --> 16
-    line [4, 15]
+    title "Problem99-io/kodeblue 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1 --> 40
+    line [4, 15, 37]
 ```
 
-2026-10-26 4 → 2026-10-31 15（+11）
+2026-10-26 4 → 2026-11-01 37（+33）
 
 
 ---

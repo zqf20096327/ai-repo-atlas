@@ -1,6 +1,6 @@
 # DevinoSolutions/anotifier-for-claude-codex-cursor
 
-⭐ 34 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) · [官网](https://anotifier.io) · 组织维护
+⭐ 35 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) · [官网](https://anotifier.io) · 组织维护
 
 **为 AI 编程 agent 提供桌面/手机通知的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DevinoSolutions/anotifier-for-claude-codex-cursor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-31 34（+1）
+2026-10-18 33 → 2026-11-01 35（+2）
 
 
 ---

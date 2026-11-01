@@ -1,6 +1,6 @@
 # FCFlenkchy/FCAE_VPN
 
-⭐ 69 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/FCFlenkchy/FCAE_VPN) · [官网](https://fcaevpn.fluxcast.dev/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **多平台翻墙 VPN 客户端，经 Cloudflare WARP 建加密隧道**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

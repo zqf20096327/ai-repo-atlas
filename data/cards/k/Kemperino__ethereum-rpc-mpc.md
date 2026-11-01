@@ -40,6 +40,18 @@
 > L6: Connect an MCP client to Ethereum or another EVM chain through an HTTP JSON-RPC endpoint. The server provides 13 foc
 > L8: The npm package and executable retain the historical spelling **`ethereum-rpc-mpc`** for compatibility. The protocol
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kemperino/ethereum-rpc-mpc 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-10-31 21 → 2026-11-01 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `2eee4f786640` · [字段定义](../../DATASET.md)*

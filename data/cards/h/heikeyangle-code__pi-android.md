@@ -1,6 +1,6 @@
 # heikeyangle-code/pi-android
 
-⭐ 15 · Kotlin · 推送 2026-10-26 · [GitHub](https://github.com/heikeyangle-code/pi-android) · 个人维护 · 中文 README
+⭐ 15 · Kotlin · 推送 2026-10-31 · [GitHub](https://github.com/heikeyangle-code/pi-android) · 个人维护 · 中文 README
 
 **在安卓手机本地运行 pi coding agent 的应用，保留完整扩展生态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heikeyangle-code/pi-android 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01"]
     y-axis "stars" 10 --> 16
     line [11, 13, 14, 15, 15]
 ```
 
-2026-10-22 11 → 2026-10-31 15（+4）
+2026-10-22 11 → 2026-11-01 15（+4）
 
 
 ---

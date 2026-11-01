@@ -40,6 +40,18 @@
 > L5: `super_projects` is a template for a containerized development environment designed to be your projects' parent dire
 > L119: - AI tooling configurations for Gemini, Cursor, VS Code, Claude, and Codex.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SamuelFrost/super_projects 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-10-31 21 → 2026-11-01 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `2fc78cff7804` · [字段定义](../../DATASET.md)*

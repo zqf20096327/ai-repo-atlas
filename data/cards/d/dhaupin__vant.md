@@ -1,6 +1,6 @@
 # dhaupin/vant
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dhaupin/vant) · [官网](https://vant.creadev.org) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/dhaupin/vant) · [官网](https://vant.creadev.org) · 个人维护
 
 **面向长期运行 agent 的记忆优先操作系统与运行时**
 
@@ -47,12 +47,12 @@ Vant 是一个用 Node.js 编写的 agent OS：将 agent 的身份、目标、�
 ```mermaid
 xychart-beta
     title "dhaupin/vant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 10 --> 16
     line [11, 12, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-10-31 15（+4）
+2026-10-18 11 → 2026-11-01 15（+4）
 
 
 ---

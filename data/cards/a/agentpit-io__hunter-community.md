@@ -1,6 +1,6 @@
 # agentpit-io/hunter-community
 
-⭐ 576 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agentpit-io/hunter-community) · [官网](https://hunter-community.agentpit.io) · 组织维护 · 中文 README
+⭐ 577 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agentpit-io/hunter-community) · [官网](https://hunter-community.agentpit.io) · 组织维护 · 中文 README
 
 **自部署多智能体投研助手：A股/港股/美股数据与本地对话分析**
 
@@ -46,12 +46,12 @@ HunterCode 社区版是 Docker Compose 自托管的金融 AI 投研终端，自�
 ```mermaid
 xychart-beta
     title "agentpit-io/hunter-community 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 566 --> 590
-    line [585, 587, 588, 568, 570, 572, 573, 575, 576, 576]
+    line [585, 587, 588, 568, 570, 572, 573, 575, 576, 577]
 ```
 
-2026-10-18 585 → 2026-10-31 576（-9）
+2026-10-18 585 → 2026-11-01 577（-8）
 
 
 ---

@@ -1,6 +1,6 @@
 # noya21th/claude-source-leaked
 
-⭐ 133 · TypeScript · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/noya21th/claude-source-leaked) · 个人维护 · 中文 README
+⭐ 134 · TypeScript · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/noya21th/claude-source-leaked) · 个人维护 · 中文 README
 
 **Claude Code v2.1.88 源码逆向分析文档：架构、隐藏功能与成本优化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noya21th/claude-source-leaked 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
 ```
 
-2026-10-18 133 → 2026-10-31 133（+0）
+2026-10-18 133 → 2026-11-01 134（+1）
 
 
 ---

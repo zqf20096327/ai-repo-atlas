@@ -1,6 +1,6 @@
 # facex-engine/facex
 
-⭐ 349 · C · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/facex-engine/facex) · [官网](https://facex-engine.github.io/facex/demo/) · 组织维护
+⭐ 350 · C · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/facex-engine/facex) · [官网](https://facex-engine.github.io/facex/demo/) · 组织维护
 
 **纯 WebAssembly/C99 浏览器端人脸全流程库：检测、3D 网格、识别、防伪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "facex-engine/facex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 347 --> 350
-    line [348, 349, 349]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 347 --> 351
+    line [348, 349, 350]
 ```
 
-2026-10-18 348 → 2026-10-31 349（+1）
+2026-10-18 348 → 2026-11-01 350（+2）
 
 
 ---

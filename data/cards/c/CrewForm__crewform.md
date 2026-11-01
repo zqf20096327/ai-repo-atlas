@@ -1,6 +1,6 @@
 # CrewForm/crewform
 
-⭐ 47 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/CrewForm/crewform) · [官网](https://crewform.vercel.app) · 组织维护
+⭐ 48 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/CrewForm/crewform) · [官网](https://crewform.vercel.app) · 组织维护
 
 **开发者用的自托管多 Agent 编排运行时，支持 MCP/A2A/AG-UI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CrewForm/crewform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-10-31 47（+0）
+2026-10-18 47 → 2026-11-01 48（+1）
 
 
 ---

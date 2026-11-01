@@ -1,6 +1,6 @@
 # ack00gar/FunGen
 
-⭐ 26 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ack00gar/FunGen) · [官网](https://fungen.app) · 个人维护
+⭐ 26 · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ack00gar/FunGen) · [官网](https://fungen.app) · 个人维护
 
 **本地运行的 funscript 编辑器与 AI 生成器，支持设备直连播放**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ack00gar/FunGen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    title "ack00gar/FunGen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 22 --> 27
-    line [23, 25, 26]
+    line [23, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-10-31 26（+3）
+2026-10-18 23 → 2026-11-01 26（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pnsk-lab/hikkaku
 
-⭐ 65 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/pnsk-lab/hikkaku) · [官网](https://pnsk-lab.github.io/hikkaku/) · 组织维护
+⭐ 66 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/pnsk-lab/hikkaku) · [官网](https://pnsk-lab.github.io/hikkaku/) · 组织维护
 
 **用 TypeScript 生成 Scratch 项目的库，附 AI 编程技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pnsk-lab/hikkaku 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-18 65 → 2026-10-31 65（+0）
+2026-10-18 65 → 2026-11-01 66（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # oalanicolas/alanstudio-framework
 
-⭐ 53 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/oalanicolas/alanstudio-framework) · [官网](https://games.alanicolas.com/framework) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/oalanicolas/alanstudio-framework) · [官网](https://games.alanicolas.com/framework) · 个人维护
 
 **供 AI agent 创建与迭代游戏的轻量 harness（非引擎）**
 
@@ -46,12 +46,12 @@ Python 编写的游戏开发 harness：提供 doctor/discover/start/guide/play/n
 ```mermaid
 xychart-beta
     title "oalanicolas/alanstudio-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
     y-axis "stars" 51 --> 54
     line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-10-31 53（+1）
+2026-10-18 52 → 2026-11-01 53（+1）
 
 
 ---

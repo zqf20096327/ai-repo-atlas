@@ -45,13 +45,13 @@ Go 编写的 Kubernetes 成本工具：读取集群 API 与 Prometheus 用量数
 
 ```mermaid
 xychart-beta
-    title "tanrikuluozlem/burn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    title "tanrikuluozlem/burn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 93 --> 102
-    line [94, 95, 101]
+    line [94, 95, 101, 101]
 ```
 
-2026-10-18 94 → 2026-10-31 101（+7）
+2026-10-18 94 → 2026-11-01 101（+7）
 
 
 ---

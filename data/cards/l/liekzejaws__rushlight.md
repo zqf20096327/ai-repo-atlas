@@ -45,13 +45,13 @@ OsmAnd 的 Android fork，面向记者、活动人士与人道工作者等高威
 
 ```mermaid
 xychart-beta
-    title "liekzejaws/rushlight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "liekzejaws/rushlight 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 76 --> 79
-    line [77, 78]
+    line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-10-31 78（+1）
+2026-10-18 77 → 2026-11-01 78（+1）
 
 
 ---

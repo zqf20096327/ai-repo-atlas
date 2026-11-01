@@ -1,6 +1,6 @@
 # harveybc/gym-fx
 
-⭐ 211 · Python · 推送 2026-10-28 · [GitHub](https://github.com/harveybc/gym-fx) · 个人维护
+⭐ 212 · Python · 推送 2026-10-28 · [GitHub](https://github.com/harveybc/gym-fx) · 个人维护
 
 **面向 FX/加密货币的 Gymnasium 交易模拟环境，供 RL 训练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harveybc/gym-fx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 209 --> 212
-    line [210, 211, 211]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 209 --> 213
+    line [210, 211, 212]
 ```
 
-2026-10-18 210 → 2026-10-31 211（+1）
+2026-10-18 210 → 2026-11-01 212（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/audio-transformers-course
 
-⭐ 529 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/audio-transformers-course) · 组织维护 · 中文 README
+⭐ 528 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/audio-transformers-course) · 组织维护 · 中文 README
 
 **面向学习者的 Transformers 音频处理免费开源课程**
 
@@ -44,12 +44,12 @@ Hugging Face 官方维护的音频 Transformers 课程内容仓库：讲解将 T
 ```mermaid
 xychart-beta
     title "huggingface/audio-transformers-course 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-01"]
     y-axis "stars" 524 --> 530
-    line [525, 526, 527, 528, 529, 529]
+    line [525, 526, 527, 528, 529, 528]
 ```
 
-2026-10-18 525 → 2026-10-31 529（+4）
+2026-10-18 525 → 2026-11-01 528（+3）
 
 
 ---

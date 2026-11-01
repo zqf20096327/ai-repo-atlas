@@ -1,6 +1,6 @@
 # Autobricks-AI/Arlo-AI-Desktop
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Autobricks-AI/Arlo-AI-Desktop) · [官网](https://arlo.autobricks.ai) · 组织维护
+⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Autobricks-AI/Arlo-AI-Desktop) · [官网](https://arlo.autobricks.ai) · 组织维护
 
 **自托管的 AI 客服与销售问答系统，本地数据、带引用回答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Autobricks-AI/Arlo-AI-Desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 20 --> 28
+    line [21, 23, 27]
 ```
 
-2026-10-18 21 → 2026-10-31 23（+2）
+2026-10-18 21 → 2026-11-01 27（+6）
 
 
 ---

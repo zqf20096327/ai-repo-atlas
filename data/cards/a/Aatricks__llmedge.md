@@ -1,6 +1,6 @@
 # Aatricks/llmedge
 
-⭐ 72 · Kotlin · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/Aatricks/llmedge) · [官网](https://aatricks.github.io/llmedge/) · 个人维护
+⭐ 73 · Kotlin · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/Aatricks/llmedge) · [官网](https://aatricks.github.io/llmedge/) · 个人维护
 
 **Android 端侧多模态推理库：在设备上运行 LLM/STT/TTS/图像视频生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Aatricks/llmedge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 70 --> 74
+    line [71, 72, 73]
 ```
 
-2026-10-18 71 → 2026-10-31 72（+1）
+2026-10-18 71 → 2026-11-01 73（+2）
 
 
 ---

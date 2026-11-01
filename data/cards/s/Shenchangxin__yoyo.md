@@ -1,6 +1,6 @@
 # Shenchangxin/yoyo
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Shenchangxin/yoyo) · [官网](https://shenchangxin.github.io/yoyo/) · 个人维护 · 中文 README
+⭐ 13 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Shenchangxin/yoyo) · [官网](https://shenchangxin.github.io/yoyo/) · 个人维护 · 中文 README
 
 **本地 Agent 工作站：桌面/浏览器/CLI 多入口编辑代码与生成短视频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Shenchangxin/yoyo 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-30", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-30 13 → 2026-10-31 13（+0）
+2026-10-30 13 → 2026-11-01 13（+0）
 
 
 ---

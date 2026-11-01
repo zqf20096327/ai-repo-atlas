@@ -1,6 +1,6 @@
 # Balaji-Kartheek/DeepFake_Detection
 
-⭐ 72 · Jupyter Notebook · 推送 2025-12-10 · [GitHub](https://github.com/Balaji-Kartheek/DeepFake_Detection) · [官网](https://github.com/Balaji-Kartheek/DeepFake_Detection/) · 个人维护
+⭐ 71 · Jupyter Notebook · 推送 2025-12-10 · [GitHub](https://github.com/Balaji-Kartheek/DeepFake_Detection) · [官网](https://github.com/Balaji-Kartheek/DeepFake_Detection/) · 个人维护
 
 **检测视频真伪的深度学习项目：CNN+GRU 分类 Real/Fake**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Balaji-Kartheek/DeepFake_Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 70 --> 73
+    line [72, 71]
 ```
 
-2026-10-18 72 → 2026-10-31 72（+0）
+2026-10-18 72 → 2026-11-01 71（-1）
 
 
 ---

@@ -45,13 +45,13 @@ Go 编写的命令行工具，为 AI 编程 agent（Claude Code、Codex、Gemini
 
 ```mermaid
 xychart-beta
-    title "kstenerud/yoloai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    title "kstenerud/yoloai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01"]
     y-axis "stars" 219 --> 223
-    line [220, 221, 222]
+    line [220, 221, 222, 222]
 ```
 
-2026-10-18 220 → 2026-10-31 222（+2）
+2026-10-18 220 → 2026-11-01 222（+2）
 
 
 ---

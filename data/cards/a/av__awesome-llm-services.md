@@ -1,6 +1,6 @@
 # av/awesome-llm-services
 
-⭐ 276 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/av/awesome-llm-services) · 个人维护
+⭐ 276 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/av/awesome-llm-services) · 个人维护
 
 **自托管 LLM 服务精选清单：161+ 个可本地运行的 AI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "av/awesome-llm-services 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "av/awesome-llm-services 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 269 --> 277
-    line [270, 271, 272, 273, 274, 275, 276]
+    line [270, 271, 272, 273, 274, 275, 276, 276]
 ```
 
-2026-10-18 270 → 2026-10-31 276（+6）
+2026-10-18 270 → 2026-11-01 276（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # SandeepAi369/SearchWala
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SandeepAi369/SearchWala) · [官网](https://sandeepai369.github.io/SearchWala/) · 个人维护
+⭐ 37 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SandeepAi369/SearchWala) · [官网](https://sandeepai369.github.io/SearchWala/) · 个人维护
 
 **本地运行的 Rust 元搜索与带引用 AI 问答引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SandeepAi369/SearchWala 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 19 --> 37
-    line [20, 29, 35, 36]
+    title "SandeepAi369/SearchWala 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 19 --> 38
+    line [20, 29, 35, 36, 37]
 ```
 
-2026-10-28 20 → 2026-10-31 36（+16）
+2026-10-28 20 → 2026-11-01 37（+17）
 
 
 ---

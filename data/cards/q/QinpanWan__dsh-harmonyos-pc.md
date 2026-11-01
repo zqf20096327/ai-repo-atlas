@@ -1,6 +1,6 @@
 # QinpanWan/dsh-harmonyos-pc
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/QinpanWan/dsh-harmonyos-pc) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/QinpanWan/dsh-harmonyos-pc) · 个人维护 · 中文 README
 
 **让 DeepSeek Harness(dsh) 在鸿蒙设备上完整运行的适配方案**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "QinpanWan/dsh-harmonyos-pc 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 24 --> 36
-    line [25, 27, 29, 31, 32, 33, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 24 --> 37
+    line [25, 27, 29, 31, 32, 33, 35, 36]
 ```
 
-2026-10-18 25 → 2026-10-31 35（+10）
+2026-10-18 25 → 2026-11-01 36（+11）
 
 
 ---

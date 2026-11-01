@@ -1,6 +1,6 @@
 # seesee75-commits/ComfyUI-MiniMaxH3-Director
 
-⭐ 333 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) · 个人维护
+⭐ 334 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) · 个人维护
 
 **ComfyUI 内的 MiniMax H3 视频时间线编辑器节点集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seesee75-commits/ComfyUI-MiniMaxH3-Director 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 319 --> 334
-    line [320, 321, 324, 326, 328, 329, 330, 332, 333]
+    title "seesee75-commits/ComfyUI-MiniMaxH3-Director 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 319 --> 335
+    line [320, 321, 324, 326, 328, 329, 330, 332, 333, 334]
 ```
 
-2026-10-18 320 → 2026-10-31 333（+13）
+2026-10-18 320 → 2026-11-01 334（+14）
 
 
 ---

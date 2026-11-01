@@ -1,6 +1,6 @@
 # papisoV/Selenequant
 
-⭐ 29 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/papisoV/Selenequant) · 个人维护 · 中文 README
+⭐ 38 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/papisoV/Selenequant) · 个人维护 · 中文 README
 
 **本地优先的 AI 量化研究平台：问题持久化、结论版本化并自动召回**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "papisoV/Selenequant 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 10 --> 30
-    line [11, 29]
+    title "papisoV/Selenequant 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 9 --> 40
+    line [11, 29, 38]
 ```
 
-2026-10-30 11 → 2026-10-31 29（+18）
+2026-10-30 11 → 2026-11-01 38（+27）
 
 
 ---

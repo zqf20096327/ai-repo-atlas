@@ -1,6 +1,6 @@
 # Abhay557/indian-fakedata
 
-⭐ 21 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Abhay557/indian-fakedata) · [官网](https://abhay557.github.io/indian-fakedata/) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Abhay557/indian-fakedata) · [官网](https://abhay557.github.io/indian-fakedata/) · 个人维护
 
 **基于印度 2011 普查统计生成仿真印度人口画像的库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abhay557/indian-fakedata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 19 --> 22
-    line [20, 21]
+    title "Abhay557/indian-fakedata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-18 20 → 2026-10-31 21（+1）
+2026-10-18 20 → 2026-11-01 22（+2）
 
 
 ---

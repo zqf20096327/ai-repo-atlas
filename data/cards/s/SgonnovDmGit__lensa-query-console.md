@@ -1,6 +1,6 @@
 # SgonnovDmGit/lensa-query-console
 
-⭐ 17 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/SgonnovDmGit/lensa-query-console) · 个人维护
+⭐ 17 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/SgonnovDmGit/lensa-query-console) · 个人维护
 
 **面向 1С 用户的查询控制台，AI 助手按元数据组装查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SgonnovDmGit/lensa-query-console 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-01"]
     y-axis "stars" 11 --> 18
     line [12, 14, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-10-31 17（+5）
+2026-10-18 12 → 2026-11-01 17（+5）
 
 
 ---

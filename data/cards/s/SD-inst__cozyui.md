@@ -1,6 +1,6 @@
 # SD-inst/cozyui
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SD-inst/cozyui) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/SD-inst/cozyui) · 个人维护
 
 **ComfyUI 的前端界面：更简便地生成 AI 图像/视频/音频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SD-inst/cozyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Oldcircle/holmes-skill
 
-⭐ 19 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Oldcircle/holmes-skill) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Oldcircle/holmes-skill) · 个人维护 · 中文 README
 
 **让 agent 像福尔摩斯一样读照片推理的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Oldcircle/holmes-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-31 19（+1）
+2026-10-18 18 → 2026-11-01 20（+2）
 
 
 ---

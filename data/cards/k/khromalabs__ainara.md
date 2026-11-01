@@ -1,6 +1,6 @@
 # khromalabs/ainara
 
-⭐ 36 · Python · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/khromalabs/ainara) · [官网](https://ainara.app) · 组织维护
+⭐ 35 · Python · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/khromalabs/ainara) · [官网](https://ainara.app) · 组织维护
 
 **本地优先的桌面 AI 伙伴框架：编排 AI agent 并热切换本地/远程模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "khromalabs/ainara 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
 ```
 
-2026-10-18 36 → 2026-10-31 36（+0）
+2026-10-18 36 → 2026-11-01 35（-1）
 
 
 ---

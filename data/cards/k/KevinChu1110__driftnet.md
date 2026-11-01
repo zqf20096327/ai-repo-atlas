@@ -1,6 +1,6 @@
 # KevinChu1110/driftnet
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KevinChu1110/driftnet) · [官网](https://kevinchu1110.github.io/driftnet/) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KevinChu1110/driftnet) · [官网](https://kevinchu1110.github.io/driftnet/) · 个人维护 · 中文 README
 
 **把聊天里分享的链接自动归类、摘要、可搜索的本地收藏目录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KevinChu1110/driftnet 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 13 --> 24
-    line [14, 19, 23]
+    title "KevinChu1110/driftnet 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 13 --> 25
+    line [14, 19, 23, 24]
 ```
 
-2026-10-29 14 → 2026-10-31 23（+9）
+2026-10-29 14 → 2026-11-01 24（+10）
 
 
 ---

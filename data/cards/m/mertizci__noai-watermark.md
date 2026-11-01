@@ -1,6 +1,6 @@
 # mertizci/noai-watermark
 
-⭐ 215 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/mertizci/noai-watermark) · [官网](https://github.com/mertizci/noai-watermark) · 个人维护
+⭐ 216 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/mertizci/noai-watermark) · [官网](https://github.com/mertizci/noai-watermark) · 个人维护
 
 **移除图像隐形 AI 水印与 AI 元数据的 CLI/Python 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mertizci/noai-watermark 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 208 --> 216
-    line [209, 210, 211, 212, 213, 214, 215]
+    title "mertizci/noai-watermark 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 208 --> 217
+    line [209, 210, 211, 212, 213, 214, 215, 216]
 ```
 
-2026-10-18 209 → 2026-10-31 215（+6）
+2026-10-18 209 → 2026-11-01 216（+7）
 
 
 ---

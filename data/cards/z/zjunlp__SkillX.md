@@ -1,6 +1,6 @@
 # zjunlp/SkillX
 
-⭐ 295 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/zjunlp/SkillX) · 组织维护 · 中文 README
+⭐ 296 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/zjunlp/SkillX) · 组织维护 · 中文 README
 
 **从智能体经验中自动构建可复用技能知识库的框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/SkillX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 292 --> 296
-    line [293, 294, 295]
+    title "zjunlp/SkillX 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 292 --> 297
+    line [293, 294, 295, 296]
 ```
 
-2026-10-18 293 → 2026-10-31 295（+2）
+2026-10-18 293 → 2026-11-01 296（+3）
 
 
 ---

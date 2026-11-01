@@ -1,6 +1,6 @@
 # captainzero93/sd-webui-forge-classic-neo-extensions
 
-⭐ 18 · Python · 推送 2026-06-05 · [GitHub](https://github.com/captainzero93/sd-webui-forge-classic-neo-extensions) · 个人维护
+⭐ 19 · Python · 推送 2026-06-05 · [GitHub](https://github.com/captainzero93/sd-webui-forge-classic-neo-extensions) · 个人维护
 
 **为 Forge Neo 更新的缺失 SD WebUI 扩展集合（FreeU/PAG/SAG 等）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "captainzero93/sd-webui-forge-classic-neo-extensions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-10-31 18（+1）
+2026-10-18 17 → 2026-11-01 19（+2）
 
 
 ---

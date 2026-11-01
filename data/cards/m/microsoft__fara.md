@@ -1,6 +1,6 @@
 # microsoft/fara
 
-⭐ 6,236 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/fara) · [官网](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · 组织维护
+⭐ 6,238 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/fara) · [官网](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · 组织维护
 
 **微软的计算机使用 agent 模型家族（4B/9B/27B）**
 
@@ -46,12 +46,12 @@ Fara1.5 是基于 Qwen3.5 训练的原生 Computer Use Agent 模型家族，含 
 ```mermaid
 xychart-beta
     title "microsoft/fara 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 6218 --> 6237
-    line [6221, 6222, 6219, 6220, 6221, 6226, 6235, 6236, 6236]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 6218 --> 6239
+    line [6221, 6222, 6219, 6220, 6221, 6226, 6235, 6236, 6238]
 ```
 
-2026-10-18 6,221 → 2026-10-31 6,236（+15）
+2026-10-18 6,221 → 2026-11-01 6,238（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # fyjgtddco/DSH-SW-and-CAD
 
-⭐ 37 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fyjgtddco/DSH-SW-and-CAD) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/fyjgtddco/DSH-SW-and-CAD) · 个人维护 · 中文 README
 
 **驱动 SolidWorks 自动机械设计的 DSH 工程模式预设**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fyjgtddco/DSH-SW-and-CAD 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 31 --> 38
-    line [32, 34, 37]
+    title "fyjgtddco/DSH-SW-and-CAD 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 31 --> 41
+    line [32, 34, 37, 40]
 ```
 
-2026-10-29 32 → 2026-10-31 37（+5）
+2026-10-29 32 → 2026-11-01 40（+8）
 
 
 ---

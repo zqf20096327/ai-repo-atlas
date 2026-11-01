@@ -1,6 +1,6 @@
 # 3DiVi/nuitrack-sdk
 
-⭐ 563 · C++ · 推送 2026-08-09 · [GitHub](https://github.com/3DiVi/nuitrack-sdk) · [官网](https://nuitrack.com) · 组织维护
+⭐ 562 · C++ · 推送 2026-08-09 · [GitHub](https://github.com/3DiVi/nuitrack-sdk) · [官网](https://nuitrack.com) · 组织维护
 
 **面向深度相机的 3D 骨骼/人体追踪 SDK，供开发者做动作应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "3DiVi/nuitrack-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01"]
     y-axis "stars" 561 --> 564
-    line [563, 562, 563, 563]
+    line [563, 562, 563, 562]
 ```
 
-2026-10-18 563 → 2026-10-31 563（+0）
+2026-10-18 563 → 2026-11-01 562（-1）
 
 
 ---

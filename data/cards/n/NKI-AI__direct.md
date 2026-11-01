@@ -1,6 +1,6 @@
 # NKI-AI/direct
 
-⭐ 321 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NKI-AI/direct) · [官网](https://docs.aiforoncology.nl/direct)
+⭐ 322 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NKI-AI/direct) · [官网](https://docs.aiforoncology.nl/direct)
 
 **面向加速 MRI 重建的 PyTorch 深度学习工具包**
 
@@ -44,13 +44,13 @@ DIRECT 是 NKI-AI（荷兰癌症研究所）维护的 PyTorch 工具包，处理
 
 ```mermaid
 xychart-beta
-    title "NKI-AI/direct 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 319 --> 322
-    line [320, 321]
+    title "NKI-AI/direct 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 319 --> 323
+    line [320, 321, 322]
 ```
 
-2026-10-18 320 → 2026-10-31 321（+1）
+2026-10-18 320 → 2026-11-01 322（+2）
 
 
 ---

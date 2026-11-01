@@ -1,6 +1,6 @@
 # varunkashyapks/Books
 
-⭐ 468 · 推送 2026-08-06 · [GitHub](https://github.com/varunkashyapks/Books) · 个人维护
+⭐ 469 · 推送 2026-08-06 · [GitHub](https://github.com/varunkashyapks/Books) · 个人维护
 
 **AI/ML/数据科学相关书籍与课程的学习资源清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "varunkashyapks/Books 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01"]
     y-axis "stars" 467 --> 470
-    line [468, 469, 468, 468]
+    line [468, 469, 468, 469]
 ```
 
-2026-10-18 468 → 2026-10-31 468（+0）
+2026-10-18 468 → 2026-11-01 469（+1）
 
 
 ---

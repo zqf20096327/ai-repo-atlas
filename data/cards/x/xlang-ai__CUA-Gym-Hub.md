@@ -1,6 +1,6 @@
 # xlang-ai/CUA-Gym-Hub
 
-⭐ 82 · JavaScript · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/xlang-ai/CUA-Gym-Hub) · [官网](https://cua-gym.xlang.ai) · 组织维护
+⭐ 83 · JavaScript · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/xlang-ai/CUA-Gym-Hub) · [官网](https://cua-gym.xlang.ai) · 组织维护
 
 **98 个自包含 mock Web 应用的集合，作为计算机使用智能体的可复现 RL 训练环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xlang-ai/CUA-Gym-Hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-10-31 82（+0）
+2026-10-18 82 → 2026-11-01 83（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kavishka-dot/libminerva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "kavishka-dot/libminerva 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 57 --> 60
-    line [59, 58]
+    line [59, 58, 58]
 ```
 
-2026-10-18 59 → 2026-10-31 58（-1）
+2026-10-18 59 → 2026-11-01 58（-1）
 
 
 ---

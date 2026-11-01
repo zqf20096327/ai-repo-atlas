@@ -1,6 +1,6 @@
 # ra0x3/systemg
 
-⭐ 19 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ra0x3/systemg) · [官网](https://sysg.dev) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ra0x3/systemg) · [官网](https://sysg.dev) · 个人维护
 
 **面向 agent 与个人用户的通用进程编排器（Rust 单二进制）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ra0x3/systemg 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 11 --> 20
-    line [12, 15, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 11 --> 21
+    line [12, 15, 18, 19, 20]
 ```
 
-2026-10-18 12 → 2026-10-31 19（+7）
+2026-10-18 12 → 2026-11-01 20（+8）
 
 
 ---

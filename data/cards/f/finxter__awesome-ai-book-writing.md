@@ -1,6 +1,6 @@
 # finxter/awesome-ai-book-writing
 
-⭐ 31 · 推送 2026-10-14 · [GitHub](https://github.com/finxter/awesome-ai-book-writing) · [官网](https://www.imagineyourbook.com/) · 个人维护
+⭐ 32 · 推送 2026-10-14 · [GitHub](https://github.com/finxter/awesome-ai-book-writing) · [官网](https://www.imagineyourbook.com/) · 个人维护
 
 **面向长篇书籍创作的 AI 工具与工作流策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "finxter/awesome-ai-book-writing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 26 --> 32
-    line [27, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 26 --> 33
+    line [27, 30, 31, 32]
 ```
 
-2026-10-18 27 → 2026-10-31 31（+4）
+2026-10-18 27 → 2026-11-01 32（+5）
 
 
 ---

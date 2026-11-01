@@ -1,6 +1,6 @@
 # yumiaura/aicommit
 
-⭐ 52 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/yumiaura/aicommit) · [官网](https://github.com/yumiaura/AICommit) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/yumiaura/aicommit) · [官网](https://github.com/yumiaura/AICommit) · 个人维护
 
 **本地 LLM 生成 Conventional Commits 提交信息的 git 子命令工具**
 
@@ -45,12 +45,12 @@ Python 编写的 git 提交信息生成 CLI：读取 staged diff，调用本地 
 ```mermaid
 xychart-beta
     title "yumiaura/aicommit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 48 --> 53
-    line [49, 51, 52, 52]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 48 --> 54
+    line [49, 51, 52, 53]
 ```
 
-2026-10-18 49 → 2026-10-31 52（+3）
+2026-10-18 49 → 2026-11-01 53（+4）
 
 
 ---

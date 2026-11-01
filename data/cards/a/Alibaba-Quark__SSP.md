@@ -1,6 +1,6 @@
 # Alibaba-Quark/SSP
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Alibaba-Quark/SSP) · [官网](https://arxiv.org/abs/2510.18821) · 组织维护 · 中文 README
+⭐ 106 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Alibaba-Quark/SSP) · [官网](https://arxiv.org/abs/2510.18821) · 组织维护 · 中文 README
 
 **训练带搜索引擎调用能力的对抗自博弈 agent 的 RL 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alibaba-Quark/SSP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 105 --> 108
+    line [107, 106]
 ```
 
-2026-10-18 107 → 2026-10-31 107（+0）
+2026-10-18 107 → 2026-11-01 106（-1）
 
 
 ---

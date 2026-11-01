@@ -1,6 +1,6 @@
 # davidrosenberg/mlcourse
 
-⭐ 587 · Jupyter Notebook · 推送 2026-06-24 · [GitHub](https://github.com/davidrosenberg/mlcourse) · [官网](https://davidrosenberg.github.io/ml2018) · 个人维护
+⭐ 586 · Jupyter Notebook · 推送 2026-06-24 · [GitHub](https://github.com/davidrosenberg/mlcourse) · [官网](https://davidrosenberg.github.io/ml2018) · 个人维护
 
 **机器学习课程讲义与作业库：面向学生的教学材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "davidrosenberg/mlcourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 586 --> 588
-    line [587, 587]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 585 --> 588
+    line [587, 586]
 ```
 
-2026-10-18 587 → 2026-10-31 587（+0）
+2026-10-18 587 → 2026-11-01 586（-1）
 
 
 ---

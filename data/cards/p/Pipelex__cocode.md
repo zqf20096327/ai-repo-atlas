@@ -1,6 +1,6 @@
 # Pipelex/cocode
 
-⭐ 20 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Pipelex/cocode) · [官网](https://pypi.org/project/cocode/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Pipelex/cocode) · [官网](https://pypi.org/project/cocode/) · 组织维护
 
 **将代码仓库转为文本并用 AI 流水线做文档与分析的 CLI**
 
@@ -46,12 +46,12 @@ Cocode 是 Python 编写的命令行工具，基于 Pipelex 框架运行 AI 工�
 ```mermaid
 xychart-beta
     title "Pipelex/cocode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 21（+1）
 
 
 ---

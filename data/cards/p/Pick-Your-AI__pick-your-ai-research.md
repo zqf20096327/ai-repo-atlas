@@ -1,6 +1,6 @@
 # Pick-Your-AI/pick-your-ai-research
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Pick-Your-AI/pick-your-ai-research) · [官网](https://github.com/orgs/Pick-Your-AI/projects/1) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Pick-Your-AI/pick-your-ai-research) · [官网](https://github.com/orgs/Pick-Your-AI/projects/1) · 组织维护
 
 **AI 系统选型规划工具的研究与数据契约仓库（类 PCPartPicker）**
 
@@ -45,12 +45,12 @@ Pick Your AI 组织的研究工作区：为仿 PCPartPicker 的 AI 系统搭建�
 ```mermaid
 xychart-beta
     title "Pick-Your-AI/pick-your-ai-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

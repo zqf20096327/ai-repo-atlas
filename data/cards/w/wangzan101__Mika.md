@@ -1,6 +1,6 @@
 # wangzan101/Mika
 
-⭐ 1,055 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wangzan101/Mika) · 个人维护 · 中文 README
+⭐ 2,571 · Kotlin · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/wangzan101/Mika) · 个人维护 · 中文 README
 
 **安卓手机上的 AI 助理，替你操作 App 与网页办事**
 
@@ -40,6 +40,18 @@ Android 应用：用户用一句话交代任务，Mika 在一块独立的后台�
 
 > L7: **你手机上的私人 AI 助理，替你操作 App、上网、把事办成。**
 > L22: > Mika is an Android app that takes a one-sentence request and carries it out on your phone. It drives apps on a pr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wangzan101/Mika 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 904 --> 2722
+    line [1055, 2571]
+```
+
+2026-10-31 1,055 → 2026-11-01 2,571（+1,516）
 
 
 ---

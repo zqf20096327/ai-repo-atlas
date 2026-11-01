@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnisKaram/Unity-Modular-Game-Architecture 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "AnisKaram/Unity-Modular-Game-Architecture 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 14 --> 18
-    line [15, 16, 17]
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-10-31 17（+2）
+2026-10-18 15 → 2026-11-01 17（+2）
 
 
 ---

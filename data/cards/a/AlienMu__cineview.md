@@ -1,6 +1,6 @@
 # AlienMu/cineview
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlienMu/cineview) · [官网](https://cineview.pages.dev) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AlienMu/cineview) · [官网](https://cineview.pages.dev) · 个人维护 · 中文 README
 
 **无依赖的原生 HTML 落地页框架，附 AI 规划技能与设计参考**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlienMu/cineview 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    title "AlienMu/cineview 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 14 --> 18
-    line [15, 17]
+    line [15, 17, 17]
 ```
 
-2026-10-30 15 → 2026-10-31 17（+2）
+2026-10-30 15 → 2026-11-01 17（+2）
 
 
 ---

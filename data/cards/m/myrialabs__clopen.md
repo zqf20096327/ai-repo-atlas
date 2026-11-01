@@ -1,6 +1,6 @@
 # myrialabs/clopen
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/myrialabs/clopen) · [官网](https://clopen.myrialabs.dev) · 组织维护
+⭐ 53 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/myrialabs/clopen) · [官网](https://clopen.myrialabs.dev) · 组织维护
 
 **多 AI 编码代理的统一工作区：聊天/终端/git/浏览器预览一体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "myrialabs/clopen 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
+    title "myrialabs/clopen 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
     y-axis "stars" 48 --> 54
-    line [49, 50, 51, 52, 53]
+    line [49, 50, 51, 52, 53, 53]
 ```
 
-2026-10-18 49 → 2026-10-31 53（+4）
+2026-10-18 49 → 2026-11-01 53（+4）
 
 
 ---

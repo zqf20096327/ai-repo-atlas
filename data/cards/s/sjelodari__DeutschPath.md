@@ -1,6 +1,6 @@
 # sjelodari/DeutschPath
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/sjelodari/DeutschPath) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/sjelodari/DeutschPath) · 个人维护
 
 **本地优先的德语学习平台：AI 导师、词汇复习与写作批改**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sjelodari/DeutschPath 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 19（-1）
 
 
 ---

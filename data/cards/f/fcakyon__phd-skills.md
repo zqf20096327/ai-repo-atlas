@@ -1,6 +1,6 @@
 # fcakyon/phd-skills
 
-⭐ 438 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fcakyon/phd-skills) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 PhD 科研的 Claude Code 插件：论文复现与实验防护栏**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

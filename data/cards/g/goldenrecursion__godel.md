@@ -1,6 +1,6 @@
 # goldenrecursion/godel
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/goldenrecursion/godel) · [官网](https://docs.golden.xyz/godel-python-sdk) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/goldenrecursion/godel) · [官网](https://docs.golden.xyz/godel-python-sdk) · 组织维护
 
 **Golden 去中心化知识图谱协议的 Python SDK**
 
@@ -45,12 +45,12 @@ Golden 协议的开源 Python SDK，为开发者与 agent 提供构建应用、�
 ```mermaid
 xychart-beta
     title "goldenrecursion/godel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-31 26（+0）
+2026-10-18 26 → 2026-11-01 26（+0）
 
 
 ---

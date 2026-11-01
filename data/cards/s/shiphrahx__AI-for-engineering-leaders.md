@@ -1,6 +1,6 @@
 # shiphrahx/AI-for-engineering-leaders
 
-⭐ 75 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/shiphrahx/AI-for-engineering-leaders) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/shiphrahx/AI-for-engineering-leaders) · 个人维护
 
 **面向工程管理者的 100 条提示词与 84 条 Agent 技能库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shiphrahx/AI-for-engineering-leaders 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 73 --> 76
-    line [74, 75, 75]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 73 --> 77
+    line [74, 75, 76]
 ```
 
-2026-10-18 74 → 2026-10-31 75（+1）
+2026-10-18 74 → 2026-11-01 76（+2）
 
 
 ---

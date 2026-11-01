@@ -1,6 +1,6 @@
 # Burakkylmz/llm-sampling-lab
 
-⭐ 17 · Python · 推送 2026-10-20 · [GitHub](https://github.com/Burakkylmz/llm-sampling-lab) · 个人维护
+⭐ 18 · Python · 推送 2026-10-20 · [GitHub](https://github.com/Burakkylmz/llm-sampling-lab) · 个人维护
 
 **面向学习者的 LLM 采样策略实验环境：用模拟与真实 API 理解 Temperature/Top-k/Top-p**
 
@@ -46,12 +46,12 @@ Python 教学项目，通过三条路径讲解 LLM 采样：用 Groq Chat Comple
 ```mermaid
 xychart-beta
     title "Burakkylmz/llm-sampling-lab 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 6 --> 18
-    line [7, 15, 17, 17]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 6 --> 19
+    line [7, 15, 17, 18]
 ```
 
-2026-10-28 7 → 2026-10-31 17（+10）
+2026-10-28 7 → 2026-11-01 18（+11）
 
 
 ---

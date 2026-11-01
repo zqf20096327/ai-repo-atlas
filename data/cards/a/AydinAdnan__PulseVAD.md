@@ -1,6 +1,6 @@
 # AydinAdnan/PulseVAD
 
-⭐ 64 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/AydinAdnan/PulseVAD) · [官网](https://pypi.org/project/pulsevad/) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/AydinAdnan/PulseVAD) · [官网](https://pypi.org/project/pulsevad/) · 个人维护
 
 **面向微控制器的超小流式语音活动检测模型（2,118 参数）**
 
@@ -45,12 +45,12 @@ PulseVAD 是一个 2,118 参数的严格因果流式语音活动检测器（VAD�
 ```mermaid
 xychart-beta
     title "AydinAdnan/PulseVAD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 65]
 ```
 
-2026-10-18 63 → 2026-10-31 64（+1）
+2026-10-18 63 → 2026-11-01 65（+2）
 
 
 ---

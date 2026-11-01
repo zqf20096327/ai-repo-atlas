@@ -45,13 +45,13 @@ Python 包，提供两种能力：AI 抓取器——分析页面压缩快照后�
 
 ```mermaid
 xychart-beta
-    title "PushpenderIndia/browsegenie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "PushpenderIndia/browsegenie 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 51 --> 54
-    line [53, 52]
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-10-31 52（-1）
+2026-10-18 53 → 2026-11-01 52（-1）
 
 
 ---

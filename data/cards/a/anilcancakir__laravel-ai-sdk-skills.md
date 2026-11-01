@@ -1,6 +1,6 @@
 # anilcancakir/laravel-ai-sdk-skills
 
-⭐ 26 · PHP · MIT · 推送 2026-09-13 · [GitHub](https://github.com/anilcancakir/laravel-ai-sdk-skills) · [官网](https://medium.com/@anilcan/level-up-your-laravel-ai-agents-with-modular-skills-39da3fe9fe4b) · 个人维护
+⭐ 27 · PHP · MIT · 推送 2026-09-13 · [GitHub](https://github.com/anilcancakir/laravel-ai-sdk-skills) · [官网](https://medium.com/@anilcan/level-up-your-laravel-ai-agents-with-modular-skills-39da3fe9fe4b) · 个人维护
 
 **Laravel AI SDK 的技能系统：以 SKILL.md 模块化定义 AI agent 能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anilcancakir/laravel-ai-sdk-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-31 26（+0）
+2026-10-18 26 → 2026-11-01 27（+1）
 
 
 ---

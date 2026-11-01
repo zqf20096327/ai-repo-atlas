@@ -1,6 +1,6 @@
 # tavily-ai/tavily-chat
 
-⭐ 79 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/tavily-ai/tavily-chat) · [官网](https://chat.tavily.com/) · 组织维护
+⭐ 79 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tavily-ai/tavily-chat) · [官网](https://chat.tavily.com/) · 组织维护
 
 **基于 Tavily 搜索/抽取/爬取的联网对话 agent 示例应用**
 
@@ -46,12 +46,12 @@ Tavily 官方提供的对话式 agent 示例仓库：用 LangGraph 构建 ReAct 
 ```mermaid
 xychart-beta
     title "tavily-ai/tavily-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-31 79（+0）
+2026-10-18 79 → 2026-11-01 79（+0）
 
 
 ---

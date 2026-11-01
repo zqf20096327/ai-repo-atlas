@@ -1,6 +1,6 @@
 # Finderchangchang/brewreel
 
-⭐ 176 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Finderchangchang/brewreel) · [官网](https://brewreel.com) · 个人维护 · 中文 README
+⭐ 177 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Finderchangchang/brewreel) · [官网](https://brewreel.com) · 个人维护 · 中文 README
 
 **用便宜 LLM 也能一条命令出竖版宣传/口播/讲课视频的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Finderchangchang/brewreel 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 169 --> 177
-    line [170, 172, 173, 172, 173, 174, 175, 176]
+    title "Finderchangchang/brewreel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 169 --> 178
+    line [170, 172, 173, 172, 173, 174, 175, 176, 177]
 ```
 
-2026-10-18 170 → 2026-10-31 176（+6）
+2026-10-18 170 → 2026-11-01 177（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # haabe/mycelium
 
-⭐ 48 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haabe/mycelium) · [官网](https://github.com/haabe/mycelium/blob/main/docs/get-started.md) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/haabe/mycelium) · [官网](https://github.com/haabe/mycelium/blob/main/docs/get-started.md) · 个人维护
 
 **Claude Code 插件：用四问门槛约束 AI 编程代理先验证再动工**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haabe/mycelium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 46 --> 49
-    line [47, 48]
+    title "haabe/mycelium 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 50]
 ```
 
-2026-10-18 47 → 2026-10-31 48（+1）
+2026-10-18 47 → 2026-11-01 50（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # lizhaoliu/modelmap
 
-⭐ 13 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lizhaoliu/modelmap) · [官网](https://modelmap.cc) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lizhaoliu/modelmap) · [官网](https://modelmap.cc) · 个人维护
 
 **Hugging Face 模型架构可视化地图：免下载权重即看结构与显存规划**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lizhaoliu/modelmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

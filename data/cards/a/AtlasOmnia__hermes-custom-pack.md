@@ -44,13 +44,13 @@ AtlasOmnia 维护的独立技能包，为 Nous Research 的 Hermes Agent 提供�
 
 ```mermaid
 xychart-beta
-    title "AtlasOmnia/hermes-custom-pack 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-31"]
+    title "AtlasOmnia/hermes-custom-pack 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 72 --> 76
-    line [73, 75]
+    line [73, 75, 75]
 ```
 
-2026-10-28 73 → 2026-10-31 75（+2）
+2026-10-28 73 → 2026-11-01 75（+2）
 
 
 ---

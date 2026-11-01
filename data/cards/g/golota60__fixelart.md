@@ -1,6 +1,6 @@
 # golota60/fixelart
 
-⭐ 41 · TypeScript · 推送 2026-08-02 · [GitHub](https://github.com/golota60/fixelart) · [官网](https://www.npmjs.com/package/fixelart) · 个人维护
+⭐ 42 · TypeScript · 推送 2026-08-02 · [GitHub](https://github.com/golota60/fixelart) · [官网](https://www.npmjs.com/package/fixelart) · 个人维护
 
 **修正 AI 生成像素画的图像处理工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "golota60/fixelart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-31 41（+0）
+2026-10-18 41 → 2026-11-01 42（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rupeshs/verity
 
-⭐ 52 · Python · 推送 2026-03-01 · [GitHub](https://github.com/rupeshs/verity) · 个人维护
+⭐ 53 · Python · 推送 2026-03-01 · [GitHub](https://github.com/rupeshs/verity) · 个人维护
 
 **本地运行的 Perplexity 式 AI 搜索问答引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rupeshs/verity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-10-31 52（+0）
+2026-10-18 52 → 2026-11-01 53（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hivementality-ai/hivemind
 
-⭐ 86 · Ruby · AGPL-3.0 · 推送 2026-09-08 · [GitHub](https://github.com/hivementality-ai/hivemind) · [官网](https://hivementality.ai) · 组织维护
+⭐ 87 · Ruby · AGPL-3.0 · 推送 2026-09-08 · [GitHub](https://github.com/hivementality-ai/hivemind) · [官网](https://hivementality.ai) · 组织维护
 
 **自托管多智能体 AI 团队平台：沙箱内协作运行 agent 团队**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hivementality-ai/hivemind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 85 --> 88
+    line [86, 87]
 ```
 
-2026-10-18 86 → 2026-10-31 86（+0）
+2026-10-18 86 → 2026-11-01 87（+1）
 
 
 ---

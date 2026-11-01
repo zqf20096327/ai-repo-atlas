@@ -41,6 +41,18 @@
 > L8: TinyLLM is a lightweight and customizable framework for efficiently training, fine-tuning, and deploying small-scale
 > L10: TinyLLM demonstrates adaptability across various datasets, particularly in embedded sensing tasks like hand gesture
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "weiserlab/TinyLLM 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 71 --> 73
+    line [72, 72]
+```
+
+2026-10-31 72 → 2026-11-01 72（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `51720ce16fae` · [字段定义](../../DATASET.md)*

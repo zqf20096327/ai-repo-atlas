@@ -1,6 +1,6 @@
 # gtt116/enikk
 
-⭐ 72 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/gtt116/enikk) · [官网](https://enikk.gaott.top/) · 个人维护 · 中文 README
+⭐ 73 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/gtt116/enikk) · [官网](https://enikk.gaott.top/) · 个人维护 · 中文 README
 
 **开源 Computer Use Agent：用任意模型自主操控桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gtt116/enikk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 71 --> 74
+    line [72, 73]
 ```
 
-2026-10-18 72 → 2026-10-31 72（+0）
+2026-10-18 72 → 2026-11-01 73（+1）
 
 
 ---

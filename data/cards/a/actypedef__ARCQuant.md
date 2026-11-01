@@ -1,6 +1,6 @@
 # actypedef/ARCQuant
 
-⭐ 34 · Cuda · 推送 2026-09-21 · [GitHub](https://github.com/actypedef/ARCQuant) · 组织维护
+⭐ 35 · Cuda · 推送 2026-09-21 · [GitHub](https://github.com/actypedef/ARCQuant) · 组织维护
 
 **面向低比特 LLM 的 NVFP4 量化框架（ACL 2026 论文代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "actypedef/ARCQuant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-31 34（+1）
+2026-10-18 33 → 2026-11-01 35（+2）
 
 
 ---

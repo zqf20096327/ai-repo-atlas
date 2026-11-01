@@ -1,6 +1,6 @@
 # datris/datris-platform-oss
 
-⭐ 13 · Scala · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/datris/datris-platform-oss) · [官网](https://datris.ai) · 组织维护
+⭐ 13 · Scala · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/datris/datris-platform-oss) · [官网](https://datris.ai) · 组织维护
 
 **面向 AI agent 的自托管数据控制平面：MCP 接入数据获取、校验与落地**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datris/datris-platform-oss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-10-31 13（+1）
+2026-10-18 12 → 2026-11-01 13（+1）
 
 
 ---

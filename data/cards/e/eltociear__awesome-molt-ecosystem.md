@@ -1,6 +1,6 @@
 # eltociear/awesome-molt-ecosystem
 
-⭐ 65 · Dockerfile · 推送 2026-10-29 · [GitHub](https://github.com/eltociear/awesome-molt-ecosystem) · 个人维护
+⭐ 66 · Dockerfile · 推送 2026-10-29 · [GitHub](https://github.com/eltociear/awesome-molt-ecosystem) · 个人维护
 
 **AI agent 变现生态实测清单：记录 230+ 平台与链上真实收入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eltociear/awesome-molt-ecosystem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 63 --> 66
-    line [65, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 63 --> 67
+    line [65, 64, 65, 66]
 ```
 
-2026-10-18 65 → 2026-10-31 65（+0）
+2026-10-18 65 → 2026-11-01 66（+1）
 
 
 ---

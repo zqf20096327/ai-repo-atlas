@@ -40,6 +40,18 @@
 > L2: A list of amazing resources for adversarial examples in deep learning
 > L14: ## Approaches for Generating Adversarial Examples in Deep Learning
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Safe-Intelligence-Lab/awesome-adversarial-examples-dl 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 267 --> 269
+    line [268, 268]
+```
+
+2026-10-31 268 → 2026-11-01 268（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `2069c89f27ce` · [字段定义](../../DATASET.md)*

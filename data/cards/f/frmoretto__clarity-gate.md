@@ -1,6 +1,6 @@
 # frmoretto/clarity-gate
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/frmoretto/clarity-gate) · [官网](https://clarity-gate.org) · 个人维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/frmoretto/clarity-gate) · [官网](https://clarity-gate.org) · 个人维护
 
 **面向 RAG 的预摄取文档认知质量校验协议与 Claude 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frmoretto/clarity-gate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 33 --> 36
-    line [34, 35]
+    title "frmoretto/clarity-gate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-31 35（+1）
+2026-10-18 34 → 2026-11-01 36（+2）
 
 
 ---

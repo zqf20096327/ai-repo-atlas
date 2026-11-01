@@ -1,6 +1,6 @@
 # lindenthomaslin/vibeguard
 
-⭐ 13 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lindenthomaslin/vibeguard) · [官网](https://thomas-ai.space) · 个人维护 · 中文 README
+⭐ 22 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lindenthomaslin/vibeguard) · [官网](https://thomas-ai.space) · 个人维护 · 中文 README
 
 **面向 AI 生成代码的终端安全审阅工具，先看 diff 再落盘**
 
@@ -45,13 +45,13 @@ Rust 编写的终端安全审阅工具，针对 AI 生成的代码项目：内�
 
 ```mermaid
 xychart-beta
-    title "lindenthomaslin/vibeguard 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 3 --> 14
-    line [4, 5, 7, 8, 9, 10, 13]
+    title "lindenthomaslin/vibeguard 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 3 --> 23
+    line [4, 5, 7, 8, 9, 10, 13, 22]
 ```
 
-2026-10-24 4 → 2026-10-31 13（+9）
+2026-10-24 4 → 2026-11-01 22（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # DarkHater01/slopbench
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/DarkHater01/slopbench) · [官网](https://darkhater01.github.io/slopbench/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DarkHater01/slopbench) · [官网](https://darkhater01.github.io/slopbench/) · 个人维护
 
 **度量 LLM 编码 agent 代码冗余的基准：pass@1 与 inflation 双指标**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DarkHater01/slopbench 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-22", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-22 15 → 2026-10-31 15（+0）
+2026-10-22 15 → 2026-11-01 15（+0）
 
 
 ---

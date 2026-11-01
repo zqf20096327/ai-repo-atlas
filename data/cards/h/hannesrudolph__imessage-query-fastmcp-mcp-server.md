@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hannesrudolph/imessage-query-fastmcp-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-31 81（+0）
+2026-10-18 81 → 2026-11-01 81（+0）
 
 
 ---

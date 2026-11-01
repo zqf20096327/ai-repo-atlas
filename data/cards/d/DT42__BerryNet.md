@@ -1,6 +1,6 @@
 # DT42/BerryNet
 
-⭐ 1,614 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/DT42/BerryNet) · 组织维护
+⭐ 1,614 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/DT42/BerryNet) · [官网](https://dt42.io) · 组织维护
 
 **树莓派等边缘设备上的深度学习智能网关**
 
@@ -39,6 +39,18 @@
 
 > L14: This project turns Raspberry Pi into an intelligent gateway with deep learning running on it. No internet connectio
 > L22: Figure 1 shows the software architecture of the project, we use Python, MQTT and AI engines to analyze images or vi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DT42/BerryNet 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 1613 --> 1615
+    line [1614, 1614]
+```
+
+2026-10-31 1,614 → 2026-11-01 1,614（+0）
 
 
 ---

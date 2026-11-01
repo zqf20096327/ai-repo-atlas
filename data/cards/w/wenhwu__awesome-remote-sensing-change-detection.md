@@ -1,6 +1,6 @@
 # wenhwu/awesome-remote-sensing-change-detection
 
-⭐ 2,365 · 推送 2026-09-09 · [GitHub](https://github.com/wenhwu/awesome-remote-sensing-change-detection) · 个人维护
+⭐ 2,366 · 推送 2026-09-09 · [GitHub](https://github.com/wenhwu/awesome-remote-sensing-change-detection) · 个人维护
 
 **遥感变化检测领域的数据集、工具、方法与竞赛汇编清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wenhwu/awesome-remote-sensing-change-detection 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2360 --> 2366
-    line [2361, 2362, 2364, 2365, 2364, 2365, 2365]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 2360 --> 2367
+    line [2361, 2362, 2364, 2365, 2364, 2365, 2366]
 ```
 
-2026-10-18 2,361 → 2026-10-31 2,365（+4）
+2026-10-18 2,361 → 2026-11-01 2,366（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # osmarluiz/sam-mosaic
 
-⭐ 37 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/osmarluiz/sam-mosaic) · [官网](https://arxiv.org/abs/2605.00256) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/osmarluiz/sam-mosaic) · [官网](https://arxiv.org/abs/2605.00256) · 个人维护
 
 **用 SAM2 对超大遥感影像做零样本分块的分割工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "osmarluiz/sam-mosaic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 37, 38]
 ```
 
-2026-10-18 35 → 2026-10-31 37（+2）
+2026-10-18 35 → 2026-11-01 38（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # keon/browser-control
 
-⭐ 3,154 · Rust · MIT · 推送 2026-08-27 · [GitHub](https://github.com/keon/browser-control) · 个人维护
+⭐ 3,153 · Rust · MIT · 推送 2026-08-27 · [GitHub](https://github.com/keon/browser-control) · 个人维护
 
 **Rust 编写的浏览器控制 CLI，供 coding agent 通过 CDP 驱动真实浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "keon/browser-control 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    title "keon/browser-control 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-01"]
     y-axis "stars" 3150 --> 3155
-    line [3151, 3152, 3153, 3154]
+    line [3151, 3152, 3153, 3154, 3153]
 ```
 
-2026-10-18 3,151 → 2026-10-31 3,154（+3）
+2026-10-18 3,151 → 2026-11-01 3,153（+2）
 
 
 ---

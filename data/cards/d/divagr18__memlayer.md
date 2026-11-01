@@ -1,6 +1,6 @@
 # divagr18/memlayer
 
-⭐ 303 · Python · MIT · 推送 2026-02-02 · [GitHub](https://github.com/divagr18/memlayer) · [官网](https://divagr18.github.io/memlayer/) · 个人维护
+⭐ 304 · Python · MIT · 推送 2026-02-02 · [GitHub](https://github.com/divagr18/memlayer) · [官网](https://divagr18.github.io/memlayer/) · 个人维护
 
 **为 LLM 添加持久记忆层的 Python 库，3 行代码接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "divagr18/memlayer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 301 --> 304
-    line [302, 303, 303]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 301 --> 305
+    line [302, 303, 304]
 ```
 
-2026-10-18 302 → 2026-10-31 303（+1）
+2026-10-18 302 → 2026-11-01 304（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tnbar/awesome-tensorial-neural-networks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "tnbar/awesome-tensorial-neural-networks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 155 --> 158
-    line [156, 157]
+    line [156, 157, 157]
 ```
 
-2026-10-18 156 → 2026-10-31 157（+1）
+2026-10-18 156 → 2026-11-01 157（+1）
 
 
 ---

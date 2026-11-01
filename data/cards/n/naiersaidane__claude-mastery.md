@@ -1,6 +1,6 @@
 # naiersaidane/claude-mastery
 
-⭐ 63 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/naiersaidane/claude-mastery) · 组织维护
+⭐ 64 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/naiersaidane/claude-mastery) · 组织维护
 
 **面向 Claude Code 的 8 个开发流程技能（问答/规划/设计/交付）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naiersaidane/claude-mastery 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 58 --> 64
-    line [59, 61, 62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 58 --> 65
+    line [59, 61, 62, 63, 64]
 ```
 
-2026-10-18 59 → 2026-10-31 63（+4）
+2026-10-18 59 → 2026-11-01 64（+5）
 
 
 ---

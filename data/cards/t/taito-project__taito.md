@@ -46,12 +46,12 @@ taito 是用 Go 编写的 AI skills/agents 打包与分发 CLI 工具：将多�
 ```mermaid
 xychart-beta
     title "taito-project/taito 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

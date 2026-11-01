@@ -39,13 +39,13 @@ facefusion/facefusion-assets 是 FaceFusion（人脸操作平台）的配套资�
 
 ```mermaid
 xychart-beta
-    title "facefusion/facefusion-assets 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31"]
+    title "facefusion/facefusion-assets 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 294 --> 298
-    line [295, 296, 297, 296]
+    line [295, 296, 297, 296, 296]
 ```
 
-2026-10-18 295 → 2026-10-31 296（+1）
+2026-10-18 295 → 2026-11-01 296（+1）
 
 
 ---

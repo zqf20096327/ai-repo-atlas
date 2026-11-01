@@ -1,6 +1,6 @@
 # amitshekhariitbhu/forward-deployed-engineer-roadmap
 
-⭐ 21 · Markdown · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 81 · Markdown · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **面向 Forward Deployed Engineer 的 AI 工程学习路线图**
 
@@ -38,6 +38,18 @@
 
 > L5: > Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with
 > L30: ### Who is a Forward Deployed Engineer?
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amitshekhariitbhu/forward-deployed-engineer-roadmap 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 15 --> 87
+    line [21, 81]
+```
+
+2026-10-31 21 → 2026-11-01 81（+60）
 
 
 ---

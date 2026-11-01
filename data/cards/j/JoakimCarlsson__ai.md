@@ -1,6 +1,6 @@
 # JoakimCarlsson/ai
 
-⭐ 46 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JoakimCarlsson/ai) · 个人维护
+⭐ 47 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JoakimCarlsson/ai) · 个人维护
 
 **Go 多厂商 AI 工具库：统一 LLM 客户端与 agent 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JoakimCarlsson/ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 43 --> 47
-    line [45, 44, 45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 43 --> 48
+    line [45, 44, 45, 46, 47]
 ```
 
-2026-10-18 45 → 2026-10-31 46（+1）
+2026-10-18 45 → 2026-11-01 47（+2）
 
 
 ---

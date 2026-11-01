@@ -1,6 +1,6 @@
 # huggingface/llm.nvim
 
-⭐ 1,193 · Lua · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm.nvim) · 组织维护
+⭐ 1,195 · Lua · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm.nvim) · 组织维护
 
 **Neovim 的 LLM 代码补全插件，支持多种推理后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/llm.nvim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31"]
+    title "huggingface/llm.nvim 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1192 --> 1196
-    line [1194, 1195, 1194, 1193]
+    line [1194, 1195, 1194, 1193, 1195]
 ```
 
-2026-10-18 1,194 → 2026-10-31 1,193（-1）
+2026-10-18 1,194 → 2026-11-01 1,195（+1）
 
 
 ---

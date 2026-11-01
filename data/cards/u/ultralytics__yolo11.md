@@ -1,6 +1,6 @@
 # ultralytics/yolo11
 
-⭐ 39 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo11) · [官网](https://platform.ultralytics.com/ultralytics/yolo11) · 组织维护
+⭐ 40 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo11) · [官网](https://platform.ultralytics.com/ultralytics/yolo11) · 组织维护
 
 **YOLO11 模型发现页：目标检测/分割/分类/姿态/旋转框/跟踪**
 
@@ -46,12 +46,12 @@ Ultralytics YOLO11 的轻量发现页（discovery page），规范的实现、�
 ```mermaid
 xychart-beta
     title "ultralytics/yolo11 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 35 --> 41
+    line [36, 37, 38, 39, 40]
 ```
 
-2026-10-18 36 → 2026-10-31 39（+3）
+2026-10-18 36 → 2026-11-01 40（+4）
 
 
 ---

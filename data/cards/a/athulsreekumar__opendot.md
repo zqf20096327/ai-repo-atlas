@@ -41,6 +41,18 @@ Mac 与 Windows 桌面应用（Electron + React），提供名为 Dots 的单职
 > L24: Most AI apps give you one chat that forgets everything and can't do anything on its own. OpenDot gives you a **team
 > L88:  Claude, GPT, Gemini, Grok, Mistral, DeepSeek, OpenRouter, Groq, or fully local with Ollama, LM Studio, llama.cpp o
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "athulsreekumar/opendot 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-10-31 13 → 2026-11-01 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `e31821c030b1` · [字段定义](../../DATASET.md)*

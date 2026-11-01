@@ -1,6 +1,6 @@
 # bigai-nlco/LooGLE
 
-⭐ 200 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/bigai-nlco/LooGLE) · 组织维护
+⭐ 201 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/bigai-nlco/LooGLE) · 组织维护
 
 **LLM 长上下文理解评测基准：超长文档与 7 类任务数据集**
 
@@ -45,12 +45,12 @@ ACL 2024 论文配套的长上下文评测基准：收录 2022 年后真实长�
 ```mermaid
 xychart-beta
     title "bigai-nlco/LooGLE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 199 --> 201
-    line [200, 200]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 199 --> 202
+    line [200, 201]
 ```
 
-2026-10-18 200 → 2026-10-31 200（+0）
+2026-10-18 200 → 2026-11-01 201（+1）
 
 
 ---

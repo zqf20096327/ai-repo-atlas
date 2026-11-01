@@ -1,6 +1,6 @@
 # tensorflow/quantum
 
-⭐ 2,202 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tensorflow/quantum) · [官网](https://www.tensorflow.org/quantum) · 组织维护
+⭐ 2,202 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tensorflow/quantum) · [官网](https://www.tensorflow.org/quantum) · 组织维护
 
 **混合量子-经典机器学习 Python 框架，面向量子算法研究者**
 
@@ -45,13 +45,13 @@ TensorFlow Quantum (TFQ) 是一个开源 Python 框架，用于构建混合量�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/quantum 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
+    title "tensorflow/quantum 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 2196 --> 2203
-    line [2198, 2197, 2198, 2200, 2202, 2201, 2202]
+    line [2198, 2197, 2198, 2200, 2202, 2201, 2202, 2202]
 ```
 
-2026-10-18 2,198 → 2026-10-31 2,202（+4）
+2026-10-18 2,198 → 2026-11-01 2,202（+4）
 
 
 ---

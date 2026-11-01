@@ -1,6 +1,6 @@
 # xmindflow/LHUNet
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/xmindflow/LHUNet) · [官网](https://arxiv.org/abs/2404.05102) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/xmindflow/LHUNet) · [官网](https://arxiv.org/abs/2404.05102) · 组织维护
 
 **三维医学图像分割的混合 CNN-Transformer U-Net 模型实现**
 
@@ -46,12 +46,12 @@ MICCAI 2025 论文 LHU-Net 的官方实现：基于层级 U-Net 编码器-解码
 ```mermaid
 xychart-beta
     title "xmindflow/LHUNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71]
 ```
 
-2026-10-18 69 → 2026-10-31 70（+1）
+2026-10-18 69 → 2026-11-01 71（+2）
 
 
 ---

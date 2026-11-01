@@ -1,6 +1,6 @@
 # cdklabs/cdk-appmod-catalog-blueprints
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cdklabs/cdk-appmod-catalog-blueprints) · [官网](https://cdklabs.github.io/cdk-appmod-catalog-blueprints/) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/cdklabs/cdk-appmod-catalog-blueprints) · [官网](https://cdklabs.github.io/cdk-appmod-catalog-blueprints/) · 组织维护
 
 **面向 AWS 的用例驱动 CDK 蓝图库：AI 聊天/文档处理等方案快速部署**
 
@@ -45,12 +45,12 @@ cdklabs 维护的应用现代化蓝图库，以可组合的 CDK L3 construct 形
 ```mermaid
 xychart-beta
     title "cdklabs/cdk-appmod-catalog-blueprints 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

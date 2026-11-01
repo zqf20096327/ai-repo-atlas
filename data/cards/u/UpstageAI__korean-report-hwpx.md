@@ -1,6 +1,6 @@
 # UpstageAI/korean-report-hwpx
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/UpstageAI/korean-report-hwpx) · [官网](https://pypi.org/project/korean-report-hwpx/) · 组织维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/UpstageAI/korean-report-hwpx) · [官网](https://pypi.org/project/korean-report-hwpx/) · 组织维护 · 中文 README
 
 **韩国公文 HWPX 生成 MCP 服务器：52 个机构格式报告与新闻稿**
 
@@ -46,12 +46,12 @@ Upstage 维护的 MCP 服务器，供 Claude·ChatGPT 等 AI 通过工具调用�
 ```mermaid
 xychart-beta
     title "UpstageAI/korean-report-hwpx 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 10 --> 17
-    line [11, 13, 14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 10 --> 18
+    line [11, 13, 14, 15, 16, 17]
 ```
 
-2026-10-18 11 → 2026-10-31 16（+5）
+2026-10-18 11 → 2026-11-01 17（+6）
 
 
 ---

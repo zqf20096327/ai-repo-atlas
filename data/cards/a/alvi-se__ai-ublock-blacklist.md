@@ -1,6 +1,6 @@
 # alvi-se/ai-ublock-blacklist
 
-⭐ 712 · Adblock Filter List · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/alvi-se/ai-ublock-blacklist) · [官网](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) · 个人维护
+⭐ 713 · Adblock Filter List · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/alvi-se/ai-ublock-blacklist) · [官网](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) · 个人维护
 
 **个人维护的 AI 内容农场屏蔽清单，供 uBlock Origin/uBlacklist 订阅**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alvi-se/ai-ublock-blacklist 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 701 --> 713
-    line [702, 703, 706, 708, 710, 711, 712]
+    title "alvi-se/ai-ublock-blacklist 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 701 --> 714
+    line [702, 703, 706, 708, 710, 711, 712, 713]
 ```
 
-2026-10-18 702 → 2026-10-31 712（+10）
+2026-10-18 702 → 2026-11-01 713（+11）
 
 
 ---

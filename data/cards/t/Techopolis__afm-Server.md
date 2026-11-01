@@ -1,6 +1,6 @@
 # Techopolis/afm-Server
 
-⭐ 197 · Swift · MIT · 推送 2026-06-02 · [GitHub](https://github.com/Techopolis/afm-Server) · [官网](https://github.com/Techopolis-Online/Perspective-Intelligence) · 个人维护
+⭐ 198 · Swift · MIT · 推送 2026-06-02 · [GitHub](https://github.com/Techopolis/afm-Server) · [官网](https://github.com/Techopolis-Online/Perspective-Intelligence) · 个人维护
 
 **把 Apple 本地 Foundation Models 暴露为 OpenAI/Ollama 兼容 API 的 macOS 菜单栏应用**
 
@@ -46,12 +46,12 @@ macOS 菜单栏应用，在本地启动 HTTP 服务器（默认端口 11435）�
 ```mermaid
 xychart-beta
     title "Techopolis/afm-Server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 192 --> 198
-    line [193, 194, 197, 197]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 192 --> 199
+    line [193, 194, 197, 198]
 ```
 
-2026-10-18 193 → 2026-10-31 197（+4）
+2026-10-18 193 → 2026-11-01 198（+5）
 
 
 ---

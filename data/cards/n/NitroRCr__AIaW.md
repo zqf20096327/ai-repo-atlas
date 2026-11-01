@@ -1,6 +1,6 @@
 # NitroRCr/AIaW
 
-⭐ 1,841 · TypeScript · BSD-3-Clause · 推送 2026-05-18 · [GitHub](https://github.com/NitroRCr/AIaW) · [官网](https://aiaw.app) · 个人维护 · 中文 README
+⭐ 1,842 · TypeScript · BSD-3-Clause · 推送 2026-05-18 · [GitHub](https://github.com/NitroRCr/AIaW) · [官网](https://aiaw.app) · 个人维护 · 中文 README
 
 **跨平台 AI 聊天客户端：多工作区、插件与本地优先同步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NitroRCr/AIaW 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 1837 --> 1842
-    line [1839, 1838, 1839, 1841]
+    title "NitroRCr/AIaW 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1837 --> 1843
+    line [1839, 1838, 1839, 1841, 1842]
 ```
 
-2026-10-18 1,839 → 2026-10-31 1,841（+2）
+2026-10-18 1,839 → 2026-11-01 1,842（+3）
 
 
 ---

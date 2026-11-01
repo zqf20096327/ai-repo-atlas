@@ -1,6 +1,6 @@
 # microsoft/MegaDetector-Overhead
 
-⭐ 20 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/MegaDetector-Overhead) · [官网](https://microsoft.github.io/Biodiversity/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/MegaDetector-Overhead) · [官网](https://microsoft.github.io/Biodiversity/) · 组织维护
 
 **微软开源的航拍野生动物点检测模型（OWL 系列）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/MegaDetector-Overhead 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 17 --> 21
     line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-31 20（+2）
+2026-10-18 18 → 2026-11-01 20（+2）
 
 
 ---

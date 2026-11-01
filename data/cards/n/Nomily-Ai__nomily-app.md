@@ -1,6 +1,6 @@
 # Nomily-Ai/nomily-app
 
-⭐ 1,018 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Nomily-Ai/nomily-app) · [官网](https://geekis.com) · 组织维护 · 中文 README
+⭐ 1,015 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Nomily-Ai/nomily-app) · [官网](https://geekis.com) · 组织维护 · 中文 README
 
 **BYOK 录音转写与 AI 摘要的 iOS/Android 原生客户端**
 
@@ -40,6 +40,18 @@
 > L73: - Transcribes live or recorded audio through Azure Speech or a user-operated
 > L76: - Generates summaries, titles, and translations with a configured LLM provider:
 > L77:  OpenAI, Anthropic, Gemini, OpenRouter, Ollama, or a custom OpenAI-compatible
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Nomily-Ai/nomily-app 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 1014 --> 1019
+    line [1018, 1015]
+```
+
+2026-10-31 1,018 → 2026-11-01 1,015（-3）
 
 
 ---

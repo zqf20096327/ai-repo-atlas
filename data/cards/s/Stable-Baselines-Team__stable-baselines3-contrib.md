@@ -1,6 +1,6 @@
 # Stable-Baselines-Team/stable-baselines3-contrib
 
-⭐ 743 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib) · [官网](https://sb3-contrib.readthedocs.io) · 组织维护
+⭐ 744 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib) · [官网](https://sb3-contrib.readthedocs.io) · 组织维护
 
 **Stable-Baselines3 的实验性强化学习算法扩展包**
 
@@ -46,12 +46,12 @@ sb3-contrib 是 stable-baselines3 的 contrib 包，收录被认为实验性的 
 ```mermaid
 xychart-beta
     title "Stable-Baselines-Team/stable-baselines3-contrib 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 739 --> 744
-    line [740, 741, 742, 743, 743]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 739 --> 745
+    line [740, 741, 742, 743, 744]
 ```
 
-2026-10-18 740 → 2026-10-31 743（+3）
+2026-10-18 740 → 2026-11-01 744（+4）
 
 
 ---

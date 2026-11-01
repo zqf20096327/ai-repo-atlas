@@ -1,6 +1,6 @@
 # stepfun-ai/Step1X-Edit
 
-⭐ 2,267 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step1X-Edit) · [官网](https://step1x-edit.github.io) · 组织维护 · 中文 README
+⭐ 2,268 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step1X-Edit) · [官网](https://step1x-edit.github.io) · 组织维护 · 中文 README
 
 **阶跃开源图像编辑模型：指令驱动的图像编辑与生成**
 
@@ -46,12 +46,12 @@ Step1X-Edit 是 StepFun（阶跃星辰）发布的开源图像编辑模型，采
 ```mermaid
 xychart-beta
     title "stepfun-ai/Step1X-Edit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 2264 --> 2268
-    line [2267, 2266, 2265, 2266, 2267, 2267]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 2264 --> 2269
+    line [2267, 2266, 2265, 2266, 2267, 2268]
 ```
 
-2026-10-18 2,267 → 2026-10-31 2,267（+0）
+2026-10-18 2,267 → 2026-11-01 2,268（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Swival/swival
 
-⭐ 352 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Swival/swival) · [官网](https://swival.dev) · 个人维护
+⭐ 353 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Swival/swival) · [官网](https://swival.dev) · 个人维护
 
 **面向任意模型的命令行编程 agent，本地与在线模型通用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Swival/swival 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 341 --> 353
-    line [342, 343, 344, 346, 352]
+    title "Swival/swival 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 341 --> 354
+    line [342, 343, 344, 346, 352, 353]
 ```
 
-2026-10-18 342 → 2026-10-31 352（+10）
+2026-10-18 342 → 2026-11-01 353（+11）
 
 
 ---

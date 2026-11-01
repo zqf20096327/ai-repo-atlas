@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/tinycortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "tinyhumansai/tinycortex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 263 --> 266
-    line [264, 265]
+    line [264, 265, 265]
 ```
 
-2026-10-18 264 → 2026-10-31 265（+1）
+2026-10-18 264 → 2026-11-01 265（+1）
 
 
 ---

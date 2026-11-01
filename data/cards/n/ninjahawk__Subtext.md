@@ -1,6 +1,6 @@
 # ninjahawk/Subtext
 
-⭐ 246 · HTML · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/ninjahawk/Subtext) · 个人维护
+⭐ 247 · HTML · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/ninjahawk/Subtext) · 个人维护
 
 **实时可视化语言模型内部工作区的机制可解释性仪器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ninjahawk/Subtext 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
     y-axis "stars" 245 --> 248
-    line [246, 247, 246, 246]
+    line [246, 247, 246, 247]
 ```
 
-2026-10-18 246 → 2026-10-31 246（+0）
+2026-10-18 246 → 2026-11-01 247（+1）
 
 
 ---

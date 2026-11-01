@@ -1,6 +1,6 @@
 # Desilo/liberate-fhe
 
-⭐ 147 · Python · BSD-3-Clause-Clear · 推送 2025-11-04 · [GitHub](https://github.com/Desilo/liberate-fhe) · [官网](https://docs.desilo.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **已弃用的全同态加密库：纯 Python+CUDA 多 GPU 加速**
 
@@ -11,7 +11,7 @@ Desilo 开源的全同态加密（FHE）库，基于纯 Python 与 CUDA 实现�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | BSD-3-Clause-Clear |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

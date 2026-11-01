@@ -1,6 +1,6 @@
 # baobach/mlfinpy
 
-⭐ 91 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/baobach/mlfinpy) · [官网](https://mlfinpy.readthedocs.io/) · 个人维护
+⭐ 92 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/baobach/mlfinpy) · [官网](https://mlfinpy.readthedocs.io/) · 个人维护
 
 **面向金融机器学习的 Python 工具箱：数据变换、标注与特征工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baobach/mlfinpy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 88 --> 92
-    line [89, 90, 91, 91]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 88 --> 93
+    line [89, 90, 91, 92]
 ```
 
-2026-10-18 89 → 2026-10-31 91（+2）
+2026-10-18 89 → 2026-11-01 92（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # JunMa11/MICCAI-OpenSourcePapers
 
-⭐ 1,294 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/JunMa11/MICCAI-OpenSourcePapers) · 个人维护
+⭐ 1,295 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/JunMa11/MICCAI-OpenSourcePapers) · 个人维护
 
 **MICCAI 2026 开源论文清单：医学影像论文+代码+数据集索引**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JunMa11/MICCAI-OpenSourcePapers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01"]
     y-axis "stars" 1293 --> 1297
-    line [1296, 1295, 1294, 1294]
+    line [1296, 1295, 1294, 1295]
 ```
 
-2026-10-18 1,296 → 2026-10-31 1,294（-2）
+2026-10-18 1,296 → 2026-11-01 1,295（-1）
 
 
 ---

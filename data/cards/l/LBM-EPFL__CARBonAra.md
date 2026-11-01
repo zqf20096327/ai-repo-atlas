@@ -1,6 +1,6 @@
 # LBM-EPFL/CARBonAra
 
-⭐ 51 · Jupyter Notebook · NOASSERTION · 推送 2025-11-04 · [GitHub](https://github.com/LBM-EPFL/CARBonAra) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **从蛋白质骨架结构生成序列的几何深度学习框架**
 
@@ -11,7 +11,7 @@ EPFL LBM 实验室开发的蛋白质序列设计框架：基于几何 Transforme
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

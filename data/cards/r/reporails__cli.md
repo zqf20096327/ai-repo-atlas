@@ -1,6 +1,6 @@
 # reporails/cli
 
-⭐ 108 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/reporails/cli) · [官网](https://reporails.com/) · 组织维护
+⭐ 109 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/reporails/cli) · [官网](https://reporails.com/) · 组织维护
 
 **给开发者的 AI 编码代理指令质量诊断 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "reporails/cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 101 --> 109
-    line [102, 103, 102, 108]
+    title "reporails/cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 101 --> 110
+    line [102, 103, 102, 108, 109]
 ```
 
-2026-10-18 102 → 2026-10-31 108（+6）
+2026-10-18 102 → 2026-11-01 109（+7）
 
 
 ---

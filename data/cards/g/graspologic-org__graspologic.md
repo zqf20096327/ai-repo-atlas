@@ -1,6 +1,6 @@
 # graspologic-org/graspologic
 
-⭐ 1,020 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/graspologic-org/graspologic) · [官网](https://graspologic-org.github.io/graspologic/) · 组织维护
+⭐ 1,021 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/graspologic-org/graspologic) · [官网](https://graspologic-org.github.io/graspologic/) · 组织维护
 
 **面向图数据的图统计分析 Python 库**
 
@@ -46,12 +46,12 @@ graspologic 是一个提供图统计算法与工具的 Python 包，用于处理
 ```mermaid
 xychart-beta
     title "graspologic-org/graspologic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1016 --> 1021
-    line [1017, 1018, 1019, 1020, 1020]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 1016 --> 1022
+    line [1017, 1018, 1019, 1020, 1021]
 ```
 
-2026-10-18 1,017 → 2026-10-31 1,020（+3）
+2026-10-18 1,017 → 2026-11-01 1,021（+4）
 
 
 ---

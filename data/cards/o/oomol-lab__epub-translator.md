@@ -1,6 +1,6 @@
 # oomol-lab/epub-translator
 
-⭐ 877 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/oomol-lab/epub-translator) · [官网](https://pdfcraft.ai/epub-translator) · 组织维护 · 中文 README
+⭐ 876 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/oomol-lab/epub-translator) · [官网](https://pdfcraft.ai/epub-translator) · 组织维护 · 中文 README
 
 **用 LLM 把 EPUB 转为原文对照双语书的 Python 库**
 
@@ -45,12 +45,12 @@ Python 库，调用 OpenAI 兼容 API（含 OpenAI 与 Azure OpenAI 配置示例
 ```mermaid
 xychart-beta
     title "oomol-lab/epub-translator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 867 --> 878
-    line [868, 871, 872, 873, 875, 876, 877, 877]
+    line [868, 871, 872, 873, 875, 876, 877, 876]
 ```
 
-2026-10-18 868 → 2026-10-31 877（+9）
+2026-10-18 868 → 2026-11-01 876（+8）
 
 
 ---

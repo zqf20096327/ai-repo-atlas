@@ -1,6 +1,6 @@
 # mlr-org/mlr3cluster
 
-⭐ 27 · R · LGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/mlr-org/mlr3cluster) · [官网](https://mlr3cluster.mlr-org.com/) · 组织维护
+⭐ 27 · R · LGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/mlr-org/mlr3cluster) · [官网](https://mlr3cluster.mlr-org.com/) · 组织维护
 
 **R 的 mlr3 生态聚类分析扩展包：39 种聚类学习器**
 
@@ -46,12 +46,12 @@ mlr-org 维护的 mlr3 生态扩展包，为 mlr3 机器学习框架提供聚类
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3cluster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-31 27（+0）
+2026-10-18 27 → 2026-11-01 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # allemaar/open-skills
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/allemaar/open-skills) · [官网](https://allemaar.com) · 个人维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/allemaar/open-skills) · [官网](https://allemaar.com) · 个人维护
 
 **面向 AI 编程 agent 的个人技能包（70 个可读技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "allemaar/open-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

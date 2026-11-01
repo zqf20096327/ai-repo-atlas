@@ -1,6 +1,6 @@
 # weibaohui/k8m
 
-⭐ 892 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/weibaohui/k8m) · [官网](https://github.com/weibaohui/k8m) · 个人维护 · 中文 README
+⭐ 892 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/weibaohui/k8m) · [官网](https://github.com/weibaohui/k8m) · 个人维护 · 中文 README
 
 **AI 驱动的轻量级 Kubernetes 多集群管理控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weibaohui/k8m 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    title "weibaohui/k8m 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 887 --> 893
-    line [888, 889, 890, 889, 890, 891, 892]
+    line [888, 889, 890, 889, 890, 891, 892, 892]
 ```
 
-2026-10-18 888 → 2026-10-31 892（+4）
+2026-10-18 888 → 2026-11-01 892（+4）
 
 
 ---

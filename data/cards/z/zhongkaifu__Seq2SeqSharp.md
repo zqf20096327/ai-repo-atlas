@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhongkaifu/Seq2SeqSharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "zhongkaifu/Seq2SeqSharp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 213 --> 216
-    line [215, 214]
+    line [215, 214, 214]
 ```
 
-2026-10-18 215 → 2026-10-31 214（-1）
+2026-10-18 215 → 2026-11-01 214（-1）
 
 
 ---

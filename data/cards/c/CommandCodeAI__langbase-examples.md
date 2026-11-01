@@ -1,6 +1,6 @@
 # CommandCodeAI/langbase-examples
 
-⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/CommandCodeAI/langbase-examples) · [官网](https://langbase.com) · 组织维护
+⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/CommandCodeAI/langbase-examples) · [官网](https://langbase.com) · 组织维护
 
 **Langbase 平台的 AI Agent 与 RAG 示例项目集合**
 
@@ -43,12 +43,12 @@ Langbase 官方维护的示例仓库，收录基于 Langbase 平台构建的 LLM
 ```mermaid
 xychart-beta
     title "CommandCodeAI/langbase-examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 92 --> 95
+    line [93, 94]
 ```
 
-2026-10-18 93 → 2026-10-31 93（+0）
+2026-10-18 93 → 2026-11-01 94（+1）
 
 
 ---

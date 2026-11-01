@@ -1,6 +1,6 @@
 # StonyBrookNLP/appworld
 
-⭐ 543 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/StonyBrookNLP/appworld) · [官网](https://appworld.dev/) · 组织维护
+⭐ 544 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/StonyBrookNLP/appworld) · [官网](https://appworld.dev/) · 组织维护
 
 **评测函数调用与交互式编码 agent 的模拟应用世界基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StonyBrookNLP/appworld 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 533 --> 544
-    line [534, 535, 538, 539, 540, 542, 543, 543]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 533 --> 545
+    line [534, 535, 538, 539, 540, 542, 543, 544]
 ```
 
-2026-10-18 534 → 2026-10-31 543（+9）
+2026-10-18 534 → 2026-11-01 544（+10）
 
 
 ---

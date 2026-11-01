@@ -44,13 +44,13 @@ AWS 官方库，可将训练脚本与依赖封装进 Docker 容器并使其兼�
 
 ```mermaid
 xychart-beta
-    title "aws/sagemaker-training-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "aws/sagemaker-training-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 529 --> 532
-    line [530, 531]
+    line [530, 531, 531]
 ```
 
-2026-10-18 530 → 2026-10-31 531（+1）
+2026-10-18 530 → 2026-11-01 531（+1）
 
 
 ---

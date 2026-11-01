@@ -1,6 +1,6 @@
 # chencore/deep-live-cam-tutorial
 
-⭐ 131 · 推送 2026-04-04 · [GitHub](https://github.com/chencore/deep-live-cam-tutorial) · 个人维护 · 中文 README
+⭐ 132 · 推送 2026-04-04 · [GitHub](https://github.com/chencore/deep-live-cam-tutorial) · 个人维护 · 中文 README
 
 **Deep-Live-Cam 实时换脸工具的中文安装使用教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chencore/deep-live-cam-tutorial 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 124 --> 132
-    line [125, 126, 128, 130, 131]
+    title "chencore/deep-live-cam-tutorial 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 124 --> 133
+    line [125, 126, 128, 130, 131, 132]
 ```
 
-2026-10-18 125 → 2026-10-31 131（+6）
+2026-10-18 125 → 2026-11-01 132（+7）
 
 
 ---

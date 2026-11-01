@@ -1,6 +1,6 @@
 # node9-ai/node9-proxy
 
-⭐ 223 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/node9-ai/node9-proxy) · [官网](https://node9.ai/) · 组织维护
+⭐ 223 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/node9-ai/node9-proxy) · [官网](https://node9.ai/) · 组织维护
 
 **AI 编码代理的访问控制网关：审批危险操作并留痕**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "node9-ai/node9-proxy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 218 --> 224
     line [219, 220, 221, 223, 223]
 ```
 
-2026-10-18 219 → 2026-10-31 223（+4）
+2026-10-18 219 → 2026-11-01 223（+4）
 
 
 ---

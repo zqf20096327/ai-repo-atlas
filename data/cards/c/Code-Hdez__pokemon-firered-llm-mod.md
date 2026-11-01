@@ -46,12 +46,12 @@ Lua+Python 桥接层，在 mGBA 模拟器中运行宝可梦火红时拦截 NPC �
 ```mermaid
 xychart-beta
     title "Code-Hdez/pokemon-firered-llm-mod 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

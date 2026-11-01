@@ -42,6 +42,18 @@
 > L62: **darknet-mcp-server** gives your AI agent 66 tools across 16 data sources via the Model Context Protocol. The agen
 > L164: Same JSON config format. Point the command to `npx darknet-mcp-server` or your local installation path.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "badchars/darknet-mcp-server 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 520 --> 522
+    line [521, 521]
+```
+
+2026-10-31 521 → 2026-11-01 521（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `4c8abb929439` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ LangChain 团队维护的 agent 技能集合：为 Claude Code、Cursor、Windsu
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "langchain-ai/langsmith-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 162 --> 165
-    line [163, 164, 163]
+    line [163, 164, 163, 163]
 ```
 
-2026-10-18 163 → 2026-10-31 163（+0）
+2026-10-18 163 → 2026-11-01 163（+0）
 
 
 ---

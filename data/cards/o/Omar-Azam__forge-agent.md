@@ -1,6 +1,6 @@
 # Omar-Azam/forge-agent
 
-⭐ 38 · JavaScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Omar-Azam/forge-agent) · 个人维护
+⭐ 39 · JavaScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Omar-Azam/forge-agent) · 个人维护
 
 **免费自主编程 agent：浏览器驱动网页版 AI 写代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Omar-Azam/forge-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-10-31 38（+2）
+2026-10-18 36 → 2026-11-01 39（+3）
 
 
 ---

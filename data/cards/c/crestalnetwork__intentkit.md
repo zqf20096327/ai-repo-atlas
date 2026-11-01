@@ -1,6 +1,6 @@
 # crestalnetwork/intentkit
 
-⭐ 6,522 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/crestalnetwork/intentkit) · [官网](https://intentcat.com/docs) · 组织维护
+⭐ 6,521 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/crestalnetwork/intentkit) · [官网](https://intentcat.com/docs) · 组织维护
 
 **自托管云原生 AI agent 集群：多 agent 协作管理框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "crestalnetwork/intentkit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    title "crestalnetwork/intentkit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 6519 --> 6525
-    line [6520, 6521, 6523, 6522, 6521, 6523, 6524, 6522]
+    line [6520, 6521, 6523, 6522, 6521, 6523, 6524, 6522, 6521]
 ```
 
-2026-10-18 6,520 → 2026-10-31 6,522（+2）
+2026-10-18 6,520 → 2026-11-01 6,521（+1）
 
 
 ---

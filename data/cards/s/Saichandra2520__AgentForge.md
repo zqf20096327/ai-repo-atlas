@@ -1,6 +1,6 @@
 # Saichandra2520/AgentForge
 
-⭐ 22 · Python · MIT · 推送 2026-04-28 · [GitHub](https://github.com/Saichandra2520/AgentForge) · [官网](https://github.com/Saichandra2520/agentforge#readme) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-04-28 · [GitHub](https://github.com/Saichandra2520/AgentForge) · [官网](https://github.com/Saichandra2520/agentforge#readme) · 个人维护
 
 **一条 CLI 命令生成生产级 Python AI agent 项目脚手架**
 
@@ -46,12 +46,12 @@ create-agent-app（AgentForge）是一个 Python CLI 脚手架工具：通过交
 ```mermaid
 xychart-beta
     title "Saichandra2520/AgentForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 20 --> 23
+    line [22, 21]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 21（-1）
 
 
 ---

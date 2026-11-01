@@ -1,6 +1,6 @@
 # shenweichen/DeepCTR-Torch
 
-⭐ 3,472 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/shenweichen/DeepCTR-Torch) · [官网](https://deepctr-torch.readthedocs.io/en/latest/index.html) · 个人维护 · 中文 README
+⭐ 3,474 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/shenweichen/DeepCTR-Torch) · [官网](https://deepctr-torch.readthedocs.io/en/latest/index.html) · 个人维护 · 中文 README
 
 **基于 PyTorch 的 CTR 预估深度学习模型库**
 
@@ -45,12 +45,12 @@ DeepCTR 的 PyTorch 版本：提供 20 余种基于深度学习的 CTR（点击�
 ```mermaid
 xychart-beta
     title "shenweichen/DeepCTR-Torch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 3467 --> 3474
-    line [3468, 3470, 3471, 3472, 3473, 3472, 3472]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 3467 --> 3475
+    line [3468, 3470, 3471, 3472, 3473, 3472, 3474]
 ```
 
-2026-10-18 3,468 → 2026-10-31 3,472（+4）
+2026-10-18 3,468 → 2026-11-01 3,474（+6）
 
 
 ---

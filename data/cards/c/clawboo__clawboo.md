@@ -1,6 +1,6 @@
 # clawboo/clawboo
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/clawboo/clawboo) · [官网](https://www.claw.boo) · 组织维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/clawboo/clawboo) · [官网](https://www.claw.boo) · 组织维护
 
 **自托管的多 AI agent 团队工作台：一次提问，团队分工协作交付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "clawboo/clawboo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    title "clawboo/clawboo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
     y-axis "stars" 61 --> 65
-    line [62, 63, 64]
+    line [62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-10-31 64（+2）
+2026-10-18 62 → 2026-11-01 64（+2）
 
 
 ---

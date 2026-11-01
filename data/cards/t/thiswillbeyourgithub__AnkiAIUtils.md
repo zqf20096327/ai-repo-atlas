@@ -1,6 +1,6 @@
 # thiswillbeyourgithub/AnkiAIUtils
 
-⭐ 890 · Python · AGPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/thiswillbeyourgithub/AnkiAIUtils) · 个人维护
+⭐ 891 · Python · AGPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/thiswillbeyourgithub/AnkiAIUtils) · 个人维护
 
 **用 LLM 自动增强 Anki 卡片的脚本集：解释/助记/插图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thiswillbeyourgithub/AnkiAIUtils 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 886 --> 891
-    line [887, 889, 890]
+    title "thiswillbeyourgithub/AnkiAIUtils 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 886 --> 892
+    line [887, 889, 890, 891]
 ```
 
-2026-10-18 887 → 2026-10-31 890（+3）
+2026-10-18 887 → 2026-11-01 891（+4）
 
 
 ---

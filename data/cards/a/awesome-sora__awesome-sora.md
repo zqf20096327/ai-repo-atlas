@@ -1,6 +1,6 @@
 # awesome-sora/awesome-sora
 
-⭐ 22 · CC0-1.0 · 推送 2026-04-07 · [GitHub](https://github.com/awesome-sora/awesome-sora) · 个人维护 · 中文 README
+⭐ 22 · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/awesome-sora/awesome-sora) · 个人维护 · 中文 README
 
 **Sora 相关主题的 awesome 策展清单**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "awesome-sora/awesome-sora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 22（+0）
 
 
 ---

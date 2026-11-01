@@ -1,6 +1,6 @@
 # lorryjovens-hub/claude-code-rust
 
-⭐ 1,664 · TypeScript · 推送 2026-05-30 · [GitHub](https://github.com/lorryjovens-hub/claude-code-rust) · 个人维护
+⭐ 1,663 · TypeScript · 推送 2026-05-30 · [GitHub](https://github.com/lorryjovens-hub/claude-code-rust) · 个人维护
 
 **Tauri 2.0 构建的 AI 聊天桌面客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lorryjovens-hub/claude-code-rust 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-01"]
     y-axis "stars" 1661 --> 1665
-    line [1664, 1662, 1663, 1664, 1664]
+    line [1664, 1662, 1663, 1664, 1663]
 ```
 
-2026-10-18 1,664 → 2026-10-31 1,664（+0）
+2026-10-18 1,664 → 2026-11-01 1,663（-1）
 
 
 ---

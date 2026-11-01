@@ -1,6 +1,6 @@
 # VeraTools/vera
 
-⭐ 121 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VeraTools/vera) · 个人维护
+⭐ 122 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VeraTools/vera) · 个人维护
 
 **面向 AI 编程代理的本地代码搜索引擎（Rust）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VeraTools/vera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 119 --> 123
+    line [120, 121, 122]
 ```
 
-2026-10-18 120 → 2026-10-31 121（+1）
+2026-10-18 120 → 2026-11-01 122（+2）
 
 
 ---

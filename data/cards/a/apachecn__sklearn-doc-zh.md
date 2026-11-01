@@ -44,13 +44,13 @@ ApacheCN 组织维护的 scikit-learn 中文文档翻译项目，当前覆盖 0.
 
 ```mermaid
 xychart-beta
-    title "apachecn/sklearn-doc-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "apachecn/sklearn-doc-zh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 5227 --> 5232
-    line [5228, 5231]
+    line [5228, 5231, 5231]
 ```
 
-2026-10-18 5,228 → 2026-10-31 5,231（+3）
+2026-10-18 5,228 → 2026-11-01 5,231（+3）
 
 
 ---

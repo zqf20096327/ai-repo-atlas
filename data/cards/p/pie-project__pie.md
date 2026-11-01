@@ -1,6 +1,6 @@
 # pie-project/pie
 
-⭐ 238 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
+⭐ 238 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
 
 **可编程高性能模型推理引擎，用 WebAssembly inferlet 驱动推理**
 
@@ -40,6 +40,18 @@
 > L7: Pie runs WebAssembly programs—*inferlets*—directly next to the
 > L14: PyTorch runtime, running on CUDA, ROCm, Metal, Vulkan, XLA (TPUs), and WebGPU.
 > L68: `pie serve` also speaks the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pie-project/pie 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 237 --> 239
+    line [238, 238]
+```
+
+2026-10-31 238 → 2026-11-01 238（+0）
 
 
 ---

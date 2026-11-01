@@ -1,6 +1,6 @@
 # zhanghang1989/ResNeSt
 
-⭐ 3,261 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/zhanghang1989/ResNeSt) · [官网](https://arxiv.org/abs/2004.08955) · 个人维护
+⭐ 3,260 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/zhanghang1989/ResNeSt) · [官网](https://arxiv.org/abs/2004.08955) · 个人维护
 
 **ResNeSt：Split-Attention 结构的 ResNet 变体模型库，供视觉任务使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhanghang1989/ResNeSt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "zhanghang1989/ResNeSt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 3259 --> 3262
-    line [3260, 3261]
+    line [3260, 3261, 3260]
 ```
 
-2026-10-18 3,260 → 2026-10-31 3,261（+1）
+2026-10-18 3,260 → 2026-11-01 3,260（+0）
 
 
 ---

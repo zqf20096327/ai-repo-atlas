@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ben1ahrens/Claude-Science-Windows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-31 37（+0）
+2026-10-18 37 → 2026-11-01 37（+0）
 
 
 ---

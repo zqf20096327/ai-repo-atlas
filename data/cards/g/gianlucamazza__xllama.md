@@ -1,6 +1,6 @@
 # gianlucamazza/xllama
 
-⭐ 75 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gianlucamazza/xllama) · [官网](https://huggingface.co/collections/gianlucamazza/xllama-models-measured-on-xbox-series-s) · 个人维护
+⭐ 76 · C++ · MIT · 推送 2026-10-31 · [GitHub](https://github.com/gianlucamazza/xllama) · [官网](https://huggingface.co/collections/gianlucamazza/xllama-gguf-models-run-on-xbox-series-s-6aca0b32275cbe99dbf02d89) · 个人维护
 
 **在 Xbox Series S|X Dev Mode 上本地运行 LLM 的推理运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gianlucamazza/xllama 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 61 --> 76
-    line [62, 64, 69, 70, 72, 73, 74, 75, 75]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 61 --> 77
+    line [62, 64, 69, 70, 72, 73, 74, 75, 76]
 ```
 
-2026-10-18 62 → 2026-10-31 75（+13）
+2026-10-18 62 → 2026-11-01 76（+14）
 
 
 ---

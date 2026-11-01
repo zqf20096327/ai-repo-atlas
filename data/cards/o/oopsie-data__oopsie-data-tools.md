@@ -1,6 +1,6 @@
 # oopsie-data/oopsie-data-tools
 
-⭐ 24 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/oopsie-data/oopsie-data-tools) · [官网](https://oopsie-data.com) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/oopsie-data/oopsie-data-tools) · [官网](https://oopsie-data.com) · 组织维护
 
 **机器人操作数据集的录制、标注与提交工具包**
 
@@ -44,12 +44,12 @@ OopsieData Tools 服务于 Oopsie Data 计划：该计划收集实验室真实�
 ```mermaid
 xychart-beta
     title "oopsie-data/oopsie-data-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-31 24（+0）
+2026-10-18 24 → 2026-11-01 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AkiYangDev/mini-deepinfer
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AkiYangDev/mini-deepinfer) · 个人维护 · 中文 README
+⭐ 30 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AkiYangDev/mini-deepinfer) · 个人维护 · 中文 README
 
 **面向 Ascend 910C 的教学型 LLM 推理引擎，还原 DeepInfer 执行设计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkiYangDev/mini-deepinfer 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 22 --> 30
-    line [23, 25, 28, 29]
+    title "AkiYangDev/mini-deepinfer 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 22 --> 31
+    line [23, 25, 28, 29, 30]
 ```
 
-2026-10-26 23 → 2026-10-31 29（+6）
+2026-10-26 23 → 2026-11-01 30（+7）
 
 
 ---

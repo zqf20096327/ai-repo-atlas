@@ -1,6 +1,6 @@
 # browserwing/browserwing
 
-⭐ 1,424 · Go · MIT · 推送 2026-08-08 · [GitHub](https://github.com/browserwing/browserwing) · [官网](https://www.browserwing.com) · 个人维护 · 中文 README
+⭐ 1,423 · Go · MIT · 推送 2026-08-08 · [GitHub](https://github.com/browserwing/browserwing) · [官网](https://www.browserwing.com) · 个人维护 · 中文 README
 
 **浏览器自动化平台：把网站操作变成 MCP 命令与脚本供 AI agent 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "browserwing/browserwing 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
+    title "browserwing/browserwing 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1422 --> 1425
-    line [1424, 1423, 1424, 1423, 1424]
+    line [1424, 1423, 1424, 1423, 1424, 1423]
 ```
 
-2026-10-18 1,424 → 2026-10-31 1,424（+0）
+2026-10-18 1,424 → 2026-11-01 1,423（-1）
 
 
 ---

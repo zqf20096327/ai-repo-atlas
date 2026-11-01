@@ -1,6 +1,6 @@
 # machinelearningZH/deep-research
 
-⭐ 17 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/machinelearningZH/deep-research) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/machinelearningZH/deep-research) · 组织维护
 
 **对自有文档集合做自动多轮深度研究并生成报告的应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "machinelearningZH/deep-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

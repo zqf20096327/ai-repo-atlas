@@ -1,6 +1,6 @@
 # heygen-com/heygen-cli
 
-⭐ 166 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/heygen-com/heygen-cli) · [官网](https://developers.heygen.com) · 组织维护
+⭐ 167 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/heygen-com/heygen-cli) · [官网](https://developers.heygen.com) · 组织维护
 
 **HeyGen 官方命令行工具：终端中创建 AI 数字人视频**
 
@@ -45,13 +45,13 @@ HeyGen 视频生成 API 的官方 CLI，Go 编写的单一静态二进制，覆�
 
 ```mermaid
 xychart-beta
-    title "heygen-com/heygen-cli 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 153 --> 167
-    line [154, 156, 159, 160, 161, 162, 163, 164, 166]
+    title "heygen-com/heygen-cli 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 153 --> 168
+    line [154, 156, 159, 160, 161, 162, 163, 164, 166, 167]
 ```
 
-2026-10-18 154 → 2026-10-31 166（+12）
+2026-10-18 154 → 2026-11-01 167（+13）
 
 
 ---

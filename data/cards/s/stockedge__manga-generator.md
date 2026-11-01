@@ -1,6 +1,6 @@
 # stockedge/manga-generator
 
-⭐ 138 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/stockedge/manga-generator) · 个人维护
+⭐ 154 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/stockedge/manga-generator) · 个人维护
 
 **用 Codex/Claude Code 从小说原作自动制作漫画的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stockedge/manga-generator 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 67 --> 144
-    line [73, 98, 117, 119, 122, 127, 138]
+    title "stockedge/manga-generator 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 65 --> 162
+    line [73, 98, 117, 119, 122, 127, 138, 154]
 ```
 
-2026-10-25 73 → 2026-10-31 138（+65）
+2026-10-25 73 → 2026-11-01 154（+81）
 
 
 ---

@@ -1,6 +1,6 @@
 # mengjian-github/xiaomo-starter-kit
 
-⭐ 364 · 推送 2026-02-01 · [GitHub](https://github.com/mengjian-github/xiaomo-starter-kit) · [官网](https://xiaomo.dev) · 个人维护 · 中文 README
+⭐ 363 · 推送 2026-02-01 · [GitHub](https://github.com/mengjian-github/xiaomo-starter-kit) · [官网](https://xiaomo.dev) · 个人维护 · 中文 README
 
 **中文用户友好的 OpenClaw AI 私人助手预配置模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mengjian-github/xiaomo-starter-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 363 --> 365
-    line [364, 364]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 362 --> 365
+    line [364, 363]
 ```
 
-2026-10-18 364 → 2026-10-31 364（+0）
+2026-10-18 364 → 2026-11-01 363（-1）
 
 
 ---

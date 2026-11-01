@@ -1,6 +1,6 @@
 # dsh-plugin-lab/dsh-workbuddy-bridge
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) · [官网](https://www.npmjs.com/package/dsh-workbuddy-bridge) · 组织维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) · [官网](https://www.npmjs.com/package/dsh-workbuddy-bridge) · 组织维护 · 中文 README
 
 **DSH 插件：把 WorkBuddy 桌面 App 的模型接入 DeepSeek Harness**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dsh-plugin-lab/dsh-workbuddy-bridge 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 8 --> 28
-    line [9, 10, 14, 19, 20, 21, 22, 25, 27]
+    title "dsh-plugin-lab/dsh-workbuddy-bridge 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 8 --> 29
+    line [9, 10, 14, 19, 20, 21, 22, 25, 27, 28]
 ```
 
-2026-10-18 9 → 2026-10-31 27（+18）
+2026-10-18 9 → 2026-11-01 28（+19）
 
 
 ---

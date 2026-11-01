@@ -1,6 +1,6 @@
 # sleeplesshan/dual-brain
 
-⭐ 27 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sleeplesshan/dual-brain) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sleeplesshan/dual-brain) · 个人维护 · 中文 README
 
 **编码智能体的双脑审查技能：宏观设计+微观代码互补评审**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sleeplesshan/dual-brain 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 20 --> 28
-    line [21, 23, 25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 20 --> 29
+    line [21, 23, 25, 26, 27, 28]
 ```
 
-2026-10-18 21 → 2026-10-31 27（+6）
+2026-10-18 21 → 2026-11-01 28（+7）
 
 
 ---

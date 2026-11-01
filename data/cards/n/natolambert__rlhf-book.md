@@ -1,6 +1,6 @@
 # natolambert/rlhf-book
 
-⭐ 2,485 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/natolambert/rlhf-book) · [官网](https://rlhfbook.com/) · 个人维护 · 中文 README
+⭐ 2,486 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/natolambert/rlhf-book) · [官网](https://rlhfbook.com/) · 个人维护 · 中文 README
 
 **开源 RLHF 教科书：系统讲解 LLM 后训练与人类反馈对齐**
 
@@ -44,13 +44,13 @@ Nathan Lambert 编写的 Reinforcement Learning from Human Feedback 开源书籍
 
 ```mermaid
 xychart-beta
-    title "natolambert/rlhf-book 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2455 --> 2487
-    line [2457, 2459, 2460, 2463, 2468, 2474, 2477, 2480, 2484, 2485]
+    title "natolambert/rlhf-book 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2455 --> 2488
+    line [2457, 2459, 2460, 2463, 2468, 2474, 2477, 2480, 2484, 2485, 2486]
 ```
 
-2026-10-18 2,457 → 2026-10-31 2,485（+28）
+2026-10-18 2,457 → 2026-11-01 2,486（+29）
 
 
 ---

@@ -1,6 +1,6 @@
 # mrdainami/ai-os-starter
 
-⭐ 13 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/mrdainami/ai-os-starter) · 组织维护
+⭐ 14 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/mrdainami/ai-os-starter) · 组织维护
 
 **用 AI 编程工具搭建个人 AI OS 的启动模板（FRAME 方法）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrdainami/ai-os-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # CompleteTech-LLC/build-ai-workflows-in-5-steps
 
-⭐ 16 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps) · 组织维护
 
 **教学笔记本：5 步法将目标图+源文档变成可执行 AI 工作流**
 
@@ -45,12 +45,12 @@ CompleteTech LLC 发布的 Jupyter 教学课程（29 个 cell），演示一套�
 ```mermaid
 xychart-beta
     title "CompleteTech-LLC/build-ai-workflows-in-5-steps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 17（+1）
 
 
 ---

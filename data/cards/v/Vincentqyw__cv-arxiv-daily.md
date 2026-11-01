@@ -1,6 +1,6 @@
 # Vincentqyw/cv-arxiv-daily
 
-⭐ 1,510 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Vincentqyw/cv-arxiv-daily) · [官网](https://papers.vincentqin.tech) · 个人维护
+⭐ 1,512 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Vincentqyw/cv-arxiv-daily) · [官网](https://papers.vincentqin.tech) · 个人维护
 
 **每日自动更新的计算机视觉 arXiv 论文清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vincentqyw/cv-arxiv-daily 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1505 --> 1511
-    line [1506, 1507, 1506, 1507, 1509, 1510]
+    title "Vincentqyw/cv-arxiv-daily 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1505 --> 1513
+    line [1506, 1507, 1506, 1507, 1509, 1510, 1512]
 ```
 
-2026-10-18 1,506 → 2026-10-31 1,510（+4）
+2026-10-18 1,506 → 2026-11-01 1,512（+6）
 
 
 ---

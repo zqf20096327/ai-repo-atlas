@@ -1,6 +1,6 @@
 # Snowflake-Labs/snowflake-demo-notebooks
 
-⭐ 381 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snowflake-Labs/snowflake-demo-notebooks) · 组织维护
+⭐ 382 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snowflake-Labs/snowflake-demo-notebooks) · 组织维护
 
 **Snowflake Notebook 官方演示与教程笔记本合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Snowflake-Labs/snowflake-demo-notebooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 379 --> 382
-    line [380, 381, 381]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 379 --> 383
+    line [380, 381, 382]
 ```
 
-2026-10-18 380 → 2026-10-31 381（+1）
+2026-10-18 380 → 2026-11-01 382（+2）
 
 
 ---

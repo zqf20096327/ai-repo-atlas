@@ -42,6 +42,18 @@
 > L63: **osint-mcp-server** gives your AI agent 37 tools across 12 data sources via the Model Context Protocol. The agent 
 > L376: - **2 dependencies** &mdash; `@modelcontextprotocol/sdk` and `zod`. All HTTP via native `fetch`. All DNS via `node
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "badchars/osint-mcp-server 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-10-31 62 → 2026-11-01 62（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `09b05e01a4b6` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # NavnoorBawa/polymarket-prediction-system
 
-⭐ 36 · Python · 推送 2025-12-25 · [GitHub](https://github.com/NavnoorBawa/polymarket-prediction-system) · 个人维护
+⭐ 37 · Python · 推送 2025-12-25 · [GitHub](https://github.com/NavnoorBawa/polymarket-prediction-system) · 个人维护
 
 **面向 Polymarket 的 ML 预测系统：生成交易信号与仓位建议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NavnoorBawa/polymarket-prediction-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-31 36（+0）
+2026-10-18 36 → 2026-11-01 37（+1）
 
 
 ---

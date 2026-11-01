@@ -1,6 +1,6 @@
 # jolo-build/jolo
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jolo-build/jolo) · [官网](https://jolo.build) · 组织维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/jolo-build/jolo) · [官网](https://jolo.build) · 组织维护
 
 **面向 AI 编程 agent 的桌面工作台与终端 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jolo-build/jolo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 17 --> 21
     line [20, 18, 18]
 ```
 
-2026-10-18 20 → 2026-10-31 18（-2）
+2026-10-18 20 → 2026-11-01 18（-2）
 
 
 ---

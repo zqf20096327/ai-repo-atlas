@@ -1,6 +1,6 @@
 # khoj-ai/openpaper
 
-⭐ 514 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/khoj-ai/openpaper) · [官网](https://openpaper.ai) · 组织维护
+⭐ 515 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/khoj-ai/openpaper) · [官网](https://openpaper.ai) · 组织维护
 
 **研究论文阅读与文献综述的 AI 工作台应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "khoj-ai/openpaper 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 503 --> 515
-    line [504, 507, 509, 510, 511, 513, 514]
+    title "khoj-ai/openpaper 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 503 --> 516
+    line [504, 507, 509, 510, 511, 513, 514, 515]
 ```
 
-2026-10-18 504 → 2026-10-31 514（+10）
+2026-10-18 504 → 2026-11-01 515（+11）
 
 
 ---

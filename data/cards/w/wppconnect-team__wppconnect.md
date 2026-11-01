@@ -1,6 +1,6 @@
 # wppconnect-team/wppconnect
 
-⭐ 3,514 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/wppconnect-team/wppconnect) · [官网](https://wppconnect.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Node.js 库：导出 WhatsApp Web 功能供构建聊天机器人**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

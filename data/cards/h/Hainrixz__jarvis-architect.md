@@ -1,6 +1,6 @@
 # Hainrixz/jarvis-architect
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/jarvis-architect) · [官网](https://tododeia.com) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/jarvis-architect) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 插件：通过面试为你选定运行时/模型/托管并搭建个人 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hainrixz/jarvis-architect 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 4 --> 18
-    line [5, 11, 12, 13, 15, 17, 17]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 4 --> 19
+    line [5, 11, 12, 13, 15, 17, 18]
 ```
 
-2026-10-23 5 → 2026-10-31 17（+12）
+2026-10-23 5 → 2026-11-01 18（+13）
 
 
 ---

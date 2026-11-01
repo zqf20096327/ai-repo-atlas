@@ -1,6 +1,6 @@
 # pytorch/TensorRT
 
-⭐ 3,018 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/pytorch/TensorRT) · [官网](https://pytorch.org/TensorRT) · 组织维护
+⭐ 3,019 · Python · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/pytorch/TensorRT) · [官网](https://pytorch.org/TensorRT) · 组织维护
 
 **面向 NVIDIA GPU 的 PyTorch 编译器，加速模型推理**
 
@@ -46,12 +46,12 @@ Torch-TensorRT 将 TensorRT 引入 PyTorch，通过 torch.compile 一行代码�
 ```mermaid
 xychart-beta
     title "pytorch/TensorRT 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 3012 --> 3020
-    line [3013, 3014, 3016, 3017, 3018, 3019, 3018, 3018]
+    line [3013, 3014, 3016, 3017, 3018, 3019, 3018, 3019]
 ```
 
-2026-10-18 3,013 → 2026-10-31 3,018（+5）
+2026-10-18 3,013 → 2026-11-01 3,019（+6）
 
 
 ---

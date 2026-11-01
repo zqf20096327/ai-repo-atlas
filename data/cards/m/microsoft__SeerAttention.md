@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/SeerAttention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "microsoft/SeerAttention 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 221 --> 224
-    line [222, 223]
+    line [222, 223, 223]
 ```
 
-2026-10-18 222 → 2026-10-31 223（+1）
+2026-10-18 222 → 2026-11-01 223（+1）
 
 
 ---

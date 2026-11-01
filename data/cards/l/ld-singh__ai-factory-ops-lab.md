@@ -1,6 +1,6 @@
 # ld-singh/ai-factory-ops-lab
 
-⭐ 19 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ld-singh/ai-factory-ops-lab) · [官网](https://ld-singh.github.io/ai-factory-ops-lab/) · 个人维护
+⭐ 20 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ld-singh/ai-factory-ops-lab) · [官网](https://ld-singh.github.io/ai-factory-ops-lab/) · 个人维护
 
 **无需自购 GPU 的 AI/HPC 基础设施运维实操课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ld-singh/ai-factory-ops-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 20（+1）
 
 
 ---

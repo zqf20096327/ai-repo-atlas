@@ -1,6 +1,6 @@
 # openai/procgen
 
-⭐ 1,199 · C++ · MIT · 推送 2026-03-27 · [GitHub](https://github.com/openai/procgen) · [官网](https://openai.com/blog/procgen-benchmark/) · 组织维护
+⭐ 1,200 · C++ · MIT · 推送 2026-03-27 · [GitHub](https://github.com/openai/procgen) · [官网](https://openai.com/blog/procgen-benchmark/) · 组织维护
 
 **16 个程序化生成的强化学习评测环境，衡量 RL 智能体泛化能力**
 
@@ -45,12 +45,12 @@ OpenAI 维护的 Procgen Benchmark：提供 16 个程序化生成的 Gym 游戏�
 ```mermaid
 xychart-beta
     title "openai/procgen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 1194 --> 1200
-    line [1195, 1197, 1199, 1199]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 1194 --> 1201
+    line [1195, 1197, 1199, 1200]
 ```
 
-2026-10-18 1,195 → 2026-10-31 1,199（+4）
+2026-10-18 1,195 → 2026-11-01 1,200（+5）
 
 
 ---

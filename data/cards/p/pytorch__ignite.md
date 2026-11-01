@@ -1,6 +1,6 @@
 # pytorch/ignite
 
-⭐ 4,796 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/ignite) · [官网](https://pytorch-ignite.ai) · 组织维护
+⭐ 4,797 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/ignite) · [官网](https://pytorch-ignite.ai) · 组织维护
 
 **PyTorch 神经网络训练与评测的高层库**
 
@@ -45,12 +45,12 @@ PyTorch 官方生态下的高层训练库：提供 Engine 与事件系统替代�
 ```mermaid
 xychart-beta
     title "pytorch/ignite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 4793 --> 4797
-    line [4794, 4795, 4794, 4795, 4796, 4796]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 4793 --> 4798
+    line [4794, 4795, 4794, 4795, 4796, 4797]
 ```
 
-2026-10-18 4,794 → 2026-10-31 4,796（+2）
+2026-10-18 4,794 → 2026-11-01 4,797（+3）
 
 
 ---

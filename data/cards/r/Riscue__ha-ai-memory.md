@@ -1,6 +1,6 @@
 # Riscue/ha-ai-memory
 
-⭐ 13 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Riscue/ha-ai-memory) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Riscue/ha-ai-memory) · 个人维护
 
 **Home Assistant Assist 代理的长期语义记忆组件**
 
@@ -46,12 +46,12 @@ Home Assistant 自定义集成，为 Assist LLM 代理提供跨对话持久记�
 ```mermaid
 xychart-beta
     title "Riscue/ha-ai-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hypercodism/alpine-code
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hypercodism/alpine-code) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hypercodism/alpine-code) · 个人维护
 
 **面向非开发者的开源桌面 AI 编程代理（Mac）**
 
@@ -45,12 +45,12 @@ MIT 许可的开源桌面端 coding agent，附图形界面：打开本地文件
 ```mermaid
 xychart-beta
     title "hypercodism/alpine-code 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-01"]
     y-axis "stars" 27 --> 37
     line [28, 29, 33, 36, 36]
 ```
 
-2026-10-22 28 → 2026-10-31 36（+8）
+2026-10-22 28 → 2026-11-01 36（+8）
 
 
 ---

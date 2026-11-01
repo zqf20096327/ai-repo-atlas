@@ -1,6 +1,6 @@
 # tinker495/JAxtar
 
-⭐ 51 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tinker495/JAxtar) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tinker495/JAxtar) · 个人维护
 
 **给科研者的纯 JAX GPU 批量并行 A*/Q* 启发式搜索求解器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tinker495/JAxtar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-31 51（+0）
+2026-10-18 51 → 2026-11-01 51（+0）
 
 
 ---

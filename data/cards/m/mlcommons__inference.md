@@ -1,6 +1,6 @@
 # mlcommons/inference
 
-⭐ 1,655 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/mlcommons/inference) · [官网](https://mlcommons.org/en/groups/inference) · 组织维护
+⭐ 1,656 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/mlcommons/inference) · [官网](https://mlcommons.org/en/groups/inference) · 组织维护
 
 **MLPerf 推理基准套件参考实现：测量系统运行模型的速度**
 
@@ -44,13 +44,13 @@ MLCommons 维护的 MLPerf Inference 基准套件参考实现，用于测量各�
 
 ```mermaid
 xychart-beta
-    title "mlcommons/inference 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 1646 --> 1656
-    line [1647, 1649, 1651, 1652, 1653, 1654, 1655]
+    title "mlcommons/inference 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1646 --> 1657
+    line [1647, 1649, 1651, 1652, 1653, 1654, 1655, 1656]
 ```
 
-2026-10-18 1,647 → 2026-10-31 1,655（+8）
+2026-10-18 1,647 → 2026-11-01 1,656（+9）
 
 
 ---

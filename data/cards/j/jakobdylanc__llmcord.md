@@ -1,6 +1,6 @@
 # jakobdylanc/llmcord
 
-⭐ 836 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/jakobdylanc/llmcord) · 个人维护
+⭐ 838 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/jakobdylanc/llmcord) · 个人维护
 
 **把 Discord 变成协作式 LLM 聊天前端的机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jakobdylanc/llmcord 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 834 --> 837
-    line [835, 836, 835, 836, 836]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 834 --> 839
+    line [835, 836, 835, 836, 838]
 ```
 
-2026-10-18 835 → 2026-10-31 836（+1）
+2026-10-18 835 → 2026-11-01 838（+3）
 
 
 ---

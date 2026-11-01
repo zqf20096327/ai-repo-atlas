@@ -1,6 +1,6 @@
 # linux4life1/front-porch-AI
 
-⭐ 82 · Dart · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/linux4life1/front-porch-AI) · [官网](https://frontporchai.app) · 个人维护
+⭐ 83 · Dart · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/linux4life1/front-porch-AI) · [官网](https://frontporchai.app) · 个人维护
 
 **本地优先的开源 AI 角色聊天与扮演桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linux4life1/front-porch-AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 78 --> 83
-    line [80, 79, 80, 81, 82]
+    title "linux4life1/front-porch-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 78 --> 84
+    line [80, 79, 80, 81, 82, 83]
 ```
 
-2026-10-18 80 → 2026-10-31 82（+2）
+2026-10-18 80 → 2026-11-01 83（+3）
 
 
 ---

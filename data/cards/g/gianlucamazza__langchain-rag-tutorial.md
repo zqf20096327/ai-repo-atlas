@@ -1,6 +1,6 @@
 # gianlucamazza/langchain-rag-tutorial
 
-⭐ 16 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gianlucamazza/langchain-rag-tutorial) · 个人维护
+⭐ 16 · Jupyter Notebook · MIT · 推送 2026-10-31 · [GitHub](https://github.com/gianlucamazza/langchain-rag-tutorial) · 个人维护
 
 **LangChain RAG 动手教程：20 个 notebook 覆盖从基础到高级模式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gianlucamazza/langchain-rag-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    title "gianlucamazza/langchain-rag-tutorial 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16]
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 16（+2）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

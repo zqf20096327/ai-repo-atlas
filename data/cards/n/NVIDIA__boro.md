@@ -1,6 +1,6 @@
 # NVIDIA/boro
 
-⭐ 68 · Rust · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/NVIDIA/boro) · 组织维护
+⭐ 69 · Rust · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/NVIDIA/boro) · 组织维护
 
 **面向 Linux 内核开发者的 AI 补丁审查与测试 CLI**
 
@@ -47,12 +47,12 @@ Rust 编写的内核开发辅助 CLI，在开发者本地 git 树上运行：多
 ```mermaid
 xychart-beta
     title "NVIDIA/boro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 64 --> 69
-    line [65, 66, 67, 68, 68]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 64 --> 70
+    line [65, 66, 67, 68, 69]
 ```
 
-2026-10-18 65 → 2026-10-31 68（+3）
+2026-10-18 65 → 2026-11-01 69（+4）
 
 
 ---

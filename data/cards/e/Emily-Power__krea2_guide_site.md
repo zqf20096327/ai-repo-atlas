@@ -1,6 +1,6 @@
 # Emily-Power/krea2_guide_site
 
-⭐ 17 · JavaScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Emily-Power/krea2_guide_site) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Emily-Power/krea2_guide_site) · 个人维护 · 中文 README
 
 **18+ 文生图提示词教学站：三条线提示词的导演台与写法规则**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Emily-Power/krea2_guide_site 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 11 --> 18
-    line [12, 14, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 11 --> 20
+    line [12, 14, 15, 16, 17, 19]
 ```
 
-2026-10-18 12 → 2026-10-31 17（+5）
+2026-10-18 12 → 2026-11-01 19（+7）
 
 
 ---

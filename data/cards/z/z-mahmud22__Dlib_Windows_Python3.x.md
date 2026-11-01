@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "z-mahmud22/Dlib_Windows_Python3.x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "z-mahmud22/Dlib_Windows_Python3.x 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 369 --> 372
-    line [370, 371]
+    line [370, 371, 371]
 ```
 
-2026-10-18 370 → 2026-10-31 371（+1）
+2026-10-18 370 → 2026-11-01 371（+1）
 
 
 ---

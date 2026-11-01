@@ -1,6 +1,6 @@
 # AgentlyHQ/aixyz
 
-⭐ 82 · TypeScript · 推送 2026-07-17 · [GitHub](https://github.com/AgentlyHQ/aixyz) · [官网](https://aixyz.sh) · 组织维护
+⭐ 81 · TypeScript · 推送 2026-07-17 · [GitHub](https://github.com/AgentlyHQ/aixyz) · [官网](https://aixyz.sh) · 组织维护
 
 **构建可部署 AI Agent 服务的 Next.js 式框架，内置支付与链上身份**
 
@@ -45,12 +45,12 @@ TypeScript 框架，将 AI Agent 打包为可部署服务：开发者用配置�
 ```mermaid
 xychart-beta
     title "AgentlyHQ/aixyz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 80 --> 83
+    line [82, 81]
 ```
 
-2026-10-18 82 → 2026-10-31 82（+0）
+2026-10-18 82 → 2026-11-01 81（-1）
 
 
 ---

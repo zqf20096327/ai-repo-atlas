@@ -1,6 +1,6 @@
 # Hokken/mod-llm-chatter
 
-⭐ 102 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Hokken/mod-llm-chatter) · 个人维护
+⭐ 103 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Hokken/mod-llm-chatter) · 个人维护
 
 **给 WoW 私服玩家机器人加 LLM 角色扮演对话的模块**
 
@@ -45,13 +45,13 @@ AzerothCore WotLK 3.3.5a + mod-playerbots 的服务器模块：把自动机器�
 
 ```mermaid
 xychart-beta
-    title "Hokken/mod-llm-chatter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 82 --> 103
-    line [83, 84, 100, 102]
+    title "Hokken/mod-llm-chatter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 81 --> 105
+    line [83, 84, 100, 102, 103]
 ```
 
-2026-10-18 83 → 2026-10-31 102（+19）
+2026-10-18 83 → 2026-11-01 103（+20）
 
 
 ---

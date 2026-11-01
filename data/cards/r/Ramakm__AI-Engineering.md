@@ -1,6 +1,6 @@
 # Ramakm/AI-Engineering
 
-⭐ 1,462 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Ramakm/AI-Engineering) · [官网](https://growtechie.substack.com/) · 个人维护
+⭐ 1,463 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Ramakm/AI-Engineering) · [官网](https://growtechie.substack.com/) · 个人维护
 
 **AI 工程动手学习仓库：从数学到 RAG/OCR 的成套教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ramakm/AI-Engineering 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 1458 --> 1465
-    line [1459, 1460, 1461, 1462, 1463, 1464, 1463, 1462, 1462]
+    line [1459, 1460, 1461, 1462, 1463, 1464, 1463, 1462, 1463]
 ```
 
-2026-10-18 1,459 → 2026-10-31 1,462（+3）
+2026-10-18 1,459 → 2026-11-01 1,463（+4）
 
 
 ---

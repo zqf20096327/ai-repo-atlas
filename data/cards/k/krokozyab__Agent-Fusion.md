@@ -1,6 +1,6 @@
 # krokozyab/Agent-Fusion
 
-⭐ 73 · Kotlin · MIT · 推送 2026-06-20 · [GitHub](https://github.com/krokozyab/Agent-Fusion) · 个人维护
+⭐ 74 · Kotlin · MIT · 推送 2026-06-20 · [GitHub](https://github.com/krokozyab/Agent-Fusion) · 个人维护
 
 **本地 RAG 语义搜索 MCP 服务器，供多个 AI 编码助手检索代码与文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "krokozyab/Agent-Fusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 72 --> 75
+    line [73, 74]
 ```
 
-2026-10-18 73 → 2026-10-31 73（+0）
+2026-10-18 73 → 2026-11-01 74（+1）
 
 
 ---

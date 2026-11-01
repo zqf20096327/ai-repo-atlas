@@ -47,12 +47,12 @@ Bodo DataFrames 是一个 Python DataFrame 库，定位为 Pandas 的 drop-in �
 ```mermaid
 xychart-beta
     title "bodo-ai/Bodo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 382 --> 385
     line [383, 384, 384]
 ```
 
-2026-10-18 383 → 2026-10-31 384（+1）
+2026-10-18 383 → 2026-11-01 384（+1）
 
 
 ---

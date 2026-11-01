@@ -45,12 +45,12 @@ TypeScript 编写的 OpenClaw 渠道插件，把 OpenClaw 代理接入 SeaTalk �
 ```mermaid
 xychart-beta
     title "lf4096/openclaw-seatalk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # subinium/Awesome-Scientific-LLM-Benchmarks
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) · [官网](https://awesome-scientific-llm-benchmarks.vercel.app) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) · [官网](https://awesome-scientific-llm-benchmarks.vercel.app) · 个人维护
 
 **科学领域 LLM 基准测试策展清单（数学/物理/化学/生物等）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "subinium/Awesome-Scientific-LLM-Benchmarks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01"]
     y-axis "stars" 38 --> 42
     line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-10-31 41（+2）
+2026-10-18 39 → 2026-11-01 41（+2）
 
 
 ---

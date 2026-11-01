@@ -1,6 +1,6 @@
 # hiroki-abe-58/ComfyUI-DBS
 
-⭐ 46 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hiroki-abe-58/ComfyUI-DBS) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hiroki-abe-58/ComfyUI-DBS) · 个人维护
 
 **ComfyUI 节点包：用官方 DBS 模型把音轨分成音乐/音效/人声**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hiroki-abe-58/ComfyUI-DBS 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 9 --> 49
-    line [12, 42, 43, 44, 46, 46]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 9 --> 50
+    line [12, 42, 43, 44, 46, 47]
 ```
 
-2026-10-19 12 → 2026-10-31 46（+34）
+2026-10-19 12 → 2026-11-01 47（+35）
 
 
 ---

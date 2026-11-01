@@ -1,6 +1,6 @@
 # m96-chan/0xBitNet
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/m96-chan/0xBitNet) · [官网](https://0xbitnet.m96-chan.dev) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/m96-chan/0xBitNet) · [官网](https://0xbitnet.m96-chan.dev) · 个人维护
 
 **用 WebGPU 在浏览器与本地 App 运行 BitNet 三值 LLM 的推理库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "m96-chan/0xBitNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-31 23（+0）
+2026-10-18 23 → 2026-11-01 23（+0）
 
 
 ---

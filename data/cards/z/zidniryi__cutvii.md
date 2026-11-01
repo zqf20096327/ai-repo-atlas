@@ -1,6 +1,6 @@
 # zidniryi/cutvii
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zidniryi/cutvii) · [官网](https://cutvii.space) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zidniryi/cutvii) · [官网](https://cutvii.space) · 个人维护
 
 **离线优先的跨平台开源桌面视频编辑器，含端侧 AI 功能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zidniryi/cutvii 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 9 --> 25
-    line [10, 14, 19, 21, 23, 24]
+    title "zidniryi/cutvii 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 9 --> 28
+    line [10, 14, 19, 21, 23, 24, 27]
 ```
 
-2026-10-25 10 → 2026-10-31 24（+14）
+2026-10-25 10 → 2026-11-01 27（+17）
 
 
 ---

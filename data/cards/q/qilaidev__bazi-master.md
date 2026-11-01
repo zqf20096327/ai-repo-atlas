@@ -1,6 +1,6 @@
 # qilaidev/bazi-master
 
-⭐ 25 · JavaScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/qilaidev/bazi-master) · [官网](https://github.com/tytsxai/bazi-master#readme) · 组织维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/qilaidev/bazi-master) · [官网](https://github.com/tytsxai/bazi-master#readme) · 组织维护 · 中文 README
 
 **八字/塔罗/周易/星座/紫微全栈占卜 Web 应用参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qilaidev/bazi-master 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-31 25（+1）
+2026-10-18 24 → 2026-11-01 25（+1）
 
 
 ---

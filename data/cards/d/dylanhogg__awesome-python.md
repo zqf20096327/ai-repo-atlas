@@ -1,6 +1,6 @@
 # dylanhogg/awesome-python
 
-⭐ 468 · MIT · 推送 2026-07-01 · [GitHub](https://github.com/dylanhogg/awesome-python) · [官网](https://www.awesomepython.org) · 个人维护
+⭐ 469 · MIT · 推送 2026-07-01 · [GitHub](https://github.com/dylanhogg/awesome-python) · [官网](https://www.awesomepython.org) · 个人维护
 
 **精选 Python 库与框架分类清单（1,479 仓库，38 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dylanhogg/awesome-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 467 --> 469
-    line [468, 468]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 467 --> 470
+    line [468, 469]
 ```
 
-2026-10-18 468 → 2026-10-31 468（+0）
+2026-10-18 468 → 2026-11-01 469（+1）
 
 
 ---

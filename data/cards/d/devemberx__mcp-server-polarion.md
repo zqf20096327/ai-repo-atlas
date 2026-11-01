@@ -1,6 +1,6 @@
 # devemberx/mcp-server-polarion
 
-⭐ 17 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/devemberx/mcp-server-polarion) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/devemberx/mcp-server-polarion) · 个人维护
 
 **连接 Polarion ALM 的 MCP 服务器：AI 助手读写其文档与工作项**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devemberx/mcp-server-polarion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

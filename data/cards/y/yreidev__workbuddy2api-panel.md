@@ -1,6 +1,6 @@
 # yreidev/workbuddy2api-panel
 
-⭐ 52 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/yreidev/workbuddy2api-panel) · 组织维护 · 中文 README
+⭐ 56 · Go · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/yreidev/workbuddy2api-panel) · 组织维护 · 中文 README
 
 **把腾讯 WorkBuddy 账号变成 OpenAI 兼容 API 的多账号网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yreidev/workbuddy2api-panel 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 13 --> 55
-    line [16, 21, 25, 28, 32, 38, 42, 49, 50, 52]
+    title "yreidev/workbuddy2api-panel 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 12 --> 60
+    line [16, 21, 25, 28, 32, 38, 42, 49, 50, 52, 56]
 ```
 
-2026-10-22 16 → 2026-10-31 52（+36）
+2026-10-22 16 → 2026-11-01 56（+40）
 
 
 ---

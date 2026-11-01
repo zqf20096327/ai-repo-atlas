@@ -1,6 +1,6 @@
 # huggingface/smol-course
 
-⭐ 6,788 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smol-course) · 组织维护
+⭐ 6,787 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smol-course) · 组织维护
 
 **面向本地机器的小语言模型对齐实战课程**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的开放、同行评审的实践课程，讲授如何在特�
 
 ```mermaid
 xychart-beta
-    title "huggingface/smol-course 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
+    title "huggingface/smol-course 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 6779 --> 6789
-    line [6781, 6780, 6781, 6784, 6786, 6788]
+    line [6781, 6780, 6781, 6784, 6786, 6788, 6787]
 ```
 
-2026-10-18 6,781 → 2026-10-31 6,788（+7）
+2026-10-18 6,781 → 2026-11-01 6,787（+6）
 
 
 ---

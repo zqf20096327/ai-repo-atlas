@@ -1,6 +1,6 @@
 # guihcs/from-one-hot-to-llm
 
-⭐ 15 · Jupyter Notebook · MIT · 推送 2026-06-06 · [GitHub](https://github.com/guihcs/from-one-hot-to-llm) · 个人维护
+⭐ 16 · Jupyter Notebook · MIT · 推送 2026-06-06 · [GitHub](https://github.com/guihcs/from-one-hot-to-llm) · 个人维护
 
 **从 N-gram 到 Transformer 的语言模型入门课程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "guihcs/from-one-hot-to-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 16（+1）
 
 
 ---

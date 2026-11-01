@@ -1,6 +1,6 @@
 # Armandpl/furuta
 
-⭐ 42 · Python · 推送 2026-02-02 · [GitHub](https://github.com/Armandpl/furuta) · 组织维护
+⭐ 43 · Python · 推送 2026-02-02 · [GitHub](https://github.com/Armandpl/furuta) · 组织维护
 
 **旋转倒立摆机器人的构建与强化学习训练项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Armandpl/furuta 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-10-31 42（+1）
+2026-10-18 41 → 2026-11-01 43（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vinyzu-archive/Botright
 
-⭐ 1,043 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/vinyzu-archive/Botright) · 个人维护
+⭐ 1,044 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/vinyzu-archive/Botright) · 个人维护
 
 **基于 Playwright 的浏览器隐身自动化框架，附带 AI 验证码求解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vinyzu-archive/Botright 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 1037 --> 1044
-    line [1038, 1040, 1041, 1043, 1043]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 1037 --> 1045
+    line [1038, 1040, 1041, 1043, 1044]
 ```
 
-2026-10-18 1,038 → 2026-10-31 1,043（+5）
+2026-10-18 1,038 → 2026-11-01 1,044（+6）
 
 
 ---

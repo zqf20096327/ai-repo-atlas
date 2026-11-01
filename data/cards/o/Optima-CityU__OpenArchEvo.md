@@ -1,6 +1,6 @@
 # Optima-CityU/OpenArchEvo
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Optima-CityU/OpenArchEvo) · [官网](https://optima-cityu.github.io/OpenArchEvo/) · 组织维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Optima-CityU/OpenArchEvo) · [官网](https://optima-cityu.github.io/OpenArchEvo/) · 组织维护
 
 **LLM 写架构程序、种群进化筛选的神经架构搜索框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Optima-CityU/OpenArchEvo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
     y-axis "stars" 45 --> 48
     line [46, 47, 46, 46]
 ```
 
-2026-10-18 46 → 2026-10-31 46（+0）
+2026-10-18 46 → 2026-11-01 46（+0）
 
 
 ---

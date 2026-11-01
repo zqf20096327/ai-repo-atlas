@@ -1,6 +1,6 @@
 # EndlessBlueWJL/schengen-visa-guide
 
-⭐ 32 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/EndlessBlueWJL/schengen-visa-guide) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/EndlessBlueWJL/schengen-visa-guide) · 个人维护 · 中文 README
 
 **面向中国护照持有者的申根签证 AI Agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EndlessBlueWJL/schengen-visa-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-10-31 32（+1）
+2026-10-18 31 → 2026-11-01 33（+2）
 
 
 ---

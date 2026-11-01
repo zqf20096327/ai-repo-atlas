@@ -1,6 +1,6 @@
 # F-R-L/forge-film
 
-⭐ 540 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/F-R-L/forge-film) · 个人维护 · 中文 README
+⭐ 541 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/F-R-L/forge-film) · 个人维护 · 中文 README
 
 **多模型并行 AI 影片生成引擎：故事编译为 DAG 按关键路径调度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "F-R-L/forge-film 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 538 --> 541
-    line [539, 540, 539, 540]
+    title "F-R-L/forge-film 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 538 --> 542
+    line [539, 540, 539, 540, 541]
 ```
 
-2026-10-18 539 → 2026-10-31 540（+1）
+2026-10-18 539 → 2026-11-01 541（+2）
 
 
 ---

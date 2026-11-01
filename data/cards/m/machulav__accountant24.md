@@ -1,6 +1,6 @@
 # machulav/accountant24
 
-⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/machulav/accountant24) · [官网](https://accountant24.ai) · 个人维护
+⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/machulav/accountant24) · [官网](https://accountant24.ai) · 个人维护
 
 **本地优先的个人记账 AI agent：自然语言记账、对账、查账**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "machulav/accountant24 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 57 --> 65
-    line [58, 60, 62, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 57 --> 66
+    line [58, 60, 62, 63, 64, 65]
 ```
 
-2026-10-18 58 → 2026-10-31 64（+6）
+2026-10-18 58 → 2026-11-01 65（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # gca-americas/way-back-home
 
-⭐ 100 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/gca-americas/way-back-home) · [官网](https://waybackhome.dev) · 组织维护
+⭐ 100 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/gca-americas/way-back-home) · [官网](https://waybackhome.dev) · 组织维护
 
 **Google Cloud AI 教学工作坊平台：通过救援叙事学构建智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gca-americas/way-back-home 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 98 --> 101
     line [99, 100, 100]
 ```
 
-2026-10-18 99 → 2026-10-31 100（+1）
+2026-10-18 99 → 2026-11-01 100（+1）
 
 
 ---

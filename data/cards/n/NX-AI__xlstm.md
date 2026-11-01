@@ -1,6 +1,6 @@
 # NX-AI/xlstm
 
-⭐ 2,212 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NX-AI/xlstm) · [官网](https://www.nx-ai.com/) · 组织维护
+⭐ 2,213 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NX-AI/xlstm) · [官网](https://www.nx-ai.com/) · 组织维护
 
 **面向研究者的 xLSTM 循环神经网络架构 PyTorch 实现库**
 
@@ -46,12 +46,12 @@ NX-AI 官方维护的 xLSTM（Extended LSTM）架构实现：基于指数门控�
 ```mermaid
 xychart-beta
     title "NX-AI/xlstm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 2210 --> 2213
-    line [2212, 2211, 2212, 2212]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 2210 --> 2214
+    line [2212, 2211, 2212, 2213]
 ```
 
-2026-10-18 2,212 → 2026-10-31 2,212（+0）
+2026-10-18 2,212 → 2026-11-01 2,213（+1）
 
 
 ---

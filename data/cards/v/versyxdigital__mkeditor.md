@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "versyxdigital/mkeditor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "versyxdigital/mkeditor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 232 --> 235
-    line [234, 233]
+    line [234, 233, 233]
 ```
 
-2026-10-18 234 → 2026-10-31 233（-1）
+2026-10-18 234 → 2026-11-01 233（-1）
 
 
 ---

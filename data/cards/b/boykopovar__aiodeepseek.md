@@ -1,6 +1,6 @@
 # boykopovar/aiodeepseek
 
-⭐ 15 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/boykopovar/aiodeepseek) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/boykopovar/aiodeepseek) · 个人维护
 
 **DeepSeek 私有 API 的异步 Python 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "boykopovar/aiodeepseek 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 15（+1）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

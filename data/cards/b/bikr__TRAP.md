@@ -1,6 +1,6 @@
 # bikr/TRAP
 
-⭐ 20 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/bikr/TRAP) · 个人维护
+⭐ 21 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/bikr/TRAP) · 个人维护
 
 **让 AI 编码助手执行对抗式安全与上线就绪审计的提示词**
 
@@ -45,12 +45,12 @@ TRAP 是一个可复制粘贴的单一提示词，将 Claude Code、Cursor、Cop
 ```mermaid
 xychart-beta
     title "bikr/TRAP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 21（+1）
 
 
 ---

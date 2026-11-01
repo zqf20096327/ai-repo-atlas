@@ -1,6 +1,6 @@
 # haizelabs/verdict
 
-⭐ 351 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/haizelabs/verdict) · [官网](http://verdict.haizelabs.com/docs) · 组织维护
+⭐ 352 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/haizelabs/verdict) · [官网](http://verdict.haizelabs.com/docs) · 组织维护
 
 **构建与执行复合 LLM-as-a-judge 评测的声明式框架**
 
@@ -46,13 +46,13 @@ Python 库，用 Unit/Layer/Block 原语以依赖图方式组合多个 LLM 判�
 
 ```mermaid
 xychart-beta
-    title "haizelabs/verdict 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 348 --> 352
-    line [349, 350, 351]
+    title "haizelabs/verdict 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 348 --> 353
+    line [349, 350, 351, 352]
 ```
 
-2026-10-18 349 → 2026-10-31 351（+2）
+2026-10-18 349 → 2026-11-01 352（+3）
 
 
 ---

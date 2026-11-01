@@ -1,6 +1,6 @@
 # Aratako/MioTTS-Inference
 
-⭐ 205 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/Aratako/MioTTS-Inference) · [官网](https://huggingface.co/collections/Aratako/miotts) · 个人维护 · 中文 README
+⭐ 206 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/Aratako/MioTTS-Inference) · [官网](https://huggingface.co/collections/Aratako/miotts) · 个人维护 · 中文 README
 
 **轻量 LLM 语音合成模型 MioTTS 的推理与语音合成 API 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Aratako/MioTTS-Inference 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 203 --> 206
-    line [204, 205, 205]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 203 --> 207
+    line [204, 205, 206]
 ```
 
-2026-10-18 204 → 2026-10-31 205（+1）
+2026-10-18 204 → 2026-11-01 206（+2）
 
 
 ---

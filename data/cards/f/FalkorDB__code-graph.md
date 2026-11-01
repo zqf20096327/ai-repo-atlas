@@ -45,13 +45,13 @@ FalkorDB 出品的代码图谱应用：Python/FastAPI 后端加 React/Next.js �
 
 ```mermaid
 xychart-beta
-    title "FalkorDB/code-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    title "FalkorDB/code-graph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
     y-axis "stars" 347 --> 351
-    line [348, 349, 350]
+    line [348, 349, 350, 350]
 ```
 
-2026-10-18 348 → 2026-10-31 350（+2）
+2026-10-18 348 → 2026-11-01 350（+2）
 
 
 ---

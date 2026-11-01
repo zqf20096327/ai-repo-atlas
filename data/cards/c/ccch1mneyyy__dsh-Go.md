@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-Go
 
-⭐ 2,346 · Dart · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/ccch1mneyyy/dsh-Go) · 个人维护 · 中文 README
+⭐ 3,499 · Dart · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ccch1mneyyy/dsh-Go) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Android 客户端：手机本机跑或遥控电脑上的 DSH**
 
@@ -39,6 +39,18 @@
 
 > L5:  DeepSeek Harness 的 Android 客户端。手机上直接跑，也能遥控你电脑上的 DSH。
 > L83: DSH Go 提供聊天界面、本机运行环境和远程连接，是基于 DeepSeek Harness 的第三方项目。运行在手机上的是 DSH 引擎；模型请求仍由你配置的模型提供方处理。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ccch1mneyyy/dsh-Go 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 2231 --> 3614
+    line [2346, 3499]
+```
+
+2026-10-31 2,346 → 2026-11-01 3,499（+1,153）
 
 
 ---

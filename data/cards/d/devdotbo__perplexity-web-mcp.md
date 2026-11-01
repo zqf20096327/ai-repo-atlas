@@ -1,6 +1,6 @@
 # devdotbo/perplexity-web-mcp
 
-⭐ 20 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/devdotbo/perplexity-web-mcp) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/devdotbo/perplexity-web-mcp) · 个人维护
 
 **通过订阅访问 Perplexity 网页接口的 MCP 服务器/CLI/API 网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "devdotbo/perplexity-web-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 21（+1）
 
 
 ---

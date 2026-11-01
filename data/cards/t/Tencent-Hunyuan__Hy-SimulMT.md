@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-SimulMT
 
-⭐ 182 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-SimulMT) · 组织维护 · 中文 README
+⭐ 185 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-SimulMT) · 组织维护 · 中文 README
 
 **腾讯混元中英双向实时同声传译模型，边说边译并克隆音色**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy-SimulMT 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 23 --> 196
-    line [37, 143, 166, 179, 182]
+    title "Tencent-Hunyuan/Hy-SimulMT 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 23 --> 199
+    line [37, 143, 166, 179, 182, 185]
 ```
 
-2026-10-26 37 → 2026-10-31 182（+145）
+2026-10-26 37 → 2026-11-01 185（+148）
 
 
 ---

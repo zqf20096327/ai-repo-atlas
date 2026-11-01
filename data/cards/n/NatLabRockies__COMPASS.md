@@ -1,6 +1,6 @@
 # NatLabRockies/COMPASS
 
-⭐ 17 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NatLabRockies/COMPASS) · [官网](https://natlabrockies.github.io/COMPASS/) · 组织维护
+⭐ 17 · Python · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/NatLabRockies/COMPASS) · [官网](https://natlabrockies.github.io/COMPASS/) · 组织维护
 
 **用 LLM 汇编能源法规条例清单的工具：检索并抽取结构化数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NatLabRockies/COMPASS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # eggbrid2/mobileClaw
 
-⭐ 378 · Kotlin · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/eggbrid2/mobileClaw) · 个人维护 · 中文 README
+⭐ 379 · Kotlin · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/eggbrid2/mobileClaw) · 个人维护 · 中文 README
 
 **把安卓手机变成多 AI 角色竞技场的 agent 运行时应用**
 
@@ -45,12 +45,12 @@ Android 端 AI agent 运行时与实验应用：本版本核心是多 agent 群�
 ```mermaid
 xychart-beta
     title "eggbrid2/mobileClaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01"]
     y-axis "stars" 375 --> 380
-    line [379, 376, 377, 378, 378]
+    line [379, 376, 377, 378, 379]
 ```
 
-2026-10-18 379 → 2026-10-31 378（-1）
+2026-10-18 379 → 2026-11-01 379（+0）
 
 
 ---

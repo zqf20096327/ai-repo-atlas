@@ -1,6 +1,6 @@
 # VinAIResearch/Anti-DreamBooth
 
-⭐ 315 · Python · AGPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/VinAIResearch/Anti-DreamBooth) · [官网](https://vinairesearch.github.io/Anti-DreamBooth/) · 组织维护
+⭐ 316 · Python · AGPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/VinAIResearch/Anti-DreamBooth) · [官网](https://vinairesearch.github.io/Anti-DreamBooth/) · 组织维护
 
 **给用户与研究者：在人像上加对抗扰动以阻止 DreamBooth 个性化生成**
 
@@ -45,12 +45,12 @@ ICCV 2023 论文 Anti-DreamBooth 的官方 PyTorch 实现：在用户发布照�
 ```mermaid
 xychart-beta
     title "VinAIResearch/Anti-DreamBooth 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 310 --> 316
-    line [311, 312, 313, 315, 315]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 310 --> 317
+    line [311, 312, 313, 315, 316]
 ```
 
-2026-10-18 311 → 2026-10-31 315（+4）
+2026-10-18 311 → 2026-11-01 316（+5）
 
 
 ---

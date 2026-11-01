@@ -1,6 +1,6 @@
 # 0xclaw-ai/0xClaw
 
-⭐ 15 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/0xclaw-ai/0xClaw) · [官网](https://0xclaw-ai.github.io) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/0xclaw-ai/0xClaw) · [官网](https://0xclaw-ai.github.io) · 组织维护 · 中文 README
 
 **自主黑客松参赛 agent：从调研到编码、测试、提交全自动运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xclaw-ai/0xClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15]
+    title "0xclaw-ai/0xClaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16]
 ```
 
-2026-10-18 13 → 2026-10-31 15（+2）
+2026-10-18 13 → 2026-11-01 16（+3）
 
 
 ---

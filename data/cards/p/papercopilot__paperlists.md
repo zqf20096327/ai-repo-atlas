@@ -1,6 +1,6 @@
 # papercopilot/paperlists
 
-⭐ 964 · Python · 推送 2026-07-01 · [GitHub](https://github.com/papercopilot/paperlists) · [官网](https://papercopilot.com/) · 组织维护
+⭐ 964 · Python · 推送 2026-10-31 · [GitHub](https://github.com/papercopilot/paperlists) · [官网](https://papercopilot.com/) · 组织维护
 
 **学术会议论文数据集：聚合多源论文记录供检索与统计**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "papercopilot/paperlists 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    title "papercopilot/paperlists 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 957 --> 965
-    line [958, 959, 960, 961, 962, 964, 963, 964]
+    line [958, 959, 960, 961, 962, 964, 963, 964, 964]
 ```
 
-2026-10-18 958 → 2026-10-31 964（+6）
+2026-10-18 958 → 2026-11-01 964（+6）
 
 
 ---

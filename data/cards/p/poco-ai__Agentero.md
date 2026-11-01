@@ -1,6 +1,6 @@
 # poco-ai/Agentero
 
-⭐ 1,065 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
+⭐ 1,066 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
 **人与 Agent 协作的一站式科研文献工作台（桌面应用）**
 
@@ -41,6 +41,18 @@
 > L30: **Agentero 并非旨在替代 Zotero，而是探索一种人与 Agent 协同处理科研上下文的新方式**：
 > L51: * **基于 ACP 协议连接本地 Agent**：底层遵循 Agent Client Protocol，支持连接各类本地运行的 Agent（如 Claude Code、OpenCode、Codex 或本地模型），不绑定特定厂商，
 > L52: * **内置 MCP (Model Context Protocol)**：可作为 MCP Server 运行，允许 ChatGPT Web、Claude Desktop 等外部客户端直接检索并调用本地文献库作为上下文。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "poco-ai/Agentero 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 1064 --> 1067
+    line [1065, 1066]
+```
+
+2026-10-31 1,065 → 2026-11-01 1,066（+1）
 
 
 ---

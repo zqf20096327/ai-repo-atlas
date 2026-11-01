@@ -1,6 +1,6 @@
 # microsoft/AI-Red-Teaming-Playground-Labs
 
-⭐ 2,115 · TypeScript · MIT · 推送 2026-02-13 · [GitHub](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) · 组织维护
+⭐ 2,116 · TypeScript · MIT · 推送 2026-02-13 · [GitHub](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) · 组织维护
 
 **面向安全专业人员的 AI 红队训练挑战实验环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AI-Red-Teaming-Playground-Labs 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 2092 --> 2117
-    line [2094, 2098, 2102, 2104, 2107, 2106, 2107, 2109, 2112, 2115]
+    title "microsoft/AI-Red-Teaming-Playground-Labs 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2092 --> 2118
+    line [2094, 2098, 2102, 2104, 2107, 2106, 2107, 2109, 2112, 2115, 2116]
 ```
 
-2026-10-18 2,094 → 2026-10-31 2,115（+21）
+2026-10-18 2,094 → 2026-11-01 2,116（+22）
 
 
 ---

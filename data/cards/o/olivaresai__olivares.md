@@ -1,6 +1,6 @@
 # olivaresai/olivares
 
-⭐ 18 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/olivaresai/olivares) · [官网](https://olivares.ai) · 组织维护 · 中文 README
+⭐ 18 · Go · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/olivaresai/olivares) · [官网](https://olivares.ai) · 组织维护 · 中文 README
 
 **企业 AI 工具的自托管治理平台：会话、权限、成本与审计一体化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "olivaresai/olivares 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 12 --> 19
     line [13, 16, 17, 18, 18]
 ```
 
-2026-10-18 13 → 2026-10-31 18（+5）
+2026-10-18 13 → 2026-11-01 18（+5）
 
 
 ---

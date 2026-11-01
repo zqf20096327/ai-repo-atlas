@@ -1,6 +1,6 @@
 # Aftabbs/Book-Writing-AI-Agent
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2025-11-04 · [GitHub](https://github.com/Aftabbs/Book-Writing-AI-Agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多智能体自主成书系统：规划、写作、编辑、核查、发布**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

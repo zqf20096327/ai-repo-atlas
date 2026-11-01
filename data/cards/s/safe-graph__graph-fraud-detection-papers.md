@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "safe-graph/graph-fraud-detection-papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    title "safe-graph/graph-fraud-detection-papers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1898 --> 1901
-    line [1900, 1899, 1900]
+    line [1900, 1899, 1900, 1900]
 ```
 
-2026-10-18 1,900 → 2026-10-31 1,900（+0）
+2026-10-18 1,900 → 2026-11-01 1,900（+0）
 
 
 ---

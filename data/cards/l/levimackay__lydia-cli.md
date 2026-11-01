@@ -1,6 +1,6 @@
 # levimackay/lydia-cli
 
-⭐ 36 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/levimackay/lydia-cli) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/levimackay/lydia-cli) · 个人维护
 
 **终端本地 AI 编程代理：用本地 Ollama 读写代码、跑命令、驱动 git**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "levimackay/lydia-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-31 36（+0）
+2026-10-18 36 → 2026-11-01 37（+1）
 
 
 ---

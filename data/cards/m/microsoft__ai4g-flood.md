@@ -1,6 +1,6 @@
 # microsoft/ai4g-flood
 
-⭐ 72 · HTML · MIT · 推送 2025-11-04 · [GitHub](https://github.com/microsoft/ai4g-flood) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 SAR 卫星影像识别洪水淹没范围的检测模型工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

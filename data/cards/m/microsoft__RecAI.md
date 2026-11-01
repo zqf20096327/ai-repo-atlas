@@ -1,6 +1,6 @@
 # microsoft/RecAI
 
-⭐ 1,206 · Jupyter Notebook · MIT · 推送 2026-01-27 · [GitHub](https://github.com/microsoft/RecAI) · 组织维护
+⭐ 1,207 · Jupyter Notebook · MIT · 推送 2026-01-27 · [GitHub](https://github.com/microsoft/RecAI) · 组织维护
 
 **微软 LLM4Rec 研究项目集：将 LLM 集成进推荐系统的多种方法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/RecAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 1202 --> 1207
-    line [1203, 1205, 1206, 1206]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 1202 --> 1208
+    line [1203, 1205, 1206, 1207]
 ```
 
-2026-10-18 1,203 → 2026-10-31 1,206（+3）
+2026-10-18 1,203 → 2026-11-01 1,207（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # BlinkZer0/LM-Studio-IDE-Plugin
 
-⭐ 21 · TypeScript · MIT · 推送 2025-11-04 · [GitHub](https://github.com/BlinkZer0/LM-Studio-IDE-Plugin) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 LM Studio 等本地 LLM 接入 VS Code/Windsurf 的编码助手插件**
 
@@ -11,7 +11,7 @@ VS Code/Cursor/Windsurf 扩展，连接 LM Studio 及任意 OpenAI 兼容本地 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

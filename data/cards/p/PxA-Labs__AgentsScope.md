@@ -1,6 +1,6 @@
 # PxA-Labs/AgentsScope
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PxA-Labs/AgentsScope) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/PxA-Labs/AgentsScope) · 组织维护
 
 **自托管多智能体 AI 管线的可观测性仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PxA-Labs/AgentsScope 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 20（+0）
 
 
 ---

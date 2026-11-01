@@ -1,6 +1,6 @@
 # EigenformAI/modulo
 
-⭐ 22 · Python · 推送 2026-10-30 · [GitHub](https://github.com/EigenformAI/modulo) · [官网](https://www.eigenform.ai/ ) · 组织维护
+⭐ 28 · Python · 推送 2026-10-30 · [GitHub](https://github.com/EigenformAI/modulo) · [官网](https://www.eigenform.ai/ ) · 组织维护
 
 **让本地模型 agent 在生成中转向自身激活的库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EigenformAI/modulo 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 3 --> 23
-    line [4, 18, 22]
+    title "EigenformAI/modulo 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2 --> 30
+    line [4, 18, 22, 28]
 ```
 
-2026-10-28 4 → 2026-10-31 22（+18）
+2026-10-28 4 → 2026-11-01 28（+24）
 
 
 ---

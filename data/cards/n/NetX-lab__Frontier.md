@@ -1,6 +1,6 @@
 # NetX-lab/Frontier
 
-⭐ 171 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/NetX-lab/Frontier) · 组织维护
+⭐ 172 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/NetX-lab/Frontier) · 组织维护
 
 **面向现代 LLM 服务的离散事件仿真器，无需 GPU 集群即可做配置研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NetX-lab/Frontier 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 163 --> 172
-    line [164, 166, 167, 168, 171]
+    title "NetX-lab/Frontier 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 163 --> 173
+    line [164, 166, 167, 168, 171, 172]
 ```
 
-2026-10-18 164 → 2026-10-31 171（+7）
+2026-10-18 164 → 2026-11-01 172（+8）
 
 
 ---

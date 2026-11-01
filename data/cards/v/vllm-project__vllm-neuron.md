@@ -1,6 +1,6 @@
 # vllm-project/vllm-neuron
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/vllm-neuron) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/vllm-neuron) · 组织维护
 
 **在 AWS Trainium 上运行 vLLM 的社区维护硬件插件**
 
@@ -45,12 +45,12 @@ vLLM 的 Neuron 后端插件，为 AWS Trainium（Trn2/Trn3）实例上的大模
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-neuron 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 53 --> 59
-    line [55, 54, 55, 56, 57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 53 --> 60
+    line [55, 54, 55, 56, 57, 58, 59]
 ```
 
-2026-10-18 55 → 2026-10-31 58（+3）
+2026-10-18 55 → 2026-11-01 59（+4）
 
 
 ---

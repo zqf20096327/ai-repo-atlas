@@ -1,6 +1,6 @@
 # fendouai/OpenCVTutorials
 
-⭐ 1,438 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/fendouai/OpenCVTutorials) · [官网](http://woshicver.com/) · 个人维护 · 中文 README
+⭐ 1,439 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/fendouai/OpenCVTutorials) · [官网](http://woshicver.com/) · 个人维护 · 中文 README
 
 **OpenCV-Python 4.1 官方教程的中文翻译文档**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fendouai/OpenCVTutorials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 1435 --> 1439
-    line [1436, 1437, 1438, 1438]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 1435 --> 1440
+    line [1436, 1437, 1438, 1439]
 ```
 
-2026-10-18 1,436 → 2026-10-31 1,438（+2）
+2026-10-18 1,436 → 2026-11-01 1,439（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # paulrobello/parllama
 
-⭐ 494 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/paulrobello/parllama) · 个人维护
+⭐ 495 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/paulrobello/parllama) · 个人维护
 
 **终端 TUI：管理并使用 Ollama 及多家云端 LLM 聊天**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "paulrobello/parllama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 493 --> 495
-    line [494, 494]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 493 --> 496
+    line [494, 495]
 ```
 
-2026-10-18 494 → 2026-10-31 494（+0）
+2026-10-18 494 → 2026-11-01 495（+1）
 
 
 ---

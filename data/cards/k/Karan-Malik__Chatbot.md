@@ -1,6 +1,6 @@
 # Karan-Malik/Chatbot
 
-⭐ 131 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Karan-Malik/Chatbot) · [官网](https://ted-the-deep-learning-bot.herokuapp.com/) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Karan-Malik/Chatbot) · [官网](https://ted-the-deep-learning-bot.herokuapp.com/) · 个人维护
 
 **Python 实现的深度学习多用途聊天机器人（Ted）**
 
@@ -42,12 +42,12 @@ Ted 是用 Python3 编写的多用途聊天机器人，通过 NLP 与深度学�
 ```mermaid
 xychart-beta
     title "Karan-Malik/Chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-18 131 → 2026-10-31 131（+0）
+2026-10-18 131 → 2026-11-01 132（+1）
 
 
 ---

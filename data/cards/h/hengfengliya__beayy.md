@@ -1,6 +1,6 @@
 # hengfengliya/beayy
 
-⭐ 67 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hengfengliya/beayy) · [官网](https://beayy.com) · 个人维护 · 中文 README
+⭐ 68 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hengfengliya/beayy) · [官网](https://beayy.com) · 个人维护 · 中文 README
 
 **跨设备自动记日记应用：记录时间地点活动并生成 AI 日记**
 
@@ -41,6 +41,18 @@ Beayy 是一款本地优先的个人活动记录与自动日记应用，运行�
 > L25: 每天晚上回想「今天到底干了啥」，常常想不起来。屏幕使用时间只告诉你用了几小时 Chrome，说不清在 Chrome 里做了什么。Beayy 在后台记下电脑、手机和手表上的事，让模型替你写流水账，你只管看。
 > L89: |摘要|把那 10 分钟的记录发给**你配置**的模型（任何 OpenAI 兼容接口，或官方服务），写回本机。「设置 → 连接 → 模型 → 用量」看每天花了多少 token|
 > L49: 每晚写日总结：一句话、一段点评（引一句诗文或名人的话）、做成了什么、偏离了什么、明天做什么，再加上这天去了哪、时间花在哪。一周过完写周总结，一个月过完写月总结。iPhone 数据晚到了，点「重新生成」重写。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hengfengliya/beayy 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 66 --> 69
+    line [67, 68]
+```
+
+2026-10-31 67 → 2026-11-01 68（+1）
 
 
 ---

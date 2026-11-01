@@ -1,6 +1,6 @@
 # JohnsonKlose/awesome-science-foundation-model
 
-⭐ 39 · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/JohnsonKlose/awesome-science-foundation-model) · 个人维护 · 中文 README
+⭐ 40 · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/JohnsonKlose/awesome-science-foundation-model) · 个人维护 · 中文 README
 
 **科学基础模型策展清单：1,000+ 模型覆盖 9 大领域**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "JohnsonKlose/awesome-science-foundation-model 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-10-31 39（+1）
+2026-10-18 38 → 2026-11-01 40（+2）
 
 
 ---

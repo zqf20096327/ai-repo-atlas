@@ -1,6 +1,6 @@
 # Yigtwxx/awesome-rag-production
 
-⭐ 287 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/Yigtwxx/awesome-rag-production) · [官网](https://yigtwxx.github.io/awesome-rag-production/) · 个人维护
+⭐ 287 · Python · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/Yigtwxx/awesome-rag-production) · [官网](https://yigtwxx.github.io/awesome-rag-production/) · 个人维护
 
 **生产级 RAG 工具与实践策展清单，面向 RAG 系统建设者**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yigtwxx/awesome-rag-production 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "Yigtwxx/awesome-rag-production 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 281 --> 288
-    line [282, 283, 284, 286, 287]
+    line [282, 283, 284, 286, 287, 287]
 ```
 
-2026-10-18 282 → 2026-10-31 287（+5）
+2026-10-18 282 → 2026-11-01 287（+5）
 
 
 ---

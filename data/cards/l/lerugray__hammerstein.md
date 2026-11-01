@@ -1,6 +1,6 @@
 # lerugray/hammerstein
 
-⭐ 15 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lerugray/hammerstein) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lerugray/hammerstein) · 个人维护
 
 **面向战略推演的推理框架与 CLI：可移植系统提示+检索语料+多模型路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lerugray/hammerstein 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 15（+1）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

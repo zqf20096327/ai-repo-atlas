@@ -1,6 +1,6 @@
 # rgctl/rgctl
 
-⭐ 28 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rgctl/rgctl) · [官网](https://rgctl.io) · 组织维护
+⭐ 28 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/rgctl/rgctl) · [官网](https://rgctl.io) · 组织维护
 
 **给 LLM 编程 agent 用的代码知识图谱 CLI，输出紧凑确定性 JSON**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行代码知识图谱工具：用 tree-sitter 对 15+ 种 Ti
 ```mermaid
 xychart-beta
     title "rgctl/rgctl 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-01"]
     y-axis "stars" 24 --> 29
     line [25, 28, 28]
 ```
 
-2026-10-26 25 → 2026-10-31 28（+3）
+2026-10-26 25 → 2026-11-01 28（+3）
 
 
 ---

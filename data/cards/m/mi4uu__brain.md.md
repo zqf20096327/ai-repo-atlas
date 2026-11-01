@@ -1,6 +1,6 @@
 # mi4uu/brain.md
 
-⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/mi4uu/brain.md) · [官网](https://brainmd.lipinski.work) · 个人维护
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/mi4uu/brain.md) · 个人维护
 
 **本地优先 Markdown 笔记库，内置 MCP 服务器供 AI 代理读写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mi4uu/brain.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-31 34（+0）
+2026-10-18 34 → 2026-11-01 34（+0）
 
 
 ---

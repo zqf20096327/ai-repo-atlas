@@ -44,13 +44,13 @@ Sema4.ai Action Server：开发者用 @tool/@action 装饰器标记 Python 函�
 
 ```mermaid
 xychart-beta
-    title "Sema4AI/actions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "Sema4AI/actions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 139 --> 142
-    line [140, 141]
+    line [140, 141, 141]
 ```
 
-2026-10-18 140 → 2026-10-31 141（+1）
+2026-10-18 140 → 2026-11-01 141（+1）
 
 
 ---

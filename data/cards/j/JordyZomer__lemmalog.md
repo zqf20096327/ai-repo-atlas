@@ -1,6 +1,6 @@
 # JordyZomer/lemmalog
 
-⭐ 342 · Rust · MIT · 推送 2026-10-01 · [GitHub](https://github.com/JordyZomer/lemmalog) · 个人维护
+⭐ 343 · Rust · MIT · 推送 2026-10-01 · [GitHub](https://github.com/JordyZomer/lemmalog) · 个人维护
 
 **面向 LLM agent 记忆的 Datalog 演绎数据库引擎，附 MCP 服务器**
 
@@ -45,13 +45,13 @@ Rust 实现的分层 Datalog 引擎，作为 LLM agent 的记忆层使用：LLM 
 
 ```mermaid
 xychart-beta
-    title "JordyZomer/lemmalog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 339 --> 343
-    line [340, 341, 342]
+    title "JordyZomer/lemmalog 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 339 --> 344
+    line [340, 341, 342, 343]
 ```
 
-2026-10-18 340 → 2026-10-31 342（+2）
+2026-10-18 340 → 2026-11-01 343（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-anywhere/open-anywhere
 
-⭐ 15 · Go · 推送 2026-10-30 · [GitHub](https://github.com/open-anywhere/open-anywhere) · [官网](https://www.bilibili.com/video/BV1AznU6YELm/) · 组织维护 · 中文 README
+⭐ 15 · Go · 推送 2026-10-31 · [GitHub](https://github.com/open-anywhere/open-anywhere) · [官网](https://www.bilibili.com/video/BV1AznU6YELm/) · 组织维护 · 中文 README
 
 **语音一句话让云端 Agent 当场生成 Web 应用并投屏到电视**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-anywhere/open-anywhere 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 8 --> 16
     line [9, 13, 14, 15, 15]
 ```
 
-2026-10-26 9 → 2026-10-31 15（+6）
+2026-10-26 9 → 2026-11-01 15（+6）
 
 
 ---

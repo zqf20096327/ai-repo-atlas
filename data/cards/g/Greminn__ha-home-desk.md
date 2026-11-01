@@ -1,6 +1,6 @@
 # Greminn/ha-home-desk
 
-⭐ 14 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Greminn/ha-home-desk) · [官网](https://greminn.github.io/ha-home-desk/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Greminn/ha-home-desk) · [官网](https://greminn.github.io/ha-home-desk/) · 个人维护
 
 **Home Assistant 内的家庭工单系统，AI 可选辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Greminn/ha-home-desk 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01"]
     y-axis "stars" 11 --> 15
     line [12, 14, 14]
 ```
 
-2026-10-26 12 → 2026-10-31 14（+2）
+2026-10-26 12 → 2026-11-01 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # BEN020406/maimen-order-manager
 
-⭐ 109 · Python · 推送 2026-10-22 · [GitHub](https://github.com/BEN020406/maimen-order-manager) · [官网](https://ben020406.github.io/maimen-order-manager/) · 个人维护 · 中文 README
+⭐ 108 · Python · 推送 2026-10-22 · [GitHub](https://github.com/BEN020406/maimen-order-manager) · [官网](https://ben020406.github.io/maimen-order-manager/) · 个人维护 · 中文 README
 
 **麦当劳订单权益管理技能：理清待评价、兑礼与发票凑单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BEN020406/maimen-order-manager 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-01"]
     y-axis "stars" 37 --> 115
-    line [43, 102, 109, 109]
+    line [43, 102, 109, 108]
 ```
 
-2026-10-23 43 → 2026-10-31 109（+66）
+2026-10-23 43 → 2026-11-01 108（+65）
 
 
 ---

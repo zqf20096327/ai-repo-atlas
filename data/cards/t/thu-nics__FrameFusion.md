@@ -1,6 +1,6 @@
 # thu-nics/FrameFusion
 
-⭐ 81 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/thu-nics/FrameFusion) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/framefusion/) · 组织维护
+⭐ 82 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/thu-nics/FrameFusion) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/framefusion/) · 组织维护
 
 **大型视觉语言模型的视频 token 压缩方法（ICCV'25 官方代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thu-nics/FrameFusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 79 --> 82
-    line [80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 79 --> 83
+    line [80, 81, 82]
 ```
 
-2026-10-18 80 → 2026-10-31 81（+1）
+2026-10-18 80 → 2026-11-01 82（+2）
 
 
 ---

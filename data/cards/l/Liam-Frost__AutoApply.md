@@ -1,6 +1,6 @@
 # Liam-Frost/AutoApply
 
-⭐ 56 · Python · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/Liam-Frost/AutoApply) · 个人维护 · 中文 README
+⭐ 57 · Python · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/Liam-Frost/AutoApply) · 个人维护 · 中文 README
 
 **求职者的本地求职自动化工作台：发现岗位、评分、生成材料、人工把关提交**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Liam-Frost/AutoApply 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-10-31 56（+0）
+2026-10-18 56 → 2026-11-01 57（+1）
 
 
 ---

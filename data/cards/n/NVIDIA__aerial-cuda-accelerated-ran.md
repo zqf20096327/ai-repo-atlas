@@ -1,6 +1,6 @@
 # NVIDIA/aerial-cuda-accelerated-ran
 
-⭐ 452 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/NVIDIA/aerial-cuda-accelerated-ran) · [官网](https://docs.nvidia.com/aerial/cuda-accelerated-ran/latest/index.html) · 组织维护
+⭐ 453 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/NVIDIA/aerial-cuda-accelerated-ran) · [官网](https://docs.nvidia.com/aerial/cuda-accelerated-ran/latest/index.html) · 组织维护
 
 **面向 NVIDIA GPU 的 5G/6G 基站软件 SDK，构建 O-RAN 合规 gNB**
 
@@ -45,12 +45,12 @@ NVIDIA Aerial CUDA-Accelerated RAN 是用于构建商用级、符合 3GPP 与 O-
 ```mermaid
 xychart-beta
     title "NVIDIA/aerial-cuda-accelerated-ran 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 442 --> 453
-    line [443, 444, 446, 448, 450, 452, 452]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 442 --> 454
+    line [443, 444, 446, 448, 450, 452, 453]
 ```
 
-2026-10-18 443 → 2026-10-31 452（+9）
+2026-10-18 443 → 2026-11-01 453（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # wenxuanzhang1209-cyber/meetdo
 
-⭐ 259 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wenxuanzhang1209-cyber/meetdo) · [官网](https://jkincolisten.cloud) · 组织维护 · 中文 README
+⭐ 305 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/wenxuanzhang1209-cyber/meetdo) · [官网](https://jkincolisten.cloud) · 组织维护 · 中文 README
 
 **自托管的会议转行动 AI：本地 ASR/LLM 生成结构化纪要并导出 DOCX/PDF**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenxuanzhang1209-cyber/meetdo 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 203 --> 264
-    line [208, 259]
+    title "wenxuanzhang1209-cyber/meetdo 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 199 --> 314
+    line [208, 259, 305]
 ```
 
-2026-10-30 208 → 2026-10-31 259（+51）
+2026-10-30 208 → 2026-11-01 305（+97）
 
 
 ---

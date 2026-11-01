@@ -1,6 +1,6 @@
 # oceanbase/pyseekdb
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/oceanbase/pyseekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
+⭐ 62 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/oceanbase/pyseekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
 
 **面向 OceanBase/seekdb 的 Python SDK，提供向量与全文检索接口**
 
@@ -46,12 +46,12 @@ OceanBase 官方维护的 Python SDK，统一封装 seekdb 与 OceanBase AI sear
 ```mermaid
 xychart-beta
     title "oceanbase/pyseekdb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-31 62（+0）
+2026-10-18 62 → 2026-11-01 62（+0）
 
 
 ---

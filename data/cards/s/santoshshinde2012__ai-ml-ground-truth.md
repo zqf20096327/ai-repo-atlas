@@ -1,6 +1,6 @@
 # santoshshinde2012/ai-ml-ground-truth
 
-⭐ 39 · Python · CC-BY-4.0 · 推送 2026-10-30 · [GitHub](https://github.com/santoshshinde2012/ai-ml-ground-truth) · [官网](https://santoshshinde2012.github.io/ai-ml-ground-truth/) · 个人维护
+⭐ 39 · JavaScript · CC-BY-4.0 · 推送 2026-10-31 · [GitHub](https://github.com/santoshshinde2012/ai-ml-ground-truth) · [官网](https://santoshshinde2012.github.io/ai-ml-ground-truth/) · 个人维护
 
 **面向在职开发者的 AI/ML 交互式电子书与实践指南**
 
@@ -40,6 +40,18 @@
 > L3: **A working developer's path into AI and machine learning.**
 > L13: The illustrated web edition adds worked lessons, eight interactive explanations and a reproducible
 > L55: The Python lab runs without paid services, API keys or third-party packages:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "santoshshinde2012/ai-ml-ground-truth 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-10-31 39 → 2026-11-01 39（+0）
 
 
 ---

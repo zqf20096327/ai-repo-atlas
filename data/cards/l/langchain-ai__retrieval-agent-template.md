@@ -1,6 +1,6 @@
 # langchain-ai/retrieval-agent-template
 
-⭐ 180 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/retrieval-agent-template) · 组织维护
+⭐ 180 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/retrieval-agent-template) · 组织维护
 
 **LangGraph 检索问答 Agent 起步模板，供开发者定制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/retrieval-agent-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 178 --> 181
     line [179, 180, 180]
 ```
 
-2026-10-18 179 → 2026-10-31 180（+1）
+2026-10-18 179 → 2026-11-01 180（+1）
 
 
 ---

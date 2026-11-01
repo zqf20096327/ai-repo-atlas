@@ -1,6 +1,6 @@
 # idanmoradarthas/DataScienceUtils
 
-⭐ 37 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/idanmoradarthas/DataScienceUtils) · [官网](https://datascienceutils.readthedocs.io/en/latest/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/idanmoradarthas/DataScienceUtils) · [官网](https://datascienceutils.readthedocs.io/en/latest/) · 个人维护
 
 **扩展 Scikit-Learn/Matplotlib API 的数据科学常用方法库**
 
@@ -45,12 +45,12 @@ Python 工具包 ds_utils，扩展 Scikit-Learn 与 Matplotlib API，提供数�
 ```mermaid
 xychart-beta
     title "idanmoradarthas/DataScienceUtils 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-31 37（+0）
+2026-10-18 37 → 2026-11-01 37（+0）
 
 
 ---

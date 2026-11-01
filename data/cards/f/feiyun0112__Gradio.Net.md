@@ -1,6 +1,6 @@
 # feiyun0112/Gradio.Net
 
-⭐ 337 · C# · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/feiyun0112/Gradio.Net) · 个人维护 · 中文 README
+⭐ 337 · C# · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/feiyun0112/Gradio.Net) · 个人维护 · 中文 README
 
 **Gradio 的 .NET 移植：用 C# 几行代码为模型/API 构建 Web 界面**
 
@@ -39,6 +39,18 @@
 
 > L5: Gradio for .NET — a port of Gradio 6.30.0, the Python package
 > L9: With Gradio.Net you build a UI for a model, an API or any C# method in a few lines: users drag in
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "feiyun0112/Gradio.Net 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 336 --> 338
+    line [337, 337]
+```
+
+2026-10-31 337 → 2026-11-01 337（+0）
 
 
 ---

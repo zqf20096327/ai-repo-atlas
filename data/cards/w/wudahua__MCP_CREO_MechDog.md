@@ -1,6 +1,6 @@
 # wudahua/MCP_CREO_MechDog
 
-⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wudahua/MCP_CREO_MechDog) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/wudahua/MCP_CREO_MechDog) · 个人维护 · 中文 README
 
 **让 AI 客户端通过 MCP 直接驱动 Creo 建原生参数化特征的本地服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wudahua/MCP_CREO_MechDog 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 2 --> 14
-    line [3, 6, 8, 10, 11, 13, 13]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 2 --> 15
+    line [3, 6, 8, 10, 11, 13, 14]
 ```
 
-2026-10-19 3 → 2026-10-31 13（+10）
+2026-10-19 3 → 2026-11-01 14（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # AidaShika/personal-agent-dossier
 
-⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AidaShika/personal-agent-dossier) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AidaShika/personal-agent-dossier) · 个人维护 · 中文 README
 
 **个人 AI agent 跨平台迁移的中立档案格式与适配器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AidaShika/personal-agent-dossier 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 5 --> 20
-    line [6, 14, 19]
+    title "AidaShika/personal-agent-dossier 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 5 --> 23
+    line [6, 14, 19, 22]
 ```
 
-2026-10-29 6 → 2026-10-31 19（+13）
+2026-10-29 6 → 2026-11-01 22（+16）
 
 
 ---

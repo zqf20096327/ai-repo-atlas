@@ -1,6 +1,6 @@
 # zeeq-ai/zeeq-app
 
-⭐ 13 · C# · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/zeeq-ai/zeeq-app) · [官网](https://zeeq.ai) · 组织维护
+⭐ 13 · C# · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/zeeq-ai/zeeq-app) · [官网](https://zeeq.ai) · 组织维护
 
 **面向团队的开源 MCP 遥测服务器：追踪 agent 上下文使用情况**
 
@@ -45,13 +45,13 @@ Zeeq 是一个自托管 MCP 服务器，提供 agent 上下文中哪些内容被
 
 ```mermaid
 xychart-beta
-    title "zeeq-ai/zeeq-app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
+    title "zeeq-ai/zeeq-app 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-10-31 13（+3）
+2026-10-18 10 → 2026-11-01 13（+3）
 
 
 ---

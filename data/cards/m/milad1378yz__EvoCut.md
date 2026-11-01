@@ -1,6 +1,6 @@
 # milad1378yz/EvoCut
 
-⭐ 13 · Python · 推送 2026-09-01 · [GitHub](https://github.com/milad1378yz/EvoCut) · 个人维护
+⭐ 11 · Python · 推送 2026-09-01 · [GitHub](https://github.com/milad1378yz/EvoCut) · 个人维护
 
 **用进化搜索与 LLM 为 MILP 自动生成加速割平面的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "milad1378yz/EvoCut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 10 --> 14
+    line [13, 11]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 11（-2）
 
 
 ---

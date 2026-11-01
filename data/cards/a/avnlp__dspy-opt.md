@@ -1,6 +1,6 @@
 # avnlp/dspy-opt
 
-⭐ 15 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/avnlp/dspy-opt) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/avnlp/dspy-opt) · 组织维护
 
 **基于 DSPy 的 RAG 流水线自动优化框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "avnlp/dspy-opt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

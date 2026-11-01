@@ -1,6 +1,6 @@
 # mourner/claudefiles
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/mourner/claudefiles) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/mourner/claudefiles) · 个人维护
 
 **Claude Code 效率工具集：状态栏、防浪费守卫与技能参考**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mourner/claudefiles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

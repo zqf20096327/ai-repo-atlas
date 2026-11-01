@@ -45,12 +45,12 @@ Hoppscotch 官方维护的 Model Context Protocol 服务器，供 Claude Code、
 ```mermaid
 xychart-beta
     title "hoppscotch/hoppscotch-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-01"]
     y-axis "stars" 10 --> 15
     line [11, 12, 14, 14]
 ```
 
-2026-10-19 11 → 2026-10-31 14（+3）
+2026-10-19 11 → 2026-11-01 14（+3）
 
 
 ---

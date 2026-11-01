@@ -1,6 +1,6 @@
 # LofiSu/LLM-NoteBook
 
-⭐ 18 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/LofiSu/LLM-NoteBook) · 个人维护 · 中文 README
+⭐ 18 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/LofiSu/LLM-NoteBook) · 个人维护 · 中文 README
 
 **从零开始的大语言模型系统性学习笔记与实践指南**
 
@@ -38,6 +38,18 @@
 
 > L12: 本项目是一个**系统性的 LLM 学习笔记库**，旨在帮助大家深入理解大语言模型的原理、应用和开发实践。从基础概念到高级应用，从理论学习到实战项目，这里记录了完整的 LLM 学习路径。
 > L21: * 💼 **面试准备** 大模型相关面试题整理
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LofiSu/LLM-NoteBook 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
+```
+
+2026-10-31 18 → 2026-11-01 18（+0）
 
 
 ---

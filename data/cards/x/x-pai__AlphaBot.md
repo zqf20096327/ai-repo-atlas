@@ -1,6 +1,6 @@
 # x-pai/AlphaBot
 
-⭐ 407 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/x-pai/AlphaBot) · [官网](https://alphabot.x-pai.com) · 组织维护 · 中文 README
+⭐ 406 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/x-pai/AlphaBot) · [官网](https://alphabot.x-pai.com) · 组织维护 · 中文 README
 
 **面向个人投资者的 AI 股票分析助手应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "x-pai/AlphaBot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31"]
+    title "x-pai/AlphaBot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 402 --> 408
-    line [403, 404, 405, 406, 407]
+    line [403, 404, 405, 406, 407, 406]
 ```
 
-2026-10-18 403 → 2026-10-31 407（+4）
+2026-10-18 403 → 2026-11-01 406（+3）
 
 
 ---

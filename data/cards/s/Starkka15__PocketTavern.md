@@ -1,6 +1,6 @@
 # Starkka15/PocketTavern
 
-⭐ 35 · Kotlin · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Starkka15/PocketTavern) · 个人维护 · 中文 README
+⭐ 36 · Kotlin · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Starkka15/PocketTavern) · 个人维护 · 中文 README
 
 **Android 上的 SillyTavern 兼容 AI 聊天客户端**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Starkka15/PocketTavern 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 33 --> 36
-    line [35, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 33 --> 37
+    line [35, 34, 35, 36]
 ```
 
-2026-10-18 35 → 2026-10-31 35（+0）
+2026-10-18 35 → 2026-11-01 36（+1）
 
 
 ---

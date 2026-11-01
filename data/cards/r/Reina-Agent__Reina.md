@@ -1,6 +1,6 @@
 # Reina-Agent/Reina
 
-⭐ 32 · AGPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/Reina-Agent/Reina) · [官网](https://github.com/Reina-Agent/Reina/releases/latest) · 个人维护 · 中文 README
+⭐ 33 · AGPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/Reina-Agent/Reina) · [官网](https://github.com/Reina-Agent/Reina/releases/latest) · 个人维护 · 中文 README
 
 **开源桌面 AI Agent：自带模型、多智能体协作与 MCP 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Reina-Agent/Reina 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-31 32（+0）
+2026-10-18 32 → 2026-11-01 33（+1）
 
 
 ---

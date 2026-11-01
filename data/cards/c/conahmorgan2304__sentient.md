@@ -1,6 +1,6 @@
 # conahmorgan2304/sentient
 
-⭐ 27 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/conahmorgan2304/sentient) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/conahmorgan2304/sentient) · 个人维护
 
 **Home Assistant 的共享 AI 大脑：全屋记忆与统一语音规则**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "conahmorgan2304/sentient 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 4 --> 29
-    line [6, 7, 8, 27]
+    title "conahmorgan2304/sentient 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 4 --> 33
+    line [6, 7, 8, 27, 31]
 ```
 
-2026-10-25 6 → 2026-10-31 27（+21）
+2026-10-25 6 → 2026-11-01 31（+25）
 
 
 ---

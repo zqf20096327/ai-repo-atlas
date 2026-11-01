@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Margueritecluttered489/google-rkp-sw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    title "Margueritecluttered489/google-rkp-sw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 14]
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-10-31 14（+2）
+2026-10-18 12 → 2026-11-01 14（+2）
 
 
 ---

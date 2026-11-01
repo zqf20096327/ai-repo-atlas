@@ -1,6 +1,6 @@
 # epicsagas/epic-harness
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/epicsagas/epic-harness) · [官网](https://epicsagas.github.io/epic-harness/) · 组织维护 · 中文 README
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/epicsagas/epic-harness) · [官网](https://epicsagas.github.io/epic-harness/) · 组织维护 · 中文 README
 
 **自我进化的 Claude Code 插件：3 命令+25 技能+自主 spec-to-PR 流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "epicsagas/epic-harness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 17 --> 22
-    line [19, 18, 19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 17 --> 23
+    line [19, 18, 19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-10-31 21（+2）
+2026-10-18 19 → 2026-11-01 22（+3）
 
 
 ---

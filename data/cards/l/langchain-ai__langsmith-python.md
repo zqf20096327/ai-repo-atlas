@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-python
 
-⭐ 20 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/langsmith-python) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/langchain-ai/langsmith-python) · 组织维护
 
 **LangSmith 平台的 Python 客户端 SDK：LLM 应用追踪与评测**
 
@@ -45,13 +45,13 @@ LangChain 团队维护的 Python SDK，用于连接 LangSmith 平台：通过环
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-python 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 10 --> 21
-    line [11, 15, 16, 17, 18, 19, 20]
+    title "langchain-ai/langsmith-python 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 10 --> 22
+    line [11, 15, 16, 17, 18, 19, 20, 21]
 ```
 
-2026-10-18 11 → 2026-10-31 20（+9）
+2026-10-18 11 → 2026-11-01 21（+10）
 
 
 ---

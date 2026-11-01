@@ -1,6 +1,6 @@
 # AutomataNexus/AxonML
 
-⭐ 33 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/AutomataNexus/AxonML) · [官网](https://automatanexus.com) · 组织维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/AutomataNexus/AxonML) · [官网](https://automatanexus.com) · 组织维护
 
 **纯 Rust 编写的 PyTorch 等价深度学习框架（22+ crates）**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "AutomataNexus/AxonML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-31 33（+0）
+2026-10-18 33 → 2026-11-01 34（+1）
 
 
 ---

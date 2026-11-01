@@ -1,6 +1,6 @@
 # RaguTeam/RAGU
 
-⭐ 143 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/RaguTeam/RAGU) · 组织维护 · 中文 README
+⭐ 143 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/RaguTeam/RAGU) · 组织维护 · 中文 README
 
 **模块化 GraphRAG 框架：从文本构建知识图谱并多策略检索问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RaguTeam/RAGU 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 137 --> 144
     line [138, 139, 141, 143, 143]
 ```
 
-2026-10-18 138 → 2026-10-31 143（+5）
+2026-10-18 138 → 2026-11-01 143（+5）
 
 
 ---

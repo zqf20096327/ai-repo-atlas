@@ -1,6 +1,6 @@
 # hamr0/agentic-toolkit
 
-⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hamr0/agentic-toolkit) · 个人维护
+⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/hamr0/agentic-toolkit) · 个人维护
 
 **面向 AI 编程助手的 10 代理 + 12 命令工具套件，附 Linux 开发环境**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hamr0/agentic-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-10-31 23（+1）
+2026-10-18 22 → 2026-11-01 23（+1）
 
 
 ---

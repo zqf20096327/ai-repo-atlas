@@ -1,6 +1,6 @@
 # ObservedObserver/chatgpt-i18n
 
-⭐ 803 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/ObservedObserver/chatgpt-i18n) · [官网](https://www.i18n.ing/) · 个人维护
+⭐ 802 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/ObservedObserver/chatgpt-i18n) · [官网](https://www.i18n.ing/) · 个人维护
 
 **用 LLM 翻译本地化 locale 文件的 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ObservedObserver/chatgpt-i18n 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 802 --> 806
-    line [805, 804, 803, 803]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 801 --> 806
+    line [805, 804, 803, 802]
 ```
 
-2026-10-18 805 → 2026-10-31 803（-2）
+2026-10-18 805 → 2026-11-01 802（-3）
 
 
 ---

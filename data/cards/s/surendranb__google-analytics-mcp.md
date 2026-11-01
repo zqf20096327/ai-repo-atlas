@@ -1,6 +1,6 @@
 # surendranb/google-analytics-mcp
 
-⭐ 243 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/surendranb/google-analytics-mcp) · [官网](https://ga4mcp.com) · 个人维护
+⭐ 244 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/surendranb/google-analytics-mcp) · [官网](https://ga4mcp.com) · 个人维护
 
 **让 AI agent 查询 Google Analytics 4 数据的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "surendranb/google-analytics-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 242 --> 244
-    line [243, 243]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 242 --> 245
+    line [243, 244]
 ```
 
-2026-10-18 243 → 2026-10-31 243（+0）
+2026-10-18 243 → 2026-11-01 244（+1）
 
 
 ---

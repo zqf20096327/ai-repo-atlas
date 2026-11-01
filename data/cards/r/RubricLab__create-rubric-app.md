@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RubricLab/create-rubric-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "RubricLab/create-rubric-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 149 --> 152
-    line [151, 150]
+    line [151, 150, 150]
 ```
 
-2026-10-18 151 → 2026-10-31 150（-1）
+2026-10-18 151 → 2026-11-01 150（-1）
 
 
 ---

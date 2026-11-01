@@ -46,12 +46,12 @@ Behave 是一份零依赖的 Markdown 指令文件（BEHAVE.md）加一个仅用
 ```mermaid
 xychart-beta
     title "zeljkoavramovic/behave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

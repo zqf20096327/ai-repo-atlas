@@ -1,6 +1,6 @@
 # liufeng1976/douyin-taobao-cs
 
-⭐ 22 · JavaScript · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/liufeng1976/douyin-taobao-cs) · [官网](https://bossaios.com) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/liufeng1976/douyin-taobao-cs) · [官网](https://bossaios.com) · 个人维护 · 中文 README
 
 **抖音/淘宝/天猫/千牛客服消息接入 BossAI 的 Connector 参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liufeng1976/douyin-taobao-cs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 22（+0）
 
 
 ---

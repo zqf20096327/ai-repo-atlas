@@ -1,6 +1,6 @@
 # AkshitIreddy/Interactive-LLM-Powered-NPCs
 
-⭐ 734 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) · [官网](https://www.linkedin.com/company/alystria-ai) · 个人维护
+⭐ 735 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) · [官网](https://www.linkedin.com/company/alystria-ai) · 个人维护
 
 **给已发售游戏加可语音对话的 LLM NPC 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AkshitIreddy/Interactive-LLM-Powered-NPCs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 731 --> 735
-    line [732, 733, 734, 734]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 731 --> 736
+    line [732, 733, 734, 735]
 ```
 
-2026-10-18 732 → 2026-10-31 734（+2）
+2026-10-18 732 → 2026-11-01 735（+3）
 
 
 ---

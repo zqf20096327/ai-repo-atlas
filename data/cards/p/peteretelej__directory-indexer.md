@@ -1,6 +1,6 @@
 # peteretelej/directory-indexer
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/peteretelej/directory-indexer) · [官网](https://etelej.com/apps/directory-indexer) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/peteretelej/directory-indexer) · [官网](https://etelej.com/apps/directory-indexer) · 个人维护
 
 **将本地目录索引为知识库、供 AI 助手语义检索的 MCP Server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "peteretelej/directory-indexer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-31 18（+0）
+2026-10-18 18 → 2026-11-01 18（+0）
 
 
 ---

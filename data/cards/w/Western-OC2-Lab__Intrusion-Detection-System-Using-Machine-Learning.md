@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
+    title "Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 599 --> 604
-    line [601, 603, 601, 600, 601]
+    line [601, 603, 601, 600, 601, 601]
 ```
 
-2026-10-18 601 → 2026-10-31 601（+0）
+2026-10-18 601 → 2026-11-01 601（+0）
 
 
 ---

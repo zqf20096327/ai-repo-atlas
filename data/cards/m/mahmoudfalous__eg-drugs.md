@@ -1,6 +1,6 @@
 # mahmoudfalous/eg-drugs
 
-⭐ 34 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mahmoudfalous/eg-drugs) · 个人维护
+⭐ 34 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mahmoudfalous/eg-drugs) · [官网](https://eg-drugs-api.mahmoudfalous.workers.dev/) · 个人维护
 
 **埃及药品数据集：26,562 条药品记录含 FDA 映射与阿拉伯语信息**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahmoudfalous/eg-drugs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "mahmoudfalous/eg-drugs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 27 --> 35
-    line [28, 29, 30, 31, 32, 33, 34]
+    line [28, 29, 30, 31, 32, 33, 34, 34]
 ```
 
-2026-10-18 28 → 2026-10-31 34（+6）
+2026-10-18 28 → 2026-11-01 34（+6）
 
 
 ---

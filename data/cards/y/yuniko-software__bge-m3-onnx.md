@@ -1,6 +1,6 @@
 # yuniko-software/bge-m3-onnx
 
-⭐ 45 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-18 · [GitHub](https://github.com/yuniko-software/bge-m3-onnx) · 组织维护
+⭐ 46 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-18 · [GitHub](https://github.com/yuniko-software/bge-m3-onnx) · 组织维护
 
 **BGE-M3 多语言嵌入模型的 ONNX 多语言实现（C#/Java/Python）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuniko-software/bge-m3-onnx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-31 45（+0）
+2026-10-18 45 → 2026-11-01 46（+1）
 
 
 ---

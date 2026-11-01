@@ -1,6 +1,6 @@
 # y3nk0/practical-guides
 
-⭐ 85 · TeX · 推送 2026-10-29 · [GitHub](https://github.com/y3nk0/practical-guides) · 组织维护
+⭐ 88 · TeX · 推送 2026-10-29 · [GitHub](https://github.com/y3nk0/practical-guides) · 组织维护
 
 **ML/NLP 学位论文实用指南合集：博士/硕士/本科三套 PDF**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "y3nk0/practical-guides 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 82 --> 86
-    line [83, 85]
+    title "y3nk0/practical-guides 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 82 --> 89
+    line [83, 85, 88]
 ```
 
-2026-10-30 83 → 2026-10-31 85（+2）
+2026-10-30 83 → 2026-11-01 88（+5）
 
 
 ---

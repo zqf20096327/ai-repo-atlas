@@ -1,6 +1,6 @@
 # openlanguagemodel/openlanguagemodel
 
-⭐ 27 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/openlanguagemodel/openlanguagemodel) · [官网](https://openlanguagemodel.github.io/openlanguagemodel/) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/openlanguagemodel/openlanguagemodel) · [官网](https://openlanguagemodel.github.io/openlanguagemodel/) · 组织维护
 
 **可读可组合的 PyTorch 语言模型构建与训练库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openlanguagemodel/openlanguagemodel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-10-31 27（+1）
+2026-10-18 26 → 2026-11-01 28（+2）
 
 
 ---

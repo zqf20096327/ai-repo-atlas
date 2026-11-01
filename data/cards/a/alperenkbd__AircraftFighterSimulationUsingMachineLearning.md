@@ -1,6 +1,6 @@
 # alperenkbd/AircraftFighterSimulationUsingMachineLearning
 
-⭐ 27 · C# · 推送 2025-11-04 · [GitHub](https://github.com/alperenkbd/AircraftFighterSimulationUsingMachineLearning) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Unity3D 空战模拟：用强化学习训练敌机 AI 的开源仿真项目**
 

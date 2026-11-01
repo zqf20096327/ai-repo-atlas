@@ -1,6 +1,6 @@
 # AHM-ID/RepoDoc
 
-⭐ 17 · HTML · MIT · 推送 2026-08-13 · [GitHub](https://github.com/AHM-ID/RepoDoc) · [官网](https://ahm-id.github.io/RepoDoc) · 个人维护
+⭐ 18 · HTML · MIT · 推送 2026-08-13 · [GitHub](https://github.com/AHM-ID/RepoDoc) · [官网](https://ahm-id.github.io/RepoDoc) · 个人维护
 
 **零依赖脚本：把整个代码仓库导出为单个 Markdown 文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AHM-ID/RepoDoc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 18（+1）
 
 
 ---

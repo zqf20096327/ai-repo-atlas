@@ -1,6 +1,6 @@
 # MaxiDonkey/Pythia-webView2
 
-⭐ 14 · JavaScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/MaxiDonkey/Pythia-webView2) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/MaxiDonkey/Pythia-webView2) · 个人维护
 
 **给 Delphi 桌面应用嵌入 AI 聊天工作区的 VCL/FMX 组件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaxiDonkey/Pythia-webView2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

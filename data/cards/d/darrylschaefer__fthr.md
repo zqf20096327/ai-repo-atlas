@@ -1,6 +1,6 @@
 # darrylschaefer/fthr
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/darrylschaefer/fthr) · [官网](https://fthr.vercel.app/) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/darrylschaefer/fthr) · [官网](https://fthr.vercel.app/) · 个人维护
 
 **浏览器端可定制写作工作区，集成 AI 助手、宏与语义搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "darrylschaefer/fthr 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-01"]
     y-axis "stars" 40 --> 43
     line [41, 42, 42]
 ```
 
-2026-10-19 41 → 2026-10-31 42（+1）
+2026-10-19 41 → 2026-11-01 42（+1）
 
 
 ---

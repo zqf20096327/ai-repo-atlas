@@ -1,6 +1,6 @@
 # descriptinc/descript-audio-codec
 
-⭐ 1,882 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/descriptinc/descript-audio-codec) · [官网](https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5) · 组织维护
+⭐ 1,883 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/descriptinc/descript-audio-codec) · [官网](https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5) · 组织维护
 
 **神经音频编解码器：44.1kHz 音频压缩至 8kbps 离散码**
 
@@ -45,13 +45,13 @@ Descript 开源的通用神经音频编解码器（Improved RVQGAN），提供�
 
 ```mermaid
 xychart-beta
-    title "descriptinc/descript-audio-codec 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1875 --> 1883
-    line [1876, 1877, 1878, 1879, 1881, 1882]
+    title "descriptinc/descript-audio-codec 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1875 --> 1884
+    line [1876, 1877, 1878, 1879, 1881, 1882, 1883]
 ```
 
-2026-10-18 1,876 → 2026-10-31 1,882（+6）
+2026-10-18 1,876 → 2026-11-01 1,883（+7）
 
 
 ---

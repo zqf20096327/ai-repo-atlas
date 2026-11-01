@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeuroDiffGym/neurodiffeq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "NeuroDiffGym/neurodiffeq 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 789 --> 792
-    line [790, 791]
+    line [790, 791, 791]
 ```
 
-2026-10-18 790 → 2026-10-31 791（+1）
+2026-10-18 790 → 2026-11-01 791（+1）
 
 
 ---

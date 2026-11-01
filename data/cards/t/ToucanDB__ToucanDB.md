@@ -1,6 +1,6 @@
 # ToucanDB/ToucanDB
 
-⭐ 16 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/ToucanDB/ToucanDB) · [官网](https://PierreHenry.Dev) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ToucanDB/ToucanDB) · [官网](https://PierreHenry.Dev) · 个人维护
 
 **嵌入式本地向量数据库引擎，面向 RAG 与语义搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ToucanDB/ToucanDB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-10-31 16（+1）
+2026-10-18 15 → 2026-11-01 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tensorflow/gnn
 
-⭐ 1,548 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tensorflow/gnn) · 组织维护
+⭐ 1,549 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tensorflow/gnn) · 组织维护
 
 **在 TensorFlow 上构建图神经网络（GNN）的库**
 
@@ -45,13 +45,13 @@ TensorFlow GNN 提供构建图神经网络所需的组件：GraphTensor 类型�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/gnn 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 1544 --> 1549
-    line [1545, 1547, 1548, 1547, 1546, 1548]
+    title "tensorflow/gnn 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1544 --> 1550
+    line [1545, 1547, 1548, 1547, 1546, 1548, 1549]
 ```
 
-2026-10-18 1,545 → 2026-10-31 1,548（+3）
+2026-10-18 1,545 → 2026-11-01 1,549（+4）
 
 
 ---

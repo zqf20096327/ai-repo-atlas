@@ -40,6 +40,18 @@
 > L8: Pyminion is a library for executing and analyzing games of Dominion.
 > L40: Defining new bots is relatively straightforward. Inherit from the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "evanofslack/pyminion 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-10-31 24 → 2026-11-01 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `15d969b6df23` · [字段定义](../../DATASET.md)*

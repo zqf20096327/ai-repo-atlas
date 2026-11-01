@@ -1,6 +1,6 @@
 # cloudycotton/whiz
 
-⭐ 277 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/cloudycotton/whiz) · 个人维护
+⭐ 276 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/cloudycotton/whiz) · 个人维护
 
 **终端自然语言助手：把英文请求转为可执行命令**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "cloudycotton/whiz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 276 --> 278
-    line [277, 277]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 275 --> 278
+    line [277, 276]
 ```
 
-2026-10-18 277 → 2026-10-31 277（+0）
+2026-10-18 277 → 2026-11-01 276（-1）
 
 
 ---

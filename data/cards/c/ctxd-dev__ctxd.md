@@ -1,6 +1,6 @@
 # ctxd-dev/ctxd
 
-⭐ 58 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ctxd-dev/ctxd) · [官网](https://ctxd.dev) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ctxd-dev/ctxd) · [官网](https://ctxd.dev) · 组织维护
 
 **为 AI agent 提供本地文件上下文的基础设施**
 
@@ -42,13 +42,13 @@ ctxd 是面向 AI agent 的本地上下文基础设施：追踪用户在计算�
 
 ```mermaid
 xychart-beta
-    title "ctxd-dev/ctxd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    title "ctxd-dev/ctxd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
     y-axis "stars" 57 --> 64
-    line [62, 63, 59, 58]
+    line [62, 63, 59, 58, 58]
 ```
 
-2026-10-18 62 → 2026-10-31 58（-4）
+2026-10-18 62 → 2026-11-01 58（-4）
 
 
 ---

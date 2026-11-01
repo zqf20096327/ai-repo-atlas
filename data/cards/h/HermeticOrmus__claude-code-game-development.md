@@ -1,6 +1,6 @@
 # HermeticOrmus/claude-code-game-development
 
-⭐ 76 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/HermeticOrmus/claude-code-game-development) · [官网](https://ormus.solutions) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/HermeticOrmus/claude-code-game-development) · [官网](https://ormus.solutions) · 个人维护
 
 **面向 Claude Code 的游戏开发插件市场与教程仓库（87 插件+80 章手册）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HermeticOrmus/claude-code-game-development 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 70 --> 77
-    line [71, 72, 73, 74, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 70 --> 78
+    line [71, 72, 73, 74, 75, 76, 77]
 ```
 
-2026-10-18 71 → 2026-10-31 76（+5）
+2026-10-18 71 → 2026-11-01 77（+6）
 
 
 ---

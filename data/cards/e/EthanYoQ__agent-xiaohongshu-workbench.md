@@ -1,6 +1,6 @@
 # EthanYoQ/agent-xiaohongshu-workbench
 
-⭐ 166 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EthanYoQ/agent-xiaohongshu-workbench) · 个人维护 · 中文 README
+⭐ 167 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EthanYoQ/agent-xiaohongshu-workbench) · 个人维护 · 中文 README
 
 **面向多账号创作者的小红书图文内容本地 Agent 工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EthanYoQ/agent-xiaohongshu-workbench 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 156 --> 167
-    line [157, 158, 159, 160, 163, 164, 165, 166]
+    title "EthanYoQ/agent-xiaohongshu-workbench 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 156 --> 168
+    line [157, 158, 159, 160, 163, 164, 165, 166, 167]
 ```
 
-2026-10-18 157 → 2026-10-31 166（+9）
+2026-10-18 157 → 2026-11-01 167（+10）
 
 
 ---

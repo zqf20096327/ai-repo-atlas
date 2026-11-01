@@ -1,6 +1,6 @@
 # huggingface/VLAb
 
-⭐ 204 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/huggingface/VLAb) · 组织维护
+⭐ 206 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/huggingface/VLAb) · 组织维护
 
 **面向研究者的 VLA 模型预训练库，SmolVLA 官方复现套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/VLAb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 203 --> 205
-    line [204, 204]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 203 --> 207
+    line [204, 206]
 ```
 
-2026-10-18 204 → 2026-10-31 204（+0）
+2026-10-18 204 → 2026-11-01 206（+2）
 
 
 ---

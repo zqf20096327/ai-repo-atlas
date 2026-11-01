@@ -46,12 +46,12 @@ aws-samples 出品的"产品发现助手"示例工程，演示以 AWS Step Funct
 ```mermaid
 xychart-beta
     title "aws-samples/sample-durable-multi-agent-step-functions-agentcore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

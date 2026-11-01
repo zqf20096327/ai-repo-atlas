@@ -1,6 +1,6 @@
 # a-r-j/ProteinWorkshop
 
-⭐ 279 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/a-r-j/ProteinWorkshop) · [官网](https://proteins.sh/) · 个人维护
+⭐ 279 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/a-r-j/ProteinWorkshop) · [官网](https://proteins.sh/) · 个人维护
 
 **面向蛋白质结构表征学习的基准评测框架（ICLR 2024）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a-r-j/ProteinWorkshop 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-30", "2026-11-01"]
     y-axis "stars" 278 --> 280
     line [279, 279]
 ```
 
-2026-10-30 279 → 2026-10-31 279（+0）
+2026-10-30 279 → 2026-11-01 279（+0）
 
 
 ---

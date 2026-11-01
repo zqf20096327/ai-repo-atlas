@@ -1,6 +1,6 @@
 # Drakkar-Software/OctoBot-Script
 
-⭐ 50 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Drakkar-Software/OctoBot-Script) · [官网](https://www.octobot.cloud/guides/octobot-script?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=octobot_script_project_description_link) · 组织维护
+⭐ 50 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Drakkar-Software/OctoBot-Script) · [官网](https://www.octobot.cloud/guides/octobot-script?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=octobot_script_project_description_link) · 组织维护
 
 **OctoBot 出品的 Python 量化交易回测脚本框架**
 
@@ -44,12 +44,12 @@ OctoBot 的量化框架：用 Python 编写交易策略脚本，加载任意技�
 ```mermaid
 xychart-beta
     title "Drakkar-Software/OctoBot-Script 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 48 --> 51
     line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-31 50（+1）
+2026-10-18 49 → 2026-11-01 50（+1）
 
 
 ---

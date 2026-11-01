@@ -1,6 +1,6 @@
 # huggingface/autotrain-advanced
 
-⭐ 4,617 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/autotrain-advanced) · [官网](https://huggingface.co/autotrain) · 组织维护
+⭐ 4,618 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/autotrain-advanced) · [官网](https://huggingface.co/autotrain) · 组织维护
 
 **无代码训练部署机器学习模型的工具，已停止维护**
 
@@ -44,12 +44,12 @@ HuggingFace 维护的无代码（no-code）模型训练工具：通过 UI 或 CL
 ```mermaid
 xychart-beta
     title "huggingface/autotrain-advanced 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 4611 --> 4618
-    line [4612, 4613, 4614, 4615, 4616, 4617, 4617]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 4611 --> 4619
+    line [4612, 4613, 4614, 4615, 4616, 4617, 4618]
 ```
 
-2026-10-18 4,612 → 2026-10-31 4,617（+5）
+2026-10-18 4,612 → 2026-11-01 4,618（+6）
 
 
 ---

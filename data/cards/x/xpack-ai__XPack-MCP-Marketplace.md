@@ -45,13 +45,13 @@ XPack 是一个自托管的开源 MCP 市场建站平台：一键将 OpenAPI 转
 
 ```mermaid
 xychart-beta
-    title "xpack-ai/XPack-MCP-Marketplace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "xpack-ai/XPack-MCP-Marketplace 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 171 --> 174
-    line [173, 172]
+    line [173, 172, 172]
 ```
 
-2026-10-18 173 → 2026-10-31 172（-1）
+2026-10-18 173 → 2026-11-01 172（-1）
 
 
 ---

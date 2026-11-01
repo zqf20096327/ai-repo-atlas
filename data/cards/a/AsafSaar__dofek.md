@@ -1,6 +1,6 @@
 # AsafSaar/dofek
 
-⭐ 18 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AsafSaar/dofek) · [官网](https://dofek.dev) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AsafSaar/dofek) · [官网](https://dofek.dev) · 个人维护
 
 **面向本地 AI 负载的跨平台系统监视器（TUI+GUI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AsafSaar/dofek 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-31 18（+0）
+2026-10-18 18 → 2026-11-01 18（+0）
 
 
 ---

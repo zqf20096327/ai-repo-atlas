@@ -1,6 +1,6 @@
 # fightheyyy/XIAOBA
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/fightheyyy/XIAOBA) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/fightheyyy/XIAOBA) · 个人维护 · 中文 README
 
 **开源 Personal Agent：有记忆、会跟进、能执行实际任务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fightheyyy/XIAOBA 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-23", "2026-11-01"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-10-31 16（+0）
+2026-10-23 16 → 2026-11-01 16（+0）
 
 
 ---

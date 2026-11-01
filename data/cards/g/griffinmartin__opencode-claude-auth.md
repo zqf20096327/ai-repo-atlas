@@ -1,6 +1,6 @@
 # griffinmartin/opencode-claude-auth
 
-⭐ 1,317 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/griffinmartin/opencode-claude-auth) · 个人维护
+⭐ 1,318 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/griffinmartin/opencode-claude-auth) · 个人维护
 
 **OpenCode 2 插件：复用 Claude Code 订阅凭据登录 Anthropic**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "griffinmartin/opencode-claude-auth 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 1306 --> 1318
-    line [1307, 1308, 1310, 1311, 1312, 1311, 1314, 1317, 1317]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 1306 --> 1319
+    line [1307, 1308, 1310, 1311, 1312, 1311, 1314, 1317, 1318]
 ```
 
-2026-10-18 1,307 → 2026-10-31 1,317（+10）
+2026-10-18 1,307 → 2026-11-01 1,318（+11）
 
 
 ---

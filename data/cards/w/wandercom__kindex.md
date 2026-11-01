@@ -1,6 +1,6 @@
 # wandercom/kindex
 
-⭐ 49 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wandercom/kindex) · [官网](https://wandercom.github.io/kindex/) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wandercom/kindex) · [官网](https://wandercom.github.io/kindex/) · 组织维护
 
 **多 AI 编码 agent 共享读写的本地知识图谱（MCP 插件/CLI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wandercom/kindex 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 35 --> 50
     line [36, 37, 45, 46, 47, 48, 49, 49]
 ```
 
-2026-10-18 36 → 2026-10-31 49（+13）
+2026-10-18 36 → 2026-11-01 49（+13）
 
 
 ---

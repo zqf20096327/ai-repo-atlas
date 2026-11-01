@@ -1,6 +1,6 @@
 # henrydaum/second-brain
 
-⭐ 675 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/henrydaum/second-brain) · 个人维护
+⭐ 676 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/henrydaum/second-brain) · 个人维护
 
 **本地运行的 agent 操作系统：用 LLM 与文件智能完成个人任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "henrydaum/second-brain 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 669 --> 676
-    line [670, 671, 673, 672, 673, 674, 675]
+    title "henrydaum/second-brain 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 669 --> 677
+    line [670, 671, 673, 672, 673, 674, 675, 676]
 ```
 
-2026-10-18 670 → 2026-10-31 675（+5）
+2026-10-18 670 → 2026-11-01 676（+6）
 
 
 ---

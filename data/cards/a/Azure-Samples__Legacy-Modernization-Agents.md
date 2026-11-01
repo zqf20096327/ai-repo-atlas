@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/Legacy-Modernization-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    title "Azure-Samples/Legacy-Modernization-Agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 225 --> 230
-    line [226, 227, 229]
+    line [226, 227, 229, 229]
 ```
 
-2026-10-18 226 → 2026-10-31 229（+3）
+2026-10-18 226 → 2026-11-01 229（+3）
 
 
 ---

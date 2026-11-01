@@ -1,6 +1,6 @@
 # comet-ml/opik-claude-code-plugin
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/comet-ml/opik-claude-code-plugin) · [官网](https://www.comet.com/site/products/opik/) · 组织维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/comet-ml/opik-claude-code-plugin) · [官网](https://www.comet.com/site/products/opik/) · 组织维护
 
 **把 Claude Code 会话记录为 Opik 追踪的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "comet-ml/opik-claude-code-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-31 24（+1）
+2026-10-18 23 → 2026-11-01 25（+2）
 
 
 ---

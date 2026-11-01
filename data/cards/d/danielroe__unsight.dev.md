@@ -1,6 +1,6 @@
 # danielroe/unsight.dev
 
-⭐ 153 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/danielroe/unsight.dev) · [官网](https://unsight.dev) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/danielroe/unsight.dev) · [官网](https://unsight.dev) · 个人维护
 
 **跨仓库检测重复 GitHub issue 与问题聚集区的 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielroe/unsight.dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 134 --> 154
-    line [135, 153]
+    title "danielroe/unsight.dev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 134 --> 155
+    line [135, 153, 154]
 ```
 
-2026-10-18 135 → 2026-10-31 153（+18）
+2026-10-18 135 → 2026-11-01 154（+19）
 
 
 ---

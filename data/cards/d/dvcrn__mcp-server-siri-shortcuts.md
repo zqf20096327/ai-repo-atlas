@@ -1,6 +1,6 @@
 # dvcrn/mcp-server-siri-shortcuts
 
-⭐ 195 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/dvcrn/mcp-server-siri-shortcuts) · 个人维护
+⭐ 195 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/dvcrn/mcp-server-siri-shortcuts) · 个人维护
 
 **让 LLM 通过 MCP 调用 macOS Siri 快捷指令的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dvcrn/mcp-server-siri-shortcuts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 193 --> 196
     line [194, 195, 195]
 ```
 
-2026-10-18 194 → 2026-10-31 195（+1）
+2026-10-18 194 → 2026-11-01 195（+1）
 
 
 ---

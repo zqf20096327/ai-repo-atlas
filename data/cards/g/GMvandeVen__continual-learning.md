@@ -1,6 +1,6 @@
 # GMvandeVen/continual-learning
 
-⭐ 1,890 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/GMvandeVen/continual-learning) · 个人维护
+⭐ 1,891 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/GMvandeVen/continual-learning) · 个人维护
 
 **多种持续学习方法的 PyTorch 实现库，供研究者跑实验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GMvandeVen/continual-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 1886 --> 1891
-    line [1887, 1889, 1890, 1890]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 1886 --> 1892
+    line [1887, 1889, 1890, 1891]
 ```
 
-2026-10-18 1,887 → 2026-10-31 1,890（+3）
+2026-10-18 1,887 → 2026-11-01 1,891（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # metawhisp/amazing-seo-skill
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/metawhisp/amazing-seo-skill) · [官网](https://github.com/metawhisp/amazing-seo-skill) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/metawhisp/amazing-seo-skill) · [官网](https://github.com/metawhisp/amazing-seo-skill) · 个人维护
 
 **Claude Code 的 SEO/AEO/GEO 审计技能：站点体检+AI 引用检测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metawhisp/amazing-seo-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-10-31 13（+2）
+2026-10-18 11 → 2026-11-01 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # tt-11-dd/tether-ai
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tt-11-dd/tether-ai) · [官网](https://tether-code.xyz) · 个人维护 · 中文 README
+⭐ 96 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tt-11-dd/tether-ai) · [官网](https://tether-code.xyz) · 个人维护 · 中文 README
 
 **本地优先的 AI 编程工作台，让模型安全地检视和修改代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tt-11-dd/tether-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 96]
 ```
 
-2026-10-18 94 → 2026-10-31 95（+1）
+2026-10-18 94 → 2026-11-01 96（+2）
 
 
 ---

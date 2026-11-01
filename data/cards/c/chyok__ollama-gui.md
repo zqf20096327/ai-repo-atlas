@@ -1,6 +1,6 @@
 # chyok/ollama-gui
 
-⭐ 276 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/chyok/ollama-gui) · [官网](https://chyok.github.io/ollama-gui/) · 个人维护
+⭐ 276 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/chyok/ollama-gui) · [官网](https://chyok.github.io/ollama-gui/) · 个人维护
 
 **单文件 Tkinter 实现的 Ollama 图形聊天界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chyok/ollama-gui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 272 --> 277
     line [274, 273, 274, 275, 276, 276]
 ```
 
-2026-10-18 274 → 2026-10-31 276（+2）
+2026-10-18 274 → 2026-11-01 276（+2）
 
 
 ---

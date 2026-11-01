@@ -1,6 +1,6 @@
 # pyemma/Argo
 
-⭐ 58 · Python · MIT · 推送 2025-12-30 · [GitHub](https://github.com/pyemma/Argo) · 个人维护
+⭐ 59 · Python · MIT · 推送 2025-12-30 · [GitHub](https://github.com/pyemma/Argo) · 个人维护
 
 **用 PyTorch 复现推荐系统论文模型的教学实验场**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pyemma/Argo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-31 58（+0）
+2026-10-18 58 → 2026-11-01 59（+1）
 
 
 ---

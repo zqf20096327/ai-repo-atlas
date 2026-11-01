@@ -1,6 +1,6 @@
 # madeburo/GEO-AI-Woo
 
-⭐ 30 · PHP · GPL-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/madeburo/GEO-AI-Woo) · [官网](https://www.geoai.run) · 组织维护 · 中文 README
+⭐ 29 · PHP · GPL-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/madeburo/GEO-AI-Woo) · [官网](https://www.geoai.run) · 组织维护 · 中文 README
 
 **WordPress/WooCommerce 的 AI 搜索优化插件：生成 llms.txt 与爬虫规则**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madeburo/GEO-AI-Woo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 28 --> 31
+    line [30, 29]
 ```
 
-2026-10-18 30 → 2026-10-31 30（+0）
+2026-10-18 30 → 2026-11-01 29（-1）
 
 
 ---

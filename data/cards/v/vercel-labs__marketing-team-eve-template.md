@@ -1,6 +1,6 @@
 # vercel-labs/marketing-team-eve-template
 
-⭐ 458 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
+⭐ 458 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
 
 **基于 eve 的营销 Agent 团队模板，产出博客/社媒/邮件内容**
 
@@ -46,12 +46,12 @@ vercel-labs 提供的营销 Agent 团队模板：一个 lead 负责理解任务�
 ```mermaid
 xychart-beta
     title "vercel-labs/marketing-team-eve-template 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
     y-axis "stars" 452 --> 459
     line [453, 455, 453, 455, 456, 457, 458, 458]
 ```
 
-2026-10-18 453 → 2026-10-31 458（+5）
+2026-10-18 453 → 2026-11-01 458（+5）
 
 
 ---

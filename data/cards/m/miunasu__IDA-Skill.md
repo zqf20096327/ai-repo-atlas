@@ -1,6 +1,6 @@
 # miunasu/IDA-Skill
 
-⭐ 238 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miunasu/IDA-Skill) · 个人维护 · 中文 README
+⭐ 239 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miunasu/IDA-Skill) · 个人维护 · 中文 README
 
 **让 AI Agent 用 IDA Pro 自动逆向分析恶意样本的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "miunasu/IDA-Skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 236 --> 239
-    line [237, 238, 238]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 236 --> 240
+    line [237, 238, 239]
 ```
 
-2026-10-18 237 → 2026-10-31 238（+1）
+2026-10-18 237 → 2026-11-01 239（+2）
 
 
 ---

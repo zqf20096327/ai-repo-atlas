@@ -1,6 +1,6 @@
 # seehiong/ats-buddy
 
-⭐ 138 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/seehiong/ats-buddy) · [官网](https://seehiong.github.io/ats-buddy/) · 个人维护
+⭐ 139 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/seehiong/ats-buddy) · [官网](https://seehiong.github.io/ats-buddy/) · 个人维护
 
 **本地运行的 ATS 简历匹配分析器：打分、关键词差距与改写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/ats-buddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 136 --> 139
-    line [138, 137, 138, 138]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 136 --> 140
+    line [138, 137, 138, 139]
 ```
 
-2026-10-18 138 → 2026-10-31 138（+0）
+2026-10-18 138 → 2026-11-01 139（+1）
 
 
 ---

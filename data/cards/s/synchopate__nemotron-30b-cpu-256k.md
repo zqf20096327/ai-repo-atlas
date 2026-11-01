@@ -1,6 +1,6 @@
 # synchopate/nemotron-30b-cpu-256k
 
-⭐ 23 · Python · 推送 2026-10-30 · [GitHub](https://github.com/synchopate/nemotron-30b-cpu-256k) · 个人维护
+⭐ 62 · C++ · 推送 2026-10-31 · [GitHub](https://github.com/synchopate/nemotron-30b-cpu-256k) · 个人维护
 
 **在纯 CPU 上以 30-50+ tok/s 运行 30B MoE 模型、256K 上下文的技术方案与 llama.cpp 补丁集**
 
@@ -40,6 +40,18 @@
 > L6: *Date: October 2026 | Target Engine: `llama.cpp` (`ggml-cpu`) + RouteCrack Draftless Speculative Engine | Hardware: 
 > L43: ├── patches/
 > L113: Even with Nemotron 3.5's tiny KV footprint, scaling to 256K tokens at 30–50+ tok/s required solving eight deep sys
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "synchopate/nemotron-30b-cpu-256k 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 20 --> 65
+    line [23, 62]
+```
+
+2026-10-31 23 → 2026-11-01 62（+39）
 
 
 ---

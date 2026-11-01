@@ -1,6 +1,6 @@
 # yangzhuxinyzx/auto-openclaw
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/yangzhuxinyzx/auto-openclaw) · [官网](https://github.com/bytedance/UI-TARS-desktop) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/yangzhuxinyzx/auto-openclaw) · [官网](https://github.com/bytedance/UI-TARS-desktop) · 个人维护 · 中文 README
 
 **让 OpenClaw 获得桌面操作能力的 UI-TARS skill 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yangzhuxinyzx/auto-openclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-31 19（+1）
+2026-10-18 18 → 2026-11-01 20（+2）
 
 
 ---

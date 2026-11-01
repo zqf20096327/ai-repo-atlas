@@ -1,6 +1,6 @@
 # BurnySc2/python-sc2
 
-⭐ 637 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BurnySc2/python-sc2) · 个人维护
+⭐ 638 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BurnySc2/python-sc2) · 个人维护
 
 **用 Python 3 编写星际争霸 II AI 机器人的客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BurnySc2/python-sc2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "BurnySc2/python-sc2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 636 --> 639
-    line [638, 637]
+    line [638, 637, 638]
 ```
 
-2026-10-18 638 → 2026-10-31 637（-1）
+2026-10-18 638 → 2026-11-01 638（+0）
 
 
 ---

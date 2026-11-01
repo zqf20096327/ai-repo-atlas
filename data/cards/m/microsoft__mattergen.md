@@ -1,6 +1,6 @@
 # microsoft/mattergen
 
-⭐ 1,857 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/microsoft/mattergen) · [官网](https://www.nature.com/articles/s41586-025-08628-5) · 组织维护
+⭐ 1,858 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/microsoft/mattergen) · [官网](https://www.nature.com/articles/s41586-025-08628-5) · 组织维护
 
 **微软的无机材料生成式模型，按属性约束设计周期表内新材料**
 
@@ -44,13 +44,13 @@ MatterGen 是面向无机材料设计的生成式模型官方实现：基于扩�
 
 ```mermaid
 xychart-beta
-    title "microsoft/mattergen 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1847 --> 1858
-    line [1848, 1852, 1853, 1854, 1856, 1857]
+    title "microsoft/mattergen 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1847 --> 1859
+    line [1848, 1852, 1853, 1854, 1856, 1857, 1858]
 ```
 
-2026-10-18 1,848 → 2026-10-31 1,857（+9）
+2026-10-18 1,848 → 2026-11-01 1,858（+10）
 
 
 ---

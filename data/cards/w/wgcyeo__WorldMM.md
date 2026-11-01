@@ -1,6 +1,6 @@
 # wgcyeo/WorldMM
 
-⭐ 130 · Python · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/wgcyeo/WorldMM) · [官网](https://worldmm.github.io) · 组织维护
+⭐ 131 · Python · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/wgcyeo/WorldMM) · [官网](https://worldmm.github.io) · 组织维护
 
 **长视频推理的动态多模态记忆 agent 研究框架**
 
@@ -45,12 +45,12 @@ CVPR 2026 论文配套代码：构建情景、语义、视觉三类多尺度多�
 ```mermaid
 xychart-beta
     title "wgcyeo/WorldMM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01"]
     y-axis "stars" 128 --> 132
-    line [131, 129, 130, 130]
+    line [131, 129, 130, 131]
 ```
 
-2026-10-18 131 → 2026-10-31 130（-1）
+2026-10-18 131 → 2026-11-01 131（+0）
 
 
 ---

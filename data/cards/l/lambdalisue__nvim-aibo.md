@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lambdalisue/nvim-aibo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "lambdalisue/nvim-aibo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 85 --> 88
-    line [87, 86]
+    line [87, 86, 86]
 ```
 
-2026-10-18 87 → 2026-10-31 86（-1）
+2026-10-18 87 → 2026-11-01 86（-1）
 
 
 ---

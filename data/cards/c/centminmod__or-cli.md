@@ -1,6 +1,6 @@
 # centminmod/or-cli
 
-⭐ 21 · 推送 2025-12-28 · [GitHub](https://github.com/centminmod/or-cli) · 个人维护
+⭐ 22 · 推送 2025-12-28 · [GitHub](https://github.com/centminmod/or-cli) · 个人维护
 
 **通过 OpenRouter/Cloudflare/Ollama 调用 AI 模型的命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "centminmod/or-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-31 21（+0）
+2026-10-18 21 → 2026-11-01 22（+1）
 
 
 ---

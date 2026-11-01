@@ -44,13 +44,13 @@ Canlab 认知与情感神经科学实验室（Tor Wager 组）维护的 MATLAB �
 
 ```mermaid
 xychart-beta
-    title "canlab/CanlabCore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "canlab/CanlabCore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 170 --> 173
-    line [171, 172]
+    line [171, 172, 172]
 ```
 
-2026-10-18 171 → 2026-10-31 172（+1）
+2026-10-18 171 → 2026-11-01 172（+1）
 
 
 ---

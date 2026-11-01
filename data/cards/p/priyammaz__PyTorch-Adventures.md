@@ -1,6 +1,6 @@
 # priyammaz/PyTorch-Adventures
 
-⭐ 320 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/priyammaz/PyTorch-Adventures) · 个人维护
+⭐ 321 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/priyammaz/PyTorch-Adventures) · 个人维护
 
 **面向学习者的 PyTorch 深度学习教程仓库，从零实现到前沿架构**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "priyammaz/PyTorch-Adventures 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 314 --> 321
-    line [315, 316, 317, 318, 319, 320, 320]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 314 --> 322
+    line [315, 316, 317, 318, 319, 320, 321]
 ```
 
-2026-10-18 315 → 2026-10-31 320（+5）
+2026-10-18 315 → 2026-11-01 321（+6）
 
 
 ---

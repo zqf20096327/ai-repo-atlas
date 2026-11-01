@@ -44,13 +44,13 @@ CVPR 2024 论文 GLaMM 的官方代码库，由 MBZUAI 等机构团队维护。G
 
 ```mermaid
 xychart-beta
-    title "mbzuai-oryx/groundingLMM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "mbzuai-oryx/groundingLMM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 967 --> 970
-    line [969, 968]
+    line [969, 968, 968]
 ```
 
-2026-10-18 969 → 2026-10-31 968（-1）
+2026-10-18 969 → 2026-11-01 968（-1）
 
 
 ---

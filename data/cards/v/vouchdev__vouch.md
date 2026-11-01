@@ -1,6 +1,6 @@
 # vouchdev/vouch
 
-⭐ 65 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/vouchdev/vouch) · [官网](https://vouchai.dev) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/vouchdev/vouch) · [官网](https://vouchai.dev) · 组织维护
 
 **面向 LLM agent 的 git 原生、审核门控知识库（MCP + CLI）**
 
@@ -44,13 +44,13 @@ vouch 以 MCP server、JSONL tool server 与 CLI 形式提供 LLM agent 的持�
 
 ```mermaid
 xychart-beta
-    title "vouchdev/vouch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
+    title "vouchdev/vouch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
     y-axis "stars" 63 --> 73
-    line [72, 67, 64, 65]
+    line [72, 67, 64, 65, 67]
 ```
 
-2026-10-18 72 → 2026-10-31 65（-7）
+2026-10-18 72 → 2026-11-01 67（-5）
 
 
 ---

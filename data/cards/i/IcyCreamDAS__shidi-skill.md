@@ -1,6 +1,6 @@
 # IcyCreamDAS/shidi-skill
 
-⭐ 14 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/IcyCreamDAS/shidi-skill) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/IcyCreamDAS/shidi-skill) · 个人维护 · 中文 README
 
 **跑在 AI IDE 里的科研工作流 skill：想法进、文件出**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "IcyCreamDAS/shidi-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 11 --> 15
-    line [12, 14, 14]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 11 --> 16
+    line [12, 14, 15]
 ```
 
-2026-10-18 12 → 2026-10-31 14（+2）
+2026-10-18 12 → 2026-11-01 15（+3）
 
 
 ---

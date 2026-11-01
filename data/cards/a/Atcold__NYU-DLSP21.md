@@ -1,6 +1,6 @@
 # Atcold/NYU-DLSP21
 
-⭐ 1,684 · Jupyter Notebook · 推送 2025-11-11 · [GitHub](https://github.com/Atcold/NYU-DLSP21) · [官网](https://atcold.github.io/NYU-DLSP21/) · 组织维护
+⭐ 1,685 · Jupyter Notebook · 推送 2025-11-11 · [GitHub](https://github.com/Atcold/NYU-DLSP21) · [官网](https://atcold.github.io/NYU-DLSP21/) · 组织维护
 
 **NYU 2021 春季深度学习课程的教学材料仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Atcold/NYU-DLSP21 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 1681 --> 1685
-    line [1682, 1683, 1684]
+    title "Atcold/NYU-DLSP21 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1681 --> 1686
+    line [1682, 1683, 1684, 1685]
 ```
 
-2026-10-18 1,682 → 2026-10-31 1,684（+2）
+2026-10-18 1,682 → 2026-11-01 1,685（+3）
 
 
 ---

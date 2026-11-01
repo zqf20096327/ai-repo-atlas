@@ -1,6 +1,6 @@
 # sanbuphy/nanoAgent
 
-⭐ 770 · Python · MIT · 推送 2026-03-13 · [GitHub](https://github.com/sanbuphy/nanoAgent) · 个人维护 · 中文 README
+⭐ 771 · Python · MIT · 推送 2026-03-13 · [GitHub](https://github.com/sanbuphy/nanoAgent) · 个人维护 · 中文 README
 
 **约百行 Python 的极简 AI agent 参考实现，供学习 agent 原理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanbuphy/nanoAgent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 762 --> 771
-    line [763, 764, 767, 769, 770, 770]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 762 --> 772
+    line [763, 764, 767, 769, 770, 771]
 ```
 
-2026-10-18 763 → 2026-10-31 770（+7）
+2026-10-18 763 → 2026-11-01 771（+8）
 
 
 ---

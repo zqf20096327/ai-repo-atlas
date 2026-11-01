@@ -1,6 +1,6 @@
 # Meet-Miyani/compose-skill
 
-⭐ 305 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Meet-Miyani/compose-skill) · [官网](https://compose.avinya.dev) · 个人维护
+⭐ 304 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Meet-Miyani/compose-skill) · [官网](https://compose.avinya.dev) · 个人维护
 
 **给 AI 编码 agent 的 Jetpack Compose 代码风格技能包（7 个技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Meet-Miyani/compose-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    title "Meet-Miyani/compose-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
     y-axis "stars" 303 --> 307
-    line [304, 306, 305]
+    line [304, 306, 305, 304]
 ```
 
-2026-10-18 304 → 2026-10-31 305（+1）
+2026-10-18 304 → 2026-11-01 304（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PathoGenOmics-Lab/pathotypr
 
-⭐ 13 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/PathoGenOmics-Lab/pathotypr) · [官网](https://pathogenomics-lab.github.io/pathotypr/) · 组织维护
+⭐ 13 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/PathoGenOmics-Lab/pathotypr) · [官网](https://pathogenomics-lab.github.io/pathotypr/) · 组织维护
 
 **微生物基因组分型与谱系分类工具（结核分枝杆菌复合群）**
 
@@ -45,12 +45,12 @@ Rust 编写的微生物基因组分型工具包：用随机森林分类器将基
 ```mermaid
 xychart-beta
     title "PathoGenOmics-Lab/pathotypr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hao0321/claude-skill-social-post
 
-⭐ 745 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Hao0321/claude-skill-social-post) · [官网](https://www.facebook.com/lo.jain.hao) · 个人维护 · 中文 README
+⭐ 748 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Hao0321/claude-skill-social-post) · [官网](https://www.facebook.com/lo.jain.hao) · 个人维护 · 中文 README
 
 **学习个人声线并跨平台发布/管理社群贴文的 Claude Code 技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hao0321/claude-skill-social-post 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 736 --> 746
-    line [737, 738, 739, 740, 741, 742, 743, 745]
+    title "Hao0321/claude-skill-social-post 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 736 --> 749
+    line [737, 738, 739, 740, 741, 742, 743, 745, 748]
 ```
 
-2026-10-18 737 → 2026-10-31 745（+8）
+2026-10-18 737 → 2026-11-01 748（+11）
 
 
 ---

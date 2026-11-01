@@ -1,6 +1,6 @@
 # yjg30737/pyqt-openai
 
-⭐ 148 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/yjg30737/pyqt-openai) · 个人维护
+⭐ 147 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/yjg30737/pyqt-openai) · 个人维护
 
 **跨平台桌面 LLM 聊天与图像生成客户端，支持多模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yjg30737/pyqt-openai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 147 --> 149
-    line [148, 148]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 146 --> 149
+    line [148, 147]
 ```
 
-2026-10-18 148 → 2026-10-31 148（+0）
+2026-10-18 148 → 2026-11-01 147（-1）
 
 
 ---

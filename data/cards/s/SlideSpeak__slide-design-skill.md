@@ -44,13 +44,13 @@ SlideSpeak 开发的演示文稿生成引擎，以 agent skill 形式发布：�
 
 ```mermaid
 xychart-beta
-    title "SlideSpeak/slide-design-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
+    title "SlideSpeak/slide-design-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 27 --> 34
-    line [28, 29, 31, 33]
+    line [28, 29, 31, 33, 33]
 ```
 
-2026-10-18 28 → 2026-10-31 33（+5）
+2026-10-18 28 → 2026-11-01 33（+5）
 
 
 ---

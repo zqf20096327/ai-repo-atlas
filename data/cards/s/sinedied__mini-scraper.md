@@ -1,6 +1,6 @@
 # sinedied/mini-scraper
 
-⭐ 55 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/sinedied/mini-scraper) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/sinedied/mini-scraper) · 个人维护
 
 **给掌机模拟器 ROM 抓取盒绘封面的 CLI 工具，可选 AI 匹配**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sinedied/mini-scraper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 54 --> 57
+    line [55, 56]
 ```
 
-2026-10-18 55 → 2026-10-31 55（+0）
+2026-10-18 55 → 2026-11-01 56（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Frank-ZY-Dou/awesome-ai-3d-modeling-robotics
 
-⭐ 87 · 推送 2026-10-26 · [GitHub](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) · [官网](https://frank-zy-dou.github.io/awesome-ai-3d-modeling-robotics/) · 组织维护 · 中文 README
+⭐ 88 · 推送 2026-10-26 · [GitHub](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) · [官网](https://frank-zy-dou.github.io/awesome-ai-3d-modeling-robotics/) · 组织维护 · 中文 README
 
 **带源链接与存档媒体的 AI 3D 建模/CAD/机器人应用案例清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 81 --> 88
-    line [82, 84, 85, 86, 87, 87]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 81 --> 89
+    line [82, 84, 85, 86, 87, 88]
 ```
 
-2026-10-18 82 → 2026-10-31 87（+5）
+2026-10-18 82 → 2026-11-01 88（+6）
 
 
 ---

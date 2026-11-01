@@ -1,6 +1,6 @@
 # ZJU-OmniAI/LLM_in_Work
 
-⭐ 21 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZJU-OmniAI/LLM_in_Work) · 组织维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZJU-OmniAI/LLM_in_Work) · 组织维护 · 中文 README
 
 **把本地 Claude Code/Codex CLI 接入 Word、Overleaf、PPT、Excel 与 Chrome PDF 的五个助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ZJU-OmniAI/LLM_in_Work 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-10-31 21（+2）
+2026-10-18 19 → 2026-11-01 22（+3）
 
 
 ---

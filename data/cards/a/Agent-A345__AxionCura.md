@@ -44,12 +44,12 @@ Python 实现的脑卒中早期预测项目：基于 Pandas/NumPy/Scikit-learn �
 ```mermaid
 xychart-beta
     title "Agent-A345/AxionCura 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

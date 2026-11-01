@@ -1,6 +1,6 @@
 # Zafer-Liu/book-learning
 
-⭐ 45 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Zafer-Liu/book-learning) · 个人维护 · 中文 README
+⭐ 45 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Zafer-Liu/book-learning) · 个人维护 · 中文 README
 
 **自托管多账户教材 RAG 学习助手，回答必须引用原文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zafer-Liu/book-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-31 45（+0）
+2026-10-18 45 → 2026-11-01 45（+0）
 
 
 ---

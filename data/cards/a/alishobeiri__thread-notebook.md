@@ -44,13 +44,13 @@ Thread 是一个本地运行的 Jupyter Notebook 替代编辑器，在熟悉的 
 
 ```mermaid
 xychart-beta
-    title "alishobeiri/thread-notebook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    title "alishobeiri/thread-notebook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1103 --> 1106
-    line [1105, 1104, 1105]
+    line [1105, 1104, 1105, 1105]
 ```
 
-2026-10-18 1,105 → 2026-10-31 1,105（+0）
+2026-10-18 1,105 → 2026-11-01 1,105（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Seldom-SE/seldom_state
 
-⭐ 321 · Rust · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/Seldom-SE/seldom_state) · 个人维护
+⭐ 322 · Rust · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/Seldom-SE/seldom_state) · 个人维护
 
 **Bevy 引擎的组件式有限状态机插件，用于游戏实体状态管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Seldom-SE/seldom_state 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 319 --> 322
-    line [320, 321, 321]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 319 --> 323
+    line [320, 321, 322]
 ```
 
-2026-10-18 320 → 2026-10-31 321（+1）
+2026-10-18 320 → 2026-11-01 322（+2）
 
 
 ---

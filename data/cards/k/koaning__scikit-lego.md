@@ -1,6 +1,6 @@
 # koaning/scikit-lego
 
-⭐ 1,413 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
+⭐ 1,413 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
 
 **为 scikit-learn 流水线提供额外转换器、模型与指标的库**
 
@@ -45,12 +45,12 @@ scikit-lego 收录一批 scikit-learn 未提供的自定义组件：预处理转
 ```mermaid
 xychart-beta
     title "koaning/scikit-lego 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 1411 --> 1414
     line [1412, 1413, 1413]
 ```
 
-2026-10-18 1,412 → 2026-10-31 1,413（+1）
+2026-10-18 1,412 → 2026-11-01 1,413（+1）
 
 
 ---

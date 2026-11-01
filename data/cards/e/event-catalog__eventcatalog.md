@@ -1,6 +1,6 @@
 # event-catalog/eventcatalog
 
-⭐ 2,951 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/event-catalog/eventcatalog) · [官网](https://eventcatalog.dev) · 组织维护
+⭐ 2,954 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/event-catalog/eventcatalog) · [官网](https://eventcatalog.dev) · 组织维护
 
 **面向软件架构的文档工具，含 AI 问答与 MCP 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "event-catalog/eventcatalog 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 2940 --> 2952
-    line [2941, 2943, 2944, 2945, 2946, 2948, 2947, 2948, 2951]
+    title "event-catalog/eventcatalog 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2940 --> 2955
+    line [2941, 2943, 2944, 2945, 2946, 2948, 2947, 2948, 2951, 2954]
 ```
 
-2026-10-18 2,941 → 2026-10-31 2,951（+10）
+2026-10-18 2,941 → 2026-11-01 2,954（+13）
 
 
 ---

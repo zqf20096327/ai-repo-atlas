@@ -1,6 +1,6 @@
 # srothgan/claude-code-rust
 
-⭐ 273 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/srothgan/claude-code-rust) · [官网](https://srothgan.github.io/claude-code-rust/) · 个人维护
+⭐ 274 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/srothgan/claude-code-rust) · [官网](https://srothgan.github.io/claude-code-rust/) · 个人维护
 
 **Claude Code 的 Rust 原生终端界面替代前端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "srothgan/claude-code-rust 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 264 --> 274
-    line [266, 265, 266, 270, 271, 272, 273, 273]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 264 --> 275
+    line [266, 265, 266, 270, 271, 272, 273, 274]
 ```
 
-2026-10-18 266 → 2026-10-31 273（+7）
+2026-10-18 266 → 2026-11-01 274（+8）
 
 
 ---

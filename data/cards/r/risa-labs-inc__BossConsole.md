@@ -1,6 +1,6 @@
 # risa-labs-inc/BossConsole
 
-⭐ 817 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/risa-labs-inc/BossConsole) · [官网](https://bossconsole.ai) · 组织维护
+⭐ 816 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/risa-labs-inc/BossConsole) · [官网](https://bossconsole.ai) · 组织维护
 
 **给企业与科研的常驻 AI agent 多平台操作台（JVM 桌面）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "risa-labs-inc/BossConsole 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 813 --> 818
-    line [814, 816, 817, 816, 815, 816, 817, 817]
+    line [814, 816, 817, 816, 815, 816, 817, 816]
 ```
 
-2026-10-18 814 → 2026-10-31 817（+3）
+2026-10-18 814 → 2026-11-01 816（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nimadorostkar/Claude-Skills-collection
 
-⭐ 33 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nimadorostkar/Claude-Skills-collection) · [官网](https://github.com/nimadorostkar/Claude-Skills-collection) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nimadorostkar/Claude-Skills-collection) · [官网](https://github.com/nimadorostkar/Claude-Skills-collection) · 个人维护
 
 **面向 Claude 等 AI 编码代理的 137 条技能策展库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nimadorostkar/Claude-Skills-collection 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
     y-axis "stars" 29 --> 34
     line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-10-31 33（+3）
+2026-10-18 30 → 2026-11-01 33（+3）
 
 
 ---

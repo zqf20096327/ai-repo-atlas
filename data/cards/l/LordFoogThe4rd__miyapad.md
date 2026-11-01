@@ -1,6 +1,6 @@
 # LordFoogThe4rd/miyapad
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/LordFoogThe4rd/miyapad) · [官网](https://lordfoogthe4rd.github.io/miyapad/) · 个人维护
+⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/LordFoogThe4rd/miyapad) · [官网](https://lordfoogthe4rd.github.io/miyapad/) · 个人维护
 
 **浏览器端 LLM 协作写作界面，支持多后端生成文本**
 
@@ -45,12 +45,12 @@ mikupad 的分支重构版：基于浏览器的语言模型交互界面，面向
 ```mermaid
 xychart-beta
     title "LordFoogThe4rd/miyapad 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

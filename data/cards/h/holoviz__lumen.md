@@ -1,6 +1,6 @@
 # holoviz/lumen
 
-⭐ 323 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/holoviz/lumen) · [官网](https://lumen.holoviz.org/) · 组织维护
+⭐ 323 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/holoviz/lumen) · [官网](https://lumen.holoviz.org/) · 组织维护
 
 **开源 Agent 框架：自然语言生成 SQL、图表与仪表盘**
 
@@ -45,12 +45,12 @@ Holoviz 维护的开源 agent 框架，面向用自然语言与数据对话的�
 ```mermaid
 xychart-beta
     title "holoviz/lumen 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01"]
     y-axis "stars" 316 --> 324
     line [318, 317, 318, 323, 323]
 ```
 
-2026-10-18 318 → 2026-10-31 323（+5）
+2026-10-18 318 → 2026-11-01 323（+5）
 
 
 ---

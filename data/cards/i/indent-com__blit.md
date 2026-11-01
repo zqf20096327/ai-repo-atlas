@@ -1,6 +1,6 @@
 # indent-com/blit
 
-⭐ 21 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/indent-com/blit) · [官网](https://blit.sh) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向浏览器与 AI agent 的终端复用器和实验性 Wayland 合成器**
 
@@ -11,7 +11,7 @@ blit 在服务器端托管 PTY 并追踪完整解析后的终端状态，将增�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

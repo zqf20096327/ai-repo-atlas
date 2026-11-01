@@ -1,6 +1,6 @@
 # Qetesh/miniflux-ai
 
-⭐ 253 · Python · 推送 2026-06-22 · [GitHub](https://github.com/Qetesh/miniflux-ai) · 个人维护
+⭐ 255 · Python · 推送 2026-06-22 · [GitHub](https://github.com/Qetesh/miniflux-ai) · 个人维护
 
 **为 Miniflux RSS 阅读器生成 AI 摘要、翻译与 AI 新闻的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Qetesh/miniflux-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01"]
     y-axis "stars" 252 --> 257
-    line [256, 255, 254, 253, 253]
+    line [256, 255, 254, 253, 255]
 ```
 
-2026-10-18 256 → 2026-10-31 253（-3）
+2026-10-18 256 → 2026-11-01 255（-1）
 
 
 ---

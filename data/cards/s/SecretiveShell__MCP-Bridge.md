@@ -44,13 +44,13 @@ MCP-Bridge 部署在 OpenAI API 客户端与推理引擎之间：将请求改写
 
 ```mermaid
 xychart-beta
-    title "SecretiveShell/MCP-Bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    title "SecretiveShell/MCP-Bridge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
     y-axis "stars" 921 --> 925
-    line [924, 923, 922]
+    line [924, 923, 922, 922]
 ```
 
-2026-10-18 924 → 2026-10-31 922（-2）
+2026-10-18 924 → 2026-11-01 922（-2）
 
 
 ---

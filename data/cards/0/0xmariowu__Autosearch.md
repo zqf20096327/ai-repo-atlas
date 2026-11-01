@@ -1,6 +1,6 @@
 # 0xmariowu/Autosearch
 
-⭐ 54 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/0xmariowu/Autosearch) · [官网](https://www.autosearch.dev) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/0xmariowu/Autosearch) · [官网](https://www.autosearch.dev) · 个人维护 · 中文 README
 
 **给 AI agent 的 MCP 原生深度搜索工具：接入 40 个信息渠道**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0xmariowu/Autosearch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-01"]
     y-axis "stars" 49 --> 55
     line [50, 51, 52, 54, 54]
 ```
 
-2026-10-18 50 → 2026-10-31 54（+4）
+2026-10-18 50 → 2026-11-01 54（+4）
 
 
 ---

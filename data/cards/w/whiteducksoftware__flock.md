@@ -1,6 +1,6 @@
 # whiteducksoftware/flock
 
-⭐ 123 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/whiteducksoftware/flock) · [官网](https://whiteducksoftware.github.io/flock/) · 组织维护
+⭐ 125 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/whiteducksoftware/flock) · [官网](https://whiteducksoftware.github.io/flock/) · 组织维护
 
 **面向开发者的声明式黑板架构多智能体编排框架**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "whiteducksoftware/flock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 121 --> 124
-    line [122, 123]
+    title "whiteducksoftware/flock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 121 --> 126
+    line [122, 123, 125]
 ```
 
-2026-10-18 122 → 2026-10-31 123（+1）
+2026-10-18 122 → 2026-11-01 125（+3）
 
 
 ---

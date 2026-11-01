@@ -1,6 +1,6 @@
 # raimbekovm/cs231n-2025-notes
 
-⭐ 41 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/raimbekovm/cs231n-2025-notes) · [官网](https://raimbekovm.github.io/cs231n-2025-notes/) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/raimbekovm/cs231n-2025-notes) · [官网](https://raimbekovm.github.io/cs231n-2025-notes/) · 个人维护
 
 **Stanford CS231n 2025 课程深度学习讲义（非官方续写）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raimbekovm/cs231n-2025-notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 40, 41, 42]
 ```
 
-2026-10-18 40 → 2026-10-31 41（+1）
+2026-10-18 40 → 2026-11-01 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # LTTM/FlyAwareV2
 
-⭐ 21 · Python · GPL-3.0 · 推送 2026-01-16 · [GitHub](https://github.com/LTTM/FlyAwareV2) · [官网](https://medialab.dei.unipd.it/paper_data/FlyAwareV2) · 组织维护
+⭐ 22 · Python · GPL-3.0 · 推送 2026-01-16 · [GitHub](https://github.com/LTTM/FlyAwareV2) · [官网](https://medialab.dei.unipd.it/paper_data/FlyAwareV2) · 组织维护
 
 **面向城市场景理解的多模态无人机数据集（RGB/深度/语义，10万+）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LTTM/FlyAwareV2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-31 21（+0）
+2026-10-18 21 → 2026-11-01 22（+1）
 
 
 ---

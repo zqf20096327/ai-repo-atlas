@@ -1,6 +1,6 @@
 # Ev3rGan/ai-ledger
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Ev3rGan/ai-ledger) · [官网](https://bench-tencent-hk.ai-ledger.cn/) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Ev3rGan/ai-ledger) · [官网](https://bench-tencent-hk.ai-ledger.cn/) · 个人维护 · 中文 README
 
 **证据可溯源的 AI 日报服务：审阅发布 Digest 与带引用的研究问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ev3rGan/ai-ledger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 19（+0）
 
 
 ---

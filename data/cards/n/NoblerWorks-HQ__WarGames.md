@@ -1,6 +1,6 @@
 # NoblerWorks-HQ/WarGames
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/NoblerWorks-HQ/WarGames) · [官网](https://wargames.noblerworks.com/) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/NoblerWorks-HQ/WarGames) · [官网](https://wargames.noblerworks.com/) · 组织维护
 
 **LLM 驱动的地缘政治战略棋盘模拟，三国由 AI 对弈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NoblerWorks-HQ/WarGames 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # andrei-borcea/liyab
 
-⭐ 13 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/andrei-borcea/liyab) · 个人维护
+⭐ 13 · C++ · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/andrei-borcea/liyab) · 个人维护
 
 **手机端运行超大 GGUF 模型的 C++ 推理引擎与本地助手**
 
@@ -45,13 +45,13 @@ C++20 编写的 GGUF 推理引擎，支持稠密、MoE、循环与稀疏注意�
 
 ```mermaid
 xychart-beta
-    title "andrei-borcea/liyab 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "andrei-borcea/liyab 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 6 --> 14
-    line [7, 8, 10, 11, 12, 13]
+    line [7, 8, 10, 11, 12, 13, 13]
 ```
 
-2026-10-18 7 → 2026-10-31 13（+6）
+2026-10-18 7 → 2026-11-01 13（+6）
 
 
 ---

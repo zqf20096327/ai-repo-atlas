@@ -1,6 +1,6 @@
 # qihaiyan/springcamp
 
-⭐ 27 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/qihaiyan/springcamp) · [官网](https://springcamp.cn) · 个人维护 · 中文 README
+⭐ 27 · Java · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/qihaiyan/springcamp) · [官网](https://springcamp.cn) · 个人维护 · 中文 README
 
 **30+ 个可独立运行的 Spring Boot 实战示例集合，配中文博客讲解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qihaiyan/springcamp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-31 27（+0）
+2026-10-18 27 → 2026-11-01 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # studie-tech/TheNinjaRPG
 
-⭐ 106 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/studie-tech/TheNinjaRPG) · [官网](https://www.theninja-rpg.com) · 组织维护
+⭐ 106 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/studie-tech/TheNinjaRPG) · [官网](https://www.theninja-rpg.com) · 组织维护
 
 **火影忍者题材网页 RPG（TheNinja-RPG）官方源码，T3 技术栈**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "studie-tech/TheNinjaRPG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    title "studie-tech/TheNinjaRPG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 103 --> 107
-    line [104, 105, 106]
+    line [104, 105, 106, 106]
 ```
 
-2026-10-18 104 → 2026-10-31 106（+2）
+2026-10-18 104 → 2026-11-01 106（+2）
 
 
 ---

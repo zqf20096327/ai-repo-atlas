@@ -1,6 +1,6 @@
 # YanWenKun/ComfyUI-Docker
 
-⭐ 1,688 · Dockerfile · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/YanWenKun/ComfyUI-Docker) · [官网](https://hub.docker.com/r/yanwk/comfyui-boot) · 个人维护 · 中文 README
+⭐ 1,689 · Dockerfile · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/YanWenKun/ComfyUI-Docker) · [官网](https://hub.docker.com/r/yanwk/comfyui-boot) · 个人维护 · 中文 README
 
 **ComfyUI 的 Docker 镜像集：覆盖 CUDA/ROCm/XPU/CPU 多后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YanWenKun/ComfyUI-Docker 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1673 --> 1689
-    line [1675, 1674, 1676, 1679, 1680, 1683, 1684, 1685, 1687, 1688]
+    title "YanWenKun/ComfyUI-Docker 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1673 --> 1690
+    line [1675, 1674, 1676, 1679, 1680, 1683, 1684, 1685, 1687, 1688, 1689]
 ```
 
-2026-10-18 1,675 → 2026-10-31 1,688（+13）
+2026-10-18 1,675 → 2026-11-01 1,689（+14）
 
 
 ---

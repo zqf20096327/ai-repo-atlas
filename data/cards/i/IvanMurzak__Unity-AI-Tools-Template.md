@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-AI-Tools-Template
 
-⭐ 22 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-Tools-Template) · 个人维护
+⭐ 23 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-Tools-Template) · 个人维护
 
 **Unity MCP 工具/RQL 扩展的项目模板，供 AI 游戏开发者定制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IvanMurzak/Unity-AI-Tools-Template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 23（+1）
 
 
 ---

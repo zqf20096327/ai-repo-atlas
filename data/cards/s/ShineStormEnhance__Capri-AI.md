@@ -1,6 +1,6 @@
 # ShineStormEnhance/Capri-AI
 
-⭐ 52 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ShineStormEnhance/Capri-AI) · 个人维护
+⭐ 147 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ShineStormEnhance/Capri-AI) · 个人维护
 
 **Windows 桌面赛博朋克风 AI 代理，接入多种 AI 助手代操作电脑**
 
@@ -41,6 +41,18 @@
 > L19: Under the hood, Capri is a desktop interface and agent layer on top of the AI assistants you already use. It works 
 > L98: 1. **You describe the goal** in plain language.
 > L101: 4. **You approve sensitive actions**, and Capri carries them out on your desktop.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ShineStormEnhance/Capri-AI 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 43 --> 156
+    line [52, 147]
+```
+
+2026-10-31 52 → 2026-11-01 147（+95）
 
 
 ---

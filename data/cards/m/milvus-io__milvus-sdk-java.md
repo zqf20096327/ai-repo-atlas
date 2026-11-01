@@ -44,13 +44,13 @@ Milvus 官方维护的 Java 客户端 SDK，供 Java 应用通过 Maven/Gradle �
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-sdk-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "milvus-io/milvus-sdk-java 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 498 --> 501
-    line [500, 499, 500]
+    line [500, 499, 500, 500]
 ```
 
-2026-10-18 500 → 2026-10-31 500（+0）
+2026-10-18 500 → 2026-11-01 500（+0）
 
 
 ---

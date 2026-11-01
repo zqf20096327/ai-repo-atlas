@@ -1,6 +1,6 @@
 # ChrisKimZHT/Haotian-BiJi
 
-⭐ 265 · CC-BY-SA-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/ChrisKimZHT/Haotian-BiJi) · [官网](https://io.zouht.com) · 个人维护 · 中文 README
+⭐ 266 · CC-BY-SA-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/ChrisKimZHT/Haotian-BiJi) · [官网](https://io.zouht.com) · 个人维护 · 中文 README
 
 **个人博客的算法与机器学习学习笔记源文件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChrisKimZHT/Haotian-BiJi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 263 --> 266
-    line [264, 265, 264, 265, 265]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 263 --> 267
+    line [264, 265, 264, 265, 266]
 ```
 
-2026-10-18 264 → 2026-10-31 265（+1）
+2026-10-18 264 → 2026-11-01 266（+2）
 
 
 ---

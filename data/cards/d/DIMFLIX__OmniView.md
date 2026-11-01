@@ -44,13 +44,13 @@ Python 库，用于同时接收和处理多路 USB 与 IP（RTSP）摄像头视�
 
 ```mermaid
 xychart-beta
-    title "DIMFLIX/OmniView 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "DIMFLIX/OmniView 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 29 --> 32
-    line [30, 31]
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-31 31（+1）
+2026-10-18 30 → 2026-11-01 31（+1）
 
 
 ---

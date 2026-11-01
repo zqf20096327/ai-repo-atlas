@@ -1,6 +1,6 @@
 # Palm1r/llmqore
 
-⭐ 51 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Palm1r/llmqore) · 个人维护
+⭐ 52 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Palm1r/llmqore) · 个人维护
 
 **Qt/C++ 库：统一接入云与本地 LLM、MCP 客户端/服务器与 ACP agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Palm1r/llmqore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 51, 52]
 ```
 
-2026-10-18 49 → 2026-10-31 51（+2）
+2026-10-18 49 → 2026-11-01 52（+3）
 
 
 ---

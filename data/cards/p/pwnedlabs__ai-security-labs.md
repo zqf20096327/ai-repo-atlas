@@ -1,6 +1,6 @@
 # pwnedlabs/ai-security-labs
 
-⭐ 17 · CC-BY-4.0 · 推送 2026-10-30 · [GitHub](https://github.com/pwnedlabs/ai-security-labs) · [官网](https://pwnedlabs.io) · 组织维护
+⭐ 22 · CC-BY-4.0 · 推送 2026-10-30 · [GitHub](https://github.com/pwnedlabs/ai-security-labs) · [官网](https://pwnedlabs.io) · 组织维护
 
 **AI 安全训练资源清单：LLM/RAG/Agent 攻防靶场与课程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pwnedlabs/ai-security-labs 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 10 --> 18
-    line [11, 17]
+    title "pwnedlabs/ai-security-labs 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 10 --> 23
+    line [11, 17, 22]
 ```
 
-2026-10-30 11 → 2026-10-31 17（+6）
+2026-10-30 11 → 2026-11-01 22（+11）
 
 
 ---

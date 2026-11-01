@@ -1,6 +1,6 @@
 # mkr-infinity/Revision-Master
 
-⭐ 30 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/mkr-infinity/Revision-Master) · [官网](https://mkr-infinity.github.io/Revision-Master/) · 个人维护
+⭐ 32 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/mkr-infinity/Revision-Master) · [官网](https://mkr-infinity.github.io/Revision-Master/) · 个人维护
 
 **本地优先的离线备考学习应用，含 AI 生成闪卡与模拟测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mkr-infinity/Revision-Master 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 28 --> 31
-    line [29, 30]
+    title "mkr-infinity/Revision-Master 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 32]
 ```
 
-2026-10-18 29 → 2026-10-31 30（+1）
+2026-10-18 29 → 2026-11-01 32（+3）
 
 
 ---

@@ -46,12 +46,12 @@ DFAH-Bench 是一个金融 AI 研究工件与 alpha 阶段 Python 包（dfah-ben
 ```mermaid
 xychart-beta
     title "ibm-client-engineering/output-drift-financial-llms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-31 20（+2）
+2026-10-18 18 → 2026-11-01 20（+2）
 
 
 ---

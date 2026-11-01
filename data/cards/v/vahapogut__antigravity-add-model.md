@@ -1,6 +1,6 @@
 # vahapogut/antigravity-add-model
 
-⭐ 112 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vahapogut/antigravity-add-model) · [官网](https://ipeclabs.com) · 个人维护 · 中文 README
+⭐ 113 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vahapogut/antigravity-add-model) · [官网](https://ipeclabs.com) · 个人维护 · 中文 README
 
 **为 Google Antigravity IDE/桌面端接入自定义 LLM 提供商的补丁与网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vahapogut/antigravity-add-model 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 93 --> 113
-    line [94, 95, 97, 100, 102, 104, 106, 109, 110, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 93 --> 114
+    line [94, 95, 97, 100, 102, 104, 106, 109, 110, 111, 112, 113]
 ```
 
-2026-10-18 94 → 2026-10-31 112（+18）
+2026-10-18 94 → 2026-11-01 113（+19）
 
 
 ---

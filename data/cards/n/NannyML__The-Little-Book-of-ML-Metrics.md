@@ -1,6 +1,6 @@
 # NannyML/The-Little-Book-of-ML-Metrics
 
-⭐ 1,015 · Jupyter Notebook · 推送 2026-10-17 · [GitHub](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) · [官网](https://www.nannyml.com/metrics) · 组织维护
+⭐ 1,016 · Jupyter Notebook · 推送 2026-10-17 · [GitHub](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) · [官网](https://www.nannyml.com/metrics) · 组织维护
 
 **数据科学家桌面速查手册：机器学习指标解析**
 
@@ -45,12 +45,12 @@ NannyML 支持的开源书籍项目，系统讲解机器学习各类指标，覆
 ```mermaid
 xychart-beta
     title "NannyML/The-Little-Book-of-ML-Metrics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 1013 --> 1016
-    line [1014, 1015, 1015]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 1013 --> 1017
+    line [1014, 1015, 1016]
 ```
 
-2026-10-18 1,014 → 2026-10-31 1,015（+1）
+2026-10-18 1,014 → 2026-11-01 1,016（+2）
 
 
 ---

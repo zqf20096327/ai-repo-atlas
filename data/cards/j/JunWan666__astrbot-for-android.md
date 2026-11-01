@@ -1,6 +1,6 @@
 # JunWan666/astrbot-for-android
 
-⭐ 274 · Kotlin · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JunWan666/astrbot-for-android) · 个人维护 · 中文 README
+⭐ 286 · Kotlin · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JunWan666/astrbot-for-android) · 个人维护 · 中文 README
 
 **在 Android 手机本地部署管理 AstrBot 与 NapCat 的应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JunWan666/astrbot-for-android 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 0 --> 299
-    line [16, 165, 232, 256, 274]
+    title "JunWan666/astrbot-for-android 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 0 --> 313
+    line [16, 165, 232, 256, 274, 286]
 ```
 
-2026-10-26 16 → 2026-10-31 274（+258）
+2026-10-26 16 → 2026-11-01 286（+270）
 
 
 ---

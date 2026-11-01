@@ -1,6 +1,6 @@
 # NVIDIA/ais-etl
 
-⭐ 22 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/ais-etl) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/ais-etl) · 组织维护
 
 **在 AIStore 集群上部署自定义 ETL 容器的组件与示例**
 
@@ -44,12 +44,12 @@ NVIDIA 维护的 AIStore ETL 仓库：提供可部署到 AIStore 集群的现成
 ```mermaid
 xychart-beta
     title "NVIDIA/ais-etl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 22（+0）
 
 
 ---

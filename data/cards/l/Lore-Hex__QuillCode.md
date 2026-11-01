@@ -1,6 +1,6 @@
 # Lore-Hex/QuillCode
 
-⭐ 20 · Swift · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Lore-Hex/QuillCode) · [官网](https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest) · 组织维护
+⭐ 21 · Swift · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Lore-Hex/QuillCode) · [官网](https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest) · 组织维护
 
 **原生 macOS Swift 编码代理与 AI 协作桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lore-Hex/QuillCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 21（+1）
 
 
 ---

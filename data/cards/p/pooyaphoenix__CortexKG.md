@@ -1,6 +1,6 @@
 # pooyaphoenix/CortexKG
 
-⭐ 20 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pooyaphoenix/CortexKG) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pooyaphoenix/CortexKG) · 个人维护 · 中文 README
 
 **把对话转为知识图谱的 LLM 长期记忆工具，用户自主掌控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pooyaphoenix/CortexKG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-31 20（+1）
+2026-10-18 19 → 2026-11-01 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # aws-samples/mlops-e2e
 
-⭐ 164 · TypeScript · MIT-0 · 推送 2026-04-15 · [GitHub](https://github.com/aws-samples/mlops-e2e) · 组织维护
+⭐ 165 · TypeScript · MIT-0 · 推送 2026-04-15 · [GitHub](https://github.com/aws-samples/mlops-e2e) · 组织维护
 
 **AWS 上的端到端 MLOps 示例：SageMaker+CodePipeline+CDK 实现 ML CI/CD**
 
@@ -45,12 +45,12 @@ aws-samples 维护的示例工程，演示如何用 Amazon SageMaker Pipeline、
 ```mermaid
 xychart-beta
     title "aws-samples/mlops-e2e 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 163 --> 166
+    line [164, 165]
 ```
 
-2026-10-18 164 → 2026-10-31 164（+0）
+2026-10-18 164 → 2026-11-01 165（+1）
 
 
 ---

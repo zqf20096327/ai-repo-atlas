@@ -1,6 +1,6 @@
 # trustabl/trustabl-docs
 
-⭐ 22 · Python · 推送 2026-10-01 · [GitHub](https://github.com/trustabl/trustabl-docs) · 组织维护
+⭐ 25 · Python · 推送 2026-10-01 · [GitHub](https://github.com/trustabl/trustabl-docs) · 组织维护
 
 **Trustabl 文档站源码：聚合 Agent 可靠性分析器文档**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "trustabl/trustabl-docs 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-31"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-23", "2026-11-01"]
+    y-axis "stars" 21 --> 26
+    line [22, 25]
 ```
 
-2026-10-23 22 → 2026-10-31 22（+0）
+2026-10-23 22 → 2026-11-01 25（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # giulio-leone/harness-os
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-05-17 · [GitHub](https://github.com/giulio-leone/harness-os) · [官网](https://www.giulioleone.com) · 个人维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-05-17 · [GitHub](https://github.com/giulio-leone/harness-os) · [官网](https://www.giulioleone.com) · 个人维护
 
 **自主 AI agent 的执行层：持久化、生命周期与编排框架**
 
@@ -45,12 +45,12 @@ TypeScript 编写的 agent 运行时基础设施：以 SQLite 为唯一事实源
 ```mermaid
 xychart-beta
     title "giulio-leone/harness-os 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-31 24（+1）
+2026-10-18 23 → 2026-11-01 25（+2）
 
 
 ---

@@ -44,13 +44,13 @@ segger_dev 是 segger 的开发版仓库：基于图神经网络的空间转录�
 
 ```mermaid
 xychart-beta
-    title "EliHei2/segger_dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "EliHei2/segger_dev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 89 --> 92
-    line [90, 91]
+    line [90, 91, 91]
 ```
 
-2026-10-18 90 → 2026-10-31 91（+1）
+2026-10-18 90 → 2026-11-01 91（+1）
 
 
 ---

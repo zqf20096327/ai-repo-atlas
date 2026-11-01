@@ -1,6 +1,6 @@
 # gatsby-sec/llm-sec-range
 
-⭐ 38 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/gatsby-sec/llm-sec-range) · 组织维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/gatsby-sec/llm-sec-range) · 组织维护 · 中文 README
 
 **本地大模型攻防渗透测试靶场：提示注入CTF/OWASP/脆弱Agent**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "gatsby-sec/llm-sec-range 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 34 --> 39
-    line [36, 35, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 34 --> 40
+    line [36, 35, 36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-10-31 38（+2）
+2026-10-18 36 → 2026-11-01 39（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # xP3ta/hermes-console
 
-⭐ 115 · Dart · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xP3ta/hermes-console) · [官网](https://hermes.xpetalab.dev) · 个人维护
+⭐ 116 · Dart · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xP3ta/hermes-console) · [官网](https://hermes.xpetalab.dev) · 个人维护
 
 **连接自托管 Hermes Agent 的原生 Android 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xP3ta/hermes-console 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 100 --> 116
-    line [101, 102, 104, 107, 110, 109, 110, 113, 115]
+    title "xP3ta/hermes-console 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 100 --> 117
+    line [101, 102, 104, 107, 110, 109, 110, 113, 115, 116]
 ```
 
-2026-10-18 101 → 2026-10-31 115（+14）
+2026-10-18 101 → 2026-11-01 116（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # AprilNEA/AChat
 
-⭐ 3,254 · TypeScript · NOASSERTION · 推送 2026-04-17 · [GitHub](https://github.com/AprilNEA/AChat) · [官网](https://achat.dev) · 个人维护 · 中文 README
+⭐ 3,255 · TypeScript · NOASSERTION · 推送 2026-04-17 · [GitHub](https://github.com/AprilNEA/AChat) · [官网](https://achat.dev) · 个人维护 · 中文 README
 
 **面向企业与团队的自托管本地优先 AI 对话平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AprilNEA/AChat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 3253 --> 3260
-    line [3259, 3258, 3256, 3255, 3254, 3254]
+    line [3259, 3258, 3256, 3255, 3254, 3255]
 ```
 
-2026-10-18 3,259 → 2026-10-31 3,254（-5）
+2026-10-18 3,259 → 2026-11-01 3,255（-4）
 
 
 ---

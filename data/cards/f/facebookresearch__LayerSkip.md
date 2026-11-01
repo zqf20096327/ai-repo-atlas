@@ -1,6 +1,6 @@
 # facebookresearch/LayerSkip
 
-⭐ 379 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/facebookresearch/LayerSkip) · 组织维护
+⭐ 378 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/facebookresearch/LayerSkip) · 组织维护
 
 **LLM 早退推理与自投机解码的研究实现及模型检查点**
 
@@ -46,12 +46,12 @@ ACL 2024 论文 LayerSkip 的官方代码库：通过训练配方使 LLM 支持�
 ```mermaid
 xychart-beta
     title "facebookresearch/LayerSkip 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
     y-axis "stars" 377 --> 381
-    line [379, 380, 379, 378, 379, 379]
+    line [379, 380, 379, 378, 379, 378]
 ```
 
-2026-10-18 379 → 2026-10-31 379（+0）
+2026-10-18 379 → 2026-11-01 378（-1）
 
 
 ---

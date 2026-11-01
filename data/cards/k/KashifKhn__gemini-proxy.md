@@ -1,6 +1,6 @@
 # KashifKhn/gemini-proxy
 
-⭐ 51 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/KashifKhn/gemini-proxy) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/KashifKhn/gemini-proxy) · 个人维护
 
 **自托管 OpenAI 兼容代理：用个人 Google 账号免费调用 Gemini**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KashifKhn/gemini-proxy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 51, 52]
 ```
 
-2026-10-18 49 → 2026-10-31 51（+2）
+2026-10-18 49 → 2026-11-01 52（+3）
 
 
 ---

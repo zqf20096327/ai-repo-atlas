@@ -1,6 +1,6 @@
 # alexgreensh/eval-genius
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/alexgreensh/eval-genius) · [官网](https://alexgreenshpun.com) · 个人维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/alexgreensh/eval-genius) · [官网](https://alexgreenshpun.com) · 个人维护 · 中文 README
 
 **教 AI 编码 agent 何时需要评测、如何搭建与解读的技能包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "alexgreensh/eval-genius 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 22, 24]
 ```
 
-2026-10-18 19 → 2026-10-31 22（+3）
+2026-10-18 19 → 2026-11-01 24（+5）
 
 
 ---

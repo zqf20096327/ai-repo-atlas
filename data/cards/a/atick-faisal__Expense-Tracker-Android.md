@@ -1,6 +1,6 @@
 # atick-faisal/Expense-Tracker-Android
 
-⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/atick-faisal/Expense-Tracker-Android) · [官网](http://atick.dev/Expense-Tracker-Android/) · 组织维护
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/atick-faisal/Expense-Tracker-Android) · [官网](http://atick.dev/Expense-Tracker-Android/) · 组织维护
 
 **Android 记账应用：自动读取银行短信并用 Gemini 分类支出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atick-faisal/Expense-Tracker-Android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

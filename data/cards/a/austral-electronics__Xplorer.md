@@ -46,12 +46,12 @@ Austral Electronics 出品的 Xplorer CM5 系列硬件产品配套软件指南�
 ```mermaid
 xychart-beta
     title "austral-electronics/Xplorer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-10-31 13（+1）
+2026-10-18 12 → 2026-11-01 13（+1）
 
 
 ---

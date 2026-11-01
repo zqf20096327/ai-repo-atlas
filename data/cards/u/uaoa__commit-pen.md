@@ -40,6 +40,18 @@ Commit Pen 是一个 VS Code 扩展，读取仓库 diff 后发送给 Claude，�
 > L10: Commit Pen writes Git commit messages for you. It reads the diff of your repository, sends it to Claude through the
 > L19: - **CLI first, API as a fallback.** Uses the local Claude Code CLI when it is available, so no separate API key is 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "uaoa/commit-pen 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-10-31 19 → 2026-11-01 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `7549d8198b0d` · [字段定义](../../DATASET.md)*

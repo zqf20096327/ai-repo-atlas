@@ -1,6 +1,6 @@
 # ashvardanian/TinySemVer
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/ashvardanian/TinySemVer) · [官网](https://github.com/marketplace/actions/tinysemver) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **单文件 Python 的语义化版本发布工具，按 Conventional Commits 自动打 Git 标签**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

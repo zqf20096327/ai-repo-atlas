@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "talhaanwarch/awesome-llmops-platforms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    title "talhaanwarch/awesome-llmops-platforms 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 37 --> 41
-    line [38, 39, 40, 39]
+    line [38, 39, 40, 39, 39]
 ```
 
-2026-10-18 38 → 2026-10-31 39（+1）
+2026-10-18 38 → 2026-11-01 39（+1）
 
 
 ---

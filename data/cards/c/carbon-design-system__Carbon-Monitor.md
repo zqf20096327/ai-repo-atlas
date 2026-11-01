@@ -45,13 +45,13 @@ Carbon Monitor 由两部分组成：一是 carbon-design-system/carbon 单仓的
 
 ```mermaid
 xychart-beta
-    title "carbon-design-system/Carbon-Monitor 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    title "carbon-design-system/Carbon-Monitor 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 23 --> 32
-    line [24, 28, 31]
+    line [24, 28, 31, 31]
 ```
 
-2026-10-29 24 → 2026-10-31 31（+7）
+2026-10-29 24 → 2026-11-01 31（+7）
 
 
 ---

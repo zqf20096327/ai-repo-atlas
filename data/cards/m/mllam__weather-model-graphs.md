@@ -40,6 +40,18 @@
 > L5: `weather-model-graphs` is a package for creating, visualising and storing graphs used in message-passing graph-based
 > L18: If you want to be able to save to pytorch-geometric data-structure used in
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mllam/weather-model-graphs 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 34 --> 36
+    line [35, 35]
+```
+
+2026-10-31 35 → 2026-11-01 35（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `6749d342cb2f` · [字段定义](../../DATASET.md)*

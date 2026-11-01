@@ -45,13 +45,13 @@ VS Code 扩展，为 GitHub Copilot Chat 接入 LiteLLM 代理服务器，使聊
 
 ```mermaid
 xychart-beta
-    title "Vivswan/litellm-vscode-chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31"]
+    title "Vivswan/litellm-vscode-chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 67 --> 72
-    line [68, 69, 70, 71]
+    line [68, 69, 70, 71, 71]
 ```
 
-2026-10-18 68 → 2026-10-31 71（+3）
+2026-10-18 68 → 2026-11-01 71（+3）
 
 
 ---

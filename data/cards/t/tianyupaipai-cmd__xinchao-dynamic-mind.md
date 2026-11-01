@@ -1,6 +1,6 @@
 # tianyupaipai-cmd/xinchao-dynamic-mind
 
-⭐ 219 · JavaScript · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/tianyupaipai-cmd/xinchao-dynamic-mind) · 个人维护 · 中文 README
+⭐ 220 · JavaScript · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/tianyupaipai-cmd/xinchao-dynamic-mind) · 个人维护 · 中文 README
 
 **可自托管的 AI 动态状态层：驱动力、念头池与睡眠供多端接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tianyupaipai-cmd/xinchao-dynamic-mind 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 213 --> 220
-    line [214, 215, 216, 217, 218, 219]
+    title "tianyupaipai-cmd/xinchao-dynamic-mind 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 213 --> 221
+    line [214, 215, 216, 217, 218, 219, 220]
 ```
 
-2026-10-18 214 → 2026-10-31 219（+5）
+2026-10-18 214 → 2026-11-01 220（+6）
 
 
 ---

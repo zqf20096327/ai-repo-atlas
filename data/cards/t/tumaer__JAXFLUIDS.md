@@ -1,6 +1,6 @@
 # tumaer/JAXFLUIDS
 
-⭐ 661 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/tumaer/JAXFLUIDS) · 组织维护
+⭐ 662 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/tumaer/JAXFLUIDS) · 组织维护
 
 **可微分 CFD 求解器：用 JAX 做 3D 可压缩流仿真与端到端优化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tumaer/JAXFLUIDS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 658 --> 662
-    line [659, 660, 661, 661]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 658 --> 663
+    line [659, 660, 661, 662]
 ```
 
-2026-10-18 659 → 2026-10-31 661（+2）
+2026-10-18 659 → 2026-11-01 662（+3）
 
 
 ---

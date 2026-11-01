@@ -1,6 +1,6 @@
 # openparallax/openparallax
 
-⭐ 14 · Go · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/openparallax/openparallax) · [官网](https://docs.openparallax.dev) · 组织维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/openparallax/openparallax) · [官网](https://docs.openparallax.dev) · 组织维护
 
 **以安全架构为核心的个人 AI agent：思考与执行进程分离**
 
@@ -45,12 +45,12 @@ Go 实现的本地个人 AI agent，宣称遵循 Parallax 范式：LLM 推理进
 ```mermaid
 xychart-beta
     title "openparallax/openparallax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

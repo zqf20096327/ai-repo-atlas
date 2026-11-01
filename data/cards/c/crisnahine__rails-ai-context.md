@@ -1,6 +1,6 @@
 # crisnahine/rails-ai-context
 
-⭐ 169 · Ruby · MIT · 推送 2026-10-30 · [GitHub](https://github.com/crisnahine/rails-ai-context) · [官网](https://crisnahine.github.io/rails-ai-context) · 个人维护
+⭐ 170 · Ruby · MIT · 推送 2026-10-31 · [GitHub](https://github.com/crisnahine/rails-ai-context) · [官网](https://crisnahine.github.io/rails-ai-context) · 个人维护
 
 **给 Rails 开发者：35 个只读 MCP/CLI 工具让 AI 编码助手读取真实应用结构**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crisnahine/rails-ai-context 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 163 --> 170
-    line [164, 165, 164, 165, 167, 169]
+    title "crisnahine/rails-ai-context 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 163 --> 171
+    line [164, 165, 164, 165, 167, 169, 170]
 ```
 
-2026-10-18 164 → 2026-10-31 169（+5）
+2026-10-18 164 → 2026-11-01 170（+6）
 
 
 ---

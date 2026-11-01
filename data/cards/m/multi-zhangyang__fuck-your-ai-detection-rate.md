@@ -1,6 +1,6 @@
 # multi-zhangyang/fuck-your-ai-detection-rate
 
-⭐ 115 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/multi-zhangyang/fuck-your-ai-detection-rate) · 个人维护 · 中文 README
+⭐ 116 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/multi-zhangyang/fuck-your-ai-detection-rate) · 个人维护 · 中文 README
 
 **本地运行的 DOCX/TXT 长文档改写与审阅工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "multi-zhangyang/fuck-your-ai-detection-rate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 113 --> 116
-    line [114, 115, 115]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 113 --> 117
+    line [114, 115, 116]
 ```
 
-2026-10-18 114 → 2026-10-31 115（+1）
+2026-10-18 114 → 2026-11-01 116（+2）
 
 
 ---

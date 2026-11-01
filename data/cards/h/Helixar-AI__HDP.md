@@ -1,6 +1,6 @@
 # Helixar-AI/HDP
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Helixar-AI/HDP) · [官网](https://helixar.ai/about/labs/hdp/) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Helixar-AI/HDP) · [官网](https://helixar.ai/about/labs/hdp/) · 组织维护
 
 **AI 代理人类委托的密码学审计协议与 SDK**
 
@@ -46,12 +46,12 @@ HDP 是一个开放协议，对 agentic AI 中人类向代理、代理向代理�
 ```mermaid
 xychart-beta
     title "Helixar-AI/HDP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-31 19（+1）
+2026-10-18 18 → 2026-11-01 19（+1）
 
 
 ---

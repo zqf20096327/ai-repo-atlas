@@ -1,6 +1,6 @@
 # microsoft/Agent-Framework-Samples
 
-⭐ 389 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/microsoft/Agent-Framework-Samples) · [官网](https://github.com/microsoft/agent-framework) · 组织维护
+⭐ 390 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/microsoft/Agent-Framework-Samples) · [官网](https://github.com/microsoft/agent-framework) · 组织维护
 
 **微软 Agent Framework 官方示例教程库：Python/.NET 双栈学建智能体**
 
@@ -46,12 +46,12 @@ microsoft/agent-framework 的配套实操示例仓库，含 10 个章节（00-09
 ```mermaid
 xychart-beta
     title "microsoft/Agent-Framework-Samples 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 384 --> 390
-    line [385, 386, 387, 389, 389]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 384 --> 391
+    line [385, 386, 387, 389, 390]
 ```
 
-2026-10-18 385 → 2026-10-31 389（+4）
+2026-10-18 385 → 2026-11-01 390（+5）
 
 
 ---

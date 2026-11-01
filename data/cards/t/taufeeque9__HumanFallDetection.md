@@ -1,6 +1,6 @@
 # taufeeque9/HumanFallDetection
 
-⭐ 354 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/taufeeque9/HumanFallDetection) · 组织维护
+⭐ 355 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/taufeeque9/HumanFallDetection) · 组织维护
 
 **多摄像头多人跌倒检测器：姿态估计+LSTM 实时判定跌倒**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taufeeque9/HumanFallDetection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 353 --> 355
-    line [354, 354]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 353 --> 356
+    line [354, 355]
 ```
 
-2026-10-18 354 → 2026-10-31 354（+0）
+2026-10-18 354 → 2026-11-01 355（+1）
 
 
 ---

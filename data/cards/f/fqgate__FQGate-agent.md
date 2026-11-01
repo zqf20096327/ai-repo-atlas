@@ -1,6 +1,6 @@
 # fqgate/FQGate-agent
 
-⭐ 269 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/fqgate/FQGate-agent) · 个人维护 · 中文 README
+⭐ 269 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/fqgate/FQGate-agent) · 个人维护 · 中文 README
 
 **让 Codex/Claude Code 等 AI 工具接入本机 A 股行情的插件层**
 
@@ -46,12 +46,12 @@ FQGate Agent 是 FQGate 本地金融网关的开源 AI 接入项目：维护 Cod
 ```mermaid
 xychart-beta
     title "fqgate/FQGate-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
     y-axis "stars" 255 --> 270
     line [256, 262, 264, 265, 266, 267, 269, 269]
 ```
 
-2026-10-18 256 → 2026-10-31 269（+13）
+2026-10-18 256 → 2026-11-01 269（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # diceframe/diceframe
 
-⭐ 139 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/diceframe/diceframe) · [官网](https://diceframe.com) · 组织维护 · 中文 README
+⭐ 140 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/diceframe/diceframe) · [官网](https://diceframe.com) · 组织维护 · 中文 README
 
 **自部署 AI 跑团（TRPG）引擎：多人 WebUI 跑 D&D/COC 等规则**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diceframe/diceframe 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 126 --> 140
-    line [127, 129, 130, 132, 134, 136, 135, 136, 139]
+    title "diceframe/diceframe 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 126 --> 141
+    line [127, 129, 130, 132, 134, 136, 135, 136, 139, 140]
 ```
 
-2026-10-18 127 → 2026-10-31 139（+12）
+2026-10-18 127 → 2026-11-01 140（+13）
 
 
 ---

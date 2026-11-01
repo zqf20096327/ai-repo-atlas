@@ -1,6 +1,6 @@
 # felipefontoura/spec-driven-development-book
 
-⭐ 27 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/felipefontoura/spec-driven-development-book) · [官网](https://felipefontoura.com/get/sdd-book/?utm_source=github&utm_medium=referral&utm_campaign=sdd-book&utm_content=about) · 个人维护
+⭐ 29 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/felipefontoura/spec-driven-development-book) · [官网](https://felipefontoura.com/get/sdd-book/?utm_source=github&utm_medium=referral&utm_campaign=sdd-book&utm_content=about) · 个人维护
 
 **规范驱动开发（SDD）实践书籍：教人用 AI 代理交付软件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "felipefontoura/spec-driven-development-book 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 20 --> 28
-    line [21, 22, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 20 --> 30
+    line [21, 22, 26, 27, 29]
 ```
 
-2026-10-18 21 → 2026-10-31 27（+6）
+2026-10-18 21 → 2026-11-01 29（+8）
 
 
 ---

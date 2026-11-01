@@ -1,6 +1,6 @@
 # sorty-organizer/Sorty
 
-⭐ 53 · Swift · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/sorty-organizer/Sorty) · [官网](https://sorty-organizer.github.io/Sorty/) · 组织维护
+⭐ 54 · Swift · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/sorty-organizer/Sorty) · [官网](https://sorty-organizer.github.io/Sorty/) · 组织维护
 
 **用 AI 自动整理 macOS 文件夹的原生 SwiftUI 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sorty-organizer/Sorty 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 46 --> 54
-    line [47, 49, 50, 51, 52, 53]
+    title "sorty-organizer/Sorty 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 46 --> 55
+    line [47, 49, 50, 51, 52, 53, 54]
 ```
 
-2026-10-18 47 → 2026-10-31 53（+6）
+2026-10-18 47 → 2026-11-01 54（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/html-effectiveness
 
-⭐ 691 · HTML · MIT · 推送 2026-07-03 · [GitHub](https://github.com/anthropics/html-effectiveness) · 组织维护
+⭐ 693 · HTML · MIT · 推送 2026-07-03 · [GitHub](https://github.com/anthropics/html-effectiveness) · 组织维护
 
 **HTML 作为输出格式的独立示例集，配合作者博客文章**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/html-effectiveness 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 677 --> 692
-    line [678, 679, 682, 683, 684, 686, 687, 691]
+    title "anthropics/html-effectiveness 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 677 --> 694
+    line [678, 679, 682, 683, 684, 686, 687, 691, 693]
 ```
 
-2026-10-18 678 → 2026-10-31 691（+13）
+2026-10-18 678 → 2026-11-01 693（+15）
 
 
 ---

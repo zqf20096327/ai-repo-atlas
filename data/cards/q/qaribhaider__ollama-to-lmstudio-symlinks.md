@@ -1,6 +1,6 @@
 # qaribhaider/ollama-to-lmstudio-symlinks
 
-⭐ 178 · Go · MIT · 推送 2026-09-21 · [GitHub](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) · 个人维护
+⭐ 178 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) · 个人维护
 
 **Ollama 与 LM Studio 模型共享的符号链接 CLI 工具**
 
@@ -46,12 +46,12 @@ Go 编写的跨平台命令行工具，通过符号链接（可选硬链接）�
 ```mermaid
 xychart-beta
     title "qaribhaider/ollama-to-lmstudio-symlinks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01"]
     y-axis "stars" 174 --> 179
     line [175, 176, 177, 178, 178]
 ```
 
-2026-10-18 175 → 2026-10-31 178（+3）
+2026-10-18 175 → 2026-11-01 178（+3）
 
 
 ---

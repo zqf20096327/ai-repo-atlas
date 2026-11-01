@@ -1,6 +1,6 @@
 # yonitjio/exploring-odoo
 
-⭐ 78 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yonitjio/exploring-odoo) · [官网](https://www.youtube.com/@exploring-odoo) · 组织维护
+⭐ 79 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yonitjio/exploring-odoo) · [官网](https://www.youtube.com/@exploring-odoo) · 组织维护
 
 **Odoo 教学视频配套源码与节点式 UI 实验插件**
 
@@ -44,12 +44,12 @@ Exploring Odoo YouTube 频道的教学源码仓库，每个分支对应特定视
 ```mermaid
 xychart-beta
     title "yonitjio/exploring-odoo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-10-31 78（+0）
+2026-10-18 78 → 2026-11-01 79（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling
 
-⭐ 22 · 推送 2026-10-28 · [GitHub](https://github.com/erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 25 · 推送 2026-10-28 · [GitHub](https://github.com/erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向多账号矩阵团队的虚拟卡发卡平台（非软件仓库）**
 
@@ -43,13 +43,13 @@ README 为商业虚拟卡服务的推广页面，无代码内容：宣称提供�
 
 ```mermaid
 xychart-beta
-    title "erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 11 --> 23
-    line [12, 22]
+    title "erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 11 --> 26
+    line [12, 22, 25]
 ```
 
-2026-10-30 12 → 2026-10-31 22（+10）
+2026-10-30 12 → 2026-11-01 25（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # SamurAIGPT/geo-checker
 
-⭐ 17 · JavaScript · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/geo-checker) · 组织维护
+⭐ 18 · JavaScript · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/geo-checker) · 组织维护
 
 **自托管 GEO 审计 SaaS：检测落地页被 AI 搜索引擎引用的情况**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SamurAIGPT/geo-checker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-10-31 17（+2）
+2026-10-18 15 → 2026-11-01 18（+3）
 
 
 ---

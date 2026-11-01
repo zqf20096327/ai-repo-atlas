@@ -1,6 +1,6 @@
 # LoganBooker/SesquiLSR
 
-⭐ 115 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/LoganBooker/SesquiLSR) · 个人维护
+⭐ 116 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/LoganBooker/SesquiLSR) · 个人维护
 
 **SDXL/Flux/Wan 等扩散模型的任意倍率隐空间放大器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LoganBooker/SesquiLSR 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-31"]
+    title "LoganBooker/SesquiLSR 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 110 --> 117
-    line [111, 112, 114, 115, 116, 115]
+    line [111, 112, 114, 115, 116, 115, 116]
 ```
 
-2026-10-18 111 → 2026-10-31 115（+4）
+2026-10-18 111 → 2026-11-01 116（+5）
 
 
 ---

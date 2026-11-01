@@ -1,6 +1,6 @@
 # Xiangyue-Zhang/auto-deep-researcher-24x7
 
-⭐ 1,136 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) · [官网](https://arxiv.org/abs/2604.05854) · 个人维护 · 中文 README
+⭐ 1,137 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) · [官网](https://arxiv.org/abs/2604.05854) · 个人维护 · 中文 README
 
 **24/7 自主运行深度学习实验的 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xiangyue-Zhang/auto-deep-researcher-24x7 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-01"]
     y-axis "stars" 1133 --> 1138
-    line [1135, 1136, 1137, 1134, 1135, 1136, 1136]
+    line [1135, 1136, 1137, 1134, 1135, 1136, 1137]
 ```
 
-2026-10-18 1,135 → 2026-10-31 1,136（+1）
+2026-10-18 1,135 → 2026-11-01 1,137（+2）
 
 
 ---

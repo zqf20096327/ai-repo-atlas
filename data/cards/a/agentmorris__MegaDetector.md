@@ -1,6 +1,6 @@
 # agentmorris/MegaDetector
 
-⭐ 342 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/agentmorris/MegaDetector) · 组织维护
+⭐ 343 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/agentmorris/MegaDetector) · 组织维护
 
 **相机陷阱图像中检测动物/人/车辆的 AI 模型及工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentmorris/MegaDetector 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 336 --> 343
-    line [337, 340, 341, 342, 342]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 336 --> 344
+    line [337, 340, 341, 342, 343]
 ```
 
-2026-10-18 337 → 2026-10-31 342（+5）
+2026-10-18 337 → 2026-11-01 343（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # gpu-mode/Triton-Puzzles
 
-⭐ 2,653 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/gpu-mode/Triton-Puzzles) · 组织维护
+⭐ 2,655 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/gpu-mode/Triton-Puzzles) · 组织维护
 
 **Triton GPU 编程教学谜题集，无需 GPU 即可练习**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "gpu-mode/Triton-Puzzles 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 2640 --> 2654
-    line [2641, 2644, 2650, 2652, 2653, 2652, 2653]
+    title "gpu-mode/Triton-Puzzles 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2640 --> 2656
+    line [2641, 2644, 2650, 2652, 2653, 2652, 2653, 2655]
 ```
 
-2026-10-18 2,641 → 2026-10-31 2,653（+12）
+2026-10-18 2,641 → 2026-11-01 2,655（+14）
 
 
 ---

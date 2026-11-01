@@ -1,6 +1,6 @@
 # Eignex/kumulant
 
-⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Eignex/kumulant) · [官网](https://eignex.com/docs/kumulant) · 组织维护
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Eignex/kumulant) · [官网](https://eignex.com/docs/kumulant) · 组织维护
 
 **Kotlin 多平台流式机器学习库：在线回归、bandit 与流式统计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Eignex/kumulant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

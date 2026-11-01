@@ -1,6 +1,6 @@
 # mert-kurttutan/torchview
 
-⭐ 1,089 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/mert-kurttutan/torchview) · [官网](https://mert-kurttutan.github.io/torchview/) · 个人维护
+⭐ 1,090 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/mert-kurttutan/torchview) · [官网](https://mert-kurttutan.github.io/torchview/) · 个人维护
 
 **将 PyTorch 模型可视化为计算图的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mert-kurttutan/torchview 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 1082 --> 1090
-    line [1083, 1084, 1085, 1086, 1087, 1089, 1089]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 1082 --> 1091
+    line [1083, 1084, 1085, 1086, 1087, 1089, 1090]
 ```
 
-2026-10-18 1,083 → 2026-10-31 1,089（+6）
+2026-10-18 1,083 → 2026-11-01 1,090（+7）
 
 
 ---

@@ -45,12 +45,12 @@ AugmentedMe（AM）是一个开源的本地个人 AI agent 系统：通过 Claud
 ```mermaid
 xychart-beta
     title "augmentedmike/helloam-agentic-kanban 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 16（+0）
 
 
 ---

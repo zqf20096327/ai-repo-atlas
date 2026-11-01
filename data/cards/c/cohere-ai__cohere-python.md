@@ -44,13 +44,13 @@ Cohere 官方 Python 库，提供 ClientV2 接入 Cohere 平台的 Chat、Embed�
 
 ```mermaid
 xychart-beta
-    title "cohere-ai/cohere-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    title "cohere-ai/cohere-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
     y-axis "stars" 404 --> 408
-    line [405, 406, 407]
+    line [405, 406, 407, 407]
 ```
 
-2026-10-18 405 → 2026-10-31 407（+2）
+2026-10-18 405 → 2026-11-01 407（+2）
 
 
 ---

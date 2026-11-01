@@ -1,6 +1,6 @@
 # agent-labs-dev/fastbrowse
 
-⭐ 131 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
+⭐ 166 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
 
 **浏览器 Agent：选择模型 Jev 逐步操作页面，LLM 规划并输出带引文引用的回答**
 
@@ -45,13 +45,13 @@ fastbrowse 是一个本地或云端浏览器中运行任务的 CLI 工具：它�
 
 ```mermaid
 xychart-beta
-    title "agent-labs-dev/fastbrowse 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 118 --> 132
-    line [120, 119, 120, 121, 131]
+    title "agent-labs-dev/fastbrowse 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 115 --> 170
+    line [120, 119, 120, 121, 131, 166]
 ```
 
-2026-10-18 120 → 2026-10-31 131（+11）
+2026-10-18 120 → 2026-11-01 166（+46）
 
 
 ---

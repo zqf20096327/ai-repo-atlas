@@ -1,6 +1,6 @@
 # InternLM/lagent
 
-⭐ 2,286 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/InternLM/lagent) · 组织维护 · 中文 README
+⭐ 2,285 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/InternLM/lagent) · 组织维护 · 中文 README
 
 **轻量级 LLM Agent 构建框架，供开发者搭建多智能体应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/lagent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
+    title "InternLM/lagent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 2283 --> 2288
-    line [2284, 2285, 2286, 2287, 2286]
+    line [2284, 2285, 2286, 2287, 2286, 2285]
 ```
 
-2026-10-18 2,284 → 2026-10-31 2,286（+2）
+2026-10-18 2,284 → 2026-11-01 2,285（+1）
 
 
 ---

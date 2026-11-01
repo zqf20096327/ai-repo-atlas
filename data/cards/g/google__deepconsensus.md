@@ -1,6 +1,6 @@
 # google/deepconsensus
 
-⭐ 265 · Python · BSD-3-Clause · 推送 2026-04-07 · [GitHub](https://github.com/google/deepconsensus) · 组织维护
+⭐ 264 · Python · BSD-3-Clause · 推送 2026-04-07 · [GitHub](https://github.com/google/deepconsensus) · 组织维护
 
 **用 gap-aware transformer 纠正 PacBio CCS 测序错误的工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "google/deepconsensus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 264 --> 266
-    line [265, 265]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 263 --> 266
+    line [265, 264]
 ```
 
-2026-10-18 265 → 2026-10-31 265（+0）
+2026-10-18 265 → 2026-11-01 264（-1）
 
 
 ---

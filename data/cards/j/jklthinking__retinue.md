@@ -1,6 +1,6 @@
 # jklthinking/retinue
 
-⭐ 114 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jklthinking/retinue) · [官网](https://jklthinking.github.io/retinue/) · 个人维护 · 中文 README
+⭐ 115 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jklthinking/retinue) · [官网](https://jklthinking.github.io/retinue/) · 个人维护 · 中文 README
 
 **人与 AI agent 共用的自托管任务看板与协作审计层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jklthinking/retinue 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01"]
     y-axis "stars" 109 --> 118
-    line [117, 110, 111, 112, 114, 114]
+    line [117, 110, 111, 112, 114, 115]
 ```
 
-2026-10-18 117 → 2026-10-31 114（-3）
+2026-10-18 117 → 2026-11-01 115（-2）
 
 
 ---

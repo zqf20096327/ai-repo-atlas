@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 164 --> 167
     line [165, 166, 166]
 ```
 
-2026-10-18 165 → 2026-10-31 166（+1）
+2026-10-18 165 → 2026-11-01 166（+1）
 
 
 ---

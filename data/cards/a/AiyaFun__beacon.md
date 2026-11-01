@@ -1,6 +1,6 @@
 # AiyaFun/beacon
 
-⭐ 57 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/AiyaFun/beacon) · [官网](https://beacon.iyunci.cn) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/AiyaFun/beacon) · [官网](https://beacon.iyunci.cn) · 个人维护 · 中文 README
 
 **给创作者的多平台选题创作 SaaS：热榜、竞对、AI 选题与发布闭环**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AiyaFun/beacon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 53 --> 58
-    line [54, 55, 57, 57]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 53 --> 63
+    line [54, 55, 57, 62]
 ```
 
-2026-10-18 54 → 2026-10-31 57（+3）
+2026-10-18 54 → 2026-11-01 62（+8）
 
 
 ---

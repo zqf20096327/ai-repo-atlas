@@ -1,6 +1,6 @@
 # awslabs/dgl-ke
 
-⭐ 1,337 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/awslabs/dgl-ke) · [官网](https://dglke.dgl.ai/doc/) · 组织维护
+⭐ 1,336 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/awslabs/dgl-ke) · [官网](https://dglke.dgl.ai/doc/) · 组织维护
 
 **大规模知识图谱嵌入训练工具包，供图学习开发者使用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "awslabs/dgl-ke 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1336 --> 1338
-    line [1337, 1337]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1335 --> 1338
+    line [1337, 1336]
 ```
 
-2026-10-18 1,337 → 2026-10-31 1,337（+0）
+2026-10-18 1,337 → 2026-11-01 1,336（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sreeharierk/datascience
 
-⭐ 5,148 · GPL-3.0 · 推送 2026-02-01 · [GitHub](https://github.com/sreeharierk/datascience) · [官网](https://twitter.com/sreeharierk) · 个人维护
+⭐ 5,147 · GPL-3.0 · 推送 2026-02-01 · [GitHub](https://github.com/sreeharierk/datascience) · [官网](https://twitter.com/sreeharierk) · 个人维护
 
 **数据科学学习路线图：免费资源与概念讲解合集**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "sreeharierk/datascience 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 5147 --> 5150
-    line [5149, 5148, 5149, 5148, 5148]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 5146 --> 5150
+    line [5149, 5148, 5149, 5148, 5147]
 ```
 
-2026-10-18 5,149 → 2026-10-31 5,148（-1）
+2026-10-18 5,149 → 2026-11-01 5,147（-2）
 
 
 ---

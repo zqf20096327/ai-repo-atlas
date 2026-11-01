@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/gemini-cli-best-practice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "shanraisshan/gemini-cli-best-practice 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 77 --> 81
-    line [78, 79, 80]
+    line [78, 79, 80, 80]
 ```
 
-2026-10-18 78 → 2026-10-31 80（+2）
+2026-10-18 78 → 2026-11-01 80（+2）
 
 
 ---

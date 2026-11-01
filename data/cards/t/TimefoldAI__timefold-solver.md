@@ -1,6 +1,6 @@
 # TimefoldAI/timefold-solver
 
-⭐ 1,844 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/TimefoldAI/timefold-solver) · [官网](http://solver.timefold.ai) · 组织维护
+⭐ 1,845 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/TimefoldAI/timefold-solver) · [官网](http://solver.timefold.ai) · 组织维护
 
 **面向 Java/Kotlin 的 AI 约束求解器，优化排班与路径规划**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TimefoldAI/timefold-solver 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 1832 --> 1845
-    line [1833, 1835, 1836, 1837, 1839, 1840, 1841, 1843, 1844]
+    title "TimefoldAI/timefold-solver 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1832 --> 1846
+    line [1833, 1835, 1836, 1837, 1839, 1840, 1841, 1843, 1844, 1845]
 ```
 
-2026-10-18 1,833 → 2026-10-31 1,844（+11）
+2026-10-18 1,833 → 2026-11-01 1,845（+12）
 
 
 ---

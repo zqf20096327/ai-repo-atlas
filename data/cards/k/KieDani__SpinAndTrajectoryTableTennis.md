@@ -1,6 +1,6 @@
 # KieDani/SpinAndTrajectoryTableTennis
 
-⭐ 30 · Python · GPL-3.0 · 推送 2026-07-15 · [GitHub](https://github.com/KieDani/SpinAndTrajectoryTableTennis) · [官网](https://kiedani.github.io/CVPRW2025/) · 组织维护
+⭐ 29 · Python · GPL-3.0 · 推送 2026-07-15 · [GitHub](https://github.com/KieDani/SpinAndTrajectoryTableTennis) · [官网](https://kiedani.github.io/CVPRW2025/) · 组织维护
 
 **CVPR 2025 论文官方代码：从乒乓球转播视频估计球旋转与轨迹**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KieDani/SpinAndTrajectoryTableTennis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    line [29, 30, 29]
 ```
 
-2026-10-18 29 → 2026-10-31 30（+1）
+2026-10-18 29 → 2026-11-01 29（+0）
 
 
 ---

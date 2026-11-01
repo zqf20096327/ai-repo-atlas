@@ -44,13 +44,13 @@ LTNtorch 是逻辑张量网络（LTN）的 PyTorch 实现。LTN 是神经-符号
 
 ```mermaid
 xychart-beta
-    title "tommasocarraro/LTNtorch 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31"]
+    title "tommasocarraro/LTNtorch 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
     y-axis "stars" 162 --> 166
-    line [163, 164, 165]
+    line [163, 164, 165, 165]
 ```
 
-2026-10-23 163 → 2026-10-31 165（+2）
+2026-10-23 163 → 2026-11-01 165（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nshiab/simple-data-analysis
 
-⭐ 356 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nshiab/simple-data-analysis) · [官网](https://nshiab.github.io/simple-data-analysis/) · 个人维护
+⭐ 357 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nshiab/simple-data-analysis) · [官网](https://nshiab.github.io/simple-data-analysis/) · 个人维护
 
 **TypeScript 数据分析库：基于 DuckDB 做表格/地理/向量与 AI 辅助分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nshiab/simple-data-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 355 --> 357
-    line [356, 356]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 355 --> 358
+    line [356, 357]
 ```
 
-2026-10-18 356 → 2026-10-31 356（+0）
+2026-10-18 356 → 2026-11-01 357（+1）
 
 
 ---

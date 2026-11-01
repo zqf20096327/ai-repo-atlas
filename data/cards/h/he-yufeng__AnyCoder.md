@@ -1,6 +1,6 @@
 # he-yufeng/AnyCoder
 
-⭐ 33 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/he-yufeng/AnyCoder) · [官网](https://pypi.org/project/anycoder/) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/he-yufeng/AnyCoder) · [官网](https://pypi.org/project/anycoder/) · 个人维护 · 中文 README
 
 **终端 AI 编程助手：一个 CLI 接入 100+ 模型写代码**
 
@@ -46,12 +46,12 @@ Python 实现的终端编码 agent（约 1,600 行），通过 litellm 支持 De
 ```mermaid
 xychart-beta
     title "he-yufeng/AnyCoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 31 --> 34
+    line [33, 32]
 ```
 
-2026-10-18 33 → 2026-10-31 33（+0）
+2026-10-18 33 → 2026-11-01 32（-1）
 
 
 ---

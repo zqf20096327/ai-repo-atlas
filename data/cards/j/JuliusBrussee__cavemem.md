@@ -1,6 +1,6 @@
 # JuliusBrussee/cavemem
 
-⭐ 676 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/JuliusBrussee/cavemem) · [官网](https://caveman.so/) · 个人维护
+⭐ 675 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/JuliusBrussee/cavemem) · [官网](https://caveman.so/) · 个人维护
 
 **给编码助手用的跨 IDE 持久记忆：会话压缩存本地 SQLite**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JuliusBrussee/cavemem 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 675 --> 679
-    line [677, 678, 677, 676, 676]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 674 --> 679
+    line [677, 678, 677, 676, 675]
 ```
 
-2026-10-18 677 → 2026-10-31 676（-1）
+2026-10-18 677 → 2026-11-01 675（-2）
 
 
 ---

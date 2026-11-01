@@ -1,6 +1,6 @@
 # tinykit-studio/tinykit
 
-⭐ 526 · Svelte · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tinykit-studio/tinykit) · [官网](https://tinykit.studio) · 组织维护
+⭐ 527 · Svelte · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tinykit-studio/tinykit) · [官网](https://tinykit.studio) · 组织维护
 
 **可自托管的开源 agentic 应用构建平台，带实时数据库与存储**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinykit-studio/tinykit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 523 --> 527
-    line [524, 525, 526]
+    title "tinykit-studio/tinykit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 523 --> 528
+    line [524, 525, 526, 527]
 ```
 
-2026-10-18 524 → 2026-10-31 526（+2）
+2026-10-18 524 → 2026-11-01 527（+3）
 
 
 ---

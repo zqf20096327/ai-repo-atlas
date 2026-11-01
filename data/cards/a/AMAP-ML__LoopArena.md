@@ -1,6 +1,6 @@
 # AMAP-ML/LoopArena
 
-⭐ 152 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/AMAP-ML/LoopArena) · [官网](https://amap-ml.github.io/LoopArena/) · 组织维护 · 中文 README
+⭐ 153 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/AMAP-ML/LoopArena) · [官网](https://amap-ml.github.io/LoopArena/) · 组织维护 · 中文 README
 
 **评测模型作为 coding agent 运行时控制器的基准（三类设置）**
 
@@ -46,12 +46,12 @@ LoopArena 评估模型在编码任务循环中担任运行时 Controller 的能�
 ```mermaid
 xychart-beta
     title "AMAP-ML/LoopArena 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 150 --> 153
-    line [151, 152, 152]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153]
 ```
 
-2026-10-18 151 → 2026-10-31 152（+1）
+2026-10-18 151 → 2026-11-01 153（+2）
 
 
 ---

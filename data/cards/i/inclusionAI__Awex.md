@@ -1,6 +1,6 @@
 # inclusionAI/Awex
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/inclusionAI/Awex) · 组织维护
+⭐ 179 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/inclusionAI/Awex) · 组织维护
 
 **RL 训练-推理权重同步框架：秒级更新推理端模型参数**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inclusionAI/Awex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 176 --> 179
-    line [177, 178, 178]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 176 --> 180
+    line [177, 178, 179]
 ```
 
-2026-10-18 177 → 2026-10-31 178（+1）
+2026-10-18 177 → 2026-11-01 179（+2）
 
 
 ---

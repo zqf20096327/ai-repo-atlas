@@ -1,6 +1,6 @@
 # thomasunise/casecite
 
-⭐ 138 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/thomasunise/casecite) · [官网](https://thomasunise.com/casecite) · 个人维护
+⭐ 143 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/thomasunise/casecite) · [官网](https://thomasunise.com/casecite) · 个人维护
 
 **自托管法律 RAG 研究与文档分析平台，面向律所**
 
@@ -40,6 +40,18 @@
 
 > L7: CaseCite is an **open-source, self-hosted** legal research platform. Upload your firm's documents, ask questions, an
 > L15: |**Research** (`/research`)|Chat over your firm's documents — hybrid retrieval (vector search and a full-corpus key
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thomasunise/casecite 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 137 --> 144
+    line [138, 143]
+```
+
+2026-10-31 138 → 2026-11-01 143（+5）
 
 
 ---

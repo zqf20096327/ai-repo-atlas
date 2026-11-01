@@ -1,6 +1,6 @@
 # NarratorAI-Studio/narrator-ai-cli-skill
 
-⭐ 3,080 · MIT · 推送 2026-07-05 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) · 组织维护 · 中文 README
+⭐ 3,084 · MIT · 推送 2026-07-05 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) · 组织维护 · 中文 README
 
 **教 AI Agent 调用 narrator-ai-cli 自动生成电影解说视频的技能文件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NarratorAI-Studio/narrator-ai-cli-skill 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 3049 --> 3082
-    line [3051, 3053, 3065, 3067, 3070, 3078, 3077, 3078, 3080]
+    title "NarratorAI-Studio/narrator-ai-cli-skill 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 3048 --> 3087
+    line [3051, 3053, 3065, 3067, 3070, 3078, 3077, 3078, 3080, 3084]
 ```
 
-2026-10-18 3,051 → 2026-10-31 3,080（+29）
+2026-10-18 3,051 → 2026-11-01 3,084（+33）
 
 
 ---

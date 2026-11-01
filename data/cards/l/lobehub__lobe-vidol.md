@@ -1,6 +1,6 @@
 # lobehub/lobe-vidol
 
-⭐ 994 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-vidol) · [官网](https://vidol.lobehub.com) · 组织维护 · 中文 README
+⭐ 995 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-vidol) · [官网](https://vidol.lobehub.com) · 组织维护 · 中文 README
 
 **面向用户的虚拟偶像创作与对话平台**
 
@@ -46,12 +46,12 @@ LobeHub 团队开发的 Web 应用：用户可创建虚拟偶像角色、上传 
 ```mermaid
 xychart-beta
     title "lobehub/lobe-vidol 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01"]
     y-axis "stars" 992 --> 996
-    line [993, 994, 995, 994, 994]
+    line [993, 994, 995, 994, 995]
 ```
 
-2026-10-18 993 → 2026-10-31 994（+1）
+2026-10-18 993 → 2026-11-01 995（+2）
 
 
 ---

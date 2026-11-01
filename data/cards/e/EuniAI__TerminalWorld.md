@@ -1,6 +1,6 @@
 # EuniAI/TerminalWorld
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/EuniAI/TerminalWorld) · [官网](https://terminalworld.ai/) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/EuniAI/TerminalWorld) · [官网](https://terminalworld.ai/) · 组织维护
 
 **从真实终端录制反向构造的 agent 评测基准（1,530 任务）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EuniAI/TerminalWorld 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 52, 53]
 ```
 
-2026-10-18 50 → 2026-10-31 52（+2）
+2026-10-18 50 → 2026-11-01 53（+3）
 
 
 ---

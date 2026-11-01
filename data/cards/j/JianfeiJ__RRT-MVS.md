@@ -1,6 +1,6 @@
 # JianfeiJ/RRT-MVS
 
-⭐ 17 · Python · MIT · 推送 2025-11-04 · [GitHub](https://github.com/JianfeiJ/RRT-MVS) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AAAI 2025 多视图立体重建 Transformer：预测深度图生成稠密点云**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

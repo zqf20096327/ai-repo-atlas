@@ -1,6 +1,6 @@
 # onnx/onnx-tensorflow
 
-⭐ 1,328 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/onnx/onnx-tensorflow) · 组织维护
+⭐ 1,329 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/onnx/onnx-tensorflow) · 组织维护
 
 **将 ONNX 模型转换为 TensorFlow 模型的转换器（已宣布弃用）**
 
@@ -45,12 +45,12 @@ ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为
 ```mermaid
 xychart-beta
     title "onnx/onnx-tensorflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1327 --> 1329
-    line [1328, 1328]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1327 --> 1330
+    line [1328, 1329]
 ```
 
-2026-10-18 1,328 → 2026-10-31 1,328（+0）
+2026-10-18 1,328 → 2026-11-01 1,329（+1）
 
 
 ---

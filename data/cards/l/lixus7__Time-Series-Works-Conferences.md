@@ -1,6 +1,6 @@
 # lixus7/Time-Series-Works-Conferences
 
-⭐ 1,042 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lixus7/Time-Series-Works-Conferences) · 个人维护
+⭐ 1,043 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lixus7/Time-Series-Works-Conferences) · 个人维护
 
 **顶会时间序列论文追踪清单，供研究者跟进最新工作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lixus7/Time-Series-Works-Conferences 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 1039 --> 1043
-    line [1040, 1041, 1042, 1042]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 1039 --> 1044
+    line [1040, 1041, 1042, 1043]
 ```
 
-2026-10-18 1,040 → 2026-10-31 1,042（+2）
+2026-10-18 1,040 → 2026-11-01 1,043（+3）
 
 
 ---

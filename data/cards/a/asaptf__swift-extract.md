@@ -1,6 +1,6 @@
 # asaptf/swift-extract
 
-⭐ 34 · Swift · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/asaptf/swift-extract) · 个人维护
+⭐ 34 · Swift · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/asaptf/swift-extract) · 个人维护
 
 **Swift 结构化提取库：从 PDF/照片/文本经 LLM 输出类型化实例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asaptf/swift-extract 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-31 34（+1）
+2026-10-18 33 → 2026-11-01 34（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dengsgo/echofs
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/dengsgo/echofs) · 个人维护 · 中文 README
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/dengsgo/echofs) · 个人维护 · 中文 README
 
 **把任意目录变成可分享、可挂载的 Web 站点的 Rust 文件服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dengsgo/echofs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-31 32（+0）
+2026-10-18 32 → 2026-11-01 32（+0）
 
 
 ---

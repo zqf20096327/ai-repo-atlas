@@ -1,6 +1,6 @@
 # The-Obstacle-Is-The-Way/gigapixel-goblin
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/The-Obstacle-Is-The-Way/gigapixel-goblin) · [官网](https://the-obstacle-is-the-way.github.io/gigapixel-goblin/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/The-Obstacle-Is-The-Way/gigapixel-goblin) · [官网](https://the-obstacle-is-the-way.github.io/gigapixel-goblin/) · 组织维护
 
 **千兆像素病理图像的 LLM 导航环境与 MultiPathQA 评测框架**
 
@@ -46,12 +46,12 @@ GIANT 风格的全切片病理图像（WSI）导航环境加评测运行器：LL
 ```mermaid
 xychart-beta
     title "The-Obstacle-Is-The-Way/gigapixel-goblin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-31 17（+1）
+2026-10-18 16 → 2026-11-01 18（+2）
 
 
 ---

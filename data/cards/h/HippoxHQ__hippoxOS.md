@@ -1,6 +1,6 @@
 # HippoxHQ/hippoxOS
 
-⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/HippoxHQ/hippoxOS) · [官网](https://hippoxos.vercel.app) · 组织维护 · 中文 README
+⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/HippoxHQ/hippoxOS) · [官网](https://hippoxos.vercel.app) · 组织维护 · 中文 README
 
 **以自然语言为核心交互的 AI 原生桌面操作系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HippoxHQ/hippoxOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 15 --> 24
-    line [16, 21, 22, 23]
+    title "HippoxHQ/hippoxOS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 15 --> 25
+    line [16, 21, 22, 23, 24]
 ```
 
-2026-10-18 16 → 2026-10-31 23（+7）
+2026-10-18 16 → 2026-11-01 24（+8）
 
 
 ---

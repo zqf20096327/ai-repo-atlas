@@ -1,6 +1,6 @@
 # demo112/yunqu-ai-skills
 
-⭐ 24 · HTML · MIT · 推送 2026-05-13 · [GitHub](https://github.com/demo112/yunqu-ai-skills) · [官网](https://demo112.github.io/yunqu-ai-skills/) · 个人维护 · 中文 README
+⭐ 37 · HTML · MIT · 推送 2026-05-13 · [GitHub](https://github.com/demo112/yunqu-ai-skills) · [官网](https://demo112.github.io/yunqu-ai-skills/) · 个人维护 · 中文 README
 
 **付费的 15 个 Claude 技能包，覆盖开发与中文营销**
 
@@ -39,6 +39,18 @@
 
 > L13: AI Skill 是 2026 年最热门的 AI 原生内容形态。一个 Skill 文件（`SKILL.md`）包含了让 Claude/GPT 等 AI 模型在特定领域表现达到专家级的完整指令集。
 > L79: 1. 下载 `SKILL.md` 文件
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "demo112/yunqu-ai-skills 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 23 --> 38
+    line [24, 37]
+```
+
+2026-10-31 24 → 2026-11-01 37（+13）
 
 
 ---

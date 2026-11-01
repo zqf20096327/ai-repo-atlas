@@ -1,6 +1,6 @@
 # yc-software/minecraft-agent-harness
 
-⭐ 63 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yc-software/minecraft-agent-harness) · 组织维护
+⭐ 77 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yc-software/minecraft-agent-harness) · 组织维护
 
 **在 Minecraft 中运行 LLM agent 的 harness，含持久会话与沙箱**
 
@@ -40,6 +40,18 @@
 > L18: Point an LLM at a Minecraft server and give it something to do. It plays through
 > L25: - Claude, GPT, Gemini, OpenRouter, or your own endpoint if it speaks the OpenAI Responses API
 > L27: - A shell for every agent (Docker, E2B or a plain local folder). Agents keep notes there and write little scripts t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yc-software/minecraft-agent-harness 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 62 --> 78
+    line [63, 77]
+```
+
+2026-10-31 63 → 2026-11-01 77（+14）
 
 
 ---

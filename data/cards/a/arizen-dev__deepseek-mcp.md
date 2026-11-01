@@ -1,6 +1,6 @@
 # arizen-dev/deepseek-mcp
 
-⭐ 54 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/arizen-dev/deepseek-mcp) · [官网](https://deepseek.com) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/arizen-dev/deepseek-mcp) · [官网](https://deepseek.com) · 个人维护
 
 **把 DeepSeek 作为廉价受监督工人暴露给 MCP 客户端的 stdio 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arizen-dev/deepseek-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-18 53 → 2026-10-31 54（+1）
+2026-10-18 53 → 2026-11-01 55（+2）
 
 
 ---

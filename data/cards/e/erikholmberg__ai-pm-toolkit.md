@@ -1,6 +1,6 @@
 # erikholmberg/ai-pm-toolkit
 
-⭐ 34 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/erikholmberg/ai-pm-toolkit) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/erikholmberg/ai-pm-toolkit) · 个人维护
 
 **面向 AI 产品经理的提示词、模板、脚本与框架工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "erikholmberg/ai-pm-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
     y-axis "stars" 33 --> 36
-    line [35, 34, 34]
+    line [35, 34, 35]
 ```
 
-2026-10-18 35 → 2026-10-31 34（-1）
+2026-10-18 35 → 2026-11-01 35（+0）
 
 
 ---

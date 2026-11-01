@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "abhijit-ubale/Tableau_Workbook_Generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "abhijit-ubale/Tableau_Workbook_Generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 26 --> 32
-    line [31, 27]
+    line [31, 27, 27]
 ```
 
-2026-10-18 31 → 2026-10-31 27（-4）
+2026-10-18 31 → 2026-11-01 27（-4）
 
 
 ---

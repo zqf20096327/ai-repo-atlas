@@ -1,6 +1,6 @@
 # milvus-io/pymilvus
 
-⭐ 1,421 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/pymilvus) · 组织维护
+⭐ 1,422 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/pymilvus) · 组织维护
 
 **Milvus 向量数据库的官方 Python SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "milvus-io/pymilvus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 1416 --> 1422
-    line [1417, 1418, 1420, 1421, 1421]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 1416 --> 1423
+    line [1417, 1418, 1420, 1421, 1422]
 ```
 
-2026-10-18 1,417 → 2026-10-31 1,421（+4）
+2026-10-18 1,417 → 2026-11-01 1,422（+5）
 
 
 ---

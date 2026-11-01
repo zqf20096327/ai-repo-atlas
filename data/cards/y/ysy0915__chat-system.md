@@ -1,6 +1,6 @@
 # ysy0915/chat-system
 
-⭐ 17 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ysy0915/chat-system) · [官网](http://yangsy.online/chat/home) · 组织维护 · 中文 README
+⭐ 17 · Java · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/ysy0915/chat-system) · [官网](http://yangsy.online/chat/home) · 组织维护 · 中文 README
 
 **多模型辩论协作平台：多 AI 组队辩论、共创完成任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ysy0915/chat-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-31 17（+1）
+2026-10-18 16 → 2026-11-01 17（+1）
 
 
 ---

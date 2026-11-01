@@ -47,12 +47,12 @@ embodiOS 是一个 bare-metal x86_64 与 aarch64 内核，将量化 LLM（GGUF�
 ```mermaid
 xychart-beta
     title "dddimcha/embodiOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

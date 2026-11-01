@@ -1,6 +1,6 @@
 # suenot/aicommit
 
-⭐ 25 · Rust · Unlicense · 推送 2026-03-30 · [GitHub](https://github.com/suenot/aicommit) · [官网](https://aicommit-theta.vercel.app/) · 个人维护
+⭐ 25 · Rust · Unlicense · 推送 2026-03-30 · [GitHub](https://github.com/suenot/aicommit) · [官网](https://aicommit.suenot.com) · 个人维护
 
 **用 LLM 生成 git 提交信息的命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "suenot/aicommit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-31 25（+0）
+2026-10-18 25 → 2026-11-01 25（+0）
 
 
 ---

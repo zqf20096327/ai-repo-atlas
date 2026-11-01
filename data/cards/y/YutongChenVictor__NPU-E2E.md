@@ -1,6 +1,6 @@
 # YutongChenVictor/NPU-E2E
 
-⭐ 69 · Verilog · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/YutongChenVictor/NPU-E2E) · 个人维护
+⭐ 70 · Verilog · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/YutongChenVictor/NPU-E2E) · 个人维护
 
 **教学用全栈 NPU 加速器演示：RTL 到 FPGA 推理端到端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YutongChenVictor/NPU-E2E 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 61 --> 70
-    line [62, 64, 66, 67, 68, 69, 69]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 61 --> 71
+    line [62, 64, 66, 67, 68, 69, 70]
 ```
 
-2026-10-18 62 → 2026-10-31 69（+7）
+2026-10-18 62 → 2026-11-01 70（+8）
 
 
 ---

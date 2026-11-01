@@ -1,6 +1,6 @@
 # HariSekhon/SQL-scripts
 
-⭐ 492 · Shell · MIT · 推送 2026-02-03 · [GitHub](https://github.com/HariSekhon/SQL-scripts) · 个人维护
+⭐ 491 · Shell · MIT · 推送 2026-02-03 · [GitHub](https://github.com/HariSekhon/SQL-scripts) · 个人维护
 
 **100+ 数据库 SQL 脚本集：面向 DBA 与分析的即用查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HariSekhon/SQL-scripts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 490 --> 493
-    line [491, 492, 492]
+    line [491, 492, 491]
 ```
 
-2026-10-18 491 → 2026-10-31 492（+1）
+2026-10-18 491 → 2026-11-01 491（+0）
 
 
 ---

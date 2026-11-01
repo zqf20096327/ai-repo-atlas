@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LevyBytes/How-to-Guide-for-Extracting-and-Modding-Star-Citizen-Assets 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
     y-axis "stars" 12 --> 15
     line [14, 13, 14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

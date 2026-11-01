@@ -1,6 +1,6 @@
 # chedim/babyseat
 
-⭐ 19 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chedim/babyseat) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/chedim/babyseat) · 个人维护
 
 **本地运行的带实时记忆的 LLM 代理座椅，替代全量聊天历史**
 
@@ -45,13 +45,13 @@ babyseat 是一个本地优先的 AI 运行时：作为 OpenAI 兼容代理坐�
 
 ```mermaid
 xychart-beta
-    title "chedim/babyseat 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    title "chedim/babyseat 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 10 --> 20
-    line [12, 11, 12, 18, 19]
+    line [12, 11, 12, 18, 19, 19]
 ```
 
-2026-10-22 12 → 2026-10-31 19（+7）
+2026-10-22 12 → 2026-11-01 19（+7）
 
 
 ---

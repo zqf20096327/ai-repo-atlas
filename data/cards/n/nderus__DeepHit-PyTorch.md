@@ -44,13 +44,13 @@ Lee 等人 DeepHit 模型的 PyTorch 移植版：深度神经网络处理带竞�
 
 ```mermaid
 xychart-beta
-    title "nderus/DeepHit-PyTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "nderus/DeepHit-PyTorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-31 17（+1）
+2026-10-18 16 → 2026-11-01 17（+1）
 
 
 ---

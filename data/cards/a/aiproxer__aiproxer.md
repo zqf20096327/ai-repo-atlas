@@ -1,6 +1,6 @@
 # aiproxer/aiproxer
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/aiproxer/aiproxer) · [官网](https://github.com/matdev83/llm-interactive-proxy) · 个人维护
+⭐ 20 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aiproxer/aiproxer) · [官网](https://github.com/aiproxer/aiproxer) · 个人维护
 
 **本地 LLM 代理：把各类 AI 客户端接入多种推理后端并统一路由**
 
@@ -11,7 +11,7 @@ LLM Interactive Proxy 是一个通用翻译、路由与控制层：将 OpenAI、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ LLM Interactive Proxy 是一个通用翻译、路由与控制层：将 OpenAI、
 ```mermaid
 xychart-beta
     title "aiproxer/aiproxer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-31 20（+0）
+2026-10-18 20 → 2026-11-01 20（+0）
 
 
 ---

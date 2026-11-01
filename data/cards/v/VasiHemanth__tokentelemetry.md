@@ -1,6 +1,6 @@
 # VasiHemanth/tokentelemetry
 
-⭐ 386 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VasiHemanth/tokentelemetry) · [官网](https://tokentelemetry.com/docs/) · 个人维护
+⭐ 385 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VasiHemanth/tokentelemetry) · [官网](https://tokentelemetry.com/docs/) · 个人维护
 
 **本地观测面板：追踪 AI 编程/自主 agent 的 token、成本与会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VasiHemanth/tokentelemetry 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-01"]
     y-axis "stars" 381 --> 387
-    line [382, 383, 385, 384, 385, 386, 386]
+    line [382, 383, 385, 384, 385, 386, 385]
 ```
 
-2026-10-18 382 → 2026-10-31 386（+4）
+2026-10-18 382 → 2026-11-01 385（+3）
 
 
 ---

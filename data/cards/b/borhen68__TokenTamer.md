@@ -1,6 +1,6 @@
 # borhen68/TokenTamer
 
-⭐ 128 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/borhen68/TokenTamer) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/borhen68/TokenTamer) · 个人维护
 
 **给 AI 编码代理省 token 的代理：实时压缩代码上下文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "borhen68/TokenTamer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 127 --> 130
+    line [128, 129]
 ```
 
-2026-10-18 128 → 2026-10-31 128（+0）
+2026-10-18 128 → 2026-11-01 129（+1）
 
 
 ---

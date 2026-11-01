@@ -1,6 +1,6 @@
 # bulaofen0036-coder/TIA_Portal_Openness_MCP
 
-⭐ 372 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bulaofen0036-coder/TIA_Portal_Openness_MCP) · [官网](https://aeenhance.com) · 个人维护 · 中文 README
+⭐ 375 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bulaofen0036-coder/TIA_Portal_Openness_MCP) · [官网](https://aeenhance.com) · 个人维护 · 中文 README
 
 **通过 MCP/CLI 驱动西门子 TIA Portal 的工业自动化工具服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bulaofen0036-coder/TIA_Portal_Openness_MCP 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 354 --> 373
-    line [355, 356, 361, 368, 372]
+    title "bulaofen0036-coder/TIA_Portal_Openness_MCP 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 353 --> 377
+    line [355, 356, 361, 368, 372, 375]
 ```
 
-2026-10-26 355 → 2026-10-31 372（+17）
+2026-10-26 355 → 2026-11-01 375（+20）
 
 
 ---

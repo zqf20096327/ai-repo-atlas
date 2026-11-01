@@ -1,6 +1,6 @@
 # sanjin587/info-collector
 
-⭐ 13 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/sanjin587/info-collector) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/sanjin587/info-collector) · 个人维护 · 中文 README
 
 **把 X 帖文和抖音/小红书视频转为 Markdown 逐字稿并归档的工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanjin587/info-collector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

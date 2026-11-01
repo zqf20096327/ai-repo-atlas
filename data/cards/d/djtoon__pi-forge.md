@@ -1,6 +1,6 @@
 # djtoon/pi-forge
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/djtoon/pi-forge) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/djtoon/pi-forge) · 个人维护
 
 **面向开发者的 agent harness 生成器：访谈后定制专属 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "djtoon/pi-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

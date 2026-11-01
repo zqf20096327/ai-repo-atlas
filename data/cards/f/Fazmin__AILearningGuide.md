@@ -1,6 +1,6 @@
 # Fazmin/AILearningGuide
 
-⭐ 242 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Fazmin/AILearningGuide) · [官网](https://fazmin.github.io/AILearningGuide) · 个人维护
+⭐ 242 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Fazmin/AILearningGuide) · [官网](https://fazmin.github.io/AILearningGuide) · 个人维护
 
 **面向学习者的桌面/网页 AI 教学应用：51 个互动实验讲解 AI 原理**
 
@@ -44,13 +44,13 @@ Discover AI 是一个教学应用，含 51 个互动实验，覆盖 ML 基础、
 
 ```mermaid
 xychart-beta
-    title "Fazmin/AILearningGuide 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    title "Fazmin/AILearningGuide 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 192 --> 246
-    line [196, 210, 219, 227, 230, 231, 232, 233, 235, 242]
+    line [196, 210, 219, 227, 230, 231, 232, 233, 235, 242, 242]
 ```
 
-2026-10-18 196 → 2026-10-31 242（+46）
+2026-10-18 196 → 2026-11-01 242（+46）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/llmwiki
 
-⭐ 100 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/llmwiki) · 组织维护
+⭐ 103 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/llmwiki) · 组织维护
 
 **VS Code 扩展：由 LLM 自动维护的个人知识库/wiki**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/llmwiki 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 86 --> 101
-    line [87, 89, 95, 96, 97, 100]
+    title "microsoft/llmwiki 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 86 --> 104
+    line [87, 89, 95, 96, 97, 100, 103]
 ```
 
-2026-10-18 87 → 2026-10-31 100（+13）
+2026-10-18 87 → 2026-11-01 103（+16）
 
 
 ---

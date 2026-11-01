@@ -1,6 +1,6 @@
 # airblackbox/airblackbox
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/airblackbox/airblackbox) · [官网](https://airblackbox.ai) · 个人维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/airblackbox/airblackbox) · [官网](https://airblackbox.ai) · 个人维护
 
 **AI agent 飞行记录仪：记录、回放、合规扫描与行为门控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "airblackbox/airblackbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-31 24（+0）
+2026-10-18 24 → 2026-11-01 25（+1）
 
 
 ---

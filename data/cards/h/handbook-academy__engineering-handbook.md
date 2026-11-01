@@ -1,6 +1,6 @@
 # handbook-academy/engineering-handbook
 
-⭐ 863 · JavaScript · CC-BY-SA-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/handbook-academy/engineering-handbook) · [官网](https://handbook.academy) · 组织维护
+⭐ 864 · JavaScript · CC-BY-SA-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/handbook-academy/engineering-handbook) · [官网](https://handbook.academy) · 组织维护
 
 **免费开源的软件工程教科书套装：系统设计/DSA/AI 工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "handbook-academy/engineering-handbook 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 827 --> 866
-    line [830, 833, 843, 846, 851, 857, 860, 862, 863, 863]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 827 --> 867
+    line [830, 833, 843, 846, 851, 857, 860, 862, 863, 864]
 ```
 
-2026-10-22 830 → 2026-10-31 863（+33）
+2026-10-22 830 → 2026-11-01 864（+34）
 
 
 ---

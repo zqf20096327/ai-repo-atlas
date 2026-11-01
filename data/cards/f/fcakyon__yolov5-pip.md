@@ -1,6 +1,6 @@
 # fcakyon/yolov5-pip
 
-⭐ 293 · Python · GPL-3.0 · 推送 2026-03-20 · [GitHub](https://github.com/fcakyon/yolov5-pip) · [官网](https://pypi.org/project/yolov5/) · 个人维护
+⭐ 294 · Python · GPL-3.0 · 推送 2026-03-20 · [GitHub](https://github.com/fcakyon/yolov5-pip) · [官网](https://pypi.org/project/yolov5/) · 个人维护
 
 **将 ultralytics/yolov5 打包为 pip 库并附加训练与集成功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fcakyon/yolov5-pip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 292 --> 294
-    line [293, 293]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 292 --> 295
+    line [293, 294]
 ```
 
-2026-10-18 293 → 2026-10-31 293（+0）
+2026-10-18 293 → 2026-11-01 294（+1）
 
 
 ---

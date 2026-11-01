@@ -1,6 +1,6 @@
 # woerndl/unsloppify
 
-⭐ 28 · Shell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/woerndl/unsloppify) · 个人维护
+⭐ 29 · Shell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/woerndl/unsloppify) · 个人维护
 
 **清除 AI 写作腔调的 agent skill：两层文本去味规则库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "woerndl/unsloppify 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 28, 29]
 ```
 
-2026-10-18 25 → 2026-10-31 28（+3）
+2026-10-18 25 → 2026-11-01 29（+4）
 
 
 ---

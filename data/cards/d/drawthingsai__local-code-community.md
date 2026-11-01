@@ -1,6 +1,6 @@
 # drawthingsai/local-code-community
 
-⭐ 48 · C · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/drawthingsai/local-code-community) · [官网](https://getlocalcode.app) · 组织维护
+⭐ 72 · C · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/drawthingsai/local-code-community) · [官网](https://getlocalcode.app) · 组织维护
 
 **Mac/iPad/iPhone 上的本地 AI 编码代理应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drawthingsai/local-code-community 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 21 --> 50
-    line [23, 48]
+    title "drawthingsai/local-code-community 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 19 --> 76
+    line [23, 48, 72]
 ```
 
-2026-10-30 23 → 2026-10-31 48（+25）
+2026-10-30 23 → 2026-11-01 72（+49）
 
 
 ---

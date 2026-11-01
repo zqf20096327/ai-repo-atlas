@@ -1,6 +1,6 @@
 # yofine/Mexus
 
-⭐ 86 · TypeScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/yofine/Mexus) · [官网](https://mexus.ai) · 个人维护
+⭐ 87 · TypeScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/yofine/Mexus) · [官网](https://mexus.ai) · 个人维护
 
 **本地 Web 控制台，并行管理多个 CLI AI Agent 实例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yofine/Mexus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 85 --> 88
+    line [86, 87]
 ```
 
-2026-10-18 86 → 2026-10-31 86（+0）
+2026-10-18 86 → 2026-11-01 87（+1）
 
 
 ---

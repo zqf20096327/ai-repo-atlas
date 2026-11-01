@@ -1,6 +1,6 @@
 # tirthsidhpura/resume_matcher
 
-⭐ 50 · JavaScript · 推送 2026-10-04 · [GitHub](https://github.com/tirthsidhpura/resume_matcher) · 个人维护
+⭐ 42 · JavaScript · 推送 2026-10-04 · [GitHub](https://github.com/tirthsidhpura/resume_matcher) · 个人维护
 
 **本地运行的简历-职位 ATS 匹配工具：抓取招聘信息并评分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tirthsidhpura/resume_matcher 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-31"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-25", "2026-11-01"]
+    y-axis "stars" 41 --> 51
+    line [50, 42]
 ```
 
-2026-10-25 50 → 2026-10-31 50（+0）
+2026-10-25 50 → 2026-11-01 42（-8）
 
 
 ---

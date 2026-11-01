@@ -1,6 +1,6 @@
 # nataondev/wabot-nebius
 
-⭐ 13 · TypeScript · 推送 2026-04-27 · [GitHub](https://github.com/nataondev/wabot-nebius) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · 推送 2026-04-27 · [GitHub](https://github.com/nataondev/wabot-nebius) · 个人维护 · 中文 README
 
 **连接 Nebius AI 的 WhatsApp 聊天机器人模板（Bun + Baileys）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nataondev/wabot-nebius 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

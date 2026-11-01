@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoSlowPoke168/hermes-openrouter-free-rotator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
+    title "GoSlowPoke168/hermes-openrouter-free-rotator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17]
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-10-31 17（+3）
+2026-10-18 14 → 2026-11-01 17（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # luochang212/dive-into-langgraph
 
-⭐ 465 · Jupyter Notebook · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/luochang212/dive-into-langgraph) · [官网](http://www.luochang.ink/dive-into-langgraph/) · 个人维护 · 中文 README
+⭐ 466 · Jupyter Notebook · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/luochang212/dive-into-langgraph) · [官网](http://www.luochang.ink/dive-into-langgraph/) · 个人维护 · 中文 README
 
 **LangGraph 1.0 中文教程电子书，兼作 Claude Code Agent Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "luochang212/dive-into-langgraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 460 --> 466
-    line [461, 464, 465, 465]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 460 --> 467
+    line [461, 464, 465, 466]
 ```
 
-2026-10-18 461 → 2026-10-31 465（+4）
+2026-10-18 461 → 2026-11-01 466（+5）
 
 
 ---

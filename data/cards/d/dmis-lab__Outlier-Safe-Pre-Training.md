@@ -1,6 +1,6 @@
 # dmis-lab/Outlier-Safe-Pre-Training
 
-⭐ 40 · Python · 推送 2025-11-04 · [GitHub](https://github.com/dmis-lab/Outlier-Safe-Pre-Training) · [官网](https://www.arxiv.org/abs/2506.19697) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 4-bit 量化鲁棒性的 LLM 预训练方法（ACL 2025）代码与模型**
 

@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_HyMT2
 
-⭐ 18 · Python · 推送 2026-09-17 · [GitHub](https://github.com/47thtechcorner/RayCodes_HyMT2) · [官网](https://youtu.be/z1E6h2Rc-j0) · 个人维护
+⭐ 19 · Python · 推送 2026-09-17 · [GitHub](https://github.com/47thtechcorner/RayCodes_HyMT2) · [官网](https://youtu.be/z1E6h2Rc-j0) · 个人维护
 
 **离线 SRT 视频字幕翻译工具：本地 Hy-MT2 模型翻译 33 种语言**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "47thtechcorner/RayCodes_HyMT2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-10-31 18（+1）
+2026-10-18 17 → 2026-11-01 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # copick/copick
 
-⭐ 35 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/copick/copick) · [官网](https://copick.github.io/) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/copick/copick) · [官网](https://copick.github.io/) · 组织维护
 
 **冷冻电子断层扫描(cryoET)数据集的存储无关 Python API 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "copick/copick 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-31 35（+0）
+2026-10-18 35 → 2026-11-01 35（+0）
 
 
 ---

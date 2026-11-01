@@ -1,6 +1,6 @@
 # google-deepmind/tree
 
-⭐ 1,026 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/tree) · [官网](https://tree.readthedocs.io) · 组织维护
+⭐ 1,027 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/tree) · [官网](https://tree.readthedocs.io) · 组织维护
 
 **处理嵌套数据结构的 Python 库，保留结构地映射与展平叶子**
 
@@ -43,12 +43,12 @@ DeepMind 开源的嵌套数据结构操作库：提供 flatten、map_structure �
 ```mermaid
 xychart-beta
     title "google-deepmind/tree 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 1024 --> 1027
-    line [1026, 1025, 1026, 1026]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 1024 --> 1028
+    line [1026, 1025, 1026, 1027]
 ```
 
-2026-10-18 1,026 → 2026-10-31 1,026（+0）
+2026-10-18 1,026 → 2026-11-01 1,027（+1）
 
 
 ---

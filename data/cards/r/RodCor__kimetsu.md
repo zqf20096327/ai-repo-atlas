@@ -1,6 +1,6 @@
 # RodCor/kimetsu
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/RodCor/kimetsu) · 个人维护
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/RodCor/kimetsu) · 个人维护
 
 **给编码 agent 配套的本地记忆边车：捕获并回注经验教训**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RodCor/kimetsu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

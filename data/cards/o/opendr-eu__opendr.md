@@ -1,6 +1,6 @@
 # opendr-eu/opendr
 
-⭐ 728 · Python · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/opendr-eu/opendr) · 组织维护
+⭐ 729 · Python · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/opendr-eu/opendr) · 组织维护
 
 **面向机器人的深度学习工具包：感知/认知/决策工具与 ROS 接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "opendr-eu/opendr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 727 --> 730
-    line [729, 728, 728]
+    line [729, 728, 729]
 ```
 
-2026-10-18 729 → 2026-10-31 728（-1）
+2026-10-18 729 → 2026-11-01 729（+0）
 
 
 ---

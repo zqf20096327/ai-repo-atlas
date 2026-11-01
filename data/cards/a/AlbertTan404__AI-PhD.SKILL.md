@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlbertTan404/AI-PhD.SKILL 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    title "AlbertTan404/AI-PhD.SKILL 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 25 --> 30
-    line [26, 29]
+    line [26, 29, 29]
 ```
 
-2026-10-30 26 → 2026-10-31 29（+3）
+2026-10-30 26 → 2026-11-01 29（+3）
 
 
 ---

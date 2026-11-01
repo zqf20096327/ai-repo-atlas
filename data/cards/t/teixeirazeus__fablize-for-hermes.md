@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "teixeirazeus/fablize-for-hermes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    title "teixeirazeus/fablize-for-hermes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 15 --> 18
-    line [17, 16, 17]
+    line [17, 16, 17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

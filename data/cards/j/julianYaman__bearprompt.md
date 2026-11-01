@@ -1,6 +1,6 @@
 # julianYaman/bearprompt
 
-⭐ 17 · Svelte · MIT · 推送 2026-10-21 · [GitHub](https://github.com/julianYaman/bearprompt) · [官网](https://bearprompt.com) · 个人维护
+⭐ 17 · Svelte · MIT · 推送 2026-10-31 · [GitHub](https://github.com/julianYaman/bearprompt) · [官网](https://bearprompt.com) · 个人维护
 
 **私有 AI 提示词库：本地存储、加密分享与公共提示词浏览**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "julianYaman/bearprompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

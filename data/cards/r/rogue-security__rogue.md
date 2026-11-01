@@ -1,6 +1,6 @@
 # rogue-security/rogue
 
-⭐ 1,072 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/rogue-security/rogue) · [官网](https://qualifire.ai) · 组织维护
+⭐ 1,073 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/rogue-security/rogue) · [官网](https://qualifire.ai) · 组织维护
 
 **AI agent 评测与红队测试平台：安全与合规扫描**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rogue-security/rogue 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 1067 --> 1073
-    line [1068, 1069, 1070, 1071, 1070, 1071, 1072]
+    title "rogue-security/rogue 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1067 --> 1074
+    line [1068, 1069, 1070, 1071, 1070, 1071, 1072, 1073]
 ```
 
-2026-10-18 1,068 → 2026-10-31 1,072（+4）
+2026-10-18 1,068 → 2026-11-01 1,073（+5）
 
 
 ---

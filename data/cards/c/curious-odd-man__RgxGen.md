@@ -1,6 +1,6 @@
 # curious-odd-man/RgxGen
 
-⭐ 108 · Java · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/curious-odd-man/RgxGen) · 个人维护
+⭐ 109 · Java · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/curious-odd-man/RgxGen) · 个人维护
 
 **Java 正则表达式字符串生成库：生成匹配与不匹配的字符串**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "curious-odd-man/RgxGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 107 --> 110
+    line [108, 109]
 ```
 
-2026-10-18 108 → 2026-10-31 108（+0）
+2026-10-18 108 → 2026-11-01 109（+1）
 
 
 ---

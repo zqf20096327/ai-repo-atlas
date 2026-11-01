@@ -1,6 +1,6 @@
 # ryannli/tiny-roommate
 
-⭐ 45 · JavaScript · 推送 2026-03-30 · [GitHub](https://github.com/ryannli/tiny-roommate) · 个人维护
+⭐ 46 · JavaScript · 推送 2026-03-30 · [GitHub](https://github.com/ryannli/tiny-roommate) · 个人维护
 
 **住在 macOS 桌面上的 AI 宠物猫，能看屏幕、陪伴、记日记**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ryannli/tiny-roommate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-31 45（+0）
+2026-10-18 45 → 2026-11-01 46（+1）
 
 
 ---

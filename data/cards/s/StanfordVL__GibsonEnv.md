@@ -1,6 +1,6 @@
 # StanfordVL/GibsonEnv
 
-⭐ 947 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/StanfordVL/GibsonEnv) · [官网](http://gibsonenv.stanford.edu/) · 组织维护
+⭐ 948 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/StanfordVL/GibsonEnv) · [官网](http://gibsonenv.stanford.edu/) · 组织维护
 
 **供具身智能体在真实感场景中训练感知的仿真环境**
 
@@ -46,12 +46,12 @@ StanfordVL 发布的具身智能体仿真环境（CVPR 2018），将真实空间
 ```mermaid
 xychart-beta
     title "StanfordVL/GibsonEnv 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-31"]
-    y-axis "stars" 946 --> 948
-    line [947, 947]
+    x-axis ["2026-10-22", "2026-11-01"]
+    y-axis "stars" 946 --> 949
+    line [947, 948]
 ```
 
-2026-10-22 947 → 2026-10-31 947（+0）
+2026-10-22 947 → 2026-11-01 948（+1）
 
 
 ---

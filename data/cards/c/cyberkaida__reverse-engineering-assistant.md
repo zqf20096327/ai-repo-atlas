@@ -1,6 +1,6 @@
 # cyberkaida/reverse-engineering-assistant
 
-⭐ 886 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cyberkaida/reverse-engineering-assistant) · 个人维护
+⭐ 887 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cyberkaida/reverse-engineering-assistant) · 个人维护
 
 **让 AI 通过 MCP 调用 Ghidra 做逆向分析的扩展**
 
@@ -45,13 +45,13 @@ Ghidra 扩展，内置 Model Context Protocol (MCP) 服务器，使 AI 语言模
 
 ```mermaid
 xychart-beta
-    title "cyberkaida/reverse-engineering-assistant 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 875 --> 887
-    line [876, 878, 879, 882, 884, 885, 886]
+    title "cyberkaida/reverse-engineering-assistant 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 875 --> 888
+    line [876, 878, 879, 882, 884, 885, 886, 887]
 ```
 
-2026-10-18 876 → 2026-10-31 886（+10）
+2026-10-18 876 → 2026-11-01 887（+11）
 
 
 ---

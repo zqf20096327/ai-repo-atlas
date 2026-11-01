@@ -1,6 +1,6 @@
 # codag-megalith/codag-visualizer
 
-⭐ 671 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/codag-megalith/codag-visualizer) · [官网](https://codag.ai/) · 个人维护
+⭐ 672 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/codag-megalith/codag-visualizer) · [官网](https://codag.ai/) · 个人维护
 
 **在 VSCode 中可视化代码库中 AI/LLM 工作流的扩展**
 
@@ -45,12 +45,12 @@ Codag 是一个 VSCode 扩展加本地后端的工具：用 tree-sitter 解析 P
 ```mermaid
 xychart-beta
     title "codag-megalith/codag-visualizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 667 --> 672
-    line [668, 669, 670, 671, 671]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 667 --> 673
+    line [668, 669, 670, 671, 672]
 ```
 
-2026-10-18 668 → 2026-10-31 671（+3）
+2026-10-18 668 → 2026-11-01 672（+4）
 
 
 ---

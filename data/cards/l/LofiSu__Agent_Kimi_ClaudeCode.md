@@ -40,6 +40,18 @@
 > L7: ## 安装 ClaudeCode 并接入 Kimi K2 API
 > L108: ## 🚀 快速实战：用 Claude Code 构建一个最基础的 DeepResearch Agent！
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LofiSu/Agent_Kimi_ClaudeCode 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-31 17 → 2026-11-01 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `8c5b54905f61` · [字段定义](../../DATASET.md)*

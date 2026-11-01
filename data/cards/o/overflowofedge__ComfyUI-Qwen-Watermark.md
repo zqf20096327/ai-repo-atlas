@@ -1,6 +1,6 @@
 # overflowofedge/ComfyUI-Qwen-Watermark
 
-⭐ 25 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/overflowofedge/ComfyUI-Qwen-Watermark) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/overflowofedge/ComfyUI-Qwen-Watermark) · 个人维护 · 中文 README
 
 **ComfyUI 去水印工作流：Qwen3-VL 检测、Qwen Image 2.1 局部修复**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "overflowofedge/ComfyUI-Qwen-Watermark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-31 25（+0）
+2026-10-18 25 → 2026-11-01 25（+0）
 
 
 ---

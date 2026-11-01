@@ -1,6 +1,6 @@
 # ahmedfahim21/Learnify
 
-⭐ 17 · TypeScript · 推送 2026-08-22 · [GitHub](https://github.com/ahmedfahim21/Learnify) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **生成式 UI 的 AI 导师应用：任意主题实时自适应授课**
 

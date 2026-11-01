@@ -1,6 +1,6 @@
 # HarinezumIgel/RAG-LCC
 
-⭐ 34 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/HarinezumIgel/RAG-LCC) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/HarinezumIgel/RAG-LCC) · 个人维护
 
 **本地实验性 RAG 实验场：调试检索质量与上下文组装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HarinezumIgel/RAG-LCC 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-31 34（+1）
+2026-10-18 33 → 2026-11-01 35（+2）
 
 
 ---

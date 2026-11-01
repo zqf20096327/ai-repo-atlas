@@ -1,6 +1,6 @@
 # BuilderIO/ai-shell
 
-⭐ 5,307 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/BuilderIO/ai-shell) · 组织维护 · 中文 README
+⭐ 5,306 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/BuilderIO/ai-shell) · 组织维护 · 中文 README
 
 **自然语言转 shell 命令的开源 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BuilderIO/ai-shell 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01"]
     y-axis "stars" 5303 --> 5308
-    line [5304, 5305, 5306, 5305, 5307, 5307]
+    line [5304, 5305, 5306, 5305, 5307, 5306]
 ```
 
-2026-10-18 5,304 → 2026-10-31 5,307（+3）
+2026-10-18 5,304 → 2026-11-01 5,306（+2）
 
 
 ---

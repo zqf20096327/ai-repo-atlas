@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wpgaurav/generateblocks-skills 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-31"]
+    title "wpgaurav/generateblocks-skills 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 140 --> 143
-    line [141, 142]
+    line [141, 142, 142]
 ```
 
-2026-10-29 141 → 2026-10-31 142（+1）
+2026-10-29 141 → 2026-11-01 142（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ustczz/openclaw-ai-calls-china-phone
 
-⭐ 15 · Python · MIT-0 · 推送 2026-09-07 · [GitHub](https://github.com/ustczz/openclaw-ai-calls-china-phone) · [官网](https://open-skill.steponeai.com) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT-0 · 推送 2026-10-31 · [GitHub](https://github.com/ustczz/openclaw-ai-calls-china-phone) · [官网](https://www.steponeai.com/skill) · 个人维护 · 中文 README
 
 **面向 OpenClaw 的中文 AI 电话外呼/呼入 Skill，拨打真实电话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ustczz/openclaw-ai-calls-china-phone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 15（+1）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

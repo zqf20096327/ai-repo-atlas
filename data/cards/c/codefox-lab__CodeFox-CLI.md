@@ -1,6 +1,6 @@
 # codefox-lab/CodeFox-CLI
 
-⭐ 43 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/codefox-lab/CodeFox-CLI) · [官网](http://code-fox.online) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/codefox-lab/CodeFox-CLI) · [官网](http://code-fox.online) · 组织维护
 
 **面向 git diff 与 CI 的命令行 AI 代码审查工具**
 
@@ -46,12 +46,12 @@ CLI 优先的 AI 代码审查工具：读取 git diff，检索相关项目上下
 ```mermaid
 xychart-beta
     title "codefox-lab/CodeFox-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 41 --> 44
+    line [43, 42]
 ```
 
-2026-10-18 43 → 2026-10-31 43（+0）
+2026-10-18 43 → 2026-11-01 42（-1）
 
 
 ---

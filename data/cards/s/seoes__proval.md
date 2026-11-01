@@ -1,6 +1,6 @@
 # seoes/proval
 
-⭐ 123 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/seoes/proval) · [官网](https://proval.app) · 个人维护
+⭐ 124 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/seoes/proval) · [官网](https://proval.app) · 个人维护
 
 **自托管 LLM 代码审查 agent：接入 Git 平台自动审查 PR 与 issue**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "seoes/proval 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 115 --> 124
-    line [116, 117, 118, 119, 121, 123]
+    title "seoes/proval 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 115 --> 125
+    line [116, 117, 118, 119, 121, 123, 124]
 ```
 
-2026-10-18 116 → 2026-10-31 123（+7）
+2026-10-18 116 → 2026-11-01 124（+8）
 
 
 ---

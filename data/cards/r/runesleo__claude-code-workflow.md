@@ -1,6 +1,6 @@
 # runesleo/claude-code-workflow
 
-⭐ 709 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/runesleo/claude-code-workflow) · [官网](https://leolabs.me) · 个人维护 · 中文 README
+⭐ 710 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/runesleo/claude-code-workflow) · [官网](https://leolabs.me) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 加可回滚工作边界的轻量配置系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "runesleo/claude-code-workflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 707 --> 710
-    line [709, 708, 709, 709]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 707 --> 711
+    line [709, 708, 709, 710]
 ```
 
-2026-10-18 709 → 2026-10-31 709（+0）
+2026-10-18 709 → 2026-11-01 710（+1）
 
 
 ---

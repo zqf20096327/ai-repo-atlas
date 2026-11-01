@@ -1,6 +1,6 @@
 # LUMIA-Group/PonderLM-2
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/LUMIA-Group/PonderLM-2) · [官网](https://www.arxiv.org/abs/2509.23184) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/LUMIA-Group/PonderLM-2) · [官网](https://www.arxiv.org/abs/2509.23184) · 组织维护
 
 **ICML 2026 论文官方实现：连续空间潜思考预训练 LLM**
 
@@ -47,12 +47,12 @@ LLaMA-Factory 的精简分支，实现 PonderLM-2 预训练方法：模型在预
 ```mermaid
 xychart-beta
     title "LUMIA-Group/PonderLM-2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 18（+1）
 
 
 ---

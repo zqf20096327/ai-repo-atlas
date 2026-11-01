@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-ru
 
-⭐ 15 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-ru) · [官网](https://www.npmjs.com/package/agency-agents-ru) · 个人维护
+⭐ 16 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-ru) · [官网](https://www.npmjs.com/package/agency-agents-ru) · 个人维护
 
 **187 个俄语 AI agent 角色库：即装即用的专家人设**
 
@@ -46,12 +46,12 @@ agency-agents 的俄语社区版：完整翻译上游 184 个 agent 人设，另
 ```mermaid
 xychart-beta
     title "jnMetaCode/agency-agents-ru 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 15（+1）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway
 
-⭐ 21 · 推送 2026-10-29 · [GitHub](https://github.com/jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 25 · 推送 2026-10-29 · [GitHub](https://github.com/jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向出海业务的 Visa/Mastercard 虚拟信用卡发卡平台**
 
@@ -45,13 +45,13 @@ CoreGold 是一个商业虚拟信用卡（VCC）发卡服务：宣称直连海�
 
 ```mermaid
 xychart-beta
-    title "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 10 --> 22
-    line [11, 21]
+    title "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 10 --> 26
+    line [11, 21, 25]
 ```
 
-2026-10-30 11 → 2026-10-31 21（+10）
+2026-10-30 11 → 2026-11-01 25（+14）
 
 
 ---

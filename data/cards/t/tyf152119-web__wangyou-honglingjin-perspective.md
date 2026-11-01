@@ -1,6 +1,6 @@
 # tyf152119-web/wangyou-honglingjin-perspective
 
-⭐ 13 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/tyf152119-web/wangyou-honglingjin-perspective) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/tyf152119-web/wangyou-honglingjin-perspective) · 个人维护 · 中文 README
 
 **公考做题、复盘与选岗决策的人物视角 Codex Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tyf152119-web/wangyou-honglingjin-perspective 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-10-18 11 → 2026-10-31 13（+2）
+2026-10-18 11 → 2026-11-01 14（+3）
 
 
 ---

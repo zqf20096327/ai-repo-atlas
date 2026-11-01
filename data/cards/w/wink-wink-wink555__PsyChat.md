@@ -1,6 +1,6 @@
 # wink-wink-wink555/PsyChat
 
-⭐ 35 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/wink-wink-wink555/PsyChat) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/wink-wink-wink555/PsyChat) · 个人维护 · 中文 README
 
 **基于 Agentic RAG 的心理咨询对话助手，运用 REBT 方法**
 
@@ -45,12 +45,12 @@ PsyChat 是面向终端用户的心理咨询 AI 对话应用：知识库基于 P
 ```mermaid
 xychart-beta
     title "wink-wink-wink555/PsyChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-10-31 35（+0）
+2026-10-18 35 → 2026-11-01 36（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # synapseorch-ai/synapse-ai
 
-⭐ 336 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/synapseorch-ai/synapse-ai) · [官网](https://synapseorch.com) · 组织维护
+⭐ 337 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/synapseorch-ai/synapse-ai) · [官网](https://synapseorch.com) · 组织维护
 
 **开源多智能体编排平台：将 Agent、工具与任意 LLM 接成 DAG 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "synapseorch-ai/synapse-ai 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 328 --> 337
-    line [329, 330, 331, 332, 333, 334, 335, 336, 336]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 328 --> 338
+    line [329, 330, 331, 332, 333, 334, 335, 336, 337]
 ```
 
-2026-10-18 329 → 2026-10-31 336（+7）
+2026-10-18 329 → 2026-11-01 337（+8）
 
 
 ---

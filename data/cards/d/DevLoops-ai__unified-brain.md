@@ -1,6 +1,6 @@
 # DevLoops-ai/unified-brain
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DevLoops-ai/unified-brain) · [官网](https://www.devloops.ai) · 组织维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DevLoops-ai/unified-brain) · [官网](https://www.devloops.ai) · 组织维护
 
 **面向编码 agent 的仓库持久记忆与证据检索层（SQLite+MCP）**
 
@@ -45,12 +45,12 @@ unified-brain 是一个接入各类编码 agent（Cursor、Claude Code、OpenCod
 ```mermaid
 xychart-beta
     title "DevLoops-ai/unified-brain 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 8 --> 20
-    line [9, 10, 15, 19, 19]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 8 --> 24
+    line [9, 10, 15, 19, 23]
 ```
 
-2026-10-26 9 → 2026-10-31 19（+10）
+2026-10-26 9 → 2026-11-01 23（+14）
 
 
 ---

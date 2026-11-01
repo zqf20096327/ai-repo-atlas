@@ -46,12 +46,12 @@ AgentCN 是一个 agent 安装工具与注册表：通过 npx agentcn add <agent
 ```mermaid
 xychart-beta
     title "anayatkhan1/kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

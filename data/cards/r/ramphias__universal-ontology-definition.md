@@ -46,12 +46,12 @@ UOD 是一个开放的四层企业本体框架（L0 平台绑定、L1 核心本�
 ```mermaid
 xychart-beta
     title "ramphias/universal-ontology-definition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

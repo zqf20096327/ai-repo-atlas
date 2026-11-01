@@ -1,6 +1,6 @@
 # laragentic/agents
 
-⭐ 13 · PHP · 推送 2026-03-18 · [GitHub](https://github.com/laragentic/agents) · 组织维护
+⭐ 14 · PHP · 推送 2026-03-18 · [GitHub](https://github.com/laragentic/agents) · 组织维护
 
 **为 Laravel AI SDK 扩展自主 agent 循环的 PHP 包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "laragentic/agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

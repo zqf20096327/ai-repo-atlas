@@ -1,6 +1,6 @@
 # sammwyy/singulary
 
-⭐ 71 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/sammwyy/singulary) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/sammwyy/singulary) · 个人维护
 
 **自托管的 AI 应用构建平台，自带密钥与 Docker 运行时**
 
@@ -45,12 +45,12 @@ MIT 许可的开源自托管平台，定位为 v0/Lovable/Bolt/Replit Agent 类�
 ```mermaid
 xychart-beta
     title "sammwyy/singulary 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 69 --> 72
-    line [71, 70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 69 --> 73
+    line [71, 70, 71, 72]
 ```
 
-2026-10-18 71 → 2026-10-31 71（+0）
+2026-10-18 71 → 2026-11-01 72（+1）
 
 
 ---

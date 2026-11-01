@@ -1,6 +1,6 @@
 # aws-samples/serverless-rag-demo
 
-⭐ 223 · Python · MIT-0 · 推送 2026-10-24 · [GitHub](https://github.com/aws-samples/serverless-rag-demo) · [官网](https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/) · 组织维护
+⭐ 223 · Python · MIT-0 · 推送 2026-10-30 · [GitHub](https://github.com/aws-samples/serverless-rag-demo) · [官网](https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/) · 组织维护
 
 **AWS 上部署的 Serverless RAG 文档问答与多 Agent 示例**
 
@@ -45,12 +45,12 @@ aws-samples 提供的参考实现：通过 AWS CDK（Python）一键部署文档
 ```mermaid
 xychart-beta
     title "aws-samples/serverless-rag-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 222 --> 224
     line [223, 223]
 ```
 
-2026-10-18 223 → 2026-10-31 223（+0）
+2026-10-18 223 → 2026-11-01 223（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # chriswritescode-dev/opencode-manager
 
-⭐ 910 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [官网](https://opencodemanager.app) · 个人维护
+⭐ 912 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [官网](https://opencodemanager.app) · 个人维护
 
 **自托管 OpenCode 命令中心：网页管理会话、git、终端与定时任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chriswritescode-dev/opencode-manager 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 903 --> 911
-    line [904, 906, 907, 908, 906, 907, 910]
+    title "chriswritescode-dev/opencode-manager 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 903 --> 913
+    line [904, 906, 907, 908, 906, 907, 910, 912]
 ```
 
-2026-10-18 904 → 2026-10-31 910（+6）
+2026-10-18 904 → 2026-11-01 912（+8）
 
 
 ---

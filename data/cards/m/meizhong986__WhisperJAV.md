@@ -1,6 +1,6 @@
 # meizhong986/WhisperJAV
 
-⭐ 2,400 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/meizhong986/WhisperJAV) · [官网](https://github.com/meizhong986/WhisperJAV/releases/latest) · 个人维护 · 中文 README
+⭐ 2,411 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/meizhong986/WhisperJAV) · [官网](https://github.com/meizhong986/WhisperJAV/releases/latest) · 个人维护 · 中文 README
 
 **面向 JAV 的本地日文语音字幕生成器（ASR/STT）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "meizhong986/WhisperJAV 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2337 --> 2405
-    line [2342, 2353, 2367, 2370, 2374, 2376, 2378, 2383, 2387, 2392, 2400]
+    title "meizhong986/WhisperJAV 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2336 --> 2417
+    line [2342, 2353, 2367, 2370, 2374, 2376, 2378, 2383, 2387, 2392, 2400, 2411]
 ```
 
-2026-10-18 2,342 → 2026-10-31 2,400（+58）
+2026-10-18 2,342 → 2026-11-01 2,411（+69）
 
 
 ---

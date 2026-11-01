@@ -1,6 +1,6 @@
 # BFRKQSB7/ai-prompt-supermarket
 
-⭐ 16 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/BFRKQSB7/ai-prompt-supermarket) · [官网](https://bfrkqsb7.github.io/ai-prompt-supermarket/) · 个人维护 · 中文 README
+⭐ 17 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/BFRKQSB7/ai-prompt-supermarket) · [官网](https://bfrkqsb7.github.io/ai-prompt-supermarket/) · 个人维护 · 中文 README
 
 **本地离线 AI 绘画提示词生成工具：点选中文标签生成英文提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BFRKQSB7/ai-prompt-supermarket 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 16, 17]
 ```
 
-2026-10-18 13 → 2026-10-31 16（+3）
+2026-10-18 13 → 2026-11-01 17（+4）
 
 
 ---

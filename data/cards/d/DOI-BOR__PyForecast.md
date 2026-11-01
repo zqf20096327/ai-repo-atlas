@@ -1,6 +1,6 @@
 # DOI-BOR/PyForecast
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/DOI-BOR/PyForecast) · 组织维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/DOI-BOR/PyForecast) · 组织维护
 
 **水资源管理者的季节性径流统计预测建模工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DOI-BOR/PyForecast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-31 33（+0）
+2026-10-18 33 → 2026-11-01 33（+0）
 
 
 ---

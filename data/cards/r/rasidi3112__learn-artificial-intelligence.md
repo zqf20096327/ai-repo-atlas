@@ -1,6 +1,6 @@
 # rasidi3112/learn-artificial-intelligence
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rasidi3112/learn-artificial-intelligence) · [官网](https://rasidi3112.github.io/learn-artificial-intelligence/) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rasidi3112/learn-artificial-intelligence) · [官网](https://rasidi3112.github.io/learn-artificial-intelligence/) · 个人维护 · 中文 README
 
 **面向初学者与教师的免费开源 AI 静态课程网站（17 模块）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rasidi3112/learn-artificial-intelligence 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 20 --> 28
-    line [21, 23, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 20 --> 31
+    line [21, 23, 26, 27, 30]
 ```
 
-2026-10-18 21 → 2026-10-31 27（+6）
+2026-10-18 21 → 2026-11-01 30（+9）
 
 
 ---

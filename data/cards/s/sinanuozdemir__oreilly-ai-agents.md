@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sinanuozdemir/oreilly-ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "sinanuozdemir/oreilly-ai-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 320 --> 324
-    line [321, 322, 323]
+    line [321, 322, 323, 323]
 ```
 
-2026-10-18 321 → 2026-10-31 323（+2）
+2026-10-18 321 → 2026-11-01 323（+2）
 
 
 ---

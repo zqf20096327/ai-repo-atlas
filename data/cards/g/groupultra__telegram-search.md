@@ -1,6 +1,6 @@
 # groupultra/telegram-search
 
-⭐ 4,132 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/groupultra/telegram-search) · [官网](https://search.lingogram.app) · 组织维护 · 中文 README
+⭐ 4,134 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/groupultra/telegram-search) · [官网](https://search.lingogram.app) · 组织维护 · 中文 README
 
 **自托管工具：导出 Telegram 聊天记录并做模糊/语义搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "groupultra/telegram-search 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 4124 --> 4133
-    line [4125, 4126, 4130, 4129, 4131, 4132, 4132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 4124 --> 4135
+    line [4125, 4126, 4130, 4129, 4131, 4132, 4134]
 ```
 
-2026-10-18 4,125 → 2026-10-31 4,132（+7）
+2026-10-18 4,125 → 2026-11-01 4,134（+9）
 
 
 ---

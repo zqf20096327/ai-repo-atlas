@@ -1,6 +1,6 @@
 # op7418/Claude-to-IM
 
-⭐ 471 · TypeScript · MIT · 推送 2026-03-23 · [GitHub](https://github.com/op7418/Claude-to-IM) · 个人维护 · 中文 README
+⭐ 472 · TypeScript · MIT · 推送 2026-03-23 · [GitHub](https://github.com/op7418/Claude-to-IM) · 个人维护 · 中文 README
 
 **把 Claude Code SDK 接入 Telegram/Discord/飞书的桥接库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "op7418/Claude-to-IM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01"]
     y-axis "stars" 470 --> 474
-    line [472, 473, 472, 471, 471]
+    line [472, 473, 472, 471, 472]
 ```
 
-2026-10-18 472 → 2026-10-31 471（-1）
+2026-10-18 472 → 2026-11-01 472（+0）
 
 
 ---

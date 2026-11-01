@@ -1,6 +1,6 @@
 # tuff-app/TUFF
 
-⭐ 67 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tuff-app/TUFF) · [官网](https://tuff-app.github.io/) · 个人维护
+⭐ 68 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tuff-app/TUFF) · [官网](https://tuff-app.github.io/) · 个人维护
 
 **Apple Silicon Mac 本地 LLM 聊天应用，可从 SSD 流式运行超大 MoE 模型**
 
@@ -47,12 +47,12 @@ SwiftUI 桌面应用加自研 Swift/Metal 推理引擎，在 Apple Silicon Mac �
 ```mermaid
 xychart-beta
     title "tuff-app/TUFF 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 59 --> 68
-    line [61, 60, 61, 64, 66, 67, 67]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 59 --> 69
+    line [61, 60, 61, 64, 66, 67, 68]
 ```
 
-2026-10-24 61 → 2026-10-31 67（+6）
+2026-10-24 61 → 2026-11-01 68（+7）
 
 
 ---

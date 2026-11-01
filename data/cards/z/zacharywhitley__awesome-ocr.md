@@ -1,6 +1,6 @@
 # zacharywhitley/awesome-ocr
 
-⭐ 1,031 · 推送 2026-08-13 · [GitHub](https://github.com/zacharywhitley/awesome-ocr) · 个人维护
+⭐ 1,032 · 推送 2026-08-13 · [GitHub](https://github.com/zacharywhitley/awesome-ocr) · 个人维护
 
 **OCR 相关算法与工具的策展清单（检测/矫正/分割等）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zacharywhitley/awesome-ocr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    title "zacharywhitley/awesome-ocr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1029 --> 1033
-    line [1030, 1031, 1032, 1031]
+    line [1030, 1031, 1032, 1031, 1032]
 ```
 
-2026-10-18 1,030 → 2026-10-31 1,031（+1）
+2026-10-18 1,030 → 2026-11-01 1,032（+2）
 
 
 ---

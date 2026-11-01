@@ -1,6 +1,6 @@
 # TecnicalBot/mobile-agent
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TecnicalBot/mobile-agent) · [官网](https://mobile-agent.vercel.app/) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/TecnicalBot/mobile-agent) · [官网](https://mobile-agent.vercel.app/) · 个人维护
 
 **完全在手机端本地运行的 Android AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TecnicalBot/mobile-agent 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 38 --> 56
     line [39, 40, 41, 42, 44, 46, 47, 48, 50, 52, 55, 55]
 ```
 
-2026-10-18 39 → 2026-10-31 55（+16）
+2026-10-18 39 → 2026-11-01 55（+16）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feiskyer/codex-settings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "feiskyer/codex-settings 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 246 --> 249
-    line [247, 248]
+    line [247, 248, 248]
 ```
 
-2026-10-18 247 → 2026-10-31 248（+1）
+2026-10-18 247 → 2026-11-01 248（+1）
 
 
 ---

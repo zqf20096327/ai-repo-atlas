@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BaseInfinity/claude-sdlc-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    title "BaseInfinity/claude-sdlc-harness 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 50 --> 54
-    line [51, 52, 53]
+    line [51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-10-31 53（+2）
+2026-10-18 51 → 2026-11-01 53（+2）
 
 
 ---

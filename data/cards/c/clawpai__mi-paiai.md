@@ -1,6 +1,6 @@
 # clawpai/mi-paiai
 
-⭐ 29 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/clawpai/mi-paiai) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/clawpai/mi-paiai) · 个人维护 · 中文 README
 
 **把小爱音箱接入任意 OpenAI 兼容大模型的自托管网关**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "clawpai/mi-paiai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 24 --> 30
-    line [25, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 28, 29, 30]
 ```
 
-2026-10-18 25 → 2026-10-31 29（+4）
+2026-10-18 25 → 2026-11-01 30（+5）
 
 
 ---

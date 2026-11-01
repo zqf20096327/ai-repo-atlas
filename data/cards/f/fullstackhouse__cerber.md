@@ -1,6 +1,6 @@
 # fullstackhouse/cerber
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fullstackhouse/cerber) · [官网](https://fullstack.house/blog/cerber) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/fullstackhouse/cerber) · [官网](https://fullstack.house/blog/cerber) · 组织维护
 
 **本地优先的 AI 代码评审驾驶舱：Claude 起草，人来决定发送**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fullstackhouse/cerber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ORNL/flowcept
 
-⭐ 40 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/ORNL/flowcept) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/ORNL/flowcept) · 组织维护
 
 **分布式科学与 AI 工作流的运行时溯源与数据观测系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ORNL/flowcept 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-10-18 39 → 2026-10-31 40（+1）
+2026-10-18 39 → 2026-11-01 41（+2）
 
 
 ---

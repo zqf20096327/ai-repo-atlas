@@ -1,6 +1,6 @@
 # huymert/Staff-Management-Application
 
-⭐ 17 · Java · 推送 2026-07-05 · [GitHub](https://github.com/huymert/Staff-Management-Application) · 组织维护
+⭐ 18 · Java · 推送 2026-07-05 · [GitHub](https://github.com/huymert/Staff-Management-Application) · 组织维护
 
 **Android 员工管理应用：RBAC 权限、实时聊天与 RAG AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huymert/Staff-Management-Application 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-31 17（+1）
+2026-10-18 16 → 2026-11-01 18（+2）
 
 
 ---

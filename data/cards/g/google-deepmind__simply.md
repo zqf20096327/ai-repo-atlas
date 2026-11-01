@@ -1,6 +1,6 @@
 # google-deepmind/simply
 
-⭐ 586 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/simply) · 组织维护
+⭐ 586 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/google-deepmind/simply) · 组织维护
 
 **供人与 AI agent 快速迭代 LLM 前沿研究的极简 JAX 研究代码库**
 
@@ -46,12 +46,12 @@ Google DeepMind 维护的 JAX 研究代码库，覆盖 LLM 及自回归模型的
 ```mermaid
 xychart-beta
     title "google-deepmind/simply 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 584 --> 587
     line [585, 586, 586]
 ```
 
-2026-10-18 585 → 2026-10-31 586（+1）
+2026-10-18 585 → 2026-11-01 586（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # williamjsmail/piranha
 
-⭐ 17 · JavaScript · 推送 2025-11-04 · [GitHub](https://github.com/williamjsmail/piranha) · [官网](https://zread.ai/williamjsmail/piranha) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向网络防御分析师的威胁分析与狩猎规划工具**
 

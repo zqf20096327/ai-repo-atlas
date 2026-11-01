@@ -46,12 +46,12 @@ KinesteX 提供的即插即用 AI 动作分析 SDK，供健康、安全与健身
 ```mermaid
 xychart-beta
     title "KinesteX/KinesteX-SDK-ReactNative 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

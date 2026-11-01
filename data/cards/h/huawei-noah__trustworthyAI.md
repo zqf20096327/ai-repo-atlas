@@ -1,6 +1,6 @@
 # huawei-noah/trustworthyAI
 
-⭐ 1,153 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/huawei-noah/trustworthyAI) · 组织维护 · 中文 README
+⭐ 1,154 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/huawei-noah/trustworthyAI) · 组织维护 · 中文 README
 
 **华为诺亚方舟实验室可信 AI 相关项目集合仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huawei-noah/trustworthyAI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1146 --> 1154
-    line [1147, 1148, 1150, 1151, 1152, 1153, 1152, 1153]
+    title "huawei-noah/trustworthyAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1146 --> 1155
+    line [1147, 1148, 1150, 1151, 1152, 1153, 1152, 1153, 1154]
 ```
 
-2026-10-18 1,147 → 2026-10-31 1,153（+6）
+2026-10-18 1,147 → 2026-11-01 1,154（+7）
 
 
 ---

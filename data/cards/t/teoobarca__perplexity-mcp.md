@@ -1,6 +1,6 @@
 # teoobarca/perplexity-mcp
 
-⭐ 13 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/teoobarca/perplexity-mcp) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/teoobarca/perplexity-mcp) · 个人维护
 
 **免 API 费用的 Perplexity MCP 服务器，带多账号池与管理面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "teoobarca/perplexity-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

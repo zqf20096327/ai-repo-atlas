@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-retrieval-augmented-gen-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 167 --> 169
     line [168, 168]
 ```
 
-2026-10-18 168 → 2026-10-31 168（+0）
+2026-10-18 168 → 2026-11-01 168（+0）
 
 
 ---

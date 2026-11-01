@@ -47,12 +47,12 @@ CodeSeeker 是一个 TypeScript 编写的 MCP 服务器，面向 Claude Code、G
 ```mermaid
 xychart-beta
     title "jghiringhelli/codeseeker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-31 21（+1）
+2026-10-18 20 → 2026-11-01 21（+1）
 
 
 ---

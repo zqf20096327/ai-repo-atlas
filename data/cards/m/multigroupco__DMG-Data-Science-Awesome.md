@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "multigroupco/DMG-Data-Science-Awesome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    title "multigroupco/DMG-Data-Science-Awesome 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 526 --> 530
-    line [527, 528, 529]
+    line [527, 528, 529, 529]
 ```
 
-2026-10-18 527 → 2026-10-31 529（+2）
+2026-10-18 527 → 2026-11-01 529（+2）
 
 
 ---

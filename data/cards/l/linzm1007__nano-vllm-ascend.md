@@ -1,6 +1,6 @@
 # linzm1007/nano-vllm-ascend
 
-⭐ 97 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/linzm1007/nano-vllm-ascend) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/linzm1007/nano-vllm-ascend) · 个人维护 · 中文 README
 
 **面向昇腾 NPU 的轻量 LLM 推理引擎学习项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linzm1007/nano-vllm-ascend 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
+    title "linzm1007/nano-vllm-ascend 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 94 --> 98
-    line [96, 95, 96, 97]
+    line [96, 95, 96, 97, 96]
 ```
 
-2026-10-18 96 → 2026-10-31 97（+1）
+2026-10-18 96 → 2026-11-01 96（+0）
 
 
 ---

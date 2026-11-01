@@ -1,6 +1,6 @@
 # isdaniel/mcp_weather_server
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/isdaniel/mcp_weather_server) · 个人维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/isdaniel/mcp_weather_server) · 个人维护
 
 **基于 Open-Meteo 的天气 MCP 服务器，供 AI 客户端调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "isdaniel/mcp_weather_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-18 60 → 2026-10-31 60（+0）
+2026-10-18 60 → 2026-11-01 61（+1）
 
 
 ---

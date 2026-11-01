@@ -1,6 +1,6 @@
 # ogre-run/miniogre
 
-⭐ 50 · Python · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/ogre-run/miniogre) · [官网](https://docs.ogre.run) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 辅助生成 Python 项目环境与文档文件（Dockerfile/requirements/SBOM）的 CLI 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

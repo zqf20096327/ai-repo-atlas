@@ -1,6 +1,6 @@
 # genkit-ai/aws-bedrock-js-plugin
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/genkit-ai/aws-bedrock-js-plugin) · [官网](https://genkit-ai.github.io/aws-bedrock-js-plugin/) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/genkit-ai/aws-bedrock-js-plugin) · [官网](https://genkit-ai.github.io/aws-bedrock-js-plugin/) · 个人维护
 
 **让 Genkit 框架接入 AWS Bedrock 模型 API 的社区插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "genkit-ai/aws-bedrock-js-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

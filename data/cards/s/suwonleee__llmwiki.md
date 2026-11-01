@@ -1,6 +1,6 @@
 # suwonleee/llmwiki
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/suwonleee/llmwiki) · 个人维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/suwonleee/llmwiki) · 个人维护
 
 **把编码 agent 会话沉淀为本地项目 wiki 并出题复习的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "suwonleee/llmwiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

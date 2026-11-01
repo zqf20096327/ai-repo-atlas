@@ -1,6 +1,6 @@
 # vertopolkaLF/codex-minibar
 
-⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vertopolkaLF/codex-minibar) · [官网](https://vertopolkalf.ru/codex-minibar/) · 个人维护 · 中文 README
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/vertopolkaLF/codex-minibar) · [官网](https://vertopolkalf.ru/codex-minibar/) · 个人维护 · 中文 README
 
 **Windows 托盘工具：免登录监控 ChatGPT/Codex 等 AI 订阅额度**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vertopolkaLF/codex-minibar 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01"]
     y-axis "stars" 32 --> 43
     line [33, 35, 36, 39, 40, 41, 42, 42]
 ```
 
-2026-10-18 33 → 2026-10-31 42（+9）
+2026-10-18 33 → 2026-11-01 42（+9）
 
 
 ---

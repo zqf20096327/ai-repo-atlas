@@ -1,6 +1,6 @@
 # Giton22/kyllene
 
-⭐ 210 · Kotlin · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Giton22/kyllene) · [官网](https://kyllene.app) · 个人维护
+⭐ 215 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Giton22/kyllene) · [官网](https://kyllene.app) · 个人维护
 
 **Hermes Agent 的非官方 Android 原生聊天客户端**
 
@@ -40,6 +40,18 @@ Kotlin Multiplatform 编写的 Hermes Agent 移动客户端：直连用户自托
 > L3: **A native Android client for Hermes Agent.**
 > L17: Kyllene connects to the `hermes dashboard` you already run on a server, homelab, VPS or Tailnet, the
 > L18: same way Hermes Desktop's "Remote gateway" connection does. There is no Kyllene server and no account:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Giton22/kyllene 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 209 --> 216
+    line [210, 215]
+```
+
+2026-10-31 210 → 2026-11-01 215（+5）
 
 
 ---

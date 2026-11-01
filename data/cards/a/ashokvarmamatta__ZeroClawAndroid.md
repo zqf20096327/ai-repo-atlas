@@ -45,13 +45,13 @@ Kotlin/Compose 编写的 Android 前台服务应用，后台 24/7 运行 AI agen
 
 ```mermaid
 xychart-beta
-    title "ashokvarmamatta/ZeroClawAndroid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
+    title "ashokvarmamatta/ZeroClawAndroid 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 14, 15, 16]
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 16（+2）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

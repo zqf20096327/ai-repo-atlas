@@ -1,6 +1,6 @@
 # sethdford/claude-skills
 
-⭐ 46 · MIT · 推送 2026-03-11 · [GitHub](https://github.com/sethdford/claude-skills) · 个人维护
+⭐ 47 · MIT · 推送 2026-03-11 · [GitHub](https://github.com/sethdford/claude-skills) · 个人维护
 
 **面向 PDLC 全角色的 Claude Code 技能合集（454 技能/8 角色）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sethdford/claude-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 43 --> 48
+    line [44, 45, 46, 47]
 ```
 
-2026-10-18 44 → 2026-10-31 46（+2）
+2026-10-18 44 → 2026-11-01 47（+3）
 
 
 ---

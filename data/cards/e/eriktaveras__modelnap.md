@@ -1,6 +1,6 @@
 # eriktaveras/modelnap
 
-⭐ 24 · Swift · MIT · 推送 2026-09-27 · [GitHub](https://github.com/eriktaveras/modelnap) · [官网](https://modelnap.com) · 个人维护
+⭐ 24 · Swift · MIT · 推送 2026-10-31 · [GitHub](https://github.com/eriktaveras/modelnap) · [官网](https://modelnap.com) · 个人维护
 
 **macOS 菜单栏应用：一键开关 Ollama 并自动释放空闲模型内存**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eriktaveras/modelnap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-31 24（+1）
+2026-10-18 23 → 2026-11-01 24（+1）
 
 
 ---

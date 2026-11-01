@@ -1,6 +1,6 @@
 # Pipelex/pipelex-cookbook
 
-⭐ 40 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Pipelex/pipelex-cookbook) · [官网](https://pipelex.com) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Pipelex/pipelex-cookbook) · [官网](https://pipelex.com) · 组织维护
 
 **用 MTHDS 语言编写、经 Pipelex 运行的 AI 方法示例集**
 
@@ -45,12 +45,12 @@ Pipelex 官方 Cookbook：收录用 MTHDS 语言编写、可在 Pipelex 托管 A
 ```mermaid
 xychart-beta
     title "Pipelex/pipelex-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-31 40（+0）
+2026-10-18 40 → 2026-11-01 40（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mithun-27/Xynova.ai
 
-⭐ 18 · TypeScript · 推送 2026-08-08 · [GitHub](https://github.com/mithun-27/Xynova.ai) · [官网](https://xynova.web.app) · 组织维护
+⭐ 18 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/mithun-27/Xynova.ai) · [官网](https://xynova.web.app) · 组织维护
 
 **AI 个性化学习平台：生成任意学科学习路线图并辅导**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mithun-27/Xynova.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-31 18（+0）
+2026-10-18 18 → 2026-11-01 18（+0）
 
 
 ---

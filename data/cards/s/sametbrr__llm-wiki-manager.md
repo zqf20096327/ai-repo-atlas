@@ -1,6 +1,6 @@
 # sametbrr/llm-wiki-manager
 
-⭐ 71 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/sametbrr/llm-wiki-manager) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/sametbrr/llm-wiki-manager) · 个人维护
 
 **Claude Code 技能：让 LLM 持续编写与交叉维护个人知识库 wiki**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sametbrr/llm-wiki-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 70 → 2026-10-31 71（+1）
+2026-10-18 70 → 2026-11-01 72（+2）
 
 
 ---

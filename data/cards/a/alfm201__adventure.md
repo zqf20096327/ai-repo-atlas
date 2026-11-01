@@ -1,6 +1,6 @@
 # alfm201/adventure
 
-⭐ 13 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/alfm201/adventure) · [官网](https://alfm201.github.io/adventure/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/alfm201/adventure) · [官网](https://alfm201.github.io/adventure/) · 个人维护 · 中文 README
 
 **拉泰尔Adventure游戏AI策略推荐网页应用：推荐骰子与卡牌选择**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alfm201/adventure 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-10-31 13（+1）
+2026-10-18 12 → 2026-11-01 13（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/e2-tts-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "lucidrains/e2-tts-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 516 --> 519
-    line [517, 518]
+    line [517, 518, 518]
 ```
 
-2026-10-18 517 → 2026-10-31 518（+1）
+2026-10-18 517 → 2026-11-01 518（+1）
 
 
 ---

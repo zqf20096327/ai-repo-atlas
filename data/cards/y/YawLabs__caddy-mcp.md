@@ -1,6 +1,6 @@
 # YawLabs/caddy-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/YawLabs/caddy-mcp) · [官网](https://yaw.sh/mcp-servers/caddy-mcp/) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/YawLabs/caddy-mcp) · [官网](https://yaw.sh/mcp-servers/caddy-mcp/) · 组织维护
 
 **通过 MCP 客户端管理 Caddy Web 服务器的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Yaw Labs 开发的 Caddy admin API MCP server，供 Claude Code、Cursor 等 MCP
 ```mermaid
 xychart-beta
     title "YawLabs/caddy-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-10-31 13（+1）
+2026-10-18 12 → 2026-11-01 13（+1）
 
 
 ---

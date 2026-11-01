@@ -1,6 +1,6 @@
 # shanraisshan/claude-code-status-line
 
-⭐ 64 · Shell · 推送 2026-05-22 · [GitHub](https://github.com/shanraisshan/claude-code-status-line) · 个人维护
+⭐ 65 · Shell · 推送 2026-05-22 · [GitHub](https://github.com/shanraisshan/claude-code-status-line) · 个人维护
 
 **给 Claude Code 显示上下文用量与限额的自定义状态栏脚本**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "shanraisshan/claude-code-status-line 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 63 --> 66
-    line [65, 64, 64]
+    line [65, 64, 65]
 ```
 
-2026-10-18 65 → 2026-10-31 64（-1）
+2026-10-18 65 → 2026-11-01 65（+0）
 
 
 ---

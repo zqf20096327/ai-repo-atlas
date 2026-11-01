@@ -1,6 +1,6 @@
 # lucataco/open-source-higgsfield
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lucataco/open-source-higgsfield) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lucataco/open-source-higgsfield) · 个人维护
 
 **本地 ComfyUI 视频角色替换工具：保持运镜与画面换演员**
 
@@ -40,6 +40,18 @@
 > L8: Body Double recasts the performer in a video as a new character. Their motion, the camera move, the rest of the shot
 > L9: and the original audio stay. It runs locally on stock ComfyUI with open-weights models (SAM 3.1, FLUX 3 Image Klein
 > L10: and SCAIL-2), and it's an open alternative to Higgsfield Genjutsu.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lucataco/open-source-higgsfield 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 19 --> 35
+    line [20, 34]
+```
+
+2026-10-31 20 → 2026-11-01 34（+14）
 
 
 ---

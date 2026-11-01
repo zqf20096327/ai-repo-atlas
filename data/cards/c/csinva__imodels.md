@@ -1,6 +1,6 @@
 # csinva/imodels
 
-⭐ 1,630 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/csinva/imodels) · [官网](https://csinva.io/imodels) · 组织维护
+⭐ 1,630 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/csinva/imodels) · [官网](https://csinva.io/imodels) · 组织维护
 
 **可解释机器学习 Python 库：20+ 种透明预测模型，兼容 sklearn**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "csinva/imodels 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
     y-axis "stars" 1627 --> 1631
     line [1628, 1629, 1630, 1630]
 ```
 
-2026-10-18 1,628 → 2026-10-31 1,630（+2）
+2026-10-18 1,628 → 2026-11-01 1,630（+2）
 
 
 ---

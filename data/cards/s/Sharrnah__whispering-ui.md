@@ -1,6 +1,6 @@
 # Sharrnah/whispering-ui
 
-⭐ 335 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Sharrnah/whispering-ui) · [官网](https://whispering-tiger.github.io/) · 个人维护
+⭐ 336 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Sharrnah/whispering-ui) · [官网](https://whispering-tiger.github.io/) · 个人维护
 
 **本地实时语音转写/翻译桌面应用（Whispering Tiger 原生 UI）**
 
@@ -45,12 +45,12 @@ Windows/Linux 桌面应用，包含 Go/Fyne 原生 UI 与运行 AI 模型的 Pyt
 ```mermaid
 xychart-beta
     title "Sharrnah/whispering-ui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 328 --> 336
-    line [329, 330, 332, 334, 335, 335]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 328 --> 337
+    line [329, 330, 332, 334, 335, 336]
 ```
 
-2026-10-18 329 → 2026-10-31 335（+6）
+2026-10-18 329 → 2026-11-01 336（+7）
 
 
 ---

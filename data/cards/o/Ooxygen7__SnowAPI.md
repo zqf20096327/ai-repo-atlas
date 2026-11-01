@@ -1,6 +1,6 @@
 # Ooxygen7/SnowAPI
 
-⭐ 35 · Go · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/Ooxygen7/SnowAPI) · 个人维护 · 中文 README
+⭐ 36 · Go · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/Ooxygen7/SnowAPI) · 个人维护 · 中文 README
 
 **多模型统一 API 网关：聚合上游、计费订阅与运营控制台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ooxygen7/SnowAPI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-31 35（+1）
+2026-10-18 34 → 2026-11-01 36（+2）
 
 
 ---

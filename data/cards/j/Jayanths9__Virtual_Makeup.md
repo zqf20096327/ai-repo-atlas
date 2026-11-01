@@ -1,6 +1,6 @@
 # Jayanths9/Virtual_Makeup
 
-⭐ 65 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Jayanths9/Virtual_Makeup) · 个人维护
+⭐ 66 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Jayanths9/Virtual_Makeup) · 个人维护
 
 **给人脸图像/摄像头实时添加虚拟彩妆的桌面应用与脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jayanths9/Virtual_Makeup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-18 65 → 2026-10-31 65（+0）
+2026-10-18 65 → 2026-11-01 66（+1）
 
 
 ---

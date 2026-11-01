@@ -1,6 +1,6 @@
 # Zylcyl/gaokao-advisor
 
-⭐ 18 · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Zylcyl/gaokao-advisor) · 个人维护 · 中文 README
+⭐ 19 · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Zylcyl/gaokao-advisor) · 个人维护 · 中文 README
 
 **高考志愿填报 AI 顾问：多 Skill 协调的志愿决策辅助系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Zylcyl/gaokao-advisor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19]
 ```
 
-2026-10-18 16 → 2026-10-31 18（+2）
+2026-10-18 16 → 2026-11-01 19（+3）
 
 
 ---

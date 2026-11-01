@@ -1,6 +1,6 @@
 # NeoZi12/dispatchseo
 
-⭐ 93 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/NeoZi12/dispatchseo) · [官网](https://dispatchseo.com) · 个人维护
+⭐ 93 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/NeoZi12/dispatchseo) · [官网](https://dispatchseo.com) · 个人维护
 
 **让 AI 编码代理接管 SEO 的自托管系统（关键词、内容、排名）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NeoZi12/dispatchseo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
     y-axis "stars" 85 --> 94
     line [86, 88, 90, 91, 92, 93, 93]
 ```
 
-2026-10-18 86 → 2026-10-31 93（+7）
+2026-10-18 86 → 2026-11-01 93（+7）
 
 
 ---

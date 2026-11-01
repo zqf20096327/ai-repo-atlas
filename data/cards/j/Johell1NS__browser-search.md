@@ -1,6 +1,6 @@
 # Johell1NS/browser-search
 
-⭐ 539 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Johell1NS/browser-search) · [官网](https://github.com/Johell1NS/browser-search#readme) · 个人维护 · 中文 README
+⭐ 540 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Johell1NS/browser-search) · [官网](https://github.com/Johell1NS/browser-search#readme) · 个人维护 · 中文 README
 
 **给 AI agent 的网页搜索+浏览+反爬绕过技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Johell1NS/browser-search 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 534 --> 540
-    line [535, 536, 537, 538, 537, 538, 539, 538, 539, 539]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 534 --> 541
+    line [535, 536, 537, 538, 537, 538, 539, 538, 539, 540]
 ```
 
-2026-10-18 535 → 2026-10-31 539（+4）
+2026-10-18 535 → 2026-11-01 540（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # leslieo2/LangGraph-Mastery-Playbook
 
-⭐ 56 · Python · 推送 2025-11-04 · [GitHub](https://github.com/leslieo2/LangGraph-Mastery-Playbook) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **LangGraph 记忆型 LLM Agent 教学课程：六个阶段的可运行脚本教程**
 

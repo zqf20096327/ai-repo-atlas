@@ -1,6 +1,6 @@
 # HaShiShark/codex-context-studio
 
-⭐ 39 · Python · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/HaShiShark/codex-context-studio) · 个人维护 · 中文 README
+⭐ 40 · Python · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/HaShiShark/codex-context-studio) · 个人维护 · 中文 README
 
 **Codex 上下文可视化管理面板：查看、编辑与压缩上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HaShiShark/codex-context-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-10-31 39（+1）
+2026-10-18 38 → 2026-11-01 40（+2）
 
 
 ---

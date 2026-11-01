@@ -1,6 +1,6 @@
 # LuizScarlet/StableCodec
 
-⭐ 102 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/LuizScarlet/StableCodec) · [官网](https://arxiv.org/abs/2506.21977) · 组织维护 · 中文 README
+⭐ 103 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/LuizScarlet/StableCodec) · [官网](https://arxiv.org/abs/2506.21977) · 组织维护 · 中文 README
 
 **面向科研者的单步扩散极低码率图像压缩模型（ICCV 2025）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LuizScarlet/StableCodec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-10-18 102 → 2026-10-31 102（+0）
+2026-10-18 102 → 2026-11-01 103（+1）
 
 
 ---

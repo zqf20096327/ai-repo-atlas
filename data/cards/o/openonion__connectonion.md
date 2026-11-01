@@ -1,6 +1,6 @@
 # openonion/connectonion
 
-⭐ 1,503 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openonion/connectonion) · [官网](https://docs.connectonion.com) · 组织维护
+⭐ 1,504 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openonion/connectonion) · [官网](https://docs.connectonion.com) · 组织维护
 
 **给 AI agent 统一 CLI 工具面的 harness：一个 co 命令接入邮件/浏览器/聊天等**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openonion/connectonion 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 1497 --> 1504
-    line [1498, 1499, 1501, 1502, 1503, 1503]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 1497 --> 1505
+    line [1498, 1499, 1501, 1502, 1503, 1504]
 ```
 
-2026-10-18 1,498 → 2026-10-31 1,503（+5）
+2026-10-18 1,498 → 2026-11-01 1,504（+6）
 
 
 ---

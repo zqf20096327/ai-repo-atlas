@@ -1,6 +1,6 @@
 # chatvia/chatvia
 
-⭐ 51 · PHP · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/chatvia/chatvia) · [官网](https://chatvia.ai) · 组织维护
+⭐ 111 · PHP · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/chatvia/chatvia) · [官网](https://chatvia.ai) · 组织维护
 
 **自托管 AI 聊天 agent 平台：基于自有知识库回答，多渠道部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chatvia/chatvia 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 2 --> 55
-    line [6, 51]
+    title "chatvia/chatvia 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 0 --> 121
+    line [6, 51, 111]
 ```
 
-2026-10-30 6 → 2026-10-31 51（+45）
+2026-10-30 6 → 2026-11-01 111（+105）
 
 
 ---

@@ -1,6 +1,6 @@
 # iDiagoValeta/localOllamaRAG
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/iDiagoValeta/localOllamaRAG) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/iDiagoValeta/localOllamaRAG) · 个人维护
 
 **本地多模态 RAG 应用：用自有模型对 PDF 提问并获得有据回答**
 
@@ -45,12 +45,12 @@ MonkeyGrab 是一个本地优先的多语言 RAG 系统：MinerU 解析 PDF 结�
 ```mermaid
 xychart-beta
     title "iDiagoValeta/localOllamaRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

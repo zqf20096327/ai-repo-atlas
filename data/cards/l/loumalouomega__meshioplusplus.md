@@ -1,6 +1,6 @@
 # loumalouomega/meshioplusplus
 
-⭐ 16 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/loumalouomega/meshioplusplus) · [官网](https://loumalouomega.github.io/meshioplusplus/) · 个人维护
+⭐ 16 · C++ · MIT · 推送 2026-10-31 · [GitHub](https://github.com/loumalouomega/meshioplusplus) · [官网](https://loumalouomega.github.io/meshioplusplus/) · 个人维护
 
 **多格式非结构网格读写与转换库（C++ 核心、多语言绑定）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "loumalouomega/meshioplusplus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-01"]
     y-axis "stars" 10 --> 17
     line [11, 14, 15, 16, 16]
 ```
 
-2026-10-18 11 → 2026-10-31 16（+5）
+2026-10-18 11 → 2026-11-01 16（+5）
 
 
 ---

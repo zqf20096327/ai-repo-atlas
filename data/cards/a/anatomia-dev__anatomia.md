@@ -1,6 +1,6 @@
 # anatomia-dev/anatomia
 
-⭐ 33 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/anatomia-dev/anatomia) · [官网](https://anatomia.dev) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/anatomia-dev/anatomia) · [官网](https://anatomia.dev) · 组织维护
 
 **面向 Claude Code 与 Codex 的五阶段 agent 流水线 CLI**
 
@@ -46,12 +46,12 @@ Node.js CLI 工具，扫描代码库识别框架、数据库、约定与模式�
 ```mermaid
 xychart-beta
     title "anatomia-dev/anatomia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 31 --> 34
+    line [33, 32]
 ```
 
-2026-10-18 33 → 2026-10-31 33（+0）
+2026-10-18 33 → 2026-11-01 32（-1）
 
 
 ---

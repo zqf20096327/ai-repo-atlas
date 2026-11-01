@@ -1,6 +1,6 @@
 # najiuwanan/xianyu-Plus
 
-⭐ 25 · Java · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/najiuwanan/xianyu-Plus) · 个人维护 · 中文 README
+⭐ 26 · Java · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/najiuwanan/xianyu-Plus) · 个人维护 · 中文 README
 
 **私有部署的闲鱼多账号运营助手：客服、发货、订单一站管理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "najiuwanan/xianyu-Plus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 19 --> 26
-    line [20, 22, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 19 --> 27
+    line [20, 22, 24, 25, 26]
 ```
 
-2026-10-18 20 → 2026-10-31 25（+5）
+2026-10-18 20 → 2026-11-01 26（+6）
 
 
 ---

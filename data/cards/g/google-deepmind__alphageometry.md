@@ -1,6 +1,6 @@
 # google-deepmind/alphageometry
 
-⭐ 4,898 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/google-deepmind/alphageometry) · 组织维护
+⭐ 4,901 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/google-deepmind/alphageometry) · 组织维护
 
 **DeepMind 的奥林匹克几何定理证明器（DDAR+AlphaGeometry）官方复现代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphageometry 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    title "google-deepmind/alphageometry 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 4896 --> 4903
-    line [4900, 4901, 4902, 4900, 4901, 4899, 4897, 4898]
+    line [4900, 4901, 4902, 4900, 4901, 4899, 4897, 4898, 4901]
 ```
 
-2026-10-18 4,900 → 2026-10-31 4,898（-2）
+2026-10-18 4,900 → 2026-11-01 4,901（+1）
 
 
 ---

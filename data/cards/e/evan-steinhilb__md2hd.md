@@ -1,6 +1,6 @@
 # evan-steinhilb/md2hd
 
-⭐ 138 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/evan-steinhilb/md2hd) · [官网](https://md2hd.com) · 个人维护
+⭐ 137 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/evan-steinhilb/md2hd) · [官网](https://md2hd.com) · 个人维护
 
 **把 Markdown 笔记渲染为可交互关系图的本地 CLI 工具**
 
@@ -45,12 +45,12 @@ Node.js CLI，指向单个 Markdown 文件或文件夹后启动本地服务器�
 ```mermaid
 xychart-beta
     title "evan-steinhilb/md2hd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01"]
     y-axis "stars" 135 --> 139
-    line [136, 137, 138, 138]
+    line [136, 137, 138, 137]
 ```
 
-2026-10-18 136 → 2026-10-31 138（+2）
+2026-10-18 136 → 2026-11-01 137（+1）
 
 
 ---

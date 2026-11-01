@@ -1,6 +1,6 @@
 # microsoft/PAX
 
-⭐ 31 · PowerShell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/PAX) · [官网](https://aka.ms/PAXapp) · 组织维护
+⭐ 31 · PowerShell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/PAX) · [官网](https://aka.ms/PAXapp) · 组织维护
 
 **企业工具集：导出 M365 Copilot 审计日志为分析就绪数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/PAX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-01"]
     y-axis "stars" 28 --> 32
     line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-31 31（+2）
+2026-10-18 29 → 2026-11-01 31（+2）
 
 
 ---

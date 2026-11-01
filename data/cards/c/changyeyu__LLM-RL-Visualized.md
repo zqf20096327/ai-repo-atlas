@@ -1,6 +1,6 @@
 # changyeyu/LLM-RL-Visualized
 
-⭐ 4,985 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/changyeyu/LLM-RL-Visualized) · [官网](https://book.douban.com/subject/37331056/) · 个人维护 · 中文 README
+⭐ 4,984 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/changyeyu/LLM-RL-Visualized) · [官网](https://book.douban.com/subject/37331056/) · 个人维护 · 中文 README
 
 **100+ 张原创 LLM/RL/VLM 原理架构图的知识图谱仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "changyeyu/LLM-RL-Visualized 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    title "changyeyu/LLM-RL-Visualized 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 4949 --> 4988
-    line [4952, 4958, 4965, 4966, 4967, 4968, 4970, 4972, 4976, 4980, 4985]
+    line [4952, 4958, 4965, 4966, 4967, 4968, 4970, 4972, 4976, 4980, 4985, 4984]
 ```
 
-2026-10-18 4,952 → 2026-10-31 4,985（+33）
+2026-10-18 4,952 → 2026-11-01 4,984（+32）
 
 
 ---

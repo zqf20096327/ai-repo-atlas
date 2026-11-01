@@ -1,6 +1,6 @@
 # idlab-discover/RustiFlow
 
-⭐ 28 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/idlab-discover/RustiFlow) · [官网](https://idlab-discover.github.io/RustiFlow) · 组织维护
+⭐ 28 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/idlab-discover/RustiFlow) · [官网](https://idlab-discover.github.io/RustiFlow) · 组织维护
 
 **Rust+eBPF 的网络流量特征提取工具，面向入侵检测等场景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "idlab-discover/RustiFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-31 28（+0）
+2026-10-18 28 → 2026-11-01 28（+0）
 
 
 ---

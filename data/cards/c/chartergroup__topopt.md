@@ -1,6 +1,6 @@
 # chartergroup/topopt
 
-⭐ 23 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chartergroup/topopt) · [官网](https://topopt.ai) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chartergroup/topopt) · [官网](https://topopt.ai) · 组织维护
 
 **供 AI agent 调用的拓扑优化 MCP 服务器：输入载荷与区域，输出可打印 STL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chartergroup/topopt 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 17 --> 24
-    line [18, 23]
+    title "chartergroup/topopt 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 17 --> 25
+    line [18, 23, 24]
 ```
 
-2026-10-30 18 → 2026-10-31 23（+5）
+2026-10-30 18 → 2026-11-01 24（+6）
 
 
 ---

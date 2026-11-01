@@ -1,6 +1,6 @@
 # ToolkitlyAI/awesome-ai-tools
 
-⭐ 36 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ToolkitlyAI/awesome-ai-tools) · [官网](https://www.toolkitly.com) · 组织维护
+⭐ 36 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ToolkitlyAI/awesome-ai-tools) · [官网](https://www.toolkitly.com) · 组织维护
 
 **650+ AI 工具分类目录，按类别浏览与社区投稿**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ToolkitlyAI/awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
     y-axis "stars" 33 --> 37
     line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-10-31 36（+2）
+2026-10-18 34 → 2026-11-01 36（+2）
 
 
 ---

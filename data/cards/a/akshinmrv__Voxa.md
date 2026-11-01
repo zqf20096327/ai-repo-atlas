@@ -1,6 +1,6 @@
 # akshinmrv/Voxa
 
-⭐ 17 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/akshinmrv/Voxa) · [官网](https://voxa.servoogle.com) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/akshinmrv/Voxa) · [官网](https://voxa.servoogle.com) · 个人维护
 
 **单文件 Python CLI：将视频配音到另一语言且保持同步**
 
@@ -46,12 +46,12 @@ Voxa 是一个 Python 单文件 CLI 工具，对视频执行转录→翻译→�
 ```mermaid
 xychart-beta
     title "akshinmrv/Voxa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-31 17（+1）
+2026-10-18 16 → 2026-11-01 18（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mafifrizi/tanuki
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Mafifrizi/tanuki) · 组织维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Mafifrizi/tanuki) · 组织维护
 
 **非特权 Linux 下的混合 Active Directory 身份运维工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mafifrizi/tanuki 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
+    title "Mafifrizi/tanuki 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21]
+    line [18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-10-31 21（+3）
+2026-10-18 18 → 2026-11-01 21（+3）
 
 
 ---

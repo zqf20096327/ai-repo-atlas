@@ -1,6 +1,6 @@
 # coze-dev/coze-js
 
-⭐ 292 · TypeScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/coze-dev/coze-js) · [官网](https://www.coze.cn/docs/developer_guides/coze_api_overview) · 组织维护 · 中文 README
+⭐ 293 · TypeScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/coze-dev/coze-js) · [官网](https://www.coze.cn/docs/developer_guides/coze_api_overview) · 组织维护 · 中文 README
 
 **面向开发者的 Coze API JavaScript SDK monorepo**
 
@@ -44,12 +44,12 @@ coze-dev 维护的 Coze API 官方 JavaScript SDK monorepo，包含四个 npm �
 ```mermaid
 xychart-beta
     title "coze-dev/coze-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 291 --> 293
-    line [292, 292]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 291 --> 294
+    line [292, 293]
 ```
 
-2026-10-18 292 → 2026-10-31 292（+0）
+2026-10-18 292 → 2026-11-01 293（+1）
 
 
 ---

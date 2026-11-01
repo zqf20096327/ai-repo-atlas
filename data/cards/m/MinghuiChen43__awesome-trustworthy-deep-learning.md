@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MinghuiChen43/awesome-trustworthy-deep-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    title "MinghuiChen43/awesome-trustworthy-deep-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
     y-axis "stars" 393 --> 397
-    line [394, 395, 396]
+    line [394, 395, 396, 396]
 ```
 
-2026-10-18 394 → 2026-10-31 396（+2）
+2026-10-18 394 → 2026-11-01 396（+2）
 
 
 ---

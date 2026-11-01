@@ -1,6 +1,6 @@
 # CassiopeiaCode/CosyRedactGateway
 
-⭐ 105 · JavaScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/CassiopeiaCode/CosyRedactGateway) · 个人维护 · 中文 README
+⭐ 105 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/CassiopeiaCode/CosyRedactGateway) · 个人维护 · 中文 README
 
 **给程序员的 LLM API 凭据脱敏网关：出网前替换敏感值并可逆还原**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CassiopeiaCode/CosyRedactGateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
     y-axis "stars" 103 --> 106
     line [104, 105, 105]
 ```
 
-2026-10-18 104 → 2026-10-31 105（+1）
+2026-10-18 104 → 2026-11-01 105（+1）
 
 
 ---

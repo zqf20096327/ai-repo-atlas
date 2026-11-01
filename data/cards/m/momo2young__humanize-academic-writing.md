@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "momo2young/humanize-academic-writing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "momo2young/humanize-academic-writing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 25 --> 29
-    line [26, 28]
+    line [26, 28, 28]
 ```
 
-2026-10-18 26 → 2026-10-31 28（+2）
+2026-10-18 26 → 2026-11-01 28（+2）
 
 
 ---

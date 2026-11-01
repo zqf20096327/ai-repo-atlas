@@ -1,6 +1,6 @@
 # NVlabs/DoRA
 
-⭐ 1,005 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/NVlabs/DoRA) · [官网](https://nbasyl.github.io/DoRA-project-page/) · 组织维护
+⭐ 1,006 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/NVlabs/DoRA) · [官网](https://nbasyl.github.io/DoRA-project-page/) · 组织维护
 
 **将预训练权重分解为幅度与方向进行微调的参数高效微调方法官方实现**
 
@@ -46,12 +46,12 @@ NVIDIA 研究团队发布的 DoRA（ICML 2024 Oral）官方 PyTorch 实现：将
 ```mermaid
 xychart-beta
     title "NVlabs/DoRA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 1000 --> 1006
-    line [1001, 1002, 1003, 1004, 1005, 1005]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 1000 --> 1007
+    line [1001, 1002, 1003, 1004, 1005, 1006]
 ```
 
-2026-10-18 1,001 → 2026-10-31 1,005（+4）
+2026-10-18 1,001 → 2026-11-01 1,006（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Samsung/tizen-agent-skills
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Samsung/tizen-agent-skills) · [官网](https://github.com/Samsung/tizen-agent-skills#readme) · 组织维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Samsung/tizen-agent-skills) · [官网](https://github.com/Samsung/tizen-agent-skills#readme) · 组织维护
 
 **Samsung 的 Tizen 开发 agent 技能与插件集，让 AI 编码助手操作 Tizen SDK**
 
@@ -45,13 +45,13 @@ Samsung 开源的 agent 技能与插件仓库，把 Tizen 平台开发环境带�
 
 ```mermaid
 xychart-beta
-    title "Samsung/tizen-agent-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 5 --> 15
-    line [6, 7, 8, 10, 9, 11, 12, 14]
+    title "Samsung/tizen-agent-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 5 --> 16
+    line [6, 7, 8, 10, 9, 11, 12, 14, 15]
 ```
 
-2026-10-18 6 → 2026-10-31 14（+8）
+2026-10-18 6 → 2026-11-01 15（+9）
 
 
 ---

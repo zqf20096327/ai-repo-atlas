@@ -1,6 +1,6 @@
 # CodeBoarding/awesome-architecture-mds
 
-⭐ 167 · 推送 2026-08-25 · [GitHub](https://github.com/CodeBoarding/awesome-architecture-mds) · [官网](https://github.com/CodeBoarding/CodeBoarding) · 组织维护
+⭐ 168 · 推送 2026-08-25 · [GitHub](https://github.com/CodeBoarding/awesome-architecture-mds) · [官网](https://github.com/CodeBoarding/CodeBoarding) · 组织维护
 
 **热门开源仓库架构文档合集：给编码 agent 做上下文**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "CodeBoarding/awesome-architecture-mds 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 166 --> 169
+    line [167, 168]
 ```
 
-2026-10-18 167 → 2026-10-31 167（+0）
+2026-10-18 167 → 2026-11-01 168（+1）
 
 
 ---

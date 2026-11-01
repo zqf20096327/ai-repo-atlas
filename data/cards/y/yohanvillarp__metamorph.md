@@ -1,6 +1,6 @@
 # yohanvillarp/metamorph
 
-⭐ 20 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/yohanvillarp/metamorph) · [官网](https://metamorph.nikelyh.tech/) · 个人维护
+⭐ 20 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/yohanvillarp/metamorph) · [官网](https://metamorph.nikelyh.tech/) · 个人维护
 
 **多 Agent 编排的代码/框架自动迁移 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yohanvillarp/metamorph 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-23", "2026-11-01"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-23 20 → 2026-10-31 20（+0）
+2026-10-23 20 → 2026-11-01 20（+0）
 
 
 ---

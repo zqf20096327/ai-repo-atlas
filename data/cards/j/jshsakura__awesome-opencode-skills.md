@@ -1,6 +1,6 @@
 # jshsakura/awesome-opencode-skills
 
-⭐ 30 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/jshsakura/awesome-opencode-skills) · [官网](https://github.com/VoltAgent/awesome-codex-subagents) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/jshsakura/awesome-opencode-skills) · [官网](https://github.com/VoltAgent/awesome-codex-subagents) · 个人维护
 
 **面向 OpenCode 的 175+ Codex 子代理技能移植清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jshsakura/awesome-opencode-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-31 30（+0）
+2026-10-18 30 → 2026-11-01 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # aa1143/NamiAgent
 
-⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aa1143/NamiAgent) · [官网](https://namiai.tech/agent/) · 个人维护 · 中文 README
+⭐ 86 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aa1143/NamiAgent) · [官网](https://namiai.tech/agent/) · 个人维护 · 中文 README
 
 **零基础 AI Agent 教程：11 课可运行代码 + 本地网页端可视化**
 
@@ -40,6 +40,18 @@
 
 > L5: **零基础入门 AI Agent 的基础教程**
 > L26: **它是教程**：从 100 行的最小循环开始，一课加一个能力：工具、权限、上下文管理、Skills、MCP、子 Agent、计划、记忆。最后拆解 Claude Code、Codex 等主流 Agent 是怎么做的。内容是我自己一
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aa1143/NamiAgent 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 16 --> 92
+    line [22, 86]
+```
+
+2026-10-31 22 → 2026-11-01 86（+64）
 
 
 ---

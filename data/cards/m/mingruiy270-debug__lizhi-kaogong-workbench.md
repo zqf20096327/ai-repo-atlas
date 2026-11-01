@@ -1,6 +1,6 @@
 # mingruiy270-debug/lizhi-kaogong-workbench
 
-⭐ 13 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/mingruiy270-debug/lizhi-kaogong-workbench) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/mingruiy270-debug/lizhi-kaogong-workbench) · 个人维护 · 中文 README
 
 **本地优先的公考学习工作台，可选接入云端或本地 AI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mingruiy270-debug/lizhi-kaogong-workbench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
     y-axis "stars" 9 --> 14
-    line [10, 12, 13, 13]
+    line [10, 12, 13, 12]
 ```
 
-2026-10-18 10 → 2026-10-31 13（+3）
+2026-10-18 10 → 2026-11-01 12（+2）
 
 
 ---

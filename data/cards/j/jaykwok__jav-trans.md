@@ -1,6 +1,6 @@
 # jaykwok/jav-trans
 
-⭐ 38 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/jaykwok/jav-trans) · [官网](https://github.com/jaykwok/jav-trans/releases/latest) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/jaykwok/jav-trans) · [官网](https://github.com/jaykwok/jav-trans/releases/latest) · 个人维护 · 中文 README
 
 **Windows 用户为日语视频本地生成日中双语 SRT 字幕**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jaykwok/jav-trans 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 32 --> 39
-    line [33, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 32 --> 40
+    line [33, 36, 37, 38, 39]
 ```
 
-2026-10-18 33 → 2026-10-31 38（+5）
+2026-10-18 33 → 2026-11-01 39（+6）
 
 
 ---

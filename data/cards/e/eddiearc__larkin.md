@@ -40,6 +40,18 @@ Larkin 是运行在用户本机的 Runtime Host，将外部安装的 Codex、Cla
 > L5: Larkin is a local Runtime Host that connects Codex, Claude Code, and Pi agent runtimes to Feishu (Lark). It keeps se
 > L69: During setup, choose one of the three externally installed runtimes: Pi (`pi`), Codex (`codex`), or Claude Code (`c
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eddiearc/larkin 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 113 --> 115
+    line [114, 114]
+```
+
+2026-10-31 114 → 2026-11-01 114（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `9885b2ad1b7c` · [字段定义](../../DATASET.md)*

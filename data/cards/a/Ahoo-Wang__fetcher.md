@@ -1,6 +1,6 @@
 # Ahoo-Wang/fetcher
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Ahoo-Wang/fetcher) · [官网](https://fetcher.ahoo.me/) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Ahoo-Wang/fetcher) · [官网](https://fetcher.ahoo.me/) · 个人维护 · 中文 README
 
 **面向 TS 开发者的 HTTP 客户端生态，含 OpenAI 流式支持**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ahoo-Wang/fetcher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

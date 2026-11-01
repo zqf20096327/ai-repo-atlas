@@ -1,6 +1,6 @@
 # hsuanshao/AgentMemory
 
-⭐ 39 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/hsuanshao/AgentMemory) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管的团队级 AI agent 长期记忆服务**
 
@@ -11,7 +11,7 @@ Rust 编写的自托管记忆服务：为 Claude Code、Codex、Antigravity、He
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

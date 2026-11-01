@@ -1,6 +1,6 @@
 # cmekik/pyClarion
 
-⭐ 68 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/cmekik/pyClarion) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/cmekik/pyClarion) · 个人维护
 
 **Clarion 认知架构的实验性 Python 实现库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "cmekik/pyClarion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-10-31 68（+0）
+2026-10-18 68 → 2026-11-01 69（+1）
 
 
 ---

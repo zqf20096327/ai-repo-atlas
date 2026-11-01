@@ -1,6 +1,6 @@
 # momaek/tolato
 
-⭐ 21 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/momaek/tolato) · 个人维护 · 中文 README
+⭐ 21 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/momaek/tolato) · 个人维护 · 中文 README
 
 **让已有 AI agent 用自然语言管理服务器机群的自托管平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "momaek/tolato 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-31 21（+1）
+2026-10-18 20 → 2026-11-01 21（+1）
 
 
 ---

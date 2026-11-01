@@ -1,6 +1,6 @@
 # MerkyorLynn/Lynn
 
-⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/MerkyorLynn/Lynn) · [官网](https://download.merkyorlynn.com/download.html) · 个人维护 · 中文 README
+⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/MerkyorLynn/Lynn) · [官网](https://download.merkyorlynn.com/download.html) · 个人维护 · 中文 README
 
 **开源桌面 AI Agent 与 CLI：对话任务、实时语音、本地模型**
 
@@ -46,12 +46,12 @@ Lynn 是同时提供 Electron 桌面 GUI 与独立 CLI 的开源 AI Agent，面�
 ```mermaid
 xychart-beta
     title "MerkyorLynn/Lynn 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
     y-axis "stars" 59 --> 66
     line [60, 61, 63, 62, 63, 64, 65, 65]
 ```
 
-2026-10-18 60 → 2026-10-31 65（+5）
+2026-10-18 60 → 2026-11-01 65（+5）
 
 
 ---

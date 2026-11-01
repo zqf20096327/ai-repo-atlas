@@ -1,6 +1,6 @@
 # raghavpillai/openteam
 
-⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/raghavpillai/openteam) · [官网](https://openteam.so) · 组织维护
+⭐ 25 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/raghavpillai/openteam) · [官网](https://openteam.so) · 组织维护
 
 **自托管多 AI 代理：带持久记忆、浏览器与电脑访问及定时任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raghavpillai/openteam 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 11 --> 24
-    line [12, 19, 21, 22, 21, 23]
+    title "raghavpillai/openteam 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 11 --> 26
+    line [12, 19, 21, 22, 21, 23, 25]
 ```
 
-2026-10-19 12 → 2026-10-31 23（+11）
+2026-10-19 12 → 2026-11-01 25（+13）
 
 
 ---

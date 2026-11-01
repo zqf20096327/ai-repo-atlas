@@ -1,6 +1,6 @@
 # krillclaw/KrillClaw
 
-⭐ 195 · Zig · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/krillclaw/KrillClaw) · [官网](https://krillclaw.com) · 个人维护
+⭐ 194 · Zig · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/krillclaw/KrillClaw) · [官网](https://krillclaw.com) · 个人维护
 
 **Zig 编写的微型 AI agent 运行时，可跑在微控制器上**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "krillclaw/KrillClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 193 --> 196
-    line [194, 195, 195]
+    line [194, 195, 194]
 ```
 
-2026-10-18 194 → 2026-10-31 195（+1）
+2026-10-18 194 → 2026-11-01 194（+0）
 
 
 ---

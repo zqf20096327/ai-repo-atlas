@@ -1,6 +1,6 @@
 # shivnathtathe/opensmith
 
-⭐ 29 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/shivnathtathe/opensmith) · [官网](https://shivnathtathe.com) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/shivnathtathe/opensmith) · [官网](https://shivnathtathe.com) · 个人维护
 
 **本地优先的 LLM 追踪观测工具：LangSmith 的开源替代**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shivnathtathe/opensmith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 28 --> 31
-    line [30, 29, 29]
+    line [30, 29, 30]
 ```
 
-2026-10-18 30 → 2026-10-31 29（-1）
+2026-10-18 30 → 2026-11-01 30（+0）
 
 
 ---

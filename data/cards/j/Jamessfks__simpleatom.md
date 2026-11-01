@@ -1,6 +1,6 @@
 # Jamessfks/simpleatom
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Jamessfks/simpleatom) · [官网](simpleatom.app) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Jamessfks/simpleatom) · [官网](simpleatom.app) · 个人维护
 
 **在浏览器中运行 MACE 机器学习势的原子模拟网页界面**
 
@@ -46,12 +46,12 @@ SimpleAtom 是 MACE（Message Passing Atomic Cluster Expansion）机器学习原
 ```mermaid
 xychart-beta
     title "Jamessfks/simpleatom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 17（+0）
 
 
 ---

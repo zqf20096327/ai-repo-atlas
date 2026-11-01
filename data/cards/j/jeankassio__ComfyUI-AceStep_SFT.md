@@ -1,6 +1,6 @@
 # jeankassio/ComfyUI-AceStep_SFT
 
-⭐ 64 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jeankassio/ComfyUI-AceStep_SFT) · [官网](https://somora.media) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jeankassio/ComfyUI-AceStep_SFT) · [官网](https://somora.media) · 个人维护
 
 **ComfyUI 节点套件：运行 AceStep 1.5 SFT 音乐生成模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jeankassio/ComfyUI-AceStep_SFT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 60 --> 65
-    line [61, 62, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 60 --> 66
+    line [61, 62, 63, 64, 65]
 ```
 
-2026-10-18 61 → 2026-10-31 64（+3）
+2026-10-18 61 → 2026-11-01 65（+4）
 
 
 ---

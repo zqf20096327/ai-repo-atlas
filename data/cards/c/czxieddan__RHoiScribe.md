@@ -1,6 +1,6 @@
 # czxieddan/RHoiScribe
 
-⭐ 26 · Rust · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/czxieddan/RHoiScribe) · 个人维护 · 中文 README
+⭐ 27 · Rust · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/czxieddan/RHoiScribe) · 个人维护 · 中文 README
 
 **面向 HOI4 模组 agent 的本地 MCP 服务器与 SKILL 包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "czxieddan/RHoiScribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 23 --> 27
-    line [24, 26, 26]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 23 --> 28
+    line [24, 26, 27]
 ```
 
-2026-10-18 24 → 2026-10-31 26（+2）
+2026-10-18 24 → 2026-11-01 27（+3）
 
 
 ---

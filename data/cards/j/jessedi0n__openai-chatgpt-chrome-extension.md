@@ -1,6 +1,6 @@
 # jessedi0n/openai-chatgpt-chrome-extension
 
-⭐ 71 · JavaScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/jessedi0n/openai-chatgpt-chrome-extension) · 个人维护
+⭐ 70 · JavaScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/jessedi0n/openai-chatgpt-chrome-extension) · 个人维护
 
 **浏览器工具栏弹出窗口中调用 OpenAI 聊天与图像生成的 Chrome 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jessedi0n/openai-chatgpt-chrome-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 69 --> 72
+    line [71, 70]
 ```
 
-2026-10-18 71 → 2026-10-31 71（+0）
+2026-10-18 71 → 2026-11-01 70（-1）
 
 
 ---

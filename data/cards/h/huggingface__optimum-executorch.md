@@ -45,13 +45,13 @@ Hugging Face 官方维护的模型导出与部署工具：将 Transformers 模�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-executorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "huggingface/optimum-executorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 140 --> 143
-    line [142, 141]
+    line [142, 141, 141]
 ```
 
-2026-10-18 142 → 2026-10-31 141（-1）
+2026-10-18 142 → 2026-11-01 141（-1）
 
 
 ---

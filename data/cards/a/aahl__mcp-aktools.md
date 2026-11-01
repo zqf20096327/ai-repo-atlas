@@ -1,6 +1,6 @@
 # aahl/mcp-aktools
 
-⭐ 391 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/aahl/mcp-aktools) · 个人维护 · 中文 README
+⭐ 392 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/aahl/mcp-aktools) · 个人维护 · 中文 README
 
 **基于 akshare 的股票与加密货币数据查询 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aahl/mcp-aktools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 390 --> 392
-    line [391, 391]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 390 --> 393
+    line [391, 392]
 ```
 
-2026-10-18 391 → 2026-10-31 391（+0）
+2026-10-18 391 → 2026-11-01 392（+1）
 
 
 ---

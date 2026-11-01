@@ -1,6 +1,6 @@
 # wangyuahn/nori-code
 
-⭐ 19 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/wangyuahn/nori-code) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/wangyuahn/nori-code) · 个人维护 · 中文 README
 
 **面向持久多 agent 团队的编码助手（CLI/TUI + Electron 桌面）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wangyuahn/nori-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 19（+0）
 
 
 ---

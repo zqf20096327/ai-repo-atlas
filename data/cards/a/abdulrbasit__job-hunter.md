@@ -1,6 +1,6 @@
 # abdulrbasit/job-hunter
 
-⭐ 26 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/abdulrbasit/job-hunter) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 自动化求职工具：抓取职位、评分匹配、定制简历与求职信**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # cplj/axiocairn-mcp
 
-⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cplj/axiocairn-mcp) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cplj/axiocairn-mcp) · 组织维护
 
 **托管 MCP 服务器：向 AI 代理提供市场简报与股票模型评估报告**
 
@@ -44,13 +44,13 @@ Axiocairn 运营的托管 MCP 服务器（https://axiocairn.com/mcp），让 Cla
 
 ```mermaid
 xychart-beta
-    title "cplj/axiocairn-mcp 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 9 --> 23
-    line [10, 14, 22]
+    title "cplj/axiocairn-mcp 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 9 --> 27
+    line [10, 14, 22, 26]
 ```
 
-2026-10-29 10 → 2026-10-31 22（+12）
+2026-10-29 10 → 2026-11-01 26（+16）
 
 
 ---

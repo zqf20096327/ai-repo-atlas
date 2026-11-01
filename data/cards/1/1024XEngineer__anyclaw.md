@@ -1,6 +1,6 @@
 # 1024XEngineer/anyclaw
 
-⭐ 15 · Go · 推送 2026-05-13 · [GitHub](https://github.com/1024XEngineer/anyclaw) · 组织维护 · 中文 README
+⭐ 16 · Go · 推送 2026-05-13 · [GitHub](https://github.com/1024XEngineer/anyclaw) · 组织维护 · 中文 README
 
 **本地优先的 AI Agent 工作台：CLI、网关与 Web 控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1024XEngineer/anyclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 16（+1）
 
 
 ---

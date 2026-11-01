@@ -1,6 +1,6 @@
 # wulawulu/learn-claude-code-rs
 
-⭐ 153 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wulawulu/learn-claude-code-rs) · 个人维护 · 中文 README
+⭐ 154 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wulawulu/learn-claude-code-rs) · 个人维护 · 中文 README
 
 **Rust 编写的渐进式 AI Agent Harness 教程（21 章 + 完整版）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wulawulu/learn-claude-code-rs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 143 --> 154
-    line [144, 146, 148, 149, 152, 153]
+    title "wulawulu/learn-claude-code-rs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 143 --> 155
+    line [144, 146, 148, 149, 152, 153, 154]
 ```
 
-2026-10-18 144 → 2026-10-31 153（+9）
+2026-10-18 144 → 2026-11-01 154（+10）
 
 
 ---

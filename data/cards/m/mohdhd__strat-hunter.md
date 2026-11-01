@@ -1,6 +1,6 @@
 # mohdhd/strat-hunter
 
-⭐ 18 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/mohdhd/strat-hunter) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/mohdhd/strat-hunter) · 个人维护
 
 **自托管仪表盘：用 AI 编程助手研究并回测交易策略**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohdhd/strat-hunter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-31 18（+0）
+2026-10-18 18 → 2026-11-01 19（+1）
 
 
 ---

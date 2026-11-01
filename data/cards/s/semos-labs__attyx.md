@@ -1,6 +1,6 @@
 # semos-labs/attyx
 
-⭐ 245 · Zig · MIT · 推送 2026-08-11 · [GitHub](https://github.com/semos-labs/attyx) · [官网](https://attyx.sh) · 组织维护
+⭐ 244 · Zig · MIT · 推送 2026-08-11 · [GitHub](https://github.com/semos-labs/attyx) · [官网](https://attyx.sh) · 组织维护
 
 **面向 AI agent 工作流的 GPU 加速终端模拟器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "semos-labs/attyx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 243 --> 246
-    line [244, 245, 245]
+    line [244, 245, 244]
 ```
 
-2026-10-18 244 → 2026-10-31 245（+1）
+2026-10-18 244 → 2026-11-01 244（+0）
 
 
 ---

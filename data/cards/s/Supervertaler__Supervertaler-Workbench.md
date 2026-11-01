@@ -1,6 +1,6 @@
 # Supervertaler/Supervertaler-Workbench
 
-⭐ 59 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Supervertaler/Supervertaler-Workbench) · [官网](https://supervertaler.com/) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Supervertaler/Supervertaler-Workbench) · [官网](https://supervertaler.com/) · 个人维护 · 中文 README
 
 **开源独立 CAT 工具：翻译编辑器加多 LLM 辅助翻译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Supervertaler/Supervertaler-Workbench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 60]
 ```
 
-2026-10-18 58 → 2026-10-31 59（+1）
+2026-10-18 58 → 2026-11-01 60（+2）
 
 
 ---

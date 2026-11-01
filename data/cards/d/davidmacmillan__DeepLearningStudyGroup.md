@@ -1,6 +1,6 @@
 # davidmacmillan/DeepLearningStudyGroup
 
-⭐ 42 · 推送 2026-10-28 · [GitHub](https://github.com/davidmacmillan/DeepLearningStudyGroup) · 个人维护
+⭐ 43 · 推送 2026-10-28 · [GitHub](https://github.com/davidmacmillan/DeepLearningStudyGroup) · 个人维护
 
 **深度学习研读会的每周论文清单与讨论资料归档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "davidmacmillan/DeepLearningStudyGroup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-10-31 42（+1）
+2026-10-18 41 → 2026-11-01 43（+2）
 
 
 ---

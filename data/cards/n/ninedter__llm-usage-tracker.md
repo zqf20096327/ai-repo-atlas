@@ -1,6 +1,6 @@
 # ninedter/llm-usage-tracker
 
-⭐ 19 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/ninedter/llm-usage-tracker) · 个人维护
+⭐ 19 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/ninedter/llm-usage-tracker) · 个人维护
 
 **监测 Claude/OpenAI 订阅配额并追踪 agent 会话的自托管仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ninedter/llm-usage-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 19（+0）
 
 
 ---

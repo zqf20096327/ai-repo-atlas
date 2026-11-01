@@ -1,6 +1,6 @@
 # jdnichollsc/seam
 
-⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jdnichollsc/seam) · [官网](https://jdnichollsc.github.io/seam/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/jdnichollsc/seam) · [官网](https://jdnichollsc.github.io/seam/) · 个人维护
 
 **本地 GPU 视频转场生成器：两图/两片段/3D 模型生成 AI 过渡**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jdnichollsc/seam 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2 --> 16
-    line [3, 4, 15]
+    title "jdnichollsc/seam 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2 --> 19
+    line [3, 4, 15, 18]
 ```
 
-2026-10-29 3 → 2026-10-31 15（+12）
+2026-10-29 3 → 2026-11-01 18（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # YoongiKim/AutoCrawler
 
-⭐ 1,698 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/YoongiKim/AutoCrawler) · 个人维护
+⭐ 1,699 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/YoongiKim/AutoCrawler) · 个人维护
 
 **Google/Naver 多进程图片爬虫，用于构建图像数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YoongiKim/AutoCrawler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 1693 --> 1699
-    line [1694, 1696, 1698, 1698]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 1693 --> 1700
+    line [1694, 1696, 1698, 1699]
 ```
 
-2026-10-18 1,694 → 2026-10-31 1,698（+4）
+2026-10-18 1,694 → 2026-11-01 1,699（+5）
 
 
 ---

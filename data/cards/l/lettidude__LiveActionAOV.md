@@ -1,6 +1,6 @@
 # lettidude/LiveActionAOV
 
-⭐ 57 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/lettidude/LiveActionAOV) · [官网](https://youtu.be/HnosSnK1MKs) · 个人维护
+⭐ 57 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/lettidude/LiveActionAOV) · [官网](https://youtu.be/HnosSnK1MKs) · 个人维护
 
 **为实拍 VFX 镜头生成深度/法线/运动/遮罩 AOV 的 AI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lettidude/LiveActionAOV 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "lettidude/LiveActionAOV 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 54 --> 58
-    line [55, 57]
+    line [55, 57, 57]
 ```
 
-2026-10-18 55 → 2026-10-31 57（+2）
+2026-10-18 55 → 2026-11-01 57（+2）
 
 
 ---

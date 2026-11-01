@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamalexkorotin/NeuralOptimalTransport 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    title "iamalexkorotin/NeuralOptimalTransport 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 238 --> 241
-    line [239, 240, 239]
+    line [239, 240, 239, 239]
 ```
 
-2026-10-18 239 → 2026-10-31 239（+0）
+2026-10-18 239 → 2026-11-01 239（+0）
 
 
 ---

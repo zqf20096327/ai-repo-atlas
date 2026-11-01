@@ -1,6 +1,6 @@
 # ericmjl/llamabot
 
-⭐ 183 · Python · 推送 2026-10-27 · [GitHub](https://github.com/ericmjl/llamabot) · [官网](https://ericmjl.github.io/llamabot/) · 个人维护
+⭐ 183 · Python · 推送 2026-10-31 · [GitHub](https://github.com/ericmjl/llamabot) · [官网](https://ericmjl.github.io/llamabot/) · 个人维护
 
 **Python 类式 LLM 接口库：在代码/Jupyter 中便捷调用各类模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ericmjl/llamabot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 182 --> 184
     line [183, 183]
 ```
 
-2026-10-18 183 → 2026-10-31 183（+0）
+2026-10-18 183 → 2026-11-01 183（+0）
 
 
 ---

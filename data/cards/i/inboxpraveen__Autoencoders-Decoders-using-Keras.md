@@ -40,6 +40,18 @@
 > L11: Three image autoencoders in TensorFlow and Keras (a linear PCA-style model, a deep convolutional model and a denois
 > L24: - **Image retrieval**: encodes a set of images once and finds the nearest neighbours of any query in code space wit
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "inboxpraveen/Autoencoders-Decoders-using-Keras 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-10-31 20 → 2026-11-01 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `b466783928b3` · [字段定义](../../DATASET.md)*

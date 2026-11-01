@@ -1,6 +1,6 @@
 # SciSharp/Gym.NET
 
-⭐ 141 · C# · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/SciSharp/Gym.NET) · 组织维护
+⭐ 140 · C# · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/SciSharp/Gym.NET) · 组织维护
 
 **OpenAI Gym 的 C# 移植版：强化学习算法开发与对比工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SciSharp/Gym.NET 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 139 --> 142
+    line [141, 140]
 ```
 
-2026-10-18 141 → 2026-10-31 141（+0）
+2026-10-18 141 → 2026-11-01 140（-1）
 
 
 ---

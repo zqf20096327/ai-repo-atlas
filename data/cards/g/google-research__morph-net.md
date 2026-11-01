@@ -1,6 +1,6 @@
 # google-research/morph-net
 
-⭐ 1,042 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-research/morph-net) · 组织维护
+⭐ 1,043 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-research/morph-net) · 组织维护
 
 **训练期学习深度网络结构的正则化剪枝框架**
 
@@ -45,12 +45,12 @@ Google Research 开源的神经网络结构学习方法：在训练过程中对�
 ```mermaid
 xychart-beta
     title "google-research/morph-net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1041 --> 1043
-    line [1042, 1042]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1041 --> 1044
+    line [1042, 1043]
 ```
 
-2026-10-18 1,042 → 2026-10-31 1,042（+0）
+2026-10-18 1,042 → 2026-11-01 1,043（+1）
 
 
 ---

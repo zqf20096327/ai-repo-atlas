@@ -1,6 +1,6 @@
 # lgarciamarrero92/ha-nilm
 
-⭐ 59 · HTML · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/lgarciamarrero92/ha-nilm) · [官网](https://ha-nilm.bigwicho.com/) · 个人维护
+⭐ 61 · HTML · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/lgarciamarrero92/ha-nilm) · [官网](https://ha-nilm.bigwicho.com/) · 个人维护
 
 **Home Assistant 本地 NILM：从总电表推测各电器活动与能耗**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lgarciamarrero92/ha-nilm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 53 --> 60
-    line [54, 55, 56, 57, 58, 59]
+    title "lgarciamarrero92/ha-nilm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 53 --> 62
+    line [54, 55, 56, 57, 58, 59, 61]
 ```
 
-2026-10-18 54 → 2026-10-31 59（+5）
+2026-10-18 54 → 2026-11-01 61（+7）
 
 
 ---

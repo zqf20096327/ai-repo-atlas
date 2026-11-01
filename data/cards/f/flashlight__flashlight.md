@@ -1,6 +1,6 @@
 # flashlight/flashlight
 
-⭐ 5,479 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/flashlight/flashlight) · [官网](https://fl.readthedocs.io/en/latest/) · 组织维护
+⭐ 5,478 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/flashlight/flashlight) · [官网](https://fl.readthedocs.io/en/latest/) · 组织维护
 
 **纯 C++ 机器学习库，供研究者构建与训练神经网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "flashlight/flashlight 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-01"]
     y-axis "stars" 5476 --> 5481
-    line [5477, 5479, 5480, 5479, 5479]
+    line [5477, 5479, 5480, 5479, 5478]
 ```
 
-2026-10-18 5,477 → 2026-10-31 5,479（+2）
+2026-10-18 5,477 → 2026-11-01 5,478（+1）
 
 
 ---

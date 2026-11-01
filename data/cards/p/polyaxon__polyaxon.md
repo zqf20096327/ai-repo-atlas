@@ -1,6 +1,6 @@
 # polyaxon/polyaxon
 
-⭐ 3,747 · MDX · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/polyaxon/polyaxon) · [官网](https://polyaxon.com) · 组织维护
+⭐ 3,747 · MDX · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/polyaxon/polyaxon) · [官网](https://polyaxon.com) · 组织维护
 
 **深度学习实验平台：可复现、自动化与扩展训练监控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "polyaxon/polyaxon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
+    title "polyaxon/polyaxon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 3745 --> 3749
-    line [3746, 3748, 3746, 3747]
+    line [3746, 3748, 3746, 3747, 3747]
 ```
 
-2026-10-18 3,746 → 2026-10-31 3,747（+1）
+2026-10-18 3,746 → 2026-11-01 3,747（+1）
 
 
 ---

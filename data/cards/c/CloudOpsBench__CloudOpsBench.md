@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CloudOpsBench/CloudOpsBench 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-31"]
+    title "CloudOpsBench/CloudOpsBench 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-01"]
     y-axis "stars" 8 --> 21
-    line [9, 20]
+    line [9, 20, 20]
 ```
 
-2026-10-26 9 → 2026-10-31 20（+11）
+2026-10-26 9 → 2026-11-01 20（+11）
 
 
 ---

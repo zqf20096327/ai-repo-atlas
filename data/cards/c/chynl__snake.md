@@ -1,6 +1,6 @@
 # chynl/snake
 
-⭐ 1,796 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/chynl/snake) · 个人维护
+⭐ 1,795 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/chynl/snake) · 个人维护
 
 **用图搜索与深度强化学习两种算法自动玩贪吃蛇**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chynl/snake 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 1795 --> 1798
-    line [1796, 1797, 1796]
+    title "chynl/snake 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1794 --> 1798
+    line [1796, 1797, 1796, 1795]
 ```
 
-2026-10-18 1,796 → 2026-10-31 1,796（+0）
+2026-10-18 1,796 → 2026-11-01 1,795（-1）
 
 
 ---

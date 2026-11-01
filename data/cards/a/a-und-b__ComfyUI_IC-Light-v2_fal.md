@@ -1,6 +1,6 @@
 # a-und-b/ComfyUI_IC-Light-v2_fal
 
-⭐ 44 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/a-und-b/ComfyUI_IC-Light-v2_fal) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/a-und-b/ComfyUI_IC-Light-v2_fal) · 个人维护
 
 **ComfyUI 节点：经 fal.ai API 调用 IC-Light V2 做图像重打光换背景**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "a-und-b/ComfyUI_IC-Light-v2_fal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-31 44（+0）
+2026-10-18 44 → 2026-11-01 45（+1）
 
 
 ---

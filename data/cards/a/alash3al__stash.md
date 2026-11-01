@@ -1,6 +1,6 @@
 # alash3al/stash
 
-⭐ 770 · Go · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/alash3al/stash) · [官网](https://usestash.io/) · 个人维护
+⭐ 771 · Go · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/alash3al/stash) · [官网](https://usestash.io/) · 个人维护
 
 **面向 AI agent 的持久记忆层：Postgres 存储会话、事实与上下文**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "alash3al/stash 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01"]
     y-axis "stars" 768 --> 772
-    line [769, 770, 771, 770, 770]
+    line [769, 770, 771, 770, 771]
 ```
 
-2026-10-18 769 → 2026-10-31 770（+1）
+2026-10-18 769 → 2026-11-01 771（+2）
 
 
 ---

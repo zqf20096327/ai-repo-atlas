@@ -1,6 +1,6 @@
 # KabakaWilliam/trajectorykit
 
-⭐ 14 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/KabakaWilliam/trajectorykit) · [官网](https://pypi.org/project/trajectorykit/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/KabakaWilliam/trajectorykit) · [官网](https://pypi.org/project/trajectorykit/) · 个人维护
 
 **本地运行的深度研究 agent 框架，产出带溯源的研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KabakaWilliam/trajectorykit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

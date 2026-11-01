@@ -1,6 +1,6 @@
 # mytechnotalent/python_zero_to_hero
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-01-19 · [GitHub](https://github.com/mytechnotalent/python_zero_to_hero) · 个人维护
+⭐ 18 · Jupyter Notebook · MIT · 推送 2026-01-19 · [GitHub](https://github.com/mytechnotalent/python_zero_to_hero) · 个人维护
 
 **面向初学者的 Python 与神经网络入门教程（含 PyTorch 与 GPT）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mytechnotalent/python_zero_to_hero 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 17, 18]
 ```
 
-2026-10-18 14 → 2026-10-31 17（+3）
+2026-10-18 14 → 2026-11-01 18（+4）
 
 
 ---

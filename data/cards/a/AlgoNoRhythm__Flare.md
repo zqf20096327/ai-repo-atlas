@@ -1,6 +1,6 @@
 # AlgoNoRhythm/Flare
 
-⭐ 310 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/AlgoNoRhythm/Flare) · 个人维护
+⭐ 309 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/AlgoNoRhythm/Flare) · 个人维护
 
 **给开发者的图结构 agentic 编程 IDE，多 agent 协作看板与沟通频道**
 
@@ -46,12 +46,12 @@ Flare 是以代码依赖图为主界面的桌面/浏览器 IDE：每个文件为
 ```mermaid
 xychart-beta
     title "AlgoNoRhythm/Flare 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 309 --> 311
-    line [310, 310]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 308 --> 311
+    line [310, 309]
 ```
 
-2026-10-18 310 → 2026-10-31 310（+0）
+2026-10-18 310 → 2026-11-01 309（-1）
 
 
 ---

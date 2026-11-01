@@ -1,6 +1,6 @@
 # MoShouSecurity/Easy_Analyzer
 
-⭐ 18 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/MoShouSecurity/Easy_Analyzer) · 组织维护 · 中文 README
+⭐ 19 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/MoShouSecurity/Easy_Analyzer) · 组织维护 · 中文 README
 
 **Rust 跨平台应急响应取证分析工具，CLI+GUI，AI 可选辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MoShouSecurity/Easy_Analyzer 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 10 --> 19
-    line [11, 13, 15, 17, 18, 18]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 10 --> 20
+    line [11, 13, 15, 17, 18, 19]
 ```
 
-2026-10-22 11 → 2026-10-31 18（+7）
+2026-10-22 11 → 2026-11-01 19（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # avifenesh/claucode.nvim
 
-⭐ 24 · Lua · MIT · 推送 2026-10-22 · [GitHub](https://github.com/avifenesh/claucode.nvim) · 个人维护
+⭐ 24 · Lua · MIT · 推送 2026-10-31 · [GitHub](https://github.com/avifenesh/claucode.nvim) · 个人维护
 
 **连接 Neovim 与 Claude Code CLI 的桥接插件**
 
@@ -46,12 +46,12 @@ Neovim 插件，自身不实现 AI，而是调用已安装的 Claude Code CLI：
 ```mermaid
 xychart-beta
     title "avifenesh/claucode.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-31 24（+0）
+2026-10-18 24 → 2026-11-01 24（+0）
 
 
 ---

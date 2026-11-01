@@ -1,6 +1,6 @@
 # swarnimarun/coreml-rs
 
-⭐ 16 · Rust · MIT · 推送 2026-05-20 · [GitHub](https://github.com/swarnimarun/coreml-rs) · [官网](https://crates.io/crates/coreml-rs) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/swarnimarun/coreml-rs) · [官网](https://crates.io/crates/coreml-rs) · 个人维护
 
 **Apple Core ML 的 Rust 绑定库：加载模型并在 CPU/GPU/ANE 上推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "swarnimarun/coreml-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 16（+0）
 
 
 ---

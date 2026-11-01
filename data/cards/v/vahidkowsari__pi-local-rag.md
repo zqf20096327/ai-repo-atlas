@@ -1,6 +1,6 @@
 # vahidkowsari/pi-local-rag
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vahidkowsari/pi-local-rag) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/vahidkowsari/pi-local-rag) · 个人维护
 
 **Pi coding agent 的本地混合 RAG 扩展：索引本地文件供检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vahidkowsari/pi-local-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "vahidkowsari/pi-local-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-31 35（+1）
+2026-10-18 34 → 2026-11-01 35（+1）
 
 
 ---

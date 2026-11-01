@@ -1,6 +1,6 @@
 # stared/livelossplot
 
-⭐ 1,320 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/stared/livelossplot) · 个人维护
+⭐ 1,321 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/stared/livelossplot) · 个人维护
 
 **Jupyter Notebook 中实时绘制深度学习训练损失曲线的 Python 包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "stared/livelossplot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1319 --> 1321
-    line [1320, 1320]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1319 --> 1322
+    line [1320, 1321]
 ```
 
-2026-10-18 1,320 → 2026-10-31 1,320（+0）
+2026-10-18 1,320 → 2026-11-01 1,321（+1）
 
 
 ---

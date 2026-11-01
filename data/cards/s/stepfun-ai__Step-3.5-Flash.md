@@ -1,6 +1,6 @@
 # stepfun-ai/Step-3.5-Flash
 
-⭐ 2,089 · C++ · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/stepfun-ai/Step-3.5-Flash) · [官网](https://static.stepfun.com/blog/step-3.5-flash/) · 组织维护 · 中文 README
+⭐ 2,090 · C++ · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/stepfun-ai/Step-3.5-Flash) · [官网](https://static.stepfun.com/blog/step-3.5-flash/) · 组织维护 · 中文 README
 
 **196B 稀疏 MoE 开源基础模型，面向推理与 Agent 任务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "stepfun-ai/Step-3.5-Flash 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 2085 --> 2090
-    line [2088, 2087, 2086, 2087, 2088, 2089, 2089]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 2085 --> 2091
+    line [2088, 2087, 2086, 2087, 2088, 2089, 2090]
 ```
 
-2026-10-18 2,088 → 2026-10-31 2,089（+1）
+2026-10-18 2,088 → 2026-11-01 2,090（+2）
 
 
 ---

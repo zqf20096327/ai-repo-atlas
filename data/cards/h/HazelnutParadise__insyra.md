@@ -1,6 +1,6 @@
 # HazelnutParadise/insyra
 
-⭐ 59 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/HazelnutParadise/insyra) · [官网](https://insyra.hazelnut-paradise.com) · 个人维护 · 中文 README
+⭐ 59 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/HazelnutParadise/insyra) · [官网](https://insyra.hazelnut-paradise.com) · 个人维护 · 中文 README
 
 **Go 语言数据分析生态库：数据处理、统计、机器学习与神经网络**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HazelnutParadise/insyra 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-31"]
+    title "HazelnutParadise/insyra 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 56 --> 60
-    line [57, 58, 59]
+    line [57, 58, 59, 59]
 ```
 
-2026-10-26 57 → 2026-10-31 59（+2）
+2026-10-26 57 → 2026-11-01 59（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # weauratech/pi-memctx
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/weauratech/pi-memctx) · [官网](https://weauratech.github.io/pi-memctx) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/weauratech/pi-memctx) · [官网](https://weauratech.github.io/pi-memctx) · 组织维护
 
 **给 Pi 编程代理的本地 Markdown 记忆层扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weauratech/pi-memctx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 21 --> 24
-    line [23, 22, 22]
+    line [23, 22, 23]
 ```
 
-2026-10-18 23 → 2026-10-31 22（-1）
+2026-10-18 23 → 2026-11-01 23（+0）
 
 
 ---

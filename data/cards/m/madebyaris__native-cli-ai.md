@@ -1,6 +1,6 @@
 # madebyaris/native-cli-ai
 
-⭐ 202 · Rust · 推送 2026-10-30 · [GitHub](https://github.com/madebyaris/native-cli-ai) · [官网](https://nca-cli.com) · 个人维护
+⭐ 204 · Rust · 推送 2026-10-31 · [GitHub](https://github.com/madebyaris/native-cli-ai) · [官网](https://nca-cli.com) · 个人维护
 
 **Rust 单二进制终端编码 agent：会话、子 agent 与编排一体**
 
@@ -44,13 +44,13 @@ Rust 编写的终端编码 agent，以单二进制分发，产品形态是 CLI/T
 
 ```mermaid
 xychart-beta
-    title "madebyaris/native-cli-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 197 --> 204
-    line [198, 199, 200, 201, 203, 202]
+    title "madebyaris/native-cli-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 197 --> 205
+    line [198, 199, 200, 201, 203, 202, 204]
 ```
 
-2026-10-18 198 → 2026-10-31 202（+4）
+2026-10-18 198 → 2026-11-01 204（+6）
 
 
 ---

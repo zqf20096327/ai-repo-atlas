@@ -1,6 +1,6 @@
 # stkoecn/im-mcp
 
-⭐ 73 · Python · 推送 2026-10-22 · [GitHub](https://github.com/stkoecn/im-mcp) · [官网](https://github.com/stkoecn/im-mcp) · 个人维护 · 中文 README
+⭐ 75 · Python · 推送 2026-10-22 · [GitHub](https://github.com/stkoecn/im-mcp) · [官网](https://github.com/stkoecn/im-mcp) · 个人维护 · 中文 README
 
 **本地只读 MCP Server：让 AI Agent 检索微信与钉钉聊天记录**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "stkoecn/im-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 9 --> 78
-    line [14, 37, 46, 58, 60, 64, 69, 72, 73]
+    title "stkoecn/im-mcp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 8 --> 81
+    line [14, 37, 46, 58, 60, 64, 69, 72, 73, 75]
 ```
 
-2026-10-18 14 → 2026-10-31 73（+59）
+2026-10-18 14 → 2026-11-01 75（+61）
 
 
 ---

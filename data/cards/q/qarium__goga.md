@@ -1,6 +1,6 @@
 # qarium/goga
 
-⭐ 43 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/qarium/goga) · 个人维护
+⭐ 43 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/qarium/goga) · 个人维护
 
 **面向开发者的 AI-SDLC 平台：以流水线编排 CLI 编码 agent**
 
@@ -46,12 +46,12 @@ Goga 将软件工程流程声明为可复用的流水线：以 YAML 定义 speci
 ```mermaid
 xychart-beta
     title "qarium/goga 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 42 --> 45
     line [44, 43, 43]
 ```
 
-2026-10-18 44 → 2026-10-31 43（-1）
+2026-10-18 44 → 2026-11-01 43（-1）
 
 
 ---

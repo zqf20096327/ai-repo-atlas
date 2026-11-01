@@ -1,6 +1,6 @@
 # kapillamba4/code-memory
 
-⭐ 49 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/kapillamba4/code-memory) · [官网](https://pypi.org/project/code-memory/) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/kapillamba4/code-memory) · [官网](https://pypi.org/project/code-memory/) · 个人维护
 
 **本地离线的代码库语义检索 MCP server，供 AI 编码助手调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kapillamba4/code-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-31 49（+0）
+2026-10-18 49 → 2026-11-01 50（+1）
 
 
 ---

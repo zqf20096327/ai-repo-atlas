@@ -1,6 +1,6 @@
 # littleCareless/dish-ai-commit
 
-⭐ 162 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/littleCareless/dish-ai-commit) · [官网](https://554659.me/dish-commit-docs) · 个人维护 · 中文 README
+⭐ 163 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/littleCareless/dish-ai-commit) · [官网](https://554659.me/dish-commit-docs) · 个人维护 · 中文 README
 
 **面向开发者的 VSCode 扩展：AI 生成标准化 Git/SVN 提交信息**
 
@@ -45,12 +45,12 @@ VSCode 扩展，读取代码变更生成符合 Conventional Commits 规范的 Gi
 ```mermaid
 xychart-beta
     title "littleCareless/dish-ai-commit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 160 --> 163
-    line [161, 162, 162]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 160 --> 164
+    line [161, 162, 163]
 ```
 
-2026-10-18 161 → 2026-10-31 162（+1）
+2026-10-18 161 → 2026-11-01 163（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DMCK96/azeroth-world-editor
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DMCK96/azeroth-world-editor) · [官网](https://dmck96.github.io/azeroth-world-editor/) · 个人维护
+⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DMCK96/azeroth-world-editor) · [官网](https://dmck96.github.io/azeroth-world-editor/) · 个人维护
 
 **AzerothCore 服务器的 3D 世界与任务编辑器，支持 MCP AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DMCK96/azeroth-world-editor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-10-31 16（+2）
+2026-10-18 14 → 2026-11-01 17（+3）
 
 
 ---

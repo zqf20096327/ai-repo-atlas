@@ -1,6 +1,6 @@
 # ruyynn/DDoSSCAN
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-03-31 · [GitHub](https://github.com/ruyynn/DDoSSCAN) · [官网](https://github.com/ruyynn/DDoSSCAN) · 个人维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-03-31 · [GitHub](https://github.com/ruyynn/DDoSSCAN) · [官网](https://github.com/ruyynn/DDoSSCAN) · 个人维护
 
 **面向授权测试的 Python 网络可用性与压力测试工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ruyynn/DDoSSCAN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dataforseo/mcp-server-typescript
 
-⭐ 255 · TypeScript · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/dataforseo/mcp-server-typescript) · [官网](http://dataforseo.com/) · 组织维护
+⭐ 256 · TypeScript · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/dataforseo/mcp-server-typescript) · [官网](http://dataforseo.com/) · 组织维护
 
 **供 LLM agent 查阅 DataForSEO 文档并发起 API 请求的 MCP 服务器/CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dataforseo/mcp-server-typescript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 253 --> 256
-    line [254, 255, 255]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 253 --> 257
+    line [254, 255, 256]
 ```
 
-2026-10-18 254 → 2026-10-31 255（+1）
+2026-10-18 254 → 2026-11-01 256（+2）
 
 
 ---

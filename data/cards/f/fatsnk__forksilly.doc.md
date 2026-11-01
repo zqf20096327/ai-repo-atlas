@@ -1,6 +1,6 @@
 # fatsnk/forksilly.doc
 
-⭐ 174 · Kotlin · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/fatsnk/forksilly.doc) · [官网](https://forksilly.qzz.io) · 个人维护 · 中文 README
+⭐ 174 · Kotlin · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/fatsnk/forksilly.doc) · [官网](https://forksilly.qzz.io) · 个人维护 · 中文 README
 
 **兼容酒馆角色卡的安卓 LLM 聊天前端，兼作 SD 文生图客户端**
 
@@ -45,12 +45,12 @@ React Native/Expo 编写的 Android 移动端应用，定位为 SillyTavern（�
 ```mermaid
 xychart-beta
     title "fatsnk/forksilly.doc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01"]
     y-axis "stars" 173 --> 176
     line [174, 175, 174, 174]
 ```
 
-2026-10-18 174 → 2026-10-31 174（+0）
+2026-10-18 174 → 2026-11-01 174（+0）
 
 
 ---

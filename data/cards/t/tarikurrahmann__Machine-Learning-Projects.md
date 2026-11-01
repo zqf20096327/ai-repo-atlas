@@ -1,6 +1,6 @@
 # tarikurrahmann/Machine-Learning-Projects
 
-⭐ 17 · HTML · 推送 2026-09-30 · [GitHub](https://github.com/tarikurrahmann/Machine-Learning-Projects) · 个人维护
+⭐ 17 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/tarikurrahmann/Machine-Learning-Projects) · 个人维护
 
 **26 个端到端机器学习项目合集，覆盖医疗、CV、NLP 等领域**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tarikurrahmann/Machine-Learning-Projects 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-29", "2026-11-01"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-29 17 → 2026-10-31 17（+0）
+2026-10-29 17 → 2026-11-01 17（+0）
 
 
 ---

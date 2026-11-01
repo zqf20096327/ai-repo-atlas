@@ -1,6 +1,6 @@
 # kumarshreshtha/protuna
 
-⭐ 36 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kumarshreshtha/protuna) · [官网](https://protuna.org) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kumarshreshtha/protuna) · [官网](https://protuna.org) · 个人维护
 
 **面向蛋白质工程的迭代优化框架：提出下一批待测变体**
 
@@ -40,6 +40,18 @@
 > L10: Protuna is an optimization framework for iterative protein engineering campaigns. Starting from historical mutagene
 > L14: - **Guided generation:** Steer protein language models towards your design objectives with reward-guided generation
 > L75: Selection is limited to the candidates proposed by the sampler. Protein language models provide a useful prior over
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kumarshreshtha/protuna 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 35 --> 42
+    line [36, 41]
+```
+
+2026-10-31 36 → 2026-11-01 41（+5）
 
 
 ---

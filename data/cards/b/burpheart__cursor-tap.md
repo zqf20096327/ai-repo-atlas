@@ -1,6 +1,6 @@
 # burpheart/cursor-tap
 
-⭐ 387 · Go · 推送 2026-03-15 · [GitHub](https://github.com/burpheart/cursor-tap) · 个人维护 · 中文 README
+⭐ 386 · Go · 推送 2026-03-15 · [GitHub](https://github.com/burpheart/cursor-tap) · 个人维护 · 中文 README
 
 **Cursor IDE gRPC 中间人流量分析工具，解密并实时展示 AI 对话 RPC**
 
@@ -45,12 +45,12 @@ Go 编写的 MITM 代理与 WebUI：在 Cursor 客户端与 api2.cursor.sh 之�
 ```mermaid
 xychart-beta
     title "burpheart/cursor-tap 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01"]
     y-axis "stars" 385 --> 389
-    line [386, 387, 388, 387, 387]
+    line [386, 387, 388, 387, 386]
 ```
 
-2026-10-18 386 → 2026-10-31 387（+1）
+2026-10-18 386 → 2026-11-01 386（+0）
 
 
 ---

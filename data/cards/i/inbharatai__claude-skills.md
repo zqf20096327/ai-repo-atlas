@@ -1,6 +1,6 @@
 # inbharatai/claude-skills
 
-⭐ 41 · Python · MIT · 推送 2026-03-14 · [GitHub](https://github.com/inbharatai/claude-skills) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-03-14 · [GitHub](https://github.com/inbharatai/claude-skills) · 个人维护
 
 **面向 Claude/Codex 的技能清单：183 个 SKILL.md 即插即用指令集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inbharatai/claude-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 37 --> 42
-    line [38, 39, 40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 37 --> 43
+    line [38, 39, 40, 41, 42]
 ```
 
-2026-10-18 38 → 2026-10-31 41（+3）
+2026-10-18 38 → 2026-11-01 42（+4）
 
 
 ---

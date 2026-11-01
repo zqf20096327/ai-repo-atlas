@@ -1,6 +1,6 @@
 # RuochenLyu/x2markdown
 
-⭐ 14 · JavaScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/RuochenLyu/x2markdown) · [官网](https://chromewebstore.google.com/detail/x2markdown/acljfllclafamkhdjjkldogcadfbigmo) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/RuochenLyu/x2markdown) · [官网](https://chromewebstore.google.com/detail/x2markdown/acljfllclafamkhdjjkldogcadfbigmo) · 个人维护 · 中文 README
 
 **一键把网页或 X 帖子转为干净 Markdown 的 Chrome 扩展**
 
@@ -46,12 +46,12 @@ Manifest V3 Chrome 扩展：在任意 http/https 页面右键即可复制为 Mar
 ```mermaid
 xychart-beta
     title "RuochenLyu/x2markdown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 15（+2）
 
 
 ---

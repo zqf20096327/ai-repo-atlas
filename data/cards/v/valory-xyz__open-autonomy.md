@@ -45,13 +45,13 @@ Open Autonomy 是用于创建链下自主 AI agent 的框架：agent 以多智�
 
 ```mermaid
 xychart-beta
-    title "valory-xyz/open-autonomy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    title "valory-xyz/open-autonomy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 129 --> 138
-    line [130, 135, 137]
+    line [130, 135, 137, 137]
 ```
 
-2026-10-18 130 → 2026-10-31 137（+7）
+2026-10-18 130 → 2026-11-01 137（+7）
 
 
 ---

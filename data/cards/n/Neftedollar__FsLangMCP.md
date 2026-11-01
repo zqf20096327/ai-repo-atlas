@@ -1,6 +1,6 @@
 # Neftedollar/FsLangMCP
 
-⭐ 33 · F# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Neftedollar/FsLangMCP) · 个人维护
+⭐ 33 · F# · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Neftedollar/FsLangMCP) · 个人维护
 
 **给 AI 编程 Agent 的 F# 语义工具 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Neftedollar/FsLangMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-31 33（+1）
+2026-10-18 32 → 2026-11-01 33（+1）
 
 
 ---

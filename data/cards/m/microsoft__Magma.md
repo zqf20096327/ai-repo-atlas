@@ -1,6 +1,6 @@
 # microsoft/Magma
 
-⭐ 1,950 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/microsoft/Magma) · 组织维护
+⭐ 1,951 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/microsoft/Magma) · 组织维护
 
 **多模态 AI Agent 基础模型：图像视频理解与目标驱动动作生成**
 
@@ -46,12 +46,12 @@ Microsoft Research 等机构发布的 CVPR 2025 论文配套模型与代码库�
 ```mermaid
 xychart-beta
     title "microsoft/Magma 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
-    y-axis "stars" 1946 --> 1951
-    line [1947, 1948, 1949, 1950, 1950]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-01"]
+    y-axis "stars" 1946 --> 1952
+    line [1947, 1948, 1949, 1950, 1951]
 ```
 
-2026-10-18 1,947 → 2026-10-31 1,950（+3）
+2026-10-18 1,947 → 2026-11-01 1,951（+4）
 
 
 ---

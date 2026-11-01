@@ -1,6 +1,6 @@
 # podo/design-agent-skills
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/podo/design-agent-skills) · [官网](https://www.npmjs.com/package/design-agent-skills) · 个人维护
+⭐ 30 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/podo/design-agent-skills) · [官网](https://www.npmjs.com/package/design-agent-skills) · 个人维护
 
 **面向 AI 编程 agent 的设计技能策展目录（160 条，两层路由）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "podo/design-agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 27, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 26, 27, 29, 30]
 ```
 
-2026-10-18 24 → 2026-10-31 29（+5）
+2026-10-18 24 → 2026-11-01 30（+6）
 
 
 ---

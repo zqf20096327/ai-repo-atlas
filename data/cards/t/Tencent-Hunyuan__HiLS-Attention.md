@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HiLS-Attention
 
-⭐ 152 · Python · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/HiLS-Attention) · 组织维护 · 中文 README
+⭐ 153 · Python · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/HiLS-Attention) · 组织维护 · 中文 README
 
 **论文官方代码：可端到端学习的层级稀疏注意力机制**
 
@@ -45,12 +45,12 @@ Tencent Hunyuan 团队发布的论文《Hierarchical Sparse Attention Done Right
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HiLS-Attention 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 149 --> 153
-    line [150, 151, 152, 152]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 149 --> 154
+    line [150, 151, 152, 153]
 ```
 
-2026-10-18 150 → 2026-10-31 152（+2）
+2026-10-18 150 → 2026-11-01 153（+3）
 
 
 ---

@@ -40,6 +40,18 @@
 > L7: This is a player bot addon for the Trouble in Terrorist Town game mode in Garry's Mod.
 > L9: It is designed to be as modular as possible, allowing easy customization and expansion. It is designed for TTT2 whil
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thebigsleepjoe/TTT-Bots-2 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-31 17 → 2026-11-01 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `fc80ee185589` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ac12644/langgraph-starter-kit
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/ac12644/langgraph-starter-kit) · [官网](https://www.npmjs.com/package/create-langgraph-app   ) · 个人维护
+⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/ac12644/langgraph-starter-kit) · [官网](https://www.npmjs.com/package/create-langgraph-app   ) · 个人维护
 
 **LangGraph 多智能体应用脚手架：7 种模式、6 家 LLM 提供商开箱即用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ac12644/langgraph-starter-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-31 26（+0）
+2026-10-18 26 → 2026-11-01 26（+0）
 
 
 ---

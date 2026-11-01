@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "darshankerkar/Recrify 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    title "darshankerkar/Recrify 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 16 --> 22
-    line [17, 21]
+    line [17, 21, 21]
 ```
 
-2026-10-30 17 → 2026-10-31 21（+4）
+2026-10-30 17 → 2026-11-01 21（+4）
 
 
 ---

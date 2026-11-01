@@ -1,6 +1,6 @@
 # Clarity-Digital-Twin/brain-go-brr-v2
 
-⭐ 22 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/Clarity-Digital-Twin/brain-go-brr-v2) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/Clarity-Digital-Twin/brain-go-brr-v2) · 组织维护
 
 **面向临床 EEG 癫痫检测的双栈状态空间深度学习研究项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Clarity-Digital-Twin/brain-go-brr-v2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 23（+1）
 
 
 ---

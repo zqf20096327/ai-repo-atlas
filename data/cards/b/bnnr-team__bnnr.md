@@ -1,6 +1,6 @@
 # bnnr-team/bnnr
 
-⭐ 36 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bnnr-team/bnnr) · [官网](https://www.bnnr.dev/) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bnnr-team/bnnr) · [官网](https://www.bnnr.dev/) · 组织维护
 
 **面向 PyTorch 视觉模型的 XAI 诊断与显著性引导增强工具包**
 
@@ -46,12 +46,12 @@ PyTorch 计算机视觉工具包：`bnrr analyze` 对已训练 checkpoint 无需
 ```mermaid
 xychart-beta
     title "bnnr-team/bnnr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-31 36（+0）
+2026-10-18 36 → 2026-11-01 36（+0）
 
 
 ---

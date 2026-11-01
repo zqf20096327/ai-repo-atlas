@@ -44,13 +44,13 @@ RetroInfer 是微软推出的长上下文 LLM 解码加速系统，把 KV cache 
 
 ```mermaid
 xychart-beta
-    title "microsoft/RetrievalAttention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "microsoft/RetrievalAttention 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 152 --> 155
-    line [154, 153]
+    line [154, 153, 153]
 ```
 
-2026-10-18 154 → 2026-10-31 153（-1）
+2026-10-18 154 → 2026-11-01 153（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # matteodisalvo/HeroFig
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/matteodisalvo/HeroFig) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/matteodisalvo/HeroFig) · 个人维护
 
 **科研人员绘制论文出版级插图的桌面可视化编辑器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "matteodisalvo/HeroFig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

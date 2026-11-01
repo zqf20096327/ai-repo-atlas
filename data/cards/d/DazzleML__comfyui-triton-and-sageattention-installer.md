@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DazzleML/comfyui-triton-and-sageattention-installer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "DazzleML/comfyui-triton-and-sageattention-installer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 241 --> 247
-    line [242, 243, 244, 245, 246]
+    line [242, 243, 244, 245, 246, 246]
 ```
 
-2026-10-18 242 → 2026-10-31 246（+4）
+2026-10-18 242 → 2026-11-01 246（+4）
 
 
 ---

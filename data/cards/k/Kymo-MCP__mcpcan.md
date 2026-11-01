@@ -45,13 +45,13 @@ MCPCan 是开源的 MCP（Model Context Protocol）服务集成与管理平台�
 
 ```mermaid
 xychart-beta
-    title "Kymo-MCP/mcpcan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "Kymo-MCP/mcpcan 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 727 --> 730
-    line [728, 729]
+    line [728, 729, 729]
 ```
 
-2026-10-18 728 → 2026-10-31 729（+1）
+2026-10-18 728 → 2026-11-01 729（+1）
 
 
 ---

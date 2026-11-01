@@ -1,6 +1,6 @@
 # N1nEmAn/sapper-v2
 
-⭐ 90 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · 个人维护 · 中文 README
+⭐ 334 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · 个人维护 · 中文 README
 
 **AI 多智能体军团自主渗透测试框架，含分层事实图谱**
 
@@ -39,6 +39,18 @@
 
 > L14: sapper is not a smarter single agent. It is a legion of AIs that divide labor,
 > L86: - **Economy** — model tiering: commander and generals run GLM-5.3, soldiers
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "N1nEmAn/sapper-v2 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 66 --> 358
+    line [90, 334]
+```
+
+2026-10-31 90 → 2026-11-01 334（+244）
 
 
 ---

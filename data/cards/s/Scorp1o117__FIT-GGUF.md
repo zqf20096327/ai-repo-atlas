@@ -1,6 +1,6 @@
 # Scorp1o117/FIT-GGUF
 
-⭐ 22 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Scorp1o117/FIT-GGUF) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Scorp1o117/FIT-GGUF) · 个人维护 · 中文 README
 
 **按字节预算对 GGUF 做确定性混合量化的规划工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scorp1o117/FIT-GGUF 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22]
+    title "Scorp1o117/FIT-GGUF 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 21, 22, 23]
 ```
 
-2026-10-18 19 → 2026-10-31 22（+3）
+2026-10-18 19 → 2026-11-01 23（+4）
 
 
 ---

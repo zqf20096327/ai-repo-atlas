@@ -1,6 +1,6 @@
 # JustInCache/n8n-workflows
 
-⭐ 29 · Python · MIT · 推送 2025-11-04 · [GitHub](https://github.com/JustInCache/n8n-workflows) · [官网](https://github.com/JustInCache/n8n-workflows) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **2000+ 条 n8n 自动化工作流策展库，附搜索 Web UI 与本地 API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

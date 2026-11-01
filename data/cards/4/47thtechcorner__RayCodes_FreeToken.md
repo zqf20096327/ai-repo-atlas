@@ -45,13 +45,13 @@ FreeToken 是一个边缘端 Mixture-of-Experts 推理服务引擎，用于在�
 
 ```mermaid
 xychart-beta
-    title "47thtechcorner/RayCodes_FreeToken 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "47thtechcorner/RayCodes_FreeToken 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-10-31 16（+1）
+2026-10-18 15 → 2026-11-01 16（+1）
 
 
 ---

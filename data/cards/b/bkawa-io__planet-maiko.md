@@ -1,6 +1,6 @@
 # bkawa-io/planet-maiko
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/bkawa-io/planet-maiko) · [官网](https://bkawa-bot.github.io/planet-maiko/) · 个人维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/bkawa-io/planet-maiko) · [官网](https://bkawa-io.github.io/planet-maiko/) · 个人维护
 
 **本地优先的 Agent 编排平台，以太空狗角色管理编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bkawa-io/planet-maiko 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-31 21（+0）
+2026-10-18 21 → 2026-11-01 21（+0）
 
 
 ---

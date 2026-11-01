@@ -40,6 +40,18 @@
 > L10: LEGION is an enterprise-grade, zero-overhead orchestrator designed to run 50+ autonomous frontier AI models in a un
 > L43: - **⚔️ Heterogeneous Model Mesh:** Assign different LLMs to different roles in a single swarm (`GPT-6` for planning
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "unitshaperextol/Legion-os 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 74 --> 76
+    line [75, 75]
+```
+
+2026-10-31 75 → 2026-11-01 75（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `9bc2b5c8acf6` · [字段定义](../../DATASET.md)*

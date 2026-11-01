@@ -1,6 +1,6 @@
 # samber/awesome-ai-native
 
-⭐ 17 · Astro · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/samber/awesome-ai-native) · [官网](https://samber.github.io/awesome-ai-native/) · 个人维护
+⭐ 18 · Astro · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/samber/awesome-ai-native) · [官网](https://samber.github.io/awesome-ai-native/) · 个人维护
 
 **AI 原生产品精选清单：收录以 LLM 为本体的应用与工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "samber/awesome-ai-native 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-10-31 17（+2）
+2026-10-18 15 → 2026-11-01 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # binghuang2018/aqml
 
-⭐ 26 · Python · MIT · 推送 2025-11-04 · [GitHub](https://github.com/binghuang2018/aqml) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 amon 片段的量子机器学习包，用于量子化学能量预测**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

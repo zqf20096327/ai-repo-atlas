@@ -1,6 +1,6 @@
 # memvector/ext-memvector
 
-⭐ 26 · C++ · MIT · 推送 2026-03-02 · [GitHub](https://github.com/memvector/ext-memvector) · [官网](https://github.com/memvector/ext-memvector) · 组织维护
+⭐ 27 · C++ · MIT · 推送 2026-03-02 · [GitHub](https://github.com/memvector/ext-memvector) · [官网](https://github.com/memvector/ext-memvector) · 组织维护
 
 **PHP 进程内向量存储与本地嵌入/重排扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "memvector/ext-memvector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-31 26（+0）
+2026-10-18 26 → 2026-11-01 27（+1）
 
 
 ---

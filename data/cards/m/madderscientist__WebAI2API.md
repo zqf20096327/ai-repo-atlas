@@ -1,6 +1,6 @@
 # madderscientist/WebAI2API
 
-⭐ 36 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/madderscientist/WebAI2API) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/madderscientist/WebAI2API) · 个人维护 · 中文 README
 
 **封装 DeepSeek 网页端为 OpenAI 兼容 API 的自用工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madderscientist/WebAI2API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
     y-axis "stars" 32 --> 37
     line [33, 34, 36, 36]
 ```
 
-2026-10-18 33 → 2026-10-31 36（+3）
+2026-10-18 33 → 2026-11-01 36（+3）
 
 
 ---

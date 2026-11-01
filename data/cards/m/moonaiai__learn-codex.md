@@ -1,6 +1,6 @@
 # moonaiai/learn-codex
 
-⭐ 30 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/moonaiai/learn-codex) · [官网](https://moonaiai.github.io/learn-codex/) · 组织维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/moonaiai/learn-codex) · [官网](https://moonaiai.github.io/learn-codex/) · 组织维护 · 中文 README
 
 **用 TypeScript 逐章重建 Codex 式编程 Agent harness 的双语教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moonaiai/learn-codex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 27 --> 31
-    line [28, 30, 30]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 27 --> 32
+    line [28, 30, 31]
 ```
 
-2026-10-18 28 → 2026-10-31 30（+2）
+2026-10-18 28 → 2026-11-01 31（+3）
 
 
 ---

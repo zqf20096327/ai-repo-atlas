@@ -1,6 +1,6 @@
 # skyf0xx/gambit
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/skyf0xx/gambit) · [官网](https://gambit-notes.vercel.app/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/skyf0xx/gambit) · [官网](https://gambit-notes.vercel.app/) · 个人维护
 
 **帮助用户做决策与规划的战略思考型 AI 笔记本应用**
 
@@ -44,12 +44,12 @@ Gambit 是一个本地优先的 PWA 应用，定位为“会思考的笔记本�
 ```mermaid
 xychart-beta
     title "skyf0xx/gambit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-10-31 29（+2）
+2026-10-18 27 → 2026-11-01 29（+2）
 
 
 ---

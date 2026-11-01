@@ -1,6 +1,6 @@
 # smc2315/harness-memory
 
-⭐ 21 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/smc2315/harness-memory) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/smc2315/harness-memory) · 个人维护
 
 **给 AI 编码助手的本地项目记忆层插件**
 
@@ -45,12 +45,12 @@ OpenCode 插件，为 AI 编码助手提供持久、可审查的项目记忆：�
 ```mermaid
 xychart-beta
     title "smc2315/harness-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
     y-axis "stars" 20 --> 23
-    line [22, 21, 21]
+    line [22, 21, 22]
 ```
 
-2026-10-18 22 → 2026-10-31 21（-1）
+2026-10-18 22 → 2026-11-01 22（+0）
 
 
 ---

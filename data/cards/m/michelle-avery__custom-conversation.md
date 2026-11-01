@@ -1,6 +1,6 @@
 # michelle-avery/custom-conversation
 
-⭐ 98 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/michelle-avery/custom-conversation) · 个人维护
+⭐ 99 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/michelle-avery/custom-conversation) · 个人维护
 
 **面向 Home Assistant 用户的高度可配置 LLM 对话组件**
 
@@ -46,12 +46,12 @@ Home Assistant 的自定义对话 agent 集成：通过 LiteLLM 兼容多家 LLM
 ```mermaid
 xychart-beta
     title "michelle-avery/custom-conversation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 97 --> 100
+    line [98, 99]
 ```
 
-2026-10-18 98 → 2026-10-31 98（+0）
+2026-10-18 98 → 2026-11-01 99（+1）
 
 
 ---

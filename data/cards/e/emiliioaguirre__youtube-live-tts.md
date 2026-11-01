@@ -1,6 +1,6 @@
 # emiliioaguirre/youtube-live-tts
 
-⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/emiliioaguirre/youtube-live-tts) · 个人维护
+⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/emiliioaguirre/youtube-live-tts) · 个人维护
 
 **YouTube 直播弹幕实时转语音工具，调用 ElevenLabs 语音**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "emiliioaguirre/youtube-live-tts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-31 56（+0）
+2026-10-18 56 → 2026-11-01 56（+0）
 
 
 ---

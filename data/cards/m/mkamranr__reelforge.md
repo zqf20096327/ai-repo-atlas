@@ -1,6 +1,6 @@
 # mkamranr/reelforge
 
-⭐ 69 · Python · 推送 2026-09-29 · [GitHub](https://github.com/mkamranr/reelforge) · 个人维护
+⭐ 70 · Python · 推送 2026-09-29 · [GitHub](https://github.com/mkamranr/reelforge) · 个人维护
 
 **把 GitHub 仓库或 HF 模型自动做成竖版短视频的自托管流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mkamranr/reelforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-31 69（+0）
+2026-10-18 69 → 2026-11-01 70（+1）
 
 
 ---

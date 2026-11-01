@@ -1,6 +1,6 @@
 # tinyfish-io/tinyfish-mcp-server
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-mcp-server) · [官网](https://tinyfish.ai) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tinyfish-io/tinyfish-mcp-server) · [官网](https://tinyfish.ai) · 组织维护
 
 **TinyFish MCP 服务器的本地反向代理，接入搜索/浏览器自动化工具**
 
@@ -45,12 +45,12 @@ npm 包形式的透明反向代理：在本机 127.0.0.1:3711 暴露 Streamable-
 ```mermaid
 xychart-beta
     title "tinyfish-io/tinyfish-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 11 --> 15
     line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-10-31 14（+2）
+2026-10-18 12 → 2026-11-01 14（+2）
 
 
 ---

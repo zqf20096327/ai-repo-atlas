@@ -1,6 +1,6 @@
 # getnable/finopsmcp
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/getnable/finopsmcp) · [官网](https://getnable.com) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/getnable/finopsmcp) · [官网](https://getnable.com) · 组织维护
 
 **本地 FinOps 工具：在 AI 代理执行云命令前定价与拦截**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "getnable/finopsmcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 19（+0）
 
 
 ---

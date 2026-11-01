@@ -1,6 +1,6 @@
 # facebookresearch/fairseq2
 
-⭐ 1,153 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/facebookresearch/fairseq2) · [官网](https://facebookresearch.github.io/fairseq2/) · 组织维护
+⭐ 1,154 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/facebookresearch/fairseq2) · [官网](https://facebookresearch.github.io/fairseq2/) · 组织维护
 
 **面向研究者的序列建模工具包：训练自定义内容生成模型**
 
@@ -46,12 +46,12 @@ FAIR 开源的序列建模工具包，是原 fairseq 的从零重写版本，供
 ```mermaid
 xychart-beta
     title "facebookresearch/fairseq2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 1151 --> 1154
-    line [1152, 1153, 1153]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 1151 --> 1155
+    line [1152, 1153, 1154]
 ```
 
-2026-10-18 1,152 → 2026-10-31 1,153（+1）
+2026-10-18 1,152 → 2026-11-01 1,154（+2）
 
 
 ---

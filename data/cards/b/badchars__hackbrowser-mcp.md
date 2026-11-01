@@ -41,6 +41,18 @@
 > L24: **hackbrowser-mcp** gives your AI agent a real Firefox browser and 39 security testing tools via the Model Context 
 > L141:  Claude Desktop / Claude Code
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "badchars/hackbrowser-mcp 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-31 25 → 2026-11-01 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `0f35d97dd888` · [字段定义](../../DATASET.md)*

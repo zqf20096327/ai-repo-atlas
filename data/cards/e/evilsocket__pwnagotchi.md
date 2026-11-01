@@ -1,6 +1,6 @@
 # evilsocket/pwnagotchi
 
-⭐ 9,245 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/evilsocket/pwnagotchi) · [官网](https://pwnagotchi.ai/) · 个人维护
+⭐ 9,246 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/evilsocket/pwnagotchi) · [官网](https://pwnagotchi.ai/) · 个人维护
 
 **用深度强化学习驱动 bettercap 捕获可破解 WPA 握手包的设备**
 
@@ -43,13 +43,13 @@ Pwnagotchi 是一个基于 A2C 的强化学习系统，策略网络为 LSTM+MLP 
 
 ```mermaid
 xychart-beta
-    title "evilsocket/pwnagotchi 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 9230 --> 9246
-    line [9231, 9236, 9238, 9240, 9241, 9239, 9240, 9244, 9245]
+    title "evilsocket/pwnagotchi 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 9230 --> 9247
+    line [9231, 9236, 9238, 9240, 9241, 9239, 9240, 9244, 9245, 9246]
 ```
 
-2026-10-18 9,231 → 2026-10-31 9,245（+14）
+2026-10-18 9,231 → 2026-11-01 9,246（+15）
 
 
 ---

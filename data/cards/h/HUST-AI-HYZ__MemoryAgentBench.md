@@ -1,6 +1,6 @@
 # HUST-AI-HYZ/MemoryAgentBench
 
-⭐ 482 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/HUST-AI-HYZ/MemoryAgentBench) · [官网](https://arxiv.org/abs/2507.05257) · 组织维护
+⭐ 484 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/HUST-AI-HYZ/MemoryAgentBench) · [官网](https://arxiv.org/abs/2507.05257) · 组织维护
 
 **评测带记忆 LLM agent 的基准：增量多轮交互四能力测试**
 
@@ -45,13 +45,13 @@ ICLR 2026 论文配套开源基准，通过将长文本切分为 chunk 模拟多
 
 ```mermaid
 xychart-beta
-    title "HUST-AI-HYZ/MemoryAgentBench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 470 --> 483
-    line [471, 475, 478, 480, 481, 482]
+    title "HUST-AI-HYZ/MemoryAgentBench 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 470 --> 485
+    line [471, 475, 478, 480, 481, 482, 484]
 ```
 
-2026-10-18 471 → 2026-10-31 482（+11）
+2026-10-18 471 → 2026-11-01 484（+13）
 
 
 ---

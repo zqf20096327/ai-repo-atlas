@@ -44,13 +44,13 @@ Go 语言编写的 DeepSeek 平台 API 客户端库：提供类型安全的接�
 
 ```mermaid
 xychart-beta
-    title "cohesion-org/deepseek-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "cohesion-org/deepseek-go 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 345 --> 348
-    line [346, 347]
+    line [346, 347, 347]
 ```
 
-2026-10-18 346 → 2026-10-31 347（+1）
+2026-10-18 346 → 2026-11-01 347（+1）
 
 
 ---

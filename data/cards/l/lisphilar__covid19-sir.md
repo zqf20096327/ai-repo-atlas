@@ -1,6 +1,6 @@
 # lisphilar/covid19-sir
 
-⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/lisphilar/covid19-sir) · [官网](https://lisphilar.github.io/covid19-sir/) · 组织维护
+⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lisphilar/covid19-sir) · [官网](https://lisphilar.github.io/covid19-sir/) · 组织维护
 
 **用相位依赖 SIR 系模型分析 COVID-19 等疫情数据的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lisphilar/covid19-sir 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 112 --> 114
     line [113, 113]
 ```
 
-2026-10-18 113 → 2026-10-31 113（+0）
+2026-10-18 113 → 2026-11-01 113（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L33: |`src/rlhf_platform/ppo_engine.py`|The only PPO implementation: `PPOTrainer`. GAE, a clipped policy loss, an unclip
 > L35: |`src/rlhf_platform/sft_engine.py`|LoRA SFT through the Hugging Face `Trainer`.|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Mattral/rlpost 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
+```
+
+2026-10-31 28 → 2026-11-01 28（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `befd6c4d04aa` · [字段定义](../../DATASET.md)*

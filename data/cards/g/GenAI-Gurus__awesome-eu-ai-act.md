@@ -1,6 +1,6 @@
 # GenAI-Gurus/awesome-eu-ai-act
 
-⭐ 115 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/GenAI-Gurus/awesome-eu-ai-act) · [官网](https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme) · 组织维护
+⭐ 117 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/GenAI-Gurus/awesome-eu-ai-act) · [官网](https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme) · 组织维护
 
 **欧盟 AI 法案合规资源策展清单：官方文本、工具与开源项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GenAI-Gurus/awesome-eu-ai-act 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 106 --> 116
-    line [107, 109, 111, 112, 114, 115, 115]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 106 --> 118
+    line [107, 109, 111, 112, 114, 115, 117]
 ```
 
-2026-10-18 107 → 2026-10-31 115（+8）
+2026-10-18 107 → 2026-11-01 117（+10）
 
 
 ---

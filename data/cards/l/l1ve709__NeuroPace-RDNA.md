@@ -1,6 +1,6 @@
 # l1ve709/NeuroPace-RDNA
 
-⭐ 15 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/l1ve709/NeuroPace-RDNA) · 个人维护
+⭐ 15 · C++ · MIT · 推送 2026-10-31 · [GitHub](https://github.com/l1ve709/NeuroPace-RDNA) · 个人维护
 
 **面向 AMD RDNA 显卡的预测性延迟管理工具，缓解游戏卡顿**
 
@@ -38,6 +38,18 @@
 ## 证据(README 行号)
 
 > L142: |**Prediction Engine**|Python/ONNX|28-feature inference, sub-ms latency, rolling window analysis|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "l1ve709/NeuroPace-RDNA 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-10-31 15 → 2026-11-01 15（+0）
 
 
 ---

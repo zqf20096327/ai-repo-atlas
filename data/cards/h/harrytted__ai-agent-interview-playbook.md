@@ -1,6 +1,6 @@
 # harrytted/ai-agent-interview-playbook
 
-⭐ 24 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/harrytted/ai-agent-interview-playbook) · [官网](https://harrytted.github.io/ai-agent-interview-playbook/) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/harrytted/ai-agent-interview-playbook) · [官网](https://harrytted.github.io/ai-agent-interview-playbook/) · 个人维护 · 中文 README
 
 **AI Agent／大模型应用工程师中文学习与面试手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "harrytted/ai-agent-interview-playbook 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 13 --> 25
-    line [14, 22, 24]
+    title "harrytted/ai-agent-interview-playbook 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 13 --> 26
+    line [14, 22, 24, 25]
 ```
 
-2026-10-29 14 → 2026-10-31 24（+10）
+2026-10-29 14 → 2026-11-01 25（+11）
 
 
 ---

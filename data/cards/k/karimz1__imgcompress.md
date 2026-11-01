@@ -1,6 +1,6 @@
 # karimz1/imgcompress
 
-⭐ 350 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/karimz1/imgcompress) · [官网](https://imgcompress.karimzouine.com) · 个人维护 · 中文 README
+⭐ 350 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/karimz1/imgcompress) · [官网](https://imgcompress.karimzouine.com) · 个人维护 · 中文 README
 
 **自托管图像处理工具箱：70+ 格式转换、压缩与本地 AI 抠图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "karimz1/imgcompress 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    title "karimz1/imgcompress 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
     y-axis "stars" 345 --> 351
-    line [346, 347, 348, 350]
+    line [346, 347, 348, 350, 350]
 ```
 
-2026-10-18 346 → 2026-10-31 350（+4）
+2026-10-18 346 → 2026-11-01 350（+4）
 
 
 ---

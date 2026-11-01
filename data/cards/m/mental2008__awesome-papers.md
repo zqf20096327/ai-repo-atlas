@@ -1,6 +1,6 @@
 # mental2008/awesome-papers
 
-⭐ 236 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mental2008/awesome-papers) · [官网](https://paper.lingyunyang.com/) · 个人维护 · 中文 README
+⭐ 237 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mental2008/awesome-papers) · [官网](https://paper.lingyunyang.com/) · 个人维护 · 中文 README
 
 **个人学术论文阅读笔记库：ML 系统与 AI 基础设施**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mental2008/awesome-papers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 231 --> 237
-    line [232, 233, 234, 236, 236]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 231 --> 238
+    line [232, 233, 234, 236, 237]
 ```
 
-2026-10-18 232 → 2026-10-31 236（+4）
+2026-10-18 232 → 2026-11-01 237（+5）
 
 
 ---

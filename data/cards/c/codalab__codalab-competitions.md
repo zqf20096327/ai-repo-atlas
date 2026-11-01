@@ -1,6 +1,6 @@
 # codalab/codalab-competitions
 
-⭐ 539 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/codalab/codalab-competitions) · [官网](https://codalab.lisn.fr) · 组织维护
+⭐ 540 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/codalab/codalab-competitions) · [官网](https://codalab.lisn.fr) · 组织维护
 
 **举办与参与机器学习竞赛的开源 Web 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codalab/codalab-competitions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 538 --> 540
-    line [539, 539]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 538 --> 541
+    line [539, 540]
 ```
 
-2026-10-18 539 → 2026-10-31 539（+0）
+2026-10-18 539 → 2026-11-01 540（+1）
 
 
 ---

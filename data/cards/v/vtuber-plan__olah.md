@@ -1,6 +1,6 @@
 # vtuber-plan/olah
 
-⭐ 296 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/vtuber-plan/olah) · 组织维护 · 中文 README
+⭐ 295 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/vtuber-plan/olah) · 组织维护 · 中文 README
 
 **自建 Hugging Face 镜像缓存服务，加速模型/数据集下载**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vtuber-plan/olah 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
     y-axis "stars" 293 --> 297
-    line [294, 295, 296, 296]
+    line [294, 295, 296, 295]
 ```
 
-2026-10-18 294 → 2026-10-31 296（+2）
+2026-10-18 294 → 2026-11-01 295（+1）
 
 
 ---

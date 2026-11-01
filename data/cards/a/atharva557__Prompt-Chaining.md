@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atharva557/Prompt-Chaining 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "atharva557/Prompt-Chaining 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 32 --> 35
-    line [34, 33]
+    line [34, 33, 33]
 ```
 
-2026-10-18 34 → 2026-10-31 33（-1）
+2026-10-18 34 → 2026-11-01 33（-1）
 
 
 ---

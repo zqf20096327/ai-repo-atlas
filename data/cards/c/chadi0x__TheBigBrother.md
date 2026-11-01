@@ -1,6 +1,6 @@
 # chadi0x/TheBigBrother
 
-⭐ 772 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/chadi0x/TheBigBrother) · [官网](https://thebigbrother.cloud/) · 个人维护
+⭐ 773 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/chadi0x/TheBigBrother) · [官网](https://thebigbrother.cloud/) · 个人维护
 
 **面向红队与SOC的多引擎 OSINT 侦察平台（52模块/26标签）**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "chadi0x/TheBigBrother 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 770 --> 773
-    line [772, 771, 772, 772]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 770 --> 774
+    line [772, 771, 772, 773]
 ```
 
-2026-10-18 772 → 2026-10-31 772（+0）
+2026-10-18 772 → 2026-11-01 773（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ildaron/Laser_control
 
-⭐ 1,625 · Python · 推送 2026-03-30 · [GitHub](https://github.com/Ildaron/Laser_control) · 个人维护
+⭐ 1,626 · Python · 推送 2026-03-30 · [GitHub](https://github.com/Ildaron/Laser_control) · 个人维护
 
 **用激光+机器视觉定位消灭蚊子、害虫、杂草的硬件项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ildaron/Laser_control 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1624 --> 1626
-    line [1625, 1625]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1624 --> 1627
+    line [1625, 1626]
 ```
 
-2026-10-18 1,625 → 2026-10-31 1,625（+0）
+2026-10-18 1,625 → 2026-11-01 1,626（+1）
 
 
 ---

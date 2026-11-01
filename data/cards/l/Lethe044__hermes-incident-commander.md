@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lethe044/hermes-incident-commander 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "Lethe044/hermes-incident-commander 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 71 --> 75
-    line [72, 74]
+    line [72, 74, 74]
 ```
 
-2026-10-18 72 → 2026-10-31 74（+2）
+2026-10-18 72 → 2026-11-01 74（+2）
 
 
 ---

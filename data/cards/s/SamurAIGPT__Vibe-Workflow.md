@@ -1,6 +1,6 @@
 # SamurAIGPT/Vibe-Workflow
 
-⭐ 634 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/Vibe-Workflow) · [官网](https://muapi.ai/workflow) · 组织维护
+⭐ 636 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/Vibe-Workflow) · [官网](https://muapi.ai/workflow) · 组织维护
 
 **自托管的可视化节点式 AI 图像/视频工作流构建器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SamurAIGPT/Vibe-Workflow 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 622 --> 635
-    line [623, 625, 627, 628, 631, 632, 633, 634, 634]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 622 --> 637
+    line [623, 625, 627, 628, 631, 632, 633, 634, 636]
 ```
 
-2026-10-18 623 → 2026-10-31 634（+11）
+2026-10-18 623 → 2026-11-01 636（+13）
 
 
 ---

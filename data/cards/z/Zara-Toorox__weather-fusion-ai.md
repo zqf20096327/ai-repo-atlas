@@ -1,6 +1,6 @@
 # Zara-Toorox/weather-fusion-ai
 
-⭐ 41 · Python · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/Zara-Toorox/weather-fusion-ai) · 个人维护
+⭐ 42 · Python · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/Zara-Toorox/weather-fusion-ai) · 个人维护
 
 **Home Assistant 本地多源天气融合预报集成，从自有传感器学习**
 
@@ -46,12 +46,12 @@ Home Assistant 自定义集成，将 Open-Meteo(GFS)、Bright Sky(ICON)、wttr.i
 ```mermaid
 xychart-beta
     title "Zara-Toorox/weather-fusion-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-18 40 → 2026-10-31 41（+1）
+2026-10-18 40 → 2026-11-01 42（+2）
 
 
 ---

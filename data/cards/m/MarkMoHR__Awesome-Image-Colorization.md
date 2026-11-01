@@ -1,6 +1,6 @@
 # MarkMoHR/Awesome-Image-Colorization
 
-⭐ 1,167 · 推送 2026-10-28 · [GitHub](https://github.com/MarkMoHR/Awesome-Image-Colorization) · 个人维护
+⭐ 1,168 · 推送 2026-10-28 · [GitHub](https://github.com/MarkMoHR/Awesome-Image-Colorization) · 个人维护
 
 **深度学习图像/视频上色论文与代码的策展清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "MarkMoHR/Awesome-Image-Colorization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1166 --> 1168
-    line [1167, 1167]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1166 --> 1169
+    line [1167, 1168]
 ```
 
-2026-10-18 1,167 → 2026-10-31 1,167（+0）
+2026-10-18 1,167 → 2026-11-01 1,168（+1）
 
 
 ---

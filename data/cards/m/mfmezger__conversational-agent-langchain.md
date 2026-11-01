@@ -1,6 +1,6 @@
 # mfmezger/conversational-agent-langchain
 
-⭐ 257 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mfmezger/conversational-agent-langchain) · 个人维护
+⭐ 257 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mfmezger/conversational-agent-langchain) · 个人维护
 
 **对话式 RAG Agent 的 FastAPI 后端：文档嵌入、语义检索与问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mfmezger/conversational-agent-langchain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
     y-axis "stars" 255 --> 258
     line [256, 257, 257]
 ```
 
-2026-10-18 256 → 2026-10-31 257（+1）
+2026-10-18 256 → 2026-11-01 257（+1）
 
 
 ---

@@ -44,13 +44,13 @@ TensorFlow 生态下的模型公平性评测与可视化工具：面向二分类
 
 ```mermaid
 xychart-beta
-    title "tensorflow/fairness-indicators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "tensorflow/fairness-indicators 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 356 --> 359
-    line [357, 358]
+    line [357, 358, 358]
 ```
 
-2026-10-18 357 → 2026-10-31 358（+1）
+2026-10-18 357 → 2026-11-01 358（+1）
 
 
 ---

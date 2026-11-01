@@ -1,6 +1,6 @@
 # openapi/gknowledge
 
-⭐ 27 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openapi/gknowledge) · [官网](https://openapi.github.io/gknowledge) · 组织维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openapi/gknowledge) · [官网](https://openapi.github.io/gknowledge) · 组织维护 · 中文 README
 
 **GNOME 原生桌面应用：把文档变成 LLM 持续维护的链接知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openapi/gknowledge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 17 --> 28
-    line [18, 22, 24, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 17 --> 29
+    line [18, 22, 24, 26, 27, 28]
 ```
 
-2026-10-18 18 → 2026-10-31 27（+9）
+2026-10-18 18 → 2026-11-01 28（+10）
 
 
 ---

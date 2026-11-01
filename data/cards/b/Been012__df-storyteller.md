@@ -1,6 +1,6 @@
 # Been012/df-storyteller
 
-⭐ 14 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/Been012/df-storyteller) · [官网](https://github.com/Been012/df-storyteller/wiki) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/Been012/df-storyteller) · [官网](https://github.com/Been012/df-storyteller/wiki) · 个人维护
 
 **矮人要塞玩家的编年史日志与传说浏览器，可选 AI 辅助写作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Been012/df-storyteller 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 15（+2）
 
 
 ---

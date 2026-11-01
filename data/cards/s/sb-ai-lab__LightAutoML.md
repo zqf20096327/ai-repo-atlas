@@ -1,6 +1,6 @@
 # sb-ai-lab/LightAutoML
 
-⭐ 1,484 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sb-ai-lab/LightAutoML) · 组织维护
+⭐ 1,483 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sb-ai-lab/LightAutoML) · 组织维护
 
 **面向数据科学家的 AutoML 框架：少量代码自动生成 ML 模型**
 
@@ -46,12 +46,12 @@ LightAutoML (LAMA) 是用 Python 编写的 AutoML 框架，支持表格、时间
 ```mermaid
 xychart-beta
     title "sb-ai-lab/LightAutoML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
     y-axis "stars" 1482 --> 1485
-    line [1483, 1484, 1483, 1484, 1484]
+    line [1483, 1484, 1483, 1484, 1483]
 ```
 
-2026-10-18 1,483 → 2026-10-31 1,484（+1）
+2026-10-18 1,483 → 2026-11-01 1,483（+0）
 
 
 ---

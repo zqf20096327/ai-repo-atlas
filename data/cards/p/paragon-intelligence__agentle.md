@@ -1,6 +1,6 @@
 # paragon-intelligence/agentle
 
-⭐ 54 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/paragon-intelligence/agentle) · [官网](https://paragon-intelligence.github.io/agentle/) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/paragon-intelligence/agentle) · [官网](https://paragon-intelligence.github.io/agentle/) · 组织维护
 
 **Python AI Agent 开发框架：少量代码构建生产级多智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "paragon-intelligence/agentle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-31 54（+0）
+2026-10-18 54 → 2026-11-01 54（+0）
 
 
 ---

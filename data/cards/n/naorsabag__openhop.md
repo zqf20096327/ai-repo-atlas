@@ -1,6 +1,6 @@
 # naorsabag/openhop
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/naorsabag/openhop) · [官网](https://naorsabag.github.io/openhop/) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/naorsabag/openhop) · [官网](https://naorsabag.github.io/openhop/) · 个人维护
 
 **让 AI agent 生成交互式数据流图的技能与本地渲染工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naorsabag/openhop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-31 48（+0）
+2026-10-18 48 → 2026-11-01 48（+0）
 
 
 ---

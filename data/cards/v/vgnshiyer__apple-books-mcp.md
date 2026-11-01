@@ -1,6 +1,6 @@
 # vgnshiyer/apple-books-mcp
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/vgnshiyer/apple-books-mcp) · [官网](https://vgnshiyer.me/AppleBooksMcp) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/vgnshiyer/apple-books-mcp) · [官网](https://vgnshiyer.me/AppleBooksMcp) · 个人维护
 
 **让 Claude 读取 Apple Books 书库、划线与章节内容的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vgnshiyer/apple-books-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-01"]
     y-axis "stars" 60 --> 65
     line [61, 62, 63, 64, 64]
 ```
 
-2026-10-18 61 → 2026-10-31 64（+3）
+2026-10-18 61 → 2026-11-01 64（+3）
 
 
 ---

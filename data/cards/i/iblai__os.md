@@ -1,6 +1,6 @@
 # iblai/os
 
-⭐ 794 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/iblai/os) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 794 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/iblai/os) · [官网](https://ibl.ai/join) · 组织维护
 
 **开源 AI agent 平台 ibl.ai 的多端前端，用于构建和管理会话式 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iblai/os 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    title "iblai/os 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01"]
     y-axis "stars" 790 --> 823
-    line [821, 796, 792, 793, 794]
+    line [821, 796, 792, 793, 794, 794]
 ```
 
-2026-10-18 821 → 2026-10-31 794（-27）
+2026-10-18 821 → 2026-11-01 794（-27）
 
 
 ---

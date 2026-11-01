@@ -1,6 +1,6 @@
 # rails-hyperdrive/rails-hyperdrive
 
-⭐ 80 · Ruby · MIT · 推送 2026-10-02 · [GitHub](https://github.com/rails-hyperdrive/rails-hyperdrive) · 组织维护
+⭐ 81 · Ruby · MIT · 推送 2026-10-02 · [GitHub](https://github.com/rails-hyperdrive/rails-hyperdrive) · 组织维护
 
 **开发期 Rails 引擎：向 AI 编码 agent 提供应用实时内省与栈匹配技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rails-hyperdrive/rails-hyperdrive 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 73 --> 81
-    line [74, 78, 79, 80]
+    title "rails-hyperdrive/rails-hyperdrive 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 73 --> 82
+    line [74, 78, 79, 80, 81]
 ```
 
-2026-10-18 74 → 2026-10-31 80（+6）
+2026-10-18 74 → 2026-11-01 81（+7）
 
 
 ---

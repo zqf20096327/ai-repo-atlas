@@ -1,6 +1,6 @@
 # sehoon787/my-codex
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sehoon787/my-codex) · [官网](https://sehoon787.github.io/my-codex/) · 个人维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/sehoon787/my-codex) · [官网](https://sehoon787.github.io/my-codex/) · 个人维护
 
 **面向 Codex CLI 的一体化 agent 装配套件：17 个 agent 与技能即装即用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sehoon787/my-codex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-31 29（+0）
+2026-10-18 29 → 2026-11-01 29（+0）
 
 
 ---

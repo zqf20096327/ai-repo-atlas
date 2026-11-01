@@ -1,6 +1,6 @@
 # inhouseseo/superseo-skills
 
-⭐ 375 · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/inhouseseo/superseo-skills) · [官网](https://inhouseseo.ai) · 组织维护
+⭐ 377 · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/inhouseseo/superseo-skills) · [官网](https://inhouseseo.ai) · 组织维护
 
 **给 SEO 从业者的 11 个 Claude 技能包：页面审计到文章生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inhouseseo/superseo-skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 356 --> 376
-    line [357, 361, 365, 366, 368, 370, 372, 373, 375]
+    title "inhouseseo/superseo-skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 355 --> 379
+    line [357, 361, 365, 366, 368, 370, 372, 373, 375, 377]
 ```
 
-2026-10-18 357 → 2026-10-31 375（+18）
+2026-10-18 357 → 2026-11-01 377（+20）
 
 
 ---

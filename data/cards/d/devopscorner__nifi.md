@@ -1,6 +1,6 @@
 # devopscorner/nifi
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/devopscorner/nifi) · [官网](https://devopscorner.id) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/devopscorner/nifi) · [官网](https://devopscorner.id) · 组织维护
 
 **Apache NiFi 与 NiFi Registry 的生产级容器部署方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devopscorner/nifi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

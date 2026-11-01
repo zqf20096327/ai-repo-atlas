@@ -1,6 +1,6 @@
 # IvenKooLab/desktop-pet
 
-⭐ 174 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/IvenKooLab/desktop-pet) · [官网](https://github.com/IvenKooLab/desktop-pet/releases/latest) · 个人维护 · 中文 README
+⭐ 189 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/IvenKooLab/desktop-pet) · [官网](https://github.com/IvenKooLab/desktop-pet/releases/latest) · 个人维护 · 中文 README
 
 **3D 绒质桌面宠物，可显示编码助手状态、可选对话**
 
@@ -46,12 +46,12 @@ macOS/Windows 独立运行的 3D 桌宠 Comi：小跳漫游、眨眼挥手、打
 ```mermaid
 xychart-beta
     title "IvenKooLab/desktop-pet 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 6 --> 189
-    line [21, 124, 174, 174]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 5 --> 205
+    line [21, 124, 174, 189]
 ```
 
-2026-10-26 21 → 2026-10-31 174（+153）
+2026-10-26 21 → 2026-11-01 189（+168）
 
 
 ---

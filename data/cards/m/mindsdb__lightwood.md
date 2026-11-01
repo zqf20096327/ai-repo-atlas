@@ -44,13 +44,13 @@ Lightwood 是 MindsDB 维护的 AutoML 框架，用户通过 JSON-AI 声明式�
 
 ```mermaid
 xychart-beta
-    title "mindsdb/lightwood 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    title "mindsdb/lightwood 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 510 --> 514
-    line [511, 512, 513]
+    line [511, 512, 513, 513]
 ```
 
-2026-10-18 511 → 2026-10-31 513（+2）
+2026-10-18 511 → 2026-11-01 513（+2）
 
 
 ---

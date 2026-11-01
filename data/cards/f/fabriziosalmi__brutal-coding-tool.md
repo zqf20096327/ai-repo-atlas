@@ -1,6 +1,6 @@
 # fabriziosalmi/brutal-coding-tool
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/fabriziosalmi/brutal-coding-tool) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/fabriziosalmi/brutal-coding-tool) · 个人维护
 
 **浏览器端工具：粘贴 GitHub 仓库 URL，用 Gemini 生成代码质量审计报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fabriziosalmi/brutal-coding-tool 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 26 --> 29
     line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-10-31 27（-1）
+2026-10-18 28 → 2026-11-01 27（-1）
 
 
 ---

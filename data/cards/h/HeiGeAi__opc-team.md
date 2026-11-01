@@ -1,6 +1,6 @@
 # HeiGeAi/opc-team
 
-⭐ 18 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/HeiGeAi/opc-team) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/HeiGeAi/opc-team) · 个人维护 · 中文 README
 
 **跨平台 Agent 协作运维框架：状态机、决策履历、风险评分与三级记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HeiGeAi/opc-team 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 16 --> 19
-    line [17, 18]
+    title "HeiGeAi/opc-team 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-10-31 18（+1）
+2026-10-18 17 → 2026-11-01 19（+2）
 
 
 ---

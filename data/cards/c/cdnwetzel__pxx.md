@@ -1,6 +1,6 @@
 # cdnwetzel/pxx
 
-⭐ 17 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cdnwetzel/pxx) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cdnwetzel/pxx) · 个人维护
 
 **本地优先 AI 编程 agent 运行时：自托管模型+安全门控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cdnwetzel/pxx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Opencomplai/opencomplai
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Opencomplai/opencomplai) · [官网](https://opencomplai.com/) · 组织维护
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Opencomplai/opencomplai) · [官网](https://opencomplai.com/) · 组织维护
 
 **面向 CI/CD 的 EU AI Act 合规自动化规则引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Opencomplai/opencomplai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-31 17（+0）
+2026-10-18 17 → 2026-11-01 18（+1）
 
 
 ---

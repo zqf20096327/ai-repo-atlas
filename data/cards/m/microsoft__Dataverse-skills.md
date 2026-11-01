@@ -1,6 +1,6 @@
 # microsoft/Dataverse-skills
 
-⭐ 249 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/Dataverse-skills) · 组织维护
+⭐ 250 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/Dataverse-skills) · 组织维护
 
 **教 AI 编程代理操作 Microsoft Dataverse 的技能插件**
 
@@ -45,13 +45,13 @@ Microsoft 维护的 agent 技能插件，将 Dataverse MCP 服务器、Dataverse
 
 ```mermaid
 xychart-beta
-    title "microsoft/Dataverse-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 245 --> 250
-    line [246, 247, 246, 247, 248, 249]
+    title "microsoft/Dataverse-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 245 --> 251
+    line [246, 247, 246, 247, 248, 249, 250]
 ```
 
-2026-10-18 246 → 2026-10-31 249（+3）
+2026-10-18 246 → 2026-11-01 250（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # tryAGI/LangChain
 
-⭐ 1,080 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tryAGI/LangChain) · [官网](https://tryagi.github.io/LangChain/) · 组织维护
+⭐ 1,079 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tryAGI/LangChain) · [官网](https://tryagi.github.io/LangChain/) · 组织维护
 
 **LangChain 的 C#/.NET 实现：可组合构建 LLM 应用**
 
@@ -44,12 +44,12 @@ LangChain 抽象的 C# 移植实现，目标是在抽象层面尽量贴近原版
 ```mermaid
 xychart-beta
     title "tryAGI/LangChain 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-01"]
     y-axis "stars" 1076 --> 1082
-    line [1077, 1078, 1079, 1080, 1081, 1080, 1080]
+    line [1077, 1078, 1079, 1080, 1081, 1080, 1079]
 ```
 
-2026-10-18 1,077 → 2026-10-31 1,080（+3）
+2026-10-18 1,077 → 2026-11-01 1,079（+2）
 
 
 ---

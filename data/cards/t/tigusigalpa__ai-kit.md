@@ -1,6 +1,6 @@
 # tigusigalpa/ai-kit
 
-⭐ 46 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tigusigalpa/ai-kit) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给编码 AI 客户端的开发启动套件：项目记忆、栈规则与模型路由**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

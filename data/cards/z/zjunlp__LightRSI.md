@@ -1,6 +1,6 @@
 # zjunlp/LightRSI
 
-⭐ 83 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/zjunlp/LightRSI) · [官网](https://zjunlp.github.io/LightRSI/) · 组织维护 · 中文 README
+⭐ 82 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/zjunlp/LightRSI) · [官网](https://zjunlp.github.io/LightRSI/) · 组织维护 · 中文 README
 
 **长程 LLM agent 的递归自改进运行时框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/LightRSI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 81 --> 84
+    line [83, 82]
 ```
 
-2026-10-18 83 → 2026-10-31 83（+0）
+2026-10-18 83 → 2026-11-01 82（-1）
 
 
 ---

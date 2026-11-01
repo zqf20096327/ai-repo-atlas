@@ -1,6 +1,6 @@
 # philipperemy/keras-attention
 
-⭐ 2,810 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/philipperemy/keras-attention) · 个人维护
+⭐ 2,811 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/philipperemy/keras-attention) · 个人维护
 
 **Keras 注意力层库：实现 Luong 与 Bahdanau 打分函数**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "philipperemy/keras-attention 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 2808 --> 2811
-    line [2809, 2810, 2810]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 2808 --> 2812
+    line [2809, 2810, 2811]
 ```
 
-2026-10-18 2,809 → 2026-10-31 2,810（+1）
+2026-10-18 2,809 → 2026-11-01 2,811（+2）
 
 
 ---

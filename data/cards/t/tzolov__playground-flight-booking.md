@@ -1,6 +1,6 @@
 # tzolov/playground-flight-booking
 
-⭐ 370 · Java · 推送 2026-02-14 · [GitHub](https://github.com/tzolov/playground-flight-booking) · [官网](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html) · 个人维护
+⭐ 372 · Java · 推送 2026-02-14 · [GitHub](https://github.com/tzolov/playground-flight-booking) · [官网](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html) · 个人维护
 
 **基于 Spring AI 的航班预订专家系统演示（RAG+工具调用）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tzolov/playground-flight-booking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 369 --> 371
-    line [370, 370]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 369 --> 373
+    line [370, 372]
 ```
 
-2026-10-18 370 → 2026-10-31 370（+0）
+2026-10-18 370 → 2026-11-01 372（+2）
 
 
 ---

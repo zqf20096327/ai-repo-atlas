@@ -1,6 +1,6 @@
 # kayquer/portugues-tecnico-controlado
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kayquer/portugues-tecnico-controlado) · [官网](https://kayquer.github.io/portugues-tecnico-controlado/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kayquer/portugues-tecnico-controlado) · [官网](https://kayquer.github.io/portugues-tecnico-controlado/) · 个人维护
 
 **Claude Code 技能：按 9 条规则将巴西葡萄牙语技术文本改写为单义版本**
 
@@ -40,6 +40,18 @@
 > L5: O **Português Técnico Controlado (PTC)** é uma skill do Claude Code que reescreve texto técnico em português do Bras
 > L165: O Claude Code registra a skill na próxima sessão. Sem dependências: nenhum pacote, nenhuma outra skill, nenhuma ch
 > L169: As regras são Markdown puro e não dependem do Claude Code. O que depende dele é o empacotamento — frontmatter YAML
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kayquer/portugues-tecnico-controlado 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
+```
+
+2026-10-31 14 → 2026-11-01 15（+1）
 
 
 ---

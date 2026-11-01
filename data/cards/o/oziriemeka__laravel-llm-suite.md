@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oziriemeka/laravel-llm-suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "oziriemeka/laravel-llm-suite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 35 --> 39
-    line [38, 36]
+    line [38, 36, 36]
 ```
 
-2026-10-18 38 → 2026-10-31 36（-2）
+2026-10-18 38 → 2026-11-01 36（-2）
 
 
 ---

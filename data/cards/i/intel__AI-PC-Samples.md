@@ -1,6 +1,6 @@
 # intel/AI-PC-Samples
 
-⭐ 77 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/intel/AI-PC-Samples) · 组织维护
+⭐ 77 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/intel/AI-PC-Samples) · 组织维护
 
 **Intel AI PC 上生成式 AI 工作负载的示例笔记本集合**
 
@@ -44,12 +44,12 @@ Intel 维护的示例仓库，收录一组 Jupyter 笔记本，用于在配备 I
 ```mermaid
 xychart-beta
     title "intel/AI-PC-Samples 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-01"]
     y-axis "stars" 72 --> 78
     line [73, 74, 76, 77, 77]
 ```
 
-2026-10-18 73 → 2026-10-31 77（+4）
+2026-10-18 73 → 2026-11-01 77（+4）
 
 
 ---

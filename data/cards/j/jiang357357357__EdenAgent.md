@@ -1,6 +1,6 @@
 # jiang357357357/EdenAgent
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/jiang357357357/EdenAgent) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/jiang357357357/EdenAgent) · 个人维护 · 中文 README
 
 **本地优先的桌面角色智能体应用：对话、记忆与工具执行**
 
@@ -46,12 +46,12 @@ Eden Agent 是本地优先的桌面智能体应用，基于 TypeScript、React �
 ```mermaid
 xychart-beta
     title "jiang357357357/EdenAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-31 19（+1）
+2026-10-18 18 → 2026-11-01 19（+1）
 
 
 ---

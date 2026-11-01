@@ -1,6 +1,6 @@
 # aimagelab/mammoth
 
-⭐ 847 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/aimagelab/mammoth) · 组织维护
+⭐ 848 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/aimagelab/mammoth) · 组织维护
 
 **给持续学习研究者的 PyTorch 基准与实验框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aimagelab/mammoth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 845 --> 848
-    line [846, 847, 847]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 845 --> 849
+    line [846, 847, 848]
 ```
 
-2026-10-18 846 → 2026-10-31 847（+1）
+2026-10-18 846 → 2026-11-01 848（+2）
 
 
 ---

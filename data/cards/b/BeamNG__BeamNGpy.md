@@ -1,6 +1,6 @@
 # BeamNG/BeamNGpy
 
-⭐ 396 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/BeamNG/BeamNGpy) · [官网](https://beamng.tech) · 组织维护
+⭐ 397 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/BeamNG/BeamNGpy) · [官网](https://beamng.tech) · 组织维护
 
 **远程控制 BeamNG.tech 驾驶模拟器的 Python API 库**
 
@@ -45,13 +45,13 @@ BeamNG 官方维护的 Python 库，以客户端-服务器方式连接 BeamNG.te
 
 ```mermaid
 xychart-beta
-    title "BeamNG/BeamNGpy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 394 --> 397
-    line [395, 396, 395, 396]
+    title "BeamNG/BeamNGpy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 394 --> 398
+    line [395, 396, 395, 396, 397]
 ```
 
-2026-10-18 395 → 2026-10-31 396（+1）
+2026-10-18 395 → 2026-11-01 397（+2）
 
 
 ---

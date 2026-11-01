@@ -1,6 +1,6 @@
 # coderabbitai/awesome-coderabbit
 
-⭐ 556 · CC0-1.0 · 推送 2026-09-29 · [GitHub](https://github.com/coderabbitai/awesome-coderabbit) · [官网](https://www.coderabbit.ai/) · 组织维护
+⭐ 558 · CC0-1.0 · 推送 2026-09-29 · [GitHub](https://github.com/coderabbitai/awesome-coderabbit) · [官网](https://www.coderabbit.ai/) · 组织维护
 
 **CodeRabbit AI 代码审查工具的官方资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "coderabbitai/awesome-coderabbit 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 542 --> 557
-    line [543, 546, 547, 548, 549, 550, 551, 555, 556]
+    title "coderabbitai/awesome-coderabbit 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 542 --> 559
+    line [543, 546, 547, 548, 549, 550, 551, 555, 556, 558]
 ```
 
-2026-10-18 543 → 2026-10-31 556（+13）
+2026-10-18 543 → 2026-11-01 558（+15）
 
 
 ---

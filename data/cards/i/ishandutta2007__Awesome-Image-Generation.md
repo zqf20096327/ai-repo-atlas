@@ -1,6 +1,6 @@
 # ishandutta2007/Awesome-Image-Generation
 
-⭐ 46 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/ishandutta2007/Awesome-Image-Generation) · 个人维护
+⭐ 47 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/ishandutta2007/Awesome-Image-Generation) · 个人维护
 
 **图像生成 AI 模型与工具的策展清单（awesome list）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ishandutta2007/Awesome-Image-Generation 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-01"]
     y-axis "stars" 43 --> 48
-    line [44, 45, 46, 47, 46, 46]
+    line [44, 45, 46, 47, 46, 47]
 ```
 
-2026-10-18 44 → 2026-10-31 46（+2）
+2026-10-18 44 → 2026-11-01 47（+3）
 
 
 ---

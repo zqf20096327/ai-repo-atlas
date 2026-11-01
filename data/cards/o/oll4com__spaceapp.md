@@ -1,6 +1,6 @@
 # oll4com/spaceapp
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/oll4com/spaceapp) · [官网](https://spaceapp.dev) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/oll4com/spaceapp) · [官网](https://spaceapp.dev) · 组织维护
 
 **自托管工作区：并排运行多个 AI 编码 CLI 的统一驾驶舱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oll4com/spaceapp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 15]
+    title "oll4com/spaceapp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 15, 16]
 ```
 
-2026-10-18 12 → 2026-10-31 15（+3）
+2026-10-18 12 → 2026-11-01 16（+4）
 
 
 ---

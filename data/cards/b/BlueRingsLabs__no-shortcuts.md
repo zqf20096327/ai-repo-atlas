@@ -1,6 +1,6 @@
 # BlueRingsLabs/no-shortcuts
 
-⭐ 157 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/BlueRingsLabs/no-shortcuts) · 个人维护
+⭐ 163 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/BlueRingsLabs/no-shortcuts) · 个人维护
 
 **免费数据/ML/DL/AI 工程课程：173 课 166 实验长线自学**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlueRingsLabs/no-shortcuts 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 35 --> 168
-    line [46, 55, 60, 63, 128, 136, 140, 157]
+    title "BlueRingsLabs/no-shortcuts 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 35 --> 174
+    line [46, 55, 60, 63, 128, 136, 140, 157, 163]
 ```
 
-2026-10-23 46 → 2026-10-31 157（+111）
+2026-10-23 46 → 2026-11-01 163（+117）
 
 
 ---

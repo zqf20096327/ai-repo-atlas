@@ -1,6 +1,6 @@
 # andresribeiro/nsfwjs-docker
 
-⭐ 98 · TypeScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/andresribeiro/nsfwjs-docker) · [官网](https://hub.docker.com/r/andresribeiroo/nsfwjs) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/andresribeiro/nsfwjs-docker) · [官网](https://hub.docker.com/r/andresribeiroo/nsfwjs) · 个人维护
 
 **自托管 NSFW 图片检测 API，Docker 一行命令部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "andresribeiro/nsfwjs-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 97 --> 100
+    line [98, 99]
 ```
 
-2026-10-18 98 → 2026-10-31 98（+0）
+2026-10-18 98 → 2026-11-01 99（+1）
 
 
 ---

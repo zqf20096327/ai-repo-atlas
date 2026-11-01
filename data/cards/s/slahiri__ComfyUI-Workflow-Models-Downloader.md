@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "slahiri/ComfyUI-Workflow-Models-Downloader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    title "slahiri/ComfyUI-Workflow-Models-Downloader 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-01"]
     y-axis "stars" 152 --> 157
-    line [153, 154, 155, 156]
+    line [153, 154, 155, 156, 156]
 ```
 
-2026-10-18 153 → 2026-10-31 156（+3）
+2026-10-18 153 → 2026-11-01 156（+3）
 
 
 ---

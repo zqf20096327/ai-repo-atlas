@@ -1,6 +1,6 @@
 # NoDataFound/hackGPT
 
-⭐ 1,215 · Jupyter Notebook · 推送 2026-08-12 · [GitHub](https://github.com/NoDataFound/hackGPT) · [官网](http://hackGPT.com) · 个人维护
+⭐ 1,216 · Jupyter Notebook · 推送 2026-08-12 · [GitHub](https://github.com/NoDataFound/hackGPT) · [官网](http://hackGPT.com) · 个人维护
 
 **用 ChatGPT 做安全攻防实验的 Python/Jupyter 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoDataFound/hackGPT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 1212 --> 1216
-    line [1213, 1214, 1215, 1214, 1215]
+    title "NoDataFound/hackGPT 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1212 --> 1217
+    line [1213, 1214, 1215, 1214, 1215, 1216]
 ```
 
-2026-10-18 1,213 → 2026-10-31 1,215（+2）
+2026-10-18 1,213 → 2026-11-01 1,216（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Yuan-ManX/SparkLabs
 
-⭐ 14 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Yuan-ManX/SparkLabs) · [官网](https://yuan-manx.github.io/SparkLabs/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Yuan-ManX/SparkLabs) · [官网](https://yuan-manx.github.io/SparkLabs/) · 个人维护 · 中文 README
 
 **AI 原生游戏引擎：由智能体设计世界、叙事并自主生成游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yuan-ManX/SparkLabs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kitoweeknd/RFUAV
 
-⭐ 458 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kitoweeknd/RFUAV) · 组织维护 · 中文 README
+⭐ 459 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kitoweeknd/RFUAV) · 组织维护 · 中文 README
 
 **无人机射频检测识别基准数据集及配套两阶段模型代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kitoweeknd/RFUAV 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 454 --> 459
-    line [455, 457, 458, 458]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 454 --> 460
+    line [455, 457, 458, 459]
 ```
 
-2026-10-18 455 → 2026-10-31 458（+3）
+2026-10-18 455 → 2026-11-01 459（+4）
 
 
 ---

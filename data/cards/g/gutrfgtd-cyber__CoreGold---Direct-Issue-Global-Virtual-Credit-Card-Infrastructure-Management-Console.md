@@ -1,6 +1,6 @@
 # gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console
 
-⭐ 31 · 推送 2026-10-28 · [GitHub](https://github.com/gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 35 · 推送 2026-10-28 · [GitHub](https://github.com/gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **商业虚拟信用卡（VCC）管理后台：跨境出海团队开卡与额度管控**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 9 --> 33
-    line [11, 21, 31]
+    title "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 9 --> 37
+    line [11, 21, 31, 35]
 ```
 
-2026-10-29 11 → 2026-10-31 31（+20）
+2026-10-29 11 → 2026-11-01 35（+24）
 
 
 ---

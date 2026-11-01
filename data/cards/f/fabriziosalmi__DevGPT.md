@@ -1,6 +1,6 @@
 # fabriziosalmi/DevGPT
 
-⭐ 70 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/fabriziosalmi/DevGPT) · [官网](https://chat.openai.com/g/g-eN7HtAqXW-code-togheter) · 个人维护
+⭐ 71 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/fabriziosalmi/DevGPT) · [官网](https://chat.openai.com/g/g-eN7HtAqXW-code-togheter) · 个人维护
 
 **面向开发者的编码助手自定义 GPT/提示词包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fabriziosalmi/DevGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-18 70 → 2026-10-31 70（+0）
+2026-10-18 70 → 2026-11-01 71（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Rust 实现的开源实时语音 AI 平台，WebSocket 传输 Opus 音频，支�
 ```mermaid
 xychart-beta
     title "SquadyAI/RealtimeAPI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

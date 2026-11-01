@@ -1,6 +1,6 @@
 # LexStack-AI/LexReviewer
 
-⭐ 22 · Python · 推送 2026-03-16 · [GitHub](https://github.com/LexStack-AI/LexReviewer) · 组织维护
+⭐ 23 · Python · 推送 2026-03-16 · [GitHub](https://github.com/LexStack-AI/LexReviewer) · 组织维护
 
 **面向法律 PDF 的引用感知 RAG 问答后端服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LexStack-AI/LexReviewer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 20 --> 23
-    line [21, 22]
+    title "LexStack-AI/LexReviewer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-31 22（+1）
+2026-10-18 21 → 2026-11-01 23（+2）
 
 
 ---

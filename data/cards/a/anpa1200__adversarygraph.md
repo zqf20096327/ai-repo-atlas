@@ -1,6 +1,6 @@
 # anpa1200/adversarygraph
 
-⭐ 33 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/anpa1200/adversarygraph) · [官网](https://1200km.com/adversarygraph/) · 个人维护
+⭐ 34 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/anpa1200/adversarygraph) · [官网](https://1200km.com/adversarygraph/) · 个人维护
 
 **自托管 AI 辅助 CTI 转检测工程工作台（ATT&CK 映射/IOC/CVE/仿真）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "anpa1200/adversarygraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-10-31 33（+2）
+2026-10-18 31 → 2026-11-01 34（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # RebonAI/Rebon-Code
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/RebonAI/Rebon-Code) · [官网](https://reboncode.ai) · 组织维护 · 中文 README
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/RebonAI/Rebon-Code) · [官网](https://reboncode.ai) · 组织维护 · 中文 README
 
 **终端里的 LLM 编码 agent CLI：工具循环、会话与权限管理**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行 agent 客户端，通过 agent 循环驱动 LLM 在终�
 ```mermaid
 xychart-beta
     title "RebonAI/Rebon-Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 10 --> 18
     line [11, 17, 17]
 ```
 
-2026-10-18 11 → 2026-10-31 17（+6）
+2026-10-18 11 → 2026-11-01 17（+6）
 
 
 ---

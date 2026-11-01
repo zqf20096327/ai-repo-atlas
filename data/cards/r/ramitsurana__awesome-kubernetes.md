@@ -1,6 +1,6 @@
 # ramitsurana/awesome-kubernetes
 
-⭐ 16,133 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ramitsurana/awesome-kubernetes) · [官网](https://ramitsurana.github.io/awesome-kubernetes) · 个人维护
+⭐ 16,135 · Shell · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ramitsurana/awesome-kubernetes) · [官网](https://ramitsurana.github.io/awesome-kubernetes) · 个人维护
 
 **Kubernetes 学习资源与工具的精选链接清单**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "ramitsurana/awesome-kubernetes 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 16121 --> 16134
-    line [16122, 16127, 16129, 16130, 16129, 16130, 16129, 16130, 16133]
+    title "ramitsurana/awesome-kubernetes 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 16121 --> 16136
+    line [16122, 16127, 16129, 16130, 16129, 16130, 16129, 16130, 16133, 16135]
 ```
 
-2026-10-18 16,122 → 2026-10-31 16,133（+11）
+2026-10-18 16,122 → 2026-11-01 16,135（+13）
 
 
 ---

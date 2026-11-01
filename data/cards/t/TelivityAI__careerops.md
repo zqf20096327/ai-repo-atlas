@@ -1,6 +1,6 @@
 # TelivityAI/careerops
 
-⭐ 50 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/TelivityAI/careerops) · 组织维护
+⭐ 51 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/TelivityAI/careerops) · 组织维护
 
 **本地优先的求职与职业记录应用：成果记忆、简历、面试、offer 一体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TelivityAI/careerops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
     y-axis "stars" 49 --> 55
-    line [54, 51, 50, 50]
+    line [54, 51, 50, 51]
 ```
 
-2026-10-18 54 → 2026-10-31 50（-4）
+2026-10-18 54 → 2026-11-01 51（-3）
 
 
 ---

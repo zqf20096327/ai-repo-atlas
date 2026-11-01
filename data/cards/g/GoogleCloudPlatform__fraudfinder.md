@@ -44,13 +44,13 @@ Google Cloud 官方的 Data to AI 实验室系列，以实时交易欺诈检测�
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/fraudfinder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    title "GoogleCloudPlatform/fraudfinder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
     y-axis "stars" 249 --> 253
-    line [250, 251, 252]
+    line [250, 251, 252, 252]
 ```
 
-2026-10-18 250 → 2026-10-31 252（+2）
+2026-10-18 250 → 2026-11-01 252（+2）
 
 
 ---

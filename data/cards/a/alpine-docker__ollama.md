@@ -1,6 +1,6 @@
 # alpine-docker/ollama
 
-⭐ 61 · Dockerfile · MIT · 推送 2026-10-01 · [GitHub](https://github.com/alpine-docker/ollama) · [官网](https://hub.docker.com/repository/docker/alpine/ollama/general) · 个人维护
+⭐ 61 · Dockerfile · MIT · 推送 2026-10-31 · [GitHub](https://github.com/alpine-docker/ollama) · [官网](https://hub.docker.com/repository/docker/alpine/ollama/general) · 个人维护
 
 **70MB 的 CPU-only Ollama 最小化 Docker 镜像**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alpine-docker/ollama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
     y-axis "stars" 57 --> 62
     line [58, 59, 61, 61]
 ```
 
-2026-10-18 58 → 2026-10-31 61（+3）
+2026-10-18 58 → 2026-11-01 61（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # APIParkLab/APIPark
 
-⭐ 1,822 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/APIParkLab/APIPark) · [官网](https://apipark.com) · 组织维护 · 中文 README
+⭐ 1,821 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/APIParkLab/APIPark) · [官网](https://apipark.com) · 组织维护 · 中文 README
 
 **面向开发者的 AI 网关与 API 开发者门户，统一接入 100+ 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "APIParkLab/APIPark 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    title "APIParkLab/APIPark 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1818 --> 1823
-    line [1819, 1821, 1822, 1821, 1820, 1819, 1820, 1822]
+    line [1819, 1821, 1822, 1821, 1820, 1819, 1820, 1822, 1821]
 ```
 
-2026-10-18 1,819 → 2026-10-31 1,822（+3）
+2026-10-18 1,819 → 2026-11-01 1,821（+2）
 
 
 ---

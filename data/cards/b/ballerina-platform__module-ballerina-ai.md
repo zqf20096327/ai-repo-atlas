@@ -44,12 +44,12 @@ Ballerina 平台下的 ai 模块源码仓库，提供用 Ballerina 语言构建�
 ```mermaid
 xychart-beta
     title "ballerina-platform/module-ballerina-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-31 13（+0）
+2026-10-18 13 → 2026-11-01 13（+0）
 
 
 ---

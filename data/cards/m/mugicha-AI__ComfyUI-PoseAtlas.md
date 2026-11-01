@@ -1,6 +1,6 @@
 # mugicha-AI/ComfyUI-PoseAtlas
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/mugicha-AI/ComfyUI-PoseAtlas) · 个人维护 · 中文 README
+⭐ 45 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/mugicha-AI/ComfyUI-PoseAtlas) · 个人维护 · 中文 README
 
 **ComfyUI 姿态参考图库节点：288 组多角度人台线稿可视化选用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mugicha-AI/ComfyUI-PoseAtlas 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 19 --> 36
-    line [20, 35]
+    title "mugicha-AI/ComfyUI-PoseAtlas 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 18 --> 47
+    line [20, 35, 45]
 ```
 
-2026-10-30 20 → 2026-10-31 35（+15）
+2026-10-30 20 → 2026-11-01 45（+25）
 
 
 ---

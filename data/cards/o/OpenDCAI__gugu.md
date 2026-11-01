@@ -1,6 +1,6 @@
 # OpenDCAI/gugu
 
-⭐ 79 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/OpenDCAI/gugu) · [官网](https://gugu.nextmind.space) · 组织维护 · 中文 README
+⭐ 105 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/OpenDCAI/gugu) · [官网](https://gugu.nextmind.space) · 组织维护 · 中文 README
 
 **人与 AI Agent 协同聊天的个人助理客户端**
 
@@ -44,13 +44,13 @@ Gugu 是一个聊天客户端，让人与 AI Agent 在同一群组中协作：�
 
 ```mermaid
 xychart-beta
-    title "OpenDCAI/gugu 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-31"]
-    y-axis "stars" 0 --> 86
-    line [3, 79]
+    title "OpenDCAI/gugu 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 0 --> 115
+    line [3, 79, 105]
 ```
 
-2026-10-23 3 → 2026-10-31 79（+76）
+2026-10-23 3 → 2026-11-01 105（+102）
 
 
 ---

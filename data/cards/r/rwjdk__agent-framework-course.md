@@ -1,6 +1,6 @@
 # rwjdk/agent-framework-course
 
-⭐ 41 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rwjdk/agent-framework-course) · [官网](https://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2) · 个人维护
+⭐ 41 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rwjdk/agent-framework-course) · [官网](https://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2) · 个人维护
 
 **C# 版 Microsoft Agent Framework 入门课程**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "rwjdk/agent-framework-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-31 41（+0）
+2026-10-18 41 → 2026-11-01 41（+0）
 
 
 ---

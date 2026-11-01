@@ -1,6 +1,6 @@
 # shawnshekari/strixite
 
-⭐ 89 · C++ · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/shawnshekari/strixite) · [官网](https://huggingface.co/wemoh/Qwen3.8-Flash-Next-strixw) · 个人维护
+⭐ 91 · C++ · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/shawnshekari/strixite) · [官网](https://huggingface.co/wemoh/Qwen3.8-Flash-Next-strixw) · 个人维护
 
 **面向 AMD Strix Halo 的从零手写 HIP LLM 推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shawnshekari/strixite 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 48 --> 92
-    line [51, 62, 71, 72, 76, 77, 79, 85, 86, 89, 89]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 47 --> 95
+    line [51, 62, 71, 72, 76, 77, 79, 85, 86, 89, 91]
 ```
 
-2026-10-18 51 → 2026-10-31 89（+38）
+2026-10-18 51 → 2026-11-01 91（+40）
 
 
 ---

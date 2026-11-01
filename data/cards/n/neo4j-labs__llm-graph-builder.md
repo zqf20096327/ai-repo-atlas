@@ -1,6 +1,6 @@
 # neo4j-labs/llm-graph-builder
 
-⭐ 5,289 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/neo4j-labs/llm-graph-builder) · [官网](https://llm-graph-builder.neo4jlabs.com/) · 组织维护
+⭐ 5,290 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/neo4j-labs/llm-graph-builder) · [官网](https://llm-graph-builder.neo4jlabs.com/) · 组织维护
 
 **用 LLM 把非结构化数据转为 Neo4j 知识图谱的应用**
 
@@ -46,12 +46,12 @@ Neo4j Labs 开发的全栈应用（FastAPI 后端 + React 前端）：上传本�
 ```mermaid
 xychart-beta
     title "neo4j-labs/llm-graph-builder 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 5279 --> 5290
-    line [5284, 5283, 5282, 5280, 5282, 5284, 5283, 5284, 5288, 5289, 5289]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 5279 --> 5291
+    line [5284, 5283, 5282, 5280, 5282, 5284, 5283, 5284, 5288, 5289, 5290]
 ```
 
-2026-10-18 5,284 → 2026-10-31 5,289（+5）
+2026-10-18 5,284 → 2026-11-01 5,290（+6）
 
 
 ---

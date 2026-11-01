@@ -1,6 +1,6 @@
 # snrazavi/Machine_Learning_2018
 
-⭐ 217 · Jupyter Notebook · 推送 2026-01-26 · [GitHub](https://github.com/snrazavi/Machine_Learning_2018) · 组织维护
+⭐ 218 · Jupyter Notebook · 推送 2026-01-26 · [GitHub](https://github.com/snrazavi/Machine_Learning_2018) · 组织维护
 
 **机器学习课程代码与讲义仓库：波斯语教学配套练习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "snrazavi/Machine_Learning_2018 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 216 --> 219
-    line [218, 217, 217]
+    line [218, 217, 218]
 ```
 
-2026-10-18 218 → 2026-10-31 217（-1）
+2026-10-18 218 → 2026-11-01 218（+0）
 
 
 ---

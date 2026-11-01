@@ -1,6 +1,6 @@
 # eslazarev/ai-wildberries-review-responder
 
-⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/eslazarev/ai-wildberries-review-responder) · [官网](https://eslazarev.github.io/ai-wildberries-review-responder/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/eslazarev/ai-wildberries-review-responder) · [官网](https://eslazarev.github.io/ai-wildberries-review-responder/) · 个人维护
 
 **用 LLM 自动回复 Wildberries 买家评价的服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eslazarev/ai-wildberries-review-responder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-31 18（+0）
+2026-10-18 18 → 2026-11-01 18（+0）
 
 
 ---

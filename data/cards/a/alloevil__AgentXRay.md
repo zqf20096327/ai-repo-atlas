@@ -1,6 +1,6 @@
 # alloevil/AgentXRay
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/alloevil/AgentXRay) · [官网](https://alloevil.github.io/AgentXRay/) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/alloevil/AgentXRay) · [官网](https://alloevil.github.io/AgentXRay/) · 个人维护 · 中文 README
 
 **本地查看 AI Agent 会话日志、追溯执行证据的 Web 面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alloevil/AgentXRay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-31 16（+0）
+2026-10-18 16 → 2026-11-01 16（+0）
 
 
 ---

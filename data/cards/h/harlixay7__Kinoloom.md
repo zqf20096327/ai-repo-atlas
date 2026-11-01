@@ -1,6 +1,6 @@
 # harlixay7/Kinoloom
 
-⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/harlixay7/Kinoloom) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/harlixay7/Kinoloom) · 个人维护
 
 **单卡 8GB Windows PC 上的本地 AI 电影工作室，生成短片并无缝接长镜头**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "harlixay7/Kinoloom 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 10 --> 20
-    line [11, 13, 15, 17, 19]
+    title "harlixay7/Kinoloom 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 10 --> 21
+    line [11, 13, 15, 17, 19, 20]
 ```
 
-2026-10-26 11 → 2026-10-31 19（+8）
+2026-10-26 11 → 2026-11-01 20（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # smixs/skill-conductor
 
-⭐ 200 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/smixs/skill-conductor) · [官网](https://t.me/aimastersme) · 个人维护
+⭐ 202 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/smixs/skill-conductor) · [官网](https://t.me/aimastersme) · 个人维护
 
 **为 AI agent 技能提供创建/评测/改进全流程的元级技能工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smixs/skill-conductor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 177 --> 202
-    line [179, 182, 183, 185, 198, 199, 200]
+    title "smixs/skill-conductor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 177 --> 204
+    line [179, 182, 183, 185, 198, 199, 200, 202]
 ```
 
-2026-10-18 179 → 2026-10-31 200（+21）
+2026-10-18 179 → 2026-11-01 202（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # digantamisra98/Mish
 
-⭐ 1,300 · Jupyter Notebook · MIT · 推送 2026-07-20 · [GitHub](https://github.com/digantamisra98/Mish) · [官网](https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0928.pdf) · 个人维护
+⭐ 1,301 · Jupyter Notebook · MIT · 推送 2026-07-20 · [GitHub](https://github.com/digantamisra98/Mish) · [官网](https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0928.pdf) · 个人维护
 
 **自正则非单调神经网络激活函数，BMVC 2020 官方仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "digantamisra98/Mish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1299 --> 1301
-    line [1300, 1300]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1299 --> 1302
+    line [1300, 1301]
 ```
 
-2026-10-18 1,300 → 2026-10-31 1,300（+0）
+2026-10-18 1,300 → 2026-11-01 1,301（+1）
 
 
 ---

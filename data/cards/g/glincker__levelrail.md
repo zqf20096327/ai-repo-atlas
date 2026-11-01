@@ -1,6 +1,6 @@
 # glincker/levelrail
 
-⭐ 129 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/glincker/levelrail) · [官网](https://levelrail.com) · 个人维护 · 中文 README
+⭐ 132 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/glincker/levelrail) · [官网](https://levelrail.com) · 个人维护 · 中文 README
 
 **自托管 PaaS：git push 部署到自有服务器，含 HTTPS/日志/回滚**
 
@@ -40,6 +40,18 @@
 
 > L3:  Self-hosted PaaS: deploy on git push to your own servers, with logs, metrics, HTTPS and rollback.
 > L169: - **Built for AI agents.** An MCP server with over 240 tools in on-demand toolsets (small default list, about 2.4k
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "glincker/levelrail 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 128 --> 133
+    line [129, 132]
+```
+
+2026-10-31 129 → 2026-11-01 132（+3）
 
 
 ---

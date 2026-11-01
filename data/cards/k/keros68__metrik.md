@@ -1,6 +1,6 @@
 # keros68/metrik
 
-⭐ 106 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/keros68/metrik) · 个人维护 · 中文 README
+⭐ 107 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/keros68/metrik) · 个人维护 · 中文 README
 
 **桌面组件：集中查看多个 AI 编程 Agent 的配额余量与 Token 用量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "keros68/metrik 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 104 --> 107
-    line [105, 106, 106]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107]
 ```
 
-2026-10-18 105 → 2026-10-31 106（+1）
+2026-10-18 105 → 2026-11-01 107（+2）
 
 
 ---

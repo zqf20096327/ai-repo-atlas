@@ -1,6 +1,6 @@
 # TryCaspian/caspian-sdk
 
-⭐ 973 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/TryCaspian/caspian-sdk) · [官网](https://trycaspianai.com) · 组织维护 · 中文 README
+⭐ 971 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/TryCaspian/caspian-sdk) · [官网](https://trycaspianai.com) · 组织维护 · 中文 README
 
 **AI agent 多渠道通信 SDK：一套代码接入邮件/Slack/Discord 等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TryCaspian/caspian-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 972 --> 974
-    line [973, 973]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 970 --> 974
+    line [973, 971]
 ```
 
-2026-10-18 973 → 2026-10-31 973（+0）
+2026-10-18 973 → 2026-11-01 971（-2）
 
 
 ---

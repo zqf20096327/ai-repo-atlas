@@ -1,6 +1,6 @@
 # open-mmlab/PowerPaint
 
-⭐ 1,122 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/open-mmlab/PowerPaint) · [官网](https://powerpaint.github.io/) · 组织维护 · 中文 README
+⭐ 1,123 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/open-mmlab/PowerPaint) · [官网](https://powerpaint.github.io/) · 组织维护 · 中文 README
 
 **单模型图像修补：插入/移除物体、外扩、形状可控生成**
 
@@ -45,13 +45,13 @@ ECCV 2024 论文『A Task is Worth One Word』对应的图像修补模型，基�
 
 ```mermaid
 xychart-beta
-    title "open-mmlab/PowerPaint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 1118 --> 1123
-    line [1119, 1120, 1121, 1122]
+    title "open-mmlab/PowerPaint 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1118 --> 1124
+    line [1119, 1120, 1121, 1122, 1123]
 ```
 
-2026-10-18 1,119 → 2026-10-31 1,122（+3）
+2026-10-18 1,119 → 2026-11-01 1,123（+4）
 
 
 ---

@@ -46,13 +46,13 @@ monorepo 形式提供 16 个 npm 包与 shadcn 风格 UI 注册表（107 个组�
 
 ```mermaid
 xychart-beta
-    title "LocalMode-AI/LocalMode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "LocalMode-AI/LocalMode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 63 --> 66
-    line [64, 65]
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-10-31 65（+1）
+2026-10-18 64 → 2026-11-01 65（+1）
 
 
 ---

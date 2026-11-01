@@ -1,6 +1,6 @@
 # xcanwin/manyoyo
 
-⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/xcanwin/manyoyo) · [官网](https://xcanwin.github.io/manyoyo/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/xcanwin/manyoyo) · [官网](https://xcanwin.github.io/manyoyo/) · 个人维护 · 中文 README
 
 **AI 编程智能体的 Docker/Podman 容器安全沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xcanwin/manyoyo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-10-31 13（+1）
+2026-10-18 12 → 2026-11-01 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Abdulrahman-Elsmmany/ai-media-studio-cli
 
-⭐ 19 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli) · 个人维护
 
 **命令行多模态 AI 媒体生成工具：调用 Google 模型生成视频等**
 
@@ -46,12 +46,12 @@ Python 编写的 CLI 工具，通过 Google Veo 2.0/3.0 模型按文本提示词
 ```mermaid
 xychart-beta
     title "Abdulrahman-Elsmmany/ai-media-studio-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-31 19（+0）
+2026-10-18 19 → 2026-11-01 20（+1）
 
 
 ---

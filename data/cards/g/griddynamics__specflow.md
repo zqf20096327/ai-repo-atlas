@@ -1,6 +1,6 @@
 # griddynamics/specflow
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/griddynamics/specflow) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/griddynamics/specflow) · 组织维护
 
 **面向 AI 编码代理的共享规范知识库与交付框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "griddynamics/specflow 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    title "griddynamics/specflow 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 9 --> 16
-    line [10, 15]
+    line [10, 15, 15]
 ```
 
-2026-10-30 10 → 2026-10-31 15（+5）
+2026-10-30 10 → 2026-11-01 15（+5）
 
 
 ---

@@ -46,12 +46,12 @@ Node.js 20+ 编写的 OpenRouter API 命令行客户端，零 npm 依赖，将 O
 ```mermaid
 xychart-beta
     title "aaronjmars/openroutercli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

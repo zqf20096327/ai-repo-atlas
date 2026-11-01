@@ -1,6 +1,6 @@
 # tata1661/FSL-Mate
 
-⭐ 1,765 · Python · 推送 2026-04-18 · [GitHub](https://github.com/tata1661/FSL-Mate) · 组织维护
+⭐ 1,766 · Python · 推送 2026-04-18 · [GitHub](https://github.com/tata1661/FSL-Mate) · 组织维护
 
 **小样本学习（FSL）资源合集：论文清单与 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tata1661/FSL-Mate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1764 --> 1766
-    line [1765, 1765]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1764 --> 1767
+    line [1765, 1766]
 ```
 
-2026-10-18 1,765 → 2026-10-31 1,765（+0）
+2026-10-18 1,765 → 2026-11-01 1,766（+1）
 
 
 ---

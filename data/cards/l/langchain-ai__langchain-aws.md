@@ -1,6 +1,6 @@
 # langchain-ai/langchain-aws
 
-⭐ 352 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/langchain-aws) · 组织维护
+⭐ 353 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/langchain-ai/langchain-aws) · 组织维护
 
 **为 LangChain/LangGraph 提供 AWS 服务集成组件的 Python 库**
 
@@ -44,13 +44,13 @@ LangChain 官方团队维护的 monorepo，发布三个 PyPI 包：langchain-aws
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-aws 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31"]
+    title "langchain-ai/langchain-aws 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 351 --> 354
-    line [352, 353, 352, 353, 352]
+    line [352, 353, 352, 353, 352, 353]
 ```
 
-2026-10-18 352 → 2026-10-31 352（+0）
+2026-10-18 352 → 2026-11-01 353（+1）
 
 
 ---

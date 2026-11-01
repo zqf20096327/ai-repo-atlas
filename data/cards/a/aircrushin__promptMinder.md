@@ -1,6 +1,6 @@
 # aircrushin/promptMinder
 
-⭐ 114 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/aircrushin/promptMinder) · [官网](https://prompt-minder.com) · 个人维护 · 中文 README
+⭐ 115 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/aircrushin/promptMinder) · [官网](https://prompt-minder.com) · 个人维护 · 中文 README
 
 **面向团队的提示词版本管理与协作平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aircrushin/promptMinder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 112 --> 115
-    line [113, 114]
+    title "aircrushin/promptMinder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 112 --> 116
+    line [113, 114, 115]
 ```
 
-2026-10-18 113 → 2026-10-31 114（+1）
+2026-10-18 113 → 2026-11-01 115（+2）
 
 
 ---

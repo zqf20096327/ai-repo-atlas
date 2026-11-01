@@ -1,6 +1,6 @@
 # bug0inc/qa-agent
 
-⭐ 1,295 · TypeScript · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/bug0inc/qa-agent) · [官网](https://ai.bug0.com) · 组织维护
+⭐ 1,300 · TypeScript · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/bug0inc/qa-agent) · [官网](https://ai.bug0.com) · 组织维护
 
 **用 AI 执行自然语言步骤的 Playwright 回归测试库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bug0inc/qa-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 1286 --> 1296
-    line [1287, 1290, 1291, 1292, 1293, 1295]
+    title "bug0inc/qa-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1286 --> 1301
+    line [1287, 1290, 1291, 1292, 1293, 1295, 1300]
 ```
 
-2026-10-18 1,287 → 2026-10-31 1,295（+8）
+2026-10-18 1,287 → 2026-11-01 1,300（+13）
 
 
 ---

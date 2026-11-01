@@ -1,6 +1,6 @@
 # boost-devs/ai-tech-interview
 
-⭐ 2,388 · MIT · 推送 2026-03-17 · [GitHub](https://github.com/boost-devs/ai-tech-interview) · [官网](https://boostdevs.gitbook.io/ai-tech-interview/) · 组织维护
+⭐ 2,389 · MIT · 推送 2026-03-17 · [GitHub](https://github.com/boost-devs/ai-tech-interview) · [官网](https://boostdevs.gitbook.io/ai-tech-interview/) · 组织维护
 
 **韩语 AI 工程师技术面试题清单（统计/ML/DL/Python 等 7 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "boost-devs/ai-tech-interview 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2380 --> 2389
-    line [2381, 2382, 2383, 2384, 2386, 2387, 2388, 2388]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 2380 --> 2390
+    line [2381, 2382, 2383, 2384, 2386, 2387, 2388, 2389]
 ```
 
-2026-10-18 2,381 → 2026-10-31 2,388（+7）
+2026-10-18 2,381 → 2026-11-01 2,389（+8）
 
 
 ---

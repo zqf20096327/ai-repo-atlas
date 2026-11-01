@@ -1,6 +1,6 @@
 # fairlearn/fairlearn
 
-⭐ 2,303 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fairlearn/fairlearn) · [官网](https://fairlearn.org) · 组织维护
+⭐ 2,304 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fairlearn/fairlearn) · [官网](https://fairlearn.org) · 组织维护
 
 **评估并缓解机器学习模型公平性问题的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fairlearn/fairlearn 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 2297 --> 2304
-    line [2298, 2299, 2301, 2300, 2302, 2303, 2303]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 2297 --> 2305
+    line [2298, 2299, 2301, 2300, 2302, 2303, 2304]
 ```
 
-2026-10-18 2,298 → 2026-10-31 2,303（+5）
+2026-10-18 2,298 → 2026-11-01 2,304（+6）
 
 
 ---

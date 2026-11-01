@@ -1,6 +1,6 @@
 # xlite-dev/lite.ai.toolkit
 
-⭐ 4,445 · C++ · GPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/xlite-dev/lite.ai.toolkit) · [官网](https://github.com/xlite-dev/lite.ai.toolkit) · 组织维护 · 中文 README
+⭐ 4,446 · C++ · GPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/xlite-dev/lite.ai.toolkit) · [官网](https://github.com/xlite-dev/lite.ai.toolkit) · 组织维护 · 中文 README
 
 **C++ AI 推理工具箱：100+ 模型的检测/识别/抠图/生成实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xlite-dev/lite.ai.toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 4441 --> 4446
-    line [4442, 4443, 4444, 4445, 4445]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 4441 --> 4447
+    line [4442, 4443, 4444, 4445, 4446]
 ```
 
-2026-10-18 4,442 → 2026-10-31 4,445（+3）
+2026-10-18 4,442 → 2026-11-01 4,446（+4）
 
 
 ---

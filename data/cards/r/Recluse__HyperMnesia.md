@@ -1,6 +1,6 @@
 # Recluse/HyperMnesia
 
-⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Recluse/HyperMnesia) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Recluse/HyperMnesia) · 个人维护
 
 **给 AI 编码 agent 的自托管长期记忆：文档 RAG + 个人记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Recluse/HyperMnesia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 14, 15]
+    title "Recluse/HyperMnesia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 14, 15, 16]
 ```
 
-2026-10-18 11 → 2026-10-31 15（+4）
+2026-10-18 11 → 2026-11-01 16（+5）
 
 
 ---

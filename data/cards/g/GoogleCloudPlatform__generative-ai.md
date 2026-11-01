@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/generative-ai
 
-⭐ 17,826 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
+⭐ 17,830 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
 
 **面向开发者的 Google Cloud 生成式 AI 示例与笔记本集**
 
@@ -52,13 +52,13 @@ Google Cloud 平台上的生成式 AI 示例仓库，收录 notebooks、代码�
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/generative-ai 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 17796 --> 17828
-    line [17798, 17804, 17807, 17810, 17811, 17813, 17814, 17818, 17819, 17825, 17826]
+    title "GoogleCloudPlatform/generative-ai 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 17795 --> 17833
+    line [17798, 17804, 17807, 17810, 17811, 17813, 17814, 17818, 17819, 17825, 17826, 17830]
 ```
 
-2026-10-18 17,798 → 2026-10-31 17,826（+28）
+2026-10-18 17,798 → 2026-11-01 17,830（+32）
 
 
 ---

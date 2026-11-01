@@ -1,6 +1,6 @@
 # tpt-adasp/rt-machine-cpp
 
-⭐ 13 · C++ · NOASSERTION · 推送 2025-11-04 · [GitHub](https://github.com/tpt-adasp/rt-machine-cpp) · [官网](https://adasp.telecom-paris.fr/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **构建实时音频机器学习研究原型的 C++20 框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

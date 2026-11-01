@@ -1,6 +1,6 @@
 # Trusted-AI/AIF360
 
-⭐ 2,878 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/Trusted-AI/AIF360) · [官网](https://aif360.res.ibm.com/) · 组织维护
+⭐ 2,880 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/Trusted-AI/AIF360) · [官网](https://aif360.res.ibm.com/) · 组织维护
 
 **检测与缓解机器学习偏差的公平性工具库（Python/R）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Trusted-AI/AIF360 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 2875 --> 2880
-    line [2877, 2876, 2878, 2879, 2878]
+    title "Trusted-AI/AIF360 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 2875 --> 2881
+    line [2877, 2876, 2878, 2879, 2878, 2880]
 ```
 
-2026-10-18 2,877 → 2026-10-31 2,878（+1）
+2026-10-18 2,877 → 2026-11-01 2,880（+3）
 
 
 ---

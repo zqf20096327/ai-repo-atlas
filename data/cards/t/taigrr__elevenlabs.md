@@ -1,6 +1,6 @@
 # taigrr/elevenlabs
 
-⭐ 69 · Go · 0BSD · 推送 2026-10-23 · [GitHub](https://github.com/taigrr/elevenlabs) · [官网](https://pkg.go.dev/github.com/taigrr/elevenlabs) · 个人维护
+⭐ 69 · Go · 0BSD · 推送 2026-10-31 · [GitHub](https://github.com/taigrr/elevenlabs) · [官网](https://pkg.go.dev/github.com/taigrr/elevenlabs) · 个人维护
 
 **非官方 Go 客户端：调用 ElevenLabs 语音合成/转录 API**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "taigrr/elevenlabs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-31 69（+0）
+2026-10-18 69 → 2026-11-01 69（+0）
 
 
 ---

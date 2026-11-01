@@ -1,6 +1,6 @@
 # iamtekson/GeoAgent
 
-⭐ 47 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iamtekson/GeoAgent) · [官网](https://plugins.qgis.org/plugins/geo_agent/) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iamtekson/GeoAgent) · [官网](https://plugins.qgis.org/plugins/geo_agent/) · 个人维护
 
 **QGIS 插件：用自然语言驱动地理数据处理与分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamtekson/GeoAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 48]
 ```
 
-2026-10-18 46 → 2026-10-31 47（+1）
+2026-10-18 46 → 2026-11-01 48（+2）
 
 
 ---

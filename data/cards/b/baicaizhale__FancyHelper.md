@@ -1,6 +1,6 @@
 # baicaizhale/FancyHelper
 
-⭐ 64 · Java · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/baicaizhale/FancyHelper) · [官网](https://modrinth.com/plugin/fancyhelper) · 个人维护 · 中文 README
+⭐ 64 · Java · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/baicaizhale/FancyHelper) · [官网](https://modrinth.com/plugin/fancyhelper) · 个人维护 · 中文 README
 
 **Minecraft 服务器管理的游戏内 AI 助手插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baicaizhale/FancyHelper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-01"]
     y-axis "stars" 63 --> 71
     line [67, 69, 70, 64, 64]
 ```
 
-2026-10-18 67 → 2026-10-31 64（-3）
+2026-10-18 67 → 2026-11-01 64（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # aizuda/apipig
 
-⭐ 21 · Vue · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/aizuda/apipig) · [官网](https://apipig.aizuda.com/) · 组织维护 · 中文 README
+⭐ 22 · Vue · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/aizuda/apipig) · [官网](https://apipig.aizuda.com/) · 组织维护 · 中文 README
 
 **面向企业的免费 AI 网关：多模型统一接入与调用治理**
 
@@ -45,13 +45,13 @@ Go 编写的 AI 网关与控制台，把多模型接入、账号池、API Key �
 
 ```mermaid
 xychart-beta
-    title "aizuda/apipig 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21]
+    title "aizuda/apipig 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-10-31 21（+2）
+2026-10-18 19 → 2026-11-01 22（+3）
 
 
 ---

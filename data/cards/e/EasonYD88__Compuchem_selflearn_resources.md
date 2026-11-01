@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "EasonYD88/Compuchem_selflearn_resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    title "EasonYD88/Compuchem_selflearn_resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
     y-axis "stars" 40 --> 43
-    line [41, 42, 41]
+    line [41, 42, 41, 41]
 ```
 
-2026-10-18 41 → 2026-10-31 41（+0）
+2026-10-18 41 → 2026-11-01 41（+0）
 
 
 ---

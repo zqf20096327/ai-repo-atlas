@@ -1,6 +1,6 @@
 # AltimateAI/altimate-code
 
-⭐ 815 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AltimateAI/altimate-code) · [官网](https://altimate.sh) · 组织维护
+⭐ 817 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AltimateAI/altimate-code) · [官网](https://altimate.sh) · 组织维护
 
 **面向数据团队的开源 agentic 数据工程 harness（SQL/dbt/数仓）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AltimateAI/altimate-code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 810 --> 816
-    line [811, 812, 813, 814, 815]
+    title "AltimateAI/altimate-code 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 810 --> 818
+    line [811, 812, 813, 814, 815, 817]
 ```
 
-2026-10-18 811 → 2026-10-31 815（+4）
+2026-10-18 811 → 2026-11-01 817（+6）
 
 
 ---

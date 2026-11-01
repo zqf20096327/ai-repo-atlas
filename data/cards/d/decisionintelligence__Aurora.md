@@ -45,13 +45,13 @@ ICLR 2026 论文 Aurora 的官方代码仓库，提供预训练多模态时间�
 
 ```mermaid
 xychart-beta
-    title "decisionintelligence/Aurora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "decisionintelligence/Aurora 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 79 --> 82
-    line [80, 81, 80]
+    line [80, 81, 80, 80]
 ```
 
-2026-10-18 80 → 2026-10-31 80（+0）
+2026-10-18 80 → 2026-11-01 80（+0）
 
 
 ---

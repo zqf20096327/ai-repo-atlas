@@ -1,6 +1,6 @@
 # Porabuild/Poracode
 
-⭐ 121 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Porabuild/Poracode) · [官网](https://poracode.com) · 组织维护
+⭐ 121 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Porabuild/Poracode) · [官网](https://poracode.com) · 组织维护
 
 **单一窗口并行运行多种 AI 编程 agent 的桌面客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Porabuild/Poracode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    title "Porabuild/Poracode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 115 --> 122
-    line [116, 118, 119, 120, 121]
+    line [116, 118, 119, 120, 121, 121]
 ```
 
-2026-10-18 116 → 2026-10-31 121（+5）
+2026-10-18 116 → 2026-11-01 121（+5）
 
 
 ---

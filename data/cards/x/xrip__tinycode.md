@@ -1,6 +1,6 @@
 # xrip/tinycode
 
-⭐ 25 · TypeScript · 推送 2026-01-11 · [GitHub](https://github.com/xrip/tinycode) · 个人维护
+⭐ 26 · TypeScript · 推送 2026-01-11 · [GitHub](https://github.com/xrip/tinycode) · 个人维护
 
 **单文件 AI 编程助手，调用 Claude 完成代码读写与命令执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xrip/tinycode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-31 25（+0）
+2026-10-18 25 → 2026-11-01 26（+1）
 
 
 ---

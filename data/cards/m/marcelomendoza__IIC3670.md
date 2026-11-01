@@ -38,6 +38,18 @@ IIC3670 课程仓库，收录自然语言处理课程的 Python 代码与示例�
 > L1: # IIC3670 - NLP
 > L2: Códigos y ejemplos en Python del curso NLP
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marcelomendoza/IIC3670 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
+```
+
+2026-10-31 43 → 2026-11-01 43（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `b57b022a7ad0` · [字段定义](../../DATASET.md)*

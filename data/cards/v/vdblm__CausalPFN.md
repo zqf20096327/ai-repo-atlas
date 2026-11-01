@@ -45,13 +45,13 @@ Python 库，利用 transformer 架构的 in-context learning 实现摊销式因
 
 ```mermaid
 xychart-beta
-    title "vdblm/CausalPFN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    title "vdblm/CausalPFN 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
     y-axis "stars" 133 --> 137
-    line [134, 135, 136]
+    line [134, 135, 136, 136]
 ```
 
-2026-10-18 134 → 2026-10-31 136（+2）
+2026-10-18 134 → 2026-11-01 136（+2）
 
 
 ---

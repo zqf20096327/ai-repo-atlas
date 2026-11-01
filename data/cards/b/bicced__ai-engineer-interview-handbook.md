@@ -1,6 +1,6 @@
 # bicced/ai-engineer-interview-handbook
 
-⭐ 26 · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/bicced/ai-engineer-interview-handbook) · [官网](https://deployprep.vercel.app) · 个人维护
+⭐ 27 · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/bicced/ai-engineer-interview-handbook) · [官网](https://deployprep.vercel.app) · 个人维护
 
 **面向 Applied AI/FDE 岗位的 AI 工程师面试题库与备考手册**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bicced/ai-engineer-interview-handbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 21 --> 28
+    line [22, 23, 25, 26, 27]
 ```
 
-2026-10-18 22 → 2026-10-31 26（+4）
+2026-10-18 22 → 2026-11-01 27（+5）
 
 
 ---

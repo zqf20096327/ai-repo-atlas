@@ -1,6 +1,6 @@
 # hustcc/mcp-echarts
 
-⭐ 270 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/hustcc/mcp-echarts) · [官网](https://github.com/hustcc/mcp-echarts) · 个人维护
+⭐ 269 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/hustcc/mcp-echarts) · [官网](https://github.com/hustcc/mcp-echarts) · 个人维护
 
 **通过 MCP 让 AI 动态生成 ECharts 图表的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hustcc/mcp-echarts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 269 --> 271
-    line [270, 270]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 268 --> 271
+    line [270, 269]
 ```
 
-2026-10-18 270 → 2026-10-31 270（+0）
+2026-10-18 270 → 2026-11-01 269（-1）
 
 
 ---

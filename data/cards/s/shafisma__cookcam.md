@@ -1,6 +1,6 @@
 # shafisma/cookcam
 
-⭐ 52 · JavaScript · 推送 2026-03-09 · [GitHub](https://github.com/shafisma/cookcam) · 个人维护
+⭐ 53 · JavaScript · 推送 2026-03-09 · [GitHub](https://github.com/shafisma/cookcam) · 个人维护
 
 **实时 AI 烹饪助手：摄像头看厨房，语音逐步指导做菜**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shafisma/cookcam 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 45 --> 53
-    line [46, 47, 48, 49, 51, 52]
+    title "shafisma/cookcam 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 45 --> 54
+    line [46, 47, 48, 49, 51, 52, 53]
 ```
 
-2026-10-18 46 → 2026-10-31 52（+6）
+2026-10-18 46 → 2026-11-01 53（+7）
 
 
 ---

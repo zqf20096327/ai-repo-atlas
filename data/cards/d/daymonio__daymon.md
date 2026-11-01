@@ -1,6 +1,6 @@
 # daymonio/daymon
 
-⭐ 365 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/daymonio/daymon) · [官网](http://daymon.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **让 Claude 7×24 后台运行的本地桌面调度与记忆工具**
 
@@ -11,7 +11,7 @@ Electron 桌面应用（macOS/Windows/Linux 菜单栏驻留），接入已有的
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

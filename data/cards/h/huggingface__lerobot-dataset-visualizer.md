@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/lerobot-dataset-visualizer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    title "huggingface/lerobot-dataset-visualizer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 132 --> 138
-    line [133, 135, 136, 137]
+    line [133, 135, 136, 137, 137]
 ```
 
-2026-10-18 133 → 2026-10-31 137（+4）
+2026-10-18 133 → 2026-11-01 137（+4）
 
 
 ---

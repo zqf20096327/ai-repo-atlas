@@ -1,6 +1,6 @@
 # FranciscoMoretti/chat-js
 
-⭐ 1,202 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/FranciscoMoretti/chat-js) · [官网](https://chatjs.dev) · 个人维护
+⭐ 1,203 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/FranciscoMoretti/chat-js) · [官网](https://chatjs.dev) · 个人维护
 
 **生产就绪的多模型 AI 聊天应用脚手架，供开发者自建聊天产品**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FranciscoMoretti/chat-js 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 1199 --> 1203
-    line [1201, 1202, 1201, 1200, 1201, 1202]
+    title "FranciscoMoretti/chat-js 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 1199 --> 1204
+    line [1201, 1202, 1201, 1200, 1201, 1202, 1203]
 ```
 
-2026-10-18 1,201 → 2026-10-31 1,202（+1）
+2026-10-18 1,201 → 2026-11-01 1,203（+2）
 
 
 ---

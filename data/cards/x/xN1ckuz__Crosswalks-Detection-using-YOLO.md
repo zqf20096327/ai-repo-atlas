@@ -1,6 +1,6 @@
 # xN1ckuz/Crosswalks-Detection-using-YOLO
 
-⭐ 45 · Jupyter Notebook · GPL-3.0 · 推送 2026-02-08 · [GitHub](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO) · 组织维护
+⭐ 46 · Jupyter Notebook · GPL-3.0 · 推送 2026-02-08 · [GitHub](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO) · 组织维护
 
 **YOLO 人行横道检测项目（巴西利卡塔大学课程）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xN1ckuz/Crosswalks-Detection-using-YOLO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-31 45（+0）
+2026-10-18 45 → 2026-11-01 46（+1）
 
 
 ---

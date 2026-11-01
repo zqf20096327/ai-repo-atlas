@@ -1,6 +1,6 @@
 # rk0neki/OpenKatana
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rk0neki/OpenKatana) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rk0neki/OpenKatana) · 个人维护
 
 **给创作者与 AI agent 的开源代码化视频剪辑引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rk0neki/OpenKatana 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 4 --> 17
-    line [5, 7, 9, 10, 11, 16]
+    title "rk0neki/OpenKatana 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 4 --> 20
+    line [5, 7, 9, 10, 11, 16, 19]
 ```
 
-2026-10-24 5 → 2026-10-31 16（+11）
+2026-10-24 5 → 2026-11-01 19（+14）
 
 
 ---

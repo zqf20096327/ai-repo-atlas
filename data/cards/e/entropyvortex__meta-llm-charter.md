@@ -1,6 +1,6 @@
 # entropyvortex/meta-llm-charter
 
-⭐ 247 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/entropyvortex/meta-llm-charter) · 个人维护
+⭐ 247 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/entropyvortex/meta-llm-charter) · 个人维护
 
 **约束 LLM 编码代理行为的精简操作宪章（核心 2,399 字节）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "entropyvortex/meta-llm-charter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01"]
     y-axis "stars" 246 --> 249
     line [248, 247, 248, 247, 247]
 ```
 
-2026-10-18 248 → 2026-10-31 247（-1）
+2026-10-18 248 → 2026-11-01 247（-1）
 
 
 ---

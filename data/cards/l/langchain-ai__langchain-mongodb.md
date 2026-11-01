@@ -44,12 +44,12 @@ Monorepo 形式提供 MongoDB 与 LangChainAI 的伙伴包：langchain-mongodb�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-mongodb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 125 --> 128
     line [127, 126, 126]
 ```
 
-2026-10-18 127 → 2026-10-31 126（-1）
+2026-10-18 127 → 2026-11-01 126（-1）
 
 
 ---

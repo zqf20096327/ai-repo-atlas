@@ -1,6 +1,6 @@
 # brainiak/brainiak
 
-⭐ 372 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/brainiak/brainiak) · [官网](http://brainiak.org) · 组织维护
+⭐ 372 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/brainiak/brainiak) · [官网](http://brainiak.org) · 组织维护
 
 **面向神经科学的 fMRI 分析 Python 模块包**
 
@@ -45,12 +45,12 @@ BrainIAK（Brain Imaging Analysis Kit）是用于神经科学、以功能磁共�
 ```mermaid
 xychart-beta
     title "brainiak/brainiak 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
     y-axis "stars" 371 --> 374
     line [373, 372, 372]
 ```
 
-2026-10-18 373 → 2026-10-31 372（-1）
+2026-10-18 373 → 2026-11-01 372（-1）
 
 
 ---

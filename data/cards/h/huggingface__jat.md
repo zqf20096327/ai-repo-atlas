@@ -1,6 +1,6 @@
 # huggingface/jat
 
-⭐ 186 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/jat) · 组织维护
+⭐ 187 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/jat) · 组织维护
 
 **多任务深度强化学习 Transformer 智能体（JAT）**
 
@@ -45,12 +45,12 @@ Hugging Face 团队发布的多用途 Transformer 智能体 JAT：在 Atari 57�
 ```mermaid
 xychart-beta
     title "huggingface/jat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 185 --> 187
-    line [186, 186]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 185 --> 188
+    line [186, 187]
 ```
 
-2026-10-18 186 → 2026-10-31 186（+0）
+2026-10-18 186 → 2026-11-01 187（+1）
 
 
 ---

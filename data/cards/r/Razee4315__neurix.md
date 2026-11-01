@@ -1,6 +1,6 @@
 # Razee4315/neurix
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Razee4315/neurix) · [官网](https://razee4315.github.io/neurix/) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Razee4315/neurix) · [官网](https://razee4315.github.io/neurix/) · 个人维护
 
 **手机/桌面离线运行本地大模型的聊天应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Razee4315/neurix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 13 --> 17
     line [14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-31 16（+2）
+2026-10-18 14 → 2026-11-01 16（+2）
 
 
 ---

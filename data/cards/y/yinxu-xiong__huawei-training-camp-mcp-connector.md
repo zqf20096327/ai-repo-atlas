@@ -1,0 +1,58 @@
+# yinxu-xiong/huawei-training-camp-mcp-connector
+
+⭐ 12 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/yinxu-xiong/huawei-training-camp-mcp-connector) · 个人维护 · 中文 README
+
+**把华为运动健康数据接入 AI 客户端的本地 MCP 服务器**
+
+基于华为运动健康（HTC）API 的 MCP 服务器，向 Claude Desktop、Cherry Studio 等支持 MCP 的 AI 客户端暴露 14 个工具，覆盖训练列表与详情、周期聚合与环比、周趋势、睡眠、静息心率、HRV、跑力与预测成绩、个人纪录。认证信息由用户本人从已登录浏览器会话提取，仅经环境变量提供、不落盘，数小时到数天后过期需重取。服务只在本机运行，数据仅在用户电脑与华为服务器之间流动。安装需下载源码、Python 3.12+ 与 venv 装依赖，无打包发布。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 14 个 MCP 工具：训练详情/周期对比/周趋势/睡眠/HRV/跑力预测/PB 等
+- 凭证仅经环境变量、不落盘不进 Git，声明不做绕过认证的功能
+- 本机运行，数据只经用户电脑与华为服务器
+- 自带 315 个 Mock 单测与连通性自检脚本
+
+## 适用场景
+
+- 用自然语言向 AI 查询和分析自己的训练、睡眠与恢复数据
+- 对比周跑量趋势、周期环比，评估跑力与预测马拉松成绩
+- 在 Cherry Studio 或 Claude Desktop 中以 stdio 方式接入本地华为健康数据
+
+## 场景标签
+
+`数据分析` · 领域:效率与自动化
+
+## 证据(README 行号)
+
+> L19: App 里一屏屏翻。本项目把这些数据变成 **AI 能直接调用的工具**（MCP，
+> L29: 数据永远只在你自己的电脑 ↔ 华为服务器之间流动，AI 客户端通过本项目的
+> L156: 3. 保存并启用该服务，客户端里应该能看到 14 个工具（`health_check`、
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yinxu-xiong/huawei-training-camp-mcp-connector 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-11-01"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-10-29 12 → 2026-11-01 12（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `c3ea40a3543a` · [字段定义](../../DATASET.md)*

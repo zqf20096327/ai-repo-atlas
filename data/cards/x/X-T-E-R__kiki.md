@@ -1,6 +1,6 @@
 # X-T-E-R/kiki
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/X-T-E-R/kiki) · [官网](https://x-t-e-r.github.io/kiki/) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/X-T-E-R/kiki) · [官网](https://x-t-e-r.github.io/kiki/) · 个人维护 · 中文 README
 
 **多模型 AI agent 工作台：桌面/TUI/Web 三端调度子代理完成任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "X-T-E-R/kiki 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 30 --> 38
-    line [31, 37]
+    title "X-T-E-R/kiki 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 30 --> 40
+    line [31, 37, 39]
 ```
 
-2026-10-30 31 → 2026-10-31 37（+6）
+2026-10-30 31 → 2026-11-01 39（+8）
 
 
 ---

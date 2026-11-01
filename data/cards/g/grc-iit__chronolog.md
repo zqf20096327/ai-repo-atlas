@@ -45,12 +45,12 @@ ChronoLog 是 Gnosis Research Center（伊利诺伊理工）开发的分布式�
 ```mermaid
 xychart-beta
     title "grc-iit/chronolog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

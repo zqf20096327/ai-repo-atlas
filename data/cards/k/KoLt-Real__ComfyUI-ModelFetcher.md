@@ -45,12 +45,12 @@ ComfyUI 顶栏按钮插件：解析当前工作流 MarkdownNote/Note 节点（�
 ```mermaid
 xychart-beta
     title "KoLt-Real/ComfyUI-ModelFetcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Quartermaster-Labs/Quartermaster
 
-⭐ 33 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Quartermaster-Labs/Quartermaster) · [官网](https://quartermaster-labs.github.io/Quartermaster/) · 组织维护
+⭐ 33 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Quartermaster-Labs/Quartermaster) · [官网](https://quartermaster-labs.github.io/Quartermaster/) · 组织维护
 
 **单机本地推理编排平台：按 VRAM 自动配置并热切换多后端模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Quartermaster-Labs/Quartermaster 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01"]
     y-axis "stars" 31 --> 34
     line [33, 32, 33, 33]
 ```
 
-2026-10-18 33 → 2026-10-31 33（+0）
+2026-10-18 33 → 2026-11-01 33（+0）
 
 
 ---

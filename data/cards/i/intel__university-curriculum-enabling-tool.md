@@ -44,12 +44,12 @@ Intel 开发的本地单用户应用，结合微调语言模型与检索增强�
 ```mermaid
 xychart-beta
     title "intel/university-curriculum-enabling-tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

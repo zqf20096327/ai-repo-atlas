@@ -1,6 +1,6 @@
 # teraus111/web3-agent-kit-solana-trading
 
-⭐ 145 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/teraus111/web3-agent-kit-solana-trading) · 个人维护
+⭐ 153 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/teraus111/web3-agent-kit-solana-trading) · 个人维护
 
 **构建与区块链交互的自主 AI agent 的 Python 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "teraus111/web3-agent-kit-solana-trading 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 0 --> 158
-    line [10, 91, 110, 132, 145]
+    title "teraus111/web3-agent-kit-solana-trading 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 0 --> 167
+    line [10, 91, 110, 132, 145, 153]
 ```
 
-2026-10-26 10 → 2026-10-31 145（+135）
+2026-10-26 10 → 2026-11-01 153（+143）
 
 
 ---

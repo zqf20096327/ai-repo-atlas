@@ -1,6 +1,6 @@
 # gamio-22/vrchat-ai-agent
 
-⭐ 17 · 推送 2026-09-25 · [GitHub](https://github.com/gamio-22/vrchat-ai-agent) · [官网](https://www.youtube.com/channel/UCXj9c0VsTbFLUMKkNMEHiDg) · 个人维护
+⭐ 17 · 推送 2026-10-31 · [GitHub](https://github.com/gamio-22/vrchat-ai-agent) · [官网](https://www.youtube.com/channel/UCXj9c0VsTbFLUMKkNMEHiDg) · 个人维护
 
 **VRChat 上的自律 AI 伴侣 Agent：语音对话+视觉+记忆+情感驱动身体动作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gamio-22/vrchat-ai-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    title "gamio-22/vrchat-ai-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 17]
+    line [14, 15, 17, 17]
 ```
 
-2026-10-18 14 → 2026-10-31 17（+3）
+2026-10-18 14 → 2026-11-01 17（+3）
 
 
 ---

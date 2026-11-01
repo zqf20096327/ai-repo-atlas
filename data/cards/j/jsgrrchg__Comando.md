@@ -1,6 +1,6 @@
 # jsgrrchg/Comando
 
-⭐ 14 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/jsgrrchg/Comando) · 个人维护
+⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/jsgrrchg/Comando) · 个人维护
 
 **本地优先的多面板 AI agent 编码工作区（桌面应用）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jsgrrchg/Comando 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 15（+2）
 
 
 ---

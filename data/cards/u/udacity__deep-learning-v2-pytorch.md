@@ -44,13 +44,13 @@ Udacity Deep Learning Nanodegree (ND101 v7) 配套仓库，提供覆盖神经网
 
 ```mermaid
 xychart-beta
-    title "udacity/deep-learning-v2-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-31"]
+    title "udacity/deep-learning-v2-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 5522 --> 5525
-    line [5523, 5524]
+    line [5523, 5524, 5524]
 ```
 
-2026-10-28 5,523 → 2026-10-31 5,524（+1）
+2026-10-28 5,523 → 2026-11-01 5,524（+1）
 
 
 ---

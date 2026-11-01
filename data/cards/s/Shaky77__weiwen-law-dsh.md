@@ -1,6 +1,6 @@
 # Shaky77/weiwen-law-dsh
 
-⭐ 17 · JavaScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Shaky77/weiwen-law-dsh) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Shaky77/weiwen-law-dsh) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness Agent 挂白箱因果风控的中间件插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shaky77/weiwen-law-dsh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17]
+    title "Shaky77/weiwen-law-dsh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-10-31 17（+2）
+2026-10-18 15 → 2026-11-01 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # concierge-hq/concierge
 
-⭐ 528 · Python · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/concierge-hq/concierge) · [官网](https://platform.getconcierge.app) · 组织维护
+⭐ 527 · Python · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/concierge-hq/concierge) · [官网](https://platform.getconcierge.app) · 组织维护
 
 **构建 MCP 服务器的 SDK：按工作流渐进披露工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "concierge-hq/concierge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 527 --> 529
-    line [528, 528]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 526 --> 529
+    line [528, 527]
 ```
 
-2026-10-18 528 → 2026-10-31 528（+0）
+2026-10-18 528 → 2026-11-01 527（-1）
 
 
 ---

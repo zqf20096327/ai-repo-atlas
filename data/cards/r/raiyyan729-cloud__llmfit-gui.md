@@ -1,6 +1,6 @@
 # raiyyan729-cloud/llmfit-gui
 
-⭐ 20 · PowerShell · 推送 2026-09-02 · [GitHub](https://github.com/raiyyan729-cloud/llmfit-gui) · [官网](https://github.com/AlexsJones/llmfit) · 个人维护
+⭐ 21 · PowerShell · 推送 2026-09-02 · [GitHub](https://github.com/raiyyan729-cloud/llmfit-gui) · [官网](https://github.com/AlexsJones/llmfit) · 个人维护
 
 **Windows GUI，按硬件选型、下载并基准测试本地 LLM**
 
@@ -45,12 +45,12 @@ PowerShell + WinForms 编写的 Windows 桌面应用，封装 llmfit CLI：根�
 ```mermaid
 xychart-beta
     title "raiyyan729-cloud/llmfit-gui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31"]
-    y-axis "stars" 13 --> 21
-    line [14, 16, 18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-01"]
+    y-axis "stars" 13 --> 22
+    line [14, 16, 18, 19, 20, 21]
 ```
 
-2026-10-18 14 → 2026-10-31 20（+6）
+2026-10-18 14 → 2026-11-01 21（+7）
 
 
 ---

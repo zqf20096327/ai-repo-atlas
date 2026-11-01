@@ -1,6 +1,6 @@
 # aifabrice/jev-rag
 
-⭐ 15 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aifabrice/jev-rag) · [官网](https://aifabrice.github.io/jev-rag/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aifabrice/jev-rag) · [官网](https://aifabrice.github.io/jev-rag/) · 个人维护 · 中文 README
 
 **本地优先的向量无关 RAG 知识搜索引擎，带引用回答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aifabrice/jev-rag 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31"]
+    title "aifabrice/jev-rag 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15]
+    line [11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-10-31 15（+4）
+2026-10-18 11 → 2026-11-01 15（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # FeatherHunter/dsh-mattpocock-skills-deck
 
-⭐ 265 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) · [官网](https://featherhunter.github.io/dsh-mattpocock-skills-deck/architecture/MattSkills-architecture.html) · 个人维护 · 中文 README
+⭐ 269 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) · [官网](https://featherhunter.github.io/dsh-mattpocock-skills-deck/architecture/MattSkills-architecture.html) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：把 mattpocock/skills 任务化为可视任务板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FeatherHunter/dsh-mattpocock-skills-deck 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 151 --> 275
-    line [161, 179, 187, 204, 215, 224, 232, 237, 245, 251, 262, 265]
+    title "FeatherHunter/dsh-mattpocock-skills-deck 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 151 --> 279
+    line [161, 179, 187, 204, 215, 224, 232, 237, 245, 251, 262, 265, 269]
 ```
 
-2026-10-18 161 → 2026-10-31 265（+104）
+2026-10-18 161 → 2026-11-01 269（+108）
 
 
 ---

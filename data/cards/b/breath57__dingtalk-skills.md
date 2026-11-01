@@ -1,6 +1,6 @@
 # breath57/dingtalk-skills
 
-⭐ 102 · Python · 推送 2026-06-26 · [GitHub](https://github.com/breath57/dingtalk-skills) · 个人维护 · 中文 README
+⭐ 101 · Python · 推送 2026-06-26 · [GitHub](https://github.com/breath57/dingtalk-skills) · 个人维护 · 中文 README
 
 **让 AI Agent 用对话操作钉钉的技能库（8 个技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "breath57/dingtalk-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 100 --> 103
+    line [102, 101]
 ```
 
-2026-10-18 102 → 2026-10-31 102（+0）
+2026-10-18 102 → 2026-11-01 101（-1）
 
 
 ---

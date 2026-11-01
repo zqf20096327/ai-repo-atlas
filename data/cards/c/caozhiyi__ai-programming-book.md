@@ -1,6 +1,6 @@
 # caozhiyi/ai-programming-book
 
-⭐ 44 · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/caozhiyi/ai-programming-book) · 个人维护 · 中文 README
+⭐ 45 · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/caozhiyi/ai-programming-book) · 个人维护 · 中文 README
 
 **从第一性原理推导 AI 编程系统的开源技术书（4 部分 15 章）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "caozhiyi/ai-programming-book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45]
 ```
 
-2026-10-18 43 → 2026-10-31 44（+1）
+2026-10-18 43 → 2026-11-01 45（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # yee-yore/DorkAgent
 
-⭐ 330 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/yee-yore/DorkAgent) · 个人维护
+⭐ 331 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/yee-yore/DorkAgent) · 个人维护
 
 **LLM 驱动的自动化 Google Dorking 代理，用于渗透测试与赏金狩猎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yee-yore/DorkAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 324 --> 331
-    line [325, 326, 329, 330, 330]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 324 --> 332
+    line [325, 326, 329, 330, 331]
 ```
 
-2026-10-18 325 → 2026-10-31 330（+5）
+2026-10-18 325 → 2026-11-01 331（+6）
 
 
 ---

@@ -46,12 +46,12 @@ TypeScript 编写的 Pi（≥0.80）扩展：通过 Grok Build 订阅的 cli-cha
 ```mermaid
 xychart-beta
     title "luxus/pi-xai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/scone-bench
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/anthropics/scone-bench) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/anthropics/scone-bench) · 组织维护
 
 **评测 LLM agent 发现并利用智能合约漏洞的基准（417 任务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/scone-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 62]
 ```
 
-2026-10-18 60 → 2026-10-31 61（+1）
+2026-10-18 60 → 2026-11-01 62（+2）
 
 
 ---

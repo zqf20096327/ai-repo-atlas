@@ -45,13 +45,13 @@ Google DeepMind 发布的 transformer 空间音频编码器：输入原始多通
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/phasecoder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
+    title "google-deepmind/phasecoder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25]
+    line [22, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-10-31 25（+3）
+2026-10-18 22 → 2026-11-01 25（+3）
 
 
 ---

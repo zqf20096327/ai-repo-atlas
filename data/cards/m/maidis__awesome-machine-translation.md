@@ -1,6 +1,6 @@
 # maidis/awesome-machine-translation
 
-⭐ 202 · CC0-1.0 · 推送 2026-10-07 · [GitHub](https://github.com/maidis/awesome-machine-translation) · 个人维护
+⭐ 203 · CC0-1.0 · 推送 2026-10-07 · [GitHub](https://github.com/maidis/awesome-machine-translation) · 个人维护
 
 **机器翻译框架、库、软件与论文的策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maidis/awesome-machine-translation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 201 --> 203
-    line [202, 202]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 201 --> 204
+    line [202, 203]
 ```
 
-2026-10-18 202 → 2026-10-31 202（+0）
+2026-10-18 202 → 2026-11-01 203（+1）
 
 
 ---

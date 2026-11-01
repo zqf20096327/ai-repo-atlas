@@ -1,6 +1,6 @@
 # nyxandro/t-invest-skill
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nyxandro/t-invest-skill) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nyxandro/t-invest-skill) · 个人维护
 
 **让 AI 代理通过 T-Invest API 操作俄券商经纪账户的技能包与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nyxandro/t-invest-skill 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-31"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-25", "2026-11-01"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-25 46 → 2026-10-31 46（+0）
+2026-10-25 46 → 2026-11-01 47（+1）
 
 
 ---

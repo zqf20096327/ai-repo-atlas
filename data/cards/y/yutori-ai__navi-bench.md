@@ -1,6 +1,6 @@
 # yutori-ai/navi-bench
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/yutori-ai/navi-bench) · [官网](https://yutori.com/blog/introducing-navigator) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/yutori-ai/navi-bench) · [官网](https://yutori.com/blog/introducing-navigator) · 组织维护
 
 **在真实网站上评测 Web Agent 日常任务表现的基准**
 
@@ -45,12 +45,12 @@ Yutori 维护的 web agent 评测基准：包含来自 Apartments、Craigslist�
 ```mermaid
 xychart-beta
     title "yutori-ai/navi-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-31 22（+0）
+2026-10-18 22 → 2026-11-01 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kubeply/infra-bench
 
-⭐ 18 · Shell · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/kubeply/infra-bench) · [官网](https://kubeply.com/benchmark) · 组织维护
+⭐ 19 · Shell · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/kubeply/infra-bench) · [官网](https://kubeply.com/benchmark) · 组织维护
 
 **评估 AI agent 基础设施能力的开放基准数据集（Kubernetes 起步）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kubeply/infra-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
-    y-axis "stars" 13 --> 19
-    line [14, 18, 18]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    y-axis "stars" 13 --> 20
+    line [14, 18, 19]
 ```
 
-2026-10-18 14 → 2026-10-31 18（+4）
+2026-10-18 14 → 2026-11-01 19（+5）
 
 
 ---

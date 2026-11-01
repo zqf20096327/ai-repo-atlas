@@ -1,6 +1,6 @@
 # rcarmo/piclaw
 
-⭐ 886 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护 · 中文 README
+⭐ 886 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护 · 中文 README
 
 **自托管单用户 AI 编码工作区：浏览器内对话、编辑与执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rcarmo/piclaw 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
     y-axis "stars" 873 --> 887
     line [874, 877, 879, 880, 881, 884, 885, 886, 886]
 ```
 
-2026-10-18 874 → 2026-10-31 886（+12）
+2026-10-18 874 → 2026-11-01 886（+12）
 
 
 ---

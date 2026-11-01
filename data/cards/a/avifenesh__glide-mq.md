@@ -1,6 +1,6 @@
 # avifenesh/glide-mq
 
-⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/avifenesh/glide-mq) · [官网](https://www.glidemq.dev) · 个人维护
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/avifenesh/glide-mq) · [官网](https://www.glidemq.dev) · 个人维护
 
 **面向 Node.js 的高性能消息队列，内置 LLM/Agent 编排原语**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "avifenesh/glide-mq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 92 --> 96
     line [93, 95, 95]
 ```
 
-2026-10-18 93 → 2026-10-31 95（+2）
+2026-10-18 93 → 2026-11-01 95（+2）
 
 
 ---

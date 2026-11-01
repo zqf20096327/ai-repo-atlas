@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "saubakirov/KZ-IT-telegram-list 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "saubakirov/KZ-IT-telegram-list 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 145 --> 148
-    line [146, 147]
+    line [146, 147, 147]
 ```
 
-2026-10-18 146 → 2026-10-31 147（+1）
+2026-10-18 146 → 2026-11-01 147（+1）
 
 
 ---

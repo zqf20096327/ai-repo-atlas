@@ -1,6 +1,6 @@
 # theiskaa/hedos
 
-⭐ 56 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/theiskaa/hedos) · [官网](https://hedos.ai) · 个人维护
+⭐ 56 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/theiskaa/hedos) · [官网](https://hedos.ai) · 个人维护
 
 **本地模型的统一发现、安装与无头服务引擎（单二进制+HTTP 网关）**
 
@@ -46,12 +46,12 @@ hedos 是一个 Rust 编写的单二进制引擎，扫描本机已有的模型�
 ```mermaid
 xychart-beta
     title "theiskaa/hedos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
     y-axis "stars" 55 --> 58
     line [57, 56, 56]
 ```
 
-2026-10-18 57 → 2026-10-31 56（-1）
+2026-10-18 57 → 2026-11-01 56（-1）
 
 
 ---

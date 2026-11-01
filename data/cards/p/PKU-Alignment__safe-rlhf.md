@@ -1,6 +1,6 @@
 # PKU-Alignment/safe-rlhf
 
-⭐ 1,620 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/PKU-Alignment/safe-rlhf) · [官网](https://pku-beaver.github.io) · 组织维护 · 中文 README
+⭐ 1,621 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/PKU-Alignment/safe-rlhf) · [官网](https://pku-beaver.github.io) · 组织维护 · 中文 README
 
 **面向约束价值对齐研究的 Safe RLHF 训练框架与数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PKU-Alignment/safe-rlhf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 1619 --> 1621
-    line [1620, 1620]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 1619 --> 1622
+    line [1620, 1621]
 ```
 
-2026-10-18 1,620 → 2026-10-31 1,620（+0）
+2026-10-18 1,620 → 2026-11-01 1,621（+1）
 
 
 ---

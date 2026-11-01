@@ -1,6 +1,6 @@
 # altdeep/causalAI
 
-⭐ 816 · Jupyter Notebook · MIT · 推送 2025-12-01 · [GitHub](https://github.com/altdeep/causalAI) · [官网](https://www.altdeep.ai/courses/causalAI) · 组织维护
+⭐ 817 · Jupyter Notebook · MIT · 推送 2025-12-01 · [GitHub](https://github.com/altdeep/causalAI) · [官网](https://www.altdeep.ai/courses/causalAI) · 组织维护
 
 **《Causal AI》书籍与研讨会的教学与代码资料库**
 
@@ -44,12 +44,12 @@ Altdeep.ai 维护的开源仓库，汇集《Causal AI》一书及其研讨会、
 ```mermaid
 xychart-beta
     title "altdeep/causalAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 813 --> 817
-    line [814, 815, 816, 816]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 813 --> 818
+    line [814, 815, 816, 817]
 ```
 
-2026-10-18 814 → 2026-10-31 816（+2）
+2026-10-18 814 → 2026-11-01 817（+3）
 
 
 ---

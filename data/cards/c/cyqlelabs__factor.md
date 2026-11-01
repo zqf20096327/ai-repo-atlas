@@ -1,6 +1,6 @@
 # cyqlelabs/factor
 
-⭐ 31 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cyqlelabs/factor) · [官网](https://cyqlelabs.github.io/factor/) · 组织维护
+⭐ 32 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cyqlelabs/factor) · [官网](https://cyqlelabs.github.io/factor/) · 组织维护
 
 **运行在本机、可接电话的 AI 智能体（记忆+桌面+语音）**
 
@@ -45,13 +45,13 @@ Factor 是单个静态 Go 二进制的本地 AI agent：通过终端、Telegram�
 
 ```mermaid
 xychart-beta
-    title "cyqlelabs/factor 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 16 --> 32
-    line [17, 29, 30, 31]
+    title "cyqlelabs/factor 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 16 --> 33
+    line [17, 29, 30, 31, 32]
 ```
 
-2026-10-26 17 → 2026-10-31 31（+14）
+2026-10-26 17 → 2026-11-01 32（+15）
 
 
 ---

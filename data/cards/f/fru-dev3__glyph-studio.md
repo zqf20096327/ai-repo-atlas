@@ -1,6 +1,6 @@
 # fru-dev3/glyph-studio
 
-⭐ 37 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/fru-dev3/glyph-studio) · [官网](https://glyph.fru.dev/studio) · 个人维护
+⭐ 37 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/fru-dev3/glyph-studio) · [官网](https://glyph.fru.dev/studio) · 个人维护
 
 **本地优先的 macOS 个人 AI 助手，按人生领域管理记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fru-dev3/glyph-studio 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-31"]
+    x-axis ["2026-10-26", "2026-11-01"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-26 37 → 2026-10-31 37（+0）
+2026-10-26 37 → 2026-11-01 37（+0）
 
 
 ---

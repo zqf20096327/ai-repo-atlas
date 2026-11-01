@@ -1,6 +1,6 @@
 # Nightbr/factorai
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Nightbr/factorai) · [官网](https://factorai.build/) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Nightbr/factorai) · [官网](https://factorai.build/) · 个人维护
 
 **以会话为单位运行 Claude/Codex CLI 的代理式开发环境**
 
@@ -45,12 +45,12 @@ Rust 编写的桌面端 Agentic Development Environment（ADE）：将每个会�
 ```mermaid
 xychart-beta
     title "Nightbr/factorai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-01"]
     y-axis "stars" 28 --> 32
     line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-31 31（+2）
+2026-10-18 29 → 2026-11-01 31（+2）
 
 
 ---

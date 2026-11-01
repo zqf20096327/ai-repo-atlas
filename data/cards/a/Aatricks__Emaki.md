@@ -1,6 +1,6 @@
 # Aatricks/Emaki
 
-⭐ 26 · Kotlin · GPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/Aatricks/Emaki) · 个人维护
+⭐ 26 · Kotlin · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Aatricks/Emaki) · 个人维护
 
 **Android 多格式阅读器，支持本地 LLM 离线章节摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aatricks/Emaki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-31 26（+1）
+2026-10-18 25 → 2026-11-01 26（+1）
 
 
 ---

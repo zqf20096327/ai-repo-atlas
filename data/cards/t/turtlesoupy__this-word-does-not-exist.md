@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "turtlesoupy/this-word-does-not-exist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "turtlesoupy/this-word-does-not-exist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1023 --> 1026
-    line [1025, 1024]
+    line [1025, 1024, 1024]
 ```
 
-2026-10-18 1,025 → 2026-10-31 1,024（-1）
+2026-10-18 1,025 → 2026-11-01 1,024（-1）
 
 
 ---

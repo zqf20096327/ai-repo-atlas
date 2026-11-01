@@ -1,6 +1,6 @@
 # AgentDock/AgentDock
 
-⭐ 1,771 · MDX · MIT · 推送 2026-07-14 · [GitHub](https://github.com/AgentDock/AgentDock) · [官网](https://agentdock.ai) · 组织维护
+⭐ 1,772 · MDX · MIT · 推送 2026-07-14 · [GitHub](https://github.com/AgentDock/AgentDock) · [官网](https://agentdock.ai) · 组织维护
 
 **构建可配置确定性 AI agent 的 TypeScript 后端框架**
 
@@ -45,13 +45,13 @@ AgentDock Core 是开源的后端优先 agent 构建框架，基于节点化架�
 
 ```mermaid
 xychart-beta
-    title "AgentDock/AgentDock 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "AgentDock/AgentDock 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 1768 --> 1775
-    line [1773, 1774, 1772, 1771, 1769, 1771]
+    line [1773, 1774, 1772, 1771, 1769, 1771, 1772]
 ```
 
-2026-10-18 1,773 → 2026-10-31 1,771（-2）
+2026-10-18 1,773 → 2026-11-01 1,772（-1）
 
 
 ---

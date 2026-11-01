@@ -1,6 +1,6 @@
 # madeinplutofabio/neural-computation-protocol
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/madeinplutofabio/neural-computation-protocol) · [官网](https://crates.io/crates/ncp-runtime) · 个人维护
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/madeinplutofabio/neural-computation-protocol) · [官网](https://crates.io/crates/ncp-runtime) · 个人维护
 
 **把 agent 例行任务改为确定性 WASM 计算的开源协议与运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madeinplutofabio/neural-computation-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

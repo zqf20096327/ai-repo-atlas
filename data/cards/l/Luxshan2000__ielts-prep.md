@@ -1,6 +1,6 @@
 # Luxshan2000/ielts-prep
 
-⭐ 14 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Luxshan2000/ielts-prep) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Luxshan2000/ielts-prep) · 个人维护
 
 **离线优先的雅思全项备考桌面应用，带 AI 语音考官与评分**
 
@@ -45,13 +45,13 @@ Electron 桌面应用加 Python sidecar（仅绑定回环地址），覆盖口�
 
 ```mermaid
 xychart-beta
-    title "Luxshan2000/ielts-prep 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-10-31"]
+    title "Luxshan2000/ielts-prep 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 14]
+    line [10, 11, 14, 14]
 ```
 
-2026-10-26 10 → 2026-10-31 14（+4）
+2026-10-26 10 → 2026-11-01 14（+4）
 
 
 ---

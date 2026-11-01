@@ -1,6 +1,6 @@
 # selfishprimate/seekter
 
-⭐ 79 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/selfishprimate/seekter) · [官网](seekter.dev) · 个人维护
+⭐ 80 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/selfishprimate/seekter) · [官网](seekter.dev) · 个人维护
 
 **求职者用的 Claude Code 求职代理：搜索、过滤、代填申请**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "selfishprimate/seekter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 73 --> 80
-    line [74, 75, 76, 78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 73 --> 81
+    line [74, 75, 76, 78, 79, 80]
 ```
 
-2026-10-18 74 → 2026-10-31 79（+5）
+2026-10-18 74 → 2026-11-01 80（+6）
 
 
 ---

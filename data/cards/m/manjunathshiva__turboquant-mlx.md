@@ -1,6 +1,6 @@
 # manjunathshiva/turboquant-mlx
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/manjunathshiva/turboquant-mlx) · [官网](https://pypi.org/project/turboquant-mlx-full/) · 个人维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/manjunathshiva/turboquant-mlx) · [官网](https://pypi.org/project/turboquant-mlx-full/) · 个人维护
 
 **面向 Apple Silicon 的 LLM 权重与 KV cache 极限压缩工具（TurboQuant 的 MLX 实现）**
 
@@ -46,12 +46,12 @@ Google TurboQuant 论文的 MLX 实现，通过 Hadamard 旋转 + Lloyd-Max 码�
 ```mermaid
 xychart-beta
     title "manjunathshiva/turboquant-mlx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-18 91 → 2026-10-31 91（+0）
+2026-10-18 91 → 2026-11-01 91（+0）
 
 
 ---

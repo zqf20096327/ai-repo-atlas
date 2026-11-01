@@ -1,6 +1,6 @@
 # simoneiacomino/xenolith
 
-⭐ 34 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/simoneiacomino/xenolith) · 个人维护
+⭐ 34 · C · MIT · 推送 2026-10-31 · [GitHub](https://github.com/simoneiacomino/xenolith) · 个人维护
 
 **面向 Intel Xe 核显的纯 C 本地推理引擎（单一目标模型 Gemma 4 26B-A4B QAT）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "simoneiacomino/xenolith 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-31 34（+0）
+2026-10-18 34 → 2026-11-01 34（+0）
 
 
 ---

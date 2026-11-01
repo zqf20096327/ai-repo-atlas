@@ -1,6 +1,6 @@
 # openzot/openzot
 
-⭐ 26 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/openzot/openzot) · [官网](https://zot.im) · 组织维护
+⭐ 27 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/openzot/openzot) · [官网](https://zot.im) · 组织维护
 
 **单文件自动软件工厂：按工单自动编码构建测试直到验收**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "openzot/openzot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-18 24 → 2026-10-31 26（+2）
+2026-10-18 24 → 2026-11-01 27（+3）
 
 
 ---

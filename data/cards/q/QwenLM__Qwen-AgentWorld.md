@@ -1,6 +1,6 @@
 # QwenLM/Qwen-AgentWorld
 
-⭐ 1,036 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/QwenLM/Qwen-AgentWorld) · [官网](https://arxiv.org/abs/2606.24597) · 组织维护 · 中文 README
+⭐ 1,037 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/QwenLM/Qwen-AgentWorld) · [官网](https://arxiv.org/abs/2606.24597) · 组织维护 · 中文 README
 
 **面向通用 Agent 的语言世界模型（模拟环境）与配套评测基准**
 
@@ -46,12 +46,12 @@ Qwen 团队开源的语言世界模型权重（Qwen-AgentWorld-35B-A3B，MoE，3
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-AgentWorld 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 1025 --> 1037
-    line [1026, 1028, 1030, 1032, 1033, 1034, 1036, 1036]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 1025 --> 1038
+    line [1026, 1028, 1030, 1032, 1033, 1034, 1036, 1037]
 ```
 
-2026-10-18 1,026 → 2026-10-31 1,036（+10）
+2026-10-18 1,026 → 2026-11-01 1,037（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # nekyialabs/resonant-archive
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nekyialabs/resonant-archive) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/nekyialabs/resonant-archive) · 组织维护
 
 **本地优先的 AI 对话历史语义归档与检索工具（CLI+MCP）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nekyialabs/resonant-archive 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-01"]
     y-axis "stars" 10 --> 15
     line [11, 12, 14, 14]
 ```
 
-2026-10-18 11 → 2026-10-31 14（+3）
+2026-10-18 11 → 2026-11-01 14（+3）
 
 
 ---

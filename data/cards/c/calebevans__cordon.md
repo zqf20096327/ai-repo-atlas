@@ -1,6 +1,6 @@
 # calebevans/cordon
 
-⭐ 163 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/calebevans/cordon) · [官网](https://pypi.org/project/cordon/) · 个人维护
+⭐ 164 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/calebevans/cordon) · [官网](https://pypi.org/project/cordon/) · 个人维护
 
 **用嵌入与密度评分从海量日志中提取语义异常段的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "calebevans/cordon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 162 --> 164
-    line [163, 163]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 162 --> 165
+    line [163, 164]
 ```
 
-2026-10-18 163 → 2026-10-31 163（+0）
+2026-10-18 163 → 2026-11-01 164（+1）
 
 
 ---

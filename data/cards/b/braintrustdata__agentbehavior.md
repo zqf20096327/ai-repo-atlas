@@ -1,6 +1,6 @@
 # braintrustdata/agentbehavior
 
-⭐ 364 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/braintrustdata/agentbehavior) · [官网](https://www.agentbehavior.dev/) · 组织维护
+⭐ 363 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/braintrustdata/agentbehavior) · [官网](https://www.agentbehavior.dev/) · 组织维护
 
 **定义与评估 AI agent 行为的开放标准（BEHAVIOR.md）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "braintrustdata/agentbehavior 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31"]
+    title "braintrustdata/agentbehavior 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01"]
     y-axis "stars" 359 --> 365
-    line [360, 361, 362, 363, 364]
+    line [360, 361, 362, 363, 364, 363]
 ```
 
-2026-10-18 360 → 2026-10-31 364（+4）
+2026-10-18 360 → 2026-11-01 363（+3）
 
 
 ---

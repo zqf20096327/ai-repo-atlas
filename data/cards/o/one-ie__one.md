@@ -1,6 +1,6 @@
 # one-ie/one
 
-⭐ 132 · Astro · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/one-ie/one) · [官网](https://template.one.ie) · 组织维护
+⭐ 132 · Astro · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/one-ie/one) · [官网](https://template.one.ie) · 组织维护
 
 **带支付与 AI agent 配置的 Astro/React 网站起步模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "one-ie/one 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 130 --> 133
     line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-10-31 132（+1）
+2026-10-18 131 → 2026-11-01 132（+1）
 
 
 ---

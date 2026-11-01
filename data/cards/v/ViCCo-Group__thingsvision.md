@@ -1,6 +1,6 @@
 # ViCCo-Group/thingsvision
 
-⭐ 180 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ViCCo-Group/thingsvision) · [官网](https://vicco-group.github.io/thingsvision/) · 组织维护
+⭐ 179 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ViCCo-Group/thingsvision) · [官网](https://vicco-group.github.io/thingsvision/) · 组织维护
 
 **从计算机视觉模型中提取图像表征的 Python 工具箱，面向认知科学研究者**
 
@@ -46,12 +46,12 @@ Python 包 thingsvision，提供从多种计算机视觉模型（torchvision、K
 ```mermaid
 xychart-beta
     title "ViCCo-Group/thingsvision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 179 --> 181
-    line [180, 180]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 178 --> 181
+    line [180, 179]
 ```
 
-2026-10-18 180 → 2026-10-31 180（+0）
+2026-10-18 180 → 2026-11-01 179（-1）
 
 
 ---

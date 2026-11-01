@@ -1,6 +1,6 @@
 # reyamira/models
 
-⭐ 518 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/reyamira/models) · [官网](https://reyamira.github.io/models/) · 个人维护
+⭐ 518 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/reyamira/models) · [官网](https://reyamira.github.io/models/) · 个人维护
 
 **浏览 AI 模型、基准、编程 agent 与厂商状态的 TUI/CLI**
 
@@ -45,13 +45,13 @@ Rust（ratatui）编写的终端工具，聚合 models.dev 约 4,000+ 模型（8
 
 ```mermaid
 xychart-beta
-    title "reyamira/models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    title "reyamira/models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-01"]
     y-axis "stars" 515 --> 519
-    line [516, 517, 518]
+    line [516, 517, 518, 518]
 ```
 
-2026-10-18 516 → 2026-10-31 518（+2）
+2026-10-18 516 → 2026-11-01 518（+2）
 
 
 ---

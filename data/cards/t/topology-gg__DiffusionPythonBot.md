@@ -44,13 +44,13 @@ Python 实现的 Discord 机器人，通过 PyTorch 在本地硬件上运行 Sta
 
 ```mermaid
 xychart-beta
-    title "topology-gg/DiffusionPythonBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    title "topology-gg/DiffusionPythonBot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
     y-axis "stars" 30 --> 60
-    line [58, 33, 32]
+    line [58, 33, 32, 32]
 ```
 
-2026-10-18 58 → 2026-10-31 32（-26）
+2026-10-18 58 → 2026-11-01 32（-26）
 
 
 ---

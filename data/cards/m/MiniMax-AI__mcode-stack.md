@@ -1,6 +1,6 @@
 # MiniMax-AI/mcode-stack
 
-⭐ 457 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MiniMax-AI/mcode-stack) · 组织维护 · 中文 README
+⭐ 479 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MiniMax-AI/mcode-stack) · 组织维护 · 中文 README
 
 **MiniMax Code 团队日常使用的 AI 编码工作流与技能合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/mcode-stack 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 136 --> 486
-    line [165, 406, 457]
+    title "MiniMax-AI/mcode-stack 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 134 --> 510
+    line [165, 406, 457, 479]
 ```
 
-2026-10-29 165 → 2026-10-31 457（+292）
+2026-10-29 165 → 2026-11-01 479（+314）
 
 
 ---

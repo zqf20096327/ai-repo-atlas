@@ -1,6 +1,6 @@
 # LBurny/cadpilot
 
-⭐ 25 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/LBurny/cadpilot) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/LBurny/cadpilot) · 个人维护 · 中文 README
 
 **让 AI 客户端通过 MCP 操控 FreeCAD 建模的服务器**
 
@@ -45,12 +45,12 @@ CADPilot 由 FreeCAD 插件（XML-RPC 服务端，监听 localhost:9875）与 MC
 ```mermaid
 xychart-beta
     title "LBurny/cadpilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 25, 25]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 25, 26]
 ```
 
-2026-10-18 21 → 2026-10-31 25（+4）
+2026-10-18 21 → 2026-11-01 26（+5）
 
 
 ---

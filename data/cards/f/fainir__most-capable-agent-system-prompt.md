@@ -1,6 +1,6 @@
 # fainir/most-capable-agent-system-prompt
 
-⭐ 879 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fainir/most-capable-agent-system-prompt) · 个人维护
+⭐ 880 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/fainir/most-capable-agent-system-prompt) · 个人维护
 
 **让编程 Agent 自建自我改进 Agent 系统的系统提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fainir/most-capable-agent-system-prompt 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 877 --> 880
-    line [878, 879, 879]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 877 --> 881
+    line [878, 879, 880]
 ```
 
-2026-10-28 878 → 2026-10-31 879（+1）
+2026-10-28 878 → 2026-11-01 880（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jici-Zeroten/XiaoFeiShu
 
-⭐ 531 · 推送 2026-08-01 · [GitHub](https://github.com/Jici-Zeroten/XiaoFeiShu) · [官网](https://jici-zeroten.github.io/XiaoFeiShu/) · 组织维护 · 中文 README
+⭐ 532 · 推送 2026-08-01 · [GitHub](https://github.com/Jici-Zeroten/XiaoFeiShu) · [官网](https://jici-zeroten.github.io/XiaoFeiShu/) · 组织维护 · 中文 README
 
 **面向小红书运营者的账号自动化运营软件（已结项）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jici-Zeroten/XiaoFeiShu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
     y-axis "stars" 530 --> 533
-    line [531, 532, 531, 531]
+    line [531, 532, 531, 532]
 ```
 
-2026-10-18 531 → 2026-10-31 531（+0）
+2026-10-18 531 → 2026-11-01 532（+1）
 
 
 ---

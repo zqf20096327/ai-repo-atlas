@@ -1,6 +1,6 @@
 # abhineer/Agentic_Evals
 
-⭐ 27 · Jupyter Notebook · MIT · 推送 2026-08-27 · [GitHub](https://github.com/abhineer/Agentic_Evals) · 个人维护
+⭐ 29 · Jupyter Notebook · MIT · 推送 2026-08-27 · [GitHub](https://github.com/abhineer/Agentic_Evals) · 个人维护
 
 **面向生产级 AI agent 的评测技术笔记本与示例集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abhineer/Agentic_Evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 26 --> 30
+    line [27, 29]
 ```
 
-2026-10-18 27 → 2026-10-31 27（+0）
+2026-10-18 27 → 2026-11-01 29（+2）
 
 
 ---

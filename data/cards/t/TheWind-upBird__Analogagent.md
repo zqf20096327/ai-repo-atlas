@@ -1,6 +1,6 @@
 # TheWind-upBird/Analogagent
 
-⭐ 13 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/TheWind-upBird/Analogagent) · [官网](https://arxiv.org/abs/2603.23910) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/TheWind-upBird/Analogagent) · [官网](https://arxiv.org/abs/2603.23910) · 组织维护
 
 **LLM 多智能体驱动的模拟电路设计自动化框架**
 
@@ -45,12 +45,12 @@ KDD 2026（AI4Science, Oral）论文配套实现：用多智能体系统执行�
 ```mermaid
 xychart-beta
     title "TheWind-upBird/Analogagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-18 11 → 2026-10-31 13（+2）
+2026-10-18 11 → 2026-11-01 14（+3）
 
 
 ---

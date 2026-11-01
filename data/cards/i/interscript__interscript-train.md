@@ -1,6 +1,6 @@
 # interscript/interscript-train
 
-⭐ 14 · Python · 推送 2026-10-30 · [GitHub](https://github.com/interscript/interscript-train) · 组织维护
+⭐ 14 · Python · 推送 2026-10-31 · [GitHub](https://github.com/interscript/interscript-train) · 组织维护
 
 **阿拉伯语与希伯来语自动加音符（元音标注）的神经网络库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "interscript/interscript-train 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

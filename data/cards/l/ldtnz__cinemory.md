@@ -1,6 +1,6 @@
 # ldtnz/cinemory
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ldtnz/cinemory) · 个人维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ldtnz/cinemory) · 个人维护
 
 **个人观影目录 PWA：导入流媒体观看历史并追踪管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ldtnz/cinemory 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
+    title "ldtnz/cinemory 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 29 --> 32
-    line [31, 30]
+    line [31, 30, 31]
 ```
 
-2026-10-30 31 → 2026-10-31 30（-1）
+2026-10-30 31 → 2026-11-01 31（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yotsuda/PowerShell.MCP
 
-⭐ 108 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yotsuda/PowerShell.MCP) · [官网](https://www.powershellgallery.com/packages/PowerShell.MCP) · 个人维护
+⭐ 109 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yotsuda/PowerShell.MCP) · [官网](https://www.powershellgallery.com/packages/PowerShell.MCP) · 个人维护
 
 **通用 MCP 服务器：让 AI 客户端直接访问 PowerShell 生态与任意 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yotsuda/PowerShell.MCP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 103 --> 109
-    line [104, 105, 106, 107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 103 --> 110
+    line [104, 105, 106, 107, 108, 109]
 ```
 
-2026-10-18 104 → 2026-10-31 108（+4）
+2026-10-18 104 → 2026-11-01 109（+5）
 
 
 ---

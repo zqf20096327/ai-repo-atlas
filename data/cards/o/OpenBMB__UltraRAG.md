@@ -1,6 +1,6 @@
 # OpenBMB/UltraRAG
 
-⭐ 5,736 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/OpenBMB/UltraRAG) · [官网](https://ultrarag.github.io/) · 组织维护 · 中文 README
+⭐ 5,737 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/OpenBMB/UltraRAG) · [官网](https://ultrarag.github.io/) · 组织维护 · 中文 README
 
 **低代码 MCP 架构的 RAG 开发框架：YAML 编排复杂检索问答流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenBMB/UltraRAG 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 5728 --> 5737
-    line [5729, 5732, 5730, 5731, 5732, 5733, 5735, 5736]
+    title "OpenBMB/UltraRAG 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 5728 --> 5738
+    line [5729, 5732, 5730, 5731, 5732, 5733, 5735, 5736, 5737]
 ```
 
-2026-10-18 5,729 → 2026-10-31 5,736（+7）
+2026-10-18 5,729 → 2026-11-01 5,737（+8）
 
 
 ---

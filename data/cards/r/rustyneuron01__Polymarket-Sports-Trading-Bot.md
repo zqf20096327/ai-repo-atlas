@@ -1,6 +1,6 @@
 # rustyneuron01/Polymarket-Sports-Trading-Bot
 
-⭐ 136 · Python · 推送 2026-03-31 · [GitHub](https://github.com/rustyneuron01/Polymarket-Sports-Trading-Bot) · 个人维护
+⭐ 137 · Python · 推送 2026-03-31 · [GitHub](https://github.com/rustyneuron01/Polymarket-Sports-Trading-Bot) · 个人维护
 
 **用机器学习预测比赛结果并在 Polymarket 体育市场交易的机器人**
 
@@ -46,12 +46,12 @@ Python 实现的 Polymarket 体育交易机器人：通过 ESPN 获取比赛数�
 ```mermaid
 xychart-beta
     title "rustyneuron01/Polymarket-Sports-Trading-Bot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 133 --> 137
-    line [134, 135, 136, 136]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 133 --> 138
+    line [134, 135, 136, 137]
 ```
 
-2026-10-18 134 → 2026-10-31 136（+2）
+2026-10-18 134 → 2026-11-01 137（+3）
 
 
 ---

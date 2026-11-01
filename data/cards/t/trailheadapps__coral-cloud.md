@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "trailheadapps/coral-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "trailheadapps/coral-cloud 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 155 --> 158
-    line [157, 156]
+    line [157, 156, 156]
 ```
 
-2026-10-18 157 → 2026-10-31 156（-1）
+2026-10-18 157 → 2026-11-01 156（-1）
 
 
 ---

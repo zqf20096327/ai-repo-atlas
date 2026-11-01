@@ -1,6 +1,6 @@
 # NerverDevs/nervecenter
 
-⭐ 131 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/NerverDevs/nervecenter) · [官网](https://nvcenter.cc) · 组织维护 · 中文 README
+⭐ 152 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/NerverDevs/nervecenter) · [官网](https://nvcenter.cc) · 组织维护 · 中文 README
 
 **new-api/sub2api 中转站账号的闭源托管管理控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NerverDevs/nervecenter 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 0 --> 143
-    line [3, 36, 57, 72, 92, 115, 131]
+    title "NerverDevs/nervecenter 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 0 --> 166
+    line [3, 36, 57, 72, 92, 115, 131, 152]
 ```
 
-2026-10-25 3 → 2026-10-31 131（+128）
+2026-10-25 3 → 2026-11-01 152（+149）
 
 
 ---

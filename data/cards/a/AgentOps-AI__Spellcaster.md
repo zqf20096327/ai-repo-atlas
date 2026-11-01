@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentOps-AI/Spellcaster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "AgentOps-AI/Spellcaster 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 104 --> 107
-    line [106, 105]
+    line [106, 105, 105]
 ```
 
-2026-10-18 106 → 2026-10-31 105（-1）
+2026-10-18 106 → 2026-11-01 105（-1）
 
 
 ---

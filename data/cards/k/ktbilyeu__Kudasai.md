@@ -40,6 +40,18 @@ Kudasai 是命令行/交互式日英翻译工具：先用 Kairyou 按替换 JSON
 > L58: After preprocessing is completed (if triggered), you will be prompted to choose a translation method.
 > L168: Kudasai currently supports OpenAI, Gemini, DeepL, and Google Translate for translation. OpenAI is the recommended 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ktbilyeu/Kudasai 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-10-31 26 → 2026-11-01 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `91a478eb45f0` · [字段定义](../../DATASET.md)*

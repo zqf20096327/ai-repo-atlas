@@ -1,6 +1,6 @@
 # KazKozDev/production-rag
 
-⭐ 25 · Python · MIT · 推送 2025-11-04 · [GitHub](https://github.com/KazKozDev/production-rag) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多策略 RAG 检索与评测框架：混合检索+重排+指标评估**
 
@@ -11,7 +11,7 @@ Python 实现的 RAG 检索系统库，提供 Semantic、BM25、Hybrid（RRF 融
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

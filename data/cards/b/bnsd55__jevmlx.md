@@ -1,6 +1,6 @@
 # bnsd55/jevmlx
 
-⭐ 76 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/bnsd55/jevmlx) · [官网](https://github.com/bnsd55/jevmlx#readme) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/bnsd55/jevmlx) · [官网](https://github.com/bnsd55/jevmlx#readme) · 个人维护
 
 **Apple Silicon 上的 MLX 并行受限决策库：单次前向产出结构化 JSON**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bnsd55/jevmlx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
-    y-axis "stars" 69 --> 77
-    line [70, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
+    y-axis "stars" 69 --> 78
+    line [70, 75, 76, 77]
 ```
 
-2026-10-18 70 → 2026-10-31 76（+6）
+2026-10-18 70 → 2026-11-01 77（+7）
 
 
 ---

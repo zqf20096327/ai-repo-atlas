@@ -1,6 +1,6 @@
 # ihsan-ramadhan/bansos-router
 
-⭐ 218 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ihsan-ramadhan/bansos-router) · [官网](https://ihsan-ramadhan.github.io/bansos-router/) · 个人维护
+⭐ 225 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ihsan-ramadhan/bansos-router) · [官网](https://ihsan-ramadhan.github.io/bansos-router/) · 个人维护
 
 **本地守护进程：免密钥免费编码模型路由到多种编码工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ihsan-ramadhan/bansos-router 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 127 --> 226
-    line [135, 147, 149, 150, 151, 153, 164, 178, 218]
+    title "ihsan-ramadhan/bansos-router 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 126 --> 234
+    line [135, 147, 149, 150, 151, 153, 164, 178, 218, 225]
 ```
 
-2026-10-18 135 → 2026-10-31 218（+83）
+2026-10-18 135 → 2026-11-01 225（+90）
 
 
 ---

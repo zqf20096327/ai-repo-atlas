@@ -1,6 +1,6 @@
 # gruai/koifish
 
-⭐ 29 · C++ · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/gruai/koifish) · 个人维护 · 中文 README
+⭐ 29 · C++ · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/gruai/koifish) · 个人维护 · 中文 README
 
 **C++/CUDA 实现的稀疏量化 LLM 训练与推理框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gruai/koifish 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-10-31 29（+1）
+2026-10-18 28 → 2026-11-01 29（+1）
 
 
 ---

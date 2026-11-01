@@ -1,6 +1,6 @@
 # jutsuhq/open-source-higgsfield
 
-⭐ 30 · JavaScript · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
+⭐ 64 · JavaScript · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
 
 **开源 Higgsfield 替代品清单：收录 96 个挑战项目与 6 个既有方案**
 
@@ -39,6 +39,18 @@
 
 > L3: > Open-source Higgsfield AI alternatives on GitHub, starting with every notable project built for ComfyUI's #OpenSou
 > L5: 96 challenge projects and 6 older alternatives, with stars and licenses as of 2026-10-30. Browse the same list by ca
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jutsuhq/open-source-higgsfield 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 27 --> 67
+    line [30, 64]
+```
+
+2026-10-31 30 → 2026-11-01 64（+34）
 
 
 ---

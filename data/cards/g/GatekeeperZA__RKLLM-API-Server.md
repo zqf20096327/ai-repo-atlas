@@ -1,6 +1,6 @@
 # GatekeeperZA/RKLLM-API-Server
 
-⭐ 27 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/GatekeeperZA/RKLLM-API-Server) · [官网](https://github.com/GatekeeperZA/RKLLM-API-Server#readme) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/GatekeeperZA/RKLLM-API-Server) · [官网](https://github.com/GatekeeperZA/RKLLM-API-Server#readme) · 个人维护
 
 **Rockchip NPU 上的 OpenAI 兼容 LLM 推理服务器，面向 Orange Pi**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GatekeeperZA/RKLLM-API-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-31 27（+0）
+2026-10-18 27 → 2026-11-01 28（+1）
 
 
 ---

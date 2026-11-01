@@ -1,6 +1,6 @@
 # sirquy/bestie
 
-⭐ 103 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sirquy/bestie) · [官网](https://bestieagent.com) · 个人维护 · 中文 README
+⭐ 103 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/sirquy/bestie) · [官网](https://bestieagent.com) · 个人维护 · 中文 README
 
 **自托管本地优先的越南语 AI 伴侣运行时，带记忆/技能/权限门控**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 CLI/运行时，用于运行个性化的 AI 伴侣：默认
 
 ```mermaid
 xychart-beta
-    title "sirquy/bestie 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
+    title "sirquy/bestie 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-01"]
     y-axis "stars" 102 --> 107
-    line [105, 106, 104, 103]
+    line [105, 106, 104, 103, 103]
 ```
 
-2026-10-18 105 → 2026-10-31 103（-2）
+2026-10-18 105 → 2026-11-01 103（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/voice-demo
 
-⭐ 34 · Python · 推送 2026-09-29 · [GitHub](https://github.com/langchain-ai/voice-demo) · 组织维护
+⭐ 35 · Python · 推送 2026-09-29 · [GitHub](https://github.com/langchain-ai/voice-demo) · 组织维护
 
 **多框架语音 agent 后端示例集，统一接入 LangSmith 追踪**
 
@@ -46,12 +46,12 @@ langchain-ai 维护的演示仓库：用 12 个后端实现语音 agent，覆盖
 ```mermaid
 xychart-beta
     title "langchain-ai/voice-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-31 34（+0）
+2026-10-18 34 → 2026-11-01 35（+1）
 
 
 ---

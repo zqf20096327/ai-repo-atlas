@@ -1,6 +1,6 @@
 # seite-sh/seite
 
-⭐ 26 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/seite-sh/seite) · [官网](https://seite.sh) · 个人维护
+⭐ 27 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/seite-sh/seite) · [官网](https://seite.sh) · 个人维护
 
 **AI-native 静态网站生成器：Claude Code 作为内容管理界面**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "seite-sh/seite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-10-31 26（+1）
+2026-10-18 25 → 2026-11-01 27（+2）
 
 
 ---

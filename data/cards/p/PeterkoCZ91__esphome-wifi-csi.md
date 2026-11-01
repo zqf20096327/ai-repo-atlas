@@ -1,6 +1,6 @@
 # PeterkoCZ91/esphome-wifi-csi
 
-⭐ 13 · C++ · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/PeterkoCZ91/esphome-wifi-csi) · 个人维护
+⭐ 12 · C++ · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/PeterkoCZ91/esphome-wifi-csi) · 个人维护
 
 **基于 WiFi CSI 的 ESP32 人体存在/呼吸检测 ESPHome 组件**
 
@@ -45,13 +45,13 @@ ESPectre 的 ESPHome 外部组件分支，在 ESP32（C3/C5/C6/S3/经典款）�
 
 ```mermaid
 xychart-beta
-    title "PeterkoCZ91/esphome-wifi-csi 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-31"]
+    title "PeterkoCZ91/esphome-wifi-csi 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 12]
 ```
 
-2026-10-22 10 → 2026-10-31 13（+3）
+2026-10-22 10 → 2026-11-01 12（+2）
 
 
 ---

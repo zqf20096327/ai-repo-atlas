@@ -1,6 +1,6 @@
 # abordage/awesome-ai
 
-⭐ 14 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/abordage/awesome-ai) · 组织维护
+⭐ 14 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/abordage/awesome-ai) · 组织维护
 
 **自动化维护的 AI/ML 项目 awesome 清单，按活跃度每日重排**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abordage/awesome-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    title "abordage/awesome-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
     y-axis "stars" 12 --> 15
-    line [13, 14]
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-10-31 14（+1）
+2026-10-18 13 → 2026-11-01 14（+1）
 
 
 ---

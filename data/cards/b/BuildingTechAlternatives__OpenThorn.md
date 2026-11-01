@@ -1,6 +1,6 @@
 # BuildingTechAlternatives/OpenThorn
 
-⭐ 27 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/BuildingTechAlternatives/OpenThorn) · [官网](https://www.openthorn.app) · 个人维护
+⭐ 28 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/BuildingTechAlternatives/OpenThorn) · [官网](https://www.openthorn.app) · 个人维护
 
 **浏览器端 BYOK AI 建站工具：自带 API key 生成并部署网站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BuildingTechAlternatives/OpenThorn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-10-31 27（+1）
+2026-10-18 26 → 2026-11-01 28（+2）
 
 
 ---

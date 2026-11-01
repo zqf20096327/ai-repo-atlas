@@ -1,6 +1,6 @@
 # mezentsevs/typing-trainer
 
-⭐ 31 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mezentsevs/typing-trainer) · 个人维护
+⭐ 31 · PHP · MIT · 推送 2026-10-31 · [GitHub](https://github.com/mezentsevs/typing-trainer) · 个人维护
 
 **自托管的盲打练习 Web 应用，AI 生成测试文本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mezentsevs/typing-trainer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31"]
+    title "mezentsevs/typing-trainer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 26 --> 32
-    line [27, 28, 29, 31]
+    line [27, 28, 29, 31, 31]
 ```
 
-2026-10-18 27 → 2026-10-31 31（+4）
+2026-10-18 27 → 2026-11-01 31（+4）
 
 
 ---

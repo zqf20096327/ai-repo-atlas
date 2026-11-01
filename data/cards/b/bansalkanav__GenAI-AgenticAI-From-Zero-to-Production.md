@@ -1,6 +1,6 @@
 # bansalkanav/GenAI-AgenticAI-From-Zero-to-Production
 
-⭐ 117 · Jupyter Notebook · 推送 2026-05-10 · [GitHub](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production) · 个人维护
+⭐ 118 · Jupyter Notebook · 推送 2026-05-10 · [GitHub](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production) · 个人维护
 
 **从零到生产学习 GenAI 与 Agentic AI 的教程仓库**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "bansalkanav/GenAI-AgenticAI-From-Zero-to-Production 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
-    y-axis "stars" 115 --> 118
-    line [116, 117, 117]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    y-axis "stars" 115 --> 119
+    line [116, 117, 118]
 ```
 
-2026-10-18 116 → 2026-10-31 117（+1）
+2026-10-18 116 → 2026-11-01 118（+2）
 
 
 ---

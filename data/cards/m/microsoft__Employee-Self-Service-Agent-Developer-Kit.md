@@ -1,6 +1,6 @@
 # microsoft/Employee-Self-Service-Agent-Developer-Kit
 
-⭐ 29 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Employee-Self-Service-Agent-Developer-Kit) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/Employee-Self-Service-Agent-Developer-Kit) · 组织维护
 
 **微软 ESS 员工自助服务智能体的定制开发工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Employee-Self-Service-Agent-Developer-Kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
     y-axis "stars" 28 --> 31
     line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-10-31 29（-1）
+2026-10-18 30 → 2026-11-01 29（-1）
 
 
 ---

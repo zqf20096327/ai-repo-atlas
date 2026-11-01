@@ -1,6 +1,6 @@
 # MissionSquad/mcp-api
 
-⭐ 15 · TypeScript · 推送 2026-08-09 · [GitHub](https://github.com/MissionSquad/mcp-api) · [官网](https://missionsquad.ai) · 组织维护
+⭐ 15 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/MissionSquad/mcp-api) · [官网](https://missionsquad.ai) · 组织维护
 
 **多用户 MCP 服务器 HTTP 代理网关，含加密密钥管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MissionSquad/mcp-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-31 15（+0）
+2026-10-18 15 → 2026-11-01 15（+0）
 
 
 ---

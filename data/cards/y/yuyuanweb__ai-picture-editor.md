@@ -1,6 +1,6 @@
 # yuyuanweb/ai-picture-editor
 
-⭐ 304 · Python · 推送 2026-09-16 · [GitHub](https://github.com/yuyuanweb/ai-picture-editor) · [官网](https://www.codefather.cn/course/2099386518517915649) · 组织维护 · 中文 README
+⭐ 305 · Python · 推送 2026-09-16 · [GitHub](https://github.com/yuyuanweb/ai-picture-editor) · [官网](https://www.codefather.cn/course/2099386518517915649) · 组织维护 · 中文 README
 
 **编程导航付费教程项目：AI Agent 驱动的全栈修图应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuyuanweb/ai-picture-editor 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 291 --> 305
-    line [292, 296, 299, 300, 301, 302, 303, 304, 304]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 291 --> 306
+    line [292, 296, 299, 300, 301, 302, 303, 304, 305]
 ```
 
-2026-10-18 292 → 2026-10-31 304（+12）
+2026-10-18 292 → 2026-11-01 305（+13）
 
 
 ---

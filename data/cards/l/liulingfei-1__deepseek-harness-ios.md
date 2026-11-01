@@ -1,6 +1,6 @@
 # liulingfei-1/deepseek-harness-ios
 
-⭐ 13 · Swift · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/liulingfei-1/deepseek-harness-ios) · 个人维护 · 中文 README
+⭐ 14 · Swift · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/liulingfei-1/deepseek-harness-ios) · 个人维护 · 中文 README
 
 **iPhone 原生 DeepSeek Harness Agent 客户端：BYOK 推理+本机工具执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liulingfei-1/deepseek-harness-ios 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-10-18 11 → 2026-10-31 13（+2）
+2026-10-18 11 → 2026-11-01 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # aws-samples/sample-agentic-cost-optimizer
 
-⭐ 17 · Python · MIT-0 · 推送 2026-10-26 · [GitHub](https://github.com/aws-samples/sample-agentic-cost-optimizer) · 组织维护
+⭐ 17 · Python · MIT-0 · 推送 2026-10-31 · [GitHub](https://github.com/aws-samples/sample-agentic-cost-optimizer) · 组织维护
 
 **分析 AWS Lambda 成本并生成优化建议报告的 AI agent 示例**
 
@@ -45,12 +45,12 @@ AWS 官方 samples 组织的示例项目：基于 Strands Agents 与 Amazon Bedr
 ```mermaid
 xychart-beta
     title "aws-samples/sample-agentic-cost-optimizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-31 17（+1）
+2026-10-18 16 → 2026-11-01 17（+1）
 
 
 ---

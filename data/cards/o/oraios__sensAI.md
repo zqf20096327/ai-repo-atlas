@@ -1,6 +1,6 @@
 # oraios/sensAI
 
-⭐ 82 · Python · NOASSERTION · 推送 2026-04-19 · [GitHub](https://github.com/oraios/sensAI) · [官网](https://oraios.github.io/sensAI/docs/) · 组织维护
+⭐ 83 · Python · NOASSERTION · 推送 2026-04-19 · [GitHub](https://github.com/oraios/sensAI) · [官网](https://oraios.github.io/sensAI/docs/) · 组织维护
 
 **面向快速机器学习实验的 Python 高层工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oraios/sensAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
     y-axis "stars" 81 --> 84
-    line [83, 82, 82]
+    line [83, 82, 83]
 ```
 
-2026-10-18 83 → 2026-10-31 82（-1）
+2026-10-18 83 → 2026-11-01 83（+0）
 
 
 ---

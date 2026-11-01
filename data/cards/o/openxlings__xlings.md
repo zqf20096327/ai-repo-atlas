@@ -1,6 +1,6 @@
 # openxlings/xlings
 
-⭐ 614 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/openxlings/xlings) · [官网](https://index.xlings.org) · 组织维护 · 中文 README
+⭐ 614 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openxlings/xlings) · [官网](https://index.xlings.org) · 组织维护 · 中文 README
 
 **多版本免 root 的通用软件包基础设施，含类 OS 隔离与 Agent 接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openxlings/xlings 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
     y-axis "stars" 613 --> 616
     line [614, 615, 614, 614]
 ```
 
-2026-10-18 614 → 2026-10-31 614（+0）
+2026-10-18 614 → 2026-11-01 614（+0）
 
 
 ---

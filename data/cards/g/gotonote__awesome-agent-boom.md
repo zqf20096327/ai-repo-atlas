@@ -1,6 +1,6 @@
 # gotonote/awesome-agent-boom
 
-⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gotonote/awesome-agent-boom) · [官网](https://gotonote.github.io/awesome-agent-boom/) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gotonote/awesome-agent-boom) · [官网](https://gotonote.github.io/awesome-agent-boom/) · 个人维护 · 中文 README
 
 **AI Agent 开源书单与课程合集，Star 数每日自动更新**
 
@@ -45,12 +45,12 @@ GitHub 上 AI Agent / LLM Agent 相关开源书籍、课程与配套代码仓库
 ```mermaid
 xychart-beta
     title "gotonote/awesome-agent-boom 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30", "2026-10-31"]
-    y-axis "stars" 15 --> 23
-    line [16, 17, 20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-01"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 20, 21, 22, 23]
 ```
 
-2026-10-18 16 → 2026-10-31 22（+6）
+2026-10-18 16 → 2026-11-01 23（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # chatshellapp/chatshell-desktop
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/chatshellapp/chatshell-desktop) · [官网](https://chatshell.app) · 组织维护 · 中文 README
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/chatshellapp/chatshell-desktop) · [官网](https://chatshell.app) · 组织维护 · 中文 README
 
 **桌面 AI agent：内置 9 种工具，开箱即用的自主任务执行客户端**
 
@@ -40,6 +40,18 @@
 > L3: A lightweight desktop AI agent with 9 built-in tools. Built with Tauri 2 + Rust, not Electron.
 > L35: The agent chains Grep, Read, and Write tools together to complete multi-step tasks on its own.
 > L82: Most AI clients are just chat wrappers — you type, the AI replies, end of story. ChatShell ships with **9 built-in 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chatshellapp/chatshell-desktop 星数(近 2 点)"
+    x-axis ["2026-10-31", "2026-11-01"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-31 25 → 2026-11-01 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/openai-realtime-agents
 
-⭐ 7,010 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/openai/openai-realtime-agents) · 组织维护
+⭐ 7,012 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/openai/openai-realtime-agents) · 组织维护
 
 **基于 OpenAI Realtime API 的语音 agent 模式演示应用**
 
@@ -45,12 +45,12 @@ OpenAI 官方维护的 Next.js TypeScript 演示项目，展示构建在 Realtim
 ```mermaid
 xychart-beta
     title "openai/openai-realtime-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 7001 --> 7011
-    line [7002, 7003, 7005, 7004, 7006, 7009, 7010, 7010]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 7001 --> 7013
+    line [7002, 7003, 7005, 7004, 7006, 7009, 7010, 7012]
 ```
 
-2026-10-18 7,002 → 2026-10-31 7,010（+8）
+2026-10-18 7,002 → 2026-11-01 7,012（+10）
 
 
 ---

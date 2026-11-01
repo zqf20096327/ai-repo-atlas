@@ -1,6 +1,6 @@
 # proxy-intell/facebook-ads-library-mcp
 
-⭐ 319 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/proxy-intell/facebook-ads-library-mcp) · [官网](https://useproxy.dev/) · 组织维护
+⭐ 320 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/proxy-intell/facebook-ads-library-mcp) · [官网](https://useproxy.dev/) · 组织维护
 
 **查询分析 Facebook 广告库的 MCP 服务器，供营销人员使用**
 
@@ -45,12 +45,12 @@ Model Context Protocol 服务器，连接 Claude Desktop、Cursor、ChatGPT 等 
 ```mermaid
 xychart-beta
     title "proxy-intell/facebook-ads-library-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 314 --> 320
-    line [315, 316, 317, 318, 319, 319]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 314 --> 321
+    line [315, 316, 317, 318, 319, 320]
 ```
 
-2026-10-18 315 → 2026-10-31 319（+4）
+2026-10-18 315 → 2026-11-01 320（+5）
 
 
 ---

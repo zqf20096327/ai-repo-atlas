@@ -1,6 +1,6 @@
 # NVIDIA/auto-ontology-eval
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/auto-ontology-eval) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA/auto-ontology-eval) · 组织维护
 
 **Text-to-SQL 评测工具集：数据集灌入、检索评测与确定性评分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/auto-ontology-eval 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    title "NVIDIA/auto-ontology-eval 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
     y-axis "stars" 9 --> 15
-    line [10, 13, 14]
+    line [10, 13, 14, 14]
 ```
 
-2026-10-29 10 → 2026-10-31 14（+4）
+2026-10-29 10 → 2026-11-01 14（+4）
 
 
 ---

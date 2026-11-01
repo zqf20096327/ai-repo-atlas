@@ -1,6 +1,6 @@
 # Rootly-AI-Labs/rootly-doom-agent-arena
 
-⭐ 18 · C · 推送 2026-10-23 · [GitHub](https://github.com/Rootly-AI-Labs/rootly-doom-agent-arena) · 组织维护
+⭐ 18 · C · 推送 2026-10-31 · [GitHub](https://github.com/Rootly-AI-Labs/rootly-doom-agent-arena) · 组织维护
 
 **在 Doom 游戏中对模型进行实时 1v1 对战的评测竞技场**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rootly-AI-Labs/rootly-doom-agent-arena 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-31 18（+0）
+2026-10-18 18 → 2026-11-01 18（+0）
 
 
 ---

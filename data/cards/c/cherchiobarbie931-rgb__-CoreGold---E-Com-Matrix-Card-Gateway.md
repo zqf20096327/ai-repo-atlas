@@ -1,6 +1,6 @@
 # cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway
 
-⭐ 16 · 推送 2026-10-29 · [GitHub](https://github.com/cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway) · [官网](CoreGold - VCC Infrastructure for Dropshipping, Proxy IPs & Social Matrix) · 组织维护 · 中文 README
+⭐ 20 · 推送 2026-10-29 · [GitHub](https://github.com/cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway) · [官网](CoreGold - VCC Infrastructure for Dropshipping, Proxy IPs & Social Matrix) · 组织维护 · 中文 README
 
 **面向跨境卖家的虚拟信用卡管理与预算控制服务**
 
@@ -44,13 +44,13 @@ CoreGold 是一个商业虚拟信用卡（VCC）服务，面向跨境电商 Drop
 
 ```mermaid
 xychart-beta
-    title "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-10-31"]
-    y-axis "stars" 4 --> 17
-    line [5, 16]
+    title "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 4 --> 21
+    line [5, 16, 20]
 ```
 
-2026-10-30 5 → 2026-10-31 16（+11）
+2026-10-30 5 → 2026-11-01 20（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # seyedehsanhadi/sloptrim
 
-⭐ 411 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/seyedehsanhadi/sloptrim) · 个人维护
+⭐ 412 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/seyedehsanhadi/sloptrim) · 个人维护
 
 **本地 AI 写作痕迹检测插件：给 agent 保存的文本打分并要求修正**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seyedehsanhadi/sloptrim 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 395 --> 412
-    line [396, 404, 407, 409, 408, 410, 411]
+    title "seyedehsanhadi/sloptrim 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 395 --> 413
+    line [396, 404, 407, 409, 408, 410, 411, 412]
 ```
 
-2026-10-18 396 → 2026-10-31 411（+15）
+2026-10-18 396 → 2026-11-01 412（+16）
 
 
 ---

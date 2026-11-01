@@ -1,6 +1,6 @@
 # Manavarya09/moldui
 
-⭐ 21 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/Manavarya09/moldui) · [官网](https://moldui.vercel.app) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/Manavarya09/moldui) · [官网](https://moldui.vercel.app) · 个人维护
 
 **面向已有代码库的浏览器可视化拖拽编辑器，由 Claude 改写源码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Manavarya09/moldui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-10-31 21（+2）
+2026-10-18 19 → 2026-11-01 22（+3）
 
 
 ---

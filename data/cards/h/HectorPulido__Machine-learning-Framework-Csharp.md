@@ -45,12 +45,12 @@ TAS（Training Autograd System）是用 C# 编写的类 PyTorch 机器学习框�
 ```mermaid
 xychart-beta
     title "HectorPulido/Machine-learning-Framework-Csharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-01"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-10-31 14（+0）
+2026-10-18 14 → 2026-11-01 14（+0）
 
 
 ---

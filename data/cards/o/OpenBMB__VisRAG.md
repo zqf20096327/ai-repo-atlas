@@ -1,6 +1,6 @@
 # OpenBMB/VisRAG
 
-⭐ 987 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/OpenBMB/VisRAG) · 组织维护 · 中文 README
+⭐ 988 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/OpenBMB/VisRAG) · 组织维护 · 中文 README
 
 **免解析的视觉 RAG：VLM 直接嵌入文档图像做检索与生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenBMB/VisRAG 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-31"]
-    y-axis "stars" 981 --> 988
-    line [982, 983, 986, 985, 986, 987]
+    title "OpenBMB/VisRAG 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01"]
+    y-axis "stars" 981 --> 989
+    line [982, 983, 986, 985, 986, 987, 988]
 ```
 
-2026-10-18 982 → 2026-10-31 987（+5）
+2026-10-18 982 → 2026-11-01 988（+6）
 
 
 ---

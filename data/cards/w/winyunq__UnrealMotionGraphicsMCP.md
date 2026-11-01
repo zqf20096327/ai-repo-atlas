@@ -44,13 +44,13 @@ Unreal Engine 5.8 Win64 的编辑器插件，通过 MCP 工具与 Python 服务�
 
 ```mermaid
 xychart-beta
-    title "winyunq/UnrealMotionGraphicsMCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
+    title "winyunq/UnrealMotionGraphicsMCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-01"]
     y-axis "stars" 215 --> 220
-    line [216, 217, 218, 219]
+    line [216, 217, 218, 219, 219]
 ```
 
-2026-10-18 216 → 2026-10-31 219（+3）
+2026-10-18 216 → 2026-11-01 219（+3）
 
 
 ---

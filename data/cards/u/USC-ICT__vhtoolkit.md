@@ -1,6 +1,6 @@
 # USC-ICT/vhtoolkit
 
-⭐ 23 · ShaderLab · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/USC-ICT/vhtoolkit) · [官网](https://vhtoolkit.ict.usc.edu) · 组织维护
+⭐ 24 · ShaderLab · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/USC-ICT/vhtoolkit) · [官网](https://vhtoolkit.ict.usc.edu) · 组织维护
 
 **面向研究者的具身对话虚拟人创建平台（Unity，多厂商 AI）**
 
@@ -45,12 +45,12 @@ USC ICT 开发的研究平台，基于 Unity 构建具身对话智能体：集�
 ```mermaid
 xychart-beta
     title "USC-ICT/vhtoolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-10-31 23（+1）
+2026-10-18 22 → 2026-11-01 24（+2）
 
 
 ---

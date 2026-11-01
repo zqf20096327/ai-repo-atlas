@@ -1,6 +1,6 @@
 # microsoft/PPCC25-ALM
 
-⭐ 14 · MIT · 推送 2025-11-04 · [GitHub](https://github.com/microsoft/PPCC25-ALM) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **PPCC25 大会动手工坊：Power Platform 资产生命周期管理材料**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
