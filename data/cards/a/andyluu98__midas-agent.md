@@ -46,12 +46,12 @@ TauricResearch/TradingAgents（MIT）的定制 fork，用 LangGraph 构建 8 个
 ```mermaid
 xychart-beta
     title "andyluu98/midas-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-01 13（+2）
+2026-10-18 11 → 2026-11-02 13（+2）
 
 
 ---

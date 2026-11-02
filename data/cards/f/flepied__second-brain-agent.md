@@ -1,6 +1,6 @@
 # flepied/second-brain-agent
 
-⭐ 313 · Python · GPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/flepied/second-brain-agent) · 个人维护
+⭐ 312 · Python · GPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/flepied/second-brain-agent) · 个人维护
 
 **个人 Markdown 笔记的自动索引与问答 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "flepied/second-brain-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 312 --> 314
-    line [313, 313]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 311 --> 314
+    line [313, 312]
 ```
 
-2026-10-18 313 → 2026-11-01 313（+0）
+2026-10-18 313 → 2026-11-02 312（-1）
 
 
 ---

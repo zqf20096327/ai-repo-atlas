@@ -1,6 +1,6 @@
 # SteelUnion/dsh-confirm-gate
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SteelUnion/dsh-confirm-gate) · [官网](https://github.com/SteelUnion/dsh-confirm-gate#readme) · 个人维护 · 中文 README
+⭐ 42 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/SteelUnion/dsh-confirm-gate) · [官网](https://github.com/SteelUnion/dsh-confirm-gate#readme) · 个人维护 · 中文 README
 
 **DSH 插件：按回合计数持久操作，超限提醒并要求确认**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的运行时插件，对每回合的持久化操作（�
 
 ```mermaid
 xychart-beta
-    title "SteelUnion/dsh-confirm-gate 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 14 --> 30
-    line [15, 22, 29]
+    title "SteelUnion/dsh-confirm-gate 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 13 --> 44
+    line [15, 22, 29, 42]
 ```
 
-2026-10-30 15 → 2026-11-01 29（+14）
+2026-10-30 15 → 2026-11-02 42（+27）
 
 
 ---

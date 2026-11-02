@@ -1,6 +1,6 @@
 # currenjin/site-for-developers
 
-⭐ 1,181 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/currenjin/site-for-developers) · [官网](https://currenjin.github.io/site-for-developers/) · 个人维护 · 中文 README
+⭐ 1,182 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/currenjin/site-for-developers) · [官网](https://currenjin.github.io/site-for-developers/) · 个人维护 · 中文 README
 
 **面向开发者的资源书签清单：AI 工具、文档、社区聚合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "currenjin/site-for-developers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1178 --> 1182
-    line [1179, 1180, 1181, 1181]
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1178 --> 1183
+    line [1179, 1180, 1181, 1182]
 ```
 
-2026-10-18 1,179 → 2026-11-01 1,181（+2）
+2026-10-18 1,179 → 2026-11-02 1,182（+3）
 
 
 ---

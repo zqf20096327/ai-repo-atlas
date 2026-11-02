@@ -1,6 +1,6 @@
 # Michael-A-Kuykendall/shimmytok
 
-⭐ 26 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Michael-A-Kuykendall/shimmytok) · [官网](https://docs.rs/shimmytok) · 个人维护
+⭐ 26 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Michael-A-Kuykendall/shimmytok) · [官网](https://docs.rs/shimmytok) · 个人维护
 
 **纯 Rust 的 GGUF 分词器库：直接从模型文件读取并运行 tokenizer**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Michael-A-Kuykendall/shimmytok 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-01 26（+1）
+2026-10-18 25 → 2026-11-02 26（+1）
 
 
 ---

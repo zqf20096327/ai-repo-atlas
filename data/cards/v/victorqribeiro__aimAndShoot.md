@@ -43,13 +43,13 @@ JavaScript/Canvas 编写的浏览器射击游戏与神经进化实验：每个�
 
 ```mermaid
 xychart-beta
-    title "victorqribeiro/aimAndShoot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "victorqribeiro/aimAndShoot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 233 --> 236
-    line [234, 235]
+    line [234, 235, 235]
 ```
 
-2026-10-18 234 → 2026-11-01 235（+1）
+2026-10-18 234 → 2026-11-02 235（+1）
 
 
 ---

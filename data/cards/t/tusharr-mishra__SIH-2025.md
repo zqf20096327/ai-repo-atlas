@@ -1,6 +1,6 @@
 # tusharr-mishra/SIH-2025
 
-⭐ 37 · 推送 2026-04-29 · [GitHub](https://github.com/tusharr-mishra/SIH-2025) · 个人维护
+⭐ 36 · 推送 2026-04-29 · [GitHub](https://github.com/tusharr-mishra/SIH-2025) · 个人维护
 
 **Smart India Hackathon 2025 参赛方案集：离线多模态 RAG 与游客安全平台设计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tusharr-mishra/SIH-2025 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-18 37 → 2026-11-01 37（+0）
+2026-10-18 37 → 2026-11-02 36（-1）
 
 
 ---

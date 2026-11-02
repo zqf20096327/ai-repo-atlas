@@ -1,6 +1,6 @@
 # yc-software/minecraft-agent-harness
 
-⭐ 77 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yc-software/minecraft-agent-harness) · 组织维护
+⭐ 93 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yc-software/minecraft-agent-harness) · 组织维护
 
 **在 Minecraft 中运行 LLM agent 的 harness，含持久会话与沙箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yc-software/minecraft-agent-harness 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 62 --> 78
-    line [63, 77]
+    title "yc-software/minecraft-agent-harness 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 60 --> 96
+    line [63, 77, 93]
 ```
 
-2026-10-31 63 → 2026-11-01 77（+14）
+2026-10-31 63 → 2026-11-02 93（+30）
 
 
 ---

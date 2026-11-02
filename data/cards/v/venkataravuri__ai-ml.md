@@ -39,6 +39,18 @@
 > L5: A curated list of awesome AI & ML :orange_book: tutorials, :page_with_curl: articles, :tv: videos and jupyter notebo
 > L9: ## Generative AI
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "venkataravuri/ai-ml 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 51 --> 53
+    line [52, 52]
+```
+
+2026-11-01 52 → 2026-11-02 52（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `580eda64dfa5` · [字段定义](../../DATASET.md)*

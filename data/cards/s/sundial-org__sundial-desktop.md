@@ -1,6 +1,6 @@
 # sundial-org/sundial-desktop
 
-⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/sundial-org/sundial-desktop) · 组织维护
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/sundial-org/sundial-desktop) · 组织维护
 
 **人与 AI 共写的实时多人 Markdown 编辑器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sundial-org/sundial-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 35]
 ```
 
-2026-10-18 32 → 2026-11-01 34（+2）
+2026-10-18 32 → 2026-11-02 35（+3）
 
 
 ---

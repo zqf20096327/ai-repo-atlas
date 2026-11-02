@@ -1,6 +1,6 @@
 # itwanger/ai-better
 
-⭐ 12 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/itwanger/ai-better) · [官网](https://javabetter.cn/ai/video/) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/itwanger/ai-better) · [官网](https://javabetter.cn/ai/video/) · 个人维护 · 中文 README
 
 **面向求职者的 AI Agent 面试题库：369 题图文+视频讲解**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itwanger/ai-better 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 6, 8, 10, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 6, 8, 10, 11, 12, 13]
 ```
 
-2026-10-18 3 → 2026-11-01 12（+9）
+2026-10-18 3 → 2026-11-02 13（+10）
 
 
 ---

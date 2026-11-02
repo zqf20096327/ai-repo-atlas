@@ -1,6 +1,6 @@
 # kellyvv/PhoneClaw
 
-⭐ 1,285 · Swift · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/kellyvv/PhoneClaw) · [官网](https://kellyvv.github.io/PhoneClaw/) · 个人维护 · 中文 README
+⭐ 1,286 · Swift · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/kellyvv/PhoneClaw) · [官网](https://kellyvv.github.io/PhoneClaw/) · 个人维护 · 中文 README
 
 **把 iPhone 变成本地 AI agent 运行时的 iOS 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kellyvv/PhoneClaw 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1277 --> 1286
-    line [1278, 1279, 1280, 1279, 1281, 1282, 1284, 1285, 1285]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1277 --> 1287
+    line [1278, 1279, 1280, 1279, 1281, 1282, 1284, 1285, 1286]
 ```
 
-2026-10-18 1,278 → 2026-11-01 1,285（+7）
+2026-10-18 1,278 → 2026-11-02 1,286（+8）
 
 
 ---

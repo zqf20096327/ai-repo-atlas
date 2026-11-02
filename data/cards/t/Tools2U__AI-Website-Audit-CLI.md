@@ -44,13 +44,13 @@ Python 命令行工具，将公开网站 URL 转为结构化审计包：抓取�
 
 ```mermaid
 xychart-beta
-    title "Tools2U/AI-Website-Audit-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "Tools2U/AI-Website-Audit-CLI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-11-01 64（+1）
+2026-10-18 63 → 2026-11-02 64（+1）
 
 
 ---

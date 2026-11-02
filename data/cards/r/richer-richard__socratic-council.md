@@ -1,6 +1,6 @@
 # richer-richard/socratic-council
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/richer-richard/socratic-council) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/richer-richard/socratic-council) · 个人维护
 
 **本地优先桌面应用：8 家 LLM 的 16 个 agent 辩论议题并产出决策记录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "richer-richard/socratic-council 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-01 11（+1）
+2026-10-25 10 → 2026-11-02 11（+1）
 
 
 ---

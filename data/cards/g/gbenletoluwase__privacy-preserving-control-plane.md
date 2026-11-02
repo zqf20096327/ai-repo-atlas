@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gbenletoluwase/privacy-preserving-control-plane 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
+    title "gbenletoluwase/privacy-preserving-control-plane 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 54 --> 458
-    line [425, 420, 418, 87]
+    line [425, 420, 418, 87, 87]
 ```
 
-2026-10-18 425 → 2026-11-01 87（-338）
+2026-10-18 425 → 2026-11-02 87（-338）
 
 
 ---

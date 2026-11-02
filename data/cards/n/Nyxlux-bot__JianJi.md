@@ -1,6 +1,6 @@
 # Nyxlux-bot/JianJi
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Nyxlux-bot/JianJi) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Nyxlux-bot/JianJi) · 个人维护 · 中文 README
 
 **跨平台易学排盘应用：六爻、八字、紫微排盘加 AI 分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nyxlux-bot/JianJi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 16（+0）
 
 
 ---

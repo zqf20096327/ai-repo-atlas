@@ -1,6 +1,6 @@
 # Mobile-Artificial-Intelligence/maise
 
-⭐ 81 · Kotlin · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/maise) · 组织维护
+⭐ 82 · Kotlin · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/maise) · 组织维护
 
 **Android 端侧语音引擎：系统级 TTS 与离线 ASR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mobile-Artificial-Intelligence/maise 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 78 --> 82
-    line [80, 79, 80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
+    y-axis "stars" 78 --> 83
+    line [80, 79, 80, 81, 82]
 ```
 
-2026-10-18 80 → 2026-11-01 81（+1）
+2026-10-18 80 → 2026-11-02 82（+2）
 
 
 ---

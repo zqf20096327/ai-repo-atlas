@@ -1,6 +1,6 @@
 # aa1143/NamiAgent
 
-⭐ 86 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aa1143/NamiAgent) · [官网](https://namiai.tech/agent/) · 个人维护 · 中文 README
+⭐ 123 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aa1143/NamiAgent) · [官网](https://namiai.tech/agent/) · 个人维护 · 中文 README
 
 **零基础 AI Agent 教程：11 课可运行代码 + 本地网页端可视化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aa1143/NamiAgent 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 16 --> 92
-    line [22, 86]
+    title "aa1143/NamiAgent 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 12 --> 133
+    line [22, 86, 123]
 ```
 
-2026-10-31 22 → 2026-11-01 86（+64）
+2026-10-31 22 → 2026-11-02 123（+101）
 
 
 ---

@@ -1,6 +1,6 @@
 # BestAIApps/Bootstra-AI-App
 
-⭐ 37 · MIT · 推送 2026-01-13 · [GitHub](https://github.com/BestAIApps/Bootstra-AI-App) · 组织维护
+⭐ 38 · MIT · 推送 2026-01-13 · [GitHub](https://github.com/BestAIApps/Bootstra-AI-App) · 组织维护
 
 **面向 iOS 用户的 AI 越狱工具下载与提示词集合页面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BestAIApps/Bootstra-AI-App 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38]
 ```
 
-2026-10-18 36 → 2026-11-01 37（+1）
+2026-10-18 36 → 2026-11-02 38（+2）
 
 
 ---

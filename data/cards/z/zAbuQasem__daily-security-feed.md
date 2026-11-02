@@ -1,6 +1,6 @@
 # zAbuQasem/daily-security-feed
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/zAbuQasem/daily-security-feed) · [官网](https://zabuqasem.github.io/daily-security-feed/) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/zAbuQasem/daily-security-feed) · [官网](https://zabuqasem.github.io/daily-security-feed/) · 个人维护
 
 **AI 分类安全资讯 RSS 聚合管道，日更发布并推送 Discord/Slack**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zAbuQasem/daily-security-feed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

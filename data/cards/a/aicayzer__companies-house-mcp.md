@@ -1,6 +1,6 @@
 # aicayzer/companies-house-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aicayzer/companies-house-mcp) · [官网](https://companies-house.uk) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aicayzer/companies-house-mcp) · [官网](https://companies-house.uk) · 个人维护
 
 **英国 Companies House 公共登记册的 CLI 与 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aicayzer/companies-house-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 6 --> 93
+    line [13, 86]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 86（+73）
 
 
 ---

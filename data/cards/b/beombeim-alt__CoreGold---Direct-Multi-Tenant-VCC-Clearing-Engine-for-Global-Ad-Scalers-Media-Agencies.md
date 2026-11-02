@@ -43,13 +43,13 @@ CoreGold 是一项虚拟信用卡发行服务，通过线上控制台提供批�
 
 ```mermaid
 xychart-beta
-    title "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 3 --> 31
-    line [5, 17, 26, 29]
+    line [5, 17, 26, 29, 29]
 ```
 
-2026-10-29 5 → 2026-11-01 29（+24）
+2026-10-29 5 → 2026-11-02 29（+24）
 
 
 ---

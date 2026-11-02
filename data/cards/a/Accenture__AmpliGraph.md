@@ -1,6 +1,6 @@
 # Accenture/AmpliGraph
 
-⭐ 2,242 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Accenture/AmpliGraph) · 组织维护
+⭐ 2,243 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Accenture/AmpliGraph) · 组织维护
 
 **面向开发者的知识图谱表示学习与链接预测 Python 库**
 
@@ -47,12 +47,12 @@ Accenture 维护的开源 Python 库，基于 TensorFlow 2，用于知识图谱�
 ```mermaid
 xychart-beta
     title "Accenture/AmpliGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 2241 --> 2243
-    line [2242, 2242]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 2241 --> 2244
+    line [2242, 2243]
 ```
 
-2026-10-18 2,242 → 2026-11-01 2,242（+0）
+2026-10-18 2,242 → 2026-11-02 2,243（+1）
 
 
 ---

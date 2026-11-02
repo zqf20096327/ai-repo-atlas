@@ -1,6 +1,6 @@
 # GooDAnDReaDY/dsh-image-gen
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/GooDAnDReaDY/dsh-image-gen) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/GooDAnDReaDY/dsh-image-gen) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的图像生成与视觉处理插件套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GooDAnDReaDY/dsh-image-gen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-01 12（+2）
+2026-10-18 10 → 2026-11-02 13（+3）
 
 
 ---

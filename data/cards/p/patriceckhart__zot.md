@@ -1,6 +1,6 @@
 # patriceckhart/zot
 
-⭐ 353 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
+⭐ 354 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
 
 **Go 编写的轻量编码代理客户端，一个静态二进制接 30+ 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "patriceckhart/zot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "patriceckhart/zot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 349 --> 355
-    line [350, 351, 353, 354, 353]
+    line [350, 351, 353, 354, 353, 354]
 ```
 
-2026-10-18 350 → 2026-11-01 353（+3）
+2026-10-18 350 → 2026-11-02 354（+4）
 
 
 ---

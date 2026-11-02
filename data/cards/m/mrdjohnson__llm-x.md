@@ -1,6 +1,6 @@
 # mrdjohnson/llm-x
 
-⭐ 297 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/mrdjohnson/llm-x) · [官网](https://mrdjohnson.github.io/llm-x/) · 个人维护
+⭐ 296 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/mrdjohnson/llm-x) · [官网](https://mrdjohnson.github.io/llm-x/) · 个人维护
 
 **本地 LLM 的网页/浏览器扩展聊天 UI，可离线运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mrdjohnson/llm-x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 296 --> 298
-    line [297, 297]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 295 --> 298
+    line [297, 296]
 ```
 
-2026-10-18 297 → 2026-11-01 297（+0）
+2026-10-18 297 → 2026-11-02 296（-1）
 
 
 ---

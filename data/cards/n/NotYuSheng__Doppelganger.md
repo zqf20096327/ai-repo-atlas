@@ -1,6 +1,6 @@
 # NotYuSheng/Doppelganger
 
-⭐ 15 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/NotYuSheng/Doppelganger) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/NotYuSheng/Doppelganger) · 个人维护
 
 **用你自己的聊天记录微调本地 LLM，模仿你写作风格的工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NotYuSheng/Doppelganger 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 16（+2）
 
 
 ---

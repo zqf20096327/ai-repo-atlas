@@ -1,6 +1,6 @@
 # Evokoa/pgGraph
 
-⭐ 1,076 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Evokoa/pgGraph) · [官网](https://www.polygres.com) · 组织维护
+⭐ 1,077 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Evokoa/pgGraph) · [官网](https://www.polygres.com) · 组织维护
 
 **给已有 PostgreSQL 表加图查询能力的数据库扩展**
 
@@ -45,13 +45,13 @@ pgGraph 是用 Rust/pgrx 编写的 PostgreSQL 扩展（版本 1.2.1，Apache-2.0
 
 ```mermaid
 xychart-beta
-    title "Evokoa/pgGraph 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 1068 --> 1077
-    line [1069, 1070, 1071, 1073, 1072, 1074, 1076]
+    title "Evokoa/pgGraph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1068 --> 1078
+    line [1069, 1070, 1071, 1073, 1072, 1074, 1076, 1077]
 ```
 
-2026-10-18 1,069 → 2026-11-01 1,076（+7）
+2026-10-18 1,069 → 2026-11-02 1,077（+8）
 
 
 ---

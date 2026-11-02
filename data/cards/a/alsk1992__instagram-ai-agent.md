@@ -1,6 +1,6 @@
 # alsk1992/instagram-ai-agent
 
-⭐ 58 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/alsk1992/instagram-ai-agent) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/alsk1992/instagram-ai-agent) · 个人维护
 
 **自主运营 Instagram 账号的 AI agent：生成并定时发布内容**
 
@@ -45,12 +45,12 @@ Python CLI 守护进程，面向想自动运营 Instagram 页面的个人用户�
 ```mermaid
 xychart-beta
     title "alsk1992/instagram-ai-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 49 --> 59
-    line [50, 51, 52, 53, 54, 55, 58, 58]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 49 --> 63
+    line [50, 51, 52, 53, 54, 55, 58, 62]
 ```
 
-2026-10-18 50 → 2026-11-01 58（+8）
+2026-10-18 50 → 2026-11-02 62（+12）
 
 
 ---

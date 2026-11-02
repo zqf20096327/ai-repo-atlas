@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    title "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 7 --> 13
-    line [8, 12]
+    line [8, 12, 12]
 ```
 
-2026-10-31 8 → 2026-11-01 12（+4）
+2026-10-31 8 → 2026-11-02 12（+4）
 
 
 ---

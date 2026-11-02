@@ -1,6 +1,6 @@
 # 7df-lab/devo
 
-⭐ 341 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/7df-lab/devo) · [官网](https://devo.7df.ai/) · 组织维护 · 中文 README
+⭐ 342 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/7df-lab/devo) · [官网](https://devo.7df.ai/) · 组织维护 · 中文 README
 
 **开源递归式编码 agent：持久 Python 工作区+子代理执行多步任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "7df-lab/devo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 334 --> 342
-    line [335, 341, 341]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 334 --> 343
+    line [335, 341, 342]
 ```
 
-2026-10-18 335 → 2026-11-01 341（+6）
+2026-10-18 335 → 2026-11-02 342（+7）
 
 
 ---

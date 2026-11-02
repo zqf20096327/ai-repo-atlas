@@ -1,6 +1,6 @@
 # Mikedev115/Aetox-Harness
 
-⭐ 86 · Go · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Mikedev115/Aetox-Harness) · [官网](https://mikedev115.github.io/Aetox-landing/) · 个人维护
+⭐ 94 · Go · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Mikedev115/Aetox-Harness) · [官网](https://mikedev115.github.io/Aetox-landing/) · 个人维护
 
 **Windows 本地优先 AI agent 客户端，接入 31 家模型操作文件/代码/浏览器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mikedev115/Aetox-Harness 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 51 --> 89
-    line [54, 55, 65, 72, 78, 83, 84, 86]
+    title "Mikedev115/Aetox-Harness 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 50 --> 98
+    line [54, 55, 65, 72, 78, 83, 84, 86, 94]
 ```
 
-2026-10-18 54 → 2026-11-01 86（+32）
+2026-10-18 54 → 2026-11-02 94（+40）
 
 
 ---

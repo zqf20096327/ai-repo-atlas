@@ -1,6 +1,6 @@
 # he-yufeng/ContractGuard
 
-⭐ 160 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/he-yufeng/ContractGuard) · 个人维护 · 中文 README
+⭐ 159 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/he-yufeng/ContractGuard) · 个人维护 · 中文 README
 
 **给普通签约人的 AI 合同审查 CLI：上传合同即得风险标记与公平评分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "he-yufeng/ContractGuard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
+    title "he-yufeng/ContractGuard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 158 --> 162
-    line [159, 160, 161, 160, 161, 160]
+    line [159, 160, 161, 160, 161, 160, 159]
 ```
 
-2026-10-18 159 → 2026-11-01 160（+1）
+2026-10-18 159 → 2026-11-02 159（+0）
 
 
 ---

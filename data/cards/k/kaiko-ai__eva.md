@@ -1,6 +1,6 @@
 # kaiko-ai/eva
 
-⭐ 174 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/kaiko-ai/eva) · [官网](https://kaiko-ai.github.io/eva/) · 组织维护
+⭐ 175 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/kaiko-ai/eva) · [官网](https://kaiko-ai.github.io/eva/) · 组织维护
 
 **肿瘤学基础模型评测框架：病理/影像基准评测**
 
@@ -45,13 +45,13 @@ kaiko.ai 开发的肿瘤学基础模型评测框架，支持 patch/切片/扫描
 
 ```mermaid
 xychart-beta
-    title "kaiko-ai/eva 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 171 --> 175
-    line [172, 173, 174]
+    title "kaiko-ai/eva 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 171 --> 176
+    line [172, 173, 174, 175]
 ```
 
-2026-10-18 172 → 2026-11-01 174（+2）
+2026-10-18 172 → 2026-11-02 175（+3）
 
 
 ---

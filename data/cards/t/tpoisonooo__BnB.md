@@ -1,6 +1,6 @@
 # tpoisonooo/BnB
 
-⭐ 18 · JavaScript · 推送 2026-10-16 · [GitHub](https://github.com/tpoisonooo/BnB) · [官网](https://h3aajdlti6teq.kimi.site/) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · 推送 2026-10-16 · [GitHub](https://github.com/tpoisonooo/BnB) · [官网](https://h3aajdlti6teq.kimi.site/) · 个人维护 · 中文 README
 
 **复刻盛大泡泡堂的多人网页对战游戏，Bot 补位**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tpoisonooo/BnB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18]
+    title "tpoisonooo/BnB 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19]
 ```
 
-2026-10-18 16 → 2026-11-01 18（+2）
+2026-10-18 16 → 2026-11-02 19（+3）
 
 
 ---

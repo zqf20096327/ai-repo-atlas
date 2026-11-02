@@ -1,6 +1,6 @@
 # xuyungit/VoiceX
 
-⭐ 19 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xuyungit/VoiceX) · 个人维护 · 中文 README
+⭐ 20 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xuyungit/VoiceX) · 个人维护 · 中文 README
 
 **跨平台桌面语音工作台：在任意应用里语音听写、翻译与朗读**
 
@@ -47,12 +47,12 @@ Tauri 2 + Vue 3 构建的 macOS/Windows 桌面应用，覆盖语音→文字与�
 ```mermaid
 xychart-beta
     title "xuyungit/VoiceX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

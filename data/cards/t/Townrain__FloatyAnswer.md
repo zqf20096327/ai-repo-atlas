@@ -1,6 +1,6 @@
 # Townrain/FloatyAnswer
 
-⭐ 14 · Kotlin · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/Townrain/FloatyAnswer) · 个人维护 · 中文 README
+⭐ 15 · Kotlin · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/Townrain/FloatyAnswer) · 个人维护 · 中文 README
 
 **安卓悬浮窗截图答题工具：OCR/视觉模型识别题目，LLM 给出答案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Townrain/FloatyAnswer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

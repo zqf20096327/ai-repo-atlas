@@ -1,6 +1,6 @@
 # datawhalechina/easy-data-x-ai
 
-⭐ 195 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/datawhalechina/easy-data-x-ai) · [官网](https://datawhalechina.github.io/easy-data-x-ai/) · 组织维护 · 中文 README
+⭐ 197 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/datawhalechina/easy-data-x-ai) · [官网](https://datawhalechina.github.io/easy-data-x-ai/) · 组织维护 · 中文 README
 
 **面向 AI 爱好者的 Data x AI 入门课程，双轨学习构建 Agent**
 
@@ -44,13 +44,13 @@ DataWhale 出品的开源教程课程，分道篇（面向零基础爱好者与�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/easy-data-x-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 191 --> 197
-    line [192, 194, 196, 195]
+    title "datawhalechina/easy-data-x-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 191 --> 198
+    line [192, 194, 196, 195, 197]
 ```
 
-2026-10-18 192 → 2026-11-01 195（+3）
+2026-10-18 192 → 2026-11-02 197（+5）
 
 
 ---

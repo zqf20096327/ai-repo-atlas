@@ -1,6 +1,6 @@
 # emrehangorgec/awesome-llm-on-anything
 
-⭐ 18 · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/emrehangorgec/awesome-llm-on-anything) · 个人维护
+⭐ 20 · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/emrehangorgec/awesome-llm-on-anything) · 个人维护
 
 **在复古电脑、游戏机与微控制器上本地运行 LLM 的项目清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emrehangorgec/awesome-llm-on-anything 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3 --> 19
-    line [4, 9, 10, 11, 13, 18]
+    title "emrehangorgec/awesome-llm-on-anything 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3 --> 21
+    line [4, 9, 10, 11, 13, 18, 20]
 ```
 
-2026-10-18 4 → 2026-11-01 18（+14）
+2026-10-18 4 → 2026-11-02 20（+16）
 
 
 ---

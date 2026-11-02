@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ben-vargas/ai-sdk-provider-codex-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-11-01 71（+0）
+2026-10-18 71 → 2026-11-02 71（+0）
 
 
 ---

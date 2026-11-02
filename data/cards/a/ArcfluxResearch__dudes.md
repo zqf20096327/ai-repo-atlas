@@ -1,6 +1,6 @@
 # ArcfluxResearch/dudes
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/ArcfluxResearch/dudes) · 组织维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/ArcfluxResearch/dudes) · 组织维护
 
 **面向开发者的多编码 agent 编排守护进程，目标需通过自检才算完成**
 
@@ -45,12 +45,12 @@ Rust 编写的守护进程与 CLI，用于驱动 Claude Code、Codex、Pi 等编
 ```mermaid
 xychart-beta
     title "ArcfluxResearch/dudes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-01 13（+2）
+2026-10-18 11 → 2026-11-02 14（+3）
 
 
 ---

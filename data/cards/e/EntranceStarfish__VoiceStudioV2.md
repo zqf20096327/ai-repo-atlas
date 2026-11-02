@@ -1,6 +1,6 @@
 # EntranceStarfish/VoiceStudioV2
 
-⭐ 132 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/EntranceStarfish/VoiceStudioV2) · 个人维护
+⭐ 131 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/EntranceStarfish/VoiceStudioV2) · 个人维护
 
 **本地 AI 语音工作室：实时变声、TTS、语音克隆与配音，带 OpenAI 兼容 API**
 
@@ -41,6 +41,18 @@
 > L15: VoiceStudioV2 is a desktop app that puts a full voice toolkit on your own computer: speak in a different voice **li
 > L31: - ⚡ Real-time voice conversion from your microphone
 > L36: - 🧬 Voice cloning and voice design
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EntranceStarfish/VoiceStudioV2 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 130 --> 133
+    line [132, 131]
+```
+
+2026-11-01 132 → 2026-11-02 131（-1）
 
 
 ---

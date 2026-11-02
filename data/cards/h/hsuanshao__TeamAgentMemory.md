@@ -41,6 +41,18 @@
 > L44: - **Your data stays with you.** Memory, database and even the distillation model can all run inside your network. T
 > L46: - **Memory that compounds.** Raw turns (L0) are distilled into facts (L1), consolidated into scenes (L2) and summar
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hsuanshao/TeamAgentMemory 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-11-01 39 → 2026-11-02 39（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `dc7698d6c111` · [字段定义](../../DATASET.md)*

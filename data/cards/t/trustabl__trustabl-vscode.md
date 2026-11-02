@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trustabl/trustabl-vscode 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-01"]
+    title "trustabl/trustabl-vscode 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-01", "2026-11-02"]
     y-axis "stars" 19 --> 26
-    line [20, 25]
+    line [20, 25, 25]
 ```
 
-2026-10-23 20 → 2026-11-01 25（+5）
+2026-10-23 20 → 2026-11-02 25（+5）
 
 
 ---

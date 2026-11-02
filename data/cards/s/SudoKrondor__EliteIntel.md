@@ -1,6 +1,6 @@
 # SudoKrondor/EliteIntel
 
-⭐ 149 · Java · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 个人维护
+⭐ 149 · Java · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 个人维护
 
 **Elite Dangerous 游戏的 LLM 助手与数据分析工具**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "SudoKrondor/EliteIntel 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "SudoKrondor/EliteIntel 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 141 --> 150
-    line [142, 144, 145, 146, 147, 148, 149]
+    line [142, 144, 145, 146, 147, 148, 149, 149]
 ```
 
-2026-10-18 142 → 2026-11-01 149（+7）
+2026-10-18 142 → 2026-11-02 149（+7）
 
 
 ---

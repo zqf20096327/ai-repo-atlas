@@ -1,6 +1,6 @@
 # jefftriplett/django-model-agent
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/jefftriplett/django-model-agent) · [官网](https://django-model-agent.readthedocs.io) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/jefftriplett/django-model-agent) · [官网](https://django-model-agent.readthedocs.io) · 个人维护
 
 **将 Django 模型声明式绑定到 Pydantic AI Agent 的抽象库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jefftriplett/django-model-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

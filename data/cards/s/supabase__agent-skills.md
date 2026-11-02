@@ -1,6 +1,6 @@
 # supabase/agent-skills
 
-⭐ 2,973 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/supabase/agent-skills) · [官网](https://supabase.com/docs/guides/getting-started/ai-skills) · 组织维护
+⭐ 2,977 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/supabase/agent-skills) · [官网](https://supabase.com/docs/guides/getting-started/ai-skills) · 组织维护
 
 **给 AI 开发者的 Supabase 技能包：指令与参考文档助 agent 用好 Supabase**
 
@@ -45,13 +45,13 @@ Supabase 官方维护的 Agent Skills 集合：以 SKILL.md 清单加参考文�
 
 ```mermaid
 xychart-beta
-    title "supabase/agent-skills 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2844 --> 2984
-    line [2855, 2884, 2898, 2908, 2916, 2919, 2928, 2936, 2939, 2943, 2953, 2962, 2973]
+    title "supabase/agent-skills 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2843 --> 2989
+    line [2855, 2884, 2898, 2908, 2916, 2919, 2928, 2936, 2939, 2943, 2953, 2962, 2973, 2977]
 ```
 
-2026-10-18 2,855 → 2026-11-01 2,973（+118）
+2026-10-18 2,855 → 2026-11-02 2,977（+122）
 
 
 ---

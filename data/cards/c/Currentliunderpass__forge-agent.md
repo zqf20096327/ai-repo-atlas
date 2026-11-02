@@ -40,6 +40,18 @@
 > L5: Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your da
 > L11: Forge is a local-first AI coding agent. It runs on your machine, uses your LLM keys, and never sends data to the cl
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Currentliunderpass/forge-agent 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-01 23 → 2026-11-02 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `e5b05a0a33dc` · [字段定义](../../DATASET.md)*

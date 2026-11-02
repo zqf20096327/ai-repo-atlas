@@ -1,6 +1,6 @@
 # Rudra-ravi/wikipedia-mcp
 
-⭐ 304 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Rudra-ravi/wikipedia-mcp) · [官网](https://pypi.org/project/wikipedia-mcp/) · 个人维护
+⭐ 305 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Rudra-ravi/wikipedia-mcp) · [官网](https://pypi.org/project/wikipedia-mcp/) · 个人维护
 
 **MCP 服务器：让 LLM 检索维基百科内容作上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rudra-ravi/wikipedia-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 298 --> 305
-    line [299, 301, 302, 303, 304]
+    title "Rudra-ravi/wikipedia-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 298 --> 306
+    line [299, 301, 302, 303, 304, 305]
 ```
 
-2026-10-18 299 → 2026-11-01 304（+5）
+2026-10-18 299 → 2026-11-02 305（+6）
 
 
 ---

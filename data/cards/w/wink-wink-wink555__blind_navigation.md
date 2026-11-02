@@ -1,6 +1,6 @@
 # wink-wink-wink555/blind_navigation
 
-⭐ 40 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/wink-wink-wink555/blind_navigation) · 组织维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/wink-wink-wink555/blind_navigation) · 组织维护 · 中文 README
 
 **面向视障用户的实时视觉导航与语音引导辅助系统**
 
@@ -46,12 +46,12 @@ ARIADNE 是为视障人士提供的辅助导航系统：百度步行路线与 GP
 ```mermaid
 xychart-beta
     title "wink-wink-wink555/blind_navigation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-11-01 40（+0）
+2026-10-18 40 → 2026-11-02 41（+1）
 
 
 ---

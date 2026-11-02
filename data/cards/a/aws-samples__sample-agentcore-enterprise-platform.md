@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/sample-agentcore-enterprise-platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 16 --> 23
     line [17, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-01 22（+5）
+2026-10-18 17 → 2026-11-02 22（+5）
 
 
 ---

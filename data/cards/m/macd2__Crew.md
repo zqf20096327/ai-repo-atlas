@@ -1,6 +1,6 @@
 # macd2/Crew
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/macd2/Crew) · [官网](https://crew.forgecoreai.com) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/macd2/Crew) · [官网](https://crew.forgecoreai.com) · 个人维护
 
 **Hermes 插件：一条 /crew 消息变成看板上经证明完成的工作**
 
@@ -46,12 +46,12 @@ Hermes Agent 的多智能体看板插件：用户发送一条 /crew 消息后，
 ```mermaid
 xychart-beta
     title "macd2/Crew 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 5, 10, 12, 12]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 5, 10, 12, 13]
 ```
 
-2026-10-18 3 → 2026-11-01 12（+9）
+2026-10-18 3 → 2026-11-02 13（+10）
 
 
 ---

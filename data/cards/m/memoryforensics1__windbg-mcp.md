@@ -1,6 +1,6 @@
 # memoryforensics1/windbg-mcp
 
-⭐ 44 · C# · MIT · 推送 2026-10-10 · [GitHub](https://github.com/memoryforensics1/windbg-mcp) · 个人维护
+⭐ 45 · C# · MIT · 推送 2026-10-10 · [GitHub](https://github.com/memoryforensics1/windbg-mcp) · 个人维护
 
 **给 LLM agent 的 Windows 调试 MCP 服务器（29 个工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "memoryforensics1/windbg-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 45]
 ```
 
-2026-10-18 42 → 2026-11-01 44（+2）
+2026-10-18 42 → 2026-11-02 45（+3）
 
 
 ---

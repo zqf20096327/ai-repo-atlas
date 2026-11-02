@@ -1,6 +1,6 @@
 # zero11924065-dev/VetarAI
 
-⭐ 96 · Swift · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/zero11924065-dev/VetarAI) · 组织维护 · 中文 README
+⭐ 99 · Swift · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/zero11924065-dev/VetarAI) · 组织维护 · 中文 README
 
 **本地多 Agent 编排桌面应用：知识仓库、可视化工作流、多模型工作室**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zero11924065-dev/VetarAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
+    title "zero11924065-dev/VetarAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 84 --> 100
-    line [99, 85, 88, 96]
+    line [99, 85, 88, 96, 99]
 ```
 
-2026-10-18 99 → 2026-11-01 96（-3）
+2026-10-18 99 → 2026-11-02 99（+0）
 
 
 ---

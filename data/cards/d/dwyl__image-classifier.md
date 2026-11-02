@@ -1,6 +1,6 @@
 # dwyl/image-classifier
 
-⭐ 35 · Jupyter Notebook · GPL-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/dwyl/image-classifier) · 组织维护
+⭐ 36 · Jupyter Notebook · GPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/dwyl/image-classifier) · 组织维护
 
 **Elixir/Phoenix 图像描述与语义搜索的分步教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dwyl/image-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-11-01 35（+0）
+2026-10-18 35 → 2026-11-02 36（+1）
 
 
 ---

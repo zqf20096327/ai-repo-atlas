@@ -1,6 +1,6 @@
 # patterns-ai-core/langchainrb
 
-⭐ 2,006 · Ruby · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patterns-ai-core/langchainrb) · [官网](https://rubydoc.info/gems/langchainrb) · 个人维护
+⭐ 2,007 · Ruby · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patterns-ai-core/langchainrb) · [官网](https://rubydoc.info/gems/langchainrb) · 个人维护
 
 **Ruby 版 LLM 应用构建框架：统一接口接入多家模型与向量库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "patterns-ai-core/langchainrb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 2003 --> 2007
-    line [2004, 2005, 2006, 2006]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 2003 --> 2008
+    line [2004, 2005, 2006, 2007]
 ```
 
-2026-10-18 2,004 → 2026-11-01 2,006（+2）
+2026-10-18 2,004 → 2026-11-02 2,007（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # jmagly/kintsugi-usb
 
-⭐ 14 · Shell · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/jmagly/kintsugi-usb) · 个人维护
+⭐ 15 · Shell · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/jmagly/kintsugi-usb) · 个人维护
 
 **给家用实验室/小机队运维者的 AI 辅助救援启动 U 盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jmagly/kintsugi-usb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

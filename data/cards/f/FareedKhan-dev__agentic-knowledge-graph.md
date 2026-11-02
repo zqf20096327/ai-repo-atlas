@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/agentic-knowledge-graph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-01"]
+    title "FareedKhan-dev/agentic-knowledge-graph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 63 --> 68
-    line [64, 65, 66, 67]
+    line [64, 65, 66, 67, 67]
 ```
 
-2026-10-18 64 → 2026-11-01 67（+3）
+2026-10-18 64 → 2026-11-02 67（+3）
 
 
 ---

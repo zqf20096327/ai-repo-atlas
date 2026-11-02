@@ -1,6 +1,6 @@
 # Interactive-Active-AI/NextTransformer
 
-⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
 
 **面向下一代 Transformer 架构的统一训练基准与自动化研究平台**
 
@@ -40,6 +40,18 @@
 > L18: **When the training budget is fixed, how should a language model spend its computation?** NextTransformer trains
 > L21: result is an audited, file-backed record, and AI agents can research new architectures under the very same rules.
 > L33: A fair, explicit protocol: same data, tokens, optimizer, schedule and evaluation for every model; training compute 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Interactive-Active-AI/NextTransformer 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 9 --> 94
+    line [16, 87]
+```
+
+2026-11-01 16 → 2026-11-02 87（+71）
 
 
 ---

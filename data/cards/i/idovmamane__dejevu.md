@@ -1,6 +1,6 @@
 # idovmamane/dejevu
 
-⭐ 12 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/idovmamane/dejevu) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/idovmamane/dejevu) · 个人维护
 
 **给开发者的浏览器操作 Agent：一次模型调用完成一个页面动作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "idovmamane/dejevu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # matthewprice/JobFinderOS
 
-⭐ 182 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/matthewprice/JobFinderOS) · 个人维护
+⭐ 184 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/matthewprice/JobFinderOS) · 个人维护
 
 **在 Claude Code 内运行的求职 agent 套件：爬岗、打分、备面试、写外联**
 
@@ -40,6 +40,18 @@
 > L7: This project capitalizes on one simple fact: a career search is a numbers game. More real contacts lead to more list
 > L20: JobFinderOS is a set of agent personas and skills that run inside Claude Code and work for you to identify career o
 > L32: |**Coach**|The recruiter brain. Judges the pipeline, preps you for interviews, runs mock interviews, keeps your car
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "matthewprice/JobFinderOS 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 181 --> 185
+    line [182, 184]
+```
+
+2026-11-01 182 → 2026-11-02 184（+2）
 
 
 ---

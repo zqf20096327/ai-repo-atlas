@@ -1,6 +1,6 @@
 # felipebridge/aleph-hack
 
-⭐ 12 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/felipebridge/aleph-hack) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向小型会计所的本地财务对账 Agent：票据与银行流水核验**
 
@@ -11,7 +11,7 @@ Aleph Hackathon 2026 的参赛项目（Tether QVAC 赛道）：自动将客户�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

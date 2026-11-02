@@ -1,6 +1,6 @@
 # Tom6814/jmcomic-apk-mod-skill
 
-⭐ 14 · 推送 2026-08-28 · [GitHub](https://github.com/Tom6814/jmcomic-apk-mod-skill) · 个人维护 · 中文 README
+⭐ 15 · 推送 2026-08-28 · [GitHub](https://github.com/Tom6814/jmcomic-apk-mod-skill) · 个人维护 · 中文 README
 
 **面向 LLM 的 APK 逆向修改知识文档：自动化去广告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tom6814/jmcomic-apk-mod-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-10-18 12 → 2026-11-01 14（+2）
+2026-10-18 12 → 2026-11-02 15（+3）
 
 
 ---

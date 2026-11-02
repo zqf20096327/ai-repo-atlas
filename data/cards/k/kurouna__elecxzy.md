@@ -41,6 +41,18 @@
 > L15: `elecxzy` is a text editor developed to provide an Emacs-like editing experience within a web technology stack (Ele
 > L21: Microsoft Store
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kurouna/elecxzy 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-01 23 → 2026-11-02 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `836f90bc1d0e` · [字段定义](../../DATASET.md)*

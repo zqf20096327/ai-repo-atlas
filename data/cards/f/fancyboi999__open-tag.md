@@ -1,6 +1,6 @@
 # fancyboi999/open-tag
 
-⭐ 214 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/fancyboi999/open-tag) · [官网](https://getopentag.com) · 个人维护 · 中文 README
+⭐ 215 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/fancyboi999/open-tag) · [官网](https://getopentag.com) · 个人维护 · 中文 README
 
 **自托管的人机 AI agent 协作工作区，Claude Tag 开源替代**
 
@@ -47,12 +47,12 @@ Slack 风格的自托管协作平台，人与 AI agent（Claude Code、Codex、G
 ```mermaid
 xychart-beta
     title "fancyboi999/open-tag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 211 --> 215
-    line [212, 213, 214, 214]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 211 --> 216
+    line [212, 213, 214, 215]
 ```
 
-2026-10-18 212 → 2026-11-01 214（+2）
+2026-10-18 212 → 2026-11-02 215（+3）
 
 
 ---

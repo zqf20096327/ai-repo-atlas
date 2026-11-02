@@ -1,6 +1,6 @@
 # starcat-app/Starcat
 
-⭐ 214 · Swift · MIT · 推送 2026-10-30 · [GitHub](https://github.com/starcat-app/Starcat) · [官网](https://starcat.ink) · 组织维护 · 中文 README
+⭐ 214 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/starcat-app/Starcat) · [官网](https://starcat.ink) · 组织维护 · 中文 README
 
 **macOS 原生 GitHub Stars 管理器与本地 RAG 知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "starcat-app/Starcat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "starcat-app/Starcat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 203 --> 215
-    line [204, 208, 211, 212, 213, 214]
+    line [204, 208, 211, 212, 213, 214, 214]
 ```
 
-2026-10-18 204 → 2026-11-01 214（+10）
+2026-10-18 204 → 2026-11-02 214（+10）
 
 
 ---

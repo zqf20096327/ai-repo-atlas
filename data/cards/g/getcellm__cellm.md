@@ -1,6 +1,6 @@
 # getcellm/cellm
 
-⭐ 954 · C# · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/getcellm/cellm) · [官网](https://getcellm.com) · 组织维护
+⭐ 955 · C# · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/getcellm/cellm) · [官网](https://getcellm.com) · 组织维护
 
 **在 Excel 公式中调用 LLM 的加载项，批量处理多行数据**
 
@@ -46,12 +46,12 @@ Cellm 是一个 Windows Excel 扩展，提供 =PROMPT() 公式，对单元格或
 ```mermaid
 xychart-beta
     title "getcellm/cellm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 952 --> 955
-    line [953, 954, 954]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 952 --> 956
+    line [953, 954, 955]
 ```
 
-2026-10-18 953 → 2026-11-01 954（+1）
+2026-10-18 953 → 2026-11-02 955（+2）
 
 
 ---

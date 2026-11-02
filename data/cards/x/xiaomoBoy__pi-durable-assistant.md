@@ -1,6 +1,6 @@
 # xiaomoBoy/pi-durable-assistant
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-durable-assistant) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-durable-assistant) · 个人维护 · 中文 README
 
 **可自托管的持久化个人 AI Agent，进程重启后恢复任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaomoBoy/pi-durable-assistant 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
     y-axis "stars" 35 --> 43
-    line [36, 38, 39, 40, 42, 41, 41]
+    line [36, 38, 39, 40, 42, 41, 40]
 ```
 
-2026-10-18 36 → 2026-11-01 41（+5）
+2026-10-18 36 → 2026-11-02 40（+4）
 
 
 ---

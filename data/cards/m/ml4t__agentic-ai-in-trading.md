@@ -1,6 +1,6 @@
 # ml4t/agentic-ai-in-trading
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ml4t/agentic-ai-in-trading) · 组织维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ml4t/agentic-ai-in-trading) · 组织维护
 
 **交易研讨会材料：编码 agent 写的预测流水线及其实证审计**
 
@@ -46,12 +46,12 @@ QuantInsti 算法交易会议 2026 开场研讨会材料。内容为：一个编
 ```mermaid
 xychart-beta
     title "ml4t/agentic-ai-in-trading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 14（+2）
 
 
 ---

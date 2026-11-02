@@ -1,6 +1,6 @@
 # fxl1209739475-fxl/ai-xunjian
 
-⭐ 41 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/fxl1209739475-fxl/ai-xunjian) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/fxl1209739475-fxl/ai-xunjian) · 个人维护 · 中文 README
 
 **AI 口播短视频初剪系统：自动剪气口转写上动效，编辑器定剪**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fxl1209739475-fxl/ai-xunjian 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
     y-axis "stars" 39 --> 43
-    line [40, 42, 41, 41]
+    line [40, 42, 41, 42]
 ```
 
-2026-10-18 40 → 2026-11-01 41（+1）
+2026-10-18 40 → 2026-11-02 42（+2）
 
 
 ---

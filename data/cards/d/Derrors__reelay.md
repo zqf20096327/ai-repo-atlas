@@ -1,6 +1,6 @@
 # Derrors/reelay
 
-⭐ 34 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Derrors/reelay) · [官网](https://github.com/Derrors/reelay#readme) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Derrors/reelay) · [官网](https://derrors.github.io/reelay/) · 个人维护 · 中文 README
 
 **自托管的 Telegram→115 网盘自动转存与媒体库整理工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Derrors/reelay 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 23 --> 35
-    line [24, 30, 32, 33, 34]
+    title "Derrors/reelay 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 23 --> 36
+    line [24, 30, 32, 33, 34, 35]
 ```
 
-2026-10-26 24 → 2026-11-01 34（+10）
+2026-10-26 24 → 2026-11-02 35（+11）
 
 
 ---

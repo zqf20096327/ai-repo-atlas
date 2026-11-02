@@ -1,6 +1,6 @@
 # saforem2/ezpz
 
-⭐ 43 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/saforem2/ezpz) · [官网](http://ezpz.cool/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/saforem2/ezpz) · [官网](http://ezpz.cool/) · 个人维护
 
 **跨硬件的分布式 PyTorch 训练启动器：零代码改动**
 
@@ -45,12 +45,12 @@ Python 库与 CLI 工具，使分布式 PyTorch 启动在不同硬件（NVIDIA/A
 ```mermaid
 xychart-beta
     title "saforem2/ezpz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-01 43（+0）
+2026-10-18 43 → 2026-11-02 43（+0）
 
 
 ---

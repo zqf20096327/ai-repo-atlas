@@ -1,6 +1,6 @@
 # wang-22-code/dsh-qqbot-bridge
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/wang-22-code/dsh-qqbot-bridge) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/wang-22-code/dsh-qqbot-bridge) · 个人维护 · 中文 README
 
 **将 DeepSeek Harness（DSH）Agent 接入 QQ 的官方 Bot API 桥接插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wang-22-code/dsh-qqbot-bridge 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 9 --> 14
-    line [10, 12, 13]
+    title "wang-22-code/dsh-qqbot-bridge 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 9 --> 15
+    line [10, 12, 13, 14]
 ```
 
-2026-10-30 10 → 2026-11-01 13（+3）
+2026-10-30 10 → 2026-11-02 14（+4）
 
 
 ---

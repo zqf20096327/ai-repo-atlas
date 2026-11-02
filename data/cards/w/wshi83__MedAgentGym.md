@@ -1,6 +1,6 @@
 # wshi83/MedAgentGym
 
-⭐ 135 · Python · 推送 2026-04-12 · [GitHub](https://github.com/wshi83/MedAgentGym) · [官网](https://wshi83.github.io/MedAgentGym-Page/) · 组织维护
+⭐ 136 · Python · 推送 2026-04-12 · [GitHub](https://github.com/wshi83/MedAgentGym) · [官网](https://wshi83.github.io/MedAgentGym-Page/) · 组织维护
 
 **训练 LLM Agent 代码式医学推理的公开环境与数据集**
 
@@ -45,12 +45,12 @@ ICLR 论文官方仓库，提供首个公开的 LLM agent 训练环境 MedAgentG
 ```mermaid
 xychart-beta
     title "wshi83/MedAgentGym 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 133 --> 136
-    line [134, 135, 135]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 133 --> 137
+    line [134, 135, 136]
 ```
 
-2026-10-18 134 → 2026-11-01 135（+1）
+2026-10-18 134 → 2026-11-02 136（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # thalesgroup-cert/Watcher
 
-⭐ 1,438 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/thalesgroup-cert/Watcher) · [官网](https://thalesgroup-cert.github.io/Watcher/) · 组织维护
+⭐ 1,438 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/thalesgroup-cert/Watcher) · [官网](https://thalesgroup-cert.github.io/Watcher/) · 组织维护
 
 **面向安全运营的 AI 威胁情报与监测平台**
 
@@ -44,13 +44,13 @@ Thales CERT 开发的 Django + React 威胁情报与狩猎平台：聚合 CERT-F
 
 ```mermaid
 xychart-beta
-    title "thalesgroup-cert/Watcher 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "thalesgroup-cert/Watcher 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1430 --> 1439
-    line [1431, 1434, 1433, 1435, 1434, 1435, 1436, 1438]
+    line [1431, 1434, 1433, 1435, 1434, 1435, 1436, 1438, 1438]
 ```
 
-2026-10-18 1,431 → 2026-11-01 1,438（+7）
+2026-10-18 1,431 → 2026-11-02 1,438（+7）
 
 
 ---

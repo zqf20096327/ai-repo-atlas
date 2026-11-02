@@ -1,6 +1,6 @@
 # MarcSkovMadsen/holoviz-mcp
 
-⭐ 34 · Python · BSD-3-Clause · 推送 2026-10-01 · [GitHub](https://github.com/MarcSkovMadsen/holoviz-mcp) · [官网](https://marcskovmadsen.github.io/holoviz-mcp/) · 个人维护
+⭐ 34 · Python · BSD-3-Clause · 推送 2026-11-01 · [GitHub](https://github.com/MarcSkovMadsen/holoviz-mcp) · [官网](https://marcskovmadsen.github.io/holoviz-mcp/) · 个人维护
 
 **为 AI 助手提供 HoloViz 生态文档与组件检索的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MarcSkovMadsen/holoviz-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-01 34（+0）
+2026-10-18 34 → 2026-11-02 34（+0）
 
 
 ---

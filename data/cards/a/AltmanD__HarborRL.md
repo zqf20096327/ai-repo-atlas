@@ -1,6 +1,6 @@
 # AltmanD/HarborRL
 
-⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AltmanD/HarborRL) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AltmanD/HarborRL) · 组织维护 · 中文 README
 
 **面向工具调用 agent 的端到端强化学习训练框架**
 
@@ -45,12 +45,12 @@ HarborRL 是训练工具调用 agent 的轻量级强化学习框架，将模型�
 ```mermaid
 xychart-beta
     title "AltmanD/HarborRL 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 9 --> 16
-    line [10, 13, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 9 --> 17
+    line [10, 13, 14, 15, 16]
 ```
 
-2026-10-18 10 → 2026-11-01 15（+5）
+2026-10-18 10 → 2026-11-02 16（+6）
 
 
 ---

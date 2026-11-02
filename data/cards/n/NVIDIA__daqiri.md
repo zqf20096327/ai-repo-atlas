@@ -1,6 +1,6 @@
 # NVIDIA/daqiri
 
-⭐ 44 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/daqiri) · [官网](https://www.holoscan.org/daqiri/) · 组织维护
+⭐ 45 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/daqiri) · [官网](https://www.holoscan.org/daqiri/) · 组织维护
 
 **面向科学仪器的高速以太网数据采集库：直连 GPU 做实时处理**
 
@@ -46,12 +46,12 @@ NVIDIA 开源的 C++/Python 数据采集库：在用户态直接访问 NIC 硬�
 ```mermaid
 xychart-beta
     title "NVIDIA/daqiri 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 45]
 ```
 
-2026-10-23 42 → 2026-11-01 44（+2）
+2026-10-23 42 → 2026-11-02 45（+3）
 
 
 ---

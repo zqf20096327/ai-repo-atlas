@@ -43,13 +43,13 @@ Hugging Face 维护的 GUI agent 评测套件，覆盖感知（ScreenSpot 系列
 
 ```mermaid
 xychart-beta
-    title "huggingface/screensuite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    title "huggingface/screensuite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
     y-axis "stars" 146 --> 151
-    line [147, 148, 150]
+    line [147, 148, 150, 150]
 ```
 
-2026-10-18 147 → 2026-11-01 150（+3）
+2026-10-18 147 → 2026-11-02 150（+3）
 
 
 ---

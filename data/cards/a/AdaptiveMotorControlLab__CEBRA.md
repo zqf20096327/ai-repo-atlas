@@ -1,6 +1,6 @@
 # AdaptiveMotorControlLab/CEBRA
 
-⭐ 1,132 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/AdaptiveMotorControlLab/CEBRA) · [官网](https://cebra.ai) · 组织维护
+⭐ 1,133 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/AdaptiveMotorControlLab/CEBRA) · [官网](https://cebra.ai) · 组织维护
 
 **神经与行为数据联合分析的自监督嵌入库（科研）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AdaptiveMotorControlLab/CEBRA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1126 --> 1133
-    line [1127, 1129, 1130, 1131, 1132, 1132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 1126 --> 1134
+    line [1127, 1129, 1130, 1131, 1132, 1133]
 ```
 
-2026-10-18 1,127 → 2026-11-01 1,132（+5）
+2026-10-18 1,127 → 2026-11-02 1,133（+6）
 
 
 ---

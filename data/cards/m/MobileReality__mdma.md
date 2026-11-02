@@ -1,6 +1,6 @@
 # MobileReality/mdma
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MobileReality/mdma) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MobileReality/mdma) · 组织维护
 
 **让 LLM 输出可交互组件的 Markdown 扩展规范与工具链**
 
@@ -46,12 +46,12 @@ MDMA（Markdown Document with Mounted Applications）用 fenced mdma 代码块�
 ```mermaid
 xychart-beta
     title "MobileReality/mdma 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 70 --> 74
+    line [71, 72, 73]
 ```
 
-2026-10-18 71 → 2026-11-01 72（+1）
+2026-10-18 71 → 2026-11-02 73（+2）
 
 
 ---

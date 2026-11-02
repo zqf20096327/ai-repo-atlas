@@ -1,6 +1,6 @@
 # cavaldos/pitago
 
-⭐ 31 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/cavaldos/pitago) · 个人维护
+⭐ 32 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/cavaldos/pitago) · 个人维护
 
 **pi 编码 agent 的终端 TUI 前端：聊天、会话与工具管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cavaldos/pitago 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 31, 32]
 ```
 
-2026-10-18 29 → 2026-11-01 31（+2）
+2026-10-18 29 → 2026-11-02 32（+3）
 
 
 ---

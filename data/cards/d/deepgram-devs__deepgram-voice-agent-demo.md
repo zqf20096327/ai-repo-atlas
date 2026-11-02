@@ -1,6 +1,6 @@
 # deepgram-devs/deepgram-voice-agent-demo
 
-⭐ 52 · TypeScript · MIT · 推送 2025-11-28 · [GitHub](https://github.com/deepgram-devs/deepgram-voice-agent-demo) · [官网](https://deepgram.com/agent) · 组织维护
+⭐ 53 · TypeScript · MIT · 推送 2025-11-28 · [GitHub](https://github.com/deepgram-devs/deepgram-voice-agent-demo) · [官网](https://deepgram.com/agent) · 组织维护
 
 **Deepgram Voice Agent API 的网页演示应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "deepgram-devs/deepgram-voice-agent-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-11-01 52（+0）
+2026-10-18 52 → 2026-11-02 53（+1）
 
 
 ---

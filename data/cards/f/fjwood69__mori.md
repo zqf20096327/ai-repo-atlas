@@ -1,6 +1,6 @@
 # fjwood69/mori
 
-⭐ 32 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/fjwood69/mori) · [官网](https://moriapp.dev/) · 个人维护
+⭐ 32 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/fjwood69/mori) · [官网](https://moriapp.dev/) · 个人维护
 
 **面向 AI 编程 agent 的自托管治理型共享记忆层（MCP server）**
 
@@ -46,12 +46,12 @@ Mori 是一个自托管、agent 中立的 MCP server，为 Claude Code、Codex�
 ```mermaid
 xychart-beta
     title "fjwood69/mori 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-01 32（+1）
+2026-10-18 31 → 2026-11-02 32（+1）
 
 
 ---

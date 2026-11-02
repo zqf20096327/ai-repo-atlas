@@ -1,6 +1,6 @@
 # ZJU-LLMs/Agent-Kernel
 
-⭐ 562 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/ZJU-LLMs/Agent-Kernel) · [官网](https://www.agent-kernel.tech) · 组织维护 · 中文 README
+⭐ 563 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/ZJU-LLMs/Agent-Kernel) · [官网](https://www.agent-kernel.tech) · 组织维护 · 中文 README
 
 **面向大规模 LLM 社会模拟的微内核多智能体系统框架**
 
@@ -46,13 +46,13 @@ Agent-Kernel 是支持 LLM 驱动的大规模社会模拟的多智能体系统�
 
 ```mermaid
 xychart-beta
-    title "ZJU-LLMs/Agent-Kernel 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 549 --> 563
-    line [550, 551, 553, 554, 555, 558, 561, 562]
+    title "ZJU-LLMs/Agent-Kernel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 549 --> 564
+    line [550, 551, 553, 554, 555, 558, 561, 562, 563]
 ```
 
-2026-10-18 550 → 2026-11-01 562（+12）
+2026-10-18 550 → 2026-11-02 563（+13）
 
 
 ---

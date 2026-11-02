@@ -1,6 +1,6 @@
 # loks666/get_jobs
 
-⭐ 9,428 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/loks666/get_jobs) · [官网](https://loks666.github.io/get_jobs/) · 个人维护 · 中文 README
+⭐ 9,446 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/loks666/get_jobs) · [官网](https://loks666.github.io/get_jobs/) · 个人维护 · 中文 README
 
 **面向求职者的多平台自动投简历工具，含 AI 岗位匹配与打招呼语生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "loks666/get_jobs 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 9334 --> 9436
-    line [9342, 9381, 9405, 9428]
+    title "loks666/get_jobs 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 9332 --> 9456
+    line [9342, 9381, 9405, 9428, 9446]
 ```
 
-2026-10-29 9,342 → 2026-11-01 9,428（+86）
+2026-10-29 9,342 → 2026-11-02 9,446（+104）
 
 
 ---

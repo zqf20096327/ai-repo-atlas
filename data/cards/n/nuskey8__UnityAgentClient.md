@@ -1,6 +1,6 @@
 # nuskey8/UnityAgentClient
 
-⭐ 287 · C# · MIT · 推送 2025-11-05 · [GitHub](https://github.com/nuskey8/UnityAgentClient) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让任意 AI agent 在 Unity 编辑器内运行的 ACP 客户端扩展**
 
@@ -11,7 +11,7 @@ Unity 编辑器扩展，实现 Agent Client Protocol（ACP）客户端，使兼�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # retkowsky/Azure-AIGEN-demos
 
-⭐ 755 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/retkowsky/Azure-AIGEN-demos) · [官网](https://azure.microsoft.com/en-us/products/ai-foundry/) · 个人维护
+⭐ 756 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/retkowsky/Azure-AIGEN-demos) · [官网](https://azure.microsoft.com/en-us/products/ai-foundry/) · 个人维护
 
 **Microsoft Foundry 示例与加速器集合：面向 Azure AI 开发者**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "retkowsky/Azure-AIGEN-demos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 753 --> 756
-    line [754, 755, 755]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 753 --> 757
+    line [754, 755, 756]
 ```
 
-2026-10-18 754 → 2026-11-01 755（+1）
+2026-10-18 754 → 2026-11-02 756（+2）
 
 
 ---

@@ -44,12 +44,12 @@ Neurocomputing (2026) 综述论文《Advances in Small-Footprint Keyword Spottin
 ```mermaid
 xychart-beta
     title "sumansamui/Small-footprint-keyword-spotting 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-01 11（+1）
+2026-10-18 10 → 2026-11-02 11（+1）
 
 
 ---

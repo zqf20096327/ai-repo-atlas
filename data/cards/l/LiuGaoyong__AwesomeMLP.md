@@ -44,12 +44,12 @@ AwesomeMLP 是一个机器学习原子间势（Interatomic Potentials）主题�
 ```mermaid
 xychart-beta
     title "LiuGaoyong/AwesomeMLP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

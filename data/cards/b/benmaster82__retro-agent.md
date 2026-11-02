@@ -1,6 +1,6 @@
 # benmaster82/retro-agent
 
-⭐ 23 · Zig · MIT · 推送 2026-03-11 · [GitHub](https://github.com/benmaster82/retro-agent) · 个人维护
+⭐ 22 · Zig · MIT · 推送 2026-03-11 · [GitHub](https://github.com/benmaster82/retro-agent) · 个人维护
 
 **运行在 Windows XP 等老旧硬件上的终端 AI 代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "benmaster82/retro-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    title "benmaster82/retro-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23]
+    line [21, 22, 23, 22]
 ```
 
-2026-10-18 21 → 2026-11-01 23（+2）
+2026-10-18 21 → 2026-11-02 22（+1）
 
 
 ---

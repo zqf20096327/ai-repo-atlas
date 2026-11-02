@@ -1,6 +1,6 @@
 # google-labs-code/jules-action
 
-⭐ 261 · MIT · 推送 2025-12-15 · [GitHub](https://github.com/google-labs-code/jules-action) · [官网](https://jules.google) · 组织维护
+⭐ 262 · MIT · 推送 2025-12-15 · [GitHub](https://github.com/google-labs-code/jules-action) · [官网](https://jules.google) · 组织维护
 
 **在 GitHub 工作流中调用 Jules 云端编码 Agent 的 Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google-labs-code/jules-action 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 255 --> 262
-    line [256, 259, 261, 260, 261, 261]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 255 --> 263
+    line [256, 259, 261, 260, 261, 262]
 ```
 
-2026-10-18 256 → 2026-11-01 261（+5）
+2026-10-18 256 → 2026-11-02 262（+6）
 
 
 ---

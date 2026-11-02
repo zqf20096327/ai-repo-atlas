@@ -1,6 +1,6 @@
 # mr-karan/hodor
 
-⭐ 112 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/mr-karan/hodor) · 个人维护
+⭐ 114 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mr-karan/hodor) · 个人维护
 
 **给开发者的 LLM Agent 代码审查工具：自动审查 PR/MR**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mr-karan/hodor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 111 --> 115
+    line [112, 114]
 ```
 
-2026-10-18 112 → 2026-11-01 112（+0）
+2026-10-18 112 → 2026-11-02 114（+2）
 
 
 ---

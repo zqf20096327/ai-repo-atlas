@@ -1,6 +1,6 @@
 # Azure-Samples/llama-index-javascript
 
-⭐ 76 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Azure-Samples/llama-index-javascript) · 组织维护
+⭐ 76 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure-Samples/llama-index-javascript) · 组织维护
 
 **Azure 上快速上手 LlamaIndex.TS 的 RAG 聊天示例模板**
 
@@ -46,12 +46,12 @@ Azure 官方示例模板：一个全栈 Next.js 应用，使用 LlamaIndex.TS �
 ```mermaid
 xychart-beta
     title "Azure-Samples/llama-index-javascript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-11-01 76（+0）
+2026-10-18 76 → 2026-11-02 76（+0）
 
 
 ---

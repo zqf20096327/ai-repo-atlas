@@ -1,6 +1,6 @@
 # optuna/optuna-examples
 
-⭐ 866 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/optuna/optuna-examples) · 组织维护
+⭐ 867 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/optuna/optuna-examples) · 组织维护
 
 **Optuna 官方示例代码集：超参数优化各场景示例索引**
 
@@ -45,12 +45,12 @@ Optuna 官方维护的示例代码仓库：以链接清单形式组织覆盖黑�
 ```mermaid
 xychart-beta
     title "optuna/optuna-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 863 --> 867
-    line [864, 865, 866, 866]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 863 --> 868
+    line [864, 865, 866, 867]
 ```
 
-2026-10-18 864 → 2026-11-01 866（+2）
+2026-10-18 864 → 2026-11-02 867（+3）
 
 
 ---

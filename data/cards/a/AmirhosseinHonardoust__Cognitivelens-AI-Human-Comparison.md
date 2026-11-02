@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Cognitivelens-AI-Human-Comparison
 
-⭐ 21 · Python · MIT · 推送 2025-11-05 · [GitHub](https://github.com/AmirhosseinHonardoust/Cognitivelens-AI-Human-Comparison) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **对比人类与 AI 决策一致性的公平性与校准分析工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

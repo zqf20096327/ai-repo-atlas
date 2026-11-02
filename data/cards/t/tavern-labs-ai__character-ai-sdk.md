@@ -1,6 +1,6 @@
 # tavern-labs-ai/character-ai-sdk
 
-⭐ 166 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tavern-labs-ai/character-ai-sdk) · [官网](https://www.npmjs.com/package/character-ai-sdk) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **TypeScript SDK：构建有持久记忆与一致人设的 AI 角色应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

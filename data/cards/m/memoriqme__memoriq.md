@@ -1,6 +1,6 @@
 # memoriqme/memoriq
 
-⭐ 15 · Vue · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/memoriqme/memoriq) · [官网](https://memoriq.me) · 组织维护
+⭐ 15 · Vue · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/memoriqme/memoriq) · [官网](https://memoriq.me) · 组织维护
 
 **端到端加密的 AI 对话存档库：保存并检索多家聊天记录**
 
@@ -46,12 +46,12 @@ Laravel+Vue 的 Web 应用，配套 Chrome 扩展从 ChatGPT、Claude、Gemini�
 ```mermaid
 xychart-beta
     title "memoriqme/memoriq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-01 15（-1）
+2026-10-18 16 → 2026-11-02 15（-1）
 
 
 ---

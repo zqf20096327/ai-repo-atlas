@@ -1,6 +1,6 @@
 # keyuchen21/agentic-engineering-handbook
 
-⭐ 569 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/keyuchen21/agentic-engineering-handbook) · 个人维护
+⭐ 572 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/keyuchen21/agentic-engineering-handbook) · 个人维护
 
 **Agentic 工程学习路线图：218 条精选资源的结构化手册**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keyuchen21/agentic-engineering-handbook 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 551 --> 570
-    line [552, 555, 561, 562, 564, 565, 567, 568, 569]
+    title "keyuchen21/agentic-engineering-handbook 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 550 --> 574
+    line [552, 555, 561, 562, 564, 565, 567, 568, 569, 572]
 ```
 
-2026-10-18 552 → 2026-11-01 569（+17）
+2026-10-18 552 → 2026-11-02 572（+20）
 
 
 ---

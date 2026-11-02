@@ -1,6 +1,6 @@
 # VlSomers/bpbreid
 
-⭐ 263 · Python · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/VlSomers/bpbreid) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于身体部位特征的行人重识别（含遮挡）PyTorch 基线**
 
@@ -11,7 +11,7 @@ WACV23 论文官方代码库，提出 BPBReID：为每个输入样本输出多�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Ztrimus/ResumeFlow
 
-⭐ 229 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/Ztrimus/ResumeFlow) · [官网](https://dl.acm.org/doi/10.1145/3626772.3657680) · 组织维护
+⭐ 230 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/Ztrimus/ResumeFlow) · [官网](https://dl.acm.org/doi/10.1145/3626772.3657680) · 组织维护
 
 **求职者用 LLM 自动生成岗位定制简历与求职信的流水线工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ztrimus/ResumeFlow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 227 --> 230
-    line [229, 228, 229, 229]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 227 --> 231
+    line [229, 228, 229, 230]
 ```
 
-2026-10-18 229 → 2026-11-01 229（+0）
+2026-10-18 229 → 2026-11-02 230（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jiayuqi7813/crack-open-models-dgx-spark
 
-⭐ 45 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jiayuqi7813/crack-open-models-dgx-spark) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jiayuqi7813/crack-open-models-dgx-spark) · 个人维护
 
 **在双 DGX Spark 上做开源模型行为干预的 Codex 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiayuqi7813/crack-open-models-dgx-spark 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 1 --> 49
-    line [5, 45]
+    title "jiayuqi7813/crack-open-models-dgx-spark 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 72
+    line [5, 45, 66]
 ```
 
-2026-10-31 5 → 2026-11-01 45（+40）
+2026-10-31 5 → 2026-11-02 66（+61）
 
 
 ---

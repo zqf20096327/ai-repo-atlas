@@ -1,6 +1,6 @@
 # ConstantineB6/comfy-pilot
 
-⭐ 234 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/ConstantineB6/comfy-pilot) · 个人维护
+⭐ 233 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/ConstantineB6/comfy-pilot) · 个人维护
 
 **让 Claude Code 查看、编辑和运行 ComfyUI 工作流的 MCP 服务器与内嵌终端**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点插件：内含 MCP 服务器与 xterm.js 嵌入式终端
 ```mermaid
 xychart-beta
     title "ConstantineB6/comfy-pilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
     y-axis "stars" 231 --> 235
-    line [232, 233, 234, 234]
+    line [232, 233, 234, 233]
 ```
 
-2026-10-18 232 → 2026-11-01 234（+2）
+2026-10-18 232 → 2026-11-02 233（+1）
 
 
 ---

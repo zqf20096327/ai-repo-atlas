@@ -1,6 +1,6 @@
 # tabularis-ai/be_great
 
-⭐ 372 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tabularis-ai/be_great) · 组织维护
+⭐ 373 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tabularis-ai/be_great) · 组织维护
 
 **用预训练 LLM 生成合成表格数据的 Python 框架**
 
@@ -47,12 +47,12 @@ GReaT（be-great）是基于预训练 Transformer 语言模型的表格数据合
 ```mermaid
 xychart-beta
     title "tabularis-ai/be_great 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 370 --> 373
-    line [371, 372, 372]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 370 --> 374
+    line [371, 372, 373]
 ```
 
-2026-10-18 371 → 2026-11-01 372（+1）
+2026-10-18 371 → 2026-11-02 373（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # qubvel-org/segmentation_models.pytorch
 
-⭐ 11,789 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/qubvel-org/segmentation_models.pytorch) · [官网](https://smp.readthedocs.io/) · 组织维护
+⭐ 11,791 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/qubvel-org/segmentation_models.pytorch) · [官网](https://smp.readthedocs.io/) · 组织维护
 
 **PyTorch 图像语义分割模型库：12 种架构与 800+ 预训练编码器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qubvel-org/segmentation_models.pytorch 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 11767 --> 11791
-    line [11769, 11774, 11777, 11779, 11780, 11785, 11787, 11789, 11789]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 11767 --> 11793
+    line [11769, 11774, 11777, 11779, 11780, 11785, 11787, 11789, 11791]
 ```
 
-2026-10-18 11,769 → 2026-11-01 11,789（+20）
+2026-10-18 11,769 → 2026-11-02 11,791（+22）
 
 
 ---

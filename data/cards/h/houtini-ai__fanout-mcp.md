@@ -1,6 +1,6 @@
 # houtini-ai/fanout-mcp
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/houtini-ai/fanout-mcp) · [官网](https://houtini.com) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/houtini-ai/fanout-mcp) · [官网](https://houtini.com) · 组织维护
 
 **面向 AI 搜索时代的内容查询覆盖缺口分析 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "houtini-ai/fanout-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

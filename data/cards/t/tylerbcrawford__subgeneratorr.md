@@ -1,6 +1,6 @@
 # tylerbcrawford/subgeneratorr
 
-⭐ 11 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tylerbcrawford/subgeneratorr) · [官网](https://github.com/tylerbcrawford/subgeneratorr/releases) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tylerbcrawford/subgeneratorr) · [官网](https://github.com/tylerbcrawford/subgeneratorr/releases) · 个人维护
 
 **为 Plex/Jellyfin/Emby 生成并翻译字幕的 Docker 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tylerbcrawford/subgeneratorr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # salylgw/gammath_spot
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/salylgw/gammath_spot) · [官网](https://www.gammathworks.com/stockanalysissoftware) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/salylgw/gammath_spot) · [官网](https://www.gammathworks.com/stockanalysissoftware) · 个人维护
 
 **面向 DIY 投资者的股票技术分析工具集，输出折扣/溢价评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "salylgw/gammath_spot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

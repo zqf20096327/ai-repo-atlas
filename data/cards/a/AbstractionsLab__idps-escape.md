@@ -45,12 +45,12 @@ CyFORT 子项目，基于 MAPE-K 架构的 SOAR 系统，面向 SME、CERT/CSIRT
 ```mermaid
 xychart-beta
     title "AbstractionsLab/idps-escape 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

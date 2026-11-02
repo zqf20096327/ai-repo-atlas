@@ -1,6 +1,6 @@
 # memvid/claude-brain
 
-⭐ 581 · TypeScript · MIT · 推送 2026-01-19 · [GitHub](https://github.com/memvid/claude-brain) · [官网](https://memvid.com) · 组织维护
+⭐ 582 · TypeScript · MIT · 推送 2026-01-19 · [GitHub](https://github.com/memvid/claude-brain) · [官网](https://memvid.com) · 组织维护
 
 **给 Claude Code 增加单文件跨会话记忆的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "memvid/claude-brain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 578 --> 582
-    line [579, 580, 581, 581]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 578 --> 583
+    line [579, 580, 581, 582]
 ```
 
-2026-10-18 579 → 2026-11-01 581（+2）
+2026-10-18 579 → 2026-11-02 582（+3）
 
 
 ---

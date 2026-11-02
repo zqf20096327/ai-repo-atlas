@@ -1,6 +1,6 @@
 # xinity-ai/xinity-ai
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/xinity-ai/xinity-ai) · [官网](https://xinity.ai) · 组织维护
+⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/xinity-ai/xinity-ai) · [官网](https://xinity.ai) · 组织维护
 
 **面向企业的本地化 AI 平台：自有硬件上运行模型并统一管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xinity-ai/xinity-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
     y-axis "stars" 58 --> 62
     line [59, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-01 61（+2）
+2026-10-18 59 → 2026-11-02 61（+2）
 
 
 ---

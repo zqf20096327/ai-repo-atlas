@@ -1,6 +1,6 @@
 # Code-MonkeyZhang/persona-agent
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Code-MonkeyZhang/persona-agent) · [官网](https://code-monkeyzhang.github.io/persona-agent/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Code-MonkeyZhang/persona-agent) · [官网](https://code-monkeyzhang.github.io/persona-agent/) · 个人维护 · 中文 README
 
 **开源个人 AI 陪伴助手：自定义性格、声音与立绘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Code-MonkeyZhang/persona-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-01 14（+2）
+2026-10-18 12 → 2026-11-02 14（+2）
 
 
 ---

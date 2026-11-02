@@ -1,6 +1,6 @@
 # AIGNE-io/aigne-framework
 
-⭐ 370 · TypeScript · NOASSERTION · 推送 2026-01-25 · [GitHub](https://github.com/AIGNE-io/aigne-framework) · [官网](https://aigne.io/framework) · 组织维护
+⭐ 369 · TypeScript · NOASSERTION · 推送 2026-01-25 · [GitHub](https://github.com/AIGNE-io/aigne-framework) · [官网](https://aigne.io/framework) · 组织维护
 
 **TypeScript 函数式 AI Agent 开发框架，用于构建 LLM 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AIGNE-io/aigne-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
     y-axis "stars" 368 --> 371
-    line [369, 370, 370]
+    line [369, 370, 369]
 ```
 
-2026-10-18 369 → 2026-11-01 370（+1）
+2026-10-18 369 → 2026-11-02 369（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # emilsvennesson/opencode-websearch
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/emilsvennesson/opencode-websearch) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/emilsvennesson/opencode-websearch) · 个人维护
 
 **为 OpenCode 提供原生网页搜索的插件，复用模型自带搜索能力**
 
@@ -42,13 +42,13 @@ OpenCode 编码代理的插件：注册 web-search 工具，调用模型内置�
 
 ```mermaid
 xychart-beta
-    title "emilsvennesson/opencode-websearch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 67 --> 74
-    line [68, 70, 71, 72, 73]
+    title "emilsvennesson/opencode-websearch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 67 --> 75
+    line [68, 70, 71, 72, 73, 74]
 ```
 
-2026-10-18 68 → 2026-11-01 73（+5）
+2026-10-18 68 → 2026-11-02 74（+6）
 
 
 ---

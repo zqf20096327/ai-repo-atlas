@@ -1,6 +1,6 @@
 # Acly/vision.cpp
 
-⭐ 58 · C++ · MIT · 推送 2026-04-02 · [GitHub](https://github.com/Acly/vision.cpp) · 个人维护
+⭐ 60 · C++ · MIT · 推送 2026-04-02 · [GitHub](https://github.com/Acly/vision.cpp) · 个人维护
 
 **C++ 计算机视觉推理库：消费级 CPU/GPU 上运行分割、深度估计等模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Acly/vision.cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 57 --> 61
+    line [58, 60]
 ```
 
-2026-10-18 58 → 2026-11-01 58（+0）
+2026-10-18 58 → 2026-11-02 60（+2）
 
 
 ---

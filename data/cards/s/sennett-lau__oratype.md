@@ -1,6 +1,6 @@
 # sennett-lau/oratype
 
-⭐ 12 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sennett-lau/oratype) · [官网](https://oratype.sennettlau.me) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sennett-lau/oratype) · [官网](https://oratype.sennettlau.me) · 个人维护
 
 **macOS 语音输入工具：说话即得整理好的文字**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sennett-lau/oratype 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-01"]
-    y-axis "stars" 7 --> 13
-    line [8, 12]
+    title "sennett-lau/oratype 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 7 --> 14
+    line [8, 12, 13]
 ```
 
-2026-10-19 8 → 2026-11-01 12（+4）
+2026-10-19 8 → 2026-11-02 13（+5）
 
 
 ---

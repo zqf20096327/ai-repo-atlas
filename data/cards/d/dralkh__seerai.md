@@ -1,6 +1,6 @@
 # dralkh/seerai
 
-⭐ 94 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/dralkh/seerai) · 个人维护
+⭐ 95 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/dralkh/seerai) · 个人维护
 
 **Zotero 9/10 的 AI 研究助手插件：文献对话、检索、RAG 与系统综述**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dralkh/seerai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 89 --> 95
-    line [90, 91, 93, 94, 94]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
+    y-axis "stars" 89 --> 96
+    line [90, 91, 93, 94, 95]
 ```
 
-2026-10-18 90 → 2026-11-01 94（+4）
+2026-10-18 90 → 2026-11-02 95（+5）
 
 
 ---

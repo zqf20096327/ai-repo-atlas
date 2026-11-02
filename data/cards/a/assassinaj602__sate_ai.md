@@ -1,6 +1,6 @@
 # assassinaj602/sate_ai
 
-⭐ 17 · Dart · MIT · 推送 2026-10-20 · [GitHub](https://github.com/assassinaj602/sate_ai) · [官网](https://assassinaj602.github.io/sate_ai/) · 个人维护
+⭐ 18 · Dart · MIT · 推送 2026-10-20 · [GitHub](https://github.com/assassinaj602/sate_ai) · [官网](https://assassinaj602.github.io/sate_ai/) · 个人维护
 
 **面向端侧 AI 模型的故障注入与可靠性测试框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "assassinaj602/sate_ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
+    title "assassinaj602/sate_ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 19
-    line [14, 15, 17, 18, 16, 17]
+    line [14, 15, 17, 18, 16, 17, 18]
 ```
 
-2026-10-18 14 → 2026-11-01 17（+3）
+2026-10-18 14 → 2026-11-02 18（+4）
 
 
 ---

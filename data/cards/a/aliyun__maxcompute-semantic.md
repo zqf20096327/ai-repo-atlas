@@ -1,6 +1,6 @@
 # aliyun/maxcompute-semantic
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aliyun/maxcompute-semantic) · [官网](https://aliyun.github.io/maxcompute-semantic/) · 组织维护 · 中文 README
+⭐ 17 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aliyun/maxcompute-semantic) · [官网](https://aliyun.github.io/maxcompute-semantic/) · 组织维护 · 中文 README
 
 **为 AI agent 提供_MaxCompute 数据语义层与 SQL 护栏的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aliyun/maxcompute-semantic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

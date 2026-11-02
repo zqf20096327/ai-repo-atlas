@@ -1,6 +1,6 @@
 # nanaism/yomiyasu-mini
 
-⭐ 11 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nanaism/yomiyasu-mini) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nanaism/yomiyasu-mini) · 个人维护 · 中文 README
 
 **给有大小上限的 agent 环境用的日语 AI 文本推敲技能（SKILL.md 18,000字以下）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nanaism/yomiyasu-mini 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 2 --> 12
-    line [3, 7, 8, 10, 11, 11]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 2 --> 14
+    line [3, 7, 8, 10, 11, 13]
 ```
 
-2026-10-24 3 → 2026-11-01 11（+8）
+2026-10-24 3 → 2026-11-02 13（+10）
 
 
 ---

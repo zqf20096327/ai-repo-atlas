@@ -1,6 +1,6 @@
 # nagstler/mcp_on_ruby
 
-⭐ 97 · Ruby · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nagstler/mcp_on_ruby) · 个人维护
+⭐ 95 · Ruby · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nagstler/mcp_on_ruby) · 个人维护
 
 **Rails 应用的 MCP 服务器实现：以 Rails 方式暴露工具与资源给 AI 客户端**
 
@@ -46,12 +46,12 @@ Model Context Protocol 的 Ruby/Rails 实现，以 Ruby gem 形式提供。开�
 ```mermaid
 xychart-beta
     title "nagstler/mcp_on_ruby 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 94 --> 98
+    line [97, 95]
 ```
 
-2026-10-18 97 → 2026-11-01 97（+0）
+2026-10-18 97 → 2026-11-02 95（-2）
 
 
 ---

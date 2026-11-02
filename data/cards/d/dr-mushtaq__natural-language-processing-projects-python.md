@@ -1,6 +1,6 @@
 # dr-mushtaq/natural-language-processing-projects-python
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dr-mushtaq/natural-language-processing-projects-python) · [官网](https://coursesteach.com) · 个人维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dr-mushtaq/natural-language-processing-projects-python) · [官网](https://coursesteach.com) · 个人维护
 
 **Python NLP 从入门到进阶的课程与实操清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dr-mushtaq/natural-language-processing-projects-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 20（+0）
 
 
 ---

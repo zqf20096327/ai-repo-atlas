@@ -1,6 +1,6 @@
 # ok-oldking/ok-script
 
-⭐ 814 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/ok-oldking/ok-script) · [官网](https://ok-script.com/) · 个人维护 · 中文 README
+⭐ 816 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/ok-oldking/ok-script) · [官网](https://ok-script.com/) · 个人维护 · 中文 README
 
 **Python 桌面/安卓自动化框架，配 MCP 供编程代理开发脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ok-oldking/ok-script 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 805 --> 815
-    line [806, 810, 812, 814]
+    title "ok-oldking/ok-script 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 805 --> 817
+    line [806, 810, 812, 814, 816]
 ```
 
-2026-10-29 806 → 2026-11-01 814（+8）
+2026-10-29 806 → 2026-11-02 816（+10）
 
 
 ---

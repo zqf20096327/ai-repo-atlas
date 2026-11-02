@@ -1,6 +1,6 @@
 # hhyqhh/inno-agent
 
-⭐ 1,338 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hhyqhh/inno-agent) · [官网](https://hhyqhh.github.io/inno-agent-website) · 个人维护 · 中文 README
+⭐ 1,348 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hhyqhh/inno-agent) · [官网](https://hhyqhh.github.io/inno-agent-website) · 个人维护 · 中文 README
 
 **单人学习伴侣 agent：三层记忆+主动调度+个人 IM 通道**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "hhyqhh/inno-agent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1296 --> 1341
-    line [1299, 1304, 1305, 1306, 1307, 1309, 1326, 1330, 1338]
+    title "hhyqhh/inno-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1295 --> 1352
+    line [1299, 1304, 1305, 1306, 1307, 1309, 1326, 1330, 1338, 1348]
 ```
 
-2026-10-18 1,299 → 2026-11-01 1,338（+39）
+2026-10-18 1,299 → 2026-11-02 1,348（+49）
 
 
 ---

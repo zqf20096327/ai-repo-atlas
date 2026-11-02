@@ -1,6 +1,6 @@
 # bpwhelan/GameSentenceMiner
 
-⭐ 899 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
+⭐ 904 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
 
 **游戏中自动挖句制 Anki 卡的语言沉浸工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bpwhelan/GameSentenceMiner 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 876 --> 901
-    line [878, 879, 880, 881, 885, 886, 889, 892, 894, 895, 897, 899]
+    title "bpwhelan/GameSentenceMiner 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 876 --> 906
+    line [878, 879, 880, 881, 885, 886, 889, 892, 894, 895, 897, 899, 904]
 ```
 
-2026-10-18 878 → 2026-11-01 899（+21）
+2026-10-18 878 → 2026-11-02 904（+26）
 
 
 ---

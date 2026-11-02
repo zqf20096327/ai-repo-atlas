@@ -1,6 +1,6 @@
 # Ji-Rath/MassAIExample
 
-⭐ 379 · C++ · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Ji-Rath/MassAIExample) · 个人维护
+⭐ 380 · C++ · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Ji-Rath/MassAIExample) · 个人维护
 
 **UE5 Mass ECS 框架的 AI 示例与实验项目集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ji-Rath/MassAIExample 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 377 --> 380
-    line [378, 379, 379]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 377 --> 381
+    line [378, 379, 380]
 ```
 
-2026-10-18 378 → 2026-11-01 379（+1）
+2026-10-18 378 → 2026-11-02 380（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tylerelyt/LLM-Workshop
 
-⭐ 90 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/tylerelyt/LLM-Workshop) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/tylerelyt/LLM-Workshop) · 个人维护 · 中文 README
 
 **面向开发者的 LLM 应用开发实战教程仓库（8 章）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tylerelyt/LLM-Workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 89 --> 91
     line [90, 90]
 ```
 
-2026-10-18 90 → 2026-11-01 90（+0）
+2026-10-18 90 → 2026-11-02 90（+0）
 
 
 ---

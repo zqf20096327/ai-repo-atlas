@@ -46,13 +46,13 @@ ShyftLabs 维护的 Python 框架（Apache-2.0），用于构建、编排和部�
 
 ```mermaid
 xychart-beta
-    title "shyftlabs/continuum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "shyftlabs/continuum 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 83 --> 86
-    line [84, 85]
+    line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-11-01 85（+1）
+2026-10-18 84 → 2026-11-02 85（+1）
 
 
 ---

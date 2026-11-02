@@ -1,6 +1,6 @@
 # golf-mcp/golf
 
-⭐ 840 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/golf-mcp/golf) · [官网](https://golf.dev/) · 组织维护
+⭐ 841 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/golf-mcp/golf) · [官网](https://golf.dev/) · 组织维护
 
 **用 Python 文件构建 MCP 服务器的框架，自动发现编译组件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "golf-mcp/golf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
     y-axis "stars" 839 --> 842
-    line [840, 841, 840, 840]
+    line [840, 841, 840, 841]
 ```
 
-2026-10-18 840 → 2026-11-01 840（+0）
+2026-10-18 840 → 2026-11-02 841（+1）
 
 
 ---

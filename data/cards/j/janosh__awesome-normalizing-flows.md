@@ -43,13 +43,13 @@ janosh 维护的 normalizing flows（NF）主题 awesome 清单：收录 60 篇�
 
 ```mermaid
 xychart-beta
-    title "janosh/awesome-normalizing-flows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "janosh/awesome-normalizing-flows 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1639 --> 1642
-    line [1640, 1641]
+    line [1640, 1641, 1641]
 ```
 
-2026-10-18 1,640 → 2026-11-01 1,641（+1）
+2026-10-18 1,640 → 2026-11-02 1,641（+1）
 
 
 ---

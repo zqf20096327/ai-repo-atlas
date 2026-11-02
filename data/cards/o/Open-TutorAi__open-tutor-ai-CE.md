@@ -1,6 +1,6 @@
 # Open-TutorAi/open-tutor-ai-CE
 
-⭐ 114 · JavaScript · BSD-3-Clause · 推送 2026-06-26 · [GitHub](https://github.com/Open-TutorAi/open-tutor-ai-CE) · [官网](https://opentutorai.com) · 组织维护
+⭐ 115 · JavaScript · BSD-3-Clause · 推送 2026-06-26 · [GitHub](https://github.com/Open-TutorAi/open-tutor-ai-CE) · [官网](https://opentutorai.com) · 组织维护
 
 **面向教育的开源 AI 辅导平台（社区版）**
 
@@ -46,12 +46,12 @@ OpenTutorAI-CE 是社区版开源项目，作为商业企业版（EE）的基础
 ```mermaid
 xychart-beta
     title "Open-TutorAi/open-tutor-ai-CE 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 110 --> 115
-    line [111, 112, 114, 114]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 110 --> 116
+    line [111, 112, 114, 115]
 ```
 
-2026-10-18 111 → 2026-11-01 114（+3）
+2026-10-18 111 → 2026-11-02 115（+4）
 
 
 ---

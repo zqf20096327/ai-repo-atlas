@@ -1,6 +1,6 @@
 # dx111ge/engram
 
-⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/dx111ge/engram) · 个人维护
+⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/dx111ge/engram) · 个人维护
 
 **自托管 AI 知识引擎：单二进制集成知识图谱+语义搜索+推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dx111ge/engram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 19 --> 22
+    line [21, 20]
 ```
 
-2026-10-18 21 → 2026-11-01 21（+0）
+2026-10-18 21 → 2026-11-02 20（-1）
 
 
 ---

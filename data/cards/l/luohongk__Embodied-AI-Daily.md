@@ -1,6 +1,6 @@
 # luohongk/Embodied-AI-Daily
 
-⭐ 493 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/luohongk/Embodied-AI-Daily) · [官网](http://luohongkun.top/Embodied-AI-Daily/) · 个人维护 · 中文 README
+⭐ 493 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/luohongk/Embodied-AI-Daily) · [官网](http://luohongkun.top/Embodied-AI-Daily/) · 个人维护 · 中文 README
 
 **每日自动抓取具身智能/arXiv 论文的追踪清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "luohongk/Embodied-AI-Daily 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 479 --> 494
     line [480, 482, 485, 484, 487, 488, 493, 493]
 ```
 
-2026-10-18 480 → 2026-11-01 493（+13）
+2026-10-18 480 → 2026-11-02 493（+13）
 
 
 ---

@@ -1,0 +1,57 @@
+# jcdreamjc/wudao-mcp
+
+⭐ 11 · HTML · MIT · 推送 2026-10-08 · [GitHub](https://github.com/jcdreamjc/wudao-mcp) · [官网](https://data.quicktiny.cn/) · 组织维护 · 中文 README
+
+**面向 AI agent 的 A 股行情数据远程 MCP 服务器**
+
+由杭州瞬微网络科技（QuickTiny）维护的远程 HTTP MCP 服务器，向 AI agent 提供 63 个工具：57 个只读查询工具覆盖涨停梯队、题材资金流、集合竞价、龙虎榜、公告与 SEC 披露等，另 6 个工具仅管理调用方自选股。基于 Streamable HTTP 与 Bearer key 认证，不执行交易。提供 10 种 profile 收窄工具列表，分层定价含免费档（每日 50 次，早盘高峰暂停），需从开发者控制台获取 API key。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 57 个只读工具覆盖涨停生态、资金流、竞价、龙虎榜、基本面与 SEC 披露
+- 6 个自选股管理工具，明确不做交易执行
+- 支持 10 种 profile（short_term/fundamental/market_replay 等）收窄工具集
+- 提供市场复盘/涨停复盘/个股研究的一次性 workflow 工具
+
+## 适用场景
+
+- 让 agent 做 A 股盘后复盘（涨停梯队、题材轮动、资金流）
+- 开盘竞价数据检查与事件/风险日历查询
+- 在 Claude Code、Codex、Cursor、Coze 等客户端接入 A 股数据
+
+## 场景标签
+
+`金融量化` · 领域:学习与行业
+
+## 证据(README 行号)
+
+> L3: Wudao A-Share Stock Data MCP (悟道 A股股票数据 MCP) is a remote HTTP MCP server for China A-share market data. It serves 63
+> L7: - Endpoint: `https://stock.quicktiny.cn/api/mcp` (Streamable HTTP, stateless JSON-RPC over POST; no stdio)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jcdreamjc/wudao-mcp 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-10-18 11 → 2026-11-02 11（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 high · 依据 README sha `029fbeedd730` · [字段定义](../../DATASET.md)*

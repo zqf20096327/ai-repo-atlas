@@ -1,6 +1,6 @@
 # Goldziher/basemind
 
-⭐ 114 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Goldziher/basemind) · [官网](https://basemind.ai) · 个人维护
+⭐ 115 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Goldziher/basemind) · [官网](https://basemind.ai) · 个人维护
 
 **给编码 agent 的 MCP 上下文与通信层服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Goldziher/basemind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 111 --> 115
-    line [112, 113, 114, 114]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 111 --> 116
+    line [112, 113, 114, 115]
 ```
 
-2026-10-18 112 → 2026-11-01 114（+2）
+2026-10-18 112 → 2026-11-02 115（+3）
 
 
 ---

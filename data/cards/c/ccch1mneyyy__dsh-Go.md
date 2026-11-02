@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-Go
 
-⭐ 3,499 · Dart · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ccch1mneyyy/dsh-Go) · 个人维护 · 中文 README
+⭐ 4,551 · Dart · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/ccch1mneyyy/dsh-Go) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Android 客户端：手机本机跑或遥控电脑上的 DSH**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ccch1mneyyy/dsh-Go 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 2231 --> 3614
-    line [2346, 3499]
+    title "ccch1mneyyy/dsh-Go 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2126 --> 4771
+    line [2346, 3499, 4551]
 ```
 
-2026-10-31 2,346 → 2026-11-01 3,499（+1,153）
+2026-10-31 2,346 → 2026-11-02 4,551（+2,205）
 
 
 ---

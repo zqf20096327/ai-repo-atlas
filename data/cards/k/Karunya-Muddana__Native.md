@@ -1,6 +1,6 @@
 # Karunya-Muddana/Native
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Karunya-Muddana/Native) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Karunya-Muddana/Native) · 个人维护
 
 **本地优先的开源 AI Agent 运行环境，供开发者自行运行**
 
@@ -40,6 +40,18 @@
 
 > L13: An agent you run yourself. It reads your documents, executes code in a sealed
 > L39: two in the afternoon. So each role is a chain of providers tried in order, and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Karunya-Muddana/Native 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
+```
+
+2026-11-01 13 → 2026-11-02 14（+1）
 
 
 ---

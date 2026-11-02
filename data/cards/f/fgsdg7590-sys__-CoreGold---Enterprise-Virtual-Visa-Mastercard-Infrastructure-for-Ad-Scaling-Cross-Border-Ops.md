@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 2 --> 32
-    line [4, 16, 26, 30]
+    line [4, 16, 26, 30, 30]
 ```
 
-2026-10-29 4 → 2026-11-01 30（+26）
+2026-10-29 4 → 2026-11-02 30（+26）
 
 
 ---

@@ -1,6 +1,6 @@
 # layr-hq/layr
 
-⭐ 78 · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/layr-hq/layr) · 组织维护
+⭐ 79 · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/layr-hq/layr) · 组织维护
 
 **给 agentic 编程工具的规则化生产系统：把 UX/安全等方法变成可执行约束**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "layr-hq/layr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 79]
 ```
 
-2026-10-18 77 → 2026-11-01 78（+1）
+2026-10-18 77 → 2026-11-02 79（+2）
 
 
 ---

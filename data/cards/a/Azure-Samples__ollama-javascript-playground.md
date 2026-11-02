@@ -1,6 +1,6 @@
 # Azure-Samples/ollama-javascript-playground
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Azure-Samples/ollama-javascript-playground) · [官网](https://aka.ms/ai/js/play) · 组织维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure-Samples/ollama-javascript-playground) · [官网](https://aka.ms/ai/js/play) · 组织维护
 
 **浏览器中体验生成式 AI 模型的 JavaScript Playground**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/ollama-javascript-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-01 28（+0）
+2026-10-18 28 → 2026-11-02 28（+0）
 
 
 ---

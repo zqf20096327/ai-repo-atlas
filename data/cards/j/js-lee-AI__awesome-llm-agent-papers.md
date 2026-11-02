@@ -1,6 +1,6 @@
 # js-lee-AI/awesome-llm-agent-papers
 
-⭐ 104 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护 · 中文 README
+⭐ 105 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护 · 中文 README
 
 **面向 LLM Agent 研究者的 curated 论文清单（228+ 篇）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "js-lee-AI/awesome-llm-agent-papers 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 89 --> 105
-    line [90, 91, 101, 102, 103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 89 --> 106
+    line [90, 91, 101, 102, 103, 104, 105]
 ```
 
-2026-10-18 90 → 2026-11-01 104（+14）
+2026-10-18 90 → 2026-11-02 105（+15）
 
 
 ---

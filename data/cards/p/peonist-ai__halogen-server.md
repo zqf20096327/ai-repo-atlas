@@ -1,6 +1,6 @@
 # peonist-ai/halogen-server
 
-⭐ 146 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/peonist-ai/halogen-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-27b) · 组织维护
+⭐ 151 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/peonist-ai/halogen-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-27b) · 组织维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-27B 的专用推理服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "peonist-ai/halogen-server 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 130 --> 147
-    line [131, 133, 135, 136, 137, 141, 142, 143, 144, 145, 146]
+    title "peonist-ai/halogen-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 129 --> 153
+    line [131, 133, 135, 136, 137, 141, 142, 143, 144, 145, 146, 151]
 ```
 
-2026-10-18 131 → 2026-11-01 146（+15）
+2026-10-18 131 → 2026-11-02 151（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # pinkpixel-dev/mindbridge-mcp
 
-⭐ 39 · TypeScript · MIT · 推送 2026-03-13 · [GitHub](https://github.com/pinkpixel-dev/mindbridge-mcp) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-03-13 · [GitHub](https://github.com/pinkpixel-dev/mindbridge-mcp) · 组织维护
 
 **统一接入多家 LLM 的 MCP 路由服务器，支持多模型对比**
 
@@ -45,12 +45,12 @@ Model Context Protocol (MCP) 服务器，使 MCP 兼容应用（如 Claude Deskt
 ```mermaid
 xychart-beta
     title "pinkpixel-dev/mindbridge-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-18 39 → 2026-11-01 39（+0）
+2026-10-18 39 → 2026-11-02 40（+1）
 
 
 ---

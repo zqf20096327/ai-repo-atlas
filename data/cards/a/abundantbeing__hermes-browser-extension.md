@@ -1,6 +1,6 @@
 # abundantbeing/hermes-browser-extension
 
-⭐ 1,713 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
+⭐ 1,754 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
 
 **连接本地 Hermes Agent 运行时的浏览器侧边栏扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abundantbeing/hermes-browser-extension 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1672 --> 1716
-    line [1675, 1686, 1692, 1698, 1699, 1698, 1702, 1705, 1709, 1710, 1712, 1713]
+    title "abundantbeing/hermes-browser-extension 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1668 --> 1761
+    line [1675, 1686, 1692, 1698, 1699, 1698, 1702, 1705, 1709, 1710, 1712, 1713, 1754]
 ```
 
-2026-10-18 1,675 → 2026-11-01 1,713（+38）
+2026-10-18 1,675 → 2026-11-02 1,754（+79）
 
 
 ---

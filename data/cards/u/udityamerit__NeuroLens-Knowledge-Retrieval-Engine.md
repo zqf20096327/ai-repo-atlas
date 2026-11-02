@@ -46,12 +46,12 @@ Document RAG 问答应用，提供两种执行模式：零后端的浏览器端�
 ```mermaid
 xychart-beta
     title "udityamerit/NeuroLens-Knowledge-Retrieval-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

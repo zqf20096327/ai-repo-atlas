@@ -1,6 +1,6 @@
 # vladmandic/sdnext-launcher
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/vladmandic/sdnext-launcher) · [官网](https://vladmandic.github.io/sdnext-docs/) · 个人维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/vladmandic/sdnext-launcher) · [官网](https://vladmandic.github.io/sdnext-docs/) · 个人维护
 
 **Windows 一体化安装启动器：免配置安装运行 SD.Next**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vladmandic/sdnext-launcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 14（+1）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

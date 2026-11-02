@@ -40,6 +40,18 @@
 > L3: An experimental tabular-classification notebook with data exploration, preprocessing, boosted-tree models, hyperpara
 > L35: Saved notebook metadata records Python 3.10.9. The header imports NumPy, pandas, scikit-learn, SciPy, matplotlib, F
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ataturhan21/Kaggle-Blueprints 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-01 25 → 2026-11-02 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `97d72f42b04b` · [字段定义](../../DATASET.md)*

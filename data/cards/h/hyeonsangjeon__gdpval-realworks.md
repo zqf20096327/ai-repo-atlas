@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyeonsangjeon/gdpval-realworks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-01 28（+0）
+2026-10-18 28 → 2026-11-02 28（+0）
 
 
 ---

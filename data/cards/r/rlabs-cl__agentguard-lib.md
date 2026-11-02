@@ -45,12 +45,12 @@ AgentGuard 是一个 MCP 服务器，为 Claude、GPT、Gemini 等 AI 编程 age
 ```mermaid
 xychart-beta
     title "rlabs-cl/agentguard-lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

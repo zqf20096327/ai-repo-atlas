@@ -1,6 +1,6 @@
 # ModelTC/LightVAE
 
-⭐ 36 · Python · 推送 2026-10-14 · [GitHub](https://github.com/ModelTC/LightVAE) · [官网](https://arxiv.org/abs/2610.14726) · 组织维护
+⭐ 37 · Python · 推送 2026-10-14 · [GitHub](https://github.com/ModelTC/LightVAE) · [官网](https://arxiv.org/abs/2610.14726) · 组织维护
 
 **视频生成模型的加速 VAE 解码器/编码器：适配 Wan 与 MiniMax-H3**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ModelTC/LightVAE 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 29 --> 37
-    line [30, 32, 34, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 29 --> 38
+    line [30, 32, 34, 35, 36, 37]
 ```
 
-2026-10-18 30 → 2026-11-01 36（+6）
+2026-10-18 30 → 2026-11-02 37（+7）
 
 
 ---

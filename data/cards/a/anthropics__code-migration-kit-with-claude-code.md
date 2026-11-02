@@ -1,6 +1,6 @@
 # anthropics/code-migration-kit-with-claude-code
 
-⭐ 778 · Python · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/anthropics/code-migration-kit-with-claude-code) · 组织维护
+⭐ 780 · Python · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/anthropics/code-migration-kit-with-claude-code) · 组织维护
 
 **用 Claude Code 执行大规模语言迁移的提示词/模板/脚本套件**
 
@@ -44,13 +44,13 @@ Anthropic 发布的配套代码库，提供用 Claude Code 做跨语言整体迁
 
 ```mermaid
 xychart-beta
-    title "anthropics/code-migration-kit-with-claude-code 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 761 --> 779
-    line [762, 764, 770, 771, 773, 775, 776, 777, 778]
+    title "anthropics/code-migration-kit-with-claude-code 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 761 --> 781
+    line [762, 764, 770, 771, 773, 775, 776, 777, 778, 780]
 ```
 
-2026-10-18 762 → 2026-11-01 778（+16）
+2026-10-18 762 → 2026-11-02 780（+18）
 
 
 ---

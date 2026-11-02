@@ -1,6 +1,6 @@
 # NPC-Worldwide/incognide
 
-⭐ 480 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/NPC-Worldwide/incognide) · [官网](https://incognide.com) · 组织维护
+⭐ 486 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/NPC-Worldwide/incognide) · [官网](https://incognide.com) · 组织维护
 
 **聚合聊天/代码/文档/浏览的本地优先 AI 工作台，可接本地或云端模型**
 
@@ -44,13 +44,13 @@ Electron 桌面应用，将聊天、代码编辑与执行、终端、PDF 阅读�
 
 ```mermaid
 xychart-beta
-    title "NPC-Worldwide/incognide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 475 --> 481
-    line [476, 477, 478, 479, 480]
+    title "NPC-Worldwide/incognide 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 475 --> 487
+    line [476, 477, 478, 479, 480, 486]
 ```
 
-2026-10-18 476 → 2026-11-01 480（+4）
+2026-10-18 476 → 2026-11-02 486（+10）
 
 
 ---

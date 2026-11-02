@@ -1,6 +1,6 @@
 # Claire1217/paper-pal
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Claire1217/paper-pal) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Claire1217/paper-pal) · 个人维护 · 中文 README
 
 **本地 LaTeX 论文 AI 改写审阅工具：批注→词级 diff→接受才写入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Claire1217/paper-pal 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-01"]
+    title "Claire1217/paper-pal 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 20 --> 28
-    line [21, 24, 25, 26, 27]
+    line [21, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 21 → 2026-11-01 27（+6）
+2026-10-18 21 → 2026-11-02 27（+6）
 
 
 ---

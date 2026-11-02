@@ -1,6 +1,6 @@
 # akari-sora/synology-nas-cli
 
-⭐ 26 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/akari-sora/synology-nas-cli) · [官网](https://gitlab.com/aa22396584/synology-nas-cli) · 个人维护 · 中文 README
+⭐ 43 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/akari-sora/synology-nas-cli) · [官网](https://gitlab.com/aa22396584/synology-nas-cli) · 个人维护 · 中文 README
 
 **Synology DSM 7 的零依赖 Python CLI + MCP 服务器：一键审计修复勒索暴露面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "akari-sora/synology-nas-cli 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 9 --> 27
-    line [10, 26]
+    title "akari-sora/synology-nas-cli 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 7 --> 46
+    line [10, 26, 43]
 ```
 
-2026-10-31 10 → 2026-11-01 26（+16）
+2026-10-31 10 → 2026-11-02 43（+33）
 
 
 ---

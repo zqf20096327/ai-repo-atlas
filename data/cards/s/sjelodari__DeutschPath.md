@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjelodari/DeutschPath 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "sjelodari/DeutschPath 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 18 --> 21
-    line [20, 19]
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-01 19（-1）
+2026-10-18 20 → 2026-11-02 19（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # CoderLuii/HolyClaude
 
-⭐ 2,601 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CoderLuii/HolyClaude) · [官网](https://holyclaude.coderluii.dev) · 个人维护
+⭐ 2,602 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/CoderLuii/HolyClaude) · [官网](https://holyclaude.coderluii.dev) · 个人维护
 
 **容器化 AI 编码工作站：一条命令运行 Claude Code 与 8 个 AI CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CoderLuii/HolyClaude 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2582 --> 2602
-    line [2583, 2584, 2586, 2588, 2589, 2590, 2595, 2596, 2597, 2601]
+    title "CoderLuii/HolyClaude 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2582 --> 2603
+    line [2583, 2584, 2586, 2588, 2589, 2590, 2595, 2596, 2597, 2601, 2602]
 ```
 
-2026-10-18 2,583 → 2026-11-01 2,601（+18）
+2026-10-18 2,583 → 2026-11-02 2,602（+19）
 
 
 ---

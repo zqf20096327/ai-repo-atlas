@@ -1,6 +1,6 @@
 # TheBeachLab/selfhosted
 
-⭐ 23 · Python · 推送 2026-10-14 · [GitHub](https://github.com/TheBeachLab/selfhosted) · [官网](https:/beachlab.org) · 个人维护
+⭐ 23 · Python · 推送 2026-11-01 · [GitHub](https://github.com/TheBeachLab/selfhosted) · [官网](https:/beachlab.org) · 个人维护
 
 **个人自托管基础设施的运维文档：服务器、服务与 AI 工作负载记录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheBeachLab/selfhosted 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 23（+0）
 
 
 ---

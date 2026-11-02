@@ -1,6 +1,6 @@
 # bhensley5/overgraph
 
-⭐ 59 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bhensley5/overgraph) · [官网](https://overgraph.io) · 个人维护
+⭐ 60 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bhensley5/overgraph) · [官网](https://overgraph.io) · 个人维护
 
 **进程内嵌入式图数据库，内置稠密/稀疏向量检索，面向 Agent 记忆与 Graph RAG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bhensley5/overgraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 56 --> 60
-    line [57, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 59, 60]
 ```
 
-2026-10-18 57 → 2026-11-01 59（+2）
+2026-10-18 57 → 2026-11-02 60（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Code-Hdez/pokemon-firered-llm-mod
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-02-25 · [GitHub](https://github.com/Code-Hdez/pokemon-firered-llm-mod) · [官网](https://www.codehdez.com) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-02-25 · [GitHub](https://github.com/Code-Hdez/pokemon-firered-llm-mod) · [官网](https://www.codehdez.com) · 个人维护
 
 **将宝可梦火红 NPC 对话实时改写为 LLM 生成内容的模拟器桥接工具**
 
@@ -46,12 +46,12 @@ Lua+Python 桥接层，在 mGBA 模拟器中运行宝可梦火红时拦截 NPC �
 ```mermaid
 xychart-beta
     title "Code-Hdez/pokemon-firered-llm-mod 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

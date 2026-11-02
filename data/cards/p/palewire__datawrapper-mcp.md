@@ -1,6 +1,6 @@
 # palewire/datawrapper-mcp
 
-⭐ 61 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/palewire/datawrapper-mcp) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/palewire/datawrapper-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 创建 Datawrapper 图表的服务器与应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "palewire/datawrapper-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01"]
+    title "palewire/datawrapper-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02"]
     y-axis "stars" 57 --> 62
-    line [58, 59, 60, 61]
+    line [58, 59, 60, 61, 61]
 ```
 
-2026-10-18 58 → 2026-11-01 61（+3）
+2026-10-18 58 → 2026-11-02 61（+3）
 
 
 ---

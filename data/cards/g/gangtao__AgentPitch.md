@@ -1,6 +1,6 @@
 # gangtao/AgentPitch
 
-⭐ 28 · HTML · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/gangtao/AgentPitch) · [官网](https://gangtao.github.io/AgentPitch/) · 个人维护
+⭐ 29 · HTML · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/gangtao/AgentPitch) · [官网](https://gangtao.github.io/AgentPitch/) · 个人维护
 
 **LLM 驱动的足球模拟：每个球员是 AI agent，策略随比赛进化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gangtao/AgentPitch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29]
 ```
 
-2026-10-18 26 → 2026-11-01 28（+2）
+2026-10-18 26 → 2026-11-02 29（+3）
 
 
 ---

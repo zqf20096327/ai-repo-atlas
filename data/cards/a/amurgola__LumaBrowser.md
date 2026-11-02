@@ -1,6 +1,6 @@
 # amurgola/LumaBrowser
 
-⭐ 129 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/amurgola/LumaBrowser) · [官网](https://lumabyte.com) · 个人维护
+⭐ 130 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/amurgola/LumaBrowser) · [官网](https://lumabyte.com) · 个人维护
 
 **集成 LLM 运行时与 AI 工具链的本地 Chromium 浏览器桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "amurgola/LumaBrowser 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 124 --> 130
-    line [125, 126, 125, 126, 127, 128, 129, 128, 129]
+    title "amurgola/LumaBrowser 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 124 --> 131
+    line [125, 126, 125, 126, 127, 128, 129, 128, 129, 130]
 ```
 
-2026-10-23 125 → 2026-11-01 129（+4）
+2026-10-23 125 → 2026-11-02 130（+5）
 
 
 ---

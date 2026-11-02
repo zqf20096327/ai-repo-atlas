@@ -1,6 +1,6 @@
 # TykTechnologies/tyk
 
-⭐ 10,872 · Go · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/TykTechnologies/tyk) · [官网](https://tyk.io/docs/getting-started/quick-start) · 组织维护
+⭐ 10,873 · Go · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/TykTechnologies/tyk) · [官网](https://tyk.io/docs/getting-started/quick-start) · 组织维护
 
 **云原生开源 API 与 AI 网关：管理 REST/GraphQL/gRPC/MCP 流量**
 
@@ -45,13 +45,13 @@ Tyk Gateway 是以 Go 编写的云原生开源 API 与 AI 网关，支持 REST�
 
 ```mermaid
 xychart-beta
-    title "TykTechnologies/tyk 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 10860 --> 10873
-    line [10861, 10867, 10868, 10869, 10870, 10869, 10870, 10872]
+    title "TykTechnologies/tyk 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10860 --> 10874
+    line [10861, 10867, 10868, 10869, 10870, 10869, 10870, 10872, 10873]
 ```
 
-2026-10-18 10,861 → 2026-11-01 10,872（+11）
+2026-10-18 10,861 → 2026-11-02 10,873（+12）
 
 
 ---

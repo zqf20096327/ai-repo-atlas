@@ -1,6 +1,6 @@
 # nndeploy/nndeploy
 
-⭐ 1,892 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/nndeploy/nndeploy) · [官网](https://nndeploy-zh.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 1,893 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/nndeploy/nndeploy) · [官网](https://nndeploy-zh.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **跨端 AI 部署框架：可视化工作流+多推理后端落地算法**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nndeploy/nndeploy 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1884 --> 1893
-    line [1885, 1886, 1887, 1888, 1889, 1891, 1892, 1892]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 1884 --> 1894
+    line [1885, 1886, 1887, 1888, 1889, 1891, 1892, 1893]
 ```
 
-2026-10-18 1,885 → 2026-11-01 1,892（+7）
+2026-10-18 1,885 → 2026-11-02 1,893（+8）
 
 
 ---

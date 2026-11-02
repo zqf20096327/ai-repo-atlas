@@ -1,6 +1,6 @@
 # HelpCode-ai/anythingmcp
 
-⭐ 765 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/HelpCode-ai/anythingmcp) · [官网](https://anythingmcp.com) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **自托管 MCP 网关：把 REST/SOAP/GraphQL/SQL 系统变成 MCP 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

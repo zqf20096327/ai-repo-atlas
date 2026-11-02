@@ -1,6 +1,6 @@
 # oldmoldycake/Snagr
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/oldmoldycake/Snagr) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/oldmoldycake/Snagr) · 个人维护
 
 **自托管二手市场价格追踪器：LLM agent 驱动浏览器巡检在售商品**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oldmoldycake/Snagr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-01 21（+1）
+2026-10-18 20 → 2026-11-02 21（+1）
 
 
 ---

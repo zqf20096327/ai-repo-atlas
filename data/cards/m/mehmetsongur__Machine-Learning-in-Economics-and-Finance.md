@@ -1,6 +1,6 @@
 # mehmetsongur/Machine-Learning-in-Economics-and-Finance
 
-⭐ 15 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance) · [官网](https://www.songurmehmet.com/dersler/ekonomi-ve-finansta-makine-ogrenmesi.html) · 组织维护
+⭐ 28 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance) · [官网](https://www.songurmehmet.com/dersler/ekonomi-ve-finansta-makine-ogrenmesi.html) · 组织维护
 
 **大学课程资料库：经济学与金融中的机器学习（14 周）**
 
@@ -39,6 +39,18 @@ Dicle 大学 'Machine Learning in Economics and Finance' 课程的每周资料�
 
 > L5: Weekly materials for the 14-week course **Machine Learning in Economics and Finance** at Dicle University: slides, l
 > L11: **Format:** a theory block (weeks 1–8) followed by an applied block in Google Colab (weeks 9–14). Slides, videos an
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mehmetsongur/Machine-Learning-in-Economics-and-Finance 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 29
+    line [15, 28]
+```
+
+2026-11-01 15 → 2026-11-02 28（+13）
 
 
 ---

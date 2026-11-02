@@ -1,6 +1,6 @@
 # dekrezz/FreeDeepseekAPI
 
-⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dekrezz/FreeDeepseekAPI) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dekrezz/FreeDeepseekAPI) · 个人维护 · 中文 README
 
 **把 DeepSeek 网页版账号封装成本地 OpenAI 兼容 API 的代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dekrezz/FreeDeepseekAPI 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 18 --> 30
-    line [19, 21, 23, 22, 23, 24, 26, 27, 29]
+    title "dekrezz/FreeDeepseekAPI 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 18 --> 32
+    line [19, 21, 23, 22, 23, 24, 26, 27, 29, 31]
 ```
 
-2026-10-18 19 → 2026-11-01 29（+10）
+2026-10-18 19 → 2026-11-02 31（+12）
 
 
 ---

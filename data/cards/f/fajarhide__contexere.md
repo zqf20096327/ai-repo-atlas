@@ -1,6 +1,6 @@
 # fajarhide/contexere
 
-⭐ 375 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
+⭐ 378 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
 
 **给编程 agent 的上下文/令牌压缩层，降噪减 token 且不丢数据**
 
@@ -46,12 +46,12 @@ Contexere（原 OMNI）是插在编码 agent 工具输出与模型读取之间�
 ```mermaid
 xychart-beta
     title "fajarhide/contexere 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-01"]
-    y-axis "stars" 374 --> 376
-    line [375, 375]
+    x-axis ["2026-10-30", "2026-11-02"]
+    y-axis "stars" 374 --> 379
+    line [375, 378]
 ```
 
-2026-10-30 375 → 2026-11-01 375（+0）
+2026-10-30 375 → 2026-11-02 378（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # bcmi/Awesome-Generative-Image-Composition
 
-⭐ 154 · Python · 推送 2026-09-25 · [GitHub](https://github.com/bcmi/Awesome-Generative-Image-Composition) · 组织维护 · 中文 README
+⭐ 154 · Python · 推送 2026-11-01 · [GitHub](https://github.com/bcmi/Awesome-Generative-Image-Composition) · 组织维护 · 中文 README
 
 **生成式图像合成/物体插入方向的论文与数据集策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bcmi/Awesome-Generative-Image-Composition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 153 --> 156
     line [155, 154, 154]
 ```
 
-2026-10-18 155 → 2026-11-01 154（-1）
+2026-10-18 155 → 2026-11-02 154（-1）
 
 
 ---

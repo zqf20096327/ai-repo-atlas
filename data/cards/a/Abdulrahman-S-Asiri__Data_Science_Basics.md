@@ -1,6 +1,6 @@
 # Abdulrahman-S-Asiri/Data_Science_Basics
 
-⭐ 56 · Jupyter Notebook · 推送 2026-02-24 · [GitHub](https://github.com/Abdulrahman-S-Asiri/Data_Science_Basics) · 个人维护
+⭐ 55 · Jupyter Notebook · 推送 2026-02-24 · [GitHub](https://github.com/Abdulrahman-S-Asiri/Data_Science_Basics) · 个人维护
 
 **阿英双语数据科学入门 Jupyter 笔记本教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Abdulrahman-S-Asiri/Data_Science_Basics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    line [55, 56, 55]
 ```
 
-2026-10-18 55 → 2026-11-01 56（+1）
+2026-10-18 55 → 2026-11-02 55（+0）
 
 
 ---

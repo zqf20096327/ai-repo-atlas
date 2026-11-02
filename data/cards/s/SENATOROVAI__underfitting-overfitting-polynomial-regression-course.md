@@ -1,6 +1,6 @@
 # SENATOROVAI/underfitting-overfitting-polynomial-regression-course
 
-⭐ 15 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/underfitting-overfitting-polynomial-regression-course) · [官网](https://SenatorovAI.com) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/underfitting-overfitting-polynomial-regression-course) · [官网](https://SenatorovAI.com) · 个人维护
 
 **讲解欠拟合/过拟合与多项式回归的数学教程仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/underfitting-overfitting-polynomial-regression-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 14（-1）
 
 
 ---

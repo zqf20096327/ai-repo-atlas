@@ -1,6 +1,6 @@
 # ddkeeper/easy-llm
 
-⭐ 22 · Jupyter Notebook · 推送 2026-10-18 · [GitHub](https://github.com/ddkeeper/easy-llm) · [官网](https://www.bilibili.com/video/BV1NV8t6AE4T/?vd_source=0034741cbe350a95fe85ffdab1bdc34a) · 个人维护 · 中文 README
+⭐ 23 · Jupyter Notebook · 推送 2026-10-18 · [GitHub](https://github.com/ddkeeper/easy-llm) · [官网](https://www.bilibili.com/video/BV1NV8t6AE4T/?vd_source=0034741cbe350a95fe85ffdab1bdc34a) · 个人维护 · 中文 README
 
 **斯坦福 CS 336 零基础手搓大模型教程配套代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ddkeeper/easy-llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23]
 ```
 
-2026-10-18 20 → 2026-11-01 22（+2）
+2026-10-18 20 → 2026-11-02 23（+3）
 
 
 ---

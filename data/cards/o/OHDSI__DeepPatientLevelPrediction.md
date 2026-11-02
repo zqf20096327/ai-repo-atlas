@@ -45,12 +45,12 @@ OHDSI 生态的 R 包，在 OMOP Common Data Model 格式的观察性医疗数�
 ```mermaid
 xychart-beta
     title "OHDSI/DeepPatientLevelPrediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ethanfel/ComfyUI-H3-Prompt-IDE
 
-⭐ 40 · JavaScript · GPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/ethanfel/ComfyUI-H3-Prompt-IDE) · 个人维护
+⭐ 39 · JavaScript · GPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/ethanfel/ComfyUI-H3-Prompt-IDE) · 个人维护
 
 **ComfyUI 中 MiniMax H3 提示词的富文本编辑器节点**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点，受 VS Code 启发，为 MiniMax H3 提供提示词编
 ```mermaid
 xychart-beta
     title "ethanfel/ComfyUI-H3-Prompt-IDE 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
     y-axis "stars" 35 --> 41
-    line [36, 38, 39, 40, 40]
+    line [36, 38, 39, 40, 39]
 ```
 
-2026-10-18 36 → 2026-11-01 40（+4）
+2026-10-18 36 → 2026-11-02 39（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # huangjia2019/ai-agents
 
-⭐ 529 · Jupyter Notebook · 推送 2025-11-05 · [GitHub](https://github.com/huangjia2019/ai-agents) · [官网](https://item.jd.com/14600442.html) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **《动手做AI Agent》等图书配套的入门示例代码仓库**
 

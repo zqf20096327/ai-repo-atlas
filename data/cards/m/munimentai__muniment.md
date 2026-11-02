@@ -1,6 +1,6 @@
 # munimentai/muniment
 
-⭐ 12 · Rust · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/munimentai/muniment) · [官网](https://muniment.ai) · 组织维护
+⭐ 12 · Rust · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/munimentai/muniment) · [官网](https://muniment.ai) · 组织维护
 
 **整合多种模型、工具与文件的免费桌面工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "munimentai/muniment 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-19 12 → 2026-11-01 12（+0）
+2026-10-19 12 → 2026-11-02 12（+0）
 
 
 ---

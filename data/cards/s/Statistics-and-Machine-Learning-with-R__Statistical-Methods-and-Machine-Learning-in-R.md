@@ -1,6 +1,6 @@
 # Statistics-and-Machine-Learning-with-R/Statistical-Methods-and-Machine-Learning-in-R
 
-⭐ 15 · R · 推送 2025-11-05 · [GitHub](https://github.com/Statistics-and-Machine-Learning-with-R/Statistical-Methods-and-Machine-Learning-in-R) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向生信学生的统计学与机器学习 R 教程仓库（脚本+理论+讲义）**
 

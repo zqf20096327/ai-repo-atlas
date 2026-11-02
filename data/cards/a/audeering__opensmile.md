@@ -1,6 +1,6 @@
 # audeering/opensmile
 
-⭐ 855 · C++ · NOASSERTION · 推送 2026-01-26 · [GitHub](https://github.com/audeering/opensmile) · [官网](https://audeering.github.io/opensmile/) · 组织维护
+⭐ 856 · C++ · NOASSERTION · 推送 2026-01-26 · [GitHub](https://github.com/audeering/opensmile) · [官网](https://audeering.github.io/opensmile/) · 组织维护
 
 **面向语音与音乐的 C++ 音频特征提取工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "audeering/opensmile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 853 --> 856
-    line [854, 855, 855]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 853 --> 857
+    line [854, 855, 856]
 ```
 
-2026-10-18 854 → 2026-11-01 855（+1）
+2026-10-18 854 → 2026-11-02 856（+2）
 
 
 ---

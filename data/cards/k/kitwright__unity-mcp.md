@@ -1,6 +1,6 @@
 # kitwright/unity-mcp
 
-⭐ 35 · C# · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kitwright/unity-mcp) · [官网](https://kitwright.dev/) · 个人维护 · 中文 README
+⭐ 35 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kitwright/unity-mcp) · [官网](https://kitwright.dev/) · 个人维护 · 中文 README
 
 **让 AI 助手直接操作 Unity 编辑器的 MCP 服务器**
 
@@ -45,13 +45,13 @@ MIT 许可的 Unity Editor 插件，在编辑器内运行 MCP 服务器（默认
 
 ```mermaid
 xychart-beta
-    title "kitwright/unity-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01"]
+    title "kitwright/unity-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 30 --> 36
-    line [31, 32, 33, 34, 35]
+    line [31, 32, 33, 34, 35, 35]
 ```
 
-2026-10-18 31 → 2026-11-01 35（+4）
+2026-10-18 31 → 2026-11-02 35（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # oguzhankayan/turkish-native
 
-⭐ 89 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/oguzhankayan/turkish-native) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/oguzhankayan/turkish-native) · 个人维护
 
 **写作原生土耳其语、消除翻译腔的 agent 技能包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "oguzhankayan/turkish-native 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 87 --> 90
+    line [89, 88]
 ```
 
-2026-10-18 89 → 2026-11-01 89（+0）
+2026-10-18 89 → 2026-11-02 88（-1）
 
 
 ---

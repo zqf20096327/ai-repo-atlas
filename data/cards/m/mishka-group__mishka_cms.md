@@ -1,6 +1,6 @@
 # mishka-group/mishka_cms
 
-⭐ 20 · Elixir · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/mishka-group/mishka_cms) · [官网](https://mishka.tools/cms) · 组织维护
+⭐ 21 · Elixir · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/mishka-group/mishka_cms) · [官网](https://mishka.tools/cms) · 组织维护
 
 **多租户实时 CMS：一次部署运行多个网站，带可视化建页**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mishka-group/mishka_cms 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 19, 20]
+    title "mishka-group/mishka_cms 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 19, 20, 21]
 ```
 
-2026-10-28 15 → 2026-11-01 20（+5）
+2026-10-28 15 → 2026-11-02 21（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # michielhdoteth/squish-memory
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/michielhdoteth/squish-memory) · [官网](https://squishplugin.dev) · 个人维护
+⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/michielhdoteth/squish-memory) · [官网](https://squishplugin.dev) · 个人维护
 
 **为 AI agent 提供校准置信度记忆的本地运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "michielhdoteth/squish-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

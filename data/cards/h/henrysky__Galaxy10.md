@@ -1,6 +1,6 @@
 # henrysky/Galaxy10
 
-⭐ 50 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/henrysky/Galaxy10) · [官网](https://astronn.readthedocs.io/en/stable/galaxy10.html) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/henrysky/Galaxy10) · [官网](https://astronn.readthedocs.io/en/stable/galaxy10.html) · 组织维护
 
 **星系图像分类数据集：17,736 张 10 类星系图像供深度学习**
 
@@ -45,12 +45,12 @@ Galaxy10 DECaLS 是 CIFAR-10 风格的天文图像数据集，包含 17,736 张 
 ```mermaid
 xychart-beta
     title "henrysky/Galaxy10 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 49 --> 52
-    line [51, 50, 50]
+    line [51, 50, 51]
 ```
 
-2026-10-18 51 → 2026-11-01 50（-1）
+2026-10-18 51 → 2026-11-02 51（+0）
 
 
 ---

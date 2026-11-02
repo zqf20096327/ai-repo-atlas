@@ -1,6 +1,6 @@
 # MythicAgents/sage
 
-⭐ 33 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/MythicAgents/sage) · 组织维护
+⭐ 34 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/MythicAgents/sage) · 组织维护
 
 **嵌入 Mythic C2 的 AI 操作员：读作战数据、规划并驱动攻击任务**
 
@@ -46,12 +46,12 @@ Sage 是安装进 Mythic 服务器的原生聊天容器（非独立工具），�
 ```mermaid
 xychart-beta
     title "MythicAgents/sage 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 28 --> 34
-    line [30, 29, 31, 33, 33]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 28 --> 35
+    line [30, 29, 31, 33, 34]
 ```
 
-2026-10-18 30 → 2026-11-01 33（+3）
+2026-10-18 30 → 2026-11-02 34（+4）
 
 
 ---

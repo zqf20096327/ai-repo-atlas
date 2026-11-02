@@ -1,6 +1,6 @@
 # 1337Xcode/aimbuddy
 
-⭐ 73 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/1337Xcode/aimbuddy) · [官网](https://1337xcode.github.io/aimbuddy) · 个人维护
+⭐ 74 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/1337Xcode/aimbuddy) · [官网](https://1337xcode.github.io/aimbuddy) · 个人维护
 
 **Android 端到设备瞄准辅助：视觉检测+辅助转向（aimbot 类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1337Xcode/aimbuddy 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 69 --> 74
-    line [70, 72, 73]
+    title "1337Xcode/aimbuddy 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 69 --> 75
+    line [70, 72, 73, 74]
 ```
 
-2026-10-30 70 → 2026-11-01 73（+3）
+2026-10-30 70 → 2026-11-02 74（+4）
 
 
 ---

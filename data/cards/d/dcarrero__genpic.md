@@ -1,6 +1,6 @@
 # dcarrero/genpic
 
-⭐ 23 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dcarrero/genpic) · [官网](https://genpic.com/) · 个人维护
+⭐ 24 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dcarrero/genpic) · [官网](https://genpic.com/) · 个人维护
 
 **已停运的 AI 肖像生成 SaaS 全栈源码（Laravel+Stripe）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dcarrero/genpic 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 17 --> 24
-    line [18, 20, 21, 23, 23]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 17 --> 25
+    line [18, 20, 21, 23, 24]
 ```
 
-2026-10-22 18 → 2026-11-01 23（+5）
+2026-10-22 18 → 2026-11-02 24（+6）
 
 
 ---

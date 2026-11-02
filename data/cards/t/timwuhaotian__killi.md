@@ -1,6 +1,6 @@
 # timwuhaotian/killi
 
-⭐ 18 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/timwuhaotian/killi) · [官网](https://github.com/timwuhaotian/killi#readme) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/timwuhaotian/killi) · [官网](https://github.com/timwuhaotian/killi#readme) · 个人维护
 
 **面向终端的 Rust 编写小型 AI 编程 agent（Apple Silicon Mac）**
 
@@ -40,6 +40,18 @@
 > L10: **killi is a fast, tiny AI coding agent for your terminal**, written in Rust (one small native
 > L11: binary, no runtime). Like Claude Code, Codex CLI, opencode or Kimi Code, it reads your code, runs
 > L13: OpenAI Responses LLM, and it supports MCP servers, subagents, plan mode, skills, hooks and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "timwuhaotian/killi 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 17 --> 25
+    line [18, 24]
+```
+
+2026-11-01 18 → 2026-11-02 24（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # JunWan666/openclaw-termux-zh
 
-⭐ 209 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/JunWan666/openclaw-termux-zh) · [官网](https://github.com/mithun50/openclaw-termux) · 个人维护 · 中文 README
+⭐ 210 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/JunWan666/openclaw-termux-zh) · [官网](https://github.com/mithun50/openclaw-termux) · 个人维护 · 中文 README
 
 **OpenClaw 的 Android 中文整合客户端：手机上安装并管理 OpenClaw**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JunWan666/openclaw-termux-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 207 --> 210
-    line [208, 209, 209]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 207 --> 211
+    line [208, 209, 210]
 ```
 
-2026-10-18 208 → 2026-11-01 209（+1）
+2026-10-18 208 → 2026-11-02 210（+2）
 
 
 ---

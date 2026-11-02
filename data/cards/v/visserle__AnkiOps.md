@@ -1,6 +1,6 @@
 # visserle/AnkiOps
 
-⭐ 24 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/visserle/AnkiOps) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/visserle/AnkiOps) · 个人维护
 
 **Anki 与 Markdown 双向同步工具，支持 Git 与 LLM 编辑**
 
@@ -47,12 +47,12 @@ AnkiOps 将 Anki 牌组映射为 Markdown 文件，提供笔记、笔记类型�
 ```mermaid
 xychart-beta
     title "visserle/AnkiOps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-01 24（+1）
+2026-10-18 23 → 2026-11-02 24（+1）
 
 
 ---

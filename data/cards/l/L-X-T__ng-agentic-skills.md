@@ -1,6 +1,6 @@
 # L-X-T/ng-agentic-skills
 
-⭐ 13 · Markdown · MIT · 推送 2026-10-04 · [GitHub](https://github.com/L-X-T/ng-agentic-skills) · [官网](https://speakerdeck.com/lx_t/agents-dot-md-is-not-enough-build-skills-dont-download-them) · 个人维护
+⭐ 14 · Markdown · MIT · 推送 2026-10-04 · [GitHub](https://github.com/L-X-T/ng-agentic-skills) · [官网](https://speakerdeck.com/lx_t/agents-dot-md-is-not-enough-build-skills-dont-download-them) · 个人维护
 
 **面向 Angular 开发的 AI agent 技能库，附博客系列配套**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "L-X-T/ng-agentic-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

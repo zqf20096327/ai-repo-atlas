@@ -1,6 +1,6 @@
 # wansui976/CoursePilot
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wansui976/CoursePilot) · [官网](https://wansui976.github.io/CoursePilot/) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wansui976/CoursePilot) · [官网](https://wansui976.github.io/CoursePilot/) · 个人维护 · 中文 README
 
 **本地优先的 AI 网课学习工作台：转写、笔记、问答与间隔复习**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wansui976/CoursePilot 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 17 --> 33
-    line [18, 21, 22, 24, 26, 28, 30, 31, 32]
+    title "wansui976/CoursePilot 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 17 --> 37
+    line [18, 21, 22, 24, 26, 28, 30, 31, 32, 36]
 ```
 
-2026-10-18 18 → 2026-11-01 32（+14）
+2026-10-18 18 → 2026-11-02 36（+18）
 
 
 ---

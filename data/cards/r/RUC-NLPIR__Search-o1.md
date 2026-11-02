@@ -1,6 +1,6 @@
 # RUC-NLPIR/Search-o1
 
-⭐ 1,251 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/RUC-NLPIR/Search-o1) · 组织维护 · 中文 README
+⭐ 1,252 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/RUC-NLPIR/Search-o1) · 组织维护 · 中文 README
 
 **为大型推理模型增加 agentic 检索增强的开源框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RUC-NLPIR/Search-o1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 1249 --> 1252
-    line [1251, 1250, 1251, 1251]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 1249 --> 1253
+    line [1251, 1250, 1251, 1252]
 ```
 
-2026-10-18 1,251 → 2026-11-01 1,251（+0）
+2026-10-18 1,251 → 2026-11-02 1,252（+1）
 
 
 ---

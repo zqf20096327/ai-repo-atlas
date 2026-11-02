@@ -1,6 +1,6 @@
 # wjluoxiao/XB_ToolBox
 
-⭐ 424 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wjluoxiao/XB_ToolBox) · [官网](https://space.bilibili.com/302329373) · 个人维护 · 中文 README
+⭐ 431 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wjluoxiao/XB_ToolBox) · [官网](https://space.bilibili.com/302329373) · 个人维护 · 中文 README
 
 **面向 AMD GPU 的 ComfyUI 自定义节点套件：141 节点+显存优化**
 
@@ -45,13 +45,13 @@ ComfyUI 扩展套件，帮助 AI 新手掌握工作流并简化本地部署，�
 
 ```mermaid
 xychart-beta
-    title "wjluoxiao/XB_ToolBox 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 390 --> 427
-    line [393, 399, 402, 406, 408, 410, 412, 414, 424]
+    title "wjluoxiao/XB_ToolBox 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 390 --> 434
+    line [393, 399, 402, 406, 408, 410, 412, 414, 424, 431]
 ```
 
-2026-10-18 393 → 2026-11-01 424（+31）
+2026-10-18 393 → 2026-11-02 431（+38）
 
 
 ---

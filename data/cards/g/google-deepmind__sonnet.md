@@ -1,6 +1,6 @@
 # google-deepmind/sonnet
 
-⭐ 9,975 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google-deepmind/sonnet) · [官网](https://sonnet.dev/) · 组织维护
+⭐ 9,974 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google-deepmind/sonnet) · [官网](https://sonnet.dev/) · 组织维护
 
 **DeepMind 研究者构建神经网络的 TensorFlow 2 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/sonnet 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 9974 --> 9978
-    line [9975, 9976, 9977, 9976, 9977, 9976, 9975, 9975]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 9973 --> 9978
+    line [9975, 9976, 9977, 9976, 9977, 9976, 9975, 9974]
 ```
 
-2026-10-18 9,975 → 2026-11-01 9,975（+0）
+2026-10-18 9,975 → 2026-11-02 9,974（-1）
 
 
 ---

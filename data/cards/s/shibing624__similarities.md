@@ -1,6 +1,6 @@
 # shibing624/similarities
 
-⭐ 906 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/shibing624/similarities) · [官网](https://pypi.org/project/similarities/) · 个人维护 · 中文 README
+⭐ 907 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/shibing624/similarities) · [官网](https://pypi.org/project/similarities/) · 个人维护 · 中文 README
 
 **文本/图像相似度计算与语义搜索 Python 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shibing624/similarities 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 903 --> 907
-    line [904, 905, 906, 906]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 903 --> 908
+    line [904, 905, 906, 907]
 ```
 
-2026-10-18 904 → 2026-11-01 906（+2）
+2026-10-18 904 → 2026-11-02 907（+3）
 
 
 ---

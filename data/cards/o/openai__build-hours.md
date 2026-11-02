@@ -1,6 +1,6 @@
 # openai/build-hours
 
-⭐ 856 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/openai/build-hours) · 组织维护
+⭐ 856 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/openai/build-hours) · 组织维护
 
 **OpenAI Build Hours 线上系列课程的配套代码仓库**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/build-hours 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01"]
+    title "openai/build-hours 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02"]
     y-axis "stars" 850 --> 857
-    line [851, 854, 855, 856]
+    line [851, 854, 855, 856, 856]
 ```
 
-2026-10-18 851 → 2026-11-01 856（+5）
+2026-10-18 851 → 2026-11-02 856（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # molsuit/Rem3Di
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/molsuit/Rem3Di) · [官网](https://arxiv.org/abs/2607.19977) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/molsuit/Rem3Di) · [官网](https://arxiv.org/abs/2607.19977) · 组织维护
 
 **从原子级基础模型学习平滑手性 3D 分子表示的研究库**
 
@@ -46,12 +46,12 @@ Rem3Di 是基于等变原子间基础模型（MACE）学习平滑、手性 3D �
 ```mermaid
 xychart-beta
     title "molsuit/Rem3Di 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 20（+1）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

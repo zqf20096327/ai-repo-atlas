@@ -1,6 +1,6 @@
 # ZhouXiaolin/opencat
 
-⭐ 72 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/ZhouXiaolin/opencat) · [官网](http://www.catcut.cc) · 个人维护 · 中文 README
+⭐ 72 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/ZhouXiaolin/opencat) · [官网](http://www.catcut.cc) · 个人维护 · 中文 README
 
 **面向 AI agent 的 JSX 声明式视频渲染引擎（Rust+Skia+FFmpeg）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhouXiaolin/opencat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "ZhouXiaolin/opencat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 70 --> 73
-    line [71, 72]
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-01 72（+1）
+2026-10-18 71 → 2026-11-02 72（+1）
 
 
 ---

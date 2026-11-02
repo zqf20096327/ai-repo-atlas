@@ -1,6 +1,6 @@
 # KOKOSde/localmod
 
-⭐ 123 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/KOKOSde/localmod) · 个人维护
+⭐ 123 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/KOKOSde/localmod) · 个人维护
 
 **自托管离线内容审核 API：文本与图像的毒性/PII/NSFW 检测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KOKOSde/localmod 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
     y-axis "stars" 122 --> 130
     line [129, 128, 123, 123]
 ```
 
-2026-10-18 129 → 2026-11-01 123（-6）
+2026-10-18 129 → 2026-11-02 123（-6）
 
 
 ---

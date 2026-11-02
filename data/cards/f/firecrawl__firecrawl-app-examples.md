@@ -1,6 +1,6 @@
 # firecrawl/firecrawl-app-examples
 
-⭐ 836 · Jupyter Notebook · 推送 2026-01-13 · [GitHub](https://github.com/firecrawl/firecrawl-app-examples) · [官网](https://www.firecrawl.dev/) · 组织维护
+⭐ 835 · Jupyter Notebook · 推送 2026-01-13 · [GitHub](https://github.com/firecrawl/firecrawl-app-examples) · [官网](https://www.firecrawl.dev/) · 组织维护
 
 **Firecrawl 构建的完整应用示例集合**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "firecrawl/firecrawl-app-examples 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "firecrawl/firecrawl-app-examples 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 828 --> 837
-    line [829, 830, 832, 830, 832, 834, 835, 836]
+    line [829, 830, 832, 830, 832, 834, 835, 836, 835]
 ```
 
-2026-10-18 829 → 2026-11-01 836（+7）
+2026-10-18 829 → 2026-11-02 835（+6）
 
 
 ---

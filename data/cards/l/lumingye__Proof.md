@@ -1,6 +1,6 @@
 # lumingye/Proof
 
-⭐ 15 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/lumingye/Proof) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/lumingye/Proof) · 个人维护 · 中文 README
 
 **给 AI 角色用的饮酒状态引擎：结算、代谢并向模型投递状态**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lumingye/Proof 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # uzyn/aimx
 
-⭐ 33 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/uzyn/aimx) · [官网](https://aimx.email) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/uzyn/aimx) · [官网](https://aimx.email) · 个人维护
 
 **给 AI agent 用的自托管 SMTP 邮件服务器与 MCP stdio 服务**
 
@@ -46,12 +46,12 @@ AIMX 是单一二进制的 Linux 自托管邮件服务器（SMTP），同时内�
 ```mermaid
 xychart-beta
     title "uzyn/aimx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-11-01 33（+0）
+2026-10-18 33 → 2026-11-02 34（+1）
 
 
 ---

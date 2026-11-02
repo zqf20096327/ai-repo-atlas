@@ -1,6 +1,6 @@
 # SkyNotSilent/awesome-MiniMax-H3-cases
 
-⭐ 216 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases) · [官网](https://awesome-minimax-h3-cases.zzskysilent.com) · 个人维护 · 中文 README
+⭐ 216 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases) · [官网](https://awesome-minimax-h3-cases.zzskysilent.com) · 个人维护 · 中文 README
 
 **MiniMax H3 / 海螺 H3 视频案例库：可播放案例、完整 Prompts 与教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SkyNotSilent/awesome-MiniMax-H3-cases 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 202 --> 310
     line [301, 297, 211, 213, 215, 216, 216]
 ```
 
-2026-10-18 301 → 2026-11-01 216（-85）
+2026-10-18 301 → 2026-11-02 216（-85）
 
 
 ---

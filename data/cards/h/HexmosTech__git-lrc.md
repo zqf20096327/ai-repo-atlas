@@ -1,6 +1,6 @@
 # HexmosTech/git-lrc
 
-⭐ 1,478 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/HexmosTech/git-lrc) · [官网](https://hexmos.com/livereview/git-lrc/) · 组织维护
+⭐ 1,479 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/HexmosTech/git-lrc) · [官网](https://hexmos.com/livereview/git-lrc/) · 组织维护
 
 **挂在 git commit 上的 AI 代码审查工具：提交前自动审查 diff**
 
@@ -46,12 +46,12 @@ git-lrc 在 git commit 环节插入 AI 审查钩子：提交前对 diff 运行 A
 ```mermaid
 xychart-beta
     title "HexmosTech/git-lrc 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1467 --> 1479
-    line [1469, 1468, 1471, 1473, 1475, 1476, 1477, 1478, 1478]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 1467 --> 1480
+    line [1469, 1468, 1471, 1473, 1475, 1476, 1477, 1478, 1479]
 ```
 
-2026-10-18 1,469 → 2026-11-01 1,478（+9）
+2026-10-18 1,469 → 2026-11-02 1,479（+10）
 
 
 ---

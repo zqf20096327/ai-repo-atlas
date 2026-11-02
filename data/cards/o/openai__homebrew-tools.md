@@ -43,12 +43,12 @@ OpenAI 维护的 Homebrew tap 仓库，发布 openai cask（OpenAI CLI 的 Homeb
 ```mermaid
 xychart-beta
     title "openai/homebrew-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
     y-axis "stars" 25 --> 30
     line [26, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-01 29（+3）
+2026-10-18 26 → 2026-11-02 29（+3）
 
 
 ---

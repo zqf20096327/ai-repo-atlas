@@ -1,6 +1,6 @@
 # Staks-sor/ai-free
 
-⭐ 222 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Staks-sor/ai-free) · [官网](https://github.com/Staks-sor/ai-free#readme) · 个人维护
+⭐ 223 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Staks-sor/ai-free) · [官网](https://github.com/Staks-sor/ai-free#readme) · 个人维护
 
 **把 DeepSeek/Qwen/ChatGPT 网页聊天变为本地 AI 客户端与代码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Staks-sor/ai-free 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 216 --> 223
-    line [217, 219, 220, 221, 222, 222]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 216 --> 224
+    line [217, 219, 220, 221, 222, 223]
 ```
 
-2026-10-18 217 → 2026-11-01 222（+5）
+2026-10-18 217 → 2026-11-02 223（+6）
 
 
 ---

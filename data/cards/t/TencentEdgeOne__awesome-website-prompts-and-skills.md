@@ -45,13 +45,13 @@ Tencent EdgeOne 维护的网站资源合集，同时作为「WorkBuddy × Tencen
 
 ```mermaid
 xychart-beta
-    title "TencentEdgeOne/awesome-website-prompts-and-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01"]
+    title "TencentEdgeOne/awesome-website-prompts-and-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 189 --> 196
-    line [190, 191, 190, 191, 194, 195]
+    line [190, 191, 190, 191, 194, 195, 195]
 ```
 
-2026-10-18 190 → 2026-11-01 195（+5）
+2026-10-18 190 → 2026-11-02 195（+5）
 
 
 ---

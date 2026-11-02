@@ -1,6 +1,6 @@
 # sybil-solutions/local-studio
 
-⭐ 1,836 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sybil-solutions/local-studio) · [官网](https://localstudio.ai) · 组织维护
+⭐ 1,837 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sybil-solutions/local-studio) · [官网](https://localstudio.ai) · 组织维护
 
 **面向自托管模型的 T3 Code 桌面端：统一网关管理本机/局域网推理服务**
 
@@ -46,12 +46,12 @@ T3 Code 的 thin fork，面向运行自有模型的用户：内置本地控制�
 ```mermaid
 xychart-beta
     title "sybil-solutions/local-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 1827 --> 1837
-    line [1828, 1830, 1833, 1834, 1835, 1836, 1836]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 1827 --> 1838
+    line [1828, 1830, 1833, 1834, 1835, 1836, 1837]
 ```
 
-2026-10-18 1,828 → 2026-11-01 1,836（+8）
+2026-10-18 1,828 → 2026-11-02 1,837（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # The-AI-Disclosures-Project/Open-Memory-Protocol
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) · [官网](https://openmemoryprotocol.org) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) · [官网](https://openmemoryprotocol.org) · 组织维护
 
 **多方共治的智能体记忆开放协议倡议：让记忆跨系统迁移共享**
 
@@ -45,12 +45,12 @@ Open Memory Protocol Initiative（OMPI）由 AI Disclosures Project 主办、IBM
 ```mermaid
 xychart-beta
     title "The-AI-Disclosures-Project/Open-Memory-Protocol 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-01"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-29", "2026-11-02"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-29 25 → 2026-11-01 25（+0）
+2026-10-29 25 → 2026-11-02 26（+1）
 
 
 ---

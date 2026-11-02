@@ -1,6 +1,6 @@
 # hexagon-codes/hexagon
 
-⭐ 14 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hexagon-codes/hexagon) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
+⭐ 14 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/hexagon-codes/hexagon) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
 
 **面向 Go 开发者的 AI Agent 框架：编排、RAG、多 Agent 与持久化执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hexagon-codes/hexagon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

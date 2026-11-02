@@ -1,6 +1,6 @@
 # cluster1900/apexo-code
 
-⭐ 223 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/cluster1900/apexo-code) · 个人维护 · 中文 README
+⭐ 273 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cluster1900/apexo-code) · 个人维护 · 中文 README
 
 **跨终端/网页/桌面的通用编程 Agent，多模型接入**
 
@@ -44,13 +44,13 @@ Apexo 是一个开源通用编程 Agent，由单一本地 Agent 运行时驱动 
 
 ```mermaid
 xychart-beta
-    title "cluster1900/apexo-code 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 24 --> 241
-    line [42, 74, 123, 173, 223]
+    title "cluster1900/apexo-code 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 19 --> 296
+    line [42, 74, 123, 173, 223, 273]
 ```
 
-2026-10-28 42 → 2026-11-01 223（+181）
+2026-10-28 42 → 2026-11-02 273（+231）
 
 
 ---

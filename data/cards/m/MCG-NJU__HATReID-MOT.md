@@ -1,6 +1,6 @@
 # MCG-NJU/HATReID-MOT
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/MCG-NJU/HATReID-MOT) · [官网](https://arxiv.org/abs/2503.12562) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/MCG-NJU/HATReID-MOT) · [官网](https://arxiv.org/abs/2503.12562) · 组织维护
 
 **利用历史信息变换 ReID 特征的多目标跟踪算法官方实现**
 
@@ -44,12 +44,12 @@ ECCV 2026 论文 History-Aware Transformation of ReID Features for Multiple Obje
 ```mermaid
 xychart-beta
     title "MCG-NJU/HATReID-MOT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-11-01 38（+0）
+2026-10-18 38 → 2026-11-02 39（+1）
 
 
 ---

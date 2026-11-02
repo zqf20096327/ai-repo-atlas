@@ -46,12 +46,12 @@ ZuckerBot 是一个 MCP 服务器/CLI，把 Meta Marketing API 封装为 50+ 个
 ```mermaid
 xychart-beta
     title "DatalisHQ/zuckerbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

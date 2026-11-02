@@ -1,6 +1,6 @@
 # manusco/resonance
 
-⭐ 38 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/manusco/resonance) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/manusco/resonance) · 个人维护
 
 **跨工具 AI agent 技能库：为编码 agent 提供 73 技能与 38 命令**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "manusco/resonance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-01 38（+0）
+2026-10-18 38 → 2026-11-02 38（+0）
 
 
 ---

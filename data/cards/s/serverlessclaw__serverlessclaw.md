@@ -1,6 +1,6 @@
 # serverlessclaw/serverlessclaw
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/serverlessclaw/serverlessclaw) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/serverlessclaw/serverlessclaw) · 组织维护
 
 **AWS 上的无服务器自主多智能体框架，闲置零成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "serverlessclaw/serverlessclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-01 21（+1）
+2026-10-18 20 → 2026-11-02 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NickCrew/Claude-Cortex
 
-⭐ 62 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/NickCrew/Claude-Cortex) · [官网](https://cortex.atlascrew.dev/) · 组织维护
+⭐ 63 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/NickCrew/Claude-Cortex) · [官网](https://cortex.atlascrew.dev/) · 组织维护
 
 **协调多模型 AI agent 的开发编排框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NickCrew/Claude-Cortex 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 55 --> 63
-    line [56, 57, 58, 60, 61, 62, 62]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 55 --> 64
+    line [56, 57, 58, 60, 61, 62, 63]
 ```
 
-2026-10-18 56 → 2026-11-01 62（+6）
+2026-10-18 56 → 2026-11-02 63（+7）
 
 
 ---

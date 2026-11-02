@@ -1,6 +1,6 @@
 # hildlabs/openrig-studio
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hildlabs/openrig-studio) · 组织维护
+⭐ 16 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hildlabs/openrig-studio) · 组织维护
 
 **用自有 AI 订阅生成 Roblox R15/R6 动画的桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hildlabs/openrig-studio 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 6 --> 14
-    line [7, 9, 11, 13]
+    title "hildlabs/openrig-studio 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 6 --> 17
+    line [7, 9, 11, 13, 16]
 ```
 
-2026-10-28 7 → 2026-11-01 13（+6）
+2026-10-28 7 → 2026-11-02 16（+9）
 
 
 ---

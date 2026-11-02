@@ -45,12 +45,12 @@ codecompanion.nvim 的扩展插件，在 nvim-dap 调试会话与 LLM 聊天缓�
 ```mermaid
 xychart-beta
     title "Davidyz/codecompanion-dap.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

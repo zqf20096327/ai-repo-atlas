@@ -1,6 +1,6 @@
 # MaximeRivest/functai
 
-⭐ 88 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/MaximeRivest/functai) · [官网](https://maximerivest.github.io/functai/) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MaximeRivest/functai) · [官网](https://maximerivest.github.io/functai/) · 个人维护
 
 **让 LLM 按函数签名与类型生成函数体的多语言库（Python/TS/R/Julia）**
 
@@ -46,12 +46,12 @@ functai 把带类型签名的函数转换为对语言模型的调用：函数名
 ```mermaid
 xychart-beta
     title "MaximeRivest/functai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-11-01 88（+0）
+2026-10-18 88 → 2026-11-02 88（+0）
 
 
 ---

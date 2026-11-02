@@ -1,6 +1,6 @@
 # Soflutionltd/MemoryPilot
 
-⭐ 18 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Soflutionltd/MemoryPilot) · [官网](https://soflution.com) · 组织维护
+⭐ 18 · Rust · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Soflutionltd/MemoryPilot) · [官网](https://soflution.com) · 组织维护
 
 **给 AI 助手/Coding Agent 的本地 MCP 记忆服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Soflutionltd/MemoryPilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-01 18（+1）
+2026-10-18 17 → 2026-11-02 18（+1）
 
 
 ---

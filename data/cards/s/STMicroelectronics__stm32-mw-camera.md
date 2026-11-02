@@ -45,12 +45,12 @@ STMicroelectronics 维护的 C 语言摄像头中间件，位于传感器驱动�
 ```mermaid
 xychart-beta
     title "STMicroelectronics/stm32-mw-camera 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

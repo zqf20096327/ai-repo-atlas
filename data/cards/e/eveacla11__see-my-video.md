@@ -1,6 +1,6 @@
 # eveacla11/see-my-video
 
-⭐ 26 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/eveacla11/see-my-video) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/eveacla11/see-my-video) · 个人维护 · 中文 README
 
 **让 AI 能"看"视频的踩坑教程与脚本：抽帧、切片上传、转码播放**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eveacla11/see-my-video 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-11-01 26（+0）
+2026-10-18 26 → 2026-11-02 27（+1）
 
 
 ---

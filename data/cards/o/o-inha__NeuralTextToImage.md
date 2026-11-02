@@ -1,6 +1,6 @@
 # o-inha/NeuralTextToImage
 
-⭐ 18 · Jupyter Notebook · 推送 2026-09-25 · [GitHub](https://github.com/o-inha/NeuralTextToImage) · 个人维护
+⭐ 17 · Jupyter Notebook · 推送 2026-09-25 · [GitHub](https://github.com/o-inha/NeuralTextToImage) · 个人维护
 
 **多种文生图模型的 Colab notebook 合集，提示词驱动图像生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "o-inha/NeuralTextToImage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 16 --> 19
+    line [18, 17]
 ```
 
-2026-10-18 18 → 2026-11-01 18（+0）
+2026-10-18 18 → 2026-11-02 17（-1）
 
 
 ---

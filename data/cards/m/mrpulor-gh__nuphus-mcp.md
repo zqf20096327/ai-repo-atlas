@@ -1,6 +1,6 @@
 # mrpulor-gh/nuphus-mcp
 
-⭐ 331 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mrpulor-gh/nuphus-mcp) · [官网](https://github.com/mrpulor-gh/nuphus-mcp) · 个人维护 · 中文 README
+⭐ 332 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mrpulor-gh/nuphus-mcp) · [官网](https://github.com/mrpulor-gh/nuphus-mcp) · 个人维护 · 中文 README
 
 **给 AI agent 用的桌面自动化 MCP 服务器：屏幕/窗口/键鼠/Chrome 控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrpulor-gh/nuphus-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 325 --> 332
-    line [326, 327, 328, 329, 330, 329, 331, 331]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 325 --> 333
+    line [326, 327, 328, 329, 330, 329, 331, 332]
 ```
 
-2026-10-18 326 → 2026-11-01 331（+5）
+2026-10-18 326 → 2026-11-02 332（+6）
 
 
 ---

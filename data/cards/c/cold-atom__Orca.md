@@ -1,6 +1,6 @@
 # cold-atom/Orca
 
-⭐ 16 · GDScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cold-atom/Orca) · [官网](https://aiorca.dev) · 个人维护
+⭐ 21 · GDScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cold-atom/Orca) · [官网](https://aiorca.dev) · 个人维护
 
 **Godot 编辑器内置的 AI 开发代理：检查项目、审阅后改动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cold-atom/Orca 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 9 --> 17
-    line [10, 12, 14, 16]
+    title "cold-atom/Orca 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 9 --> 22
+    line [10, 12, 14, 16, 21]
 ```
 
-2026-10-18 10 → 2026-11-01 16（+6）
+2026-10-18 10 → 2026-11-02 21（+11）
 
 
 ---

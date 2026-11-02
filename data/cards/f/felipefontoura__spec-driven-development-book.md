@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "felipefontoura/spec-driven-development-book 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01"]
+    title "felipefontoura/spec-driven-development-book 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 20 --> 30
-    line [21, 22, 26, 27, 29]
+    line [21, 22, 26, 27, 29, 29]
 ```
 
-2026-10-18 21 → 2026-11-01 29（+8）
+2026-10-18 21 → 2026-11-02 29（+8）
 
 
 ---

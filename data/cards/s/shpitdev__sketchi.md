@@ -1,6 +1,6 @@
 # shpitdev/sketchi
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/shpitdev/sketchi) · [官网](https://sketchi.app) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/shpitdev/sketchi) · [官网](https://sketchi.app) · 组织维护
 
 **面向人与 AI agent 的提示词生成可编辑图表工具**
 
@@ -46,12 +46,12 @@ Sketchi 将自然语言提示转换为经验证的类型化中间表示，再经
 ```mermaid
 xychart-beta
     title "shpitdev/sketchi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

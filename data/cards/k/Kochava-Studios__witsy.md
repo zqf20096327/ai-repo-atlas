@@ -1,6 +1,6 @@
 # Kochava-Studios/witsy
 
-⭐ 2,039 · TypeScript · AGPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/Kochava-Studios/witsy) · 组织维护
+⭐ 2,038 · TypeScript · AGPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/Kochava-Studios/witsy) · 组织维护
 
 **桌面 AI 助手与通用 MCP 客户端（BYOK 多模型）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kochava-Studios/witsy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
+    title "Kochava-Studios/witsy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 2036 --> 2040
-    line [2038, 2037, 2038, 2039, 2038, 2039]
+    line [2038, 2037, 2038, 2039, 2038, 2039, 2038]
 ```
 
-2026-10-18 2,038 → 2026-11-01 2,039（+1）
+2026-10-18 2,038 → 2026-11-02 2,038（+0）
 
 
 ---

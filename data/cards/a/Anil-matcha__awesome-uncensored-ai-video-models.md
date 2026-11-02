@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-uncensored-ai-video-models
 
-⭐ 28 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) · 个人维护
+⭐ 29 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) · 个人维护
 
 **社区维护的低过滤 AI 视频模型编目清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-uncensored-ai-video-models 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 21 --> 29
-    line [22, 23, 25, 26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 21 --> 30
+    line [22, 23, 25, 26, 27, 28, 29]
 ```
 
-2026-10-18 22 → 2026-11-01 28（+6）
+2026-10-18 22 → 2026-11-02 29（+7）
 
 
 ---

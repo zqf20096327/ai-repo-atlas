@@ -1,6 +1,6 @@
 # pedrofariasx/qwenproxy
 
-⭐ 184 · TypeScript · ISC · 推送 2026-10-29 · [GitHub](https://github.com/pedrofariasx/qwenproxy) · [官网](https://buymeacoffee.com/pedrofariasx) · 个人维护
+⭐ 185 · TypeScript · ISC · 推送 2026-10-29 · [GitHub](https://github.com/pedrofariasx/qwenproxy) · [官网](https://buymeacoffee.com/pedrofariasx) · 个人维护
 
 **将 Qwen 网页版封装为 OpenAI 兼容 API 的本地代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pedrofariasx/qwenproxy 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 179 --> 186
-    line [180, 181, 182, 183, 184, 185, 184, 184]
+    line [180, 181, 182, 183, 184, 185, 184, 185]
 ```
 
-2026-10-18 180 → 2026-11-01 184（+4）
+2026-10-18 180 → 2026-11-02 185（+5）
 
 
 ---

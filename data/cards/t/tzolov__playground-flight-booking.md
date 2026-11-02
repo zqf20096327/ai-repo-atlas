@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tzolov/playground-flight-booking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "tzolov/playground-flight-booking 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 369 --> 373
-    line [370, 372]
+    line [370, 372, 372]
 ```
 
-2026-10-18 370 → 2026-11-01 372（+2）
+2026-10-18 370 → 2026-11-02 372（+2）
 
 
 ---

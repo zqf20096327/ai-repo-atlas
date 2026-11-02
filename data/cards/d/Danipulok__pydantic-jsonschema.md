@@ -1,6 +1,6 @@
 # Danipulok/pydantic-jsonschema
 
-⭐ 14 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Danipulok/pydantic-jsonschema) · [官网](https://danipulok.github.io/pydantic-jsonschema/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Danipulok/pydantic-jsonschema) · [官网](https://danipulok.github.io/pydantic-jsonschema/) · 个人维护
 
 **将 JSON Schema 转换为 Pydantic 模型并做运行时校验的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Danipulok/pydantic-jsonschema 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

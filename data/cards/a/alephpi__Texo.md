@@ -1,6 +1,6 @@
 # alephpi/Texo
 
-⭐ 913 · Python · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/alephpi/Texo) · [官网](https://texocr.netlify.app/) · 个人维护 · 中文 README
+⭐ 914 · Python · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/alephpi/Texo) · [官网](https://texocr.netlify.app/) · 个人维护 · 中文 README
 
 **20M 参数的 LaTeX 公式 OCR 模型，可在浏览器运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alephpi/Texo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 907 --> 914
-    line [908, 909, 910, 912, 913]
+    title "alephpi/Texo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 907 --> 915
+    line [908, 909, 910, 912, 913, 914]
 ```
 
-2026-10-18 908 → 2026-11-01 913（+5）
+2026-10-18 908 → 2026-11-02 914（+6）
 
 
 ---

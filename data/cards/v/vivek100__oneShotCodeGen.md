@@ -1,6 +1,6 @@
 # vivek100/oneShotCodeGen
 
-⭐ 252 · TypeScript · 推送 2026-01-05 · [GitHub](https://github.com/vivek100/oneShotCodeGen) · 个人维护
+⭐ 251 · TypeScript · 推送 2026-01-05 · [GitHub](https://github.com/vivek100/oneShotCodeGen) · 个人维护
 
 **通过对话生成企业应用配置的 agent 系统（FastAPI+React）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vivek100/oneShotCodeGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 251 --> 253
-    line [252, 252]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 250 --> 253
+    line [252, 251]
 ```
 
-2026-10-18 252 → 2026-11-01 252（+0）
+2026-10-18 252 → 2026-11-02 251（-1）
 
 
 ---

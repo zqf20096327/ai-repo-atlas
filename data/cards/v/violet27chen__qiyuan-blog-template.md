@@ -1,6 +1,6 @@
 # violet27chen/qiyuan-blog-template
 
-⭐ 19 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/violet27chen/qiyuan-blog-template) · [官网](https://www.qiyuan.icu) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/violet27chen/qiyuan-blog-template) · [官网](https://www.qiyuan.icu) · 个人维护 · 中文 README
 
 **带 RAG 站内 AI 问答的全功能 Astro 博客模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "violet27chen/qiyuan-blog-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

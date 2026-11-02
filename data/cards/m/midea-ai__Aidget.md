@@ -40,6 +40,18 @@
 > L15: Aidget (AI Edge Toolbox) is an inference engine developed by Midea Group for edge processors with limited compute a
 > L19: The engine converts fixed-shape TFLite models into model-specific C programs for CPUs and MCUs. Model preparation r
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "midea-ai/Aidget 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 185 --> 187
+    line [186, 186]
+```
+
+2026-11-01 186 → 2026-11-02 186（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `068d42bc40b1` · [字段定义](../../DATASET.md)*

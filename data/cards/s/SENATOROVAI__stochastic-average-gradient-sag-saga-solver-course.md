@@ -1,6 +1,6 @@
 # SENATOROVAI/stochastic-average-gradient-sag-saga-solver-course
 
-⭐ 19 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/stochastic-average-gradient-sag-saga-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/stochastic-average-gradient-sag-saga-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
 
 **SAG/SAGA 方差缩减优化算法的课程讲解与教学实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/stochastic-average-gradient-sag-saga-solver-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 17 --> 20
+    line [19, 18]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 18（-1）
 
 
 ---

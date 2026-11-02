@@ -1,6 +1,6 @@
 # funsanity/Spine-AI-Generator
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/funsanity/Spine-AI-Generator) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/funsanity/Spine-AI-Generator) · 个人维护 · 中文 README
 
 **把 2D 立绘自动拆件、建骨架并导出 Spine 资源的本地工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "funsanity/Spine-AI-Generator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 5 --> 16
-    line [6, 7, 8, 9, 10, 11, 15, 15]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 5 --> 17
+    line [6, 7, 8, 9, 10, 11, 15, 16]
 ```
 
-2026-10-18 6 → 2026-11-01 15（+9）
+2026-10-18 6 → 2026-11-02 16（+10）
 
 
 ---

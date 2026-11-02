@@ -1,6 +1,6 @@
 # writerslogic/warm
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/writerslogic/warm) · [官网](https://docs.holographic-memory.com/) · 组织维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/writerslogic/warm) · [官网](https://docs.holographic-memory.com/) · 组织维护
 
 **给 AI agent 的本地记忆与混合检索 Rust 引擎，含 MCP 服务**
 
@@ -41,6 +41,18 @@
 > L9: **Local memory for agents and apps: full-text and vector search, a memory API and a vector-symbolic fact store in on
 > L33: WARM is a Rust library that stores text, vectors and facts in a
 > L202: `warm-mcp` serves a store to any Model Context Protocol client over stdio or HTTP:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "writerslogic/warm 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-01 25 → 2026-11-02 25（+0）
 
 
 ---

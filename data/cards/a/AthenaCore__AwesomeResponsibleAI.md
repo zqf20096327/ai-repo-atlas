@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AthenaCore/AwesomeResponsibleAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    title "AthenaCore/AwesomeResponsibleAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 154 --> 159
-    line [155, 157, 158]
+    line [155, 157, 158, 158]
 ```
 
-2026-10-18 155 → 2026-11-01 158（+3）
+2026-10-18 155 → 2026-11-02 158（+3）
 
 
 ---

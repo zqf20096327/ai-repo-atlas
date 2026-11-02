@@ -46,12 +46,12 @@ Doofinder 官方维护的 Magento 2 搜索模块：将商店目录自动索引�
 ```mermaid
 xychart-beta
     title "doofinder/doofinder-magento2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

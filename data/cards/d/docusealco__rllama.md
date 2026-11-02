@@ -1,6 +1,6 @@
 # docusealco/rllama
 
-⭐ 105 · Ruby · MIT · 推送 2026-07-19 · [GitHub](https://github.com/docusealco/rllama) · [官网](https://www.docuseal.com/blog/run-open-source-llms-locally-with-ruby) · 组织维护
+⭐ 104 · Ruby · MIT · 推送 2026-07-19 · [GitHub](https://github.com/docusealco/rllama) · [官网](https://www.docuseal.com/blog/run-open-source-llms-locally-with-ruby) · 组织维护
 
 **Ruby 的 llama.cpp 绑定：本地运行开源 LLM 做生成与嵌入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "docusealco/rllama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 103 --> 106
+    line [105, 104]
 ```
 
-2026-10-18 105 → 2026-11-01 105（+0）
+2026-10-18 105 → 2026-11-02 104（-1）
 
 
 ---

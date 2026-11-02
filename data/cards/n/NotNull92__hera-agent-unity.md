@@ -1,6 +1,6 @@
 # NotNull92/hera-agent-unity
 
-⭐ 30 · C# · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NotNull92/hera-agent-unity) · 个人维护 · 中文 README
+⭐ 29 · C# · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NotNull92/hera-agent-unity) · 个人维护 · 中文 README
 
 **让 AI 编程 agent 直接操作与验证实时 Unity Editor 的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NotNull92/hera-agent-unity 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    line [29, 30, 29]
 ```
 
-2026-10-18 29 → 2026-11-01 30（+1）
+2026-10-18 29 → 2026-11-02 29（+0）
 
 
 ---

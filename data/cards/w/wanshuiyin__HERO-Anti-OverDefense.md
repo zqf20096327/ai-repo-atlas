@@ -1,6 +1,6 @@
 # wanshuiyin/HERO-Anti-OverDefense
 
-⭐ 533 · Markdown · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wanshuiyin/HERO-Anti-OverDefense) · 个人维护 · 中文 README
+⭐ 608 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/wanshuiyin/HERO-Anti-OverDefense) · 个人维护 · 中文 README
 
 **抑制编码 Agent 过度防御的粘贴式规则契约**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wanshuiyin/HERO-Anti-OverDefense 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 496 --> 536
-    line [499, 504, 516, 517, 520, 521, 525, 527, 530, 531, 533]
+    title "wanshuiyin/HERO-Anti-OverDefense 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 489 --> 618
+    line [499, 504, 516, 517, 520, 521, 525, 527, 530, 531, 533, 608]
 ```
 
-2026-10-18 499 → 2026-11-01 533（+34）
+2026-10-18 499 → 2026-11-02 608（+109）
 
 
 ---

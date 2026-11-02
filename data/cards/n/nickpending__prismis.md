@@ -1,6 +1,6 @@
 # nickpending/prismis
 
-⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nickpending/prismis) · [官网](https://prismis.io) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/nickpending/prismis) · [官网](https://prismis.io) · 个人维护
 
 **本地优先的内容智能守护进程：AI 给 RSS/Reddit/YouTube 信息流评分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nickpending/prismis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 14（+1）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

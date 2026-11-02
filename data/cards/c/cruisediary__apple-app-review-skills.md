@@ -1,6 +1,6 @@
 # cruisediary/apple-app-review-skills
 
-⭐ 19 · Swift · MIT · 推送 2026-05-02 · [GitHub](https://github.com/cruisediary/apple-app-review-skills) · 个人维护 · 中文 README
+⭐ 20 · Swift · MIT · 推送 2026-05-02 · [GitHub](https://github.com/cruisediary/apple-app-review-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code 的 App Store 审核风险检查技能与 agent 集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cruisediary/apple-app-review-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

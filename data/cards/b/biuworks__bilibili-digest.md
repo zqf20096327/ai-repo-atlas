@@ -1,6 +1,6 @@
 # biuworks/bilibili-digest
 
-⭐ 178 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/biuworks/bilibili-digest) · 个人维护 · 中文 README
+⭐ 179 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/biuworks/bilibili-digest) · 个人维护 · 中文 README
 
 **把 B 站视频变成学习资源的浏览器扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "biuworks/bilibili-digest 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 172 --> 179
-    line [173, 174, 173, 174, 175, 177, 178, 178]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 172 --> 180
+    line [173, 174, 173, 174, 175, 177, 178, 179]
 ```
 
-2026-10-18 173 → 2026-11-01 178（+5）
+2026-10-18 173 → 2026-11-02 179（+6）
 
 
 ---

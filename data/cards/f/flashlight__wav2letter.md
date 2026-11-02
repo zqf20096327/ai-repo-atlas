@@ -1,6 +1,6 @@
 # flashlight/wav2letter
 
-⭐ 6,443 · C++ · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/flashlight/wav2letter) · [官网](https://github.com/facebookresearch/wav2letter/wiki) · 组织维护
+⭐ 6,444 · C++ · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/flashlight/wav2letter) · [官网](https://github.com/facebookresearch/wav2letter/wiki) · 组织维护
 
 **Facebook AI 的端到端语音识别工具包，已并入 Flashlight**
 
@@ -43,13 +43,13 @@ Facebook AI Research 的自动语音识别（ASR）工具包 wav2letter++。READ
 
 ```mermaid
 xychart-beta
-    title "flashlight/wav2letter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 6439 --> 6444
-    line [6440, 6441, 6442, 6443]
+    title "flashlight/wav2letter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 6439 --> 6445
+    line [6440, 6441, 6442, 6443, 6444]
 ```
 
-2026-10-18 6,440 → 2026-11-01 6,443（+3）
+2026-10-18 6,440 → 2026-11-02 6,444（+4）
 
 
 ---

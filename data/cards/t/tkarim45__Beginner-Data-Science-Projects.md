@@ -1,6 +1,6 @@
 # tkarim45/Beginner-Data-Science-Projects
 
-⭐ 3,310 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/tkarim45/Beginner-Data-Science-Projects) · 个人维护
+⭐ 3,309 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/tkarim45/Beginner-Data-Science-Projects) · 个人维护
 
 **面向初学者的数据科学实战项目集（115 个 Jupyter 项目）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tkarim45/Beginner-Data-Science-Projects 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "tkarim45/Beginner-Data-Science-Projects 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 3288 --> 3312
-    line [3290, 3293, 3292, 3294, 3298, 3297, 3302, 3305, 3307, 3309, 3310]
+    line [3290, 3293, 3292, 3294, 3298, 3297, 3302, 3305, 3307, 3309, 3310, 3309]
 ```
 
-2026-10-18 3,290 → 2026-11-01 3,310（+20）
+2026-10-18 3,290 → 2026-11-02 3,309（+19）
 
 
 ---

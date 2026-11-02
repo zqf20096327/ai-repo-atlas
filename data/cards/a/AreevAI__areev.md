@@ -1,6 +1,6 @@
 # AreevAI/areev
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AreevAI/areev) · [官网](https://areev.ai/store) · 组织维护
+⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/AreevAI/areev) · [官网](https://areev.ai/store) · 组织维护
 
 **构建微垂直 AI 产品的开源引擎：记忆、工作流、人工审批与受治理改进**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AreevAI/areev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-01 27（+1）
+2026-10-18 26 → 2026-11-02 27（+1）
 
 
 ---

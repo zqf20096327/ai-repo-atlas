@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentcathq/agentcat-typescript-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    title "agentcathq/agentcat-typescript-sdk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
     y-axis "stars" 123 --> 128
-    line [124, 126, 127]
+    line [124, 126, 127, 127]
 ```
 
-2026-10-18 124 → 2026-11-01 127（+3）
+2026-10-18 124 → 2026-11-02 127（+3）
 
 
 ---

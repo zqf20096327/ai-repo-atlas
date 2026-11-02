@@ -1,6 +1,6 @@
 # Eurekashen/R2Seg
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/Eurekashen/R2Seg) · [官网](https://eurekashen.github.io/R2Seg/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/Eurekashen/R2Seg) · [官网](https://eurekashen.github.io/R2Seg/) · 组织维护
 
 **免训练的医学OOD肿瘤分割框架：LLM解剖推理+统计拒绝**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Eurekashen/R2Seg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-01 25（+0）
+2026-10-18 25 → 2026-11-02 26（+1）
 
 
 ---

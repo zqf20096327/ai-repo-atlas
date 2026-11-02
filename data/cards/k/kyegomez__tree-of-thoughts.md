@@ -1,6 +1,6 @@
 # kyegomez/tree-of-thoughts
 
-⭐ 4,593 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/kyegomez/tree-of-thoughts) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 4,594 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/kyegomez/tree-of-thoughts) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **Tree of Thoughts 推理搜索的即插即用实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/tree-of-thoughts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
     y-axis "stars" 4592 --> 4596
-    line [4593, 4595, 4594, 4595, 4594, 4593, 4593]
+    line [4593, 4595, 4594, 4595, 4594, 4593, 4594]
 ```
 
-2026-10-18 4,593 → 2026-11-01 4,593（+0）
+2026-10-18 4,593 → 2026-11-02 4,594（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DozaVisuals/doza-assist
 
-⭐ 56 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/DozaVisuals/doza-assist) · [官网](https://doza.ai) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/DozaVisuals/doza-assist) · [官网](https://doza.ai) · 组织维护
 
 **本地优先的 Mac AI 剪辑助手：从采访素材生成粗剪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DozaVisuals/doza-assist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57]
 ```
 
-2026-10-18 55 → 2026-11-01 56（+1）
+2026-10-18 55 → 2026-11-02 57（+2）
 
 
 ---

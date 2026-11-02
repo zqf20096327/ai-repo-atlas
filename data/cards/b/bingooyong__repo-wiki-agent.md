@@ -1,6 +1,6 @@
 # bingooyong/repo-wiki-agent
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/bingooyong/repo-wiki-agent) · 个人维护 · 中文 README
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/bingooyong/repo-wiki-agent) · 个人维护 · 中文 README
 
 **为任意代码仓库生成结构化 Wiki 文档的本地优先 Python CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bingooyong/repo-wiki-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 14 --> 18
     line [15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 17（+2）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

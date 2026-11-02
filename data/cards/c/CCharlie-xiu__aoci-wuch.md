@@ -1,6 +1,6 @@
 # CCharlie-xiu/aoci-wuch
 
-⭐ 74 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/CCharlie-xiu/aoci-wuch) · [官网](https://skill.wuch-ai.net/) · 个人维护 · 中文 README
+⭐ 83 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/CCharlie-xiu/aoci-wuch) · [官网](https://skill.wuch-ai.net/) · 个人维护 · 中文 README
 
 **面向 AI 编程代理的任务优先技能库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CCharlie-xiu/aoci-wuch 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4 --> 80
-    line [10, 14, 17, 24, 39, 50, 62, 74]
+    title "CCharlie-xiu/aoci-wuch 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3 --> 90
+    line [10, 14, 17, 24, 39, 50, 62, 74, 83]
 ```
 
-2026-10-25 10 → 2026-11-01 74（+64）
+2026-10-25 10 → 2026-11-02 83（+73）
 
 
 ---

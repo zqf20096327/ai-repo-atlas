@@ -1,6 +1,6 @@
 # Skyzi000/open-webui-extensions
 
-⭐ 84 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Skyzi000/open-webui-extensions) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Skyzi000/open-webui-extensions) · 个人维护 · 中文 README
 
 **为 Open WebUI 提供的子代理、并行工具等工具与过滤器集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Skyzi000/open-webui-extensions 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-01"]
+    title "Skyzi000/open-webui-extensions 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 79 --> 85
-    line [80, 81, 82, 83, 84]
+    line [80, 81, 82, 83, 84, 84]
 ```
 
-2026-10-18 80 → 2026-11-01 84（+4）
+2026-10-18 80 → 2026-11-02 84（+4）
 
 
 ---

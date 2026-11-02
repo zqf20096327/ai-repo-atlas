@@ -1,6 +1,6 @@
 # AnayDhawan/oss-launch
 
-⭐ 16 · Shell · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/AnayDhawan/oss-launch) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 agent 把裸仓库补齐开源文件的技能（脚手架）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

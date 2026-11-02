@@ -1,6 +1,6 @@
 # CapgeminiInventUK/langscout
 
-⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/CapgeminiInventUK/langscout) · 组织维护
+⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/CapgeminiInventUK/langscout) · 组织维护
 
 **Langchain 应用 LLM 追踪工具：存入 MongoDB 并可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CapgeminiInventUK/langscout 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

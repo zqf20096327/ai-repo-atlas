@@ -1,6 +1,6 @@
 # get-tmonier/argot
 
-⭐ 51 · Rust · MIT · 推送 2026-10-01 · [GitHub](https://github.com/get-tmonier/argot) · [官网](https://argot.tmonier.com) · 个人维护
+⭐ 52 · Rust · MIT · 推送 2026-10-01 · [GitHub](https://github.com/get-tmonier/argot) · [官网](https://argot.tmonier.com) · 个人维护
 
 **基于仓库历史学习的本地统计代码审查工具，检测偏离代码库惯例的变更**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "get-tmonier/argot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-11-01 51（+0）
+2026-10-18 51 → 2026-11-02 52（+1）
 
 
 ---

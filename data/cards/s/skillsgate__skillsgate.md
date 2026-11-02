@@ -1,6 +1,6 @@
 # skillsgate/skillsgate
 
-⭐ 1,421 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/skillsgate/skillsgate) · [官网](https://skillsgate.ai/) · 组织维护
+⭐ 1,423 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/skillsgate/skillsgate) · [官网](https://skillsgate.ai/) · 组织维护
 
 **可视化 AI agent 技能管理器：浏览/安装/管理 20+ agent 的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skillsgate/skillsgate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1396 --> 1423
-    line [1398, 1401, 1404, 1406, 1413, 1418, 1421, 1421]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1396 --> 1425
+    line [1398, 1401, 1404, 1406, 1413, 1418, 1421, 1423]
 ```
 
-2026-10-18 1,398 → 2026-11-01 1,421（+23）
+2026-10-18 1,398 → 2026-11-02 1,423（+25）
 
 
 ---

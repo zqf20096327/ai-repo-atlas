@@ -1,6 +1,6 @@
 # apimartha/ollama-migration-guide
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/apimartha/ollama-migration-guide) · [官网](https://go.apimart.ai/k-a6d50e) · 组织维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/apimartha/ollama-migration-guide) · [官网](https://go.apimart.ai/k-a6d50e) · 组织维护 · 中文 README
 
 **通过 APIMart 网关调用 SkyReels V4 视频模型的接口文档**
 
@@ -45,12 +45,12 @@ APIMart 维护的模型调用文档仓库：说明如何经 OpenAI 兼容端点 
 ```mermaid
 xychart-beta
     title "apimartha/ollama-migration-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 32 --> 36
-    line [33, 35, 35]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 32 --> 37
+    line [33, 35, 36]
 ```
 
-2026-10-18 33 → 2026-11-01 35（+2）
+2026-10-18 33 → 2026-11-02 36（+3）
 
 
 ---

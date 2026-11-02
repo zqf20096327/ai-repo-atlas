@@ -1,6 +1,6 @@
 # AtlasOmnia/hermes-agent-community
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/hermes-agent-community) · [官网](https://hermesagenttools.com/) · 组织维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/AtlasOmnia/hermes-agent-community) · [官网](https://hermesagenttools.com/) · 组织维护
 
 **Hermes Agent 社区内容的镜像知识库：教程与资源索引**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AtlasOmnia/hermes-agent-community 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-28 27 → 2026-11-01 28（+1）
+2026-10-28 27 → 2026-11-02 29（+2）
 
 
 ---

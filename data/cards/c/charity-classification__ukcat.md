@@ -1,6 +1,6 @@
 # charity-classification/ukcat
 
-⭐ 13 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/charity-classification/ukcat) · [官网](https://www.charityclassification.org.uk/) · 组织维护
+⭐ 13 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-01 · [GitHub](https://github.com/charity-classification/ukcat) · [官网](https://www.charityclassification.org.uk/) · 组织维护
 
 **对全英国注册慈善组织做分类打标的数据与工具集**
 
@@ -46,12 +46,12 @@ UK Charity Activity Tags 项目仓库：使用 UK-CAT 与 ICNP/TSO 两套分类�
 ```mermaid
 xychart-beta
     title "charity-classification/ukcat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

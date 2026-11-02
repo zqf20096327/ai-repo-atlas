@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "howl-anderson/agentsilex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "howl-anderson/agentsilex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 457 --> 460
-    line [458, 459]
+    line [458, 459, 459]
 ```
 
-2026-10-18 458 → 2026-11-01 459（+1）
+2026-10-18 458 → 2026-11-02 459（+1）
 
 
 ---

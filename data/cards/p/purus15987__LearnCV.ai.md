@@ -1,6 +1,6 @@
 # purus15987/LearnCV.ai
 
-⭐ 11 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/purus15987/LearnCV.ai) · [官网](https://purus15987.github.io/LearnCV.ai/) · 个人维护
+⭐ 12 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/purus15987/LearnCV.ai) · [官网](https://purus15987.github.io/LearnCV.ai/) · 个人维护
 
 **面向本科生的计算机视觉课程主页：理论、实验与项目**
 
@@ -46,12 +46,12 @@ JBIET 学院 M. Purushotham 讲授的 Computer Vision（2025）官方课程主�
 ```mermaid
 xychart-beta
     title "purus15987/LearnCV.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

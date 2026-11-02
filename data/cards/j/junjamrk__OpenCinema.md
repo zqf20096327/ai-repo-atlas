@@ -1,6 +1,6 @@
 # junjamrk/OpenCinema
 
-⭐ 112 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/junjamrk/OpenCinema) · [官网](https://opencinema.site/) · 个人维护 · 中文 README
+⭐ 124 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/junjamrk/OpenCinema) · [官网](https://opencinema.site/) · 个人维护 · 中文 README
 
 **本地优先的 AI 视频工作室：画布+3D预演+生成剪辑一体**
 
@@ -40,6 +40,18 @@
 > L5:  A local-first AI video studio. One canvas connects storyboards, assets, 3D previs, generation and editing,
 > L37: - **Your agent works on the same canvas.** Describe what you want in Codex, Claude Code or any MCP client. The agen
 > L217: |Provider|Image|Video|Audio|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "junjamrk/OpenCinema 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 111 --> 125
+    line [112, 124]
+```
+
+2026-11-01 112 → 2026-11-02 124（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # XZZKANY/StoryForge
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/XZZKANY/StoryForge) · [官网](https://github.com/XZZKANY/StoryForge/releases/latest) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/XZZKANY/StoryForge) · [官网](https://github.com/XZZKANY/StoryForge/releases/latest) · 个人维护 · 中文 README
 
 **长篇小说作者的 AI 写作 IDE：对话审稿、逐字 diff 确认落盘**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "XZZKANY/StoryForge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 18 --> 25
-    line [19, 21, 22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 18 --> 27
+    line [19, 21, 22, 23, 24, 26]
 ```
 
-2026-10-18 19 → 2026-11-01 24（+5）
+2026-10-18 19 → 2026-11-02 26（+7）
 
 
 ---

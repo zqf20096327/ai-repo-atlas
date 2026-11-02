@@ -1,6 +1,6 @@
 # zenstory-ai/video-recap-skills
 
-⭐ 599 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zenstory-ai/video-recap-skills) · [官网](https://zenstory.ai/video-recap) · 组织维护 · 中文 README
+⭐ 601 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zenstory-ai/video-recap-skills) · [官网](https://zenstory.ai/video-recap) · 组织维护 · 中文 README
 
 **给编程 Agent 的视频中文解说成片技能包（7 个技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenstory-ai/video-recap-skills 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 577 --> 601
-    line [579, 582, 584, 588, 589, 590, 592, 594, 595, 598, 599]
+    title "zenstory-ai/video-recap-skills 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 577 --> 603
+    line [579, 582, 584, 588, 589, 590, 592, 594, 595, 598, 599, 601]
 ```
 
-2026-10-18 579 → 2026-11-01 599（+20）
+2026-10-18 579 → 2026-11-02 601（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # maxsitt/insect-detect
 
-⭐ 71 · Python · GPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/maxsitt/insect-detect) · [官网](https://maxsitt.github.io/insect-detect-docs/) · 个人维护
+⭐ 72 · Python · GPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/maxsitt/insect-detect) · [官网](https://maxsitt.github.io/insect-detect-docs/) · 个人维护
 
 **太阳能 DIY 相机陷阱软件：设备端实时检测跟踪昆虫并拍摄**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maxsitt/insect-detect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 70 --> 73
+    line [71, 72]
 ```
 
-2026-10-18 71 → 2026-11-01 71（+0）
+2026-10-18 71 → 2026-11-02 72（+1）
 
 
 ---

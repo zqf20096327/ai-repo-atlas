@@ -1,6 +1,6 @@
 # qingshangongzai/Color_Card
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/qingshangongzai/Color_Card) · [官网](https://color-card.hxiaostudio.cn) · 个人维护 · 中文 README
+⭐ 29 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/qingshangongzai/Color_Card) · [官网](https://color-card.hxiaostudio.cn) · 个人维护 · 中文 README
 
 **面向摄影师和设计师的本地一站式取色与配色分析桌面工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qingshangongzai/Color_Card 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-01 29（+0）
+2026-10-18 29 → 2026-11-02 29（+0）
 
 
 ---

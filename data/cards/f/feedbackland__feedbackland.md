@@ -1,6 +1,6 @@
 # feedbackland/feedbackland
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/feedbackland/feedbackland) · [官网](https://feedbackland.com) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/feedbackland/feedbackland) · [官网](https://feedbackland.com) · 组织维护
 
 **开源用户反馈平台：可嵌入组件+反馈看板+AI 洞察**
 
@@ -46,12 +46,12 @@ MIT 许可的开源用户反馈平台，包含可嵌入应用的 React 反馈组
 ```mermaid
 xychart-beta
     title "feedbackland/feedbackland 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 21（+1）
 
 
 ---

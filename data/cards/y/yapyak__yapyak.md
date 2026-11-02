@@ -1,6 +1,6 @@
 # yapyak/yapyak
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/yapyak/yapyak) · [官网](https://yapyak.dev) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yapyak/yapyak) · [官网](https://yapyak.dev) · 个人维护
 
 **面向开发工作流的 i18n 编译器，保存即由 AI 补全翻译**
 
@@ -46,12 +46,12 @@ yapyak 是一个 Vite 插件形式的 i18n 编译器加小型运行时，支持 
 ```mermaid
 xychart-beta
     title "yapyak/yapyak 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
     y-axis "stars" 30 --> 34
     line [31, 32, 33, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-01 32（+1）
+2026-10-18 31 → 2026-11-02 32（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rasidi3112/pondok-ai
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rasidi3112/pondok-ai) · [官网](https://www.npmjs.com/package/pondok-ai) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rasidi3112/pondok-ai) · [官网](https://www.npmjs.com/package/pondok-ai) · 个人维护
 
 **一条命令在本地搭建私有 AI 全栈（Ollama+Open WebUI+RAG+API）**
 
@@ -44,13 +44,13 @@ npm 分发的 CLI 工具：检测硬件（OS/架构/RAM/磁盘/GPU），生成�
 
 ```mermaid
 xychart-beta
-    title "rasidi3112/pondok-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4 --> 45
-    line [7, 12, 14, 35, 37, 39, 42]
+    title "rasidi3112/pondok-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2 --> 64
+    line [7, 12, 14, 35, 37, 39, 42, 59]
 ```
 
-2026-10-18 7 → 2026-11-01 42（+35）
+2026-10-18 7 → 2026-11-02 59（+52）
 
 
 ---

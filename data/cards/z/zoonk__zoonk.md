@@ -1,6 +1,6 @@
 # zoonk/zoonk
 
-⭐ 156 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/zoonk/zoonk) · [官网](https://zoonk.com) · 组织维护
+⭐ 156 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zoonk/zoonk) · [官网](https://zoonk.com) · 组织维护
 
 **把个人目标转成每日学习计划的学习平台**
 
@@ -42,13 +42,13 @@ Zoonk 是一个面向学习者的开源平台：用户用自己的话描述目�
 
 ```mermaid
 xychart-beta
-    title "zoonk/zoonk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "zoonk/zoonk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 155 --> 159
-    line [158, 156]
+    line [158, 156, 156]
 ```
 
-2026-10-18 158 → 2026-11-01 156（-2）
+2026-10-18 158 → 2026-11-02 156（-2）
 
 
 ---

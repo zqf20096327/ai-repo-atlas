@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "concierge-hq/concierge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "concierge-hq/concierge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 526 --> 529
-    line [528, 527]
+    line [528, 527, 527]
 ```
 
-2026-10-18 528 → 2026-11-01 527（-1）
+2026-10-18 528 → 2026-11-02 527（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # peiyucn/dsh-launcher-panel
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/peiyucn/dsh-launcher-panel) · [官网](https://marketplace.visualstudio.com/items?itemName=peiyucn.dsh-launcher-panel) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/peiyucn/dsh-launcher-panel) · [官网](https://marketplace.visualstudio.com/items?itemName=peiyucn.dsh-launcher-panel) · 个人维护 · 中文 README
 
 **在 VS Code 内启动 DeepSeek Harness 并打开其 Web UI 的扩展**
 
@@ -45,12 +45,12 @@ VS Code 扩展，用于启动/停止 DeepSeek Harness（dsh）并在内置浏览
 ```mermaid
 xychart-beta
     title "peiyucn/dsh-launcher-panel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

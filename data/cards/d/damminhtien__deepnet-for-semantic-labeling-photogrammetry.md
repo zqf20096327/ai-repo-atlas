@@ -1,6 +1,6 @@
 # damminhtien/deepnet-for-semantic-labeling-photogrammetry
 
-⭐ 22 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/damminhtien/deepnet-for-semantic-labeling-photogrammetry) · 个人维护
+⭐ 22 · Jupyter Notebook · 推送 2026-11-01 · [GitHub](https://github.com/damminhtien/deepnet-for-semantic-labeling-photogrammetry) · 个人维护
 
 **高分辨率遥感影像语义分割的数据与模型组件管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "damminhtien/deepnet-for-semantic-labeling-photogrammetry 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-11-02"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-19 22 → 2026-11-01 22（+0）
+2026-10-19 22 → 2026-11-02 22（+0）
 
 
 ---

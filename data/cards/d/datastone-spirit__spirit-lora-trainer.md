@@ -1,6 +1,6 @@
 # datastone-spirit/spirit-lora-trainer
 
-⭐ 88 · Python · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/datastone-spirit/spirit-lora-trainer) · [官网](https://serverless.datastone.cn) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **训练 Flux 等模型 LoRA 的 Web 工具包（基于 kohya-ss 脚本）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

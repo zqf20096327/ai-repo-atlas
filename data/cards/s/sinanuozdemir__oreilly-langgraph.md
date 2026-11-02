@@ -45,12 +45,12 @@ Sinan Ozdemir 的 O'Reilly 在线课程《Building AI Agents and Workflows with 
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-langgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

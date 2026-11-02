@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaudot/SlicerDentalSegmentator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "gaudot/SlicerDentalSegmentator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 196 --> 199
-    line [197, 198]
+    line [197, 198, 198]
 ```
 
-2026-10-18 197 → 2026-11-01 198（+1）
+2026-10-18 197 → 2026-11-02 198（+1）
 
 
 ---

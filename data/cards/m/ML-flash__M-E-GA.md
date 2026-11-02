@@ -1,6 +1,6 @@
 # ML-flash/M-E-GA
 
-⭐ 39 · Python · GPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/ML-flash/M-E-GA) · [官网](https://publicaiplayground.com/mega) · 个人维护
+⭐ 38 · Python · GPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/ML-flash/M-E-GA) · [官网](https://publicaiplayground.com/mega) · 个人维护
 
 **可变编码遗传算法框架，支持迁移学习与自定义实验**
 
@@ -45,12 +45,12 @@ MEGA 是一个 Python 实现的通用遗传算法框架，采用可变编码（M
 ```mermaid
 xychart-beta
     title "ML-flash/M-E-GA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 37 --> 40
+    line [39, 38]
 ```
 
-2026-10-18 39 → 2026-11-01 39（+0）
+2026-10-18 39 → 2026-11-02 38（-1）
 
 
 ---

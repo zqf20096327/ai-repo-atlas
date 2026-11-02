@@ -1,6 +1,6 @@
 # maximveksler/awesome-serialization
 
-⭐ 56 · Unlicense · 推送 2026-02-26 · [GitHub](https://github.com/maximveksler/awesome-serialization) · 个人维护
+⭐ 57 · Unlicense · 推送 2026-02-26 · [GitHub](https://github.com/maximveksler/awesome-serialization) · 个人维护
 
 **数据序列化格式策展清单：覆盖 API/ML/Agentic/大数据等类别**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maximveksler/awesome-serialization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-11-01 56（+0）
+2026-10-18 56 → 2026-11-02 57（+1）
 
 
 ---

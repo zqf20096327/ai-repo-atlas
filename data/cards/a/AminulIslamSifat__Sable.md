@@ -1,6 +1,6 @@
 # AminulIslamSifat/Sable
 
-⭐ 13 · Shell · 推送 2026-10-26 · [GitHub](https://github.com/AminulIslamSifat/Sable) · 个人维护
+⭐ 13 · Shell · 推送 2026-11-01 · [GitHub](https://github.com/AminulIslamSifat/Sable) · 个人维护
 
 **Sable 桌面应用（自托管 AI 伴侣/代理平台）的发布镜像仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AminulIslamSifat/Sable 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

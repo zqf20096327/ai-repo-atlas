@@ -1,6 +1,6 @@
 # guidogagl/physioex
 
-⭐ 30 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/guidogagl/physioex) · [官网](https://guidogagl.github.io/physioex/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/guidogagl/physioex) · [官网](https://guidogagl.github.io/physioex/) · 组织维护
 
 **生理信号深度学习分类器的训练与可解释性 PyTorch 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guidogagl/physioex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-01 30（+0）
+2026-10-18 30 → 2026-11-02 30（+0）
 
 
 ---

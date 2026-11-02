@@ -1,6 +1,6 @@
 # stdlogits/neuron-lens
 
-⭐ 24 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/stdlogits/neuron-lens) · [官网](neuron-lens.com) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/stdlogits/neuron-lens) · [官网](neuron-lens.com) · 组织维护
 
 **Qwen3-8B 等模型的 MLP 神经元与注意力头含义编目数据集**
 
@@ -40,6 +40,18 @@
 > L13: - **Catalog:** `stdlogits/neuron-lens`: every
 > L95: Every neuron has a `+` and a `−` pole, so the catalog has 884,736 neuron entries and 1,152 heads for
 > L138: Neurons and heads get the same five tables, one row per pole or per head: `reads` (weight-only lens
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stdlogits/neuron-lens 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 23 --> 29
+    line [24, 28]
+```
+
+2026-11-01 24 → 2026-11-02 28（+4）
 
 
 ---

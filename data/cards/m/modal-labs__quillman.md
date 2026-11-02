@@ -44,13 +44,13 @@ Modal Labs 提供的语音对话示例应用：后端运行 Kyutai Labs 的 Mosh
 
 ```mermaid
 xychart-beta
-    title "modal-labs/quillman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "modal-labs/quillman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1210 --> 1213
-    line [1211, 1212]
+    line [1211, 1212, 1212]
 ```
 
-2026-10-18 1,211 → 2026-11-01 1,212（+1）
+2026-10-18 1,211 → 2026-11-02 1,212（+1）
 
 
 ---

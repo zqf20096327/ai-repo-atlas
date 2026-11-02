@@ -1,6 +1,6 @@
 # NatLibFi/omikuji
 
-⭐ 93 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/NatLibFi/omikuji) · [官网](https://crates.io/crates/omikuji) · 组织维护
+⭐ 93 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/NatLibFi/omikuji) · [官网](https://crates.io/crates/omikuji) · 组织维护
 
 **极端多标签分类算法库：Rust 实现分区标签树及变体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NatLibFi/omikuji 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-11-01 93（+0）
+2026-10-18 93 → 2026-11-02 93（+0）
 
 
 ---

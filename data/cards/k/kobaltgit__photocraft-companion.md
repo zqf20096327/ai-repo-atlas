@@ -1,6 +1,6 @@
 # kobaltgit/photocraft-companion
 
-⭐ 28 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kobaltgit/photocraft-companion) · 个人维护 · 中文 README
+⭐ 29 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kobaltgit/photocraft-companion) · 个人维护 · 中文 README
 
 **为 PhotoCraft 图像编辑器提供本地 AI 神经工具与插件生态的桌面伴侣应用**
 
@@ -45,13 +45,13 @@ Rust + egui 编写的桌面应用，通过本地 JSON-RPC 控制套接字（端�
 
 ```mermaid
 xychart-beta
-    title "kobaltgit/photocraft-companion 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3 --> 30
-    line [5, 7, 8, 11, 14, 15, 17, 18, 20, 22, 24, 28]
+    title "kobaltgit/photocraft-companion 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3 --> 31
+    line [5, 7, 8, 11, 14, 15, 17, 18, 20, 22, 24, 28, 29]
 ```
 
-2026-10-18 5 → 2026-11-01 28（+23）
+2026-10-18 5 → 2026-11-02 29（+24）
 
 
 ---

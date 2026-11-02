@@ -1,6 +1,6 @@
 # liu-1101B/competition-ppt-skill
 
-⭐ 17 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/liu-1101B/competition-ppt-skill) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/liu-1101B/competition-ppt-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 的国赛路演 PPT 生成方法论与脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liu-1101B/competition-ppt-skill 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-22 15 → 2026-11-01 17（+2）
+2026-10-22 15 → 2026-11-02 18（+3）
 
 
 ---

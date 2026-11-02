@@ -1,6 +1,6 @@
 # sbryngelson/ane-guide
 
-⭐ 17 · Shell · 推送 2026-10-15 · [GitHub](https://github.com/sbryngelson/ane-guide) · [官网](https://ane-guide.readthedocs.io) · 个人维护
+⭐ 18 · Shell · 推送 2026-10-15 · [GitHub](https://github.com/sbryngelson/ane-guide) · [官网](https://ane-guide.readthedocs.io) · 个人维护
 
 **Apple 神经引擎（ANE）架构与编程的逆向工程参考手册**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sbryngelson/ane-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 18（+1）
 
 
 ---

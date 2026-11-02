@@ -1,6 +1,6 @@
 # tommycyl/Drama
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tommycyl/Drama) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tommycyl/Drama) · 个人维护 · 中文 README
 
 **AI 拍摄指导相机 App：用视觉模型给出构图引导**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tommycyl/Drama 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 22 --> 28
-    line [24, 23, 25, 26, 27]
+    title "tommycyl/Drama 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 22 --> 29
+    line [24, 23, 25, 26, 27, 28]
 ```
 
-2026-10-26 24 → 2026-11-01 27（+3）
+2026-10-26 24 → 2026-11-02 28（+4）
 
 
 ---

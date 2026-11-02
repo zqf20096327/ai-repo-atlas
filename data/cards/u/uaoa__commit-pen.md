@@ -45,12 +45,12 @@ Commit Pen 是一个 VS Code 扩展，读取仓库 diff 后发送给 Claude，�
 ```mermaid
 xychart-beta
     title "uaoa/commit-pen 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-31", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-31 19 → 2026-11-01 19（+0）
+2026-10-31 19 → 2026-11-02 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # JasonLovesDoggo/caddy-defender
 
-⭐ 589 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/JasonLovesDoggo/caddy-defender) · [官网](http://defender.jsn.cam/) · 个人维护
+⭐ 589 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/JasonLovesDoggo/caddy-defender) · [官网](http://defender.jsn.cam/) · 个人维护
 
 **Caddy 中间件：按 IP 段拦截或污染 AI 爬虫请求**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JasonLovesDoggo/caddy-defender 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-01"]
+    title "JasonLovesDoggo/caddy-defender 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 584 --> 590
-    line [585, 586, 587, 588, 589]
+    line [585, 586, 587, 588, 589, 589]
 ```
 
-2026-10-18 585 → 2026-11-01 589（+4）
+2026-10-18 585 → 2026-11-02 589（+4）
 
 
 ---

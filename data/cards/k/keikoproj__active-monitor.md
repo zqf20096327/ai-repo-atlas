@@ -1,6 +1,6 @@
 # keikoproj/active-monitor
 
-⭐ 188 · Go · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/keikoproj/active-monitor) · 组织维护
+⭐ 187 · Go · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/keikoproj/active-monitor) · 组织维护
 
 **给运维：基于 Argo 工作流的 Kubernetes 集群深度监控与自愈控制器**
 
@@ -45,12 +45,12 @@ Active-Monitor 是一个 Kubernetes 自定义资源控制器，以 HealthCheck C
 ```mermaid
 xychart-beta
     title "keikoproj/active-monitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 187 --> 189
-    line [188, 188]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 186 --> 189
+    line [188, 187]
 ```
 
-2026-10-18 188 → 2026-11-01 188（+0）
+2026-10-18 188 → 2026-11-02 187（-1）
 
 
 ---

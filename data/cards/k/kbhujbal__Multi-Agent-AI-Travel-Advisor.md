@@ -1,6 +1,6 @@
 # kbhujbal/Multi-Agent-AI-Travel-Advisor
 
-⭐ 59 · Python · MIT · 推送 2026-04-12 · [GitHub](https://github.com/kbhujbal/Multi-Agent-AI-Travel-Advisor) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-04-12 · [GitHub](https://github.com/kbhujbal/Multi-Agent-AI-Travel-Advisor) · 个人维护
 
 **多智能体 AI 旅行规划系统：生成含机票酒店活动的行程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kbhujbal/Multi-Agent-AI-Travel-Advisor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 60]
 ```
 
-2026-10-18 58 → 2026-11-01 59（+1）
+2026-10-18 58 → 2026-11-02 60（+2）
 
 
 ---

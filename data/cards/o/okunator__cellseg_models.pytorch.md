@@ -1,6 +1,6 @@
 # okunator/cellseg_models.pytorch
 
-⭐ 110 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/okunator/cellseg_models.pytorch) · [官网](https://okunator.github.io/cellseg_models.pytorch/) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/okunator/cellseg_models.pytorch) · [官网](https://okunator.github.io/cellseg_models.pytorch/) · 个人维护
 
 **PyTorch 细胞/细胞核实例分割模型库，供显微图像分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "okunator/cellseg_models.pytorch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 107 --> 111
     line [108, 109, 110, 110]
 ```
 
-2026-10-18 108 → 2026-11-01 110（+2）
+2026-10-18 108 → 2026-11-02 110（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SENATOROVAI/L-BFGS-B-solver-course
 
-⭐ 16 · Jupyter Notebook · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/L-BFGS-B-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
+⭐ 15 · Jupyter Notebook · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/L-BFGS-B-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
 
 **面向科研与教学的 L-BFGS/L-BFGS-B 算法课程与实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/L-BFGS-B-solver-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 15（-1）
 
 
 ---

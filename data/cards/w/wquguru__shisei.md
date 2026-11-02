@@ -1,6 +1,6 @@
 # wquguru/shisei
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
+⭐ 216 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
 
 **CC0 人偶姿势参考图库：280 姿势×5 角度，供 AI 绘图工具使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wquguru/shisei 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 10 --> 199
-    line [25, 148, 184]
+    title "wquguru/shisei 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 6 --> 235
+    line [25, 148, 184, 216]
 ```
 
-2026-10-30 25 → 2026-11-01 184（+159）
+2026-10-30 25 → 2026-11-02 216（+191）
 
 
 ---

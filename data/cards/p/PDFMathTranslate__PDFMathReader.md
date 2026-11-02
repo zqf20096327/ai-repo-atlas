@@ -1,6 +1,6 @@
 # PDFMathTranslate/PDFMathReader
 
-⭐ 77 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/PDFMathTranslate/PDFMathReader) · [官网](https://pdfmathtranslate.github.io/PDFMathReader/) · 组织维护 · 中文 README
+⭐ 79 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/PDFMathTranslate/PDFMathReader) · [官网](https://pdfmathtranslate.github.io/PDFMathReader/) · 组织维护 · 中文 README
 
 **跨平台科学文献实时翻译阅读器，保留公式与排版**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PDFMathTranslate/PDFMathReader 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 6 --> 83
-    line [12, 23, 36, 47, 50, 52, 53, 59, 63, 64, 66, 76, 77]
+    title "PDFMathTranslate/PDFMathReader 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 6 --> 85
+    line [12, 23, 36, 47, 50, 52, 53, 59, 63, 64, 66, 76, 77, 79]
 ```
 
-2026-10-18 12 → 2026-11-01 77（+65）
+2026-10-18 12 → 2026-11-02 79（+67）
 
 
 ---

@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-aws
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-aws) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-aws) · 个人维护
 
 **AWS 资源策展清单：SDK、CLI、开源项目与指南聚合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Correia-jpv/fucking-awesome-aws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TwelveTake-Studios/reaper-mcp
 
-⭐ 99 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TwelveTake-Studios/reaper-mcp) · [官网](https://twelvetake.com) · 组织维护
+⭐ 102 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TwelveTake-Studios/reaper-mcp) · [官网](https://twelvetake.com) · 组织维护
 
 **让 AI 助手通过 MCP 控制 REAPER 音乐制作的服务器**
 
@@ -46,12 +46,12 @@ Model Context Protocol 服务器，供 MCP 兼容的 AI 助手操作 REAPER 数�
 ```mermaid
 xychart-beta
     title "TwelveTake-Studios/reaper-mcp 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 81 --> 100
-    line [82, 83, 84, 88, 92, 94, 95, 96, 97, 99, 99]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 80 --> 104
+    line [82, 83, 84, 88, 92, 94, 95, 96, 97, 99, 102]
 ```
 
-2026-10-18 82 → 2026-11-01 99（+17）
+2026-10-18 82 → 2026-11-02 102（+20）
 
 
 ---

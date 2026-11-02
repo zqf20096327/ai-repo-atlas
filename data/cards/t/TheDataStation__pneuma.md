@@ -1,6 +1,6 @@
 # TheDataStation/pneuma
 
-⭐ 34 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/TheDataStation/pneuma) · [官网](https://thedatastation.github.io/pneuma/) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/TheDataStation/pneuma) · [官网](https://thedatastation.github.io/pneuma/) · 组织维护
 
 **面向表格数据的 LLM 数据发现系统：自然语言查表**
 
@@ -44,12 +44,12 @@ Pneuma 是一个基于 LLM 的表格数据发现系统：给定自然语言查�
 ```mermaid
 xychart-beta
     title "TheDataStation/pneuma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-01 34（+0）
+2026-10-18 34 → 2026-11-02 34（+0）
 
 
 ---

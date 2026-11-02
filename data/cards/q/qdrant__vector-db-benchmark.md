@@ -1,6 +1,6 @@
 # qdrant/vector-db-benchmark
 
-⭐ 375 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/qdrant/vector-db-benchmark) · [官网](https://qdrant.tech/benchmarks/) · 组织维护
+⭐ 376 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/qdrant/vector-db-benchmark) · [官网](https://qdrant.tech/benchmarks/) · 组织维护
 
 **向量搜索引擎性能基准测试框架：统一硬件下对比多种引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/vector-db-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 373 --> 376
-    line [374, 375, 375]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 373 --> 377
+    line [374, 375, 376]
 ```
 
-2026-10-18 374 → 2026-11-01 375（+1）
+2026-10-18 374 → 2026-11-02 376（+2）
 
 
 ---

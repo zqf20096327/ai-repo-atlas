@@ -1,6 +1,6 @@
 # The-Best-Codes/agent-one
 
-⭐ 44 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/The-Best-Codes/agent-one) · [官网](https://www.agent-one.dev) · 个人维护
+⭐ 45 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/The-Best-Codes/agent-one) · [官网](https://www.agent-one.dev) · 个人维护
 
 **免费开源桌面 AI agent，支持万级模型与扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "The-Best-Codes/agent-one 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 41 --> 45
-    line [42, 44, 44]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 41 --> 46
+    line [42, 44, 45]
 ```
 
-2026-10-18 42 → 2026-11-01 44（+2）
+2026-10-18 42 → 2026-11-02 45（+3）
 
 
 ---

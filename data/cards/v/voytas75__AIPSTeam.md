@@ -1,6 +1,6 @@
 # voytas75/AIPSTeam
 
-⭐ 20 · PowerShell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/voytas75/AIPSTeam) · [官网](https://www.powershellgallery.com/packages/AIPSTeam) · 个人维护
+⭐ 20 · PowerShell · MIT · 推送 2026-11-01 · [GitHub](https://github.com/voytas75/AIPSTeam) · [官网](https://www.powershellgallery.com/packages/AIPSTeam) · 个人维护
 
 **PowerShell 多智能体脚本：模拟交付团队产出代码/文档/评审草稿**
 
@@ -46,12 +46,12 @@ PowerShell 单脚本工具，围绕用户的项目想法或既有脚本模拟多
 ```mermaid
 xychart-beta
     title "voytas75/AIPSTeam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 20（+0）
 
 
 ---

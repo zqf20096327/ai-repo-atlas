@@ -1,6 +1,6 @@
 # acerbilab/pyvbmc
 
-⭐ 137 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/acerbilab/pyvbmc) · [官网](https://acerbilab.github.io/pyvbmc/) · 组织维护
+⭐ 137 · Python · BSD-3-Clause · 推送 2026-11-01 · [GitHub](https://github.com/acerbilab/pyvbmc) · [官网](https://acerbilab.github.io/pyvbmc/) · 组织维护
 
 **变分贝叶斯蒙特卡洛算法的 Python 实现，用于后验与模型推断**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acerbilab/pyvbmc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
     y-axis "stars" 134 --> 138
     line [135, 136, 137, 137]
 ```
 
-2026-10-18 135 → 2026-11-01 137（+2）
+2026-10-18 135 → 2026-11-02 137（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # crftwr/keyhac
 
-⭐ 12 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/crftwr/keyhac) · [官网](https://crftwr.github.io/keyhac/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/crftwr/keyhac) · [官网](https://crftwr.github.io/keyhac/) · 组织维护
 
 **Python 脚本化键盘自定义工具：改键并可由 AI 代写自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "crftwr/keyhac 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-24 11 → 2026-11-01 12（+1）
+2026-10-24 11 → 2026-11-02 12（+1）
 
 
 ---

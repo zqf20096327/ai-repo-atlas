@@ -1,6 +1,6 @@
 # rios0rios0/code-guru
 
-⭐ 15 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rios0rios0/code-guru) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rios0rios0/code-guru) · 个人维护
 
 **用 AI 自动审查 GitHub/Azure DevOps PR 的 CLI 工具**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具与 webhook 服务器，调用三种 AI 后端（Anth
 ```mermaid
 xychart-beta
     title "rios0rios0/code-guru 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 12 --> 16
     line [13, 15, 15]
 ```
 
-2026-10-19 13 → 2026-11-01 15（+2）
+2026-10-19 13 → 2026-11-02 15（+2）
 
 
 ---

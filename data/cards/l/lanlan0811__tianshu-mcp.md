@@ -1,6 +1,6 @@
 # lanlan0811/tianshu-mcp
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/lanlan0811/tianshu-mcp) · [官网](https://lanaiw.top) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lanlan0811/tianshu-mcp) · [官网](https://lanaiw.top) · 个人维护 · 中文 README
 
 **编排外部 AI-Agent 干活并用运行时证据验收的 MCP server**
 
@@ -45,12 +45,12 @@ tianshu-mcp 是被天枢（Tianshu）当作标准 MCP server 接入的编排层�
 ```mermaid
 xychart-beta
     title "lanlan0811/tianshu-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-01 12（+2）
+2026-10-18 10 → 2026-11-02 12（+2）
 
 
 ---

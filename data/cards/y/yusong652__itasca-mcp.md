@@ -1,6 +1,6 @@
 # yusong652/itasca-mcp
 
-⭐ 225 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/yusong652/itasca-mcp) · [官网](https://pypi.org/project/itasca-mcp/) · 个人维护 · 中文 README
+⭐ 225 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yusong652/itasca-mcp) · [官网](https://pypi.org/project/itasca-mcp/) · 个人维护 · 中文 README
 
 **让 AI agent 通过对话操作 ITASCA 岩土模拟软件的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yusong652/itasca-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
     y-axis "stars" 218 --> 226
     line [219, 220, 219, 220, 221, 223, 224, 225, 225]
 ```
 
-2026-10-18 219 → 2026-11-01 225（+6）
+2026-10-18 219 → 2026-11-02 225（+6）
 
 
 ---

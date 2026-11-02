@@ -1,6 +1,6 @@
 # tidy-finance/website
 
-⭐ 119 · HTML · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/tidy-finance/website) · [官网](https://tidy-finance.org) · 组织维护
+⭐ 120 · HTML · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/tidy-finance/website) · [官网](https://tidy-finance.org) · 组织维护
 
 **tidy-finance.org 网站源码：两本金融编程书籍与博客的站点仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tidy-finance/website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 118 --> 121
+    line [119, 120]
 ```
 
-2026-10-18 119 → 2026-11-01 119（+0）
+2026-10-18 119 → 2026-11-02 120（+1）
 
 
 ---

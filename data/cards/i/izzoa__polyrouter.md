@@ -1,6 +1,6 @@
 # izzoa/polyrouter
 
-⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/izzoa/polyrouter) · [官网](https://polyrouter.app) · 个人维护
+⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/izzoa/polyrouter) · [官网](https://polyrouter.app) · 个人维护
 
 **可自托管的 LLM 路由/网关：统一端点、多供应商路由与预算控制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "izzoa/polyrouter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-11-01 24（+1）
+2026-10-18 23 → 2026-11-02 25（+2）
 
 
 ---

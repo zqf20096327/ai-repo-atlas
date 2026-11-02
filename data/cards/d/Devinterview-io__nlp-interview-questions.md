@@ -1,6 +1,6 @@
 # Devinterview-io/nlp-interview-questions
 
-⭐ 114 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/nlp-interview-questions) · 组织维护
+⭐ 115 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/nlp-interview-questions) · 组织维护
 
 **面向求职者的 50 道 NLP 面试题与答案知识库**
 
@@ -44,12 +44,12 @@ Devinterview.io 维护的 NLP 面试准备资料库，收录 2026 年 50 道核�
 ```mermaid
 xychart-beta
     title "Devinterview-io/nlp-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 113 --> 116
+    line [114, 115]
 ```
 
-2026-10-18 114 → 2026-11-01 114（+0）
+2026-10-18 114 → 2026-11-02 115（+1）
 
 
 ---

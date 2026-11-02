@@ -1,6 +1,6 @@
 # AJbeckliy/SynVow-prompt
 
-⭐ 74 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/AJbeckliy/SynVow-prompt) · 个人维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/AJbeckliy/SynVow-prompt) · 个人维护 · 中文 README
 
 **面向 ComfyUI 的电商视觉提示词与图像工作流节点集**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点集，围绕电商视觉生产提供多类节点：产品
 ```mermaid
 xychart-beta
     title "AJbeckliy/SynVow-prompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75]
 ```
 
-2026-10-18 73 → 2026-11-01 74（+1）
+2026-10-18 73 → 2026-11-02 75（+2）
 
 
 ---

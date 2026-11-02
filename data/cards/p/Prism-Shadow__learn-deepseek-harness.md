@@ -1,6 +1,6 @@
 # Prism-Shadow/learn-deepseek-harness
 
-⭐ 15 · TypeScript · 推送 2026-08-23 · [GitHub](https://github.com/Prism-Shadow/learn-deepseek-harness) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · 推送 2026-08-23 · [GitHub](https://github.com/Prism-Shadow/learn-deepseek-harness) · 个人维护 · 中文 README
 
 **逐课构建 DeepSeek agent harness 的 TypeScript 实战教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Prism-Shadow/learn-deepseek-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

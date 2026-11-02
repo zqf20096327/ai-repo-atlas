@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wieslawsoltes/development-plugin-for-avalonia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 88 --> 92
     line [89, 91, 91]
 ```
 
-2026-10-18 89 → 2026-11-01 91（+2）
+2026-10-18 89 → 2026-11-02 91（+2）
 
 
 ---

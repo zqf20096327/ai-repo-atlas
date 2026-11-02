@@ -1,6 +1,6 @@
 # sreekarrs/JobSearch-Agent
 
-⭐ 67 · Python · GPL-3.0 · 推送 2026-01-19 · [GitHub](https://github.com/sreekarrs/JobSearch-Agent) · 个人维护
+⭐ 68 · Python · GPL-3.0 · 推送 2026-01-19 · [GitHub](https://github.com/sreekarrs/JobSearch-Agent) · 个人维护
 
 **求职者自动化求职工具：LinkedIn 抓取+AI 生成简历与求职信**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sreekarrs/JobSearch-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 63 --> 68
-    line [64, 65, 67]
+    title "sreekarrs/JobSearch-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 63 --> 69
+    line [64, 65, 67, 68]
 ```
 
-2026-10-18 64 → 2026-11-01 67（+3）
+2026-10-18 64 → 2026-11-02 68（+4）
 
 
 ---

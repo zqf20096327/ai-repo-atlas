@@ -1,6 +1,6 @@
 # Iamsdt/chess
 
-⭐ 33 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/Iamsdt/chess) · [官网](https://iamsdt.github.io/chess/) · 个人维护
+⭐ 33 · JavaScript · 推送 2026-10-31 · [GitHub](https://github.com/Iamsdt/chess) · [官网](https://iamsdt.github.io/chess/) · 个人维护
 
 **浏览器内 AI 国际象棋训练平台：引擎分析+LLM 讲解**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Iamsdt/chess 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
     y-axis "stars" 29 --> 34
     line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-01 33（+3）
+2026-10-18 30 → 2026-11-02 33（+3）
 
 
 ---

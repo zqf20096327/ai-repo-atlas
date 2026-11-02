@@ -1,6 +1,6 @@
 # putrkobey/Olla
 
-⭐ 36 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/putrkobey/Olla) · 组织维护
+⭐ 36 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/putrkobey/Olla) · 组织维护
 
 **自托管 LLM 推理节点的负载均衡与代理服务器**
 
@@ -39,6 +39,18 @@
 
 > L26: Olla is a high-performance, low-overhead, low-latency proxy and load balancer for managing LLM infrastructure. It i
 > L28: Olla works alongside API gateways like LiteLLM or orchestration platforms like GPUStack, focusing on making your **
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "putrkobey/Olla 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-11-01 36 → 2026-11-02 36（+0）
 
 
 ---

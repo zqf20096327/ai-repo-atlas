@@ -1,6 +1,6 @@
 # promptslab/Awesome-Prompt-Engineering
 
-⭐ 6,427 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
+⭐ 6,431 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
 
 **提示工程与上下文工程资源清单：论文、工具、课程策展**
 
@@ -44,13 +44,13 @@ promptslab 维护的手工策展资源集合，覆盖提示工程与上下文工
 
 ```mermaid
 xychart-beta
-    title "promptslab/Awesome-Prompt-Engineering 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 6371 --> 6432
-    line [6376, 6380, 6388, 6392, 6390, 6395, 6410, 6415, 6420, 6422, 6426, 6427]
+    title "promptslab/Awesome-Prompt-Engineering 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 6371 --> 6436
+    line [6376, 6380, 6388, 6392, 6390, 6395, 6410, 6415, 6420, 6422, 6426, 6427, 6431]
 ```
 
-2026-10-18 6,376 → 2026-11-01 6,427（+51）
+2026-10-18 6,376 → 2026-11-02 6,431（+55）
 
 
 ---

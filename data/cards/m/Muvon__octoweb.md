@@ -1,6 +1,6 @@
 # Muvon/octoweb
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Muvon/octoweb) · [官网](https://octoweb.xyz) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Muvon/octoweb) · [官网](https://octoweb.xyz) · 个人维护
 
 **macOS 键盘优先的 AI 浏览器：内置 AI 助手侧栏与 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Muvon/octoweb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-02"]
     y-axis "stars" 12 --> 17
     line [13, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-01 16（+3）
+2026-10-18 13 → 2026-11-02 16（+3）
 
 
 ---

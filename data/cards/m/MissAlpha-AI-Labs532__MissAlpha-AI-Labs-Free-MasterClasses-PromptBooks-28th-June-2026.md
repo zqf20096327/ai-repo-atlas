@@ -1,6 +1,6 @@
 # MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026
 
-⭐ 16 · 推送 2026-10-20 · [GitHub](https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026) · [官网](www.missalphaailabs.com) · 组织维护
+⭐ 15 · 推送 2026-11-01 · [GitHub](https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026) · [官网](www.missalphaailabs.com) · 组织维护
 
 **面向学生与职场人士的免费 AI 课程与提示词资源集合**
 
@@ -44,12 +44,12 @@ MissAlpha™ AI Labs 维护的免费 AI 学习资源仓库：提供 AI Mastercla
 ```mermaid
 xychart-beta
     title "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    line [14, 15, 16, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 16（+2）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

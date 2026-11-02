@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victoriametrics
 
-⭐ 240 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriametrics) · [官网](https://victoriametrics.com/) · 组织维护
+⭐ 241 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriametrics) · [官网](https://victoriametrics.com/) · 组织维护
 
 **VictoriaMetrics 官方 MCP 服务器：让 AI 客户端查询监控数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VictoriaMetrics/mcp-victoriametrics 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 237 --> 242
-    line [238, 239, 240, 241, 240, 240]
+    line [238, 239, 240, 241, 240, 241]
 ```
 
-2026-10-18 238 → 2026-11-01 240（+2）
+2026-10-18 238 → 2026-11-02 241（+3）
 
 
 ---

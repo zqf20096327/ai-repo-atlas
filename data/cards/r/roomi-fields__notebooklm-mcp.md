@@ -1,6 +1,6 @@
 # roomi-fields/notebooklm-mcp
 
-⭐ 217 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/roomi-fields/notebooklm-mcp) · [官网](https://roomi-fields.github.io/notebooklm-mcp/) · 个人维护
+⭐ 218 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/roomi-fields/notebooklm-mcp) · [官网](https://roomi-fields.github.io/notebooklm-mcp/) · 个人维护
 
 **把 Google NotebookLM 封装为 45 端点 REST API 与 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "roomi-fields/notebooklm-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 194 --> 219
-    line [196, 202, 204, 205, 208, 212, 213, 214, 216, 217]
+    title "roomi-fields/notebooklm-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 194 --> 220
+    line [196, 202, 204, 205, 208, 212, 213, 214, 216, 217, 218]
 ```
 
-2026-10-18 196 → 2026-11-01 217（+21）
+2026-10-18 196 → 2026-11-02 218（+22）
 
 
 ---

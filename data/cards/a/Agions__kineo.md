@@ -1,6 +1,6 @@
 # Agions/kineo
 
-⭐ 133 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Agions/kineo) · [官网](https://agions.github.io/kineo/) · 个人维护 · 中文 README
+⭐ 134 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Agions/kineo) · [官网](https://agions.github.io/kineo/) · 个人维护 · 中文 README
 
 **桌面端 Multi-Agent 平台：把剧本/小说自动制作为 4K 漫剧视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Agions/kineo 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 127 --> 134
-    line [128, 129, 131, 132, 133, 133]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 127 --> 135
+    line [128, 129, 131, 132, 133, 134]
 ```
 
-2026-10-22 128 → 2026-11-01 133（+5）
+2026-10-22 128 → 2026-11-02 134（+6）
 
 
 ---

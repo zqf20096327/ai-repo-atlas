@@ -1,6 +1,6 @@
 # chris-short/devopsish.com
 
-⭐ 43 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chris-short/devopsish.com) · [官网](https://devopsish.com) · 个人维护
+⭐ 43 · HTML · MIT · 推送 2026-10-31 · [GitHub](https://github.com/chris-short/devopsish.com) · [官网](https://devopsish.com) · 个人维护
 
 **Chris Short 维护的 Cloud Native/DevOps/AI 技术新闻通讯**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "chris-short/devopsish.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-01 43（+0）
+2026-10-18 43 → 2026-11-02 43（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Extraltodeus/J-Wash
 
-⭐ 242 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/Extraltodeus/J-Wash) · 个人维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/Extraltodeus/J-Wash) · 个人维护
 
 **本地 LLM 手动对齐工作室：编辑 token 方向并导出可用权重**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Extraltodeus/J-Wash 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01"]
+    title "Extraltodeus/J-Wash 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 231 --> 243
-    line [232, 235, 236, 237, 240, 242]
+    line [232, 235, 236, 237, 240, 242, 241]
 ```
 
-2026-10-18 232 → 2026-11-01 242（+10）
+2026-10-18 232 → 2026-11-02 241（+9）
 
 
 ---

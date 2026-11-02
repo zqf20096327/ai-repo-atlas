@@ -1,6 +1,6 @@
 # CommonstackAI/TwinRouterBench
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CommonstackAI/TwinRouterBench) · [官网](https://commonstackai.github.io/TwinRouterBench/) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CommonstackAI/TwinRouterBench) · [官网](https://commonstackai.github.io/TwinRouterBench/) · 组织维护
 
 **逐步 LLM 路由基准：静态标签+动态 SWE-bench 评测与排行榜**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CommonstackAI/TwinRouterBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30]
+    title "CommonstackAI/TwinRouterBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 26 --> 32
+    line [27, 28, 29, 30, 31]
 ```
 
-2026-10-18 27 → 2026-11-01 30（+3）
+2026-10-18 27 → 2026-11-02 31（+4）
 
 
 ---

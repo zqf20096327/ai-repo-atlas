@@ -1,6 +1,6 @@
 # philffm/ai-summary-helper
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/philffm/ai-summary-helper) · [官网](https://ai-summary-helper.byphil.eu/) · 个人维护
+⭐ 23 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/philffm/ai-summary-helper) · [官网](https://ai-summary-helper.byphil.eu/) · 个人维护
 
 **浏览器扩展：用自有 Key 或本地模型总结网页/PDF/YouTube**
 
@@ -11,7 +11,7 @@ MIT 许可的浏览器扩展与书签小程序，在浏览器侧边栏中总结�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@ MIT 许可的浏览器扩展与书签小程序，在浏览器侧边栏中总结�
 ```mermaid
 xychart-beta
     title "philffm/ai-summary-helper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 23（+0）
 
 
 ---

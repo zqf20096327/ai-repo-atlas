@@ -1,6 +1,6 @@
 # TripoGrowthLab/awesome-3d-prompts
 
-⭐ 28 · JavaScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/TripoGrowthLab/awesome-3d-prompts) · [官网](https://www.tripo3d.ai/3d-prompts) · 组织维护 · 中文 README
+⭐ 29 · JavaScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/TripoGrowthLab/awesome-3d-prompts) · [官网](https://www.tripo3d.ai/3d-prompts) · 组织维护 · 中文 README
 
 **3D 创作 AI 提示词策展清单：496 例、6 模型、14 语言**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TripoGrowthLab/awesome-3d-prompts 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 19 --> 29
-    line [20, 22, 23, 24, 25, 26, 28, 28]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 19 --> 30
+    line [20, 22, 23, 24, 25, 26, 28, 29]
 ```
 
-2026-10-18 20 → 2026-11-01 28（+8）
+2026-10-18 20 → 2026-11-02 29（+9）
 
 
 ---

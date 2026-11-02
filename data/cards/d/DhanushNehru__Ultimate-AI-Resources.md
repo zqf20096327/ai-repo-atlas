@@ -1,6 +1,6 @@
 # DhanushNehru/Ultimate-AI-Resources
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/DhanushNehru/Ultimate-AI-Resources) · [官网](https://dhanushnehru.github.io/Ultimate-AI-Resources) · 个人维护
+⭐ 42 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/DhanushNehru/Ultimate-AI-Resources) · [官网](https://dhanushnehru.github.io/Ultimate-AI-Resources) · 个人维护
 
 **500+ 条 AI 工具与学习资源策展清单（awesome list）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DhanushNehru/Ultimate-AI-Resources 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
+    y-axis "stars" 38 --> 43
+    line [39, 40, 41, 42]
 ```
 
-2026-10-18 39 → 2026-11-01 41（+2）
+2026-10-18 39 → 2026-11-02 42（+3）
 
 
 ---

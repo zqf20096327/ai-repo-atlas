@@ -45,13 +45,13 @@ Obsidian 桌面插件，将 Qoder CLI（qodercli）作为 agent 嵌入笔记库�
 
 ```mermaid
 xychart-beta
-    title "QoderAI/Qoderian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "QoderAI/Qoderian 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 30 --> 33
-    line [31, 32]
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-01 32（+1）
+2026-10-18 31 → 2026-11-02 32（+1）
 
 
 ---

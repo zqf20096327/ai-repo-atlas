@@ -1,6 +1,6 @@
 # neomjs/neo-agent-institution
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/neomjs/neo-agent-institution) · [官网](https://neomjs.com/) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/neomjs/neo-agent-institution) · [官网](https://neomjs.com/) · 组织维护
 
 **AI agent 团队的运营驾驶舱：查看与管控 agent 舰队**
 
@@ -45,12 +45,12 @@ Neo.mjs 组织的 Agent Institution 是面向操作员（operator）的 Web 应�
 ```mermaid
 xychart-beta
     title "neomjs/neo-agent-institution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

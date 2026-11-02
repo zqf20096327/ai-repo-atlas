@@ -1,6 +1,6 @@
 # willianpinho/large-file-mcp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/willianpinho/large-file-mcp) · [官网](https://large-file-mcp.dev.willianpinho.com) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/willianpinho/large-file-mcp) · [官网](https://large-file-mcp.dev.willianpinho.com) · 个人维护
 
 **给 AI 客户端处理大文件的 MCP 服务器：分块/搜索/流式读取**
 
@@ -45,12 +45,12 @@ TypeScript 编写的 MCP 服务器，向 Claude Code、Claude Desktop、Cursor�
 ```mermaid
 xychart-beta
     title "willianpinho/large-file-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-01 18（+0）
+2026-10-18 18 → 2026-11-02 18（+0）
 
 
 ---

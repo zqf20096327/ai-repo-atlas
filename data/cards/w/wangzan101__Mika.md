@@ -1,6 +1,6 @@
 # wangzan101/Mika
 
-⭐ 2,571 · Kotlin · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/wangzan101/Mika) · 个人维护 · 中文 README
+⭐ 3,718 · Kotlin · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wangzan101/Mika) · 个人维护 · 中文 README
 
 **安卓手机上的 AI 助理，替你操作 App 与网页办事**
 
@@ -45,13 +45,13 @@ Android 应用：用户用一句话交代任务，Mika 在一块独立的后台�
 
 ```mermaid
 xychart-beta
-    title "wangzan101/Mika 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 904 --> 2722
-    line [1055, 2571]
+    title "wangzan101/Mika 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 789 --> 3984
+    line [1055, 2571, 3718]
 ```
 
-2026-10-31 1,055 → 2026-11-01 2,571（+1,516）
+2026-10-31 1,055 → 2026-11-02 3,718（+2,663）
 
 
 ---

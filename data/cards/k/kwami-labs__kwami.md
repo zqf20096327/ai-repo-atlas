@@ -1,6 +1,6 @@
 # kwami-labs/kwami
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kwami-labs/kwami) · [官网](https://kwami.io) · 个人维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/kwami-labs/kwami) · [官网](https://kwami.io) · 个人维护
 
 **浏览器 3D AI 伴侣库：WebGL 虚拟形象+语音+记忆+工具**
 
@@ -46,12 +46,12 @@ TypeScript ESM 库，面向在网页中构建 3D AI 伴侣的开发者。每个 
 ```mermaid
 xychart-beta
     title "kwami-labs/kwami 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 48 --> 51
     line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-01 50（+1）
+2026-10-18 49 → 2026-11-02 50（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sebp/scikit-survival
 
-⭐ 1,327 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sebp/scikit-survival) · 个人维护
+⭐ 1,327 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/sebp/scikit-survival) · 个人维护
 
 **基于 scikit-learn 的生存分析 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sebp/scikit-survival 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 1324 --> 1328
     line [1325, 1326, 1327, 1327]
 ```
 
-2026-10-18 1,325 → 2026-11-01 1,327（+2）
+2026-10-18 1,325 → 2026-11-02 1,327（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaohuzai/browsa
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xiaohuzai/browsa) · [官网](https://xiaohuzai.github.io/browsa/) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xiaohuzai/browsa) · [官网](https://xiaohuzai.github.io/browsa/) · 个人维护 · 中文 README
 
 **浏览器侧边栏 AI 助手：附加网页/视频/PDF 与自有 LLM 对话**
 
@@ -45,12 +45,12 @@ Chrome/Edge 116+ 侧边栏扩展，把正在浏览的文章、视频（YouTube/B
 ```mermaid
 xychart-beta
     title "xiaohuzai/browsa 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15, 14, 15, 15]
+    line [13, 14, 15, 14, 15, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 15（+2）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

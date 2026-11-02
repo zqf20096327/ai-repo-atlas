@@ -1,6 +1,6 @@
 # HugoLopes45/llmstrip
 
-⭐ 13 · Rust · MIT · 推送 2026-03-29 · [GitHub](https://github.com/HugoLopes45/llmstrip) · [官网](https://github.com/HugoLopes45/llmstrip) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-03-29 · [GitHub](https://github.com/HugoLopes45/llmstrip) · [官网](https://github.com/HugoLopes45/llmstrip) · 个人维护
 
 **清除文本与代码中 AI 写作痕迹的提示词加 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HugoLopes45/llmstrip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 14（+2）
 
 
 ---

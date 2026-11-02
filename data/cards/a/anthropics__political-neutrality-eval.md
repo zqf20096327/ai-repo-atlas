@@ -1,6 +1,6 @@
 # anthropics/political-neutrality-eval
 
-⭐ 142 · Python · CC-BY-4.0 · 推送 2025-11-13 · [GitHub](https://github.com/anthropics/political-neutrality-eval) · 组织维护
+⭐ 143 · Python · CC-BY-4.0 · 推送 2025-11-13 · [GitHub](https://github.com/anthropics/political-neutrality-eval) · 组织维护
 
 **Anthropic 政治中立性评测：配对提示词方法与数据集**
 
@@ -45,12 +45,12 @@ Anthropic 发布的政治偏见评测方法与数据集：评测集按任务（�
 ```mermaid
 xychart-beta
     title "anthropics/political-neutrality-eval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 138 --> 143
-    line [139, 140, 141, 142, 142]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 138 --> 144
+    line [139, 140, 141, 142, 143]
 ```
 
-2026-10-18 139 → 2026-11-01 142（+3）
+2026-10-18 139 → 2026-11-02 143（+4）
 
 
 ---

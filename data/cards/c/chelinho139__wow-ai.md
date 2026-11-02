@@ -1,6 +1,6 @@
 # chelinho139/wow-ai
 
-⭐ 150 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/chelinho139/wow-ai) · 个人维护
+⭐ 151 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/chelinho139/wow-ai) · 个人维护
 
 **在魔兽世界内聊天驱动本地编程 Agent 的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chelinho139/wow-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 146 --> 151
-    line [147, 148, 150, 150]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 146 --> 152
+    line [147, 148, 150, 151]
 ```
 
-2026-10-18 147 → 2026-11-01 150（+3）
+2026-10-18 147 → 2026-11-02 151（+4）
 
 
 ---

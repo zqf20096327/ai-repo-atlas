@@ -1,6 +1,6 @@
 # holgerleichsenring/agent-smith
 
-⭐ 40 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/holgerleichsenring/agent-smith) · [官网](https://agent-smith.org) · 个人维护
+⭐ 41 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/holgerleichsenring/agent-smith) · [官网](https://agent-smith.org) · 个人维护
 
 **自托管 agentic 软件工厂：工单进，规格、验证、PR 出**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "holgerleichsenring/agent-smith 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 28 --> 41
-    line [29, 30, 31, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 28 --> 42
+    line [29, 30, 31, 39, 40, 41]
 ```
 
-2026-10-18 29 → 2026-11-01 40（+11）
+2026-10-18 29 → 2026-11-02 41（+12）
 
 
 ---

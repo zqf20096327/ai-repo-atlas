@@ -1,6 +1,6 @@
 # eellak/glossAPI
 
-⭐ 141 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/eellak/glossAPI) · [官网](https://glossapi.gr/) · 组织维护
+⭐ 142 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/eellak/glossAPI) · [官网](https://glossapi.gr/) · 组织维护
 
 **把学术 PDF 转成结构化 Markdown 的数据集生产流水线**
 
@@ -44,12 +44,12 @@ GFOSS 开发的 GPU 文档处理流水线：从下载、抽取（PyPDFium/Doclin
 ```mermaid
 xychart-beta
     title "eellak/glossAPI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 140 --> 143
+    line [141, 142]
 ```
 
-2026-10-18 141 → 2026-11-01 141（+0）
+2026-10-18 141 → 2026-11-02 142（+1）
 
 
 ---

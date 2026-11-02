@@ -1,6 +1,6 @@
 # langchain-ai/langchain-pinecone
 
-⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-pinecone) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/langchain-pinecone) · 组织维护
 
 **Pinecone 向量数据库的 LangChain 官方集成包**
 
@@ -41,12 +41,12 @@ langchain-ai 组织维护的 LangChain 与 Pinecone 集成包，仓库内含单�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-pinecone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
     y-axis "stars" 26 --> 29
     line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-01 27（-1）
+2026-10-18 28 → 2026-11-02 27（-1）
 
 
 ---

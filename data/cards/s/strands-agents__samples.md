@@ -1,6 +1,6 @@
 # strands-agents/samples
 
-⭐ 921 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/strands-agents/samples) · [官网](https://strandsagents.com) · 组织维护
+⭐ 922 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/strands-agents/samples) · [官网](https://strandsagents.com) · 组织维护
 
 **Strands Agents SDK 的示例代码集：帮助开发者入门 AI agent 开发**
 
@@ -45,12 +45,12 @@ Strands Agents SDK 的官方示例仓库，提供 Python 与 TypeScript 两种�
 ```mermaid
 xychart-beta
     title "strands-agents/samples 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 908 --> 922
-    line [909, 910, 913, 914, 913, 914, 916, 918, 919, 921, 921]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 908 --> 923
+    line [909, 910, 913, 914, 913, 914, 916, 918, 919, 921, 922]
 ```
 
-2026-10-18 909 → 2026-11-01 921（+12）
+2026-10-18 909 → 2026-11-02 922（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-framework
 
-⭐ 589 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
+⭐ 590 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
 
 **NVIDIA 世界模型的训练与推理服务框架（Cosmos3）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cosmos-framework 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 561 --> 591
-    line [563, 566, 568, 573, 575, 577, 579, 583, 586, 588, 589]
+    title "NVIDIA/cosmos-framework 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 561 --> 592
+    line [563, 566, 568, 573, 575, 577, 579, 583, 586, 588, 589, 590]
 ```
 
-2026-10-18 563 → 2026-11-01 589（+26）
+2026-10-18 563 → 2026-11-02 590（+27）
 
 
 ---

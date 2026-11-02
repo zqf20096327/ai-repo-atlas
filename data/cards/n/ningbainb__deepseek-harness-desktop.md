@@ -1,6 +1,6 @@
 # ningbainb/deepseek-harness-desktop
 
-⭐ 888 · JavaScript · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/ningbainb/deepseek-harness-desktop) · [官网](https://ningbainb.github.io/deepseek-harness-desktop/) · 个人维护 · 中文 README
+⭐ 891 · JavaScript · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/ningbainb/deepseek-harness-desktop) · [官网](https://ningbainb.github.io/deepseek-harness-desktop/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的开源三平台 AI 编程桌面客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ningbainb/deepseek-harness-desktop 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 825 --> 893
-    line [830, 844, 852, 856, 857, 858, 863, 869, 874, 876, 883, 888]
+    title "ningbainb/deepseek-harness-desktop 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 824 --> 897
+    line [830, 844, 852, 856, 857, 858, 863, 869, 874, 876, 883, 888, 891]
 ```
 
-2026-10-18 830 → 2026-11-01 888（+58）
+2026-10-18 830 → 2026-11-02 891（+61）
 
 
 ---

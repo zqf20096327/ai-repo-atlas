@@ -1,6 +1,6 @@
 # TIMAN-group/PlugMem
 
-⭐ 306 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/TIMAN-group/PlugMem) · 组织维护
+⭐ 307 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/TIMAN-group/PlugMem) · 组织维护
 
 **LLM agent 的即插即用长期记忆模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TIMAN-group/PlugMem 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 302 --> 307
-    line [303, 304, 305, 306, 306]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 302 --> 308
+    line [303, 304, 305, 306, 307]
 ```
 
-2026-10-18 303 → 2026-11-01 306（+3）
+2026-10-18 303 → 2026-11-02 307（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-Machine-Learning-Tutorials
 
-⭐ 12 · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/Correia-jpv/fucking-Machine-Learning-Tutorials) · 个人维护
+⭐ 12 · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/Correia-jpv/fucking-Machine-Learning-Tutorials) · 个人维护
 
 **机器学习与深度学习教程资源的主题分类策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Correia-jpv/fucking-Machine-Learning-Tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

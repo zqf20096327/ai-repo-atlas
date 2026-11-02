@@ -1,6 +1,6 @@
 # gzxx-2025/aid-studio
 
-⭐ 1,197 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gzxx-2025/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **自托管 AI 漫剧/短剧/电影/漫画创作平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # proyecto26/slides-ai-plugin
 
-⭐ 42 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/proyecto26/slides-ai-plugin) · [官网](https://proyecto26.com/slides-ai-plugin/) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/proyecto26/slides-ai-plugin) · [官网](https://proyecto26.com/slides-ai-plugin/) · 组织维护
 
 **Claude Code 幻灯片生成技能插件：一句话产出动画 HTML 或可编辑 PPTX**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "proyecto26/slides-ai-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-11-01 42（+1）
+2026-10-18 41 → 2026-11-02 43（+2）
 
 
 ---

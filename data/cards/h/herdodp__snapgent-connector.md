@@ -1,6 +1,6 @@
 # herdodp/snapgent-connector
 
-⭐ 70 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
+⭐ 74 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
 
 **让任意 AI 聊天网站直接操作 VS Code 工作区的浏览器扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "herdodp/snapgent-connector 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 52 --> 71
-    line [53, 62, 66, 70]
+    title "herdodp/snapgent-connector 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 51 --> 76
+    line [53, 62, 66, 70, 74]
 ```
 
-2026-10-29 53 → 2026-11-01 70（+17）
+2026-10-29 53 → 2026-11-02 74（+21）
 
 
 ---

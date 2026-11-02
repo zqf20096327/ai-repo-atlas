@@ -1,6 +1,6 @@
 # dapr/dapr-agents
 
-⭐ 770 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dapr/dapr-agents) · [官网](https://docs.dapr.io/developing-applications/dapr-agents/) · 组织维护
+⭐ 771 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dapr/dapr-agents) · [官网](https://docs.dapr.io/developing-applications/dapr-agents/) · 组织维护
 
 **面向开发者的 Dapr 持久化 AI agent 构建框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dapr/dapr-agents 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 766 --> 771
-    line [767, 768, 770]
+    title "dapr/dapr-agents 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 766 --> 772
+    line [767, 768, 770, 771]
 ```
 
-2026-10-29 767 → 2026-11-01 770（+3）
+2026-10-29 767 → 2026-11-02 771（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    title "HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 532 --> 535
-    line [534, 533, 534]
+    line [534, 533, 534, 534]
 ```
 
-2026-10-18 534 → 2026-11-01 534（+0）
+2026-10-18 534 → 2026-11-02 534（+0）
 
 
 ---

@@ -40,6 +40,18 @@
 > L15: **zhihu-cli** turns your terminal into a full-featured Zhihu client. Authenticate once, then browse, search, downlo
 > L105: pip install "zhihu-toolkit[classifier]"   # torch, transformers, scikit-learn...
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KrisTHL181/zhihu-toolkit 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-11-01 29 → 2026-11-02 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `3c158357f619` · [字段定义](../../DATASET.md)*

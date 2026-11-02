@@ -46,12 +46,12 @@ AI Career Curriculum 生态中 Engineer 轨道的解决方案仓库：为 10 个
 ```mermaid
 xychart-beta
     title "ai-infra-curriculum/ai-infra-engineer-solutions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # HMDSimDev/heartmorrow
 
-⭐ 182 · TypeScript · Unlicense · 推送 2026-08-18 · [GitHub](https://github.com/HMDSimDev/heartmorrow) · [官网](https://heartmorrow.com/) · 组织维护
+⭐ 183 · TypeScript · Unlicense · 推送 2026-08-18 · [GitHub](https://github.com/HMDSimDev/heartmorrow) · [官网](https://heartmorrow.com/) · 组织维护
 
 **本地优先的 AI 约会模拟游戏：用自有语言模型扮演角色谈恋爱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HMDSimDev/heartmorrow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 181 --> 183
-    line [182, 182]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 181 --> 184
+    line [182, 183]
 ```
 
-2026-10-18 182 → 2026-11-01 182（+0）
+2026-10-18 182 → 2026-11-02 183（+1）
 
 
 ---

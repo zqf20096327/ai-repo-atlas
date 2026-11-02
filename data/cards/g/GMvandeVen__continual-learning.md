@@ -1,6 +1,6 @@
 # GMvandeVen/continual-learning
 
-⭐ 1,891 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/GMvandeVen/continual-learning) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多种持续学习方法的 PyTorch 实现库，供研究者跑实验**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

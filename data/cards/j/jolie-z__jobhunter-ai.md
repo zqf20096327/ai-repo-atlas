@@ -1,6 +1,6 @@
 # jolie-z/jobhunter-ai
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/jolie-z/jobhunter-ai) · 个人维护 · 中文 README
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/jolie-z/jobhunter-ai) · 个人维护 · 中文 README
 
 **AI 全链路求职自动化桌面应用：抓取→评估→改写→自动投递**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jolie-z/jobhunter-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 12 --> 18
-    line [13, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 12 --> 19
+    line [13, 15, 16, 17, 18]
 ```
 
-2026-10-18 13 → 2026-11-01 17（+4）
+2026-10-18 13 → 2026-11-02 18（+5）
 
 
 ---

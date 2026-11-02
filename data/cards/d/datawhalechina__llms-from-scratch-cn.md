@@ -1,6 +1,6 @@
 # datawhalechina/llms-from-scratch-cn
 
-⭐ 4,438 · Jupyter Notebook · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/datawhalechina/llms-from-scratch-cn) · 组织维护 · 中文 README
+⭐ 4,440 · Jupyter Notebook · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/datawhalechina/llms-from-scratch-cn) · 组织维护 · 中文 README
 
 **从0构建大语言模型的中文实践教程（GLM4/Llama3/RWKV6）**
 
@@ -44,13 +44,13 @@ Datawhale 维护的 LLM 构建教程项目：基础知识部分基于 rasbt/LLMs
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/llms-from-scratch-cn 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4413 --> 4440
-    line [4415, 4416, 4424, 4427, 4429, 4430, 4432, 4434, 4436, 4438]
+    title "datawhalechina/llms-from-scratch-cn 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 4413 --> 4442
+    line [4415, 4416, 4424, 4427, 4429, 4430, 4432, 4434, 4436, 4438, 4440]
 ```
 
-2026-10-18 4,415 → 2026-11-01 4,438（+23）
+2026-10-18 4,415 → 2026-11-02 4,440（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sandesh13fr/TCalc
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Sandesh13fr/TCalc) · [官网](https://tcalc.younix.xyz/) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Sandesh13fr/TCalc) · [官网](https://tcalc.younix.xyz/) · 个人维护
 
 **本地工作区 token 计算与模型推荐工具，面向编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sandesh13fr/TCalc 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 26 --> 35
-    line [27, 29, 30, 31, 34]
+    title "Sandesh13fr/TCalc 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 26 --> 42
+    line [27, 29, 30, 31, 34, 41]
 ```
 
-2026-10-18 27 → 2026-11-01 34（+7）
+2026-10-18 27 → 2026-11-02 41（+14）
 
 
 ---

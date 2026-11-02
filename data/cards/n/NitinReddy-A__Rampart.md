@@ -1,6 +1,6 @@
 # NitinReddy-A/Rampart
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NitinReddy-A/Rampart) · [官网](https://rampart.dpdns.org) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/NitinReddy-A/Rampart) · [官网](https://rampart.dpdns.org) · 个人维护
 
 **面向开发者的自托管 AppSec 代理：只报告可复现证明的 Web/API 漏洞**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NitinReddy-A/Rampart 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-19 13 → 2026-11-01 15（+2）
+2026-10-19 13 → 2026-11-02 15（+2）
 
 
 ---

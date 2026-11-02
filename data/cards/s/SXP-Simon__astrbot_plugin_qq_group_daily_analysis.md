@@ -1,6 +1,6 @@
 # SXP-Simon/astrbot_plugin_qq_group_daily_analysis
 
-⭐ 531 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) · 个人维护 · 中文 README
+⭐ 533 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) · 个人维护 · 中文 README
 
 **AstrBot 群聊分析插件：LLM 总结群聊并生成报告海报与漫画**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SXP-Simon/astrbot_plugin_qq_group_daily_analysis 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 514 --> 532
-    line [515, 520, 521, 524, 526, 528, 529, 530, 531, 531]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 514 --> 534
+    line [515, 520, 521, 524, 526, 528, 529, 530, 531, 533]
 ```
 
-2026-10-18 515 → 2026-11-01 531（+16）
+2026-10-18 515 → 2026-11-02 533（+18）
 
 
 ---

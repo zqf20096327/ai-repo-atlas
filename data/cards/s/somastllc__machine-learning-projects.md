@@ -1,6 +1,6 @@
 # somastllc/machine-learning-projects
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/somastllc/machine-learning-projects) · [官网](https://youtu.be/Has3_C-tVP0?si=ohrtJdw_7oJiaUiX) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/somastllc/machine-learning-projects) · [官网](https://youtu.be/Has3_C-tVP0?si=ohrtJdw_7oJiaUiX) · 个人维护
 
 **Somast 的九个机器学习实战项目集：回归/分类/聚类**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "somastllc/machine-learning-projects 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-01"]
-    y-axis "stars" 9 --> 14
-    line [10, 13]
+    title "somastllc/machine-learning-projects 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 9 --> 16
+    line [10, 13, 15]
 ```
 
-2026-10-29 10 → 2026-11-01 13（+3）
+2026-10-29 10 → 2026-11-02 15（+5）
 
 
 ---

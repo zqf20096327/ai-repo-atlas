@@ -1,6 +1,6 @@
 # kaiser-data/free-llm-proxy-router
 
-⭐ 12 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kaiser-data/free-llm-proxy-router) · 组织维护
+⭐ 11 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kaiser-data/free-llm-proxy-router) · 组织维护
 
 **Go 单二进制免费 LLM 代理路由器：聚合各家免费额度为一个 OpenAI 兼容端点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kaiser-data/free-llm-proxy-router 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-28", "2026-11-02"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11]
 ```
 
-2026-10-19 10 → 2026-11-01 12（+2）
+2026-10-19 10 → 2026-11-02 11（+1）
 
 
 ---

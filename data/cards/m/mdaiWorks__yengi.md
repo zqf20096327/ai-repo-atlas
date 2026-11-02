@@ -1,6 +1,6 @@
 # mdaiWorks/yengi
 
-⭐ 17 · C# · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/mdaiWorks/yengi) · [官网](https://youtu.be/l0tdhvCmwNI) · 个人维护
+⭐ 18 · C# · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/mdaiWorks/yengi) · [官网](https://youtu.be/l0tdhvCmwNI) · 个人维护
 
 **Windows 开源 AI IDE：本地/云模型驱动的自主开发代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mdaiWorks/yengi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 16, 17]
+    title "mdaiWorks/yengi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-11-01 17（+2）
+2026-10-18 15 → 2026-11-02 18（+3）
 
 
 ---

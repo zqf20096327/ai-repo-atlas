@@ -1,6 +1,6 @@
 # blrchen/chatgpt-lite
 
-⭐ 272 · TypeScript · MIT · 推送 2026-04-19 · [GitHub](https://github.com/blrchen/chatgpt-lite) · [官网](https://gptlite.vercel.app) · 个人维护 · 中文 README
+⭐ 271 · TypeScript · MIT · 推送 2026-04-19 · [GitHub](https://github.com/blrchen/chatgpt-lite) · [官网](https://gptlite.vercel.app) · 个人维护 · 中文 README
 
 **可私有部署的 ChatGPT 网页应用（Next.js）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "blrchen/chatgpt-lite 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 271 --> 275
-    line [274, 273, 272, 272]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 270 --> 275
+    line [274, 273, 272, 271]
 ```
 
-2026-10-18 274 → 2026-11-01 272（-2）
+2026-10-18 274 → 2026-11-02 271（-3）
 
 
 ---

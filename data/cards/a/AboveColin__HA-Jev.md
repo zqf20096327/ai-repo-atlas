@@ -1,6 +1,6 @@
 # AboveColin/HA-Jev
 
-⭐ 81 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AboveColin/HA-Jev) · [官网](https://jev.cdevries.dev/) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AboveColin/HA-Jev) · [官网](https://jev.cdevries.dev/) · 个人维护
 
 **Home Assistant 集成：向 TypeSafe Jev 提问并把回答变成实体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AboveColin/HA-Jev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 77 --> 82
-    line [78, 79, 80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 77 --> 83
+    line [78, 79, 80, 81, 82]
 ```
 
-2026-10-18 78 → 2026-11-01 81（+3）
+2026-10-18 78 → 2026-11-02 82（+4）
 
 
 ---

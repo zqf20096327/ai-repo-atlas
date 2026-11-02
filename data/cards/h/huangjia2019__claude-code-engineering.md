@@ -1,6 +1,6 @@
 # huangjia2019/claude-code-engineering
 
-⭐ 1,146 · JavaScript · 推送 2026-07-23 · [GitHub](https://github.com/huangjia2019/claude-code-engineering) · [官网](https://time.geekbang.org/column/intro/101113501) · 个人维护 · 中文 README
+⭐ 1,147 · JavaScript · 推送 2026-07-23 · [GitHub](https://github.com/huangjia2019/claude-code-engineering) · [官网](https://time.geekbang.org/column/intro/101113501) · 个人维护 · 中文 README
 
 **Claude Code 工程化课程的配套示例与代码仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "huangjia2019/claude-code-engineering 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1137 --> 1147
-    line [1138, 1142, 1143, 1144, 1146, 1146]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 1137 --> 1148
+    line [1138, 1142, 1143, 1144, 1146, 1147]
 ```
 
-2026-10-18 1,138 → 2026-11-01 1,146（+8）
+2026-10-18 1,138 → 2026-11-02 1,147（+9）
 
 
 ---

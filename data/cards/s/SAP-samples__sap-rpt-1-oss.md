@@ -1,6 +1,6 @@
 # SAP-samples/sap-rpt-1-oss
 
-⭐ 192 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/SAP-samples/sap-rpt-1-oss) · 组织维护
+⭐ 193 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/SAP-samples/sap-rpt-1-oss) · 组织维护
 
 **表格上下文学习模型 sap-rpt-1-oss 的推理实现**
 
@@ -46,12 +46,12 @@ SAP 发布的深度学习模型实现，即论文 ConTextTab: A Semantics-Aware 
 ```mermaid
 xychart-beta
     title "SAP-samples/sap-rpt-1-oss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 191 --> 193
-    line [192, 192]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 191 --> 194
+    line [192, 193]
 ```
 
-2026-10-18 192 → 2026-11-01 192（+0）
+2026-10-18 192 → 2026-11-02 193（+1）
 
 
 ---

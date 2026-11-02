@@ -1,6 +1,6 @@
 # TeamHG-Memex/eli5
 
-⭐ 2,856 · Jupyter Notebook · MIT · 推送 2026-04-08 · [GitHub](https://github.com/TeamHG-Memex/eli5) · [官网](http://eli5.readthedocs.io) · 组织维护
+⭐ 2,857 · Jupyter Notebook · MIT · 推送 2026-04-08 · [GitHub](https://github.com/TeamHG-Memex/eli5) · [官网](http://eli5.readthedocs.io) · 组织维护
 
 **调试机器学习分类器并解释其预测的 Python 库**
 
@@ -45,13 +45,13 @@ Python 库，用于检查机器学习分类器并解释预测结果。支持 sci
 
 ```mermaid
 xychart-beta
-    title "TeamHG-Memex/eli5 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 2852 --> 2857
-    line [2853, 2854, 2855, 2856]
+    title "TeamHG-Memex/eli5 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2852 --> 2858
+    line [2853, 2854, 2855, 2856, 2857]
 ```
 
-2026-10-18 2,853 → 2026-11-01 2,856（+3）
+2026-10-18 2,853 → 2026-11-02 2,857（+4）
 
 
 ---

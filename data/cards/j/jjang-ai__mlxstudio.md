@@ -1,6 +1,6 @@
 # jjang-ai/mlxstudio
 
-⭐ 989 · 推送 2026-10-27 · [GitHub](https://github.com/jjang-ai/mlxstudio) · [官网](https://mlx.studio) · 组织维护
+⭐ 991 · 推送 2026-10-27 · [GitHub](https://github.com/jjang-ai/mlxstudio) · [官网](https://mlx.studio) · 组织维护
 
 **macOS 本地 LLM 运行应用：Apple Silicon 上跑模型并供 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jjang-ai/mlxstudio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 985 --> 990
-    line [986, 988, 989, 989]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 985 --> 992
+    line [986, 988, 989, 991]
 ```
 
-2026-10-18 986 → 2026-11-01 989（+3）
+2026-10-18 986 → 2026-11-02 991（+5）
 
 
 ---

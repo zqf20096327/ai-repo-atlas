@@ -1,6 +1,6 @@
 # kimtth/azure-openai-llm-notes
 
-⭐ 421 · Python · 推送 2026-10-28 · [GitHub](https://github.com/kimtth/azure-openai-llm-notes) · [官网](https://github.com/kimtth/awesome-azure-openai-copilot) · 个人维护
+⭐ 422 · Python · 推送 2026-10-28 · [GitHub](https://github.com/kimtth/azure-openai-llm-notes) · [官网](https://github.com/kimtth/awesome-azure-openai-copilot) · 个人维护
 
 **Azure OpenAI 与 LLM 应用资源的策展清单（月度更新）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kimtth/azure-openai-llm-notes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 408 --> 422
-    line [410, 409, 412, 419, 420, 421, 421]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 408 --> 423
+    line [410, 409, 412, 419, 420, 421, 422]
 ```
 
-2026-10-18 410 → 2026-11-01 421（+11）
+2026-10-18 410 → 2026-11-02 422（+12）
 
 
 ---

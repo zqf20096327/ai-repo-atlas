@@ -1,6 +1,6 @@
 # kdcadmin/dsh_douyin_tools
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kdcadmin/dsh_douyin_tools) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kdcadmin/dsh_douyin_tools) · 个人维护 · 中文 README
 
 **DSH 插件：让 AI agent 替用户刷抖音并做互动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kdcadmin/dsh_douyin_tools 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4 --> 15
-    line [5, 8, 10, 12, 14]
+    title "kdcadmin/dsh_douyin_tools 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 4 --> 16
+    line [5, 8, 10, 12, 14, 15]
 ```
 
-2026-10-28 5 → 2026-11-01 14（+9）
+2026-10-28 5 → 2026-11-02 15（+10）
 
 
 ---

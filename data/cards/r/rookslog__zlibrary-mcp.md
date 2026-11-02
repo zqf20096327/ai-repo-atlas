@@ -1,6 +1,6 @@
 # rookslog/zlibrary-mcp
 
-⭐ 103 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/rookslog/zlibrary-mcp) · [官网](https://www.npmjs.com/package/zlibrary-mcp) · 个人维护
+⭐ 103 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rookslog/zlibrary-mcp) · [官网](https://www.npmjs.com/package/zlibrary-mcp) · 个人维护
 
 **供 AI 助手检索与下载图书的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rookslog/zlibrary-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
     y-axis "stars" 93 --> 104
     line [94, 96, 99, 100, 102, 103, 103]
 ```
 
-2026-10-18 94 → 2026-11-01 103（+9）
+2026-10-18 94 → 2026-11-02 103（+9）
 
 
 ---

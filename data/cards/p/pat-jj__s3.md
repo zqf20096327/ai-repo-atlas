@@ -1,6 +1,6 @@
 # pat-jj/s3
 
-⭐ 849 · Python · Apache-2.0 · 推送 2025-11-05 · [GitHub](https://github.com/pat-jj/s3) · [官网](https://arxiv.org/abs/2505.14146) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **用强化学习训练 RAG 搜索 agent 的框架，少数据可训**
 
@@ -11,7 +11,7 @@ EMNLP'25 论文配套的开源框架 s3：在检索增强生成（RAG）中仅�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

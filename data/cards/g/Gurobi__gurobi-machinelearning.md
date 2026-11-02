@@ -1,6 +1,6 @@
 # Gurobi/gurobi-machinelearning
 
-⭐ 258 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Gurobi/gurobi-machinelearning) · [官网](https://gurobi-machinelearning.readthedocs.io/) · 组织维护
+⭐ 258 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Gurobi/gurobi-machinelearning) · [官网](https://gurobi-machinelearning.readthedocs.io/) · 组织维护
 
 **将训练好的 ML 预测模型嵌入 Gurobi 优化模型的 Python 包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Gurobi/gurobi-machinelearning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
     y-axis "stars" 255 --> 259
     line [256, 257, 258, 258]
 ```
 
-2026-10-18 256 → 2026-11-01 258（+2）
+2026-10-18 256 → 2026-11-02 258（+2）
 
 
 ---

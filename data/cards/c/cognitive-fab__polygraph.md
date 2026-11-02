@@ -45,13 +45,13 @@ Claude Code 插件（兼独立 CLI），用于查找有状态代码（工作流�
 
 ```mermaid
 xychart-beta
-    title "cognitive-fab/polygraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "cognitive-fab/polygraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

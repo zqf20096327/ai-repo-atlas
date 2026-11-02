@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sleepinginsummer/agent-database-cli 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-11-02"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-19 35 → 2026-11-01 35（+0）
+2026-10-19 35 → 2026-11-02 35（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Generative-Engine-Marketing/GEM-Bench
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/Generative-Engine-Marketing/GEM-Bench) · [官网](https://gem-bench.org) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/Generative-Engine-Marketing/GEM-Bench) · [官网](https://gem-bench.org) · 组织维护
 
 **生成式引擎营销（GEM）的广告注入回答生成与评测基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Generative-Engine-Marketing/GEM-Bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

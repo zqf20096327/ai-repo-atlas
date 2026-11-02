@@ -1,6 +1,6 @@
 # AtlasOmnia/donna-starter
 
-⭐ 136 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/donna-starter) · [官网](https://hermesagenttools.com/) · 组织维护
+⭐ 137 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/donna-starter) · [官网](https://hermesagenttools.com/) · 组织维护
 
 **面向用户的开箱即用 Hermes Agent 预设档案（人设+72技能）**
 
@@ -44,13 +44,13 @@ Donna 是 Hermes Agent 的预配置 profile：包含一套固定人设（SOUL.md
 
 ```mermaid
 xychart-beta
-    title "AtlasOmnia/donna-starter 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 130 --> 137
-    line [131, 133, 134, 135, 136]
+    title "AtlasOmnia/donna-starter 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 130 --> 138
+    line [131, 133, 134, 135, 136, 137]
 ```
 
-2026-10-28 131 → 2026-11-01 136（+5）
+2026-10-28 131 → 2026-11-02 137（+6）
 
 
 ---

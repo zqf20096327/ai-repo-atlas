@@ -1,6 +1,6 @@
 # cohere-ai/cohere-megakernel
 
-⭐ 102 · C++ · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/cohere-ai/cohere-megakernel) · 组织维护
+⭐ 103 · C++ · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/cohere-ai/cohere-megakernel) · 组织维护
 
 **面向 H100 的 decode megakernel 推理服务引擎，服务 North Mini Code**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-megakernel 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 97 --> 103
-    line [98, 99, 100, 101, 102, 102]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 97 --> 104
+    line [98, 99, 100, 101, 102, 103]
 ```
 
-2026-10-18 98 → 2026-11-01 102（+4）
+2026-10-18 98 → 2026-11-02 103（+5）
 
 
 ---

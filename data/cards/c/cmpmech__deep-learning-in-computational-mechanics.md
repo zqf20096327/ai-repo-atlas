@@ -1,6 +1,6 @@
 # cmpmech/deep-learning-in-computational-mechanics
 
-⭐ 46 · Jupyter Notebook · 推送 2026-09-18 · [GitHub](https://github.com/cmpmech/deep-learning-in-computational-mechanics) · [官网](https://doi.org/10.1007/978-3-031-89529-6) · 组织维护
+⭐ 46 · Jupyter Notebook · 推送 2026-11-01 · [GitHub](https://github.com/cmpmech/deep-learning-in-computational-mechanics) · [官网](https://doi.org/10.1007/978-3-031-89529-6) · 组织维护
 
 **深度学习计算力学教材配套练习、演示与课件**
 
@@ -44,12 +44,12 @@ Springer 2025 出版教材《Deep Learning in Computational Mechanics: An Introd
 ```mermaid
 xychart-beta
     title "cmpmech/deep-learning-in-computational-mechanics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-01 46（+1）
+2026-10-18 45 → 2026-11-02 46（+1）
 
 
 ---

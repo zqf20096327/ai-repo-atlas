@@ -1,6 +1,6 @@
 # hulutech-web/novel-video-workflow
 
-⭐ 341 · Go · 推送 2026-04-12 · [GitHub](https://github.com/hulutech-web/novel-video-workflow) · [官网](https://yadou.net) · 组织维护 · 中文 README
+⭐ 342 · Go · 推送 2026-04-12 · [GitHub](https://github.com/hulutech-web/novel-video-workflow) · [官网](https://yadou.net) · 组织维护 · 中文 README
 
 **本地 AI 小说转视频工作流：章节分割、配音字幕图像到剪映草稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hulutech-web/novel-video-workflow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 335 --> 342
-    line [336, 337, 338, 339, 340, 341, 341]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 335 --> 343
+    line [336, 337, 338, 339, 340, 341, 342]
 ```
 
-2026-10-18 336 → 2026-11-01 341（+5）
+2026-10-18 336 → 2026-11-02 342（+6）
 
 
 ---

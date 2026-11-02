@@ -1,6 +1,6 @@
 # matteocarnelos/microflow-rs
 
-⭐ 196 · Rust · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/matteocarnelos/microflow-rs) · 个人维护
+⭐ 197 · Rust · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/matteocarnelos/microflow-rs) · 个人维护
 
 **面向 MCU 的 Rust TinyML 推理引擎，运行 TFLite 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matteocarnelos/microflow-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 194 --> 197
-    line [195, 196, 196]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 194 --> 198
+    line [195, 196, 197]
 ```
 
-2026-10-18 195 → 2026-11-01 196（+1）
+2026-10-18 195 → 2026-11-02 197（+2）
 
 
 ---

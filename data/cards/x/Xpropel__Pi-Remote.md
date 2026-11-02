@@ -1,6 +1,6 @@
 # Xpropel/Pi-Remote
 
-⭐ 154 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Xpropel/Pi-Remote) · 个人维护 · 中文 README
+⭐ 197 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Xpropel/Pi-Remote) · 个人维护 · 中文 README
 
 **把 pi 终端编码代理会话镜像到浏览器的远程控制工具**
 
@@ -39,6 +39,18 @@
 
 > L13: Pi-Remote attaches to a running pi session through pi's official extension API. It does not modify pi's source code
 > L15: > **Relationship to pi**: Pi-Remote is a companion tool built for pi, Earendil's terminal coding agent, on pi's off
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Xpropel/Pi-Remote 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 150 --> 201
+    line [154, 197]
+```
+
+2026-11-01 154 → 2026-11-02 197（+43）
 
 
 ---

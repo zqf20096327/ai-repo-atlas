@@ -1,6 +1,6 @@
 # nicepkg/boss-skill
 
-⭐ 143 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/nicepkg/boss-skill) · 组织维护 · 中文 README
+⭐ 142 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/nicepkg/boss-skill) · 组织维护 · 中文 README
 
 **生成 AI 老板替身的 Claude Code Skill：PUA 检测、反击话术、劳动法速查**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nicepkg/boss-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 142 --> 145
-    line [143, 144, 143, 143]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 141 --> 145
+    line [143, 144, 143, 142]
 ```
 
-2026-10-18 143 → 2026-11-01 143（+0）
+2026-10-18 143 → 2026-11-02 142（-1）
 
 
 ---

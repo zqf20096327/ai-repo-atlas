@@ -1,6 +1,6 @@
 # tarampampam/describe-commit
 
-⭐ 27 · Go · MIT · 推送 2026-10-11 · [GitHub](https://github.com/tarampampam/describe-commit) · 个人维护
+⭐ 27 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/tarampampam/describe-commit) · 个人维护
 
 **CLI 工具：基于 Git 变更用 AI 生成提交信息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tarampampam/describe-commit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-01 27（+0）
+2026-10-18 27 → 2026-11-02 27（+0）
 
 
 ---

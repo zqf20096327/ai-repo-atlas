@@ -1,6 +1,6 @@
 # alan890104/sumi
 
-⭐ 28 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/alan890104/sumi) · [官网](https://sumivoice.com) · 个人维护 · 中文 README
+⭐ 29 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/alan890104/sumi) · [官网](https://sumivoice.com) · 个人维护 · 中文 README
 
 **macOS 全局语音听写工具：本地 Whisper 转写 + LLM 润色**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alan890104/sumi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-01 28（+0）
+2026-10-18 28 → 2026-11-02 29（+1）
 
 
 ---

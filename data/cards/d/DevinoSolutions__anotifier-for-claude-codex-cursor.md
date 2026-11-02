@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevinoSolutions/anotifier-for-claude-codex-cursor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    title "DevinoSolutions/anotifier-for-claude-codex-cursor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 35]
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-01 35（+2）
+2026-10-18 33 → 2026-11-02 35（+2）
 
 
 ---

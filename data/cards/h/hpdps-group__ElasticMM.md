@@ -1,6 +1,6 @@
 # hpdps-group/ElasticMM
 
-⭐ 47 · Python · NOASSERTION · 推送 2026-05-10 · [GitHub](https://github.com/hpdps-group/ElasticMM) · 组织维护
+⭐ 46 · Python · NOASSERTION · 推送 2026-05-10 · [GitHub](https://github.com/hpdps-group/ElasticMM) · 组织维护
 
 **多模态大模型弹性推理服务系统，动态分配GPU资源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hpdps-group/ElasticMM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 45 --> 48
+    line [47, 46]
 ```
 
-2026-10-18 47 → 2026-11-01 47（+0）
+2026-10-18 47 → 2026-11-02 46（-1）
 
 
 ---

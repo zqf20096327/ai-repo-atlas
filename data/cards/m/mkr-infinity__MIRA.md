@@ -40,6 +40,18 @@
 > L5: **Your intelligent AI assistant that lives on your machine.**
 > L53: 3. **Pick a provider** — the onboarding wizard shows you options like OpenAI, Groq, or Ollama (local)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mkr-infinity/MIRA 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-01 12 → 2026-11-02 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 high · 依据 README sha `68f2e1103067` · [字段定义](../../DATASET.md)*

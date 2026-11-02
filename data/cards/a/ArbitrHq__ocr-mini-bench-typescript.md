@@ -45,12 +45,12 @@ TypeScript 编写的轻量级可复现 OCR 基准：在发票、收据、物流�
 ```mermaid
 xychart-beta
     title "ArbitrHq/ocr-mini-bench-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

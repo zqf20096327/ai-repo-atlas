@@ -1,6 +1,6 @@
 # claudioemmanuel/squeez
 
-⭐ 219 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/claudioemmanuel/squeez) · 个人维护
+⭐ 220 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/claudioemmanuel/squeez) · 个人维护
 
 **给 AI 编程 CLI 用户的 hook 式 token 压缩器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "claudioemmanuel/squeez 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 216 --> 221
-    line [217, 219, 218, 219, 220, 219, 219]
+    line [217, 219, 218, 219, 220, 219, 220]
 ```
 
-2026-10-18 217 → 2026-11-01 219（+2）
+2026-10-18 217 → 2026-11-02 220（+3）
 
 
 ---

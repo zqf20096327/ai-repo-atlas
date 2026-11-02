@@ -1,6 +1,6 @@
 # Yuan-ManX/ai-game-devtools
 
-⭐ 1,377 · JavaScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Yuan-ManX/ai-game-devtools) · [官网](https://yuan-manx.github.io/ai-game-devtools/) · 个人维护 · 中文 README
+⭐ 1,378 · JavaScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Yuan-ManX/ai-game-devtools) · [官网](https://yuan-manx.github.io/ai-game-devtools/) · 个人维护 · 中文 README
 
 **AI 游戏开发工具资源清单：收录 LLM、Agent、3D、音画等工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yuan-ManX/ai-game-devtools 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1366 --> 1378
-    line [1367, 1368, 1372, 1370, 1372, 1375, 1377, 1377]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 1366 --> 1379
+    line [1367, 1368, 1372, 1370, 1372, 1375, 1377, 1378]
 ```
 
-2026-10-18 1,367 → 2026-11-01 1,377（+10）
+2026-10-18 1,367 → 2026-11-02 1,378（+11）
 
 
 ---

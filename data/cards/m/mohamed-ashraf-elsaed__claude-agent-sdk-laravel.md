@@ -1,6 +1,6 @@
 # mohamed-ashraf-elsaed/claude-agent-sdk-laravel
 
-⭐ 18 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel) · [官网](https://packagist.org/packages/mohamed-ashraf-elsaed/claude-agent-sdk-laravel) · 个人维护
+⭐ 18 · PHP · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel) · [官网](https://mohamedashrafelsaed.com/projects/claude-agent-sdk-laravel/) · 个人维护
 
 **PHP/Laravel 封装 Claude Code CLI 的 Agent SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohamed-ashraf-elsaed/claude-agent-sdk-laravel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-01 18（+0）
+2026-10-18 18 → 2026-11-02 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # s2labres/U-Space
 
-⭐ 12 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/s2labres/U-Space) · [官网](http://s2lab.org/U-Space/) · 组织维护
+⭐ 13 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/s2labres/U-Space) · [官网](http://s2lab.org/U-Space/) · 组织维护
 
 **论文官方代码：语言模型推理中不确定性的可解释追踪**
 
@@ -46,12 +46,12 @@ U-Space 论文的官方实现，面向科研复现：通过语言化信号追踪
 ```mermaid
 xychart-beta
     title "s2labres/U-Space 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 12, 12]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 8 --> 14
+    line [9, 10, 12, 13]
 ```
 
-2026-10-18 9 → 2026-11-01 12（+3）
+2026-10-18 9 → 2026-11-02 13（+4）
 
 
 ---

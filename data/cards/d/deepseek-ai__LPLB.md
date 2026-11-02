@@ -1,6 +1,6 @@
 # deepseek-ai/LPLB
 
-⭐ 545 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/deepseek-ai/LPLB) · 组织维护
+⭐ 546 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/deepseek-ai/LPLB) · 组织维护
 
 **面向 MoE 模型训练的专家并行负载均衡器，基于线性规划**
 
@@ -46,12 +46,12 @@ DeepSeek 团队的专家并行负载均衡研究项目：扩展 EPLB，解决 Mo
 ```mermaid
 xychart-beta
     title "deepseek-ai/LPLB 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 537 --> 546
-    line [538, 539, 544, 545, 545]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 537 --> 547
+    line [538, 539, 544, 545, 546]
 ```
 
-2026-10-18 538 → 2026-11-01 545（+7）
+2026-10-18 538 → 2026-11-02 546（+8）
 
 
 ---

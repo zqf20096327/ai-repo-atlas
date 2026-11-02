@@ -1,6 +1,6 @@
 # microsoft/Tokenizer
 
-⭐ 213 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/Tokenizer) · [官网](https://github.com/microsoft/Tokenizer/) · 组织维护
+⭐ 214 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/Tokenizer) · [官网](https://github.com/microsoft/Tokenizer/) · 组织维护
 
 **面向 OpenAI LLM 的 BPE 分词器 TypeScript/.NET 实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Tokenizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 211 --> 215
-    line [212, 213, 214, 213, 213]
+    line [212, 213, 214, 213, 214]
 ```
 
-2026-10-18 212 → 2026-11-01 213（+1）
+2026-10-18 212 → 2026-11-02 214（+2）
 
 
 ---

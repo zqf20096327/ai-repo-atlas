@@ -1,6 +1,6 @@
 # builder-magic/agent-air
 
-⭐ 14 · Rust · MIT · 推送 2026-05-30 · [GitHub](https://github.com/builder-magic/agent-air) · [官网](https://agent-core.ai) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-05-30 · [GitHub](https://github.com/builder-magic/agent-air) · [官网](https://agent-core.ai) · 个人维护
 
 **用 Rust 构建 TUI/服务端 AI Agent 的 SDK 与运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "builder-magic/agent-air 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 17
+    line [14, 16]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # gaomeng1900/ai-motion
 
-⭐ 33 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/gaomeng1900/ai-motion) · [官网](https://gaomeng1900.github.io/ai-motion/) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/gaomeng1900/ai-motion) · [官网](https://gaomeng1900.github.io/ai-motion/) · 个人维护 · 中文 README
 
 **零依赖的 WebGL2 动画边框前端组件库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "gaomeng1900/ai-motion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 31 --> 34
+    line [33, 32]
 ```
 
-2026-10-18 33 → 2026-11-01 33（+0）
+2026-10-18 33 → 2026-11-02 32（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # preaverage/instagram-ai-chatbot
 
-⭐ 63 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/preaverage/instagram-ai-chatbot) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/preaverage/instagram-ai-chatbot) · 个人维护
 
 **用 ChatGPT 自动回复 Instagram 私信的拟人机器人**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "preaverage/instagram-ai-chatbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-11-01 63（+1）
+2026-10-18 62 → 2026-11-02 64（+2）
 
 
 ---

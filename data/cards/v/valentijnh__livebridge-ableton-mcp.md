@@ -45,12 +45,12 @@ Model Context Protocol 服务器，把 Claude（Claude Code、Claude Desktop 或
 ```mermaid
 xychart-beta
     title "valentijnh/livebridge-ableton-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
     y-axis "stars" 5 --> 12
     line [6, 7, 8, 10, 11, 11]
 ```
 
-2026-10-18 6 → 2026-11-01 11（+5）
+2026-10-18 6 → 2026-11-02 11（+5）
 
 
 ---

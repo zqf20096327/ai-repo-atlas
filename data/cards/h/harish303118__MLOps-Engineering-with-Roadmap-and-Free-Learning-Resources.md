@@ -1,6 +1,6 @@
 # harish303118/MLOps-Engineering-with-Roadmap-and-Free-Learning-Resources
 
-⭐ 54 · 推送 2026-01-02 · [GitHub](https://github.com/harish303118/MLOps-Engineering-with-Roadmap-and-Free-Learning-Resources) · [官网](https://codersnote.com/) · 个人维护
+⭐ 55 · 推送 2026-01-02 · [GitHub](https://github.com/harish303118/MLOps-Engineering-with-Roadmap-and-Free-Learning-Resources) · [官网](https://codersnote.com/) · 个人维护
 
 **MLOps 工程师学习路线与免费教程资源清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "harish303118/MLOps-Engineering-with-Roadmap-and-Free-Learning-Resources 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 26 --> 56
-    line [28, 29, 30, 44, 54]
+    title "harish303118/MLOps-Engineering-with-Roadmap-and-Free-Learning-Resources 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 26 --> 57
+    line [28, 29, 30, 44, 54, 55]
 ```
 
-2026-10-18 28 → 2026-11-01 54（+26）
+2026-10-18 28 → 2026-11-02 55（+27）
 
 
 ---

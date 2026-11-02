@@ -1,6 +1,6 @@
 # dalisoft/awesome-ai-coding
 
-⭐ 45 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dalisoft/awesome-ai-coding) · 个人维护
+⭐ 46 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dalisoft/awesome-ai-coding) · 个人维护
 
 **AI 编程工具价格对比清单：按最低套餐价排序编目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dalisoft/awesome-ai-coding 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 40 --> 46
-    line [41, 42, 43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 40 --> 47
+    line [41, 42, 43, 44, 45, 46]
 ```
 
-2026-10-18 41 → 2026-11-01 45（+4）
+2026-10-18 41 → 2026-11-02 46（+5）
 
 
 ---

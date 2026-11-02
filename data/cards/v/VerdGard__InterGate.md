@@ -40,6 +40,18 @@
 > L8: 第三方 AI 应用(ChatBox、NextChat、Open WebUI、自定义脚本...)只需把 `base_url` 指向本网关,
 > L42: |代理网关|`http://0.0.0.0:51234`|OpenAI 兼容 API(`/v1/chat/completions` 等)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VerdGard/InterGate 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-01 13 → 2026-11-02 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `02b47b69d0af` · [字段定义](../../DATASET.md)*

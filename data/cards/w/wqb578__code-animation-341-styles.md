@@ -1,6 +1,6 @@
 # wqb578/code-animation-341-styles
 
-⭐ 11 · HTML · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/wqb578/code-animation-341-styles) · 个人维护 · 中文 README
+⭐ 15 · HTML · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/wqb578/code-animation-341-styles) · 个人维护 · 中文 README
 
 **341 种代码动画风格提示词集合，配本地挑选网页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wqb578/code-animation-341-styles 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 5 --> 12
-    line [6, 9, 11]
+    title "wqb578/code-animation-341-styles 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 5 --> 16
+    line [6, 9, 11, 15]
 ```
 
-2026-10-30 6 → 2026-11-01 11（+5）
+2026-10-30 6 → 2026-11-02 15（+9）
 
 
 ---

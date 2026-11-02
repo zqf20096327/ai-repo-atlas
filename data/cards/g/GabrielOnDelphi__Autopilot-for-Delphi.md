@@ -1,6 +1,6 @@
 # GabrielOnDelphi/Autopilot-for-Delphi
 
-⭐ 34 · Pascal · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/GabrielOnDelphi/Autopilot-for-Delphi) · [官网](https://www.gabrielmoraru.com/autopilot) · 个人维护
+⭐ 37 · Pascal · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/GabrielOnDelphi/Autopilot-for-Delphi) · [官网](https://www.gabrielmoraru.com/autopilot) · 个人维护
 
 **让 AI 直接操作 Delphi 应用 GUI 的 MCP 工具服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GabrielOnDelphi/Autopilot-for-Delphi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 30 --> 35
-    line [31, 34]
+    title "GabrielOnDelphi/Autopilot-for-Delphi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 30 --> 38
+    line [31, 34, 37]
 ```
 
-2026-10-18 31 → 2026-11-01 34（+3）
+2026-10-18 31 → 2026-11-02 37（+6）
 
 
 ---

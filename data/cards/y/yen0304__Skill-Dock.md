@@ -1,6 +1,6 @@
 # yen0304/Skill-Dock
 
-⭐ 17 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/yen0304/Skill-Dock) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/yen0304/Skill-Dock) · 个人维护 · 中文 README
 
 **本地优先的 VS Code/Cursor agent 技能管理扩展**
 
@@ -45,12 +45,12 @@ VS Code / Cursor 扩展，用于在本地（默认 ~/.skilldock/skills/）创建
 ```mermaid
 xychart-beta
     title "yen0304/Skill-Dock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # akfamily/aktools
 
-⭐ 1,503 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/akfamily/aktools) · [官网](https://aktools.akfamily.xyz/) · 个人维护 · 中文 README
+⭐ 1,526 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/akfamily/aktools) · [官网](https://aktools.akfamily.xyz/) · 个人维护 · 中文 README
 
 **把 AKShare 千余财经数据接口封装为 HTTP API 与 MCP 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akfamily/aktools 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-01"]
-    y-axis "stars" 1502 --> 1504
-    line [1503, 1503]
+    x-axis ["2026-10-30", "2026-11-02"]
+    y-axis "stars" 1501 --> 1528
+    line [1503, 1526]
 ```
 
-2026-10-30 1,503 → 2026-11-01 1,503（+0）
+2026-10-30 1,503 → 2026-11-02 1,526（+23）
 
 
 ---

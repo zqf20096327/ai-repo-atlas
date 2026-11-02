@@ -1,6 +1,6 @@
 # VSC-NeuroPilot/neuropilot
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/VSC-NeuroPilot/neuropilot) · [官网](https://vsc-neuropilot.github.io/neuropilot/) · 组织维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/VSC-NeuroPilot/neuropilot) · [官网](https://vsc-neuropilot.github.io/neuropilot/) · 组织维护
 
 **通过 Neuro API 控制 VS Code 的扩展**
 
@@ -42,12 +42,12 @@ VS Code 扩展 NeuroPilot 的主仓库，允许通过 Neuro API 对 VS Code 进�
 ```mermaid
 xychart-beta
     title "VSC-NeuroPilot/neuropilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-01 42（+0）
+2026-10-18 42 → 2026-11-02 42（+0）
 
 
 ---

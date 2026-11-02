@@ -1,6 +1,6 @@
 # wellwelwel/lagune
 
-⭐ 174 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/wellwelwel/lagune) · [官网](https://lagune.ai) · 个人维护
+⭐ 174 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wellwelwel/lagune) · [官网](https://lagune.ai) · 个人维护
 
 **让 AI agent 对任意语言项目做安全加固与审计的命令工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wellwelwel/lagune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 172 --> 175
     line [173, 174, 174]
 ```
 
-2026-10-18 173 → 2026-11-01 174（+1）
+2026-10-18 173 → 2026-11-02 174（+1）
 
 
 ---

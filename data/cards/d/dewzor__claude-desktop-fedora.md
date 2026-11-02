@@ -1,6 +1,6 @@
 # dewzor/claude-desktop-fedora
 
-⭐ 208 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/dewzor/claude-desktop-fedora) · [官网](https://copr.fedorainfracloud.org/coprs/dewzor/claude-desktop/) · 个人维护
+⭐ 211 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/dewzor/claude-desktop-fedora) · [官网](https://copr.fedorainfracloud.org/coprs/dewzor/claude-desktop/) · 个人维护
 
 **将 Claude Desktop 官方 Linux 构建重打包为 Fedora 原生 RPM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dewzor/claude-desktop-fedora 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 161 --> 212
-    line [165, 168, 175, 180, 184, 189, 191, 195, 198, 201, 204, 207, 208]
+    title "dewzor/claude-desktop-fedora 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 161 --> 215
+    line [165, 168, 175, 180, 184, 189, 191, 195, 198, 201, 204, 207, 208, 211]
 ```
 
-2026-10-18 165 → 2026-11-01 208（+43）
+2026-10-18 165 → 2026-11-02 211（+46）
 
 
 ---

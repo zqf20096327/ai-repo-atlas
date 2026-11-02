@@ -1,6 +1,6 @@
 # VAST-AI-Research/TripoSplat
 
-⭐ 1,419 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/VAST-AI-Research/TripoSplat) · [官网](https://www.tripo3d.ai/research/triposplat) · 组织维护
+⭐ 1,424 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/VAST-AI-Research/TripoSplat) · [官网](https://www.tripo3d.ai/research/triposplat) · 组织维护
 
 **单张 2D 图像生成可变数量 3D 高斯的推理模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VAST-AI-Research/TripoSplat 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1407 --> 1420
-    line [1408, 1410, 1416, 1419]
+    title "VAST-AI-Research/TripoSplat 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1407 --> 1425
+    line [1408, 1410, 1416, 1419, 1424]
 ```
 
-2026-10-29 1,408 → 2026-11-01 1,419（+11）
+2026-10-29 1,408 → 2026-11-02 1,424（+16）
 
 
 ---

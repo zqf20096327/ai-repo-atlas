@@ -1,6 +1,6 @@
 # burnshall-ui/vibeCNC
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/burnshall-ui/vibeCNC) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/burnshall-ui/vibeCNC) · 个人维护
 
 **给机加工人员的 Fanuc 风格 CNC 车床模拟器，附 AI G 代码辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "burnshall-ui/vibeCNC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

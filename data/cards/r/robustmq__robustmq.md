@@ -1,6 +1,6 @@
 # robustmq/robustmq
 
-⭐ 1,848 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/robustmq/robustmq) · [官网](http://robustmq.com/) · 组织维护 · 中文 README
+⭐ 1,849 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/robustmq/robustmq) · [官网](http://robustmq.com/) · 组织维护 · 中文 README
 
 **Rust 单二进制统一消息引擎，多协议共享存储，含 AI Agent 通信协议 mq9**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "robustmq/robustmq 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 1838 --> 1849
-    line [1839, 1843, 1844, 1846, 1847, 1848]
+    title "robustmq/robustmq 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1838 --> 1850
+    line [1839, 1843, 1844, 1846, 1847, 1848, 1849]
 ```
 
-2026-10-18 1,839 → 2026-11-01 1,848（+9）
+2026-10-18 1,839 → 2026-11-02 1,849（+10）
 
 
 ---

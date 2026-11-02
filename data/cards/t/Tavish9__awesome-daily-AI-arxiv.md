@@ -1,6 +1,6 @@
 # Tavish9/awesome-daily-AI-arxiv
 
-⭐ 123 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Tavish9/awesome-daily-AI-arxiv) · 个人维护 · 中文 README
+⭐ 124 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Tavish9/awesome-daily-AI-arxiv) · 个人维护 · 中文 README
 
 **AI/NLP/CV/机器人领域 arXiv 论文每日摘要清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tavish9/awesome-daily-AI-arxiv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 121 --> 125
+    line [122, 123, 124]
 ```
 
-2026-10-18 122 → 2026-11-01 123（+1）
+2026-10-18 122 → 2026-11-02 124（+2）
 
 
 ---

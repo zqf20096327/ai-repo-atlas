@@ -1,6 +1,6 @@
 # AzureCosmosDB/gallery
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/AzureCosmosDB/gallery) · [官网](https://azurecosmosdb.github.io/gallery/) · 组织维护
+⭐ 14 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AzureCosmosDB/gallery) · [官网](https://azurecosmosdb.github.io/gallery/) · 组织维护
 
 **Azure Cosmos DB 资源聚合站点：代码示例、文档、视频、模板**
 
@@ -44,12 +44,12 @@ Azure Cosmos DB 官方维护的资源画廊网站（Docusaurus 构建，发布�
 ```mermaid
 xychart-beta
     title "AzureCosmosDB/gallery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

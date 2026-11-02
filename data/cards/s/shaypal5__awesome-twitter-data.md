@@ -1,6 +1,6 @@
 # shaypal5/awesome-twitter-data
 
-⭐ 1,138 · CC0-1.0 · 推送 2026-05-29 · [GitHub](https://github.com/shaypal5/awesome-twitter-data) · 个人维护
+⭐ 1,139 · CC0-1.0 · 推送 2026-05-29 · [GitHub](https://github.com/shaypal5/awesome-twitter-data) · 个人维护
 
 **Twitter 数据集与相关资源的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "shaypal5/awesome-twitter-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 1136 --> 1139
-    line [1137, 1138, 1138]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 1136 --> 1140
+    line [1137, 1138, 1139]
 ```
 
-2026-10-18 1,137 → 2026-11-01 1,138（+1）
+2026-10-18 1,137 → 2026-11-02 1,139（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ishangautam7/Talvio
 
-⭐ 43 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ishangautam7/Talvio) · [官网](https://talvio.sentramind.dev) · 个人维护 · 中文 README
+⭐ 50 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ishangautam7/Talvio) · [官网](https://talvio.sentramind.dev) · 个人维护 · 中文 README
 
 **本地优先的桌面语音助手：任意应用听写、语音执行命令与会议记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ishangautam7/Talvio 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 16 --> 45
-    line [18, 26, 33, 41, 43]
+    title "ishangautam7/Talvio 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 15 --> 53
+    line [18, 26, 33, 41, 43, 50]
 ```
 
-2026-10-28 18 → 2026-11-01 43（+25）
+2026-10-28 18 → 2026-11-02 50（+32）
 
 
 ---

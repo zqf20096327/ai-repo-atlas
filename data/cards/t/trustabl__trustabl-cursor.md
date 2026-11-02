@@ -45,13 +45,13 @@ Trustabl for Cursor 是一个 Cursor 插件，向 Cursor agent 提供 MCP server
 
 ```mermaid
 xychart-beta
-    title "trustabl/trustabl-cursor 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01"]
+    title "trustabl/trustabl-cursor 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-02"]
     y-axis "stars" 23 --> 30
-    line [24, 25, 29]
+    line [24, 25, 29, 29]
 ```
 
-2026-10-23 24 → 2026-11-01 29（+5）
+2026-10-23 24 → 2026-11-02 29（+5）
 
 
 ---

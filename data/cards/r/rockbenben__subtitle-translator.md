@@ -1,6 +1,6 @@
 # rockbenben/subtitle-translator
 
-⭐ 1,185 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rockbenben/subtitle-translator) · [官网](https://tools.newzone.top/en/subtitle-translator) · 个人维护 · 中文 README
+⭐ 1,186 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rockbenben/subtitle-translator) · [官网](https://tools.newzone.top/en/subtitle-translator) · 个人维护 · 中文 README
 
 **浏览器端整季字幕批量翻译工具，时轴本地保护**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rockbenben/subtitle-translator 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1167 --> 1186
-    line [1168, 1169, 1172, 1174, 1176, 1179, 1180, 1181, 1183, 1185, 1185]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1167 --> 1187
+    line [1168, 1169, 1172, 1174, 1176, 1179, 1180, 1181, 1183, 1185, 1186]
 ```
 
-2026-10-18 1,168 → 2026-11-01 1,185（+17）
+2026-10-18 1,168 → 2026-11-02 1,186（+18）
 
 
 ---

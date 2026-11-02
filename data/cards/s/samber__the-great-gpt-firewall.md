@@ -1,6 +1,6 @@
 # samber/the-great-gpt-firewall
 
-⭐ 101 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samber/the-great-gpt-firewall) · 个人维护
+⭐ 101 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/samber/the-great-gpt-firewall) · 个人维护
 
 **记录各网站通过 robots.txt 屏蔽 AI 爬虫的扫描清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "samber/the-great-gpt-firewall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-11-01 101（+0）
+2026-10-18 101 → 2026-11-02 101（+0）
 
 
 ---

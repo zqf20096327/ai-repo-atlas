@@ -1,6 +1,6 @@
 # rasidi3112/IMAGINE-CUP-MICROSOFT-2026
 
-⭐ 12 · Dart · MIT · 推送 2026-01-07 · [GitHub](https://github.com/rasidi3112/IMAGINE-CUP-MICROSOFT-2026) · 组织维护
+⭐ 13 · Dart · MIT · 推送 2026-01-07 · [GitHub](https://github.com/rasidi3112/IMAGINE-CUP-MICROSOFT-2026) · 组织维护
 
 **面向印尼 NTB 农户的植物病害 AI 检测移动应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rasidi3112/IMAGINE-CUP-MICROSOFT-2026 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

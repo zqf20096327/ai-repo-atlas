@@ -1,6 +1,6 @@
 # kailiang0120/monaw
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/kailiang0120/monaw) · 个人维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/kailiang0120/monaw) · 个人维护
 
 **Windows 开源 AI 桌面助手：聊天驱动文件、命令与浏览器自动化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kailiang0120/monaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 81 --> 84
     line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-11-01 83（+1）
+2026-10-18 82 → 2026-11-02 83（+1）
 
 
 ---

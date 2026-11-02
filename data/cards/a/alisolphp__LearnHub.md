@@ -1,6 +1,6 @@
 # alisolphp/LearnHub
 
-⭐ 15 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/alisolphp/LearnHub) · [官网](https://LearnHubAI.github.io) · 个人维护
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/alisolphp/LearnHub) · [官网](https://LearnHubAI.github.io) · 个人维护
 
 **250+ 技术课程/面试主题摘要库，接入 AI 聊天机器人辅助学习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alisolphp/LearnHub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 13 --> 26
+    line [14, 15, 25]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 25（+11）
 
 
 ---

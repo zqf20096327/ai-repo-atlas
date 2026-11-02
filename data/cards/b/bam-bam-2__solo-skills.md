@@ -1,6 +1,6 @@
 # bam-bam-2/solo-skills
 
-⭐ 418 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/bam-bam-2/solo-skills) · [官网](https://get100.co.kr) · 个人维护
+⭐ 432 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/bam-bam-2/solo-skills) · [官网](https://get100.co.kr) · 个人维护
 
 **韩国个体创业者的 38 个 AI agent 技能集：可复用自动化流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bam-bam-2/solo-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 360 --> 423
-    line [365, 366, 367, 368, 369, 418]
+    title "bam-bam-2/solo-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 359 --> 438
+    line [365, 366, 367, 368, 369, 418, 432]
 ```
 
-2026-10-18 365 → 2026-11-01 418（+53）
+2026-10-18 365 → 2026-11-02 432（+67）
 
 
 ---

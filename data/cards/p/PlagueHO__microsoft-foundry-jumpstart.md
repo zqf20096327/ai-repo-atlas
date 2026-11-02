@@ -1,6 +1,6 @@
 # PlagueHO/microsoft-foundry-jumpstart
 
-⭐ 12 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/PlagueHO/microsoft-foundry-jumpstart) · [官网](https://danielscottraynsford.com/projects/azure-ai-foundry-jumpstart/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/PlagueHO/microsoft-foundry-jumpstart) · [官网](https://danielscottraynsford.com/projects/azure-ai-foundry-jumpstart/) · 个人维护
 
 **面向 Azure 订阅的 Microsoft Foundry 零信任环境部署加速器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PlagueHO/microsoft-foundry-jumpstart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

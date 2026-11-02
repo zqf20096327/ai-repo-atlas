@@ -1,6 +1,6 @@
 # WenyuChiou/research-hub
 
-⭐ 67 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/WenyuChiou/research-hub) · [官网](https://pypi.org/project/research-hub-pipeline/) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/WenyuChiou/research-hub) · [官网](https://pypi.org/project/research-hub-pipeline/) · 个人维护 · 中文 README
 
 **面向研究者的本地科研工作区，供人与 AI 助手协作管理文献到手稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WenyuChiou/research-hub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-02"]
     y-axis "stars" 63 --> 68
     line [64, 65, 66, 65, 66, 67, 67]
 ```
 
-2026-10-18 64 → 2026-11-01 67（+3）
+2026-10-18 64 → 2026-11-02 67（+3）
 
 
 ---

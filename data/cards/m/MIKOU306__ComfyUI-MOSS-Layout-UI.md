@@ -1,6 +1,6 @@
 # MIKOU306/ComfyUI-MOSS-Layout-UI
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MIKOU306/ComfyUI-MOSS-Layout-UI) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MIKOU306/ComfyUI-MOSS-Layout-UI) · 个人维护 · 中文 README
 
 **ComfyUI 排版插件：画布拖框生成 MOSS-Image 布局提示词 JSON**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MIKOU306/ComfyUI-MOSS-Layout-UI 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 2 --> 18
-    line [3, 8, 10, 15, 17, 17]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 2 --> 19
+    line [3, 8, 10, 15, 17, 18]
 ```
 
-2026-10-22 3 → 2026-11-01 17（+14）
+2026-10-22 3 → 2026-11-02 18（+15）
 
 
 ---

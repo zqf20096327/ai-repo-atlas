@@ -1,6 +1,6 @@
 # M-Pineapple/member-berries-apple-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/M-Pineapple/member-berries-apple-mcp) · [官网](https://glama.ai/mcp/servers/M-Pineapple/member-berries-apple-mcp) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/M-Pineapple/member-berries-apple-mcp) · [官网](https://glama.ai/mcp/servers/M-Pineapple/member-berries-apple-mcp) · 个人维护
 
 **让 MCP 客户端读写 Apple 日历/备忘录/提醒事项的 macOS MCP 服务器**
 
@@ -46,12 +46,12 @@ apple-mcp 的个性化分支，以 TypeScript 编写的 MCP 服务器，通过 m
 ```mermaid
 xychart-beta
     title "M-Pineapple/member-berries-apple-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

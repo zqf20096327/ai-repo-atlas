@@ -1,6 +1,6 @@
 # eko24ive/pi-ask
 
-⭐ 55 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/eko24ive/pi-ask) · [官网](https://www.npmjs.com/package/@eko24ive/pi-ask) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/eko24ive/pi-ask) · [官网](https://www.npmjs.com/package/@eko24ive/pi-ask) · 个人维护
 
 **Pi 编码代理的澄清提问扩展：终端 UI 中提问并回传规范化答案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eko24ive/pi-ask 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 55, 55]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 55, 56]
 ```
 
-2026-10-18 53 → 2026-11-01 55（+2）
+2026-10-18 53 → 2026-11-02 56（+3）
 
 
 ---

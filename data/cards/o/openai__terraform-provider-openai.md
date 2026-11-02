@@ -45,12 +45,12 @@ OpenAI 官方维护的 Terraform Provider，通过 OpenAI Administration API 管
 ```mermaid
 xychart-beta
     title "openai/terraform-provider-openai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
     y-axis "stars" 35 --> 42
     line [36, 39, 41, 41]
 ```
 
-2026-10-18 36 → 2026-11-01 41（+5）
+2026-10-18 36 → 2026-11-02 41（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/github-agent-mode-webinar
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/github-agent-mode-webinar) · [官网](https://github.com/orgs/community/discussions/159992#discussioncomment-13410543) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/microsoft/github-agent-mode-webinar) · [官网](https://github.com/orgs/community/discussions/159992#discussioncomment-13410543) · 组织维护
 
 **GitHub Copilot 能力演示应用（Webinar 配套电商网站示例）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/github-agent-mode-webinar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jananthan30/Resume-Builder
 
-⭐ 92 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/jananthan30/Resume-Builder) · 个人维护 · 中文 README
+⭐ 93 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/jananthan30/Resume-Builder) · 个人维护 · 中文 README
 
 **面向求职者的简历/求职信生成工具：拒绝编造经历**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jananthan30/Resume-Builder 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 87 --> 93
-    line [88, 89, 91, 92, 92]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 87 --> 94
+    line [88, 89, 91, 92, 93]
 ```
 
-2026-10-18 88 → 2026-11-01 92（+4）
+2026-10-18 88 → 2026-11-02 93（+5）
 
 
 ---

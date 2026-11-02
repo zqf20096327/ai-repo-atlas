@@ -1,6 +1,6 @@
 # Fanfulla/Lupin
 
-⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/Fanfulla/Lupin) · [官网](https://www.npmjs.com/package/lupin-code) · 个人维护
+⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/Fanfulla/Lupin) · [官网](https://www.npmjs.com/package/lupin-code) · 个人维护
 
 **让 Claude Code 接入任意 LLM 提供商的本地代理路由器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Fanfulla/Lupin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-18 35 → 2026-11-01 35（+0）
+2026-10-18 35 → 2026-11-02 34（-1）
 
 
 ---

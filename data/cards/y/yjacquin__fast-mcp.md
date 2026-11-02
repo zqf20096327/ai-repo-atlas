@@ -1,6 +1,6 @@
 # yjacquin/fast-mcp
 
-⭐ 1,192 · Ruby · MIT · 推送 2025-12-15 · [GitHub](https://github.com/yjacquin/fast-mcp) · 个人维护
+⭐ 1,191 · Ruby · MIT · 推送 2025-12-15 · [GitHub](https://github.com/yjacquin/fast-mcp) · 个人维护
 
 **MCP 协议的 Ruby 实现：让 AI 模型调用 Ruby 应用功能**
 
@@ -45,12 +45,12 @@ Model Context Protocol 的 Ruby 语言实现库，以 Gem 形式提供：通过 
 ```mermaid
 xychart-beta
     title "yjacquin/fast-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 1191 --> 1193
-    line [1192, 1192]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 1190 --> 1193
+    line [1192, 1191]
 ```
 
-2026-10-18 1,192 → 2026-11-01 1,192（+0）
+2026-10-18 1,192 → 2026-11-02 1,191（-1）
 
 
 ---

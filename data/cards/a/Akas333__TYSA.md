@@ -1,6 +1,6 @@
 # Akas333/TYSA
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Akas333/TYSA) · [官网](https://akas333.github.io/TYSA/) · 个人维护
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Akas333/TYSA) · [官网](https://akas333.github.io/TYSA/) · 个人维护
 
 **自适应学习桌面应用：测出你懂到哪，从那里开始教**
 
@@ -40,6 +40,18 @@ Electron 桌面应用，构建于 Meta 的 Muse 模型之上。教学流程分�
 > L18: Most AI learning tools just explain. TYSA is an engineered learning harness: it first measures what *you* already u
 > L20: Built on Meta's Muse models for the **Meta Global AI Developer Hackathon** (Indie Developer track).
 > L72: Each Meta model does a separate job in the teaching loop. All of them go through one Meta Model API key.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Akas333/TYSA 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 17
+    line [12, 16]
+```
+
+2026-11-01 12 → 2026-11-02 16（+4）
 
 
 ---

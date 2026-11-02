@@ -1,6 +1,6 @@
 # yuanzhw/AI-bioworkflow
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/yuanzhw/AI-bioworkflow) · [官网](https://yuanzhw.com) · 个人维护 · 中文 README
+⭐ 96 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/yuanzhw/AI-bioworkflow) · [官网](https://yuanzhw.com) · 个人维护 · 中文 README
 
 **面向生信分析的 LLM 规划约束型工作流编译器，生成可审计 WDL 1.0**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuanzhw/AI-bioworkflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 95 --> 98
     line [97, 96, 96]
 ```
 
-2026-10-18 97 → 2026-11-01 96（-1）
+2026-10-18 97 → 2026-11-02 96（-1）
 
 
 ---

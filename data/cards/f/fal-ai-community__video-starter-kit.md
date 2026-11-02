@@ -1,6 +1,6 @@
 # fal-ai-community/video-starter-kit
 
-⭐ 2,411 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fal-ai-community/video-starter-kit) · [官网](https://fal-video-studio.vercel.app) · 组织维护
+⭐ 2,413 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fal-ai-community/video-starter-kit) · [官网](https://fal-video-studio.vercel.app) · 组织维护
 
 **浏览器端 AI 视频应用开发脚手架（Next.js+Remotion+fal.ai）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fal-ai-community/video-starter-kit 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 2407 --> 2412
-    line [2408, 2409, 2410, 2411]
+    title "fal-ai-community/video-starter-kit 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2407 --> 2414
+    line [2408, 2409, 2410, 2411, 2413]
 ```
 
-2026-10-23 2,408 → 2026-11-01 2,411（+3）
+2026-10-23 2,408 → 2026-11-02 2,413（+5）
 
 
 ---

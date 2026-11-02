@@ -1,6 +1,6 @@
 # LakyFx/deepseek-v41-flash-exl3-tp3-tp4-spark
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/LakyFx/deepseek-v41-flash-exl3-tp3-tp4-spark) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/LakyFx/deepseek-v41-flash-exl3-tp3-tp4-spark) · 个人维护
 
 **在 3-4 台 DGX Spark 上运行 DeepSeek 1017 EXL3 的推理配方与基准仓库**
 
@@ -40,6 +40,18 @@ TensorFold 项目的部署配方仓库：给出在 3 或 4 台 NVIDIA DGX Spark 
 > L1: # DeepSeek V4.1 Flash on 3 or 4 DGX Sparks
 > L9: |Hardware|3 DGX Sparks|4 DGX Sparks, switchless cycle|
 > L77: - **Build / install / launch 1.2.8** · profile · exact source
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LakyFx/deepseek-v41-flash-exl3-tp3-tp4-spark 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 18
+    line [15, 17]
+```
+
+2026-11-01 15 → 2026-11-02 17（+2）
 
 
 ---

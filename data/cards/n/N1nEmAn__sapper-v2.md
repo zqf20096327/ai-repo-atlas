@@ -1,6 +1,6 @@
 # N1nEmAn/sapper-v2
 
-⭐ 334 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · 个人维护 · 中文 README
+⭐ 432 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · 个人维护 · 中文 README
 
 **AI 多智能体军团自主渗透测试框架，含分层事实图谱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "N1nEmAn/sapper-v2 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 66 --> 358
-    line [90, 334]
+    title "N1nEmAn/sapper-v2 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 56 --> 466
+    line [90, 334, 432]
 ```
 
-2026-10-31 90 → 2026-11-01 334（+244）
+2026-10-31 90 → 2026-11-02 432（+342）
 
 
 ---

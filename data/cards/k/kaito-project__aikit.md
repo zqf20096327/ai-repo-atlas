@@ -1,6 +1,6 @@
 # kaito-project/aikit
 
-⭐ 540 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kaito-project/aikit) · [官网](https://kaito-project.github.io/aikit/) · 组织维护
+⭐ 541 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kaito-project/aikit) · [官网](https://kaito-project.github.io/aikit/) · 组织维护
 
 **面向开发者的开源 LLM 部署/微调/打包平台**
 
@@ -47,12 +47,12 @@ AIKit 提供基于 LocalAI 的 OpenAI 兼容推理服务、基于 Unsloth 的微
 ```mermaid
 xychart-beta
     title "kaito-project/aikit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 538 --> 541
-    line [539, 540, 540]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 538 --> 542
+    line [539, 540, 541]
 ```
 
-2026-10-18 539 → 2026-11-01 540（+1）
+2026-10-18 539 → 2026-11-02 541（+2）
 
 
 ---

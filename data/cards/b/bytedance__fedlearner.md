@@ -1,6 +1,6 @@
 # bytedance/fedlearner
 
-⭐ 899 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/bytedance/fedlearner) · 组织维护
+⭐ 898 · Python · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/bytedance/fedlearner) · 组织维护
 
 **多方协作机器学习框架：跨机构联合建模**
 
@@ -42,12 +42,12 @@ Fedlearner 是字节跳动开源的多方协作机器学习框架，支持在数
 ```mermaid
 xychart-beta
     title "bytedance/fedlearner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 898 --> 900
-    line [899, 899]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 897 --> 900
+    line [899, 898]
 ```
 
-2026-10-18 899 → 2026-11-01 899（+0）
+2026-10-18 899 → 2026-11-02 898（-1）
 
 
 ---

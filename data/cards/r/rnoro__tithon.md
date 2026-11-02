@@ -1,6 +1,6 @@
 # rnoro/tithon
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rnoro/tithon) · [官网](https://rnoro.github.io/tithon/) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rnoro/tithon) · [官网](https://rnoro.github.io/tithon/) · 个人维护
 
 **让 Jupyter 内核与输出在客户端断开后存活的守护进程工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rnoro/tithon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

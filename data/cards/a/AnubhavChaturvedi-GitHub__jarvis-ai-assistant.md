@@ -1,6 +1,6 @@
 # AnubhavChaturvedi-GitHub/jarvis-ai-assistant
 
-⭐ 384 · Python · GPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) · [官网](https://www.youtube.com/@NetHyTech) · 个人维护
+⭐ 387 · Python · GPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) · [官网](https://www.youtube.com/@NetHyTech) · 个人维护
 
 **语音控制的 Python 桌面 AI 助手：听说、联网、控电脑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnubhavChaturvedi-GitHub/jarvis-ai-assistant 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 361 --> 386
-    line [363, 365, 367, 368, 369, 371, 373, 377, 381, 382, 384]
+    title "AnubhavChaturvedi-GitHub/jarvis-ai-assistant 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 361 --> 389
+    line [363, 365, 367, 368, 369, 371, 373, 377, 381, 382, 384, 387]
 ```
 
-2026-10-18 363 → 2026-11-01 384（+21）
+2026-10-18 363 → 2026-11-02 387（+24）
 
 
 ---

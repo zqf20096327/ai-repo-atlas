@@ -1,6 +1,6 @@
 # JungleM0nkey/apehost-mikrotik-controller
 
-⭐ 22 · TypeScript · MIT · 推送 2025-11-05 · [GitHub](https://github.com/JungleM0nkey/apehost-mikrotik-controller) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带 AI 诊断助手的 MikroTik 路由器 Web 管理面板**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

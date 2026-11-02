@@ -1,6 +1,6 @@
 # FXTD-Studios/radiance
 
-⭐ 257 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/FXTD-Studios/radiance) · [官网](https://www.fxtdstudios.com) · 组织维护
+⭐ 257 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/FXTD-Studios/radiance) · [官网](https://www.fxtdstudios.com) · 组织维护
 
 **ComfyUI 的 HDR/色彩管理/VFX 节点集，含生成与审看工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "FXTD-Studios/radiance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
     y-axis "stars" 253 --> 258
     line [254, 255, 257, 257]
 ```
 
-2026-10-18 254 → 2026-11-01 257（+3）
+2026-10-18 254 → 2026-11-02 257（+3）
 
 
 ---

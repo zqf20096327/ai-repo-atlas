@@ -1,6 +1,6 @@
 # sudomichael/agentgraphed
 
-⭐ 47 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/sudomichael/agentgraphed) · [官网](https://github.com/sudomichael/agentgraphed) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/sudomichael/agentgraphed) · [官网](https://github.com/sudomichael/agentgraphed) · 个人维护
 
 **本地 AI 编程会话的搜索与分析仪表盘（Claude Code/Codex）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sudomichael/agentgraphed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 45 --> 48
+    line [47, 46]
 ```
 
-2026-10-18 47 → 2026-11-01 47（+0）
+2026-10-18 47 → 2026-11-02 46（-1）
 
 
 ---

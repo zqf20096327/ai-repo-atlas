@@ -45,13 +45,13 @@ macOS 守护进程，将 Claude Code 或 Codex CLI 封装为可通过 iMessage �
 
 ```mermaid
 xychart-beta
-    title "Deibler/edmund-harness 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "Deibler/edmund-harness 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 23
-    line [14, 20, 21, 22]
+    line [14, 20, 21, 22, 22]
 ```
 
-2026-10-26 14 → 2026-11-01 22（+8）
+2026-10-26 14 → 2026-11-02 22（+8）
 
 
 ---

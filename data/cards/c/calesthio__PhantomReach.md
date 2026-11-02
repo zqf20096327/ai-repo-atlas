@@ -1,6 +1,6 @@
 # calesthio/PhantomReach
 
-⭐ 73 · TypeScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/calesthio/PhantomReach) · [官网](https://github.com/calesthio/PhantomReach) · 个人维护
+⭐ 75 · TypeScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/calesthio/PhantomReach) · [官网](https://github.com/calesthio/PhantomReach) · 个人维护
 
 **给营销人员的本地商家情报审计工具，AI 生成顾问式报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "calesthio/PhantomReach 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 66 --> 74
-    line [67, 69, 70, 71, 72, 73, 73]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 66 --> 76
+    line [67, 69, 70, 71, 72, 73, 75]
 ```
 
-2026-10-18 67 → 2026-11-01 73（+6）
+2026-10-18 67 → 2026-11-02 75（+8）
 
 
 ---

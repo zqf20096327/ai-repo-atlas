@@ -1,6 +1,6 @@
 # Paritok-official/paritok-4b-v1
 
-⭐ 1,441 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/Paritok-official/paritok-4b-v1) · [官网](https://www.paritok.com/) · 组织维护
+⭐ 1,442 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/Paritok-official/paritok-4b-v1) · [官网](https://www.paritok.com/) · 组织维护
 
 **AI 编程 agent 的无损 token 压缩网关，降低输入 token 账单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Paritok-official/paritok-4b-v1 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02"]
     y-axis "stars" 1439 --> 1464
-    line [1461, 1459, 1460, 1462, 1441, 1441]
+    line [1461, 1459, 1460, 1462, 1441, 1442]
 ```
 
-2026-10-18 1,461 → 2026-11-01 1,441（-20）
+2026-10-18 1,461 → 2026-11-02 1,442（-19）
 
 
 ---

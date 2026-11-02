@@ -1,6 +1,6 @@
 # microsoft/aifundamentalbootcamp
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-04-21 · [GitHub](https://github.com/microsoft/aifundamentalbootcamp) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软应用创新 AI 基础训练营：8 课实操课程材料**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

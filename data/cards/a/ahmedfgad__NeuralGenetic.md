@@ -43,13 +43,13 @@ NeuralGenetic 是 PyGAD 库的 pygad.gann 模块源码仓库，用于以遗传�
 
 ```mermaid
 xychart-beta
-    title "ahmedfgad/NeuralGenetic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    title "ahmedfgad/NeuralGenetic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 253 --> 256
-    line [254, 255, 254]
+    line [254, 255, 254, 254]
 ```
 
-2026-10-18 254 → 2026-11-01 254（+0）
+2026-10-18 254 → 2026-11-02 254（+0）
 
 
 ---

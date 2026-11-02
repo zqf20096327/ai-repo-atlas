@@ -1,6 +1,6 @@
 # zhouchunyuan-cn/PyAgentKit
 
-⭐ 13 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zhouchunyuan-cn/PyAgentKit) · [官网](https://github.com/zhouchunyuan-cn/PyAgentKit/blob/main/docs/README.md) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zhouchunyuan-cn/PyAgentKit) · [官网](https://github.com/zhouchunyuan-cn/PyAgentKit/blob/main/docs/README.md) · 个人维护 · 中文 README
 
 **可通读的教学型 AI Agent 框架：7000 行源码配 9 章中文教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhouchunyuan-cn/PyAgentKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 10 --> 14
-    line [11, 13]
+    title "zhouchunyuan-cn/PyAgentKit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 16
+    line [11, 13, 15]
 ```
 
-2026-10-18 11 → 2026-11-01 13（+2）
+2026-10-18 11 → 2026-11-02 15（+4）
 
 
 ---

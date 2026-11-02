@@ -1,6 +1,6 @@
 # Dix01/JARVIS
 
-⭐ 20 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Dix01/JARVIS) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Dix01/JARVIS) · 个人维护
 
 **Windows 本地优先语音 AI 助手：语音/视觉/图像与3D生成/80+工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dix01/JARVIS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-01 20（+2）
+2026-10-18 18 → 2026-11-02 21（+3）
 
 
 ---

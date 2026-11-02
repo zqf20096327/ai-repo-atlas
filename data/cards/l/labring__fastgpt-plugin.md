@@ -1,6 +1,6 @@
 # labring/fastgpt-plugin
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/labring/fastgpt-plugin) · 组织维护 · 中文 README
+⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/labring/fastgpt-plugin) · 组织维护 · 中文 README
 
 **FastGPT 插件系统：模型预设、系统工具与扩展功能**
 
@@ -45,12 +45,12 @@ FastGPT 团队将原系统工具迁移至本仓库并在此开发新工具，目
 ```mermaid
 xychart-beta
     title "labring/fastgpt-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-01 48（+0）
+2026-10-18 48 → 2026-11-02 48（+0）
 
 
 ---

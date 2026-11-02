@@ -1,6 +1,6 @@
 # speedyk-005/yasbd-lib
 
-⭐ 35 · Python · MPL-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/speedyk-005/yasbd-lib) · [官网](https://deepwiki.com/speedyk-005/yasbd-lib) · 个人维护
+⭐ 35 · Python · MPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/speedyk-005/yasbd-lib) · [官网](https://deepwiki.com/speedyk-005/yasbd-lib) · 个人维护
 
 **面向生产 NLP 管线的多语言规则式句子边界检测库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "speedyk-005/yasbd-lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "speedyk-005/yasbd-lib 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-01 35（+1）
+2026-10-18 34 → 2026-11-02 35（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # badchars/darknet-mcp-server
 
-⭐ 521 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/badchars/darknet-mcp-server) · [官网](https://www.npmjs.com/package/darknet-mcp-server) · 个人维护 · 中文 README
+⭐ 524 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/badchars/darknet-mcp-server) · [官网](https://www.npmjs.com/package/darknet-mcp-server) · 个人维护 · 中文 README
 
 **给 AI agent 的暗网与威胁情报 MCP 服务器（66 工具/16 源）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "badchars/darknet-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 520 --> 522
-    line [521, 521]
+    x-axis ["2026-10-31", "2026-11-02"]
+    y-axis "stars" 520 --> 525
+    line [521, 524]
 ```
 
-2026-10-31 521 → 2026-11-01 521（+0）
+2026-10-31 521 → 2026-11-02 524（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # PAIR-code/what-if-tool
 
-⭐ 1,024 · HTML · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/PAIR-code/what-if-tool) · [官网](https://pair-code.github.io/what-if-tool) · 组织维护
+⭐ 1,026 · HTML · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/PAIR-code/what-if-tool) · [官网](https://pair-code.github.io/what-if-tool) · 组织维护
 
 **黑盒 ML 模型的可视化理解与公平性分析工具**
 
@@ -46,12 +46,12 @@ Google PAIR 开发的 What-If Tool（WIT），为已训练的分类或回归模�
 ```mermaid
 xychart-beta
     title "PAIR-code/what-if-tool 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 1022 --> 1025
-    line [1023, 1024, 1024]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 1022 --> 1027
+    line [1023, 1024, 1026]
 ```
 
-2026-10-18 1,023 → 2026-11-01 1,024（+1）
+2026-10-18 1,023 → 2026-11-02 1,026（+3）
 
 
 ---

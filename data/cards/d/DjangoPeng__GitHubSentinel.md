@@ -1,6 +1,6 @@
 # DjangoPeng/GitHubSentinel
 
-⭐ 365 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/DjangoPeng/GitHubSentinel) · 个人维护 · 中文 README
+⭐ 366 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/DjangoPeng/GitHubSentinel) · 个人维护 · 中文 README
 
 **AI Agent：自动追踪 GitHub 开源项目动态并生成报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DjangoPeng/GitHubSentinel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 364 --> 367
-    line [366, 365, 365]
+    line [366, 365, 366]
 ```
 
-2026-10-18 366 → 2026-11-01 365（-1）
+2026-10-18 366 → 2026-11-02 366（+0）
 
 
 ---

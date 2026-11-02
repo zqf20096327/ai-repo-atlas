@@ -1,6 +1,6 @@
 # LindaHaviv/second-brain
 
-⭐ 13 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/LindaHaviv/second-brain) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LindaHaviv/second-brain) · 个人维护
 
 **基于 Oracle AI 数据库的个人第二大脑：语义搜索+自编译 wiki+agent 记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LindaHaviv/second-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

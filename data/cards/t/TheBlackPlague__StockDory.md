@@ -1,6 +1,6 @@
 # TheBlackPlague/StockDory
 
-⭐ 12 · C++ · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/TheBlackPlague/StockDory) · 个人维护
+⭐ 12 · C++ · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/TheBlackPlague/StockDory) · 个人维护
 
 **现代 C++ 编写的神经网络国际象棋引擎（UCI 协议）**
 
@@ -45,12 +45,12 @@ StockDory 是一个用 C++23 编写的命令行国际象棋引擎，结合神经
 ```mermaid
 xychart-beta
     title "TheBlackPlague/StockDory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-01 12（-1）
+2026-10-18 13 → 2026-11-02 12（-1）
 
 
 ---

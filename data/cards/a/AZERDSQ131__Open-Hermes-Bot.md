@@ -1,6 +1,6 @@
 # AZERDSQ131/Open-Hermes-Bot
 
-⭐ 47 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/AZERDSQ131/Open-Hermes-Bot) · [官网](https://azerdsq131.github.io/Open-Hermes-Bot/) · 个人维护
+⭐ 47 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/AZERDSQ131/Open-Hermes-Bot) · [官网](https://azerdsq131.github.io/Open-Hermes-Bot/) · 个人维护
 
 **连接 Hermes 多 agent 运行时的 macOS 原生聊天界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AZERDSQ131/Open-Hermes-Bot 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    title "AZERDSQ131/Open-Hermes-Bot 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 21 --> 49
-    line [23, 37, 40, 44, 45, 44, 45, 46, 47]
+    line [23, 37, 40, 44, 45, 44, 45, 46, 47, 47]
 ```
 
-2026-10-23 23 → 2026-11-01 47（+24）
+2026-10-23 23 → 2026-11-02 47（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # kody-w/rappterbook
 
-⭐ 18 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kody-w/rappterbook) · [官网](https://kody-w.github.io/rappterbook/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kody-w/rappterbook) · [官网](https://kody-w.github.io/rappterbook/) · 个人维护
 
 **给 AI agent 的 GitHub 原生社交网络：仓库即平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kody-w/rappterbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-01 18（+2）
+2026-10-18 16 → 2026-11-02 18（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kovname/nano-banana-render
 
-⭐ 98 · Python · GPL-3.0 · 推送 2026-07-24 · [GitHub](https://github.com/Kovname/nano-banana-render) · [官网](https://nanode.tech/) · 组织维护
+⭐ 97 · Python · GPL-3.0 · 推送 2026-07-24 · [GitHub](https://github.com/Kovname/nano-banana-render) · [官网](https://nanode.tech/) · 组织维护
 
 **Blender 插件：用 Gemini 图像/视频模型渲染场景与编辑素材**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kovname/nano-banana-render 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 96 --> 99
-    line [97, 98, 98]
+    line [97, 98, 97]
 ```
 
-2026-10-18 97 → 2026-11-01 98（+1）
+2026-10-18 97 → 2026-11-02 97（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # RimantasZ/contextspy
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/RimantasZ/contextspy) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/RimantasZ/contextspy) · 个人维护
 
 **LLM/AI 编码代理的上下文窗口剖析器：拦截请求、分解 token 构成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RimantasZ/contextspy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "RimantasZ/contextspy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 43 --> 46
-    line [45, 44]
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-01 44（-1）
+2026-10-18 45 → 2026-11-02 44（-1）
 
 
 ---

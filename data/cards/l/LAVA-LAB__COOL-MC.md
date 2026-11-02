@@ -1,6 +1,6 @@
 # LAVA-LAB/COOL-MC
 
-⭐ 21 · Python · 推送 2026-09-06 · [GitHub](https://github.com/LAVA-LAB/COOL-MC) · 组织维护
+⭐ 21 · Python · 推送 2026-11-01 · [GitHub](https://github.com/LAVA-LAB/COOL-MC) · 组织维护
 
 **概率模型检测与数据驱动策略学习的接口工具：形式化验证学习到的策略**
 
@@ -45,12 +45,12 @@ COOL-MC 接受随机系统的形式化环境模型（PRISM 语言）、规约与
 ```mermaid
 xychart-beta
     title "LAVA-LAB/COOL-MC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-01 21（+0）
+2026-10-18 21 → 2026-11-02 21（+0）
 
 
 ---

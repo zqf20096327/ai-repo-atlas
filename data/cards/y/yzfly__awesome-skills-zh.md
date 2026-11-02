@@ -1,6 +1,6 @@
 # yzfly/awesome-skills-zh
 
-⭐ 64 · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/yzfly/awesome-skills-zh) · 个人维护 · 中文 README
+⭐ 64 · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/yzfly/awesome-skills-zh) · 个人维护 · 中文 README
 
 **中文版 Claude/Agent/LLM Skills 精选资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yzfly/awesome-skills-zh 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 58 --> 65
     line [59, 60, 61, 63, 64, 64]
 ```
 
-2026-10-18 59 → 2026-11-01 64（+5）
+2026-10-18 59 → 2026-11-02 64（+5）
 
 
 ---

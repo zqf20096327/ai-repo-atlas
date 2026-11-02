@@ -1,6 +1,6 @@
 # reaviz/reachat
 
-⭐ 220 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/reaviz/reachat) · [官网](https://reachat.dev) · 组织维护
+⭐ 219 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/reaviz/reachat) · [官网](https://reachat.dev) · 组织维护
 
 **构建 LLM/聊天界面的 React UI 组件库**
 
@@ -45,12 +45,12 @@ reachat 是面向开发者的 React UI 组件库，提供搭建 LLM 聊天界面
 ```mermaid
 xychart-beta
     title "reaviz/reachat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 219 --> 222
-    line [221, 220, 220]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 218 --> 222
+    line [221, 220, 219]
 ```
 
-2026-10-18 221 → 2026-11-01 220（-1）
+2026-10-18 221 → 2026-11-02 219（-2）
 
 
 ---

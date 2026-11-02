@@ -1,6 +1,6 @@
 # naveedharri/benai-skills
 
-⭐ 77 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/naveedharri/benai-skills) · 个人维护
+⭐ 78 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/naveedharri/benai-skills) · 个人维护
 
 **面向 Claude Code 的部门化业务自动化技能集合（60+ 技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "naveedharri/benai-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 70 --> 78
-    line [71, 72, 74, 75, 76, 77, 77]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 70 --> 79
+    line [71, 72, 74, 75, 76, 77, 78]
 ```
 
-2026-10-18 71 → 2026-11-01 77（+6）
+2026-10-18 71 → 2026-11-02 78（+7）
 
 
 ---

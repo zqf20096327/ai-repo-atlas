@@ -1,6 +1,6 @@
 # paucablop/chemotools
 
-⭐ 87 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/paucablop/chemotools) · [官网](https://chemotools.org/) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/paucablop/chemotools) · [官网](https://chemotools.org/) · 个人维护
 
 **scikit-learn 生态的光谱化学计量学预处理库**
 
@@ -45,12 +45,12 @@ Python 库 chemotools，将化学计量学预处理工具引入 scikit-learn 生
 ```mermaid
 xychart-beta
     title "paucablop/chemotools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-18 87 → 2026-11-01 87（+0）
+2026-10-18 87 → 2026-11-02 87（+0）
 
 
 ---

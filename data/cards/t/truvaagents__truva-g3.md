@@ -1,6 +1,6 @@
 # truvaagents/truva-g3
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/truvaagents/truva-g3) · [官网](https://truvag3.dev) · 组织维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/truvaagents/truva-g3) · [官网](https://truvag3.dev) · 组织维护
 
 **Go 微代理框架：agent/工具经共享注册表动态发现、去中心化协作**
 
@@ -47,12 +47,12 @@ TruvaG3 是 microagents 架构的开源参考实现：专用 agent 与工具作�
 ```mermaid
 xychart-beta
     title "truvaagents/truva-g3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sinanuozdemir/ai-experiments
 
-⭐ 11 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/sinanuozdemir/ai-experiments) · 个人维护
+⭐ 13 · Jupyter Notebook · 推送 2026-11-01 · [GitHub](https://github.com/sinanuozdemir/ai-experiments) · 个人维护
 
 **个人 AI/ML 实验合集：可复现的探索型 notebook 仓库**
 
@@ -38,6 +38,18 @@
 
 > L3: A single place for the random (brilliant) ideas that come to me on AI/ML stuff. The goal is for each one to be a run
 > L18: |Experiment name|Question it answers|Experiment folder|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sinanuozdemir/ai-experiments 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
+```
+
+2026-11-01 11 → 2026-11-02 13（+2）
 
 
 ---

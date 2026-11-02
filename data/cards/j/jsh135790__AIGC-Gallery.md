@@ -1,6 +1,6 @@
 # jsh135790/AIGC-Gallery
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/jsh135790/AIGC-Gallery) · [官网](https://aigc-gallery-three.vercel.app) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/jsh135790/AIGC-Gallery) · [官网](https://aigc-gallery-three.vercel.app) · 个人维护 · 中文 README
 
 **浏览器本地运行的 AI 图片管理与 PNG 元数据工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jsh135790/AIGC-Gallery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 11 --> 17
-    line [12, 14, 15, 16]
+    title "jsh135790/AIGC-Gallery 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 19
+    line [12, 14, 15, 16, 18]
 ```
 
-2026-10-18 12 → 2026-11-01 16（+4）
+2026-10-18 12 → 2026-11-02 18（+6）
 
 
 ---

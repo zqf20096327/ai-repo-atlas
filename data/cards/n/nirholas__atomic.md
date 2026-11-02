@@ -1,6 +1,6 @@
 # nirholas/atomic
 
-⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/nirholas/atomic) · [官网](https://github.com/nirholas/atomic) · 个人维护
+⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/nirholas/atomic) · [官网](https://github.com/nirholas/atomic) · 个人维护
 
 **Solana/pump.fun 代币的 Jito 原子化发行、收费与交易脚本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/atomic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
     y-axis "stars" 15 --> 20
     line [16, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-01 19（+3）
+2026-10-18 16 → 2026-11-02 19（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HuckleR2003/PC_Workman_HCK
 
-⭐ 75 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/HuckleR2003/PC_Workman_HCK) · [官网](https://pcworkman.dev) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/HuckleR2003/PC_Workman_HCK) · [官网](https://pcworkman.dev) · 个人维护
 
 **带离线 AI 助手的 Windows 系统监控与优化工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HuckleR2003/PC_Workman_HCK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
     y-axis "stars" 73 --> 76
-    line [75, 74, 75, 75]
+    line [75, 74, 75, 74]
 ```
 
-2026-10-18 75 → 2026-11-01 75（+0）
+2026-10-18 75 → 2026-11-02 74（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xopcai/xopc
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/xopcai/xopc) · [官网](https://xopc.ai) · 组织维护 · 中文 README
+⭐ 40 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/xopcai/xopc) · [官网](https://xopc.ai) · 组织维护 · 中文 README
 
 **开源本地优先的个人 AI 助手：对话、委派任务、处理文件与项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xopcai/xopc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "xopcai/xopc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 38 --> 41
-    line [39, 40]
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-01 40（+1）
+2026-10-18 39 → 2026-11-02 40（+1）
 
 
 ---

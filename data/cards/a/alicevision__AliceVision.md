@@ -1,6 +1,6 @@
 # alicevision/AliceVision
 
-⭐ 3,522 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/alicevision/AliceVision) · [官网](https://alicevision.org) · 组织维护
+⭐ 3,524 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/alicevision/AliceVision) · [官网](https://alicevision.org) · 组织维护
 
 **摄影测量计算机视觉框架：从照片重建 3D 场景与相机追踪**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alicevision/AliceVision 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 3514 --> 3523
-    line [3515, 3516, 3517, 3518, 3519, 3522, 3522]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 3514 --> 3525
+    line [3515, 3516, 3517, 3518, 3519, 3522, 3524]
 ```
 
-2026-10-18 3,515 → 2026-11-01 3,522（+7）
+2026-10-18 3,515 → 2026-11-02 3,524（+9）
 
 
 ---

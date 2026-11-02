@@ -1,6 +1,6 @@
 # hubooooooo/agent-workshop
 
-⭐ 23 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hubooooooo/agent-workshop) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hubooooooo/agent-workshop) · 个人维护 · 中文 README
 
 **本地运行的 Agent 产品推导引擎：从点子推导 PRD、架构方案与骨架验收**
 
@@ -40,6 +40,18 @@
 
 > L7: 一个本地运行的 Agent 产品推导引擎。它不替你写代码，而是先把「该做什么、该用哪些机制、哪里还没想清楚」推导清楚，交给你自己的 AI 编程工具去写骨架，再对照 PRD 验收，陪你一轮轮把骨架做对。
 > L44: - **AI 助手**负责写代码：按方案生成骨架，按迭代记录增量修改，只能写进 `out/<产品名>/skeleton/`。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hubooooooo/agent-workshop 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-01 23 → 2026-11-02 23（+0）
 
 
 ---

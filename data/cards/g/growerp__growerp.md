@@ -1,6 +1,6 @@
 # growerp/growerp
 
-⭐ 115 · Dart · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/growerp/growerp) · [官网](https://www.growerp.com) · 组织维护
+⭐ 116 · Dart · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/growerp/growerp) · [官网](https://www.growerp.com) · 组织维护
 
 **Flutter+Moqui 的模块化开源 ERP，含 AI 助手/Agent 治理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "growerp/growerp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 114 --> 117
-    line [115, 116, 115, 115]
+    line [115, 116, 115, 116]
 ```
 
-2026-10-18 115 → 2026-11-01 115（+0）
+2026-10-18 115 → 2026-11-02 116（+1）
 
 
 ---

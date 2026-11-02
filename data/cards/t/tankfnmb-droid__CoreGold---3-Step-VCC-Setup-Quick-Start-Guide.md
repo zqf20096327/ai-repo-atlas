@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    title "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 10 --> 16
-    line [11, 15]
+    line [11, 15, 15]
 ```
 
-2026-10-31 11 → 2026-11-01 15（+4）
+2026-10-31 11 → 2026-11-02 15（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # elyra-ai/elyra
 
-⭐ 2,002 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/elyra-ai/elyra) · [官网](https://elyra.readthedocs.io/en/stable/) · 组织维护
+⭐ 2,004 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/elyra-ai/elyra) · [官网](https://elyra.readthedocs.io/en/stable/) · 组织维护
 
 **扩展 JupyterLab 的 AI 中心化工具集：可视化流水线与批处理运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elyra-ai/elyra 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 1998 --> 2003
-    line [1999, 2000, 1999, 2002, 2002]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 1998 --> 2005
+    line [1999, 2000, 1999, 2002, 2004]
 ```
 
-2026-10-18 1,999 → 2026-11-01 2,002（+3）
+2026-10-18 1,999 → 2026-11-02 2,004（+5）
 
 
 ---

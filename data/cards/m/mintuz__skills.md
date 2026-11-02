@@ -1,6 +1,6 @@
 # mintuz/skills
 
-⭐ 32 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mintuz/skills) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mintuz/skills) · 个人维护
 
 **面向 Web/iOS 开发者的可复用 agent 技能合集（Codex/Claude/OMP）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mintuz/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 32]
+    title "mintuz/skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 32, 33]
 ```
 
-2026-10-18 29 → 2026-11-01 32（+3）
+2026-10-18 29 → 2026-11-02 33（+4）
 
 
 ---

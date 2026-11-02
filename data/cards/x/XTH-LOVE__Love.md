@@ -1,6 +1,6 @@
 # XTH-LOVE/Love
 
-⭐ 22 · Vue · MIT · 推送 2026-10-31 · [GitHub](https://github.com/XTH-LOVE/Love) · 个人维护 · 中文 README
+⭐ 22 · Vue · MIT · 推送 2026-11-01 · [GitHub](https://github.com/XTH-LOVE/Love) · 个人维护 · 中文 README
 
 **情侣双人私密共同空间：相册、时光轴、悄悄话与 AI 写作**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "XTH-LOVE/Love 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01"]
+    title "XTH-LOVE/Love 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02"]
     y-axis "stars" 17 --> 23
-    line [18, 20, 21, 22]
+    line [18, 20, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-01 22（+4）
+2026-10-18 18 → 2026-11-02 22（+4）
 
 
 ---

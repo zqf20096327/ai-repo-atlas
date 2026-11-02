@@ -45,12 +45,12 @@ HuggingFace 维护的 LeRobot Humanoid 双足平台硬件仓库：提供机械�
 ```mermaid
 xychart-beta
     title "huggingface/lerobot-humanoid-hardware 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
     y-axis "stars" 38 --> 42
     line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-01 41（+2）
+2026-10-18 39 → 2026-11-02 41（+2）
 
 
 ---

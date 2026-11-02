@@ -1,6 +1,6 @@
 # hormuz-labs/agentshot
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/hormuz-labs/agentshot) · [官网](https://agentshot.si) · 组织维护
+⭐ 18 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/hormuz-labs/agentshot) · [官网](https://agentshot.si) · 组织维护
 
 **对话式 AI 视频编辑器：用语音/文字给剪辑指令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hormuz-labs/agentshot 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 18]
 ```
 
-2026-10-25 15 → 2026-11-01 16（+1）
+2026-10-25 15 → 2026-11-02 18（+3）
 
 
 ---

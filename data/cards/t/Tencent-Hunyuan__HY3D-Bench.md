@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY3D-Bench
 
-⭐ 363 · Python · NOASSERTION · 推送 2026-02-27 · [GitHub](https://github.com/Tencent-Hunyuan/HY3D-Bench) · 组织维护 · 中文 README
+⭐ 364 · Python · NOASSERTION · 推送 2026-02-27 · [GitHub](https://github.com/Tencent-Hunyuan/HY3D-Bench) · 组织维护 · 中文 README
 
 **腾讯发布的高质量 3D 数据集合集，供 3D 生成模型训练评测**
 
@@ -47,12 +47,12 @@ HY3D-Bench 是腾讯混元发布的三个互补 3D 数据集合集：Full-level�
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HY3D-Bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 361 --> 364
-    line [362, 363, 363]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 361 --> 365
+    line [362, 363, 364]
 ```
 
-2026-10-18 362 → 2026-11-01 363（+1）
+2026-10-18 362 → 2026-11-02 364（+2）
 
 
 ---

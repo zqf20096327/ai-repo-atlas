@@ -1,6 +1,6 @@
 # EuleMitKeule/webhook-conversation
 
-⭐ 56 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EuleMitKeule/webhook-conversation) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EuleMitKeule/webhook-conversation) · 个人维护
 
 **Home Assistant 集成：把 n8n 等 webhook 系统接入为对话代理与语音助手**
 
@@ -45,12 +45,12 @@ Home Assistant 自定义集成，将外部 webhook 系统（如 n8n 工作流）
 ```mermaid
 xychart-beta
     title "EuleMitKeule/webhook-conversation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
     y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    line [55, 56, 55]
 ```
 
-2026-10-18 55 → 2026-11-01 56（+1）
+2026-10-18 55 → 2026-11-02 55（+0）
 
 
 ---

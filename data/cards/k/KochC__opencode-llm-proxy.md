@@ -1,6 +1,6 @@
 # KochC/opencode-llm-proxy
 
-⭐ 84 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/KochC/opencode-llm-proxy) · [官网](https://www.npmjs.com/package/opencode-llm-proxy) · 个人维护
+⭐ 85 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/KochC/opencode-llm-proxy) · [官网](https://www.npmjs.com/package/opencode-llm-proxy) · 个人维护
 
 **给开发者的 OpenCode 插件：本地 LLM 网关，统一转换多种 API 格式**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KochC/opencode-llm-proxy 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 72 --> 85
-    line [73, 74, 76, 77, 78, 79, 81, 83, 84]
+    title "KochC/opencode-llm-proxy 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 72 --> 86
+    line [73, 74, 76, 77, 78, 79, 81, 83, 84, 85]
 ```
 
-2026-10-18 73 → 2026-11-01 84（+11）
+2026-10-18 73 → 2026-11-02 85（+12）
 
 
 ---

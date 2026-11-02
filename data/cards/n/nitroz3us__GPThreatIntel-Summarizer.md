@@ -40,6 +40,18 @@ Python 编写的 CTI 报告摘要工具：通过 BeautifulSoup 与 pdfplumber �
 > L5: GPThreatIntel-Summarizer is a Python-based repository that leverages the power of OpenAI's GPT (Generative Pre-train
 > L9: - Utilizes OpenAI GPT models for natural language processing and summarization tasks.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nitroz3us/GPThreatIntel-Summarizer 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-01 21 → 2026-11-02 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `e27a997611da` · [字段定义](../../DATASET.md)*

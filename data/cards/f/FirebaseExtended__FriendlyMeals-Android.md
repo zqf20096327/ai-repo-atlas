@@ -45,13 +45,13 @@ Firebase 官方 quickstart 示例应用（配合 Firebase Fundamentals 视频系
 
 ```mermaid
 xychart-beta
-    title "FirebaseExtended/FriendlyMeals-Android 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    title "FirebaseExtended/FriendlyMeals-Android 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23]
+    line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-01 23（+2）
+2026-10-18 21 → 2026-11-02 23（+2）
 
 
 ---

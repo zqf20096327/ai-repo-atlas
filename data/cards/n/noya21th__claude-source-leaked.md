@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "noya21th/claude-source-leaked 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "noya21th/claude-source-leaked 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 132 --> 135
-    line [133, 134]
+    line [133, 134, 134]
 ```
 
-2026-10-18 133 → 2026-11-01 134（+1）
+2026-10-18 133 → 2026-11-02 134（+1）
 
 
 ---

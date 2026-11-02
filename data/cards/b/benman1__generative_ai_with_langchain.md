@@ -1,6 +1,6 @@
 # benman1/generative_ai_with_langchain
 
-⭐ 1,450 · Jupyter Notebook · MIT · 推送 2026-09-26 · [GitHub](https://github.com/benman1/generative_ai_with_langchain) · [官网](https://amzn.to/4dErkya) · 个人维护
+⭐ 1,451 · Jupyter Notebook · MIT · 推送 2026-09-26 · [GitHub](https://github.com/benman1/generative_ai_with_langchain) · [官网](https://amzn.to/4dErkya) · 个人维护
 
 **《Generative AI with LangChain》第二版书籍配套代码仓库**
 
@@ -45,12 +45,12 @@ Packt 出版书籍 Generative AI with LangChain (2nd Edition, 2025) 的官方代
 ```mermaid
 xychart-beta
     title "benman1/generative_ai_with_langchain 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1439 --> 1451
-    line [1440, 1442, 1445, 1446, 1448, 1449, 1450, 1450]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1439 --> 1452
+    line [1440, 1442, 1445, 1446, 1448, 1449, 1450, 1451]
 ```
 
-2026-10-18 1,440 → 2026-11-01 1,450（+10）
+2026-10-18 1,440 → 2026-11-02 1,451（+11）
 
 
 ---

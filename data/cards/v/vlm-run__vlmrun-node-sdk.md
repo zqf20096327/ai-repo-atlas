@@ -45,12 +45,12 @@ VLM Run 官方 Node.js 客户端库，封装其 REST API：图像预测、文档
 ```mermaid
 xychart-beta
     title "vlm-run/vlmrun-node-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

@@ -46,12 +46,12 @@ rtt 用 tree-sitter 解析仓库每个文件，抽取 imports、函数签名、�
 ```mermaid
 xychart-beta
     title "yttrium400/reducethemtokens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # limingren0803-lgtm/Mako-Public
 
-⭐ 15 · Python · 推送 2026-08-31 · [GitHub](https://github.com/limingren0803-lgtm/Mako-Public) · 个人维护 · 中文 README
+⭐ 20 · Python · 推送 2026-08-31 · [GitHub](https://github.com/limingren0803-lgtm/Mako-Public) · 个人维护 · 中文 README
 
 **面向回国留学生与国内应届生的 AI 求职分析与规划系统**
 
@@ -45,13 +45,13 @@ Mako 是基于多 Agent 架构（General/Technical/CareerAgent）的求职智能
 
 ```mermaid
 xychart-beta
-    title "limingren0803-lgtm/Mako-Public 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 10 --> 16
-    line [11, 15]
+    title "limingren0803-lgtm/Mako-Public 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 21
+    line [11, 15, 20]
 ```
 
-2026-10-31 11 → 2026-11-01 15（+4）
+2026-10-31 11 → 2026-11-02 20（+9）
 
 
 ---

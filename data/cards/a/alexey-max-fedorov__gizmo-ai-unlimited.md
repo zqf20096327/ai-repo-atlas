@@ -1,6 +1,6 @@
 # alexey-max-fedorov/gizmo-ai-unlimited
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/alexey-max-fedorov/gizmo-ai-unlimited) · [官网](https://gizmo.best) · 个人维护
+⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/alexey-max-fedorov/gizmo-ai-unlimited) · [官网](https://gizmo.best) · 个人维护
 
 **解除 Gizmo AI 测验限制的浏览器扩展（安全研究项目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexey-max-fedorov/gizmo-ai-unlimited 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

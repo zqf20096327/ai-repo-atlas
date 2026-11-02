@@ -1,6 +1,6 @@
 # ooboqoo/shiping
 
-⭐ 1,130 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ooboqoo/shiping) · 个人维护 · 中文 README
+⭐ 1,134 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ooboqoo/shiping) · 个人维护 · 中文 README
 
 **截屏/对话 AI 助手：看懂屏幕内容与实时语音，给出解答提示**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ooboqoo/shiping 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1110 --> 1131
-    line [1111, 1114, 1123, 1128, 1130]
+    title "ooboqoo/shiping 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1109 --> 1136
+    line [1111, 1114, 1123, 1128, 1130, 1134]
 ```
 
-2026-10-28 1,111 → 2026-11-01 1,130（+19）
+2026-10-28 1,111 → 2026-11-02 1,134（+23）
 
 
 ---

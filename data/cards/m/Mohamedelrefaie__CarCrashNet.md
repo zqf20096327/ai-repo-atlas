@@ -1,6 +1,6 @@
 # Mohamedelrefaie/CarCrashNet
 
-⭐ 33 · 推送 2026-08-03 · [GitHub](https://github.com/Mohamedelrefaie/CarCrashNet) · [官网](https://arxiv.org/abs/2605.07098) · 组织维护
+⭐ 34 · 推送 2026-08-03 · [GitHub](https://github.com/Mohamedelrefaie/CarCrashNet) · [官网](https://arxiv.org/abs/2605.07098) · 组织维护
 
 **结构碰撞仿真的大规模数据集与层级神经求解器基准**
 
@@ -46,12 +46,12 @@ MIT 与丰田研究院发布的汽车碰撞仿真基准项目：包含 15,567 �
 ```mermaid
 xychart-beta
     title "Mohamedelrefaie/CarCrashNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-11-01 33（+2）
+2026-10-18 31 → 2026-11-02 34（+3）
 
 
 ---

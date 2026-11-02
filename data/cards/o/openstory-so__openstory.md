@@ -1,6 +1,6 @@
 # openstory-so/openstory
 
-⭐ 690 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/openstory-so/openstory) · [官网](https://openstory.so) · 组织维护 · 中文 README
+⭐ 692 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/openstory-so/openstory) · [官网](https://openstory.so) · 组织维护 · 中文 README
 
 **将剧本转化为 AI 生成视频序列的开源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openstory-so/openstory 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 677 --> 691
-    line [678, 681, 684, 686, 687, 689, 690, 690]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 677 --> 693
+    line [678, 681, 684, 686, 687, 689, 690, 692]
 ```
 
-2026-10-18 678 → 2026-11-01 690（+12）
+2026-10-18 678 → 2026-11-02 692（+14）
 
 
 ---

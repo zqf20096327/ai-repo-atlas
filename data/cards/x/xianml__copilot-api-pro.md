@@ -1,6 +1,6 @@
 # xianml/copilot-api-pro
 
-⭐ 23 · TypeScript · MIT · 推送 2025-12-10 · [GitHub](https://github.com/xianml/copilot-api-pro) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2025-12-10 · [GitHub](https://github.com/xianml/copilot-api-pro) · 个人维护
 
 **让 Claude Code 与 Codex 通过 GitHub Copilot 账号使用的代理**
 
@@ -45,12 +45,12 @@ ericc-ch/copilot-api 的 fork，通过逆向工程的 GitHub Copilot 代理，�
 ```mermaid
 xychart-beta
     title "xianml/copilot-api-pro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [22, 23, 22]
 ```
 
-2026-10-18 22 → 2026-11-01 23（+1）
+2026-10-18 22 → 2026-11-02 22（+0）
 
 
 ---

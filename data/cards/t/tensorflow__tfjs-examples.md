@@ -1,6 +1,6 @@
 # tensorflow/tfjs-examples
 
-⭐ 6,787 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/tensorflow/tfjs-examples) · [官网](https://js.tensorflow.org/) · 组织维护
+⭐ 6,788 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/tensorflow/tfjs-examples) · [官网](https://js.tensorflow.org/) · 组织维护
 
 **TensorFlow.js 官方示例集：浏览器/Node.js 中的训练与推理**
 
@@ -46,12 +46,12 @@ TensorFlow.js 官方维护的示例集合，含 40 余个独立示例目录，�
 ```mermaid
 xychart-beta
     title "tensorflow/tfjs-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 6785 --> 6788
-    line [6787, 6786, 6787, 6787]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 6785 --> 6789
+    line [6787, 6786, 6787, 6788]
 ```
 
-2026-10-18 6,787 → 2026-11-01 6,787（+0）
+2026-10-18 6,787 → 2026-11-02 6,788（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # KadenMc/work-buddy
 
-⭐ 57 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/KadenMc/work-buddy) · [官网](http://work-buddy.ai/) · 个人维护
+⭐ 58 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/KadenMc/work-buddy) · [官网](http://work-buddy.ai/) · 个人维护
 
 **知识工作者的本地个人 agent 运行时（基于 Claude Code）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KadenMc/work-buddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 53 --> 58
-    line [54, 55, 56, 57]
+    title "KadenMc/work-buddy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 53 --> 59
+    line [54, 55, 56, 57, 58]
 ```
 
-2026-10-18 54 → 2026-11-01 57（+3）
+2026-10-18 54 → 2026-11-02 58（+4）
 
 
 ---

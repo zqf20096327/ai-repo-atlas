@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mkr-infinity/Revision-Master 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    title "mkr-infinity/Revision-Master 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 28 --> 33
-    line [29, 30, 32]
+    line [29, 30, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-01 32（+3）
+2026-10-18 29 → 2026-11-02 32（+3）
 
 
 ---

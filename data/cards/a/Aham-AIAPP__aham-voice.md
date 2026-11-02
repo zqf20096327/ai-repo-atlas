@@ -1,6 +1,6 @@
 # Aham-AIAPP/aham-voice
 
-⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Aham-AIAPP/aham-voice) · [官网](https://aham-aiapp.github.io/aham-voice/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **销售/项目会议录音转写与纪要系统：本地FunASR+云端DeepSeek**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Zedong-Liu/SparseReading
 
-⭐ 157 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Zedong-Liu/SparseReading) · [官网](https://zedong-liu.github.io/SparseReading/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给工具型 AI agent 的免训练稀疏阅读层：少读省 token 保证据**
 
@@ -11,7 +11,7 @@ SparseRead 是位于 agent 原生读取工具之前的控制层（training-free�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

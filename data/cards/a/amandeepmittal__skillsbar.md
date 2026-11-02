@@ -1,6 +1,6 @@
 # amandeepmittal/skillsbar
 
-⭐ 28 · Swift · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/amandeepmittal/skillsbar) · [官网](https://amanhimself.dev/skillsbar/) · 个人维护
+⭐ 29 · Swift · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/amandeepmittal/skillsbar) · [官网](https://amanhimself.dev/skillsbar/) · 个人维护
 
 **macOS 菜单栏应用：浏览管理 Claude Code/Codex/pi 的技能与代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amandeepmittal/skillsbar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-11-01 28（+1）
+2026-10-18 27 → 2026-11-02 29（+2）
 
 
 ---

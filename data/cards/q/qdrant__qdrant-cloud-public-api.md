@@ -1,6 +1,6 @@
 # qdrant/qdrant-cloud-public-api
 
-⭐ 11 · Shell · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/qdrant/qdrant-cloud-public-api) · 组织维护
+⭐ 12 · Shell · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/qdrant/qdrant-cloud-public-api) · 组织维护
 
 **Qdrant Cloud 平台 API 的 proto 定义与 SDK（Go/Python/TS）**
 
@@ -45,12 +45,12 @@ Qdrant 官方仓库，托管 Qdrant Cloud 平台管理 API 的 Protocol Buffer �
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-cloud-public-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

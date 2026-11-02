@@ -1,6 +1,6 @@
 # heripo-lab/llm-newsletter-kit-core
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/heripo-lab/llm-newsletter-kit-core) · 个人维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/heripo-lab/llm-newsletter-kit-core) · 个人维护
 
 **TypeScript 工具包：自动化 LLM 驱动的领域新闻信生成流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heripo-lab/llm-newsletter-kit-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-01 50（+0）
+2026-10-18 50 → 2026-11-02 50（+0）
 
 
 ---

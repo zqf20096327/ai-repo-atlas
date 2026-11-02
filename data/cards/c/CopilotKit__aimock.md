@@ -1,6 +1,6 @@
 # CopilotKit/aimock
 
-⭐ 999 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CopilotKit/aimock) · [官网](http://aimock.copilotkit.dev/) · 组织维护
+⭐ 1,000 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CopilotKit/aimock) · [官网](http://aimock.copilotkit.dev/) · 组织维护
 
 **AI 应用测试用的统一 mock 服务器：一个端口模拟全部 LLM API 与协议**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CopilotKit/aimock 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 975 --> 1001
-    line [977, 983, 985, 987, 988, 990, 993, 997, 999]
+    title "CopilotKit/aimock 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 975 --> 1002
+    line [977, 983, 985, 987, 988, 990, 993, 997, 999, 1000]
 ```
 
-2026-10-18 977 → 2026-11-01 999（+22）
+2026-10-18 977 → 2026-11-02 1,000（+23）
 
 
 ---

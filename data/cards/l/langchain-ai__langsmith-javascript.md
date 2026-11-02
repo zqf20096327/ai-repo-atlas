@@ -44,13 +44,13 @@ LangSmith 平台的 TypeScript 客户端 SDK：支持记录 LLM 应用运行追�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-javascript 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01"]
+    title "langchain-ai/langsmith-javascript 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 10 --> 18
-    line [11, 14, 15, 16, 17]
+    line [11, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-01 17（+6）
+2026-10-18 11 → 2026-11-02 17（+6）
 
 
 ---

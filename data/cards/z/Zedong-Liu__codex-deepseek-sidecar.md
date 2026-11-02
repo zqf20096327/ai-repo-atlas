@@ -1,6 +1,6 @@
 # Zedong-Liu/codex-deepseek-sidecar
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Zedong-Liu/codex-deepseek-sidecar) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Codex skill：让 GPT 主脑把子任务派给 DeepSeek 工人 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

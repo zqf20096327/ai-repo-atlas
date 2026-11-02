@@ -1,6 +1,6 @@
 # UditAkhourii/neuroarxiv
 
-⭐ 438 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/UditAkhourii/neuroarxiv) · [官网](https://www.divergent.sh/blog/neuroarxiv-never-build-from-scratch) · 个人维护
+⭐ 437 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/UditAkhourii/neuroarxiv) · [官网](https://www.divergent.sh/blog/neuroarxiv-never-build-from-scratch) · 个人维护
 
 **Claude Code/Codex 技能：设计架构前先检索 arXiv 先行工作并收敛出单一建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "UditAkhourii/neuroarxiv 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01"]
+    title "UditAkhourii/neuroarxiv 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 435 --> 440
-    line [436, 437, 438, 439, 438]
+    line [436, 437, 438, 439, 438, 437]
 ```
 
-2026-10-18 436 → 2026-11-01 438（+2）
+2026-10-18 436 → 2026-11-02 437（+1）
 
 
 ---

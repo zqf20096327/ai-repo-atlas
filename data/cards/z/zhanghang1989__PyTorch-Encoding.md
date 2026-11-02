@@ -44,13 +44,13 @@ Hang Zhang 维护的 PyTorch 扩展工具包，收录其系列论文的实现：
 
 ```mermaid
 xychart-beta
-    title "zhanghang1989/PyTorch-Encoding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "zhanghang1989/PyTorch-Encoding 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 2043 --> 2046
-    line [2044, 2045]
+    line [2044, 2045, 2045]
 ```
 
-2026-10-18 2,044 → 2026-11-01 2,045（+1）
+2026-10-18 2,044 → 2026-11-02 2,045（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nyo16/nous
 
-⭐ 14 · Elixir · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/nyo16/nous) · 个人维护
+⭐ 14 · Elixir · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/nyo16/nous) · 个人维护
 
 **Elixir 的 AI agent 框架：一个字符串切换 13 家 LLM 供应商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nyo16/nous 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

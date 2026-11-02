@@ -1,6 +1,6 @@
 # official-stockfish/nnue-pytorch
 
-⭐ 507 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/official-stockfish/nnue-pytorch) · 组织维护
+⭐ 507 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/official-stockfish/nnue-pytorch) · 组织维护
 
 **Stockfish NNUE 国际象棋评估网络的 PyTorch 训练器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "official-stockfish/nnue-pytorch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    title "official-stockfish/nnue-pytorch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 503 --> 510
-    line [504, 505, 506, 507, 508, 509, 507]
+    line [504, 505, 506, 507, 508, 509, 507, 507]
 ```
 
-2026-10-18 504 → 2026-11-01 507（+3）
+2026-10-18 504 → 2026-11-02 507（+3）
 
 
 ---

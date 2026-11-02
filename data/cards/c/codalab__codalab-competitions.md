@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "codalab/codalab-competitions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "codalab/codalab-competitions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 538 --> 541
-    line [539, 540]
+    line [539, 540, 540]
 ```
 
-2026-10-18 539 → 2026-11-01 540（+1）
+2026-10-18 539 → 2026-11-02 540（+1）
 
 
 ---

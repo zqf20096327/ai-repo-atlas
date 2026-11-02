@@ -1,6 +1,6 @@
 # omoresearch/omo-space
 
-⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/omoresearch/omo-space) · [官网](https://www.omo.sh) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/omoresearch/omo-space) · [官网](https://www.omo.sh) · 组织维护
 
 **在 Minecraft 里给 AI agent 安排房间的持久工作区模组**
 
@@ -45,13 +45,13 @@ Fabric Minecraft 模组加本地服务：放置方块即在自己 PC 上开启 H
 
 ```mermaid
 xychart-beta
-    title "omoresearch/omo-space 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4 --> 14
-    line [5, 7, 10, 13]
+    title "omoresearch/omo-space 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 4 --> 16
+    line [5, 7, 10, 13, 15]
 ```
 
-2026-10-29 5 → 2026-11-01 13（+8）
+2026-10-29 5 → 2026-11-02 15（+10）
 
 
 ---

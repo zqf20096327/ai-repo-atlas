@@ -1,6 +1,6 @@
 # katelouie/stellium
 
-⭐ 71 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/katelouie/stellium) · [官网](https://stelliumastro.app) · 个人维护 · 中文 README
+⭐ 72 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/katelouie/stellium) · [官网](https://stelliumastro.app) · 个人维护 · 中文 README
 
 **Python 占星计算库：星盘计算、可视化与报告生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "katelouie/stellium 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 67 --> 72
-    line [68, 70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 67 --> 73
+    line [68, 70, 71, 72]
 ```
 
-2026-10-18 68 → 2026-11-01 71（+3）
+2026-10-18 68 → 2026-11-02 72（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # vercel-labs/github-tools
 
-⭐ 133 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vercel-labs/github-tools) · [官网](https://github-tools.com) · 组织维护
+⭐ 133 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/vercel-labs/github-tools) · [官网](https://github-tools.com) · 组织维护
 
 **给 agent 提供 GitHub API 工具层的 TypeScript SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vercel-labs/github-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
     y-axis "stars" 130 --> 134
     line [131, 132, 133, 133]
 ```
 
-2026-10-18 131 → 2026-11-01 133（+2）
+2026-10-18 131 → 2026-11-02 133（+2）
 
 
 ---

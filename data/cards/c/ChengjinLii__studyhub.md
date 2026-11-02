@@ -1,6 +1,6 @@
 # ChengjinLii/studyhub
 
-⭐ 18 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ChengjinLii/studyhub) · [官网](https://study-hub.cn) · 组织维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ChengjinLii/studyhub) · [官网](https://study-hub.cn) · 组织维护 · 中文 README
 
 **高校知识共享与校园互助平台，附带 RAG Agent 与 AI 内容审核**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ChengjinLii/studyhub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-01 18（+1）
+2026-10-18 17 → 2026-11-02 19（+2）
 
 
 ---

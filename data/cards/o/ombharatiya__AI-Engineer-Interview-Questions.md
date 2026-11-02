@@ -1,6 +1,6 @@
 # ombharatiya/AI-Engineer-Interview-Questions
 
-⭐ 250 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
+⭐ 253 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
 
 **AI 工程师面试题库：1,172 题带答案与 33 家公司面试题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ombharatiya/AI-Engineer-Interview-Questions 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 191 --> 255
-    line [196, 204, 206, 209, 219, 220, 224, 231, 235, 241, 244, 249, 250]
+    title "ombharatiya/AI-Engineer-Interview-Questions 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 191 --> 258
+    line [196, 204, 206, 209, 219, 220, 224, 231, 235, 241, 244, 249, 250, 253]
 ```
 
-2026-10-18 196 → 2026-11-01 250（+54）
+2026-10-18 196 → 2026-11-02 253（+57）
 
 
 ---

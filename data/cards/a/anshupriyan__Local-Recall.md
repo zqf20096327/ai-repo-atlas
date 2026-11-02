@@ -1,6 +1,6 @@
 # anshupriyan/Local-Recall
 
-⭐ 20 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/anshupriyan/Local-Recall) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/anshupriyan/Local-Recall) · 个人维护
 
 **本地屏幕记录+OCR+语义搜索工具，数据不出本机**
 
@@ -45,12 +45,12 @@ Windows 平台的本地屏幕历史工具：每 5 秒截屏并做感知哈希去
 ```mermaid
 xychart-beta
     title "anshupriyan/Local-Recall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 21（+1）
 
 
 ---

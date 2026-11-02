@@ -1,6 +1,6 @@
 # instancez/instancez
 
-⭐ 60 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/instancez/instancez) · [官网](https://instancez.ai) · 组织维护
+⭐ 61 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/instancez/instancez) · [官网](https://instancez.ai) · 组织维护
 
 **给开发者的单二进制 Supabase 替代后端：YAML 定义全栈**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "instancez/instancez 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 50 --> 61
-    line [51, 53, 54, 58, 60]
+    title "instancez/instancez 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 50 --> 62
+    line [51, 53, 54, 58, 60, 61]
 ```
 
-2026-10-18 51 → 2026-11-01 60（+9）
+2026-10-18 51 → 2026-11-02 61（+10）
 
 
 ---

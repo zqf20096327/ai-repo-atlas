@@ -45,13 +45,13 @@ create-agent-app（AgentForge）是一个 Python CLI 脚手架工具：通过交
 
 ```mermaid
 xychart-beta
-    title "Saichandra2520/AgentForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "Saichandra2520/AgentForge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 20 --> 23
-    line [22, 21]
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-01 21（-1）
+2026-10-18 22 → 2026-11-02 21（-1）
 
 
 ---

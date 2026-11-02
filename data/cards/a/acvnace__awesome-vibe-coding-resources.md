@@ -1,6 +1,6 @@
 # acvnace/awesome-vibe-coding-resources
 
-⭐ 329 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
+⭐ 330 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
 
 **vibe coding 工具与资源的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "acvnace/awesome-vibe-coding-resources 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 314 --> 330
-    line [315, 316, 319, 320, 321, 325, 326, 328, 329, 329]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 314 --> 331
+    line [315, 316, 319, 320, 321, 325, 326, 328, 329, 330]
 ```
 
-2026-10-18 315 → 2026-11-01 329（+14）
+2026-10-18 315 → 2026-11-02 330（+15）
 
 
 ---

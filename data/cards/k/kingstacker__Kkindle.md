@@ -1,6 +1,6 @@
 # kingstacker/Kkindle
 
-⭐ 83 · C# · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/kingstacker/Kkindle) · [官网](https://kkindle.stacker.beauty/) · 个人维护 · 中文 README
+⭐ 85 · C# · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/kingstacker/Kkindle) · [官网](https://kkindle.stacker.beauty/) · 个人维护 · 中文 README
 
 **跨平台电子书与 Kindle 管理桌面应用，带 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingstacker/Kkindle 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 60 --> 85
-    line [62, 65, 70, 77, 81, 83]
+    title "kingstacker/Kkindle 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 60 --> 87
+    line [62, 65, 70, 77, 81, 83, 85]
 ```
 
-2026-10-18 62 → 2026-11-01 83（+21）
+2026-10-18 62 → 2026-11-02 85（+23）
 
 
 ---

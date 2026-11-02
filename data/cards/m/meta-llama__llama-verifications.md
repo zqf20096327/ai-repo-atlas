@@ -1,6 +1,6 @@
 # meta-llama/llama-verifications
 
-⭐ 28 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/meta-llama/llama-verifications) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **验证 Llama 模型提供商的测试与基准评测库**
 
@@ -11,7 +11,7 @@ Meta Llama 团队维护的轻量级验证库，对提供 OpenAI 兼容推理 API
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

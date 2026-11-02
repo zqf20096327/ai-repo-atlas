@@ -1,6 +1,6 @@
 # vndee/local-talking-llm
 
-⭐ 896 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/vndee/local-talking-llm) · [官网](https://blog.duy.dev/build-your-own-voice-assistant-and-run-it-locally/) · 个人维护
+⭐ 895 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/vndee/local-talking-llm) · [官网](https://blog.duy.dev/build-your-own-voice-assistant-and-run-it-locally/) · 个人维护
 
 **本地离线语音助手：Whisper 语音识别+Ollama 对话+Chatterbox 合成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vndee/local-talking-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 895 --> 897
-    line [896, 896]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 894 --> 897
+    line [896, 895]
 ```
 
-2026-10-18 896 → 2026-11-01 896（+0）
+2026-10-18 896 → 2026-11-02 895（-1）
 
 
 ---

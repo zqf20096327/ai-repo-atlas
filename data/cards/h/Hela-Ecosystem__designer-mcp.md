@@ -41,6 +41,18 @@ TypeScript 实现的 Model Context Protocol（MCP）服务器，属于 HeLa MCP 
 > L8: A **Design-Theory-as-a-Service** Model Context Protocol (MCP) server for production-grade UI design. Unlike standard
 > L10: 46 tools across 18 design systems (including Awwwards SOTA / Avant-Garde): **anti-slop quality gates**, **motion.de
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Hela-Ecosystem/designer-mcp 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-01 15 → 2026-11-02 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `0c2766a29983` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # huggingface/llm-ls
 
-⭐ 883 · Rust · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm-ls) · 组织维护
+⭐ 882 · Rust · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm-ls) · 组织维护
 
 **利用 LLM 做代码补全的 LSP 服务器，供 IDE 扩展接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/llm-ls 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
     y-axis "stars" 880 --> 884
-    line [881, 882, 883, 883]
+    line [881, 882, 883, 882]
 ```
 
-2026-10-18 881 → 2026-11-01 883（+2）
+2026-10-18 881 → 2026-11-02 882（+1）
 
 
 ---

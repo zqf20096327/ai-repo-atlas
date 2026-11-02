@@ -1,6 +1,6 @@
 # Qtty/jadx-mcp-server
 
-⭐ 33 · Java · 推送 2026-08-20 · [GitHub](https://github.com/Qtty/jadx-mcp-server) · 个人维护
+⭐ 34 · Java · 推送 2026-08-20 · [GitHub](https://github.com/Qtty/jadx-mcp-server) · 个人维护
 
 **把 JADX 反编译能力封装成 MCP 工具的 Android 逆向服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Qtty/jadx-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-01 33（+1）
+2026-10-18 32 → 2026-11-02 34（+2）
 
 
 ---

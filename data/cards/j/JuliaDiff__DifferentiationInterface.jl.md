@@ -1,6 +1,6 @@
 # JuliaDiff/DifferentiationInterface.jl
 
-⭐ 316 · Julia · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JuliaDiff/DifferentiationInterface.jl) · [官网](https://juliadiff.org/DifferentiationInterface.jl/DifferentiationInterface) · 组织维护
+⭐ 317 · Julia · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JuliaDiff/DifferentiationInterface.jl) · [官网](https://juliadiff.org/DifferentiationInterface.jl/DifferentiationInterface) · 组织维护
 
 **Julia 多后端自动微分的统一接口库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JuliaDiff/DifferentiationInterface.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 315 --> 317
-    line [316, 316]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 315 --> 318
+    line [316, 317]
 ```
 
-2026-10-18 316 → 2026-11-01 316（+0）
+2026-10-18 316 → 2026-11-02 317（+1）
 
 
 ---

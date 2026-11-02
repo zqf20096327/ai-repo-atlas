@@ -1,6 +1,6 @@
 # neurarch-ai/awesome-llm-system-design
 
-⭐ 33 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/neurarch-ai/awesome-llm-system-design) · 组织维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/neurarch-ai/awesome-llm-system-design) · 组织维护 · 中文 README
 
 **LLM 系统设计面试指南：18 个主题讲义与可验证架构图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neurarch-ai/awesome-llm-system-design 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33]
+    title "neurarch-ai/awesome-llm-system-design 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 33, 35]
 ```
 
-2026-10-18 31 → 2026-11-01 33（+2）
+2026-10-18 31 → 2026-11-02 35（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # geer1895/rfauto
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/geer1895/rfauto) · 个人维护 · 中文 README
+⭐ 29 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/geer1895/rfauto) · 个人维护 · 中文 README
 
 **RF/微波设计自动化框架，AI agent 经 MCP 驱动全部流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "geer1895/rfauto 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 21 --> 28
-    line [22, 24, 25, 27]
+    title "geer1895/rfauto 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 21 --> 30
+    line [22, 24, 25, 27, 29]
 ```
 
-2026-10-29 22 → 2026-11-01 27（+5）
+2026-10-29 22 → 2026-11-02 29（+7）
 
 
 ---

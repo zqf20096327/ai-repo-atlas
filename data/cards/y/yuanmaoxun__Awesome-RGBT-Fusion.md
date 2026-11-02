@@ -1,6 +1,6 @@
 # yuanmaoxun/Awesome-RGBT-Fusion
 
-⭐ 771 · 推送 2026-10-15 · [GitHub](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) · 个人维护
+⭐ 772 · 推送 2026-10-15 · [GitHub](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) · 个人维护
 
 **RGB-T 融合方向的论文/代码/数据集策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuanmaoxun/Awesome-RGBT-Fusion 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 767 --> 772
-    line [768, 769, 770, 771, 771]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 767 --> 773
+    line [768, 769, 770, 771, 772]
 ```
 
-2026-10-18 768 → 2026-11-01 771（+3）
+2026-10-18 768 → 2026-11-02 772（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # dean9703111/ai-agent-skill-for-video-workflow
 
-⭐ 220 · Python · 推送 2026-01-28 · [GitHub](https://github.com/dean9703111/ai-agent-skill-for-video-workflow) · [官网](https://youtu.be/xe00zJEtuMo) · 个人维护 · 中文 README
+⭐ 221 · Python · 推送 2026-01-28 · [GitHub](https://github.com/dean9703111/ai-agent-skill-for-video-workflow) · [官网](https://youtu.be/xe00zJEtuMo) · 个人维护 · 中文 README
 
 **影片字幕处理 AI Agent Skills 集合：转字幕、优化、字卡、社群摘要**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dean9703111/ai-agent-skill-for-video-workflow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 218 --> 221
-    line [219, 220, 219, 220, 219, 220, 220]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 218 --> 222
+    line [219, 220, 219, 220, 219, 220, 221]
 ```
 
-2026-10-18 219 → 2026-11-01 220（+1）
+2026-10-18 219 → 2026-11-02 221（+2）
 
 
 ---

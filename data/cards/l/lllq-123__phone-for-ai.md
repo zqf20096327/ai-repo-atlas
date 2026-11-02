@@ -1,6 +1,6 @@
 # lllq-123/phone-for-ai
 
-⭐ 23 · Java · MIT · 推送 2026-10-06 · [GitHub](https://github.com/lllq-123/phone-for-ai) · 个人维护 · 中文 README
+⭐ 24 · Java · MIT · 推送 2026-10-06 · [GitHub](https://github.com/lllq-123/phone-for-ai) · 个人维护 · 中文 README
 
 **让 AI agent 远程操控一台闲置安卓手机的自托管工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lllq-123/phone-for-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-01 23（+2）
+2026-10-18 21 → 2026-11-02 24（+3）
 
 
 ---

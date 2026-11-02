@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarkMoHR/Awesome-Image-Colorization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "MarkMoHR/Awesome-Image-Colorization 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1166 --> 1169
-    line [1167, 1168]
+    line [1167, 1168, 1168]
 ```
 
-2026-10-18 1,167 → 2026-11-01 1,168（+1）
+2026-10-18 1,167 → 2026-11-02 1,168（+1）
 
 
 ---

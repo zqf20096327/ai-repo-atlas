@@ -1,6 +1,6 @@
 # pipulate/pipulate
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/pipulate/pipulate) · [官网](https://pipulate.com/) · 个人维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/pipulate/pipulate) · [官网](https://pipulate.com/) · 个人维护
 
 **本地优先的 AI 工作流框架：Nix 可复现环境中的分步 AI 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pipulate/pipulate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

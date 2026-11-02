@@ -1,6 +1,6 @@
 # thu-nics/C2C
 
-⭐ 764 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thu-nics/C2C) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/c2c/) · 组织维护 · 中文 README
+⭐ 765 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thu-nics/C2C) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/c2c/) · 组织维护 · 中文 README
 
 **让多个 LLM 通过 KV-Cache 直接语义通信的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thu-nics/C2C 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 727 --> 767
-    line [730, 734, 732, 736, 747, 756, 761, 762, 764]
+    title "thu-nics/C2C 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 727 --> 768
+    line [730, 734, 732, 736, 747, 756, 761, 762, 764, 765]
 ```
 
-2026-10-18 730 → 2026-11-01 764（+34）
+2026-10-18 730 → 2026-11-02 765（+35）
 
 
 ---

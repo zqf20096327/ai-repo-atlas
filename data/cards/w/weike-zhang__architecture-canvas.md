@@ -1,6 +1,6 @@
 # weike-zhang/architecture-canvas
 
-⭐ 161 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/weike-zhang/architecture-canvas) · 个人维护 · 中文 README
+⭐ 162 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/weike-zhang/architecture-canvas) · 个人维护 · 中文 README
 
 **AI 对话生成与修改可编辑架构图的本机工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "weike-zhang/architecture-canvas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 159 --> 162
-    line [160, 161]
+    title "weike-zhang/architecture-canvas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 159 --> 163
+    line [160, 161, 162]
 ```
 
-2026-10-18 160 → 2026-11-01 161（+1）
+2026-10-18 160 → 2026-11-02 162（+2）
 
 
 ---

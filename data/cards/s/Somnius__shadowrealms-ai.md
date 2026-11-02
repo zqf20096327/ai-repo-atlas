@@ -1,6 +1,6 @@
 # Somnius/shadowrealms-ai
 
-⭐ 21 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Somnius/shadowrealms-ai) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Somnius/shadowrealms-ai) · 个人维护
 
 **自托管的黑暗世界跑团 Web 应用：AI 主持人带掷骰、语音与记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Somnius/shadowrealms-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-01 21（+0）
+2026-10-18 21 → 2026-11-02 22（+1）
 
 
 ---

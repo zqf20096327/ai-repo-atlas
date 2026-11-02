@@ -1,6 +1,6 @@
 # brightdata/brightdata-mcp
 
-⭐ 2,698 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
+⭐ 2,703 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
 
 **为 AI 代理提供公开网络访问的 MCP 服务器（32 个工具）**
 
@@ -46,13 +46,13 @@ Bright Data 公司维护的 MCP 服务器，向 AI 代理和 LLM 提供实时公
 
 ```mermaid
 xychart-beta
-    title "brightdata/brightdata-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2678 --> 2699
-    line [2679, 2684, 2685, 2686, 2687, 2691, 2693, 2695, 2696, 2698]
+    title "brightdata/brightdata-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2677 --> 2705
+    line [2679, 2684, 2685, 2686, 2687, 2691, 2693, 2695, 2696, 2698, 2703]
 ```
 
-2026-10-18 2,679 → 2026-11-01 2,698（+19）
+2026-10-18 2,679 → 2026-11-02 2,703（+24）
 
 
 ---

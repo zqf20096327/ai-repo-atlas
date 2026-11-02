@@ -46,12 +46,12 @@ Rust 编写的 Mixture-of-Experts 推理基础设施：将专家分片（expert 
 ```mermaid
 xychart-beta
     title "antonygiomarxdev/synapse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

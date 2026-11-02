@@ -1,6 +1,6 @@
 # bitget-wallet-ai-lab/bitget-wallet-skill
 
-⭐ 257 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护
+⭐ 259 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护
 
 **面向 AI agent 的 Bitget Wallet 链上操作技能包：查询、换币与跨链**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bitget-wallet-ai-lab/bitget-wallet-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 247 --> 258
-    line [248, 250, 252, 253, 254, 255, 257]
+    title "bitget-wallet-ai-lab/bitget-wallet-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 247 --> 260
+    line [248, 250, 252, 253, 254, 255, 257, 259]
 ```
 
-2026-10-18 248 → 2026-11-01 257（+9）
+2026-10-18 248 → 2026-11-02 259（+11）
 
 
 ---

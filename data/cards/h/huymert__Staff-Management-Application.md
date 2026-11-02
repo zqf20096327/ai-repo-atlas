@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huymert/Staff-Management-Application 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    title "huymert/Staff-Management-Application 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 18]
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-01 18（+2）
+2026-10-18 16 → 2026-11-02 18（+2）
 
 
 ---

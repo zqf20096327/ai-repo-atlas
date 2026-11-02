@@ -1,6 +1,6 @@
 # edaaydinea/AI-Projects-for-Healthcare
 
-⭐ 275 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-05 · [GitHub](https://github.com/edaaydinea/AI-Projects-for-Healthcare) · 个人维护
+⭐ 274 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-05 · [GitHub](https://github.com/edaaydinea/AI-Projects-for-Healthcare) · 个人维护
 
 **医疗健康领域 AI/ML 项目合集：教学与研究实现策展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "edaaydinea/AI-Projects-for-Healthcare 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
     y-axis "stars" 273 --> 276
-    line [275, 274, 275, 275]
+    line [275, 274, 275, 274]
 ```
 
-2026-10-18 275 → 2026-11-01 275（+0）
+2026-10-18 275 → 2026-11-02 274（-1）
 
 
 ---

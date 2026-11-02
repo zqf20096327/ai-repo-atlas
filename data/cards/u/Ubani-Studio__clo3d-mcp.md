@@ -1,6 +1,6 @@
 # Ubani-Studio/clo3d-mcp
 
-⭐ 45 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Ubani-Studio/clo3d-mcp) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Ubani-Studio/clo3d-mcp) · 组织维护
 
 **让 Claude/Cursor 等 MCP 客户端控制 CLO3D 服装设计的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ubani-Studio/clo3d-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 40 --> 46
-    line [41, 43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 40 --> 47
+    line [41, 43, 44, 45, 46]
 ```
 
-2026-10-18 41 → 2026-11-01 45（+4）
+2026-10-18 41 → 2026-11-02 46（+5）
 
 
 ---

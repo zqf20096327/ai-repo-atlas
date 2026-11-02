@@ -1,6 +1,6 @@
 # zenstory-ai/zenstory
 
-⭐ 83 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zenstory-ai/zenstory) · [官网](https://zenstory.ai/workbench) · 组织维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zenstory-ai/zenstory) · [官网](https://zenstory.ai/workbench) · 组织维护 · 中文 README
 
 **AI Agent 驱动的浏览器小说写作工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zenstory-ai/zenstory 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 71 --> 84
-    line [72, 74, 76, 77, 78, 79, 81, 83, 83]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 71 --> 85
+    line [72, 74, 76, 77, 78, 79, 81, 83, 84]
 ```
 
-2026-10-18 72 → 2026-11-01 83（+11）
+2026-10-18 72 → 2026-11-02 84（+12）
 
 
 ---

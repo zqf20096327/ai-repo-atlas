@@ -1,6 +1,6 @@
 # microsoft/PowerApps-Samples
 
-⭐ 1,999 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/PowerApps-Samples) · [官网](https://docs.microsoft.com/powerapps) · 组织维护
+⭐ 2,000 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/PowerApps-Samples) · [官网](https://docs.microsoft.com/powerapps) · 组织维护
 
 **微软官方 Power Apps 平台示例代码集合，覆盖 Dataverse/PCF/AI Builder 等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/PowerApps-Samples 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1993 --> 2000
-    line [1994, 1995, 1996, 1997, 1998, 1999, 1999]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 1993 --> 2001
+    line [1994, 1995, 1996, 1997, 1998, 1999, 2000]
 ```
 
-2026-10-18 1,994 → 2026-11-01 1,999（+5）
+2026-10-18 1,994 → 2026-11-02 2,000（+6）
 
 
 ---

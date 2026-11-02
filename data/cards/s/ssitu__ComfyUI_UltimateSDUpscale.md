@@ -1,6 +1,6 @@
 # ssitu/ComfyUI_UltimateSDUpscale
 
-⭐ 1,583 · Python · GPL-3.0 · 推送 2026-06-22 · [GitHub](https://github.com/ssitu/ComfyUI_UltimateSDUpscale) · 个人维护
+⭐ 1,582 · Python · GPL-3.0 · 推送 2026-06-22 · [GitHub](https://github.com/ssitu/ComfyUI_UltimateSDUpscale) · 个人维护
 
 **ComfyUI 节点：以分块 img2img 方式放大图像**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "ssitu/ComfyUI_UltimateSDUpscale 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 1573 --> 1584
-    line [1574, 1577, 1578, 1579, 1581, 1582, 1583, 1583]
+    line [1574, 1577, 1578, 1579, 1581, 1582, 1583, 1582]
 ```
 
-2026-10-18 1,574 → 2026-11-01 1,583（+9）
+2026-10-18 1,574 → 2026-11-02 1,582（+8）
 
 
 ---

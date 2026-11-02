@@ -1,6 +1,6 @@
 # brian901106/FoodKcalNotes
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/brian901106/FoodKcalNotes) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/brian901106/FoodKcalNotes) · 个人维护 · 中文 README
 
 **本机自架的饮食热量日志 App：AI 识别食物与份量，热量来自可核对来源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brian901106/FoodKcalNotes 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3 --> 13
-    line [4, 11, 12, 12]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 3 --> 18
+    line [4, 11, 12, 17]
 ```
 
-2026-10-29 4 → 2026-11-01 12（+8）
+2026-10-29 4 → 2026-11-02 17（+13）
 
 
 ---

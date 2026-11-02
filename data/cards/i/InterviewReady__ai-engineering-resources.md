@@ -1,6 +1,6 @@
 # InterviewReady/ai-engineering-resources
 
-⭐ 2,667 · 推送 2025-11-19 · [GitHub](https://github.com/InterviewReady/ai-engineering-resources) · [官网](https://interviewready.io) · 组织维护
+⭐ 2,668 · 推送 2025-11-19 · [GitHub](https://github.com/InterviewReady/ai-engineering-resources) · [官网](https://interviewready.io) · 组织维护
 
 **软件工程师转型 AI 工程师的论文与资源清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "InterviewReady/ai-engineering-resources 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2662 --> 2668
-    line [2663, 2664, 2665, 2666, 2667, 2666, 2665, 2667, 2667]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 2662 --> 2669
+    line [2663, 2664, 2665, 2666, 2667, 2666, 2665, 2667, 2668]
 ```
 
-2026-10-18 2,663 → 2026-11-01 2,667（+4）
+2026-10-18 2,663 → 2026-11-02 2,668（+5）
 
 
 ---

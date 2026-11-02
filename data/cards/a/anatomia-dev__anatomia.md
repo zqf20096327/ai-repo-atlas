@@ -45,13 +45,13 @@ Node.js CLI 工具，扫描代码库识别框架、数据库、约定与模式�
 
 ```mermaid
 xychart-beta
-    title "anatomia-dev/anatomia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "anatomia-dev/anatomia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 31 --> 34
-    line [33, 32]
+    line [33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-11-01 32（-1）
+2026-10-18 33 → 2026-11-02 32（-1）
 
 
 ---

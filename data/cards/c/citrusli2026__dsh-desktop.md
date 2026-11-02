@@ -1,6 +1,6 @@
 # citrusli2026/dsh-desktop
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/citrusli2026/dsh-desktop) · [官网](https://dsh-desktop.com) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/citrusli2026/dsh-desktop) · [官网](https://dsh-desktop.com) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方 WebUI 的非官方 Electron 桌面封装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "citrusli2026/dsh-desktop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02"]
     y-axis "stars" 14 --> 19
     line [15, 16, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-01 18（+3）
+2026-10-18 15 → 2026-11-02 18（+3）
 
 
 ---

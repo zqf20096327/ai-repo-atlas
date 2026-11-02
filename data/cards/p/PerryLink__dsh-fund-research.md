@@ -1,6 +1,6 @@
 # PerryLink/dsh-fund-research
 
-⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-fund-research) · [官网](https://perrylink.github.io/plugins/dsh-fund-research/) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/PerryLink/dsh-fund-research) · [官网](https://perrylink.github.io/plugins/dsh-fund-research/) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 生成中国公募基金确定性研究报告的插件**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（dsh）插件，面向中国公募基金研究：输入基金�
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-fund-research 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
     y-axis "stars" 64 --> 68
     line [67, 65, 66, 66]
 ```
 
-2026-10-18 67 → 2026-11-01 66（-1）
+2026-10-18 67 → 2026-11-02 66（-1）
 
 
 ---

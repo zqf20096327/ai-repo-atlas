@@ -1,6 +1,6 @@
 # Ju571nK/lodeline
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Ju571nK/lodeline) · [官网](https://lodeline.dev) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Ju571nK/lodeline) · [官网](https://lodeline.dev) · 个人维护
 
 **扫描 AI 编程 agent 配置并评分暴露风险的安全工具**
 
@@ -40,6 +40,18 @@
 > L3: **A config scanner for AI coding agents.** Claude Code, Codex, and Cursor can run
 > L49: Across the agents you actually run: **Claude Code, Codex, Cursor, Gemini CLI, Antigravity, Continue.dev, Claude Des
 > L91: `lodeline-mcp` exposes the score over plain MCP, so an AI client can read its own
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ju571nK/lodeline 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
+```
+
+2026-11-01 15 → 2026-11-02 16（+1）
 
 
 ---

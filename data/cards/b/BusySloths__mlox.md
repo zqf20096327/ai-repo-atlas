@@ -1,6 +1,6 @@
 # BusySloths/mlox
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/BusySloths/mlox) · [官网](https://busysloths.github.io/mlox/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/BusySloths/mlox) · [官网](https://busysloths.github.io/mlox/) · 组织维护
 
 **自有服务器上部署管理 ML/AI 基础设施的一体化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BusySloths/mlox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # amitshekhariitbhu/ai-engineering-interview-questions
 
-⭐ 3,595 · Markdown · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 3,598 · Markdown · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **AI 工程面试题与答案清单，覆盖 LLM/RAG/Agent 等主题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/ai-engineering-interview-questions 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3446 --> 3608
-    line [3459, 3482, 3514, 3523, 3530, 3541, 3553, 3568, 3573, 3583, 3584, 3590, 3595]
+    title "amitshekhariitbhu/ai-engineering-interview-questions 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3446 --> 3611
+    line [3459, 3482, 3514, 3523, 3530, 3541, 3553, 3568, 3573, 3583, 3584, 3590, 3595, 3598]
 ```
 
-2026-10-18 3,459 → 2026-11-01 3,595（+136）
+2026-10-18 3,459 → 2026-11-02 3,598（+139）
 
 
 ---

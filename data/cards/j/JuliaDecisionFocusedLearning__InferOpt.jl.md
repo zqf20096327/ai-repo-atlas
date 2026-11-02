@@ -44,12 +44,12 @@ InferOpt.jl 是 Julia 语言工具箱，用于在机器学习流水线中使用�
 ```mermaid
 xychart-beta
     title "JuliaDecisionFocusedLearning/InferOpt.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 132 --> 135
     line [133, 134, 134]
 ```
 
-2026-10-18 133 → 2026-11-01 134（+1）
+2026-10-18 133 → 2026-11-02 134（+1）
 
 
 ---

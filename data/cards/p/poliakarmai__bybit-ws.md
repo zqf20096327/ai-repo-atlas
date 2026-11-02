@@ -1,6 +1,6 @@
 # poliakarmai/bybit-ws
 
-⭐ 18 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/poliakarmai/bybit-ws) · [官网](https://t.me/Gridbolbot) · 个人维护
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/poliakarmai/bybit-ws) · [官网](https://t.me/Gridbolbot) · 个人维护
 
 **面向 Bybit 合约的布林带网格自动交易引擎，带 ML 过滤与 MCP 接口**
 
@@ -46,12 +46,12 @@ Python 编写的 7x24 自动交易引擎：基于 Bollinger Bands 在日线级�
 ```mermaid
 xychart-beta
     title "poliakarmai/bybit-ws 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
     y-axis "stars" 10 --> 19
     line [11, 14, 16, 17, 18, 18]
 ```
 
-2026-10-22 11 → 2026-11-01 18（+7）
+2026-10-22 11 → 2026-11-02 18（+7）
 
 
 ---

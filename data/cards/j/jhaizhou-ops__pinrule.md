@@ -1,6 +1,6 @@
 # jhaizhou-ops/pinrule
 
-⭐ 72 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/jhaizhou-ops/pinrule) · [官网](https://pypi.org/project/pinrule/) · 个人维护 · 中文 README
+⭐ 73 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/jhaizhou-ops/pinrule) · [官网](https://pypi.org/project/pinrule/) · 个人维护 · 中文 README
 
 **给 AI 编程助手的长期行为规则固定框架：防止长任务中规则漂移**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jhaizhou-ops/pinrule 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 56 --> 73
-    line [57, 62, 64, 66, 67, 70, 71, 72, 72]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 56 --> 74
+    line [57, 62, 64, 66, 67, 70, 71, 72, 73]
 ```
 
-2026-10-18 57 → 2026-11-01 72（+15）
+2026-10-18 57 → 2026-11-02 73（+16）
 
 
 ---

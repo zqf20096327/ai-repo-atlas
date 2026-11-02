@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spinfinc/spinf-serve 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    title "spinfinc/spinf-serve 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 4 --> 21
-    line [5, 20]
+    line [5, 20, 20]
 ```
 
-2026-10-31 5 → 2026-11-01 20（+15）
+2026-10-31 5 → 2026-11-02 20（+15）
 
 
 ---

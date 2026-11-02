@@ -46,12 +46,12 @@ MIF（Modeled Information Format）是一个 MIT 许可的开放规范，为 OKF
 ```mermaid
 xychart-beta
     title "modeled-information-format/MIF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

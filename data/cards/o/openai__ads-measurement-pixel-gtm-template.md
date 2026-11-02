@@ -1,6 +1,6 @@
 # openai/ads-measurement-pixel-gtm-template
 
-⭐ 11 · Smarty · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/openai/ads-measurement-pixel-gtm-template) · 组织维护
+⭐ 12 · Smarty · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/openai/ads-measurement-pixel-gtm-template) · 组织维护
 
 **OpenAI 广告度量像素的 GTM 标签模板：免代码安装配置**
 
@@ -45,12 +45,12 @@ Google Tag Manager 网页标签模板，供广告主安装和配置 OpenAI Ads M
 ```mermaid
 xychart-beta
     title "openai/ads-measurement-pixel-gtm-template 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-22", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-22 10 → 2026-11-01 11（+1）
+2026-10-22 10 → 2026-11-02 12（+2）
 
 
 ---

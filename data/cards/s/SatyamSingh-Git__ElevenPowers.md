@@ -1,6 +1,6 @@
 # SatyamSingh-Git/ElevenPowers
 
-⭐ 15 · Python · 推送 2026-10-31 · [GitHub](https://github.com/SatyamSingh-Git/ElevenPowers) · [官网](https://satyamsingh-git.github.io/ElevenPowers/architecture/) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/SatyamSingh-Git/ElevenPowers) · [官网](https://satyamsingh-git.github.io/ElevenPowers/architecture/) · 个人维护
 
 **为编码 agent 提供“完成”判定的证据验证层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SatyamSingh-Git/ElevenPowers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

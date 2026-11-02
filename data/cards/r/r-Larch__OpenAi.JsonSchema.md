@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "r-Larch/OpenAi.JsonSchema 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "r-Larch/OpenAi.JsonSchema 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-01 17（+1）
+2026-10-18 16 → 2026-11-02 17（+1）
 
 
 ---

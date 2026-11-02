@@ -45,12 +45,12 @@ The Cato Bot Company 开发的 Model Context Protocol 服务器，使大语言�
 ```mermaid
 xychart-beta
     title "IamCatoBot/text2sim-MCP-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-01 25（+0）
+2026-10-18 25 → 2026-11-02 25（+0）
 
 
 ---

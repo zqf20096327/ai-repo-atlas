@@ -1,6 +1,6 @@
 # nirholas/solana-sniper-mcp
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/nirholas/solana-sniper-mcp) · [官网](https://nirholas.github.io/solana-sniper-mcp/) · 个人维护
+⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/nirholas/solana-sniper-mcp) · [官网](https://nirholas.github.io/solana-sniper-mcp/) · 个人维护
 
 **供 3D AI agent 使用的 pump.fun 打新交易引擎（库/CLI/MCP/付费API）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/solana-sniper-mcp 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-22", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-01 12（+0）
+2026-10-22 12 → 2026-11-02 12（+0）
 
 
 ---

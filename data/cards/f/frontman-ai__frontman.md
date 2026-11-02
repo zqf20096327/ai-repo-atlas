@@ -1,6 +1,6 @@
 # frontman-ai/frontman
 
-⭐ 721 · ReScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/frontman-ai/frontman) · [官网](https://frontman.sh) · 组织维护
+⭐ 721 · ReScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/frontman-ai/frontman) · [官网](https://frontman.sh) · 组织维护
 
 **浏览器内 AI 编码 agent：点击页面元素用自然语言改前端源码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "frontman-ai/frontman 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
+    title "frontman-ai/frontman 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 717 --> 722
-    line [718, 719, 720, 721]
+    line [718, 719, 720, 721, 721]
 ```
 
-2026-10-18 718 → 2026-11-01 721（+3）
+2026-10-18 718 → 2026-11-02 721（+3）
 
 
 ---

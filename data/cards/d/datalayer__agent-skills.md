@@ -1,6 +1,6 @@
 # datalayer/agent-skills
 
-⭐ 18 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/datalayer/agent-skills) · [官网](https://agent-skills.datalayer.tech) · 组织维护
+⭐ 19 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/datalayer/agent-skills) · [官网](https://agent-skills.datalayer.tech) · 组织维护
 
 **为 AI agent 创建、管理与执行可复用技能的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datalayer/agent-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19]
 ```
 
-2026-10-18 16 → 2026-11-01 18（+2）
+2026-10-18 16 → 2026-11-02 19（+3）
 
 
 ---

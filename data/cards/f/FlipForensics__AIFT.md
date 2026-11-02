@@ -1,6 +1,6 @@
 # FlipForensics/AIFT
 
-⭐ 52 · Python · AGPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/FlipForensics/AIFT) · [官网](https://github.com/FlipForensics/AIFT/wiki) · 组织维护
+⭐ 53 · Python · AGPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/FlipForensics/AIFT) · [官网](https://github.com/FlipForensics/AIFT/wiki) · 组织维护
 
 **面向 DFIR 分析师的取证初筛工具，AI 解析证据生成线索报告**
 
@@ -44,13 +44,13 @@ AIFT 是数字取证与事件响应（DFIR）初筛工具，支持 GUI、CLI、R
 
 ```mermaid
 xychart-beta
-    title "FlipForensics/AIFT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-01"]
+    title "FlipForensics/AIFT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 50 --> 54
-    line [51, 52, 53, 52]
+    line [51, 52, 53, 52, 53]
 ```
 
-2026-10-18 51 → 2026-11-01 52（+1）
+2026-10-18 51 → 2026-11-02 53（+2）
 
 
 ---

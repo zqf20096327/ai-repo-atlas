@@ -1,6 +1,6 @@
 # thegeekyb0y/learnpython
 
-⭐ 990 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/thegeekyb0y/learnpython) · 个人维护
+⭐ 991 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/thegeekyb0y/learnpython) · 个人维护
 
 **Python 学习资源清单：覆盖入门到 AI/LLM 开发的链接合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thegeekyb0y/learnpython 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 984 --> 991
-    line [985, 987, 988, 989, 988, 989, 990]
+    title "thegeekyb0y/learnpython 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 984 --> 992
+    line [985, 987, 988, 989, 988, 989, 990, 991]
 ```
 
-2026-10-18 985 → 2026-11-01 990（+5）
+2026-10-18 985 → 2026-11-02 991（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # FunnyWolf/agentic-soc-platform
 
-⭐ 1,221 · Python · 推送 2026-09-29 · [GitHub](https://github.com/FunnyWolf/agentic-soc-platform) · [官网](https://asp.viperrtp.com) · 个人维护 · 中文 README
+⭐ 1,222 · Python · 推送 2026-09-29 · [GitHub](https://github.com/FunnyWolf/agentic-soc-platform) · [官网](https://asp.viperrtp.com) · 个人维护 · 中文 README
 
 **给安全运营团队：用 AI agent 做告警分诊与调查的开源 SOC 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FunnyWolf/agentic-soc-platform 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1211 --> 1222
-    line [1212, 1217, 1216, 1217, 1218, 1220, 1221, 1221]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 1211 --> 1223
+    line [1212, 1217, 1216, 1217, 1218, 1220, 1221, 1222]
 ```
 
-2026-10-18 1,212 → 2026-11-01 1,221（+9）
+2026-10-18 1,212 → 2026-11-02 1,222（+10）
 
 
 ---

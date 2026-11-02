@@ -1,6 +1,6 @@
 # NVIDIA/GenerativeAIExamples
 
-⭐ 4,217 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/GenerativeAIExamples) · 组织维护
+⭐ 4,219 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/GenerativeAIExamples) · 组织维护
 
 **NVIDIA 生成式 AI 参考工作流集合：加速构建 RAG 与 Agentic 应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NVIDIA/GenerativeAIExamples 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4209 --> 4219
-    line [4210, 4212, 4214, 4216, 4217, 4218, 4217, 4217]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 4209 --> 4220
+    line [4210, 4212, 4214, 4216, 4217, 4218, 4217, 4219]
 ```
 
-2026-10-18 4,210 → 2026-11-01 4,217（+7）
+2026-10-18 4,210 → 2026-11-02 4,219（+9）
 
 
 ---

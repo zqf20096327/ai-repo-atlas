@@ -1,6 +1,6 @@
 # QuesmaOrg/awesome-ai-tokenomics
 
-⭐ 210 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/QuesmaOrg/awesome-ai-tokenomics) · 组织维护
+⭐ 211 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/QuesmaOrg/awesome-ai-tokenomics) · 组织维护
 
 **AI token 经济学策展清单：token 成本、测量、优化与治理工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QuesmaOrg/awesome-ai-tokenomics 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 202 --> 211
-    line [203, 204, 205, 206, 208, 210, 210]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 202 --> 212
+    line [203, 204, 205, 206, 208, 210, 211]
 ```
 
-2026-10-18 203 → 2026-11-01 210（+7）
+2026-10-18 203 → 2026-11-02 211（+8）
 
 
 ---

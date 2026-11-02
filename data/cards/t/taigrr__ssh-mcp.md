@@ -1,6 +1,6 @@
 # taigrr/ssh-mcp
 
-⭐ 12 · Go · 0BSD · 推送 2026-10-23 · [GitHub](https://github.com/taigrr/ssh-mcp) · [官网](https://pkg.go.dev/github.com/taigrr/ssh-mcp) · 个人维护
+⭐ 12 · Go · 0BSD · 推送 2026-11-01 · [GitHub](https://github.com/taigrr/ssh-mcp) · [官网](https://pkg.go.dev/github.com/taigrr/ssh-mcp) · 个人维护
 
 **给 AI 编程 agent 提供持久 SSH 会话的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taigrr/ssh-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "taigrr/ssh-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

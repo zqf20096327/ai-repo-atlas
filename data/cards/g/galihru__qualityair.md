@@ -1,6 +1,6 @@
 # galihru/qualityair
 
-⭐ 12 · C++ · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/galihru/qualityair) · [官网](https://galihru.github.io/qualityair/) · 个人维护
+⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/galihru/qualityair) · [官网](https://galihru.github.io/qualityair/) · 个人维护
 
 **ESP32+MQ-7 一氧化碳实时监测系统，数据推送 GitHub**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "galihru/qualityair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

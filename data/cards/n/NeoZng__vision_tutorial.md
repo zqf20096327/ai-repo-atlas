@@ -1,6 +1,6 @@
 # NeoZng/vision_tutorial
 
-⭐ 390 · Shell · MIT · 推送 2026-08-23 · [GitHub](https://github.com/NeoZng/vision_tutorial) · 个人维护 · 中文 README
+⭐ 391 · Shell · MIT · 推送 2026-08-23 · [GitHub](https://github.com/NeoZng/vision_tutorial) · 个人维护 · 中文 README
 
 **计算机视觉与 RoboMaster 入门教程及 OpenCV 练习代码仓库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "NeoZng/vision_tutorial 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 386 --> 391
-    line [387, 388, 389, 390, 390]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 386 --> 392
+    line [387, 388, 389, 390, 391]
 ```
 
-2026-10-18 387 → 2026-11-01 390（+3）
+2026-10-18 387 → 2026-11-02 391（+4）
 
 
 ---

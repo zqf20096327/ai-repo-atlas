@@ -1,6 +1,6 @@
 # clowlove/Hermes-House
 
-⭐ 15 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/clowlove/Hermes-House) · [官网](https://clowlove.github.io/Hermes-House/) · 个人维护 · 中文 README
+⭐ 15 · HTML · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/clowlove/Hermes-House) · [官网](https://clowlove.github.io/Hermes-House/) · 个人维护 · 中文 README
 
 **自进化多 Agent 系统：持续学习并自动扩展技能库**
 
@@ -44,13 +44,13 @@ Hermès Agent 是一个自进化多 Agent 系统，包含核心记忆系统（ME
 
 ```mermaid
 xychart-beta
-    title "clowlove/Hermes-House 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "clowlove/Hermes-House 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

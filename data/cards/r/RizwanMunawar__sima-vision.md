@@ -1,6 +1,6 @@
 # RizwanMunawar/sima-vision
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/RizwanMunawar/sima-vision) · [官网](https://rizwanai.com) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/RizwanMunawar/sima-vision) · [官网](https://rizwanai.com) · 个人维护
 
 **SiMa Modalix 开发板上运行 YOLO 视觉应用的 CLI 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RizwanMunawar/sima-vision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 15 --> 20
-    line [16, 18, 19]
+    title "RizwanMunawar/sima-vision 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 15 --> 21
+    line [16, 18, 19, 20]
 ```
 
-2026-10-18 16 → 2026-11-01 19（+3）
+2026-10-18 16 → 2026-11-02 20（+4）
 
 
 ---

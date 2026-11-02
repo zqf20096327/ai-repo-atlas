@@ -1,6 +1,6 @@
 # liyupi/yupi-skill
 
-⭐ 453 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/liyupi/yupi-skill) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
+⭐ 454 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/liyupi/yupi-skill) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
 
 **把博主程序员鱼皮蒸馏成 AI 技能包，供编程求职咨询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/yupi-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 450 --> 454
-    line [451, 452, 453, 453]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 450 --> 455
+    line [451, 452, 453, 454]
 ```
 
-2026-10-18 451 → 2026-11-01 453（+2）
+2026-10-18 451 → 2026-11-02 454（+3）
 
 
 ---

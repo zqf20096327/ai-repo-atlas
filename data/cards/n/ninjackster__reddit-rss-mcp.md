@@ -1,6 +1,6 @@
 # ninjackster/reddit-rss-mcp
 
-⭐ 15 · JavaScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/ninjackster/reddit-rss-mcp) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/ninjackster/reddit-rss-mcp) · 个人维护
 
 **无凭据读取 Reddit 的 MCP 服务器：RSS 通道供 LLM 客户端调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ninjackster/reddit-rss-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 16（+2）
 
 
 ---

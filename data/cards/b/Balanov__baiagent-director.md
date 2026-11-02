@@ -1,6 +1,6 @@
 # Balanov/baiagent-director
 
-⭐ 303 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Balanov/baiagent-director) · [官网](https://baiagent.ru/free/) · 个人维护
+⭐ 305 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Balanov/baiagent-director) · [官网](https://baiagent.ru/free/) · 个人维护
 
 **本地优先的 AI 商业顾问：调研带证据、生成可验证试点方案**
 
@@ -39,6 +39,18 @@
 
 > L5: Укажите сайт компании. Советник исследует открытые страницы и внешние упоминания, отделяет факты от гипотез, показыв
 > L24: - Qwen через существующую локальную Ollama или загружаемая модель Qwen3-4B — без обязательного облачного API-ключа.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Balanov/baiagent-director 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 302 --> 306
+    line [303, 305]
+```
+
+2026-11-01 303 → 2026-11-02 305（+2）
 
 
 ---

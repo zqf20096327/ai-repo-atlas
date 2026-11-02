@@ -1,6 +1,6 @@
 # everest-an/Awareness-Market
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/everest-an/Awareness-Market) · [官网](https://awareness.market) · 组织维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/everest-an/Awareness-Market) · [官网](https://awareness.market) · 组织维护 · 中文 README
 
 **给 AI 编程代理的本地跨会话记忆插件（MCP 服务器）**
 
@@ -45,12 +45,12 @@ Awareness Local 是面向 AI 编程代理的持久记忆插件，以本地 MCP �
 ```mermaid
 xychart-beta
     title "everest-an/Awareness-Market 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

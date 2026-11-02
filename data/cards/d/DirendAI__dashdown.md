@@ -1,6 +1,6 @@
 # DirendAI/dashdown
 
-⭐ 18 · Python · AGPL-3.0 · 推送 2026-07-24 · [GitHub](https://github.com/DirendAI/dashdown) · [官网](https://direndai.github.io/dashdown/) · 组织维护
+⭐ 19 · Python · AGPL-3.0 · 推送 2026-07-24 · [GitHub](https://github.com/DirendAI/dashdown) · [官网](https://direndai.github.io/dashdown/) · 组织维护
 
 **用 Markdown+SQL 生成交互式分析仪表盘的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DirendAI/dashdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-01 18（+0）
+2026-10-18 18 → 2026-11-02 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSpeech
 
-⭐ 12,702 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) · [官网](https://paddlespeech.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,701 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) · [官网](https://paddlespeech.readthedocs.io) · 组织维护 · 中文 README
 
 **飞桨平台的语音工具包：ASR/TTS/声纹/翻译/标点等全栈语音任务**
 
@@ -44,13 +44,13 @@ PaddleSpeech 是基于 PaddlePaddle 深度学习平台的开源语音工具包�
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/PaddleSpeech 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "PaddlePaddle/PaddleSpeech 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 12693 --> 12703
-    line [12694, 12696, 12698, 12697, 12698, 12699, 12700, 12701, 12702]
+    line [12694, 12696, 12698, 12697, 12698, 12699, 12700, 12701, 12702, 12701]
 ```
 
-2026-10-18 12,694 → 2026-11-01 12,702（+8）
+2026-10-18 12,694 → 2026-11-02 12,701（+7）
 
 
 ---

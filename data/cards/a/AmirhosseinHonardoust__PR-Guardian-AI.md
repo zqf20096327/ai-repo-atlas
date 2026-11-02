@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/PR-Guardian-AI
 
-⭐ 19 · Python · MIT · 推送 2025-12-06 · [GitHub](https://github.com/AmirhosseinHonardoust/PR-Guardian-AI) · 个人维护
+⭐ 20 · Python · MIT · 推送 2025-12-06 · [GitHub](https://github.com/AmirhosseinHonardoust/PR-Guardian-AI) · 个人维护
 
 **自动审查 GitHub Pull Request 并在 PR 内写评论的 AI 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/PR-Guardian-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 18 --> 21
-    line [20, 19, 19]
+    line [20, 19, 20]
 ```
 
-2026-10-18 20 → 2026-11-01 19（-1）
+2026-10-18 20 → 2026-11-02 20（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Linux 输入法框架 Fcitx5 的 C++20 插件：通过 PulseAudio/PipeWire 采�
 ```mermaid
 xychart-beta
     title "devcxl/fcitx5-voice-input 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

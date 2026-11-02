@@ -45,12 +45,12 @@ Outerbounds 维护的开源 Metaflow（OSS）部署与运维工具仓库：提�
 ```mermaid
 xychart-beta
     title "outerbounds/metaflow-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-01 68（+0）
+2026-10-18 68 → 2026-11-02 68（+0）
 
 
 ---

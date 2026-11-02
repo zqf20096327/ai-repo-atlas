@@ -44,12 +44,12 @@ Flask+gunicorn 后端与 Vue 前端组成的网页应用：输入 GitHub 仓库�
 ```mermaid
 xychart-beta
     title "vra/llm-code-scorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

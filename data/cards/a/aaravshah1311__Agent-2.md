@@ -1,6 +1,6 @@
 # aaravshah1311/Agent-2
 
-⭐ 166 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aaravshah1311/Agent-2) · [官网](https://agent2.is-best.net) · 个人维护
+⭐ 167 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aaravshah1311/Agent-2) · [官网](https://agent2.is-best.net) · 个人维护
 
 **本地运行的自主 AI agent 框架：用 Gemini 编码与执行终端任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaravshah1311/Agent-2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 132 --> 169
-    line [136, 135, 136, 160, 165, 166]
+    title "aaravshah1311/Agent-2 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 132 --> 170
+    line [136, 135, 136, 160, 165, 166, 167]
 ```
 
-2026-10-18 136 → 2026-11-01 166（+30）
+2026-10-18 136 → 2026-11-02 167（+31）
 
 
 ---

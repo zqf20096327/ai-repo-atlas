@@ -1,6 +1,6 @@
 # Azure-Samples/Cosmic-Food-RAG-app
 
-⭐ 67 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) · [官网](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-ai-rag-apps-with-langchain-azure-documentdb-and-microsoft-foundry-step-by-/4513775?wt.mc_id=studentamb_71460) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) · [官网](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-ai-rag-apps-with-langchain-azure-documentdb-and-microsoft-foundry-step-by-/4513775?wt.mc_id=studentamb_71460) · 组织维护
 
 **Azure OpenAI + DocumentDB 的餐饮点餐 RAG 演示应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/Cosmic-Food-RAG-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-11-01 67（+0）
+2026-10-18 67 → 2026-11-02 67（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lightonai/next-plaid
 
-⭐ 606 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/lightonai/next-plaid) · [官网](https://lightonai.github.io/next-plaid/) · 组织维护
+⭐ 607 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/lightonai/next-plaid) · [官网](https://lightonai.github.io/next-plaid/) · 组织维护
 
 **本地多向量搜索引擎 NextPlaid 及其上的语义代码搜索工具 ColGREP**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lightonai/next-plaid 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 593 --> 607
-    line [594, 599, 601, 599, 600, 604, 606, 606]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 593 --> 608
+    line [594, 599, 601, 599, 600, 604, 606, 607]
 ```
 
-2026-10-18 594 → 2026-11-01 606（+12）
+2026-10-18 594 → 2026-11-02 607（+13）
 
 
 ---

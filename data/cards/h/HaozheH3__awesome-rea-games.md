@@ -1,6 +1,6 @@
 # HaozheH3/awesome-rea-games
 
-⭐ 58 · 推送 2026-10-16 · [GitHub](https://github.com/HaozheH3/awesome-rea-games) · 个人维护
+⭐ 63 · 推送 2026-10-16 · [GitHub](https://github.com/HaozheH3/awesome-rea-games) · 个人维护
 
 **游戏逆向工程与反编译项目策展清单（103 款游戏、140 个项目）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HaozheH3/awesome-rea-games 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 0 --> 66
-    line [5, 61, 6, 7, 8, 58]
+    title "HaozheH3/awesome-rea-games 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 68
+    line [5, 61, 6, 7, 8, 58, 63]
 ```
 
-2026-10-18 5 → 2026-11-01 58（+53）
+2026-10-18 5 → 2026-11-02 63（+58）
 
 
 ---

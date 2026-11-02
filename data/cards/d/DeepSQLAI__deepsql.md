@@ -1,6 +1,6 @@
 # DeepSQLAI/deepsql
 
-⭐ 40 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/DeepSQLAI/deepsql) · [官网](https://deepsql.ai/) · 组织维护
+⭐ 40 · Java · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/DeepSQLAI/deepsql) · [官网](https://deepsql.ai/) · 组织维护
 
 **面向 Postgres/MySQL 的自托管数据库 AI 代理：自然语言问答、慢查询分析、索引建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DeepSQLAI/deepsql 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-01 40（+1）
+2026-10-18 39 → 2026-11-02 40（+1）
 
 
 ---

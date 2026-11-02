@@ -1,6 +1,6 @@
 # kitfunso/hippo-memory
 
-⭐ 788 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
+⭐ 790 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
 
 **给编码 agent 的本地长期记忆层：跨工具共享一个记忆库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kitfunso/hippo-memory 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 780 --> 789
-    line [781, 782, 784, 785, 786, 787, 788]
+    title "kitfunso/hippo-memory 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 780 --> 791
+    line [781, 782, 784, 785, 786, 787, 788, 790]
 ```
 
-2026-10-18 781 → 2026-11-01 788（+7）
+2026-10-18 781 → 2026-11-02 790（+9）
 
 
 ---

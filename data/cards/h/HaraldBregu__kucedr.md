@@ -1,6 +1,6 @@
 # HaraldBregu/kucedr
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/HaraldBregu/kucedr) · [官网](https://kucedr.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/HaraldBregu/kucedr) · [官网](https://kucedr.com) · 个人维护
 
 **跨平台桌面个人 AI 助手：对话驱动文件、研究与媒体创作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HaraldBregu/kucedr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

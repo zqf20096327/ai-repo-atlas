@@ -1,6 +1,6 @@
 # basecompute/superfluid
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/basecompute/superfluid) · [官网](https://superfluid.sh) · 组织维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/basecompute/superfluid) · [官网](https://superfluid.sh) · 组织维护
 
 **本地 LLM 推理服务守护进程：统一调度多运行时多机器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "basecompute/superfluid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    title "basecompute/superfluid 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-02"]
     y-axis "stars" 15 --> 21
-    line [16, 17, 18, 19, 20]
+    line [16, 17, 18, 19, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-01 20（+4）
+2026-10-18 16 → 2026-11-02 20（+4）
 
 
 ---

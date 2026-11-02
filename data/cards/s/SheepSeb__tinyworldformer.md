@@ -1,6 +1,6 @@
 # SheepSeb/tinyworldformer
 
-⭐ 321 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/SheepSeb/tinyworldformer) · [官网](https://sheepseb.github.io/stealth/posts/tinyworldformer.html) · 个人维护
+⭐ 334 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/SheepSeb/tinyworldformer) · [官网](https://sheepseb.github.io/stealth/posts/tinyworldformer.html) · 个人维护
 
 **在树莓派 Pico 2W 上生成并游玩游戏的微型世界模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SheepSeb/tinyworldformer 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 0 --> 352
-    line [3, 292, 321]
+    title "SheepSeb/tinyworldformer 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 367
+    line [3, 292, 321, 334]
 ```
 
-2026-10-30 3 → 2026-11-01 321（+318）
+2026-10-30 3 → 2026-11-02 334（+331）
 
 
 ---

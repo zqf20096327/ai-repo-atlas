@@ -1,6 +1,6 @@
 # panaversity/ksor
 
-⭐ 234 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/panaversity/ksor) · [官网](https://ksor.panaversity.org/) · 组织维护
+⭐ 235 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/panaversity/ksor) · [官网](https://ksor.panaversity.org/) · 组织维护
 
 **构建受治理权威知识记录的开源框架，供人与 AI agent 共用**
 
@@ -44,13 +44,13 @@ KSoR 是一个 vendor-neutral 的知识基础设施 SDK，面向企业和教育�
 
 ```mermaid
 xychart-beta
-    title "panaversity/ksor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 229 --> 235
-    line [230, 231, 232, 233, 234]
+    title "panaversity/ksor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 229 --> 236
+    line [230, 231, 232, 233, 234, 235]
 ```
 
-2026-10-18 230 → 2026-11-01 234（+4）
+2026-10-18 230 → 2026-11-02 235（+5）
 
 
 ---

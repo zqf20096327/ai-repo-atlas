@@ -1,6 +1,6 @@
 # xianshang33/llm-paper-daily
 
-⭐ 1,339 · Python · 推送 2026-10-31 · [GitHub](https://github.com/xianshang33/llm-paper-daily) · 个人维护 · 中文 README
+⭐ 1,340 · Python · 推送 2026-10-31 · [GitHub](https://github.com/xianshang33/llm-paper-daily) · 个人维护 · 中文 README
 
 **每日更新的 LLM/Agent 论文精选清单（附 arXiv 链接与摘要）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "xianshang33/llm-paper-daily 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1335 --> 1340
-    line [1336, 1337, 1338, 1337, 1339]
+    title "xianshang33/llm-paper-daily 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1335 --> 1341
+    line [1336, 1337, 1338, 1337, 1339, 1340]
 ```
 
-2026-10-18 1,336 → 2026-11-01 1,339（+3）
+2026-10-18 1,336 → 2026-11-02 1,340（+4）
 
 
 ---

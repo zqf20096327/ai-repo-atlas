@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 971 --> 973
     line [972, 972]
 ```
 
-2026-10-18 972 → 2026-11-01 972（+0）
+2026-10-18 972 → 2026-11-02 972（+0）
 
 
 ---

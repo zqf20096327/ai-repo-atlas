@@ -1,6 +1,6 @@
 # LeoYeAI/agent-master-skills
 
-⭐ 2,168 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 2,171 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **2700+ 条 agent 技能策展清单，适配多 agent 运行时**
 
@@ -38,6 +38,18 @@
 
 > L20: This is a **harness-agnostic** collection: every skill is a plain `SKILL.md`
 > L64: ## 📦 Skill Index (388 curated skills)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LeoYeAI/agent-master-skills 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 2167 --> 2172
+    line [2168, 2171]
+```
+
+2026-11-01 2,168 → 2026-11-02 2,171（+3）
 
 
 ---

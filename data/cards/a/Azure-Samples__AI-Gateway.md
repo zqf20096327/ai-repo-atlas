@@ -1,6 +1,6 @@
 # Azure-Samples/AI-Gateway
 
-⭐ 1,005 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Azure-Samples/AI-Gateway) · [官网](https://aka.ms/ai-gateway/labs) · 组织维护
+⭐ 1,006 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Azure-Samples/AI-Gateway) · [官网](https://aka.ms/ai-gateway/labs) · 组织维护
 
 **基于 Azure API Management 的企业级 AI 网关实验室合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/AI-Gateway 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 998 --> 1006
-    line [999, 1001, 1002, 1003, 1005, 1005]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 998 --> 1007
+    line [999, 1001, 1002, 1003, 1005, 1006]
 ```
 
-2026-10-18 999 → 2026-11-01 1,005（+6）
+2026-10-18 999 → 2026-11-02 1,006（+7）
 
 
 ---

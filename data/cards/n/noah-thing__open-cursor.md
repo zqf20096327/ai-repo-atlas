@@ -1,6 +1,6 @@
 # noah-thing/open-cursor
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/noah-thing/open-cursor) · [官网](https://opencursor.org) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/noah-thing/open-cursor) · [官网](https://opencursor.org) · 个人维护
 
 **开源 AI 代码编辑器：自带 Agent/补全，用你自己的模型与密钥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "noah-thing/open-cursor 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 10 --> 15
-    line [11, 14]
+    title "noah-thing/open-cursor 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 18
+    line [11, 14, 17]
 ```
 
-2026-10-31 11 → 2026-11-01 14（+3）
+2026-10-31 11 → 2026-11-02 17（+6）
 
 
 ---

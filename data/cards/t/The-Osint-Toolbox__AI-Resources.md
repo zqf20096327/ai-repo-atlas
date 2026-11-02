@@ -1,6 +1,6 @@
 # The-Osint-Toolbox/AI-Resources
 
-⭐ 175 · 推送 2026-04-05 · [GitHub](https://github.com/The-Osint-Toolbox/AI-Resources) · 个人维护
+⭐ 176 · 推送 2026-04-05 · [GitHub](https://github.com/The-Osint-Toolbox/AI-Resources) · 个人维护
 
 **面向 OSINT 调查者的 AI 工具分类清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "The-Osint-Toolbox/AI-Resources 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 171 --> 176
-    line [172, 173, 174, 175, 175]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 171 --> 177
+    line [172, 173, 174, 175, 176]
 ```
 
-2026-10-18 172 → 2026-11-01 175（+3）
+2026-10-18 172 → 2026-11-02 176（+4）
 
 
 ---

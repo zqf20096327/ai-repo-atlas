@@ -1,6 +1,6 @@
 # beckettharriman/openfill
 
-⭐ 195 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/beckettharriman/openfill) · [官网](https://github.com/beckettharriman/openfill/releases) · 个人维护
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/beckettharriman/openfill) · [官网](https://github.com/beckettharriman/openfill/releases) · 个人维护
 
 **给 GIMP 3/PhotoCraft 用户的本地生成式填充/消除/扩图插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beckettharriman/openfill 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 109 --> 202
-    line [116, 136, 158, 172, 182, 195]
+    title "beckettharriman/openfill 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 108 --> 210
+    line [116, 136, 158, 172, 182, 195, 202]
 ```
 
-2026-10-26 116 → 2026-11-01 195（+79）
+2026-10-26 116 → 2026-11-02 202（+86）
 
 
 ---

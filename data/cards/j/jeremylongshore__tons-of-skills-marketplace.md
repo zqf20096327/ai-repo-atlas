@@ -1,6 +1,6 @@
 # jeremylongshore/tons-of-skills-marketplace
 
-⭐ 2,888 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/jeremylongshore/tons-of-skills-marketplace) · [官网](https://tonsofskills.com) · 组织维护
+⭐ 2,890 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jeremylongshore/tons-of-skills-marketplace) · [官网](https://tonsofskills.com) · 组织维护
 
 **模型无关的 agent 技能市场平台：含包管理器与适配层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeremylongshore/tons-of-skills-marketplace 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2844 --> 2892
-    line [2848, 2852, 2856, 2861, 2868, 2871, 2875, 2881, 2885, 2884, 2885, 2888]
+    title "jeremylongshore/tons-of-skills-marketplace 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2844 --> 2894
+    line [2848, 2852, 2856, 2861, 2868, 2871, 2875, 2881, 2885, 2884, 2885, 2888, 2890]
 ```
 
-2026-10-18 2,848 → 2026-11-01 2,888（+40）
+2026-10-18 2,848 → 2026-11-02 2,890（+42）
 
 
 ---

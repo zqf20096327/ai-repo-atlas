@@ -1,6 +1,6 @@
 # snnh/openwebcode
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/snnh/openwebcode) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/snnh/openwebcode) · 个人维护 · 中文 README
 
 **浏览器即用的 AI 编码工作台，agent 读写代码、跑命令、管沙盒**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "snnh/openwebcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

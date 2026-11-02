@@ -46,12 +46,12 @@ npm 包 fable5-skills：从 HuggingFace 公开数据集 Kuberwastaken/Fable-5-tr
 ```mermaid
 xychart-beta
     title "ahmdd4vd/Fable5res 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

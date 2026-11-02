@@ -45,12 +45,12 @@ AI DIAL 生态的 LLM 适配器：将 Vertex AI 上的语言模型、嵌入模�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-adapter-vertexai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

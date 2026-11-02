@@ -1,6 +1,6 @@
 # praxis-proxy/policy
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/praxis-proxy/policy) · 组织维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/praxis-proxy/policy) · 组织维护
 
 **面向代理流量的 Rust 策略引擎：鉴权、数据管控与审计**
 
@@ -45,12 +45,12 @@ Praxis Policy Engine 是一个类型化、分阶段的插件运行时与策略�
 ```mermaid
 xychart-beta
     title "praxis-proxy/policy 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-02"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-23 21 → 2026-11-01 22（+1）
+2026-10-23 21 → 2026-11-02 22（+1）
 
 
 ---

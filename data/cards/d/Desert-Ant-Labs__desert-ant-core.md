@@ -1,6 +1,6 @@
 # Desert-Ant-Labs/desert-ant-core
 
-⭐ 437 · Swift · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Desert-Ant-Labs/desert-ant-core) · [官网](https://desertant.com) · 组织维护
+⭐ 438 · Swift · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Desert-Ant-Labs/desert-ant-core) · [官网](https://desertant.com) · 组织维护
 
 **端侧 AI SDK 套件：为 App 提供离线语音、图像与文本小模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Desert-Ant-Labs/desert-ant-core 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 389 --> 441
-    line [393, 395, 397, 398, 414, 420, 423, 426, 428, 432, 437]
+    title "Desert-Ant-Labs/desert-ant-core 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 389 --> 442
+    line [393, 395, 397, 398, 414, 420, 423, 426, 428, 432, 437, 438]
 ```
 
-2026-10-18 393 → 2026-11-01 437（+44）
+2026-10-18 393 → 2026-11-02 438（+45）
 
 
 ---

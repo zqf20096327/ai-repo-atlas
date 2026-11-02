@@ -1,6 +1,6 @@
 # greyhaven-ai/autocontext
 
-⭐ 1,315 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/greyhaven-ai/autocontext) · 组织维护
+⭐ 1,317 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/greyhaven-ai/autocontext) · 组织维护
 
 **面向 agent 的自改进运行框架：跑任务、评估、留存经验**
 
@@ -45,12 +45,12 @@ autocontext 是一个 agent 改进 harness：给定目标后，反复运行任�
 ```mermaid
 xychart-beta
     title "greyhaven-ai/autocontext 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1308 --> 1316
-    line [1309, 1310, 1311, 1312, 1315, 1315]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 1308 --> 1318
+    line [1309, 1310, 1311, 1312, 1315, 1317]
 ```
 
-2026-10-18 1,309 → 2026-11-01 1,315（+6）
+2026-10-18 1,309 → 2026-11-02 1,317（+8）
 
 
 ---

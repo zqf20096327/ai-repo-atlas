@@ -1,6 +1,6 @@
 # zhoushoujianwork/easyeda-agent
 
-⭐ 898 · Go · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://eda.daboluo.cc) · 个人维护 · 中文 README
+⭐ 905 · Go · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://eda.daboluo.cc) · 个人维护 · 中文 README
 
 **让 AI Agent 直接操作嘉立创 EDA 专业版的自动化层**
 
@@ -45,13 +45,13 @@ EasyEDA Pro 的 AI 自动化工具：把原理图/PCB 操作封装为 typed acti
 
 ```mermaid
 xychart-beta
-    title "zhoushoujianwork/easyeda-agent 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 673 --> 918
-    line [693, 718, 764, 786, 800, 812, 826, 837, 846, 865, 881, 893, 898]
+    title "zhoushoujianwork/easyeda-agent 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 672 --> 926
+    line [693, 718, 764, 786, 800, 812, 826, 837, 846, 865, 881, 893, 898, 905]
 ```
 
-2026-10-18 693 → 2026-11-01 898（+205）
+2026-10-18 693 → 2026-11-02 905（+212）
 
 
 ---

@@ -1,6 +1,6 @@
 # requestyai/ai-sdk-requesty
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/requestyai/ai-sdk-requesty) · [官网](https://www.npmjs.com/package/@requesty/ai-sdk) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/requestyai/ai-sdk-requesty) · [官网](https://www.npmjs.com/package/@requesty/ai-sdk) · 组织维护
 
 **Vercel AI SDK 的 Requesty 模型接入包：访问 300+ LLM**
 
@@ -45,12 +45,12 @@ Requesty 官方为 Vercel AI SDK v5 提供的 provider 集成包，通过 Reques
 ```mermaid
 xychart-beta
     title "requestyai/ai-sdk-requesty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

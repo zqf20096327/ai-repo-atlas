@@ -1,6 +1,6 @@
 # runvendo/vendo
 
-⭐ 635 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/runvendo/vendo) · [官网](https://vendo.run) · 组织维护
+⭐ 636 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/runvendo/vendo) · [官网](https://vendo.run) · 组织维护
 
 **B2B SaaS 内嵌定制层：让客户用自然语言构建功能与自动化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "runvendo/vendo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 625 --> 636
-    line [626, 629, 631, 633, 632, 635]
+    title "runvendo/vendo 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 625 --> 637
+    line [626, 629, 631, 633, 632, 635, 636]
 ```
 
-2026-10-18 626 → 2026-11-01 635（+9）
+2026-10-18 626 → 2026-11-02 636（+10）
 
 
 ---

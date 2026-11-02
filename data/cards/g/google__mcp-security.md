@@ -1,6 +1,6 @@
 # google/mcp-security
 
-⭐ 536 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/mcp-security) · 组织维护
+⭐ 538 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/google/mcp-security) · 组织维护
 
 **让 MCP 客户端接入 Google 安全产品（SecOps/GTI/SOAR/SCC）的服务器**
 
@@ -46,12 +46,12 @@ Google 官方的 Model Context Protocol 服务器集合，包含远程托管的 
 ```mermaid
 xychart-beta
     title "google/mcp-security 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 533 --> 537
-    line [535, 534, 535, 536, 536]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 533 --> 539
+    line [535, 534, 535, 536, 538]
 ```
 
-2026-10-18 535 → 2026-11-01 536（+1）
+2026-10-18 535 → 2026-11-02 538（+3）
 
 
 ---

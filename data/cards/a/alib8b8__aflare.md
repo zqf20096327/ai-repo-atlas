@@ -1,6 +1,6 @@
 # alib8b8/aflare
 
-⭐ 15 · Go · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/alib8b8/aflare) · [官网](https://github.com/alib8b8/aflare) · 个人维护 · 中文 README
+⭐ 15 · Go · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/alib8b8/aflare) · [官网](https://github.com/alib8b8/aflare) · 个人维护 · 中文 README
 
 **本地优先的自动化 Agent 与确定性工作流引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alib8b8/aflare 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

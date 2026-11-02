@@ -1,6 +1,6 @@
 # google/cameratrapai
 
-⭐ 579 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/cameratrapai) · 组织维护
+⭐ 581 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/cameratrapai) · 组织维护
 
 **Google 训练的野生动物相机陷阱图像物种分类模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google/cameratrapai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 575 --> 580
-    line [576, 577, 578, 579, 579]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 575 --> 582
+    line [576, 577, 578, 579, 581]
 ```
 
-2026-10-18 576 → 2026-11-01 579（+3）
+2026-10-18 576 → 2026-11-02 581（+5）
 
 
 ---

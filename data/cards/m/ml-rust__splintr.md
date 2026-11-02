@@ -1,6 +1,6 @@
 # ml-rust/splintr
 
-⭐ 61 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ml-rust/splintr) · [官网](https://crates.io/crates/splintr) · 组织维护
+⭐ 61 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ml-rust/splintr) · [官网](https://crates.io/crates/splintr) · 组织维护
 
 **给开发者的 Rust/Python 高速分词器库，兼容主流词表格式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ml-rust/splintr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-11-01 61（+0）
+2026-10-18 61 → 2026-11-02 61（+0）
 
 
 ---

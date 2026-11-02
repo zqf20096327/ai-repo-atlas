@@ -45,12 +45,12 @@ Herodotus Cloud UI Vuetify 是 Dante Cloud 4.4.X 微服务/单体基座的前端
 ```mermaid
 xychart-beta
     title "dante-compass/herodotus-cloud-ui-vuetify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

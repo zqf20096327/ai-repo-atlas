@@ -1,6 +1,6 @@
 # GoatGit/super-survey
 
-⭐ 89 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/GoatGit/super-survey) · [官网]( https://github.com/GoatGit/super-survey) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/GoatGit/super-survey) · [官网]( https://github.com/GoatGit/super-survey) · 个人维护 · 中文 README
 
 **面向 agent 的多轮调研技能：把模糊问题转为循证研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GoatGit/super-survey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 88 --> 106
-    line [105, 89, 89]
+    line [105, 89, 90]
 ```
 
-2026-10-18 105 → 2026-11-01 89（-16）
+2026-10-18 105 → 2026-11-02 90（-15）
 
 
 ---

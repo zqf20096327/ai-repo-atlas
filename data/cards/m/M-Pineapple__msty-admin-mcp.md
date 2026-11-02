@@ -1,6 +1,6 @@
 # M-Pineapple/msty-admin-mcp
 
-⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/M-Pineapple/msty-admin-mcp) · [官网](https://glama.ai/mcp/servers/M-Pineapple/msty-admin-mcp) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/M-Pineapple/msty-admin-mcp) · [官网](https://glama.ai/mcp/servers/M-Pineapple/msty-admin-mcp) · 个人维护
 
 **管理 Msty Studio Desktop 的 MCP 服务器，含 56 个管理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "M-Pineapple/msty-admin-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

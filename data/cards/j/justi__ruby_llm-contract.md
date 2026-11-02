@@ -1,6 +1,6 @@
 # justi/ruby_llm-contract
 
-⭐ 36 · Ruby · MIT · 推送 2026-10-13 · [GitHub](https://github.com/justi/ruby_llm-contract) · 个人维护
+⭐ 35 · Ruby · MIT · 推送 2026-10-13 · [GitHub](https://github.com/justi/ruby_llm-contract) · 个人维护
 
 **为 ruby_llm 提供 LLM 输出契约校验、重试升级与回归评测的 Ruby gem**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "justi/ruby_llm-contract 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
 ```
 
-2026-10-18 36 → 2026-11-01 36（+0）
+2026-10-18 36 → 2026-11-02 35（-1）
 
 
 ---

@@ -45,12 +45,12 @@ EMNLP 2023 论文的官方代码发布：训练一个神经 ranker，对 GPT-3.5
 ```mermaid
 xychart-beta
     title "microsoft/NeuralInvariantRanker 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-26", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-26 13 → 2026-11-01 13（+0）
+2026-10-26 13 → 2026-11-02 13（+0）
 
 
 ---

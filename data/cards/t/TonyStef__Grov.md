@@ -1,6 +1,6 @@
 # TonyStef/Grov
 
-⭐ 190 · TypeScript · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/TonyStef/Grov) · [官网](https://grov.dev/) · 个人维护
+⭐ 191 · TypeScript · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/TonyStef/Grov) · [官网](https://grov.dev/) · 个人维护
 
 **工程团队的共享 AI 记忆工具：捕获并同步 AI 会话上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TonyStef/Grov 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
     y-axis "stars" 189 --> 192
-    line [191, 190, 190]
+    line [191, 190, 191]
 ```
 
-2026-10-18 191 → 2026-11-01 190（-1）
+2026-10-18 191 → 2026-11-02 191（+0）
 
 
 ---

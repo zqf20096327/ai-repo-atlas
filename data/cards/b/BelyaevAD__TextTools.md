@@ -45,12 +45,12 @@ AutoHotkey v2 编写的 Windows 桌面脚本：在任意窗口选中文本后按
 ```mermaid
 xychart-beta
     title "BelyaevAD/TextTools 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-26", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-26 13 → 2026-11-01 13（+0）
+2026-10-26 13 → 2026-11-02 13（+0）
 
 
 ---

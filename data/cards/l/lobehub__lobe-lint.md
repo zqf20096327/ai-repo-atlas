@@ -1,6 +1,6 @@
 # lobehub/lobe-lint
 
-⭐ 45 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lobehub/lobe-lint) · [官网](https://lint.lobehub.com/) · 组织维护
+⭐ 45 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lobehub/lobe-lint) · [官网](https://lint.lobehub.com/) · 组织维护
 
 **LobeHub 系项目的共享 Lint/格式化/提交规范配置包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lobehub/lobe-lint 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 43 --> 46
     line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-01 45（+1）
+2026-10-18 44 → 2026-11-02 45（+1）
 
 
 ---

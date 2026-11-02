@@ -1,6 +1,6 @@
 # swapperfinance/swapper-toolkit
 
-⭐ 851 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/swapperfinance/swapper-toolkit) · [官网](https://swapper.finance) · 组织维护
+⭐ 853 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/swapperfinance/swapper-toolkit) · [官网](https://swapper.finance) · 组织维护
 
 **供 AI agent 调用的 DeFi 支付技能包：充值、兑换与钱包管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "swapperfinance/swapper-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 849 --> 853
-    line [852, 851, 850, 851, 851]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 849 --> 854
+    line [852, 851, 850, 851, 853]
 ```
 
-2026-10-18 852 → 2026-11-01 851（-1）
+2026-10-18 852 → 2026-11-02 853（+1）
 
 
 ---

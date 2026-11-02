@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 10 --> 38
-    line [12, 22, 32, 36]
+    line [12, 22, 32, 36, 36]
 ```
 
-2026-10-29 12 → 2026-11-01 36（+24）
+2026-10-29 12 → 2026-11-02 36（+24）
 
 
 ---

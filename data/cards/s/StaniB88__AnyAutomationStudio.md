@@ -47,12 +47,12 @@ Windows 桌面 IDE，面向 PLC 工程师。通过官方 Openness API 连接西�
 ```mermaid
 xychart-beta
     title "StaniB88/AnyAutomationStudio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-01 14（+1）
+2026-10-18 13 → 2026-11-02 14（+1）
 
 
 ---

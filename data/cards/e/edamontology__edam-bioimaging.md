@@ -45,12 +45,12 @@ EDAM Bioimaging 是 EDAM 科学本体面向成像与生物图像信息学的扩�
 ```mermaid
 xychart-beta
     title "edamontology/edam-bioimaging 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

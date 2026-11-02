@@ -41,6 +41,18 @@
 > L38: Corebrum Synapse is built so that new adapters (LangGraph, OpenAI, local models, voice stacks, etc.) can be added w
 > L68: - **Adapters**: OpenClaw plugin (`packages/synapse-openclaw`, including NemoClaw); MCP server (`packages/synapse-cl
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Corebrum/corebrum-synapse 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 178 --> 180
+    line [179, 179]
+```
+
+2026-11-01 179 → 2026-11-02 179（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `68c482891520` · [字段定义](../../DATASET.md)*

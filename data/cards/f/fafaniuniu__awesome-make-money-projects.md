@@ -43,13 +43,13 @@ README 为 www.gitcc.com 的推广页，声称网站会员可下载大量企业�
 
 ```mermaid
 xychart-beta
-    title "fafaniuniu/awesome-make-money-projects 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01"]
+    title "fafaniuniu/awesome-make-money-projects 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-01 13（+3）
+2026-10-18 10 → 2026-11-02 13（+3）
 
 
 ---

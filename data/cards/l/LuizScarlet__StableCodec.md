@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LuizScarlet/StableCodec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "LuizScarlet/StableCodec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 101 --> 104
-    line [102, 103]
+    line [102, 103, 103]
 ```
 
-2026-10-18 102 → 2026-11-01 103（+1）
+2026-10-18 102 → 2026-11-02 103（+1）
 
 
 ---

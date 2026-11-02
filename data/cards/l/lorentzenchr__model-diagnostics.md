@@ -1,6 +1,6 @@
 # lorentzenchr/model-diagnostics
 
-⭐ 45 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/lorentzenchr/model-diagnostics) · [官网](https://lorentzenchr.github.io/model-diagnostics/) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lorentzenchr/model-diagnostics) · [官网](https://lorentzenchr.github.io/model-diagnostics/) · 个人维护
 
 **Python 库：机器学习模型的校准诊断与性能评估**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lorentzenchr/model-diagnostics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-11-01 45（+0）
+2026-10-18 45 → 2026-11-02 46（+1）
 
 
 ---

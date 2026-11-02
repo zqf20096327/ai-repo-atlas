@@ -46,12 +46,12 @@ TypeScript/React 项目：生成自主 AI 代理（Meeseeks），代理接收编
 ```mermaid
 xychart-beta
     title "abrahamcasanova/meeseeks-hive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

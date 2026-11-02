@@ -1,6 +1,6 @@
 # querymt/querymt
 
-⭐ 13 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/querymt/querymt) · [官网](https://query.mt) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/querymt/querymt) · [官网](https://query.mt) · 组织维护
 
 **面向开发者的统一 LLM 接口框架与插件式 provider 架构**
 
@@ -44,12 +44,12 @@ QueryMaTe 是以 Rust 编写的 LLM 统一接口库与 agent 运行时：通过�
 ```mermaid
 xychart-beta
     title "querymt/querymt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

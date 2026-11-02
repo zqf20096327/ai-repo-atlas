@@ -1,6 +1,6 @@
 # aristoapp/awesome-second-brain
 
-⭐ 574 · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/aristoapp/awesome-second-brain) · [官网](https://membase.so/gh) · 组织维护
+⭐ 575 · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/aristoapp/awesome-second-brain) · [官网](https://membase.so/gh) · 组织维护
 
 **AI 第二大脑方案对比清单：按生命周期选型知识系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aristoapp/awesome-second-brain 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 564 --> 575
-    line [565, 567, 569, 570, 571, 572, 573, 574, 574]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 564 --> 576
+    line [565, 567, 569, 570, 571, 572, 573, 574, 575]
 ```
 
-2026-10-18 565 → 2026-11-01 574（+9）
+2026-10-18 565 → 2026-11-02 575（+10）
 
 
 ---

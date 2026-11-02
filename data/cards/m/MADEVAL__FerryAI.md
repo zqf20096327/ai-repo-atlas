@@ -1,6 +1,6 @@
 # MADEVAL/FerryAI
 
-⭐ 33 · PHP · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MADEVAL/FerryAI) · [官网](https://github.com/MADEVAL/FerryAI) · 个人维护
+⭐ 37 · PHP · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MADEVAL/FerryAI) · [官网](https://github.com/MADEVAL/FerryAI) · 个人维护
 
 **PHP 8.3+ 进程内原生 AI 推理库：FFI 直驱 ONNX/GGUF/RubixML**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MADEVAL/FerryAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 32 --> 38
+    line [33, 37]
 ```
 
-2026-10-18 33 → 2026-11-01 33（+0）
+2026-10-18 33 → 2026-11-02 37（+4）
 
 
 ---

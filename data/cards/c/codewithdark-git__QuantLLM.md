@@ -1,6 +1,6 @@
 # codewithdark-git/QuantLLM
 
-⭐ 17 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/codewithdark-git/QuantLLM) · [官网](https://pypi.org/project/quantllm/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/codewithdark-git/QuantLLM) · [官网](https://pypi.org/project/quantllm/) · 个人维护
 
 **一行代码加载、量化、微调、部署 LLM 的 Python 库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "codewithdark-git/QuantLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 17（+0）
 
 
 ---

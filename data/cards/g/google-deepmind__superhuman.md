@@ -1,6 +1,6 @@
 # google-deepmind/superhuman
 
-⭐ 806 · Lean · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/superhuman) · 组织维护
+⭐ 807 · Lean · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/superhuman) · 组织维护
 
 **DeepMind 超人推理团队的项目与数据集合集仓库**
 
@@ -44,13 +44,13 @@ Google DeepMind Superhuman Reasoning 团队（Thang Luong 领导）的聚合仓�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/superhuman 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01"]
+    title "google-deepmind/superhuman 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 805 --> 809
-    line [808, 807, 806, 807, 806]
+    line [808, 807, 806, 807, 806, 807]
 ```
 
-2026-10-18 808 → 2026-11-01 806（-2）
+2026-10-18 808 → 2026-11-02 807（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # faridrashidi/kaggle-solutions
 
-⭐ 6,547 · Astro · MIT · 推送 2026-10-06 · [GitHub](https://github.com/faridrashidi/kaggle-solutions) · [官网](https://kaggle.farid.one) · 个人维护
+⭐ 6,548 · Astro · MIT · 推送 2026-10-06 · [GitHub](https://github.com/faridrashidi/kaggle-solutions) · [官网](https://kaggle.farid.one) · 个人维护
 
 **Kaggle 竞赛获奖方案与思路的策展清单网站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "faridrashidi/kaggle-solutions 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 6540 --> 6548
-    line [6541, 6542, 6544, 6545, 6547, 6546, 6547, 6547]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 6540 --> 6549
+    line [6541, 6542, 6544, 6545, 6547, 6546, 6547, 6548]
 ```
 
-2026-10-18 6,541 → 2026-11-01 6,547（+6）
+2026-10-18 6,541 → 2026-11-02 6,548（+7）
 
 
 ---

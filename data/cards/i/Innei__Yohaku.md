@@ -1,6 +1,6 @@
 # Innei/Yohaku
 
-⭐ 204 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/Innei/Yohaku) · [官网](https://yohaku.innei.dev) · 个人维护 · 中文 README
+⭐ 205 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/Innei/Yohaku) · [官网](https://yohaku.innei.dev) · 个人维护 · 中文 README
 
 **面向个人写作的跨端出版产品：iOS 客户端与设计系统（MIT 开源）**
 
@@ -44,13 +44,13 @@ Yohaku 是以 mx-core 为内容后端的跨端出版产品，本仓库公开三�
 
 ```mermaid
 xychart-beta
-    title "Innei/Yohaku 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 199 --> 205
-    line [200, 201, 202, 203, 204]
+    title "Innei/Yohaku 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 199 --> 206
+    line [200, 201, 202, 203, 204, 205]
 ```
 
-2026-10-18 200 → 2026-11-01 204（+4）
+2026-10-18 200 → 2026-11-02 205（+5）
 
 
 ---

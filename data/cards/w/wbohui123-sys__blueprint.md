@@ -1,6 +1,6 @@
 # wbohui123-sys/blueprint
 
-⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/wbohui123-sys/blueprint) · [官网](https://github.com/wbohui123-sys/blueprint/releases/latest) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/wbohui123-sys/blueprint) · [官网](https://github.com/wbohui123-sys/blueprint/releases/latest) · 个人维护 · 中文 README
 
 **可视化多智能体系统：一句话生成并指挥 AI 团队完成任务**
 
@@ -40,6 +40,18 @@
 > L7:  A visual multi-agent system. One sentence becomes a team of AI agents that plan, split the work, build, and put it 
 > L62: - **Bring your own workers.** Agents run on any model you connect. Big pieces can also go to Codex or Claude Code o
 > L111: Blueprint is a set of plugins on top of DeepSeek Harness (dsh). Plain JavaScript, no build step.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wbohui123-sys/blueprint 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
+```
+
+2026-11-01 12 → 2026-11-02 14（+2）
 
 
 ---

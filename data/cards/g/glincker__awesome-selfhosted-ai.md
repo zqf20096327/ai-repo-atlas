@@ -1,6 +1,6 @@
 # glincker/awesome-selfhosted-ai
 
-⭐ 43 · JavaScript · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
+⭐ 66 · JavaScript · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
 
 **自托管开源 AI 项目策展清单（303 个，按周健康检查）**
 
@@ -38,6 +38,18 @@
 
 > L3: > Open-source AI you can run on your own hardware or server.
 > L5: 303 projects across local LLMs, chat interfaces, agents, MCP servers, RAG, speech and image generation. A weekly job
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "glincker/awesome-selfhosted-ai 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 41 --> 68
+    line [43, 66]
+```
+
+2026-11-01 43 → 2026-11-02 66（+23）
 
 
 ---

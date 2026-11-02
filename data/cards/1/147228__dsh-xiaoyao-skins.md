@@ -1,6 +1,6 @@
 # 147228/dsh-xiaoyao-skins
 
-⭐ 23 · CSS · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/147228/dsh-xiaoyao-skins) · [官网](https://147228.github.io/dsh-xiaoyao-skins/) · 个人维护 · 中文 README
+⭐ 23 · CSS · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/147228/dsh-xiaoyao-skins) · [官网](https://147228.github.io/dsh-xiaoyao-skins/) · 个人维护 · 中文 README
 
 **DeepSeek Harness Web 的社区皮肤合集与一键换肤安装器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "147228/dsh-xiaoyao-skins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 23（+0）
 
 
 ---

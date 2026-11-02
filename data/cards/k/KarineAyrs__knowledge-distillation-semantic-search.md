@@ -1,6 +1,6 @@
 # KarineAyrs/knowledge-distillation-semantic-search
 
-⭐ 12 · Python · MIT · 推送 2025-11-05 · [GitHub](https://github.com/KarineAyrs/knowledge-distillation-semantic-search) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 LLM 知识蒸馏训练小模型做语义搜索的框架**
 
@@ -11,7 +11,7 @@ KDSS 是知识蒸馏框架：用大型语言模型（OpenAI API 或本地 Alpaca
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

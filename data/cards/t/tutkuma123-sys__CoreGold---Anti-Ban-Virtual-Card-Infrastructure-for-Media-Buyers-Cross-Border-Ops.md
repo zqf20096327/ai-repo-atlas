@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 6 --> 35
-    line [8, 19, 29, 33]
+    line [8, 19, 29, 33, 33]
 ```
 
-2026-10-29 8 → 2026-11-01 33（+25）
+2026-10-29 8 → 2026-11-02 33（+25）
 
 
 ---

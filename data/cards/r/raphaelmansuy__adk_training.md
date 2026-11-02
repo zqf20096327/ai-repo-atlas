@@ -1,6 +1,6 @@
 # raphaelmansuy/adk_training
 
-⭐ 108 · Python · 推送 2026-03-01 · [GitHub](https://github.com/raphaelmansuy/adk_training) · [官网](https://raphaelmansuy.github.io/adk_training/) · 个人维护
+⭐ 109 · Python · 推送 2026-03-01 · [GitHub](https://github.com/raphaelmansuy/adk_training) · [官网](https://raphaelmansuy.github.io/adk_training/) · 个人维护
 
 **Google ADK 实战教程库：36 个含可运行代码的 agent 开发训练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raphaelmansuy/adk_training 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 106 --> 110
+    line [107, 108, 109]
 ```
 
-2026-10-18 107 → 2026-11-01 108（+1）
+2026-10-18 107 → 2026-11-02 109（+2）
 
 
 ---

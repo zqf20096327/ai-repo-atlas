@@ -1,6 +1,6 @@
 # j3soon/whisper-to-input
 
-⭐ 142 · Kotlin · GPL-3.0 · 推送 2025-12-21 · [GitHub](https://github.com/j3soon/whisper-to-input) · 个人维护 · 中文 README
+⭐ 143 · Kotlin · GPL-3.0 · 推送 2025-12-21 · [GitHub](https://github.com/j3soon/whisper-to-input) · 个人维护 · 中文 README
 
 **调用 Whisper 语音转文字的 Android 输入法键盘**
 
@@ -44,12 +44,12 @@ Android 输入法应用（IME），通过麦克风录音并将语音识别结果
 ```mermaid
 xychart-beta
     title "j3soon/whisper-to-input 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 139 --> 143
-    line [140, 141, 142, 142]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 139 --> 144
+    line [140, 141, 142, 143]
 ```
 
-2026-10-18 140 → 2026-11-01 142（+2）
+2026-10-18 140 → 2026-11-02 143（+3）
 
 
 ---

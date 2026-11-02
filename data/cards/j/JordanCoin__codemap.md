@@ -1,6 +1,6 @@
 # JordanCoin/codemap
 
-⭐ 706 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/JordanCoin/codemap) · 个人维护
+⭐ 709 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/JordanCoin/codemap) · 个人维护
 
 **给编码 agent 提供仓库结构与依赖图谱的 CLI/MCP 上下文工具**
 
@@ -44,13 +44,13 @@ Go 编写的单个静态二进制 CLI，为 Claude Code、Codex 等编码代理�
 
 ```mermaid
 xychart-beta
-    title "JordanCoin/codemap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 700 --> 707
-    line [701, 702, 703, 704, 705, 706]
+    title "JordanCoin/codemap 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 700 --> 710
+    line [701, 702, 703, 704, 705, 706, 709]
 ```
 
-2026-10-18 701 → 2026-11-01 706（+5）
+2026-10-18 701 → 2026-11-02 709（+8）
 
 
 ---

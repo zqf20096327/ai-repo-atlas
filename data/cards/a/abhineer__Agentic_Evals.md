@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abhineer/Agentic_Evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "abhineer/Agentic_Evals 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 26 --> 30
-    line [27, 29]
+    line [27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-01 29（+2）
+2026-10-18 27 → 2026-11-02 29（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hhtower/price-comparison
 
-⭐ 107 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/hhtower/price-comparison) · [官网](https://price.yufu.pub) · 个人维护 · 中文 README
+⭐ 133 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/hhtower/price-comparison) · [官网](https://price.yufu.pub) · 个人维护 · 中文 README
 
 **自部署的 AI 商品比价站：采集、归类与跨商铺价格比较**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hhtower/price-comparison 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 12 --> 115
-    line [20, 78, 107]
+    title "hhtower/price-comparison 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 9 --> 144
+    line [20, 78, 107, 133]
 ```
 
-2026-10-30 20 → 2026-11-01 107（+87）
+2026-10-30 20 → 2026-11-02 133（+113）
 
 
 ---

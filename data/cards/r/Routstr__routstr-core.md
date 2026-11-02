@@ -1,6 +1,6 @@
 # Routstr/routstr-core
 
-⭐ 85 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Routstr/routstr-core) · [官网](http://docs.routstr.com/) · 组织维护
+⭐ 86 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Routstr/routstr-core) · [官网](http://docs.routstr.com/) · 组织维护
 
 **去中心化 AI 推理付费代理协议核心：Nostr 发现 + Cashu 微支付**
 
@@ -46,12 +46,12 @@ Routstr Core 是一个基于 FastAPI 的反向代理，部署在 OpenAI 兼容 A
 ```mermaid
 xychart-beta
     title "Routstr/routstr-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 84 --> 87
+    line [85, 86]
 ```
 
-2026-10-18 85 → 2026-11-01 85（+0）
+2026-10-18 85 → 2026-11-02 86（+1）
 
 
 ---

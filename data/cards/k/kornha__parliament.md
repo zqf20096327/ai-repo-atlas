@@ -1,6 +1,6 @@
 # kornha/parliament
 
-⭐ 55 · Dart · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/kornha/parliament) · 个人维护
+⭐ 54 · Dart · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/kornha/parliament) · 个人维护
 
 **按置信度/偏见/新闻价值组织新闻的开源新闻平台（预发布）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kornha/parliament 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 53 --> 56
+    line [55, 54]
 ```
 
-2026-10-18 55 → 2026-11-01 55（+0）
+2026-10-18 55 → 2026-11-02 54（-1）
 
 
 ---

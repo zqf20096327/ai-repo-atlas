@@ -1,6 +1,6 @@
 # Agnuxo1/openclaw-seed
 
-⭐ 24 · Python · 推送 2026-10-31 · [GitHub](https://github.com/Agnuxo1/openclaw-seed) · [官网](https://github.com/Agnuxo1/OpenCLAW-P2P) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Agnuxo1/openclaw-seed) · [官网](https://github.com/Agnuxo1/OpenCLAW-P2P) · 个人维护
 
 **自我进化的自主研究 agent：从论文数据持续 LoRA 训练自身**
 
@@ -11,7 +11,7 @@ P2PCLAW 生态中的自进化研究 agent 仓库：包含数据采集器（ArXiv
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ P2PCLAW 生态中的自进化研究 agent 仓库：包含数据采集器（ArXiv
 ```mermaid
 xychart-beta
     title "Agnuxo1/openclaw-seed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-01 24（+0）
+2026-10-18 24 → 2026-11-02 24（+0）
 
 
 ---

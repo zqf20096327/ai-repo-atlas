@@ -1,6 +1,6 @@
 # psyb0t/offgrid-tools
 
-⭐ 63 · Shell · WTFPL · 推送 2026-10-19 · [GitHub](https://github.com/psyb0t/offgrid-tools) · [官网](https://ciprian.51k.eu/offgrid-tools-building-your-own-fucking-internet-an-offgrid-survival-stack/) · 个人维护
+⭐ 64 · Shell · WTFPL · 推送 2026-10-19 · [GitHub](https://github.com/psyb0t/offgrid-tools) · [官网](https://ciprian.51k.eu/offgrid-tools-building-your-own-fucking-internet-an-offgrid-survival-stack/) · 个人维护
 
 **离线自足环境套件：本地 AI 聊天、维基归档、IRC、音频流与开发工具**
 
@@ -47,12 +47,12 @@ Docker Compose 编排的离线服务集合，覆盖本地 AI 聊天（Ollama + O
 ```mermaid
 xychart-beta
     title "psyb0t/offgrid-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 60 --> 64
-    line [61, 62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 60 --> 65
+    line [61, 62, 63, 64]
 ```
 
-2026-10-18 61 → 2026-11-01 63（+2）
+2026-10-18 61 → 2026-11-02 64（+3）
 
 
 ---

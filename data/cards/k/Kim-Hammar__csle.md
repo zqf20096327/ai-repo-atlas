@@ -1,6 +1,6 @@
 # Kim-Hammar/csle
 
-⭐ 160 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/Kim-Hammar/csle) · [官网](https://kim-hammar.github.io/csle/) · 个人维护
+⭐ 161 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/Kim-Hammar/csle) · [官网](https://kim-hammar.github.io/csle/) · 个人维护
 
 **面向网络安全强化学习研究的仿真与仿真环境平台**
 
@@ -46,12 +46,12 @@ CSLE（Cyber Security Learning Environment）是用于在网络安全控制问�
 ```mermaid
 xychart-beta
     title "Kim-Hammar/csle 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 156 --> 161
-    line [157, 158, 159, 160, 160]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 156 --> 162
+    line [157, 158, 159, 160, 161]
 ```
 
-2026-10-18 157 → 2026-11-01 160（+3）
+2026-10-18 157 → 2026-11-02 161（+4）
 
 
 ---

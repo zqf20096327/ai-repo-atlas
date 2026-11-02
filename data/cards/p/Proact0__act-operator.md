@@ -1,6 +1,6 @@
 # Proact0/act-operator
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Proact0/act-operator) · [官网](https://www.proact0.org/) · 组织维护 · 中文 README
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Proact0/act-operator) · [官网](https://www.proact0.org/) · 组织维护 · 中文 README
 
 **为 AI 编码代理生成并管理 LangGraph 项目脚手架的开发工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Proact0/act-operator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-01 28（+0）
+2026-10-18 28 → 2026-11-02 28（+0）
 
 
 ---

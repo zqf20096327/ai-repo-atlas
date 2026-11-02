@@ -1,6 +1,6 @@
 # Routstr/landingpage
 
-⭐ 14 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Routstr/landingpage) · [官网](https://routstr.com) · 组织维护
+⭐ 14 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Routstr/landingpage) · [官网](https://routstr.com) · 组织维护
 
 **去中心化 LLM 路由市场的 Next.js 前端界面**
 
@@ -44,12 +44,12 @@ Routstr 是基于 Nostr 与 Bitcoin 的去中心化 LLM 路由市场，本仓库
 ```mermaid
 xychart-beta
     title "Routstr/landingpage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

@@ -45,12 +45,12 @@ PromptLayer 的官方 Python SDK：提供对 PromptLayer API 的访问，功能�
 ```mermaid
 xychart-beta
     title "MagnivOrg/prompt-layer-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 783 --> 786
     line [784, 785, 785]
 ```
 
-2026-10-18 784 → 2026-11-01 785（+1）
+2026-10-18 784 → 2026-11-02 785（+1）
 
 
 ---

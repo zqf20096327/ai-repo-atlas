@@ -1,6 +1,6 @@
 # kano92-dir/CYD-AI-CHAT
 
-⭐ 14 · C++ · MIT · 推送 2026-06-06 · [GitHub](https://github.com/kano92-dir/CYD-AI-CHAT) · 个人维护
+⭐ 15 · C++ · MIT · 推送 2026-06-06 · [GitHub](https://github.com/kano92-dir/CYD-AI-CHAT) · 个人维护
 
 **ESP32 黄色便宜屏上的 AI 聊天终端，接入 OpenRouter 免费模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kano92-dir/CYD-AI-CHAT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 14, 15]
 ```
 
-2026-10-18 11 → 2026-11-01 14（+3）
+2026-10-18 11 → 2026-11-02 15（+4）
 
 
 ---

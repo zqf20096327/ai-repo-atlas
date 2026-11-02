@@ -1,6 +1,6 @@
 # jsmastery-pro/airbnb-clone
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jsmastery-pro/airbnb-clone) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jsmastery-pro/airbnb-clone) · 组织维护
 
 **AI 自然语言搜索的 Airbnb 风格移动应用（教程项目）**
 
@@ -45,12 +45,12 @@ JavaScript Mastery 出品的教程配套代码：用 React Native/Expo 构建的
 ```mermaid
 xychart-beta
     title "jsmastery-pro/airbnb-clone 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 4 --> 16
-    line [5, 10, 12, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 4 --> 17
+    line [5, 10, 12, 14, 15, 16]
 ```
 
-2026-10-18 5 → 2026-11-01 15（+10）
+2026-10-18 5 → 2026-11-02 16（+11）
 
 
 ---

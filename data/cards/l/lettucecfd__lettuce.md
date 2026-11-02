@@ -1,6 +1,6 @@
 # lettucecfd/lettuce
 
-⭐ 297 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/lettucecfd/lettuce) · 组织维护
+⭐ 298 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/lettucecfd/lettuce) · 组织维护
 
 **基于 PyTorch 与格子玻尔兹曼方法的 CFD 仿真框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lettucecfd/lettuce 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 295 --> 298
-    line [296, 297, 297]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 295 --> 299
+    line [296, 297, 298]
 ```
 
-2026-10-18 296 → 2026-11-01 297（+1）
+2026-10-18 296 → 2026-11-02 298（+2）
 
 
 ---

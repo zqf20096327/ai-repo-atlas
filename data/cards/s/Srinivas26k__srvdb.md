@@ -1,6 +1,6 @@
 # Srinivas26k/srvdb
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Srinivas26k/srvdb) · [官网](https://srinivas26k.github.io/srvdb/) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Srinivas26k/srvdb) · [官网](https://srinivas26k.github.io/srvdb/) · 个人维护
 
 **嵌入式向量数据库：本地语义搜索、RAG 与 AI 记忆，无需服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Srinivas26k/srvdb 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-26 15 → 2026-11-01 15（+0）
+2026-10-26 15 → 2026-11-02 16（+1）
 
 
 ---

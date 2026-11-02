@@ -1,6 +1,6 @@
 # DebugBase/glance
 
-⭐ 156 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/DebugBase/glance) · 组织维护
+⭐ 157 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/DebugBase/glance) · 组织维护
 
 **给 Claude Code 的浏览器自动化 MCP 服务器**
 
@@ -45,12 +45,12 @@ Glance 是一个 MCP 服务器，为 Claude Code 提供真实浏览器控制能�
 ```mermaid
 xychart-beta
     title "DebugBase/glance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 154 --> 158
+    line [155, 156, 157]
 ```
 
-2026-10-18 155 → 2026-11-01 156（+1）
+2026-10-18 155 → 2026-11-02 157（+2）
 
 
 ---

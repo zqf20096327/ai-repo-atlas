@@ -1,6 +1,6 @@
 # raylanlin/Millwright
 
-⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/raylanlin/Millwright) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/raylanlin/Millwright) · 个人维护 · 中文 README
 
 **让 AI Agent 直接操作 SolidWorks 的开源桌面工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raylanlin/Millwright 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 29 --> 36
-    line [30, 31, 33, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 29 --> 37
+    line [30, 31, 33, 35, 36]
 ```
 
-2026-10-18 30 → 2026-11-01 35（+5）
+2026-10-18 30 → 2026-11-02 36（+6）
 
 
 ---

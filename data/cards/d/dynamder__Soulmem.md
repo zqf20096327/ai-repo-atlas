@@ -1,6 +1,6 @@
 # dynamder/Soulmem
 
-⭐ 13 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dynamder/Soulmem) · [官网](https://dynamder.github.io/Soulmem/) · 个人维护 · 中文 README
+⭐ 13 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dynamder/Soulmem) · [官网](https://dynamder.github.io/Soulmem/) · 个人维护 · 中文 README
 
 **面向角色扮演任务的个人级 LLM 记忆系统（Rust）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dynamder/Soulmem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

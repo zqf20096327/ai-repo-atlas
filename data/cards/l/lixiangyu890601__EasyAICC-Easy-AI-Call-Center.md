@@ -1,6 +1,6 @@
 # lixiangyu890601/EasyAICC-Easy-AI-Call-Center
 
-⭐ 16 · Java · GPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/lixiangyu890601/EasyAICC-Easy-AI-Call-Center) · [官网](https://www.easyaicc.com) · 个人维护 · 中文 README
+⭐ 16 · Java · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lixiangyu890601/EasyAICC-Easy-AI-Call-Center) · [官网](https://www.easyaicc.com) · 个人维护 · 中文 README
 
 **基于大模型的 AI 呼叫中心/智能外呼系统**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | GPL-3.0 |
+| 许可风险 | `dual` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "lixiangyu890601/EasyAICC-Easy-AI-Call-Center 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

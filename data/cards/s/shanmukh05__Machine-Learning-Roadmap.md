@@ -1,6 +1,6 @@
 # shanmukh05/Machine-Learning-Roadmap
 
-⭐ 531 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shanmukh05/Machine-Learning-Roadmap) · [官网](https://shanmukh05.github.io/Machine-Learning-Roadmap/) · 个人维护
+⭐ 532 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shanmukh05/Machine-Learning-Roadmap) · [官网](https://shanmukh05.github.io/Machine-Learning-Roadmap/) · 个人维护
 
 **机器学习入门与进阶的学习资源路线图清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "shanmukh05/Machine-Learning-Roadmap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 527 --> 532
-    line [528, 529, 531, 531]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 527 --> 533
+    line [528, 529, 531, 532]
 ```
 
-2026-10-18 528 → 2026-11-01 531（+3）
+2026-10-18 528 → 2026-11-02 532（+4）
 
 
 ---

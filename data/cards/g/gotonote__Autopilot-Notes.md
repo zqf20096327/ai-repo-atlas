@@ -1,6 +1,6 @@
 # gotonote/Autopilot-Notes
 
-⭐ 845 · Shell · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/gotonote/Autopilot-Notes) · 个人维护 · 中文 README
+⭐ 846 · Shell · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/gotonote/Autopilot-Notes) · 个人维护 · 中文 README
 
 **自动驾驶技术全栈知识库笔记：感知到控制各模块讲解**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gotonote/Autopilot-Notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 839 --> 846
-    line [840, 842, 843, 844, 845]
+    title "gotonote/Autopilot-Notes 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 839 --> 847
+    line [840, 842, 843, 844, 845, 846]
 ```
 
-2026-10-18 840 → 2026-11-01 845（+5）
+2026-10-18 840 → 2026-11-02 846（+6）
 
 
 ---

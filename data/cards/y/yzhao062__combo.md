@@ -1,6 +1,6 @@
 # yzhao062/combo
 
-⭐ 660 · Python · BSD-2-Clause · 推送 2026-09-08 · [GitHub](https://github.com/yzhao062/combo) · [官网](https://pycombo.readthedocs.io) · 个人维护
+⭐ 659 · Python · BSD-2-Clause · 推送 2026-09-08 · [GitHub](https://github.com/yzhao062/combo) · [官网](https://pycombo.readthedocs.io) · 个人维护
 
 **面向开发者的机器学习模型与分数组合 Python 工具库**
 
@@ -46,12 +46,12 @@ combo 是一个用于组合机器学习模型与分数的 Python 工具库，属
 ```mermaid
 xychart-beta
     title "yzhao062/combo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 659 --> 661
-    line [660, 660]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 658 --> 661
+    line [660, 659]
 ```
 
-2026-10-18 660 → 2026-11-01 660（+0）
+2026-10-18 660 → 2026-11-02 659（-1）
 
 
 ---

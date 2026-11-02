@@ -1,6 +1,6 @@
 # lucataco/open-source-higgsfield
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lucataco/open-source-higgsfield) · 个人维护
+⭐ 55 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lucataco/open-source-higgsfield) · 个人维护
 
 **本地 ComfyUI 视频角色替换工具：保持运镜与画面换演员**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucataco/open-source-higgsfield 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 19 --> 35
-    line [20, 34]
+    title "lucataco/open-source-higgsfield 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 17 --> 58
+    line [20, 34, 55]
 ```
 
-2026-10-31 20 → 2026-11-01 34（+14）
+2026-10-31 20 → 2026-11-02 55（+35）
 
 
 ---

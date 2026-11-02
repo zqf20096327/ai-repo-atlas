@@ -1,6 +1,6 @@
 # yuqie6/ProductFlow
 
-⭐ 308 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yuqie6/ProductFlow) · [官网](https://draw.devbin.de) · 个人维护 · 中文 README
+⭐ 306 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yuqie6/ProductFlow) · [官网](https://draw.devbin.de) · 个人维护 · 中文 README
 
 **面向小团队商家的自托管商品素材 AI 工作台**
 
@@ -46,12 +46,12 @@ ProductFlow 是私有单管理员实例的开源自托管应用，链路覆盖�
 ```mermaid
 xychart-beta
     title "yuqie6/ProductFlow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 306 --> 309
-    line [307, 308, 308]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 305 --> 309
+    line [307, 308, 306]
 ```
 
-2026-10-18 307 → 2026-11-01 308（+1）
+2026-10-18 307 → 2026-11-02 306（-1）
 
 
 ---

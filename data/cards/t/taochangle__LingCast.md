@@ -1,6 +1,6 @@
 # taochangle/LingCast
 
-⭐ 17 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/taochangle/LingCast) · [官网](https://taochangle.github.io/LingCast/) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/taochangle/LingCast) · [官网](https://taochangle.github.io/LingCast/) · 个人维护 · 中文 README
 
 **端到端 AI 数字人直播平台：形象生成、口型同步与 LLM 实时互动**
 
@@ -46,12 +46,12 @@ LingCast 是一套 AI 数字人直播平台：用图片、Edge-TTS 声音与人�
 ```mermaid
 xychart-beta
     title "taochangle/LingCast 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 17, 18]
 ```
 
-2026-10-18 14 → 2026-11-01 17（+3）
+2026-10-18 14 → 2026-11-02 18（+4）
 
 
 ---

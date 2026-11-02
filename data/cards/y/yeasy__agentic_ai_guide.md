@@ -1,6 +1,6 @@
 # yeasy/agentic_ai_guide
 
-⭐ 217 · Python · 推送 2026-10-14 · [GitHub](https://github.com/yeasy/agentic_ai_guide) · [官网](https://yeasy.gitbook.io/agentic_ai_guide/) · 个人维护 · 中文 README
+⭐ 217 · Python · 推送 2026-11-01 · [GitHub](https://github.com/yeasy/agentic_ai_guide) · [官网](https://yeasy.gitbook.io/agentic_ai_guide/) · 个人维护 · 中文 README
 
 **面向工程师与技术决策者的智能体（Agentic AI）中文技术书籍**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeasy/agentic_ai_guide 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01"]
+    title "yeasy/agentic_ai_guide 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 204 --> 218
-    line [205, 206, 209, 210, 211, 213, 215, 216, 217]
+    line [205, 206, 209, 210, 211, 213, 215, 216, 217, 217]
 ```
 
-2026-10-18 205 → 2026-11-01 217（+12）
+2026-10-18 205 → 2026-11-02 217（+12）
 
 
 ---

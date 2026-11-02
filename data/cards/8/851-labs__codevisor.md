@@ -1,6 +1,6 @@
 # 851-labs/codevisor
 
-⭐ 22 · Swift · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/851-labs/codevisor) · [官网](https://codevisor.dev) · 组织维护
+⭐ 22 · Swift · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/851-labs/codevisor) · [官网](https://codevisor.dev) · 组织维护
 
 **在 macOS 上运行多种编码 agent 的原生桌面客户端**
 
@@ -45,12 +45,12 @@ Codevisor 是一个原生 macOS 桌面应用（纯 Swift 编写，无 Electron�
 ```mermaid
 xychart-beta
     title "851-labs/codevisor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
     y-axis "stars" 17 --> 23
     line [18, 19, 20, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-01 22（+4）
+2026-10-18 18 → 2026-11-02 22（+4）
 
 
 ---

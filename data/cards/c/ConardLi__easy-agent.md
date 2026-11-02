@@ -1,6 +1,6 @@
 # ConardLi/easy-agent
 
-⭐ 1,019 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ConardLi/easy-agent) · 个人维护 · 中文 README
+⭐ 1,020 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ConardLi/easy-agent) · 个人维护 · 中文 README
 
 **终端编程 agent：读改代码、跑命令，受权限与沙箱约束**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ConardLi/easy-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1014 --> 1020
-    line [1015, 1016, 1015, 1016, 1018, 1019]
+    title "ConardLi/easy-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1014 --> 1021
+    line [1015, 1016, 1015, 1016, 1018, 1019, 1020]
 ```
 
-2026-10-18 1,015 → 2026-11-01 1,019（+4）
+2026-10-18 1,015 → 2026-11-02 1,020（+5）
 
 
 ---

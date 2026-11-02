@@ -1,6 +1,6 @@
 # 3aKHP/prts-mcp
 
-⭐ 15 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/3aKHP/prts-mcp) · 个人维护 · 中文 README
+⭐ 15 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/3aKHP/prts-mcp) · 个人维护 · 中文 README
 
 **向 AI agent 提供明日方舟 Wiki 与游戏数据的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "3aKHP/prts-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
     y-axis "stars" 11 --> 16
     line [12, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-01 15（+3）
+2026-10-18 12 → 2026-11-02 15（+3）
 
 
 ---

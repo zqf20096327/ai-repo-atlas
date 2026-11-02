@@ -1,6 +1,6 @@
 # AttemorySystem/spire-agent
 
-⭐ 39 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/AttemorySystem/spire-agent) · 组织维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/AttemorySystem/spire-agent) · 组织维护 · 中文 README
 
 **自主游玩《杀戮尖塔》的 AI agent，实现 A20H 多次通关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AttemorySystem/spire-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 39, 40]
 ```
 
-2026-10-18 37 → 2026-11-01 39（+2）
+2026-10-18 37 → 2026-11-02 40（+3）
 
 
 ---

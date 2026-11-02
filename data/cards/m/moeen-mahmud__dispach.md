@@ -1,6 +1,6 @@
 # moeen-mahmud/dispach
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/moeen-mahmud/dispach) · [官网](https://dispach.blivius.com) · 个人维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/moeen-mahmud/dispach) · [官网](https://dispach.blivius.com) · 个人维护
 
 **自托管 HTTP agent 运行时：产品通过一个 API 运行带记忆与工具的 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "moeen-mahmud/dispach 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 11 --> 15
-    line [12, 14]
+    title "moeen-mahmud/dispach 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 18
+    line [12, 14, 17]
 ```
 
-2026-10-31 12 → 2026-11-01 14（+2）
+2026-10-31 12 → 2026-11-02 17（+5）
 
 
 ---

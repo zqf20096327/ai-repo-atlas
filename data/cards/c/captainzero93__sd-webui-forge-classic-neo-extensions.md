@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "captainzero93/sd-webui-forge-classic-neo-extensions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    title "captainzero93/sd-webui-forge-classic-neo-extensions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19]
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-01 19（+2）
+2026-10-18 17 → 2026-11-02 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # manaskng/opp-lens
 
-⭐ 39 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/manaskng/opp-lens) · [官网](https://opp-lens.vercel.app/) · 个人维护
+⭐ 40 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/manaskng/opp-lens) · [官网](https://opp-lens.vercel.app/) · 个人维护
 
 **面向开发者的技术活动平台，含爬取管线与推荐服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "manaskng/opp-lens 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 35 --> 41
+    line [36, 37, 38, 39, 40]
 ```
 
-2026-10-18 36 → 2026-11-01 39（+3）
+2026-10-18 36 → 2026-11-02 40（+4）
 
 
 ---

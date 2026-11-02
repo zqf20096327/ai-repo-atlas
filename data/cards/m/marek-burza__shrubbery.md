@@ -1,6 +1,6 @@
 # marek-burza/shrubbery
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/marek-burza/shrubbery) · 个人维护
+⭐ 15 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/marek-burza/shrubbery) · 个人维护
 
 **个人实验仓库：用机器学习模型参与 Numerai 量化竞赛并提交预测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "marek-burza/shrubbery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "marek-burza/shrubbery 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 14 --> 17
-    line [16, 15]
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-01 15（-1）
+2026-10-18 16 → 2026-11-02 15（-1）
 
 
 ---

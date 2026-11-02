@@ -47,12 +47,12 @@ Gradio Web 应用 + CLI：从上传视频中抽帧，发送到 llama.cpp 视觉�
 ```mermaid
 xychart-beta
     title "nanofatdog/video-to-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

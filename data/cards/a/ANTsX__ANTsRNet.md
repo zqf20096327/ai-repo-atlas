@@ -1,6 +1,6 @@
 # ANTsX/ANTsRNet
 
-⭐ 71 · R · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/ANTsX/ANTsRNet) · 组织维护
+⭐ 70 · R · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/ANTsX/ANTsRNet) · 组织维护
 
 **给 R 用户的医学影像深度学习架构与预训练模型库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ANTsX/ANTsRNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    line [70, 71, 70]
 ```
 
-2026-10-18 70 → 2026-11-01 71（+1）
+2026-10-18 70 → 2026-11-02 70（+0）
 
 
 ---

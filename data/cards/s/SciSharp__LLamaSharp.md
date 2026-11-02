@@ -1,6 +1,6 @@
 # SciSharp/LLamaSharp
 
-⭐ 3,819 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/SciSharp/LLamaSharp) · [官网](https://scisharp.github.io/LLamaSharp) · 组织维护 · 中文 README
+⭐ 3,821 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/SciSharp/LLamaSharp) · [官网](https://scisharp.github.io/LLamaSharp) · 组织维护 · 中文 README
 
 **C#/.NET 本地运行 LLM 的推理库，基于 llama.cpp**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SciSharp/LLamaSharp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3810 --> 3821
-    line [3811, 3814, 3817, 3818, 3819, 3818, 3819, 3820, 3819]
+    title "SciSharp/LLamaSharp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3810 --> 3822
+    line [3811, 3814, 3817, 3818, 3819, 3818, 3819, 3820, 3819, 3821]
 ```
 
-2026-10-18 3,811 → 2026-11-01 3,819（+8）
+2026-10-18 3,811 → 2026-11-02 3,821（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # valuecodes/Rehoboam-UI
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/valuecodes/Rehoboam-UI) · [官网](https://rehoboam.valuecodes.fi) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/valuecodes/Rehoboam-UI) · [官网](https://rehoboam.valuecodes.fi) · 个人维护
 
 **复刻《西部世界》Rehoboam 界面的 React 网页项目**
 
@@ -44,13 +44,13 @@ pnpm monorepo，包含 React 19 + Vite 网页 UI、Cloudflare Worker API 与定�
 
 ```mermaid
 xychart-beta
-    title "valuecodes/Rehoboam-UI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "valuecodes/Rehoboam-UI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 41 --> 44
-    line [42, 43]
+    line [42, 43, 42]
 ```
 
-2026-10-18 42 → 2026-11-01 43（+1）
+2026-10-18 42 → 2026-11-02 42（+0）
 
 
 ---

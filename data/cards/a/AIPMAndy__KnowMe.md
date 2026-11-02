@@ -46,12 +46,12 @@ Python 命令行分析器，读取 ChatGPT/Claude/OpenClaw 导出的长期对话
 ```mermaid
 xychart-beta
     title "AIPMAndy/KnowMe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

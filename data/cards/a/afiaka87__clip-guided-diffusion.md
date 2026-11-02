@@ -1,6 +1,6 @@
 # afiaka87/clip-guided-diffusion
 
-⭐ 459 · Python · MIT · 推送 2025-12-31 · [GitHub](https://github.com/afiaka87/clip-guided-diffusion) · 个人维护
+⭐ 459 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/afiaka87/clip-guided-diffusion) · 个人维护
 
 **用 CLIP 引导 diffusion 从文本生成图像的 CLI 工具/Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "afiaka87/clip-guided-diffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 458 --> 460
     line [459, 459]
 ```
 
-2026-10-18 459 → 2026-11-01 459（+0）
+2026-10-18 459 → 2026-11-02 459（+0）
 
 
 ---

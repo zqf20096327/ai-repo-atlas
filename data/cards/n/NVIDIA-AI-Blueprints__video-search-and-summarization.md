@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/video-search-and-summarization
 
-⭐ 1,957 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [官网](https://build.nvidia.com/nvidia/video-search-and-summarization) · 组织维护
+⭐ 1,958 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [官网](https://build.nvidia.com/nvidia/video-search-and-summarization) · 组织维护
 
 **GPU 加速的视频分析与摘要 AI Agent 参考架构**
 
@@ -46,12 +46,12 @@ NVIDIA 发布的 VSS 蓝图，提供一整套用于构建视频 AI agent 的参�
 ```mermaid
 xychart-beta
     title "NVIDIA-AI-Blueprints/video-search-and-summarization 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1929 --> 1959
-    line [1931, 1933, 1936, 1941, 1943, 1942, 1945, 1949, 1952, 1953, 1954, 1957, 1957]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1929 --> 1960
+    line [1931, 1933, 1936, 1941, 1943, 1942, 1945, 1949, 1952, 1953, 1954, 1957, 1958]
 ```
 
-2026-10-18 1,931 → 2026-11-01 1,957（+26）
+2026-10-18 1,931 → 2026-11-02 1,958（+27）
 
 
 ---

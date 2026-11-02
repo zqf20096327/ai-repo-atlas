@@ -1,6 +1,6 @@
 # Morrowmake/dsv41-flash-cmp170hx-recipe
 
-⭐ 16 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Morrowmake/dsv41-flash-cmp170hx-recipe) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Morrowmake/dsv41-flash-cmp170hx-recipe) · 个人维护
 
 **在 4×CMP 170HX 上以 vLLM 部署 DeepSeek-V4.1-Flash 的一键容器方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Morrowmake/dsv41-flash-cmp170hx-recipe 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 16, 16]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 16, 18]
 ```
 
-2026-10-26 12 → 2026-11-01 16（+4）
+2026-10-26 12 → 2026-11-02 18（+6）
 
 
 ---

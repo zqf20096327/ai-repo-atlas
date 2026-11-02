@@ -1,6 +1,6 @@
 # hengfengliya/beayy
 
-⭐ 68 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hengfengliya/beayy) · [官网](https://beayy.com) · 个人维护 · 中文 README
+⭐ 69 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hengfengliya/beayy) · [官网](https://beayy.com) · 个人维护 · 中文 README
 
 **跨设备自动记日记应用：记录时间地点活动并生成 AI 日记**
 
@@ -46,13 +46,13 @@ Beayy 是一款本地优先的个人活动记录与自动日记应用，运行�
 
 ```mermaid
 xychart-beta
-    title "hengfengliya/beayy 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 66 --> 69
-    line [67, 68]
+    title "hengfengliya/beayy 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69]
 ```
 
-2026-10-31 67 → 2026-11-01 68（+1）
+2026-10-31 67 → 2026-11-02 69（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # symgraph/GhidrAssist
 
-⭐ 774 · Java · MIT · 推送 2026-10-16 · [GitHub](https://github.com/symgraph/GhidrAssist) · 个人维护
+⭐ 775 · Java · MIT · 推送 2026-10-16 · [GitHub](https://github.com/symgraph/GhidrAssist) · 个人维护
 
 **Ghidra 的 LLM 插件：逆向工程中的代码解释与智能分析**
 
@@ -46,13 +46,13 @@ Ghidra 逆向工程平台的多标签页 LLM 插件：提供反汇编/伪 C 代�
 
 ```mermaid
 xychart-beta
-    title "symgraph/GhidrAssist 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 763 --> 775
-    line [764, 766, 769, 770, 772, 774]
+    title "symgraph/GhidrAssist 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 763 --> 776
+    line [764, 766, 769, 770, 772, 774, 775]
 ```
 
-2026-10-18 764 → 2026-11-01 774（+10）
+2026-10-18 764 → 2026-11-02 775（+11）
 
 
 ---

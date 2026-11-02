@@ -1,6 +1,6 @@
 # HiThink-Research/BizFinBench
 
-⭐ 169 · Python · 推送 2026-05-01 · [GitHub](https://github.com/HiThink-Research/BizFinBench) · [官网](https://hithink-research.github.io/BizFinBench/) · 组织维护 · 中文 README
+⭐ 170 · Python · 推送 2026-05-01 · [GitHub](https://github.com/HiThink-Research/BizFinBench) · [官网](https://hithink-research.github.io/BizFinBench/) · 组织维护 · 中文 README
 
 **面向真实金融业务的 LLM 评测基准（10万+中英双语题目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HiThink-Research/BizFinBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 168 --> 170
-    line [169, 169]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 168 --> 171
+    line [169, 170]
 ```
 
-2026-10-18 169 → 2026-11-01 169（+0）
+2026-10-18 169 → 2026-11-02 170（+1）
 
 
 ---

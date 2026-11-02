@@ -1,6 +1,6 @@
 # ArtificialAnalysis/aa-agentperf-local
 
-⭐ 124 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/ArtificialAnalysis/aa-agentperf-local) · [官网](https://artificialanalysis.ai) · 组织维护
+⭐ 126 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/ArtificialAnalysis/aa-agentperf-local) · [官网](https://artificialanalysis.ai) · 组织维护
 
 **本地 LLM 推理性能基准工具：回放真实 agent 轨迹测吞吐与延迟**
 
@@ -45,13 +45,13 @@ Artificial Analysis 开源的本地模型服务基准测试工具：将录制的
 
 ```mermaid
 xychart-beta
-    title "ArtificialAnalysis/aa-agentperf-local 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 101 --> 126
-    line [103, 106, 108, 109, 111, 113, 114, 118, 123, 124]
+    title "ArtificialAnalysis/aa-agentperf-local 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 101 --> 128
+    line [103, 106, 108, 109, 111, 113, 114, 118, 123, 124, 126]
 ```
 
-2026-10-18 103 → 2026-11-01 124（+21）
+2026-10-18 103 → 2026-11-02 126（+23）
 
 
 ---

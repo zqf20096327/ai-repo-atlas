@@ -1,6 +1,6 @@
 # nagi-studio/nagi-bench
 
-⭐ 76 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nagi-studio/nagi-bench) · [官网](http://bench.nagi.fun/) · 组织维护 · 中文 README
+⭐ 77 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nagi-studio/nagi-bench) · [官网](http://bench.nagi.fun/) · 组织维护 · 中文 README
 
 **LLM Agent 一次生成能力测评案例集与社区盲评榜单**
 
@@ -46,12 +46,12 @@ NAGI STUDIO 维护的 LLM 测评数据仓库：以「模型 × Harness × 思考
 ```mermaid
 xychart-beta
     title "nagi-studio/nagi-bench 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 68 --> 77
-    line [69, 70, 71, 72, 73, 74, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 68 --> 78
+    line [69, 70, 71, 72, 73, 74, 75, 76, 77]
 ```
 
-2026-10-18 69 → 2026-11-01 76（+7）
+2026-10-18 69 → 2026-11-02 77（+8）
 
 
 ---

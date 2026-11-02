@@ -1,6 +1,6 @@
 # VowpalWabbit/vowpal_wabbit
 
-⭐ 8,732 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/VowpalWabbit/vowpal_wabbit) · [官网](https://vowpalwabbit.org) · 组织维护
+⭐ 8,733 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/VowpalWabbit/vowpal_wabbit) · [官网](https://vowpalwabbit.org) · 组织维护
 
 **快速在线机器学习系统，供开发者训练预测模型**
 
@@ -45,12 +45,12 @@ C++ 实现的在线机器学习系统，面向算法开发者与研究员：支�
 ```mermaid
 xychart-beta
     title "VowpalWabbit/vowpal_wabbit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 8729 --> 8733
-    line [8731, 8730, 8731, 8730, 8731, 8732, 8732]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 8729 --> 8734
+    line [8731, 8730, 8731, 8730, 8731, 8732, 8733]
 ```
 
-2026-10-18 8,731 → 2026-11-01 8,732（+1）
+2026-10-18 8,731 → 2026-11-02 8,733（+2）
 
 
 ---

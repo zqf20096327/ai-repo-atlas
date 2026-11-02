@@ -46,12 +46,12 @@ SIH 2025 黑客松项目的全栈农业平台：移动端（React Native + Expo�
 ```mermaid
 xychart-beta
     title "abhinab-choudhury/Crop-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KiwiGaze/glm-for-copilot
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KiwiGaze/glm-for-copilot) · [官网](https://marketplace.visualstudio.com/items?itemName=yijiazhen-qi.glm-for-github-copilot-chat) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KiwiGaze/glm-for-copilot) · [官网](https://marketplace.visualstudio.com/items?itemName=yijiazhen-qi.glm-for-github-copilot-chat) · 个人维护 · 中文 README
 
 **把 GLM 模型接入 GitHub Copilot Chat 的 BYOK VS Code 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KiwiGaze/glm-for-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

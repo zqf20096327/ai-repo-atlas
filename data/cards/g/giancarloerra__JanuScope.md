@@ -46,12 +46,12 @@ JanuScope 是运行在本地的 MCP 策略代理：通过一份 YAML 配置（Le
 ```mermaid
 xychart-beta
     title "giancarloerra/JanuScope 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-01 32（+0）
+2026-10-18 32 → 2026-11-02 32（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # leynier/python-template
 
-⭐ 37 · Jinja · MIT · 推送 2026-10-01 · [GitHub](https://github.com/leynier/python-template) · [官网](https://python-template.leynier.dev) · 个人维护
+⭐ 37 · Jinja · MIT · 推送 2026-11-01 · [GitHub](https://github.com/leynier/python-template) · [官网](https://python-template.leynier.dev) · 个人维护
 
 **Copier 模板：按层组合生成 Python 与 AI 生产级项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leynier/python-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-01 37（+0）
+2026-10-18 37 → 2026-11-02 37（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mattt/ollama-swift
 
-⭐ 455 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/mattt/ollama-swift) · [官网](https://ollama.com) · 个人维护
+⭐ 455 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mattt/ollama-swift) · [官网](https://ollama.com) · 个人维护
 
 **Swift 客户端库：在苹果平台调用 Ollama API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mattt/ollama-swift 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 454 --> 457
     line [456, 455, 455]
 ```
 
-2026-10-18 456 → 2026-11-01 455（-1）
+2026-10-18 456 → 2026-11-02 455（-1）
 
 
 ---

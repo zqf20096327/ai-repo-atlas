@@ -1,6 +1,6 @@
 # pilot7747/bux
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/pilot7747/bux) · [官网](https://bux.readthedocs.io) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/pilot7747/bux) · [官网](https://bux.readthedocs.io) · 个人维护
 
 **JAX 语言模型预训练消融框架：几行配置跑架构/数据对比实验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pilot7747/bux 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-01"]
-    y-axis "stars" 7 --> 15
-    line [8, 14]
+    title "pilot7747/bux 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 7 --> 18
+    line [8, 14, 17]
 ```
 
-2026-10-30 8 → 2026-11-01 14（+6）
+2026-10-30 8 → 2026-11-02 17（+9）
 
 
 ---

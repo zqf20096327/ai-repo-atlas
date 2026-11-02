@@ -1,6 +1,6 @@
 # relflow/relflow
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/relflow/relflow) · [官网](http://relflow.ai) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/relflow/relflow) · [官网](http://relflow.ai) · 组织维护
 
 **在嵌套结构化数据上训练 PyTorch 模型的机器学习库**
 
@@ -45,12 +45,12 @@ relflow 从经 Apache Arrow 流式输入的嵌套记录构建 PyTorch/Lightning 
 ```mermaid
 xychart-beta
     title "relflow/relflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

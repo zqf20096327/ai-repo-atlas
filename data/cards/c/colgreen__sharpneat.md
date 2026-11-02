@@ -44,13 +44,13 @@ SharpNEAT 是用 C# 编写、面向 .NET 9 的 NEAT（增量拓扑进化算法�
 
 ```mermaid
 xychart-beta
-    title "colgreen/sharpneat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "colgreen/sharpneat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 424 --> 427
-    line [425, 426]
+    line [425, 426, 426]
 ```
 
-2026-10-18 425 → 2026-11-01 426（+1）
+2026-10-18 425 → 2026-11-02 426（+1）
 
 
 ---

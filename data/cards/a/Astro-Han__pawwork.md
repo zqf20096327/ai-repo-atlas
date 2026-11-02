@@ -1,6 +1,6 @@
 # Astro-Han/pawwork
 
-⭐ 204 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Astro-Han/pawwork) · [官网](https://pawwork.ai) · 个人维护 · 中文 README
+⭐ 205 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Astro-Han/pawwork) · [官网](https://pawwork.ai) · 个人维护 · 中文 README
 
 **面向非技术用户的桌面 AI agent，基于 DSH 做文档与自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Astro-Han/pawwork 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 200 --> 205
-    line [201, 203, 204, 204]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 200 --> 206
+    line [201, 203, 204, 205]
 ```
 
-2026-10-18 201 → 2026-11-01 204（+3）
+2026-10-18 201 → 2026-11-02 205（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Particle1904/DatasetHelpers
 
-⭐ 229 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Particle1904/DatasetHelpers) · 个人维护
+⭐ 229 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Particle1904/DatasetHelpers) · 个人维护
 
 **图像-文本数据集预处理桌面工具：选图、裁剪、打标一体化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Particle1904/DatasetHelpers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 228 --> 230
     line [229, 229]
 ```
 
-2026-10-18 229 → 2026-11-01 229（+0）
+2026-10-18 229 → 2026-11-02 229（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/agent-framework-go
 
-⭐ 658 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/agent-framework-go) · [官网](https://aka.ms/agent-framework) · 组织维护
+⭐ 659 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/agent-framework-go) · [官网](https://aka.ms/agent-framework) · 组织维护
 
 **微软多语言 Agent 框架的 Go 实现：构建与编排生产级多 agent 工作流**
 
@@ -45,12 +45,12 @@ Microsoft Agent Framework 的 Go 语言实现，提供构建、编排和运行�
 ```mermaid
 xychart-beta
     title "microsoft/agent-framework-go 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 648 --> 659
-    line [649, 652, 654, 656, 657, 658, 658]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 648 --> 660
+    line [649, 652, 654, 656, 657, 658, 659]
 ```
 
-2026-10-18 649 → 2026-11-01 658（+9）
+2026-10-18 649 → 2026-11-02 659（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # EthicalML/awesome-production-machine-learning
 
-⭐ 21,064 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) · [官网](https://ethicalml.github.io/awesome-production-machine-learning) · 组织维护
+⭐ 21,062 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) · [官网](https://ethicalml.github.io/awesome-production-machine-learning) · 组织维护
 
 **生产级机器学习开源库策展清单：部署/监控/版本/扩展**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "EthicalML/awesome-production-machine-learning 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "EthicalML/awesome-production-machine-learning 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 21009 --> 21069
-    line [21014, 21017, 21022, 21023, 21029, 21030, 21034, 21040, 21043, 21047, 21058, 21061, 21064]
+    line [21014, 21017, 21022, 21023, 21029, 21030, 21034, 21040, 21043, 21047, 21058, 21061, 21064, 21062]
 ```
 
-2026-10-18 21,014 → 2026-11-01 21,064（+50）
+2026-10-18 21,014 → 2026-11-02 21,062（+48）
 
 
 ---

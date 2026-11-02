@@ -1,6 +1,6 @@
 # tenstorrent/tt-awesome
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/tenstorrent/tt-awesome) · [官网](https://docs.tenstorrent.com/tt-awesome/) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tenstorrent/tt-awesome) · [官网](https://docs.tenstorrent.com/tt-awesome/) · 组织维护
 
 **Tenstorrent 生态项目与工具的社区策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tenstorrent/tt-awesome 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 16 --> 21
     line [17, 18, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-01 20（+3）
+2026-10-18 17 → 2026-11-02 20（+3）
 
 
 ---

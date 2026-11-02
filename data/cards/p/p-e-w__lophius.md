@@ -1,6 +1,6 @@
 # p-e-w/lophius
 
-⭐ 101 · Python · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/p-e-w/lophius) · [官网](https://lophius.org) · 个人维护
+⭐ 104 · Python · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/p-e-w/lophius) · [官网](https://lophius.org) · 个人维护
 
 **语言模型研究工作台：供研究者开展 LLM 实验**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "p-e-w/lophius 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 96 --> 102
-    line [97, 98, 99, 100, 101]
+    title "p-e-w/lophius 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 96 --> 105
+    line [97, 98, 99, 100, 101, 104]
 ```
 
-2026-10-18 97 → 2026-11-01 101（+4）
+2026-10-18 97 → 2026-11-02 104（+7）
 
 
 ---

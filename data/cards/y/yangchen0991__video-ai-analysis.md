@@ -46,12 +46,12 @@ React + Express 构建的单用户本地应用：上传视频后用 Canvas 直�
 ```mermaid
 xychart-beta
     title "yangchen0991/video-ai-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 16（+0）
 
 
 ---

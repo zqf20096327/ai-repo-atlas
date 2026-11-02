@@ -1,6 +1,6 @@
 # adriannoes/awesome-agentic-ai
 
-⭐ 92 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/adriannoes/awesome-agentic-ai) · 个人维护
+⭐ 93 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/adriannoes/awesome-agentic-ai) · 个人维护
 
 **面向产品构建者的 AI 辅助开发资源聚合中心（技能/论文/教材）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adriannoes/awesome-agentic-ai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 66 --> 94
-    line [68, 69, 72, 82, 88, 89, 92, 92]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 66 --> 95
+    line [68, 69, 72, 82, 88, 89, 92, 93]
 ```
 
-2026-10-18 68 → 2026-11-01 92（+24）
+2026-10-18 68 → 2026-11-02 93（+25）
 
 
 ---

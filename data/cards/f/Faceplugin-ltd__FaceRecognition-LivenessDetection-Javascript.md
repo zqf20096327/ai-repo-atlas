@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript
 
-⭐ 118 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 120 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript) · [官网](https://faceplugin.com/) · 组织维护
 
 **浏览器端人脸识别与活体检测 JavaScript SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 115 --> 119
-    line [116, 118, 117, 118]
+    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 115 --> 121
+    line [116, 118, 117, 118, 120]
 ```
 
-2026-10-18 116 → 2026-11-01 118（+2）
+2026-10-18 116 → 2026-11-02 120（+4）
 
 
 ---

@@ -47,12 +47,12 @@ LIT（Learning Interpretability Tool，前身为 Language Interpretability Tool�
 ```mermaid
 xychart-beta
     title "PAIR-code/lit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 3668 --> 3672
     line [3669, 3670, 3671, 3671]
 ```
 
-2026-10-18 3,669 → 2026-11-01 3,671（+2）
+2026-10-18 3,669 → 2026-11-02 3,671（+2）
 
 
 ---

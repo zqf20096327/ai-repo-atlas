@@ -1,6 +1,6 @@
 # livekit/python-sdks
 
-⭐ 391 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/livekit/python-sdks) · [官网](https://docs.livekit.io) · 组织维护
+⭐ 391 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/livekit/python-sdks) · [官网](https://docs.livekit.io) · 组织维护
 
 **LiveKit 的 Python 实时音视频与服务器 API SDK**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "livekit/python-sdks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01"]
+    title "livekit/python-sdks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 384 --> 392
-    line [385, 386, 388, 389, 390, 391]
+    line [385, 386, 388, 389, 390, 391, 391]
 ```
 
-2026-10-18 385 → 2026-11-01 391（+6）
+2026-10-18 385 → 2026-11-02 391（+6）
 
 
 ---

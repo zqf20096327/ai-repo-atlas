@@ -1,6 +1,6 @@
 # MartinXPN/nextjs-firebase-mui-starter
 
-⭐ 27 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/MartinXPN/nextjs-firebase-mui-starter) · [官网](https://dev.to/martinxpn/the-teach-stack-for-building-web-platforms-in-the-ai-native-era-45ka) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/MartinXPN/nextjs-firebase-mui-starter) · [官网](https://dev.to/martinxpn/the-teach-stack-for-building-web-platforms-in-the-ai-native-era-45ka) · 个人维护
 
 **Next.js 16 + Firebase + MUI 的全栈应用起步模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MartinXPN/nextjs-firebase-mui-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-11-01 27（+0）
+2026-10-18 27 → 2026-11-02 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nanaism/yomiyasu-pocket
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nanaism/yomiyasu-pocket) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nanaism/yomiyasu-pocket) · 个人维护
 
 **让 AI 把日语文章改得更易读的 400-500 字指示文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nanaism/yomiyasu-pocket 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 7 --> 15
-    line [8, 10, 11, 12, 14]
+    title "nanaism/yomiyasu-pocket 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 7 --> 18
+    line [8, 10, 11, 12, 14, 17]
 ```
 
-2026-10-25 8 → 2026-11-01 14（+6）
+2026-10-25 8 → 2026-11-02 17（+9）
 
 
 ---

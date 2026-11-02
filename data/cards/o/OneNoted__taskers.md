@@ -1,6 +1,6 @@
 # OneNoted/taskers
 
-⭐ 19 · Rust · MIT · 推送 2026-06-21 · [GitHub](https://github.com/OneNoted/taskers) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-06-21 · [GitHub](https://github.com/OneNoted/taskers) · 个人维护
 
 **面向大量 agent 终端作业的 Linux 工作区应用**
 
@@ -45,12 +45,12 @@ Linux 桌面终端工作区应用：以顶层工作区窗口、窗口内窗格�
 ```mermaid
 xychart-beta
     title "OneNoted/taskers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

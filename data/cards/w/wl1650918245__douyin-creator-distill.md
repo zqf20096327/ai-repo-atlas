@@ -1,6 +1,6 @@
 # wl1650918245/douyin-creator-distill
 
-⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wl1650918245/douyin-creator-distill) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wl1650918245/douyin-creator-distill) · 个人维护 · 中文 README
 
 **本地优先的抖音创作者分析智能体：抓取、转写、爆款拆解与选题**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wl1650918245/douyin-creator-distill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

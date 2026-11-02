@@ -1,6 +1,6 @@
 # microsoft/byol
 
-⭐ 14 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/microsoft/byol) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/microsoft/byol) · 组织维护
 
 **微软工具包：把低资源语言适配进 LLM 的全流程框架**
 
@@ -45,12 +45,12 @@ BYOL 面向低资源与极低资源语言，提供从语言数字资源评估、
 ```mermaid
 xychart-beta
     title "microsoft/byol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

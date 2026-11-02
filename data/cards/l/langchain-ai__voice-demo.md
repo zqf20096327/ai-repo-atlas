@@ -45,13 +45,13 @@ langchain-ai 维护的演示仓库：用 12 个后端实现语音 agent，覆盖
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/voice-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "langchain-ai/voice-demo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-01 35（+1）
+2026-10-18 34 → 2026-11-02 35（+1）
 
 
 ---

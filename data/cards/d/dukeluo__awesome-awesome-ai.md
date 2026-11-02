@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dukeluo/awesome-awesome-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "dukeluo/awesome-awesome-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 137 --> 140
-    line [138, 139]
+    line [138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-11-01 139（+1）
+2026-10-18 138 → 2026-11-02 139（+1）
 
 
 ---

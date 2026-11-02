@@ -1,6 +1,6 @@
 # pegaltier/awesome-utils-dev
 
-⭐ 307 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/pegaltier/awesome-utils-dev) · 个人维护
+⭐ 308 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/pegaltier/awesome-utils-dev) · 个人维护
 
 **开发者工具与资源聚合清单（awesome list）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pegaltier/awesome-utils-dev 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 304 --> 308
-    line [305, 306, 305, 306, 307, 307]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 304 --> 309
+    line [305, 306, 305, 306, 307, 308]
 ```
 
-2026-10-18 305 → 2026-11-01 307（+2）
+2026-10-18 305 → 2026-11-02 308（+3）
 
 
 ---

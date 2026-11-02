@@ -1,6 +1,6 @@
 # FlorianBruniaux/cc-copilot-bridge
 
-⭐ 61 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FlorianBruniaux/cc-copilot-bridge) · [官网](https://ccbridge.bruniaux.com/) · 个人维护
+⭐ 62 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FlorianBruniaux/cc-copilot-bridge) · [官网](https://ccbridge.bruniaux.com/) · 个人维护
 
 **给 Claude Code 用户的 Bash 多后端切换路由器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlorianBruniaux/cc-copilot-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
 ```
 
-2026-10-18 61 → 2026-11-01 61（+0）
+2026-10-18 61 → 2026-11-02 62（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HFTrader/awesome-free-deep-learning-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 357 --> 359
     line [358, 358]
 ```
 
-2026-10-18 358 → 2026-11-01 358（+0）
+2026-10-18 358 → 2026-11-02 358（+0）
 
 
 ---

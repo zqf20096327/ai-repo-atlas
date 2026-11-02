@@ -1,6 +1,6 @@
 # Azure-Samples/azure-finops-agent
 
-⭐ 39 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Azure-Samples/azure-finops-agent) · [官网](https://azure-finops-agent.com/) · 组织维护
+⭐ 39 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure-Samples/azure-finops-agent) · [官网](https://azure-finops-agent.com/) · 组织维护
 
 **面向 Azure 的 FinOps/InfraOps AI agent：用对话完成成本评估与治理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-finops-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 34 --> 40
     line [35, 36, 37, 38, 39, 39]
 ```
 
-2026-10-18 35 → 2026-11-01 39（+4）
+2026-10-18 35 → 2026-11-02 39（+4）
 
 
 ---

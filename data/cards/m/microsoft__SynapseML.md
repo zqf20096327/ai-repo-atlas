@@ -1,6 +1,6 @@
 # microsoft/SynapseML
 
-⭐ 5,251 · Scala · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/SynapseML) · [官网](http://aka.ms/spark) · 组织维护
+⭐ 5,252 · Scala · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/SynapseML) · [官网](http://aka.ms/spark) · 组织维护
 
 **微软开源的 Spark 分布式机器学习库，扩展 SparkML 生态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/SynapseML 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 5245 --> 5252
-    line [5246, 5248, 5249, 5250, 5251, 5251]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 5245 --> 5253
+    line [5246, 5248, 5249, 5250, 5251, 5252]
 ```
 
-2026-10-18 5,246 → 2026-11-01 5,251（+5）
+2026-10-18 5,246 → 2026-11-02 5,252（+6）
 
 
 ---

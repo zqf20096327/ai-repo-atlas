@@ -46,12 +46,12 @@ Obsidian 社区插件，将 Claude Code、Codex、Cursor Agent、Grok Build、Op
 ```mermaid
 xychart-beta
     title "lee259/oh-my-claudian 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
     y-axis "stars" 14 --> 19
     line [15, 16, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-01 18（+3）
+2026-10-18 15 → 2026-11-02 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Copyleaks/ng-web-report
 
-⭐ 22 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Copyleaks/ng-web-report) · [官网](https://copyleaks.com) · 组织维护
+⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Copyleaks/ng-web-report) · [官网](https://copyleaks.com) · 组织维护
 
 **面向 Angular 的 Copyleaks 抄袭与 AI 检测报告 UI 组件**
 
@@ -46,12 +46,12 @@ Copyleaks 维护的 Angular npm 模块 @copyleaks/ng-web-report，在应用内�
 ```mermaid
 xychart-beta
     title "Copyleaks/ng-web-report 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-01 22（+0）
+2026-10-18 22 → 2026-11-02 22（+0）
 
 
 ---

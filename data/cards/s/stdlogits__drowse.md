@@ -1,6 +1,6 @@
 # stdlogits/drowse
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/stdlogits/drowse) · [官网](https://drowse.ai) · 组织维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/stdlogits/drowse) · [官网](https://drowse.ai) · 组织维护
 
 **LLM 机制可解释性工作台：激活转向、概念探针与监控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stdlogits/drowse 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-31", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-31 14 → 2026-11-01 14（+0）
+2026-10-31 14 → 2026-11-02 14（+0）
 
 
 ---

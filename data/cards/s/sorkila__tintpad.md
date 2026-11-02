@@ -1,6 +1,6 @@
 # sorkila/tintpad
 
-⭐ 16 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sorkila/tintpad) · [官网](https://tintpad.com) · 个人维护
+⭐ 17 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sorkila/tintpad) · [官网](https://tintpad.com) · 个人维护
 
 **从 MacBook 刘海弹出的 macOS 启动器：快捷键直达仓库并启动 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sorkila/tintpad 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

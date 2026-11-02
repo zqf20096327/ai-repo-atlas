@@ -1,6 +1,6 @@
 # teerthsharma/Aether-Lang
 
-⭐ 11 · Rust · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/teerthsharma/Aether-Lang) · [官网](https://teerthsharma.github.io/Aether-Lang/) · 个人维护
+⭐ 11 · Rust · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/teerthsharma/Aether-Lang) · [官网](https://teerthsharma.github.io/Aether-Lang/) · 个人维护
 
 **以拓扑为决策机制的编程语言：持久同调内置、带证明输出**
 
@@ -45,12 +45,12 @@ Rust 实现的领域编程语言 Aether，将持久同调（Betti 数）作为�
 ```mermaid
 xychart-beta
     title "teerthsharma/Aether-Lang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

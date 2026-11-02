@@ -1,6 +1,6 @@
 # yilecoding/fastapi-react-admin
 
-⭐ 33 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/yilecoding/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yilecoding/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
 
 **FastAPI + React 19 中后台底座：细粒度权限、审批流与受控 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yilecoding/fastapi-react-admin 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 13 --> 34
-    line [14, 15, 18, 30, 33]
+    title "yilecoding/fastapi-react-admin 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 12 --> 42
+    line [14, 15, 18, 30, 33, 40]
 ```
 
-2026-10-23 14 → 2026-11-01 33（+19）
+2026-10-23 14 → 2026-11-02 40（+26）
 
 
 ---

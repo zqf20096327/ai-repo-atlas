@@ -1,6 +1,6 @@
 # csakytech/YggdrasilAI
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/csakytech/YggdrasilAI) · [官网](https://www.yggdrasilai.org) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/csakytech/YggdrasilAI) · [官网](https://www.yggdrasilai.org) · 个人维护
 
 **语音驱动的 AI-first Linux 发行版，供无法用键鼠者独立操作电脑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "csakytech/YggdrasilAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

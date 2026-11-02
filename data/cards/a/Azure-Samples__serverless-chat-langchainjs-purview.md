@@ -1,6 +1,6 @@
 # Azure-Samples/serverless-chat-langchainjs-purview
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Azure-Samples/serverless-chat-langchainjs-purview) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure-Samples/serverless-chat-langchainjs-purview) · 组织维护
 
 **示例项目：RAG 聊天应用集成 Purview API 审计与防护 AI 提示与响应**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/serverless-chat-langchainjs-purview 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onurtirpan/agentic-llm-token-and-performance-tests 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01"]
+    title "onurtirpan/agentic-llm-token-and-performance-tests 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 27]
+    line [25, 26, 27, 28, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-01 27（+2）
+2026-10-18 25 → 2026-11-02 27（+2）
 
 
 ---

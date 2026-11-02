@@ -1,6 +1,6 @@
 # hubooooooo/ai-product-starter-kit
 
-⭐ 18 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hubooooooo/ai-product-starter-kit) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **不懂代码的人用编码 AI 把 AI 产品从想法做到上线的工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # dr-mushtaq/Machine-Learning
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dr-mushtaq/Machine-Learning) · [官网](https://coursesteach.com/) · 个人维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dr-mushtaq/Machine-Learning) · [官网](https://coursesteach.com/) · 个人维护
 
 **机器学习与数据科学 A-Z 教程清单：Python 算法实现与课程资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dr-mushtaq/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-11-01 61（+0）
+2026-10-18 61 → 2026-11-02 61（+0）
 
 
 ---

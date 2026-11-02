@@ -1,6 +1,6 @@
 # microsoft/ANCE
 
-⭐ 390 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/microsoft/ANCE) · 组织维护
+⭐ 391 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/microsoft/ANCE) · 组织维护
 
 **密集检索训练算法代码：用 ANN 索引构造负例训练 BERT 检索模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ANCE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 389 --> 391
-    line [390, 390]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 389 --> 392
+    line [390, 391]
 ```
 
-2026-10-18 390 → 2026-11-01 390（+0）
+2026-10-18 390 → 2026-11-02 391（+1）
 
 
 ---

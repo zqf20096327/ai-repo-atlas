@@ -1,6 +1,6 @@
 # microsoft/Graphormer
 
-⭐ 2,482 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/Graphormer) · 组织维护
+⭐ 2,483 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/Graphormer) · 组织维护
 
 **微软开源的分子建模图 Transformer 深度学习框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Graphormer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "microsoft/Graphormer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 2480 --> 2484
-    line [2481, 2482, 2483, 2481, 2482]
+    line [2481, 2482, 2483, 2481, 2482, 2483]
 ```
 
-2026-10-18 2,481 → 2026-11-01 2,482（+1）
+2026-10-18 2,481 → 2026-11-02 2,483（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # aeonfun/aeon-agent
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aeonfun/aeon-agent) · [官网](https://t.me/aeon_agent) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/aeonfun/aeon-agent) · [官网](https://t.me/aeon_agent) · 个人维护
 
 **在 GitHub Actions 上定时无人值守运行的自主 agent 框架实例**
 
@@ -45,12 +45,12 @@ aeonfun/aeon-agent 是 Aeon 框架的公开运行实例（growth agent），驱�
 ```mermaid
 xychart-beta
     title "aeonfun/aeon-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

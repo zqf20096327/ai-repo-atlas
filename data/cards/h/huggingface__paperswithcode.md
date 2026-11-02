@@ -1,6 +1,6 @@
 # huggingface/paperswithcode
 
-⭐ 291 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/paperswithcode) · [官网](https://paperswithcode.co) · 组织维护
+⭐ 296 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/paperswithcode) · [官网](https://paperswithcode.co) · 组织维护
 
 **重建 Papers with Code：追踪 AI 论文、代码、数据集与榜单的目录站**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的 Papers with Code 重启版：聚合 arXiv 论文、官方
 
 ```mermaid
 xychart-beta
-    title "huggingface/paperswithcode 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 36 --> 314
-    line [59, 238, 269, 281, 289, 291]
+    title "huggingface/paperswithcode 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 36 --> 319
+    line [59, 238, 269, 281, 289, 291, 296]
 ```
 
-2026-10-26 59 → 2026-11-01 291（+232）
+2026-10-26 59 → 2026-11-02 296（+237）
 
 
 ---

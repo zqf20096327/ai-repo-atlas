@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/agentsmithy
 
-⭐ 123 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/GoogleCloudPlatform/agentsmithy) · 组织维护
+⭐ 124 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/GoogleCloudPlatform/agentsmithy) · 组织维护
 
 **谷歌云多智能体运行时：按行业编排、运行与管理 AI agent**
 
@@ -45,12 +45,12 @@ Multi-Agent Quest（Agent Bar v2）是面向 Google Cloud 的多智能体运行�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/agentsmithy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 122 --> 125
+    line [123, 124]
 ```
 
-2026-10-18 123 → 2026-11-01 123（+0）
+2026-10-18 123 → 2026-11-02 124（+1）
 
 
 ---

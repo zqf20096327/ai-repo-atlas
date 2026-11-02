@@ -1,6 +1,6 @@
 # Xia-Ataraxia/obsidian-metadata-auto-classifier
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) · 个人维护
 
 **Obsidian 插件：用 AI 为笔记生成标签与 frontmatter 元数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Xia-Ataraxia/obsidian-metadata-auto-classifier 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-01 59（+1）
+2026-10-18 58 → 2026-11-02 59（+1）
 
 
 ---

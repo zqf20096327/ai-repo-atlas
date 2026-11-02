@@ -1,6 +1,6 @@
 # dongsheng123132/u-hermes
 
-⭐ 12 · HTML · 推送 2026-09-19 · [GitHub](https://github.com/dongsheng123132/u-hermes) · [官网](https://www.u-hermes.org/) · 个人维护 · 中文 README
+⭐ 12 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/dongsheng123132/u-hermes) · [官网](https://www.u-hermes.org/) · 个人维护 · 中文 README
 
 **便携 AI 编程 Agent U 盘：Windows 成品与开源 Linux Live 启动盘方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dongsheng123132/u-hermes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

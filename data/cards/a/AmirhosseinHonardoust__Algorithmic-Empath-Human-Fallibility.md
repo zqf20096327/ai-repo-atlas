@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Algorithmic-Empath-Human-Fallibility
 
-⭐ 29 · MIT · 推送 2025-11-05 · [GitHub](https://github.com/AmirhosseinHonardoust/Algorithmic-Empath-Human-Fallibility) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **算法共情概念性论文：探讨让模型理解人类易错性**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

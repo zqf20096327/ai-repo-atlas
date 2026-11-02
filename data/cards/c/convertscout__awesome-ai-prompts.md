@@ -1,6 +1,6 @@
 # convertscout/awesome-ai-prompts
 
-⭐ 16 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/convertscout/awesome-ai-prompts) · [官网](https://lovabledirectory.site/) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/convertscout/awesome-ai-prompts) · [官网](https://lovabledirectory.site/) · 组织维护
 
 **AI 编程提示词策展清单：206+ 条面向主流 AI 编码工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "convertscout/awesome-ai-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 15 --> 19
+    line [16, 18]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 18（+2）
 
 
 ---

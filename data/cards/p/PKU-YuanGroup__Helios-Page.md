@@ -1,6 +1,6 @@
 # PKU-YuanGroup/Helios-Page
 
-⭐ 25 · HTML · 推送 2026-07-27 · [GitHub](https://github.com/PKU-YuanGroup/Helios-Page) · [官网](https://pku-yuangroup.github.io/Helios-Page) · 组织维护 · 中文 README
+⭐ 25 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/PKU-YuanGroup/Helios-Page) · [官网](https://pku-yuangroup.github.io/Helios-Page) · 组织维护 · 中文 README
 
 **14B 实时长视频生成模型：单 H100 上 19.5 FPS 合成分钟级视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PKU-YuanGroup/Helios-Page 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-01 25（+0）
+2026-10-18 25 → 2026-11-02 25（+0）
 
 
 ---

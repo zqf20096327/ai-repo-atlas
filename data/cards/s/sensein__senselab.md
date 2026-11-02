@@ -1,6 +1,6 @@
 # sensein/senselab
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/sensein/senselab) · [官网](http://sensein.group/senselab/) · 组织维护
+⭐ 44 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/sensein/senselab) · [官网](http://sensein.group/senselab/) · 组织维护
 
 **语音/视频等行为数据生物特征分析流水线 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sensein/senselab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-01 44（+0）
+2026-10-18 44 → 2026-11-02 44（+0）
 
 
 ---

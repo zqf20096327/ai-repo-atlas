@@ -1,6 +1,6 @@
 # remimikalsen/ollama_vision
 
-⭐ 22 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/remimikalsen/ollama_vision) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/remimikalsen/ollama_vision) · 个人维护
 
 **Home Assistant 集成：用本地 Ollama 视觉模型分析图片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "remimikalsen/ollama_vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-01 22（+0）
+2026-10-18 22 → 2026-11-02 22（+0）
 
 
 ---

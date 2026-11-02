@@ -1,6 +1,6 @@
 # dotsystemsdevs/pineflow
 
-⭐ 16 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/dotsystemsdevs/pineflow) · [官网](https://stackpine.app/pineflow) · 组织维护
+⭐ 17 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/dotsystemsdevs/pineflow) · [官网](https://stackpine.app/pineflow) · 组织维护
 
 **从想法到上架 App Store 的 11 章 Claude Code 移动开发工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dotsystemsdevs/pineflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 17（+1）
 
 
 ---

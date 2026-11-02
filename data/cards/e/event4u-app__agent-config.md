@@ -1,6 +1,6 @@
 # event4u-app/agent-config
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/event4u-app/agent-config) · [官网](https://event4u.app) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/event4u-app/agent-config) · [官网](https://event4u.app) · 组织维护
 
 **面向 20 种宿主 AI 编码工具的技能/规则/命令治理配置层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "event4u-app/agent-config 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 11 --> 18
-    line [12, 13, 16, 17]
+    title "event4u-app/agent-config 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 16, 17, 18]
 ```
 
-2026-10-18 12 → 2026-11-01 17（+5）
+2026-10-18 12 → 2026-11-02 18（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # yaasiin-ayeva/WhatsBot
 
-⭐ 53 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/yaasiin-ayeva/WhatsBot) · [官网](https://yaasiin-dev.vercel.app) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/yaasiin-ayeva/WhatsBot) · [官网](https://yaasiin-dev.vercel.app) · 个人维护
 
 **带 AI 对话与 CRM 的自托管 WhatsApp 机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yaasiin-ayeva/WhatsBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 51 --> 54
+    line [53, 52]
 ```
 
-2026-10-18 53 → 2026-11-01 53（+0）
+2026-10-18 53 → 2026-11-02 52（-1）
 
 
 ---

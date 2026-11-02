@@ -1,6 +1,6 @@
 # Unsupervisedcom/deepwork
 
-⭐ 50 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Unsupervisedcom/deepwork) · 组织维护
+⭐ 50 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Unsupervisedcom/deepwork) · 组织维护
 
 **给 Claude 用户的多步任务自动化插件：工作流+审查+文件契约**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Unsupervisedcom/deepwork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-01 50（+0）
+2026-10-18 50 → 2026-11-02 50（+0）
 
 
 ---

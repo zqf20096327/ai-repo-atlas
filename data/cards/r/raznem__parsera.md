@@ -1,6 +1,6 @@
 # raznem/parsera
 
-⭐ 1,370 · Python · GPL-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/raznem/parsera) · [官网](https://docs.parsera.org) · 组织维护
+⭐ 1,369 · Python · GPL-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/raznem/parsera) · [官网](https://docs.parsera.org) · 组织维护
 
 **用 LLM 抓取并结构化提取网页数据的轻量 Python 库**
 
@@ -43,12 +43,12 @@ Parsera 是一个轻量级 Python 网页抓取库：通过 Playwright 加载页�
 ```mermaid
 xychart-beta
     title "raznem/parsera 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
     y-axis "stars" 1367 --> 1371
-    line [1368, 1370, 1368, 1370, 1370]
+    line [1368, 1370, 1368, 1370, 1369]
 ```
 
-2026-10-18 1,368 → 2026-11-01 1,370（+2）
+2026-10-18 1,368 → 2026-11-02 1,369（+1）
 
 
 ---

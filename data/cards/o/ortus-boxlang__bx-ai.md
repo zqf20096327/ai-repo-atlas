@@ -1,6 +1,6 @@
 # ortus-boxlang/bx-ai
 
-⭐ 19 · Java · 推送 2026-10-27 · [GitHub](https://github.com/ortus-boxlang/bx-ai) · [官网](https://www.boxlang.io) · 组织维护
+⭐ 19 · Java · 推送 2026-11-01 · [GitHub](https://github.com/ortus-boxlang/bx-ai) · [官网](https://www.boxlang.io) · 组织维护
 
 **BoxLang 语言的官方 AI 模块：统一 API 编排多模型、Agent 与 RAG**
 
@@ -47,12 +47,12 @@ Ortus Solutions 维护的 BoxLang AI 库，为运行在 JVM 上的 BoxLang 语�
 ```mermaid
 xychart-beta
     title "ortus-boxlang/bx-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

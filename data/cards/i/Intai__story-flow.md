@@ -1,6 +1,6 @@
 # Intai/story-flow
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Intai/story-flow) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Intai/story-flow) · 个人维护
 
 **基于 Claude Code 的用户故事到 BDD 测试全流程工作流插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Intai/story-flow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-01 16（+2）
+2026-10-18 14 → 2026-11-02 16（+2）
 
 
 ---

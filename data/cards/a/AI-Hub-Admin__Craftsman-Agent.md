@@ -46,13 +46,13 @@ Craftsman Agent 是一个创意设计 Agent 应用与商店：通过 20+ 个 Age
 
 ```mermaid
 xychart-beta
-    title "AI-Hub-Admin/Craftsman-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    title "AI-Hub-Admin/Craftsman-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21]
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-01 21（+2）
+2026-10-18 19 → 2026-11-02 21（+2）
 
 
 ---

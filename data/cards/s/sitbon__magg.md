@@ -1,6 +1,6 @@
 # sitbon/magg
 
-⭐ 144 · Python · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/sitbon/magg) · [官网](https://pypi.org/project/magg/) · 个人维护
+⭐ 143 · Python · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/sitbon/magg) · [官网](https://pypi.org/project/magg/) · 个人维护
 
 **管理并代理多个 MCP server 的聚合器，让 LLM 自助扩展工具**
 
@@ -46,12 +46,12 @@ Magg 是一个 meta-MCP server：作为中心枢纽管理、聚合并代理其�
 ```mermaid
 xychart-beta
     title "sitbon/magg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 142 --> 145
+    line [144, 143]
 ```
 
-2026-10-18 144 → 2026-11-01 144（+0）
+2026-10-18 144 → 2026-11-02 143（-1）
 
 
 ---

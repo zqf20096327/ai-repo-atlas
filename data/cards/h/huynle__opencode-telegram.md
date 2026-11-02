@@ -1,6 +1,6 @@
 # huynle/opencode-telegram
 
-⭐ 12 · TypeScript · MIT · 推送 2026-01-04 · [GitHub](https://github.com/huynle/opencode-telegram) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **通过 Telegram 论坛话题编排多个 OpenCode 实例的机器人**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

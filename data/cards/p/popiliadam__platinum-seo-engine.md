@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "popiliadam/platinum-seo-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    title "popiliadam/platinum-seo-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 27]
+    line [27, 26, 27, 27]
 ```
 
-2026-10-18 27 → 2026-11-01 27（+0）
+2026-10-18 27 → 2026-11-02 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # X-Lucifer/X.SuperResolution
 
-⭐ 49 · C# · 推送 2026-10-29 · [GitHub](https://github.com/X-Lucifer/X.SuperResolution) · 个人维护 · 中文 README
+⭐ 50 · C# · 推送 2026-10-29 · [GitHub](https://github.com/X-Lucifer/X.SuperResolution) · 个人维护 · 中文 README
 
 **本地离线图片超分辨率桌面工具，支持 Waifu2x/Real-ESRGAN/SRMD**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "X-Lucifer/X.SuperResolution 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 44 --> 50
-    line [45, 46, 47, 49]
+    title "X-Lucifer/X.SuperResolution 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 44 --> 51
+    line [45, 46, 47, 49, 50]
 ```
 
-2026-10-18 45 → 2026-11-01 49（+4）
+2026-10-18 45 → 2026-11-02 50（+5）
 
 
 ---

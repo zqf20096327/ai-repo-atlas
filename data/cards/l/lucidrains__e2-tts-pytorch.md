@@ -1,6 +1,6 @@
 # lucidrains/e2-tts-pytorch
 
-⭐ 518 · Python · MIT · 推送 2025-12-20 · [GitHub](https://github.com/lucidrains/e2-tts-pytorch) · 个人维护
+⭐ 519 · Python · MIT · 推送 2025-12-20 · [GitHub](https://github.com/lucidrains/e2-tts-pytorch) · 个人维护
 
 **E2-TTS 零样本文本转语音的 PyTorch 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/e2-tts-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 516 --> 519
-    line [517, 518, 518]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 516 --> 520
+    line [517, 518, 519]
 ```
 
-2026-10-18 517 → 2026-11-01 518（+1）
+2026-10-18 517 → 2026-11-02 519（+2）
 
 
 ---

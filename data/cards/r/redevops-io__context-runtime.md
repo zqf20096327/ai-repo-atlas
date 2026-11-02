@@ -1,6 +1,6 @@
 # redevops-io/context-runtime
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/redevops-io/context-runtime) · 组织维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/redevops-io/context-runtime) · 组织维护
 
 **面向 LLM 的上下文查询规划器：按预算决定模型看到什么**
 
@@ -46,12 +46,12 @@ Python 参考实现（alpha）：应用给出目标与预算，运行时规划�
 ```mermaid
 xychart-beta
     title "redevops-io/context-runtime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

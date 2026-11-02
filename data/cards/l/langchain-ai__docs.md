@@ -1,6 +1,6 @@
 # langchain-ai/docs
 
-⭐ 443 · MDX · MIT · 推送 2026-10-31 · [GitHub](https://github.com/langchain-ai/docs) · [官网](https://docs.langchain.com) · 组织维护
+⭐ 443 · MDX · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/docs) · [官网](https://docs.langchain.com) · 组织维护
 
 **LangChain 全家桶官方文档仓库与构建管线**
 
@@ -44,13 +44,13 @@ LangChain 官方统一文档仓库，聚合 LangChain、LangGraph、LangSmith �
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/docs 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01"]
+    title "langchain-ai/docs 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 432 --> 444
-    line [433, 435, 436, 437, 438, 441, 442, 443]
+    line [433, 435, 436, 437, 438, 441, 442, 443, 443]
 ```
 
-2026-10-18 433 → 2026-11-01 443（+10）
+2026-10-18 433 → 2026-11-02 443（+10）
 
 
 ---

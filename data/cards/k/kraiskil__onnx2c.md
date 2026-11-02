@@ -1,6 +1,6 @@
 # kraiskil/onnx2c
 
-⭐ 422 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kraiskil/onnx2c) · 个人维护
+⭐ 423 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kraiskil/onnx2c) · 个人维护
 
 **面向微控制器的 ONNX 转 C 编译器：把神经网络编译成单个 C 文件**
 
@@ -46,12 +46,12 @@ onnx2c 读取 ONNX 模型文件，生成可嵌入项目的 C 代码，目标场�
 ```mermaid
 xychart-beta
     title "kraiskil/onnx2c 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 420 --> 423
-    line [421, 422, 422]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 420 --> 424
+    line [421, 422, 423]
 ```
 
-2026-10-18 421 → 2026-11-01 422（+1）
+2026-10-18 421 → 2026-11-02 423（+2）
 
 
 ---

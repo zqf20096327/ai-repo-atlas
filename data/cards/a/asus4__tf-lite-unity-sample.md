@@ -1,6 +1,6 @@
 # asus4/tf-lite-unity-sample
 
-⭐ 961 · C# · 推送 2026-05-28 · [GitHub](https://github.com/asus4/tf-lite-unity-sample) · 个人维护
+⭐ 962 · C# · 推送 2026-05-28 · [GitHub](https://github.com/asus4/tf-lite-unity-sample) · 个人维护
 
 **TensorFlow Lite 与 MediaPipe 在 Unity 中的示例与插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "asus4/tf-lite-unity-sample 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 960 --> 962
-    line [961, 961]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 960 --> 963
+    line [961, 962]
 ```
 
-2026-10-18 961 → 2026-11-01 961（+0）
+2026-10-18 961 → 2026-11-02 962（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ahmedEid1/lumen
 
-⭐ 92 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ahmedEid1/lumen) · [官网](https://github.com/ahmedEid1/lumen/tree/main/docs/demo/2026-10-30) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ahmedEid1/lumen) · 个人维护
 
 **面向学习者的 AI 课程生成与 RAG 导师平台（自托管）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ahmedEid1/lumen 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 88 --> 93
     line [89, 90, 91, 92, 92]
 ```
 
-2026-10-18 89 → 2026-11-01 92（+3）
+2026-10-18 89 → 2026-11-02 92（+3）
 
 
 ---

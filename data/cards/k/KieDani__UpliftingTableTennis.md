@@ -1,6 +1,6 @@
 # KieDani/UpliftingTableTennis
 
-⭐ 50 · Python · GPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/KieDani/UpliftingTableTennis) · [官网](https://kiedani.github.io/WACV2026/) · 组织维护
+⭐ 51 · Python · GPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/KieDani/UpliftingTableTennis) · [官网](https://kiedani.github.io/WACV2026/) · 组织维护
 
 **乒乓球 3D 轨迹与旋转估计的论文官方实现**
 
@@ -46,12 +46,12 @@ WACV 2026 论文 Uplifting Table Tennis 的官方代码：从单目视频出发�
 ```mermaid
 xychart-beta
     title "KieDani/UpliftingTableTennis 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 44 --> 51
-    line [45, 46, 48, 49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 44 --> 52
+    line [45, 46, 48, 49, 50, 51]
 ```
 
-2026-10-18 45 → 2026-11-01 50（+5）
+2026-10-18 45 → 2026-11-02 51（+6）
 
 
 ---

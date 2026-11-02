@@ -45,12 +45,12 @@ AstroLink 是一个通用聚类算法 Python 包，针对天体物理数据集�
 ```mermaid
 xychart-beta
     title "william-h-oliver/astrolink 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

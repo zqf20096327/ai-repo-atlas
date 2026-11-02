@@ -1,6 +1,6 @@
 # ui-insight/vandalizer
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/ui-insight/vandalizer) · 组织维护
+⭐ 11 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/ui-insight/vandalizer) · 组织维护
 
 **高校科研管理文档的 AI 审查与结构化数据提取平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ui-insight/vandalizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

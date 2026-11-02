@@ -1,6 +1,6 @@
 # jabberjabberjabber/ImageIndexer
 
-⭐ 397 · Python · GPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/jabberjabberjabber/ImageIndexer) · 个人维护
+⭐ 398 · Python · GPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/jabberjabberjabber/ImageIndexer) · 个人维护
 
 **本地视觉模型为图片生成关键词与说明并写入元数据**
 
@@ -46,12 +46,12 @@ LLMII 是一个本地运行的图像标注与索引工具：通过本机视觉�
 ```mermaid
 xychart-beta
     title "jabberjabberjabber/ImageIndexer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 396 --> 398
-    line [397, 397]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 396 --> 399
+    line [397, 398]
 ```
 
-2026-10-18 397 → 2026-11-01 397（+0）
+2026-10-18 397 → 2026-11-02 398（+1）
 
 
 ---

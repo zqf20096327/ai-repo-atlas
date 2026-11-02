@@ -44,13 +44,13 @@ Google Research 开源的神经网络结构学习方法：在训练过程中对�
 
 ```mermaid
 xychart-beta
-    title "google-research/morph-net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "google-research/morph-net 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1041 --> 1044
-    line [1042, 1043]
+    line [1042, 1043, 1043]
 ```
 
-2026-10-18 1,042 → 2026-11-01 1,043（+1）
+2026-10-18 1,042 → 2026-11-02 1,043（+1）
 
 
 ---

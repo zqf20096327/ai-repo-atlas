@@ -1,6 +1,6 @@
 # athivvat/ai-engineer-guide
 
-⭐ 391 · MDX · MIT · 推送 2026-09-17 · [GitHub](https://github.com/athivvat/ai-engineer-guide) · [官网](https://aiengineer.guide) · 个人维护
+⭐ 392 · MDX · MIT · 推送 2026-09-17 · [GitHub](https://github.com/athivvat/ai-engineer-guide) · [官网](https://aiengineer.guide) · 个人维护
 
 **AI 工程师成长路线图：从零到 AI 工程师的学习指南**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "athivvat/ai-engineer-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 390 --> 392
-    line [391, 391]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 390 --> 393
+    line [391, 392]
 ```
 
-2026-10-18 391 → 2026-11-01 391（+0）
+2026-10-18 391 → 2026-11-02 392（+1）
 
 
 ---

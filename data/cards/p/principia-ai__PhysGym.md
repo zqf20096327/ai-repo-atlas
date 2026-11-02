@@ -1,6 +1,6 @@
 # principia-ai/PhysGym
 
-⭐ 101 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/principia-ai/PhysGym) · 组织维护
+⭐ 102 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/principia-ai/PhysGym) · 组织维护
 
 **评估 LLM 交互式物理科学推理的基准套件**
 
@@ -45,12 +45,12 @@ NeurIPS 2025 Datasets and Benchmarks Track 收录的基准套件：提供 97 个
 ```mermaid
 xychart-beta
     title "principia-ai/PhysGym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 100 --> 103
+    line [101, 102]
 ```
 
-2026-10-18 101 → 2026-11-01 101（+0）
+2026-10-18 101 → 2026-11-02 102（+1）
 
 
 ---

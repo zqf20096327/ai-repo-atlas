@@ -1,6 +1,6 @@
 # abraxas914/VESTI
 
-⭐ 359 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/abraxas914/VESTI) · 个人维护 · 中文 README
+⭐ 360 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/abraxas914/VESTI) · 个人维护 · 中文 README
 
 **本地优先的 AI 对话记忆中台：跨平台捕获、检索与问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "abraxas914/VESTI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 358 --> 362
-    line [361, 359, 359]
+    line [361, 359, 360]
 ```
 
-2026-10-18 361 → 2026-11-01 359（-2）
+2026-10-18 361 → 2026-11-02 360（-1）
 
 
 ---

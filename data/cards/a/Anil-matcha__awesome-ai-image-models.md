@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/awesome-ai-image-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    title "Anil-matcha/awesome-ai-image-models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 86 --> 90
-    line [87, 88, 89]
+    line [87, 88, 89, 89]
 ```
 
-2026-10-18 87 → 2026-11-01 89（+2）
+2026-10-18 87 → 2026-11-02 89（+2）
 
 
 ---

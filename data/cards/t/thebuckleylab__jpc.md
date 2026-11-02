@@ -1,6 +1,6 @@
 # thebuckleylab/jpc
 
-⭐ 97 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/thebuckleylab/jpc) · [官网](https://thebuckleylab.github.io/jpc/) · 组织维护
+⭐ 96 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/thebuckleylab/jpc) · [官网](https://thebuckleylab.github.io/jpc/) · 组织维护
 
 **JAX 预测编码（PC）神经网络训练库，供研究者使用**
 
@@ -46,12 +46,12 @@ JPC 是基于 JAX 的预测编码网络（PCN）训练库，支持判别式、�
 ```mermaid
 xychart-beta
     title "thebuckleylab/jpc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 95 --> 98
+    line [97, 96]
 ```
 
-2026-10-18 97 → 2026-11-01 97（+0）
+2026-10-18 97 → 2026-11-02 96（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zxcloli666/House-Research
 
-⭐ 23 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/zxcloli666/House-Research) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/zxcloli666/House-Research) · 个人维护 · 中文 README
 
 **自动化房产挂牌监控：抓取 Avito/ЦИАН 并由 AI 分析推送 Telegram**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zxcloli666/House-Research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 24（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dylanhogg/awesome-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "dylanhogg/awesome-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 467 --> 470
-    line [468, 469]
+    line [468, 469, 469]
 ```
 
-2026-10-18 468 → 2026-11-01 469（+1）
+2026-10-18 468 → 2026-11-02 469（+1）
 
 
 ---

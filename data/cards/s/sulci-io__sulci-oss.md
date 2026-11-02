@@ -1,6 +1,6 @@
 # sulci-io/sulci-oss
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/sulci-io/sulci-oss) · [官网](https://sulci.io) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/sulci-io/sulci-oss) · [官网](https://sulci.io) · 组织维护
 
 **面向 LLM 应用与 Agent 的语义缓存库，避免为相似问题重复调用模型**
 
@@ -47,12 +47,12 @@ Python 语义缓存库：按语义相似度（而非字符串精确匹配）命�
 ```mermaid
 xychart-beta
     title "sulci-io/sulci-oss 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-24", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-01 11（+0）
+2026-10-24 11 → 2026-11-02 11（+0）
 
 
 ---

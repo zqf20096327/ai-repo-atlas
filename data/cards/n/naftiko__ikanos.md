@@ -46,12 +46,12 @@ Ikanos 是面向 Spec-Driven Integration 的开源能力引擎：读取一个 YA
 ```mermaid
 xychart-beta
     title "naftiko/ikanos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-01 38（+0）
+2026-10-18 38 → 2026-11-02 38（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # LuciferForge/polymarket-btc-autotrader
 
-⭐ 20 · Python · 推送 2026-03-14 · [GitHub](https://github.com/LuciferForge/polymarket-btc-autotrader) · [官网](https://protodex.io) · 个人维护
+⭐ 19 · Python · 推送 2026-03-14 · [GitHub](https://github.com/LuciferForge/polymarket-btc-autotrader) · [官网](https://protodex.io) · 个人维护
 
 **面向 Polymarket 的 BTC/SOL 15 分钟自动交易机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LuciferForge/polymarket-btc-autotrader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 19（-1）
 
 
 ---

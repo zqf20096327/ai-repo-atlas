@@ -1,6 +1,6 @@
 # iamhenryhuang/AI-Study-Abroad-Consultant
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/iamhenryhuang/AI-Study-Abroad-Consultant) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **北美 CS 留學申請問答系統：三校官方條件與社群經驗 RAG 檢索**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

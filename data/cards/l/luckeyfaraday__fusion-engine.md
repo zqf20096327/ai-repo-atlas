@@ -46,12 +46,12 @@ Python 编写的自托管 LLM 编排框架：通过 OpenRouter 将同一提示�
 ```mermaid
 xychart-beta
     title "luckeyfaraday/fusion-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

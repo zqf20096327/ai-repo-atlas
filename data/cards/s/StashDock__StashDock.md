@@ -1,6 +1,6 @@
 # StashDock/StashDock
 
-⭐ 60 · HTML · MIT · 推送 2026-10-31 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
+⭐ 68 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
 
 **本地优先的个人上下文库：收集、组织并在 AI 对话中复用资料**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StashDock/StashDock 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 50 --> 61
-    line [51, 59, 60]
+    title "StashDock/StashDock 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 50 --> 69
+    line [51, 59, 60, 68]
 ```
 
-2026-10-30 51 → 2026-11-01 60（+9）
+2026-10-30 51 → 2026-11-02 68（+17）
 
 
 ---

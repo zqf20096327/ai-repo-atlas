@@ -1,6 +1,6 @@
 # marimo-team/codemirror-ai
 
-⭐ 54 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/marimo-team/codemirror-ai) · [官网](https://marimo-team.github.io/codemirror-ai/) · 组织维护
+⭐ 54 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/marimo-team/codemirror-ai) · [官网](https://marimo-team.github.io/codemirror-ai/) · 组织维护
 
 **给编辑器开发者的 CodeMirror AI 编辑扩展库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marimo-team/codemirror-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-11-01 54（+0）
+2026-10-18 54 → 2026-11-02 54（+0）
 
 
 ---

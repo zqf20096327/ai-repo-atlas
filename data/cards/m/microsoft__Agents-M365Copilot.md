@@ -1,6 +1,6 @@
 # microsoft/Agents-M365Copilot
 
-⭐ 112 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Agents-M365Copilot) · 组织维护
+⭐ 113 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Agents-M365Copilot) · 组织维护
 
 **微软官方的 Microsoft 365 Copilot API 客户端库，供开发者构建 AI 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Agents-M365Copilot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 108 --> 113
-    line [109, 110, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 108 --> 114
+    line [109, 110, 111, 112, 113]
 ```
 
-2026-10-18 109 → 2026-11-01 112（+3）
+2026-10-18 109 → 2026-11-02 113（+4）
 
 
 ---

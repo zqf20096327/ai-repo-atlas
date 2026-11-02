@@ -1,6 +1,6 @@
 # google-deepmind/torax
 
-⭐ 746 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/google-deepmind/torax) · [官网](https://torax.readthedocs.io) · 组织维护
+⭐ 747 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/google-deepmind/torax) · [官网](https://torax.readthedocs.io) · 组织维护
 
 **基于 JAX 的托卡马克芯部输运可微分模拟器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/torax 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 737 --> 747
-    line [738, 739, 741, 744, 746, 746]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 737 --> 748
+    line [738, 739, 741, 744, 746, 747]
 ```
 
-2026-10-18 738 → 2026-11-01 746（+8）
+2026-10-18 738 → 2026-11-02 747（+9）
 
 
 ---

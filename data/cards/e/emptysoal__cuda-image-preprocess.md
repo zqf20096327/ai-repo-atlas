@@ -1,6 +1,6 @@
 # emptysoal/cuda-image-preprocess
 
-⭐ 86 · Cuda · MIT · 推送 2025-11-05 · [GitHub](https://github.com/emptysoal/cuda-image-preprocess) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **CUDA 加速图像预处理代码集，可配合 TensorRT 推理使用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

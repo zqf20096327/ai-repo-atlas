@@ -1,6 +1,6 @@
 # ackness/covel
 
-⭐ 65 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ackness/covel) · [官网](https://covel.cc/) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ackness/covel) · [官网](https://covel.cc/) · 个人维护 · 中文 README
 
 **模块化 Agentic AI 角色扮演游戏框架与可玩工作室**
 
@@ -44,13 +44,13 @@ Covel 是一个 AI RPG 框架兼可玩工作室，供玩家进行交互式叙事
 
 ```mermaid
 xychart-beta
-    title "ackness/covel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 57 --> 66
-    line [58, 60, 61, 63, 65]
+    title "ackness/covel 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 57 --> 67
+    line [58, 60, 61, 63, 65, 66]
 ```
 
-2026-10-18 58 → 2026-11-01 65（+7）
+2026-10-18 58 → 2026-11-02 66（+8）
 
 
 ---

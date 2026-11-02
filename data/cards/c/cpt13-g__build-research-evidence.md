@@ -1,6 +1,6 @@
 # cpt13-g/build-research-evidence
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cpt13-g/build-research-evidence) · 个人维护 · 中文 README
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cpt13-g/build-research-evidence) · 个人维护 · 中文 README
 
 **面向 AI/CS 科研的长线实验智能体：把 Idea 转成可追溯证据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cpt13-g/build-research-evidence 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 40 --> 49
-    line [41, 42, 45, 46, 48, 48]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 40 --> 51
+    line [41, 42, 45, 46, 48, 50]
 ```
 
-2026-10-18 41 → 2026-11-01 48（+7）
+2026-10-18 41 → 2026-11-02 50（+9）
 
 
 ---

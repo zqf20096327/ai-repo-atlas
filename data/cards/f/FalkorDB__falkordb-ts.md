@@ -1,6 +1,6 @@
 # FalkorDB/falkordb-ts
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FalkorDB/falkordb-ts) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 55 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/FalkorDB/falkordb-ts) · [官网](https://www.falkordb.com/) · 组织维护
 
 **FalkorDB 图数据库的 Node.js/TypeScript 客户端库**
 
@@ -43,13 +43,13 @@ npm 发布的 falkordb 包，为 Node.js 提供 FalkorDB 图数据库的连接�
 
 ```mermaid
 xychart-beta
-    title "FalkorDB/falkordb-ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "FalkorDB/falkordb-ts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 53 --> 56
-    line [54, 55]
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-01 55（+1）
+2026-10-18 54 → 2026-11-02 55（+1）
 
 
 ---

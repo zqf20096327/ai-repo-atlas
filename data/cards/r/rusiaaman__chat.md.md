@@ -1,6 +1,6 @@
 # rusiaaman/chat.md
 
-⭐ 159 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/rusiaaman/chat.md) · 个人维护
+⭐ 158 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/rusiaaman/chat.md) · 个人维护
 
 **VS Code 扩展：用 markdown 文件作为可编辑的 AI 聊天界面与 MCP 客户端**
 
@@ -44,12 +44,12 @@ chat.md 是一个 Visual Studio Code 扩展，将 AI 对话以 .chat.md 纯文�
 ```mermaid
 xychart-beta
     title "rusiaaman/chat.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 157 --> 160
+    line [159, 158]
 ```
 
-2026-10-18 159 → 2026-11-01 159（+0）
+2026-10-18 159 → 2026-11-02 158（-1）
 
 
 ---

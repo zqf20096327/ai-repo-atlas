@@ -1,6 +1,6 @@
 # jakartaee/agentic-ai
 
-⭐ 40 · Java · EPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jakartaee/agentic-ai) · [官网](https://jakartaee.github.io/agentic-ai/) · 组织维护
+⭐ 40 · Java · EPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/jakartaee/agentic-ai) · [官网](https://jakartaee.github.io/agentic-ai/) · 组织维护
 
 **Jakarta EE 平台的厂商中立 AI agent 开发规范 API**
 
@@ -45,12 +45,12 @@ Eclipse Jakarta 旗下的规范项目，定义在 Jakarta EE 运行时上构建�
 ```mermaid
 xychart-beta
     title "jakartaee/agentic-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-01 40（+0）
+2026-10-18 40 → 2026-11-02 40（+0）
 
 
 ---

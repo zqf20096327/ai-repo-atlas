@@ -1,6 +1,6 @@
 # LucasAlegre/sumo-rl
 
-⭐ 1,098 · Python · MIT · 推送 2026-03-08 · [GitHub](https://github.com/LucasAlegre/sumo-rl) · [官网](https://lucasalegre.github.io/sumo-rl) · 个人维护
+⭐ 1,099 · Python · MIT · 推送 2026-03-08 · [GitHub](https://github.com/LucasAlegre/sumo-rl) · [官网](https://lucasalegre.github.io/sumo-rl) · 个人维护
 
 **给研究者的交通信号控制强化学习环境库（基于 SUMO）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LucasAlegre/sumo-rl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1094 --> 1099
-    line [1095, 1096, 1097, 1098, 1098]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 1094 --> 1100
+    line [1095, 1096, 1097, 1098, 1099]
 ```
 
-2026-10-18 1,095 → 2026-11-01 1,098（+3）
+2026-10-18 1,095 → 2026-11-02 1,099（+4）
 
 
 ---

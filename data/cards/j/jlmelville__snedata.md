@@ -1,6 +1,6 @@
 # jlmelville/snedata
 
-⭐ 12 · R · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/jlmelville/snedata) · [官网](http://jlmelville.github.io/snedata/) · 个人维护
+⭐ 12 · R · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/jlmelville/snedata) · [官网](http://jlmelville.github.io/snedata/) · 个人维护
 
 **R 包：生成/获取降维方法用的模拟与经典数据集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jlmelville/snedata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

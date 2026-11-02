@@ -1,6 +1,6 @@
 # papercomputeco/tapes
 
-⭐ 333 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/papercomputeco/tapes) · [官网](https://tapes.dev) · 组织维护
+⭐ 334 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/papercomputeco/tapes) · [官网](https://tapes.dev) · 组织维护
 
 **面向开发者的 agent 遥测系统：持久化采集 LLM 会话并派生会话/追踪/ spans**
 
@@ -46,12 +46,12 @@ tapes 是一个 Agentic 遥测系统，面向需要留存和查询 agent 工作�
 ```mermaid
 xychart-beta
     title "papercomputeco/tapes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 329 --> 334
-    line [330, 331, 332, 333, 333]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 329 --> 335
+    line [330, 331, 332, 333, 334]
 ```
 
-2026-10-18 330 → 2026-11-01 333（+3）
+2026-10-18 330 → 2026-11-02 334（+4）
 
 
 ---

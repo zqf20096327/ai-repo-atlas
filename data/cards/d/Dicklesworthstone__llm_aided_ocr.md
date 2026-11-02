@@ -1,6 +1,6 @@
 # Dicklesworthstone/llm_aided_ocr
 
-⭐ 3,008 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Dicklesworthstone/llm_aided_ocr) · 个人维护
+⭐ 3,008 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/llm_aided_ocr) · 个人维护
 
 **用 LLM 修正 Tesseract OCR 结果并输出 Markdown 的文档处理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dicklesworthstone/llm_aided_ocr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "Dicklesworthstone/llm_aided_ocr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 3001 --> 3009
-    line [3002, 3004, 3005, 3006, 3007, 3008]
+    line [3002, 3004, 3005, 3006, 3007, 3008, 3008]
 ```
 
-2026-10-18 3,002 → 2026-11-01 3,008（+6）
+2026-10-18 3,002 → 2026-11-02 3,008（+6）
 
 
 ---

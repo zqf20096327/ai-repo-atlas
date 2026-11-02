@@ -1,6 +1,6 @@
 # DIAGNijmegen/rse-grand-challenge-metrics
 
-⭐ 23 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge-metrics) · [官网](https://grand-challenge.org) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge-metrics) · [官网](https://grand-challenge.org) · 组织维护
 
 **医学影像机器学习评估指标计算库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "DIAGNijmegen/rse-grand-challenge-metrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 23（+0）
 
 
 ---

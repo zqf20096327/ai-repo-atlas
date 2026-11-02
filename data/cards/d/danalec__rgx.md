@@ -1,6 +1,6 @@
 # danalec/rgx
 
-⭐ 13 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/danalec/rgx) · 个人维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/danalec/rgx) · 个人维护
 
 **能读进文件内部全文检索的 ripgrep 兼容搜索 CLI**
 
@@ -44,13 +44,13 @@ Rust 编写的命令行搜索工具，兼容 ripgrep 的参数、path:line:text 
 
 ```mermaid
 xychart-beta
-    title "danalec/rgx 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 4 --> 14
-    line [5, 6, 11, 12, 13]
+    title "danalec/rgx 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 4 --> 16
+    line [5, 6, 11, 12, 13, 15]
 ```
 
-2026-10-25 5 → 2026-11-01 13（+8）
+2026-10-25 5 → 2026-11-02 15（+10）
 
 
 ---

@@ -44,13 +44,13 @@ Claude Code 插件，通过 Git 远端仓库在多台机器间同步 CLAUDE.md�
 
 ```mermaid
 xychart-beta
-    title "toroleapinc/claude-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "toroleapinc/claude-brain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 90 --> 93
-    line [91, 92]
+    line [91, 92, 92]
 ```
 
-2026-10-18 91 → 2026-11-01 92（+1）
+2026-10-18 91 → 2026-11-02 92（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # poco-ai/Agentero
 
-⭐ 1,066 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
+⭐ 1,070 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
 **人与 Agent 协作的一站式科研文献工作台（桌面应用）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "poco-ai/Agentero 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 1064 --> 1067
-    line [1065, 1066]
+    title "poco-ai/Agentero 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1064 --> 1071
+    line [1065, 1066, 1070]
 ```
 
-2026-10-31 1,065 → 2026-11-01 1,066（+1）
+2026-10-31 1,065 → 2026-11-02 1,070（+5）
 
 
 ---

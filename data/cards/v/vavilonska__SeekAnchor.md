@@ -1,6 +1,6 @@
 # vavilonska/SeekAnchor
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vavilonska/SeekAnchor) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/vavilonska/SeekAnchor) · 个人维护 · 中文 README
 
 **在 Pi/OMP/OpenCode 中引导 DeepSeek V4 Pro 推理轨迹的适配器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vavilonska/SeekAnchor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
     y-axis "stars" 16 --> 19
     line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-01 17（-1）
+2026-10-18 18 → 2026-11-02 17（-1）
 
 
 ---

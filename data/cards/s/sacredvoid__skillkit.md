@@ -1,6 +1,6 @@
 # sacredvoid/skillkit
 
-⭐ 12 · JavaScript · MIT · 推送 2026-03-18 · [GitHub](https://github.com/sacredvoid/skillkit) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-03-18 · [GitHub](https://github.com/sacredvoid/skillkit) · 个人维护
 
 **面向 AI 编程助手的技能合集：图像、演示文稿、视频处理等 9 项**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sacredvoid/skillkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11]
 ```
 
-2026-10-18 10 → 2026-11-01 12（+2）
+2026-10-18 10 → 2026-11-02 11（+1）
 
 
 ---

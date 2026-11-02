@@ -1,6 +1,6 @@
 # XiaomingX/awesome-ai-tools-for-game-dev
 
-⭐ 31 · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/XiaomingX/awesome-ai-tools-for-game-dev) · [官网](https://twitter.com/seclink) · 个人维护 · 中文 README
+⭐ 32 · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/XiaomingX/awesome-ai-tools-for-game-dev) · [官网](https://twitter.com/seclink) · 个人维护 · 中文 README
 
 **游戏开发 AI 工具策展清单：按 10 类工作流收录工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XiaomingX/awesome-ai-tools-for-game-dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-11-01 31（+0）
+2026-10-18 31 → 2026-11-02 32（+1）
 
 
 ---

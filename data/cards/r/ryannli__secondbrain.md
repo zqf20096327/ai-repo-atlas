@@ -1,6 +1,6 @@
 # ryannli/secondbrain
 
-⭐ 32 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ryannli/secondbrain) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ryannli/secondbrain) · 个人维护
 
 **本地优先的个人知识库，内置 agent 帮知识工作者筛选与管理阅读**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryannli/secondbrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 32]
+    title "ryannli/secondbrain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 28 --> 38
+    line [29, 30, 32, 37]
 ```
 
-2026-10-18 29 → 2026-11-01 32（+3）
+2026-10-18 29 → 2026-11-02 37（+8）
 
 
 ---

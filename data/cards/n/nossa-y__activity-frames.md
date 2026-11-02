@@ -1,6 +1,6 @@
 # nossa-y/activity-frames
 
-⭐ 532 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/nossa-y/activity-frames) · 个人维护
+⭐ 531 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/nossa-y/activity-frames) · 个人维护
 
 **本地录制屏幕活动并编译为 agent 可用的结构化记忆与可执行工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nossa-y/activity-frames 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
     y-axis "stars" 529 --> 534
-    line [533, 531, 530, 531, 532, 532]
+    line [533, 531, 530, 531, 532, 531]
 ```
 
-2026-10-18 533 → 2026-11-01 532（-1）
+2026-10-18 533 → 2026-11-02 531（-2）
 
 
 ---

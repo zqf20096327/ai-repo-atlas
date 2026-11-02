@@ -1,6 +1,6 @@
 # iamaanahmad/kiro-pro-free
 
-⭐ 173 · Python · NOASSERTION · 推送 2025-12-24 · [GitHub](https://github.com/iamaanahmad/kiro-pro-free) · [官网](https://kiro.dev/) · 个人维护
+⭐ 174 · Python · NOASSERTION · 推送 2025-12-24 · [GitHub](https://github.com/iamaanahmad/kiro-pro-free) · [官网](https://kiro.dev/) · 个人维护
 
 **绕过 Kiro IDE 试用与令牌限制的教育演示工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamaanahmad/kiro-pro-free 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 172 --> 174
-    line [173, 173]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 172 --> 175
+    line [173, 174]
 ```
 
-2026-10-18 173 → 2026-11-01 173（+0）
+2026-10-18 173 → 2026-11-02 174（+1）
 
 
 ---

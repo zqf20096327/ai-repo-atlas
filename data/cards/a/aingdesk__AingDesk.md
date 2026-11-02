@@ -1,6 +1,6 @@
 # aingdesk/AingDesk
 
-⭐ 2,539 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/aingdesk/AingDesk) · [官网](https://www.aingdesk.com) · 组织维护 · 中文 README
+⭐ 2,538 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/aingdesk/AingDesk) · [官网](https://www.aingdesk.com) · 组织维护 · 中文 README
 
 **面向普通用户的 AI 助手：本地模型/知识库/智能体/联网搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aingdesk/AingDesk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2538 --> 2543
-    line [2541, 2542, 2541, 2539, 2540, 2541, 2539]
+    title "aingdesk/AingDesk 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2537 --> 2543
+    line [2541, 2542, 2541, 2539, 2540, 2541, 2539, 2538]
 ```
 
-2026-10-18 2,541 → 2026-11-01 2,539（-2）
+2026-10-18 2,541 → 2026-11-02 2,538（-3）
 
 
 ---

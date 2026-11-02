@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mytechnotalent/Reverse-Engineering-Data 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "mytechnotalent/Reverse-Engineering-Data 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-01 11（+1）
+2026-10-18 10 → 2026-11-02 11（+1）
 
 
 ---

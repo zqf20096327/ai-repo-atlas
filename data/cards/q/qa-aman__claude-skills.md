@@ -1,6 +1,6 @@
 # qa-aman/claude-skills
 
-⭐ 23 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/qa-aman/claude-skills) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/qa-aman/claude-skills) · 个人维护
 
 **按职能组织的 Claude Code 技能合集（166 个技能、19 种角色）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qa-aman/claude-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-01 23（+2）
+2026-10-18 21 → 2026-11-02 24（+3）
 
 
 ---

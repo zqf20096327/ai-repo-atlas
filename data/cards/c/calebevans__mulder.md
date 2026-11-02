@@ -1,6 +1,6 @@
 # calebevans/mulder
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/calebevans/mulder) · 个人维护
+⭐ 98 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/calebevans/mulder) · 个人维护
 
 **自主数字取证调查 agent：对取证证据自动产出事件报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "calebevans/mulder 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 91 --> 98
-    line [92, 93, 95, 96, 97, 97]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 91 --> 99
+    line [92, 93, 95, 96, 97, 98]
 ```
 
-2026-10-18 92 → 2026-11-01 97（+5）
+2026-10-18 92 → 2026-11-02 98（+6）
 
 
 ---

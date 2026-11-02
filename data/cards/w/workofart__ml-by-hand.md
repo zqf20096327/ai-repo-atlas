@@ -1,6 +1,6 @@
 # workofart/ml-by-hand
 
-⭐ 111 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/workofart/ml-by-hand) · [官网](https://ml-by-hand.readthedocs.io/en/latest/) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/workofart/ml-by-hand) · [官网](https://ml-by-hand.readthedocs.io/en/latest/) · 个人维护
 
 **从零手写的深度学习库与教学示例，附 GPT-2 训练实践**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "workofart/ml-by-hand 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 110 --> 112
-    line [111, 111]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 109 --> 112
+    line [111, 110]
 ```
 
-2026-10-18 111 → 2026-11-01 111（+0）
+2026-10-18 111 → 2026-11-02 110（-1）
 
 
 ---

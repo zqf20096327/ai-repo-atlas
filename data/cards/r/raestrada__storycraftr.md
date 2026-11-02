@@ -1,6 +1,6 @@
 # raestrada/storycraftr
 
-⭐ 175 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/raestrada/storycraftr) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/raestrada/storycraftr) · 个人维护
 
 **给小说作者的 CLI 工具：用 LLM 生成大纲、章节与世界观**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raestrada/storycraftr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 173 --> 176
-    line [174, 175, 174, 175, 175]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 173 --> 177
+    line [174, 175, 174, 175, 176]
 ```
 
-2026-10-18 174 → 2026-11-01 175（+1）
+2026-10-18 174 → 2026-11-02 176（+2）
 
 
 ---

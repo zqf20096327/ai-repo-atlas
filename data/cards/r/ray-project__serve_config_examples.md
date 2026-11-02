@@ -44,12 +44,12 @@ ray-project 维护的 Ray Serve 示例代码集合，涵盖 StableDiffusion 文�
 ```mermaid
 xychart-beta
     title "ray-project/serve_config_examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

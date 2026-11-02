@@ -1,6 +1,6 @@
 # gh9ko8y/graphmemory
 
-⭐ 46 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gh9ko8y/graphmemory) · 个人维护 · 中文 README
+⭐ 104 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gh9ko8y/graphmemory) · 个人维护 · 中文 README
 
 **给 AI 代理提供双时态长期记忆服务：会积累也会遗忘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gh9ko8y/graphmemory 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 8 --> 49
-    line [11, 46]
+    title "gh9ko8y/graphmemory 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2 --> 113
+    line [11, 46, 104]
 ```
 
-2026-10-31 11 → 2026-11-01 46（+35）
+2026-10-31 11 → 2026-11-02 104（+93）
 
 
 ---

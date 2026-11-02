@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-Flutter
 
-⭐ 24 · Dart · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 25 · Dart · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **面向 Flutter 的端上人脸识别 SDK 插件（注册/1:N识别/活体检测）**
 
@@ -45,12 +45,12 @@ FacePlugin 的 Flutter 插件 face_recognition_sdk，封装与 Android/iOS 原�
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-Flutter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 22, 23, 24, 25]
 ```
 
-2026-10-18 20 → 2026-11-01 24（+4）
+2026-10-18 20 → 2026-11-02 25（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # imgx-studio/gpt-image-2-webui
 
-⭐ 56 · TypeScript · 推送 2026-04-27 · [GitHub](https://github.com/imgx-studio/gpt-image-2-webui) · [官网](https://imgx.studio/) · 组织维护 · 中文 README
+⭐ 57 · TypeScript · 推送 2026-04-27 · [GitHub](https://github.com/imgx-studio/gpt-image-2-webui) · [官网](https://imgx.studio/) · 组织维护 · 中文 README
 
 **自托管的 GPT Image / OpenAI 兼容文生图 WebUI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imgx-studio/gpt-image-2-webui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-11-01 56（+0）
+2026-10-18 56 → 2026-11-02 57（+1）
 
 
 ---

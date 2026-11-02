@@ -1,6 +1,6 @@
 # devforth/adminforth
 
-⭐ 395 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/devforth/adminforth) · [官网](https://adminforth.dev) · 组织维护
+⭐ 396 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/devforth/adminforth) · [官网](https://adminforth.dev) · 组织维护
 
 **TypeScript/Vue 的 Agent 优先管理后台框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devforth/adminforth 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 389 --> 396
-    line [394, 390, 391, 392, 393, 394, 395]
+    title "devforth/adminforth 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 389 --> 397
+    line [394, 390, 391, 392, 393, 394, 395, 396]
 ```
 
-2026-10-18 394 → 2026-11-01 395（+1）
+2026-10-18 394 → 2026-11-02 396（+2）
 
 
 ---

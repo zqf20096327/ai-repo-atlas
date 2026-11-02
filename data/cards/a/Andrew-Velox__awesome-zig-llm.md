@@ -1,6 +1,6 @@
 # Andrew-Velox/awesome-zig-llm
 
-⭐ 15 · 推送 2026-09-25 · [GitHub](https://github.com/Andrew-Velox/awesome-zig-llm) · 个人维护
+⭐ 16 · 推送 2026-09-25 · [GitHub](https://github.com/Andrew-Velox/awesome-zig-llm) · 个人维护
 
 **Zig 语言的 LLM/机器学习生态项目策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Andrew-Velox/awesome-zig-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 12 --> 16
-    line [13, 15, 15]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 12 --> 17
+    line [13, 15, 16]
 ```
 
-2026-10-18 13 → 2026-11-01 15（+2）
+2026-10-18 13 → 2026-11-02 16（+3）
 
 
 ---

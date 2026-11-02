@@ -1,6 +1,6 @@
 # Cyclenerd/google-cloud-litellm-proxy
 
-⭐ 65 · Dockerfile · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/Cyclenerd/google-cloud-litellm-proxy) · 个人维护
+⭐ 65 · Dockerfile · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Cyclenerd/google-cloud-litellm-proxy) · 个人维护
 
 **在 Google Cloud 上部署 LiteLLM 代理的指南（OpenAI 格式访问 Vertex AI 模型）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cyclenerd/google-cloud-litellm-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-01 65（+0）
+2026-10-18 65 → 2026-11-02 65（+0）
 
 
 ---

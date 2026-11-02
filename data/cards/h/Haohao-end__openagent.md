@@ -1,6 +1,6 @@
 # Haohao-end/openagent
 
-⭐ 775 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Haohao-end/openagent) · [官网](https://openllm.cloud) · 个人维护 · 中文 README
+⭐ 775 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Haohao-end/openagent) · [官网](https://openllm.cloud) · 个人维护 · 中文 README
 
 **面向团队的全栈 AI 应用/智能体构建与编排平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haohao-end/openagent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01"]
+    title "Haohao-end/openagent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 773 --> 780
-    line [778, 779, 778, 774, 775, 774, 775]
+    line [778, 779, 778, 774, 775, 774, 775, 775]
 ```
 
-2026-10-18 778 → 2026-11-01 775（-3）
+2026-10-18 778 → 2026-11-02 775（-3）
 
 
 ---

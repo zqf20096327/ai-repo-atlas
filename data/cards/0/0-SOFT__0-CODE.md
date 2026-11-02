@@ -1,6 +1,6 @@
 # 0-SOFT/0-CODE
 
-⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/0-SOFT/0-CODE) · 组织维护 · 中文 README
+⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/0-SOFT/0-CODE) · 组织维护 · 中文 README
 
 **为 Claude Code/Codex/OpenCode 添加自主开发循环的集成框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0-SOFT/0-CODE 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-01 20（+2）
+2026-10-18 18 → 2026-11-02 21（+3）
 
 
 ---

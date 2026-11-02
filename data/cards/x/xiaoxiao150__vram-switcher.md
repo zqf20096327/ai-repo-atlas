@@ -1,6 +1,6 @@
 # xiaoxiao150/vram-switcher
 
-⭐ 60 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xiaoxiao150/vram-switcher) · [官网](https://github.com/xiaoxiao150/vram-switcher#readme) · 个人维护 · 中文 README
+⭐ 64 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xiaoxiao150/vram-switcher) · [官网](https://github.com/xiaoxiao150/vram-switcher#readme) · 个人维护 · 中文 README
 
 **给 AstrBot/DSH 本地 AI 陪伴的 GPU 调度插件：12 GB 卡上轮流跑 LLM/TTS/出图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoxiao150/vram-switcher 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 7 --> 64
-    line [11, 27, 38, 48, 55, 60]
+    title "xiaoxiao150/vram-switcher 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 6 --> 69
+    line [11, 27, 38, 48, 55, 60, 64]
 ```
 
-2026-10-26 11 → 2026-11-01 60（+49）
+2026-10-26 11 → 2026-11-02 64（+53）
 
 
 ---

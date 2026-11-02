@@ -1,6 +1,6 @@
 # wangzhe04/ruyi-workbench-oss
 
-⭐ 43 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wangzhe04/ruyi-workbench-oss) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wangzhe04/ruyi-workbench-oss) · 个人维护 · 中文 README
 
 **Windows 本地 AI 工作台：让模型在电脑上动手办事并可撤销**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangzhe04/ruyi-workbench-oss 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
+    title "wangzhe04/ruyi-workbench-oss 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 27 --> 44
-    line [28, 33, 35, 36, 38, 39, 40, 41, 42, 43]
+    line [28, 33, 35, 36, 38, 39, 40, 41, 42, 43, 43]
 ```
 
-2026-10-18 28 → 2026-11-01 43（+15）
+2026-10-18 28 → 2026-11-02 43（+15）
 
 
 ---

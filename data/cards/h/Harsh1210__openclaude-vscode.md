@@ -45,12 +45,12 @@ VS Code 扩展，作为开源 OpenClaude CLI 的编辑器界面：流式聊天�
 ```mermaid
 xychart-beta
     title "Harsh1210/openclaude-vscode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

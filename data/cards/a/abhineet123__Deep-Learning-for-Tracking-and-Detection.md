@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "abhineet123/Deep-Learning-for-Tracking-and-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "abhineet123/Deep-Learning-for-Tracking-and-Detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 2514 --> 2517
-    line [2515, 2516]
+    line [2515, 2516, 2516]
 ```
 
-2026-10-18 2,515 → 2026-11-01 2,516（+1）
+2026-10-18 2,515 → 2026-11-02 2,516（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TikiTribe/claude-secure-coding-rules 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    title "TikiTribe/claude-secure-coding-rules 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
     y-axis "stars" 141 --> 145
-    line [142, 143, 144]
+    line [142, 143, 144, 144]
 ```
 
-2026-10-18 142 → 2026-11-01 144（+2）
+2026-10-18 142 → 2026-11-02 144（+2）
 
 
 ---

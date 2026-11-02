@@ -1,6 +1,6 @@
 # avinashkranjan/Amazing-Python-Scripts
 
-⭐ 3,714 · Jupyter Notebook · MIT · 推送 2026-02-20 · [GitHub](https://github.com/avinashkranjan/Amazing-Python-Scripts) · [官网](https://amazing-python-scripts.avinashranjan.com) · 个人维护
+⭐ 3,715 · Jupyter Notebook · MIT · 推送 2026-02-20 · [GitHub](https://github.com/avinashkranjan/Amazing-Python-Scripts) · [官网](https://amazing-python-scripts.avinashranjan.com) · 个人维护
 
 **Python 脚本合集：基础到进阶与自动化任务脚本策展**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "avinashkranjan/Amazing-Python-Scripts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3703 --> 3715
-    line [3705, 3704, 3710, 3711, 3712, 3713, 3714]
+    title "avinashkranjan/Amazing-Python-Scripts 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3703 --> 3716
+    line [3705, 3704, 3710, 3711, 3712, 3713, 3714, 3715]
 ```
 
-2026-10-18 3,705 → 2026-11-01 3,714（+9）
+2026-10-18 3,705 → 2026-11-02 3,715（+10）
 
 
 ---

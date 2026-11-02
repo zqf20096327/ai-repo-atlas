@@ -1,6 +1,6 @@
 # qwdwqfwq/topconf-paper-figure-gallery
 
-⭐ 1,292 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
+⭐ 1,303 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
 
 **顶会论文主图画廊（3,452 张）+ 浏览器端主图初稿生成工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qwdwqfwq/topconf-paper-figure-gallery 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 966 --> 1321
-    line [995, 1070, 1116, 1134, 1153, 1164, 1180, 1197, 1213, 1229, 1251, 1273, 1292]
+    title "qwdwqfwq/topconf-paper-figure-gallery 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 965 --> 1333
+    line [995, 1070, 1116, 1134, 1153, 1164, 1180, 1197, 1213, 1229, 1251, 1273, 1292, 1303]
 ```
 
-2026-10-18 995 → 2026-11-01 1,292（+297）
+2026-10-18 995 → 2026-11-02 1,303（+308）
 
 
 ---

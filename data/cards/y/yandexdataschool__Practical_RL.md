@@ -1,6 +1,6 @@
 # yandexdataschool/Practical_RL
 
-⭐ 6,599 · Jupyter Notebook · Unlicense · 推送 2026-10-20 · [GitHub](https://github.com/yandexdataschool/Practical_RL) · 组织维护
+⭐ 6,601 · Jupyter Notebook · Unlicense · 推送 2026-10-20 · [GitHub](https://github.com/yandexdataschool/Practical_RL) · 组织维护
 
 **面向在线学生的强化学习实战开放课程**
 
@@ -45,12 +45,12 @@ Yandex Data School 与 HSE 在校内讲授、并面向在线学生维护的强�
 ```mermaid
 xychart-beta
     title "yandexdataschool/Practical_RL 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 6592 --> 6600
-    line [6593, 6595, 6597, 6596, 6597, 6599, 6599]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 6592 --> 6602
+    line [6593, 6595, 6597, 6596, 6597, 6599, 6601]
 ```
 
-2026-10-18 6,593 → 2026-11-01 6,599（+6）
+2026-10-18 6,593 → 2026-11-02 6,601（+8）
 
 
 ---

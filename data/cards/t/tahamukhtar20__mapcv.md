@@ -1,6 +1,6 @@
 # tahamukhtar20/mapcv
 
-⭐ 14 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tahamukhtar20/mapcv) · [官网](https://tahamukhtar20.github.io/mapcv/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/tahamukhtar20/mapcv) · [官网](https://tahamukhtar20.github.io/mapcv/) · 个人维护
 
 **把影像与地理标签转成可训练遥感数据集的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tahamukhtar20/mapcv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 11 --> 15
     line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-01 14（+2）
+2026-10-18 12 → 2026-11-02 14（+2）
 
 
 ---

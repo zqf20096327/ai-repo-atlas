@@ -1,6 +1,6 @@
 # julilien/LabelRelaxation
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/julilien/LabelRelaxation) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/julilien/LabelRelaxation) · 个人维护
 
 **PyTorch 版 label relaxation 损失函数库：改进分类校准**
 
@@ -46,12 +46,12 @@ AAAI 2021 论文 'From Label Smoothing to Label Relaxation' 的 PyTorch 实现�
 ```mermaid
 xychart-beta
     title "julilien/LabelRelaxation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jyx0208/claude-science-api-bridge
 
-⭐ 50 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Jyx0208/claude-science-api-bridge) · [官网](https://github.com/Jyx0208/claude-science-api-bridge/releases/latest) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Jyx0208/claude-science-api-bridge) · [官网](https://github.com/Jyx0208/claude-science-api-bridge/releases/latest) · 个人维护 · 中文 README
 
 **让 Claude Science 使用第三方 OpenAI 兼容 API 的 macOS 本地代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jyx0208/claude-science-api-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-11-01 50（+0）
+2026-10-18 50 → 2026-11-02 51（+1）
 
 
 ---

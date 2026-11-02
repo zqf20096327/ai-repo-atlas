@@ -1,6 +1,6 @@
 # Sheep1433/Noesis
 
-⭐ 12 · Python · 推送 2026-10-22 · [GitHub](https://github.com/Sheep1433/Noesis) · 个人维护 · 中文 README
+⭐ 12 · Python · 推送 2026-11-01 · [GitHub](https://github.com/Sheep1433/Noesis) · 个人维护 · 中文 README
 
 **自托管多智能体全栈平台：问答、深度研究、故障运维、用例生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sheep1433/Noesis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

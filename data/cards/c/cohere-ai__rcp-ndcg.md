@@ -1,6 +1,6 @@
 # cohere-ai/rcp-ndcg
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cohere-ai/rcp-ndcg) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cohere-ai/rcp-ndcg) · 组织维护
 
 **用 LLM 裁判与 IRT 校准替代人工标注的 nDCG 评测方法**
 
@@ -45,12 +45,12 @@ RCP-nDCG 是一种排序评测指标实现：以校准后的 LLM 裁判取代稀
 ```mermaid
 xychart-beta
     title "cohere-ai/rcp-ndcg 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-10-18 10 → 2026-11-01 13（+3）
+2026-10-18 10 → 2026-11-02 14（+4）
 
 
 ---

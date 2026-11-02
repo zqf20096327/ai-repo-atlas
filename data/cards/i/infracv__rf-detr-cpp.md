@@ -1,6 +1,6 @@
 # infracv/rf-detr-cpp
 
-⭐ 209 · C++ · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/infracv/rf-detr-cpp) · [官网](https://infracv.com) · 组织维护
+⭐ 210 · C++ · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/infracv/rf-detr-cpp) · [官网](https://infracv.com) · 组织维护
 
 **面向生产部署的 RF-DETR C++/TensorRT 推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "infracv/rf-detr-cpp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 205 --> 210
-    line [206, 207, 208, 209, 209]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 205 --> 211
+    line [206, 207, 208, 209, 210]
 ```
 
-2026-10-18 206 → 2026-11-01 209（+3）
+2026-10-18 206 → 2026-11-02 210（+4）
 
 
 ---

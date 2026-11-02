@@ -1,6 +1,6 @@
 # ShineStormEnhance/Capri-AI
 
-⭐ 147 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ShineStormEnhance/Capri-AI) · 个人维护
+⭐ 609 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ShineStormEnhance/Capri-AI) · 个人维护
 
 **Windows 桌面赛博朋克风 AI 代理，接入多种 AI 助手代操作电脑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShineStormEnhance/Capri-AI 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 43 --> 156
-    line [52, 147]
+    title "ShineStormEnhance/Capri-AI 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 664
+    line [52, 147, 609]
 ```
 
-2026-10-31 52 → 2026-11-01 147（+95）
+2026-10-31 52 → 2026-11-02 609（+557）
 
 
 ---

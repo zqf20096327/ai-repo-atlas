@@ -1,6 +1,6 @@
 # zephyr7030/DroidBridge
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zephyr7030/DroidBridge) · 个人维护 · 中文 README
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zephyr7030/DroidBridge) · 个人维护 · 中文 README
 
 **Android 设备端 MCP 服务器：让 AI agent 直接操作手机并跑定时自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zephyr7030/DroidBridge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 8 --> 15
-    line [9, 10, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 8 --> 16
+    line [9, 10, 11, 12, 13, 14, 15]
 ```
 
-2026-10-18 9 → 2026-11-01 14（+5）
+2026-10-18 9 → 2026-11-02 15（+6）
 
 
 ---

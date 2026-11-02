@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    title "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 29
-    line [14, 24, 28]
+    line [14, 24, 28, 28]
 ```
 
-2026-10-30 14 → 2026-11-01 28（+14）
+2026-10-30 14 → 2026-11-02 28（+14）
 
 
 ---

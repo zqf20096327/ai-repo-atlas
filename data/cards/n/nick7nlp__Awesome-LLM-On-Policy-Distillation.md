@@ -1,6 +1,6 @@
 # nick7nlp/Awesome-LLM-On-Policy-Distillation
 
-⭐ 590 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation) · [官网](https://nick7nlp.github.io/OPDHub/) · 个人维护
+⭐ 592 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation) · [官网](https://nick7nlp.github.io/OPDHub/) · 个人维护
 
 **LLM 在线策略蒸馏（OPD）论文与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nick7nlp/Awesome-LLM-On-Policy-Distillation 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 579 --> 591
-    line [580, 583, 584, 587, 588, 589, 590, 590]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 579 --> 593
+    line [580, 583, 584, 587, 588, 589, 590, 592]
 ```
 
-2026-10-18 580 → 2026-11-01 590（+10）
+2026-10-18 580 → 2026-11-02 592（+12）
 
 
 ---

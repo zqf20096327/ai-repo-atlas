@@ -1,6 +1,6 @@
 # poweruserz/OpenTokenUsage
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/poweruserz/OpenTokenUsage) · [官网](https://opentokenusage.app) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/poweruserz/OpenTokenUsage) · [官网](https://opentokenusage.app) · 个人维护 · 中文 README
 
 **Windows 11 托盘应用：集中显示各 AI 编程订阅的用量限额**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "poweruserz/OpenTokenUsage 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "poweruserz/OpenTokenUsage 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 26
-    line [10, 11, 12, 13, 15, 18, 20, 23, 25]
+    line [10, 11, 12, 13, 15, 18, 20, 23, 25, 25]
 ```
 
-2026-10-23 10 → 2026-11-01 25（+15）
+2026-10-23 10 → 2026-11-02 25（+15）
 
 
 ---

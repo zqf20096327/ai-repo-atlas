@@ -1,6 +1,6 @@
 # josephsteuerjr/praxis
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/josephsteuerjr/praxis) · [官网](https://github.com/josephsteuerjr/praxis/releases/latest) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/josephsteuerjr/praxis) · [官网](https://github.com/josephsteuerjr/praxis/releases/latest) · 个人维护
 
 **面向独立 agent 的桌面宿主：持久记忆、工具、Telegram 与可选本地语音**
 
@@ -45,12 +45,12 @@ Hélène 是一个桌面应用，为独立运行的 agent 提供住所：每个 
 ```mermaid
 xychart-beta
     title "josephsteuerjr/praxis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

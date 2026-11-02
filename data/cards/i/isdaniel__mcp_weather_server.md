@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "isdaniel/mcp_weather_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "isdaniel/mcp_weather_server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 59 --> 62
-    line [60, 61]
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-01 61（+1）
+2026-10-18 60 → 2026-11-02 61（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/WindowsML
 
-⭐ 48 · PowerShell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/WindowsML) · [官网](https://aka.ms/winml) · 组织维护
+⭐ 49 · PowerShell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/WindowsML) · [官网](https://aka.ms/winml) · 组织维护
 
 **Windows 本地 AI 推理框架：在 CPU/GPU/NPU 上运行 ONNX 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/WindowsML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 43 --> 49
-    line [44, 45, 46, 45, 48]
+    title "microsoft/WindowsML 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 43 --> 50
+    line [44, 45, 46, 45, 48, 49]
 ```
 
-2026-10-18 44 → 2026-11-01 48（+4）
+2026-10-18 44 → 2026-11-02 49（+5）
 
 
 ---

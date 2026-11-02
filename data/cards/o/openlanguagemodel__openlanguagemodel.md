@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openlanguagemodel/openlanguagemodel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    title "openlanguagemodel/openlanguagemodel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
     y-axis "stars" 25 --> 29
-    line [26, 27, 28]
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-01 28（+2）
+2026-10-18 26 → 2026-11-02 28（+2）
 
 
 ---

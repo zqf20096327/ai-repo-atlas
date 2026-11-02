@@ -1,6 +1,6 @@
 # Tejas164321/FinPal
 
-⭐ 13 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/Tejas164321/FinPal) · [官网](https://finpal.tejasfolio.in) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/Tejas164321/FinPal) · [官网](https://finpal.tejasfolio.in) · 个人维护
 
 **面向印度 UPI 用户的个人财务看板应用**
 
@@ -46,12 +46,12 @@ React + Vite + TailwindCSS 构建的个人财务管理 Web 应用：上传并解
 ```mermaid
 xychart-beta
     title "Tejas164321/FinPal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

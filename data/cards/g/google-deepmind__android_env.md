@@ -1,6 +1,6 @@
 # google-deepmind/android_env
 
-⭐ 1,252 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google-deepmind/android_env) · 组织维护
+⭐ 1,252 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/google-deepmind/android_env) · 组织维护
 
 **面向 Android 设备的 RL 研究与 UI agent 交互平台**
 
@@ -45,13 +45,13 @@ Google DeepMind 维护的 Python/Kotlin 平台，通过 WebSocket 连接设备�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/android_env 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01"]
+    title "google-deepmind/android_env 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1247 --> 1253
-    line [1248, 1249, 1250, 1251, 1252]
+    line [1248, 1249, 1250, 1251, 1252, 1252]
 ```
 
-2026-10-18 1,248 → 2026-11-01 1,252（+4）
+2026-10-18 1,248 → 2026-11-02 1,252（+4）
 
 
 ---

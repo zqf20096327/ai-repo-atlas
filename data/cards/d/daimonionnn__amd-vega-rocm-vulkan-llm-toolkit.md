@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "daimonionnn/amd-vega-rocm-vulkan-llm-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01"]
+    title "daimonionnn/amd-vega-rocm-vulkan-llm-toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20]
+    line [17, 18, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-01 20（+3）
+2026-10-18 17 → 2026-11-02 20（+3）
 
 
 ---

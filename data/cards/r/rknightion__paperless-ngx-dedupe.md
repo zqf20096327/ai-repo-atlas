@@ -1,6 +1,6 @@
 # rknightion/paperless-ngx-dedupe
 
-⭐ 26 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/rknightion/paperless-ngx-dedupe) · [官网](https://m7kni.io/paperless-ngx-dedupe/) · 个人维护
+⭐ 26 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/rknightion/paperless-ngx-dedupe) · [官网](https://m7kni.io/paperless-ngx-dedupe/) · 个人维护
 
 **Paperless-NGX 文档去重与 AI 元数据提取配套工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rknightion/paperless-ngx-dedupe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
     y-axis "stars" 22 --> 27
     line [23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-01 26（+3）
+2026-10-18 23 → 2026-11-02 26（+3）
 
 
 ---

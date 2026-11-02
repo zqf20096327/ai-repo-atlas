@@ -1,6 +1,6 @@
 # chadingTV/claudecode-discord
 
-⭐ 63 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/chadingTV/claudecode-discord) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/chadingTV/claudecode-discord) · 个人维护
 
 **通过 Discord 远程控制 Claude Code 的多机 agent 中枢**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "chadingTV/claudecode-discord 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
 ```
 
-2026-10-18 63 → 2026-11-01 63（+0）
+2026-10-18 63 → 2026-11-02 64（+1）
 
 
 ---

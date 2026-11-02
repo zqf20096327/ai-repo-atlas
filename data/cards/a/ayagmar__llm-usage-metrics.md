@@ -1,6 +1,6 @@
 # ayagmar/llm-usage-metrics
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ayagmar/llm-usage-metrics) · [官网](https://ayagmar.github.io/llm-usage-metrics/) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ayagmar/llm-usage-metrics) · [官网](https://ayagmar.github.io/llm-usage-metrics/) · 个人维护
 
 **17 种 AI 编码工具的 token 与成本用量报告 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ayagmar/llm-usage-metrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-01 35（+0）
+2026-10-18 35 → 2026-11-02 35（+0）
 
 
 ---

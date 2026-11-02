@@ -44,13 +44,13 @@ grim 是面向 AI 编码 agent 配置的包管理 CLI：一次性声明 skill、
 
 ```mermaid
 xychart-beta
-    title "grimoire-rs/grimoire 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "grimoire-rs/grimoire 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

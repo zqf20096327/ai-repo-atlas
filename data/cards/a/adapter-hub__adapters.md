@@ -1,6 +1,6 @@
 # adapter-hub/adapters
 
-⭐ 2,832 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/adapter-hub/adapters) · [官网](https://docs.adapterhub.ml) · 组织维护
+⭐ 2,833 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/adapter-hub/adapters) · [官网](https://docs.adapterhub.ml) · 组织维护
 
 **为 NLP 研究者提供的参数高效微调统一库（适配器/LoRA 等）**
 
@@ -44,13 +44,13 @@ HuggingFace Transformers 的附加库，将 10+ 种参数高效微调方法（Bo
 
 ```mermaid
 xychart-beta
-    title "adapter-hub/adapters 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 2829 --> 2833
-    line [2832, 2831, 2830, 2831, 2832]
+    title "adapter-hub/adapters 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2829 --> 2834
+    line [2832, 2831, 2830, 2831, 2832, 2833]
 ```
 
-2026-10-18 2,832 → 2026-11-01 2,832（+0）
+2026-10-18 2,832 → 2026-11-02 2,833（+1）
 
 
 ---

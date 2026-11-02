@@ -1,6 +1,6 @@
 # vinvcn/mattpocock-skills-zh-CN
 
-⭐ 5,441 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
+⭐ 5,461 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
 
 **Matt Pocock coding agent skills 的简体中文本地化仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vinvcn/mattpocock-skills-zh-CN 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 5130 --> 5469
-    line [5158, 5200, 5231, 5245, 5272, 5313, 5348, 5385, 5406, 5422, 5441]
+    title "vinvcn/mattpocock-skills-zh-CN 星数(近 12 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 5128 --> 5491
+    line [5158, 5200, 5231, 5245, 5272, 5313, 5348, 5385, 5406, 5422, 5441, 5461]
 ```
 
-2026-10-22 5,158 → 2026-11-01 5,441（+283）
+2026-10-22 5,158 → 2026-11-02 5,461（+303）
 
 
 ---

@@ -1,6 +1,6 @@
 # pitroytech/update-helper-skills
 
-⭐ 16 · 推送 2026-05-18 · [GitHub](https://github.com/pitroytech/update-helper-skills) · 个人维护 · 中文 README
+⭐ 15 · 推送 2026-05-18 · [GitHub](https://github.com/pitroytech/update-helper-skills) · 个人维护 · 中文 README
 
 **让 AI agent 安全更新既有代码的技能/协议包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pitroytech/update-helper-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 15（-1）
 
 
 ---

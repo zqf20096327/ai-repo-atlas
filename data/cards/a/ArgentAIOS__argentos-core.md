@@ -1,6 +1,6 @@
 # ArgentAIOS/argentos-core
 
-⭐ 128 · TypeScript · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/ArgentAIOS/argentos-core) · [官网](https://argentos.ai) · 组织维护
+⭐ 128 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ArgentAIOS/argentos-core) · [官网](https://argentos.ai) · 组织维护
 
 **自托管的个人 AI 操作系统：记忆、多渠道与自主代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ArgentAIOS/argentos-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 126 --> 129
     line [127, 128, 128]
 ```
 
-2026-10-18 127 → 2026-11-01 128（+1）
+2026-10-18 127 → 2026-11-02 128（+1）
 
 
 ---

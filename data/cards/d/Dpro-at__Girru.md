@@ -1,6 +1,6 @@
 # Dpro-at/Girru
 
-⭐ 102 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Dpro-at/Girru) · [官网](girru.dev) · 个人维护
+⭐ 105 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Dpro-at/Girru) · [官网](girru.dev) · 个人维护
 
 **开源跨平台 AI 桌面助手：多 Agent 团队路由执行任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dpro-at/Girru 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 74 --> 104
-    line [76, 80, 96, 100, 102]
+    title "Dpro-at/Girru 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 74 --> 107
+    line [76, 80, 96, 100, 102, 105]
 ```
 
-2026-10-28 76 → 2026-11-01 102（+26）
+2026-10-28 76 → 2026-11-02 105（+29）
 
 
 ---

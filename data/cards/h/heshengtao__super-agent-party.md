@@ -1,6 +1,6 @@
 # heshengtao/super-agent-party
 
-⭐ 2,766 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/heshengtao/super-agent-party) · [官网](https://www.agentparty.top) · 个人维护 · 中文 README
+⭐ 2,775 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/heshengtao/super-agent-party) · [官网](https://www.agentparty.top) · 个人维护 · 中文 README
 
 **给个人用户的全能 AI 桌面伴侣：聊天、直播、IM bot、电脑控制**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "heshengtao/super-agent-party 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 2736 --> 2768
-    line [2738, 2742, 2748, 2752, 2754, 2755, 2759, 2764, 2765, 2766]
+    title "heshengtao/super-agent-party 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2735 --> 2778
+    line [2738, 2742, 2748, 2752, 2754, 2755, 2759, 2764, 2765, 2766, 2775]
 ```
 
-2026-10-18 2,738 → 2026-11-01 2,766（+28）
+2026-10-18 2,738 → 2026-11-02 2,775（+37）
 
 
 ---

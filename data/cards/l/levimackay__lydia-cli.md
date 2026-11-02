@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "levimackay/lydia-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "levimackay/lydia-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 35 --> 38
-    line [36, 37]
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-01 37（+1）
+2026-10-18 36 → 2026-11-02 37（+1）
 
 
 ---

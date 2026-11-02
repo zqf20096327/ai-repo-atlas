@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LSTM-Kirigaya/openclaw-onebot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "LSTM-Kirigaya/openclaw-onebot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 142 --> 145
-    line [144, 143]
+    line [144, 143, 143]
 ```
 
-2026-10-18 144 → 2026-11-01 143（-1）
+2026-10-18 144 → 2026-11-02 143（-1）
 
 
 ---

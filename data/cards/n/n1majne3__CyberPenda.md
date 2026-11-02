@@ -1,6 +1,6 @@
 # n1majne3/CyberPenda
 
-⭐ 28 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/n1majne3/CyberPenda) · [官网](https://cyberpenda-demo.vercel.app) · 个人维护 · 中文 README
+⭐ 28 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/n1majne3/CyberPenda) · [官网](https://cyberpenda-demo.vercel.app) · 个人维护 · 中文 README
 
 **本地优先的授权渗透测试 agent 工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "n1majne3/CyberPenda 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
     y-axis "stars" 25 --> 29
     line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-01 28（+2）
+2026-10-18 26 → 2026-11-02 28（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bbruceyuan/LLMs-Zero-to-Hero
 
-⭐ 2,319 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) · [官网](https://yuanchaofa.com/llms-zero-to-hero/) · 个人维护 · 中文 README
+⭐ 2,321 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) · [官网](https://yuanchaofa.com/llms-zero-to-hero/) · 个人维护 · 中文 README
 
 **从零手写 LLM 的中文教程仓库（笔记+Notebook+视频）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bbruceyuan/LLMs-Zero-to-Hero 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 2308 --> 2320
-    line [2309, 2310, 2312, 2313, 2312, 2313, 2316, 2319, 2319]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 2308 --> 2322
+    line [2309, 2310, 2312, 2313, 2312, 2313, 2316, 2319, 2321]
 ```
 
-2026-10-18 2,309 → 2026-11-01 2,319（+10）
+2026-10-18 2,309 → 2026-11-02 2,321（+12）
 
 
 ---

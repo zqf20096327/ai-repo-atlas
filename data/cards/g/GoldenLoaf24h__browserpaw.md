@@ -1,6 +1,6 @@
 # GoldenLoaf24h/browserpaw
 
-⭐ 37 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/GoldenLoaf24h/browserpaw) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/GoldenLoaf24h/browserpaw) · 个人维护 · 中文 README
 
 **让 AI agent 直接操控日常 Chrome 的扩展 + 本地 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GoldenLoaf24h/browserpaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 37, 38]
 ```
 
-2026-10-18 35 → 2026-11-01 37（+2）
+2026-10-18 35 → 2026-11-02 38（+3）
 
 
 ---

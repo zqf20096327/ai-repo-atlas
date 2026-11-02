@@ -1,6 +1,6 @@
 # AOrbitron/Eridanus
 
-⭐ 211 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/AOrbitron/Eridanus) · [官网](https://eridanus.netlify.app) · 个人维护 · 中文 README
+⭐ 211 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/AOrbitron/Eridanus) · [官网](https://eridanus.netlify.app) · 个人维护 · 中文 README
 
 **基于 OneBot 协议的多功能 QQ bot 与 Python 开发框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AOrbitron/Eridanus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01"]
+    title "AOrbitron/Eridanus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 207 --> 212
-    line [208, 209, 210, 211]
+    line [208, 209, 210, 211, 211]
 ```
 
-2026-10-18 208 → 2026-11-01 211（+3）
+2026-10-18 208 → 2026-11-02 211（+3）
 
 
 ---

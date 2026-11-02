@@ -1,6 +1,6 @@
 # ariya/gamal
 
-⭐ 61 · JavaScript · MIT · 推送 2025-11-05 · [GitHub](https://github.com/ariya/gamal) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **零依赖 CLI/Web/Telegram 问答工具：搜索网页并用 LLM 总结作答**
 
@@ -11,7 +11,7 @@ Gamal 是一个用 Node.js 或 Bun 运行的零依赖问答工具：借助 SearX
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

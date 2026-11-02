@@ -1,6 +1,6 @@
 # MicrosoftDocs/mcp
 
-⭐ 1,962 · TypeScript · CC-BY-4.0 · 推送 2026-10-30 · [GitHub](https://github.com/MicrosoftDocs/mcp) · [官网](https://learn.microsoft.com) · 组织维护
+⭐ 1,964 · TypeScript · CC-BY-4.0 · 推送 2026-10-30 · [GitHub](https://github.com/MicrosoftDocs/mcp) · [官网](https://learn.microsoft.com) · 组织维护
 
 **为 AI 助手/Agent 接入微软官方文档检索的 MCP 服务与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MicrosoftDocs/mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1949 --> 1963
-    line [1950, 1952, 1951, 1953, 1954, 1956, 1959, 1962]
+    title "MicrosoftDocs/mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1949 --> 1965
+    line [1950, 1952, 1951, 1953, 1954, 1956, 1959, 1962, 1964]
 ```
 
-2026-10-18 1,950 → 2026-11-01 1,962（+12）
+2026-10-18 1,950 → 2026-11-02 1,964（+14）
 
 
 ---

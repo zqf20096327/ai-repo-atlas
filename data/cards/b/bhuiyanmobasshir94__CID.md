@@ -1,6 +1,6 @@
 # bhuiyanmobasshir94/CID
 
-⭐ 29 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/bhuiyanmobasshir94/CID) · 个人维护
+⭐ 28 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/bhuiyanmobasshir94/CID) · 个人维护
 
 **牛图像数据集：支持体重回归与品种分类研究**
 
@@ -45,12 +45,12 @@ CID 是一个面向计算机视觉与机器学习研究的牛图像数据集，�
 ```mermaid
 xychart-beta
     title "bhuiyanmobasshir94/CID 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    line [28, 29, 28]
 ```
 
-2026-10-18 28 → 2026-11-01 29（+1）
+2026-10-18 28 → 2026-11-02 28（+0）
 
 
 ---

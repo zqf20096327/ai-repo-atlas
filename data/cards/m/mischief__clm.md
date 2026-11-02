@@ -1,6 +1,6 @@
 # mischief/clm
 
-⭐ 12 · C · ISC · 推送 2026-10-30 · [GitHub](https://github.com/mischief/clm) · 个人维护
+⭐ 13 · C · ISC · 推送 2026-10-30 · [GitHub](https://github.com/mischief/clm) · 个人维护
 
 **C 编写的可嵌入 LLM agent，带 Lua 插件与 MCP 客户端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mischief/clm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

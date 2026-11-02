@@ -1,6 +1,6 @@
 # Atom-kkk/AI-Clothing-Resource-Library
 
-⭐ 30 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Atom-kkk/AI-Clothing-Resource-Library) · [官网](https://ai-clothing-library.app.workbuddy.host/?sharecode=E2QQTAQUAL) · 个人维护 · 中文 README
+⭐ 31 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Atom-kkk/AI-Clothing-Resource-Library) · [官网](https://ai-clothing-library.app.workbuddy.host/?sharecode=E2QQTAQUAL) · 个人维护 · 中文 README
 
 **1407 张 AI 服装参考图的纯静态图库，支持上传与 AI 提示词生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Atom-kkk/AI-Clothing-Resource-Library 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 28 --> 31
-    line [29, 30]
+    title "Atom-kkk/AI-Clothing-Resource-Library 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-31 29 → 2026-11-01 30（+1）
+2026-10-31 29 → 2026-11-02 31（+2）
 
 
 ---

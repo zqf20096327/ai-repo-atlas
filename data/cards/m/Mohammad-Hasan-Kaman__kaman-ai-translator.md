@@ -1,6 +1,6 @@
 # Mohammad-Hasan-Kaman/kaman-ai-translator
 
-⭐ 60 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Mohammad-Hasan-Kaman/kaman-ai-translator) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Mohammad-Hasan-Kaman/kaman-ai-translator) · 个人维护
 
 **把 PDF/EPUB 整本书自动译为学术波斯语的桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mohammad-Hasan-Kaman/kaman-ai-translator 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 43 --> 61
-    line [44, 46, 48, 49, 55, 58, 59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 43 --> 63
+    line [44, 46, 48, 49, 55, 58, 59, 60, 62]
 ```
 
-2026-10-18 44 → 2026-11-01 60（+16）
+2026-10-18 44 → 2026-11-02 62（+18）
 
 
 ---

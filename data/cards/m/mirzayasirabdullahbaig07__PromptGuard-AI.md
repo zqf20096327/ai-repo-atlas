@@ -45,12 +45,12 @@ PromptGuard 是一个纯 HTML/CSS/JS 单文件 Web 应用，实时扫描用户�
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/PromptGuard-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 41 --> 44
     line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-01 43（+1）
+2026-10-18 42 → 2026-11-02 43（+1）
 
 
 ---

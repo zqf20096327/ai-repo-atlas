@@ -1,6 +1,6 @@
 # icyberdeveloper/tbank-mcp
 
-⭐ 38 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/icyberdeveloper/tbank-mcp) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/icyberdeveloper/tbank-mcp) · 个人维护 · 中文 README
 
 **非官方 T-Bank 移动银行 MCP 服务器：让 agent 操作银行账户**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "icyberdeveloper/tbank-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-11-01 38（+2）
+2026-10-18 36 → 2026-11-02 39（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # batuhanzorbeyzengin/rebasis
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/batuhanzorbeyzengin/rebasis) · [官网](https://batuhanzorbeyzengin.github.io/rebasis/) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/batuhanzorbeyzengin/rebasis) · [官网](https://batuhanzorbeyzengin.github.io/rebasis/) · 个人维护
 
 **嵌入模型升级评估与迁移工具：测量是否值得换、免重建索引桥接**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "batuhanzorbeyzengin/rebasis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 17（+0）
 
 
 ---

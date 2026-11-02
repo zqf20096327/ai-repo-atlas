@@ -1,6 +1,6 @@
 # akasecurity/ai-tc
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/akasecurity/ai-tc) · [官网](https://akasecurity.io) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/akasecurity/ai-tc) · [官网](https://akasecurity.io) · 组织维护
 
 **给 AI agent 会话加安全闸门的本地策略引擎，拦截敏感数据与高危命令**
 
@@ -46,12 +46,12 @@ AI Traffic Control 是 AKA Security 开源的 agent harness 安全防护层：�
 ```mermaid
 xychart-beta
     title "akasecurity/ai-tc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

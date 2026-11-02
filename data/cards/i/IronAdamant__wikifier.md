@@ -1,6 +1,6 @@
 # IronAdamant/wikifier
 
-⭐ 13 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/IronAdamant/wikifier) · [官网](https://github.com/IronAdamant/wikifier) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/IronAdamant/wikifier) · [官网](https://github.com/IronAdamant/wikifier) · 个人维护
 
 **面向 AI agent 的零依赖代码库 wiki 与变更追踪系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IronAdamant/wikifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

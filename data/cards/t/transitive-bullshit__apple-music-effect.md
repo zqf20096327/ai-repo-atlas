@@ -1,6 +1,6 @@
 # transitive-bullshit/apple-music-effect
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/transitive-bullshit/apple-music-effect) · [官网](https://apple-music-effect.transitivebullsh.it) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/transitive-bullshit/apple-music-effect) · [官网](https://apple-music-effect.transitivebullsh.it) · 个人维护
 
 **浏览器中重建 Apple Music 液态 logo 动画的 WebGL 项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "transitive-bullshit/apple-music-effect 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 26 --> 50
-    line [28, 39, 42, 44, 45, 46, 48, 48]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 26 --> 52
+    line [28, 39, 42, 44, 45, 46, 48, 50]
 ```
 
-2026-10-24 28 → 2026-11-01 48（+20）
+2026-10-24 28 → 2026-11-02 50（+22）
 
 
 ---

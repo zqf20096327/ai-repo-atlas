@@ -1,6 +1,6 @@
 # ggml-org/convert
 
-⭐ 60 · Shell · 推送 2026-10-31 · [GitHub](https://github.com/ggml-org/convert) · [官网](https://huggingface.co/ggml-org) · 组织维护
+⭐ 61 · Shell · 推送 2026-10-31 · [GitHub](https://github.com/ggml-org/convert) · [官网](https://huggingface.co/ggml-org) · 组织维护
 
 **自动将模型转换为 GGUF 格式并上传 HF 的流水线**
 
@@ -45,12 +45,12 @@ ggml-org 维护的模型转换自动化流水线：调用 llama.cpp 的转换工
 ```mermaid
 xychart-beta
     title "ggml-org/convert 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 54 --> 61
-    line [55, 56, 57, 58, 59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 54 --> 62
+    line [55, 56, 57, 58, 59, 60, 61]
 ```
 
-2026-10-18 55 → 2026-11-01 60（+5）
+2026-10-18 55 → 2026-11-02 61（+6）
 
 
 ---

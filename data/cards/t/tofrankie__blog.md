@@ -1,6 +1,6 @@
 # tofrankie/blog
 
-⭐ 38 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/tofrankie/blog) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/tofrankie/blog) · 个人维护 · 中文 README
 
 **Frankie 的个人技术博客，收录 JavaScript 等精选文章清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tofrankie/blog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-01 38（+1）
+2026-10-18 37 → 2026-11-02 38（+1）
 
 
 ---

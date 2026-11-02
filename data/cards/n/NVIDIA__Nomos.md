@@ -1,6 +1,6 @@
 # NVIDIA/Nomos
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA/Nomos) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NVIDIA/Nomos) · 组织维护
 
 **给企业开发者的 AI agent 特权操作授权与审计层**
 
@@ -46,13 +46,13 @@ NVIDIA 维护的 agent 行为治理系统：agent 提出的特权操作（运行
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Nomos 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 13, 15, 17]
+    title "NVIDIA/Nomos 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 13, 15, 17, 18]
 ```
 
-2026-10-19 11 → 2026-11-01 17（+6）
+2026-10-19 11 → 2026-11-02 18（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # a-tokyo/agent-skills
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/a-tokyo/agent-skills) · [官网](https://skills.sh/a-tokyo/agent-skills) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/a-tokyo/agent-skills) · [官网](https://skills.sh/a-tokyo/agent-skills) · 个人维护
 
 **面向 AI 编码助手的可复用技能集合（6 个技能）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a-tokyo/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 17（+0）
 
 
 ---

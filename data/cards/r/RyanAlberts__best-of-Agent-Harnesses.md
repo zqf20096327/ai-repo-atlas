@@ -1,6 +1,6 @@
 # RyanAlberts/best-of-Agent-Harnesses
 
-⭐ 1,421 · Python · CC-BY-SA-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/RyanAlberts/best-of-Agent-Harnesses) · [官网](https://ryanalberts.github.io/best-of-Agent-Harnesses/) · 个人维护
+⭐ 1,430 · Python · CC-BY-SA-4.0 · 推送 2026-11-01 · [GitHub](https://github.com/RyanAlberts/best-of-Agent-Harnesses) · [官网](https://ryanalberts.github.io/best-of-Agent-Harnesses/) · 个人维护
 
 **AI agent harness（运行时框架）排行榜单与配套模板/技能/MCP 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RyanAlberts/best-of-Agent-Harnesses 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1259 --> 1435
-    line [1273, 1301, 1311, 1322, 1336, 1350, 1364, 1368, 1374, 1391, 1404, 1413, 1421]
+    title "RyanAlberts/best-of-Agent-Harnesses 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1258 --> 1445
+    line [1273, 1301, 1311, 1322, 1336, 1350, 1364, 1368, 1374, 1391, 1404, 1413, 1421, 1430]
 ```
 
-2026-10-18 1,273 → 2026-11-01 1,421（+148）
+2026-10-18 1,273 → 2026-11-02 1,430（+157）
 
 
 ---

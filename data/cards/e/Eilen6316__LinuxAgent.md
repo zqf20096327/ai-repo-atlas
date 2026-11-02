@@ -1,6 +1,6 @@
 # Eilen6316/LinuxAgent
 
-⭐ 55 · Python · 推送 2026-09-19 · [GitHub](https://github.com/Eilen6316/LinuxAgent) · 个人维护 · 中文 README
+⭐ 56 · Python · 推送 2026-09-19 · [GitHub](https://github.com/Eilen6316/LinuxAgent) · 个人维护 · 中文 README
 
 **LLM 提议 Linux 运维命令、经策略与人工确认后执行的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Eilen6316/LinuxAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 54 --> 57
+    line [55, 56]
 ```
 
-2026-10-18 55 → 2026-11-01 55（+0）
+2026-10-18 55 → 2026-11-02 56（+1）
 
 
 ---

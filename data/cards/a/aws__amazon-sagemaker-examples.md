@@ -1,6 +1,6 @@
 # aws/amazon-sagemaker-examples
 
-⭐ 10,999 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/aws/amazon-sagemaker-examples) · [官网](https://sagemaker-examples.readthedocs.io) · 组织维护
+⭐ 11,001 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/aws/amazon-sagemaker-examples) · [官网](https://sagemaker-examples.readthedocs.io) · 组织维护
 
 **Amazon SageMaker 官方 Jupyter 示例集：构建/训练/部署 ML 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws/amazon-sagemaker-examples 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 10992 --> 11001
-    line [10995, 10996, 10993, 10998, 11000, 10999, 10998, 10999]
+    title "aws/amazon-sagemaker-examples 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10992 --> 11002
+    line [10995, 10996, 10993, 10998, 11000, 10999, 10998, 10999, 11001]
 ```
 
-2026-10-18 10,995 → 2026-11-01 10,999（+4）
+2026-10-18 10,995 → 2026-11-02 11,001（+6）
 
 
 ---

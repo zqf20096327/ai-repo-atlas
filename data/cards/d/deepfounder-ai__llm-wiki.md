@@ -1,6 +1,6 @@
 # deepfounder-ai/llm-wiki
 
-⭐ 14 · Shell · MIT · 推送 2026-04-19 · [GitHub](https://github.com/deepfounder-ai/llm-wiki) · 组织维护
+⭐ 15 · Shell · MIT · 推送 2026-04-19 · [GitHub](https://github.com/deepfounder-ai/llm-wiki) · 组织维护
 
 **Claude Code 插件：让 Claude 持续维护个人 markdown 知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deepfounder-ai/llm-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-01 14（+1）
+2026-10-18 13 → 2026-11-02 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # PIXEL-API/PixelAPI
 
-⭐ 66 · Go · LGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/PIXEL-API/PixelAPI) · [官网](https://ai-pixel.online) · 组织维护 · 中文 README
+⭐ 67 · Go · LGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/PIXEL-API/PixelAPI) · [官网](https://ai-pixel.online) · 组织维护 · 中文 README
 
 **账号共享型 AI API 网关：多平台接入、调度与 Token 级分账**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PIXEL-API/PixelAPI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 65 --> 68
-    line [67, 66, 66]
+    line [67, 66, 67]
 ```
 
-2026-10-18 67 → 2026-11-01 66（-1）
+2026-10-18 67 → 2026-11-02 67（+0）
 
 
 ---

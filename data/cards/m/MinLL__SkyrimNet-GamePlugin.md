@@ -1,6 +1,6 @@
 # MinLL/SkyrimNet-GamePlugin
 
-⭐ 364 · Papyrus · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/MinLL/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
+⭐ 365 · Papyrus · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/MinLL/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
 
 **为 Skyrim 全体 NPC 提供 AI 对话、记忆与实时语音的游戏模组**
 
@@ -41,6 +41,18 @@
 > L18: SkyrimNet turns every character in Skyrim into someone you can actually talk to. Speak into your microphone or type
 > L20: NPCs **remember**. Each one keeps their own memories of what you did and said, and of what they saw happen around t
 > L37: - **Voices.** Local and cloud text-to-speech engines, with voice cloning, plus voice effects for werewolves, draugr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MinLL/SkyrimNet-GamePlugin 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 363 --> 366
+    line [364, 365]
+```
+
+2026-11-01 364 → 2026-11-02 365（+1）
 
 
 ---

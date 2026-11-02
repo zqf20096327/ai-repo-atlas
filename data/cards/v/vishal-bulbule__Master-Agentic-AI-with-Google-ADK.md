@@ -1,6 +1,6 @@
 # vishal-bulbule/Master-Agentic-AI-with-Google-ADK
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/vishal-bulbule/Master-Agentic-AI-with-Google-ADK) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/vishal-bulbule/Master-Agentic-AI-with-Google-ADK) · 个人维护
 
 **Google ADK 教学：100+ 可运行的 Python agent 代码示例集**
 
@@ -45,12 +45,12 @@ Google Agent Development Kit（ADK）的代码示例仓库，含 100+ 个可直�
 ```mermaid
 xychart-beta
     title "vishal-bulbule/Master-Agentic-AI-with-Google-ADK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-11-01 27（+0）
+2026-10-18 27 → 2026-11-02 28（+1）
 
 
 ---

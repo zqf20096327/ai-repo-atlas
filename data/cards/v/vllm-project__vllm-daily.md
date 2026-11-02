@@ -1,6 +1,6 @@
 # vllm-project/vllm-daily
 
-⭐ 56 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/vllm-daily) · 组织维护
+⭐ 56 · 推送 2026-11-01 · [GitHub](https://github.com/vllm-project/vllm-daily) · 组织维护
 
 **vLLM 已合并 PR 的每日汇总仓库，可订阅 RSS**
 
@@ -43,12 +43,12 @@ vllm-project 维护的自动化仓库，按日汇总 vLLM 主仓库中已合并 
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-daily 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-01 56（+0）
+2026-10-18 56 → 2026-11-02 56（+0）
 
 
 ---

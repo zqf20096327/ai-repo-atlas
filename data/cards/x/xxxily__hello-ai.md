@@ -1,6 +1,6 @@
 # xxxily/hello-ai
 
-⭐ 1,409 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/xxxily/hello-ai) · [官网](https://hello-ai.anzz.site/explore) · 个人维护 · 中文 README
+⭐ 1,408 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/xxxily/hello-ai) · [官网](https://hello-ai.anzz.site/explore) · 个人维护 · 中文 README
 
 **AI 自动维护的开源 AI 项目导航站，收录 2.6 万项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xxxily/hello-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01"]
+    title "xxxily/hello-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1401 --> 1410
-    line [1402, 1403, 1405, 1408, 1409]
+    line [1402, 1403, 1405, 1408, 1409, 1408]
 ```
 
-2026-10-18 1,402 → 2026-11-01 1,409（+7）
+2026-10-18 1,402 → 2026-11-02 1,408（+6）
 
 
 ---

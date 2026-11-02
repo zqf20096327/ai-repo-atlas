@@ -1,6 +1,6 @@
 # HorusJiang/dsh-jev-tools
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/HorusJiang/dsh-jev-tools) · [官网](https://www.npmjs.com/package/dsh-jev-tools) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/HorusJiang/dsh-jev-tools) · [官网](https://www.npmjs.com/package/dsh-jev-tools) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：用 Jev 判定模型先筛后放行工具输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HorusJiang/dsh-jev-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

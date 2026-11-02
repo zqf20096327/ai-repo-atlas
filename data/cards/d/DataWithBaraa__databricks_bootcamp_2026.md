@@ -1,6 +1,6 @@
 # DataWithBaraa/databricks_bootcamp_2026
 
-⭐ 457 · Jupyter Notebook · MIT · 推送 2026-01-19 · [GitHub](https://github.com/DataWithBaraa/databricks_bootcamp_2026) · [官网](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9) · 个人维护
+⭐ 458 · Jupyter Notebook · MIT · 推送 2026-01-19 · [GitHub](https://github.com/DataWithBaraa/databricks_bootcamp_2026) · [官网](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9) · 个人维护
 
 **Databricks 数据湖仓教学项目：Medallion 架构端到端实现参考**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "DataWithBaraa/databricks_bootcamp_2026 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 450 --> 458
-    line [451, 452, 455, 454, 456, 457, 457]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 450 --> 459
+    line [451, 452, 455, 454, 456, 457, 458]
 ```
 
-2026-10-18 451 → 2026-11-01 457（+6）
+2026-10-18 451 → 2026-11-02 458（+7）
 
 
 ---

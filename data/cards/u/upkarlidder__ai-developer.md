@@ -1,6 +1,6 @@
 # upkarlidder/ai-developer
 
-⭐ 33 · Jupyter Notebook · 推送 2025-11-05 · [GitHub](https://github.com/upkarlidder/ai-developer) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **IBM 团队开设的 4 周 AI 开发者学习课程资料库**
 

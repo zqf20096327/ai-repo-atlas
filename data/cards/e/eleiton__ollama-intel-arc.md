@@ -1,6 +1,6 @@
 # eleiton/ollama-intel-arc
 
-⭐ 429 · Dockerfile · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/eleiton/ollama-intel-arc) · 个人维护
+⭐ 430 · Dockerfile · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/eleiton/ollama-intel-arc) · 个人维护
 
 **在 Intel Arc GPU 上用容器部署 Ollama、SD、Whisper 的方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eleiton/ollama-intel-arc 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 424 --> 430
-    line [425, 426, 428, 429, 429]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 424 --> 431
+    line [425, 426, 428, 429, 430]
 ```
 
-2026-10-18 425 → 2026-11-01 429（+4）
+2026-10-18 425 → 2026-11-02 430（+5）
 
 
 ---

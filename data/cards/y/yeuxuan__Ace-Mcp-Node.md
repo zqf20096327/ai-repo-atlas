@@ -46,12 +46,12 @@ Acemcp 的 Node.js/TypeScript 实现，作为 MCP 服务器向 Claude、GPT 等 
 ```mermaid
 xychart-beta
     title "yeuxuan/Ace-Mcp-Node 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-29", "2026-11-02"]
     y-axis "stars" 358 --> 360
     line [359, 359]
 ```
 
-2026-10-29 359 → 2026-11-01 359（+0）
+2026-10-29 359 → 2026-11-02 359（+0）
 
 
 ---

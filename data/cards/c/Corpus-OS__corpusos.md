@@ -1,6 +1,6 @@
 # Corpus-OS/corpusos
 
-⭐ 205 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Corpus-OS/corpusos) · [官网](https://corpusos.com) · 组织维护
+⭐ 206 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Corpus-OS/corpusos) · [官网](https://corpusos.com) · 组织维护
 
 **标准化 LLM/向量/图/嵌入基础设施的开源协议套件与 SDK**
 
@@ -46,12 +46,12 @@ Corpus OS 是一套厂商中立的协议套件与参考 SDK，覆盖 LLM、Embed
 ```mermaid
 xychart-beta
     title "Corpus-OS/corpusos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 204 --> 206
-    line [205, 205]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 204 --> 207
+    line [205, 206]
 ```
 
-2026-10-18 205 → 2026-11-01 205（+0）
+2026-10-18 205 → 2026-11-02 206（+1）
 
 
 ---

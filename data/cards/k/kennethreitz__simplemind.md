@@ -46,12 +46,12 @@ Python 库，为多家 AI 提供商（Anthropic Claude、Amazon Bedrock、Deepse
 ```mermaid
 xychart-beta
     title "kennethreitz/simplemind 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-30", "2026-11-02"]
     y-axis "stars" 536 --> 538
     line [537, 537]
 ```
 
-2026-10-30 537 → 2026-11-01 537（+0）
+2026-10-30 537 → 2026-11-02 537（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MLNLP-World/Top-AI-Conferences-Paper-with-Code
 
-⭐ 2,722 · 推送 2026-07-02 · [GitHub](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) · 组织维护 · 中文 README
+⭐ 2,723 · 推送 2026-07-02 · [GitHub](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) · 组织维护 · 中文 README
 
 **AI 顶会论文与开源代码的配对整理清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MLNLP-World/Top-AI-Conferences-Paper-with-Code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 2716 --> 2723
-    line [2717, 2719, 2720, 2721, 2722, 2722]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 2716 --> 2724
+    line [2717, 2719, 2720, 2721, 2722, 2723]
 ```
 
-2026-10-18 2,717 → 2026-11-01 2,722（+5）
+2026-10-18 2,717 → 2026-11-02 2,723（+6）
 
 
 ---

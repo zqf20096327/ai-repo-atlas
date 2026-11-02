@@ -1,6 +1,6 @@
 # jasl/cybros.ai
 
-⭐ 19 · Ruby · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/jasl/cybros.ai) · [官网](https://cybros.pages.dev/) · 个人维护
+⭐ 19 · Ruby · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/jasl/cybros.ai) · [官网](https://cybros.pages.dev/) · 个人维护
 
 **面向专业用户与小团队的自托管 agent 内核平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jasl/cybros.ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
     y-axis "stars" 6 --> 20
     line [7, 16, 19, 19]
 ```
 
-2026-10-18 7 → 2026-11-01 19（+12）
+2026-10-18 7 → 2026-11-02 19（+12）
 
 
 ---

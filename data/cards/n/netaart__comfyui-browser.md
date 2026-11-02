@@ -1,6 +1,6 @@
 # netaart/comfyui-browser
 
-⭐ 680 · Svelte · 推送 2026-08-09 · [GitHub](https://github.com/netaart/comfyui-browser) · 个人维护 · 中文 README
+⭐ 679 · Svelte · 推送 2026-08-09 · [GitHub](https://github.com/netaart/comfyui-browser) · 个人维护 · 中文 README
 
 **ComfyUI 的图像/视频/工作流浏览器与管理插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "netaart/comfyui-browser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
     y-axis "stars" 677 --> 681
-    line [678, 679, 680, 680]
+    line [678, 679, 680, 679]
 ```
 
-2026-10-18 678 → 2026-11-01 680（+2）
+2026-10-18 678 → 2026-11-02 679（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # CycloneDX/specification
 
-⭐ 570 · XSLT · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/CycloneDX/specification) · [官网](https://cyclonedx.org/) · 组织维护
+⭐ 571 · XSLT · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/CycloneDX/specification) · [官网](https://cyclonedx.org/) · 组织维护
 
 **供应链物料清单（BOM）标准规范仓库（ECMA-424）**
 
@@ -45,12 +45,12 @@ OWASP CycloneDX 规范的官方仓库：维护全栈 BOM 标准 ECMA-424 及其 
 ```mermaid
 xychart-beta
     title "CycloneDX/specification 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 565 --> 571
-    line [566, 567, 569, 570, 570]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 565 --> 572
+    line [566, 567, 569, 570, 571]
 ```
 
-2026-10-18 566 → 2026-11-01 570（+4）
+2026-10-18 566 → 2026-11-02 571（+5）
 
 
 ---

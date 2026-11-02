@@ -46,12 +46,12 @@ SmartFarmingLab 维护的农业自然场景 RGB 图像数据集精选清单，�
 ```mermaid
 xychart-beta
     title "SmartFarmingLab/field_dataset_survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-01 18（+0）
+2026-10-18 18 → 2026-11-02 18（+0）
 
 
 ---

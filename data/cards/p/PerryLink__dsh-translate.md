@@ -1,6 +1,6 @@
 # PerryLink/dsh-translate
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-translate) · [官网](https://perrylink.github.io/plugins/dsh-translate/) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/PerryLink/dsh-translate) · [官网](https://perrylink.github.io/plugins/dsh-translate/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：跨 11 家厂商参数映射与确定性 JSON 修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-translate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "PerryLink/dsh-translate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 15（+1）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

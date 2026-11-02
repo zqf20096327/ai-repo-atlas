@@ -1,6 +1,6 @@
 # yanacuti1121/Yana-AI
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/yanacuti1121/Yana-AI) · [官网](https://yana.vutam.link/) · 个人维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/yanacuti1121/Yana-AI) · [官网](https://yana.vutam.link/) · 个人维护 · 中文 README
 
 **本地优先的 AI 代理治理控制平面：管控模型可访问与执行的范围**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yanacuti1121/Yana-AI 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-11-02"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-01 11（+1）
+2026-10-23 10 → 2026-11-02 11（+1）
 
 
 ---

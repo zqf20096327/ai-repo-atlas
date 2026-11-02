@@ -1,6 +1,6 @@
 # deusjin/subforge
 
-⭐ 104 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/deusjin/subforge) · [官网](https://github.com/deusjin/subforge#readme) · 个人维护 · 中文 README
+⭐ 103 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/deusjin/subforge) · [官网](https://github.com/deusjin/subforge#readme) · 个人维护 · 中文 README
 
 **Rust CLI：把视频字幕转写、翻译、质检与压制整合为可复现管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deusjin/subforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 102 --> 105
+    line [104, 103]
 ```
 
-2026-10-18 104 → 2026-11-01 104（+0）
+2026-10-18 104 → 2026-11-02 103（-1）
 
 
 ---

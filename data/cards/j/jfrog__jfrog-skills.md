@@ -1,6 +1,6 @@
 # jfrog/jfrog-skills
 
-⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/jfrog/jfrog-skills) · 组织维护
+⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/jfrog/jfrog-skills) · 组织维护
 
 **JFrog 平台的 AI agent 技能包：用自然语言操作制品库**
 
@@ -47,12 +47,12 @@ JFrog 官方维护的一组 AI coding agent 技能：基础技能 `jfrog` 覆盖
 ```mermaid
 xychart-beta
     title "jfrog/jfrog-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-01 26（+1）
+2026-10-18 25 → 2026-11-02 26（+1）
 
 
 ---

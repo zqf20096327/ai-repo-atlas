@@ -1,6 +1,6 @@
 # shijincai/remove-veo-watermark
 
-⭐ 19 · 推送 2025-11-05 · [GitHub](https://github.com/shijincai/remove-veo-watermark) · [官网](https://sora2watermarkremover.net/remove-veo-watermark) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **在线去除 Google Veo AI 视频水印的网页工具**
 

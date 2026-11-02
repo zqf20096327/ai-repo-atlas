@@ -45,12 +45,12 @@ renocrypt.com 的源码仓库：基于 Astro 5 的静态站点（无运行时服
 ```mermaid
 xychart-beta
     title "renocrypt/renocrypt.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

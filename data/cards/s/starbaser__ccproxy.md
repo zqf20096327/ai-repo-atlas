@@ -1,6 +1,6 @@
 # starbaser/ccproxy
 
-⭐ 356 · Python · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/starbaser/ccproxy) · 个人维护
+⭐ 357 · Python · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/starbaser/ccproxy) · 个人维护
 
 **面向 Claude Code 等 LLM 客户端的网络层代理与模型路由工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "starbaser/ccproxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 354 --> 357
-    line [355, 356, 356]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 354 --> 358
+    line [355, 356, 357]
 ```
 
-2026-10-18 355 → 2026-11-01 356（+1）
+2026-10-18 355 → 2026-11-02 357（+2）
 
 
 ---

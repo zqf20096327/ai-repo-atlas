@@ -1,6 +1,6 @@
 # sanand0/llmpricing
 
-⭐ 17 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sanand0/llmpricing) · [官网](https://sanand0.github.io/llmpricing/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/sanand0/llmpricing) · [官网](https://sanand0.github.io/llmpricing/) · 个人维护
 
 **LLM 成本与质量对比图：识别帕累托前沿模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sanand0/llmpricing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 17（+0）
 
 
 ---

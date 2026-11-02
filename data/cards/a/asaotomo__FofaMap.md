@@ -1,6 +1,6 @@
 # asaotomo/FofaMap
 
-⭐ 754 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/asaotomo/FofaMap) · [官网](https://www.hx0.store/products/fofamap) · 个人维护 · 中文 README
+⭐ 755 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/asaotomo/FofaMap) · [官网](https://www.hx0.store/products/fofamap) · 个人维护 · 中文 README
 
 **FOFA 资产测绘智能体：自然语言侦察加证据分级与审批式扫描**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asaotomo/FofaMap 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 745 --> 755
-    line [746, 749, 750, 751, 750, 751, 754, 754]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 745 --> 756
+    line [746, 749, 750, 751, 750, 751, 754, 755]
 ```
 
-2026-10-18 746 → 2026-11-01 754（+8）
+2026-10-18 746 → 2026-11-02 755（+9）
 
 
 ---

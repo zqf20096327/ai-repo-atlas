@@ -1,6 +1,6 @@
 # misiektoja/kill-process-mcp
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/misiektoja/kill-process-mcp) · 个人维护
+⭐ 15 · Python · GPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/misiektoja/kill-process-mcp) · 个人维护
 
 **跨平台 MCP 服务器：让 LLM 客户端列出并终止系统进程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "misiektoja/kill-process-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

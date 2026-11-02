@@ -1,6 +1,6 @@
 # khuynh22/paper-deck
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/khuynh22/paper-deck) · [官网](https://www.ppdeck.com/) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/khuynh22/paper-deck) · [官网](https://www.ppdeck.com/) · 个人维护
 
 **聚合 arXiv/HF/Semantic Scholar 论文的多用户阅读应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "khuynh22/paper-deck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

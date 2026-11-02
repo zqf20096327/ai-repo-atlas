@@ -1,6 +1,6 @@
 # Ivan-Ayub97/Warlock-Studio
 
-⭐ 254 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/Ivan-Ayub97/Warlock-Studio) · 个人维护
+⭐ 257 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/Ivan-Ayub97/Warlock-Studio) · 个人维护
 
 **Windows 桌面套件：用多种模型做图像视频超分/修复/补帧**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ivan-Ayub97/Warlock-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 250 --> 255
-    line [252, 251, 254, 254]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 250 --> 258
+    line [252, 251, 254, 257]
 ```
 
-2026-10-18 252 → 2026-11-01 254（+2）
+2026-10-18 252 → 2026-11-02 257（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # monkilabs/opencastle
 
-⭐ 80 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/monkilabs/opencastle) · [官网](http://www.opencastle.dev/) · 组织维护
+⭐ 81 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/monkilabs/opencastle) · [官网](http://www.opencastle.dev/) · 组织维护
 
 **团队 AI 编程助手的共享记忆与配置编译层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "monkilabs/opencastle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 79 --> 82
+    line [80, 81]
 ```
 
-2026-10-18 80 → 2026-11-01 80（+0）
+2026-10-18 80 → 2026-11-02 81（+1）
 
 
 ---

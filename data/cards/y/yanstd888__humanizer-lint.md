@@ -1,6 +1,6 @@
 # yanstd888/humanizer-lint
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/yanstd888/humanizer-lint) · [官网](https://humanizer.aiclub.ai.id/) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yanstd888/humanizer-lint) · [官网](https://humanizer.aiclub.ai.id/) · 个人维护
 
 **检测 AI 腔调与散文风格的本地确定性 linter（CLI）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yanstd888/humanizer-lint 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 3 --> 30
-    line [5, 28]
+    title "yanstd888/humanizer-lint 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3 --> 34
+    line [5, 28, 32]
 ```
 
-2026-10-31 5 → 2026-11-01 28（+23）
+2026-10-31 5 → 2026-11-02 32（+27）
 
 
 ---

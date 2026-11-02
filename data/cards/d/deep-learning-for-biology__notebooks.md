@@ -43,13 +43,13 @@ O'Reilly 图书《Deep Learning for Biology》的伴随仓库，提供第 2-6 �
 
 ```mermaid
 xychart-beta
-    title "deep-learning-for-biology/notebooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01"]
+    title "deep-learning-for-biology/notebooks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 147 --> 150
-    line [148, 149, 148, 149]
+    line [148, 149, 148, 149, 149]
 ```
 
-2026-10-18 148 → 2026-11-01 149（+1）
+2026-10-18 148 → 2026-11-02 149（+1）
 
 
 ---

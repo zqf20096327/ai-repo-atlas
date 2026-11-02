@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    title "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 5 --> 22
-    line [6, 17, 21]
+    line [6, 17, 21, 21]
 ```
 
-2026-10-30 6 → 2026-11-01 21（+15）
+2026-10-30 6 → 2026-11-02 21（+15）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PacificStudio/openase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "PacificStudio/openase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 268 --> 271
-    line [269, 270]
+    line [269, 270, 270]
 ```
 
-2026-10-18 269 → 2026-11-01 270（+1）
+2026-10-18 269 → 2026-11-02 270（+1）
 
 
 ---

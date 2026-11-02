@@ -44,13 +44,13 @@ SekaiBlender 是 Blender 的 GPL-2.0+ 源码分支，以独立 Windows x64 应�
 
 ```mermaid
 xychart-beta
-    title "ShiJieWorld/SekaiBlender 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
+    title "ShiJieWorld/SekaiBlender 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 16 --> 22
-    line [17, 18, 19, 21]
+    line [17, 18, 19, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-01 21（+4）
+2026-10-18 17 → 2026-11-02 21（+4）
 
 
 ---

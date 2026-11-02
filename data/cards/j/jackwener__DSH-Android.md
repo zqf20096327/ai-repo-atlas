@@ -1,6 +1,6 @@
 # jackwener/DSH-Android
 
-⭐ 617 · Kotlin · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/jackwener/DSH-Android) · 个人维护 · 中文 README
+⭐ 691 · Kotlin · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/jackwener/DSH-Android) · 个人维护 · 中文 README
 
 **免 ROOT 免 Termux 的安卓 DeepSeek Harness 手机 Agent 应用**
 
@@ -40,6 +40,18 @@
 
 > L3: 不要 root，不用电脑，直接跑在你的安卓手机上。真正的手机 Agent，替你把手机上的事干完。
 > L18: - **手机上的 App 都能操作**：用微信发消息、总结群聊，抓取小红书上的内容，在 BOSS 直聘上直接投递、打招呼，去淘宝帮你下单，等等。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jackwener/DSH-Android 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 610 --> 698
+    line [617, 691]
+```
+
+2026-11-01 617 → 2026-11-02 691（+74）
 
 
 ---

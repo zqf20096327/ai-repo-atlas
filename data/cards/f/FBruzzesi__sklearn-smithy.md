@@ -1,6 +1,6 @@
 # FBruzzesi/sklearn-smithy
 
-⭐ 19 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/FBruzzesi/sklearn-smithy) · [官网](https://sklearn-smithy.streamlit.app/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/FBruzzesi/sklearn-smithy) · [官网](https://sklearn-smithy.streamlit.app/) · 个人维护
 
 **生成 scikit-learn 兼容估计器样板代码的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FBruzzesi/sklearn-smithy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

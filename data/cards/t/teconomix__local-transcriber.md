@@ -1,6 +1,6 @@
 # teconomix/local-transcriber
 
-⭐ 11 · Swift · MIT · 推送 2026-10-30 · [GitHub](https://github.com/teconomix/local-transcriber) · [官网](https://transcriber.teconomix.net/en/?k=gh-home) · 个人维护
+⭐ 11 · Swift · MIT · 推送 2026-10-31 · [GitHub](https://github.com/teconomix/local-transcriber) · [官网](https://transcriber.teconomix.net/en/?k=gh-home) · 个人维护
 
 **macOS 菜单栏本地转录工具：会议录音转写与说话人识别**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "teconomix/local-transcriber 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-26 10 → 2026-11-01 11（+1）
+2026-10-26 10 → 2026-11-02 11（+1）
 
 
 ---

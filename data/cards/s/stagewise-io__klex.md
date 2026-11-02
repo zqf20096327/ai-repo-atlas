@@ -1,6 +1,6 @@
 # stagewise-io/klex
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/stagewise-io/klex) · [官网](https://klex.bot) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/stagewise-io/klex) · [官网](https://klex.bot) · 组织维护
 
 **可自托管、模型无关的自治数字同事 bot 框架**
 
@@ -39,6 +39,18 @@ Klex 提供隔离运行、可观测的自治 agent bot，通过 MCP 连接工具
 
 > L3: Isolated, observable, autonomous bots that **excel at memory and self-improvement**. Tools, machines and coding envi
 > L42: ### Klex bots are *mcp-native*
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stagewise-io/klex 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-01 11 → 2026-11-02 11（+0）
 
 
 ---

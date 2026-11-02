@@ -1,6 +1,6 @@
 # AgentsKit-io/agentskit
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AgentsKit-io/agentskit) · [官网](https://www.agentskit.io/) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/AgentsKit-io/agentskit) · [官网](https://www.agentskit.io/) · 个人维护
 
 **给 JS 开发者的 AI agent 构建工具包：24 个可组合包，从聊天 UI 到自主 agent**
 
@@ -45,13 +45,13 @@ JavaScript/TypeScript 的 AI agent 工具集，由 24 个独立可用的 npm 包
 
 ```mermaid
 xychart-beta
-    title "AgentsKit-io/agentskit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    title "AgentsKit-io/agentskit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38]
+    line [36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-01 38（+2）
+2026-10-18 36 → 2026-11-02 38（+2）
 
 
 ---

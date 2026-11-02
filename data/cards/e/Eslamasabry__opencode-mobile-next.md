@@ -1,6 +1,6 @@
 # Eslamasabry/opencode-mobile-next
 
-⭐ 17 · Dart · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Eslamasabry/opencode-mobile-next) · [官网](https://eslamasabry.github.io/opencode-mobile-next/) · 个人维护
+⭐ 18 · Dart · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Eslamasabry/opencode-mobile-next) · [官网](https://eslamasabry.github.io/opencode-mobile-next/) · 个人维护
 
 **在 Android 手机上运行编码 agent 的 Flutter 客户端**
 
@@ -45,13 +45,13 @@ Flutter 编写的 Android 应用（含 Kotlin 原生部分），让用户在手�
 
 ```mermaid
 xychart-beta
-    title "Eslamasabry/opencode-mobile-next 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 7 --> 18
-    line [8, 11, 13, 14, 15, 17]
+    title "Eslamasabry/opencode-mobile-next 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 7 --> 19
+    line [8, 11, 13, 14, 15, 17, 18]
 ```
 
-2026-10-18 8 → 2026-11-01 17（+9）
+2026-10-18 8 → 2026-11-02 18（+10）
 
 
 ---

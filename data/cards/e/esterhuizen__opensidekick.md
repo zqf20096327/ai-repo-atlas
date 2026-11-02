@@ -1,6 +1,6 @@
 # esterhuizen/opensidekick
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/esterhuizen/opensidekick) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/esterhuizen/opensidekick) · 个人维护
 
 **供用户自带任意 LLM 的 Chrome 开源浏览器操作 Agent 侧边栏扩展**
 
@@ -46,12 +46,12 @@ MV3 Chrome 扩展，在侧边栏提供感知当前页面的对话与代理式浏
 ```mermaid
 xychart-beta
     title "esterhuizen/opensidekick 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15, 15]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 14, 15, 16]
 ```
 
-2026-10-19 11 → 2026-11-01 15（+4）
+2026-10-19 11 → 2026-11-02 16（+5）
 
 
 ---

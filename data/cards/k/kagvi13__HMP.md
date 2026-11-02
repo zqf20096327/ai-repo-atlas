@@ -1,6 +1,6 @@
 # kagvi13/HMP
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/kagvi13/HMP) · 个人维护 · 中文 README
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/kagvi13/HMP) · 个人维护 · 中文 README
 
 **AI agent 去中心化认知网络协议规范与 Python 参考实现**
 
@@ -46,12 +46,12 @@ HyperCortex Mesh Protocol（HMP）是一份开放协议规范（v5.0.8），定�
 ```mermaid
 xychart-beta
     title "kagvi13/HMP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-01 12（-1）
+2026-10-18 13 → 2026-11-02 12（-1）
 
 
 ---

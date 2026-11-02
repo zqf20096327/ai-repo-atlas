@@ -1,6 +1,6 @@
 # winstonkoh87/Athena-Public
 
-⭐ 620 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
+⭐ 620 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
 
 **本地优先的 AI agent 记忆/决策/治理框架，跨 IDE 便携**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "winstonkoh87/Athena-Public 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01"]
+    title "winstonkoh87/Athena-Public 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 615 --> 622
-    line [616, 619, 620, 621, 620]
+    line [616, 619, 620, 621, 620, 620]
 ```
 
-2026-10-18 616 → 2026-11-01 620（+4）
+2026-10-18 616 → 2026-11-02 620（+4）
 
 
 ---

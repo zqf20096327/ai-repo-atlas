@@ -1,6 +1,6 @@
 # mthamil107/prompt-shield
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mthamil107/prompt-shield) · [官网](https://mthamil107.github.io/prompt-shield/) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mthamil107/prompt-shield) · [官网](https://mthamil107.github.io/prompt-shield/) · 个人维护
 
 **面向 LLM 应用的提示注入防火墙：35 个输入检测器+9 个输出扫描器**
 
@@ -47,12 +47,12 @@ Python 库，为 LLM 应用提供提示注入防护：35 个输入检测器（10
 ```mermaid
 xychart-beta
     title "mthamil107/prompt-shield 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-01 18（+1）
+2026-10-18 17 → 2026-11-02 19（+2）
 
 
 ---

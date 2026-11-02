@@ -1,6 +1,6 @@
 # amitshekhariitbhu/llm-inference-engineering
 
-⭐ 394 · Markdown · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amitshekhariitbhu/llm-inference-engineering) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 394 · Markdown · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/amitshekhariitbhu/llm-inference-engineering) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **LLM 推理工程系列教程：逐步讲解 KV cache、批处理与推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/llm-inference-engineering 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "amitshekhariitbhu/llm-inference-engineering 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 343 --> 398
-    line [347, 374, 376, 377, 381, 385, 386, 387, 389, 391, 394]
+    line [347, 374, 376, 377, 381, 385, 386, 387, 389, 391, 394, 394]
 ```
 
-2026-10-18 347 → 2026-11-01 394（+47）
+2026-10-18 347 → 2026-11-02 394（+47）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "demwick/polymarket-agent-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "demwick/polymarket-agent-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 15 --> 19
-    line [16, 18]
+    line [16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-01 18（+2）
+2026-10-18 16 → 2026-11-02 18（+2）
 
 
 ---

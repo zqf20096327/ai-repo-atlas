@@ -1,6 +1,6 @@
 # ZeroTang05/VideoAdGuard
 
-⭐ 762 · TypeScript · GPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
+⭐ 763 · TypeScript · GPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
 
 **基于大语言模型的B站视频植入广告检测与跳过浏览器插件**
 
@@ -45,12 +45,12 @@ VideoAdGuard 是面向B站观众的浏览器插件（Edge/Chrome/Firefox 及油�
 ```mermaid
 xychart-beta
     title "ZeroTang05/VideoAdGuard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
     y-axis "stars" 760 --> 766
-    line [765, 761, 762, 762]
+    line [765, 761, 762, 763]
 ```
 
-2026-10-18 765 → 2026-11-01 762（-3）
+2026-10-18 765 → 2026-11-02 763（-2）
 
 
 ---

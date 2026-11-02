@@ -1,6 +1,6 @@
 # nyaomaru/changelog-bot
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nyaomaru/changelog-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 LLM 从 Git 历史与 PR 自动生成 changelog 的 CLI/GitHub Action**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

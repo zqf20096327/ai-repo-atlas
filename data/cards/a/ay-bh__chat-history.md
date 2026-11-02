@@ -46,12 +46,12 @@ Rust 编写的 CLI 工具，读取本机的 Claude Code、OpenAI Codex 与 Curso
 ```mermaid
 xychart-beta
     title "ay-bh/chat-history 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

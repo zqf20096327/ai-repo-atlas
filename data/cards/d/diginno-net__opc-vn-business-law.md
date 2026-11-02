@@ -1,6 +1,6 @@
 # diginno-net/opc-vn-business-law
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/diginno-net/opc-vn-business-law) · [官网](https://diginno.net) · 组织维护
+⭐ 101 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/diginno-net/opc-vn-business-law) · [官网](https://diginno.net) · 组织维护
 
 **越南一人公司法律–税务–会计参考 Skill，供 AI agent 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diginno-net/opc-vn-business-law 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 64 --> 102
-    line [67, 73, 74, 75, 78, 79, 87, 97, 99]
+    title "diginno-net/opc-vn-business-law 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 64 --> 104
+    line [67, 73, 74, 75, 78, 79, 87, 97, 99, 101]
 ```
 
-2026-10-19 67 → 2026-11-01 99（+32）
+2026-10-19 67 → 2026-11-02 101（+34）
 
 
 ---

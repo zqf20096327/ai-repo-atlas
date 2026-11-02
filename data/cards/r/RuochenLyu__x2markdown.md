@@ -45,13 +45,13 @@ Manifest V3 Chrome 扩展：在任意 http/https 页面右键即可复制为 Mar
 
 ```mermaid
 xychart-beta
-    title "RuochenLyu/x2markdown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    title "RuochenLyu/x2markdown 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15]
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-01 15（+2）
+2026-10-18 13 → 2026-11-02 15（+2）
 
 
 ---

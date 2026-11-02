@@ -1,6 +1,6 @@
 # kYangLi/DeepH-pack-docs
 
-⭐ 28 · Python · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/kYangLi/DeepH-pack-docs) · [官网](https://docs.deeph-pack.com/deeph-pack) · 组织维护
+⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/kYangLi/DeepH-pack-docs) · [官网](https://docs.deeph-pack.com/deeph-pack) · 组织维护
 
 **用神经网络做密度泛函理论电子结构计算的通用软件包**
 
@@ -46,12 +46,12 @@ DeepH 系列方法的统一软件包，基于 JAX 与 Flax 重写，用于深度
 ```mermaid
 xychart-beta
     title "kYangLi/DeepH-pack-docs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
     y-axis "stars" 25 --> 29
     line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-01 28（+2）
+2026-10-18 26 → 2026-11-02 28（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/openai-live-console
 
-⭐ 34 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/openai/openai-live-console) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/openai/openai-live-console) · 组织维护
 
 **面向 gpt-live-1 的本地语音控制台示例，含只读工具与后端委托**
 
@@ -46,12 +46,12 @@ OpenAI 官方提供的本地语音控制台教学示例：用户通过浏览器�
 ```mermaid
 xychart-beta
     title "openai/openai-live-console 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 23 --> 35
-    line [24, 29, 30, 32, 34, 34]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 23 --> 36
+    line [24, 29, 30, 32, 34, 35]
 ```
 
-2026-10-18 24 → 2026-11-01 34（+10）
+2026-10-18 24 → 2026-11-02 35（+11）
 
 
 ---

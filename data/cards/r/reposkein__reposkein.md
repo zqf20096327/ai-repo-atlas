@@ -1,6 +1,6 @@
 # reposkein/reposkein
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/reposkein/reposkein) · [官网](https://www.npmjs.com/package/@reposkein/mcp) · 个人维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/reposkein/reposkein) · [官网](https://www.npmjs.com/package/@reposkein/mcp) · 个人维护
 
 **为 AI 编程 agent 提供代码库代码图谱的本地 MCP 服务**
 
@@ -45,12 +45,12 @@ RepoSkein 用 Tree-sitter 为代码库构建确定性的 Code Property Graph（�
 ```mermaid
 xychart-beta
     title "reposkein/reposkein 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

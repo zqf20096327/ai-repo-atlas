@@ -45,13 +45,13 @@ SwiftUI 编写的本地优先 AI 工作台，在 iPhone 与 Apple silicon Mac（
 
 ```mermaid
 xychart-beta
-    title "Mesutcydev/ios-local-llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    title "Mesutcydev/ios-local-llm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 13, 14]
+    line [10, 11, 13, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-01 14（+4）
+2026-10-18 10 → 2026-11-02 14（+4）
 
 
 ---

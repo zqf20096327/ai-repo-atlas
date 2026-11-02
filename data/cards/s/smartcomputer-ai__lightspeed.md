@@ -1,6 +1,6 @@
 # smartcomputer-ai/lightspeed
 
-⭐ 268 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/smartcomputer-ai/lightspeed) · [官网](https://ls.bot/) · 组织维护
+⭐ 269 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/smartcomputer-ai/lightspeed) · [官网](https://ls.bot/) · 组织维护
 
 **Rust 编写的托管 agent 舰队基础设施，基于 Temporal 持久工作流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "smartcomputer-ai/lightspeed 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 261 --> 269
-    line [262, 264, 265, 266, 267, 268, 268]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 261 --> 270
+    line [262, 264, 265, 266, 267, 268, 269]
 ```
 
-2026-10-18 262 → 2026-11-01 268（+6）
+2026-10-18 262 → 2026-11-02 269（+7）
 
 
 ---

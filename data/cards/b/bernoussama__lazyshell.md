@@ -1,6 +1,6 @@
 # bernoussama/lazyshell
 
-⭐ 44 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/bernoussama/lazyshell) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/bernoussama/lazyshell) · 个人维护
 
 **自然语言生成并执行 shell 命令的 AI CLI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bernoussama/lazyshell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-11-01 44（+0）
+2026-10-18 44 → 2026-11-02 45（+1）
 
 
 ---

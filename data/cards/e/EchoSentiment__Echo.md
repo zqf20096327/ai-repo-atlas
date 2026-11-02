@@ -45,12 +45,12 @@ Echo 追踪 Solana 代币的 Crypto Twitter 提及，将相似声明聚类为叙
 ```mermaid
 xychart-beta
     title "EchoSentiment/Echo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 23（+0）
 
 
 ---

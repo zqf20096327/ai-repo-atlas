@@ -1,6 +1,6 @@
 # spxrogers/agentsync
 
-⭐ 38 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/spxrogers/agentsync) · [官网](https://agentsync.cc) · 个人维护
+⭐ 39 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/spxrogers/agentsync) · [官网](https://agentsync.cc) · 个人维护
 
 **AI 编码代理配置同步 CLI：一处定义，32 个代理生效**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具，将 MCP 服务器、memory、skills、插件等配
 ```mermaid
 xychart-beta
     title "spxrogers/agentsync 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 34 --> 39
-    line [35, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 34 --> 40
+    line [35, 37, 38, 39]
 ```
 
-2026-10-18 35 → 2026-11-01 38（+3）
+2026-10-18 35 → 2026-11-02 39（+4）
 
 
 ---

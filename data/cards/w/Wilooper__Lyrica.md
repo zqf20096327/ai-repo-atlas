@@ -1,6 +1,6 @@
 # Wilooper/Lyrica
 
-⭐ 74 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Wilooper/Lyrica) · [官网](https://test-0k.onrender.com) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Wilooper/Lyrica) · [官网](https://test-0k.onrender.com) · 个人维护
 
 **自托管歌词 REST API：聚合 8 源并支持 AI 翻译与多级同步**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Wilooper/Lyrica 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 66 --> 75
-    line [67, 69, 71, 73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 66 --> 77
+    line [67, 69, 71, 73, 74, 76]
 ```
 
-2026-10-18 67 → 2026-11-01 74（+7）
+2026-10-18 67 → 2026-11-02 76（+9）
 
 
 ---

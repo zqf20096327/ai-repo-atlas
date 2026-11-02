@@ -1,6 +1,6 @@
 # velocitybolt/open-extract
 
-⭐ 192 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/velocitybolt/open-extract) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/velocitybolt/open-extract) · 组织维护
 
 **给 AI Agent 的结构化数据提取工具：从文档/网页提取为 JSON/Markdown**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "velocitybolt/open-extract 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 190 --> 193
-    line [191, 192]
+    title "velocitybolt/open-extract 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 190 --> 194
+    line [191, 192, 193]
 ```
 
-2026-10-18 191 → 2026-11-01 192（+1）
+2026-10-18 191 → 2026-11-02 193（+2）
 
 
 ---

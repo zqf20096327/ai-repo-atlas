@@ -1,6 +1,6 @@
 # 4paradigm/OpenMLDB
 
-⭐ 1,714 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/4paradigm/OpenMLDB) · [官网](https://openmldb.ai) · 组织维护 · 中文 README
+⭐ 1,715 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/4paradigm/OpenMLDB) · [官网](https://openmldb.ai) · 组织维护 · 中文 README
 
 **面向机器学习应用的特性计算数据库，训练与推理特性一致**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "4paradigm/OpenMLDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "4paradigm/OpenMLDB 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1713 --> 1716
-    line [1715, 1714]
+    line [1715, 1714, 1715]
 ```
 
-2026-10-18 1,715 → 2026-11-01 1,714（-1）
+2026-10-18 1,715 → 2026-11-02 1,715（+0）
 
 
 ---

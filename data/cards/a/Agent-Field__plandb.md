@@ -1,6 +1,6 @@
 # Agent-Field/plandb
 
-⭐ 109 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Agent-Field/plandb) · [官网](https://agentfield.ai/) · 组织维护
+⭐ 110 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Agent-Field/plandb) · [官网](https://agentfield.ai/) · 组织维护
 
 **面向 AI agent 的本地优先任务/问题跟踪器（单二进制+SQLite）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Agent-Field/plandb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 106 --> 110
-    line [107, 108, 109, 109]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 106 --> 111
+    line [107, 108, 109, 110]
 ```
 
-2026-10-18 107 → 2026-11-01 109（+2）
+2026-10-18 107 → 2026-11-02 110（+3）
 
 
 ---

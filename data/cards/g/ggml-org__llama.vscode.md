@@ -1,6 +1,6 @@
 # ggml-org/llama.vscode
 
-⭐ 1,549 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ggml-org/llama.vscode) · 组织维护
+⭐ 1,549 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ggml-org/llama.vscode) · 组织维护
 
 **VS Code 本地 LLM 代码补全与 Agent 编程扩展**
 
@@ -45,12 +45,12 @@ ggml.org 维护的 VS Code 扩展，基于 llama.cpp 提供本地 FIM 代码/文
 ```mermaid
 xychart-beta
     title "ggml-org/llama.vscode 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-02"]
     y-axis "stars" 1543 --> 1551
     line [1544, 1546, 1547, 1548, 1549, 1550, 1549, 1549]
 ```
 
-2026-10-18 1,544 → 2026-11-01 1,549（+5）
+2026-10-18 1,544 → 2026-11-02 1,549（+5）
 
 
 ---

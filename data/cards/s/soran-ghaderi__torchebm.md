@@ -1,6 +1,6 @@
 # soran-ghaderi/torchebm
 
-⭐ 117 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/soran-ghaderi/torchebm) · [官网](https://soran-ghaderi.github.io/torchebm/) · 个人维护
+⭐ 117 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/soran-ghaderi/torchebm) · [官网](https://soran-ghaderi.github.io/torchebm/) · 个人维护
 
 **PyTorch 生成式建模库：EBM、扩散、流匹配的统一原语**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "soran-ghaderi/torchebm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "soran-ghaderi/torchebm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 115 --> 118
-    line [116, 117]
+    line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-11-01 117（+1）
+2026-10-18 116 → 2026-11-02 117（+1）
 
 
 ---

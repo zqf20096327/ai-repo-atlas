@@ -1,6 +1,6 @@
 # peterpoal134/memory-brain
 
-⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/peterpoal134/memory-brain) · 个人维护 · 中文 README
+⭐ 82 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/peterpoal134/memory-brain) · 个人维护 · 中文 README
 
 **给 AstrBot 的长期记忆与生活层插件套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "peterpoal134/memory-brain 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 0 --> 53
-    line [3, 20, 30, 49]
+    title "peterpoal134/memory-brain 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 89
+    line [3, 20, 30, 49, 82]
 ```
 
-2026-10-29 3 → 2026-11-01 49（+46）
+2026-10-29 3 → 2026-11-02 82（+79）
 
 
 ---

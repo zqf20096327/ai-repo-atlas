@@ -1,6 +1,6 @@
 # shauryagangrade/awesome-ai-prompts
 
-⭐ 76 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shauryagangrade/awesome-ai-prompts) · [官网](https://awesome-ai-prompts.vercel.app) · 个人维护
+⭐ 76 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/shauryagangrade/awesome-ai-prompts) · [官网](https://awesome-ai-prompts.vercel.app) · 个人维护
 
 **面向 AI 编码代理的可复制提示词策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shauryagangrade/awesome-ai-prompts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
     y-axis "stars" 72 --> 77
     line [73, 74, 76, 76]
 ```
 
-2026-10-18 73 → 2026-11-01 76（+3）
+2026-10-18 73 → 2026-11-02 76（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # RobThePCGuy/Claude-Patent-Creator
 
-⭐ 206 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
+⭐ 207 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
 
 **面向 Claude Code 的美国专利起草与检索系统（MCP 服务器+插件）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RobThePCGuy/Claude-Patent-Creator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 200 --> 207
-    line [201, 202, 203, 204, 205, 206, 206]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 200 --> 208
+    line [201, 202, 203, 204, 205, 206, 207]
 ```
 
-2026-10-18 201 → 2026-11-01 206（+5）
+2026-10-18 201 → 2026-11-02 207（+6）
 
 
 ---

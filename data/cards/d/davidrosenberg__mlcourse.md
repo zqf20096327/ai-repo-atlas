@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "davidrosenberg/mlcourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "davidrosenberg/mlcourse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 585 --> 588
-    line [587, 586]
+    line [587, 586, 586]
 ```
 
-2026-10-18 587 → 2026-11-01 586（-1）
+2026-10-18 587 → 2026-11-02 586（-1）
 
 
 ---

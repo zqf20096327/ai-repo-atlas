@@ -45,12 +45,12 @@ Python 网页抓取与清洗库，同时可作为 MCP server 供 Claude Desktop�
 ```mermaid
 xychart-beta
     title "leba01/stealthfetch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

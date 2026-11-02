@@ -45,13 +45,13 @@ GIANT 风格的全切片病理图像（WSI）导航环境加评测运行器：LL
 
 ```mermaid
 xychart-beta
-    title "The-Obstacle-Is-The-Way/gigapixel-goblin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    title "The-Obstacle-Is-The-Way/gigapixel-goblin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 18]
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-01 18（+2）
+2026-10-18 16 → 2026-11-02 18（+2）
 
 
 ---

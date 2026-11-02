@@ -1,6 +1,6 @@
 # Tanveer81/ReVisionLLM
 
-⭐ 45 · Python · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/Tanveer81/ReVisionLLM) · [官网](https://arxiv.org/abs/2411.14901) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在小时级长视频中定位事件时刻的递归视觉-语言模型**
 
@@ -11,7 +11,7 @@ CVPR 2025 论文 ReVisionLLM 的官方实现：一个递归视觉-语言模型�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

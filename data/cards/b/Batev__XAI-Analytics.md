@@ -1,6 +1,6 @@
 # Batev/XAI-Analytics
 
-⭐ 12 · HTML · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/Batev/XAI-Analytics) · 组织维护
+⭐ 12 · HTML · BSD-3-Clause · 推送 2026-11-01 · [GitHub](https://github.com/Batev/XAI-Analytics) · 组织维护
 
 **面向用户的机器学习可解释性分析 Jupyter 工具**
 
@@ -39,6 +39,18 @@
 
 > L3: XAI-Analytics is a tool that opens the black-box of machine learning. It makes model interpretability easy.
 > L4: **XAI-Analytics** offers a wide range of features such as data visualization, data preprocessing, ML-model training 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Batev/XAI-Analytics 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-01 12 → 2026-11-02 12（+0）
 
 
 ---

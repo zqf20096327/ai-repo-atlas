@@ -1,6 +1,6 @@
 # dynamicslab/pysindy
 
-⭐ 1,928 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/dynamicslab/pysindy) · [官网](https://pysindy.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,929 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/dynamicslab/pysindy) · [官网](https://pysindy.readthedocs.io/en/latest/) · 组织维护
 
 **从测量数据稀疏辨识非线性动力学方程的 Python 库**
 
@@ -45,12 +45,12 @@ PySINDy 实现系统辨识方法 SINDy（Brunton et al. 2016a）及文献中的�
 ```mermaid
 xychart-beta
     title "dynamicslab/pysindy 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1915 --> 1929
-    line [1916, 1919, 1923, 1924, 1925, 1927, 1928, 1928]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1915 --> 1930
+    line [1916, 1919, 1923, 1924, 1925, 1927, 1928, 1929]
 ```
 
-2026-10-18 1,916 → 2026-11-01 1,928（+12）
+2026-10-18 1,916 → 2026-11-02 1,929（+13）
 
 
 ---

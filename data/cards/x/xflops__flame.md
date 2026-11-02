@@ -1,6 +1,6 @@
 # xflops/flame
 
-⭐ 55 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/xflops/flame) · [官网](https://xflops.io) · 组织维护
+⭐ 55 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/xflops/flame) · [官网](https://xflops.io) · 组织维护
 
 **分布式弹性工作负载运行时引擎，支撑 AI Agent、RL、量化计算**
 
@@ -45,13 +45,13 @@ Flame 是面向弹性工作负载（AI Agent、强化学习、量化计算）的
 
 ```mermaid
 xychart-beta
-    title "xflops/flame 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    title "xflops/flame 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 53 --> 57
-    line [54, 56, 55]
+    line [54, 56, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-01 55（+1）
+2026-10-18 54 → 2026-11-02 55（+1）
 
 
 ---

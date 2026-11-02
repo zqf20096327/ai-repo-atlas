@@ -1,6 +1,6 @@
 # Djarvur/go-ultimate
 
-⭐ 31 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Djarvur/go-ultimate) · [官网](https://github.com/Djarvur/cc-mplace) · 个人维护
+⭐ 31 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Djarvur/go-ultimate) · [官网](https://github.com/Djarvur/cc-mplace) · 个人维护
 
 **面向多家 agent 宿主的 Go 编程技能包：路由 Go 任务到架构与规范**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Djarvur/go-ultimate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-01 31（+1）
+2026-10-18 30 → 2026-11-02 31（+1）
 
 
 ---

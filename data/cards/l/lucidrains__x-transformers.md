@@ -1,6 +1,6 @@
 # lucidrains/x-transformers
 
-⭐ 5,962 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lucidrains/x-transformers) · 个人维护
+⭐ 5,962 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lucidrains/x-transformers) · 个人维护
 
 **为研究者提供的全功能 PyTorch transformer 实验库**
 
@@ -44,13 +44,13 @@ lucidrains 维护的 PyTorch transformer 组件库：提供 encoder-only（BERT 
 
 ```mermaid
 xychart-beta
-    title "lucidrains/x-transformers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01"]
+    title "lucidrains/x-transformers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02"]
     y-axis "stars" 5958 --> 5963
-    line [5959, 5960, 5961, 5962]
+    line [5959, 5960, 5961, 5962, 5962]
 ```
 
-2026-10-18 5,959 → 2026-11-01 5,962（+3）
+2026-10-18 5,959 → 2026-11-02 5,962（+3）
 
 
 ---

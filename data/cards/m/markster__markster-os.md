@@ -45,13 +45,13 @@ Markster OS 是一套基于 ScaleOS 方法论的 B2B GTM（进入市场）操作
 
 ```mermaid
 xychart-beta
-    title "markster/markster-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "markster/markster-os 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 50 --> 53
-    line [51, 52]
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-01 52（+1）
+2026-10-18 51 → 2026-11-02 52（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tang-vu/ContribAI
 
-⭐ 246 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tang-vu/ContribAI) · [官网](https://contribai-topaz.vercel.app/) · 个人维护
+⭐ 245 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/tang-vu/ContribAI) · [官网](https://contribai-topaz.vercel.app/) · 个人维护
 
 **面向维护者治理的 AI 开源贡献提案工具：证据与准入层**
 
@@ -45,12 +45,12 @@ Rust 实现的 CLI/TUI/MCP 工具，用于分析代码仓库并生成小规模�
 ```mermaid
 xychart-beta
     title "tang-vu/ContribAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 244 --> 247
-    line [245, 246, 246]
+    line [245, 246, 245]
 ```
 
-2026-10-18 245 → 2026-11-01 246（+1）
+2026-10-18 245 → 2026-11-02 245（+0）
 
 
 ---

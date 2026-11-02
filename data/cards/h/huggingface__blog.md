@@ -1,6 +1,6 @@
 # huggingface/blog
 
-⭐ 3,550 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/blog) · [官网](https://hf.co/blog) · 组织维护
+⭐ 3,551 · Jupyter Notebook · 推送 2026-11-01 · [GitHub](https://github.com/huggingface/blog) · [官网](https://hf.co/blog) · 组织维护
 
 **Hugging Face 官方博客文章仓库：博客投稿与发布流程**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/blog 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 3546 --> 3551
-    line [3548, 3547, 3548, 3547, 3548, 3549, 3550]
+    title "huggingface/blog 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3546 --> 3552
+    line [3548, 3547, 3548, 3547, 3548, 3549, 3550, 3551]
 ```
 
-2026-10-18 3,548 → 2026-11-01 3,550（+2）
+2026-10-18 3,548 → 2026-11-02 3,551（+3）
 
 
 ---

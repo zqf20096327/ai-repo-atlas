@@ -1,6 +1,6 @@
 # fxerkan/concealer
 
-⭐ 15 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fxerkan/concealer) · [官网](https://fxerkan.github.io/concealer/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fxerkan/concealer) · [官网](https://fxerkan.github.io/concealer/) · 个人维护
 
 **本地优先的密钥管理器，让 AI agent 用密钥而不见明文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fxerkan/concealer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

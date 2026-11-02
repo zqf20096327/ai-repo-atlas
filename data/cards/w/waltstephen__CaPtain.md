@@ -1,6 +1,6 @@
 # waltstephen/CaPtain
 
-⭐ 29 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/waltstephen/CaPtain) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/waltstephen/CaPtain) · 组织维护
 
 **把小视觉语言模型后训练成代码即策略机器人智能体的开源全流程管线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "waltstephen/CaPtain 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 26 --> 30
-    line [27, 29]
+    title "waltstephen/CaPtain 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 26 --> 32
+    line [27, 29, 31]
 ```
 
-2026-10-31 27 → 2026-11-01 29（+2）
+2026-10-31 27 → 2026-11-02 31（+4）
 
 
 ---

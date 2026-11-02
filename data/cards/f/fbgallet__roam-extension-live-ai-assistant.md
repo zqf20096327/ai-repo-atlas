@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fbgallet/roam-extension-live-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-11-01 62（+0）
+2026-10-18 62 → 2026-11-02 62（+0）
 
 
 ---

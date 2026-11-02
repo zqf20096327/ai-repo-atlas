@@ -43,13 +43,13 @@ coze-dev 维护的 Coze API 官方 JavaScript SDK monorepo，包含四个 npm �
 
 ```mermaid
 xychart-beta
-    title "coze-dev/coze-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "coze-dev/coze-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 291 --> 294
-    line [292, 293]
+    line [292, 293, 293]
 ```
 
-2026-10-18 292 → 2026-11-01 293（+1）
+2026-10-18 292 → 2026-11-02 293（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L88: |模型API地址、Key、模型ID|使用自己的Chat Completions兼容模型；连接测试会产生真实调用|
 > L116: |💬 模型与聊天|Chat Completions兼容API、真实文本连接测试、持续对话|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "duliangkuan/raise-an-ai 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 103 --> 105
+    line [104, 104]
+```
+
+2026-11-01 104 → 2026-11-02 104（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `5f415a1e479d` · [字段定义](../../DATASET.md)*

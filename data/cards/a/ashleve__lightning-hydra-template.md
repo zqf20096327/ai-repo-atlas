@@ -1,6 +1,6 @@
 # ashleve/lightning-hydra-template
 
-⭐ 5,379 · Python · 推送 2026-06-11 · [GitHub](https://github.com/ashleve/lightning-hydra-template) · 个人维护
+⭐ 5,380 · Python · 推送 2026-06-11 · [GitHub](https://github.com/ashleve/lightning-hydra-template) · 个人维护
 
 **深度学习实验项目模板：PyTorch Lightning + Hydra 快速起步**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashleve/lightning-hydra-template 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 5366 --> 5380
-    line [5367, 5368, 5369, 5371, 5372, 5374, 5375, 5377, 5379]
+    title "ashleve/lightning-hydra-template 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 5366 --> 5381
+    line [5367, 5368, 5369, 5371, 5372, 5374, 5375, 5377, 5379, 5380]
 ```
 
-2026-10-18 5,367 → 2026-11-01 5,379（+12）
+2026-10-18 5,367 → 2026-11-02 5,380（+13）
 
 
 ---

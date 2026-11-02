@@ -1,6 +1,6 @@
 # neatlogs/neatroots
 
-⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/neatlogs/neatroots) · 组织维护
+⭐ 80 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/neatlogs/neatroots) · 组织维护
 
 **本地优先的 AI agent 运行观测工具：查看、检查并重放 agent 运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neatlogs/neatroots 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 72 --> 82
-    line [73, 77, 81, 81]
+    line [73, 77, 81, 80]
 ```
 
-2026-10-18 73 → 2026-11-01 81（+8）
+2026-10-18 73 → 2026-11-02 80（+7）
 
 
 ---

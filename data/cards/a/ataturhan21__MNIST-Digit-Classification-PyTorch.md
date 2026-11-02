@@ -39,6 +39,18 @@
 > L3: A notebook for Kaggle's Digit Recognizer competition. It reads labeled and unlabeled pixel CSV files, trains a fully
 > L11: - Train a 784 → 128 → 64 → 10 network with ReLU activations, cross-entropy loss, and Adam at a learning rate of 0.0
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ataturhan21/MNIST-Digit-Classification-PyTorch 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-01 23 → 2026-11-02 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `62f8eaa85d7c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # morphz-ai/morphz
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/morphz-ai/morphz) · [官网](https://morphz.ai) · 组织维护 · 中文 README
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/morphz-ai/morphz) · [官网](https://morphz.ai) · 组织维护 · 中文 README
 
 **持久认知 agent 运行时：结构化上下文+确定性事务内核**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "morphz-ai/morphz 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01"]
+    title "morphz-ai/morphz 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 17 --> 38
-    line [18, 20, 21, 31, 33, 36, 37]
+    line [18, 20, 21, 31, 33, 36, 37, 37]
 ```
 
-2026-10-18 18 → 2026-11-01 37（+19）
+2026-10-18 18 → 2026-11-02 37（+19）
 
 
 ---

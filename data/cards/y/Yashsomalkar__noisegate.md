@@ -1,6 +1,6 @@
 # Yashsomalkar/noisegate
 
-⭐ 14 · Rust · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/Yashsomalkar/noisegate) · [官网](https://github.com/Yashsomalkar/noisegate) · 个人维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/Yashsomalkar/noisegate) · [官网](https://github.com/Yashsomalkar/noisegate) · 个人维护
 
 **Windows 实时麦克风降噪工具：Rust 运行 RNNoise/ONNX 模型**
 
@@ -46,12 +46,12 @@ Windows 系统托盘应用，经 WASAPI 低延迟采集麦克风音频，用降�
 ```mermaid
 xychart-beta
     title "Yashsomalkar/noisegate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-01 14（+1）
+2026-10-18 13 → 2026-11-02 15（+2）
 
 
 ---

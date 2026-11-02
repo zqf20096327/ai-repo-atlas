@@ -1,6 +1,6 @@
 # Coolgiserz/Awesome-Traffic-Prediction
 
-⭐ 167 · Python · 推送 2026-10-16 · [GitHub](https://github.com/Coolgiserz/Awesome-Traffic-Prediction) · 个人维护 · 中文 README
+⭐ 167 · Python · 推送 2026-11-01 · [GitHub](https://github.com/Coolgiserz/Awesome-Traffic-Prediction) · 个人维护 · 中文 README
 
 **交通预测研究资源清单：论文、数据集、教程与工具汇总**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Coolgiserz/Awesome-Traffic-Prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-11-01 167（+0）
+2026-10-18 167 → 2026-11-02 167（+0）
 
 
 ---

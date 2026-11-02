@@ -1,6 +1,6 @@
 # runzhliu/aik8s
 
-⭐ 29 · Python · 推送 2026-10-29 · [GitHub](https://github.com/runzhliu/aik8s) · [官网](https://aik8s.run/) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-11-01 · [GitHub](https://github.com/runzhliu/aik8s) · [官网](https://aik8s.run/) · 个人维护 · 中文 README
 
 **面向平台工程师的 AI/LLM on Kubernetes 基础设施知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "runzhliu/aik8s 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 20 --> 30
-    line [21, 23, 25, 26, 27, 28, 29]
+    title "runzhliu/aik8s 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 20 --> 31
+    line [21, 23, 25, 26, 27, 28, 29, 30]
 ```
 
-2026-10-18 21 → 2026-11-01 29（+8）
+2026-10-18 21 → 2026-11-02 30（+9）
 
 
 ---

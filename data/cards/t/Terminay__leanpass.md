@@ -1,6 +1,6 @@
 # Terminay/leanpass
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Terminay/leanpass) · [官网](https://leanpass.vercel.app) · 个人维护
+⭐ 25 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Terminay/leanpass) · [官网](https://leanpass.vercel.app) · 个人维护
 
 **给学习者的 NumPy 自动微分库：透明实现小型神经网络**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Terminay/leanpass 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
     y-axis "stars" 15 --> 26
     line [16, 20, 25, 24, 25, 25]
 ```
 
-2026-10-18 16 → 2026-11-01 25（+9）
+2026-10-18 16 → 2026-11-02 25（+9）
 
 
 ---

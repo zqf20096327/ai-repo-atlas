@@ -1,6 +1,6 @@
 # ayuanwong/dsh-ux
 
-⭐ 14 · TypeScript · BSD-3-Clause · 推送 2026-08-16 · [GitHub](https://github.com/ayuanwong/dsh-ux) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · BSD-3-Clause · 推送 2026-08-16 · [GitHub](https://github.com/ayuanwong/dsh-ux) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的社区 Web UX 版：长任务进度清晰、完成后自动折叠**
 
@@ -45,12 +45,12 @@ DeepSeek Harness 的非官方社区源码分支，不改变 Agent Loop、模型�
 ```mermaid
 xychart-beta
     title "ayuanwong/dsh-ux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

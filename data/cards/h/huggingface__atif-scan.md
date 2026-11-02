@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/atif-scan 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    title "huggingface/atif-scan 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 12 --> 17
-    line [13, 16]
+    line [13, 16, 16]
 ```
 
-2026-10-31 13 → 2026-11-01 16（+3）
+2026-10-31 13 → 2026-11-02 16（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # john-rocky/hf-to-litertlm
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/john-rocky/hf-to-litertlm) · [官网](https://john-rocky.github.io/) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/john-rocky/hf-to-litertlm) · [官网](https://john-rocky.github.io/) · 个人维护
 
 **把 Hugging Face 开源 LLM/VLM 转换为 LiteRT-LM 端侧包的转换器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "john-rocky/hf-to-litertlm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-01 29（+1）
+2026-10-18 28 → 2026-11-02 29（+1）
 
 
 ---

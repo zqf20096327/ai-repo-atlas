@@ -1,6 +1,6 @@
 # Laplace-bit/GT-Office
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/Laplace-bit/GT-Office) · [官网](https://laplace-bit.github.io/GT-Office/) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/Laplace-bit/GT-Office) · [官网](https://laplace-bit.github.io/GT-Office/) · 个人维护 · 中文 README
 
 **管理 Claude Code / Codex CLI 的跨平台多 agent 桌面工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Laplace-bit/GT-Office 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-01 22（+0）
+2026-10-18 22 → 2026-11-02 23（+1）
 
 
 ---

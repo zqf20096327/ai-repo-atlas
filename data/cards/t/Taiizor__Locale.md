@@ -1,6 +1,6 @@
 # Taiizor/Locale
 
-⭐ 14 · C# · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Taiizor/Locale) · [官网](https://www.vegalya.com) · 个人维护
+⭐ 14 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Taiizor/Locale) · [官网](https://www.vegalya.com) · 个人维护
 
 **面向 .NET 的多格式本地化库与 CLI：扫描、校验、转换并自动翻译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Taiizor/Locale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

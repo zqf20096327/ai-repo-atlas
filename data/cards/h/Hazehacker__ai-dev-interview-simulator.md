@@ -1,6 +1,6 @@
 # Hazehacker/ai-dev-interview-simulator
 
-⭐ 26 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/Hazehacker/ai-dev-interview-simulator) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向中文大厂 AI 应用开发岗位的模拟面试 skill**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

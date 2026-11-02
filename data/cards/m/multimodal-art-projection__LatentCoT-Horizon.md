@@ -1,6 +1,6 @@
 # multimodal-art-projection/LatentCoT-Horizon
 
-⭐ 421 · 推送 2025-11-05 · [GitHub](https://github.com/multimodal-art-projection/LatentCoT-Horizon) · [官网](https://arxiv.org/abs/2507.06203) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **潜在推理（Latent Reasoning）方向的论文清单，配套综述引用**
 

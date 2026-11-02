@@ -1,6 +1,6 @@
 # Solrikk/Cripto-Boats
 
-⭐ 38 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Solrikk/Cripto-Boats) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Solrikk/Cripto-Boats) · 个人维护
 
 **半自动加密货币合约交易机器人：LSTM+随机森林生成交易信号**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Solrikk/Cripto-Boats 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    line [36, 37, 38, 37]
 ```
 
-2026-10-18 36 → 2026-11-01 38（+2）
+2026-10-18 36 → 2026-11-02 37（+1）
 
 
 ---

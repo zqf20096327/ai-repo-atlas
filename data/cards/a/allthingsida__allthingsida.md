@@ -43,13 +43,13 @@ All Things IDA YouTube 频道与 X 账号的官方代码仓库，收录视频中
 
 ```mermaid
 xychart-beta
-    title "allthingsida/allthingsida 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "allthingsida/allthingsida 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 192 --> 195
-    line [194, 193]
+    line [194, 193, 193]
 ```
 
-2026-10-18 194 → 2026-11-01 193（-1）
+2026-10-18 194 → 2026-11-02 193（-1）
 
 
 ---

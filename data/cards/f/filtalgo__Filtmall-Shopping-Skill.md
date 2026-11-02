@@ -1,6 +1,6 @@
 # filtalgo/Filtmall-Shopping-Skill
 
-⭐ 154 · JavaScript · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/filtalgo/Filtmall-Shopping-Skill) · [官网](https://www.filtalgo.com/) · 组织维护 · 中文 README
+⭐ 203 · JavaScript · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/filtalgo/Filtmall-Shopping-Skill) · [官网](https://www.filtalgo.com/) · 组织维护 · 中文 README
 
 **让 AI 代理完成网购全流程的 Filtmall 官方技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "filtalgo/Filtmall-Shopping-Skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01"]
+    title "filtalgo/Filtmall-Shopping-Skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 0 --> 1097
-    line [999, 954, 931, 14, 105, 154]
+    line [999, 954, 931, 14, 105, 154, 203]
 ```
 
-2026-10-18 999 → 2026-11-01 154（-845）
+2026-10-18 999 → 2026-11-02 203（-796）
 
 
 ---

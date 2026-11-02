@@ -1,6 +1,6 @@
 # SENATOROVAI/singular-value-decomposition-svd-solver-course
 
-⭐ 18 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/singular-value-decomposition-svd-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/singular-value-decomposition-svd-solver-course) · [官网](https://SenatorovAI.com) · 个人维护
 
 **面向学习者的 SVD 原理与 Python 从零实现课程项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/singular-value-decomposition-svd-solver-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 16 --> 19
+    line [18, 17]
 ```
 
-2026-10-18 18 → 2026-11-01 18（+0）
+2026-10-18 18 → 2026-11-02 17（-1）
 
 
 ---

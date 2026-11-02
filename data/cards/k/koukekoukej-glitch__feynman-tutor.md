@@ -1,6 +1,6 @@
 # koukekoukej-glitch/feynman-tutor
 
-⭐ 34 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/koukekoukej-glitch/feynman-tutor) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/koukekoukej-glitch/feynman-tutor) · 个人维护 · 中文 README
 
 **基于费曼学习法的 AI 教学 Skill：让用户讲解、暴露盲点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "koukekoukej-glitch/feynman-tutor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 33, 34]
+    title "koukekoukej-glitch/feynman-tutor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 33, 34, 35]
 ```
 
-2026-10-18 31 → 2026-11-01 34（+3）
+2026-10-18 31 → 2026-11-02 35（+4）
 
 
 ---

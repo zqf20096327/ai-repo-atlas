@@ -1,6 +1,6 @@
 # microsoft/clarity-mcp-server
 
-⭐ 135 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/microsoft/clarity-mcp-server) · [官网](https://clarity.microsoft.com) · 组织维护
+⭐ 136 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/microsoft/clarity-mcp-server) · [官网](https://clarity.microsoft.com) · 组织维护
 
 **连接 Microsoft Clarity 的 MCP 服务器：让 AI 客户端查询网站分析数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/clarity-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 124 --> 136
-    line [125, 127, 128, 129, 131, 135, 135]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 124 --> 137
+    line [125, 127, 128, 129, 131, 135, 136]
 ```
 
-2026-10-18 125 → 2026-11-01 135（+10）
+2026-10-18 125 → 2026-11-02 136（+11）
 
 
 ---

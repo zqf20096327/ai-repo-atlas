@@ -5,8 +5,8 @@
 {"product": "GitHub Copilot", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "TabbyML/tabby", "anjerodev/commitollama", "ianustec/neura-office", "levimackay/lydia-cli", "maruakshay/miii-cli", "meeehdi-dev/bropilot.nvim", "nesall/phenixcode", "timwuhaotian/the-pair", "zhikunqingtao/zhikuncode"], "n": 10}
 {"product": "Hugging Face", "repos": ["NLPOptimize/flash-tokenizer", "OpenCSGs/csghub", "cool-japan/trustformers", "marcelroed/gigatoken"], "n": 4}
 {"product": "Jasper", "repos": ["IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio", "SamurAIGPT/social-post"], "n": 2}
-{"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "Michael-A-Kuykendall/rustchain", "ModelEngine-Group/fit-framework", "OoriData/OgbujiPT", "nMaroulis/protolink", "stanford-mast/a1", "swarmclawai/swarmclaw", "ulsreall/web3-agent-kit"], "n": 8}
+{"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "Michael-A-Kuykendall/rustchain", "ModelEngine-Group/fit-framework", "OoriData/OgbujiPT", "johnnichev/selectools", "nMaroulis/protolink", "stanford-mast/a1", "swarmclawai/swarmclaw", "ulsreall/web3-agent-kit"], "n": 9}
 {"product": "Lovable", "repos": ["BuildingTechAlternatives/OpenThorn", "Manavarya09/moldui", "OpenCoworkAI/open-codesign", "SimaDevelopment/opsiforce", "buildingopen/openpage", "davidmonterocrespo24/DaveLovable", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "sammwyy/singulary", "sanidhyy/lovable-clone", "tinykit-studio/tinykit"], "n": 12}
-{"product": "Perplexity", "repos": ["edoigtrd/ubiquite", "jasonzliang/caesar-agent", "precious112/prism-ai-deep-research", "xprivo/ai-chat"], "n": 4}
+{"product": "Perplexity", "repos": ["edoigtrd/ubiquite", "jasonzliang/caesar-agent", "mahak867/ai-projects-hub", "precious112/prism-ai-deep-research", "xprivo/ai-chat"], "n": 5}
 {"product": "Suno", "repos": ["fspecii/ace-step-ui", "noah-chelednik/the-muser"], "n": 2}
 {"product": "豆包", "repos": ["open-doubao-ai/OpenDoubao", "rhinoc/douvo"], "n": 2}

@@ -1,6 +1,6 @@
 # ionic-team/capacitor-local-llm
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/ionic-team/capacitor-local-llm) · 组织维护
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/ionic-team/capacitor-local-llm) · 组织维护
 
 **Capacitor 插件：在 iOS/Android 应用内运行端侧 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ionic-team/capacitor-local-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-11-01 25（+1）
+2026-10-18 24 → 2026-11-02 26（+2）
 
 
 ---

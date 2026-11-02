@@ -1,6 +1,6 @@
 # cporter202/ai-apis-you-can-ship-today
 
-⭐ 68 · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-apis-you-can-ship-today) · 个人维护
+⭐ 71 · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-apis-you-can-ship-today) · 个人维护
 
 **可直接投产的 AI API 目录：1,555 个 API 分 5 类导航**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cporter202/ai-apis-you-can-ship-today 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 50 --> 69
-    line [51, 52, 53, 54, 68]
+    title "cporter202/ai-apis-you-can-ship-today 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 49 --> 73
+    line [51, 52, 53, 54, 68, 71]
 ```
 
-2026-10-18 51 → 2026-11-01 68（+17）
+2026-10-18 51 → 2026-11-02 71（+20）
 
 
 ---

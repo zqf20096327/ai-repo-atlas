@@ -1,6 +1,6 @@
 # PsiACE/dohnuts
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/PsiACE/dohnuts) · [官网](https://dohnuts.ai/) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/PsiACE/dohnuts) · [官网](https://dohnuts.ai/) · 个人维护
 
 **小型多模态决策模型：单次前向输出选择/判断/打分概率**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PsiACE/dohnuts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38]
 ```
 
-2026-10-18 36 → 2026-11-01 37（+1）
+2026-10-18 36 → 2026-11-02 38（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KieDani/SpinAndTrajectoryTableTennis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    title "KieDani/SpinAndTrajectoryTableTennis 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 29]
+    line [29, 30, 29, 29]
 ```
 
-2026-10-18 29 → 2026-11-01 29（+0）
+2026-10-18 29 → 2026-11-02 29（+0）
 
 
 ---

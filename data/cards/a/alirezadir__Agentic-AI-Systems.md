@@ -1,6 +1,6 @@
 # alirezadir/Agentic-AI-Systems
 
-⭐ 494 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/alirezadir/Agentic-AI-Systems) · 个人维护
+⭐ 493 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/alirezadir/Agentic-AI-Systems) · 个人维护
 
 **面向开发者的 Agentic AI 系统设计知识库与实战指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alirezadir/Agentic-AI-Systems 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
     y-axis "stars" 489 --> 495
-    line [490, 491, 492, 493, 494, 494]
+    line [490, 491, 492, 493, 494, 493]
 ```
 
-2026-10-18 490 → 2026-11-01 494（+4）
+2026-10-18 490 → 2026-11-02 493（+3）
 
 
 ---

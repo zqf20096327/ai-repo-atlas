@@ -1,6 +1,6 @@
 # numerai/example-scripts
 
-⭐ 1,198 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/numerai/example-scripts) · [官网](https://numer.ai/) · 组织维护
+⭐ 1,199 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/numerai/example-scripts) · [官网](https://numer.ai/) · 组织维护
 
 **Numerai 官方入门脚本与教程 notebook 合集**
 
@@ -43,13 +43,13 @@ Numerai 官方维护的示例仓库，帮助用户快速上手其数据科学锦
 
 ```mermaid
 xychart-beta
-    title "numerai/example-scripts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 1193 --> 1199
-    line [1194, 1195, 1196, 1197, 1198]
+    title "numerai/example-scripts 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1193 --> 1200
+    line [1194, 1195, 1196, 1197, 1198, 1199]
 ```
 
-2026-10-18 1,194 → 2026-11-01 1,198（+4）
+2026-10-18 1,194 → 2026-11-02 1,199（+5）
 
 
 ---

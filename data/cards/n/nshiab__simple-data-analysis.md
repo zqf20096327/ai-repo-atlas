@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nshiab/simple-data-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "nshiab/simple-data-analysis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 355 --> 358
-    line [356, 357]
+    line [356, 357, 357]
 ```
 
-2026-10-18 356 → 2026-11-01 357（+1）
+2026-10-18 356 → 2026-11-02 357（+1）
 
 
 ---

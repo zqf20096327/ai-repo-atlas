@@ -1,6 +1,6 @@
 # Tuna285/custom-of-lyrics-plus
 
-⭐ 16 · JavaScript · LGPL-2.1 · 推送 2026-10-25 · [GitHub](https://github.com/Tuna285/custom-of-lyrics-plus) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · LGPL-2.1 · 推送 2026-10-31 · [GitHub](https://github.com/Tuna285/custom-of-lyrics-plus) · 个人维护 · 中文 README
 
 **Spicetify 歌词插件：AI 翻译歌词并显示注音与视频背景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tuna285/custom-of-lyrics-plus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kjckangshifu/ML-Sharp-QNN
 
-⭐ 33 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/kjckangshifu/ML-Sharp-QNN) · [官网](https://github.com/kjckangshifu/ML-Sharp-QNN) · 个人维护 · 中文 README
+⭐ 34 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/kjckangshifu/ML-Sharp-QNN) · [官网](https://github.com/kjckangshifu/ML-Sharp-QNN) · 个人维护 · 中文 README
 
 **将苹果 SHARP 单图 3D 高斯泼溅移植到骁龙手机离线运行的安卓应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kjckangshifu/ML-Sharp-QNN 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 27 --> 34
-    line [28, 29, 30, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 27 --> 35
+    line [28, 29, 30, 32, 33, 34]
 ```
 
-2026-10-18 28 → 2026-11-01 33（+5）
+2026-10-18 28 → 2026-11-02 34（+6）
 
 
 ---

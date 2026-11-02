@@ -1,6 +1,6 @@
 # sanidhyy/duolingo-clone
 
-⭐ 694 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sanidhyy/duolingo-clone) · [官网](https://lingo-clone.vercel.app) · 个人维护
+⭐ 695 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sanidhyy/duolingo-clone) · [官网](https://lingo-clone.vercel.app) · 个人维护
 
 **Duolingo 风格的交互式语言学习 Web 平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanidhyy/duolingo-clone 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 679 --> 695
-    line [680, 684, 685, 686, 687, 690, 691, 693, 694]
+    title "sanidhyy/duolingo-clone 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 679 --> 696
+    line [680, 684, 685, 686, 687, 690, 691, 693, 694, 695]
 ```
 
-2026-10-18 680 → 2026-11-01 694（+14）
+2026-10-18 680 → 2026-11-02 695（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # MaxDevv/Un-LOCC
 
-⭐ 74 · Python · 推送 2026-02-03 · [GitHub](https://github.com/MaxDevv/Un-LOCC) · 个人维护
+⭐ 75 · Python · 推送 2026-02-03 · [GitHub](https://github.com/MaxDevv/Un-LOCC) · 个人维护
 
 **把长文本渲染成图像以压缩 LLM 上下文的研究与评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MaxDevv/Un-LOCC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-18 74 → 2026-11-01 74（+0）
+2026-10-18 74 → 2026-11-02 75（+1）
 
 
 ---

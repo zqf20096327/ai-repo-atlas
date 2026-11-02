@@ -1,6 +1,6 @@
 # octree-labs/octree
 
-⭐ 298 · TypeScript · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/octree-labs/octree) · [官网](https://useoctree.com) · 组织维护
+⭐ 299 · TypeScript · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/octree-labs/octree) · [官网](https://useoctree.com) · 组织维护
 
 **面向学术写作的 AI 辅助 LaTeX 编辑器，可自托管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "octree-labs/octree 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 295 --> 299
-    line [296, 297, 298, 298]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 295 --> 300
+    line [296, 297, 298, 299]
 ```
 
-2026-10-18 296 → 2026-11-01 298（+2）
+2026-10-18 296 → 2026-11-02 299（+3）
 
 
 ---

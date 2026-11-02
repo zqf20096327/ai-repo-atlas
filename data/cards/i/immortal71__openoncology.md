@@ -1,6 +1,6 @@
 # immortal71/openoncology
 
-⭐ 68 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/immortal71/openoncology) · 个人维护
+⭐ 292 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/immortal71/openoncology) · 个人维护
 
 **自托管精准肿瘤平台：从患者变异谱生成候选药物排序**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "immortal71/openoncology 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 57 --> 69
-    line [62, 58, 68, 68]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 35 --> 315
+    line [62, 58, 68, 292]
 ```
 
-2026-10-18 62 → 2026-11-01 68（+6）
+2026-10-18 62 → 2026-11-02 292（+230）
 
 
 ---

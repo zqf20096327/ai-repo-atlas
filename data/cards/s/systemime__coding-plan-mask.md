@@ -45,13 +45,13 @@ Go 编写的轻量本地代理，面向已订阅大模型厂商 Coding Plan（�
 
 ```mermaid
 xychart-beta
-    title "systemime/coding-plan-mask 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "systemime/coding-plan-mask 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 90 --> 93
-    line [91, 92]
+    line [91, 92, 92]
 ```
 
-2026-10-18 91 → 2026-11-01 92（+1）
+2026-10-18 91 → 2026-11-02 92（+1）
 
 
 ---

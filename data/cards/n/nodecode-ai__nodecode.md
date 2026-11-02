@@ -1,6 +1,6 @@
 # nodecode-ai/nodecode
 
-⭐ 169 · Common Lisp · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
+⭐ 172 · Common Lisp · MIT · 推送 2026-11-01 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
 
 **用 Common Lisp 自我改写的终端编码 agent**
 
@@ -44,13 +44,13 @@ Nodecode 是运行于 SBCL（Common Lisp）单进程中的 agent，终端、浏�
 
 ```mermaid
 xychart-beta
-    title "nodecode-ai/nodecode 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 152 --> 170
-    line [153, 160, 166, 169]
+    title "nodecode-ai/nodecode 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 152 --> 173
+    line [153, 160, 166, 169, 172]
 ```
 
-2026-10-29 153 → 2026-11-01 169（+16）
+2026-10-29 153 → 2026-11-02 172（+19）
 
 
 ---

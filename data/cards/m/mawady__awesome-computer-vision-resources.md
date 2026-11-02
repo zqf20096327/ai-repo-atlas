@@ -1,6 +1,6 @@
 # mawady/awesome-computer-vision-resources
 
-⭐ 177 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mawady/awesome-computer-vision-resources) · 个人维护
+⭐ 178 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mawady/awesome-computer-vision-resources) · 个人维护
 
 **计算机视觉结构化学习资源清单：课程、书籍、会议、期刊与库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mawady/awesome-computer-vision-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 175 --> 178
-    line [176, 177, 177]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 175 --> 179
+    line [176, 177, 178]
 ```
 
-2026-10-18 176 → 2026-11-01 177（+1）
+2026-10-18 176 → 2026-11-02 178（+2）
 
 
 ---

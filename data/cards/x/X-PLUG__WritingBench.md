@@ -1,6 +1,6 @@
 # X-PLUG/WritingBench
 
-⭐ 204 · Python · Apache-2.0 · 推送 2025-12-19 · [GitHub](https://github.com/X-PLUG/WritingBench) · [官网](https://arxiv.org/pdf/2503.05244) · 组织维护 · 中文 README
+⭐ 205 · Python · Apache-2.0 · 推送 2025-12-19 · [GitHub](https://github.com/X-PLUG/WritingBench) · [官网](https://arxiv.org/pdf/2503.05244) · 组织维护 · 中文 README
 
 **面向 LLM 生成写作能力的评测基准（1,000 条真实查询）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "X-PLUG/WritingBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 201 --> 205
-    line [202, 203, 204, 204]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 201 --> 206
+    line [202, 203, 204, 205]
 ```
 
-2026-10-18 202 → 2026-11-01 204（+2）
+2026-10-18 202 → 2026-11-02 205（+3）
 
 
 ---

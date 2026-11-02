@@ -1,6 +1,6 @@
 # voytas75/GPTprompts
 
-⭐ 68 · MIT · 推送 2026-10-01 · [GitHub](https://github.com/voytas75/GPTprompts) · 个人维护
+⭐ 69 · MIT · 推送 2026-10-01 · [GitHub](https://github.com/voytas75/GPTprompts) · 个人维护
 
 **面向 LLM 的提示词合集：按技术类型与学科分类编目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "voytas75/GPTprompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-11-01 68（+0）
+2026-10-18 68 → 2026-11-02 69（+1）
 
 
 ---

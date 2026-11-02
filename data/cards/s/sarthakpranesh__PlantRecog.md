@@ -1,6 +1,6 @@
 # sarthakpranesh/PlantRecog
 
-⭐ 130 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/sarthakpranesh/PlantRecog) · 个人维护
+⭐ 129 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/sarthakpranesh/PlantRecog) · 个人维护
 
 **免费花卉识别应用与可自托管识别 API 及模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sarthakpranesh/PlantRecog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 128 --> 131
+    line [130, 129]
 ```
 
-2026-10-18 130 → 2026-11-01 130（+0）
+2026-10-18 130 → 2026-11-02 129（-1）
 
 
 ---

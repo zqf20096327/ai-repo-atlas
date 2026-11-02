@@ -1,6 +1,6 @@
 # techysy/hermes-fry-cards
 
-⭐ 18 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/techysy/hermes-fry-cards) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/techysy/hermes-fry-cards) · 个人维护 · 中文 README
 
 **Hermes Agent 网关的飞书流式卡片输出插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "techysy/hermes-fry-cards 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
     y-axis "stars" 15 --> 19
     line [17, 16, 17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-01 18（+1）
+2026-10-18 17 → 2026-11-02 18（+1）
 
 
 ---

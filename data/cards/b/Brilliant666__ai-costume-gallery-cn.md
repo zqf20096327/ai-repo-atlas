@@ -1,6 +1,6 @@
 # Brilliant666/ai-costume-gallery-cn
 
-⭐ 112 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Brilliant666/ai-costume-gallery-cn) · [官网](https://photoai.life/costume/) · 个人维护 · 中文 README
+⭐ 119 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Brilliant666/ai-costume-gallery-cn) · [官网](https://photoai.life/costume/) · 个人维护 · 中文 README
 
 **AI 绘画服装参考图库中文镜像：1407 件服装元数据与静态画廊**
 
@@ -45,13 +45,13 @@ ai-costume-gallery.pages.dev 的元数据镜像与汉化项目：将 8 个分类
 
 ```mermaid
 xychart-beta
-    title "Brilliant666/ai-costume-gallery-cn 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 86 --> 114
-    line [88, 112]
+    title "Brilliant666/ai-costume-gallery-cn 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 85 --> 122
+    line [88, 112, 119]
 ```
 
-2026-10-31 88 → 2026-11-01 112（+24）
+2026-10-31 88 → 2026-11-02 119（+31）
 
 
 ---

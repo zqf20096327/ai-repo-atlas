@@ -1,6 +1,6 @@
 # xiaodou-official/xiaodou-open-platform
 
-⭐ 325 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/xiaodou-official/xiaodou-open-platform) · [官网](https://xdfair.cn/) · 组织维护 · 中文 README
+⭐ 326 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/xiaodou-official/xiaodou-open-platform) · [官网](https://xdfair.cn/) · 组织维护 · 中文 README
 
 **支付宝+微信聚合支付接口接入资料，面向个人开发者与个人网站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaodou-official/xiaodou-open-platform 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01"]
+    title "xiaodou-official/xiaodou-open-platform 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 313 --> 349
-    line [316, 346, 319, 323, 324, 325]
+    line [316, 346, 319, 323, 324, 325, 326]
 ```
 
-2026-10-19 316 → 2026-11-01 325（+9）
+2026-10-19 316 → 2026-11-02 326（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/TextWorld
 
-⭐ 1,456 · Jupyter Notebook · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/TextWorld) · 组织维护
+⭐ 1,457 · Jupyter Notebook · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/microsoft/TextWorld) · 组织维护
 
 **文本游戏生成器与 RL 智能体训练评测沙盒环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/TextWorld 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1450 --> 1457
-    line [1451, 1452, 1453, 1454, 1456]
+    title "microsoft/TextWorld 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1450 --> 1458
+    line [1451, 1452, 1453, 1454, 1456, 1457]
 ```
 
-2026-10-18 1,451 → 2026-11-01 1,456（+5）
+2026-10-18 1,451 → 2026-11-02 1,457（+6）
 
 
 ---

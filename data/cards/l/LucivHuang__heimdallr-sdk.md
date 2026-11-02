@@ -44,13 +44,13 @@ TypeScript 编写、Rollup 构建、monorepo 组织的前端监控 SDK，采用�
 
 ```mermaid
 xychart-beta
-    title "LucivHuang/heimdallr-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    title "LucivHuang/heimdallr-sdk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
     y-axis "stars" 684 --> 688
-    line [685, 686, 687]
+    line [685, 686, 687, 687]
 ```
 
-2026-10-18 685 → 2026-11-01 687（+2）
+2026-10-18 685 → 2026-11-02 687（+2）
 
 
 ---

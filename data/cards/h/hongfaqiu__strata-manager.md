@@ -1,6 +1,6 @@
 # hongfaqiu/strata-manager
 
-⭐ 42 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hongfaqiu/strata-manager) · [官网](https://strata-manager.cosfoc.com) · 个人维护 · 中文 README
+⭐ 43 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hongfaqiu/strata-manager) · [官网](https://strata-manager.cosfoc.com) · 个人维护 · 中文 README
 
 **本地 LLM 引擎 Strata 的桌面管理工作区：安装、模型管理与监控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hongfaqiu/strata-manager 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 14 --> 44
-    line [16, 23, 31, 34, 36, 38, 39, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 14 --> 45
+    line [16, 23, 31, 34, 36, 38, 39, 42, 43]
 ```
 
-2026-10-18 16 → 2026-11-01 42（+26）
+2026-10-18 16 → 2026-11-02 43（+27）
 
 
 ---

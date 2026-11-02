@@ -1,6 +1,6 @@
 # fenago/LearnGraph
 
-⭐ 14 · TypeScript · 推送 2025-12-14 · [GitHub](https://github.com/fenago/LearnGraph) · 个人维护
+⭐ 15 · TypeScript · 推送 2025-12-14 · [GitHub](https://github.com/fenago/LearnGraph) · 个人维护
 
 **给任意 LLM 提供学习者画像与知识图谱的个性化教育知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fenago/LearnGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

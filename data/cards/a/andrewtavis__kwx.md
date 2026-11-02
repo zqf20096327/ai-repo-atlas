@@ -1,6 +1,6 @@
 # andrewtavis/kwx
 
-⭐ 79 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/andrewtavis/kwx) · 个人维护
+⭐ 79 · Python · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/andrewtavis/kwx) · 个人维护
 
 **面向多语言文本的关键词提取 Python 工具包（BERT/LDA/TFIDF）**
 
@@ -45,12 +45,12 @@ kwx 是一个多语言关键词提取工具包，提供 BERT（基于 sentence-t
 ```mermaid
 xychart-beta
     title "andrewtavis/kwx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-11-01 79（+0）
+2026-10-18 79 → 2026-11-02 79（+0）
 
 
 ---

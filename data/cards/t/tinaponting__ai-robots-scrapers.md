@@ -1,6 +1,6 @@
 # tinaponting/ai-robots-scrapers
 
-⭐ 12 · 推送 2026-10-18 · [GitHub](https://github.com/tinaponting/ai-robots-scrapers) · 个人维护
+⭐ 12 · 推送 2026-11-01 · [GitHub](https://github.com/tinaponting/ai-robots-scrapers) · 个人维护
 
 **阻挡 AI 爬虫的配置清单：robots.txt/htaccess/nginx 等多格式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tinaponting/ai-robots-scrapers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

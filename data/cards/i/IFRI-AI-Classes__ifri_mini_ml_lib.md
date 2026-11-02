@@ -1,6 +1,6 @@
 # IFRI-AI-Classes/ifri_mini_ml_lib
 
-⭐ 39 · Python · MIT · 推送 2026-05-24 · [GitHub](https://github.com/IFRI-AI-Classes/ifri_mini_ml_lib) · [官网](https://ifri-ai-classes.github.io/ifri_mini_ml_lib/) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/IFRI-AI-Classes/ifri_mini_ml_lib) · [官网](https://ifri-ai-classes.github.io/ifri_mini_ml_lib/) · 组织维护
 
 **IFRI 学生从零实现的机器学习教学库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IFRI-AI-Classes/ifri_mini_ml_lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-11-01 39（+0）
+2026-10-18 39 → 2026-11-02 39（+0）
 
 
 ---

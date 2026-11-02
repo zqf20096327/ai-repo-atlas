@@ -1,6 +1,6 @@
 # langchain-ai/design-agent
 
-⭐ 528 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/design-agent) · 组织维护
+⭐ 542 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/design-agent) · 组织维护
 
 **品牌设计 agent：从 Slack 对话生成合规图片、幻灯片、图表与视频**
 
@@ -45,13 +45,13 @@ LangChain 开源的设计代理（Content Studio），基于 Deep Agents 构建�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/design-agent 星数(近 7 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 0 --> 580
-    line [3, 6, 42, 266, 459, 508, 528]
+    title "langchain-ai/design-agent 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 595
+    line [3, 6, 42, 266, 459, 508, 528, 542]
 ```
 
-2026-10-26 3 → 2026-11-01 528（+525）
+2026-10-26 3 → 2026-11-02 542（+539）
 
 
 ---

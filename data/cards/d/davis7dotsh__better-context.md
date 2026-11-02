@@ -1,6 +1,6 @@
 # davis7dotsh/better-context
 
-⭐ 1,154 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/davis7dotsh/better-context) · [官网](https://btca.dev) · 个人维护
+⭐ 1,153 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/davis7dotsh/better-context) · [官网](https://btca.dev) · 个人维护
 
 **让编码 Agent 通过搜索库源码获取最新上下文的技能**
 
@@ -44,13 +44,13 @@ btca 是一个安装到编码 Agent（如 pi、codex）中的技能：Agent 在�
 
 ```mermaid
 xychart-beta
-    title "davis7dotsh/better-context 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 1153 --> 1158
-    line [1156, 1157, 1156, 1155, 1154]
+    title "davis7dotsh/better-context 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1152 --> 1158
+    line [1156, 1157, 1156, 1155, 1154, 1153]
 ```
 
-2026-10-18 1,156 → 2026-11-01 1,154（-2）
+2026-10-18 1,156 → 2026-11-02 1,153（-3）
 
 
 ---

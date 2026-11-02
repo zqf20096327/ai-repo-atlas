@@ -1,6 +1,6 @@
 # ersilia-os/ersilia
 
-⭐ 320 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/ersilia-os/ersilia) · [官网](https://ersilia.io) · 组织维护
+⭐ 320 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/ersilia-os/ersilia) · [官网](https://ersilia.io) · 组织维护
 
 **面向传染病药物发现研究的预训练 AI/ML 模型仓库与 CLI**
 
@@ -45,12 +45,12 @@ Ersilia Model Hub 提供统一平台与命令行工具，收录文献发表模�
 ```mermaid
 xychart-beta
     title "ersilia-os/ersilia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 310 --> 321
     line [311, 316, 320, 320]
 ```
 
-2026-10-18 311 → 2026-11-01 320（+9）
+2026-10-18 311 → 2026-11-02 320（+9）
 
 
 ---

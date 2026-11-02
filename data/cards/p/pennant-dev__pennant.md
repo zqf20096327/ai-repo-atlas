@@ -1,6 +1,6 @@
 # pennant-dev/pennant
 
-⭐ 14 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pennant-dev/pennant) · [官网](https://pennant.dev) · 个人维护
+⭐ 15 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pennant-dev/pennant) · [官网](https://pennant.dev) · 个人维护
 
 **Mac/iPhone 本地优先的 AI agent 应用：定时任务、审批与电脑操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pennant-dev/pennant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

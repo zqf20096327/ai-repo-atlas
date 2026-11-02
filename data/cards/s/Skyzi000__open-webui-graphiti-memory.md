@@ -1,6 +1,6 @@
 # Skyzi000/open-webui-graphiti-memory
 
-⭐ 31 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Skyzi000/open-webui-graphiti-memory) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Skyzi000/open-webui-graphiti-memory) · 个人维护 · 中文 README
 
 **为 Open WebUI 提供基于 Graphiti 的时序知识图谱记忆扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Skyzi000/open-webui-graphiti-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    title "Skyzi000/open-webui-graphiti-memory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 28 --> 32
-    line [29, 30, 31]
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-01 31（+2）
+2026-10-18 29 → 2026-11-02 31（+2）
 
 
 ---

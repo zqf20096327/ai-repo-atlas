@@ -1,6 +1,6 @@
 # Coaade-Inc/strataflow
 
-⭐ 13 · C++ · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Coaade-Inc/strataflow) · [官网](https://www.coaade.com/products/strataflow) · 组织维护
+⭐ 12 · C++ · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Coaade-Inc/strataflow) · [官网](https://www.coaade.com/products/strataflow) · 组织维护
 
 **本地推理引擎：跨 VRAM/RAM/SSD 流式运行超大 MoE 模型**
 
@@ -45,13 +45,13 @@ Coaade Inc. 开发的本地推理引擎，目标是让千亿至万亿参数级 M
 
 ```mermaid
 xychart-beta
-    title "Coaade-Inc/strataflow 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    title "Coaade-Inc/strataflow 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 5 --> 14
-    line [6, 10, 13]
+    line [6, 10, 13, 12]
 ```
 
-2026-10-30 6 → 2026-11-01 13（+7）
+2026-10-30 6 → 2026-11-02 12（+6）
 
 
 ---

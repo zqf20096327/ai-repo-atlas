@@ -1,6 +1,6 @@
 # ThreeDeeJay/VKS3D
 
-⭐ 12 · C · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ThreeDeeJay/VKS3D) · [官网](https://airtable.com/appByPZJsOQSVGDID/shrAfMuGs1IOIEpRT?gtyDn=b%3AWzAsWyI3T05lYiIsNixbInNlbDNidUxBR0w1SHhiQXZ1Il0sImdGWUgwIl1d&uMgeK=recMg6WtuLtg9MUbS) · 个人维护
+⭐ 12 · C · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/ThreeDeeJay/VKS3D) · [官网](https://airtable.com/appByPZJsOQSVGDID/shrAfMuGs1IOIEpRT?gtyDn=b%3AWzAsWyI3T05lYiIsNixbInNlbDNidUxBR0w1SHhiQXZ1Il0sImdGWUgwIl1d&uMgeK=recMg6WtuLtg9MUbS) · 个人维护
 
 **给立体显示用户的 Vulkan 3D 驱动：任意 Vulkan 应用免改源码输出左右格式立体画面**
 
@@ -45,12 +45,12 @@ Windows/Linux 下的 Vulkan 1.1 ICD 层驱动，位于 Vulkan Loader 与真实 G
 ```mermaid
 xychart-beta
     title "ThreeDeeJay/VKS3D 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

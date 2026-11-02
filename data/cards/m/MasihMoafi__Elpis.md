@@ -1,6 +1,6 @@
 # MasihMoafi/Elpis
 
-⭐ 48 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/MasihMoafi/Elpis) · [官网](https://elpis.masihmoafi.com/) · 个人维护
+⭐ 48 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/MasihMoafi/Elpis) · [官网](https://elpis.masihmoafi.com/) · 个人维护
 
 **Linux 编码 agent 环境：基于 Codex CLI 的上下文可控 TUI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MasihMoafi/Elpis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 45 --> 49
     line [46, 48, 48]
 ```
 
-2026-10-18 46 → 2026-11-01 48（+2）
+2026-10-18 46 → 2026-11-02 48（+2）
 
 
 ---

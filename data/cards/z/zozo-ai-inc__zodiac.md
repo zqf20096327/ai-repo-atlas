@@ -1,6 +1,6 @@
 # zozo-ai-inc/zodiac
 
-⭐ 133 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/zozo-ai-inc/zodiac) · [官网](https://chat.zozo.sh) · 组织维护
+⭐ 133 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/zozo-ai-inc/zodiac) · [官网](https://chat.zozo.sh) · 组织维护
 
 **面向创作者的 AI 角色扮演聊天前端，支持图像生成**
 
@@ -45,12 +45,12 @@ Zozo AI, Inc. 维护的网页聊天前端（原名 Zodiac），提供 AI 对话�
 ```mermaid
 xychart-beta
     title "zozo-ai-inc/zodiac 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
     y-axis "stars" 132 --> 135
     line [134, 133, 133]
 ```
 
-2026-10-18 134 → 2026-11-01 133（-1）
+2026-10-18 134 → 2026-11-02 133（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # OLDBAI213/src-research
 
-⭐ 28 · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/OLDBAI213/src-research) · [官网](https://github.com/OLDBAI213/src-research) · 个人维护 · 中文 README
+⭐ 29 · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/OLDBAI213/src-research) · [官网](https://github.com/OLDBAI213/src-research) · 个人维护 · 中文 README
 
 **AI Agent 学习 SRC 漏洞挖掘的全过程研究记录与知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OLDBAI213/src-research 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-02"]
     y-axis "stars" 25 --> 30
-    line [26, 28, 29, 28, 28]
+    line [26, 28, 29, 28, 29]
 ```
 
-2026-10-18 26 → 2026-11-01 28（+2）
+2026-10-18 26 → 2026-11-02 29（+3）
 
 
 ---

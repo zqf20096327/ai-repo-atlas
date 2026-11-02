@@ -39,6 +39,18 @@
 > L3: A Streamlit application for asking questions about uploaded PDF and plain-text documents. It combines document loadi
 > L20: 1. Choose an OpenAI or Hugging Face model in the sidebar.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ataturhan21/Delta-ChatBot 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-11-01 24 → 2026-11-02 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `6fc14172ff04` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Patdolitse/piia-engram
 
-⭐ 165 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Patdolitse/piia-engram) · [官网](https://pypi.org/project/piia-engram/) · 个人维护 · 中文 README
+⭐ 165 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Patdolitse/piia-engram) · [官网](https://pypi.org/project/piia-engram/) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 工作身份层，跨 MCP 编码工具可移植**
 
@@ -46,12 +46,12 @@ piia-engram 是用户自有的本地 AI 身份与长期知识层：身份卡、�
 ```mermaid
 xychart-beta
     title "Patdolitse/piia-engram 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 161 --> 166
     line [162, 163, 164, 165, 165]
 ```
 
-2026-10-18 162 → 2026-11-01 165（+3）
+2026-10-18 162 → 2026-11-02 165（+3）
 
 
 ---

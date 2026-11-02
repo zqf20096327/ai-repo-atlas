@@ -1,6 +1,6 @@
 # The-Osint-Toolbox/Fact-Checking-Verification
 
-⭐ 68 · 推送 2026-06-28 · [GitHub](https://github.com/The-Osint-Toolbox/Fact-Checking-Verification) · 组织维护
+⭐ 69 · 推送 2026-06-28 · [GitHub](https://github.com/The-Osint-Toolbox/Fact-Checking-Verification) · 组织维护
 
 **面向 OSINT 从业者的事实核查与图像验证工具清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "The-Osint-Toolbox/Fact-Checking-Verification 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-11-01 68（+0）
+2026-10-18 68 → 2026-11-02 69（+1）
 
 
 ---

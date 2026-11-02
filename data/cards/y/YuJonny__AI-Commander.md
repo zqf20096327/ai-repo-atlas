@@ -1,6 +1,6 @@
 # YuJonny/AI-Commander
 
-⭐ 15 · Swift · MIT · 推送 2026-07-27 · [GitHub](https://github.com/YuJonny/AI-Commander) · 个人维护 · 中文 README
+⭐ 16 · Swift · MIT · 推送 2026-07-27 · [GitHub](https://github.com/YuJonny/AI-Commander) · 个人维护 · 中文 README
 
 **把耳机播放键变成语音输入键的桌面工具（macOS/Windows）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YuJonny/AI-Commander 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

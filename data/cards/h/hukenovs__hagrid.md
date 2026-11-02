@@ -40,6 +40,18 @@
 > L5: We introduce a large image dataset **HaGRIDv2** (**HA**nd **G**esture **R**ecognition **I**mage **D**ataset) for han
 > L7: HaGRIDv2 size is **1.5T** and dataset contains **1,086,158** FullHD RGB images divided into **33** classes of gestur
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hukenovs/hagrid 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 1082 --> 1084
+    line [1083, 1083]
+```
+
+2026-11-01 1,083 → 2026-11-02 1,083（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 high · 依据 README sha `d15d9633519a` · [字段定义](../../DATASET.md)*

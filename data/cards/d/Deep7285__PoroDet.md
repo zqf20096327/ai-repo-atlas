@@ -46,12 +46,12 @@ Python 包 PoroDet：用 U-Net CNN 对 Fresnel 衬度透射电镜（TEM）图像
 ```mermaid
 xychart-beta
     title "Deep7285/PoroDet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

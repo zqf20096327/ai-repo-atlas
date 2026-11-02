@@ -45,13 +45,13 @@ agency-agents 的俄语社区版：完整翻译上游 184 个 agent 人设，另
 
 ```mermaid
 xychart-beta
-    title "jnMetaCode/agency-agents-ru 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    title "jnMetaCode/agency-agents-ru 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16]
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-01 16（+2）
+2026-10-18 14 → 2026-11-02 16（+2）
 
 
 ---

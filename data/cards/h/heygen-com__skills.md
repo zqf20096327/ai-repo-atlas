@@ -1,6 +1,6 @@
 # heygen-com/skills
 
-⭐ 527 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/heygen-com/skills) · [官网](https://developers.heygen.com/docs/quick-start) · 组织维护
+⭐ 530 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/heygen-com/skills) · [官网](https://developers.heygen.com/docs/quick-start) · 组织维护
 
 **让 AI agent 调用 HeyGen 生成数字人头像视频的技能包**
 
@@ -45,13 +45,13 @@ HeyGen 官方发布的三个 agent 技能（SKILL.md 格式）：heygen-avatar �
 
 ```mermaid
 xychart-beta
-    title "heygen-com/skills 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 493 --> 530
-    line [496, 504, 509, 510, 512, 516, 519, 520, 523, 525, 526, 527]
+    title "heygen-com/skills 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 493 --> 533
+    line [496, 504, 509, 510, 512, 516, 519, 520, 523, 525, 526, 527, 530]
 ```
 
-2026-10-18 496 → 2026-11-01 527（+31）
+2026-10-18 496 → 2026-11-02 530（+34）
 
 
 ---

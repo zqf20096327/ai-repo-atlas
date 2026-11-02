@@ -1,6 +1,6 @@
 # taikun114/Mocolamma
 
-⭐ 29 · Swift · MIT · 推送 2026-10-31 · [GitHub](https://github.com/taikun114/Mocolamma) · [官网](https://mocolamma.taikun.design/) · 个人维护
+⭐ 29 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/taikun114/Mocolamma) · [官网](https://mocolamma.taikun.design/) · 个人维护
 
 **跨苹果平台管理 Ollama 服务器与模型并进行聊天测试的客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "taikun114/Mocolamma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-01 29（+0）
+2026-10-18 29 → 2026-11-02 29（+0）
 
 
 ---

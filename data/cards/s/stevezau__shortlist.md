@@ -1,6 +1,6 @@
 # stevezau/shortlist
 
-⭐ 106 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/stevezau/shortlist) · [官网](https://shortlistapp.dev/) · 个人维护
+⭐ 106 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/stevezau/shortlist) · [官网](https://shortlistapp.dev/) · 个人维护
 
 **给每个 Plex 用户生成私有推荐行的自托管工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stevezau/shortlist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
+    title "stevezau/shortlist 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
     y-axis "stars" 100 --> 107
-    line [101, 104, 105, 106]
+    line [101, 104, 105, 106, 106]
 ```
 
-2026-10-18 101 → 2026-11-01 106（+5）
+2026-10-18 101 → 2026-11-02 106（+5）
 
 
 ---

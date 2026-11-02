@@ -1,6 +1,6 @@
 # stardist/stardist
 
-⭐ 1,286 · Python · BSD-3-Clause · 推送 2026-02-14 · [GitHub](https://github.com/stardist/stardist) · 组织维护
+⭐ 1,287 · Python · BSD-3-Clause · 推送 2026-02-14 · [GitHub](https://github.com/stardist/stardist) · 组织维护
 
 **显微镜图像中细胞核的星凸形状实例分割库（2D/3D）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stardist/stardist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 1283 --> 1287
-    line [1284, 1285, 1286, 1286]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 1283 --> 1288
+    line [1284, 1285, 1286, 1287]
 ```
 
-2026-10-18 1,284 → 2026-11-01 1,286（+2）
+2026-10-18 1,284 → 2026-11-02 1,287（+3）
 
 
 ---

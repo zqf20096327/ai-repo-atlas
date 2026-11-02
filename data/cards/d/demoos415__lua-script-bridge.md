@@ -1,6 +1,6 @@
 # demoos415/lua-script-bridge
 
-⭐ 69 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/demoos415/lua-script-bridge) · 个人维护
+⭐ 69 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/demoos415/lua-script-bridge) · 个人维护
 
 **MCP 服务器：让 AI 助手接入运行中的 Roblox Luau 环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "demoos415/lua-script-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "demoos415/lua-script-bridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 67 --> 70
-    line [68, 69]
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-01 69（+1）
+2026-10-18 68 → 2026-11-02 69（+1）
 
 
 ---

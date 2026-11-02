@@ -1,6 +1,6 @@
 # julienlucas/agentic-rag-with-tools
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/julienlucas/agentic-rag-with-tools) · [官网](https://agentic-rag-search.vercel.app) · 个人维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/julienlucas/agentic-rag-with-tools) · [官网](https://agentic-rag-search.vercel.app) · 个人维护
 
 **多智能体 RAG 系统：带文档导航工具的金融问答，SaaS 化交付**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "julienlucas/agentic-rag-with-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

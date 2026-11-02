@@ -1,6 +1,6 @@
 # Azure/azure-dev
 
-⭐ 571 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Azure/azure-dev) · [官网](https://aka.ms/azd) · 组织维护
+⭐ 571 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure/azure-dev) · [官网](https://aka.ms/azd) · 组织维护
 
 **微软官方 Azure 应用开发部署 CLI（azd）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure/azure-dev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 569 --> 572
     line [570, 571, 571]
 ```
 
-2026-10-18 570 → 2026-11-01 571（+1）
+2026-10-18 570 → 2026-11-02 571（+1）
 
 
 ---

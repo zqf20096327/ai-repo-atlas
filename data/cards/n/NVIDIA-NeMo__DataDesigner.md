@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/DataDesigner
 
-⭐ 2,383 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA-NeMo/DataDesigner) · [官网](https://docs.nvidia.com/nemo/datadesigner) · 组织维护
+⭐ 2,384 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA-NeMo/DataDesigner) · [官网](https://docs.nvidia.com/nemo/datadesigner) · 组织维护
 
 **面向开发者的多模态合成数据生成框架**
 
@@ -45,13 +45,13 @@ NVIDIA NeMo 团队维护的合成数据生成 Python 框架：通过采样器、
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/DataDesigner 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2339 --> 2387
-    line [2343, 2347, 2360, 2365, 2369, 2371, 2375, 2378, 2381, 2382, 2383]
+    title "NVIDIA-NeMo/DataDesigner 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2339 --> 2388
+    line [2343, 2347, 2360, 2365, 2369, 2371, 2375, 2378, 2381, 2382, 2383, 2384]
 ```
 
-2026-10-18 2,343 → 2026-11-01 2,383（+40）
+2026-10-18 2,343 → 2026-11-02 2,384（+41）
 
 
 ---

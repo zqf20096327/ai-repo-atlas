@@ -1,6 +1,6 @@
 # tellmefrankie/ai-investment-skills
 
-⭐ 23 · HTML · MIT · 推送 2026-05-24 · [GitHub](https://github.com/tellmefrankie/ai-investment-skills) · [官网](https://jaehyunpark.gumroad.com/l/tcyahy) · 个人维护
+⭐ 24 · HTML · MIT · 推送 2026-05-24 · [GitHub](https://github.com/tellmefrankie/ai-investment-skills) · [官网](https://jaehyunpark.gumroad.com/l/tcyahy) · 个人维护
 
 **面向个人投资者的 Claude Code 技能集：期权流扫描、止损监控等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tellmefrankie/ai-investment-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-11-01 23（+1）
+2026-10-18 22 → 2026-11-02 24（+2）
 
 
 ---

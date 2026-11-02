@@ -1,6 +1,6 @@
 # wici-ai/inferssd
 
-⭐ 146 · C++ · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/wici-ai/inferssd) · [官网](https://wici.ai/inferssd) · 组织维护
+⭐ 206 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wici-ai/inferssd) · [官网](https://wici.ai/inferssd) · 组织维护
 
 **从 SSD 流式加载 MoE 专家的推理引擎，可跑超内存大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wici-ai/inferssd 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 0 --> 160
-    line [4, 146]
+    title "wici-ai/inferssd 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 226
+    line [4, 146, 206]
 ```
 
-2026-10-31 4 → 2026-11-01 146（+142）
+2026-10-31 4 → 2026-11-02 206（+202）
 
 
 ---

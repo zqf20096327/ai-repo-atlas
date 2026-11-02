@@ -1,6 +1,6 @@
 # rmitsuboshi/miniboosts
 
-⭐ 56 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rmitsuboshi/miniboosts) · 个人维护
+⭐ 56 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rmitsuboshi/miniboosts) · 个人维护
 
 **Rust 实现的 boosting 算法库，用于实现与对比**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rmitsuboshi/miniboosts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-01 56（+0）
+2026-10-18 56 → 2026-11-02 56（+0）
 
 
 ---

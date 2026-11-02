@@ -1,6 +1,6 @@
 # Nya-Angle/CDUT-Studio
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Nya-Angle/CDUT-Studio) · [官网](https://cdut-studio.work) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Nya-Angle/CDUT-Studio) · [官网](https://cdut-studio.work) · 组织维护 · 中文 README
 
 **面向成都理工大学师生的本地优先端侧 AI 智能体客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nya-Angle/CDUT-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 10 --> 15
-    line [11, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 10 --> 16
+    line [11, 13, 14, 15]
 ```
 
-2026-10-18 11 → 2026-11-01 14（+3）
+2026-10-18 11 → 2026-11-02 15（+4）
 
 
 ---

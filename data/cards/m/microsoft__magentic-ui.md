@@ -1,6 +1,6 @@
 # microsoft/magentic-ui
 
-⭐ 10,109 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/magentic-ui) · [官网](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) · 组织维护
+⭐ 10,110 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/magentic-ui) · [官网](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) · 组织维护
 
 **微软出品的浏览器与本地文件系统自动化 agent 应用**
 
@@ -45,12 +45,12 @@ Microsoft AI Frontiers 开发的 agentic 应用 MagenticLite，是 Magentic-UI �
 ```mermaid
 xychart-beta
     title "microsoft/magentic-ui 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 10094 --> 10110
-    line [10098, 10097, 10096, 10099, 10097, 10096, 10095, 10102, 10105, 10106, 10109, 10109]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 10094 --> 10111
+    line [10098, 10097, 10096, 10099, 10097, 10096, 10095, 10102, 10105, 10106, 10109, 10110]
 ```
 
-2026-10-18 10,098 → 2026-11-01 10,109（+11）
+2026-10-18 10,098 → 2026-11-02 10,110（+12）
 
 
 ---

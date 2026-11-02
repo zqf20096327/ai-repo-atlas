@@ -1,6 +1,6 @@
 # Ambitus-Intelligence/ambitus-ai-models
 
-⭐ 13 · Jupyter Notebook · 推送 2025-11-05 · [GitHub](https://github.com/Ambitus-Intelligence/ambitus-ai-models) · [官网](https://pypi.org/project/ambitus-cli/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多智能体市场研究引擎，编排数据采集分析并生成引证报告**
 

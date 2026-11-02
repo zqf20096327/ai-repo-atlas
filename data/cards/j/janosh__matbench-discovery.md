@@ -1,6 +1,6 @@
 # janosh/matbench-discovery
 
-⭐ 258 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/janosh/matbench-discovery) · [官网](https://matbench-discovery.materialsproject.org) · 个人维护
+⭐ 258 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/janosh/matbench-discovery) · [官网](https://matbench-discovery.materialsproject.org) · 个人维护
 
 **评测 ML 原子间势模型在材料发现任务中表现的基准排行榜**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "janosh/matbench-discovery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
+    title "janosh/matbench-discovery 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 254 --> 259
-    line [255, 256, 257, 258]
+    line [255, 256, 257, 258, 258]
 ```
 
-2026-10-18 255 → 2026-11-01 258（+3）
+2026-10-18 255 → 2026-11-02 258（+3）
 
 
 ---

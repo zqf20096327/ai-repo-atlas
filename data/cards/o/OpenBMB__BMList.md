@@ -1,6 +1,6 @@
 # OpenBMB/BMList
 
-⭐ 343 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/OpenBMB/BMList) · 组织维护 · 中文 README
+⭐ 344 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/OpenBMB/BMList) · 组织维护 · 中文 README
 
 **十亿参数以上大模型清单：收录公开发布的模型及统计图表**
 
@@ -45,12 +45,12 @@ OpenBMB 维护的大模型聚合清单：收录参数量达 10 亿以上、且�
 ```mermaid
 xychart-beta
     title "OpenBMB/BMList 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 342 --> 345
-    line [344, 343, 343]
+    line [344, 343, 344]
 ```
 
-2026-10-18 344 → 2026-11-01 343（-1）
+2026-10-18 344 → 2026-11-02 344（+0）
 
 
 ---

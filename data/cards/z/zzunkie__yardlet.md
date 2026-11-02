@@ -1,6 +1,6 @@
 # zzunkie/yardlet
 
-⭐ 28 · Swift · MIT · 推送 2026-10-31 · [GitHub](https://github.com/zzunkie/yardlet) · [官网](https://yardlet.app) · 个人维护
+⭐ 28 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zzunkie/yardlet) · [官网](https://yardlet.app) · 个人维护
 
 **macOS 原生应用：同窗口并排运行多个编码 agent CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zzunkie/yardlet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "zzunkie/yardlet 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 16 --> 29
-    line [17, 18, 20, 24, 28, 27, 28]
+    line [17, 18, 20, 24, 28, 27, 28, 28]
 ```
 
-2026-10-18 17 → 2026-11-01 28（+11）
+2026-10-18 17 → 2026-11-02 28（+11）
 
 
 ---

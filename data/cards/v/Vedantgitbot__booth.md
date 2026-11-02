@@ -1,6 +1,6 @@
 # Vedantgitbot/booth
 
-⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Vedantgitbot/booth) · [官网](https://pypi.org/project/boothpy/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Vedantgitbot/booth) · [官网](https://pypi.org/project/boothpy/) · 个人维护
 
 **零依赖的 LLM 输出校验层：结构化判定是否信任模型回答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vedantgitbot/booth 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 16 --> 24
     line [17, 19, 18, 20, 21, 23, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-01 22（+5）
+2026-10-18 17 → 2026-11-02 22（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Genius-apple/RusTorch
 
-⭐ 33 · Rust · MIT · 推送 2026-03-16 · [GitHub](https://github.com/Genius-apple/RusTorch) · 组织维护
+⭐ 34 · Rust · MIT · 推送 2026-03-16 · [GitHub](https://github.com/Genius-apple/RusTorch) · 组织维护
 
 **Rust 实现的类 PyTorch 深度学习框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Genius-apple/RusTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-11-01 33（+0）
+2026-10-18 33 → 2026-11-02 34（+1）
 
 
 ---

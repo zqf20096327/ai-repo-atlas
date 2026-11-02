@@ -46,12 +46,12 @@ CustomGPT.ai 维护的 monorepo，包含 13 个生产可用的集成，分四类
 ```mermaid
 xychart-beta
     title "Poll-The-People/customgpt-integrations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

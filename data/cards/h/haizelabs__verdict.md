@@ -1,6 +1,6 @@
 # haizelabs/verdict
 
-⭐ 352 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/haizelabs/verdict) · [官网](http://verdict.haizelabs.com/docs) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **构建与执行复合 LLM-as-a-judge 评测的声明式框架**
 
@@ -11,7 +11,7 @@ Python 库，用 Unit/Layer/Block 原语以依赖图方式组合多个 LLM 判�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

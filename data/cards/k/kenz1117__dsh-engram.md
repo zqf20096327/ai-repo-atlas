@@ -1,6 +1,6 @@
 # kenz1117/dsh-engram
 
-⭐ 51 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kenz1117/dsh-engram) · [官网](https://kenz1117.github.io/dsh-engram/) · 个人维护 · 中文 README
+⭐ 53 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kenz1117/dsh-engram) · [官网](https://kenz1117.github.io/dsh-engram/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地跨会话长期记忆插件（记忆宫殿架构）**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "kenz1117/dsh-engram 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 29 --> 53
-    line [31, 34, 38, 40, 41, 47, 50, 51]
+    title "kenz1117/dsh-engram 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 29 --> 55
+    line [31, 34, 38, 40, 41, 47, 50, 51, 53]
 ```
 
-2026-10-24 31 → 2026-11-01 51（+20）
+2026-10-24 31 → 2026-11-02 53（+22）
 
 
 ---

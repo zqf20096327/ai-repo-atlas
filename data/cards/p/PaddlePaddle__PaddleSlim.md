@@ -45,13 +45,13 @@ PaddlePaddle 生态下的模型压缩库，提供低比特量化（QAT/PTQ/Embed
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/PaddleSlim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "PaddlePaddle/PaddleSlim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1610 --> 1613
-    line [1611, 1612]
+    line [1611, 1612, 1612]
 ```
 
-2026-10-18 1,611 → 2026-11-01 1,612（+1）
+2026-10-18 1,611 → 2026-11-02 1,612（+1）
 
 
 ---

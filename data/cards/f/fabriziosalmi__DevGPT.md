@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabriziosalmi/DevGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "fabriziosalmi/DevGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 69 --> 72
-    line [70, 71]
+    line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-11-01 71（+1）
+2026-10-18 70 → 2026-11-02 71（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # GijungKim/expo-local-llm
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/GijungKim/expo-local-llm) · [官网](https://www.npmjs.com/package/expo-local-llm) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/GijungKim/expo-local-llm) · [官网](https://www.npmjs.com/package/expo-local-llm) · 个人维护
 
 **Expo 模块：在 iOS/Android 应用内调用系统自带端侧 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GijungKim/expo-local-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 15（+1）
 
 
 ---

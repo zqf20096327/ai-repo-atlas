@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 37
-    line [11, 21, 31, 35]
+    line [11, 21, 31, 35, 35]
 ```
 
-2026-10-29 11 → 2026-11-01 35（+24）
+2026-10-29 11 → 2026-11-02 35（+24）
 
 
 ---

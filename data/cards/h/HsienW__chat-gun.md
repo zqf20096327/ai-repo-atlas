@@ -1,6 +1,6 @@
 # HsienW/chat-gun
 
-⭐ 143 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/HsienW/chat-gun) · 个人维护 · 中文 README
+⭐ 145 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/HsienW/chat-gun) · 个人维护 · 中文 README
 
 **React+TypeScript+LangGraph JS 的全端 Agent Chat 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HsienW/chat-gun 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 142 --> 146
+    line [143, 145]
 ```
 
-2026-10-18 143 → 2026-11-01 143（+0）
+2026-10-18 143 → 2026-11-02 145（+2）
 
 
 ---

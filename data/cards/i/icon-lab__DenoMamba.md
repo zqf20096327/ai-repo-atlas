@@ -1,6 +1,6 @@
 # icon-lab/DenoMamba
 
-⭐ 37 · Python · MIT · 推送 2025-11-05 · [GitHub](https://github.com/icon-lab/DenoMamba) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **低剂量CT去噪的融合状态空间模型官方PyTorch实现**
 
@@ -11,7 +11,7 @@ DenoMamba 的官方 PyTorch 实现，对应 arXiv:2409.13094 与 IEEE JBHI 论�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

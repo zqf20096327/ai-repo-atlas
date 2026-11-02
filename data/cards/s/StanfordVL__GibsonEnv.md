@@ -45,13 +45,13 @@ StanfordVL 发布的具身智能体仿真环境（CVPR 2018），将真实空间
 
 ```mermaid
 xychart-beta
-    title "StanfordVL/GibsonEnv 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-01"]
+    title "StanfordVL/GibsonEnv 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-01", "2026-11-02"]
     y-axis "stars" 946 --> 949
-    line [947, 948]
+    line [947, 948, 948]
 ```
 
-2026-10-22 947 → 2026-11-01 948（+1）
+2026-10-22 947 → 2026-11-02 948（+1）
 
 
 ---

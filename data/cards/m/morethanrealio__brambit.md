@@ -1,6 +1,6 @@
 # morethanrealio/brambit
 
-⭐ 22 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/morethanrealio/brambit) · 组织维护
+⭐ 22 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/morethanrealio/brambit) · 组织维护
 
 **自托管多人个人 AI 助手引擎：一台服务器，每人的独立助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "morethanrealio/brambit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-01"]
+    title "morethanrealio/brambit 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 4 --> 23
-    line [5, 19, 20, 21, 22, 21, 22]
+    line [5, 19, 20, 21, 22, 21, 22, 22]
 ```
 
-2026-10-18 5 → 2026-11-01 22（+17）
+2026-10-18 5 → 2026-11-02 22（+17）
 
 
 ---

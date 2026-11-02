@@ -1,6 +1,6 @@
 # pie-project/pie
 
-⭐ 238 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
+⭐ 238 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
 
 **可编程高性能模型推理引擎，用 WebAssembly inferlet 驱动推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pie-project/pie 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-31", "2026-11-02"]
     y-axis "stars" 237 --> 239
     line [238, 238]
 ```
 
-2026-10-31 238 → 2026-11-01 238（+0）
+2026-10-31 238 → 2026-11-02 238（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MegaByteMark/markdown-ui-dsl
 
-⭐ 24 · MIT · 推送 2026-03-14 · [GitHub](https://github.com/MegaByteMark/markdown-ui-dsl) · 个人维护
+⭐ 25 · MIT · 推送 2026-03-14 · [GitHub](https://github.com/MegaByteMark/markdown-ui-dsl) · 个人维护
 
 **面向 AI 编码代理的文本 UI 线框 DSL 规范**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MegaByteMark/markdown-ui-dsl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-01 24（+0）
+2026-10-18 24 → 2026-11-02 25（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Milvus 官方 C# SDK，以 NuGet 包分发，供 .NET 应用连接 Milvus 向量
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-sdk-csharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "milvus-io/milvus-sdk-csharp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 137 --> 140
-    line [138, 139]
+    line [138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-11-01 139（+1）
+2026-10-18 138 → 2026-11-02 139（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # thkt/dotclaude
 
-⭐ 12 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/thkt/dotclaude) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/thkt/dotclaude) · 个人维护
 
 **个人 Claude Code 配置集：27 技能、28 代理与质量门禁钩子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thkt/dotclaude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

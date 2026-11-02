@@ -1,6 +1,6 @@
 # EIGHTfs/DeepSeekHarness-NAS
 
-⭐ 13 · Shell · 推送 2026-10-28 · [GitHub](https://github.com/EIGHTfs/DeepSeekHarness-NAS) · [官网](https://deepseek-ai.github.io/deepseek-harness/) · 个人维护 · 中文 README
+⭐ 14 · Shell · 推送 2026-11-01 · [GitHub](https://github.com/EIGHTfs/DeepSeekHarness-NAS) · [官网](https://deepseek-ai.github.io/deepseek-harness/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的群晖 DSM / 飞牛 fnOS NAS 原生安装包**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH，DeepSeek AI 开源的 Agent 框架）的 NAS 平台适�
 ```mermaid
 xychart-beta
     title "EIGHTfs/DeepSeekHarness-NAS 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13, 13]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 13, 14]
 ```
 
-2026-10-25 10 → 2026-11-01 13（+3）
+2026-10-25 10 → 2026-11-02 14（+4）
 
 
 ---

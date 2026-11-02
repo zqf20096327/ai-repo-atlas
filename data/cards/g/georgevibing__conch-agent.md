@@ -1,6 +1,6 @@
 # georgevibing/conch-agent
 
-⭐ 110 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/georgevibing/conch-agent) · [官网](https://conchagent.com) · 个人维护
+⭐ 110 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/georgevibing/conch-agent) · [官网](https://conchagent.com) · 个人维护
 
 **自托管的统一 AI 助手客户端：把已付费的各家模型聚合在一个应用里**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "georgevibing/conch-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 88 --> 113
     line [90, 111, 109, 108, 109, 110, 110]
 ```
 
-2026-10-18 90 → 2026-11-01 110（+20）
+2026-10-18 90 → 2026-11-02 110（+20）
 
 
 ---

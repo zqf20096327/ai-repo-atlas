@@ -1,6 +1,6 @@
 # AtlasAnalyticsLab/AtlasPatch
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/AtlasAnalyticsLab/AtlasPatch) · [官网](https://atlasanalyticslab.github.io/AtlasPatch/) · 组织维护
+⭐ 66 · Python · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/AtlasAnalyticsLab/AtlasPatch) · [官网](https://atlasanalyticslab.github.io/AtlasPatch/) · 组织维护
 
 **病理全切片图像预处理工具：组织分割与高通量切块特征提取**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AtlasAnalyticsLab/AtlasPatch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-18 65 → 2026-11-01 65（+0）
+2026-10-18 65 → 2026-11-02 66（+1）
 
 
 ---

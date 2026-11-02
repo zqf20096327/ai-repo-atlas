@@ -1,6 +1,6 @@
 # wanikua/byebyeclaw
 
-⭐ 75 · Shell · MIT · 推送 2026-03-15 · [GitHub](https://github.com/wanikua/byebyeclaw) · 个人维护 · 中文 README
+⭐ 74 · Shell · MIT · 推送 2026-03-15 · [GitHub](https://github.com/wanikua/byebyeclaw) · 个人维护 · 中文 README
 
 **一键卸载所有 Claw 家族 AI Agent 的清理脚本，无残留**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wanikua/byebyeclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 73 --> 76
+    line [75, 74]
 ```
 
-2026-10-18 75 → 2026-11-01 75（+0）
+2026-10-18 75 → 2026-11-02 74（-1）
 
 
 ---

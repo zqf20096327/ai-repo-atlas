@@ -1,6 +1,6 @@
 # rush-db/rushdb
 
-⭐ 326 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rush-db/rushdb) · [官网](https://rushdb.com) · 组织维护 · 中文 README
+⭐ 326 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/rush-db/rushdb) · [官网](https://rushdb.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的图+向量数据库与记忆层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rush-db/rushdb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 324 --> 327
     line [325, 326, 326]
 ```
 
-2026-10-18 325 → 2026-11-01 326（+1）
+2026-10-18 325 → 2026-11-02 326（+1）
 
 
 ---

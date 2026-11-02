@@ -1,6 +1,6 @@
 # dongsheng123132/ai-tungke
 
-⭐ 27 · TypeScript · 推送 2026-04-13 · [GitHub](https://github.com/dongsheng123132/ai-tungke) · [官网](https://ai-tungke-tt9w.vercel.app) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · 推送 2026-04-13 · [GitHub](https://github.com/dongsheng123132/ai-tungke) · [官网](https://ai-tungke-tt9w.vercel.app) · 个人维护 · 中文 README
 
 **基于双地图引擎的外贸 B2B AI 获客平台前端项目**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "dongsheng123132/ai-tungke 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-11-01 27（+1）
+2026-10-18 26 → 2026-11-02 28（+2）
 
 
 ---

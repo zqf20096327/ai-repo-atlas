@@ -1,6 +1,6 @@
 # yousefebrahimi0/list-ai-extensions-chrome-addons-firefox
 
-⭐ 127 · MIT · 推送 2025-12-25 · [GitHub](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) · 个人维护
+⭐ 126 · MIT · 推送 2025-12-25 · [GitHub](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) · 个人维护
 
 **60+ AI 浏览器扩展/插件策展清单（Chrome 与 Firefox）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yousefebrahimi0/list-ai-extensions-chrome-addons-firefox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 125 --> 128
+    line [127, 126]
 ```
 
-2026-10-18 127 → 2026-11-01 127（+0）
+2026-10-18 127 → 2026-11-02 126（-1）
 
 
 ---

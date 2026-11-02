@@ -45,13 +45,13 @@ CLI 优先的 AI 代码审查工具：读取 git diff，检索相关项目上下
 
 ```mermaid
 xychart-beta
-    title "codefox-lab/CodeFox-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "codefox-lab/CodeFox-CLI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 41 --> 44
-    line [43, 42]
+    line [43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-01 42（-1）
+2026-10-18 43 → 2026-11-02 42（-1）
 
 
 ---

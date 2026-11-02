@@ -1,6 +1,6 @@
 # wsjwu58-cmd/Pi-Paper
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wsjwu58-cmd/Pi-Paper) · [官网](https://wsjaly.cn/) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/wsjwu58-cmd/Pi-Paper) · [官网](https://wsjaly.cn/) · 个人维护 · 中文 README
 
 **单用户本地优先的 AI 桌面画布创作工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wsjwu58-cmd/Pi-Paper 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-22", "2026-10-25", "2026-11-02"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-22 16 → 2026-11-01 17（+1）
+2026-10-22 16 → 2026-11-02 17（+1）
 
 
 ---

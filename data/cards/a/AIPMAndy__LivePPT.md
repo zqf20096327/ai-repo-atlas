@@ -1,6 +1,6 @@
 # AIPMAndy/LivePPT
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/LivePPT) · 个人维护 · 中文 README
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/LivePPT) · 个人维护 · 中文 README
 
 **把 Markdown/README 一条命令生成可翻页 HTML 演示页的工具**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/LivePPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 78 --> 84
-    line [79, 80, 83]
+    title "AIPMAndy/LivePPT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 78 --> 85
+    line [79, 80, 83, 84]
 ```
 
-2026-10-18 79 → 2026-11-01 83（+4）
+2026-10-18 79 → 2026-11-02 84（+5）
 
 
 ---

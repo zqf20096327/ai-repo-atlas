@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asigatchov/fast-volleyball-tracking-inference 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01"]
+    title "asigatchov/fast-volleyball-tracking-inference 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 70 --> 76
-    line [71, 72, 73, 75]
+    line [71, 72, 73, 75, 75]
 ```
 
-2026-10-18 71 → 2026-11-01 75（+4）
+2026-10-18 71 → 2026-11-02 75（+4）
 
 
 ---

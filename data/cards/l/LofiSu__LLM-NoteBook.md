@@ -1,6 +1,6 @@
 # LofiSu/LLM-NoteBook
 
-⭐ 18 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/LofiSu/LLM-NoteBook) · 个人维护 · 中文 README
+⭐ 19 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/LofiSu/LLM-NoteBook) · 个人维护 · 中文 README
 
 **从零开始的大语言模型系统性学习笔记与实践指南**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LofiSu/LLM-NoteBook 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-31", "2026-11-02"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-31 18 → 2026-11-01 18（+0）
+2026-10-31 18 → 2026-11-02 19（+1）
 
 
 ---

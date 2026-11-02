@@ -1,6 +1,6 @@
 # anonde-io/anonde
 
-⭐ 19 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anonde-io/anonde) · [官网](https://anonde.io) · 组织维护
+⭐ 19 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/anonde-io/anonde) · [官网](https://anonde.io) · 组织维护
 
 **本地优先的 PII 匿名化/还原工具包，供 LLM 前置脱敏**
 
@@ -46,12 +46,12 @@ Go 编写的开发者工具包，用于在数据进入 LLM 前匿名化个人身
 ```mermaid
 xychart-beta
     title "anonde-io/anonde 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # gitmotion/ntfy-me-mcp
 
-⭐ 76 · TypeScript · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/gitmotion/ntfy-me-mcp) · [官网](https://npmjs.com/package/ntfy-me-mcp) · 个人维护
+⭐ 75 · TypeScript · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/gitmotion/ntfy-me-mcp) · [官网](https://npmjs.com/package/ntfy-me-mcp) · 个人维护
 
 **让 AI 助手通过 ntfy 收发通知的 MCP 服务器**
 
@@ -45,12 +45,12 @@ TypeScript 实现的 Model Context Protocol 服务器，供 AI 助手向 ntfy.sh
 ```mermaid
 xychart-beta
     title "gitmotion/ntfy-me-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 74 --> 77
+    line [76, 75]
 ```
 
-2026-10-18 76 → 2026-11-01 76（+0）
+2026-10-18 76 → 2026-11-02 75（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucia-huang7/RideRecall-Agent
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lucia-huang7/RideRecall-Agent) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lucia-huang7/RideRecall-Agent) · 个人维护
 
 **面向骑手的行程费用争议客服 Agent 应用（带记忆与证据引用）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucia-huang7/RideRecall-Agent 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 8 --> 17
-    line [9, 16]
+    title "lucia-huang7/RideRecall-Agent 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 8 --> 20
+    line [9, 16, 19]
 ```
 
-2026-10-31 9 → 2026-11-01 16（+7）
+2026-10-31 9 → 2026-11-02 19（+10）
 
 
 ---

@@ -46,12 +46,12 @@ C++ 包装库，封装 Darknet 的 C 功能（libdarknet.so）：加载 .cfg/.na
 ```mermaid
 xychart-beta
     title "stephanecharette/DarkHelp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 183 --> 185
     line [184, 184]
 ```
 
-2026-10-18 184 → 2026-11-01 184（+0）
+2026-10-18 184 → 2026-11-02 184（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # evo-design/proto-tools
 
-⭐ 142 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/evo-design/proto-tools) · [官网](https://proto.evodesign.org/docs/tools/introduction) · 组织维护
+⭐ 142 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/evo-design/proto-tools) · [官网](https://proto.evodesign.org/docs/tools/introduction) · 组织维护
 
 **面向生成式生物学的计算/AI 工具统一调用基础设施**
 
@@ -45,13 +45,13 @@ Python 包 proto-tools，将大量计算生物学与生物 AI 工具（语言模
 
 ```mermaid
 xychart-beta
-    title "evo-design/proto-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-01"]
+    title "evo-design/proto-tools 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 134 --> 143
-    line [135, 136, 139, 141, 142]
+    line [135, 136, 139, 141, 142, 142]
 ```
 
-2026-10-18 135 → 2026-11-01 142（+7）
+2026-10-18 135 → 2026-11-02 142（+7）
 
 
 ---

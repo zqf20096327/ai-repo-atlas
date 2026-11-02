@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hivementality-ai/hivemind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "hivementality-ai/hivemind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 85 --> 88
-    line [86, 87]
+    line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-11-01 87（+1）
+2026-10-18 86 → 2026-11-02 87（+1）
 
 
 ---

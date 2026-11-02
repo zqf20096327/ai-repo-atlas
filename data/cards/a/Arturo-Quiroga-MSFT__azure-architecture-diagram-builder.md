@@ -1,6 +1,6 @@
 # Arturo-Quiroga-MSFT/azure-architecture-diagram-builder
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Arturo-Quiroga-MSFT/azure-architecture-diagram-builder) · [官网](https://aka.ms/diagram-builder) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Arturo-Quiroga-MSFT/azure-architecture-diagram-builder) · [官网](https://aka.ms/diagram-builder) · 个人维护
 
 **AI 驱动的 Azure 架构图设计、验证与部署工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Arturo-Quiroga-MSFT/azure-architecture-diagram-builder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 12, 12]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 12, 14]
 ```
 
-2026-10-18 9 → 2026-11-01 12（+3）
+2026-10-18 9 → 2026-11-02 14（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # green-dalii/diflowy
 
-⭐ 34 · Astro · MIT · 推送 2026-08-12 · [GitHub](https://github.com/green-dalii/diflowy) · [官网](https://diflowy.greenerai.top) · 个人维护 · 中文 README
+⭐ 34 · Astro · MIT · 推送 2026-11-01 · [GitHub](https://github.com/green-dalii/diflowy) · [官网](https://diflowy.greenerai.top) · 个人维护 · 中文 README
 
 **Dify 工作流的社区平台：探索、分享、下载与托管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "green-dalii/diflowy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-01 34（+0）
+2026-10-18 34 → 2026-11-02 34（+0）
 
 
 ---

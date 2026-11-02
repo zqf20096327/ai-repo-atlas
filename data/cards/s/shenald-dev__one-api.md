@@ -1,6 +1,6 @@
 # shenald-dev/one-api
 
-⭐ 29 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/shenald-dev/one-api) · 个人维护
+⭐ 29 · JavaScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/shenald-dev/one-api) · 个人维护
 
 **统一 20+ LLM 提供商的 OpenAI 兼容边缘 API 网关**
 
@@ -45,12 +45,12 @@ Node.js/TypeScript（Hono）实现的单一部署单元 LLM 网关：将 OpenAI�
 ```mermaid
 xychart-beta
     title "shenald-dev/one-api 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-02"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-26 28 → 2026-11-01 29（+1）
+2026-10-26 28 → 2026-11-02 29（+1）
 
 
 ---

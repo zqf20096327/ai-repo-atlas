@@ -1,6 +1,6 @@
 # leehuwuj/refiner
 
-⭐ 15 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/leehuwuj/refiner) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/leehuwuj/refiner) · 个人维护
 
 **用 LLM 翻译或润色文本的桌面应用（macOS/Windows）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "leehuwuj/refiner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

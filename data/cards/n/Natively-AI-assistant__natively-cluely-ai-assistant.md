@@ -1,6 +1,6 @@
 # Natively-AI-assistant/natively-cluely-ai-assistant
 
-⭐ 3,140 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
+⭐ 3,149 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
 
 **面向面试与会议的桌面 AI 副驾：实时转录、隐形答案与本地 RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Natively-AI-assistant/natively-cluely-ai-assistant 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2988 --> 3153
-    line [3001, 3026, 3044, 3058, 3065, 3074, 3078, 3088, 3101, 3117, 3126, 3134, 3140]
+    title "Natively-AI-assistant/natively-cluely-ai-assistant 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2987 --> 3163
+    line [3001, 3026, 3044, 3058, 3065, 3074, 3078, 3088, 3101, 3117, 3126, 3134, 3140, 3149]
 ```
 
-2026-10-18 3,001 → 2026-11-01 3,140（+139）
+2026-10-18 3,001 → 2026-11-02 3,149（+148）
 
 
 ---

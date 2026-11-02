@@ -1,6 +1,6 @@
 # lean-dojo/LeanDojo
 
-⭐ 850 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lean-dojo/LeanDojo) · [官网](https://leandojo.org/leandojo.html) · 组织维护
+⭐ 852 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lean-dojo/LeanDojo) · [官网](https://leandojo.org/leandojo.html) · 组织维护
 
 **从 Lean 代码库抽取证明数据并以编程方式交互的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lean-dojo/LeanDojo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 845 --> 851
-    line [846, 847, 848, 849, 850, 850]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 845 --> 853
+    line [846, 847, 848, 849, 850, 852]
 ```
 
-2026-10-18 846 → 2026-11-01 850（+4）
+2026-10-18 846 → 2026-11-02 852（+6）
 
 
 ---

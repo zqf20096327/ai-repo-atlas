@@ -1,6 +1,6 @@
 # BetaBots-LLC/callimachus
 
-⭐ 46 · Rust · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/BetaBots-LLC/callimachus) · [官网](https://callimachus.app) · 组织维护
+⭐ 46 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/BetaBots-LLC/callimachus) · [官网](https://callimachus.app) · 组织维护
 
 **本地索引并检索 11 种 AI 编码代理的对话历史**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BetaBots-LLC/callimachus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-01 46（+1）
+2026-10-18 45 → 2026-11-02 46（+1）
 
 
 ---

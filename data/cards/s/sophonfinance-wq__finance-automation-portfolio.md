@@ -47,12 +47,12 @@ Sophon Finance Systems 提供 52 个自包含 Python 系统，覆盖月结、现
 ```mermaid
 xychart-beta
     title "sophonfinance-wq/finance-automation-portfolio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
     y-axis "stars" 12 --> 17
     line [13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-01 16（+3）
+2026-10-18 13 → 2026-11-02 16（+3）
 
 
 ---

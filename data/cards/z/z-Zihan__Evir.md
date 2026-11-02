@@ -1,6 +1,6 @@
 # z-Zihan/Evir
 
-⭐ 11 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/z-Zihan/Evir) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/z-Zihan/Evir) · 个人维护 · 中文 README
 
 **本地优先 BYOM 桌面项目 Agent：自带模型读改运行验证代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "z-Zihan/Evir 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

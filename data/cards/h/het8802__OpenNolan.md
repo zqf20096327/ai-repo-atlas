@@ -1,6 +1,6 @@
 # het8802/OpenNolan
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/het8802/OpenNolan) · [官网](https://www.opennolan.com) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/het8802/OpenNolan) · [官网](https://www.opennolan.com) · 个人维护
 
 **开源短视频自动剪辑引擎：AI agent 生成竖版 Reels/TikTok 成片**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "het8802/OpenNolan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 16]
 ```
 
-2026-10-18 13 → 2026-11-01 14（+1）
+2026-10-18 13 → 2026-11-02 16（+3）
 
 
 ---

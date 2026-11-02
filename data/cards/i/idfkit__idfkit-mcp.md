@@ -1,6 +1,6 @@
 # idfkit/idfkit-mcp
 
-⭐ 13 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/idfkit/idfkit-mcp) · [官网](https://mcp.idfkit.com/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/idfkit/idfkit-mcp) · [官网](https://mcp.idfkit.com/) · 组织维护
 
 **让 AI 助手直接操作 EnergyPlus 建筑能耗模型的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "idfkit/idfkit-mcp 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
     y-axis "stars" 9 --> 14
     line [10, 12, 13, 13]
 ```
 
-2026-10-25 10 → 2026-11-01 13（+3）
+2026-10-25 10 → 2026-11-02 13（+3）
 
 
 ---

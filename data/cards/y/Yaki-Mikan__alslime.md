@@ -1,6 +1,6 @@
 # Yaki-Mikan/alslime
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/Yaki-Mikan/alslime) · [官网](https://github.com/Yaki-Mikan/alslime/blob/main/docs/manual/index.md) · 个人维护
+⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Yaki-Mikan/alslime) · [官网](https://github.com/Yaki-Mikan/alslime/blob/main/docs/manual/index.md) · 个人维护
 
 **本地运行的 AI 角色扮演前端：接入 Gemini CLI / Claude Code / Antigravity 与自设角色对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yaki-Mikan/alslime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "Yaki-Mikan/alslime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

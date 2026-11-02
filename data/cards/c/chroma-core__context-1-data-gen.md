@@ -1,6 +1,6 @@
 # chroma-core/context-1-data-gen
 
-⭐ 439 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/chroma-core/context-1-data-gen) · 组织维护
+⭐ 440 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/chroma-core/context-1-data-gen) · 组织维护
 
 **Chroma 技术报告配套的合成多跳搜索任务数据生成流水线**
 
@@ -45,12 +45,12 @@ Chroma Context-1 技术报告的配套数据生成代码：按 explore → verif
 ```mermaid
 xychart-beta
     title "chroma-core/context-1-data-gen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
     y-axis "stars" 438 --> 442
-    line [441, 440, 439, 439]
+    line [441, 440, 439, 440]
 ```
 
-2026-10-18 441 → 2026-11-01 439（-2）
+2026-10-18 441 → 2026-11-02 440（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ardeyouxipianyi/workbuddy2api-hub
 
-⭐ 3,331 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ardeyouxipianyi/workbuddy2api-hub) · [官网](https://github.com/ardeyouxipianyi/workbuddy2api-intl/releases) · 个人维护 · 中文 README
+⭐ 3,359 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ardeyouxipianyi/workbuddy2api-hub) · [官网](https://github.com/ardeyouxipianyi/workbuddy2api-intl/releases) · 个人维护 · 中文 README
 
 **腾讯 WorkBuddy 多账号反向代理网关，输出 OpenAI 兼容接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ardeyouxipianyi/workbuddy2api-hub 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1436 --> 3503
-    line [1608, 1981, 2448, 2667, 2819, 2882, 2954, 3019, 3094, 3154, 3220, 3289, 3331]
+    title "ardeyouxipianyi/workbuddy2api-hub 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1433 --> 3534
+    line [1608, 1981, 2448, 2667, 2819, 2882, 2954, 3019, 3094, 3154, 3220, 3289, 3331, 3359]
 ```
 
-2026-10-18 1,608 → 2026-11-01 3,331（+1,723）
+2026-10-18 1,608 → 2026-11-02 3,359（+1,751）
 
 
 ---

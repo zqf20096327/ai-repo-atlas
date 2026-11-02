@@ -1,6 +1,6 @@
 # csmsqj/zed-api
 
-⭐ 29 · Zig · MIT · 推送 2026-09-27 · [GitHub](https://github.com/csmsqj/zed-api) · 个人维护 · 中文 README
+⭐ 30 · Zig · MIT · 推送 2026-09-27 · [GitHub](https://github.com/csmsqj/zed-api) · 个人维护 · 中文 README
 
 **把 Zed 托管模型转为本地 OpenAI/Anthropic 兼容 API 的代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "csmsqj/zed-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 26 --> 30
-    line [27, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 26 --> 31
+    line [27, 29, 30]
 ```
 
-2026-10-18 27 → 2026-11-01 29（+2）
+2026-10-18 27 → 2026-11-02 30（+3）
 
 
 ---

@@ -40,6 +40,18 @@
 > L16: Instead of reinventing infrastructure, Meridian provides an **intelligence layer** via structured `.md` files that 
 > L28: 1. Copy the `brain/` folder to your AI session
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mattvideoproductions/MERIDIAN_Brain 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-01 23 → 2026-11-02 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `fd75ffa363f9` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # dsh-plugin-lab/dsh-zhihu-search
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/dsh-plugin-lab/dsh-zhihu-search) · [官网](https://zl-vertex.feishu.cn/wiki/VDGtwUOzIiWNEUkXiGHcvzYDnLc) · 组织维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/dsh-plugin-lab/dsh-zhihu-search) · [官网](https://zl-vertex.feishu.cn/wiki/VDGtwUOzIiWNEUkXiGHcvzYDnLc) · 组织维护 · 中文 README
 
 **给 DeepSeek Harness 装上知乎搜索能力的 DSH 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dsh-plugin-lab/dsh-zhihu-search 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 12 --> 20
     line [13, 14, 15, 16, 17, 19, 19]
 ```
 
-2026-10-18 13 → 2026-11-01 19（+6）
+2026-10-18 13 → 2026-11-02 19（+6）
 
 
 ---

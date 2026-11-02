@@ -1,6 +1,6 @@
 # JMAN730/opendroid
 
-⭐ 1,227 · Kotlin · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
+⭐ 1,232 · Kotlin · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
 
 **Android 全自主 AI 代理：本地/云端 LLM 驱动手机自动化**
 
@@ -40,6 +40,18 @@
 > L24: OpenDroid isn't just another chatbot. It's a **fully autonomous AI agent** that lives on your Android phone and act
 > L28: OpenDroid will **plan** this as 3 steps, **execute** each one, **verify** the results, and **adapt** if anything fa
 > L118: OpenDroid supports **13 LLM providers** with automatic failover:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JMAN730/opendroid 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 1226 --> 1233
+    line [1227, 1232]
+```
+
+2026-11-01 1,227 → 2026-11-02 1,232（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # ANTsX/ANTsPyNet
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ANTsX/ANTsPyNet) · [官网](https://antspynet.readthedocs.io) · 组织维护
+⭐ 262 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ANTsX/ANTsPyNet) · [官网](https://antspynet.readthedocs.io) · 组织维护
 
 **医学影像深度学习库：预训练模型+网络架构+训练工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ANTsX/ANTsPyNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 261 --> 264
-    line [262, 263, 263]
+    line [262, 263, 262]
 ```
 
-2026-10-18 262 → 2026-11-01 263（+1）
+2026-10-18 262 → 2026-11-02 262（+0）
 
 
 ---

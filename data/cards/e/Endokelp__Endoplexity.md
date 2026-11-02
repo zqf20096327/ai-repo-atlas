@@ -1,6 +1,6 @@
 # Endokelp/Endoplexity
 
-⭐ 491 · TypeScript · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/Endokelp/Endoplexity) · 个人维护
+⭐ 435 · TypeScript · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/Endokelp/Endoplexity) · 个人维护
 
 **Chrome 侧边栏扩展：用已订阅的 Claude/Cursor CLI 驱动浏览器操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Endokelp/Endoplexity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
+    title "Endokelp/Endoplexity 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 138 --> 523
-    line [180, 173, 170, 491]
+    line [180, 173, 170, 491, 435]
 ```
 
-2026-10-18 180 → 2026-11-01 491（+311）
+2026-10-18 180 → 2026-11-02 435（+255）
 
 
 ---

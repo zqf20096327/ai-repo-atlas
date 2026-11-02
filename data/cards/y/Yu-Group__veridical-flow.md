@@ -1,6 +1,6 @@
 # Yu-Group/veridical-flow
 
-⭐ 75 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Yu-Group/veridical-flow) · [官网](https://vflow.csinva.io) · 组织维护
+⭐ 75 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Yu-Group/veridical-flow) · [官网](https://vflow.csinva.io) · 组织维护
 
 **数据科学管道稳定性分析库：评估判断选择对结果的影响**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yu-Group/veridical-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-11-01 75（+0）
+2026-10-18 75 → 2026-11-02 75（+0）
 
 
 ---

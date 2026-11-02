@@ -1,6 +1,6 @@
 # EvanZhouDev/openai-oauth
 
-⭐ 1,420 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/EvanZhouDev/openai-oauth) · [官网](https://openai-oauth.vercel.app) · 个人维护
+⭐ 1,421 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/EvanZhouDev/openai-oauth) · [官网](https://openai-oauth.vercel.app) · 个人维护
 
 **把 ChatGPT 账号变成 OpenAI 兼容 API 的 OAuth 接入工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvanZhouDev/openai-oauth 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1403 --> 1421
-    line [1405, 1404, 1408, 1409, 1410, 1413, 1415, 1416, 1417, 1418, 1420]
+    title "EvanZhouDev/openai-oauth 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1403 --> 1422
+    line [1405, 1404, 1408, 1409, 1410, 1413, 1415, 1416, 1417, 1418, 1420, 1421]
 ```
 
-2026-10-18 1,405 → 2026-11-01 1,420（+15）
+2026-10-18 1,405 → 2026-11-02 1,421（+16）
 
 
 ---

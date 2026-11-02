@@ -45,12 +45,12 @@ Presidio 生态的数据科学配套包（PyPI 包名 presidio-evaluator）：�
 ```mermaid
 xychart-beta
     title "data-privacy-stack/presidio-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 317 --> 320
     line [318, 319, 319]
 ```
 
-2026-10-18 318 → 2026-11-01 319（+1）
+2026-10-18 318 → 2026-11-02 319（+1）
 
 
 ---

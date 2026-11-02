@@ -45,13 +45,13 @@ hugohe3/ppt-master 的分支，通过 AI 编辑器（Claude Code、Cursor、Open
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/PPTskill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    title "AIPMAndy/PPTskill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
     y-axis "stars" 38 --> 58
-    line [39, 40, 57]
+    line [39, 40, 57, 57]
 ```
 
-2026-10-18 39 → 2026-11-01 57（+18）
+2026-10-18 39 → 2026-11-02 57（+18）
 
 
 ---

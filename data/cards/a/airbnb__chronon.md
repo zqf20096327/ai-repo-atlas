@@ -1,6 +1,6 @@
 # airbnb/chronon
 
-⭐ 1,067 · Scala · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/airbnb/chronon) · 组织维护
+⭐ 1,068 · Scala · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/airbnb/chronon) · 组织维护
 
 **面向 AI/ML 的特征计算与服务数据平台**
 
@@ -44,13 +44,13 @@ Chronon 是 Airbnb 开源的 AI/ML 数据平台：用户以原始数据的变换
 
 ```mermaid
 xychart-beta
-    title "airbnb/chronon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1064 --> 1068
-    line [1065, 1066, 1065, 1066, 1067]
+    title "airbnb/chronon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1064 --> 1069
+    line [1065, 1066, 1065, 1066, 1067, 1068]
 ```
 
-2026-10-18 1,065 → 2026-11-01 1,067（+2）
+2026-10-18 1,065 → 2026-11-02 1,068（+3）
 
 
 ---

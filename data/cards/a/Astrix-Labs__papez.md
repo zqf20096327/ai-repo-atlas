@@ -1,6 +1,6 @@
 # Astrix-Labs/papez
 
-⭐ 31 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/Astrix-Labs/papez) · [官网](https://papez.ai) · 组织维护
+⭐ 31 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Astrix-Labs/papez) · [官网](https://papez.ai) · 组织维护
 
 **给 AI agent 的因果图记忆引擎，MCP 服务形式提供**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Astrix-Labs/papez 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-01 31（+0）
+2026-10-18 31 → 2026-11-02 31（+0）
 
 
 ---

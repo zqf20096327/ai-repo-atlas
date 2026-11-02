@@ -1,6 +1,6 @@
 # mindsdb/anton
 
-⭐ 759 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/mindsdb/anton) · [官网](https://mindsdb.github.io/anton/) · 组织维护
+⭐ 759 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mindsdb/anton) · [官网](https://mindsdb.github.io/anton/) · 组织维护
 
 **自我改进的通用任务 agent，替用户完成发邮件、报表、自动化等实际工作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mindsdb/anton 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    title "mindsdb/anton 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 756 --> 760
-    line [757, 758, 759]
+    line [757, 758, 759, 759]
 ```
 
-2026-10-18 757 → 2026-11-01 759（+2）
+2026-10-18 757 → 2026-11-02 759（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Soutar97/instagui
 
-⭐ 108 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Soutar97/instagui) · 个人维护
+⭐ 108 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Soutar97/instagui) · 个人维护
 
 **把任意 CLI 一条命令变成本地 Web 表单的 AI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Soutar97/instagui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
     y-axis "stars" 106 --> 109
     line [107, 108, 108]
 ```
 
-2026-10-18 107 → 2026-11-01 108（+1）
+2026-10-18 107 → 2026-11-02 108（+1）
 
 
 ---

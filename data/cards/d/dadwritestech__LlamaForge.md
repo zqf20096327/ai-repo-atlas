@@ -1,6 +1,6 @@
 # dadwritestech/LlamaForge
 
-⭐ 118 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dadwritestech/LlamaForge) · [官网](https://dadwritestech.github.io/LlamaForge/) · 个人维护
+⭐ 120 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dadwritestech/LlamaForge) · [官网](https://dadwritestech.github.io/LlamaForge/) · 个人维护
 
 **浏览器中驱动官方 llama.cpp 的本地模型控制面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dadwritestech/LlamaForge 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 96 --> 120
-    line [98, 99, 100, 107, 113, 115, 117, 118]
+    title "dadwritestech/LlamaForge 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 96 --> 122
+    line [98, 99, 100, 107, 113, 115, 117, 118, 120]
 ```
 
-2026-10-18 98 → 2026-11-01 118（+20）
+2026-10-18 98 → 2026-11-02 120（+22）
 
 
 ---

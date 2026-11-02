@@ -1,6 +1,6 @@
 # NVIDIA/spark-local-inference
 
-⭐ 705 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA/spark-local-inference) · 组织维护
+⭐ 712 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/NVIDIA/spark-local-inference) · 组织维护
 
 **面向 NVIDIA SM120/121 GPU 的本地推理服务器，服务长对话与编码代理**
 
@@ -44,13 +44,13 @@ Flare（spark-local-inference）是 NVIDIA 开源的本地推理服务器，面�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/spark-local-inference 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 690 --> 706
-    line [691, 696, 702, 705]
+    title "NVIDIA/spark-local-inference 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 689 --> 714
+    line [691, 696, 702, 705, 712]
 ```
 
-2026-10-29 691 → 2026-11-01 705（+14）
+2026-10-29 691 → 2026-11-02 712（+21）
 
 
 ---

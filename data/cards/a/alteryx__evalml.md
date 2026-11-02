@@ -1,6 +1,6 @@
 # alteryx/evalml
 
-⭐ 851 · Python · BSD-3-Clause · 推送 2026-01-14 · [GitHub](https://github.com/alteryx/evalml) · [官网](https://evalml.alteryx.com) · 组织维护
+⭐ 852 · Python · BSD-3-Clause · 推送 2026-01-14 · [GitHub](https://github.com/alteryx/evalml) · [官网](https://evalml.alteryx.com) · 组织维护
 
 **Python AutoML 库：自动构建、优化与评估机器学习流水线**
 
@@ -45,12 +45,12 @@ EvalML 是 Alteryx 开源的 Python AutoML 库，面向需要自动化机器学�
 ```mermaid
 xychart-beta
     title "alteryx/evalml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 849 --> 852
-    line [850, 851, 851]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 849 --> 853
+    line [850, 851, 852]
 ```
 
-2026-10-18 850 → 2026-11-01 851（+1）
+2026-10-18 850 → 2026-11-02 852（+2）
 
 
 ---

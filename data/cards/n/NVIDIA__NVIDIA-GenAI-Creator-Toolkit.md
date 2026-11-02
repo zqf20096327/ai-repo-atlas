@@ -45,13 +45,13 @@ NVIDIA 维护的 ComfyUI 预构建工作流合集，改编自 GTC 2026 DLI 课�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/NVIDIA-GenAI-Creator-Toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
+    title "NVIDIA/NVIDIA-GenAI-Creator-Toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 78 --> 84
-    line [79, 81, 82, 83]
+    line [79, 81, 82, 83, 83]
 ```
 
-2026-10-18 79 → 2026-11-01 83（+4）
+2026-10-18 79 → 2026-11-02 83（+4）
 
 
 ---

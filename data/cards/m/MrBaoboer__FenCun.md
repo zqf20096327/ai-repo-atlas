@@ -1,6 +1,6 @@
 # MrBaoboer/FenCun
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/MrBaoboer/FenCun) · [官网](https://fencun.vercel.app) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/MrBaoboer/FenCun) · [官网](https://fencun.vercel.app) · 个人维护 · 中文 README
 
 **香水使用决策 Agent：按实时天气与场合从你的香柜推荐今天用哪瓶怎么用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MrBaoboer/FenCun 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

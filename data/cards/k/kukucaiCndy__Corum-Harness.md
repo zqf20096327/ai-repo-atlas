@@ -1,6 +1,6 @@
 # kukucaiCndy/Corum-Harness
 
-⭐ 97 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/kukucaiCndy/Corum-Harness) · 个人维护 · 中文 README
+⭐ 98 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/kukucaiCndy/Corum-Harness) · 个人维护 · 中文 README
 
 **基于 DeepSeek Harness 的桌面 Agent 产品，含编程工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kukucaiCndy/Corum-Harness 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 78 --> 98
-    line [79, 85, 89, 91, 93, 94, 95, 97]
+    title "kukucaiCndy/Corum-Harness 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 78 --> 99
+    line [79, 85, 89, 91, 93, 94, 95, 97, 98]
 ```
 
-2026-10-18 79 → 2026-11-01 97（+18）
+2026-10-18 79 → 2026-11-02 98（+19）
 
 
 ---

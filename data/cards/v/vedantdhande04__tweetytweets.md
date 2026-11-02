@@ -1,6 +1,6 @@
 # vedantdhande04/tweetytweets
 
-⭐ 78 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/vedantdhande04/tweetytweets) · 个人维护
+⭐ 79 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/vedantdhande04/tweetytweets) · 个人维护
 
 **供 AI agent 使用的自主 X/Twitter 发帖流水线（免 API key）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vedantdhande04/tweetytweets 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 67 --> 79
-    line [68, 69, 70, 72, 74, 75, 77, 78, 78]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 67 --> 80
+    line [68, 69, 70, 72, 74, 75, 77, 78, 79]
 ```
 
-2026-10-18 68 → 2026-11-01 78（+10）
+2026-10-18 68 → 2026-11-02 79（+11）
 
 
 ---

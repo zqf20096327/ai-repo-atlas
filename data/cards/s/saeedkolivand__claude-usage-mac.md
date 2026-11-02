@@ -1,6 +1,6 @@
 # saeedkolivand/claude-usage-mac
 
-⭐ 15 · Swift · 推送 2026-10-21 · [GitHub](https://github.com/saeedkolivand/claude-usage-mac) · [官网](https://claude-usage-mac.iamsaeed.dev/) · 个人维护
+⭐ 15 · Swift · 推送 2026-11-01 · [GitHub](https://github.com/saeedkolivand/claude-usage-mac) · [官网](https://claude-usage-mac.iamsaeed.dev/) · 个人维护
 
 **macOS 菜单栏与桌面小组件：显示 Claude Code 用量与费用**
 
@@ -46,12 +46,12 @@ Swift 编写的原生 macOS 应用，在菜单栏和桌面小组件中显示 Cla
 ```mermaid
 xychart-beta
     title "saeedkolivand/claude-usage-mac 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

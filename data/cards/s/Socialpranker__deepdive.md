@@ -1,6 +1,6 @@
 # Socialpranker/deepdive
 
-⭐ 370 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Socialpranker/deepdive) · [官网](https://socialpranker.github.io/deepdive/) · 个人维护
+⭐ 370 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Socialpranker/deepdive) · [官网](https://socialpranker.github.io/deepdive/) · 个人维护
 
 **给 Claude Code 用户的结构化深度研究技能：13 阶段调研流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Socialpranker/deepdive 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01"]
+    title "Socialpranker/deepdive 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 367 --> 374
-    line [373, 368, 369, 370]
+    line [373, 368, 369, 370, 370]
 ```
 
-2026-10-18 373 → 2026-11-01 370（-3）
+2026-10-18 373 → 2026-11-02 370（-3）
 
 
 ---

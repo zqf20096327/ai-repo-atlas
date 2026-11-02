@@ -1,6 +1,6 @@
 # thenaxon/somora_agent
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/thenaxon/somora_agent) · [官网](https://somora.ai) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/thenaxon/somora_agent) · [官网](https://somora.ai) · 个人维护
 
 **本地优先的个人 AI agent 团队：多 agent 共享记忆、任意模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thenaxon/somora_agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 34, 35]
 ```
 
-2026-10-18 31 → 2026-11-01 34（+3）
+2026-10-18 31 → 2026-11-02 35（+4）
 
 
 ---

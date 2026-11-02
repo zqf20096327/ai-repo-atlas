@@ -1,6 +1,6 @@
 # statmike/gcp-mlops
 
-⭐ 718 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/statmike/gcp-mlops) · 个人维护
+⭐ 717 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/statmike/gcp-mlops) · 个人维护
 
 **GCP 端到端 ML/MLOps/Data+AI/Agent 工作流笔记本库（580+）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "statmike/gcp-mlops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 716 --> 719
-    line [717, 718, 718]
+    line [717, 718, 717]
 ```
 
-2026-10-18 717 → 2026-11-01 718（+1）
+2026-10-18 717 → 2026-11-02 717（+0）
 
 
 ---

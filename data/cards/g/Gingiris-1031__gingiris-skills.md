@@ -1,6 +1,6 @@
 # Gingiris-1031/gingiris-skills
 
-⭐ 87 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Gingiris-1031/gingiris-skills) · 个人维护 · 中文 README
+⭐ 88 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Gingiris-1031/gingiris-skills) · 个人维护 · 中文 README
 
 **面向出海增长运营者的 61 个 Claude Code 技能合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Gingiris-1031/gingiris-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01"]
-    y-axis "stars" 83 --> 88
-    line [84, 86, 87, 87]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    y-axis "stars" 83 --> 89
+    line [84, 86, 87, 88]
 ```
 
-2026-10-18 84 → 2026-11-01 87（+3）
+2026-10-18 84 → 2026-11-02 88（+4）
 
 
 ---

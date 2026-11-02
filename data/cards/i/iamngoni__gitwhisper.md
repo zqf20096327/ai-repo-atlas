@@ -1,6 +1,6 @@
 # iamngoni/gitwhisper
 
-⭐ 28 · Dart · MIT · 推送 2026-10-14 · [GitHub](https://github.com/iamngoni/gitwhisper) · [官网](https://iamngoni.github.io/gitwhisper/) · 个人维护
+⭐ 29 · Dart · MIT · 推送 2026-10-14 · [GitHub](https://github.com/iamngoni/gitwhisper) · [官网](https://iamngoni.github.io/gitwhisper/) · 个人维护
 
 **面向开发者的 AI Git 提交信息生成器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iamngoni/gitwhisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-01 28（+0）
+2026-10-18 28 → 2026-11-02 29（+1）
 
 
 ---

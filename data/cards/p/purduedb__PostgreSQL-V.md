@@ -1,6 +1,6 @@
 # purduedb/PostgreSQL-V
 
-⭐ 26 · C · 推送 2026-10-17 · [GitHub](https://github.com/purduedb/PostgreSQL-V) · 组织维护
+⭐ 27 · C · 推送 2026-10-17 · [GitHub](https://github.com/purduedb/PostgreSQL-V) · 组织维护
 
 **Purdue 开发的 PostgreSQL 向量相似性搜索扩展，快速向量检索**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "purduedb/PostgreSQL-V 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-11-01 26（+1）
+2026-10-18 25 → 2026-11-02 27（+2）
 
 
 ---

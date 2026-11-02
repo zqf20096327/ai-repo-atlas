@@ -1,6 +1,6 @@
 # Aspectbramove/Fuck-Adobbe
 
-⭐ 40 · 推送 2026-10-25 · [GitHub](https://github.com/Aspectbramove/Fuck-Adobbe) · 个人维护
+⭐ 156 · 推送 2026-10-25 · [GitHub](https://github.com/Aspectbramove/Fuck-Adobbe) · 个人维护
 
 **宣称提供 Acrobat Reader 预激活安装脚本的仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Aspectbramove/Fuck-Adobbe 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-01"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-26", "2026-11-02"]
+    y-axis "stars" 29 --> 167
+    line [40, 156]
 ```
 
-2026-10-26 40 → 2026-11-01 40（+0）
+2026-10-26 40 → 2026-11-02 156（+116）
 
 
 ---

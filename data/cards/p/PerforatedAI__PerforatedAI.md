@@ -45,13 +45,13 @@ Apache 2.0 开源的 Python 库 perforatedai：在已有 PyTorch 网络中自动
 
 ```mermaid
 xychart-beta
-    title "PerforatedAI/PerforatedAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    title "PerforatedAI/PerforatedAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 236 --> 240
-    line [237, 238, 239]
+    line [237, 238, 239, 239]
 ```
 
-2026-10-18 237 → 2026-11-01 239（+2）
+2026-10-18 237 → 2026-11-02 239（+2）
 
 
 ---

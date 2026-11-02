@@ -1,6 +1,6 @@
 # aa1143/NamiGPT
 
-⭐ 151 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aa1143/NamiGPT) · [官网](https://namiai.tech/articles/) · 个人维护 · 中文 README
+⭐ 161 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aa1143/NamiGPT) · [官网](https://namiai.tech/articles/) · 个人维护 · 中文 README
 
 **面向中文零基础读者的手写 GPT-2 教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aa1143/NamiGPT 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 96 --> 156
-    line [101, 130, 141, 151]
+    title "aa1143/NamiGPT 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 95 --> 167
+    line [101, 130, 141, 151, 161]
 ```
 
-2026-10-29 101 → 2026-11-01 151（+50）
+2026-10-29 101 → 2026-11-02 161（+60）
 
 
 ---

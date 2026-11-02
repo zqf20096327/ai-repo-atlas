@@ -1,6 +1,6 @@
 # majiayu000/dsh-desk
 
-⭐ 17 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/majiayu000/dsh-desk) · [官网](https://www.dshdesk.com) · 个人维护 · 中文 README
+⭐ 17 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/majiayu000/dsh-desk) · [官网](https://www.dshdesk.com) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面发行版：安装即用、内置固定 runtime**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "majiayu000/dsh-desk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 17（+2）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

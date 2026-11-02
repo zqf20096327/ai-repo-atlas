@@ -1,6 +1,6 @@
 # T8mars/Comfyui-Drama-3
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/T8mars/Comfyui-Drama-3) · [官网](https://huggingface.co/t8star/Drama-3-Comfy) · 个人维护 · 中文 README
+⭐ 18 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/T8mars/Comfyui-Drama-3) · [官网](https://huggingface.co/t8star/Drama-3-Comfy) · 个人维护 · 中文 README
 
 **DRAMA-3 本地语音创作工作室与 ComfyUI 原生节点集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "T8mars/Comfyui-Drama-3 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2 --> 16
-    line [3, 4, 6, 7, 8, 9, 11, 15]
+    title "T8mars/Comfyui-Drama-3 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2 --> 19
+    line [3, 4, 6, 7, 8, 9, 11, 15, 18]
 ```
 
-2026-10-23 3 → 2026-11-01 15（+12）
+2026-10-23 3 → 2026-11-02 18（+15）
 
 
 ---

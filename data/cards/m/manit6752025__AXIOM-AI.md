@@ -1,6 +1,6 @@
 # manit6752025/AXIOM-AI
 
-⭐ 21 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/manit6752025/AXIOM-AI) · [官网](https://manit6752025.github.io/AXIOM-AI/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/manit6752025/AXIOM-AI) · [官网](https://manit6752025.github.io/AXIOM-AI/) · 个人维护
 
 **本地优先的 AI 工作台：训练前检查模型、数据与硬件适配**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "manit6752025/AXIOM-AI 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 11 --> 22
-    line [12, 16, 18, 19, 21, 21]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 11 --> 24
+    line [12, 16, 18, 19, 21, 23]
 ```
 
-2026-10-25 12 → 2026-11-01 21（+9）
+2026-10-25 12 → 2026-11-02 23（+11）
 
 
 ---

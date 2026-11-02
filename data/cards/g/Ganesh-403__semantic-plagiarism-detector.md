@@ -1,6 +1,6 @@
 # Ganesh-403/semantic-plagiarism-detector
 
-⭐ 16 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Ganesh-403/semantic-plagiarism-detector) · [官网](https://semantic-plagiarism-detector.streamlit.app/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Ganesh-403/semantic-plagiarism-detector) · [官网](https://semantic-plagiarism-detector.streamlit.app/) · 个人维护
 
 **面向教师作业审查的语义查重系统：识别改写式抄袭**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ganesh-403/semantic-plagiarism-detector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Claire1217/benchmark-radar
 
-⭐ 12 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/Claire1217/benchmark-radar) · [官网](https://benchmark-radar.com) · 组织维护
+⭐ 12 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/Claire1217/benchmark-radar) · [官网](https://benchmark-radar.com) · 组织维护
 
 **每日更新的 AI 基准追踪与可检索基准库（3,715 条）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Claire1217/benchmark-radar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-01 12（+2）
+2026-10-18 10 → 2026-11-02 12（+2）
 
 
 ---

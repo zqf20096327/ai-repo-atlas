@@ -1,6 +1,6 @@
 # Kohulan/DECIMER-Image-Segmentation
 
-⭐ 156 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Kohulan/DECIMER-Image-Segmentation) · [官网](https://decimer.ai) · 组织维护
+⭐ 157 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Kohulan/DECIMER-Image-Segmentation) · [官网](https://decimer.ai) · 组织维护
 
 **从科学文献中检测并切分化学结构图的深度学习工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kohulan/DECIMER-Image-Segmentation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 155 --> 157
-    line [156, 156]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 155 --> 158
+    line [156, 157]
 ```
 
-2026-10-18 156 → 2026-11-01 156（+0）
+2026-10-18 156 → 2026-11-02 157（+1）
 
 
 ---

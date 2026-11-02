@@ -1,6 +1,6 @@
 # Azure/agent-landing-zone
 
-⭐ 1,203 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Azure/agent-landing-zone) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 1,204 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure/agent-landing-zone) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Azure 上部署企业 AI agent 应用的安全落地区模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure/agent-landing-zone 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1186 --> 1204
-    line [1187, 1191, 1194, 1201, 1203, 1203]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1186 --> 1205
+    line [1187, 1191, 1194, 1201, 1203, 1204]
 ```
 
-2026-10-18 1,187 → 2026-11-01 1,203（+16）
+2026-10-18 1,187 → 2026-11-02 1,204（+17）
 
 
 ---

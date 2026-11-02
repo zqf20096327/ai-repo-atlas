@@ -1,6 +1,6 @@
 # vicentereig/a2ui-rails
 
-⭐ 14 · Ruby · 推送 2026-01-06 · [GitHub](https://github.com/vicentereig/a2ui-rails) · 个人维护
+⭐ 13 · Ruby · 推送 2026-01-06 · [GitHub](https://github.com/vicentereig/a2ui-rails) · 个人维护
 
 **Rails 引擎：LLM 生成类型安全的交互式 UI 组件树**
 
@@ -45,12 +45,12 @@ Google A2UI 规范的 Ruby/Rails 移植，基于 DSPy.rb 与 Turbo Streams 实�
 ```mermaid
 xychart-beta
     title "vicentereig/a2ui-rails 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 13（-1）
 
 
 ---

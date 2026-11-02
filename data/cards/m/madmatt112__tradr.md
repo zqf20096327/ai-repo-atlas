@@ -1,6 +1,6 @@
 # madmatt112/tradr
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/madmatt112/tradr) · [官网](https://www.tradr.cloud) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/madmatt112/tradr) · [官网](https://www.tradr.cloud) · 个人维护
 
 **面向期权与股票交易者的自托管交易日志与分析平台**
 
@@ -45,12 +45,12 @@ Tradr 是可自托管的交易日志与分析平台，面向期权和股票交�
 ```mermaid
 xychart-beta
     title "madmatt112/tradr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

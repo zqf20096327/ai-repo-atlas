@@ -1,6 +1,6 @@
 # nicknisi/fleet
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/nicknisi/fleet) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/nicknisi/fleet) · 个人维护
 
 **tmux 终端面板：集中管理多个 AI agent 会话并批量发送提示**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nicknisi/fleet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-11-01 38（+2）
+2026-10-18 36 → 2026-11-02 39（+3）
 
 
 ---

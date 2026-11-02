@@ -1,6 +1,6 @@
 # s2t2/tic-tac-toe-py
 
-⭐ 33 · Python · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/s2t2/tic-tac-toe-py) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带 minimax AI 对手的井字棋命令行游戏**
 
@@ -11,7 +11,7 @@ Python 编写的井字棋对抗游戏，支持人人、人机、机机对局。�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

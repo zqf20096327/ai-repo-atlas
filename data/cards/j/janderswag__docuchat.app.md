@@ -1,6 +1,6 @@
 # janderswag/docuchat.app
 
-⭐ 38 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/janderswag/docuchat.app) · [官网](https://docuchat.app/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/janderswag/docuchat.app) · [官网](https://docuchat.app/) · 个人维护
 
 **面向律师的私有本地法律文档问答桌面应用，答案带页码引证**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "janderswag/docuchat.app 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
     y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 38]
+    line [35, 36, 37, 38, 37]
 ```
 
-2026-10-18 35 → 2026-11-01 38（+3）
+2026-10-18 35 → 2026-11-02 37（+2）
 
 
 ---

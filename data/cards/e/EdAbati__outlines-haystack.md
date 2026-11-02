@@ -44,12 +44,12 @@ Python 库，将 outlines 的生成器接入 Haystack pipelines，当前支持 J
 ```mermaid
 xychart-beta
     title "EdAbati/outlines-haystack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

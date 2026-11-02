@@ -1,6 +1,6 @@
 # metaid-developers/IDBots
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/metaid-developers/IDBots) · [官网](https://idbots.ai) · 组织维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/metaid-developers/IDBots) · [官网](https://idbots.ai) · 组织维护 · 中文 README
 
 **本地优先桌面应用：养育有链上身份的自主 AI 代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metaid-developers/IDBots 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
     y-axis "stars" 12 --> 20
     line [13, 14, 15, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 13 → 2026-11-01 19（+6）
+2026-10-18 13 → 2026-11-02 19（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # alFrame/ComfyUI-AF-Find-Nodes
 
-⭐ 25 · JavaScript · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/alFrame/ComfyUI-AF-Find-Nodes) · 个人维护
+⭐ 26 · JavaScript · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/alFrame/ComfyUI-AF-Find-Nodes) · 个人维护
 
 **ComfyUI 工作流节点查找与统计扩展**
 
@@ -46,12 +46,12 @@ ComfyUI 前端扩展（纯 JavaScript 实现，无其他扩展依赖），提供
 ```mermaid
 xychart-beta
     title "alFrame/ComfyUI-AF-Find-Nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-01 25（+0）
+2026-10-18 25 → 2026-11-02 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # simota/agent-skills
 
-⭐ 96 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/simota/agent-skills) · [官网](https://simota.github.io/agent-skills/) · 个人维护
+⭐ 97 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/simota/agent-skills) · [官网](https://simota.github.io/agent-skills/) · 个人维护
 
 **面向 Claude Code/Codex/Antigravity CLI 的 90 个专业 AI agent 技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "simota/agent-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 92 --> 97
-    line [93, 95, 96, 96]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 92 --> 98
+    line [93, 95, 96, 97]
 ```
 
-2026-10-18 93 → 2026-11-01 96（+3）
+2026-10-18 93 → 2026-11-02 97（+4）
 
 
 ---

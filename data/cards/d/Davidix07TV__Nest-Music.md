@@ -45,13 +45,13 @@ Nest Music 是 Metrolist 与 Kodama 项目的 fork，为终端用户提供 YouTu
 
 ```mermaid
 xychart-beta
-    title "Davidix07TV/Nest-Music 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01"]
+    title "Davidix07TV/Nest-Music 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-01 13（+3）
+2026-10-18 10 → 2026-11-02 13（+3）
 
 
 ---

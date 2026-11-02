@@ -1,6 +1,6 @@
 # bardak971/afflatus
 
-⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/bardak971/afflatus) · 个人维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/bardak971/afflatus) · 个人维护
 
 **自托管的图片/视频生成工作室，运行在自己的 ComfyUI 之上**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bardak971/afflatus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
+    title "bardak971/afflatus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20]
+    line [17, 18, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-01 20（+3）
+2026-10-18 17 → 2026-11-02 20（+3）
 
 
 ---

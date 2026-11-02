@@ -1,6 +1,6 @@
 # mariadb-operator/mariadb-operator
 
-⭐ 1,030 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mariadb-operator/mariadb-operator) · [官网](https://github.com/mariadb-operator/mariadb-operator/blob/main/docs/README.md) · 组织维护
+⭐ 1,032 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mariadb-operator/mariadb-operator) · [官网](https://github.com/mariadb-operator/mariadb-operator/blob/main/docs/README.md) · 组织维护
 
 **Kubernetes 上以 CRD 声明式运维 MariaDB 的 operator**
 
@@ -45,12 +45,12 @@ mariadb-operator 是一个用 Go 编写的 Kubernetes operator，通过自定义
 ```mermaid
 xychart-beta
     title "mariadb-operator/mariadb-operator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 1026 --> 1031
-    line [1027, 1028, 1030, 1030]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 1026 --> 1033
+    line [1027, 1028, 1030, 1032]
 ```
 
-2026-10-18 1,027 → 2026-11-01 1,030（+3）
+2026-10-18 1,027 → 2026-11-02 1,032（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # JGalego/awesome-safety-critical-ai
 
-⭐ 65 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/JGalego/awesome-safety-critical-ai) · [官网](https://awesome.critical-ai.dev) · 个人维护
+⭐ 65 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/JGalego/awesome-safety-critical-ai) · [官网](https://awesome.critical-ai.dev) · 个人维护
 
 **安全关键 AI 主题的策展清单：面向高风险系统的可靠性资料**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JGalego/awesome-safety-critical-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-01 65（+0）
+2026-10-18 65 → 2026-11-02 65（+0）
 
 
 ---

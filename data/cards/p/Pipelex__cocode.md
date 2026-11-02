@@ -45,13 +45,13 @@ Cocode 是 Python 编写的命令行工具，基于 Pipelex 框架运行 AI 工�
 
 ```mermaid
 xychart-beta
-    title "Pipelex/cocode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "Pipelex/cocode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 19 --> 22
-    line [20, 21]
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-01 21（+1）
+2026-10-18 20 → 2026-11-02 21（+1）
 
 
 ---

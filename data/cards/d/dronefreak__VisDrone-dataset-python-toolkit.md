@@ -1,6 +1,6 @@
 # dronefreak/VisDrone-dataset-python-toolkit
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) · [官网](https://huggingface.co/spaces/dronefreak/visdrone-aerial-detection) · 个人维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) · [官网](https://huggingface.co/spaces/dronefreak/visdrone-aerial-detection) · 个人维护
 
 **VisDrone 无人机航拍目标检测工具包：33 个模型的训练评测推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dronefreak/VisDrone-dataset-python-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 84 --> 87
+    line [85, 86]
 ```
 
-2026-10-18 85 → 2026-11-01 85（+0）
+2026-10-18 85 → 2026-11-02 86（+1）
 
 
 ---

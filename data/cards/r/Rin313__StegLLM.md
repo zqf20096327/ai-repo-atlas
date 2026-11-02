@@ -1,6 +1,6 @@
 # Rin313/StegLLM
 
-⭐ 23 · JavaScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/Rin313/StegLLM) · [官网](https://rin313.github.io/StegLLM/) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/Rin313/StegLLM) · [官网](https://rin313.github.io/StegLLM/) · 个人维护 · 中文 README
 
 **离线 LLM 文本隐写工具：把秘密信息伪装成普通文字**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rin313/StegLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 24（+1）
 
 
 ---

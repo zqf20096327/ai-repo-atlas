@@ -1,6 +1,6 @@
 # FullStackWithLawrence/aws-openai
 
-⭐ 68 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/FullStackWithLawrence/aws-openai) · [官网](https://openai.lawrencemcdaniel.com/) · 个人维护
+⭐ 68 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/FullStackWithLawrence/aws-openai) · [官网](https://openai.lawrencemcdaniel.com/) · 个人维护
 
 **OpenAI 官方示例的全栈实现：React+AWS Serverless 聊天应用模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FullStackWithLawrence/aws-openai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-01 68（+0）
+2026-10-18 68 → 2026-11-02 68（+0）
 
 
 ---

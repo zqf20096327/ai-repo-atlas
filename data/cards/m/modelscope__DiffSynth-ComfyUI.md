@@ -44,13 +44,13 @@ ModelScope 维护的 ComfyUI 自定义节点插件：把 DiffSynth-Studio 的模
 
 ```mermaid
 xychart-beta
-    title "modelscope/DiffSynth-ComfyUI 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01"]
+    title "modelscope/DiffSynth-ComfyUI 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-22 10 → 2026-11-01 13（+3）
+2026-10-22 10 → 2026-11-02 13（+3）
 
 
 ---

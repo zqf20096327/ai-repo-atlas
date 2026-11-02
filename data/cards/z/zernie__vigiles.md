@@ -1,6 +1,6 @@
 # zernie/vigiles
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zernie/vigiles) · [官网](https://vigiles.sh) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zernie/vigiles) · [官网](https://vigiles.sh) · 个人维护
 
 **审计/测试 AI agent 配置（CLAUDE.md、技能与钩子）的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zernie/vigiles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

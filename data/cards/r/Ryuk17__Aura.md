@@ -1,6 +1,6 @@
 # Ryuk17/Aura
 
-⭐ 15 · C · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Ryuk17/Aura) · 个人维护 · 中文 README
+⭐ 15 · C · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Ryuk17/Aura) · 个人维护 · 中文 README
 
 **树莓派等 Linux SBC 上的全离线语音交互框架（骨架阶段）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ryuk17/Aura 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # BryceWG/BiBi-Keyboard
 
-⭐ 858 · Kotlin · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/BryceWG/BiBi-Keyboard) · [官网](https://bibi.brycewg.com) · 个人维护 · 中文 README
+⭐ 859 · Kotlin · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/BryceWG/BiBi-Keyboard) · [官网](https://bibi.brycewg.com) · 个人维护 · 中文 README
 
 **Android 语音输入法：ASR 转文字，LLM 润色结果**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BryceWG/BiBi-Keyboard 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 844 --> 859
-    line [845, 848, 850, 851, 850, 851, 853, 854, 855, 858]
+    title "BryceWG/BiBi-Keyboard 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 844 --> 860
+    line [845, 848, 850, 851, 850, 851, 853, 854, 855, 858, 859]
 ```
 
-2026-10-18 845 → 2026-11-01 858（+13）
+2026-10-18 845 → 2026-11-02 859（+14）
 
 
 ---

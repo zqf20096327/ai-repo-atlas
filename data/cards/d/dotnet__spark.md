@@ -1,6 +1,6 @@
 # dotnet/spark
 
-⭐ 2,096 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/dotnet/spark) · [官网](https://dot.net/spark) · 组织维护
+⭐ 2,098 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/dotnet/spark) · [官网](https://dot.net/spark) · 组织维护
 
 **让 .NET 开发者用 C#/F# 使用 Apache Spark 的绑定库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dotnet/spark 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 2094 --> 2097
-    line [2095, 2096, 2095, 2096, 2096]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 2094 --> 2099
+    line [2095, 2096, 2095, 2096, 2098]
 ```
 
-2026-10-18 2,095 → 2026-11-01 2,096（+1）
+2026-10-18 2,095 → 2026-11-02 2,098（+3）
 
 
 ---

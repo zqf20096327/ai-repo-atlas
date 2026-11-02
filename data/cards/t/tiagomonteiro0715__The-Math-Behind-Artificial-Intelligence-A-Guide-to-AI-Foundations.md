@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    title "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
     y-axis "stars" 187 --> 191
-    line [188, 189, 190]
+    line [188, 189, 190, 190]
 ```
 
-2026-10-18 188 → 2026-11-01 190（+2）
+2026-10-18 188 → 2026-11-02 190（+2）
 
 
 ---

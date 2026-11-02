@@ -1,6 +1,6 @@
 # mimfort/rag_for_git
 
-⭐ 20 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mimfort/rag_for_git) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mimfort/rag_for_git) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的 RAG 代码评审 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mimfort/rag_for_git 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 20（+0）
 
 
 ---

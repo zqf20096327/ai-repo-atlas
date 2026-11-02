@@ -1,6 +1,6 @@
 # RenderTool/infinite-canvas-zeroexo
 
-⭐ 39 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/RenderTool/infinite-canvas-zeroexo) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/RenderTool/infinite-canvas-zeroexo) · 个人维护 · 中文 README
 
 **面向创作者的 AI 短片创作画布平台：剧本到成片全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RenderTool/infinite-canvas-zeroexo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02"]
     y-axis "stars" 37 --> 41
-    line [40, 39, 38, 39, 39]
+    line [40, 39, 38, 39, 40]
 ```
 
-2026-10-18 40 → 2026-11-01 39（-1）
+2026-10-18 40 → 2026-11-02 40（+0）
 
 
 ---

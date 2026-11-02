@@ -1,6 +1,6 @@
 # jens-duttke/agent-monitor-for-claude
 
-⭐ 21 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/jens-duttke/agent-monitor-for-claude) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jens-duttke/agent-monitor-for-claude) · 个人维护 · 中文 README
 
 **本地桌面监控器：一眼看清各 Claude Code agent 的运行状态与费用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jens-duttke/agent-monitor-for-claude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-01 21（+0）
+2026-10-18 21 → 2026-11-02 22（+1）
 
 
 ---

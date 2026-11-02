@@ -1,6 +1,6 @@
 # immohitsen/RAG-Chat
 
-⭐ 20 · JavaScript · 推送 2026-09-08 · [GitHub](https://github.com/immohitsen/RAG-Chat) · [官网](https://rag-chat-lac.vercel.app) · 个人维护
+⭐ 21 · JavaScript · 推送 2026-09-08 · [GitHub](https://github.com/immohitsen/RAG-Chat) · [官网](https://rag-chat-lac.vercel.app) · 个人维护
 
 **面向终端用户的文档问答应用：上传文件、基于文档获得带引用的回答**
 
@@ -46,12 +46,12 @@ React + FastAPI 构建的 RAG 文档问答应用：用户注册登录后可上�
 ```mermaid
 xychart-beta
     title "immohitsen/RAG-Chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 21（+1）
 
 
 ---

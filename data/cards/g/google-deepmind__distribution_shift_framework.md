@@ -1,6 +1,6 @@
 # google-deepmind/distribution_shift_framework
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/google-deepmind/distribution_shift_framework) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/google-deepmind/distribution_shift_framework) · 组织维护
 
 **给ML研究者：分布偏移下训练与评测模型的JAX框架**
 
@@ -46,12 +46,12 @@ DeepMind 论文 A Fine-Grained Analysis on Distribution Shift (Wiles et al., 202
 ```mermaid
 xychart-beta
     title "google-deepmind/distribution_shift_framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-18 90 → 2026-11-01 90（+0）
+2026-10-18 90 → 2026-11-02 91（+1）
 
 
 ---

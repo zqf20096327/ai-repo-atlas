@@ -1,6 +1,6 @@
 # NeoLabHQ/context-engineering-kit
 
-⭐ 1,796 · TypeScript · GPL-3.0 · 推送 2026-08-26 · [GitHub](https://github.com/NeoLabHQ/context-engineering-kit) · [官网](https://neolab.gitbook.io/cek) · 组织维护
+⭐ 1,797 · TypeScript · GPL-3.0 · 推送 2026-08-26 · [GitHub](https://github.com/NeoLabHQ/context-engineering-kit) · [官网](https://neolab.gitbook.io/cek) · 组织维护
 
 **面向 Claude Code 等编程 agent 的上下文工程插件集，提升 agent 输出质量**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeoLabHQ/context-engineering-kit 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1778 --> 1797
-    line [1779, 1782, 1783, 1782, 1786, 1788, 1792, 1793, 1795, 1796]
+    title "NeoLabHQ/context-engineering-kit 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1778 --> 1798
+    line [1779, 1782, 1783, 1782, 1786, 1788, 1792, 1793, 1795, 1796, 1797]
 ```
 
-2026-10-18 1,779 → 2026-11-01 1,796（+17）
+2026-10-18 1,779 → 2026-11-02 1,797（+18）
 
 
 ---

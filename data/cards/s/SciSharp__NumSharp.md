@@ -1,6 +1,6 @@
 # SciSharp/NumSharp
 
-⭐ 1,482 · C# · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SciSharp/NumSharp) · [官网](https://scisharp.github.io/NumSharp/) · 组织维护
+⭐ 1,483 · C# · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SciSharp/NumSharp) · [官网](https://scisharp.github.io/NumSharp/) · 组织维护
 
 **.NET 平台的 NumPy 风格 N 维张量计算库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SciSharp/NumSharp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 1481 --> 1484
-    line [1483, 1482, 1482]
+    line [1483, 1482, 1483]
 ```
 
-2026-10-18 1,483 → 2026-11-01 1,482（-1）
+2026-10-18 1,483 → 2026-11-02 1,483（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # smart-mcp-proxy/mcpproxy-go
 
-⭐ 404 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [官网](https://mcpproxy.app) · 组织维护
+⭐ 405 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [官网](https://mcpproxy.app) · 组织维护
 
 **MCP 服务器聚合代理：统一端点+隔离审查+按需工具发现**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "smart-mcp-proxy/mcpproxy-go 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 394 --> 405
-    line [395, 396, 398, 399, 400, 402, 403, 404]
+    title "smart-mcp-proxy/mcpproxy-go 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 394 --> 406
+    line [395, 396, 398, 399, 400, 402, 403, 404, 405]
 ```
 
-2026-10-18 395 → 2026-11-01 404（+9）
+2026-10-18 395 → 2026-11-02 405（+10）
 
 
 ---

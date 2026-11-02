@@ -1,6 +1,6 @@
 # AgileRL/AgileRL
 
-⭐ 961 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
+⭐ 962 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
 
 **面向开发者的 LLM 后训练与深度强化学习训练库**
 
@@ -46,12 +46,12 @@ AgileRL 是一个 Python 训练库，覆盖 LLM 后训练全流程：SFT、DPO �
 ```mermaid
 xychart-beta
     title "AgileRL/AgileRL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 958 --> 962
-    line [959, 960, 961, 961]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 958 --> 963
+    line [959, 960, 961, 962]
 ```
 
-2026-10-18 959 → 2026-11-01 961（+2）
+2026-10-18 959 → 2026-11-02 962（+3）
 
 
 ---

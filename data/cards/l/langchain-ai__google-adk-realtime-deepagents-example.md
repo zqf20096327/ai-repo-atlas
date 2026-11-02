@@ -1,6 +1,6 @@
 # langchain-ai/google-adk-realtime-deepagents-example
 
-⭐ 29 · Python · 推送 2026-06-29 · [GitHub](https://github.com/langchain-ai/google-adk-realtime-deepagents-example) · 组织维护
+⭐ 30 · Python · 推送 2026-06-29 · [GitHub](https://github.com/langchain-ai/google-adk-realtime-deepagents-example) · 组织维护
 
 **Google ADK + Gemini Live + deepagents 的实时语音研究 agent 示例**
 
@@ -46,12 +46,12 @@ langchain-ai 维护的演示项目：FastAPI WebSocket 桥接浏览器麦克风�
 ```mermaid
 xychart-beta
     title "langchain-ai/google-adk-realtime-deepagents-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-11-01 29（+0）
+2026-10-18 29 → 2026-11-02 30（+1）
 
 
 ---

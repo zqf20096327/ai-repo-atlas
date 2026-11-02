@@ -1,6 +1,6 @@
 # xi029/Qwen3-VL-MoeLORA
 
-⭐ 60 · Python · Apache-2.0 · 推送 2025-12-14 · [GitHub](https://github.com/xi029/Qwen3-VL-MoeLORA) · 个人维护 · 中文 README
+⭐ 61 · Python · Apache-2.0 · 推送 2025-12-14 · [GitHub](https://github.com/xi029/Qwen3-VL-MoeLORA) · 个人维护 · 中文 README
 
 **Qwen3-VL 多模态模型 LoRA/MoeLoRA 微调与多智能体部署工程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xi029/Qwen3-VL-MoeLORA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 59 --> 62
-    line [61, 60, 60]
+    line [61, 60, 61]
 ```
 
-2026-10-18 61 → 2026-11-01 60（-1）
+2026-10-18 61 → 2026-11-02 61（+0）
 
 
 ---

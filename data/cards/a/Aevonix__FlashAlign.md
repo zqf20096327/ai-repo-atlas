@@ -1,6 +1,6 @@
 # Aevonix/FlashAlign
 
-⭐ 37 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
+⭐ 95 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
 
 **按请求切换模型对齐（abliteration）画像的推理路由工具**
 
@@ -40,6 +40,18 @@
 > L13: Apply alignment profiles per request. Use abliteration for approved users and
 > L17: changing them. Run it directly, with Hermes or OpenClaw, or through your own
 > L57: |DeepSeek V4.1 Flash 1017|TensorFold, vLLM|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aevonix/FlashAlign 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 32 --> 100
+    line [37, 95]
+```
+
+2026-11-01 37 → 2026-11-02 95（+58）
 
 
 ---

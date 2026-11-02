@@ -1,6 +1,6 @@
 # wanyichen06/LLMInternSkill
 
-⭐ 334 · Markdown · MIT · 推送 2026-08-04 · [GitHub](https://github.com/wanyichen06/LLMInternSkill) · [官网](https://wanyichen06.github.io/LLMInternSkill/) · 个人维护 · 中文 README
+⭐ 335 · Markdown · MIT · 推送 2026-08-04 · [GitHub](https://github.com/wanyichen06/LLMInternSkill) · [官网](https://wanyichen06.github.io/LLMInternSkill/) · 个人维护 · 中文 README
 
 **面向大模型实习求职的 Codex Skill 简历工具箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wanyichen06/LLMInternSkill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 323 --> 335
-    line [324, 327, 329, 332, 333, 334, 334]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 323 --> 336
+    line [324, 327, 329, 332, 333, 334, 335]
 ```
 
-2026-10-18 324 → 2026-11-01 334（+10）
+2026-10-18 324 → 2026-11-02 335（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # papagiannakis/Elements
 
-⭐ 37 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/papagiannakis/Elements) · [官网](https://papagiannakis.github.io/Elements/) · 组织维护
+⭐ 37 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/papagiannakis/Elements) · [官网](https://papagiannakis.github.io/Elements/) · 组织维护
 
 **面向计算机图形学与深度学习教学的 Python 实体组件系统框架**
 
@@ -45,12 +45,12 @@ Project Elements 将 Entity-Component-System（ECS）架构与场景图结合，
 ```mermaid
 xychart-beta
     title "papagiannakis/Elements 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-01 37（+0）
+2026-10-18 37 → 2026-11-02 37（+0）
 
 
 ---

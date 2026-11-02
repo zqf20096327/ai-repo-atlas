@@ -1,6 +1,6 @@
 # sa-san10/nyamuru-manga-name-studio
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/sa-san10/nyamuru-manga-name-studio) · [官网](https://sa-san10.github.io/nyamuru-manga-name-studio/) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/sa-san10/nyamuru-manga-name-studio) · [官网](https://sa-san10.github.io/nyamuru-manga-name-studio/) · 个人维护
 
 **与 LLM 和图像生成 AI 配合创作漫画分镜稿的开源 PWA 工作室**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sa-san10/nyamuru-manga-name-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-11-01 34（+1）
+2026-10-18 33 → 2026-11-02 35（+2）
 
 
 ---

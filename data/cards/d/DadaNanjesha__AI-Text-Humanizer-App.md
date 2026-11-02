@@ -1,6 +1,6 @@
 # DadaNanjesha/AI-Text-Humanizer-App
 
-⭐ 439 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) · [官网](https://ai-text-humanizer-app-by-dada.streamlit.app/) · 个人维护
+⭐ 438 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) · [官网](https://ai-text-humanizer-app-by-dada.streamlit.app/) · 个人维护
 
 **将 AI 生成文本改写为正式学术文风的网页应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DadaNanjesha/AI-Text-Humanizer-App 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "DadaNanjesha/AI-Text-Humanizer-App 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 435 --> 440
-    line [436, 437, 438, 437, 436, 437, 438, 439]
+    line [436, 437, 438, 437, 436, 437, 438, 439, 438]
 ```
 
-2026-10-18 436 → 2026-11-01 439（+3）
+2026-10-18 436 → 2026-11-02 438（+2）
 
 
 ---

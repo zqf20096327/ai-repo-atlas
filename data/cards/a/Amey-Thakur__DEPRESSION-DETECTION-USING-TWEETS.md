@@ -45,12 +45,12 @@ Python+Flask 的机器学习应用：读取用户输入的推文文本，经 spa
 ```mermaid
 xychart-beta
     title "Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

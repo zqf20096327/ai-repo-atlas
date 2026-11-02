@@ -1,6 +1,6 @@
 # hummat/paperpipe
 
-⭐ 39 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/hummat/paperpipe) · [官网](https://hummat.github.io/paperpipe/) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/hummat/paperpipe) · [官网](https://hummat.github.io/paperpipe/) · 个人维护
 
 **为编码 Agent 服务的本地论文库：提取公式与上下文供查验代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hummat/paperpipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 36 --> 40
-    line [37, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 36 --> 41
+    line [37, 39, 40]
 ```
 
-2026-10-18 37 → 2026-11-01 39（+2）
+2026-10-18 37 → 2026-11-02 40（+3）
 
 
 ---

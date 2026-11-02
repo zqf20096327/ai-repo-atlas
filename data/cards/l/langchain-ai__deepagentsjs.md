@@ -1,6 +1,6 @@
 # langchain-ai/deepagentsjs
 
-⭐ 1,627 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/deepagentsjs) · [官网](https://docs.langchain.com/oss/javascript/deepagents/overview) · 组织维护
+⭐ 1,628 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/deepagentsjs) · [官网](https://docs.langchain.com/oss/javascript/deepagents/overview) · 组织维护
 
 **面向 JavaScript 开发者的开箱即用 AI agent 框架**
 
@@ -45,12 +45,12 @@ LangChain 团队以 TypeScript 发布的 agent harness：内置规划（write_to
 ```mermaid
 xychart-beta
     title "langchain-ai/deepagentsjs 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1608 --> 1628
-    line [1609, 1610, 1616, 1619, 1618, 1619, 1620, 1622, 1624, 1626, 1627, 1627]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 1608 --> 1629
+    line [1609, 1610, 1616, 1619, 1618, 1619, 1620, 1622, 1624, 1626, 1627, 1628]
 ```
 
-2026-10-18 1,609 → 2026-11-01 1,627（+18）
+2026-10-18 1,609 → 2026-11-02 1,628（+19）
 
 
 ---

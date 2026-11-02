@@ -1,6 +1,6 @@
 # Uli-Z/autoPDFtagger
 
-⭐ 20 · Python · GPL-3.0 · 推送 2025-11-05 · [GitHub](https://github.com/Uli-Z/autoPDFtagger) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为家庭/办公 PDF 档案做 AI 分类、打标与元数据整理的 CLI 工具**
 
@@ -11,7 +11,7 @@ Python 命令行工具，对 PDF 文件（含低质量扫描与图片密集型�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

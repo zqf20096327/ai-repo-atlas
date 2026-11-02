@@ -1,6 +1,6 @@
 # KlaraGraff/XL_Translator
 
-⭐ 15 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/KlaraGraff/XL_Translator) · [官网](https://github.com/KlaraGraff/XL_Translator/releases/latest) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/KlaraGraff/XL_Translator) · [官网](https://github.com/KlaraGraff/XL_Translator/releases/latest) · 个人维护 · 中文 README
 
 **面向桌面用户的 LLM 文档翻译应用：批量翻译 Excel/Word/PDF/CAD 图纸，双语对照输出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KlaraGraff/XL_Translator 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 15]
+    title "KlaraGraff/XL_Translator 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 10 --> 22
+    line [11, 12, 15, 21]
 ```
 
-2026-10-29 11 → 2026-11-01 15（+4）
+2026-10-29 11 → 2026-11-02 21（+10）
 
 
 ---

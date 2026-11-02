@@ -1,6 +1,6 @@
 # TommyLemon/APIAuto
 
-⭐ 2,223 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/TommyLemon/APIAuto) · [官网](http://apijson.cn/api) · 个人维护 · 中文 README
+⭐ 2,222 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/TommyLemon/APIAuto) · [官网](http://apijson.cn/api) · 个人维护 · 中文 README
 
 **带 AI 问答与机器学习测试的 HTTP 接口开发测试工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TommyLemon/APIAuto 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
     y-axis "stars" 2220 --> 2224
-    line [2221, 2222, 2223, 2223]
+    line [2221, 2222, 2223, 2222]
 ```
 
-2026-10-18 2,221 → 2026-11-01 2,223（+2）
+2026-10-18 2,221 → 2026-11-02 2,222（+1）
 
 
 ---

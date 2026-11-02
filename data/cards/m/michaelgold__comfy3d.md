@@ -1,6 +1,6 @@
 # michaelgold/comfy3d
 
-⭐ 72 · Python · 推送 2026-09-18 · [GitHub](https://github.com/michaelgold/comfy3d) · 个人维护
+⭐ 72 · Python · 推送 2026-10-31 · [GitHub](https://github.com/michaelgold/comfy3d) · 个人维护
 
 **面向 ComfyUI 3D 工作流的 GPU 加速 Docker 容器环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "michaelgold/comfy3d 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-01 72（+0）
+2026-10-18 72 → 2026-11-02 72（+0）
 
 
 ---

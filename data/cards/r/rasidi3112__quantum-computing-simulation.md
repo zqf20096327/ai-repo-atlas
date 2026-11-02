@@ -1,6 +1,6 @@
 # rasidi3112/quantum-computing-simulation
 
-⭐ 84 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/rasidi3112/quantum-computing-simulation) · [官网](https://quantum-computing-simulation.streamlit.app/) · 个人维护 · 中文 README
+⭐ 85 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/rasidi3112/quantum-computing-simulation) · [官网](https://quantum-computing-simulation.streamlit.app/) · 个人维护 · 中文 README
 
 **浏览器中交互学习量子计算的可视化模拟器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rasidi3112/quantum-computing-simulation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 82 --> 85
-    line [84, 83, 84, 84]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 82 --> 86
+    line [84, 83, 84, 85]
 ```
 
-2026-10-18 84 → 2026-11-01 84（+0）
+2026-10-18 84 → 2026-11-02 85（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # adiag321/Data-Science-CheatSheets-and-Resources
 
-⭐ 44 · MIT · 推送 2026-09-15 · [GitHub](https://github.com/adiag321/Data-Science-CheatSheets-and-Resources) · 个人维护
+⭐ 45 · MIT · 推送 2026-09-15 · [GitHub](https://github.com/adiag321/Data-Science-CheatSheets-and-Resources) · 个人维护
 
 **数据科学学习资源清单：SQL/Python/ML/MLOps 等教程与面试资料**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "adiag321/Data-Science-CheatSheets-and-Resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-11-01 44（+0）
+2026-10-18 44 → 2026-11-02 45（+1）
 
 
 ---

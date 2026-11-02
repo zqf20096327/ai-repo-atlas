@@ -1,6 +1,6 @@
 # gromhacks/bonsai-ninja
 
-⭐ 25 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gromhacks/bonsai-ninja) · 组织维护
+⭐ 25 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/gromhacks/bonsai-ninja) · 组织维护
 
 **本地静态分析与代码情报引擎：为开发者和 AI agent 提供编译器级代码事实**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gromhacks/bonsai-ninja 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
     y-axis "stars" 24 --> 27
     line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-01 25（-1）
+2026-10-18 26 → 2026-11-02 25（-1）
 
 
 ---

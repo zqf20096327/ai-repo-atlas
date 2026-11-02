@@ -1,6 +1,6 @@
 # google-deepmind/formal-imo
 
-⭐ 36 · Lean · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/google-deepmind/formal-imo) · 组织维护
+⭐ 37 · Lean · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/google-deepmind/formal-imo) · 组织维护
 
 **Google DeepMind 的 IMO 题目 Lean 形式化基准数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/formal-imo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-11-01 36（+0）
+2026-10-18 36 → 2026-11-02 37（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kim2091/vapourkit
 
-⭐ 95 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Kim2091/vapourkit) · [官网](https://www.vapourkit.app/) · 个人维护
+⭐ 96 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Kim2091/vapourkit) · [官网](https://www.vapourkit.app/) · 个人维护
 
 **面向用户的 VapourSynth AI 视频超分/增强前端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kim2091/vapourkit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 88 --> 96
-    line [89, 90, 92, 93, 94, 95]
+    title "Kim2091/vapourkit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 88 --> 97
+    line [89, 90, 92, 93, 94, 95, 96]
 ```
 
-2026-10-18 89 → 2026-11-01 95（+6）
+2026-10-18 89 → 2026-11-02 96（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # anesriad/interview-gym
 
-⭐ 16 · Python · 推送 2026-07-16 · [GitHub](https://github.com/anesriad/interview-gym) · 个人维护
+⭐ 17 · Python · 推送 2026-07-16 · [GitHub](https://github.com/anesriad/interview-gym) · 个人维护
 
 **本地离线的数据科学/ML 面试刷题应用，配本地 LLM 导师**
 
@@ -45,13 +45,13 @@ LeetCode 风格的本地练习应用，覆盖 SQL、Python/DSA、应用 ML、系
 
 ```mermaid
 xychart-beta
-    title "anesriad/interview-gym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16]
+    title "anesriad/interview-gym 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 17（+2）
 
 
 ---

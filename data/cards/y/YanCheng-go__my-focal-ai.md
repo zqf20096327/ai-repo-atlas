@@ -1,6 +1,6 @@
 # YanCheng-go/my-focal-ai
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/YanCheng-go/my-focal-ai) · [官网](https://myfocalai.vercel.app) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/YanCheng-go/my-focal-ai) · [官网](https://myfocalai.vercel.app) · 个人维护
 
 **个人 AI 资讯聚合系统：多源采集、LLM 评分、自托管看板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YanCheng-go/my-focal-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

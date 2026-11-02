@@ -1,6 +1,6 @@
 # woodx9/build-your-claude-code-from-scratch
 
-⭐ 188 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/woodx9/build-your-claude-code-from-scratch) · [官网](https://deepwiki.com/woodx9/build-your-claude-code-from-scratch) · 个人维护 · 中文 README
+⭐ 189 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/woodx9/build-your-claude-code-from-scratch) · [官网](https://deepwiki.com/woodx9/build-your-claude-code-from-scratch) · 个人维护 · 中文 README
 
 **从零构建类 Claude Code 编程 agent 的渐进式教程项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "woodx9/build-your-claude-code-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
     y-axis "stars" 187 --> 190
-    line [188, 189, 188, 188]
+    line [188, 189, 188, 189]
 ```
 
-2026-10-18 188 → 2026-11-01 188（+0）
+2026-10-18 188 → 2026-11-02 189（+1）
 
 
 ---

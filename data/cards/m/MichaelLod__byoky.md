@@ -1,6 +1,6 @@
 # MichaelLod/byoky
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/MichaelLod/byoky) · [官网](https://byoky.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MichaelLod/byoky) · [官网](https://byoky.com) · 个人维护
 
 **AI API 密钥钱包：密钥留在本地设备，代应用代理 LLM 调用**
 
@@ -46,12 +46,12 @@ Byoky（Bring Your Own Key）是面向 AI 应用用户的密钥钱包，形态�
 ```mermaid
 xychart-beta
     title "MichaelLod/byoky 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Bredrumb/TomoriBot
 
-⭐ 62 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Bredrumb/TomoriBot) · [官网](https://docs.tomoribot.app) · 个人维护
+⭐ 62 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Bredrumb/TomoriBot) · [官网](https://docs.tomoribot.app) · 个人维护
 
 **可自托管的 Discord 个人 AI 助手/角色扮演机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Bredrumb/TomoriBot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
     y-axis "stars" 56 --> 63
     line [57, 58, 59, 60, 62, 62]
 ```
 
-2026-10-18 57 → 2026-11-01 62（+5）
+2026-10-18 57 → 2026-11-02 62（+5）
 
 
 ---

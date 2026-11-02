@@ -1,6 +1,6 @@
 # HUANGCHIHHUNGLeo/claude-real-video
 
-⭐ 2,275 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
+⭐ 2,278 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
 
 **本地视频转关键帧+字幕转录工具，让 LLM 能"看"视频**
 
@@ -45,13 +45,13 @@ Python 包（crv），从 URL 或本地视频提取场景变化关键帧、去�
 
 ```mermaid
 xychart-beta
-    title "HUANGCHIHHUNGLeo/claude-real-video 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2230 --> 2279
-    line [2234, 2241, 2252, 2255, 2259, 2264, 2265, 2267, 2268, 2272, 2274, 2275]
+    title "HUANGCHIHHUNGLeo/claude-real-video 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 2230 --> 2282
+    line [2234, 2241, 2252, 2255, 2259, 2264, 2265, 2267, 2268, 2272, 2274, 2275, 2278]
 ```
 
-2026-10-18 2,234 → 2026-11-01 2,275（+41）
+2026-10-18 2,234 → 2026-11-02 2,278（+44）
 
 
 ---

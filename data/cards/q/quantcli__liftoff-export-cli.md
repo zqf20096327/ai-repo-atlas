@@ -1,6 +1,6 @@
 # quantcli/liftoff-export-cli
 
-⭐ 11 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/quantcli/liftoff-export-cli) · 组织维护
+⭐ 11 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/quantcli/liftoff-export-cli) · 组织维护
 
 **从 Liftoff 健身应用导出并分析训练数据的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quantcli/liftoff-export-cli 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-02"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-19 10 → 2026-11-01 11（+1）
+2026-10-19 10 → 2026-11-02 11（+1）
 
 
 ---

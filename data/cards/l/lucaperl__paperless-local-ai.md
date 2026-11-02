@@ -1,6 +1,6 @@
 # lucaperl/paperless-local-ai
 
-⭐ 31 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/lucaperl/paperless-local-ai) · [官网](https://lucaperl.github.io/paperless-local-ai/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lucaperl/paperless-local-ai) · [官网](https://lucaperl.github.io/paperless-local-ai/) · 个人维护
 
 **为 Paperless-ngx 提供本地 OCR、元数据自动化与文档对话的 AI 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lucaperl/paperless-local-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 30 --> 35
     line [34, 31, 31]
 ```
 
-2026-10-18 34 → 2026-11-01 31（-3）
+2026-10-18 34 → 2026-11-02 31（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # factorly-dev/factorly
 
-⭐ 24 · Go · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/factorly-dev/factorly) · [官网](https://factorly.com) · 组织维护
+⭐ 24 · Go · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/factorly-dev/factorly) · [官网](https://factorly.com) · 组织维护
 
 **本地 agent 工具链运行时：统一管理工具调用、凭据与治理**
 
@@ -45,12 +45,12 @@ Factorly 是面向 AI agent 工具链的本地运行时，用一份配置统一�
 ```mermaid
 xychart-beta
     title "factorly-dev/factorly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-01 24（+0）
+2026-10-18 24 → 2026-11-02 24（+0）
 
 
 ---

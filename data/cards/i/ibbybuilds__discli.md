@@ -1,6 +1,6 @@
 # ibbybuilds/discli
 
-⭐ 23 · TypeScript · 推送 2026-03-16 · [GitHub](https://github.com/ibbybuilds/discli) · 个人维护
+⭐ 24 · TypeScript · 推送 2026-03-16 · [GitHub](https://github.com/ibbybuilds/discli) · 个人维护
 
 **供 AI 代理与人类使用的 Discord 服务器管理 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ibbybuilds/discli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-01 23（+2）
+2026-10-18 21 → 2026-11-02 24（+3）
 
 
 ---

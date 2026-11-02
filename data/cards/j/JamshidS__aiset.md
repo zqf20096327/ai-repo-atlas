@@ -41,6 +41,18 @@
 > L169: aiset is built on them. `aiset-init` writes the subagent files for you, one per repo or stack, with each agent's r
 > L161: - **No new data flows.** aiset reads the transcripts Claude Code already writes. Model calls go through your own C
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JamshidS/aiset 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-01 15 → 2026-11-02 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `653644211aea` · [字段定义](../../DATASET.md)*

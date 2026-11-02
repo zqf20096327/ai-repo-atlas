@@ -1,6 +1,6 @@
 # birdnet-team/BirdNET-Tiny-Forge
 
-⭐ 28 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/birdnet-team/BirdNET-Tiny-Forge) · 组织维护
+⭐ 29 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/birdnet-team/BirdNET-Tiny-Forge) · 组织维护
 
 **面向嵌入式设备的 BirdNET-Tiny 模型训练与部署工具链**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "birdnet-team/BirdNET-Tiny-Forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-01 28（+0）
+2026-10-18 28 → 2026-11-02 29（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ipiton/agent-memory-mcp
 
-⭐ 44 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ipiton/agent-memory-mcp) · 个人维护
+⭐ 44 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ipiton/agent-memory-mcp) · 个人维护
 
 **给工程 agent 的持久记忆与项目文档上下文 MCP 服务器**
 
@@ -39,6 +39,18 @@
 
 > L7: `agent-memory-mcp` helps agents work with live engineering context, not just isolated notes. It combines typed memor
 > L50: - **Dual transport**: stdio for MCP clients, HTTP/JSON-RPC for APIs and shared setups
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ipiton/agent-memory-mcp 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 43 --> 45
+    line [44, 44]
+```
+
+2026-11-01 44 → 2026-11-02 44（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # iam-veeramalla/Intent-classifier-model
 
-⭐ 79 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iam-veeramalla/Intent-classifier-model) · 个人维护
+⭐ 80 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iam-veeramalla/Intent-classifier-model) · 个人维护
 
 **客服短文本意图分类小模型：五分类并经 Flask API 提供**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "iam-veeramalla/Intent-classifier-model 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
-    y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    y-axis "stars" 77 --> 81
+    line [78, 79, 80]
 ```
 
-2026-10-18 78 → 2026-11-01 79（+1）
+2026-10-18 78 → 2026-11-02 80（+2）
 
 
 ---

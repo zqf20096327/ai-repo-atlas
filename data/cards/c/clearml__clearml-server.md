@@ -44,13 +44,13 @@ ClearML 实验管理套件的自托管后端服务，包含 Web 应用（实验�
 
 ```mermaid
 xychart-beta
-    title "clearml/clearml-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "clearml/clearml-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 469 --> 472
-    line [470, 471]
+    line [470, 471, 471]
 ```
 
-2026-10-18 470 → 2026-11-01 471（+1）
+2026-10-18 470 → 2026-11-02 471（+1）
 
 
 ---

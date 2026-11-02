@@ -1,6 +1,6 @@
 # achetronic/adk-utils-go
 
-⭐ 130 · Go · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/achetronic/adk-utils-go) · 个人维护
+⭐ 131 · Go · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/achetronic/adk-utils-go) · 个人维护
 
 **Google ADK 的 Go 工具库：LLM 客户端、会话/记忆/工件存储与可观测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "achetronic/adk-utils-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 128 --> 131
-    line [129, 130, 130]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 128 --> 132
+    line [129, 130, 131]
 ```
 
-2026-10-18 129 → 2026-11-01 130（+1）
+2026-10-18 129 → 2026-11-02 131（+2）
 
 
 ---

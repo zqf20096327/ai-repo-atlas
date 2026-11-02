@@ -1,6 +1,6 @@
 # liguge/Journals-of-Prognostics-and-Health-Management
 
-⭐ 501 · 推送 2026-09-17 · [GitHub](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) · 个人维护 · 中文 README
+⭐ 500 · 推送 2026-09-17 · [GitHub](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) · 个人维护 · 中文 README
 
 **智能故障诊断与寿命预测领域英文期刊推荐清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "liguge/Journals-of-Prognostics-and-Health-Management 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
     y-axis "stars" 497 --> 502
-    line [498, 499, 500, 501, 501]
+    line [498, 499, 500, 501, 500]
 ```
 
-2026-10-18 498 → 2026-11-01 501（+3）
+2026-10-18 498 → 2026-11-02 500（+2）
 
 
 ---

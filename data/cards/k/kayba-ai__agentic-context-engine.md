@@ -1,6 +1,6 @@
 # kayba-ai/agentic-context-engine
 
-⭐ 2,607 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/kayba-ai/agentic-context-engine) · [官网](https://www.kayba.ai) · 组织维护
+⭐ 2,606 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/kayba-ai/agentic-context-engine) · [官网](https://www.kayba.ai) · 组织维护
 
 **让 AI agent 从经验中学习的持久学习循环引擎**
 
@@ -45,12 +45,12 @@ ACE 是 Kayba 托管服务背后的开源引擎，为 AI agent 增加“执行�
 ```mermaid
 xychart-beta
     title "kayba-ai/agentic-context-engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 2599 --> 2608
-    line [2600, 2604, 2605, 2607, 2607]
+    line [2600, 2604, 2605, 2607, 2606]
 ```
 
-2026-10-18 2,600 → 2026-11-01 2,607（+7）
+2026-10-18 2,600 → 2026-11-02 2,606（+6）
 
 
 ---

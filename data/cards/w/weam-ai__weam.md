@@ -1,6 +1,6 @@
 # weam-ai/weam
 
-⭐ 223 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/weam-ai/weam) · [官网](https://opensource.weam.ai/) · 组织维护
+⭐ 224 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/weam-ai/weam) · [官网](https://opensource.weam.ai/) · 组织维护
 
 **面向 20+ 人团队的自托管 AI 平台：团队聊天、提示词与 agent 集中协作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "weam-ai/weam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 222 --> 224
-    line [223, 223]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 222 --> 225
+    line [223, 224]
 ```
 
-2026-10-18 223 → 2026-11-01 223（+0）
+2026-10-18 223 → 2026-11-02 224（+1）
 
 
 ---

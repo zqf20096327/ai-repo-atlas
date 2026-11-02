@@ -1,6 +1,6 @@
 # artemchuikin/youtube-skills
 
-⭐ 343 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/artemchuikin/youtube-skills) · [官网](https://transcriptout.com/) · 组织维护
+⭐ 344 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/artemchuikin/youtube-skills) · [官网](https://transcriptout.com/) · 组织维护
 
 **给 AI agent 的 YouTube 转录/搜索技能包（12 个 Agent Skills）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "artemchuikin/youtube-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
     y-axis "stars" 277 --> 409
-    line [288, 398, 397, 337, 338, 340, 343, 343]
+    line [288, 398, 397, 337, 338, 340, 343, 344]
 ```
 
-2026-10-18 288 → 2026-11-01 343（+55）
+2026-10-18 288 → 2026-11-02 344（+56）
 
 
 ---

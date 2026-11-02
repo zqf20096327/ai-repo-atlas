@@ -1,6 +1,6 @@
 # anthropics/cwc-long-running-agents
 
-⭐ 750 · Shell · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/anthropics/cwc-long-running-agents) · 组织维护
+⭐ 751 · Shell · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/anthropics/cwc-long-running-agents) · 组织维护
 
 **长时运行 Claude Agent 的测试组件示例集：钩挂与子代理模式**
 
@@ -45,12 +45,12 @@ Anthropic 为 Code with Claude 2026 活动发布的示例仓库，把 Claude Cod
 ```mermaid
 xychart-beta
     title "anthropics/cwc-long-running-agents 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 691 --> 755
-    line [696, 697, 701, 702, 706, 712, 738, 745, 750, 750]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 691 --> 756
+    line [696, 697, 701, 702, 706, 712, 738, 745, 750, 751]
 ```
 
-2026-10-18 696 → 2026-11-01 750（+54）
+2026-10-18 696 → 2026-11-02 751（+55）
 
 
 ---

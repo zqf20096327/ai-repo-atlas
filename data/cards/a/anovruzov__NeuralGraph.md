@@ -1,6 +1,6 @@
 # anovruzov/NeuralGraph
 
-⭐ 151 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/anovruzov/NeuralGraph) · [官网](myceliclabs.com) · 个人维护
+⭐ 152 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/anovruzov/NeuralGraph) · [官网](https://myceliclabs.com) · 个人维护
 
 **给 Claude 等 MCP agent 的本地持久化图记忆服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anovruzov/NeuralGraph 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-02"]
     y-axis "stars" 150 --> 163
-    line [162, 152, 151, 151]
+    line [162, 152, 151, 152]
 ```
 
-2026-10-22 162 → 2026-11-01 151（-11）
+2026-10-22 162 → 2026-11-02 152（-10）
 
 
 ---

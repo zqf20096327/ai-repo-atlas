@@ -1,6 +1,6 @@
 # mozex/anthropic-php
 
-⭐ 47 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mozex/anthropic-php) · [官网](https://mozex.dev/docs/anthropic-php) · 个人维护
+⭐ 47 · PHP · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mozex/anthropic-php) · [官网](https://mozex.dev/docs/anthropic-php) · 个人维护
 
 **PHP 开发者的 Anthropic API SDK：发消息、流式、工具调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mozex/anthropic-php 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-11-01 47（+0）
+2026-10-18 47 → 2026-11-02 47（+0）
 
 
 ---

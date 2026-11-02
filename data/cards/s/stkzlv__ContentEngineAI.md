@@ -1,6 +1,6 @@
 # stkzlv/ContentEngineAI
 
-⭐ 11 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/stkzlv/ContentEngineAI) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/stkzlv/ContentEngineAI) · 个人维护
 
 **电商产品短视频自动化生产流水线，含抓取/配音/字幕/发布**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stkzlv/ContentEngineAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

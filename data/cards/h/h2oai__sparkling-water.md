@@ -1,6 +1,6 @@
 # h2oai/sparkling-water
 
-⭐ 982 · Scala · Apache-2.0 · 推送 2025-11-05 · [GitHub](https://github.com/h2oai/sparkling-water) · [官网](https://docs.h2o.ai/sparkling-water/3.3/latest-stable/doc/index.html) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **将 H2O-3 机器学习引擎集成进 Spark 集群的库**
 
@@ -11,7 +11,7 @@ Sparkling Water 将 H2O-3 机器学习引擎与 Apache Spark 集成：提供 Spa
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # MoAshour93/ConstructionAI
 
-⭐ 32 · Jupyter Notebook · 推送 2025-11-12 · [GitHub](https://github.com/MoAshour93/ConstructionAI) · [官网](https://www.apcmasterypath.co.uk) · 个人维护
+⭐ 33 · Jupyter Notebook · 推送 2025-11-12 · [GitHub](https://github.com/MoAshour93/ConstructionAI) · [官网](https://www.apcmasterypath.co.uk) · 个人维护
 
 **建筑行业生成式 AI 项目展示合集（个人作品集仓库）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MoAshour93/ConstructionAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-11-01 32（+1）
+2026-10-18 31 → 2026-11-02 33（+2）
 
 
 ---

@@ -44,13 +44,13 @@ VS Code 扩展，读取暂存的 diff，经用户选择的 AI 提供商生成 co
 
 ```mermaid
 xychart-beta
-    title "VizzleTF/CommitSage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "VizzleTF/CommitSage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 51 --> 54
-    line [52, 53]
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-01 53（+1）
+2026-10-18 52 → 2026-11-02 53（+1）
 
 
 ---

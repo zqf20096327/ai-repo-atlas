@@ -1,6 +1,6 @@
 # zhurudong/andrej-karpathy-llm-wiki
 
-⭐ 32 · Shell · 推送 2026-10-16 · [GitHub](https://github.com/zhurudong/andrej-karpathy-llm-wiki) · 个人维护 · 中文 README
+⭐ 33 · Shell · 推送 2026-10-16 · [GitHub](https://github.com/zhurudong/andrej-karpathy-llm-wiki) · 个人维护 · 中文 README
 
 **单文件 CLAUDE.md 模板：把任意 LLM CLI 变成个人知识库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhurudong/andrej-karpathy-llm-wiki 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 27 --> 33
-    line [28, 31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 27 --> 34
+    line [28, 31, 32, 33]
 ```
 
-2026-10-18 28 → 2026-11-01 32（+4）
+2026-10-18 28 → 2026-11-02 33（+5）
 
 
 ---

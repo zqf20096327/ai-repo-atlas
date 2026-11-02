@@ -1,6 +1,6 @@
 # ahundt/ai-session-search
 
-⭐ 50 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ahundt/ai-session-search) · [官网](https://github.com/ahundt/ai-session-search) · 个人维护
+⭐ 51 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/ahundt/ai-session-search) · [官网](https://github.com/ahundt/ai-session-search) · 个人维护
 
 **本地 AI 编程会话的统一搜索与分析工具（Rust）**
 
@@ -47,12 +47,12 @@ Rust 实现的本地会话索引与搜索工具：解析 Claude Code、Claude De
 ```mermaid
 xychart-beta
     title "ahundt/ai-session-search 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 45 --> 51
-    line [46, 48, 49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 45 --> 52
+    line [46, 48, 49, 50, 51]
 ```
 
-2026-10-18 46 → 2026-11-01 50（+4）
+2026-10-18 46 → 2026-11-02 51（+5）
 
 
 ---

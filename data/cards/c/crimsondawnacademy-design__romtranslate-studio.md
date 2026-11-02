@@ -1,6 +1,6 @@
 # crimsondawnacademy-design/romtranslate-studio
 
-⭐ 17 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/crimsondawnacademy-design/romtranslate-studio) · [官网](https://romtranslate-studio.pages.dev) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/crimsondawnacademy-design/romtranslate-studio) · [官网](https://romtranslate-studio.pages.dev) · 个人维护
 
 **本地 AI 翻译复古游戏 ROM 并导出 IPS/BPS 补丁的桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crimsondawnacademy-design/romtranslate-studio 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 11 --> 18
-    line [12, 14, 15, 16, 17, 17]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 11 --> 19
+    line [12, 14, 15, 16, 17, 18]
 ```
 
-2026-10-22 12 → 2026-11-01 17（+5）
+2026-10-22 12 → 2026-11-02 18（+6）
 
 
 ---

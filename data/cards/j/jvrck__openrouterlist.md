@@ -1,6 +1,6 @@
 # jvrck/openrouterlist
 
-⭐ 13 · HTML · MIT · 推送 2026-10-31 · [GitHub](https://github.com/jvrck/openrouterlist) · [官网](https://openrouterlist.jvrck.com) · 个人维护
+⭐ 13 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jvrck/openrouterlist) · [官网](https://openrouterlist.jvrck.com) · 个人维护
 
 **OpenRouter 模型价格与能力对比的静态站点（468 模型）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jvrck/openrouterlist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

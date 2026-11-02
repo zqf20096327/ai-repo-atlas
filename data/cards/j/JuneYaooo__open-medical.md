@@ -1,6 +1,6 @@
 # JuneYaooo/open-medical
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/JuneYaooo/open-medical) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/JuneYaooo/open-medical) · 个人维护 · 中文 README
 
 **面向医生的开源本地优先桌面 Agent，管理患者、知识与任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JuneYaooo/open-medical 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-02"]
     y-axis "stars" 8 --> 13
     line [9, 10, 11, 12, 12]
 ```
 
-2026-10-19 9 → 2026-11-01 12（+3）
+2026-10-19 9 → 2026-11-02 12（+3）
 
 
 ---

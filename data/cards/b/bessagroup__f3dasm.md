@@ -1,6 +1,6 @@
 # bessagroup/f3dasm
 
-⭐ 129 · Python · BSD-3-Clause · 推送 2026-09-01 · [GitHub](https://github.com/bessagroup/f3dasm) · [官网](https://f3dasm.readthedocs.io/) · 组织维护
+⭐ 130 · Python · BSD-3-Clause · 推送 2026-09-01 · [GitHub](https://github.com/bessagroup/f3dasm) · [官网](https://f3dasm.readthedocs.io/) · 组织维护
 
 **结构与材料数据驱动设计和分析的 Python 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bessagroup/f3dasm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 127 --> 130
-    line [128, 129, 129]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 127 --> 131
+    line [128, 129, 130]
 ```
 
-2026-10-18 128 → 2026-11-01 129（+1）
+2026-10-18 128 → 2026-11-02 130（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # MichaelShii/dsh-plugin-teamflow
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MichaelShii/dsh-plugin-teamflow) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MichaelShii/dsh-plugin-teamflow) · 个人维护 · 中文 README
 
 **面向 DeepSeek Harness 的多 Agent 团队研发流水线插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MichaelShii/dsh-plugin-teamflow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
     y-axis "stars" 10 --> 19
     line [11, 12, 14, 16, 17, 18, 18]
 ```
 
-2026-10-18 11 → 2026-11-01 18（+7）
+2026-10-18 11 → 2026-11-02 18（+7）
 
 
 ---

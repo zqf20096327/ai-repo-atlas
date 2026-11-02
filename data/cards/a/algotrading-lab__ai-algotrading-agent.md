@@ -1,6 +1,6 @@
 # algotrading-lab/ai-algotrading-agent
 
-⭐ 123 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/algotrading-lab/ai-algotrading-agent) · 组织维护
+⭐ 125 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/algotrading-lab/ai-algotrading-agent) · 组织维护
 
 **加密货币算法交易框架（TypeScript）：回测与逐 tick 重放**
 
@@ -45,12 +45,12 @@ TypeScript 编写的加密货币算法交易工具包，由原 Python 框架移�
 ```mermaid
 xychart-beta
     title "algotrading-lab/ai-algotrading-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 121 --> 126
+    line [122, 123, 125]
 ```
 
-2026-10-18 122 → 2026-11-01 123（+1）
+2026-10-18 122 → 2026-11-02 125（+3）
 
 
 ---

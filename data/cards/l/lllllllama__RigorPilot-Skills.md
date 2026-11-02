@@ -1,6 +1,6 @@
 # lllllllama/RigorPilot-Skills
 
-⭐ 487 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/lllllllama/RigorPilot-Skills) · 个人维护 · 中文 README
+⭐ 486 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/lllllllama/RigorPilot-Skills) · 个人维护 · 中文 README
 
 **供 agent 使用的科研仓库 README 复现技能包：有界执行+留证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lllllllama/RigorPilot-Skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "lllllllama/RigorPilot-Skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 483 --> 488
-    line [484, 485, 486, 484, 485, 486, 487]
+    line [484, 485, 486, 484, 485, 486, 487, 486]
 ```
 
-2026-10-18 484 → 2026-11-01 487（+3）
+2026-10-18 484 → 2026-11-02 486（+2）
 
 
 ---

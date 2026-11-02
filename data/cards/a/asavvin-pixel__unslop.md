@@ -1,6 +1,6 @@
 # asavvin-pixel/unslop
 
-⭐ 79 · MIT · 推送 2026-07-14 · [GitHub](https://github.com/asavvin-pixel/unslop) · 个人维护
+⭐ 81 · MIT · 推送 2026-07-14 · [GitHub](https://github.com/asavvin-pixel/unslop) · 个人维护
 
 **给 Claude 用户去除英文文本 AI 写作痕迹的技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "asavvin-pixel/unslop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 78, 79, 81]
 ```
 
-2026-10-18 76 → 2026-11-01 79（+3）
+2026-10-18 76 → 2026-11-02 81（+5）
 
 
 ---

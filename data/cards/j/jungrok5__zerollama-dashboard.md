@@ -1,6 +1,6 @@
 # jungrok5/zerollama-dashboard
 
-⭐ 32 · HTML · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/jungrok5/zerollama-dashboard) · [官网](https://jungrok5.github.io/zerollama-dashboard/) · 个人维护
+⭐ 33 · HTML · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/jungrok5/zerollama-dashboard) · [官网](https://jungrok5.github.io/zerollama-dashboard/) · 个人维护
 
 **单 HTML 文件的 llama.cpp 服务器监控面板，带聊天面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jungrok5/zerollama-dashboard 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-11-01 32（+1）
+2026-10-18 31 → 2026-11-02 33（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lihaiya/freeipcc
 
-⭐ 129 · TypeScript · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/lihaiya/freeipcc) · [官网](https://www.freeipcc.com) · 组织维护 · 中文 README
+⭐ 129 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lihaiya/freeipcc) · [官网](https://www.freeipcc.com) · 组织维护 · 中文 README
 
 **开源大模型呼叫中心/客服系统：话务、工单、质检与AI机器人**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lihaiya/freeipcc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 127 --> 130
     line [128, 129, 129]
 ```
 
-2026-10-18 128 → 2026-11-01 129（+1）
+2026-10-18 128 → 2026-11-02 129（+1）
 
 
 ---

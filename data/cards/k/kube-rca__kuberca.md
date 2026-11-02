@@ -1,6 +1,6 @@
 # kube-rca/kuberca
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/kube-rca/kuberca) · 组织维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/kube-rca/kuberca) · 组织维护
 
 **面向 Kubernetes 运维者的 AI 告警根因分析平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kube-rca/kuberca 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

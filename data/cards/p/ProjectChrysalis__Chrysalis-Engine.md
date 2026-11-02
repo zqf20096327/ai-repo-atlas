@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProjectChrysalis/Chrysalis-Engine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
+    title "ProjectChrysalis/Chrysalis-Engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30]
+    line [27, 28, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-01 30（+3）
+2026-10-18 27 → 2026-11-02 30（+3）
 
 
 ---

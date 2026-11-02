@@ -1,6 +1,6 @@
 # Rui-Huang-dotcom/tcm-ai-skill-hub
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Rui-Huang-dotcom/tcm-ai-skill-hub) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Rui-Huang-dotcom/tcm-ai-skill-hub) · 个人维护 · 中文 README
 
 **统一入口聚合 7 个公开中医 AI Skill，按问题自动选用来源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rui-Huang-dotcom/tcm-ai-skill-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 15]
 ```
 
-2026-10-18 12 → 2026-11-01 13（+1）
+2026-10-18 12 → 2026-11-02 15（+3）
 
 
 ---

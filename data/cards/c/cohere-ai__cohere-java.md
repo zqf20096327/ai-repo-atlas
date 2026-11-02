@@ -45,12 +45,12 @@ Cohere 官方发布的 Java SDK，提供 ChatRequest、ChatMessage 等类供 Jav
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-01 30（+1）
+2026-10-18 29 → 2026-11-02 30（+1）
 
 
 ---

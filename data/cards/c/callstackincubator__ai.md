@@ -1,6 +1,6 @@
 # callstackincubator/ai
 
-⭐ 1,426 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/callstackincubator/ai) · [官网](https://react-native-ai.dev) · 组织维护
+⭐ 1,426 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/callstackincubator/ai) · [官网](https://react-native-ai.dev) · 组织维护
 
 **React Native 端侧 LLM 开发库，兼容 Vercel AI SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "callstackincubator/ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01"]
+    title "callstackincubator/ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1417 --> 1427
-    line [1418, 1420, 1419, 1420, 1424, 1425, 1426]
+    line [1418, 1420, 1419, 1420, 1424, 1425, 1426, 1426]
 ```
 
-2026-10-18 1,418 → 2026-11-01 1,426（+8）
+2026-10-18 1,418 → 2026-11-02 1,426（+8）
 
 
 ---

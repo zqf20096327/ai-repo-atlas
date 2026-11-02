@@ -1,6 +1,6 @@
 # yaowenhu-pm/ai-product-playbook
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/yaowenhu-pm/ai-product-playbook) · [官网](https://yaowenhu-pm.github.io/ai-product-playbook/) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yaowenhu-pm/ai-product-playbook) · [官网](https://yaowenhu-pm.github.io/ai-product-playbook/) · 个人维护 · 中文 README
 
 **面向 AI 产品经理的在线实践手册：模型、Agent、产品三层方法**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yaowenhu-pm/ai-product-playbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # neverbiasu/ComfyUI-SAM2
 
-⭐ 265 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/neverbiasu/ComfyUI-SAM2) · 个人维护
+⭐ 265 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/neverbiasu/ComfyUI-SAM2) · 个人维护
 
 **将 Segment Anything 2 接入 ComfyUI 的图像分割扩展节点**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点扩展，把 SAM2（Segment Anything 2）适配进 ComfyU
 ```mermaid
 xychart-beta
     title "neverbiasu/ComfyUI-SAM2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
     y-axis "stars" 263 --> 266
     line [265, 264, 265, 265]
 ```
 
-2026-10-18 265 → 2026-11-01 265（+0）
+2026-10-18 265 → 2026-11-02 265（+0）
 
 
 ---

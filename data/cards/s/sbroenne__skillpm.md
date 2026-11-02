@@ -1,6 +1,6 @@
 # sbroenne/skillpm
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/sbroenne/skillpm) · [官网](https://skillpm.dev) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/sbroenne/skillpm) · [官网](https://skillpm.dev) · 个人维护
 
 **基于 npm 的 Agent Skills 包管理器：发布、安装、版本与接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sbroenne/skillpm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

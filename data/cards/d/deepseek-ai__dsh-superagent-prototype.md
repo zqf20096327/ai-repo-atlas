@@ -1,6 +1,6 @@
 # deepseek-ai/dsh-superagent-prototype
 
-⭐ 1,741 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) · 组织维护
+⭐ 6,775 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) · 组织维护
 
 **面向单仓库的主动编码 agent 原型，打包为 DeepSeek Harness bundle**
 
@@ -39,6 +39,18 @@ DeepSeek 团队发布的研究原型：dsh-superagent 是针对单个 GitHub 仓
 
 > L7: dsh-superagent is a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness. It 
 > L9: It is also a way of working with an agent: **take as little human attention as possible, and give as much value as p
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepseek-ai/dsh-superagent-prototype 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 1238 --> 7278
+    line [1741, 6775]
+```
+
+2026-11-01 1,741 → 2026-11-02 6,775（+5,034）
 
 
 ---

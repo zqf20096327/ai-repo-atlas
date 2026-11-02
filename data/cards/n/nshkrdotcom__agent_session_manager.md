@@ -45,12 +45,12 @@ OTP 原生的 Elixir 库（ASM），用一套 API 运行跨五个第一方 CLI p
 ```mermaid
 xychart-beta
     title "nshkrdotcom/agent_session_manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

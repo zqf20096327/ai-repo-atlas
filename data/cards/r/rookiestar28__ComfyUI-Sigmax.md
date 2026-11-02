@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-Sigmax
 
-⭐ 12 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rookiestar28/ComfyUI-Sigmax) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rookiestar28/ComfyUI-Sigmax) · 个人维护
 
 **ComfyUI 自定义节点：为多模型构建模型感知的 sigma 调度表**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rookiestar28/ComfyUI-Sigmax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

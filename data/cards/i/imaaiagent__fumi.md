@@ -1,6 +1,6 @@
 # imaaiagent/fumi
 
-⭐ 13 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/imaaiagent/fumi) · [官网](https://fumi.codes/) · 个人维护
+⭐ 14 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/imaaiagent/fumi) · [官网](https://fumi.codes/) · 个人维护
 
 **桌搭开源 AI 伙伴：ESP32-S3 实体电子宠物，可对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imaaiagent/fumi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 8 --> 14
-    line [9, 10, 11, 12, 13]
+    title "imaaiagent/fumi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 11, 12, 13, 14]
 ```
 
-2026-10-18 9 → 2026-11-01 13（+4）
+2026-10-18 9 → 2026-11-02 14（+5）
 
 
 ---

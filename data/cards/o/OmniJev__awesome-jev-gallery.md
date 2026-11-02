@@ -1,6 +1,6 @@
 # OmniJev/awesome-jev-gallery
 
-⭐ 479 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/OmniJev/awesome-jev-gallery) · [官网](https://omnijev.github.io/awesome-jev-gallery/) · 组织维护
+⭐ 483 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/OmniJev/awesome-jev-gallery) · [官网](https://omnijev.github.io/awesome-jev-gallery/) · 组织维护
 
 **Jev/System One 模型的论文、开源模型与评测策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OmniJev/awesome-jev-gallery 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01"]
+    title "OmniJev/awesome-jev-gallery 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 470 --> 511
-    line [508, 473, 475, 476, 478, 479]
+    line [508, 473, 475, 476, 478, 479, 483]
 ```
 
-2026-10-18 508 → 2026-11-01 479（-29）
+2026-10-18 508 → 2026-11-02 483（-25）
 
 
 ---

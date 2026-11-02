@@ -1,6 +1,6 @@
 # akiselev/debugger-cli
 
-⭐ 23 · Rust · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/akiselev/debugger-cli) · 个人维护
+⭐ 24 · Rust · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/akiselev/debugger-cli) · 个人维护
 
 **面向 LLM 编程代理的命令行调试器（基于 DAP）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akiselev/debugger-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-01 23（+0）
+2026-10-18 23 → 2026-11-02 24（+1）
 
 
 ---

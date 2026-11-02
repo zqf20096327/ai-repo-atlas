@@ -46,12 +46,12 @@ Flask Web 应用，通过摄像头人脸识别完成员工自动签到，识别�
 ```mermaid
 xychart-beta
     title "Fahri-Hilm/Smart_Absen_Facerecognation-2025-Kelompok4 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

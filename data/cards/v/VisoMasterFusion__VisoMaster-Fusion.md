@@ -1,6 +1,6 @@
 # VisoMasterFusion/VisoMaster-Fusion
 
-⭐ 984 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/VisoMasterFusion/VisoMaster-Fusion) · 组织维护
+⭐ 985 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/VisoMasterFusion/VisoMaster-Fusion) · 组织维护
 
 **桌面端 AI 换脸与视频编辑软件（图像/视频/摄像头）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VisoMasterFusion/VisoMaster-Fusion 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 958 --> 986
-    line [960, 964, 963, 966, 970, 973, 979, 981, 982, 984]
+    title "VisoMasterFusion/VisoMaster-Fusion 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 958 --> 987
+    line [960, 964, 963, 966, 970, 973, 979, 981, 982, 984, 985]
 ```
 
-2026-10-18 960 → 2026-11-01 984（+24）
+2026-10-18 960 → 2026-11-02 985（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # xt765/ResumeScreening
 
-⭐ 19 · Python · MIT · 推送 2026-03-13 · [GitHub](https://github.com/xt765/ResumeScreening) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-03-13 · [GitHub](https://github.com/xt765/ResumeScreening) · 个人维护 · 中文 README
 
 **面向 HR 的简历智能筛选系统，LLM 解析+筛选+RAG 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xt765/ResumeScreening 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 20（+1）
 
 
 ---

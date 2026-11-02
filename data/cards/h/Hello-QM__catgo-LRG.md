@@ -1,6 +1,6 @@
 # Hello-QM/catgo-LRG
 
-⭐ 207 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Hello-QM/catgo-LRG) · 组织维护 · 中文 README
+⭐ 209 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Hello-QM/catgo-LRG) · 组织维护 · 中文 README
 
 **面向计算材料科学研究者的 AI 工作台：建模、工作流与 HPC 一体化**
 
@@ -46,12 +46,12 @@ Tauri+SvelteKit 前端、FastAPI 后端的科研工作台，整合 3D 结构编�
 ```mermaid
 xychart-beta
     title "Hello-QM/catgo-LRG 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
     y-axis "stars" 206 --> 210
-    line [207, 209, 208, 207, 207]
+    line [207, 209, 208, 207, 209]
 ```
 
-2026-10-18 207 → 2026-11-01 207（+0）
+2026-10-18 207 → 2026-11-02 209（+2）
 
 
 ---

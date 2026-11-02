@@ -1,6 +1,6 @@
 # zeekk0/OpenSakura
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/zeekk0/OpenSakura) · [官网](https://www.mekahime.com/sakura) · 个人维护
+⭐ 72 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/zeekk0/OpenSakura) · [官网](https://www.mekahime.com/sakura) · 个人维护
 
 **开源 3D 虚拟 AI 伴侣：语音对话、情绪状态与本地语音合成**
 
@@ -46,12 +46,12 @@ MekaHime 的原型 AI 伴侣，以 FastAPI 后端驱动：本地 STT（改版 Se
 ```mermaid
 xychart-beta
     title "zeekk0/OpenSakura 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 28 --> 68
-    line [31, 53, 60, 64, 65, 65]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 27 --> 76
+    line [31, 53, 60, 64, 65, 72]
 ```
 
-2026-10-26 31 → 2026-11-01 65（+34）
+2026-10-26 31 → 2026-11-02 72（+41）
 
 
 ---

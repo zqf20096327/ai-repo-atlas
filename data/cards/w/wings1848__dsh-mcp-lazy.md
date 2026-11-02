@@ -1,6 +1,6 @@
 # wings1848/dsh-mcp-lazy
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/wings1848/dsh-mcp-lazy) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/wings1848/dsh-mcp-lazy) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的惰性 MCP 网关插件：单工具代理省 token**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wings1848/dsh-mcp-lazy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
     y-axis "stars" 7 --> 12
     line [8, 9, 11, 11]
 ```
 
-2026-10-18 8 → 2026-11-01 11（+3）
+2026-10-18 8 → 2026-11-02 11（+3）
 
 
 ---

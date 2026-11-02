@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mdruhulkuddus/awesome-free-ai-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
+    title "mdruhulkuddus/awesome-free-ai-tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
     y-axis "stars" 15 --> 21
-    line [16, 17, 20]
+    line [16, 17, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-01 20（+4）
+2026-10-18 16 → 2026-11-02 20（+4）
 
 
 ---

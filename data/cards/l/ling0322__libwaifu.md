@@ -1,6 +1,6 @@
 # ling0322/libwaifu
 
-⭐ 54 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ling0322/libwaifu) · 个人维护
+⭐ 96 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ling0322/libwaifu) · 个人维护
 
 **本地 GPU 文生图与语音库：SDXL/Qwen-Image 出图，IndexTTS/CosyVoice 语音**
 
@@ -45,13 +45,13 @@ Rust + C++ 实现的本地推理库与终端程序：文生图支持 SDXL、Anim
 
 ```mermaid
 xychart-beta
-    title "ling0322/libwaifu 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 13 --> 57
-    line [16, 18, 19, 54]
+    title "ling0322/libwaifu 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 8 --> 104
+    line [16, 18, 19, 54, 96]
 ```
 
-2026-10-28 16 → 2026-11-01 54（+38）
+2026-10-28 16 → 2026-11-02 96（+80）
 
 
 ---

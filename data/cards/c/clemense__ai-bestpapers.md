@@ -37,6 +37,18 @@
 
 > L3: List of awarded papers from Robotics/AI/ML/CV/NLP/CG venues.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "clemense/ai-bestpapers 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-11-01 48 → 2026-11-02 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `9052dcba9af4` · [字段定义](../../DATASET.md)*

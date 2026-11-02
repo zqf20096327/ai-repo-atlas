@@ -1,6 +1,6 @@
 # nurettincoban/ai-prd-workflow
 
-⭐ 307 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
+⭐ 309 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的 RFC 驱动开发工作流技能集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nurettincoban/ai-prd-workflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 300 --> 308
-    line [301, 305, 306, 307]
+    title "nurettincoban/ai-prd-workflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 300 --> 310
+    line [301, 305, 306, 307, 309]
 ```
 
-2026-10-18 301 → 2026-11-01 307（+6）
+2026-10-18 301 → 2026-11-02 309（+8）
 
 
 ---

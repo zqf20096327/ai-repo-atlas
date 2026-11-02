@@ -1,6 +1,6 @@
 # ymw0407/auth-fetch-mcp
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ymw0407/auth-fetch-mcp) · [官网](https://www.npmjs.com/package/auth-fetch-mcp) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ymw0407/auth-fetch-mcp) · [官网](https://www.npmjs.com/package/auth-fetch-mcp) · 个人维护
 
 **让 AI 助手经用户登录后抓取受保护网页的 MCP server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ymw0407/auth-fetch-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-01 36（+0）
+2026-10-18 36 → 2026-11-02 36（+0）
 
 
 ---

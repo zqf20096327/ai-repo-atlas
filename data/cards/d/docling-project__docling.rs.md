@@ -1,6 +1,6 @@
 # docling-project/docling.rs
 
-⭐ 121 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/docling-project/docling.rs) · 组织维护
+⭐ 121 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/docling-project/docling.rs) · 组织维护
 
 **Rust 版 docling：把 PDF/Office/HTML/音视频文档转成 Markdown/JSON 供 RAG 使用**
 
@@ -48,12 +48,12 @@ IBM docling 的完整 Rust 移植，单一静态二进制（或 pip/npm/crate）
 ```mermaid
 xychart-beta
     title "docling-project/docling.rs 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 105 --> 122
     line [106, 109, 111, 112, 113, 114, 119, 121, 121]
 ```
 
-2026-10-18 106 → 2026-11-01 121（+15）
+2026-10-18 106 → 2026-11-02 121（+15）
 
 
 ---

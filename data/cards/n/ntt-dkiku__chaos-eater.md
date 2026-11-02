@@ -1,6 +1,6 @@
 # ntt-dkiku/chaos-eater
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-04-06 · [GitHub](https://github.com/ntt-dkiku/chaos-eater) · [官网](https://ntt-dkiku.github.io/chaos-eater/) · 组织维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-04-06 · [GitHub](https://github.com/ntt-dkiku/chaos-eater) · [官网](https://ntt-dkiku.github.io/chaos-eater/) · 组织维护
 
 **用 LLM agent 全自动完成 Kubernetes 混沌工程循环的系统**
 
@@ -46,12 +46,12 @@ ASE 2025 NIER 论文官方实现：将混沌工程（CE）的假设、实验、�
 ```mermaid
 xychart-beta
     title "ntt-dkiku/chaos-eater 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-11-01 32（+1）
+2026-10-18 31 → 2026-11-02 33（+2）
 
 
 ---

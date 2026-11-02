@@ -1,6 +1,6 @@
 # 0xPD33/commonplace
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/0xPD33/commonplace) · [官网](https://huggingface.co/datasets/0xPD33/commonplace-packs) · 个人维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/0xPD33/commonplace) · [官网](https://askcommonplace.app/) · 个人维护
 
 **安卓离线 AI 研究问答应用：本机检索维基百科并给出带引用的回答**
 
@@ -39,6 +39,18 @@
 
 > L3: Commonplace is an offline research assistant for Android. You ask a question, and it answers from Wikipedia and othe
 > L5: On a Pixel 10, Gemma 4 E2B writes the answer on the Tensor G5 NPU: the first word comes after about 2 seconds and th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "0xPD33/commonplace 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 12 --> 25
+    line [13, 24]
+```
+
+2026-11-01 13 → 2026-11-02 24（+11）
 
 
 ---

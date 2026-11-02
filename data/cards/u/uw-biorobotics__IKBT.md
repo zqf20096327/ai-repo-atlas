@@ -1,6 +1,6 @@
 # uw-biorobotics/IKBT
 
-⭐ 221 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/uw-biorobotics/IKBT) · [官网](https://www.jair.org/index.php/jair/article/view/11592) · 组织维护
+⭐ 221 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/uw-biorobotics/IKBT) · [官网](https://www.jair.org/index.php/jair/article/view/11592) · 组织维护
 
 **符号法求解机械臂逆运动学的 Python 系统，输出 LaTeX/Python/C++**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "uw-biorobotics/IKBT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-10-18 221 → 2026-11-01 221（+0）
+2026-10-18 221 → 2026-11-02 221（+0）
 
 
 ---

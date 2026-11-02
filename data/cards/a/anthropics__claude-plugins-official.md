@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-official
 
-⭐ 45,538 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
+⭐ 45,691 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
 
 **Anthropic 官方维护的 Claude Code 插件市场目录**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-plugins-official 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 41009 --> 45949
-    line [41420, 43144, 43539, 43836, 44079, 44309, 44509, 44713, 44915, 45100, 45270, 45419, 45538]
+    title "anthropics/claude-plugins-official 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 40993 --> 46118
+    line [41420, 43144, 43539, 43836, 44079, 44309, 44509, 44713, 44915, 45100, 45270, 45419, 45538, 45691]
 ```
 
-2026-10-18 41,420 → 2026-11-01 45,538（+4,118）
+2026-10-18 41,420 → 2026-11-02 45,691（+4,271）
 
 
 ---

@@ -45,12 +45,12 @@ Kody 是构建在 eve agent 框架上的 GitHub 维护 agent 模板，面向自�
 ```mermaid
 xychart-beta
     title "vercel-labs/kody-eve-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 10 --> 14
     line [11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-01 13（+2）
+2026-10-18 11 → 2026-11-02 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # 2362094903-ops/study-assistant-skills
 
-⭐ 31 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/2362094903-ops/study-assistant-skills) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/2362094903-ops/study-assistant-skills) · 个人维护 · 中文 README
 
 **面向备考用户的 Claude Code 学习辅导 Skill 套件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "2362094903-ops/study-assistant-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 24 --> 32
-    line [25, 26, 27, 28, 29, 30, 31]
+    title "2362094903-ops/study-assistant-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 24 --> 33
+    line [25, 26, 27, 28, 29, 30, 31, 32]
 ```
 
-2026-10-18 25 → 2026-11-01 31（+6）
+2026-10-18 25 → 2026-11-02 32（+7）
 
 
 ---

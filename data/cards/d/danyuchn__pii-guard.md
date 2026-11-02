@@ -1,6 +1,6 @@
 # danyuchn/pii-guard
 
-⭐ 252 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/danyuchn/pii-guard) · 个人维护 · 中文 README
+⭐ 253 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/danyuchn/pii-guard) · 个人维护 · 中文 README
 
 **繁中（台湾）个资去识别化工具：文件遮蔽后送 AI、可逐字还原**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "danyuchn/pii-guard 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 248 --> 253
-    line [249, 250, 251, 252, 252]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 248 --> 254
+    line [249, 250, 251, 252, 253]
 ```
 
-2026-10-18 249 → 2026-11-01 252（+3）
+2026-10-18 249 → 2026-11-02 253（+4）
 
 
 ---

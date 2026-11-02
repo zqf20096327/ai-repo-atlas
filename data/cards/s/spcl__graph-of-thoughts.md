@@ -1,6 +1,6 @@
 # spcl/graph-of-thoughts
 
-⭐ 2,850 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/spcl/graph-of-thoughts) · [官网](https://arxiv.org/pdf/2308.09687.pdf) · 组织维护
+⭐ 2,851 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/spcl/graph-of-thoughts) · [官网](https://arxiv.org/pdf/2308.09687.pdf) · 组织维护
 
 **把问题建模为操作图并用 LLM 自动执行的提示工程框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spcl/graph-of-thoughts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 2841 --> 2851
-    line [2842, 2844, 2845, 2846, 2847, 2850, 2850]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 2841 --> 2852
+    line [2842, 2844, 2845, 2846, 2847, 2850, 2851]
 ```
 
-2026-10-18 2,842 → 2026-11-01 2,850（+8）
+2026-10-18 2,842 → 2026-11-02 2,851（+9）
 
 
 ---

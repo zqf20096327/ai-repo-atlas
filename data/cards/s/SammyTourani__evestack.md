@@ -1,6 +1,6 @@
 # SammyTourani/evestack
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SammyTourani/evestack) · [官网](https://evestack.vercel.app) · 个人维护
+⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/SammyTourani/evestack) · [官网](https://evestack.vercel.app) · 个人维护
 
 **本地自托管的 AI agent 运行栈：会话、沙箱、审批与仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SammyTourani/evestack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

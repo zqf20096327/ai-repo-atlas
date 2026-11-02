@@ -1,6 +1,6 @@
 # junhoyeo/contrabass
 
-⭐ 224 · Go · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/junhoyeo/contrabass) · [官网](https://contrabass.dev) · 个人维护 · 中文 README
+⭐ 223 · Go · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/junhoyeo/contrabass) · [官网](https://contrabass.dev) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的项目级任务编排器（TUI/Web）**
 
@@ -46,12 +46,12 @@ Go + Charm 栈实现的终端优先编排器，是 OpenAI Symphony 的重实现�
 ```mermaid
 xychart-beta
     title "junhoyeo/contrabass 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
     y-axis "stars" 222 --> 225
-    line [224, 223, 224, 223, 224, 224]
+    line [224, 223, 224, 223, 224, 223]
 ```
 
-2026-10-18 224 → 2026-11-01 224（+0）
+2026-10-18 224 → 2026-11-02 223（-1）
 
 
 ---

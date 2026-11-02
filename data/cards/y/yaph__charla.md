@@ -1,6 +1,6 @@
 # yaph/charla
 
-⭐ 12 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yaph/charla) · [官网](https://geeksta.net/geeklog/charla-introduction/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yaph/charla) · [官网](https://geeksta.net/geeklog/charla-introduction/) · 个人维护
 
 **终端里与语言模型对话的聊天客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yaph/charla 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 11（-1）
 
 
 ---

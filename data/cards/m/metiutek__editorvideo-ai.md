@@ -1,6 +1,6 @@
 # metiutek/editorvideo-ai
 
-⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/metiutek/editorvideo-ai) · [官网](https://pypi.org/project/vedit-mcp/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/metiutek/editorvideo-ai) · [官网](https://pypi.org/project/vedit-mcp/) · 个人维护
 
 **可由 AI 代操作的本地非线性视频编辑器（MCP 工具集）**
 
@@ -45,13 +45,13 @@ vedit 是一个本地运行的非线性视频编辑器：时间线、多轨道�
 
 ```mermaid
 xychart-beta
-    title "metiutek/editorvideo-ai 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01"]
+    title "metiutek/editorvideo-ai 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 17
-    line [10, 12, 13, 14, 16]
+    line [10, 12, 13, 14, 16, 16]
 ```
 
-2026-10-19 10 → 2026-11-01 16（+6）
+2026-10-19 10 → 2026-11-02 16（+6）
 
 
 ---

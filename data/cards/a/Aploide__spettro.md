@@ -1,6 +1,6 @@
 # Aploide/spettro
 
-⭐ 37 · Go · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Aploide/spettro) · [官网](https://spettro.app) · 个人维护
+⭐ 38 · Go · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Aploide/spettro) · [官网](https://spettro.app) · 个人维护
 
 **终端多 agent 编程助手，连接本地/远端模型自动规划编码测试**
 
@@ -45,12 +45,12 @@ Go 编写、基于 Bubble Tea TUI 的终端多 agent 编程助手。通过 spett
 ```mermaid
 xychart-beta
     title "Aploide/spettro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-11-01 37（+0）
+2026-10-18 37 → 2026-11-02 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vastxie/99AI
 
-⭐ 1,035 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/vastxie/99AI) · [官网](https://agent.lightai.cloud) · 个人维护 · 中文 README
+⭐ 1,035 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/vastxie/99AI) · [官网](https://agent.lightai.cloud) · 个人维护 · 中文 README
 
 **可私有化部署的多用户 Web Agent 底座，带沙箱与后台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vastxie/99AI 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
+    title "vastxie/99AI 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 1029 --> 1036
-    line [1030, 1033, 1034, 1035]
+    line [1030, 1033, 1034, 1035, 1035]
 ```
 
-2026-10-26 1,030 → 2026-11-01 1,035（+5）
+2026-10-26 1,030 → 2026-11-02 1,035（+5）
 
 
 ---

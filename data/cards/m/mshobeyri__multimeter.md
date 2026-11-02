@@ -1,6 +1,6 @@
 # mshobeyri/multimeter
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mshobeyri/multimeter) · [官网](https://mmt.dev) · 个人维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/mshobeyri/multimeter) · [官网](https://mmt.dev) · 个人维护
 
 **给 API 开发者：VS Code 内 Git 原生的 REST 客户端与 API 测试工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mshobeyri/multimeter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 12（+1）
 
 
 ---

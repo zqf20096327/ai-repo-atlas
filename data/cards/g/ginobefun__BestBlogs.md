@@ -1,6 +1,6 @@
 # ginobefun/BestBlogs
 
-⭐ 4,070 · TypeScript · 推送 2026-07-08 · [GitHub](https://github.com/ginobefun/BestBlogs) · [官网](https://bestblogs.dev) · 个人维护 · 中文 README
+⭐ 4,072 · TypeScript · 推送 2026-07-08 · [GitHub](https://github.com/ginobefun/BestBlogs) · [官网](https://bestblogs.dev) · 个人维护 · 中文 README
 
 **面向读者的 AI 内容筛选与阅读助手，汇集高质量技术文章**
 
@@ -45,12 +45,12 @@ BestBlogs.dev 是 AI 驱动的私人阅读产品：以 RSS 爬取 + AI 深度分
 ```mermaid
 xychart-beta
     title "ginobefun/BestBlogs 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 4055 --> 4071
-    line [4056, 4058, 4062, 4065, 4067, 4069, 4070, 4070]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 4055 --> 4073
+    line [4056, 4058, 4062, 4065, 4067, 4069, 4070, 4072]
 ```
 
-2026-10-18 4,056 → 2026-11-01 4,070（+14）
+2026-10-18 4,056 → 2026-11-02 4,072（+16）
 
 
 ---

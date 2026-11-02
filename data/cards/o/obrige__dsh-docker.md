@@ -1,6 +1,6 @@
 # obrige/dsh-docker
 
-⭐ 15 · Dockerfile · MIT · 推送 2026-10-10 · [GitHub](https://github.com/obrige/dsh-docker) · [官网](https://github.com/obrige/dsh-docker/pkgs/container/dsh-docker) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness Web UI 的 Docker 一键自托管启动方案**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

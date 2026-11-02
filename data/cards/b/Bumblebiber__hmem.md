@@ -1,6 +1,6 @@
 # Bumblebiber/hmem
 
-⭐ 24 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Bumblebiber/hmem) · [官网](https://ko-fi.com/bumblebiber) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Bumblebiber/hmem) · [官网](https://ko-fi.com/bumblebiber) · 个人维护
 
 **面向 AI agent 的跨会话持久记忆框架（MCP 服务 + SDK）**
 
@@ -45,12 +45,12 @@ hmem 是为 Claude Code 等 AI 编码工具提供的持久记忆基础设施：�
 ```mermaid
 xychart-beta
     title "Bumblebiber/hmem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-01 24（+0）
+2026-10-18 24 → 2026-11-02 24（+0）
 
 
 ---

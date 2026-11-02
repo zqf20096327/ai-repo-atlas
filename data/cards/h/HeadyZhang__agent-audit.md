@@ -1,6 +1,6 @@
 # HeadyZhang/agent-audit
 
-⭐ 244 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/HeadyZhang/agent-audit) · [官网](https://headyzhang.github.io/agent-audit/) · 个人维护
+⭐ 245 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/HeadyZhang/agent-audit) · [官网](https://headyzhang.github.io/agent-audit/) · 个人维护
 
 **AI agent 代码静态安全扫描器：检测提示注入、MCP 配置风险**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HeadyZhang/agent-audit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 238 --> 245
-    line [239, 241, 242, 243, 244]
+    title "HeadyZhang/agent-audit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 238 --> 246
+    line [239, 241, 242, 243, 244, 245]
 ```
 
-2026-10-18 239 → 2026-11-01 244（+5）
+2026-10-18 239 → 2026-11-02 245（+6）
 
 
 ---

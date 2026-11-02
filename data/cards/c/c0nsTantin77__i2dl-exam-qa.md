@@ -1,6 +1,6 @@
 # c0nsTantin77/i2dl-exam-qa
 
-⭐ 23 · Python · 推送 2026-10-01 · [GitHub](https://github.com/c0nsTantin77/i2dl-exam-qa) · [官网](https://c0nstantin77.github.io/i2dl-exam-qa/) · 个人维护
+⭐ 23 · Python · 推送 2026-11-01 · [GitHub](https://github.com/c0nsTantin77/i2dl-exam-qa) · [官网](https://c0nstantin77.github.io/i2dl-exam-qa/) · 个人维护
 
 **TUM 深度学习课程的历年考题复习网站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "c0nsTantin77/i2dl-exam-qa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-01 23（+1）
+2026-10-18 22 → 2026-11-02 23（+1）
 
 
 ---

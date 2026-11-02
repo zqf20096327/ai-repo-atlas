@@ -1,6 +1,6 @@
 # ANDRETRIPOL/OpenGhost
 
-⭐ 283 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ANDRETRIPOL/OpenGhost) · [官网](https://andretripol.github.io/OpenGhost/) · 个人维护
+⭐ 284 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ANDRETRIPOL/OpenGhost) · [官网](https://andretripol.github.io/OpenGhost/) · 个人维护
 
 **跨平台桌面 AI agent：对话生成回答并配可视化绘图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ANDRETRIPOL/OpenGhost 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 264 --> 284
-    line [265, 266, 275, 276, 277, 279, 281, 282, 283, 283]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 264 --> 285
+    line [265, 266, 275, 276, 277, 279, 281, 282, 283, 284]
 ```
 
-2026-10-18 265 → 2026-11-01 283（+18）
+2026-10-18 265 → 2026-11-02 284（+19）
 
 
 ---

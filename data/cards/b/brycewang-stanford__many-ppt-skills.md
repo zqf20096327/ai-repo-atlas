@@ -1,6 +1,6 @@
 # brycewang-stanford/many-ppt-skills
 
-⭐ 67 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/brycewang-stanford/many-ppt-skills) · 个人维护 · 中文 README
+⭐ 68 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/brycewang-stanford/many-ppt-skills) · 个人维护 · 中文 README
 
 **227 个 AI 幻灯片 Skill 的对比选型清单，HTML/PPTX 双路线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "brycewang-stanford/many-ppt-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 55 --> 68
-    line [56, 57, 62, 65, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 55 --> 69
+    line [56, 57, 62, 65, 66, 67, 68]
 ```
 
-2026-10-18 56 → 2026-11-01 67（+11）
+2026-10-18 56 → 2026-11-02 68（+12）
 
 
 ---

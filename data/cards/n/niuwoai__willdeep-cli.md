@@ -1,6 +1,6 @@
 # niuwoai/willdeep-cli
 
-⭐ 17 · Rust · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/niuwoai/willdeep-cli) · [官网](https://willdeep.com) · 个人维护 · 中文 README
+⭐ 17 · Rust · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/niuwoai/willdeep-cli) · [官网](https://willdeep.com) · 个人维护 · 中文 README
 
 **自托管可审计 AI Coding Agent，改动可追溯、子 Agent 退出码裁决**
 
@@ -40,6 +40,18 @@ Rust 实现的自托管 AI 编程 Agent：单个二进制内含常驻 Runtime Da
 
 > L5: 自托管的 AI Coding Agent。模型可以不出国，每一行改动能追溯到是哪个 Agent、哪次工具调用改的，小模型交上来的活由退出码裁决而不是自我声明，检查点回退把对话和文件一起退回去。目标（`/goal`）是带 token 
 > L7: > **WillDeep** is a self-hosted AI coding agent for people who have to answer for what the agent did: every changed 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "niuwoai/willdeep-cli 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-01 17 → 2026-11-02 17（+0）
 
 
 ---

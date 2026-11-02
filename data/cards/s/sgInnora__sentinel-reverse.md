@@ -46,12 +46,12 @@ Innora-Sentinel 平台逆向引擎的开源抽取版，以 CLI 与 Python API �
 ```mermaid
 xychart-beta
     title "sgInnora/sentinel-reverse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 83 --> 86
     line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-11-01 85（+1）
+2026-10-18 84 → 2026-11-02 85（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Denis2054/RAG-Driven-Generative-AI-2nd-Edition
 
-⭐ 21 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition) · [官网](https://www.linkedin.com/in/denis-rothman-0b034043/) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition) · [官网](https://www.linkedin.com/in/denis-rothman-0b034043/) · 个人维护
 
 **RAG 生成式 AI 第二版配套代码库：Oracle 数据库内构建主权 RAG 系统**
 
@@ -46,12 +46,12 @@ Denis Rothman 所著《RAG-Driven Generative AI, Second Edition》(Packt) 的配
 ```mermaid
 xychart-beta
     title "Denis2054/RAG-Driven-Generative-AI-2nd-Edition 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-11-01 21（+2）
+2026-10-18 19 → 2026-11-02 22（+3）
 
 
 ---

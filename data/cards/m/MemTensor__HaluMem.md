@@ -1,6 +1,6 @@
 # MemTensor/HaluMem
 
-⭐ 178 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/MemTensor/HaluMem) · 组织维护
+⭐ 179 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/MemTensor/HaluMem) · 组织维护
 
 **智能体记忆系统幻觉评测基准（操作级任务+数据集）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MemTensor/HaluMem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 175 --> 179
-    line [176, 178, 178]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 175 --> 180
+    line [176, 178, 179]
 ```
 
-2026-10-18 176 → 2026-11-01 178（+2）
+2026-10-18 176 → 2026-11-02 179（+3）
 
 
 ---

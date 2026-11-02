@@ -1,6 +1,6 @@
 # amitshekhariitbhu/ai-system-design
 
-⭐ 815 · Markdown · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/amitshekhariitbhu/ai-system-design) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 819 · Markdown · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/amitshekhariitbhu/ai-system-design) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **AI 系统设计学习指南：LLM 推理、RAG 与 Agent 的体系化教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/ai-system-design 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 677 --> 827
-    line [689, 726, 731, 732, 733, 736, 775, 798, 801, 808, 809, 810, 815]
+    title "amitshekhariitbhu/ai-system-design 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 676 --> 832
+    line [689, 726, 731, 732, 733, 736, 775, 798, 801, 808, 809, 810, 815, 819]
 ```
 
-2026-10-18 689 → 2026-11-01 815（+126）
+2026-10-18 689 → 2026-11-02 819（+130）
 
 
 ---

@@ -40,6 +40,18 @@
 > L8: - **Content Repurposing** - Extract YouTube transcripts and generate shorter versions for other platforms
 > L9: - **Hook Generator** - AI-powered opening lines to grab attention
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KenKaiii/social-bro 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-11-01 26 → 2026-11-02 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `62cf7adc629a` · [字段定义](../../DATASET.md)*

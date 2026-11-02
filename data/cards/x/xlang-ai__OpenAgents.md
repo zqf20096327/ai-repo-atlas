@@ -1,6 +1,6 @@
 # xlang-ai/OpenAgents
 
-⭐ 4,869 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/xlang-ai/OpenAgents) · [官网](https://arxiv.org/abs/2310.10634) · 组织维护
+⭐ 4,870 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/xlang-ai/OpenAgents) · [官网](https://arxiv.org/abs/2310.10634) · 组织维护
 
 **面向普通用户的语言 Agent 开放平台：数据分析/插件/浏览网页三类 Agent**
 
@@ -46,13 +46,13 @@ COLM 2024 论文配套的开源平台，实现三个可通过 Chat 网页 UI 直
 
 ```mermaid
 xychart-beta
-    title "xlang-ai/OpenAgents 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 4864 --> 4870
-    line [4865, 4867, 4869]
+    title "xlang-ai/OpenAgents 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 4864 --> 4871
+    line [4865, 4867, 4869, 4870]
 ```
 
-2026-10-29 4,865 → 2026-11-01 4,869（+4）
+2026-10-29 4,865 → 2026-11-02 4,870（+5）
 
 
 ---

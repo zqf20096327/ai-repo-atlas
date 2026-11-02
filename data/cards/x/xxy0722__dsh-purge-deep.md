@@ -1,6 +1,6 @@
 # xxy0722/dsh-purge-deep
 
-⭐ 11 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xxy0722/dsh-purge-deep) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/xxy0722/dsh-purge-deep) · 个人维护 · 中文 README
 
 **dsh 桌面版破甲插件的深度分支：多层提示注入与兼容修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xxy0722/dsh-purge-deep 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
+    title "xxy0722/dsh-purge-deep 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 3 --> 12
-    line [4, 5, 8, 9, 11]
+    line [4, 5, 8, 9, 11, 11]
 ```
 
-2026-10-28 4 → 2026-11-01 11（+7）
+2026-10-28 4 → 2026-11-02 11（+7）
 
 
 ---

@@ -46,12 +46,12 @@ Alan Code 是用 Python 实现的终端编码 agent，功能含异步 agent 循�
 ```mermaid
 xychart-beta
     title "tboulet/Alan-Code-agent 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-30", "2026-11-02"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-30 25 → 2026-11-01 25（+0）
+2026-10-30 25 → 2026-11-02 25（+0）
 
 
 ---

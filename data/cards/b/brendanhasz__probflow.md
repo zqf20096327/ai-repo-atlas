@@ -1,6 +1,6 @@
 # brendanhasz/probflow
 
-⭐ 175 · Jupyter Notebook · MIT · 推送 2026-09-26 · [GitHub](https://github.com/brendanhasz/probflow) · [官网](http://probflow.readthedocs.io) · 个人维护
+⭐ 175 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/brendanhasz/probflow) · [官网](http://probflow.readthedocs.io) · 个人维护
 
 **构建贝叶斯概率模型的 Python 库，支持 TF/PyTorch/JAX 后端**
 
@@ -45,12 +45,12 @@ Python 概率建模库：提供参数与概率分布等底层构件和贝叶斯�
 ```mermaid
 xychart-beta
     title "brendanhasz/probflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 174 --> 176
     line [175, 175]
 ```
 
-2026-10-18 175 → 2026-11-01 175（+0）
+2026-10-18 175 → 2026-11-02 175（+0）
 
 
 ---

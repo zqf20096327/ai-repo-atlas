@@ -1,6 +1,6 @@
 # avs-abhishek123/Computer-Vision-Projects
 
-⭐ 234 · Jupyter Notebook · 推送 2026-05-02 · [GitHub](https://github.com/avs-abhishek123/Computer-Vision-Projects) · 个人维护
+⭐ 233 · Jupyter Notebook · 推送 2026-05-02 · [GitHub](https://github.com/avs-abhishek123/Computer-Vision-Projects) · 个人维护
 
 **计算机视觉项目合集仓库（初学者到进阶）**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "avs-abhishek123/Computer-Vision-Projects 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-02"]
     y-axis "stars" 230 --> 235
-    line [231, 232, 233, 234, 234]
+    line [231, 232, 233, 234, 233]
 ```
 
-2026-10-18 231 → 2026-11-01 234（+3）
+2026-10-18 231 → 2026-11-02 233（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vakra-dev/supermarkdown
 
-⭐ 12 · Rust · MIT · 推送 2026-09-12 · [GitHub](https://github.com/vakra-dev/supermarkdown) · [官网](https://supermarkdown.dev/) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-09-12 · [GitHub](https://github.com/vakra-dev/supermarkdown) · [官网](https://supermarkdown.dev/) · 个人维护
 
 **Rust 编写的 HTML 转 Markdown 转换器，供 Node.js 与 Rust 使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vakra-dev/supermarkdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "vakra-dev/supermarkdown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

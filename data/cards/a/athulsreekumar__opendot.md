@@ -46,12 +46,12 @@ Mac 与 Windows 桌面应用（Electron + React），提供名为 Dots 的单职
 ```mermaid
 xychart-beta
     title "athulsreekumar/opendot 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-31", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-31 13 → 2026-11-01 13（+0）
+2026-10-31 13 → 2026-11-02 13（+0）
 
 
 ---

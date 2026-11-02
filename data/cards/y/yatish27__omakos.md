@@ -1,6 +1,6 @@
 # yatish27/omakos
 
-⭐ 149 · Shell · MIT · 推送 2026-04-18 · [GitHub](https://github.com/yatish27/omakos) · 个人维护
+⭐ 149 · Shell · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yatish27/omakos) · 个人维护
 
 **macOS 开发环境一键初始化脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yatish27/omakos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 148 --> 150
     line [149, 149]
 ```
 
-2026-10-18 149 → 2026-11-01 149（+0）
+2026-10-18 149 → 2026-11-02 149（+0）
 
 
 ---

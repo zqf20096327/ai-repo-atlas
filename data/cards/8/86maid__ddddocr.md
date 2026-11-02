@@ -1,6 +1,6 @@
 # 86maid/ddddocr
 
-⭐ 351 · Rust · 推送 2026-04-30 · [GitHub](https://github.com/86maid/ddddocr) · 个人维护 · 中文 README
+⭐ 352 · Rust · 推送 2026-04-30 · [GitHub](https://github.com/86maid/ddddocr) · 个人维护 · 中文 README
 
 **Rust 版通用验证码 OCR 库与 API 服务，含滑块匹配**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "86maid/ddddocr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 349 --> 352
-    line [350, 351, 351]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 349 --> 353
+    line [350, 351, 352]
 ```
 
-2026-10-18 350 → 2026-11-01 351（+1）
+2026-10-18 350 → 2026-11-02 352（+2）
 
 
 ---

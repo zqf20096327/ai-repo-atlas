@@ -1,6 +1,6 @@
 # test-zeus-ai/testzeus-hercules
 
-⭐ 1,209 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/test-zeus-ai/testzeus-hercules) · [官网](https://testzeus.com/hercules) · 组织维护
+⭐ 1,210 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/test-zeus-ai/testzeus-hercules) · [官网](https://testzeus.com/hercules) · 组织维护
 
 **无代码端到端测试 Agent：Gherkin 步骤自动转为 UI/API 测试**
 
@@ -46,13 +46,13 @@ TestZeus 开发的开源测试 Agent：输入 Gherkin 特性文件，由 planner
 
 ```mermaid
 xychart-beta
-    title "test-zeus-ai/testzeus-hercules 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 1187 --> 1211
-    line [1189, 1191, 1192, 1194, 1196, 1199, 1202, 1201, 1202, 1205, 1209]
+    title "test-zeus-ai/testzeus-hercules 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1187 --> 1212
+    line [1189, 1191, 1192, 1194, 1196, 1199, 1202, 1201, 1202, 1205, 1209, 1210]
 ```
 
-2026-10-18 1,189 → 2026-11-01 1,209（+20）
+2026-10-18 1,189 → 2026-11-02 1,210（+21）
 
 
 ---

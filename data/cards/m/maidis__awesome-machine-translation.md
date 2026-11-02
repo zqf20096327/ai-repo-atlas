@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maidis/awesome-machine-translation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "maidis/awesome-machine-translation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 201 --> 204
-    line [202, 203]
+    line [202, 203, 203]
 ```
 
-2026-10-18 202 → 2026-11-01 203（+1）
+2026-10-18 202 → 2026-11-02 203（+1）
 
 
 ---

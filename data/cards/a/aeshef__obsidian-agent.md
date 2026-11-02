@@ -45,13 +45,13 @@ Python 编写的 Telegram bot，在本地 Obsidian vault 之上运行：从 Tele
 
 ```mermaid
 xychart-beta
-    title "aeshef/obsidian-agent 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    title "aeshef/obsidian-agent 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-30 10 → 2026-11-01 12（+2）
+2026-10-30 10 → 2026-11-02 12（+2）
 
 
 ---

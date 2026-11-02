@@ -1,6 +1,6 @@
 # ManzDev/shama
 
-⭐ 55 · JavaScript · 推送 2026-05-05 · [GitHub](https://github.com/ManzDev/shama) · [官网](https://youtu.be/Vvb_KYCTD2w) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 llama.cpp 在终端更易用并接入 opencode 的本地 AI 开发脚本**
 

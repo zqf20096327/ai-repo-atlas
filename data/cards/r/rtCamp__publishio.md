@@ -1,6 +1,6 @@
 # rtCamp/publishio
 
-⭐ 12 · PHP · GPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/rtCamp/publishio) · [官网](https://rtcamp.com) · 组织维护
+⭐ 13 · PHP · GPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/rtCamp/publishio) · [官网](https://rtcamp.com) · 组织维护
 
 **WordPress 自托管 MCP 服务器：让 ChatGPT/Claude 按站点既有样式发布页面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rtCamp/publishio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-01 12（+1）
+2026-10-18 11 → 2026-11-02 13（+2）
 
 
 ---

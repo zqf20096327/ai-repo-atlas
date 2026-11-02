@@ -1,6 +1,6 @@
 # bixat/nexsh
 
-⭐ 17 · Rust · MIT · 推送 2026-01-24 · [GitHub](https://github.com/bixat/nexsh) · [官网](https://bixat.dev/products/nexsh) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-01-24 · [GitHub](https://github.com/bixat/nexsh) · [官网](https://bixat.dev/products/nexsh) · 个人维护
 
 **用 Gemini 把自然语言翻译成 shell 命令的交互式终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bixat/nexsh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 15 --> 18
+    line [17, 16]
 ```
 
-2026-10-18 17 → 2026-11-01 17（+0）
+2026-10-18 17 → 2026-11-02 16（-1）
 
 
 ---

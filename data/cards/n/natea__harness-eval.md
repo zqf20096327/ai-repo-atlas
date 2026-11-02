@@ -1,6 +1,6 @@
 # natea/harness-eval
 
-⭐ 15 · TypeScript · 推送 2026-07-08 · [GitHub](https://github.com/natea/harness-eval) · [官网](https://codingharness.xyz/) · 个人维护
+⭐ 15 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/natea/harness-eval) · [官网](https://codingharness.xyz/) · 个人维护
 
 **评测框架：让各 agentic 编码框架同规格构建并打分排名**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "natea/harness-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

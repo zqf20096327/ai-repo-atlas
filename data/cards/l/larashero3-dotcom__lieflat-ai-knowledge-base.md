@@ -1,6 +1,6 @@
 # larashero3-dotcom/lieflat-ai-knowledge-base
 
-⭐ 19 · 推送 2026-08-17 · [GitHub](https://github.com/larashero3-dotcom/lieflat-ai-knowledge-base) · [官网](https://moxt.ai/w/jjkaatvr/b9ccdab1-8b96-4c6c-a6f2-d71005e7c9a7) · 个人维护 · 中文 README
+⭐ 20 · 推送 2026-08-17 · [GitHub](https://github.com/larashero3-dotcom/lieflat-ai-knowledge-base) · [官网](https://moxt.ai/w/jjkaatvr/b9ccdab1-8b96-4c6c-a6f2-d71005e7c9a7) · 个人维护 · 中文 README
 
 **追踪 GitHub 热点与 AI 动态的免费知识库（已 100+ 篇播报）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "larashero3-dotcom/lieflat-ai-knowledge-base 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 18, 19, 20]
 ```
 
-2026-10-18 15 → 2026-11-01 19（+4）
+2026-10-18 15 → 2026-11-02 20（+5）
 
 
 ---

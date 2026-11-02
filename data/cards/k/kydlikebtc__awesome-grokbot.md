@@ -1,6 +1,6 @@
 # kydlikebtc/awesome-grokbot
 
-⭐ 442 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kydlikebtc/awesome-grokbot) · [官网](https://kydlikebtc.github.io/awesome-grokbot/) · 个人维护 · 中文 README
+⭐ 445 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kydlikebtc/awesome-grokbot) · [官网](https://kydlikebtc.github.io/awesome-grokbot/) · 个人维护 · 中文 README
 
 **Grok Bot 公开分享配置的策展清单（4933 条，双语）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kydlikebtc/awesome-grokbot 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 352 --> 450
-    line [360, 362, 369, 389, 400, 413, 427, 432, 434, 438, 440, 442]
+    title "kydlikebtc/awesome-grokbot 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 352 --> 453
+    line [360, 362, 369, 389, 400, 413, 427, 432, 434, 438, 440, 442, 445]
 ```
 
-2026-10-18 360 → 2026-11-01 442（+82）
+2026-10-18 360 → 2026-11-02 445（+85）
 
 
 ---

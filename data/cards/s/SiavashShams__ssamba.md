@@ -1,6 +1,6 @@
 # SiavashShams/ssamba
 
-⭐ 144 · Python · BSD-3-Clause · 推送 2025-11-05 · [GitHub](https://github.com/SiavashShams/ssamba) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Mamba 状态空间模型的自监督音频表征学习官方实现**
 
@@ -11,7 +11,7 @@ SLT 2024 论文 SSAMBA 的 PyTorch 官方实现：以 Mamba 状态空间模型�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

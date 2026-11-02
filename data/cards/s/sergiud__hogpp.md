@@ -1,6 +1,6 @@
 # sergiud/hogpp
 
-⭐ 13 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sergiud/hogpp) · [官网](https://hogpp.readthedocs.io) · 个人维护
+⭐ 13 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sergiud/hogpp) · [官网](https://hogpp.readthedocs.io) · 个人维护
 
 **R-HOG 特征快速计算的 Python/C++ 库，基于积分直方图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sergiud/hogpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

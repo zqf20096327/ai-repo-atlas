@@ -1,6 +1,6 @@
 # daonhan/ralph
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/daonhan/ralph) · [官网](https://www.npmjs.com/package/@daonhan/ralph) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/daonhan/ralph) · [官网](https://www.npmjs.com/package/@daonhan/ralph) · 个人维护
 
 **自主编码代理循环：在 Docker 沙箱中迭代驱动 Claude Code/Codex 完成计划或 GitHub issue**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daonhan/ralph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 22 --> 25
+    line [24, 23]
 ```
 
-2026-10-18 24 → 2026-11-01 24（+0）
+2026-10-18 24 → 2026-11-02 23（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jwuthri-cloud/SelfJev
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jwuthri-cloud/SelfJev) · [官网](https://www.selfjev.dev) · 个人维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jwuthri-cloud/SelfJev) · [官网](https://www.selfjev.dev) · 个人维护
 
 **自托管 4B 决策模型：把文本与问题转为结构化决策输出**
 
@@ -45,12 +45,12 @@ SelfJev 是一个自托管的决策模型（selfjev-4b，基于 Qwen3.5-4B 加 r
 ```mermaid
 xychart-beta
     title "jwuthri-cloud/SelfJev 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 36 --> 61
-    line [38, 45, 50, 54, 58, 59, 59]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 36 --> 62
+    line [38, 45, 50, 54, 58, 59, 60]
 ```
 
-2026-10-23 38 → 2026-11-01 59（+21）
+2026-10-23 38 → 2026-11-02 60（+22）
 
 
 ---

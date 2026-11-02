@@ -1,6 +1,6 @@
 # virtualramblas/gromacs_smolagent
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/virtualramblas/gromacs_smolagent) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/virtualramblas/gromacs_smolagent) · 个人维护
 
 **自动化 GROMACS 分子动力学模拟流程的多智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "virtualramblas/gromacs_smolagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 13（+1）
 
 
 ---

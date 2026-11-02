@@ -1,6 +1,6 @@
 # Aryan-Pardeshi/CiteProof-AI-MCP
 
-⭐ 108 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Aryan-Pardeshi/CiteProof-AI-MCP) · [官网](https://citeproof.top/) · 个人维护
+⭐ 109 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Aryan-Pardeshi/CiteProof-AI-MCP) · [官网](https://citeproof.top/) · 个人维护
 
 **系统综述审计工具集：MCP 审计服务器 + 证据落地研究应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aryan-Pardeshi/CiteProof-AI-MCP 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 86 --> 110
-    line [89, 88, 91, 92, 104, 106, 108]
+    title "Aryan-Pardeshi/CiteProof-AI-MCP 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 86 --> 111
+    line [89, 88, 91, 92, 104, 106, 108, 109]
 ```
 
-2026-10-24 89 → 2026-11-01 108（+19）
+2026-10-24 89 → 2026-11-02 109（+20）
 
 
 ---

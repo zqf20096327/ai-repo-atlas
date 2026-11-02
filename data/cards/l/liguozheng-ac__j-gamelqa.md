@@ -1,6 +1,6 @@
 # liguozheng-ac/j-gamelqa
 
-⭐ 58 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/liguozheng-ac/j-gamelqa) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **中→日游戏本地化 QA 系统：规则检查混合上下文感知 LLM 评估**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

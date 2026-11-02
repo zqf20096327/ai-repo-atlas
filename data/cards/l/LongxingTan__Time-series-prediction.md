@@ -1,6 +1,6 @@
 # LongxingTan/Time-series-prediction
 
-⭐ 892 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/LongxingTan/Time-series-prediction) · [官网](https://time-series-prediction.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 892 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LongxingTan/Time-series-prediction) · [官网](https://time-series-prediction.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **给开发者的 TensorFlow 时间序列深度学习模型库**
 
@@ -45,12 +45,12 @@ TFTS 是基于 TensorFlow/Keras 的时间序列深度学习包，支持预测、
 ```mermaid
 xychart-beta
     title "LongxingTan/Time-series-prediction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
     y-axis "stars" 890 --> 894
     line [891, 893, 892, 892]
 ```
 
-2026-10-18 891 → 2026-11-01 892（+1）
+2026-10-18 891 → 2026-11-02 892（+1）
 
 
 ---

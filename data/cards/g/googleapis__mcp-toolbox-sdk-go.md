@@ -43,12 +43,12 @@ googleapis 维护的 MCP Toolbox 官方 Go SDK 集合，作为 MCP Toolbox 服�
 ```mermaid
 xychart-beta
     title "googleapis/mcp-toolbox-sdk-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 58 --> 61
     line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-01 60（+1）
+2026-10-18 59 → 2026-11-02 60（+1）
 
 
 ---

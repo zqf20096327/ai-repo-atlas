@@ -1,6 +1,6 @@
 # aditya-ramabadran/drivingbench_harness_v1
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/aditya-ramabadran/drivingbench_harness_v1) · [官网](https://drivingbench.com) · 个人维护
+⭐ 61 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/aditya-ramabadran/drivingbench_harness_v1) · [官网](https://drivingbench.com) · 个人维护
 
 **让 LLM 通过 MCP 工具在封闭场地驾驶真实汽车的研究测试框架**
 
@@ -46,12 +46,12 @@ DrivingBench Harness 是研究软件：在 comma four 设备的 openpilot 上打
 ```mermaid
 xychart-beta
     title "aditya-ramabadran/drivingbench_harness_v1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 58 --> 62
+    line [59, 60, 61]
 ```
 
-2026-10-18 59 → 2026-11-01 60（+1）
+2026-10-18 59 → 2026-11-02 61（+2）
 
 
 ---

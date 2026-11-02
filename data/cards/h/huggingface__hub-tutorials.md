@@ -1,6 +1,6 @@
 # huggingface/hub-tutorials
 
-⭐ 39 · Jupyter Notebook · 推送 2026-02-16 · [GitHub](https://github.com/huggingface/hub-tutorials) · 组织维护
+⭐ 38 · Jupyter Notebook · 推送 2026-02-16 · [GitHub](https://github.com/huggingface/hub-tutorials) · 组织维护
 
 **Hugging Face Hub 官方教程与练习仓库，聚焦 AI agent 构建与使用**
 
@@ -43,12 +43,12 @@ Hugging Face 维护的 Hub 教程仓库，内容为与 Hub 相关的练习和教
 ```mermaid
 xychart-beta
     title "huggingface/hub-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 37 --> 40
+    line [39, 38]
 ```
 
-2026-10-18 39 → 2026-11-01 39（+0）
+2026-10-18 39 → 2026-11-02 38（-1）
 
 
 ---

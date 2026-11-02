@@ -1,6 +1,6 @@
 # s2b-dev/smart-second-brain
 
-⭐ 1,337 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/s2b-dev/smart-second-brain) · [官网](https://smartsecondbrain.dev) · 组织维护
+⭐ 1,340 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/s2b-dev/smart-second-brain) · [官网](https://smartsecondbrain.dev) · 组织维护
 
 **让 Obsidian 笔记库更智能的插件：搜索、知识图谱与 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "s2b-dev/smart-second-brain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 1322 --> 1338
-    line [1323, 1326, 1333, 1337]
+    title "s2b-dev/smart-second-brain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 1322 --> 1341
+    line [1323, 1326, 1333, 1337, 1340]
 ```
 
-2026-10-18 1,323 → 2026-11-01 1,337（+14）
+2026-10-18 1,323 → 2026-11-02 1,340（+17）
 
 
 ---

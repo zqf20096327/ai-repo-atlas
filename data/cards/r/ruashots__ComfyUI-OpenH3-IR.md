@@ -1,6 +1,6 @@
 # ruashots/ComfyUI-OpenH3-IR
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ruashots/ComfyUI-OpenH3-IR) · [官网](https://github.com/ruashots/open-h3-ir) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ruashots/ComfyUI-OpenH3-IR) · [官网](https://github.com/ruashots/open-h3-ir) · 个人维护
 
 **ComfyUI 节点包：为 MiniMax H3 编译结构化 Context-IR 简报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ruashots/ComfyUI-OpenH3-IR 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 35 --> 43
-    line [36, 37, 38, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 35 --> 45
+    line [36, 37, 38, 41, 42, 44]
 ```
 
-2026-10-18 36 → 2026-11-01 42（+6）
+2026-10-18 36 → 2026-11-02 44（+8）
 
 
 ---

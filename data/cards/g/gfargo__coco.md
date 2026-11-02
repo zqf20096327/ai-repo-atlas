@@ -1,6 +1,6 @@
 # gfargo/coco
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/gfargo/coco) · [官网](https://coco.griffen.codes) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/gfargo/coco) · [官网](https://coco.griffen.codes) · 个人维护
 
 **CLI git 助手：AI 生成提交信息、变更日志、代码审查与 PR**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gfargo/coco 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tgagor/docker-gemini-cli
 
-⭐ 19 · Dockerfile · GPL-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/tgagor/docker-gemini-cli) · [官网](https://gagor.pro/2025/10/running-gemini-cli-in-a-docker-container/) · 个人维护
+⭐ 19 · Dockerfile · GPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tgagor/docker-gemini-cli) · [官网](https://gagor.pro/2025/10/running-gemini-cli-in-a-docker-container/) · 个人维护
 
 **将 Gemini CLI 封装为 Docker 镜像，免装 Node.js 即可运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tgagor/docker-gemini-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-01 19（+0）
+2026-10-18 19 → 2026-11-02 19（+0）
 
 
 ---

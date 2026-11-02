@@ -1,6 +1,6 @@
 # sanderland/script_tok
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/sanderland/script_tok) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sanderland/script_tok) · 个人维护
 
 **面向研究者的子词分词算法实现库（BPE/Unigram/MinGram 等）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanderland/script_tok 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-01 22（+0）
+2026-10-18 22 → 2026-11-02 22（+0）
 
 
 ---

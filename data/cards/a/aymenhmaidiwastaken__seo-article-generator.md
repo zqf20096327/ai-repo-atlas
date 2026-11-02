@@ -45,12 +45,12 @@ Python 编写的 SEO 内容生成流水线：从 DuckDuckGo、Bing、Google、Re
 ```mermaid
 xychart-beta
     title "aymenhmaidiwastaken/seo-article-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 15（+0）
 
 
 ---

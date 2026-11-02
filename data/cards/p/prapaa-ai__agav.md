@@ -1,6 +1,6 @@
 # prapaa-ai/agav
 
-⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/prapaa-ai/agav) · [官网](https://agav.dev) · 组织维护
+⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/prapaa-ai/agav) · [官网](https://agav.dev) · 组织维护
 
 **终端 AI 编程代理：在 CLI 中读写代码、跑测试、验证修改**
 
@@ -45,13 +45,13 @@ Apache 2.0 的终端自治编程代理，以自包含二进制安装（curl/Powe
 
 ```mermaid
 xychart-beta
-    title "prapaa-ai/agav 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01"]
+    title "prapaa-ai/agav 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-02"]
     y-axis "stars" 168 --> 174
-    line [169, 170, 171, 173]
+    line [169, 170, 171, 173, 173]
 ```
 
-2026-10-18 169 → 2026-11-01 173（+4）
+2026-10-18 169 → 2026-11-02 173（+4）
 
 
 ---

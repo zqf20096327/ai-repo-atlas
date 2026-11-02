@@ -1,6 +1,6 @@
 # huggingface/smollm
 
-⭐ 3,943 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smollm) · [官网](https://huggingface.co/HuggingFaceTB) · 组织维护
+⭐ 3,945 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smollm) · [官网](https://huggingface.co/HuggingFaceTB) · 组织维护
 
 **HuggingFace 的轻量级开源文本与视觉模型家族（SmolLM/SmolVLM）**
 
@@ -45,13 +45,13 @@ HuggingFace 团队维护的 SmolLM 与 SmolVLM 模型家族仓库：SmolLM3 为 
 
 ```mermaid
 xychart-beta
-    title "huggingface/smollm 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 3925 --> 3944
-    line [3926, 3927, 3930, 3931, 3933, 3935, 3939, 3940, 3943]
+    title "huggingface/smollm 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 3925 --> 3946
+    line [3926, 3927, 3930, 3931, 3933, 3935, 3939, 3940, 3943, 3945]
 ```
 
-2026-10-18 3,926 → 2026-11-01 3,943（+17）
+2026-10-18 3,926 → 2026-11-02 3,945（+19）
 
 
 ---

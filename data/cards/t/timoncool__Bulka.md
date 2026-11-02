@@ -1,6 +1,6 @@
 # timoncool/Bulka
 
-⭐ 66 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/timoncool/Bulka) · [官网](https://bulka.app) · 个人维护 · 中文 README
+⭐ 68 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/timoncool/Bulka) · [官网](https://bulka.app) · 个人维护 · 中文 README
 
 **俄语向浏览器音乐代码编辑器：内置 AI 助手实时生成与修改音乐代码**
 
@@ -45,13 +45,13 @@ Strudel 的俄语分支，浏览器内通过写代码实时合成音乐的编辑
 
 ```mermaid
 xychart-beta
-    title "timoncool/Bulka 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 52 --> 67
-    line [53, 54, 55, 56, 63, 64, 66]
+    title "timoncool/Bulka 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 52 --> 69
+    line [53, 54, 55, 56, 63, 64, 66, 68]
 ```
 
-2026-10-18 53 → 2026-11-01 66（+13）
+2026-10-18 53 → 2026-11-02 68（+15）
 
 
 ---

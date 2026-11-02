@@ -1,6 +1,6 @@
 # guoxun/AgenticRec
 
-⭐ 46 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/guoxun/AgenticRec) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/guoxun/AgenticRec) · 个人维护 · 中文 README
 
 **把搜广推管线重构为多 Agent 议会的轻量级 Python 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "guoxun/AgenticRec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-11-01 46（+0）
+2026-10-18 46 → 2026-11-02 47（+1）
 
 
 ---

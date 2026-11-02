@@ -1,6 +1,6 @@
 # kevinten-ai/ai-agent-agentscope-codereview
 
-⭐ 70 · Java · 推送 2026-06-28 · [GitHub](https://github.com/kevinten-ai/ai-agent-agentscope-codereview) · [官网](https://java.agentscope.io) · 个人维护 · 中文 README
+⭐ 71 · Java · 推送 2026-06-28 · [GitHub](https://github.com/kevinten-ai/ai-agent-agentscope-codereview) · [官网](https://java.agentscope.io) · 个人维护 · 中文 README
 
 **基于 AgentScope Java SDK 的代码审查 Agent 项目与框架学习教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinten-ai/ai-agent-agentscope-codereview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 65 --> 71
-    line [66, 67, 68, 69, 70]
+    title "kevinten-ai/ai-agent-agentscope-codereview 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 65 --> 72
+    line [66, 67, 68, 69, 70, 71]
 ```
 
-2026-10-18 66 → 2026-11-01 70（+4）
+2026-10-18 66 → 2026-11-02 71（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # kishormorol/cli-faq-shortcuts
 
-⭐ 133 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kishormorol/cli-faq-shortcuts) · 个人维护
+⭐ 134 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kishormorol/cli-faq-shortcuts) · 个人维护
 
 **把重复的编码 agent 提示词变成可复用斜杠命令的 Agent Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kishormorol/cli-faq-shortcuts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 130 --> 134
-    line [131, 132, 133, 133]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 130 --> 135
+    line [131, 132, 133, 134]
 ```
 
-2026-10-18 131 → 2026-11-01 133（+2）
+2026-10-18 131 → 2026-11-02 134（+3）
 
 
 ---

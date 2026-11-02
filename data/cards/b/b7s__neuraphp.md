@@ -1,6 +1,6 @@
 # b7s/neuraphp
 
-⭐ 15 · PHP · 推送 2026-06-05 · [GitHub](https://github.com/b7s/neuraphp) · [官网](https://brunots.dev/) · 个人维护
+⭐ 16 · PHP · 推送 2026-06-05 · [GitHub](https://github.com/b7s/neuraphp) · [官网](https://brunots.dev/) · 个人维护
 
 **给 PHP 开发者的本地文本 embedding 库：无 API、无外部服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "b7s/neuraphp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-01 15（+0）
+2026-10-18 15 → 2026-11-02 16（+1）
 
 
 ---

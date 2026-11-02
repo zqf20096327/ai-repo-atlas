@@ -1,6 +1,6 @@
 # codertesla/ai-coding-deals
 
-⭐ 134 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/codertesla/ai-coding-deals) · 个人维护 · 中文 README
+⭐ 135 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/codertesla/ai-coding-deals) · 个人维护 · 中文 README
 
 **AI 编程工具省钱指南：追踪免费额度、折扣与开源替代**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codertesla/ai-coding-deals 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 124 --> 135
-    line [125, 127, 129, 130, 132, 134, 134]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 124 --> 136
+    line [125, 127, 129, 130, 132, 134, 135]
 ```
 
-2026-10-18 125 → 2026-11-01 134（+9）
+2026-10-18 125 → 2026-11-02 135（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # asanchezyali/talking-avatar-with-ai
 
-⭐ 472 · JavaScript · 推送 2026-09-16 · [GitHub](https://github.com/asanchezyali/talking-avatar-with-ai) · 个人维护
+⭐ 473 · JavaScript · 推送 2026-09-16 · [GitHub](https://github.com/asanchezyali/talking-avatar-with-ai) · 个人维护
 
 **可对话数字人项目：GPT 生成回答、Whisper 听音、ElevenLabs 发声**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "asanchezyali/talking-avatar-with-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
     y-axis "stars" 469 --> 474
-    line [470, 471, 472, 473, 472, 472]
+    line [470, 471, 472, 473, 472, 473]
 ```
 
-2026-10-18 470 → 2026-11-01 472（+2）
+2026-10-18 470 → 2026-11-02 473（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kieranklaassen/leva
 
-⭐ 149 · Ruby · MIT · 推送 2026-09-13 · [GitHub](https://github.com/kieranklaassen/leva) · 个人维护
+⭐ 148 · Ruby · MIT · 推送 2026-09-13 · [GitHub](https://github.com/kieranklaassen/leva) · 个人维护
 
 **Rails 应用中基于生产数据评估 LLM 的框架**
 
@@ -45,12 +45,12 @@ Ruby on Rails 引擎形式的 LLM 评测框架：以 ActiveRecord 记录构建�
 ```mermaid
 xychart-beta
     title "kieranklaassen/leva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 148 --> 150
-    line [149, 149]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 147 --> 150
+    line [149, 148]
 ```
 
-2026-10-18 149 → 2026-11-01 149（+0）
+2026-10-18 149 → 2026-11-02 148（-1）
 
 
 ---

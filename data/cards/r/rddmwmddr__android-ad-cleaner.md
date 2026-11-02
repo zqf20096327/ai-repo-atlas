@@ -1,6 +1,6 @@
 # rddmwmddr/android-ad-cleaner
 
-⭐ 5,343 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/rddmwmddr/android-ad-cleaner) · 个人维护 · 中文 README
+⭐ 5,618 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rddmwmddr/android-ad-cleaner) · 个人维护 · 中文 README
 
 **不 root 关闭国产安卓手机系统广告与营销推送的工具，支持 AI 智能体执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rddmwmddr/android-ad-cleaner 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 0 --> 5864
-    line [132, 671, 1821, 3147, 4245, 4703, 5037, 5343]
+    title "rddmwmddr/android-ad-cleaner 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 0 --> 6166
+    line [132, 671, 1821, 3147, 4245, 4703, 5037, 5343, 5618]
 ```
 
-2026-10-25 132 → 2026-11-01 5,343（+5,211）
+2026-10-25 132 → 2026-11-02 5,618（+5,486）
 
 
 ---

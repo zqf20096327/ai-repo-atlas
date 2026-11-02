@@ -1,6 +1,6 @@
 # Forrest404/forrest-notes
 
-⭐ 14 · C · MIT · 推送 2026-06-24 · [GitHub](https://github.com/Forrest404/forrest-notes) · 个人维护
+⭐ 16 · C · MIT · 推送 2026-06-24 · [GitHub](https://github.com/Forrest404/forrest-notes) · 个人维护
 
 **ESP32-S3 墨水屏语音笔记硬件固件：录音转写并用 AI 整理成 Markdown 同步 GitHub**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Forrest404/forrest-notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 16]
 ```
 
-2026-10-18 12 → 2026-11-01 14（+2）
+2026-10-18 12 → 2026-11-02 16（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Riddhish1/CogniScrape
 
-⭐ 63 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/Riddhish1/CogniScrape) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/Riddhish1/CogniScrape) · 个人维护
 
 **TypeScript LLM 智能网页抓取库：结构化提取数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Riddhish1/CogniScrape 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 63, 63]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 63, 64]
 ```
 
-2026-10-18 60 → 2026-11-01 63（+3）
+2026-10-18 60 → 2026-11-02 64（+4）
 
 
 ---

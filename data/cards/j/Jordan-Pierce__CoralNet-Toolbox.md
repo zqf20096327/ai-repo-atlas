@@ -1,6 +1,6 @@
 # Jordan-Pierce/CoralNet-Toolbox
 
-⭐ 57 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Jordan-Pierce/CoralNet-Toolbox) · [官网](https://pypi.org/project/coralnet-toolbox/) · 组织维护
+⭐ 57 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Jordan-Pierce/CoralNet-Toolbox) · [官网](https://pypi.org/project/coralnet-toolbox/) · 组织维护
 
 **珊瑚礁底栖影像的人机协同标注与模型开发工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jordan-Pierce/CoralNet-Toolbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
     y-axis "stars" 55 --> 58
     line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-01 57（+1）
+2026-10-18 56 → 2026-11-02 57（+1）
 
 
 ---

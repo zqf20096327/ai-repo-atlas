@@ -1,6 +1,6 @@
 # francordel/myrtia
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/francordel/myrtia) · [官网](https://myrtia.ai) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/francordel/myrtia) · [官网](https://myrtia.ai) · 个人维护
 
 **面向 LLM 与 AI agent 的红队评估框架，多模型议事会生成攻击**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "francordel/myrtia 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 25 --> 33
-    line [26, 27, 29, 30, 31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 25 --> 34
+    line [26, 27, 29, 30, 31, 32, 33]
 ```
 
-2026-10-18 26 → 2026-11-01 32（+6）
+2026-10-18 26 → 2026-11-02 33（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # phoenixlucky/zerotoken-skill
 
-⭐ 20 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/phoenixlucky/zerotoken-skill) · [官网](https://clawhub.ai/phoenixlucky/zerotoken-skill) · 个人维护 · 中文 README
+⭐ 21 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/phoenixlucky/zerotoken-skill) · [官网](https://clawhub.ai/phoenixlucky/zerotoken-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 的省 token 提示词纪律规范技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "phoenixlucky/zerotoken-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-11-01 20（+2）
+2026-10-18 18 → 2026-11-02 21（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mayaradaher/challenge-Amazon
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-01-24 · [GitHub](https://github.com/mayaradaher/challenge-Amazon) · [官网](https://amazonchallenge-122629525979.southamerica-east1.run.app) · 个人维护
+⭐ 30 · Jupyter Notebook · MIT · 推送 2026-01-24 · [GitHub](https://github.com/mayaradaher/challenge-Amazon) · [官网](https://amazonchallenge-122629525979.southamerica-east1.run.app) · 个人维护
 
 **分析亚马逊购物数据并用 Gemini 生成个性化图书推荐的应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mayaradaher/challenge-Amazon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30]
 ```
 
-2026-10-18 30 → 2026-11-01 31（+1）
+2026-10-18 30 → 2026-11-02 30（+0）
 
 
 ---

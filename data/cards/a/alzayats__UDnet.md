@@ -1,6 +1,6 @@
 # alzayats/UDnet
 
-⭐ 72 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/alzayats/UDnet) · [官网](https://alzayats.github.io/UDnet/) · 组织维护
+⭐ 71 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/alzayats/UDnet) · [官网](https://alzayats.github.io/UDnet/) · 组织维护
 
 **水下图像增强模型：无需参考图去除蓝绿偏色与雾感**
 
@@ -47,12 +47,12 @@ PyTorch 实现的水下图像/视频增强模型，出自 Expert Systems with Ap
 ```mermaid
 xychart-beta
     title "alzayats/UDnet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
     y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    line [71, 72, 71]
 ```
 
-2026-10-18 71 → 2026-11-01 72（+1）
+2026-10-18 71 → 2026-11-02 71（+0）
 
 
 ---

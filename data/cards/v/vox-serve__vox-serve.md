@@ -1,6 +1,6 @@
 # vox-serve/vox-serve
 
-⭐ 78 · Python · Apache-2.0 · 推送 2026-06-20 · [GitHub](https://github.com/vox-serve/vox-serve) · [官网](https://vox-serve.github.io/) · 组织维护 · 中文 README
+⭐ 79 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/vox-serve/vox-serve) · [官网](https://vox-serve.github.io/) · 组织维护 · 中文 README
 
 **面向 TTS/STS 语音模型的流式推理服务引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vox-serve/vox-serve 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
     y-axis "stars" 77 --> 80
-    line [79, 78, 78]
+    line [79, 78, 79]
 ```
 
-2026-10-18 79 → 2026-11-01 78（-1）
+2026-10-18 79 → 2026-11-02 79（+0）
 
 
 ---

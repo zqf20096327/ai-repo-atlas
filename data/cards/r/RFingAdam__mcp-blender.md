@@ -1,6 +1,6 @@
 # RFingAdam/mcp-blender
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/RFingAdam/mcp-blender) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 MCP 客户端的 Blender 工具服务器：218 个 3D 建模与生成工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

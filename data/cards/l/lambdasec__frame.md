@@ -1,6 +1,6 @@
 # lambdasec/frame
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/lambdasec/frame) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lambdasec/frame) · 组织维护
 
 **结合分离逻辑静态分析与可选 LLM 层的代码安全扫描工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lambdasec/frame 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51]
+    title "lambdasec/frame 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 51, 52]
 ```
 
-2026-10-28 49 → 2026-11-01 51（+2）
+2026-10-28 49 → 2026-11-02 52（+3）
 
 
 ---

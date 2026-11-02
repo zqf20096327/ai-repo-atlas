@@ -1,6 +1,6 @@
 # google/sedpack
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/sedpack) · [官网](https://google.github.io/sedpack/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/google/sedpack) · [官网](https://google.github.io/sedpack/) · 组织维护
 
 **面向深度学习的数据打包与数据集存储 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google/sedpack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-01 39（+1）
+2026-10-18 38 → 2026-11-02 39（+1）
 
 
 ---

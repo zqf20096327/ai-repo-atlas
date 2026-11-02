@@ -1,6 +1,6 @@
 # rfdiosuao/openfang-cn
 
-⭐ 31 · Rust · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/rfdiosuao/openfang-cn) · 个人维护 · 中文 README
+⭐ 30 · Rust · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/rfdiosuao/openfang-cn) · 个人维护 · 中文 README
 
 **开源 Agent OS OpenFang 的中文本地化社区维护版**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rfdiosuao/openfang-cn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
 ```
 
-2026-10-18 31 → 2026-11-01 31（+0）
+2026-10-18 31 → 2026-11-02 30（-1）
 
 
 ---

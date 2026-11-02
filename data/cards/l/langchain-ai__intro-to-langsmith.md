@@ -1,6 +1,6 @@
 # langchain-ai/intro-to-langsmith
 
-⭐ 169 · Jupyter Notebook · MIT · 推送 2026-09-25 · [GitHub](https://github.com/langchain-ai/intro-to-langsmith) · 组织维护
+⭐ 170 · Jupyter Notebook · MIT · 推送 2026-09-25 · [GitHub](https://github.com/langchain-ai/intro-to-langsmith) · 组织维护
 
 **LangSmith 入门课程配套代码仓库（教程资源）**
 
@@ -45,12 +45,12 @@ LangChain Academy 的 Introduction to LangSmith 课程配套仓库，以五个�
 ```mermaid
 xychart-beta
     title "langchain-ai/intro-to-langsmith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 167 --> 170
-    line [168, 169, 169]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 167 --> 171
+    line [168, 169, 170]
 ```
 
-2026-10-18 168 → 2026-11-01 169（+1）
+2026-10-18 168 → 2026-11-02 170（+2）
 
 
 ---

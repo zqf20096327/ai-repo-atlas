@@ -1,6 +1,6 @@
 # volcengine/SearchCLI
 
-⭐ 1,188 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/volcengine/SearchCLI) · 组织维护 · 中文 README
+⭐ 1,189 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/volcengine/SearchCLI) · 组织维护 · 中文 README
 
 **接入火山引擎 AI Search 的命令行工具：搜索/推荐/对话式检索集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "volcengine/SearchCLI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
     y-axis "stars" 1187 --> 1191
-    line [1189, 1190, 1189, 1188, 1188]
+    line [1189, 1190, 1189, 1188, 1189]
 ```
 
-2026-10-18 1,189 → 2026-11-01 1,188（-1）
+2026-10-18 1,189 → 2026-11-02 1,189（+0）
 
 
 ---

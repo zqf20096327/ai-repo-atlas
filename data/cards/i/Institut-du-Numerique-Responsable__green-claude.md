@@ -1,6 +1,6 @@
 # Institut-du-Numerique-Responsable/green-claude
 
-⭐ 84 · Shell · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Institut-du-Numerique-Responsable/green-claude) · [官网](https://institut-du-numerique-responsable.github.io/green-claude/) · 组织维护
+⭐ 85 · Shell · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Institut-du-Numerique-Responsable/green-claude) · [官网](https://institut-du-numerique-responsable.github.io/green-claude/) · 组织维护
 
 **让 Claude Code 编写更省资源代码的生态设计技能与本地审计工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Institut-du-Numerique-Responsable/green-claude 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 57 --> 86
-    line [59, 65, 70, 77, 83, 84, 84]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 57 --> 87
+    line [59, 65, 70, 77, 83, 84, 85]
 ```
 
-2026-10-18 59 → 2026-11-01 84（+25）
+2026-10-18 59 → 2026-11-02 85（+26）
 
 
 ---

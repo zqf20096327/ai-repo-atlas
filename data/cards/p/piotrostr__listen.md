@@ -1,6 +1,6 @@
 # piotrostr/listen
 
-⭐ 1,091 · TypeScript · AGPL-3.0 · 推送 2025-11-05 · [GitHub](https://github.com/piotrostr/listen) · [官网](https://listen-rs.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Solana 链上交易工具框架：供 AI 代理执行跨链组合管理**
 
@@ -11,7 +11,7 @@ Rust 编写的 Solana 算法交易工具集，功能包括实时交易监控、�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

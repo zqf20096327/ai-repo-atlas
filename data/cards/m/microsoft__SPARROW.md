@@ -1,6 +1,6 @@
 # microsoft/SPARROW
 
-⭐ 70 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/SPARROW) · [官网](https://unlocked.microsoft.com/project-sparrow/) · 组织维护
+⭐ 71 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/SPARROW) · [官网](https://unlocked.microsoft.com/project-sparrow/) · 组织维护
 
 **太阳能供电的野生动植物监测 AI 边缘设备客户端，给保护研究者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/SPARROW 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    y-axis "stars" 67 --> 72
+    line [68, 69, 70, 71]
 ```
 
-2026-10-18 68 → 2026-11-01 70（+2）
+2026-10-18 68 → 2026-11-02 71（+3）
 
 
 ---

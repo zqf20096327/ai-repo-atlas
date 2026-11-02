@@ -1,6 +1,6 @@
 # chainstacklabs/pumpfun-cli
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/chainstacklabs/pumpfun-cli) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/chainstacklabs/pumpfun-cli) · 组织维护
 
 **pump.fun 代币发行与交易的命令行工具**
 
@@ -45,12 +45,12 @@ Chainstack 团队开源的独立 CLI，用于在 Solana 上的 pump.fun 发币�
 ```mermaid
 xychart-beta
     title "chainstacklabs/pumpfun-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-01 16（+0）
+2026-10-18 16 → 2026-11-02 16（+0）
 
 
 ---

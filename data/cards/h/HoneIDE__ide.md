@@ -1,6 +1,6 @@
 # HoneIDE/ide
 
-⭐ 30 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/HoneIDE/ide) · [官网](https://hone.codes) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/HoneIDE/ide) · [官网](https://hone.codes) · 组织维护
 
 **跨平台 AI 辅助代码编辑器，覆盖桌面与移动端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HoneIDE/ide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-11-01 30（+0）
+2026-10-18 30 → 2026-11-02 31（+1）
 
 
 ---

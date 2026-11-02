@@ -1,6 +1,6 @@
 # glincker/levelrail
 
-⭐ 132 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/glincker/levelrail) · [官网](https://levelrail.com) · 个人维护 · 中文 README
+⭐ 134 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/glincker/levelrail) · [官网](https://levelrail.com) · 个人维护 · 中文 README
 
 **自托管 PaaS：git push 部署到自有服务器，含 HTTPS/日志/回滚**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "glincker/levelrail 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 128 --> 133
-    line [129, 132]
+    title "glincker/levelrail 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 128 --> 135
+    line [129, 132, 134]
 ```
 
-2026-10-31 129 → 2026-11-01 132（+3）
+2026-10-31 129 → 2026-11-02 134（+5）
 
 
 ---

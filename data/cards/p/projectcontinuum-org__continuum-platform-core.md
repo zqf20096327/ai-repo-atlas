@@ -45,13 +45,13 @@ Project Continuum 的核心后端 monorepo，提供 API 服务器（管理工作
 
 ```mermaid
 xychart-beta
-    title "projectcontinuum-org/continuum-platform-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "projectcontinuum-org/continuum-platform-core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 13
-    line [10, 12]
+    line [10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-01 12（+2）
+2026-10-18 10 → 2026-11-02 12（+2）
 
 
 ---

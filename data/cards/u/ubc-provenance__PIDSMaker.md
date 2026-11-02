@@ -1,6 +1,6 @@
 # ubc-provenance/PIDSMaker
 
-⭐ 143 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/ubc-provenance/PIDSMaker) · [官网](https://ubc-provenance.github.io/PIDSMaker/) · 组织维护
+⭐ 144 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/ubc-provenance/PIDSMaker) · [官网](https://ubc-provenance.github.io/PIDSMaker/) · 组织维护
 
 **构建溯源入侵检测系统（PIDS）的深度学习实验框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ubc-provenance/PIDSMaker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 140 --> 144
-    line [141, 143, 143]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 140 --> 145
+    line [141, 143, 144]
 ```
 
-2026-10-18 141 → 2026-11-01 143（+2）
+2026-10-18 141 → 2026-11-02 144（+3）
 
 
 ---

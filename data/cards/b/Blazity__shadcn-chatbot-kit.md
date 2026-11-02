@@ -1,6 +1,6 @@
 # Blazity/shadcn-chatbot-kit
 
-⭐ 806 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/Blazity/shadcn-chatbot-kit) · [官网](https://shadcn-chatbot-kit.vercel.app) · 组织维护
+⭐ 805 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/Blazity/shadcn-chatbot-kit) · [官网](https://shadcn-chatbot-kit.vercel.app) · 组织维护
 
 **给前端开发者：基于 shadcn/ui 的聊天机器人组件套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blazity/shadcn-chatbot-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-02"]
     y-axis "stars" 804 --> 807
-    line [805, 806, 805, 806, 806]
+    line [805, 806, 805, 806, 805]
 ```
 
-2026-10-18 805 → 2026-11-01 806（+1）
+2026-10-18 805 → 2026-11-02 805（+0）
 
 
 ---

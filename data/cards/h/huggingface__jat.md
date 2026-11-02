@@ -44,13 +44,13 @@ Hugging Face 团队发布的多用途 Transformer 智能体 JAT：在 Atari 57�
 
 ```mermaid
 xychart-beta
-    title "huggingface/jat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "huggingface/jat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 185 --> 188
-    line [186, 187]
+    line [186, 187, 187]
 ```
 
-2026-10-18 186 → 2026-11-01 187（+1）
+2026-10-18 186 → 2026-11-02 187（+1）
 
 
 ---

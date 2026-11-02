@@ -1,6 +1,6 @@
 # demo007x/Magpie
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/demo007x/Magpie) · [官网](https://demo007x.github.io/Magpie/) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/demo007x/Magpie) · [官网](https://demo007x.github.io/Magpie/) · 个人维护 · 中文 README
 
 **macOS/Windows 划词即译、解释、摘要的 AI 阅读工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "demo007x/Magpie 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
     y-axis "stars" 10 --> 18
     line [11, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-01 17（+6）
+2026-10-18 11 → 2026-11-02 17（+6）
 
 
 ---

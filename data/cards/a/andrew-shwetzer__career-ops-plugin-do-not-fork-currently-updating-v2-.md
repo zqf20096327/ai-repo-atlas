@@ -1,6 +1,6 @@
 # andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-
 
-⭐ 507 · HTML · MIT · 推送 2026-07-23 · [GitHub](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-) · 个人维护
+⭐ 508 · HTML · MIT · 推送 2026-07-23 · [GitHub](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-) · 个人维护
 
 **给求职者的 Claude Cowork 插件：职位评估与求职全流程技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2- 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 502 --> 508
-    line [503, 504, 505, 506, 507, 506, 507, 507]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 502 --> 509
+    line [503, 504, 505, 506, 507, 506, 507, 508]
 ```
 
-2026-10-18 503 → 2026-11-01 507（+4）
+2026-10-18 503 → 2026-11-02 508（+5）
 
 
 ---

@@ -41,6 +41,18 @@
 > L7: **Why does this exist?** Raw Stable Diffusion is powerful but hostile: every image means fiddling with samplers, CFG
 > L9: > **Note:** Imagecaster connects to your local Stable Diffusion WebUI (Forge / Forge Neo recommended — see Setup Gui
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zazza/imagecaster 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-01 12 → 2026-11-02 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 high · 依据 README sha `4f0ba8ee7137` · [字段定义](../../DATASET.md)*

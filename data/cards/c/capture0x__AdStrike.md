@@ -1,6 +1,6 @@
 # capture0x/AdStrike
 
-⭐ 391 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/capture0x/AdStrike) · [官网](https://adstrike.oxcapture.com) · 个人维护
+⭐ 392 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/capture0x/AdStrike) · [官网](https://adstrike.oxcapture.com) · 个人维护
 
 **模块化 Active Directory 红队攻击框架，含 AI 助手与 MCP 接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "capture0x/AdStrike 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01"]
-    y-axis "stars" 378 --> 392
-    line [379, 384, 387, 388, 391, 391]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
+    y-axis "stars" 378 --> 393
+    line [379, 384, 387, 388, 391, 392]
 ```
 
-2026-10-18 379 → 2026-11-01 391（+12）
+2026-10-18 379 → 2026-11-02 392（+13）
 
 
 ---

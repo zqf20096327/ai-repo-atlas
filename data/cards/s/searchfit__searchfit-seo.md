@@ -45,12 +45,12 @@ SearchFit.ai 发布的免费 SEO 工具集，以 Claude Code 插件形式安装�
 ```mermaid
 xychart-beta
     title "searchfit/searchfit-seo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-02 13（+0）
 
 
 ---

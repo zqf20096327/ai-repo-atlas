@@ -1,6 +1,6 @@
 # Docker-Hunterpedia/Helpdock
 
-⭐ 36 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Docker-Hunterpedia/Helpdock) · [官网](https://helpdock.oday-bakkour.com) · 组织维护
+⭐ 36 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Docker-Hunterpedia/Helpdock) · [官网](https://helpdock.oday-bakkour.com) · 组织维护
 
 **自托管多品牌客服平台：工单、帮助中心、在线聊天与知识库接地 AI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Docker-Hunterpedia/Helpdock 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01"]
+    title "Docker-Hunterpedia/Helpdock 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 0 --> 39
-    line [3, 4, 14, 21, 26, 29, 32, 34, 36]
+    line [3, 4, 14, 21, 26, 29, 32, 34, 36, 36]
 ```
 
-2026-10-22 3 → 2026-11-01 36（+33）
+2026-10-22 3 → 2026-11-02 36（+33）
 
 
 ---

@@ -1,6 +1,6 @@
 # PotionUI/PotionUI
 
-⭐ 52 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/PotionUI/PotionUI) · [官网](https://potionui.com) · 组织维护
+⭐ 54 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/PotionUI/PotionUI) · [官网](https://potionui.com) · 组织维护
 
 **自托管多用户生成工作室：一台 GPU 跑图像/视频/音频扩散模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PotionUI/PotionUI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 46 --> 53
-    line [47, 48, 49, 51, 52, 52]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 46 --> 55
+    line [47, 48, 49, 51, 52, 54]
 ```
 
-2026-10-18 47 → 2026-11-01 52（+5）
+2026-10-18 47 → 2026-11-02 54（+7）
 
 
 ---

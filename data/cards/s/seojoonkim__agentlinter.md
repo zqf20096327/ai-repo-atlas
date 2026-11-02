@@ -1,6 +1,6 @@
 # seojoonkim/agentlinter
 
-⭐ 83 · TypeScript · 推送 2026-08-14 · [GitHub](https://github.com/seojoonkim/agentlinter) · [官网](https://agentlinter.vercel.app) · 个人维护 · 中文 README
+⭐ 82 · TypeScript · 推送 2026-08-14 · [GitHub](https://github.com/seojoonkim/agentlinter) · [官网](https://agentlinter.vercel.app) · 个人维护 · 中文 README
 
 **AI agent 配置文件的 lint 工具：扫描、打分并自动修复 AGENTS.md/CLAUDE.md**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "seojoonkim/agentlinter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
     y-axis "stars" 81 --> 84
-    line [83, 82, 83, 83]
+    line [83, 82, 83, 82]
 ```
 
-2026-10-18 83 → 2026-11-01 83（+0）
+2026-10-18 83 → 2026-11-02 82（-1）
 
 
 ---

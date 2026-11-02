@@ -1,6 +1,6 @@
 # officecli/officecli
 
-⭐ 112 · Shell · MIT · 推送 2026-08-10 · [GitHub](https://github.com/officecli/officecli) · [官网](https://officecli.io) · 组织维护 · 中文 README
+⭐ 114 · Shell · MIT · 推送 2026-08-10 · [GitHub](https://github.com/officecli/officecli) · [官网](https://officecli.io) · 组织维护 · 中文 README
 
 **自然语言生成可编辑 Office 文件与图片的命令行工具**
 
@@ -47,12 +47,12 @@ OfficeCLI 是将自然语言 prompt 转换为可编辑 PPTX、DOCX、XLSX、工�
 ```mermaid
 xychart-beta
     title "officecli/officecli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01"]
-    y-axis "stars" 107 --> 113
-    line [108, 109, 110, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    y-axis "stars" 107 --> 115
+    line [108, 109, 110, 111, 112, 114]
 ```
 
-2026-10-18 108 → 2026-11-01 112（+4）
+2026-10-18 108 → 2026-11-02 114（+6）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tirthsidhpura/resume_matcher 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-01"]
+    title "tirthsidhpura/resume_matcher 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-02"]
     y-axis "stars" 41 --> 51
-    line [50, 42]
+    line [50, 42, 42]
 ```
 
-2026-10-25 50 → 2026-11-01 42（-8）
+2026-10-25 50 → 2026-11-02 42（-8）
 
 
 ---

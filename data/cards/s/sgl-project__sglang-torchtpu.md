@@ -1,6 +1,6 @@
 # sgl-project/sglang-torchtpu
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/sgl-project/sglang-torchtpu) · 组织维护
+⭐ 73 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sgl-project/sglang-torchtpu) · 组织维护
 
 **SGLang 的 PyTorch 原生 TPU 推理服务后端插件**
 
@@ -44,13 +44,13 @@ sgl-project 维护的 SGLang 生态组件：通过 torch_tpu 与 Pallas 内核�
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sglang-torchtpu 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01"]
+    title "sgl-project/sglang-torchtpu 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 39 --> 76
-    line [42, 59, 64, 66, 67, 68, 70, 71, 73]
+    line [42, 59, 64, 66, 67, 68, 70, 71, 73, 73]
 ```
 
-2026-10-22 42 → 2026-11-01 73（+31）
+2026-10-22 42 → 2026-11-02 73（+31）
 
 
 ---

@@ -1,6 +1,6 @@
 # RedBeret/awesome-ollama-models
 
-⭐ 24 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/RedBeret/awesome-ollama-models) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/RedBeret/awesome-ollama-models) · 组织维护
 
 **Ollama 本地/云端模型策展清单：含定价、选型建议与目录校验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RedBeret/awesome-ollama-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-01 24（+1）
+2026-10-18 23 → 2026-11-02 24（+1）
 
 
 ---

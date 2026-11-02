@@ -1,6 +1,6 @@
 # udecode/dotai
 
-⭐ 1,161 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/udecode/dotai) · 组织维护
+⭐ 1,161 · JavaScript · 推送 2026-11-01 · [GitHub](https://github.com/udecode/dotai) · 组织维护
 
 **面向编码 agent 的共享技能集合（测试审计、pstack 同步等）**
 
@@ -45,12 +45,12 @@ udecode 维护的 agent 技能仓库，提供 pstack 插件未覆盖的共享技
 ```mermaid
 xychart-beta
     title "udecode/dotai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
     y-axis "stars" 1156 --> 1162
     line [1157, 1158, 1161, 1161]
 ```
 
-2026-10-18 1,157 → 2026-11-01 1,161（+4）
+2026-10-18 1,157 → 2026-11-02 1,161（+4）
 
 
 ---

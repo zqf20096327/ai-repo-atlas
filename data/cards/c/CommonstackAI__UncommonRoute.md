@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CommonstackAI/UncommonRoute 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    title "CommonstackAI/UncommonRoute 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
     y-axis "stars" 698 --> 702
-    line [699, 701]
+    line [699, 701, 701]
 ```
 
-2026-10-18 699 → 2026-11-01 701（+2）
+2026-10-18 699 → 2026-11-02 701（+2）
 
 
 ---

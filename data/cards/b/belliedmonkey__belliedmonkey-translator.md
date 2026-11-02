@@ -1,6 +1,6 @@
 # belliedmonkey/belliedmonkey-translator
 
-⭐ 12 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/belliedmonkey/belliedmonkey-translator) · [官网](https://belliedmonkey.cc) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/belliedmonkey/belliedmonkey-translator) · [官网](https://belliedmonkey.cc) · 个人维护 · 中文 README
 
 **双语翻译应用与浏览器扩展：双语网页、双语字幕、实时口译与复习卡片**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "belliedmonkey/belliedmonkey-translator 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-01"]
+    title "belliedmonkey/belliedmonkey-translator 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-26 10 → 2026-11-01 12（+2）
+2026-10-26 10 → 2026-11-02 12（+2）
 
 
 ---

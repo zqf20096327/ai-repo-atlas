@@ -1,6 +1,6 @@
 # akaion-ai/annona
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/akaion-ai/annona) · [官网](https://akaion-ai.github.io/annona/) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/akaion-ai/annona) · [官网](https://akaion-ai.github.io/annona/) · 组织维护
 
 **AI agent 主权执行内核：按策略决定每步运行位置并强制记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "akaion-ai/annona 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-01 20（+0）
+2026-10-18 20 → 2026-11-02 20（+0）
 
 
 ---

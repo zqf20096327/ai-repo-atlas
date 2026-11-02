@@ -1,6 +1,6 @@
 # powerset-co/github-coding-agent-tracker
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/powerset-co/github-coding-agent-tracker) · [官网](https://research.powerset.co/) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/powerset-co/github-coding-agent-tracker) · [官网](https://research.powerset.co/) · 组织维护
 
 **追踪公开 GitHub 提交中 AI 编程 agent 占比的数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "powerset-co/github-coding-agent-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-01 14（+0）
+2026-10-18 14 → 2026-11-02 14（+0）
 
 
 ---

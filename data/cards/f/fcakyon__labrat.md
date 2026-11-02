@@ -1,6 +1,6 @@
 # fcakyon/labrat
 
-⭐ 444 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/fcakyon/labrat) · 个人维护
+⭐ 446 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/fcakyon/labrat) · 个人维护
 
 **给 AI 编码 agent 的科研技能插件：论文复现与实验流程**
 
@@ -40,6 +40,18 @@
 
 > L5: Lab Rat teaches your AI coding agent to work like a careful ML researcher: reproduce papers, launch and compare runs
 > L62: Every tool gets the same 11 skills. The research peer review and notifications run in Claude Code only. Paper searc
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fcakyon/labrat 星数(近 2 点)"
+    x-axis ["2026-11-01", "2026-11-02"]
+    y-axis "stars" 443 --> 447
+    line [444, 446]
+```
+
+2026-11-01 444 → 2026-11-02 446（+2）
 
 
 ---

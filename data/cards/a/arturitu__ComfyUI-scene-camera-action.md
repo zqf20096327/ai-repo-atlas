@@ -1,6 +1,6 @@
 # arturitu/ComfyUI-scene-camera-action
 
-⭐ 53 · JavaScript · 推送 2026-09-03 · [GitHub](https://github.com/arturitu/ComfyUI-scene-camera-action) · 个人维护
+⭐ 54 · JavaScript · 推送 2026-09-03 · [GitHub](https://github.com/arturitu/ComfyUI-scene-camera-action) · 个人维护
 
 **ComfyUI 3D 预演节点套件：搭景、WASD 表演、运镜输出参考视频**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点套件，把 AI 视频生成前的预演做成可玩的 3
 ```mermaid
 xychart-beta
     title "arturitu/ComfyUI-scene-camera-action 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-01"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 54]
 ```
 
-2026-10-18 51 → 2026-11-01 53（+2）
+2026-10-18 51 → 2026-11-02 54（+3）
 
 
 ---

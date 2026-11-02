@@ -1,6 +1,6 @@
 # RuedigerVoigt/exoskeleton
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/RuedigerVoigt/exoskeleton) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/RuedigerVoigt/exoskeleton) · 个人维护
 
 **面向科研批量下载的 Python 爬虫框架，MariaDB 管队列**
 
@@ -45,12 +45,12 @@ Python 编写的爬虫/采集框架，用于构建长期运行、容错的礼貌
 ```mermaid
 xychart-beta
     title "RuedigerVoigt/exoskeleton 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-01 22（+0）
+2026-10-18 22 → 2026-11-02 22（+0）
 
 
 ---

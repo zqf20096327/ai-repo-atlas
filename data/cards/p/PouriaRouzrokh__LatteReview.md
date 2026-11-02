@@ -1,6 +1,6 @@
 # PouriaRouzrokh/LatteReview
 
-⭐ 125 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/PouriaRouzrokh/LatteReview) · [官网](https://pouriarouzrokh.github.io/LatteReview) · 个人维护
+⭐ 126 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/PouriaRouzrokh/LatteReview) · [官网](https://pouriarouzrokh.github.io/LatteReview) · 个人维护
 
 **用多 AI agent 自动化系统性文献综述的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PouriaRouzrokh/LatteReview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-01"]
-    y-axis "stars" 121 --> 126
-    line [122, 123, 124, 125, 125]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-02"]
+    y-axis "stars" 121 --> 127
+    line [122, 123, 124, 125, 126]
 ```
 
-2026-10-18 122 → 2026-11-01 125（+3）
+2026-10-18 122 → 2026-11-02 126（+4）
 
 
 ---

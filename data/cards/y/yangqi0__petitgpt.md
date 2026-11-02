@@ -1,6 +1,6 @@
 # yangqi0/petitgpt
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/yangqi0/petitgpt) · [官网](https://huggingface.co/yqi0/petitgpt) · 个人维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/yangqi0/petitgpt) · [官网](https://huggingface.co/yqi0/petitgpt) · 个人维护
 
 **单卡 RTX 4090 从零训练的 124.6M 研究型 LLM 及全流程复现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yangqi0/petitgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 72 --> 75
+    line [73, 74]
 ```
 
-2026-10-18 73 → 2026-11-01 73（+0）
+2026-10-18 73 → 2026-11-02 74（+1）
 
 
 ---

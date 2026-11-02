@@ -1,6 +1,6 @@
 # lthoangg/OpenAgentd
 
-⭐ 215 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/lthoangg/OpenAgentd) · [官网](https://openagentd.dev) · 个人维护
+⭐ 214 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/lthoangg/OpenAgentd) · [官网](https://openagentd.dev) · 个人维护
 
 **本地优先的桌面端编码 agent：透明展示每步工具调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lthoangg/OpenAgentd 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-01"]
+    title "lthoangg/OpenAgentd 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
     y-axis "stars" 211 --> 216
-    line [212, 213, 212, 213, 214, 215]
+    line [212, 213, 212, 213, 214, 215, 214]
 ```
 
-2026-10-18 212 → 2026-11-01 215（+3）
+2026-10-18 212 → 2026-11-02 214（+2）
 
 
 ---

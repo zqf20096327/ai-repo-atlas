@@ -1,6 +1,6 @@
 # synchopate/nemotron-30b-cpu-256k
 
-⭐ 62 · C++ · 推送 2026-10-31 · [GitHub](https://github.com/synchopate/nemotron-30b-cpu-256k) · 个人维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/synchopate/nemotron-30b-cpu-256k) · 个人维护
 
 **在纯 CPU 上以 30-50+ tok/s 运行 30B MoE 模型、256K 上下文的技术方案与 llama.cpp 补丁集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "synchopate/nemotron-30b-cpu-256k 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-01"]
-    y-axis "stars" 20 --> 65
-    line [23, 62]
+    title "synchopate/nemotron-30b-cpu-256k 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 19 --> 72
+    line [23, 62, 68]
 ```
 
-2026-10-31 23 → 2026-11-01 62（+39）
+2026-10-31 23 → 2026-11-02 68（+45）
 
 
 ---

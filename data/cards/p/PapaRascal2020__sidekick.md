@@ -1,6 +1,6 @@
 # PapaRascal2020/sidekick
 
-⭐ 31 · PHP · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/PapaRascal2020/sidekick) · [官网](https://sidekickforlaravel.com) · 个人维护
+⭐ 30 · PHP · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/PapaRascal2020/sidekick) · [官网](https://sidekickforlaravel.com) · 个人维护
 
 **Laravel 的多模型 AI 服务集成包，统一 API 接入四家厂商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PapaRascal2020/sidekick 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30]
 ```
 
-2026-10-18 30 → 2026-11-01 31（+1）
+2026-10-18 30 → 2026-11-02 30（+0）
 
 
 ---

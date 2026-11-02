@@ -1,6 +1,6 @@
 # ScrapeGraphAI/scrapecraft
 
-⭐ 723 · Python · MIT · 推送 2025-12-26 · [GitHub](https://github.com/ScrapeGraphAI/scrapecraft) · 组织维护
+⭐ 724 · Python · MIT · 推送 2025-12-26 · [GitHub](https://github.com/ScrapeGraphAI/scrapecraft) · 组织维护
 
 **面向网页抓取的 AI 编辑器：自然语言构建抓取流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ScrapeGraphAI/scrapecraft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01"]
-    y-axis "stars" 719 --> 724
-    line [720, 722, 723, 723]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    y-axis "stars" 719 --> 725
+    line [720, 722, 723, 724]
 ```
 
-2026-10-18 720 → 2026-11-01 723（+3）
+2026-10-18 720 → 2026-11-02 724（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # marcuspat/turbo-flow
 
-⭐ 182 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/marcuspat/turbo-flow) · [官网](https://www.turboflow.online) · 组织维护
+⭐ 184 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/marcuspat/turbo-flow) · [官网](https://www.turboflow.online) · 组织维护
 
 **面向 AI 编写代码的治理套件：跨模型审查门禁与规则层**
 
@@ -45,12 +45,12 @@ rig-lite 是一个仅依赖 bash 的可移植治理工具包，不捆绑任何 a
 ```mermaid
 xychart-beta
     title "marcuspat/turbo-flow 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 175 --> 183
-    line [176, 177, 180, 181, 182, 182]
+    x-axis ["2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 175 --> 185
+    line [176, 177, 180, 181, 182, 184]
 ```
 
-2026-10-19 176 → 2026-11-01 182（+6）
+2026-10-19 176 → 2026-11-02 184（+8）
 
 
 ---

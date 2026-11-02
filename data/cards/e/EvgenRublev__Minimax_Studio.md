@@ -1,6 +1,6 @@
 # EvgenRublev/Minimax_Studio
 
-⭐ 32 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/EvgenRublev/Minimax_Studio) · [官网](https://t.me/Evgeny_Rublev) · 个人维护
+⭐ 33 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/EvgenRublev/Minimax_Studio) · [官网](https://t.me/Evgeny_Rublev) · 个人维护
 
 **本地离线的 MiniMax H3 电影感视频+音频生成桌面工作室**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvgenRublev/Minimax_Studio 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 31, 32]
+    title "EvgenRublev/Minimax_Studio 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 26 --> 34
+    line [27, 28, 31, 32, 33]
 ```
 
-2026-10-28 27 → 2026-11-01 32（+5）
+2026-10-28 27 → 2026-11-02 33（+6）
 
 
 ---

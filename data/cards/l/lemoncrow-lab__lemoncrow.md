@@ -1,6 +1,6 @@
 # lemoncrow-lab/lemoncrow
 
-⭐ 72 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/lemoncrow-lab/lemoncrow) · [官网](https://lemoncrow.com) · 组织维护
+⭐ 72 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/lemoncrow-lab/lemoncrow) · [官网](https://lemoncrow.com) · 组织维护
 
 **给编码 agent 加本地代码智能运行时与人工评审工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lemoncrow-lab/lemoncrow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-01 72（+0）
+2026-10-18 72 → 2026-11-02 72（+0）
 
 
 ---

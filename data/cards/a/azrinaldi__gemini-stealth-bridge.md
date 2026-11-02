@@ -1,6 +1,6 @@
 # azrinaldi/gemini-stealth-bridge
 
-⭐ 106 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/azrinaldi/gemini-stealth-bridge) · 个人维护
+⭐ 108 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/azrinaldi/gemini-stealth-bridge) · 个人维护
 
 **将 Gemini Web 账号转为 OpenAI 兼容 API 的本地代理守护进程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "azrinaldi/gemini-stealth-bridge 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 76 --> 108
-    line [78, 98, 99, 100, 101, 100, 102, 104, 105, 106]
+    title "azrinaldi/gemini-stealth-bridge 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 75 --> 111
+    line [78, 98, 99, 100, 101, 100, 102, 104, 105, 106, 108]
 ```
 
-2026-10-18 78 → 2026-11-01 106（+28）
+2026-10-18 78 → 2026-11-02 108（+30）
 
 
 ---

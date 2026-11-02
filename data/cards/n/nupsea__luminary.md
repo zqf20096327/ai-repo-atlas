@@ -1,6 +1,6 @@
 # nupsea/luminary
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/nupsea/luminary) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/nupsea/luminary) · 组织维护
 
 **本地优先的个人学习工作区：文档问答、笔记与 FSRS 闪卡复习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nupsea/luminary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-01 11（+0）
+2026-10-18 11 → 2026-11-02 11（+0）
 
 
 ---

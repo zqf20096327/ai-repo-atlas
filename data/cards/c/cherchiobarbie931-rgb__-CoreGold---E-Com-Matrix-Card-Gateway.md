@@ -44,13 +44,13 @@ CoreGold 是一个商业虚拟信用卡（VCC）服务，面向跨境电商 Drop
 
 ```mermaid
 xychart-beta
-    title "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01"]
+    title "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
     y-axis "stars" 4 --> 21
-    line [5, 16, 20]
+    line [5, 16, 20, 20]
 ```
 
-2026-10-30 5 → 2026-11-01 20（+15）
+2026-10-30 5 → 2026-11-02 20（+15）
 
 
 ---

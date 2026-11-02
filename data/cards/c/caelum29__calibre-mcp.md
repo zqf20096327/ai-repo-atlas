@@ -1,6 +1,6 @@
 # caelum29/calibre-mcp
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/caelum29/calibre-mcp) · [官网](https://www.npmjs.com/package/calibre-mcp) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/caelum29/calibre-mcp) · [官网](https://www.npmjs.com/package/calibre-mcp) · 个人维护
 
 **把 Calibre 电子书库接入 AI 客户端的 MCP 服务器，含语义检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caelum29/calibre-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31", "2026-11-02"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 22]
 ```
 
-2026-10-18 18 → 2026-11-01 21（+3）
+2026-10-18 18 → 2026-11-02 22（+4）
 
 
 ---

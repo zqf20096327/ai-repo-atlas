@@ -1,6 +1,6 @@
 # google-deepmind/mathematics_conjectures
 
-⭐ 385 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-03 · [GitHub](https://github.com/google-deepmind/mathematics_conjectures) · 组织维护
+⭐ 386 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-03 · [GitHub](https://github.com/google-deepmind/mathematics_conjectures) · 组织维护
 
 **随 Nature 论文发布的两个数学研究 Colab 笔记本**
 
@@ -44,12 +44,12 @@ DeepMind 论文《Advancing mathematics by guiding human intuition with AI》的
 ```mermaid
 xychart-beta
     title "google-deepmind/mathematics_conjectures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
-    y-axis "stars" 384 --> 386
-    line [385, 385]
+    x-axis ["2026-10-18", "2026-11-02"]
+    y-axis "stars" 384 --> 387
+    line [385, 386]
 ```
 
-2026-10-18 385 → 2026-11-01 385（+0）
+2026-10-18 385 → 2026-11-02 386（+1）
 
 
 ---

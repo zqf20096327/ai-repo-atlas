@@ -1,6 +1,6 @@
 # kb10uy/llm-natsuki-bot
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/kb10uy/llm-natsuki-bot) · [官网](https://kb10uy.org/llm-natsuki-bot/) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/kb10uy/llm-natsuki-bot) · [官网](https://kb10uy.org/llm-natsuki-bot/) · 个人维护
 
 **Rust 实现的 LLM 聊天机器人，接入 Mastodon 与 Discord**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kb10uy/llm-natsuki-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-02 12（+0）
 
 
 ---

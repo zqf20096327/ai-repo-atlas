@@ -1,6 +1,6 @@
 # calmrocks/ai-engineer-notebooks
 
-⭐ 720 · Jupyter Notebook · MIT · 推送 2026-10-31 · [GitHub](https://github.com/calmrocks/ai-engineer-notebooks) · [官网](https://www.calm.rocks/resources/career-development/transition-fde-ai-engineer/) · 个人维护
+⭐ 721 · Jupyter Notebook · MIT · 推送 2026-10-31 · [GitHub](https://github.com/calmrocks/ai-engineer-notebooks) · [官网](https://www.calm.rocks/resources/career-development/transition-fde-ai-engineer/) · 个人维护
 
 **面向 AI Engineer/FDE 的动手 Colab 笔记本教程集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "calmrocks/ai-engineer-notebooks 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01"]
-    y-axis "stars" 700 --> 721
-    line [701, 705, 707, 708, 709, 711, 712, 714, 716, 718, 720]
+    title "calmrocks/ai-engineer-notebooks 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    y-axis "stars" 699 --> 723
+    line [701, 705, 707, 708, 709, 711, 712, 714, 716, 718, 720, 721]
 ```
 
-2026-10-18 701 → 2026-11-01 720（+19）
+2026-10-18 701 → 2026-11-02 721（+20）
 
 
 ---

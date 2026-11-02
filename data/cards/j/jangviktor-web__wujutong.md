@@ -1,6 +1,6 @@
 # jangviktor-web/wujutong
 
-⭐ 24 · HTML · MIT · 推送 2026-08-23 · [GitHub](https://github.com/jangviktor-web/wujutong) · [官网](https://jangviktor-web.github.io/wujutong/) · 个人维护 · 中文 README
+⭐ 25 · HTML · MIT · 推送 2026-08-23 · [GitHub](https://github.com/jangviktor-web/wujutong) · [官网](https://jangviktor-web.github.io/wujutong/) · 个人维护 · 中文 README
 
 **温病学派吴鞠通中医知识 Skill：供 AI 角色扮演与辨证参考**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jangviktor-web/wujutong 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-11-01 24（+1）
+2026-10-18 23 → 2026-11-02 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # programming-pupil/aos
 
-⭐ 38 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/programming-pupil/aos) · 个人维护 · 中文 README
+⭐ 38 · Rust · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/programming-pupil/aos) · 个人维护 · 中文 README
 
 **Web 优先的多租户 Agent 操作系统，构建可恢复的 Agent 工作流**
 
@@ -45,12 +45,12 @@ AOS（Agent Operating System）是以 Rust WebServer + SQLite 为控制平面的
 ```mermaid
 xychart-beta
     title "programming-pupil/aos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-02"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-01 38（+0）
+2026-10-18 38 → 2026-11-02 38（+0）
 
 
 ---
