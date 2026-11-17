@@ -33,7 +33,7 @@ NInfer 的 Windows 专用移植，目标平台锁定为一块 NVIDIA Tesla V100 
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

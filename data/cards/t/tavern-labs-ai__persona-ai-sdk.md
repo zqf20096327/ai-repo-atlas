@@ -33,7 +33,7 @@ TypeScript SDK，用于构建保持人设一致并跨对话记忆的 AI 角色�
 
 ## 场景标签
 
- · 领域:LLM 应用开发/角色记忆
+`Agent 记忆` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ TypeScript 实现的自托管多 LLM agent 运行时：用户只面对一个主�
 
 ## 场景标签
 
- · 领域:个人 AI 助手/agent 运行时
+`AI 助手` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

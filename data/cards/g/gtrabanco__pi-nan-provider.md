@@ -33,7 +33,7 @@ pi 的扩展包：通过 pi.registerProvider() 以 NaN 的 OpenAI 兼容 API 注
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 插件
+`图像生成` `语音合成` `语音识别` · 领域:内容生成
 
 ## 证据(README 行号)
 
