@@ -1,6 +1,6 @@
 # trimplexx/music-transcription
 
-⭐ 18 · TeX · 推送 2026-01-14 · [GitHub](https://github.com/trimplexx/music-transcription) · 个人维护
+⭐ 20 · TeX · 推送 2026-01-14 · [GitHub](https://github.com/trimplexx/music-transcription) · 个人维护
 
 **深度学习吉他六线谱自动转录系统（CRNN，PyTorch）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trimplexx/music-transcription 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "trimplexx/music-transcription 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

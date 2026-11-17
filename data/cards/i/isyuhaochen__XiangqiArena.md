@@ -1,6 +1,6 @@
 # isyuhaochen/XiangqiArena
 
-⭐ 16 · JavaScript · 推送 2026-04-15 · [GitHub](https://github.com/isyuhaochen/XiangqiArena) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · 推送 2026-04-15 · [GitHub](https://github.com/isyuhaochen/XiangqiArena) · 个人维护 · 中文 README
 
 **本地中国象棋对战平台：Human/Random/LLM/Pikafish 任意对局与评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "isyuhaochen/XiangqiArena 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "isyuhaochen/XiangqiArena 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

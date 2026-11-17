@@ -1,6 +1,6 @@
 # CESNET/cesnet-datazoo
 
-⭐ 53 · Python · BSD-3-Clause · 推送 2026-03-23 · [GitHub](https://github.com/CESNET/cesnet-datazoo) · [官网](https://cesnet.github.io/cesnet-datazoo/) · 组织维护
+⭐ 55 · Python · BSD-3-Clause · 推送 2026-03-23 · [GitHub](https://github.com/CESNET/cesnet-datazoo) · [官网](https://cesnet.github.io/cesnet-datazoo/) · 组织维护
 
 **面向流量分类研究的加密网络流量数据集工具集**
 
@@ -45,13 +45,13 @@ CESNET 维护的网络流量数据集工具包：提供统一 API 下载、配�
 
 ```mermaid
 xychart-beta
-    title "CESNET/cesnet-datazoo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "CESNET/cesnet-datazoo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

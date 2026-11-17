@@ -1,6 +1,6 @@
 # laugiov/scambuster
 
-⭐ 25 · PHP · MIT · 推送 2026-11-01 · [GitHub](https://github.com/laugiov/scambuster) · 个人维护
+⭐ 28 · PHP · MIT · 推送 2026-11-05 · [GitHub](https://github.com/laugiov/scambuster) · 个人维护
 
 **入站诈骗邮件诱饵蜜罐：AI 多代理周旋并产出威胁情报 IOC**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "laugiov/scambuster 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "laugiov/scambuster 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

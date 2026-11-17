@@ -1,6 +1,6 @@
 # yiliu-li/Visual-Agentic-Memory
 
-⭐ 18 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/yiliu-li/Visual-Agentic-Memory) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/yiliu-li/Visual-Agentic-Memory) · 个人维护 · 中文 README
 
 **长视频在线理解框架：流式索引构建层级记忆并支持代理式检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yiliu-li/Visual-Agentic-Memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "yiliu-li/Visual-Agentic-Memory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

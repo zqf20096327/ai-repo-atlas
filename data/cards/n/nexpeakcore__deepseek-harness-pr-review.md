@@ -1,6 +1,6 @@
 # nexpeakcore/deepseek-harness-pr-review
 
-⭐ 42 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nexpeakcore/deepseek-harness-pr-review) · [官网](https://nexpeakcore.github.io/deepseek-harness-pr-review/) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nexpeakcore/deepseek-harness-pr-review) · [官网](https://nexpeakcore.github.io/deepseek-harness-pr-review/) · 组织维护
 
 **开发者用 DeepSeek/Claude 等 agent 自动审查 PR 的无头工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexpeakcore/deepseek-harness-pr-review 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    title "nexpeakcore/deepseek-harness-pr-review 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 42（+1）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Onchain-Security-Suite
 
-⭐ 25 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Web3 安全工具套件：静态检测代币合约并 ML 评估部署者风险**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmirhosseinHonardoust/Onchain-Security-Suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "AmirhosseinHonardoust/Onchain-Security-Suite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-15 26（+1）
 
 
 ---

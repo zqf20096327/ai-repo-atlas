@@ -1,6 +1,6 @@
 # Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent
 
-⭐ 39 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) · 个人维护
 
 **给 Gemini 等编码代理加持久记忆、技能与防幻觉规则的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 30 --> 40
-    line [31, 36, 37, 38, 39, 39]
+    title "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 41
+    line [31, 36, 37, 38, 39, 40, 40]
 ```
 
-2026-10-26 31 → 2026-11-02 39（+8）
+2026-10-26 31 → 2026-11-17 40（+9）
 
 
 ---

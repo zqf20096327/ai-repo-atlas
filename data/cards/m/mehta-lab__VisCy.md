@@ -1,6 +1,6 @@
 # mehta-lab/VisCy
 
-⭐ 103 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/mehta-lab/VisCy) · [官网](https://mehta-lab.github.io/VisCy/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **显微镜图像单细胞表型的计算机视觉模型训练与部署管线**
 
@@ -11,7 +11,7 @@ VisCy 是面向显微图像的深度学习管线，用于训练和部署单细�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ VisCy 是面向显微图像的深度学习管线，用于训练和部署单细�
 ```mermaid
 xychart-beta
     title "mehta-lab/VisCy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-07"]
     y-axis "stars" 102 --> 105
     line [104, 103, 103]
 ```
 
-2026-10-18 104 → 2026-11-02 103（-1）
+2026-10-18 104 → 2026-11-07 103（-1）
 
 
 ---

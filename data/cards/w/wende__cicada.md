@@ -1,6 +1,6 @@
 # wende/cicada
 
-⭐ 40 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wende/cicada) · [官网](https://cicada-mcp.vercel.app/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wende/cicada) · [官网](https://cicada-mcp.vercel.app/) · 个人维护
 
 **面向 AI 编程助手的本地代码索引与 MCP 上下文压缩服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wende/cicada 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [41, 40, 40]
+    title "wende/cicada 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 39 --> 44
+    line [41, 40, 41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 40（-1）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

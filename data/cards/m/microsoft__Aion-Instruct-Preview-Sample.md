@@ -1,6 +1,6 @@
 # microsoft/Aion-Instruct-Preview-Sample
 
-⭐ 38 · PowerShell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Aion-Instruct-Preview-Sample) · 组织维护
+⭐ 42 · PowerShell · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/microsoft/Aion-Instruct-Preview-Sample) · 组织维护
 
 **在 Copilot+ PC 上运行 Aion Instruct 端侧模型的 WinUI 3 示例聊天应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Aion-Instruct-Preview-Sample 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 32 --> 39
-    line [33, 34, 36, 37, 38, 38]
+    title "microsoft/Aion-Instruct-Preview-Sample 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 32 --> 43
+    line [33, 34, 36, 37, 38, 37, 39, 40, 41, 42, 42]
 ```
 
-2026-10-18 33 → 2026-11-02 38（+5）
+2026-10-18 33 → 2026-11-17 42（+9）
 
 
 ---

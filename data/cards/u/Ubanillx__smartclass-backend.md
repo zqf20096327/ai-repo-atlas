@@ -1,6 +1,6 @@
 # Ubanillx/smartclass-backend
 
-⭐ 255 · Java · AGPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/Ubanillx/smartclass-backend) · 个人维护 · 中文 README
+⭐ 254 · Java · AGPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/Ubanillx/smartclass-backend) · 个人维护 · 中文 README
 
 **基于Spring Boot与Dify的学习平台后端，含AI对话与教学管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ubanillx/smartclass-backend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 253 --> 256
-    line [254, 255, 255]
+    title "Ubanillx/smartclass-backend 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 251 --> 256
+    line [254, 255, 252, 253, 254, 254]
 ```
 
-2026-10-18 254 → 2026-11-02 255（+1）
+2026-10-18 254 → 2026-11-17 254（+0）
 
 
 ---

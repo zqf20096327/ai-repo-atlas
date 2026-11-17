@@ -1,6 +1,6 @@
 # adysec/clawbot
 
-⭐ 26 · Rust · 推送 2026-06-11 · [GitHub](https://github.com/adysec/clawbot) · [官网](https://wechat.adysec.com) · 个人维护 · 中文 README
+⭐ 27 · Rust · 推送 2026-06-11 · [GitHub](https://github.com/adysec/clawbot) · [官网](https://wechat.adysec.com) · 个人维护 · 中文 README
 
 **iLink bot 管理工具，提供 CLI 与 Web 面板**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "adysec/clawbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "adysec/clawbot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

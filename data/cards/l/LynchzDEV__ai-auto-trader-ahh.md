@@ -1,6 +1,6 @@
 # LynchzDEV/ai-auto-trader-ahh
 
-⭐ 16 · Go · MIT · 推送 2026-04-21 · [GitHub](https://github.com/LynchzDEV/ai-auto-trader-ahh) · [官网](https://demo-trade.lynchz.dev/) · 个人维护 · 中文 README
+⭐ 17 · Go · MIT · 推送 2026-04-21 · [GitHub](https://github.com/LynchzDEV/ai-auto-trader-ahh) · [官网](https://demo-trade.lynchz.dev/) · 个人维护 · 中文 README
 
 **多 AI 辩论共识驱动的币安合约自动交易平台**
 
@@ -45,13 +45,13 @@ Go 后端 + React 前端的加密货币合约自动交易系统：以固定周�
 
 ```mermaid
 xychart-beta
-    title "LynchzDEV/ai-auto-trader-ahh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "LynchzDEV/ai-auto-trader-ahh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

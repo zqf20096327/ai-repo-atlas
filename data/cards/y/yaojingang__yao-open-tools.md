@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaojingang/yao-open-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "yaojingang/yao-open-tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 89 --> 92
+    line [90, 91, 90, 90]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 90（+0）
 
 
 ---

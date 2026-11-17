@@ -1,6 +1,6 @@
 # FareedKhan-dev/deep-research-agent
 
-⭐ 57 · Jupyter Notebook · MIT · 推送 2025-12-11 · [GitHub](https://github.com/FareedKhan-dev/deep-research-agent) · [官网](https://medium.com/@fareedkhandev/building-deep-research-agent-using-time-noise-diffusion-algorithm-587ed3c225a0) · 个人维护
+⭐ 58 · Jupyter Notebook · MIT · 推送 2025-12-11 · [GitHub](https://github.com/FareedKhan-dev/deep-research-agent) · [官网](https://medium.com/@fareedkhandev/building-deep-research-agent-using-time-noise-diffusion-algorithm-587ed3c225a0) · 个人维护
 
 **教程博客：讲解如何用 LangGraph 构建深度研究 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/deep-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "FareedKhan-dev/deep-research-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

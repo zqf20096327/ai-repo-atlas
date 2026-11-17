@@ -1,6 +1,6 @@
 # lobehub/lobe-readme-wizard
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-readme-wizard) · [官网](https://readme-wizard.lobehub.com/) · 组织维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-readme-wizard) · [官网](https://readme-wizard.lobehub.com/) · 组织维护 · 中文 README
 
 **生成 lobe 风格产品 README 与 shields 徽章的 Web 工具**
 
@@ -44,13 +44,13 @@ LobeHub 维护的 README 生成器：按 Hero、Features、Installation、Develo
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-readme-wizard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "lobehub/lobe-readme-wizard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

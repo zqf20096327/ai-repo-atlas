@@ -1,6 +1,6 @@
 # quiknode-labs/blockchain-skills
 
-⭐ 19 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/quiknode-labs/blockchain-skills) · [官网](https://www.quicknode.com) · 组织维护
+⭐ 20 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/quiknode-labs/blockchain-skills) · [官网](https://www.quicknode.com) · 组织维护
 
 **面向编码 agent 的区块链开发技能集合（Quicknode）**
 
@@ -44,13 +44,13 @@ QuickNode 维护的 AI agent 技能仓库：以 SKILL.md 结构化指令集形�
 
 ```mermaid
 xychart-beta
-    title "quiknode-labs/blockchain-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "quiknode-labs/blockchain-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

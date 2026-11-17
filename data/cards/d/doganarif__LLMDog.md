@@ -1,6 +1,6 @@
 # doganarif/LLMDog
 
-⭐ 78 · Go · MIT · 推送 2026-06-23 · [GitHub](https://github.com/doganarif/LLMDog) · [官网](https://llmdog.arif.sh) · 个人维护
+⭐ 80 · Go · MIT · 推送 2026-06-23 · [GitHub](https://github.com/doganarif/LLMDog) · [官网](https://llmdog.arif.sh) · 个人维护
 
 **把项目代码格式化为 Markdown 供 LLM 对话使用的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "doganarif/LLMDog 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
+    title "doganarif/LLMDog 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 77 --> 81
-    line [80, 79, 78, 78]
+    line [80, 79, 78, 79, 80, 80]
 ```
 
-2026-10-18 80 → 2026-11-02 78（-2）
+2026-10-18 80 → 2026-11-17 80（+0）
 
 
 ---

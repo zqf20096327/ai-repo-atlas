@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-gif
 
-⭐ 30 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-gif) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-gif) · [官网](https://agricidaniel.com) · 个人维护
 
 **Claude Code 的 GIF 生成技能：6 条管线制作与优化 GIF**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-gif 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "AgriciDaniel/claude-gif 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 35
+    line [28, 29, 30, 29, 31, 33, 34, 34]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 34（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # shengyanlin/claude-overlay
 
-⭐ 97 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/shengyanlin/claude-overlay) · 个人维护
+⭐ 104 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/shengyanlin/claude-overlay) · 个人维护
 
 **Windows 屏幕感知悬浮 Claude Code 聊天窗，用自有订阅**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shengyanlin/claude-overlay 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 94 --> 98
-    line [95, 96, 97, 97]
+    title "shengyanlin/claude-overlay 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 94 --> 105
+    line [95, 96, 97, 96, 98, 100, 102, 103, 104, 104]
 ```
 
-2026-10-18 95 → 2026-11-02 97（+2）
+2026-10-18 95 → 2026-11-17 104（+9）
 
 
 ---

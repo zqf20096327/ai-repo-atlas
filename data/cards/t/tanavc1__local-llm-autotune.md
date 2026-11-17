@@ -1,6 +1,6 @@
 # tanavc1/local-llm-autotune
 
-⭐ 39 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tanavc1/local-llm-autotune) · [官网](https://www.autotunellm.com/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tanavc1/local-llm-autotune) · [官网](https://www.autotunellm.com/) · 个人维护
 
 **本地 LLM 推理优化中间件：降低 TTFT 与 KV 缓存内存**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tanavc1/local-llm-autotune 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-02"]
+    title "tanavc1/local-llm-autotune 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 33 --> 40
-    line [34, 36, 37, 39, 39]
+    line [34, 36, 37, 39, 37, 38, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 39（+5）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

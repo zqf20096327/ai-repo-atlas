@@ -1,6 +1,6 @@
 # Mlilion/CodataAdmin
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mlilion/CodataAdmin) · 个人维护 · 中文 README
+⭐ 20 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mlilion/CodataAdmin) · 个人维护 · 中文 README
 
 **面向 AI Agent 的语义治理与可信取数平台，经 MCP 提供口径背书的取数**
 
@@ -45,13 +45,13 @@ Codata 项目的语义模型配套仓库：把物理数仓建模为 L1–L6 分�
 
 ```mermaid
 xychart-beta
-    title "Mlilion/CodataAdmin 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 8 --> 14
-    line [9, 10, 12, 13, 13]
+    title "Mlilion/CodataAdmin 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 8 --> 21
+    line [9, 10, 12, 13, 9, 15, 18, 19, 20, 20]
 ```
 
-2026-10-23 9 → 2026-11-02 13（+4）
+2026-10-23 9 → 2026-11-17 20（+11）
 
 
 ---

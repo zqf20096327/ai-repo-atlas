@@ -1,6 +1,6 @@
 # r9s-ai/open-next-router
 
-⭐ 27 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/r9s-ai/open-next-router) · 组织维护 · 中文 README
+⭐ 28 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/r9s-ai/open-next-router) · 组织维护 · 中文 README
 
 **面向开发者的 DSL 驱动 LLM API 网关：路由与规范化多上游**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "r9s-ai/open-next-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "r9s-ai/open-next-router 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

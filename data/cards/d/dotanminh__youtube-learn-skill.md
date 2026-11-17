@@ -1,6 +1,6 @@
 # dotanminh/youtube-learn-skill
 
-⭐ 33 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/dotanminh/youtube-learn-skill) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/dotanminh/youtube-learn-skill) · 个人维护 · 中文 README
 
 **AI Agent 技能：从 YouTube 视频挖掘讲者世界观与隐藏信念**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dotanminh/youtube-learn-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33, 33]
+    title "dotanminh/youtube-learn-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 33, 32, 33, 34, 34]
 ```
 
-2026-10-18 30 → 2026-11-02 33（+3）
+2026-10-18 30 → 2026-11-17 34（+4）
 
 
 ---

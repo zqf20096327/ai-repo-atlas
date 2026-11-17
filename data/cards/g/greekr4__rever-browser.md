@@ -1,6 +1,6 @@
 # greekr4/rever-browser
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/greekr4/rever-browser) · [官网](https://github.com/greekr4/rever-browser/releases/latest) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/greekr4/rever-browser) · [官网](https://github.com/greekr4/rever-browser/releases/latest) · 个人维护
 
 **面向 API 逆向工程的 agent 驱动桌面工作台**
 
@@ -44,13 +44,13 @@ Electron 桌面应用，将真实 Chromium 标签页与 ACP 编码 agent（默�
 
 ```mermaid
 xychart-beta
-    title "greekr4/rever-browser 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 40 --> 50
-    line [41, 42, 44, 45, 46, 48, 49, 48, 48]
+    title "greekr4/rever-browser 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 56
+    line [41, 42, 44, 45, 46, 48, 49, 48, 45, 53, 55, 55]
 ```
 
-2026-10-18 41 → 2026-11-02 48（+7）
+2026-10-18 41 → 2026-11-17 55（+14）
 
 
 ---

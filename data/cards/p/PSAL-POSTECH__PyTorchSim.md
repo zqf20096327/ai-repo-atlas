@@ -1,6 +1,6 @@
 # PSAL-POSTECH/PyTorchSim
 
-⭐ 149 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/PSAL-POSTECH/PyTorchSim) · 组织维护
+⭐ 151 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/PSAL-POSTECH/PyTorchSim) · 组织维护
 
 **给架构研究者的 NPU 仿真框架：在 PyTorch 上跑模型并测硬件性能**
 
@@ -45,13 +45,13 @@ PSAL（POSTECH）开发的 NPU 仿真框架：以 PyTorch2 编译器栈为前端
 
 ```mermaid
 xychart-beta
-    title "PSAL-POSTECH/PyTorchSim 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 141 --> 150
-    line [142, 143, 144, 145, 149]
+    title "PSAL-POSTECH/PyTorchSim 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 141 --> 152
+    line [142, 143, 144, 145, 149, 144, 150, 151, 151]
 ```
 
-2026-10-18 142 → 2026-11-02 149（+7）
+2026-10-18 142 → 2026-11-17 151（+9）
 
 
 ---

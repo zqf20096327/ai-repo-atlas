@@ -1,6 +1,6 @@
 # enzoemir1/n8n-prompt-library
 
-⭐ 23 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/enzoemir1/n8n-prompt-library) · 组织维护
+⭐ 24 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/enzoemir1/n8n-prompt-library) · 组织维护
 
 **面向 n8n 工作流的 20 条生产级 AI 提示词库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "enzoemir1/n8n-prompt-library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "enzoemir1/n8n-prompt-library 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

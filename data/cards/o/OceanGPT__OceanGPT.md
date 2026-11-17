@@ -1,6 +1,6 @@
 # OceanGPT/OceanGPT
 
-⭐ 116 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/OceanGPT/OceanGPT) · [官网](http://OceanGPT.org/) · 组织维护 · 中文 README
+⭐ 117 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/OceanGPT/OceanGPT) · [官网](http://OceanGPT.org/) · 组织维护 · 中文 README
 
 **面向海洋科学的领域大模型系列（沧渊），支持问答、图像解读与代码生成**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "OceanGPT/OceanGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 115 --> 117
-    line [116, 116]
+    title "OceanGPT/OceanGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 115 --> 119
+    line [116, 117, 118, 117, 117]
 ```
 
-2026-10-18 116 → 2026-11-02 116（+0）
+2026-10-18 116 → 2026-11-17 117（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gogf/skills
 
-⭐ 81 · Go · 推送 2026-06-05 · [GitHub](https://github.com/gogf/skills) · 组织维护
+⭐ 83 · Go · 推送 2026-06-05 · [GitHub](https://github.com/gogf/skills) · 组织维护
 
 **面向 AI 的 GoFrame 框架技能集：让 AI 生成准确的 GoFrame 代码**
 
@@ -44,13 +44,13 @@ GoFrame 官方团队维护的 AI 技能集，内容覆盖 CLI 管理、配置、
 
 ```mermaid
 xychart-beta
-    title "gogf/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    title "gogf/skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 80 --> 84
+    line [81, 83, 83]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 83（+2）
 
 
 ---

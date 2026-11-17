@@ -1,6 +1,6 @@
 # microsoft/ppteval
 
-⭐ 16 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/microsoft/ppteval) · [官网](https://microsoft.github.io/ppteval/) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/ppteval) · [官网](https://microsoft.github.io/ppteval/) · 组织维护
 
 **评测计算机使用 Agent 的 PowerPoint 任务基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ppteval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "microsoft/ppteval 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

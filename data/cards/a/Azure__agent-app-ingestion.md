@@ -1,6 +1,6 @@
 # Azure/agent-app-ingestion
 
-⭐ 188 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Azure/agent-app-ingestion) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 187 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Azure/agent-app-ingestion) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Agent Landing Zone 的数据摄取服务：把文档转为 agent 检索知识**
 
@@ -45,13 +45,13 @@ Python 3.12 编写的摄取服务，面向 Agent Landing Zone 平台：读取 PD
 
 ```mermaid
 xychart-beta
-    title "Azure/agent-app-ingestion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 187 --> 189
-    line [188, 188]
+    title "Azure/agent-app-ingestion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 186 --> 189
+    line [188, 187, 187]
 ```
 
-2026-10-18 188 → 2026-11-02 188（+0）
+2026-10-18 188 → 2026-11-17 187（-1）
 
 
 ---

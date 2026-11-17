@@ -1,6 +1,6 @@
 # PhilipJohnBasile/vecstore
 
-⭐ 17 · Rust · MIT · 推送 2026-09-10 · [GitHub](https://github.com/PhilipJohnBasile/vecstore) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/PhilipJohnBasile/vecstore) · 个人维护
 
 **可嵌入 Rust 应用的向量数据库，支持元数据过滤与持久化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PhilipJohnBasile/vecstore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

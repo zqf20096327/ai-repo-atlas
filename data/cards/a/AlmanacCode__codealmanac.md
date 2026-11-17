@@ -1,6 +1,6 @@
 # AlmanacCode/codealmanac
 
-⭐ 994 · TypeScript · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/AlmanacCode/codealmanac) · [官网](https://codealmanac.com) · 组织维护
+⭐ 963 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AlmanacCode/codealmanac) · [官网](https://codealmanac.com) · 组织维护
 
 **给 AI 编码代理维护的代码库 wiki：沉淀决策、流程与陷阱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlmanacCode/codealmanac 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 988 --> 999
-    line [998, 997, 991, 989, 992, 994, 994]
+    title "AlmanacCode/codealmanac 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 958 --> 1001
+    line [998, 997, 991, 989, 992, 994, 989, 966, 961, 962, 963, 963]
 ```
 
-2026-10-18 998 → 2026-11-02 994（-4）
+2026-10-18 998 → 2026-11-17 963（-35）
 
 
 ---

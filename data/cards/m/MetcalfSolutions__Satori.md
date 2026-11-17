@@ -1,6 +1,6 @@
 # MetcalfSolutions/Satori
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/MetcalfSolutions/Satori) · [官网](https://metcalfsolutions.github.io/Satori/) · 组织维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/MetcalfSolutions/Satori) · [官网](https://metcalf.solutions/satori/) · 组织维护
 
 **跨 agent 的心理洞察对话技能：给开发者与普通用户的内省对话伙伴**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MetcalfSolutions/Satori 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 81 --> 118
-    line [84, 85, 103, 104, 108, 111, 112, 114, 115, 115]
+    title "MetcalfSolutions/Satori 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 81 --> 122
+    line [84, 85, 103, 104, 108, 111, 112, 114, 115, 104, 118, 119, 119]
 ```
 
-2026-10-18 84 → 2026-11-02 115（+31）
+2026-10-18 84 → 2026-11-17 119（+35）
 
 
 ---

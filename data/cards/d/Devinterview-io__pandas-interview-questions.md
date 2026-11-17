@@ -1,6 +1,6 @@
 # Devinterview-io/pandas-interview-questions
 
-⭐ 74 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/pandas-interview-questions) · 组织维护
+⭐ 75 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/pandas-interview-questions) · 组织维护
 
 **Pandas 面试题库：45 题含答案，备面试**
 
@@ -42,13 +42,13 @@ Devinterview.io 维护的 Pandas 面试问答集合，收录 45 道基础问题�
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/pandas-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "Devinterview-io/pandas-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 73 --> 76
+    line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 75（+1）
 
 
 ---

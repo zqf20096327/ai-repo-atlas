@@ -1,6 +1,6 @@
 # hukenovs/hagrid
 
-⭐ 1,083 · Python · 推送 2026-10-30 · [GitHub](https://github.com/hukenovs/hagrid) · [官网](https://arxiv.org/abs/2206.08219) · 组织维护
+⭐ 1,094 · Python · 推送 2026-10-30 · [GitHub](https://github.com/hukenovs/hagrid) · [官网](https://arxiv.org/abs/2206.08219) · 组织维护
 
 **大规模手部手势识别图像数据集 HaGRIDv2（108万张，33类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hukenovs/hagrid 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 1082 --> 1084
-    line [1083, 1083]
+    title "hukenovs/hagrid 星数(近 7 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1082 --> 1095
+    line [1083, 1089, 1091, 1092, 1093, 1094, 1094]
 ```
 
-2026-11-01 1,083 → 2026-11-02 1,083（+0）
+2026-11-01 1,083 → 2026-11-17 1,094（+11）
 
 
 ---

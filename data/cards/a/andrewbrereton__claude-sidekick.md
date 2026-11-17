@@ -1,6 +1,6 @@
 # andrewbrereton/claude-sidekick
 
-⭐ 16 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/andrewbrereton/claude-sidekick) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/andrewbrereton/claude-sidekick) · 个人维护
 
 **连接 Claude 与本地 Ollama 的 MCP 服务器，分流简单任务省 token**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrewbrereton/claude-sidekick 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "andrewbrereton/claude-sidekick 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-24 16 → 2026-11-02 16（+0）
+2026-10-24 16 → 2026-11-17 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # skggm/skggm
 
-⭐ 254 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/skggm/skggm) · [官网](https://skggm.github.io/skggm/tour) · 组织维护
+⭐ 253 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/skggm/skggm) · [官网](https://skggm.github.io/skggm/tour) · 组织维护
 
 **scikit-learn 兼容的高斯图模型/逆协方差估计 Python 库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "skggm/skggm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "skggm/skggm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 252 --> 255
-    line [253, 254, 254]
+    line [253, 254, 253, 253]
 ```
 
-2026-10-18 253 → 2026-11-02 254（+1）
+2026-10-18 253 → 2026-11-17 253（+0）
 
 
 ---

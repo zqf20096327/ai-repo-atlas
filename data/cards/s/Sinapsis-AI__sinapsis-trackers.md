@@ -1,6 +1,6 @@
 # Sinapsis-AI/sinapsis-trackers
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-04-24 · [GitHub](https://github.com/Sinapsis-AI/sinapsis-trackers) · [官网](https://sinapsis.tech/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多目标跟踪模块包集合：提供 CoTracker/ByteTrack/SORT 等模板与演示**
 
@@ -11,7 +11,7 @@ Sinapsis 生态下的多目标跟踪 mono repo，含三个 Python 包：sinapsis
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Sinapsis 生态下的多目标跟踪 mono repo，含三个 Python 包：sinapsis
 ```mermaid
 xychart-beta
     title "Sinapsis-AI/sinapsis-trackers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-13 15（+0）
 
 
 ---

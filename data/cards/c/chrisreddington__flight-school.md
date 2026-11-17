@@ -1,6 +1,6 @@
 # chrisreddington/flight-school
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/chrisreddington/flight-school) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/chrisreddington/flight-school) · 个人维护
 
 **基于 Copilot SDK 的开发者编码练习学习平台示例**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisreddington/flight-school 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "chrisreddington/flight-school 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

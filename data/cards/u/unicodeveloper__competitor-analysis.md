@@ -1,6 +1,6 @@
 # unicodeveloper/competitor-analysis
 
-⭐ 37 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/unicodeveloper/competitor-analysis) · [官网](https://competitor-analysis.up.railway.app) · 个人维护
+⭐ 38 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/unicodeveloper/competitor-analysis) · [官网](https://competitor-analysis.up.railway.app) · 个人维护
 
 **输入竞品网址自动生成深度调研报告的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "unicodeveloper/competitor-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "unicodeveloper/competitor-analysis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

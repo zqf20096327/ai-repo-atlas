@@ -1,6 +1,6 @@
 # sumedhachugh/Lithography-Hotspot-Detection
 
-⭐ 48 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/sumedhachugh/Lithography-Hotspot-Detection) · 个人维护
+⭐ 50 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/sumedhachugh/Lithography-Hotspot-Detection) · 个人维护
 
 **深度学习检测光刻热点的研究代码：ViT/CNN/ANN 对比**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sumedhachugh/Lithography-Hotspot-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "sumedhachugh/Lithography-Hotspot-Detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

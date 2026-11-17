@@ -1,6 +1,6 @@
 # al1enjesus/polyclawster
 
-⭐ 22 · JavaScript · 推送 2026-03-16 · [GitHub](https://github.com/al1enjesus/polyclawster) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 自动交易 Polymarket：读语音/推文/视频信号下单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "al1enjesus/polyclawster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-15 22（+0）
 
 
 ---

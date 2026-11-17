@@ -1,6 +1,6 @@
 # NimbleBrainInc/nimblebrain
 
-⭐ 28 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
 
 **自托管的 MCP 应用与 agent 任务运行平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "NimbleBrainInc/nimblebrain 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
+    title "NimbleBrainInc/nimblebrain 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 28]
+    line [25, 26, 27, 28, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 28（+3）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

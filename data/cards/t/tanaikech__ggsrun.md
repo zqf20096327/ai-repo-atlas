@@ -1,6 +1,6 @@
 # tanaikech/ggsrun
 
-⭐ 172 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/tanaikech/ggsrun) · 个人维护
+⭐ 173 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/tanaikech/ggsrun) · 个人维护
 
 **Google Drive CLI 与 MCP 服务器：本地执行 Google Apps Script 并管理 Drive 文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tanaikech/ggsrun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "tanaikech/ggsrun 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-16", "2026-11-17"]
     y-axis "stars" 171 --> 174
-    line [173, 172, 172]
+    line [173, 172, 173, 173]
 ```
 
-2026-10-18 173 → 2026-11-02 172（-1）
+2026-10-18 173 → 2026-11-17 173（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rgeirhos/Stylized-ImageNet
 
-⭐ 529 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/rgeirhos/Stylized-ImageNet) · [官网](https://openreview.net/forum?id=Bygh9j09KX) · 组织维护
+⭐ 530 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/rgeirhos/Stylized-ImageNet) · [官网](https://openreview.net/forum?id=Bygh9j09KX) · 组织维护
 
 **生成 Stylized-ImageNet 数据集的代码：诱导 CNN 形状偏置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rgeirhos/Stylized-ImageNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 528 --> 530
-    line [529, 529]
+    title "rgeirhos/Stylized-ImageNet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 528 --> 531
+    line [529, 530, 530]
 ```
 
-2026-10-18 529 → 2026-11-02 529（+0）
+2026-10-18 529 → 2026-11-17 530（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SeemSeam/nozeli
 
-⭐ 14 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/SeemSeam/nozeli) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/SeemSeam/nozeli) · 个人维护 · 中文 README
 
 **Agent 协作编辑工作台：阅读、批注、编辑与任务审阅闭环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeemSeam/nozeli 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 7 --> 15
-    line [8, 14, 14]
+    title "SeemSeam/nozeli 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 7 --> 22
+    line [8, 14, 15, 18, 19, 20, 21, 21]
 ```
 
-2026-10-30 8 → 2026-11-02 14（+6）
+2026-10-30 8 → 2026-11-17 21（+13）
 
 
 ---

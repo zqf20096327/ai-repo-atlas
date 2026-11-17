@@ -1,6 +1,6 @@
 # xt765/LangChain-Chinese-Comment
 
-⭐ 20 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/xt765/LangChain-Chinese-Comment) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/xt765/LangChain-Chinese-Comment) · 个人维护 · 中文 README
 
 **LangChain 源码中文注释与文档库，助中文开发者理解框架实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xt765/LangChain-Chinese-Comment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "xt765/LangChain-Chinese-Comment 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

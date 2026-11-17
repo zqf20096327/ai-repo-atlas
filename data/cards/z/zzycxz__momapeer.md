@@ -1,6 +1,6 @@
 # zzycxz/momapeer
 
-⭐ 11 · Go · MIT · 推送 2026-08-06 · [GitHub](https://github.com/zzycxz/momapeer) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **对接中国移动九天(MoMA)平台的AI编程助手，单二进制多端运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zzycxz/momapeer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # XiaoConstantine/maestro
 
-⭐ 30 · Go · MIT · 推送 2026-07-29 · [GitHub](https://github.com/XiaoConstantine/maestro) · 个人维护
+⭐ 31 · Go · MIT · 推送 2026-07-29 · [GitHub](https://github.com/XiaoConstantine/maestro) · 个人维护
 
 **基于 dspy-go 的本地 AI 代码评审与仓库问答助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "XiaoConstantine/maestro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "XiaoConstantine/maestro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

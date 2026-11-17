@@ -1,6 +1,6 @@
 # matthewprice/JobFinderOS
 
-⭐ 184 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/matthewprice/JobFinderOS) · 个人维护
+⭐ 191 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/matthewprice/JobFinderOS) · 个人维护
 
 **在 Claude Code 内运行的求职 agent 套件：爬岗、打分、备面试、写外联**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "matthewprice/JobFinderOS 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 181 --> 185
-    line [182, 184]
+    title "matthewprice/JobFinderOS 星数(近 7 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 181 --> 192
+    line [182, 184, 188, 190, 189, 191, 191]
 ```
 
-2026-11-01 182 → 2026-11-02 184（+2）
+2026-11-01 182 → 2026-11-17 191（+9）
 
 
 ---

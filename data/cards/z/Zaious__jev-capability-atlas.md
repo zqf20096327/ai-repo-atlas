@@ -1,6 +1,6 @@
 # Zaious/jev-capability-atlas
 
-⭐ 28 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Zaious/jev-capability-atlas) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Zaious/jev-capability-atlas) · 个人维护 · 中文 README
 
 **Jev 模型能力边界的实证地图：判断任务适不适合交给它**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zaious/jev-capability-atlas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "Zaious/jev-capability-atlas 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

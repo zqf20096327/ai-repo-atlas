@@ -1,6 +1,6 @@
 # Foxtailsss-Andy/Anna-Agent
 
-⭐ 132 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Foxtailsss-Andy/Anna-Agent) · [官网](https://foxtailsss-andy.github.io/Anna/) · 个人维护 · 中文 README
+⭐ 130 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Foxtailsss-Andy/Anna-Agent) · [官网](https://foxtailsss-andy.github.io/Anna/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent，管理个人任务与团队项目协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Foxtailsss-Andy/Anna-Agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 131 --> 148
-    line [147, 146, 132, 132]
+    title "Foxtailsss-Andy/Anna-Agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 129 --> 148
+    line [147, 146, 132, 130, 130]
 ```
 
-2026-10-18 147 → 2026-11-02 132（-15）
+2026-10-18 147 → 2026-11-17 130（-17）
 
 
 ---

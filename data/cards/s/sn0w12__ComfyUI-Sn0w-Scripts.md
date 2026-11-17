@@ -1,6 +1,6 @@
 # sn0w12/ComfyUI-Sn0w-Scripts
 
-⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sn0w12/ComfyUI-Sn0w-Scripts) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sn0w12/ComfyUI-Sn0w-Scripts) · 个人维护
 
 **给 ComfyUI 用户的 LoRA 管理与杂项自定义节点集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sn0w12/ComfyUI-Sn0w-Scripts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "sn0w12/ComfyUI-Sn0w-Scripts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

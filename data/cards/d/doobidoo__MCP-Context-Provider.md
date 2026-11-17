@@ -1,6 +1,6 @@
 # doobidoo/MCP-Context-Provider
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/doobidoo/MCP-Context-Provider) · 个人维护
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/doobidoo/MCP-Context-Provider) · 个人维护
 
 **给 Claude 提供持久化上下文的 MCP 服务器：跨会话保留工具规则与习得规则**
 
@@ -44,13 +44,13 @@ TypeScript 实现的静态 MCP 服务器，向 Claude Desktop 与 Claude Code �
 
 ```mermaid
 xychart-beta
-    title "doobidoo/MCP-Context-Provider 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "doobidoo/MCP-Context-Provider 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 30（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Burns1028/akka
 
-⭐ 66 · Python · AFL-3.0 · 推送 2026-03-10 · [GitHub](https://github.com/Burns1028/akka) · 组织维护 · 中文 README
+⭐ 64 · Python · AFL-3.0 · 推送 2026-03-10 · [GitHub](https://github.com/Burns1028/akka) · 组织维护 · 中文 README
 
 **自媒体创作者的全自动内容 Agent：一句话完成选题到发布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Burns1028/akka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "Burns1028/akka 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 62 --> 67
+    line [66, 63, 64, 64]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 64（-2）
 
 
 ---

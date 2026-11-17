@@ -1,6 +1,6 @@
 # wcollins/packt-netops-ai-workshop
 
-⭐ 30 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/wcollins/packt-netops-ai-workshop) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/wcollins/packt-netops-ai-workshop) · 个人维护
 
 **面向网络工程师的 AI 网络运维实操工作坊课程材料**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wcollins/packt-netops-ai-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "wcollins/packt-netops-ai-workshop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

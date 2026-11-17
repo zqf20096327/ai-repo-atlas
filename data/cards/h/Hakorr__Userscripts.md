@@ -1,6 +1,6 @@
 # Hakorr/Userscripts
 
-⭐ 46 · JavaScript · 推送 2026-04-14 · [GitHub](https://github.com/Hakorr/Userscripts) · [官网](https://github.com/Hakorr) · 个人维护
+⭐ 47 · JavaScript · 推送 2026-04-14 · [GitHub](https://github.com/Hakorr/Userscripts) · [官网](https://github.com/Hakorr) · 个人维护
 
 **个人浏览器用户脚本合集，含多站点小工具**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hakorr/Userscripts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "Hakorr/Userscripts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

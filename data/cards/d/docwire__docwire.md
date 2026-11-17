@@ -1,6 +1,6 @@
 # docwire/docwire
 
-⭐ 117 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/docwire/docwire) · [官网](https://docwire.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **本地优先的 C++20 数据处理 SDK：构建可审计的文档/AI 流水线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "docwire/docwire 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 116 --> 118
     line [117, 117]
 ```
 
-2026-10-18 117 → 2026-11-02 117（+0）
+2026-10-18 117 → 2026-11-07 117（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # evoelsewhere/evoflux
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/evoelsewhere/evoflux) · [官网](https://evoelsewhere.asia) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **本地优先的桌面工作区：AI agent 团队协作完成编码与研究任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "evoelsewhere/evoflux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "evoelsewhere/evoflux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    line [11, 13, 11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sdsubhajitdas/Brain-Tumor-Segmentation
 
-⭐ 296 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation) · [官网](https://bts.subhajitdas.me/) · 个人维护
+⭐ 298 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation) · [官网](https://bts.subhajitdas.me/) · 个人维护
 
 **用 U-Net 对脑肿瘤 MRI 图像生成分割掩码的 PyTorch 项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sdsubhajitdas/Brain-Tumor-Segmentation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 294 --> 297
-    line [296, 295, 296, 296]
+    title "sdsubhajitdas/Brain-Tumor-Segmentation 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 294 --> 299
+    line [296, 295, 296, 297, 298, 298]
 ```
 
-2026-10-18 296 → 2026-11-02 296（+0）
+2026-10-18 296 → 2026-11-17 298（+2）
 
 
 ---

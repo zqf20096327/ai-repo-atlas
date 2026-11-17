@@ -1,6 +1,6 @@
 # shinegang/baron
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/shinegang/baron) · [官网](https://shinegang.click) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/shinegang/baron) · [官网](https://shinegang.click) · 个人维护
 
 **编码 agent 的本地记忆服务器：跨会话存取项目状态并给回答溯源判定**
 
@@ -44,13 +44,13 @@ Python 3.12 编写的 MCP 记忆服务器，零第三方运行时依赖，通过
 
 ```mermaid
 xychart-beta
-    title "shinegang/baron 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "shinegang/baron 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

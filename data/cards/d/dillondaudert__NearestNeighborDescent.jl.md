@@ -1,6 +1,6 @@
 # dillondaudert/NearestNeighborDescent.jl
 
-⭐ 49 · Julia · MIT · 推送 2026-09-19 · [GitHub](https://github.com/dillondaudert/NearestNeighborDescent.jl) · 个人维护
+⭐ 50 · Julia · MIT · 推送 2026-09-19 · [GitHub](https://github.com/dillondaudert/NearestNeighborDescent.jl) · 个人维护
 
 **Julia 实现的近似 kNN 图构建与搜索库**
 
@@ -43,13 +43,13 @@ Nearest Neighbor Descent（NNDescent）算法的 Julia 实现包，提供近似 
 
 ```mermaid
 xychart-beta
-    title "dillondaudert/NearestNeighborDescent.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "dillondaudert/NearestNeighborDescent.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

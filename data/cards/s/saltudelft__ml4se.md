@@ -1,6 +1,6 @@
 # saltudelft/ml4se
 
-⭐ 734 · 推送 2025-11-06 · [GitHub](https://github.com/saltudelft/ml4se) · [官网](https://ml4se.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向软件工程研究的机器学习论文/数据集/工具策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "saltudelft/ml4se 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 733 --> 735
     line [734, 734]
 ```
 
-2026-10-18 734 → 2026-11-02 734（+0）
+2026-10-18 734 → 2026-11-07 734（+0）
 
 
 ---

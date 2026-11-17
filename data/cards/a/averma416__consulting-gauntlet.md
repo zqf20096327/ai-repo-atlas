@@ -1,6 +1,6 @@
 # averma416/consulting-gauntlet
 
-⭐ 35 · 推送 2026-03-13 · [GitHub](https://github.com/averma416/consulting-gauntlet) · 个人维护
+⭐ 35 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/averma416/consulting-gauntlet) · 个人维护
 
 **Claude Code 咨询技能包：6 个 agent 产出战略与财务交付物**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "averma416/consulting-gauntlet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "averma416/consulting-gauntlet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    line [34, 35, 34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

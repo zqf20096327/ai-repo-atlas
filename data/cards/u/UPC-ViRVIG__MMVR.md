@@ -1,6 +1,6 @@
 # UPC-ViRVIG/MMVR
 
-⭐ 75 · C# · NOASSERTION · 推送 2026-06-06 · [GitHub](https://github.com/UPC-ViRVIG/MMVR) · [官网](https://upc-virvig.github.io/MMVR/) · 组织维护
+⭐ 76 · C# · NOASSERTION · 推送 2026-06-06 · [GitHub](https://github.com/UPC-ViRVIG/MMVR) · [官网](https://upc-virvig.github.io/MMVR/) · 组织维护
 
 **面向消费级 VR 设备的全身 Avatar 动画方法实现（SCA 2022 论文）**
 
@@ -43,13 +43,13 @@ SCA 2022 论文《Combining Motion Matching and Orientation Prediction to Animat
 
 ```mermaid
 xychart-beta
-    title "UPC-ViRVIG/MMVR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    title "UPC-ViRVIG/MMVR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 74 --> 77
+    line [75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

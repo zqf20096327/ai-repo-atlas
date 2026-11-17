@@ -1,6 +1,6 @@
 # LSeu-Open/AIEnhancedWork
 
-⭐ 45 · CC0-1.0 · 推送 2026-09-28 · [GitHub](https://github.com/LSeu-Open/AIEnhancedWork) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 工具与模型策展索引：帮读者发现、比较和选用工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LSeu-Open/AIEnhancedWork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-15 45（+0）
 
 
 ---

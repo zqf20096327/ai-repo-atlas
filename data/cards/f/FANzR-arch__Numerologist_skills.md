@@ -1,6 +1,6 @@
 # FANzR-arch/Numerologist_skills
 
-⭐ 1,551 · Python · 推送 2026-10-16 · [GitHub](https://github.com/FANzR-arch/Numerologist_skills) · [官网](https://numerologist-skills.vercel.app) · 个人维护 · 中文 README
+⭐ 1,629 · Python · 推送 2026-10-16 · [GitHub](https://github.com/FANzR-arch/Numerologist_skills) · [官网](https://numerologist-skills.vercel.app) · 个人维护 · 中文 README
 
 **传统术数 AI skills：用固定排盘脚本与口径约束减少 LLM 幻觉**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FANzR-arch/Numerologist_skills 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1512 --> 1554
-    line [1515, 1527, 1537, 1545, 1551]
+    title "FANzR-arch/Numerologist_skills 星数(近 14 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1504 --> 1640
+    line [1515, 1527, 1537, 1545, 1551, 1590, 1603, 1608, 1616, 1617, 1619, 1627, 1629, 1629]
 ```
 
-2026-10-29 1,515 → 2026-11-02 1,551（+36）
+2026-10-29 1,515 → 2026-11-17 1,629（+114）
 
 
 ---

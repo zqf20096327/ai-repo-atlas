@@ -1,6 +1,6 @@
 # Coding-Meet/Library-Insight
 
-⭐ 23 · Kotlin · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Coding-Meet/Library-Insight) · [官网](https://coding-meet.github.io/Library-Insight/) · 个人维护
+⭐ 22 · Kotlin · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Coding-Meet/Library-Insight) · [官网](https://coding-meet.github.io/Library-Insight/) · 个人维护
 
 **面向 Java/Kotlin/KMP 的 API 索引与 MCP Server，供 AI IDE 查询**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Coding-Meet/Library-Insight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "Coding-Meet/Library-Insight 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

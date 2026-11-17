@@ -1,6 +1,6 @@
 # sagents-ai/sagents_live_debugger
 
-⭐ 30 · Elixir · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/sagents-ai/sagents_live_debugger) · [官网](https://hexdocs.pm/sagents_live_debugger/) · 组织维护
+⭐ 30 · Elixir · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/sagents-ai/sagents_live_debugger) · [官网](https://hexdocs.pm/sagents_live_debugger/) · 组织维护
 
 **给 Elixir Sagents 开发者的实时 agent 调试监控面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sagents-ai/sagents_live_debugger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

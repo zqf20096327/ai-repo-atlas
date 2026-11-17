@@ -1,6 +1,6 @@
 # sheshbabu/Chital
 
-⭐ 417 · Swift · 推送 2026-10-18 · [GitHub](https://github.com/sheshbabu/Chital) · 个人维护
+⭐ 416 · Swift · 推送 2026-10-18 · [GitHub](https://github.com/sheshbabu/Chital) · 个人维护
 
 **macOS 原生应用：与本地 Ollama 模型对话**
 
@@ -44,13 +44,13 @@ SwiftUI 编写的 macOS 桌面客户端，连接本地 Ollama 服务进行 LLM �
 
 ```mermaid
 xychart-beta
-    title "sheshbabu/Chital 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 416 --> 420
-    line [419, 418, 417, 417]
+    title "sheshbabu/Chital 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 415 --> 420
+    line [419, 418, 417, 416, 416]
 ```
 
-2026-10-18 419 → 2026-11-02 417（-2）
+2026-10-18 419 → 2026-11-17 416（-3）
 
 
 ---

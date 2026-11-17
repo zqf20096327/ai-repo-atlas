@@ -1,6 +1,6 @@
 # iFayens/ComfyUI-PuLID-Flux2
 
-⭐ 128 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/iFayens/ComfyUI-PuLID-Flux2) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/iFayens/ComfyUI-PuLID-Flux2) · 个人维护
 
 **ComfyUI 节点：为 FLUX.2 图像生成保持人脸一致性**
 
@@ -45,13 +45,13 @@ PuLID 方法在 FLUX.2（Klein 4B/9B 与 Dev）上的 ComfyUI 自定义节点实
 
 ```mermaid
 xychart-beta
-    title "iFayens/ComfyUI-PuLID-Flux2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 125 --> 129
-    line [126, 127, 128, 128]
+    title "iFayens/ComfyUI-PuLID-Flux2 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 125 --> 130
+    line [126, 127, 128, 129, 129]
 ```
 
-2026-10-18 126 → 2026-11-02 128（+2）
+2026-10-18 126 → 2026-11-17 129（+3）
 
 
 ---

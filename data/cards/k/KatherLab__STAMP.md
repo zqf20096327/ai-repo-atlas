@@ -1,6 +1,6 @@
 # KatherLab/STAMP
 
-⭐ 133 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/KatherLab/STAMP) · 组织维护
+⭐ 134 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/KatherLab/STAMP) · 组织维护
 
 **病理全切片图像到生物标志物预测的弱监督深度学习流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KatherLab/STAMP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 130 --> 134
-    line [131, 132, 133, 133]
+    title "KatherLab/STAMP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 130 --> 135
+    line [131, 132, 133, 132, 133, 134, 134]
 ```
 
-2026-10-18 131 → 2026-11-02 133（+2）
+2026-10-18 131 → 2026-11-17 134（+3）
 
 
 ---

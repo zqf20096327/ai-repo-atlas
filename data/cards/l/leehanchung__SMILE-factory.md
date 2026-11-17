@@ -1,6 +1,6 @@
 # leehanchung/SMILE-factory
 
-⭐ 106 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/leehanchung/SMILE-factory) · 个人维护
+⭐ 106 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/leehanchung/SMILE-factory) · 个人维护
 
 **合成数据驱动的深度研究训练工厂，含 Discord 编排 Claude Code 的机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leehanchung/SMILE-factory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-18 106 → 2026-11-02 106（+0）
+2026-10-18 106 → 2026-11-17 106（+0）
 
 
 ---

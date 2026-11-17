@@ -1,6 +1,6 @@
 # guregodevo/memdoor
 
-⭐ 191 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/guregodevo/memdoor) · [官网](https://memdoor.ai) · 个人维护
+⭐ 408 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/guregodevo/memdoor) · [官网](https://memdoor.ai) · 个人维护
 
 **单二进制 CLI 编码/自动化 agent，本地或 SSH 运行，BYOK**
 
@@ -45,13 +45,13 @@ Go 编写的单文件 CLI 编码与自动化代理：交互式 TUI、IDE（ACP�
 
 ```mermaid
 xychart-beta
-    title "guregodevo/memdoor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 0 --> 209
-    line [3, 4, 191]
+    title "guregodevo/memdoor 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 448
+    line [3, 4, 191, 4, 381, 387, 389, 391, 394, 398, 406, 408, 408]
 ```
 
-2026-10-18 3 → 2026-11-02 191（+188）
+2026-10-18 3 → 2026-11-17 408（+405）
 
 
 ---

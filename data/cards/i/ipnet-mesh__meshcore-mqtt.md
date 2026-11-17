@@ -1,6 +1,6 @@
 # ipnet-mesh/meshcore-mqtt
 
-⭐ 46 · Python · GPL-3.0 · 推送 2025-11-22 · [GitHub](https://github.com/ipnet-mesh/meshcore-mqtt) · [官网](https://ipnt.uk) · 组织维护
+⭐ 47 · Python · GPL-3.0 · 推送 2025-11-22 · [GitHub](https://github.com/ipnet-mesh/meshcore-mqtt) · [官网](https://ipnt.uk) · 组织维护
 
 **将 MeshCore 设备接入 MQTT 的桥接服务，供 IoT 集成使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ipnet-mesh/meshcore-mqtt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "ipnet-mesh/meshcore-mqtt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 48, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

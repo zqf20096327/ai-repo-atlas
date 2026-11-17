@@ -1,6 +1,6 @@
 # sign-protocol/sign-tools
 
-⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/sign-protocol/sign-tools) · [官网](https://github.com/sign-protocol/sign-lang) · 组织维护
+⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/sign-protocol/sign-tools) · [官网](https://sign-protocol.github.io/sign-lang/) · 组织维护
 
 **SIGN 标注规范工具箱：文档转 SIGN 格式与起草工具**
 
@@ -45,12 +45,12 @@ SIGN（Sigil Intelligence Graph Notation）开源项目的参考实现与工具�
 ```mermaid
 xychart-beta
     title "sign-protocol/sign-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

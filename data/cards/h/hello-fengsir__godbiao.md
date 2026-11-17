@@ -1,6 +1,6 @@
 # hello-fengsir/godbiao
 
-⭐ 30 · HTML · MIT · 推送 2026-06-14 · [GitHub](https://github.com/hello-fengsir/godbiao) · 个人维护 · 中文 README
+⭐ 31 · HTML · MIT · 推送 2026-06-14 · [GitHub](https://github.com/hello-fengsir/godbiao) · 个人维护 · 中文 README
 
 **AI 招投标工具：上传标书与招标要求，逐条核查比对**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hello-fengsir/godbiao 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30]
+    title "hello-fengsir/godbiao 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # alDuncanson/Handler
 
-⭐ 46 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/alDuncanson/Handler) · [官网](https://handler.alduncanson.com) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/alDuncanson/Handler) · [官网](https://handler.alduncanson.com) · 个人维护
 
 **终端里的 A2A 协议客户端，供工程师构建测试 agentic 系统**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alDuncanson/Handler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "alDuncanson/Handler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

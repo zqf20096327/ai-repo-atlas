@@ -1,6 +1,6 @@
 # royshil/obs-cleanstream
 
-⭐ 236 · C++ · GPL-2.0 · 推送 2025-11-11 · [GitHub](https://github.com/royshil/obs-cleanstream) · [官网](https://obsproject.com/forum/resources/cleanstream-remove-uhs-ums-profanity-in-your-live-stream-or-recording-with-ai.1732/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **OBS 插件：实时本地 AI 过滤直播音频中的脏话与语气词**
 
@@ -11,7 +11,7 @@ CleanStream 是一个 OBS Studio 音频滤波插件，在直播音频源上实�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-2.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ CleanStream 是一个 OBS Studio 音频滤波插件，在直播音频源上实�
 ```mermaid
 xychart-beta
     title "royshil/obs-cleanstream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 235 --> 237
     line [236, 236]
 ```
 
-2026-10-18 236 → 2026-11-02 236（+0）
+2026-10-18 236 → 2026-11-07 236（+0）
 
 
 ---

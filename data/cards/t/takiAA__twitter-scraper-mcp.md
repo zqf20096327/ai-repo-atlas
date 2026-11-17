@@ -1,6 +1,6 @@
 # takiAA/twitter-scraper-mcp
 
-⭐ 26 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/takiAA/twitter-scraper-mcp) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/takiAA/twitter-scraper-mcp) · 个人维护 · 中文 README
 
 **让 MCP agent 通过本地 X 会话做搜索与推文读取的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "takiAA/twitter-scraper-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "takiAA/twitter-scraper-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
     y-axis "stars" 25 --> 29
-    line [28, 26, 26]
+    line [28, 26, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-02 26（-2）
+2026-10-18 28 → 2026-11-17 27（-1）
 
 
 ---

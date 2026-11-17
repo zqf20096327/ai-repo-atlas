@@ -1,6 +1,6 @@
 # Terra-Flux/PolyRL
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-03-30 · [GitHub](https://github.com/Terra-Flux/PolyRL) · [官网](https://arxiv.org/abs/2510.19225) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-03-30 · [GitHub](https://github.com/Terra-Flux/PolyRL) · [官网](https://arxiv.org/abs/2510.19225) · 组织维护
 
 **利用竞价实例降低成本的大模型强化学习训练框架**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "Terra-Flux/PolyRL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Terra-Flux/PolyRL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # numindai/nuextract
 
-⭐ 267 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/numindai/nuextract) · 组织维护
+⭐ 274 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/numindai/nuextract) · 组织维护
 
 **4B 视觉语言模型：从文档/图像抽取结构化信息并转 Markdown**
 
@@ -45,13 +45,13 @@ NuMind 发布的 4B 统一视觉语言推理模型 NuExtract3，面向文档理�
 
 ```mermaid
 xychart-beta
-    title "numindai/nuextract 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 264 --> 268
-    line [265, 266, 267, 267]
+    title "numindai/nuextract 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 264 --> 275
+    line [265, 266, 267, 266, 271, 272, 273, 274, 274]
 ```
 
-2026-10-18 265 → 2026-11-02 267（+2）
+2026-10-18 265 → 2026-11-17 274（+9）
 
 
 ---

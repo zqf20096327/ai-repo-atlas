@@ -1,6 +1,6 @@
 # runkids/feature-radar
 
-⭐ 14 · Shell · MIT · 推送 2026-09-28 · [GitHub](https://github.com/runkids/feature-radar) · 个人维护
+⭐ 16 · Shell · MIT · 推送 2026-09-28 · [GitHub](https://github.com/runkids/feature-radar) · 个人维护
 
 **给编程 Agent 的功能规划技能：跨会话积累产品决策记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "runkids/feature-radar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "runkids/feature-radar 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

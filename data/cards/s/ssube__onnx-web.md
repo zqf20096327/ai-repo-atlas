@@ -1,6 +1,6 @@
 # ssube/onnx-web
 
-⭐ 233 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/ssube/onnx-web) · [官网](https://discord.gg/7CdQmutGuw) · 个人维护
+⭐ 232 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/ssube/onnx-web) · [官网](https://discord.gg/7CdQmutGuw) · 个人维护
 
 **网页运行 Stable Diffusion 等 ONNX 模型的图像生成服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ssube/onnx-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 232 --> 234
-    line [233, 233]
+    title "ssube/onnx-web 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 231 --> 234
+    line [233, 232, 232]
 ```
 
-2026-10-18 233 → 2026-11-02 233（+0）
+2026-10-18 233 → 2026-11-17 232（-1）
 
 
 ---

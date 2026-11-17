@@ -1,6 +1,6 @@
 # langchain-ai/langchain-ibm
 
-⭐ 36 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-ibm) · [官网](https://python.langchain.com/docs/integrations/providers/ibm) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/langchain-ibm) · [官网](https://python.langchain.com/docs/integrations/providers/ibm) · 组织维护
 
 **LangChain 的 IBM watsonx 与 Db2 向量库集成包**
 
@@ -44,13 +44,13 @@ langchain-ai 维护的 monorepo，含两个 Python 包：langchain-ibm 将 IBM w
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-ibm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-ibm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 35 --> 38
-    line [37, 36, 36]
+    line [37, 36, 37, 36, 36]
 ```
 
-2026-10-18 37 → 2026-11-02 36（-1）
+2026-10-18 37 → 2026-11-17 36（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jdonohoo/vern-bot
 
-⭐ 15 · Go · 推送 2026-05-31 · [GitHub](https://github.com/jdonohoo/vern-bot) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/jdonohoo/vern-bot) · 个人维护
 
 **多 LLM 编排终端工具：用 18 个 AI 人格跑项目发现流水线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jdonohoo/vern-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

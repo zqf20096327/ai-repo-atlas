@@ -1,6 +1,6 @@
 # theaibuilders/ai_builders_tutorial
 
-⭐ 12 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/theaibuilders/ai_builders_tutorial) · [官网](https://tutorial.theaibuilders.dev) · 组织维护
+⭐ 12 · Jupyter Notebook · 推送 2026-11-10 · [GitHub](https://github.com/theaibuilders/ai_builders_tutorial) · [官网](https://tutorial.theaibuilders.dev) · 组织维护
 
 **面向 AI 应用开发的教程平台：教程站点与认证后端**
 
@@ -44,12 +44,12 @@ AI Builders Tutorial 是一个教程系列平台仓库：包含 Astro+Preact 前
 ```mermaid
 xychart-beta
     title "theaibuilders/ai_builders_tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

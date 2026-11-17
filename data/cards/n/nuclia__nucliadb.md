@@ -1,6 +1,6 @@
 # nuclia/nucliadb
 
-⭐ 722 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/nuclia/nucliadb) · [官网](https://docs.nuclia.dev/docs/management/nucliadb/intro) · 组织维护
+⭐ 723 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/nuclia/nucliadb) · [官网](https://docs.nuclia.dev/docs/management/nucliadb/intro) · 组织维护
 
 **面向 RAG 的 AI 搜索数据库：存储并检索非结构化数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nuclia/nucliadb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 721 --> 723
-    line [722, 722]
+    title "nuclia/nucliadb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 720 --> 724
+    line [722, 721, 722, 723, 723]
 ```
 
-2026-10-18 722 → 2026-11-02 722（+0）
+2026-10-18 722 → 2026-11-17 723（+1）
 
 
 ---

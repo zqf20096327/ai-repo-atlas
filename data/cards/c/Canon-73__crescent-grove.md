@@ -1,6 +1,6 @@
 # Canon-73/crescent-grove
 
-⭐ 18 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Canon-73/crescent-grove) · [官网](https://www.crescent-grove.net) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Canon-73/crescent-grove) · [官网](https://www.crescent-grove.net) · 个人维护 · 中文 README
 
 **本地优先的 AI 居民平台：让一个 AI 拥有连续时间与长期记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Canon-73/crescent-grove 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 18]
+    title "Canon-73/crescent-grove 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 18, 16, 19, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 18（+3）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

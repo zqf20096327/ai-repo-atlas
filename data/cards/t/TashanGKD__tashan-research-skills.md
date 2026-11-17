@@ -1,6 +1,6 @@
 # TashanGKD/tashan-research-skills
 
-⭐ 20 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/TashanGKD/tashan-research-skills) · 组织维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/TashanGKD/tashan-research-skills) · 组织维护 · 中文 README
 
 **面向科研场景的中英双语 agent 技能库（19 个自研 skills）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TashanGKD/tashan-research-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "TashanGKD/tashan-research-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 19, 21, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

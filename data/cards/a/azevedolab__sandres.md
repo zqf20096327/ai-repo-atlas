@@ -1,6 +1,6 @@
 # azevedolab/sandres
 
-⭐ 21 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/azevedolab/sandres) · [官网](https://github.com/azevedolab/sandres) · 组织维护
+⭐ 22 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/azevedolab/sandres) · [官网](https://github.com/azevedolab/sandres) · 组织维护
 
 **蛋白-配体对接结果统计分析与机器学习结合能预测工具**
 
@@ -44,13 +44,13 @@ SAnDReS 2.0 是面向计算机辅助药物设计的 Python 桌面应用：以 Au
 
 ```mermaid
 xychart-beta
-    title "azevedolab/sandres 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "azevedolab/sandres 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

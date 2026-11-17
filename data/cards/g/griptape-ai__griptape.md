@@ -1,6 +1,6 @@
 # griptape-ai/griptape
 
-⭐ 2,584 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/griptape-ai/griptape) · [官网](https://www.griptape.ai) · 组织维护
+⭐ 2,588 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/griptape-ai/griptape) · [官网](https://www.griptape.ai) · 组织维护
 
 **构建 AI agent 与工作流的模块化 Python 框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "griptape-ai/griptape 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 2579 --> 2585
-    line [2583, 2582, 2580, 2582, 2583, 2584]
+    title "griptape-ai/griptape 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2579 --> 2589
+    line [2583, 2582, 2580, 2582, 2583, 2584, 2580, 2586, 2587, 2588, 2588]
 ```
 
-2026-10-18 2,583 → 2026-11-02 2,584（+1）
+2026-10-18 2,583 → 2026-11-17 2,588（+5）
 
 
 ---

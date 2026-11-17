@@ -1,6 +1,6 @@
 # lulu-sk/CodexFlow
 
-⭐ 86 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/lulu-sk/CodexFlow) · [官网](https://github.com/lulu-sk/CodexFlow/releases/latest) · 个人维护 · 中文 README
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/lulu-sk/CodexFlow) · [官网](https://github.com/lulu-sk/CodexFlow/releases/latest) · 个人维护 · 中文 README
 
 **面向 AI 编程 Agent 的 Windows/WSL 统一桌面工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lulu-sk/CodexFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    title "lulu-sk/CodexFlow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 84 --> 87
+    line [86, 85, 85]
 ```
 
-2026-10-18 86 → 2026-11-02 86（+0）
+2026-10-18 86 → 2026-11-17 85（-1）
 
 
 ---

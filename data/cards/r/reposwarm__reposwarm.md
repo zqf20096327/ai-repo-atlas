@@ -1,6 +1,6 @@
 # reposwarm/reposwarm
 
-⭐ 277 · Python · Apache-2.0 · 推送 2026-03-26 · [GitHub](https://github.com/reposwarm/reposwarm) · 组织维护
+⭐ 312 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/reposwarm/reposwarm) · 组织维护
 
 **多仓库架构发现平台：为 AI agent 生成架构文档上下文**
 
@@ -45,13 +45,13 @@ RepoSwarm 分析整个代码库组合并生成标准化的 .arch.md 架构文档
 
 ```mermaid
 xychart-beta
-    title "reposwarm/reposwarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 274 --> 278
-    line [276, 275, 276, 277, 277]
+    title "reposwarm/reposwarm 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 272 --> 315
+    line [276, 275, 276, 277, 276, 278, 279, 296, 309, 312, 312]
 ```
 
-2026-10-18 276 → 2026-11-02 277（+1）
+2026-10-18 276 → 2026-11-17 312（+36）
 
 
 ---

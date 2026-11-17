@@ -1,6 +1,6 @@
 # zc-alexfan/hold
 
-⭐ 494 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/zc-alexfan/hold) · [官网](https://zc-alexfan.github.io/hold) · 组织维护
+⭐ 497 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/zc-alexfan/hold) · [官网](https://zc-alexfan.github.io/hold) · 组织维护
 
 **CVPR'24 方法：单目视频免模板联合重建手与物体 3D**
 
@@ -44,13 +44,13 @@ HOLD 是 CVPR 2024 Highlight 论文的官方仓库，提供从单目视频联合
 
 ```mermaid
 xychart-beta
-    title "zc-alexfan/hold 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 491 --> 495
-    line [492, 493, 494, 494]
+    title "zc-alexfan/hold 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 491 --> 498
+    line [492, 493, 494, 496, 497, 497]
 ```
 
-2026-10-18 492 → 2026-11-02 494（+2）
+2026-10-18 492 → 2026-11-17 497（+5）
 
 
 ---

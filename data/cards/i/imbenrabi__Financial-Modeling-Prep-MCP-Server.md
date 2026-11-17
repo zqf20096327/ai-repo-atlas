@@ -1,6 +1,6 @@
 # imbenrabi/Financial-Modeling-Prep-MCP-Server
 
-⭐ 150 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) · 个人维护
+⭐ 149 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) · 个人维护
 
 **为 AI 助手接入 Financial Modeling Prep 金融数据的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "imbenrabi/Financial-Modeling-Prep-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 149 --> 151
-    line [150, 150]
+    title "imbenrabi/Financial-Modeling-Prep-MCP-Server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 148 --> 151
+    line [150, 149, 149]
 ```
 
-2026-10-18 150 → 2026-11-02 150（+0）
+2026-10-18 150 → 2026-11-17 149（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # OnestarQQ/amazon-visual-architect-skill
 
-⭐ 14 · Python · 推送 2026-03-17 · [GitHub](https://github.com/OnestarQQ/amazon-visual-architect-skill) · 个人维护 · 中文 README
+⭐ 16 · Python · 推送 2026-03-17 · [GitHub](https://github.com/OnestarQQ/amazon-visual-architect-skill) · 个人维护 · 中文 README
 
 **亚马逊商品套图 Prompt 生成的 AI 技能包，面向电商卖家**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OnestarQQ/amazon-visual-architect-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "OnestarQQ/amazon-visual-architect-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # CrestApps/CrestApps.AgentSkills
 
-⭐ 13 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/CrestApps/CrestApps.AgentSkills) · [官网](https://crestapps.com/) · 个人维护
+⭐ 13 · C# · MIT · 推送 2026-11-10 · [GitHub](https://github.com/CrestApps/CrestApps.AgentSkills) · [官网](https://crestapps.com/) · 个人维护
 
 **.NET 与 Orchard Core 的共享 AI agent 技能与 MCP 工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CrestApps/CrestApps.AgentSkills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

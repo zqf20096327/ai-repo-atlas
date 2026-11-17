@@ -1,6 +1,6 @@
 # 5uck1ess/cicero
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/5uck1ess/cicero) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/5uck1ess/cicero) · 个人维护
 
 **自托管语音前端：用语音对话驱动编码 agent 干活**
 
@@ -44,13 +44,13 @@ Cicero 是部署在本地/局域网的语音界面，用户从浏览器、PWA �
 
 ```mermaid
 xychart-beta
-    title "5uck1ess/cicero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 63 --> 67
-    line [64, 65, 66, 66]
+    title "5uck1ess/cicero 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 63 --> 69
+    line [64, 65, 66, 64, 67, 68, 68]
 ```
 
-2026-10-18 64 → 2026-11-02 66（+2）
+2026-10-18 64 → 2026-11-17 68（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # symgraph/BinAssist
 
-⭐ 68 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/BinAssist) · 个人维护
+⭐ 70 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/BinAssist) · 个人维护
 
 **Binary Ninja 的 LLM 逆向分析插件：函数解释、重命名建议与语义图**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "symgraph/BinAssist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    title "symgraph/BinAssist 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 66 --> 71
+    line [67, 68, 69, 70, 70]
 ```
 
-2026-10-18 67 → 2026-11-02 68（+1）
+2026-10-18 67 → 2026-11-17 70（+3）
 
 
 ---

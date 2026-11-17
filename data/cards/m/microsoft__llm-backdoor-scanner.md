@@ -1,6 +1,6 @@
 # microsoft/llm-backdoor-scanner
 
-⭐ 46 · Jupyter Notebook · MIT · 推送 2026-03-26 · [GitHub](https://github.com/microsoft/llm-backdoor-scanner) · 组织维护
+⭐ 50 · Jupyter Notebook · MIT · 推送 2026-03-26 · [GitHub](https://github.com/microsoft/llm-backdoor-scanner) · 组织维护
 
 **检测并重建微调 LLM 中隐藏后门触发词的研究框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/llm-backdoor-scanner 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 39 --> 47
-    line [40, 42, 43, 45, 46, 46]
+    title "microsoft/llm-backdoor-scanner 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 39 --> 51
+    line [40, 42, 43, 45, 46, 43, 49, 50, 50]
 ```
 
-2026-10-18 40 → 2026-11-02 46（+6）
+2026-10-18 40 → 2026-11-17 50（+10）
 
 
 ---

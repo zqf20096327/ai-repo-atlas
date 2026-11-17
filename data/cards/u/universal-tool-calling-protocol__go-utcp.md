@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/go-utcp
 
-⭐ 127 · Go · MPL-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/universal-tool-calling-protocol/go-utcp) · [官网](https://www.utcp.io/) · 组织维护
+⭐ 134 · Go · MPL-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/universal-tool-calling-protocol/go-utcp) · [官网](https://www.utcp.io/) · 组织维护
 
 **UTCP 协议的 Go 实现：统一客户端抽象发现与调用异构工具**
 
@@ -44,13 +44,13 @@ Universal Tool Calling Protocol 的官方 Go 客户端库：在 HTTP、gRPC、Gr
 
 ```mermaid
 xychart-beta
-    title "universal-tool-calling-protocol/go-utcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 124 --> 128
-    line [125, 126, 127, 127]
+    title "universal-tool-calling-protocol/go-utcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 124 --> 135
+    line [125, 126, 127, 125, 132, 133, 134, 134]
 ```
 
-2026-10-18 125 → 2026-11-02 127（+2）
+2026-10-18 125 → 2026-11-17 134（+9）
 
 
 ---

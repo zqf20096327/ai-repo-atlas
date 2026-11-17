@@ -1,6 +1,6 @@
 # wwjjqq888888-pixel/nanfeng-h3-comfyui
 
-⭐ 30 · Python · 推送 2026-09-01 · [GitHub](https://github.com/wwjjqq888888-pixel/nanfeng-h3-comfyui) · 个人维护 · 中文 README
+⭐ 32 · Python · 推送 2026-09-01 · [GitHub](https://github.com/wwjjqq888888-pixel/nanfeng-h3-comfyui) · 个人维护 · 中文 README
 
 **MiniMax H3 的 ComfyUI 一体化节点：多参考、分镜与音频驱动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wwjjqq888888-pixel/nanfeng-h3-comfyui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "wwjjqq888888-pixel/nanfeng-h3-comfyui 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 29, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # psyb0t/aigate
 
-⭐ 17 · Shell · WTFPL · 推送 2026-10-21 · [GitHub](https://github.com/psyb0t/aigate) · [官网](https://ciprian.51k.eu/aigate-your-own-ai-infrastructure/) · 个人维护
+⭐ 18 · Shell · WTFPL · 推送 2026-11-05 · [GitHub](https://github.com/psyb0t/aigate) · [官网](https://ciprian.51k.eu/aigate-your-own-ai-infrastructure/) · 个人维护
 
 **自托管 AI 平台：推理/工具/浏览器/生成等能力统一为 OpenAI 兼容端点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "psyb0t/aigate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "psyb0t/aigate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

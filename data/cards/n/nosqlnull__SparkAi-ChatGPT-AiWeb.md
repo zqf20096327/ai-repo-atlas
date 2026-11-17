@@ -1,6 +1,6 @@
 # nosqlnull/SparkAi-ChatGPT-AiWeb
 
-⭐ 76 · JavaScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb) · [官网](https://docs.sparkaigc.com) · 个人维护 · 中文 README
+⭐ 77 · JavaScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb) · [官网](https://docs.sparkaigc.com) · 个人维护 · 中文 README
 
 **可私有部署的 AIGC 商业网站系统：AI 对话/绘画/视频+会员支付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nosqlnull/SparkAi-ChatGPT-AiWeb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    title "nosqlnull/SparkAi-ChatGPT-AiWeb 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

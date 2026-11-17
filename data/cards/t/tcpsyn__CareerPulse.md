@@ -1,6 +1,6 @@
 # tcpsyn/CareerPulse
 
-⭐ 21 · JavaScript · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/tcpsyn/CareerPulse) · 个人维护
+⭐ 22 · JavaScript · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/tcpsyn/CareerPulse) · 个人维护
 
 **自托管求职平台：抓取14个招聘源并用AI评分、生成简历与自动填表**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tcpsyn/CareerPulse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "tcpsyn/CareerPulse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/obeaver
 
-⭐ 39 · HTML · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/obeaver) · [官网](https://microsoft.github.io/obeaver/) · 组织维护 · 中文 README
+⭐ 39 · HTML · MIT · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/obeaver) · [官网](https://microsoft.github.io/obeaver/) · 组织维护 · 中文 README
 
 **本地 LLM 推理工具包：OpenAI 兼容 API，数据不出本机**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/obeaver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 39（+0）
 
 
 ---

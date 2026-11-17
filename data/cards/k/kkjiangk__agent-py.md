@@ -1,6 +1,6 @@
 # kkjiangk/agent-py
 
-⭐ 101 · Python · 推送 2026-10-04 · [GitHub](https://github.com/kkjiangk/agent-py) · 个人维护 · 中文 README
+⭐ 100 · Python · 推送 2026-10-04 · [GitHub](https://github.com/kkjiangk/agent-py) · 个人维护 · 中文 README
 
 **个人 AIOps 工程：用 agent 诊断告警并生成带证据的处置报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kkjiangk/agent-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    title "kkjiangk/agent-py 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 99 --> 102
+    line [101, 100, 100]
 ```
 
-2026-10-18 101 → 2026-11-02 101（+0）
+2026-10-18 101 → 2026-11-17 100（-1）
 
 
 ---

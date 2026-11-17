@@ -1,6 +1,6 @@
 # Navarre-AI/pythia
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Navarre-AI/pythia) · [官网](https://navarre.ai/apps/pythia) · 组织维护
+⭐ 16 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Navarre-AI/pythia) · [官网](https://navarre.ai/apps/pythia) · 组织维护
 
 **面向 FileMaker 数据库的对话式报表应用：自然语言出报表**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Navarre-AI/pythia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Navarre-AI/pythia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

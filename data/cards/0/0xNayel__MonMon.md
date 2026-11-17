@@ -1,6 +1,6 @@
 # 0xNayel/MonMon
 
-⭐ 47 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/0xNayel/MonMon) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/0xNayel/MonMon) · 个人维护
 
 **面向赏金猎人的自动化变更监控与告警工具**
 
@@ -44,13 +44,13 @@ MonMon 用 Go 编写，面向漏洞赏金猎人，按设定间隔对四类对象
 
 ```mermaid
 xychart-beta
-    title "0xNayel/MonMon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 46 --> 49
-    line [48, 47, 47]
+    title "0xNayel/MonMon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 46 --> 50
+    line [48, 47, 48, 47, 48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 47（-1）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mandubian/ccos
 
-⭐ 12 · Rust · NOASSERTION · 推送 2026-03-22 · [GitHub](https://github.com/mandubian/ccos) · 个人维护
+⭐ 12 · Rust · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/mandubian/ccos) · 个人维护
 
 **面向受治理自主智能体的运行时与专用语言（Rust）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mandubian/ccos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

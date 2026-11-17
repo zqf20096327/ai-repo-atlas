@@ -1,6 +1,6 @@
 # devmount/GermanWordEmbeddings
 
-⭐ 245 · Jupyter Notebook · MIT · 推送 2026-10-07 · [GitHub](https://github.com/devmount/GermanWordEmbeddings) · [官网](https://devmount.github.io/GermanWordEmbeddings/) · 个人维护
+⭐ 245 · Jupyter Notebook · MIT · 推送 2026-11-03 · [GitHub](https://github.com/devmount/GermanWordEmbeddings) · [官网](https://devmount.github.io/GermanWordEmbeddings/) · 个人维护
 
 **德语词向量训练工具：语料获取、预处理、训练与评估**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devmount/GermanWordEmbeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 244 --> 246
-    line [245, 245]
+    title "devmount/GermanWordEmbeddings 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 243 --> 246
+    line [245, 244, 245, 245]
 ```
 
-2026-10-18 245 → 2026-11-02 245（+0）
+2026-10-18 245 → 2026-11-17 245（+0）
 
 
 ---

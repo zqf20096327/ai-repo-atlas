@@ -1,6 +1,6 @@
 # Gilbert09/talyn
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Gilbert09/talyn) · [官网](https://talyn.dev) · 个人维护
+⭐ 21 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Gilbert09/talyn) · [官网](https://talyn.dev) · 个人维护
 
 **AI 云编码代理驱动的 GitHub PR 管控与自动修复工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gilbert09/talyn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "Gilbert09/talyn 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 22
+    line [12, 13, 14, 12, 15, 16, 17, 21, 21]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 21（+9）
 
 
 ---

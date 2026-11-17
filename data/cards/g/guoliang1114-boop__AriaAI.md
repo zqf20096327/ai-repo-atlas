@@ -1,6 +1,6 @@
 # guoliang1114-boop/AriaAI
 
-⭐ 40 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/guoliang1114-boop/AriaAI) · [官网](https://aria.d2cgo.co/) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/guoliang1114-boop/AriaAI) · [官网](https://aria.d2cgo.co/) · 个人维护 · 中文 README
 
 **面向专业知识工作的开源 Agentic 工作区，含项目/客户记忆与技能工作流**
 
@@ -45,13 +45,13 @@ AriaAI 是开源的 AI-native 工作区，面向专业团队的知识工作：�
 
 ```mermaid
 xychart-beta
-    title "guoliang1114-boop/AriaAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "guoliang1114-boop/AriaAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

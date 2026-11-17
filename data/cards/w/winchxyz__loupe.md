@@ -1,6 +1,6 @@
 # winchxyz/loupe
 
-⭐ 19 · CSS · MIT · 推送 2026-08-06 · [GitHub](https://github.com/winchxyz/loupe) · [官网](https://tryloupe.app/) · 个人维护
+⭐ 20 · CSS · MIT · 推送 2026-08-06 · [GitHub](https://github.com/winchxyz/loupe) · [官网](https://tryloupe.app/) · 个人维护
 
 **Windows 本地 AI 网站构建与设计工作室，AI 生成+人工精修**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "winchxyz/loupe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19, 19]
+    title "winchxyz/loupe 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 18, 19, 18, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-17 20（+4）
 
 
 ---

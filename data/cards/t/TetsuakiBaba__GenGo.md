@@ -1,6 +1,6 @@
 # TetsuakiBaba/GenGo
 
-⭐ 20 · Swift · 推送 2026-08-26 · [GitHub](https://github.com/TetsuakiBaba/GenGo) · [官网](https://tetsuakibaba.github.io/GenGo/) · 个人维护
+⭐ 19 · Swift · 推送 2026-08-26 · [GitHub](https://github.com/TetsuakiBaba/GenGo) · [官网](https://tetsuakibaba.github.io/GenGo/) · 个人维护
 
 **macOS 菜单栏本地 LLM 文本处理工具：划词翻译/改写/生成**
 
@@ -46,13 +46,13 @@ Swift/SwiftUI 原生 macOS 菜单栏应用：监听全局快捷键，捕获选�
 
 ```mermaid
 xychart-beta
-    title "TetsuakiBaba/GenGo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "TetsuakiBaba/GenGo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

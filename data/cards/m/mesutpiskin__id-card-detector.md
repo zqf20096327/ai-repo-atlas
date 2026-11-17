@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mesutpiskin/id-card-detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 331 --> 333
-    line [332, 332]
+    title "mesutpiskin/id-card-detector 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 331 --> 334
+    line [332, 333, 332, 332]
 ```
 
-2026-10-18 332 → 2026-11-02 332（+0）
+2026-10-18 332 → 2026-11-17 332（+0）
 
 
 ---

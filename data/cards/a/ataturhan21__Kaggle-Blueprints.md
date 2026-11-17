@@ -1,6 +1,6 @@
 # ataturhan21/Kaggle-Blueprints
 
-⭐ 25 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ataturhan21/Kaggle-Blueprints) · 个人维护
+⭐ 25 · Jupyter Notebook · 推送 2026-11-14 · [GitHub](https://github.com/ataturhan21/Kaggle-Blueprints) · 个人维护
 
 **表格分类/回归任务的实验性 Jupyter 笔记本模板**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ataturhan21/Kaggle-Blueprints 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
+    x-axis ["2026-11-01", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-11-01 25 → 2026-11-02 25（+0）
+2026-11-01 25 → 2026-11-17 25（+0）
 
 
 ---

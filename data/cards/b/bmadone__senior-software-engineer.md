@@ -1,6 +1,6 @@
 # bmadone/senior-software-engineer
 
-⭐ 461 · 推送 2026-05-09 · [GitHub](https://github.com/bmadone/senior-software-engineer) · 个人维护
+⭐ 465 · 推送 2026-05-09 · [GitHub](https://github.com/bmadone/senior-software-engineer) · 个人维护
 
 **高级软件工程师面试与晋升准备的资源合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bmadone/senior-software-engineer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 456 --> 462
-    line [457, 458, 461, 461]
+    title "bmadone/senior-software-engineer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 456 --> 466
+    line [457, 458, 461, 458, 463, 464, 465, 465]
 ```
 
-2026-10-18 457 → 2026-11-02 461（+4）
+2026-10-18 457 → 2026-11-17 465（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # complex-reasoning/RPG
 
-⭐ 78 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/complex-reasoning/RPG) · [官网](https://complex-reasoning.github.io/RPG/) · 组织维护 · 中文 README
+⭐ 78 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/complex-reasoning/RPG) · [官网](https://complex-reasoning.github.io/RPG/) · 组织维护 · 中文 README
 
 **面向 LLM 推理的 KL 正则化策略梯度 RL 训练框架（ICLR 2026 论文代码）**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文 "On the Design of KL-Regularized Policy Gradient Algorithms for
 ```mermaid
 xychart-beta
     title "complex-reasoning/RPG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 78（+0）
 
 
 ---

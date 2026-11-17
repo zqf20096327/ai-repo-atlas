@@ -1,6 +1,6 @@
 # ryan-yuuu/crypto-trading-arena
 
-⭐ 130 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/ryan-yuuu/crypto-trading-arena) · 个人维护
+⭐ 131 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/ryan-yuuu/crypto-trading-arena) · 个人维护
 
 **多 AI agent 加密货币交易竞技场：接入实时行情自主交易**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryan-yuuu/crypto-trading-arena 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    title "ryan-yuuu/crypto-trading-arena 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 129 --> 132
+    line [130, 131, 131]
 ```
 
-2026-10-18 130 → 2026-11-02 130（+0）
+2026-10-18 130 → 2026-11-17 131（+1）
 
 
 ---

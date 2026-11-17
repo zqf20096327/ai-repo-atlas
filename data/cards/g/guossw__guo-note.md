@@ -1,6 +1,6 @@
 # guossw/guo-note
 
-⭐ 12 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/guossw/guo-note) · [官网](https://guo-note.pages.dev/) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-11-05 · [GitHub](https://github.com/guossw/guo-note) · [官网](https://guo-note.pages.dev/) · 个人维护
 
 **个人学习笔记仓库（README 为空）**
 
@@ -36,12 +36,12 @@
 ```mermaid
 xychart-beta
     title "guossw/guo-note 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

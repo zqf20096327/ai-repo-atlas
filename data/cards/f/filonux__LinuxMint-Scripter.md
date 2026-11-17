@@ -1,6 +1,6 @@
 # filonux/LinuxMint-Scripter
 
-⭐ 31 · HTML · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/filonux/LinuxMint-Scripter) · [官网](https://filonux.github.io/LinuxMint-Scripter/) · 个人维护
+⭐ 35 · HTML · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/filonux/LinuxMint-Scripter) · [官网](https://filonux.github.io/LinuxMint-Scripter/) · 个人维护
 
 **面向 Linux Mint 的单文件网页版 AI 脚本生成与审查工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "filonux/LinuxMint-Scripter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "filonux/LinuxMint-Scripter 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 33, 34, 35, 35]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 35（+4）
 
 
 ---

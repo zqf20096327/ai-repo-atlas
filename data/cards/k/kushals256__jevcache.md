@@ -1,6 +1,6 @@
 # kushals256/jevcache
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kushals256/jevcache) · [官网](https://morrowcache.vercel.app) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/kushals256/jevcache) · [官网](https://morrowcache.vercel.app) · 个人维护
 
 **OpenAI 兼容的本地聊天响应缓存代理，同意图问题跳过模型调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kushals256/jevcache 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

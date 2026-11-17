@@ -1,6 +1,6 @@
 # prokopai/prokop
 
-⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/prokopai/prokop) · [官网](https://prokopai.dev/) · 个人维护
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/prokopai/prokop) · [官网](https://prokopai.dev/) · 个人维护
 
 **自托管编码 agent 工作台：让多个编码 agent 跨项目保留记忆与技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "prokopai/prokop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "prokopai/prokop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # francelico/PERSIST
 
-⭐ 128 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/francelico/PERSIST) · [官网](https://francelico.github.io/persist.github.io/) · 组织维护
+⭐ 131 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/francelico/PERSIST) · [官网](https://francelico.github.io/persist.github.io/) · 组织维护
 
 **科研代码：生成可探索体素世界的持久 3D 状态世界模型**
 
@@ -45,13 +45,13 @@ ICML 2026 论文 Beyond Pixel Histories 的官方代码库。PERSIST 是基于�
 
 ```mermaid
 xychart-beta
-    title "francelico/PERSIST 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 124 --> 129
-    line [125, 126, 127, 128, 128]
+    title "francelico/PERSIST 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 124 --> 132
+    line [125, 126, 127, 128, 127, 129, 130, 131, 131]
 ```
 
-2026-10-18 125 → 2026-11-02 128（+3）
+2026-10-18 125 → 2026-11-17 131（+6）
 
 
 ---

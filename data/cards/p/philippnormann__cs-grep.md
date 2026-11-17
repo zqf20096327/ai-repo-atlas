@@ -1,6 +1,6 @@
 # philippnormann/cs-grep
 
-⭐ 28 · Rust · MIT · 推送 2026-09-18 · [GitHub](https://github.com/philippnormann/cs-grep) · 个人维护
+⭐ 30 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/philippnormann/cs-grep) · 个人维护
 
 **本地索引计算机科学文献的 CLI/TUI 检索工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "philippnormann/cs-grep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [29, 28, 28]
+    title "philippnormann/cs-grep 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [29, 28, 29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 28（-1）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

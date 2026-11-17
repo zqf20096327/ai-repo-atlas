@@ -1,6 +1,6 @@
 # QuantaMinds/QuantaMind
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/QuantaMinds/QuantaMind) · [官网](https://www.quantamind.co/) · 组织维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/QuantaMinds/QuantaMind) · [官网](https://www.quantamind.co/) · 组织维护
 
 **本地 LLM 的 Agent 就绪度评测工作台，输出部署前裁决**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuantaMinds/QuantaMind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "QuantaMinds/QuantaMind 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

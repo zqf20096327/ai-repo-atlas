@@ -1,6 +1,6 @@
 # kyegomez/AudioMamba
 
-⭐ 15 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/AudioMamba) · [官网](https://github.com/kyegomez/swarms) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/AudioMamba) · [官网](https://github.com/kyegomez/swarms) · 个人维护
 
 **AudioMamba 论文的 PyTorch 实现：音频表示学习**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/AudioMamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

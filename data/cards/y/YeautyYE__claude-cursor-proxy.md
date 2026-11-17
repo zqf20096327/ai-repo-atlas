@@ -1,6 +1,6 @@
 # YeautyYE/claude-cursor-proxy
 
-⭐ 12 · Rust · MIT · 推送 2026-09-08 · [GitHub](https://github.com/YeautyYE/claude-cursor-proxy) · 个人维护 · 中文 README
+⭐ 11 · Rust · MIT · 推送 2026-09-08 · [GitHub](https://github.com/YeautyYE/claude-cursor-proxy) · 个人维护 · 中文 README
 
 **本地代理：让 Claude Code 与 grok-build 使用 Cursor（Fable）等模型**
 
@@ -45,13 +45,13 @@ Rust 编写的本地单向代理（默认 127.0.0.1:18765），把 Claude Code �
 
 ```mermaid
 xychart-beta
-    title "YeautyYE/claude-cursor-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "YeautyYE/claude-cursor-proxy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11, 12, 11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

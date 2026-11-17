@@ -1,6 +1,6 @@
 # JUVOJustin/opencode-ddev
 
-⭐ 12 · TypeScript · 推送 2026-03-01 · [GitHub](https://github.com/JUVOJustin/opencode-ddev) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-03-01 · [GitHub](https://github.com/JUVOJustin/opencode-ddev) · 个人维护
 
 **让 OpenCode AI agent 兼容 DDEV 容器环境的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JUVOJustin/opencode-ddev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "JUVOJustin/opencode-ddev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Oshayr/LLM-Wiki
 
-⭐ 50 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Oshayr/LLM-Wiki) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Oshayr/LLM-Wiki) · 个人维护
 
 **Claude Code 知识库插件：自动沉淀研究/决策为互链 wiki**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Oshayr/LLM-Wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "Oshayr/LLM-Wiki 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

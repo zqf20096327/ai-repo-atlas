@@ -1,6 +1,6 @@
 # aws-samples/aws-lex-web-ui
 
-⭐ 814 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/aws-lex-web-ui) · 组织维护
+⭐ 815 · JavaScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/aws-samples/aws-lex-web-ui) · 组织维护
 
 **给网站开发者的 Amazon Lex 聊天机器人 Web 界面组件**
 
@@ -45,13 +45,13 @@ Amazon Lex 的示例聊天界面：提供可直接集成到网站的聊天 UI �
 
 ```mermaid
 xychart-beta
-    title "aws-samples/aws-lex-web-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "aws-samples/aws-lex-web-ui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 813 --> 817
-    line [816, 814, 814]
+    line [816, 814, 816, 815, 815]
 ```
 
-2026-10-18 816 → 2026-11-02 814（-2）
+2026-10-18 816 → 2026-11-17 815（-1）
 
 
 ---

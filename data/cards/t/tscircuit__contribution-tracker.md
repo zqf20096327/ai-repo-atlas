@@ -1,6 +1,6 @@
 # tscircuit/contribution-tracker
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/tscircuit/contribution-tracker) · [官网](https://contributions.tscircuit.com) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tscircuit/contribution-tracker) · [官网](https://contributions.tscircuit.com) · 组织维护
 
 **用 LLM 扫描 PR 生成周度贡献概览与月度变更日志的网站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tscircuit/contribution-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "tscircuit/contribution-tracker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

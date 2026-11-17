@@ -1,6 +1,6 @@
 # ProjectArgus-cc/libargus.cc
 
-⭐ 19 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ProjectArgus-cc/libargus.cc) · [官网](https://projectargus.cc) · 组织维护
+⭐ 20 · Java · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ProjectArgus-cc/libargus.cc) · [官网](https://projectargus.cc) · 组织维护
 
 **Java/Android/C++ 进程内本地多模态 AI 推理运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProjectArgus-cc/libargus.cc 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "ProjectArgus-cc/libargus.cc 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 20, 20]
 ```
 
-2026-10-23 18 → 2026-11-02 19（+1）
+2026-10-23 18 → 2026-11-17 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # febbhav/signs-of-ai-design
 
-⭐ 32 · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/febbhav/signs-of-ai-design) · [官网](http://www.febian.com) · 个人维护
+⭐ 37 · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/febbhav/signs-of-ai-design) · [官网](http://www.febian.com) · 个人维护
 
 **AI 生成设计视觉特征指南：帮助识别与规避 AI 味设计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "febbhav/signs-of-ai-design 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 29, 31, 32, 32]
+    title "febbhav/signs-of-ai-design 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 26 --> 38
+    line [27, 28, 29, 31, 32, 31, 35, 37, 37]
 ```
 
-2026-10-18 27 → 2026-11-02 32（+5）
+2026-10-18 27 → 2026-11-17 37（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/fabric-architecture-review
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/fabric-architecture-review) · 组织维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/fabric-architecture-review) · 组织维护
 
 **给企业评审团队的 Microsoft Fabric 租户架构审查加速器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/fabric-architecture-review 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "microsoft/fabric-architecture-review 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 30
+    line [23, 24, 25, 24, 27, 28, 29, 29]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 29（+6）
 
 
 ---

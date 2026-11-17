@@ -1,6 +1,6 @@
 # time-series-machine-learning/tsml-eval
 
-⭐ 60 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/time-series-machine-learning/tsml-eval) · [官网](https://tsml-eval.readthedocs.io/) · 组织维护
+⭐ 61 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/time-series-machine-learning/tsml-eval) · [官网](https://tsml-eval.readthedocs.io/) · 组织维护
 
 **时间序列机器学习算法的评测与基准测试工具库**
 
@@ -42,13 +42,13 @@ tsml-eval 提供面向时间序列机器学习算法的基准测试与评测工�
 
 ```mermaid
 xychart-beta
-    title "time-series-machine-learning/tsml-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "time-series-machine-learning/tsml-eval 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

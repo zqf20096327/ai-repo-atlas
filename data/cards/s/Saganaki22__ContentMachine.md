@@ -1,6 +1,6 @@
 # Saganaki22/ContentMachine
 
-⭐ 126 · JavaScript · Apache-2.0 · 推送 2026-03-02 · [GitHub](https://github.com/Saganaki22/ContentMachine) · [官网](http://drbaph.is-a.dev/ContentMachine/) · 个人维护
+⭐ 133 · JavaScript · Apache-2.0 · 推送 2026-03-02 · [GitHub](https://github.com/Saganaki22/ContentMachine) · [官网](http://drbaph.is-a.dev/ContentMachine/) · 个人维护
 
 **从单一主题生成纪录式视频的端到端 AI 流水线应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ContentMachine 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 117 --> 127
-    line [118, 119, 120, 121, 122, 124, 125, 126]
+    title "Saganaki22/ContentMachine 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 117 --> 134
+    line [118, 119, 120, 121, 122, 124, 125, 126, 121, 131, 132, 133, 133]
 ```
 
-2026-10-18 118 → 2026-11-02 126（+8）
+2026-10-18 118 → 2026-11-17 133（+15）
 
 
 ---

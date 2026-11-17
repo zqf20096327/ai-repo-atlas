@@ -1,6 +1,6 @@
 # khlaifiabilel/awesome-geospatial-super-resolution
 
-⭐ 12 · CC0-1.0 · 推送 2026-08-03 · [GitHub](https://github.com/khlaifiabilel/awesome-geospatial-super-resolution) · 个人维护
+⭐ 13 · CC0-1.0 · 推送 2026-08-03 · [GitHub](https://github.com/khlaifiabilel/awesome-geospatial-super-resolution) · 个人维护
 
 **遥感/对地观测超分辨率算法、数据集与论文策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "khlaifiabilel/awesome-geospatial-super-resolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "khlaifiabilel/awesome-geospatial-super-resolution 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

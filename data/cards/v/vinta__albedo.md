@@ -1,6 +1,6 @@
 # vinta/albedo
 
-⭐ 190 · Scala · MIT · 推送 2025-12-18 · [GitHub](https://github.com/vinta/albedo) · 个人维护 · 中文 README
+⭐ 191 · Scala · MIT · 推送 2025-12-18 · [GitHub](https://github.com/vinta/albedo) · 个人维护 · 中文 README
 
 **用 Apache Spark 构建的 GitHub 仓库推荐系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vinta/albedo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 189 --> 191
-    line [190, 190]
+    title "vinta/albedo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 189 --> 192
+    line [190, 191, 191]
 ```
 
-2026-10-18 190 → 2026-11-02 190（+0）
+2026-10-18 190 → 2026-11-17 191（+1）
 
 
 ---

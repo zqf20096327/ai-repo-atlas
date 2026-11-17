@@ -1,6 +1,6 @@
 # genai-nantes-meetup/meetups
 
-⭐ 47 · HTML · 推送 2026-10-09 · [GitHub](https://github.com/genai-nantes-meetup/meetups) · [官网](https://www.meetup.com/generative-ai-nantes/) · 组织维护
+⭐ 50 · HTML · 推送 2026-11-06 · [GitHub](https://github.com/genai-nantes-meetup/meetups) · [官网](https://www.meetup.com/generative-ai-nantes/) · 组织维护
 
 **南特 GenAI 聚会活动资源清单：历届活动日程与讲者**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "genai-nantes-meetup/meetups 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "genai-nantes-meetup/meetups 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 51
+    line [47, 50, 50]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 50（+3）
 
 
 ---

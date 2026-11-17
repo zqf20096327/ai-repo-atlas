@@ -1,6 +1,6 @@
 # haseeb-heaven/open-agent
 
-⭐ 278 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/haseeb-heaven/open-agent) · [官网](https://www.npmjs.com/package/@haseeb_heaven/open-agent) · 个人维护
+⭐ 279 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/haseeb-heaven/open-agent) · [官网](https://www.npmjs.com/package/@haseeb_heaven/open-agent) · 个人维护
 
 **终端里的开源 AI agent：自然语言下任务，多模型本地/云端执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "haseeb-heaven/open-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 277 --> 279
-    line [278, 278]
+    title "haseeb-heaven/open-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 277 --> 280
+    line [278, 279, 279]
 ```
 
-2026-10-18 278 → 2026-11-02 278（+0）
+2026-10-18 278 → 2026-11-17 279（+1）
 
 
 ---

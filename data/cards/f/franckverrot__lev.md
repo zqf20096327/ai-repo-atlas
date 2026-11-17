@@ -1,6 +1,6 @@
 # franckverrot/lev
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/franckverrot/lev) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/franckverrot/lev) · 个人维护
 
 **Jev 式决策模型原型：基于 LFM2.5-350M 单次前向输出问题概率**
 
@@ -44,13 +44,13 @@ kev 的克隆，将 Qwen 骨干替换为 LiquidAI LFM2.5-350M 的 Jev 风格决�
 
 ```mermaid
 xychart-beta
-    title "franckverrot/lev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "franckverrot/lev 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

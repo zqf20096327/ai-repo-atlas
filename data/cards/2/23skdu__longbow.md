@@ -1,6 +1,6 @@
 # 23skdu/longbow
 
-⭐ 13 · Go · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/23skdu/longbow) · [官网](https://github.com/23skdu/longbow) · 个人维护
+⭐ 14 · Go · Unlicense · 推送 2026-11-16 · [GitHub](https://github.com/23skdu/longbow) · [官网](https://github.com/23skdu/longbow) · 个人维护
 
 **分布式向量引擎：为 Agent 记忆共享提供低延迟向量检索**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Unlicense |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "23skdu/longbow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "23skdu/longbow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

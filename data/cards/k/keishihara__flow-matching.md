@@ -1,6 +1,6 @@
 # keishihara/flow-matching
 
-⭐ 130 · Python · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/keishihara/flow-matching) · 个人维护
+⭐ 131 · Python · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/keishihara/flow-matching) · 个人维护
 
 **Flow Matching 论文的 PyTorch 实现，含 CFM 与 Reflow 训练**
 
@@ -44,13 +44,13 @@ PyTorch 实现 Flow Matching for Generative Modeling 论文的方法：支持 Co
 
 ```mermaid
 xychart-beta
-    title "keishihara/flow-matching 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 127 --> 131
-    line [128, 129, 130, 130]
+    title "keishihara/flow-matching 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 127 --> 132
+    line [128, 129, 130, 129, 131, 131]
 ```
 
-2026-10-18 128 → 2026-11-02 130（+2）
+2026-10-18 128 → 2026-11-17 131（+3）
 
 
 ---

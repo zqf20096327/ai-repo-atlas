@@ -1,6 +1,6 @@
 # NikitaDmitrieff/auto-co-meta
 
-⭐ 52 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/NikitaDmitrieff/auto-co-meta) · [官网](https://runautoco.com) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/NikitaDmitrieff/auto-co-meta) · [官网](https://runautoco.com) · 个人维护
 
 **终端运行的自主 AI 公司：bash 循环驱动 14 个 agent 全天候开发部署软件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NikitaDmitrieff/auto-co-meta 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "NikitaDmitrieff/auto-co-meta 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    line [51, 52, 51, 52, 51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 52（+1）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

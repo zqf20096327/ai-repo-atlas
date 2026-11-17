@@ -1,6 +1,6 @@
 # emqnuele/projectBEA
 
-⭐ 27 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/emqnuele/projectBEA) · [官网](https://projectbea.emqnuele.dev/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/emqnuele/projectBEA) · [官网](https://projectbea.emqnuele.dev/) · 个人维护
 
 **跨平台常驻 AI 虚拟人格引擎：在 Discord/Telegram/Twitch/Minecraft 中同一心智**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "emqnuele/projectBEA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 27, 27]
+    title "emqnuele/projectBEA 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 24 --> 32
+    line [25, 27, 29, 30, 31, 31]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 31（+6）
 
 
 ---

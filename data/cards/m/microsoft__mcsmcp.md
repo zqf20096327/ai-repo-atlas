@@ -1,6 +1,6 @@
 # microsoft/mcsmcp
 
-⭐ 340 · 推送 2026-03-08 · [GitHub](https://github.com/microsoft/mcsmcp) · 组织维护
+⭐ 342 · 推送 2026-03-08 · [GitHub](https://github.com/microsoft/mcsmcp) · 组织维护
 
 **创建 MCP Server 并在 Copilot Studio 使用的实验教程（已迁移）**
 
@@ -40,13 +40,13 @@ Microsoft 维护的实验室教程仓库，主题为创建 MCP Server 并在 Mic
 
 ```mermaid
 xychart-beta
-    title "microsoft/mcsmcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 339 --> 341
-    line [340, 340]
+    title "microsoft/mcsmcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 339 --> 343
+    line [340, 342, 342]
 ```
 
-2026-10-18 340 → 2026-11-02 340（+0）
+2026-10-18 340 → 2026-11-17 342（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # johnson7788/TrainPPTAgent
 
-⭐ 528 · Vue · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/johnson7788/TrainPPTAgent) · 个人维护 · 中文 README
+⭐ 530 · Vue · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/johnson7788/TrainPPTAgent) · 个人维护 · 中文 README
 
 **输入主题自动生成套用模板的 PPT 的 AI 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnson7788/TrainPPTAgent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 522 --> 529
-    line [523, 524, 525, 526, 527, 528]
+    title "johnson7788/TrainPPTAgent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 522 --> 531
+    line [523, 524, 525, 526, 527, 528, 525, 529, 530, 530]
 ```
 
-2026-10-18 523 → 2026-11-02 528（+5）
+2026-10-18 523 → 2026-11-17 530（+7）
 
 
 ---

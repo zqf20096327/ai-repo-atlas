@@ -1,6 +1,6 @@
 # openperf/openclaw-cloud
 
-⭐ 267 · TypeScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/openperf/openclaw-cloud) · [官网](https://mira-nontraditionary-nonfugitively.ngrok-free.dev) · 组织维护 · 中文 README
+⭐ 266 · TypeScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/openperf/openclaw-cloud) · [官网](https://mira-nontraditionary-nonfugitively.ngrok-free.dev) · 组织维护 · 中文 README
 
 **为 OpenClaw AI Agent 提供云端部署与统一管理的面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openperf/openclaw-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 266 --> 268
-    line [267, 267]
+    title "openperf/openclaw-cloud 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 265 --> 268
+    line [267, 266, 266]
 ```
 
-2026-10-18 267 → 2026-11-02 267（+0）
+2026-10-18 267 → 2026-11-17 266（-1）
 
 
 ---

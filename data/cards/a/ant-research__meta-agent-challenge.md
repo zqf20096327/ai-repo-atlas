@@ -1,6 +1,6 @@
 # ant-research/meta-agent-challenge
 
-⭐ 24 · Python · 推送 2026-06-04 · [GitHub](https://github.com/ant-research/meta-agent-challenge) · [官网](https://meta-agent-challenge.com) · 组织维护
+⭐ 25 · Python · 推送 2026-06-04 · [GitHub](https://github.com/ant-research/meta-agent-challenge) · [官网](https://meta-agent-challenge.com) · 组织维护
 
 **评测代码 agent 能否自主构建 agent 的基准（五域两阶段）**
 
@@ -44,13 +44,13 @@ Meta-Agent Challenge（MAC）是一个基准：让元代理（如 Claude Code、
 
 ```mermaid
 xychart-beta
-    title "ant-research/meta-agent-challenge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "ant-research/meta-agent-challenge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # putrkobey/Olla
 
-⭐ 36 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/putrkobey/Olla) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管 LLM 推理节点的负载均衡与代理服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "putrkobey/Olla 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
+    x-axis ["2026-11-01", "2026-11-08"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-01 36 → 2026-11-02 36（+0）
+2026-11-01 36 → 2026-11-08 36（+0）
 
 
 ---

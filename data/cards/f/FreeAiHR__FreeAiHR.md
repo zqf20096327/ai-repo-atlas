@@ -1,6 +1,6 @@
 # FreeAiHR/FreeAiHR
 
-⭐ 66 · Python · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/FreeAiHR/FreeAiHR) · [官网](https://www.freeaihr.com) · 组织维护 · 中文 README
+⭐ 70 · Python · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/FreeAiHR/FreeAiHR) · [官网](https://www.freeaihr.com) · 组织维护 · 中文 README
 
 **企业级 AI 招聘管理系统：简历解析、AI 面试、考评与培训全流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FreeAiHR/FreeAiHR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "FreeAiHR/FreeAiHR 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 64 --> 71
+    line [65, 66, 67, 68, 69, 70, 70]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 70（+5）
 
 
 ---

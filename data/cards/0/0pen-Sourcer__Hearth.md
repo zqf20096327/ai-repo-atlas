@@ -1,6 +1,6 @@
 # 0pen-Sourcer/Hearth
 
-⭐ 33 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/0pen-Sourcer/Hearth) · [官网](https://get-hearth.vercel.app/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/0pen-Sourcer/Hearth) · [官网](https://inglen.app) · 个人维护
 
 **本地优先的 AI 助手框架，可实际操作你的 Windows 电脑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0pen-Sourcer/Hearth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "0pen-Sourcer/Hearth 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 32, 33, 34, 35, 36, 36]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 36（+4）
 
 
 ---

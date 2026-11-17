@@ -1,6 +1,6 @@
 # jaywyawhare/C-ML
 
-⭐ 118 · C · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/jaywyawhare/C-ML) · [官网](https://jaywyawhare.github.io/C-ML/) · 个人维护
+⭐ 119 · C · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jaywyawhare/C-ML) · [官网](https://jaywyawhare.github.io/C-ML/) · 个人维护
 
 **纯 C11 实现的机器学习库：张量、autograd、算子融合编译与 LLM 推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaywyawhare/C-ML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    title "jaywyawhare/C-ML 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 116 --> 120
+    line [117, 118, 117, 118, 119, 119]
 ```
 
-2026-10-18 117 → 2026-11-02 118（+1）
+2026-10-18 117 → 2026-11-17 119（+2）
 
 
 ---

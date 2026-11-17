@@ -1,6 +1,6 @@
 # softcite/software-mentions
 
-⭐ 85 · JavaScript · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/softcite/software-mentions) · 组织维护
+⭐ 84 · JavaScript · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/softcite/software-mentions) · 组织维护
 
 **从学术文献 PDF/XML 中识别软件提及与引用的 GROBID 模块**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "softcite/software-mentions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    title "softcite/software-mentions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 86
+    line [85, 84, 84]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 84（-1）
 
 
 ---

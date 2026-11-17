@@ -1,6 +1,6 @@
 # Agentic-AI-Coach/AgenticAICoach
 
-⭐ 32 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/Agentic-AI-Coach/AgenticAICoach) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/Agentic-AI-Coach/AgenticAICoach) · 组织维护
 
 **面向 AI 创业者的多智能体教练系统（CrewAI 实现）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agentic-AI-Coach/AgenticAICoach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "Agentic-AI-Coach/AgenticAICoach 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

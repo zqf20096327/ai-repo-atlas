@@ -1,6 +1,6 @@
 # pytorch/ort
 
-⭐ 369 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/pytorch/ort) · 组织维护
+⭐ 370 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/pytorch/ort) · 组织维护
 
 **用 ONNX Runtime 加速 PyTorch 训练与推理的库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pytorch/ort 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 368 --> 370
-    line [369, 369]
+    title "pytorch/ort 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 368 --> 371
+    line [369, 370, 370]
 ```
 
-2026-10-18 369 → 2026-11-02 369（+0）
+2026-10-18 369 → 2026-11-17 370（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Chaarangan/Stepgate
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Chaarangan/Stepgate) · [官网](https://www.npmjs.com/package/stepgate) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Chaarangan/Stepgate) · [官网](https://www.npmjs.com/package/stepgate) · 个人维护
 
 **MCP 服务器：以带闸门的步骤文件约束 agent 逐步执行流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chaarangan/Stepgate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Chaarangan/Stepgate 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

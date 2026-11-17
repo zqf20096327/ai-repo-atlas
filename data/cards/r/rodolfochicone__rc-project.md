@@ -1,6 +1,6 @@
 # rodolfochicone/rc-project
 
-⭐ 19 · JavaScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/rodolfochicone/rc-project) · [官网](https://rodolfochicone.dev) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/rodolfochicone/rc-project) · [官网](https://rodolfochicone.dev) · 个人维护
 
 **Claude Code 的工程化 skills/agents/hooks 插件：从想法到 PR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rodolfochicone/rc-project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "rodolfochicone/rc-project 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # joshuaswarren/remnic
 
-⭐ 231 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/joshuaswarren/remnic) · [官网](https://remnic.ai) · 个人维护
+⭐ 233 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/joshuaswarren/remnic) · [官网](https://remnic.ai) · 个人维护
 
 **本地优先的 AI agent 共享记忆与上下文存储**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "joshuaswarren/remnic 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 224 --> 232
-    line [225, 228, 227, 228, 229, 230, 231, 231]
+    title "joshuaswarren/remnic 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 224 --> 234
+    line [225, 228, 227, 228, 229, 230, 231, 229, 232, 233, 233]
 ```
 
-2026-10-18 225 → 2026-11-02 231（+6）
+2026-10-18 225 → 2026-11-17 233（+8）
 
 
 ---

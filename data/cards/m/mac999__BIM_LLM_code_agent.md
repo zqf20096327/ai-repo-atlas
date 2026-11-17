@@ -1,6 +1,6 @@
 # mac999/BIM_LLM_code_agent
 
-⭐ 39 · Python · 推送 2026-05-19 · [GitHub](https://github.com/mac999/BIM_LLM_code_agent) · 个人维护 · 中文 README
+⭐ 41 · Python · 推送 2026-05-19 · [GitHub](https://github.com/mac999/BIM_LLM_code_agent) · 个人维护 · 中文 README
 
 **BIM/IFC 数据分析与代码生成的 LLM Agent，面向论文研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mac999/BIM_LLM_code_agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    title "mac999/BIM_LLM_code_agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 39, 37, 40, 41, 41]
 ```
 
-2026-10-18 37 → 2026-11-02 39（+2）
+2026-10-18 37 → 2026-11-17 41（+4）
 
 
 ---

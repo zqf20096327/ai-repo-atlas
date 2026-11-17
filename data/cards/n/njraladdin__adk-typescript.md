@@ -45,12 +45,12 @@ Google ADK Python 库的非官方 TypeScript 移植，代码优先的 agent 开�
 ```mermaid
 xychart-beta
     title "njraladdin/adk-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-31"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-31 38（+0）
+2026-10-18 38 → 2026-11-07 38（+0）
 
 
 ---

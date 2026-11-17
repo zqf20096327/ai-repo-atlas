@@ -1,6 +1,6 @@
 # ttguy0707/IRIS
 
-⭐ 69 · Python · 推送 2026-03-09 · [GitHub](https://github.com/ttguy0707/IRIS) · 个人维护 · 中文 README
+⭐ 70 · Python · 推送 2026-03-09 · [GitHub](https://github.com/ttguy0707/IRIS) · 个人维护 · 中文 README
 
 **智能体工作流驱动的自动深度调研与报告生成系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ttguy0707/IRIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "ttguy0707/IRIS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 70（+1）
 
 
 ---

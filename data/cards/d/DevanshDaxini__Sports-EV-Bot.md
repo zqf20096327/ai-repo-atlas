@@ -1,6 +1,6 @@
 # DevanshDaxini/Sports-EV-Bot
 
-⭐ 12 · Python · 推送 2026-05-26 · [GitHub](https://github.com/DevanshDaxini/Sports-EV-Bot) · 个人维护
+⭐ 13 · Python · 推送 2026-05-26 · [GitHub](https://github.com/DevanshDaxini/Sports-EV-Bot) · 个人维护
 
 **多运动球员道具博彩分析引擎：XGBoost 预测对比盘口找正 EV 机会**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevanshDaxini/Sports-EV-Bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "DevanshDaxini/Sports-EV-Bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

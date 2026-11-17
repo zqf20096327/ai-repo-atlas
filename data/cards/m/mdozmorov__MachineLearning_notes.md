@@ -1,6 +1,6 @@
 # mdozmorov/MachineLearning_notes
 
-⭐ 574 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mdozmorov/MachineLearning_notes) · 个人维护
+⭐ 575 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mdozmorov/MachineLearning_notes) · 个人维护
 
 **机器学习/深度学习学习资源策展清单（速查表、教程、书籍）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mdozmorov/MachineLearning_notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 573 --> 575
-    line [574, 574]
+    title "mdozmorov/MachineLearning_notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 573 --> 576
+    line [574, 575, 575]
 ```
 
-2026-10-18 574 → 2026-11-02 574（+0）
+2026-10-18 574 → 2026-11-17 575（+1）
 
 
 ---

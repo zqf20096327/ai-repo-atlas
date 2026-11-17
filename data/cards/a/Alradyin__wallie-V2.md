@@ -1,6 +1,6 @@
 # Alradyin/wallie-V2
 
-⭐ 42 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Alradyin/wallie-V2) · [官网](https://spontaneous-dodol-cabb7d.netlify.app/) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Alradyin/wallie-V2) · [官网](https://spontaneous-dodol-cabb7d.netlify.app/) · 个人维护
 
 **开源 AI 虚拟主播：看屏听声、实时反应并可自主玩 Minecraft**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alradyin/wallie-V2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    title "Alradyin/wallie-V2 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 38 --> 46
+    line [39, 40, 41, 42, 40, 42, 43, 44, 45, 45]
 ```
 
-2026-10-18 39 → 2026-11-02 42（+3）
+2026-10-18 39 → 2026-11-17 45（+6）
 
 
 ---

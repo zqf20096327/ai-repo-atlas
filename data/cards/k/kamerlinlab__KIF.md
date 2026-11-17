@@ -1,6 +1,6 @@
 # kamerlinlab/KIF
 
-⭐ 35 · Python · GPL-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/kamerlinlab/KIF) · [官网](https://kamerlinlab.github.io/KIF/) · 组织维护
+⭐ 35 · Python · GPL-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/kamerlinlab/KIF) · [官网](https://kamerlinlab.github.io/KIF/) · 组织维护
 
 **从 MD 轨迹识别调控构象变化的关键分子相互作用的 Python 包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kamerlinlab/KIF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

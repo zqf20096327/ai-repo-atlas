@@ -1,6 +1,6 @@
 # alibaba/UnifiedModel
 
-⭐ 443 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/alibaba/UnifiedModel) · [官网](https://alibaba.github.io/UnifiedModel/) · 组织维护 · 中文 README
+⭐ 463 · Go · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/alibaba/UnifiedModel) · [官网](https://alibaba.github.io/UnifiedModel/) · 组织维护 · 中文 README
 
 **面向企业 AI agent 的语义层运行时：统一建模并查询对象图**
 
@@ -45,13 +45,13 @@ UModel 是阿里巴巴开源的厂商中立语义运行时，将企业分散的 
 
 ```mermaid
 xychart-beta
-    title "alibaba/UnifiedModel 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 419 --> 445
-    line [421, 431, 435, 437, 439, 442, 443]
+    title "alibaba/UnifiedModel 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 417 --> 467
+    line [421, 431, 435, 437, 439, 442, 443, 437, 454, 456, 458, 459, 460, 462, 463, 463]
 ```
 
-2026-10-18 421 → 2026-11-02 443（+22）
+2026-10-18 421 → 2026-11-17 463（+42）
 
 
 ---

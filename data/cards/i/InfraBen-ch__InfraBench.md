@@ -1,6 +1,6 @@
 # InfraBen-ch/InfraBench
 
-⭐ 31 · Shell · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/InfraBen-ch/InfraBench) · [官网](https://infraben.ch/) · 组织维护
+⭐ 33 · Shell · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/InfraBen-ch/InfraBench) · [官网](https://infraben.ch/) · 组织维护
 
 **基础设施智能体的评测基准：跨全栈层级的故障任务包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InfraBen-ch/InfraBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "InfraBen-ch/InfraBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 33（+3）
 
 
 ---

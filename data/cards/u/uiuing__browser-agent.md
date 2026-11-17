@@ -1,6 +1,6 @@
 # uiuing/browser-agent
 
-⭐ 56 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/uiuing/browser-agent) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/uiuing/browser-agent) · 个人维护 · 中文 README
 
 **开源浏览器 AI Agent 运行时：自带模型执行并核验网页操作**
 
@@ -45,13 +45,13 @@ Chrome MV3 扩展形式的浏览器 Agent 运行时：模型在侧边栏的 agen
 
 ```mermaid
 xychart-beta
-    title "uiuing/browser-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 55, 56, 56]
+    title "uiuing/browser-agent 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 62
+    line [55, 56, 55, 56, 55, 57, 58, 59, 60, 61, 61]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 61（+6）
 
 
 ---

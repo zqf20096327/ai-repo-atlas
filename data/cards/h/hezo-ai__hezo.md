@@ -1,6 +1,6 @@
 # hezo-ai/hezo
 
-⭐ 375 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/hezo-ai/hezo) · [官网](https://hezo.ai) · 个人维护
+⭐ 304 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/hezo-ai/hezo) · [官网](https://hezo.ai) · 个人维护
 
 **开源的 AI agent 团队运行平台：按组织架构编排多 agent 协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hezo-ai/hezo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 374 --> 392
-    line [391, 376, 375, 375]
+    title "hezo-ai/hezo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 296 --> 399
+    line [391, 376, 375, 309, 304, 304]
 ```
 
-2026-10-18 391 → 2026-11-02 375（-16）
+2026-10-18 391 → 2026-11-17 304（-87）
 
 
 ---

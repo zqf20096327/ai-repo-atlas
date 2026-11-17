@@ -1,6 +1,6 @@
 # rsalmn/ExtremeRouter
 
-⭐ 49 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/rsalmn/ExtremeRouter) · 个人维护 · 中文 README
+⭐ 66 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rsalmn/ExtremeRouter) · 个人维护 · 中文 README
 
 **自托管 AI 网关：统一接入 304+ 提供商并路由编码工具流量**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rsalmn/ExtremeRouter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 45 --> 50
-    line [46, 47, 48, 49, 49]
+    title "rsalmn/ExtremeRouter 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 44 --> 69
+    line [46, 47, 48, 49, 47, 64, 65, 66, 67, 66, 66]
 ```
 
-2026-10-18 46 → 2026-11-02 49（+3）
+2026-10-18 46 → 2026-11-17 66（+20）
 
 
 ---

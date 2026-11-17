@@ -1,6 +1,6 @@
 # Chocolatine75/haunt
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Chocolatine75/haunt) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Chocolatine75/haunt) · 个人维护
 
 **Claude Code 插件：派 AI 幽灵用户以真人方式测试你的应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Chocolatine75/haunt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -45,12 +45,12 @@ KDSS 是知识蒸馏框架：用大型语言模型（OpenAI API 或本地 Alpaca
 ```mermaid
 xychart-beta
     title "KarineAyrs/knowledge-distillation-semantic-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-07 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hometrix/SplashMonitor
 
-⭐ 29 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hometrix/SplashMonitor) · 个人维护
+⭐ 31 · Swift · MIT · 推送 2026-11-06 · [GitHub](https://github.com/hometrix/SplashMonitor) · 个人维护
 
 **面向 Apple Silicon 上 Splash 本地推理引擎的原生 macOS 监控与管理桌面应用**
 
@@ -44,13 +44,13 @@ SwiftUI 编写的 macOS 菜单栏/桌面应用，为 Inco AI 的 Splash 本地�
 
 ```mermaid
 xychart-beta
-    title "hometrix/SplashMonitor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 28, 29]
+    title "hometrix/SplashMonitor 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 32
+    line [24, 25, 26, 28, 29, 25, 30, 31, 31]
 ```
 
-2026-10-18 24 → 2026-11-02 29（+5）
+2026-10-18 24 → 2026-11-17 31（+7）
 
 
 ---

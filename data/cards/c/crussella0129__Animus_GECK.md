@@ -1,6 +1,6 @@
 # crussella0129/Animus_GECK
 
-⭐ 18 · Rust · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/crussella0129/Animus_GECK) · 个人维护
+⭐ 20 · Rust · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/crussella0129/Animus_GECK) · 个人维护
 
 **为 Animus Sprint Loops 生成项目启动文档的 Sprint 0 向导**
 
@@ -45,13 +45,13 @@ Rust 编写的单二进制向导式工具，用于软件项目启动（Sprint 0�
 
 ```mermaid
 xychart-beta
-    title "crussella0129/Animus_GECK 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [19, 18, 18]
+    title "crussella0129/Animus_GECK 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [19, 18, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 18（-1）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

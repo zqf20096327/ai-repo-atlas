@@ -1,6 +1,6 @@
 # QSong-github/DrugClaw
 
-⭐ 118 · Python · 推送 2026-08-25 · [GitHub](https://github.com/QSong-github/DrugClaw) · [官网](https://qsong-github.github.io/DrugClaw/) · 组织维护 · 中文 README
+⭐ 119 · Python · 推送 2026-08-25 · [GitHub](https://github.com/QSong-github/DrugClaw) · [官网](https://qsong-github.github.io/DrugClaw/) · 组织维护 · 中文 README
 
 **面向药物知识问答的 Agentic RAG 命令行工具：证据溯源回答**
 
@@ -46,13 +46,13 @@ DrugClaw 是一个以药物问题为对象的 CLI 与 agent 运行时，覆盖�
 
 ```mermaid
 xychart-beta
-    title "QSong-github/DrugClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 115 --> 119
-    line [116, 117, 118, 118]
+    title "QSong-github/DrugClaw 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 115 --> 120
+    line [116, 117, 118, 117, 118, 119, 119]
 ```
 
-2026-10-18 116 → 2026-11-02 118（+2）
+2026-10-18 116 → 2026-11-17 119（+3）
 
 
 ---

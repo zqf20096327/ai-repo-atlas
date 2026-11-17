@@ -1,6 +1,6 @@
 # mohd-faizy/Agentic_AI_using_LangGraph
 
-⭐ 50 · Jupyter Notebook · MIT · 推送 2026-07-18 · [GitHub](https://github.com/mohd-faizy/Agentic_AI_using_LangGraph) · 个人维护
+⭐ 51 · Jupyter Notebook · MIT · 推送 2026-07-18 · [GitHub](https://github.com/mohd-faizy/Agentic_AI_using_LangGraph) · 个人维护
 
 **基于 LangGraph 的 Agentic AI 学习课程与笔记本合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohd-faizy/Agentic_AI_using_LangGraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    title "mohd-faizy/Agentic_AI_using_LangGraph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

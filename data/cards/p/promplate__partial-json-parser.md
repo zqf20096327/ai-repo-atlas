@@ -1,6 +1,6 @@
 # promplate/partial-json-parser
 
-⭐ 140 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/promplate/partial-json-parser) · [官网](https://promplate.dev/partial-json-parser) · 组织维护
+⭐ 141 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/promplate/partial-json-parser) · [官网](https://promplate.dev/partial-json-parser) · 组织维护
 
 **解析 LLM 流式输出中不完整 JSON 的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "promplate/partial-json-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 139 --> 141
-    line [140, 140]
+    title "promplate/partial-json-parser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 142
+    line [140, 141, 141]
 ```
 
-2026-10-18 140 → 2026-11-02 140（+0）
+2026-10-18 140 → 2026-11-17 141（+1）
 
 
 ---

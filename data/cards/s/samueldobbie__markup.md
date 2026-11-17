@@ -1,6 +1,6 @@
 # samueldobbie/markup
 
-⭐ 271 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samueldobbie/markup) · [官网](https://getmarkup.com) · 个人维护
+⭐ 271 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/samueldobbie/markup) · [官网](https://getmarkup.com) · 个人维护
 
 **给 NLP/ML 从业者的 AI 辅助文档标注与本体映射工具**
 
@@ -45,13 +45,13 @@ Web 端文档标注工具，将非结构化文档转为 NLP/ML 任务（如命�
 
 ```mermaid
 xychart-beta
-    title "samueldobbie/markup 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "samueldobbie/markup 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 268 --> 272
-    line [269, 270, 271, 271]
+    line [269, 270, 271, 270, 271, 271]
 ```
 
-2026-10-18 269 → 2026-11-02 271（+2）
+2026-10-18 269 → 2026-11-17 271（+2）
 
 
 ---

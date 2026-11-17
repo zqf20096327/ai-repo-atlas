@@ -1,6 +1,6 @@
 # mlflow/skills
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mlflow/skills) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/mlflow/skills) · 组织维护
 
 **给编程 Agent 的 MLflow 技能包：指导其完成追踪、评估与调试**
 
@@ -45,13 +45,13 @@ MLflow 官方维护的 coding agent 技能集合，以 SKILL 形式向 Claude Co
 
 ```mermaid
 xychart-beta
-    title "mlflow/skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 80 --> 87
-    line [81, 82, 83, 84, 86, 86]
+    title "mlflow/skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 80 --> 92
+    line [81, 82, 83, 84, 86, 82, 89, 91, 91]
 ```
 
-2026-10-18 81 → 2026-11-02 86（+5）
+2026-10-18 81 → 2026-11-17 91（+10）
 
 
 ---

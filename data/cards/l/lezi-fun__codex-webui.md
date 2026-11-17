@@ -1,6 +1,6 @@
 # lezi-fun/codex-webui
 
-⭐ 39 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lezi-fun/codex-webui) · 个人维护 · 中文 README
+⭐ 46 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lezi-fun/codex-webui) · 个人维护 · 中文 README
 
 **非官方的本地/局域网 Codex app-server WebUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lezi-fun/codex-webui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 33 --> 40
-    line [34, 35, 38, 39, 39]
+    title "lezi-fun/codex-webui 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 33 --> 47
+    line [34, 35, 38, 39, 34, 44, 45, 46, 46]
 ```
 
-2026-10-18 34 → 2026-11-02 39（+5）
+2026-10-18 34 → 2026-11-17 46（+12）
 
 
 ---

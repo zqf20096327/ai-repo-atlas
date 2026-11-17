@@ -1,6 +1,6 @@
 # LRriver/AIPPT
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/LRriver/AIPPT) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/LRriver/AIPPT) · 个人维护 · 中文 README
 
 **文档转可编辑 PPT 的 AI 工作台，支持逐页编辑与可编辑 PPTX 导出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LRriver/AIPPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "LRriver/AIPPT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

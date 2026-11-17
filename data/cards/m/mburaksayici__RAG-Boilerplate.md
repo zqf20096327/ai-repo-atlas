@@ -1,6 +1,6 @@
 # mburaksayici/RAG-Boilerplate
 
-⭐ 80 · Python · 推送 2025-11-18 · [GitHub](https://github.com/mburaksayici/RAG-Boilerplate) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者的 RAG 系统脚手架：检索增强问答全流程模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mburaksayici/RAG-Boilerplate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    title "mburaksayici/RAG-Boilerplate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13"]
+    y-axis "stars" 79 --> 83
+    line [80, 81, 82]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-13 82（+2）
 
 
 ---

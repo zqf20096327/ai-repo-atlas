@@ -1,6 +1,6 @@
 # CMU-SAFARI/Hermes
 
-⭐ 77 · C++ · MIT · 推送 2026-09-15 · [GitHub](https://github.com/CMU-SAFARI/Hermes) · [官网](https://arxiv.org/abs/2209.00188) · 组织维护
+⭐ 78 · C++ · MIT · 推送 2026-09-15 · [GitHub](https://github.com/CMU-SAFARI/Hermes) · [官网](https://arxiv.org/abs/2209.00188) · 组织维护
 
 **MICRO 2022 论文工件：感知机预测片外访存的微架构机制仿真**
 
@@ -45,13 +45,13 @@ CMU-SAFARI 发布的 MICRO 2022 论文（Bera 等）配套研究工件：Hermes 
 
 ```mermaid
 xychart-beta
-    title "CMU-SAFARI/Hermes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "CMU-SAFARI/Hermes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 76 --> 79
+    line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 78（+1）
 
 
 ---

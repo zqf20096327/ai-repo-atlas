@@ -1,6 +1,6 @@
 # makethisbetter/makethisbetter-js
 
-⭐ 93 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/makethisbetter/makethisbetter-js) · [官网](https://makethisbetter.dev) · 组织维护
+⭐ 96 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/makethisbetter/makethisbetter-js) · [官网](https://makethisbetter.dev) · 组织维护
 
 **带标注截图与 AI 分诊的用户反馈挂件 SDK**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "makethisbetter/makethisbetter-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "makethisbetter/makethisbetter-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 97
+    line [93, 96, 96]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 96（+3）
 
 
 ---

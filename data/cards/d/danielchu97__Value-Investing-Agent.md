@@ -1,6 +1,6 @@
 # danielchu97/Value-Investing-Agent
 
-⭐ 24 · TypeScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/danielchu97/Value-Investing-Agent) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/danielchu97/Value-Investing-Agent) · 个人维护 · 中文 README
 
 **面向价值投资者的 MCP 服务器：格雷厄姆/巴菲特式股票分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielchu97/Value-Investing-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "danielchu97/Value-Investing-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

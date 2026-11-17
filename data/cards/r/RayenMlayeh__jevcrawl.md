@@ -1,6 +1,6 @@
 # RayenMlayeh/jevcrawl
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/RayenMlayeh/jevcrawl) · 个人维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/RayenMlayeh/jevcrawl) · 个人维护
 
 **面向 AI agent 的 MCP 网页爬取服务器与 CLI：定位答案页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RayenMlayeh/jevcrawl 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 76 --> 83
-    line [77, 78, 80, 81, 82, 82]
+    title "RayenMlayeh/jevcrawl 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 76 --> 90
+    line [77, 78, 80, 81, 82, 81, 85, 87, 88, 89, 89]
 ```
 
-2026-10-18 77 → 2026-11-02 82（+5）
+2026-10-18 77 → 2026-11-17 89（+12）
 
 
 ---

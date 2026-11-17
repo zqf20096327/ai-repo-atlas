@@ -1,6 +1,6 @@
 # GalaxyXieyu/Awesome-Langgraph-Learn
 
-⭐ 78 · HTML · MIT · 推送 2026-07-16 · [GitHub](https://github.com/GalaxyXieyu/Awesome-Langgraph-Learn) · [官网](https://aigalaxy.top/) · 个人维护 · 中文 README
+⭐ 80 · HTML · MIT · 推送 2026-07-16 · [GitHub](https://github.com/GalaxyXieyu/Awesome-Langgraph-Learn) · [官网](https://aigalaxy.top/) · 个人维护 · 中文 README
 
 **LangGraph 中文教程仓库：从入门图构建到生产部署的完整路径**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GalaxyXieyu/Awesome-Langgraph-Learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "GalaxyXieyu/Awesome-Langgraph-Learn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 77 --> 81
+    line [78, 79, 80, 80]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 80（+2）
 
 
 ---

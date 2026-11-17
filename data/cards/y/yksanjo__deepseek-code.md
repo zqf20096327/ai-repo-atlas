@@ -1,6 +1,6 @@
 # yksanjo/deepseek-code
 
-⭐ 19 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/yksanjo/deepseek-code) · [官网](https://platform.deepseek.com/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/yksanjo/deepseek-code) · [官网](https://platform.deepseek.com/) · 个人维护
 
 **基于 DeepSeek-V3 的开源命令行 AI 编程助手**
 
@@ -42,13 +42,13 @@ README 以项目脚手架模板为主：声称是具备生产级工程实践的�
 
 ```mermaid
 xychart-beta
-    title "yksanjo/deepseek-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "yksanjo/deepseek-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

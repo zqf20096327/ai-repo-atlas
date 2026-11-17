@@ -1,6 +1,6 @@
 # ichangting/taotao-skills
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/ichangting/taotao-skills) · 个人维护 · 中文 README
+⭐ 22 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/ichangting/taotao-skills) · 个人维护 · 中文 README
 
 **初中语文教师的 WorkBuddy AI 教学技能合集（21 个技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ichangting/taotao-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "ichangting/taotao-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 20, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

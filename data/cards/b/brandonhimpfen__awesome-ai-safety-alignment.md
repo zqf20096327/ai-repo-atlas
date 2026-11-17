@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-safety-alignment
 
-⭐ 15 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-safety-alignment) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 16 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-safety-alignment) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **AI 安全与对齐研究资源的策展清单，面向研究者与从业者**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-ai-safety-alignment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "brandonhimpfen/awesome-ai-safety-alignment 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

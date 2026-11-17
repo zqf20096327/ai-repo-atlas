@@ -1,6 +1,6 @@
 # SALT-NLP/agent-collusion
 
-⭐ 17 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/SALT-NLP/agent-collusion) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/SALT-NLP/agent-collusion) · 组织维护
 
 **论文代码：研究长程多智能体交互中共谋涌现的实验框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SALT-NLP/agent-collusion 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    title "SALT-NLP/agent-collusion 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 21
+    line [14, 15, 16, 17, 16, 19, 20, 20]
 ```
 
-2026-10-18 14 → 2026-11-02 17（+3）
+2026-10-18 14 → 2026-11-17 20（+6）
 
 
 ---

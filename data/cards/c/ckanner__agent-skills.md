@@ -1,6 +1,6 @@
 # ckanner/agent-skills
 
-⭐ 23 · Shell · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/ckanner/agent-skills) · 个人维护 · 中文 README
+⭐ 24 · Shell · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/ckanner/agent-skills) · 个人维护 · 中文 README
 
 **面向 Claude 的 Agent Skills 技能合集（含 3 个技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ckanner/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "ckanner/agent-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # bestruirui/Alle
 
-⭐ 459 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/bestruirui/Alle) · 个人维护 · 中文 README
+⭐ 461 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/bestruirui/Alle) · 个人维护 · 中文 README
 
 **个人邮件聚合客户端：转发集中收信并 AI 提取验证码与链接**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bestruirui/Alle 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 455 --> 460
-    line [456, 457, 458, 459, 459]
+    title "bestruirui/Alle 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 455 --> 462
+    line [456, 457, 458, 459, 457, 460, 461, 461]
 ```
 
-2026-10-18 456 → 2026-11-02 459（+3）
+2026-10-18 456 → 2026-11-17 461（+5）
 
 
 ---

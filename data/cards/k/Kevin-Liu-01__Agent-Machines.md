@@ -1,6 +1,6 @@
 # Kevin-Liu-01/Agent-Machines
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Kevin-Liu-01/Agent-Machines) · [官网](https://agent-machines.dev) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Kevin-Liu-01/Agent-Machines) · [官网](https://agent-machines.dev) · 个人维护
 
 **多 agent 运行时与沙箱的编排控制平面（SDK/CLI/仪表盘）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kevin-Liu-01/Agent-Machines 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "Kevin-Liu-01/Agent-Machines 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 29（-1）
 
 
 ---

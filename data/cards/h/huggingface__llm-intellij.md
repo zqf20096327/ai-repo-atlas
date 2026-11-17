@@ -1,6 +1,6 @@
 # huggingface/llm-intellij
 
-⭐ 86 · Kotlin · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/llm-intellij) · 组织维护
+⭐ 87 · Kotlin · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/llm-intellij) · 组织维护
 
 **IntelliJ 的 LLM 代码补全插件，经 llm-ls 后端请求模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/llm-intellij 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 84 --> 87
-    line [85, 86, 86]
+    title "huggingface/llm-intellij 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 84 --> 88
+    line [85, 86, 87, 87]
 ```
 
-2026-10-18 85 → 2026-11-02 86（+1）
+2026-10-18 85 → 2026-11-17 87（+2）
 
 
 ---

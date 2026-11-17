@@ -1,6 +1,6 @@
 # Angel2mp3/AudioAuditor
 
-⭐ 171 · C# · Apache-2.0 · 推送 2026-08-18 · [GitHub](https://github.com/Angel2mp3/AudioAuditor) · [官网](https://audioauditor.org/) · 个人维护
+⭐ 183 · C# · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Angel2mp3/AudioAuditor) · [官网](https://audioauditor.org/) · 个人维护
 
 **音频质量审计与播放工具：检测假无损、AI 生成音频等**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Angel2mp3/AudioAuditor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 167 --> 172
-    line [168, 169, 170, 171, 171]
+    title "Angel2mp3/AudioAuditor 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 167 --> 184
+    line [168, 169, 170, 171, 170, 178, 179, 180, 182, 183, 183]
 ```
 
-2026-10-18 168 → 2026-11-02 171（+3）
+2026-10-18 168 → 2026-11-17 183（+15）
 
 
 ---

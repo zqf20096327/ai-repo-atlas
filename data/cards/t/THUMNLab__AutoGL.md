@@ -1,6 +1,6 @@
 # THUMNLab/AutoGL
 
-⭐ 1,144 · Python · Apache-2.0 · 推送 2025-11-20 · [GitHub](https://github.com/THUMNLab/AutoGL) · [官网](http://mn.cs.tsinghua.edu.cn/AutoGL/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向图机器学习的 autoML 框架与工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "THUMNLab/AutoGL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1143 --> 1145
-    line [1144, 1144]
+    title "THUMNLab/AutoGL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-15"]
+    y-axis "stars" 1142 --> 1145
+    line [1144, 1143, 1143]
 ```
 
-2026-10-18 1,144 → 2026-11-02 1,144（+0）
+2026-10-18 1,144 → 2026-11-15 1,143（-1）
 
 
 ---

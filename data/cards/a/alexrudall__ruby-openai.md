@@ -1,6 +1,6 @@
 # alexrudall/ruby-openai
 
-⭐ 3,222 · Ruby · MIT · 推送 2026-05-01 · [GitHub](https://github.com/alexrudall/ruby-openai) · [官网](https://insertrobot.com) · 个人维护
+⭐ 3,219 · Ruby · MIT · 推送 2026-05-01 · [GitHub](https://github.com/alexrudall/ruby-openai) · [官网](https://insertrobot.com) · 个人维护
 
 **Ruby 的 OpenAI API 客户端库：聊天/Responses/嵌入等接口封装**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexrudall/ruby-openai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 3221 --> 3224
-    line [3223, 3222, 3223, 3222]
+    title "alexrudall/ruby-openai 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 3218 --> 3224
+    line [3223, 3222, 3223, 3222, 3223, 3221, 3220, 3219, 3219]
 ```
 
-2026-10-18 3,223 → 2026-11-02 3,222（-1）
+2026-10-18 3,223 → 2026-11-17 3,219（-4）
 
 
 ---

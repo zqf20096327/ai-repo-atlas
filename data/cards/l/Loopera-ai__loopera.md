@@ -1,6 +1,6 @@
 # Loopera-ai/loopera
 
-⭐ 549 · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Loopera-ai/loopera) · [官网](https://loopera.cn) · 组织维护 · 中文 README
+⭐ 551 · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Loopera-ai/loopera) · [官网](https://loopera.cn) · 组织维护 · 中文 README
 
 **面向基本面量化团队的研究智能体产品（公开资料仓库，无代码）**
 
@@ -45,13 +45,13 @@ Loopera 是围绕上市公司财务报表的基本面因子研究智能体产品
 
 ```mermaid
 xychart-beta
-    title "Loopera-ai/loopera 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "Loopera-ai/loopera 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
     y-axis "stars" 546 --> 556
-    line [555, 548, 547, 549, 549]
+    line [555, 548, 547, 549, 548, 549, 550, 551, 551]
 ```
 
-2026-10-18 555 → 2026-11-02 549（-6）
+2026-10-18 555 → 2026-11-17 551（-4）
 
 
 ---

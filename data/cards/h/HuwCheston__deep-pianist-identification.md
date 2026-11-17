@@ -1,6 +1,6 @@
 # HuwCheston/deep-pianist-identification
 
-⭐ 12 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/HuwCheston/deep-pianist-identification) · [官网](https://huwcheston.github.io/ImprovID-app/index.html) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/HuwCheston/deep-pianist-identification) · [官网](https://huwcheston.github.io/ImprovID-app/index.html) · 组织维护
 
 **爵士钢琴家识别论文代码：训练模型并复现实验结果**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HuwCheston/deep-pianist-identification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "HuwCheston/deep-pianist-identification 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

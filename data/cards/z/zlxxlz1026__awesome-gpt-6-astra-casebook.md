@@ -1,6 +1,6 @@
 # zlxxlz1026/awesome-gpt-6-astra-casebook
 
-⭐ 16 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zlxxlz1026/awesome-gpt-6-astra-casebook) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zlxxlz1026/awesome-gpt-6-astra-casebook) · 个人维护 · 中文 README
 
 **GPT-6 Astra 实战案例与提示词策展清单（61 例，7 类）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zlxxlz1026/awesome-gpt-6-astra-casebook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "zlxxlz1026/awesome-gpt-6-astra-casebook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

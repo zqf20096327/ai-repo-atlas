@@ -1,6 +1,6 @@
 # w1ne/darktable-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/w1ne/darktable-mcp) · [官网](https://shylenko.com/notes/darktable-mcp/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/w1ne/darktable-mcp) · [官网](https://shylenko.com/notes/darktable-mcp/) · 个人维护
 
 **让 AI 客户端通过 MCP 操作 darktable 照片库的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "w1ne/darktable-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "w1ne/darktable-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

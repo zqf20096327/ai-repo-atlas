@@ -1,6 +1,6 @@
 # ONEPUNCHMAN411/Jarvis
 
-⭐ 12 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/ONEPUNCHMAN411/Jarvis) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/ONEPUNCHMAN411/Jarvis) · 个人维护
 
 **Windows 11 语音助手：语音交互并控制桌面与浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ONEPUNCHMAN411/Jarvis 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "ONEPUNCHMAN411/Jarvis 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 19
+    line [10, 11, 12, 15, 16, 17, 18, 18]
 ```
 
-2026-10-30 10 → 2026-11-02 12（+2）
+2026-10-30 10 → 2026-11-17 18（+8）
 
 
 ---

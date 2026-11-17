@@ -1,6 +1,6 @@
 # mrobinson2/AzureAgentForge
 
-⭐ 25 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mrobinson2/AzureAgentForge) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mrobinson2/AzureAgentForge) · 个人维护
 
 **自托管多 Agent 平台的 Azure 部署基座：编排+运行时+记忆+成本治理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrobinson2/AzureAgentForge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "mrobinson2/AzureAgentForge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 24, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

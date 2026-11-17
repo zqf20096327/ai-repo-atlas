@@ -1,6 +1,6 @@
 # yasher3413/flipperclaw
 
-⭐ 11 · C++ · MIT · 推送 2026-04-18 · [GitHub](https://github.com/yasher3413/flipperclaw) · [官网](https://www.flipperclaw.com) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-04-18 · [GitHub](https://github.com/yasher3413/flipperclaw) · [官网](https://www.flipperclaw.com) · 个人维护
 
 **跑在 ESP32-S3、以 Flipper Zero 为屏幕的离线硬件 LLM agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yasher3413/flipperclaw 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "yasher3413/flipperclaw 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 13, 13]
 ```
 
-2026-10-24 10 → 2026-11-02 11（+1）
+2026-10-24 10 → 2026-11-17 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting
 
-⭐ 31 · HTML · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting) · [官网](https://amanpriyanshu.github.io/GPT-OSS-MoE-ExpertFingerprinting/) · 个人维护
+⭐ 32 · HTML · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting) · [官网](https://amanpriyanshu.github.io/GPT-OSS-MoE-ExpertFingerprinting/) · 个人维护
 
 **分析 GPT-OSS-20B MoE 专家激活规律并发布 232 个剪枝模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

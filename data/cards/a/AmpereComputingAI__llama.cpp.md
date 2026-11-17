@@ -1,6 +1,6 @@
 # AmpereComputingAI/llama.cpp
 
-⭐ 42 · Python · 推送 2026-06-24 · [GitHub](https://github.com/AmpereComputingAI/llama.cpp) · [官网](https://hub.docker.com/r/amperecomputingai/llama.cpp) · 组织维护
+⭐ 43 · Python · 推送 2026-06-24 · [GitHub](https://github.com/AmpereComputingAI/llama.cpp) · [官网](https://hub.docker.com/r/amperecomputingai/llama.cpp) · 组织维护
 
 **面向 Ampere CPU 优化的 llama.cpp 构建与 Docker 镜像**
 
@@ -44,13 +44,13 @@ AmpereComputing 维护的 llama.cpp 优化构建，以 Docker 镜像形式发布
 
 ```mermaid
 xychart-beta
-    title "AmpereComputingAI/llama.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "AmpereComputingAI/llama.cpp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-17"]
     y-axis "stars" 41 --> 45
-    line [44, 42, 42]
+    line [44, 42, 43, 43]
 ```
 
-2026-10-18 44 → 2026-11-02 42（-2）
+2026-10-18 44 → 2026-11-17 43（-1）
 
 
 ---

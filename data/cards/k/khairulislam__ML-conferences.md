@@ -1,6 +1,6 @@
 # khairulislam/ML-conferences
 
-⭐ 262 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/khairulislam/ML-conferences) · [官网](https://khairulislam.github.io/ML-conferences) · 个人维护
+⭐ 263 · Jupyter Notebook · MIT · 推送 2026-11-12 · [GitHub](https://github.com/khairulislam/ML-conferences) · [官网](https://khairulislam.github.io/ML-conferences) · 个人维护
 
 **机器学习会议清单：截稿日期、地点与录用论文列表**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "khairulislam/ML-conferences 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "khairulislam/ML-conferences 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
     y-axis "stars" 259 --> 264
-    line [260, 262, 263, 262, 262]
+    line [260, 262, 263, 262, 263, 262, 263, 263]
 ```
 
-2026-10-18 260 → 2026-11-02 262（+2）
+2026-10-18 260 → 2026-11-17 263（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/rrg
 
-⭐ 71 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/google/rrg) · 组织维护
+⭐ 72 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/google/rrg) · 组织维护
 
 **GRR 取证 agent 的 Rust 重写实验项目**
 
@@ -42,13 +42,13 @@ RRG 是 GRR 远程实时取证框架客户端 agent 的 Rust 重写，属于实�
 
 ```mermaid
 xychart-beta
-    title "google/rrg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "google/rrg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

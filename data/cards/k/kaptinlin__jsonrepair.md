@@ -1,6 +1,6 @@
 # kaptinlin/jsonrepair
 
-⭐ 126 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kaptinlin/jsonrepair) · 个人维护
+⭐ 127 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kaptinlin/jsonrepair) · 个人维护
 
 **修复畸形 JSON 文本的 Go 库，适配 LLM 输出场景**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaptinlin/jsonrepair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 125 --> 127
-    line [126, 126]
+    title "kaptinlin/jsonrepair 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 125 --> 128
+    line [126, 127, 127]
 ```
 
-2026-10-18 126 → 2026-11-02 126（+0）
+2026-10-18 126 → 2026-11-17 127（+1）
 
 
 ---

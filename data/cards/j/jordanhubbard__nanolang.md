@@ -1,6 +1,6 @@
 # jordanhubbard/nanolang
 
-⭐ 630 · C · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/jordanhubbard/nanolang) · 个人维护
+⭐ 630 · C · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/jordanhubbard/nanolang) · 个人维护
 
 **面向编码 LLM 设计的实验编程语言与安全运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jordanhubbard/nanolang 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
+    title "jordanhubbard/nanolang 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
     y-axis "stars" 627 --> 631
-    line [628, 629, 630, 630]
+    line [628, 629, 630, 629, 628, 629, 630, 630]
 ```
 
-2026-10-18 628 → 2026-11-02 630（+2）
+2026-10-18 628 → 2026-11-17 630（+2）
 
 
 ---

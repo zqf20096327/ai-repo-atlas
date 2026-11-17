@@ -1,6 +1,6 @@
 # makbn/mcp_mediator
 
-⭐ 12 · Java · GPL-3.0 · 推送 2026-08-30 · [GitHub](https://github.com/makbn/mcp_mediator) · [官网](https://makbn.github.io/mcp_mediator/) · 个人维护
+⭐ 12 · Java · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/makbn/mcp_mediator) · [官网](https://makbn.github.io/mcp_mediator/) · 个人维护
 
 **从既有 Java 代码自动生成并代理 MCP Server 的 Java 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "makbn/mcp_mediator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

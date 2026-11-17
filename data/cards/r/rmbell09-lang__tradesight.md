@@ -1,6 +1,6 @@
 # rmbell09-lang/tradesight
 
-⭐ 169 · Python · 推送 2026-10-08 · [GitHub](https://github.com/rmbell09-lang/tradesight) · [官网](https://rmbell09-lang.github.io/tradesight/) · 组织维护
+⭐ 171 · Python · 推送 2026-10-08 · [GitHub](https://github.com/rmbell09-lang/tradesight) · [官网](https://rmbell09-lang.github.io/tradesight/) · 组织维护
 
 **自托管的策略研究与 Alpaca 模拟盘交易系统（仅 paper 模式）**
 
@@ -44,13 +44,13 @@ TradeSight 是面向量化交易研究者（QC Autonomous 维护）的自托管�
 
 ```mermaid
 xychart-beta
-    title "rmbell09-lang/tradesight 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 167 --> 170
-    line [168, 169, 169]
+    title "rmbell09-lang/tradesight 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 167 --> 172
+    line [168, 169, 171, 171]
 ```
 
-2026-10-18 168 → 2026-11-02 169（+1）
+2026-10-18 168 → 2026-11-17 171（+3）
 
 
 ---

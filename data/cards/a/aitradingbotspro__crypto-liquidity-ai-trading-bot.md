@@ -1,6 +1,6 @@
 # aitradingbotspro/crypto-liquidity-ai-trading-bot
 
-⭐ 70 · JavaScript · 推送 2026-03-12 · [GitHub](https://github.com/aitradingbotspro/crypto-liquidity-ai-trading-bot) · 个人维护
+⭐ 69 · JavaScript · 推送 2026-03-12 · [GitHub](https://github.com/aitradingbotspro/crypto-liquidity-ai-trading-bot) · 个人维护
 
 **加密货币流动性检测与交易信号机器人，覆盖多交易所**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aitradingbotspro/crypto-liquidity-ai-trading-bot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
+    title "aitradingbotspro/crypto-liquidity-ai-trading-bot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-11", "2026-11-17"]
     y-axis "stars" 68 --> 72
-    line [69, 70, 71, 70, 70]
+    line [69, 70, 71, 70, 69, 69]
 ```
 
-2026-10-18 69 → 2026-11-02 70（+1）
+2026-10-18 69 → 2026-11-17 69（+0）
 
 
 ---

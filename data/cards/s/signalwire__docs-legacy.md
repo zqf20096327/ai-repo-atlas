@@ -1,6 +1,6 @@
 # signalwire/docs-legacy
 
-⭐ 13 · MDX · MIT · 推送 2026-09-10 · [GitHub](https://github.com/signalwire/docs-legacy) · [官网](https://developer.signalwire.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **SignalWire 官方文档站源码仓库，基于 Docusaurus 构建**
 
@@ -11,7 +11,7 @@ SignalWire 通信平台（FreeSWITCH/IVR/电话相关）官方文档网站的开
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ SignalWire 通信平台（FreeSWITCH/IVR/电话相关）官方文档网站的开
 ```mermaid
 xychart-beta
     title "signalwire/docs-legacy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-08 13（+0）
 
 
 ---

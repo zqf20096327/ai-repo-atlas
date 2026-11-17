@@ -1,6 +1,6 @@
 # yorkeccak/bio
 
-⭐ 353 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/yorkeccak/bio) · [官网](https://bio.valyu.ai) · 个人维护
+⭐ 357 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yorkeccak/bio) · [官网](https://bio.valyu.ai) · 个人维护
 
 **生物医药深度研究助手：对话式生成带引用的调研报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yorkeccak/bio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 351 --> 354
-    line [352, 353, 353]
+    title "yorkeccak/bio 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 351 --> 358
+    line [352, 353, 354, 355, 356, 357, 357]
 ```
 
-2026-10-18 352 → 2026-11-02 353（+1）
+2026-10-18 352 → 2026-11-17 357（+5）
 
 
 ---

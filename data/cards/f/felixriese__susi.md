@@ -1,6 +1,6 @@
 # felixriese/susi
 
-⭐ 118 · Python · BSD-3-Clause · 推送 2026-03-17 · [GitHub](https://github.com/felixriese/susi) · [官网](https://felixriese.github.io/susi) · 个人维护
+⭐ 118 · Python · BSD-3-Clause · 推送 2026-11-07 · [GitHub](https://github.com/felixriese/susi) · [官网](https://felixriese.github.io/susi) · 个人维护
 
 **给科研与数据科学家的监督/半监督自组织映射(SOM) Python 库**
 
@@ -47,12 +47,12 @@ SuSi 是一个实现自组织映射（SOM）的 Python 包，提供三种估计�
 ```mermaid
 xychart-beta
     title "felixriese/susi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-11-02 118（+0）
+2026-10-18 118 → 2026-11-17 118（+0）
 
 
 ---

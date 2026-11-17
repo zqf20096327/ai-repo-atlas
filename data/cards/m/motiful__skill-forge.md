@@ -1,6 +1,6 @@
 # motiful/skill-forge
 
-⭐ 46 · Shell · MIT · 推送 2026-07-12 · [GitHub](https://github.com/motiful/skill-forge) · 个人维护
+⭐ 47 · Shell · MIT · 推送 2026-07-12 · [GitHub](https://github.com/motiful/skill-forge) · 个人维护
 
 **AI agent 技能的验证、安全扫描与发布流水线工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "motiful/skill-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "motiful/skill-forge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 45 --> 49
+    line [46, 48, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

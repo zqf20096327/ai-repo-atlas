@@ -1,6 +1,6 @@
 # AEON-7/vllm-dflash
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/vllm-dflash) · [官网](https://huggingface.co/AEON-7) · 个人维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/vllm-dflash) · [官网](https://huggingface.co/AEON-7) · 个人维护
 
 **面向 DGX Spark 的 vLLM 容器：DFlash 块扩散投机解码加速推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AEON-7/vllm-dflash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

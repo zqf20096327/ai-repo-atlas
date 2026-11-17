@@ -1,6 +1,6 @@
 # dosco/aithy
 
-⭐ 108 · TypeScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/dosco/aithy) · [官网](https://aithy.dev) · 个人维护
+⭐ 109 · TypeScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/dosco/aithy) · [官网](https://aithy.dev) · 个人维护
 
 **本地运行的个人 AI agent 运行时，数据留在本机**
 
@@ -45,13 +45,13 @@ Aithy 是一个在本地启动、通过浏览器控制台使用的个人 AI agen
 
 ```mermaid
 xychart-beta
-    title "dosco/aithy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 108]
+    title "dosco/aithy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 106 --> 110
+    line [107, 108, 109, 109]
 ```
 
-2026-10-18 107 → 2026-11-02 108（+1）
+2026-10-18 107 → 2026-11-17 109（+2）
 
 
 ---

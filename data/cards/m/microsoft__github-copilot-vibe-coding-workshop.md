@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/github-copilot-vibe-coding-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "microsoft/github-copilot-vibe-coding-workshop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 145 --> 148
-    line [146, 147, 147]
+    line [146, 147, 146, 147, 147]
 ```
 
-2026-10-18 146 → 2026-11-02 147（+1）
+2026-10-18 146 → 2026-11-17 147（+1）
 
 
 ---

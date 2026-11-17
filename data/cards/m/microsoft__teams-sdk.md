@@ -1,6 +1,6 @@
 # microsoft/teams-sdk
 
-⭐ 734 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/teams-sdk) · 组织维护
+⭐ 737 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/teams-sdk) · 组织维护
 
 **微软官方 Teams 应用与 AI agent 开发 SDK 文档仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/teams-sdk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 730 --> 735
-    line [731, 732, 733, 734, 734]
+    title "microsoft/teams-sdk 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 730 --> 738
+    line [731, 732, 733, 734, 731, 735, 736, 737, 737]
 ```
 
-2026-10-18 731 → 2026-11-02 734（+3）
+2026-10-18 731 → 2026-11-17 737（+6）
 
 
 ---

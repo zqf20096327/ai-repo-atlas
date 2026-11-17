@@ -1,6 +1,6 @@
 # ZM-BAD/DAG-chat
 
-⭐ 75 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ZM-BAD/DAG-chat) · 个人维护 · 中文 README
+⭐ 75 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ZM-BAD/DAG-chat) · 个人维护 · 中文 README
 
 **以有向无环图组织对话的网页版 LLM 聊天应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZM-BAD/DAG-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "ZM-BAD/DAG-chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 73 --> 76
-    line [74, 75, 75]
+    line [74, 75, 74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-02 75（+1）
+2026-10-18 74 → 2026-11-17 75（+1）
 
 
 ---

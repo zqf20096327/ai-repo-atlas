@@ -1,6 +1,6 @@
 # richardChenzhihui/OfficeBuddy
 
-⭐ 54 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/richardChenzhihui/OfficeBuddy) · 个人维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/richardChenzhihui/OfficeBuddy) · 个人维护 · 中文 README
 
 **macOS 上经真实 Word/Excel 渲染校验的文档编辑 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "richardChenzhihui/OfficeBuddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 53, 54]
+    title "richardChenzhihui/OfficeBuddy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 53, 54, 53, 54, 55, 55]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 55（+2）
 
 
 ---

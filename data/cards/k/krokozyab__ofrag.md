@@ -1,6 +1,6 @@
 # krokozyab/ofrag
 
-⭐ 16 · 推送 2026-04-05 · [GitHub](https://github.com/krokozyab/ofrag) · 个人维护
+⭐ 18 · 推送 2026-04-05 · [GitHub](https://github.com/krokozyab/ofrag) · 个人维护
 
 **面向 Oracle Fusion ERP 的 MCP 服务器，让 AI agent 自然语言查数据**
 
@@ -46,13 +46,13 @@ MCP 服务器，为 Claude、OpenAI、Gemini 等 MCP 兼容 agent 提供对 Orac
 
 ```mermaid
 xychart-beta
-    title "krokozyab/ofrag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "krokozyab/ofrag 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 15, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

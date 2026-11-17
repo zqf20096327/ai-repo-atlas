@@ -1,6 +1,6 @@
 # kr-colab/diploSHIC
 
-⭐ 59 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/kr-colab/diploSHIC) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/kr-colab/diploSHIC) · 组织维护
 
 **深度学习识别群体基因组中选择性扫描的 CNN 工具**
 
@@ -44,13 +44,13 @@ Kern and Schrider (2018) 论文的 diploS/HIC 实现：用深度卷积神经网�
 
 ```mermaid
 xychart-beta
-    title "kr-colab/diploSHIC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "kr-colab/diploSHIC 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

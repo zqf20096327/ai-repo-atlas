@@ -1,6 +1,6 @@
 # 1arry1iu/archetype
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/1arry1iu/archetype) · 个人维护 · 中文 README
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/1arry1iu/archetype) · 个人维护 · 中文 README
 
 **面向领域专家与创作的可复用 LLM 提示词规范库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1arry1iu/archetype 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "1arry1iu/archetype 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

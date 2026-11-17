@@ -1,6 +1,6 @@
 # zjp1997720/grok-build-bluebook
 
-⭐ 11 · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/zjp1997720/grok-build-bluebook) · [官网](https://zjp1997720.github.io/grok-build-bluebook/) · 组织维护 · 中文 README
+⭐ 12 · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/zjp1997720/grok-build-bluebook) · [官网](https://zjp1997720.github.io/grok-build-bluebook/) · 组织维护 · 中文 README
 
 **面向零基础与 Claude Code/Codex 用户的 Grok Build 中文实战指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjp1997720/grok-build-bluebook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "zjp1997720/grok-build-bluebook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

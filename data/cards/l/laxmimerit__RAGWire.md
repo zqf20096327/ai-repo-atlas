@@ -1,6 +1,6 @@
 # laxmimerit/RAGWire
 
-⭐ 50 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/laxmimerit/RAGWire) · [官网](https://laxmimerit.github.io/RAGWire/) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/laxmimerit/RAGWire) · [官网](https://laxmimerit.github.io/RAGWire/) · 个人维护
 
 **面向开发者的生产级 RAG 工具包：文档摄取、Qdrant 存储与检索**
 
@@ -45,13 +45,13 @@ Python 工具包，用几行代码构建 RAG 管线：经 MarkItDown 摄取 PDF/
 
 ```mermaid
 xychart-beta
-    title "laxmimerit/RAGWire 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "laxmimerit/RAGWire 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
     y-axis "stars" 49 --> 52
-    line [51, 50, 50]
+    line [51, 50, 51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 50（-1）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

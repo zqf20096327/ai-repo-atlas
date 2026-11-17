@@ -1,6 +1,6 @@
 # Galileo-Galilei/kedro-mlflow
 
-⭐ 237 · Python · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Galileo-Galilei/kedro-mlflow) · [官网](https://kedro-mlflow.readthedocs.io/) · 组织维护
+⭐ 238 · Python · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Galileo-Galilei/kedro-mlflow) · [官网](https://kedro-mlflow.readthedocs.io/) · 组织维护
 
 **Kedro 插件：在 Kedro 项目中集成 MLflow 实验追踪与模型打包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Galileo-Galilei/kedro-mlflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 235 --> 238
-    line [236, 237, 237]
+    title "Galileo-Galilei/kedro-mlflow 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 235 --> 239
+    line [236, 237, 236, 237, 238, 238]
 ```
 
-2026-10-18 236 → 2026-11-02 237（+1）
+2026-10-18 236 → 2026-11-17 238（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jexchan/dailyup-second-brain-starter
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/jexchan/dailyup-second-brain-starter) · 个人维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/jexchan/dailyup-second-brain-starter) · 个人维护 · 中文 README
 
 **面向人机长期协作的 Obsidian 第二大脑模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jexchan/dailyup-second-brain-starter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "jexchan/dailyup-second-brain-starter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

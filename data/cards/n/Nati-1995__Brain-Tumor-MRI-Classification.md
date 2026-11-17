@@ -1,6 +1,6 @@
 # Nati-1995/Brain-Tumor-MRI-Classification
 
-⭐ 46 · Jupyter Notebook · 推送 2026-08-16 · [GitHub](https://github.com/Nati-1995/Brain-Tumor-MRI-Classification) · [官网](https://nati-1995.github.io/Brain-Tumor-MRI-Classification/) · 个人维护
+⭐ 47 · Jupyter Notebook · 推送 2026-08-16 · [GitHub](https://github.com/Nati-1995/Brain-Tumor-MRI-Classification) · [官网](https://nati-1995.github.io/Brain-Tumor-MRI-Classification/) · 个人维护
 
 **脑肿瘤 MRI 分类项目：检测与四分类，含 Grad-CAM 可解释性**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nati-1995/Brain-Tumor-MRI-Classification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 43 --> 47
-    line [44, 46, 46]
+    title "Nati-1995/Brain-Tumor-MRI-Classification 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [44, 46, 44, 47, 46, 47, 47]
 ```
 
-2026-10-18 44 → 2026-11-02 46（+2）
+2026-10-18 44 → 2026-11-17 47（+3）
 
 
 ---

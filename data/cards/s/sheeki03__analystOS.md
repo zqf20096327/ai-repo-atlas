@@ -1,6 +1,6 @@
 # sheeki03/analystOS
 
-⭐ 25 · Python · 推送 2026-07-07 · [GitHub](https://github.com/sheeki03/analystOS) · 个人维护
+⭐ 26 · Python · 推送 2026-07-07 · [GitHub](https://github.com/sheeki03/analystOS) · 个人维护
 
 **面向股票与加密货币的 AI 研究平台，含 Web UI 与 Notion 自动化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sheeki03/analystOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "sheeki03/analystOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

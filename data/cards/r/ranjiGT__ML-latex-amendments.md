@@ -1,6 +1,6 @@
 # ranjiGT/ML-latex-amendments
 
-⭐ 66 · TeX · GPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/ranjiGT/ML-latex-amendments) · 个人维护
+⭐ 67 · TeX · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ranjiGT/ML-latex-amendments) · 个人维护
 
 **硕士级机器学习课程作业集，LaTeX 排版，含解答**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ranjiGT/ML-latex-amendments 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "ranjiGT/ML-latex-amendments 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 65 --> 68
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

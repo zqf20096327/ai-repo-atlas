@@ -1,6 +1,6 @@
 # Audreator/Simlect-AI-Mall
 
-⭐ 38 · Java · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Audreator/Simlect-AI-Mall) · [官网](https://www.simlect.com) · 个人维护 · 中文 README
+⭐ 62 · Java · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Audreator/Simlect-AI-Mall) · [官网](https://www.simlect.com) · 个人维护 · 中文 README
 
 **带对话导购与智能客服的 B2C 电商全栈平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Audreator/Simlect-AI-Mall 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 37, 38, 38]
+    title "Audreator/Simlect-AI-Mall 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 35 --> 64
+    line [37, 38, 37, 38, 37, 61, 62, 62]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 62（+25）
 
 
 ---

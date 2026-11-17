@@ -1,6 +1,6 @@
 # srfrog/goldie-mcp
 
-⭐ 12 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/srfrog/goldie-mcp) · [官网](http://srfrog.dev/goldie-mcp/) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/srfrog/goldie-mcp) · [官网](http://srfrog.dev/goldie-mcp/) · 个人维护
 
 **多 agent 共享记忆的本地 MCP 服务器，SQLite 向量索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "srfrog/goldie-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "srfrog/goldie-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

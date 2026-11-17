@@ -1,6 +1,6 @@
 # Han-DongHeun/nvmon
 
-⭐ 33 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Han-DongHeun/nvmon) · [官网](https://pypi.org/project/nvmon/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Han-DongHeun/nvmon) · [官网](https://pypi.org/project/nvmon/) · 个人维护
 
 **终端中的 NVIDIA GPU 监视器：单 Python 文件、零依赖**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Han-DongHeun/nvmon 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 22 --> 34
-    line [23, 25, 29, 30, 32, 33, 33]
+    title "Han-DongHeun/nvmon 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 35
+    line [23, 25, 29, 30, 32, 33, 32, 34, 34]
 ```
 
-2026-10-18 23 → 2026-11-02 33（+10）
+2026-10-18 23 → 2026-11-17 34（+11）
 
 
 ---

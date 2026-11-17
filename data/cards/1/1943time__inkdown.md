@@ -1,6 +1,6 @@
 # 1943time/inkdown
 
-⭐ 1,178 · TypeScript · AGPL-3.0 · 推送 2025-12-19 · [GitHub](https://github.com/1943time/inkdown) · 个人维护
+⭐ 1,177 · TypeScript · AGPL-3.0 · 推送 2025-12-19 · [GitHub](https://github.com/1943time/inkdown) · 个人维护
 
 **兼容 GFM 的所见即所得 Markdown 编辑器，内置 LLM 对话**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "1943time/inkdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 1177 --> 1182
-    line [1181, 1180, 1178, 1178]
+    title "1943time/inkdown 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1176 --> 1182
+    line [1181, 1180, 1178, 1177, 1177]
 ```
 
-2026-10-18 1,181 → 2026-11-02 1,178（-3）
+2026-10-18 1,181 → 2026-11-17 1,177（-4）
 
 
 ---

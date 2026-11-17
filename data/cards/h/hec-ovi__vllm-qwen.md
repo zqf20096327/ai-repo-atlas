@@ -1,6 +1,6 @@
 # hec-ovi/vllm-qwen
 
-⭐ 18 · Python · Unlicense · 推送 2026-04-26 · [GitHub](https://github.com/hec-ovi/vllm-qwen) · 个人维护
+⭐ 19 · Python · Unlicense · 推送 2026-04-26 · [GitHub](https://github.com/hec-ovi/vllm-qwen) · 个人维护
 
 **AMD Strix Halo 上用 vLLM 提供 Qwen3.6-27B BF16 推理服务的 Docker 方案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hec-ovi/vllm-qwen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "hec-ovi/vllm-qwen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # noditlabs/nodit-mcp-server
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/noditlabs/nodit-mcp-server) · [官网](https://nodit.io) · 组织维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/noditlabs/nodit-mcp-server) · [官网](https://nodit.io) · 组织维护
 
 **让 AI agent 通过 Nodit API 访问多链区块链数据的 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "noditlabs/nodit-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

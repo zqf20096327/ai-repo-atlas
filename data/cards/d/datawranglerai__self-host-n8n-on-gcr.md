@@ -1,6 +1,6 @@
 # datawranglerai/self-host-n8n-on-gcr
 
-⭐ 620 · HCL · MIT · 推送 2026-05-13 · [GitHub](https://github.com/datawranglerai/self-host-n8n-on-gcr) · 个人维护
+⭐ 621 · HCL · MIT · 推送 2026-05-13 · [GitHub](https://github.com/datawranglerai/self-host-n8n-on-gcr) · 个人维护
 
 **在 Google Cloud Run 上自部署 n8n 的分步部署指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawranglerai/self-host-n8n-on-gcr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 617 --> 621
-    line [618, 619, 620, 620]
+    title "datawranglerai/self-host-n8n-on-gcr 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 617 --> 622
+    line [618, 619, 620, 619, 620, 619, 620, 621, 621]
 ```
 
-2026-10-18 618 → 2026-11-02 620（+2）
+2026-10-18 618 → 2026-11-17 621（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # voocel/agentcore
 
-⭐ 72 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/voocel/agentcore) · 个人维护 · 中文 README
+⭐ 73 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/voocel/agentcore) · 个人维护 · 中文 README
 
 **构建 AI Agent 的极简可组合 Go 库**
 
@@ -45,13 +45,13 @@ Go 语言 AI agent 构建库，基于 litellm 提供模型-工具循环：Run �
 
 ```mermaid
 xychart-beta
-    title "voocel/agentcore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "voocel/agentcore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-17"]
     y-axis "stars" 71 --> 74
-    line [73, 72]
+    line [73, 72, 73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 72（-1）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xgxgnpu/Physics-informed-vibe-coding
 
-⭐ 134 · Python · 推送 2026-10-29 · [GitHub](https://github.com/xgxgnpu/Physics-informed-vibe-coding) · 组织维护 · 中文 README
+⭐ 136 · Python · 推送 2026-10-29 · [GitHub](https://github.com/xgxgnpu/Physics-informed-vibe-coding) · 组织维护 · 中文 README
 
 **科学机器学习算法的 JAX-GPU 代码集合（PINNs/PIELM/RFM/神经算子）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xgxgnpu/Physics-informed-vibe-coding 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 129 --> 135
-    line [130, 131, 133, 134, 134]
+    title "xgxgnpu/Physics-informed-vibe-coding 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 129 --> 137
+    line [130, 131, 133, 134, 131, 136, 136]
 ```
 
-2026-10-18 130 → 2026-11-02 134（+4）
+2026-10-18 130 → 2026-11-17 136（+6）
 
 
 ---

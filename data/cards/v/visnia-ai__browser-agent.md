@@ -1,6 +1,6 @@
 # visnia-ai/browser-agent
 
-⭐ 23 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/visnia-ai/browser-agent) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/visnia-ai/browser-agent) · 组织维护
 
 **浏览器自动化 Agent：让 LLM 按任务自动操作网页**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "visnia-ai/browser-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    title "visnia-ai/browser-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [24, 23, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 23（-1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # candle-org/MindAct
 
-⭐ 920 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/candle-org/MindAct) · [官网](http://mindnlp.readthedocs.io/) · 组织维护
+⭐ 921 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/candle-org/MindAct) · [官网](http://mindnlp.readthedocs.io/) · 组织维护
 
 **桌面操作任务模仿学习策略的可复现训练评测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "candle-org/MindAct 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 918 --> 921
-    line [920, 919, 920]
+    title "candle-org/MindAct 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 918 --> 922
+    line [920, 919, 920, 921, 921]
 ```
 
-2026-10-18 920 → 2026-11-02 920（+0）
+2026-10-18 920 → 2026-11-17 921（+1）
 
 
 ---

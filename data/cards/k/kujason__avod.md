@@ -1,6 +1,6 @@
 # kujason/avod
 
-⭐ 960 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/kujason/avod) · 组织维护
+⭐ 961 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/kujason/avod) · 组织维护
 
 **自动驾驶 3D 目标检测网络 AVOD 的官方实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kujason/avod 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 958 --> 961
-    line [959, 960, 960]
+    title "kujason/avod 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 958 --> 962
+    line [959, 960, 961, 961]
 ```
 
-2026-10-18 959 → 2026-11-02 960（+1）
+2026-10-18 959 → 2026-11-17 961（+2）
 
 
 ---

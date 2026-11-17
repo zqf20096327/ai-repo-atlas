@@ -1,6 +1,6 @@
 # Zefan-Cai/Awesome-LLM-KV-Cache
 
-⭐ 473 · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache) · 个人维护
+⭐ 477 · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache) · 个人维护
 
 **LLM KV Cache 论文与代码策展清单（10+ 类）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zefan-Cai/Awesome-LLM-KV-Cache 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 469 --> 474
-    line [470, 472, 473, 473]
+    title "Zefan-Cai/Awesome-LLM-KV-Cache 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 469 --> 478
+    line [470, 472, 473, 472, 473, 474, 477, 477]
 ```
 
-2026-10-18 470 → 2026-11-02 473（+3）
+2026-10-18 470 → 2026-11-17 477（+7）
 
 
 ---

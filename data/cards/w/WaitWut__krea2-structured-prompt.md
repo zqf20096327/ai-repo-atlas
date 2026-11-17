@@ -1,6 +1,6 @@
 # WaitWut/krea2-structured-prompt
 
-⭐ 13 · JavaScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/WaitWut/krea2-structured-prompt) · [官网](https://registry.comfy.org/nodes/krea2-structured-prompt) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/WaitWut/krea2-structured-prompt) · [官网](https://registry.comfy.org/nodes/krea2-structured-prompt) · 个人维护
 
 **面向 Krea-2 的 ComfyUI 结构化提示词构建节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WaitWut/krea2-structured-prompt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "WaitWut/krea2-structured-prompt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 11, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

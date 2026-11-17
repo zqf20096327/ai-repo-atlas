@@ -1,6 +1,6 @@
 # mrpickles007/imap-cleanup-tool
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/mrpickles007/imap-cleanup-tool) · [官网](https://pypi.org/project/imap-cleanup-tool/) · 个人维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/mrpickles007/imap-cleanup-tool) · [官网](https://pypi.org/project/imap-cleanup-tool/) · 个人维护
 
 **按发件人/域名/规则或 AI 批量清理 IMAP 邮箱的 CLI 与本地 Web 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrpickles007/imap-cleanup-tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 15]
+    title "mrpickles007/imap-cleanup-tool 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 15, 13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

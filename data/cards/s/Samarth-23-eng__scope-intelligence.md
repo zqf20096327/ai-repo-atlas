@@ -1,6 +1,6 @@
 # Samarth-23-eng/scope-intelligence
 
-⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Samarth-23-eng/scope-intelligence) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Samarth-23-eng/scope-intelligence) · 个人维护
 
 **自托管 OSINT 工作台：把公开网络证据转为可溯源的公司情报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Samarth-23-eng/scope-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "Samarth-23-eng/scope-intelligence 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

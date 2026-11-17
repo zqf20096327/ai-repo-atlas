@@ -1,6 +1,6 @@
 # dmeoli/BeerEX
 
-⭐ 18 · CLIPS · MIT · 推送 2026-10-18 · [GitHub](https://github.com/dmeoli/BeerEX) · [官网](https://t.me/BeerEXpertBot) · 个人维护
+⭐ 18 · CLIPS · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dmeoli/BeerEX) · [官网](https://t.me/BeerEXpertBot) · 个人维护
 
 **推荐啤酒的规则式专家系统，Telegram 机器人形式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dmeoli/BeerEX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

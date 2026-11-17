@@ -1,6 +1,6 @@
 # spanlens/Spanlens
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/spanlens/Spanlens) · [官网](https://spanlens.io) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/spanlens/Spanlens) · [官网](https://spanlens.io) · 个人维护
 
 **面向 LLM 应用的可观测与成本监控代理，一键自托管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spanlens/Spanlens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

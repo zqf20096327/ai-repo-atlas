@@ -1,6 +1,6 @@
 # tensorflow/tfjs-wechat
 
-⭐ 578 · TypeScript · 推送 2026-06-24 · [GitHub](https://github.com/tensorflow/tfjs-wechat) · [官网](https://tensorflow.org/js) · 组织维护 · 中文 README
+⭐ 577 · TypeScript · 推送 2026-06-24 · [GitHub](https://github.com/tensorflow/tfjs-wechat) · [官网](https://tensorflow.org/js) · 组织维护 · 中文 README
 
 **微信小程序调用 TensorFlow.js 的插件封装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tfjs-wechat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 577 --> 579
-    line [578, 578]
+    title "tensorflow/tfjs-wechat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 576 --> 579
+    line [578, 577, 577]
 ```
 
-2026-10-18 578 → 2026-11-02 578（+0）
+2026-10-18 578 → 2026-11-17 577（-1）
 
 
 ---

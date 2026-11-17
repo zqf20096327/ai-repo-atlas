@@ -1,6 +1,6 @@
 # N-Erickson/AetherLink-SDR-MCP
 
-⭐ 30 · Python · 推送 2026-07-21 · [GitHub](https://github.com/N-Erickson/AetherLink-SDR-MCP) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/N-Erickson/AetherLink-SDR-MCP) · 个人维护
 
 **让 Claude/LLM 通过 MCP 控制软件无线电的协议解码服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "N-Erickson/AetherLink-SDR-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "N-Erickson/AetherLink-SDR-MCP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 30, 31, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 33（+5）
 
 
 ---

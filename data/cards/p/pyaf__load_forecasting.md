@@ -1,6 +1,6 @@
 # pyaf/load_forecasting
 
-⭐ 648 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/pyaf/load_forecasting) · 组织维护
+⭐ 649 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/pyaf/load_forecasting) · 组织维护
 
 **德里短期电力负荷预测本科项目：ARIMA/RNN/LSTM 等多模型对比**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pyaf/load_forecasting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 647 --> 649
-    line [648, 648]
+    title "pyaf/load_forecasting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 647 --> 650
+    line [648, 649, 649]
 ```
 
-2026-10-18 648 → 2026-11-02 648（+0）
+2026-10-18 648 → 2026-11-17 649（+1）
 
 
 ---

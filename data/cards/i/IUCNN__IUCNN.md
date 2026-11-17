@@ -1,6 +1,6 @@
 # IUCNN/IUCNN
 
-⭐ 28 · R · 推送 2026-07-08 · [GitHub](https://github.com/IUCNN/IUCNN) · 组织维护
+⭐ 29 · R · 推送 2026-07-08 · [GitHub](https://github.com/IUCNN/IUCNN) · 组织维护
 
 **R 包：用神经网络预测物种 IUCN 红色名录受威胁等级**
 
@@ -44,13 +44,13 @@ R 包，基于地理物种分布记录、环境数据与已有 IUCN 红色名录
 
 ```mermaid
 xychart-beta
-    title "IUCNN/IUCNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "IUCNN/IUCNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

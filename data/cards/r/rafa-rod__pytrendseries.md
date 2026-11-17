@@ -1,6 +1,6 @@
 # rafa-rod/pytrendseries
 
-⭐ 167 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/rafa-rod/pytrendseries) · 个人维护
+⭐ 169 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/rafa-rod/pytrendseries) · 个人维护
 
 **时间序列趋势检测库：识别涨跌趋势并计算回撤指标**
 
@@ -44,13 +44,13 @@ pytrendseries 是一个 Python 库，读取 pandas.DataFrame 格式的时间序�
 
 ```mermaid
 xychart-beta
-    title "rafa-rod/pytrendseries 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    title "rafa-rod/pytrendseries 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 166 --> 170
+    line [167, 168, 169, 169]
 ```
 
-2026-10-18 167 → 2026-11-02 167（+0）
+2026-10-18 167 → 2026-11-17 169（+2）
 
 
 ---

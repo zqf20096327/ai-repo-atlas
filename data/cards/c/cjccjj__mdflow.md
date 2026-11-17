@@ -1,6 +1,6 @@
 # cjccjj/mdflow
 
-⭐ 19 · C · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/cjccjj/mdflow) · [官网](https://github.com/cjccjj/mdflow#readme) · 个人维护
+⭐ 22 · C · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/cjccjj/mdflow) · [官网](https://github.com/cjccjj/mdflow#readme) · 个人维护
 
 **流式 Markdown 转 ANSI 终端渲染的 C CLI/库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cjccjj/mdflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "cjccjj/mdflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

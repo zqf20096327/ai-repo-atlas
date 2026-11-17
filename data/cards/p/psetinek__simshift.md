@@ -1,6 +1,6 @@
 # psetinek/simshift
 
-⭐ 16 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/psetinek/simshift) · [官网](https://simshift.readthedocs.io) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/psetinek/simshift) · [官网](https://simshift.readthedocs.io) · 组织维护
 
 **评测物理仿真神经代理模型分布偏移适配的基准**
 
@@ -45,13 +45,13 @@ SIMSHIFT 是面向无监督域适配（UDA）方法的基准：提供热轧、�
 
 ```mermaid
 xychart-beta
-    title "psetinek/simshift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "psetinek/simshift 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

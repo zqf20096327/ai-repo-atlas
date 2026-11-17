@@ -1,6 +1,6 @@
 # SkalskiP/top-cvpr-2024-papers
 
-⭐ 736 · Python · CC0-1.0 · 推送 2026-04-15 · [GitHub](https://github.com/SkalskiP/top-cvpr-2024-papers) · 个人维护
+⭐ 735 · Python · CC0-1.0 · 推送 2026-04-15 · [GitHub](https://github.com/SkalskiP/top-cvpr-2024-papers) · 个人维护
 
 **CVPR 2024 精选论文清单：按主题组织并附代码/演示链接**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SkalskiP/top-cvpr-2024-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 735 --> 737
-    line [736, 736]
+    title "SkalskiP/top-cvpr-2024-papers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 733 --> 737
+    line [736, 735, 734, 735, 735]
 ```
 
-2026-10-18 736 → 2026-11-02 736（+0）
+2026-10-18 736 → 2026-11-17 735（-1）
 
 
 ---

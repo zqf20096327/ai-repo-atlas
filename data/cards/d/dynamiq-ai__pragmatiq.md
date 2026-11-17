@@ -1,6 +1,6 @@
 # dynamiq-ai/pragmatiq
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/dynamiq-ai/pragmatiq) · [官网](https://pragmatiq.getdynamiq.ai) · 组织维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/dynamiq-ai/pragmatiq) · [官网](https://pragmatiq.getdynamiq.ai) · 组织维护
 
 **银行业行为基础模型开源实现：把用户事件史转为嵌入并支持下游任务**
 
@@ -46,13 +46,13 @@ PRAGMA 论文（arXiv:2604.08649）的独立开源实现，面向研究人员、
 
 ```mermaid
 xychart-beta
-    title "dynamiq-ai/pragmatiq 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 59 --> 63
-    line [60, 61, 62, 62]
+    title "dynamiq-ai/pragmatiq 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 64
+    line [60, 61, 62, 61, 63, 63]
 ```
 
-2026-10-18 60 → 2026-11-02 62（+2）
+2026-10-18 60 → 2026-11-17 63（+3）
 
 
 ---

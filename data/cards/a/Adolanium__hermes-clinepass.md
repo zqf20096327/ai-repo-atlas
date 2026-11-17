@@ -1,6 +1,6 @@
 # Adolanium/hermes-clinepass
 
-⭐ 12 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Adolanium/hermes-clinepass) · [官网](https://github.com/Adolanium/hermes-clinepass) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Adolanium/hermes-clinepass) · [官网](https://github.com/Adolanium/hermes-clinepass) · 个人维护
 
 **让 Hermes Agent 通过 ClinePass 调用 Kimi/GLM/DeepSeek 等模型的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adolanium/hermes-clinepass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Adolanium/hermes-clinepass 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AdilShamim8/AI-Engineering
 
-⭐ 25 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AdilShamim8/AI-Engineering) · [官网](https://adilshamim8.github.io/AI-Engineering/) · 个人维护
+⭐ 27 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AdilShamim8/AI-Engineering) · [官网](https://adilshamim8.github.io/AI-Engineering/) · 个人维护
 
 **AI 工程师职业与面试准备课程：路线图、课程与面试题库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdilShamim8/AI-Engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "AdilShamim8/AI-Engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 24, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

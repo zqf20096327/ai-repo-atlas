@@ -1,6 +1,6 @@
 # parrt/dtreeviz
 
-⭐ 3,161 · Jupyter Notebook · MIT · 推送 2026-01-02 · [GitHub](https://github.com/parrt/dtreeviz) · 个人维护
+⭐ 3,163 · Jupyter Notebook · MIT · 推送 2026-01-02 · [GitHub](https://github.com/parrt/dtreeviz) · 个人维护
 
 **决策树可视化与模型解释的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "parrt/dtreeviz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 3160 --> 3163
-    line [3161, 3162, 3161, 3161]
+    title "parrt/dtreeviz 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 3160 --> 3164
+    line [3161, 3162, 3161, 3162, 3163, 3163]
 ```
 
-2026-10-18 3,161 → 2026-11-02 3,161（+0）
+2026-10-18 3,161 → 2026-11-17 3,163（+2）
 
 
 ---

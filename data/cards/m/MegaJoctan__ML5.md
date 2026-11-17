@@ -1,6 +1,6 @@
 # MegaJoctan/ML5
 
-⭐ 274 · MQL5 · MIT · 推送 2026-09-18 · [GitHub](https://github.com/MegaJoctan/ML5) · [官网](https://omegafx.co) · 个人维护
+⭐ 277 · MQL5 · MIT · 推送 2026-09-18 · [GitHub](https://github.com/MegaJoctan/ML5) · [官网](https://omegafx.co) · 个人维护
 
 **MQL5 语言的机器学习与数据科学库，供交易机器人开发**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "MegaJoctan/ML5 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 272 --> 275
-    line [273, 274, 274]
+    title "MegaJoctan/ML5 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 272 --> 278
+    line [273, 274, 273, 276, 277, 277]
 ```
 
-2026-10-18 273 → 2026-11-02 274（+1）
+2026-10-18 273 → 2026-11-17 277（+4）
 
 
 ---

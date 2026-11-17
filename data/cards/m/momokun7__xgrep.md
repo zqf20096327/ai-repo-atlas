@@ -1,6 +1,6 @@
 # momokun7/xgrep
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/momokun7/xgrep) · [官网](https://crates.io/crates/xgrep-search) · 个人维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/momokun7/xgrep) · [官网](https://crates.io/crates/xgrep-search) · 个人维护
 
 **带 MCP 服务器的索引式代码搜索引擎，供人类与 AI agent 使用**
 
@@ -45,13 +45,13 @@ Rust 编写的命令行代码搜索工具 xg：首次搜索时自动构建 trigr
 
 ```mermaid
 xychart-beta
-    title "momokun7/xgrep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    title "momokun7/xgrep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 20, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

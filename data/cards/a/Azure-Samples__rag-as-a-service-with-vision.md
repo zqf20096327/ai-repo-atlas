@@ -1,6 +1,6 @@
 # Azure-Samples/rag-as-a-service-with-vision
 
-⭐ 37 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/Azure-Samples/rag-as-a-service-with-vision) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Azure 上的图文 RAG 应用框架：处理 MHTML 文档检索增强生成**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/rag-as-a-service-with-vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-12 37（+0）
 
 
 ---

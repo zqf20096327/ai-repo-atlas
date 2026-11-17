@@ -1,6 +1,6 @@
 # microsoft/ark
 
-⭐ 133 · C++ · MIT · 推送 2026-08-20 · [GitHub](https://github.com/microsoft/ark) · 组织维护
+⭐ 135 · C++ · MIT · 推送 2026-08-20 · [GitHub](https://github.com/microsoft/ark) · 组织维护
 
 **分布式 GPU 深度学习执行框架：GPU 自主调度计算与通信**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    title "microsoft/ark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 132 --> 136
+    line [133, 135, 135]
 ```
 
-2026-10-18 133 → 2026-11-02 133（+0）
+2026-10-18 133 → 2026-11-17 135（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lyuai/agentok
 
-⭐ 425 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/lyuai/agentok) · [官网](http://studio.agentok.ai/) · 个人维护
+⭐ 426 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/lyuai/agentok) · [官网](http://studio.agentok.ai/) · 个人维护
 
 **可视化拖拽构建 AG2 多智能体应用并生成 Python 代码的 Studio**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lyuai/agentok 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 422 --> 426
-    line [424, 423, 424, 425]
+    title "lyuai/agentok 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 422 --> 427
+    line [424, 423, 424, 425, 423, 425, 426, 426]
 ```
 
-2026-10-18 424 → 2026-11-02 425（+1）
+2026-10-18 424 → 2026-11-17 426（+2）
 
 
 ---

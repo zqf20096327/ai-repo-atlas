@@ -1,6 +1,6 @@
 # fl2o/catflap-prey-detector
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/fl2o/catflap-prey-detector) · 个人维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/fl2o/catflap-prey-detector) · 个人维护
 
 **树莓派猫门猎物检测系统：识别携猎物的猫并自动锁门**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fl2o/catflap-prey-detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "fl2o/catflap-prey-detector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

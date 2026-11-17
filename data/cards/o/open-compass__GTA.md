@@ -1,6 +1,6 @@
 # open-compass/GTA
 
-⭐ 153 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/open-compass/GTA) · 组织维护 · 中文 README
+⭐ 153 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/open-compass/GTA) · 组织维护 · 中文 README
 
 **通用工具型 Agent 的分层评测基准与评测套件**
 
@@ -46,12 +46,12 @@ NeurIPS 2024 收录的 GTA 基准及其扩展 GTA-2：在同一仓库内提供�
 ```mermaid
 xychart-beta
     title "open-compass/GTA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-10-18 153 → 2026-11-02 153（+0）
+2026-10-18 153 → 2026-11-17 153（+0）
 
 
 ---

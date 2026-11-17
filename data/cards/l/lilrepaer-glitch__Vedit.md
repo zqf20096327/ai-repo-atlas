@@ -1,6 +1,6 @@
 # lilrepaer-glitch/Vedit
 
-⭐ 16 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/lilrepaer-glitch/Vedit) · [官网](not.now) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带 AI Copilot 的多轨视频编辑器（Windows/Android）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lilrepaer-glitch/Vedit 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-07"]
     y-axis "stars" 10 --> 17
     line [11, 14, 16, 15, 16, 16]
 ```
 
-2026-10-23 11 → 2026-11-02 16（+5）
+2026-10-23 11 → 2026-11-07 16（+5）
 
 
 ---

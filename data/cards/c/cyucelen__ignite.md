@@ -1,6 +1,6 @@
 # cyucelen/ignite
 
-⭐ 12 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cyucelen/ignite) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cyucelen/ignite) · 个人维护
 
 **面向 AI 代理与自动化流程的按需 Docker 容器 REST API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyucelen/ignite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "cyucelen/ignite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

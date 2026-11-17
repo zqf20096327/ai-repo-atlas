@@ -1,6 +1,6 @@
 # divanvisagie/chat-gipitty
 
-⭐ 44 · Rust · BSD-3-Clause · 推送 2025-12-08 · [GitHub](https://github.com/divanvisagie/chat-gipitty) · [官网](https://divanv.com/chat-gipitty) · 个人维护
+⭐ 43 · Rust · BSD-3-Clause · 推送 2025-12-08 · [GitHub](https://github.com/divanvisagie/chat-gipitty) · [官网](https://divanv.com/chat-gipitty) · 个人维护
 
 **终端里调用 LLM 的命令行客户端，支持管道输入**
 
@@ -44,13 +44,13 @@ Rust 编写的命令行工具 cgip，面向 OpenAI Chat Completions API 及任�
 
 ```mermaid
 xychart-beta
-    title "divanvisagie/chat-gipitty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "divanvisagie/chat-gipitty 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [44, 43, 43]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 43（-1）
 
 
 ---

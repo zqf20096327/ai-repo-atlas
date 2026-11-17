@@ -1,6 +1,6 @@
 # simwai/perplexity-ai-export
 
-⭐ 61 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/simwai/perplexity-ai-export) · 个人维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/simwai/perplexity-ai-export) · 个人维护
 
 **导出 Perplexity 对话历史并构建本地可检索的 RAG 知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "simwai/perplexity-ai-export 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61]
+    title "simwai/perplexity-ai-export 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 58 --> 65
+    line [59, 60, 61, 59, 63, 64, 64]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 64（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # nobodywho-ooo/react-native-starter-example
 
-⭐ 12 · TypeScript · EUPL-1.2 · 推送 2026-10-28 · [GitHub](https://github.com/nobodywho-ooo/react-native-starter-example) · [官网](https://github.com/nobodywho-ooo/nobodywho) · 组织维护
+⭐ 13 · TypeScript · EUPL-1.2 · 推送 2026-11-05 · [GitHub](https://github.com/nobodywho-ooo/react-native-starter-example) · [官网](https://github.com/nobodywho-ooo/nobodywho) · 组织维护
 
 **演示 NobodyWho 本地 LLM 库的 React Native 入门示例应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nobodywho-ooo/react-native-starter-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "nobodywho-ooo/react-native-starter-example 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

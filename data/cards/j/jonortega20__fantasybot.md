@@ -1,6 +1,6 @@
 # jonortega20/fantasybot
 
-⭐ 31 · Python · 推送 2026-09-02 · [GitHub](https://github.com/jonortega20/fantasybot) · 个人维护
+⭐ 30 · Python · 推送 2026-09-02 · [GitHub](https://github.com/jonortega20/fantasybot) · 个人维护
 
 **LALIGA Fantasy 自动化代理：读行情、竞价、卖人、排阵**
 
@@ -46,13 +46,13 @@ Python 标准库实现的 LALIGA Fantasy 代理：通过游戏非官方 API 与 
 
 ```mermaid
 xychart-beta
-    title "jonortega20/fantasybot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "jonortega20/fantasybot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DataTalksClub/datatalksclub.github.io
 
-⭐ 405 · Python · 推送 2026-10-16 · [GitHub](https://github.com/DataTalksClub/datatalksclub.github.io) · [官网](https://datatalks.club) · 组织维护
+⭐ 413 · Python · 推送 2026-11-16 · [GitHub](https://github.com/DataTalksClub/datatalksclub.github.io) · [官网](https://datatalks.club) · 组织维护
 
 **DataTalks.Club 社区官网源码：数据/AI 从业者的内容站点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DataTalksClub/datatalksclub.github.io 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 393 --> 406
-    line [394, 396, 398, 400, 401, 402, 404, 405]
+    title "DataTalksClub/datatalksclub.github.io 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 393 --> 414
+    line [394, 396, 398, 400, 401, 402, 404, 405, 401, 410, 411, 412, 413, 413]
 ```
 
-2026-10-18 394 → 2026-11-02 405（+11）
+2026-10-18 394 → 2026-11-17 413（+19）
 
 
 ---

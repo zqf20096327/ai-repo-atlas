@@ -1,6 +1,6 @@
 # MCP-Manager/MCP-Security-Checklists
 
-⭐ 199 · JavaScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/MCP-Manager/MCP-Security-Checklists) · [官网](https://mcpmanager.ai) · 组织维护
+⭐ 200 · JavaScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/MCP-Manager/MCP-Security-Checklists) · [官网](https://mcpmanager.ai) · 组织维护
 
 **MCP 服务器与 AI agent 安全采用的检查清单与指南仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MCP-Manager/MCP-Security-Checklists 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
-    y-axis "stars" 198 --> 200
-    line [199, 199]
+    title "MCP-Manager/MCP-Security-Checklists 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 198 --> 201
+    line [199, 200, 200]
 ```
 
-2026-10-22 199 → 2026-11-02 199（+0）
+2026-10-22 199 → 2026-11-17 200（+1）
 
 
 ---

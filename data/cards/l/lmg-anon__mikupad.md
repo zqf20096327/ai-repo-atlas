@@ -1,6 +1,6 @@
 # lmg-anon/mikupad
 
-⭐ 756 · HTML · AGPL-3.0 · 推送 2025-12-27 · [GitHub](https://github.com/lmg-anon/mikupad) · [官网](https://lmg-anon.github.io/mikupad/mikupad.html) · 个人维护
+⭐ 760 · HTML · AGPL-3.0 · 推送 2025-12-27 · [GitHub](https://github.com/lmg-anon/mikupad) · [官网](https://lmg-anon.github.io/mikupad/mikupad.html) · 个人维护
 
 **单 HTML 文件的浏览器端 LLM 文本生成前端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lmg-anon/mikupad 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 753 --> 758
-    line [754, 755, 757, 756]
+    title "lmg-anon/mikupad 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 753 --> 761
+    line [754, 755, 757, 756, 754, 758, 759, 760, 760]
 ```
 
-2026-10-18 754 → 2026-11-02 756（+2）
+2026-10-18 754 → 2026-11-17 760（+6）
 
 
 ---

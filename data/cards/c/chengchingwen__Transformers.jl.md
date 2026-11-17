@@ -1,6 +1,6 @@
 # chengchingwen/Transformers.jl
 
-⭐ 573 · Julia · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chengchingwen/Transformers.jl) · 个人维护
+⭐ 574 · Julia · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chengchingwen/Transformers.jl) · 个人维护
 
 **Julia 语言基于 Flux.jl 的 Transformer 模型实现库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "chengchingwen/Transformers.jl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "chengchingwen/Transformers.jl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 572 --> 575
-    line [573, 574, 573, 573]
+    line [573, 574, 573, 574, 574]
 ```
 
-2026-10-18 573 → 2026-11-02 573（+0）
+2026-10-18 573 → 2026-11-17 574（+1）
 
 
 ---

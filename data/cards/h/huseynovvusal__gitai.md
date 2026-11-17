@@ -1,6 +1,6 @@
 # huseynovvusal/gitai
 
-⭐ 16 · Go · MIT · 推送 2025-12-26 · [GitHub](https://github.com/huseynovvusal/gitai) · 个人维护
+⭐ 17 · Go · MIT · 推送 2025-12-26 · [GitHub](https://github.com/huseynovvusal/gitai) · 个人维护
 
 **Go 编写的 CLI，用 AI 生成 git commit 信息**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huseynovvusal/gitai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "huseynovvusal/gitai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

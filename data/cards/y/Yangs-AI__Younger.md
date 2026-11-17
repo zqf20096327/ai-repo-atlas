@@ -1,6 +1,6 @@
 # Yangs-AI/Younger
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Yangs-AI/Younger) · [官网](https://datasets.yangs.ai/younger) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Yangs-AI/Younger) · [官网](https://datasets.yangs.ai/younger) · 组织维护
 
 **AI 生成神经网络架构数据集（Younger）及其配套代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yangs-AI/Younger 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

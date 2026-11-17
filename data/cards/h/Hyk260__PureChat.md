@@ -1,6 +1,6 @@
 # Hyk260/PureChat
 
-⭐ 544 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Hyk260/PureChat) · [官网](https://im.purechat.cn) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **集成多模型 AI 功能的即时聊天应用（Vue3/Electron）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hyk260/PureChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 543 --> 545
-    line [544, 544]
+    x-axis ["2026-10-18", "2026-11-08"]
+    y-axis "stars" 543 --> 546
+    line [544, 545]
 ```
 
-2026-10-18 544 → 2026-11-02 544（+0）
+2026-10-18 544 → 2026-11-08 545（+1）
 
 
 ---

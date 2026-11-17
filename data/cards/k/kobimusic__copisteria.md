@@ -1,6 +1,6 @@
 # kobimusic/copisteria
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kobimusic/copisteria) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kobimusic/copisteria) · 个人维护
 
 **光学乐谱识别读取器：扫描乐谱页面转 MusicXML**
 
@@ -44,13 +44,13 @@ KobiMusic 的 OMR（光学乐谱识别）工具：输入印刷乐谱的扫描页
 
 ```mermaid
 xychart-beta
-    title "kobimusic/copisteria 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "kobimusic/copisteria 星数(近 9 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 25
+    line [12, 18, 19, 20, 21, 22, 23, 24, 24]
 ```
 
-2026-10-30 12 → 2026-11-02 12（+0）
+2026-10-30 12 → 2026-11-17 24（+12）
 
 
 ---

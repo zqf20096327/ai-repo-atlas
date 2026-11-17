@@ -1,6 +1,6 @@
 # frefrik/comfyui-flux
 
-⭐ 53 · Shell · 推送 2026-01-07 · [GitHub](https://github.com/frefrik/comfyui-flux) · [官网](https://hub.docker.com/r/frefrik/comfyui-flux) · 个人维护
+⭐ 54 · Shell · 推送 2026-01-07 · [GitHub](https://github.com/frefrik/comfyui-flux) · [官网](https://hub.docker.com/r/frefrik/comfyui-flux) · 个人维护
 
 **用 Docker Compose 运行 ComfyUI 与 FLUX.1 模型的容器化部署方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "frefrik/comfyui-flux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "frefrik/comfyui-flux 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

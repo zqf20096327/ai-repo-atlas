@@ -1,6 +1,6 @@
 # MoonshotAI/K2-Vendor-Verifier
 
-⭐ 600 · Python · 推送 2026-02-14 · [GitHub](https://github.com/MoonshotAI/K2-Vendor-Verifier) · 组织维护 · 中文 README
+⭐ 601 · Python · 推送 2026-02-14 · [GitHub](https://github.com/MoonshotAI/K2-Vendor-Verifier) · 组织维护 · 中文 README
 
 **Kimi K2 各 API 供应商 toolcall 精度评测工具与榜单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/K2-Vendor-Verifier 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 593 --> 601
-    line [594, 596, 599, 600, 600]
+    title "MoonshotAI/K2-Vendor-Verifier 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 593 --> 602
+    line [594, 596, 599, 600, 594, 601, 601]
 ```
 
-2026-10-18 594 → 2026-11-02 600（+6）
+2026-10-18 594 → 2026-11-17 601（+7）
 
 
 ---

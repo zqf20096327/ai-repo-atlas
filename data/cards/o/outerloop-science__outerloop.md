@@ -1,6 +1,6 @@
 # outerloop-science/outerloop
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/outerloop-science/outerloop) · [官网](https://outerloop.science) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/outerloop-science/outerloop) · [官网](https://outerloop.science) · 组织维护
 
 **在自有代码库上自动跑实验、仅在基准真实提升时开 PR 的自动研究 agent 系统**
 
@@ -45,13 +45,13 @@ Outerloop 在用户自己的研究代码库上运行 AI agent 循环：agent 提
 
 ```mermaid
 xychart-beta
-    title "outerloop-science/outerloop 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "outerloop-science/outerloop 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 36 --> 45
+    line [37, 38, 37, 41, 42, 43, 44, 44]
 ```
 
-2026-10-24 37 → 2026-11-02 38（+1）
+2026-10-24 37 → 2026-11-17 44（+7）
 
 
 ---

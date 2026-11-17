@@ -1,6 +1,6 @@
 # ashish7802/awesome-api-skills
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ashish7802/awesome-api-skills) · [官网](https://awesome-api-skills-6y6z.vercel.app) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ashish7802/awesome-api-skills) · [官网](https://awesome-api-skills-6y6z.vercel.app) · 个人维护
 
 **给 AI 编码 agent 用的 API 技能清单（125 个 SKILL.md）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashish7802/awesome-api-skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-23", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-02 13（+0）
+2026-10-23 13 → 2026-11-17 13（+0）
 
 
 ---

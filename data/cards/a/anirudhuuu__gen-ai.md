@@ -1,6 +1,6 @@
 # anirudhuuu/gen-ai
 
-⭐ 91 · Python · 推送 2025-12-26 · [GitHub](https://github.com/anirudhuuu/gen-ai) · 个人维护
+⭐ 90 · Python · 推送 2025-12-26 · [GitHub](https://github.com/anirudhuuu/gen-ai) · 个人维护
 
 **生成式 AI 从概念到实战项目的学习仓库**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "anirudhuuu/gen-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 90 --> 92
-    line [91, 91]
+    title "anirudhuuu/gen-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 89 --> 92
+    line [91, 90, 90]
 ```
 
-2026-10-18 91 → 2026-11-02 91（+0）
+2026-10-18 91 → 2026-11-17 90（-1）
 
 
 ---

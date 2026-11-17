@@ -1,6 +1,6 @@
 # Diyago/Tabular-data-generation
 
-⭐ 570 · Python · Apache-2.0 · 推送 2026-03-29 · [GitHub](https://github.com/Diyago/Tabular-data-generation) · [官网](https://towardsdatascience.com/review-of-gans-for-tabular-data-a30a2199342) · 个人维护
+⭐ 571 · Python · Apache-2.0 · 推送 2026-03-29 · [GitHub](https://github.com/Diyago/Tabular-data-generation) · [官网](https://towardsdatascience.com/review-of-gans-for-tabular-data-a30a2199342) · 个人维护
 
 **给数据科学家的表格数据合成库：GAN/扩散/LLM 生成与过滤**
 
@@ -46,13 +46,13 @@ Python 库 tabgan，提供统一接口用多种生成方法合成表格数据：
 
 ```mermaid
 xychart-beta
-    title "Diyago/Tabular-data-generation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 569 --> 571
-    line [570, 570]
+    title "Diyago/Tabular-data-generation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 569 --> 572
+    line [570, 571, 571]
 ```
 
-2026-10-18 570 → 2026-11-02 570（+0）
+2026-10-18 570 → 2026-11-17 571（+1）
 
 
 ---

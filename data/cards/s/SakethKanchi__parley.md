@@ -1,6 +1,6 @@
 # SakethKanchi/parley
 
-⭐ 33 · JavaScript · ISC · 推送 2026-10-07 · [GitHub](https://github.com/SakethKanchi/parley) · [官网](https://sakethkanchi.github.io/parley-landing/) · 个人维护
+⭐ 36 · JavaScript · ISC · 推送 2026-10-07 · [GitHub](https://github.com/SakethKanchi/parley) · [官网](https://sakethkanchi.github.io/parley-landing/) · 个人维护
 
 **自托管 Discord 会议机器人：本地按说话人转录并生成结构化 AI 笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SakethKanchi/parley 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "SakethKanchi/parley 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 32, 33, 35, 36, 36]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 36（+4）
 
 
 ---

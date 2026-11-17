@@ -1,6 +1,6 @@
 # Fortyseven/ircawp
 
-⭐ 14 · Python · 推送 2026-10-07 · [GitHub](https://github.com/Fortyseven/ircawp) · 个人维护
+⭐ 14 · Python · 推送 2026-11-13 · [GitHub](https://github.com/Fortyseven/ircawp) · 个人维护
 
 **接入 OpenAI 兼容后端的 Slack 聊天机器人，支持插件与图像生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fortyseven/ircawp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

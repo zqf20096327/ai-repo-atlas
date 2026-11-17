@@ -1,6 +1,6 @@
 # mmprotest/latentport-paper
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/mmprotest/latentport-paper) · [官网](https://arxiv.org/abs/2609.25053) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/mmprotest/latentport-paper) · [官网](https://arxiv.org/abs/2609.25053) · 个人维护
 
 **论文仓库：Qwen3.5 4B→9B 跨模型推理状态迁移**
 
@@ -44,13 +44,13 @@ LatentPort 论文的配套代码与证据仓库：研究在 Qwen3.5 4B→9B 同�
 
 ```mermaid
 xychart-beta
-    title "mmprotest/latentport-paper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 8 --> 12
-    line [9, 10, 11, 11]
+    title "mmprotest/latentport-paper 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 8 --> 14
+    line [9, 10, 11, 10, 13, 13]
 ```
 
-2026-10-18 9 → 2026-11-02 11（+2）
+2026-10-18 9 → 2026-11-17 13（+4）
 
 
 ---

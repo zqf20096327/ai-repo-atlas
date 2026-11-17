@@ -1,6 +1,6 @@
 # yan-yanko/rainman
 
-⭐ 21 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/yan-yanko/rainman) · [官网](https://yan-yanko.github.io/rainman/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yan-yanko/rainman) · [官网](https://yan-yanko.github.io/rainman/) · 个人维护
 
 **给 AI 编码工具的本地项目记忆层：按上下文召回经验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yan-yanko/rainman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "yan-yanko/rainman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

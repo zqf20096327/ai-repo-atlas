@@ -1,6 +1,6 @@
 # biocentral/biocentral
 
-⭐ 20 · Dart · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/biocentral/biocentral) · [官网](https://app.biocentral.cloud/) · 组织维护
+⭐ 20 · Dart · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/biocentral/biocentral) · [官网](https://app.biocentral.cloud/) · 组织维护
 
 **面向生物医学数据与机器学习连接的科研平台（Web+Python API）**
 
@@ -44,12 +44,12 @@ Biocentral 提供连接生物医学数据与机器学习的生态系统：浏览
 ```mermaid
 xychart-beta
     title "biocentral/biocentral 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

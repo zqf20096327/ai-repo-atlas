@@ -1,6 +1,6 @@
 # vavrines/Kinetic.jl
 
-⭐ 150 · Julia · MIT · 推送 2026-06-07 · [GitHub](https://github.com/vavrines/Kinetic.jl) · [官网](https://xiaotianbai.com/Kinetic.jl/dev) · 个人维护
+⭐ 150 · Julia · MIT · 推送 2026-11-07 · [GitHub](https://github.com/vavrines/Kinetic.jl) · [官网](https://xiaotianbai.com/Kinetic.jl/dev) · 个人维护
 
 **Julia 编写的计算流体力学工具箱，融合机器学习建模**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vavrines/Kinetic.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 149 --> 151
     line [150, 150]
 ```
 
-2026-10-18 150 → 2026-11-02 150（+0）
+2026-10-18 150 → 2026-11-17 150（+0）
 
 
 ---

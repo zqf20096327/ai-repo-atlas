@@ -1,6 +1,6 @@
 # LostBeard/SpawnDev.ILGPU.ML
 
-⭐ 25 · C# · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/LostBeard/SpawnDev.ILGPU.ML) · [官网](https://lostbeard.github.io/SpawnDev.ILGPU.ML/) · 个人维护
+⭐ 25 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/LostBeard/SpawnDev.ILGPU.ML) · [官网](https://lostbeard.github.io/SpawnDev.ILGPU.ML/) · 个人维护
 
 **.NET 神经网络推理与训练引擎，一套 C# 内核跑六种后端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LostBeard/SpawnDev.ILGPU.ML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
+    title "LostBeard/SpawnDev.ILGPU.ML 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 26
-    line [21, 22, 23, 24, 25]
+    line [21, 22, 23, 24, 25, 23, 25, 25]
 ```
 
-2026-10-18 21 → 2026-11-02 25（+4）
+2026-10-18 21 → 2026-11-17 25（+4）
 
 
 ---

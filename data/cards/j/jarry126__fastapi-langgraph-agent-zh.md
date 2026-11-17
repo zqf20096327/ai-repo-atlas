@@ -1,6 +1,6 @@
 # jarry126/fastapi-langgraph-agent-zh
 
-⭐ 17 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/jarry126/fastapi-langgraph-agent-zh) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/jarry126/fastapi-langgraph-agent-zh) · 个人维护 · 中文 README
 
 **面向国内开发者的 LangGraph+FastAPI 生产级智能体模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jarry126/fastapi-langgraph-agent-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "jarry126/fastapi-langgraph-agent-zh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

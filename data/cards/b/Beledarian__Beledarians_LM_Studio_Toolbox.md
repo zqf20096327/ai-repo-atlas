@@ -1,6 +1,6 @@
 # Beledarian/Beledarians_LM_Studio_Toolbox
 
-⭐ 130 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Beledarian/Beledarians_LM_Studio_Toolbox) · 个人维护 · 中文 README
+⭐ 129 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Beledarian/Beledarians_LM_Studio_Toolbox) · 个人维护 · 中文 README
 
 **LM Studio 插件：为本地 LLM 提供文件、代码执行与上网等工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Beledarian/Beledarians_LM_Studio_Toolbox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
+    title "Beledarian/Beledarians_LM_Studio_Toolbox 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 125 --> 131
-    line [126, 127, 128, 129, 130, 130]
+    line [126, 127, 128, 129, 130, 128, 130, 129, 129]
 ```
 
-2026-10-18 126 → 2026-11-02 130（+4）
+2026-10-18 126 → 2026-11-17 129（+3）
 
 
 ---

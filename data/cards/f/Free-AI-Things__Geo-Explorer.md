@@ -1,6 +1,6 @@
 # Free-AI-Things/Geo-Explorer
 
-⭐ 30 · TypeScript · GPL-3.0 · 推送 2025-11-08 · [GitHub](https://github.com/Free-AI-Things/Geo-Explorer) · [官网](https://geo-explorer-orcin.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 地理定位应用：上传照片或对话识别地点并规划行程**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Free-AI-Things/Geo-Explorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-07 30（+0）
 
 
 ---

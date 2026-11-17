@@ -1,6 +1,6 @@
 # salesforce/xgen
 
-⭐ 727 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/xgen) · 组织维护
+⭐ 728 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/xgen) · 组织维护
 
 **Salesforce 开源的 7B 长序列 LLM 系列模型（4K/8K 上下文）**
 
@@ -45,13 +45,13 @@ Salesforce AI Research 发布的 XGen 模型族（7B 参数）官方研究版本
 
 ```mermaid
 xychart-beta
-    title "salesforce/xgen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "salesforce/xgen 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 726 --> 729
-    line [728, 727, 727]
+    line [728, 727, 728, 727, 728, 728]
 ```
 
-2026-10-18 728 → 2026-11-02 727（-1）
+2026-10-18 728 → 2026-11-17 728（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # gmongaras/Cottention_Transformer
 
-⭐ 21 · Cuda · 推送 2025-11-15 · [GitHub](https://github.com/gmongaras/Cottention_Transformer) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **论文官方实现：用余弦注意力的线性 Transformer（BERT/GPT）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gmongaras/Cottention_Transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-10 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xianjianlf2/MindGeniusAI
 
-⭐ 284 · TypeScript · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/xianjianlf2/MindGeniusAI) · [官网](https://mindgenius.onrender.com) · 个人维护 · 中文 README
+⭐ 287 · TypeScript · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/xianjianlf2/MindGeniusAI) · [官网](https://mindgenius.onrender.com) · 个人维护 · 中文 README
 
 **自托管 AI agent：读取 PDF 生成并协作编辑思维导图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xianjianlf2/MindGeniusAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 283 --> 285
-    line [284, 284]
+    title "xianjianlf2/MindGeniusAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 283 --> 288
+    line [284, 285, 286, 287, 287]
 ```
 
-2026-10-18 284 → 2026-11-02 284（+0）
+2026-10-18 284 → 2026-11-17 287（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ApatheticMioz/Castor
 
-⭐ 12 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ApatheticMioz/Castor) · 个人维护
+⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/ApatheticMioz/Castor) · 个人维护
 
 **连接云端编排与本地执行模型的 Rust MCP 微内核**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ApatheticMioz/Castor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "ApatheticMioz/Castor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 10, 13, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

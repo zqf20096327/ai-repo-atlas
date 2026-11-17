@@ -1,6 +1,6 @@
 # ckaraca/awesome-jev
 
-⭐ 17 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/ckaraca/awesome-jev) · [官网](https://docs.typesafe.ai/) · 个人维护
+⭐ 18 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/ckaraca/awesome-jev) · [官网](https://docs.typesafe.ai/) · 个人维护
 
 **基于 Jev 模型构建的工具、集成与实验的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ckaraca/awesome-jev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "ckaraca/awesome-jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

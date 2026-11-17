@@ -1,6 +1,6 @@
 # iamzifei/linkedin-article-publisher-skill
 
-⭐ 23 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/linkedin-article-publisher-skill) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/linkedin-article-publisher-skill) · 个人维护 · 中文 README
 
 **Claude Skill：将 Markdown 文章一键发布为 LinkedIn 草稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamzifei/linkedin-article-publisher-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23]
+    title "iamzifei/linkedin-article-publisher-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

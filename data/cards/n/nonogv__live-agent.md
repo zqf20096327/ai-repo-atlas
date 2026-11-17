@@ -1,6 +1,6 @@
 # nonogv/live-agent
 
-⭐ 14 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/nonogv/live-agent) · [官网](https://youtu.be/AFiYc4WvxQU) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/nonogv/live-agent) · [官网](https://youtu.be/AFiYc4WvxQU) · 个人维护
 
 **Ableton Live 内置 AI 助手：对话控制音轨、片段与设备**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nonogv/live-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14]
+    title "nonogv/live-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # posit-dev/chatlas
 
-⭐ 176 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/posit-dev/chatlas) · [官网](https://posit-dev.github.io/chatlas/) · 组织维护
+⭐ 179 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/posit-dev/chatlas) · [官网](https://posit-dev.github.io/chatlas/) · 组织维护
 
 **Python LLM 聊天应用构建库，统一多模型提供商接口**
 
@@ -43,13 +43,13 @@ posit-dev 维护的 Python 库，用于构建 LLM 聊天应用：通过统一的
 
 ```mermaid
 xychart-beta
-    title "posit-dev/chatlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 175 --> 178
-    line [177, 176]
+    title "posit-dev/chatlas 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 175 --> 180
+    line [177, 176, 177, 178, 179, 179]
 ```
 
-2026-10-18 177 → 2026-11-02 176（-1）
+2026-10-18 177 → 2026-11-17 179（+2）
 
 
 ---

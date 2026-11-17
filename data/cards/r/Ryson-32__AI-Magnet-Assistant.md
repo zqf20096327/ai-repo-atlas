@@ -1,6 +1,6 @@
 # Ryson-32/AI-Magnet-Assistant
 
-⭐ 207 · Vue · MIT · 推送 2026-06-14 · [GitHub](https://github.com/Ryson-32/AI-Magnet-Assistant) · 个人维护 · 中文 README
+⭐ 210 · Vue · MIT · 推送 2026-06-14 · [GitHub](https://github.com/Ryson-32/AI-Magnet-Assistant) · 个人维护 · 中文 README
 
 **聚合多引擎磁力链接并用 AI 筛选整理的桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ryson-32/AI-Magnet-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 206 --> 208
-    line [207, 207]
+    title "Ryson-32/AI-Magnet-Assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 206 --> 211
+    line [207, 209, 210, 210]
 ```
 
-2026-10-18 207 → 2026-11-02 207（+0）
+2026-10-18 207 → 2026-11-17 210（+3）
 
 
 ---

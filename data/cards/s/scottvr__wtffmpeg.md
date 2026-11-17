@@ -1,6 +1,6 @@
 # scottvr/wtffmpeg
 
-⭐ 336 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/scottvr/wtffmpeg) · [官网](http://scottvr.github.io/wtffmpeg/) · 个人维护
+⭐ 337 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/scottvr/wtffmpeg) · [官网](http://scottvr.github.io/wtffmpeg/) · 个人维护
 
 **用 LLM 把自然语言转成可执行 ffmpeg 命令的终端 REPL 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "scottvr/wtffmpeg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 335 --> 337
-    line [336, 336]
+    title "scottvr/wtffmpeg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 335 --> 338
+    line [336, 337, 337]
 ```
 
-2026-10-18 336 → 2026-11-02 336（+0）
+2026-10-18 336 → 2026-11-17 337（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # matheusml/zsh-ai
 
-⭐ 227 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/matheusml/zsh-ai) · 个人维护
+⭐ 229 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/matheusml/zsh-ai) · 个人维护
 
 **zsh 插件：输入自然语言注释即时生成 shell 命令**
 
@@ -45,13 +45,13 @@ zsh shell 插件：在提示符输入 `# ` 加自然语言描述，回车后在�
 
 ```mermaid
 xychart-beta
-    title "matheusml/zsh-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 224 --> 228
-    line [225, 226, 227, 227]
+    title "matheusml/zsh-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 224 --> 230
+    line [225, 226, 227, 226, 228, 229, 229]
 ```
 
-2026-10-18 225 → 2026-11-02 227（+2）
+2026-10-18 225 → 2026-11-17 229（+4）
 
 
 ---

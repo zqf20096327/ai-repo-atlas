@@ -1,6 +1,6 @@
 # JasonKessler/scattertext
 
-⭐ 2,348 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/JasonKessler/scattertext) · 个人维护
+⭐ 2,351 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/JasonKessler/scattertext) · 个人维护
 
 **对比不同类别文档用词差异并生成交互式散点图的 Python NLP 库**
 
@@ -46,13 +46,13 @@ Scattertext 是一个 Python 文本分析库：读取 Pandas 数据框中的文�
 
 ```mermaid
 xychart-beta
-    title "JasonKessler/scattertext 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2343 --> 2349
-    line [2344, 2345, 2346, 2348, 2348]
+    title "JasonKessler/scattertext 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 2343 --> 2352
+    line [2344, 2345, 2346, 2348, 2345, 2350, 2351, 2351]
 ```
 
-2026-10-18 2,344 → 2026-11-02 2,348（+4）
+2026-10-18 2,344 → 2026-11-17 2,351（+7）
 
 
 ---

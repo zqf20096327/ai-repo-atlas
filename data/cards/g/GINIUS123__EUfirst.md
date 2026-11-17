@@ -1,6 +1,6 @@
 # GINIUS123/EUfirst
 
-⭐ 23 · CC0-1.0 · 推送 2026-03-30 · [GitHub](https://github.com/GINIUS123/EUfirst) · 个人维护
+⭐ 24 · CC0-1.0 · 推送 2026-03-30 · [GitHub](https://github.com/GINIUS123/EUfirst) · 个人维护
 
 **欧盟主权 AI 工具策展清单：按类别收录经来源核验的 50+ 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GINIUS123/EUfirst 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "GINIUS123/EUfirst 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aaronrussell/omni
 
-⭐ 17 · Elixir · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aaronrussell/omni) · [官网](https://hexdocs.pm/omni) · 个人维护
+⭐ 17 · Elixir · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aaronrussell/omni) · [官网](https://omni.hexdocs.pm) · 个人维护
 
 **Elixir 的多供应商 LLM API 统一客户端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aaronrussell/omni 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

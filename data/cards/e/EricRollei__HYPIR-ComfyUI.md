@@ -1,6 +1,6 @@
 # EricRollei/HYPIR-ComfyUI
 
-⭐ 16 · Python · NOASSERTION · 推送 2025-11-18 · [GitHub](https://github.com/EricRollei/HYPIR-ComfyUI) · [官网](https://historic.camera) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 ComfyUI 中运行 HYPIR 图像修复与放大节点的自定义扩展**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EricRollei/HYPIR-ComfyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-13 16（+0）
 
 
 ---

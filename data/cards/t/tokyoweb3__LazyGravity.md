@@ -1,6 +1,6 @@
 # tokyoweb3/LazyGravity
 
-⭐ 242 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/tokyoweb3/LazyGravity) · 个人维护
+⭐ 244 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/tokyoweb3/LazyGravity) · 个人维护
 
 **通过 Discord/Telegram 远程操控本机 Antigravity IDE 的本地机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tokyoweb3/LazyGravity 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 240 --> 243
-    line [241, 242, 242]
+    title "tokyoweb3/LazyGravity 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 240 --> 245
+    line [241, 242, 243, 244, 244]
 ```
 
-2026-10-18 241 → 2026-11-02 242（+1）
+2026-10-18 241 → 2026-11-17 244（+3）
 
 
 ---

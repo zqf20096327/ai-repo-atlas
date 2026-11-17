@@ -1,6 +1,6 @@
 # tensorflow/compression
 
-⭐ 922 · Python · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/tensorflow/compression) · 组织维护
+⭐ 924 · Python · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/tensorflow/compression) · 组织维护
 
 **TensorFlow 的机器学习数据压缩工具库，构建端到端优化压缩模型**
 
@@ -45,13 +45,13 @@ Google TensorFlow 团队维护的 Python 库，提供 C++ 实现的 range coding
 
 ```mermaid
 xychart-beta
-    title "tensorflow/compression 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 921 --> 923
-    line [922, 922]
+    title "tensorflow/compression 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 921 --> 925
+    line [922, 923, 924, 924]
 ```
 
-2026-10-18 922 → 2026-11-02 922（+0）
+2026-10-18 922 → 2026-11-17 924（+2）
 
 
 ---

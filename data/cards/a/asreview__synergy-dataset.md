@@ -1,6 +1,6 @@
 # asreview/synergy-dataset
 
-⭐ 119 · Python · CC0-1.0 · 推送 2026-08-27 · [GitHub](https://github.com/asreview/synergy-dataset) · 组织维护
+⭐ 120 · Python · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/asreview/synergy-dataset) · 组织维护
 
 **给研究者：系统综述研究筛选标注数据集（169,288 条记录）**
 
@@ -44,13 +44,13 @@ SYNERGY 是关于系统综述中研究筛选的开放数据集：收录 26 篇�
 
 ```mermaid
 xychart-beta
-    title "asreview/synergy-dataset 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 114 --> 120
-    line [115, 116, 117, 118, 119]
+    title "asreview/synergy-dataset 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 114 --> 121
+    line [115, 116, 117, 118, 119, 116, 119, 120, 120]
 ```
 
-2026-10-18 115 → 2026-11-02 119（+4）
+2026-10-18 115 → 2026-11-17 120（+5）
 
 
 ---

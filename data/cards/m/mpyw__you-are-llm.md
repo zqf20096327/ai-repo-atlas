@@ -1,6 +1,6 @@
 # mpyw/you-are-llm
 
-⭐ 3 · TypeScript · 推送 2026-10-09 · [GitHub](https://github.com/mpyw/you-are-llm) · [官网](https://mpyw.me/you-are-llm/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **扮演 LLM 一侧的打字练习器：逐字打出编程会话助手内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mpyw/you-are-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-18 3 → 2026-11-02 3（+0）
+2026-10-18 3 → 2026-11-07 3（+0）
 
 
 ---

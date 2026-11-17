@@ -1,6 +1,6 @@
 # federicoarenasl/sdg-engine
 
-⭐ 77 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/federicoarenasl/sdg-engine) · [官网](https://federicoarenas.io/projects/fine-tune-detr-1) · 个人维护
+⭐ 76 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/federicoarenasl/sdg-engine) · [官网](https://federicoarenas.io/projects/fine-tune-detr-1) · 个人维护
 
 **基于 Blender 场景的计算机视觉合成数据生成引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "federicoarenasl/sdg-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "federicoarenasl/sdg-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 78
+    line [77, 76, 76]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 76（-1）
 
 
 ---

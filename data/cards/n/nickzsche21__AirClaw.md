@@ -1,6 +1,6 @@
 # nickzsche21/AirClaw
 
-⭐ 118 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/nickzsche21/AirClaw) · [官网](https://pypi.org/project/airclaw/) · 个人维护
+⭐ 120 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/nickzsche21/AirClaw) · [官网](https://pypi.org/project/airclaw/) · 个人维护
 
 **让 OpenClaw agent 跑在本地模型上的 OpenAI 兼容网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nickzsche21/AirClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 117 --> 120
-    line [119, 118, 118]
+    title "nickzsche21/AirClaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 117 --> 121
+    line [119, 118, 119, 120, 120]
 ```
 
-2026-10-18 119 → 2026-11-02 118（-1）
+2026-10-18 119 → 2026-11-17 120（+1）
 
 
 ---

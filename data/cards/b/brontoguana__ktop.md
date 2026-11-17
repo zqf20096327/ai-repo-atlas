@@ -1,6 +1,6 @@
 # brontoguana/ktop
 
-⭐ 93 · Rust · 推送 2026-05-06 · [GitHub](https://github.com/brontoguana/ktop) · 个人维护
+⭐ 94 · Rust · 推送 2026-05-06 · [GitHub](https://github.com/brontoguana/ktop) · 个人维护
 
 **面向混合 LLM 工作负载的终端系统资源监控器**
 
@@ -44,13 +44,13 @@ Rust 编写的 TUI 系统资源监控器，定位为跟踪混合 LLM 工作负�
 
 ```mermaid
 xychart-beta
-    title "brontoguana/ktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "brontoguana/ktop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 95
+    line [92, 93, 94, 94]
 ```
 
-2026-10-18 92 → 2026-11-02 93（+1）
+2026-10-18 92 → 2026-11-17 94（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment) · 组织维护
 
 **面向零售商的商品图片目录自动富化系统（NVIDIA 蓝图）**
 
@@ -45,13 +45,13 @@ NVIDIA AI Blueprints 下的零售目录富化参考实现：以商品图片为�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 45, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

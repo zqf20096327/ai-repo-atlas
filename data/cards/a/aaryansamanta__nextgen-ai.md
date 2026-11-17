@@ -1,6 +1,6 @@
 # aaryansamanta/nextgen-ai
 
-⭐ 492 · HTML · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/nextgen-ai) · [官网](https://www.nextgenai.org) · 组织维护
+⭐ 491 · HTML · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/nextgen-ai) · [官网](https://www.nextgenai.org) · 组织维护
 
 **面向高中生的国际 AI 教育公益组织官网与资料库**
 
@@ -46,13 +46,13 @@ NextGenAI 是一个学生主导、导师支持的非营利国际组织，面向�
 
 ```mermaid
 xychart-beta
-    title "aaryansamanta/nextgen-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 490 --> 493
-    line [492, 491, 492, 492]
+    title "aaryansamanta/nextgen-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 489 --> 493
+    line [492, 491, 492, 491, 490, 491, 491]
 ```
 
-2026-10-18 492 → 2026-11-02 492（+0）
+2026-10-18 492 → 2026-11-17 491（-1）
 
 
 ---

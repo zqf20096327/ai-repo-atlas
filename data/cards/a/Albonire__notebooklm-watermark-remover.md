@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Albonire/notebooklm-watermark-remover 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "Albonire/notebooklm-watermark-remover 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    line [82, 83, 82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 83（+1）
 
 
 ---

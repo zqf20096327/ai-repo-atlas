@@ -1,6 +1,6 @@
 # huggingface/lerobot-humanoid-runtime
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/lerobot-humanoid-runtime) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/lerobot-humanoid-runtime) · 组织维护
 
 **12 自由度双足人形机器人的运行时与标定工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/lerobot-humanoid-runtime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "huggingface/lerobot-humanoid-runtime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

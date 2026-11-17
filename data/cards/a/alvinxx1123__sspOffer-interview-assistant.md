@@ -1,6 +1,6 @@
 # alvinxx1123/sspOffer-interview-assistant
 
-⭐ 102 · Java · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alvinxx1123/sspOffer-interview-assistant) · 个人维护 · 中文 README
+⭐ 105 · Java · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alvinxx1123/sspOffer-interview-assistant) · 个人维护 · 中文 README
 
 **互联网面试准备一站式平台：AI 面试模拟与面经整合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alvinxx1123/sspOffer-interview-assistant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 98 --> 103
-    line [99, 100, 101, 102, 102]
+    title "alvinxx1123/sspOffer-interview-assistant 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 98 --> 106
+    line [99, 100, 101, 102, 100, 104, 105, 105]
 ```
 
-2026-10-18 99 → 2026-11-02 102（+3）
+2026-10-18 99 → 2026-11-17 105（+6）
 
 
 ---

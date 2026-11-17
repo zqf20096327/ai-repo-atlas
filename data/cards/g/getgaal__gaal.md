@@ -1,6 +1,6 @@
 # getgaal/gaal
 
-⭐ 57 · Go · AGPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/getgaal/gaal) · [官网](https://getgaal.com) · 组织维护
+⭐ 68 · Go · AGPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/getgaal/gaal) · [官网](https://getgaal.com) · 组织维护
 
 **用单个 YAML 同步多机多个 AI 编程代理的技能与 MCP 配置的 CLI**
 
@@ -44,13 +44,13 @@ Go 编写的命令行工具，面向同时使用多个 AI 编程代理（Claude 
 
 ```mermaid
 xychart-beta
-    title "getgaal/gaal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "getgaal/gaal 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 69
+    line [57, 58, 65, 66, 67, 68, 68]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 68（+11）
 
 
 ---

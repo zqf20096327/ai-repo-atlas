@@ -1,6 +1,6 @@
 # CliMA/EnsembleKalmanProcesses.jl
 
-⭐ 128 · Julia · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/CliMA/EnsembleKalmanProcesses.jl) · [官网](https://clima.github.io/EnsembleKalmanProcesses.jl/dev) · 组织维护
+⭐ 131 · Julia · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/CliMA/EnsembleKalmanProcesses.jl) · [官网](https://clima.github.io/EnsembleKalmanProcesses.jl/dev) · 组织维护
 
 **面向昂贵模型的免导数参数校准与不确定性量化 Julia 库**
 
@@ -45,13 +45,13 @@ EnsembleKalmanProcesses.jl (EKP) 用于求解逆问题：为计算机模型 G �
 
 ```mermaid
 xychart-beta
-    title "CliMA/EnsembleKalmanProcesses.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    title "CliMA/EnsembleKalmanProcesses.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 127 --> 132
+    line [128, 130, 131, 131]
 ```
 
-2026-10-18 128 → 2026-11-02 128（+0）
+2026-10-18 128 → 2026-11-17 131（+3）
 
 
 ---

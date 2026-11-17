@@ -1,6 +1,6 @@
 # SKKU-SecLab/AdFlush
 
-⭐ 69 · HTML · 推送 2026-01-19 · [GitHub](https://github.com/SKKU-SecLab/AdFlush) · 组织维护
+⭐ 70 · HTML · 推送 2026-01-19 · [GitHub](https://github.com/SKKU-SecLab/AdFlush) · 组织维护
 
 **基于机器学习的 Chrome 广告与追踪器拦截扩展（WWW 2024 论文）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SKKU-SecLab/AdFlush 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "SKKU-SecLab/AdFlush 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 70（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # danbiocchi/hermes-vcc-engine
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/danbiocchi/hermes-vcc-engine) · [官网](https://hermes-agent.nousresearch.com/docs/plugins/hermes-vcc-engine) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/danbiocchi/hermes-vcc-engine) · [官网](https://hermes-agent.nousresearch.com/docs/plugins/hermes-vcc-engine) · 个人维护
 
 **Hermes Agent 的即时上下文压缩插件，无 LLM 调用生成压缩摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "danbiocchi/hermes-vcc-engine 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 22
-    line [13, 14, 16, 17, 18, 21, 21]
+    title "danbiocchi/hermes-vcc-engine 星数(近 12 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 31
+    line [13, 14, 16, 17, 18, 21, 14, 26, 28, 29, 30, 30]
 ```
 
-2026-10-19 13 → 2026-11-02 21（+8）
+2026-10-19 13 → 2026-11-17 30（+17）
 
 
 ---

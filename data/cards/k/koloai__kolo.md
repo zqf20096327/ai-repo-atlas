@@ -1,6 +1,6 @@
 # koloai/kolo
 
-⭐ 525 · 推送 2026-04-17 · [GitHub](https://github.com/koloai/kolo) · [官网](https://kolo.app) · 组织维护
+⭐ 526 · 推送 2026-04-17 · [GitHub](https://github.com/koloai/kolo) · [官网](https://kolo.app) · 组织维护
 
 **面向 AI agent 开发的 Python 追踪调试器**
 
@@ -44,13 +44,13 @@ Kolo 是一个基于文本的 Python 调试工具，用于追踪并可视化代�
 
 ```mermaid
 xychart-beta
-    title "koloai/kolo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 524 --> 526
-    line [525, 525]
+    title "koloai/kolo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 524 --> 527
+    line [525, 526, 526]
 ```
 
-2026-10-18 525 → 2026-11-02 525（+0）
+2026-10-18 525 → 2026-11-17 526（+1）
 
 
 ---

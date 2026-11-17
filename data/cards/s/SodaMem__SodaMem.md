@@ -1,6 +1,6 @@
 # SodaMem/SodaMem
 
-⭐ 202 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/SodaMem/SodaMem) · [官网](https://sodamem.com) · 组织维护 · 中文 README
+⭐ 204 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/SodaMem/SodaMem) · [官网](https://sodamem.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的自演化记忆层：可溯源、免 LLM 检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SodaMem/SodaMem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "SodaMem/SodaMem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 200 --> 227
-    line [225, 202, 202]
+    line [225, 202, 203, 204, 204]
 ```
 
-2026-10-18 225 → 2026-11-02 202（-23）
+2026-10-18 225 → 2026-11-17 204（-21）
 
 
 ---

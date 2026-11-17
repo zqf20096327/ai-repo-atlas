@@ -1,6 +1,6 @@
 # browser-use/template-library
 
-⭐ 25 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/browser-use/template-library) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/browser-use/template-library) · 组织维护
 
 **browser-use CLI 的项目模板集合，供 init 命令加载**
 
@@ -44,13 +44,13 @@ browser-use 官方模板库：以 templates.json 作为模板注册表，记录�
 
 ```mermaid
 xychart-beta
-    title "browser-use/template-library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "browser-use/template-library 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sandbaseai/cli
 
-⭐ 185 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/sandbaseai/cli) · [官网](https://sandbaseai.github.io/cli/) · 组织维护 · 中文 README
+⭐ 186 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/sandbaseai/cli) · [官网](https://sandbaseai.github.io/cli/) · 组织维护 · 中文 README
 
 **连接 25 个 AI 客户端到 2,000+ 模型/API 的本地 MCP 网关 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandbaseai/cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 183 --> 186
-    line [185, 184, 185, 185]
+    title "sandbaseai/cli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 183 --> 187
+    line [185, 184, 185, 184, 185, 186, 186]
 ```
 
-2026-10-18 185 → 2026-11-02 185（+0）
+2026-10-18 185 → 2026-11-17 186（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/agent-sdk-workshop
 
-⭐ 141 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/anthropics/agent-sdk-workshop) · 组织维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/anthropics/agent-sdk-workshop) · 组织维护
 
 **Claude Agent SDK 实操工作坊：配置拼装生产级 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/agent-sdk-workshop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 136 --> 142
-    line [137, 140, 141, 141]
+    title "anthropics/agent-sdk-workshop 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 136 --> 143
+    line [137, 140, 141, 142, 141, 142, 142]
 ```
 
-2026-10-18 137 → 2026-11-02 141（+4）
+2026-10-18 137 → 2026-11-17 142（+5）
 
 
 ---

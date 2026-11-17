@@ -1,6 +1,6 @@
 # Niloy333/eegFloss
 
-⭐ 20 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Niloy333/eegFloss) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Niloy333/eegFloss) · 组织维护
 
 **自动识别睡眠 EEG 伪迹并评估数据可用性的 Python 包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Niloy333/eegFloss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "Niloy333/eegFloss 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

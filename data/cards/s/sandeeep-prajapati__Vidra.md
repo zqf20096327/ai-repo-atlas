@@ -1,6 +1,6 @@
 # sandeeep-prajapati/Vidra
 
-⭐ 12 · Blade · 推送 2026-05-11 · [GitHub](https://github.com/sandeeep-prajapati/Vidra) · 个人维护
+⭐ 11 · Blade · 推送 2026-05-11 · [GitHub](https://github.com/sandeeep-prajapati/Vidra) · 个人维护
 
 **Laravel 学校管理系统：学生/考试/收费等全模块，AI 为付费定制**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandeeep-prajapati/Vidra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "sandeeep-prajapati/Vidra 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

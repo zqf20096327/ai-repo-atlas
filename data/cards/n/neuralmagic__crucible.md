@@ -1,6 +1,6 @@
 # neuralmagic/crucible
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/neuralmagic/crucible) · [官网](https://neuralmagic.github.io/crucible/) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/neuralmagic/crucible) · [官网](https://neuralmagic.github.io/crucible/) · 组织维护
 
 **以 Starlark 声明任务图运行 agent 工作流与自动优化的引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neuralmagic/crucible 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "neuralmagic/crucible 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

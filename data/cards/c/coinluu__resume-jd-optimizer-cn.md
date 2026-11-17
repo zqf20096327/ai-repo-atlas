@@ -1,6 +1,6 @@
 # coinluu/resume-jd-optimizer-cn
 
-⭐ 198 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/coinluu/resume-jd-optimizer-cn) · 个人维护 · 中文 README
+⭐ 200 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/coinluu/resume-jd-optimizer-cn) · 个人维护 · 中文 README
 
 **给中国求职者的 JD 驱动中文简历优化 Skill**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "coinluu/resume-jd-optimizer-cn 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 193 --> 199
-    line [194, 196, 195, 196, 197, 198, 198]
+    title "coinluu/resume-jd-optimizer-cn 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 193 --> 201
+    line [194, 196, 195, 196, 197, 198, 197, 199, 200, 200]
 ```
 
-2026-10-18 194 → 2026-11-02 198（+4）
+2026-10-18 194 → 2026-11-17 200（+6）
 
 
 ---

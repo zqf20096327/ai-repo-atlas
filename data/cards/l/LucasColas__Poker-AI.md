@@ -1,6 +1,6 @@
 # LucasColas/Poker-AI
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/LucasColas/Poker-AI) · 个人维护
+⭐ 15 · Python · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/LucasColas/Poker-AI) · 个人维护
 
 **多种策略打德州扑克的 AI agent 集合及玩家类型聚类**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "LucasColas/Poker-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "LucasColas/Poker-AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # geekjourneyx/jina-cli
 
-⭐ 311 · Go · MIT · 推送 2026-03-01 · [GitHub](https://github.com/geekjourneyx/jina-cli) · 个人维护 · 中文 README
+⭐ 312 · Go · MIT · 推送 2026-03-01 · [GitHub](https://github.com/geekjourneyx/jina-cli) · 个人维护 · 中文 README
 
 **封装 Jina AI Reader API 的网页转 Markdown CLI，供 AI Agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geekjourneyx/jina-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 309 --> 312
-    line [311, 310, 311, 311]
+    title "geekjourneyx/jina-cli 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 309 --> 314
+    line [311, 310, 311, 310, 311, 313, 312, 312]
 ```
 
-2026-10-18 311 → 2026-11-02 311（+0）
+2026-10-18 311 → 2026-11-17 312（+1）
 
 
 ---

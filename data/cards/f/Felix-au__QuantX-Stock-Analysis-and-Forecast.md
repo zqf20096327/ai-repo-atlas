@@ -1,6 +1,6 @@
 # Felix-au/QuantX-Stock-Analysis-and-Forecast
 
-⭐ 19 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Felix-au/QuantX-Stock-Analysis-and-Forecast) · [官网](https://quantx.streamlit.app) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Felix-au/QuantX-Stock-Analysis-and-Forecast) · [官网](https://quantx.streamlit.app) · 个人维护
 
 **面向个人投资者的股票分析与多模型价格预测 Streamlit 仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Felix-au/QuantX-Stock-Analysis-and-Forecast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Felix-au/QuantX-Stock-Analysis-and-Forecast 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

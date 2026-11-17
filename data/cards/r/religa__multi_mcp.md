@@ -1,6 +1,6 @@
 # religa/multi_mcp
 
-⭐ 37 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/religa/multi_mcp) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/religa/multi_mcp) · 个人维护
 
 **面向 Claude Code 的多模型编排 MCP 服务器，做代码审查与分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "religa/multi_mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "religa/multi_mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    line [36, 37, 36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

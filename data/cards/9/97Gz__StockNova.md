@@ -1,6 +1,6 @@
 # 97Gz/StockNova
 
-⭐ 13 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/97Gz/StockNova) · [官网](https://github.com/97Gz/StockNova/releases/latest) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/97Gz/StockNova) · [官网](https://github.com/97Gz/StockNova/releases/latest) · 个人维护 · 中文 README
 
 **本地运行的 A 股智能投研终端，多角色 AI 团队诊股**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "97Gz/StockNova 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "97Gz/StockNova 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

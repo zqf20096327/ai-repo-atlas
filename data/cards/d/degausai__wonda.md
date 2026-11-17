@@ -1,6 +1,6 @@
 # degausai/wonda
 
-⭐ 159 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/degausai/wonda) · [官网](https://wonda.sh) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **终端 AI 内容生成 CLI：图像/视频/音乐生成、编辑与社媒发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "degausai/wonda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 157 --> 160
-    line [158, 159, 159]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08"]
+    y-axis "stars" 157 --> 162
+    line [158, 159, 161]
 ```
 
-2026-10-18 158 → 2026-11-02 159（+1）
+2026-10-18 158 → 2026-11-08 161（+3）
 
 
 ---

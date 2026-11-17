@@ -1,6 +1,6 @@
 # rblalock/omakaseagent
 
-⭐ 20 · JavaScript · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/rblalock/omakaseagent) · [官网](https://omakaseagent.com) · 个人维护
+⭐ 21 · JavaScript · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/rblalock/omakaseagent) · [官网](https://omakaseagent.com) · 个人维护
 
 **给 AI 编程 agent 的工作质量标准：十二条规则+评审门+项目记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rblalock/omakaseagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "rblalock/omakaseagent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

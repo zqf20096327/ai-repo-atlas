@@ -1,6 +1,6 @@
 # bentoml/BentoTwilioConversationRelay
 
-⭐ 14 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoTwilioConversationRelay) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **BentoML+Twilio 构建开源 LLM 语音聊天机器人的示例项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bentoml/BentoTwilioConversationRelay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-08 14（+0）
 
 
 ---

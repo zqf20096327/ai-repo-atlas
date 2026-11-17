@@ -1,6 +1,6 @@
 # arbazkhan971/godmode
 
-⭐ 27 · Shell · MIT · 推送 2026-08-28 · [GitHub](https://github.com/arbazkhan971/godmode) · 个人维护
+⭐ 29 · Shell · MIT · 推送 2026-08-28 · [GitHub](https://github.com/arbazkhan971/godmode) · 个人维护
 
 **把 AI 编码助手变为自主工程循环的插件（135 技能）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arbazkhan971/godmode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "arbazkhan971/godmode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 26, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 29（+3）
 
 
 ---

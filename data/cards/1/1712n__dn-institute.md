@@ -1,6 +1,6 @@
 # 1712n/dn-institute
 
-⭐ 49 · HTML · Unlicense · 推送 2026-10-15 · [GitHub](https://github.com/1712n/dn-institute) · [官网](http://dn.institute/) · 组织维护
+⭐ 48 · HTML · Unlicense · 推送 2026-10-15 · [GitHub](https://github.com/1712n/dn-institute) · [官网](http://dn.institute/) · 组织维护
 
 **分布式网络研究所的挑战/赏金任务招募页（含 LLM 风险建模研究）**
 
@@ -44,13 +44,13 @@ Distributed Networks Institute (DNI) 是华盛顿特区非营利孵化器 BlockS
 
 ```mermaid
 xychart-beta
-    title "1712n/dn-institute 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "1712n/dn-institute 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [49, 48, 48]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 48（-1）
 
 
 ---

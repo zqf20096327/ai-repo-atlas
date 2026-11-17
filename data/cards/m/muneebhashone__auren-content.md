@@ -1,6 +1,6 @@
 # muneebhashone/auren-content
 
-⭐ 11 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/muneebhashone/auren-content) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/muneebhashone/auren-content) · 个人维护
 
 **面向创始人/小团队的多 LLM 内容策略仪表盘，生成周度社媒日历**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "muneebhashone/auren-content 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "muneebhashone/auren-content 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

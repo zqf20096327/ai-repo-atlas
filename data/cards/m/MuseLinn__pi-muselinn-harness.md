@@ -1,6 +1,6 @@
 # MuseLinn/pi-muselinn-harness
 
-⭐ 17 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/MuseLinn/pi-muselinn-harness) · [官网](https://muselinn.github.io/pi-muselinn-harness/) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/MuseLinn/pi-muselinn-harness) · [官网](https://muselinn.github.io/pi-muselinn-harness/) · 个人维护
 
 **为 Pi 编码代理补齐子代理/计划/待办等编排功能的扩展包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuseLinn/pi-muselinn-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "MuseLinn/pi-muselinn-harness 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

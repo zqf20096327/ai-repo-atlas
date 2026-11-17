@@ -1,6 +1,6 @@
 # FluxML/model-zoo
 
-⭐ 936 · Julia · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/FluxML/model-zoo) · [官网](https://fluxml.ai/) · 组织维护
+⭐ 937 · Julia · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/FluxML/model-zoo) · [官网](https://fluxml.ai/) · 组织维护
 
 **Flux（Julia）机器学习库的模型示例集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FluxML/model-zoo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 934 --> 937
-    line [935, 936, 936]
+    title "FluxML/model-zoo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 934 --> 938
+    line [935, 936, 937, 937]
 ```
 
-2026-10-18 935 → 2026-11-02 936（+1）
+2026-10-18 935 → 2026-11-17 937（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # saintheraldfaust/purplefinger
 
-⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/saintheraldfaust/purplefinger) · 个人维护
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/saintheraldfaust/purplefinger) · 个人维护
 
 **实时人脸替换流式系统：轻客户端+远程 GPU 推理节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "saintheraldfaust/purplefinger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "saintheraldfaust/purplefinger 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

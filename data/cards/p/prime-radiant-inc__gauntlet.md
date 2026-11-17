@@ -1,6 +1,6 @@
 # prime-radiant-inc/gauntlet
 
-⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/prime-radiant-inc/gauntlet) · 组织维护
+⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/prime-radiant-inc/gauntlet) · 组织维护
 
 **用 LLM agent 对 Web/CLI/TUI 程序做 QA 测试的框架**
 
@@ -44,13 +44,13 @@ AI 驱动的 QA 测试框架：用户以 markdown story card（标题+描述+验
 
 ```mermaid
 xychart-beta
-    title "prime-radiant-inc/gauntlet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "prime-radiant-inc/gauntlet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

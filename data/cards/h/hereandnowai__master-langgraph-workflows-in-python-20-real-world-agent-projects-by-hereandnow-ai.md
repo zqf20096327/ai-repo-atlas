@@ -1,6 +1,6 @@
 # hereandnowai/master-langgraph-workflows-in-python-20-real-world-agent-projects-by-hereandnow-ai
 
-⭐ 56 · Python · MIT · 推送 2026-01-30 · [GitHub](https://github.com/hereandnowai/master-langgraph-workflows-in-python-20-real-world-agent-projects-by-hereandnow-ai) · [官网](https://hereandnowai.com) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-01-30 · [GitHub](https://github.com/hereandnowai/master-langgraph-workflows-in-python-20-real-world-agent-projects-by-hereandnow-ai) · [官网](https://hereandnowai.com) · 组织维护
 
 **LangGraph 入门教程库：20 个 Python AI agent 实战项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hereandnowai/master-langgraph-workflows-in-python-20-real-world-agent-projects-by-hereandnow-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "hereandnowai/master-langgraph-workflows-in-python-20-real-world-agent-projects-by-hereandnow-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cobb04/podcast-to-course
 
-⭐ 116 · CSS · 推送 2026-08-11 · [GitHub](https://github.com/Cobb04/podcast-to-course) · 个人维护 · 中文 README
+⭐ 115 · CSS · 推送 2026-08-11 · [GitHub](https://github.com/Cobb04/podcast-to-course) · 个人维护 · 中文 README
 
 **把播客转写稿变成框架卡、决策清单与交互式 HTML 课程的 Claude Code 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cobb04/podcast-to-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 115 --> 121
-    line [120, 116, 116]
+    title "Cobb04/podcast-to-course 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 114 --> 121
+    line [120, 116, 115, 115]
 ```
 
-2026-10-18 120 → 2026-11-02 116（-4）
+2026-10-18 120 → 2026-11-17 115（-5）
 
 
 ---

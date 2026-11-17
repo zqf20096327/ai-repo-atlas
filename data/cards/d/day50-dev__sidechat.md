@@ -1,6 +1,6 @@
 # day50-dev/sidechat
 
-⭐ 103 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/day50-dev/sidechat) · [官网](https://day50.dev) · 组织维护
+⭐ 103 · Shell · MIT · 推送 2026-11-04 · [GitHub](https://github.com/day50-dev/sidechat) · [官网](https://day50.dev) · 组织维护
 
 **给终端用户的 tmux 内 LLM 对话面板：在问题发生处诊断**
 
@@ -46,12 +46,12 @@ DAY50 套件中的 tmux AI 助手：以 LLM 对话面板形式附着于 tmux，�
 ```mermaid
 xychart-beta
     title "day50-dev/sidechat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 102 --> 105
     line [104, 103, 103]
 ```
 
-2026-10-18 104 → 2026-11-02 103（-1）
+2026-10-18 104 → 2026-11-17 103（-1）
 
 
 ---

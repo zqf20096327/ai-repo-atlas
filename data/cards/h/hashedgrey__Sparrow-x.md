@@ -1,6 +1,6 @@
 # hashedgrey/Sparrow-x
 
-⭐ 12 · Java · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hashedgrey/Sparrow-x) · 个人维护
+⭐ 12 · Java · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hashedgrey/Sparrow-x) · 个人维护
 
 **面向工程组织的内部知识问答与 agent 调查平台**
 
@@ -47,12 +47,12 @@ SparrowX 是面向工程组织的内部知识与 agent 调查平台，从公司�
 ```mermaid
 xychart-beta
     title "hashedgrey/Sparrow-x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

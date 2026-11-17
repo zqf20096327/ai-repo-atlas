@@ -1,6 +1,6 @@
 # jdhruv1503/Brainiac
 
-⭐ 66 · Python · 推送 2026-07-25 · [GitHub](https://github.com/jdhruv1503/Brainiac) · 个人维护
+⭐ 67 · Python · 推送 2026-07-25 · [GitHub](https://github.com/jdhruv1503/Brainiac) · 个人维护
 
 **AI 代理驱动的量化 alpha 生成器：自动研读论文、生成并回测 alpha**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jdhruv1503/Brainiac 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "jdhruv1503/Brainiac 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 68
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

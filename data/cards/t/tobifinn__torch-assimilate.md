@@ -1,6 +1,6 @@
 # tobifinn/torch-assimilate
 
-⭐ 16 · Python · GPL-3.0 · 推送 2025-11-18 · [GitHub](https://github.com/tobifinn/torch-assimilate) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **气象数据同化的 PyTorch 库：并行优化同化算法处理模式与观测数据**
 
@@ -11,7 +11,7 @@ Python 数据同化包，将气象观测资料同化到数值天气模式数据�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Python 数据同化包，将气象观测资料同化到数值天气模式数据�
 ```mermaid
 xychart-beta
     title "tobifinn/torch-assimilate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-13 16（+0）
 
 
 ---

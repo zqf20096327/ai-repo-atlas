@@ -1,6 +1,6 @@
 # hugomyb/Lume
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hugomyb/Lume) · [官网](https://uselume.dev) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hugomyb/Lume) · [官网](https://uselume.dev) · 个人维护
 
 **带内联 AI 的本地优先开源终端模拟器，可用手机远程控制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hugomyb/Lume 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "hugomyb/Lume 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [22, 23, 22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

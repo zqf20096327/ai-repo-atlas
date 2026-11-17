@@ -1,6 +1,6 @@
 # Leooo-Huang/awesome-human-activity-recognition
 
-⭐ 237 · Python · CC-BY-4.0 · 推送 2026-10-28 · [GitHub](https://github.com/Leooo-Huang/awesome-human-activity-recognition) · [官网](https://leooo-huang.github.io/awesome-human-activity-recognition/) · 个人维护 · 中文 README
+⭐ 231 · Python · CC-BY-4.0 · 推送 2026-11-11 · [GitHub](https://github.com/Leooo-Huang/awesome-human-activity-recognition) · [官网](https://leooo-huang.github.io/awesome-human-activity-recognition/) · 个人维护 · 中文 README
 
 **人体活动识别（HAR）研究资源清单：数据集、框架、模型、教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leooo-Huang/awesome-human-activity-recognition 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 235 --> 242
-    line [241, 240, 237, 236, 237, 237]
+    title "Leooo-Huang/awesome-human-activity-recognition 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 230 --> 242
+    line [241, 240, 237, 236, 237, 231, 231]
 ```
 
-2026-10-18 241 → 2026-11-02 237（-4）
+2026-10-18 241 → 2026-11-17 231（-10）
 
 
 ---

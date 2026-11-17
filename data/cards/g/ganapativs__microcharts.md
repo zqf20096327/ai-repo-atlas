@@ -1,6 +1,6 @@
 # ganapativs/microcharts
 
-⭐ 205 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ganapativs/microcharts) · [官网](https://microcharts.dev) · 个人维护
+⭐ 208 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ganapativs/microcharts) · [官网](https://microcharts.dev) · 个人维护
 
 **面向 LLM 输出场景的 React 微型图表库：106 种字内图表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ganapativs/microcharts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 200 --> 206
-    line [201, 202, 204, 205, 205]
+    title "ganapativs/microcharts 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 200 --> 209
+    line [201, 202, 204, 205, 207, 208, 208]
 ```
 
-2026-10-18 201 → 2026-11-02 205（+4）
+2026-10-18 201 → 2026-11-17 208（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # hugopstackhouse/MPSTime.jl
 
-⭐ 25 · Julia · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/hugopstackhouse/MPSTime.jl) · [官网](https://hugopstackhouse.github.io/MPSTime.jl/) · 组织维护
+⭐ 25 · Julia · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/hugopstackhouse/MPSTime.jl) · [官网](https://hugopstackhouse.github.io/MPSTime.jl/) · 组织维护
 
 **用矩阵积态方法做时间序列分类与缺失填补的 Julia 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hugopstackhouse/MPSTime.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

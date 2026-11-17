@@ -1,6 +1,6 @@
 # danieloquelis/Unity-QuestConversationalAI
 
-⭐ 54 · C# · MIT · 推送 2025-11-13 · [GitHub](https://github.com/danieloquelis/Unity-QuestConversationalAI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Unity 实时语音对话 AI 包，接入 OpenAI 与 ElevenLabs**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danieloquelis/Unity-QuestConversationalAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-08 54（+0）
 
 
 ---

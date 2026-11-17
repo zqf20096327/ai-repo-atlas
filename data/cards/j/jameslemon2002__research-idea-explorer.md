@@ -1,6 +1,6 @@
 # jameslemon2002/research-idea-explorer
 
-⭐ 137 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/jameslemon2002/research-idea-explorer) · 个人维护 · 中文 README
+⭐ 138 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/jameslemon2002/research-idea-explorer) · 个人维护 · 中文 README
 
 **文献驱动的研究选题探索工具：供 Codex CLI / Claude Code 生成研究 idea**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jameslemon2002/research-idea-explorer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 135 --> 138
-    line [136, 137, 137]
+    title "jameslemon2002/research-idea-explorer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 135 --> 139
+    line [136, 137, 138, 138]
 ```
 
-2026-10-18 136 → 2026-11-02 137（+1）
+2026-10-18 136 → 2026-11-17 138（+2）
 
 
 ---

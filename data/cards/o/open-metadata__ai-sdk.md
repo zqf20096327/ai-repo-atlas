@@ -1,6 +1,6 @@
 # open-metadata/ai-sdk
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/open-metadata/ai-sdk) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/open-metadata/ai-sdk) · 组织维护
 
 **给数据团队的 SDK：把 OpenMetadata/Collate 元数据接入 AI agent**
 
@@ -45,13 +45,13 @@ OpenMetadata 官方多语言 SDK（Python/TypeScript/Java/CLI/n8n 节点），�
 
 ```mermaid
 xychart-beta
-    title "open-metadata/ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "open-metadata/ai-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

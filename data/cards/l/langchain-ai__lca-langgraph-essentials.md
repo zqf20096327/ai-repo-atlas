@@ -1,6 +1,6 @@
 # langchain-ai/lca-langgraph-essentials
 
-⭐ 69 · Jupyter Notebook · MIT · 推送 2026-07-21 · [GitHub](https://github.com/langchain-ai/lca-langgraph-essentials) · 组织维护
+⭐ 71 · Jupyter Notebook · MIT · 推送 2026-07-21 · [GitHub](https://github.com/langchain-ai/lca-langgraph-essentials) · 组织维护
 
 **LangGraph 教学课程仓库（仅标题可辨）**
 
@@ -39,13 +39,13 @@ README 仅含一行标题 "lca-langgraphV1-essentials"，无其他可验证内�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/lca-langgraph-essentials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 69, 69]
+    title "langchain-ai/lca-langgraph-essentials 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 66 --> 72
+    line [67, 68, 69, 70, 71, 71]
 ```
 
-2026-10-18 67 → 2026-11-02 69（+2）
+2026-10-18 67 → 2026-11-17 71（+4）
 
 
 ---

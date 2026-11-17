@@ -1,6 +1,6 @@
 # SiliconLabsSoftware/sisdk-release
 
-⭐ 12 · C · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/SiliconLabsSoftware/sisdk-release) · 组织维护
+⭐ 12 · C · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/SiliconLabsSoftware/sisdk-release) · 组织维护
 
 **Silicon Labs Simplicity SDK 发布镜像仓库，仅供文档链接引用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "SiliconLabsSoftware/sisdk-release 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-22", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-02 12（+0）
+2026-10-22 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zircote/subcog
 
-⭐ 29 · Rust · MIT · 推送 2026-08-03 · [GitHub](https://github.com/zircote/subcog) · 个人维护
+⭐ 30 · Rust · MIT · 推送 2026-08-03 · [GitHub](https://github.com/zircote/subcog) · 个人维护
 
 **给 AI 编程助手的持久记忆系统：捕获并按需召回会话上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zircote/subcog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "zircote/subcog 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

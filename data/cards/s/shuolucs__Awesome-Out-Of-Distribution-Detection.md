@@ -1,6 +1,6 @@
 # shuolucs/Awesome-Out-Of-Distribution-Detection
 
-⭐ 175 · 推送 2026-01-02 · [GitHub](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection) · [官网](https://arxiv.org/abs/2409.11884) · 组织维护
+⭐ 174 · 推送 2026-01-02 · [GitHub](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection) · [官网](https://arxiv.org/abs/2409.11884) · 组织维护
 
 **OOD 检测论文策展清单：配套 ACM CSUR 2025 综述**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuolucs/Awesome-Out-Of-Distribution-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    title "shuolucs/Awesome-Out-Of-Distribution-Detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 173 --> 176
+    line [175, 174, 174]
 ```
 
-2026-10-18 175 → 2026-11-02 175（+0）
+2026-10-18 175 → 2026-11-17 174（-1）
 
 
 ---

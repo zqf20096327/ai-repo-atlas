@@ -1,6 +1,6 @@
 # SlavaSexton/ComfyUI-OCIO
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/SlavaSexton/ComfyUI-OCIO) · [官网](https://aivfxnews.com/) · 组织维护
+⭐ 118 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/SlavaSexton/ComfyUI-OCIO) · [官网](https://chronicleofbrothers.com/) · 组织维护
 
 **ComfyUI 的 Nuke 风格 OpenColorIO 色彩管理节点包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SlavaSexton/ComfyUI-OCIO 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 112 --> 118
-    line [113, 114, 115, 116, 117, 117]
+    title "SlavaSexton/ComfyUI-OCIO 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 112 --> 119
+    line [113, 114, 115, 116, 117, 113, 117, 118, 118]
 ```
 
-2026-10-18 113 → 2026-11-02 117（+4）
+2026-10-18 113 → 2026-11-17 118（+5）
 
 
 ---

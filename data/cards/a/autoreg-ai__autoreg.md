@@ -1,6 +1,6 @@
 # autoreg-ai/autoreg
 
-⭐ 13 · MDX · 推送 2026-10-19 · [GitHub](https://github.com/autoreg-ai/autoreg) · [官网](https://autoreg.sh) · 组织维护
+⭐ 13 · MDX · 推送 2026-11-07 · [GitHub](https://github.com/autoreg-ai/autoreg) · [官网](https://autoreg.sh) · 组织维护
 
 **读取自然语言规格自动生成并自愈端到端测试的桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "autoreg-ai/autoreg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

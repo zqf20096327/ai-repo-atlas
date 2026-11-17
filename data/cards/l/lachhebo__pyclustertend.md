@@ -1,6 +1,6 @@
 # lachhebo/pyclustertend
 
-⭐ 50 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/lachhebo/pyclustertend) · [官网](https://pyclustertend.readthedocs.io/en/master/index.html) · 个人维护
+⭐ 51 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/lachhebo/pyclustertend) · [官网](https://pyclustertend.readthedocs.io/en/master/index.html) · 个人维护
 
 **评估数据集聚类倾向的 Python 统计库**
 
@@ -44,13 +44,13 @@ pyclustertend 是专注聚类倾向评估的 Python 包：判断对给定数据�
 
 ```mermaid
 xychart-beta
-    title "lachhebo/pyclustertend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "lachhebo/pyclustertend 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

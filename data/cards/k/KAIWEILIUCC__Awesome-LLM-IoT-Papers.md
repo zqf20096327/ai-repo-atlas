@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KAIWEILIUCC/Awesome-LLM-IoT-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "KAIWEILIUCC/Awesome-LLM-IoT-Papers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 24]
+    line [24, 25, 24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

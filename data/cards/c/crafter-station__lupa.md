@@ -1,6 +1,6 @@
 # crafter-station/lupa
 
-⭐ 22 · TypeScript · GPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/crafter-station/lupa) · [官网](https://www.lupa.build) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 AI Agent 的知识库 API：RAG 检索基础设施**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crafter-station/lupa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-12 22（+0）
 
 
 ---

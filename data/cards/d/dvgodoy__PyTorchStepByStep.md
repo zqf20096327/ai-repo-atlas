@@ -1,6 +1,6 @@
 # dvgodoy/PyTorchStepByStep
 
-⭐ 1,504 · Jupyter Notebook · MIT · 推送 2026-02-19 · [GitHub](https://github.com/dvgodoy/PyTorchStepByStep) · [官网](https://pytorchstepbystep.com) · 个人维护
+⭐ 1,506 · Jupyter Notebook · MIT · 推送 2026-02-19 · [GitHub](https://github.com/dvgodoy/PyTorchStepByStep) · [官网](https://pytorchstepbystep.com) · 个人维护
 
 **《Deep Learning with PyTorch Step-by-Step》书的配套代码仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dvgodoy/PyTorchStepByStep 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 1501 --> 1505
-    line [1503, 1502, 1503, 1504, 1504]
+    title "dvgodoy/PyTorchStepByStep 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1501 --> 1508
+    line [1503, 1502, 1503, 1504, 1503, 1504, 1505, 1506, 1507, 1506, 1506]
 ```
 
-2026-10-18 1,503 → 2026-11-02 1,504（+1）
+2026-10-18 1,503 → 2026-11-17 1,506（+3）
 
 
 ---

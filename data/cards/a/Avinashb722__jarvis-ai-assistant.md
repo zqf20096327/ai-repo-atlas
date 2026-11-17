@@ -1,6 +1,6 @@
 # Avinashb722/jarvis-ai-assistant
 
-⭐ 139 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Avinashb722/jarvis-ai-assistant) · [官网](https://noriaai.tech/) · 个人维护
+⭐ 142 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Avinashb722/jarvis-ai-assistant) · [官网](https://noriaai.tech/) · 个人维护
 
 **面向个人用户的语音/人脸认证桌面 AI 虚拟助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Avinashb722/jarvis-ai-assistant 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 130 --> 140
-    line [131, 134, 135, 136, 137, 138, 139, 139]
+    title "Avinashb722/jarvis-ai-assistant 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 130 --> 143
+    line [131, 134, 135, 136, 137, 138, 139, 136, 141, 142, 142]
 ```
 
-2026-10-18 131 → 2026-11-02 139（+8）
+2026-10-18 131 → 2026-11-17 142（+11）
 
 
 ---

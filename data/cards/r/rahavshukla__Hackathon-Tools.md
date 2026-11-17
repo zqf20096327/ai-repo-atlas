@@ -1,6 +1,6 @@
 # rahavshukla/Hackathon-Tools
 
-⭐ 12 · 推送 2026-10-12 · [GitHub](https://github.com/rahavshukla/Hackathon-Tools) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **黑客马拉松工具清单：覆盖路演、设计到部署的 35+ 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rahavshukla/Hackathon-Tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "rahavshukla/Hackathon-Tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-12 13（+1）
 
 
 ---

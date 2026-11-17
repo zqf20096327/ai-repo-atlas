@@ -1,6 +1,6 @@
 # devcxl/fcitx5-voice-input
 
-⭐ 14 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/devcxl/fcitx5-voice-input) · [官网](https://devcxl.github.io/fcitx5-voice-input/) · 个人维护 · 中文 README
+⭐ 14 · C++ · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/devcxl/fcitx5-voice-input) · [官网](https://devcxl.github.io/fcitx5-voice-input/) · 个人维护 · 中文 README
 
 **Fcitx5 语音输入插件：VAD 分段后经云端 ASR 转文字上屏**
 
@@ -46,12 +46,12 @@ Linux 输入法框架 Fcitx5 的 C++20 插件：通过 PulseAudio/PipeWire 采�
 ```mermaid
 xychart-beta
     title "devcxl/fcitx5-voice-input 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

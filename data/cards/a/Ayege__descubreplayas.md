@@ -1,6 +1,6 @@
 # Ayege/descubreplayas
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/Ayege/descubreplayas) · [官网](https://descubreplayas.com.do/) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/Ayege/descubreplayas) · [官网](https://descubreplayas.com.do/) · 个人维护
 
 **多米加海藻预警系统：卫星检测马尾藻并预测到岸时间**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ayege/descubreplayas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

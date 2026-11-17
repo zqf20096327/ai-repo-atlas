@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloudstreet-dev/React-is-Awful 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 337 --> 339
-    line [338, 338]
+    title "cloudstreet-dev/React-is-Awful 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 336 --> 339
+    line [338, 337, 338, 338]
 ```
 
-2026-10-18 338 → 2026-11-02 338（+0）
+2026-10-18 338 → 2026-11-17 338（+0）
 
 
 ---

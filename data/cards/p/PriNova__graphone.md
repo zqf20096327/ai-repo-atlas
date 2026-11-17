@@ -1,6 +1,6 @@
 # PriNova/graphone
 
-⭐ 90 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/PriNova/graphone) · 个人维护
+⭐ 91 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/PriNova/graphone) · 个人维护
 
 **面向 agent 运行的可视化工作台桌面应用（pi 运行时）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PriNova/graphone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "PriNova/graphone 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 89 --> 92
+    line [90, 91, 91]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 91（+1）
 
 
 ---

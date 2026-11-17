@@ -1,6 +1,6 @@
 # alitourani/Iranis-dataset
 
-⭐ 71 · GPL-3.0 · 推送 2025-12-08 · [GitHub](https://github.com/alitourani/Iranis-dataset) · [官网](https://alitourani.github.io/Iranis-dataset/) · 组织维护
+⭐ 72 · GPL-3.0 · 推送 2025-12-08 · [GitHub](https://github.com/alitourani/Iranis-dataset) · [官网](https://alitourani.github.io/Iranis-dataset/) · 组织维护
 
 **伊朗车牌波斯语字符图像数据集（83,844 张）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alitourani/Iranis-dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "alitourani/Iranis-dataset 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

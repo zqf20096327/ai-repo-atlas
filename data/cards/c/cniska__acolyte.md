@@ -1,6 +1,6 @@
 # cniska/acolyte
 
-⭐ 25 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/cniska/acolyte) · [官网](https://acolyte.sh) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/cniska/acolyte) · [官网](https://acolyte.sh) · 个人维护
 
 **终端里的开源 AI 编码 agent，跨会话记忆用户与项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cniska/acolyte 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "cniska/acolyte 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

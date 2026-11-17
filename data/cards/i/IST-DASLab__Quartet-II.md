@@ -1,6 +1,6 @@
 # IST-DASLab/Quartet-II
 
-⭐ 85 · Python · 推送 2026-05-01 · [GitHub](https://github.com/IST-DASLab/Quartet-II) · 组织维护
+⭐ 86 · Python · 推送 2026-05-01 · [GitHub](https://github.com/IST-DASLab/Quartet-II) · 组织维护
 
 **NVFP4 格式 LLM 预训练量化（QAT）官方代码与内核**
 
@@ -44,13 +44,13 @@ ICML 2026 论文 Quartet II 的官方实现：通过改进的无偏梯度估计�
 
 ```mermaid
 xychart-beta
-    title "IST-DASLab/Quartet-II 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 85, 85]
+    title "IST-DASLab/Quartet-II 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 82 --> 87
+    line [83, 84, 85, 86, 86]
 ```
 
-2026-10-18 83 → 2026-11-02 85（+2）
+2026-10-18 83 → 2026-11-17 86（+3）
 
 
 ---

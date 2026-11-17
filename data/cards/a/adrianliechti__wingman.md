@@ -1,6 +1,6 @@
 # adrianliechti/wingman
 
-⭐ 80 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/adrianliechti/wingman) · 个人维护
+⭐ 81 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/adrianliechti/wingman) · 个人维护
 
 **统一 LLM 推理网关：多供应商与本地运行时单一 API 接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "adrianliechti/wingman 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 78 --> 81
-    line [80, 79, 80, 80]
+    title "adrianliechti/wingman 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 78 --> 82
+    line [80, 79, 80, 79, 81, 81]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-17 81（+1）
 
 
 ---

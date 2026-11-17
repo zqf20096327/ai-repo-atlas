@@ -1,6 +1,6 @@
 # joeseesun/qiaomu-llm-mcp
 
-⭐ 47 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/joeseesun/qiaomu-llm-mcp) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/joeseesun/qiaomu-llm-mcp) · 个人维护 · 中文 README
 
 **本地 MCP 网关：统一多 LLM Provider 路由、密钥与多模型讨论**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "joeseesun/qiaomu-llm-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "joeseesun/qiaomu-llm-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 45 --> 50
+    line [46, 47, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 49（+3）
 
 
 ---

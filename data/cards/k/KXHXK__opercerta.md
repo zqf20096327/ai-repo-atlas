@@ -1,6 +1,6 @@
 # KXHXK/opercerta
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/KXHXK/opercerta) · [官网](https://opercerta-kxh.netlify.app) · 个人维护 · 中文 README
+⭐ 38 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/KXHXK/opercerta) · [官网](https://opercerta-kxh.netlify.app) · 个人维护 · 中文 README
 
 **可审计的运维 Agent 应用：库存/设备/任务异常的受控处置**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KXHXK/opercerta 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "KXHXK/opercerta 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [39, 38, 38]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 38（-1）
 
 
 ---

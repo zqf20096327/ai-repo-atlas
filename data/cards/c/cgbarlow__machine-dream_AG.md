@@ -1,6 +1,6 @@
 # cgbarlow/machine-dream_AG
 
-⭐ 22 · TypeScript · 推送 2026-01-24 · [GitHub](https://github.com/cgbarlow/machine-dream_AG) · 个人维护
+⭐ 23 · TypeScript · 推送 2026-01-24 · [GitHub](https://github.com/cgbarlow/machine-dream_AG) · 个人维护
 
 **持续机器认知研究平台：以数独为测试床的 LLM 经验学习与梦境巩固**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cgbarlow/machine-dream_AG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [22, 21, 22, 22]
+    title "cgbarlow/machine-dream_AG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [22, 21, 22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

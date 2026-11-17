@@ -1,6 +1,6 @@
 # Ankit-ku-panda/Portable-USB-AI
 
-⭐ 14 · Shell · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Ankit-ku-panda/Portable-USB-AI) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Ankit-ku-panda/Portable-USB-AI) · 个人维护
 
 **U 盘便携离线聊天助手：llama.cpp+GGUF 免安装本地对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ankit-ku-panda/Portable-USB-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "Ankit-ku-panda/Portable-USB-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

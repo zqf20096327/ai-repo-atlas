@@ -1,6 +1,6 @@
 # oxbshw/Open-Workflow-Library
 
-⭐ 558 · Python · MIT · 推送 2026-05-24 · [GitHub](https://github.com/oxbshw/Open-Workflow-Library) · 个人维护
+⭐ 559 · Python · MIT · 推送 2026-05-24 · [GitHub](https://github.com/oxbshw/Open-Workflow-Library) · 个人维护
 
 **n8n 工作流知识库与审计工具集：收集、索引、校验自动化工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oxbshw/Open-Workflow-Library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 556 --> 559
-    line [557, 558, 558]
+    title "oxbshw/Open-Workflow-Library 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 556 --> 560
+    line [557, 558, 557, 558, 559, 559]
 ```
 
-2026-10-18 557 → 2026-11-02 558（+1）
+2026-10-18 557 → 2026-11-17 559（+2）
 
 
 ---

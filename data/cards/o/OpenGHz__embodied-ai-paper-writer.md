@@ -1,6 +1,6 @@
 # OpenGHz/embodied-ai-paper-writer
 
-⭐ 15 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) · 个人维护 · 中文 README
 
 **具身智能顶会论文写作技能包：从63篇论文提炼写作范式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenGHz/embodied-ai-paper-writer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "OpenGHz/embodied-ai-paper-writer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

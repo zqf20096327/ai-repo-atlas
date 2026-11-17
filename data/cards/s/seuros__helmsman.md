@@ -1,6 +1,6 @@
 # seuros/helmsman
 
-⭐ 24 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/seuros/helmsman) · 个人维护
+⭐ 31 · Rust · 推送 2026-11-11 · [GitHub](https://github.com/seuros/helmsman) · 个人维护
 
 **为 AI 编程 agent 按模型与环境动态生成指令的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "seuros/helmsman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "seuros/helmsman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 32
+    line [24, 31, 31]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 31（+7）
 
 
 ---

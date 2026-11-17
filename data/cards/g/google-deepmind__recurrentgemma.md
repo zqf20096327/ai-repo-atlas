@@ -1,6 +1,6 @@
 # google-deepmind/recurrentgemma
 
-⭐ 685 · Python · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/google-deepmind/recurrentgemma) · 组织维护
+⭐ 686 · Python · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/google-deepmind/recurrentgemma) · 组织维护
 
 **Google DeepMind 开放权重的语言模型，基于 Griffin 架构**
 
@@ -44,13 +44,13 @@ Google DeepMind 发布的开放权重语言模型系列 RecurrentGemma，基于 
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/recurrentgemma 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "google-deepmind/recurrentgemma 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
     y-axis "stars" 684 --> 687
-    line [686, 685, 685]
+    line [686, 685, 686, 686]
 ```
 
-2026-10-18 686 → 2026-11-02 685（-1）
+2026-10-18 686 → 2026-11-17 686（+0）
 
 
 ---

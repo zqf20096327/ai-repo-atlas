@@ -1,6 +1,6 @@
 # OrderG-X/dsh-design-studio
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/OrderG-X/dsh-design-studio) · 个人维护 · 中文 README
+⭐ 83 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/OrderG-X/dsh-design-studio) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的设计工作台插件：画布预览界面、点选改稿**
 
@@ -46,13 +46,13 @@ DeepSeek Harness（DSH）的插件：模型生成网页、App 界面、海报、
 
 ```mermaid
 xychart-beta
-    title "OrderG-X/dsh-design-studio 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2 --> 14
-    line [3, 7, 8, 9, 11, 12, 13]
+    title "OrderG-X/dsh-design-studio 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 91
+    line [3, 7, 8, 9, 11, 12, 13, 3, 34, 44, 57, 65, 71, 74, 78, 83, 83]
 ```
 
-2026-10-23 3 → 2026-11-02 13（+10）
+2026-10-23 3 → 2026-11-17 83（+80）
 
 
 ---

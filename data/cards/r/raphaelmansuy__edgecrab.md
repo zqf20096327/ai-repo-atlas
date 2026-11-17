@@ -1,6 +1,6 @@
 # raphaelmansuy/edgecrab
 
-⭐ 93 · Rust · 推送 2026-07-24 · [GitHub](https://github.com/raphaelmansuy/edgecrab) · [官网](https://www.edgecrab.com) · 个人维护
+⭐ 94 · Rust · 推送 2026-07-24 · [GitHub](https://github.com/raphaelmansuy/edgecrab) · [官网](https://www.edgecrab.com) · 个人维护
 
 **Rust 编写的终端个人助理与编码 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raphaelmansuy/edgecrab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 90 --> 94
-    line [91, 92, 93, 93]
+    title "raphaelmansuy/edgecrab 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 90 --> 95
+    line [91, 92, 93, 92, 93, 94, 94]
 ```
 
-2026-10-18 91 → 2026-11-02 93（+2）
+2026-10-18 91 → 2026-11-17 94（+3）
 
 
 ---

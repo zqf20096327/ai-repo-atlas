@@ -44,13 +44,13 @@ SegFormer3D 的官方 PyTorch 实现，发表于 CVPR 2024 DEF-AI-MIA workshop�
 
 ```mermaid
 xychart-beta
-    title "OSUPCVLab/SegFormer3D 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 220 --> 222
-    line [221, 221]
+    title "OSUPCVLab/SegFormer3D 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 220 --> 223
+    line [221, 222, 221, 221]
 ```
 
-2026-10-18 221 → 2026-11-02 221（+0）
+2026-10-18 221 → 2026-11-17 221（+0）
 
 
 ---

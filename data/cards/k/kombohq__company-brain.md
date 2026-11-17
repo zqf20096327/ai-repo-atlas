@@ -1,6 +1,6 @@
 # kombohq/company-brain
 
-⭐ 27 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/kombohq/company-brain) · [官网](https://github.com/kombohq/company-brain/blob/main/docs/getting-started.md) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/kombohq/company-brain) · [官网](https://github.com/kombohq/company-brain/blob/main/docs/getting-started.md) · 组织维护
 
 **将公司数据源同步为 Markdown 存入 Git 的模板，供 AI 编程代理检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kombohq/company-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "kombohq/company-brain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 29（+3）
 
 
 ---

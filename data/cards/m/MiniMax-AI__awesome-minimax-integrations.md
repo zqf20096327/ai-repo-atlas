@@ -1,6 +1,6 @@
 # MiniMax-AI/awesome-minimax-integrations
 
-⭐ 81 · 推送 2026-01-30 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-integrations) · 组织维护 · 中文 README
+⭐ 82 · 推送 2026-01-30 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-integrations) · 组织维护 · 中文 README
 
 **MiniMax 多模态 API 集成应用策展清单**
 
@@ -43,13 +43,13 @@ MiniMax 维护的第三方应用集成清单：罗列接入 MiniMax 多模态 AP
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/awesome-minimax-integrations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 79 --> 82
-    line [80, 81, 81]
+    title "MiniMax-AI/awesome-minimax-integrations 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 79 --> 83
+    line [80, 81, 80, 81, 82, 82]
 ```
 
-2026-10-18 80 → 2026-11-02 81（+1）
+2026-10-18 80 → 2026-11-17 82（+2）
 
 
 ---

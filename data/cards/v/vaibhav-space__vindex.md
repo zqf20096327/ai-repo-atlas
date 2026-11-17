@@ -1,6 +1,6 @@
 # vaibhav-space/vindex
 
-⭐ 16 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/vaibhav-space/vindex) · [官网](https://vaibhav-space.github.io/vindex/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/vaibhav-space/vindex) · [官网](https://vaibhav-space.github.io/vindex/) · 个人维护
 
 **本地视频知识编译器：把视频一次性编译成结构化 JSON/Markdown 供 AI 消费**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vaibhav-space/vindex 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 17
-    line [10, 11, 12, 15, 16, 16]
+    title "vaibhav-space/vindex 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 21
+    line [10, 11, 12, 15, 16, 12, 19, 20, 20]
 ```
 
-2026-10-23 10 → 2026-11-02 16（+6）
+2026-10-23 10 → 2026-11-17 20（+10）
 
 
 ---

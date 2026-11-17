@@ -1,6 +1,6 @@
 # sdip15fa/safecantonese.ai.app
 
-⭐ 20 · TypeScript · GPL-3.0 · 推送 2025-11-07 · [GitHub](https://github.com/sdip15fa/safecantonese.ai.app) · [官网](https://safecantonese.ai) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **离线安全的粤语 AI 转录 App：设备本地完成语音转文字**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sdip15fa/safecantonese.ai.app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-07 20（+0）
 
 
 ---

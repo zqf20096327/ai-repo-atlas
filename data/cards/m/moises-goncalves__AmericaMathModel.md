@@ -1,6 +1,6 @@
 # moises-goncalves/AmericaMathModel
 
-⭐ 18 · Jupyter Notebook · 推送 2026-01-30 · [GitHub](https://github.com/moises-goncalves/AmericaMathModel) · 个人维护 · 中文 README
+⭐ 19 · Jupyter Notebook · 推送 2026-01-30 · [GitHub](https://github.com/moises-goncalves/AmericaMathModel) · 个人维护 · 中文 README
 
 **面向 MCM/ICM 数学建模竞赛的 Python 工具箱与 Prompt 模板库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moises-goncalves/AmericaMathModel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "moises-goncalves/AmericaMathModel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

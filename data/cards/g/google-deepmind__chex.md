@@ -1,6 +1,6 @@
 # google-deepmind/chex
 
-⭐ 958 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/chex) · [官网](https://chex.readthedocs.io) · 组织维护
+⭐ 957 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/chex) · [官网](https://chex.readthedocs.io) · 组织维护
 
 **JAX 代码的测试与调试工具库：断言、变体测试、调试变换**
 
@@ -45,13 +45,13 @@ DeepMind 维护的 Python 工具库，面向编写 JAX 代码的开发者。提�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/chex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "google-deepmind/chex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 956 --> 959
-    line [957, 958, 958]
+    line [957, 958, 957, 958, 957, 957]
 ```
 
-2026-10-18 957 → 2026-11-02 958（+1）
+2026-10-18 957 → 2026-11-17 957（+0）
 
 
 ---

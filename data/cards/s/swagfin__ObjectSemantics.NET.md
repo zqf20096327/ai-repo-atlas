@@ -1,6 +1,6 @@
 # swagfin/ObjectSemantics.NET
 
-⭐ 14 · C# · MIT · 推送 2026-09-16 · [GitHub](https://github.com/swagfin/ObjectSemantics.NET) · 个人维护
+⭐ 15 · C# · MIT · 推送 2026-09-16 · [GitHub](https://github.com/swagfin/ObjectSemantics.NET) · 个人维护
 
 **.NET 模板引擎：把对象数据渲染成个性化邮件/收据/报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "swagfin/ObjectSemantics.NET 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "swagfin/ObjectSemantics.NET 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [14, 13, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

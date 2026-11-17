@@ -1,6 +1,6 @@
 # obirler/LLMProxy
 
-⭐ 29 · C# · MIT · 推送 2025-12-06 · [GitHub](https://github.com/obirler/LLMProxy) · 个人维护
+⭐ 30 · C# · MIT · 推送 2025-12-06 · [GitHub](https://github.com/obirler/LLMProxy) · 个人维护
 
 **聚合多后端的 LLM API 路由代理与密钥管理服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "obirler/LLMProxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "obirler/LLMProxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ratschlab/DeepSpot2Cell
 
-⭐ 23 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ratschlab/DeepSpot2Cell) · [官网](https://www.biorxiv.org/content/10.1101/2025.09.23.678121v3) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ratschlab/DeepSpot2Cell) · [官网](https://www.biorxiv.org/content/10.1101/2025.09.23.678121v3) · 组织维护
 
 **从 H&E 病理图像预测虚拟单细胞空间转录组的深度学习模型**
 
@@ -45,12 +45,12 @@ DeepSpot2Cell 是一个基于 PyTorch 的计算病理学模型：训练时以分
 ```mermaid
 xychart-beta
     title "ratschlab/DeepSpot2Cell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

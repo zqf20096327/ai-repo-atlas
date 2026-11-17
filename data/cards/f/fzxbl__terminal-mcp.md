@@ -1,6 +1,6 @@
 # fzxbl/terminal-mcp
 
-⭐ 13 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/fzxbl/terminal-mcp) · 个人维护 · 中文 README
+⭐ 14 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/fzxbl/terminal-mcp) · 个人维护 · 中文 README
 
 **给 LLM agent 提供真实 PTY 终端的 MCP 服务器，支持人类接管**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fzxbl/terminal-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "fzxbl/terminal-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

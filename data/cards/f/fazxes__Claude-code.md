@@ -1,6 +1,6 @@
 # fazxes/Claude-code
 
-⭐ 246 · TypeScript · 推送 2026-04-03 · [GitHub](https://github.com/fazxes/Claude-code) · 个人维护
+⭐ 248 · TypeScript · 推送 2026-04-03 · [GitHub](https://github.com/fazxes/Claude-code) · 个人维护
 
 **从泄露源码重建的 Claude Code 终端 AI 编程助手 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fazxes/Claude-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 244 --> 247
-    line [246, 245, 246, 246]
+    title "fazxes/Claude-code 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 244 --> 249
+    line [246, 245, 246, 245, 247, 248, 248]
 ```
 
-2026-10-18 246 → 2026-11-02 246（+0）
+2026-10-18 246 → 2026-11-17 248（+2）
 
 
 ---

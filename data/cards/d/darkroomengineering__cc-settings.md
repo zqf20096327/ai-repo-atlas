@@ -1,6 +1,6 @@
 # darkroomengineering/cc-settings
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/darkroomengineering/cc-settings) · 组织维护
+⭐ 53 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/darkroomengineering/cc-settings) · 组织维护
 
 **给 Claude Code/Codex 装团队工程规范的工作流配置包**
 
@@ -45,13 +45,13 @@ Darkroom Engineering 团队维护的 Claude Code 与 Codex 配置集合：通过
 
 ```mermaid
 xychart-beta
-    title "darkroomengineering/cc-settings 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    title "darkroomengineering/cc-settings 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 52（+1）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

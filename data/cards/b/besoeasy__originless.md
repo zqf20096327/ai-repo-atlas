@@ -1,6 +1,6 @@
 # besoeasy/originless
 
-⭐ 88 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/besoeasy/originless) · [官网](https://originless.space/) · 个人维护
+⭐ 89 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/besoeasy/originless) · [官网](https://originless.space/) · 个人维护
 
 **自托管内容寻址文件托管服务：CID 即永久地址**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "besoeasy/originless 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    title "besoeasy/originless 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 87 --> 90
+    line [88, 89, 89]
 ```
 
-2026-10-30 88 → 2026-11-02 88（+0）
+2026-10-30 88 → 2026-11-17 89（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ictinnovations/ictfax-mcp
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ictinnovations/ictfax-mcp) · [官网](https://www.ictfax.org) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ictinnovations/ictfax-mcp) · [官网](https://www.ictfax.org) · 组织维护
 
 **让 AI 助手通过 ICTCore REST 收发与追踪传真的 MCP 服务器**
 
@@ -44,13 +44,13 @@ ICTFax 的 Model Context Protocol 服务器，基于 ICTCore REST API，使 AI �
 
 ```mermaid
 xychart-beta
-    title "ictinnovations/ictfax-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "ictinnovations/ictfax-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

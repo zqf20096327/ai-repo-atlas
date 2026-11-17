@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model
 
-⭐ 48 · Python · 推送 2025-11-25 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) · [官网](https://rice-disease-prediction-model-007.streamlit.app/) · 个人维护
+⭐ 47 · Python · 推送 2025-11-25 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) · [官网](https://rice-disease-prediction-model-007.streamlit.app/) · 个人维护
 
 **基于 CNN 的水稻叶片病害图像识别 Streamlit 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    line [46, 47, 48, 47, 48, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 48（+2）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

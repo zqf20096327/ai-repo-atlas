@@ -1,6 +1,6 @@
 # Kuberwastaken/picogpt
 
-⭐ 134 · HTML · 推送 2026-02-17 · [GitHub](https://github.com/Kuberwastaken/picogpt) · [官网](https://kuber.studio/picogpt/) · 个人维护
+⭐ 135 · HTML · 推送 2026-02-17 · [GitHub](https://github.com/Kuberwastaken/picogpt) · [官网](https://kuber.studio/picogpt/) · 个人维护
 
 **可塞进二维码的极简 GPT：纯 JS 训练与推理实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kuberwastaken/picogpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    title "Kuberwastaken/picogpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 133 --> 136
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-11-02 134（+0）
+2026-10-18 134 → 2026-11-17 135（+1）
 
 
 ---

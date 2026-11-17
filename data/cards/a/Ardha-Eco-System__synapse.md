@@ -1,6 +1,6 @@
 # Ardha-Eco-System/synapse
 
-⭐ 78 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Ardha-Eco-System/synapse) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ardha-Eco-System/synapse) · 组织维护
 
 **AI agent 的自托管时序知识图谱记忆插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ardha-Eco-System/synapse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 75 --> 79
-    line [76, 77, 78, 78]
+    title "Ardha-Eco-System/synapse 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 81
+    line [76, 77, 78, 77, 80, 80]
 ```
 
-2026-10-18 76 → 2026-11-02 78（+2）
+2026-10-18 76 → 2026-11-17 80（+4）
 
 
 ---

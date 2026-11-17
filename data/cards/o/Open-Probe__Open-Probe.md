@@ -1,6 +1,6 @@
 # Open-Probe/Open-Probe
 
-⭐ 24 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Open-Probe/Open-Probe) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Open-Probe/Open-Probe) · 组织维护
 
 **开源 agent 深度网络搜索系统，回答复杂问题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-Probe/Open-Probe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "Open-Probe/Open-Probe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

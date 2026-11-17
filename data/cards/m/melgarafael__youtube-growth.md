@@ -1,6 +1,6 @@
 # melgarafael/youtube-growth
 
-⭐ 19 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/melgarafael/youtube-growth) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/melgarafael/youtube-growth) · 个人维护
 
 **终端里运行的 YouTube 增长 AI 代理插件，读取自有频道数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "melgarafael/youtube-growth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 19, 19]
+    title "melgarafael/youtube-growth 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

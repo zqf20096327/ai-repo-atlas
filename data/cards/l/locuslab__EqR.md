@@ -1,6 +1,6 @@
 # locuslab/EqR
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/locuslab/EqR) · [官网](https://x.com/huskydogewoof/status/2057641657580064941?s=20) · 组织维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/locuslab/EqR) · [官网](https://x.com/huskydogewoof/status/2057641657580064941?s=20) · 组织维护
 
 **ICML 2026 论文代码：用吸引子动力学训练均衡推理模型解 Sudoku 与 Maze**
 
@@ -45,13 +45,13 @@ CMU 研究者发布的 EqR（Equilibrium Reasoners）官方复现代码，配套
 
 ```mermaid
 xychart-beta
-    title "locuslab/EqR 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 60]
+    title "locuslab/EqR 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 56 --> 62
+    line [57, 58, 59, 60, 59, 60, 61, 61]
 ```
 
-2026-10-18 57 → 2026-11-02 60（+3）
+2026-10-18 57 → 2026-11-17 61（+4）
 
 
 ---

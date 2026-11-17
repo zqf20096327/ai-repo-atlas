@@ -1,6 +1,6 @@
 # heikeyangle-code/rikkahub-plus
 
-⭐ 22 · Kotlin · AGPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/heikeyangle-code/rikkahub-plus) · 个人维护 · 中文 README
+⭐ 28 · Kotlin · AGPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/heikeyangle-code/rikkahub-plus) · 个人维护 · 中文 README
 
 **给 AI 角色扮演与命理爱好者的 Android 聊天客户端定制分支**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "heikeyangle-code/rikkahub-plus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 21, 22, 22]
+    title "heikeyangle-code/rikkahub-plus 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 29
+    line [19, 21, 22, 24, 25, 26, 28, 28]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 28（+9）
 
 
 ---

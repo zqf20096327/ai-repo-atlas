@@ -1,6 +1,6 @@
 # janosh/awesome-normalizing-flows
 
-⭐ 1,641 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/janosh/awesome-normalizing-flows) · 个人维护
+⭐ 1,644 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/janosh/awesome-normalizing-flows) · 个人维护
 
 **normalizing flows 资源策展清单：论文、软件包、仓库与博文**
 
@@ -43,13 +43,13 @@ janosh 维护的 normalizing flows（NF）主题 awesome 清单：收录 60 篇�
 
 ```mermaid
 xychart-beta
-    title "janosh/awesome-normalizing-flows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1639 --> 1642
-    line [1640, 1641, 1641]
+    title "janosh/awesome-normalizing-flows 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1639 --> 1645
+    line [1640, 1641, 1640, 1642, 1644, 1644]
 ```
 
-2026-10-18 1,640 → 2026-11-02 1,641（+1）
+2026-10-18 1,640 → 2026-11-17 1,644（+4）
 
 
 ---

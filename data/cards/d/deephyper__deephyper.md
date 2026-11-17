@@ -1,6 +1,6 @@
 # deephyper/deephyper
 
-⭐ 310 · Python · BSD-3-Clause · 推送 2026-03-27 · [GitHub](https://github.com/deephyper/deephyper) · [官网](https://deephyper.readthedocs.io) · 组织维护
+⭐ 311 · Python · BSD-3-Clause · 推送 2026-03-27 · [GitHub](https://github.com/deephyper/deephyper) · [官网](https://deephyper.readthedocs.io) · 组织维护
 
 **面向机器学习的可大规模并行超参数优化 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deephyper/deephyper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 309 --> 311
-    line [310, 310]
+    title "deephyper/deephyper 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 309 --> 313
+    line [310, 311, 312, 311, 311]
 ```
 
-2026-10-18 310 → 2026-11-02 310（+0）
+2026-10-18 310 → 2026-11-17 311（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeepRank-AI/seo-platform-template
 
-⭐ 15 · Vue · MIT · 推送 2025-11-07 · [GitHub](https://github.com/DeepRank-AI/seo-platform-template) · [官网](https://deeprankai.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Nuxt 3 编写的 SEO 平台前端模板（仪表盘+落地页）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeepRank-AI/seo-platform-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "DeepRank-AI/seo-platform-template 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-07 14（+0）
 
 
 ---

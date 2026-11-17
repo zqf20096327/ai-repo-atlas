@@ -1,6 +1,6 @@
 # tugcantopaloglu/openclaw-dashboard
 
-⭐ 699 · HTML · 推送 2026-10-09 · [GitHub](https://github.com/tugcantopaloglu/openclaw-dashboard) · [官网](https://github.com/tugcantopaloglu/openclaw-dashboard/releases/tag/v2.0.0) · 个人维护
+⭐ 703 · HTML · MIT · 推送 2026-11-05 · [GitHub](https://github.com/tugcantopaloglu/openclaw-dashboard) · [官网](https://github.com/tugcantopaloglu/openclaw-dashboard/releases/latest) · 个人维护
 
 **OpenClaw AI agent 的实时监控面板：会话/成本/内存/系统健康一站式查看**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tugcantopaloglu/openclaw-dashboard 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 698 --> 703
-    line [702, 701, 700, 701, 700, 701, 700, 699]
+    title "tugcantopaloglu/openclaw-dashboard 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 698 --> 705
+    line [702, 701, 700, 701, 700, 701, 700, 699, 700, 699, 702, 703, 704, 703, 703]
 ```
 
-2026-10-18 702 → 2026-11-02 699（-3）
+2026-10-18 702 → 2026-11-17 703（+1）
 
 
 ---

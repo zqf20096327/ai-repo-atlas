@@ -1,6 +1,6 @@
 # forestagostinelli/deepxube
 
-⭐ 18 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/forestagostinelli/deepxube) · [官网](https://forestagostinelli.github.io/deepxube/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/forestagostinelli/deepxube) · [官网](https://forestagostinelli.github.io/deepxube/) · 个人维护
 
 **以领域无关方式学习启发式函数解决寻路问题的 RL 库**
 
@@ -46,12 +46,12 @@ DeepXube（Deep Cube）结合深度强化学习与启发式搜索求解寻路问
 ```mermaid
 xychart-beta
     title "forestagostinelli/deepxube 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

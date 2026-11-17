@@ -1,6 +1,6 @@
 # SkywalkerDarren/chatWeb
 
-⭐ 917 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/SkywalkerDarren/chatWeb) · 个人维护 · 中文 README
+⭐ 916 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/SkywalkerDarren/chatWeb) · 个人维护 · 中文 README
 
 **网页/PDF/DOCX/TXT 内容问答与摘要工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SkywalkerDarren/chatWeb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 916 --> 918
-    line [917, 917]
+    title "SkywalkerDarren/chatWeb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 915 --> 918
+    line [917, 916, 916]
 ```
 
-2026-10-18 917 → 2026-11-02 917（+0）
+2026-10-18 917 → 2026-11-17 916（-1）
 
 
 ---

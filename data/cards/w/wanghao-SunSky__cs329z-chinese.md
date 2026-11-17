@@ -1,6 +1,6 @@
 # wanghao-SunSky/cs329z-chinese
 
-⭐ 378 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/wanghao-SunSky/cs329z-chinese) · [官网](https://cs329z-course-review-20261029.wanghao162263.chatgpt.site) · 个人维护 · 中文 README
+⭐ 609 · HTML · 推送 2026-11-06 · [GitHub](https://github.com/wanghao-SunSky/cs329z-chinese) · [官网](https://cs329z-course-review-20261029.wanghao162263.chatgpt.site) · 个人维护 · 中文 README
 
 **Stanford CS329Z 中文教程：19 讲学会构建与评测 AI Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wanghao-SunSky/cs329z-chinese 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 0 --> 415
-    line [4, 34, 190, 378]
+    title "wanghao-SunSky/cs329z-chinese 星数(近 13 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 669
+    line [4, 34, 190, 378, 509, 564, 574, 590, 593, 599, 603, 609, 609]
 ```
 
-2026-10-30 4 → 2026-11-02 378（+374）
+2026-10-30 4 → 2026-11-17 609（+605）
 
 
 ---

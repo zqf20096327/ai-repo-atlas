@@ -1,6 +1,6 @@
 # babarot/oksskolten
 
-⭐ 498 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/babarot/oksskolten) · [官网](https://oksskolten.com) · 个人维护
+⭐ 508 · TypeScript · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/babarot/oksskolten) · [官网](https://oksskolten.com) · 个人维护
 
 **AI 原生自托管 RSS 阅读器：默认抓取全文并做摘要与翻译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "babarot/oksskolten 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 491 --> 499
-    line [492, 494, 495, 497, 498, 498]
+    title "babarot/oksskolten 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 491 --> 509
+    line [492, 494, 495, 497, 498, 495, 501, 504, 505, 507, 508, 508]
 ```
 
-2026-10-18 492 → 2026-11-02 498（+6）
+2026-10-18 492 → 2026-11-17 508（+16）
 
 
 ---

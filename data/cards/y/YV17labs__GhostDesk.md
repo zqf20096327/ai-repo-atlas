@@ -1,6 +1,6 @@
 # YV17labs/GhostDesk
 
-⭐ 155 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/YV17labs/GhostDesk) · [官网](https://www.yv17labs.com) · 组织维护
+⭐ 158 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/YV17labs/GhostDesk) · [官网](https://www.yv17labs.com) · 组织维护
 
 **给 AI agent 提供完整桌面控制的 MCP 服务器：看屏幕、点击、打字、跑应用**
 
@@ -44,13 +44,13 @@ Rust 编写的 MCP 服务器，向 LLM agent 暴露 14 个工具（截屏、鼠�
 
 ```mermaid
 xychart-beta
-    title "YV17labs/GhostDesk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 153 --> 156
-    line [154, 155, 154, 155, 155]
+    title "YV17labs/GhostDesk 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 153 --> 159
+    line [154, 155, 154, 155, 157, 158, 158]
 ```
 
-2026-10-18 154 → 2026-11-02 155（+1）
+2026-10-18 154 → 2026-11-17 158（+4）
 
 
 ---

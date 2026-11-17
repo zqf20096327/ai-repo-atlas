@@ -1,6 +1,6 @@
 # selab-gatech/autoresttest
 
-⭐ 54 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/selab-gatech/autoresttest) · 组织维护
+⭐ 56 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/selab-gatech/autoresttest) · 组织维护
 
 **面向测试人员的自动化 REST API 黑盒测试工具**
 
@@ -46,13 +46,13 @@ AutoRestTest 解析 OpenAPI 3.0 规范，结合图论、LLM 与多智能体强�
 
 ```mermaid
 xychart-beta
-    title "selab-gatech/autoresttest 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "selab-gatech/autoresttest 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 55, 56, 56]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 56（+3）
 
 
 ---

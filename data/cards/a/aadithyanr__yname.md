@@ -1,6 +1,6 @@
 # aadithyanr/yname
 
-⭐ 52 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/aadithyanr/yname) · [官网](https://yname.aadithyanr.dev) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/aadithyanr/yname) · [官网](https://yname.aadithyanr.dev) · 个人维护
 
 **浏览器本地生成 YC 风格创业名的字符级神经网络应用**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "aadithyanr/yname 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    title "aadithyanr/yname 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 52（+1）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

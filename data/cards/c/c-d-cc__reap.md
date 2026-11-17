@@ -1,6 +1,6 @@
 # c-d-cc/reap
 
-⭐ 59 · TypeScript · 推送 2026-09-21 · [GitHub](https://github.com/c-d-cc/reap) · [官网](https://reap.cc/) · 个人维护
+⭐ 62 · TypeScript · 推送 2026-09-21 · [GitHub](https://github.com/c-d-cc/reap) · [官网](https://reap.cc/) · 个人维护
 
 **AI 与人协作的自进化开发流水线，跨代际演进软件项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "c-d-cc/reap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    title "c-d-cc/reap 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 63
+    line [58, 59, 62, 62]
 ```
 
-2026-10-18 58 → 2026-11-02 59（+1）
+2026-10-18 58 → 2026-11-17 62（+4）
 
 
 ---

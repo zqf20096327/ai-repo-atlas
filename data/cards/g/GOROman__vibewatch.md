@@ -1,6 +1,6 @@
 # GOROman/vibewatch
 
-⭐ 148 · C++ · MIT · 推送 2026-08-08 · [GitHub](https://github.com/GOROman/vibewatch) · 个人维护 · 中文 README
+⭐ 155 · C++ · MIT · 推送 2026-08-08 · [GitHub](https://github.com/GOROman/vibewatch) · 个人维护 · 中文 README
 
 **给 Vibe Coding 开发者的 M5Stack 可穿戴 AI 会话控制器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GOROman/vibewatch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 145 --> 149
-    line [146, 147, 148, 148]
+    title "GOROman/vibewatch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 145 --> 156
+    line [146, 147, 148, 151, 153, 154, 155, 155]
 ```
 
-2026-10-18 146 → 2026-11-02 148（+2）
+2026-10-18 146 → 2026-11-17 155（+9）
 
 
 ---

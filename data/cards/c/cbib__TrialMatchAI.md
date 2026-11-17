@@ -1,6 +1,6 @@
 # cbib/TrialMatchAI
 
-⭐ 40 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/cbib/TrialMatchAI) · [官网](https://cbib.github.io/TrialMatchAI/) · 组织维护
+⭐ 43 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/cbib/TrialMatchAI) · [官网](https://cbib.github.io/TrialMatchAI/) · 组织维护
 
 **患者与临床试验匹配的 CLI：检索、入组资格评估与报告生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cbib/TrialMatchAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "cbib/TrialMatchAI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 42, 43, 43]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 43（+4）
 
 
 ---

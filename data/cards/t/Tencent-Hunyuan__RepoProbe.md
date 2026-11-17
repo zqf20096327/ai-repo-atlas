@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/RepoProbe
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/Tencent-Hunyuan/RepoProbe) · 组织维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/Tencent-Hunyuan/RepoProbe) · 组织维护 · 中文 README
 
 **仓库级代码理解评测基准：500 道源自 GitHub Discussions 的开放题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/RepoProbe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "Tencent-Hunyuan/RepoProbe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

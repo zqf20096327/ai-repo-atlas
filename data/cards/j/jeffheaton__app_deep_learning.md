@@ -1,6 +1,6 @@
 # jeffheaton/app_deep_learning
 
-⭐ 493 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/jeffheaton/app_deep_learning) · [官网](https://sites.wustl.edu/jeffheaton/t81-558/) · 组织维护
+⭐ 495 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/jeffheaton/app_deep_learning) · [官网](https://sites.wustl.edu/jeffheaton/t81-558/) · 组织维护
 
 **华盛顿大学深度神经网络应用课程仓库（PyTorch）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeffheaton/app_deep_learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 492 --> 495
-    line [494, 493]
+    title "jeffheaton/app_deep_learning 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 492 --> 496
+    line [494, 493, 494, 493, 494, 495, 495]
 ```
 
-2026-10-18 494 → 2026-11-02 493（-1）
+2026-10-18 494 → 2026-11-17 495（+1）
 
 
 ---

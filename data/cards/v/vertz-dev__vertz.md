@@ -1,6 +1,6 @@
 # vertz-dev/vertz
 
-⭐ 45 · TypeScript · MIT · 推送 2026-05-02 · [GitHub](https://github.com/vertz-dev/vertz) · [官网](https://vertz.dev) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-05-02 · [GitHub](https://github.com/vertz-dev/vertz) · [官网](https://vertz.dev) · 组织维护
 
 **全栈 TypeScript 框架：一份 schema 驱动 ORM、API、UI 与 AI agent**
 
@@ -45,13 +45,13 @@ TypeScript 全栈框架，用单一 schema 生成类型化的数据库 ORM（Pos
 
 ```mermaid
 xychart-beta
-    title "vertz-dev/vertz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "vertz-dev/vertz 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/agenticai-design-patterns
 
-⭐ 692 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/agenticai-design-patterns) · 组织维护
+⭐ 697 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/agenticai-design-patterns) · 组织维护
 
 **面向 Azure/Microsoft Foundry 的 Agentic AI 设计模式与参考架构清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agenticai-design-patterns 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 689 --> 693
-    line [690, 691, 692, 691, 692, 692]
+    title "microsoft/agenticai-design-patterns 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 689 --> 698
+    line [690, 691, 692, 691, 692, 691, 694, 695, 697, 697]
 ```
 
-2026-10-18 690 → 2026-11-02 692（+2）
+2026-10-18 690 → 2026-11-17 697（+7）
 
 
 ---

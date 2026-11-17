@@ -1,6 +1,6 @@
 # liu00222/Open-Prompt-Injection
 
-⭐ 510 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/liu00222/Open-Prompt-Injection) · 组织维护
+⭐ 515 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/liu00222/Open-Prompt-Injection) · 组织维护
 
 **LLM 提示注入攻击与防御的开源评测工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liu00222/Open-Prompt-Injection 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 505 --> 511
-    line [506, 508, 509, 510, 510]
+    title "liu00222/Open-Prompt-Injection 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 505 --> 516
+    line [506, 508, 509, 510, 508, 511, 513, 514, 515, 515]
 ```
 
-2026-10-18 506 → 2026-11-02 510（+4）
+2026-10-18 506 → 2026-11-17 515（+9）
 
 
 ---

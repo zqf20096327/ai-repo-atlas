@@ -1,6 +1,6 @@
 # zerowand01/markplane
 
-⭐ 192 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/zerowand01/markplane) · 个人维护
+⭐ 194 · Rust · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/zerowand01/markplane) · 个人维护
 
 **仓库内 Markdown 项目管理工具，为 AI 编程助手提供项目上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zerowand01/markplane 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 188 --> 193
-    line [189, 190, 191, 192, 192]
+    title "zerowand01/markplane 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 188 --> 195
+    line [189, 190, 191, 192, 191, 193, 194, 194]
 ```
 
-2026-10-18 189 → 2026-11-02 192（+3）
+2026-10-18 189 → 2026-11-17 194（+5）
 
 
 ---

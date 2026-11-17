@@ -1,6 +1,6 @@
 # anthropics/cryptography-research-demo
 
-⭐ 72 · C · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/anthropics/cryptography-research-demo) · 组织维护
+⭐ 74 · C · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/anthropics/cryptography-research-demo) · 组织维护
 
 **伴随论文的密码分析研究代码（AES/HAWK/LEA 三组件）**
 
@@ -42,13 +42,13 @@ Anthropic 发布的密码分析研究产物，包含三个独立组件：AES、H
 
 ```mermaid
 xychart-beta
-    title "anthropics/cryptography-research-demo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    title "anthropics/cryptography-research-demo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 72, 73, 74, 74]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 74（+4）
 
 
 ---

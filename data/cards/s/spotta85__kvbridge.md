@@ -1,6 +1,6 @@
 # spotta85/kvbridge
 
-⭐ 12 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/spotta85/kvbridge) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/spotta85/kvbridge) · 个人维护
 
 **跨模型 KV cache 迁移库：小模型预填充、大模型作答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spotta85/kvbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

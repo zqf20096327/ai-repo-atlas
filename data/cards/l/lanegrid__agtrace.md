@@ -1,6 +1,6 @@
 # lanegrid/agtrace
 
-⭐ 62 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lanegrid/agtrace) · 个人维护
+⭐ 64 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lanegrid/agtrace) · 个人维护
 
 **AI 编码 agent 的可观测性工具：实时查看 agent 行为与上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lanegrid/agtrace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "lanegrid/agtrace 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 62, 61, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

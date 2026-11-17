@@ -1,6 +1,6 @@
 # tin2tin/Pallaidium
 
-⭐ 1,551 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/tin2tin/Pallaidium) · [官网](https://tin2tin.github.io/Pallaidium/) · 个人维护
+⭐ 1,555 · Python · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/tin2tin/Pallaidium) · [官网](https://tin2tin.github.io/Pallaidium/) · 个人维护
 
 **集成在 Blender 视频编辑器中的免费生成式 AI 电影工作室**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tin2tin/Pallaidium 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1547 --> 1553
-    line [1548, 1549, 1550, 1551, 1552, 1551]
+    title "tin2tin/Pallaidium 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1547 --> 1556
+    line [1548, 1549, 1550, 1551, 1552, 1551, 1550, 1555, 1554, 1555, 1555]
 ```
 
-2026-10-18 1,548 → 2026-11-02 1,551（+3）
+2026-10-18 1,548 → 2026-11-17 1,555（+7）
 
 
 ---

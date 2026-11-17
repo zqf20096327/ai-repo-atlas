@@ -1,6 +1,6 @@
 # DraconicDragon/ComfyUI-RyuuNoodles
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-07-12 · [GitHub](https://github.com/DraconicDragon/ComfyUI-RyuuNoodles) · 个人维护
+⭐ 12 · Python · GPL-3.0 · 推送 2026-07-12 · [GitHub](https://github.com/DraconicDragon/ComfyUI-RyuuNoodles) · 个人维护
 
 **ComfyUI 自定义节点合集：token 计数器、回退切换与文本工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DraconicDragon/ComfyUI-RyuuNoodles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "DraconicDragon/ComfyUI-RyuuNoodles 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

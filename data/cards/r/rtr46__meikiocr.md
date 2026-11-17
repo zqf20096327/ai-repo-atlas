@@ -1,6 +1,6 @@
 # rtr46/meikiocr
 
-⭐ 101 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtr46/meikiocr) · 个人维护
+⭐ 103 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtr46/meikiocr) · 个人维护
 
 **面向日文游戏文本的本地 OCR 管线工具**
 
@@ -45,13 +45,13 @@ Python 编写的两阶段 OCR 管线：先用检测模型定位文本行边界�
 
 ```mermaid
 xychart-beta
-    title "rtr46/meikiocr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 99 --> 102
-    line [100, 101, 101]
+    title "rtr46/meikiocr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 99 --> 104
+    line [100, 101, 102, 103, 103]
 ```
 
-2026-10-18 100 → 2026-11-02 101（+1）
+2026-10-18 100 → 2026-11-17 103（+3）
 
 
 ---

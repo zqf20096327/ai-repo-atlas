@@ -1,6 +1,6 @@
 # rajdeepmondaldotcom/pmcgrab
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rajdeepmondaldotcom/pmcgrab) · [官网](https://rajdeepmondaldotcom.github.io/pmcgrab/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rajdeepmondaldotcom/pmcgrab) · [官网](https://rajdeepmondaldotcom.github.io/pmcgrab/) · 个人维护
 
 **给生医 AI/RAG 管线的 PMC 文献解析库：PMC ID 进、干净论文 JSON 出**
 
@@ -45,12 +45,12 @@ Python 库与 CLI：读取 PubMed Central 文章与 JATS XML（按 PMCID/PMID/DO
 ```mermaid
 xychart-beta
     title "rajdeepmondaldotcom/pmcgrab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

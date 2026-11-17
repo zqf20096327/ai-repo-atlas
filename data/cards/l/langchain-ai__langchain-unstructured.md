@@ -1,6 +1,6 @@
 # langchain-ai/langchain-unstructured
 
-⭐ 23 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-unstructured) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/langchain-ai/langchain-unstructured) · 组织维护
 
 **LangChain 与 Unstructured 的集成包，用于文档解析加载**
 
@@ -41,13 +41,13 @@ langchain-ai 组织下的集成仓库，包含 1 个包 langchain-unstructured�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-unstructured 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-unstructured 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 23, 23]
+    line [23, 24, 23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

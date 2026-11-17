@@ -1,6 +1,6 @@
 # fredotran/traffic-sign-detector-yolov4
 
-⭐ 32 · Jupyter Notebook · 推送 2025-11-11 · [GitHub](https://github.com/fredotran/traffic-sign-detector-yolov4) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 YOLOv4 与 OpenCV DNN 检测 4 类交通标志的项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fredotran/traffic-sign-detector-yolov4 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-07 32（+0）
 
 
 ---

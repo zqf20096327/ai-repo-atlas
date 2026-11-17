@@ -1,6 +1,6 @@
 # AAAAAnson/mbeditor
 
-⭐ 80 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/AAAAAnson/mbeditor) · 个人维护 · 中文 README
+⭐ 81 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/AAAAAnson/mbeditor) · 个人维护 · 中文 README
 
 **自托管 AI 微信公众号编辑器：一句话生成排版好的推文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AAAAAnson/mbeditor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 76 --> 81
-    line [77, 79, 80, 80]
+    title "AAAAAnson/mbeditor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 76 --> 82
+    line [77, 79, 80, 81, 81]
 ```
 
-2026-10-18 77 → 2026-11-02 80（+3）
+2026-10-18 77 → 2026-11-17 81（+4）
 
 
 ---

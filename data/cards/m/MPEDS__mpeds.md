@@ -1,6 +1,6 @@
 # MPEDS/mpeds
 
-⭐ 41 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MPEDS/mpeds) · [官网](http://mpeds.github.io) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/MPEDS/mpeds) · [官网](http://mpeds.github.io) · 个人维护
 
 **从新闻源自动生成抗议事件数据的机器学习系统**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MPEDS/mpeds 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "MPEDS/mpeds 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # eren23/open_geo_spy
 
-⭐ 28 · Python · 推送 2026-10-25 · [GitHub](https://github.com/eren23/open_geo_spy) · 个人维护
+⭐ 30 · Python · 推送 2026-10-25 · [GitHub](https://github.com/eren23/open_geo_spy) · 个人维护
 
 **GeoSpy 的开源实现：从图片推断拍摄地理位置**
 
@@ -42,13 +42,13 @@ GeoSpy 平台的开源替代实现：输入图像，借助视觉模型与 LLM（
 
 ```mermaid
 xychart-beta
-    title "eren23/open_geo_spy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "eren23/open_geo_spy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

@@ -46,12 +46,12 @@ BOLeRo（Behavior Learning and Optimization for Robots）提供学习机器人�
 ```mermaid
 xychart-beta
     title "rock-learning/bolero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 68（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # slokam-ai/localgcp
 
-⭐ 92 · Go · MIT · 推送 2026-04-16 · [GitHub](https://github.com/slokam-ai/localgcp) · [官网](https://localgcp.com) · 组织维护
+⭐ 94 · Go · MIT · 推送 2026-04-16 · [GitHub](https://github.com/slokam-ai/localgcp) · [官网](https://localgcp.com) · 组织维护
 
 **本地模拟 14 个 GCP 服务的 Go 单二进制模拟器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "slokam-ai/localgcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 87 --> 93
-    line [88, 89, 90, 91, 92]
+    title "slokam-ai/localgcp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 87 --> 95
+    line [88, 89, 90, 91, 92, 90, 92, 93, 94, 94]
 ```
 
-2026-10-18 88 → 2026-11-02 92（+4）
+2026-10-18 88 → 2026-11-17 94（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # get-dst/dst
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/get-dst/dst) · [官网](https://www.dataservetool.com) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/get-dst/dst) · [官网](https://www.dataservetool.com) · 组织维护
 
 **开源语义层与 MCP 服务器：让团队 AI 治理化地查询数据仓库**
 
@@ -45,13 +45,13 @@ dst 部署在团队使用的 AI（Claude、ChatGPT、Copilot、自建 agent）�
 
 ```mermaid
 xychart-beta
-    title "get-dst/dst 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "get-dst/dst 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

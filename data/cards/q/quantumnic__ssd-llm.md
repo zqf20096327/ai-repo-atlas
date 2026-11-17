@@ -1,6 +1,6 @@
 # quantumnic/ssd-llm
 
-⭐ 59 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/quantumnic/ssd-llm) · 个人维护
+⭐ 65 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/quantumnic/ssd-llm) · 个人维护
 
 **用 SSD 扩展内存、在 Apple Silicon 上运行 70B+ LLM 的推理运行时**
 
@@ -45,13 +45,13 @@ Rust 编写的 LLM 推理运行时，面向统一内存有限的 Mac 用户：�
 
 ```mermaid
 xychart-beta
-    title "quantumnic/ssd-llm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 54 --> 60
-    line [55, 57, 58, 59, 59]
+    title "quantumnic/ssd-llm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 54 --> 66
+    line [55, 57, 58, 59, 55, 63, 64, 65, 65]
 ```
 
-2026-10-18 55 → 2026-11-02 59（+4）
+2026-10-18 55 → 2026-11-17 65（+10）
 
 
 ---

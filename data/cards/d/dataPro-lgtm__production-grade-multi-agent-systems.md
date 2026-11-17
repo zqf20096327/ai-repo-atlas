@@ -1,6 +1,6 @@
 # dataPro-lgtm/production-grade-multi-agent-systems
 
-⭐ 24 · JavaScript · CC-BY-4.0 · 推送 2026-07-28 · [GitHub](https://github.com/dataPro-lgtm/production-grade-multi-agent-systems) · [官网](https://datapro-lgtm.github.io/production-grade-multi-agent-systems/) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · CC-BY-4.0 · 推送 2026-07-28 · [GitHub](https://github.com/dataPro-lgtm/production-grade-multi-agent-systems) · [官网](https://datapro-lgtm.github.io/production-grade-multi-agent-systems/) · 个人维护 · 中文 README
 
 **面向 AI 工程师的生产级多智能体系统中文开源书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dataPro-lgtm/production-grade-multi-agent-systems 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "dataPro-lgtm/production-grade-multi-agent-systems 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

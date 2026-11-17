@@ -1,6 +1,6 @@
 # nanoAgentTeam/research-claw
 
-⭐ 137 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/nanoAgentTeam/research-claw) · 组织维护 · 中文 README
+⭐ 138 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/nanoAgentTeam/research-claw) · 组织维护 · 中文 README
 
 **自托管的科研 AI 助手：管论文、搜文献、追截止期**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nanoAgentTeam/research-claw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 135 --> 138
-    line [136, 137, 137]
+    title "nanoAgentTeam/research-claw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 135 --> 139
+    line [136, 137, 138, 138]
 ```
 
-2026-10-18 136 → 2026-11-02 137（+1）
+2026-10-18 136 → 2026-11-17 138（+2）
 
 
 ---

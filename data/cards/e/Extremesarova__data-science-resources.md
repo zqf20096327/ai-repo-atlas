@@ -1,6 +1,6 @@
 # Extremesarova/data-science-resources
 
-⭐ 170 · 推送 2026-10-25 · [GitHub](https://github.com/Extremesarova/data-science-resources) · [官网](https://t.me/data_science_weekly) · 个人维护 · 中文 README
+⭐ 171 · 推送 2026-11-08 · [GitHub](https://github.com/Extremesarova/data-science-resources) · [官网](https://t.me/data_science_weekly) · 个人维护 · 中文 README
 
 **数据科学面试与学习资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Extremesarova/data-science-resources 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 166 --> 171
-    line [167, 168, 170, 170]
+    title "Extremesarova/data-science-resources 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 166 --> 172
+    line [167, 168, 170, 168, 171, 171]
 ```
 
-2026-10-18 167 → 2026-11-02 170（+3）
+2026-10-18 167 → 2026-11-17 171（+4）
 
 
 ---

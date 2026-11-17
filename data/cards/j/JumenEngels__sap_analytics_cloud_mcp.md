@@ -1,6 +1,6 @@
 # JumenEngels/sap_analytics_cloud_mcp
 
-⭐ 17 · TypeScript · MIT · 推送 2026-03-02 · [GitHub](https://github.com/JumenEngels/sap_analytics_cloud_mcp) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-03-02 · [GitHub](https://github.com/JumenEngels/sap_analytics_cloud_mcp) · 个人维护
 
 **将 SAP Analytics Cloud REST API 封装为 MCP 工具的接入服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JumenEngels/sap_analytics_cloud_mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "JumenEngels/sap_analytics_cloud_mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 16, 19, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

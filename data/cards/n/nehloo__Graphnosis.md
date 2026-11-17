@@ -1,6 +1,6 @@
 # nehloo/Graphnosis
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/nehloo/Graphnosis) · [官网](https://graphnosis.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI harness 的多图记忆库：以双图结构替代 .md 文件与 RAG 分块**
 
@@ -11,7 +11,7 @@ TypeScript 实现的 AI 记忆层：在一组节点上同时维护有向类型�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ TypeScript 实现的 AI 记忆层：在一组节点上同时维护有向类型�
 ```mermaid
 xychart-beta
     title "nehloo/Graphnosis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

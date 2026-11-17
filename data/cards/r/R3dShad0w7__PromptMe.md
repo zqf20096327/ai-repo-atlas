@@ -1,6 +1,6 @@
 # R3dShad0w7/PromptMe
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/R3dShad0w7/PromptMe) · 个人维护
+⭐ 112 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/R3dShad0w7/PromptMe) · 个人维护
 
 **故意含漏洞的 LLM 应用：以 CTF 挑战演示 OWASP LLM Top 10**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "R3dShad0w7/PromptMe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "R3dShad0w7/PromptMe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 111 --> 114
-    line [112, 113, 113]
+    line [112, 113, 112, 113, 112, 112]
 ```
 
-2026-10-18 112 → 2026-11-02 113（+1）
+2026-10-18 112 → 2026-11-17 112（+0）
 
 
 ---

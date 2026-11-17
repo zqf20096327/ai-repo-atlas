@@ -1,6 +1,6 @@
 # linto-ai/llm-gateway
 
-⭐ 13 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/linto-ai/llm-gateway) · 组织维护
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/linto-ai/llm-gateway) · 组织维护
 
 **面向生产应用的 LLM 编排网关：分块、队列、重试与结果管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linto-ai/llm-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

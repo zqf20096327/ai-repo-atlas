@@ -1,6 +1,6 @@
 # dice-group/LOLA
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-04-08 · [GitHub](https://github.com/dice-group/LOLA) · [官网](https://huggingface.co/dice-research/lola_v1) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-04-08 · [GitHub](https://github.com/dice-group/LOLA) · [官网](https://huggingface.co/dice-research/lola_v1) · 组织维护
 
 **面向160+语言的开源多语言 MoE 大模型及其训练代码**
 
@@ -44,13 +44,13 @@ LOLA 是基于稀疏 MoE Transformer 架构、在 160 多种语言上训练的�
 
 ```mermaid
 xychart-beta
-    title "dice-group/LOLA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "dice-group/LOLA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

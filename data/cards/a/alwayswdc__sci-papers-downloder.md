@@ -1,6 +1,6 @@
 # alwayswdc/sci-papers-downloder
 
-⭐ 32 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/alwayswdc/sci-papers-downloder) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/alwayswdc/sci-papers-downloder) · 个人维护 · 中文 README
 
 **为 AI agent 提供的学术论文检索下载技能：Scopus 搜索+Unpaywall 优先下载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alwayswdc/sci-papers-downloder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "alwayswdc/sci-papers-downloder 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

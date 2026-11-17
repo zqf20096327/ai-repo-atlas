@@ -1,6 +1,6 @@
 # ArchAngelAries/TagScribeR
 
-⭐ 38 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/ArchAngelAries/TagScribeR) · 个人维护
+⭐ 38 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ArchAngelAries/TagScribeR) · 个人维护
 
 **本地 GPU 加速的 AI 图像数据集工作室：打标、清洗并训练 LoRA**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ArchAngelAries/TagScribeR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 38（+0）
 
 
 ---

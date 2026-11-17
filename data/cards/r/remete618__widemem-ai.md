@@ -1,6 +1,6 @@
 # remete618/widemem-ai
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/remete618/widemem-ai) · [官网](https://widemem.ai) · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/remete618/widemem-ai) · [官网](https://widemem.ai) · 个人维护
 
 **本地优先的 LLM 应用/agent 记忆层：抽取事实并管理长期记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "remete618/widemem-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [49, 48, 49]
+    title "remete618/widemem-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [49, 48, 49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

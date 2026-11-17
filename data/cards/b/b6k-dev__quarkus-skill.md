@@ -1,6 +1,6 @@
 # b6k-dev/quarkus-skill
 
-⭐ 14 · Shell · MIT · 推送 2026-03-24 · [GitHub](https://github.com/b6k-dev/quarkus-skill) · [官网](https://github.com/b6k-dev/quarkus-skill#readme) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-03-24 · [GitHub](https://github.com/b6k-dev/quarkus-skill) · [官网](https://github.com/b6k-dev/quarkus-skill#readme) · 个人维护
 
 **面向 AI 编程助手的 Quarkus 平台参考文档与可安装技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "b6k-dev/quarkus-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "b6k-dev/quarkus-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

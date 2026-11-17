@@ -1,6 +1,6 @@
 # XBlueSky/cortexes
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/XBlueSky/cortexes) · [官网](https://cortexes.pages.dev) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/XBlueSky/cortexes) · [官网](https://cortexes.pages.dev) · 个人维护 · 中文 README
 
 **Claude Code 个人知识库插件：会话记录、记忆蒸馏与混合检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "XBlueSky/cortexes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 24, 24]
+    title "XBlueSky/cortexes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

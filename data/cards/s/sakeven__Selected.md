@@ -1,6 +1,6 @@
 # sakeven/Selected
 
-⭐ 116 · Swift · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sakeven/Selected) · [官网](https://plus.anynotes.app/) · 个人维护 · 中文 README
+⭐ 115 · Swift · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/sakeven/Selected) · [官网](https://plus.anynotes.app/) · 个人维护 · 中文 README
 
 **macOS 划词操作菜单栏工具：搜索/翻译/朗读/AI 处理选中文本**
 
@@ -46,13 +46,13 @@ macOS 菜单栏应用，针对选中文本弹出操作栏：搜索、翻译、�
 
 ```mermaid
 xychart-beta
-    title "sakeven/Selected 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "sakeven/Selected 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 114 --> 117
-    line [115, 116, 116]
+    line [115, 116, 115, 115]
 ```
 
-2026-10-18 115 → 2026-11-02 116（+1）
+2026-10-18 115 → 2026-11-17 115（+0）
 
 
 ---

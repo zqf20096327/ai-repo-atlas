@@ -1,6 +1,6 @@
 # sshwarts/skillscript
 
-⭐ 75 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/sshwarts/skillscript) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/sshwarts/skillscript) · 个人维护
 
 **供 agent 编写可审批自动化技能的声明式 DSL 与运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sshwarts/skillscript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    title "sshwarts/skillscript 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 74 --> 77
+    line [75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

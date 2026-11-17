@@ -1,6 +1,6 @@
 # shubh72010/JusNotes
 
-⭐ 11 · Kotlin · GPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/shubh72010/JusNotes) · [官网](https://github.com/shubh72010/JusNotes) · 个人维护
+⭐ 11 · Kotlin · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/shubh72010/JusNotes) · [官网](https://github.com/shubh72010/JusNotes) · 个人维护
 
 **Android 本地优先笔记应用，含 AI 润色与空间地图**
 
@@ -45,12 +45,12 @@ Kotlin + Jetpack Compose + Material 3 构建的 Android 笔记应用，采用 MV
 ```mermaid
 xychart-beta
     title "shubh72010/JusNotes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

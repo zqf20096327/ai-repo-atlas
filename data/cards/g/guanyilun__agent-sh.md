@@ -1,6 +1,6 @@
 # guanyilun/agent-sh
 
-⭐ 68 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/guanyilun/agent-sh) · [官网](https://agent-sh.dev) · 个人维护
+⭐ 67 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/guanyilun/agent-sh) · [官网](https://agent-sh.dev) · 个人维护
 
 **可组合 agent 运行时：任意前端搭配任意 agent 后端**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "guanyilun/agent-sh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "guanyilun/agent-sh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [68, 67, 67]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 67（-1）
 
 
 ---

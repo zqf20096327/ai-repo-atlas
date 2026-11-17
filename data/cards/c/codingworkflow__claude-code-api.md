@@ -1,6 +1,6 @@
 # codingworkflow/claude-code-api
 
-⭐ 334 · Python · GPL-3.0 · 推送 2026-06-25 · [GitHub](https://github.com/codingworkflow/claude-code-api) · [官网](https://www.codingworkflow.com/) · 个人维护
+⭐ 337 · Python · GPL-3.0 · 推送 2026-06-25 · [GitHub](https://github.com/codingworkflow/claude-code-api) · [官网](https://www.codingworkflow.com/) · 个人维护
 
 **为 Claude Code CLI 提供 OpenAI 兼容接口的 API 网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "codingworkflow/claude-code-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 332 --> 335
-    line [333, 334, 334]
+    title "codingworkflow/claude-code-api 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 332 --> 338
+    line [333, 334, 335, 336, 337, 337]
 ```
 
-2026-10-18 333 → 2026-11-02 334（+1）
+2026-10-18 333 → 2026-11-17 337（+4）
 
 
 ---

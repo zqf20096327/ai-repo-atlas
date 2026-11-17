@@ -1,6 +1,6 @@
 # Kalmuraee/OpenMagic
 
-⭐ 22 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Kalmuraee/OpenMagic) · [官网](https://kalmuraee.github.io/OpenMagic/) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Kalmuraee/OpenMagic) · [官网](https://kalmuraee.github.io/OpenMagic/) · 个人维护 · 中文 README
 
 **给前端开发者的浏览器内 AI 编码工具栏：选元素、描述改动、改源码**
 
@@ -44,13 +44,13 @@ OpenMagic 通过反向代理向运行中的 Web 应用注入浮动 AI 工具栏�
 
 ```mermaid
 xychart-beta
-    title "Kalmuraee/OpenMagic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "Kalmuraee/OpenMagic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # xishanp/Linuxhub
 
-⭐ 59 · C · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/xishanp/Linuxhub) · 个人维护 · 中文 README
+⭐ 65 · C · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/xishanp/Linuxhub) · 个人维护 · 中文 README
 
 **在 Android 上运行 Ubuntu 桌面并供本机 Agent 调用的环境**
 
@@ -40,6 +40,18 @@
 > L3:  把 Android 变成一台完整的 Linux 工作站，也变成 Agent 可以直接操作的本地电脑。
 > L29: 它把原本分散的终端、Linux 桌面、图形窗口、鼠标键盘、Android 系统能力和自动化接口整合到同一个应用中。用户可以像使用普通 Linux 电脑一样操作桌面，也可以让可信 Agent 通过本机 REST API 完成连续任务
 > L53: LinuxHub 内置仅监听 `127.0.0.1` 的 Agent API。Agent 可以枚举应用和窗口、启动桌面、截图裁切、移动鼠标、输入文字、执行终端命令，并在需要时调用 Shizuku 完成 Android 系统级操作。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xishanp/Linuxhub 星数(近 6 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 58 --> 66
+    line [59, 64, 63, 64, 65, 65]
+```
+
+2026-11-02 59 → 2026-11-17 65（+6）
 
 
 ---

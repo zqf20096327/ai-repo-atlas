@@ -1,6 +1,6 @@
 # NovaSearch-Team/RAG-Retrieval
 
-⭐ 1,136 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/NovaSearch-Team/RAG-Retrieval) · 组织维护 · 中文 README
+⭐ 1,138 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/NovaSearch-Team/RAG-Retrieval) · 组织维护 · 中文 README
 
 **RAG 检索模型训练/推理/蒸馏代码库，含 reranker 轻量推理库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NovaSearch-Team/RAG-Retrieval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1135 --> 1137
-    line [1136, 1136]
+    title "NovaSearch-Team/RAG-Retrieval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1135 --> 1139
+    line [1136, 1137, 1138, 1138]
 ```
 
-2026-10-18 1,136 → 2026-11-02 1,136（+0）
+2026-10-18 1,136 → 2026-11-17 1,138（+2）
 
 
 ---

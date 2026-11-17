@@ -1,6 +1,6 @@
 # pseudo-usama/hermex
 
-⭐ 38 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/pseudo-usama/hermex) · [官网](https://hermex.usama.ai) · 个人维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/pseudo-usama/hermex) · [官网](https://hermex.usama.ai) · 个人维护
 
 **用 Python 自动化操作 ChatGPT/Gemini 免费网页版的库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pseudo-usama/hermex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "pseudo-usama/hermex 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-17"]
     y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    line [37, 38, 37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 37（+0）
 
 
 ---

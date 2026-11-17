@@ -1,6 +1,6 @@
 # pzalutski-pixel/sharplens-mcp
 
-⭐ 40 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pzalutski-pixel/sharplens-mcp) · [官网](https://www.nuget.org/packages/SharpLensMcp) · 个人维护
+⭐ 42 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pzalutski-pixel/sharplens-mcp) · [官网](https://www.nuget.org/packages/SharpLensMcp) · 个人维护
 
 **面向 AI 编程代理的 C#/.NET 语义代码分析 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pzalutski-pixel/sharplens-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 39, 40, 40]
+    title "pzalutski-pixel/sharplens-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 43
+    line [37, 38, 39, 40, 37, 41, 42, 42]
 ```
 
-2026-10-18 37 → 2026-11-02 40（+3）
+2026-10-18 37 → 2026-11-17 42（+5）
 
 
 ---

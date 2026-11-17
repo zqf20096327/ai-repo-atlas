@@ -1,6 +1,6 @@
 # hector-ai-91/video-podcast-clipper
 
-⭐ 12 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/hector-ai-91/video-podcast-clipper) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/hector-ai-91/video-podcast-clipper) · 个人维护
 
 **将长视频转为竖屏短视频的本地流水线：AI 评分选段+人脸跟踪裁剪+动画字幕**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hector-ai-91/video-podcast-clipper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "hector-ai-91/video-podcast-clipper 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

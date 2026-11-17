@@ -1,6 +1,6 @@
 # superlinear-ai/raglite
 
-⭐ 1,211 · Python · MPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/superlinear-ai/raglite) · 组织维护
+⭐ 1,212 · Python · MPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/superlinear-ai/raglite) · 组织维护
 
 **Python RAG 工具包：DuckDB/PostgreSQL 上的检索增强生成**
 
@@ -45,13 +45,13 @@ RAGLite 是一个用于检索增强生成的 Python 工具包，面向开发者�
 
 ```mermaid
 xychart-beta
-    title "superlinear-ai/raglite 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1208 --> 1212
-    line [1209, 1210, 1211, 1211]
+    title "superlinear-ai/raglite 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 1208 --> 1213
+    line [1209, 1210, 1211, 1210, 1211, 1212, 1212]
 ```
 
-2026-10-18 1,209 → 2026-11-02 1,211（+2）
+2026-10-18 1,209 → 2026-11-17 1,212（+3）
 
 
 ---

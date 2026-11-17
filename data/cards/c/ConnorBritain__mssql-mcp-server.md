@@ -1,6 +1,6 @@
 # ConnorBritain/mssql-mcp-server
 
-⭐ 36 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ConnorBritain/mssql-mcp-server) · 个人维护
+⭐ 37 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ConnorBritain/mssql-mcp-server) · 个人维护
 
 **面向 DBA 的 SQL Server MCP 服务器，20 个工具覆盖探查与管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ConnorBritain/mssql-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    title "ConnorBritain/mssql-mcp-server 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 36（+2）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

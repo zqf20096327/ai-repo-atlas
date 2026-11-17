@@ -1,6 +1,6 @@
 # pinecone-io/vercel-chatbot-template
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/pinecone-io/vercel-chatbot-template) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/pinecone-io/vercel-chatbot-template) · 组织维护
 
 **Next.js 聊天机器人示例模板，接入 OpenAI 与 Pinecone**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pinecone-io/vercel-chatbot-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jbexta/AgentPilot
 
-⭐ 571 · Python · AGPL-3.0 · 推送 2026-04-14 · [GitHub](https://github.com/jbexta/AgentPilot) · [官网](https://agentpilot.ai) · 个人维护
+⭐ 572 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/jbexta/AgentPilot) · [官网](https://agentpilot.ai) · 个人维护
 
 **桌面端 AI 工作流自动化平台：创建、组织并执行多成员 AI 工作流**
 
@@ -43,13 +43,13 @@ Agent Pilot 是一个工作流自动化系统：通过图形界面创建由 Agen
 
 ```mermaid
 xychart-beta
-    title "jbexta/AgentPilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 568 --> 572
-    line [569, 570, 571, 571]
+    title "jbexta/AgentPilot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 568 --> 573
+    line [569, 570, 571, 570, 572, 572]
 ```
 
-2026-10-18 569 → 2026-11-02 571（+2）
+2026-10-18 569 → 2026-11-17 572（+3）
 
 
 ---

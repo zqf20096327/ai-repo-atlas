@@ -1,6 +1,6 @@
 # QwenLM/Qwen-RobotManip
 
-⭐ 185 · 推送 2026-06-29 · [GitHub](https://github.com/QwenLM/Qwen-RobotManip) · 组织维护 · 中文 README
+⭐ 189 · 推送 2026-06-29 · [GitHub](https://github.com/QwenLM/Qwen-RobotManip) · 组织维护 · 中文 README
 
 **机器人操作基础模型：面向研究者的 VLA 模型技术报告仓库**
 
@@ -44,13 +44,13 @@ Qwen 团队的视觉-语言-动作（VLA）机器人操作基础模型官方仓�
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen-RobotManip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 178 --> 186
-    line [179, 182, 185, 185]
+    title "QwenLM/Qwen-RobotManip 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 178 --> 190
+    line [179, 182, 185, 182, 187, 188, 189, 189]
 ```
 
-2026-10-18 179 → 2026-11-02 185（+6）
+2026-10-18 179 → 2026-11-17 189（+10）
 
 
 ---

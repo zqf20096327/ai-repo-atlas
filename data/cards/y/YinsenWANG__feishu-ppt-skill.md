@@ -1,6 +1,6 @@
 # YinsenWANG/feishu-ppt-skill
 
-⭐ 25 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/YinsenWANG/feishu-ppt-skill) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/YinsenWANG/feishu-ppt-skill) · 个人维护 · 中文 README
 
 **AI agent 技能包：通过 51 套 XML 模板生成飞书原生幻灯片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YinsenWANG/feishu-ppt-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [26, 25, 25]
+    title "YinsenWANG/feishu-ppt-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [26, 25, 24, 24]
 ```
 
-2026-10-18 26 → 2026-11-02 25（-1）
+2026-10-18 26 → 2026-11-17 24（-2）
 
 
 ---

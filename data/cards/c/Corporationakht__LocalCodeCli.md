@@ -1,6 +1,6 @@
 # Corporationakht/LocalCodeCli
 
-⭐ 32 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Corporationakht/LocalCodeCli) · [官网](https://github.com/Corporationakht/LocalCodeCli) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Corporationakht/LocalCodeCli) · [官网](https://github.com/Corporationakht/LocalCodeCli) · 个人维护 · 中文 README
 
 **本地代理：让 Claude Code/Codex CLI 接入自选 AI 提供商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Corporationakht/LocalCodeCli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 29, 30, 31, 32]
+    title "Corporationakht/LocalCodeCli 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 35
+    line [27, 28, 29, 30, 31, 32, 29, 33, 34, 34]
 ```
 
-2026-10-18 27 → 2026-11-02 32（+5）
+2026-10-18 27 → 2026-11-17 34（+7）
 
 
 ---

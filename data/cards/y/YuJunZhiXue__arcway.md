@@ -1,6 +1,6 @@
 # YuJunZhiXue/arcway
 
-⭐ 15 · Go · 推送 2026-09-03 · [GitHub](https://github.com/YuJunZhiXue/arcway) · [官网](https://github.com/YuJunZhiXue/arcway) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管 LLM 网关：多上游聚合成 OpenAI/Claude/Gemini 兼容 API**
 
@@ -46,12 +46,12 @@ Go 后端加 Next.js 管理台的自托管 LLM 网关：把多家上游（OpenAI
 ```mermaid
 xychart-beta
     title "YuJunZhiXue/arcway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-07 15（+0）
 
 
 ---

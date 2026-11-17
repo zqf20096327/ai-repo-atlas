@@ -1,6 +1,6 @@
 # ethanolivertroy/my-agent-stuff
 
-⭐ 11 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/ethanolivertroy/my-agent-stuff) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人维护的 Pi agent 扩展与技能集合（12 扩展/17 技能）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ethanolivertroy/my-agent-stuff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

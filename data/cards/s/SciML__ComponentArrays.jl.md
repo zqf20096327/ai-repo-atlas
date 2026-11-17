@@ -1,6 +1,6 @@
 # SciML/ComponentArrays.jl
 
-⭐ 377 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SciML/ComponentArrays.jl) · [官网](https://docs.sciml.ai/ComponentArrays/stable/) · 组织维护
+⭐ 378 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SciML/ComponentArrays.jl) · [官网](https://docs.sciml.ai/ComponentArrays/stable/) · 组织维护
 
 **给 Julia 用户的嵌套命名分量数组库，用于模型组合与求解器**
 
@@ -44,13 +44,13 @@ Julia 包，核心导出 ComponentArray 类型：数组块可按命名索引访�
 
 ```mermaid
 xychart-beta
-    title "SciML/ComponentArrays.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 376 --> 378
-    line [377, 377]
+    title "SciML/ComponentArrays.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 376 --> 379
+    line [377, 378, 378]
 ```
 
-2026-10-18 377 → 2026-11-02 377（+0）
+2026-10-18 377 → 2026-11-17 378（+1）
 
 
 ---

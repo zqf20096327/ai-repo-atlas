@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ForrestKim42/llm-app-exploration 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "ForrestKim42/llm-app-exploration 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

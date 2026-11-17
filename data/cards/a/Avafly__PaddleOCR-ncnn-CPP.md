@@ -1,6 +1,6 @@
 # Avafly/PaddleOCR-ncnn-CPP
 
-⭐ 111 · C++ · MIT · 推送 2026-06-20 · [GitHub](https://github.com/Avafly/PaddleOCR-ncnn-CPP) · 个人维护
+⭐ 111 · C++ · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Avafly/PaddleOCR-ncnn-CPP) · 个人维护
 
 **C++ 实现的 PP-OCRv3-v6 OCR 推理，基于 ncnn**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Avafly/PaddleOCR-ncnn-CPP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 108 --> 112
-    line [109, 110, 111, 111]
+    title "Avafly/PaddleOCR-ncnn-CPP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 108 --> 113
+    line [109, 110, 111, 112, 111, 111]
 ```
 
-2026-10-18 109 → 2026-11-02 111（+2）
+2026-10-18 109 → 2026-11-17 111（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-HunyuanImage3
 
-⭐ 45 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-HunyuanImage3) · 个人维护
+⭐ 44 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-HunyuanImage3) · 个人维护
 
 **在 ComfyUI 中单卡 24GB 原生运行腾讯 HunyuanImage-3.0 的节点包**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点包，将腾讯 80B MoE 文生图模型 HunyuanImage-3.0�
 
 ```mermaid
 xychart-beta
-    title "PedroMarinhoDev/ComfyUI-HunyuanImage3 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-02"]
+    title "PedroMarinhoDev/ComfyUI-HunyuanImage3 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 40 --> 46
-    line [41, 42, 43, 44, 45, 45]
+    line [41, 42, 43, 44, 45, 43, 44, 44]
 ```
 
-2026-10-18 41 → 2026-11-02 45（+4）
+2026-10-18 41 → 2026-11-17 44（+3）
 
 
 ---

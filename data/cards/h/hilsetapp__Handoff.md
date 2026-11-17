@@ -1,6 +1,6 @@
 # hilsetapp/Handoff
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/hilsetapp/Handoff) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/hilsetapp/Handoff) · 组织维护
 
 **为 AI 编程代理保存与共享可移植会话上下文的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hilsetapp/Handoff 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 7 --> 13
-    line [8, 10, 11, 12, 12]
+    title "hilsetapp/Handoff 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 7 --> 15
+    line [8, 10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-26 8 → 2026-11-02 12（+4）
+2026-10-26 8 → 2026-11-17 14（+6）
 
 
 ---

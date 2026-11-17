@@ -1,6 +1,6 @@
 # dvcdsys/code-index
 
-⭐ 30 · Go · MIT · 推送 2026-10-13 · [GitHub](https://github.com/dvcdsys/code-index) · [官网](https://codeindex.app) · 组织维护
+⭐ 31 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dvcdsys/code-index) · [官网](https://codeindex.app) · 组织维护
 
 **自托管语义代码搜索平台，供开发者与 AI agent 按含义检索代码**
 
@@ -44,13 +44,13 @@ cix 是自托管的语义代码搜索平台：Go 服务器内嵌 llama.cpp sidec
 
 ```mermaid
 xychart-beta
-    title "dvcdsys/code-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "dvcdsys/code-index 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

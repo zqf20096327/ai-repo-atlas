@@ -1,6 +1,6 @@
 # modelscope/twinkle
 
-⭐ 260 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/modelscope/twinkle) · 组织维护 · 中文 README
+⭐ 266 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelscope/twinkle) · 组织维护 · 中文 README
 
 **面向开发者的轻量级 Client-Server 大模型训练框架**
 
@@ -45,13 +45,13 @@ Twinkle 是 ModelScope 开源社区维护的训练框架：将训练逻辑封装
 
 ```mermaid
 xychart-beta
-    title "modelscope/twinkle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    title "modelscope/twinkle 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 259 --> 267
+    line [260, 261, 264, 265, 266, 266]
 ```
 
-2026-10-18 260 → 2026-11-02 260（+0）
+2026-10-18 260 → 2026-11-17 266（+6）
 
 
 ---

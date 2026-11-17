@@ -1,6 +1,6 @@
 # xbrxr03/clawos
 
-⭐ 59 · Python · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xbrxr03/clawos) · [官网](https://github.com/xbrxr03/clawos) · 个人维护
+⭐ 60 · Python · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xbrxr03/clawos) · [官网](https://github.com/xbrxr03/clawos) · 个人维护
 
 **本地运行的开源个人 AI agent 系统：语音激活、多步工具执行与记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xbrxr03/clawos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 56 --> 60
-    line [57, 58, 59, 59]
+    title "xbrxr03/clawos 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 59, 58, 59, 60, 60]
 ```
 
-2026-10-18 57 → 2026-11-02 59（+2）
+2026-10-18 57 → 2026-11-17 60（+3）
 
 
 ---

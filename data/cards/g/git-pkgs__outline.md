@@ -1,6 +1,6 @@
 # git-pkgs/outline
 
-⭐ 11 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/git-pkgs/outline) · [官网](https://git-pkgs.dev) · 组织维护
+⭐ 11 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/git-pkgs/outline) · [官网](https://git-pkgs.dev) · 组织维护
 
 **把源码树压缩为结构骨架供 LLM 使用的 Go 库与 CLI**
 
@@ -45,12 +45,12 @@ Pure Go 库（无 CGo），用 gotreesitter 解析源码：剥离函数/方法�
 ```mermaid
 xychart-beta
     title "git-pkgs/outline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

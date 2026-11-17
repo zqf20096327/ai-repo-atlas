@@ -1,6 +1,6 @@
 # ErdemOzgen/RedAiRange
 
-⭐ 129 · Jupyter Notebook · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ErdemOzgen/RedAiRange) · 个人维护
+⭐ 133 · Jupyter Notebook · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ErdemOzgen/RedAiRange) · 个人维护
 
 **AI 安全红队训练与评估平台：容器化靶场测试 AI 系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErdemOzgen/RedAiRange 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 128 --> 131
-    line [130, 129]
+    title "ErdemOzgen/RedAiRange 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 128 --> 134
+    line [130, 129, 130, 131, 132, 133, 133]
 ```
 
-2026-10-18 130 → 2026-11-02 129（-1）
+2026-10-18 130 → 2026-11-17 133（+3）
 
 
 ---

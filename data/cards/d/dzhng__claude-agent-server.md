@@ -1,6 +1,6 @@
 # dzhng/claude-agent-server
 
-⭐ 587 · TypeScript · 推送 2025-12-28 · [GitHub](https://github.com/dzhng/claude-agent-server) · [官网](https://x.com/dzhng/status/1991154972558581889?s=20) · 个人维护
+⭐ 592 · TypeScript · 推送 2025-12-28 · [GitHub](https://github.com/dzhng/claude-agent-server) · [官网](https://x.com/dzhng/status/1991154972558581889?s=20) · 个人维护
 
 **封装 Claude Agent SDK 的 WebSocket 服务器，可部署到 E2B 沙箱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dzhng/claude-agent-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 584 --> 588
-    line [586, 585, 586, 587]
+    title "dzhng/claude-agent-server 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 584 --> 593
+    line [586, 585, 586, 587, 585, 590, 592, 592]
 ```
 
-2026-10-18 586 → 2026-11-02 587（+1）
+2026-10-18 586 → 2026-11-17 592（+6）
 
 
 ---

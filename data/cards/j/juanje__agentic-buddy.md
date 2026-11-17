@@ -1,6 +1,6 @@
 # juanje/agentic-buddy
 
-⭐ 13 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/juanje/agentic-buddy) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/juanje/agentic-buddy) · 个人维护
 
 **给 AI agent 用的自组织记忆系统模板，自动归档任务与知识**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "juanje/agentic-buddy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "juanje/agentic-buddy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

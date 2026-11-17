@@ -1,6 +1,6 @@
 # teocns/neocursor.nvim
 
-⭐ 77 · Lua · MIT · 推送 2026-09-02 · [GitHub](https://github.com/teocns/neocursor.nvim) · 个人维护
+⭐ 80 · Lua · MIT · 推送 2026-09-02 · [GitHub](https://github.com/teocns/neocursor.nvim) · 个人维护
 
 **Neovim 插件：复用 Cursor 账号实现 Cursor Tab 式补全**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "teocns/neocursor.nvim 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 73 --> 78
-    line [74, 75, 76, 77, 77]
+    title "teocns/neocursor.nvim 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 73 --> 81
+    line [74, 75, 76, 77, 76, 78, 79, 80, 80]
 ```
 
-2026-10-18 74 → 2026-11-02 77（+3）
+2026-10-18 74 → 2026-11-17 80（+6）
 
 
 ---

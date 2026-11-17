@@ -1,6 +1,6 @@
 # Maximilian-Winter/llama-cpp-agent
 
-⭐ 661 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/Maximilian-Winter/llama-cpp-agent) · 个人维护
+⭐ 665 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/Maximilian-Winter/llama-cpp-agent) · 个人维护
 
 **给开发者的 LLM Agent 框架：聊天、函数调用与结构化输出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Maximilian-Winter/llama-cpp-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 658 --> 662
-    line [659, 660, 661, 661]
+    title "Maximilian-Winter/llama-cpp-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 658 --> 666
+    line [659, 660, 661, 659, 663, 664, 665, 665]
 ```
 
-2026-10-18 659 → 2026-11-02 661（+2）
+2026-10-18 659 → 2026-11-17 665（+6）
 
 
 ---

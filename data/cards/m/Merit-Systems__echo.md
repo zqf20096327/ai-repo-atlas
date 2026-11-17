@@ -1,6 +1,6 @@
 # Merit-Systems/echo
 
-⭐ 547 · TypeScript · NOASSERTION · 推送 2026-06-26 · [GitHub](https://github.com/Merit-Systems/echo) · [官网](https://echo.merit.systems) · 组织维护
+⭐ 548 · TypeScript · NOASSERTION · 推送 2026-06-26 · [GitHub](https://github.com/Merit-Systems/echo) · [官网](https://echo.merit.systems) · 组织维护
 
 **让终端用户为 AI 用量付费的 SDK 基础设施，开发者抽取加成**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Merit-Systems/echo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 546 --> 548
-    line [547, 547]
+    title "Merit-Systems/echo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 546 --> 549
+    line [547, 548, 548]
 ```
 
-2026-10-18 547 → 2026-11-02 547（+0）
+2026-10-18 547 → 2026-11-17 548（+1）
 
 
 ---

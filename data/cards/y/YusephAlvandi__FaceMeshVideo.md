@@ -1,6 +1,6 @@
 # YusephAlvandi/FaceMeshVideo
 
-⭐ 15 · Python · 推送 2026-07-06 · [GitHub](https://github.com/YusephAlvandi/FaceMeshVideo) · 个人维护
+⭐ 16 · Python · 推送 2026-07-06 · [GitHub](https://github.com/YusephAlvandi/FaceMeshVideo) · 个人维护
 
 **离线视频人脸检测与 478 点面部网格标注工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "YusephAlvandi/FaceMeshVideo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "YusephAlvandi/FaceMeshVideo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

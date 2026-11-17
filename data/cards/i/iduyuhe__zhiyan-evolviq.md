@@ -1,6 +1,6 @@
 # iduyuhe/zhiyan-evolviq
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/iduyuhe/zhiyan-evolviq) · [官网](https://github.com/iduyuhe/zhiyan-evolviq) · 组织维护 · 中文 README
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/iduyuhe/zhiyan-evolviq) · [官网](https://github.com/iduyuhe/zhiyan-evolviq) · 组织维护 · 中文 README
 
 **面向电子制造与半导体的开源工业 Agent 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iduyuhe/zhiyan-evolviq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    title "iduyuhe/zhiyan-evolviq 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 11, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

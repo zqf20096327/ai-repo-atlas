@@ -1,6 +1,6 @@
 # Balanov/baiagent-director
 
-⭐ 305 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Balanov/baiagent-director) · [官网](https://baiagent.ru/free/) · 个人维护
+⭐ 116 · JavaScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Balanov/baiagent-director) · [官网](https://baiagent.ru/free/) · 个人维护
 
 **本地优先的 AI 商业顾问：调研带证据、生成可验证试点方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Balanov/baiagent-director 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 302 --> 306
-    line [303, 305]
+    title "Balanov/baiagent-director 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 98 --> 323
+    line [303, 305, 116, 116]
 ```
 
-2026-11-01 303 → 2026-11-02 305（+2）
+2026-11-01 303 → 2026-11-17 116（-187）
 
 
 ---

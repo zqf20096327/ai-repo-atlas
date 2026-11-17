@@ -1,6 +1,6 @@
 # metacore-stack/ai-driven-hub
 
-⭐ 13 · TypeScript · 推送 2025-11-13 · [GitHub](https://github.com/metacore-stack/ai-driven-hub) · [官网](https://ai-powered-analytics-dashboard-pearl.vercel.app/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 增强的分析仪表盘：统一多渠道指标并提供趋势解读**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "metacore-stack/ai-driven-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-08 13（+0）
 
 
 ---

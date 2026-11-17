@@ -1,6 +1,6 @@
 # ayoisio/genai-on-google-cloud
 
-⭐ 43 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/ayoisio/genai-on-google-cloud) · [官网](https://www.oreilly.com/library/view/genai-on-google/9798341623842/) · 组织维护
+⭐ 44 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/ayoisio/genai-on-google-cloud) · [官网](https://www.oreilly.com/library/view/genai-on-google/9798341623842/) · 组织维护
 
 **GenAI on Google Cloud 图书配套练习与项目代码库（Vertex AI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayoisio/genai-on-google-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "ayoisio/genai-on-google-cloud 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

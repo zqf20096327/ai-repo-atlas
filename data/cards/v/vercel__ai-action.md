@@ -1,6 +1,6 @@
 # vercel/ai-action
 
-⭐ 128 · JavaScript · ISC · 推送 2026-10-06 · [GitHub](https://github.com/vercel/ai-action) · 组织维护
+⭐ 136 · JavaScript · ISC · 推送 2026-10-06 · [GitHub](https://github.com/vercel/ai-action) · 组织维护
 
 **在 GitHub Actions 工作流中调用 AI 模型的 Action**
 
@@ -44,13 +44,13 @@ Vercel 维护的 GitHub Action，通过 AI SDK 向 AI Gateway 发送请求：输
 
 ```mermaid
 xychart-beta
-    title "vercel/ai-action 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 123 --> 129
-    line [124, 125, 126, 127, 128, 128]
+    title "vercel/ai-action 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 123 --> 137
+    line [124, 125, 126, 127, 128, 125, 133, 134, 135, 136, 136]
 ```
 
-2026-10-18 124 → 2026-11-02 128（+4）
+2026-10-18 124 → 2026-11-17 136（+12）
 
 
 ---

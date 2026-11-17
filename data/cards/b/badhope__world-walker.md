@@ -1,6 +1,6 @@
 # badhope/world-walker
 
-⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/badhope/world-walker) · [官网](https://badhope.github.io/world-walker/) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/badhope/world-walker) · [官网](https://badhope.github.io/world-walker/) · 个人维护 · 中文 README
 
 **给 AI Agent 调用的确定性文字互动游戏规则内核（MCP+CLI+只读面板）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "badhope/world-walker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 18, 18]
+    title "badhope/world-walker 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 18, 16, 18, 19, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 18（+3）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

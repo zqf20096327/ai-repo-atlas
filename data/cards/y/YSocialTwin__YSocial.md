@@ -1,6 +1,6 @@
 # YSocialTwin/YSocial
 
-⭐ 36 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/YSocialTwin/YSocial) · [官网](https://y-not.social) · 组织维护
+⭐ 37 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/YSocialTwin/YSocial) · [官网](https://y-not.social) · 组织维护
 
 **面向计算社会科学的社交媒体数字孪生仿真平台（LLM 驱动）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YSocialTwin/YSocial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36]
+    title "YSocialTwin/YSocial 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 34, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 36（+2）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

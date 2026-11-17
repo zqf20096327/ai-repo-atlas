@@ -1,6 +1,6 @@
 # future-agi/agent-command-center-sdk
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/future-agi/agent-command-center-sdk) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/future-agi/agent-command-center-sdk) · 组织维护
 
 **Agent Command Center 网关的 Python/TypeScript 客户端 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "future-agi/agent-command-center-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

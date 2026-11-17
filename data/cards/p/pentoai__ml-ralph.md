@@ -1,6 +1,6 @@
 # pentoai/ml-ralph
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pentoai/ml-ralph) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/pentoai/ml-ralph) · 组织维护
 
 **基于 Claude Code 的自主 ML 实验代理，带终端界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pentoai/ml-ralph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "pentoai/ml-ralph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

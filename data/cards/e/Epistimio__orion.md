@@ -1,6 +1,6 @@
 # Epistimio/orion
 
-⭐ 304 · Python · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/Epistimio/orion) · [官网](https://orion.readthedocs.io) · 组织维护
+⭐ 305 · Python · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/Epistimio/orion) · [官网](https://orion.readthedocs.io) · 组织维护
 
 **异步分布式超参数优化框架，供科研调优模型**
 
@@ -44,13 +44,13 @@ Oríon 是面向黑盒函数优化的异步框架，定位为机器学习模型�
 
 ```mermaid
 xychart-beta
-    title "Epistimio/orion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 303 --> 305
-    line [304, 304]
+    title "Epistimio/orion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 303 --> 306
+    line [304, 305, 305]
 ```
 
-2026-10-18 304 → 2026-11-02 304（+0）
+2026-10-18 304 → 2026-11-17 305（+1）
 
 
 ---

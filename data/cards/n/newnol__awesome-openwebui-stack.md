@@ -1,6 +1,6 @@
 # newnol/awesome-openwebui-stack
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/newnol/awesome-openwebui-stack) · [官网](https://newnol.github.io/awesome-openwebui-stack/#/) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/newnol/awesome-openwebui-stack) · [官网](https://newnol.github.io/awesome-openwebui-stack/#/) · 个人维护
 
 **Open WebUI 生态工具与集成栈的策展目录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "newnol/awesome-openwebui-stack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "newnol/awesome-openwebui-stack 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

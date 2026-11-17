@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-Influencer-Generator
 
-⭐ 338 · Jupyter Notebook · MIT · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/AI-Influencer-Generator) · [官网](https://vadoo.tv/ai-influencer-generator) · 个人维护
+⭐ 348 · Jupyter Notebook · MIT · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/AI-Influencer-Generator) · [官网](https://vadoo.tv/ai-influencer-generator) · 个人维护
 
 **生成虚拟 AI 网红内容：人物图像、语音、口型视频**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/AI-Influencer-Generator 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 329 --> 339
-    line [330, 331, 332, 334, 335, 336, 337, 338, 338]
+    title "SamurAIGPT/AI-Influencer-Generator 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 329 --> 349
+    line [330, 331, 332, 334, 335, 336, 337, 338, 335, 342, 343, 344, 345, 347, 348, 348]
 ```
 
-2026-10-18 330 → 2026-11-02 338（+8）
+2026-10-18 330 → 2026-11-17 348（+18）
 
 
 ---

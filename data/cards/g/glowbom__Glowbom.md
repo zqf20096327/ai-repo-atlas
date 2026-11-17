@@ -1,6 +1,6 @@
 # glowbom/Glowbom
 
-⭐ 45 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/glowbom/Glowbom) · [官网](https://glowbom.com/) · 组织维护
+⭐ 44 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/glowbom/Glowbom) · [官网](https://glowbom.com/) · 组织维护
 
 **把想法变成软件的 no-code 平台，配 AI 编码 agent 与多端应用**
 
@@ -45,13 +45,13 @@ Glowbom Labs 的公开仓库，覆盖 Mobile（iPhone/iPad/Vision Pro，经 Test
 
 ```mermaid
 xychart-beta
-    title "glowbom/Glowbom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "glowbom/Glowbom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 44（-1）
 
 
 ---

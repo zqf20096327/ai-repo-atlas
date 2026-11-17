@@ -1,6 +1,6 @@
 # surmon-china/surmon.me.ai
 
-⭐ 22 · TypeScript · MIT · 推送 2026-03-22 · [GitHub](https://github.com/surmon-china/surmon.me.ai) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-03-22 · [GitHub](https://github.com/surmon-china/surmon.me.ai) · 个人维护 · 中文 README
 
 **surmon.me 博客生态的 AI Agent 对话服务**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "surmon-china/surmon.me.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "surmon-china/surmon.me.ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # FlyingFathead/TelegramBot-OpenAI-API
 
-⭐ 40 · Python · 推送 2026-10-21 · [GitHub](https://github.com/FlyingFathead/TelegramBot-OpenAI-API) · [官网](https://github.com/FlyingFathead/TelegramBot-OpenAI-API) · 个人维护
+⭐ 40 · Python · 推送 2026-11-04 · [GitHub](https://github.com/FlyingFathead/TelegramBot-OpenAI-API) · [官网](https://github.com/FlyingFathead/TelegramBot-OpenAI-API) · 个人维护
 
 **接入 OpenAI/Perplexity API 的多功能 Telegram 聊天机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FlyingFathead/TelegramBot-OpenAI-API 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

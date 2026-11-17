@@ -1,6 +1,6 @@
 # fetchai/deprecated-docs
 
-⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/fetchai/deprecated-docs) · [官网](https://www.fetch.ai/docs) · 组织维护
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/fetchai/deprecated-docs) · [官网](https://www.fetch.ai/docs) · 组织维护
 
 **Fetch.ai 官方文档站点的代码仓库（AI Agent、AI Engine、Fetch Network 等）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fetchai/deprecated-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

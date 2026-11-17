@@ -1,6 +1,6 @@
 # iloveitaly/llm-ide-rules
 
-⭐ 13 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/iloveitaly/llm-ide-rules) · [官网](https://github.com/iloveitaly/llm_ide_rules) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/iloveitaly/llm-ide-rules) · [官网](https://github.com/iloveitaly/llm_ide_rules) · 个人维护
 
 **跨 IDE 的 LLM 指令规则下载与格式转换 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iloveitaly/llm-ide-rules 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

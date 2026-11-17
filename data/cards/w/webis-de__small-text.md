@@ -1,6 +1,6 @@
 # webis-de/small-text
 
-⭐ 646 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/webis-de/small-text) · [官网](https://small-text.readthedocs.io/) · 组织维护
+⭐ 646 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/webis-de/small-text) · [官网](https://small-text.readthedocs.io/) · 组织维护
 
 **文本分类的主动学习 Python 库：高效标注少量数据训练模型**
 
@@ -46,12 +46,12 @@ small-text 提供文本分类场景下的主动学习框架：内置 19 种查�
 ```mermaid
 xychart-beta
     title "webis-de/small-text 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 645 --> 648
     line [647, 646, 646]
 ```
 
-2026-10-18 647 → 2026-11-02 646（-1）
+2026-10-18 647 → 2026-11-17 646（-1）
 
 
 ---

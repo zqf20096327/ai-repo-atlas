@@ -1,6 +1,6 @@
 # djnightmare9909/Dungeon-master-OS-WFGY
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/djnightmare9909/Dungeon-master-OS-WFGY) · [官网](https://dmos-one.vercel.app) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/djnightmare9909/Dungeon-master-OS-WFGY) · [官网](https://dmos-one.vercel.app) · 个人维护
 
 **面向单人游玩的 AI 地下城主：长篇 D&D 战役模拟**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "djnightmare9909/Dungeon-master-OS-WFGY 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "djnightmare9909/Dungeon-master-OS-WFGY 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

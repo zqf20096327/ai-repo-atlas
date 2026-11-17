@@ -1,6 +1,6 @@
 # FareedKhan-dev/long-running-agent
 
-⭐ 50 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/FareedKhan-dev/long-running-agent) · [官网](https://medium.com/@fareedkhandev/building-a-week-long-running-agentic-system-2ad79f8190bb) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/FareedKhan-dev/long-running-agent) · [官网](https://medium.com/@fareedkhandev/building-a-week-long-running-agentic-system-2ad79f8190bb) · 个人维护
 
 **可运行数周的长时程 agent 框架：持久执行+确定性验证**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/long-running-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "FareedKhan-dev/long-running-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

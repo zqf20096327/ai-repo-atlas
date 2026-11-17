@@ -1,6 +1,6 @@
 # riponcm/Jharu
 
-⭐ 80 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/riponcm/Jharu) · [官网](https://jharu.matily.org) · 个人维护
+⭐ 83 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/riponcm/Jharu) · [官网](https://jharu.matily.org) · 个人维护
 
 **面向开发者的开源磁盘清理与空间分析桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "riponcm/Jharu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    title "riponcm/Jharu 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 78 --> 85
+    line [79, 80, 79, 82, 83, 84, 83, 83]
 ```
 
-2026-10-18 79 → 2026-11-02 80（+1）
+2026-10-18 79 → 2026-11-17 83（+4）
 
 
 ---

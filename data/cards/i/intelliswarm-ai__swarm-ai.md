@@ -1,6 +1,6 @@
 # intelliswarm-ai/swarm-ai
 
-⭐ 20 · Java · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/intelliswarm-ai/swarm-ai) · [官网](https://www.intelliswarm.ai) · 组织维护
+⭐ 21 · Java · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/intelliswarm-ai/swarm-ai) · [官网](https://www.intelliswarm.ai) · 组织维护
 
 **面向企业 Java 团队的多智能体编排框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "intelliswarm-ai/swarm-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "intelliswarm-ai/swarm-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

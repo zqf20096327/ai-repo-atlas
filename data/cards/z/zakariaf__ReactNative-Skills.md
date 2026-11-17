@@ -1,6 +1,6 @@
 # zakariaf/ReactNative-Skills
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zakariaf/ReactNative-Skills) · [官网](https://zakaria.dev/ReactNative-Skills/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zakariaf/ReactNative-Skills) · [官网](https://zakaria.dev/ReactNative-Skills/) · 个人维护
 
 **面向 AI 编程 agent 的 React Native/Expo 工程技能库（79 个自带校验器）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zakariaf/ReactNative-Skills 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "zakariaf/ReactNative-Skills 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-19 10 → 2026-11-02 12（+2）
+2026-10-19 10 → 2026-11-17 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # deeflect/dory
 
-⭐ 13 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/deeflect/dory) · [官网](https://dory.deeflect.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向多 AI agent 的本地优先共享记忆守护进程**
 
@@ -11,7 +11,7 @@ Dory 是一个本地优先的记忆守护进程（daemon），为 Claude、Codex
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Dory 是一个本地优先的记忆守护进程（daemon），为 Claude、Codex
 ```mermaid
 xychart-beta
     title "deeflect/dory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-08 13（+0）
 
 
 ---

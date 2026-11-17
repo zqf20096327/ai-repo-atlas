@@ -1,6 +1,6 @@
 # aaronkao/awesome-pinecone
 
-⭐ 15 · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/aaronkao/awesome-pinecone) · 个人维护
+⭐ 17 · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/aaronkao/awesome-pinecone) · 个人维护
 
 **Pinecone 资源策展清单：SDK、工具与应用聚合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaronkao/awesome-pinecone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "aaronkao/awesome-pinecone 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

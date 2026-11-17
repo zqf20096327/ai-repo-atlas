@@ -1,6 +1,6 @@
 # hhh2210/echoes-as-anchors
 
-⭐ 45 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hhh2210/echoes-as-anchors) · [官网](https://hhh2210.github.io/projects/echoes-as-anchors/) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hhh2210/echoes-as-anchors) · [官网](https://hhh2210.github.io/projects/echoes-as-anchors/) · 个人维护
 
 **ICLR 2026 论文代码：研究 LLM 推理中 Echo of Prompt 的作用机制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hhh2210/echoes-as-anchors 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "hhh2210/echoes-as-anchors 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    line [44, 45, 44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 45（+1）
+2026-10-18 44 → 2026-11-17 44（+0）
 
 
 ---

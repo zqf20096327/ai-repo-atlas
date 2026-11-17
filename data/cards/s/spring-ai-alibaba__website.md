@@ -1,6 +1,6 @@
 # spring-ai-alibaba/website
 
-⭐ 69 · CSS · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/spring-ai-alibaba/website) · [官网](https://java2ai.com) · 组织维护 · 中文 README
+⭐ 70 · CSS · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/spring-ai-alibaba/website) · [官网](https://java2ai.com) · 组织维护 · 中文 README
 
 **Spring AI Alibaba 官方文档站源码（Docusaurus）**
 
@@ -43,13 +43,13 @@ Spring AI Alibaba 项目官方文档网站的源码仓库，基于 Docusaurus �
 
 ```mermaid
 xychart-beta
-    title "spring-ai-alibaba/website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "spring-ai-alibaba/website 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 70（+1）
 
 
 ---

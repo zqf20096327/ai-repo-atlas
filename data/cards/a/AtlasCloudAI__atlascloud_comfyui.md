@@ -1,6 +1,6 @@
 # AtlasCloudAI/atlascloud_comfyui
 
-⭐ 31 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/AtlasCloudAI/atlascloud_comfyui) · [官网](https://www.atlascloud.ai) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/AtlasCloudAI/atlascloud_comfyui) · [官网](https://www.atlascloud.ai) · 组织维护
 
 **ComfyUI 节点包：经 Atlas Cloud API 调用 300+ 图像/视频模型**
 
@@ -45,13 +45,13 @@ Atlas Cloud 官方维护的 ComfyUI 自定义节点包：通过 AtlasCloud Clien
 
 ```mermaid
 xychart-beta
-    title "AtlasCloudAI/atlascloud_comfyui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "AtlasCloudAI/atlascloud_comfyui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

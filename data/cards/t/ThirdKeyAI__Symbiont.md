@@ -1,6 +1,6 @@
 # ThirdKeyAI/Symbiont
 
-⭐ 57 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ThirdKeyAI/Symbiont) · [官网](https://docs.symbiont.dev) · 组织维护 · 中文 README
+⭐ 58 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ThirdKeyAI/Symbiont) · [官网](https://docs.symbiont.dev) · 组织维护 · 中文 README
 
 **面向生产环境的策略治理型 AI agent 运行时（Rust）**
 
@@ -46,13 +46,13 @@ Rust 编写的 AI agent 与工具执行运行时，核心是把 agent 意图与�
 
 ```mermaid
 xychart-beta
-    title "ThirdKeyAI/Symbiont 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    title "ThirdKeyAI/Symbiont 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 56, 58, 58]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 58（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sinapsis-AI/sinapsis-chatbots
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/Sinapsis-AI/sinapsis-chatbots) · [官网](https://sinapsis.tech/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的 Sinapsis 聊天机器人模板 monorepo，覆盖多种 LLM 后端**
 
@@ -11,7 +11,7 @@ Sinapsis Chatbots 是一个 monorepo，汇集多个聊天机器人工作区包�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Sinapsis Chatbots 是一个 monorepo，汇集多个聊天机器人工作区包�
 ```mermaid
 xychart-beta
     title "Sinapsis-AI/sinapsis-chatbots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-13 25（+0）
 
 
 ---

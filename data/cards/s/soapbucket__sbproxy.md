@@ -1,6 +1,6 @@
 # soapbucket/sbproxy
 
-⭐ 53 · Rust · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/soapbucket/sbproxy) · [官网](https://sbproxy.dev) · 组织维护
+⭐ 54 · Rust · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/soapbucket/sbproxy) · [官网](https://sbproxy.dev) · 组织维护
 
 **单二进制企业 AI 网关：统一管控 API、模型与 MCP 流量**
 
@@ -45,13 +45,13 @@ Rust 编写的单一二进制网关，将 HTTP API、AI 模型调用（70 个原
 
 ```mermaid
 xychart-beta
-    title "soapbucket/sbproxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "soapbucket/sbproxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

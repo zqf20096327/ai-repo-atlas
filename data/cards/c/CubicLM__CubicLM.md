@@ -1,6 +1,6 @@
 # CubicLM/CubicLM
 
-⭐ 21 · C++ · MIT · 推送 2026-10-17 · [GitHub](https://github.com/CubicLM/CubicLM) · [官网](https://cubiclm.vercel.app) · 组织维护
+⭐ 22 · C++ · MIT · 推送 2026-10-17 · [GitHub](https://github.com/CubicLM/CubicLM) · [官网](https://cubiclm.vercel.app) · 组织维护
 
 **跨平台本地 AI 聊天应用：Android/Windows 端侧推理+多云接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CubicLM/CubicLM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "CubicLM/CubicLM 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 19, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

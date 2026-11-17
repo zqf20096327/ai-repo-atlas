@@ -1,6 +1,6 @@
 # lxriscute0501/SUSTech-Notes-of-CS
 
-⭐ 15 · Jupyter Notebook · 推送 2026-06-19 · [GitHub](https://github.com/lxriscute0501/SUSTech-Notes-of-CS) · 个人维护 · 中文 README
+⭐ 16 · Jupyter Notebook · 推送 2026-06-19 · [GitHub](https://github.com/lxriscute0501/SUSTech-Notes-of-CS) · 个人维护 · 中文 README
 
 **南科大计算机系本科课程学习资料合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lxriscute0501/SUSTech-Notes-of-CS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "lxriscute0501/SUSTech-Notes-of-CS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

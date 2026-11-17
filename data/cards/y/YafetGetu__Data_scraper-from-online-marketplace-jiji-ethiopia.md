@@ -1,6 +1,6 @@
 # YafetGetu/Data_scraper-from-online-marketplace-jiji-ethiopia
 
-⭐ 14 · Python · 推送 2026-08-28 · [GitHub](https://github.com/YafetGetu/Data_scraper-from-online-marketplace-jiji-ethiopia) · 个人维护
+⭐ 15 · Python · 推送 2026-08-28 · [GitHub](https://github.com/YafetGetu/Data_scraper-from-online-marketplace-jiji-ethiopia) · 个人维护
 
 **从 Jiji 埃塞俄比亚集市抓取商品列表的爬虫工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "YafetGetu/Data_scraper-from-online-marketplace-jiji-ethiopia 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "YafetGetu/Data_scraper-from-online-marketplace-jiji-ethiopia 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-22 14 → 2026-11-02 14（+0）
+2026-10-22 14 → 2026-11-17 15（+1）
 
 
 ---

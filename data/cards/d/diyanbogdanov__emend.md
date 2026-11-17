@@ -1,6 +1,6 @@
 # diyanbogdanov/emend
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/diyanbogdanov/emend) · [官网](https://www.npmjs.com/package/emend-cli) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/diyanbogdanov/emend) · [官网](https://www.npmjs.com/package/emend-cli) · 个人维护
 
 **AI 辅助的依赖升级迁移 CLI：定位破坏点、修复并验证编译测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diyanbogdanov/emend 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
+    title "diyanbogdanov/emend 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
     y-axis "stars" 50 --> 59
-    line [56, 58, 51, 52, 52]
+    line [56, 58, 51, 52, 51, 52, 54, 55, 56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 52（-4）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

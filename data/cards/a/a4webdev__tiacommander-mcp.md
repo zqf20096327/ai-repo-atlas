@@ -1,6 +1,6 @@
 # a4webdev/tiacommander-mcp
 
-⭐ 53 · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/a4webdev/tiacommander-mcp) · [官网](https://tiacommander.com/) · 组织维护
+⭐ 64 · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/a4webdev/tiacommander-mcp) · [官网](https://tiacommander.com/) · 组织维护
 
 **连接 MCP AI 助手与西门子 TIA Portal 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "a4webdev/tiacommander-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 47 --> 54
-    line [48, 49, 50, 51, 52, 53, 53]
+    title "a4webdev/tiacommander-mcp 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 47 --> 65
+    line [48, 49, 50, 51, 52, 53, 50, 58, 60, 61, 62, 63, 64, 64]
 ```
 
-2026-10-18 48 → 2026-11-02 53（+5）
+2026-10-18 48 → 2026-11-17 64（+16）
 
 
 ---

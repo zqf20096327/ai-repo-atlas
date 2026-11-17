@@ -1,6 +1,6 @@
 # AvantMaker/ESP32_AI_Connect
 
-⭐ 42 · C++ · MIT · 推送 2025-12-15 · [GitHub](https://github.com/AvantMaker/ESP32_AI_Connect) · [官网](https://www.AvantMaker.com) · 组织维护
+⭐ 44 · C++ · MIT · 推送 2025-12-15 · [GitHub](https://github.com/AvantMaker/ESP32_AI_Connect) · [官网](https://www.AvantMaker.com) · 组织维护
 
 **让 ESP32 微控制器统一接入多家 AI API 的 Arduino 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AvantMaker/ESP32_AI_Connect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 43
-    line [41, 42]
+    title "AvantMaker/ESP32_AI_Connect 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 41, 44, 44]
 ```
 
-2026-10-18 41 → 2026-11-02 42（+1）
+2026-10-18 41 → 2026-11-17 44（+3）
 
 
 ---

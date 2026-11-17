@@ -1,6 +1,6 @@
 # outerbounds/metaflow-tools
 
-⭐ 68 · HCL · 推送 2025-11-12 · [GitHub](https://github.com/outerbounds/metaflow-tools) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **OSS Metaflow 生产部署运维工具集：AWS/Azure/K8s 配置模板**
 
@@ -45,12 +45,12 @@ Outerbounds 维护的开源 Metaflow（OSS）部署与运维工具仓库：提�
 ```mermaid
 xychart-beta
     title "outerbounds/metaflow-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-07 68（+0）
 
 
 ---

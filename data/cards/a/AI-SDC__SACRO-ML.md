@@ -1,6 +1,6 @@
 # AI-SDC/SACRO-ML
 
-⭐ 44 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AI-SDC/SACRO-ML) · [官网](https://ai-sdc.github.io/SACRO-ML/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/AI-SDC/SACRO-ML) · [官网](https://ai-sdc.github.io/SACRO-ML/) · 组织维护
 
 **评估已训练 ML 模型披露风险的统计披露控制工具集**
 
@@ -45,13 +45,13 @@ sacroml 包提供两套机制：safemodel 扩展常用 ML 模型，在训练前�
 
 ```mermaid
 xychart-beta
-    title "AI-SDC/SACRO-ML 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "AI-SDC/SACRO-ML 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    line [42, 43, 44, 42, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

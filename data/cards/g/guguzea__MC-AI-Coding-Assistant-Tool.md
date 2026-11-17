@@ -1,6 +1,6 @@
 # guguzea/MC-AI-Coding-Assistant-Tool
 
-⭐ 76 · HTML · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/guguzea/MC-AI-Coding-Assistant-Tool) · 个人维护 · 中文 README
+⭐ 140 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/guguzea/MC-AI-Coding-Assistant-Tool) · 个人维护 · 中文 README
 
 **为 AI 编程助手提供 Minecraft 模组开发全流程知识库与 MCP 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guguzea/MC-AI-Coding-Assistant-Tool 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 14 --> 81
-    line [19, 20, 26, 42, 57, 76]
+    title "guguzea/MC-AI-Coding-Assistant-Tool 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 7 --> 152
+    line [19, 20, 26, 42, 57, 76, 20, 135, 136, 138, 139, 140, 140]
 ```
 
-2026-10-18 19 → 2026-11-02 76（+57）
+2026-10-18 19 → 2026-11-17 140（+121）
 
 
 ---

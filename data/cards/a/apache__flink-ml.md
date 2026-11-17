@@ -1,6 +1,6 @@
 # apache/flink-ml
 
-⭐ 333 · Java · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/apache/flink-ml) · [官网](https://flink.apache.org/) · 组织维护
+⭐ 334 · Java · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/apache/flink-ml) · [官网](https://flink.apache.org/) · 组织维护
 
 **Apache Flink 的机器学习库：提供构建 ML 流水线的 API 与基础设施**
 
@@ -44,13 +44,13 @@ Apache Flink 旗下的机器学习库，提供标准 ML API 与基础设施，�
 
 ```mermaid
 xychart-beta
-    title "apache/flink-ml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 331 --> 334
-    line [332, 333, 333]
+    title "apache/flink-ml 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 331 --> 335
+    line [332, 333, 334, 334]
 ```
 
-2026-10-18 332 → 2026-11-02 333（+1）
+2026-10-18 332 → 2026-11-17 334（+2）
 
 
 ---

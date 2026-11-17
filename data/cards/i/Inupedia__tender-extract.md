@@ -1,6 +1,6 @@
 # Inupedia/tender-extract
 
-⭐ 20 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Inupedia/tender-extract) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Inupedia/tender-extract) · 组织维护 · 中文 README
 
 **中文招投标文档结构化抽取工具：规则/NER 优先，LLM 可选复核**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Inupedia/tender-extract 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "Inupedia/tender-extract 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # cmb211087/azure-diagrams-skill
 
-⭐ 153 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/cmb211087/azure-diagrams-skill) · [官网](https://www.linkedin.com/in/carl-brindle-88623764/) · 个人维护
+⭐ 154 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/cmb211087/azure-diagrams-skill) · [官网](https://www.linkedin.com/in/carl-brindle-88623764/) · 个人维护
 
 **面向编码 agent 的 Azure/技术图表生成技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cmb211087/azure-diagrams-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 150 --> 154
-    line [151, 152, 153, 153]
+    title "cmb211087/azure-diagrams-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 150 --> 155
+    line [151, 152, 153, 154, 154]
 ```
 
-2026-10-18 151 → 2026-11-02 153（+2）
+2026-10-18 151 → 2026-11-17 154（+3）
 
 
 ---

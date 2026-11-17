@@ -1,6 +1,6 @@
 # Arthur-Ficial/apfel-quick
 
-⭐ 29 · Swift · MIT · 推送 2026-06-14 · [GitHub](https://github.com/Arthur-Ficial/apfel-quick) · [官网](https://apfel-quick.franzai.com) · 个人维护
+⭐ 31 · Swift · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Arthur-Ficial/apfel-quick) · [官网](https://apfel-quick.franzai.com) · 个人维护
 
 **macOS 本地 AI 快捷浮窗：热键唤起提问，结果进剪贴板**
 
@@ -45,13 +45,13 @@ Spotlight 风格的 macOS 浮窗应用，面向终端用户：全局热键唤起
 
 ```mermaid
 xychart-beta
-    title "Arthur-Ficial/apfel-quick 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    title "Arthur-Ficial/apfel-quick 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 26 --> 32
+    line [27, 28, 29, 30, 31, 31]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 31（+4）
 
 
 ---

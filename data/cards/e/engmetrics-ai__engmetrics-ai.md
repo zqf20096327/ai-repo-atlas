@@ -1,6 +1,6 @@
 # engmetrics-ai/engmetrics-ai
 
-⭐ 11 · HTML · MIT · 推送 2026-06-16 · [GitHub](https://github.com/engmetrics-ai/engmetrics-ai) · 组织维护
+⭐ 10 · HTML · MIT · 推送 2026-06-16 · [GitHub](https://github.com/engmetrics-ai/engmetrics-ai) · 组织维护
 
 **把 Jira、GitHub 与 AI 用量数据聚合为交付度量看板的 CLI**
 
@@ -46,13 +46,13 @@ Python 3.12+ 的实验性开源 CLI：读取 Jira epic/故事/自定义字段（
 
 ```mermaid
 xychart-beta
-    title "engmetrics-ai/engmetrics-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "engmetrics-ai/engmetrics-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

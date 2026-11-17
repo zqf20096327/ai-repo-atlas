@@ -1,6 +1,6 @@
 # apache/doris-mcp-server
 
-⭐ 356 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/apache/doris-mcp-server) · [官网](https://doris.apache.org) · 组织维护
+⭐ 359 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/apache/doris-mcp-server) · [官网](https://doris.apache.org) · 组织维护
 
 **向 AI agent 只读暴露 Apache Doris 能力的 MCP 服务器**
 
@@ -44,13 +44,13 @@ Apache Doris 官方的 MCP Server，通过 stdio 或 Streamable HTTP 向 MCP Hos
 
 ```mermaid
 xychart-beta
-    title "apache/doris-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 350 --> 357
-    line [351, 352, 353, 354, 356, 356]
+    title "apache/doris-mcp-server 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 350 --> 360
+    line [351, 352, 353, 354, 356, 353, 357, 358, 359, 359]
 ```
 
-2026-10-18 351 → 2026-11-02 356（+5）
+2026-10-18 351 → 2026-11-17 359（+8）
 
 
 ---

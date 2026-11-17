@@ -1,6 +1,6 @@
 # zlatko-minev/zlatko-minev-quantum-repository
 
-⭐ 116 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/zlatko-minev/zlatko-minev-quantum-repository) · [官网](https://zlatko-minev.github.io/zlatko-minev-quantum-repository/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人量子计算研究讲稿与教程归档库（2011 至今）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zlatko-minev/zlatko-minev-quantum-repository 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 103 --> 117
-    line [104, 105, 107, 112, 113, 114, 115, 116]
+    title "zlatko-minev/zlatko-minev-quantum-repository 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15"]
+    y-axis "stars" 103 --> 118
+    line [104, 105, 107, 112, 113, 114, 115, 116, 113, 116, 117, 117]
 ```
 
-2026-10-18 104 → 2026-11-02 116（+12）
+2026-10-18 104 → 2026-11-15 117（+13）
 
 
 ---

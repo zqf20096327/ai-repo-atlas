@@ -1,6 +1,6 @@
 # 24kchengYe/desktop-controller-skill
 
-⭐ 12 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/24kchengYe/desktop-controller-skill) · [官网](https://github.com/24kchengYe/desktop-controller-skill#readme) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/24kchengYe/desktop-controller-skill) · [官网](https://github.com/24kchengYe/desktop-controller-skill#readme) · 个人维护 · 中文 README
 
 **让 Claude Code 控制 Windows 桌面与网页应用的 AI 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "24kchengYe/desktop-controller-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "24kchengYe/desktop-controller-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

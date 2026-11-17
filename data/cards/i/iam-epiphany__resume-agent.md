@@ -1,6 +1,6 @@
 # iam-epiphany/resume-agent
 
-⭐ 32 · Python · 推送 2026-08-16 · [GitHub](https://github.com/iam-epiphany/resume-agent) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-08-16 · [GitHub](https://github.com/iam-epiphany/resume-agent) · 个人维护 · 中文 README
 
 **个人简历 RAG 问答系统：面试官对话式追问简历内容**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iam-epiphany/resume-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
+    title "iam-epiphany/resume-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 28 --> 33
-    line [29, 30, 31, 32, 32]
+    line [29, 30, 31, 32, 31, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 32（+3）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

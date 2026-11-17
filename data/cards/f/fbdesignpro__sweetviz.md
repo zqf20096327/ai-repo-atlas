@@ -1,6 +1,6 @@
 # fbdesignpro/sweetviz
 
-⭐ 3,131 · Python · MIT · 推送 2026-04-11 · [GitHub](https://github.com/fbdesignpro/sweetviz) · 个人维护
+⭐ 3,133 · Python · MIT · 推送 2026-04-11 · [GitHub](https://github.com/fbdesignpro/sweetviz) · 个人维护
 
 **两行代码生成 EDA 可视化报告的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fbdesignpro/sweetviz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 3129 --> 3132
-    line [3130, 3131, 3131]
+    title "fbdesignpro/sweetviz 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 3129 --> 3135
+    line [3130, 3131, 3133, 3134, 3133, 3133]
 ```
 
-2026-10-18 3,130 → 2026-11-02 3,131（+1）
+2026-10-18 3,130 → 2026-11-17 3,133（+3）
 
 
 ---

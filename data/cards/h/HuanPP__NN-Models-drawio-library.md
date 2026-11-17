@@ -1,6 +1,6 @@
 # HuanPP/NN-Models-drawio-library
 
-⭐ 46 · MIT · 推送 2026-02-23 · [GitHub](https://github.com/HuanPP/NN-Models-drawio-library) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/HuanPP/NN-Models-drawio-library) · 个人维护
 
 **给论文作者的 37 个 draw.io 神经网络架构模板库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HuanPP/NN-Models-drawio-library 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 41 --> 47
-    line [42, 43, 44, 45, 46, 46]
+    title "HuanPP/NN-Models-drawio-library 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 52
+    line [42, 43, 44, 45, 46, 43, 48, 50, 51, 51]
 ```
 
-2026-10-18 42 → 2026-11-02 46（+4）
+2026-10-18 42 → 2026-11-17 51（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Corebrum/corebrum-synapse
 
-⭐ 179 · C · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Corebrum/corebrum-synapse) · [官网](https://agenticros.com) · 组织维护
+⭐ 180 · C · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Corebrum/corebrum-synapse) · [官网](https://corebrum.com/synapse) · 组织维护
 
 **把 ROS 2 机器人接入各类 AI agent 的接口层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Corebrum/corebrum-synapse 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    title "Corebrum/corebrum-synapse 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 178 --> 181
+    line [179, 180, 180]
 ```
 
-2026-11-01 179 → 2026-11-02 179（+0）
+2026-11-01 179 → 2026-11-17 180（+1）
 
 
 ---

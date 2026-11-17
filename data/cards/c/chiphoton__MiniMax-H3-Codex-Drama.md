@@ -1,6 +1,6 @@
 # chiphoton/MiniMax-H3-Codex-Drama
 
-⭐ 61 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/chiphoton/MiniMax-H3-Codex-Drama) · 个人维护 · 中文 README
+⭐ 63 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/chiphoton/MiniMax-H3-Codex-Drama) · 个人维护 · 中文 README
 
 **在 Codex 内把故事/剧本做成成片的 MiniMax H3 视频生产插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chiphoton/MiniMax-H3-Codex-Drama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    title "chiphoton/MiniMax-H3-Codex-Drama 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 58 --> 64
+    line [59, 60, 61, 60, 61, 62, 63, 63]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 63（+4）
 
 
 ---

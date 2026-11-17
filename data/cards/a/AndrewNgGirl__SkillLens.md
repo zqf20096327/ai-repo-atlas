@@ -1,6 +1,6 @@
 # AndrewNgGirl/SkillLens
 
-⭐ 44 · TypeScript · MIT · 推送 2026-05-17 · [GitHub](https://github.com/AndrewNgGirl/SkillLens) · [官网](https://github.com/AndrewNgGirl/SkillLens#readme) · 个人维护 · 中文 README
+⭐ 45 · TypeScript · MIT · 推送 2026-05-17 · [GitHub](https://github.com/AndrewNgGirl/SkillLens) · [官网](https://github.com/AndrewNgGirl/SkillLens#readme) · 个人维护 · 中文 README
 
 **自托管 Web 工具：对 Agent Skills 做 rubric 量化评测与深度评审**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AndrewNgGirl/SkillLens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "AndrewNgGirl/SkillLens 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-17"]
     y-axis "stars" 43 --> 46
-    line [45, 44, 44]
+    line [45, 44, 45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 44（-1）
+2026-10-18 45 → 2026-11-17 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Lakonik/GMFlow
 
-⭐ 199 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Lakonik/GMFlow) · [官网](https://arxiv.org/abs/2504.05304) · 组织维护
+⭐ 200 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Lakonik/GMFlow) · [官网](https://arxiv.org/abs/2504.05304) · 组织维护
 
 **ICML 2025 论文 GMFlow 官方实现：高斯混合流匹配生成模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lakonik/GMFlow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 197 --> 200
-    line [198, 199, 199]
+    title "Lakonik/GMFlow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 197 --> 201
+    line [198, 199, 200, 200]
 ```
 
-2026-10-18 198 → 2026-11-02 199（+1）
+2026-10-18 198 → 2026-11-17 200（+2）
 
 
 ---

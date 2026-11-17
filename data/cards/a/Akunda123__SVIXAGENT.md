@@ -1,6 +1,6 @@
 # Akunda123/SVIXAGENT
 
-⭐ 30 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Akunda123/SVIXAGENT) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **用对话操作 Synthesizer V Studio/Instrument X 的 AI 音乐制作助手**
 
@@ -11,7 +11,7 @@ AKDAgent 是基于 DSH（DeepSeek Harness）的桌面客户端，面向 Synthesi
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@ AKDAgent 是基于 DSH（DeepSeek Harness）的桌面客户端，面向 Synthesi
 
 ```mermaid
 xychart-beta
-    title "Akunda123/SVIXAGENT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30, 30]
+    title "Akunda123/SVIXAGENT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13"]
+    y-axis "stars" 26 --> 34
+    line [27, 28, 29, 30, 29, 33, 33]
 ```
 
-2026-10-18 27 → 2026-11-02 30（+3）
+2026-10-18 27 → 2026-11-13 33（+6）
 
 
 ---

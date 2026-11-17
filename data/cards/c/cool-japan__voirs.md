@@ -1,6 +1,6 @@
 # cool-japan/voirs
 
-⭐ 46 · Rust · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/cool-japan/voirs) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **纯 Rust 实现的神经语音合成（TTS）框架**
 
@@ -11,7 +11,7 @@ VoiRS 是用 Rust 编写的文本转语音框架，整合 cool-japan 生态的 S
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@ VoiRS 是用 Rust 编写的文本转语音框架，整合 cool-japan 生态的 S
 
 ```mermaid
 xychart-beta
-    title "cool-japan/voirs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "cool-japan/voirs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-12 47（+1）
 
 
 ---

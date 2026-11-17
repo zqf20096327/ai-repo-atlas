@@ -1,6 +1,6 @@
 # max-ramas/rms-memory-mcp
 
-⭐ 62 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/max-ramas/rms-memory-mcp) · [官网](https://rms-ds.com/) · 个人维护
+⭐ 66 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/max-ramas/rms-memory-mcp) · [官网](https://rms-ds.com/) · 个人维护
 
 **给 AI 编码 agent 的本地跨 IDE 持久记忆 MCP 服务器**
 
@@ -44,13 +44,13 @@ Rust 实现的 MCP 记忆服务器：以集中式 Markdown vault 为唯一事实
 
 ```mermaid
 xychart-beta
-    title "max-ramas/rms-memory-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 38 --> 64
-    line [40, 43, 61, 62, 62]
+    title "max-ramas/rms-memory-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 68
+    line [40, 43, 61, 62, 40, 65, 66, 66]
 ```
 
-2026-10-18 40 → 2026-11-02 62（+22）
+2026-10-18 40 → 2026-11-17 66（+26）
 
 
 ---

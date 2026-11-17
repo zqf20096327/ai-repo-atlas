@@ -1,6 +1,6 @@
 # leeguooooo/agent-cli-to-api
 
-⭐ 84 · Python · 推送 2026-10-07 · [GitHub](https://github.com/leeguooooo/agent-cli-to-api) · 个人维护 · 中文 README
+⭐ 85 · Python · 推送 2026-10-07 · [GitHub](https://github.com/leeguooooo/agent-cli-to-api) · 个人维护 · 中文 README
 
 **把 agent CLI（Codex/Claude Code/Cursor/Gemini）封装成 OpenAI 兼容 API 网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leeguooooo/agent-cli-to-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 80 --> 85
-    line [81, 83, 84, 84]
+    title "leeguooooo/agent-cli-to-api 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 80 --> 86
+    line [81, 83, 84, 83, 85, 85]
 ```
 
-2026-10-18 81 → 2026-11-02 84（+3）
+2026-10-18 81 → 2026-11-17 85（+4）
 
 
 ---

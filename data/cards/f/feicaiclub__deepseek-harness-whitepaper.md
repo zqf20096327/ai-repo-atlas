@@ -1,6 +1,6 @@
 # feicaiclub/deepseek-harness-whitepaper
 
-⭐ 13 · HTML · MIT · 推送 2026-08-15 · [GitHub](https://github.com/feicaiclub/deepseek-harness-whitepaper) · [官网](https://feicaiclub.github.io/deepseek-harness-whitepaper/) · 组织维护 · 中文 README
+⭐ 14 · HTML · MIT · 推送 2026-08-15 · [GitHub](https://github.com/feicaiclub/deepseek-harness-whitepaper) · [官网](https://feicaiclub.github.io/deepseek-harness-whitepaper/) · 组织维护 · 中文 README
 
 **DeepSeek Harness（dsh）131 页白皮书：安装、源码解析到插件扩展教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feicaiclub/deepseek-harness-whitepaper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "feicaiclub/deepseek-harness-whitepaper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

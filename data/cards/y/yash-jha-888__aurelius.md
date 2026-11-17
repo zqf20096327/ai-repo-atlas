@@ -1,6 +1,6 @@
 # yash-jha-888/aurelius
 
-⭐ 13 · C++ · MIT · 推送 2026-08-26 · [GitHub](https://github.com/yash-jha-888/aurelius) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yash-jha-888/aurelius) · 个人维护
 
 **从零用现代 C++ 实现的深度学习框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yash-jha-888/aurelius 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bergside/awesome-eve-agents
 
-⭐ 33 · JavaScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/bergside/awesome-eve-agents) · [官网](https://www.eveagents.dev/) · 组织维护
+⭐ 35 · JavaScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/bergside/awesome-eve-agents) · [官网](https://www.eveagents.dev/) · 组织维护
 
 **面向 Eve 框架的开源 agent 策展清单（21 个，18 类职能）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bergside/awesome-eve-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33, 33]
+    title "bergside/awesome-eve-agents 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 36
+    line [30, 31, 32, 33, 35, 35]
 ```
 
-2026-10-18 30 → 2026-11-02 33（+3）
+2026-10-18 30 → 2026-11-17 35（+5）
 
 
 ---

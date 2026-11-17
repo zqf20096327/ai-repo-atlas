@@ -1,6 +1,6 @@
 # yumenana/Caelum
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/yumenana/Caelum) · 个人维护 · 中文 README
+⭐ 19 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/yumenana/Caelum) · 个人维护 · 中文 README
 
 **面向网络压缩退化的动漫插画 4× 超分与压缩伪影修复工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yumenana/Caelum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "yumenana/Caelum 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Egoist-Machines/LodeDB
 
-⭐ 104 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Egoist-Machines/LodeDB) · 组织维护
+⭐ 108 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Egoist-Machines/LodeDB) · 组织维护
 
 **面向本地 RAG 的进程内嵌入式向量数据库，支持 GPU 与多模态**
 
@@ -47,13 +47,13 @@ Apache-2.0 许可的嵌入式向量数据库，由 Egoist Machines, Inc. 维护�
 
 ```mermaid
 xychart-beta
-    title "Egoist-Machines/LodeDB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    title "Egoist-Machines/LodeDB 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 102 --> 109
+    line [103, 104, 103, 104, 105, 107, 108, 108]
 ```
 
-2026-10-18 103 → 2026-11-02 104（+1）
+2026-10-18 103 → 2026-11-17 108（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # FerrumVir/arc-chain
 
-⭐ 24 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/FerrumVir/arc-chain) · [官网](https://arc.ai) · 个人维护
+⭐ 25 · Rust · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/FerrumVir/arc-chain) · [官网](https://arc.ai) · 个人维护
 
 **Rust L1 区块链：多节点共识验证可复现的链上 AI 推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FerrumVir/arc-chain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "FerrumVir/arc-chain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jeecgboot/jeecg-boot-starter
 
-⭐ 103 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jeecgboot/jeecg-boot-starter) · [官网](http://www.jeecg.com) · 组织维护 · 中文 README
+⭐ 104 · Java · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/jeecgboot/jeecg-boot-starter) · [官网](http://www.jeecg.com) · 组织维护 · 中文 README
 
 **JeecgBoot 低代码平台的企业级 Spring Boot starter 模块集合**
 
@@ -44,13 +44,13 @@ JeecgBoot 低代码平台的核心启动器模块集合，基于 Spring Boot 4 �
 
 ```mermaid
 xychart-beta
-    title "jeecgboot/jeecg-boot-starter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 101 --> 104
-    line [102, 103, 103]
+    title "jeecgboot/jeecg-boot-starter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 101 --> 105
+    line [102, 103, 102, 104, 104]
 ```
 
-2026-10-18 102 → 2026-11-02 103（+1）
+2026-10-18 102 → 2026-11-17 104（+2）
 
 
 ---

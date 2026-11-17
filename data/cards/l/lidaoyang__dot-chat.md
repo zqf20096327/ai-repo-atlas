@@ -1,6 +1,6 @@
 # lidaoyang/dot-chat
 
-⭐ 31 · Java · MulanPSL-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/lidaoyang/dot-chat) · 个人维护 · 中文 README
+⭐ 33 · Java · MulanPSL-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/lidaoyang/dot-chat) · 个人维护 · 中文 README
 
 **Web 版仿微信聊天软件，接入 DeepSeek AI 智能回复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lidaoyang/dot-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "lidaoyang/dot-chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # 2005selene2005-a11y/susu-phone-agent
 
-⭐ 38 · Java · MIT · 推送 2026-08-22 · [GitHub](https://github.com/2005selene2005-a11y/susu-phone-agent) · 个人维护
+⭐ 41 · Java · MIT · 推送 2026-08-22 · [GitHub](https://github.com/2005selene2005-a11y/susu-phone-agent) · 个人维护
 
 **通过 MCP + Shizuku 让 Claude Code 控制真实 Android 设备的桥接工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "2005selene2005-a11y/susu-phone-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [39, 38, 38]
+    title "2005selene2005-a11y/susu-phone-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [39, 38, 39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 38（-1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

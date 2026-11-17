@@ -1,6 +1,6 @@
 # PolinniZhong/dsh-knit
 
-⭐ 48 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/PolinniZhong/dsh-knit) · [官网](https://www.npmjs.com/package/dsh-knit) · 个人维护 · 中文 README
+⭐ 49 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PolinniZhong/dsh-knit) · [官网](https://www.npmjs.com/package/dsh-knit) · 个人维护 · 中文 README
 
 **给 AI Coding Agent 的本地任务感知上下文检索与追踪插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PolinniZhong/dsh-knit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
+    title "PolinniZhong/dsh-knit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 46 --> 55
-    line [54, 47, 48, 48]
+    line [54, 47, 48, 47, 48, 49, 49]
 ```
 
-2026-10-18 54 → 2026-11-02 48（-6）
+2026-10-18 54 → 2026-11-17 49（-5）
 
 
 ---

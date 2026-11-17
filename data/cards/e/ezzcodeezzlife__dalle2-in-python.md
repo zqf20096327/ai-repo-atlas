@@ -1,6 +1,6 @@
 # ezzcodeezzlife/dalle2-in-python
 
-⭐ 175 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/ezzcodeezzlife/dalle2-in-python) · [官网](https://pypi.org/project/dalle2/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Python 中调用 DALL·E 2 网页接口生成图像的客户端库**
 
@@ -11,7 +11,7 @@ Python 包，通过从 labs.openai.com 抓取的 Bearer Token 调用 DALL·E 2 �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Python 包，通过从 labs.openai.com 抓取的 Bearer Token 调用 DALL·E 2 �
 ```mermaid
 xychart-beta
     title "ezzcodeezzlife/dalle2-in-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 174 --> 176
     line [175, 175]
 ```
 
-2026-10-18 175 → 2026-11-02 175（+0）
+2026-10-18 175 → 2026-11-14 175（+0）
 
 
 ---

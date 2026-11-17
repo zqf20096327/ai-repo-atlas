@@ -1,6 +1,6 @@
 # diandiancha/LittleAIBox
 
-⭐ 114 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/diandiancha/LittleAIBox) · [官网](https://littleaibox.com) · 个人维护 · 中文 README
+⭐ 134 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/diandiancha/LittleAIBox) · [官网](https://littleaibox.com) · 个人维护 · 中文 README
 
 **跨平台 Gemini AI 聊天应用：本地处理文件、隐私优先**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diandiancha/LittleAIBox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 112 --> 115
-    line [113, 114, 114]
+    title "diandiancha/LittleAIBox 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 111 --> 136
+    line [113, 114, 113, 114, 116, 123, 125, 129, 134, 134]
 ```
 
-2026-10-18 113 → 2026-11-02 114（+1）
+2026-10-18 113 → 2026-11-17 134（+21）
 
 
 ---

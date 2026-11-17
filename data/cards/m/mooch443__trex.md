@@ -1,6 +1,6 @@
 # mooch443/trex
 
-⭐ 127 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/mooch443/trex) · [官网](https://trex.run) · 个人维护
+⭐ 130 · C++ · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/mooch443/trex) · [官网](https://trex.run) · 个人维护
 
 **多动物追踪软件：计算机视觉追踪、无标记识别与姿态估计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mooch443/trex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    title "mooch443/trex 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 126 --> 131
+    line [127, 129, 130, 130]
 ```
 
-2026-10-18 127 → 2026-11-02 127（+0）
+2026-10-18 127 → 2026-11-17 130（+3）
 
 
 ---

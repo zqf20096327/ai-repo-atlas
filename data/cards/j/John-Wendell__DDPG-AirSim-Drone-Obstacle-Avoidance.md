@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "John-Wendell/DDPG-AirSim-Drone-Obstacle-Avoidance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-30 66（+0）
+2026-10-18 66 → 2026-11-07 66（+0）
 
 
 ---

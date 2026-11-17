@@ -1,6 +1,6 @@
 # parkpow/deep-license-plate-recognition
 
-⭐ 671 · C++ · MIT · 推送 2026-09-04 · [GitHub](https://github.com/parkpow/deep-license-plate-recognition) · [官网](https://platerecognizer.com/) · 组织维护
+⭐ 672 · C++ · MIT · 推送 2026-09-04 · [GitHub](https://github.com/parkpow/deep-license-plate-recognition) · [官网](https://platerecognizer.com/) · 组织维护
 
 **车牌识别服务的示例客户端与运维工具集（不含模型本体）**
 
@@ -45,13 +45,13 @@ ParkPow/Plate Recognizer 官方维护的示例与工具仓库：围绕 Snapshot�
 
 ```mermaid
 xychart-beta
-    title "parkpow/deep-license-plate-recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 670 --> 672
-    line [671, 671]
+    title "parkpow/deep-license-plate-recognition 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 670 --> 673
+    line [671, 672, 672]
 ```
 
-2026-10-18 671 → 2026-11-02 671（+0）
+2026-10-18 671 → 2026-11-17 672（+1）
 
 
 ---

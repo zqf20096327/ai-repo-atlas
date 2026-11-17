@@ -1,6 +1,6 @@
 # YanpengQi7/ai-reliability-copilot
 
-⭐ 83 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/YanpengQi7/ai-reliability-copilot) · [官网](https://ai-reliability-copilot.vercel.app) · 个人维护 · 中文 README
+⭐ 81 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/YanpengQi7/ai-reliability-copilot) · [官网](https://ai-reliability-copilot.vercel.app) · 个人维护 · 中文 README
 
 **面向 SRE 的事件调查 AI 副驾：产出结构化诊断与响应**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YanpengQi7/ai-reliability-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    title "YanpengQi7/ai-reliability-copilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 80 --> 84
+    line [83, 81, 81]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 81（-2）
 
 
 ---

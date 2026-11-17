@@ -1,6 +1,6 @@
 # metacore-stack/epicurean-roulette
 
-⭐ 12 · JavaScript · 推送 2025-11-13 · [GitHub](https://github.com/metacore-stack/epicurean-roulette) · [官网](https://dinnerdecider.vercel.app/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **晚餐决策 Web 应用：结合心情、位置与群组偏好的餐厅推荐**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "metacore-stack/epicurean-roulette 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-08 12（+0）
 
 
 ---

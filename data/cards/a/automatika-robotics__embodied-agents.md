@@ -1,6 +1,6 @@
 # automatika-robotics/embodied-agents
 
-⭐ 73 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/automatika-robotics/embodied-agents) · [官网](https://emos.automatikarobotics.com) · 组织维护
+⭐ 75 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/automatika-robotics/embodied-agents) · [官网](https://emos.automatikarobotics.com) · 组织维护
 
 **ROS 2 机器人具身智能框架：把模型组成可重配置的智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "automatika-robotics/embodied-agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 68 --> 74
-    line [69, 70, 71, 72, 73, 73]
+    title "automatika-robotics/embodied-agents 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 68 --> 76
+    line [69, 70, 71, 72, 73, 72, 74, 75, 75]
 ```
 
-2026-10-18 69 → 2026-11-02 73（+4）
+2026-10-18 69 → 2026-11-17 75（+6）
 
 
 ---

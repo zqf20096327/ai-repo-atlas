@@ -1,6 +1,6 @@
 # Nian2026/MSP
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Nian2026/MSP) · 个人维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Nian2026/MSP) · 个人维护
 
 **面向 AI agent 的应用内命令运行时协议与 Swift SDK**
 
@@ -44,13 +44,13 @@ Model Shell Protocol（MSP）定义应用内部的操作系统语义层：把应
 
 ```mermaid
 xychart-beta
-    title "Nian2026/MSP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "Nian2026/MSP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

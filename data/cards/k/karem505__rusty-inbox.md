@@ -1,6 +1,6 @@
 # karem505/rusty-inbox
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/karem505/rusty-inbox) · [官网](https://aboelmakarem.pro/apps/rusty-inbox) · 个人维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/karem505/rusty-inbox) · [官网](https://aboelmakarem.pro/apps/rusty-inbox) · 个人维护
 
 **跨平台原生桌面邮件客户端，带可选 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "karem505/rusty-inbox 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "karem505/rusty-inbox 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 26
+    line [13, 18, 19, 20, 22, 24, 25, 25]
 ```
 
-2026-10-30 13 → 2026-11-02 13（+0）
+2026-10-30 13 → 2026-11-17 25（+12）
 
 
 ---

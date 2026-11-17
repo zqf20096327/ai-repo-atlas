@@ -1,6 +1,6 @@
 # kadenball/qwen38-27b-rtx3060-dcfr
 
-⭐ 34 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kadenball/qwen38-27b-rtx3060-dcfr) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kadenball/qwen38-27b-rtx3060-dcfr) · 个人维护
 
 **在单张低显存 NVIDIA GPU 上跑 Qwen 27B 的实验性推理优化工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kadenball/qwen38-27b-rtx3060-dcfr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "kadenball/qwen38-27b-rtx3060-dcfr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 34, 33, 35, 36, 36]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 36（+4）
 
 
 ---

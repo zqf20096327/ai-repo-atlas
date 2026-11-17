@@ -1,6 +1,6 @@
 # tkalevra/FaultLine
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/tkalevra/FaultLine) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/tkalevra/FaultLine) · 个人维护
 
 **给本地 AI 用的可校验知识图谱记忆层，经 MCP 共享**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tkalevra/FaultLine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

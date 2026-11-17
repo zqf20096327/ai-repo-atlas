@@ -1,6 +1,6 @@
 # shuangying0001-beep/awesome-workbuddy-skills
 
-⭐ 11 · 推送 2026-07-21 · [GitHub](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) · 个人维护 · 中文 README
+⭐ 12 · 推送 2026-07-21 · [GitHub](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) · 个人维护 · 中文 README
 
 **可直接加载的 AI Agent 技能清单：22 个实战场景技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuangying0001-beep/awesome-workbuddy-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "shuangying0001-beep/awesome-workbuddy-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-11", "2026-11-17"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 11, 11]
+    line [10, 11, 12, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

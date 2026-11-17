@@ -1,6 +1,6 @@
 # ThreeMoonsLab/agents-shipgate
 
-⭐ 88 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/ThreeMoonsLab/agents-shipgate) · [官网](https://threemoonslab.com/agents-shipgate/) · 组织维护
+⭐ 87 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThreeMoonsLab/agents-shipgate) · [官网](https://threemoonslab.com/agents-shipgate/) · 组织维护
 
 **本地静态审查 AI agent 权限变更的合并门禁 CLI 与 GitHub Action**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThreeMoonsLab/agents-shipgate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 87 --> 91
-    line [90, 88, 88]
+    title "ThreeMoonsLab/agents-shipgate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 86 --> 91
+    line [90, 88, 90, 87, 87]
 ```
 
-2026-10-18 90 → 2026-11-02 88（-2）
+2026-10-18 90 → 2026-11-17 87（-3）
 
 
 ---

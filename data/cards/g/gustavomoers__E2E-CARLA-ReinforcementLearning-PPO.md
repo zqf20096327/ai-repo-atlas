@@ -1,6 +1,6 @@
 # gustavomoers/E2E-CARLA-ReinforcementLearning-PPO
 
-⭐ 45 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/gustavomoers/E2E-CARLA-ReinforcementLearning-PPO) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/gustavomoers/E2E-CARLA-ReinforcementLearning-PPO) · 个人维护
 
 **CARLA 模拟器中端到端强化学习避撞驾驶模型（循环 PPO）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gustavomoers/E2E-CARLA-ReinforcementLearning-PPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "gustavomoers/E2E-CARLA-ReinforcementLearning-PPO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

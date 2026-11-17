@@ -1,6 +1,6 @@
 # espocrm/ext-mcp
 
-⭐ 12 · PHP · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/espocrm/ext-mcp) · 组织维护
+⭐ 13 · PHP · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/espocrm/ext-mcp) · 组织维护
 
 **让 EspoCRM 充当 MCP 服务器的官方扩展**
 
@@ -44,13 +44,13 @@ EspoCRM 官方扩展包：安装后使 EspoCRM 实例作为 MCP server 运行，
 
 ```mermaid
 xychart-beta
-    title "espocrm/ext-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "espocrm/ext-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 10, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # amxv/mcp-manager
 
-⭐ 295 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/amxv/mcp-manager) · [官网](https://mcp-manager.ashray.xyz) · 个人维护
+⭐ 297 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/amxv/mcp-manager) · [官网](https://mcp-manager.ashray.xyz) · 个人维护
 
 **网页 GUI，管理 Claude Desktop 的 MCP 服务器配置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amxv/mcp-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 293 --> 296
-    line [294, 295, 295]
+    title "amxv/mcp-manager 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 293 --> 298
+    line [294, 295, 296, 297, 297]
 ```
 
-2026-10-18 294 → 2026-11-02 295（+1）
+2026-10-18 294 → 2026-11-17 297（+3）
 
 
 ---

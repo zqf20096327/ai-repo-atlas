@@ -1,6 +1,6 @@
 # nullclaw/nullboiler
 
-⭐ 177 · Zig · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nullclaw/nullboiler) · 组织维护
+⭐ 172 · Zig · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nullclaw/nullboiler) · 组织维护
 
 **AI agent 多步工作流编排引擎（Zig 实现），负责任务调度与分发**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nullclaw/nullboiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 176 --> 184
-    line [183, 177, 177]
+    title "nullclaw/nullboiler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 171 --> 184
+    line [183, 177, 174, 172, 172]
 ```
 
-2026-10-18 183 → 2026-11-02 177（-6）
+2026-10-18 183 → 2026-11-17 172（-11）
 
 
 ---

@@ -1,6 +1,6 @@
 # cgoliver/rnaglib
 
-⭐ 46 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cgoliver/rnaglib) · [官网](https://rnaglib.org) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/cgoliver/rnaglib) · [官网](https://rnaglib.org) · 组织维护
 
 **面向 RNA 2.5D/3D 结构的深度学习工具包与注释数据库**
 
@@ -45,12 +45,12 @@ Python 包 rnaglib 用于研究 RNA 2.5D 与 3D 结构：提供带注释的 RNA 
 ```mermaid
 xychart-beta
     title "cgoliver/rnaglib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 46（+0）
 
 
 ---

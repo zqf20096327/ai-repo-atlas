@@ -1,6 +1,6 @@
 # taskade/awesome-vibe-coding
 
-⭐ 145 · CC-BY-4.0 · 推送 2026-10-31 · [GitHub](https://github.com/taskade/awesome-vibe-coding) · [官网](https://www.taskade.com/create) · 组织维护
+⭐ 144 · CC-BY-4.0 · 推送 2026-11-07 · [GitHub](https://github.com/taskade/awesome-vibe-coding) · [官网](https://www.taskade.com/create) · 组织维护
 
 **vibe coding 工具与资源策展清单（350+ 条）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taskade/awesome-vibe-coding 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 142 --> 147
-    line [144, 146, 143, 144, 145]
+    title "taskade/awesome-vibe-coding 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 141 --> 147
+    line [144, 146, 143, 144, 145, 143, 142, 143, 144, 144]
 ```
 
-2026-10-18 144 → 2026-11-02 145（+1）
+2026-10-18 144 → 2026-11-17 144（+0）
 
 
 ---

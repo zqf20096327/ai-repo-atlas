@@ -1,6 +1,6 @@
 # DavidCarliez/cover
 
-⭐ 58 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/DavidCarliez/cover) · 个人维护
+⭐ 62 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/DavidCarliez/cover) · 个人维护
 
 **面向 AI 编程代理的双向隐私代理，防止敏感数据外泄**
 
@@ -44,13 +44,13 @@ Cover 是一个运行在本机的双向隐私代理，位于 AI 编程代理与�
 
 ```mermaid
 xychart-beta
-    title "DavidCarliez/cover 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    title "DavidCarliez/cover 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 63
+    line [57, 58, 57, 61, 62, 62]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 62（+5）
 
 
 ---

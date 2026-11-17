@@ -1,6 +1,6 @@
 # ARCANGEL0/NekoCLI
 
-⭐ 20 · Python · 推送 2026-05-27 · [GitHub](https://github.com/ARCANGEL0/NekoCLI) · [官网](https://neko.arcangelo.net) · 个人维护
+⭐ 21 · Python · 推送 2026-05-27 · [GitHub](https://github.com/ARCANGEL0/NekoCLI) · [官网](https://neko.arcangelo.net) · 个人维护
 
 **多模式终端 AI 助手：图像/视频生成、代码与自主渗透测试**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ARCANGEL0/NekoCLI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "ARCANGEL0/NekoCLI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

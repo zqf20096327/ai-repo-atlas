@@ -1,6 +1,6 @@
 # vast-data/vast-admin-mcp
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/vast-data/vast-admin-mcp) · [官网](https://pypi.org/project/vast-admin-mcp/) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/vast-data/vast-admin-mcp) · [官网](https://pypi.org/project/vast-admin-mcp/) · 组织维护
 
 **面向 VAST Data 集群管理的 MCP 服务器，供 AI 助手调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vast-data/vast-admin-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

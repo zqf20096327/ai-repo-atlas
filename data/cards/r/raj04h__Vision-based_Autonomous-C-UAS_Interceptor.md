@@ -1,6 +1,6 @@
 # raj04h/Vision-based_Autonomous-C-UAS_Interceptor
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/raj04h/Vision-based_Autonomous-C-UAS_Interceptor) · [官网](https://deepwiki.com/raj04h/Vision-Based-Autonomous-Counter-Drone-System) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/raj04h/Vision-based_Autonomous-C-UAS_Interceptor) · [官网](https://deepwiki.com/raj04h/Vision-Based-Autonomous-Counter-Drone-System) · 个人维护
 
 **视觉自主反无人机的拦截无人机系统：检测、跟踪并追捕空中目标**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raj04h/Vision-based_Autonomous-C-UAS_Interceptor 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "raj04h/Vision-based_Autonomous-C-UAS_Interceptor 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-28 11 → 2026-11-02 11（+0）
+2026-10-28 11 → 2026-11-17 12（+1）
 
 
 ---

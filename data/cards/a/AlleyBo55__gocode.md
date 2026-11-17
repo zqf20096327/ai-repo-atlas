@@ -1,6 +1,6 @@
 # AlleyBo55/gocode
 
-⭐ 46 · Go · MIT · 推送 2026-09-24 · [GitHub](https://github.com/AlleyBo55/gocode) · 个人维护
+⭐ 49 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AlleyBo55/gocode) · 个人维护
 
 **Go 编写的开源终端 AI 编码 agent 运行时，单二进制支持任意模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlleyBo55/gocode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "AlleyBo55/gocode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 45 --> 50
+    line [46, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 49（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # doeixd/opencode-ralph-rlm
 
-⭐ 32 · TypeScript · 推送 2026-06-30 · [GitHub](https://github.com/doeixd/opencode-ralph-rlm) · [官网](https://deepwiki.com/doeixd/opencode-ralph-rlm) · 个人维护
+⭐ 31 · TypeScript · 推送 2026-06-30 · [GitHub](https://github.com/doeixd/opencode-ralph-rlm) · [官网](https://deepwiki.com/doeixd/opencode-ralph-rlm) · 个人维护
 
 **OpenCode 插件：可托管的编码循环，supervisor 外环+全新 worker 内环**
 
@@ -45,13 +45,13 @@ OpenCode 的插件/集成，面向长时间无人值守的编码任务：用户�
 
 ```mermaid
 xychart-beta
-    title "doeixd/opencode-ralph-rlm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "doeixd/opencode-ralph-rlm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [32, 31, 31]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 31（-1）
 
 
 ---

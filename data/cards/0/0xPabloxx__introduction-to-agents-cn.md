@@ -1,6 +1,6 @@
 # 0xPabloxx/introduction-to-agents-cn
 
-⭐ 65 · Python · 推送 2025-11-14 · [GitHub](https://github.com/0xPabloxx/introduction-to-agents-cn) · [官网](https://www.kaggle.com/whitepaper-introduction-to-agents) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Google《Introduction to Agents》白皮书的中英对照翻译项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0xPabloxx/introduction-to-agents-cn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-08 65（+0）
 
 
 ---

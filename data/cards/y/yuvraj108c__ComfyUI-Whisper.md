@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI-Whisper
 
-⭐ 282 · Python · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Whisper) · 个人维护
+⭐ 283 · Python · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Whisper) · 个人维护
 
 **ComfyUI 的 Whisper 节点：转录音频并为视频生成字幕**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集合，提供 Apply Whisper（音频转录并输出分�
 
 ```mermaid
 xychart-beta
-    title "yuvraj108c/ComfyUI-Whisper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 277 --> 283
-    line [278, 279, 280, 281, 282]
+    title "yuvraj108c/ComfyUI-Whisper 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 277 --> 284
+    line [278, 279, 280, 281, 282, 278, 283, 283]
 ```
 
-2026-10-18 278 → 2026-11-02 282（+4）
+2026-10-18 278 → 2026-11-17 283（+5）
 
 
 ---

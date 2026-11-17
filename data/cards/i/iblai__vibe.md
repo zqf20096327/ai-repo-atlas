@@ -1,6 +1,6 @@
 # iblai/vibe
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/iblai/vibe) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 234 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/iblai/vibe) · [官网](https://ibl.ai/join) · 组织维护
 
 **面向 ibl.ai 平台的 AI 应用脚手架与 agent 技能工具集**
 
@@ -45,13 +45,13 @@ ibl.ai 团队维护的开发者工具集：通过 Claude Code/Cursor/Copilot 等
 
 ```mermaid
 xychart-beta
-    title "iblai/vibe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "iblai/vibe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 255
+    line [15, 232, 229, 230, 234, 234]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 234（+219）
 
 
 ---

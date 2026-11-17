@@ -1,6 +1,6 @@
 # codewithmuh/ai-voice-agent
 
-⭐ 26 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/codewithmuh/ai-voice-agent) · [官网](https://codewithmuh.com/agents/voice-receptionist) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/codewithmuh/ai-voice-agent) · [官网](https://codewithmuh.com/agents/voice-receptionist) · 个人维护
 
 **AI 电话接待员：自动接听来电并预约日程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codewithmuh/ai-voice-agent 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
+    x-axis ["2026-10-26", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-26 26 → 2026-11-02 26（+0）
+2026-10-26 26 → 2026-11-17 26（+0）
 
 
 ---

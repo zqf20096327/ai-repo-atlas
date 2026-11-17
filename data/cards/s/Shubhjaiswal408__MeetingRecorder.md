@@ -1,6 +1,6 @@
 # Shubhjaiswal408/MeetingRecorder
 
-⭐ 18 · C++ · 推送 2026-06-20 · [GitHub](https://github.com/Shubhjaiswal408/MeetingRecorder) · [官网](https://www.youtube.com/watch?v=FhV9c0Vv3Ng) · 个人维护
+⭐ 23 · C++ · 推送 2026-06-20 · [GitHub](https://github.com/Shubhjaiswal408/MeetingRecorder) · [官网](https://www.youtube.com/watch?v=FhV9c0Vv3Ng) · 个人维护
 
 **ESP32-S3 自制会议录音机：实时转录、AI 摘要与会议问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shubhjaiswal408/MeetingRecorder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "Shubhjaiswal408/MeetingRecorder 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 17, 19, 21, 22, 23, 23]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 23（+6）
 
 
 ---

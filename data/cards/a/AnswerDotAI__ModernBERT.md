@@ -1,6 +1,6 @@
 # AnswerDotAI/ModernBERT
 
-⭐ 1,776 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/AnswerDotAI/ModernBERT) · [官网](https://arxiv.org/abs/2412.13663) · 组织维护
+⭐ 1,782 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/AnswerDotAI/ModernBERT) · [官网](https://arxiv.org/abs/2412.13663) · 组织维护
 
 **ModernBERT 预训练与评测的研究代码库**
 
@@ -45,13 +45,13 @@ Answer.AI 等团队的 ModernBERT 研究仓库：通过 FlexBERT 模块化编码
 
 ```mermaid
 xychart-beta
-    title "AnswerDotAI/ModernBERT 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1769 --> 1777
-    line [1770, 1772, 1773, 1774, 1776, 1776]
+    title "AnswerDotAI/ModernBERT 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1769 --> 1784
+    line [1770, 1772, 1773, 1774, 1776, 1774, 1779, 1780, 1781, 1783, 1782, 1782]
 ```
 
-2026-10-18 1,770 → 2026-11-02 1,776（+6）
+2026-10-18 1,770 → 2026-11-17 1,782（+12）
 
 
 ---

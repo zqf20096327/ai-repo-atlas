@@ -1,6 +1,6 @@
 # 6eanut/llm-wiki
 
-⭐ 49 · Shell · MIT · 推送 2026-05-13 · [GitHub](https://github.com/6eanut/llm-wiki) · 个人维护 · 中文 README
+⭐ 50 · Shell · MIT · 推送 2026-05-13 · [GitHub](https://github.com/6eanut/llm-wiki) · 个人维护 · 中文 README
 
 **Claude Code 技能：从源文档构建持久互联的知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "6eanut/llm-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49]
+    title "6eanut/llm-wiki 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 48, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

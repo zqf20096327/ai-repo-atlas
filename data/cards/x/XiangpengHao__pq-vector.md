@@ -1,6 +1,6 @@
 # XiangpengHao/pq-vector
 
-⭐ 62 · Rust · 推送 2026-02-11 · [GitHub](https://github.com/XiangpengHao/pq-vector) · 个人维护
+⭐ 63 · Rust · 推送 2026-02-11 · [GitHub](https://github.com/XiangpengHao/pq-vector) · 个人维护
 
 **Rust 向量检索库：索引存于 Parquet 文件内并用 DataFusion SQL 查询**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "XiangpengHao/pq-vector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "XiangpengHao/pq-vector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # LC-di-yan/Lincan-Travel-Assistant-Agent
 
-⭐ 15 · Python · 推送 2026-10-21 · [GitHub](https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent) · [官网](https://lc-di-yan.github.io/Lincan-Travel-Assistant-Agent/) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-11-09 · [GitHub](https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent) · [官网](https://lc-di-yan.github.io/Lincan-Travel-Assistant-Agent/) · 个人维护 · 中文 README
 
 **中文差旅助手：一句话生成可执行行程的多智能体 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LC-di-yan/Lincan-Travel-Assistant-Agent 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "LC-di-yan/Lincan-Travel-Assistant-Agent 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-22 15 → 2026-11-02 15（+0）
+2026-10-22 15 → 2026-11-17 17（+2）
 
 
 ---

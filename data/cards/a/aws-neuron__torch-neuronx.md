@@ -1,6 +1,6 @@
 # aws-neuron/torch-neuronx
 
-⭐ 132 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/aws-neuron/torch-neuronx) · [官网](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/torch/index.html) · 组织维护
+⭐ 137 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/aws-neuron/torch-neuronx) · [官网](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/torch/index.html) · 组织维护
 
 **面向 AWS Trainium 的 PyTorch 原生后端（neuron 设备）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-neuron/torch-neuronx 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 103 --> 134
-    line [105, 113, 119, 121, 123, 126, 129, 130, 132]
+    title "aws-neuron/torch-neuronx 星数(近 14 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 102 --> 140
+    line [105, 113, 119, 121, 123, 126, 129, 130, 132, 121, 135, 136, 137, 137]
 ```
 
-2026-10-22 105 → 2026-11-02 132（+27）
+2026-10-22 105 → 2026-11-17 137（+32）
 
 
 ---

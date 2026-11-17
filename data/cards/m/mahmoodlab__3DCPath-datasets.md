@@ -1,6 +1,6 @@
 # mahmoodlab/3DCPath-datasets
 
-⭐ 53 · 推送 2026-09-02 · [GitHub](https://github.com/mahmoodlab/3DCPath-datasets) · 组织维护
+⭐ 56 · 推送 2026-09-02 · [GitHub](https://github.com/mahmoodlab/3DCPath-datasets) · 组织维护
 
 **3D 计算病理学公开数据集汇编（形态学/基因组学/联合三类）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahmoodlab/3DCPath-datasets 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    title "mahmoodlab/3DCPath-datasets 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 50 --> 57
+    line [51, 52, 53, 52, 53, 55, 56, 56]
 ```
 
-2026-10-18 51 → 2026-11-02 53（+2）
+2026-10-18 51 → 2026-11-17 56（+5）
 
 
 ---

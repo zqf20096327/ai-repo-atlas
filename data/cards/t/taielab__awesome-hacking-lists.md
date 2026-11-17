@@ -1,6 +1,6 @@
 # taielab/awesome-hacking-lists
 
-⭐ 1,398 · 推送 2025-12-04 · [GitHub](https://github.com/taielab/awesome-hacking-lists) · 个人维护 · 中文 README
+⭐ 1,404 · 推送 2025-12-04 · [GitHub](https://github.com/taielab/awesome-hacking-lists) · 个人维护 · 中文 README
 
 **个人 GitHub stars 自动生成的安全工具与生产力资源清单**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "taielab/awesome-hacking-lists 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1394 --> 1401
-    line [1395, 1397, 1400, 1399, 1398, 1398]
+    title "taielab/awesome-hacking-lists 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1394 --> 1406
+    line [1395, 1397, 1400, 1399, 1398, 1399, 1402, 1404, 1405, 1404, 1404]
 ```
 
-2026-10-18 1,395 → 2026-11-02 1,398（+3）
+2026-10-18 1,395 → 2026-11-17 1,404（+9）
 
 
 ---

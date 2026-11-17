@@ -1,6 +1,6 @@
 # jam-cc/paper-review.skill
 
-⭐ 16 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/jam-cc/paper-review.skill) · 个人维护 · 中文 README
+⭐ 17 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/jam-cc/paper-review.skill) · 个人维护 · 中文 README
 
 **供 AI 助手执行的研究论文审稿 skill：生成有据可查的审稿意见**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jam-cc/paper-review.skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16, 16]
+    title "jam-cc/paper-review.skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 16, 14, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 16（+3）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

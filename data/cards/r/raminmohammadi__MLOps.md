@@ -1,6 +1,6 @@
 # raminmohammadi/MLOps
 
-⭐ 306 · Jupyter Notebook · CC0-1.0 · 推送 2026-10-11 · [GitHub](https://github.com/raminmohammadi/MLOps) · [官网](https://www.mlwithramin.com/) · 组织维护
+⭐ 307 · Jupyter Notebook · CC0-1.0 · 推送 2026-10-11 · [GitHub](https://github.com/raminmohammadi/MLOps) · [官网](https://www.mlwithramin.com/) · 组织维护
 
 **东北大学 MLOps 课程的实验与阅读材料仓库**
 
@@ -44,13 +44,13 @@ Northeastern University DADS 7305 MLOps 课程的教学资源仓库，收录课�
 
 ```mermaid
 xychart-beta
-    title "raminmohammadi/MLOps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 305 --> 307
-    line [306, 306]
+    title "raminmohammadi/MLOps 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 305 --> 309
+    line [306, 308, 307, 307]
 ```
 
-2026-10-18 306 → 2026-11-02 306（+0）
+2026-10-18 306 → 2026-11-17 307（+1）
 
 
 ---

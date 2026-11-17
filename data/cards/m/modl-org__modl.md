@@ -1,6 +1,6 @@
 # modl-org/modl
 
-⭐ 27 · Rust · AGPL-3.0 · 推送 2026-07-25 · [GitHub](https://github.com/modl-org/modl) · [官网](https://modl.run) · 个人维护
+⭐ 28 · Rust · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/modl-org/modl) · [官网](https://modl.run) · 个人维护
 
 **本地优先的 AI 图像生成与 LoRA 训练一体化 CLI/Web 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "modl-org/modl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "modl-org/modl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

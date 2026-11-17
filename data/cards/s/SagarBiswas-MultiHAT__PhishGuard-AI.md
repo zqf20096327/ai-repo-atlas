@@ -1,6 +1,6 @@
 # SagarBiswas-MultiHAT/PhishGuard-AI
 
-⭐ 28 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SagarBiswas-MultiHAT/PhishGuard-AI) · [官网](https://phishguard.multihat.dev) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/SagarBiswas-MultiHAT/PhishGuard-AI) · [官网](https://phishguard.multihat.dev) · 个人维护
 
 **识钓训练网页游戏：AI 生成并双重校验钓鱼邮件供玩家判断**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SagarBiswas-MultiHAT/PhishGuard-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
+    title "SagarBiswas-MultiHAT/PhishGuard-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    line [26, 27, 28, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 28（+2）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

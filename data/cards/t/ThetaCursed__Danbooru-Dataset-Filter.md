@@ -1,6 +1,6 @@
 # ThetaCursed/Danbooru-Dataset-Filter
 
-⭐ 12 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/ThetaCursed/Danbooru-Dataset-Filter) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/ThetaCursed/Danbooru-Dataset-Filter) · 个人维护
 
 **面向 AI 训练的 Danbooru 图像数据集筛选与导出 GUI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThetaCursed/Danbooru-Dataset-Filter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "ThetaCursed/Danbooru-Dataset-Filter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

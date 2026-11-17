@@ -1,6 +1,6 @@
 # susyimes/android-agent-harness
 
-⭐ 34 · Kotlin · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/susyimes/android-agent-harness) · 个人维护 · 中文 README
+⭐ 35 · Kotlin · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/susyimes/android-agent-harness) · 个人维护 · 中文 README
 
 **Android/JVM 上构建受约束 agent 的 Kotlin SDK**
 
@@ -44,13 +44,13 @@ Provider 中立的 Kotlin SDK，在 JVM 与 Android 上提供单一受治理的�
 
 ```mermaid
 xychart-beta
-    title "susyimes/android-agent-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "susyimes/android-agent-harness 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

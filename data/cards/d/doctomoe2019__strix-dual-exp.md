@@ -1,6 +1,6 @@
 # doctomoe2019/strix-dual-exp
 
-⭐ 11 · C · MIT · 推送 2026-10-22 · [GitHub](https://github.com/doctomoe2019/strix-dual-exp) · 个人维护
+⭐ 17 · C · MIT · 推送 2026-11-07 · [GitHub](https://github.com/doctomoe2019/strix-dual-exp) · 个人维护
 
 **双 AMD Strix Halo 主机经 USB4v2 做张量并行 LLM 推理的实验仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "doctomoe2019/strix-dual-exp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3 --> 12
-    line [4, 8, 9, 10, 11]
+    title "doctomoe2019/strix-dual-exp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 3 --> 18
+    line [4, 8, 9, 10, 11, 9, 17, 17]
 ```
 
-2026-10-18 4 → 2026-11-02 11（+7）
+2026-10-18 4 → 2026-11-17 17（+13）
 
 
 ---

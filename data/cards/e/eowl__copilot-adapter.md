@@ -1,6 +1,6 @@
 # eowl/copilot-adapter
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/eowl/copilot-adapter) · [官网](https://marketplace.visualstudio.com/items?itemName=Eowl.copilot-adapter) · 组织维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/eowl/copilot-adapter) · [官网](https://marketplace.visualstudio.com/items?itemName=Eowl.copilot-adapter) · 组织维护 · 中文 README
 
 **让 VS Code Copilot Chat 接入第三方大模型（自带 API key）的扩展**
 
@@ -45,13 +45,13 @@ VS Code 扩展，将 DeepSeek、MiniMax、Kimi/Moonshot、Qwen、智谱 GLM、�
 
 ```mermaid
 xychart-beta
-    title "eowl/copilot-adapter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [35, 34]
+    title "eowl/copilot-adapter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [35, 34, 35, 33, 33]
 ```
 
-2026-10-18 35 → 2026-11-02 34（-1）
+2026-10-18 35 → 2026-11-17 33（-2）
 
 
 ---

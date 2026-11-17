@@ -1,6 +1,6 @@
 # MicTx/spec-harness
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/MicTx/spec-harness) · 个人维护 · 中文 README
+⭐ 311 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/MicTx/spec-harness) · 个人维护 · 中文 README
 
 **面向 AI 编程智能体的任务包工作流工具，含 Git 门禁与验证链**
 
@@ -45,13 +45,13 @@ Spec Harness 为 AI 编程智能体提供跨会话的任务包工作流：在目
 
 ```mermaid
 xychart-beta
-    title "MicTx/spec-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 5 --> 33
-    line [7, 9, 10, 31]
+    title "MicTx/spec-harness 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 341
+    line [7, 9, 10, 31, 10, 285, 297, 300, 302, 307, 310, 311, 311]
 ```
 
-2026-10-18 7 → 2026-11-02 31（+24）
+2026-10-18 7 → 2026-11-17 311（+304）
 
 
 ---

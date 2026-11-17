@@ -1,6 +1,6 @@
 # cyrusbehr/tensorrt-cpp-api
 
-⭐ 812 · C++ · MIT · 推送 2026-05-30 · [GitHub](https://github.com/cyrusbehr/tensorrt-cpp-api) · 个人维护
+⭐ 813 · C++ · MIT · 推送 2026-05-30 · [GitHub](https://github.com/cyrusbehr/tensorrt-cpp-api) · 个人维护
 
 **面向 C++/Python 的 TensorRT 推理封装库：ONNX 转优化引擎并运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyrusbehr/tensorrt-cpp-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 810 --> 813
-    line [811, 812, 812]
+    title "cyrusbehr/tensorrt-cpp-api 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 810 --> 814
+    line [811, 812, 811, 812, 813, 813]
 ```
 
-2026-10-18 811 → 2026-11-02 812（+1）
+2026-10-18 811 → 2026-11-17 813（+2）
 
 
 ---

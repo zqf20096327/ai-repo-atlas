@@ -1,6 +1,6 @@
 # Nexa-Language/Skill-Compiler
 
-⭐ 24 · Rust · 推送 2026-07-10 · [GitHub](https://github.com/Nexa-Language/Skill-Compiler) · [官网](http://skcc.nexa-lang.com/) · 组织维护 · 中文 README
+⭐ 25 · Rust · 推送 2026-07-10 · [GitHub](https://github.com/Nexa-Language/Skill-Compiler) · [官网](http://skcc.nexa-lang.com/) · 组织维护 · 中文 README
 
 **把统一 SKILL.md 编译为多平台 Agent 技能的编译器**
 
@@ -45,13 +45,13 @@ SkCC 是用 Rust 实现的 LLM Agent 技能编译框架：通过 Syntax Parser �
 
 ```mermaid
 xychart-beta
-    title "Nexa-Language/Skill-Compiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "Nexa-Language/Skill-Compiler 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

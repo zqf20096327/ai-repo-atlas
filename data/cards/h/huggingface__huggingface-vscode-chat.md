@@ -1,6 +1,6 @@
 # huggingface/huggingface-vscode-chat
 
-⭐ 98 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/huggingface-vscode-chat) · 组织维护
+⭐ 99 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/huggingface-vscode-chat) · 组织维护
 
 **在 VS Code Copilot Chat 中接入 Hugging Face Inference Providers 的扩展**
 
@@ -43,13 +43,13 @@ Hugging Face 官方维护的 VS Code 扩展，将 Hugging Face Inference Provide
 
 ```mermaid
 xychart-beta
-    title "huggingface/huggingface-vscode-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "huggingface/huggingface-vscode-chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

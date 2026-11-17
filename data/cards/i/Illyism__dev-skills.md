@@ -1,6 +1,6 @@
 # Illyism/dev-skills
 
-⭐ 19 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/Illyism/dev-skills) · [官网](https://il.ly/skills) · 个人维护
+⭐ 25 · TypeScript · 推送 2026-11-12 · [GitHub](https://github.com/Illyism/dev-skills) · [官网](https://il.ly/skills) · 个人维护
 
 **面向 AI agent 的开发者与产品技能合集（SKILL.md 格式）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Illyism/dev-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 4 --> 20
-    line [5, 6, 15, 18, 19, 19]
+    title "Illyism/dev-skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 3 --> 27
+    line [5, 6, 15, 18, 19, 6, 21, 24, 25, 25]
 ```
 
-2026-10-18 5 → 2026-11-02 19（+14）
+2026-10-18 5 → 2026-11-17 25（+20）
 
 
 ---

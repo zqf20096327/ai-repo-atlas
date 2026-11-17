@@ -1,6 +1,6 @@
 # mwasifanwar/eduadapt-ai
 
-⭐ 26 · Python · 推送 2025-11-07 · [GitHub](https://github.com/mwasifanwar/eduadapt-ai) · [官网](https://mwasif.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自适应学习平台：按学生表现与学习风格个性化推荐学习路径**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mwasifanwar/eduadapt-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-07 26（+0）
 
 
 ---

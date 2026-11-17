@@ -1,6 +1,6 @@
 # Yunado/dsh-qwen38-local-qol
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Yunado/dsh-qwen38-local-qol) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Yunado/dsh-qwen38-local-qol) · 个人维护 · 中文 README
 
 **本地运行 Qwen3.8 系列的 DeepSeek Harness QoL 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yunado/dsh-qwen38-local-qol 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "Yunado/dsh-qwen38-local-qol 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 27
+    line [20, 21, 22, 20, 25, 26, 26]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 26（+6）
 
 
 ---

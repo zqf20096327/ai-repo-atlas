@@ -1,6 +1,6 @@
 # r266-tech/agent-access
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/r266-tech/agent-access) · 组织维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/r266-tech/agent-access) · 组织维护 · 中文 README
 
 **给中文 agent 的访问层：把网站/App/API 沉淀为 agent-native CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "r266-tech/agent-access 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "r266-tech/agent-access 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

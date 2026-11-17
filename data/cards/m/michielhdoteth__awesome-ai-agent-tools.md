@@ -1,6 +1,6 @@
 # michielhdoteth/awesome-ai-agent-tools
 
-⭐ 55 · JavaScript · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/michielhdoteth/awesome-ai-agent-tools) · [官网](https://awesome-ai-agent-tools.vercel.app) · 个人维护
+⭐ 66 · JavaScript · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/michielhdoteth/awesome-ai-agent-tools) · [官网](https://awesome-ai-agent-tools.vercel.app) · 个人维护
 
 **AI 编程助手可安装组件的策展清单（644 项，8 类）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "michielhdoteth/awesome-ai-agent-tools 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 41 --> 56
-    line [42, 43, 44, 47, 46, 48, 51, 52, 53, 54, 55]
+    title "michielhdoteth/awesome-ai-agent-tools 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 40 --> 68
+    line [42, 43, 44, 47, 46, 48, 51, 52, 53, 54, 55, 44, 62, 64, 65, 66, 66]
 ```
 
-2026-10-18 42 → 2026-11-02 55（+13）
+2026-10-18 42 → 2026-11-17 66（+24）
 
 
 ---

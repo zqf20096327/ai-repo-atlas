@@ -1,6 +1,6 @@
 # zakuro-ai/sakura
 
-⭐ 18 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/zakuro-ai/sakura) · 组织维护
+⭐ 18 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/zakuro-ai/sakura) · [官网](https://docs.zakuro-ai.com/sakura/overview) · 组织维护
 
 **面向 PyTorch/Lightning/HF Trainer 的异步分布式训练加速库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zakuro-ai/sakura 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

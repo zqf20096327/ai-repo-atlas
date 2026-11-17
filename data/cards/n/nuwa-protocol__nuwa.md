@@ -1,6 +1,6 @@
 # nuwa-protocol/nuwa
 
-⭐ 48 · TypeScript · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/nuwa-protocol/nuwa) · [官网](https://nuwa.dev) · 组织维护
+⭐ 47 · TypeScript · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/nuwa-protocol/nuwa) · [官网](https://nuwa.dev) · 组织维护
 
 **Nuwa 协议 monorepo：DID 认证与加密货币支付的 AI agent 平台**
 
@@ -43,13 +43,13 @@ Nuwa 是一个 monorepo，包含 AI 平台的协议规范与产品组件：用�
 
 ```mermaid
 xychart-beta
-    title "nuwa-protocol/nuwa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "nuwa-protocol/nuwa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [48, 47, 47]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 47（-1）
 
 
 ---

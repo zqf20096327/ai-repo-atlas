@@ -1,6 +1,6 @@
 # yakupzengin/fitness-trainer-pose-estimation
 
-⭐ 111 · Python · MIT · 推送 2026-02-19 · [GitHub](https://github.com/yakupzengin/fitness-trainer-pose-estimation) · 个人维护
+⭐ 113 · Python · MIT · 推送 2026-02-19 · [GitHub](https://github.com/yakupzengin/fitness-trainer-pose-estimation) · 个人维护
 
 **基于姿态估计的健身训练 Web 应用：计数、评分、实时纠正**
 
@@ -44,13 +44,13 @@ Flask + OpenCV + MediaPipe 实现的 Web 健身追踪应用：通过摄像头实
 
 ```mermaid
 xychart-beta
-    title "yakupzengin/fitness-trainer-pose-estimation 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 105 --> 112
-    line [106, 108, 109, 110, 111, 111]
+    title "yakupzengin/fitness-trainer-pose-estimation 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 105 --> 114
+    line [106, 108, 109, 110, 111, 110, 112, 113, 113]
 ```
 
-2026-10-18 106 → 2026-11-02 111（+5）
+2026-10-18 106 → 2026-11-17 113（+7）
 
 
 ---

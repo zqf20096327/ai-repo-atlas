@@ -1,6 +1,6 @@
 # jmstajim/NanoTeams
 
-⭐ 34 · Swift · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jmstajim/NanoTeams) · [官网](https://github.com/jmstajim/NanoTeams/releases/) · 个人维护
+⭐ 35 · Swift · MIT · 推送 2026-11-14 · [GitHub](https://github.com/jmstajim/NanoTeams) · [官网](https://github.com/jmstajim/NanoTeams/releases/) · 个人维护
 
 **macOS 本地多智能体 AI 编码团队应用，全程离线运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jmstajim/NanoTeams 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "jmstajim/NanoTeams 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

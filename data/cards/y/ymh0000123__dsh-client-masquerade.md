@@ -1,6 +1,6 @@
 # ymh0000123/dsh-client-masquerade
 
-⭐ 13 · JavaScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/ymh0000123/dsh-client-masquerade) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/ymh0000123/dsh-client-masquerade) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：让自定义 provider 伪装成 Claude Code/Codex 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ymh0000123/dsh-client-masquerade 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "ymh0000123/dsh-client-masquerade 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

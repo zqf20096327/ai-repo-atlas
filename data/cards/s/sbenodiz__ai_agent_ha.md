@@ -1,6 +1,6 @@
 # sbenodiz/ai_agent_ha
 
-⭐ 169 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sbenodiz/ai_agent_ha) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sbenodiz/ai_agent_ha) · 个人维护
 
 **Home Assistant 集成：用自然语言生成自动化与仪表盘的 AI agent**
 
@@ -46,13 +46,13 @@ Home Assistant 自定义组件，将实例连接到多种 AI 提供商（OpenAI�
 
 ```mermaid
 xychart-beta
-    title "sbenodiz/ai_agent_ha 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 166 --> 170
-    line [167, 168, 169]
+    title "sbenodiz/ai_agent_ha 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 166 --> 173
+    line [167, 168, 169, 167, 170, 171, 172, 172]
 ```
 
-2026-10-18 167 → 2026-11-02 169（+2）
+2026-10-18 167 → 2026-11-17 172（+5）
 
 
 ---

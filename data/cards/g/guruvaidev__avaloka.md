@@ -1,6 +1,6 @@
 # guruvaidev/avaloka
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/guruvaidev/avaloka) · [官网](https://www.avaloka.ai) · 组织维护
+⭐ 140 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/guruvaidev/avaloka) · [官网](https://www.avaloka.ai) · 组织维护
 
 **多 Agent 数据科学平台：从原始数据到训练并部署模型，含自检证据层**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "guruvaidev/avaloka 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "guruvaidev/avaloka 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 4 --> 152
+    line [16, 17, 16, 18, 90, 106, 121, 132, 136, 139, 140, 140]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 140（+124）
 
 
 ---

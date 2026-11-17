@@ -1,6 +1,6 @@
 # shouvik12/trooper
 
-⭐ 33 · Go · 推送 2026-06-18 · [GitHub](https://github.com/shouvik12/trooper) · 个人维护
+⭐ 34 · Go · 推送 2026-06-18 · [GitHub](https://github.com/shouvik12/trooper) · 个人维护
 
 **给开发者：本地优先的 LLM 代理与聊天界面，带降级链**
 
@@ -44,13 +44,13 @@ Go 编写的本地 LLM 网关与工作台：代理请求并在 Claude/Gemini/Ope
 
 ```mermaid
 xychart-beta
-    title "shouvik12/trooper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "shouvik12/trooper 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    line [34, 33, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

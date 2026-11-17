@@ -1,6 +1,6 @@
 # aradlein/hass-agent-llm
 
-⭐ 48 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/aradlein/hass-agent-llm) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aradlein/hass-agent-llm) · 个人维护
 
 **Home Assistant 对话 AI 组件：接入 OpenAI 兼容 LLM 控制智能家居**
 
@@ -46,12 +46,12 @@ Home Assistant 自定义组件，扩展原生对话平台：通过任意 OpenAI 
 ```mermaid
 xychart-beta
     title "aradlein/hass-agent-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 48（+0）
 
 
 ---

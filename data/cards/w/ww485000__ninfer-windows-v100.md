@@ -1,6 +1,6 @@
 # ww485000/ninfer-windows-v100
 
-⭐ 11 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/ww485000/ninfer-windows-v100) · 个人维护 · 中文 README
+⭐ 13 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/ww485000/ninfer-windows-v100) · 个人维护 · 中文 README
 
 **面向单卡 Tesla V100 32GB 的 Windows 推理运行时移植**
 
@@ -45,13 +45,13 @@ NInfer 的 Windows 专用移植，目标平台锁定为一块 NVIDIA Tesla V100 
 
 ```mermaid
 xychart-beta
-    title "ww485000/ninfer-windows-v100 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "ww485000/ninfer-windows-v100 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

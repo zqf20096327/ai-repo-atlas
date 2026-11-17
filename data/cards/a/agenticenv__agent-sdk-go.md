@@ -1,6 +1,6 @@
 # agenticenv/agent-sdk-go
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/agenticenv/agent-sdk-go) · [官网](https://docs.agenticenv.ai/) · 组织维护
+⭐ 66 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/agenticenv/agent-sdk-go) · [官网](https://docs.agenticenv.ai/) · 组织维护
 
 **Go 语言 AI agent 持久化执行 SDK：崩溃后恢复 agent 运行状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenticenv/agent-sdk-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 58 --> 63
-    line [59, 61, 62, 62]
+    title "agenticenv/agent-sdk-go 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 58 --> 67
+    line [59, 61, 62, 61, 63, 64, 66, 66]
 ```
 
-2026-10-18 59 → 2026-11-02 62（+3）
+2026-10-18 59 → 2026-11-17 66（+7）
 
 
 ---

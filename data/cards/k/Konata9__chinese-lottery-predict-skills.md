@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Konata9/chinese-lottery-predict-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "Konata9/chinese-lottery-predict-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 34, 36, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

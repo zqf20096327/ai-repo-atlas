@@ -1,6 +1,6 @@
 # BelyaevAD/TextTools
 
-⭐ 13 · AutoHotkey · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BelyaevAD/TextTools) · [官网](https://belyaevad.github.io/TextTools/) · 个人维护
+⭐ 13 · Kotlin · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BelyaevAD/TextTools) · [官网](https://belyaevad.github.io/TextTools/) · 个人维护
 
 **Windows 选中文本的 LLM 处理热键工具（校对/改写/压缩等）**
 
@@ -45,12 +45,12 @@ AutoHotkey v2 编写的 Windows 桌面脚本：在任意窗口选中文本后按
 ```mermaid
 xychart-beta
     title "BelyaevAD/TextTools 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
+    x-axis ["2026-10-26", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-26 13 → 2026-11-02 13（+0）
+2026-10-26 13 → 2026-11-17 13（+0）
 
 
 ---

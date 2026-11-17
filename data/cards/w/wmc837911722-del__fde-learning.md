@@ -1,6 +1,6 @@
 # wmc837911722-del/fde-learning
 
-⭐ 34 · JavaScript · 推送 2026-09-12 · [GitHub](https://github.com/wmc837911722-del/fde-learning) · [官网](https://wmc837911722-del.github.io/fde-learning/) · 个人维护 · 中文 README
+⭐ 36 · JavaScript · 推送 2026-09-12 · [GitHub](https://github.com/wmc837911722-del/fde-learning) · [官网](https://wmc837911722-del.github.io/fde-learning/) · 个人维护 · 中文 README
 
 **24 周中文 FDE（前沿部署工程师）成长教程与模板仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wmc837911722-del/fde-learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 28 --> 35
-    line [29, 30, 31, 32, 33, 34, 34]
+    title "wmc837911722-del/fde-learning 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 28 --> 37
+    line [29, 30, 31, 32, 33, 34, 30, 35, 36, 36]
 ```
 
-2026-10-18 29 → 2026-11-02 34（+5）
+2026-10-18 29 → 2026-11-17 36（+7）
 
 
 ---

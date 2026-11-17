@@ -1,6 +1,6 @@
 # bostonaholic/rpikit
 
-⭐ 20 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bostonaholic/rpikit) · [官网](https://bostonaholic.github.io/rpikit/) · 个人维护
+⭐ 19 · Shell · MIT · 推送 2026-11-09 · [GitHub](https://github.com/bostonaholic/rpikit) · [官网](https://bostonaholic.github.io/rpikit/) · 个人维护
 
 **Claude Code 插件：Research-Plan-Implement 结构化开发工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bostonaholic/rpikit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "bostonaholic/rpikit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

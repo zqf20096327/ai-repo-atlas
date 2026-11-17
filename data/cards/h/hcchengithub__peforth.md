@@ -1,6 +1,6 @@
 # hcchengithub/peforth
 
-⭐ 37 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hcchengithub/peforth) · [官网](https://hcchengithub.github.io/peforth/) · 个人维护 · 中文 README
+⭐ 37 · Python · 推送 2026-11-14 · [GitHub](https://github.com/hcchengithub/peforth) · [官网](https://hcchengithub.github.io/peforth/) · 个人维护 · 中文 README
 
 **AI 辅助的 Python 宿主 Forth 环境：REPL 中用 AI 帮写并执行 Forth**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hcchengithub/peforth 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
+    x-axis ["2026-10-26", "2026-11-17"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-26 37 → 2026-11-02 37（+0）
+2026-10-26 37 → 2026-11-17 37（+0）
 
 
 ---

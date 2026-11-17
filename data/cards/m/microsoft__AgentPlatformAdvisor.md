@@ -1,6 +1,6 @@
 # microsoft/AgentPlatformAdvisor
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/AgentPlatformAdvisor) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/microsoft/AgentPlatformAdvisor) · 组织维护
 
 **微软 Agent 平台选型向导：静态网页帮你选 Copilot/Studio/Foundry**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AgentPlatformAdvisor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

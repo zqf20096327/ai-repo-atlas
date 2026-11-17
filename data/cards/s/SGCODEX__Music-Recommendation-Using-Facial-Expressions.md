@@ -1,6 +1,6 @@
 # SGCODEX/Music-Recommendation-Using-Facial-Expressions
 
-⭐ 60 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) · [官网](https://music-recommendation-using-facial-expressions-latest.streamlit.app/) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) · [官网](https://music-recommendation-using-facial-expressions-latest.streamlit.app/) · 个人维护
 
 **基于摄像头表情识别的情绪音乐推荐应用**
 
@@ -44,13 +44,13 @@ Python 应用：用 OpenCV 从摄像头实时检测人脸，再用预训练深�
 
 ```mermaid
 xychart-beta
-    title "SGCODEX/Music-Recommendation-Using-Facial-Expressions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "SGCODEX/Music-Recommendation-Using-Facial-Expressions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

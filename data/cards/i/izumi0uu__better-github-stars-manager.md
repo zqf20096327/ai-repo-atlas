@@ -1,6 +1,6 @@
 # izumi0uu/better-github-stars-manager
 
-⭐ 248 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/izumi0uu/better-github-stars-manager) · [官网](https://betterstars.app) · 个人维护 · 中文 README
+⭐ 255 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/izumi0uu/better-github-stars-manager) · [官网](https://betterstars.app) · 个人维护 · 中文 README
 
 **管理 GitHub Stars 的 Chrome 扩展：搜索、标签、笔记与筛选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "izumi0uu/better-github-stars-manager 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 239 --> 249
-    line [240, 241, 245, 246, 247, 248, 248]
+    title "izumi0uu/better-github-stars-manager 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 239 --> 256
+    line [240, 241, 245, 246, 247, 248, 241, 249, 251, 252, 253, 254, 255, 255]
 ```
 
-2026-10-18 240 → 2026-11-02 248（+8）
+2026-10-18 240 → 2026-11-17 255（+15）
 
 
 ---

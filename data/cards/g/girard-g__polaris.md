@@ -1,6 +1,6 @@
 # girard-g/polaris
 
-⭐ 26 · Rust · MIT · 推送 2026-10-06 · [GitHub](https://github.com/girard-g/polaris) · [官网](https://polarismcp.com/) · 个人维护
+⭐ 27 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/girard-g/polaris) · [官网](https://polarismcp.com/) · 个人维护
 
 **给编程 Agent 用的本地 RAG/MCP 语义文档搜索服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "girard-g/polaris 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "girard-g/polaris 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

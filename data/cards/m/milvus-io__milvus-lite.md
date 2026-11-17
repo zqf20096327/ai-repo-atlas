@@ -1,6 +1,6 @@
 # milvus-io/milvus-lite
 
-⭐ 464 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/milvus-io/milvus-lite) · 组织维护
+⭐ 466 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/milvus-io/milvus-lite) · 组织维护
 
 **本地开发测试用的轻量级 Milvus 向量数据库（纯 Python）**
 
@@ -45,13 +45,13 @@ Milvus 的轻量级纯 Python 实现，面向本地开发、notebook、测试与
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-lite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 463 --> 466
-    line [465, 464, 464]
+    title "milvus-io/milvus-lite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 463 --> 467
+    line [465, 464, 466, 466]
 ```
 
-2026-10-18 465 → 2026-11-02 464（-1）
+2026-10-18 465 → 2026-11-17 466（+1）
 
 
 ---

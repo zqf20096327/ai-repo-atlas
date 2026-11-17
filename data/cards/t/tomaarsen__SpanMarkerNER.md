@@ -1,6 +1,6 @@
 # tomaarsen/SpanMarkerNER
 
-⭐ 475 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/tomaarsen/SpanMarkerNER) · [官网](https://tomaarsen.github.io/SpanMarkerNER/) · 个人维护
+⭐ 476 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/tomaarsen/SpanMarkerNER) · [官网](https://tomaarsen.github.io/SpanMarkerNER/) · 个人维护
 
 **基于 Transformers 的命名实体识别模型训练框架**
 
@@ -44,13 +44,13 @@ SpanMarker 是构建在 🤗 Transformers 之上的命名实体识别（NER）�
 
 ```mermaid
 xychart-beta
-    title "tomaarsen/SpanMarkerNER 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "tomaarsen/SpanMarkerNER 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 474 --> 477
-    line [476, 475, 475]
+    line [476, 475, 476, 475, 476, 476]
 ```
 
-2026-10-18 476 → 2026-11-02 475（-1）
+2026-10-18 476 → 2026-11-17 476（+0）
 
 
 ---

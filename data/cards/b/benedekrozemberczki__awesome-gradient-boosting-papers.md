@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-gradient-boosting-papers
 
-⭐ 1,053 · Python · CC0-1.0 · 推送 2026-01-05 · [GitHub](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) · 个人维护
+⭐ 1,054 · Python · CC0-1.0 · 推送 2026-01-05 · [GitHub](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) · 个人维护
 
 **梯度提升研究论文策展清单，按会议与年份组织并附代码链接**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "benedekrozemberczki/awesome-gradient-boosting-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1052 --> 1054
-    line [1053, 1053]
+    title "benedekrozemberczki/awesome-gradient-boosting-papers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1052 --> 1055
+    line [1053, 1054, 1054]
 ```
 
-2026-10-18 1,053 → 2026-11-02 1,053（+0）
+2026-10-18 1,053 → 2026-11-17 1,054（+1）
 
 
 ---

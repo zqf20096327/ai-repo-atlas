@@ -1,6 +1,6 @@
 # EmuKit/emukit
 
-⭐ 679 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/EmuKit/emukit) · [官网](https://emukit.github.io/emukit/) · 组织维护
+⭐ 682 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/EmuKit/emukit) · [官网](https://emukit.github.io/emukit/) · 组织维护
 
 **不确定性下决策的 Python 工具箱：贝叶斯优化、实验设计等**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EmuKit/emukit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 676 --> 680
-    line [677, 678, 679, 679]
+    title "EmuKit/emukit 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 676 --> 683
+    line [677, 678, 679, 678, 680, 681, 682, 682]
 ```
 
-2026-10-18 677 → 2026-11-02 679（+2）
+2026-10-18 677 → 2026-11-17 682（+5）
 
 
 ---

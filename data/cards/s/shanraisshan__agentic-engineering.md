@@ -1,6 +1,6 @@
 # shanraisshan/agentic-engineering
 
-⭐ 24 · Python · 推送 2026-05-08 · [GitHub](https://github.com/shanraisshan/agentic-engineering) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
+⭐ 27 · Python · 推送 2026-05-08 · [GitHub](https://github.com/shanraisshan/agentic-engineering) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
 **AI 编码时代“代码是否重要”的辩论视频策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/agentic-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "shanraisshan/agentic-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

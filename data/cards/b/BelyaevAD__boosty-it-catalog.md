@@ -1,6 +1,6 @@
 # BelyaevAD/boosty-it-catalog
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/BelyaevAD/boosty-it-catalog) · [官网](https://belyaevad.github.io/boosty-it-catalog/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BelyaevAD/boosty-it-catalog) · [官网](https://belyaevad.github.io/boosty-it-catalog/) · 个人维护
 
 **俄语 IT 付费频道开放目录：发现与比较 Boosty 上的订阅制频道**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BelyaevAD/boosty-it-catalog 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "BelyaevAD/boosty-it-catalog 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [14, 13, 13]
 ```
 
-2026-10-26 14 → 2026-11-02 14（+0）
+2026-10-26 14 → 2026-11-17 13（-1）
 
 
 ---

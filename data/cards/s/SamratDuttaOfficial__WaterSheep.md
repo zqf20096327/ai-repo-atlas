@@ -1,6 +1,6 @@
 # SamratDuttaOfficial/WaterSheep
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/SamratDuttaOfficial/WaterSheep) · [官网](https://samratduttaofficial.github.io/WaterSheep/) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/SamratDuttaOfficial/WaterSheep) · [官网](https://samratduttaofficial.github.io/WaterSheep/) · 个人维护
 
 **文本决策模型：对任意文本输出带概率的校准判定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SamratDuttaOfficial/WaterSheep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

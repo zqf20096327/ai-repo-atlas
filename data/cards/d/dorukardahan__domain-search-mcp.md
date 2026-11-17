@@ -1,6 +1,6 @@
 # dorukardahan/domain-search-mcp
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/dorukardahan/domain-search-mcp) · [官网](https://www.npmjs.com/package/domain-search-mcp) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/dorukardahan/domain-search-mcp) · [官网](https://www.npmjs.com/package/domain-search-mcp) · 个人维护
 
 **零配置域名可用性查询与命名评分 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dorukardahan/domain-search-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

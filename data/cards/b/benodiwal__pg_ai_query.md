@@ -1,6 +1,6 @@
 # benodiwal/pg_ai_query
 
-⭐ 248 · C++ · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/benodiwal/pg_ai_query) · [官网](https://benodiwal.github.io/pg_ai_query/) · 个人维护
+⭐ 250 · C++ · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/benodiwal/pg_ai_query) · [官网](https://benodiwal.github.io/pg_ai_query/) · 个人维护
 
 **PostgreSQL 扩展：自然语言生成 SQL 并做查询性能分析**
 
@@ -44,13 +44,13 @@ C++ 编写的 PostgreSQL 扩展，提供 generate_query 与 explain_query 函数
 
 ```mermaid
 xychart-beta
-    title "benodiwal/pg_ai_query 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 246 --> 249
-    line [247, 248, 248]
+    title "benodiwal/pg_ai_query 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 246 --> 251
+    line [247, 248, 247, 250, 250]
 ```
 
-2026-10-18 247 → 2026-11-02 248（+1）
+2026-10-18 247 → 2026-11-17 250（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ParisNeo/lollms_hub
 
-⭐ 649 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/ParisNeo/lollms_hub) · 个人维护
+⭐ 650 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/ParisNeo/lollms_hub) · 个人维护
 
 **多 AI 后端统一代理网关：安全、路由与负载均衡**
 
@@ -44,13 +44,13 @@ LoLLMs Hub 是聚合多种推理后端的 API 网关：将 Ollama、vLLM、llama
 
 ```mermaid
 xychart-beta
-    title "ParisNeo/lollms_hub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "ParisNeo/lollms_hub 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 648 --> 651
-    line [649, 650, 649, 650, 649, 649]
+    line [649, 650, 649, 650, 649, 650, 649, 650, 650]
 ```
 
-2026-10-18 649 → 2026-11-02 649（+0）
+2026-10-18 649 → 2026-11-17 650（+1）
 
 
 ---

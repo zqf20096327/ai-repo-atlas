@@ -1,6 +1,6 @@
 # thecodacus/rendiv
 
-⭐ 160 · TypeScript · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/thecodacus/rendiv) · [官网](https://thecodacus.github.io/rendiv/) · 个人维护
+⭐ 168 · TypeScript · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/thecodacus/rendiv) · [官网](https://thecodacus.github.io/rendiv/) · 个人维护
 
 **面向 AI agent 的代码式视频创作框架：React+TS 写视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thecodacus/rendiv 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 154 --> 161
-    line [155, 156, 157, 158, 159, 160, 160]
+    title "thecodacus/rendiv 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 154 --> 169
+    line [155, 156, 157, 158, 159, 160, 156, 166, 167, 168, 168]
 ```
 
-2026-10-18 155 → 2026-11-02 160（+5）
+2026-10-18 155 → 2026-11-17 168（+13）
 
 
 ---

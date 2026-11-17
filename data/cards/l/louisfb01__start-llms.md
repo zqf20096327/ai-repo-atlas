@@ -1,6 +1,6 @@
 # louisfb01/start-llms
 
-⭐ 988 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-llms) · [官网](https://www.louisbouchard.ai/from-zero-to-hero-with-llms/) · 个人维护
+⭐ 989 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-llms) · [官网](https://www.louisbouchard.ai/from-zero-to-hero-with-llms/) · 个人维护
 
 **面向初学者的免费 LLM 学习路线资源清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "louisfb01/start-llms 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 983 --> 989
-    line [984, 985, 984, 985, 986, 987, 988, 988]
+    title "louisfb01/start-llms 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 983 --> 990
+    line [984, 985, 984, 985, 986, 987, 988, 984, 989, 989]
 ```
 
-2026-10-18 984 → 2026-11-02 988（+4）
+2026-10-18 984 → 2026-11-17 989（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # relatehq/relate
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/relatehq/relate) · [官网](https://relatehq.dev) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/relatehq/relate) · [官网](https://relatehq.dev) · 组织维护
 
 **TypeScript 业务数据建模库：带权限与证据的统一读取 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "relatehq/relate 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 20
-    line [12, 13, 15, 16, 17, 19, 19]
+    title "relatehq/relate 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 22
+    line [12, 13, 15, 16, 17, 19, 16, 21, 21]
 ```
 
-2026-10-18 12 → 2026-11-02 19（+7）
+2026-10-18 12 → 2026-11-17 21（+9）
 
 
 ---

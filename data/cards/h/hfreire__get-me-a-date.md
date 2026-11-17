@@ -1,6 +1,6 @@
 # hfreire/get-me-a-date
 
-⭐ 327 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/hfreire/get-me-a-date) · 个人维护
+⭐ 329 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/hfreire/get-me-a-date) · 个人维护
 
 **用 AWS 识图自动给交友软件推荐点赞/点踩的机器人**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hfreire/get-me-a-date 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 325 --> 328
-    line [326, 327, 326, 327, 327]
+    title "hfreire/get-me-a-date 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 325 --> 330
+    line [326, 327, 326, 327, 328, 329, 329]
 ```
 
-2026-10-18 326 → 2026-11-02 327（+1）
+2026-10-18 326 → 2026-11-17 329（+3）
 
 
 ---

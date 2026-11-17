@@ -1,6 +1,6 @@
 # wheattoast11/openrouter-deep-research-mcp
 
-⭐ 55 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/wheattoast11/openrouter-deep-research-mcp) · [官网](https://terminals.tech) · 个人维护
+⭐ 56 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/wheattoast11/openrouter-deep-research-mcp) · [官网](https://terminals.tech) · 个人维护
 
 **面向多智能体深度研究的 MCP 服务器，经 OpenRouter 调度多模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wheattoast11/openrouter-deep-research-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 53 --> 56
-    line [55, 54, 55, 55]
+    title "wheattoast11/openrouter-deep-research-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 53 --> 57
+    line [55, 54, 55, 54, 55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

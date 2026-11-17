@@ -1,6 +1,6 @@
 # VerdGard/InterGate
 
-⭐ 13 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/VerdGard/InterGate) · 个人维护 · 中文 README
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/VerdGard/InterGate) · 个人维护 · 中文 README
 
 **自托管 AI API 中转网关：统一管理多厂商 Key 并做负载均衡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VerdGard/InterGate 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "VerdGard/InterGate 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-11-01 13 → 2026-11-02 13（+0）
+2026-11-01 13 → 2026-11-17 12（-1）
 
 
 ---

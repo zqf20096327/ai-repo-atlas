@@ -1,6 +1,6 @@
 # utcsilab/score-based-channels
 
-⭐ 143 · Python · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/utcsilab/score-based-channels) · 组织维护
+⭐ 144 · Python · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/utcsilab/score-based-channels) · 组织维护
 
 **基于扩散模型的 MIMO 信道估计论文源码，供科研复现**
 
@@ -46,13 +46,13 @@ IEEE TWC 论文 "MIMO Channel Estimation using Score-Based Generative Models" �
 
 ```mermaid
 xychart-beta
-    title "utcsilab/score-based-channels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    title "utcsilab/score-based-channels 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 142 --> 145
+    line [143, 144, 144]
 ```
 
-2026-10-18 143 → 2026-11-02 143（+0）
+2026-10-18 143 → 2026-11-17 144（+1）
 
 
 ---

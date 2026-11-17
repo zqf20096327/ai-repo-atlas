@@ -1,6 +1,6 @@
 # tinyhumansai/tinymemory
 
-⭐ 11 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/tinyhumansai/tinymemory) · 组织维护
+⭐ 12 · Rust · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/tinyhumansai/tinymemory) · 组织维护
 
 **面向 Agent 的标准化记忆层：可插拔引擎上的存取与召回**
 
@@ -45,13 +45,13 @@ Rust 工作区形式的记忆系统，由 tinymemory-api（契约）、tinymemor
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/tinymemory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "tinyhumansai/tinymemory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

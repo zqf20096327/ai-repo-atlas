@@ -1,6 +1,6 @@
 # alexjungaalto/FederatedLearning
 
-⭐ 209 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/alexjungaalto/FederatedLearning) · [官网](https://github.com/alexjungaalto/FederatedLearning) · 组织维护
+⭐ 212 · Jupyter Notebook · 推送 2026-11-12 · [GitHub](https://github.com/alexjungaalto/FederatedLearning) · [官网](https://github.com/alexjungaalto/FederatedLearning) · 组织维护
 
 **阿尔托大学联邦学习硕士课程的开源教学资料库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexjungaalto/FederatedLearning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 208 --> 210
-    line [209, 209]
+    title "alexjungaalto/FederatedLearning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 208 --> 213
+    line [209, 210, 211, 212, 212]
 ```
 
-2026-10-18 209 → 2026-11-02 209（+0）
+2026-10-18 209 → 2026-11-17 212（+3）
 
 
 ---

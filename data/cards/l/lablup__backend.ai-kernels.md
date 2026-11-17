@@ -1,6 +1,6 @@
 # lablup/backend.ai-kernels
 
-⭐ 35 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/lablup/backend.ai-kernels) · [官网](https://www.backend.ai) · 组织维护
+⭐ 34 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/lablup/backend.ai-kernels) · [官网](https://www.backend.ai) · 组织维护
 
 **Backend.AI 容器内核配方仓库：多语言与深度学习镜像清单**
 
@@ -44,13 +44,13 @@ Lablup 维护的 Backend.AI agent 内核容器配方仓库，列出官方支持�
 
 ```mermaid
 xychart-beta
-    title "lablup/backend.ai-kernels 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "lablup/backend.ai-kernels 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    line [34, 35, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Agent-FM/agentfm-core
 
-⭐ 138 · JavaScript · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/Agent-FM/agentfm-core) · [官网](https://agentfm.net) · 组织维护
+⭐ 139 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Agent-FM/agentfm-core) · [官网](https://agentfm.net) · 组织维护
 
 **将闲置电脑组成 P2P 网格以分发运行 AI agent 的去中心化运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agent-FM/agentfm-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 137 --> 139
-    line [138, 138]
+    title "Agent-FM/agentfm-core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 137 --> 140
+    line [138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-11-02 138（+0）
+2026-10-18 138 → 2026-11-17 139（+1）
 
 
 ---

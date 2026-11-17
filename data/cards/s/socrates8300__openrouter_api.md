@@ -1,6 +1,6 @@
 # socrates8300/openrouter_api
 
-⭐ 33 · Rust · MIT · 推送 2026-08-12 · [GitHub](https://github.com/socrates8300/openrouter_api) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-08-12 · [GitHub](https://github.com/socrates8300/openrouter_api) · 个人维护
 
 **Rust 开发者的 OpenRouter API 客户端库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "socrates8300/openrouter_api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "socrates8300/openrouter_api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

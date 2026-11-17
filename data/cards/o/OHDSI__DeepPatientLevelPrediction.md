@@ -1,6 +1,6 @@
 # OHDSI/DeepPatientLevelPrediction
 
-⭐ 16 · R · 推送 2026-10-09 · [GitHub](https://github.com/OHDSI/DeepPatientLevelPrediction) · [官网](https://ohdsi.github.io/DeepPatientLevelPrediction) · 组织维护
+⭐ 17 · R · 推送 2026-11-13 · [GitHub](https://github.com/OHDSI/DeepPatientLevelPrediction) · [官网](https://ohdsi.github.io/DeepPatientLevelPrediction) · 组织维护
 
 **医疗观察数据上构建深度学习患者级预测模型的 R 包**
 
@@ -44,13 +44,13 @@ OHDSI 生态的 R 包，在 OMOP Common Data Model 格式的观察性医疗数�
 
 ```mermaid
 xychart-beta
-    title "OHDSI/DeepPatientLevelPrediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "OHDSI/DeepPatientLevelPrediction 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

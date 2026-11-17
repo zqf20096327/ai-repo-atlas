@@ -1,6 +1,6 @@
 # Promethe-us/awesome-jev
 
-⭐ 149 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Promethe-us/awesome-jev) · [官网](https://promethe-us.github.io/awesome-jev/) · 个人维护 · 中文 README
+⭐ 149 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Promethe-us/awesome-jev) · [官网](https://promethe-us.github.io/awesome-jev/) · 个人维护 · 中文 README
 
 **Jev/System One 决策模型的资源清单：项目、论文、评测与社区线索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Promethe-us/awesome-jev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "Promethe-us/awesome-jev 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 146 --> 159
-    line [158, 147, 148, 149, 149]
+    line [158, 147, 148, 149, 148, 149, 149]
 ```
 
-2026-10-18 158 → 2026-11-02 149（-9）
+2026-10-18 158 → 2026-11-17 149（-9）
 
 
 ---

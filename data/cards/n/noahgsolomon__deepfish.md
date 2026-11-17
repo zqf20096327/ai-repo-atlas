@@ -1,6 +1,6 @@
 # noahgsolomon/deepfish
 
-⭐ 99 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/noahgsolomon/deepfish) · [官网](https://deepfi.sh) · 个人维护
+⭐ 98 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/noahgsolomon/deepfish) · [官网](https://deepfi.sh) · 个人维护
 
 **面向用户的可视化 AI 工作流编排平台，接入 Fal.ai 与 Replicate**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "noahgsolomon/deepfish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    title "noahgsolomon/deepfish 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [99, 98, 98]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 98（-1）
 
 
 ---

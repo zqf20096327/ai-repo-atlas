@@ -1,6 +1,6 @@
 # kirill-markin/chatgpt-telegram-bot-telegraf
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kirill-markin/chatgpt-telegram-bot-telegraf) · [官网](https://t.me/chat_gpt_ai_open_source_bot) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/kirill-markin/chatgpt-telegram-bot-telegraf) · [官网](https://t.me/chat_gpt_ai_open_source_bot) · 个人维护
 
 **开源 ChatGPT Telegram 机器人，支持文字/语音/图片问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kirill-markin/chatgpt-telegram-bot-telegraf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "kirill-markin/chatgpt-telegram-bot-telegraf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

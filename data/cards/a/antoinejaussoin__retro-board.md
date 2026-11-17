@@ -1,6 +1,6 @@
 # antoinejaussoin/retro-board
 
-⭐ 816 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/antoinejaussoin/retro-board) · [官网](https://www.retrospected.com) · 个人维护
+⭐ 816 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/antoinejaussoin/retro-board) · [官网](https://www.retrospected.com) · 个人维护
 
 **面向工程团队的实时敏捷回顾看板，附带 AI 敏捷教练**
 
@@ -45,13 +45,13 @@ Retrospected 是一个实时协作的敏捷回顾（Retrospective）看板，支
 
 ```mermaid
 xychart-beta
-    title "antoinejaussoin/retro-board 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "antoinejaussoin/retro-board 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 815 --> 818
-    line [817, 816, 816]
+    line [817, 816, 817, 816, 816]
 ```
 
-2026-10-18 817 → 2026-11-02 816（-1）
+2026-10-18 817 → 2026-11-17 816（-1）
 
 
 ---

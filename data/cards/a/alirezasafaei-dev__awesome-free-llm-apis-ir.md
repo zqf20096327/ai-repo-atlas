@@ -1,6 +1,6 @@
 # alirezasafaei-dev/awesome-free-llm-apis-ir
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/alirezasafaei-dev/awesome-free-llm-apis-ir) · [官网](https://llm.persiantoolbox.ir/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/alirezasafaei-dev/awesome-free-llm-apis-ir) · [官网](https://llm.persiantoolbox.ir/) · 个人维护
 
 **面向伊朗用户的免费 LLM API 目录：配额与可达性机器可读编目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alirezasafaei-dev/awesome-free-llm-apis-ir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "alirezasafaei-dev/awesome-free-llm-apis-ir 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

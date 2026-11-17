@@ -1,6 +1,6 @@
 # CelestoAI/agentor
 
-⭐ 213 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/CelestoAI/agentor) · [官网](https://docs.celesto.ai/agentor) · 组织维护
+⭐ 218 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/CelestoAI/agentor) · [官网](https://docs.celesto.ai/agentor) · 组织维护
 
 **构建与部署持久化 AI Agent 的 Python 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CelestoAI/agentor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 212 --> 215
-    line [214, 213, 213]
+    title "CelestoAI/agentor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 212 --> 219
+    line [214, 213, 214, 215, 216, 218, 218]
 ```
 
-2026-10-18 214 → 2026-11-02 213（-1）
+2026-10-18 214 → 2026-11-17 218（+4）
 
 
 ---

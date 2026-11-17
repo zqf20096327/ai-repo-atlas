@@ -1,6 +1,6 @@
 # facefusion/facefusion-assets
 
-⭐ 296 · 推送 2026-09-01 · [GitHub](https://github.com/facefusion/facefusion-assets) · [官网](https://facefusion.io) · 组织维护
+⭐ 297 · 推送 2026-09-01 · [GitHub](https://github.com/facefusion/facefusion-assets) · [官网](https://facefusion.io) · 组织维护
 
 **FaceFusion 平台的资产仓库**
 
@@ -39,13 +39,13 @@ facefusion/facefusion-assets 是 FaceFusion（人脸操作平台）的配套资�
 
 ```mermaid
 xychart-beta
-    title "facefusion/facefusion-assets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "facefusion/facefusion-assets 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
     y-axis "stars" 294 --> 298
-    line [295, 296, 297, 296, 296]
+    line [295, 296, 297, 296, 295, 296, 295, 296, 297, 297]
 ```
 
-2026-10-18 295 → 2026-11-02 296（+1）
+2026-10-18 295 → 2026-11-17 297（+2）
 
 
 ---

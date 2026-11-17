@@ -1,6 +1,6 @@
 # modelflare-ai/AnyModelBot
 
-⭐ 153 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/modelflare-ai/AnyModelBot) · [官网](https://anymodel.bot/) · 组织维护 · 中文 README
+⭐ 4,291 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/modelflare-ai/AnyModelBot) · [官网](https://anymodel.bot/) · 组织维护 · 中文 README
 
 **跑在本机的多模型个人 AI 智能体桌面应用**
 
@@ -39,6 +39,18 @@
 
 > L33: AnyModelBot 是一个本地优先的 AI 智能体应用，支持 Windows、macOS 和 Linux。一个机器人就是一个人设，带着自己的默认模型、工作区和记忆。你可以在应用里和它聊天，也可以在微信、飞书、Telegram、
 > L37: 和 xAI 的 Grok Bot、OpenAI 的 dots、Anthropic 的 Claude Duet 一样，它是一个常驻的个人 AI 智能体：在后台替你干活，需要你拍板时再来问你。不同的是，AnyModelBot 开源（M
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "modelflare-ai/AnyModelBot 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 4704
+    line [153, 2740, 3011, 3186, 3424, 3627, 3812, 4059, 4291, 4291]
+```
+
+2026-11-02 153 → 2026-11-17 4,291（+4,138）
 
 
 ---

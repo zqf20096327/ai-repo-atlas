@@ -1,6 +1,6 @@
 # LiuZhen515/agent_engineering
 
-⭐ 29 · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/LiuZhen515/agent_engineering) · 个人维护 · 中文 README
+⭐ 31 · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/LiuZhen515/agent_engineering) · 个人维护 · 中文 README
 
 **开源中文书籍：将 LLM 智能体系统拆解为四种工程范式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiuZhen515/agent_engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "LiuZhen515/agent_engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 28, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # cap-js/agents
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/cap-js/agents) · 组织维护
+⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cap-js/agents) · 组织维护
 
 **SAP CAP 的 Node.js 插件：基于 A2A 协议构建 agent**
 
@@ -42,13 +42,13 @@ SAP Cloud Application Programming Model (CAP) 的 CDS 插件，面向 Node.js，
 
 ```mermaid
 xychart-beta
-    title "cap-js/agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "cap-js/agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

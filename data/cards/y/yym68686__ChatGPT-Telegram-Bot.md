@@ -1,6 +1,6 @@
 # yym68686/ChatGPT-Telegram-Bot
 
-⭐ 1,288 · Python · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/yym68686/ChatGPT-Telegram-Bot) · 个人维护 · 中文 README
+⭐ 1,290 · Python · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/yym68686/ChatGPT-Telegram-Bot) · 个人维护 · 中文 README
 
 **Telegram AI 聊天机器人：接入 OpenAI 兼容 API 对话与联网搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yym68686/ChatGPT-Telegram-Bot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "yym68686/ChatGPT-Telegram-Bot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
     y-axis "stars" 1287 --> 1292
-    line [1291, 1290, 1289, 1288, 1288]
+    line [1291, 1290, 1289, 1288, 1289, 1290, 1291, 1290, 1290]
 ```
 
-2026-10-18 1,291 → 2026-11-02 1,288（-3）
+2026-10-18 1,291 → 2026-11-17 1,290（-1）
 
 
 ---

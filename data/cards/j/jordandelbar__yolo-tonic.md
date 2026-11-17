@@ -1,6 +1,6 @@
 # jordandelbar/yolo-tonic
 
-⭐ 88 · Rust · AGPL-3.0 · 推送 2025-12-16 · [GitHub](https://github.com/jordandelbar/yolo-tonic) · 个人维护
+⭐ 89 · Rust · AGPL-3.0 · 推送 2025-12-16 · [GitHub](https://github.com/jordandelbar/yolo-tonic) · 个人维护
 
 **Rust 实时 YOLOv8 摄像头目标检测流水线（gRPC + WebSocket）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jordandelbar/yolo-tonic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "jordandelbar/yolo-tonic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 87 --> 90
-    line [89, 88, 88]
+    line [89, 88, 89, 89]
 ```
 
-2026-10-18 89 → 2026-11-02 88（-1）
+2026-10-18 89 → 2026-11-17 89（+0）
 
 
 ---

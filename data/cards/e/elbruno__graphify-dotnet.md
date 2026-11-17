@@ -1,6 +1,6 @@
 # elbruno/graphify-dotnet
 
-⭐ 95 · C# · MIT · 推送 2026-07-01 · [GitHub](https://github.com/elbruno/graphify-dotnet) · 个人维护
+⭐ 99 · C# · MIT · 推送 2026-07-01 · [GitHub](https://github.com/elbruno/graphify-dotnet) · 个人维护
 
 **为开发者从代码库构建 AI 知识图谱的 .NET 工具**
 
@@ -44,13 +44,13 @@ graphify 的 .NET 10 移植版，以 .NET 全局工具（dotnet tool）形式分
 
 ```mermaid
 xychart-beta
-    title "elbruno/graphify-dotnet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 94 --> 97
-    line [96, 95, 95]
+    title "elbruno/graphify-dotnet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 94 --> 100
+    line [96, 95, 96, 98, 99, 99]
 ```
 
-2026-10-18 96 → 2026-11-02 95（-1）
+2026-10-18 96 → 2026-11-17 99（+3）
 
 
 ---

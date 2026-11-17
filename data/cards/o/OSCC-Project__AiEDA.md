@@ -1,6 +1,6 @@
 # OSCC-Project/AiEDA
 
-⭐ 89 · Python · MulanPSL-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/OSCC-Project/AiEDA) · 组织维护
+⭐ 91 · Python · MulanPSL-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/OSCC-Project/AiEDA) · 组织维护
 
 **面向芯片设计者的 AI 原生 EDA 库：设计流程执行与设计数据向量化**
 
@@ -44,13 +44,13 @@ Python 库，把工作区管理、EDA 流程编排、工具封装（当前以 iE
 
 ```mermaid
 xychart-beta
-    title "OSCC-Project/AiEDA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 88 --> 91
-    line [89, 90, 89, 89]
+    title "OSCC-Project/AiEDA 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 88 --> 92
+    line [89, 90, 89, 90, 91, 91]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 91（+2）
 
 
 ---

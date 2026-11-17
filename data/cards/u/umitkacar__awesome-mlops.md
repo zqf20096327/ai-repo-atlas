@@ -1,6 +1,6 @@
 # umitkacar/awesome-mlops
 
-⭐ 12 · Python · MIT · 推送 2025-11-10 · [GitHub](https://github.com/umitkacar/awesome-mlops) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MLOps 工具生态策展清单：覆盖 ML 全生命周期的工具目录**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "umitkacar/awesome-mlops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-07 12（+0）
 
 
 ---

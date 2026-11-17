@@ -1,6 +1,6 @@
 # zero-nnkn/video-quiz-generator
 
-⭐ 21 · Python · 推送 2026-10-05 · [GitHub](https://github.com/zero-nnkn/video-quiz-generator) · 个人维护
+⭐ 21 · Python · 推送 2026-11-02 · [GitHub](https://github.com/zero-nnkn/video-quiz-generator) · 个人维护
 
 **从视频生成测验题的 Web 应用：转写加 LLM 出题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zero-nnkn/video-quiz-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

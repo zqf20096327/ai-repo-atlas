@@ -1,6 +1,6 @@
 # FrancescoCaracciolo/Newelle-Calendar
 
-⭐ 23 · Python · GPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/FrancescoCaracciolo/Newelle-Calendar) · 个人维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/FrancescoCaracciolo/Newelle-Calendar) · 个人维护
 
 **让 Newelle AI 助手管理 ics 日历的扩展**
 
@@ -42,13 +42,13 @@ Newelle 1.0+ 的扩展，单个 Python 文件加载后为 Newelle 增加 ics 日
 
 ```mermaid
 xychart-beta
-    title "FrancescoCaracciolo/Newelle-Calendar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "FrancescoCaracciolo/Newelle-Calendar 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

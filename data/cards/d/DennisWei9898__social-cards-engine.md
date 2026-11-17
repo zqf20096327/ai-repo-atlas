@@ -1,6 +1,6 @@
 # DennisWei9898/social-cards-engine
 
-⭐ 35 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/DennisWei9898/social-cards-engine) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/DennisWei9898/social-cards-engine) · 个人维护 · 中文 README
 
 **Claude Code skill：把文章一键生成 IG 轮播图卡，内建 AI 审稿员**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DennisWei9898/social-cards-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "DennisWei9898/social-cards-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 37（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # manutej/luxor-claude-marketplace
 
-⭐ 62 · Shell · 推送 2026-06-13 · [GitHub](https://github.com/manutej/luxor-claude-marketplace) · [官网](https://github.com/manutej/luxor-claude-marketplace) · 个人维护
+⭐ 64 · Shell · 推送 2026-06-13 · [GitHub](https://github.com/manutej/luxor-claude-marketplace) · [官网](https://github.com/manutej/luxor-claude-marketplace) · 个人维护
 
 **面向 Claude Code 的插件市场：140 个开发技能/命令/Agent/工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "manutej/luxor-claude-marketplace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "manutej/luxor-claude-marketplace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 64（+2）
 
 
 ---

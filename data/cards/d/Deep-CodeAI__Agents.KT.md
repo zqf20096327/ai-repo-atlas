@@ -1,6 +1,6 @@
 # Deep-CodeAI/Agents.KT
 
-⭐ 16 · Kotlin · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Deep-CodeAI/Agents.KT) · [官网](https://deep-code.ai) · 组织维护
+⭐ 16 · Kotlin · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Deep-CodeAI/Agents.KT) · [官网](https://deep-code.ai) · 组织维护
 
 **面向 JVM 的强类型 Kotlin AI agent 框架：编译期边界与审计**
 
@@ -45,12 +45,12 @@ Typed Kotlin DSL 的 JVM agent 运行时：每个 agent 为 Agent<IN, OUT> 类�
 ```mermaid
 xychart-beta
     title "Deep-CodeAI/Agents.KT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

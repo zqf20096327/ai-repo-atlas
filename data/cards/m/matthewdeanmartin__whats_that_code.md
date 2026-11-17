@@ -1,6 +1,6 @@
 # matthewdeanmartin/whats_that_code
 
-⭐ 24 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/matthewdeanmartin/whats_that_code) · [官网](https://whats-that-code.readthedocs.io/en/latest/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/matthewdeanmartin/whats_that_code) · [官网](https://whats-that-code.readthedocs.io/en/latest/) · 个人维护
 
 **纯 Python 的源代码编程语言检测库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matthewdeanmartin/whats_that_code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

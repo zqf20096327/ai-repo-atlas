@@ -1,6 +1,6 @@
 # clusterking/clusterking
 
-⭐ 12 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/clusterking/clusterking) · [官网](http://clusterking.rtfd.io/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/clusterking/clusterking) · [官网](http://clusterking.rtfd.io/) · 组织维护
 
 **高能物理中直方图集合的聚类与基准点选取框架**
 
@@ -46,12 +46,12 @@ Python 包，提供对直方图（或其他高维数据）集合进行聚类并�
 ```mermaid
 xychart-beta
     title "clusterking/clusterking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

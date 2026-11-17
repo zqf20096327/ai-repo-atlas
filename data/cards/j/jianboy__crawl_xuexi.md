@@ -1,6 +1,6 @@
 # jianboy/crawl_xuexi
 
-⭐ 25 · Python · 推送 2025-11-12 · [GitHub](https://github.com/jianboy/crawl_xuexi) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **批量下载学习强国“学习慕课”课程视频的爬虫工具**
 
@@ -45,12 +45,12 @@ Python 编写的下载工具，针对学习强国 APP（xuexi.cn）“学习慕�
 ```mermaid
 xychart-beta
     title "jianboy/crawl_xuexi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-07 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Azure-Samples/data-extraction-using-azure-content-understanding
 
-⭐ 29 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/Azure-Samples/data-extraction-using-azure-content-understanding) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/Azure-Samples/data-extraction-using-azure-content-understanding) · 组织维护
 
 **基于 Azure Content Understanding 的文档数据提取与自然语言查询示例方案**
 
@@ -45,13 +45,13 @@ Azure-Samples 官方示例项目：用 Azure Content Understanding 从文档中�
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/data-extraction-using-azure-content-understanding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "Azure-Samples/data-extraction-using-azure-content-understanding 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

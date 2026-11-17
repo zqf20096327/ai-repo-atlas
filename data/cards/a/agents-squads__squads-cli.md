@@ -1,6 +1,6 @@
 # agents-squads/squads-cli
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agents-squads/squads-cli) · [官网](https://agents-squads.com) · 组织维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/agents-squads/squads-cli) · [官网](https://agents-squads.com) · 组织维护
 
 **终端里管理 AI agent 小队的 CLI，markdown 定义、git 跟踪**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agents-squads/squads-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "agents-squads/squads-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    line [55, 56, 55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

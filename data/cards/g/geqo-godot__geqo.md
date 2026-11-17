@@ -1,6 +1,6 @@
 # geqo-godot/geqo
 
-⭐ 47 · GDScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/geqo-godot/geqo) · 个人维护
+⭐ 48 · GDScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/geqo-godot/geqo) · 个人维护
 
 **Godot 4 的节点式环境查询系统，供 AI 角色选取最佳位置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geqo-godot/geqo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "geqo-godot/geqo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

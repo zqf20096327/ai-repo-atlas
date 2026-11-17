@@ -1,6 +1,6 @@
 # franklywatson/claude-rig
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/franklywatson/claude-rig) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/franklywatson/claude-rig) · 个人维护
 
 **把 rtk/jcodemunch/graphify 等工具接入 Claude Code 的路由与执行面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "franklywatson/claude-rig 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "franklywatson/claude-rig 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

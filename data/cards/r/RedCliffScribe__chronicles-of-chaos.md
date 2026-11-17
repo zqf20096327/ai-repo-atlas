@@ -1,6 +1,6 @@
 # RedCliffScribe/chronicles-of-chaos
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/RedCliffScribe/chronicles-of-chaos) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/RedCliffScribe/chronicles-of-chaos) · 个人维护 · 中文 README
 
 **LLM 驱动的三国乱世本地互动叙事 RPG**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RedCliffScribe/chronicles-of-chaos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "RedCliffScribe/chronicles-of-chaos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Black-Bee-Drones/nectar-sdk
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Black-Bee-Drones/nectar-sdk) · [官网](https://black-bee-drones.github.io/nectar-sdk/) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Black-Bee-Drones/nectar-sdk) · [官网](https://black-bee-drones.github.io/nectar-sdk/) · 组织维护
 
 **面向无人机自主系统的 ROS2 SDK：统一飞控、视觉与 AI 接口**
 
@@ -44,13 +44,13 @@ ROS 2 软件开发套件，为自主飞行系统提供统一接口：ArduPilot �
 
 ```mermaid
 xychart-beta
-    title "Black-Bee-Drones/nectar-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "Black-Bee-Drones/nectar-sdk 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 34, 36, 37, 38, 38]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 38（+4）
 
 
 ---

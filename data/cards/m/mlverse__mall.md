@@ -1,6 +1,6 @@
 # mlverse/mall
 
-⭐ 130 · R · 推送 2026-05-21 · [GitHub](https://github.com/mlverse/mall) · [官网](https://mlverse.github.io/mall/) · 组织维护
+⭐ 131 · R · 推送 2026-05-21 · [GitHub](https://github.com/mlverse/mall) · [官网](https://mlverse.github.io/mall/) · 组织维护
 
 **R/Python 库：对数据框逐行批量运行 LLM 预测**
 
@@ -42,13 +42,13 @@ mall 提供 R 与 Python 双语言接口，对数据框指定列逐行运行多�
 
 ```mermaid
 xychart-beta
-    title "mlverse/mall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    title "mlverse/mall 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 129 --> 132
+    line [130, 131, 131]
 ```
 
-2026-10-18 130 → 2026-11-02 130（+0）
+2026-10-18 130 → 2026-11-17 131（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/CognitiveKernel-Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 532 --> 534
-    line [533, 533]
+    title "Tencent/CognitiveKernel-Pro 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 531 --> 534
+    line [533, 532, 533, 533]
 ```
 
-2026-10-18 533 → 2026-11-02 533（+0）
+2026-10-18 533 → 2026-11-17 533（+0）
 
 
 ---

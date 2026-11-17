@@ -1,6 +1,6 @@
 # AnayDhawan/Components
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/AnayDhawan/Components) · [官网](https://anaydhawan.github.io/Components/) · 个人维护
 
 **让 AI 编码代理实时拉取成品 React/Tailwind 动效组件的技能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnayDhawan/Components 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
+    title "AnayDhawan/Components 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-11", "2026-11-17"]
     y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    line [17, 18, 17, 17]
 ```
 
-2026-10-18 17 → 2026-11-01 18（+1）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

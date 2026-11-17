@@ -1,6 +1,6 @@
 # moching-ai-dev/moching
 
-⭐ 14 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/moching-ai-dev/moching) · [官网](https://mochingcode.com) · 组织维护 · 中文 README
+⭐ 15 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/moching-ai-dev/moching) · [官网](https://mochingcode.com) · 组织维护 · 中文 README
 
 **控制整台电脑的桌面 AI 操作员：290+ 工具自动执行任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moching-ai-dev/moching 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "moching-ai-dev/moching 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

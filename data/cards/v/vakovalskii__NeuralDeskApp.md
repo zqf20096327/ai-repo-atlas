@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vakovalskii/NeuralDeskApp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 330 --> 332
-    line [331, 331]
+    title "vakovalskii/NeuralDeskApp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 330 --> 333
+    line [331, 332, 331, 331]
 ```
 
-2026-10-18 331 → 2026-11-02 331（+0）
+2026-10-18 331 → 2026-11-17 331（+0）
 
 
 ---

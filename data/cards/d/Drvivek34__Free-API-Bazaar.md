@@ -1,6 +1,6 @@
 # Drvivek34/Free-API-Bazaar
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/Drvivek34/Free-API-Bazaar) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/Drvivek34/Free-API-Bazaar) · 个人维护
 
 **免费 LLM 与 AI API 的社区编目清单（含真实限额）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Drvivek34/Free-API-Bazaar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "Drvivek34/Free-API-Bazaar 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 10, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

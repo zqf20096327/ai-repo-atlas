@@ -1,6 +1,6 @@
 # FrankHui/paragents
 
-⭐ 236 · Python · 推送 2026-04-30 · [GitHub](https://github.com/FrankHui/paragents) · 个人维护 · 中文 README
+⭐ 233 · Python · 推送 2026-04-30 · [GitHub](https://github.com/FrankHui/paragents) · 个人维护 · 中文 README
 
 **单面板并行运行多个 AI agent 会话的 Python TUI 运行时**
 
@@ -44,13 +44,13 @@ Paragents 是一个基于 asyncio 的多会话并行 agent 运行时，以 TUI �
 
 ```mermaid
 xychart-beta
-    title "FrankHui/paragents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 235 --> 240
-    line [239, 236, 236]
+    title "FrankHui/paragents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 232 --> 240
+    line [239, 236, 233, 233]
 ```
 
-2026-10-18 239 → 2026-11-02 236（-3）
+2026-10-18 239 → 2026-11-17 233（-6）
 
 
 ---

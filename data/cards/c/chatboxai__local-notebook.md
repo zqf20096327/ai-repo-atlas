@@ -1,6 +1,6 @@
 # chatboxai/local-notebook
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/chatboxai/local-notebook) · 组织维护 · 中文 README
+⭐ 18 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/chatboxai/local-notebook) · 组织维护 · 中文 README
 
 **全本地部署的类 NotebookLM 长文档问答应用，答案带块级溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chatboxai/local-notebook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "chatboxai/local-notebook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

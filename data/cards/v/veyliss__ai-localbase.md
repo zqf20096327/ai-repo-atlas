@@ -1,6 +1,6 @@
 # veyliss/ai-localbase
 
-⭐ 383 · Go · MIT · 推送 2026-09-17 · [GitHub](https://github.com/veyliss/ai-localbase) · 个人维护 · 中文 README
+⭐ 388 · Go · MIT · 推送 2026-09-17 · [GitHub](https://github.com/veyliss/ai-localbase) · 个人维护 · 中文 README
 
 **本地优先的 RAG 知识库问答系统，供个人与小团队自托管**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "veyliss/ai-localbase 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 379 --> 384
-    line [380, 382, 383, 383]
+    title "veyliss/ai-localbase 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 379 --> 389
+    line [380, 382, 383, 386, 387, 386, 388, 388]
 ```
 
-2026-10-18 380 → 2026-11-02 383（+3）
+2026-10-18 380 → 2026-11-17 388（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # whyaang/Bowdler
 
-⭐ 23 · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/whyaang/Bowdler) · [官网](https://bowdler.app) · 个人维护
+⭐ 24 · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/whyaang/Bowdler) · [官网](https://bowdler.app) · 个人维护
 
 **Mac 本地 AI 视频文本编辑器：剪静音、消音脏话、生成字幕**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "whyaang/Bowdler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "whyaang/Bowdler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

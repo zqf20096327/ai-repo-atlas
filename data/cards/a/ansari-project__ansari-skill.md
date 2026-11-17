@@ -1,6 +1,6 @@
 # ansari-project/ansari-skill
 
-⭐ 20 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/ansari-project/ansari-skill) · 个人维护
+⭐ 21 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/ansari-project/ansari-skill) · 个人维护
 
 **回答伊斯兰教义问题的 Agent Skill，基于 Quran/Hadith 权威来源**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ansari-project/ansari-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "ansari-project/ansari-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

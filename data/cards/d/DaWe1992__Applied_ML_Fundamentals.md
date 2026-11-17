@@ -1,6 +1,6 @@
 # DaWe1992/Applied_ML_Fundamentals
 
-⭐ 70 · 推送 2026-04-27 · [GitHub](https://github.com/DaWe1992/Applied_ML_Fundamentals) · 组织维护
+⭐ 69 · 推送 2026-04-27 · [GitHub](https://github.com/DaWe1992/Applied_ML_Fundamentals) · 组织维护
 
 **DHBW 人工智能与机器学习课程讲义笔记仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DaWe1992/Applied_ML_Fundamentals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "DaWe1992/Applied_ML_Fundamentals 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [70, 69, 69]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 69（-1）
 
 
 ---

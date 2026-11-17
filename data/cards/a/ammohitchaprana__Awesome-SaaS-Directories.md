@@ -1,6 +1,6 @@
 # ammohitchaprana/Awesome-SaaS-Directories
 
-⭐ 23 · 推送 2026-03-17 · [GitHub](https://github.com/ammohitchaprana/Awesome-SaaS-Directories) · [官网](https://justhunt.co/free-startup-directories) · 组织维护
+⭐ 26 · 推送 2026-03-17 · [GitHub](https://github.com/ammohitchaprana/Awesome-SaaS-Directories) · [官网](https://justhunt.co/free-startup-directories) · 组织维护
 
 **SaaS 产品发布与推广平台目录清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ammohitchaprana/Awesome-SaaS-Directories 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "ammohitchaprana/Awesome-SaaS-Directories 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 22, 24, 25, 26, 26]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 26（+5）
 
 
 ---

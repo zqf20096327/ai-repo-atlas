@@ -1,6 +1,6 @@
 # chara-codes/chara
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/chara-codes/chara) · 组织维护
+⭐ 20 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/chara-codes/chara) · 组织维护
 
 **面向前端开发的 AI 开发环境，聚合多模型编码助手**
 
@@ -45,13 +45,13 @@ Chara Codes 是一个 AI 驱动的开发环境，面向前端开发者，提供�
 
 ```mermaid
 xychart-beta
-    title "chara-codes/chara 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "chara-codes/chara 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

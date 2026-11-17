@@ -1,6 +1,6 @@
 # vadiminshakov/marti
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/vadiminshakov/marti) · 个人维护
+⭐ 21 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/vadiminshakov/marti) · 个人维护
 
 **Go 加密货币交易机器人：DCA 与 AI 策略**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vadiminshakov/marti 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "vadiminshakov/marti 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

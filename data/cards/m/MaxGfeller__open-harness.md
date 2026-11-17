@@ -1,6 +1,6 @@
 # MaxGfeller/open-harness
 
-⭐ 622 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/MaxGfeller/open-harness) · [官网](https://open-harness.dev) · 个人维护
+⭐ 624 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/MaxGfeller/open-harness) · [官网](https://open-harness.dev) · 个人维护
 
 **用代码构建通用 AI agent 的组合式 TypeScript SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxGfeller/open-harness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 618 --> 623
-    line [619, 620, 619, 620, 621, 622, 622]
+    title "MaxGfeller/open-harness 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 618 --> 625
+    line [619, 620, 619, 620, 621, 622, 620, 622, 623, 624, 624]
 ```
 
-2026-10-18 619 → 2026-11-02 622（+3）
+2026-10-18 619 → 2026-11-17 624（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # R00T-Kim/awesome-offensive-mcp
 
-⭐ 28 · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/R00T-Kim/awesome-offensive-mcp) · 个人维护
+⭐ 30 · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/R00T-Kim/awesome-offensive-mcp) · 个人维护
 
 **红队/渗透测试用 MCP 服务器策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "R00T-Kim/awesome-offensive-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "R00T-Kim/awesome-offensive-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

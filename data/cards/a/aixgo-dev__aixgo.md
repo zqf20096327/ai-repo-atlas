@@ -1,6 +1,6 @@
 # aixgo-dev/aixgo
 
-⭐ 13 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aixgo-dev/aixgo) · 组织维护
+⭐ 14 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/aixgo-dev/aixgo) · 组织维护
 
 **Go 语言的厂商中立多智能体编排框架，YAML 定义拓扑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aixgo-dev/aixgo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "aixgo-dev/aixgo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # WSzP/live-meeting-helper
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-04-16 · [GitHub](https://github.com/WSzP/live-meeting-helper) · 个人维护
+⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-04-16 · [GitHub](https://github.com/WSzP/live-meeting-helper) · 个人维护
 
 **实时会议转录与 AI 助手：转写语音并向 Gemini 提问摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WSzP/live-meeting-helper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "WSzP/live-meeting-helper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

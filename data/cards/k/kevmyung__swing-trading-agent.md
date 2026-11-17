@@ -1,6 +1,6 @@
 # kevmyung/swing-trading-agent
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/kevmyung/swing-trading-agent) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/kevmyung/swing-trading-agent) · 个人维护
 
 **多智能体波段交易系统：自动选股、研究与下单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevmyung/swing-trading-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "kevmyung/swing-trading-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 25, 24, 26, 28, 28]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 28（+5）
 
 
 ---

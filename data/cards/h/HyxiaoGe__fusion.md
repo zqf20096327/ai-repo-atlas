@@ -1,6 +1,6 @@
 # HyxiaoGe/fusion
 
-⭐ 98 · Python · 推送 2026-10-29 · [GitHub](https://github.com/HyxiaoGe/fusion) · [官网](https://fusion.seanfield.org/) · 个人维护 · 中文 README
+⭐ 99 · Python · 推送 2026-11-09 · [GitHub](https://github.com/HyxiaoGe/fusion) · [官网](https://fusion.seanfield.org/) · 个人维护 · 中文 README
 
 **面向任务执行的 AI 聊天工作台：单 Agent 循环、有据可查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HyxiaoGe/fusion 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 48 --> 102
-    line [52, 82, 98, 98]
+    title "HyxiaoGe/fusion 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 48 --> 103
+    line [52, 82, 98, 99, 99]
 ```
 
-2026-10-19 52 → 2026-11-02 98（+46）
+2026-10-19 52 → 2026-11-17 99（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # txl16095/MiniClaude
 
-⭐ 170 · TypeScript · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/txl16095/MiniClaude) · [官网](https://txl16095.github.io/MiniClaude/) · 个人维护 · 中文 README
+⭐ 169 · TypeScript · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/txl16095/MiniClaude) · [官网](https://txl16095.github.io/MiniClaude/) · 个人维护 · 中文 README
 
 **删除云服务的本地化 Claude Code 精简版编程助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "txl16095/MiniClaude 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 169 --> 172
-    line [171, 170, 170]
+    title "txl16095/MiniClaude 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 168 --> 172
+    line [171, 170, 169, 169]
 ```
 
-2026-10-18 171 → 2026-11-02 170（-1）
+2026-10-18 171 → 2026-11-17 169（-2）
 
 
 ---

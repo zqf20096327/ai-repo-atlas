@@ -1,6 +1,6 @@
 # walkinglabs/modern-llm-notebook
 
-⭐ 277 · Jupyter Notebook · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/modern-llm-notebook) · [官网](https://walkinglabs.github.io/modern-llm-notebook/) · 组织维护 · 中文 README
+⭐ 288 · Jupyter Notebook · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/modern-llm-notebook) · [官网](https://walkinglabs.github.io/modern-llm-notebook/) · 组织维护 · 中文 README
 
 **从零实现现代 LLM 的实践教程：PyTorch 可运行笔记本与训练实验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/modern-llm-notebook 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 253 --> 279
-    line [255, 262, 264, 265, 267, 271, 272, 275, 276, 277, 277]
+    title "walkinglabs/modern-llm-notebook 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 252 --> 291
+    line [255, 262, 264, 265, 267, 271, 272, 275, 276, 277, 267, 280, 283, 284, 286, 287, 288, 288]
 ```
 
-2026-10-18 255 → 2026-11-02 277（+22）
+2026-10-18 255 → 2026-11-17 288（+33）
 
 
 ---

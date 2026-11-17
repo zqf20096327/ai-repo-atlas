@@ -1,6 +1,6 @@
 # huggingface/safeagents
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/safeagents) · 组织维护
+⭐ 306 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/huggingface/safeagents) · 组织维护
 
 **本地代理：在编码 agent 执行前检查并拦截危险工具调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/safeagents 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 62
-    line [25, 47, 54, 59]
+    title "huggingface/safeagents 星数(近 12 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 334
+    line [25, 47, 54, 59, 118, 144, 148, 149, 151, 248, 306, 306]
 ```
 
-2026-10-30 25 → 2026-11-02 59（+34）
+2026-10-30 25 → 2026-11-17 306（+281）
 
 
 ---

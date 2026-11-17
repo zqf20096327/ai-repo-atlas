@@ -1,6 +1,6 @@
 # sfr-development/WonderSuite-Ai-Bug-Bounty
 
-⭐ 51 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty) · 组织维护
+⭐ 52 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty) · 组织维护
 
 **桌面端攻击性安全测试平台：91 工具+MITM 代理+MCP 供 AI agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sfr-development/WonderSuite-Ai-Bug-Bounty 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "sfr-development/WonderSuite-Ai-Bug-Bounty 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 50 --> 53
-    line [51, 52, 51, 51]
+    line [51, 52, 51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

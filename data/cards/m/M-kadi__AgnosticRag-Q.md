@@ -1,6 +1,6 @@
 # M-kadi/AgnosticRag-Q
 
-⭐ 34 · 推送 2026-10-29 · [GitHub](https://github.com/M-kadi/AgnosticRag-Q) · 个人维护
+⭐ 35 · 推送 2026-11-08 · [GitHub](https://github.com/M-kadi/AgnosticRag-Q) · 个人维护
 
 **云无关的多模态 RAG/GraphRAG/Text-to-SQL 平台，面向企业 AI 应用构建**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "M-kadi/AgnosticRag-Q 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 28 --> 35
-    line [29, 30, 31, 33, 34]
+    title "M-kadi/AgnosticRag-Q 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 36
+    line [29, 30, 31, 33, 34, 31, 34, 35, 35]
 ```
 
-2026-10-18 29 → 2026-11-02 34（+5）
+2026-10-18 29 → 2026-11-17 35（+6）
 
 
 ---

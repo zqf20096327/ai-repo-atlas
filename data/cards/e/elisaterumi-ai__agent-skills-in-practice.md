@@ -1,6 +1,6 @@
 # elisaterumi-ai/agent-skills-in-practice
 
-⭐ 131 · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/elisaterumi-ai/agent-skills-in-practice) · 个人维护
+⭐ 132 · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/elisaterumi-ai/agent-skills-in-practice) · 个人维护
 
 **AI 技能（Skills）设计与应用的实践指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elisaterumi-ai/agent-skills-in-practice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "elisaterumi-ai/agent-skills-in-practice 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 130 --> 133
-    line [132, 131, 131]
+    line [132, 131, 132, 132]
 ```
 
-2026-10-18 132 → 2026-11-02 131（-1）
+2026-10-18 132 → 2026-11-17 132（+0）
 
 
 ---

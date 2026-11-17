@@ -1,6 +1,6 @@
 # ultralytics/yolov8
 
-⭐ 61 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolov8) · [官网](https://platform.ultralytics.com/ultralytics/yolov8) · 组织维护
+⭐ 70 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolov8) · [官网](https://platform.ultralytics.com/ultralytics/yolov8) · 组织维护
 
 **YOLOv8 模型的发现页：检测、分割、分类、姿态、OBB 与跟踪**
 
@@ -45,13 +45,13 @@ Ultralytics YOLOv8 官方 Python 包的轻量发现页：支持目标检测、�
 
 ```mermaid
 xychart-beta
-    title "ultralytics/yolov8 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 54 --> 62
-    line [55, 56, 58, 59, 61, 61]
+    title "ultralytics/yolov8 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 71
+    line [55, 56, 58, 59, 61, 58, 65, 66, 67, 70, 70]
 ```
 
-2026-10-18 55 → 2026-11-02 61（+6）
+2026-10-18 55 → 2026-11-17 70（+15）
 
 
 ---

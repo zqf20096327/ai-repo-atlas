@@ -1,6 +1,6 @@
 # netzpirat/openclaw-trading-agent
 
-⭐ 448 · Python · 推送 2026-05-03 · [GitHub](https://github.com/netzpirat/openclaw-trading-agent) · [官网](https://agentvps.io) · 个人维护
+⭐ 450 · Python · 推送 2026-11-16 · [GitHub](https://github.com/netzpirat/openclaw-trading-agent) · [官网](https://agentvps.io) · 个人维护
 
 **面向 Hyperliquid 的 LLM 驱动自动化交易 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "netzpirat/openclaw-trading-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 446 --> 449
-    line [447, 448, 448]
+    title "netzpirat/openclaw-trading-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 446 --> 451
+    line [447, 448, 447, 449, 450, 450]
 ```
 
-2026-10-18 447 → 2026-11-02 448（+1）
+2026-10-18 447 → 2026-11-17 450（+3）
 
 
 ---

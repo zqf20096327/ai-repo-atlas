@@ -1,6 +1,6 @@
 # holo-q/comfy-api-liberation
 
-⭐ 57 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/holo-q/comfy-api-liberation) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/holo-q/comfy-api-liberation) · 个人维护
 
 **ComfyUI 扩展：绕过 comfy.org 代理，用自己的 API key 直连厂商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "holo-q/comfy-api-liberation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57]
+    title "holo-q/comfy-api-liberation 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 55, 58, 58]
 ```
 
-2026-10-18 55 → 2026-11-02 57（+2）
+2026-10-18 55 → 2026-11-17 58（+3）
 
 
 ---

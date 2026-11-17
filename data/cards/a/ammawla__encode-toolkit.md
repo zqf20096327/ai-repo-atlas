@@ -1,6 +1,6 @@
 # ammawla/encode-toolkit
 
-⭐ 22 · Python · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ammawla/encode-toolkit) · [官网](https://pypi.org/project/encode-toolkit/) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ammawla/encode-toolkit) · [官网](https://pypi.org/project/encode-toolkit/) · 个人维护
 
 **面向 Claude 的 ENCODE 基因组数据 MCP 服务器与插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ammawla/encode-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "ammawla/encode-toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [21, 22, 21, 20, 20]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 20（-1）
 
 
 ---

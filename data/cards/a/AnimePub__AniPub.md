@@ -1,6 +1,6 @@
 # AnimePub/AniPub
 
-⭐ 102 · JavaScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/AnimePub/AniPub) · [官网](https://anipub.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向动漫观众的开源无广告流媒体网站，含 AI 助手**
 
@@ -11,7 +11,7 @@ AniPub 是开源（GPL-3.0）的动漫流媒体网站：EJS/Node.js/Express/Mong
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ AniPub 是开源（GPL-3.0）的动漫流媒体网站：EJS/Node.js/Express/Mong
 
 ```mermaid
 xychart-beta
-    title "AnimePub/AniPub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "AnimePub/AniPub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 101 --> 106
-    line [105, 103, 102, 102]
+    line [105, 103, 102, 103, 103]
 ```
 
-2026-10-18 105 → 2026-11-02 102（-3）
+2026-10-18 105 → 2026-11-07 103（-2）
 
 
 ---

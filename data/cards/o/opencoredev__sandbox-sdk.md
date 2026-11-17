@@ -1,6 +1,6 @@
 # opencoredev/sandbox-sdk
 
-⭐ 105 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/opencoredev/sandbox-sdk) · [官网](https://sandbox-sdk.app) · 组织维护
+⭐ 115 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/opencoredev/sandbox-sdk) · [官网](https://sandbox-sdk.app) · 组织维护
 
 **TypeScript 沙箱 SDK：一套 API 在多家运行商上执行代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opencoredev/sandbox-sdk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 76 --> 107
-    line [79, 78, 88, 103, 105]
+    title "opencoredev/sandbox-sdk 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 75 --> 118
+    line [79, 78, 88, 103, 105, 79, 108, 110, 111, 113, 115, 115]
 ```
 
-2026-10-18 79 → 2026-11-02 105（+26）
+2026-10-18 79 → 2026-11-17 115（+36）
 
 
 ---

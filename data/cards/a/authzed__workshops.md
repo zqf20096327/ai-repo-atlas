@@ -1,6 +1,6 @@
 # authzed/workshops
 
-⭐ 13 · Python · 推送 2026-10-14 · [GitHub](https://github.com/authzed/workshops) · 组织维护
+⭐ 14 · Python · 推送 2026-11-12 · [GitHub](https://github.com/authzed/workshops) · 组织维护
 
 **SpiceDB 细粒度授权的动手自学工坊集合**
 
@@ -44,13 +44,13 @@ AuthZed 维护的自导式实践教程仓库，围绕 SpiceDB 细粒度授权提
 
 ```mermaid
 xychart-beta
-    title "authzed/workshops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "authzed/workshops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

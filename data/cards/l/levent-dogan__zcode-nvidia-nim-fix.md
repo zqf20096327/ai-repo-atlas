@@ -1,6 +1,6 @@
 # levent-dogan/zcode-nvidia-nim-fix
 
-⭐ 11 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/levent-dogan/zcode-nvidia-nim-fix) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/levent-dogan/zcode-nvidia-nim-fix) · 个人维护
 
 **本地代理：修复 ZCode/OpenCode 调用 NVIDIA NIM 时的 extra_body 报错**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "levent-dogan/zcode-nvidia-nim-fix 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "levent-dogan/zcode-nvidia-nim-fix 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-30 10 → 2026-11-02 11（+1）
+2026-10-30 10 → 2026-11-17 12（+2）
 
 
 ---

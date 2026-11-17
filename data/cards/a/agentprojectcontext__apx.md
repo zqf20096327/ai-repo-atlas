@@ -1,6 +1,6 @@
 # agentprojectcontext/apx
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/agentprojectcontext/apx) · [官网](https://agentprojectcontext.github.io/apx/) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/agentprojectcontext/apx) · [官网](https://apxagent.app/) · 组织维护
 
 **本地运行的 Agent OS：自组多 AI agent 团队协同工作**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentprojectcontext/apx 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 31
-    line [24, 28, 29, 30, 30]
+    title "agentprojectcontext/apx 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 23 --> 36
+    line [24, 28, 29, 30, 28, 33, 34, 35, 35]
 ```
 
-2026-10-18 24 → 2026-11-02 30（+6）
+2026-10-18 24 → 2026-11-17 35（+11）
 
 
 ---

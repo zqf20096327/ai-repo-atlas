@@ -1,6 +1,6 @@
 # natnew/100-Python-Projects
 
-⭐ 179 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/natnew/100-Python-Projects) · [官网](https://natnew.github.io/100-Python-Projects/) · 个人维护
+⭐ 180 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/natnew/100-Python-Projects) · [官网](https://natnew.github.io/100-Python-Projects/) · 个人维护
 
 **100 个自包含 Python 项目的 AI Agent 工程教程仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "natnew/100-Python-Projects 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    title "natnew/100-Python-Projects 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 178 --> 181
+    line [179, 180, 180]
 ```
 
-2026-10-18 179 → 2026-11-02 179（+0）
+2026-10-18 179 → 2026-11-17 180（+1）
 
 
 ---

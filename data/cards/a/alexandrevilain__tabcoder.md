@@ -1,6 +1,6 @@
 # alexandrevilain/tabcoder
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2025-11-06 · [GitHub](https://github.com/alexandrevilain/tabcoder) · [官网](https://marketplace.visualstudio.com/items?itemName=alexandrevilain.tabcoder) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **VS Code 扩展：专注 AI 行内代码自动补全，多模型可选**
 
@@ -11,7 +11,7 @@ VS Code 扩展，提供以 Tab 接受的行内 AI 补全建议，不包含聊天
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ VS Code 扩展，提供以 Tab 接受的行内 AI 补全建议，不包含聊天
 ```mermaid
 xychart-beta
     title "alexandrevilain/tabcoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-07 15（+0）
 
 
 ---

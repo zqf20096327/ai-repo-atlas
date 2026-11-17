@@ -1,6 +1,6 @@
 # MaxiDonkey/DelphiGenAI
 
-⭐ 87 · Pascal · MIT · 推送 2026-06-10 · [GitHub](https://github.com/MaxiDonkey/DelphiGenAI) · 个人维护
+⭐ 88 · Pascal · MIT · 推送 2026-06-10 · [GitHub](https://github.com/MaxiDonkey/DelphiGenAI) · 个人维护
 
 **Delphi 的 OpenAI API 封装库：同步/异步调用全套端点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxiDonkey/DelphiGenAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    title "MaxiDonkey/DelphiGenAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 85 --> 89
+    line [86, 87, 86, 88, 88]
 ```
 
-2026-10-18 86 → 2026-11-02 87（+1）
+2026-10-18 86 → 2026-11-17 88（+2）
 
 
 ---

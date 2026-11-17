@@ -1,6 +1,6 @@
 # colgreen/sharpneat
 
-⭐ 426 · C# · NOASSERTION · 推送 2025-11-16 · [GitHub](https://github.com/colgreen/sharpneat) · [官网](https://sharpneat.sourceforge.io/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **C# 实现的 NEAT 神经网络进化框架，供神经进化研究**
 
@@ -11,7 +11,7 @@ SharpNEAT 是用 C# 编写、面向 .NET 9 的 NEAT（增量拓扑进化算法�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ SharpNEAT 是用 C# 编写、面向 .NET 9 的 NEAT（增量拓扑进化算法�
 
 ```mermaid
 xychart-beta
-    title "colgreen/sharpneat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "colgreen/sharpneat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11"]
     y-axis "stars" 424 --> 427
-    line [425, 426, 426]
+    line [425, 426, 425, 426, 426]
 ```
 
-2026-10-18 425 → 2026-11-02 426（+1）
+2026-10-18 425 → 2026-11-11 426（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # roatienza/Deep-Learning-Experiments
 
-⭐ 1,207 · Jupyter Notebook · MIT · 推送 2026-09-26 · [GitHub](https://github.com/roatienza/Deep-Learning-Experiments) · 个人维护
+⭐ 1,209 · Jupyter Notebook · MIT · 推送 2026-11-02 · [GitHub](https://github.com/roatienza/Deep-Learning-Experiments) · 个人维护
 
 **深度学习课程讲义与实验代码合集（讲义+笔记本+视频）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "roatienza/Deep-Learning-Experiments 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1206 --> 1208
-    line [1207, 1207]
+    title "roatienza/Deep-Learning-Experiments 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1206 --> 1210
+    line [1207, 1208, 1209, 1209]
 ```
 
-2026-10-18 1,207 → 2026-11-02 1,207（+0）
+2026-10-18 1,207 → 2026-11-17 1,209（+2）
 
 
 ---

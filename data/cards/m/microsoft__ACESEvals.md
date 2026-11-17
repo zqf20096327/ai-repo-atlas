@@ -1,6 +1,6 @@
 # microsoft/ACESEvals
 
-⭐ 20 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/ACESEvals) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/ACESEvals) · 组织维护
 
 **微软的 AI 安全 agent 基准评测库：评测网络安全智能体**
 
@@ -44,13 +44,13 @@ ACESEvals（内部代号 SABER）是基于 inspect_ai 框架的轻量 Python 评
 
 ```mermaid
 xychart-beta
-    title "microsoft/ACESEvals 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "microsoft/ACESEvals 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 19, 21, 22, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

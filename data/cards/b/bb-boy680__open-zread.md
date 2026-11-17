@@ -1,6 +1,6 @@
 # bb-boy680/open-zread
 
-⭐ 46 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/bb-boy680/open-zread) · [官网](https://www.npmjs.com/package/@open-zread/cli) · 个人维护 · 中文 README
+⭐ 52 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/bb-boy680/open-zread) · [官网](https://www.npmjs.com/package/@open-zread/cli) · 个人维护 · 中文 README
 
 **一条命令把代码库生成带图表 Wiki 的 AI 文档工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bb-boy680/open-zread 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 47
-    line [43, 44, 45, 46, 46]
+    title "bb-boy680/open-zread 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 42 --> 53
+    line [43, 44, 45, 46, 44, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 43 → 2026-11-02 46（+3）
+2026-10-18 43 → 2026-11-17 52（+9）
 
 
 ---

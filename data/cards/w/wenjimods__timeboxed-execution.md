@@ -1,6 +1,6 @@
 # wenjimods/timeboxed-execution
 
-⭐ 84 · MIT · 推送 2026-08-27 · [GitHub](https://github.com/wenjimods/timeboxed-execution) · 组织维护
+⭐ 83 · MIT · 推送 2026-08-27 · [GitHub](https://github.com/wenjimods/timeboxed-execution) · 组织维护
 
 **给 AI agent 的时间盒执行工作流技能，防止超期与虚假完成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenjimods/timeboxed-execution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 83 --> 96
-    line [95, 84, 84]
+    title "wenjimods/timeboxed-execution 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 82 --> 96
+    line [95, 84, 83, 83]
 ```
 
-2026-10-18 95 → 2026-11-02 84（-11）
+2026-10-18 95 → 2026-11-17 83（-12）
 
 
 ---

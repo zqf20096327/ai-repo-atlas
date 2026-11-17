@@ -1,6 +1,6 @@
 # adarshxs/TokenTally
 
-⭐ 40 · Python · MIT · 推送 2025-11-09 · [GitHub](https://github.com/adarshxs/TokenTally) · [官网](https://tokentally.streamlit.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为开发者估算 LLM 训练/推理的 GPU 显存需求与每千 token 成本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adarshxs/TokenTally 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-07"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-07 40（+1）
 
 
 ---

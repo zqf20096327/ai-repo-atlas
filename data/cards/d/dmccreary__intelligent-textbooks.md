@@ -1,6 +1,6 @@
 # dmccreary/intelligent-textbooks
 
-⭐ 38 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dmccreary/intelligent-textbooks) · 个人维护
+⭐ 38 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/dmccreary/intelligent-textbooks) · 个人维护
 
 **教师用 AI 与 MkDocs 构建智能交互式教科书的指南资源集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dmccreary/intelligent-textbooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 38（+0）
 
 
 ---

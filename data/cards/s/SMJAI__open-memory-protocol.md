@@ -1,6 +1,6 @@
 # SMJAI/open-memory-protocol
 
-⭐ 86 · TypeScript · NOASSERTION · 推送 2026-07-02 · [GitHub](https://github.com/SMJAI/open-memory-protocol) · 个人维护
+⭐ 87 · TypeScript · NOASSERTION · 推送 2026-07-02 · [GitHub](https://github.com/SMJAI/open-memory-protocol) · 个人维护
 
 **跨工具共享 AI 记忆的开放协议与参考服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SMJAI/open-memory-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    title "SMJAI/open-memory-protocol 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 85 --> 88
+    line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-11-02 86（+0）
+2026-10-18 86 → 2026-11-17 87（+1）
 
 
 ---

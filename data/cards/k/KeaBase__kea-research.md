@@ -1,6 +1,6 @@
 # KeaBase/kea-research
 
-⭐ 201 · TypeScript · NOASSERTION · 推送 2026-01-25 · [GitHub](https://github.com/KeaBase/kea-research) · [官网](https://research.keabase.com) · 组织维护
+⭐ 200 · TypeScript · NOASSERTION · 推送 2026-01-25 · [GitHub](https://github.com/KeaBase/kea-research) · [官网](https://research.keabase.com) · 组织维护
 
 **多 AI 协作研究平台：多模型交叉验证产出共识答案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KeaBase/kea-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 200 --> 202
-    line [201, 201]
+    title "KeaBase/kea-research 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 199 --> 202
+    line [201, 200, 200]
 ```
 
-2026-10-18 201 → 2026-11-02 201（+0）
+2026-10-18 201 → 2026-11-17 200（-1）
 
 
 ---

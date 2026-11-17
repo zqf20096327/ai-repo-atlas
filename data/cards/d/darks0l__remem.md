@@ -1,6 +1,6 @@
 # darks0l/remem
 
-⭐ 20 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/darks0l/remem) · [官网](https://github.com/darks0l/remem#readme) · 个人维护
+⭐ 21 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/darks0l/remem) · [官网](https://github.com/darks0l/remem#readme) · 个人维护
 
 **给 AI agent 用的持久化可查询记忆层**
 
@@ -45,13 +45,13 @@ TypeScript 编写的框架无关 agent 记忆库：把事实、偏好、决策�
 
 ```mermaid
 xychart-beta
-    title "darks0l/remem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "darks0l/remem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

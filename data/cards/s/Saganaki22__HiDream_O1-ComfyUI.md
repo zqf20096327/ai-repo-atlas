@@ -1,6 +1,6 @@
 # Saganaki22/HiDream_O1-ComfyUI
 
-⭐ 69 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/Saganaki22/HiDream_O1-ComfyUI) · [官网](https://github.com/HiDream-ai/HiDream-O1-Image) · 个人维护 · 中文 README
+⭐ 70 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/Saganaki22/HiDream_O1-ComfyUI) · [官网](https://github.com/HiDream-ai/HiDream-O1-Image) · 个人维护 · 中文 README
 
 **在 ComfyUI 中本地运行 HiDream O1 图像生成与 LoRA 训练的节点集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/HiDream_O1-ComfyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "Saganaki22/HiDream_O1-ComfyUI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 70（+1）
 
 
 ---

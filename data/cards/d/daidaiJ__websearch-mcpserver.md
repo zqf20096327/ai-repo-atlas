@@ -1,6 +1,6 @@
 # daidaiJ/websearch-mcpserver
 
-⭐ 28 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/daidaiJ/websearch-mcpserver) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **零 API Key 的 Go 版 MCP 搜索服务，供 LLM/Agent 调用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "daidaiJ/websearch-mcpserver 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28]
+    title "daidaiJ/websearch-mcpserver 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-14"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 28, 29, 30]
 ```
 
-2026-10-26 26 → 2026-11-02 28（+2）
+2026-10-26 26 → 2026-11-14 30（+4）
 
 
 ---

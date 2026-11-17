@@ -1,6 +1,6 @@
 # Enping-Hu/minimind-deep-dive
 
-⭐ 217 · Python · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/Enping-Hu/minimind-deep-dive) · 个人维护 · 中文 README
+⭐ 220 · Python · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/Enping-Hu/minimind-deep-dive) · 个人维护 · 中文 README
 
 **逐行精读 MiniMind 源码并延伸到大模型技术体系的中文学习笔记**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Enping-Hu/minimind-deep-dive 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 212 --> 218
-    line [213, 216, 214, 216, 217, 217]
+    title "Enping-Hu/minimind-deep-dive 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 212 --> 221
+    line [213, 216, 214, 216, 217, 214, 217, 218, 220, 220]
 ```
 
-2026-10-18 213 → 2026-11-02 217（+4）
+2026-10-18 213 → 2026-11-17 220（+7）
 
 
 ---

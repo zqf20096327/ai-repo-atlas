@@ -1,6 +1,6 @@
 # kyshipit/tech-notes
 
-⭐ 12 · Shell · CC-BY-SA-4.0 · 推送 2026-10-31 · [GitHub](https://github.com/kyshipit/tech-notes) · 个人维护 · 中文 README
+⭐ 56 · Shell · CC-BY-SA-4.0 · 推送 2026-11-06 · [GitHub](https://github.com/kyshipit/tech-notes) · 个人维护 · 中文 README
 
 **嵌入式/边缘AI/机器人/物联网技术笔记合集，持续更新**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyshipit/tech-notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "kyshipit/tech-notes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 8 --> 60
+    line [12, 44, 51, 54, 55, 56, 56]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 56（+44）
 
 
 ---

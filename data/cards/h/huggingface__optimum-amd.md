@@ -1,6 +1,6 @@
 # huggingface/optimum-amd
 
-⭐ 102 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/optimum-amd) · [官网](https://huggingface.co/docs/optimum/amd/index) · 组织维护
+⭐ 102 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/optimum-amd) · [官网](https://huggingface.co/docs/optimum/amd/index) · 组织维护
 
 **AMD 硬件上的 Transformers 模型优化扩展库（ROCm GPU/Ryzen AI NPU）**
 
@@ -44,13 +44,13 @@ Hugging Face Optimum 的 AMD 扩展：为 AMD GPU（ROCm）与 Ryzen AI NPU 提�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-amd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "huggingface/optimum-amd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 100 --> 103
-    line [101, 102, 102]
+    line [101, 102, 101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-11-02 102（+1）
+2026-10-18 101 → 2026-11-17 102（+1）
 
 
 ---

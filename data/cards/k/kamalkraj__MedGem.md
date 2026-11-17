@@ -44,13 +44,13 @@ Kotlin Jetpack Compose 构建的 Android 应用，在本地离线运行 MedGemma
 
 ```mermaid
 xychart-beta
-    title "kamalkraj/MedGem 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
+    title "kamalkraj/MedGem 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-22 10 → 2026-11-02 11（+1）
+2026-10-22 10 → 2026-11-17 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hscspring/llm-post-training-atlas
 
-⭐ 75 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/hscspring/llm-post-training-atlas) · [官网](https://yam.gift) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **R1 之后 LLM 后训练论文的策展图谱：7 条主线加作者裁决**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hscspring/llm-post-training-atlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-07 75（+0）
 
 
 ---

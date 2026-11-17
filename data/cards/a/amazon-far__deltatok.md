@@ -1,6 +1,6 @@
 # amazon-far/deltatok
 
-⭐ 275 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/amazon-far/deltatok) · [官网](https://deltatok.github.io) · 组织维护
+⭐ 279 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/amazon-far/deltatok) · [官网](https://deltatok.github.io) · 组织维护
 
 **CVPR 2026 论文官方实现：帧间差分 token 化与世界模型预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amazon-far/deltatok 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 272 --> 276
-    line [273, 274, 275]
+    title "amazon-far/deltatok 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 272 --> 280
+    line [273, 274, 275, 274, 277, 278, 279, 279]
 ```
 
-2026-10-18 273 → 2026-11-02 275（+2）
+2026-10-18 273 → 2026-11-17 279（+6）
 
 
 ---

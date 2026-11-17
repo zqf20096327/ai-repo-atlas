@@ -1,6 +1,6 @@
 # liruiw/GenSim
 
-⭐ 360 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/liruiw/GenSim) · [官网](https://liruiw.github.io/gensim) · 组织维护
+⭐ 362 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/liruiw/GenSim) · [官网](https://liruiw.github.io/gensim) · 组织维护
 
 **用 LLM 生成机器人仿真任务与环境的研究框架**
 
@@ -45,13 +45,13 @@ GenSim 探索用 LLM 代码生成流水线编写 PyBullet 机器人仿真环境�
 
 ```mermaid
 xychart-beta
-    title "liruiw/GenSim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 359 --> 361
-    line [360, 360]
+    title "liruiw/GenSim 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 359 --> 363
+    line [360, 361, 362, 362]
 ```
 
-2026-10-18 360 → 2026-11-02 360（+0）
+2026-10-18 360 → 2026-11-17 362（+2）
 
 
 ---

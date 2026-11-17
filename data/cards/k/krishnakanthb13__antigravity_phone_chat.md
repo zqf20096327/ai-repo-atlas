@@ -1,6 +1,6 @@
 # krishnakanthb13/antigravity_phone_chat
 
-⭐ 814 · JavaScript · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/krishnakanthb13/antigravity_phone_chat) · 个人维护
+⭐ 821 · JavaScript · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/krishnakanthb13/antigravity_phone_chat) · 个人维护
 
 **把桌面 Antigravity AI 会话镜像到手机并远程控制的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "krishnakanthb13/antigravity_phone_chat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 809 --> 815
-    line [810, 811, 813, 814, 813, 814]
+    title "krishnakanthb13/antigravity_phone_chat 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 809 --> 822
+    line [810, 811, 813, 814, 813, 814, 811, 814, 816, 817, 818, 819, 820, 821, 821]
 ```
 
-2026-10-18 810 → 2026-11-02 814（+4）
+2026-10-18 810 → 2026-11-17 821（+11）
 
 
 ---

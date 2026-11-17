@@ -1,6 +1,6 @@
 # danijar/granular
 
-⭐ 24 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/danijar/granular) · [官网](https://pypi.org/project/granular) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/danijar/granular) · [官网](https://pypi.org/project/granular) · 个人维护
 
 **面向机器学习的数据集格式与高性能数据加载器**
 
@@ -45,12 +45,12 @@ Python 数据集存储格式：每个数据集由可寻址的记录文件（.bag
 ```mermaid
 xychart-beta
     title "danijar/granular 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

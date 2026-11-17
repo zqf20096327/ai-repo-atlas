@@ -1,6 +1,6 @@
 # encord-team/ebind
 
-⭐ 14 · Python · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/encord-team/ebind) · [官网](https://encord.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **五模态统一嵌入模型：文本/音频/图像/视频/3D 点云共空间**
 
@@ -11,7 +11,7 @@ Encord 团队开源的多模态嵌入模型 EBind，支持图像、视频、音�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Encord 团队开源的多模态嵌入模型 EBind，支持图像、视频、音�
 ```mermaid
 xychart-beta
     title "encord-team/ebind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-08 14（+0）
 
 
 ---

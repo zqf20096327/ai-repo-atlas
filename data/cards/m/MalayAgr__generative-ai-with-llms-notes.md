@@ -1,6 +1,6 @@
 # MalayAgr/generative-ai-with-llms-notes
 
-⭐ 170 · Jupyter Notebook · MIT · 推送 2026-02-16 · [GitHub](https://github.com/MalayAgr/generative-ai-with-llms-notes) · [官网](https://www.coursera.org/learn/generative-ai-with-llms) · 个人维护
+⭐ 173 · Jupyter Notebook · MIT · 推送 2026-02-16 · [GitHub](https://github.com/MalayAgr/generative-ai-with-llms-notes) · [官网](https://www.coursera.org/learn/generative-ai-with-llms) · 个人维护
 
 **DeepLearning.AI 生成式 LLM 课程的笔记与代码作业合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MalayAgr/generative-ai-with-llms-notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 166 --> 171
-    line [167, 168, 169, 170, 170]
+    title "MalayAgr/generative-ai-with-llms-notes 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 166 --> 174
+    line [167, 168, 169, 170, 171, 172, 173, 173]
 ```
 
-2026-10-18 167 → 2026-11-02 170（+3）
+2026-10-18 167 → 2026-11-17 173（+6）
 
 
 ---

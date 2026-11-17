@@ -1,6 +1,6 @@
 # asterinas/KVerus
 
-⭐ 27 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/asterinas/KVerus) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/asterinas/KVerus) · 组织维护
 
 **将 Rust 代码迁移并形式化验证为 Verus 的 agent 技能工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asterinas/KVerus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "asterinas/KVerus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

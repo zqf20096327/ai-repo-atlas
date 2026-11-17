@@ -1,6 +1,6 @@
 # GoodStartLabs/AI_Diplomacy
 
-⭐ 710 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/GoodStartLabs/AI_Diplomacy) · 组织维护
+⭐ 715 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/GoodStartLabs/AI_Diplomacy) · 组织维护
 
 **让前沿 LLM 以自主 agent 玩外交棋盘博弈的实验与评测框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoodStartLabs/AI_Diplomacy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 707 --> 711
-    line [708, 709, 710, 710]
+    title "GoodStartLabs/AI_Diplomacy 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 707 --> 716
+    line [708, 709, 710, 711, 712, 713, 714, 715, 715]
 ```
 
-2026-10-18 708 → 2026-11-02 710（+2）
+2026-10-18 708 → 2026-11-17 715（+7）
 
 
 ---

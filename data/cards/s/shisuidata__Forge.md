@@ -1,6 +1,6 @@
 # shisuidata/Forge
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shisuidata/Forge) · 组织维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/shisuidata/Forge) · 组织维护 · 中文 README
 
 **面向 AI 数据查询的可信中间层基础设施：受约束候选、确定性 SQL 编译、可审查执行**
 
@@ -45,12 +45,12 @@ Forge 位于上游 agent 与数据库之间：接收 Direct SQL 或受约束的 
 ```mermaid
 xychart-beta
     title "shisuidata/Forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

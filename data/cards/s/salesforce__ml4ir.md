@@ -1,6 +1,6 @@
 # salesforce/ml4ir
 
-⭐ 87 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/ml4ir) · 组织维护
+⭐ 105 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/ml4ir) · 组织维护
 
 **面向搜索应用的深度学习模型训练与部署库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "salesforce/ml4ir 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "salesforce/ml4ir 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 86 --> 106
+    line [87, 96, 105, 105]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-17 105（+18）
 
 
 ---

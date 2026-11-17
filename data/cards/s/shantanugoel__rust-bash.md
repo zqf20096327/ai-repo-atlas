@@ -1,6 +1,6 @@
 # shantanugoel/rust-bash
 
-⭐ 33 · Rust · MIT · 推送 2026-04-05 · [GitHub](https://github.com/shantanugoel/rust-bash) · [官网](https://rustbash.dev/) · 个人维护
+⭐ 35 · Rust · MIT · 推送 2026-04-05 · [GitHub](https://github.com/shantanugoel/rust-bash) · [官网](https://rustbash.dev/) · 个人维护
 
 **面向 AI Agent 的 Rust 沙箱化 bash 解释器，带虚拟文件系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shantanugoel/rust-bash 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "shantanugoel/rust-bash 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 35（+3）
 
 
 ---

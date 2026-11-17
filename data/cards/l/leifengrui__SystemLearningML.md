@@ -1,6 +1,6 @@
 # leifengrui/SystemLearningML
 
-⭐ 33 · 推送 2026-09-24 · [GitHub](https://github.com/leifengrui/SystemLearningML) · 个人维护 · 中文 README
+⭐ 33 · 推送 2026-11-05 · [GitHub](https://github.com/leifengrui/SystemLearningML) · 个人维护 · 中文 README
 
 **ML/LLM/RL 全栈知识库：Obsidian 双链笔记，供人与 agent 共用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leifengrui/SystemLearningML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # intellectronica/skillz
 
-⭐ 406 · Python · MIT · 推送 2026-01-30 · [GitHub](https://github.com/intellectronica/skillz) · [官网](https://okigu.com/skillz) · 个人维护
+⭐ 410 · Python · MIT · 推送 2026-01-30 · [GitHub](https://github.com/intellectronica/skillz) · [官网](https://okigu.com/skillz) · 个人维护
 
 **MCP 服务器：让任意 MCP 客户端加载 Claude 风格技能为可调用工具**
 
@@ -44,13 +44,13 @@ Skillz 是一个 MCP 服务器（shim），把 Claude 风格的技能（SKILL.md
 
 ```mermaid
 xychart-beta
-    title "intellectronica/skillz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 403 --> 407
-    line [404, 405, 406, 406]
+    title "intellectronica/skillz 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 403 --> 411
+    line [404, 405, 406, 409, 410, 410]
 ```
 
-2026-10-18 404 → 2026-11-02 406（+2）
+2026-10-18 404 → 2026-11-17 410（+6）
 
 
 ---

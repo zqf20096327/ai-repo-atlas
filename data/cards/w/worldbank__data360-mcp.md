@@ -1,6 +1,6 @@
 # worldbank/data360-mcp
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/worldbank/data360-mcp) · [官网](https://worldbank.github.io/data360-mcp/) · 组织维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/worldbank/data360-mcp) · [官网](https://worldbank.github.io/data360-mcp/) · 组织维护
 
 **世界银行 Data360 数据的 MCP 服务器，供 LLM agent 检索发展指标**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbank/data360-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    title "worldbank/data360-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 40 --> 46
+    line [41, 42, 43, 45, 45]
 ```
 
-2026-10-18 41 → 2026-11-02 43（+2）
+2026-10-18 41 → 2026-11-17 45（+4）
 
 
 ---

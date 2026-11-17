@@ -1,6 +1,6 @@
 # microsoft/webgym
 
-⭐ 51 · Python · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/microsoft/webgym) · 组织维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/microsoft/webgym) · 组织维护
 
 **异步多步强化学习训练视觉 Web Agent 的框架**
 
@@ -45,13 +45,13 @@ Microsoft 与 UIUC 等机构发布的 AsyncWebRL：基于 AReaL 异步 RL 框架
 
 ```mermaid
 xychart-beta
-    title "microsoft/webgym 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "microsoft/webgym 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 50, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

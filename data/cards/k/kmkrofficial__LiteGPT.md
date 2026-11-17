@@ -1,6 +1,6 @@
 # kmkrofficial/LiteGPT
 
-⭐ 35 · Python · 推送 2026-10-05 · [GitHub](https://github.com/kmkrofficial/LiteGPT) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 nanoGPT 从零训练的 124M 小语言模型及代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kmkrofficial/LiteGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-11-08"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-08 34（-1）
 
 
 ---

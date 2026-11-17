@@ -1,6 +1,6 @@
 # 0xPD33/commonplace
 
-⭐ 24 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/0xPD33/commonplace) · [官网](https://askcommonplace.app/) · 个人维护
+⭐ 37 · Rust · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/0xPD33/commonplace) · [官网](https://askcommonplace.app/) · 个人维护
 
 **安卓离线 AI 研究问答应用：本机检索维基百科并给出带引用的回答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xPD33/commonplace 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 25
-    line [13, 24]
+    title "0xPD33/commonplace 星数(近 7 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 39
+    line [13, 24, 34, 35, 36, 37, 37]
 ```
 
-2026-11-01 13 → 2026-11-02 24（+11）
+2026-11-01 13 → 2026-11-17 37（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # ishandutta2007/Velocity
 
-⭐ 568 · TypeScript · GPL-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ishandutta2007/Velocity) · 个人维护
+⭐ 570 · TypeScript · GPL-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/ishandutta2007/Velocity) · 个人维护
 
 **开源 web 原生 agent-first AI 编程 IDE 与通用 LLM 网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ishandutta2007/Velocity 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "ishandutta2007/Velocity 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
     y-axis "stars" 566 --> 571
-    line [569, 570, 569, 567, 568, 568]
+    line [569, 570, 569, 567, 568, 569, 570, 569, 570, 570]
 ```
 
-2026-10-18 569 → 2026-11-02 568（-1）
+2026-10-18 569 → 2026-11-17 570（+1）
 
 
 ---

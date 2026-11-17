@@ -1,6 +1,6 @@
 # openml/openml-python
 
-⭐ 373 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/openml/openml-python) · [官网](http://openml.github.io/openml-python/latest/) · 组织维护
+⭐ 377 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/openml/openml-python) · [官网](http://openml.github.io/openml-python/latest/) · 组织维护
 
 **OpenML 平台的 Python API：下载/上传数据集与实验结果**
 
@@ -45,13 +45,13 @@ OpenML-Python 是机器学习开放科学协作平台 OpenML 的官方 Python �
 
 ```mermaid
 xychart-beta
-    title "openml/openml-python 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 366 --> 374
-    line [367, 369, 370, 371, 372, 373, 373]
+    title "openml/openml-python 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 366 --> 378
+    line [367, 369, 370, 371, 372, 373, 370, 374, 376, 377, 377]
 ```
 
-2026-10-18 367 → 2026-11-02 373（+6）
+2026-10-18 367 → 2026-11-17 377（+10）
 
 
 ---

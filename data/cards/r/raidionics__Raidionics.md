@@ -1,6 +1,6 @@
 # raidionics/Raidionics
 
-⭐ 47 · Python · BSD-2-Clause · 推送 2026-01-15 · [GitHub](https://github.com/raidionics/Raidionics) · [官网](https://raidionics.github.io/) · 组织维护
+⭐ 48 · Python · BSD-2-Clause · 推送 2026-01-15 · [GitHub](https://github.com/raidionics/Raidionics) · [官网](https://raidionics.github.io/) · 组织维护
 
 **脑肿瘤 MRI 自动分割与标准化报告的软件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raidionics/Raidionics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "raidionics/Raidionics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

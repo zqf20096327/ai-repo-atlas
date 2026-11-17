@@ -1,6 +1,6 @@
 # briascoi/skillgrab
 
-⭐ 16 · HTML · MIT · 推送 2026-04-21 · [GitHub](https://github.com/briascoi/skillgrab) · [官网](https://briascoi.github.io/skillgrab/) · 个人维护
+⭐ 15 · HTML · MIT · 推送 2026-04-21 · [GitHub](https://github.com/briascoi/skillgrab) · [官网](https://briascoi.github.io/skillgrab/) · 个人维护
 
 **一条命令扫描项目并自动安装匹配 AI agent 技能的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "briascoi/skillgrab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "briascoi/skillgrab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

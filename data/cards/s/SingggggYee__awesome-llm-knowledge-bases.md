@@ -1,6 +1,6 @@
 # SingggggYee/awesome-llm-knowledge-bases
 
-⭐ 40 · CC0-1.0 · 推送 2026-04-09 · [GitHub](https://github.com/SingggggYee/awesome-llm-knowledge-bases) · [官网](https://github.com/SingggggYee/awesome-llm-knowledge-bases#contents) · 个人维护
+⭐ 41 · CC0-1.0 · 推送 2026-04-09 · [GitHub](https://github.com/SingggggYee/awesome-llm-knowledge-bases) · [官网](https://github.com/SingggggYee/awesome-llm-knowledge-bases#contents) · 个人维护
 
 **构建 LLM 个人知识库的工具策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SingggggYee/awesome-llm-knowledge-bases 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "SingggggYee/awesome-llm-knowledge-bases 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

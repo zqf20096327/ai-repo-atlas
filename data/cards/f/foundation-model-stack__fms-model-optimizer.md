@@ -1,6 +1,6 @@
 # foundation-model-stack/fms-model-optimizer
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/foundation-model-stack/fms-model-optimizer) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/foundation-model-stack/fms-model-optimizer) · 组织维护
 
 **神经网络模型量化压缩框架，面向开发低精度模型**
 
@@ -45,12 +45,12 @@ FMS Model Optimizer（fms-model-optimizer）是用于开发低精度神经网络
 ```mermaid
 xychart-beta
     title "foundation-model-stack/fms-model-optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

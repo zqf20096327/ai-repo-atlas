@@ -1,6 +1,6 @@
 # smallchao/EvoForge
 
-⭐ 95 · 推送 2026-08-23 · [GitHub](https://github.com/smallchao/EvoForge) · [官网](https://evoforge.cc) · 个人维护
+⭐ 94 · 推送 2026-08-23 · [GitHub](https://github.com/smallchao/EvoForge) · [官网](https://evoforge.cc) · 个人维护
 
 **具备记忆与技能沉淀能力的桌面智能体工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smallchao/EvoForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "smallchao/EvoForge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 96
+    line [95, 94, 94]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 94（-1）
 
 
 ---

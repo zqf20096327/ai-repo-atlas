@@ -1,6 +1,6 @@
 # alicomert/pixcode
 
-⭐ 20 · JavaScript · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/alicomert/pixcode) · [官网](https://github.com/alicomert/pixcode) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/alicomert/pixcode) · [官网](https://github.com/alicomert/pixcode) · 个人维护 · 中文 README
 
 **自托管 AI 编码 agent 控制台：统一管理多种编码 CLI**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "alicomert/pixcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "alicomert/pixcode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

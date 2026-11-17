@@ -1,6 +1,6 @@
 # InternLM/StarBench
 
-⭐ 47 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/InternLM/StarBench) · [官网](https://internlm.github.io/StarBench/) · 组织维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/InternLM/StarBench) · [官网](https://internlm.github.io/StarBench/) · 组织维护 · 中文 README
 
 **音频 4D 时空推理基准数据集与评测管线（ICLR 2026）**
 
@@ -44,13 +44,13 @@ STAR-Bench 是一个评测音频模型时空推理能力（audio 4D intelligence
 
 ```mermaid
 xychart-beta
-    title "InternLM/StarBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "InternLM/StarBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 46, 48, 48]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 48（+2）
 
 
 ---

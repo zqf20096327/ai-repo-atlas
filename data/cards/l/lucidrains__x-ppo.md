@@ -1,6 +1,6 @@
 # lucidrains/x-ppo
 
-⭐ 129 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lucidrains/x-ppo) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lucidrains/x-ppo) · 个人维护
 
 **PyTorch 的 PPO 强化学习算法实现库，供 RL 研究与训练使用**
 
@@ -44,13 +44,13 @@ lucidrains 维护的 PyTorch 版 PPO（近端策略优化）实现，包含 clip
 
 ```mermaid
 xychart-beta
-    title "lucidrains/x-ppo 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-11-02"]
+    title "lucidrains/x-ppo 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 128 --> 131
-    line [130, 129, 129]
+    line [130, 129, 130, 129, 130, 130]
 ```
 
-2026-10-22 130 → 2026-11-02 129（-1）
+2026-10-22 130 → 2026-11-17 130（+0）
 
 
 ---

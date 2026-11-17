@@ -1,6 +1,6 @@
 # TweetyProjectTeam/TweetyProject
 
-⭐ 44 · Java · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/TweetyProjectTeam/TweetyProject) · [官网](http://tweetyproject.org/) · 组织维护
+⭐ 45 · Java · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/TweetyProjectTeam/TweetyProject) · [官网](http://tweetyproject.org/) · 组织维护
 
 **符号 AI 与知识表示的 Java 库集合，面向科研与开发**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TweetyProjectTeam/TweetyProject 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "TweetyProjectTeam/TweetyProject 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

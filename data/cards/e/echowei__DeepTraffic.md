@@ -1,6 +1,6 @@
 # echowei/DeepTraffic
 
-⭐ 772 · Python · MPL-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/echowei/DeepTraffic) · 个人维护 · 中文 README
+⭐ 771 · Python · MPL-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/echowei/DeepTraffic) · 个人维护 · 中文 README
 
 **用深度学习做网络流量分类与入侵检测的模型代码库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "echowei/DeepTraffic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 771 --> 773
-    line [772, 772]
+    title "echowei/DeepTraffic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 770 --> 773
+    line [772, 771, 771]
 ```
 
-2026-10-18 772 → 2026-11-02 772（+0）
+2026-10-18 772 → 2026-11-17 771（-1）
 
 
 ---

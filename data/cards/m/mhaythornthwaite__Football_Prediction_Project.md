@@ -1,6 +1,6 @@
 # mhaythornthwaite/Football_Prediction_Project
 
-⭐ 318 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/mhaythornthwaite/Football_Prediction_Project) · [官网](http://matthaythornthwaite.pythonanywhere.com/) · 个人维护
+⭐ 320 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/mhaythornthwaite/Football_Prediction_Project) · [官网](http://matthaythornthwaite.pythonanywhere.com/) · 个人维护
 
 **用经典机器学习预测英超比赛结果的分析项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mhaythornthwaite/Football_Prediction_Project 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 314 --> 319
-    line [315, 316, 317, 318, 318]
+    title "mhaythornthwaite/Football_Prediction_Project 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 314 --> 321
+    line [315, 316, 317, 318, 317, 319, 320, 320]
 ```
 
-2026-10-18 315 → 2026-11-02 318（+3）
+2026-10-18 315 → 2026-11-17 320（+5）
 
 
 ---

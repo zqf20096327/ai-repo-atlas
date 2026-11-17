@@ -1,6 +1,6 @@
 # l33tdawg/aether
 
-⭐ 71 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/l33tdawg/aether) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/l33tdawg/aether) · 个人维护
 
 **Solidity 智能合约安全审计框架：静态检测+LLM 多轮流水线生成漏洞报告与 PoC**
 
@@ -45,13 +45,13 @@ Python 编写的智能合约审计框架，面向安全研究员与赏金猎人�
 
 ```mermaid
 xychart-beta
-    title "l33tdawg/aether 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 67 --> 72
-    line [68, 69, 71, 71]
+    title "l33tdawg/aether 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 73
+    line [68, 69, 71, 69, 72, 72]
 ```
 
-2026-10-18 68 → 2026-11-02 71（+3）
+2026-10-18 68 → 2026-11-17 72（+4）
 
 
 ---

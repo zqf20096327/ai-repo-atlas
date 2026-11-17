@@ -1,6 +1,6 @@
 # yoy123/lmstudio-copilot-provider
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yoy123/lmstudio-copilot-provider) · [官网](https://github.com/yoy123/lmstudio-copilot-provider#readme) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yoy123/lmstudio-copilot-provider) · [官网](https://github.com/yoy123/lmstudio-copilot-provider#readme) · 个人维护
 
 **在 VS Code Copilot Chat 中接入本地 LM Studio 模型的扩展**
 
@@ -44,13 +44,13 @@ VS Code 扩展，将 LM Studio 本地或远程服务器上的模型加入 Copilo
 
 ```mermaid
 xychart-beta
-    title "yoy123/lmstudio-copilot-provider 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "yoy123/lmstudio-copilot-provider 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 45
+    line [39, 40, 39, 43, 44, 44]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 44（+5）
 
 
 ---

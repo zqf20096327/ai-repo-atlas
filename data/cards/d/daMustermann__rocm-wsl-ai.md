@@ -1,6 +1,6 @@
 # daMustermann/rocm-wsl-ai
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/daMustermann/rocm-wsl-ai) · 个人维护
+⭐ 25 · Shell · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/daMustermann/rocm-wsl-ai) · 个人维护
 
 **在 WSL2 的 AMD GPU 上安装 ROCm 并统一启动本地 AI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daMustermann/rocm-wsl-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "daMustermann/rocm-wsl-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

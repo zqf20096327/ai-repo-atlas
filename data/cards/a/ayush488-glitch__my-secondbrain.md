@@ -1,6 +1,6 @@
 # ayush488-glitch/my-secondbrain
 
-⭐ 15 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/ayush488-glitch/my-secondbrain) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/ayush488-glitch/my-secondbrain) · 个人维护
 
 **用 Obsidian+Claude+Codex 搭建 AI 维护个人维基的实践手册与模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayush488-glitch/my-secondbrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ayush488-glitch/my-secondbrain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

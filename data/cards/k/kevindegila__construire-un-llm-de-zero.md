@@ -1,6 +1,6 @@
 # kevindegila/construire-un-llm-de-zero
 
-⭐ 46 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/kevindegila/construire-un-llm-de-zero) · [官网](https://llmdezero.com) · 个人维护
+⭐ 47 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/kevindegila/construire-un-llm-de-zero) · [官网](https://llmdezero.com) · 个人维护
 
 **法语教程仓库：22 章笔记本从零手写 LLM 到 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevindegila/construire-un-llm-de-zero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "kevindegila/construire-un-llm-de-zero 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # profullstack/tronbrowser.dev
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/profullstack/tronbrowser.dev) · [官网](https://tronbrowser.dev) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/profullstack/tronbrowser.dev) · [官网](https://tronbrowser.dev) · 组织维护
 
 **去谷歌化、隐私优先的 AI 浏览器（Ungoogled Chromium 分叉）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "profullstack/tronbrowser.dev 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-30 10 → 2026-11-02 11（+1）
+2026-10-30 10 → 2026-11-17 11（+1）
 
 
 ---

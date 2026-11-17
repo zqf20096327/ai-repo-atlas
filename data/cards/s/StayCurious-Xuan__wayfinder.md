@@ -1,6 +1,6 @@
 # StayCurious-Xuan/wayfinder
 
-⭐ 91 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/StayCurious-Xuan/wayfinder) · [官网](https://wayfinder-ai.pages.dev) · 个人维护
+⭐ 92 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/StayCurious-Xuan/wayfinder) · [官网](https://wayfinder-ai.pages.dev) · 个人维护
 
 **本地优先桌面应用：把 AI 协作过程可视化为目标与分支的历史图谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StayCurious-Xuan/wayfinder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "StayCurious-Xuan/wayfinder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
     y-axis "stars" 90 --> 100
-    line [99, 91, 91]
+    line [99, 91, 92, 92]
 ```
 
-2026-10-18 99 → 2026-11-02 91（-8）
+2026-10-18 99 → 2026-11-17 92（-7）
 
 
 ---

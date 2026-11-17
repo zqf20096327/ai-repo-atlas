@@ -1,6 +1,6 @@
 # spcl/MRAG
 
-⭐ 242 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/spcl/MRAG) · [官网](http://arxiv.org/abs/2406.05085) · 组织维护
+⭐ 241 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/spcl/MRAG) · [官网](http://arxiv.org/abs/2406.05085) · 组织维护
 
 **Multi-Head RAG 论文官方实现：用注意力头激活做多方面检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spcl/MRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "spcl/MRAG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-13", "2026-11-17"]
     y-axis "stars" 240 --> 243
-    line [242, 241, 242, 242]
+    line [242, 241, 242, 241, 241]
 ```
 
-2026-10-18 242 → 2026-11-02 242（+0）
+2026-10-18 242 → 2026-11-17 241（-1）
 
 
 ---

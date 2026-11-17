@@ -1,6 +1,6 @@
 # badhope/spark
 
-⭐ 21 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/badhope/spark) · [官网](https://github.com/badhope/spark#readme) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/badhope/spark) · [官网](https://badhope.github.io/spark/) · 个人维护 · 中文 README
 
 **本地自托管 AI 编程智能体，同一核心提供六种运行形态**
 
@@ -45,13 +45,13 @@ Spark 是自托管的 AI coding agent：控制流基于 LangGraph，LiteLLM 统�
 
 ```mermaid
 xychart-beta
-    title "badhope/spark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "badhope/spark 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 32
+    line [21, 25, 29, 31, 31]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 31（+10）
 
 
 ---

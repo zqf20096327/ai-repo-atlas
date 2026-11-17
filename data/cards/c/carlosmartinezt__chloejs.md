@@ -1,6 +1,6 @@
 # carlosmartinezt/chloejs
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/carlosmartinezt/chloejs) · [官网](https://chloejs.org) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/carlosmartinezt/chloejs) · [官网](https://chloejs.org) · 个人维护
 
 **本地运行的 TypeScript AI agent 运行时：代码主导、按需调用 LLM**
 
@@ -45,13 +45,13 @@ Chloe 是运行在用户自己机器上的 Node.js agent 运行时：agent 以 T
 
 ```mermaid
 xychart-beta
-    title "carlosmartinezt/chloejs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02"]
+    title "carlosmartinezt/chloejs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 7 --> 15
-    line [8, 12, 13, 14, 14]
+    line [8, 12, 13, 14, 13, 14, 14]
 ```
 
-2026-10-18 8 → 2026-11-02 14（+6）
+2026-10-18 8 → 2026-11-17 14（+6）
 
 
 ---

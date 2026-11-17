@@ -1,6 +1,6 @@
 # appolloqin/gen-txt-to-image
 
-⭐ 108 · Python · 推送 2026-06-28 · [GitHub](https://github.com/appolloqin/gen-txt-to-image) · 个人维护 · 中文 README
+⭐ 110 · Python · 推送 2026-06-28 · [GitHub](https://github.com/appolloqin/gen-txt-to-image) · 个人维护 · 中文 README
 
 **文生视频应用：LLM 生成提示词驱动 Stable Diffusion 出图并合成视频**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "appolloqin/gen-txt-to-image 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 105 --> 109
-    line [106, 107, 108, 108]
+    title "appolloqin/gen-txt-to-image 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 105 --> 111
+    line [106, 107, 108, 107, 110, 110]
 ```
 
-2026-10-18 106 → 2026-11-02 108（+2）
+2026-10-18 106 → 2026-11-17 110（+4）
 
 
 ---

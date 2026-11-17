@@ -1,6 +1,6 @@
 # freema/codeforge
 
-⭐ 15 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/freema/codeforge) · [官网](https://codeforge.tomasgrasl.cz) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/freema/codeforge) · [官网](https://codeforge.tomasgrasl.cz) · 个人维护
 
 **自托管后端编排器：在 git 仓库上运行 AI CLI 会话与自动 PR 审查**
 
@@ -46,12 +46,12 @@ CodeForge 是用 Go + React 构建的 AI 代码工作编排后端：以会话为
 ```mermaid
 xychart-beta
     title "freema/codeforge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # boshi-xixixi/TraeSkill
 
-⭐ 281 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/boshi-xixixi/TraeSkill) · 个人维护 · 中文 README
+⭐ 283 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/boshi-xixixi/TraeSkill) · 个人维护 · 中文 README
 
 **为 Trae IDE（兼 Cursor）提供的标准化 AI 编码技能集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "boshi-xixixi/TraeSkill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 276 --> 282
-    line [278, 279, 277, 278, 280, 281, 281]
+    title "boshi-xixixi/TraeSkill 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 276 --> 284
+    line [278, 279, 277, 278, 280, 281, 278, 282, 283, 283]
 ```
 
-2026-10-18 278 → 2026-11-02 281（+3）
+2026-10-18 278 → 2026-11-17 283（+5）
 
 
 ---

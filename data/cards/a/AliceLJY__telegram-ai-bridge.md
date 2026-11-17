@@ -1,6 +1,6 @@
 # AliceLJY/telegram-ai-bridge
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/AliceLJY/telegram-ai-bridge) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/AliceLJY/telegram-ai-bridge) · 个人维护 · 中文 README
 
 **让多后端 AI agent 在 Telegram 群里协作的自托管桥接网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AliceLJY/telegram-ai-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "AliceLJY/telegram-ai-bridge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

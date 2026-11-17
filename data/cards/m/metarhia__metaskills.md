@@ -1,6 +1,6 @@
 # metarhia/metaskills
 
-⭐ 61 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/metarhia/metaskills) · 组织维护
+⭐ 60 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/metarhia/metaskills) · 组织维护
 
 **Metarhia 技术栈的 AI 助手/IDE 技能指令集（SKILL.md 集合）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metarhia/metaskills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "metarhia/metaskills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    line [59, 60, 61, 59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # davidmigloz/langchain_dart
 
-⭐ 689 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/davidmigloz/langchain_dart) · [官网](http://davidmigloz.github.io/langchain_dart/) · 个人维护
+⭐ 687 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/davidmigloz/langchain_dart) · [官网](http://davidmigloz.github.io/langchain_dart/) · 个人维护
 
 **LangChain 的 Dart/Flutter 移植版：构建 LLM 应用框架**
 
@@ -45,13 +45,13 @@ LangChain.dart 是 LangChain Python 框架的非官方 Dart 移植版，为 Dart
 
 ```mermaid
 xychart-beta
-    title "davidmigloz/langchain_dart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 688 --> 691
-    line [690, 689, 689]
+    title "davidmigloz/langchain_dart 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 686 --> 691
+    line [690, 689, 688, 687, 687]
 ```
 
-2026-10-18 690 → 2026-11-02 689（-1）
+2026-10-18 690 → 2026-11-17 687（-3）
 
 
 ---

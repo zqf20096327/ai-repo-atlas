@@ -1,6 +1,6 @@
 # lirantal/awesome-mcp-best-practices
 
-⭐ 85 · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/lirantal/awesome-mcp-best-practices) · 个人维护
+⭐ 87 · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/lirantal/awesome-mcp-best-practices) · 个人维护
 
 **MCP 服务器/客户端构建最佳实践策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lirantal/awesome-mcp-best-practices 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "lirantal/awesome-mcp-best-practices 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 88
+    line [84, 85, 87, 87]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 87（+3）
 
 
 ---

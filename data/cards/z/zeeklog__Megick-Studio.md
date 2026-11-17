@@ -1,6 +1,6 @@
 # zeeklog/Megick-Studio
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/zeeklog/Megick-Studio) · [官网](https://megick.com) · 组织维护 · 中文 README
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/zeeklog/Megick-Studio) · [官网](https://megick.com) · 组织维护 · 中文 README
 
 **自托管 AI 图片/视频生成创作平台，支持 100+ 模型接入**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeeklog/Megick-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "zeeklog/Megick-Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

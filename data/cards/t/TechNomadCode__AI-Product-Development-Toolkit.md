@@ -1,6 +1,6 @@
 # TechNomadCode/AI-Product-Development-Toolkit
 
-⭐ 1,046 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/TechNomadCode/AI-Product-Development-Toolkit) · [官网](https://promptquick.ai) · 个人维护
+⭐ 1,057 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/TechNomadCode/AI-Product-Development-Toolkit) · [官网](https://promptquick.ai) · 个人维护
 
 **面向 AI 编程代理的产品开发提示词与技能工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TechNomadCode/AI-Product-Development-Toolkit 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1022 --> 1048
-    line [1025, 1024, 1027, 1028, 1030, 1032, 1040, 1042, 1044, 1046]
+    title "TechNomadCode/AI-Product-Development-Toolkit 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1021 --> 1060
+    line [1025, 1024, 1027, 1028, 1030, 1032, 1040, 1042, 1044, 1046, 1028, 1053, 1054, 1055, 1057, 1057]
 ```
 
-2026-10-18 1,025 → 2026-11-02 1,046（+21）
+2026-10-18 1,025 → 2026-11-17 1,057（+32）
 
 
 ---

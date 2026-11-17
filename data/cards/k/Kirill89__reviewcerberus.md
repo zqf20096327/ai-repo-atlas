@@ -1,6 +1,6 @@
 # Kirill89/reviewcerberus
 
-⭐ 32 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Kirill89/reviewcerberus) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Kirill89/reviewcerberus) · 个人维护
 
 **AI 代码审查工具：分析 git 分支差异并生成结构化审查报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kirill89/reviewcerberus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

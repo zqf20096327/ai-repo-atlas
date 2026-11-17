@@ -1,6 +1,6 @@
 # opentrack/neuralnet-tracker-traincode
 
-⭐ 43 · Jupyter Notebook · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/opentrack/neuralnet-tracker-traincode) · 组织维护
+⭐ 43 · Jupyter Notebook · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/opentrack/neuralnet-tracker-traincode) · 组织维护
 
 **OpenTrack 头部姿态追踪神经网络的训练与评估代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opentrack/neuralnet-tracker-traincode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

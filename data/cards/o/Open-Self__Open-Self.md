@@ -1,6 +1,6 @@
 # Open-Self/Open-Self
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Open-Self/Open-Self) · [官网](https://github.com/Open-Self/Open-Self) · 组织维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Open-Self/Open-Self) · [官网](https://github.com/Open-Self/Open-Self) · 组织维护
 
 **面向 AI agent 的用户私有个人上下文/记忆层（MCP 提供）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-Self/Open-Self 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 18, 18]
+    title "Open-Self/Open-Self 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 18, 15, 19, 19]
 ```
 
-2026-10-18 14 → 2026-11-02 18（+4）
+2026-10-18 14 → 2026-11-17 19（+5）
 
 
 ---

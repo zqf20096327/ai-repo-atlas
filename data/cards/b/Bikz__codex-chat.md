@@ -1,6 +1,6 @@
 # Bikz/codex-chat
 
-⭐ 32 · Swift · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Bikz/codex-chat) · 个人维护
+⭐ 33 · Swift · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Bikz/codex-chat) · 个人维护
 
 **macOS 原生 SwiftUI Codex 客户端，本地 Markdown 对话记录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bikz/codex-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "Bikz/codex-chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

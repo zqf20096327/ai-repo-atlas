@@ -1,6 +1,6 @@
 # amitshekhariitbhu/transformers-explained
 
-⭐ 230 · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/amitshekhariitbhu/transformers-explained) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 232 · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/amitshekhariitbhu/transformers-explained) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **逐步讲解 Transformer 架构的博客/视频教程合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/transformers-explained 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 225 --> 231
-    line [227, 226, 227, 229, 230]
+    title "amitshekhariitbhu/transformers-explained 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 225 --> 233
+    line [227, 226, 227, 229, 230, 226, 230, 231, 232, 232]
 ```
 
-2026-10-18 227 → 2026-11-02 230（+3）
+2026-10-18 227 → 2026-11-17 232（+5）
 
 
 ---

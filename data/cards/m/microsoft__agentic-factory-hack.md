@@ -1,6 +1,6 @@
 # microsoft/agentic-factory-hack
 
-⭐ 85 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/microsoft/agentic-factory-hack) · 组织维护
+⭐ 90 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/agentic-factory-hack) · 组织维护
 
 **微软 predictive maintenance 多智能体黑客松教程仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentic-factory-hack 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 79 --> 87
-    line [80, 82, 85, 86, 85, 85]
+    title "microsoft/agentic-factory-hack 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 79 --> 91
+    line [80, 82, 85, 86, 85, 82, 88, 90, 90]
 ```
 
-2026-10-18 80 → 2026-11-02 85（+5）
+2026-10-18 80 → 2026-11-17 90（+10）
 
 
 ---

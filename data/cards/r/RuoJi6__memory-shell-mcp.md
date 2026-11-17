@@ -1,6 +1,6 @@
 # RuoJi6/memory-shell-mcp
 
-⭐ 28 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/RuoJi6/memory-shell-mcp) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/RuoJi6/memory-shell-mcp) · 个人维护 · 中文 README
 
 **检测与清除 Java 内存马的 MCP 服务器，支持本地/SSH 执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RuoJi6/memory-shell-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 28, 28]
+    title "RuoJi6/memory-shell-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [28, 27, 28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

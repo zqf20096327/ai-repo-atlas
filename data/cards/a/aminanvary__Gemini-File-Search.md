@@ -1,6 +1,6 @@
 # aminanvary/Gemini-File-Search
 
-⭐ 30 · TypeScript · MIT · 推送 2025-12-26 · [GitHub](https://github.com/aminanvary/Gemini-File-Search) · [官网](https://ai.google.dev/gemini-api/docs/file-search) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2025-12-26 · [GitHub](https://github.com/aminanvary/Gemini-File-Search) · [官网](https://ai.google.dev/gemini-api/docs/file-search) · 个人维护
 
 **给普通用户的 Gemini File Search 可视化界面：管理文件库并对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aminanvary/Gemini-File-Search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "aminanvary/Gemini-File-Search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

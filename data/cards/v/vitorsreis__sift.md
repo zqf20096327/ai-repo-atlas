@@ -1,6 +1,6 @@
 # vitorsreis/sift
 
-⭐ 15 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/vitorsreis/sift) · 个人维护
+⭐ 15 · PHP · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vitorsreis/sift) · 个人维护
 
 **面向 PHP 项目的 Composer 原生 agent 技能管理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vitorsreis/sift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stvlynn/OpenTrip
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/stvlynn/OpenTrip) · [官网](https://opentrip.im) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/stvlynn/OpenTrip) · [官网](https://opentrip.im) · 个人维护 · 中文 README
 
 **小组协作旅行规划 SaaS：地图行程、投票与费用分摊**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stvlynn/OpenTrip 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "stvlynn/OpenTrip 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 15, 13, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # deskbtm/nitmgpt
 
-⭐ 96 · Dart · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/deskbtm/nitmgpt) · 个人维护
+⭐ 95 · Dart · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/deskbtm/nitmgpt) · 个人维护
 
 **用 GPT 过滤 Android 广告/垃圾通知的监听客户端**
 
@@ -44,13 +44,13 @@ Android 通知监听客户端，读取系统通知并调用 GPT3 判断是否为
 
 ```mermaid
 xychart-beta
-    title "deskbtm/nitmgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    title "deskbtm/nitmgpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 94 --> 97
+    line [96, 95, 95]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 95（-1）
 
 
 ---

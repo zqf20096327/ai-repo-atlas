@@ -1,6 +1,6 @@
 # omartood/Chat-yourself
 
-⭐ 11 · TypeScript · 推送 2026-01-22 · [GitHub](https://github.com/omartood/Chat-yourself) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-01-22 · [GitHub](https://github.com/omartood/Chat-yourself) · 个人维护
 
 **面向终端用户的文档问答聊天应用：上传 PDF/DOCX 基于内容对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "omartood/Chat-yourself 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "omartood/Chat-yourself 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

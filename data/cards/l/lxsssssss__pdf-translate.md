@@ -1,6 +1,6 @@
 # lxsssssss/pdf-translate
 
-⭐ 93 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lxsssssss/pdf-translate) · 个人维护 · 中文 README
+⭐ 92 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lxsssssss/pdf-translate) · 个人维护 · 中文 README
 
 **供 AI Agent 调用的高保真 PDF 翻译技能与审计工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lxsssssss/pdf-translate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 92 --> 103
-    line [102, 93, 93]
+    title "lxsssssss/pdf-translate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 90 --> 103
+    line [102, 93, 91, 92, 92]
 ```
 
-2026-10-18 102 → 2026-11-02 93（-9）
+2026-10-18 102 → 2026-11-17 92（-10）
 
 
 ---

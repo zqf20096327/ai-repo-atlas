@@ -1,6 +1,6 @@
 # transparent-pegasus/herdrpowers
 
-⭐ 12 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/transparent-pegasus/herdrpowers) · 个人维护
+⭐ 14 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/transparent-pegasus/herdrpowers) · 个人维护
 
 **在 herdr 面板中运行 AI 编码代理的开发框架与技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "transparent-pegasus/herdrpowers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "transparent-pegasus/herdrpowers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

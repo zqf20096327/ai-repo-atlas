@@ -1,6 +1,6 @@
 # dkondo/agent-tackle-box
 
-⭐ 52 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/dkondo/agent-tackle-box) · [官网](https://github.com/dkondo/agent-tackle-box) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/dkondo/agent-tackle-box) · [官网](https://github.com/dkondo/agent-tackle-box) · 个人维护
 
 **AI agent 开发工具箱，含 LangGraph/LangChain agent 终端调试器**
 
@@ -43,13 +43,13 @@ agent 开发工具集，当前包含 agent-debugger：一个基于 Textual 的�
 
 ```mermaid
 xychart-beta
-    title "dkondo/agent-tackle-box 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "dkondo/agent-tackle-box 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AKKI0511/QuantTradeAI
 
-⭐ 16 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/AKKI0511/QuantTradeAI) · [官网](https://akkijoshi.gitbook.io/quanttradeai) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/AKKI0511/QuantTradeAI) · [官网](https://akkijoshi.gitbook.io/quanttradeai) · 个人维护
 
 **供 AI 编程 Agent 使用的量化研究 CLI 工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AKKI0511/QuantTradeAI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16, 16]
+    title "AKKI0511/QuantTradeAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 16, 14, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 16（+3）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

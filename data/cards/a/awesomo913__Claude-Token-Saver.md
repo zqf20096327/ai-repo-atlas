@@ -1,6 +1,6 @@
 # awesomo913/Claude-Token-Saver
 
-⭐ 16 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/awesomo913/Claude-Token-Saver) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/awesomo913/Claude-Token-Saver) · 个人维护
 
 **本地代码搜索 CLI：只取所需函数片段喂给 Claude 省 token**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "awesomo913/Claude-Token-Saver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "awesomo913/Claude-Token-Saver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

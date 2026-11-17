@@ -1,6 +1,6 @@
 # gocnn/candy
 
-⭐ 458 · Go · BSD-3-Clause · 推送 2025-12-29 · [GitHub](https://github.com/gocnn/candy) · [官网](https://gocnn.org) · 组织维护
+⭐ 459 · Go · BSD-3-Clause · 推送 2025-12-29 · [GitHub](https://github.com/gocnn/candy) · [官网](https://gocnn.org) · 组织维护
 
 **Go 语言的极简机器学习框架，提供张量与深度学习能力**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "gocnn/candy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 457 --> 459
-    line [458, 458]
+    title "gocnn/candy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 457 --> 460
+    line [458, 459, 459]
 ```
 
-2026-10-18 458 → 2026-11-02 458（+0）
+2026-10-18 458 → 2026-11-17 459（+1）
 
 
 ---

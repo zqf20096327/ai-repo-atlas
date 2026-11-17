@@ -1,6 +1,6 @@
 # col14m/cadrille
 
-⭐ 189 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/col14m/cadrille) · 组织维护
+⭐ 192 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/col14m/cadrille) · 组织维护
 
 **多模态 3D CAD 重建研究代码：从点云/图像/文本生成 CadQuery 代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "col14m/cadrille 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 187 --> 190
-    line [188, 189, 189]
+    title "col14m/cadrille 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 187 --> 193
+    line [188, 189, 188, 191, 192, 192]
 ```
 
-2026-10-18 188 → 2026-11-02 189（+1）
+2026-10-18 188 → 2026-11-17 192（+4）
 
 
 ---

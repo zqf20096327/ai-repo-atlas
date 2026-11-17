@@ -1,6 +1,6 @@
 # jae-jae/fetcher-mcp
 
-⭐ 1,087 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/jae-jae/fetcher-mcp) · [官网](https://1team.top) · 个人维护 · 中文 README
+⭐ 1,088 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jae-jae/fetcher-mcp) · [官网](https://1team.top) · 个人维护 · 中文 README
 
 **基于 Playwright 无头浏览器的网页抓取 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jae-jae/fetcher-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
+    title "jae-jae/fetcher-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-17"]
     y-axis "stars" 1086 --> 1089
-    line [1088, 1087, 1088, 1087, 1087]
+    line [1088, 1087, 1088, 1087, 1088, 1088]
 ```
 
-2026-10-18 1,088 → 2026-11-02 1,087（-1）
+2026-10-18 1,088 → 2026-11-17 1,088（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SPREsxm/claude-pcb-designer
 
-⭐ 12 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/SPREsxm/claude-pcb-designer) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/SPREsxm/claude-pcb-designer) · 个人维护 · 中文 README
 
 **让 AI 编程代理执行 PCB 设计、评审与投板发布的 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SPREsxm/claude-pcb-designer 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "SPREsxm/claude-pcb-designer 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 15, 15]
 ```
 
-2026-10-29 10 → 2026-11-02 12（+2）
+2026-10-29 10 → 2026-11-17 15（+5）
 
 
 ---

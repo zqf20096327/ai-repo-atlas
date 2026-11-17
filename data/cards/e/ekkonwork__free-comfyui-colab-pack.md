@@ -1,6 +1,6 @@
 # ekkonwork/free-comfyui-colab-pack
 
-⭐ 18 · Jupyter Notebook · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ekkonwork/free-comfyui-colab-pack) · 个人维护
+⭐ 20 · Jupyter Notebook · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ekkonwork/free-comfyui-colab-pack) · 个人维护
 
 **免费 Colab 上运行热门 ComfyUI 工作流的笔记本合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ekkonwork/free-comfyui-colab-pack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "ekkonwork/free-comfyui-colab-pack 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

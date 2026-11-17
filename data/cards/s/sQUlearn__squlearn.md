@@ -1,6 +1,6 @@
 # sQUlearn/squlearn
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sQUlearn/squlearn) · [官网](https://squlearn.github.io) · 组织维护
+⭐ 107 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sQUlearn/squlearn) · [官网](https://squlearn.github.io) · 组织维护
 
 **面向 NISQ 量子机器学习的 Python 库，兼容 scikit-learn 接口**
 
@@ -44,13 +44,13 @@ sQUlearn 是量子机器学习（QML）Python 库，提供与 scikit-learn 兼�
 
 ```mermaid
 xychart-beta
-    title "sQUlearn/squlearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    title "sQUlearn/squlearn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 104 --> 108
+    line [105, 107, 107]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-17 107（+2）
 
 
 ---

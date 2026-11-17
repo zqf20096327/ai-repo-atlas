@@ -1,6 +1,6 @@
 # led14900/dich-thuat-ai
 
-⭐ 29 · JavaScript · 推送 2026-09-23 · [GitHub](https://github.com/led14900/dich-thuat-ai) · [官网](https://tapgo10ngon.com) · 个人维护
+⭐ 30 · JavaScript · 推送 2026-09-23 · [GitHub](https://github.com/led14900/dich-thuat-ai) · [官网](https://tapgo10ngon.com) · 个人维护
 
 **Windows 桌面 PDF 翻译工具：AI 逐页翻译并保留排版**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "led14900/dich-thuat-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "led14900/dich-thuat-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

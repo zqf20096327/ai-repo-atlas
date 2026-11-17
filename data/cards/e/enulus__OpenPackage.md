@@ -1,6 +1,6 @@
 # enulus/OpenPackage
 
-⭐ 615 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/enulus/OpenPackage) · [官网](https://openpackage.dev) · 个人维护
+⭐ 620 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/enulus/OpenPackage) · [官网](https://openpackage.dev) · 个人维护
 
 **面向 AI 编程工具的配置包管理器：统一安装规则/命令/代理/技能**
 
@@ -45,13 +45,13 @@ OpenPackage（命令 opkg）是一个 npm 分发的 CLI 包管理器，用于跨
 
 ```mermaid
 xychart-beta
-    title "enulus/OpenPackage 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 614 --> 619
-    line [618, 617, 616, 615, 615]
+    title "enulus/OpenPackage 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 614 --> 621
+    line [618, 617, 616, 615, 616, 615, 616, 617, 616, 618, 619, 620, 620]
 ```
 
-2026-10-18 618 → 2026-11-02 615（-3）
+2026-10-18 618 → 2026-11-17 620（+2）
 
 
 ---

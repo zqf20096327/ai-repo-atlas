@@ -1,6 +1,6 @@
 # sgoedecke/gh-standup
 
-⭐ 118 · Go · MIT · 推送 2026-04-23 · [GitHub](https://github.com/sgoedecke/gh-standup) · 个人维护
+⭐ 119 · Go · MIT · 推送 2026-04-23 · [GitHub](https://github.com/sgoedecke/gh-standup) · 个人维护
 
 **给开发者的 GitHub CLI 扩展：从 GitHub 活动生成 AI 站会报告**
 
@@ -42,13 +42,13 @@ gh-standup 是一个 GitHub CLI 扩展，读取用户的 GitHub 活动（可回�
 
 ```mermaid
 xychart-beta
-    title "sgoedecke/gh-standup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    title "sgoedecke/gh-standup 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 116 --> 120
+    line [117, 118, 119, 119]
 ```
 
-2026-10-18 117 → 2026-11-02 118（+1）
+2026-10-18 117 → 2026-11-17 119（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # cool-japan/sklears
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/cool-japan/sklears) · [官网](https://github.com/cool-japan/sklears) · 组织维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/sklears) · [官网](https://github.com/cool-japan/sklears) · 组织维护
 
 **Rust 实现的机器学习库，复刻 scikit-learn API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cool-japan/sklears 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 21, 22, 22]
+    title "cool-japan/sklears 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 21, 22, 19, 25, 25]
 ```
 
-2026-10-18 18 → 2026-11-02 22（+4）
+2026-10-18 18 → 2026-11-17 25（+7）
 
 
 ---

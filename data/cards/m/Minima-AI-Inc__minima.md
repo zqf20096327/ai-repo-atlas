@@ -1,6 +1,6 @@
 # Minima-AI-Inc/minima
 
-⭐ 1,056 · Python · MPL-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/Minima-AI-Inc/minima) · 组织维护
+⭐ 1,055 · Python · MPL-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/Minima-AI-Inc/minima) · 组织维护
 
 **本地部署的对话式 RAG 容器套件：用本地文档问答**
 
@@ -45,13 +45,13 @@ Minima 以 Docker Compose 容器组形式提供本地 RAG：索引本地文件�
 
 ```mermaid
 xychart-beta
-    title "Minima-AI-Inc/minima 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    title "Minima-AI-Inc/minima 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-15", "2026-11-17"]
     y-axis "stars" 1053 --> 1057
-    line [1054, 1055, 1056, 1056]
+    line [1054, 1055, 1056, 1055, 1055]
 ```
 
-2026-10-18 1,054 → 2026-11-02 1,056（+2）
+2026-10-18 1,054 → 2026-11-17 1,055（+1）
 
 
 ---

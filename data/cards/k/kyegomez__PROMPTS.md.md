@@ -1,6 +1,6 @@
 # kyegomez/PROMPTS.md
 
-⭐ 33 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/kyegomez/PROMPTS.md) · [官网](https://swarms.ai) · 个人维护
+⭐ 34 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/kyegomez/PROMPTS.md) · [官网](https://swarms.ai) · 个人维护
 
 **面向开发者的 AI 上下文文件机制讲解指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/PROMPTS.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "kyegomez/PROMPTS.md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

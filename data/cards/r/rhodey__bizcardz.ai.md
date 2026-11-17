@@ -1,6 +1,6 @@
 # rhodey/bizcardz.ai
 
-⭐ 30 · JavaScript · 推送 2026-08-28 · [GitHub](https://github.com/rhodey/bizcardz.ai) · [官网](https://bizcardz.ai) · 个人维护
+⭐ 30 · 推送 2026-11-16 · [GitHub](https://github.com/rhodey/bizcardz.ai) · [官网](https://bizcardz.ai) · 个人维护
 
 **在线设计金属名片并转为 KiCad PCB 图的网站**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "rhodey/bizcardz.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

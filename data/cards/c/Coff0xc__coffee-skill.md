@@ -1,6 +1,6 @@
 # Coff0xc/coffee-skill
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-05-22 · [GitHub](https://github.com/Coff0xc/coffee-skill) · 个人维护 · 中文 README
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Coff0xc/coffee-skill) · 个人维护 · 中文 README
 
 **面向 Codex/AgentSkills 客户端的可安装工作流 skill 包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Coff0xc/coffee-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

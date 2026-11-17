@@ -1,6 +1,6 @@
 # Artesiana/agent2
 
-⭐ 36 · Python · MIT · 推送 2026-05-06 · [GitHub](https://github.com/Artesiana/agent2) · [官网](https://getagent2.dev) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-05-06 · [GitHub](https://github.com/Artesiana/agent2) · [官网](https://getagent2.dev) · 组织维护
 
 **把领域专家知识转化为生产级 AI agent 服务的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Artesiana/agent2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "Artesiana/agent2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [36, 35, 35]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 35（-1）
 
 
 ---

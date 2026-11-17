@@ -1,6 +1,6 @@
 # QingYunA/agent-html
 
-⭐ 63 · HTML · 推送 2026-09-29 · [GitHub](https://github.com/QingYunA/agent-html) · [官网](https://agent-html-bice.vercel.app) · 个人维护 · 中文 README
+⭐ 68 · HTML · 推送 2026-09-29 · [GitHub](https://github.com/QingYunA/agent-html) · [官网](https://agent-html-bice.vercel.app) · 个人维护 · 中文 README
 
 **零依赖单文件 HTML 设计系统，作为编码 agent 技能供 LLM 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QingYunA/agent-html 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 54 --> 64
-    line [55, 56, 58, 59, 60, 61, 63]
+    title "QingYunA/agent-html 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 69
+    line [55, 56, 58, 59, 60, 61, 63, 59, 65, 66, 67, 68, 68]
 ```
 
-2026-10-18 55 → 2026-11-02 63（+8）
+2026-10-18 55 → 2026-11-17 68（+13）
 
 
 ---

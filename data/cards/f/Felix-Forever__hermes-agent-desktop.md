@@ -1,6 +1,6 @@
 # Felix-Forever/hermes-agent-desktop
 
-⭐ 66 · HTML · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Felix-Forever/hermes-agent-desktop) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护 · 中文 README
+⭐ 68 · HTML · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Felix-Forever/hermes-agent-desktop) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护 · 中文 README
 
 **多智能体桌面客户端：20 个 AI 专家自动协作完成任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Felix-Forever/hermes-agent-desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "Felix-Forever/hermes-agent-desktop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 65, 68, 68]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 68（+3）
 
 
 ---

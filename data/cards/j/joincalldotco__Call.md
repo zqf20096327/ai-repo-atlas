@@ -1,6 +1,6 @@
 # joincalldotco/Call
 
-⭐ 435 · TypeScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/joincalldotco/Call) · [官网](https://joincall.co) · 组织维护
+⭐ 438 · TypeScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/joincalldotco/Call) · [官网](https://joincall.co) · 组织维护
 
 **开源视频会议系统：Google Meet/Zoom 的自托管替代**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joincalldotco/Call 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 433 --> 436
-    line [434, 435, 435]
+    title "joincalldotco/Call 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 433 --> 439
+    line [434, 435, 434, 437, 438, 438]
 ```
 
-2026-10-18 434 → 2026-11-02 435（+1）
+2026-10-18 434 → 2026-11-17 438（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # codeintegrity-ai/mutahunter
 
-⭐ 303 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/codeintegrity-ai/mutahunter) · 组织维护
+⭐ 306 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/codeintegrity-ai/mutahunter) · 组织维护
 
 **语言无关的 LLM 驱动变异测试工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "codeintegrity-ai/mutahunter 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
-    y-axis "stars" 302 --> 304
-    line [303, 303]
+    title "codeintegrity-ai/mutahunter 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 302 --> 307
+    line [303, 305, 306, 306]
 ```
 
-2026-10-22 303 → 2026-11-02 303（+0）
+2026-10-22 303 → 2026-11-17 306（+3）
 
 
 ---

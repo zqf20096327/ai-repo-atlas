@@ -1,6 +1,6 @@
 # langchain-ai/langchain-snowflake
 
-⭐ 45 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-snowflake) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/langchain-snowflake) · 组织维护
 
 **Snowflake Cortex AI 的 LangChain/LangGraph 集成包**
 
@@ -44,13 +44,13 @@ langchain-ai 维护的官方集成包，提供 langchain-snowflake 一个 Python
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-snowflake 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-snowflake 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 45, 45]
+    line [45, 46, 45, 46, 45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 45（+0）
 
 
 ---

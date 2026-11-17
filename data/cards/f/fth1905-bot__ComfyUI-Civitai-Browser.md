@@ -1,6 +1,6 @@
 # fth1905-bot/ComfyUI-Civitai-Browser
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/fth1905-bot/ComfyUI-Civitai-Browser) · 个人维护
+⭐ 27 · JavaScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/fth1905-bot/ComfyUI-Civitai-Browser) · 个人维护
 
 **ComfyUI 内浏览 Civitai 工作流与模型并一键配齐的扩展**
 
@@ -44,13 +44,13 @@ ComfyUI 前端+API 扩展，在侧栏增加 Civitai 浏览页：可按类别搜�
 
 ```mermaid
 xychart-beta
-    title "fth1905-bot/ComfyUI-Civitai-Browser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "fth1905-bot/ComfyUI-Civitai-Browser 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    line [27, 28, 27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 27（+0）
 
 
 ---

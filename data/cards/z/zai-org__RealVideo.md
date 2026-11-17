@@ -1,6 +1,6 @@
 # zai-org/RealVideo
 
-⭐ 348 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/zai-org/RealVideo) · [官网](https://z.ai/blog/realvideo) · 组织维护 · 中文 README
+⭐ 353 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/zai-org/RealVideo) · [官网](https://z.ai/blog/realvideo) · 组织维护 · 中文 README
 
 **实时流式对话视频系统：文本输入生成语音与口型同步视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/RealVideo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 345 --> 349
-    line [346, 347, 348, 348]
+    title "zai-org/RealVideo 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 345 --> 354
+    line [346, 347, 348, 349, 350, 351, 352, 353, 353]
 ```
 
-2026-10-18 346 → 2026-11-02 348（+2）
+2026-10-18 346 → 2026-11-17 353（+7）
 
 
 ---

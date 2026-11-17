@@ -1,6 +1,6 @@
 # biao994/DocPaws
 
-⭐ 181 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/biao994/DocPaws) · 个人维护 · 中文 README
+⭐ 175 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/biao994/DocPaws) · 个人维护 · 中文 README
 
 **工程化 RAG 文档助手：知识库、PDF 索引与引用溯源拒答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "biao994/DocPaws 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 180 --> 186
-    line [185, 182, 181, 181]
+    title "biao994/DocPaws 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 174 --> 186
+    line [185, 182, 181, 182, 175, 175]
 ```
 
-2026-10-18 185 → 2026-11-02 181（-4）
+2026-10-18 185 → 2026-11-17 175（-10）
 
 
 ---

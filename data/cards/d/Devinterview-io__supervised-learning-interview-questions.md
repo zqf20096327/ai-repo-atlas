@@ -1,6 +1,6 @@
 # Devinterview-io/supervised-learning-interview-questions
 
-⭐ 25 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/supervised-learning-interview-questions) · 组织维护
+⭐ 26 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/supervised-learning-interview-questions) · 组织维护
 
 **监督学习面试题库：70 道题与答案助你准备 ML 面试**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的监督学习面试问答集合，收录 70 道基础题
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/supervised-learning-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "Devinterview-io/supervised-learning-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

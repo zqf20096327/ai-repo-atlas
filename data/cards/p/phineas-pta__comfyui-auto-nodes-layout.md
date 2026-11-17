@@ -1,6 +1,6 @@
 # phineas-pta/comfyui-auto-nodes-layout
 
-⭐ 74 · JavaScript · Unlicense · 推送 2026-05-19 · [GitHub](https://github.com/phineas-pta/comfyui-auto-nodes-layout) · [官网](https://registry.comfy.org/nodes/comfyui-auto-nodes-layout) · 个人维护
+⭐ 73 · JavaScript · Unlicense · 推送 2026-05-19 · [GitHub](https://github.com/phineas-pta/comfyui-auto-nodes-layout) · [官网](https://registry.comfy.org/nodes/comfyui-auto-nodes-layout) · 个人维护
 
 **ComfyUI 工作流节点自动布局扩展，改善可视化连线**
 
@@ -43,13 +43,13 @@ ComfyUI 自定义节点扩展：针对工作流（有向无环图）应用分层
 
 ```mermaid
 xychart-beta
-    title "phineas-pta/comfyui-auto-nodes-layout 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "phineas-pta/comfyui-auto-nodes-layout 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [74, 73, 73]
 ```
 
-2026-10-30 74 → 2026-11-02 74（+0）
+2026-10-30 74 → 2026-11-17 73（-1）
 
 
 ---

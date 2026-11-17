@@ -1,6 +1,6 @@
 # Bronya0/ally-agent
 
-⭐ 124 · Go · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Bronya0/ally-agent) · [官网](https://bronya0.github.io/ally-agent/) · 个人维护 · 中文 README
+⭐ 144 · Go · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Bronya0/ally-agent) · [官网](https://bronya0.github.io/ally-agent/) · 个人维护 · 中文 README
 
 **面向本地项目的桌面 AI 编程助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bronya0/ally-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 121 --> 125
-    line [122, 123, 124, 124]
+    title "Bronya0/ally-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 120 --> 146
+    line [122, 123, 124, 123, 142, 143, 144, 144]
 ```
 
-2026-10-18 122 → 2026-11-02 124（+2）
+2026-10-18 122 → 2026-11-17 144（+22）
 
 
 ---

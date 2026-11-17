@@ -1,6 +1,6 @@
 # ulamai/ulamai
 
-⭐ 162 · Python · 推送 2026-08-09 · [GitHub](https://github.com/ulamai/ulamai) · [官网](https://ulam.ai) · 组织维护
+⭐ 163 · Python · 推送 2026-08-09 · [GitHub](https://github.com/ulamai/ulamai) · [官网](https://ulam.ai) · 组织维护
 
 **LLM 引导的 Lean 4 定理证明与形式化 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ulamai/ulamai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    title "ulamai/ulamai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 161 --> 164
+    line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-11-02 162（+0）
+2026-10-18 162 → 2026-11-17 163（+1）
 
 
 ---

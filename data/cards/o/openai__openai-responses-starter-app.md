@@ -1,6 +1,6 @@
 # openai/openai-responses-starter-app
 
-⭐ 880 · TypeScript · NOASSERTION · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-responses-starter-app) · 组织维护
+⭐ 882 · TypeScript · NOASSERTION · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-responses-starter-app) · 组织维护
 
 **基于 OpenAI Responses API 的 NextJS 对话助手起始模板**
 
@@ -44,13 +44,13 @@ OpenAI 官方维护的 NextJS 起始应用，演示 Responses API 的用法：�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-responses-starter-app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02"]
+    title "openai/openai-responses-starter-app 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
     y-axis "stars" 877 --> 883
-    line [878, 880, 882, 881, 882, 881, 880, 880]
+    line [878, 880, 882, 881, 882, 881, 880, 881, 879, 880, 881, 882, 882]
 ```
 
-2026-10-18 878 → 2026-11-02 880（+2）
+2026-10-18 878 → 2026-11-17 882（+4）
 
 
 ---

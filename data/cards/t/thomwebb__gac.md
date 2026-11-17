@@ -1,6 +1,6 @@
 # thomwebb/gac
 
-⭐ 318 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/thomwebb/gac) · 个人维护 · 中文 README
+⭐ 319 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/thomwebb/gac) · 个人维护 · 中文 README
 
 **用 LLM 生成 git 提交信息的命令行工具**
 
@@ -46,13 +46,13 @@ Python 编写的命令行工具，以 `uvx gac` 替代 `git commit -m`：读取�
 
 ```mermaid
 xychart-beta
-    title "thomwebb/gac 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 315 --> 319
-    line [316, 317, 318, 318]
+    title "thomwebb/gac 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 315 --> 320
+    line [316, 317, 318, 316, 318, 319, 319]
 ```
 
-2026-10-18 316 → 2026-11-02 318（+2）
+2026-10-18 316 → 2026-11-17 319（+3）
 
 
 ---

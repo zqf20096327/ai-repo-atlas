@@ -1,6 +1,6 @@
 # Strategic-Automation/dspy-compounding-engineering
 
-⭐ 74 · Python · 推送 2026-06-13 · [GitHub](https://github.com/Strategic-Automation/dspy-compounding-engineering) · [官网](https://strategic-automation.github.io/dspy-compounding-engineering/) · 组织维护
+⭐ 76 · Python · 推送 2026-06-13 · [GitHub](https://github.com/Strategic-Automation/dspy-compounding-engineering) · [官网](https://strategic-automation.github.io/dspy-compounding-engineering/) · 组织维护
 
 **本地优先的 AI 工程代理 CLI：代码审查、规划与工作流自动化并持续积累经验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Strategic-Automation/dspy-compounding-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 73 --> 76
-    line [75, 74, 74]
+    title "Strategic-Automation/dspy-compounding-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [75, 74, 75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 74（-1）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

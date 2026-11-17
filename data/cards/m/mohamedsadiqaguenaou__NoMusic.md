@@ -1,6 +1,6 @@
 # mohamedsadiqaguenaou/NoMusic
 
-⭐ 25 · Rust · ISC · 推送 2026-10-18 · [GitHub](https://github.com/mohamedsadiqaguenaou/NoMusic) · [官网](https://chromewebstore.google.com/detail/fepfnjijcojaoihcekfhonohejglmdbc?utm_source=github.com) · 个人维护
+⭐ 27 · Rust · ISC · 推送 2026-10-18 · [GitHub](https://github.com/mohamedsadiqaguenaou/NoMusic) · [官网](https://chromewebstore.google.com/detail/fepfnjijcojaoihcekfhonohejglmdbc?utm_source=github.com) · 个人维护
 
 **实时移除网页视频背景音乐的浏览器扩展，全本地处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohamedsadiqaguenaou/NoMusic 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 19 --> 26
-    line [21, 20, 21, 23, 25, 25]
+    title "mohamedsadiqaguenaou/NoMusic 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 28
+    line [21, 20, 21, 23, 25, 21, 25, 26, 27, 27]
 ```
 
-2026-10-18 21 → 2026-11-02 25（+4）
+2026-10-18 21 → 2026-11-17 27（+6）
 
 
 ---

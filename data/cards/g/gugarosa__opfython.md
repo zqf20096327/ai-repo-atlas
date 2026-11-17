@@ -1,6 +1,6 @@
 # gugarosa/opfython
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gugarosa/opfython) · [官网](https://opfython.readthedocs.io) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/gugarosa/opfython) · [官网](https://opfython.readthedocs.io) · 个人维护
 
 **最优路径森林（OPF）分类器的 Python 实现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gugarosa/opfython 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 38（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lalaland-ai/lala-companion
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-03-12 · [GitHub](https://github.com/lalaland-ai/lala-companion) · [官网](https://lalaland.chat/) · 组织维护
+⭐ 42 · TypeScript · AGPL-3.0 · 推送 2026-03-12 · [GitHub](https://github.com/lalaland-ai/lala-companion) · [官网](https://lalaland.chat/) · 组织维护
 
 **带 AI 视觉与语音的 3D VRM 桌面助手应用**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "lalaland-ai/lala-companion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 43, 43]
+    title "lalaland-ai/lala-companion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [43, 44, 43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 42（-1）
 
 
 ---

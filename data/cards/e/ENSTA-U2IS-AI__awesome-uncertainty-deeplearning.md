@@ -1,6 +1,6 @@
 # ENSTA-U2IS-AI/awesome-uncertainty-deeplearning
 
-⭐ 829 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) · 组织维护
+⭐ 830 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) · 组织维护
 
 **深度学习不确定性估计的论文与代码策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ENSTA-U2IS-AI/awesome-uncertainty-deeplearning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 825 --> 830
-    line [826, 827, 828, 829, 829]
+    title "ENSTA-U2IS-AI/awesome-uncertainty-deeplearning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 825 --> 831
+    line [826, 827, 828, 829, 827, 829, 830, 830]
 ```
 
-2026-10-18 826 → 2026-11-02 829（+3）
+2026-10-18 826 → 2026-11-17 830（+4）
 
 
 ---

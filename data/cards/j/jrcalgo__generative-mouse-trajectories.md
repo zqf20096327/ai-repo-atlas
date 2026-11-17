@@ -1,6 +1,6 @@
 # jrcalgo/generative-mouse-trajectories
 
-⭐ 15 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/jrcalgo/generative-mouse-trajectories) · [官网](https://crates.io/crates/mouse-collection-environment) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/jrcalgo/generative-mouse-trajectories) · [官网](https://crates.io/crates/mouse-collection-environment) · 个人维护
 
 **采集并生成拟真鼠标轨迹的 GAN 系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jrcalgo/generative-mouse-trajectories 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "jrcalgo/generative-mouse-trajectories 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

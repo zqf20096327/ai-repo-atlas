@@ -1,6 +1,6 @@
 # mahpatil/engineering-playbook
 
-⭐ 45 · HTML · MIT · 推送 2026-10-31 · [GitHub](https://github.com/mahpatil/engineering-playbook) · 个人维护
+⭐ 45 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mahpatil/engineering-playbook) · 个人维护
 
 **面向架构师与平台团队的云原生工程标准实践手册**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mahpatil/engineering-playbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 45（+0）
 
 
 ---

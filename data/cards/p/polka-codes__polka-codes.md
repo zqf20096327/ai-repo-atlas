@@ -1,6 +1,6 @@
 # polka-codes/polka-codes
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/polka-codes/polka-codes) · [官网](https://polka.codes) · 组织维护
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/polka-codes/polka-codes) · [官网](https://polka.codes) · 组织维护
 
 **TypeScript 多 agent AI 编程助手框架，面向开发者任务规划与代码生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "polka-codes/polka-codes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

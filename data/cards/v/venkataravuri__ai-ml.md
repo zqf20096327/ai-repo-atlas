@@ -1,6 +1,6 @@
 # venkataravuri/ai-ml
 
-⭐ 52 · 推送 2026-10-31 · [GitHub](https://github.com/venkataravuri/ai-ml) · 个人维护
+⭐ 53 · 推送 2026-10-31 · [GitHub](https://github.com/venkataravuri/ai-ml) · 个人维护
 
 **AI/ML 学习资源策展清单：教程、文章与 notebook 聚合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "venkataravuri/ai-ml 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "venkataravuri/ai-ml 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-11-01 52 → 2026-11-02 52（+0）
+2026-11-01 52 → 2026-11-17 53（+1）
 
 
 ---

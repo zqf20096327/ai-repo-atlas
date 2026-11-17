@@ -1,6 +1,6 @@
 # martin-rizzo/AmazingZImageWorkflow
 
-⭐ 508 · Python · Unlicense · 推送 2026-01-15 · [GitHub](https://github.com/martin-rizzo/AmazingZImageWorkflow) · [官网](https://civitai.com/models/2181458/amazing-z-image-workflow) · 个人维护
+⭐ 510 · Python · Unlicense · 推送 2026-01-15 · [GitHub](https://github.com/martin-rizzo/AmazingZImageWorkflow) · [官网](https://civitai.com/models/2181458/amazing-z-image-workflow) · 个人维护
 
 **ComfyUI 的 Z-Image-Turbo 出图工作流：18 种预设样式+精修放大**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "martin-rizzo/AmazingZImageWorkflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 505 --> 509
-    line [506, 507, 508, 507, 508, 508]
+    title "martin-rizzo/AmazingZImageWorkflow 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 505 --> 511
+    line [506, 507, 508, 507, 508, 509, 510, 510]
 ```
 
-2026-10-18 506 → 2026-11-02 508（+2）
+2026-10-18 506 → 2026-11-17 510（+4）
 
 
 ---

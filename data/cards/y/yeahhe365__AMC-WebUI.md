@@ -1,6 +1,6 @@
 # yeahhe365/AMC-WebUI
 
-⭐ 930 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/yeahhe365/AMC-WebUI) · [官网](https://all-model-chat.pages.dev/) · 个人维护 · 中文 README
+⭐ 931 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yeahhe365/AMC-WebUI) · [官网](https://all-model-chat.pages.dev/) · 个人维护 · 中文 README
 
 **主打 Gemini 原生能力的 Local-First 多模态聊天 WebUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeahhe365/AMC-WebUI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 928 --> 933
-    line [930, 931, 932, 930, 929, 930, 930]
+    title "yeahhe365/AMC-WebUI 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 928 --> 934
+    line [930, 931, 932, 930, 929, 930, 932, 929, 930, 933, 932, 931, 931]
 ```
 
-2026-10-18 930 → 2026-11-02 930（+0）
+2026-10-18 930 → 2026-11-17 931（+1）
 
 
 ---

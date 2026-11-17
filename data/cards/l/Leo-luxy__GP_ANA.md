@@ -1,6 +1,6 @@
 # Leo-luxy/GP_ANA
 
-⭐ 17 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Leo-luxy/GP_ANA) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Leo-luxy/GP_ANA) · 个人维护 · 中文 README
 
 **本地运行的个人投资者 A 股 AI 分析决策系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Leo-luxy/GP_ANA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

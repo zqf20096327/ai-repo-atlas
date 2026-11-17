@@ -1,6 +1,6 @@
 # arakoodev/EdgeChains
 
-⭐ 432 · JavaScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/arakoodev/EdgeChains) · [官网](https://www.arakoo.ai/) · 组织维护
+⭐ 435 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/arakoodev/EdgeChains) · [官网](https://www.arakoo.ai/) · 组织维护
 
 **基于 jsonnet 声明式管理提示词与链的全栈 GenAI 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arakoodev/EdgeChains 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 428 --> 433
-    line [429, 430, 432, 432]
+    title "arakoodev/EdgeChains 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 428 --> 436
+    line [429, 430, 432, 430, 432, 433, 434, 435, 435]
 ```
 
-2026-10-18 429 → 2026-11-02 432（+3）
+2026-10-18 429 → 2026-11-17 435（+6）
 
 
 ---

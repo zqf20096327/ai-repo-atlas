@@ -1,6 +1,6 @@
 # unica-mlsec/mlsec
 
-⭐ 235 · Jupyter Notebook · 推送 2026-10-01 · [GitHub](https://github.com/unica-mlsec/mlsec) · [官网](https://unica-mlsec.github.io/mlsec/) · 组织维护
+⭐ 234 · Jupyter Notebook · 推送 2026-11-12 · [GitHub](https://github.com/unica-mlsec/mlsec) · [官网](https://unica-mlsec.github.io/mlsec/) · 组织维护
 
 **卡利亚里大学机器学习安全课程的教学资料仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "unica-mlsec/mlsec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "unica-mlsec/mlsec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 233 --> 236
-    line [235, 234, 235, 235]
+    line [235, 234, 235, 234, 234]
 ```
 
-2026-10-18 235 → 2026-11-02 235（+0）
+2026-10-18 235 → 2026-11-17 234（-1）
 
 
 ---

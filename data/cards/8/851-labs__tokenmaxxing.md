@@ -1,6 +1,6 @@
 # 851-labs/tokenmaxxing
 
-⭐ 84 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/851-labs/tokenmaxxing) · [官网](https://tokenmaxxing.sh) · 组织维护
+⭐ 95 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/851-labs/tokenmaxxing) · [官网](https://tokenmaxxing.sh) · 组织维护
 
 **本地 CLI：汇总编码 agent 的 token 用量并同步到公开排行榜**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "851-labs/tokenmaxxing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 82 --> 85
-    line [83, 84, 84]
+    title "851-labs/tokenmaxxing 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 82 --> 96
+    line [83, 84, 83, 88, 89, 90, 91, 94, 95, 95]
 ```
 
-2026-10-18 83 → 2026-11-02 84（+1）
+2026-10-18 83 → 2026-11-17 95（+12）
 
 
 ---

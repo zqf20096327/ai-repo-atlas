@@ -1,6 +1,6 @@
 # Ambuj123-lab/agentic-rag-financial-parser
 
-⭐ 110 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) · [官网](https://agentic-rag-financial-parser.onrender.com/) · 个人维护
+⭐ 111 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) · [官网](https://agentic-rag-financial-parser.onrender.com/) · 个人维护
 
 **面向印度金融法律文档的 11 节点 Agentic RAG 问答系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ambuj123-lab/agentic-rag-financial-parser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 110]
+    title "Ambuj123-lab/agentic-rag-financial-parser 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 109, 111, 111]
 ```
 
-2026-10-18 109 → 2026-11-02 110（+1）
+2026-10-18 109 → 2026-11-17 111（+2）
 
 
 ---

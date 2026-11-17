@@ -1,6 +1,6 @@
 # tensorflow/tcav
 
-⭐ 653 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/tensorflow/tcav) · 组织维护
+⭐ 654 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/tensorflow/tcav) · 组织维护
 
 **神经网络可解释性方法库：用概念激活向量量化概念对预测的重要性**
 
@@ -44,13 +44,13 @@ TensorFlow 团队的 TCAV（Testing with Concept Activation Vectors）实现：�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tcav 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "tensorflow/tcav 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 652 --> 655
-    line [654, 653, 653]
+    line [654, 653, 654, 653, 654, 654]
 ```
 
-2026-10-18 654 → 2026-11-02 653（-1）
+2026-10-18 654 → 2026-11-17 654（+0）
 
 
 ---

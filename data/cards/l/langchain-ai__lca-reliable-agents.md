@@ -43,13 +43,13 @@ LangChain 官方组织发布的 LangSmith Professional 课程配套代码仓库�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/lca-reliable-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/lca-reliable-agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

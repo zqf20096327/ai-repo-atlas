@@ -1,6 +1,6 @@
 # Kallamo/Kallamo
 
-⭐ 34 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Kallamo/Kallamo) · [官网](https://kallamo.com) · 组织维护
+⭐ 40 · JavaScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Kallamo/Kallamo) · [官网](https://kallamo.com) · 组织维护
 
 **BYOK 桌面平台：构建 AI 人设、知识库与多步工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kallamo/Kallamo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 35
-    line [20, 21, 27, 34, 34]
+    title "Kallamo/Kallamo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 18 --> 42
+    line [20, 21, 27, 34, 21, 39, 40, 40]
 ```
 
-2026-10-18 20 → 2026-11-02 34（+14）
+2026-10-18 20 → 2026-11-17 40（+20）
 
 
 ---

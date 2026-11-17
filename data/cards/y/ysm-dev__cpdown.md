@@ -1,6 +1,6 @@
 # ysm-dev/cpdown
 
-⭐ 582 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ysm-dev/cpdown) · [官网](https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf) · 个人维护
+⭐ 583 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ysm-dev/cpdown) · [官网](https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf) · 个人维护
 
 **浏览器扩展：一键复制网页内容/YouTube 字幕为干净 Markdown**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ysm-dev/cpdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 581 --> 584
-    line [582, 583, 582, 582]
+    title "ysm-dev/cpdown 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 581 --> 585
+    line [582, 583, 582, 583, 584, 583, 583]
 ```
 
-2026-10-18 582 → 2026-11-02 582（+0）
+2026-10-18 582 → 2026-11-17 583（+1）
 
 
 ---

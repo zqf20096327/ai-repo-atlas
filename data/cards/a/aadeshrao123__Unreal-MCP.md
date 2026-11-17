@@ -1,6 +1,6 @@
 # aadeshrao123/Unreal-MCP
 
-⭐ 39 · C++ · MPL-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/aadeshrao123/Unreal-MCP) · [官网](https://codefizz.dev) · 个人维护
+⭐ 40 · C++ · MPL-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/aadeshrao123/Unreal-MCP) · [官网](https://codefizz.dev) · 个人维护
 
 **用 AI 客户端控制 Unreal Engine 5 编辑器的 MCP/CLI 桥**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aadeshrao123/Unreal-MCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "aadeshrao123/Unreal-MCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 38 --> 41
-    line [40, 39, 39]
+    line [40, 39, 40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 39（-1）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

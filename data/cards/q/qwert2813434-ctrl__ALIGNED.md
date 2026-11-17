@@ -1,6 +1,6 @@
 # qwert2813434-ctrl/ALIGNED
 
-⭐ 21 · TypeScript · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/qwert2813434-ctrl/ALIGNED) · [官网](https://aligned-app.github.io/en/) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/qwert2813434-ctrl/ALIGNED) · [官网](https://aligned-app.github.io/en/) · 个人维护 · 中文 README
 
 **Instagram 跨页轮播排版编辑器，AI 可直接生成其项目文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qwert2813434-ctrl/ALIGNED 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "qwert2813434-ctrl/ALIGNED 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

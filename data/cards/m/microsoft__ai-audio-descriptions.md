@@ -1,6 +1,6 @@
 # microsoft/ai-audio-descriptions
 
-⭐ 54 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/microsoft/ai-audio-descriptions) · 组织维护
+⭐ 55 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/microsoft/ai-audio-descriptions) · 组织维护
 
 **用 AI 为视频生成可编辑的音频描述（无障碍旁白）草稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ai-audio-descriptions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    title "microsoft/ai-audio-descriptions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 54（+2）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # WangJingyao07/Awesome-GRPO
 
-⭐ 292 · Python · 推送 2025-12-06 · [GitHub](https://github.com/WangJingyao07/Awesome-GRPO) · 个人维护
+⭐ 292 · Python · 推送 2026-11-12 · [GitHub](https://github.com/WangJingyao07/Awesome-GRPO) · 个人维护
 
 **GRPO 及其变体的代码实现与论文资源合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WangJingyao07/Awesome-GRPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 291 --> 293
     line [292, 292]
 ```
 
-2026-10-18 292 → 2026-11-02 292（+0）
+2026-10-18 292 → 2026-11-17 292（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ontogr/agentic-graphrag
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ontogr/agentic-graphrag) · [官网](https://ontogr.github.io/agentic-graphrag/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ontogr/agentic-graphrag) · [官网](https://ontogr.github.io/agentic-graphrag/) · 组织维护
 
 **Python 框架：把企业文档、agent 历史与决策轨迹接入一张图谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ontogr/agentic-graphrag 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 35
-    line [25, 26, 30, 32, 33, 34, 34]
+    title "ontogr/agentic-graphrag 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 40
+    line [25, 26, 30, 32, 33, 34, 32, 37, 39, 39]
 ```
 
-2026-10-22 25 → 2026-11-02 34（+9）
+2026-10-22 25 → 2026-11-17 39（+14）
 
 
 ---

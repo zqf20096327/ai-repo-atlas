@@ -1,6 +1,6 @@
 # AMA-CMFAI/LAMBDA
 
-⭐ 598 · Python · 推送 2026-08-11 · [GitHub](https://github.com/AMA-CMFAI/LAMBDA) · [官网](https://arxiv.org/abs/2407.17535) · 组织维护 · 中文 README
+⭐ 603 · Python · 推送 2026-08-11 · [GitHub](https://github.com/AMA-CMFAI/LAMBDA) · [官网](https://arxiv.org/abs/2407.17535) · 组织维护 · 中文 README
 
 **自然语言数据分析 agent：上传数据提问，自动写代码出报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AMA-CMFAI/LAMBDA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 596 --> 599
-    line [597, 598, 598]
+    title "AMA-CMFAI/LAMBDA 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 596 --> 604
+    line [597, 598, 599, 600, 601, 602, 603, 603]
 ```
 
-2026-10-18 597 → 2026-11-02 598（+1）
+2026-10-18 597 → 2026-11-17 603（+6）
 
 
 ---

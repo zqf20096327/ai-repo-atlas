@@ -1,6 +1,6 @@
 # navthings/airgpt
 
-⭐ 25 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/navthings/airgpt) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/navthings/airgpt) · 个人维护
 
 **在 Mac 上从零训练个人聊天机器人的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "navthings/airgpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 26
-    line [13, 24, 25, 25]
+    title "navthings/airgpt 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 27
+    line [13, 24, 25, 24, 25, 26, 26]
 ```
 
-2026-10-18 13 → 2026-11-02 25（+12）
+2026-10-18 13 → 2026-11-17 26（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # scottonanski/persistent-mind-model-v1.0
 
-⭐ 46 · Python · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/scottonanski/persistent-mind-model-v1.0) · 个人维护
+⭐ 46 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/scottonanski/persistent-mind-model-v1.0) · 个人维护
 
 **事件溯源的 AI 心智/记忆运行时：可重建身份与承诺审计**
 
@@ -45,12 +45,12 @@ Persistent Mind Model 是一个事件溯源运行时，将语言模型系统的�
 ```mermaid
 xychart-beta
     title "scottonanski/persistent-mind-model-v1.0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 46（+0）
 
 
 ---

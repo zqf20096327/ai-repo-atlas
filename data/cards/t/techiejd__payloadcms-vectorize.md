@@ -1,6 +1,6 @@
 # techiejd/payloadcms-vectorize
 
-⭐ 96 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/techiejd/payloadcms-vectorize) · [官网](http://npmjs.com/package/payloadcms-vectorize) · 个人维护
+⭐ 98 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/techiejd/payloadcms-vectorize) · [官网](http://npmjs.com/package/payloadcms-vectorize) · 个人维护
 
 **为 Payload CMS 3.0 集合提供向量搜索的插件，用于构建 RAG**
 
@@ -44,13 +44,13 @@ Payload CMS 3.x 的插件，将集合内容向量化以支持语义搜索与 RAG
 
 ```mermaid
 xychart-beta
-    title "techiejd/payloadcms-vectorize 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    title "techiejd/payloadcms-vectorize 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 95 --> 99
+    line [96, 97, 98, 98]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 98（+2）
 
 
 ---

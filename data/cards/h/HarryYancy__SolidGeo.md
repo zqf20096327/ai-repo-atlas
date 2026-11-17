@@ -1,6 +1,6 @@
 # HarryYancy/SolidGeo
 
-⭐ 13 · Python · NOASSERTION · 推送 2025-11-20 · [GitHub](https://github.com/HarryYancy/SolidGeo) · [官网](https://huggingface.co/datasets/HarryYancy/SolidGeo) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **立体几何多模态空间数学推理基准数据集（3,113 题）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HarryYancy/SolidGeo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-15 13（+0）
 
 
 ---

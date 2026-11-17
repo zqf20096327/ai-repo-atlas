@@ -1,6 +1,6 @@
 # alphadl/AgentHER
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/alphadl/AgentHER) · 个人维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/alphadl/AgentHER) · 个人维护
 
 **将失败的 LLM Agent 轨迹重标注为可用训练数据的 Python 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alphadl/AgentHER 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "alphadl/AgentHER 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    line [95, 96, 95, 95]
 ```
 
-2026-10-18 95 → 2026-11-02 96（+1）
+2026-10-18 95 → 2026-11-17 95（+0）
 
 
 ---

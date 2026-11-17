@@ -1,6 +1,6 @@
 # DarkPancakes/clipforge
 
-⭐ 25 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/DarkPancakes/clipforge) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/DarkPancakes/clipforge) · 个人维护
 
 **一条命令生成 YouTube Shorts/TikTok 竖屏短视频的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DarkPancakes/clipforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "DarkPancakes/clipforge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

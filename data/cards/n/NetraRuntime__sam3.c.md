@@ -1,6 +1,6 @@
 # NetraRuntime/sam3.c
 
-⭐ 24 · C · MIT · 推送 2026-05-10 · [GitHub](https://github.com/NetraRuntime/sam3.c) · 个人维护
+⭐ 26 · C · MIT · 推送 2026-05-10 · [GitHub](https://github.com/NetraRuntime/sam3.c) · 个人维护
 
 **纯 C 实现的 SAM3 图像分割与视频跟踪推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NetraRuntime/sam3.c 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "NetraRuntime/sam3.c 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

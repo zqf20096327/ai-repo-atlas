@@ -1,6 +1,6 @@
 # termide/termide
 
-⭐ 183 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/termide/termide) · [官网](https://termide.github.io) · 组织维护 · 中文 README
+⭐ 188 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/termide/termide) · [官网](https://termide.github.io) · 组织维护 · 中文 README
 
 **一体化终端工作区：编辑器/文件管理器/终端/git/数据库与编码 Agent，单一二进制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "termide/termide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 176 --> 184
-    line [177, 179, 180, 181, 183, 183]
+    title "termide/termide 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 176 --> 189
+    line [177, 179, 180, 181, 183, 180, 185, 187, 188, 188]
 ```
 
-2026-10-18 177 → 2026-11-02 183（+6）
+2026-10-18 177 → 2026-11-17 188（+11）
 
 
 ---

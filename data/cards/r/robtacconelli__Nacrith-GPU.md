@@ -1,6 +1,6 @@
 # robtacconelli/Nacrith-GPU
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/robtacconelli/Nacrith-GPU) · [官网](https://www.nacrith.com/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/robtacconelli/Nacrith-GPU) · [官网](https://www.nacrith.com/) · 个人维护
 
 **基于 LLM 神经算术编码的无损文本压缩器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "robtacconelli/Nacrith-GPU 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "robtacconelli/Nacrith-GPU 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

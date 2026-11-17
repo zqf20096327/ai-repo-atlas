@@ -1,6 +1,6 @@
 # yoshoku/rumale-torch
 
-⭐ 18 · Ruby · BSD-3-Clause · 推送 2026-09-17 · [GitHub](https://github.com/yoshoku/rumale-torch) · 个人维护
+⭐ 18 · Ruby · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/yoshoku/rumale-torch) · 个人维护
 
 **Ruby gem：用 Rumale 接口训练/推理 torch.rb 神经网络**
 
@@ -44,12 +44,12 @@ Rumale 的扩展 gem，让用 torch.rb 定义的神经网络以与 Rumale 相同
 ```mermaid
 xychart-beta
     title "yoshoku/rumale-torch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

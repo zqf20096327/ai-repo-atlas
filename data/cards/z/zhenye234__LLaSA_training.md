@@ -1,6 +1,6 @@
 # zhenye234/LLaSA_training
 
-⭐ 657 · Python · NOASSERTION · 推送 2026-01-21 · [GitHub](https://github.com/zhenye234/LLaSA_training) · 组织维护
+⭐ 658 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/zhenye234/LLaSA_training) · 组织维护
 
 **LLaMA 架构语音合成（TTS）模型的训练代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhenye234/LLaSA_training 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 655 --> 658
-    line [656, 657, 657]
+    title "zhenye234/LLaSA_training 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 655 --> 659
+    line [656, 657, 658, 658]
 ```
 
-2026-10-18 656 → 2026-11-02 657（+1）
+2026-10-18 656 → 2026-11-17 658（+2）
 
 
 ---

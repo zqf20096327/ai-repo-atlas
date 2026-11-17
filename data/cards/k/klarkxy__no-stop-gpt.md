@@ -1,6 +1,6 @@
 # klarkxy/no-stop-gpt
 
-⭐ 26 · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/klarkxy/no-stop-gpt) · 个人维护 · 中文 README
+⭐ 30 · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/klarkxy/no-stop-gpt) · 个人维护 · 中文 README
 
 **约束编码 Agent 避免过度工程的 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "klarkxy/no-stop-gpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 20 --> 27
-    line [21, 24, 25, 26]
+    title "klarkxy/no-stop-gpt 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 31
+    line [21, 24, 25, 26, 24, 25, 27, 28, 29, 30, 30]
 ```
 
-2026-10-18 21 → 2026-11-02 26（+5）
+2026-10-18 21 → 2026-11-17 30（+9）
 
 
 ---

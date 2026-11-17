@@ -1,6 +1,6 @@
 # BiomedSciAI/fuse-med-ml
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/BiomedSciAI/fuse-med-ml) · 组织维护
+⭐ 160 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/BiomedSciAI/fuse-med-ml) · 组织维护
 
 **面向医学 ML 研究的 Python 框架，通过代码复用加速研发**
 
@@ -45,13 +45,13 @@ FuseMedML 是用于医学领域机器学习研究的 Python 框架，属于 PyTo
 
 ```mermaid
 xychart-beta
-    title "BiomedSciAI/fuse-med-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    title "BiomedSciAI/fuse-med-ml 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 158 --> 161
+    line [159, 160, 160]
 ```
 
-2026-10-18 159 → 2026-11-02 159（+0）
+2026-10-18 159 → 2026-11-17 160（+1）
 
 
 ---

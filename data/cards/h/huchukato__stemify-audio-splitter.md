@@ -1,6 +1,6 @@
 # huchukato/stemify-audio-splitter
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/huchukato/stemify-audio-splitter) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/huchukato/stemify-audio-splitter) · 个人维护
 
 **AI 音轨分离工具：把歌曲拆成人声、鼓、贝斯等分轨**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huchukato/stemify-audio-splitter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "huchukato/stemify-audio-splitter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

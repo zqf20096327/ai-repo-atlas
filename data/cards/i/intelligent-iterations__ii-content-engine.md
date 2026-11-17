@@ -1,6 +1,6 @@
 # intelligent-iterations/ii-content-engine
 
-⭐ 15 · HTML · MIT · 推送 2026-08-08 · [GitHub](https://github.com/intelligent-iterations/ii-content-engine) · 组织维护
+⭐ 16 · HTML · MIT · 推送 2026-08-08 · [GitHub](https://github.com/intelligent-iterations/ii-content-engine) · 组织维护
 
 **面向内容创作者的 AI 视频与轮播图生成及自动发布引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "intelligent-iterations/ii-content-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "intelligent-iterations/ii-content-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

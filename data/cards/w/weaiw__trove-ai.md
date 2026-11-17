@@ -1,6 +1,6 @@
 # weaiw/trove-ai
 
-⭐ 189 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/weaiw/trove-ai) · [官网](https://github.com/weaiw/trove-ai) · 个人维护 · 中文 README
+⭐ 191 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/weaiw/trove-ai) · [官网](https://github.com/weaiw/trove-ai) · 个人维护 · 中文 README
 
 **面向中文互联网的自托管个人 AI 稍后读与知识库系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weaiw/trove-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 186 --> 190
-    line [187, 188, 189]
+    title "weaiw/trove-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 186 --> 192
+    line [187, 188, 189, 187, 191, 191]
 ```
 
-2026-10-18 187 → 2026-11-02 189（+2）
+2026-10-18 187 → 2026-11-17 191（+4）
 
 
 ---

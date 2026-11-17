@@ -1,6 +1,6 @@
 # kirinonakar/AItranslator
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kirinonakar/AItranslator) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/kirinonakar/AItranslator) · 个人维护
 
 **桌面端文本翻译与摘要应用，接入本地/云端 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kirinonakar/AItranslator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "kirinonakar/AItranslator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

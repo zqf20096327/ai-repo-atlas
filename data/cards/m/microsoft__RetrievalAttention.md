@@ -1,6 +1,6 @@
 # microsoft/RetrievalAttention
 
-⭐ 153 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/RetrievalAttention) · [官网](https://aka.ms/RetroInfer) · 组织维护
+⭐ 158 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/RetrievalAttention) · [官网](https://aka.ms/RetroInfer) · 组织维护
 
 **长上下文 LLM 推理加速系统：将 KV 缓存作为向量存储利用注意力稀疏性**
 
@@ -44,13 +44,13 @@ RetroInfer 是微软推出的长上下文 LLM 解码加速系统，把 KV cache 
 
 ```mermaid
 xychart-beta
-    title "microsoft/RetrievalAttention 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 152 --> 155
-    line [154, 153, 153]
+    title "microsoft/RetrievalAttention 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 152 --> 159
+    line [154, 153, 154, 153, 158, 158]
 ```
 
-2026-10-18 154 → 2026-11-02 153（-1）
+2026-10-18 154 → 2026-11-17 158（+4）
 
 
 ---

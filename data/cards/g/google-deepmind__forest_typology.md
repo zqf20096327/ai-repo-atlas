@@ -1,6 +1,6 @@
 # google-deepmind/forest_typology
 
-⭐ 118 · Jupyter Notebook · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/google-deepmind/forest_typology) · 组织维护
+⭐ 120 · Jupyter Notebook · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/google-deepmind/forest_typology) · 组织维护
 
 **森林类型与栖息地制图的基准数据集与地图层集合**
 
@@ -43,13 +43,13 @@ Google DeepMind 联合世界资源研究所等伙伴发布的森林研究资源�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/forest_typology 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 115 --> 119
-    line [116, 118, 118]
+    title "google-deepmind/forest_typology 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 115 --> 121
+    line [116, 118, 120, 120]
 ```
 
-2026-10-18 116 → 2026-11-02 118（+2）
+2026-10-18 116 → 2026-11-17 120（+4）
 
 
 ---

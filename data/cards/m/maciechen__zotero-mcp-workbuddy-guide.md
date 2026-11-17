@@ -1,6 +1,6 @@
 # maciechen/zotero-mcp-workbuddy-guide
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/maciechen/zotero-mcp-workbuddy-guide) · 个人维护 · 中文 README
+⭐ 37 · Python · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/maciechen/zotero-mcp-workbuddy-guide) · 个人维护 · 中文 README
 
 **将 Zotero 文献库接入 WorkBuddy 的中文配置指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maciechen/zotero-mcp-workbuddy-guide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 32 --> 37
-    line [33, 35, 36, 35, 36, 36]
+    title "maciechen/zotero-mcp-workbuddy-guide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 38
+    line [33, 35, 36, 35, 36, 35, 37, 37]
 ```
 
-2026-10-18 33 → 2026-11-02 36（+3）
+2026-10-18 33 → 2026-11-17 37（+4）
 
 
 ---

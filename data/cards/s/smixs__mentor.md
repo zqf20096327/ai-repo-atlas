@@ -1,6 +1,6 @@
 # smixs/mentor
 
-⭐ 85 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/smixs/mentor) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/smixs/mentor) · 个人维护
 
 **分析 Claude Code 与 Codex 会话历史并生成 HTML 工作洞察报告的 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smixs/mentor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "smixs/mentor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

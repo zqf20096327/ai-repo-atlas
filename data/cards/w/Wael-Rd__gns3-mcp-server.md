@@ -1,6 +1,6 @@
 # Wael-Rd/gns3-mcp-server
 
-⭐ 27 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/Wael-Rd/gns3-mcp-server) · [官网](https://github.com/Wael-Rd/gns3-mcp-server) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/Wael-Rd/gns3-mcp-server) · [官网](https://github.com/Wael-Rd/gns3-mcp-server) · 个人维护
 
 **让 AI 客户端通过 MCP 操控 GNS3 网络模拟的 42 工具服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wael-Rd/gns3-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "Wael-Rd/gns3-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # minmaxflow/mini-kode
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 306 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/minmaxflow/mini-kode) · 个人维护 · 中文 README
 
 **教学用途的 AI 编程代理 CLI，供开发者学习 Agent 架构**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "minmaxflow/mini-kode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31"]
+    title "minmaxflow/mini-kode 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 304 --> 308
-    line [307, 306, 305, 305]
+    line [307, 306, 305, 307, 305, 306, 306]
 ```
 
-2026-10-18 307 → 2026-10-31 305（-2）
+2026-10-18 307 → 2026-11-17 306（-1）
 
 
 ---

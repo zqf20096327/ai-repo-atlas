@@ -1,6 +1,6 @@
 # vamplabAI/sgr-agent-core
 
-⭐ 1,126 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vamplabAI/sgr-agent-core) · [官网](https://vamplabai.github.io/sgr-agent-core/) · 组织维护
+⭐ 1,128 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vamplabAI/sgr-agent-core) · [官网](https://vamplabai.github.io/sgr-agent-core/) · 组织维护
 
 **构建 Schema-Guided Reasoning 研究 agent 的开源框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vamplabAI/sgr-agent-core 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1122 --> 1128
-    line [1123, 1125, 1126, 1127, 1126, 1126]
+    title "vamplabAI/sgr-agent-core 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1122 --> 1129
+    line [1123, 1125, 1126, 1127, 1126, 1127, 1128, 1128]
 ```
 
-2026-10-18 1,123 → 2026-11-02 1,126（+3）
+2026-10-18 1,123 → 2026-11-17 1,128（+5）
 
 
 ---

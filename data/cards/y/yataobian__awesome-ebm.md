@@ -1,6 +1,6 @@
 # yataobian/awesome-ebm
 
-⭐ 401 · Shell · MIT · 推送 2026-04-22 · [GitHub](https://github.com/yataobian/awesome-ebm) · 个人维护
+⭐ 402 · Shell · MIT · 推送 2026-04-22 · [GitHub](https://github.com/yataobian/awesome-ebm) · 个人维护
 
 **能量模型（EBM）研究论文与资料聚合清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yataobian/awesome-ebm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 398 --> 402
-    line [399, 400, 401, 401]
+    title "yataobian/awesome-ebm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 398 --> 403
+    line [399, 400, 401, 402, 402]
 ```
 
-2026-10-18 399 → 2026-11-02 401（+2）
+2026-10-18 399 → 2026-11-17 402（+3）
 
 
 ---

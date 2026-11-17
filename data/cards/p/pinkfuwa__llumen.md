@@ -1,6 +1,6 @@
 # pinkfuwa/llumen
 
-⭐ 101 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/pinkfuwa/llumen) · [官网](https://pinkfuwa.github.io/llumen/) · 个人维护 · 中文 README
+⭐ 102 · Rust · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/pinkfuwa/llumen) · [官网](https://pinkfuwa.github.io/llumen/) · 个人维护 · 中文 README
 
 **面向低配设备的自托管 LLM 聊天界面，零配置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pinkfuwa/llumen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 98 --> 102
-    line [99, 100, 101, 101]
+    title "pinkfuwa/llumen 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 98 --> 103
+    line [99, 100, 101, 100, 101, 102, 102]
 ```
 
-2026-10-18 99 → 2026-11-02 101（+2）
+2026-10-18 99 → 2026-11-17 102（+3）
 
 
 ---

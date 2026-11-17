@@ -1,6 +1,6 @@
 # amarnath3003/Solar-Roof-AI
 
-⭐ 132 · TypeScript · 推送 2026-07-05 · [GitHub](https://github.com/amarnath3003/Solar-Roof-AI) · [官网](https://solar-roof-ai-frontend.vercel.app/) · 个人维护
+⭐ 134 · TypeScript · 推送 2026-07-05 · [GitHub](https://github.com/amarnath3003/Solar-Roof-AI) · [官网](https://solar-roof-ai-frontend.vercel.app/) · 个人维护
 
 **交互式太阳能屋顶规划工作台：AI 屋顶检测与排板估算**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amarnath3003/Solar-Roof-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 131 --> 133
-    line [132, 132]
+    title "amarnath3003/Solar-Roof-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 131 --> 135
+    line [132, 133, 134, 134]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 134（+2）
 
 
 ---

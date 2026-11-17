@@ -1,6 +1,6 @@
 # rsnk96/Ubuntu-Setup-Scripts
 
-⭐ 143 · JavaScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rsnk96/Ubuntu-Setup-Scripts) · 个人维护
+⭐ 143 · JavaScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/rsnk96/Ubuntu-Setup-Scripts) · 个人维护
 
 **快速配置 Ubuntu 开发环境的 shell 脚本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rsnk96/Ubuntu-Setup-Scripts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 142 --> 144
     line [143, 143]
 ```
 
-2026-10-18 143 → 2026-11-02 143（+0）
+2026-10-18 143 → 2026-11-17 143（+0）
 
 
 ---

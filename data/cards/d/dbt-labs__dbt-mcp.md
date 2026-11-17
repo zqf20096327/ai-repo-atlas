@@ -1,6 +1,6 @@
 # dbt-labs/dbt-mcp
 
-⭐ 615 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dbt-labs/dbt-mcp) · 组织维护
+⭐ 623 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/dbt-labs/dbt-mcp) · 组织维护
 
 **让 AI agent 操作 dbt 的 MCP 服务器**
 
@@ -45,13 +45,13 @@ dbt Labs 官方维护的 Model Context Protocol 服务器，向 Claude、Cursor 
 
 ```mermaid
 xychart-beta
-    title "dbt-labs/dbt-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 608 --> 616
-    line [609, 612, 613, 614, 615]
+    title "dbt-labs/dbt-mcp 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 608 --> 624
+    line [609, 612, 613, 614, 615, 612, 618, 620, 621, 622, 623, 623]
 ```
 
-2026-10-18 609 → 2026-11-02 615（+6）
+2026-10-18 609 → 2026-11-17 623（+14）
 
 
 ---

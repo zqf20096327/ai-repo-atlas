@@ -1,6 +1,6 @@
 # eth0izzle/security-skills
 
-⭐ 58 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/eth0izzle/security-skills) · [官网](https://darkport.co.uk) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/eth0izzle/security-skills) · [官网](https://darkport.co.uk) · 个人维护
 
 **面向 Claude Code 的安全运维技能插件合集（SOAR/SIEM）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eth0izzle/security-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "eth0izzle/security-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [58, 57, 57]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 57（-1）
 
 
 ---

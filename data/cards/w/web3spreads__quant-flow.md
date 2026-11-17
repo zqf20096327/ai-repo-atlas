@@ -1,6 +1,6 @@
 # web3spreads/quant-flow
 
-⭐ 41 · Python · 推送 2026-09-18 · [GitHub](https://github.com/web3spreads/quant-flow) · [官网](https://web3spreads.github.io/quant-flow/) · 个人维护 · 中文 README
+⭐ 42 · Python · 推送 2026-09-18 · [GitHub](https://github.com/web3spreads/quant-flow) · [官网](https://web3spreads.github.io/quant-flow/) · 个人维护 · 中文 README
 
 **面向 Hyperliquid DEX 的 LLM 决策加密合约自动交易机器人**
 
@@ -44,13 +44,13 @@ Python 编写的 Hyperliquid 永续合约自动交易系统：LLM 仅输出结�
 
 ```mermaid
 xychart-beta
-    title "web3spreads/quant-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "web3spreads/quant-flow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

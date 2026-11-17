@@ -1,6 +1,6 @@
 # namphuongtran/awesome-ai-coding-agent-tools
 
-⭐ 11 · MIT · 推送 2026-05-31 · [GitHub](https://github.com/namphuongtran/awesome-ai-coding-agent-tools) · 个人维护
+⭐ 12 · MIT · 推送 2026-05-31 · [GitHub](https://github.com/namphuongtran/awesome-ai-coding-agent-tools) · 个人维护
 
 **AI 编程 agent 生态工具策展清单：技能、插件、MCP 服务器与框架**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "namphuongtran/awesome-ai-coding-agent-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "namphuongtran/awesome-ai-coding-agent-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

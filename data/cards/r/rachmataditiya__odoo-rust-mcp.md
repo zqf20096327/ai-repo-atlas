@@ -1,6 +1,6 @@
 # rachmataditiya/odoo-rust-mcp
 
-⭐ 16 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rachmataditiya/odoo-rust-mcp) · [官网](https://github.com/rachmataditiya/odoo-rust-mcp) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rachmataditiya/odoo-rust-mcp) · [官网](https://github.com/rachmataditiya/odoo-rust-mcp) · 个人维护
 
 **Rust 实现的 Odoo ERP MCP 服务器，供 MCP 客户端访问 Odoo**
 
@@ -44,13 +44,13 @@ Rust 编写的 Model Context Protocol 服务器，连接 Odoo ERP 实例：支�
 
 ```mermaid
 xychart-beta
-    title "rachmataditiya/odoo-rust-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "rachmataditiya/odoo-rust-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

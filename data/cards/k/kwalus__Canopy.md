@@ -1,6 +1,6 @@
 # kwalus/Canopy
 
-⭐ 305 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/kwalus/Canopy) · [官网](https://opencanopy.ai/) · 个人维护
+⭐ 307 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/kwalus/Canopy) · [官网](https://opencanopy.ai/) · 个人维护
 
 **本地优先的端到端加密协作聊天平台，人类与 AI agent 同席**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kwalus/Canopy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 303 --> 306
-    line [304, 305, 305]
+    title "kwalus/Canopy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 303 --> 308
+    line [304, 305, 306, 307, 307]
 ```
 
-2026-10-18 304 → 2026-11-02 305（+1）
+2026-10-18 304 → 2026-11-17 307（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # FreHilm/ordna
 
-⭐ 89 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/FreHilm/ordna) · [官网](https://www.ordna.sh) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/FreHilm/ordna) · [官网](https://www.ordna.sh) · 个人维护
 
 **存放在代码仓库内的本地优先 git 看板工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FreHilm/ordna 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 86 --> 90
-    line [87, 88, 89, 89]
+    title "FreHilm/ordna 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 86 --> 93
+    line [87, 88, 89, 88, 91, 92, 92]
 ```
 
-2026-10-18 87 → 2026-11-02 89（+2）
+2026-10-18 87 → 2026-11-17 92（+5）
 
 
 ---

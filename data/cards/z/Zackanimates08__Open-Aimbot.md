@@ -1,6 +1,6 @@
 # Zackanimates08/Open-Aimbot
 
-⭐ 15 · MIT · 推送 2026-03-01 · [GitHub](https://github.com/Zackanimates08/Open-Aimbot) · 个人维护
+⭐ 16 · MIT · 推送 2026-03-01 · [GitHub](https://github.com/Zackanimates08/Open-Aimbot) · 个人维护
 
 **面向 Roblox 等游戏的通用游戏辅助/脚本工具框架**
 
@@ -44,13 +44,13 @@ Windows 桌面程序，定位为通用开源框架，提供面向 Roblox 的脚�
 
 ```mermaid
 xychart-beta
-    title "Zackanimates08/Open-Aimbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Zackanimates08/Open-Aimbot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

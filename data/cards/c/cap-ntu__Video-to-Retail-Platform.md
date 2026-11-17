@@ -1,6 +1,6 @@
 # cap-ntu/Video-to-Retail-Platform
 
-⭐ 147 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/cap-ntu/Video-to-Retail-Platform) · 组织维护
+⭐ 146 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/cap-ntu/Video-to-Retail-Platform) · 组织维护
 
 **视频-商品-广告多模态分析系统，支撑推荐与视频检索等应用**
 
@@ -45,13 +45,13 @@ Hysia 是基于多模态学习的视频、商品与广告分析系统（Hysia Vi
 
 ```mermaid
 xychart-beta
-    title "cap-ntu/Video-to-Retail-Platform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    title "cap-ntu/Video-to-Retail-Platform 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 145 --> 148
+    line [147, 146, 146]
 ```
 
-2026-10-18 147 → 2026-11-02 147（+0）
+2026-10-18 147 → 2026-11-17 146（-1）
 
 
 ---

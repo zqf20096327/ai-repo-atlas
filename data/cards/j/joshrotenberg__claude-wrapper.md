@@ -1,6 +1,6 @@
 # joshrotenberg/claude-wrapper
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/joshrotenberg/claude-wrapper) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/joshrotenberg/claude-wrapper) · 个人维护
 
 **面向 Rust 开发者的 Claude Code CLI 类型安全封装库**
 
@@ -46,12 +46,12 @@ Rust 库，以 builder 模式封装 Claude Code CLI：每个子命令对应一�
 ```mermaid
 xychart-beta
     title "joshrotenberg/claude-wrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

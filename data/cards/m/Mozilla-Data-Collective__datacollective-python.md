@@ -1,6 +1,6 @@
 # Mozilla-Data-Collective/datacollective-python
 
-⭐ 30 · Python · MPL-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Mozilla-Data-Collective/datacollective-python) · [官网](https://mozilla-data-collective.github.io/datacollective-python/) · 组织维护
+⭐ 31 · Python · MPL-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Mozilla-Data-Collective/datacollective-python) · [官网](https://mozilla-data-collective.github.io/datacollective-python/) · 组织维护
 
 **访问 Mozilla Data Collective 数据集平台的官方 Python SDK**
 
@@ -45,13 +45,13 @@ Mozilla Data Collective 平台的官方 Python 客户端库，面向数据使用
 
 ```mermaid
 xychart-beta
-    title "Mozilla-Data-Collective/datacollective-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 30, 30]
+    title "Mozilla-Data-Collective/datacollective-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

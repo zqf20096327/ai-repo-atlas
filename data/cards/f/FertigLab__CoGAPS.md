@@ -1,6 +1,6 @@
 # FertigLab/CoGAPS
 
-⭐ 74 · C++ · BSD-3-Clause · 推送 2026-08-12 · [GitHub](https://github.com/FertigLab/CoGAPS) · [官网](https://www.bioconductor.org/packages/release/bioc/html/CoGAPS.html) · 组织维护
+⭐ 74 · C++ · BSD-3-Clause · 推送 2026-11-12 · [GitHub](https://github.com/FertigLab/CoGAPS) · [官网](https://www.bioconductor.org/packages/release/bioc/html/CoGAPS.html) · 组织维护
 
 **贝叶斯 MCMC 矩阵分解算法包，用于基因集活性推断**
 
@@ -45,12 +45,12 @@ CoGAPS（Coordinated Gene Activity in Pattern Sets）实现贝叶斯 MCMC 矩阵
 ```mermaid
 xychart-beta
     title "FertigLab/CoGAPS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 74（+0）
 
 
 ---

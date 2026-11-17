@@ -1,6 +1,6 @@
 # AnayDhawan/oss-launch
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 17 · Shell · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/AnayDhawan/oss-launch) · 个人维护
 
 **让 agent 把裸仓库补齐开源文件的技能（脚手架）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnayDhawan/oss-launch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "AnayDhawan/oss-launch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-01 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

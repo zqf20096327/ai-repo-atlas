@@ -1,6 +1,6 @@
 # magent4aci/openJiSi
 
-⭐ 15 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/magent4aci/openJiSi) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/magent4aci/openJiSi) · 组织维护 · 中文 README
 
 **将多个开源 LLM 组成集合系统的路由与聚合框架（ICML 2026 论文官方代码）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "magent4aci/openJiSi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "magent4aci/openJiSi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # stepfun-ai/StepDeepResearch
 
-⭐ 575 · Python · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/stepfun-ai/StepDeepResearch) · 组织维护 · 中文 README
+⭐ 576 · Python · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/stepfun-ai/StepDeepResearch) · 组织维护 · 中文 README
 
 **端到端深度研究 agent 模型：自主探索信息并生成专业调研报告**
 
@@ -44,13 +44,13 @@ StepFun（阶跃星辰）发布的深度研究 agent 模型，基于 ReAct 单 a
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/StepDeepResearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 574 --> 576
-    line [575, 575]
+    title "stepfun-ai/StepDeepResearch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 574 --> 577
+    line [575, 576, 576]
 ```
 
-2026-10-18 575 → 2026-11-02 575（+0）
+2026-10-18 575 → 2026-11-17 576（+1）
 
 
 ---

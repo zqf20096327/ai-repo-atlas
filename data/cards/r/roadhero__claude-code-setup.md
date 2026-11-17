@@ -1,6 +1,6 @@
 # roadhero/claude-code-setup
 
-⭐ 37 · Markdown · MIT · 推送 2026-09-14 · [GitHub](https://github.com/roadhero/claude-code-setup) · [官网](https://eltexsoft.com) · 组织维护
+⭐ 38 · Markdown · MIT · 推送 2026-09-14 · [GitHub](https://github.com/roadhero/claude-code-setup) · [官网](https://eltexsoft.com) · 组织维护
 
 **面向 Claude Code 的工程化配置集：全局规则包、42 个子代理与安全钩子**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "roadhero/claude-code-setup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "roadhero/claude-code-setup 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

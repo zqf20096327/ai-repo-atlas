@@ -1,6 +1,6 @@
 # jaylfc/taosmd
 
-⭐ 83 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/jaylfc/taosmd) · 个人维护
+⭐ 85 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jaylfc/taosmd) · 个人维护
 
 **离线本地优先的框架无关 AI agent 记忆系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaylfc/taosmd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 80 --> 84
-    line [81, 82, 83, 83]
+    title "jaylfc/taosmd 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 80 --> 86
+    line [81, 82, 83, 82, 84, 85, 85]
 ```
 
-2026-10-18 81 → 2026-11-02 83（+2）
+2026-10-18 81 → 2026-11-17 85（+4）
 
 
 ---

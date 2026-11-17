@@ -1,6 +1,6 @@
 # OvertliDS/overtli-studio-suite
 
-⭐ 20 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/OvertliDS/overtli-studio-suite) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/OvertliDS/overtli-studio-suite) · 个人维护
 
 **ComfyUI 多引擎 AI 生成节点套件：统一路由本地/云端提示词与媒体生成**
 
@@ -45,13 +45,13 @@ Windows 优先的 ComfyUI 自定义节点套件，通过统一的高级路由节
 
 ```mermaid
 xychart-beta
-    title "OvertliDS/overtli-studio-suite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "OvertliDS/overtli-studio-suite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

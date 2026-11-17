@@ -1,6 +1,6 @@
 # sib-swiss/pytorch-practical-training
 
-⭐ 38 · Jupyter Notebook · CC-BY-4.0 · 推送 2025-12-03 · [GitHub](https://github.com/sib-swiss/pytorch-practical-training) · 组织维护
+⭐ 39 · Jupyter Notebook · CC-BY-4.0 · 推送 2025-12-03 · [GitHub](https://github.com/sib-swiss/pytorch-practical-training) · 组织维护
 
 **面向生命科学家的 PyTorch 深度学习实操课程（复现生物学论文模型）**
 
@@ -45,13 +45,13 @@ SIB（瑞士生物信息学研究所）的 PyTorch 短期实操课程仓库：�
 
 ```mermaid
 xychart-beta
-    title "sib-swiss/pytorch-practical-training 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 38, 38]
+    title "sib-swiss/pytorch-practical-training 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 40
+    line [35, 36, 38, 39, 39]
 ```
 
-2026-10-18 35 → 2026-11-02 38（+3）
+2026-10-18 35 → 2026-11-17 39（+4）
 
 
 ---

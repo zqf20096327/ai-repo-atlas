@@ -1,6 +1,6 @@
 # techlab-innov/llmtrace
 
-⭐ 53 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/techlab-innov/llmtrace) · [官网](http://docs.llmtrace.io/) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/techlab-innov/llmtrace) · [官网](http://docs.llmtrace.io/) · 组织维护
 
 **零代码 LLM 安全与可观测代理：注入检测、PII 扫描与成本控制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "techlab-innov/llmtrace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "techlab-innov/llmtrace 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DogInfantry/claude-skill-management-consultant-B1
 
-⭐ 155 · HTML · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/DogInfantry/claude-skill-management-consultant-B1) · 个人维护
+⭐ 168 · HTML · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/DogInfantry/claude-skill-management-consultant-B1) · 个人维护
 
 **给 AI 助手安装的管理咨询知识库技能（138 个参考模块）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DogInfantry/claude-skill-management-consultant-B1 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 143 --> 156
-    line [145, 144, 145, 147, 148, 149, 150, 151, 155]
+    title "DogInfantry/claude-skill-management-consultant-B1 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 142 --> 170
+    line [145, 144, 145, 147, 148, 149, 150, 151, 155, 147, 163, 166, 167, 168, 168]
 ```
 
-2026-10-18 145 → 2026-11-02 155（+10）
+2026-10-18 145 → 2026-11-17 168（+23）
 
 
 ---

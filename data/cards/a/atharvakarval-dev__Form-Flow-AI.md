@@ -1,6 +1,6 @@
 # atharvakarval-dev/Form-Flow-AI
 
-⭐ 23 · Python · 推送 2026-04-21 · [GitHub](https://github.com/atharvakarval-dev/Form-Flow-AI) · 个人维护
+⭐ 24 · Python · 推送 2026-04-21 · [GitHub](https://github.com/atharvakarval-dev/Form-Flow-AI) · 个人维护
 
 **语音对话驱动的 AI 表单自动填写与 PDF 填写代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atharvakarval-dev/Form-Flow-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "atharvakarval-dev/Form-Flow-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # moldable-ai/aivault
 
-⭐ 19 · Rust · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/moldable-ai/aivault) · [官网](https://aivault.moldable.sh) · 组织维护
+⭐ 20 · Rust · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/moldable-ai/aivault) · [官网](https://aivault.moldable.sh) · 组织维护
 
 **面向 AI agent 的本地密钥保险库与策略代理运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moldable-ai/aivault 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "moldable-ai/aivault 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

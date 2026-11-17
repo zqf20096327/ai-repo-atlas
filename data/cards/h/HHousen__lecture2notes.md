@@ -1,6 +1,6 @@
 # HHousen/lecture2notes
 
-⭐ 67 · Jupyter Notebook · AGPL-3.0 · 推送 2026-07-02 · [GitHub](https://github.com/HHousen/lecture2notes) · [官网](https://lecture2notes.com/) · 个人维护
+⭐ 68 · Jupyter Notebook · AGPL-3.0 · 推送 2026-07-02 · [GitHub](https://github.com/HHousen/lecture2notes) · [官网](https://lecture2notes.com/) · 个人维护
 
 **将课程讲座视频自动转换为格式化笔记的研究代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HHousen/lecture2notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "HHousen/lecture2notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 68（+1）
 
 
 ---

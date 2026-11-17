@@ -1,6 +1,6 @@
 # nexibeo/jev-cookbook
 
-⭐ 39 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/nexibeo/jev-cookbook) · [官网](https://nexibeo.com) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/nexibeo/jev-cookbook) · [官网](https://nexibeo.com) · 个人维护
 
 **Jev 决策模型的实用配方集：15 个可运行任务脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexibeo/jev-cookbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    title "nexibeo/jev-cookbook 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 41
+    line [36, 37, 38, 39, 38, 40, 40]
 ```
 
-2026-10-18 36 → 2026-11-02 39（+3）
+2026-10-18 36 → 2026-11-17 40（+4）
 
 
 ---

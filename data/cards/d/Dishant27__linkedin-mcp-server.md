@@ -1,6 +1,6 @@
 # Dishant27/linkedin-mcp-server
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Dishant27/linkedin-mcp-server) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Dishant27/linkedin-mcp-server) · 个人维护
 
 **连接 LinkedIn API 与 LLM 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dishant27/linkedin-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "Dishant27/linkedin-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    line [53, 54, 53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

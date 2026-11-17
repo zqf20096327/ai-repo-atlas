@@ -1,6 +1,6 @@
 # mitre-atlas/atlas-website
 
-⭐ 20 · Vue · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mitre-atlas/atlas-website) · [官网](https://atlas.mitre.org) · 组织维护
+⭐ 21 · Vue · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mitre-atlas/atlas-website) · [官网](https://atlas.mitre.org) · 组织维护
 
 **MITRE ATLAS 网站源码：展示 AI 系统威胁知识库的静态站点**
 
@@ -42,13 +42,13 @@ MITRE ATLAS（Adversarial Threat Landscape for AI Systems）网站的源码仓�
 
 ```mermaid
 xychart-beta
-    title "mitre-atlas/atlas-website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "mitre-atlas/atlas-website 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/byoeb
 
-⭐ 42 · Python · CC-BY-4.0 · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/byoeb) · 组织维护
+⭐ 43 · Python · CC-BY-4.0 · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/byoeb) · 组织维护
 
 **构建专家审核 WhatsApp 聊天机器人的平台**
 
@@ -44,13 +44,13 @@ BYOeB（Build Your Own Expert Bot）是微软开源的平台，供开发者构�
 
 ```mermaid
 xychart-beta
-    title "microsoft/byoeb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    title "microsoft/byoeb 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 40 --> 44
-    line [43, 41, 42, 42]
+    line [43, 41, 42, 41, 42, 43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 42（-1）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

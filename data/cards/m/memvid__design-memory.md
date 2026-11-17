@@ -1,6 +1,6 @@
 # memvid/design-memory
 
-⭐ 131 · TypeScript · 推送 2026-02-15 · [GitHub](https://github.com/memvid/design-memory) · [官网](https://memvid.com) · 个人维护
+⭐ 132 · TypeScript · 推送 2026-02-15 · [GitHub](https://github.com/memvid/design-memory) · [官网](https://memvid.com) · 个人维护
 
 **从网站提取设计系统并生成可复用设计记忆的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "memvid/design-memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
+    title "memvid/design-memory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 130 --> 133
-    line [131, 132, 131, 131]
+    line [131, 132, 131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-11-02 131（+0）
+2026-10-18 131 → 2026-11-17 132（+1）
 
 
 ---

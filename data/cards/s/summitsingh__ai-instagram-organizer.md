@@ -1,6 +1,6 @@
 # summitsingh/ai-instagram-organizer
 
-⭐ 77 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/summitsingh/ai-instagram-organizer) · 个人维护
+⭐ 78 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/summitsingh/ai-instagram-organizer) · 个人维护
 
 **把照片库自动整理成 Instagram 帖子并生成文案与话题标签的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "summitsingh/ai-instagram-organizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "summitsingh/ai-instagram-organizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 76 --> 79
+    line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 78（+1）
 
 
 ---

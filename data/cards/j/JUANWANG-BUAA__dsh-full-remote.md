@@ -1,6 +1,6 @@
 # JUANWANG-BUAA/dsh-full-remote
 
-⭐ 51 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/JUANWANG-BUAA/dsh-full-remote) · [官网](https://www.npmjs.com/package/dsh-full-remote) · 个人维护 · 中文 README
+⭐ 51 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/JUANWANG-BUAA/dsh-full-remote) · [官网](https://www.npmjs.com/package/dsh-full-remote) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：带令牌认证的反向代理，实现远程/移动访问**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JUANWANG-BUAA/dsh-full-remote 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-17"]
     y-axis "stars" 48 --> 52
     line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 51（+2）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

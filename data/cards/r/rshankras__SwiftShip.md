@@ -1,6 +1,6 @@
 # rshankras/SwiftShip
 
-⭐ 11 · Shell · 推送 2026-07-24 · [GitHub](https://github.com/rshankras/SwiftShip) · 个人维护
+⭐ 13 · Shell · 推送 2026-11-07 · [GitHub](https://github.com/rshankras/SwiftShip) · 个人维护
 
 **基于 Claude Code 的 iOS/macOS 应用规格驱动开发命令集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rshankras/SwiftShip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "rshankras/SwiftShip 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

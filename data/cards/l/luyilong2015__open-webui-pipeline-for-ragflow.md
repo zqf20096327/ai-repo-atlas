@@ -1,6 +1,6 @@
 # luyilong2015/open-webui-pipeline-for-ragflow
 
-⭐ 178 · Python · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/luyilong2015/open-webui-pipeline-for-ragflow) · 个人维护 · 中文 README
+⭐ 176 · Python · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/luyilong2015/open-webui-pipeline-for-ragflow) · 个人维护 · 中文 README
 
 **将 RAGFlow 的 agent 接入 open-webui 对话界面的 pipeline 脚本**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "luyilong2015/open-webui-pipeline-for-ragflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 176 --> 179
-    line [178, 177, 178, 178]
+    title "luyilong2015/open-webui-pipeline-for-ragflow 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 175 --> 179
+    line [178, 177, 178, 177, 176, 176]
 ```
 
-2026-10-18 178 → 2026-11-02 178（+0）
+2026-10-18 178 → 2026-11-17 176（-2）
 
 
 ---

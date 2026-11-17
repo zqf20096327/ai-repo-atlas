@@ -1,6 +1,6 @@
 # ProwlrBot/CyberBox
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/ProwlrBot/CyberBox) · [官网](https://prowlrbot.com) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ProwlrBot/CyberBox) · [官网](https://prowlrbot.com) · 组织维护
 
 **面向渗透测试者的加固 Docker 安全工作区，内置双 AI 分析**
 
@@ -45,13 +45,13 @@ Docker 化的漏洞赏金与攻击性安全研究沙箱：镜像含 160+ 安全�
 
 ```mermaid
 xychart-beta
-    title "ProwlrBot/CyberBox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "ProwlrBot/CyberBox 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 16, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 18（+2）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

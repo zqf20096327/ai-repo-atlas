@@ -1,6 +1,6 @@
 # ParisNeo/lollms-webui
 
-⭐ 4,792 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ParisNeo/lollms-webui) · [官网](https://lollms.com) · 个人维护
+⭐ 4,793 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/ParisNeo/lollms-webui) · [官网](https://lollms.com) · 个人维护
 
 **本地单用户多模型多模态 LLM Web 界面**
 
@@ -45,13 +45,13 @@ LoLLMs WebUI 是面向单用户的本地 LLM/多模态使用界面：通过选�
 
 ```mermaid
 xychart-beta
-    title "ParisNeo/lollms-webui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
+    title "ParisNeo/lollms-webui 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 4791 --> 4795
-    line [4793, 4792, 4793, 4794, 4792]
+    line [4793, 4792, 4793, 4794, 4792, 4794, 4793, 4793]
 ```
 
-2026-10-18 4,793 → 2026-11-02 4,792（-1）
+2026-10-18 4,793 → 2026-11-17 4,793（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZigRazor/CXXGraph
 
-⭐ 738 · C++ · MPL-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/ZigRazor/CXXGraph) · [官网](https://zigrazor.github.io/CXXGraph/) · 个人维护
+⭐ 741 · C++ · MPL-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/ZigRazor/CXXGraph) · [官网](https://zigrazor.github.io/CXXGraph/) · 个人维护
 
 **给 C++ 开发者的头文件图算法库：图表示与常用算法**
 
@@ -45,13 +45,13 @@ CXXGraph 是一个 header-only 的 C++17 图算法库，提供节点/边图对�
 
 ```mermaid
 xychart-beta
-    title "ZigRazor/CXXGraph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 734 --> 739
-    line [735, 736, 737, 738, 738]
+    title "ZigRazor/CXXGraph 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 734 --> 742
+    line [735, 736, 737, 738, 737, 738, 739, 740, 741, 741]
 ```
 
-2026-10-18 735 → 2026-11-02 738（+3）
+2026-10-18 735 → 2026-11-17 741（+6）
 
 
 ---

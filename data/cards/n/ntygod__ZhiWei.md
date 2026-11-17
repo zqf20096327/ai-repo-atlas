@@ -1,6 +1,6 @@
 # ntygod/ZhiWei
 
-⭐ 137 · Java · MIT · 推送 2026-08-11 · [GitHub](https://github.com/ntygod/ZhiWei) · 个人维护 · 中文 README
+⭐ 138 · Java · MIT · 推送 2026-08-11 · [GitHub](https://github.com/ntygod/ZhiWei) · 个人维护 · 中文 README
 
 **本地优先的自托管个人 AI Agent 助手，带记忆与自主任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ntygod/ZhiWei 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    title "ntygod/ZhiWei 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 136 --> 139
+    line [137, 138, 138]
 ```
 
-2026-10-18 137 → 2026-11-02 137（+0）
+2026-10-18 137 → 2026-11-17 138（+1）
 
 
 ---

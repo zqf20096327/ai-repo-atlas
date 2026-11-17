@@ -1,6 +1,6 @@
 # LGAI-Research/EXAONE-Cookbook
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/LGAI-Research/EXAONE-Cookbook) · [官网](https://www.lgresearch.ai/) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LGAI-Research/EXAONE-Cookbook) · [官网](https://www.lgresearch.ai/) · 组织维护
 
 **EXAONE 模型 Agent 开发教程与配套库的一站式 Cookbook**
 
@@ -46,12 +46,12 @@ LG AI Research 维护的开源 Cookbook：以 Track 00–10 的 Jupyter 笔记�
 ```mermaid
 xychart-beta
     title "LGAI-Research/EXAONE-Cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

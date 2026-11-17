@@ -1,6 +1,6 @@
 # clawsouls/clawsouls
 
-⭐ 21 · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/clawsouls/clawsouls) · 组织维护
+⭐ 23 · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/clawsouls/clawsouls) · 组织维护
 
 **AI agent 人格（soul）分享平台：80+ 人格一键安装**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "clawsouls/clawsouls 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "clawsouls/clawsouls 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

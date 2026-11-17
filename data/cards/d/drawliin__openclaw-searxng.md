@@ -1,6 +1,6 @@
 # drawliin/openclaw-searxng
 
-⭐ 20 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/drawliin/openclaw-searxng) · 个人维护
+⭐ 21 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/drawliin/openclaw-searxng) · 个人维护
 
 **OpenClaw 插件：将 web_search 工具接到自托管 SearXNG**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drawliin/openclaw-searxng 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "drawliin/openclaw-searxng 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

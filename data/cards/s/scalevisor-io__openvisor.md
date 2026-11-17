@@ -1,6 +1,6 @@
 # scalevisor-io/openvisor
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/scalevisor-io/openvisor) · [官网](https://berwick.ai) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/scalevisor-io/openvisor) · [官网](https://berwick.ai) · 组织维护
 
 **自托管的 AI 软件咨询代理平台，24/7 接单、开发与交付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "scalevisor-io/openvisor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [23, 21, 22, 22]
+    title "scalevisor-io/openvisor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 24
+    line [23, 21, 22, 21, 17, 17]
 ```
 
-2026-10-18 23 → 2026-11-02 22（-1）
+2026-10-18 23 → 2026-11-17 17（-6）
 
 
 ---

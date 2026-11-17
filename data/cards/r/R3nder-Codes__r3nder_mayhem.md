@@ -1,6 +1,6 @@
 # R3nder-Codes/r3nder_mayhem
 
-⭐ 23 · Shell · GPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/R3nder-Codes/r3nder_mayhem) · 个人维护
+⭐ 24 · Shell · GPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/R3nder-Codes/r3nder_mayhem) · 个人维护
 
 **HackRF PortaPack 的自制 RF 应用合集（信标欺骗、检测、干扰等）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "R3nder-Codes/r3nder_mayhem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    title "R3nder-Codes/r3nder_mayhem 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 23, 21, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Parikshit00/Deep3D-FloorPlan-Net
 
-⭐ 43 · Python · 推送 2026-06-28 · [GitHub](https://github.com/Parikshit00/Deep3D-FloorPlan-Net) · 个人维护
+⭐ 46 · Python · 推送 2026-06-28 · [GitHub](https://github.com/Parikshit00/Deep3D-FloorPlan-Net) · 个人维护
 
 **室内 3D 点云转矢量平面图：RandLANet 分割+RANSAC 后处理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Parikshit00/Deep3D-FloorPlan-Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "Parikshit00/Deep3D-FloorPlan-Net 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

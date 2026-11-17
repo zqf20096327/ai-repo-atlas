@@ -1,6 +1,6 @@
 # salespeak-ai/buyer-eval-skill
 
-⭐ 69 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/salespeak-ai/buyer-eval-skill) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/salespeak-ai/buyer-eval-skill) · 组织维护
 
 **Claude Code 技能：AI 分析师核查 B2B 软件供应商声明并产出决策简报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "salespeak-ai/buyer-eval-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 65 --> 70
-    line [66, 67, 68, 69]
+    title "salespeak-ai/buyer-eval-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 71
+    line [66, 67, 68, 69, 67, 70, 70]
 ```
 
-2026-10-18 66 → 2026-11-02 69（+3）
+2026-10-18 66 → 2026-11-17 70（+4）
 
 
 ---

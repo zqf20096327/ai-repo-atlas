@@ -1,6 +1,6 @@
 # WeHomeBot/ling
 
-⭐ 144 · TypeScript · NOASSERTION · 推送 2025-12-02 · [GitHub](https://github.com/WeHomeBot/ling) · [官网](https://ling.bearbobo.com/) · 组织维护 · 中文 README
+⭐ 142 · TypeScript · NOASSERTION · 推送 2025-12-02 · [GitHub](https://github.com/WeHomeBot/ling) · [官网](https://ling.bearbobo.com/) · 组织维护 · 中文 README
 
 **LLM 结构化内容流式输出工作流框架（npm/TS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WeHomeBot/ling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    title "WeHomeBot/ling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 141 --> 145
+    line [144, 142, 142]
 ```
 
-2026-10-18 144 → 2026-11-02 144（+0）
+2026-10-18 144 → 2026-11-17 142（-2）
 
 
 ---

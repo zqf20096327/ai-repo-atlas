@@ -1,6 +1,6 @@
 # sparkorbit/sparkorbit
 
-⭐ 21 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/sparkorbit/sparkorbit) · 组织维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/sparkorbit/sparkorbit) · 组织维护 · 中文 README
 
 **AI 资讯聚合面板：论文、模型、榜单、新闻一屏呈现并可本地摘要**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sparkorbit/sparkorbit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "sparkorbit/sparkorbit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

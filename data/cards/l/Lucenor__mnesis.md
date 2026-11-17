@@ -1,6 +1,6 @@
 # Lucenor/mnesis
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Lucenor/mnesis) · [官网](https://mnesis.lucenor.tech/) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Lucenor/mnesis) · [官网](https://mnesis.lucenor.tech/) · 组织维护
 
 **长程 LLM agent 的无损上下文管理 Python 库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lucenor/mnesis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "Lucenor/mnesis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

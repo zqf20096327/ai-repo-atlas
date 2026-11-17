@@ -1,6 +1,6 @@
 # data61/PSL
 
-⭐ 75 · Isabelle · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/data61/PSL) · 组织维护
+⭐ 77 · Isabelle · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/data61/PSL) · 组织维护
 
 **Isabelle/HOL 定理证明的 AI 辅助证明搜索与策略语言工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "data61/PSL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    title "data61/PSL 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

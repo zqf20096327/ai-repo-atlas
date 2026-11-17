@@ -1,6 +1,6 @@
 # orca-gamedev/img2blockbench
 
-⭐ 28 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/orca-gamedev/img2blockbench) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/orca-gamedev/img2blockbench) · 组织维护
 
 **将 Minecraft 风格参考图转换为 Blockbench 原生模型的编译器与基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "orca-gamedev/img2blockbench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "orca-gamedev/img2blockbench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

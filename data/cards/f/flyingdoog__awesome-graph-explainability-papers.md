@@ -1,6 +1,6 @@
 # flyingdoog/awesome-graph-explainability-papers
 
-⭐ 818 · 推送 2026-06-03 · [GitHub](https://github.com/flyingdoog/awesome-graph-explainability-papers) · 个人维护
+⭐ 820 · 推送 2026-11-12 · [GitHub](https://github.com/flyingdoog/awesome-graph-explainability-papers) · 个人维护
 
 **GNN 可解释性论文清单：收录综述、平台与近年会议/期刊论文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "flyingdoog/awesome-graph-explainability-papers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 817 --> 820
-    line [818, 819, 818, 818]
+    title "flyingdoog/awesome-graph-explainability-papers 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 817 --> 821
+    line [818, 819, 818, 819, 820, 820]
 ```
 
-2026-10-18 818 → 2026-11-02 818（+0）
+2026-10-18 818 → 2026-11-17 820（+2）
 
 
 ---

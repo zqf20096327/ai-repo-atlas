@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-Part
 
-⭐ 555 · Python · NOASSERTION · 推送 2025-12-05 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part) · 组织维护 · 中文 README
+⭐ 562 · Python · NOASSERTION · 推送 2025-12-05 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part) · 组织维护 · 中文 README
 
 **3D 网格部件分割与生成的两段式流水线（P3-SAM + X-Part）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hunyuan3D-Part 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 547 --> 556
-    line [548, 549, 548, 551, 553, 554, 555, 555]
+    title "Tencent-Hunyuan/Hunyuan3D-Part 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 547 --> 563
+    line [548, 549, 548, 551, 553, 554, 555, 551, 557, 558, 559, 560, 561, 562, 562]
 ```
 
-2026-10-18 548 → 2026-11-02 555（+7）
+2026-10-18 548 → 2026-11-17 562（+14）
 
 
 ---

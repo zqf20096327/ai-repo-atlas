@@ -1,6 +1,6 @@
 # Fausto-404/EFF-Monitoring
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Fausto-404/EFF-Monitoring) · 个人维护 · 中文 README
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Fausto-404/EFF-Monitoring) · 个人维护 · 中文 README
 
 **面向安全运营团队的告警协作与 AI 研判平台**
 
@@ -45,13 +45,13 @@ SOC 场景的告警协作平台：解析多设备原始日志为标准告警字�
 
 ```mermaid
 xychart-beta
-    title "Fausto-404/EFF-Monitoring 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 45 --> 49
-    line [46, 48, 48]
+    title "Fausto-404/EFF-Monitoring 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 51
+    line [46, 48, 46, 50, 50]
 ```
 
-2026-10-18 46 → 2026-11-02 48（+2）
+2026-10-18 46 → 2026-11-17 50（+4）
 
 
 ---

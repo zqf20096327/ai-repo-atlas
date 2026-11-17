@@ -1,6 +1,6 @@
 # vstorm-co/logfire-assistant
 
-⭐ 17 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/vstorm-co/logfire-assistant) · [官网](https://logfire-us.pydantic.dev/) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/vstorm-co/logfire-assistant) · [官网](https://logfire-us.pydantic.dev/) · 组织维护
 
 **面向 Pydantic Logfire 的 AI 调试助手：自然语言查询生成 SQL 与图表**
 
@@ -44,13 +44,13 @@ Vstorm 开发的开源 AI 调试分析工具：以 Chrome 扩展形式嵌入 Log
 
 ```mermaid
 xychart-beta
-    title "vstorm-co/logfire-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "vstorm-co/logfire-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

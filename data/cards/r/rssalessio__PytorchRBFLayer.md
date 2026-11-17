@@ -1,6 +1,6 @@
 # rssalessio/PytorchRBFLayer
 
-⭐ 51 · Python · MIT · 推送 2025-11-09 · [GitHub](https://github.com/rssalessio/PytorchRBFLayer) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **PyTorch 径向基函数（RBF）层实现，用于函数逼近**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rssalessio/PytorchRBFLayer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-07 51（+0）
 
 
 ---

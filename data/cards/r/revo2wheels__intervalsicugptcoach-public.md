@@ -1,6 +1,6 @@
 # revo2wheels/intervalsicugptcoach-public
 
-⭐ 51 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/revo2wheels/intervalsicugptcoach-public) · [官网](https://www.montis.icu) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/revo2wheels/intervalsicugptcoach-public) · [官网](https://www.montis.icu) · 个人维护
 
 **基于 Intervals.icu 数据的确定性耐力训练教练引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "revo2wheels/intervalsicugptcoach-public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "revo2wheels/intervalsicugptcoach-public 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

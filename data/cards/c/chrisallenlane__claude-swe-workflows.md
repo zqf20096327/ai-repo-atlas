@@ -1,6 +1,6 @@
 # chrisallenlane/claude-swe-workflows
 
-⭐ 18 · MIT · 推送 2026-05-18 · [GitHub](https://github.com/chrisallenlane/claude-swe-workflows) · 个人维护
+⭐ 21 · MIT · 推送 2026-05-18 · [GitHub](https://github.com/chrisallenlane/claude-swe-workflows) · 个人维护
 
 **Claude Code 的可组合软件工程工作流技能集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisallenlane/claude-swe-workflows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "chrisallenlane/claude-swe-workflows 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

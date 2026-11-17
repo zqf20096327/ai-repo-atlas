@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrederikHasecke/diffused-texture-addon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 260 --> 262
-    line [261, 261]
+    title "FrederikHasecke/diffused-texture-addon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 260 --> 263
+    line [261, 262, 261, 261]
 ```
 
-2026-10-18 261 → 2026-11-02 261（+0）
+2026-10-18 261 → 2026-11-17 261（+0）
 
 
 ---

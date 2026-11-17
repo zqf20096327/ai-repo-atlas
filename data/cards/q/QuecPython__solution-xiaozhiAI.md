@@ -1,6 +1,6 @@
 # QuecPython/solution-xiaozhiAI
 
-⭐ 52 · Python · 推送 2026-01-08 · [GitHub](https://github.com/QuecPython/solution-xiaozhiAI) · 组织维护 · 中文 README
+⭐ 55 · Python · 推送 2026-01-08 · [GitHub](https://github.com/QuecPython/solution-xiaozhiAI) · 组织维护 · 中文 README
 
 **基于小智平台的 QuecPython AI 语音聊天机方案，面向开发板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuecPython/solution-xiaozhiAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "QuecPython/solution-xiaozhiAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

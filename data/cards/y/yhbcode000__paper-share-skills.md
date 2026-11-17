@@ -1,6 +1,6 @@
 # yhbcode000/paper-share-skills
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/yhbcode000/paper-share-skills) · [官网](https://blog.yhbcode000.tech/paper-share-skills/) · 个人维护 · 中文 README
+⭐ 53 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/yhbcode000/paper-share-skills) · [官网](https://blog.yhbcode000.tech/paper-share-skills/) · 个人维护 · 中文 README
 
 **论文转 B 站讲解视频的 agent 技能套件（Claude Code/Codex/OMP）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yhbcode000/paper-share-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 43 --> 50
-    line [44, 45, 46, 47, 48, 49, 49]
+    title "yhbcode000/paper-share-skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 43 --> 54
+    line [44, 45, 46, 47, 48, 49, 47, 52, 53, 53]
 ```
 
-2026-10-18 44 → 2026-11-02 49（+5）
+2026-10-18 44 → 2026-11-17 53（+9）
 
 
 ---

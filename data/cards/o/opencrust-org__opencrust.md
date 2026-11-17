@@ -1,6 +1,6 @@
 # opencrust-org/opencrust
 
-⭐ 148 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opencrust-org/opencrust) · 组织维护
+⭐ 148 · Rust · MIT · 推送 2026-11-08 · [GitHub](https://github.com/opencrust-org/opencrust) · 组织维护
 
 **Rust 编写的个人多 agent AI 助手平台，覆盖多聊天渠道**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "opencrust-org/opencrust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
+    title "opencrust-org/opencrust 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 145 --> 149
-    line [146, 147, 148, 148]
+    line [146, 147, 148, 147, 148, 148]
 ```
 
-2026-10-18 146 → 2026-11-02 148（+2）
+2026-10-18 146 → 2026-11-17 148（+2）
 
 
 ---

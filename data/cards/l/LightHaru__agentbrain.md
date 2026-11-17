@@ -1,6 +1,6 @@
 # LightHaru/agentbrain
 
-⭐ 106 · TypeScript · 推送 2026-08-13 · [GitHub](https://github.com/LightHaru/agentbrain) · [官网](https://openclaw.ai) · 个人维护
+⭐ 108 · TypeScript · 推送 2026-08-13 · [GitHub](https://github.com/LightHaru/agentbrain) · [官网](https://openclaw.ai) · 个人维护
 
 **为 OpenClaw AI agent 提供持久记忆与人格/情绪演化的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LightHaru/agentbrain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 105 --> 108
-    line [106, 107, 106, 106]
+    title "LightHaru/agentbrain 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 105 --> 109
+    line [106, 107, 106, 107, 108, 108]
 ```
 
-2026-10-18 106 → 2026-11-02 106（+0）
+2026-10-18 106 → 2026-11-17 108（+2）
 
 
 ---

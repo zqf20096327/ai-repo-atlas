@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-AI.github.io
 
-⭐ 73 · HTML · 推送 2025-11-09 · [GitHub](https://github.com/MiniMax-AI/MiniMax-AI.github.io) · [官网](https://minimax-ai.github.io/tts_tech_report/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **MiniMax 官方 GitHub Page：论文与服务入口导航页**
 
@@ -42,12 +42,12 @@ MiniMax 公司的官方 GitHub Pages 仓库，README 仅做导航：列出 MiniM
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-AI.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-07 73（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # alebal123bal/khadas_yolov8n_multithread
 
-⭐ 93 · C++ · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/alebal123bal/khadas_yolov8n_multithread) · 个人维护
+⭐ 94 · C++ · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/alebal123bal/khadas_yolov8n_multithread) · 个人维护
 
 **RK3588S NPU 上实时检测无人机的多线程视觉流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alebal123bal/khadas_yolov8n_multithread 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "alebal123bal/khadas_yolov8n_multithread 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 94（+1）
 
 
 ---

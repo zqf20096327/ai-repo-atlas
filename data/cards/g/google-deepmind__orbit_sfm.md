@@ -1,6 +1,6 @@
 # google-deepmind/orbit_sfm
 
-⭐ 36 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/google-deepmind/orbit_sfm) · 组织维护
+⭐ 37 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/google-deepmind/orbit_sfm) · 组织维护
 
 **基于 360° 视频的 SfM 重建管线评测基准（ORBIT）**
 
@@ -45,13 +45,13 @@ DeepMind 发布的运动恢复结构（SfM）评测基准：提供从预处理�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/orbit_sfm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 32 --> 37
-    line [33, 34, 35, 36, 36]
+    title "google-deepmind/orbit_sfm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 38
+    line [33, 34, 35, 36, 37, 37]
 ```
 
-2026-10-18 33 → 2026-11-02 36（+3）
+2026-10-18 33 → 2026-11-17 37（+4）
 
 
 ---

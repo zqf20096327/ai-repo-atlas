@@ -1,6 +1,6 @@
 # Aditya-00a/Instaply
 
-⭐ 17 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/Aditya-00a/Instaply) · [官网](https://instaply-web.vercel.app) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/Aditya-00a/Instaply) · [官网](https://instaply-web.vercel.app) · 个人维护
 
 **本地优先的求职自动投递 agent，用 Ollama 在你电脑上跑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aditya-00a/Instaply 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "Aditya-00a/Instaply 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

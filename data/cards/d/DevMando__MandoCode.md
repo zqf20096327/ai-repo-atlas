@@ -1,6 +1,6 @@
 # DevMando/MandoCode
 
-⭐ 17 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/DevMando/MandoCode) · 个人维护
+⭐ 18 · C# · MIT · 推送 2026-11-13 · [GitHub](https://github.com/DevMando/MandoCode) · 个人维护
 
 **基于 Ollama 的 .NET 终端 AI 编码助手，多 agent 协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevMando/MandoCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "DevMando/MandoCode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

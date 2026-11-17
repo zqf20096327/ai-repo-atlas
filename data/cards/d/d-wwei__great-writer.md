@@ -1,6 +1,6 @@
 # d-wwei/great-writer
 
-⭐ 24 · Shell · MIT · 推送 2026-04-14 · [GitHub](https://github.com/d-wwei/great-writer) · 个人维护 · 中文 README
+⭐ 25 · Shell · MIT · 推送 2026-04-14 · [GitHub](https://github.com/d-wwei/great-writer) · 个人维护 · 中文 README
 
 **装在 AI agent 上的写作技能：9 模式 6 阶段管线产出去 AI 腔文稿**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "d-wwei/great-writer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "d-wwei/great-writer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

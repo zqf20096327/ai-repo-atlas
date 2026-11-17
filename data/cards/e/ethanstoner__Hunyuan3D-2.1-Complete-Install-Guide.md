@@ -1,6 +1,6 @@
 # ethanstoner/Hunyuan3D-2.1-Complete-Install-Guide
 
-⭐ 13 · PowerShell · 推送 2026-09-12 · [GitHub](https://github.com/ethanstoner/Hunyuan3D-2.1-Complete-Install-Guide) · [官网](https://ethanstoner.dev/) · 个人维护
+⭐ 15 · PowerShell · 推送 2026-09-12 · [GitHub](https://github.com/ethanstoner/Hunyuan3D-2.1-Complete-Install-Guide) · [官网](https://ethanstoner.dev/) · 个人维护
 
 **Windows 上为 ComfyUI 安装 Hunyuan3D-2.1 的脚本化安装指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethanstoner/Hunyuan3D-2.1-Complete-Install-Guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "ethanstoner/Hunyuan3D-2.1-Complete-Install-Guide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

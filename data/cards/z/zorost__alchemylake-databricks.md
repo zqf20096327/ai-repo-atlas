@@ -1,6 +1,6 @@
 # zorost/alchemylake-databricks
 
-⭐ 120 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/zorost/alchemylake-databricks) · [官网](https://app.alchemylake.com) · 组织维护
+⭐ 118 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/zorost/alchemylake-databricks) · [官网](https://app.alchemylake.com) · 组织维护
 
 **把 Databricks 治理数据生成为封印溯源的汇报物（deck/PDF/视频/播客）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zorost/alchemylake-databricks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 119 --> 121
-    line [120, 120]
+    title "zorost/alchemylake-databricks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 117 --> 121
+    line [120, 118, 118]
 ```
 
-2026-10-18 120 → 2026-11-02 120（+0）
+2026-10-18 120 → 2026-11-17 118（-2）
 
 
 ---

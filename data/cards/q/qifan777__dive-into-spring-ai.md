@@ -1,6 +1,6 @@
 # qifan777/dive-into-spring-ai
 
-⭐ 427 · Java · 推送 2026-07-15 · [GitHub](https://github.com/qifan777/dive-into-spring-ai) · [官网](https://www.jarcheng.top/blog/project/spring-ai/intro.html) · 个人维护 · 中文 README
+⭐ 425 · Java · 推送 2026-11-05 · [GitHub](https://github.com/qifan777/dive-into-spring-ai) · [官网](https://www.jarcheng.top/blog/project/spring-ai/intro.html) · 个人维护 · 中文 README
 
 **SpringAI 动手教学项目：SSE流/Agent/RAG/Graph RAG/FunctionCall 示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qifan777/dive-into-spring-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 426 --> 428
-    line [427, 427]
+    title "qifan777/dive-into-spring-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 424 --> 428
+    line [427, 426, 425, 425]
 ```
 
-2026-10-18 427 → 2026-11-02 427（+0）
+2026-10-18 427 → 2026-11-17 425（-2）
 
 
 ---

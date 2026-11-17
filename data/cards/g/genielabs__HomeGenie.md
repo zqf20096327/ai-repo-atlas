@@ -1,6 +1,6 @@
 # genielabs/HomeGenie
 
-⭐ 459 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/genielabs/HomeGenie) · [官网](https://homegenie.it) · 组织维护
+⭐ 460 · JavaScript · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/genielabs/HomeGenie) · [官网](https://homegenie.it) · 组织维护
 
 **本地优先的开源智能家居自动化平台，内置本地 Agentic AI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "genielabs/HomeGenie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 458 --> 460
-    line [459, 459]
+    title "genielabs/HomeGenie 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 458 --> 461
+    line [459, 460, 460]
 ```
 
-2026-10-18 459 → 2026-11-02 459（+0）
+2026-10-18 459 → 2026-11-17 460（+1）
 
 
 ---

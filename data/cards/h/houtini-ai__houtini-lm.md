@@ -1,6 +1,6 @@
 # houtini-ai/houtini-lm
 
-⭐ 121 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/houtini-ai/houtini-lm) · [官网](https://houtini.com/how-to-cut-your-claude-code-bill-with-houtini-lm/) · 个人维护
+⭐ 122 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/houtini-ai/houtini-lm) · [官网](https://houtini.com/how-to-cut-your-claude-code-bill-with-houtini-lm/) · 个人维护
 
 **把有界任务从 Claude Code 委派给本地/云端 LLM 的 MCP server**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "houtini-ai/houtini-lm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    title "houtini-ai/houtini-lm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 119 --> 123
+    line [120, 121, 122, 122]
 ```
 
-2026-10-18 120 → 2026-11-02 121（+1）
+2026-10-18 120 → 2026-11-17 122（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hipst3rMusic/obsidian-third-mind-reader
 
-⭐ 122 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Hipst3rMusic/obsidian-third-mind-reader) · 个人维护
+⭐ 126 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Hipst3rMusic/obsidian-third-mind-reader) · 个人维护
 
 **Obsidian 中的 EPUB/PDF 阅读器，高亮存为 markdown，AI 聊天可选**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hipst3rMusic/obsidian-third-mind-reader 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 114 --> 123
-    line [115, 118, 119, 120, 121, 122, 122]
+    title "Hipst3rMusic/obsidian-third-mind-reader 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 114 --> 127
+    line [115, 118, 119, 120, 121, 122, 118, 124, 125, 126, 125, 126, 126]
 ```
 
-2026-10-18 115 → 2026-11-02 122（+7）
+2026-10-18 115 → 2026-11-17 126（+11）
 
 
 ---

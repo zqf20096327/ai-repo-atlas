@@ -1,6 +1,6 @@
 # ruijayfeng/velvet-ascent-skill
 
-⭐ 30 · HTML · MIT · 推送 2026-07-13 · [GitHub](https://github.com/ruijayfeng/velvet-ascent-skill) · [官网](https://www.npmjs.com/package/@ruizhefeng/velvet-ascent-skill) · 个人维护 · 中文 README
+⭐ 33 · HTML · MIT · 推送 2026-07-13 · [GitHub](https://github.com/ruijayfeng/velvet-ascent-skill) · [官网](https://www.npmjs.com/package/@ruizhefeng/velvet-ascent-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 装的中文成人向文字 GalGame GM 技能**
 
@@ -44,13 +44,13 @@ Velvet Ascent 是一个安装到支持 skills 的 AI Agent 中的中文文字游
 
 ```mermaid
 xychart-beta
-    title "ruijayfeng/velvet-ascent-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "ruijayfeng/velvet-ascent-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 30, 29, 31, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 33（+5）
 
 
 ---

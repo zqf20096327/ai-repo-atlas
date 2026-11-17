@@ -1,6 +1,6 @@
 # anthropics/devcontainer-features
 
-⭐ 314 · Shell · MIT · 推送 2025-12-16 · [GitHub](https://github.com/anthropics/devcontainer-features) · 组织维护
+⭐ 317 · Shell · MIT · 推送 2025-12-16 · [GitHub](https://github.com/anthropics/devcontainer-features) · 组织维护
 
 **开发者用：在 Dev Container 中安装 Claude Code CLI 的功能包**
 
@@ -42,13 +42,13 @@ Anthropic 维护的 Dev Container Features 仓库，提供一个安装 Claude Co
 
 ```mermaid
 xychart-beta
-    title "anthropics/devcontainer-features 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 310 --> 316
-    line [311, 314, 315, 314, 314]
+    title "anthropics/devcontainer-features 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 310 --> 319
+    line [311, 314, 315, 314, 315, 316, 317, 318, 317, 317]
 ```
 
-2026-10-18 311 → 2026-11-02 314（+3）
+2026-10-18 311 → 2026-11-17 317（+6）
 
 
 ---

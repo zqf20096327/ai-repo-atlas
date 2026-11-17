@@ -1,6 +1,6 @@
 # Astrotomic/php-deepface
 
-⭐ 57 · PHP · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Astrotomic/php-deepface) · [官网](https://github.com/serengil/deepface) · 个人维护
+⭐ 57 · PHP · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Astrotomic/php-deepface) · [官网](https://github.com/serengil/deepface) · 个人维护
 
 **PHP 的人脸识别与面部属性分析适配库（封装 Python deepface）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Astrotomic/php-deepface 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 57（+0）
 
 
 ---

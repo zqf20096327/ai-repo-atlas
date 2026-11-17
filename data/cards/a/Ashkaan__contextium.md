@@ -1,6 +1,6 @@
 # Ashkaan/contextium
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Ashkaan/contextium) · [官网](https://contextium.ai) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Ashkaan/contextium) · [官网](https://contextium.ai) · 个人维护
 
 **为 AI 编码工具提供持久化上下文与工作流的开源工作台框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ashkaan/contextium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "Ashkaan/contextium 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

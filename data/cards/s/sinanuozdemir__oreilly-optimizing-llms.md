@@ -1,6 +1,6 @@
 # sinanuozdemir/oreilly-optimizing-llms
 
-⭐ 86 · Jupyter Notebook · 推送 2025-12-16 · [GitHub](https://github.com/sinanuozdemir/oreilly-optimizing-llms) · [官网](https://www.oreilly.com/live-events/optimizing-llms-with-fine-tuning-and-prompt-engineering/0642572011351) · 个人维护
+⭐ 87 · Jupyter Notebook · 推送 2025-12-16 · [GitHub](https://github.com/sinanuozdemir/oreilly-optimizing-llms) · [官网](https://www.oreilly.com/live-events/optimizing-llms-with-fine-tuning-and-prompt-engineering/0642572011351) · 个人维护
 
 **O'Reilly LLM 微调与提示工程课程配套代码集**
 
@@ -44,13 +44,13 @@ O'Reilly Live Online Training《Optimizing LLMs with Fine-Tuning and Prompt Engi
 
 ```mermaid
 xychart-beta
-    title "sinanuozdemir/oreilly-optimizing-llms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    title "sinanuozdemir/oreilly-optimizing-llms 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 85 --> 88
+    line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-11-02 86（+0）
+2026-10-18 86 → 2026-11-17 87（+1）
 
 
 ---

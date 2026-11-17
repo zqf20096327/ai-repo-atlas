@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StatMixedML/LightGBMLSS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 396 --> 398
-    line [397, 397]
+    title "StatMixedML/LightGBMLSS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 395 --> 398
+    line [397, 396, 397, 397]
 ```
 
-2026-10-18 397 → 2026-11-02 397（+0）
+2026-10-18 397 → 2026-11-17 397（+0）
 
 
 ---

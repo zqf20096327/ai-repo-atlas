@@ -1,6 +1,6 @@
 # ash-iiiiish/Enterprise-Knowledge-Copilot
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ash-iiiiish/Enterprise-Knowledge-Copilot) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ash-iiiiish/Enterprise-Knowledge-Copilot) · 个人维护
 
 **企业知识助手：RAG + MCP 工具 + Self-RAG/CRAG 校验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ash-iiiiish/Enterprise-Knowledge-Copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

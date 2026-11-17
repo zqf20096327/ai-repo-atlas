@@ -1,6 +1,6 @@
 # MallamTeja/f1_models
 
-⭐ 17 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MallamTeja/f1_models) · [官网](https://f1predictor.tech) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/MallamTeja/f1_models) · [官网](https://f1predictor.tech) · 个人维护
 
 **F1 四站大奖赛单圈节奏预测的 FastAPI 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MallamTeja/f1_models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

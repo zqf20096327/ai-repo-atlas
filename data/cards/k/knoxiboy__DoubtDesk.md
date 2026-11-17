@@ -1,6 +1,6 @@
 # knoxiboy/DoubtDesk
 
-⭐ 98 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/knoxiboy/DoubtDesk) · [官网](https://doubt-desk-knox.vercel.app/) · 组织维护
+⭐ 97 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/knoxiboy/DoubtDesk) · [官网](https://doubt-desk-knox.vercel.app/) · 组织维护
 
 **学生匿名提问、AI 即时解答的虚拟课堂问答平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "knoxiboy/DoubtDesk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 97 --> 100
-    line [99, 98, 98]
+    title "knoxiboy/DoubtDesk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 96 --> 100
+    line [99, 98, 99, 98, 97, 97]
 ```
 
-2026-10-18 99 → 2026-11-02 98（-1）
+2026-10-18 99 → 2026-11-17 97（-2）
 
 
 ---

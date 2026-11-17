@@ -1,6 +1,6 @@
 # openai/chatkit-python
 
-⭐ 394 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/openai/chatkit-python) · [官网](https://openai.github.io/chatkit-python/) · 组织维护
+⭐ 395 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/openai/chatkit-python) · [官网](https://openai.github.io/chatkit-python/) · 组织维护
 
 **OpenAI 的 Python 聊天界面工具包（README 仅含许可证信息）**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/chatkit-python 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 390 --> 395
-    line [392, 391, 392, 393, 394, 394]
+    title "openai/chatkit-python 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 390 --> 396
+    line [392, 391, 392, 393, 394, 393, 394, 395, 395]
 ```
 
-2026-10-18 392 → 2026-11-02 394（+2）
+2026-10-18 392 → 2026-11-17 395（+3）
 
 
 ---

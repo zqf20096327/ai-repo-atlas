@@ -1,6 +1,6 @@
 # Bobby-Gray/open-tabletop-gm
 
-⭐ 62 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Bobby-Gray/open-tabletop-gm) · [官网](https://neuralinitiative.ai) · 个人维护
+⭐ 70 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Bobby-Gray/open-tabletop-gm) · [官网](https://neuralinitiative.ai) · 个人维护
 
 **LLM 无关的桌面 RPG 主持框架：让任意 LLM 当 Game Master**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bobby-Gray/open-tabletop-gm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 58 --> 63
-    line [59, 61, 62]
+    title "Bobby-Gray/open-tabletop-gm 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 58 --> 72
+    line [59, 61, 62, 59, 65, 68, 70, 71, 70, 70]
 ```
 
-2026-10-18 59 → 2026-11-02 62（+3）
+2026-10-18 59 → 2026-11-17 70（+11）
 
 
 ---

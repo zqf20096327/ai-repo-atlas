@@ -1,6 +1,6 @@
 # Thinklab-SJTU/pygmtools
 
-⭐ 352 · Python · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/Thinklab-SJTU/pygmtools) · [官网](https://pygmtools.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 353 · Python · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/Thinklab-SJTU/pygmtools) · [官网](https://pygmtools.readthedocs.io/) · 组织维护 · 中文 README
 
 **Python 图匹配求解器库：给研究者的组合优化与深度学习图匹配工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thinklab-SJTU/pygmtools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 351 --> 353
-    line [352, 352]
+    title "Thinklab-SJTU/pygmtools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 351 --> 354
+    line [352, 353, 353]
 ```
 
-2026-10-18 352 → 2026-11-02 352（+0）
+2026-10-18 352 → 2026-11-17 353（+1）
 
 
 ---

@@ -44,13 +44,13 @@ O'Reilly 2017 年《Agile Data Science 2.0》一书的配套源代码仓库。�
 
 ```mermaid
 xychart-beta
-    title "rjurney/Agile_Data_Code_2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 460 --> 462
-    line [461, 461]
+    title "rjurney/Agile_Data_Code_2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 459 --> 462
+    line [461, 460, 461, 461]
 ```
 
-2026-10-18 461 → 2026-11-02 461（+0）
+2026-10-18 461 → 2026-11-17 461（+0）
 
 
 ---

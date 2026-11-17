@@ -1,6 +1,6 @@
 # josephyaduvanshi/claude-history-manager
 
-⭐ 49 · Swift · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/josephyaduvanshi/claude-history-manager) · [官网](https://github.com/josephyaduvanshi/claude-history-manager) · 个人维护
+⭐ 48 · Swift · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/josephyaduvanshi/claude-history-manager) · [官网](https://github.com/josephyaduvanshi/claude-history-manager) · 个人维护
 
 **macOS 原生应用：浏览检索 Claude Code/Codex/Gemini CLI 会话历史**
 
@@ -45,13 +45,13 @@ Chronicle 是 SwiftUI 编写的 macOS 原生桌面应用，直接读取 Claude C
 
 ```mermaid
 xychart-beta
-    title "josephyaduvanshi/claude-history-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "josephyaduvanshi/claude-history-manager 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    line [48, 49, 48, 48]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 48（+0）
 
 
 ---

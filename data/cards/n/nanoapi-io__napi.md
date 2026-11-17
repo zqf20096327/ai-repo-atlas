@@ -1,6 +1,6 @@
 # nanoapi-io/napi
 
-⭐ 323 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/nanoapi-io/napi) · [官网](https://nanoapi.io) · 组织维护
+⭐ 324 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/nanoapi-io/napi) · [官网](https://nanoapi.io) · 组织维护
 
 **离线代码架构分析 CLI：生成依赖清单并本地可视化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nanoapi-io/napi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 322 --> 324
-    line [323, 323]
+    title "nanoapi-io/napi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 322 --> 325
+    line [323, 324, 324]
 ```
 
-2026-10-18 323 → 2026-11-02 323（+0）
+2026-10-18 323 → 2026-11-17 324（+1）
 
 
 ---

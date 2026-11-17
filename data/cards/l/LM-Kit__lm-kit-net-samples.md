@@ -1,6 +1,6 @@
 # LM-Kit/lm-kit-net-samples
 
-⭐ 55 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LM-Kit/lm-kit-net-samples) · [官网](https://lm-kit.com/) · 组织维护
+⭐ 56 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LM-Kit/lm-kit-net-samples) · [官网](https://lm-kit.com/) · 组织维护
 
 **LM-Kit.NET 私有 AI 运行时的 C# 可运行示例集**
 
@@ -45,13 +45,13 @@ LM-Kit 组织维护的 .NET 示例仓库，配套其商业库 LM-Kit.NET（进�
 
 ```mermaid
 xychart-beta
-    title "LM-Kit/lm-kit-net-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "LM-Kit/lm-kit-net-samples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

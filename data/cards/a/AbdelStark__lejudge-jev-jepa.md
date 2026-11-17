@@ -1,6 +1,6 @@
 # AbdelStark/lejudge-jev-jepa
 
-⭐ 13 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/AbdelStark/lejudge-jev-jepa) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/AbdelStark/lejudge-jev-jepa) · 个人维护
 
 **用自然语言约束 JEPA 世界模型规划的判定模块**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdelStark/lejudge-jev-jepa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "AbdelStark/lejudge-jev-jepa 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 15, 16, 16]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 16（+6）
 
 
 ---

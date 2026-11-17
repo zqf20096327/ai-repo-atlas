@@ -1,6 +1,6 @@
 # Prism-Shadow/awesome-rsi
 
-⭐ 554 · JavaScript · 推送 2026-10-30 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护 · 中文 README
+⭐ 611 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护 · 中文 README
 
 **递归自我改进（RSI）论文与系统索引清单（113 方法+33 基准+3 系统）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Prism-Shadow/awesome-rsi 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 535 --> 555
-    line [536, 548, 551, 554]
+    title "Prism-Shadow/awesome-rsi 星数(近 12 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 529 --> 618
+    line [536, 548, 551, 554, 592, 602, 604, 605, 608, 610, 611, 611]
 ```
 
-2026-10-30 536 → 2026-11-02 554（+18）
+2026-10-30 536 → 2026-11-17 611（+75）
 
 
 ---

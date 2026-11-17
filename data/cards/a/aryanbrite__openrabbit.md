@@ -1,6 +1,6 @@
 # aryanbrite/openrabbit
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/aryanbrite/openrabbit) · [官网](http://aryan.my/posts/open-rabbit) · 个人维护
+⭐ 59 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/aryanbrite/openrabbit) · [官网](http://aryan.my/posts/open-rabbit) · 个人维护
 
 **在 GitHub Actions 内自托管的 AI PR 审查工具，免服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aryanbrite/openrabbit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
+    title "aryanbrite/openrabbit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 57 --> 62
-    line [58, 61, 59, 60, 61, 61]
+    line [58, 61, 59, 60, 61, 59, 58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 61（+3）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

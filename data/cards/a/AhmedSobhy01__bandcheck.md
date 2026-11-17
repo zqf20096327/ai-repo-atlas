@@ -1,6 +1,6 @@
 # AhmedSobhy01/bandcheck
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AhmedSobhy01/bandcheck) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AhmedSobhy01/bandcheck) · 个人维护
 
 **IELTS 写作评分工具：上传题目截图与答案，AI 给四项评分和批改**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AhmedSobhy01/bandcheck 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 4 --> 14
-    line [5, 11, 12, 13, 13]
+    title "AhmedSobhy01/bandcheck 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 4 --> 16
+    line [5, 11, 12, 13, 15, 15]
 ```
 
-2026-10-18 5 → 2026-11-02 13（+8）
+2026-10-18 5 → 2026-11-17 15（+10）
 
 
 ---

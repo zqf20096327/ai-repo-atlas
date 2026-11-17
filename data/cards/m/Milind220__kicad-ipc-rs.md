@@ -1,6 +1,6 @@
 # Milind220/kicad-ipc-rs
 
-⭐ 35 · Rust · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Milind220/kicad-ipc-rs) · [官网](https://milind220.github.io/kicad-ipc-rs/) · 个人维护
+⭐ 36 · Rust · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Milind220/kicad-ipc-rs) · [官网](https://milind220.github.io/kicad-ipc-rs/) · 个人维护
 
 **KiCad IPC API 的 Rust 绑定库，异步优先、全命令覆盖**
 
@@ -45,13 +45,13 @@ Rust 语言编写的 KiCad IPC API 客户端库，实现 KiCad v10.0.1 全部 59
 
 ```mermaid
 xychart-beta
-    title "Milind220/kicad-ipc-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "Milind220/kicad-ipc-rs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-17"]
     y-axis "stars" 34 --> 37
-    line [35, 36, 35]
+    line [35, 36, 35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 36（+1）
 
 
 ---

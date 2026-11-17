@@ -1,6 +1,6 @@
 # MattYoon/reasoning-models-confidence
 
-⭐ 23 · Python · 推送 2025-11-19 · [GitHub](https://github.com/MattYoon/reasoning-models-confidence) · [官网](https://arxiv.org/abs/2505.14489) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **NeurIPS 2025 论文官方代码：分析推理模型表达置信度的能力**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MattYoon/reasoning-models-confidence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-14 23（+0）
 
 
 ---

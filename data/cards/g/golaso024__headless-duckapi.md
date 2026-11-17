@@ -1,6 +1,6 @@
 # golaso024/headless-duckapi
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/golaso024/headless-duckapi) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/golaso024/headless-duckapi) · 个人维护 · 中文 README
 
 **把 duck.ai 免费聊天变成 Telegram AI 机器人的 Node.js 项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "golaso024/headless-duckapi 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "golaso024/headless-duckapi 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 14, 12, 15, 17, 18, 18]
 ```
 
-2026-10-23 12 → 2026-11-02 14（+2）
+2026-10-23 12 → 2026-11-17 18（+6）
 
 
 ---

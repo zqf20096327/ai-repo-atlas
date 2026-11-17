@@ -1,6 +1,6 @@
 # KyuRish/mcp-dashboards
 
-⭐ 52 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/KyuRish/mcp-dashboards) · 个人维护
+⭐ 54 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/KyuRish/mcp-dashboards) · 个人维护
 
 **在 AI 对话中直接渲染交互式图表与仪表盘的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KyuRish/mcp-dashboards 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 48 --> 53
-    line [49, 50, 51, 52, 52]
+    title "KyuRish/mcp-dashboards 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 48 --> 55
+    line [49, 50, 51, 52, 53, 54, 54]
 ```
 
-2026-10-18 49 → 2026-11-02 52（+3）
+2026-10-18 49 → 2026-11-17 54（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/aurora
 
-⭐ 1,033 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/aurora) · [官网](https://microsoft.github.io/aurora) · 组织维护
+⭐ 1,046 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/microsoft/aurora) · [官网](https://microsoft.github.io/aurora) · 组织维护
 
 **微软地球系统预报基础模型 Aurora 的官方实现**
 
@@ -45,13 +45,13 @@ Aurora 是用于地球系统预报的机器学习基础模型：先在大规模�
 
 ```mermaid
 xychart-beta
-    title "microsoft/aurora 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1027 --> 1034
-    line [1028, 1029, 1031, 1032, 1033, 1033]
+    title "microsoft/aurora 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1027 --> 1047
+    line [1028, 1029, 1031, 1032, 1033, 1032, 1041, 1044, 1045, 1046, 1046]
 ```
 
-2026-10-18 1,028 → 2026-11-02 1,033（+5）
+2026-10-18 1,028 → 2026-11-17 1,046（+18）
 
 
 ---

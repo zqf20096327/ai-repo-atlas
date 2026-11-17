@@ -1,6 +1,6 @@
 # day50-dev/streamdown
 
-⭐ 363 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/day50-dev/streamdown) · [官网](https://day50.dev) · 组织维护
+⭐ 365 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/day50-dev/streamdown) · [官网](https://day50.dev) · 组织维护
 
 **终端实时流式 Markdown 渲染库与 CLI，面向 LLM 输出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "day50-dev/streamdown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 362 --> 365
-    line [364, 363, 363]
+    title "day50-dev/streamdown 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 362 --> 366
+    line [364, 363, 365, 365]
 ```
 
-2026-10-18 364 → 2026-11-02 363（-1）
+2026-10-18 364 → 2026-11-17 365（+1）
 
 
 ---

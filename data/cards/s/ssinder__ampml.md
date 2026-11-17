@@ -1,6 +1,6 @@
 # ssinder/ampml
 
-⭐ 51 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ssinder/ampml) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ssinder/ampml) · 个人维护
 
 **抗菌肽活性分类的可复现审计基准：6 模型+30 项核查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ssinder/ampml 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 24 --> 53
-    line [26, 51, 51]
+    title "ssinder/ampml 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 24 --> 54
+    line [26, 51, 26, 51, 52, 52]
 ```
 
-2026-10-25 26 → 2026-11-02 51（+25）
+2026-10-25 26 → 2026-11-17 52（+26）
 
 
 ---

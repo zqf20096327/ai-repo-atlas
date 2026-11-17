@@ -1,6 +1,6 @@
 # achetronic/filesystem-mcp
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/achetronic/filesystem-mcp) · [官网](https://magec.dev) · 个人维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/achetronic/filesystem-mcp) · [官网](https://magec.dev) · 个人维护
 
 **让 AI agent 读写文件系统与执行命令的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "achetronic/filesystem-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "achetronic/filesystem-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

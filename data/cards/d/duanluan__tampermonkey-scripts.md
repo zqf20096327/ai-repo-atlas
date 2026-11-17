@@ -1,6 +1,6 @@
 # duanluan/tampermonkey-scripts
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/duanluan/tampermonkey-scripts) · [官网](https://greasyfork.org/zh-CN/users/213733#user-script-list-section) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/duanluan/tampermonkey-scripts) · [官网](https://greasyfork.org/zh-CN/users/213733#user-script-list-section) · 个人维护 · 中文 README
 
 **油猴用户脚本集合：多个网站的界面与功能增强脚本**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "duanluan/tampermonkey-scripts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "duanluan/tampermonkey-scripts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

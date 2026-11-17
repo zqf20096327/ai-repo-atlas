@@ -1,6 +1,6 @@
 # chaoss/wg-ai-alignment
 
-⭐ 25 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chaoss/wg-ai-alignment) · 组织维护
+⭐ 26 · HTML · MIT · 推送 2026-11-05 · [GitHub](https://github.com/chaoss/wg-ai-alignment) · 组织维护
 
 **CHAOSS AI 对齐工作组：协作枢纽与资源清单**
 
@@ -43,13 +43,13 @@ CHAOSS 下 AI Alignment 工作组的规划与协作仓库，工作方向为开�
 
 ```mermaid
 xychart-beta
-    title "chaoss/wg-ai-alignment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25]
+    title "chaoss/wg-ai-alignment 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 23, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

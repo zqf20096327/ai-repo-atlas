@@ -1,6 +1,6 @@
 # vllm-project/vime
 
-⭐ 496 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/vllm-project/vime) · 组织维护 · 中文 README
+⭐ 503 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vllm-project/vime) · 组织维护 · 中文 README
 
 **面向 RL scaling 的 LLM 后训练框架，基于 slime + vLLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vime 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 485 --> 497
-    line [486, 490, 491, 492, 496, 496]
+    title "vllm-project/vime 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 485 --> 505
+    line [486, 490, 491, 492, 496, 490, 503, 504, 503, 503]
 ```
 
-2026-10-18 486 → 2026-11-02 496（+10）
+2026-10-18 486 → 2026-11-17 503（+17）
 
 
 ---

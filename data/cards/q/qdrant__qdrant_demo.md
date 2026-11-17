@@ -1,6 +1,6 @@
 # qdrant/qdrant_demo
 
-⭐ 194 · TypeScript · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/qdrant_demo) · 组织维护
+⭐ 195 · TypeScript · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/qdrant_demo) · 组织维护
 
 **Qdrant 混合检索演示：对创业公司数据做语义/关键词/混合搜索**
 
@@ -44,13 +44,13 @@ Qdrant 官方演示项目，对创业公司目录（startups_demo.json）构建�
 
 ```mermaid
 xychart-beta
-    title "qdrant/qdrant_demo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 192 --> 195
-    line [193, 194, 194]
+    title "qdrant/qdrant_demo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 192 --> 196
+    line [193, 194, 193, 194, 195, 195]
 ```
 
-2026-10-18 193 → 2026-11-02 194（+1）
+2026-10-18 193 → 2026-11-17 195（+2）
 
 
 ---

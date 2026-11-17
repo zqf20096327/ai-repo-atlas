@@ -1,6 +1,6 @@
 # jabberjabberjabber/Context-Tester
 
-⭐ 14 · Python · MIT · 推送 2025-12-17 · [GitHub](https://github.com/jabberjabberjabber/Context-Tester) · 个人维护
+⭐ 15 · Python · MIT · 推送 2025-12-17 · [GitHub](https://github.com/jabberjabberjabber/Context-Tester) · 个人维护
 
 **LLM 长上下文写作质量评测工具：填充上下文并续写打分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jabberjabberjabber/Context-Tester 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "jabberjabberjabber/Context-Tester 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

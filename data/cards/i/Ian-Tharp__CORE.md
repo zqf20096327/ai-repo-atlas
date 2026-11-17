@@ -1,6 +1,6 @@
 # Ian-Tharp/CORE
 
-⭐ 16 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/Ian-Tharp/CORE) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Ian-Tharp/CORE) · 个人维护
 
 **自托管多智能体编排平台：认知流水线与桌面 UI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ian-Tharp/CORE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

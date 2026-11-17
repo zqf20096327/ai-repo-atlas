@@ -1,6 +1,6 @@
 # Agents4Academia-AI/prior
 
-⭐ 15 · HTML · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Agents4Academia-AI/prior) · [官网](https://agents4academia.github.io) · 组织维护
+⭐ 15 · HTML · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Agents4Academia-AI/prior) · [官网](https://agents4academia.github.io) · 组织维护
 
 **读取原始文献构建可审计贡献图谱的 agentic 系统，面向科研人员**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Agents4Academia-AI/prior 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

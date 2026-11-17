@@ -1,0 +1,56 @@
+{
+ "total": 38586,
+ "shard_key": "crc32(fn)%8",
+ "sort": "fn 字典序(片内)",
+ "generated_at": "2026-11-17 21:12:23",
+ "parts": [
+  {
+   "file": "part00.jsonl",
+   "cards": 4814,
+   "bytes": 12893275,
+   "sha256": "05528e53a2fdcb5e"
+  },
+  {
+   "file": "part01.jsonl",
+   "cards": 4848,
+   "bytes": 13007667,
+   "sha256": "ccb73483ca3313d2"
+  },
+  {
+   "file": "part02.jsonl",
+   "cards": 4772,
+   "bytes": 12810170,
+   "sha256": "4de12c80296f7d1c"
+  },
+  {
+   "file": "part03.jsonl",
+   "cards": 4760,
+   "bytes": 12792014,
+   "sha256": "49607e4392803327"
+  },
+  {
+   "file": "part04.jsonl",
+   "cards": 4878,
+   "bytes": 13115511,
+   "sha256": "4314e0253d5ec872"
+  },
+  {
+   "file": "part05.jsonl",
+   "cards": 4854,
+   "bytes": 13033815,
+   "sha256": "acffe75a55da5c51"
+  },
+  {
+   "file": "part06.jsonl",
+   "cards": 4853,
+   "bytes": 13042171,
+   "sha256": "bdff18239bcbdf53"
+  },
+  {
+   "file": "part07.jsonl",
+   "cards": 4807,
+   "bytes": 12924530,
+   "sha256": "b28551c5a77392dc"
+  }
+ ]
+}

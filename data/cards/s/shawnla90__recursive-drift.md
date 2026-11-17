@@ -1,6 +1,6 @@
 # shawnla90/recursive-drift
 
-⭐ 17 · Mermaid · MIT · 推送 2026-03-14 · [GitHub](https://github.com/shawnla90/recursive-drift) · 个人维护 · 中文 README
+⭐ 18 · Mermaid · MIT · 推送 2026-03-14 · [GitHub](https://github.com/shawnla90/recursive-drift) · 个人维护 · 中文 README
 
 **基于 Claude Code 的 CLI-first 方法论：构建有记忆与人格演化的 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shawnla90/recursive-drift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "shawnla90/recursive-drift 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

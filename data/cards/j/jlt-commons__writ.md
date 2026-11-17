@@ -1,6 +1,6 @@
 # jlt-commons/writ
 
-⭐ 15 · Clojure · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/jlt-commons/writ) · 组织维护
+⭐ 17 · Clojure · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/jlt-commons/writ) · 组织维护
 
 **给 Clojure 开发者的规格验证 DSL：用证明和性质检验 LLM 写的代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jlt-commons/writ 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "jlt-commons/writ 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

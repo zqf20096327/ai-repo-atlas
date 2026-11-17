@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MegaByteMark/markdown-ui-dsl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "MegaByteMark/markdown-ui-dsl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [24, 25]
+    line [24, 25, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

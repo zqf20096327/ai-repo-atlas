@@ -1,6 +1,6 @@
 # 0xMulight/human-social-copy
 
-⭐ 23 · MIT · 推送 2026-08-03 · [GitHub](https://github.com/0xMulight/human-social-copy) · 个人维护 · 中文 README
+⭐ 73 · MIT · 推送 2026-08-03 · [GitHub](https://github.com/0xMulight/human-social-copy) · 个人维护 · 中文 README
 
 **让 AI Agent 写出真人风格中文社交文案的规则库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xMulight/human-social-copy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "0xMulight/human-social-copy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 78
+    line [23, 73, 73]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 73（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/hf-discover
 
-⭐ 47 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/hf-discover) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/hf-discover) · 组织维护
 
 **面向 agent 的资源发现客户端/服务器：检索技能与 MCP Server 目录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/hf-discover 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "huggingface/hf-discover 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 45 --> 51
+    line [46, 47, 49, 50, 50]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 50（+4）
 
 
 ---

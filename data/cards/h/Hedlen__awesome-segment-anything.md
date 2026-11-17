@@ -1,6 +1,6 @@
 # Hedlen/awesome-segment-anything
 
-⭐ 1,698 · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Hedlen/awesome-segment-anything) · 个人维护
+⭐ 1,697 · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Hedlen/awesome-segment-anything) · 个人维护
 
 **追踪 Segment Anything 相关论文与项目的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hedlen/awesome-segment-anything 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    title "Hedlen/awesome-segment-anything 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-11", "2026-11-17"]
     y-axis "stars" 1696 --> 1701
-    line [1700, 1697, 1698, 1698]
+    line [1700, 1697, 1698, 1697, 1697]
 ```
 
-2026-10-18 1,700 → 2026-11-02 1,698（-2）
+2026-10-18 1,700 → 2026-11-17 1,697（-3）
 
 
 ---

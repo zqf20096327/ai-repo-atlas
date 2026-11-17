@@ -1,6 +1,6 @@
 # Owl-Listener/perceptual-protocols
 
-⭐ 44 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/Owl-Listener/perceptual-protocols) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/Owl-Listener/perceptual-protocols) · 组织维护
 
 **设计感知协议族：以 markdown 文件向 AI agent 传达设计感受**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Owl-Listener/perceptual-protocols 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "Owl-Listener/perceptual-protocols 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

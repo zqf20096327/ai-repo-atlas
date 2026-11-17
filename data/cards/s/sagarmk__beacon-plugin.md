@@ -1,6 +1,6 @@
 # sagarmk/beacon-plugin
 
-⭐ 43 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/sagarmk/beacon-plugin) · [官网](https://github.com/sagarmk/beacon-plugin) · 个人维护
+⭐ 42 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/sagarmk/beacon-plugin) · [官网](https://github.com/sagarmk/beacon-plugin) · 个人维护
 
 **Claude Code 语义代码搜索插件：混合向量+BM25+符号图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sagarmk/beacon-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "sagarmk/beacon-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 42（-1）
 
 
 ---

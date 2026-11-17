@@ -44,13 +44,13 @@ TOON（Token-Oriented Object Notation）的非官方 Python 实现，提供 enco
 
 ```mermaid
 xychart-beta
-    title "xaviviro/python-toon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 339 --> 341
-    line [340, 340]
+    title "xaviviro/python-toon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 338 --> 341
+    line [340, 339, 340, 340]
 ```
 
-2026-10-18 340 → 2026-11-02 340（+0）
+2026-10-18 340 → 2026-11-17 340（+0）
 
 
 ---

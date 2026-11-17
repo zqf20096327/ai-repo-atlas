@@ -1,6 +1,6 @@
 # mgroncki/IPythonScripts
 
-⭐ 179 · Jupyter Notebook · BSD-3-Clause · 推送 2026-02-28 · [GitHub](https://github.com/mgroncki/IPythonScripts) · [官网](https://www.ipythonquant.wordpress.com) · 个人维护
+⭐ 182 · Jupyter Notebook · BSD-3-Clause · 推送 2026-02-28 · [GitHub](https://github.com/mgroncki/IPythonScripts) · [官网](https://www.ipythonquant.wordpress.com) · 个人维护
 
 **量化金融 Python/QuantLib 教学笔记本集合：定价、xVA、对冲、机器学习**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "mgroncki/IPythonScripts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    title "mgroncki/IPythonScripts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 178 --> 183
+    line [179, 181, 182, 182]
 ```
 
-2026-10-18 179 → 2026-11-02 179（+0）
+2026-10-18 179 → 2026-11-17 182（+3）
 
 
 ---

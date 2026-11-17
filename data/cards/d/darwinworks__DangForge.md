@@ -1,6 +1,6 @@
 # darwinworks/DangForge
 
-⭐ 20 · MIT · 推送 2026-07-13 · [GitHub](https://github.com/darwinworks/DangForge) · 个人维护 · 中文 README
+⭐ 21 · MIT · 推送 2026-07-13 · [GitHub](https://github.com/darwinworks/DangForge) · 个人维护 · 中文 README
 
 **把 MR Dang 价值投资框架整理成 AI Agent 可执行的股票分析技能**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "darwinworks/DangForge 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "darwinworks/DangForge 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-28 19 → 2026-11-02 20（+1）
+2026-10-28 19 → 2026-11-17 21（+2）
 
 
 ---

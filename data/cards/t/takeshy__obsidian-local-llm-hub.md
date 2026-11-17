@@ -1,6 +1,6 @@
 # takeshy/obsidian-local-llm-hub
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/takeshy/obsidian-local-llm-hub) · 个人维护
+⭐ 95 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/takeshy/obsidian-local-llm-hub) · 个人维护
 
 **Obsidian 全本地 AI 枢纽：LLM 对话、RAG、工作流自动化与 MCP 集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "takeshy/obsidian-local-llm-hub 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 84 --> 93
-    line [85, 87, 88, 89, 90, 91, 92, 92]
+    title "takeshy/obsidian-local-llm-hub 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 84 --> 96
+    line [85, 87, 88, 89, 90, 91, 92, 89, 92, 94, 95, 95]
 ```
 
-2026-10-18 85 → 2026-11-02 92（+7）
+2026-10-18 85 → 2026-11-17 95（+10）
 
 
 ---

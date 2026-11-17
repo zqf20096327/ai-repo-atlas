@@ -1,6 +1,6 @@
 # langfuse/skills
 
-⭐ 322 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langfuse/skills) · [官网](https://langfuse.com/docs/api-and-data-platform/features/agent-skill) · 组织维护
+⭐ 342 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/langfuse/skills) · [官网](https://langfuse.com/docs/api-and-data-platform/features/agent-skill) · 组织维护
 
 **教 AI 编程助手使用 Langfuse 平台的 Agent 技能集**
 
@@ -43,13 +43,13 @@ Langfuse 官方维护的 Agent Skills 仓库：以 SKILL 文件形式教 Claude 
 
 ```mermaid
 xychart-beta
-    title "langfuse/skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 305 --> 323
-    line [306, 311, 313, 312, 313, 316, 319, 321, 322, 322]
+    title "langfuse/skills 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 303 --> 345
+    line [306, 311, 313, 312, 313, 316, 319, 321, 322, 312, 334, 338, 339, 340, 342, 342]
 ```
 
-2026-10-18 306 → 2026-11-02 322（+16）
+2026-10-18 306 → 2026-11-17 342（+36）
 
 
 ---

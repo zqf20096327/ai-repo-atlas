@@ -1,6 +1,6 @@
 # tigusigalpa/manus-ai-php
 
-⭐ 24 · PHP · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tigusigalpa/manus-ai-php) · 个人维护
+⭐ 27 · PHP · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tigusigalpa/manus-ai-php) · 个人维护
 
 **Manus AI API v2 的 PHP/Laravel 客户端 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tigusigalpa/manus-ai-php 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "tigusigalpa/manus-ai-php 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

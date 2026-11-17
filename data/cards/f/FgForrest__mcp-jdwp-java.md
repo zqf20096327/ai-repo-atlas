@@ -1,6 +1,6 @@
 # FgForrest/mcp-jdwp-java
 
-⭐ 33 · Java · MIT · 推送 2026-10-31 · [GitHub](https://github.com/FgForrest/mcp-jdwp-java) · 个人维护
+⭐ 34 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/FgForrest/mcp-jdwp-java) · 个人维护
 
 **让 AI agent 通过 JDWP 远程调试运行中 Java 程序的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FgForrest/mcp-jdwp-java 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 29 --> 34
-    line [30, 32, 33, 33]
+    title "FgForrest/mcp-jdwp-java 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 35
+    line [30, 32, 33, 32, 34, 34]
 ```
 
-2026-10-18 30 → 2026-11-02 33（+3）
+2026-10-18 30 → 2026-11-17 34（+4）
 
 
 ---

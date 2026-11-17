@@ -1,6 +1,6 @@
 # mujingquan835/Dawang-ppt
 
-⭐ 192 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/mujingquan835/Dawang-ppt) · 个人维护 · 中文 README
+⭐ 190 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/mujingquan835/Dawang-ppt) · 个人维护 · 中文 README
 
 **内容驱动的中文 PPT 生成技能：场景规划、浏览器编辑、导出可编辑 PPTX**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mujingquan835/Dawang-ppt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 191 --> 193
-    line [192, 192]
+    title "mujingquan835/Dawang-ppt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 189 --> 193
+    line [192, 191, 190, 190]
 ```
 
-2026-10-18 192 → 2026-11-02 192（+0）
+2026-10-18 192 → 2026-11-17 190（-2）
 
 
 ---

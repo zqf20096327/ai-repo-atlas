@@ -1,6 +1,6 @@
 # glincker/stacklit
 
-⭐ 113 · Go · MIT · 推送 2026-05-07 · [GitHub](https://github.com/glincker/stacklit) · [官网](https://www.npmjs.com/package/stacklit) · 个人维护
+⭐ 131 · HTML · MIT · 推送 2026-11-09 · [GitHub](https://github.com/glincker/stacklit) · [官网](https://stacklit.glinr.com/) · 个人维护
 
 **一条命令生成代码库索引，为 AI 编程代理提供即用上下文**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "glincker/stacklit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 109 --> 114
-    line [110, 111, 112, 113, 113]
+    title "glincker/stacklit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 108 --> 133
+    line [110, 111, 112, 113, 112, 114, 130, 131, 131]
 ```
 
-2026-10-18 110 → 2026-11-02 113（+3）
+2026-10-18 110 → 2026-11-17 131（+21）
 
 
 ---

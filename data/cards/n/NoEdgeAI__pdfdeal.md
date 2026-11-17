@@ -1,6 +1,6 @@
 # NoEdgeAI/pdfdeal
 
-⭐ 288 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/NoEdgeAI/pdfdeal) · [官网](https://noedgeai.github.io/pdfdeal-docs/) · 个人维护 · 中文 README
+⭐ 288 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/NoEdgeAI/pdfdeal) · [官网](https://noedgeai.github.io/pdfdeal-docs/) · 个人维护 · 中文 README
 
 **Doc2X OCR API 的 Python 封装，附 PDF/Markdown 处理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NoEdgeAI/pdfdeal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 287 --> 289
     line [288, 288]
 ```
 
-2026-10-18 288 → 2026-11-02 288（+0）
+2026-10-18 288 → 2026-11-17 288（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # artyomsv/quil
 
-⭐ 27 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/artyomsv/quil) · [官网](https://quil.cc/) · 个人维护
+⭐ 28 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/artyomsv/quil) · [官网](https://quil.cc/) · 个人维护
 
 **面向 AI 开发的持久化终端复用器：重启后恢复工作区与 AI 会话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "artyomsv/quil 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    title "artyomsv/quil 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 27, 24, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

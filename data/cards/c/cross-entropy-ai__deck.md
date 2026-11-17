@@ -1,6 +1,6 @@
 # cross-entropy-ai/deck
 
-⭐ 15 · Rust · 推送 2026-09-13 · [GitHub](https://github.com/cross-entropy-ai/deck) · 组织维护
+⭐ 16 · Rust · 推送 2026-09-13 · [GitHub](https://github.com/cross-entropy-ai/deck) · 组织维护
 
 **在终端内管理 tmux 会话与 AI agent 会话的侧边栏工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cross-entropy-ai/deck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "cross-entropy-ai/deck 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

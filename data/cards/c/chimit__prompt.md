@@ -1,6 +1,6 @@
 # chimit/prompt
 
-⭐ 43 · PHP · MIT · 推送 2026-07-11 · [GitHub](https://github.com/chimit/prompt) · 个人维护
+⭐ 44 · PHP · MIT · 推送 2026-07-11 · [GitHub](https://github.com/chimit/prompt) · 个人维护
 
 **Laravel 应用中用 Blade 语法管理 AI 提示词的包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "chimit/prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "chimit/prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

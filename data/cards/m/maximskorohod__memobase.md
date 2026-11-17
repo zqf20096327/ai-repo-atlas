@@ -1,6 +1,6 @@
 # maximskorohod/memobase
 
-⭐ 22 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/maximskorohod/memobase) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/maximskorohod/memobase) · 个人维护
 
 **hermes-agent 的本地知识库插件：对文件/网页/YouTube/Obsidian 做引用可验证的问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maximskorohod/memobase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "maximskorohod/memobase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

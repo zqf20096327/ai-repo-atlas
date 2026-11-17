@@ -1,6 +1,6 @@
 # qbtrix/soul-protocol
 
-⭐ 17 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/qbtrix/soul-protocol) · [官网](https://soul.qbtrix.com) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/qbtrix/soul-protocol) · [官网](https://soul.qbtrix.com) · 个人维护
 
 **AI 代理的便携身份/记忆/情感开放标准及 Python 参考实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qbtrix/soul-protocol 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "qbtrix/soul-protocol 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

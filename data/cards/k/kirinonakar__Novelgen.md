@@ -1,6 +1,6 @@
 # kirinonakar/Novelgen
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kirinonakar/Novelgen) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/kirinonakar/Novelgen) · 个人维护
 
 **面向读者的桌面端 AI 小说生成器：从创意自动产出完整小说**
 
@@ -45,13 +45,13 @@ Rust/Tauri 桌面应用，面向想读到自己设想小说但缺乏时间或写
 
 ```mermaid
 xychart-beta
-    title "kirinonakar/Novelgen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    title "kirinonakar/Novelgen 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 39, 40, 41, 41]
 ```
 
-2026-10-18 38 → 2026-11-02 40（+2）
+2026-10-18 38 → 2026-11-17 41（+3）
 
 
 ---

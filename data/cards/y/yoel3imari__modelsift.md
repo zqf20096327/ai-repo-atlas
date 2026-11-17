@@ -1,6 +1,6 @@
 # yoel3imari/modelsift
 
-⭐ 12 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/yoel3imari/modelsift) · 个人维护
+⭐ 12 · TypeScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/yoel3imari/modelsift) · 个人维护
 
 **本地开源权重 LLM 选型与运行桌面工具：先算显存再下载**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yoel3imari/modelsift 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-25", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-02 12（+0）
+2026-10-25 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mikeoliphant/NeuralAudio
 
-⭐ 149 · C++ · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mikeoliphant/NeuralAudio) · 个人维护
+⭐ 151 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mikeoliphant/NeuralAudio) · 个人维护
 
 **在实时音频应用中运行神经放大器模型的 C++ 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeoliphant/NeuralAudio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 148 --> 151
-    line [150, 149, 149]
+    title "mikeoliphant/NeuralAudio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 148 --> 152
+    line [150, 149, 150, 151, 151]
 ```
 
-2026-10-18 150 → 2026-11-02 149（-1）
+2026-10-18 150 → 2026-11-17 151（+1）
 
 
 ---

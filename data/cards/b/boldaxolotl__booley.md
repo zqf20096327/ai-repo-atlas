@@ -1,6 +1,6 @@
 # boldaxolotl/booley
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/boldaxolotl/booley) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/boldaxolotl/booley) · 个人维护
 
 **让 Claude Code/Codex 在沙箱中执行 RTL 设计任务的开源 IDE**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "boldaxolotl/booley 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 24
-    line [19, 22, 23]
+    title "boldaxolotl/booley 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 29
+    line [19, 22, 23, 19, 25, 26, 27, 28, 28]
 ```
 
-2026-10-18 19 → 2026-11-02 23（+4）
+2026-10-18 19 → 2026-11-17 28（+9）
 
 
 ---

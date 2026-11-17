@@ -1,6 +1,6 @@
 # seanghay/awesome-khmer-language
 
-⭐ 205 · Python · 推送 2026-07-03 · [GitHub](https://github.com/seanghay/awesome-khmer-language) · 个人维护
+⭐ 207 · Python · 推送 2026-11-09 · [GitHub](https://github.com/seanghay/awesome-khmer-language) · 个人维护
 
 **高棉语语言资源汇总清单：工具、数据集、论文与模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seanghay/awesome-khmer-language 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 202 --> 206
-    line [203, 204, 205]
+    title "seanghay/awesome-khmer-language 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 202 --> 209
+    line [203, 204, 205, 204, 205, 208, 207, 207]
 ```
 
-2026-10-18 203 → 2026-11-02 205（+2）
+2026-10-18 203 → 2026-11-17 207（+4）
 
 
 ---

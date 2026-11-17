@@ -1,6 +1,6 @@
 # sosopop/jev_stock
 
-⭐ 16 · Python · 推送 2026-09-17 · [GitHub](https://github.com/sosopop/jev_stock) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-09-17 · [GitHub](https://github.com/sosopop/jev_stock) · 个人维护 · 中文 README
 
 **用 JEV 对港股次日方向做三类预测的实验框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sosopop/jev_stock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "sosopop/jev_stock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

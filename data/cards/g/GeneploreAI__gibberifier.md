@@ -1,6 +1,6 @@
 # GeneploreAI/gibberifier
 
-⭐ 122 · HTML · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/GeneploreAI/gibberifier) · [官网](https://gibberifier.com) · 个人维护
+⭐ 122 · HTML · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/GeneploreAI/gibberifier) · [官网](https://gibberifier.com) · 个人维护
 
 **向文本插入零宽字符、使 LLM 无法正常处理的文本工具**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeneploreAI/gibberifier 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "GeneploreAI/gibberifier 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 117 --> 123
-    line [118, 119, 121, 122, 122]
+    line [118, 119, 121, 122, 118, 122, 122]
 ```
 
-2026-10-18 118 → 2026-11-02 122（+4）
+2026-10-18 118 → 2026-11-17 122（+4）
 
 
 ---

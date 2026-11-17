@@ -1,6 +1,6 @@
 # jim60105/subx-cli
 
-⭐ 12 · Rust · GPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/jim60105/subx-cli) · 个人维护 · 中文 README
+⭐ 12 · Rust · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/jim60105/subx-cli) · 个人维护 · 中文 README
 
 **AI 字幕工具 CLI：自动匹配、改名、格式转换与时间轴校正**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jim60105/subx-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

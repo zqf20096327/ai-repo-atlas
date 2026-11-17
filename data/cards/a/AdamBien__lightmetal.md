@@ -1,6 +1,6 @@
 # AdamBien/lightmetal
 
-⭐ 54 · Java · MIT · 推送 2026-10-13 · [GitHub](https://github.com/AdamBien/lightmetal) · 个人维护
+⭐ 55 · Java · MIT · 推送 2026-10-13 · [GitHub](https://github.com/AdamBien/lightmetal) · 个人维护
 
 **零依赖 Java 25 单 JAR：在 Apple Silicon 上 GPU 运行 GGUF LLM**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdamBien/lightmetal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54]
+    title "AdamBien/lightmetal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 53, 55, 55]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 55（+2）
 
 
 ---

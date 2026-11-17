@@ -1,6 +1,6 @@
 # codebox/toothcomb
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/codebox/toothcomb) · [官网](https://codebox.net/toothcomb) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/codebox/toothcomb) · [官网](https://codebox.net/toothcomb) · 个人维护
 
 **实时语音分析与事实核查工具：转录演讲并逐条核查声明**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codebox/toothcomb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

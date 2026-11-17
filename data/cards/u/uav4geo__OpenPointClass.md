@@ -1,6 +1,6 @@
 # uav4geo/OpenPointClass
 
-⭐ 203 · C++ · AGPL-3.0 · 推送 2026-06-11 · [GitHub](https://github.com/uav4geo/OpenPointClass) · 组织维护
+⭐ 204 · C++ · AGPL-3.0 · 推送 2026-06-11 · [GitHub](https://github.com/uav4geo/OpenPointClass) · 组织维护
 
 **三维点云语义分割工具：从标注点云训练模型并分类新数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "uav4geo/OpenPointClass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 202 --> 204
-    line [203, 203]
+    title "uav4geo/OpenPointClass 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 202 --> 205
+    line [203, 204, 204]
 ```
 
-2026-10-18 203 → 2026-11-02 203（+0）
+2026-10-18 203 → 2026-11-17 204（+1）
 
 
 ---

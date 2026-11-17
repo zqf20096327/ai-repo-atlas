@@ -1,6 +1,6 @@
 # madage/dsh-self-improved
 
-⭐ 13 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/madage/dsh-self-improved) · [官网](https://github.com/madage/dsh-self-improved) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/madage/dsh-self-improved) · [官网](https://github.com/madage/dsh-self-improved) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地长期记忆与自进化插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "madage/dsh-self-improved 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [12, 11, 12, 13, 13]
+    title "madage/dsh-self-improved 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 16
+    line [12, 11, 12, 13, 12, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

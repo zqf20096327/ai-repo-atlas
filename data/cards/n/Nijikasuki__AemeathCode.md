@@ -1,6 +1,6 @@
 # Nijikasuki/AemeathCode
 
-⭐ 32 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Nijikasuki/AemeathCode) · [官网](https://nijikasuki.github.io/AemeathCode/) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Nijikasuki/AemeathCode) · [官网](https://nijikasuki.github.io/AemeathCode/) · 个人维护 · 中文 README
 
 **终端 Coding Agent：给定目标后自主规划、读写文件、执行命令直至完成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nijikasuki/AemeathCode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 27 --> 33
-    line [28, 29, 31, 32, 32]
+    title "Nijikasuki/AemeathCode 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 31, 32, 31, 32, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-02 32（+4）
+2026-10-18 28 → 2026-11-17 33（+5）
 
 
 ---

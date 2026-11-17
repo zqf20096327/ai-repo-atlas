@@ -1,6 +1,6 @@
 # chenlinyang/mcp-server-mysql
 
-⭐ 22 · JavaScript · MIT · 推送 2025-11-16 · [GitHub](https://github.com/chenlinyang/mcp-server-mysql) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 Claude Code 的 MySQL MCP 服务器：只读为主、可选写入**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chenlinyang/mcp-server-mysql 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-11 22（+1）
 
 
 ---

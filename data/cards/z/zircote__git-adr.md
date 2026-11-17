@@ -1,6 +1,6 @@
 # zircote/git-adr
 
-⭐ 13 · Rust · MIT · 推送 2026-09-14 · [GitHub](https://github.com/zircote/git-adr) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/zircote/git-adr) · 个人维护
 
 **基于 git notes 的架构决策记录(ADR)管理 CLI 工具**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行工具，将架构决策记录存储在 git notes（refs/
 ```mermaid
 xychart-beta
     title "zircote/git-adr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

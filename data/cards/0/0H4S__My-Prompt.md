@@ -1,6 +1,6 @@
 # 0H4S/My-Prompt
 
-⭐ 38 · CSS · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/0H4S/My-Prompt) · [官网](https://greasyfork.org/scripts/549921) · 个人维护
+⭐ 39 · CSS · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/0H4S/My-Prompt) · [官网](https://greasyfork.org/scripts/549921) · 个人维护
 
 **管理 AI 对话提示词的浏览器用户脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0H4S/My-Prompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "0H4S/My-Prompt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

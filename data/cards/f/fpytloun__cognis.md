@@ -1,6 +1,6 @@
 # fpytloun/cognis
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/fpytloun/cognis) · 个人维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/fpytloun/cognis) · 个人维护
 
 **自托管 Agent OS：构建、对话、委派与安全执行 AI 代理工作**
 
@@ -44,13 +44,13 @@ Cognis 是自托管的云原生 Agent 操作系统，采用 controller/executors
 
 ```mermaid
 xychart-beta
-    title "fpytloun/cognis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "fpytloun/cognis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

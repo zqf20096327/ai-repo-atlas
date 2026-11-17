@@ -1,6 +1,6 @@
 # zuoyou12/longzu.skillls
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/zuoyou12/longzu.skillls) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **江南×烽火戏诸侯文风蒸馏 Agent Skills，供各类 agent 生成仿写文本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zuoyou12/longzu.skillls 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "zuoyou12/longzu.skillls 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08"]
     y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    line [11, 13, 11, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-08 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # aliseyfi75/COSCI-GAN
 
-⭐ 39 · Jupyter Notebook · MIT · 推送 2025-11-18 · [GitHub](https://github.com/aliseyfi75/COSCI-GAN) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **NeurIPS 2022 论文 COSCI-GAN 官方代码：生成多元时间序列合成数据**
 
@@ -11,7 +11,7 @@ NeurIPS 2022 论文《Generating multivariate time series with COmmon Source Coo
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ NeurIPS 2022 论文《Generating multivariate time series with COmmon Source Coo
 ```mermaid
 xychart-beta
     title "aliseyfi75/COSCI-GAN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-13 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FraunhoferIOSB/goose_dataset
 
-⭐ 24 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/FraunhoferIOSB/goose_dataset) · [官网](https://goose-dataset.de/) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/FraunhoferIOSB/goose_dataset) · [官网](https://goose-dataset.de/) · 组织维护
 
 **德国非结构化越野环境的机器人感知数据集及处理工具**
 
@@ -45,12 +45,12 @@ GOOSE（German Outdoor and Offroad Dataset）是面向非结构化越野环境�
 ```mermaid
 xychart-beta
     title "FraunhoferIOSB/goose_dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # peppeg/Lemonade_Control_Center
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/peppeg/Lemonade_Control_Center) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/peppeg/Lemonade_Control_Center) · 个人维护
 
 **Lemonade 推理服务器的 Linux 图形运维控制台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "peppeg/Lemonade_Control_Center 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
+    title "peppeg/Lemonade_Control_Center 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23]
+    line [20, 21, 22, 23, 21, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 23（+3）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

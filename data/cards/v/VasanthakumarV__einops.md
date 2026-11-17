@@ -1,6 +1,6 @@
 # VasanthakumarV/einops
 
-⭐ 36 · Rust · 推送 2026-06-22 · [GitHub](https://github.com/VasanthakumarV/einops) · [官网](https://docs.rs/einops) · 个人维护
+⭐ 37 · Rust · 推送 2026-06-22 · [GitHub](https://github.com/VasanthakumarV/einops) · [官网](https://docs.rs/einops) · 个人维护
 
 **Rust 版 einops：深度学习张量维度操作库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "VasanthakumarV/einops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "VasanthakumarV/einops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

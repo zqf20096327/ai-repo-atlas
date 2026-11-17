@@ -1,6 +1,6 @@
 # lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2
 
-⭐ 21 · HTML · MIT · 推送 2026-10-11 · [GitHub](https://github.com/lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2) · [官网](https://lifeidle.github.io/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2/) · 个人维护 · 中文 README
+⭐ 23 · HTML · MIT · 推送 2026-11-02 · [GitHub](https://github.com/lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2) · [官网](https://lifeidle.github.io/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2/) · 个人维护 · 中文 README
 
 **在 24GB RTX 5090 笔记本上用 ComfyUI 跑通生成模型的实测手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 22
-    line [15, 16, 17, 18, 19, 20, 21, 21]
+    title "lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 24
+    line [15, 16, 17, 18, 19, 20, 21, 17, 21, 22, 23, 23]
 ```
 
-2026-10-18 15 → 2026-11-02 21（+6）
+2026-10-18 15 → 2026-11-17 23（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # imdeepmind/NeuralPy
 
-⭐ 78 · MIT · 推送 2026-05-09 · [GitHub](https://github.com/imdeepmind/NeuralPy) · [官网](https://neuralpy.imdeepmind.com/) · 个人维护
+⭐ 78 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/imdeepmind/NeuralPy) · [官网](https://neuralpy.imdeepmind.com/) · 个人维护
 
 **基于 PyTorch 的类 Keras 高层深度学习库**
 
@@ -46,12 +46,12 @@ NeuralPy 是一个纯 Python 编写的深度学习库，在 PyTorch 之上提供
 ```mermaid
 xychart-beta
     title "imdeepmind/NeuralPy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 78（+0）
 
 
 ---

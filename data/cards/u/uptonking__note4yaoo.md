@@ -1,6 +1,6 @@
 # uptonking/note4yaoo
 
-⭐ 175 · HTML · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/uptonking/note4yaoo) · 个人维护 · 中文 README
+⭐ 176 · HTML · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/uptonking/note4yaoo) · 个人维护 · 中文 README
 
 **个人日常技术笔记库：按标签组织的开发与百科笔记**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "uptonking/note4yaoo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    title "uptonking/note4yaoo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 174 --> 177
+    line [175, 176, 176]
 ```
 
-2026-10-18 175 → 2026-11-02 175（+0）
+2026-10-18 175 → 2026-11-17 176（+1）
 
 
 ---

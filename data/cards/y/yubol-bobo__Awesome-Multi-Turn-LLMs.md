@@ -1,6 +1,6 @@
 # yubol-bobo/Awesome-Multi-Turn-LLMs
 
-⭐ 213 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs) · [官网](https://arxiv.org/abs/2504.04717) · 组织维护
+⭐ 214 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs) · [官网](https://arxiv.org/abs/2504.04717) · 组织维护
 
 **多轮 LLM 交互研究的论文/数据集/代码策展清单**
 
@@ -43,13 +43,13 @@ TMLR 2026 综述论文 Beyond Single-Turn 的配套 GitHub 仓库，按任务类
 
 ```mermaid
 xychart-beta
-    title "yubol-bobo/Awesome-Multi-Turn-LLMs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 212 --> 214
-    line [213, 213]
+    title "yubol-bobo/Awesome-Multi-Turn-LLMs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 212 --> 215
+    line [213, 214, 214]
 ```
 
-2026-10-18 213 → 2026-11-02 213（+0）
+2026-10-18 213 → 2026-11-17 214（+1）
 
 
 ---

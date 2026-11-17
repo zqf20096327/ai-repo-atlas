@@ -1,6 +1,6 @@
 # mkhateri/Awesome-MRI-Super-Resolution
 
-⭐ 40 · NOASSERTION · 推送 2026-04-27 · [GitHub](https://github.com/mkhateri/Awesome-MRI-Super-Resolution) · 组织维护
+⭐ 41 · NOASSERTION · 推送 2026-04-27 · [GitHub](https://github.com/mkhateri/Awesome-MRI-Super-Resolution) · 组织维护
 
 **MRI 超分辨率研究资源清单：论文、代码、数据集、教程**
 
@@ -43,13 +43,13 @@ MRI 超分辨率深度学习综述（arXiv）的官方配套资源仓库，由 H
 
 ```mermaid
 xychart-beta
-    title "mkhateri/Awesome-MRI-Super-Resolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "mkhateri/Awesome-MRI-Super-Resolution 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # blepping/comfyui_overly_complicated_sampling
 
-⭐ 31 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/blepping/comfyui_overly_complicated_sampling) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/blepping/comfyui_overly_complicated_sampling) · 个人维护
 
 **ComfyUI 扩展采样节点包：多种采样器与子步调度实验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "blepping/comfyui_overly_complicated_sampling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "blepping/comfyui_overly_complicated_sampling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 30（-1）
 
 
 ---

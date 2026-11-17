@@ -1,6 +1,6 @@
 # groundingpi/GroundAnything
 
-⭐ 109 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/groundingpi/GroundAnything) · [官网](https://groundingpi.github.io/groundanything/) · 组织维护 · 中文 README
+⭐ 122 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/groundingpi/GroundAnything) · [官网](https://groundingpi.github.io/groundanything/) · 组织维护 · 中文 README
 
 **4B 扩散视觉定位基础模型：统一多类 grounding 任务并并行解码加速**
 
@@ -45,13 +45,13 @@ GroundAnything 是 4B 参数的视觉定位（visual grounding）模型：给定
 
 ```mermaid
 xychart-beta
-    title "groundingpi/GroundAnything 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 45 --> 114
-    line [50, 73, 82, 83, 89, 91, 96, 101, 103, 105, 108, 109]
+    title "groundingpi/GroundAnything 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 43 --> 129
+    line [50, 73, 82, 83, 89, 91, 96, 101, 103, 105, 108, 109, 91, 117, 118, 120, 122, 122]
 ```
 
-2026-10-18 50 → 2026-11-02 109（+59）
+2026-10-18 50 → 2026-11-17 122（+72）
 
 
 ---

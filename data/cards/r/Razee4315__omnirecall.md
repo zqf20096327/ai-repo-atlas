@@ -1,6 +1,6 @@
 # Razee4315/omnirecall
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Razee4315/omnirecall) · [官网](https://razee4315.github.io/omnirecall/) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Razee4315/omnirecall) · [官网](https://razee4315.github.io/omnirecall/) · 个人维护
 
 **桌面 AI 知识助手：快捷键唤起，基于本地文档问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Razee4315/omnirecall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Razee4315/omnirecall 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

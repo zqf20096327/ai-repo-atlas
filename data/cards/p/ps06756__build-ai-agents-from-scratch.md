@@ -1,6 +1,6 @@
 # ps06756/build-ai-agents-from-scratch
 
-⭐ 23 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/ps06756/build-ai-agents-from-scratch) · 个人维护
+⭐ 27 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/ps06756/build-ai-agents-from-scratch) · 个人维护
 
 **从零构建 AI Agent 的渐进式教程仓库（LangGraph/LangChain）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ps06756/build-ai-agents-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "ps06756/build-ai-agents-from-scratch 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 28
+    line [21, 22, 23, 25, 26, 27, 27]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 27（+6）
 
 
 ---

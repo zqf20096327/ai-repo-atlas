@@ -1,6 +1,6 @@
 # abra5umente/youtube-transcript-api
 
-⭐ 19 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/abra5umente/youtube-transcript-api) · 个人维护
+⭐ 20 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/abra5umente/youtube-transcript-api) · 个人维护
 
 **家庭宽带 IP 代理的 YouTube 字幕获取 API，供 Claude 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "abra5umente/youtube-transcript-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "abra5umente/youtube-transcript-api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

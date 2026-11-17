@@ -1,6 +1,6 @@
 # kbhujbal/GeoIntel-satellite_military_asset_classification_CNN
 
-⭐ 27 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/kbhujbal/GeoIntel-satellite_military_asset_classification_CNN) · 个人维护
+⭐ 28 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/kbhujbal/GeoIntel-satellite_military_asset_classification_CNN) · 个人维护
 
 **卫星图像军事车辆检测系统：SAHI 切片推理识别小目标**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kbhujbal/GeoIntel-satellite_military_asset_classification_CNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "kbhujbal/GeoIntel-satellite_military_asset_classification_CNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

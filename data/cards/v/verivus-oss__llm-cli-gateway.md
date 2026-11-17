@@ -1,6 +1,6 @@
 # verivus-oss/llm-cli-gateway
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/verivus-oss/llm-cli-gateway) · [官网](https://llm-cli-gateway.dev) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/verivus-oss/llm-cli-gateway) · [官网](https://llm-cli-gateway.dev) · 组织维护
 
 **统一操控多家 AI 编码 agent CLI 的单用户 MCP 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "verivus-oss/llm-cli-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "verivus-oss/llm-cli-gateway 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

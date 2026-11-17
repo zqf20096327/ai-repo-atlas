@@ -1,6 +1,6 @@
 # jlucaso1/whatsapp-mcp-ts
 
-⭐ 75 · TypeScript · 推送 2026-01-23 · [GitHub](https://github.com/jlucaso1/whatsapp-mcp-ts) · 个人维护
+⭐ 76 · TypeScript · 推送 2026-01-23 · [GitHub](https://github.com/jlucaso1/whatsapp-mcp-ts) · 个人维护
 
 **把个人 WhatsApp 账号接入 AI 客户端的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jlucaso1/whatsapp-mcp-ts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 73 --> 76
-    line [74, 75, 75]
+    title "jlucaso1/whatsapp-mcp-ts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [74, 75, 76, 76]
 ```
 
-2026-10-18 74 → 2026-11-02 75（+1）
+2026-10-18 74 → 2026-11-17 76（+2）
 
 
 ---

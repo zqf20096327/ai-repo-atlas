@@ -1,6 +1,6 @@
 # Cambridge-ICCS/FTorch
 
-⭐ 208 · Fortran · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Cambridge-ICCS/FTorch) · [官网](https://cambridge-iccs.github.io/FTorch/) · 组织维护
+⭐ 210 · Fortran · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Cambridge-ICCS/FTorch) · [官网](https://cambridge-iccs.github.io/FTorch/) · 组织维护
 
 **让 Fortran 代码直接调用 PyTorch 模型的互操作库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cambridge-ICCS/FTorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 206 --> 209
-    line [207, 208, 208]
+    title "Cambridge-ICCS/FTorch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 206 --> 211
+    line [207, 208, 209, 210, 210]
 ```
 
-2026-10-18 207 → 2026-11-02 208（+1）
+2026-10-18 207 → 2026-11-17 210（+3）
 
 
 ---

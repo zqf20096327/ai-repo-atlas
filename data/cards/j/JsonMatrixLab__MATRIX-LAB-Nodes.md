@@ -1,6 +1,6 @@
 # JsonMatrixLab/MATRIX-LAB-Nodes
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/JsonMatrixLab/MATRIX-LAB-Nodes) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/JsonMatrixLab/MATRIX-LAB-Nodes) · 组织维护
 
 **ComfyUI 图像/视频生成辅助节点包（23 节点+4 别名）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JsonMatrixLab/MATRIX-LAB-Nodes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 12, 13, 14, 15]
+    title "JsonMatrixLab/MATRIX-LAB-Nodes 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 14, 15, 12, 15, 16, 16]
 ```
 
-2026-10-18 10 → 2026-11-02 15（+5）
+2026-10-18 10 → 2026-11-17 16（+6）
 
 
 ---

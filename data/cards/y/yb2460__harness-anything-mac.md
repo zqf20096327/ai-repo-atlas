@@ -1,6 +1,6 @@
 # yb2460/harness-anything-mac
 
-⭐ 91 · Python · 推送 2026-06-12 · [GitHub](https://github.com/yb2460/harness-anything-mac) · 个人维护 · 中文 README
+⭐ 94 · Python · 推送 2026-06-12 · [GitHub](https://github.com/yb2460/harness-anything-mac) · 个人维护 · 中文 README
 
 **供 AI Agent 调用的办公/设计软件 COM 操控 CLI 工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yb2460/harness-anything-mac 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 85 --> 92
-    line [86, 87, 89, 90, 91, 91]
+    title "yb2460/harness-anything-mac 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 85 --> 95
+    line [86, 87, 89, 90, 91, 86, 93, 94, 94]
 ```
 
-2026-10-18 86 → 2026-11-02 91（+5）
+2026-10-18 86 → 2026-11-17 94（+8）
 
 
 ---

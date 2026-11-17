@@ -1,6 +1,6 @@
 # jehaad1/Deepbox
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/jehaad1/Deepbox) · [官网](https://deepbox.dev) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jehaad1/Deepbox) · [官网](https://deepbox.dev) · 个人维护
 
 **TypeScript 的张量/线代/ML/神经网络/统计数值计算工具库**
 
@@ -46,12 +46,12 @@ Deepbox 是零运行时依赖的 TypeScript 库，覆盖张量与自动微分、
 ```mermaid
 xychart-beta
     title "jehaad1/Deepbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TacoTakumi/agent-wiki
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/TacoTakumi/agent-wiki) · [官网](https://tacotakumi.github.io/agent-wiki/) · 个人维护
+⭐ 56 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/TacoTakumi/agent-wiki) · [官网](https://tacotakumi.github.io/agent-wiki/) · 个人维护
 
 **给 AI agent 的 markdown 知识库：CLI 驱动的持久记忆库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TacoTakumi/agent-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 46
-    line [19, 20, 44]
+    title "TacoTakumi/agent-wiki 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 59
+    line [19, 20, 44, 20, 56, 56]
 ```
 
-2026-10-18 19 → 2026-11-02 44（+25）
+2026-10-18 19 → 2026-11-17 56（+37）
 
 
 ---

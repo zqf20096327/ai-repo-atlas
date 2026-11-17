@@ -1,6 +1,6 @@
 # The-AI-Alliance/semiont
 
-⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/The-AI-Alliance/semiont) · [官网](https://the-ai-alliance.github.io/semiont/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **人类与 AI 共用的语义知识库平台：标注、连接与治理领域知识**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/semiont 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-15 93（+0）
 
 
 ---

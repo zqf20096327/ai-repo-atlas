@@ -1,6 +1,6 @@
 # yuxumin/PoinTr
 
-⭐ 870 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/yuxumin/PoinTr) · 组织维护 · 中文 README
+⭐ 876 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/yuxumin/PoinTr) · 组织维护 · 中文 README
 
 **基于 Transformer 的点云补全模型（ICCV 2021 Oral）**
 
@@ -44,13 +44,13 @@ PoinTr 是点云补全任务的 PyTorch 实现：将点云表示为带位置嵌�
 
 ```mermaid
 xychart-beta
-    title "yuxumin/PoinTr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 867 --> 871
-    line [868, 869, 870, 870]
+    title "yuxumin/PoinTr 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 867 --> 877
+    line [868, 869, 870, 869, 873, 874, 876, 876]
 ```
 
-2026-10-18 868 → 2026-11-02 870（+2）
+2026-10-18 868 → 2026-11-17 876（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # zerfoo/zerfoo
 
-⭐ 36 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zerfoo/zerfoo) · [官网](https://zer.foo) · 组织维护
+⭐ 38 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zerfoo/zerfoo) · [官网](https://zer.foo) · 组织维护
 
 **纯 Go 机器学习框架：训练、推理与模型服务，零 CGo**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zerfoo/zerfoo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [37, 36, 36]
+    title "zerfoo/zerfoo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 39
+    line [37, 36, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 36（-1）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # getindata/kedro-kubeflow
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/getindata/kedro-kubeflow) · [官网](https://kedro-kubeflow.readthedocs.io) · 组织维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/getindata/kedro-kubeflow) · [官网](https://kedro-kubeflow.readthedocs.io) · 组织维护
 
 **将 Kedro 工作流翻译并部署到 Kubeflow Pipelines 的插件**
 
@@ -45,12 +45,12 @@ Kedro 插件，把 Kedro pipeline DSL 翻译为 Kubeflow Pipelines SDK（kfp）�
 ```mermaid
 xychart-beta
     title "getindata/kedro-kubeflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 58（+0）
 
 
 ---

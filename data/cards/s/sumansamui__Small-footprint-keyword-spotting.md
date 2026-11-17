@@ -1,6 +1,6 @@
 # sumansamui/Small-footprint-keyword-spotting
 
-⭐ 11 · C++ · 推送 2026-05-26 · [GitHub](https://github.com/sumansamui/Small-footprint-keyword-spotting) · 组织维护
+⭐ 10 · C++ · 推送 2026-05-26 · [GitHub](https://github.com/sumansamui/Small-footprint-keyword-spotting) · 组织维护
 
 **TinyML 小足迹关键词检测综述论文的代码与补充材料库**
 
@@ -43,13 +43,13 @@ Neurocomputing (2026) 综述论文《Advances in Small-Footprint Keyword Spottin
 
 ```mermaid
 xychart-beta
-    title "sumansamui/Small-footprint-keyword-spotting 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "sumansamui/Small-footprint-keyword-spotting 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 10]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 10（+0）
 
 
 ---

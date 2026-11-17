@@ -1,6 +1,6 @@
 # Vaibh37/Neural-Network
 
-⭐ 24 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Vaibh37/Neural-Network) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Vaibh37/Neural-Network) · 个人维护
 
 **从零构建神经网络的学习笔记与代码库（NumPy 实现可训练 XOR 网络）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vaibh37/Neural-Network 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 9 --> 25
-    line [10, 19, 20, 24, 24]
+    title "Vaibh37/Neural-Network 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 26
+    line [10, 19, 20, 24, 25, 25]
 ```
 
-2026-10-19 10 → 2026-11-02 24（+14）
+2026-10-19 10 → 2026-11-17 25（+15）
 
 
 ---

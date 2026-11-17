@@ -1,6 +1,6 @@
 # rojenwai/CompanyOS
 
-⭐ 17 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/rojenwai/CompanyOS) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/rojenwai/CompanyOS) · 个人维护
 
 **面向 AI 原生公司的开源运营手册与 agent 编排运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rojenwai/CompanyOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "rojenwai/CompanyOS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # just-llms/justllms
 
-⭐ 42 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/just-llms/justllms) · [官网](https://www.just-llms.com/) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/just-llms/justllms) · 组织维护
 
 **多供应商 LLM 统一接口的 Python 编排库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "just-llms/justllms 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 41 --> 44
     line [43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-02 42（-1）
+2026-10-18 43 → 2026-11-17 42（-1）
 
 
 ---

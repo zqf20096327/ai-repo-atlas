@@ -1,6 +1,6 @@
 # Jinx138/ComfyUI-LTXV-TimeGated-LoRA
 
-⭐ 22 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Jinx138/ComfyUI-LTXV-TimeGated-LoRA) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Jinx138/ComfyUI-LTXV-TimeGated-LoRA) · 个人维护
 
 **ComfyUI 节点包：在 LTX 2.3 视频时间线上按段落调控 LoRA**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jinx138/ComfyUI-LTXV-TimeGated-LoRA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "Jinx138/ComfyUI-LTXV-TimeGated-LoRA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

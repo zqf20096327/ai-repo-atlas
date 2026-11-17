@@ -1,6 +1,6 @@
 # neoswarm/neosh
 
-⭐ 30 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neoswarm/neosh) · [官网](https://neoswarm.dev) · 组织维护
+⭐ 32 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neoswarm/neosh) · [官网](https://neoswarm.dev) · 组织维护
 
 **面向高级用户的终端 AI agent 编排工作区（TUI）**
 
@@ -46,13 +46,13 @@ Rust 编写的终端工作区，用于运行与控制多个编码 agent 会话�
 
 ```mermaid
 xychart-beta
-    title "neoswarm/neosh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "neoswarm/neosh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # EliaAlberti/dcode-agent-kit
 
-⭐ 56 · MIT · 推送 2026-06-23 · [GitHub](https://github.com/EliaAlberti/dcode-agent-kit) · 个人维护
+⭐ 58 · MIT · 推送 2026-06-23 · [GitHub](https://github.com/EliaAlberti/dcode-agent-kit) · 个人维护
 
 **Claude Code 技能：一键脚手架生成可运行的 Deep Agents 智能体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EliaAlberti/dcode-agent-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [57, 56, 56]
+    title "EliaAlberti/dcode-agent-kit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 55 --> 59
+    line [57, 56, 57, 56, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 56（-1）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

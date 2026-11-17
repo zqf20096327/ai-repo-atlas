@@ -1,6 +1,6 @@
 # google-research/hyperbo
 
-⭐ 108 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-research/hyperbo) · [官网](https://arxiv.org/abs/2109.08215) · 组织维护
+⭐ 109 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-research/hyperbo) · [官网](https://arxiv.org/abs/2109.08215) · 组织维护
 
 **预训练高斯过程做贝叶斯优化的 Jax/Flax 代码库**
 
@@ -44,13 +44,13 @@ HyperBO（Prior Discovery）是 JMLR 论文《Pre-trained Gaussian processes for
 
 ```mermaid
 xychart-beta
-    title "google-research/hyperbo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 108]
+    title "google-research/hyperbo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 106 --> 110
+    line [107, 108, 109, 109]
 ```
 
-2026-10-18 107 → 2026-11-02 108（+1）
+2026-10-18 107 → 2026-11-17 109（+2）
 
 
 ---

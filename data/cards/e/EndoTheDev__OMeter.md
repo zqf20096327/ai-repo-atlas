@@ -1,6 +1,6 @@
 # EndoTheDev/OMeter
 
-⭐ 29 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/EndoTheDev/OMeter) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/EndoTheDev/OMeter) · 个人维护
 
 **Ollama 模型性能基准测试 CLI：跨本地与云端测 TTFT/TPS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EndoTheDev/OMeter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "EndoTheDev/OMeter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    line [28, 29, 28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

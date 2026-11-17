@@ -1,6 +1,6 @@
 # Leon-Sander/Local-Multimodal-AI-Chat
 
-⭐ 208 · Python · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/Leon-Sander/Local-Multimodal-AI-Chat) · 个人维护
+⭐ 209 · Python · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/Leon-Sander/Local-Multimodal-AI-Chat) · 个人维护
 
 **自托管本地多模态聊天应用：文字/图像/PDF/语音对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leon-Sander/Local-Multimodal-AI-Chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 206 --> 209
-    line [207, 208, 208]
+    title "Leon-Sander/Local-Multimodal-AI-Chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 206 --> 210
+    line [207, 208, 209, 209]
 ```
 
-2026-10-18 207 → 2026-11-02 208（+1）
+2026-10-18 207 → 2026-11-17 209（+2）
 
 
 ---

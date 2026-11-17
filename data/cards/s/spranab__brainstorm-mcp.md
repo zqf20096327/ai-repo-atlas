@@ -1,6 +1,6 @@
 # spranab/brainstorm-mcp
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/spranab/brainstorm-mcp) · [官网](https://www.npmjs.com/package/brainstorm-mcp) · 个人维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/spranab/brainstorm-mcp) · [官网](https://www.npmjs.com/package/brainstorm-mcp) · 个人维护
 
 **多模型多轮辩论的 MCP 服务器，输出结构化综合结论**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spranab/brainstorm-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    title "spranab/brainstorm-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 70 --> 74
+    line [71, 72, 71, 73, 73]
 ```
 
-2026-10-18 71 → 2026-11-02 72（+1）
+2026-10-18 71 → 2026-11-17 73（+2）
 
 
 ---

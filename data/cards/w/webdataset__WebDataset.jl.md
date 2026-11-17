@@ -1,6 +1,6 @@
 # webdataset/WebDataset.jl
 
-⭐ 15 · Julia · MIT · 推送 2025-12-18 · [GitHub](https://github.com/webdataset/WebDataset.jl) · 个人维护
+⭐ 16 · Julia · MIT · 推送 2025-12-18 · [GitHub](https://github.com/webdataset/WebDataset.jl) · 个人维护
 
 **Jula 实现的 WebDataset 训练数据 I/O 库**
 
@@ -45,13 +45,13 @@ WebDataset 标准的 Julia 实现：以 tar 分片（shards）表示训练数据
 
 ```mermaid
 xychart-beta
-    title "webdataset/WebDataset.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "webdataset/WebDataset.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leopiney/wolfbud
 
-⭐ 15 · Vue · MIT · 推送 2026-08-04 · [GitHub](https://github.com/leopiney/wolfbud) · 个人维护
+⭐ 15 · Vue · MIT · 推送 2026-11-13 · [GitHub](https://github.com/leopiney/wolfbud) · 个人维护
 
 **macOS 菜单栏语音转文字与文字转语音应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leopiney/wolfbud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

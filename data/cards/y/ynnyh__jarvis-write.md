@@ -1,6 +1,6 @@
 # ynnyh/jarvis-write
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ynnyh/jarvis-write) · [官网](https://ynnyh.github.io/jarvis-write/) · 个人维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/ynnyh/jarvis-write) · [官网](https://ynnyh.github.io/jarvis-write/) · 个人维护 · 中文 README
 
 **面向长篇网文作者的 AI 小说创作系统：控制层包裹 LLM，管事实、伏笔、大纲与文风**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ynnyh/jarvis-write 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "ynnyh/jarvis-write 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

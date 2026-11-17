@@ -1,6 +1,6 @@
 # dennisvdang/chorus-detection
 
-⭐ 49 · Jupyter Notebook · 推送 2026-08-22 · [GitHub](https://github.com/dennisvdang/chorus-detection) · 个人维护
+⭐ 51 · Jupyter Notebook · 推送 2026-08-22 · [GitHub](https://github.com/dennisvdang/chorus-detection) · 个人维护
 
 **检测歌曲副歌段落的深度学习模型与 CLI 工具**
 
@@ -44,13 +44,13 @@ PyTorch 实现的层级卷积循环神经网络（CRNN），在 332 首人工标
 
 ```mermaid
 xychart-beta
-    title "dennisvdang/chorus-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "dennisvdang/chorus-detection 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dovvnloading/Graphite
 
-⭐ 146 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/dovvnloading/Graphite) · [官网](https://github.com/dovvnloading/Graphlink) · 个人维护
+⭐ 147 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dovvnloading/Graphite) · [官网](https://github.com/dovvnloading/Graphlink) · 个人维护
 
 **节点画布式桌面 LLM 工作台，本地或 API 多模型对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dovvnloading/Graphite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "dovvnloading/Graphite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 145 --> 148
-    line [147, 146, 146]
+    line [147, 146, 147, 147]
 ```
 
-2026-10-18 147 → 2026-11-02 146（-1）
+2026-10-18 147 → 2026-11-17 147（+0）
 
 
 ---

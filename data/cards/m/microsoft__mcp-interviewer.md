@@ -1,6 +1,6 @@
 # microsoft/mcp-interviewer
 
-⭐ 158 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/mcp-interviewer) · 组织维护
+⭐ 158 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/mcp-interviewer) · 组织维护
 
 **MCP 服务器检查工具：约束检查、功能测试与评估报告**
 
@@ -45,12 +45,12 @@ Microsoft 出品的 Python CLI 工具，用于在 LLM agent 使用前检查 MCP 
 ```mermaid
 xychart-beta
     title "microsoft/mcp-interviewer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 155 --> 159
     line [156, 158, 158]
 ```
 
-2026-10-18 156 → 2026-11-02 158（+2）
+2026-10-18 156 → 2026-11-17 158（+2）
 
 
 ---

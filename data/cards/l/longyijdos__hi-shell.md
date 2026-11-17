@@ -1,6 +1,6 @@
 # longyijdos/hi-shell
 
-⭐ 21 · Go · MIT · 推送 2026-09-26 · [GitHub](https://github.com/longyijdos/hi-shell) · 个人维护
+⭐ 19 · Go · MIT · 推送 2026-09-26 · [GitHub](https://github.com/longyijdos/hi-shell) · 个人维护
 
 **zsh 插件：自然语言生成 shell 命令，以 ghost text 呈现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "longyijdos/hi-shell 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "longyijdos/hi-shell 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    line [19, 20, 21, 20, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

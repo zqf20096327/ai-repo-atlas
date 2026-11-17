@@ -1,6 +1,6 @@
 # andududu/jeview
 
-⭐ 66 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/andududu/jeview) · 个人维护
+⭐ 68 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/andududu/jeview) · 个人维护
 
 **Jev (TypeSafe) API 调用的本地网关与实时可视化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andududu/jeview 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66]
+    title "andududu/jeview 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 65, 67, 68, 68]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 68（+3）
 
 
 ---

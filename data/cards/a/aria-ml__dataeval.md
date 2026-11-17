@@ -1,6 +1,6 @@
 # aria-ml/dataeval
 
-⭐ 22 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/aria-ml/dataeval) · [官网](https://dataeval.readthedocs.io) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aria-ml/dataeval) · [官网](https://dataeval.readthedocs.io) · 组织维护
 
 **计算机视觉数据质量与模型性能评估库：发现数据问题**
 
@@ -44,13 +44,13 @@ Python 库 dataeval，面向数据科学家、开发者与 T&E 工程师，提�
 
 ```mermaid
 xychart-beta
-    title "aria-ml/dataeval 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
+    title "aria-ml/dataeval 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    line [20, 21, 22, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

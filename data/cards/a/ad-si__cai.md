@@ -1,6 +1,6 @@
 # ad-si/cai
 
-⭐ 203 · Rust · ISC · 推送 2026-10-17 · [GitHub](https://github.com/ad-si/cai) · [官网](https://crates.io/crates/cai) · 个人维护
+⭐ 204 · Rust · ISC · 推送 2026-10-17 · [GitHub](https://github.com/ad-si/cai) · [官网](https://crates.io/crates/cai) · 个人维护
 
 **终端用户的多模型 AI 任务 CLI：一条命令产出文本/图像/视频等结果**
 
@@ -45,13 +45,13 @@ Rust 编写的命令行工具，用高层子命令（value/image/video/music/ocr
 
 ```mermaid
 xychart-beta
-    title "ad-si/cai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 202 --> 204
-    line [203, 203]
+    title "ad-si/cai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 202 --> 205
+    line [203, 204, 204]
 ```
 
-2026-10-18 203 → 2026-11-02 203（+0）
+2026-10-18 203 → 2026-11-17 204（+1）
 
 
 ---

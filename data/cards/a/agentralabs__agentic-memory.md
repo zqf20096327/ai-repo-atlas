@@ -1,6 +1,6 @@
 # agentralabs/agentic-memory
 
-⭐ 30 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/agentralabs/agentic-memory) · [官网](https://crates.io/crates/agentic-memory) · 组织维护
+⭐ 32 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/agentralabs/agentic-memory) · [官网](https://crates.io/crates/agentic-memory) · 组织维护
 
 **给 AI agent 的持久认知图记忆：单文件存储事实/决策/推理链**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentralabs/agentic-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "agentralabs/agentic-memory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 29, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

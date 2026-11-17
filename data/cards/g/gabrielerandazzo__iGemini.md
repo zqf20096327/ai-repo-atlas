@@ -1,6 +1,6 @@
 # gabrielerandazzo/iGemini
 
-⭐ 62 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/gabrielerandazzo/iGemini) · 个人维护
+⭐ 66 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/gabrielerandazzo/iGemini) · 个人维护
 
 **在 Apple 生态调用 Google Gemini 的快捷指令（Shortcuts）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gabrielerandazzo/iGemini 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 61, 62, 62]
+    title "gabrielerandazzo/iGemini 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 67
+    line [61, 62, 61, 62, 61, 66, 66]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 66（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # yaowen51888-rich/lumencode
 
-⭐ 41 · JavaScript · 推送 2026-08-24 · [GitHub](https://github.com/yaowen51888-rich/lumencode) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · 推送 2026-08-24 · [GitHub](https://github.com/yaowen51888-rich/lumencode) · 个人维护 · 中文 README
 
 **统计 15 款 AI 编码工具用量与行级 AI 代码归因的分析工具**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaowen51888-rich/lumencode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "yaowen51888-rich/lumencode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    line [39, 40, 41, 40, 39, 39]
 ```
 
-2026-10-18 39 → 2026-11-02 41（+2）
+2026-10-18 39 → 2026-11-17 39（+0）
 
 
 ---

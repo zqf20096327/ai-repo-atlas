@@ -1,6 +1,6 @@
 # tuirk/Kompl
 
-⭐ 82 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tuirk/Kompl) · [官网](https://github.com/tuirk/Kompl) · 个人维护
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tuirk/Kompl) · [官网](https://kompl.wiki) · 个人维护
 
 **自我更新式 LLM 个人维基：存入资料即自动整理成知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuirk/Kompl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 77 --> 83
-    line [78, 79, 80, 81, 82]
+    title "tuirk/Kompl 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 77 --> 86
+    line [78, 79, 80, 81, 82, 79, 83, 84, 85, 85]
 ```
 
-2026-10-18 78 → 2026-11-02 82（+4）
+2026-10-18 78 → 2026-11-17 85（+7）
 
 
 ---

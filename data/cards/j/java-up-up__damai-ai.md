@@ -1,6 +1,6 @@
 # java-up-up/damai-ai
 
-⭐ 65 · Java · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/java-up-up/damai-ai) · [官网](https://javaup.chat) · 个人维护 · 中文 README
+⭐ 67 · Java · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/java-up-up/damai-ai) · [官网](https://javaup.chat) · 个人维护 · 中文 README
 
 **基于 SpringAI 的演唱会购票 AI 助手实战教学项目**
 
@@ -45,13 +45,13 @@ Java 教学项目，演示 SpringAI 与 SpringBoot3 集成，支持 Ollama、Ope
 
 ```mermaid
 xychart-beta
-    title "java-up-up/damai-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [66, 65, 65]
+    title "java-up-up/damai-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 64 --> 68
+    line [66, 65, 66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 65（-1）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

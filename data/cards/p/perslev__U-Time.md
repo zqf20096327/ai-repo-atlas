@@ -1,6 +1,6 @@
 # perslev/U-Time
 
-⭐ 319 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/perslev/U-Time) · 组织维护
+⭐ 322 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/perslev/U-Time) · 组织维护
 
 **时间序列分割/睡眠分期的全卷积神经网络训练与评估工具**
 
@@ -45,13 +45,13 @@ U-Time/U-Sleep 模型的官方实现：提供用于时间序列分割与自动�
 
 ```mermaid
 xychart-beta
-    title "perslev/U-Time 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 318 --> 320
-    line [319, 319]
+    title "perslev/U-Time 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 318 --> 323
+    line [319, 321, 322, 322]
 ```
 
-2026-10-18 319 → 2026-11-02 319（+0）
+2026-10-18 319 → 2026-11-17 322（+3）
 
 
 ---

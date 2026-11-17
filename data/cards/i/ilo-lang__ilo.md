@@ -1,6 +1,6 @@
 # ilo-lang/ilo
 
-⭐ 11 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ilo-lang/ilo) · [官网](https://ilo-lang.ai) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ilo-lang/ilo) · [官网](https://ilo-lang.ai) · 个人维护
 
 **供 AI agent 编写的 token 精简编程语言（解释器+编译器）**
 
@@ -45,13 +45,13 @@ ilo 是一门面向 AI agent 而非人类编写的编程语言，名称来自 To
 
 ```mermaid
 xychart-beta
-    title "ilo-lang/ilo 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "ilo-lang/ilo 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 13, 13]
 ```
 
-2026-10-19 10 → 2026-11-02 11（+1）
+2026-10-19 10 → 2026-11-17 13（+3）
 
 
 ---

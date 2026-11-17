@@ -1,6 +1,6 @@
 # MuhangTian/TimeDiff
 
-⭐ 37 · Jupyter Notebook · 推送 2026-05-22 · [GitHub](https://github.com/MuhangTian/TimeDiff) · 组织维护
+⭐ 38 · Jupyter Notebook · 推送 2026-05-22 · [GitHub](https://github.com/MuhangTian/TimeDiff) · 组织维护
 
 **用扩散模型生成隐私保护合成 EHR 时间序列的研究代码**
 
@@ -44,13 +44,13 @@ TimeDiff 论文（JAMIA 接收）的官方代码实现：训练扩散模型生�
 
 ```mermaid
 xychart-beta
-    title "MuhangTian/TimeDiff 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "MuhangTian/TimeDiff 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 36, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 38（+2）
 
 
 ---

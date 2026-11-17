@@ -1,6 +1,6 @@
 # huahaizo/tia-portal-openness-ai
 
-⭐ 80 · PowerShell · 推送 2026-05-24 · [GitHub](https://github.com/huahaizo/tia-portal-openness-ai) · 个人维护 · 中文 README
+⭐ 86 · PowerShell · 推送 2026-05-24 · [GitHub](https://github.com/huahaizo/tia-portal-openness-ai) · 个人维护 · 中文 README
 
 **让 AI 通过 Openness API 自动化操作西门子博途项目的 skill 与 C# 脚手架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huahaizo/tia-portal-openness-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 76 --> 81
-    line [77, 78, 79, 80]
+    title "huahaizo/tia-portal-openness-ai 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 76 --> 87
+    line [77, 78, 79, 80, 77, 83, 85, 86, 86]
 ```
 
-2026-10-18 77 → 2026-11-02 80（+3）
+2026-10-18 77 → 2026-11-17 86（+9）
 
 
 ---

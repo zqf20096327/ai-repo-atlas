@@ -1,6 +1,6 @@
 # cvxgrp/pymde
 
-⭐ 595 · Python · Apache-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/cvxgrp/pymde) · [官网](https://pymde.org) · 组织维护
+⭐ 594 · Python · Apache-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/cvxgrp/pymde) · [官网](https://pymde.org) · 组织维护
 
 **Python 库：为有限项集合计算最小失真向量嵌入**
 
@@ -46,13 +46,13 @@ PyMDE 是斯坦福 cvxgrp 团队开发的 Python 嵌入库，基于最小失真�
 
 ```mermaid
 xychart-beta
-    title "cvxgrp/pymde 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 594 --> 596
-    line [595, 595]
+    title "cvxgrp/pymde 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 593 --> 596
+    line [595, 594, 594]
 ```
 
-2026-10-18 595 → 2026-11-02 595（+0）
+2026-10-18 595 → 2026-11-17 594（-1）
 
 
 ---

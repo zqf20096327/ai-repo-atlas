@@ -1,6 +1,6 @@
 # Ramenne/DeepSeek-Harness-Gov
 
-⭐ 13 · JavaScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Ramenne/DeepSeek-Harness-Gov) · [官网](http://ff.urmpgo.cn) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Ramenne/DeepSeek-Harness-Gov) · [官网](http://ff.urmpgo.cn) · 个人维护 · 中文 README
 
 **政务办公 WebUI 与红头公文插件包，挂载于 DeepSeek Harness**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ramenne/DeepSeek-Harness-Gov 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "Ramenne/DeepSeek-Harness-Gov 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 15, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

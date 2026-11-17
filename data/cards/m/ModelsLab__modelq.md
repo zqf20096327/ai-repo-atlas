@@ -1,6 +1,6 @@
 # ModelsLab/modelq
 
-⭐ 21 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/ModelsLab/modelq) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ModelsLab/modelq) · 组织维护
 
 **面向 ML 推理任务调度的 Python 任务队列库**
 
@@ -45,12 +45,12 @@ ModelQ 是由 ModelsLab 团队维护的 Python 库，用 Redis 与线程实现�
 ```mermaid
 xychart-beta
     title "ModelsLab/modelq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

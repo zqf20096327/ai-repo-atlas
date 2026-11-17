@@ -1,6 +1,6 @@
 # WenjieDu/Awesome_Imputation
 
-⭐ 429 · Python · BSD-3-Clause · 推送 2026-08-03 · [GitHub](https://github.com/WenjieDu/Awesome_Imputation) · 个人维护
+⭐ 428 · Python · BSD-3-Clause · 推送 2026-08-03 · [GitHub](https://github.com/WenjieDu/Awesome_Imputation) · 个人维护
 
 **时间序列插补论文与工具清单，附 TSI-Bench 基准复现代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WenjieDu/Awesome_Imputation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 428 --> 431
-    line [429, 430, 429, 429]
+    title "WenjieDu/Awesome_Imputation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 427 --> 431
+    line [429, 430, 429, 428, 428]
 ```
 
-2026-10-18 429 → 2026-11-02 429（+0）
+2026-10-18 429 → 2026-11-17 428（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ahang008/ah-skills
 
-⭐ 58 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/ahang008/ah-skills) · 个人维护 · 中文 README
+⭐ 62 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/ahang008/ah-skills) · [官网](https://zephyr8.asia) · 个人维护 · 中文 README
 
 **个人公开的 Codex Agent Skills 集合与品牌索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahang008/ah-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58, 58]
+    title "ahang008/ah-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 55 --> 63
+    line [56, 57, 58, 56, 60, 61, 62, 62]
 ```
 
-2026-10-18 56 → 2026-11-02 58（+2）
+2026-10-18 56 → 2026-11-17 62（+6）
 
 
 ---

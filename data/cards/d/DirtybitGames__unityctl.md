@@ -1,6 +1,6 @@
 # DirtybitGames/unityctl
 
-⭐ 16 · C# · MIT · 推送 2026-06-22 · [GitHub](https://github.com/DirtybitGames/unityctl) · 组织维护
+⭐ 16 · C# · MIT · 推送 2026-11-10 · [GitHub](https://github.com/DirtybitGames/unityctl) · 组织维护
 
 **供 AI agent 远程操控 Unity 编辑器的 CLI 工具**
 
@@ -45,12 +45,12 @@ CLI + bridge 守护进程 + Unity 插件三层架构：CLI 经 HTTP 连接 bridg
 ```mermaid
 xychart-beta
     title "DirtybitGames/unityctl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

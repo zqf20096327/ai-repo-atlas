@@ -1,6 +1,6 @@
 # davanstrien/awesome-synthetic-datasets
 
-⭐ 343 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-08-02 · [GitHub](https://github.com/davanstrien/awesome-synthetic-datasets) · 个人维护
+⭐ 343 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-11-04 · [GitHub](https://github.com/davanstrien/awesome-synthetic-datasets) · 个人维护
 
 **LLM 合成（文本/视觉）数据集资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "davanstrien/awesome-synthetic-datasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 342 --> 344
     line [343, 343]
 ```
 
-2026-10-18 343 → 2026-11-02 343（+0）
+2026-10-18 343 → 2026-11-17 343（+0）
 
 
 ---

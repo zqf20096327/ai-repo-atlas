@@ -1,6 +1,6 @@
 # wsvincent/djangoforai
 
-⭐ 66 · Python · 推送 2025-11-13 · [GitHub](https://github.com/wsvincent/djangoforai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Django + Ollama + SSE + HTMX 的本地 LLM 流式聊天演示应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wsvincent/djangoforai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-08 66（+0）
 
 
 ---

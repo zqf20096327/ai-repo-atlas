@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProteomicsML/ProteomicsML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "ProteomicsML/ProteomicsML 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 59 --> 62
-    line [60, 61]
+    line [60, 61, 60, 60]
 ```
 
-2026-10-18 60 → 2026-10-27 61（+1）
+2026-10-18 60 → 2026-11-07 60（+0）
 
 
 ---

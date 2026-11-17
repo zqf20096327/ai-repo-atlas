@@ -1,6 +1,6 @@
 # CharlesPikachu/pytoydl
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/CharlesPikachu/pytoydl) · [官网](https://pytoydl.readthedocs.io/zh/latest/) · 个人维护 · 中文 README
+⭐ 30 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/CharlesPikachu/pytoydl) · [官网](https://pytoydl.readthedocs.io/zh/latest/) · 个人维护 · 中文 README
 
 **基于 numpy 的玩具深度学习框架，附系列实现教程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "CharlesPikachu/pytoydl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "CharlesPikachu/pytoydl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 30（-1）
 
 
 ---

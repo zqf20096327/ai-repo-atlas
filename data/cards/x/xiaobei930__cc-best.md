@@ -1,6 +1,6 @@
 # xiaobei930/cc-best
 
-⭐ 48 · JavaScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/xiaobei930/cc-best) · [官网](https://xiaobei930.github.io/cc-best/) · 个人维护 · 中文 README
+⭐ 50 · JavaScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/xiaobei930/cc-best) · [官网](https://xiaobei930.github.io/cc-best/) · 个人维护 · 中文 README
 
 **Claude Code 插件：提供 PM→Lead→Dev→QA 角色化开发工作流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaobei930/cc-best 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "xiaobei930/cc-best 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

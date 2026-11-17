@@ -1,6 +1,6 @@
 # pixeltable/pixelagent
 
-⭐ 261 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/pixeltable/pixelagent) · [官网](https://pixeltable.com) · 组织维护
+⭐ 262 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/pixeltable/pixelagent) · [官网](https://pixeltable.com) · 组织维护
 
 **给工程师构建多模态有状态 AI agent 的 Python 框架**
 
@@ -44,13 +44,13 @@ Pixeltable 团队开源的 agent 工程框架：把 agent 视为 LLM、存储与
 
 ```mermaid
 xychart-beta
-    title "pixeltable/pixelagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 258 --> 262
-    line [259, 260, 261, 261]
+    title "pixeltable/pixelagent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 258 --> 263
+    line [259, 260, 261, 260, 262, 262]
 ```
 
-2026-10-18 259 → 2026-11-02 261（+2）
+2026-10-18 259 → 2026-11-17 262（+3）
 
 
 ---

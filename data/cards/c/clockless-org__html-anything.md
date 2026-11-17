@@ -1,6 +1,6 @@
 # clockless-org/html-anything
 
-⭐ 161 · JavaScript · MIT-0 · 推送 2026-05-13 · [GitHub](https://github.com/clockless-org/html-anything) · 组织维护
+⭐ 162 · JavaScript · MIT-0 · 推送 2026-05-13 · [GitHub](https://github.com/clockless-org/html-anything) · 组织维护
 
 **把任意文件/回答转为单文件交互 HTML 页面的 agent 技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "clockless-org/html-anything 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 155 --> 162
-    line [156, 157, 158, 159, 160, 161, 161]
+    title "clockless-org/html-anything 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 155 --> 163
+    line [156, 157, 158, 159, 160, 161, 159, 161, 162, 161, 162, 162]
 ```
 
-2026-10-18 156 → 2026-11-02 161（+5）
+2026-10-18 156 → 2026-11-17 162（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # lirantal/boxdown
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lirantal/boxdown) · 个人维护
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/lirantal/boxdown) · 个人维护
 
 **为编码代理创建隔离 Dev Container 沙箱的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lirantal/boxdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "lirantal/boxdown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

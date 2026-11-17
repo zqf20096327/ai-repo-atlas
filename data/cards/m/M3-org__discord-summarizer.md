@@ -1,6 +1,6 @@
 # M3-org/discord-summarizer
 
-⭐ 97 · Python · 推送 2025-12-07 · [GitHub](https://github.com/M3-org/discord-summarizer) · 组织维护
+⭐ 98 · Python · 推送 2025-12-07 · [GitHub](https://github.com/M3-org/discord-summarizer) · 组织维护
 
 **用本地 LLM 分析 Discord 聊天导出并生成摘要的 Python 脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "M3-org/discord-summarizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    title "M3-org/discord-summarizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 96 --> 99
+    line [97, 98, 98]
 ```
 
-2026-10-18 97 → 2026-11-02 97（+0）
+2026-10-18 97 → 2026-11-17 98（+1）
 
 
 ---

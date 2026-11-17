@@ -1,6 +1,6 @@
 # aiperceivable/apcore
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/aiperceivable/apcore) · [官网](https://www.aiperceivable.com/products/apcore/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/aiperceivable/apcore) · [官网](https://www.aiperceivable.com/products/apcore/) · 组织维护
 
 **面向 AI agent 的治理化能力模块框架：一次定义、多面暴露**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aiperceivable/apcore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

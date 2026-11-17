@@ -1,6 +1,6 @@
 # JJLibra/CC-Pan
 
-⭐ 156 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/JJLibra/CC-Pan) · [官网](https://salad-pan.github.io) · 组织维护
+⭐ 156 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/JJLibra/CC-Pan) · [官网](https://salad-pan.github.io) · 组织维护
 
 **遥感全色锐化：扩散模型微调生成高分辨率多光谱影像**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "JJLibra/CC-Pan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 155 --> 158
     line [157, 156, 156]
 ```
 
-2026-10-18 157 → 2026-11-02 156（-1）
+2026-10-18 157 → 2026-11-17 156（-1）
 
 
 ---

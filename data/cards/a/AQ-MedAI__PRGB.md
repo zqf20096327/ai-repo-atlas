@@ -1,6 +1,6 @@
 # AQ-MedAI/PRGB
 
-⭐ 35 · Python · NOASSERTION · 推送 2025-11-20 · [GitHub](https://github.com/AQ-MedAI/PRGB) · [官网](https://arxiv.org/abs/2507.22927) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **RAG 鲁棒性评测基准：用占位符与噪声注入评测量化模型**
 
@@ -11,7 +11,7 @@ AAAI 2026 论文配套的 RAG 评测基准工具：通过占位符替换与三�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ AAAI 2026 论文配套的 RAG 评测基准工具：通过占位符替换与三�
 ```mermaid
 xychart-beta
     title "AQ-MedAI/PRGB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-15 35（+0）
 
 
 ---

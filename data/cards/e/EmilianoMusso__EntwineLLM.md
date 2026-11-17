@@ -1,6 +1,6 @@
 # EmilianoMusso/EntwineLLM
 
-⭐ 36 · C# · MIT · 推送 2025-12-09 · [GitHub](https://github.com/EmilianoMusso/EntwineLLM) · 个人维护
+⭐ 37 · C# · MIT · 推送 2025-12-09 · [GitHub](https://github.com/EmilianoMusso/EntwineLLM) · 个人维护
 
 **Visual Studio 本地 LLM 编码助手扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EmilianoMusso/EntwineLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "EmilianoMusso/EntwineLLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 35 --> 38
-    line [37, 36, 36]
+    line [37, 36, 37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 36（-1）
+2026-10-18 37 → 2026-11-17 37（+0）
 
 
 ---

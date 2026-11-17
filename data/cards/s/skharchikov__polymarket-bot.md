@@ -1,6 +1,6 @@
 # skharchikov/polymarket-bot
 
-⭐ 38 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/skharchikov/polymarket-bot) · [官网](https://t.me/Polymarket_rs_bot) · 个人维护
+⭐ 41 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/skharchikov/polymarket-bot) · [官网](https://t.me/Polymarket_rs_bot) · 个人维护
 
 **Polymarket 预测市场自动交易机器人：ML 集成模型 + LLM 信号**
 
@@ -45,13 +45,13 @@ Rust Cargo workspace 中的两个独立交易机器人：trading-bot 通过 XGBo
 
 ```mermaid
 xychart-beta
-    title "skharchikov/polymarket-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "skharchikov/polymarket-bot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 39, 40, 41, 41]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 41（+4）
 
 
 ---

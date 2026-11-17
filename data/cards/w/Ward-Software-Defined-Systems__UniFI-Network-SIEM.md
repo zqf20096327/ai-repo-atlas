@@ -1,6 +1,6 @@
 # Ward-Software-Defined-Systems/UniFI-Network-SIEM
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Ward-Software-Defined-Systems/UniFI-Network-SIEM) · [官网](https://www.wsds.io) · 组织维护
+⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Ward-Software-Defined-Systems/UniFI-Network-SIEM) · [官网](https://www.wsds.io) · 组织维护
 
 **自托管 UniFi 网络的 SIEM：日志采集、仪表盘与 AI 威胁狩猎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ward-Software-Defined-Systems/UniFI-Network-SIEM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Ward-Software-Defined-Systems/UniFI-Network-SIEM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

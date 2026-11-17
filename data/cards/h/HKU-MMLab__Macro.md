@@ -1,6 +1,6 @@
 # HKU-MMLab/Macro
 
-⭐ 69 · Python · 推送 2026-03-27 · [GitHub](https://github.com/HKU-MMLab/Macro) · [官网](https://macro400k.github.io/) · 组织维护
+⭐ 69 · Python · 推送 2026-11-08 · [GitHub](https://github.com/HKU-MMLab/Macro) · [官网](https://macro400k.github.io/) · 组织维护
 
 **多参考图生成的数据集与基准，附三个开源模型微调权重**
 
@@ -45,12 +45,12 @@ HKU MMLab 与美团合作发布的多参考图像生成数据集和基准 MACRO�
 ```mermaid
 xychart-beta
     title "HKU-MMLab/Macro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 69（+0）
 
 
 ---

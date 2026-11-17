@@ -1,6 +1,6 @@
 # xirui-li/ClawEnvKit
 
-⭐ 64 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/xirui-li/ClawEnvKit) · [官网](https://huggingface.co/papers/2604.18543) · 组织维护
+⭐ 65 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/xirui-li/ClawEnvKit) · [官网](https://huggingface.co/papers/2604.18543) · 组织维护
 
 **为 claw 类 agent 自动生成训练/评测环境的工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xirui-li/ClawEnvKit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "xirui-li/ClawEnvKit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 62 --> 66
-    line [63, 64, 65, 64, 64]
+    line [63, 64, 65, 64, 65, 65]
 ```
 
-2026-10-18 63 → 2026-11-02 64（+1）
+2026-10-18 63 → 2026-11-17 65（+2）
 
 
 ---

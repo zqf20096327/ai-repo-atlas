@@ -1,6 +1,6 @@
 # Shelpuk-AI-Technology-Consulting/lad_mcp_server
 
-⭐ 21 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/lad_mcp_server) · [官网](https://www.shelpuk.com) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/lad_mcp_server) · [官网](https://www.shelpuk.com) · 组织维护
 
 **面向 AI 编程 agent 的项目感知代码与系统设计评审 MCP 服务器**
 
@@ -45,13 +45,13 @@ Shelpuk AI Technology Consulting 开源的 MCP 服务器，为 Claude Code、Cod
 
 ```mermaid
 xychart-beta
-    title "Shelpuk-AI-Technology-Consulting/lad_mcp_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Shelpuk-AI-Technology-Consulting/lad_mcp_server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

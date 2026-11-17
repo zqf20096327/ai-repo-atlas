@@ -1,6 +1,6 @@
 # vinsblack/energy-optimizer-pro
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-07-25 · [GitHub](https://github.com/vinsblack/energy-optimizer-pro) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-07-25 · [GitHub](https://github.com/vinsblack/energy-optimizer-pro) · [官网](https://kythealabs.com/work/energy-optimizer-pro) · 个人维护
 
 **建筑能耗数据与 ML 优化的演示项目：训练模型并生成节能建议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vinsblack/energy-optimizer-pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

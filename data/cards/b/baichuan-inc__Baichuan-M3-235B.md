@@ -1,6 +1,6 @@
 # baichuan-inc/Baichuan-M3-235B
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-02-09 · [GitHub](https://github.com/baichuan-inc/Baichuan-M3-235B) · 组织维护 · 中文 README
+⭐ 264 · Python · Apache-2.0 · 推送 2026-02-09 · [GitHub](https://github.com/baichuan-inc/Baichuan-M3-235B) · 组织维护 · 中文 README
 
 **面向临床决策的 235B 医疗增强大语言模型，供医疗场景部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "baichuan-inc/Baichuan-M3-235B 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 261 --> 264
-    line [262, 263, 263]
+    title "baichuan-inc/Baichuan-M3-235B 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 261 --> 265
+    line [262, 263, 264, 264]
 ```
 
-2026-10-18 262 → 2026-11-02 263（+1）
+2026-10-18 262 → 2026-11-17 264（+2）
 
 
 ---

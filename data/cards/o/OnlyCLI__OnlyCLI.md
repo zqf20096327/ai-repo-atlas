@@ -1,6 +1,6 @@
 # OnlyCLI/OnlyCLI
 
-⭐ 51 · Go · MIT · 推送 2026-03-30 · [GitHub](https://github.com/OnlyCLI/OnlyCLI) · [官网](https://onlycli.github.io/OnlyCLI/) · 组织维护
+⭐ 54 · Go · MIT · 推送 2026-03-30 · [GitHub](https://github.com/OnlyCLI/OnlyCLI) · [官网](https://onlycli.github.io/OnlyCLI/) · 组织维护
 
 **将 OpenAPI 规范生成为原生 CLI 二进制，供 AI agent 低 token 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OnlyCLI/OnlyCLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 52
-    line [50, 51]
+    title "OnlyCLI/OnlyCLI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 49 --> 55
+    line [50, 51, 50, 51, 52, 54, 54]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 54（+4）
 
 
 ---

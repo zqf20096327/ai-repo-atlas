@@ -1,6 +1,6 @@
 # ZeldaFan0225/ai_horde
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/ZeldaFan0225/ai_horde) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ZeldaFan0225/ai_horde) · 个人维护
 
 **与 AI Horde API 交互的 Node.js/TypeScript 客户端库**
 
@@ -44,12 +44,12 @@ npm 包，封装 AI Horde API（众包分布式 AI 图像生成服务）的通�
 ```mermaid
 xychart-beta
     title "ZeldaFan0225/ai_horde 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

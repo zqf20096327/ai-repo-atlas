@@ -1,6 +1,6 @@
 # Beancount-Trans/Beancount-Trans
 
-⭐ 82 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Beancount-Trans/Beancount-Trans) · [官网](https://trans.dhr2333.cn/) · 组织维护 · 中文 README
+⭐ 82 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Beancount-Trans/Beancount-Trans) · [官网](https://trans.dhr2333.cn/) · 组织维护 · 中文 README
 
 **上传账单自动生成可审计 Beancount 复式记账与报表的平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Beancount-Trans/Beancount-Trans 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
+    x-axis ["2026-10-30", "2026-11-17"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-30 82 → 2026-11-02 82（+0）
+2026-10-30 82 → 2026-11-17 82（+0）
 
 
 ---

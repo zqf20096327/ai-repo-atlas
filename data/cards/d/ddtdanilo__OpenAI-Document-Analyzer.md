@@ -1,6 +1,6 @@
 # ddtdanilo/OpenAI-Document-Analyzer
 
-⭐ 40 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/ddtdanilo/OpenAI-Document-Analyzer) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ddtdanilo/OpenAI-Document-Analyzer) · 个人维护
 
 **用 OpenAI Responses API 对本地文档做问答分析的 Python CLI/库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ddtdanilo/OpenAI-Document-Analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

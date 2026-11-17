@@ -1,6 +1,6 @@
 # bjarneo/tAI
 
-⭐ 105 · Python · 推送 2026-02-09 · [GitHub](https://github.com/bjarneo/tAI) · 个人维护
+⭐ 107 · Python · 推送 2026-02-09 · [GitHub](https://github.com/bjarneo/tAI) · 个人维护
 
 **终端 AI 助手 CLI：给出 Linux/macOS 命令建议并可执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bjarneo/tAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    title "bjarneo/tAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 104 --> 108
+    line [105, 107, 107]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-17 107（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # KingHsp/vram-sage-training
 
-⭐ 57 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/KingHsp/vram-sage-training) · 个人维护 · 中文 README
+⭐ 57 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/KingHsp/vram-sage-training) · 个人维护 · 中文 README
 
 **在 12GB 显存上微调 SDXL 级扩散模型的训练套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KingHsp/vram-sage-training 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "KingHsp/vram-sage-training 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 55 --> 58
-    line [56, 57]
+    line [56, 57, 56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

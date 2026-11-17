@@ -1,6 +1,6 @@
 # Ranrar/rustic-prompt
 
-⭐ 57 · MIT · 推送 2026-02-03 · [GitHub](https://github.com/Ranrar/rustic-prompt) · 个人维护
+⭐ 58 · MIT · 推送 2026-02-03 · [GitHub](https://github.com/Ranrar/rustic-prompt) · 个人维护
 
 **面向 Rust 开发者的 AI 指令文件集合：为编码助手提供提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ranrar/rustic-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "Ranrar/rustic-prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

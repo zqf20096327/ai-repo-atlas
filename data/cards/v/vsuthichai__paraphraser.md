@@ -1,6 +1,6 @@
 # vsuthichai/paraphraser
 
-⭐ 408 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/vsuthichai/paraphraser) · [官网](http://pair-a-phrase.it) · 个人维护
+⭐ 407 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/vsuthichai/paraphraser) · [官网](http://pair-a-phrase.it) · 个人维护
 
 **句子级改写生成器：双向 LSTM 序列到序列模型**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "vsuthichai/paraphraser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "vsuthichai/paraphraser 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 406 --> 409
-    line [407, 408, 408]
+    line [407, 408, 407, 408, 407, 407]
 ```
 
-2026-10-18 407 → 2026-11-02 408（+1）
+2026-10-18 407 → 2026-11-17 407（+0）
 
 
 ---

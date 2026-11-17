@@ -1,6 +1,6 @@
 # inulute/simplexity-ai-app
 
-⭐ 634 · JavaScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/simplexity-ai-app) · 个人维护
+⭐ 637 · JavaScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/simplexity-ai-app) · 个人维护
 
 **加载 Perplexity 网页服务的非官方 Electron 桌面客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inulute/simplexity-ai-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 632 --> 635
-    line [633, 634, 634]
+    title "inulute/simplexity-ai-app 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 632 --> 638
+    line [633, 634, 633, 635, 636, 637, 637]
 ```
 
-2026-10-18 633 → 2026-11-02 634（+1）
+2026-10-18 633 → 2026-11-17 637（+4）
 
 
 ---

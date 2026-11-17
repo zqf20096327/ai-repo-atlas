@@ -1,6 +1,6 @@
 # Yangzhangcst/Transformer-in-Computer-Vision
 
-⭐ 1,466 · 推送 2025-11-19 · [GitHub](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Transformer 视觉论文清单：汇集近年基于 Transformer 的 CV 论文**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yangzhangcst/Transformer-in-Computer-Vision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1464 --> 1467
-    line [1465, 1466, 1466]
+    title "Yangzhangcst/Transformer-in-Computer-Vision 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-14"]
+    y-axis "stars" 1463 --> 1467
+    line [1465, 1466, 1465, 1464, 1464]
 ```
 
-2026-10-18 1,465 → 2026-11-02 1,466（+1）
+2026-10-18 1,465 → 2026-11-14 1,464（-1）
 
 
 ---

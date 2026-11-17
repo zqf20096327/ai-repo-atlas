@@ -1,6 +1,6 @@
 # Airsequel/SQLiteGPT
 
-⭐ 29 · Rust · 推送 2026-05-27 · [GitHub](https://github.com/Airsequel/SQLiteGPT) · 组织维护
+⭐ 30 · Rust · 推送 2026-05-27 · [GitHub](https://github.com/Airsequel/SQLiteGPT) · 组织维护
 
 **SQLite 扩展：在 SQL 中直接调用 OpenAI ChatGPT 的 gpt() 函数**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Airsequel/SQLiteGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "Airsequel/SQLiteGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

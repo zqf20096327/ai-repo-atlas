@@ -1,6 +1,6 @@
 # EchoSentiment/Echo
 
-⭐ 23 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/EchoSentiment/Echo) · 组织维护
+⭐ 25 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/EchoSentiment/Echo) · 组织维护
 
 **扫描 Crypto Twitter、按叙事持久度打分的 Solana 交易信号工具**
 
@@ -44,13 +44,13 @@ Echo 追踪 Solana 代币的 Crypto Twitter 提及，将相似声明聚类为叙
 
 ```mermaid
 xychart-beta
-    title "EchoSentiment/Echo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "EchoSentiment/Echo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

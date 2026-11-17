@@ -1,6 +1,6 @@
 # AidaShika/personal-agent-dossier
 
-⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AidaShika/personal-agent-dossier) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **个人 AI agent 跨平台迁移的中立档案格式与适配器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

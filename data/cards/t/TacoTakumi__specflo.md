@@ -1,6 +1,6 @@
 # TacoTakumi/specflo
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/TacoTakumi/specflo) · [官网](https://tacotakumi.github.io/specflo/) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/TacoTakumi/specflo) · [官网](https://tacotakumi.github.io/specflo/) · 个人维护
 
 **给 AI 编码 agent 的规范驱动开发 CLI：脑暴→规范→计划→执行**
 
@@ -46,13 +46,13 @@ Python CLI 加一组 skills 与 hooks，为 AI 编码 agent 提供纪律化的 b
 
 ```mermaid
 xychart-beta
-    title "TacoTakumi/specflo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 15, 15]
+    title "TacoTakumi/specflo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 15, 14, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # PetroIvaniuk/llms-tools
 
-⭐ 330 · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/PetroIvaniuk/llms-tools) · 个人维护
+⭐ 331 · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/PetroIvaniuk/llms-tools) · 个人维护
 
 **LLM 与 AI 研究项目/模型/课程资料聚合清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "PetroIvaniuk/llms-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 328 --> 331
-    line [329, 330, 330]
+    title "PetroIvaniuk/llms-tools 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 328 --> 332
+    line [329, 330, 329, 330, 331, 331]
 ```
 
-2026-10-18 329 → 2026-11-02 330（+1）
+2026-10-18 329 → 2026-11-17 331（+2）
 
 
 ---

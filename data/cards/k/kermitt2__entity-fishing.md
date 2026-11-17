@@ -1,6 +1,6 @@
 # kermitt2/entity-fishing
 
-⭐ 269 · Java · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/kermitt2/entity-fishing) · [官网](http://nerd.readthedocs.io/) · 个人维护
+⭐ 270 · Java · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/kermitt2/entity-fishing) · [官网](http://nerd.readthedocs.io/) · 个人维护
 
 **面向 15 种语言的实体识别与消歧工具（基于 Wikidata）**
 
@@ -44,13 +44,13 @@ entity-fishing 是基于机器学习的实体识别与消歧服务：对原始�
 
 ```mermaid
 xychart-beta
-    title "kermitt2/entity-fishing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 267 --> 270
-    line [268, 269, 269]
+    title "kermitt2/entity-fishing 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 267 --> 271
+    line [268, 269, 268, 269, 270, 270]
 ```
 
-2026-10-18 268 → 2026-11-02 269（+1）
+2026-10-18 268 → 2026-11-17 270（+2）
 
 
 ---

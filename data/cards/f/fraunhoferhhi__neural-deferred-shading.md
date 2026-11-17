@@ -1,6 +1,6 @@
 # fraunhoferhhi/neural-deferred-shading
 
-⭐ 276 · Python · NOASSERTION · 推送 2026-07-13 · [GitHub](https://github.com/fraunhoferhhi/neural-deferred-shading) · 组织维护
+⭐ 277 · Python · NOASSERTION · 推送 2026-07-13 · [GitHub](https://github.com/fraunhoferhhi/neural-deferred-shading) · 组织维护
 
 **CVPR 2022 论文官方代码：可微网格渲染+神经着色的多视角三维重建**
 
@@ -44,13 +44,13 @@ Fraunhofer HHI 发布的 CVPR 2022 论文官方 PyTorch 实现：基于可微网
 
 ```mermaid
 xychart-beta
-    title "fraunhoferhhi/neural-deferred-shading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 274 --> 277
-    line [275, 276, 276]
+    title "fraunhoferhhi/neural-deferred-shading 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 274 --> 278
+    line [275, 276, 277, 277]
 ```
 
-2026-10-18 275 → 2026-11-02 276（+1）
+2026-10-18 275 → 2026-11-17 277（+2）
 
 
 ---

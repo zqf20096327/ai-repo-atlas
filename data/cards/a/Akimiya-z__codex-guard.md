@@ -1,6 +1,6 @@
 # Akimiya-z/codex-guard
 
-⭐ 132 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Akimiya-z/codex-guard) · [官网](https://akimiya-z.github.io/codex-guard/) · 个人维护
+⭐ 132 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Akimiya-z/codex-guard) · [官网](https://akimiya-z.github.io/codex-guard/) · 个人维护
 
 **拦截 AI 生成 PR 常见问题的 GitHub Actions 质量门禁**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Akimiya-z/codex-guard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 131 --> 137
-    line [136, 133, 132, 132]
+    title "Akimiya-z/codex-guard 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 130 --> 137
+    line [136, 133, 132, 131, 132, 132]
 ```
 
-2026-10-18 136 → 2026-11-02 132（-4）
+2026-10-18 136 → 2026-11-17 132（-4）
 
 
 ---

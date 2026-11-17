@@ -1,6 +1,6 @@
 # shoryasethia/markdrop
 
-⭐ 211 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/shoryasethia/markdrop) · [官网](https://pypi.org/project/markdrop) · 个人维护
+⭐ 210 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/shoryasethia/markdrop) · [官网](https://pypi.org/project/markdrop) · 个人维护
 
 **把 PDF 转成 Markdown/HTML 并用 LLM 为图表生成描述的 Python 包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shoryasethia/markdrop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 210 --> 212
-    line [211, 211]
+    title "shoryasethia/markdrop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 209 --> 212
+    line [211, 210, 210]
 ```
 
-2026-10-18 211 → 2026-11-02 211（+0）
+2026-10-18 211 → 2026-11-17 210（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlcommons/mlcube
 
-⭐ 160 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/mlcommons/mlcube) · [官网](https://docs.mlcommons.org/mlcube/) · 组织维护
+⭐ 159 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/mlcommons/mlcube) · [官网](https://docs.mlcommons.org/mlcube/) · 组织维护
 
 **让 ML 模型跨环境可移植可复现的容器化接口规范与运行器**
 
@@ -43,13 +43,13 @@ MLCommons 维护的开放项目，为机器学习软件定义一组通用约定�
 
 ```mermaid
 xychart-beta
-    title "mlcommons/mlcube 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 159 --> 161
-    line [160, 160]
+    title "mlcommons/mlcube 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 158 --> 161
+    line [160, 159, 159]
 ```
 
-2026-10-18 160 → 2026-11-02 160（+0）
+2026-10-18 160 → 2026-11-17 159（-1）
 
 
 ---

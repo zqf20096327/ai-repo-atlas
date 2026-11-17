@@ -1,6 +1,6 @@
 # modelence/modelence
 
-⭐ 432 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/modelence/modelence) · [官网](https://modelence.com) · 组织维护
+⭐ 436 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/modelence/modelence) · [官网](https://modelence.com) · 组织维护
 
 **构建生产级全栈 Web 应用的框架与云端平台**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelence/modelence 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 430 --> 434
-    line [432, 431, 432, 433, 432]
+    title "modelence/modelence 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 430 --> 437
+    line [432, 431, 432, 433, 432, 433, 435, 436, 435, 436, 436]
 ```
 
-2026-10-18 432 → 2026-11-02 432（+0）
+2026-10-18 432 → 2026-11-17 436（+4）
 
 
 ---

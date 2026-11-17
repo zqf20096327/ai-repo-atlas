@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/MMLU-Pro
 
-⭐ 433 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/TIGER-AI-Lab/MMLU-Pro) · 组织维护
+⭐ 435 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/TIGER-AI-Lab/MMLU-Pro) · 组织维护
 
 **更难更稳的 LLM 多任务理解评测基准（12k+ 题，14 领域）**
 
@@ -45,13 +45,13 @@ NeurIPS 2024 论文的代码与数据仓库：在 MMLU 基础上构建 MMLU-Pro�
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/MMLU-Pro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 430 --> 434
-    line [431, 432, 433, 433]
+    title "TIGER-AI-Lab/MMLU-Pro 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 430 --> 436
+    line [431, 432, 433, 432, 433, 434, 435, 435]
 ```
 
-2026-10-18 431 → 2026-11-02 433（+2）
+2026-10-18 431 → 2026-11-17 435（+4）
 
 
 ---

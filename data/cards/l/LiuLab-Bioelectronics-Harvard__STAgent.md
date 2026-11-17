@@ -1,6 +1,6 @@
 # LiuLab-Bioelectronics-Harvard/STAgent
 
-⭐ 63 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/LiuLab-Bioelectronics-Harvard/STAgent) · [官网](https://doi.org/10.1101/2025.04.01.646731) · 组织维护
+⭐ 64 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/LiuLab-Bioelectronics-Harvard/STAgent) · [官网](https://doi.org/10.1101/2025.04.01.646731) · 组织维护
 
 **空间转录组数据分析的多模态 LLM agent，面向科研用户**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiuLab-Bioelectronics-Harvard/STAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    title "LiuLab-Bioelectronics-Harvard/STAgent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 62 --> 65
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-17 64（+1）
 
 
 ---

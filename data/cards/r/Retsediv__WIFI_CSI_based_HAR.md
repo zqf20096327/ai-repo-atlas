@@ -1,6 +1,6 @@
 # Retsediv/WIFI_CSI_based_HAR
 
-⭐ 214 · Jupyter Notebook · GPL-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/Retsediv/WIFI_CSI_based_HAR) · 组织维护
+⭐ 215 · Jupyter Notebook · GPL-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/Retsediv/WIFI_CSI_based_HAR) · 组织维护
 
 **基于 WiFi CSI 的人体活动识别深度学习源码（论文配套）**
 
@@ -45,13 +45,13 @@ Ukrainian Catholic University 学位论文及配套论文的源码仓库，实�
 
 ```mermaid
 xychart-beta
-    title "Retsediv/WIFI_CSI_based_HAR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 212 --> 215
-    line [213, 214, 214]
+    title "Retsediv/WIFI_CSI_based_HAR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 212 --> 216
+    line [213, 214, 215, 215]
 ```
 
-2026-10-18 213 → 2026-11-02 214（+1）
+2026-10-18 213 → 2026-11-17 215（+2）
 
 
 ---

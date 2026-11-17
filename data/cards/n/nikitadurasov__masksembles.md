@@ -1,6 +1,6 @@
 # nikitadurasov/masksembles
 
-⭐ 105 · Python · MIT · 推送 2025-11-09 · [GitHub](https://github.com/nikitadurasov/masksembles) · [官网](https://www.norange.io/projects/masksembles/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **CVPR 2021 论文官方库：神经网络的掩码集成不确定性估计层**
 
@@ -11,7 +11,7 @@ Masksembles 论文（CVPR 2021）的官方实现，以 pip 包形式提供用于
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Masksembles 论文（CVPR 2021）的官方实现，以 pip 包形式提供用于
 ```mermaid
 xychart-beta
     title "nikitadurasov/masksembles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-07 105（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stabgan/openrouter-mcp-multimodal
 
-⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/stabgan/openrouter-mcp-multimodal) · [官网](https://www.npmjs.com/package/@stabgan/openrouter-mcp-multimodal) · 个人维护
+⭐ 103 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/stabgan/openrouter-mcp-multimodal) · [官网](https://www.npmjs.com/package/@stabgan/openrouter-mcp-multimodal) · 个人维护
 
 **接入 OpenRouter 多模态 LLM API 的 MCP 服务器，21 个工具**
 
@@ -44,13 +44,13 @@ Node.js/TypeScript 实现的 Model Context Protocol 服务器，通过 stdio 将
 
 ```mermaid
 xychart-beta
-    title "stabgan/openrouter-mcp-multimodal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 97 --> 103
-    line [98, 99, 100, 101, 102, 102]
+    title "stabgan/openrouter-mcp-multimodal 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 97 --> 104
+    line [98, 99, 100, 101, 102, 101, 102, 103, 103]
 ```
 
-2026-10-18 98 → 2026-11-02 102（+4）
+2026-10-18 98 → 2026-11-17 103（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # castnettech/mnemosyne
 
-⭐ 63 · Python · AGPL-3.0 · 推送 2026-05-30 · [GitHub](https://github.com/castnettech/mnemosyne) · [官网](https://pypi.org/project/mnemosyne-engine/) · 组织维护
+⭐ 64 · Python · AGPL-3.0 · 推送 2026-05-30 · [GitHub](https://github.com/castnettech/mnemosyne) · [官网](https://pypi.org/project/mnemosyne-engine/) · 组织维护
 
 **零依赖的本地代码检索与上下文压缩引擎，供 LLM/开发者使用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "castnettech/mnemosyne 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "castnettech/mnemosyne 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-11-02 63（+1）
+2026-10-18 62 → 2026-11-17 64（+2）
 
 
 ---

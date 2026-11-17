@@ -1,6 +1,6 @@
 # maocide/PlotCaption
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-05-01 · [GitHub](https://github.com/maocide/PlotCaption) · [官网](https://github.com/maocide/PlotCaption) · 个人维护
+⭐ 10 · Python · GPL-3.0 · 推送 2026-05-01 · [GitHub](https://github.com/maocide/PlotCaption) · [官网](https://github.com/maocide/PlotCaption) · 个人维护
 
 **本地图像转角色设定与 SD 提示词的桌面 AI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maocide/PlotCaption 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "maocide/PlotCaption 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

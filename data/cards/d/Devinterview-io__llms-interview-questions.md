@@ -1,6 +1,6 @@
 # Devinterview-io/llms-interview-questions
 
-⭐ 1,079 · 推送 2026-02-17 · [GitHub](https://github.com/Devinterview-io/llms-interview-questions) · 组织维护
+⭐ 1,087 · 推送 2026-02-17 · [GitHub](https://github.com/Devinterview-io/llms-interview-questions) · 组织维护
 
 **面向求职者的 LLM 机器学习面试题与答案合集（63 题）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/llms-interview-questions 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1073 --> 1080
-    line [1074, 1075, 1077, 1078, 1079]
+    title "Devinterview-io/llms-interview-questions 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1073 --> 1088
+    line [1074, 1075, 1077, 1078, 1079, 1077, 1081, 1082, 1083, 1084, 1085, 1087, 1087]
 ```
 
-2026-10-18 1,074 → 2026-11-02 1,079（+5）
+2026-10-18 1,074 → 2026-11-17 1,087（+13）
 
 
 ---

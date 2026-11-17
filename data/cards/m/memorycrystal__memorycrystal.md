@@ -1,6 +1,6 @@
 # memorycrystal/memorycrystal
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/memorycrystal/memorycrystal) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/memorycrystal/memorycrystal) · 组织维护
 
 **为 AI agent 提供跨会话持久记忆的 MCP server 与 OpenClaw 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "memorycrystal/memorycrystal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

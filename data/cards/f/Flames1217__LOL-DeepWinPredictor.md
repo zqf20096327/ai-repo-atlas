@@ -1,6 +1,6 @@
 # Flames1217/LOL-DeepWinPredictor
 
-⭐ 17 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/Flames1217/LOL-DeepWinPredictor) · [官网](https://lol.flames.de5.net) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · 推送 2026-11-03 · [GitHub](https://github.com/Flames1217/LOL-DeepWinPredictor) · [官网](https://lol.flames.de5.net) · 个人维护 · 中文 README
 
 **英雄联盟职业赛事数据聚合与 BiLSTM-Attention 胜率预测 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Flames1217/LOL-DeepWinPredictor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

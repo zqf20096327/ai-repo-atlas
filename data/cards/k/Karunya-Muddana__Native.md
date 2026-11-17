@@ -1,6 +1,6 @@
 # Karunya-Muddana/Native
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Karunya-Muddana/Native) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地优先的开源 AI Agent 运行环境，供开发者自行运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # sizhe-li/neural-jacobian-field
 
-⭐ 242 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/sizhe-li/neural-jacobian-field) · [官网](https://sizhe-li.github.io/publication/neural_jacobian_field/) · 组织维护
+⭐ 243 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/sizhe-li/neural-jacobian-field) · [官网](https://sizhe-li.github.io/publication/neural_jacobian_field/) · 组织维护
 
 **科研者的神经雅可比场：从感知学习机器人系统表示以控制机器人**
 
@@ -45,13 +45,13 @@ Neural Jacobian Fields 论文（Nature 2025）的官方实现：用深度网络�
 
 ```mermaid
 xychart-beta
-    title "sizhe-li/neural-jacobian-field 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 240 --> 243
-    line [241, 242, 242]
+    title "sizhe-li/neural-jacobian-field 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 240 --> 244
+    line [241, 242, 243, 243]
 ```
 
-2026-10-18 241 → 2026-11-02 242（+1）
+2026-10-18 241 → 2026-11-17 243（+2）
 
 
 ---

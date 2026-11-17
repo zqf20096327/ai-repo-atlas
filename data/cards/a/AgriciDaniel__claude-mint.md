@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-mint
 
-⭐ 12 · Shell · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-mint) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 14 · Shell · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-mint) · [官网](https://agricidaniel.com) · 个人维护
 
 **面向 Linux Mint/Cinnamon 的 Claude Code 系统助手技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-mint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "AgriciDaniel/claude-mint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

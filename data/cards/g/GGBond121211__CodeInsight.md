@@ -1,6 +1,6 @@
 # GGBond121211/CodeInsight
 
-⭐ 95 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/GGBond121211/CodeInsight) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/GGBond121211/CodeInsight) · 个人维护 · 中文 README
 
 **面向本地代码仓库的中英文问答与代码理解工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GGBond121211/CodeInsight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "GGBond121211/CodeInsight 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 96
+    line [95, 94, 94]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 94（-1）
 
 
 ---

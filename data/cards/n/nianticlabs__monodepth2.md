@@ -1,6 +1,6 @@
 # nianticlabs/monodepth2
 
-⭐ 4,510 · Jupyter Notebook · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/nianticlabs/monodepth2) · 组织维护
+⭐ 4,513 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/nianticlabs/monodepth2) · 组织维护
 
 **单目深度估计的 PyTorch 训练/测试参考实现（ICCV 2019）**
 
@@ -44,13 +44,13 @@ Niantic 团队发布的 Monodepth2 论文（ICCV 2019）官方 PyTorch 参考实
 
 ```mermaid
 xychart-beta
-    title "nianticlabs/monodepth2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 4506 --> 4511
-    line [4507, 4508, 4509, 4510, 4510]
+    title "nianticlabs/monodepth2 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 4506 --> 4514
+    line [4507, 4508, 4509, 4510, 4509, 4512, 4511, 4513, 4512, 4513, 4513]
 ```
 
-2026-10-18 4,507 → 2026-11-02 4,510（+3）
+2026-10-18 4,507 → 2026-11-17 4,513（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # simonlin1212/Hiring-Radar
 
-⭐ 35 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/simonlin1212/Hiring-Radar) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/simonlin1212/Hiring-Radar) · 个人维护 · 中文 README
 
 **供 AI 调用的全球招聘数据读取工具：查公司/市场在招岗位**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonlin1212/Hiring-Radar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    title "simonlin1212/Hiring-Radar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 36, 36]
 ```
 
-2026-10-18 33 → 2026-11-02 35（+2）
+2026-10-18 33 → 2026-11-17 36（+3）
 
 
 ---

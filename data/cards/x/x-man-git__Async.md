@@ -1,6 +1,6 @@
 # x-man-git/Async
 
-⭐ 475 · TypeScript · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/x-man-git/Async) · 个人维护 · 中文 README
+⭐ 476 · TypeScript · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/x-man-git/Async) · 个人维护 · 中文 README
 
 **给开发者的 agent 优先 AI 编码桌面工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "x-man-git/Async 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 473 --> 476
-    line [475, 474, 475, 475]
+    title "x-man-git/Async 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 473 --> 477
+    line [475, 474, 475, 474, 475, 476, 476]
 ```
 
-2026-10-18 475 → 2026-11-02 475（+0）
+2026-10-18 475 → 2026-11-17 476（+1）
 
 
 ---

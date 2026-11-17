@@ -1,6 +1,6 @@
 # trustabl/trustabl-cursor
 
-⭐ 29 · JavaScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/trustabl/trustabl-cursor) · [官网](https://trustabl.ai) · 组织维护
+⭐ 30 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/trustabl/trustabl-cursor) · [官网](https://trustabl.ai) · 组织维护
 
 **面向 Cursor 的 MCP server 插件：静态扫描 AI-agent 代码库的可靠性与安全问题**
 
@@ -45,13 +45,13 @@ Trustabl for Cursor 是一个 Cursor 插件，向 Cursor agent 提供 MCP server
 
 ```mermaid
 xychart-beta
-    title "trustabl/trustabl-cursor 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 29, 29]
+    title "trustabl/trustabl-cursor 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 29, 25, 30, 30]
 ```
 
-2026-10-23 24 → 2026-11-02 29（+5）
+2026-10-23 24 → 2026-11-17 30（+6）
 
 
 ---

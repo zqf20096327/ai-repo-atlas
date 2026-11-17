@@ -1,6 +1,6 @@
 # turborg/turborg
 
-⭐ 19 · Go · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/turborg/turborg) · [官网](https://turborg.com) · 组织维护
+⭐ 20 · Go · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/turborg/turborg) · [官网](https://turborg.com) · 组织维护
 
 **Go 单二进制 IRC 机器人框架：连接器+弹跳器+Web UI+可选 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "turborg/turborg 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "turborg/turborg 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

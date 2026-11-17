@@ -1,6 +1,6 @@
 # coder-irwin/voice-agent-workshop
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/coder-irwin/voice-agent-workshop) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/coder-irwin/voice-agent-workshop) · 个人维护
 
 **本地开源语音 agent 工作坊：语音对话并执行浏览器操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coder-irwin/voice-agent-workshop 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "coder-irwin/voice-agent-workshop 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19, 19]
 ```
 
-2026-10-28 16 → 2026-11-02 16（+0）
+2026-10-28 16 → 2026-11-17 19（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # EdAbati/outlines-haystack
 
-⭐ 14 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/EdAbati/outlines-haystack) · [官网](https://pypi.org/project/outlines-haystack/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/EdAbati/outlines-haystack) · [官网](https://pypi.org/project/outlines-haystack/) · 个人维护
 
 **在 Haystack 管道中使用 outlines 结构化生成器的集成库**
 
@@ -44,12 +44,12 @@ Python 库，将 outlines 的生成器接入 Haystack pipelines，当前支持 J
 ```mermaid
 xychart-beta
     title "EdAbati/outlines-haystack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

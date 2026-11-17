@@ -1,6 +1,6 @@
 # lihaiya/FreeHappyChat
 
-⭐ 20 · Java · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/lihaiya/FreeHappyChat) · [官网](https://www.freehappychat.com) · 组织维护 · 中文 README
+⭐ 21 · Java · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/lihaiya/FreeHappyChat) · [官网](https://www.freehappychat.com) · 组织维护 · 中文 README
 
 **企业级 AI 在线客服系统：AI 聊天、RAG 知识库与转人工**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lihaiya/FreeHappyChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "lihaiya/FreeHappyChat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

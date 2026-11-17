@@ -1,6 +1,6 @@
 # InternLM/EMemBench
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/InternLM/EMemBench) · 组织维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/InternLM/EMemBench) · 组织维护 · 中文 README
 
 **评测 VLM Agent 情景记忆的交互式基准生成框架**
 
@@ -44,13 +44,13 @@ EMNLP 2026 Findings 论文的官方代码库，提供评测交互式 Agent 情�
 
 ```mermaid
 xychart-beta
-    title "InternLM/EMemBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "InternLM/EMemBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

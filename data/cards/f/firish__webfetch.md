@@ -1,6 +1,6 @@
 # firish/webfetch
 
-⭐ 60 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/firish/webfetch) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/firish/webfetch) · 个人维护
 
 **本地运行的 LLM 联网搜索工具：搜索→抓取→压缩流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "firish/webfetch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    title "firish/webfetch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 58 --> 62
+    line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-02 60（+1）
+2026-10-18 59 → 2026-11-17 61（+2）
 
 
 ---

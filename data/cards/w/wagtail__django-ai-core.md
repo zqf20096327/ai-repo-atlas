@@ -1,6 +1,6 @@
 # wagtail/django-ai-core
 
-⭐ 22 · Python · BSD-3-Clause · 推送 2026-08-04 · [GitHub](https://github.com/wagtail/django-ai-core) · [官网](https://django-ai-core.readthedocs.io/) · 组织维护
+⭐ 22 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/wagtail/django-ai-core) · [官网](https://django-ai-core.readthedocs.io/) · 组织维护
 
 **在 Django 站点中集成 AI 工具的开发者库（早期）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "wagtail/django-ai-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

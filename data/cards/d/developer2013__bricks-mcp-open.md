@@ -1,6 +1,6 @@
 # developer2013/bricks-mcp-open
 
-⭐ 92 · PHP · MIT · 推送 2026-09-09 · [GitHub](https://github.com/developer2013/bricks-mcp-open) · 个人维护
+⭐ 95 · PHP · MIT · 推送 2026-09-09 · [GitHub](https://github.com/developer2013/bricks-mcp-open) · 个人维护
 
 **Bricks Builder 的 MCP 服务器：让 AI 助手管理 WordPress 页面**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "developer2013/bricks-mcp-open 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "developer2013/bricks-mcp-open 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 91 --> 96
+    line [92, 94, 95, 95]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 95（+3）
 
 
 ---

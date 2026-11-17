@@ -1,6 +1,6 @@
 # quantamixsol/graqle
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/quantamixsol/graqle) · [官网](https://graqle.com) · 组织维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/quantamixsol/graqle) · [官网](https://graqle.com) · 组织维护
 
 **给 AI agent 提供持久组织记忆知识图谱与决策审计门**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quantamixsol/graqle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

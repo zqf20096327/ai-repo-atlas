@@ -1,6 +1,6 @@
 # ELDment/Meting-Agent
 
-⭐ 116 · JavaScript · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ELDment/Meting-Agent) · [官网](https://www.npmjs.com/package/@eldment/meting-agent) · 个人维护 · 中文 README
+⭐ 118 · JavaScript · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ELDment/Meting-Agent) · [官网](https://www.npmjs.com/package/@eldment/meting-agent) · 个人维护 · 中文 README
 
 **面向 AI 的多平台音乐 API 封装（MCP 服务与 Skill）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ELDment/Meting-Agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 111 --> 117
-    line [113, 112, 116, 116]
+    title "ELDment/Meting-Agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 111 --> 119
+    line [113, 112, 116, 112, 118, 118]
 ```
 
-2026-10-18 113 → 2026-11-02 116（+3）
+2026-10-18 113 → 2026-11-17 118（+5）
 
 
 ---

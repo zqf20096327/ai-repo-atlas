@@ -1,6 +1,6 @@
 # KartikLabhshetwar/lazycommit
 
-⭐ 236 · TypeScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/KartikLabhshetwar/lazycommit) · [官网](https://www.npmjs.com/package/lazycommitt) · 个人维护
+⭐ 235 · TypeScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/KartikLabhshetwar/lazycommit) · [官网](https://www.npmjs.com/package/lazycommitt) · 个人维护
 
 **用 AI 从暂存改动生成 git 提交信息的命令行工具**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 CLI（命令 lazycommit / lzc）：读取 Git 暂存区的 
 
 ```mermaid
 xychart-beta
-    title "KartikLabhshetwar/lazycommit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "KartikLabhshetwar/lazycommit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
     y-axis "stars" 234 --> 237
-    line [235, 236, 236]
+    line [235, 236, 235, 235]
 ```
 
-2026-10-18 235 → 2026-11-02 236（+1）
+2026-10-18 235 → 2026-11-17 235（+0）
 
 
 ---

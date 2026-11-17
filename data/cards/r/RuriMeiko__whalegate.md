@@ -1,6 +1,6 @@
 # RuriMeiko/whalegate
 
-⭐ 31 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/RuriMeiko/whalegate) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/RuriMeiko/whalegate) · 个人维护
 
 **把 DeepSeek 网页会话封装为 OpenAI 兼容 API 的 Rust 网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RuriMeiko/whalegate 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "RuriMeiko/whalegate 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 5 --> 33
-    line [7, 22, 23, 25, 27, 30, 31]
+    line [7, 22, 23, 25, 27, 30, 31, 7, 31, 31]
 ```
 
-2026-10-25 7 → 2026-11-02 31（+24）
+2026-10-25 7 → 2026-11-17 31（+24）
 
 
 ---

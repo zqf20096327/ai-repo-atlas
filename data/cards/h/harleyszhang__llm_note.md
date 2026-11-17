@@ -1,6 +1,6 @@
 # harleyszhang/llm_note
 
-⭐ 894 · Python · 推送 2026-08-19 · [GitHub](https://github.com/harleyszhang/llm_note) · 个人维护 · 中文 README
+⭐ 898 · Python · 推送 2026-08-19 · [GitHub](https://github.com/harleyszhang/llm_note) · 个人维护 · 中文 README
 
 **LLM 推理与高性能计算学习笔记库（含付费自制推理框架课程）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "harleyszhang/llm_note 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 891 --> 895
-    line [892, 893, 894, 894]
+    title "harleyszhang/llm_note 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 891 --> 899
+    line [892, 893, 894, 893, 896, 897, 898, 898]
 ```
 
-2026-10-18 892 → 2026-11-02 894（+2）
+2026-10-18 892 → 2026-11-17 898（+6）
 
 
 ---

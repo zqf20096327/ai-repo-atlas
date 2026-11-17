@@ -1,6 +1,6 @@
 # yangbobo2021/relay-dsh-plugin-codex
 
-⭐ 19 · JavaScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/yangbobo2021/relay-dsh-plugin-codex) · [官网](https://www.npmjs.com/package/relay-dsh-plugin-codex) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/yangbobo2021/relay-dsh-plugin-codex) · [官网](https://www.npmjs.com/package/relay-dsh-plugin-codex) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 接入 Codex 对话后端的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yangbobo2021/relay-dsh-plugin-codex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "yangbobo2021/relay-dsh-plugin-codex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

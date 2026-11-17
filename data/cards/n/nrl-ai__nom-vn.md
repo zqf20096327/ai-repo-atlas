@@ -1,6 +1,6 @@
 # nrl-ai/nom-vn
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/nrl-ai/nom-vn) · [官网](https://nom-vn.nrl.ai/) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/nrl-ai/nom-vn) · [官网](https://nom-vn.nrl.ai/) · 组织维护
 
 **越南语 AI 工具包：本地优先的越南语 RAG、OCR、声调恢复管线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nrl-ai/nom-vn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "nrl-ai/nom-vn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

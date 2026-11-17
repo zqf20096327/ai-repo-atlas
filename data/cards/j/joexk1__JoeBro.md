@@ -1,6 +1,6 @@
 # joexk1/JoeBro
 
-⭐ 93 · Swift · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/joexk1/JoeBro) · [官网](https://joexk1.github.io/joebro/) · 个人维护
+⭐ 94 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/joexk1/JoeBro) · [官网](https://joebro.pages.dev) · 个人维护
 
 **给个人用户的本地优先 macOS AI 工作区应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "joexk1/JoeBro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 89 --> 94
-    line [90, 91, 92, 93, 93]
+    title "joexk1/JoeBro 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 89 --> 95
+    line [90, 91, 92, 93, 90, 94, 94]
 ```
 
-2026-10-18 90 → 2026-11-02 93（+3）
+2026-10-18 90 → 2026-11-17 94（+4）
 
 
 ---

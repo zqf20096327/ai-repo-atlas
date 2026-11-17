@@ -1,6 +1,6 @@
 # RajjjAryan/career-copilot
 
-⭐ 43 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/RajjjAryan/career-copilot) · [官网](https://github.com/RajjjAryan/career-copilot) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/RajjjAryan/career-copilot) · [官网](https://github.com/RajjjAryan/career-copilot) · 个人维护
 
 **给求职者的 AI agent 驱动求职流水线：评估 offer、生成 CV、追踪申请**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "RajjjAryan/career-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "RajjjAryan/career-copilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

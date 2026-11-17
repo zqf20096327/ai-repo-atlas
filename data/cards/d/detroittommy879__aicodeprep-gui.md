@@ -1,6 +1,6 @@
 # detroittommy879/aicodeprep-gui
 
-⭐ 273 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/detroittommy879/aicodeprep-gui) · [官网](https://wuu73.org/aicp) · 个人维护
+⭐ 274 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/detroittommy879/aicodeprep-gui) · [官网](https://wuu73.org/aicp) · 个人维护
 
 **把选定项目文件打包成单个上下文块的桌面 GUI，供粘贴到 AI 对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "detroittommy879/aicodeprep-gui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 272 --> 274
-    line [273, 273]
+    title "detroittommy879/aicodeprep-gui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 272 --> 275
+    line [273, 274, 274]
 ```
 
-2026-10-18 273 → 2026-11-02 273（+0）
+2026-10-18 273 → 2026-11-17 274（+1）
 
 
 ---

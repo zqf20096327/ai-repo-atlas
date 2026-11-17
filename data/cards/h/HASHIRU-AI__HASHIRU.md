@@ -1,6 +1,6 @@
 # HASHIRU-AI/HASHIRU
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/HASHIRU-AI/HASHIRU) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/HASHIRU-AI/HASHIRU) · 组织维护
 
 **带预算管理的企业级多智能体框架：CEO agent 调度 agent 与工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HASHIRU-AI/HASHIRU 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
+    x-axis ["2026-10-30", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-30 20 → 2026-11-02 20（+0）
+2026-10-30 20 → 2026-11-17 20（+0）
 
 
 ---

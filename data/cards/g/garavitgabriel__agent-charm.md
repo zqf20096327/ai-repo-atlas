@@ -1,6 +1,6 @@
 # garavitgabriel/agent-charm
 
-⭐ 18 · C · MIT · 推送 2026-10-05 · [GitHub](https://github.com/garavitgabriel/agent-charm) · 个人维护
+⭐ 21 · C · MIT · 推送 2026-10-05 · [GitHub](https://github.com/garavitgabriel/agent-charm) · 个人维护
 
 **ESP32-S3 AMOLED 桌面挂件：按键对话你已有的 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "garavitgabriel/agent-charm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "garavitgabriel/agent-charm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 18（+2）
+2026-10-18 16 → 2026-11-17 21（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # mochilang/mochi
 
-⭐ 341 · Scheme · MIT · 推送 2026-06-01 · [GitHub](https://github.com/mochilang/mochi) · [官网](https://mochi-lang.dev) · 组织维护
+⭐ 340 · Scheme · MIT · 推送 2026-06-01 · [GitHub](https://github.com/mochilang/mochi) · [官网](https://mochi-lang.dev) · 组织维护
 
 **面向 agent 与 AI 的静态类型嵌入式编程语言**
 
@@ -46,13 +46,13 @@ Mochi 是一个小型静态类型编程语言，以零依赖单二进制形式�
 
 ```mermaid
 xychart-beta
-    title "mochilang/mochi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
+    title "mochilang/mochi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 337 --> 342
-    line [338, 340, 341, 341]
+    line [338, 340, 341, 340, 340]
 ```
 
-2026-10-18 338 → 2026-11-02 341（+3）
+2026-10-18 338 → 2026-11-17 340（+2）
 
 
 ---

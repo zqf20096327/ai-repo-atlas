@@ -1,6 +1,6 @@
 # imtt-dev/steer
 
-⭐ 134 · Python · MIT · 推送 2026-01-19 · [GitHub](https://github.com/imtt-dev/steer) · [官网](https://pypi.org/project/steer-sdk/) · 组织维护
+⭐ 135 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/imtt-dev/steer) · [官网](https://pypi.org/project/steer-sdk/) · 组织维护
 
 **AI Agent 输出拦截与可靠性策略层：拦截失败、教学修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imtt-dev/steer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    title "imtt-dev/steer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 133 --> 136
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-11-02 134（+0）
+2026-10-18 134 → 2026-11-17 135（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sayantan-2/comfyui_colab_Flux
 
-⭐ 14 · Jupyter Notebook · 推送 2026-01-04 · [GitHub](https://github.com/sayantan-2/comfyui_colab_Flux) · 个人维护
+⭐ 15 · Jupyter Notebook · 推送 2026-01-04 · [GitHub](https://github.com/sayantan-2/comfyui_colab_Flux) · 个人维护
 
 **在 Google Colab 免费版上运行 ComfyUI/Flux 出图的笔记本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sayantan-2/comfyui_colab_Flux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "sayantan-2/comfyui_colab_Flux 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

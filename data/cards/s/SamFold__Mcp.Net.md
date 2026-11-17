@@ -1,6 +1,6 @@
 # SamFold/Mcp.Net
 
-⭐ 37 · C# · MIT · 推送 2026-03-18 · [GitHub](https://github.com/SamFold/Mcp.Net) · 个人维护
+⭐ 38 · C# · MIT · 推送 2026-03-18 · [GitHub](https://github.com/SamFold/Mcp.Net) · 个人维护
 
 **给 .NET 开发者的 MCP 协议实现：构建 AI 工具服务端与客户端**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamFold/Mcp.Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "SamFold/Mcp.Net 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

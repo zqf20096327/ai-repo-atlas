@@ -1,6 +1,6 @@
 # LiuJunheng/DeepSeekHarnessGreen
 
-⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/LiuJunheng/DeepSeekHarnessGreen) · [官网](https://dsh-green.website/) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/LiuJunheng/DeepSeekHarnessGreen) · [官网](https://dsh-green.website/) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 封装成双击即用的 Windows 绿色桌面启动器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiuJunheng/DeepSeekHarnessGreen 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 17 --> 25
-    line [19, 18, 19, 20, 21, 22, 23, 24]
+    title "LiuJunheng/DeepSeekHarnessGreen 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 30
+    line [19, 18, 19, 20, 21, 22, 23, 24, 19, 28, 29, 29]
 ```
 
-2026-10-18 19 → 2026-11-02 24（+5）
+2026-10-18 19 → 2026-11-17 29（+10）
 
 
 ---

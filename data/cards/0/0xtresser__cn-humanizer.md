@@ -1,6 +1,6 @@
 # 0xtresser/cn-humanizer
 
-⭐ 17 · Shell · 推送 2026-03-10 · [GitHub](https://github.com/0xtresser/cn-humanizer) · 个人维护 · 中文 README
+⭐ 20 · Shell · 推送 2026-03-10 · [GitHub](https://github.com/0xtresser/cn-humanizer) · 个人维护 · 中文 README
 
 **去除中文 AI 写作痕迹、翻译去腔的 Agent Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xtresser/cn-humanizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "0xtresser/cn-humanizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 20（+4）
 
 
 ---

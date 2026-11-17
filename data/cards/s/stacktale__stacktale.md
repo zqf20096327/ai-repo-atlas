@@ -1,6 +1,6 @@
 # stacktale/stacktale
 
-⭐ 14 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/stacktale/stacktale) · [官网](https://stacktale.github.io/stacktale/) · 个人维护
+⭐ 17 · Java · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/stacktale/stacktale) · [官网](https://stacktale.github.io/stacktale/) · 个人维护
 
 **把 Java 错误日志转成 AI 可读报告的 Logback/Log4j2/JUL appender**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stacktale/stacktale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "stacktale/stacktale 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

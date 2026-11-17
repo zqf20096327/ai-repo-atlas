@@ -1,6 +1,6 @@
 # benedekrozemberczki/pytorch_geometric_temporal
 
-⭐ 2,996 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) · 个人维护
+⭐ 2,997 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) · 个人维护
 
 **面向研究者的时序图神经网络模型库：动态图深度学习扩展**
 
@@ -45,13 +45,13 @@ PyTorch Geometric 的时序（动态）扩展库，收录来自已发表论文�
 
 ```mermaid
 xychart-beta
-    title "benedekrozemberczki/pytorch_geometric_temporal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2991 --> 2997
-    line [2992, 2993, 2994, 2995, 2996, 2996]
+    title "benedekrozemberczki/pytorch_geometric_temporal 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 2991 --> 2999
+    line [2992, 2993, 2994, 2995, 2996, 2992, 2997, 2998, 2997, 2997]
 ```
 
-2026-10-18 2,992 → 2026-11-02 2,996（+4）
+2026-10-18 2,992 → 2026-11-17 2,997（+5）
 
 
 ---

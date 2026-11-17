@@ -1,6 +1,6 @@
 # Rishabh1925/foodvisionai
 
-⭐ 22 · TypeScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/Rishabh1925/foodvisionai) · [官网](https://foodvisionai.vercel.app) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/Rishabh1925/foodvisionai) · [官网](https://foodvisionai.vercel.app) · 个人维护
 
 **上传食物图片即可识别 101 类菜品的 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rishabh1925/foodvisionai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "Rishabh1925/foodvisionai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # talivia-group/agent
 
-⭐ 32 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/talivia-group/agent) · [官网](https://talivia.com/ai-agent-kit) · 组织维护
+⭐ 26 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/talivia-group/agent) · [官网](https://talivia.com/ai-agent-kit) · 组织维护
 
 **让 AI agent 安装并验证收入归因网站分析的 MCP 工具包**
 
@@ -45,13 +45,13 @@ Talivia 是收入优先的网站分析服务，本仓库为其 Agent Kit：通�
 
 ```mermaid
 xychart-beta
-    title "talivia-group/agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [34, 33, 32, 32]
+    title "talivia-group/agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 35
+    line [34, 33, 32, 26, 26]
 ```
 
-2026-10-18 34 → 2026-11-02 32（-2）
+2026-10-18 34 → 2026-11-17 26（-8）
 
 
 ---

@@ -1,6 +1,6 @@
 # daniel-code/TubeViT
 
-⭐ 94 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/daniel-code/TubeViT) · 个人维护
+⭐ 95 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/daniel-code/TubeViT) · 个人维护
 
 **TubeViT 视频分类模型的论文非官方 PyTorch 实现**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "daniel-code/TubeViT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "daniel-code/TubeViT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 96
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 95（+1）
 
 
 ---

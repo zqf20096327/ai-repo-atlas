@@ -1,6 +1,6 @@
 # xLabel/AutoPatch-J
 
-⭐ 21 · Python · 推送 2026-08-08 · [GitHub](https://github.com/xLabel/AutoPatch-J) · 个人维护 · 中文 README
+⭐ 21 · Python · 推送 2026-11-15 · [GitHub](https://github.com/xLabel/AutoPatch-J) · 个人维护 · 中文 README
 
 **面向 Java 仓库的代码修复 Agent：审阅问题并生成补丁**
 
@@ -45,12 +45,12 @@ AutoPatch-J 是针对 Java 仓库的代码修复 Agent，读取静态扫描产�
 ```mermaid
 xychart-beta
     title "xLabel/AutoPatch-J 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

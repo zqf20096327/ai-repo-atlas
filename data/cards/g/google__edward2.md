@@ -1,6 +1,6 @@
 # google/edward2
 
-⭐ 712 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google/edward2) · 组织维护
+⭐ 713 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google/edward2) · 组织维护
 
 **给研究者的轻量级概率编程语言，支持 TensorFlow/JAX/NumPy 后端**
 
@@ -44,13 +44,13 @@ Google 维护的 Python 概率编程库：用 RandomVariables 将概率模型写
 
 ```mermaid
 xychart-beta
-    title "google/edward2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 711 --> 713
-    line [712, 712]
+    title "google/edward2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 711 --> 714
+    line [712, 713, 713]
 ```
 
-2026-10-18 712 → 2026-11-02 712（+0）
+2026-10-18 712 → 2026-11-17 713（+1）
 
 
 ---

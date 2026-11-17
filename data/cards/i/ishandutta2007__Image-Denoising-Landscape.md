@@ -1,6 +1,6 @@
 # ishandutta2007/Image-Denoising-Landscape
 
-⭐ 18 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ishandutta2007/Image-Denoising-Landscape) · 个人维护
+⭐ 21 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ishandutta2007/Image-Denoising-Landscape) · 个人维护
 
 **图像去噪研究/模型/数据集/工具的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ishandutta2007/Image-Denoising-Landscape 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 18]
+    title "ishandutta2007/Image-Denoising-Landscape 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey
 
-⭐ 22 · Shell · MIT · 推送 2026-06-26 · [GitHub](https://github.com/NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey) · [官网](https://cachyos.org) · 个人维护
+⭐ 23 · Shell · MIT · 推送 2026-06-26 · [GitHub](https://github.com/NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey) · [官网](https://cachyos.org) · 个人维护
 
 **CachyOS 本地 AI Agent 环境搭建与系统调优指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 22, 22]
+    title "NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 22, 20, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

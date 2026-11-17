@@ -1,6 +1,6 @@
 # HoneyMeta/ccfingerprint
 
-⭐ 54 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/HoneyMeta/ccfingerprint) · [官网](https://honeymeta.com/ccfingerprint) · 组织维护 · 中文 README
+⭐ 63 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/HoneyMeta/ccfingerprint) · [官网](https://honeymeta.com/ccfingerprint) · 组织维护 · 中文 README
 
 **AI 模型身份指纹鉴定工具：探针作答+本地评分检测模型偷换降智**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HoneyMeta/ccfingerprint 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 46 --> 55
-    line [47, 49, 51, 52, 53, 54, 54]
+    title "HoneyMeta/ccfingerprint 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 46 --> 64
+    line [47, 49, 51, 52, 53, 54, 49, 57, 58, 59, 63, 63]
 ```
 
-2026-10-18 47 → 2026-11-02 54（+7）
+2026-10-18 47 → 2026-11-17 63（+16）
 
 
 ---

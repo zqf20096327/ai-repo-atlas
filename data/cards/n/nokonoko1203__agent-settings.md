@@ -1,6 +1,6 @@
 # nokonoko1203/agent-settings
 
-⭐ 92 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nokonoko1203/agent-settings) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Claude Code 与 Codex 的个人配置、规则、hook 与技能合集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nokonoko1203/agent-settings 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-23", "2026-11-12"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-23 92 → 2026-11-02 92（+0）
+2026-10-23 92 → 2026-11-12 92（+0）
 
 
 ---

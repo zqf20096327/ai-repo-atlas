@@ -1,6 +1,6 @@
 # open-world-project/model-router
 
-⭐ 32 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/open-world-project/model-router) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/open-world-project/model-router) · 组织维护
 
 **Hermes Agent 的成本感知模型路由插件：按轮次分档选模型**
 
@@ -44,13 +44,13 @@ Hermes Agent 的 Python 插件，在每轮对话前由分类器判定任务难�
 
 ```mermaid
 xychart-beta
-    title "open-world-project/model-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "open-world-project/model-router 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

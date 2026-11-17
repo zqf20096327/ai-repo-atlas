@@ -1,6 +1,6 @@
 # Icarus603/claude-code
 
-⭐ 27 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/Icarus603/claude-code) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Claude Code 的个人维护衍生版：单二进制终端编码 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Icarus603/claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-07 27（+0）
 
 
 ---

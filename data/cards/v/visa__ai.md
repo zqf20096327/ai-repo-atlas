@@ -1,6 +1,6 @@
 # visa/ai
 
-⭐ 46 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/visa/ai) · [官网](https://developer.visa.com/capabilities/visa-intelligent-commerce) · 组织维护
+⭐ 49 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/visa/ai) · [官网](https://developer.visa.com/capabilities/visa-intelligent-commerce) · 组织维护
 
 **连接 AI agent 与 Visa 智能商务平台的集成工具包**
 
@@ -45,13 +45,13 @@ Visa 官方维护的 AI 集成工具仓库：提供用于 Visa API 接入的可�
 
 ```mermaid
 xychart-beta
-    title "visa/ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "visa/ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 44 --> 50
+    line [45, 46, 45, 48, 49, 49]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 49（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # amiantos/inneal
 
-⭐ 46 · Swift · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/amiantos/inneal) · 个人维护
+⭐ 47 · Swift · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/amiantos/inneal) · 个人维护
 
 **面向 AI Horde 的 LLM 角色扮演聊天客户端（Apple 平台）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amiantos/inneal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "amiantos/inneal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

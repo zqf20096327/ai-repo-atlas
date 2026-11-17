@@ -1,6 +1,6 @@
 # josephkamau32/Telivus-AI
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/josephkamau32/Telivus-AI) · [官网](https://telivus.co.ke/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/josephkamau32/Telivus-AI) · [官网](https://telivus-gvf1x4vfg-joseph-kamaus-projects-ff2f6da1.vercel.app/) · 个人维护
 
 **AI 健康评估全栈平台：症状分析、追踪与报告生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "josephkamau32/Telivus-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

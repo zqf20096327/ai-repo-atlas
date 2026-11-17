@@ -1,6 +1,6 @@
 # fjgbue/claude-delegator-deepseek-mcp
 
-⭐ 48 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/fjgbue/claude-delegator-deepseek-mcp) · 个人维护
+⭐ 51 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/fjgbue/claude-delegator-deepseek-mcp) · 个人维护
 
 **Claude Code 的 MCP 委派服务器：把重 token 任务转给低价模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fjgbue/claude-delegator-deepseek-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 46, 48, 48]
+    title "fjgbue/claude-delegator-deepseek-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 45 --> 52
+    line [46, 47, 46, 48, 46, 49, 50, 51, 51]
 ```
 
-2026-10-18 46 → 2026-11-02 48（+2）
+2026-10-18 46 → 2026-11-17 51（+5）
 
 
 ---

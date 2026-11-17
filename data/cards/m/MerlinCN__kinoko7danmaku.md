@@ -1,6 +1,6 @@
 # MerlinCN/kinoko7danmaku
 
-⭐ 26 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/MerlinCN/kinoko7danmaku) · 个人维护 · 中文 README
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/MerlinCN/kinoko7danmaku) · 个人维护 · 中文 README
 
 **B 站直播弹幕 TTS 播报桌面工具：弹幕礼物实时转语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MerlinCN/kinoko7danmaku 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "MerlinCN/kinoko7danmaku 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 25（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gwaves/novel_reader
 
-⭐ 11 · JavaScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/gwaves/novel_reader) · 组织维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/gwaves/novel_reader) · 组织维护 · 中文 README
 
 **AI 原生长篇小说阅读器：知识图谱+RAG+多角色有声书**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gwaves/novel_reader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [12, 11, 11]
+    title "gwaves/novel_reader 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [12, 11, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 11（-1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

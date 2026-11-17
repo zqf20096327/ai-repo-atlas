@@ -1,6 +1,6 @@
 # nzy0510/AI-Interview
 
-⭐ 21 · Java · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/nzy0510/AI-Interview) · [官网](https://interwise.net.cn) · 个人维护 · 中文 README
+⭐ 22 · Java · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/nzy0510/AI-Interview) · [官网](https://interwise.net.cn) · 个人维护 · 中文 README
 
 **面向技术面试训练的可自部署 AI 模拟面试平台**
 
@@ -45,13 +45,13 @@ InterWise 是自部署的模拟面试系统，提供文字/视频面试、简历
 
 ```mermaid
 xychart-beta
-    title "nzy0510/AI-Interview 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "nzy0510/AI-Interview 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

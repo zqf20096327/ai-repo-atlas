@@ -1,6 +1,6 @@
 # TheLocalLab/ComfyUI-SongScribe
 
-⭐ 24 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/TheLocalLab/ComfyUI-SongScribe) · [官网](https://locallabdigest.com/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/TheLocalLab/ComfyUI-SongScribe) · [官网](https://locallabdigest.com/) · 个人维护
 
 **ComfyUI 音乐提示词节点：73 风格预设与歌曲分析，服务 MiniMax/YuE2**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheLocalLab/ComfyUI-SongScribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "TheLocalLab/ComfyUI-SongScribe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

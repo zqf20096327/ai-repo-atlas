@@ -1,6 +1,6 @@
 # jeffy5/comfyui-faceless-node
 
-⭐ 62 · Python · 推送 2026-04-03 · [GitHub](https://github.com/jeffy5/comfyui-faceless-node) · 个人维护
+⭐ 63 · Python · 推送 2026-04-03 · [GitHub](https://github.com/jeffy5/comfyui-faceless-node) · 个人维护
 
 **ComfyUI 换脸节点：图像/视频换脸与修复，基于 facefusion**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeffy5/comfyui-faceless-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "jeffy5/comfyui-faceless-node 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

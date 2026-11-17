@@ -1,6 +1,6 @@
 # GeminiLight/gen-mentor
 
-⭐ 135 · TypeScript · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/gen-mentor) · [官网](https://genmentor.aurax.live) · 组织维护
+⭐ 137 · TypeScript · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/gen-mentor) · [官网](https://genmentor.aurax.live) · 组织维护
 
 **面向学习者的目标导向 AI 辅导系统（WWW 2025 论文官方实现）**
 
@@ -44,13 +44,13 @@ GenMentor 是论文 "LLM-powered Multi-agent Framework for Goal-oriented Learnin
 
 ```mermaid
 xychart-beta
-    title "GeminiLight/gen-mentor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 132 --> 136
-    line [135, 133, 134, 135, 135]
+    title "GeminiLight/gen-mentor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 132 --> 138
+    line [135, 133, 134, 135, 133, 136, 137, 137]
 ```
 
-2026-10-18 135 → 2026-11-02 135（+0）
+2026-10-18 135 → 2026-11-17 137（+2）
 
 
 ---

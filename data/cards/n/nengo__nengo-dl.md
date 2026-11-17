@@ -1,6 +1,6 @@
 # nengo/nengo-dl
 
-⭐ 95 · Python · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/nengo/nengo-dl) · [官网](https://www.nengo.ai/nengo-dl) · 组织维护
+⭐ 96 · Python · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/nengo/nengo-dl) · [官网](https://www.nengo.ai/nengo-dl) · 组织维护
 
 **基于 TensorFlow 的 Nengo 脉冲神经网络模拟器与训练工具**
 
@@ -45,13 +45,13 @@ NengoDL 是 Nengo 神经网络模型的模拟器，底层使用 TensorFlow 执�
 
 ```mermaid
 xychart-beta
-    title "nengo/nengo-dl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    title "nengo/nengo-dl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 96, 96]
 ```
 
-2026-10-18 94 → 2026-11-02 95（+1）
+2026-10-18 94 → 2026-11-17 96（+2）
 
 
 ---

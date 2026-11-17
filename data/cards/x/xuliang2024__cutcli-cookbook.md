@@ -1,6 +1,6 @@
 # xuliang2024/cutcli-cookbook
 
-⭐ 201 · JavaScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/xuliang2024/cutcli-cookbook) · [官网](https://docs.cutcli.com) · 组织维护 · 中文 README
+⭐ 203 · JavaScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/xuliang2024/cutcli-cookbook) · [官网](https://docs.cutcli.com) · 组织维护 · 中文 README
 
 **cutcli 的官方食谱库：示例、JSON 模板与 AI 提示词，用于代码生成剪映草稿**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xuliang2024/cutcli-cookbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 198 --> 202
-    line [199, 200, 201, 201]
+    title "xuliang2024/cutcli-cookbook 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 198 --> 204
+    line [199, 200, 201, 200, 201, 203, 203]
 ```
 
-2026-10-18 199 → 2026-11-02 201（+2）
+2026-10-18 199 → 2026-11-17 203（+4）
 
 
 ---

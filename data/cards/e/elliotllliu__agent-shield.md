@@ -1,6 +1,6 @@
 # elliotllliu/agent-shield
 
-⭐ 16 · TypeScript · MIT · 推送 2026-03-18 · [GitHub](https://github.com/elliotllliu/agent-shield) · [官网](https://www.npmjs.com/package/@elliotllliu/agentshield) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-03-18 · [GitHub](https://github.com/elliotllliu/agent-shield) · [官网](https://www.npmjs.com/package/@elliotllliu/agentshield) · 个人维护 · 中文 README
 
 **AI agent/MCP/Skill 安全扫描器：13 引擎一次扫描一份报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elliotllliu/agent-shield 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "elliotllliu/agent-shield 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

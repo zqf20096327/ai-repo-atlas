@@ -1,6 +1,6 @@
 # Srivatsa03/rag-redteam
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Srivatsa03/rag-redteam) · [官网](https://pypi.org/project/rag-redteam/) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/Srivatsa03/rag-redteam) · [官网](https://pypi.org/project/rag-redteam/) · 个人维护
 
 **面向开发者的 RAG 管线红队安全测试工具，在 CI 中运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Srivatsa03/rag-redteam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-02"]
+    title "Srivatsa03/rag-redteam 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    line [28, 29, 30, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

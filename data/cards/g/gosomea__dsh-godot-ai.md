@@ -1,6 +1,6 @@
 # gosomea/dsh-godot-ai
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/gosomea/dsh-godot-ai) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/gosomea/dsh-godot-ai) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 加 Godot Creator 模式，AI 搭建并验证 Godot 游戏**
 
@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）的插件包，新增一个 Godot Creator 预设：用�
 
 ```mermaid
 xychart-beta
-    title "gosomea/dsh-godot-ai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 14, 15, 16, 17, 18, 18]
+    title "gosomea/dsh-godot-ai 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 23
+    line [12, 13, 14, 15, 16, 17, 18, 15, 21, 20, 21, 20, 22, 22]
 ```
 
-2026-10-18 12 → 2026-11-02 18（+6）
+2026-10-18 12 → 2026-11-17 22（+10）
 
 
 ---

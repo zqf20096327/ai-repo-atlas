@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "minusxai/minusx-metabase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 350 --> 352
-    line [351, 351]
+    title "minusxai/minusx-metabase 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 349 --> 352
+    line [351, 350, 351, 351]
 ```
 
-2026-10-18 351 → 2026-11-02 351（+0）
+2026-10-18 351 → 2026-11-17 351（+0）
 
 
 ---

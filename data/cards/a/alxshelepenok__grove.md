@@ -1,6 +1,6 @@
 # alxshelepenok/grove
 
-⭐ 30 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/alxshelepenok/grove) · 个人维护
+⭐ 32 · Rust · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/alxshelepenok/grove) · 个人维护
 
 **面向 AI 编码代理的机器强制工作流协议，任务需可验证证据才能关闭**
 
@@ -45,13 +45,13 @@ Grove 是一套约束 AI 编码代理的工作流协议：将项目状态组织�
 
 ```mermaid
 xychart-beta
-    title "alxshelepenok/grove 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 29, 30, 30]
+    title "alxshelepenok/grove 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 29, 30, 29, 30, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

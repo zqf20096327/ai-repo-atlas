@@ -1,6 +1,6 @@
 # pepe-agent/pepe
 
-⭐ 71 · Elixir · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pepe-agent/pepe) · [官网](https://pepe-agent.com) · 个人维护
+⭐ 74 · Elixir · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pepe-agent/pepe) · [官网](https://pepe-agent.com) · 个人维护
 
 **Elixir/OTP 自托管 AI agent 运行时：定义 agent 并执行工具调用循环**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pepe-agent/pepe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 68 --> 72
-    line [69, 70, 71, 71]
+    title "pepe-agent/pepe 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 68 --> 75
+    line [69, 70, 71, 69, 73, 74, 74]
 ```
 
-2026-10-18 69 → 2026-11-02 71（+2）
+2026-10-18 69 → 2026-11-17 74（+5）
 
 
 ---

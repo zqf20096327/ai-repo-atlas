@@ -1,6 +1,6 @@
 # Sermilion/SkillBill
 
-⭐ 46 · Kotlin · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Sermilion/SkillBill) · [官网](https://skillbill.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI 编码 agent 的治理化功能工作流运行时：Issue 进、已审查 PR 出**
 
@@ -11,7 +11,7 @@ Skill Bill 是面向 AI 编码 agent 的技能与运行时：安装单个 `/skil
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Skill Bill 是面向 AI 编码 agent 的技能与运行时：安装单个 `/skil
 
 ```mermaid
 xychart-beta
-    title "Sermilion/SkillBill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Sermilion/SkillBill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    line [45, 46, 45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-10 46（+1）
 
 
 ---

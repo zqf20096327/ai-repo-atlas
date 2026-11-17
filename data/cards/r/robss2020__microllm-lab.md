@@ -1,6 +1,6 @@
 # robss2020/microllm-lab
 
-⭐ 53 · JavaScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/robss2020/microllm-lab) · 个人维护
+⭐ 54 · JavaScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/robss2020/microllm-lab) · 个人维护
 
 **在浏览器 WebGPU 里运行 Q4 量化小语言模型的实验台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "robss2020/microllm-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "robss2020/microllm-lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

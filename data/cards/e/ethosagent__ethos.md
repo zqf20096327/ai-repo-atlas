@@ -1,6 +1,6 @@
 # ethosagent/ethos
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ethosagent/ethos) · [官网](https://ethosagent.ai) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ethosagent/ethos) · [官网](https://ethosagent.ai) · 组织维护
 
 **TypeScript AI agent 框架：以人格为单位构建多平台运行的专业 agent 团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethosagent/ethos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "ethosagent/ethos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

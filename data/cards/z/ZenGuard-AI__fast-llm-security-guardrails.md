@@ -1,6 +1,6 @@
 # ZenGuard-AI/fast-llm-security-guardrails
 
-⭐ 155 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) · [官网](https://zenguard.ai/) · 组织维护
+⭐ 154 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) · [官网](https://zenguard.ai/) · 组织维护
 
 **面向 AI Agent 的实时安全防护层：检测提示注入/越狱/PII 泄露**
 
@@ -44,13 +44,13 @@ ZenGuard 提供面向 AI Agent 运行时的信任层 SDK，通过检测器在运
 
 ```mermaid
 xychart-beta
-    title "ZenGuard-AI/fast-llm-security-guardrails 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 154 --> 156
-    line [155, 155]
+    title "ZenGuard-AI/fast-llm-security-guardrails 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 153 --> 156
+    line [155, 154, 154]
 ```
 
-2026-10-18 155 → 2026-11-02 155（+0）
+2026-10-18 155 → 2026-11-17 154（-1）
 
 
 ---

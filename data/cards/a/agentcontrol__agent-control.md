@@ -1,6 +1,6 @@
 # agentcontrol/agent-control
 
-⭐ 332 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/agentcontrol/agent-control) · [官网](https://agentcontrol.dev) · 组织维护
+⭐ 337 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/agentcontrol/agent-control) · [官网](https://agentcontrol.dev) · 组织维护
 
 **给多 Agent 系统的集中式运行时护栏控制平面**
 
@@ -46,13 +46,13 @@ Agent Control 是一个集中式安全控制层：在不修改 agent 代码的�
 
 ```mermaid
 xychart-beta
-    title "agentcontrol/agent-control 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 327 --> 333
-    line [328, 329, 330, 332, 332]
+    title "agentcontrol/agent-control 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 327 --> 338
+    line [328, 329, 330, 332, 330, 333, 335, 336, 337, 337]
 ```
 
-2026-10-18 328 → 2026-11-02 332（+4）
+2026-10-18 328 → 2026-11-17 337（+9）
 
 
 ---

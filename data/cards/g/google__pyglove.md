@@ -1,6 +1,6 @@
 # google/pyglove
 
-⭐ 722 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google/pyglove) · 组织维护
+⭐ 724 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google/pyglove) · 组织维护
 
 **Python 对象操控库：符号化编程支撑 AutoML 与程序搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/pyglove 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 721 --> 723
-    line [722, 722]
+    title "google/pyglove 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 721 --> 725
+    line [722, 724, 724]
 ```
 
-2026-10-18 722 → 2026-11-02 722（+0）
+2026-10-18 722 → 2026-11-17 724（+2）
 
 
 ---

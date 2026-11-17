@@ -1,6 +1,6 @@
 # basilevh/gcd
 
-⭐ 295 · Python · GPL-3.0 · 推送 2025-11-18 · [GitHub](https://github.com/basilevh/gcd) · [官网](https://gcd.cs.columbia.edu/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **单目动态新视角合成的生成式相机滑轨模型官方实现**
 
@@ -11,7 +11,7 @@ ECCV 2024 Oral 论文 Generative Camera Dolly 的官方 Python 实现：基于 S
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ ECCV 2024 Oral 论文 Generative Camera Dolly 的官方 Python 实现：基于 S
 
 ```mermaid
 xychart-beta
-    title "basilevh/gcd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 293 --> 296
-    line [294, 295, 295]
+    title "basilevh/gcd 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13"]
+    y-axis "stars" 293 --> 298
+    line [294, 295, 296, 297]
 ```
 
-2026-10-18 294 → 2026-11-02 295（+1）
+2026-10-18 294 → 2026-11-13 297（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # john-rocky/coreai-model-zoo
 
-⭐ 464 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/john-rocky/coreai-model-zoo) · [官网](https://john-rocky.github.io/coreai-model-zoo/) · 个人维护
+⭐ 466 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/john-rocky/coreai-model-zoo) · [官网](https://john-rocky.github.io/coreai-model-zoo/) · 个人维护
 
 **Apple Core AI 模型动物园：可下载模型与转换配方及验证记录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/coreai-model-zoo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 459 --> 466
-    line [460, 461, 462, 464, 465, 464, 464]
+    title "john-rocky/coreai-model-zoo 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 459 --> 467
+    line [460, 461, 462, 464, 465, 464, 465, 466, 465, 466, 466]
 ```
 
-2026-10-18 460 → 2026-11-02 464（+4）
+2026-10-18 460 → 2026-11-17 466（+6）
 
 
 ---

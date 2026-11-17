@@ -1,6 +1,6 @@
 # m-zenker/ha-energy-forecast
 
-⭐ 21 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/m-zenker/ha-energy-forecast) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/m-zenker/ha-energy-forecast) · 个人维护
 
 **Home Assistant 用电预测应用：48 小时家庭耗电 ML 预报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m-zenker/ha-energy-forecast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # securade/hub
 
-⭐ 296 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/securade/hub) · [官网](https://securadeai.com) · 组织维护
+⭐ 297 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/securade/hub) · [官网](https://securadeai.com) · 组织维护
 
 **接驳现有 CCTV 的边缘计算机视觉平台，做安全事件检测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "securade/hub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 292 --> 297
-    line [293, 295, 296, 296]
+    title "securade/hub 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 292 --> 298
+    line [293, 295, 296, 293, 296, 297, 297]
 ```
 
-2026-10-18 293 → 2026-11-02 296（+3）
+2026-10-18 293 → 2026-11-17 297（+4）
 
 
 ---

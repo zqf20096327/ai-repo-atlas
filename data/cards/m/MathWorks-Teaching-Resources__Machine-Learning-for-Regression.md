@@ -1,6 +1,6 @@
 # MathWorks-Teaching-Resources/Machine-Learning-for-Regression
 
-⭐ 24 · MATLAB · BSD-3-Clause · 推送 2026-09-25 · [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression) · 组织维护
+⭐ 24 · MATLAB · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression) · 组织维护
 
 **MATLAB 交互式回归机器学习教学模块（4 个 live script）**
 
@@ -46,12 +46,12 @@ MathWorks 教学资源库的课程模块，含 4 个交互式 MATLAB live script
 ```mermaid
 xychart-beta
     title "MathWorks-Teaching-Resources/Machine-Learning-for-Regression 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

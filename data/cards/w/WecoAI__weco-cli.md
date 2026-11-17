@@ -1,6 +1,6 @@
 # WecoAI/weco-cli
 
-⭐ 119 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/WecoAI/weco-cli) · [官网](https://weco.ai) · 组织维护
+⭐ 125 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/WecoAI/weco-cli) · [官网](https://weco.ai) · 组织维护
 
 **LLM 引导的代码自动优化 CLI，按评估指标迭代改进代码**
 
@@ -46,13 +46,13 @@ Weco CLI 通过 LLM 引导的树搜索迭代优化用户代码：自动应用改
 
 ```mermaid
 xychart-beta
-    title "WecoAI/weco-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 116 --> 120
-    line [117, 118, 119, 119]
+    title "WecoAI/weco-cli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 116 --> 126
+    line [117, 118, 119, 118, 124, 125, 125]
 ```
 
-2026-10-18 117 → 2026-11-02 119（+2）
+2026-10-18 117 → 2026-11-17 125（+8）
 
 
 ---

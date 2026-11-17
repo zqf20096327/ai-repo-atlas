@@ -1,6 +1,6 @@
 # hddevteam/smart-form-filler
 
-⭐ 46 · JavaScript · ISC · 推送 2026-06-30 · [GitHub](https://github.com/hddevteam/smart-form-filler) · [官网](https://hddevteam.github.io/smart-form-filler/) · 组织维护 · 中文 README
+⭐ 47 · JavaScript · ISC · 推送 2026-06-30 · [GitHub](https://github.com/hddevteam/smart-form-filler) · [官网](https://hddevteam.github.io/smart-form-filler/) · 组织维护 · 中文 README
 
 **AI 驱动的浏览器扩展：网页数据提取与自动填表**
 
@@ -46,13 +46,13 @@ Chrome/Chromium 浏览器扩展，用 AI 完成网页结构化数据提取与表
 
 ```mermaid
 xychart-beta
-    title "hddevteam/smart-form-filler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "hddevteam/smart-form-filler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 45, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

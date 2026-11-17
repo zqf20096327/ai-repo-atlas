@@ -1,6 +1,6 @@
 # bifrost-proxy/bifrost
 
-⭐ 167 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bifrost-proxy/bifrost) · [官网](https://bifrost-proxy.github.io/) · 组织维护 · 中文 README
+⭐ 170 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/bifrost-proxy/bifrost) · [官网](https://bifrost-proxy.github.io/) · 组织维护 · 中文 README
 
 **Rust 编写的 HTTP/HTTPS/SOCKS5 代理服务器，带 Web UI 与 Agent 技能**
 
@@ -46,13 +46,13 @@ Bifrost 是用 Rust（Tokio + Hyper）编写的代理服务器，灵感来源于
 
 ```mermaid
 xychart-beta
-    title "bifrost-proxy/bifrost 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 162 --> 168
-    line [163, 165, 166, 167, 167]
+    title "bifrost-proxy/bifrost 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 162 --> 171
+    line [163, 165, 166, 167, 165, 168, 169, 170, 170]
 ```
 
-2026-10-18 163 → 2026-11-02 167（+4）
+2026-10-18 163 → 2026-11-17 170（+7）
 
 
 ---

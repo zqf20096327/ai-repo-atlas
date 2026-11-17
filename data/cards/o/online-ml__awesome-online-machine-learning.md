@@ -1,6 +1,6 @@
 # online-ml/awesome-online-machine-learning
 
-⭐ 634 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/online-ml/awesome-online-machine-learning) · 组织维护
+⭐ 636 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/online-ml/awesome-online-machine-learning) · 组织维护
 
 **在线机器学习资源策展清单：课程/软件/论文聚合**
 
@@ -45,13 +45,13 @@ Awesome 系列的在线机器学习（online machine learning）资源清单：�
 
 ```mermaid
 xychart-beta
-    title "online-ml/awesome-online-machine-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 632 --> 635
-    line [633, 634, 634]
+    title "online-ml/awesome-online-machine-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 632 --> 637
+    line [633, 634, 633, 635, 636, 636]
 ```
 
-2026-10-18 633 → 2026-11-02 634（+1）
+2026-10-18 633 → 2026-11-17 636（+3）
 
 
 ---

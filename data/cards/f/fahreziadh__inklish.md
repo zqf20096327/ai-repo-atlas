@@ -1,6 +1,6 @@
 # fahreziadh/inklish
 
-⭐ 30 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/fahreziadh/inklish) · [官网](https://fahrezi.fyi/inklish) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/fahreziadh/inklish) · [官网](https://fahrezi.fyi/inklish) · 个人维护
 
 **BYOK 英语写作练习应用：在邮件/Slack/GitHub 等场景与 AI 对练并获逐句指导**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fahreziadh/inklish 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "fahreziadh/inklish 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

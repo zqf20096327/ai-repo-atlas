@@ -1,6 +1,6 @@
 # huggingface/data-is-better-together
 
-⭐ 276 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/data-is-better-together) · 组织维护
+⭐ 277 · Jupyter Notebook · 推送 2026-11-03 · [GitHub](https://github.com/huggingface/data-is-better-together) · 组织维护
 
 **社区共建数据集协作计划：共同构建高质量数据集与指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/data-is-better-together 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 275 --> 277
-    line [276, 276]
+    title "huggingface/data-is-better-together 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 275 --> 278
+    line [276, 277, 277]
 ```
 
-2026-10-18 276 → 2026-11-02 276（+0）
+2026-10-18 276 → 2026-11-17 277（+1）
 
 
 ---

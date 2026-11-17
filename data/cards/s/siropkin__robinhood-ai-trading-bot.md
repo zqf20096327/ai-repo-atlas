@@ -1,6 +1,6 @@
 # siropkin/robinhood-ai-trading-bot
 
-⭐ 131 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/siropkin/robinhood-ai-trading-bot) · [官网](https://goodbotty.bsky.social) · 个人维护
+⭐ 135 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/siropkin/robinhood-ai-trading-bot) · [官网](https://goodbotty.bsky.social) · 个人维护
 
 **用 OpenAI 分析 RSI/VWAP 等指标并自动执行 Robinhood 交易的脚本**
 
@@ -44,13 +44,13 @@ Python 脚本：从 Robinhood 账户读取自选股与持仓数据，计算 RSI�
 
 ```mermaid
 xychart-beta
-    title "siropkin/robinhood-ai-trading-bot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 128 --> 132
-    line [129, 130, 131, 131]
+    title "siropkin/robinhood-ai-trading-bot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 128 --> 136
+    line [129, 130, 131, 130, 133, 134, 135, 135]
 ```
 
-2026-10-18 129 → 2026-11-02 131（+2）
+2026-10-18 129 → 2026-11-17 135（+6）
 
 
 ---

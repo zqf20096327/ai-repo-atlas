@@ -1,6 +1,6 @@
 # gongnyang/deck-factory
 
-⭐ 78 · CSS · MIT · 推送 2026-07-15 · [GitHub](https://github.com/gongnyang/deck-factory) · [官网](https://github.com/kimsh-1/deck-factory) · 个人维护 · 中文 README
+⭐ 83 · CSS · MIT · 推送 2026-07-15 · [GitHub](https://github.com/gongnyang/deck-factory) · [官网](https://github.com/kimsh-1/deck-factory) · 个人维护 · 中文 README
 
 **Claude Code 技能：一句话生成编辑风格 HTML 演示文稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gongnyang/deck-factory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "gongnyang/deck-factory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 77 --> 84
+    line [78, 79, 80, 83, 83]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 83（+5）
 
 
 ---

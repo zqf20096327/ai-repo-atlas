@@ -1,6 +1,6 @@
 # MattFiler/OpenCAGE
 
-⭐ 358 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/MattFiler/OpenCAGE) · [官网](http://opencage.co.uk) · 个人维护
+⭐ 365 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MattFiler/OpenCAGE) · [官网](http://opencage.co.uk) · 个人维护
 
 **《异形：隔离》开源模组工具箱：改脚本/配置/资产/行为树**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MattFiler/OpenCAGE 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 354 --> 359
-    line [355, 356, 357, 358, 358]
+    title "MattFiler/OpenCAGE 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 354 --> 366
+    line [355, 356, 357, 358, 356, 361, 364, 365, 365]
 ```
 
-2026-10-18 355 → 2026-11-02 358（+3）
+2026-10-18 355 → 2026-11-17 365（+10）
 
 
 ---

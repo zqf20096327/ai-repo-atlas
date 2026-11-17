@@ -1,6 +1,6 @@
 # noworneverev/graphrag-visualizer
 
-⭐ 429 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/noworneverev/graphrag-visualizer) · [官网](https://noworneverev.github.io/graphrag-visualizer/) · 个人维护
+⭐ 430 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/noworneverev/graphrag-visualizer) · [官网](https://noworneverev.github.io/graphrag-visualizer/) · 个人维护
 
 **可视化探索 Microsoft GraphRAG 产物的网页工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "noworneverev/graphrag-visualizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 427 --> 430
-    line [428, 429, 429]
+    title "noworneverev/graphrag-visualizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 427 --> 431
+    line [428, 429, 430, 430]
 ```
 
-2026-10-18 428 → 2026-11-02 429（+1）
+2026-10-18 428 → 2026-11-17 430（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W
 
-⭐ 50 · 推送 2026-09-02 · [GitHub](https://github.com/Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W) · 个人维护
+⭐ 51 · 推送 2026-09-02 · [GitHub](https://github.com/Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W) · 个人维护
 
 **树莓派 Zero 2 W 上部署本地 LLM 的教程指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50, 50]
+    title "Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 49, 50, 49, 50, 51, 51]
 ```
 
-2026-10-18 47 → 2026-11-02 50（+3）
+2026-10-18 47 → 2026-11-17 51（+4）
 
 
 ---

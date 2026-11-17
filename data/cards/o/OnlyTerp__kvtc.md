@@ -1,6 +1,6 @@
 # OnlyTerp/kvtc
 
-⭐ 24 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/OnlyTerp/kvtc) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/OnlyTerp/kvtc) · 个人维护
 
 **NVIDIA KVTC 首个开源实现：PCA+自适应量化+熵编码压缩 LLM KV 缓存**
 
@@ -45,13 +45,13 @@ KV 缓存张量压缩库，复现 NVIDIA 论文（arXiv 2511.01815, ICLR 2026）
 
 ```mermaid
 xychart-beta
-    title "OnlyTerp/kvtc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "OnlyTerp/kvtc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

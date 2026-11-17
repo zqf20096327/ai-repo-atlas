@@ -1,6 +1,6 @@
 # openai/openai-developers-for-cursor
 
-⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/openai/openai-developers-for-cursor) · 组织维护
+⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/openai/openai-developers-for-cursor) · 组织维护
 
 **面向 Cursor 的 OpenAI 开发者工作流插件包（MCP+技能）**
 
@@ -43,13 +43,13 @@ OpenAI 官方发布的 Cursor 插件：捆绑公开的 OpenAI Docs MCP server �
 
 ```mermaid
 xychart-beta
-    title "openai/openai-developers-for-cursor 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-11-02"]
+    title "openai/openai-developers-for-cursor 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 11, 13, 13]
 ```
 
-2026-10-22 11 → 2026-11-02 13（+2）
+2026-10-22 11 → 2026-11-17 13（+2）
 
 
 ---

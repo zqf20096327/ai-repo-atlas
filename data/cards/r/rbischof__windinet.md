@@ -1,6 +1,6 @@
 # rbischof/windinet
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/rbischof/windinet) · [官网](https://rbischof.github.io/windinet_web/) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/rbischof/windinet) · [官网](https://rbischof.github.io/windinet_web/) · 个人维护
 
 **用视频扩散模型替代 CFD，秒级生成城市风流场仿真**
 
@@ -44,13 +44,13 @@ WinDiNet 将 LTX-Video 视频扩散 Transformer 微调为 CFD 的可微替代模
 
 ```mermaid
 xychart-beta
-    title "rbischof/windinet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 15, 15]
+    title "rbischof/windinet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 15, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

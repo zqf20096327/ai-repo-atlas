@@ -1,6 +1,6 @@
 # Drapegnik/notes
 
-⭐ 18 · 推送 2025-11-15 · [GitHub](https://github.com/Drapegnik/notes) · [官网](https://drapegnik.github.io/notes/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人编程与机器学习笔记、文章与课程收藏集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Drapegnik/notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-10 18（+0）
 
 
 ---

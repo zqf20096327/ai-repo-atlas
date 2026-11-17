@@ -1,6 +1,6 @@
 # ai4os/DEEPaaS
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/ai4os/DEEPaaS) · [官网](https://deepaas.readthedocs.io) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ai4os/DEEPaaS) · [官网](https://deepaas.readthedocs.io) · 组织维护
 
 **为机器学习/深度学习模型提供 REST API 服务层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai4os/DEEPaaS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # The-AgenticFlow/openflows
 
-⭐ 45 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/The-AgenticFlow/openflows) · [官网](https://openflows.dev) · 组织维护
+⭐ 51 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/The-AgenticFlow/openflows) · [官网](https://openflows.dev) · 组织维护
 
 **在自托管 Coder 上运行的自治 AI 开发团队：GitHub issue 转合并 PR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-AgenticFlow/openflows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    title "The-AgenticFlow/openflows 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 43 --> 52
+    line [44, 45, 44, 45, 51, 51]
 ```
 
-2026-10-18 44 → 2026-11-02 45（+1）
+2026-10-18 44 → 2026-11-17 51（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # vasikmansuri/universal-calling-agent-toolkit
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vasikmansuri/universal-calling-agent-toolkit) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/vasikmansuri/universal-calling-agent-toolkit) · 个人维护
 
 **语音通话 agent 的提供商中立工具包：电话适配、音频管线、邮箱捕获、STT 与 RAG**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vasikmansuri/universal-calling-agent-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "vasikmansuri/universal-calling-agent-toolkit 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 3 --> 14
-    line [4, 5, 13, 13]
+    line [4, 5, 13, 4, 13, 13]
 ```
 
-2026-10-24 4 → 2026-11-02 13（+9）
+2026-10-24 4 → 2026-11-17 13（+9）
 
 
 ---

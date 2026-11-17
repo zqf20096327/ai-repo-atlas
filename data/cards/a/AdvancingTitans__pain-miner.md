@@ -1,6 +1,6 @@
 # AdvancingTitans/pain-miner
 
-⭐ 13 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/AdvancingTitans/pain-miner) · 组织维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/AdvancingTitans/pain-miner) · 组织维护 · 中文 README
 
 **从社区热帖挖用户痛点、产出微型产品创意证据的 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdvancingTitans/pain-miner 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "AdvancingTitans/pain-miner 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 13, 12, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 17（+6）
 
 
 ---

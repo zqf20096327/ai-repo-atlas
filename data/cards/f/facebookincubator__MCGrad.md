@@ -1,6 +1,6 @@
 # facebookincubator/MCGrad
 
-⭐ 52 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/facebookincubator/MCGrad) · [官网](https://mcgrad.dev) · 组织维护
+⭐ 53 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/facebookincubator/MCGrad) · [官网](https://mcgrad.dev) · 组织维护
 
 **面向 ML 从业者的多校准库：修正模型在各子群体上的概率校准偏差**
 
@@ -44,13 +44,13 @@ Python 多校准（multicalibration）工具库：在全局校准之外，自动
 
 ```mermaid
 xychart-beta
-    title "facebookincubator/MCGrad 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "facebookincubator/MCGrad 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 51 --> 54
-    line [53, 52, 52]
+    line [53, 52, 53, 52, 53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 52（-1）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

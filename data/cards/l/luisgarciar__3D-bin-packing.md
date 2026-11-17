@@ -1,6 +1,6 @@
 # luisgarciar/3D-bin-packing
 
-⭐ 69 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/luisgarciar/3D-bin-packing) · 个人维护
+⭐ 67 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/luisgarciar/3D-bin-packing) · 个人维护
 
 **用强化学习求解三维装箱问题的 Gymnasium 环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "luisgarciar/3D-bin-packing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "luisgarciar/3D-bin-packing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 66 --> 70
+    line [69, 68, 67, 67]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 67（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # changkun/wallfacer
 
-⭐ 113 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/changkun/wallfacer) · 个人维护
+⭐ 115 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/changkun/wallfacer) · 个人维护
 
 **本地运行的自主工程平台：协调 AI agent 完成聊天、规格、任务到代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "changkun/wallfacer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 112 --> 114
-    line [113, 113]
+    title "changkun/wallfacer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 112 --> 116
+    line [113, 115, 115]
 ```
 
-2026-10-18 113 → 2026-11-02 113（+0）
+2026-10-18 113 → 2026-11-17 115（+2）
 
 
 ---

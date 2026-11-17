@@ -1,6 +1,6 @@
 # john-rocky/swift-litert-lm
 
-⭐ 31 · Swift · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/john-rocky/swift-litert-lm) · [官网](https://john-rocky.github.io/) · 个人维护
+⭐ 32 · Swift · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/john-rocky/swift-litert-lm) · [官网](https://john-rocky.github.io/) · 个人维护
 
 **在 iPhone 上运行 Gemma 4 的 Swift 包：Metal GPU、多模态、FM 后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/swift-litert-lm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "john-rocky/swift-litert-lm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

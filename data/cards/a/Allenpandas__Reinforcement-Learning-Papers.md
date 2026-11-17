@@ -1,6 +1,6 @@
 # Allenpandas/Reinforcement-Learning-Papers
 
-⭐ 368 · MIT · 推送 2025-11-08 · [GitHub](https://github.com/Allenpandas/Reinforcement-Learning-Papers) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **顶会强化学习论文清单：多智能体RL等方向按会议收录**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Allenpandas/Reinforcement-Learning-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-07"]
     y-axis "stars" 367 --> 370
     line [369, 368, 368]
 ```
 
-2026-10-18 369 → 2026-11-02 368（-1）
+2026-10-18 369 → 2026-11-07 368（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mishgoldenberg/claude-mods
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mishgoldenberg/claude-mods) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mishgoldenberg/claude-mods) · 个人维护
 
 **给 Claude Code 用户：面板、防护栏与体验增强插件集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mishgoldenberg/claude-mods 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 11, 12, 12]
+    title "mishgoldenberg/claude-mods 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 11, 12, 10, 13, 14, 14]
 ```
 
-2026-10-18 9 → 2026-11-02 12（+3）
+2026-10-18 9 → 2026-11-17 14（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # lobehub/fluent-emoji
 
-⭐ 85 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/fluent-emoji) · [官网](https://fluent-emoji.lobehub.com) · 组织维护
+⭐ 86 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/fluent-emoji) · [官网](https://fluent-emoji.lobehub.com) · 组织维护
 
 **渲染微软 Fluent Emoji 的 React 组件，CDN 按需加载**
 
@@ -44,13 +44,13 @@ LobeHub 维护的 React 组件库：以单一组件渲染 Microsoft Fluent Emoji
 
 ```mermaid
 xychart-beta
-    title "lobehub/fluent-emoji 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "lobehub/fluent-emoji 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 84, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nim444/mcp-android-server-python
 
-⭐ 59 · Python · MIT · 推送 2025-11-21 · [GitHub](https://github.com/nim444/mcp-android-server-python) · 个人维护
+⭐ 60 · Python · MIT · 推送 2025-11-21 · [GitHub](https://github.com/nim444/mcp-android-server-python) · 个人维护
 
 **用自然语言控制 Android 设备的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nim444/mcp-android-server-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    title "nim444/mcp-android-server-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 60, 60]
 ```
 
-2026-10-18 58 → 2026-11-02 59（+1）
+2026-10-18 58 → 2026-11-17 60（+2）
 
 
 ---

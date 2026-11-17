@@ -1,6 +1,6 @@
 # Giton22/kyllene
 
-⭐ 224 · Kotlin · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Giton22/kyllene) · [官网](https://kyllene.app) · 个人维护
+⭐ 293 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Giton22/kyllene) · [官网](https://kyllene.app) · 个人维护
 
 **Hermes Agent 的非官方 Android 原生聊天客户端**
 
@@ -45,13 +45,13 @@ Kotlin Multiplatform 编写的 Hermes Agent 移动客户端：直连用户自托
 
 ```mermaid
 xychart-beta
-    title "Giton22/kyllene 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 209 --> 225
-    line [210, 215, 224]
+    title "Giton22/kyllene 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 202 --> 301
+    line [210, 215, 224, 264, 271, 275, 281, 282, 287, 289, 293, 293]
 ```
 
-2026-10-31 210 → 2026-11-02 224（+14）
+2026-10-31 210 → 2026-11-17 293（+83）
 
 
 ---

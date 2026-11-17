@@ -1,6 +1,6 @@
 # thuml/Neural-Solver-Library
 
-⭐ 348 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/thuml/Neural-Solver-Library) · 组织维护
+⭐ 351 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/thuml/Neural-Solver-Library) · 组织维护
 
 **神经 PDE 求解器的基准评测与复现代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thuml/Neural-Solver-Library 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 345 --> 349
-    line [346, 347, 348, 348]
+    title "thuml/Neural-Solver-Library 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 345 --> 352
+    line [346, 347, 348, 347, 350, 351, 351]
 ```
 
-2026-10-18 346 → 2026-11-02 348（+2）
+2026-10-18 346 → 2026-11-17 351（+5）
 
 
 ---

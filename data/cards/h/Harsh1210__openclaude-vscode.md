@@ -1,6 +1,6 @@
 # Harsh1210/openclaude-vscode
 
-⭐ 15 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Harsh1210/openclaude-vscode) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Harsh1210/openclaude-vscode) · 个人维护
 
 **VS Code AI 编程助手扩展：统一 UI 接入任意 LLM 后端**
 
@@ -44,13 +44,13 @@ VS Code 扩展，作为开源 OpenClaude CLI 的编辑器界面：流式聊天�
 
 ```mermaid
 xychart-beta
-    title "Harsh1210/openclaude-vscode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Harsh1210/openclaude-vscode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

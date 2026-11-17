@@ -1,6 +1,6 @@
 # ruvnet/agenticow
 
-⭐ 55 · JavaScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ruvnet/agenticow) · [官网](https://ruvnet.github.io/agenticow/) · 个人维护
+⭐ 58 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/agenticow) · [官网](https://ruv.io) · 个人维护
 
 **Agent 记忆的写时复制向量分支库：廉价分支/检查点/回滚**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruvnet/agenticow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "ruvnet/agenticow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58, 58]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 58（+3）
 
 
 ---

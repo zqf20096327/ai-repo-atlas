@@ -1,6 +1,6 @@
 # atlanhq/agent-toolkit
 
-⭐ 42 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/atlanhq/agent-toolkit) · [官网](https://docs.atlan.com/product/capabilities/atlan-ai/how-tos/atlan-mcp-overview) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/atlanhq/agent-toolkit) · [官网](https://docs.atlan.com/product/capabilities/atlan-ai/how-tos/atlan-mcp-overview) · 组织维护
 
 **Atlan 数据目录的 AI agent 工具集：MCP 服务与插件**
 
@@ -44,13 +44,13 @@ Atlan 官方维护的仓库，包含与 Atlan 服务交互的工具与协议：�
 
 ```mermaid
 xychart-beta
-    title "atlanhq/agent-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "atlanhq/agent-toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    line [41, 42, 41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 42（+1）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

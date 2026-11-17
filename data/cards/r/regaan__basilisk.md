@@ -1,6 +1,6 @@
 # regaan/basilisk
 
-⭐ 82 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/regaan/basilisk) · [官网](https://basilisk.rothackers.com) · 个人维护
+⭐ 88 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/regaan/basilisk) · [官网](https://basilisk.rothackers.com) · 个人维护
 
 **AI 红队测试框架：用遗传算法演化对抗提示词评估 LLM 安全性**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "regaan/basilisk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 27 --> 87
-    line [32, 52, 76, 78, 79, 82, 82]
+    title "regaan/basilisk 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 93
+    line [32, 52, 76, 78, 79, 82, 32, 85, 86, 87, 88, 88]
 ```
 
-2026-10-18 32 → 2026-11-02 82（+50）
+2026-10-18 32 → 2026-11-17 88（+56）
 
 
 ---

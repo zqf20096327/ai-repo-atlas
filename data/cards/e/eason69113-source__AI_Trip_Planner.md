@@ -1,6 +1,6 @@
 # eason69113-source/AI_Trip_Planner
 
-⭐ 24 · Python · MIT · 推送 2025-12-30 · [GitHub](https://github.com/eason69113-source/AI_Trip_Planner) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2025-12-30 · [GitHub](https://github.com/eason69113-source/AI_Trip_Planner) · 个人维护 · 中文 README
 
 **多智能体旅行规划助手：输入目的地生成行程计划**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eason69113-source/AI_Trip_Planner 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "eason69113-source/AI_Trip_Planner 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    line [22, 23, 24, 23, 24, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

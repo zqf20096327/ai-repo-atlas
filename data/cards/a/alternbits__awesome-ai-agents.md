@@ -1,6 +1,6 @@
 # alternbits/awesome-ai-agents
 
-⭐ 153 · MIT · 推送 2026-02-02 · [GitHub](https://github.com/alternbits/awesome-ai-agents) · 个人维护
+⭐ 152 · MIT · 推送 2026-02-02 · [GitHub](https://github.com/alternbits/awesome-ai-agents) · 个人维护
 
 **AI Agent 项目策展清单：收录开源与闭源 agent 项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alternbits/awesome-ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "alternbits/awesome-ai-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 151 --> 154
-    line [152, 153, 153]
+    line [152, 153, 152, 152]
 ```
 
-2026-10-18 152 → 2026-11-02 153（+1）
+2026-10-18 152 → 2026-11-17 152（+0）
 
 
 ---

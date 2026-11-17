@@ -1,6 +1,6 @@
 # unixzii/agent-explorer
 
-⭐ 60 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/unixzii/agent-explorer) · [官网](https://agent-explorer.cy4n.dev/) · 个人维护
+⭐ 61 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/unixzii/agent-explorer) · [官网](https://agent-explorer.cy4n.dev/) · 个人维护
 
 **浏览器端查看 agent 会话 JSONL 日志的探查器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "unixzii/agent-explorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "unixzii/agent-explorer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

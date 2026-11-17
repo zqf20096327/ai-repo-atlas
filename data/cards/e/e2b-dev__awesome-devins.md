@@ -1,6 +1,6 @@
 # e2b-dev/awesome-devins
 
-⭐ 259 · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-devins) · 组织维护
+⭐ 260 · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-devins) · 组织维护
 
 **受 Devin 启发的 AI 编程 Agent 策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/awesome-devins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 258 --> 260
-    line [259, 259]
+    title "e2b-dev/awesome-devins 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 257 --> 261
+    line [259, 258, 259, 260, 260]
 ```
 
-2026-10-18 259 → 2026-11-02 259（+0）
+2026-10-18 259 → 2026-11-17 260（+1）
 
 
 ---

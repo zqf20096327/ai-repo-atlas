@@ -1,6 +1,6 @@
 # MushroomFleet/LLM-Base-Prompts
 
-⭐ 44 · TypeScript · 推送 2026-06-12 · [GitHub](https://github.com/MushroomFleet/LLM-Base-Prompts) · [官网](http://www.scuffedepoch.com) · 个人维护
+⭐ 45 · TypeScript · 推送 2026-06-12 · [GitHub](https://github.com/MushroomFleet/LLM-Base-Prompts) · [官网](http://www.scuffedepoch.com) · 个人维护
 
 **LLM 系统提示词、agent 人格与认知框架的合集仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MushroomFleet/LLM-Base-Prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "MushroomFleet/LLM-Base-Prompts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

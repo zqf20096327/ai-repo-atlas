@@ -1,6 +1,6 @@
 # Vastai/VastModelZOO
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Vastai/VastModelZOO) · [官网](https://vastai.github.io/VastModelZOO/) · 组织维护 · 中文 README
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Vastai/VastModelZOO) · [官网](https://vastai.github.io/VastModelZOO/) · 组织维护 · 中文 README
 
 **瀚博训推芯片上的开源模型部署与训练示例库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vastai/VastModelZOO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "Vastai/VastModelZOO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 29（-1）
 
 
 ---

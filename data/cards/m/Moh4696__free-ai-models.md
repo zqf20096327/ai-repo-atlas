@@ -1,6 +1,6 @@
 # Moh4696/free-ai-models
 
-⭐ 17 · MIT · 推送 2026-06-19 · [GitHub](https://github.com/Moh4696/free-ai-models) · 个人维护
+⭐ 16 · MIT · 推送 2026-06-19 · [GitHub](https://github.com/Moh4696/free-ai-models) · 个人维护
 
 **免费访问主流 AI 模型的 10 种方法指南（教程清单）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Moh4696/free-ai-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "Moh4696/free-ai-models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 16（-1）
 
 
 ---

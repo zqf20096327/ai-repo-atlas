@@ -1,6 +1,6 @@
 # ZENGJingqi/GraphAI-for-TCM
 
-⭐ 43 · Jupyter Notebook · MIT · 推送 2026-04-27 · [GitHub](https://github.com/ZENGJingqi/GraphAI-for-TCM) · [官网](https://doi.org/10.5281/zenodo.13763953) · 个人维护 · 中文 README
+⭐ 45 · Jupyter Notebook · MIT · 推送 2026-04-27 · [GitHub](https://github.com/ZENGJingqi/GraphAI-for-TCM) · [官网](https://doi.org/10.5281/zenodo.13763953) · 个人维护 · 中文 README
 
 **用可解释图神经网络量化中药配伍机制的科研代码库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZENGJingqi/GraphAI-for-TCM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "ZENGJingqi/GraphAI-for-TCM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

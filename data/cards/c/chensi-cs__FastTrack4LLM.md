@@ -1,6 +1,6 @@
 # chensi-cs/FastTrack4LLM
 
-⭐ 31 · Python · Apache-2.0 · 推送 2025-11-06 · [GitHub](https://github.com/chensi-cs/FastTrack4LLM) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向学习者的 LLM 从零构建与全流程训练框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chensi-cs/FastTrack4LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-07 31（+0）
 
 
 ---

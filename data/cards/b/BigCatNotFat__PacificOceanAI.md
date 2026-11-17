@@ -1,6 +1,6 @@
 # BigCatNotFat/PacificOceanAI
 
-⭐ 143 · TypeScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/BigCatNotFat/PacificOceanAI) · 个人维护 · 中文 README
+⭐ 141 · TypeScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/BigCatNotFat/PacificOceanAI) · 个人维护 · 中文 README
 
 **Overleaf LaTeX 编辑器的 AI 写作助手浏览器扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BigCatNotFat/PacificOceanAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 142 --> 145
-    line [144, 143, 143]
+    title "BigCatNotFat/PacificOceanAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 140 --> 145
+    line [144, 143, 141, 141]
 ```
 
-2026-10-18 144 → 2026-11-02 143（-1）
+2026-10-18 144 → 2026-11-17 141（-3）
 
 
 ---

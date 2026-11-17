@@ -1,6 +1,6 @@
 # NVlabs/EoRA
 
-⭐ 50 · Python · NOASSERTION · 推送 2026-04-21 · [GitHub](https://github.com/NVlabs/EoRA) · [官网](https://arxiv.org/abs/2410.21271) · 组织维护
+⭐ 49 · Python · NOASSERTION · 推送 2026-04-21 · [GitHub](https://github.com/NVlabs/EoRA) · [官网](https://arxiv.org/abs/2410.21271) · 组织维护
 
 **免微调的压缩 LLM 低秩补偿方法，恢复量化/剪枝模型精度**
 
@@ -45,13 +45,13 @@ NVIDIA Research 出品的研究成果（ICLR 2026 workshop 论文）：对量化
 
 ```mermaid
 xychart-beta
-    title "NVlabs/EoRA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "NVlabs/EoRA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [50, 49, 49]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 49（-1）
 
 
 ---

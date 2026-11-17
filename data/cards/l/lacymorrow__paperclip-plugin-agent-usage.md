@@ -1,6 +1,6 @@
 # lacymorrow/paperclip-plugin-agent-usage
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lacymorrow/paperclip-plugin-agent-usage) · [官网](https://www.npmjs.com/package/paperclip-plugin-agent-usage) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lacymorrow/paperclip-plugin-agent-usage) · [官网](https://www.npmjs.com/package/paperclip-plugin-agent-usage) · 个人维护
 
 **Paperclip 插件：追踪 Claude 用量配额，供 agent 自查余量**
 
@@ -44,13 +44,13 @@ Paperclip（AI agent 平台）的插件，通过 OAuth usage API 与 CLI 回退�
 
 ```mermaid
 xychart-beta
-    title "lacymorrow/paperclip-plugin-agent-usage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "lacymorrow/paperclip-plugin-agent-usage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

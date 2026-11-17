@@ -1,6 +1,6 @@
 # gugugu12138/AdaptoFlux
 
-⭐ 55 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/gugugu12138/AdaptoFlux) · 个人维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/gugugu12138/AdaptoFlux) · 个人维护 · 中文 README
 
 **基于方法池与数据流图自进化的新型机器学习框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gugugu12138/AdaptoFlux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 53 --> 56
     line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

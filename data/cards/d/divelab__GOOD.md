@@ -1,6 +1,6 @@
 # divelab/GOOD
 
-⭐ 211 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/divelab/GOOD) · [官网](https://good.readthedocs.io/) · 组织维护
+⭐ 212 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/divelab/GOOD) · [官网](https://good.readthedocs.io/) · 组织维护
 
 **图分布外（OOD）算法基准库：供科研者开发评测图 OOD 算法**
 
@@ -44,13 +44,13 @@ NeurIPS 2022 Datasets and Benchmarks Track 收录的图分布外基准库，基�
 
 ```mermaid
 xychart-beta
-    title "divelab/GOOD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "divelab/GOOD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 210 --> 213
-    line [212, 211, 211]
+    line [212, 211, 212, 212]
 ```
 
-2026-10-18 212 → 2026-11-02 211（-1）
+2026-10-18 212 → 2026-11-17 212（+0）
 
 
 ---

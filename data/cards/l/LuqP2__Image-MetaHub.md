@@ -1,6 +1,6 @@
 # LuqP2/Image-MetaHub
 
-⭐ 336 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/LuqP2/Image-MetaHub) · [官网](https://imagemetahub.com) · 个人维护
+⭐ 337 · TypeScript · MPL-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/LuqP2/Image-MetaHub) · [官网](https://imagemetahub.com) · 个人维护
 
 **本地优先的 AI 生成图像管理与检索桌面应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MPL-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LuqP2/Image-MetaHub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 332 --> 337
-    line [333, 334, 336, 335, 336, 336]
+    title "LuqP2/Image-MetaHub 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 332 --> 338
+    line [333, 334, 336, 335, 336, 334, 335, 336, 337, 337]
 ```
 
-2026-10-18 333 → 2026-11-02 336（+3）
+2026-10-18 333 → 2026-11-17 337（+4）
 
 
 ---

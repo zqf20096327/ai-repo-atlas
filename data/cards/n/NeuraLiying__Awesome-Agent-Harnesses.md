@@ -1,6 +1,6 @@
 # NeuraLiying/Awesome-Agent-Harnesses
 
-⭐ 64 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/NeuraLiying/Awesome-Agent-Harnesses) · 个人维护
+⭐ 97 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/NeuraLiying/Awesome-Agent-Harnesses) · 个人维护
 
 **LLM agent harness 研究与工程的策展综述清单（论文+产品+文章）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeuraLiying/Awesome-Agent-Harnesses 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 24 --> 67
-    line [27, 34, 45, 51, 53, 58, 59, 64]
+    title "NeuraLiying/Awesome-Agent-Harnesses 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 104
+    line [27, 34, 45, 51, 53, 58, 59, 64, 51, 91, 95, 97, 97]
 ```
 
-2026-10-18 27 → 2026-11-02 64（+37）
+2026-10-18 27 → 2026-11-17 97（+70）
 
 
 ---

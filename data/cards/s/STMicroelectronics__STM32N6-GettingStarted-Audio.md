@@ -1,6 +1,6 @@
 # STMicroelectronics/STM32N6-GettingStarted-Audio
 
-⭐ 17 · C · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/STMicroelectronics/STM32N6-GettingStarted-Audio) · 组织维护
+⭐ 16 · C · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/STMicroelectronics/STM32N6-GettingStarted-Audio) · 组织维护
 
 **STM32N6 上音频事件检测与语音增强的嵌入式 AI 示例包**
 
@@ -45,13 +45,13 @@ ST 官方发布的 STM32N6 入门软件包：在 MB1939 STM32N6570-DK 开发板�
 
 ```mermaid
 xychart-beta
-    title "STMicroelectronics/STM32N6-GettingStarted-Audio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "STMicroelectronics/STM32N6-GettingStarted-Audio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

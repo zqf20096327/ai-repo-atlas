@@ -1,6 +1,6 @@
 # faisalhussain-devs/MindCache
 
-⭐ 19 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/faisalhussain-devs/MindCache) · [官网](https://medium.com/@faisaliitian/building-mindcache-designing-an-agentic-memory-system-for-long-term-ai-7359e0cf6e2a?sharedUserId=faisaliitian) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/faisalhussain-devs/MindCache) · [官网](https://medium.com/@faisaliitian/building-mindcache-designing-an-agentic-memory-system-for-long-term-ai-7359e0cf6e2a?sharedUserId=faisaliitian) · 个人维护
 
 **面向 LLM agent 的开源长期记忆引擎**
 
@@ -44,13 +44,13 @@ MindCache 是为 LLM agent 提供长期记忆的 Python 库：将对话转化为
 
 ```mermaid
 xychart-beta
-    title "faisalhussain-devs/MindCache 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "faisalhussain-devs/MindCache 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

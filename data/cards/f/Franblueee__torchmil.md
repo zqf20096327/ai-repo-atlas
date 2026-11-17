@@ -1,6 +1,6 @@
 # Franblueee/torchmil
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Franblueee/torchmil) · [官网](https://torchmil.readthedocs.io) · 组织维护
+⭐ 92 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Franblueee/torchmil) · [官网](https://torchmil.readthedocs.io) · 组织维护
 
 **面向 PyTorch 的深度多示例学习（MIL）库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Franblueee/torchmil 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    title "Franblueee/torchmil 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 89 --> 93
+    line [90, 91, 90, 91, 92, 92]
 ```
 
-2026-10-18 90 → 2026-11-02 91（+1）
+2026-10-18 90 → 2026-11-17 92（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tauffer-Consulting/domino
 
-⭐ 210 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/Tauffer-Consulting/domino) · 组织维护
+⭐ 212 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/Tauffer-Consulting/domino) · 组织维护
 
 **开源工作流管理平台：GUI 拖拽编排数据处理与机器学习流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tauffer-Consulting/domino 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 209 --> 211
-    line [210, 210]
+    title "Tauffer-Consulting/domino 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 209 --> 213
+    line [210, 211, 212, 212]
 ```
 
-2026-10-18 210 → 2026-11-02 210（+0）
+2026-10-18 210 → 2026-11-17 212（+2）
 
 
 ---

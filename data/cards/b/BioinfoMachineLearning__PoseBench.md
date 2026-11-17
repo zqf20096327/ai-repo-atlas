@@ -1,6 +1,6 @@
 # BioinfoMachineLearning/PoseBench
 
-⭐ 251 · Jupyter Notebook · MIT · 推送 2026-09-01 · [GitHub](https://github.com/BioinfoMachineLearning/PoseBench) · 组织维护
+⭐ 254 · Jupyter Notebook · MIT · 推送 2026-09-01 · [GitHub](https://github.com/BioinfoMachineLearning/PoseBench) · 组织维护
 
 **蛋白质-配体结构预测方法的系统性基准测试框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BioinfoMachineLearning/PoseBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 249 --> 252
-    line [250, 251, 251]
+    title "BioinfoMachineLearning/PoseBench 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 249 --> 255
+    line [250, 251, 250, 251, 253, 254, 254]
 ```
 
-2026-10-18 250 → 2026-11-02 251（+1）
+2026-10-18 250 → 2026-11-17 254（+4）
 
 
 ---

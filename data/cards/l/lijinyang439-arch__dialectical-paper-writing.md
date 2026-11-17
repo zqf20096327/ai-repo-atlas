@@ -1,6 +1,6 @@
 # lijinyang439-arch/dialectical-paper-writing
 
-⭐ 11 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/lijinyang439-arch/dialectical-paper-writing) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/lijinyang439-arch/dialectical-paper-writing) · 个人维护 · 中文 README
 
 **Codex 学术写作技能：诊断论文论证断裂点并重构论证链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lijinyang439-arch/dialectical-paper-writing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "lijinyang439-arch/dialectical-paper-writing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

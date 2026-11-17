@@ -1,6 +1,6 @@
 # Poechant/davinci-resolve-cli
 
-⭐ 53 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Poechant/davinci-resolve-cli) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Poechant/davinci-resolve-cli) · 个人维护
 
 **操控 DaVinci Resolve 的 CLI/MCP 工具，供人与 AI agent 驱动剪辑流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Poechant/davinci-resolve-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "Poechant/davinci-resolve-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

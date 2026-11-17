@@ -1,6 +1,6 @@
 # paiml/practical-mlops-book
 
-⭐ 990 · Jupyter Notebook · 推送 2026-03-26 · [GitHub](https://github.com/paiml/practical-mlops-book) · 个人维护
+⭐ 993 · Jupyter Notebook · 推送 2026-11-09 · [GitHub](https://github.com/paiml/practical-mlops-book) · 个人维护
 
 **O'Reilly《Practical MLOps》一书的示例代码仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "paiml/practical-mlops-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 989 --> 991
-    line [990, 990]
+    title "paiml/practical-mlops-book 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 989 --> 994
+    line [990, 991, 993, 993]
 ```
 
-2026-10-18 990 → 2026-11-02 990（+0）
+2026-10-18 990 → 2026-11-17 993（+3）
 
 
 ---

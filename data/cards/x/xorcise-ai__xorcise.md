@@ -1,6 +1,6 @@
 # xorcise-ai/xorcise
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/xorcise-ai/xorcise) · [官网](https://xorcise.ai) · 组织维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/xorcise-ai/xorcise) · [官网](https://xorcise.ai) · 组织维护
 
 **网络安全 AI agent 实战评测平台：隔离环境执行任务并记录证据评分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xorcise-ai/xorcise 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 34
-    line [11, 20, 27, 28, 30, 31, 32, 32]
+    title "xorcise-ai/xorcise 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 35
+    line [11, 20, 27, 28, 30, 31, 32, 28, 33, 33]
 ```
 
-2026-10-18 11 → 2026-11-02 32（+21）
+2026-10-18 11 → 2026-11-17 33（+22）
 
 
 ---

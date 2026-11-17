@@ -1,6 +1,6 @@
 # modelscope/ultron
 
-⭐ 197 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/ultron) · [官网](https://writtingforfun-ultron.ms.show) · 组织维护 · 中文 README
+⭐ 196 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/ultron) · [官网](https://writtingforfun-ultron.ms.show) · 组织维护 · 中文 README
 
 **面向通用 AI agent 的共享记忆/技能/配置 collective intelligence 系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/ultron 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "modelscope/ultron 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
     y-axis "stars" 190 --> 198
-    line [191, 192, 194, 195, 196, 197, 197]
+    line [191, 192, 194, 195, 196, 197, 195, 196, 197, 196, 196]
 ```
 
-2026-10-18 191 → 2026-11-02 197（+6）
+2026-10-18 191 → 2026-11-17 196（+5）
 
 
 ---

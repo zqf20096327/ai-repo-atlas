@@ -1,6 +1,6 @@
 # Fjordshupropagate/gguf-quant
 
-⭐ 19 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Fjordshupropagate/gguf-quant) · 个人维护
+⭐ 3 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Fjordshupropagate/gguf-quant) · 个人维护
 
 **Windows 桌面 GUI：把 LLM 量化并转换为 GGUF 格式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fjordshupropagate/gguf-quant 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 12 --> 20
-    line [13, 17, 19, 19]
+    title "Fjordshupropagate/gguf-quant 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 2 --> 20
+    line [13, 17, 19, 3, 3]
 ```
 
-2026-10-22 13 → 2026-11-02 19（+6）
+2026-10-22 13 → 2026-11-17 3（-10）
 
 
 ---

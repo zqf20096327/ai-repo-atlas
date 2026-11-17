@@ -1,6 +1,6 @@
 # nianticspatial/scr-priors
 
-⭐ 22 · Shell · NOASSERTION · 推送 2025-11-10 · [GitHub](https://github.com/nianticspatial/scr-priors) · [官网](https://nianticspatial.github.io/scr-priors/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICCV 2025 论文代码：场景坐标重建的深度先验（扩散/Laplace）**
 
@@ -11,7 +11,7 @@ Niantic Spatial 发布的 ICCV 2025 论文《Scene Coordinate Reconstruction Pri
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Niantic Spatial 发布的 ICCV 2025 论文《Scene Coordinate Reconstruction Pri
 ```mermaid
 xychart-beta
     title "nianticspatial/scr-priors 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-07 22（+0）
 
 
 ---

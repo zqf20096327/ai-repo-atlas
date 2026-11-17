@@ -1,6 +1,6 @@
 # djethino/UnityGameTranslator
 
-⭐ 26 · C# · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/djethino/UnityGameTranslator) · [官网](https://unitygametranslator.asymptomatikgames.com/) · 个人维护
+⭐ 28 · C# · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/djethino/UnityGameTranslator) · [官网](https://unitygametranslator.asymptomatikgames.com/) · 个人维护
 
 **装进 Unity 游戏的实时翻译模组，支持本地 AI 与社区共享**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "djethino/UnityGameTranslator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "djethino/UnityGameTranslator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

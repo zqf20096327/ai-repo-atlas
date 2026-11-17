@@ -1,6 +1,6 @@
 # chuanchuan123321/minibot
 
-⭐ 14 · Python · 推送 2026-03-20 · [GitHub](https://github.com/chuanchuan123321/minibot) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-03-20 · [GitHub](https://github.com/chuanchuan123321/minibot) · 个人维护 · 中文 README
 
 **终端 AI 自动化助手：自然语言操控系统与文件，可接飞书**
 
@@ -44,13 +44,13 @@ Python 实现的轻量级 AI 自动化工具，自称采用 SuperAgent 架构：
 
 ```mermaid
 xychart-beta
-    title "chuanchuan123321/minibot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "chuanchuan123321/minibot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [14, 13, 13]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 13（-1）
 
 
 ---

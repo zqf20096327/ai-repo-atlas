@@ -1,6 +1,6 @@
 # uhhhci/intelligent-virtual-agent-sdk
 
-⭐ 36 · C# · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/uhhhci/intelligent-virtual-agent-sdk) · [官网](https://presence-xr.eu/) · 组织维护
+⭐ 36 · C# · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/uhhhci/intelligent-virtual-agent-sdk) · [官网](https://presence-xr.eu/) · 组织维护
 
 **Unity 虚拟人对话 agent 开发工具包，支持多模型接入与文档接地**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "uhhhci/intelligent-virtual-agent-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bradsec/ComfyUI_ResolutionSelectorPlus
 
-⭐ 24 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/bradsec/ComfyUI_ResolutionSelectorPlus) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/bradsec/ComfyUI_ResolutionSelectorPlus) · 个人维护
 
 **ComfyUI 自定义节点：为图像生成工作流选择分辨率与空 latent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bradsec/ComfyUI_ResolutionSelectorPlus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "bradsec/ComfyUI_ResolutionSelectorPlus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [24, 23, 24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/AzureOpenAI-with-APIM
 
-⭐ 115 · Bicep · MIT · 推送 2026-03-30 · [GitHub](https://github.com/microsoft/AzureOpenAI-with-APIM) · 组织维护
+⭐ 116 · Bicep · MIT · 推送 2026-03-30 · [GitHub](https://github.com/microsoft/AzureOpenAI-with-APIM) · 组织维护
 
 **一键部署 APIM 网关并自动配置对接 Azure OpenAI 的方案仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AzureOpenAI-with-APIM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    title "microsoft/AzureOpenAI-with-APIM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 114 --> 117
+    line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-11-02 115（+0）
+2026-10-18 115 → 2026-11-17 116（+1）
 
 
 ---

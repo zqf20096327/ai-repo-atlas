@@ -1,6 +1,6 @@
 # xerexcoded/pplx-cli
 
-⭐ 34 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/xerexcoded/pplx-cli) · [官网](https://xerexcoded.github.io/pplx-cli-landing/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/xerexcoded/pplx-cli) · [官网](https://xerexcoded.github.io/pplx-cli-landing/) · 个人维护
 
 **接 Perplexity/NVIDIA NIM/OpenRouter 的 CLI，带本地 RAG 与 LLM Wiki**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xerexcoded/pplx-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

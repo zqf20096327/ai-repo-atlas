@@ -1,6 +1,6 @@
 # U-C4N/U-transkript
 
-⭐ 14 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/U-C4N/U-transkript) · [官网](https://www.uc4n.com) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/U-C4N/U-transkript) · [官网](https://www.uc4n.com) · 个人维护
 
 **YouTube 字幕提取、AI 翻译与视频下载的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "U-C4N/U-transkript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

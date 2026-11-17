@@ -1,6 +1,6 @@
 # syzkillall/comprehensive-thinking-skill
 
-⭐ 48 · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/syzkillall/comprehensive-thinking-skill) · 个人维护 · 中文 README
+⭐ 49 · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/syzkillall/comprehensive-thinking-skill) · 个人维护 · 中文 README
 
 **为 AI agent 设计的推理思维模式 skill，提升复杂判断质量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "syzkillall/comprehensive-thinking-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    title "syzkillall/comprehensive-thinking-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 45 --> 50
+    line [46, 47, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-02 48（+2）
+2026-10-18 46 → 2026-11-17 49（+3）
 
 
 ---

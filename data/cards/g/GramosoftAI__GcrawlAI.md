@@ -1,6 +1,6 @@
 # GramosoftAI/GcrawlAI
 
-⭐ 60 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/GramosoftAI/GcrawlAI) · [官网](https://gcrawlai.com) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/GramosoftAI/GcrawlAI) · [官网](https://gcrawlai.com) · 组织维护
 
 **面向 RAG/LLM 数据管线的分布式爬虫与抽取平台**
 
@@ -44,13 +44,13 @@ Gramosoft 维护的开源分布式网页爬取与抽取平台，用于向 RAG �
 
 ```mermaid
 xychart-beta
-    title "GramosoftAI/GcrawlAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
+    title "GramosoftAI/GcrawlAI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 57 --> 61
-    line [58, 59, 60, 60]
+    line [58, 59, 60, 59, 60, 60]
 ```
 
-2026-10-18 58 → 2026-11-02 60（+2）
+2026-10-18 58 → 2026-11-17 60（+2）
 
 
 ---

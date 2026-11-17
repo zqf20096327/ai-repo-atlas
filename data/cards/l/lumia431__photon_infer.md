@@ -1,6 +1,6 @@
 # lumia431/photon_infer
 
-⭐ 124 · C++ · MIT · 推送 2026-01-02 · [GitHub](https://github.com/lumia431/photon_infer) · 个人维护
+⭐ 121 · C++ · MIT · 推送 2026-01-02 · [GitHub](https://github.com/lumia431/photon_infer) · 个人维护
 
 **C++20 实现的高性能 LLM 推理引擎，支持 vLLM 式连续批处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lumia431/photon_infer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    title "lumia431/photon_infer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 120 --> 125
+    line [124, 121, 121]
 ```
 
-2026-10-18 124 → 2026-11-02 124（+0）
+2026-10-18 124 → 2026-11-17 121（-3）
 
 
 ---

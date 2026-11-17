@@ -1,6 +1,6 @@
 # funkelab/gunpowder
 
-⭐ 93 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/funkelab/gunpowder) · [官网](https://funkelab.github.io/gunpowder/) · 组织维护
+⭐ 93 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/funkelab/gunpowder) · [官网](https://funkelab.github.io/gunpowder/) · 组织维护
 
 **面向大型多维图像的机器学习流水线构建库**
 
@@ -44,12 +44,12 @@ gunpowder 是一个 Python 库，用于在任意大的多维图像上组装机�
 ```mermaid
 xychart-beta
     title "funkelab/gunpowder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 93（+0）
 
 
 ---

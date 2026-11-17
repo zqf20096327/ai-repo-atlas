@@ -1,6 +1,6 @@
 # OpenLLM-Europe/European-OpenLLM-Projects
 
-⭐ 74 · 推送 2026-09-03 · [GitHub](https://github.com/OpenLLM-Europe/European-OpenLLM-Projects) · [官网](https://openllm-france.fr/) · 组织维护
+⭐ 74 · 推送 2026-11-14 · [GitHub](https://github.com/OpenLLM-Europe/European-OpenLLM-Projects) · [官网](https://openllm-france.fr/) · 组织维护
 
 **欧洲语言开源 LLM 项目的策展目录，含模型/数据集/倡议**
 
@@ -44,13 +44,13 @@ OpenLLM Europe 社区维护的欧洲开源 LLM 项目活目录：按生态角色
 
 ```mermaid
 xychart-beta
-    title "OpenLLM-Europe/European-OpenLLM-Projects 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "OpenLLM-Europe/European-OpenLLM-Projects 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 71 --> 75
-    line [72, 73, 74, 74]
+    line [72, 73, 74, 72, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 74（+2）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

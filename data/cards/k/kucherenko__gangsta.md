@@ -1,6 +1,6 @@
 # kucherenko/gangsta
 
-⭐ 85 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kucherenko/gangsta) · [官网](https://gangsta.page) · 个人维护
+⭐ 89 · Shell · MIT · 推送 2026-11-08 · [GitHub](https://github.com/kucherenko/gangsta) · [官网](https://gangsta.page) · 个人维护
 
 **给 AI 编码 agent 的黑帮组织化技能框架，用规格驱动开发**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kucherenko/gangsta 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 83 --> 87
-    line [84, 85, 86, 85, 85]
+    title "kucherenko/gangsta 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 83 --> 90
+    line [84, 85, 86, 85, 86, 87, 89, 89]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 89（+5）
 
 
 ---

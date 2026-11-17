@@ -1,6 +1,6 @@
 # mohdshamii/FarmAIQ
 
-⭐ 13 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/mohdshamii/FarmAIQ) · 个人维护
+⭐ 14 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/mohdshamii/FarmAIQ) · 个人维护
 
 **面向印度小农的精准农业决策平台：作物推荐、病害诊断、市场行情**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohdshamii/FarmAIQ 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13, 13]
+    title "mohdshamii/FarmAIQ 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 13, 10, 14, 15, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

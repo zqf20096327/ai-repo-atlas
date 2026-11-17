@@ -1,6 +1,6 @@
 # Deibler/edmund-harness
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Deibler/edmund-harness) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Deibler/edmund-harness) · 个人维护
 
 **把 Claude Code/Codex 变成亲友可 iMessage 联系的私人助手守护进程**
 
@@ -45,13 +45,13 @@ macOS 守护进程，将 Claude Code 或 Codex CLI 封装为可通过 iMessage �
 
 ```mermaid
 xychart-beta
-    title "Deibler/edmund-harness 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 13 --> 23
-    line [14, 20, 21, 22, 22]
+    title "Deibler/edmund-harness 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 25
+    line [14, 20, 21, 22, 24, 24]
 ```
 
-2026-10-26 14 → 2026-11-02 22（+8）
+2026-10-26 14 → 2026-11-17 24（+10）
 
 
 ---

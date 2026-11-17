@@ -1,6 +1,6 @@
 # kudeerliu48-web/CloseCode
 
-⭐ 14 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/kudeerliu48-web/CloseCode) · [官网](https://github.com/kudeerliu48-web/CloseCode) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/kudeerliu48-web/CloseCode) · [官网](https://github.com/kudeerliu48-web/CloseCode) · 个人维护 · 中文 README
 
 **本地优先的桌面/自托管 AI Agent 工作台，一站式接入多家大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kudeerliu48-web/CloseCode 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 14, 14]
+    title "kudeerliu48-web/CloseCode 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 18
+    line [10, 11, 14, 17, 17]
 ```
 
-2026-10-28 10 → 2026-11-02 14（+4）
+2026-10-28 10 → 2026-11-17 17（+7）
 
 
 ---

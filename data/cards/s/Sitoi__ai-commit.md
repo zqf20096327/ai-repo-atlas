@@ -1,6 +1,6 @@
 # Sitoi/ai-commit
 
-⭐ 163 · TypeScript · MIT · 推送 2026-05-05 · [GitHub](https://github.com/Sitoi/ai-commit) · [官网](https://marketplace.visualstudio.com/items?itemName=Sitoi.ai-commit) · 个人维护 · 中文 README
+⭐ 162 · TypeScript · MIT · 推送 2026-05-05 · [GitHub](https://github.com/Sitoi/ai-commit) · [官网](https://marketplace.visualstudio.com/items?itemName=Sitoi.ai-commit) · 个人维护 · 中文 README
 
 **VSCode 扩展：用 LLM API 生成符合规范的 Git 提交信息**
 
@@ -45,13 +45,13 @@ AI Commit 是一个 VSCode 扩展，读取暂存区 git diff，调用 OpenAI / A
 
 ```mermaid
 xychart-beta
-    title "Sitoi/ai-commit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "Sitoi/ai-commit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 160 --> 164
-    line [161, 162, 163, 163]
+    line [161, 162, 163, 161, 163, 162, 162]
 ```
 
-2026-10-18 161 → 2026-11-02 163（+2）
+2026-10-18 161 → 2026-11-17 162（+1）
 
 
 ---

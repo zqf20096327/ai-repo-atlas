@@ -1,6 +1,6 @@
 # omroy07/AgriTech
 
-⭐ 127 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/omroy07/AgriTech) · [官网](https://agri-tech-6rs5.vercel.app/) · 组织维护 · 中文 README
+⭐ 130 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/omroy07/AgriTech) · [官网](https://agri-tech-6rs5.vercel.app/) · 组织维护 · 中文 README
 
 **面向农民的 AI 农业平台：作物推荐、产量预测、病害检测**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "omroy07/AgriTech 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 125 --> 129
-    line [126, 128, 127, 127]
+    title "omroy07/AgriTech 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 125 --> 131
+    line [126, 128, 127, 128, 129, 130, 130]
 ```
 
-2026-10-18 126 → 2026-11-02 127（+1）
+2026-10-18 126 → 2026-11-17 130（+4）
 
 
 ---

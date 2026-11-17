@@ -1,6 +1,6 @@
 # VIAME/VIAME
 
-⭐ 344 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/VIAME/VIAME) · [官网](http://www.viametoolkit.org/) · 组织维护
+⭐ 346 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/VIAME/VIAME) · [官网](http://www.viametoolkit.org/) · 组织维护
 
 **面向科研的计算机视觉工具包：目标检测、跟踪、标注与训练**
 
@@ -44,13 +44,13 @@ VIAME 是支持自助式 AI 的计算机视觉应用与工具包，功能包括�
 
 ```mermaid
 xychart-beta
-    title "VIAME/VIAME 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 341 --> 345
-    line [343, 342, 343, 344, 344]
+    title "VIAME/VIAME 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 341 --> 347
+    line [343, 342, 343, 344, 342, 345, 346, 346]
 ```
 
-2026-10-18 343 → 2026-11-02 344（+1）
+2026-10-18 343 → 2026-11-17 346（+3）
 
 
 ---

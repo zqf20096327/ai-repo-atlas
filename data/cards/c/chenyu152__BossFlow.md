@@ -1,6 +1,6 @@
 # chenyu152/BossFlow
 
-⭐ 28 · Python · 推送 2026-08-26 · [GitHub](https://github.com/chenyu152/BossFlow) · 个人维护 · 中文 README
+⭐ 29 · Python · 推送 2026-08-26 · [GitHub](https://github.com/chenyu152/BossFlow) · 个人维护 · 中文 README
 
 **本地优先的 AI 求职工作台：采集管理 BOSS 直聘岗位、定制简历与面试准备**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenyu152/BossFlow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "chenyu152/BossFlow 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

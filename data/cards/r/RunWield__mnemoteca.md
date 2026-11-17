@@ -1,6 +1,6 @@
 # RunWield/mnemoteca
 
-⭐ 30 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/RunWield/mnemoteca) · 个人维护
+⭐ 31 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/RunWield/mnemoteca) · 个人维护
 
 **本地优先的 agent 记忆存储检索 CLI，混合搜索无云端依赖**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RunWield/mnemoteca 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 25 --> 31
-    line [26, 29, 30, 30]
+    title "RunWield/mnemoteca 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 32
+    line [26, 29, 30, 26, 31, 31]
 ```
 
-2026-10-23 26 → 2026-11-02 30（+4）
+2026-10-23 26 → 2026-11-17 31（+5）
 
 
 ---

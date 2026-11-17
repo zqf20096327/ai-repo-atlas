@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ianho7/ai-friendly-web-design-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "ianho7/ai-friendly-web-design-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 76 --> 79
+    line [77, 78, 77, 77]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 77（+0）
 
 
 ---

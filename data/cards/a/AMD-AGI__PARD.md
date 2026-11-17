@@ -1,6 +1,6 @@
 # AMD-AGI/PARD
 
-⭐ 37 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/AMD-AGI/PARD) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/AMD-AGI/PARD) · 组织维护
 
 **面向 LLM 推理加速的并行草稿模型投机解码方法（ICLR'26）**
 
@@ -43,13 +43,13 @@ PARD 是一族投机解码方法，将自回归草稿模型改造为并行草稿
 
 ```mermaid
 xychart-beta
-    title "AMD-AGI/PARD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "AMD-AGI/PARD 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # breuner/elbencho
 
-⭐ 300 · C++ · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/breuner/elbencho) · 个人维护
+⭐ 301 · C++ · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/breuner/elbencho) · 个人维护
 
 **分布式存储基准测试工具：测文件/对象/块存储性能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "breuner/elbencho 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 298 --> 301
-    line [299, 300, 300]
+    title "breuner/elbencho 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 298 --> 302
+    line [299, 300, 299, 300, 301, 301]
 ```
 
-2026-10-18 299 → 2026-11-02 300（+1）
+2026-10-18 299 → 2026-11-17 301（+2）
 
 
 ---

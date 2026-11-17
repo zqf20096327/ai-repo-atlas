@@ -1,6 +1,6 @@
 # olostep/olostep-mcp-server
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/olostep/olostep-mcp-server) · [官网](https://www.olostep.com/integrations/mcp-server) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/olostep/olostep-mcp-server) · [官网](https://www.olostep.com/integrations/mcp-server) · 组织维护
 
 **让 MCP 兼容 AI agent 具备网页抓取、爬取与搜索能力的服务器**
 
@@ -44,13 +44,13 @@ Olostep 的官方 MCP 服务器实现，将 Olostep 网页数据基础设施接�
 
 ```mermaid
 xychart-beta
-    title "olostep/olostep-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "olostep/olostep-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    line [24, 25, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

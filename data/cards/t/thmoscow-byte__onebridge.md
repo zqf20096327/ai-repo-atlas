@@ -1,6 +1,6 @@
 # thmoscow-byte/onebridge
 
-⭐ 13 · MIT · 推送 2026-04-27 · [GitHub](https://github.com/thmoscow-byte/onebridge) · [官网](https://onemanproduction.ru/onebridge/) · 个人维护
+⭐ 14 · MIT · 推送 2026-04-27 · [GitHub](https://github.com/thmoscow-byte/onebridge) · [官网](https://onemanproduction.ru/onebridge/) · 个人维护
 
 **连接 Claude 与 1С:Предприятие 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thmoscow-byte/onebridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
+    title "thmoscow-byte/onebridge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 13, 13]
+    line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

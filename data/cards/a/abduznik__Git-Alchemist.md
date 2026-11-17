@@ -1,6 +1,6 @@
 # abduznik/Git-Alchemist
 
-⭐ 22 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/abduznik/Git-Alchemist) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **改写、清理与优化 Git 仓库历史的开发者工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "abduznik/Git-Alchemist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-15 22（+0）
 
 
 ---

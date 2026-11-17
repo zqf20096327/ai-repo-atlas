@@ -1,6 +1,6 @@
 # madeindigio/remembrances-mcp
 
-⭐ 12 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/madeindigio/remembrances-mcp) · [官网](https://madeindigio.github.io/remembrances-mcp/) · 组织维护
+⭐ 11 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/madeindigio/remembrances-mcp) · [官网](https://madeindigio.github.io/remembrances-mcp/) · 组织维护
 
 **Go 编写的 MCP 服务器：为 AI agent 提供多层长期记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "madeindigio/remembrances-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "madeindigio/remembrances-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

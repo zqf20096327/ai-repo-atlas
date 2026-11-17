@@ -1,6 +1,6 @@
 # mishrasanjeev/grantex
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/mishrasanjeev/grantex) · [官网](https://grantex.dev) · 组织维护
+⭐ 34 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/mishrasanjeev/grantex) · [官网](https://grantex.dev) · 组织维护
 
 **面向 AI agent 的委托授权、身份与审计基础设施（SDK+服务）**
 
@@ -44,13 +44,13 @@ Grantex 是为 AI agent 设计的委托授权协议与参考实现：给每个 a
 
 ```mermaid
 xychart-beta
-    title "mishrasanjeev/grantex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "mishrasanjeev/grantex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # liuxingqitd/skills-hub
 
-⭐ 82 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/liuxingqitd/skills-hub) · [官网](https://skills-hub.dev) · 个人维护 · 中文 README
+⭐ 83 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/liuxingqitd/skills-hub) · [官网](https://skills-hub.dev) · 个人维护 · 中文 README
 
 **本地桌面面板：统一管理多个 AI 编程 agent 的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liuxingqitd/skills-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 80 --> 83
-    line [81, 82, 82]
+    title "liuxingqitd/skills-hub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 80 --> 84
+    line [81, 82, 81, 83, 83]
 ```
 
-2026-10-18 81 → 2026-11-02 82（+1）
+2026-10-18 81 → 2026-11-17 83（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hive-intel/awesome-crypto-mcp-servers
 
-⭐ 12 · CC0-1.0 · 推送 2026-06-04 · [GitHub](https://github.com/hive-intel/awesome-crypto-mcp-servers) · [官网](https://hiveintelligence.xyz) · 组织维护
+⭐ 13 · CC0-1.0 · 推送 2026-06-04 · [GitHub](https://github.com/hive-intel/awesome-crypto-mcp-servers) · [官网](https://hiveintelligence.xyz) · 组织维护
 
 **面向 AI agent 的加密货币/Web3 MCP 服务器策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hive-intel/awesome-crypto-mcp-servers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "hive-intel/awesome-crypto-mcp-servers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

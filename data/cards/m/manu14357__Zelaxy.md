@@ -1,6 +1,6 @@
 # manu14357/Zelaxy
 
-⭐ 15 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/manu14357/Zelaxy) · [官网](https://zelaxy.in) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/manu14357/Zelaxy) · [官网](https://zelaxy.in) · 个人维护
 
 **开源可视化 AI agent 与工作流构建平台，自托管、无代码**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "manu14357/Zelaxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "manu14357/Zelaxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

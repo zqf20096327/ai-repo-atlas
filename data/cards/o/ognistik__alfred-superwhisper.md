@@ -1,6 +1,6 @@
 # ognistik/alfred-superwhisper
 
-⭐ 135 · JavaScript · 推送 2026-01-01 · [GitHub](https://github.com/ognistik/alfred-superwhisper) · 个人维护
+⭐ 136 · JavaScript · 推送 2026-01-01 · [GitHub](https://github.com/ognistik/alfred-superwhisper) · 个人维护
 
 **用 Alfred 控制 Superwhisper 语音转文字的 macOS 工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ognistik/alfred-superwhisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 134 --> 136
-    line [135, 135]
+    title "ognistik/alfred-superwhisper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 134 --> 137
+    line [135, 136, 136]
 ```
 
-2026-10-18 135 → 2026-11-02 135（+0）
+2026-10-18 135 → 2026-11-17 136（+1）
 
 
 ---

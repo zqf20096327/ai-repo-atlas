@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepgram-devs/deepgram-voice-agent-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "deepgram-devs/deepgram-voice-agent-demo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 51 --> 54
-    line [52, 53]
+    line [52, 53, 52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # darkdarkcocoa/codex-routing-detector
 
-⭐ 19 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/darkdarkcocoa/codex-routing-detector) · [官网](https://github.com/darkdarkcocoa/codex-routing-detector/releases/latest) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/darkdarkcocoa/codex-routing-detector) · [官网](https://github.com/darkdarkcocoa/codex-routing-detector/releases/latest) · 个人维护
 
 **检测 Codex 请求是否被静默替换为其他模型的核查工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "darkdarkcocoa/codex-routing-detector 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "darkdarkcocoa/codex-routing-detector 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 18, 19, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

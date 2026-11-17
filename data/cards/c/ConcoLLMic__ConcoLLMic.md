@@ -1,6 +1,6 @@
 # ConcoLLMic/ConcoLLMic
 
-⭐ 164 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/ConcoLLMic/ConcoLLMic) · [官网](https://concollmic.github.io/) · 组织维护
+⭐ 166 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/ConcoLLMic/ConcoLLMic) · [官网](https://concollmic.github.io/) · 组织维护
 
 **LLM agent 驱动的语言无关 concolic 执行测试引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ConcoLLMic/ConcoLLMic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 162 --> 165
-    line [163, 164, 164]
+    title "ConcoLLMic/ConcoLLMic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 162 --> 167
+    line [163, 164, 163, 166, 166]
 ```
 
-2026-10-18 163 → 2026-11-02 164（+1）
+2026-10-18 163 → 2026-11-17 166（+3）
 
 
 ---

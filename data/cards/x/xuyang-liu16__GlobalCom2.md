@@ -1,6 +1,6 @@
 # xuyang-liu16/GlobalCom2
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/xuyang-liu16/GlobalCom2) · [官网](https://arxiv.org/abs/2501.05179) · 组织维护 · 中文 README
+⭐ 42 · Python · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/xuyang-liu16/GlobalCom2) · [官网](https://arxiv.org/abs/2501.05179) · 组织维护 · 中文 README
 
 **高分辨率 LVLM 的免训练 token 压缩推理加速方法（AAAI 2026）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xuyang-liu16/GlobalCom2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "xuyang-liu16/GlobalCom2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 42（-1）
 
 
 ---

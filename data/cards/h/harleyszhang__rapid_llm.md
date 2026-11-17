@@ -1,6 +1,6 @@
 # harleyszhang/rapid_llm
 
-⭐ 195 · Python · 推送 2026-10-10 · [GitHub](https://github.com/harleyszhang/rapid_llm) · 组织维护 · 中文 README
+⭐ 198 · Python · 推送 2026-10-10 · [GitHub](https://github.com/harleyszhang/rapid_llm) · 组织维护 · 中文 README
 
 **LLM 推理框架：连续批处理、张量/数据并行与量化**
 
@@ -44,13 +44,13 @@ RapidLLM 是一个 Python LLM 推理框架，提供连续批处理、张量/数�
 
 ```mermaid
 xychart-beta
-    title "harleyszhang/rapid_llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 194 --> 196
-    line [195, 195]
+    title "harleyszhang/rapid_llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 194 --> 199
+    line [195, 197, 198, 198]
 ```
 
-2026-10-18 195 → 2026-11-02 195（+0）
+2026-10-18 195 → 2026-11-17 198（+3）
 
 
 ---

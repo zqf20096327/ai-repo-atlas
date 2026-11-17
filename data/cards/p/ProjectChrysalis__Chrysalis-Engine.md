@@ -1,6 +1,6 @@
 # ProjectChrysalis/Chrysalis-Engine
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/ProjectChrysalis/Chrysalis-Engine) · [官网](https://projectchrysalis.github.io) · 组织维护
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ProjectChrysalis/Chrysalis-Engine) · [官网](https://projectchrysalis.github.io) · 组织维护
 
 **可通过对话改造的自托管 AI 前端：内置 agent 修改应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProjectChrysalis/Chrysalis-Engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30, 30]
+    title "ProjectChrysalis/Chrysalis-Engine 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 33
+    line [27, 28, 29, 30, 28, 31, 32, 32]
 ```
 
-2026-10-18 27 → 2026-11-02 30（+3）
+2026-10-18 27 → 2026-11-17 32（+5）
 
 
 ---

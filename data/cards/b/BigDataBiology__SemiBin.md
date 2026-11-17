@@ -1,6 +1,6 @@
 # BigDataBiology/SemiBin
 
-⭐ 175 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/BigDataBiology/SemiBin) · [官网](https://semibin.rtfd.io/) · 组织维护
+⭐ 175 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/BigDataBiology/SemiBin) · [官网](https://semibin.rtfd.io/) · 组织维护
 
 **宏基因组分箱工具：用自监督深度学习从contigs产出MAGs**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BigDataBiology/SemiBin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 174 --> 176
     line [175, 175]
 ```
 
-2026-10-18 175 → 2026-11-02 175（+0）
+2026-10-18 175 → 2026-11-17 175（+0）
 
 
 ---

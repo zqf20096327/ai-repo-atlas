@@ -1,6 +1,6 @@
 # PerryLink/dsh-composer-history
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/PerryLink/dsh-composer-history) · [官网](https://perrylink.github.io/plugins/dsh-composer-history/) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-composer-history) · [官网](https://www.npmjs.com/package/dsh-composer-history) · 个人维护 · 中文 README
 
 **DeepSeek Harness 网页输入框的终端式历史插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-composer-history 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
+    title "PerryLink/dsh-composer-history 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-13", "2026-11-17"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    line [17, 18, 19, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

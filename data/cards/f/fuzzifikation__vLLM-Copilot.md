@@ -1,6 +1,6 @@
 # fuzzifikation/vLLM-Copilot
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/fuzzifikation/vLLM-Copilot) · 个人维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/fuzzifikation/vLLM-Copilot) · 个人维护
 
 **把 vLLM 自托管模型接入 GitHub Copilot 的 VS Code 扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fuzzifikation/vLLM-Copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "fuzzifikation/vLLM-Copilot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # anycode-ade/anycode
 
-⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/anycode-ade/anycode) · [官网](https://anycode-ade.github.io/anycode/) · 组织维护
+⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/anycode-ade/anycode) · [官网](https://anycode-ade.github.io/anycode/) · 组织维护
 
 **人与 AI agent 协同编程的 Web 代码编辑器平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anycode-ade/anycode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 54 --> 59
-    line [55, 56, 57, 58, 58]
+    title "anycode-ade/anycode 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 63
+    line [55, 56, 57, 58, 60, 61, 62, 62]
 ```
 
-2026-10-18 55 → 2026-11-02 58（+3）
+2026-10-18 55 → 2026-11-17 62（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # florencejt/fusilli
 
-⭐ 206 · Python · AGPL-3.0 · 推送 2026-07-30 · [GitHub](https://github.com/florencejt/fusilli) · [官网](https://fusilli.readthedocs.io/en/latest/) · 组织维护
+⭐ 205 · Python · AGPL-3.0 · 推送 2026-07-30 · [GitHub](https://github.com/florencejt/fusilli) · [官网](https://fusilli.readthedocs.io/en/latest/) · 组织维护
 
 **给科研者的多模态数据融合方法比较与训练库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "florencejt/fusilli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "florencejt/fusilli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-17"]
     y-axis "stars" 204 --> 207
-    line [205, 206, 206]
+    line [205, 206, 205, 205]
 ```
 
-2026-10-18 205 → 2026-11-02 206（+1）
+2026-10-18 205 → 2026-11-17 205（+0）
 
 
 ---

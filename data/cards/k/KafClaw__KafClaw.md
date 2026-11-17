@@ -1,6 +1,6 @@
 # KafClaw/KafClaw
 
-⭐ 21 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/KafClaw/KafClaw) · [官网](https://kafclaw.scalytics.io) · 组织维护
+⭐ 21 · Go · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/KafClaw/KafClaw) · [官网](https://kafclaw.scalytics.io) · 组织维护
 
 **Go 编写的基于 Kafka 的多智能体协调框架**
 
@@ -45,12 +45,12 @@ KafClaw 是用 Go 构建的 agent 协调框架，通过 Kafka 主题层级连接
 ```mermaid
 xychart-beta
     title "KafClaw/KafClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

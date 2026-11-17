@@ -1,6 +1,6 @@
 # intellicia-public/parastore
 
-⭐ 435 · TypeScript · MIT · 推送 2026-05-21 · [GitHub](https://github.com/intellicia-public/parastore) · 组织维护
+⭐ 420 · TypeScript · MIT · 推送 2026-05-21 · [GitHub](https://github.com/intellicia-public/parastore) · 组织维护
 
 **等距 3D 零售沙盒：LLM 生成虚拟顾客模拟逛店消费**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "intellicia-public/parastore 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 434 --> 445
-    line [444, 435, 436, 435, 435]
+    title "intellicia-public/parastore 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 417 --> 446
+    line [444, 435, 436, 435, 436, 422, 419, 420, 420]
 ```
 
-2026-10-18 444 → 2026-11-02 435（-9）
+2026-10-18 444 → 2026-11-17 420（-24）
 
 
 ---

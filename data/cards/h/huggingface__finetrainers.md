@@ -1,6 +1,6 @@
 # huggingface/finetrainers
 
-⭐ 1,363 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/finetrainers) · 组织维护
+⭐ 1,365 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/finetrainers) · 组织维护
 
 **扩散模型微调训练库：LoRA/全参训练视频与图像生成模型**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的扩散模型训练库，支持 LTX-Video、HunyuanVideo、
 
 ```mermaid
 xychart-beta
-    title "huggingface/finetrainers 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1360 --> 1365
-    line [1362, 1361, 1363, 1364, 1363, 1363]
+    title "huggingface/finetrainers 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 1360 --> 1366
+    line [1362, 1361, 1363, 1364, 1363, 1361, 1364, 1365, 1365]
 ```
 
-2026-10-18 1,362 → 2026-11-02 1,363（+1）
+2026-10-18 1,362 → 2026-11-17 1,365（+3）
 
 
 ---

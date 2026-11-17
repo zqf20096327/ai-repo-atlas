@@ -1,6 +1,6 @@
 # delexw/motion-graphics-agent
 
-⭐ 80 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/delexw/motion-graphics-agent) · 个人维护 · 中文 README
+⭐ 95 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/delexw/motion-graphics-agent) · 个人维护 · 中文 README
 
 **把创意变成动态图形短片的本地 AI 视频生成代理**
 
@@ -45,13 +45,13 @@ Kiteva 是一个本地优先的 AI 动态图形代理：用户输入创意，由
 
 ```mermaid
 xychart-beta
-    title "delexw/motion-graphics-agent 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 0 --> 87
-    line [6, 8, 80]
+    title "delexw/motion-graphics-agent 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 103
+    line [6, 8, 80, 64, 68, 73, 79, 86, 87, 89, 95, 95]
 ```
 
-2026-10-31 6 → 2026-11-02 80（+74）
+2026-10-31 6 → 2026-11-17 95（+89）
 
 
 ---

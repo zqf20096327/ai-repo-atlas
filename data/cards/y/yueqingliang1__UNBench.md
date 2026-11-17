@@ -1,6 +1,6 @@
 # yueqingliang1/UNBench
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-01-23 · [GitHub](https://github.com/yueqingliang1/UNBench) · [官网](https://arxiv.org/abs/2502.14122) · 组织维护
+⭐ 16 · Jupyter Notebook · MIT · 推送 2026-01-23 · [GitHub](https://github.com/yueqingliang1/UNBench) · [官网](https://arxiv.org/abs/2502.14122) · 组织维护
 
 **基于联合国安理会记录的 LLM 政治决策基准（四任务）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yueqingliang1/UNBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "yueqingliang1/UNBench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

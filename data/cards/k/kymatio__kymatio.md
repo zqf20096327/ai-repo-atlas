@@ -1,6 +1,6 @@
 # kymatio/kymatio
 
-⭐ 858 · Python · BSD-3-Clause · 推送 2026-06-09 · [GitHub](https://github.com/kymatio/kymatio) · [官网](https://kymat.io) · 组织维护
+⭐ 860 · Python · BSD-3-Clause · 推送 2026-06-09 · [GitHub](https://github.com/kymatio/kymatio) · [官网](https://kymat.io) · 组织维护
 
 **Python 小波散射变换库：1/2/3D 小波，CPU/GPU 运行**
 
@@ -45,13 +45,13 @@ Kymatio 是小波散射变换的 Python 实现，提供 1D/2D/3D 小波散射系
 
 ```mermaid
 xychart-beta
-    title "kymatio/kymatio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 856 --> 859
-    line [857, 858, 858]
+    title "kymatio/kymatio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 856 --> 861
+    line [857, 858, 859, 860, 860]
 ```
 
-2026-10-18 857 → 2026-11-02 858（+1）
+2026-10-18 857 → 2026-11-17 860（+3）
 
 
 ---

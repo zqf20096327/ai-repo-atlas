@@ -1,6 +1,6 @@
 # BlueFalconHD/apple_generative_model_safety_decrypted
 
-⭐ 319 · Python · 推送 2026-07-19 · [GitHub](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted) · 个人维护
+⭐ 318 · Python · 推送 2026-07-19 · [GitHub](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted) · 个人维护
 
 **Apple Intelligence 生成模型安全过滤器的解密数据集与解密脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlueFalconHD/apple_generative_model_safety_decrypted 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "BlueFalconHD/apple_generative_model_safety_decrypted 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 317 --> 320
-    line [318, 319, 319]
+    line [318, 319, 318, 318]
 ```
 
-2026-10-18 318 → 2026-11-02 319（+1）
+2026-10-18 318 → 2026-11-17 318（+0）
 
 
 ---

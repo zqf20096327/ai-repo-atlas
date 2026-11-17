@@ -1,6 +1,6 @@
 # Open-Galapagos/evolution-fine-tuning
 
-⭐ 30 · Python · 推送 2026-06-30 · [GitHub](https://github.com/Open-Galapagos/evolution-fine-tuning) · [官网](https://open-galapagos.github.io/evolution_finetuning/) · 组织维护
+⭐ 31 · Python · 推送 2026-06-30 · [GitHub](https://github.com/Open-Galapagos/evolution-fine-tuning) · [官网](https://open-galapagos.github.io/evolution_finetuning/) · 组织维护
 
 **论文代码与数据集：用进化搜索轨迹微调小模型学会发现**
 
@@ -44,13 +44,13 @@ NeurIPS 2026 论文『Evolution Fine-Tuning (EFT)』的官方代码、数据集�
 
 ```mermaid
 xychart-beta
-    title "Open-Galapagos/evolution-fine-tuning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "Open-Galapagos/evolution-fine-tuning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

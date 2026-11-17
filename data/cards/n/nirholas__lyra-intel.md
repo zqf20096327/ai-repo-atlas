@@ -1,6 +1,6 @@
 # nirholas/lyra-intel
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/nirholas/lyra-intel) · [官网](https://nirholas.github.io/lyra-intel/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向大规模代码库的分析平台：静态分析+安全扫描+AI 洞察**
 
@@ -11,7 +11,7 @@ Python 3.9+ 的代码库智能分析平台，由 70+ 组件组成：多语言 AS
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@ Python 3.9+ 的代码库智能分析平台，由 70+ 组件组成：多语言 AS
 ```mermaid
 xychart-beta
     title "nirholas/lyra-intel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-10 29（+1）
 
 
 ---

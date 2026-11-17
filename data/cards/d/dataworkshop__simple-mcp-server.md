@@ -1,6 +1,6 @@
 # dataworkshop/simple-mcp-server
 
-⭐ 11 · Python · MIT · 推送 2025-11-06 · [GitHub](https://github.com/dataworkshop/simple-mcp-server) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **教学用最小 MCP 服务器：演示协议与三种客户端实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dataworkshop/simple-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

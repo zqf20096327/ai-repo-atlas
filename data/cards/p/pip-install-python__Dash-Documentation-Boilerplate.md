@@ -1,6 +1,6 @@
 # pip-install-python/Dash-Documentation-Boilerplate
 
-⭐ 12 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/pip-install-python/Dash-Documentation-Boilerplate) · [官网](https://boilerplate.2plot.dev) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/pip-install-python/Dash-Documentation-Boilerplate) · [官网](https://boilerplate.2plot.dev) · 组织维护
 
 **面向 Dash 组件的 Markdown 驱动文档站点模板，含 LLM 友好输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pip-install-python/Dash-Documentation-Boilerplate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-prompt-engineering
 
-⭐ 254 · Python · 推送 2026-10-15 · [GitHub](https://github.com/brandonhimpfen/awesome-prompt-engineering) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 255 · Python · 推送 2026-11-02 · [GitHub](https://github.com/brandonhimpfen/awesome-prompt-engineering) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **提示工程策展清单：汇集指南、工具、论文与平台资源**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-prompt-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 252 --> 255
-    line [253, 254, 254]
+    title "brandonhimpfen/awesome-prompt-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 252 --> 256
+    line [253, 254, 253, 255, 255]
 ```
 
-2026-10-18 253 → 2026-11-02 254（+1）
+2026-10-18 253 → 2026-11-17 255（+2）
 
 
 ---

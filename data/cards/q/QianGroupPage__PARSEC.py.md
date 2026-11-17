@@ -1,6 +1,6 @@
 # QianGroupPage/PARSEC.py
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/QianGroupPage/PARSEC.py) · [官网](https://onlinelibrary.wiley.com/doi/10.1002/jcc.70482) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/QianGroupPage/PARSEC.py) · [官网](https://onlinelibrary.wiley.com/doi/10.1002/jcc.70482) · 组织维护
 
 **Python 实现的孤立体系实空间 Kohn-Sham DFT 求解器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QianGroupPage/PARSEC.py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "QianGroupPage/PARSEC.py 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

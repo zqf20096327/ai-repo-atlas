@@ -1,6 +1,6 @@
 # RichSchefren/atlas
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/RichSchefren/atlas) · [官网](https://livememory.dev) · 个人维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/RichSchefren/atlas) · [官网](https://livememory.dev) · 个人维护
 
 **本地优先的认知记忆后端：事实变化时自动重估下游信念**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RichSchefren/atlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    title "RichSchefren/atlas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 84 --> 87
+    line [85, 86, 86]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 86（+1）
 
 
 ---

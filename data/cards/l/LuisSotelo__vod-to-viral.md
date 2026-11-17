@@ -1,6 +1,6 @@
 # LuisSotelo/vod-to-viral
 
-⭐ 13 · Python · 推送 2026-06-15 · [GitHub](https://github.com/LuisSotelo/vod-to-viral) · 个人维护
+⭐ 12 · Python · 推送 2026-06-15 · [GitHub](https://github.com/LuisSotelo/vod-to-viral) · 个人维护
 
 **自动把 Twitch/YouTube 长视频切成带字幕的竖版病毒式短片**
 
@@ -44,13 +44,13 @@ Python 编写的自动剪辑流水线：监控 Twitch 频道，直播结束后�
 
 ```mermaid
 xychart-beta
-    title "LuisSotelo/vod-to-viral 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "LuisSotelo/vod-to-viral 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    line [12, 13, 12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

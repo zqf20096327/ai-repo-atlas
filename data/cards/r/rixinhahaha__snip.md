@@ -1,6 +1,6 @@
 # rixinhahaha/snip
 
-⭐ 350 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/rixinhahaha/snip) · [官网](https://snipit.dev) · 个人维护
+⭐ 352 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/rixinhahaha/snip) · [官网](https://snipit.dev) · 个人维护
 
 **截图标注工具，兼作 AI 编程代理的可视化输出与审核层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rixinhahaha/snip 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 345 --> 351
-    line [346, 347, 348, 350, 350]
+    title "rixinhahaha/snip 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 345 --> 353
+    line [346, 347, 348, 350, 348, 352, 352]
 ```
 
-2026-10-18 346 → 2026-11-02 350（+4）
+2026-10-18 346 → 2026-11-17 352（+6）
 
 
 ---

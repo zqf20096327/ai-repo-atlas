@@ -1,6 +1,6 @@
 # themanyone/whisper_dictation
 
-⭐ 294 · Python · GPL-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/themanyone/whisper_dictation) · 个人维护
+⭐ 295 · Python · GPL-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/themanyone/whisper_dictation) · 个人维护
 
 **本地语音键盘与语音控制助手，含 AI 聊天与画图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "themanyone/whisper_dictation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 293 --> 295
-    line [294, 294]
+    title "themanyone/whisper_dictation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 293 --> 296
+    line [294, 295, 295]
 ```
 
-2026-10-18 294 → 2026-11-02 294（+0）
+2026-10-18 294 → 2026-11-17 295（+1）
 
 
 ---

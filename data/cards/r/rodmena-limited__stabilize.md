@@ -1,6 +1,6 @@
 # rodmena-limited/stabilize
 
-⭐ 87 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/rodmena-limited/stabilize) · [官网](https://stabilize.readthedocs.io) · 组织维护
+⭐ 87 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/rodmena-limited/stabilize) · [官网](https://stabilize.readthedocs.io) · 组织维护
 
 **面向 agentic 系统的 Python 持久化 DAG 工作流引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rodmena-limited/stabilize 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "rodmena-limited/stabilize 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 86 --> 89
-    line [88, 87, 87]
+    line [88, 87, 88, 87, 87]
 ```
 
-2026-10-18 88 → 2026-11-02 87（-1）
+2026-10-18 88 → 2026-11-17 87（-1）
 
 
 ---

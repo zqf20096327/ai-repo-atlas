@@ -1,6 +1,6 @@
 # shadowquillapp/shadowquillapp
 
-⭐ 27 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/shadowquillapp/shadowquillapp) · 组织维护
+⭐ 28 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/shadowquillapp/shadowquillapp) · 组织维护
 
 **本地离线提示词工程应用：通过 Ollama 运行 Gemma 生成结构化提示词**
 
@@ -44,13 +44,13 @@ Electron + Next.js 桌面应用，面向需要编写提示词的用户：将粗�
 
 ```mermaid
 xychart-beta
-    title "shadowquillapp/shadowquillapp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "shadowquillapp/shadowquillapp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

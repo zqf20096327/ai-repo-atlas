@@ -1,6 +1,6 @@
 # tinyhumansai/tinyjuice
 
-⭐ 22 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tinyhumansai/tinyjuice) · [官网](https://crates.io/crates/tinyjuice) · 组织维护
+⭐ 22 · Rust · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/tinyhumansai/tinyjuice) · [官网](https://crates.io/crates/tinyjuice) · 组织维护
 
 **面向终端重度 agent 的 token 压缩库：压缩工具输出进模型上下文**
 
@@ -44,13 +44,13 @@ Rust 编写的 token 压缩库，部署在工具输出与模型上下文之间�
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/tinyjuice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "tinyhumansai/tinyjuice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

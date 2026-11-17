@@ -1,6 +1,6 @@
 # jenly1314/MLKit
 
-⭐ 1,176 · Kotlin · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/jenly1314/MLKit) · [官网](https://jenly1314.github.io/MLKit/) · 个人维护 · 中文 README
+⭐ 1,178 · Kotlin · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/jenly1314/MLKit) · [官网](https://jenly1314.github.io/MLKit/) · 个人维护 · 中文 README
 
 **Android 端 Google ML Kit 机器视觉功能的封装工具库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jenly1314/MLKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1175 --> 1177
-    line [1176, 1176]
+    title "jenly1314/MLKit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1175 --> 1179
+    line [1176, 1177, 1178, 1178]
 ```
 
-2026-10-18 1,176 → 2026-11-02 1,176（+0）
+2026-10-18 1,176 → 2026-11-17 1,178（+2）
 
 
 ---

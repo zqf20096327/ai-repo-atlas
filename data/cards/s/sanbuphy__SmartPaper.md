@@ -1,6 +1,6 @@
 # sanbuphy/SmartPaper
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/sanbuphy/SmartPaper) · 个人维护 · 中文 README
+⭐ 61 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/sanbuphy/SmartPaper) · 个人维护 · 中文 README
 
 **帮研究者快速阅读论文的 LLM 分析助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanbuphy/SmartPaper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "sanbuphy/SmartPaper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

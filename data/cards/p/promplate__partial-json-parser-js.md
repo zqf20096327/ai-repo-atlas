@@ -1,6 +1,6 @@
 # promplate/partial-json-parser-js
 
-⭐ 246 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/promplate/partial-json-parser-js) · [官网](https://npmx.dev/partial-json) · 组织维护
+⭐ 248 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/promplate/partial-json-parser-js) · [官网](https://npmx.dev/partial-json) · 组织维护
 
 **解析 LLM 流式输出的不完整 JSON 的 JS 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "promplate/partial-json-parser-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 245 --> 247
-    line [246, 246]
+    title "promplate/partial-json-parser-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 245 --> 249
+    line [246, 248, 248]
 ```
 
-2026-10-18 246 → 2026-11-02 246（+0）
+2026-10-18 246 → 2026-11-17 248（+2）
 
 
 ---

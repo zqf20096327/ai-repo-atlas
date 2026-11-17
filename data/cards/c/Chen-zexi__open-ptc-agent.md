@@ -1,6 +1,6 @@
 # Chen-zexi/open-ptc-agent
 
-⭐ 731 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/Chen-zexi/open-ptc-agent) · 个人维护 · 中文 README
+⭐ 733 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/Chen-zexi/open-ptc-agent) · 个人维护 · 中文 README
 
 **开源实现 Anthropic 程序化工具调用（PTC）的代码执行 Agent 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chen-zexi/open-ptc-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 729 --> 732
-    line [730, 731, 731]
+    title "Chen-zexi/open-ptc-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 729 --> 734
+    line [730, 731, 732, 733, 733]
 ```
 
-2026-10-18 730 → 2026-11-02 731（+1）
+2026-10-18 730 → 2026-11-17 733（+3）
 
 
 ---

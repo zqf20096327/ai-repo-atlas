@@ -1,6 +1,6 @@
 # sparkplug604/praxis
 
-⭐ 61 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/sparkplug604/praxis) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/sparkplug604/praxis) · 个人维护
 
 **给 AI agent 提供可溯源共享组织记忆的本地上下文层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sparkplug604/praxis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
+    title "sparkplug604/praxis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    line [59, 60, 61, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

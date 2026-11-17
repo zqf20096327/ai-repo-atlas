@@ -1,6 +1,6 @@
 # liustack/pptwise
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/liustack/pptwise) · [官网](https://pptwise.com) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/liustack/pptwise) · [官网](https://pptwise.com) · 个人维护 · 中文 README
 
 **让 AI agent 在本地生成可编辑 PPTX 的渲染引擎与 Agent skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liustack/pptwise 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 21 --> 28
-    line [22, 24, 25, 26, 27, 27]
+    title "liustack/pptwise 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 29
+    line [22, 24, 25, 26, 27, 24, 27, 28, 28]
 ```
 
-2026-10-18 22 → 2026-11-02 27（+5）
+2026-10-18 22 → 2026-11-17 28（+6）
 
 
 ---

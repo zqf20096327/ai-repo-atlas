@@ -1,6 +1,6 @@
 # tonyzyl/DiffusionReconstruct
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-03-22 · [GitHub](https://github.com/tonyzyl/DiffusionReconstruct) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-03-22 · [GitHub](https://github.com/tonyzyl/DiffusionReconstruct) · 个人维护
 
 **稀疏观测下全球物理场重建的跨注意力扩散模型代码库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tonyzyl/DiffusionReconstruct 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "tonyzyl/DiffusionReconstruct 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

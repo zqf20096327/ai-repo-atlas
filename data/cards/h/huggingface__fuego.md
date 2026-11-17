@@ -1,6 +1,6 @@
 # huggingface/fuego
 
-⭐ 87 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/fuego) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/fuego) · 组织维护
 
 **在 Hugging Face Spaces 上运行脚本的云执行工具（WIP）**
 
@@ -42,13 +42,13 @@ Hugging Face 维护的项目，定位为在云端运行代码的接口，具体�
 
 ```mermaid
 xychart-beta
-    title "huggingface/fuego 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "huggingface/fuego 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 85 --> 88
+    line [87, 86, 86]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-17 86（-1）
 
 
 ---

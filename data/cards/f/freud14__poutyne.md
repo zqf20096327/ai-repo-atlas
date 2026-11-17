@@ -1,6 +1,6 @@
 # freud14/poutyne
 
-⭐ 578 · Python · LGPL-3.0 · 推送 2026-06-07 · [GitHub](https://github.com/freud14/poutyne) · [官网](https://poutyne.org/) · 组织维护
+⭐ 579 · Python · LGPL-3.0 · 推送 2026-06-07 · [GitHub](https://github.com/freud14/poutyne) · [官网](https://poutyne.org/) · 组织维护
 
 **PyTorch 简化训练框架：省去训练神经网络的样板代码**
 
@@ -44,13 +44,13 @@ Poutyne 是基于 PyTorch 的深度学习训练框架，定位与 Keras 类似�
 
 ```mermaid
 xychart-beta
-    title "freud14/poutyne 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "freud14/poutyne 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 577 --> 580
-    line [579, 578, 578]
+    line [579, 578, 579, 578, 579, 579]
 ```
 
-2026-10-18 579 → 2026-11-02 578（-1）
+2026-10-18 579 → 2026-11-17 579（+0）
 
 
 ---

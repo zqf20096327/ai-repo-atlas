@@ -1,6 +1,6 @@
 # alexandephilia/Experimental-LLMs-Prompts
 
-⭐ 17 · Shell · 推送 2026-02-14 · [GitHub](https://github.com/alexandephilia/Experimental-LLMs-Prompts) · 个人维护
+⭐ 19 · Shell · 推送 2026-02-14 · [GitHub](https://github.com/alexandephilia/Experimental-LLMs-Prompts) · 个人维护
 
 **实验性 LLM 提示词集合：虚无主义系统提示与各 AI 工具系统提示转储**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexandephilia/Experimental-LLMs-Prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "alexandephilia/Experimental-LLMs-Prompts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

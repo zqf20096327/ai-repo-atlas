@@ -1,6 +1,6 @@
 # Mijutra/caveman-copilot
 
-⭐ 90 · Makefile · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Mijutra/caveman-copilot) · 个人维护
+⭐ 88 · Makefile · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Mijutra/caveman-copilot) · 个人维护
 
 **给 GitHub Copilot 用的 Caveman 风格提示词文件：复制即用无需安装**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mijutra/caveman-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 88 --> 91
-    line [89, 90, 90]
+    title "Mijutra/caveman-copilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 87 --> 91
+    line [89, 90, 89, 88, 88]
 ```
 
-2026-10-18 89 → 2026-11-02 90（+1）
+2026-10-18 89 → 2026-11-17 88（-1）
 
 
 ---

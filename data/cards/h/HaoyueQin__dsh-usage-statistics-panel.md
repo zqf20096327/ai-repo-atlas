@@ -1,6 +1,6 @@
 # HaoyueQin/dsh-usage-statistics-panel
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HaoyueQin/dsh-usage-statistics-panel) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HaoyueQin/dsh-usage-statistics-panel) · 个人维护 · 中文 README
 
 **DSH 插件：Token 用量统计面板，含热力图与命中率曲线**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的 web 插件，作为插件页与左侧栏的独立�
 
 ```mermaid
 xychart-beta
-    title "HaoyueQin/dsh-usage-statistics-panel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 27, 27]
+    title "HaoyueQin/dsh-usage-statistics-panel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

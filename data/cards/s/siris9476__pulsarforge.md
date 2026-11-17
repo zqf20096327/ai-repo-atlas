@@ -1,6 +1,6 @@
 # siris9476/pulsarforge
 
-⭐ 23 · C · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/siris9476/pulsarforge) · 个人维护
+⭐ 24 · C · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/siris9476/pulsarforge) · 个人维护
 
 **CPU-only LLM 推理引擎：在 32GB 内存笔记本上流式运行 744B MoE 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "siris9476/pulsarforge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "siris9476/pulsarforge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

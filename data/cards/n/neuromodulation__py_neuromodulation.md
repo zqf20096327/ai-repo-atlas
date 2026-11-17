@@ -1,6 +1,6 @@
 # neuromodulation/py_neuromodulation
 
-⭐ 81 · Python · MIT · 推送 2026-02-04 · [GitHub](https://github.com/neuromodulation/py_neuromodulation) · [官网](https://neuromodulation.github.io/py_neuromodulation/) · 组织维护
+⭐ 83 · Python · MIT · 推送 2026-02-04 · [GitHub](https://github.com/neuromodulation/py_neuromodulation) · [官网](https://neuromodulation.github.io/py_neuromodulation/) · 组织维护
 
 **颅内神经电生理记录的实时特征提取 Python 工具箱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neuromodulation/py_neuromodulation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    title "neuromodulation/py_neuromodulation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 80 --> 84
+    line [81, 83, 83]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 83（+2）
 
 
 ---

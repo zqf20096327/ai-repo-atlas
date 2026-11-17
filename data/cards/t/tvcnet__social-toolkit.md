@@ -1,6 +1,6 @@
 # tvcnet/social-toolkit
 
-⭐ 18 · JavaScript · 推送 2026-03-24 · [GitHub](https://github.com/tvcnet/social-toolkit) · [官网](https://www.reddit.com/r/tvcnet/comments/1rummzc/tvcnet_socialtoolkit_made_for_tvcnet_website/) · 组织维护
+⭐ 19 · JavaScript · 推送 2026-03-24 · [GitHub](https://github.com/tvcnet/social-toolkit) · [官网](https://www.reddit.com/r/tvcnet/comments/1rummzc/tvcnet_socialtoolkit_made_for_tvcnet_website/) · 组织维护
 
 **浏览器单文件社媒文案生成器：面向非营利组织与小微企业**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tvcnet/social-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "tvcnet/social-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

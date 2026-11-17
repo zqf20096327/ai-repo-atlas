@@ -1,6 +1,6 @@
 # cerfacs-globc/idownscale
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/cerfacs-globc/idownscale) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/cerfacs-globc/idownscale) · 组织维护
 
 **科研用气候降尺度工具：从粗分辨率 GCM 场生成公里级气候产品**
 
@@ -45,12 +45,12 @@ CERFACS 在 IRISCC 项目下开发的气候降尺度机器学习工作流：读�
 ```mermaid
 xychart-beta
     title "cerfacs-globc/idownscale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

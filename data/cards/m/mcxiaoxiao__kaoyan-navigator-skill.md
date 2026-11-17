@@ -1,6 +1,6 @@
 # mcxiaoxiao/kaoyan-navigator-skill
 
-⭐ 38 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/mcxiaoxiao/kaoyan-navigator-skill) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/mcxiaoxiao/kaoyan-navigator-skill) · 个人维护 · 中文 README
 
 **给 Codex/Claude Code 的考研择校导航 Skill：联网调研数据并出冲稳保建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mcxiaoxiao/kaoyan-navigator-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "mcxiaoxiao/kaoyan-navigator-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

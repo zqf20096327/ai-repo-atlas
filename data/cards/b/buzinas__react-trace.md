@@ -1,6 +1,6 @@
 # buzinas/react-trace
 
-⭐ 114 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/buzinas/react-trace) · [官网](http://react-trace.js.org/) · 个人维护
+⭐ 119 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/buzinas/react-trace) · [官网](http://react-trace.js.org/) · 个人维护
 
 **React 开发期组件检查器：定位组件源码并联动编辑器与 AI 代理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "buzinas/react-trace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    title "buzinas/react-trace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 113 --> 120
+    line [114, 116, 119, 119]
 ```
 
-2026-10-18 114 → 2026-11-02 114（+0）
+2026-10-18 114 → 2026-11-17 119（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Null-Square/Agent-Behavior-Lab
 
-⭐ 15 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/Null-Square/Agent-Behavior-Lab) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/Null-Square/Agent-Behavior-Lab) · 个人维护
 
 **自托管的工具调用 LLM agent 行为对照实验平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Null-Square/Agent-Behavior-Lab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [17, 15, 15]
+    title "Null-Square/Agent-Behavior-Lab 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [17, 15, 14, 14]
 ```
 
-2026-10-18 17 → 2026-11-02 15（-2）
+2026-10-18 17 → 2026-11-17 14（-3）
 
 
 ---

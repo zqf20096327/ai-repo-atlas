@@ -1,6 +1,6 @@
 # ImmortalDemonGod/money-agent
 
-⭐ 36 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ImmortalDemonGod/money-agent) · [官网](https://onehonestdollar.com/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ImmortalDemonGod/money-agent) · [官网](https://onehonestdollar.com/) · 个人维护
 
 **自主赚钱 agent 的接地验证实验：独立校验器核验 agent 声明**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ImmortalDemonGod/money-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "ImmortalDemonGod/money-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

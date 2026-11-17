@@ -1,6 +1,6 @@
 # atharva9167j/preso
 
-⭐ 20 · TypeScript · MIT · 推送 2025-12-17 · [GitHub](https://github.com/atharva9167j/preso) · [官网](https://preso-ai.vercel.app/) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2025-12-17 · [GitHub](https://github.com/atharva9167j/preso) · [官网](https://preso-ai.vercel.app/) · 个人维护
 
 **AI 驱动的演示文稿生成平台：从提示/文本/文档生成幻灯片**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atharva9167j/preso 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "atharva9167j/preso 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

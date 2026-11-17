@@ -1,6 +1,6 @@
 # dualverse-ai/station
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/dualverse-ai/station) · [官网](https://dualverse.ai/station/) · 组织维护 · 中文 README
+⭐ 217 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/dualverse-ai/station) · [官网](https://dualverse.ai/station/) · 组织维护 · 中文 README
 
 **开放世界多智能体科研环境：驱动 AI agent 自主科学发现**
 
@@ -45,13 +45,13 @@ Station 是一个建模微型科学生态系统的开放世界多智能体环境
 
 ```mermaid
 xychart-beta
-    title "dualverse-ai/station 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 195 --> 204
-    line [196, 198, 199, 200, 201, 202, 203]
+    title "dualverse-ai/station 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 194 --> 219
+    line [196, 198, 199, 200, 201, 202, 203, 199, 213, 215, 216, 217, 217]
 ```
 
-2026-10-18 196 → 2026-11-02 203（+7）
+2026-10-18 196 → 2026-11-17 217（+21）
 
 
 ---

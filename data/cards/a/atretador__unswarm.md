@@ -1,6 +1,6 @@
 # atretador/unswarm
 
-⭐ 15 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/atretador/unswarm) · [官网](https://unswarm.dev/) · 个人维护
+⭐ 16 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/atretador/unswarm) · [官网](https://unswarm.dev/) · 个人维护
 
 **自托管 LLM 推理基础设施控制平面：多机调度与统一 API 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atretador/unswarm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "atretador/unswarm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

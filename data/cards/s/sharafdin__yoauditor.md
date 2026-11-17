@@ -1,6 +1,6 @@
 # sharafdin/yoauditor
 
-⭐ 40 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/sharafdin/yoauditor) · 个人维护
+⭐ 41 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/sharafdin/yoauditor) · 个人维护
 
 **用本地 LLM 审计 GitHub 仓库代码的 Rust CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sharafdin/yoauditor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "sharafdin/yoauditor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

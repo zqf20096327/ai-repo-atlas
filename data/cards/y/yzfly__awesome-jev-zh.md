@@ -1,6 +1,6 @@
 # yzfly/awesome-jev-zh
 
-⭐ 89 · HTML · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/yzfly/awesome-jev-zh) · [官网](https://code.jiangshu.ai/awesome-jev-zh/) · 个人维护 · 中文 README
+⭐ 95 · HTML · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/yzfly/awesome-jev-zh) · [官网](https://code.jiangshu.ai/awesome-jev-zh/) · 个人维护 · 中文 README
 
 **Jev / TypeSafe System One 中文精选清单：资料、SDK、应用与评测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yzfly/awesome-jev-zh 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 82 --> 90
-    line [83, 85, 87, 88, 89]
+    title "yzfly/awesome-jev-zh 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 82 --> 96
+    line [83, 85, 87, 88, 89, 85, 92, 93, 94, 95, 95]
 ```
 
-2026-10-18 83 → 2026-11-02 89（+6）
+2026-10-18 83 → 2026-11-17 95（+12）
 
 
 ---

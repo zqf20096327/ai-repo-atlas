@@ -1,6 +1,6 @@
 # Trusted-AI/adversarial-robustness-toolbox
 
-⭐ 6,295 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox) · [官网](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 6,312 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox) · [官网](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **机器学习安全 Python 库：攻防评测模型的对抗威胁工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Trusted-AI/adversarial-robustness-toolbox 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 6276 --> 6297
-    line [6277, 6280, 6283, 6285, 6287, 6289, 6290, 6292, 6296, 6295, 6295]
+    title "Trusted-AI/adversarial-robustness-toolbox 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 6274 --> 6315
+    line [6277, 6280, 6283, 6285, 6287, 6289, 6290, 6292, 6296, 6295, 6285, 6304, 6308, 6311, 6312, 6311, 6312, 6312]
 ```
 
-2026-10-18 6,277 → 2026-11-02 6,295（+18）
+2026-10-18 6,277 → 2026-11-17 6,312（+35）
 
 
 ---

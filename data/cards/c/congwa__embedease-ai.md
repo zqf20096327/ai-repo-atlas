@@ -1,6 +1,6 @@
 # congwa/embedease-ai
 
-⭐ 74 · Python · 推送 2026-10-28 · [GitHub](https://github.com/congwa/embedease-ai) · [官网](https://embedease-ai.sub2.org/) · 个人维护 · 中文 README
+⭐ 79 · Python · 推送 2026-10-28 · [GitHub](https://github.com/congwa/embedease-ai) · [官网](https://embedease-ai.sub2.org/) · 个人维护 · 中文 README
 
 **面向网站的可嵌入 AI 智能客服与商品推荐系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "congwa/embedease-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 64 --> 75
-    line [66, 65, 70, 72, 74, 74]
+    title "congwa/embedease-ai 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 64 --> 80
+    line [66, 65, 70, 72, 74, 70, 76, 77, 78, 79, 79]
 ```
 
-2026-10-18 66 → 2026-11-02 74（+8）
+2026-10-18 66 → 2026-11-17 79（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # gzbin365/map
 
-⭐ 69 · GPL-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/gzbin365/map) · [官网](https://gzbin.gitbook.io/map/) · 个人维护 · 中文 README
+⭐ 68 · GPL-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/gzbin365/map) · [官网](https://gzbin.gitbook.io/map/) · 个人维护 · 中文 README
 
 **算法工程师的个人网址导航与知识收藏夹**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "gzbin365/map 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "gzbin365/map 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 68（-1）
 
 
 ---

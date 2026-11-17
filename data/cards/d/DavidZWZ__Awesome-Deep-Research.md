@@ -1,6 +1,6 @@
 # DavidZWZ/Awesome-Deep-Research
 
-⭐ 875 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-Deep-Research) · [官网](https://arxiv.org/abs/2506.18959) · 个人维护 · 中文 README
+⭐ 876 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-Deep-Research) · [官网](https://arxiv.org/abs/2506.18959) · 个人维护 · 中文 README
 
 **Agentic Deep Research 领域的资源策展清单（论文/产品/开源实现）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DavidZWZ/Awesome-Deep-Research 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 871 --> 876
-    line [872, 873, 874, 875, 874, 875, 875]
+    title "DavidZWZ/Awesome-Deep-Research 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 871 --> 877
+    line [872, 873, 874, 875, 874, 875, 873, 875, 876, 875, 876, 876]
 ```
 
-2026-10-18 872 → 2026-11-02 875（+3）
+2026-10-18 872 → 2026-11-17 876（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hunmer/agent-spaces
 
-⭐ 53 · TypeScript · 推送 2026-09-30 · [GitHub](https://github.com/hunmer/agent-spaces) · [官网](https://hunmer.github.io/agent-spaces/) · 个人维护 · 中文 README
+⭐ 57 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/hunmer/agent-spaces) · [官网](https://hunmer.github.io/agent-spaces/) · 个人维护 · 中文 README
 
 **多 Agent 协作的可视化 DAG 工作流平台，编排 AI 任务自动化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hunmer/agent-spaces 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "hunmer/agent-spaces 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 52 --> 58
+    line [53, 55, 56, 57, 57]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 57（+4）
 
 
 ---

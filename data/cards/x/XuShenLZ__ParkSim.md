@@ -1,6 +1,6 @@
 # XuShenLZ/ParkSim
 
-⭐ 73 · Jupyter Notebook · GPL-3.0 · 推送 2025-11-12 · [GitHub](https://github.com/XuShenLZ/ParkSim) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **停车场车辆仿真与行为预测研究工具集**
 
@@ -11,7 +11,7 @@ Berkeley 团队维护的 monorepo，含两个子项目：ParkPredict+ 用 CNN �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Berkeley 团队维护的 monorepo，含两个子项目：ParkPredict+ 用 CNN �
 
 ```mermaid
 xychart-beta
-    title "XuShenLZ/ParkSim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "XuShenLZ/ParkSim 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    line [72, 73, 72, 72]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-07 72（+0）
 
 
 ---

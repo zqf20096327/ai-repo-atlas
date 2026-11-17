@@ -1,6 +1,6 @@
 # 2022hpsk/SpeakerMemR1
 
-⭐ 103 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/2022hpsk/SpeakerMemR1) · [官网](https://2022hpsk.github.io/SpeakerMemR1/) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/2022hpsk/SpeakerMemR1) · [官网](https://2022hpsk.github.io/SpeakerMemR1/) · 组织维护
 
 **多方对话的以说话者为中心双轨记忆研究框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "2022hpsk/SpeakerMemR1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "2022hpsk/SpeakerMemR1 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-17"]
     y-axis "stars" 102 --> 115
-    line [114, 103, 103]
+    line [114, 103, 104, 105, 105]
 ```
 
-2026-10-18 114 → 2026-11-02 103（-11）
+2026-10-18 114 → 2026-11-17 105（-9）
 
 
 ---

@@ -1,6 +1,6 @@
 # e2b-dev/surf
 
-⭐ 873 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/e2b-dev/surf) · [官网](https://surf.e2b.dev) · 组织维护
+⭐ 882 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/e2b-dev/surf) · [官网](https://surf.e2b.dev) · 组织维护
 
 **让 AI agent 在虚拟桌面中执行自然语言指令的 Next.js 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/surf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 872 --> 875
-    line [874, 873, 873]
+    title "e2b-dev/surf 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 872 --> 883
+    line [874, 873, 878, 879, 880, 882, 881, 882, 882]
 ```
 
-2026-10-18 874 → 2026-11-02 873（-1）
+2026-10-18 874 → 2026-11-17 882（+8）
 
 
 ---

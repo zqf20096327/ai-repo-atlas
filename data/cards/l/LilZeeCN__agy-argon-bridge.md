@@ -1,6 +1,6 @@
 # LilZeeCN/agy-argon-bridge
 
-⭐ 15 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LilZeeCN/agy-argon-bridge) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/LilZeeCN/agy-argon-bridge) · 个人维护 · 中文 README
 
 **把 Antigravity CLI 桥接到 Vertex AI 以抵扣 GCP 赠金的本地代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LilZeeCN/agy-argon-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "LilZeeCN/agy-argon-bridge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 20
+    line [15, 17, 18, 19, 19]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 19（+4）
 
 
 ---

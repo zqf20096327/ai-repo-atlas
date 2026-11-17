@@ -1,6 +1,6 @@
 # stepfun-ai/Step-3.7-Flash
 
-⭐ 347 · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/stepfun-ai/Step-3.7-Flash) · [官网](https://static.stepfun.com/blog/step-3.7-flash/) · 组织维护 · 中文 README
+⭐ 348 · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/stepfun-ai/Step-3.7-Flash) · [官网](https://static.stepfun.com/blog/step-3.7-flash/) · 组织维护 · 中文 README
 
 **面向开发者 Agent 工作流的 198B MoE 视觉语言模型**
 
@@ -44,13 +44,13 @@ Step 3.7 Flash 是阶跃星辰开源的 198B 参数稀疏 MoE 视觉语言模型
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step-3.7-Flash 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "stepfun-ai/Step-3.7-Flash 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-10", "2026-11-17"]
     y-axis "stars" 346 --> 349
-    line [347, 348, 347, 347]
+    line [347, 348, 347, 348, 348]
 ```
 
-2026-10-18 347 → 2026-11-02 347（+0）
+2026-10-18 347 → 2026-11-17 348（+1）
 
 
 ---

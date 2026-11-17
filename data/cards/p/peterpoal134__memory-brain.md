@@ -1,6 +1,6 @@
 # peterpoal134/memory-brain
 
-⭐ 82 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/peterpoal134/memory-brain) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 AstrBot 的长期记忆与生活层插件套件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

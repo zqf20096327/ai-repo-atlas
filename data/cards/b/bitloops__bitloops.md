@@ -1,6 +1,6 @@
 # bitloops/bitloops
 
-⭐ 243 · Rust · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/bitloops/bitloops) · [官网](https://bitloops.com) · 组织维护
+⭐ 245 · Rust · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/bitloops/bitloops) · [官网](https://bitloops.com) · 组织维护
 
 **为 AI 编程 agent 提供持久化代码库上下文的本地运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bitloops/bitloops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 242 --> 245
-    line [244, 243, 243]
+    title "bitloops/bitloops 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 242 --> 246
+    line [244, 243, 244, 245, 245]
 ```
 
-2026-10-18 244 → 2026-11-02 243（-1）
+2026-10-18 244 → 2026-11-17 245（+1）
 
 
 ---

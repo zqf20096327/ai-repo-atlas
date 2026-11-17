@@ -1,6 +1,6 @@
 # Tairitsua/Monica
 
-⭐ 14 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Tairitsua/Monica) · [官网](https://monica.dpdns.org/) · 个人维护 · 中文 README
+⭐ 17 · C# · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Tairitsua/Monica) · [官网](https://monica.dpdns.org/) · 个人维护 · 中文 README
 
 **面向 agent 驱动开发的模块化 .NET 后端基础设施框架**
 
@@ -44,13 +44,13 @@ Monica 是 .NET 模块化基础设施库集合：通过 AddMonica 回调构建�
 
 ```mermaid
 xychart-beta
-    title "Tairitsua/Monica 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "Tairitsua/Monica 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

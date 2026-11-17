@@ -1,6 +1,6 @@
 # NVIDIA/halos-outside-in-safety
 
-⭐ 80 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/halos-outside-in-safety) · 组织维护
+⭐ 85 · C++ · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/NVIDIA/halos-outside-in-safety) · 组织维护
 
 **NVIDIA 机器人外部摄像头安全蓝图：用基础设施相机实时控制机器人行为**
 
@@ -45,13 +45,13 @@ NVIDIA Halos for Robotics 的一部分，为构建物理 AI 安全 agent 提供�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/halos-outside-in-safety 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 77 --> 81
-    line [78, 79, 80, 80]
+    title "NVIDIA/halos-outside-in-safety 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 77 --> 86
+    line [78, 79, 80, 79, 82, 83, 84, 85, 85]
 ```
 
-2026-10-18 78 → 2026-11-02 80（+2）
+2026-10-18 78 → 2026-11-17 85（+7）
 
 
 ---

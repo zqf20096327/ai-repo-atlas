@@ -1,6 +1,6 @@
 # nguyenyou/scalex
 
-⭐ 110 · Scala · MIT · 推送 2026-09-18 · [GitHub](https://github.com/nguyenyou/scalex) · [官网](https://nguyenyou.github.io/scalex/) · 个人维护
+⭐ 111 · Scala · MIT · 推送 2026-09-18 · [GitHub](https://github.com/nguyenyou/scalex) · [官网](https://nguyenyou.github.io/scalex/) · 个人维护
 
 **给编码 Agent 的 Scala 代码智能查询插件，免编译免构建服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nguyenyou/scalex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    title "nguyenyou/scalex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 109 --> 112
+    line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-11-02 110（+0）
+2026-10-18 110 → 2026-11-17 111（+1）
 
 
 ---

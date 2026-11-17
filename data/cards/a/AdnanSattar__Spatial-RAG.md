@@ -1,6 +1,6 @@
 # AdnanSattar/Spatial-RAG
 
-⭐ 19 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/AdnanSattar/Spatial-RAG) · 个人维护
+⭐ 20 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/AdnanSattar/Spatial-RAG) · 个人维护
 
 **面向地理空间文档的空间增强 RAG 全栈系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdnanSattar/Spatial-RAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "AdnanSattar/Spatial-RAG 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 18, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

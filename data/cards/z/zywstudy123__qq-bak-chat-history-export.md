@@ -1,6 +1,6 @@
 # zywstudy123/qq-bak-chat-history-export
 
-⭐ 20 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/zywstudy123/qq-bak-chat-history-export) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/zywstudy123/qq-bak-chat-history-export) · 个人维护 · 中文 README
 
 **把 QQ/NTQQ 聊天记录导出为 Agent 可读的 TXT/JSON/CSV 工具**
 
@@ -44,13 +44,13 @@ Python 脚本工具，将 QQ 旧版 .bak 备份（经 QQ 官方导入后）或�
 
 ```mermaid
 xychart-beta
-    title "zywstudy123/qq-bak-chat-history-export 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 13 --> 21
-    line [14, 16, 18, 19, 20]
+    title "zywstudy123/qq-bak-chat-history-export 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 23
+    line [14, 16, 18, 19, 20, 18, 21, 22, 22]
 ```
 
-2026-10-18 14 → 2026-11-02 20（+6）
+2026-10-18 14 → 2026-11-17 22（+8）
 
 
 ---

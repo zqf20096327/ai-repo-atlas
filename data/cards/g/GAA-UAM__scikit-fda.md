@@ -1,6 +1,6 @@
 # GAA-UAM/scikit-fda
 
-⭐ 359 · Python · BSD-3-Clause · 推送 2026-10-09 · [GitHub](https://github.com/GAA-UAM/scikit-fda) · [官网](https://fda.readthedocs.io) · 组织维护
+⭐ 360 · Python · BSD-3-Clause · 推送 2026-11-05 · [GitHub](https://github.com/GAA-UAM/scikit-fda) · [官网](https://fda.readthedocs.io) · 组织维护
 
 **函数型数据分析（FDA）Python 库：为依赖连续参数的数据提供统计工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GAA-UAM/scikit-fda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 357 --> 360
-    line [358, 359, 359]
+    title "GAA-UAM/scikit-fda 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 357 --> 361
+    line [358, 359, 360, 360]
 ```
 
-2026-10-18 358 → 2026-11-02 359（+1）
+2026-10-18 358 → 2026-11-17 360（+2）
 
 
 ---

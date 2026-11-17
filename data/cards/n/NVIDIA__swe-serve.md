@@ -1,6 +1,6 @@
 # NVIDIA/swe-serve
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/swe-serve) · [官网](https://research.nvidia.com/benchmarks/swe-serve) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/swe-serve) · [官网](https://research.nvidia.com/benchmarks/swe-serve) · 组织维护
 
 **生产推理工程任务基准：53 个源自 SGLang PR 的 agent 评测**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 agentic 基准，包含 53 个源自 SGLang 已合并生产变�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/swe-serve 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    title "NVIDIA/swe-serve 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 19, 23, 24, 24]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 24（+5）
 
 
 ---

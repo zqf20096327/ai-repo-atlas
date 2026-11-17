@@ -1,6 +1,6 @@
 # xiaotonng/lc2mcp
 
-⭐ 60 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/xiaotonng/lc2mcp) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/xiaotonng/lc2mcp) · 个人维护
 
 **把 LangChain 工具转换为 FastMCP 工具的一行代码适配器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaotonng/lc2mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "xiaotonng/lc2mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 61
+    line [60, 55, 55]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 55（-5）
 
 
 ---

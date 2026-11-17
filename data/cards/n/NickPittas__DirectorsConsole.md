@@ -1,6 +1,6 @@
 # NickPittas/DirectorsConsole
 
-⭐ 364 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/NickPittas/DirectorsConsole) · 个人维护
+⭐ 372 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/NickPittas/DirectorsConsole) · 个人维护
 
 **面向电影人的 AI 图像/视频生成工作台：提示词设计+ComfyUI并行渲染**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NickPittas/DirectorsConsole 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 359 --> 365
-    line [360, 361, 363, 362, 363, 364, 364]
+    title "NickPittas/DirectorsConsole 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 359 --> 374
+    line [360, 361, 363, 362, 363, 364, 363, 367, 371, 372, 373, 372, 372]
 ```
 
-2026-10-18 360 → 2026-11-02 364（+4）
+2026-10-18 360 → 2026-11-17 372（+12）
 
 
 ---

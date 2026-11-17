@@ -1,6 +1,6 @@
 # dotaiz/AI-ML
 
-⭐ 75 · Jupyter Notebook · 推送 2026-09-28 · [GitHub](https://github.com/dotaiz/AI-ML) · [官网](https://www.dotaiz.com) · 个人维护
+⭐ 76 · Jupyter Notebook · 推送 2026-09-28 · [GitHub](https://github.com/dotaiz/AI-ML) · [官网](https://www.dotaiz.com) · 个人维护
 
 **AI/ML 与生成式 AI 的实战 notebook 与学习资源策展库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dotaiz/AI-ML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    title "dotaiz/AI-ML 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 74 --> 77
+    line [75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

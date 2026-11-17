@@ -1,6 +1,6 @@
 # TilmanGriesel/chipper
 
-⭐ 485 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/TilmanGriesel/chipper) · [官网](https://chipper.tilmangriesel.com/) · 个人维护
+⭐ 487 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/TilmanGriesel/chipper) · [官网](https://chipper.tilmangriesel.com/) · 个人维护
 
 **面向折腾者的本地 RAG 工具：Web/CLI 界面与 Ollama 代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TilmanGriesel/chipper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 484 --> 486
-    line [485, 485]
+    title "TilmanGriesel/chipper 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 484 --> 488
+    line [485, 486, 487, 487]
 ```
 
-2026-10-18 485 → 2026-11-02 485（+0）
+2026-10-18 485 → 2026-11-17 487（+2）
 
 
 ---

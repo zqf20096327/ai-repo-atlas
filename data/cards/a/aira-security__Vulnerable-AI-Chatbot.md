@@ -1,6 +1,6 @@
 # aira-security/Vulnerable-AI-Chatbot
 
-⭐ 43 · HTML · MIT · 推送 2025-11-06 · [GitHub](https://github.com/aira-security/Vulnerable-AI-Chatbot) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **供安全学习练习的故意含漏洞的 AI 聊天机器人应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aira-security/Vulnerable-AI-Chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-07 43（+0）
 
 
 ---

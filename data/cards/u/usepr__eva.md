@@ -1,6 +1,6 @@
 # usepr/eva
 
-⭐ 428 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/usepr/eva) · 个人维护 · 中文 README
+⭐ 431 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/usepr/eva) · 个人维护 · 中文 README
 
 **单文件零依赖命令行 AI Agent，帮用户执行运维与脚本任务**
 
@@ -45,13 +45,13 @@ EVA 是一个仅由 eva.py 单文件构成的 Agent，需 Python 即可运行，
 
 ```mermaid
 xychart-beta
-    title "usepr/eva 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 424 --> 429
-    line [425, 428, 428]
+    title "usepr/eva 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 424 --> 432
+    line [425, 428, 425, 429, 431, 431]
 ```
 
-2026-10-18 425 → 2026-11-02 428（+3）
+2026-10-18 425 → 2026-11-17 431（+6）
 
 
 ---

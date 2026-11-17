@@ -1,6 +1,6 @@
 # mllam/weather-model-graphs
 
-⭐ 35 · Python · 推送 2026-08-17 · [GitHub](https://github.com/mllam/weather-model-graphs) · [官网](https://kutt.to/mllam) · 组织维护
+⭐ 35 · Python · 推送 2026-11-16 · [GitHub](https://github.com/mllam/weather-model-graphs) · [官网](https://kutt.to/mllam) · 组织维护
 
 **构建、可视化与存储数据驱动天气模型图的 Python 工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mllam/weather-model-graphs 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
+    x-axis ["2026-10-31", "2026-11-17"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-31 35 → 2026-11-02 35（+0）
+2026-10-31 35 → 2026-11-17 35（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # UditAkhourii/cdaf
 
-⭐ 225 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/UditAkhourii/cdaf) · [官网](https://zenodo.org/records/22110594) · 个人维护
+⭐ 226 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/UditAkhourii/cdaf) · [官网](https://zenodo.org/records/22110594) · 个人维护
 
 **视频旁车描述格式与工具链：让 AI 代理读文本代替重复看视频**
 
@@ -44,13 +44,13 @@ CDAF 是一个开放的视频旁车（sidecar）文件格式：在视频旁生�
 
 ```mermaid
 xychart-beta
-    title "UditAkhourii/cdaf 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 220 --> 226
-    line [221, 223, 224, 225, 225]
+    title "UditAkhourii/cdaf 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 220 --> 227
+    line [221, 223, 224, 225, 224, 225, 226, 226]
 ```
 
-2026-10-18 221 → 2026-11-02 225（+4）
+2026-10-18 221 → 2026-11-17 226（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # jncraton/languagemodels
 
-⭐ 1,188 · HTML · MIT · 推送 2026-02-19 · [GitHub](https://github.com/jncraton/languagemodels) · [官网](https://jncraton.github.io/languagemodels/) · 个人维护
+⭐ 1,187 · HTML · MIT · 推送 2026-02-19 · [GitHub](https://github.com/jncraton/languagemodels) · [官网](https://jncraton.github.io/languagemodels/) · 个人维护
 
 **在 512MB 内存内本地运行大语言模型的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jncraton/languagemodels 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 1187 --> 1190
-    line [1189, 1188, 1188]
+    title "jncraton/languagemodels 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1186 --> 1190
+    line [1189, 1188, 1189, 1187, 1187]
 ```
 
-2026-10-18 1,189 → 2026-11-02 1,188（-1）
+2026-10-18 1,189 → 2026-11-17 1,187（-2）
 
 
 ---

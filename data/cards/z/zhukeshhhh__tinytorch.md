@@ -1,6 +1,6 @@
 # zhukeshhhh/tinytorch
 
-⭐ 25 · C++ · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zhukeshhhh/tinytorch) · 个人维护
+⭐ 26 · C++ · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zhukeshhhh/tinytorch) · 个人维护
 
 **教学用 C++ 张量库：理解深度学习框架底层机制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhukeshhhh/tinytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "zhukeshhhh/tinytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

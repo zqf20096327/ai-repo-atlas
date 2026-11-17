@@ -1,6 +1,6 @@
 # timothywarner/ai900
 
-⭐ 92 · HTML · MIT · 推送 2026-09-19 · [GitHub](https://github.com/timothywarner/ai900) · [官网](https://techtrainertim.com) · 个人维护
+⭐ 93 · HTML · MIT · 推送 2026-09-19 · [GitHub](https://github.com/timothywarner/ai900) · [官网](https://techtrainertim.com) · 个人维护
 
 **AI-900 Azure AI 基础认证备考课程仓库（含动手演示）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "timothywarner/ai900 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "timothywarner/ai900 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 91 --> 94
-    line [93, 92, 92]
+    line [93, 92, 93, 92, 93, 93]
 ```
 
-2026-10-18 93 → 2026-11-02 92（-1）
+2026-10-18 93 → 2026-11-17 93（+0）
 
 
 ---

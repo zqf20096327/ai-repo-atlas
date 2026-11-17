@@ -1,6 +1,6 @@
 # Weaxs/stock-analysis-plugin
 
-⭐ 37 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Weaxs/stock-analysis-plugin) · [官网](https://www.npmjs.com/package/@weaxs/stock-analysis-plugin) · 个人维护 · 中文 README
+⭐ 95 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Weaxs/stock-analysis-plugin) · [官网](https://www.npmjs.com/package/stock-analysis-plugin) · 个人维护 · 中文 README
 
 **给 AI agent 用的多市场股票分析/选股/回测插件（70 工具+21 技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Weaxs/stock-analysis-plugin 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 28 --> 38
-    line [29, 30, 33, 34, 35, 36, 37, 37]
+    title "Weaxs/stock-analysis-plugin 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 102
+    line [29, 30, 33, 34, 35, 36, 37, 30, 38, 41, 76, 90, 93, 94, 96, 95, 95]
 ```
 
-2026-10-18 29 → 2026-11-02 37（+8）
+2026-10-18 29 → 2026-11-17 95（+66）
 
 
 ---

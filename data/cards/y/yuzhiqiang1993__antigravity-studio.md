@@ -1,6 +1,6 @@
 # yuzhiqiang1993/antigravity-studio
 
-⭐ 36 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yuzhiqiang1993/antigravity-studio) · 个人维护 · 中文 README
+⭐ 47 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yuzhiqiang1993/antigravity-studio) · 个人维护 · 中文 README
 
 **Antigravity 多账号管理与模型代理桌面客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuzhiqiang1993/antigravity-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 28 --> 37
-    line [29, 30, 31, 33, 35, 36, 36]
+    title "yuzhiqiang1993/antigravity-studio 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 28 --> 48
+    line [29, 30, 31, 33, 35, 36, 31, 37, 42, 44, 45, 47, 47]
 ```
 
-2026-10-18 29 → 2026-11-02 36（+7）
+2026-10-18 29 → 2026-11-17 47（+18）
 
 
 ---

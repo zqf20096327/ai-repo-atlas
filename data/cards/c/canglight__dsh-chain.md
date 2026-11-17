@@ -1,6 +1,6 @@
 # canglight/dsh-chain
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/canglight/dsh-chain) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/canglight/dsh-chain) · 个人维护 · 中文 README
 
 **DSH 记忆插件：记录决策理由并每轮注入提示**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "canglight/dsh-chain 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 12]
+    title "canglight/dsh-chain 星数(近 6 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 23
+    line [10, 12, 20, 21, 22, 22]
 ```
 
-2026-11-01 10 → 2026-11-02 12（+2）
+2026-11-01 10 → 2026-11-17 22（+12）
 
 
 ---

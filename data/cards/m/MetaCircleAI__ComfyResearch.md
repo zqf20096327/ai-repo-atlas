@@ -1,6 +1,6 @@
 # MetaCircleAI/ComfyResearch
 
-⭐ 33 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/MetaCircleAI/ComfyResearch) · 组织维护 · 中文 README
+⭐ 34 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/MetaCircleAI/ComfyResearch) · 组织维护 · 中文 README
 
 **本地可视化工作台：以节点图构建可复现的机器学习实验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MetaCircleAI/ComfyResearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33]
+    title "MetaCircleAI/ComfyResearch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

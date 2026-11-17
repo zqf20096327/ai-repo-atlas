@@ -1,6 +1,6 @@
 # GetSoloTech/solo-cli
 
-⭐ 302 · Python · Apache-2.0 · 推送 2026-04-11 · [GitHub](https://github.com/GetSoloTech/solo-cli) · [官网](https://getsolo.tech/) · 组织维护
+⭐ 303 · Python · Apache-2.0 · 推送 2026-04-11 · [GitHub](https://github.com/GetSoloTech/solo-cli) · [官网](https://getsolo.tech/) · 组织维护
 
 **面向 Physical AI 的命令行工具：微调并部署边缘端模型**
 
@@ -45,13 +45,13 @@ Python 3.12+ 的 CLI 工具，用于在本地/边缘硬件上部署 Physical AI�
 
 ```mermaid
 xychart-beta
-    title "GetSoloTech/solo-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 300 --> 303
-    line [301, 302, 302]
+    title "GetSoloTech/solo-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 300 --> 304
+    line [301, 302, 303, 303]
 ```
 
-2026-10-18 301 → 2026-11-02 302（+1）
+2026-10-18 301 → 2026-11-17 303（+2）
 
 
 ---

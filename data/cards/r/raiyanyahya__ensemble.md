@@ -1,6 +1,6 @@
 # raiyanyahya/ensemble
 
-⭐ 13 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/raiyanyahya/ensemble) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/raiyanyahya/ensemble) · 个人维护
 
 **多模型共识辩论工具：多个 LLM 提案、互审、反驳、投票、合成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raiyanyahya/ensemble 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "raiyanyahya/ensemble 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

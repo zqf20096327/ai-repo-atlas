@@ -1,6 +1,6 @@
 # chi2liu/ABC-GRPO
 
-⭐ 438 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/chi2liu/ABC-GRPO) · [官网](https://arxiv.org/pdf/2601.03895) · 组织维护
+⭐ 439 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/chi2liu/ABC-GRPO) · [官网](https://arxiv.org/pdf/2601.03895) · 组织维护
 
 **面向 LLM 强化学习的 GRPO 改进算法（4 边界裁剪）官方代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chi2liu/ABC-GRPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 437 --> 439
-    line [438, 438]
+    title "chi2liu/ABC-GRPO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 437 --> 440
+    line [438, 439, 439]
 ```
 
-2026-10-18 438 → 2026-11-02 438（+0）
+2026-10-18 438 → 2026-11-17 439（+1）
 
 
 ---

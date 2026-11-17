@@ -1,6 +1,6 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation
 
-⭐ 517 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
+⭐ 518 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
 **ROS 2 三包 3D 物体位姿估计，GPU 加速推理**
 
@@ -44,13 +44,13 @@ Isaac ROS Pose Estimation 提供 isaac_ros_foundationpose、isaac_ros_dope、isa
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 509 --> 518
-    line [510, 511, 514, 515, 516, 517, 517]
+    title "NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 509 --> 519
+    line [510, 511, 514, 515, 516, 517, 515, 517, 518, 518]
 ```
 
-2026-10-18 510 → 2026-11-02 517（+7）
+2026-10-18 510 → 2026-11-17 518（+8）
 
 
 ---

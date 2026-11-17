@@ -1,6 +1,6 @@
 # iterative/cml
 
-⭐ 4,189 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iterative/cml) · [官网](http://cml.dev) · 组织维护
+⭐ 4,191 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iterative/cml) · [官网](http://cml.dev) · 组织维护
 
 **面向 MLOps 的开源 CI/CD CLI 工具，自动训练评估模型并生成报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iterative/cml 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
+    title "iterative/cml 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
     y-axis "stars" 4188 --> 4192
-    line [4191, 4189]
+    line [4191, 4189, 4191, 4191]
 ```
 
-2026-11-01 4,191 → 2026-11-02 4,189（-2）
+2026-11-01 4,191 → 2026-11-17 4,191（+0）
 
 
 ---

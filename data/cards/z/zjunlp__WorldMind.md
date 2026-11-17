@@ -1,6 +1,6 @@
 # zjunlp/WorldMind
 
-⭐ 44 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/zjunlp/WorldMind) · [官网](https://zjunlp.github.io/WorldMind/) · 组织维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/zjunlp/WorldMind) · [官网](https://zjunlp.github.io/WorldMind/) · 组织维护 · 中文 README
 
 **通过经验学习对齐智能体世界模型的研究框架（EMNLP 2026）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/WorldMind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 41 --> 45
-    line [42, 44, 44]
+    title "zjunlp/WorldMind 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 41 --> 47
+    line [42, 44, 45, 46, 46]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 46（+4）
 
 
 ---

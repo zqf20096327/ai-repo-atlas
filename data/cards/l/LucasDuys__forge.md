@@ -1,6 +1,6 @@
 # LucasDuys/forge
 
-⭐ 58 · JavaScript · MIT · 推送 2026-07-15 · [GitHub](https://github.com/LucasDuys/forge) · [官网](https://lucasduys.github.io/forge/) · 个人维护
+⭐ 57 · JavaScript · MIT · 推送 2026-07-15 · [GitHub](https://github.com/LucasDuys/forge) · [官网](https://lucasduys.github.io/forge/) · 个人维护
 
 **Claude Code 插件：把一行想法自动变成已测试已提交的代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LucasDuys/forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "LucasDuys/forge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 55 --> 59
-    line [56, 58, 58]
+    line [56, 58, 56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 58（+2）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

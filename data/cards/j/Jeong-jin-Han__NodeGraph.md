@@ -1,6 +1,6 @@
 # Jeong-jin-Han/NodeGraph
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Jeong-jin-Han/NodeGraph) · [官网](https://marketplace.visualstudio.com/items?itemName=JeongjinHan.nodegraph) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Jeong-jin-Han/NodeGraph) · [官网](https://marketplace.visualstudio.com/items?itemName=JeongjinHan.nodegraph) · 个人维护 · 中文 README
 
 **把研究论文转成可溯源知识图谱的 VS Code 扩展**
 
@@ -45,13 +45,13 @@ VS Code 扩展，提供节点图画布，把论文拆解为按 hop 层级自动�
 
 ```mermaid
 xychart-beta
-    title "Jeong-jin-Han/NodeGraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    title "Jeong-jin-Han/NodeGraph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 43
+    line [39, 40, 41, 39, 42, 42]
 ```
 
-2026-10-18 39 → 2026-11-02 41（+2）
+2026-10-18 39 → 2026-11-17 42（+3）
 
 
 ---

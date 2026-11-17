@@ -1,6 +1,6 @@
 # sandraschi/advanced-memory-mcp
 
-⭐ 19 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/sandraschi/advanced-memory-mcp) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sandraschi/advanced-memory-mcp) · 个人维护 · 中文 README
 
 **给 MCP 助手提供持久记忆的知识管理服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandraschi/advanced-memory-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "sandraschi/advanced-memory-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [20, 19, 19]
+    line [20, 19, 20, 19, 20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 19（-1）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

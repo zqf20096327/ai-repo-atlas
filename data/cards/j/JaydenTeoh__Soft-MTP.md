@@ -1,6 +1,6 @@
 # JaydenTeoh/Soft-MTP
 
-⭐ 66 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JaydenTeoh/Soft-MTP) · [官网](https://arxiv.org/abs/2610.38331) · 个人维护
+⭐ 103 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/JaydenTeoh/Soft-MTP) · [官网](https://arxiv.org/abs/2610.38331) · 个人维护
 
 **多 token 预测训练方法（Soft-MTP）官方代码库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JaydenTeoh/Soft-MTP 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 0 --> 72
-    line [4, 45, 66]
+    title "JaydenTeoh/Soft-MTP 星数(近 9 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 112
+    line [4, 45, 66, 97, 99, 100, 101, 103, 103]
 ```
 
-2026-10-31 4 → 2026-11-02 66（+62）
+2026-10-31 4 → 2026-11-17 103（+99）
 
 
 ---

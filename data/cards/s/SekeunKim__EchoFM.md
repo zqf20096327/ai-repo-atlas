@@ -1,6 +1,6 @@
 # SekeunKim/EchoFM
 
-⭐ 48 · Jupyter Notebook · 推送 2026-08-15 · [GitHub](https://github.com/SekeunKim/EchoFM) · [官网](https://sekeunkim.github.io) · 组织维护
+⭐ 50 · Jupyter Notebook · 推送 2026-08-15 · [GitHub](https://github.com/SekeunKim/EchoFM) · [官网](https://sekeunkim.github.io) · 组织维护
 
 **给医学AI研究者：超声心动图视频基础模型，产出跨任务表征**
 
@@ -45,13 +45,13 @@ EchoFM 是一个 ViT-L 视频基础模型，在 29 万条超声心动图片段�
 
 ```mermaid
 xychart-beta
-    title "SekeunKim/EchoFM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "SekeunKim/EchoFM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

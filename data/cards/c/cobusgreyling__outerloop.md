@@ -1,6 +1,6 @@
 # cobusgreyling/outerloop
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cobusgreyling/outerloop) · [官网](https://www.npmjs.com/package/@cobusgreyling/outerloop) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cobusgreyling/outerloop) · [官网](https://www.npmjs.com/package/@cobusgreyling/outerloop) · 个人维护
 
 **面向 agentic 工程的治理层：证据→裁决→可问责**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cobusgreyling/outerloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "cobusgreyling/outerloop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

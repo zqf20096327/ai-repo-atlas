@@ -1,6 +1,6 @@
 # SailingLoong/LoongPort
 
-⭐ 138 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/SailingLoong/LoongPort) · [官网](https://loongport.dev) · 个人维护 · 中文 README
+⭐ 138 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SailingLoong/LoongPort) · [官网](https://loongport.dev) · 个人维护 · 中文 README
 
 **中转站专用的 AI CLI 配置客户端：填域名登录即用 Codex/Claude Code**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SailingLoong/LoongPort 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "SailingLoong/LoongPort 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 137 --> 140
-    line [139, 138, 139, 138, 138]
+    line [139, 138, 139, 138, 139, 138, 138]
 ```
 
-2026-10-18 139 → 2026-11-02 138（-1）
+2026-10-18 139 → 2026-11-17 138（-1）
 
 
 ---

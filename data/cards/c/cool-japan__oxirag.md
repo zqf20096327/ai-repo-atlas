@@ -1,6 +1,6 @@
 # cool-japan/oxirag
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/cool-japan/oxirag) · [官网](https://github.com/cool-japan/oxirag) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/oxirag) · [官网](https://github.com/cool-japan/oxirag) · 个人维护
 
 **纯 Rust 实现的四层 RAG 引擎库，含 SMT 逻辑验证与知识图谱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cool-japan/oxirag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

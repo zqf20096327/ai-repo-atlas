@@ -1,6 +1,6 @@
 # INRIA/scikit-learn-mooc
 
-⭐ 1,442 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-13 · [GitHub](https://github.com/INRIA/scikit-learn-mooc) · [官网](https://inria.github.io/scikit-learn-mooc) · 组织维护
+⭐ 1,450 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-13 · [GitHub](https://github.com/INRIA/scikit-learn-mooc) · [官网](https://inria.github.io/scikit-learn-mooc) · 组织维护
 
 **scikit-learn 机器学习公开课（MOOC）的课程源码仓库**
 
@@ -44,13 +44,13 @@ INRIA 维护的 Python 机器学习 MOOC 的课程材料源码仓库，对应 FU
 
 ```mermaid
 xychart-beta
-    title "INRIA/scikit-learn-mooc 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1434 --> 1443
-    line [1435, 1437, 1438, 1440, 1441, 1442, 1442]
+    title "INRIA/scikit-learn-mooc 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1434 --> 1451
+    line [1435, 1437, 1438, 1440, 1441, 1442, 1438, 1447, 1449, 1448, 1450, 1449, 1450, 1450]
 ```
 
-2026-10-18 1,435 → 2026-11-02 1,442（+7）
+2026-10-18 1,435 → 2026-11-17 1,450（+15）
 
 
 ---

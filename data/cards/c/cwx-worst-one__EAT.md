@@ -1,6 +1,6 @@
 # cwx-worst-one/EAT
 
-⭐ 247 · Python · MIT · 推送 2025-11-30 · [GitHub](https://github.com/cwx-worst-one/EAT) · 组织维护 · 中文 README
+⭐ 248 · Python · MIT · 推送 2025-11-30 · [GitHub](https://github.com/cwx-worst-one/EAT) · 组织维护 · 中文 README
 
 **音频自监督预训练模型（IJCAI 2024）：音频分类与特征提取**
 
@@ -45,13 +45,13 @@ I JCAI 2024 论文官方代码：基于高效 Audio Transformer 的自监督预�
 
 ```mermaid
 xychart-beta
-    title "cwx-worst-one/EAT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 246 --> 248
-    line [247, 247]
+    title "cwx-worst-one/EAT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 246 --> 249
+    line [247, 248, 248]
 ```
 
-2026-10-18 247 → 2026-11-02 247（+0）
+2026-10-18 247 → 2026-11-17 248（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pkargupta/idea_catalyst
 
-⭐ 60 · Python · 推送 2026-03-15 · [GitHub](https://github.com/pkargupta/idea_catalyst) · [官网](https://pkargupta.github.io/idea_catalyst.html) · 个人维护
+⭐ 61 · Python · 推送 2026-03-15 · [GitHub](https://github.com/pkargupta/idea_catalyst) · [官网](https://pkargupta.github.io/idea_catalyst.html) · 个人维护
 
 **科研脑暴框架：跨域文献检索生成可迁移研究灵感**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pkargupta/idea_catalyst 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 54 --> 61
-    line [55, 57, 58, 59, 60, 60]
+    title "pkargupta/idea_catalyst 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 54 --> 62
+    line [55, 57, 58, 59, 60, 58, 60, 61, 61]
 ```
 
-2026-10-18 55 → 2026-11-02 60（+5）
+2026-10-18 55 → 2026-11-17 61（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # OscarKjell/text
 
-⭐ 160 · R · 推送 2026-10-21 · [GitHub](https://github.com/OscarKjell/text) · [官网](https://r-text.org) · 组织维护
+⭐ 160 · R · 推送 2026-11-12 · [GitHub](https://github.com/OscarKjell/text) · [官网](https://r-text.org) · 组织维护
 
 **R 包：用 HuggingFace Transformer 做文本嵌入与分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OscarKjell/text 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 159 --> 161
     line [160, 160]
 ```
 
-2026-10-18 160 → 2026-11-02 160（+0）
+2026-10-18 160 → 2026-11-17 160（+0）
 
 
 ---

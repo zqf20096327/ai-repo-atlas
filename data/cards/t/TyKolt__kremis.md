@@ -1,6 +1,6 @@
 # TyKolt/kremis
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/TyKolt/kremis) · [官网](https://kremis.mintlify.app) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/TyKolt/kremis) · [官网](https://kremis.mintlify.app) · 个人维护
 
 **Rust 确定性知识图谱引擎与 MCP 服务器，供 AI 检索可溯源记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TyKolt/kremis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "TyKolt/kremis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

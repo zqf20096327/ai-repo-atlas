@@ -1,6 +1,6 @@
 # alshawai/PBTune
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/alshawai/PBTune) · [官网](https://alshawai.github.io/PBTune/) · 个人维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/alshawai/PBTune) · [官网](https://alshawai.github.io/PBTune/) · 个人维护
 
 **面向开发者的 PostgreSQL 配置自动调优研究实现（PBT 进化算法）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alshawai/PBTune 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

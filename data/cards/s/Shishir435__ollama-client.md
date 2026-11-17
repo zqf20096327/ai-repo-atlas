@@ -1,6 +1,6 @@
 # Shishir435/ollama-client
 
-⭐ 68 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Shishir435/ollama-client) · [官网](https://www.ollamaclient.in) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Shishir435/ollama-client) · [官网](https://www.ollamaclient.in) · 个人维护
 
 **浏览器侧栏扩展：与本地/自托管 LLM 私密对话**
 
@@ -44,13 +44,13 @@ Chrome/Firefox 浏览器侧边栏扩展，用于与本地或自托管 LLM 对话
 
 ```mermaid
 xychart-beta
-    title "Shishir435/ollama-client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    title "Shishir435/ollama-client 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 66 --> 75
+    line [67, 68, 70, 72, 73, 74, 74]
 ```
 
-2026-10-18 67 → 2026-11-02 68（+1）
+2026-10-18 67 → 2026-11-17 74（+7）
 
 
 ---

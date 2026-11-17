@@ -1,6 +1,6 @@
 # Corvidae-Coding-Projects/OpenClaudia
 
-⭐ 98 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Corvidae-Coding-Projects/OpenClaudia) · 组织维护
+⭐ 98 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Corvidae-Coding-Projects/OpenClaudia) · 组织维护
 
 **Rust 编写的开源 agentic coding harness，多前端多模型适配**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Corvidae-Coding-Projects/OpenClaudia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
+    title "Corvidae-Coding-Projects/OpenClaudia 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 95 --> 99
-    line [96, 97, 98, 98]
+    line [96, 97, 98, 97, 98, 98]
 ```
 
-2026-10-18 96 → 2026-11-02 98（+2）
+2026-10-18 96 → 2026-11-17 98（+2）
 
 
 ---

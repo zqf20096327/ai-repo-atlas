@@ -1,6 +1,6 @@
 # aakashg/pm-claude-code-setup
 
-⭐ 162 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/aakashg/pm-claude-code-setup) · [官网](https://www.news.aakashg.com/p/pm-os) · 个人维护
+⭐ 163 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/aakashg/pm-claude-code-setup) · [官网](https://www.news.aakashg.com/p/pm-os) · 个人维护
 
 **产品经理的 Claude Code 配置包：CLAUDE.md + 6 技能 + 4 模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aakashg/pm-claude-code-setup 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 159 --> 163
-    line [160, 161, 162, 162]
+    title "aakashg/pm-claude-code-setup 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 159 --> 164
+    line [160, 161, 162, 163, 163]
 ```
 
-2026-10-18 160 → 2026-11-02 162（+2）
+2026-10-18 160 → 2026-11-17 163（+3）
 
 
 ---

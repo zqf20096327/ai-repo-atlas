@@ -1,6 +1,6 @@
 # huggingface/hf-hub
 
-⭐ 339 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/hf-hub) · 组织维护
+⭐ 345 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/huggingface/hf-hub) · 组织维护
 
 **面向 Rust 开发者的 Hugging Face Hub API 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/hf-hub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 336 --> 340
-    line [337, 338, 339, 338, 339, 339]
+    title "huggingface/hf-hub 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 336 --> 346
+    line [337, 338, 339, 338, 339, 343, 344, 345, 345]
 ```
 
-2026-10-18 337 → 2026-11-02 339（+2）
+2026-10-18 337 → 2026-11-17 345（+8）
 
 
 ---

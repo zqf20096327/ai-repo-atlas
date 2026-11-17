@@ -1,6 +1,6 @@
 # ZealynxSecurity/krait
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZealynxSecurity/krait) · [官网](https://krait.zealynx.io) · 组织维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ZealynxSecurity/krait) · [官网](https://krait.zealynx.io) · 组织维护
 
 **面向 Solidity 审计员的 AI 辅助安全审计方法论，运行于 Claude Code**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZealynxSecurity/krait 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "ZealynxSecurity/krait 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 25, 27, 28, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

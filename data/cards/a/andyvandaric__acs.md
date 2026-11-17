@@ -1,6 +1,6 @@
 # andyvandaric/acs
 
-⭐ 21 · PowerShell · 推送 2026-10-15 · [GitHub](https://github.com/andyvandaric/acs) · [官网](https://uikode.com/acs) · 组织维护
+⭐ 21 · PowerShell · 推送 2026-11-16 · [GitHub](https://github.com/andyvandaric/acs) · [官网](https://uikode.com/acs) · 组织维护
 
 **本地自主多 Agent 编排系统：统一管理与调度 AI 编码代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andyvandaric/acs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "andyvandaric/acs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

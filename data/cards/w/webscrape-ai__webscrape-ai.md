@@ -1,6 +1,6 @@
 # webscrape-ai/webscrape-ai
 
-⭐ 23 · Java · MIT · 推送 2026-07-07 · [GitHub](https://github.com/webscrape-ai/webscrape-ai) · [官网](https://webscrape.ai) · 组织维护
+⭐ 16 · Java · MIT · 推送 2026-07-07 · [GitHub](https://github.com/webscrape-ai/webscrape-ai) · [官网](https://webscrape.ai) · 组织维护
 
 **webscrape.ai 网页抓取 API 的官方客户端 SDK 集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "webscrape-ai/webscrape-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "webscrape-ai/webscrape-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 24
-    line [10, 11, 22, 23, 23]
+    line [10, 11, 22, 23, 11, 16, 16]
 ```
 
-2026-10-18 10 → 2026-11-02 23（+13）
+2026-10-18 10 → 2026-11-17 16（+6）
 
 
 ---

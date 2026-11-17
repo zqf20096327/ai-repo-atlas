@@ -1,6 +1,6 @@
 # deffcolony/ai-toolbox
 
-⭐ 71 · Batchfile · AGPL-3.0 · 推送 2026-05-04 · [GitHub](https://github.com/deffcolony/ai-toolbox) · 个人维护 · 中文 README
+⭐ 70 · Batchfile · AGPL-3.0 · 推送 2026-05-04 · [GitHub](https://github.com/deffcolony/ai-toolbox) · 个人维护 · 中文 README
 
 **自动化安装各类 AI 应用的脚本合集，简化部署流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deffcolony/ai-toolbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 70 --> 73
-    line [72, 71, 71]
+    title "deffcolony/ai-toolbox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 69 --> 73
+    line [72, 71, 72, 71, 70, 70]
 ```
 
-2026-10-18 72 → 2026-11-02 71（-1）
+2026-10-18 72 → 2026-11-17 70（-2）
 
 
 ---

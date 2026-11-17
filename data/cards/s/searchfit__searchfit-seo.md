@@ -1,6 +1,6 @@
 # searchfit/searchfit-seo
 
-⭐ 13 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/searchfit/searchfit-seo) · [官网](https://searchfit.ai) · 组织维护
+⭐ 16 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/searchfit/searchfit-seo) · [官网](https://searchfit.ai) · 组织维护
 
 **Claude Code 的 SEO 技能包：审计、内容规划与 AI 可见性追踪**
 
@@ -44,13 +44,13 @@ SearchFit.ai 发布的免费 SEO 工具集，以 Claude Code 插件形式安装�
 
 ```mermaid
 xychart-beta
-    title "searchfit/searchfit-seo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "searchfit/searchfit-seo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

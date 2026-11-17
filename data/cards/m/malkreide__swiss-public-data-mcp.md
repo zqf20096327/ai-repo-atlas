@@ -1,6 +1,6 @@
 # malkreide/swiss-public-data-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/malkreide/swiss-public-data-mcp) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/malkreide/swiss-public-data-mcp) · 个人维护
 
 **连接 AI 助手与瑞士公共开放数据的 42 个 MCP 服务器组合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "malkreide/swiss-public-data-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "malkreide/swiss-public-data-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "theaiautomators/insights-lm-public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 658 --> 660
-    line [659, 659]
+    title "theaiautomators/insights-lm-public 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 656 --> 660
+    line [659, 657, 658, 659, 659]
 ```
 
-2026-10-18 659 → 2026-11-02 659（+0）
+2026-10-18 659 → 2026-11-17 659（+0）
 
 
 ---

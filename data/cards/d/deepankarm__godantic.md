@@ -1,6 +1,6 @@
 # deepankarm/godantic
 
-⭐ 32 · Go · Apache-2.0 · 推送 2026-03-11 · [GitHub](https://github.com/deepankarm/godantic) · 个人维护
+⭐ 33 · Go · Apache-2.0 · 推送 2026-03-11 · [GitHub](https://github.com/deepankarm/godantic) · 个人维护
 
 **Go 的 JSON 校验与 Schema 生成库：一个结构体驱动校验、序列化与 OpenAPI**
 
@@ -45,13 +45,13 @@ Go 语言库，用 `Field{Name}()` 类型化方法（而非 struct tag）在一�
 
 ```mermaid
 xychart-beta
-    title "deepankarm/godantic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "deepankarm/godantic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

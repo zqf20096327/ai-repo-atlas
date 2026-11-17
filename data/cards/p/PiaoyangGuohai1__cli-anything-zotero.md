@@ -1,6 +1,6 @@
 # PiaoyangGuohai1/cli-anything-zotero
 
-⭐ 140 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/PiaoyangGuohai1/cli-anything-zotero) · [官网](https://pypi.org/project/cli-anything-zotero/) · 个人维护 · 中文 README
+⭐ 143 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/PiaoyangGuohai1/cli-anything-zotero) · [官网](https://pypi.org/project/cli-anything-zotero/) · 个人维护 · 中文 README
 
 **让 AI 助手经 CLI/JS 桥管理本地 Zotero 文献库的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PiaoyangGuohai1/cli-anything-zotero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 138 --> 141
-    line [139, 140]
+    title "PiaoyangGuohai1/cli-anything-zotero 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 138 --> 144
+    line [139, 140, 139, 141, 142, 143, 143]
 ```
 
-2026-10-18 139 → 2026-11-02 140（+1）
+2026-10-18 139 → 2026-11-17 143（+4）
 
 
 ---

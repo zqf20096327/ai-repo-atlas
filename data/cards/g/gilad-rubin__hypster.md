@@ -1,6 +1,6 @@
 # gilad-rubin/hypster
 
-⭐ 60 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/gilad-rubin/hypster) · [官网](https://gilad-rubin.gitbook.io/hypster) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/gilad-rubin/hypster) · [官网](https://gilad-rubin.gitbook.io/hypster) · 个人维护
 
 **面向 AI/ML 工作流的 Python 配置与超参优化框架**
 
@@ -45,12 +45,12 @@ Python 配置管理库，用于定义和实例化 AI/ML 工作流的配置：支
 ```mermaid
 xychart-beta
     title "gilad-rubin/hypster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 60（+0）
 
 
 ---

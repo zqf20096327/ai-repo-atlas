@@ -1,6 +1,6 @@
 # Jevon-Zhong/agent-trip-planner
 
-⭐ 22 · Python · MIT · 推送 2026-02-04 · [GitHub](https://github.com/Jevon-Zhong/agent-trip-planner) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-02-04 · [GitHub](https://github.com/Jevon-Zhong/agent-trip-planner) · 个人维护 · 中文 README
 
 **面向用户的 AI 旅行规划助手（微信小程序+FastAPI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jevon-Zhong/agent-trip-planner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "Jevon-Zhong/agent-trip-planner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

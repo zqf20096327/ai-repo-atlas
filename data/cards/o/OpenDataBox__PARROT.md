@@ -1,6 +1,6 @@
 # OpenDataBox/PARROT
 
-⭐ 13 · Python · 推送 2025-11-11 · [GitHub](https://github.com/OpenDataBox/PARROT) · [官网](https://code4db.github.io/parrot-bench/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **跨系统 SQL 方言翻译的评测基准（598 对翻译样本）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenDataBox/PARROT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-07 13（+0）
 
 
 ---

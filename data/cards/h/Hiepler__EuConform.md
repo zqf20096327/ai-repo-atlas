@@ -1,6 +1,6 @@
 # Hiepler/EuConform
 
-⭐ 126 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Hiepler/EuConform) · [官网](https://euconform.eu) · 个人维护
+⭐ 129 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Hiepler/EuConform) · [官网](https://euconform.eu) · 个人维护
 
 **面向 EU AI Act 的开源合规证据工具：风险分类与偏见测试**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hiepler/EuConform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 124 --> 127
-    line [125, 126, 126]
+    title "Hiepler/EuConform 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 124 --> 130
+    line [125, 126, 128, 129, 129]
 ```
 
-2026-10-18 125 → 2026-11-02 126（+1）
+2026-10-18 125 → 2026-11-17 129（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # aleibovici/ollama-gpu-calculator
 
-⭐ 73 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aleibovici/ollama-gpu-calculator) · [官网](https://aleibovici.github.io/ollama-gpu-calculator/) · 个人维护
+⭐ 74 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/aleibovici/ollama-gpu-calculator) · [官网](https://aleibovici.github.io/ollama-gpu-calculator/) · 个人维护
 
 **浏览器端估算 GPU 能否运行 Ollama 模型的 Web 计算器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aleibovici/ollama-gpu-calculator 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "aleibovici/ollama-gpu-calculator 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 74]
 ```
 
-2026-10-29 73 → 2026-11-02 73（+0）
+2026-10-29 73 → 2026-11-17 74（+1）
 
 
 ---

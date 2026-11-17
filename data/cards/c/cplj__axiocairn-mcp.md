@@ -1,6 +1,6 @@
 # cplj/axiocairn-mcp
 
-⭐ 38 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cplj/axiocairn-mcp) · [官网](https://axiocairn.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **托管 MCP 服务器：向 AI 代理提供市场简报与股票模型评估报告**
 
@@ -11,7 +11,7 @@ Axiocairn 运营的托管 MCP 服务器（https://axiocairn.com/mcp），让 Cla
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

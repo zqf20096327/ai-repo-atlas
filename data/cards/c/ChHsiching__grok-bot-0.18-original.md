@@ -1,6 +1,6 @@
 # ChHsiching/grok-bot-0.18-original
 
-⭐ 54 · JavaScript · 推送 2026-08-30 · [GitHub](https://github.com/ChHsiching/grok-bot-0.18-original) · 个人维护
+⭐ 56 · JavaScript · 推送 2026-08-30 · [GitHub](https://github.com/ChHsiching/grok-bot-0.18-original) · 个人维护
 
 **Grok Bot 0.18.0 运行时代码的非官方归档与逐模块切分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChHsiching/grok-bot-0.18-original 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 51 --> 55
-    line [52, 54, 54]
+    title "ChHsiching/grok-bot-0.18-original 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 51 --> 57
+    line [52, 54, 52, 54, 56, 56]
 ```
 
-2026-10-18 52 → 2026-11-02 54（+2）
+2026-10-18 52 → 2026-11-17 56（+4）
 
 
 ---

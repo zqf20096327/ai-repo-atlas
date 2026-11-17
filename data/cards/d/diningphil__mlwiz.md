@@ -1,6 +1,6 @@
 # diningphil/mlwiz
 
-⭐ 16 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/diningphil/mlwiz) · 个人维护
+⭐ 16 · Python · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/diningphil/mlwiz) · 个人维护
 
 **ML 研究实验框架：用 YAML 配置复现模型选择与风险评估**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "diningphil/mlwiz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

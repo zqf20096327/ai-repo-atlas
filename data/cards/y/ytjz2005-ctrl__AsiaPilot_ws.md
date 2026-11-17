@@ -1,6 +1,6 @@
 # ytjz2005-ctrl/AsiaPilot_ws
 
-⭐ 16 · Python · 推送 2026-05-12 · [GitHub](https://github.com/ytjz2005-ctrl/AsiaPilot_ws) · 个人维护
+⭐ 18 · Python · 推送 2026-05-12 · [GitHub](https://github.com/ytjz2005-ctrl/AsiaPilot_ws) · 个人维护
 
 **可微分物理无人机避障框架：MAVROS 桥接神经网络规划器与 PX4**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ytjz2005-ctrl/AsiaPilot_ws 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "ytjz2005-ctrl/AsiaPilot_ws 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 15, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

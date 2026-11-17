@@ -1,6 +1,6 @@
 # fabio-rovai/tardygrada
 
-⭐ 25 · C · MIT · 推送 2026-08-11 · [GitHub](https://github.com/fabio-rovai/tardygrada) · 个人维护
+⭐ 26 · C · MIT · 推送 2026-08-11 · [GitHub](https://github.com/fabio-rovai/tardygrada) · 个人维护
 
 **AI agent 声明的验证运行时：8 层确定性流水线门控输出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabio-rovai/tardygrada 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "fabio-rovai/tardygrada 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 24, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ClawForgeAI/clawforge
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ClawForgeAI/clawforge) · [官网](https://clawforge.co/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多运行时 AI agent 的治理控制平面与运营控制台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ClawForgeAI/clawforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "ClawForgeAI/clawforge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-12 18（+1）
 
 
 ---

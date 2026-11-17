@@ -1,6 +1,6 @@
 # H-XX-D/ZetaZero
 
-⭐ 46 · C++ · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/H-XX-D/ZetaZero) · 个人维护
+⭐ 45 · C++ · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/H-XX-D/ZetaZero) · 个人维护
 
 **本地 LLM 的持久记忆认知框架：把上下文存为知识图谱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "H-XX-D/ZetaZero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "H-XX-D/ZetaZero 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [46, 45, 45]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 45（-1）
 
 
 ---

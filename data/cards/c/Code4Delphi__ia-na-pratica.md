@@ -1,6 +1,6 @@
 # Code4Delphi/ia-na-pratica
 
-⭐ 21 · 推送 2026-10-07 · [GitHub](https://github.com/Code4Delphi/ia-na-pratica) · [官网](https://github.com/Code4Delphi/ia-na-pratica) · 组织维护
+⭐ 21 · 推送 2026-11-13 · [GitHub](https://github.com/Code4Delphi/ia-na-pratica) · [官网](https://github.com/Code4Delphi/ia-na-pratica) · 组织维护
 
 **Delphi 集成 AI 的视频教程与示例代码合集（LLM/RAG/MCP/Agents）**
 
@@ -45,12 +45,12 @@ Code4Delphi 制作的葡萄牙语系列教程仓库：通过视频与配套 GitH
 ```mermaid
 xychart-beta
     title "Code4Delphi/ia-na-pratica 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

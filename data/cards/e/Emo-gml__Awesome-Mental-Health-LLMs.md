@@ -1,6 +1,6 @@
 # Emo-gml/Awesome-Mental-Health-LLMs
 
-⭐ 144 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Emo-gml/Awesome-Mental-Health-LLMs) · [官网](https://arxiv.org/abs/2609.25186) · 组织维护
+⭐ 146 · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Emo-gml/Awesome-Mental-Health-LLMs) · [官网](https://arxiv.org/abs/2609.25186) · 组织维护
 
 **心理健康领域 LLM 论文与基准的策展综述清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emo-gml/Awesome-Mental-Health-LLMs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 139 --> 145
-    line [140, 142, 143, 144, 144]
+    title "Emo-gml/Awesome-Mental-Health-LLMs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 147
+    line [140, 142, 143, 144, 142, 146, 146]
 ```
 
-2026-10-18 140 → 2026-11-02 144（+4）
+2026-10-18 140 → 2026-11-17 146（+6）
 
 
 ---

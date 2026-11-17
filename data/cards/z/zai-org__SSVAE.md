@@ -1,6 +1,6 @@
 # zai-org/SSVAE
 
-⭐ 85 · Python · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/zai-org/SSVAE) · 组织维护 · 中文 README
+⭐ 86 · Python · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/zai-org/SSVAE) · 组织维护 · 中文 README
 
 **视频 VAE 论文官方实现：优化潜空间频谱提升扩散训练效率**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/SSVAE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "zai-org/SSVAE 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

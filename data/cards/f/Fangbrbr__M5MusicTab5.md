@@ -1,6 +1,6 @@
 # Fangbrbr/M5MusicTab5
 
-⭐ 15 · C · MIT · 推送 2026-09-08 · [GitHub](https://github.com/Fangbrbr/M5MusicTab5) · [官网](https://fangbrbr.github.io/M5MusicTab5/) · 个人维护 · 中文 README
+⭐ 17 · C · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fangbrbr/M5MusicTab5) · [官网](https://fangbrbr.github.io/M5MusicTab5/) · 个人维护 · 中文 README
 
 **M5Stack Tab5 音乐探索终端固件，12 个音乐 App 加 AI 语音助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fangbrbr/M5MusicTab5 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "Fangbrbr/M5MusicTab5 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

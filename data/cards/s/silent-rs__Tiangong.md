@@ -1,6 +1,6 @@
 # silent-rs/Tiangong
 
-⭐ 50 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/silent-rs/Tiangong) · 组织维护 · 中文 README
+⭐ 52 · Rust · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/silent-rs/Tiangong) · 组织维护 · 中文 README
 
 **Rust+Tauri 桌面个人 AI Agent 宿主：插件化扩展电脑操作能力**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "silent-rs/Tiangong 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 44 --> 51
-    line [45, 46, 47, 49, 50, 50]
+    title "silent-rs/Tiangong 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 53
+    line [45, 46, 47, 49, 50, 49, 52, 52]
 ```
 
-2026-10-18 45 → 2026-11-02 50（+5）
+2026-10-18 45 → 2026-11-17 52（+7）
 
 
 ---

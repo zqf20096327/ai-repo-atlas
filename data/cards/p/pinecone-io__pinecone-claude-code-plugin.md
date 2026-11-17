@@ -1,6 +1,6 @@
 # pinecone-io/pinecone-claude-code-plugin
 
-⭐ 69 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/pinecone-io/pinecone-claude-code-plugin) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/pinecone-io/pinecone-claude-code-plugin) · 组织维护
 
 **Pinecone 官方的 Claude Code 插件：语义搜索与 RAG 工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pinecone-io/pinecone-claude-code-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "pinecone-io/pinecone-claude-code-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 68（-1）
 
 
 ---

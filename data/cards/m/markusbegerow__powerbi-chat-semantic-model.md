@@ -1,6 +1,6 @@
 # markusbegerow/powerbi-chat-semantic-model
 
-⭐ 22 · JavaScript · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/powerbi-chat-semantic-model) · [官网](https://markus-begerow.de/linktree) · 个人维护
+⭐ 21 · JavaScript · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/powerbi-chat-semantic-model) · [官网](https://markus-begerow.de/linktree) · 个人维护
 
 **Power BI 外部工具：用聊天界面借助 AI 分析语义模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "markusbegerow/powerbi-chat-semantic-model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "markusbegerow/powerbi-chat-semantic-model 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # happytunesai/MidiEditor_AI
 
-⭐ 23 · C++ · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/happytunesai/MidiEditor_AI) · [官网](https://midieditor-ai.de/) · 个人维护
+⭐ 26 · C++ · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/happytunesai/MidiEditor_AI) · [官网](https://midieditor-ai.de/) · 个人维护
 
 **带 AI 副驾驶的 Windows MIDI 编辑器，自然语言作曲改谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "happytunesai/MidiEditor_AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    title "happytunesai/MidiEditor_AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [24, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 23（-1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

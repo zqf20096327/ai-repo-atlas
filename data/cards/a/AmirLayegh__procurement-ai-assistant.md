@@ -1,6 +1,6 @@
 # AmirLayegh/procurement-ai-assistant
 
-⭐ 37 · TypeScript · MIT · 推送 2026-01-26 · [GitHub](https://github.com/AmirLayegh/procurement-ai-assistant) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-01-26 · [GitHub](https://github.com/AmirLayegh/procurement-ai-assistant) · 个人维护
 
 **零售采购人员的自然语言语义搜索助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmirLayegh/procurement-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "AmirLayegh/procurement-ai-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [37, 36, 36]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 36（-1）
 
 
 ---

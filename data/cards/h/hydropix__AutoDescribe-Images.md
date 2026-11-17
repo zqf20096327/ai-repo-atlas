@@ -1,6 +1,6 @@
 # hydropix/AutoDescribe-Images
 
-⭐ 38 · Python · 推送 2025-12-14 · [GitHub](https://github.com/hydropix/AutoDescribe-Images) · 个人维护
+⭐ 37 · Python · 推送 2025-12-14 · [GitHub](https://github.com/hydropix/AutoDescribe-Images) · 个人维护
 
 **用 Ollama 视觉模型批量为图片生成描述文本的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hydropix/AutoDescribe-Images 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "hydropix/AutoDescribe-Images 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    line [37, 38, 37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 37（+0）
 
 
 ---

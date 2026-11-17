@@ -1,6 +1,6 @@
 # call518/MCP-PostgreSQL-Ops
 
-⭐ 164 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/call518/MCP-PostgreSQL-Ops) · [官网](https://deepwiki.com/call518/MCP-PostgreSQL-Ops) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/call518/MCP-PostgreSQL-Ops) · [官网](https://deepwiki.com/call518/MCP-PostgreSQL-Ops) · 个人维护
 
 **面向 AI 助手的 PostgreSQL 运维监控 MCP 服务器**
 
@@ -44,13 +44,13 @@ MCP-PostgreSQL-Ops 是一个用 Python 实现的 PostgreSQL 运维、监控与�
 
 ```mermaid
 xychart-beta
-    title "call518/MCP-PostgreSQL-Ops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
+    title "call518/MCP-PostgreSQL-Ops 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 160 --> 165
-    line [161, 163, 164, 164]
+    line [161, 163, 164, 163, 164, 164]
 ```
 
-2026-10-18 161 → 2026-11-02 164（+3）
+2026-10-18 161 → 2026-11-17 164（+3）
 
 
 ---

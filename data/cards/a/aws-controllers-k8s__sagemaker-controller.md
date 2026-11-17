@@ -1,6 +1,6 @@
 # aws-controllers-k8s/sagemaker-controller
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aws-controllers-k8s/sagemaker-controller) · [官网](https://aws-controllers-k8s.github.io/community/docs/tutorials/sagemaker-example/) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/aws-controllers-k8s/sagemaker-controller) · [官网](https://aws-controllers-k8s.github.io/community/docs/tutorials/sagemaker-example/) · 组织维护
 
 **Kubernetes 控制器：用 CRD 管理 Amazon SageMaker 资源**
 
@@ -46,12 +46,12 @@ AWS Controllers for Kubernetes（ACK）项目中针对 Amazon SageMaker 的服�
 ```mermaid
 xychart-beta
     title "aws-controllers-k8s/sagemaker-controller 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

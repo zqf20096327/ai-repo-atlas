@@ -1,6 +1,6 @@
 # nktkt/pi
 
-⭐ 20 · Rust · MIT · 推送 2026-05-12 · [GitHub](https://github.com/nktkt/pi) · 个人维护
+⭐ 21 · Rust · MIT · 推送 2026-05-12 · [GitHub](https://github.com/nktkt/pi) · 个人维护
 
 **Rust 版 pi 编码代理框架：多厂商 LLM API + agent 运行时 + CLI**
 
@@ -45,13 +45,13 @@ earendil-works/pi（TypeScript 单体仓库）的 Rust 移植，覆盖 agent 运
 
 ```mermaid
 xychart-beta
-    title "nktkt/pi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    title "nktkt/pi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 19, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 20（+3）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

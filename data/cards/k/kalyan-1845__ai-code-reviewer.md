@@ -1,6 +1,6 @@
 # kalyan-1845/ai-code-reviewer
 
-⭐ 20 · JavaScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/kalyan-1845/ai-code-reviewer) · [官网](https://ai-code-reviewer-eight-psi.vercel.app) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/kalyan-1845/ai-code-reviewer) · [官网](https://ai-code-reviewer-eight-psi.vercel.app) · 个人维护
 
 **AI 自动代码审查工具：分析 PR 与仓库的缺陷与安全问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kalyan-1845/ai-code-reviewer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 20, 20]
+    title "kalyan-1845/ai-code-reviewer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [20, 21, 20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

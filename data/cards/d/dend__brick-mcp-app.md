@@ -1,6 +1,6 @@
 # dend/brick-mcp-app
 
-⭐ 28 · TypeScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/dend/brick-mcp-app) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/dend/brick-mcp-app) · 个人维护
 
 **MCP App：让 AI 通过自然语言在 3D 场景中搭积木**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dend/brick-mcp-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "dend/brick-mcp-app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

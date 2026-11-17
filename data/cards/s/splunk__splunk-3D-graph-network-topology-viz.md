@@ -1,6 +1,6 @@
 # splunk/splunk-3D-graph-network-topology-viz
 
-⭐ 28 · JavaScript · 推送 2026-05-27 · [GitHub](https://github.com/splunk/splunk-3D-graph-network-topology-viz) · [官网](https://splunkbase.splunk.com/app/4611/) · 组织维护
+⭐ 28 · JavaScript · 推送 2026-11-02 · [GitHub](https://github.com/splunk/splunk-3D-graph-network-topology-viz) · [官网](https://splunkbase.splunk.com/app/4611/) · 组织维护
 
 **面向 Splunk 的三维力导向图网络拓扑可视化应用**
 
@@ -46,12 +46,12 @@ Splunk 平台的自定义可视化应用，基于 ThreeJS/WebGL 以力导向图�
 ```mermaid
 xychart-beta
     title "splunk/splunk-3D-graph-network-topology-viz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # antgroup/hugescm
 
-⭐ 132 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/antgroup/hugescm) · 组织维护 · 中文 README
+⭐ 131 · Go · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/antgroup/hugescm) · 组织维护 · 中文 README
 
 **面向大型仓库与 AI 模型开发的云端版本控制系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "antgroup/hugescm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 131 --> 133
-    line [132, 132]
+    title "antgroup/hugescm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 130 --> 133
+    line [132, 131, 131]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 131（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ENDEVSOLS/LongTracer
 
-⭐ 37 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ENDEVSOLS/LongTracer) · [官网](https://endevsols.com/open-source/longtracer) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ENDEVSOLS/LongTracer) · [官网](https://endevsols.com/open-source/longtracer) · 组织维护
 
 **检测 LLM 回答幻觉的验证与追踪库：逐条声明对照来源核验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ENDEVSOLS/LongTracer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 37（+0）
 
 
 ---

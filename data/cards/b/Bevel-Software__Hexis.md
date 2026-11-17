@@ -1,6 +1,6 @@
 # Bevel-Software/Hexis
 
-⭐ 122 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Bevel-Software/Hexis) · [官网](https://demo.bevel.software/) · 组织维护
+⭐ 127 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Bevel-Software/Hexis) · [官网](https://demo.bevel.software/) · 组织维护
 
 **自托管、Git 存储的 AI agent 技能/工具/上下文管理平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bevel-Software/Hexis 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 114 --> 123
-    line [115, 116, 118, 119, 120, 121, 122, 122]
+    title "Bevel-Software/Hexis 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 114 --> 128
+    line [115, 116, 118, 119, 120, 121, 122, 120, 123, 125, 126, 127, 127]
 ```
 
-2026-10-18 115 → 2026-11-02 122（+7）
+2026-10-18 115 → 2026-11-17 127（+12）
 
 
 ---

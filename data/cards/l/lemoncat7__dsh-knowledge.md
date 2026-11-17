@@ -1,6 +1,6 @@
 # lemoncat7/dsh-knowledge
 
-⭐ 21 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lemoncat7/dsh-knowledge) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lemoncat7/dsh-knowledge) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的知识库、笔记与工作日报插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lemoncat7/dsh-knowledge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 16 --> 22
-    line [17, 18, 19, 20, 21, 21]
+    title "lemoncat7/dsh-knowledge 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 16 --> 26
+    line [17, 18, 19, 20, 21, 19, 22, 24, 25, 25]
 ```
 
-2026-10-18 17 → 2026-11-02 21（+4）
+2026-10-18 17 → 2026-11-17 25（+8）
 
 
 ---

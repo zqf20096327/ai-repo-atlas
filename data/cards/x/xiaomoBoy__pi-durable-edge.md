@@ -1,6 +1,6 @@
 # xiaomoBoy/pi-durable-edge
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-durable-edge) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-durable-edge) · 个人维护 · 中文 README
 
 **部署在 Cloudflare Workers 上的持久化个人聊天 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaomoBoy/pi-durable-edge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "xiaomoBoy/pi-durable-edge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-14", "2026-11-17"]
     y-axis "stars" 16 --> 20
-    line [19, 18, 17, 17]
+    line [19, 18, 17, 18, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 17（-2）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Filip3Owl/how-a-cnn-learns
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Filip3Owl/how-a-cnn-learns) · 个人维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Filip3Owl/how-a-cnn-learns) · 个人维护
 
 **用真实网络数值生成动画讲解 CNN 学习原理的教程笔记本系列**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Filip3Owl/how-a-cnn-learns 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Filip3Owl/how-a-cnn-learns 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-26 13 → 2026-11-02 13（+0）
+2026-10-26 13 → 2026-11-17 14（+1）
 
 
 ---

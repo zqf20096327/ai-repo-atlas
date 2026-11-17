@@ -1,6 +1,6 @@
 # microsoft/multilspy
 
-⭐ 613 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/multilspy) · [官网](https://www.microsoft.com/en-us/research/publication/guiding-language-models-of-code-with-global-context-using-monitors/) · 组织维护
+⭐ 615 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/multilspy) · [官网](https://www.microsoft.com/en-us/research/publication/guiding-language-models-of-code-with-global-context-using-monitors/) · 组织维护
 
 **Python LSP 客户端库：统一接口调用多种语言服务器做静态分析**
 
@@ -45,13 +45,13 @@ Python 库，封装与语言服务器（LSP）交互的各步骤：自动下载�
 
 ```mermaid
 xychart-beta
-    title "microsoft/multilspy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 611 --> 615
-    line [612, 613, 614, 613, 613]
+    title "microsoft/multilspy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 611 --> 617
+    line [612, 613, 614, 613, 615, 616, 615, 615]
 ```
 
-2026-10-18 612 → 2026-11-02 613（+1）
+2026-10-18 612 → 2026-11-17 615（+3）
 
 
 ---

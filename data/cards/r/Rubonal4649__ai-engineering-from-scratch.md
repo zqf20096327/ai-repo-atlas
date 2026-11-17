@@ -1,6 +1,6 @@
 # Rubonal4649/ai-engineering-from-scratch
 
-⭐ 28 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Rubonal4649/ai-engineering-from-scratch) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向初学者的 Windows AI 工程课程应用，从零学做 AI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rubonal4649/ai-engineering-from-scratch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-02"]
+    title "Rubonal4649/ai-engineering-from-scratch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-07"]
     y-axis "stars" 21 --> 29
-    line [22, 23, 24, 26, 27, 28, 28]
+    line [22, 23, 24, 26, 27, 28, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 28（+6）
+2026-10-18 22 → 2026-11-07 26（+4）
 
 
 ---

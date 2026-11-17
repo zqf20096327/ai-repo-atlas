@@ -1,6 +1,6 @@
 # fortunto2/openai-oxide
 
-⭐ 32 · Rust · MIT · 推送 2026-08-22 · [GitHub](https://github.com/fortunto2/openai-oxide) · [官网](https://fortunto2.github.io/openai-oxide/) · 个人维护
+⭐ 33 · Rust · MIT · 推送 2026-08-22 · [GitHub](https://github.com/fortunto2/openai-oxide) · [官网](https://fortunto2.github.io/openai-oxide/) · 个人维护
 
 **Rust 核心、多语言绑定的 OpenAI API 客户端 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fortunto2/openai-oxide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "fortunto2/openai-oxide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

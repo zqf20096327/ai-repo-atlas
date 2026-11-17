@@ -1,6 +1,6 @@
 # OpenDataBox/OpenCook
 
-⭐ 30 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/OpenDataBox/OpenCook) · [官网](https://code4db.github.io/hi-opencook/) · 组织维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/OpenDataBox/OpenCook) · [官网](https://code4db.github.io/hi-opencook/) · 组织维护 · 中文 README
 
 **给编码代理加项目级个性化的框架：规则、配方与多层记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenDataBox/OpenCook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

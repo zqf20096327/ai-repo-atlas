@@ -1,6 +1,6 @@
 # istota-project/istota
 
-⭐ 14 · Python · EUPL-1.2 · 推送 2026-11-01 · [GitHub](https://github.com/istota-project/istota) · [官网](https://istota.cynium.com) · 组织维护
+⭐ 15 · Python · EUPL-1.2 · 推送 2026-11-16 · [GitHub](https://github.com/istota-project/istota) · [官网](https://istota.cynium.com) · 组织维护
 
 **自托管个人操作系统：AI agent 加 Web UI 管理日常数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "istota-project/istota 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "istota-project/istota 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

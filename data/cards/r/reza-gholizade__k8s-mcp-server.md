@@ -1,6 +1,6 @@
 # reza-gholizade/k8s-mcp-server
 
-⭐ 187 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/reza-gholizade/k8s-mcp-server) · 个人维护
+⭐ 190 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/reza-gholizade/k8s-mcp-server) · 个人维护
 
 **供 AI agent 管理 Kubernetes 集群的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reza-gholizade/k8s-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 185 --> 188
-    line [186, 187, 187]
+    title "reza-gholizade/k8s-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 185 --> 191
+    line [186, 187, 189, 190, 190]
 ```
 
-2026-10-18 186 → 2026-11-02 187（+1）
+2026-10-18 186 → 2026-11-17 190（+4）
 
 
 ---

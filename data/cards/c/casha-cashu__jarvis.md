@@ -1,6 +1,6 @@
 # casha-cashu/jarvis
 
-⭐ 14 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/casha-cashu/jarvis) · [官网](https://casha-cashu.github.io/jarvis/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/casha-cashu/jarvis) · [官网](https://casha-cashu.github.io/jarvis/) · 个人维护
 
 **Linux/macOS 本地语音 AI 助手：唤醒词+LLM+bash 代理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "casha-cashu/jarvis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "casha-cashu/jarvis 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

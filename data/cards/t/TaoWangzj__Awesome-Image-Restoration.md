@@ -1,6 +1,6 @@
 # TaoWangzj/Awesome-Image-Restoration
 
-⭐ 21 · 推送 2025-11-10 · [GitHub](https://github.com/TaoWangzj/Awesome-Image-Restoration) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **深度图像修复综述配套论文清单：1,500+ 篇方法分类编目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TaoWangzj/Awesome-Image-Restoration 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-07"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-07 21（+1）
 
 
 ---

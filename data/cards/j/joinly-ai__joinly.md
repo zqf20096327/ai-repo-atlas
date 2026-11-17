@@ -1,6 +1,6 @@
 # joinly-ai/joinly
 
-⭐ 569 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/joinly-ai/joinly) · [官网](https://joinly.ai) · 组织维护
+⭐ 573 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/joinly-ai/joinly) · [官网](https://joinly.ai) · 组织维护
 
 **让 AI Agent 加入并参与视频会议的连接中间件（MCP）**
 
@@ -44,13 +44,13 @@ joinly.ai 是自托管的开源连接中间件，通过 MCP server 提供会议�
 
 ```mermaid
 xychart-beta
-    title "joinly-ai/joinly 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 567 --> 570
-    line [569, 568, 569, 569]
+    title "joinly-ai/joinly 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 567 --> 574
+    line [569, 568, 569, 568, 569, 571, 572, 573, 573]
 ```
 
-2026-10-18 569 → 2026-11-02 569（+0）
+2026-10-18 569 → 2026-11-17 573（+4）
 
 
 ---

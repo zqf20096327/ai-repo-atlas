@@ -1,6 +1,6 @@
 # sitiancheng/Bome
 
-⭐ 72 · HTML · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/sitiancheng/Bome) · 个人维护 · 中文 README
+⭐ 73 · HTML · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/sitiancheng/Bome) · 个人维护 · 中文 README
 
 **纯前端 AI 角色语音聊天网页，单 HTML 文件即开即用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sitiancheng/Bome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "sitiancheng/Bome 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 73（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rockbenben/365opensource
 
-⭐ 15 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rockbenben/365opensource) · [官网](https://365.aishort.top) · 个人维护 · 中文 README
+⭐ 17 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rockbenben/365opensource) · [官网](https://365.aishort.top) · 个人维护 · 中文 README
 
 **一人+AI 一年产出300+开源工具的实验与项目合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockbenben/365opensource 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "rockbenben/365opensource 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

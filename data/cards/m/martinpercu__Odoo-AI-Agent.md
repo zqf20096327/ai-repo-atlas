@@ -1,6 +1,6 @@
 # martinpercu/Odoo-AI-Agent
 
-⭐ 11 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/martinpercu/Odoo-AI-Agent) · [官网](https://theodooagent.com) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-11-05 · [GitHub](https://github.com/martinpercu/Odoo-AI-Agent) · [官网](https://theodooagent.com) · 个人维护
 
 **用自然语言查询和管理 Odoo ERP 的 AI 对话前端**
 
@@ -45,13 +45,13 @@ The Odoo Agent 的前端仓库：基于 Next.js 16/React 19/TypeScript/Supabase 
 
 ```mermaid
 xychart-beta
-    title "martinpercu/Odoo-AI-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "martinpercu/Odoo-AI-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

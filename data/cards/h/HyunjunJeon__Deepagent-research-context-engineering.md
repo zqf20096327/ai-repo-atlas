@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HyunjunJeon/Deepagent-research-context-engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

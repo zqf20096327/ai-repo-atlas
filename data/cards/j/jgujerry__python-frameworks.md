@@ -1,6 +1,6 @@
 # jgujerry/python-frameworks
 
-⭐ 63 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jgujerry/python-frameworks) · [官网](http://pythonframeworks.com) · 个人维护
+⭐ 61 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jgujerry/python-frameworks) · [官网](http://pythonframeworks.com) · 个人维护
 
 **Python 框架策展目录网站：分类收录框架并发布上线**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jgujerry/python-frameworks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    title "jgujerry/python-frameworks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 60 --> 64
+    line [63, 62, 61, 61]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-17 61（-2）
 
 
 ---

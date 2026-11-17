@@ -1,6 +1,6 @@
 # Growth-Circle/cadis
 
-⭐ 58 · Rust · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/Growth-Circle/cadis) · [官网](https://github.com/Growth-Circle/cadis#readme) · 组织维护
+⭐ 59 · Rust · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/Growth-Circle/cadis) · [官网](https://github.com/Growth-Circle/cadis#readme) · 组织维护
 
 **本地优先多 agent 运行时：守护进程编排 agent、工具策略与审批**
 
@@ -45,13 +45,13 @@ Rust 编写的本地优先多 agent 运行时：单一守护进程 cadisd 统一
 
 ```mermaid
 xychart-beta
-    title "Growth-Circle/cadis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "Growth-Circle/cadis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

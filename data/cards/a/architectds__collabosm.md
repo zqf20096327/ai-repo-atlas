@@ -1,6 +1,6 @@
 # architectds/collabosm
 
-⭐ 103 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/architectds/collabosm) · 个人维护 · 中文 README
+⭐ 104 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/architectds/collabosm) · 个人维护 · 中文 README
 
 **租用自己 Colab 账号 GPU 运行 Qwen3.8 的本地聊天与 API 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "architectds/collabosm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 98 --> 104
-    line [99, 100, 101, 102, 103, 103]
+    title "architectds/collabosm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 98 --> 105
+    line [99, 100, 101, 102, 103, 100, 103, 104, 104]
 ```
 
-2026-10-18 99 → 2026-11-02 103（+4）
+2026-10-18 99 → 2026-11-17 104（+5）
 
 
 ---

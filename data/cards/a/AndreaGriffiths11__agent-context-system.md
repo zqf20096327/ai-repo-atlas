@@ -1,6 +1,6 @@
 # AndreaGriffiths11/agent-context-system
 
-⭐ 26 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AndreaGriffiths11/agent-context-system) · [官网](https://agents.mainbranch.dev/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AndreaGriffiths11/agent-context-system) · [官网](https://agents.mainbranch.dev/) · 个人维护
 
 **AI agent 的本地记忆管理库：日志、压缩与上下文索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AndreaGriffiths11/agent-context-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "AndreaGriffiths11/agent-context-system 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

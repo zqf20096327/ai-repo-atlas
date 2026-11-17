@@ -1,6 +1,6 @@
 # CosmosYi/ReasoningShield
 
-⭐ 27 · HTML · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/CosmosYi/ReasoningShield) · [官网](https://cosmosyi.github.io/ReasoningShield/) · 组织维护
+⭐ 61 · HTML · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/CosmosYi/ReasoningShield) · [官网](https://cosmosyi.github.io/ReasoningShield/) · 组织维护
 
 **检测大型推理模型思维链安全风险的 1B/3B 模型与 9.2K 数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CosmosYi/ReasoningShield 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "CosmosYi/ReasoningShield 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 64
+    line [27, 61, 61]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 61（+34）
 
 
 ---

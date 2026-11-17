@@ -1,6 +1,6 @@
 # gilberto-eng/altair-ai-assistant
 
-⭐ 15 · Python · 推送 2026-08-01 · [GitHub](https://github.com/gilberto-eng/altair-ai-assistant) · 个人维护
+⭐ 17 · Python · 推送 2026-11-05 · [GitHub](https://github.com/gilberto-eng/altair-ai-assistant) · 个人维护
 
 **带语音交互与自动化工具的开源 AI 桌面助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gilberto-eng/altair-ai-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "gilberto-eng/altair-ai-assistant 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 14, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

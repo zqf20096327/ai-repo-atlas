@@ -1,6 +1,6 @@
 # langchain-tracer/Axon
 
-⭐ 93 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/langchain-tracer/Axon) · [官网](https://www.npmjs.com/package/@axon-ai/cli) · 组织维护
+⭐ 96 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/langchain-tracer/Axon) · [官网](https://www.npmjs.com/package/@axon-ai/cli) · 组织维护
 
 **本地 LLM/agent 链路追踪观测工具，OTLP 接收+实时仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-tracer/Axon 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 91 --> 101
-    line [97, 98, 99, 100, 93, 92, 93, 93]
+    title "langchain-tracer/Axon 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 90 --> 101
+    line [97, 98, 99, 100, 93, 92, 93, 91, 92, 94, 96, 96]
 ```
 
-2026-10-18 97 → 2026-11-02 93（-4）
+2026-10-18 97 → 2026-11-17 96（-1）
 
 
 ---

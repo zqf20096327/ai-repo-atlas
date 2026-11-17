@@ -1,6 +1,6 @@
 # badchars/github-security-mcp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/badchars/github-security-mcp) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/badchars/github-security-mcp) · 个人维护
 
 **给 AI agent 用的 GitHub 安全态势审计 MCP 服务器（39 工具/45 检查）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "badchars/github-security-mcp 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "badchars/github-security-mcp 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-31 16 → 2026-11-02 16（+0）
+2026-10-31 16 → 2026-11-17 15（-1）
 
 
 ---

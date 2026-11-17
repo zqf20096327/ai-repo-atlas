@@ -1,6 +1,6 @@
 # google/deepsomatic
 
-⭐ 327 · BSD-3-Clause · 推送 2026-03-05 · [GitHub](https://github.com/google/deepsomatic) · 组织维护
+⭐ 328 · BSD-3-Clause · 推送 2026-03-05 · [GitHub](https://github.com/google/deepsomatic) · 组织维护
 
 **深度学习体细胞变异检测流程：从肿瘤测序数据产出 VCF**
 
@@ -44,13 +44,13 @@ DeepVariant 的扩展流程：读取肿瘤-正常或仅肿瘤的比对数据（B
 
 ```mermaid
 xychart-beta
-    title "google/deepsomatic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 324 --> 328
-    line [325, 326, 327, 327]
+    title "google/deepsomatic 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 324 --> 329
+    line [325, 326, 327, 326, 327, 328, 328]
 ```
 
-2026-10-18 325 → 2026-11-02 327（+2）
+2026-10-18 325 → 2026-11-17 328（+3）
 
 
 ---

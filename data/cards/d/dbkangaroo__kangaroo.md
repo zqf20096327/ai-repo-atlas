@@ -1,6 +1,6 @@
 # dbkangaroo/kangaroo
 
-⭐ 518 · TSQL · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/dbkangaroo/kangaroo) · [官网](https://www.datatable.online/?from=github) · 组织维护 · 中文 README
+⭐ 519 · TSQL · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/dbkangaroo/kangaroo) · [官网](https://www.datatable.online/?from=github) · 组织维护 · 中文 README
 
 **面向多种数据库的 AI 增强型 SQL 客户端与管理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dbkangaroo/kangaroo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 515 --> 519
-    line [516, 517, 518, 518]
+    title "dbkangaroo/kangaroo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 515 --> 520
+    line [516, 517, 518, 516, 519, 519]
 ```
 
-2026-10-18 516 → 2026-11-02 518（+2）
+2026-10-18 516 → 2026-11-17 519（+3）
 
 
 ---

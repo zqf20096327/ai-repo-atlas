@@ -1,6 +1,6 @@
 # CCCpan/ai-api-integration
 
-⭐ 48 · Go · MIT · 推送 2026-05-11 · [GitHub](https://github.com/CCCpan/ai-api-integration) · [官网](https://www.xdhdancer.top) · 个人维护 · 中文 README
+⭐ 42 · Go · MIT · 推送 2026-05-11 · [GitHub](https://github.com/CCCpan/ai-api-integration) · [官网](https://www.xdhdancer.top) · 个人维护 · 中文 README
 
 **大模型 API 统一接入教程库：OpenAI 兼容协议配 10 款工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CCCpan/ai-api-integration 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 47 --> 51
-    line [50, 48, 48]
+    title "CCCpan/ai-api-integration 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 51
+    line [50, 48, 42, 42]
 ```
 
-2026-10-18 50 → 2026-11-02 48（-2）
+2026-10-18 50 → 2026-11-17 42（-8）
 
 
 ---

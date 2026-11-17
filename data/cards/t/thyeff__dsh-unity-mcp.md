@@ -1,6 +1,6 @@
 # thyeff/dsh-unity-mcp
 
-⭐ 18 · JavaScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/thyeff/dsh-unity-mcp) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/thyeff/dsh-unity-mcp) · 个人维护 · 中文 README
 
 **DSH 插件：让 AI Agent 通过 MCP 直接操控 Unity 编辑器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thyeff/dsh-unity-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 18]
+    title "thyeff/dsh-unity-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 17, 18, 16, 19, 20, 21, 21]
 ```
 
-2026-10-18 15 → 2026-11-02 18（+3）
+2026-10-18 15 → 2026-11-17 21（+6）
 
 
 ---

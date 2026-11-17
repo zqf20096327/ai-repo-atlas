@@ -1,6 +1,6 @@
 # xiaolai/claudepot-app
 
-⭐ 126 · Rust · ISC · 推送 2026-11-01 · [GitHub](https://github.com/xiaolai/claudepot-app) · [官网](https://claudepot.com) · 个人维护
+⭐ 131 · Rust · ISC · 推送 2026-11-04 · [GitHub](https://github.com/xiaolai/claudepot-app) · [官网](https://claudepot.com) · 个人维护
 
 **Claude Code/Desktop 的桌面控制面板：账号切换、会话监控与调度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaolai/claudepot-app 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 122 --> 127
-    line [123, 124, 125, 126, 126]
+    title "xiaolai/claudepot-app 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 122 --> 132
+    line [123, 124, 125, 126, 125, 127, 129, 131, 131]
 ```
 
-2026-10-18 123 → 2026-11-02 126（+3）
+2026-10-18 123 → 2026-11-17 131（+8）
 
 
 ---

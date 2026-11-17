@@ -1,6 +1,6 @@
 # ToolMonsters/handoff-skill
 
-⭐ 43 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/ToolMonsters/handoff-skill) · 组织维护
+⭐ 44 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/ToolMonsters/handoff-skill) · 组织维护
 
 **Claude 技能：把当前对话生成完整交接文档供任意 LLM 续接**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ToolMonsters/handoff-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "ToolMonsters/handoff-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

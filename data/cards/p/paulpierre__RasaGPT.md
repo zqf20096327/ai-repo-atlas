@@ -1,6 +1,6 @@
 # paulpierre/RasaGPT
 
-⭐ 2,460 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/paulpierre/RasaGPT) · [官网](https://rasagpt.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Rasa+Langchain 的无头 LLM 聊天机器人平台参考实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "paulpierre/RasaGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-07"]
     y-axis "stars" 2459 --> 2462
     line [2461, 2460, 2460]
 ```
 
-2026-10-18 2,461 → 2026-11-02 2,460（-1）
+2026-10-18 2,461 → 2026-11-07 2,460（-1）
 
 
 ---

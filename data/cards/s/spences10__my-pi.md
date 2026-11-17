@@ -1,6 +1,6 @@
 # spences10/my-pi
 
-⭐ 139 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/spences10/my-pi) · [官网](https://my-pi.dev) · 个人维护
+⭐ 140 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/spences10/my-pi) · [官网](https://my-pi.dev) · 个人维护
 
 **基于 Pi SDK 的编码 agent CLI 发行版，预置 MCP/LSP/技能/遥测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spences10/my-pi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 136 --> 140
-    line [137, 138, 139, 139]
+    title "spences10/my-pi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 136 --> 141
+    line [137, 138, 139, 137, 139, 140, 140]
 ```
 
-2026-10-18 137 → 2026-11-02 139（+2）
+2026-10-18 137 → 2026-11-17 140（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # gaasher/Agent-Loop-Skills
 
-⭐ 178 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/gaasher/Agent-Loop-Skills) · 个人维护
+⭐ 182 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/gaasher/Agent-Loop-Skills) · 个人维护
 
 **开发者用的可复用 agentic 循环技能包（自动科研/写作/优化/红队）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaasher/Agent-Loop-Skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 174 --> 179
-    line [175, 177, 178, 177, 178, 178]
+    title "gaasher/Agent-Loop-Skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 174 --> 183
+    line [175, 177, 178, 177, 178, 177, 181, 182, 182]
 ```
 
-2026-10-18 175 → 2026-11-02 178（+3）
+2026-10-18 175 → 2026-11-17 182（+7）
 
 
 ---

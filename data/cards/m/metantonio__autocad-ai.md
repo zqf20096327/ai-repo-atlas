@@ -1,6 +1,6 @@
 # metantonio/autocad-ai
 
-⭐ 29 · Python · 推送 2025-12-23 · [GitHub](https://github.com/metantonio/autocad-ai) · 个人维护
+⭐ 31 · Python · 推送 2025-12-23 · [GitHub](https://github.com/metantonio/autocad-ai) · 个人维护
 
 **用自然语言控制 AutoCAD 绘图的 LLM 桥接工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metantonio/autocad-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "metantonio/autocad-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

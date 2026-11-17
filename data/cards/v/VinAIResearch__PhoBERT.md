@@ -1,6 +1,6 @@
 # VinAIResearch/PhoBERT
 
-⭐ 809 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/VinAIResearch/PhoBERT) · 组织维护
+⭐ 812 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/VinAIResearch/PhoBERT) · 组织维护
 
 **越南语预训练语言模型（RoBERTa 架构），供下游 NLP 任务使用**
 
@@ -45,13 +45,13 @@ VinAI Research 发布的首个公开大规模越南语单语预训练语言模�
 
 ```mermaid
 xychart-beta
-    title "VinAIResearch/PhoBERT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 808 --> 811
-    line [809, 810, 809]
+    title "VinAIResearch/PhoBERT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 808 --> 813
+    line [809, 810, 809, 810, 811, 812, 812]
 ```
 
-2026-10-18 809 → 2026-11-02 809（+0）
+2026-10-18 809 → 2026-11-17 812（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ericyoung-183/alpha-insights
 
-⭐ 71 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/Ericyoung-183/alpha-insights) · [官网](https://ericyoung-183.github.io/alpha-insights/) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/Ericyoung-183/alpha-insights) · [官网](https://ericyoung-183.github.io/alpha-insights/) · 个人维护
 
 **面向 Claude Code/Codex 的商业研究 AI 技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ericyoung-183/alpha-insights 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 68 --> 72
-    line [69, 70, 71, 71]
+    title "Ericyoung-183/alpha-insights 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 68 --> 75
+    line [69, 70, 71, 72, 73, 74, 74]
 ```
 
-2026-10-18 69 → 2026-11-02 71（+2）
+2026-10-18 69 → 2026-11-17 74（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI
 
-⭐ 972 · Jupyter Notebook · GPL-3.0 · 推送 2026-04-08 · [GitHub](https://github.com/bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI) · 个人维护
+⭐ 973 · Jupyter Notebook · GPL-3.0 · 推送 2026-04-08 · [GitHub](https://github.com/bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI) · 个人维护
 
 **数据科学与生成式 AI 学习课程仓库，含 MLOps 与案例**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 971 --> 973
-    line [972, 972]
+    title "bansalkanav/Ultimate-Data-Science-Toolkit---From-Python-Basics-to-GenerativeAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 971 --> 974
+    line [972, 973, 973]
 ```
 
-2026-10-18 972 → 2026-11-02 972（+0）
+2026-10-18 972 → 2026-11-17 973（+1）
 
 
 ---

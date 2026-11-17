@@ -1,6 +1,6 @@
 # ChiShengChen/neural-signals-101
 
-⭐ 19 · Jupyter Notebook · MIT · 推送 2026-05-30 · [GitHub](https://github.com/ChiShengChen/neural-signals-101) · 个人维护 · 中文 README
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-05-30 · [GitHub](https://github.com/ChiShengChen/neural-signals-101) · 个人维护 · 中文 README
 
 **面向初学者的 EEG 机器学习与信号处理教程（可运行 notebooks）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChiShengChen/neural-signals-101 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "ChiShengChen/neural-signals-101 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

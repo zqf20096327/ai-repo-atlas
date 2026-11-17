@@ -1,6 +1,6 @@
 # liyedanpdx/reddit-ai-trends
 
-⭐ 872 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/liyedanpdx/reddit-ai-trends) · 个人维护 · 中文 README
+⭐ 876 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/liyedanpdx/reddit-ai-trends) · 个人维护 · 中文 README
 
 **自动扫描 Reddit AI 社区并用 LLM 生成双语趋势日报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyedanpdx/reddit-ai-trends 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 870 --> 873
-    line [871, 872, 872]
+    title "liyedanpdx/reddit-ai-trends 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 870 --> 877
+    line [871, 872, 871, 873, 874, 875, 876, 876]
 ```
 
-2026-10-18 871 → 2026-11-02 872（+1）
+2026-10-18 871 → 2026-11-17 876（+5）
 
 
 ---

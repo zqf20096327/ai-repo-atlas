@@ -1,6 +1,6 @@
 # adm1nsys/Safari-Ai-Extension
 
-⭐ 19 · JavaScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/adm1nsys/Safari-Ai-Extension) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 生成的 Safari 扩展示例与开发者指南（OS 27）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adm1nsys/Safari-Ai-Extension 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-07"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-07 19（+1）
 
 
 ---

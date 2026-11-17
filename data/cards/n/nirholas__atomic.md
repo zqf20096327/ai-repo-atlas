@@ -1,6 +1,6 @@
 # nirholas/atomic
 
-⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/nirholas/atomic) · [官网](https://github.com/nirholas/atomic) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Solana/pump.fun 代币的 Jito 原子化发行、收费与交易脚本集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirholas/atomic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 18, 19, 19]
+    title "nirholas/atomic 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10"]
+    y-axis "stars" 15 --> 22
+    line [16, 18, 19, 18, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-10 21（+5）
 
 
 ---

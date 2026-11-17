@@ -1,6 +1,6 @@
 # A7m0spHere/CDU-AI
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/A7m0spHere/CDU-AI) · [官网](wiki.cduai.top) · 组织维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/A7m0spHere/CDU-AI) · [官网](wiki.cduai.top) · 组织维护 · 中文 README
 
 **面向成都大学同学的开放 AI 学习站与共建指南**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "A7m0spHere/CDU-AI 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "A7m0spHere/CDU-AI 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 4 --> 13
-    line [5, 7, 8, 10, 12]
+    line [5, 7, 8, 10, 12, 5, 12, 11, 11]
 ```
 
-2026-10-19 5 → 2026-11-02 12（+7）
+2026-10-19 5 → 2026-11-17 11（+6）
 
 
 ---

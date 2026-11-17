@@ -1,6 +1,6 @@
 # YichuXu/PHDMamba
 
-⭐ 17 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/YichuXu/PHDMamba) · [官网](https://ieeexplore.ieee.org/document/11222630) · 组织维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/YichuXu/PHDMamba) · [官网](https://ieeexplore.ieee.org/document/11222630) · 组织维护 · 中文 README
 
 **IEEE GRSL 2025 论文官方代码：高光谱图像分类的混合 Mamba 模型**
 
@@ -44,13 +44,13 @@ PHDMamba 论文（IEEE Geoscience and Remote Sensing Letters 2025）的 PyTorch 
 
 ```mermaid
 xychart-beta
-    title "YichuXu/PHDMamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "YichuXu/PHDMamba 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

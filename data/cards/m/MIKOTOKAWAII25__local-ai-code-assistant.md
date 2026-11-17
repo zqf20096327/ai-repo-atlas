@@ -1,6 +1,6 @@
 # MIKOTOKAWAII25/local-ai-code-assistant
 
-⭐ 121 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/MIKOTOKAWAII25/local-ai-code-assistant) · 个人维护
+⭐ 125 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/MIKOTOKAWAII25/local-ai-code-assistant) · 个人维护
 
 **离线多模型桌面编程助手：本地编排多个开源模型辅助编码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MIKOTOKAWAII25/local-ai-code-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 120 --> 123
-    line [122, 121, 121]
+    title "MIKOTOKAWAII25/local-ai-code-assistant 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 120 --> 126
+    line [122, 121, 122, 123, 124, 125, 125]
 ```
 
-2026-10-18 122 → 2026-11-02 121（-1）
+2026-10-18 122 → 2026-11-17 125（+3）
 
 
 ---

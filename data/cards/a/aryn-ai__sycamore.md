@@ -1,6 +1,6 @@
 # aryn-ai/sycamore
 
-⭐ 605 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/aryn-ai/sycamore) · [官网](https://sycamore.readthedocs.io) · 组织维护
+⭐ 606 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/aryn-ai/sycamore) · [官网](https://sycamore.readthedocs.io) · 组织维护
 
 **面向非结构化数据的 LLM 文档处理引擎，服务 ETL/RAG 与分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aryn-ai/sycamore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "aryn-ai/sycamore 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 604 --> 608
-    line [607, 606, 605, 605]
+    line [607, 606, 605, 606, 605, 606, 606]
 ```
 
-2026-10-18 607 → 2026-11-02 605（-2）
+2026-10-18 607 → 2026-11-17 606（-1）
 
 
 ---

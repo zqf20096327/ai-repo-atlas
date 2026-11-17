@@ -1,6 +1,6 @@
 # sergenes/runandread-audiobook
 
-⭐ 65 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/sergenes/runandread-audiobook) · [官网](https://answersolutions.net) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/sergenes/runandread-audiobook) · [官网](https://answersolutions.net) · 个人维护
 
 **在家用开源/云端 TTS 模型生成有声书的开源流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sergenes/runandread-audiobook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 62 --> 66
-    line [63, 65, 65]
+    title "sergenes/runandread-audiobook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 62 --> 67
+    line [63, 65, 66, 66]
 ```
 
-2026-10-18 63 → 2026-11-02 65（+2）
+2026-10-18 63 → 2026-11-17 66（+3）
 
 
 ---

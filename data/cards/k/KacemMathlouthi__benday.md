@@ -1,6 +1,6 @@
 # KacemMathlouthi/benday
 
-⭐ 42 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/KacemMathlouthi/benday) · [官网](https://benday.kacemmathlouthi.dev) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/KacemMathlouthi/benday) · [官网](https://benday.kacemmathlouthi.dev) · 个人维护
 
 **将 Logo 半调化为动画思考指示器的 React 组件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KacemMathlouthi/benday 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 39 --> 44
-    line [40, 41, 42, 43, 42, 42]
+    title "KacemMathlouthi/benday 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 39 --> 47
+    line [40, 41, 42, 43, 42, 43, 46, 46]
 ```
 
-2026-10-18 40 → 2026-11-02 42（+2）
+2026-10-18 40 → 2026-11-17 46（+6）
 
 
 ---

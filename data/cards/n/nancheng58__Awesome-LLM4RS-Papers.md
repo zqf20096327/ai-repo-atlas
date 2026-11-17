@@ -1,6 +1,6 @@
 # nancheng58/Awesome-LLM4RS-Papers
 
-⭐ 766 · 推送 2026-10-27 · [GitHub](https://github.com/nancheng58/Awesome-LLM4RS-Papers) · 个人维护
+⭐ 766 · 推送 2026-11-16 · [GitHub](https://github.com/nancheng58/Awesome-LLM4RS-Papers) · 个人维护
 
 **LLM 增强推荐系统（LLM4RS）论文清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nancheng58/Awesome-LLM4RS-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "nancheng58/Awesome-LLM4RS-Papers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 765 --> 768
-    line [767, 766, 766]
+    line [767, 766, 767, 766, 766]
 ```
 
-2026-10-18 767 → 2026-11-02 766（-1）
+2026-10-18 767 → 2026-11-17 766（-1）
 
 
 ---

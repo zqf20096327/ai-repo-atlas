@@ -1,6 +1,6 @@
 # zeusftk/FTK_Comfyui_Agent
 
-⭐ 186 · Python · 推送 2026-02-10 · [GitHub](https://github.com/zeusftk/FTK_Comfyui_Agent) · 个人维护 · 中文 README
+⭐ 187 · Python · 推送 2026-02-10 · [GitHub](https://github.com/zeusftk/FTK_Comfyui_Agent) · 个人维护 · 中文 README
 
 **对话调用 ComfyUI 的多媒体生成桌面工具：文/图生视频、换脸、配音**
 
@@ -45,13 +45,13 @@ Windows 桌面应用，通过自然语言对话调用并执行 ComfyUI 工作流
 
 ```mermaid
 xychart-beta
-    title "zeusftk/FTK_Comfyui_Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "zeusftk/FTK_Comfyui_Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 185 --> 188
-    line [187, 186, 186]
+    line [187, 186, 187, 187]
 ```
 
-2026-10-18 187 → 2026-11-02 186（-1）
+2026-10-18 187 → 2026-11-17 187（+0）
 
 
 ---

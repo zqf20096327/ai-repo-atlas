@@ -1,6 +1,6 @@
 # Devinterview-io/data-engineer-interview-questions
 
-⭐ 107 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/data-engineer-interview-questions) · 组织维护
+⭐ 108 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/data-engineer-interview-questions) · 组织维护
 
 **数据工程师面试题库：100 道问答与解析**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的数据工程师面试准备资料仓库，以 Markdown 
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/data-engineer-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 105 --> 108
-    line [106, 107, 107]
+    title "Devinterview-io/data-engineer-interview-questions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 105 --> 109
+    line [106, 107, 108, 108]
 ```
 
-2026-10-18 106 → 2026-11-02 107（+1）
+2026-10-18 106 → 2026-11-17 108（+2）
 
 
 ---

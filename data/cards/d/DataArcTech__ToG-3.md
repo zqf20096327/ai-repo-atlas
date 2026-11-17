@@ -1,6 +1,6 @@
 # DataArcTech/ToG-3
 
-⭐ 94 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/DataArcTech/ToG-3) · 组织维护 · 中文 README
+⭐ 95 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/DataArcTech/ToG-3) · 组织维护 · 中文 README
 
 **构建多类 RAG 流水线的框架：含 GraphRAG 与多模态 RAG**
 
@@ -45,13 +45,13 @@ Think-on-Graph 3.0 / RAG-Factory 是用于构建 RAG 管道的框架，覆盖标
 
 ```mermaid
 xychart-beta
-    title "DataArcTech/ToG-3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "DataArcTech/ToG-3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 96
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 95（+1）
 
 
 ---

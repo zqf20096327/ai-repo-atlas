@@ -1,6 +1,6 @@
 # micpet7514088/autogap
 
-⭐ 18 · PowerShell · MIT · 推送 2026-04-23 · [GitHub](https://github.com/micpet7514088/autogap) · [官网](https://github.com/micpet7514088/autogap) · 组织维护
+⭐ 19 · PowerShell · MIT · 推送 2026-04-23 · [GitHub](https://github.com/micpet7514088/autogap) · [官网](https://github.com/micpet7514088/autogap) · 组织维护
 
 **Claude Code 技能：诊断任意项目的前 3 大缺口并可代为执行修复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "micpet7514088/autogap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "micpet7514088/autogap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

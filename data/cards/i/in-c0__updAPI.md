@@ -1,6 +1,6 @@
 # in-c0/updAPI
 
-⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/in-c0/updAPI) · 个人维护
+⭐ 24 · 推送 2026-11-15 · [GitHub](https://github.com/in-c0/updAPI) · 个人维护
 
 **API 演化数据集与编码 agent 时效性基准**
 
@@ -11,7 +11,7 @@ UpdAPI 跟踪真实 API/SDK 随时间的变化，将经核验、带时间戳的�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ UpdAPI 跟踪真实 API/SDK 随时间的变化，将经核验、带时间戳的�
 ```mermaid
 xychart-beta
     title "in-c0/updAPI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

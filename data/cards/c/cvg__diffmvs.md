@@ -1,6 +1,6 @@
 # cvg/diffmvs
 
-⭐ 178 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/cvg/diffmvs) · 组织维护
+⭐ 179 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/cvg/diffmvs) · 组织维护
 
 **基于扩散模型的多视图立体重建方法（DiffMVS/CasDiffMVS）**
 
@@ -45,13 +45,13 @@ T-PAMI 2025 论文官方实现：提出 DiffMVS 与 CasDiffMVS 两种多视图�
 
 ```mermaid
 xychart-beta
-    title "cvg/diffmvs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 174 --> 179
-    line [176, 175, 177, 178, 178]
+    title "cvg/diffmvs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 174 --> 180
+    line [176, 175, 177, 178, 177, 179, 179]
 ```
 
-2026-10-18 176 → 2026-11-02 178（+2）
+2026-10-18 176 → 2026-11-17 179（+3）
 
 
 ---

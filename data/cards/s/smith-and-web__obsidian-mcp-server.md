@@ -1,6 +1,6 @@
 # smith-and-web/obsidian-mcp-server
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/smith-and-web/obsidian-mcp-server) · [官网](https://github.com/smith-and-web/obsidian-mcp-server#readme) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/smith-and-web/obsidian-mcp-server) · [官网](https://github.com/smith-and-web/obsidian-mcp-server#readme) · 组织维护
 
 **让 Claude 等 AI 助手读写搜索 Obsidian 笔记库的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smith-and-web/obsidian-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "smith-and-web/obsidian-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

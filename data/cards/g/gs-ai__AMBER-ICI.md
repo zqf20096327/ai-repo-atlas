@@ -1,6 +1,6 @@
 # gs-ai/AMBER-ICI
 
-⭐ 19 · HTML · MIT · 推送 2026-09-01 · [GitHub](https://github.com/gs-ai/AMBER-ICI) · 组织维护
+⭐ 19 · HTML · MIT · 推送 2026-11-11 · [GitHub](https://github.com/gs-ai/AMBER-ICI) · 组织维护
 
 **本地优先的调查分析工作台：基于 Ollama 的案件证据与 agent 链界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gs-ai/AMBER-ICI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

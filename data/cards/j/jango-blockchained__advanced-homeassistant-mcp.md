@@ -1,6 +1,6 @@
 # jango-blockchained/advanced-homeassistant-mcp
 
-⭐ 58 · JavaScript · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/jango-blockchained/advanced-homeassistant-mcp) · [官网](https://jango-blockchained.github.io/advanced-homeassistant-mcp/) · 个人维护
+⭐ 58 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/jango-blockchained/advanced-homeassistant-mcp) · [官网](https://jango-blockchained.github.io/advanced-homeassistant-mcp/) · 个人维护
 
 **让 AI 助手通过 MCP 控制 Home Assistant 的服务端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jango-blockchained/advanced-homeassistant-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 56 --> 59
     line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

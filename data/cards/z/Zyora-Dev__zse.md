@@ -1,6 +1,6 @@
 # Zyora-Dev/zse
 
-⭐ 238 · Python · 推送 2026-09-27 · [GitHub](https://github.com/Zyora-Dev/zse) · [官网](https://zllm.in) · 组织维护
+⭐ 242 · Python · 推送 2026-09-27 · [GitHub](https://github.com/Zyora-Dev/zse) · [官网](https://zllm.in) · 组织维护
 
 **零依赖 LLM 推理引擎：纯 Python 自研全栈，秒级冷启动**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zyora-Dev/zse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 235 --> 239
-    line [237, 236, 238, 238]
+    title "Zyora-Dev/zse 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 235 --> 243
+    line [237, 236, 238, 236, 241, 242, 242]
 ```
 
-2026-10-18 237 → 2026-11-02 238（+1）
+2026-10-18 237 → 2026-11-17 242（+5）
 
 
 ---

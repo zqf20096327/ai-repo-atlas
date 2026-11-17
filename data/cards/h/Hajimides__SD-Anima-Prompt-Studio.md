@@ -1,6 +1,6 @@
 # Hajimides/SD-Anima-Prompt-Studio
 
-⭐ 116 · HTML · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/Hajimides/SD-Anima-Prompt-Studio) · [官网](https://hajimides.github.io/SD-Anima-Prompt-Studio/) · 个人维护 · 中文 README
+⭐ 119 · HTML · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/Hajimides/SD-Anima-Prompt-Studio) · [官网](https://hajimides.github.io/SD-Anima-Prompt-Studio/) · 个人维护 · 中文 README
 
 **Stable Diffusion / Anima 提示词构建器：浏览器内直接使用的纯前端工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hajimides/SD-Anima-Prompt-Studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 110 --> 117
-    line [111, 113, 114, 115, 116, 116]
+    title "Hajimides/SD-Anima-Prompt-Studio 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 110 --> 120
+    line [111, 113, 114, 115, 116, 114, 117, 118, 119, 119]
 ```
 
-2026-10-18 111 → 2026-11-02 116（+5）
+2026-10-18 111 → 2026-11-17 119（+8）
 
 
 ---

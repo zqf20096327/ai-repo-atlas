@@ -1,6 +1,6 @@
 # xiaotonng/pikiloom
 
-⭐ 295 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xiaotonng/pikiloom) · [官网](https://xiaotonng.github.io/pikiloom/) · 个人维护 · 中文 README
+⭐ 291 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xiaotonng/pikiloom) · [官网](https://xiaotonng.github.io/pikiloom/) · 个人维护 · 中文 README
 
 **开源多 Agent 编排器：从 IM/Web/CLI 并行驱动多个 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaotonng/pikiloom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 293 --> 296
-    line [295, 294, 295, 295]
+    title "xiaotonng/pikiloom 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 290 --> 296
+    line [295, 294, 295, 294, 293, 292, 291, 291]
 ```
 
-2026-10-18 295 → 2026-11-02 295（+0）
+2026-10-18 295 → 2026-11-17 291（-4）
 
 
 ---

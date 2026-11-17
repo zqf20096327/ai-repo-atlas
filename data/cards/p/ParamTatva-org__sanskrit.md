@@ -1,6 +1,6 @@
 # ParamTatva-org/sanskrit
 
-⭐ 15 · Python · 推送 2025-12-09 · [GitHub](https://github.com/ParamTatva-org/sanskrit) · [官网](https://mantr.net) · 组织维护
+⭐ 16 · Python · 推送 2025-12-09 · [GitHub](https://github.com/ParamTatva-org/sanskrit) · [官网](https://mantr.net) · 组织维护
 
 **面向梵语原生输入的 62M 参数开源多模态基础模型及权重**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ParamTatva-org/sanskrit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ParamTatva-org/sanskrit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

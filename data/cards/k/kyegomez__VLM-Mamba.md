@@ -1,6 +1,6 @@
 # kyegomez/VLM-Mamba
 
-⭐ 16 · Python · MIT · 推送 2026-01-05 · [GitHub](https://github.com/kyegomez/VLM-Mamba) · [官网](https://discord.gg/jM3Z6M9uMq) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-01-05 · [GitHub](https://github.com/kyegomez/VLM-Mamba) · [官网](https://discord.gg/jM3Z6M9uMq) · 个人维护
 
 **完全基于 Mamba 状态空间模型的视觉-语言模型实现（研究原型）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/VLM-Mamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "kyegomez/VLM-Mamba 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

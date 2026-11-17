@@ -1,6 +1,6 @@
 # CaicoLeung/aic
 
-⭐ 22 · Rust · 推送 2026-10-30 · [GitHub](https://github.com/CaicoLeung/aic) · [官网](https://caicoleung.github.io/aic-web/) · 个人维护 · 中文 README
+⭐ 24 · Rust · 推送 2026-10-30 · [GitHub](https://github.com/CaicoLeung/aic) · [官网](https://caicoleung.github.io/aic-web/) · 个人维护 · 中文 README
 
 **Rust CLI：把工作区改动拆成原子提交，复用已有 AI 授权**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CaicoLeung/aic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 22, 22]
+    title "CaicoLeung/aic 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 22, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

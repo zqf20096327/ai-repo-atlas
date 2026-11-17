@@ -1,6 +1,6 @@
 # tangweigang-jpg/Claude-code-research
 
-⭐ 31 · 推送 2026-04-02 · [GitHub](https://github.com/tangweigang-jpg/Claude-code-research) · [官网](https://github.com/tangweigang-jpg/Claude-code-research) · 个人维护 · 中文 README
+⭐ 30 · 推送 2026-04-02 · [GitHub](https://github.com/tangweigang-jpg/Claude-code-research) · [官网](https://github.com/tangweigang-jpg/Claude-code-research) · 个人维护 · 中文 README
 
 **Claude Code 架构的 14 章深度分析报告，提供 7 种语言版本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tangweigang-jpg/Claude-code-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "tangweigang-jpg/Claude-code-research 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 30（-1）
 
 
 ---

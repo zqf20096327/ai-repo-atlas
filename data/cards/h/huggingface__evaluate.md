@@ -1,6 +1,6 @@
 # huggingface/evaluate
 
-⭐ 2,490 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/evaluate) · [官网](https://huggingface.co/docs/evaluate) · 组织维护
+⭐ 2,496 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/evaluate) · [官网](https://huggingface.co/docs/evaluate) · 组织维护
 
 **机器学习模型与数据集的评测指标库**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的评测库：提供数十种现成指标实现（覆盖 NLP
 
 ```mermaid
 xychart-beta
-    title "huggingface/evaluate 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2489 --> 2494
-    line [2491, 2492, 2493, 2492, 2491, 2490, 2490]
+    title "huggingface/evaluate 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2489 --> 2497
+    line [2491, 2492, 2493, 2492, 2491, 2490, 2493, 2494, 2495, 2496, 2496]
 ```
 
-2026-10-18 2,491 → 2026-11-02 2,490（-1）
+2026-10-18 2,491 → 2026-11-17 2,496（+5）
 
 
 ---

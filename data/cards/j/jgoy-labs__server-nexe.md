@@ -1,6 +1,6 @@
 # jgoy-labs/server-nexe
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/jgoy-labs/server-nexe) · [官网](https://server-nexe.org) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/jgoy-labs/server-nexe) · [官网](https://server-nexe.org) · 个人维护
 
 **本地 AI 服务器：多后端推理+持久 RAG 记忆，数据不出设备**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jgoy-labs/server-nexe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

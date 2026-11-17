@@ -1,6 +1,6 @@
 # OneStepAt4time/aegis
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/OneStepAt4time/aegis) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/OneStepAt4time/aegis) · 个人维护
 
 **通过 API 编排 Claude Code 会话的中间层服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OneStepAt4time/aegis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

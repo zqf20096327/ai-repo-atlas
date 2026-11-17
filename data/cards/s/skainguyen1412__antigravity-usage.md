@@ -1,6 +1,6 @@
 # skainguyen1412/antigravity-usage
 
-⭐ 402 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/skainguyen1412/antigravity-usage) · 个人维护
+⭐ 406 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/skainguyen1412/antigravity-usage) · 个人维护
 
 **追踪 Antigravity 模型配额与用量的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skainguyen1412/antigravity-usage 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 395 --> 403
-    line [396, 398, 399, 400, 401, 402, 402]
+    title "skainguyen1412/antigravity-usage 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 395 --> 407
+    line [396, 398, 399, 400, 401, 402, 400, 402, 403, 404, 406, 406]
 ```
 
-2026-10-18 396 → 2026-11-02 402（+6）
+2026-10-18 396 → 2026-11-17 406（+10）
 
 
 ---

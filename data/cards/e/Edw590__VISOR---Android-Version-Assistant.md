@@ -1,6 +1,6 @@
 # Edw590/VISOR---Android-Version-Assistant
 
-⭐ 41 · Java · Apache-2.0 · 推送 2025-11-20 · [GitHub](https://github.com/Edw590/VISOR---Android-Version-Assistant) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Android 离线语音助手：语音命令操控手机功能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Edw590/VISOR---Android-Version-Assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "Edw590/VISOR---Android-Version-Assistant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15"]
     y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    line [40, 41, 40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-15 41（+1）
 
 
 ---

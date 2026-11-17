@@ -1,6 +1,6 @@
 # bentoml/llm-optimizer
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/bentoml/llm-optimizer) · [官网](https://www.bentoml.com/llm-perf/) · 组织维护
+⭐ 204 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/bentoml/llm-optimizer) · [官网](https://www.bentoml.com/llm-perf/) · 组织维护
 
 **开源 LLM 推理性能的基准测试与调优工具**
 
@@ -45,13 +45,13 @@ BentoML 维护的 Python CLI 工具：跨 SGLang 与 vLLM 等推理框架，使�
 
 ```mermaid
 xychart-beta
-    title "bentoml/llm-optimizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 200 --> 204
-    line [202, 201, 202, 203, 203]
+    title "bentoml/llm-optimizer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 200 --> 205
+    line [202, 201, 202, 203, 202, 203, 204, 204]
 ```
 
-2026-10-18 202 → 2026-11-02 203（+1）
+2026-10-18 202 → 2026-11-17 204（+2）
 
 
 ---

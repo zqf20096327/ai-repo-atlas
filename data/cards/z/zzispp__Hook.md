@@ -1,6 +1,6 @@
 # zzispp/Hook
 
-⭐ 20 · Rust · MIT · 推送 2026-08-10 · [GitHub](https://github.com/zzispp/Hook) · [官网](https://zzispp.github.io/Hook) · 个人维护 · 中文 README
+⭐ 21 · Rust · MIT · 推送 2026-08-10 · [GitHub](https://github.com/zzispp/Hook) · [官网](https://zzispp.github.io/Hook) · 个人维护 · 中文 README
 
 **AI API 网关与运营平台：统一模型路由、计费与权限管理**
 
@@ -45,13 +45,13 @@ Rust + Next.js monorepo 实现的 AI API 网关：后端用 Axum/SeaORM/Redis/Po
 
 ```mermaid
 xychart-beta
-    title "zzispp/Hook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "zzispp/Hook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # forcewake/hermes-conductor
 
-⭐ 82 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/forcewake/hermes-conductor) · 个人维护
+⭐ 84 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/forcewake/hermes-conductor) · 个人维护
 
 **用 Hermes kanban 控制器编排外部编码 CLI 的生产模式集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "forcewake/hermes-conductor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 78 --> 83
-    line [79, 80, 81, 82]
+    title "forcewake/hermes-conductor 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 78 --> 85
+    line [79, 80, 81, 82, 81, 82, 83, 84, 84]
 ```
 
-2026-10-18 79 → 2026-11-02 82（+3）
+2026-10-18 79 → 2026-11-17 84（+5）
 
 
 ---

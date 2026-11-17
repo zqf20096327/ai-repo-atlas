@@ -1,6 +1,6 @@
 # lupantech/MathVista
 
-⭐ 367 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-07-27 · [GitHub](https://github.com/lupantech/MathVista) · [官网](https://mathvista.github.io/) · 组织维护
+⭐ 368 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-11-14 · [GitHub](https://github.com/lupantech/MathVista) · [官网](https://mathvista.github.io/) · 组织维护
 
 **评测视觉语境数学推理的基准数据集与评测代码（6,141 例）**
 
@@ -44,13 +44,13 @@ ICLR 2024 论文的配套仓库：MathVista 基准由 28 个既有 多模态数�
 
 ```mermaid
 xychart-beta
-    title "lupantech/MathVista 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 366 --> 368
-    line [367, 367]
+    title "lupantech/MathVista 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 366 --> 369
+    line [367, 368, 367, 368, 368]
 ```
 
-2026-10-18 367 → 2026-11-02 367（+0）
+2026-10-18 367 → 2026-11-17 368（+1）
 
 
 ---

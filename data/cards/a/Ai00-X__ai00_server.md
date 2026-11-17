@@ -1,6 +1,6 @@
 # Ai00-X/ai00_server
 
-⭐ 622 · Rust · MIT · 推送 2026-06-09 · [GitHub](https://github.com/Ai00-X/ai00_server) · [官网](https://ai00-x.github.io/ai00_server/) · 组织维护 · 中文 README
+⭐ 624 · Rust · MIT · 推送 2026-06-09 · [GitHub](https://github.com/Ai00-X/ai00_server) · [官网](https://ai00-x.github.io/ai00_server/) · 组织维护 · 中文 README
 
 **基于 Vulkan 的 RWKV 推理 API 服务器，兼容 OpenAI 接口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ai00-X/ai00_server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 620 --> 623
-    line [621, 622, 622]
+    title "Ai00-X/ai00_server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 620 --> 625
+    line [621, 622, 621, 624, 624]
 ```
 
-2026-10-18 621 → 2026-11-02 622（+1）
+2026-10-18 621 → 2026-11-17 624（+3）
 
 
 ---

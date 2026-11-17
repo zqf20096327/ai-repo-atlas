@@ -1,6 +1,6 @@
 # creatis-myriad/ASCENT
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/creatis-myriad/ASCENT) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/creatis-myriad/ASCENT) · 组织维护
 
 **心脏超声图像分割与彩色多普勒解卷绕工具箱**
 
@@ -44,13 +44,13 @@ ASCENT 是面向心脏超声图像分析的深度学习工具箱：对超声图�
 
 ```mermaid
 xychart-beta
-    title "creatis-myriad/ASCENT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "creatis-myriad/ASCENT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [50, 49, 49]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 49（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # b-data/jupyterlab-julia-docker-stack
 
-⭐ 14 · Dockerfile · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/b-data/jupyterlab-julia-docker-stack) · [官网](https://gitlab.com/b-data/jupyterlab/julia/docker-stack) · 组织维护
+⭐ 15 · Dockerfile · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/b-data/jupyterlab-julia-docker-stack) · [官网](https://gitlab.com/b-data/jupyterlab/julia/docker-stack) · 组织维护
 
 **面向 Julia 数据科学的 JupyterLab 多架构 Docker 镜像栈**
 
@@ -45,13 +45,13 @@ b-data GmbH 维护的 JupyterLab Julia Docker 镜像系列，覆盖 linux/amd64 
 
 ```mermaid
 xychart-beta
-    title "b-data/jupyterlab-julia-docker-stack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 14, 14]
+    title "b-data/jupyterlab-julia-docker-stack 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

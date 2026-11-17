@@ -1,6 +1,6 @@
 # mosynthkey/beat_this_cpp
 
-⭐ 15 · C++ · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mosynthkey/beat_this_cpp) · 个人维护
+⭐ 17 · C++ · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mosynthkey/beat_this_cpp) · 个人维护
 
 **给开发者的 C++ 音乐节拍检测器：transformer 模型定位节拍与强拍**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mosynthkey/beat_this_cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "mosynthkey/beat_this_cpp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

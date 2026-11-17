@@ -1,6 +1,6 @@
 # ginkida/gokin
 
-⭐ 108 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ginkida/gokin) · [官网](https://gokin.ginkida.dev) · 个人维护
+⭐ 110 · Go · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ginkida/gokin) · [官网](https://gokin.ginkida.dev) · 个人维护
 
 **终端里的 AI 编程代理：自然语言操作代码、命令与 git**
 
@@ -45,13 +45,13 @@ Go 编写的开源 CLI 编程助手，通过自然语言执行文件操作、代
 
 ```mermaid
 xychart-beta
-    title "ginkida/gokin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 106 --> 109
-    line [107, 108]
+    title "ginkida/gokin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 106 --> 111
+    line [107, 108, 107, 110, 110]
 ```
 
-2026-10-18 107 → 2026-11-02 108（+1）
+2026-10-18 107 → 2026-11-17 110（+3）
 
 
 ---

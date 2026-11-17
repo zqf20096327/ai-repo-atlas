@@ -1,6 +1,6 @@
 # google-deepmind/videoprism
 
-⭐ 399 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/videoprism) · [官网](https://arxiv.org/abs/2402.13217) · 组织维护
+⭐ 401 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/google-deepmind/videoprism) · [官网](https://arxiv.org/abs/2402.13217) · 组织维护
 
 **通用视频基础编码器：为分类、检索、问答等视频理解任务提供嵌入**
 
@@ -44,13 +44,13 @@ DeepMind 发布的视频基础模型仓库，提供 VideoPrism 视频/视频-文
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/videoprism 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 398 --> 401
-    line [399, 400, 399, 399]
+    title "google-deepmind/videoprism 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 398 --> 402
+    line [399, 400, 399, 400, 401, 401]
 ```
 
-2026-10-18 399 → 2026-11-02 399（+0）
+2026-10-18 399 → 2026-11-17 401（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # neuml/rag
 
-⭐ 466 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/neuml/rag) · 个人维护
+⭐ 467 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/neuml/rag) · 个人维护
 
 **基于 txtai 的 RAG 问答应用：向量与图检索生成回答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neuml/rag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 464 --> 467
-    line [465, 466, 466]
+    title "neuml/rag 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 464 --> 468
+    line [465, 466, 467, 467]
 ```
 
-2026-10-18 465 → 2026-11-02 466（+1）
+2026-10-18 465 → 2026-11-17 467（+2）
 
 
 ---

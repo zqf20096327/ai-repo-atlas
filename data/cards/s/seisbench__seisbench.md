@@ -1,6 +1,6 @@
 # seisbench/seisbench
 
-⭐ 427 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/seisbench/seisbench) · 组织维护
+⭐ 432 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/seisbench/seisbench) · 组织维护
 
 **地震学机器学习工具箱：统一 API 加载数据集、训练与应用模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seisbench/seisbench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 425 --> 429
-    line [426, 427, 428, 427, 427]
+    title "seisbench/seisbench 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 425 --> 433
+    line [426, 427, 428, 427, 429, 430, 431, 432, 432]
 ```
 
-2026-10-18 426 → 2026-11-02 427（+1）
+2026-10-18 426 → 2026-11-17 432（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # rexleimo/aios
 
-⭐ 62 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rexleimo/aios) · [官网](https://cli.rexai.top/) · 个人维护 · 中文 README
+⭐ 62 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/rexleimo/aios) · [官网](https://cli.rexai.top/) · 个人维护 · 中文 README
 
 **本地优先的长期任务编码 agent 控制平面：记忆+编排+验证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rexleimo/aios 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    title "rexleimo/aios 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 53 --> 63
-    line [54, 61, 62, 62]
+    line [54, 61, 62, 61, 62, 62]
 ```
 
-2026-10-18 54 → 2026-11-02 62（+8）
+2026-10-18 54 → 2026-11-17 62（+8）
 
 
 ---

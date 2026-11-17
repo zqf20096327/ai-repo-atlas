@@ -1,6 +1,6 @@
 # MrRezaeiUofT/AMG-RAG
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/MrRezaeiUofT/AMG-RAG) · [官网](https://arxiv.org/abs/2502.13010) · 组织维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/MrRezaeiUofT/AMG-RAG) · [官网](https://arxiv.org/abs/2502.13010) · 组织维护
 
 **医学 Graph-RAG 框架：自动构建医学知识图谱并回答医学问题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MrRezaeiUofT/AMG-RAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    title "MrRezaeiUofT/AMG-RAG 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 43, 45, 45]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 45（+3）
 
 
 ---

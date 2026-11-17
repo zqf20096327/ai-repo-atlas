@@ -1,6 +1,6 @@
 # Hainrixz/claude-db
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-db) · [官网](https://tododeia.com) · 个人维护
+⭐ 24 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-db) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 的多范式数据库设计/审计/迁移插件，离线可用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/claude-db 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "Hainrixz/claude-db 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

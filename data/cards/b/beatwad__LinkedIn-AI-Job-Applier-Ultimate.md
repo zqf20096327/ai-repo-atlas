@@ -1,6 +1,6 @@
 # beatwad/LinkedIn-AI-Job-Applier-Ultimate
 
-⭐ 182 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **求职者自动化投递机器人：AI 定制简历并自动申请 LinkedIn/Indeed 职位**
 
@@ -11,7 +11,7 @@ AIHawk 项目的活跃 fork，用 Python 编写。基于 Patchright（Playwright
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ AIHawk 项目的活跃 fork，用 Python 编写。基于 Patchright（Playwright
 
 ```mermaid
 xychart-beta
-    title "beatwad/LinkedIn-AI-Job-Applier-Ultimate 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 175 --> 183
-    line [176, 177, 176, 177, 179, 180, 181, 182, 182]
+    title "beatwad/LinkedIn-AI-Job-Applier-Ultimate 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12"]
+    y-axis "stars" 175 --> 185
+    line [176, 177, 176, 177, 179, 180, 181, 182, 179, 183, 184, 184]
 ```
 
-2026-10-18 176 → 2026-11-02 182（+6）
+2026-10-18 176 → 2026-11-12 184（+8）
 
 
 ---

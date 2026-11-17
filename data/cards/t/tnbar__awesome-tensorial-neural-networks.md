@@ -1,6 +1,6 @@
 # tnbar/awesome-tensorial-neural-networks
 
-⭐ 157 · MIT · 推送 2026-07-15 · [GitHub](https://github.com/tnbar/awesome-tensorial-neural-networks) · 组织维护
+⭐ 160 · MIT · 推送 2026-07-15 · [GitHub](https://github.com/tnbar/awesome-tensorial-neural-networks) · 组织维护
 
 **张量神经网络研究论文清单：综述修订版的分类策展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tnbar/awesome-tensorial-neural-networks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 155 --> 158
-    line [156, 157, 157]
+    title "tnbar/awesome-tensorial-neural-networks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 155 --> 161
+    line [156, 157, 156, 159, 160, 160]
 ```
 
-2026-10-18 156 → 2026-11-02 157（+1）
+2026-10-18 156 → 2026-11-17 160（+4）
 
 
 ---

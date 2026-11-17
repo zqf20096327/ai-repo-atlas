@@ -1,6 +1,6 @@
 # xiehuan123/dsh-deepread
 
-⭐ 66 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/xiehuan123/dsh-deepread) · [官网](https://xiehuan123.github.io/dsh-deepread/) · 个人维护 · 中文 README
+⭐ 70 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/xiehuan123/dsh-deepread) · [官网](https://xiehuan123.github.io/dsh-deepread/) · 个人维护 · 中文 README
 
 **面向 AI agent 的证据优先深度阅读技能/插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiehuan123/dsh-deepread 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 58 --> 67
-    line [59, 60, 61, 62, 63, 65, 66]
+    title "xiehuan123/dsh-deepread 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 58 --> 71
+    line [59, 60, 61, 62, 63, 65, 66, 63, 67, 69, 70, 70]
 ```
 
-2026-10-18 59 → 2026-11-02 66（+7）
+2026-10-18 59 → 2026-11-17 70（+11）
 
 
 ---

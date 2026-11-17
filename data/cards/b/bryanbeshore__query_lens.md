@@ -1,6 +1,6 @@
 # bryanbeshore/query_lens
 
-⭐ 71 · HTML · MIT · 推送 2026-02-16 · [GitHub](https://github.com/bryanbeshore/query_lens) · [官网](https://querylens.ai) · 个人维护
+⭐ 72 · HTML · MIT · 推送 2026-02-16 · [GitHub](https://github.com/bryanbeshore/query_lens) · [官网](https://querylens.ai) · 个人维护
 
 **Rails 可挂载引擎：自然语言提问生成 SQL 并查询数据库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bryanbeshore/query_lens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "bryanbeshore/query_lens 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # eth-siplab/RAP
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/eth-siplab/RAP) · [官网](https://arxiv.org/abs/2305.13093) · 组织维护
+⭐ 75 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/eth-siplab/RAP) · [官网](https://arxiv.org/abs/2305.13093) · 组织维护
 
 **本地图像修复 Web 应用：按区域分割后各配专属修复模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eth-siplab/RAP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "eth-siplab/RAP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75, 75]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 75（+2）
 
 
 ---

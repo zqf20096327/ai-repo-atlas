@@ -1,6 +1,6 @@
 # kritiksoman/GIMP-ML
 
-⭐ 1,559 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kritiksoman/GIMP-ML) · 个人维护
+⭐ 1,556 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/kritiksoman/GIMP-ML) · [官网](https://kritiksoman.github.io/GIMP-ML-Docs/guide.html) · 个人维护
 
 **GIMP 3 插件：通过外部 API 文生图与文字改图**
 
@@ -39,6 +39,18 @@
 
 > L3: **GIMP-ML brings text-driven image creation and editing directly into GIMP 3.**
 > L9: - **Generate Image**: turn a text prompt into a new image or document layer.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kritiksoman/GIMP-ML 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1554 --> 1560
+    line [1559, 1556, 1555, 1556, 1556]
+```
+
+2026-11-02 1,559 → 2026-11-17 1,556（-3）
 
 
 ---

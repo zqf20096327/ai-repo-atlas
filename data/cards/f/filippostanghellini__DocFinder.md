@@ -1,6 +1,6 @@
 # filippostanghellini/DocFinder
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/filippostanghellini/DocFinder) · [官网](https://filippostanghellini.github.io/DocFinder/) · 个人维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/filippostanghellini/DocFinder) · [官网](https://filippostanghellini.github.io/DocFinder/) · 个人维护
 
 **本地优先的文档语义搜索与问答桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "filippostanghellini/DocFinder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "filippostanghellini/DocFinder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

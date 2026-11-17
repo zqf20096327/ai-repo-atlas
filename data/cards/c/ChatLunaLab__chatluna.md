@@ -1,6 +1,6 @@
 # ChatLunaLab/chatluna
 
-⭐ 445 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ChatLunaLab/chatluna) · [官网](https://chatluna.chat) · 组织维护 · 中文 README
+⭐ 449 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ChatLunaLab/chatluna) · [官网](https://chatluna.chat) · 组织维护 · 中文 README
 
 **Koishi 聊天机器人 LLM 对话插件，多平台模型接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChatLunaLab/chatluna 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 441 --> 447
-    line [442, 443, 444, 445, 446, 445]
+    title "ChatLunaLab/chatluna 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 441 --> 450
+    line [442, 443, 444, 445, 446, 445, 448, 449, 449]
 ```
 
-2026-10-18 442 → 2026-11-02 445（+3）
+2026-10-18 442 → 2026-11-17 449（+7）
 
 
 ---

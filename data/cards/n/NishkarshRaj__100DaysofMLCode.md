@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NishkarshRaj/100DaysofMLCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 340 --> 342
-    line [341, 341]
+    title "NishkarshRaj/100DaysofMLCode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 340 --> 343
+    line [341, 342, 341, 341]
 ```
 
-2026-10-18 341 → 2026-11-02 341（+0）
+2026-10-18 341 → 2026-11-17 341（+0）
 
 
 ---

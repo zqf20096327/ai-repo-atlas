@@ -1,6 +1,6 @@
 # georgebuilds/anneal
 
-⭐ 33 · Go · AGPL-3.0 · 推送 2026-06-26 · [GitHub](https://github.com/georgebuilds/anneal) · [官网](https://georgebuilds.github.io/anneal/) · 个人维护
+⭐ 35 · Go · AGPL-3.0 · 推送 2026-06-26 · [GitHub](https://github.com/georgebuilds/anneal) · [官网](https://georgebuilds.github.io/anneal/) · 个人维护
 
 **Go 编写的张量编译器：tinygrad 核心的从零移植**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgebuilds/anneal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "georgebuilds/anneal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

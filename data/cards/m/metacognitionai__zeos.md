@@ -1,6 +1,6 @@
 # metacognitionai/zeos
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/metacognitionai/zeos) · [官网](https://github.com/metacognitionai/zeos/tree/main/docs/ProjectDescription) · 组织维护
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/metacognitionai/zeos) · [官网](https://github.com/metacognitionai/zeos/tree/main/docs/ProjectDescription) · 组织维护
 
 **面向 LLM 任务的类操作系统内核：优先级抢占调度与确定性重放**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metacognitionai/zeos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "metacognitionai/zeos 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 30
+    line [23, 24, 27, 28, 29, 29]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 29（+6）
 
 
 ---

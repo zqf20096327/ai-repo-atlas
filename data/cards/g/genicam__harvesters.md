@@ -1,6 +1,6 @@
 # genicam/harvesters
 
-⭐ 614 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/genicam/harvesters) · 组织维护
+⭐ 616 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/genicam/harvesters) · 组织维护
 
 **通过 GenTL Producer 采集图像的 Python 库（机器视觉）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "genicam/harvesters 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 613 --> 616
-    line [614, 615, 614, 614]
+    title "genicam/harvesters 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 613 --> 617
+    line [614, 615, 614, 616, 616]
 ```
 
-2026-10-18 614 → 2026-11-02 614（+0）
+2026-10-18 614 → 2026-11-17 616（+2）
 
 
 ---

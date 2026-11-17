@@ -1,6 +1,6 @@
 # microsoft/gpt-review
 
-⭐ 301 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/microsoft/gpt-review) · 组织维护
+⭐ 303 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/microsoft/gpt-review) · 组织维护
 
 **用 OpenAI/Azure OpenAI 审查 PR、问答与生成提交信息的 CLI**
 
@@ -45,13 +45,13 @@ Microsoft 维护的 Python CLI 与 GitHub Action，调用 OpenAI 或 Azure OpenA
 
 ```mermaid
 xychart-beta
-    title "microsoft/gpt-review 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 300 --> 302
-    line [301, 301]
+    title "microsoft/gpt-review 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 300 --> 304
+    line [301, 303, 303]
 ```
 
-2026-10-18 301 → 2026-11-02 301（+0）
+2026-10-18 301 → 2026-11-17 303（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saganaki22/Pixal3D-ComfyUI
 
-⭐ 223 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Saganaki22/Pixal3D-ComfyUI) · [官网](https://ldyang694.github.io/projects/pixal3d/) · 个人维护 · 中文 README
+⭐ 228 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Saganaki22/Pixal3D-ComfyUI) · [官网](https://ldyang694.github.io/projects/pixal3d/) · 个人维护 · 中文 README
 
 **ComfyUI 图生 3D 节点：本地运行 TencentARC Pixal3D 并导出带纹理 GLB**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集合，封装 TencentARC/Pixal3D 模型在本地执行�
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/Pixal3D-ComfyUI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 216 --> 224
-    line [217, 218, 220, 219, 220, 222, 223, 223]
+    title "Saganaki22/Pixal3D-ComfyUI 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 216 --> 229
+    line [217, 218, 220, 219, 220, 222, 223, 220, 226, 228, 228]
 ```
 
-2026-10-18 217 → 2026-11-02 223（+6）
+2026-10-18 217 → 2026-11-17 228（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # oracle/langchain-oracle
 
-⭐ 64 · Python · UPL-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/oracle/langchain-oracle) · 组织维护
+⭐ 65 · Python · UPL-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/oracle/langchain-oracle) · 组织维护
 
 **Oracle 官方 LangChain/LangGraph 集成包：接入 OCI 生成式 AI 与 Oracle 向量检索**
 
@@ -44,13 +44,13 @@ Oracle 维护的官方集成仓库，提供 5 个包：langchain-oci（OCI Gener
 
 ```mermaid
 xychart-beta
-    title "oracle/langchain-oracle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "oracle/langchain-oracle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

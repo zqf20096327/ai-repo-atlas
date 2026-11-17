@@ -1,6 +1,6 @@
 # 0xeb/claude-agent-sdk-dotnet
 
-⭐ 34 · C# · MIT · 推送 2026-09-15 · [GitHub](https://github.com/0xeb/claude-agent-sdk-dotnet) · 个人维护
+⭐ 35 · C# · MIT · 推送 2026-09-15 · [GitHub](https://github.com/0xeb/claude-agent-sdk-dotnet) · 个人维护
 
 **面向 .NET 开发者的 Claude Agent SDK 移植库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xeb/claude-agent-sdk-dotnet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "0xeb/claude-agent-sdk-dotnet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

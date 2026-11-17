@@ -1,6 +1,6 @@
 # kaito-project/kaito
 
-⭐ 1,033 · Go · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/kaito-project/kaito) · [官网](https://kaito-project.github.io/kaito/docs/) · 组织维护
+⭐ 1,044 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/kaito-project/kaito) · [官网](https://kaito-project.github.io/kaito/docs/) · 组织维护
 
 **Kubernetes 算子套件：自动化 LLM 推理/微调/RAG 部署**
 
@@ -45,13 +45,13 @@ KAITO 是开源的 Kubernetes CRD/控制器套件，通过 Workspace、Inference
 
 ```mermaid
 xychart-beta
-    title "kaito-project/kaito 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1024 --> 1034
-    line [1025, 1027, 1030, 1031, 1030, 1029, 1030, 1031, 1033]
+    title "kaito-project/kaito 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1024 --> 1045
+    line [1025, 1027, 1030, 1031, 1030, 1029, 1030, 1031, 1033, 1031, 1039, 1040, 1041, 1042, 1044, 1044]
 ```
 
-2026-10-18 1,025 → 2026-11-02 1,033（+8）
+2026-10-18 1,025 → 2026-11-17 1,044（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # aparnaa19/AgentForensics
 
-⭐ 12 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/aparnaa19/AgentForensics) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/aparnaa19/AgentForensics) · 个人维护
 
 **LLM agent 会话的实时提示注入检测与取证框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aparnaa19/AgentForensics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "aparnaa19/AgentForensics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

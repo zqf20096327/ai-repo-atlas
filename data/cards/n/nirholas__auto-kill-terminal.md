@@ -1,6 +1,6 @@
 # nirholas/auto-kill-terminal
 
-⭐ 22 · Shell · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/nirholas/auto-kill-terminal) · [官网](https://nirholas.github.io/auto-kill-terminal/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI 编码代理的终端管理规则文本，防止僵尸终端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/auto-kill-terminal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-10 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ameshkov/mcp-compress-router
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/ameshkov/mcp-compress-router) · [官网](https://github.com/ameshkov/mcp-compress-router) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ameshkov/mcp-compress-router) · [官网](https://github.com/ameshkov/mcp-compress-router) · 个人维护
 
 **将多个 MCP 服务器压缩为单一路由 MCP 以降低 token 开销**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ameshkov/mcp-compress-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

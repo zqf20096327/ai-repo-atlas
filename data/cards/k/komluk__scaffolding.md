@@ -1,6 +1,6 @@
 # komluk/scaffolding
 
-⭐ 15 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/komluk/scaffolding) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/komluk/scaffolding) · 个人维护
 
 **Claude Code 的纯 markdown 多 agent 编排插件：13 agent+技能+守卫钩子**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "komluk/scaffolding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "komluk/scaffolding 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

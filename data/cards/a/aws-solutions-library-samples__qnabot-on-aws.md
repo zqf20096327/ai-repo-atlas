@@ -1,6 +1,6 @@
 # aws-solutions-library-samples/qnabot-on-aws
 
-⭐ 448 · JavaScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/aws-solutions-library-samples/qnabot-on-aws) · [官网](https://aws.amazon.com/solutions/implementations/aws-qnabot) · 组织维护
+⭐ 448 · JavaScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/aws-solutions-library-samples/qnabot-on-aws) · [官网](https://aws.amazon.com/solutions/implementations/aws-qnabot) · 组织维护
 
 **AWS 上的多渠道多语言问答聊天机器人部署方案**
 
@@ -45,13 +45,13 @@ QnABot on AWS 是部署在 AWS 账户内的对话式问答方案：通过 CloudF
 
 ```mermaid
 xychart-beta
-    title "aws-solutions-library-samples/qnabot-on-aws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 447 --> 449
-    line [448, 448]
+    title "aws-solutions-library-samples/qnabot-on-aws 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 447 --> 450
+    line [448, 449, 448, 448]
 ```
 
-2026-10-18 448 → 2026-11-02 448（+0）
+2026-10-18 448 → 2026-11-17 448（+0）
 
 
 ---

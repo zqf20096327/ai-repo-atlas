@@ -1,6 +1,6 @@
 # badchars/cloud-audit-mcp
 
-⭐ 24 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/badchars/cloud-audit-mcp) · [官网](https://github.com/badchars/cloud-audit-mcp) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/badchars/cloud-audit-mcp) · [官网](https://github.com/badchars/cloud-audit-mcp) · 个人维护
 
 **供 AI agent 调用的多云安全审计 MCP 服务器（AWS/Azure/GCP）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "badchars/cloud-audit-mcp 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "badchars/cloud-audit-mcp 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [24, 23, 23]
 ```
 
-2026-10-31 24 → 2026-11-02 24（+0）
+2026-10-31 24 → 2026-11-17 23（-1）
 
 
 ---

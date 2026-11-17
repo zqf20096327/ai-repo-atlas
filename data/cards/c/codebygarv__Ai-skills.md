@@ -1,6 +1,6 @@
 # codebygarv/Ai-skills
 
-⭐ 27 · JavaScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/codebygarv/Ai-skills) · 个人维护
+⭐ 28 · JavaScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/codebygarv/Ai-skills) · 个人维护
 
 **社区维护的 120+ 条可复用 AI agent 技能目录，npx 一键安装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "codebygarv/Ai-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "codebygarv/Ai-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

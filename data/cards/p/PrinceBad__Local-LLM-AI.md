@@ -1,6 +1,6 @@
 # PrinceBad/Local-LLM-AI
 
-⭐ 13 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PrinceBad/Local-LLM-AI) · [官网](https://github.com/PrinceBad/Local-LLM-AI/releases) · 个人维护
+⭐ 16 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PrinceBad/Local-LLM-AI) · [官网](https://github.com/PrinceBad/Local-LLM-AI/releases) · 个人维护
 
 **在 Android 设备上离线运行大语言模型的多模态聊天客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrinceBad/Local-LLM-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "PrinceBad/Local-LLM-AI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 12, 15, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

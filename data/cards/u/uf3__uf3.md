@@ -1,6 +1,6 @@
 # uf3/uf3
 
-⭐ 74 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/uf3/uf3) · 组织维护
+⭐ 75 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/uf3/uf3) · 组织维护
 
 **生成超快机器学习原子间势的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "uf3/uf3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "uf3/uf3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 73 --> 76
+    line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 75（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/datasets-course
 
-⭐ 14 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/datasets-course) · 组织维护
+⭐ 15 · MDX · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/datasets-course) · 组织维护
 
 **面向 ML 从业者的数据集构建与共享实践课程**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的实践课程，教授使用 🤗 Datasets 库与 Argilla �
 
 ```mermaid
 xychart-beta
-    title "huggingface/datasets-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "huggingface/datasets-course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # autogame-17/prism
 
-⭐ 19 · Go · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/autogame-17/prism) · 个人维护 · 中文 README
+⭐ 20 · Go · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/autogame-17/prism) · 个人维护 · 中文 README
 
 **桌面单二进制 LLM 网关：37 家供应商统一为一个 OpenAI 兼容端点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "autogame-17/prism 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "autogame-17/prism 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

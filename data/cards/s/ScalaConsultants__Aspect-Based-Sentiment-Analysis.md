@@ -1,6 +1,6 @@
 # ScalaConsultants/Aspect-Based-Sentiment-Analysis
 
-⭐ 584 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis) · 组织维护
+⭐ 585 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis) · 组织维护
 
 **基于 Transformer 的方面级情感分析 Python 包，附带预测解释**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScalaConsultants/Aspect-Based-Sentiment-Analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 583 --> 585
-    line [584, 584]
+    title "ScalaConsultants/Aspect-Based-Sentiment-Analysis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 583 --> 586
+    line [584, 585, 585]
 ```
 
-2026-10-18 584 → 2026-11-02 584（+0）
+2026-10-18 584 → 2026-11-17 585（+1）
 
 
 ---

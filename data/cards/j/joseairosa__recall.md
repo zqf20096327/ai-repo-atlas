@@ -1,6 +1,6 @@
 # joseairosa/recall
 
-⭐ 176 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/joseairosa/recall) · 个人维护
+⭐ 179 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/joseairosa/recall) · 个人维护
 
 **给 Claude/AI agent 的跨会话持久记忆 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "joseairosa/recall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 175 --> 177
-    line [176, 176]
+    title "joseairosa/recall 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 175 --> 180
+    line [176, 178, 179, 179]
 ```
 
-2026-10-18 176 → 2026-11-02 176（+0）
+2026-10-18 176 → 2026-11-17 179（+3）
 
 
 ---

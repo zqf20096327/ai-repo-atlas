@@ -1,6 +1,6 @@
 # HELPMEEADICE/TE-Speed-MiniMaxH3-OSS
 
-⭐ 341 · Python · LGPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS) · 个人维护 · 中文 README
+⭐ 347 · Python · LGPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS) · 个人维护 · 中文 README
 
 **ComfyUI 中 MiniMax H3 视频模型的残差缓存加速节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 333 --> 342
-    line [334, 338, 339, 340, 341, 341]
+    title "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 333 --> 348
+    line [334, 338, 339, 340, 341, 340, 346, 347, 347]
 ```
 
-2026-10-18 334 → 2026-11-02 341（+7）
+2026-10-18 334 → 2026-11-17 347（+13）
 
 
 ---

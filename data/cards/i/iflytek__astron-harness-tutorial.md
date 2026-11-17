@@ -1,6 +1,6 @@
 # iflytek/astron-harness-tutorial
 
-⭐ 359 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/iflytek/astron-harness-tutorial) · [官网](https://astronclaw-tutorial.space/) · 组织维护 · 中文 README
+⭐ 363 · JavaScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/iflytek/astron-harness-tutorial) · [官网](https://astronclaw-tutorial.space/) · 组织维护 · 中文 README
 
 **AstronClaw/Loomy/AStudio 三款 AI 助理的使用教程站**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "iflytek/astron-harness-tutorial 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 355 --> 360
-    line [356, 357, 358, 359, 359]
+    title "iflytek/astron-harness-tutorial 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 355 --> 364
+    line [356, 357, 358, 359, 360, 363, 363]
 ```
 
-2026-10-26 356 → 2026-11-02 359（+3）
+2026-10-26 356 → 2026-11-17 363（+7）
 
 
 ---

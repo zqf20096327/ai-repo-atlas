@@ -1,6 +1,6 @@
 # amahi2001/python-token-killer
 
-⭐ 14 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/amahi2001/python-token-killer) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/amahi2001/python-token-killer) · 个人维护
 
 **零依赖 Python 库：压缩任意 Python 对象以减少 LLM token**
 
@@ -46,12 +46,12 @@ ptk 接收任意 Python 对象，自动检测内容类型（dict/list/code/log/d
 ```mermaid
 xychart-beta
     title "amahi2001/python-token-killer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

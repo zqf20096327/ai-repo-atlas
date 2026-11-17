@@ -1,6 +1,6 @@
 # balancegsr/skill-creators
 
-⭐ 20 · MIT · 推送 2026-03-30 · [GitHub](https://github.com/balancegsr/skill-creators) · 个人维护 · 中文 README
+⭐ 21 · MIT · 推送 2026-03-30 · [GitHub](https://github.com/balancegsr/skill-creators) · 个人维护 · 中文 README
 
 **生成定制化项目级 AI Skill 的 Creator 工具集**
 
@@ -45,13 +45,13 @@ MethodCraft 系列：三个 Skill Creator（learning/design/build），各自通
 
 ```mermaid
 xychart-beta
-    title "balancegsr/skill-creators 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 21
-    line [12, 16, 18, 19, 20, 20]
+    title "balancegsr/skill-creators 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 22
+    line [12, 16, 18, 19, 20, 16, 20, 21, 21]
 ```
 
-2026-10-18 12 → 2026-11-02 20（+8）
+2026-10-18 12 → 2026-11-17 21（+9）
 
 
 ---

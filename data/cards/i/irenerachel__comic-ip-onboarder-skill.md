@@ -1,6 +1,6 @@
 # irenerachel/comic-ip-onboarder-skill
 
-⭐ 67 · 推送 2026-06-19 · [GitHub](https://github.com/irenerachel/comic-ip-onboarder-skill) · 个人维护 · 中文 README
+⭐ 69 · 推送 2026-06-19 · [GitHub](https://github.com/irenerachel/comic-ip-onboarder-skill) · 个人维护 · 中文 README
 
 **把照片或吉祥物转成可复用漫画 IP 档案的 Agent Skill**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "irenerachel/comic-ip-onboarder-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "irenerachel/comic-ip-onboarder-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69, 69]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 69（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/retrieval-agent-template-js
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/retrieval-agent-template-js) · 组织维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/langchain-ai/retrieval-agent-template-js) · 组织维护
 
 **LangGraph.js 检索问答 agent 起步模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/retrieval-agent-template-js 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "langchain-ai/retrieval-agent-template-js 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 34 --> 37
-    line [36, 35, 36, 36]
+    line [36, 35, 36, 35, 36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

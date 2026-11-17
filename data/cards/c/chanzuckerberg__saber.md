@@ -1,6 +1,6 @@
 # chanzuckerberg/saber
 
-⭐ 21 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/chanzuckerberg/saber) · 组织维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/chanzuckerberg/saber) · 组织维护
 
 **用 Segment Anything 2 从电镜数据分割细胞器的研究平台**
 
@@ -44,13 +44,13 @@ SABER 面向科研用户，对冷冻电子断层扫描（cryo-ET）或电镜（E
 
 ```mermaid
 xychart-beta
-    title "chanzuckerberg/saber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "chanzuckerberg/saber 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # thustorage/PipeANN
 
-⭐ 158 · C++ · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/thustorage/PipeANN) · [官网](https://thustorage.github.io/PipeANN/) · 组织维护 · 中文 README
+⭐ 161 · C++ · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/thustorage/PipeANN) · [官网](https://thustorage.github.io/PipeANN/) · 组织维护 · 中文 README
 
 **SSD 上的十亿级可更新图索引向量存储，兼容 Milvus API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thustorage/PipeANN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    title "thustorage/PipeANN 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 157 --> 162
+    line [158, 159, 161, 160, 161, 161]
 ```
 
-2026-10-18 158 → 2026-11-02 158（+0）
+2026-10-18 158 → 2026-11-17 161（+3）
 
 
 ---

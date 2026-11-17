@@ -1,6 +1,6 @@
 # carbon-design-system/Carbon-Monitor
 
-⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/carbon-design-system/Carbon-Monitor) · 组织维护
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/carbon-design-system/Carbon-Monitor) · 组织维护
 
 **面向 Carbon 设计系统的 AI PR 审查器与 IBM Cloud 定时 agent 运行框架**
 
@@ -45,13 +45,13 @@ Carbon Monitor 由两部分组成：一是 carbon-design-system/carbon 单仓的
 
 ```mermaid
 xychart-beta
-    title "carbon-design-system/Carbon-Monitor 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 23 --> 32
-    line [24, 28, 31, 31]
+    title "carbon-design-system/Carbon-Monitor 星数(近 6 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 23 --> 35
+    line [24, 28, 31, 33, 34, 34]
 ```
 
-2026-10-29 24 → 2026-11-02 31（+7）
+2026-10-29 24 → 2026-11-17 34（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sanexxxx777/curated-claude-code
 
-⭐ 16 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Sanexxxx777/curated-claude-code) · [官网](https://shulgin.is-a.dev) · 个人维护
+⭐ 16 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Sanexxxx777/curated-claude-code) · [官网](https://shulgin.is-a.dev) · 个人维护
 
 **Claude Code 的精选技能与安全护栏自进化工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sanexxxx777/curated-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # realspqrk/harness-subagent
 
-⭐ 18 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/realspqrk/harness-subagent) · 个人维护
+⭐ 18 · Shell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/realspqrk/harness-subagent) · 个人维护
 
 **把 Codex/Grok 等编码 agent CLI 作为一次性子代理调度的 Claude 技能**
 
@@ -45,12 +45,12 @@ Agent Skills 格式的技能：宿主 agent（如 Claude Code）写任务简报�
 ```mermaid
 xychart-beta
     title "realspqrk/harness-subagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

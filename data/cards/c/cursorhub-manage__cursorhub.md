@@ -1,6 +1,6 @@
 # cursorhub-manage/cursorhub
 
-⭐ 11 · 推送 2025-12-08 · [GitHub](https://github.com/cursorhub-manage/cursorhub) · 组织维护 · 中文 README
+⭐ 10 · 推送 2025-12-08 · [GitHub](https://github.com/cursorhub-manage/cursorhub) · 组织维护 · 中文 README
 
 **Cursor AI 编辑器的多账号切换与机器 ID 重置工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cursorhub-manage/cursorhub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "cursorhub-manage/cursorhub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

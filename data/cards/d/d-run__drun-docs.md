@@ -1,6 +1,6 @@
 # d-run/drun-docs
 
-⭐ 18 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/d-run/drun-docs) · [官网](https://docs.d.run) · 组织维护 · 中文 README
+⭐ 18 · HTML · 推送 2026-11-04 · [GitHub](https://github.com/d-run/drun-docs) · [官网](https://docs.d.run) · 组织维护 · 中文 README
 
 **d.run AIGC 平台的官方文档站仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "d-run/drun-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

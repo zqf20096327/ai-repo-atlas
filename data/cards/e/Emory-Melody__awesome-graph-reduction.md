@@ -1,6 +1,6 @@
 # Emory-Melody/awesome-graph-reduction
 
-⭐ 190 · 推送 2026-10-30 · [GitHub](https://github.com/Emory-Melody/awesome-graph-reduction) · [官网](https://arxiv.org/abs/2402.03358) · 组织维护
+⭐ 191 · 推送 2026-10-30 · [GitHub](https://github.com/Emory-Melody/awesome-graph-reduction) · [官网](https://arxiv.org/abs/2402.03358) · 组织维护
 
 **图约简（图凝缩/粗化/稀疏化/摘要）论文策展清单，配 IJCAI 2024 综述**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emory-Melody/awesome-graph-reduction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 188 --> 191
-    line [189, 190, 190]
+    title "Emory-Melody/awesome-graph-reduction 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 188 --> 192
+    line [189, 190, 191, 191]
 ```
 
-2026-10-18 189 → 2026-11-02 190（+1）
+2026-10-18 189 → 2026-11-17 191（+2）
 
 
 ---

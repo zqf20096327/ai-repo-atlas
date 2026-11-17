@@ -1,6 +1,6 @@
 # friguzzi/cplint
 
-⭐ 87 · Prolog · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/friguzzi/cplint) · 个人维护
+⭐ 89 · Prolog · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/friguzzi/cplint) · 个人维护
 
 **SWI-Prolog 概率逻辑程序推理与学习套件**
 
@@ -44,13 +44,13 @@ cplint 是基于 SWI-Prolog 的概率逻辑程序套件，提供推理与学习�
 
 ```mermaid
 xychart-beta
-    title "friguzzi/cplint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "friguzzi/cplint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 86 --> 90
+    line [87, 88, 89, 89]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-17 89（+2）
 
 
 ---

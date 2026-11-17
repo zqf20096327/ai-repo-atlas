@@ -1,6 +1,6 @@
 # petrobras/GeoSlicer
 
-⭐ 98 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/petrobras/GeoSlicer) · [官网](https://www.ltrace.com.br/geoslicer) · 组织维护
+⭐ 99 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/petrobras/GeoSlicer) · [官网](https://www.ltrace.com.br/geoslicer) · 组织维护
 
 **面向地质科学的数字岩石图像分析与可视化平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "petrobras/GeoSlicer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "petrobras/GeoSlicer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # devag7/linkedin-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/devag7/linkedin-mcp) · [官网](https://github.com/devag7/linkedin-mcp#readme) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/devag7/linkedin-mcp) · [官网](https://github.com/devag7/linkedin-mcp#readme) · 个人维护
 
 **让 AI 助手通过 LinkedIn API 结构化读写资料的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "devag7/linkedin-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 9 --> 13
     line [10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

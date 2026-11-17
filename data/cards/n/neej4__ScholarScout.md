@@ -1,6 +1,6 @@
 # neej4/ScholarScout
 
-⭐ 42 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/neej4/ScholarScout) · [官网](https://scholarscout.pages.dev/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/neej4/ScholarScout) · [官网](https://scholarscout.pages.dev/) · 个人维护
 
 **从 2.5 亿+ 论文中生成研究/产品/功能创意的工具**
 
@@ -45,13 +45,13 @@ Flask 构成的本地 Web 应用：从 arXiv、OpenAlex、Semantic Scholar、Pub
 
 ```mermaid
 xychart-beta
-    title "neej4/ScholarScout 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    title "neej4/ScholarScout 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 41, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 42（+1）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

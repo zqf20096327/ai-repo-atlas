@@ -1,6 +1,6 @@
 # supernovae-st/nika
 
-⭐ 96 · Rust · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/supernovae-st/nika) · [官网](https://nika.sh) · 组织维护
+⭐ 100 · Rust · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/supernovae-st/nika) · [官网](https://nika.sh) · 组织维护
 
 **把重复 AI 工作写成可检查工作流文件的 Rust CLI 工具**
 
@@ -44,13 +44,13 @@ Nika 以单个 Rust 二进制与 `.nika` 工作流文件为核心：用自然语
 
 ```mermaid
 xychart-beta
-    title "supernovae-st/nika 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 93 --> 97
-    line [94, 95, 96]
+    title "supernovae-st/nika 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 93 --> 101
+    line [94, 95, 96, 95, 98, 100, 100]
 ```
 
-2026-10-18 94 → 2026-11-02 96（+2）
+2026-10-18 94 → 2026-11-17 100（+6）
 
 
 ---

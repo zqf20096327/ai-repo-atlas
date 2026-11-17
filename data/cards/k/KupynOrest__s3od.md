@@ -1,6 +1,6 @@
 # KupynOrest/s3od
 
-⭐ 51 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/KupynOrest/s3od) · [官网](https://s3odproject.github.io/) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/KupynOrest/s3od) · [官网](https://s3odproject.github.io/) · 个人维护
 
 **合成数据训练的显著目标检测/抠图模型，含 14 万张合成数据集**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文官方仓库：提供 140K 张扩散模型生成的合成图像�
 
 ```mermaid
 xychart-beta
-    title "KupynOrest/s3od 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "KupynOrest/s3od 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

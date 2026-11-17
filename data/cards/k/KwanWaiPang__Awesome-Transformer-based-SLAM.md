@@ -1,6 +1,6 @@
 # KwanWaiPang/Awesome-Transformer-based-SLAM
 
-⭐ 316 · 推送 2026-10-13 · [GitHub](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) · [官网](https://kwanwaipang.github.io/Transformer_SLAM/) · 个人维护 · 中文 README
+⭐ 316 · 推送 2026-11-02 · [GitHub](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) · [官网](https://kwanwaipang.github.io/Transformer_SLAM/) · 个人维护 · 中文 README
 
 **Transformer-based SLAM 论文清单：覆盖位姿估计、深度估计与重建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KwanWaiPang/Awesome-Transformer-based-SLAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 315 --> 317
     line [316, 316]
 ```
 
-2026-10-18 316 → 2026-11-02 316（+0）
+2026-10-18 316 → 2026-11-17 316（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # HadeedJalani/FaceMask-Detection-AI
 
-⭐ 12 · Python · 推送 2026-09-03 · [GitHub](https://github.com/HadeedJalani/FaceMask-Detection-AI) · 个人维护
+⭐ 11 · Python · 推送 2026-09-03 · [GitHub](https://github.com/HadeedJalani/FaceMask-Detection-AI) · 个人维护
 
 **检测图像/视频/摄像头中人脸口罩佩戴的 YOLO 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HadeedJalani/FaceMask-Detection-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "HadeedJalani/FaceMask-Detection-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

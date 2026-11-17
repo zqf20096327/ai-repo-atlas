@@ -1,6 +1,6 @@
 # vllm-project/perf-eval
 
-⭐ 17 · Python · 推送 2026-10-29 · [GitHub](https://github.com/vllm-project/perf-eval) · 组织维护
+⭐ 19 · Python · 推送 2026-11-04 · [GitHub](https://github.com/vllm-project/perf-eval) · 组织维护
 
 **vLLM 的性能基准与准确率评测工作负载仓库**
 
@@ -45,13 +45,13 @@ vLLM 项目维护的评测仓库：以 workloads/ 下的 YAML 配方定义 (模�
 
 ```mermaid
 xychart-beta
-    title "vllm-project/perf-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "vllm-project/perf-eval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

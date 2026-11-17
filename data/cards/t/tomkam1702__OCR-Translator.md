@@ -45,13 +45,13 @@ Game-Changing Translator (GCT) 是面向游戏/影视内容的桌面应用：通
 
 ```mermaid
 xychart-beta
-    title "tomkam1702/OCR-Translator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 78 --> 82
-    line [79, 81, 81]
+    title "tomkam1702/OCR-Translator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 78 --> 83
+    line [79, 81, 82, 81, 81]
 ```
 
-2026-10-18 79 → 2026-11-02 81（+2）
+2026-10-18 79 → 2026-11-17 81（+2）
 
 
 ---

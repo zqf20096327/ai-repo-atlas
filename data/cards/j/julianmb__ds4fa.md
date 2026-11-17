@@ -1,6 +1,6 @@
 # julianmb/ds4fa
 
-⭐ 19 · C · MIT · 推送 2026-08-28 · [GitHub](https://github.com/julianmb/ds4fa) · 个人维护
+⭐ 21 · C · MIT · 推送 2026-08-28 · [GitHub](https://github.com/julianmb/ds4fa) · 个人维护
 
 **在 AMD Strix Halo 上本地推理 DeepSeek V4 Flash 的引擎 fork**
 
@@ -44,13 +44,13 @@ antirez/ds4 的 gfx1151（Strix Halo）优化分支：为 AMD APU 添加 ROCmFPX
 
 ```mermaid
 xychart-beta
-    title "julianmb/ds4fa 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "julianmb/ds4fa 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 17, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

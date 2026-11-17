@@ -1,6 +1,6 @@
 # ultralytics/llm
 
-⭐ 120 · JavaScript · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/ultralytics/llm) · [官网](https://chatjs-ultralytics.vercel.app/examples/web/demo) · 组织维护
+⭐ 124 · JavaScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ultralytics/llm) · [官网](https://chatjs-ultralytics.vercel.app/examples/web/demo) · 组织维护
 
 **面向 Web 应用的零依赖 JavaScript AI 聊天挂件**
 
@@ -44,13 +44,13 @@ Ultralytics LLM 提供一个原生 JavaScript（约 1700 行、零依赖）的�
 
 ```mermaid
 xychart-beta
-    title "ultralytics/llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 119 --> 121
-    line [120, 120]
+    title "ultralytics/llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 119 --> 125
+    line [120, 122, 124, 124]
 ```
 
-2026-10-18 120 → 2026-11-02 120（+0）
+2026-10-18 120 → 2026-11-17 124（+4）
 
 
 ---

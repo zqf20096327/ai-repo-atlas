@@ -1,6 +1,6 @@
 # ProvablyAI/sourcerykit
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ProvablyAI/sourcerykit) · [官网](http://provably.ai/) · 组织维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/ProvablyAI/sourcerykit) · [官网](http://provably.ai/) · 组织维护
 
 **Python SDK：为 agent 的 API/MCP 调用生成可验证证明与错误检测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProvablyAI/sourcerykit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

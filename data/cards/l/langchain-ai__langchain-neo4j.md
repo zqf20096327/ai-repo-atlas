@@ -41,13 +41,13 @@ langchain-ai 维护的官方集成仓库，包含单一包 langchain-neo4j，用
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-neo4j 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-neo4j 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 39 --> 42
-    line [41, 40, 40]
+    line [41, 40, 41, 40, 40]
 ```
 
-2026-10-18 41 → 2026-11-02 40（-1）
+2026-10-18 41 → 2026-11-17 40（-1）
 
 
 ---

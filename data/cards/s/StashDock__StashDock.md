@@ -1,6 +1,6 @@
 # StashDock/StashDock
 
-⭐ 68 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
+⭐ 455 · HTML · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
 
 **本地优先的个人上下文库：收集、组织并在 AI 对话中复用资料**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StashDock/StashDock 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 50 --> 69
-    line [51, 59, 60, 68]
+    title "StashDock/StashDock 星数(近 13 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 495
+    line [51, 59, 60, 68, 171, 195, 220, 252, 295, 332, 378, 455, 455]
 ```
 
-2026-10-30 51 → 2026-11-02 68（+17）
+2026-10-30 51 → 2026-11-17 455（+404）
 
 
 ---

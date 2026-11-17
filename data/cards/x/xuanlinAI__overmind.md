@@ -1,6 +1,6 @@
 # xuanlinAI/overmind
 
-⭐ 86 · JavaScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/xuanlinAI/overmind) · 个人维护 · 中文 README
+⭐ 85 · JavaScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/xuanlinAI/overmind) · 个人维护 · 中文 README
 
 **Claude Code 的外挂认知引擎：跨会话记忆与多 Agent 共享大脑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xuanlinAI/overmind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    title "xuanlinAI/overmind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 84 --> 87
+    line [86, 85, 85]
 ```
 
-2026-10-18 86 → 2026-11-02 86（+0）
+2026-10-18 86 → 2026-11-17 85（-1）
 
 
 ---

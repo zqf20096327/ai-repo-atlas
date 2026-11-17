@@ -1,6 +1,6 @@
 # Lap-Platform/LAP
 
-⭐ 345 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lap-Platform/LAP) · [官网](https://lap.sh/) · 组织维护
+⭐ 349 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lap-Platform/LAP) · [官网](https://lap.sh/) · 组织维护
 
 **把 API 规范编译为压缩的 Agent 原生格式的 CLI 平台**
 
@@ -45,13 +45,13 @@ Lean API Platform 提供 lapsh 命令行工具与注册表：将 OpenAPI、Graph
 
 ```mermaid
 xychart-beta
-    title "Lap-Platform/LAP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 344 --> 347
-    line [346, 345, 345]
+    title "Lap-Platform/LAP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 344 --> 350
+    line [346, 345, 346, 347, 349, 349]
 ```
 
-2026-10-18 346 → 2026-11-02 345（-1）
+2026-10-18 346 → 2026-11-17 349（+3）
 
 
 ---

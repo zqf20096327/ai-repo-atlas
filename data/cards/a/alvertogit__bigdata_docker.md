@@ -1,6 +1,6 @@
 # alvertogit/bigdata_docker
 
-⭐ 19 · Python · 推送 2026-10-25 · [GitHub](https://github.com/alvertogit/bigdata_docker) · 个人维护
+⭐ 19 · Python · 推送 2026-11-15 · [GitHub](https://github.com/alvertogit/bigdata_docker) · 个人维护
 
 **用 Docker Compose 构建 Spark/HDFS 大数据与数据科学集群**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alvertogit/bigdata_docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # flavienbwk/awesome-llm-devops
 
-⭐ 60 · MIT · 推送 2026-08-11 · [GitHub](https://github.com/flavienbwk/awesome-llm-devops) · 个人维护
+⭐ 61 · MIT · 推送 2026-08-11 · [GitHub](https://github.com/flavienbwk/awesome-llm-devops) · 个人维护
 
 **面向 DevOps 场景的 LLM 软件功能清单（awesome list）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "flavienbwk/awesome-llm-devops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "flavienbwk/awesome-llm-devops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

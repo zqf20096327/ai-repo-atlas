@@ -1,6 +1,6 @@
 # mlwithme/BertWithPretrained
 
-⭐ 602 · Python · 推送 2026-09-08 · [GitHub](https://github.com/mlwithme/BertWithPretrained) · 个人维护 · 中文 README
+⭐ 601 · Python · 推送 2026-09-08 · [GitHub](https://github.com/mlwithme/BertWithPretrained) · 个人维护 · 中文 README
 
 **BERT 模型及其下游任务的 PyTorch 教学式实现与原理解析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlwithme/BertWithPretrained 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 601 --> 603
-    line [602, 602]
+    title "mlwithme/BertWithPretrained 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 600 --> 603
+    line [602, 601, 601]
 ```
 
-2026-10-18 602 → 2026-11-02 602（+0）
+2026-10-18 602 → 2026-11-17 601（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # eth-sri/matharena
 
-⭐ 294 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/eth-sri/matharena) · [官网](https://matharena.ai) · 组织维护 · 中文 README
+⭐ 299 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/eth-sri/matharena) · [官网](https://matharena.ai) · 组织维护 · 中文 README
 
 **在最新数学竞赛上评测 LLM 的平台（NeurIPS D&B '25）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eth-sri/matharena 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 291 --> 295
-    line [292, 293, 294, 294]
+    title "eth-sri/matharena 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 291 --> 300
+    line [292, 293, 294, 293, 295, 296, 297, 298, 299, 299]
 ```
 
-2026-10-18 292 → 2026-11-02 294（+2）
+2026-10-18 292 → 2026-11-17 299（+7）
 
 
 ---

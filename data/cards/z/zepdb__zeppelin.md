@@ -1,6 +1,6 @@
 # zepdb/zeppelin
 
-⭐ 48 · Rust · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/zepdb/zeppelin) · 组织维护
+⭐ 49 · Rust · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/zepdb/zeppelin) · 组织维护
 
 **S3 原生的向量与全文混合检索引擎，节点无状态、可自托管**
 
@@ -44,13 +44,13 @@ Rust 编写的自托管检索引擎：向量（IVF-Flat 分区 + 2-bit Extended-
 
 ```mermaid
 xychart-beta
-    title "zepdb/zeppelin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    title "zepdb/zeppelin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 49, 49]
 ```
 
-2026-10-18 47 → 2026-11-02 48（+1）
+2026-10-18 47 → 2026-11-17 49（+2）
 
 
 ---

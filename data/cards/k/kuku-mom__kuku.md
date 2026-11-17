@@ -1,6 +1,6 @@
 # kuku-mom/kuku
 
-⭐ 232 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/kuku-mom/kuku) · [官网](https://www.kuku.mom) · 组织维护
+⭐ 233 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/kuku-mom/kuku) · [官网](https://www.kuku.mom) · 组织维护
 
 **面向 macOS 的本地优先 Markdown 知识库应用，含 AI 编辑与加密同步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kuku-mom/kuku 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 228 --> 233
-    line [229, 230, 231, 232, 232]
+    title "kuku-mom/kuku 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 228 --> 234
+    line [229, 230, 231, 232, 230, 232, 233, 233]
 ```
 
-2026-10-18 229 → 2026-11-02 232（+3）
+2026-10-18 229 → 2026-11-17 233（+4）
 
 
 ---

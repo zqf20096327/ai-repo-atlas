@@ -1,6 +1,6 @@
 # aporthq/aport-agent-guardrails
 
-⭐ 30 · Shell · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/aporthq/aport-agent-guardrails) · [官网](https://aport.io/frameworks) · 组织维护
+⭐ 30 · Shell · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/aporthq/aport-agent-guardrails) · [官网](https://aport.io/frameworks) · 组织维护
 
 **AI agent 工具调用的前置授权护栏，防提示注入绕过策略**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aporthq/aport-agent-guardrails 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 27 --> 31
     line [28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

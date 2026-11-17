@@ -1,6 +1,6 @@
 # IronCoreLabs/ironcore-alloy
 
-⭐ 31 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/IronCoreLabs/ironcore-alloy) · [官网](https://ironcorelabs.com/) · 组织维护
+⭐ 32 · Rust · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/IronCoreLabs/ironcore-alloy) · [官网](https://ironcorelabs.com/) · 组织维护
 
 **应用层加密 SDK，含面向 AI 数据的向量加密**
 
@@ -45,13 +45,13 @@ IronCore Labs 的统一加密 SDK，将原 SaaS Shield TSC SDK 与 Cloaked AI �
 
 ```mermaid
 xychart-beta
-    title "IronCoreLabs/ironcore-alloy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "IronCoreLabs/ironcore-alloy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

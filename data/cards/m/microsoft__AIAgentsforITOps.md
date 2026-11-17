@@ -1,6 +1,6 @@
 # microsoft/AIAgentsforITOps
 
-⭐ 85 · PowerShell · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/AIAgentsforITOps) · 组织维护
+⭐ 87 · PowerShell · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/AIAgentsforITOps) · 组织维护
 
 **面向 IT/Ops 的 Azure AI agent 基础设施管理工作坊**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AIAgentsforITOps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    title "microsoft/AIAgentsforITOps 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 84 --> 88
+    line [85, 86, 87, 87]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 87（+2）
 
 
 ---

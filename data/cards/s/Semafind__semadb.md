@@ -1,6 +1,6 @@
 # Semafind/semadb
 
-⭐ 33 · Go · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/Semafind/semadb) · [官网](https://semadb.com/) · 组织维护
+⭐ 33 · Go · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/Semafind/semadb) · [官网](https://semadb.com/) · 组织维护
 
 **自托管多索引混合向量数据库/搜索引擎**
 
@@ -45,12 +45,12 @@ SemaDB 是文档型向量数据库与搜索引擎，单一二进制文件部署�
 ```mermaid
 xychart-beta
     title "Semafind/semadb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

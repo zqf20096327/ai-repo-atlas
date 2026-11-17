@@ -1,6 +1,6 @@
 # lainra/claude-code-telemetry
 
-⭐ 45 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/lainra/claude-code-telemetry) · [官网](https://github.com/lainra/claude-code-telemetry#readme) · 个人维护
+⭐ 46 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/lainra/claude-code-telemetry) · [官网](https://github.com/lainra/claude-code-telemetry#readme) · 个人维护
 
 **将 Claude Code 遥测数据转发到 Langfuse 的本地监控桥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lainra/claude-code-telemetry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "lainra/claude-code-telemetry 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
     y-axis "stars" 44 --> 47
-    line [46, 45, 45]
+    line [46, 45, 46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 45（-1）
+2026-10-18 46 → 2026-11-17 46（+0）
 
 
 ---

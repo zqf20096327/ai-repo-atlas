@@ -44,13 +44,13 @@ ComfyUI 的 custom_nodes 插件，在顶部工具栏以"pill"形式实时显示 
 
 ```mermaid
 xychart-beta
-    title "MichaelAdamScott/comfyui-advanced-monitor 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02"]
+    title "MichaelAdamScott/comfyui-advanced-monitor 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-02 12（+2）
+2026-10-24 10 → 2026-11-17 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/ExplorationBench
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/ExplorationBench) · 组织维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/ExplorationBench) · [官网](www.explorationbench.com) · 组织维护 · 中文 README
 
 **评测 AI 系统在可验证异星世界中探索能力的基准**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/ExplorationBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "Tencent-Hunyuan/ExplorationBench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry
 
-⭐ 206 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry) · 个人维护
+⭐ 208 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry) · 个人维护
 
 **计算化学原子级机器学习模型策展清单**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 204 --> 207
-    line [205, 206, 206]
+    title "Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 204 --> 209
+    line [205, 206, 205, 206, 207, 208, 208]
 ```
 
-2026-10-24 205 → 2026-11-02 206（+1）
+2026-10-24 205 → 2026-11-17 208（+3）
 
 
 ---

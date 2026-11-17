@@ -1,6 +1,6 @@
 # lessthanseventy/excessibility
 
-⭐ 43 · Elixir · MIT · 推送 2026-10-08 · [GitHub](https://github.com/lessthanseventy/excessibility) · [官网](https://hexdocs.pm/excessibility) · 个人维护
+⭐ 44 · Elixir · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lessthanseventy/excessibility) · [官网](https://hexdocs.pm/excessibility) · 个人维护
 
 **Phoenix LiveView 的无障碍快照测试库（axe-core/WCAG）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lessthanseventy/excessibility 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "lessthanseventy/excessibility 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

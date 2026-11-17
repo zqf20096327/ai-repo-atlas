@@ -1,6 +1,6 @@
 # SMTG-Bham/AmorphGen
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/SMTG-Bham/AmorphGen) · [官网](https://smtg-bham.github.io/AmorphGen/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/SMTG-Bham/AmorphGen) · [官网](https://smtg-bham.github.io/AmorphGen/) · 组织维护
 
 **科研用户的非晶结构生成工具：熔淬 MD 与随机放置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SMTG-Bham/AmorphGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

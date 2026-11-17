@@ -1,6 +1,6 @@
 # somastllc/Jun-ds-ml-bootcamp-2026
 
-⭐ 212 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/Jun-ds-ml-bootcamp-2026) · [官网](https://youtu.be/Ln9f16vI67U) · 组织维护
+⭐ 220 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/Jun-ds-ml-bootcamp-2026) · [官网](https://youtu.be/Ln9f16vI67U) · 组织维护
 
 **一个月数据科学与机器学习训练营的课程代码与视频资源仓库**
 
@@ -44,13 +44,13 @@ Goobo Labs 主办的一个月密集型数据科学与机器学习训练营配套
 
 ```mermaid
 xychart-beta
-    title "somastllc/Jun-ds-ml-bootcamp-2026 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 203 --> 213
-    line [204, 206, 208, 210, 212, 212]
+    title "somastllc/Jun-ds-ml-bootcamp-2026 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 203 --> 221
+    line [204, 206, 208, 210, 212, 206, 216, 217, 220, 220]
 ```
 
-2026-10-18 204 → 2026-11-02 212（+8）
+2026-10-18 204 → 2026-11-17 220（+16）
 
 
 ---

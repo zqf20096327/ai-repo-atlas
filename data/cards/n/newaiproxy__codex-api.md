@@ -1,6 +1,6 @@
 # newaiproxy/codex-api
 
-⭐ 70 · 推送 2026-02-05 · [GitHub](https://github.com/newaiproxy/codex-api) · [官网](https://api.whatai.cc) · 个人维护 · 中文 README
+⭐ 71 · 推送 2026-02-05 · [GitHub](https://github.com/newaiproxy/codex-api) · [官网](https://api.whatai.cc) · 个人维护 · 中文 README
 
 **Codex CLI 安装配置与第三方中转 API 接入的中文教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "newaiproxy/codex-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    title "newaiproxy/codex-api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 69, 71, 71]
 ```
 
-2026-10-18 69 → 2026-11-02 70（+1）
+2026-10-18 69 → 2026-11-17 71（+2）
 
 
 ---

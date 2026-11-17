@@ -1,6 +1,6 @@
 # TJR181/Cruiser-Agent
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/TJR181/Cruiser-Agent) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/TJR181/Cruiser-Agent) · 个人维护 · 中文 README
 
 **面向 CTF 评测平台的自动化漏洞挖掘与解题 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TJR181/Cruiser-Agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 12 --> 18
-    line [13, 15, 16, 17, 17]
+    title "TJR181/Cruiser-Agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 26
+    line [13, 15, 16, 17, 15, 20, 23, 24, 25, 25]
 ```
 
-2026-10-18 13 → 2026-11-02 17（+4）
+2026-10-18 13 → 2026-11-17 25（+12）
 
 
 ---

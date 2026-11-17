@@ -1,6 +1,6 @@
 # tcsenpai/keyfleur
 
-⭐ 70 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/keyfleur) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/keyfleur) · 个人维护
 
 **生成诗意风格 API key 的 Python CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tcsenpai/keyfleur 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "tcsenpai/keyfleur 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 69 --> 72
+    line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 71（+1）
 
 
 ---

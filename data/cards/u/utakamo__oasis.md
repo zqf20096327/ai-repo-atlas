@@ -1,6 +1,6 @@
 # utakamo/oasis
 
-⭐ 40 · Lua · MIT · 推送 2026-10-25 · [GitHub](https://github.com/utakamo/oasis) · [官网](https://utakamo.com/article/openwrt/myapp/oasis/intro.html) · 个人维护 · 中文 README
+⭐ 41 · Lua · MIT · 推送 2026-11-08 · [GitHub](https://github.com/utakamo/oasis) · [官网](https://utakamo.com/article/openwrt/myapp/oasis/intro.html) · 个人维护 · 中文 README
 
 **OpenWrt 路由器上的 AI 聊天助手，用 AI 生成并校验路由器配置**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "utakamo/oasis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "utakamo/oasis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

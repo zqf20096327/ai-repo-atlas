@@ -1,6 +1,6 @@
 # product-on-purpose/thinking-framework-skills
 
-⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/product-on-purpose/thinking-framework-skills) · [官网](https://product-on-purpose.github.io/thinking-framework-skills/) · 组织维护
+⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/product-on-purpose/thinking-framework-skills) · [官网](https://product-on-purpose.github.io/thinking-framework-skills/) · 组织维护
 
 **面向 AI agent 的结构化思维方法技能库（63 个框架，按证据分级）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "product-on-purpose/thinking-framework-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 23, 24]
+    title "product-on-purpose/thinking-framework-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 27
+    line [20, 21, 22, 23, 24, 21, 25, 26, 26]
 ```
 
-2026-10-18 20 → 2026-11-02 24（+4）
+2026-10-18 20 → 2026-11-17 26（+6）
 
 
 ---

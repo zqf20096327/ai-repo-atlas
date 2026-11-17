@@ -1,6 +1,6 @@
 # bzsanti/oxidizePdf
 
-⭐ 192 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bzsanti/oxidizePdf) · [官网](https://bzsanti.github.io/oxidizePdf/) · 个人维护
+⭐ 194 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bzsanti/oxidizePdf) · [官网](https://bzsanti.github.io/oxidizePdf/) · 个人维护
 
 **纯 Rust PDF 库：解析/生成/加密/签名，并输出面向 RAG 的结构化分块**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bzsanti/oxidizePdf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 191 --> 194
-    line [192, 193, 192, 192]
+    title "bzsanti/oxidizePdf 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 191 --> 195
+    line [192, 193, 192, 194, 193, 194, 194]
 ```
 
-2026-10-18 192 → 2026-11-02 192（+0）
+2026-10-18 192 → 2026-11-17 194（+2）
 
 
 ---

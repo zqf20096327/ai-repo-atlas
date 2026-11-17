@@ -1,6 +1,6 @@
 # skainguyen1412/social-media-research-skill
 
-⭐ 62 · TypeScript · MIT · 推送 2026-02-23 · [GitHub](https://github.com/skainguyen1412/social-media-research-skill) · [官网](https://skainguyen1412.github.io/social-media-research-skill/) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-02-23 · [GitHub](https://github.com/skainguyen1412/social-media-research-skill) · [官网](https://skainguyen1412.github.io/social-media-research-skill/) · 个人维护
 
 **面向 AI 助手的社媒舆情分析技能：实时抓取 Reddit/X 讨论**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skainguyen1412/social-media-research-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 59 --> 63
-    line [60, 61, 62, 62]
+    title "skainguyen1412/social-media-research-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 62, 63, 64, 64]
 ```
 
-2026-10-18 60 → 2026-11-02 62（+2）
+2026-10-18 60 → 2026-11-17 64（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # shicheng5589-oss/Agent-desktop-pet
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/shicheng5589-oss/Agent-desktop-pet) · 个人维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/shicheng5589-oss/Agent-desktop-pet) · 个人维护 · 中文 README
 
 **跟随 12 个 AI Agent 实时状态换表情的 Windows Live2D 桌宠**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shicheng5589-oss/Agent-desktop-pet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 30
-    line [22, 23, 24, 26, 27, 28, 29]
+    title "shicheng5589-oss/Agent-desktop-pet 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 31
+    line [22, 23, 24, 26, 27, 28, 29, 23, 30, 30]
 ```
 
-2026-10-18 22 → 2026-11-02 29（+7）
+2026-10-18 22 → 2026-11-17 30（+8）
 
 
 ---

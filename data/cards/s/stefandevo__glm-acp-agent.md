@@ -1,6 +1,6 @@
 # stefandevo/glm-acp-agent
 
-⭐ 72 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/stefandevo/glm-acp-agent) · [官网](https://www.npmjs.com/package/glm-acp-agent) · 个人维护 · 中文 README
+⭐ 80 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/stefandevo/glm-acp-agent) · [官网](https://www.npmjs.com/package/glm-acp-agent) · 个人维护 · 中文 README
 
 **接入智谱 GLM 编程套餐模型的 ACP 编程 agent（TypeScript）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stefandevo/glm-acp-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 66 --> 73
-    line [67, 68, 69, 70, 69, 70, 72, 72]
+    title "stefandevo/glm-acp-agent 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 66 --> 81
+    line [67, 68, 69, 70, 69, 70, 72, 69, 77, 78, 79, 80, 80]
 ```
 
-2026-10-18 67 → 2026-11-02 72（+5）
+2026-10-18 67 → 2026-11-17 80（+13）
 
 
 ---

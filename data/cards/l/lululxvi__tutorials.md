@@ -1,6 +1,6 @@
 # lululxvi/tutorials
 
-⭐ 230 · Jupyter Notebook · 推送 2026-03-21 · [GitHub](https://github.com/lululxvi/tutorials) · 个人维护 · 中文 README
+⭐ 231 · Jupyter Notebook · 推送 2026-03-21 · [GitHub](https://github.com/lululxvi/tutorials) · 个人维护 · 中文 README
 
 **深度学习/Python/DPD 教程讲稿清单，供学习者查阅**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lululxvi/tutorials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 228 --> 231
-    line [229, 230, 230]
+    title "lululxvi/tutorials 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 228 --> 232
+    line [229, 230, 229, 230, 231, 231]
 ```
 
-2026-10-18 229 → 2026-11-02 230（+1）
+2026-10-18 229 → 2026-11-17 231（+2）
 
 
 ---

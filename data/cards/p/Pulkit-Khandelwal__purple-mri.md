@@ -1,6 +1,6 @@
 # Pulkit-Khandelwal/purple-mri
 
-⭐ 26 · Python · 推送 2026-10-22 · [GitHub](https://github.com/Pulkit-Khandelwal/purple-mri) · [官网](https://purple-mri.readthedocs.io) · 组织维护
+⭐ 26 · Python · 推送 2026-11-08 · [GitHub](https://github.com/Pulkit-Khandelwal/purple-mri) · [官网](https://purple-mri.readthedocs.io) · 组织维护
 
 **离体人脑 MRI 分割、皮层重建与解剖分区的科研工具链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Pulkit-Khandelwal/purple-mri 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

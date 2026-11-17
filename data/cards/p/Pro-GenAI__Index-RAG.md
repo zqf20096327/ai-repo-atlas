@@ -1,6 +1,6 @@
 # Pro-GenAI/Index-RAG
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/Pro-GenAI/Index-RAG) · [官网](https://www.researchgate.net/publication/397745877_Index-RAG_Storing_Text_Location_in_Vector_Databases_for_QA_tasks) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/Pro-GenAI/Index-RAG) · [官网](https://www.researchgate.net/publication/397745877_Index-RAG_Storing_Text_Location_in_Vector_Databases_for_QA_tasks) · 组织维护
 
 **在向量库中存储文本位置的引用精确 RAG 系统**
 
@@ -44,13 +44,13 @@ i-RAG 是一种 RAG 检索方案：对文档按段落切分，用 LLM 为每段�
 
 ```mermaid
 xychart-beta
-    title "Pro-GenAI/Index-RAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Pro-GenAI/Index-RAG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

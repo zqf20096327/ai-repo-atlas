@@ -1,6 +1,6 @@
 # dhowe/rita
 
-⭐ 73 · Python · 推送 2026-10-25 · [GitHub](https://github.com/dhowe/rita) · [官网](https://rednoise.org/rita) · 个人维护
+⭐ 75 · Python · 推送 2026-11-04 · [GitHub](https://github.com/dhowe/rita) · [官网](https://rednoise.org/rita) · 个人维护
 
 **面向写作者的生成式自然语言工具库（Java/JavaScript）**
 
@@ -45,13 +45,13 @@ RiTa 是以 Java 和 JavaScript 双实现、共享统一 API 的自然语言工�
 
 ```mermaid
 xychart-beta
-    title "dhowe/rita 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    title "dhowe/rita 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 71 --> 76
+    line [72, 73, 72, 73, 74, 75, 75]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-17 75（+3）
 
 
 ---

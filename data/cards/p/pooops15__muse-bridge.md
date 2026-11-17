@@ -1,6 +1,6 @@
 # pooops15/muse-bridge
 
-⭐ 34 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pooops15/muse-bridge) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pooops15/muse-bridge) · 个人维护
 
 **把 Muse agent 桥接成 9Router 内 OpenAI 兼容模型的文件队列桥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pooops15/muse-bridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 35
-    line [22, 24, 25, 32, 33, 34]
+    title "pooops15/muse-bridge 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 21 --> 38
+    line [22, 24, 25, 32, 33, 34, 24, 36, 37, 37]
 ```
 
-2026-10-18 22 → 2026-11-02 34（+12）
+2026-10-18 22 → 2026-11-17 37（+15）
 
 
 ---

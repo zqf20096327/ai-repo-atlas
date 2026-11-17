@@ -1,6 +1,6 @@
 # BrightGir/dota-ai-coach
 
-⭐ 33 · Go · MIT · 推送 2026-02-04 · [GitHub](https://github.com/BrightGir/dota-ai-coach) · 个人维护
+⭐ 34 · Go · MIT · 推送 2026-02-04 · [GitHub](https://github.com/BrightGir/dota-ai-coach) · 个人维护
 
 **Dota 2 实时战术建议 AI 助手：GSI 读局内状态，悬浮窗给建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrightGir/dota-ai-coach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "BrightGir/dota-ai-coach 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

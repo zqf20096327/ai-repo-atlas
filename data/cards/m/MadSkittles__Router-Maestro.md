@@ -1,6 +1,6 @@
 # MadSkittles/Router-Maestro
 
-⭐ 18 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MadSkittles/Router-Maestro) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MadSkittles/Router-Maestro) · 个人维护
 
 **本地/自托管 LLM 网关：让各类客户端用 Copilot 等多家模型**
 
@@ -46,12 +46,12 @@ Python 编写的本地或自托管模型网关与代理，将客户端协议（A
 ```mermaid
 xychart-beta
     title "MadSkittles/Router-Maestro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

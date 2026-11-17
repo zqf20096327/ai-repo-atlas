@@ -1,6 +1,6 @@
 # Devinterview-io/svm-interview-questions
 
-⭐ 18 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/svm-interview-questions) · 组织维护
+⭐ 20 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/svm-interview-questions) · 组织维护
 
 **面向求职者的 SVM 面试题与答案知识清单（70 题）**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的机器学习面试准备资料仓库，收录 70 道 SV
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/svm-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Devinterview-io/svm-interview-questions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

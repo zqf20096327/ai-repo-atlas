@@ -1,6 +1,6 @@
 # 1nikitas/NIKA_desktop
 
-⭐ 34 · Swift · 推送 2026-10-13 · [GitHub](https://github.com/1nikitas/NIKA_desktop) · 个人维护
+⭐ 32 · Swift · 推送 2026-10-13 · [GitHub](https://github.com/1nikitas/NIKA_desktop) · 个人维护
 
 **macOS 本地 LLM 桌面助手：离线聊天与文档对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1nikitas/NIKA_desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "1nikitas/NIKA_desktop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [33, 34, 32, 32]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 32（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # modelscope/sirchmunk-web
 
-⭐ 20 · HTML · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/sirchmunk-web) · 组织维护
+⭐ 20 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelscope/sirchmunk-web) · 组织维护
 
 **Sirchmunk 文档网站源码：无嵌入的 agentic 搜索引擎官方站点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "modelscope/sirchmunk-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

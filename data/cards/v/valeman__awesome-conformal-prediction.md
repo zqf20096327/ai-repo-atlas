@@ -1,6 +1,6 @@
 # valeman/awesome-conformal-prediction
 
-⭐ 1,332 · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/valeman/awesome-conformal-prediction) · 个人维护
+⭐ 1,343 · 推送 2026-11-05 · [GitHub](https://github.com/valeman/awesome-conformal-prediction) · 个人维护
 
 **共形预测（Conformal Prediction）资源策展清单：教程/书籍/论文/课程**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "valeman/awesome-conformal-prediction 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1325 --> 1333
-    line [1326, 1329, 1330, 1329, 1330, 1331, 1332, 1332]
+    title "valeman/awesome-conformal-prediction 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1325 --> 1344
+    line [1326, 1329, 1330, 1329, 1330, 1331, 1332, 1329, 1336, 1341, 1343, 1343]
 ```
 
-2026-10-18 1,326 → 2026-11-02 1,332（+6）
+2026-10-18 1,326 → 2026-11-17 1,343（+17）
 
 
 ---

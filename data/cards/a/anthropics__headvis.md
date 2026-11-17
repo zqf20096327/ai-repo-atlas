@@ -1,6 +1,6 @@
 # anthropics/headvis
 
-⭐ 44 · Svelte · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/anthropics/headvis) · 组织维护
+⭐ 46 · Svelte · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/anthropics/headvis) · 组织维护
 
 **Transformer 注意力头可视化工具，面向可解释性研究者**
 
@@ -44,13 +44,13 @@ Anthropic 发布的注意力头可视化参考实现：静态优先的前端，�
 
 ```mermaid
 xychart-beta
-    title "anthropics/headvis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "anthropics/headvis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

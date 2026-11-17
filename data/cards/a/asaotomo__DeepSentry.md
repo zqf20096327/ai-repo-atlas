@@ -1,6 +1,6 @@
 # asaotomo/DeepSentry
 
-⭐ 39 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/asaotomo/DeepSentry) · [官网](https://www.hx0.store/products/deepsentry) · 组织维护 · 中文 README
+⭐ 42 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/asaotomo/DeepSentry) · [官网](https://www.hx0.store/products/deepsentry) · 组织维护 · 中文 README
 
 **本地运行的安全应急与智能运维 AI Agent，中文下达安全巡检任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asaotomo/DeepSentry 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 34 --> 40
-    line [35, 37, 38, 39, 39]
+    title "asaotomo/DeepSentry 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 34 --> 43
+    line [35, 37, 38, 39, 40, 42, 42]
 ```
 
-2026-10-18 35 → 2026-11-02 39（+4）
+2026-10-18 35 → 2026-11-17 42（+7）
 
 
 ---

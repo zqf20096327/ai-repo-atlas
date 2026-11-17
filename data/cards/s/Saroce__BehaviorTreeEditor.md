@@ -1,6 +1,6 @@
 # Saroce/BehaviorTreeEditor
 
-⭐ 46 · C# · MIT · 推送 2025-11-15 · [GitHub](https://github.com/Saroce/BehaviorTreeEditor) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Unity3D 行为树编辑器，Runtime 可脱离 Unity 供服务端使用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Saroce/BehaviorTreeEditor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-10 46（+0）
 
 
 ---

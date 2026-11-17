@@ -1,6 +1,6 @@
 # math-ai-org/mathcode
 
-⭐ 750 · Shell · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/math-ai-org/mathcode) · [官网](https://math-ai-org.github.io/mathcode) · 组织维护 · 中文 README
+⭐ 753 · Shell · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/math-ai-org/mathcode) · [官网](https://math-ai-org.github.io/mathcode) · 组织维护 · 中文 README
 
 **面向数学证明的编码 Agent：终端/WebUI 中写 Lean 4 证明**
 
@@ -44,13 +44,13 @@ MathCode 是一个运行于终端和浏览器的编码助手，内置 Lean 4 支
 
 ```mermaid
 xychart-beta
-    title "math-ai-org/mathcode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 745 --> 751
-    line [746, 747, 748, 749, 750, 750]
+    title "math-ai-org/mathcode 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 745 --> 754
+    line [746, 747, 748, 749, 750, 749, 751, 752, 753, 753]
 ```
 
-2026-10-18 746 → 2026-11-02 750（+4）
+2026-10-18 746 → 2026-11-17 753（+7）
 
 
 ---

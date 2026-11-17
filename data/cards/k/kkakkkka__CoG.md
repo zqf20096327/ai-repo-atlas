@@ -1,6 +1,6 @@
 # kkakkkka/CoG
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/kkakkkka/CoG) · 个人维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/kkakkkka/CoG) · 个人维护
 
 **从语音生成面部、身体与手部动作的多模态动作合成模型**
 
@@ -44,13 +44,13 @@ AAAI-2024 论文 Chain of Generation 的改进版代码：以级联条件控制�
 
 ```mermaid
 xychart-beta
-    title "kkakkkka/CoG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "kkakkkka/CoG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

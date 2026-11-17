@@ -1,6 +1,6 @@
 # sailro/CopilotCliIde
 
-⭐ 24 · C# · MIT · 推送 2026-04-28 · [GitHub](https://github.com/sailro/CopilotCliIde) · 个人维护
+⭐ 25 · C# · MIT · 推送 2026-04-28 · [GitHub](https://github.com/sailro/CopilotCliIde) · 个人维护
 
 **让 GitHub Copilot CLI 通过 /ide 连接 Visual Studio 的扩展桥**
 
@@ -45,13 +45,13 @@ Visual Studio 扩展，使 GitHub Copilot CLI 能像在 VS Code 中一样通过 
 
 ```mermaid
 xychart-beta
-    title "sailro/CopilotCliIde 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "sailro/CopilotCliIde 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [25, 24, 24]
+    line [25, 24, 25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 24（-1）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

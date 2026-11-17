@@ -1,6 +1,6 @@
 # voly-codes/voly
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/voly-codes/voly) · 组织维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/voly-codes/voly) · 组织维护 · 中文 README
 
 **面向开发者的 AI 编码代理自托管控制平面**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "voly-codes/voly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 19
-    line [17, 18]
+    title "voly-codes/voly 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

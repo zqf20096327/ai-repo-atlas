@@ -1,6 +1,6 @@
 # rodmarkun/SmolML
 
-⭐ 504 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/rodmarkun/SmolML) · 个人维护
+⭐ 506 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/rodmarkun/SmolML) · 个人维护
 
 **纯 Python 从零实现的机器学习教学库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rodmarkun/SmolML 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 501 --> 505
-    line [502, 503, 504, 504]
+    title "rodmarkun/SmolML 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 501 --> 507
+    line [502, 503, 504, 503, 504, 505, 506, 506]
 ```
 
-2026-10-18 502 → 2026-11-02 504（+2）
+2026-10-18 502 → 2026-11-17 506（+4）
 
 
 ---

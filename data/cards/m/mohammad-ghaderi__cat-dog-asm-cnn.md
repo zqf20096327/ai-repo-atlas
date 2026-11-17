@@ -1,6 +1,6 @@
 # mohammad-ghaderi/cat-dog-asm-cnn
 
-⭐ 179 · Assembly · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mohammad-ghaderi/cat-dog-asm-cnn) · 个人维护
+⭐ 180 · Assembly · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mohammad-ghaderi/cat-dog-asm-cnn) · 个人维护
 
 **纯 x86-64 汇编 + AVX-512 实现的猫狗图像分类 CNN**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohammad-ghaderi/cat-dog-asm-cnn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "mohammad-ghaderi/cat-dog-asm-cnn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
     y-axis "stars" 178 --> 181
-    line [180, 179, 179]
+    line [180, 179, 180, 180]
 ```
 
-2026-10-18 180 → 2026-11-02 179（-1）
+2026-10-18 180 → 2026-11-17 180（+0）
 
 
 ---

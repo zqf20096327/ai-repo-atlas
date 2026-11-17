@@ -1,6 +1,6 @@
 # weaviate/weaviate-cli
 
-⭐ 31 · Python · BSD-3-Clause · 推送 2026-10-13 · [GitHub](https://github.com/weaviate/weaviate-cli) · 组织维护
+⭐ 31 · Python · BSD-3-Clause · 推送 2026-11-04 · [GitHub](https://github.com/weaviate/weaviate-cli) · 组织维护
 
 **Weaviate 向量数据库的命令行管理工具**
 
@@ -45,12 +45,12 @@ Python 编写的 CLI，用于从终端管理 Weaviate 向量数据库实例：�
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 31（+0）
 
 
 ---

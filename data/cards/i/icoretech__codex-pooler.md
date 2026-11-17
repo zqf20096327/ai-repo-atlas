@@ -1,6 +1,6 @@
 # icoretech/codex-pooler
 
-⭐ 233 · Elixir · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/icoretech/codex-pooler) · [官网](https://codex-pooler.com) · 组织维护 · 中文 README
+⭐ 243 · Elixir · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/icoretech/codex-pooler) · [官网](https://codex-pooler.com) · 组织维护 · 中文 README
 
 **自托管的 Codex 网关：用稳定的 Pool API key 管理多 Codex 账号**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "icoretech/codex-pooler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 228 --> 234
-    line [229, 233, 233]
+    title "icoretech/codex-pooler 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 228 --> 244
+    line [229, 233, 237, 240, 242, 243, 243]
 ```
 
-2026-10-18 229 → 2026-11-02 233（+4）
+2026-10-18 229 → 2026-11-17 243（+14）
 
 
 ---

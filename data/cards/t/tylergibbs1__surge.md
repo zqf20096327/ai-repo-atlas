@@ -1,6 +1,6 @@
 # tylergibbs1/surge
 
-⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tylergibbs1/surge) · [官网](https://surgeforecast.com) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tylergibbs1/surge) · [官网](https://surgeforecast.com) · 个人维护
 
 **美国电网日前负荷概率预测：Chronos-2 微调模型+库+API+playground**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tylergibbs1/surge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "tylergibbs1/surge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

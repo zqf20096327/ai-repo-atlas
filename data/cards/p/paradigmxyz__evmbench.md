@@ -1,6 +1,6 @@
 # paradigmxyz/evmbench
 
-⭐ 467 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/paradigmxyz/evmbench) · [官网](https://paradigm.xyz/evmbench) · 组织维护
+⭐ 471 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/paradigmxyz/evmbench) · [官网](https://paradigm.xyz/evmbench) · 组织维护
 
 **智能合约漏洞挖掘的基准评测与 agent 运行框架**
 
@@ -45,13 +45,13 @@ evmbench 提供一套面向智能合约漏洞检测的评测基准与 agent 运�
 
 ```mermaid
 xychart-beta
-    title "paradigmxyz/evmbench 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 461 --> 468
-    line [462, 464, 463, 465, 466, 467, 467]
+    title "paradigmxyz/evmbench 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 461 --> 472
+    line [462, 464, 463, 465, 466, 467, 466, 469, 470, 469, 470, 469, 471, 471]
 ```
 
-2026-10-18 462 → 2026-11-02 467（+5）
+2026-10-18 462 → 2026-11-17 471（+9）
 
 
 ---

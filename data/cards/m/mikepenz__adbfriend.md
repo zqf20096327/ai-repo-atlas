@@ -1,6 +1,6 @@
 # mikepenz/adbfriend
 
-⭐ 76 · Kotlin · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mikepenz/adbfriend) · 个人维护
+⭐ 77 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/mikepenz/adbfriend) · 个人维护
 
 **带 MCP Server 的 Android ADB 命令行管理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikepenz/adbfriend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    title "mikepenz/adbfriend 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

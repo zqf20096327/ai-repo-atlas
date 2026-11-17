@@ -1,6 +1,6 @@
 # ChanMeng666/archlang
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ChanMeng666/archlang) · [官网](https://archlang.uk/) · 个人维护
+⭐ 81 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ChanMeng666/archlang) · [官网](https://archlang.uk/) · 个人维护
 
 **用文本 DSL 编写户型图并编译为 SVG/DXF/PDF 的开源编译器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChanMeng666/archlang 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 27
-    line [19, 24, 26, 26]
+    title "ChanMeng666/archlang 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 87
+    line [19, 24, 26, 24, 33, 34, 35, 36, 38, 64, 81, 81]
 ```
 
-2026-10-18 19 → 2026-11-02 26（+7）
+2026-10-18 19 → 2026-11-17 81（+62）
 
 
 ---

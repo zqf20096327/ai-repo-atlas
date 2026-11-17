@@ -1,6 +1,6 @@
 # Lakonik/ComfyUI-piFlow
 
-⭐ 192 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/Lakonik/ComfyUI-piFlow) · [官网](https://github.com/Lakonik/LakonLab) · 个人维护
+⭐ 193 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/Lakonik/ComfyUI-piFlow) · [官网](https://github.com/Lakonik/LakonLab) · 个人维护
 
 **ComfyUI 自定义节点集：实现 AsymFlow 与 pi-Flow 图像生成模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lakonik/ComfyUI-piFlow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 188 --> 193
-    line [189, 190, 191, 192, 192]
+    title "Lakonik/ComfyUI-piFlow 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 188 --> 194
+    line [189, 190, 191, 192, 190, 191, 192, 193, 193]
 ```
 
-2026-10-18 189 → 2026-11-02 192（+3）
+2026-10-18 189 → 2026-11-17 193（+4）
 
 
 ---

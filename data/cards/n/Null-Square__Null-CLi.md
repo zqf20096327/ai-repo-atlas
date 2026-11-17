@@ -1,6 +1,6 @@
 # Null-Square/Null-CLi
 
-⭐ 49 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/Null-Square/Null-CLi) · [官网](https://nullsquare.net) · 组织维护
+⭐ 41 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/Null-Square/Null-CLi) · [官网](https://nullsquare.net) · 组织维护
 
 **面向授权测试的开源 AI 渗透测试与合规就绪 CLI**
 
@@ -45,13 +45,13 @@ NullSquare 开源的终端安全工具：以单 agent 循环对授权目标执�
 
 ```mermaid
 xychart-beta
-    title "Null-Square/Null-CLi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 48 --> 52
-    line [51, 49, 49]
+    title "Null-Square/Null-CLi 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 52
+    line [51, 49, 41, 41]
 ```
 
-2026-10-18 51 → 2026-11-02 49（-2）
+2026-10-18 51 → 2026-11-17 41（-10）
 
 
 ---

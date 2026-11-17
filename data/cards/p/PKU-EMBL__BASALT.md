@@ -1,6 +1,6 @@
 # PKU-EMBL/BASALT
 
-⭐ 226 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/PKU-EMBL/BASALT) · [官网](https://basalt-guide.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 228 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/PKU-EMBL/BASALT) · [官网](https://basalt-guide.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **宏基因组分箱工具包：从组装与测序数据恢复并精修 MAGs**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PKU-EMBL/BASALT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 224 --> 227
-    line [225, 226, 226]
+    title "PKU-EMBL/BASALT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 224 --> 229
+    line [225, 226, 225, 226, 227, 228, 228]
 ```
 
-2026-10-18 225 → 2026-11-02 226（+1）
+2026-10-18 225 → 2026-11-17 228（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # recp/gpu
 
-⭐ 50 · C · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/recp/gpu) · [官网](http://recp.me/gpu/) · 个人维护
+⭐ 50 · C · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/recp/gpu) · [官网](http://recp.me/gpu/) · 个人维护
 
 **跨平台 C 语言 GPU 图形与计算库（Metal/Vulkan/DX12/WebGPU）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "recp/gpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 50（+0）
 
 
 ---

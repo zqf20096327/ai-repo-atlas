@@ -1,6 +1,6 @@
 # leo123-tto/case-board
 
-⭐ 55 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/leo123-tto/case-board) · [官网](https://lawtools.top/?utm_source=github&utm_medium=repo&utm_campaign=caseboard) · 个人维护 · 中文 README
+⭐ 58 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/leo123-tto/case-board) · [官网](https://lawtools.top/?utm_source=github&utm_medium=repo&utm_campaign=caseboard) · 个人维护 · 中文 README
 
 **律师个人案件可视化看板：LLM 抽取案件信息并生成分析报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leo123-tto/case-board 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 51 --> 56
-    line [52, 54, 55, 55]
+    title "leo123-tto/case-board 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 51 --> 60
+    line [52, 54, 55, 52, 56, 58, 59, 58, 58]
 ```
 
-2026-10-22 52 → 2026-11-02 55（+3）
+2026-10-22 52 → 2026-11-17 58（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ramseygithub/ai-legal-compliance-assistant
 
-⭐ 337 · Python · 推送 2026-02-03 · [GitHub](https://github.com/Ramseygithub/ai-legal-compliance-assistant) · [官网](http://0.0.0.0:8000/) · 个人维护 · 中文 README
+⭐ 341 · Python · 推送 2026-02-03 · [GitHub](https://github.com/Ramseygithub/ai-legal-compliance-assistant) · [官网](http://0.0.0.0:8000/) · 个人维护 · 中文 README
 
 **面向法规解读的 AI 合规分析平台：RAG+知识图谱问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ramseygithub/ai-legal-compliance-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 335 --> 338
-    line [336, 337, 337]
+    title "Ramseygithub/ai-legal-compliance-assistant 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 335 --> 342
+    line [336, 337, 336, 338, 339, 340, 341, 341]
 ```
 
-2026-10-18 336 → 2026-11-02 337（+1）
+2026-10-18 336 → 2026-11-17 341（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # synbol/Awesome-Parameter-Efficient-Transfer-Learning
 
-⭐ 589 · 推送 2025-12-10 · [GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) · 个人维护
+⭐ 592 · 推送 2025-12-10 · [GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) · 个人维护
 
 **参数高效迁移学习（PEFT）论文与数据集资源清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "synbol/Awesome-Parameter-Efficient-Transfer-Learning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 586 --> 590
-    line [587, 588, 587, 588, 589]
+    title "synbol/Awesome-Parameter-Efficient-Transfer-Learning 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 586 --> 593
+    line [587, 588, 587, 588, 589, 587, 589, 590, 591, 592, 592]
 ```
 
-2026-10-18 587 → 2026-11-02 589（+2）
+2026-10-18 587 → 2026-11-17 592（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # CaviraOSS/OpenReason
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2025-11-15 · [GitHub](https://github.com/CaviraOSS/OpenReason) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **构建在任意 LLM 提供商之上的可复现推理引擎**
 
@@ -11,7 +11,7 @@ Node.js/TypeScript 推理引擎库：把用户查询送入固定的分类→骨�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Node.js/TypeScript 推理引擎库：把用户查询送入固定的分类→骨�
 ```mermaid
 xychart-beta
     title "CaviraOSS/OpenReason 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-10 50（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ccao-data/model-res-avm
 
-⭐ 74 · R · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ccao-data/model-res-avm) · 组织维护
+⭐ 74 · R · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/ccao-data/model-res-avm) · 组织维护
 
 **库克县住宅房产批量评估模型：用 ML 生成估定价值**
 
@@ -45,13 +45,13 @@ Cook County 评估官办公室的住宅再评估模型（AVM）仓库：基于�
 
 ```mermaid
 xychart-beta
-    title "ccao-data/model-res-avm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "ccao-data/model-res-avm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    line [73, 74, 73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-02 74（+1）
+2026-10-18 73 → 2026-11-17 74（+1）
 
 
 ---

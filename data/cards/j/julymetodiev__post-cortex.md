@@ -1,6 +1,6 @@
 # julymetodiev/post-cortex
 
-⭐ 20 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/julymetodiev/post-cortex) · [官网](https://369.is) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/julymetodiev/post-cortex) · [官网](https://pcx.is) · 个人维护
 
 **给 AI 助手提供持久长期记忆的 Rust MCP 服务器**
 
@@ -45,12 +45,12 @@ Post-Cortex 是一个用 Rust 编写的 MCP 服务器，为 AI 助手（如 Clau
 ```mermaid
 xychart-beta
     title "julymetodiev/post-cortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

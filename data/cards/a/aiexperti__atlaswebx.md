@@ -1,6 +1,6 @@
 # aiexperti/atlaswebx
 
-⭐ 19 · JavaScript · MIT · 推送 2025-11-12 · [GitHub](https://github.com/aiexperti/atlaswebx) · [官网](https://atlaswebx.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带 AI 侧边栏助手的开源 Electron 网页浏览器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aiexperti/atlaswebx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-07 19（+1）
 
 
 ---

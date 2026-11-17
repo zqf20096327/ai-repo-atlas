@@ -1,6 +1,6 @@
 # amdadulbari/ai-devops-roadmap
 
-⭐ 16 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/amdadulbari/ai-devops-roadmap) · 个人维护
+⭐ 16 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/amdadulbari/ai-devops-roadmap) · 个人维护
 
 **面向 DevOps/SRE 的 AI 应用实践指南：分级信任+提示词库+安全护栏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amdadulbari/ai-devops-roadmap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-17"]
     y-axis "stars" 10 --> 17
     line [11, 12, 14, 15, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 16（+5）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

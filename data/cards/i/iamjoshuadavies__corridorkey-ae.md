@@ -1,6 +1,6 @@
 # iamjoshuadavies/corridorkey-ae
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/iamjoshuadavies/corridorkey-ae) · [官网](https://github.com/iamjoshuadavies/corridorkey-ae/releases/latest) · 个人维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/iamjoshuadavies/corridorkey-ae) · [官网](https://github.com/iamjoshuadavies/corridorkey-ae/releases/latest) · 个人维护
 
 **Adobe After Effects 本地 ML 绿幕抠像插件**
 
@@ -44,13 +44,13 @@ After Effects 原生抠像效果插件，面向影视合成工作者：内置色
 
 ```mermaid
 xychart-beta
-    title "iamjoshuadavies/corridorkey-ae 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    title "iamjoshuadavies/corridorkey-ae 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

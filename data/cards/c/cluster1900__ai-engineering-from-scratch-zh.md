@@ -1,6 +1,6 @@
 # cluster1900/ai-engineering-from-scratch-zh
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cluster1900/ai-engineering-from-scratch-zh) · [官网](https://ai-learn.apexolab.com/) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/cluster1900/ai-engineering-from-scratch-zh) · [官网](https://ai-learn.apexolab.com/) · 个人维护 · 中文 README
 
 **中文版 AI 工程课程：20 阶段 542 课，从数学到 Agent/MCP**
 
@@ -47,12 +47,12 @@ Fork 自 rohitg00/ai-engineering-from-scratch 的中文课程仓库，覆盖 20 
 ```mermaid
 xychart-beta
     title "cluster1900/ai-engineering-from-scratch-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

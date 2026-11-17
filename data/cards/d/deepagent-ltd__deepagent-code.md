@@ -1,6 +1,6 @@
 # deepagent-ltd/deepagent-code
 
-⭐ 432 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/deepagent-ltd/deepagent-code) · [官网](https://ai.deepagent.ltd/) · 组织维护 · 中文 README
+⭐ 429 · TypeScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/deepagent-ltd/deepagent-code) · [官网](https://ai.deepagent.ltd/) · 组织维护 · 中文 README
 
 **带持久记忆与 IM 接入的 AI 编程工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepagent-ltd/deepagent-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 431 --> 435
-    line [434, 433, 432, 432]
+    title "deepagent-ltd/deepagent-code 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 427 --> 435
+    line [434, 433, 432, 433, 428, 429, 429]
 ```
 
-2026-10-18 434 → 2026-11-02 432（-2）
+2026-10-18 434 → 2026-11-17 429（-5）
 
 
 ---

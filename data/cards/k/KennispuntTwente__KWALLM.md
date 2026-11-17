@@ -1,6 +1,6 @@
 # KennispuntTwente/KWALLM
 
-⭐ 19 · HTML · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/KennispuntTwente/KWALLM) · [官网](https://kennispunttwente.nl) · 组织维护
+⭐ 19 · HTML · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/KennispuntTwente/KWALLM) · [官网](https://kennispunttwente.nl) · 组织维护
 
 **面向非技术用户的 LLM 定性文本分析应用（分类/评分/主题/编码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KennispuntTwente/KWALLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

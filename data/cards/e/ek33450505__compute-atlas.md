@@ -1,6 +1,6 @@
 # ek33450505/compute-atlas
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ek33450505/compute-atlas) · [官网](https://www.compute-atlas.com) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ek33450505/compute-atlas) · [官网](https://www.compute-atlas.com) · 个人维护
 
 **全美数据中心/矿场/配套电厂的开源溯源数据集与地图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ek33450505/compute-atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 12]
+    title "ek33450505/compute-atlas 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jay-trivedi/amazon_sp_mcp
 
-⭐ 33 · TypeScript · MIT · 推送 2025-11-17 · [GitHub](https://github.com/jay-trivedi/amazon_sp_mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AI 代理读取亚马逊卖家后台数据的 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jay-trivedi/amazon_sp_mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [33, 32, 33, 33]
+    title "jay-trivedi/amazon_sp_mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12"]
+    y-axis "stars" 31 --> 35
+    line [33, 32, 33, 32, 33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-12 34（+1）
 
 
 ---

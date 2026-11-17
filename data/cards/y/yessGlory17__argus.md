@@ -1,6 +1,6 @@
 # yessGlory17/argus
 
-⭐ 117 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/yessGlory17/argus) · [官网](https://marketplace.visualstudio.com/items?itemName=argus-claude.argus-claude) · 个人维护
+⭐ 119 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/yessGlory17/argus) · [官网](https://marketplace.visualstudio.com/items?itemName=argus-claude.argus-claude) · 个人维护
 
 **VS Code 扩展：监控并分析 Claude Code 会话的执行轨迹与成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yessGlory17/argus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    title "yessGlory17/argus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 116 --> 120
+    line [117, 118, 119, 119]
 ```
 
-2026-10-18 117 → 2026-11-02 117（+0）
+2026-10-18 117 → 2026-11-17 119（+2）
 
 
 ---

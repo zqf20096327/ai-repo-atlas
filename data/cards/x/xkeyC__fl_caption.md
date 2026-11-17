@@ -1,6 +1,6 @@
 # xkeyC/fl_caption
 
-⭐ 97 · Dart · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/xkeyC/fl_caption) · 个人维护 · 中文 README
+⭐ 100 · Dart · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/xkeyC/fl_caption) · 个人维护 · 中文 README
 
 **离线实时字幕与翻译工具，识别电脑声音并实时翻译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xkeyC/fl_caption 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    title "xkeyC/fl_caption 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 96 --> 101
+    line [97, 100, 100]
 ```
 
-2026-10-18 97 → 2026-11-02 97（+0）
+2026-10-18 97 → 2026-11-17 100（+3）
 
 
 ---

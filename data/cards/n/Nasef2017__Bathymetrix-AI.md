@@ -1,6 +1,6 @@
 # Nasef2017/Bathymetrix-AI
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nasef2017/Bathymetrix-AI) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nasef2017/Bathymetrix-AI) · 个人维护
 
 **QGIS 卫星反演水深研究工具包：多光谱影像+ICESat-2 激光测深自动建模**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nasef2017/Bathymetrix-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "Nasef2017/Bathymetrix-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

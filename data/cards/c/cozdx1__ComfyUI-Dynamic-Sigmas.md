@@ -1,6 +1,6 @@
 # cozdx1/ComfyUI-Dynamic-Sigmas
 
-⭐ 12 · JavaScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/cozdx1/ComfyUI-Dynamic-Sigmas) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/cozdx1/ComfyUI-Dynamic-Sigmas) · 个人维护 · 中文 README
 
 **ComfyUI 自定义 sigma 调度节点：可视化编辑与拼接扩散采样曲线**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集（4 个节点），用于创建、编辑、检查与�
 
 ```mermaid
 xychart-beta
-    title "cozdx1/ComfyUI-Dynamic-Sigmas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "cozdx1/ComfyUI-Dynamic-Sigmas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

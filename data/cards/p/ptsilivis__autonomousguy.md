@@ -1,6 +1,6 @@
 # ptsilivis/autonomousguy
 
-⭐ 38 · HTML · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ptsilivis/autonomousguy) · [官网](https://panostsilivis.com/autonomousguy/) · 个人维护
+⭐ 40 · HTML · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ptsilivis/autonomousguy) · [官网](https://panostsilivis.com/autonomousguy/) · 个人维护
 
 **面向汽车嵌入式工程师的 AI 技能集（AUTOSAR/MISRA/ISO 26262）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ptsilivis/autonomousguy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 38]
+    title "ptsilivis/autonomousguy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 37, 38, 36, 38, 40, 40]
 ```
 
-2026-10-18 35 → 2026-11-02 38（+3）
+2026-10-18 35 → 2026-11-17 40（+5）
 
 
 ---

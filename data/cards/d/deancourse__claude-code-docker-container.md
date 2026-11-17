@@ -1,6 +1,6 @@
 # deancourse/claude-code-docker-container
 
-⭐ 26 · Shell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/deancourse/claude-code-docker-container) · [官网](https://www.youtube.com/watch?v=BPdyiaC-3Lw) · 个人维护 · 中文 README
+⭐ 28 · Shell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/deancourse/claude-code-docker-container) · [官网](https://www.youtube.com/watch?v=BPdyiaC-3Lw) · 个人维护 · 中文 README
 
 **在 Docker 容器中隔离执行 Claude Code 并以防火墙白名单限制其对外连线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deancourse/claude-code-docker-container 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 24, 25, 26, 26]
+    title "deancourse/claude-code-docker-container 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 21 --> 29
+    line [22, 23, 24, 25, 26, 23, 27, 28, 28]
 ```
 
-2026-10-18 22 → 2026-11-02 26（+4）
+2026-10-18 22 → 2026-11-17 28（+6）
 
 
 ---

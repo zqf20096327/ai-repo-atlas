@@ -1,6 +1,6 @@
 # vorojar/VibeVoice
 
-⭐ 27 · JavaScript · 推送 2026-02-20 · [GitHub](https://github.com/vorojar/VibeVoice) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · 推送 2026-02-20 · [GitHub](https://github.com/vorojar/VibeVoice) · 个人维护 · 中文 README
 
 **本地运行的 AI 有声书工作室：文本转多角色语音（TTS）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vorojar/VibeVoice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "vorojar/VibeVoice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

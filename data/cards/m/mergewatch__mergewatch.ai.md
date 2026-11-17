@@ -1,6 +1,6 @@
 # mergewatch/mergewatch.ai
 
-⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mergewatch/mergewatch.ai) · [官网](https://mergewatch.ai) · 组织维护
+⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/mergewatch/mergewatch.ai) · [官网](https://mergewatch.ai) · 组织维护
 
 **自托管的 GitHub App：多 AI agent 并行评审每个 PR**
 
@@ -44,13 +44,13 @@ MergeWatch 是一个可自托管（Docker 三服务）或使用 SaaS 的 GitHub 
 
 ```mermaid
 xychart-beta
-    title "mergewatch/mergewatch.ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "mergewatch/mergewatch.ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 24, 26, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

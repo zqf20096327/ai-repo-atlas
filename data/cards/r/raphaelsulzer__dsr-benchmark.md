@@ -1,6 +1,6 @@
 # raphaelsulzer/dsr-benchmark
 
-⭐ 44 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/raphaelsulzer/dsr-benchmark) · [官网](https://arxiv.org/abs/2301.13656) · 个人维护
+⭐ 46 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/raphaelsulzer/dsr-benchmark) · [官网](https://arxiv.org/abs/2301.13656) · 个人维护
 
 **点云表面重建方法的基准评测数据集与代码（TPAMI 论文）**
 
@@ -43,13 +43,13 @@ TPAMI 论文 A Survey and Benchmark for Automatic Surface Reconstruction from Po
 
 ```mermaid
 xychart-beta
-    title "raphaelsulzer/dsr-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "raphaelsulzer/dsr-benchmark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 47
+    line [44, 45, 46, 46]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 46（+2）
 
 
 ---

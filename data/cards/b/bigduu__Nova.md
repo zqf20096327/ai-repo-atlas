@@ -1,6 +1,6 @@
 # bigduu/Nova
 
-⭐ 22 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/bigduu/Nova) · [官网](https://bodhi-ai.vercel.app) · 个人维护 · 中文 README
+⭐ 23 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/bigduu/Nova) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
 
 **让 MCP agent 控制真实 macOS/Windows 桌面的 Rust MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bigduu/Nova 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "bigduu/Nova 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

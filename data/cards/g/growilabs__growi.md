@@ -1,6 +1,6 @@
 # growilabs/growi
 
-⭐ 1,476 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/growilabs/growi) · [官网](https://growi.org) · 组织维护
+⭐ 1,480 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/growilabs/growi) · [官网](https://growi.org) · 组织维护
 
 **团队协作用 Markdown Wiki / 知识库软件**
 
@@ -44,13 +44,13 @@ GROWI 是基于 Node.js/React/TypeScript 的团队协作 wiki 软件：以 Markd
 
 ```mermaid
 xychart-beta
-    title "growilabs/growi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1470 --> 1477
-    line [1471, 1473, 1474, 1475, 1476, 1476]
+    title "growilabs/growi 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 1470 --> 1481
+    line [1471, 1473, 1474, 1475, 1476, 1473, 1479, 1480, 1480]
 ```
 
-2026-10-18 1,471 → 2026-11-02 1,476（+5）
+2026-10-18 1,471 → 2026-11-17 1,480（+9）
 
 
 ---

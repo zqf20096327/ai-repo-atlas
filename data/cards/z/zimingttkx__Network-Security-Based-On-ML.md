@@ -1,6 +1,6 @@
 # zimingttkx/Network-Security-Based-On-ML
 
-⭐ 218 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/zimingttkx/Network-Security-Based-On-ML) · 个人维护 · 中文 README
+⭐ 210 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/zimingttkx/Network-Security-Based-On-ML) · 个人维护 · 中文 README
 
 **Linux 服务器入侵防御系统：规则引擎+可选 ML 异常检测丢包**
 
@@ -45,13 +45,13 @@ NIPS 是服务端 IPS：在 Linux 上经 NFQUEUE/iptables 拦截流量，由确�
 
 ```mermaid
 xychart-beta
-    title "zimingttkx/Network-Security-Based-On-ML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 216 --> 219
-    line [217, 218, 218]
+    title "zimingttkx/Network-Security-Based-On-ML 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 208 --> 219
+    line [217, 218, 217, 209, 210, 210]
 ```
 
-2026-10-18 217 → 2026-11-02 218（+1）
+2026-10-18 217 → 2026-11-17 210（-7）
 
 
 ---

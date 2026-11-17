@@ -1,6 +1,6 @@
 # pileax-ai/pileax
 
-⭐ 40 · Vue · MIT · 推送 2026-10-13 · [GitHub](https://github.com/pileax-ai/pileax) · [官网](https://www.pileax.ai) · 组织维护 · 中文 README
+⭐ 40 · Vue · MIT · 推送 2026-11-09 · [GitHub](https://github.com/pileax-ai/pileax) · [官网](https://www.pileax.ai) · 组织维护 · 中文 README
 
 **本地优先的一体化 AI 知识库：AI 对话、笔记与电子书阅读管理**
 
@@ -46,12 +46,12 @@ PileaX 是 local-first 的全功能 AI 知识库应用，整合 AI 聊天助手�
 ```mermaid
 xychart-beta
     title "pileax-ai/pileax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

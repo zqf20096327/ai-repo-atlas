@@ -1,6 +1,6 @@
 # microsoft/dstoolkit-text2sql-and-imageprocessing
 
-⭐ 106 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing) · [官网](https://www.ds-toolkit.com/) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing) · [官网](https://www.ds-toolkit.com/) · 组织维护
 
 **给 RAG 开发者的示例代码库：Text2SQL 与文档图像处理插件**
 
@@ -45,13 +45,13 @@ Microsoft 维护的示例代码仓库，面向构建 RAG 应用（新建或已�
 
 ```mermaid
 xychart-beta
-    title "microsoft/dstoolkit-text2sql-and-imageprocessing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 104 --> 107
-    line [105, 106, 106]
+    title "microsoft/dstoolkit-text2sql-and-imageprocessing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107, 107]
 ```
 
-2026-10-18 105 → 2026-11-02 106（+1）
+2026-10-18 105 → 2026-11-17 107（+2）
 
 
 ---

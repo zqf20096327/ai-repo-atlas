@@ -1,6 +1,6 @@
 # md2docx/mdast2docx
 
-⭐ 40 · TypeScript · MPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/md2docx/mdast2docx) · [官网](https://github.com/md2docx/md2docx/tree/main/packages/mdast2docx) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将 MDAST（Markdown 抽象语法树）转换为 DOCX 文档的 JS 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MPL-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "md2docx/mdast2docx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-07 40（+0）
 
 
 ---

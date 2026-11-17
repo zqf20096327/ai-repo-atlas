@@ -1,6 +1,6 @@
 # coder/aisdk-go
 
-⭐ 41 · Go · MIT · 推送 2025-11-20 · [GitHub](https://github.com/coder/aisdk-go) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Go 实现 Vercel AI SDK 数据流协议的后端库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coder/aisdk-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-15 41（+0）
 
 
 ---

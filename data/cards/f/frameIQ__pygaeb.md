@@ -1,6 +1,6 @@
 # frameIQ/pygaeb
 
-⭐ 23 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/frameIQ/pygaeb) · [官网](https://pygaeb.readthedocs.io/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/frameIQ/pygaeb) · [官网](https://pygaeb.readthedocs.io/) · 个人维护
 
 **德国建筑招标 GAEB DA XML 文件的解析/校验/转换 Python 库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "frameIQ/pygaeb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "frameIQ/pygaeb 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 22, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

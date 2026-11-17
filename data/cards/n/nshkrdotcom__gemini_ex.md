@@ -1,6 +1,6 @@
 # nshkrdotcom/gemini_ex
 
-⭐ 36 · Elixir · MIT · 推送 2026-09-17 · [GitHub](https://github.com/nshkrdotcom/gemini_ex) · 个人维护
+⭐ 36 · Elixir · MIT · 推送 2026-11-09 · [GitHub](https://github.com/nshkrdotcom/gemini_ex) · 个人维护
 
 **Elixir 的 Google Gemini API 客户端库，支持 AI Studio 与 Vertex AI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nshkrdotcom/gemini_ex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

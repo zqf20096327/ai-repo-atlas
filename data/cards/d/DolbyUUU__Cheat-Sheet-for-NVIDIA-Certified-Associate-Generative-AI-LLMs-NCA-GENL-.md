@@ -1,6 +1,6 @@
 # DolbyUUU/Cheat-Sheet-for-NVIDIA-Certified-Associate-Generative-AI-LLMs-NCA-GENL-
 
-⭐ 17 · 推送 2025-11-16 · [GitHub](https://github.com/DolbyUUU/Cheat-Sheet-for-NVIDIA-Certified-Associate-Generative-AI-LLMs-NCA-GENL-) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **NVIDIA NCA-GENL 生成式 AI 认证考试备考速查表（中英双语）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DolbyUUU/Cheat-Sheet-for-NVIDIA-Certified-Associate-Generative-AI-LLMs-NCA-GENL- 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "DolbyUUU/Cheat-Sheet-for-NVIDIA-Certified-Associate-Generative-AI-LLMs-NCA-GENL- 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-11 18（+3）
 
 
 ---

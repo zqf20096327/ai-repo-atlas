@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Insurance-Claim-Prediction
 
-⭐ 26 · Python · 推送 2026-08-23 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Insurance-Claim-Prediction) · [官网](https://insurance-claim-prediction07.streamlit.app/) · 个人维护
+⭐ 25 · Python · 推送 2026-08-23 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Insurance-Claim-Prediction) · [官网](https://insurance-claim-prediction07.streamlit.app/) · 个人维护
 
 **保险理赔金额回归预测项目，含 Streamlit 部署流程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Insurance-Claim-Prediction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/Insurance-Claim-Prediction 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 22 --> 27
-    line [23, 25, 26, 26]
+    line [23, 25, 26, 23, 26, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 26（+3）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

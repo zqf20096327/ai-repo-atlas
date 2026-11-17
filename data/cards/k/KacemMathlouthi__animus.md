@@ -1,6 +1,6 @@
 # KacemMathlouthi/animus
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/KacemMathlouthi/animus) · [官网](https://tryanimus.app) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/KacemMathlouthi/animus) · [官网](https://tryanimus.app) · 个人维护
 
 **对话式 agent 生成有解说的研究型解释视频（Manim）**
 
@@ -45,13 +45,13 @@ animus 是一个面向终端用户的交互式编码 agent：用户描述主题�
 
 ```mermaid
 xychart-beta
-    title "KacemMathlouthi/animus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "KacemMathlouthi/animus 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 19, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

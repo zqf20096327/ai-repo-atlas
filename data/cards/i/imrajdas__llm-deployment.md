@@ -1,6 +1,6 @@
 # imrajdas/llm-deployment
 
-⭐ 27 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/imrajdas/llm-deployment) · 个人维护
+⭐ 14 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/imrajdas/llm-deployment) · 个人维护
 
 **在 Azure+JarvisLabs GPU 的 K8s 上部署 vLLM 并配 Streamlit 聊天界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imrajdas/llm-deployment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 27]
+    title "imrajdas/llm-deployment 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 29
+    line [28, 27, 15, 14, 14]
 ```
 
-2026-10-18 28 → 2026-11-02 27（-1）
+2026-10-18 28 → 2026-11-17 14（-14）
 
 
 ---

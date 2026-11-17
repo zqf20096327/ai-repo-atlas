@@ -1,6 +1,6 @@
 # aradfarahani/Remote-Sensing
 
-⭐ 39 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/aradfarahani/Remote-Sensing) · [官网](https://FEZtool.com) · 个人维护
+⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-06 · [GitHub](https://github.com/aradfarahani/Remote-Sensing) · [官网](https://FEZtool.com) · 个人维护
 
 **遥感影像处理与机器学习示例代码合集（15 个主题）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aradfarahani/Remote-Sensing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

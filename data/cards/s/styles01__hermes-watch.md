@@ -1,6 +1,6 @@
 # styles01/hermes-watch
 
-⭐ 18 · C++ · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/styles01/hermes-watch) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
+⭐ 23 · C++ · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/styles01/hermes-watch) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
 
 **给 AI agent 用户的语音遥控器：M5Stack 圆屏手表固件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "styles01/hermes-watch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "styles01/hermes-watch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 18, 17, 20, 21, 23, 23]
 ```
 
-2026-10-18 16 → 2026-11-02 18（+2）
+2026-10-18 16 → 2026-11-17 23（+7）
 
 
 ---

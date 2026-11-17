@@ -1,6 +1,6 @@
 # sgyaqing/verdict
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sgyaqing/verdict) · 个人维护 · 中文 README
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/sgyaqing/verdict) · 个人维护 · 中文 README
 
 **面向开发者的 System One 决策模型推理服务引擎**
 
@@ -46,12 +46,12 @@ Verdict 是一个为 System One 决策模型提供的高性能推理服务引擎
 ```mermaid
 xychart-beta
     title "sgyaqing/verdict 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

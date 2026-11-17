@@ -1,6 +1,6 @@
 # duongngocbinh56599-ui/local-llm-lab
 
-⭐ 94 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/duongngocbinh56599-ui/local-llm-lab) · 个人维护
+⭐ 93 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/duongngocbinh56599-ui/local-llm-lab) · 个人维护
 
 **本地 LLM 部署规划与基准测试 CLI，判断模型能否装进内存**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "duongngocbinh56599-ui/local-llm-lab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 93 --> 102
-    line [101, 94, 94]
+    title "duongngocbinh56599-ui/local-llm-lab 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 102
+    line [101, 94, 93, 93]
 ```
 
-2026-10-18 101 → 2026-11-02 94（-7）
+2026-10-18 101 → 2026-11-17 93（-8）
 
 
 ---

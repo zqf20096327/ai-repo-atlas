@@ -1,6 +1,6 @@
 # raphael-seo/Versatile-OCR-Program
 
-⭐ 674 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/raphael-seo/Versatile-OCR-Program) · 个人维护
+⭐ 677 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/raphael-seo/Versatile-OCR-Program) · 个人维护
 
 **面向 ML 训练数据制作的多模态 OCR 流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raphael-seo/Versatile-OCR-Program 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 673 --> 676
-    line [675, 674, 674]
+    title "raphael-seo/Versatile-OCR-Program 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 673 --> 678
+    line [675, 674, 675, 676, 677, 677]
 ```
 
-2026-10-18 675 → 2026-11-02 674（-1）
+2026-10-18 675 → 2026-11-17 677（+2）
 
 
 ---

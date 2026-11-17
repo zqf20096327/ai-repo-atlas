@@ -1,6 +1,6 @@
 # tinyhumansai/tinycortex
 
-⭐ 267 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tinyhumansai/tinycortex) · [官网](https://tinyhumans.gitbook.io/neocortex/) · 组织维护
+⭐ 270 · Rust · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/tinyhumansai/tinycortex) · [官网](https://tinyhumans.gitbook.io/neocortex/) · 组织维护
 
 **给 agent 开发者的本地优先 AI 记忆引擎 Rust 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/tinycortex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 263 --> 268
-    line [264, 265, 267]
+    title "tinyhumansai/tinycortex 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 263 --> 271
+    line [264, 265, 267, 264, 269, 270, 270]
 ```
 
-2026-10-18 264 → 2026-11-02 267（+3）
+2026-10-18 264 → 2026-11-17 270（+6）
 
 
 ---

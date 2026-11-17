@@ -1,6 +1,6 @@
 # jatinkrmalik/localcaption
 
-⭐ 15 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/jatinkrmalik/localcaption) · [官网](https://pypi.org/project/localcaption/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/jatinkrmalik/localcaption) · [官网](https://pypi.org/project/localcaption/) · 个人维护
 
 **本地离线 Whisper 转录工具：URL/本地音视频生成字幕文件**
 
@@ -46,13 +46,13 @@ Python CLI 工具 localcaption，用 yt-dlp 下载 YouTube/Vimeo/Twitch 等 1000
 
 ```mermaid
 xychart-beta
-    title "jatinkrmalik/localcaption 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "jatinkrmalik/localcaption 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

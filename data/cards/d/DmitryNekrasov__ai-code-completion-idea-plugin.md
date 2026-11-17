@@ -1,6 +1,6 @@
 # DmitryNekrasov/ai-code-completion-idea-plugin
 
-⭐ 20 · Kotlin · MIT · 推送 2026-02-09 · [GitHub](https://github.com/DmitryNekrasov/ai-code-completion-idea-plugin) · 个人维护
+⭐ 19 · Kotlin · MIT · 推送 2026-02-09 · [GitHub](https://github.com/DmitryNekrasov/ai-code-completion-idea-plugin) · 个人维护
 
 **IntelliJ IDEA 行内代码补全插件，由本地 LLM 生成建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DmitryNekrasov/ai-code-completion-idea-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "DmitryNekrasov/ai-code-completion-idea-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

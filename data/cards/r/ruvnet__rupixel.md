@@ -1,6 +1,6 @@
 # ruvnet/rupixel
 
-⭐ 46 · Rust · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ruvnet/rupixel) · 个人维护 · 中文 README
+⭐ 49 · Rust · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ruvnet/rupixel) · [官网](https://ruv.io) · 个人维护 · 中文 README
 
 **面向开发者的像素级视觉 RAG 检索引擎（Rust 版 PixelRAG）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruvnet/rupixel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46, 46]
+    title "ruvnet/rupixel 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 43 --> 50
+    line [44, 45, 46, 45, 48, 49, 49]
 ```
 
-2026-10-18 44 → 2026-11-02 46（+2）
+2026-10-18 44 → 2026-11-17 49（+5）
 
 
 ---

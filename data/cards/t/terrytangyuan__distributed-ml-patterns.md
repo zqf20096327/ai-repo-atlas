@@ -1,6 +1,6 @@
 # terrytangyuan/distributed-ml-patterns
 
-⭐ 546 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/terrytangyuan/distributed-ml-patterns) · [官网](https://bit.ly/2RKv8Zo) · 个人维护 · 中文 README
+⭐ 547 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/terrytangyuan/distributed-ml-patterns) · [官网](https://bit.ly/2RKv8Zo) · 个人维护 · 中文 README
 
 **分布式机器学习模式：Manning 出版书籍的参考与代码仓库**
 
@@ -44,13 +44,13 @@ Yuan Tang 所著 Manning 出版书籍《Distributed Machine Learning Patterns》
 
 ```mermaid
 xychart-beta
-    title "terrytangyuan/distributed-ml-patterns 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 541 --> 547
-    line [542, 545, 546, 546]
+    title "terrytangyuan/distributed-ml-patterns 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 541 --> 548
+    line [542, 545, 546, 545, 546, 547, 547]
 ```
 
-2026-10-18 542 → 2026-11-02 546（+4）
+2026-10-18 542 → 2026-11-17 547（+5）
 
 
 ---

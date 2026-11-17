@@ -1,6 +1,6 @@
 # p-poss/dj-claude
 
-⭐ 38 · TypeScript · AGPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/p-poss/dj-claude) · [官网](https://www.claude.dj/) · 个人维护
+⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/p-poss/dj-claude) · [官网](https://www.claude.dj/) · 个人维护
 
 **供 AI agent 即时作曲演奏的音乐 MCP 服务器，支持多 agent 合奏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "p-poss/dj-claude 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    title "p-poss/dj-claude 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-11-02 38（+2）
+2026-10-18 36 → 2026-11-17 39（+3）
 
 
 ---

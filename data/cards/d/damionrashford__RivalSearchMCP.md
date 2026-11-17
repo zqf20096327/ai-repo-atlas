@@ -1,6 +1,6 @@
 # damionrashford/RivalSearchMCP
 
-⭐ 134 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/damionrashford/RivalSearchMCP) · 个人维护
+⭐ 140 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/damionrashford/RivalSearchMCP) · 个人维护
 
 **给 AI agent 用的确定性研究 MCP 服务器：聚合网络/社交/学术/新闻检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "damionrashford/RivalSearchMCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 131 --> 135
-    line [132, 133, 134, 134]
+    title "damionrashford/RivalSearchMCP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 131 --> 141
+    line [132, 133, 134, 137, 138, 140, 140]
 ```
 
-2026-10-18 132 → 2026-11-02 134（+2）
+2026-10-18 132 → 2026-11-17 140（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # dokimos-dev/dokimos
 
-⭐ 61 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dokimos-dev/dokimos) · [官网](https://dokimos.dev) · 组织维护
+⭐ 64 · Java · MIT · 推送 2026-11-12 · [GitHub](https://github.com/dokimos-dev/dokimos) · [官网](https://dokimos.dev) · 组织维护
 
 **面向 Java/Kotlin 的 LLM 与 agent 评测框架，可跑在 JUnit 与 CI 中**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "dokimos-dev/dokimos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "dokimos-dev/dokimos 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 60, 61, 62, 63, 64, 64]
 ```
 
-2026-10-18 60 → 2026-11-02 61（+1）
+2026-10-18 60 → 2026-11-17 64（+4）
 
 
 ---

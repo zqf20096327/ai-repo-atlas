@@ -1,6 +1,6 @@
 # pirus99/magic-lists-ai-curator
 
-⭐ 12 · Python · 推送 2026-10-05 · [GitHub](https://github.com/pirus99/magic-lists-ai-curator) · 个人维护
+⭐ 14 · Python · 推送 2026-11-16 · [GitHub](https://github.com/pirus99/magic-lists-ai-curator) · 个人维护
 
 **为 Navidrome/Jellyfin 自建音乐库生成 AI 智能歌单的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pirus99/magic-lists-ai-curator 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "pirus99/magic-lists-ai-curator 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 10, 13, 14, 14]
 ```
 
-2026-10-23 10 → 2026-11-02 12（+2）
+2026-10-23 10 → 2026-11-17 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hsu1023/DuQuant
 
-⭐ 188 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Hsu1023/DuQuant) · [官网](https://arxiv.org/abs/2406.01721) · 组织维护
+⭐ 190 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Hsu1023/DuQuant) · [官网](https://arxiv.org/abs/2406.01721) · 组织维护
 
 **LLM 训练后量化方法：用旋转与置换变换消除离群值**
 
@@ -45,13 +45,13 @@ NeurIPS 2024 Oral 论文 DuQuant 的官方代码仓库，面向 LLM 的 4-bit �
 
 ```mermaid
 xychart-beta
-    title "Hsu1023/DuQuant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 187 --> 189
-    line [188, 188]
+    title "Hsu1023/DuQuant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 187 --> 191
+    line [188, 189, 190, 190]
 ```
 
-2026-10-18 188 → 2026-11-02 188（+0）
+2026-10-18 188 → 2026-11-17 190（+2）
 
 
 ---

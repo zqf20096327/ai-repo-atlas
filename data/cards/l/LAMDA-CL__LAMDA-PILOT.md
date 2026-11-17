@@ -1,6 +1,6 @@
 # LAMDA-CL/LAMDA-PILOT
 
-⭐ 611 · Python · MIT · 推送 2026-01-29 · [GitHub](https://github.com/LAMDA-CL/LAMDA-PILOT) · [官网](https://arxiv.org/abs/2309.07117) · 组织维护 · 中文 README
+⭐ 613 · Python · MIT · 推送 2026-01-29 · [GitHub](https://github.com/LAMDA-CL/LAMDA-PILOT) · [官网](https://arxiv.org/abs/2309.07117) · 组织维护 · 中文 README
 
 **基于预训练模型的持续学习算法工具箱，复现20+方法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LAMDA-CL/LAMDA-PILOT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 607 --> 612
-    line [609, 608, 609, 611, 611]
+    title "LAMDA-CL/LAMDA-PILOT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 607 --> 614
+    line [609, 608, 609, 611, 608, 613, 613]
 ```
 
-2026-10-18 609 → 2026-11-02 611（+2）
+2026-10-18 609 → 2026-11-17 613（+4）
 
 
 ---

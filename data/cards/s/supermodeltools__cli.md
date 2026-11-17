@@ -1,6 +1,6 @@
 # supermodeltools/cli
 
-⭐ 94 · Go · MIT · 推送 2026-07-20 · [GitHub](https://github.com/supermodeltools/cli) · [官网](https://supermodeltools.com/trial) · 组织维护
+⭐ 93 · Go · MIT · 推送 2026-07-20 · [GitHub](https://github.com/supermodeltools/cli) · [官网](https://supermodeltools.com/trial) · 组织维护
 
 **为 AI 编程 agent 生成代码图谱文件以降低 token 成本的 CLI**
 
@@ -45,13 +45,13 @@ Supermodel CLI 将仓库上传至 Supermodel API 构建完整调用图，在每�
 
 ```mermaid
 xychart-beta
-    title "supermodeltools/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "supermodeltools/cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [94, 93, 93]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 93（-1）
 
 
 ---

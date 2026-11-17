@@ -1,6 +1,6 @@
 # lulu930128/open-market-intelligence
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lulu930128/open-market-intelligence) · 个人维护 · 中文 README
+⭐ 62 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/lulu930128/open-market-intelligence) · 个人维护 · 中文 README
 
 **本地优先的市场情报与个股研究工作台，以证据为核心**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lulu930128/open-market-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "lulu930128/open-market-intelligence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ike-li/claude-chat-mobile
 
-⭐ 46 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Ike-li/claude-chat-mobile) · [官网](https://ike-li.github.io/claude-chat-mobile/) · 个人维护 · 中文 README
+⭐ 56 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Ike-li/claude-chat-mobile) · [官网](https://ccm.osolee.cc.cd/) · 个人维护 · 中文 README
 
 **自托管手机 Web UI：远程驾驶本机的 Claude Code CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ike-li/claude-chat-mobile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "Ike-li/claude-chat-mobile 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 44 --> 57
+    line [45, 46, 54, 55, 56, 56]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 56（+11）
 
 
 ---

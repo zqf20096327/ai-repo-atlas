@@ -1,6 +1,6 @@
 # yxp934/Prompt-Tree
 
-⭐ 89 · TypeScript · 推送 2026-08-17 · [GitHub](https://github.com/yxp934/Prompt-Tree) · [官网](https://yxp934.github.io/Prompt-Tree/) · 个人维护 · 中文 README
+⭐ 91 · TypeScript · 推送 2026-08-17 · [GitHub](https://github.com/yxp934/Prompt-Tree) · [官网](https://yxp934.github.io/Prompt-Tree/) · 个人维护 · 中文 README
 
 **本地优先 AI 聊天客户端：以节点树分支管理对话与上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yxp934/Prompt-Tree 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "yxp934/Prompt-Tree 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 88 --> 92
+    line [89, 90, 91, 91]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 91（+2）
 
 
 ---

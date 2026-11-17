@@ -1,6 +1,6 @@
 # MaxiDonkey/DelphiAnthropic
 
-⭐ 61 · Pascal · MIT · 推送 2026-09-06 · [GitHub](https://github.com/MaxiDonkey/DelphiAnthropic) · 个人维护
+⭐ 64 · Pascal · MIT · 推送 2026-09-06 · [GitHub](https://github.com/MaxiDonkey/DelphiAnthropic) · 个人维护
 
 **Delphi 语言的 Anthropic Claude API 非官方封装库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxiDonkey/DelphiAnthropic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "MaxiDonkey/DelphiAnthropic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Neph0s/awesome-llm-role-playing-with-persona
 
-⭐ 1,083 · 推送 2026-06-19 · [GitHub](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) · 组织维护 · 中文 README
+⭐ 1,091 · 推送 2026-06-19 · [GitHub](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) · 组织维护 · 中文 README
 
 **LLM 角色扮演（Persona）研究论文策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Neph0s/awesome-llm-role-playing-with-persona 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1077 --> 1084
-    line [1078, 1079, 1080, 1081, 1082, 1083, 1083]
+    title "Neph0s/awesome-llm-role-playing-with-persona 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1077 --> 1092
+    line [1078, 1079, 1080, 1081, 1082, 1083, 1080, 1084, 1086, 1089, 1090, 1091, 1091]
 ```
 
-2026-10-18 1,078 → 2026-11-02 1,083（+5）
+2026-10-18 1,078 → 2026-11-17 1,091（+13）
 
 
 ---

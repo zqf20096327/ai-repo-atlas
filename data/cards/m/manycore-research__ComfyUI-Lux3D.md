@@ -1,6 +1,6 @@
 # manycore-research/ComfyUI-Lux3D
 
-⭐ 135 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/manycore-research/ComfyUI-Lux3D) · 组织维护 · 中文 README
+⭐ 150 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/manycore-research/ComfyUI-Lux3D) · 组织维护 · 中文 README
 
 **ComfyUI 扩展：调用 Lux3D 云服务从图像/文本生成与处理 3D 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "manycore-research/ComfyUI-Lux3D 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 132 --> 136
-    line [133, 134, 135, 135]
+    title "manycore-research/ComfyUI-Lux3D 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 132 --> 151
+    line [133, 134, 135, 145, 149, 150, 150]
 ```
 
-2026-10-18 133 → 2026-11-02 135（+2）
+2026-10-18 133 → 2026-11-17 150（+17）
 
 
 ---

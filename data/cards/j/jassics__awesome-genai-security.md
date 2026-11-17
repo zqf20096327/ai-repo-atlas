@@ -1,6 +1,6 @@
 # jassics/awesome-genai-security
 
-⭐ 88 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jassics/awesome-genai-security) · 个人维护
+⭐ 91 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jassics/awesome-genai-security) · 个人维护
 
 **GenAI/Agentic AI 安全领域链接与资源的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jassics/awesome-genai-security 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 82 --> 89
-    line [83, 84, 85, 87, 88, 88]
+    title "jassics/awesome-genai-security 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 82 --> 92
+    line [83, 84, 85, 87, 88, 84, 89, 90, 91, 91]
 ```
 
-2026-10-18 83 → 2026-11-02 88（+5）
+2026-10-18 83 → 2026-11-17 91（+8）
 
 
 ---

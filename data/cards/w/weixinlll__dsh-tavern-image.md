@@ -1,6 +1,6 @@
 # weixinlll/dsh-tavern-image
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/weixinlll/dsh-tavern-image) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/weixinlll/dsh-tavern-image) · 个人维护 · 中文 README
 
 **DSH Tavern 的剧情配图插件：读取正文选场景并接生图服务出图**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "weixinlll/dsh-tavern-image 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 15, 16, 16]
+    title "weixinlll/dsh-tavern-image 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

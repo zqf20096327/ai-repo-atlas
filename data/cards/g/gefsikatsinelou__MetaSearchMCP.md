@@ -1,6 +1,6 @@
 # gefsikatsinelou/MetaSearchMCP
 
-⭐ 59 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/gefsikatsinelou/MetaSearchMCP) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/gefsikatsinelou/MetaSearchMCP) · 个人维护
 
 **面向 LLM agent 的 MCP 元搜索后端与结构化搜索 API**
 
@@ -45,13 +45,13 @@ Python FastAPI 实现的元搜索网关：并发聚合多个搜索提供商，�
 
 ```mermaid
 xychart-beta
-    title "gefsikatsinelou/MetaSearchMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 58 --> 61
-    line [60, 59, 59]
+    title "gefsikatsinelou/MetaSearchMCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 56 --> 61
+    line [60, 59, 57, 58, 58]
 ```
 
-2026-10-18 60 → 2026-11-02 59（-1）
+2026-10-18 60 → 2026-11-17 58（-2）
 
 
 ---

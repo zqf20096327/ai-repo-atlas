@@ -1,6 +1,6 @@
 # opengeos/geoai-skills
 
-⭐ 35 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/opengeos/geoai-skills) · 个人维护
+⭐ 38 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/opengeos/geoai-skills) · 个人维护
 
 **给 Claude Code 加地理空间 AI 技能的插件：探查、下载、检测影像**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opengeos/geoai-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "opengeos/geoai-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 36, 37, 38, 38]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 38（+4）
 
 
 ---

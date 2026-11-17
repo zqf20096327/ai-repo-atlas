@@ -1,6 +1,6 @@
 # H-Ali13381/wakeword-forge
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/H-Ali13381/wakeword-forge) · 个人维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/H-Ali13381/wakeword-forge) · 个人维护
 
 **本地训练自定义唤醒词并导出 ONNX 检测模型的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "H-Ali13381/wakeword-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "H-Ali13381/wakeword-forge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

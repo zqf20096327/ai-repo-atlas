@@ -1,6 +1,6 @@
 # dariyooo/DaKanji
 
-⭐ 140 · Dart · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/dariyooo/DaKanji) · [官网](https://dakanji.app) · 个人维护
+⭐ 141 · Dart · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/dariyooo/DaKanji) · [官网](https://dakanji.app) · 个人维护
 
 **日语学习者的离线汉字手写识别与词典查词应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dariyooo/DaKanji 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 138 --> 141
-    line [140, 139, 140, 140]
+    title "dariyooo/DaKanji 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 138 --> 142
+    line [140, 139, 140, 139, 141, 141]
 ```
 
-2026-10-18 140 → 2026-11-02 140（+0）
+2026-10-18 140 → 2026-11-17 141（+1）
 
 
 ---

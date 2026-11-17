@@ -1,6 +1,6 @@
 # hamc/blastproof
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/hamc/blastproof) · [官网](https://www.npmjs.com/package/blastproof) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/hamc/blastproof) · [官网](https://www.npmjs.com/package/blastproof) · 个人维护
 
 **面向 PR 的 AI 端到端测试代理：按 diff 影响选跑、补草稿并打分卡合并**
 
@@ -46,12 +46,12 @@ Node.js CLI（Node >= 20.19）形式的 CI 端到端测试代理：以纯英文 
 ```mermaid
 xychart-beta
     title "hamc/blastproof 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # william-ricchiuti/OpenCode-goal-plugin
 
-⭐ 286 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/william-ricchiuti/OpenCode-goal-plugin) · [官网](https://www.npmjs.com/package/opencode-goal-plugin) · 个人维护
+⭐ 289 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/william-ricchiuti/OpenCode-goal-plugin) · [官网](https://www.npmjs.com/package/opencode-goal-plugin) · 个人维护
 
 **OpenCode 插件：为会话设定受守护的持久目标工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "william-ricchiuti/OpenCode-goal-plugin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 279 --> 287
-    line [280, 281, 282, 283, 284, 285, 286]
+    title "william-ricchiuti/OpenCode-goal-plugin 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 279 --> 290
+    line [280, 281, 282, 283, 284, 285, 286, 284, 288, 289, 289]
 ```
 
-2026-10-18 280 → 2026-11-02 286（+6）
+2026-10-18 280 → 2026-11-17 289（+9）
 
 
 ---

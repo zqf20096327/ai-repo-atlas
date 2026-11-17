@@ -1,6 +1,6 @@
 # AEmotionStudio/ComfyUI-DiscordSend
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-DiscordSend) · [官网](https://aemotionstudio.org/) · 组织维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-DiscordSend) · [官网](https://aemotionstudio.org/) · 组织维护
 
 **把 ComfyUI 生成的图像/视频经 webhook 直发 Discord 的扩展**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点扩展，包含图像与视频两个节点：图像节点
 
 ```mermaid
 xychart-beta
-    title "AEmotionStudio/ComfyUI-DiscordSend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "AEmotionStudio/ComfyUI-DiscordSend 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

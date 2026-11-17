@@ -1,6 +1,6 @@
 # langfuse/langfuse-terraform-aws
 
-⭐ 64 · HCL · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langfuse/langfuse-terraform-aws) · 组织维护
+⭐ 65 · HCL · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langfuse/langfuse-terraform-aws) · 组织维护
 
 **在 AWS 上部署 Langfuse 的 Terraform 模块**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langfuse/langfuse-terraform-aws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "langfuse/langfuse-terraform-aws 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

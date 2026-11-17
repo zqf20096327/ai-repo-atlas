@@ -1,6 +1,6 @@
 # elixir-vibe/vibe
 
-⭐ 113 · Elixir · MIT · 推送 2026-06-11 · [GitHub](https://github.com/elixir-vibe/vibe) · [官网](https://hexdocs.pm/vibe) · 组织维护
+⭐ 115 · Elixir · MIT · 推送 2026-06-11 · [GitHub](https://github.com/elixir-vibe/vibe) · [官网](https://hexdocs.pm/vibe) · 组织维护
 
 **面向 Elixir/OTP 项目的 BEAM 原生编码 agent（终端+Web）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elixir-vibe/vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 110 --> 114
-    line [111, 113, 113]
+    title "elixir-vibe/vibe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 110 --> 116
+    line [111, 113, 114, 115, 115]
 ```
 
-2026-10-18 111 → 2026-11-02 113（+2）
+2026-10-18 111 → 2026-11-17 115（+4）
 
 
 ---

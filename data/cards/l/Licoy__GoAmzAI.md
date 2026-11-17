@@ -1,6 +1,6 @@
 # Licoy/GoAmzAI
 
-⭐ 484 · 推送 2026-07-14 · [GitHub](https://github.com/Licoy/GoAmzAI) · [官网](https://d.goamzai.com) · 组织维护 · 中文 README
+⭐ 488 · 推送 2026-07-14 · [GitHub](https://github.com/Licoy/GoAmzAI) · [官网](https://d.goamzai.com) · 组织维护 · 中文 README
 
 **私有化部署的多用户 AIGC 平台：AI 对话/绘画/视频/音乐/PPT**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Licoy/GoAmzAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 482 --> 485
-    line [483, 484, 484]
+    title "Licoy/GoAmzAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 482 --> 489
+    line [483, 484, 483, 485, 486, 487, 488, 488]
 ```
 
-2026-10-18 483 → 2026-11-02 484（+1）
+2026-10-18 483 → 2026-11-17 488（+5）
 
 
 ---

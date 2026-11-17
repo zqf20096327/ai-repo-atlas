@@ -1,6 +1,6 @@
 # lsoft/FreeAIr
 
-⭐ 30 · C# · MIT · 推送 2026-09-22 · [GitHub](https://github.com/lsoft/FreeAIr) · [官网](https://github.com/lsoft/FreeAIr) · 个人维护 · 中文 README
+⭐ 31 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/lsoft/FreeAIr) · [官网](https://github.com/lsoft/FreeAIr) · 个人维护 · 中文 README
 
 **Visual Studio 2022/2026 扩展：免费接入任意 OpenAI 兼容或 Anthropic LLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lsoft/FreeAIr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "lsoft/FreeAIr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 29 --> 33
-    line [32, 30, 30]
+    line [32, 30, 32, 31, 31]
 ```
 
-2026-10-18 32 → 2026-11-02 30（-2）
+2026-10-18 32 → 2026-11-17 31（-1）
 
 
 ---

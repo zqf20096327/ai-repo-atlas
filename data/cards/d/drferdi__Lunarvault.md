@@ -1,6 +1,6 @@
 # drferdi/Lunarvault
 
-⭐ 11 · PowerShell · MIT · 推送 2026-07-03 · [GitHub](https://github.com/drferdi/Lunarvault) · 个人维护
+⭐ 12 · PowerShell · MIT · 推送 2026-07-03 · [GitHub](https://github.com/drferdi/Lunarvault) · 个人维护
 
 **给 Codex 用户的可移植记忆系统覆盖包：本地检索与上下文注入**
 
@@ -45,13 +45,13 @@ Lunar Vault 是面向 Codex 运行时的可分发记忆系统覆盖包（overlay
 
 ```mermaid
 xychart-beta
-    title "drferdi/Lunarvault 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "drferdi/Lunarvault 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

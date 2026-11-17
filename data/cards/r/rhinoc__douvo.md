@@ -1,6 +1,6 @@
 # rhinoc/douvo
 
-⭐ 13 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rhinoc/douvo) · 个人维护 · 中文 README
+⭐ 14 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rhinoc/douvo) · 个人维护 · 中文 README
 
 **Apple Silicon macOS 菜单栏语音输入应用：ASR 转写加可选 AI 后处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rhinoc/douvo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 13]
+    title "rhinoc/douvo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 11, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

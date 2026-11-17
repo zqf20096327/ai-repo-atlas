@@ -1,6 +1,6 @@
 # Blackleets/aegis
 
-⭐ 27 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Blackleets/aegis) · [官网](https://aegis-sage-eight.vercel.app) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Blackleets/aegis) · [官网](https://aegis-sage-eight.vercel.app) · 个人维护
 
 **自托管 OSINT 态势感知平台：实时地图层+侦察工具+AI 简报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blackleets/aegis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Blackleets/aegis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

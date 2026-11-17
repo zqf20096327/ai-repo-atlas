@@ -1,6 +1,6 @@
 # RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting
 
-⭐ 170 · Python · 推送 2026-02-28 · [GitHub](https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting) · 个人维护
+⭐ 171 · Python · 推送 2026-02-28 · [GitHub](https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting) · 个人维护
 
 **基于姿态估计与 BiLSTM 的实时健身动作识别与计数 Web 应用**
 
@@ -45,13 +45,13 @@ Streamlit Web 应用：通过 MediaPipe 提取人体关键点，用 LSTM/BiLSTM 
 
 ```mermaid
 xychart-beta
-    title "RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 169 --> 171
-    line [170, 170]
+    title "RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 169 --> 172
+    line [170, 171, 171]
 ```
 
-2026-10-18 170 → 2026-11-02 170（+0）
+2026-10-18 170 → 2026-11-17 171（+1）
 
 
 ---

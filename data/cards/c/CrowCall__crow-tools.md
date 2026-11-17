@@ -1,6 +1,6 @@
 # CrowCall/crow-tools
 
-⭐ 30 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/CrowCall/crow-tools) · [官网](http://crowtools.org) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/CrowCall/crow-tools) · [官网](http://crowtools.org) · 个人维护
 
 **鸦科发声分析工具包：下载、降噪、检测、分类鸦叫并标注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CrowCall/crow-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "CrowCall/crow-tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

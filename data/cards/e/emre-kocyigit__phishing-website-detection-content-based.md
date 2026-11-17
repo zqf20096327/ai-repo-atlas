@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emre-kocyigit/phishing-website-detection-content-based 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "emre-kocyigit/phishing-website-detection-content-based 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    line [34, 33, 34, 33, 33]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 33（-1）
 
 
 ---

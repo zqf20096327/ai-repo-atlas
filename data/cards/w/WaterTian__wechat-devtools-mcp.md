@@ -1,6 +1,6 @@
 # WaterTian/wechat-devtools-mcp
 
-⭐ 159 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/WaterTian/wechat-devtools-mcp) · 个人维护 · 中文 README
+⭐ 167 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/WaterTian/wechat-devtools-mcp) · 个人维护 · 中文 README
 
 **封装微信开发者工具为 MCP 服务，让编辑器 AI 编译调试小程序**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WaterTian/wechat-devtools-mcp 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 153 --> 160
-    line [154, 155, 156, 157, 159, 159]
+    title "WaterTian/wechat-devtools-mcp 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 153 --> 168
+    line [154, 155, 156, 157, 159, 155, 164, 166, 167, 167]
 ```
 
-2026-10-22 154 → 2026-11-02 159（+5）
+2026-10-22 154 → 2026-11-17 167（+13）
 
 
 ---

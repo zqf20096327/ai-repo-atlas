@@ -1,6 +1,6 @@
 # faucetsdn/poseidon
 
-⭐ 434 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/faucetsdn/poseidon) · 组织维护
+⭐ 436 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/faucetsdn/poseidon) · 组织维护
 
 **基于 SDN 与机器学习的网络设备识别与态势感知工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "faucetsdn/poseidon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 433 --> 435
-    line [434, 434]
+    title "faucetsdn/poseidon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 433 --> 437
+    line [434, 435, 436, 436]
 ```
 
-2026-10-18 434 → 2026-11-02 434（+0）
+2026-10-18 434 → 2026-11-17 436（+2）
 
 
 ---

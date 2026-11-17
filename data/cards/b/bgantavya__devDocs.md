@@ -1,6 +1,6 @@
 # bgantavya/devDocs
 
-⭐ 14 · Python · 推送 2026-04-01 · [GitHub](https://github.com/bgantavya/devDocs) · [官网](https://pypi.org/project/devDocs/) · 个人维护
+⭐ 14 · Python · 推送 2026-11-11 · [GitHub](https://github.com/bgantavya/devDocs) · [官网](https://pypi.org/project/devDocs/) · 个人维护
 
 **给开发者的 CLI 工具：用 Gemini 自动生成项目 README**
 
@@ -45,12 +45,12 @@ Python 命令行工具 devDocs：扫描项目目录与源码文件，解析代�
 ```mermaid
 xychart-beta
     title "bgantavya/devDocs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

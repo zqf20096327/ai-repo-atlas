@@ -1,6 +1,6 @@
 # shinbunbun/llama-cpp-p100-patches
 
-⭐ 57 · Nix · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shinbunbun/llama-cpp-p100-patches) · 个人维护 · 中文 README
+⭐ 64 · Nix · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shinbunbun/llama-cpp-p100-patches) · 个人维护 · 中文 README
 
 **针对 llama.cpp 的 45 个性能补丁集，在 Tesla P100 上开发并测量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shinbunbun/llama-cpp-p100-patches 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 50 --> 58
-    line [51, 53, 55, 54, 55, 56, 57]
+    title "shinbunbun/llama-cpp-p100-patches 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 50 --> 65
+    line [51, 53, 55, 54, 55, 56, 57, 54, 60, 62, 63, 64, 64]
 ```
 
-2026-10-18 51 → 2026-11-02 57（+6）
+2026-10-18 51 → 2026-11-17 64（+13）
 
 
 ---

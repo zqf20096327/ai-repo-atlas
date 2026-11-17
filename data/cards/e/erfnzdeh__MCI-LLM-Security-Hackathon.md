@@ -1,6 +1,6 @@
 # erfnzdeh/MCI-LLM-Security-Hackathon
 
-⭐ 101 · Jupyter Notebook · 推送 2026-08-08 · [GitHub](https://github.com/erfnzdeh/MCI-LLM-Security-Hackathon) · 个人维护
+⭐ 100 · Jupyter Notebook · 推送 2026-08-08 · [GitHub](https://github.com/erfnzdeh/MCI-LLM-Security-Hackathon) · 个人维护
 
 **MCI LLM 安全黑客松参赛日记：越狱攻击全过程存档**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "erfnzdeh/MCI-LLM-Security-Hackathon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "erfnzdeh/MCI-LLM-Security-Hackathon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 98 --> 102
-    line [99, 101, 101]
+    line [99, 101, 100, 100]
 ```
 
-2026-10-18 99 → 2026-11-02 101（+2）
+2026-10-18 99 → 2026-11-17 100（+1）
 
 
 ---

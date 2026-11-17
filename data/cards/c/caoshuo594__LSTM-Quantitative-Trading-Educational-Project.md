@@ -1,6 +1,6 @@
 # caoshuo594/LSTM-Quantitative-Trading-Educational-Project
 
-⭐ 14 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/caoshuo594/LSTM-Quantitative-Trading-Educational-Project) · [官网](https://github.com/caoshuo594/LSTM) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/caoshuo594/LSTM-Quantitative-Trading-Educational-Project) · [官网](https://github.com/caoshuo594/LSTM) · 个人维护
 
 **教学项目：用 LSTM 训练 EURUSD 预测模型并经 ONNX 部署到 MT5**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "caoshuo594/LSTM-Quantitative-Trading-Educational-Project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "caoshuo594/LSTM-Quantitative-Trading-Educational-Project 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # cognitive-fab/polygraph
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/cognitive-fab/polygraph) · [官网](https://cognitivefab.com) · 组织维护
+⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/cognitive-fab/polygraph) · [官网](https://cognitivefab.com) · 组织维护
 
 **面向有状态代码的 LLM 形式化验证插件：自动建模并穷举检查**
 
@@ -45,13 +45,13 @@ Claude Code 插件（兼独立 CLI），用于查找有状态代码（工作流�
 
 ```mermaid
 xychart-beta
-    title "cognitive-fab/polygraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "cognitive-fab/polygraph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zsyu9779/dsh-desktop
 
-⭐ 12 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zsyu9779/dsh-desktop) · [官网](https://zsyu9779.github.io/dsh-desktop/) · 个人维护 · 中文 README
+⭐ 12 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/zsyu9779/dsh-desktop) · [官网](https://zsyu9779.github.io/dsh-desktop/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的非官方跨平台桌面壳（Wails）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zsyu9779/dsh-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-17"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata
 
-⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata) · [官网](https://chat.specul.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在 RTX 5090 笔记本上自托管 Qwen3.8-Flash-Next 177B 的调优实录**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-24g` | |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 19 --> 27
-    line [20, 21, 22, 23, 24, 25, 26]
+    title "lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13"]
+    y-axis "stars" 19 --> 32
+    line [20, 21, 22, 23, 24, 25, 26, 22, 28, 29, 30, 31]
 ```
 
-2026-10-18 20 → 2026-11-02 26（+6）
+2026-10-18 20 → 2026-11-13 31（+11）
 
 
 ---

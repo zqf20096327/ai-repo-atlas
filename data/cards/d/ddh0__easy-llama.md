@@ -1,6 +1,6 @@
 # ddh0/easy-llama
 
-⭐ 106 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ddh0/easy-llama) · 个人维护
+⭐ 106 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ddh0/easy-llama) · 个人维护
 
 **封装 llama.cpp C API 的本地 LLM 推理 Python 库**
 
@@ -46,12 +46,12 @@ Python 包，通过 ctypes 接口封装 llama.cpp 的 C/C++ API（libllama），
 ```mermaid
 xychart-beta
     title "ddh0/easy-llama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-18 106 → 2026-11-02 106（+0）
+2026-10-18 106 → 2026-11-17 106（+0）
 
 
 ---

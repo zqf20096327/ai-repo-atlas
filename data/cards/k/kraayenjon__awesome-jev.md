@@ -1,6 +1,6 @@
 # kraayenjon/awesome-jev
 
-⭐ 204 · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/kraayenjon/awesome-jev) · [官网](https://madewithjev.com) · 组织维护
+⭐ 207 · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/kraayenjon/awesome-jev) · [官网](https://madewithjev.com) · 组织维护
 
 **Jev（TypeSafe AI System One 模型）用例与资源策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kraayenjon/awesome-jev 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 192 --> 205
-    line [193, 195, 198, 200, 202, 203, 204, 204]
+    title "kraayenjon/awesome-jev 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 192 --> 208
+    line [193, 195, 198, 200, 202, 203, 204, 200, 206, 207, 207]
 ```
 
-2026-10-18 193 → 2026-11-02 204（+11）
+2026-10-18 193 → 2026-11-17 207（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # gquthier/CLAWG
 
-⭐ 18 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/gquthier/CLAWG) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/gquthier/CLAWG) · 个人维护
 
 **让多个 agent 共享同一 Obsidian 知识库上下文的自主 agent 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gquthier/CLAWG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "gquthier/CLAWG 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 17, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 18（+2）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

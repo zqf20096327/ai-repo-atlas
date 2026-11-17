@@ -1,6 +1,6 @@
 # kayba-ai/recursive-improve
 
-⭐ 300 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/kayba-ai/recursive-improve) · [官网](https://kayba.ai/) · 组织维护
+⭐ 302 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/kayba-ai/recursive-improve) · [官网](https://kayba.ai/) · 组织维护
 
 **让编码 agent 递归自我改进的追踪与评测工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kayba-ai/recursive-improve 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 293 --> 301
-    line [295, 294, 297, 299, 300, 300]
+    title "kayba-ai/recursive-improve 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 293 --> 303
+    line [295, 294, 297, 299, 300, 297, 300, 301, 302, 302]
 ```
 
-2026-10-18 295 → 2026-11-02 300（+5）
+2026-10-18 295 → 2026-11-17 302（+7）
 
 
 ---

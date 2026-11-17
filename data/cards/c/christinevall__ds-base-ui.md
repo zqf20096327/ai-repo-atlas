@@ -1,6 +1,6 @@
 # christinevall/ds-base-ui
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/christinevall/ds-base-ui) · [官网](https://christinevall.github.io/ds-base-ui/) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/christinevall/ds-base-ui) · [官网](https://christinevall.github.io/ds-base-ui/) · 个人维护
 
 **供设计师学习 AI 设计系统工作流的教学型设计系统仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "christinevall/ds-base-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "christinevall/ds-base-ui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

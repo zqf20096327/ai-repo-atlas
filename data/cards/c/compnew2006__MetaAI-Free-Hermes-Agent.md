@@ -1,6 +1,6 @@
 # compnew2006/MetaAI-Free-Hermes-Agent
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent) · [官网](https://github.com/compnew2006/SMART_Studio_meta.ai_free) · 个人维护
+⭐ 39 · TypeScript · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent) · [官网](https://github.com/compnew2006/SMART_Studio_meta.ai_free) · 个人维护
 
 **自托管 Go 代理：把 Meta AI 包装为 OpenAI 兼容端点供 Hermes Agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "compnew2006/MetaAI-Free-Hermes-Agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 29 --> 34
-    line [30, 32, 33, 33]
+    title "compnew2006/MetaAI-Free-Hermes-Agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 29 --> 40
+    line [30, 32, 33, 30, 38, 39, 39]
 ```
 
-2026-10-18 30 → 2026-11-02 33（+3）
+2026-10-18 30 → 2026-11-17 39（+9）
 
 
 ---

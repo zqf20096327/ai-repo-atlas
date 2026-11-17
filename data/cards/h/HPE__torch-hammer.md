@@ -1,6 +1,6 @@
 # HPE/torch-hammer
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/HPE/torch-hammer) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/HPE/torch-hammer) · 组织维护
 
 **面向 CPU/GPU/APU 的 PyTorch 微基准压测套件**
 
@@ -44,13 +44,13 @@ HPE 维护的跨平台硬件压测与性能评估工具：基于 PyTorch 提供 
 
 ```mermaid
 xychart-beta
-    title "HPE/torch-hammer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 13 --> 18
-    line [14, 17, 17]
+    title "HPE/torch-hammer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 17（+3）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

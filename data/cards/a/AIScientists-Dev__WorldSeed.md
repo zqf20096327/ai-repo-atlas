@@ -1,6 +1,6 @@
 # AIScientists-Dev/WorldSeed
 
-⭐ 822 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/AIScientists-Dev/WorldSeed) · [官网](https://worldseed.morphmind.ai/demo) · 组织维护 · 中文 README
+⭐ 829 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/AIScientists-Dev/WorldSeed) · [官网](https://worldseed.morphmind.ai/demo) · 组织维护 · 中文 README
 
 **多智能体世界引擎：用 YAML 定义规则驱动 AI 智能体涌现交互**
 
@@ -46,13 +46,13 @@ WorldSeed 是一个多智能体世界引擎：用单个 YAML 文件声明实体�
 
 ```mermaid
 xychart-beta
-    title "AIScientists-Dev/WorldSeed 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 820 --> 823
-    line [821, 822, 821, 822, 822]
+    title "AIScientists-Dev/WorldSeed 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 820 --> 830
+    line [821, 822, 821, 822, 821, 824, 828, 827, 828, 829, 829]
 ```
 
-2026-10-18 821 → 2026-11-02 822（+1）
+2026-10-18 821 → 2026-11-17 829（+8）
 
 
 ---

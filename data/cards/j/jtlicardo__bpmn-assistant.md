@@ -1,6 +1,6 @@
 # jtlicardo/bpmn-assistant
 
-⭐ 174 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jtlicardo/bpmn-assistant) · [官网](https://bpmn-frontend.onrender.com) · 个人维护
+⭐ 178 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jtlicardo/bpmn-assistant) · [官网](https://bpmn-frontend.onrender.com) · 个人维护
 
 **LLM 助手：把自然语言流程描述转成可编辑 BPMN 图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtlicardo/bpmn-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 170 --> 175
-    line [171, 172, 174, 174]
+    title "jtlicardo/bpmn-assistant 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 170 --> 179
+    line [171, 172, 174, 172, 175, 176, 177, 178, 178]
 ```
 
-2026-10-18 171 → 2026-11-02 174（+3）
+2026-10-18 171 → 2026-11-17 178（+7）
 
 
 ---

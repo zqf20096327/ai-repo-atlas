@@ -1,6 +1,6 @@
 # youngcoder45/Student-Performance-Predictor
 
-⭐ 15 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/youngcoder45/Student-Performance-Predictor) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/youngcoder45/Student-Performance-Predictor) · 个人维护
 
 **用机器学习预测学生期末成绩与及格结果的端到端项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "youngcoder45/Student-Performance-Predictor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "youngcoder45/Student-Performance-Predictor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

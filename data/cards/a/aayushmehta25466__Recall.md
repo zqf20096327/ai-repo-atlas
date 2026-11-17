@@ -1,6 +1,6 @@
 # aayushmehta25466/Recall
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/aayushmehta25466/Recall) · 个人维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/aayushmehta25466/Recall) · 个人维护
 
 **本地优先的浏览器书签自动整理扩展，AI 可选**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aayushmehta25466/Recall 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "aayushmehta25466/Recall 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

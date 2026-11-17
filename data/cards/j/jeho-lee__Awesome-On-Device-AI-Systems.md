@@ -1,6 +1,6 @@
 # jeho-lee/Awesome-On-Device-AI-Systems
 
-⭐ 192 · 推送 2026-09-14 · [GitHub](https://github.com/jeho-lee/Awesome-On-Device-AI-Systems) · 个人维护
+⭐ 195 · 推送 2026-11-14 · [GitHub](https://github.com/jeho-lee/Awesome-On-Device-AI-Systems) · 个人维护
 
 **端侧 AI 系统策展清单：推理引擎与顶会研究论文汇编**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeho-lee/Awesome-On-Device-AI-Systems 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 189 --> 193
-    line [190, 192, 191, 192, 192]
+    title "jeho-lee/Awesome-On-Device-AI-Systems 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 189 --> 196
+    line [190, 192, 191, 192, 191, 192, 193, 194, 195, 195]
 ```
 
-2026-10-18 190 → 2026-11-02 192（+2）
+2026-10-18 190 → 2026-11-17 195（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbdelStark/anthropic-rs
 
-⭐ 82 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/AbdelStark/anthropic-rs) · [官网](https://docs.rs/anthropic) · 个人维护
+⭐ 83 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/AbdelStark/anthropic-rs) · [官网](https://docs.rs/anthropic) · 个人维护
 
 **面向 Rust 开发者的 Anthropic Messages API 异步 SDK**
 
@@ -44,13 +44,13 @@ Typed async Rust 客户端库，封装 Anthropic Messages API：结构化请求�
 
 ```mermaid
 xychart-beta
-    title "AbdelStark/anthropic-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 80 --> 83
-    line [81, 82, 82]
+    title "AbdelStark/anthropic-rs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 80 --> 84
+    line [81, 82, 81, 82, 83, 83]
 ```
 
-2026-10-18 81 → 2026-11-02 82（+1）
+2026-10-18 81 → 2026-11-17 83（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # prajeesh-chavan/OpenLLM-Monitor
 
-⭐ 45 · JavaScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/prajeesh-chavan/OpenLLM-Monitor) · 个人维护
+⭐ 46 · JavaScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/prajeesh-chavan/OpenLLM-Monitor) · 个人维护
 
 **自托管 LLM API 调用实时监控与调试仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prajeesh-chavan/OpenLLM-Monitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "prajeesh-chavan/OpenLLM-Monitor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

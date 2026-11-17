@@ -1,6 +1,6 @@
 # onfire7777/universal-ai-skills-library
 
-⭐ 16 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/onfire7777/universal-ai-skills-library) · [官网](https://github.com/onfire7777/universal-ai-skills-library/wiki) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/onfire7777/universal-ai-skills-library) · [官网](https://github.com/onfire7777/universal-ai-skills-library/wiki) · 个人维护
 
 **为多款 AI 客户端提供共享技能库与按需路由加载的技能系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "onfire7777/universal-ai-skills-library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "onfire7777/universal-ai-skills-library 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

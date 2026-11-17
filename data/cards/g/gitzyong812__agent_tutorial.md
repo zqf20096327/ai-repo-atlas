@@ -1,6 +1,6 @@
 # gitzyong812/agent_tutorial
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/gitzyong812/agent_tutorial) · 个人维护 · 中文 README
+⭐ 26 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/gitzyong812/agent_tutorial) · 个人维护 · 中文 README
 
 **智能体构建开源教程：八章从大模型调用到一人公司应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gitzyong812/agent_tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "gitzyong812/agent_tutorial 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

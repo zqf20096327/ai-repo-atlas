@@ -1,6 +1,6 @@
 # MiiFlow/miiflow-agent
 
-⭐ 19 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/MiiFlow/miiflow-agent) · [官网](https://www.miiflow.ai) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MiiFlow/miiflow-agent) · [官网](https://www.miiflow.ai) · 组织维护
 
 **模型无关的 Python agent 框架：统一 API 接 9 家 LLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiiFlow/miiflow-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "MiiFlow/miiflow-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeekeScript/ad-ai-chat
 
-⭐ 75 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/DeekeScript/ad-ai-chat) · [官网](http://101.43.47.185:8080) · 个人维护 · 中文 README
+⭐ 72 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/DeekeScript/ad-ai-chat) · [官网](http://101.43.47.185:8080) · 个人维护 · 中文 README
 
 **付费商用的 LLM 角色扮演聊天系统源码（含语音与多端）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeekeScript/ad-ai-chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 72 --> 77
-    line [73, 76, 75, 75]
+    title "DeekeScript/ad-ai-chat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 71 --> 77
+    line [73, 76, 75, 72, 73, 72, 72]
 ```
 
-2026-10-18 73 → 2026-11-02 75（+2）
+2026-10-18 73 → 2026-11-17 72（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NabiKAZ/vscode-copilot-rtl
 
-⭐ 32 · JavaScript · GPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/NabiKAZ/vscode-copilot-rtl) · 个人维护
+⭐ 32 · JavaScript · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/NabiKAZ/vscode-copilot-rtl) · 个人维护
 
 **为 VS Code Copilot Chat 面板添加 RTL（右到左）文字支持的扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NabiKAZ/vscode-copilot-rtl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

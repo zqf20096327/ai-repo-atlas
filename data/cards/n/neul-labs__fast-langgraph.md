@@ -1,6 +1,6 @@
 # neul-labs/fast-langgraph
 
-⭐ 27 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/neul-labs/fast-langgraph) · [官网](https://fast-langgraph.neullabs.com) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/neul-labs/fast-langgraph) · [官网](https://fast-langgraph.neullabs.com) · 组织维护
 
 **LangGraph 的 Rust 加速组件：提速检查点与状态管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neul-labs/fast-langgraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "neul-labs/fast-langgraph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

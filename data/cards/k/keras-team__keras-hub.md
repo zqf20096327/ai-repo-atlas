@@ -1,6 +1,6 @@
 # keras-team/keras-hub
 
-⭐ 997 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/keras-team/keras-hub) · [官网](https://keras.io/keras_hub/) · 组织维护
+⭐ 999 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/keras-team/keras-hub) · [官网](https://keras.io/keras_hub/) · 组织维护
 
 **Keras 3 多框架预训练模型库：文本/图像/音频开箱即用**
 
@@ -45,13 +45,13 @@ Keras 3 的预训练建模库，提供主流模型架构的 Keras 实现及 Kagg
 
 ```mermaid
 xychart-beta
-    title "keras-team/keras-hub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 993 --> 998
-    line [994, 995, 996, 997]
+    title "keras-team/keras-hub 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 993 --> 1000
+    line [994, 995, 996, 997, 995, 997, 998, 999, 999]
 ```
 
-2026-10-18 994 → 2026-11-02 997（+3）
+2026-10-18 994 → 2026-11-17 999（+5）
 
 
 ---

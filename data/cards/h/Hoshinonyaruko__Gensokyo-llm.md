@@ -1,6 +1,6 @@
 # Hoshinonyaruko/Gensokyo-llm
 
-⭐ 138 · Go · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/Hoshinonyaruko/Gensokyo-llm) · [官网](https://gensokyo.bot) · 个人维护 · 中文 README
+⭐ 137 · Go · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/Hoshinonyaruko/Gensokyo-llm) · [官网](https://gensokyo.bot) · 个人维护 · 中文 README
 
 **面向 Onebot11/Gensokyo 的大模型一键接入与统一 API 网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hoshinonyaruko/Gensokyo-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 137 --> 140
-    line [139, 138, 138]
+    title "Hoshinonyaruko/Gensokyo-llm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 136 --> 140
+    line [139, 138, 139, 137, 137]
 ```
 
-2026-10-18 139 → 2026-11-02 138（-1）
+2026-10-18 139 → 2026-11-17 137（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # infobubble/infobubble-support
 
-⭐ 71 · 推送 2026-10-27 · [GitHub](https://github.com/infobubble/infobubble-support) · [官网](https://infobubble.github.io/infobubble-support/) · 个人维护
+⭐ 75 · 推送 2026-11-11 · [GitHub](https://github.com/infobubble/infobubble-support) · [官网](https://infobubble.github.io/infobubble-support/) · 个人维护
 
 **macOS 新闻阅读器 InfoBubble 的支持页与 RSS 源目录**
 
@@ -44,13 +44,13 @@ InfoBubble 是 macOS 上的 RSS/网站新闻聚合应用（App Store 分发，ma
 
 ```mermaid
 xychart-beta
-    title "infobubble/infobubble-support 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    title "infobubble/infobubble-support 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 69 --> 76
+    line [70, 71, 72, 74, 75, 75]
 ```
 
-2026-10-18 70 → 2026-11-02 71（+1）
+2026-10-18 70 → 2026-11-17 75（+5）
 
 
 ---

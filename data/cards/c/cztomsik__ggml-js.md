@@ -1,6 +1,6 @@
 # cztomsik/ggml-js
 
-⭐ 44 · JavaScript · MIT · 推送 2025-11-10 · [GitHub](https://github.com/cztomsik/ggml-js) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **GGML 张量库的 JavaScript 绑定，供 JS 中运行 ML 模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "cztomsik/ggml-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-07 44（+0）
 
 
 ---

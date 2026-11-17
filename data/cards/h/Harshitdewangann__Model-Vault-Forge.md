@@ -1,6 +1,6 @@
 # Harshitdewangann/Model-Vault-Forge
 
-⭐ 56 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/Harshitdewangann/Model-Vault-Forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-14 · [GitHub](https://github.com/Harshitdewangann/Model-Vault-Forge) · 个人维护
 
 **面向研究与企业团队的模型构建、调优与部署套件**
 
@@ -46,12 +46,12 @@ NeuralForge Studio 宣称为开源模型装配、调优与部署套件，功能�
 ```mermaid
 xychart-beta
     title "Harshitdewangann/Model-Vault-Forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 54 --> 57
     line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

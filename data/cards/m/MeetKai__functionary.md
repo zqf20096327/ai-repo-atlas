@@ -1,6 +1,6 @@
 # MeetKai/functionary
 
-⭐ 1,593 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/MeetKai/functionary) · 组织维护
+⭐ 1,591 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/MeetKai/functionary) · 组织维护
 
 **支持工具调用的开源对话语言模型（含代码解释器）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MeetKai/functionary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1592 --> 1594
-    line [1593, 1593]
+    title "MeetKai/functionary 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1590 --> 1594
+    line [1593, 1592, 1591, 1591]
 ```
 
-2026-10-18 1,593 → 2026-11-02 1,593（+0）
+2026-10-18 1,593 → 2026-11-17 1,591（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # THU-Team-Eureka/EurekAgent
 
-⭐ 87 · Python · AGPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) · 组织维护 · 中文 README
+⭐ 88 · Python · AGPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) · 组织维护 · 中文 README
 
 **驱动 Claude Code 做指标驱动自主科学发现的 agent 系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "THU-Team-Eureka/EurekAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 83 --> 88
-    line [84, 85, 86, 87, 87]
+    title "THU-Team-Eureka/EurekAgent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 89
+    line [84, 85, 86, 87, 85, 88, 88]
 ```
 
-2026-10-18 84 → 2026-11-02 87（+3）
+2026-10-18 84 → 2026-11-17 88（+4）
 
 
 ---

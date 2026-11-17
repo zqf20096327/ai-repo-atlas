@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyrusbehr/YOLOv8-TensorRT-CPP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 735 --> 737
-    line [736, 736]
+    title "cyrusbehr/YOLOv8-TensorRT-CPP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 734 --> 737
+    line [736, 735, 736, 736]
 ```
 
-2026-10-18 736 → 2026-11-02 736（+0）
+2026-10-18 736 → 2026-11-17 736（+0）
 
 
 ---

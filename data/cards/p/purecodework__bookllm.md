@@ -1,6 +1,6 @@
 # purecodework/bookllm
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/purecodework/bookllm) · 组织维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/purecodework/bookllm) · 组织维护 · 中文 README
 
 **自托管书籍翻译应用：双语阅读、术语表、审校与润色流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "purecodework/bookllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [47, 46, 46]
+    title "purecodework/bookllm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [47, 46, 44, 44]
 ```
 
-2026-10-18 47 → 2026-11-02 46（-1）
+2026-10-18 47 → 2026-11-17 44（-3）
 
 
 ---

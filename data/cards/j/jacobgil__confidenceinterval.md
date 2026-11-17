@@ -40,6 +40,18 @@
 > L11: This is a package that computes common machine learning metrics like F1, and returns their confidence intervals.
 > L110: ## Get a confidence interval for any custom metric with Bootstrapping
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jacobgil/confidenceinterval 星数(近 2 点)"
+    x-axis ["2026-11-02", "2026-11-17"]
+    y-axis "stars" 145 --> 147
+    line [146, 146]
+```
+
+2026-11-02 146 → 2026-11-17 146（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 high · 依据 README sha `23617d44279b` · [字段定义](../../DATASET.md)*

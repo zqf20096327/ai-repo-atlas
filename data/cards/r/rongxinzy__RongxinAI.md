@@ -1,6 +1,6 @@
 # rongxinzy/RongxinAI
 
-⭐ 161 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/rongxinzy/RongxinAI) · [官网](https://www.rongxzyai.com) · 组织维护 · 中文 README
+⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/rongxinzy/RongxinAI) · [官网](https://www.rongxzyai.com) · 组织维护 · 中文 README
 
 **本地优先的开源桌面 AI 智能体，可从微信/飞书/钉钉派任务**
 
@@ -44,13 +44,13 @@ Electron 桌面 AI agent（ZhiYuan Agent）：内置免费模型可零 API key �
 
 ```mermaid
 xychart-beta
-    title "rongxinzy/RongxinAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 154 --> 162
-    line [155, 161, 161]
+    title "rongxinzy/RongxinAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 154 --> 163
+    line [155, 161, 162, 162]
 ```
 
-2026-10-18 155 → 2026-11-02 161（+6）
+2026-10-18 155 → 2026-11-17 162（+7）
 
 
 ---

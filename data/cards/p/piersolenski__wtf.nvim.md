@@ -1,6 +1,6 @@
 # piersolenski/wtf.nvim
 
-⭐ 609 · Lua · WTFPL · 推送 2026-06-02 · [GitHub](https://github.com/piersolenski/wtf.nvim) · 个人维护
+⭐ 610 · Lua · WTFPL · 推送 2026-06-02 · [GitHub](https://github.com/piersolenski/wtf.nvim) · 个人维护
 
 **Neovim 插件：用 AI 解释与修复 LSP 诊断信息**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "piersolenski/wtf.nvim 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 606 --> 610
-    line [609, 607, 608, 609, 609]
+    title "piersolenski/wtf.nvim 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 606 --> 611
+    line [609, 607, 608, 609, 607, 610, 610]
 ```
 
-2026-10-18 609 → 2026-11-02 609（+0）
+2026-10-18 609 → 2026-11-17 610（+1）
 
 
 ---

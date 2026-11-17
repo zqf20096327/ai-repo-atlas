@@ -1,6 +1,6 @@
 # qforge-dev/torque
 
-⭐ 95 · TypeScript · MIT · 推送 2025-11-19 · [GitHub](https://github.com/qforge-dev/torque) · [官网](https://www.npmjs.com/package/@qforge/torque) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **类型安全的声明式 DSL：用组件式组合构建 LLM 合成数据集**
 
@@ -11,7 +11,7 @@ TypeScript 库，以类 React 组件的方式声明式组合对话 schema，生�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ TypeScript 库，以类 React 组件的方式声明式组合对话 schema，生�
 
 ```mermaid
 xychart-beta
-    title "qforge-dev/torque 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "qforge-dev/torque 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14"]
+    y-axis "stars" 94 --> 97
+    line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-14 96（+1）
 
 
 ---

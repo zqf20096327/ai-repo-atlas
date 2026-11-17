@@ -1,6 +1,6 @@
 # poloclub/wordflow
 
-⭐ 272 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/poloclub/wordflow) · [官网](https://poloclub.github.io/wordflow/) · 组织维护
+⭐ 273 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/poloclub/wordflow) · [官网](https://poloclub.github.io/wordflow/) · 组织维护
 
 **社交化 AI 写作助手：运行提示词、分享提示词社区**
 
@@ -45,13 +45,13 @@ Wordflow 是面向写作用户的 Web 端 AI 助手，支持存储与运行提�
 
 ```mermaid
 xychart-beta
-    title "poloclub/wordflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 271 --> 273
-    line [272, 272]
+    title "poloclub/wordflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 271 --> 274
+    line [272, 273, 273]
 ```
 
-2026-10-18 272 → 2026-11-02 272（+0）
+2026-10-18 272 → 2026-11-17 273（+1）
 
 
 ---

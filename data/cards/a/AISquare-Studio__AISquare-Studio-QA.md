@@ -1,6 +1,6 @@
 # AISquare-Studio/AISquare-Studio-QA
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/AISquare-Studio/AISquare-Studio-QA) · 组织维护
+⭐ 168 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AISquare-Studio/AISquare-Studio-QA) · 组织维护
 
 **GitHub Action：把 PR 中的自然语言测试描述自动生成并执行 Playwright 测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AISquare-Studio/AISquare-Studio-QA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "AISquare-Studio/AISquare-Studio-QA 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 167 --> 170
-    line [168, 169]
+    line [168, 169, 168, 169, 168, 168]
 ```
 
-2026-10-18 168 → 2026-11-02 169（+1）
+2026-10-18 168 → 2026-11-17 168（+0）
 
 
 ---

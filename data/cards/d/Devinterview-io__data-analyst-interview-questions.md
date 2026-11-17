@@ -1,6 +1,6 @@
 # Devinterview-io/data-analyst-interview-questions
 
-⭐ 93 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/data-analyst-interview-questions) · 组织维护
+⭐ 95 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/data-analyst-interview-questions) · 组织维护
 
 **面向求职者的数据分析师面试题库：99 道机器学习与数据科学问答**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的数据分析师面试准备题库，以 Markdown 问答
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/data-analyst-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "Devinterview-io/data-analyst-interview-questions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 94, 95, 95]
 ```
 
-2026-10-18 92 → 2026-11-02 93（+1）
+2026-10-18 92 → 2026-11-17 95（+3）
 
 
 ---

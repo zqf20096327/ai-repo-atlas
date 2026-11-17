@@ -1,6 +1,6 @@
 # JIGGAI/ClawRecipes
 
-⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/JIGGAI/ClawRecipes) · [官网](https://clawkitchen.ai) · 个人维护
+⭐ 103 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/JIGGAI/ClawRecipes) · [官网](https://clawkitchen.ai) · 个人维护
 
 **OpenClaw 插件：用 Markdown 配方脚手架化 agent 团队与文件优先工作流**
 
@@ -45,13 +45,13 @@ ClawRecipes 是一个 OpenClaw 插件（TypeScript/Node.js 18+），以 CLI 优�
 
 ```mermaid
 xychart-beta
-    title "JIGGAI/ClawRecipes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 99 --> 102
-    line [100, 101, 101]
+    title "JIGGAI/ClawRecipes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 99 --> 104
+    line [100, 101, 100, 103, 103]
 ```
 
-2026-10-18 100 → 2026-11-02 101（+1）
+2026-10-18 100 → 2026-11-17 103（+3）
 
 
 ---

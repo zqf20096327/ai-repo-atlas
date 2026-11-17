@@ -1,6 +1,6 @@
 # Ninthless/StackFerry
 
-⭐ 30 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Ninthless/StackFerry) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Ninthless/StackFerry) · 个人维护 · 中文 README
 
 **桌面工具：统一管理 Codex/Claude Code/Grok 的供应商与本地故障转移路由**
 
@@ -44,13 +44,13 @@ Electron 桌面应用，作为编码 CLI 的控制平面：为 Codex、Claude Co
 
 ```mermaid
 xychart-beta
-    title "Ninthless/StackFerry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "Ninthless/StackFerry 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

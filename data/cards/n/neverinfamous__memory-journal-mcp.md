@@ -1,6 +1,6 @@
 # neverinfamous/memory-journal-mcp
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/neverinfamous/memory-journal-mcp) · [官网](https://search.adamic.tech/) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/neverinfamous/memory-journal-mcp) · [官网](https://search.adamic.tech/) · 个人维护
 
 **为 AI 会话提供持久项目记忆与 GitHub 集成的 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "neverinfamous/memory-journal-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "neverinfamous/memory-journal-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21]
+    line [20, 21, 20, 21, 20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

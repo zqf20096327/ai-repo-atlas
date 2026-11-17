@@ -1,6 +1,6 @@
 # vicentereig/dspy.rb
 
-⭐ 240 · Ruby · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/vicentereig/dspy.rb) · [官网](https://oss.vicente.services/dspy.rb/) · 组织维护
+⭐ 241 · Ruby · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/vicentereig/dspy.rb) · [官网](https://oss.vicente.services/dspy.rb/) · 组织维护
 
 **Ruby 版 DSPy：用类型化签名与模块编程 LLM，而非提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vicentereig/dspy.rb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 236 --> 241
-    line [237, 238, 239, 240, 240]
+    title "vicentereig/dspy.rb 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 236 --> 242
+    line [237, 238, 239, 240, 237, 241, 241]
 ```
 
-2026-10-18 237 → 2026-11-02 240（+3）
+2026-10-18 237 → 2026-11-17 241（+4）
 
 
 ---

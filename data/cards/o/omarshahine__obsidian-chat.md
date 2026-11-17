@@ -1,6 +1,6 @@
 # omarshahine/obsidian-chat
 
-⭐ 13 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/omarshahine/obsidian-chat) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-11-04 · [GitHub](https://github.com/omarshahine/obsidian-chat) · 个人维护
 
 **Obsidian 的极简 AI 聊天插件：双供应商，支持移动端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "omarshahine/obsidian-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "omarshahine/obsidian-chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    line [12, 13, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

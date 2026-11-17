@@ -1,6 +1,6 @@
 # WTM30124/XHSWork
 
-⭐ 31 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/WTM30124/XHSWork) · [官网](https://www.xhswork.com/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向小红书创作者的 AI 图文生成 SaaS 平台（可自部署）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WTM30124/XHSWork 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "WTM30124/XHSWork 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-07"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-07 30（+0）
 
 
 ---

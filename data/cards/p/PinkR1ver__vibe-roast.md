@@ -1,6 +1,6 @@
 # PinkR1ver/vibe-roast
 
-⭐ 47 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/PinkR1ver/vibe-roast) · [官网](https://www.npmjs.com/package/vibe-roast) · 个人维护 · 中文 README
+⭐ 45 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/PinkR1ver/vibe-roast) · [官网](https://www.npmjs.com/package/vibe-roast) · 个人维护 · 中文 README
 
 **读取本地 AI 编码历史，生成 16 型编程人格画像与吐槽报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PinkR1ver/vibe-roast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "PinkR1ver/vibe-roast 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [47, 44, 45, 45]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 45（-2）
 
 
 ---

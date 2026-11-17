@@ -1,6 +1,6 @@
 # francescopace/peoplemesh
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/francescopace/peoplemesh) · [官网](https://peoplemesh.org) · 个人维护
+⭐ 12 · Java · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/francescopace/peoplemesh) · [官网](https://peoplemesh.org) · 个人维护
 
 **面向企业内部的人员/机会语义匹配与发现平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "francescopace/peoplemesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

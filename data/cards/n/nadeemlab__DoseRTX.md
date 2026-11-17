@@ -1,6 +1,6 @@
 # nadeemlab/DoseRTX
 
-⭐ 52 · Python · 推送 2026-10-23 · [GitHub](https://github.com/nadeemlab/DoseRTX) · 组织维护
+⭐ 52 · Python · 推送 2026-11-14 · [GitHub](https://github.com/nadeemlab/DoseRTX) · 组织维护
 
 **面向放疗的 3D 剂量预测：基于矩损失函数的深度学习模型**
 
@@ -46,12 +46,12 @@ PMB'22 论文的官方代码：训练 UNet 式 3D CNN，输入 CT、PTV 与危�
 ```mermaid
 xychart-beta
     title "nadeemlab/DoseRTX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 52（+0）
 
 
 ---

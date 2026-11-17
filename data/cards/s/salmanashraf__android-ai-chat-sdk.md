@@ -1,6 +1,6 @@
 # salmanashraf/android-ai-chat-sdk
 
-⭐ 22 · Kotlin · MIT · 推送 2026-05-29 · [GitHub](https://github.com/salmanashraf/android-ai-chat-sdk) · 个人维护
+⭐ 23 · Kotlin · MIT · 推送 2026-05-29 · [GitHub](https://github.com/salmanashraf/android-ai-chat-sdk) · 个人维护
 
 **Android 多供应商 AI 聊天 SDK，含 Compose UI 与无 UI Kotlin API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "salmanashraf/android-ai-chat-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "salmanashraf/android-ai-chat-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

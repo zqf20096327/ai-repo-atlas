@@ -1,6 +1,6 @@
 # ysfemreAlbyrk/ollama-monitor
 
-⭐ 31 · Go · 推送 2026-06-03 · [GitHub](https://github.com/ysfemreAlbyrk/ollama-monitor) · 个人维护
+⭐ 30 · Go · 推送 2026-06-03 · [GitHub](https://github.com/ysfemreAlbyrk/ollama-monitor) · 个人维护
 
 **系统托盘应用：实时监控本机 Ollama 模型运行状态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ysfemreAlbyrk/ollama-monitor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "ysfemreAlbyrk/ollama-monitor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-17"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

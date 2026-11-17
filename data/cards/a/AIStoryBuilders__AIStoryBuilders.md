@@ -1,6 +1,6 @@
 # AIStoryBuilders/AIStoryBuilders
 
-⭐ 72 · C# · MIT · 推送 2026-06-20 · [GitHub](https://github.com/AIStoryBuilders/AIStoryBuilders) · [官网](https://aistorybuilders.com/) · 个人维护
+⭐ 73 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AIStoryBuilders/AIStoryBuilders) · [官网](https://aistorybuilders.com/) · 个人维护
 
 **借助 LLM 组织故事要素、辅助小说写作的应用**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIStoryBuilders/AIStoryBuilders 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "AIStoryBuilders/AIStoryBuilders 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 71 --> 74
-    line [73, 72, 72]
+    line [73, 72, 73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 72（-1）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # muelea/buddi
 
-⭐ 173 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/muelea/buddi) · [官网](https://muelea.github.io/buddi/) · 组织维护
+⭐ 175 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/muelea/buddi) · [官网](https://muelea.github.io/buddi/) · 组织维护
 
 **生成两人交互 3D 人体网格的扩散模型（CVPR 2024）**
 
@@ -44,13 +44,13 @@ BUDDI 是一个学习近距离双人交互联合分布的扩散模型，直接�
 
 ```mermaid
 xychart-beta
-    title "muelea/buddi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 172 --> 175
-    line [174, 173, 173]
+    title "muelea/buddi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 172 --> 176
+    line [174, 173, 174, 175, 175]
 ```
 
-2026-10-18 174 → 2026-11-02 173（-1）
+2026-10-18 174 → 2026-11-17 175（+1）
 
 
 ---

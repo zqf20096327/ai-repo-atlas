@@ -1,6 +1,6 @@
 # jeftarmascarenhas/context-mesh
 
-⭐ 39 · MIT · 推送 2026-01-27 · [GitHub](https://github.com/jeftarmascarenhas/context-mesh) · [官网](https://context-mesh.org) · 个人维护
+⭐ 40 · MIT · 推送 2026-01-27 · [GitHub](https://github.com/jeftarmascarenhas/context-mesh) · [官网](https://context-mesh.org) · 个人维护
 
 **AI 辅助开发的三步上下文管理框架：Intent→Build→Learn**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeftarmascarenhas/context-mesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "jeftarmascarenhas/context-mesh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

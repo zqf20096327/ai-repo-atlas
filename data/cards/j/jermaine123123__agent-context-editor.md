@@ -1,6 +1,6 @@
 # jermaine123123/agent-context-editor
 
-⭐ 62 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/jermaine123123/agent-context-editor) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/jermaine123123/agent-context-editor) · 个人维护 · 中文 README
 
 **跨 Agent 插件：手动排除/编辑/压缩 AI 对话上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jermaine123123/agent-context-editor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 62, 62]
+    title "jermaine123123/agent-context-editor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 64（+2）
 
 
 ---

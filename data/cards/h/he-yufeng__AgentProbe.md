@@ -1,6 +1,6 @@
 # he-yufeng/AgentProbe
 
-⭐ 30 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/he-yufeng/AgentProbe) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/he-yufeng/AgentProbe) · 个人维护 · 中文 README
 
 **AI agent 回归测试的 pytest 插件：快照基线与 Mock LLM**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "he-yufeng/AgentProbe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "he-yufeng/AgentProbe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [30, 29, 28, 28]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 28（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ComeOnOliver/skillshub
 
-⭐ 64 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/ComeOnOliver/skillshub) · [官网](https://skillshub.wtf) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/ComeOnOliver/skillshub) · [官网](https://skillshub.wtf) · 个人维护 · 中文 README
 
 **面向 AI agent 的技能注册与检索 API 服务（10,000+ 技能）**
 
@@ -45,13 +45,13 @@ AI agent 技能（SKILL.md）开放注册平台：聚合来自 Microsoft、OpenA
 
 ```mermaid
 xychart-beta
-    title "ComeOnOliver/skillshub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "ComeOnOliver/skillshub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 63 --> 68
+    line [64, 66, 67, 67]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 67（+3）
 
 
 ---

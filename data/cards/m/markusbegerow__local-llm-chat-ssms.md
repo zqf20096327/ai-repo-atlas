@@ -1,6 +1,6 @@
 # markusbegerow/local-llm-chat-ssms
 
-⭐ 15 · C# · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/local-llm-chat-ssms) · 个人维护
+⭐ 16 · C# · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/local-llm-chat-ssms) · 个人维护
 
 **SQL Server Management Studio 的本地 LLM 聊天扩展，离线私有**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "markusbegerow/local-llm-chat-ssms 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "markusbegerow/local-llm-chat-ssms 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    line [16, 15, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

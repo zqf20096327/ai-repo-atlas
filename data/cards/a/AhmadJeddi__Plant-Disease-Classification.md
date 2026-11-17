@@ -1,6 +1,6 @@
 # AhmadJeddi/Plant-Disease-Classification
 
-⭐ 50 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AhmadJeddi/Plant-Disease-Classification) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AhmadJeddi/Plant-Disease-Classification) · 个人维护
 
 **基于 ResNet50-DCBAM 的植物病害图像分类框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AhmadJeddi/Plant-Disease-Classification 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 45 --> 51
-    line [46, 47, 48, 49, 50, 50]
+    title "AhmadJeddi/Plant-Disease-Classification 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 45 --> 52
+    line [46, 47, 48, 49, 50, 48, 49, 50, 51, 51]
 ```
 
-2026-10-18 46 → 2026-11-02 50（+4）
+2026-10-18 46 → 2026-11-17 51（+5）
 
 
 ---

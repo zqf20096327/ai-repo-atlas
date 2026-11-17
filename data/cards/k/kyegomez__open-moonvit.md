@@ -1,6 +1,6 @@
 # kyegomez/open-moonvit
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-04-25 · [GitHub](https://github.com/kyegomez/open-moonvit) · [官网](https://discord.gg/3keGBK9Pvr) · 个人维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-04-25 · [GitHub](https://github.com/kyegomez/open-moonvit) · [官网](https://discord.gg/3keGBK9Pvr) · 个人维护
 
 **MoonViT 原生分辨率视觉编码器的单文件 PyTorch 实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/open-moonvit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "kyegomez/open-moonvit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

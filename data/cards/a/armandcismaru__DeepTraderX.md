@@ -1,6 +1,6 @@
 # armandcismaru/DeepTraderX
 
-⭐ 22 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/armandcismaru/DeepTraderX) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/armandcismaru/DeepTraderX) · 个人维护
 
 **深度学习交易代理：在多线程金融市场模拟中交易与评测**
 
@@ -46,12 +46,12 @@ MEng 毕业项目的深度学习交易系统：在 Dave Cliff 的 Bristol Stock 
 ```mermaid
 xychart-beta
     title "armandcismaru/DeepTraderX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

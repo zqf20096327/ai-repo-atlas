@@ -1,6 +1,6 @@
 # shenxiangzhuang/shenxiangzhuang.github.io
 
-⭐ 15 · MDX · MIT · 推送 2026-10-28 · [GitHub](https://github.com/shenxiangzhuang/shenxiangzhuang.github.io) · [官网](https://mathewshen.me) · 个人维护
+⭐ 15 · MDX · MIT · 推送 2026-11-14 · [GitHub](https://github.com/shenxiangzhuang/shenxiangzhuang.github.io) · [官网](https://mathewshen.me) · 个人维护
 
 **MathewShen 的个人技术博客站点（数学/统计/机器学习）**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "shenxiangzhuang/shenxiangzhuang.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

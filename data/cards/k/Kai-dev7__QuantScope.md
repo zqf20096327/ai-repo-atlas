@@ -1,6 +1,6 @@
 # Kai-dev7/QuantScope
 
-⭐ 123 · Python · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/Kai-dev7/QuantScope) · [官网](http://150.158.144.155:3000) · 个人维护 · 中文 README
+⭐ 125 · Python · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/Kai-dev7/QuantScope) · [官网](http://150.158.144.155:3000) · 个人维护 · 中文 README
 
 **面向中文用户的 AI 股票研究分析平台**
 
@@ -46,13 +46,13 @@ AI 股票研究与分析平台，覆盖数据同步、研究流程编排、多�
 
 ```mermaid
 xychart-beta
-    title "Kai-dev7/QuantScope 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 120 --> 124
-    line [121, 122, 123, 123]
+    title "Kai-dev7/QuantScope 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 120 --> 126
+    line [121, 122, 123, 121, 124, 125, 125]
 ```
 
-2026-10-18 121 → 2026-11-02 123（+2）
+2026-10-18 121 → 2026-11-17 125（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # aaronjmars/soul-aaronjmars
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/aaronjmars/soul-aaronjmars) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/aaronjmars/soul-aaronjmars) · 个人维护
 
 **让 LLM 以特定真人口吻思考与回应的人格档案框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aaronjmars/soul-aaronjmars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgriciDaniel/ace-claude-code
 
-⭐ 27 · PowerShell · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/ace-claude-code) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 29 · PowerShell · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/ace-claude-code) · [官网](https://agricidaniel.com) · 个人维护
 
 **Claude Code 的多 agent 编排层：并行执行与会话持久化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/ace-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "AgriciDaniel/ace-claude-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

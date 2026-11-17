@@ -1,6 +1,6 @@
 # bytedance/DEADiff
 
-⭐ 278 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bytedance/DEADiff) · 组织维护 · 中文 README
+⭐ 279 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bytedance/DEADiff) · 组织维护 · 中文 README
 
 **风格化文生图扩散模型：按参考图风格生成新图像**
 
@@ -43,13 +43,13 @@ CVPR 2024 论文 DEADiff 的官方实现，由中科大与字节跳动人员完�
 
 ```mermaid
 xychart-beta
-    title "bytedance/DEADiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 277 --> 279
-    line [278, 278]
+    title "bytedance/DEADiff 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 277 --> 280
+    line [278, 279, 279]
 ```
 
-2026-10-18 278 → 2026-11-02 278（+0）
+2026-10-18 278 → 2026-11-17 279（+1）
 
 
 ---

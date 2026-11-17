@@ -1,6 +1,6 @@
 # AOSSIE-Org/Perspective
 
-⭐ 55 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/AOSSIE-Org/Perspective) · [官网](https://perspective-aossie.vercel.app/) · 组织维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/AOSSIE-Org/Perspective) · [官网](https://perspective-aossie.vercel.app/) · 组织维护
 
 **分析新闻/社媒内容并生成可信反向叙事的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AOSSIE-Org/Perspective 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    title "AOSSIE-Org/Perspective 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56, 56]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 56（+2）
 
 
 ---

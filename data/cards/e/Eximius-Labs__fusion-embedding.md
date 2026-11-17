@@ -1,6 +1,6 @@
 # Eximius-Labs/fusion-embedding
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Eximius-Labs/fusion-embedding) · [官网](https://huggingface.co/EximiusLabs) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Eximius-Labs/fusion-embedding) · [官网](https://huggingface.co/EximiusLabs) · 组织维护
 
 **开源权重多模态嵌入模型：七种模态统一到单一向量空间**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eximius-Labs/fusion-embedding 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "Eximius-Labs/fusion-embedding 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 19
-    line [11, 13, 14, 15, 16, 17, 18]
+    line [11, 13, 14, 15, 16, 17, 18, 13, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-02 18（+7）
+2026-10-18 11 → 2026-11-17 17（+6）
 
 
 ---

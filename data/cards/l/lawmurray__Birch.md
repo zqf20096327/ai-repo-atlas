@@ -1,6 +1,6 @@
 # lawmurray/Birch
 
-⭐ 125 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/lawmurray/Birch) · [官网](https://birch-lang.org) · 个人维护
+⭐ 126 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/lawmurray/Birch) · [官网](https://birch-lang.org) · 个人维护
 
 **面向贝叶斯推断的概率编程语言，转译为 C++**
 
@@ -44,13 +44,13 @@ Birch 是一门概率编程语言，提供自动边缘化、自动条件化与�
 
 ```mermaid
 xychart-beta
-    title "lawmurray/Birch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    title "lawmurray/Birch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 124 --> 127
+    line [125, 126, 126]
 ```
 
-2026-10-18 125 → 2026-11-02 125（+0）
+2026-10-18 125 → 2026-11-17 126（+1）
 
 
 ---

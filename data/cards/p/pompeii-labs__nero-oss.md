@@ -1,6 +1,6 @@
 # pompeii-labs/nero-oss
 
-⭐ 44 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/pompeii-labs/nero-oss) · [官网](https://nero.pompeiilabs.com) · 组织维护
+⭐ 45 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/pompeii-labs/nero-oss) · [官网](https://nero.pompeiilabs.com) · 组织维护
 
 **自托管单用户 AI 伴侣：语音/文本对话并代为执行任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pompeii-labs/nero-oss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "pompeii-labs/nero-oss 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

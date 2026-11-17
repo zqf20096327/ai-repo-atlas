@@ -1,6 +1,6 @@
 # Co-Messi/supercut
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Co-Messi/supercut) · [官网](https://supercut-five.vercel.app) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Co-Messi/supercut) · [官网](https://supercut-five.vercel.app) · 组织维护
 
 **AI 导演自动拍摄真实 Web 应用并生成产品发布视频的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Co-Messi/supercut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23]
+    title "Co-Messi/supercut 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 22, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

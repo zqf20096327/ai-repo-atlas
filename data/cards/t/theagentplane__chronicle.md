@@ -1,6 +1,6 @@
 # theagentplane/chronicle
 
-⭐ 26 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/theagentplane/chronicle) · [官网](https://theagentplane.github.io) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/theagentplane/chronicle) · [官网](https://theagentplane.github.io) · 组织维护
 
 **Agent 决策图录制回放 SDK：无 LLM 调用复现线上失败**
 
@@ -45,13 +45,13 @@ AgentPlane 套件的边缘 SDK，运行在 agent 自身进程内：在决策点�
 
 ```mermaid
 xychart-beta
-    title "theagentplane/chronicle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "theagentplane/chronicle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

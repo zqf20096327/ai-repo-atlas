@@ -1,6 +1,6 @@
 # mitdbg/palimpzest
 
-⭐ 245 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/mitdbg/palimpzest) · [官网](https://palimpzest.org/) · 组织维护
+⭐ 247 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/mitdbg/palimpzest) · [官网](https://palimpzest.org/) · 组织维护
 
 **面向非结构化数据的声明式语义计算与优化系统**
 
@@ -43,13 +43,13 @@ Palimpzest（PZ）是一个语义计算系统：用声明式查询方式对非�
 
 ```mermaid
 xychart-beta
-    title "mitdbg/palimpzest 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 240 --> 246
-    line [241, 242, 243, 244, 245]
+    title "mitdbg/palimpzest 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 240 --> 248
+    line [241, 242, 243, 244, 245, 243, 245, 247, 247]
 ```
 
-2026-10-18 241 → 2026-11-02 245（+4）
+2026-10-18 241 → 2026-11-17 247（+6）
 
 
 ---

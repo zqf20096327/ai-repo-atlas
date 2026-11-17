@@ -1,6 +1,6 @@
 # ultralytics/.github
 
-⭐ 80 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/.github) · [官网](https://ultralytics.com) · 组织维护
+⭐ 83 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/.github) · [官网](https://ultralytics.com) · 组织维护
 
 **Ultralytics 组织级 GitHub 社区健康文件与模板仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ultralytics/.github 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    title "ultralytics/.github 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 79 --> 84
+    line [80, 81, 83, 83]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-17 83（+3）
 
 
 ---

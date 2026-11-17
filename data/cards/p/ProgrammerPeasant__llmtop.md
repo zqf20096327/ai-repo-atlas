@@ -1,6 +1,6 @@
 # ProgrammerPeasant/llmtop
 
-⭐ 13 · Rust · MIT · 推送 2026-06-05 · [GitHub](https://github.com/ProgrammerPeasant/llmtop) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-06-05 · [GitHub](https://github.com/ProgrammerPeasant/llmtop) · 个人维护
 
 **终端 GPU 监控器：关联本地 LLM 服务与功耗/成本指标**
 
@@ -45,13 +45,13 @@ Rust 编写的终端 TUI GPU 监控工具，面向本地 LLM 服务器运维：�
 
 ```mermaid
 xychart-beta
-    title "ProgrammerPeasant/llmtop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "ProgrammerPeasant/llmtop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

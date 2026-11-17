@@ -1,6 +1,6 @@
 # vvtech-ai/PhoneAgent
 
-⭐ 33 · Kotlin · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/vvtech-ai/PhoneAgent) · 组织维护 · 中文 README
+⭐ 33 · Dart · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/vvtech-ai/PhoneAgent) · 组织维护 · 中文 README
 
 **开源安卓客户端：用 AI Agent 完成真实电话任务**
 
@@ -45,13 +45,13 @@ Kotlin/Jetpack Compose 编写的 Android 客户端：用户以语音或文字描
 
 ```mermaid
 xychart-beta
-    title "vvtech-ai/PhoneAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "vvtech-ai/PhoneAgent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    line [31, 32, 33, 31, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

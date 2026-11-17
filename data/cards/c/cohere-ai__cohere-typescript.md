@@ -1,6 +1,6 @@
 # cohere-ai/cohere-typescript
 
-⭐ 171 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cohere-ai/cohere-typescript) · [官网](https://docs.cohere.ai) · 组织维护
+⭐ 171 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/cohere-ai/cohere-typescript) · [官网](https://docs.cohere.ai) · 组织维护
 
 **Cohere 官方 TypeScript SDK：在 Node.js 中调用 Cohere 模型**
 
@@ -43,13 +43,13 @@ Cohere 官方维护的 TypeScript/JavaScript SDK，提供 CohereClientV2 客户�
 
 ```mermaid
 xychart-beta
-    title "cohere-ai/cohere-typescript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "cohere-ai/cohere-typescript 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 169 --> 172
-    line [170, 171, 171]
+    line [170, 171, 170, 171, 171]
 ```
 
-2026-10-18 170 → 2026-11-02 171（+1）
+2026-10-18 170 → 2026-11-17 171（+1）
 
 
 ---

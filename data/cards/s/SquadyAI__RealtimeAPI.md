@@ -1,6 +1,6 @@
 # SquadyAI/RealtimeAPI
 
-⭐ 13 · Rust · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/SquadyAI/RealtimeAPI) · 组织维护 · 中文 README
+⭐ 14 · Rust · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/SquadyAI/RealtimeAPI) · 组织维护 · 中文 README
 
 **自托管实时语音 AI 平台：可组合 ASR/LLM/TTS 管线**
 
@@ -45,13 +45,13 @@ Rust 实现的开源实时语音 AI 平台，WebSocket 传输 Opus 音频，支�
 
 ```mermaid
 xychart-beta
-    title "SquadyAI/RealtimeAPI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "SquadyAI/RealtimeAPI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

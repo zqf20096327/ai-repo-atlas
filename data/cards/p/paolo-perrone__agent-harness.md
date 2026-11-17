@@ -1,6 +1,6 @@
 # paolo-perrone/agent-harness
 
-⭐ 15 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/paolo-perrone/agent-harness) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/paolo-perrone/agent-harness) · 个人维护
 
 **五层 agent harness 可运行示例：演示各层防护及其阻止的故障**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paolo-perrone/agent-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "paolo-perrone/agent-harness 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 15, 13, 18, 19, 20, 20]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 20（+7）
 
 
 ---

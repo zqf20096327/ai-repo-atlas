@@ -1,6 +1,6 @@
 # stbenjam/skillsaw
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/stbenjam/skillsaw) · [官网](https://skillsaw.org/) · 个人维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/stbenjam/skillsaw) · [官网](https://skillsaw.org/) · 个人维护
 
 **AI 编码代理指令文件的 linter：校验结构与安全**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stbenjam/skillsaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 69, 69]
+    title "stbenjam/skillsaw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 66 --> 73
+    line [67, 68, 69, 68, 71, 70, 72, 72]
 ```
 
-2026-10-18 67 → 2026-11-02 69（+2）
+2026-10-18 67 → 2026-11-17 72（+5）
 
 
 ---

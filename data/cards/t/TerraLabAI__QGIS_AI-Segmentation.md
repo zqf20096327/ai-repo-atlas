@@ -1,6 +1,6 @@
 # TerraLabAI/QGIS_AI-Segmentation
 
-⭐ 43 · Python · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TerraLabAI/QGIS_AI-Segmentation) · [官网](https://terra-lab.ai/ai-segmentation) · 组织维护
+⭐ 45 · Python · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TerraLabAI/QGIS_AI-Segmentation) · [官网](https://terra-lab.ai/ai-segmentation) · 组织维护
 
 **QGIS 插件：点击或命名对象，从影像生成矢量多边形**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TerraLabAI/QGIS_AI-Segmentation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "TerraLabAI/QGIS_AI-Segmentation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 45, 45]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 45（+3）
 
 
 ---

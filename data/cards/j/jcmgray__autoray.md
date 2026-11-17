@@ -1,6 +1,6 @@
 # jcmgray/autoray
 
-⭐ 175 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/jcmgray/autoray) · [官网](https://autoray.readthedocs.io) · 个人维护
+⭐ 176 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/jcmgray/autoray) · [官网](https://autoray.readthedocs.io) · 个人维护
 
 **后端无关的张量运算抽象库：一套代码适配多个数组框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jcmgray/autoray 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 173 --> 176
-    line [174, 175, 175]
+    title "jcmgray/autoray 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 173 --> 177
+    line [174, 175, 174, 176, 176]
 ```
 
-2026-10-18 174 → 2026-11-02 175（+1）
+2026-10-18 174 → 2026-11-17 176（+2）
 
 
 ---

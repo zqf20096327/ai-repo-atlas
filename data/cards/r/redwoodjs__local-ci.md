@@ -1,6 +1,6 @@
 # redwoodjs/local-ci
 
-⭐ 811 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/redwoodjs/local-ci) · [官网](https://local-ci.dev) · 组织维护
+⭐ 817 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/redwoodjs/local-ci) · [官网](https://local-ci.dev) · 组织维护
 
 **在本地机器上运行 GitHub Actions 的开发者工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "redwoodjs/local-ci 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 805 --> 813
-    line [806, 808, 809, 810, 812, 811]
+    title "redwoodjs/local-ci 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 805 --> 818
+    line [806, 808, 809, 810, 812, 811, 810, 813, 815, 817, 817]
 ```
 
-2026-10-18 806 → 2026-11-02 811（+5）
+2026-10-18 806 → 2026-11-17 817（+11）
 
 
 ---

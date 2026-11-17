@@ -1,6 +1,6 @@
 # Floral-Overcast/steamdeck-pxe-llm
 
-⭐ 51 · Shell · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Floral-Overcast/steamdeck-pxe-llm) · 个人维护
+⭐ 52 · Shell · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Floral-Overcast/steamdeck-pxe-llm) · 个人维护
 
 **将 Steam Deck 主板改为无盘 PXE 启动的本地 LLM 推理节点集群**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Floral-Overcast/steamdeck-pxe-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "Floral-Overcast/steamdeck-pxe-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-17"]
     y-axis "stars" 50 --> 53
-    line [52, 51, 51]
+    line [52, 51, 52, 52]
 ```
 
-2026-10-18 52 → 2026-11-02 51（-1）
+2026-10-18 52 → 2026-11-17 52（+0）
 
 
 ---

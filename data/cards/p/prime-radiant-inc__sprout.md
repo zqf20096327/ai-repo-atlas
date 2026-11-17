@@ -1,6 +1,6 @@
 # prime-radiant-inc/sprout
 
-⭐ 113 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/prime-radiant-inc/sprout) · 组织维护
+⭐ 112 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/prime-radiant-inc/sprout) · 组织维护
 
 **递归多智能体自主编码系统，可从失败中自我改进**
 
@@ -44,13 +44,13 @@ TypeScript/Bun 编写的多智能体自主编码助手：根智能体将目标�
 
 ```mermaid
 xychart-beta
-    title "prime-radiant-inc/sprout 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    title "prime-radiant-inc/sprout 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 110 --> 114
-    line [111, 112, 113, 113]
+    line [111, 112, 113, 112, 112]
 ```
 
-2026-10-18 111 → 2026-11-02 113（+2）
+2026-10-18 111 → 2026-11-17 112（+1）
 
 
 ---

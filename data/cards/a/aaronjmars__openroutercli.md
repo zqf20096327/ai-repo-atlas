@@ -1,6 +1,6 @@
 # aaronjmars/openroutercli
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/aaronjmars/openroutercli) · [官网](https://www.npmjs.com/package/@aaronjmars/openroutercli) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/aaronjmars/openroutercli) · [官网](https://www.npmjs.com/package/@aaronjmars/openroutercli) · 个人维护
 
 **覆盖全部 OpenRouter 端点的非官方 CLI，面向人类与 LLM agent**
 
@@ -46,12 +46,12 @@ Node.js 20+ 编写的 OpenRouter API 命令行客户端，零 npm 依赖，将 O
 ```mermaid
 xychart-beta
     title "aaronjmars/openroutercli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

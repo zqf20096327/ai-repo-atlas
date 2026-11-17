@@ -1,6 +1,6 @@
 # weiwei966/awesome-ai-harness
 
-⭐ 138 · CC0-1.0 · 推送 2026-08-19 · [GitHub](https://github.com/weiwei966/awesome-ai-harness) · 个人维护 · 中文 README
+⭐ 137 · CC0-1.0 · 推送 2026-08-19 · [GitHub](https://github.com/weiwei966/awesome-ai-harness) · 个人维护 · 中文 README
 
 **AI agent harness 工程知识清单：上下文/工具/循环/记忆等主题策展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weiwei966/awesome-ai-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
+    title "weiwei966/awesome-ai-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 136 --> 154
-    line [153, 137, 138, 138]
+    line [153, 137, 138, 137, 137]
 ```
 
-2026-10-18 153 → 2026-11-02 138（-15）
+2026-10-18 153 → 2026-11-17 137（-16）
 
 
 ---

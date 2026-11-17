@@ -1,6 +1,6 @@
 # supabase-community/chatgpt-your-files
 
-⭐ 516 · TypeScript · 推送 2026-05-12 · [GitHub](https://github.com/supabase-community/chatgpt-your-files) · [官网](https://youtu.be/ibzlEQmgPPY) · 组织维护
+⭐ 518 · TypeScript · 推送 2026-05-12 · [GitHub](https://github.com/supabase-community/chatgpt-your-files) · [官网](https://youtu.be/ibzlEQmgPPY) · 组织维护
 
 **教学工坊：用 Supabase+pgvector 搭建安全文档对话 MVP**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "supabase-community/chatgpt-your-files 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 514 --> 517
-    line [516, 515, 516, 516]
+    title "supabase-community/chatgpt-your-files 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 514 --> 519
+    line [516, 515, 516, 515, 516, 518, 518]
 ```
 
-2026-10-18 516 → 2026-11-02 516（+0）
+2026-10-18 516 → 2026-11-17 518（+2）
 
 
 ---

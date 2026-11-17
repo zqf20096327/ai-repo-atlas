@@ -1,6 +1,6 @@
 # johndaskovsky/nightshift
 
-⭐ 20 · TypeScript · 推送 2026-05-18 · [GitHub](https://github.com/johndaskovsky/nightshift) · [官网](https://www.npmjs.com/package/@johndaskovsky/nightshift) · 个人维护
+⭐ 21 · TypeScript · 推送 2026-05-18 · [GitHub](https://github.com/johndaskovsky/nightshift) · [官网](https://www.npmjs.com/package/@johndaskovsky/nightshift) · 个人维护
 
 **Claude Code 内的 AI agent 批处理框架：长时无人值守跑任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "johndaskovsky/nightshift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "johndaskovsky/nightshift 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

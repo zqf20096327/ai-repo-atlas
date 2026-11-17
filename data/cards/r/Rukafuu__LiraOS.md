@@ -1,6 +1,6 @@
 # Rukafuu/LiraOS
 
-⭐ 12 · TypeScript · 推送 2026-09-01 · [GitHub](https://github.com/Rukafuu/LiraOS) · [官网](https://liraos.xyz) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-09-01 · [GitHub](https://github.com/Rukafuu/LiraOS) · [官网](https://liraos.xyz) · 个人维护
 
 **已暂停维护的 AI 陪伴生态：游戏陪护、聊天与语音合成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rukafuu/LiraOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Rukafuu/LiraOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

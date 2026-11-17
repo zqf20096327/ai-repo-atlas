@@ -1,6 +1,6 @@
 # spaceml-org/karman
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-01-19 · [GitHub](https://github.com/spaceml-org/karman) · [官网](https://spaceml-org.github.io/karman/) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-01-19 · [GitHub](https://github.com/spaceml-org/karman) · [官网](https://spaceml-org.github.io/karman/) · 组织维护
 
 **机器学习热层密度现报/预报建模与基准测试 Python 包**
 
@@ -44,13 +44,13 @@ NASA 太阳物理部门与 Trillium Technologies 合作的 Python 包，面向�
 
 ```mermaid
 xychart-beta
-    title "spaceml-org/karman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "spaceml-org/karman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

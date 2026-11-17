@@ -1,6 +1,6 @@
 # slahiri/ComfyUI-Workflow-Models-Downloader
 
-⭐ 157 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/slahiri/ComfyUI-Workflow-Models-Downloader) · [官网](https://registry.comfy.org/publishers/slahiri/nodes/comfyui-workflow-models-downloader) · 个人维护
+⭐ 161 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/slahiri/ComfyUI-Workflow-Models-Downloader) · [官网](https://registry.comfy.org/publishers/slahiri/nodes/comfyui-workflow-models-downloader) · 个人维护
 
 **ComfyUI 扩展：扫描工作流并下载缺失模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "slahiri/ComfyUI-Workflow-Models-Downloader 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 152 --> 158
-    line [153, 154, 155, 156, 157]
+    title "slahiri/ComfyUI-Workflow-Models-Downloader 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 152 --> 162
+    line [153, 154, 155, 156, 157, 154, 159, 160, 161, 161]
 ```
 
-2026-10-18 153 → 2026-11-02 157（+4）
+2026-10-18 153 → 2026-11-17 161（+8）
 
 
 ---

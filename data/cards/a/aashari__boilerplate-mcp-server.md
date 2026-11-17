@@ -1,6 +1,6 @@
 # aashari/boilerplate-mcp-server
 
-⭐ 73 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/aashari/boilerplate-mcp-server) · 个人维护
+⭐ 74 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/aashari/boilerplate-mcp-server) · 个人维护
 
 **TypeScript MCP 服务器模板：IP 查询示例 + 分层架构**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aashari/boilerplate-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "aashari/boilerplate-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 74（+1）
 
 
 ---

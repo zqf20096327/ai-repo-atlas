@@ -1,6 +1,6 @@
 # sanidhyy/3d-website
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sanidhyy/3d-website) · [官网](https://web-3d.netlify.app) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sanidhyy/3d-website) · [官网](https://web-3d.netlify.app) · 个人维护
 
 **Three.js 3D T 恤定制器，可生成 AI 纹理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanidhyy/3d-website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "sanidhyy/3d-website 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

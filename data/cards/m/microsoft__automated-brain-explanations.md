@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/automated-brain-explanations 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "microsoft/automated-brain-explanations 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 66 --> 70
-    line [67, 68, 69, 69]
+    line [67, 68, 69, 67, 69, 69]
 ```
 
-2026-10-18 67 → 2026-11-02 69（+2）
+2026-10-18 67 → 2026-11-17 69（+2）
 
 
 ---

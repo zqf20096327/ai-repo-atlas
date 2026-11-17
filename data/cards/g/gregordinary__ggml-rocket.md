@@ -1,6 +1,6 @@
 # gregordinary/ggml-rocket
 
-⭐ 25 · C++ · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/gregordinary/ggml-rocket) · 个人维护
+⭐ 27 · C++ · MIT · 推送 2026-11-14 · [GitHub](https://github.com/gregordinary/ggml-rocket) · 个人维护
 
 **面向 Rockchip NPU 的 ggml 后端：为 llama.cpp/whisper.cpp 卸载 prefill**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gregordinary/ggml-rocket 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "gregordinary/ggml-rocket 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 24, 26, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

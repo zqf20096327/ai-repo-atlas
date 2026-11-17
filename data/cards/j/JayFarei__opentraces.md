@@ -1,6 +1,6 @@
 # JayFarei/opentraces
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/JayFarei/opentraces) · [官网](https://www.opentraces.ai/) · 个人维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/JayFarei/opentraces) · [官网](https://www.opentraces.ai/) · 个人维护
 
 **本地优先的 agent 工作证据层：捕获代理所见/所做/所改**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JayFarei/opentraces 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 99 --> 104
-    line [100, 101, 102, 103]
+    title "JayFarei/opentraces 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 99 --> 107
+    line [100, 101, 102, 103, 102, 103, 104, 105, 106, 106]
 ```
 
-2026-10-18 100 → 2026-11-02 103（+3）
+2026-10-18 100 → 2026-11-17 106（+6）
 
 
 ---

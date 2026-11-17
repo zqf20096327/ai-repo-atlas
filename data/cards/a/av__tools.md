@@ -1,6 +1,6 @@
 # av/tools
 
-⭐ 12 · Shell · MIT · 推送 2026-05-27 · [GitHub](https://github.com/av/tools) · 个人维护
+⭐ 13 · Shell · MIT · 推送 2026-05-27 · [GitHub](https://github.com/av/tools) · 个人维护
 
 **供 LLM agent 运行 MCP/OpenAPI/UVX/NPX 工具的 Docker 镜像**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "av/tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "av/tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

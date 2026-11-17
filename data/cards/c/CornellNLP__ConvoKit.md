@@ -1,6 +1,6 @@
 # CornellNLP/ConvoKit
 
-⭐ 653 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/CornellNLP/ConvoKit) · [官网](https://convokit.cornell.edu/documentation/) · 组织维护
+⭐ 655 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/CornellNLP/ConvoKit) · [官网](https://convokit.cornell.edu/documentation/) · 组织维护
 
 **对话分析工具包：为研究者和开发者提取对话特征与社会现象**
 
@@ -44,13 +44,13 @@ Cornell NLP 组维护的 Python 工具包，提供统一接口（与 scikit-lear
 
 ```mermaid
 xychart-beta
-    title "CornellNLP/ConvoKit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 649 --> 654
-    line [651, 650, 651, 652, 653, 653]
+    title "CornellNLP/ConvoKit 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 649 --> 656
+    line [651, 650, 651, 652, 653, 650, 653, 654, 655, 655]
 ```
 
-2026-10-18 651 → 2026-11-02 653（+2）
+2026-10-18 651 → 2026-11-17 655（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # gusthemole/lexideck
 
-⭐ 20 · GPL-3.0 · 推送 2025-11-20 · [GitHub](https://github.com/gusthemole/lexideck) · [官网](https://www.lexidecktechnologies.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将 LLM 变成多智能体协作系统的元提示词框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gusthemole/lexideck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-15 20（+0）
 
 
 ---

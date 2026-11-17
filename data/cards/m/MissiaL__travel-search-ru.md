@@ -1,6 +1,6 @@
 # MissiaL/travel-search-ru
 
-⭐ 21 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/MissiaL/travel-search-ru) · [官网](https://agentskills.io) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/MissiaL/travel-search-ru) · [官网](https://agentskills.io) · 个人维护
 
 **面向 AI agent 的俄语旅游搜索技能：查机票/旅游/酒店/游览**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MissiaL/travel-search-ru 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 21]
+    title "MissiaL/travel-search-ru 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 21, 19, 21, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/ShadowFrog
 
-⭐ 32 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/ShadowFrog) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/ShadowFrog) · 组织维护
 
 **为编码 agent 构建代码库影子知识库的技能套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ShadowFrog 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 27 --> 33
-    line [28, 29, 30, 31, 32, 32]
+    title "microsoft/ShadowFrog 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 27 --> 35
+    line [28, 29, 30, 31, 32, 30, 33, 34, 34]
 ```
 
-2026-10-18 28 → 2026-11-02 32（+4）
+2026-10-18 28 → 2026-11-17 34（+6）
 
 
 ---

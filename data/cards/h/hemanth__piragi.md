@@ -1,6 +1,6 @@
 # hemanth/piragi
 
-⭐ 132 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/hemanth/piragi) · [官网](https://hemanth.github.io/piragi/) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/hemanth/piragi) · [官网](https://hemanth.github.io/piragi/) · 个人维护
 
 **面向开发者的本地优先 RAG Python 库：一行构建可问答知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hemanth/piragi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 131 --> 133
     line [132, 132]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 132（+0）
 
 
 ---

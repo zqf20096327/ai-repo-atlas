@@ -1,6 +1,6 @@
 # NK2552003/Select2AI_Extension
 
-⭐ 19 · JavaScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/NK2552003/Select2AI_Extension) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/NK2552003/Select2AI_Extension) · 个人维护
 
 **网页划词调用 GitHub Models AI 的浏览器扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NK2552003/Select2AI_Extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "NK2552003/Select2AI_Extension 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

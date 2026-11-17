@@ -1,6 +1,6 @@
 # rickiepark/llm-from-scratch
 
-⭐ 134 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/rickiepark/llm-from-scratch) · [官网](https://tensorflow.blog/llm-from-scratch) · 个人维护
+⭐ 137 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/rickiepark/llm-from-scratch) · [官网](https://tensorflow.blog/llm-from-scratch) · 个人维护
 
 **韩文 LLM 教科书的官方代码仓库：从零实现 GPT 类模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rickiepark/llm-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 132 --> 136
-    line [133, 134, 135, 134]
+    title "rickiepark/llm-from-scratch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 132 --> 138
+    line [133, 134, 135, 134, 135, 136, 137, 137]
 ```
 
-2026-10-18 133 → 2026-11-02 134（+1）
+2026-10-18 133 → 2026-11-17 137（+4）
 
 
 ---

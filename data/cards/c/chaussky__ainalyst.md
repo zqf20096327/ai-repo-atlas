@@ -1,6 +1,6 @@
 # chaussky/ainalyst
 
-⭐ 48 · Python · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/chaussky/ainalyst) · 个人维护 · 中文 README
+⭐ 51 · Python · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/chaussky/ainalyst) · 个人维护 · 中文 README
 
 **基于 Claude Code 的 BABOK v3 业务分析 AI 助手平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chaussky/ainalyst 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 44 --> 49
-    line [45, 47, 48, 48]
+    title "chaussky/ainalyst 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 44 --> 52
+    line [45, 47, 48, 49, 50, 51, 51]
 ```
 
-2026-10-18 45 → 2026-11-02 48（+3）
+2026-10-18 45 → 2026-11-17 51（+6）
 
 
 ---

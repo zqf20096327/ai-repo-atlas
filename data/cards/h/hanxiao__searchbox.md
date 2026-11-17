@@ -1,6 +1,6 @@
 # hanxiao/searchbox
 
-⭐ 54 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/hanxiao/searchbox) · [官网](https://hanxiao.io/searchbox) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/hanxiao/searchbox) · [官网](https://hanxiao.io/searchbox) · 个人维护
 
 **隔离网环境下的封闭语料问答测试台：本地 Qwen agent 在 token 预算内探索 .zip 资料库并作答**
 
@@ -45,13 +45,13 @@ Searchbox 是一个自托管的封闭语料问答实验装置：用户提交问�
 
 ```mermaid
 xychart-beta
-    title "hanxiao/searchbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "hanxiao/searchbox 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 56, 56]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 56（+3）
 
 
 ---

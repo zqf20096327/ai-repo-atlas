@@ -1,6 +1,6 @@
 # william1010121/token-speed
 
-⭐ 12 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/william1010121/token-speed) · 个人维护 · 中文 README
+⭐ 12 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/william1010121/token-speed) · 个人维护 · 中文 README
 
 **Codex 与 Claude Code 的 token 吞吐量终端观测工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "william1010121/token-speed 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
+    title "william1010121/token-speed 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 8 --> 13
-    line [9, 11, 12, 12]
+    line [9, 11, 12, 11, 12, 12]
 ```
 
-2026-10-19 9 → 2026-11-02 12（+3）
+2026-10-19 9 → 2026-11-17 12（+3）
 
 
 ---

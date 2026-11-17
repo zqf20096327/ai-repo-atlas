@@ -1,6 +1,6 @@
 # AISmithLab/CoBRA
 
-⭐ 97 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/AISmithLab/CoBRA) · [官网](https://cobra.clawder.ai/) · 组织维护 · 中文 README
+⭐ 98 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/AISmithLab/CoBRA) · [官网](https://cobra.clawder.ai/) · 组织维护 · 中文 README
 
 **科研工具包：用经典社科实验测量并调控 LLM agent 的认知偏差**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AISmithLab/CoBRA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    title "AISmithLab/CoBRA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 96 --> 99
+    line [97, 98, 98]
 ```
 
-2026-10-18 97 → 2026-11-02 97（+0）
+2026-10-18 97 → 2026-11-17 98（+1）
 
 
 ---

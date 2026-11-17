@@ -1,6 +1,6 @@
 # soycanopa/SupaThings-MCP
 
-⭐ 26 · JavaScript · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/soycanopa/SupaThings-MCP) · 个人维护
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/soycanopa/SupaThings-MCP) · 个人维护
 
 **macOS 上 Things 3 的 MCP 服务器：SQLite 读取与 URL 写入供 AI agent 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "soycanopa/SupaThings-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "soycanopa/SupaThings-MCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 25（-1）
 
 
 ---

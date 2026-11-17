@@ -1,6 +1,6 @@
 # gerritnowald/budget_book
 
-⭐ 49 · Jupyter Notebook · MIT · 推送 2026-06-09 · [GitHub](https://github.com/gerritnowald/budget_book) · [官网](https://gerritnowald.wordpress.com/2023/02/23/managing-spending-with-python-pandas/) · 个人维护
+⭐ 49 · Jupyter Notebook · MIT · 推送 2026-11-05 · [GitHub](https://github.com/gerritnowald/budget_book) · [官网](https://gerritnowald.wordpress.com/2023/02/23/managing-spending-with-python-pandas/) · 个人维护
 
 **银行流水记账分析工具：自动下载并用机器学习分类交易**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gerritnowald/budget_book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 47 --> 50
     line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

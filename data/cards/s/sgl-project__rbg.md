@@ -1,6 +1,6 @@
 # sgl-project/rbg
 
-⭐ 313 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/sgl-project/rbg) · [官网](https://rolebasedgroup.github.io/) · 组织维护 · 中文 README
+⭐ 315 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sgl-project/rbg) · [官网](https://rolebasedgroup.github.io/) · 组织维护 · 中文 README
 
 **Kubernetes 编排框架：以角色组管理分布式 LLM 推理服务**
 
@@ -45,13 +45,13 @@ Kubernetes 自定义 API 与控制器，将 LLM 推理服务建模为角色组�
 
 ```mermaid
 xychart-beta
-    title "sgl-project/rbg 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 306 --> 314
-    line [307, 308, 309, 310, 312, 313, 313]
+    title "sgl-project/rbg 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 306 --> 316
+    line [307, 308, 309, 310, 312, 313, 310, 314, 313, 314, 315, 315]
 ```
 
-2026-10-18 307 → 2026-11-02 313（+6）
+2026-10-18 307 → 2026-11-17 315（+8）
 
 
 ---

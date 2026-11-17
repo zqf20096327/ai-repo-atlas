@@ -1,6 +1,6 @@
 # muffin-project/muffin-agent
 
-⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/muffin-project/muffin-agent) · 个人维护
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/muffin-project/muffin-agent) · 个人维护
 
 **单人自托管的个人 AI agent：跨模型与界面保持记忆与授权连续性**
 
@@ -45,13 +45,13 @@ Muffin 是一个 owner-run 的连续个人 agent：将持久信息分为证据�
 
 ```mermaid
 xychart-beta
-    title "muffin-project/muffin-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "muffin-project/muffin-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 32, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

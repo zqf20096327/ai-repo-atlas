@@ -1,6 +1,6 @@
 # bentoml/BentoSentenceTransformers
 
-⭐ 15 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoSentenceTransformers) · 组织维护
+⭐ 15 · Python · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoSentenceTransformers) · 组织维护
 
 **BentoML 示例工程：用 SentenceTransformers 构建句向量推理 API**
 
@@ -45,12 +45,12 @@ BentoML 官方示例项目，演示如何将 SentenceTransformers 模型（all-M
 ```mermaid
 xychart-beta
     title "bentoml/BentoSentenceTransformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

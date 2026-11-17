@@ -1,6 +1,6 @@
 # Stxqq/self-driving-car
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Stxqq/self-driving-car) · [官网](https://stxqq.github.io/self-driving-car/) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Stxqq/self-driving-car) · [官网](https://stxqq.github.io/self-driving-car/) · 个人维护
 
 **纯 JS 神经网络+遗传算法进化出的高速自动驾驶仿真**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stxqq/self-driving-car 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 37 --> 47
-    line [46, 38, 38]
+    title "Stxqq/self-driving-car 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 48
+    line [46, 38, 20, 18, 18]
 ```
 
-2026-10-18 46 → 2026-11-02 38（-8）
+2026-10-18 46 → 2026-11-17 18（-28）
 
 
 ---

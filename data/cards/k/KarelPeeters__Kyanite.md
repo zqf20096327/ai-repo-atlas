@@ -1,6 +1,6 @@
 # KarelPeeters/Kyanite
 
-⭐ 74 · Rust · NOASSERTION · 推送 2026-03-15 · [GitHub](https://github.com/KarelPeeters/Kyanite) · 个人维护
+⭐ 74 · Rust · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/KarelPeeters/Kyanite) · 个人维护
 
 **Rust 神经网络推理库：运行 ONNX 模型于 CPU 或 Nvidia GPU**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KarelPeeters/Kyanite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 74（+0）
 
 
 ---

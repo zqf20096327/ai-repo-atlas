@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "khuyentran1401/awesome-Python-data-science-books 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 439 --> 441
     line [440, 440]
 ```
 
-2026-10-18 440 → 2026-10-29 440（+0）
+2026-10-18 440 → 2026-11-07 440（+0）
 
 
 ---

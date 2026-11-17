@@ -1,6 +1,6 @@
 # rasonyang/cascade-realtime-gateway
 
-⭐ 63 · Go · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/rasonyang/cascade-realtime-gateway) · 个人维护
+⭐ 65 · Go · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/rasonyang/cascade-realtime-gateway) · 个人维护
 
 **自托管语音网关：OpenAI Realtime 协议后接 ASR→LLM→TTS 级联**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rasonyang/cascade-realtime-gateway 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 62, 63, 63]
+    title "rasonyang/cascade-realtime-gateway 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 59 --> 66
+    line [60, 61, 62, 63, 62, 64, 65, 65]
 ```
 
-2026-10-18 60 → 2026-11-02 63（+3）
+2026-10-18 60 → 2026-11-17 65（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # CederGroupHub/chgnet
 
-⭐ 413 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/CederGroupHub/chgnet) · [官网](https://doi.org/10.1038/s42256-023-00716-3) · 组织维护
+⭐ 414 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/CederGroupHub/chgnet) · [官网](https://doi.org/10.1038/s42256-023-00716-3) · 组织维护
 
 **带电荷推断的通用神经网络势，用于原子级材料模拟**
 
@@ -44,13 +44,13 @@ CHGNet 是在 Materials Project 超过 150 万结构（146k 化合物）的 GGA/
 
 ```mermaid
 xychart-beta
-    title "CederGroupHub/chgnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    title "CederGroupHub/chgnet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 412 --> 415
-    line [413, 414, 413, 413]
+    line [413, 414, 413, 414, 413, 414, 414]
 ```
 
-2026-10-18 413 → 2026-11-02 413（+0）
+2026-10-18 413 → 2026-11-17 414（+1）
 
 
 ---

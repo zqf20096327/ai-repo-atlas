@@ -1,6 +1,6 @@
 # eddmann/garmin-connect-mcp
 
-⭐ 66 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/eddmann/garmin-connect-mcp) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/eddmann/garmin-connect-mcp) · 个人维护
 
 **让 LLM 通过 MCP 访问 Garmin Connect 健康与运动数据的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eddmann/garmin-connect-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 63 --> 67
-    line [64, 65, 66, 66]
+    title "eddmann/garmin-connect-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 63 --> 69
+    line [64, 65, 66, 64, 68, 68]
 ```
 
-2026-10-18 64 → 2026-11-02 66（+2）
+2026-10-18 64 → 2026-11-17 68（+4）
 
 
 ---

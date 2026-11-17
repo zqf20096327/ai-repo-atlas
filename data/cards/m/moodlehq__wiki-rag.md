@@ -1,6 +1,6 @@
 # moodlehq/wiki-rag
 
-⭐ 53 · Python · BSD-3-Clause · 推送 2026-06-15 · [GitHub](https://github.com/moodlehq/wiki-rag) · 组织维护
+⭐ 54 · Python · BSD-3-Clause · 推送 2026-06-15 · [GitHub](https://github.com/moodlehq/wiki-rag) · 组织维护
 
 **把 MediaWiki 站点变成 RAG 问答服务的实验性系统**
 
@@ -45,13 +45,13 @@ Moodle Research 发起的实验项目：通过 MediaWiki API（非爬虫）抓�
 
 ```mermaid
 xychart-beta
-    title "moodlehq/wiki-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "moodlehq/wiki-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

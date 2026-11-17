@@ -1,6 +1,6 @@
 # arjunprabhulal/mcp-flight-search
 
-⭐ 44 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/arjunprabhulal/mcp-flight-search) · [官网](https://pypi.org/project/mcp-flight-search/) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/arjunprabhulal/mcp-flight-search) · [官网](https://pypi.org/project/mcp-flight-search/) · 个人维护
 
 **供 Claude/Cursor 等 MCP 客户端调用的实时机票搜索服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arjunprabhulal/mcp-flight-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "arjunprabhulal/mcp-flight-search 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

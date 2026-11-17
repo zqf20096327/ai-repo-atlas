@@ -1,6 +1,6 @@
 # sacredbanana/AmigaGPT
 
-⭐ 80 · C · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/sacredbanana/AmigaGPT) · 个人维护
+⭐ 80 · C · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/sacredbanana/AmigaGPT) · 个人维护
 
 **AmigaOS/MorphOS 上的多供应商 AI 聊天与图像生成客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sacredbanana/AmigaGPT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-17"]
     y-axis "stars" 78 --> 82
     line [79, 80, 81, 80, 80]
 ```
 
-2026-10-18 79 → 2026-11-02 80（+1）
+2026-10-18 79 → 2026-11-17 80（+1）
 
 
 ---

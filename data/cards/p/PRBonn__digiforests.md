@@ -1,6 +1,6 @@
 # PRBonn/digiforests
 
-⭐ 32 · Python · MIT · 推送 2026-04-28 · [GitHub](https://github.com/PRBonn/digiforests) · [官网](https://www.ipb.uni-bonn.de/data/digiforest-dataset/) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-04-28 · [GitHub](https://github.com/PRBonn/digiforests) · [官网](https://www.ipb.uni-bonn.de/data/digiforest-dataset/) · 组织维护
 
 **森林 LiDAR 数据集开发套件：数据处理与全景分割训练工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PRBonn/digiforests 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "PRBonn/digiforests 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

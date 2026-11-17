@@ -1,6 +1,6 @@
 # bobbyjohnstx/tinycode-ts
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bobbyjohnstx/tinycode-ts) · [官网](https://github.com/bobbyjohnstx/tinycode#readme) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/bobbyjohnstx/tinycode-ts) · [官网](https://github.com/bobbyjohnstx/tinycode#readme) · 个人维护
 
 **本地 LLM 优先的 AI 编程助手：TUI/Web/桌面端，代码不出本机**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bobbyjohnstx/tinycode-ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

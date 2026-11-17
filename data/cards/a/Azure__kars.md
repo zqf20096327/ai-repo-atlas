@@ -1,6 +1,6 @@
 # Azure/kars
 
-⭐ 42 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Azure/kars) · 组织维护
+⭐ 47 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Azure/kars) · 组织维护
 
 **微软开源的 Kubernetes AI agent 安全运行时参考栈**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azure/kars 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [43, 42, 42]
+    title "Azure/kars 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 41 --> 48
+    line [43, 42, 43, 44, 45, 46, 47, 47]
 ```
 
-2026-10-18 43 → 2026-11-02 42（-1）
+2026-10-18 43 → 2026-11-17 47（+4）
 
 
 ---

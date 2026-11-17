@@ -1,6 +1,6 @@
 # Natxo09/Eris.
 
-⭐ 98 · Swift · MIT · 推送 2026-06-23 · [GitHub](https://github.com/Natxo09/Eris.) · [官网](https://eris.natxo.dev) · 个人维护
+⭐ 99 · Swift · MIT · 推送 2026-06-23 · [GitHub](https://github.com/Natxo09/Eris.) · [官网](https://eris.natxo.dev) · 个人维护
 
 **iPhone/iPad 上完全离线运行的私有 AI 聊天应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Natxo09/Eris. 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "Natxo09/Eris. 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 97 --> 100
-    line [99, 98, 98]
+    line [99, 98, 99, 99]
 ```
 
-2026-10-18 99 → 2026-11-02 98（-1）
+2026-10-18 99 → 2026-11-17 99（+0）
 
 
 ---

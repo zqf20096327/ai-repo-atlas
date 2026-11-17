@@ -1,6 +1,6 @@
 # yimwoo/codex-agenteam
 
-⭐ 14 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/yimwoo/codex-agenteam) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/yimwoo/codex-agenteam) · 个人维护
 
 **给 Codex 的多角色 AI 开发团队：六角色经可配置流水线协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yimwoo/codex-agenteam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "yimwoo/codex-agenteam 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

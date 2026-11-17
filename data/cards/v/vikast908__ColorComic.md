@@ -1,6 +1,6 @@
 # vikast908/ColorComic
 
-⭐ 21 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/vikast908/ColorComic) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/vikast908/ColorComic) · 个人维护
 
 **本地给黑白漫画/韩漫 PDF 上色的深度学习 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vikast908/ColorComic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "vikast908/ColorComic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

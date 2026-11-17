@@ -1,6 +1,6 @@
 # HiPerSimLab/PECANN
 
-⭐ 26 · Jupyter Notebook · MIT · 推送 2026-03-30 · [GitHub](https://github.com/HiPerSimLab/PECANN) · 组织维护
+⭐ 27 · Jupyter Notebook · MIT · 推送 2026-03-30 · [GitHub](https://github.com/HiPerSimLab/PECANN) · 组织维护
 
 **物理与等式约束神经网络：用增广拉格朗日法求解正/逆 PDE 问题**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HiPerSimLab/PECANN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "HiPerSimLab/PECANN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

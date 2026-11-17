@@ -1,6 +1,6 @@
 # Joker-smile/StockTracker
 
-⭐ 32 · C# · 推送 2026-08-26 · [GitHub](https://github.com/Joker-smile/StockTracker) · 个人维护 · 中文 README
+⭐ 32 · C# · 推送 2026-11-11 · [GitHub](https://github.com/Joker-smile/StockTracker) · 个人维护 · 中文 README
 
 **A股盯盘桌面工具：本地行情监控与技术分析，附带 AI 研报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Joker-smile/StockTracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

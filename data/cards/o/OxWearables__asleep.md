@@ -1,6 +1,6 @@
 # OxWearables/asleep
 
-⭐ 57 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/OxWearables/asleep) · 组织维护
+⭐ 61 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/OxWearables/asleep) · 组织维护
 
 **用深度学习从腕部加速度计数据分类睡眠阶段的 Python 包**
 
@@ -44,13 +44,13 @@ Python 包，读取腕戴式三轴加速度计数据（AX3 .cwa 文件或含 tim
 
 ```mermaid
 xychart-beta
-    title "OxWearables/asleep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "OxWearables/asleep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 56 --> 62
+    line [57, 60, 61, 61]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 61（+4）
 
 
 ---

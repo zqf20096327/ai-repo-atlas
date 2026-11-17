@@ -1,6 +1,6 @@
 # alibaba/LucaProt
 
-⭐ 235 · Python · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/alibaba/LucaProt) · [官网](https://www.cell.com/cell/fulltext/S0092-8674(24)01085-7) · 组织维护 · 中文 README
+⭐ 236 · Python · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/alibaba/LucaProt) · [官网](https://www.cell.com/cell/fulltext/S0092-8674(24)01085-7) · 组织维护 · 中文 README
 
 **蛋白质功能预测深度学习框架，应用于病毒 RdRP 识别**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/LucaProt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 234 --> 236
-    line [235, 235]
+    title "alibaba/LucaProt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 234 --> 237
+    line [235, 236, 236]
 ```
 
-2026-10-18 235 → 2026-11-02 235（+0）
+2026-10-18 235 → 2026-11-17 236（+1）
 
 
 ---

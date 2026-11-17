@@ -1,6 +1,6 @@
 # bob798/ai-founder-interviews
 
-⭐ 30 · HTML · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/bob798/ai-founder-interviews) · [官网](https://bob798.github.io/ai-founder-interviews/) · 个人维护 · 中文 README
+⭐ 32 · HTML · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/bob798/ai-founder-interviews) · [官网](https://bob798.github.io/ai-founder-interviews/) · 个人维护 · 中文 README
 
 **AI 创始人/研究员长访谈的结构化分析笔记库（12 篇）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bob798/ai-founder-interviews 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "bob798/ai-founder-interviews 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhou-changjian/Auto-Abaqus-Agent-Research
 
-⭐ 16 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/zhou-changjian/Auto-Abaqus-Agent-Research) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/zhou-changjian/Auto-Abaqus-Agent-Research) · 个人维护 · 中文 README
 
 **面向 Abaqus 有限元分析的自主 ReAct AI 智能体**
 
@@ -44,13 +44,13 @@ AAAR 是专为 Abaqus 有限元分析设计的自主式 AI Agent：以 ReAct 循
 
 ```mermaid
 xychart-beta
-    title "zhou-changjian/Auto-Abaqus-Agent-Research 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "zhou-changjian/Auto-Abaqus-Agent-Research 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-26 15 → 2026-11-02 16（+1）
+2026-10-26 15 → 2026-11-17 17（+2）
 
 
 ---

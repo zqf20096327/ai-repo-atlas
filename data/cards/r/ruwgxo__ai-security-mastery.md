@@ -1,6 +1,6 @@
 # ruwgxo/ai-security-mastery
 
-⭐ 12 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ruwgxo/ai-security-mastery) · 个人维护
+⭐ 12 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ruwgxo/ai-security-mastery) · 个人维护
 
 **面向安全从业者的 90 天 AI 安全实战教程（开源书）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ruwgxo/ai-security-mastery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

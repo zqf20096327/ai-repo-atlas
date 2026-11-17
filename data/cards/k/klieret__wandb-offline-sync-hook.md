@@ -1,6 +1,6 @@
 # klieret/wandb-offline-sync-hook
 
-⭐ 92 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/klieret/wandb-offline-sync-hook) · [官网](https://wandb-offline-sync-hook.rtfd.io/) · 个人维护
+⭐ 93 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/klieret/wandb-offline-sync-hook) · [官网](https://wandb-offline-sync-hook.rtfd.io/) · 个人维护
 
 **为无网计算节点触发 wandb 同步的钩子工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "klieret/wandb-offline-sync-hook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "klieret/wandb-offline-sync-hook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 91 --> 94
+    line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 93（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jane-xiaoer/smart-rename
 
-⭐ 39 · Shell · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Jane-xiaoer/smart-rename) · 个人维护 · 中文 README
+⭐ 40 · Shell · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Jane-xiaoer/smart-rename) · 个人维护 · 中文 README
 
 **macOS Finder 右键用 Gemini 给文件起中文名的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jane-xiaoer/smart-rename 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "Jane-xiaoer/smart-rename 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # winyunq/UnrealMotionGraphicsMCP
 
-⭐ 219 · C++ · MIT · 推送 2026-08-02 · [GitHub](https://github.com/winyunq/UnrealMotionGraphicsMCP) · [官网](https://winyunq.github.io/UnrealMotionGraphicsMCP/) · 个人维护 · 中文 README
+⭐ 223 · C++ · MIT · 推送 2026-08-02 · [GitHub](https://github.com/winyunq/UnrealMotionGraphicsMCP) · [官网](https://winyunq.github.io/UnrealMotionGraphicsMCP/) · 个人维护 · 中文 README
 
 **面向 UE5 UMG 界面的 MCP 插件：AI agent 读写界面结构与蓝图**
 
@@ -44,13 +44,13 @@ Unreal Engine 5.8 Win64 的编辑器插件，通过 MCP 工具与 Python 服务�
 
 ```mermaid
 xychart-beta
-    title "winyunq/UnrealMotionGraphicsMCP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 215 --> 220
-    line [216, 217, 218, 219, 219]
+    title "winyunq/UnrealMotionGraphicsMCP 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 215 --> 224
+    line [216, 217, 218, 219, 217, 222, 223, 223]
 ```
 
-2026-10-18 216 → 2026-11-02 219（+3）
+2026-10-18 216 → 2026-11-17 223（+7）
 
 
 ---

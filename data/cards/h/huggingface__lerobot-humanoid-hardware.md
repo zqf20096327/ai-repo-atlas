@@ -1,6 +1,6 @@
 # huggingface/lerobot-humanoid-hardware
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/lerobot-humanoid-hardware) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/lerobot-humanoid-hardware) · 组织维护
 
 **LeRobot 人形机器人的开源硬件复现资料库**
 
@@ -44,13 +44,13 @@ HuggingFace 维护的 LeRobot Humanoid 双足平台硬件仓库：提供机械�
 
 ```mermaid
 xychart-beta
-    title "huggingface/lerobot-humanoid-hardware 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    title "huggingface/lerobot-humanoid-hardware 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 39, 43, 43]
 ```
 
-2026-10-18 39 → 2026-11-02 41（+2）
+2026-10-18 39 → 2026-11-17 43（+4）
 
 
 ---

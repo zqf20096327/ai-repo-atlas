@@ -1,6 +1,6 @@
 # NVIDIA/asset-harvester
 
-⭐ 274 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/asset-harvester) · 组织维护
+⭐ 275 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/NVIDIA/asset-harvester) · 组织维护
 
 **从驾驶日志提取仿真用 3D 高斯资产生成模型（NVIDIA）**
 
@@ -44,13 +44,13 @@ NVIDIA 发布的生成式 AI 模型与端到端流水线：将真实驾驶日志
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/asset-harvester 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 267 --> 275
-    line [268, 269, 271, 272, 273, 274, 274]
+    title "NVIDIA/asset-harvester 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 267 --> 276
+    line [268, 269, 271, 272, 273, 274, 272, 275, 275]
 ```
 
-2026-10-18 268 → 2026-11-02 274（+6）
+2026-10-18 268 → 2026-11-17 275（+7）
 
 
 ---

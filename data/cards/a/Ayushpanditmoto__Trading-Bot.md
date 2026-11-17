@@ -1,6 +1,6 @@
 # Ayushpanditmoto/Trading-Bot
 
-⭐ 88 · TypeScript · 推送 2026-08-27 · [GitHub](https://github.com/Ayushpanditmoto/Trading-Bot) · [官网](https://tradingbot69.vercel.app/) · 个人维护
+⭐ 89 · TypeScript · 推送 2026-08-27 · [GitHub](https://github.com/Ayushpanditmoto/Trading-Bot) · [官网](https://tradingbot69.vercel.app/) · 个人维护
 
 **二元期权交易 AI 机器人的项目构想，预测下一根 K 线方向**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ayushpanditmoto/Trading-Bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    title "Ayushpanditmoto/Trading-Bot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 86 --> 90
+    line [87, 88, 89, 89]
 ```
 
-2026-10-18 87 → 2026-11-02 88（+1）
+2026-10-18 87 → 2026-11-17 89（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Georg-S/CS2-AI
 
-⭐ 52 · C++ · BSD-3-Clause · 推送 2026-08-01 · [GitHub](https://github.com/Georg-S/CS2-AI) · 个人维护
+⭐ 53 · C++ · BSD-3-Clause · 推送 2026-08-01 · [GitHub](https://github.com/Georg-S/CS2-AI) · 个人维护
 
 **CS2 外部 AI 辅助工具：自瞄、扳机与自动移动**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "Georg-S/CS2-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 49 --> 53
-    line [50, 52, 52]
+    title "Georg-S/CS2-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 54
+    line [50, 52, 53, 53]
 ```
 
-2026-10-18 50 → 2026-11-02 52（+2）
+2026-10-18 50 → 2026-11-17 53（+3）
 
 
 ---

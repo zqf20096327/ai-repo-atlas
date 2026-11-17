@@ -1,6 +1,6 @@
 # AdamBien/zsmith
 
-⭐ 16 · Java · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AdamBien/zsmith) · [官网](https://bce.design) · 个人维护
+⭐ 17 · Java · MIT · 推送 2026-11-06 · [GitHub](https://github.com/AdamBien/zsmith) · [官网](https://bce.design) · 个人维护
 
 **Java 25 零依赖 AI agent 框架：单 jar 提供 agentic 循环与工具执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdamBien/zsmith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "AdamBien/zsmith 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

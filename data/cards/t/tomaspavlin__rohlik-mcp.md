@@ -1,6 +1,6 @@
 # tomaspavlin/rohlik-mcp
 
-⭐ 121 · TypeScript · MIT · 推送 2026-03-17 · [GitHub](https://github.com/tomaspavlin/rohlik-mcp) · 个人维护
+⭐ 122 · TypeScript · MIT · 推送 2026-03-17 · [GitHub](https://github.com/tomaspavlin/rohlik-mcp) · 个人维护
 
 **让 LLM 在 Rohlik 集团平台购买生鲜杂货的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomaspavlin/rohlik-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    title "tomaspavlin/rohlik-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 120 --> 123
+    line [121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-11-02 121（+0）
+2026-10-18 121 → 2026-11-17 122（+1）
 
 
 ---

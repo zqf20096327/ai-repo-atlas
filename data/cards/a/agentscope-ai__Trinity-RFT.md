@@ -1,6 +1,6 @@
 # agentscope-ai/Trinity-RFT
 
-⭐ 710 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/agentscope-ai/Trinity-RFT) · [官网](https://agentscope-ai.github.io/Trinity-RFT/) · 组织维护 · 中文 README
+⭐ 715 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/agentscope-ai/Trinity-RFT) · [官网](https://agentscope-ai.github.io/Trinity-RFT/) · 组织维护 · 中文 README
 
 **面向开发与研究的 LLM 强化微调通用框架**
 
@@ -45,13 +45,13 @@ Trinity-RFT 是一个 LLM 强化微调（RFT）框架，将 RFT 解耦为 Explor
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/Trinity-RFT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 708 --> 711
-    line [710, 709, 710]
+    title "agentscope-ai/Trinity-RFT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 708 --> 716
+    line [710, 709, 710, 713, 714, 715, 715]
 ```
 
-2026-10-18 710 → 2026-11-02 710（+0）
+2026-10-18 710 → 2026-11-17 715（+5）
 
 
 ---

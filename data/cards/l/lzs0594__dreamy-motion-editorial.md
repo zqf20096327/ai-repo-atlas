@@ -1,6 +1,6 @@
 # lzs0594/dreamy-motion-editorial
 
-⭐ 40 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/lzs0594/dreamy-motion-editorial) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/lzs0594/dreamy-motion-editorial) · 个人维护 · 中文 README
 
 **面向 AI 图生图的照片分析提示词生成 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lzs0594/dreamy-motion-editorial 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 41
-    line [38, 40, 39, 40]
+    title "lzs0594/dreamy-motion-editorial 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 37 --> 43
+    line [38, 40, 39, 40, 38, 40, 41, 42, 42]
 ```
 
-2026-10-18 38 → 2026-11-02 40（+2）
+2026-10-18 38 → 2026-11-17 42（+4）
 
 
 ---

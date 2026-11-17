@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SENATOROVAI/Normal-equation-solver-multiple-linear-regression-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "SENATOROVAI/Normal-equation-solver-multiple-linear-regression-course 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [20, 19]
+    line [20, 19, 20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 19（-1）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

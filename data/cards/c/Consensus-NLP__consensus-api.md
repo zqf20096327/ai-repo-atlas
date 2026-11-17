@@ -1,6 +1,6 @@
 # Consensus-NLP/consensus-api
 
-⭐ 18 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Consensus-NLP/consensus-api) · [官网](https://docs.consensus.app/reference/v1_search) · 组织维护
+⭐ 18 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Consensus-NLP/consensus-api) · [官网](https://docs.consensus.app/api-get-started) · 组织维护
 
 **Consensus 学术搜索的 REST API：检索 2.2 亿+ 篇同行评审论文**
 
@@ -46,12 +46,12 @@ Consensus 官方 API 仓库，提供对 2.2 亿+ 篇同行评审论文语料库�
 ```mermaid
 xychart-beta
     title "Consensus-NLP/consensus-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

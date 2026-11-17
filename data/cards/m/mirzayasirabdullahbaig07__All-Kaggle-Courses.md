@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/All-Kaggle-Courses
 
-⭐ 47 · Jupyter Notebook · 推送 2026-04-22 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-Kaggle-Courses) · [官网](https://www.kaggle.com/myab07) · 个人维护
+⭐ 46 · Jupyter Notebook · 推送 2026-04-22 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-Kaggle-Courses) · [官网](https://www.kaggle.com/myab07) · 个人维护
 
 **个人 Kaggle 课程练习与解答合集，供数据科学学习者参考**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/All-Kaggle-Courses 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/All-Kaggle-Courses 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    line [45, 46, 47, 45, 47, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 47（+2）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

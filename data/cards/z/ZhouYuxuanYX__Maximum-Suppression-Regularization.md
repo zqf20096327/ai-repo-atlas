@@ -1,6 +1,6 @@
 # ZhouYuxuanYX/Maximum-Suppression-Regularization
 
-⭐ 22 · Jupyter Notebook · 推送 2025-11-06 · [GitHub](https://github.com/ZhouYuxuanYX/Maximum-Suppression-Regularization) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **NeurIPS 2025 论文 MaxSup 官方实现：替代标签平滑的正则化方法**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ZhouYuxuanYX/Maximum-Suppression-Regularization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-07 22（+0）
 
 
 ---

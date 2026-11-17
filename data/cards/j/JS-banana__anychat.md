@@ -1,6 +1,6 @@
 # JS-banana/anychat
 
-⭐ 44 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/JS-banana/anychat) · 个人维护 · 中文 README
+⭐ 45 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/JS-banana/anychat) · 个人维护 · 中文 README
 
 **多 AI 聊天服务聚合的桌面客户端，统一入口切换使用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "JS-banana/anychat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 40 --> 45
-    line [41, 42, 43, 44, 44]
+    title "JS-banana/anychat 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 46
+    line [41, 42, 43, 44, 45, 44, 45, 45]
 ```
 
-2026-10-18 41 → 2026-11-02 44（+3）
+2026-10-18 41 → 2026-11-17 45（+4）
 
 
 ---

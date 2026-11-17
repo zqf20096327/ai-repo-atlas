@@ -1,6 +1,6 @@
 # FlorianBruniaux/youtube-video-insights
 
-⭐ 24 · Python · 推送 2026-09-22 · [GitHub](https://github.com/FlorianBruniaux/youtube-video-insights) · 个人维护
+⭐ 25 · Python · 推送 2026-09-22 · [GitHub](https://github.com/FlorianBruniaux/youtube-video-insights) · 个人维护
 
 **把 YouTube 字幕变成本地可检索研究库并产出带引用档案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlorianBruniaux/youtube-video-insights 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "FlorianBruniaux/youtube-video-insights 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [24, 23, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

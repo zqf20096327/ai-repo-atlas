@@ -1,6 +1,6 @@
 # xiongQvQ/-b2b-lead-hunter-skill
 
-⭐ 38 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xiongQvQ/-b2b-lead-hunter-skill) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
+⭐ 42 · Python · 推送 2026-11-05 · [GitHub](https://github.com/xiongQvQ/-b2b-lead-hunter-skill) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
 
 **外贸 B2B 客户挖掘的 AI Agent 技能包：跑在四平台内自动化线索研究**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiongQvQ/-b2b-lead-hunter-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "xiongQvQ/-b2b-lead-hunter-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 43
+    line [37, 38, 37, 41, 42, 42]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 42（+5）
 
 
 ---

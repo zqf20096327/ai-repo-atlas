@@ -1,6 +1,6 @@
 # chainbase-labs/manuscript-core
 
-⭐ 692 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/chainbase-labs/manuscript-core) · [官网](https://chainbase.com) · 组织维护
+⭐ 695 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/chainbase-labs/manuscript-core) · [官网](https://chainbase.com) · 组织维护
 
 **面向 Chainbase 网络的区块链数据流处理框架，支持链上/链下数据入仓查询**
 
@@ -45,13 +45,13 @@ Chainbase 团队维护的区块链数据流处理框架：用户以 manuscript.y
 
 ```mermaid
 xychart-beta
-    title "chainbase-labs/manuscript-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 689 --> 693
-    line [690, 691, 692, 692]
+    title "chainbase-labs/manuscript-core 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 689 --> 696
+    line [690, 691, 692, 691, 695, 695]
 ```
 
-2026-10-18 690 → 2026-11-02 692（+2）
+2026-10-18 690 → 2026-11-17 695（+5）
 
 
 ---

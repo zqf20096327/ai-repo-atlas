@@ -1,6 +1,6 @@
 # iBz-04/Seeker
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/iBz-04/Seeker) · [官网](https://viralway.co) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/iBz-04/Seeker) · [官网](https://viralway.co) · 个人维护
 
 **深度研究助手：把粗略提问转为结构化答案或长报告**
 
@@ -44,13 +44,13 @@ Seeker 通过迭代式网络搜索、追问澄清与 LLM 综合生成研究产�
 
 ```mermaid
 xychart-beta
-    title "iBz-04/Seeker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "iBz-04/Seeker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

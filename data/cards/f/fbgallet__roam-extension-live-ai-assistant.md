@@ -1,6 +1,6 @@
 # fbgallet/roam-extension-live-ai-assistant
 
-⭐ 62 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fbgallet/roam-extension-live-ai-assistant) · 个人维护
+⭐ 63 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/fbgallet/roam-extension-live-ai-assistant) · 个人维护
 
 **Roam Research 的 AI 助手扩展：在笔记块中直接调用 LLM**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "fbgallet/roam-extension-live-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "fbgallet/roam-extension-live-ai-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

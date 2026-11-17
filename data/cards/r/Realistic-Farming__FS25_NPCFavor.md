@@ -1,6 +1,6 @@
 # Realistic-Farming/FS25_NPCFavor
 
-⭐ 35 · Lua · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Realistic-Farming/FS25_NPCFavor) · [官网](https://discord.gg/sJyKJCJh) · 组织维护
+⭐ 37 · Lua · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Realistic-Farming/FS25_NPCFavor) · [官网](https://discord.gg/sJyKJCJh) · 组织维护
 
 **Farming Simulator 25 生活化 NPC 邻居模组：AI 日程与好感系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Realistic-Farming/FS25_NPCFavor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35]
+    title "Realistic-Farming/FS25_NPCFavor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 34, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

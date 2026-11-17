@@ -1,6 +1,6 @@
 # mlimarenko/IronRAG
 
-⭐ 49 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mlimarenko/IronRAG) · 个人维护
+⭐ 51 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/mlimarenko/IronRAG) · 个人维护
 
 **自托管文档检索与带引用落地回答系统，供团队与 AI agent 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlimarenko/IronRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "mlimarenko/IronRAG 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 49, 48, 51, 51]
 ```
 
-2026-10-18 47 → 2026-11-02 49（+2）
+2026-10-18 47 → 2026-11-17 51（+4）
 
 
 ---

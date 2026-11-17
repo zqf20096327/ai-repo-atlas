@@ -1,6 +1,6 @@
 # cheolwanpark/claude-agent-toolkit
 
-⭐ 27 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/cheolwanpark/claude-agent-toolkit) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/cheolwanpark/claude-agent-toolkit) · 个人维护
 
 **基于 claude-code-sdk 的 Python Agent 构建框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cheolwanpark/claude-agent-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "cheolwanpark/claude-agent-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

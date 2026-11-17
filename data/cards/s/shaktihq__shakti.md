@@ -1,6 +1,6 @@
 # shaktihq/shakti
 
-⭐ 46 · HTML · MIT · 推送 2026-08-19 · [GitHub](https://github.com/shaktihq/shakti) · [官网](https://shakti.adityabhat.in) · 个人维护
+⭐ 41 · HTML · MIT · 推送 2026-08-19 · [GitHub](https://github.com/shaktihq/shakti) · [官网](https://shakti.adityabhat.in) · 个人维护
 
 **AI-first Python Web 框架：一体化构建 API、Web 应用与 AI 功能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shaktihq/shakti 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 45 --> 53
-    line [52, 46, 46]
+    title "shaktihq/shakti 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 53
+    line [52, 46, 41, 41]
 ```
 
-2026-10-18 52 → 2026-11-02 46（-6）
+2026-10-18 52 → 2026-11-17 41（-11）
 
 
 ---

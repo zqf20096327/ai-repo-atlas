@@ -1,6 +1,6 @@
 # l22-io/orchard-mcp
 
-⭐ 21 · Swift · MIT · 推送 2026-06-19 · [GitHub](https://github.com/l22-io/orchard-mcp) · 组织维护
+⭐ 22 · Swift · MIT · 推送 2026-06-19 · [GitHub](https://github.com/l22-io/orchard-mcp) · 组织维护
 
 **macOS 原生应用的 MCP 服务器：让 AI 客户端读写日历/邮件/提醒等**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "l22-io/orchard-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "l22-io/orchard-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

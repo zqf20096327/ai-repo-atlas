@@ -1,6 +1,6 @@
 # sanidhyy/brainwave
 
-⭐ 165 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sanidhyy/brainwave) · [官网](https://app-brainwave.netlify.app/) · 个人维护
+⭐ 165 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sanidhyy/brainwave) · [官网](https://app-brainwave.netlify.app/) · 个人维护
 
 **React 实现的生成式 AI SaaS 落地页模板**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanidhyy/brainwave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 164 --> 166
-    line [165, 165]
+    title "sanidhyy/brainwave 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 163 --> 166
+    line [165, 164, 165, 165]
 ```
 
-2026-10-18 165 → 2026-11-02 165（+0）
+2026-10-18 165 → 2026-11-17 165（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mcity/mcity_data_engine
 
-⭐ 24 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/mcity/mcity_data_engine) · [官网](https://mcity.umich.edu/what-we-do/data-for-ai/) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mcity/mcity_data_engine) · [官网](https://mcity.umich.edu/what-we-do/data-for-ai/) · 组织维护
 
 **面向交通领域视觉 AI 的数据整理与模型迭代训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mcity/mcity_data_engine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    title "mcity/mcity_data_engine 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    line [22, 23, 24, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

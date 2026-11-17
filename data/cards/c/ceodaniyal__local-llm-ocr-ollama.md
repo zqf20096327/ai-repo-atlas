@@ -1,6 +1,6 @@
 # ceodaniyal/local-llm-ocr-ollama
 
-⭐ 13 · Python · 推送 2025-12-11 · [GitHub](https://github.com/ceodaniyal/local-llm-ocr-ollama) · 个人维护
+⭐ 14 · Python · 推送 2025-12-11 · [GitHub](https://github.com/ceodaniyal/local-llm-ocr-ollama) · 个人维护
 
 **本地 Ollama 视觉模型做免费离线 OCR 的 Python 脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ceodaniyal/local-llm-ocr-ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "ceodaniyal/local-llm-ocr-ollama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

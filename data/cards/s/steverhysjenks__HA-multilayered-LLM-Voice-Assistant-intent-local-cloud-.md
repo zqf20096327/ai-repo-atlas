@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud- 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud- 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

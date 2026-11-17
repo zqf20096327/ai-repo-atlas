@@ -44,13 +44,13 @@ Oracle DevRel 出品的教学型 Hands-On Labs 项目：通过 Riot Games 官方
 
 ```mermaid
 xychart-beta
-    title "oracle-devrel/leagueoflegends-optimizer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "oracle-devrel/leagueoflegends-optimizer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 157 --> 161
-    line [158, 159, 160, 160]
+    line [158, 159, 160, 159, 160, 160]
 ```
 
-2026-10-18 158 → 2026-11-02 160（+2）
+2026-10-18 158 → 2026-11-17 160（+2）
 
 
 ---

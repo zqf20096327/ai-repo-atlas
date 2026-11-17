@@ -1,6 +1,6 @@
 # MADEVAL/Pre-Mortem-Skill
 
-⭐ 48 · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/MADEVAL/Pre-Mortem-Skill) · [官网](https://github.com/MADEVAL/Pre-Mortem-Skill) · 个人维护
+⭐ 60 · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/MADEVAL/Pre-Mortem-Skill) · [官网](https://github.com/MADEVAL/Pre-Mortem-Skill) · 个人维护
 
 **假设计划已失败并倒推失败原因的 agent 技能（premortem）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MADEVAL/Pre-Mortem-Skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 49
-    line [45, 48]
+    title "MADEVAL/Pre-Mortem-Skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 44 --> 61
+    line [45, 48, 45, 53, 57, 59, 60, 60]
 ```
 
-2026-10-18 45 → 2026-11-02 48（+3）
+2026-10-18 45 → 2026-11-17 60（+15）
 
 
 ---

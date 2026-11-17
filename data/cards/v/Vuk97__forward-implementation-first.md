@@ -1,6 +1,6 @@
 # Vuk97/forward-implementation-first
 
-⭐ 181 · Shell · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Vuk97/forward-implementation-first) · 个人维护
+⭐ 185 · Shell · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Vuk97/forward-implementation-first) · 个人维护
 
 **给编码 agent 的行为规则技能：先交付实现，不被自造的簿记卡住**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vuk97/forward-implementation-first 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 178 --> 182
-    line [179, 180, 179, 180, 181, 181]
+    title "Vuk97/forward-implementation-first 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 178 --> 186
+    line [179, 180, 179, 180, 181, 180, 184, 185, 185]
 ```
 
-2026-10-18 179 → 2026-11-02 181（+2）
+2026-10-18 179 → 2026-11-17 185（+6）
 
 
 ---

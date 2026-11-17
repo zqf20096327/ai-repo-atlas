@@ -1,6 +1,6 @@
 # archudzik/orionAIScreenReader
 
-⭐ 19 · Kotlin · MIT · 推送 2026-06-01 · [GitHub](https://github.com/archudzik/orionAIScreenReader) · 个人维护
+⭐ 20 · Kotlin · MIT · 推送 2026-11-03 · [GitHub](https://github.com/archudzik/orionAIScreenReader) · 个人维护
 
 **给视障用户的 Android AI 屏幕阅读器，用 Gemini 朗读屏幕内容**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "archudzik/orionAIScreenReader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "archudzik/orionAIScreenReader 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Brescou/langgraph-agent-stack
 
-⭐ 20 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Brescou/langgraph-agent-stack) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Brescou/langgraph-agent-stack) · 个人维护
 
 **面向 ML 工程师的多 agent LangGraph 生产级自托管模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Brescou/langgraph-agent-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

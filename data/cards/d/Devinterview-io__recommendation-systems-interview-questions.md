@@ -1,6 +1,6 @@
 # Devinterview-io/recommendation-systems-interview-questions
 
-⭐ 69 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/recommendation-systems-interview-questions) · 组织维护
+⭐ 71 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/recommendation-systems-interview-questions) · 组织维护
 
 **推荐系统面试题与答案合集（50 题），面向机器学习求职者**
 
@@ -44,13 +44,13 @@ Devinterview.io 维护的推荐系统面试准备资料库：以问答形式覆�
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/recommendation-systems-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "Devinterview-io/recommendation-systems-interview-questions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71, 71]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 71（+2）
 
 
 ---

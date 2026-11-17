@@ -1,6 +1,6 @@
 # l3yx/intentlang
 
-⭐ 97 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/l3yx/intentlang) · 个人维护 · 中文 README
+⭐ 99 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/l3yx/intentlang) · 个人维护 · 中文 README
 
 **面向 AI Agent 的意图驱动编程框架，基于 Python**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "l3yx/intentlang 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 96 --> 99
-    line [98, 97, 97]
+    title "l3yx/intentlang 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 96 --> 100
+    line [98, 97, 98, 97, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 97（-1）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

@@ -46,13 +46,13 @@ Rust + Tauri 实现的本地 API 网关，支持 openai / openai-response / anth
 
 ```mermaid
 xychart-beta
-    title "mxyhi/token_proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "mxyhi/token_proxy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [94, 93, 94, 94]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 94（+0）
 
 
 ---

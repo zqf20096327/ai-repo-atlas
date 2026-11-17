@@ -1,6 +1,6 @@
 # AICONSlab/MIRACL
 
-⭐ 51 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/AICONSlab/MIRACL) · [官网](https://miracl.readthedocs.io) · 组织维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/AICONSlab/MIRACL) · [官网](https://miracl.readthedocs.io) · 组织维护
 
 **神经影像多模态配准与连接分析开源流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AICONSlab/MIRACL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "AICONSlab/MIRACL 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

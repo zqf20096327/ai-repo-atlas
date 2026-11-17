@@ -1,6 +1,6 @@
 # maziluiosif/oxi
 
-⭐ 27 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/maziluiosif/oxi) · [官网](https://maziluiosif.github.io/oxi/) · 个人维护
+⭐ 33 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/maziluiosif/oxi) · [官网](https://maziluiosif.github.io/oxi/) · 个人维护
 
 **Rust 桌面端编程助手：多 agent 同聊切换并带上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maziluiosif/oxi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 28
-    line [22, 23, 24, 25, 26, 27, 27]
+    title "maziluiosif/oxi 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 34
+    line [22, 23, 24, 25, 26, 27, 25, 30, 31, 32, 33, 33]
 ```
 
-2026-10-18 22 → 2026-11-02 27（+5）
+2026-10-18 22 → 2026-11-17 33（+11）
 
 
 ---

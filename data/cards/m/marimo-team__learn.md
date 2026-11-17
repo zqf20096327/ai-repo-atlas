@@ -1,6 +1,6 @@
 # marimo-team/learn
 
-⭐ 362 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/marimo-team/learn) · [官网](https://marimo-team.github.io/learn/) · 组织维护
+⭐ 370 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/marimo-team/learn) · [官网](https://marimo-team.github.io/learn/) · 组织维护
 
 **教育用途的 marimo notebook 策展合集，按课程组织**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "marimo-team/learn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 357 --> 363
-    line [358, 359, 360, 361, 362]
+    title "marimo-team/learn 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 357 --> 371
+    line [358, 359, 360, 361, 362, 360, 363, 366, 367, 368, 369, 370, 370]
 ```
 
-2026-10-18 358 → 2026-11-02 362（+4）
+2026-10-18 358 → 2026-11-17 370（+12）
 
 
 ---

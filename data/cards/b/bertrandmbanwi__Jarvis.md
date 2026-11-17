@@ -1,6 +1,6 @@
 # bertrandmbanwi/Jarvis
 
-⭐ 42 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/bertrandmbanwi/Jarvis) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/bertrandmbanwi/Jarvis) · 个人维护
 
 **macOS 语音 AI 助手：对话控制电脑、浏览器与日常任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bertrandmbanwi/Jarvis 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 36 --> 43
-    line [37, 39, 40, 41, 42, 42]
+    title "bertrandmbanwi/Jarvis 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 44
+    line [37, 39, 40, 41, 42, 41, 43, 43]
 ```
 
-2026-10-18 37 → 2026-11-02 42（+5）
+2026-10-18 37 → 2026-11-17 43（+6）
 
 
 ---

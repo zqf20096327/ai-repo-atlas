@@ -1,6 +1,6 @@
 # Entrpi/ds4-on-spark
 
-⭐ 412 · Shell · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Entrpi/ds4-on-spark) · 组织维护
+⭐ 415 · Shell · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Entrpi/ds4-on-spark) · 组织维护
 
 **在 DGX Spark 上一键部署 DeepSeek-V4-Flash 推理服务的安装器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Entrpi/ds4-on-spark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 409 --> 413
-    line [410, 411, 412, 412]
+    title "Entrpi/ds4-on-spark 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 409 --> 416
+    line [410, 411, 412, 410, 414, 415, 415]
 ```
 
-2026-10-18 410 → 2026-11-02 412（+2）
+2026-10-18 410 → 2026-11-17 415（+5）
 
 
 ---

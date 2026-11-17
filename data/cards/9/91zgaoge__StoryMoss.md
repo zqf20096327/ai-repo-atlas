@@ -1,6 +1,6 @@
 # 91zgaoge/StoryMoss
 
-⭐ 78 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/91zgaoge/StoryMoss) · [官网](https://storymoss.top) · 个人维护 · 中文 README
+⭐ 82 · Rust · 推送 2026-11-15 · [GitHub](https://github.com/91zgaoge/StoryMoss) · [官网](https://storymoss.top) · 个人维护 · 中文 README
 
 **AI 辅助小说创作的桌面应用，多代理续写与故事资产管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "91zgaoge/StoryMoss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    title "91zgaoge/StoryMoss 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 76 --> 83
+    line [77, 78, 79, 81, 80, 81, 82, 82]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-17 82（+5）
 
 
 ---

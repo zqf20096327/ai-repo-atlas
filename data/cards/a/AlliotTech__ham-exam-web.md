@@ -1,6 +1,6 @@
 # AlliotTech/ham-exam-web
 
-⭐ 342 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/AlliotTech/ham-exam-web) · [官网](https://ham-exam.iots.vip) · 个人维护 · 中文 README
+⭐ 343 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/AlliotTech/ham-exam-web) · [官网](https://ham-exam.iots.vip) · 个人维护 · 中文 README
 
 **业余无线电执照考试模拟应用，A/B/C 类题库练习与模拟**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlliotTech/ham-exam-web 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 339 --> 343
-    line [340, 341, 342, 341, 342, 342]
+    title "AlliotTech/ham-exam-web 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 339 --> 344
+    line [340, 341, 342, 341, 342, 341, 343, 343]
 ```
 
-2026-10-22 340 → 2026-11-02 342（+2）
+2026-10-22 340 → 2026-11-17 343（+3）
 
 
 ---

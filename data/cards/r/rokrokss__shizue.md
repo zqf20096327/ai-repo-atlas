@@ -1,6 +1,6 @@
 # rokrokss/shizue
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rokrokss/shizue) · [官网](https://shizue.net) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **集成 LLM 的 Chrome 侧边栏：聊天、网页摘要与双语翻译**
 
@@ -11,7 +11,7 @@ MIT 许可的 Chrome 扩展，把 LLM 引入日常浏览：侧边栏 AI 聊天�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ MIT 许可的 Chrome 扩展，把 LLM 引入日常浏览：侧边栏 AI 聊天�
 
 ```mermaid
 xychart-beta
-    title "rokrokss/shizue 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "rokrokss/shizue 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08"]
+    y-axis "stars" 11 --> 21
+    line [12, 13, 14, 15, 13, 20]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-08 20（+8）
 
 
 ---

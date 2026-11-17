@@ -1,6 +1,6 @@
 # Burakkylmz/Encoder-Only-Transformer
 
-⭐ 14 · Python · 推送 2026-05-10 · [GitHub](https://github.com/Burakkylmz/Encoder-Only-Transformer) · 个人维护
+⭐ 16 · Python · 推送 2026-05-10 · [GitHub](https://github.com/Burakkylmz/Encoder-Only-Transformer) · 个人维护
 
 **从零构建的 Encoder-only Transformer 教学实现，含训练与测试**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Burakkylmz/Encoder-Only-Transformer 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 13, 14, 14]
+    title "Burakkylmz/Encoder-Only-Transformer 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 13, 14, 16, 16]
 ```
 
-2026-10-28 10 → 2026-11-02 14（+4）
+2026-10-28 10 → 2026-11-17 16（+6）
 
 
 ---

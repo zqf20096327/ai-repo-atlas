@@ -1,6 +1,6 @@
 # ColeFang35/yunqiao-customer-service-agent
 
-⭐ 19 · Python · 推送 2026-09-15 · [GitHub](https://github.com/ColeFang35/yunqiao-customer-service-agent) · 个人维护 · 中文 README
+⭐ 20 · Python · 推送 2026-09-15 · [GitHub](https://github.com/ColeFang35/yunqiao-customer-service-agent) · 个人维护 · 中文 README
 
 **基于 AgentScope 的电商智能客服 Agent，17 个工具全链路**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ColeFang35/yunqiao-customer-service-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "ColeFang35/yunqiao-customer-service-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

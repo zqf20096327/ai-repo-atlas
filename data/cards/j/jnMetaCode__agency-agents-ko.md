@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-ko
 
-⭐ 19 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-ko) · [官网](https://www.npmjs.com/package/agency-agents-ko) · 个人维护
+⭐ 21 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-ko) · [官网](https://www.npmjs.com/package/agency-agents-ko) · 个人维护
 
 **187 个韩语 AI 专家 agent 人格库，适配 17 种 AI 编码工具**
 
@@ -45,13 +45,13 @@ agency-agents 上游 184 个 agent 的韩语全量翻译版，新增 3 个韩国
 
 ```mermaid
 xychart-beta
-    title "jnMetaCode/agency-agents-ko 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 19, 19]
+    title "jnMetaCode/agency-agents-ko 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 19, 20, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-17 21（+5）
 
 
 ---

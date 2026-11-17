@@ -1,6 +1,6 @@
 # bentoml/openllm-models
 
-⭐ 70 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/openllm-models) · 组织维护
+⭐ 69 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/openllm-models) · 组织维护
 
 **openllm 默认模型仓库：提供可运行模型定义集合**
 
@@ -44,13 +44,13 @@ BentoML 维护的 openllm 默认模型仓库，main 分支随 openllm 默认内�
 
 ```mermaid
 xychart-beta
-    title "bentoml/openllm-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "bentoml/openllm-models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [70, 69, 69]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 69（-1）
 
 
 ---

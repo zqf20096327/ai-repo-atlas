@@ -1,6 +1,6 @@
 # ythx-101/openclaw-qa
 
-⭐ 83 · HTML · 推送 2026-09-06 · [GitHub](https://github.com/ythx-101/openclaw-qa) · [官网](https://github.com/ythx-101/openclaw-qa) · 组织维护 · 中文 README
+⭐ 83 · HTML · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/openclaw-qa) · [官网](https://github.com/ythx-101/openclaw-qa) · 组织维护 · 中文 README
 
 **AI Agent 社区驿站：登记、工具交流与实战经验存档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ythx-101/openclaw-qa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 83（+0）
 
 
 ---

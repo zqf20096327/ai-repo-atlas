@@ -1,6 +1,6 @@
 # libxsmm/tpp-mlir
 
-⭐ 166 · MLIR · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/libxsmm/tpp-mlir) · [官网](https://arxiv.org/abs/2404.15204) · 组织维护
+⭐ 166 · MLIR · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/libxsmm/tpp-mlir) · [官网](https://arxiv.org/abs/2404.15204) · 组织维护
 
 **基于 MLIR 的线性代数 TPP 编译器实验，自动选择最优微内核**
 
@@ -46,12 +46,12 @@ libxsmm 组织维护的 out-of-tree MLIR 方言项目：用 MLIR 自动为线性
 ```mermaid
 xychart-beta
     title "libxsmm/tpp-mlir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 164 --> 167
     line [165, 166, 166]
 ```
 
-2026-10-18 165 → 2026-11-02 166（+1）
+2026-10-18 165 → 2026-11-17 166（+1）
 
 
 ---

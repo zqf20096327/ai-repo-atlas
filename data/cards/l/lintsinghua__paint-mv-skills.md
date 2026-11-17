@@ -1,6 +1,6 @@
 # lintsinghua/paint-mv-skills
 
-⭐ 46 · JavaScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/lintsinghua/paint-mv-skills) · [官网](https://github.com/user-attachments/assets/8e291eb1-0761-4abd-b2c0-7ef165dc343a) · 个人维护 · 中文 README
+⭐ 73 · JavaScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/lintsinghua/paint-mv-skills) · [官网](https://github.com/user-attachments/assets/8e291eb1-0761-4abd-b2c0-7ef165dc343a) · 个人维护 · 中文 README
 
 **给 AI Agent 的 MV 制作 skills：歌曲+歌词生成手绘水彩动画 MV**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lintsinghua/paint-mv-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 39 --> 48
-    line [40, 41, 43, 44, 45, 46, 47, 46]
+    title "lintsinghua/paint-mv-skills 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 37 --> 76
+    line [40, 41, 43, 44, 45, 46, 47, 46, 44, 53, 58, 59, 63, 66, 71, 73, 73]
 ```
 
-2026-10-18 40 → 2026-11-02 46（+6）
+2026-10-18 40 → 2026-11-17 73（+33）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neo1027144-creator/antigravity-history-vscode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "neo1027144-creator/antigravity-history-vscode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 47 --> 50
-    line [49, 48, 48]
+    line [49, 48, 49, 48, 48]
 ```
 
-2026-10-18 49 → 2026-11-02 48（-1）
+2026-10-18 49 → 2026-11-17 48（-1）
 
 
 ---

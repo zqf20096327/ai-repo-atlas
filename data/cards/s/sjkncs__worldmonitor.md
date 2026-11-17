@@ -1,6 +1,6 @@
 # sjkncs/worldmonitor
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/sjkncs/worldmonitor) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/sjkncs/worldmonitor) · 个人维护 · 中文 README
 
 **实时全球情报仪表盘：新闻聚合、地缘监控与 AI 简报**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjkncs/worldmonitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "sjkncs/worldmonitor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nestchao/ai-studio-bridge
 
-⭐ 14 · Python · MIT · 推送 2026-03-14 · [GitHub](https://github.com/nestchao/ai-studio-bridge) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-03-14 · [GitHub](https://github.com/nestchao/ai-studio-bridge) · 个人维护
 
 **用 Playwright 把 Google AI Studio 网页封装成可编程 API 的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nestchao/ai-studio-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "nestchao/ai-studio-bridge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Amer-CN/super-official-writer
 
-⭐ 12 · Python · 推送 2026-09-17 · [GitHub](https://github.com/Amer-CN/super-official-writer) · 个人维护 · 中文 README
+⭐ 18 · Python · 推送 2026-11-05 · [GitHub](https://github.com/Amer-CN/super-official-writer) · 个人维护 · 中文 README
 
 **装进 Agent 的中文公文写作技能：知识库+国标 Word 排版**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Amer-CN/super-official-writer 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "Amer-CN/super-official-writer 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 19
+    line [10, 11, 12, 10, 14, 16, 17, 18, 18]
 ```
 
-2026-10-25 10 → 2026-11-02 12（+2）
+2026-10-25 10 → 2026-11-17 18（+8）
 
 
 ---

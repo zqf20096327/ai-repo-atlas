@@ -1,6 +1,6 @@
 # kmheckel/spyx
 
-⭐ 139 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/kmheckel/spyx) · [官网](https://spyx.readthedocs.io/en/latest/) · 个人维护
+⭐ 140 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/kmheckel/spyx) · [官网](https://spyx.readthedocs.io/en/latest/) · 个人维护
 
 **基于 JAX 的脉冲神经网络（SNN）构建与训练库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kmheckel/spyx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    title "kmheckel/spyx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 138 --> 141
+    line [139, 140, 140]
 ```
 
-2026-10-18 139 → 2026-11-02 139（+0）
+2026-10-18 139 → 2026-11-17 140（+1）
 
 
 ---

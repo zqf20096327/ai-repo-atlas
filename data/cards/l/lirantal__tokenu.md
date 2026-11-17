@@ -1,6 +1,6 @@
 # lirantal/tokenu
 
-⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lirantal/tokenu) · 个人维护
+⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/lirantal/tokenu) · 个人维护
 
 **统计文件与目录 token 占用的类 du 命令行工具**
 
@@ -45,13 +45,13 @@ Node.js 编写的类 Unix du 的 CLI 工具：递归读取项目文件，通过 
 
 ```mermaid
 xychart-beta
-    title "lirantal/tokenu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "lirantal/tokenu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 68
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

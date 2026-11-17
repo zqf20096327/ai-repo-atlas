@@ -1,6 +1,6 @@
 # olegpustovit/agentpack
 
-⭐ 16 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/olegpustovit/agentpack) · [官网](https://olegpustovit.github.io/agentpack) · 个人维护
+⭐ 16 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/olegpustovit/agentpack) · [官网](https://olegpustovit.github.io/agentpack) · 个人维护
 
 **为编程 agent 固定 skills 与插件版本的项目清单/锁文件工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "olegpustovit/agentpack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

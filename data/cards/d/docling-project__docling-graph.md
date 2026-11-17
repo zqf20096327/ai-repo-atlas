@@ -1,6 +1,6 @@
 # docling-project/docling-graph
 
-⭐ 938 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/docling-project/docling-graph) · 组织维护
+⭐ 946 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/docling-project/docling-graph) · 组织维护
 
 **把非结构化文档转成可查询知识图谱的抽取工具链**
 
@@ -44,13 +44,13 @@ IBM 维护的 Docling 生态工具：将 PDF、Office、markdown 等文档转换
 
 ```mermaid
 xychart-beta
-    title "docling-project/docling-graph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 933 --> 939
-    line [934, 936, 937, 938, 938]
+    title "docling-project/docling-graph 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 933 --> 947
+    line [934, 936, 937, 938, 936, 939, 943, 944, 945, 946, 946]
 ```
 
-2026-10-18 934 → 2026-11-02 938（+4）
+2026-10-18 934 → 2026-11-17 946（+12）
 
 
 ---

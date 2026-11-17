@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Noise-Injection-Techniques
 
-⭐ 21 · MIT · 推送 2025-11-15 · [GitHub](https://github.com/AmirhosseinHonardoust/Noise-Injection-Techniques) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向数据科学家的噪声注入技术教程：讲解原理、代码与适用场景**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Noise-Injection-Techniques 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-10 21（+0）
 
 
 ---

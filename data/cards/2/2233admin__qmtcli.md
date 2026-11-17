@@ -1,6 +1,6 @@
 # 2233admin/qmtcli
 
-⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/2233admin/qmtcli) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/2233admin/qmtcli) · 个人维护 · 中文 README
 
 **把 QMT/xtquant 包装成只读本地 JSON CLI，供脚本与 AI Agent 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "2233admin/qmtcli 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "2233admin/qmtcli 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 10, 13, 14, 14]
 ```
 
-2026-10-25 10 → 2026-11-02 13（+3）
+2026-10-25 10 → 2026-11-17 14（+4）
 
 
 ---

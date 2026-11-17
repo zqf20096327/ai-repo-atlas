@@ -1,6 +1,6 @@
 # bsc-wdc/dislib
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bsc-wdc/dislib) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bsc-wdc/dislib) · 组织维护
 
 **面向 HPC 的分布式机器学习 Python 库（基于 PyCOMPSs）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bsc-wdc/dislib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "bsc-wdc/dislib 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [55, 54, 54]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 54（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZongXR/The-8th-National-Final-of-Workers-Vocational-Skills-Competition
 
-⭐ 38 · Jupyter Notebook · GPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/ZongXR/The-8th-National-Final-of-Workers-Vocational-Skills-Competition) · [官网](https://ldjj.acftu.org/wjytzgg/202406/P020240604573052992218.pdf) · 个人维护 · 中文 README
+⭐ 39 · Jupyter Notebook · GPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/ZongXR/The-8th-National-Final-of-Workers-Vocational-Skills-Competition) · [官网](https://ldjj.acftu.org/wjytzgg/202406/P020240604573052992218.pdf) · 个人维护 · 中文 README
 
 **第八届全国职工职业技能大赛人工智能训练师赛项技术文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZongXR/The-8th-National-Final-of-Workers-Vocational-Skills-Competition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "ZongXR/The-8th-National-Final-of-Workers-Vocational-Skills-Competition 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 39, 40, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

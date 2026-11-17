@@ -1,6 +1,6 @@
 # mlnomadpy/nmn
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/mlnomadpy/nmn) · [官网](https://pypi.org/project/nmn/) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/mlnomadpy/nmn) · [官网](https://pypi.org/project/nmn/) · 组织维护
 
 **免激活函数的几何神经网络层库，支持六大框架**
 
@@ -44,13 +44,13 @@ NMN 提供 Yat 系列神经网络层（Dense、Conv、Attention、Embedding）�
 
 ```mermaid
 xychart-beta
-    title "mlnomadpy/nmn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "mlnomadpy/nmn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ramnezer/herodium
 
-⭐ 36 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/ramnezer/herodium) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/ramnezer/herodium) · 个人维护
 
 **开发者向 Linux 防御工具种子框架：整合多层防护组件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ramnezer/herodium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "ramnezer/herodium 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

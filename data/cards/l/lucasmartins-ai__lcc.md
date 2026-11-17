@@ -1,6 +1,6 @@
 # lucasmartins-ai/lcc
 
-⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/lucasmartins-ai/lcc) · [官网](https://lookadev.com/en/lcc) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lucasmartins-ai/lcc) · [官网](https://lookadev.com/en/lcc) · 个人维护
 
 **为编程 agent 精简上下文的本地工具，逐字保留、可回溯**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucasmartins-ai/lcc 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 15, 16, 16]
+    title "lucasmartins-ai/lcc 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 21
+    line [12, 13, 15, 16, 15, 19, 20, 20]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 20（+8）
 
 
 ---

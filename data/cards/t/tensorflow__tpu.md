@@ -1,6 +1,6 @@
 # tensorflow/tpu
 
-⭐ 5,282 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/tensorflow/tpu) · [官网](https://cloud.google.com/tpu/) · 组织维护
+⭐ 5,281 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/tensorflow/tpu) · [官网](https://cloud.google.com/tpu/) · 组织维护
 
 **Cloud TPU 官方参考模型与工具集合**
 
@@ -43,13 +43,13 @@ Google 维护的 Cloud TPU 参考模型与工具仓库，包含 models 子目录
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tpu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 5281 --> 5284
-    line [5282, 5283, 5282, 5283, 5282, 5282]
+    title "tensorflow/tpu 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 5279 --> 5284
+    line [5282, 5283, 5282, 5283, 5282, 5281, 5280, 5281, 5281]
 ```
 
-2026-10-18 5,282 → 2026-11-02 5,282（+0）
+2026-10-18 5,282 → 2026-11-17 5,281（-1）
 
 
 ---

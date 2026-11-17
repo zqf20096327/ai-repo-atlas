@@ -1,6 +1,6 @@
 # alexk-dev/golemcore-bot
 
-⭐ 41 · Java · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/alexk-dev/golemcore-bot) · [官网](https://golemcore.me) · 个人维护
+⭐ 42 · Java · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/alexk-dev/golemcore-bot) · [官网](https://golemcore.me) · 个人维护
 
 **面向企业的渠道接入 Agent 运行平台，支持技能/插件/MCP/记忆**
 
@@ -44,13 +44,13 @@ GolemCore Bot 是运行渠道连接型 AI Agent 的平台：通过仪表盘、Te
 
 ```mermaid
 xychart-beta
-    title "alexk-dev/golemcore-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "alexk-dev/golemcore-bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

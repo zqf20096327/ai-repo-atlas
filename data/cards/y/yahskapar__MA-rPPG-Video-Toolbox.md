@@ -1,6 +1,6 @@
 # yahskapar/MA-rPPG-Video-Toolbox
 
-⭐ 85 · Python · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/yahskapar/MA-rPPG-Video-Toolbox) · [官网](https://motion-matters.github.io/) · 组织维护 · 中文 README
+⭐ 86 · Python · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/yahskapar/MA-rPPG-Video-Toolbox) · [官网](https://motion-matters.github.io/) · 组织维护 · 中文 README
 
 **rPPG 研究用的神经运动迁移数据增强视频工具箱**
 
@@ -44,13 +44,13 @@ WACV 2024 论文 Motion Matters 的源码与预训练模型仓库：将运动迁
 
 ```mermaid
 xychart-beta
-    title "yahskapar/MA-rPPG-Video-Toolbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "yahskapar/MA-rPPG-Video-Toolbox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZeZhan/aurix-ai-agent
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/ZeZhan/aurix-ai-agent) · [官网](https://zezhan.github.io/aurix-ai-agent/) · 个人维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/ZeZhan/aurix-ai-agent) · [官网](https://zezhan.github.io/aurix-ai-agent/) · 个人维护 · 中文 README
 
 **VS Code 中用 Copilot+MCP 生成、编译、烧写 AURIX 固件的助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZeZhan/aurix-ai-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "ZeZhan/aurix-ai-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

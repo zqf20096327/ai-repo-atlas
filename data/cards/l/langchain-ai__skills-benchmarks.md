@@ -1,6 +1,6 @@
 # langchain-ai/skills-benchmarks
 
-⭐ 119 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/langchain-ai/skills-benchmarks) · 组织维护
+⭐ 120 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/langchain-ai/skills-benchmarks) · 组织维护
 
 **评测技能文档设计对 Claude Code 行为遵从度影响的基准测试框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/skills-benchmarks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/skills-benchmarks 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 117 --> 121
-    line [118, 119, 120, 119, 119]
+    line [118, 119, 120, 119, 118, 119, 120, 120]
 ```
 
-2026-10-18 118 → 2026-11-02 119（+1）
+2026-10-18 118 → 2026-11-17 120（+2）
 
 
 ---

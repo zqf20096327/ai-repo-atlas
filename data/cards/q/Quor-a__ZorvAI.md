@@ -1,6 +1,6 @@
 # Quor-a/ZorvAI
 
-⭐ 100 · Kotlin · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Quor-a/ZorvAI) · [官网](https://github.com/Quor-a/ZorvAI/releases) · 个人维护 · 中文 README
+⭐ 107 · Kotlin · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Quor-a/ZorvAI) · [官网](https://github.com/Quor-a/ZorvAI/releases) · 个人维护 · 中文 README
 
 **Android 设备端 AI Agent 助手：离线推理、235 工具操控手机**
 
@@ -45,13 +45,13 @@ Kotlin + Jetpack Compose 开发的安卓端 AI 智能体应用：设备上运行
 
 ```mermaid
 xychart-beta
-    title "Quor-a/ZorvAI 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 90 --> 101
-    line [91, 94, 95, 96, 97, 98, 99, 100, 100]
+    title "Quor-a/ZorvAI 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 90 --> 108
+    line [91, 94, 95, 96, 97, 98, 99, 100, 98, 103, 104, 107, 107]
 ```
 
-2026-10-18 91 → 2026-11-02 100（+9）
+2026-10-18 91 → 2026-11-17 107（+16）
 
 
 ---

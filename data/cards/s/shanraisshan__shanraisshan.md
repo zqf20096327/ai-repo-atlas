@@ -1,6 +1,6 @@
 # shanraisshan/shanraisshan
 
-⭐ 32 · Python · 推送 2026-08-05 · [GitHub](https://github.com/shanraisshan/shanraisshan) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 34 · Python · 推送 2026-08-05 · [GitHub](https://github.com/shanraisshan/shanraisshan) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **软件架构师个人 GitHub 主页：聚合 Claude Code 等实践仓库与社区动态**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/shanraisshan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "shanraisshan/shanraisshan 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

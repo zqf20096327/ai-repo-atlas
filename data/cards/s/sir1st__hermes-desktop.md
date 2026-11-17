@@ -1,6 +1,6 @@
 # sir1st/hermes-desktop
 
-⭐ 72 · JavaScript · 推送 2026-06-01 · [GitHub](https://github.com/sir1st/hermes-desktop) · [官网](https://github.com/EKKOLearnAI/hermes-web-ui) · 个人维护 · 中文 README
+⭐ 73 · JavaScript · 推送 2026-06-01 · [GitHub](https://github.com/sir1st/hermes-desktop) · [官网](https://github.com/EKKOLearnAI/hermes-web-ui) · 个人维护 · 中文 README
 
 **Hermes Agent 的跨平台一体化桌面打包应用**
 
@@ -45,13 +45,13 @@ Electron 打包壳：将独立 Python 运行时、hermes-agent（Nous Research �
 
 ```mermaid
 xychart-beta
-    title "sir1st/hermes-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
+    title "sir1st/hermes-desktop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 71 --> 74
-    line [72, 73, 72, 72]
+    line [72, 73, 72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 73（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # logisky/LogiSheets
 
-⭐ 273 · Rust · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/logisky/LogiSheets) · [官网](https://www.logisheets.com/) · 个人维护 · 中文 README
+⭐ 274 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/logisky/LogiSheets) · [官网](https://www.logisheets.com/) · 个人维护 · 中文 README
 
 **面向人与 AI 协作的 Excel 兼容电子表格引擎与应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "logisky/LogiSheets 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
+    title "logisky/LogiSheets 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 271 --> 278
-    line [277, 272, 273, 273]
+    line [277, 272, 273, 272, 273, 274, 274]
 ```
 
-2026-10-18 277 → 2026-11-02 273（-4）
+2026-10-18 277 → 2026-11-17 274（-3）
 
 
 ---

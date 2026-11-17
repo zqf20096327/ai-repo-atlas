@@ -1,6 +1,6 @@
 # NX-AI/mlstm_kernels
 
-⭐ 96 · Jupyter Notebook · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/NX-AI/mlstm_kernels) · [官网](https://arxiv.org/abs/2503.14376) · 组织维护
+⭐ 96 · Jupyter Notebook · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/NX-AI/mlstm_kernels) · [官网](https://arxiv.org/abs/2503.14376) · 组织维护
 
 **面向 xLSTM/mLSTM 的高效 Triton 训练与推理内核库**
 
@@ -45,12 +45,12 @@ NX-AI 维护的 mLSTM（矩阵 LSTM）内核库，提供 JAX、PyTorch 原生实
 ```mermaid
 xychart-beta
     title "NX-AI/mlstm_kernels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 96（+0）
 
 
 ---

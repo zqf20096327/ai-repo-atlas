@@ -1,6 +1,6 @@
 # derevirn/renewcast
 
-⭐ 41 · Jupyter Notebook · 推送 2026-05-27 · [GitHub](https://github.com/derevirn/renewcast) · [官网](http://renewcast.giannis.io) · 个人维护
+⭐ 42 · Jupyter Notebook · 推送 2026-05-27 · [GitHub](https://github.com/derevirn/renewcast) · [官网](http://renewcast.giannis.io) · 个人维护
 
 **欧盟各国可再生能源发电量预测的 Streamlit 仪表盘应用**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "derevirn/renewcast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "derevirn/renewcast 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

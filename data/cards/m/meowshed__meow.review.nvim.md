@@ -1,6 +1,6 @@
 # meowshed/meow.review.nvim
 
-⭐ 12 · Lua · MIT · 推送 2026-10-26 · [GitHub](https://github.com/meowshed/meow.review.nvim) · [官网](https://github.com/retran/meow.review.nvim) · 个人维护
+⭐ 12 · Lua · MIT · 推送 2026-11-16 · [GitHub](https://github.com/meowshed/meow.review.nvim) · [官网](https://github.com/retran/meow.review.nvim) · 个人维护
 
 **Neovim 代码批注插件：持久化审阅注释并导出给 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meowshed/meow.review.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

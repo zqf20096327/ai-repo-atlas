@@ -1,6 +1,6 @@
 # logisky/logisheets-mcp
 
-⭐ 41 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/logisky/logisheets-mcp) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/logisky/logisheets-mcp) · 个人维护
 
 **给 AI agent 用的 MCP 电子表格服务器：Excel 公式引擎+命名块结构**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "logisky/logisheets-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 41（+0）
 
 
 ---

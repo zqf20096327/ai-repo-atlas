@@ -1,6 +1,6 @@
 # iamtushara/Machine-Learning-Reference
 
-⭐ 26 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/iamtushara/Machine-Learning-Reference) · 个人维护
+⭐ 26 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/iamtushara/Machine-Learning-Reference) · 个人维护
 
 **机器学习学习资料库：课件演示文稿与配套 Python 代码**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "iamtushara/Machine-Learning-Reference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

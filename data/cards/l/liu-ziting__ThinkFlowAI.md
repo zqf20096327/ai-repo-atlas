@@ -1,6 +1,6 @@
 # liu-ziting/ThinkFlowAI
 
-⭐ 172 · Vue · 推送 2026-02-06 · [GitHub](https://github.com/liu-ziting/ThinkFlowAI) · [官网](https://thinkflow-ai.lz-t.top) · 个人维护 · 中文 README
+⭐ 173 · Vue · 推送 2026-02-06 · [GitHub](https://github.com/liu-ziting/ThinkFlowAI) · [官网](https://thinkflow-ai.lz-t.top) · 个人维护 · 中文 README
 
 **输入一个想法，AI 扩展为可交互浏览的知识图谱的 Web 工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liu-ziting/ThinkFlowAI 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    title "liu-ziting/ThinkFlowAI 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 171 --> 174
+    line [172, 173, 173]
 ```
 
-2026-10-22 172 → 2026-11-02 172（+0）
+2026-10-22 172 → 2026-11-17 173（+1）
 
 
 ---

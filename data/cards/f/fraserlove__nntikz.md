@@ -1,6 +1,6 @@
 # fraserlove/nntikz
 
-⭐ 100 · TeX · MIT · 推送 2026-03-31 · [GitHub](https://github.com/fraserlove/nntikz) · 个人维护
+⭐ 101 · TeX · MIT · 推送 2026-03-31 · [GitHub](https://github.com/fraserlove/nntikz) · 个人维护
 
 **神经网络与深度学习概念的 TikZ 图集，供学术写作使用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fraserlove/nntikz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 98 --> 101
-    line [99, 100, 100]
+    title "fraserlove/nntikz 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 98 --> 102
+    line [99, 100, 101, 101]
 ```
 
-2026-10-18 99 → 2026-11-02 100（+1）
+2026-10-18 99 → 2026-11-17 101（+2）
 
 
 ---

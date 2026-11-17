@@ -1,6 +1,6 @@
 # DO0OG/Ari-VoiceCommand
 
-⭐ 16 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/DO0OG/Ari-VoiceCommand) · [官网](https://ari-voice-command.vercel.app) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DO0OG/Ari-VoiceCommand) · [官网](https://ari-voice-command.vercel.app) · 个人维护 · 中文 README
 
 **Windows 开源 AI 语音助手：唤醒词对话并自动操作桌面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DO0OG/Ari-VoiceCommand 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 17
-    line [10, 11, 13, 14, 15, 16, 16]
+    title "DO0OG/Ari-VoiceCommand 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 23
+    line [10, 11, 13, 14, 15, 16, 10, 19, 20, 21, 22, 22]
 ```
 
-2026-10-25 10 → 2026-11-02 16（+6）
+2026-10-25 10 → 2026-11-17 22（+12）
 
 
 ---

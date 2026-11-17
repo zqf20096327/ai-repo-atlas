@@ -1,6 +1,6 @@
 # erectbranch/MIT-Efficient-AI
 
-⭐ 56 · MIT · 推送 2026-08-13 · [GitHub](https://github.com/erectbranch/MIT-Efficient-AI) · [官网](https://erectbranch.github.io/#/MIT-Efficient-AI/notes/) · 组织维护
+⭐ 57 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/erectbranch/MIT-Efficient-AI) · [官网](https://erectbranch.github.io/#/MIT-Efficient-AI/notes/) · 组织维护
 
 **MIT 高效深度学习课程讲义与笔记汇总（TinyML）**
 
@@ -44,13 +44,13 @@ MIT 6.S965/6.5940 课程（Song Han 主讲，2022-2024 秋季）的讲义汇编�
 
 ```mermaid
 xychart-beta
-    title "erectbranch/MIT-Efficient-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "erectbranch/MIT-Efficient-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

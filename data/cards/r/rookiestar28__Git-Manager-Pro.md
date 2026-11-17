@@ -1,6 +1,6 @@
 # rookiestar28/Git-Manager-Pro
 
-⭐ 22 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rookiestar28/Git-Manager-Pro) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rookiestar28/Git-Manager-Pro) · 个人维护 · 中文 README
 
 **管理 ComfyUI 自定义节点的批量 Git 与依赖安装工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rookiestar28/Git-Manager-Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "rookiestar28/Git-Manager-Pro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

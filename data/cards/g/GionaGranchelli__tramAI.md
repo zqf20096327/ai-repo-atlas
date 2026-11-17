@@ -1,6 +1,6 @@
 # GionaGranchelli/tramAI
 
-⭐ 35 · Kotlin · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/GionaGranchelli/tramAI) · [官网](https://tramai.dev) · 个人维护
+⭐ 34 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/GionaGranchelli/tramAI) · [官网](https://tramai.dev) · 个人维护
 
 **Kotlin 优先的 JVM 治理型 AI 工作流运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GionaGranchelli/tramAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "GionaGranchelli/tramAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [35, 34, 34]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 34（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nnemirovsky/iwdp-mcp
 
-⭐ 20 · Go · MIT · 推送 2026-10-03 · [GitHub](https://github.com/nnemirovsky/iwdp-mcp) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-10-03 · [GitHub](https://github.com/nnemirovsky/iwdp-mcp) · 个人维护
 
 **让 AI agent 调试 iOS Safari 的 MCP server + CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nnemirovsky/iwdp-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    title "nnemirovsky/iwdp-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 20（+3）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

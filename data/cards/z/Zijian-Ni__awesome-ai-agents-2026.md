@@ -1,6 +1,6 @@
 # Zijian-Ni/awesome-ai-agents-2026
 
-⭐ 248 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Zijian-Ni/awesome-ai-agents-2026) · 个人维护 · 中文 README
+⭐ 250 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Zijian-Ni/awesome-ai-agents-2026) · 个人维护 · 中文 README
 
 **2026 年 AI Agent 与模型生态策展清单（awesome list）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zijian-Ni/awesome-ai-agents-2026 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 244 --> 249
-    line [246, 245, 246, 247, 248]
+    title "Zijian-Ni/awesome-ai-agents-2026 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 244 --> 251
+    line [246, 245, 246, 247, 248, 246, 249, 250, 250]
 ```
 
-2026-10-18 246 → 2026-11-02 248（+2）
+2026-10-18 246 → 2026-11-17 250（+4）
 
 
 ---

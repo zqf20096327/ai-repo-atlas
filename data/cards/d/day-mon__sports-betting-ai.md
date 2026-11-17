@@ -1,6 +1,6 @@
 # day-mon/sports-betting-ai
 
-⭐ 115 · Rust · 推送 2026-10-26 · [GitHub](https://github.com/day-mon/sports-betting-ai) · [官网](https://accuribet.win) · 个人维护
+⭐ 117 · Rust · 推送 2026-11-16 · [GitHub](https://github.com/day-mon/sports-betting-ai) · [官网](https://accuribet.win) · 个人维护
 
 **用神经网络预测 NBA 比赛胜负的体育下注网站**
 
@@ -42,13 +42,13 @@ Accuribet 是一个体育赛事预测网站，使用深度学习神经网络基�
 
 ```mermaid
 xychart-beta
-    title "day-mon/sports-betting-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 112 --> 116
-    line [113, 114, 115, 115]
+    title "day-mon/sports-betting-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 112 --> 118
+    line [113, 114, 115, 117, 117]
 ```
 
-2026-10-18 113 → 2026-11-02 115（+2）
+2026-10-18 113 → 2026-11-17 117（+4）
 
 
 ---

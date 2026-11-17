@@ -1,6 +1,6 @@
 # TexteaInc/funix
 
-⭐ 125 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/TexteaInc/funix) · [官网](http://funix.io) · 组织维护
+⭐ 124 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/TexteaInc/funix) · [官网](http://funix.io) · 组织维护
 
 **把 Python 函数/类自动转为 Web 应用的开源框架**
 
@@ -46,13 +46,13 @@ Funix 根据函数输入输出的类型自动生成 Web 前端控件，无需手
 
 ```mermaid
 xychart-beta
-    title "TexteaInc/funix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    title "TexteaInc/funix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 123 --> 126
+    line [125, 124, 124]
 ```
 
-2026-10-18 125 → 2026-11-02 125（+0）
+2026-10-18 125 → 2026-11-17 124（-1）
 
 
 ---

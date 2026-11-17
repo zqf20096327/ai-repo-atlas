@@ -1,6 +1,6 @@
 # Mininglamp-OSS/octo-smart-summary
 
-⭐ 34 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Mininglamp-OSS/octo-smart-summary) · [官网](https://github.com/Mininglamp-OSS) · 组织维护 · 中文 README
+⭐ 35 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Mininglamp-OSS/octo-smart-summary) · [官网](https://github.com/Mininglamp-OSS) · 组织维护 · 中文 README
 
 **OCTO 协作平台的 LLM 对话摘要微服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mininglamp-OSS/octo-smart-summary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "Mininglamp-OSS/octo-smart-summary 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

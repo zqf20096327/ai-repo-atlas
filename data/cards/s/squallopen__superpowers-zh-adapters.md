@@ -1,6 +1,6 @@
 # squallopen/superpowers-zh-adapters
 
-⭐ 39 · PowerShell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/squallopen/superpowers-zh-adapters) · 个人维护 · 中文 README
+⭐ 39 · PowerShell · MIT · 推送 2026-11-04 · [GitHub](https://github.com/squallopen/superpowers-zh-adapters) · 个人维护 · 中文 README
 
 **为 8 款编码 agent 接入 obra/superpowers 技能的中文适配层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "squallopen/superpowers-zh-adapters 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

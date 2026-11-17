@@ -1,6 +1,6 @@
 # phanxuanquang/XCan-AI
 
-⭐ 24 · TypeScript · 推送 2026-05-18 · [GitHub](https://github.com/phanxuanquang/XCan-AI) · [官网](https://xcan.vercel.app) · 个人维护
+⭐ 24 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/phanxuanquang/XCan-AI) · [官网](https://phanxuanquang.github.io/XCan-AI/) · 个人维护
 
 **基于 Gemini 的图片文字提取与越南语翻译 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "phanxuanquang/XCan-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

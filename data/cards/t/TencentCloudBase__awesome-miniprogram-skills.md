@@ -1,6 +1,6 @@
 # TencentCloudBase/awesome-miniprogram-skills
 
-⭐ 48 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/TencentCloudBase/awesome-miniprogram-skills) · 组织维护 · 中文 README
+⭐ 49 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/TencentCloudBase/awesome-miniprogram-skills) · 组织维护 · 中文 README
 
 **微信小程序 AI Skill 示例集合，覆盖 14 个开箱即用场景**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TencentCloudBase/awesome-miniprogram-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 44 --> 49
-    line [45, 46, 47, 48, 48]
+    title "TencentCloudBase/awesome-miniprogram-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 50
+    line [45, 46, 47, 48, 46, 49, 49]
 ```
 
-2026-10-18 45 → 2026-11-02 48（+3）
+2026-10-18 45 → 2026-11-17 49（+4）
 
 
 ---

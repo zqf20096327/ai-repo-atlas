@@ -1,6 +1,6 @@
 # bimwright/ipt-mcp
 
-⭐ 17 · C# · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/bimwright/ipt-mcp) · 组织维护 · 中文 README
+⭐ 19 · C# · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/bimwright/ipt-mcp) · 组织维护 · 中文 README
 
 **让 Claude Code 等 MCP 客户端本地驱动 Autodesk Inventor 的 MCP 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bimwright/ipt-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 18
-    line [13, 15, 16, 17, 17]
+    title "bimwright/ipt-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 20
+    line [13, 15, 16, 17, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 13 → 2026-11-02 17（+4）
+2026-10-18 13 → 2026-11-17 19（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # AssafWoo/homebrew-pandafilter
 
-⭐ 101 · Rust · MIT · 推送 2026-06-12 · [GitHub](https://github.com/AssafWoo/homebrew-pandafilter) · [官网](https://assafwoo.github.io/homebrew-pandafilter/) · 个人维护
+⭐ 102 · Rust · MIT · 推送 2026-06-12 · [GitHub](https://github.com/AssafWoo/homebrew-pandafilter) · [官网](https://assafwoo.github.io/homebrew-pandafilter/) · 个人维护
 
 **AI 编码 agent 的上下文过滤层：压缩命令输出、降低 token 消耗**
 
@@ -49,13 +49,13 @@
 
 ```mermaid
 xychart-beta
-    title "AssafWoo/homebrew-pandafilter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    title "AssafWoo/homebrew-pandafilter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 100 --> 103
+    line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-11-02 101（+0）
+2026-10-18 101 → 2026-11-17 102（+1）
 
 
 ---

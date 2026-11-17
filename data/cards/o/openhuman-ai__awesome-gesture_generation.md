@@ -1,6 +1,6 @@
 # openhuman-ai/awesome-gesture_generation
 
-⭐ 253 · MIT · 推送 2025-11-08 · [GitHub](https://github.com/openhuman-ai/awesome-gesture_generation) · [官网](https://openhuman-ai.github.io/awesome-gesture_generation/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **语音驱动手势生成的论文清单：综述、方法、数据集与竞赛**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openhuman-ai/awesome-gesture_generation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "openhuman-ai/awesome-gesture_generation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 251 --> 254
-    line [252, 253, 253]
+    line [252, 253, 252, 252]
 ```
 
-2026-10-18 252 → 2026-11-02 253（+1）
+2026-10-18 252 → 2026-11-07 252（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mrzaizai2k/VIETNAMESE_LICENSE_PLATE
 
-⭐ 38 · Python · MIT · 推送 2025-11-14 · [GitHub](https://github.com/mrzaizai2k/VIETNAMESE_LICENSE_PLATE) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **越南停车场车牌识别程序（KNN+OpenCV，1/2 行车牌）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mrzaizai2k/VIETNAMESE_LICENSE_PLATE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-08 38（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # C-Loftus/talon-ai-tools
 
-⭐ 92 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/C-Loftus/talon-ai-tools) · [官网](http://colton.place/talon-ai-tools/) · 个人维护
+⭐ 93 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/C-Loftus/talon-ai-tools) · [官网](http://colton.place/talon-ai-tools/) · 个人维护
 
 **用 Talon 语音命令操作 LLM 与 AI 工具的口部输入工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "C-Loftus/talon-ai-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "C-Loftus/talon-ai-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 91 --> 94
+    line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 93（+1）
 
 
 ---

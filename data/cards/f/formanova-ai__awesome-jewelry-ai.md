@@ -1,6 +1,6 @@
 # formanova-ai/awesome-jewelry-ai
 
-⭐ 28 · CC0-1.0 · 推送 2026-06-04 · [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) · [官网](https://formanova.ai) · 组织维护
+⭐ 30 · CC0-1.0 · 推送 2026-06-04 · [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) · [官网](https://formanova.ai) · 组织维护
 
 **珠宝图像 AI 资源策展清单：论文、模型、数据集与工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "formanova-ai/awesome-jewelry-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 28]
+    title "formanova-ai/awesome-jewelry-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 28, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 28（+3）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

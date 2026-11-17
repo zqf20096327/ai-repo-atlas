@@ -1,6 +1,6 @@
 # trymetis/metis
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/trymetis/metis) · [官网](https://www.trymetis.email) · 组织维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/trymetis/metis) · [官网](https://www.trymetis.email) · 组织维护
 
 **自托管邮件/日历/网盘聚合客户端，附 AI 助手与自动化工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trymetis/metis 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 4 --> 12
-    line [5, 6, 11, 11]
+    title "trymetis/metis 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 4 --> 21
+    line [5, 6, 11, 16, 17, 18, 19, 20, 20]
 ```
 
-2026-10-26 5 → 2026-11-02 11（+6）
+2026-10-26 5 → 2026-11-17 20（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-decentralized/BloomBee
 
-⭐ 135 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ai-decentralized/BloomBee) · 组织维护
+⭐ 136 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ai-decentralized/BloomBee) · 组织维护
 
 **去中心化 P2P 网络上的 LLM 推理系统：跨多台闲置 GPU 分片运行大模型**
 
@@ -45,13 +45,13 @@ BloomBee 将模型的 transformer 层拆分到 P2P 网络中的多个 peer 节�
 
 ```mermaid
 xychart-beta
-    title "ai-decentralized/BloomBee 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 132 --> 136
-    line [133, 134, 135, 135]
+    title "ai-decentralized/BloomBee 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 132 --> 137
+    line [133, 134, 135, 134, 135, 136, 136]
 ```
 
-2026-10-18 133 → 2026-11-02 135（+2）
+2026-10-18 133 → 2026-11-17 136（+3）
 
 
 ---

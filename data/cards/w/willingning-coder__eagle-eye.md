@@ -1,6 +1,6 @@
 # willingning-coder/eagle-eye
 
-⭐ 45 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/willingning-coder/eagle-eye) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/willingning-coder/eagle-eye) · 个人维护 · 中文 README
 
 **Hermes Agent 的五层技能检索插件，将百级技能筛为前 5**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "willingning-coder/eagle-eye 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 39 --> 46
-    line [40, 42, 43, 44, 45, 45]
+    title "willingning-coder/eagle-eye 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 39 --> 48
+    line [40, 42, 43, 44, 45, 44, 46, 47, 47]
 ```
 
-2026-10-18 40 → 2026-11-02 45（+5）
+2026-10-18 40 → 2026-11-17 47（+7）
 
 
 ---

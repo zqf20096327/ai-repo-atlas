@@ -1,6 +1,6 @@
 # muyexiuluo/ComfyUI-Muye-nodes
 
-⭐ 95 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/muyexiuluo/ComfyUI-Muye-nodes) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/muyexiuluo/ComfyUI-Muye-nodes) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点集：图像反推提示词、面部处理与图像/遮罩/文本工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "muyexiuluo/ComfyUI-Muye-nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "muyexiuluo/ComfyUI-Muye-nodes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 93 --> 97
+    line [95, 94, 95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 96（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # edgaremy/neural-netz
 
-⭐ 83 · Typst · MIT-0 · 推送 2025-12-08 · [GitHub](https://github.com/edgaremy/neural-netz) · [官网](https://typst.app/universe/package/neural-netz) · 个人维护
+⭐ 84 · Typst · MIT-0 · 推送 2025-12-08 · [GitHub](https://github.com/edgaremy/neural-netz) · [官网](https://typst.app/universe/package/neural-netz) · 个人维护
 
 **Typst 包：绘制高质量神经网络架构示意图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "edgaremy/neural-netz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    title "edgaremy/neural-netz 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 84（+2）
 
 
 ---

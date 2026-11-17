@@ -1,6 +1,6 @@
 # inboxpraveen/ML-Algorithms-from-scratch
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/ML-Algorithms-from-scratch) · [官网](https://inboxpraveen.github.io/projects/project-5.html) · 个人维护
+⭐ 28 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/ML-Algorithms-from-scratch) · [官网](https://inboxpraveen.github.io/projects/project-5.html) · 个人维护
 
 **28 种机器学习算法的 NumPy 教学实现，含数学讲解与可运行示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inboxpraveen/ML-Algorithms-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "inboxpraveen/ML-Algorithms-from-scratch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 23 --> 30
+    line [24, 25, 26, 25, 28, 29, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

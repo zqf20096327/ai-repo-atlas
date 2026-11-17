@@ -1,6 +1,6 @@
 # kvncampos/nautobot-ai-ops
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/kvncampos/nautobot-ai-ops) · [官网](https://kvncampos.github.io/nautobot-ai-ops/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/kvncampos/nautobot-ai-ops) · [官网](https://kvncampos.github.io/nautobot-ai-ops/) · 个人维护
 
 **给 Nautobot 网络运维的 AI 插件：多 LLM 聊天助手与 MCP 集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kvncampos/nautobot-ai-ops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "kvncampos/nautobot-ai-ops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

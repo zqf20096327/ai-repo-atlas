@@ -1,6 +1,6 @@
 # CodeUpdaterBot/ClickUi
 
-⭐ 429 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/CodeUpdaterBot/ClickUi) · [官网](https://clickui.app) · 个人维护
+⭐ 428 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/CodeUpdaterBot/ClickUi) · [官网](https://clickui.app) · 个人维护
 
 **桌面 AI 助手应用：语音/文字对话，接入多种模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CodeUpdaterBot/ClickUi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 426 --> 430
-    line [427, 428, 429, 429]
+    title "CodeUpdaterBot/ClickUi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 426 --> 431
+    line [427, 428, 429, 430, 429, 428, 428]
 ```
 
-2026-10-18 427 → 2026-11-02 429（+2）
+2026-10-18 427 → 2026-11-17 428（+1）
 
 
 ---

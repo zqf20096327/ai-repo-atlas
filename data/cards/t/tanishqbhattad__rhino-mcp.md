@@ -1,6 +1,6 @@
 # tanishqbhattad/rhino-mcp
 
-⭐ 34 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tanishqbhattad/rhino-mcp) · 个人维护
+⭐ 35 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tanishqbhattad/rhino-mcp) · 个人维护
 
 **给建筑师的 MCP 服务器：让 AI 客户端直接控制 Rhino 8 建模**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tanishqbhattad/rhino-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 29 --> 35
-    line [30, 32, 33, 34, 34]
+    title "tanishqbhattad/rhino-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 36
+    line [30, 32, 33, 34, 32, 34, 35, 35]
 ```
 
-2026-10-18 30 → 2026-11-02 34（+4）
+2026-10-18 30 → 2026-11-17 35（+5）
 
 
 ---

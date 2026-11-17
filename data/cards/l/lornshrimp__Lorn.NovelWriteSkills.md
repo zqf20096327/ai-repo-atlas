@@ -1,6 +1,6 @@
 # lornshrimp/Lorn.NovelWriteSkills
 
-⭐ 245 · PowerShell · 推送 2026-09-04 · [GitHub](https://github.com/lornshrimp/Lorn.NovelWriteSkills) · 个人维护 · 中文 README
+⭐ 256 · PowerShell · 推送 2026-09-04 · [GitHub](https://github.com/lornshrimp/Lorn.NovelWriteSkills) · 个人维护 · 中文 README
 
 **长篇网文/小说创作的 AI 写作资产库：Skill+Prompt+脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lornshrimp/Lorn.NovelWriteSkills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 235 --> 247
-    line [236, 238, 242, 243, 244, 245, 246, 245]
+    title "lornshrimp/Lorn.NovelWriteSkills 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 234 --> 258
+    line [236, 238, 242, 243, 244, 245, 246, 245, 243, 249, 251, 253, 254, 256, 256]
 ```
 
-2026-10-18 236 → 2026-11-02 245（+9）
+2026-10-18 236 → 2026-11-17 256（+20）
 
 
 ---

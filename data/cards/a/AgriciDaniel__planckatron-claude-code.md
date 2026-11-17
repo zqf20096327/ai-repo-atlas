@@ -1,6 +1,6 @@
 # AgriciDaniel/planckatron-claude-code
 
-⭐ 31 · PowerShell · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/planckatron-claude-code) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 33 · PowerShell · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/planckatron-claude-code) · [官网](https://agricidaniel.com) · 个人维护
 
 **Claude Code 的多 agent 并行编排技能（SKILL.md）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/planckatron-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "AgriciDaniel/planckatron-claude-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

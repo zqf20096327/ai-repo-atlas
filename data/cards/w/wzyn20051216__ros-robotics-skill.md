@@ -1,6 +1,6 @@
 # wzyn20051216/ros-robotics-skill
 
-⭐ 63 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/wzyn20051216/ros-robotics-skill) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/wzyn20051216/ros-robotics-skill) · 个人维护 · 中文 README
 
 **面向 ROS 1/ROS 2 开发的工程化 skill/prompt pack，适配三大编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wzyn20051216/ros-robotics-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "wzyn20051216/ros-robotics-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 61 --> 67
+    line [62, 63, 62, 65, 66, 66]
 ```
 
-2026-10-18 62 → 2026-11-02 63（+1）
+2026-10-18 62 → 2026-11-17 66（+4）
 
 
 ---

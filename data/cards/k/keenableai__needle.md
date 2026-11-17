@@ -1,6 +1,6 @@
 # keenableai/needle
 
-⭐ 40 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/keenableai/needle) · [官网](https://keenableai.github.io/needle/) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/keenableai/needle) · [官网](https://keenableai.github.io/needle/) · 组织维护
 
 **面向搜索引擎的实时检索评测基准套件（5 个基准）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "keenableai/needle 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 34 --> 41
-    line [35, 36, 39, 40, 40]
+    title "keenableai/needle 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 34 --> 49
+    line [35, 36, 39, 40, 39, 40, 41, 43, 46, 48, 48]
 ```
 
-2026-10-18 35 → 2026-11-02 40（+5）
+2026-10-18 35 → 2026-11-17 48（+13）
 
 
 ---

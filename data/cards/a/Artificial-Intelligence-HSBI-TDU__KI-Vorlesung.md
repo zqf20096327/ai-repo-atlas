@@ -1,6 +1,6 @@
 # Artificial-Intelligence-HSBI-TDU/KI-Vorlesung
 
-⭐ 20 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/Artificial-Intelligence-HSBI-TDU/KI-Vorlesung) · [官网](https://github.com/Artificial-Intelligence-HSBI-TDU/KI-Vorlesung-W26) · 组织维护
+⭐ 20 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-11-10 · [GitHub](https://github.com/Artificial-Intelligence-HSBI-TDU/KI-Vorlesung) · [官网](https://github.com/Artificial-Intelligence-HSBI-TDU/KI-Vorlesung-W26) · 组织维护
 
 **大学人工智能课程讲义：开放教学资源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Artificial-Intelligence-HSBI-TDU/KI-Vorlesung 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

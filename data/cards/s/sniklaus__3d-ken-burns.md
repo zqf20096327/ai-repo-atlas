@@ -1,6 +1,6 @@
 # sniklaus/3d-ken-burns
 
-⭐ 1,579 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/sniklaus/3d-ken-burns) · 组织维护
+⭐ 1,580 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/sniklaus/3d-ken-burns) · 组织维护
 
 **从单张图像生成 3D Ken Burns 效果视频的 PyTorch 实现**
 
@@ -44,13 +44,13 @@ Adobe Research 论文《3D Ken Burns Effect from a Single Image》的参考实�
 
 ```mermaid
 xychart-beta
-    title "sniklaus/3d-ken-burns 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1575 --> 1580
-    line [1576, 1577, 1578, 1579, 1579]
+    title "sniklaus/3d-ken-burns 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1575 --> 1581
+    line [1576, 1577, 1578, 1579, 1578, 1579, 1580, 1580]
 ```
 
-2026-10-18 1,576 → 2026-11-02 1,579（+3）
+2026-10-18 1,576 → 2026-11-17 1,580（+4）
 
 
 ---

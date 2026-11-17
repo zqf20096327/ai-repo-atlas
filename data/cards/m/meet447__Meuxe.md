@@ -1,6 +1,6 @@
 # meet447/Meuxe
 
-⭐ 78 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/meet447/Meuxe) · [官网](https://meet447.github.io/Meuxe/) · 个人维护
+⭐ 79 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/meet447/Meuxe) · [官网](https://meet447.github.io/Meuxe/) · 个人维护
 
 **桌面 AI 陪伴角色：本地记忆、语音对话的 Live2D/VRM 伴侣**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "meet447/Meuxe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "meet447/Meuxe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 77 --> 80
+    line [78, 79, 79]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 79（+1）
 
 
 ---

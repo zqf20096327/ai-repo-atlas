@@ -45,13 +45,13 @@ Godot 4 编辑器插件，在编辑器 dock 中提供多工具 Agent 系统：�
 
 ```mermaid
 xychart-beta
-    title "Godot4-Addons/ai_assistant_for_godot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "Godot4-Addons/ai_assistant_for_godot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [35, 36, 35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # i1kazantsev/claude-code-spinner
 
-⭐ 320 · 推送 2026-05-06 · [GitHub](https://github.com/i1kazantsev/claude-code-spinner) · 个人维护
+⭐ 322 · 推送 2026-05-06 · [GitHub](https://github.com/i1kazantsev/claude-code-spinner) · 个人维护
 
 **替换 Claude Code 等待动画短语的个性化配置集（90+ 俄语短语）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "i1kazantsev/claude-code-spinner 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    title "i1kazantsev/claude-code-spinner 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 319 --> 323
-    line [322, 321, 320, 320]
+    line [322, 321, 320, 321, 320, 322, 322]
 ```
 
-2026-10-18 322 → 2026-11-02 320（-2）
+2026-10-18 322 → 2026-11-17 322（+0）
 
 
 ---

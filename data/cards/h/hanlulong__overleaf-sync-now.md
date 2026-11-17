@@ -1,6 +1,6 @@
 # hanlulong/overleaf-sync-now
 
-⭐ 19 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/hanlulong/overleaf-sync-now) · [官网](https://openecon.ai/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/overleaf-sync-now) · [官网](https://openecon.ai/) · 个人维护
 
 **防止 Claude Code/Codex 用过期本地副本覆盖 Overleaf 网页编辑的同步钩子**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanlulong/overleaf-sync-now 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "hanlulong/overleaf-sync-now 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

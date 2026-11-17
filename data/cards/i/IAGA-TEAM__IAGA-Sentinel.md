@@ -1,6 +1,6 @@
 # IAGA-TEAM/IAGA-Sentinel
 
-⭐ 197 · Rust · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/IAGA-TEAM/IAGA-Sentinel) · [官网](https://www.iaga.tech/) · 组织维护
+⭐ 196 · Rust · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/IAGA-TEAM/IAGA-Sentinel) · [官网](https://www.iaga.tech/) · 组织维护
 
 **AI 代理合规证据层：为代理操作生成签名收据链，支持 EU AI Act 记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IAGA-TEAM/IAGA-Sentinel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 195 --> 198
-    line [196, 197, 197]
+    title "IAGA-TEAM/IAGA-Sentinel 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 195 --> 199
+    line [196, 197, 198, 197, 196, 196]
 ```
 
-2026-10-18 196 → 2026-11-02 197（+1）
+2026-10-18 196 → 2026-11-17 196（+0）
 
 
 ---

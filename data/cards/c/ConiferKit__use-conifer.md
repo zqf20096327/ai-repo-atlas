@@ -1,6 +1,6 @@
 # ConiferKit/use-conifer
 
-⭐ 49 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ConiferKit/use-conifer) · [官网](https://conifer.build/docs/sdk/) · 组织维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ConiferKit/use-conifer) · [官网](https://conifer.build/docs/sdk/) · 组织维护
 
 **统一 API 网关的 SDK：单 key 接入多家模型并返回逐次调用成本**
 
@@ -45,13 +45,13 @@ Conifer 是一个 LLM API 网关，提供单一 API key 与 base URL，背后聚
 
 ```mermaid
 xychart-beta
-    title "ConiferKit/use-conifer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "ConiferKit/use-conifer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

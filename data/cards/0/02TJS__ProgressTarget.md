@@ -1,6 +1,6 @@
 # 02TJS/ProgressTarget
 
-⭐ 15 · JavaScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/02TJS/ProgressTarget) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/02TJS/ProgressTarget) · 个人维护 · 中文 README
 
 **AI agent 任务的持久化计划与质量门插件（DSH/Codex）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "02TJS/ProgressTarget 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "02TJS/ProgressTarget 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

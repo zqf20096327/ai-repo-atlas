@@ -1,6 +1,6 @@
 # firstops-dev/whittle
 
-⭐ 60 · Go · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/firstops-dev/whittle) · [官网](https://github.com/firstops-dev/whittle) · 组织维护
+⭐ 61 · Go · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/firstops-dev/whittle) · [官网](https://github.com/firstops-dev/whittle) · 组织维护
 
 **为 Claude Code 压缩工具输出与路由模型以降低 token 用量的本地工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "firstops-dev/whittle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "firstops-dev/whittle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

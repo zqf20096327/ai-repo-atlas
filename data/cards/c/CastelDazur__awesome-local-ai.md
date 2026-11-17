@@ -1,6 +1,6 @@
 # CastelDazur/awesome-local-ai
 
-⭐ 25 · CC0-1.0 · 推送 2026-10-07 · [GitHub](https://github.com/CastelDazur/awesome-local-ai) · 个人维护
+⭐ 25 · CC0-1.0 · 推送 2026-11-10 · [GitHub](https://github.com/CastelDazur/awesome-local-ai) · 个人维护
 
 **本地运行 AI 的工具与框架策展清单（推理/RAG/微调/监控等）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "CastelDazur/awesome-local-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

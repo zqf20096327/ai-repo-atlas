@@ -1,6 +1,6 @@
 # AIPMAndy/awesome-openclaw-use-cases-cn
 
-⭐ 24 · Shell · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn) · 个人维护 · 中文 README
+⭐ 24 · Shell · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn) · 个人维护 · 中文 README
 
 **OpenClaw 中文实战案例库：13 个真实工作流与配置示例**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/awesome-openclaw-use-cases-cn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "AIPMAndy/awesome-openclaw-use-cases-cn 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

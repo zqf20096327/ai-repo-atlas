@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/automated-crypto-fund
 
-⭐ 19 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/The-Swarm-Corporation/automated-crypto-fund) · [官网](https://discord.gg/jM3Z6M9uMq) · 组织维护
+⭐ 20 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/The-Swarm-Corporation/automated-crypto-fund) · [官网](https://discord.gg/jM3Z6M9uMq) · 组织维护
 
 **用 LLM 多智能体集群进行实盘交易的自动化加密基金**
 
@@ -41,13 +41,13 @@ README 仅含标题与社区链接（Discord/YouTube/LinkedIn/X），描述其�
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/automated-crypto-fund 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "The-Swarm-Corporation/automated-crypto-fund 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

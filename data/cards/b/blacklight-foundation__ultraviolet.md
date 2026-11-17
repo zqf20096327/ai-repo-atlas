@@ -1,6 +1,6 @@
 # blacklight-foundation/ultraviolet
 
-⭐ 25 · C++ · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/blacklight-foundation/ultraviolet) · [官网](https://ultraviolet-lang.org) · 组织维护
+⭐ 27 · C++ · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/blacklight-foundation/ultraviolet) · [官网](https://ultraviolet-lang.org) · 组织维护
 
 **面向人类与 AI 编写的通用系统编程语言（公开 alpha）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "blacklight-foundation/ultraviolet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "blacklight-foundation/ultraviolet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DataGrout/lumen
 
-⭐ 13 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/DataGrout/lumen) · [官网](https://datagrout.ai/lumen) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/DataGrout/lumen) · [官网](https://datagrout.ai/lumen) · 组织维护
 
 **给 LLM 用户的实时用量与成本监控器（代理/中继截流）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DataGrout/lumen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

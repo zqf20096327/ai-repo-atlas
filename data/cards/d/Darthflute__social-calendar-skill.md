@@ -1,6 +1,6 @@
 # Darthflute/social-calendar-skill
 
-⭐ 37 · Python · 推送 2026-04-24 · [GitHub](https://github.com/Darthflute/social-calendar-skill) · 个人维护
+⭐ 40 · Python · 推送 2026-04-24 · [GitHub](https://github.com/Darthflute/social-calendar-skill) · 个人维护
 
 **给营销人员的 Claude Code 社媒内容技能：一键生成月度日历与审计报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Darthflute/social-calendar-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    title "Darthflute/social-calendar-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 37, 36, 38, 40, 40]
 ```
 
-2026-10-18 35 → 2026-11-02 37（+2）
+2026-10-18 35 → 2026-11-17 40（+5）
 
 
 ---

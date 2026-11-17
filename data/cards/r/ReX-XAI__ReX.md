@@ -1,6 +1,6 @@
 # ReX-XAI/ReX
 
-⭐ 49 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ReX-XAI/ReX) · [官网](https://rex-xai.readthedocs.io/) · 组织维护
+⭐ 51 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ReX-XAI/ReX) · [官网](https://rex-xai.readthedocs.io/) · 组织维护
 
 **图像/表格分类器的因果责任解释工具，黑盒可解释性**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ReX-XAI/ReX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "ReX-XAI/ReX 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 48, 50, 51, 51]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 51（+3）
 
 
 ---

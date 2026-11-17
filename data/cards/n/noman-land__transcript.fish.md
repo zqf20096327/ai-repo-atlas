@@ -1,6 +1,6 @@
 # noman-land/transcript.fish
 
-⭐ 24 · TypeScript · 推送 2025-11-24 · [GitHub](https://github.com/noman-land/transcript.fish) · [官网](https://transcript.fish/) · 个人维护
+⭐ 23 · TypeScript · 推送 2025-11-24 · [GitHub](https://github.com/noman-land/transcript.fish) · [官网](https://transcript.fish/) · 个人维护
 
 **非官方 No Such Thing As A Fish 播客节目转录文本网站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "noman-land/transcript.fish 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
+    title "noman-land/transcript.fish 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-17"]
     y-axis "stars" 22 --> 26
-    line [23, 24, 25, 24, 24]
+    line [23, 24, 25, 24, 23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

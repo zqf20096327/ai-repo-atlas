@@ -1,6 +1,6 @@
 # Lyahn-Huang/FullStackAutoQuant
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/Lyahn-Huang/FullStackAutoQuant) · 个人维护 · 中文 README
+⭐ 21 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/Lyahn-Huang/FullStackAutoQuant) · 个人维护 · 中文 README
 
 **端到端深度学习 A 股量化交易系统：数据到实盘全流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lyahn-Huang/FullStackAutoQuant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "Lyahn-Huang/FullStackAutoQuant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

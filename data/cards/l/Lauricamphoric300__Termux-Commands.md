@@ -1,6 +1,6 @@
 # Lauricamphoric300/Termux-Commands
 
-⭐ 15 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lauricamphoric300/Termux-Commands) · 个人维护
+⭐ 17 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lauricamphoric300/Termux-Commands) · 个人维护
 
 **在 Android Termux 上一键安装常用 Linux 包的脚本工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lauricamphoric300/Termux-Commands 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Lauricamphoric300/Termux-Commands 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

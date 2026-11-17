@@ -1,6 +1,6 @@
 # dimssrmdn01/gold-price-forecast-ml
 
-⭐ 17 · Python · 推送 2026-09-15 · [GitHub](https://github.com/dimssrmdn01/gold-price-forecast-ml) · [官网](https://dimas-xauusd-engine.streamlit.app) · 个人维护
+⭐ 19 · Python · 推送 2026-11-04 · [GitHub](https://github.com/dimssrmdn01/gold-price-forecast-ml) · [官网](https://dimas-xauusd-engine.streamlit.app) · 个人维护
 
 **金融预测与回测仪表盘：LSTM/Lasso 预测价格并自带 LLM 分析代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dimssrmdn01/gold-price-forecast-ml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "dimssrmdn01/gold-price-forecast-ml 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

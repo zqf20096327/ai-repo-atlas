@@ -1,6 +1,6 @@
 # frankhommers/autodesk-fusion-mcp
 
-⭐ 37 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/frankhommers/autodesk-fusion-mcp) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/frankhommers/autodesk-fusion-mcp) · 个人维护
 
 **让 AI agent 通过 MCP 驱动 Autodesk Fusion CAD 会话的插件服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frankhommers/autodesk-fusion-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 27 --> 38
-    line [28, 29, 31, 32, 33, 35, 36, 37]
+    title "frankhommers/autodesk-fusion-mcp 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 27 --> 42
+    line [28, 29, 31, 32, 33, 35, 36, 37, 29, 39, 40, 41, 41]
 ```
 
-2026-10-18 28 → 2026-11-02 37（+9）
+2026-10-18 28 → 2026-11-17 41（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # sinanuozdemir/oreilly-ai-agents
 
-⭐ 325 · Jupyter Notebook · 推送 2026-07-10 · [GitHub](https://github.com/sinanuozdemir/oreilly-ai-agents) · [官网](https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604/) · 个人维护
+⭐ 328 · Jupyter Notebook · 推送 2026-07-10 · [GitHub](https://github.com/sinanuozdemir/oreilly-ai-agents) · [官网](https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604/) · 个人维护
 
 **AI Agent 课程配套代码库：O'Reilly 培训与视频系列示例**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sinanuozdemir/oreilly-ai-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 320 --> 326
-    line [321, 322, 323, 325]
+    title "sinanuozdemir/oreilly-ai-agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 320 --> 329
+    line [321, 322, 323, 325, 322, 326, 328, 328]
 ```
 
-2026-10-18 321 → 2026-11-02 325（+4）
+2026-10-18 321 → 2026-11-17 328（+7）
 
 
 ---

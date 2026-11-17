@@ -1,6 +1,6 @@
 # obvirm/ComfyUI-WhisperCPP
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/obvirm/ComfyUI-WhisperCPP) · [官网](https://github.com/obvirm/ComfyUI-WhisperCPP) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/obvirm/ComfyUI-WhisperCPP) · [官网](https://github.com/obvirm/ComfyUI-WhisperCPP) · 个人维护
 
 **ComfyUI 的 whisper.cpp 语音转文字节点**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点，通过 ctypes 绑定 whisper.cpp C API 实现语音转
 
 ```mermaid
 xychart-beta
-    title "obvirm/ComfyUI-WhisperCPP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "obvirm/ComfyUI-WhisperCPP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    line [12, 13, 14, 15, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

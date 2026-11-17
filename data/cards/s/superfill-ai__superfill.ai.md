@@ -1,6 +1,6 @@
 # superfill-ai/superfill.ai
 
-⭐ 39 · TypeScript · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/superfill-ai/superfill.ai) · [官网](https://superfill.ai) · 个人维护
+⭐ 40 · TypeScript · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/superfill-ai/superfill.ai) · [官网](https://superfill.ai) · 个人维护
 
 **跨浏览器 AI 表单自动填充扩展：记忆信息一次，处处填充**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "superfill-ai/superfill.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "superfill-ai/superfill.ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

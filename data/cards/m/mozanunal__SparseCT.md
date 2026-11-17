@@ -1,6 +1,6 @@
 # mozanunal/SparseCT
 
-⭐ 55 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mozanunal/SparseCT) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mozanunal/SparseCT) · 个人维护
 
 **稀疏视图/低剂量CT重建算法的设计训练与基准框架**
 
@@ -45,13 +45,13 @@ CT 重建算法研究框架，提出自监督方法 Proj2Proj：在 4x4 网格�
 
 ```mermaid
 xychart-beta
-    title "mozanunal/SparseCT 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "mozanunal/SparseCT 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-25 55 → 2026-11-02 55（+0）
+2026-10-25 55 → 2026-11-17 56（+1）
 
 
 ---

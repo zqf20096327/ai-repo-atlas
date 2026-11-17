@@ -1,6 +1,6 @@
 # arozanov/turboquant-mlx
 
-⭐ 113 · Python · 推送 2026-04-30 · [GitHub](https://github.com/arozanov/turboquant-mlx) · 个人维护
+⭐ 114 · Python · 推送 2026-04-30 · [GitHub](https://github.com/arozanov/turboquant-mlx) · 个人维护
 
 **MLX 上的 KV cache 压缩库：Metal 融合内核降低长上下文显存**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arozanov/turboquant-mlx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 112 --> 114
-    line [113, 113]
+    title "arozanov/turboquant-mlx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 112 --> 115
+    line [113, 114, 114]
 ```
 
-2026-10-18 113 → 2026-11-02 113（+0）
+2026-10-18 113 → 2026-11-17 114（+1）
 
 
 ---

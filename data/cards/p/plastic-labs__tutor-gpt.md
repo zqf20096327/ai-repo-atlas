@@ -1,6 +1,6 @@
 # plastic-labs/tutor-gpt
 
-⭐ 933 · TypeScript · GPL-3.0 · 推送 2026-02-20 · [GitHub](https://github.com/plastic-labs/tutor-gpt) · [官网](https://discord.gg/plasticlabs) · 组织维护
+⭐ 934 · TypeScript · GPL-3.0 · 推送 2026-02-20 · [GitHub](https://github.com/plastic-labs/tutor-gpt) · [官网](https://discord.gg/plasticlabs) · 组织维护
 
 **面向学习者的 LLM 对话辅导应用，动态更新自身提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "plastic-labs/tutor-gpt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 930 --> 934
-    line [932, 931, 932, 933, 933]
+    title "plastic-labs/tutor-gpt 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 930 --> 935
+    line [932, 931, 932, 933, 931, 932, 933, 934, 934]
 ```
 
-2026-10-18 932 → 2026-11-02 933（+1）
+2026-10-18 932 → 2026-11-17 934（+2）
 
 
 ---

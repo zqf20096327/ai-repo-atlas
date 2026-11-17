@@ -1,6 +1,6 @@
 # aangelopoulos/ppi_py
 
-⭐ 304 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/aangelopoulos/ppi_py) · 个人维护
+⭐ 309 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/aangelopoulos/ppi_py) · 个人维护
 
 **预测赋能推断（PPI）Python 库：用机器学习预测做统计推断**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aangelopoulos/ppi_py 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 300 --> 305
-    line [301, 302, 304, 304]
+    title "aangelopoulos/ppi_py 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 300 --> 310
+    line [301, 302, 304, 301, 307, 308, 309, 309]
 ```
 
-2026-10-18 301 → 2026-11-02 304（+3）
+2026-10-18 301 → 2026-11-17 309（+8）
 
 
 ---

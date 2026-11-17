@@ -1,6 +1,6 @@
 # BaohaoLiao/ReOPD
 
-⭐ 42 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/BaohaoLiao/ReOPD) · [官网](https://baohaoliao.github.io/ReOPD/) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/BaohaoLiao/ReOPD) · [官网](https://baohaoliao.github.io/ReOPD/) · 个人维护
 
 **免环境交互的 agent 蒸馏训练框架：重放教师前缀训练学生**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BaohaoLiao/ReOPD 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 43
-    line [38, 39, 40, 42, 42]
+    title "BaohaoLiao/ReOPD 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 37 --> 46
+    line [38, 39, 40, 42, 40, 42, 43, 44, 45, 45]
 ```
 
-2026-10-18 38 → 2026-11-02 42（+4）
+2026-10-18 38 → 2026-11-17 45（+7）
 
 
 ---

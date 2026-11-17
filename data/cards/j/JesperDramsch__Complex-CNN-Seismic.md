@@ -1,6 +1,6 @@
 # JesperDramsch/Complex-CNN-Seismic
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/JesperDramsch/Complex-CNN-Seismic) · [官网](https://www.sciencedirect.com/science/article/pii/S0098300420306208) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/JesperDramsch/Complex-CNN-Seismic) · [官网](https://www.sciencedirect.com/science/article/pii/S0098300420306208) · 个人维护
 
 **论文复现代码：复数值 CNN 用于地震相分类**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "JesperDramsch/Complex-CNN-Seismic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "JesperDramsch/Complex-CNN-Seismic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

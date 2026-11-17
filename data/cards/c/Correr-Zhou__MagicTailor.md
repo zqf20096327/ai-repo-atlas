@@ -1,6 +1,6 @@
 # Correr-Zhou/MagicTailor
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/Correr-Zhou/MagicTailor) · [官网](https://correr-zhou.github.io/MagicTailor/) · 组织维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/Correr-Zhou/MagicTailor) · [官网](https://correr-zhou.github.io/MagicTailor/) · 组织维护
 
 **文生图扩散模型组件级个性化训练框架（IJCAI 2025 论文官方实现）**
 
@@ -43,13 +43,13 @@ MagicTailor 是 IJCAI 2025 (Oral) 论文的官方实现，针对文生图扩散�
 
 ```mermaid
 xychart-beta
-    title "Correr-Zhou/MagicTailor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    title "Correr-Zhou/MagicTailor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 98 --> 102
+    line [99, 101, 101]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 101（+2）
 
 
 ---

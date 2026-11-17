@@ -1,6 +1,6 @@
 # vkustech/vkusvill-mcp-server-manifest
 
-⭐ 21 · 推送 2026-10-23 · [GitHub](https://github.com/vkustech/vkusvill-mcp-server-manifest) · 组织维护
+⭐ 35 · 推送 2026-10-23 · [GitHub](https://github.com/vkustech/vkusvill-mcp-server-manifest) · 组织维护
 
 **ВкусВилл 官方购物 MCP 服务器，供 AI 助手代选代购食品**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vkustech/vkusvill-mcp-server-manifest 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "vkustech/vkusvill-mcp-server-manifest 星数(近 8 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 36
+    line [20, 21, 28, 31, 32, 33, 35, 35]
 ```
 
-2026-10-31 20 → 2026-11-02 21（+1）
+2026-10-31 20 → 2026-11-17 35（+15）
 
 
 ---

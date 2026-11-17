@@ -1,6 +1,6 @@
 # shootthesound/comfyUI-LongLook
 
-⭐ 168 · Python · 推送 2025-12-30 · [GitHub](https://github.com/shootthesound/comfyUI-LongLook) · 个人维护
+⭐ 167 · Python · 推送 2025-12-30 · [GitHub](https://github.com/shootthesound/comfyUI-LongLook) · 个人维护
 
 **ComfyUI 节点包：为 Wan 2.2 视频生成提供 FreeLong 谱混合与分块续生**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shootthesound/comfyUI-LongLook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    title "shootthesound/comfyUI-LongLook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 166 --> 169
+    line [168, 167, 167]
 ```
 
-2026-10-18 168 → 2026-11-02 168（+0）
+2026-10-18 168 → 2026-11-17 167（-1）
 
 
 ---

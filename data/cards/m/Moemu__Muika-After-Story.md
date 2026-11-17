@@ -1,6 +1,6 @@
 # Moemu/Muika-After-Story
 
-⭐ 12 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/Moemu/Muika-After-Story) · [官网](https://mas.snowy.moe) · 组织维护 · 中文 README
+⭐ 13 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/Moemu/Muika-After-Story) · [官网](https://mas.snowy.moe) · 组织维护 · 中文 README
 
 **基于情感状态机与事件循环的拟角色 LLM 聊天机器人框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Moemu/Muika-After-Story 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "Moemu/Muika-After-Story 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

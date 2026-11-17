@@ -1,6 +1,6 @@
 # UNLINEARITY/Obsidian-CodeSpace
 
-⭐ 270 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/UNLINEARITY/Obsidian-CodeSpace) · 个人维护 · 中文 README
+⭐ 274 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/UNLINEARITY/Obsidian-CodeSpace) · 个人维护 · 中文 README
 
 **Obsidian 代码文件管理插件：索引、编辑、嵌入、外部挂载与终端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UNLINEARITY/Obsidian-CodeSpace 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 266 --> 271
-    line [267, 268, 269, 270, 270]
+    title "UNLINEARITY/Obsidian-CodeSpace 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 266 --> 275
+    line [267, 268, 269, 270, 269, 272, 273, 274, 274]
 ```
 
-2026-10-18 267 → 2026-11-02 270（+3）
+2026-10-18 267 → 2026-11-17 274（+7）
 
 
 ---

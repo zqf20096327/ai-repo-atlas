@@ -1,6 +1,6 @@
 # reflectt/reflectt-node
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/reflectt/reflectt-node) · [官网](https://reflectt.ai) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/reflectt/reflectt-node) · [官网](https://reflectt.ai) · 组织维护
 
 **自托管的多 AI agent 协调服务器：共享任务、消息与状态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reflectt/reflectt-node 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "reflectt/reflectt-node 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

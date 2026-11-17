@@ -1,6 +1,6 @@
 # symisc/pixlab
 
-⭐ 127 · Python · BSD-2-Clause · 推送 2026-05-24 · [GitHub](https://github.com/symisc/pixlab) · [官网](https://pixlab.io) · 组织维护
+⭐ 127 · Python · BSD-2-Clause · 推送 2026-11-16 · [GitHub](https://github.com/symisc/pixlab) · [官网](https://pixlab.io) · 组织维护
 
 **PixLab/FACEIO 官方教程、公告与代码示例集**
 
@@ -44,12 +44,12 @@ PixLab 与 FACEIO 产品线的官方资源仓库：以文章列表形式汇集 1
 ```mermaid
 xychart-beta
     title "symisc/pixlab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 126 --> 128
     line [127, 127]
 ```
 
-2026-10-18 127 → 2026-11-02 127（+0）
+2026-10-18 127 → 2026-11-17 127（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # changdaeoh/sharpening-tax
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/changdaeoh/sharpening-tax) · [官网](https://changdaeoh.github.io/sharpening-tax/) · 组织维护
+⭐ 35 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/changdaeoh/sharpening-tax) · [官网](https://changdaeoh.github.io/sharpening-tax/) · 组织维护
 
 **论文代码：度量 RL 后训练中损失的测试时可扩展性（Sharpening Tax）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "changdaeoh/sharpening-tax 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 25 --> 34
-    line [26, 29, 30, 31, 33, 33]
+    title "changdaeoh/sharpening-tax 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 36
+    line [26, 29, 30, 31, 33, 31, 35, 35]
 ```
 
-2026-10-18 26 → 2026-11-02 33（+7）
+2026-10-18 26 → 2026-11-17 35（+9）
 
 
 ---

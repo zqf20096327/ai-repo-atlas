@@ -44,13 +44,13 @@ ST 官方提供的 STM32N6 嵌入式图像分类应用示例：通过摄像头�
 
 ```mermaid
 xychart-beta
-    title "STMicroelectronics/STM32N6-GettingStarted-ImageClassification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "STMicroelectronics/STM32N6-GettingStarted-ImageClassification 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    line [18, 19, 18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

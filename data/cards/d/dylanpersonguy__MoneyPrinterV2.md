@@ -1,6 +1,6 @@
 # dylanpersonguy/MoneyPrinterV2
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/dylanpersonguy/MoneyPrinterV2) · 个人维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/dylanpersonguy/MoneyPrinterV2) · 个人维护
 
 **本地 AI 驱动的在线赚钱自动化工具：短视频/Twitter/营销/邮件外联**
 
@@ -45,13 +45,13 @@ Python 自动化工具集，围绕四条变现工作流：YouTube Shorts 自动�
 
 ```mermaid
 xychart-beta
-    title "dylanpersonguy/MoneyPrinterV2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "dylanpersonguy/MoneyPrinterV2 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

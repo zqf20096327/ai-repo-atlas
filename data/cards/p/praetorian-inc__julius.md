@@ -1,6 +1,6 @@
 # praetorian-inc/julius
 
-⭐ 251 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/praetorian-inc/julius) · [官网](https://www.praetorian.com/blog/introducing-julius-open-source-llm-service-fingerprinting/) · 组织维护
+⭐ 256 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/praetorian-inc/julius) · [官网](https://www.praetorian.com/blog/introducing-julius-open-source-llm-service-fingerprinting/) · 组织维护
 
 **面向安全人员的 LLM 服务指纹识别工具：探测端点运行哪种 AI 服务**
 
@@ -44,13 +44,13 @@ Go 编写的命令行安全侦察工具：向目标端点发送针对性 HTTP �
 
 ```mermaid
 xychart-beta
-    title "praetorian-inc/julius 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 246 --> 252
-    line [247, 248, 249, 248, 249, 251, 251]
+    title "praetorian-inc/julius 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 246 --> 257
+    line [247, 248, 249, 248, 249, 251, 248, 255, 256, 256]
 ```
 
-2026-10-18 247 → 2026-11-02 251（+4）
+2026-10-18 247 → 2026-11-17 256（+9）
 
 
 ---

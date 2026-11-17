@@ -1,6 +1,6 @@
 # mathaix/OpenClawMachines
 
-⭐ 61 · Go · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/mathaix/OpenClawMachines) · [官网](https://openclawmachines.com) · 组织维护
+⭐ 63 · Go · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/mathaix/OpenClawMachines) · [官网](https://openclawmachines.com) · 组织维护
 
 **自托管平台：在自有硬件的 Firecracker microVM 中运行多个隔离 OpenClaw agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mathaix/OpenClawMachines 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    title "mathaix/OpenClawMachines 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 58 --> 64
+    line [59, 60, 61, 60, 62, 63, 63]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 63（+4）
 
 
 ---

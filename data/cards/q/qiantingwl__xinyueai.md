@@ -1,6 +1,6 @@
 # qiantingwl/xinyueai
 
-⭐ 52 · TypeScript · 推送 2026-10-11 · [GitHub](https://github.com/qiantingwl/xinyueai) · 组织维护 · 中文 README
+⭐ 53 · TypeScript · 推送 2026-10-11 · [GitHub](https://github.com/qiantingwl/xinyueai) · 组织维护 · 中文 README
 
 **可自托管的 AI 创作与模型管理平台：多模型对话与图片/视频生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qiantingwl/xinyueai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 48 --> 53
-    line [49, 50, 51, 52, 52]
+    title "qiantingwl/xinyueai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 54
+    line [49, 50, 51, 52, 51, 53, 53]
 ```
 
-2026-10-18 49 → 2026-11-02 52（+3）
+2026-10-18 49 → 2026-11-17 53（+4）
 
 
 ---

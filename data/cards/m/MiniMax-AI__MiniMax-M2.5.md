@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2.5
 
-⭐ 585 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.5) · 组织维护 · 中文 README
+⭐ 586 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.5) · 组织维护 · 中文 README
 
 **面向编码与 agent 任务的 MiniMax M2.5 前沿模型发布仓库**
 
@@ -44,13 +44,13 @@ MiniMax 公司发布的 M2.5 系列基础模型仓库，含 M2.5 与 M2.5-Lightn
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-M2.5 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "MiniMax-AI/MiniMax-M2.5 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 584 --> 588
-    line [587, 586, 585, 585]
+    line [587, 586, 585, 587, 585, 586, 586]
 ```
 
-2026-10-18 587 → 2026-11-02 585（-2）
+2026-10-18 587 → 2026-11-17 586（-1）
 
 
 ---

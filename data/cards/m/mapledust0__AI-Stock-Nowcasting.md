@@ -1,6 +1,6 @@
 # mapledust0/AI-Stock-Nowcasting
 
-⭐ 42 · HTML · MIT · 推送 2026-06-18 · [GitHub](https://github.com/mapledust0/AI-Stock-Nowcasting) · 组织维护
+⭐ 44 · HTML · MIT · 推送 2026-06-18 · [GitHub](https://github.com/mapledust0/AI-Stock-Nowcasting) · 组织维护
 
 **北大光华团队的 LLM Agent 股票收益即时预测研究项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mapledust0/AI-Stock-Nowcasting 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    title "mapledust0/AI-Stock-Nowcasting 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 42, 41, 43, 44, 44]
 ```
 
-2026-10-18 40 → 2026-11-02 42（+2）
+2026-10-18 40 → 2026-11-17 44（+4）
 
 
 ---

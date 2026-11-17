@@ -1,6 +1,6 @@
 # generalbots/generalbots
 
-⭐ 96 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/generalbots/generalbots) · [官网](https://generalbots.org) · 组织维护
+⭐ 98 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/generalbots/generalbots) · [官网](https://generalbots.org) · 组织维护
 
 **Rust 自托管多 agent AI 平台：编排 LLM 与 80 个业务应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "generalbots/generalbots 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    title "generalbots/generalbots 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 94 --> 99
+    line [95, 96, 97, 98, 98]
 ```
 
-2026-10-18 95 → 2026-11-02 96（+1）
+2026-10-18 95 → 2026-11-17 98（+3）
 
 
 ---

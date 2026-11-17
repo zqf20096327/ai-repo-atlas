@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-OmniVoice-TTS
 
-⭐ 563 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) · [官网](https://zhu-han.github.io/omnivoice/) · 个人维护 · 中文 README
+⭐ 567 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) · [官网](https://zhu-han.github.io/omnivoice/) · 个人维护 · 中文 README
 
 **ComfyUI 的 OmniVoice 零样本文本转语音节点集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-OmniVoice-TTS 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 559 --> 564
-    line [560, 562, 561, 562, 563, 563]
+    title "Saganaki22/ComfyUI-OmniVoice-TTS 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 559 --> 568
+    line [560, 562, 561, 562, 563, 561, 566, 567, 567]
 ```
 
-2026-10-18 560 → 2026-11-02 563（+3）
+2026-10-18 560 → 2026-11-17 567（+7）
 
 
 ---

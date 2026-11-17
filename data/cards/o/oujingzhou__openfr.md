@@ -1,6 +1,6 @@
 # oujingzhou/openfr
 
-⭐ 57 · Python · 推送 2026-05-09 · [GitHub](https://github.com/oujingzhou/openfr) · 组织维护 · 中文 README
+⭐ 60 · Python · 推送 2026-05-09 · [GitHub](https://github.com/oujingzhou/openfr) · 组织维护 · 中文 README
 
 **面向个人投资者的多智能体金融研究 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oujingzhou/openfr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    title "oujingzhou/openfr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 54 --> 61
+    line [55, 56, 57, 56, 58, 60, 60]
 ```
 
-2026-10-18 55 → 2026-11-02 57（+2）
+2026-10-18 55 → 2026-11-17 60（+5）
 
 
 ---

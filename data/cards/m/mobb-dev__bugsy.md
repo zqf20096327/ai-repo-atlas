@@ -1,6 +1,6 @@
 # mobb-dev/bugsy
 
-⭐ 68 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/mobb-dev/bugsy) · [官网](https://mobb.ai) · 组织维护
+⭐ 67 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/mobb-dev/bugsy) · [官网](https://mobb.ai) · 组织维护
 
 **面向开发者的自动安全漏洞修复 CLI（Mobb 社区版）**
 
@@ -44,13 +44,13 @@ Mobb 的社区版命令行工具，读取 Checkmarx、CodeQL、Fortify、Snyk �
 
 ```mermaid
 xychart-beta
-    title "mobb-dev/bugsy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "mobb-dev/bugsy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [68, 67, 67]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 67（-1）
 
 
 ---

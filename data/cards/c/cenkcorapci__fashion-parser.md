@@ -1,6 +1,6 @@
 # cenkcorapci/fashion-parser
 
-⭐ 24 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/cenkcorapci/fashion-parser) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cenkcorapci/fashion-parser) · 个人维护
 
 **基于 Mask R-CNN 的服装图像分割模型训练与部署项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cenkcorapci/fashion-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

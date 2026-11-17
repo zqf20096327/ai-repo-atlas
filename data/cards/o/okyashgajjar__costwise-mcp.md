@@ -1,6 +1,6 @@
 # okyashgajjar/costwise-mcp
 
-⭐ 22 · Go · MIT · 推送 2026-08-07 · [GitHub](https://github.com/okyashgajjar/costwise-mcp) · [官网](https://costwise-mcp.vercel.app) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/okyashgajjar/costwise-mcp) · [官网](https://costwise-mcp.vercel.app) · 个人维护
 
 **本地 MCP 服务器：让编程 agent 少读文件、记住事实、缩小上下文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "okyashgajjar/costwise-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

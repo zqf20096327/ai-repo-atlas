@@ -1,6 +1,6 @@
 # diffgram/diffgram
 
-⭐ 1,911 · Python · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/diffgram/diffgram) · [官网](https://diffgram.com) · 组织维护
+⭐ 1,912 · Python · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/diffgram/diffgram) · [官网](https://diffgram.com) · 组织维护
 
 **面向 AI 数据的标注与数据工作流平台（AI Datastore）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diffgram/diffgram 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1909 --> 1912
-    line [1911, 1910, 1911, 1911]
+    title "diffgram/diffgram 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1909 --> 1913
+    line [1911, 1910, 1911, 1910, 1911, 1912, 1912]
 ```
 
-2026-10-18 1,911 → 2026-11-02 1,911（+0）
+2026-10-18 1,911 → 2026-11-17 1,912（+1）
 
 
 ---

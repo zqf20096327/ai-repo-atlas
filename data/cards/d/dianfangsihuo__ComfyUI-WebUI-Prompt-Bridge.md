@@ -1,6 +1,6 @@
 # dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge
 
-⭐ 55 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · [官网](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · 个人维护 · 中文 README
+⭐ 59 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · [官网](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · 个人维护 · 中文 README
 
 **给 ComfyUI 的 WebUI 式提示词工作台节点：中文翻译、Tag 补全、LoRA 管理与区域控制**
 
@@ -46,13 +46,13 @@ ComfyUI 自定义节点，把 WebUI 风格的提示词操作搬入 ComfyUI 工�
 
 ```mermaid
 xychart-beta
-    title "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 55, 55]
+    title "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 55, 53, 57, 58, 59, 59]
 ```
 
-2026-10-18 53 → 2026-11-02 55（+2）
+2026-10-18 53 → 2026-11-17 59（+6）
 
 
 ---

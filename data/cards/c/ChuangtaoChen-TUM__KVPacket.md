@@ -1,6 +1,6 @@
 # ChuangtaoChen-TUM/KVPacket
 
-⭐ 39 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/ChuangtaoChen-TUM/KVPacket) · [官网](https://arxiv.org/abs/2604.13226) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/ChuangtaoChen-TUM/KVPacket) · [官网](https://arxiv.org/abs/2604.13226) · 组织维护
 
 **面向 LLM 推理的无重算、上下文无关 KV 缓存库**
 
@@ -45,13 +45,13 @@ KV Packet 是论文《KV Packet: Recomputation-Free Context-Independent KV Cachi
 
 ```mermaid
 xychart-beta
-    title "ChuangtaoChen-TUM/KVPacket 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "ChuangtaoChen-TUM/KVPacket 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

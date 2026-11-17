@@ -1,6 +1,6 @@
 # careunix/PyTorch-HighSierra-CUDA-Revival
 
-⭐ 27 · Python · 推送 2025-11-14 · [GitHub](https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 macOS High Sierra 复活 CUDA 深度学习栈的 PyTorch 定制构建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "careunix/PyTorch-HighSierra-CUDA-Revival 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-08 27（+0）
 
 
 ---

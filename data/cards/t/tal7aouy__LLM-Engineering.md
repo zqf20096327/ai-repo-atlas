@@ -1,6 +1,6 @@
 # tal7aouy/LLM-Engineering
 
-⭐ 54 · Jupyter Notebook · MIT · 推送 2026-09-05 · [GitHub](https://github.com/tal7aouy/LLM-Engineering) · 个人维护
+⭐ 59 · Jupyter Notebook · MIT · 推送 2026-09-05 · [GitHub](https://github.com/tal7aouy/LLM-Engineering) · 个人维护
 
 **24 周 LLM 工程师学习路线图：从基础到生产级**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tal7aouy/LLM-Engineering 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 55, 54, 54]
+    title "tal7aouy/LLM-Engineering 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 55, 54, 55, 57, 58, 59, 59]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 59（+6）
 
 
 ---

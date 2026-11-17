@@ -1,6 +1,6 @@
 # fundwotsai2001/AP-adapter
 
-⭐ 57 · Python · NOASSERTION · 推送 2025-11-10 · [GitHub](https://github.com/fundwotsai2001/AP-adapter) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **轻量微调的音频提示适配器：为文本生成音乐增加编辑能力**
 
@@ -11,7 +11,7 @@ ISMIR 2024 论文 Audio Prompt Adapter 的官方实现：在文本生成音乐�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-24g` | |
@@ -47,12 +47,12 @@ ISMIR 2024 论文 Audio Prompt Adapter 的官方实现：在文本生成音乐�
 ```mermaid
 xychart-beta
     title "fundwotsai2001/AP-adapter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-07 57（+0）
 
 
 ---

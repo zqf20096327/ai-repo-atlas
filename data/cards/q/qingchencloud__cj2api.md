@@ -1,6 +1,6 @@
 # qingchencloud/cj2api
 
-⭐ 67 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/qingchencloud/cj2api) · [官网](https://cj2api.qt.cool/) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/qingchencloud/cj2api) · [官网](https://cj2api.qt.cool/) · 个人维护 · 中文 README
 
 **将 ChatJimmy 转为 OpenAI 兼容 API 的代理 Worker**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qingchencloud/cj2api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    title "qingchencloud/cj2api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-13", "2026-11-17"]
     y-axis "stars" 65 --> 68
-    line [67, 66, 67, 67]
+    line [67, 66, 67, 66, 66]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 66（-1）
 
 
 ---

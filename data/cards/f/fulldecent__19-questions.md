@@ -1,6 +1,6 @@
 # fulldecent/19-questions
 
-⭐ 16 · PHP · MIT · 推送 2026-10-10 · [GitHub](https://github.com/fulldecent/19-questions) · 个人维护
+⭐ 16 · PHP · MIT · 推送 2026-11-11 · [GitHub](https://github.com/fulldecent/19-questions) · 个人维护
 
 **通过问答进行贝叶斯推断猜测对象的游戏网站**
 
@@ -45,12 +45,12 @@ PHP 实现的网页版“20 个问题”猜物游戏：从历史玩家的问答�
 ```mermaid
 xychart-beta
     title "fulldecent/19-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

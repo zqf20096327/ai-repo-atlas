@@ -1,6 +1,6 @@
 # atc-net/atc-claude-kanban
 
-⭐ 12 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/atc-net/atc-claude-kanban) · 组织维护
+⭐ 12 · C# · MIT · 推送 2026-11-10 · [GitHub](https://github.com/atc-net/atc-claude-kanban) · 组织维护
 
 **浏览器看板实时监控 Claude Code 任务、会话与子代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "atc-net/atc-claude-kanban 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

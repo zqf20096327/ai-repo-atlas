@@ -1,6 +1,6 @@
 # chuccp/win-sshpass
 
-⭐ 21 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/chuccp/win-sshpass) · [官网](https://chuccp.github.io/win-sshpass/) · 个人维护 · 中文 README
+⭐ 22 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/chuccp/win-sshpass) · [官网](https://chuccp.github.io/win-sshpass/) · 个人维护 · 中文 README
 
 **面向 AI 自动化的跨平台 SSH 客户端，含 MCP 工具与 Web 控制台**
 
@@ -45,13 +45,13 @@ Go 编写的跨平台 SSH 客户端（Windows/Linux/macOS），支持密码、�
 
 ```mermaid
 xychart-beta
-    title "chuccp/win-sshpass 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "chuccp/win-sshpass 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-29 20 → 2026-11-02 21（+1）
+2026-10-29 20 → 2026-11-17 22（+2）
 
 
 ---

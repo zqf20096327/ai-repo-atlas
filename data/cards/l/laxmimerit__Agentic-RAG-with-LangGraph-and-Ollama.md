@@ -1,6 +1,6 @@
 # laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama
 
-⭐ 48 · Jupyter Notebook · 推送 2026-06-18 · [GitHub](https://github.com/laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama) · [官网](https://www.udemy.com/course/agentic-ai-private-agentic-rag-with-langgraph-and-ollama/?referralCode=CF5DEFA2F51FC6A3CAFE) · 组织维护
+⭐ 47 · Jupyter Notebook · 推送 2026-06-18 · [GitHub](https://github.com/laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama) · [官网](https://www.udemy.com/course/agentic-ai-private-agentic-rag-with-langgraph-and-ollama/?referralCode=CF5DEFA2F51FC6A3CAFE) · 组织维护
 
 **AI/ML 付费课程合集页：RAG、Agent、深度学习等方向**
 
@@ -44,13 +44,13 @@ KGP Talkie 维护的 Udemy 课程目录仓库，覆盖 LLM 与 Agent 开发（Ag
 
 ```mermaid
 xychart-beta
-    title "laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [48, 47, 47]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 47（-1）
 
 
 ---

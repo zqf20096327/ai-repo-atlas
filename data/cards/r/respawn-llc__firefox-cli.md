@@ -1,6 +1,6 @@
 # respawn-llc/firefox-cli
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/respawn-llc/firefox-cli) · 组织维护
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/respawn-llc/firefox-cli) · 组织维护
 
 **让 AI Agent 通过 CLI 控制真实 Firefox 浏览器**
 
@@ -44,13 +44,13 @@ npm 全局安装的 CLI 工具，配合一个 Firefox 扩展与原生宿主通�
 
 ```mermaid
 xychart-beta
-    title "respawn-llc/firefox-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 31
-    line [24, 25, 27, 29, 30, 30]
+    title "respawn-llc/firefox-cli 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 35
+    line [24, 25, 27, 29, 30, 27, 32, 33, 34, 34]
 ```
 
-2026-10-18 24 → 2026-11-02 30（+6）
+2026-10-18 24 → 2026-11-17 34（+10）
 
 
 ---

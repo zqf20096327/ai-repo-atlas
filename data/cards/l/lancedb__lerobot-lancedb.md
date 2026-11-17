@@ -1,6 +1,6 @@
 # lancedb/lerobot-lancedb
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/lancedb/lerobot-lancedb) · [官网](https://lancedb.github.io/lerobot-lancedb/) · 组织维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/lancedb/lerobot-lancedb) · [官网](https://lancedb.github.io/lerobot-lancedb/) · 组织维护
 
 **把 LeRobot 机器人数据集转为 Lance 格式并直接训练的加载器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lancedb/lerobot-lancedb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "lancedb/lerobot-lancedb 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

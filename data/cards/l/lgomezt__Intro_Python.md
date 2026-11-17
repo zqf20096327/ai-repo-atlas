@@ -1,6 +1,6 @@
 # lgomezt/Intro_Python
 
-⭐ 94 · Jupyter Notebook · MIT · 推送 2026-09-15 · [GitHub](https://github.com/lgomezt/Intro_Python) · 个人维护
+⭐ 95 · Jupyter Notebook · MIT · 推送 2026-09-15 · [GitHub](https://github.com/lgomezt/Intro_Python) · 个人维护
 
 **面向学生的 Python 数据分析与机器学习课程资料库（两模块）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lgomezt/Intro_Python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 92 --> 95
-    line [93, 94, 94]
+    title "lgomezt/Intro_Python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 92 --> 96
+    line [93, 94, 95, 95]
 ```
 
-2026-10-18 93 → 2026-11-02 94（+1）
+2026-10-18 93 → 2026-11-17 95（+2）
 
 
 ---

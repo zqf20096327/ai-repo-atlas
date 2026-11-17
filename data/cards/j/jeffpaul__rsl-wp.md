@@ -1,6 +1,6 @@
 # jeffpaul/rsl-wp
 
-⭐ 35 · PHP · 推送 2026-10-23 · [GitHub](https://github.com/jeffpaul/rsl-wp) · 个人维护
+⭐ 35 · PHP · 推送 2026-11-03 · [GitHub](https://github.com/jeffpaul/rsl-wp) · 个人维护
 
 **WordPress 插件：为站点内容定义机器可读的 RSL 许可条款**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeffpaul/rsl-wp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

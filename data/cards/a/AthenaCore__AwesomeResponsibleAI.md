@@ -1,6 +1,6 @@
 # AthenaCore/AwesomeResponsibleAI
 
-⭐ 158 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/AthenaCore/AwesomeResponsibleAI) · 组织维护
+⭐ 158 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/AthenaCore/AwesomeResponsibleAI) · 组织维护
 
 **负责任/可信/以人为本 AI 的学术资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AthenaCore/AwesomeResponsibleAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
+    title "AthenaCore/AwesomeResponsibleAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 154 --> 159
-    line [155, 157, 158, 158]
+    line [155, 157, 158, 155, 157, 158, 158]
 ```
 
-2026-10-18 155 → 2026-11-02 158（+3）
+2026-10-18 155 → 2026-11-17 158（+3）
 
 
 ---

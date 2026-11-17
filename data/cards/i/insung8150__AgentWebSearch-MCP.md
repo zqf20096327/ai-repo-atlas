@@ -1,6 +1,6 @@
 # insung8150/AgentWebSearch-MCP
 
-⭐ 20 · Python · MIT · 推送 2026-02-19 · [GitHub](https://github.com/insung8150/AgentWebSearch-MCP) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-02-19 · [GitHub](https://github.com/insung8150/AgentWebSearch-MCP) · 个人维护 · 中文 README
 
 **无需 API key 的本地网页搜索 MCP 服务器，供本地 LLM 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "insung8150/AgentWebSearch-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "insung8150/AgentWebSearch-MCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

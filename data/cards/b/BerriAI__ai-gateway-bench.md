@@ -1,6 +1,6 @@
 # BerriAI/ai-gateway-bench
 
-⭐ 20 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/BerriAI/ai-gateway-bench) · 组织维护
+⭐ 23 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/BerriAI/ai-gateway-bench) · 组织维护
 
 **AI 网关开销的可复现基准测试：测量网关叠加在 LLM 之上的延迟与资源成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BerriAI/ai-gateway-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "BerriAI/ai-gateway-bench 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 22, 23, 24, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # CaviraOSS/SecuPrompt
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2025-11-22 · [GitHub](https://github.com/CaviraOSS/SecuPrompt) · 组织维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2025-11-22 · [GitHub](https://github.com/CaviraOSS/SecuPrompt) · 组织维护
 
 **LLM 提示词防火墙：在输入到达模型前拦截注入与越狱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CaviraOSS/SecuPrompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "CaviraOSS/SecuPrompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

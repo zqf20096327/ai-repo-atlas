@@ -1,6 +1,6 @@
 # Orbital-Web/Raphael
 
-⭐ 25 · C++ · AGPL-3.0 · 推送 2026-07-26 · [GitHub](https://github.com/Orbital-Web/Raphael) · 个人维护
+⭐ 25 · C++ · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Orbital-Web/Raphael) · 个人维护
 
 **超人类水平 UCI 国际象棋引擎（NNUE），附带图形界面**
 
@@ -46,12 +46,12 @@ C++ 编写的 UCI 国际象棋引擎，使用自研 NNUE 评估（自生成训�
 ```mermaid
 xychart-beta
     title "Orbital-Web/Raphael 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

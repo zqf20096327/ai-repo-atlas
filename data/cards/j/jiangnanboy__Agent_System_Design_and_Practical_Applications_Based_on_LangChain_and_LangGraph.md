@@ -1,6 +1,6 @@
 # jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph
 
-⭐ 48 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph) · 个人维护 · 中文 README
+⭐ 49 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph) · 个人维护 · 中文 README
 
 **基于 LangChain/LangGraph 的智能体系统实战教程项目（33 章案例）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hackafterdark/context-sherpa
 
-⭐ 27 · Go · MIT · 推送 2026-03-26 · [GitHub](https://github.com/hackafterdark/context-sherpa) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-03-26 · [GitHub](https://github.com/hackafterdark/context-sherpa) · 个人维护
 
 **面向 AI 编程 agent 的代码上下文工程平台（MCP server）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hackafterdark/context-sherpa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "hackafterdark/context-sherpa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [27, 26, 26]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 26（-1）
 
 
 ---

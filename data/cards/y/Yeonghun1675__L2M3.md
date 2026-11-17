@@ -1,6 +1,6 @@
 # Yeonghun1675/L2M3
 
-⭐ 59 · Jupyter Notebook · MIT · 推送 2026-03-21 · [GitHub](https://github.com/Yeonghun1675/L2M3) · [官网](https://pubs.acs.org/doi/10.1021/jacs.4c11085) · 组织维护
+⭐ 60 · Jupyter Notebook · MIT · 推送 2026-03-21 · [GitHub](https://github.com/Yeonghun1675/L2M3) · [官网](https://pubs.acs.org/doi/10.1021/jacs.4c11085) · 组织维护
 
 **用 LLM 链从文献中提取 MOF 材料数据的文本挖掘工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yeonghun1675/L2M3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "Yeonghun1675/L2M3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

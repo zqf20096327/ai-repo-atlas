@@ -1,6 +1,6 @@
 # xlabs-club/awesome-x-ops
 
-⭐ 21 · 推送 2026-10-08 · [GitHub](https://github.com/xlabs-club/awesome-x-ops) · 组织维护 · 中文 README
+⭐ 23 · 推送 2026-10-08 · [GitHub](https://github.com/xlabs-club/awesome-x-ops) · 组织维护 · 中文 README
 
 **现代 X-Ops 开源工具策展清单：AI Ops、平台工程、GitOps 等**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xlabs-club/awesome-x-ops 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 22, 21, 21]
+    title "xlabs-club/awesome-x-ops 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 22, 21, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

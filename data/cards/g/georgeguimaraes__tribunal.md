@@ -1,6 +1,6 @@
 # georgeguimaraes/tribunal
 
-⭐ 118 · Elixir · MIT · 推送 2026-10-26 · [GitHub](https://github.com/georgeguimaraes/tribunal) · 个人维护
+⭐ 120 · Elixir · MIT · 推送 2026-11-09 · [GitHub](https://github.com/georgeguimaraes/tribunal) · 个人维护
 
 **Elixir 的 LLM 输出评测框架：在 ExUnit/CI 中断言质量与安全**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgeguimaraes/tribunal 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    title "georgeguimaraes/tribunal 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 120, 120]
 ```
 
-2026-10-23 118 → 2026-11-02 118（+0）
+2026-10-23 118 → 2026-11-17 120（+2）
 
 
 ---

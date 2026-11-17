@@ -1,6 +1,6 @@
 # muyen/meihua-yishu
 
-⭐ 211 · Python · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/muyen/meihua-yishu) · [官网](https://iyarrow.xyz) · 个人维护 · 中文 README
+⭐ 214 · Python · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/muyen/meihua-yishu) · [官网](https://iyarrow.xyz) · 个人维护 · 中文 README
 
 **面向 Claude 等 LLM 的梅花易数占卜 AI 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "muyen/meihua-yishu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 206 --> 212
-    line [207, 208, 209, 210, 211, 211]
+    title "muyen/meihua-yishu 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 206 --> 215
+    line [207, 208, 209, 210, 211, 209, 212, 213, 214, 214]
 ```
 
-2026-10-18 207 → 2026-11-02 211（+4）
+2026-10-18 207 → 2026-11-17 214（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # xvirobotics/metabot
 
-⭐ 999 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xvirobotics/metabot) · [官网](https://xvirobotics.com/metabot/) · 组织维护 · 中文 README
+⭐ 1,007 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xvirobotics/metabot) · [官网](https://xvirobotics.com/metabot/) · 组织维护 · 中文 README
 
 **自托管个人 Agent 工作台：从飞书/Telegram 等聊天端驱动编码 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xvirobotics/metabot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 996 --> 1000
-    line [997, 998, 999, 999]
+    title "xvirobotics/metabot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 996 --> 1008
+    line [997, 998, 999, 997, 1005, 1006, 1007, 1007]
 ```
 
-2026-10-18 997 → 2026-11-02 999（+2）
+2026-10-18 997 → 2026-11-17 1,007（+10）
 
 
 ---

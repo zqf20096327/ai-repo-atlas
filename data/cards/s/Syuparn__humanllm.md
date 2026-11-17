@@ -1,6 +1,6 @@
 # Syuparn/humanllm
 
-⭐ 36 · TypeScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/Syuparn/humanllm) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/Syuparn/humanllm) · 个人维护
 
 **由人肉回答的 OpenAI API 兼容 LLM 端点**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Syuparn/humanllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "Syuparn/humanllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

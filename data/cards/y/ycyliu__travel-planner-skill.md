@@ -1,6 +1,6 @@
 # ycyliu/travel-planner-skill
 
-⭐ 20 · HTML · MIT · 推送 2026-03-19 · [GitHub](https://github.com/ycyliu/travel-planner-skill) · 个人维护 · 中文 README
+⭐ 24 · HTML · MIT · 推送 2026-03-19 · [GitHub](https://github.com/ycyliu/travel-planner-skill) · 个人维护 · 中文 README
 
 **为 WorkBuddy/CodeBuddy 生成小红书风格 HTML 旅行攻略的技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ycyliu/travel-planner-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "ycyliu/travel-planner-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 19, 21, 23, 24, 24]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 24（+5）
 
 
 ---

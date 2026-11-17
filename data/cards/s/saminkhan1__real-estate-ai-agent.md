@@ -1,6 +1,6 @@
 # saminkhan1/real-estate-ai-agent
 
-⭐ 33 · Python · GPL-3.0 · 推送 2026-05-21 · [GitHub](https://github.com/saminkhan1/real-estate-ai-agent) · 个人维护
+⭐ 34 · Python · GPL-3.0 · 推送 2026-05-21 · [GitHub](https://github.com/saminkhan1/real-estate-ai-agent) · 个人维护
 
 **面向房产中介的全栈 AI 助手：线索接入、房源查询、预约排期**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "saminkhan1/real-estate-ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "saminkhan1/real-estate-ai-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

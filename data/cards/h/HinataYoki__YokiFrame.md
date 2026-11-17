@@ -1,6 +1,6 @@
 # HinataYoki/YokiFrame
 
-⭐ 286 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HinataYoki/YokiFrame) · 个人维护 · 中文 README
+⭐ 292 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HinataYoki/YokiFrame) · 个人维护 · 中文 README
 
 **面向 Unity/Godot .NET 的跨引擎 C# 游戏开发框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "HinataYoki/YokiFrame 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 279 --> 287
-    line [280, 283, 284, 286, 286]
+    title "HinataYoki/YokiFrame 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 279 --> 293
+    line [280, 283, 284, 286, 290, 291, 292, 292]
 ```
 
-2026-10-18 280 → 2026-11-02 286（+6）
+2026-10-18 280 → 2026-11-17 292（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # coolbirdzik/CB-File-Hub
 
-⭐ 15 · Dart · 推送 2026-10-31 · [GitHub](https://github.com/coolbirdzik/CB-File-Hub) · 个人维护
+⭐ 20 · Dart · 推送 2026-11-16 · [GitHub](https://github.com/coolbirdzik/CB-File-Hub) · 个人维护
 
 **跨平台文件管理器，带 AI 助手做自然语言文件搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coolbirdzik/CB-File-Hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "coolbirdzik/CB-File-Hub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 17, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

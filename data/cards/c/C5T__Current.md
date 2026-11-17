@@ -1,6 +1,6 @@
 # C5T/Current
 
-⭐ 98 · C++ · 推送 2025-11-18 · [GitHub](https://github.com/C5T/Current) · [官网](https://medium.com/dima-korolev/current-for-realtime-machine-learning-4f04aa8ab81a) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **C++ 实时机器学习框架，含类型系统、流式持久化与优化引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "C5T/Current 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-13 98（+0）
 
 
 ---

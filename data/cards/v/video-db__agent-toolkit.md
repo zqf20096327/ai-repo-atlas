@@ -1,6 +1,6 @@
 # video-db/agent-toolkit
 
-⭐ 50 · Python · 推送 2026-03-26 · [GitHub](https://github.com/video-db/agent-toolkit) · [官网](https://docs.videodb.io) · 组织维护
+⭐ 50 · Python · 推送 2026-11-14 · [GitHub](https://github.com/video-db/agent-toolkit) · [官网](https://docs.videodb.io) · 组织维护
 
 **为 LLM/Agent 提供 VideoDB 上下文的工具包（llms.txt + MCP）**
 
@@ -44,13 +44,13 @@ VideoDB 官方的 Agent 工具包，将 VideoDB 的 SDK 结构、文档摘要与
 
 ```mermaid
 xychart-beta
-    title "video-db/agent-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
+    title "video-db/agent-toolkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-12", "2026-11-17"]
     y-axis "stars" 47 --> 51
-    line [48, 49, 50, 50]
+    line [48, 49, 50, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 50（+2）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

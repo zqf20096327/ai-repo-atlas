@@ -1,6 +1,6 @@
 # asya-ai/asya-chat-ui
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/asya-ai/asya-chat-ui) · 组织维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/asya-ai/asya-chat-ui) · 组织维护
 
 **自托管多提供商 LLM 聊天平台，带组织管理与 OpenAI 兼容 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asya-ai/asya-chat-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "asya-ai/asya-chat-ui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

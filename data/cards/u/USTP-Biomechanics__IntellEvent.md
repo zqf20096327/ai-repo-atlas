@@ -1,6 +1,6 @@
 # USTP-Biomechanics/IntellEvent
 
-⭐ 18 · Python · CC-BY-4.0 · 推送 2026-04-10 · [GitHub](https://github.com/USTP-Biomechanics/IntellEvent) · 组织维护
+⭐ 19 · Python · CC-BY-4.0 · 推送 2026-11-04 · [GitHub](https://github.com/USTP-Biomechanics/IntellEvent) · 组织维护
 
 **面向多种病理性步态的深度学习步态事件检测算法（Vicon Nexus 集成）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "USTP-Biomechanics/IntellEvent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "USTP-Biomechanics/IntellEvent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

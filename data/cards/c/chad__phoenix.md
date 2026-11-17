@@ -1,6 +1,6 @@
 # chad/phoenix
 
-⭐ 46 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/chad/phoenix) · 个人维护
+⭐ 50 · TypeScript · 推送 2026-11-02 · [GitHub](https://github.com/chad/phoenix) · 个人维护
 
 **把自然语言规格编译为可运行应用的再生式版本控制工具**
 
@@ -44,13 +44,13 @@ Phoenix 读取 markdown 编写的规格说明，经 子句→规范化需求→�
 
 ```mermaid
 xychart-beta
-    title "chad/phoenix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 43 --> 47
-    line [44, 46, 46]
+    title "chad/phoenix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 51
+    line [44, 46, 44, 50, 50]
 ```
 
-2026-10-18 44 → 2026-11-02 46（+2）
+2026-10-18 44 → 2026-11-17 50（+6）
 
 
 ---

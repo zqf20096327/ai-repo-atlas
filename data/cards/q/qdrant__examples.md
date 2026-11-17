@@ -1,6 +1,6 @@
 # qdrant/examples
 
-⭐ 231 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/examples) · 组织维护
+⭐ 232 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/qdrant/examples) · 组织维护
 
 **Qdrant 向量搜索引擎的示例与教程合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/examples 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 227 --> 232
-    line [228, 229, 230, 231, 231]
+    title "qdrant/examples 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 227 --> 233
+    line [228, 229, 230, 231, 230, 231, 232, 232]
 ```
 
-2026-10-18 228 → 2026-11-02 231（+3）
+2026-10-18 228 → 2026-11-17 232（+4）
 
 
 ---

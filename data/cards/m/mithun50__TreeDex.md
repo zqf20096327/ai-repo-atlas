@@ -1,6 +1,6 @@
 # mithun50/TreeDex
 
-⭐ 42 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/mithun50/TreeDex) · [官网](https://mithun50.github.io/TreeDex/) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/mithun50/TreeDex) · [官网](https://mithun50.github.io/TreeDex/) · 个人维护
 
 **无向量的树结构文档 RAG 框架，支持任意 LLM 接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mithun50/TreeDex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "mithun50/TreeDex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

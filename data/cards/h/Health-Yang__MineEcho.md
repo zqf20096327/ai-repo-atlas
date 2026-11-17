@@ -1,6 +1,6 @@
 # Health-Yang/MineEcho
 
-⭐ 218 · TypeScript · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/Health-Yang/MineEcho) · 个人维护 · 中文 README
+⭐ 216 · TypeScript · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/Health-Yang/MineEcho) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 助手记忆操作系统：记忆分层、知识库、技能路由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Health-Yang/MineEcho 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 217 --> 222
-    line [221, 218, 219, 218, 218]
+    title "Health-Yang/MineEcho 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 215 --> 222
+    line [221, 218, 219, 218, 216, 216]
 ```
 
-2026-10-18 221 → 2026-11-02 218（-3）
+2026-10-18 221 → 2026-11-17 216（-5）
 
 
 ---

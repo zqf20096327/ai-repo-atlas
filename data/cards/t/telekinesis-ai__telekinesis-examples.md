@@ -1,6 +1,6 @@
 # telekinesis-ai/telekinesis-examples
 
-⭐ 86 · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/telekinesis-ai/telekinesis-examples) · [官网](https://docs.telekinesis.ai/) · 组织维护
+⭐ 88 · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/telekinesis-ai/telekinesis-examples) · [官网](https://docs.telekinesis.ai/) · 组织维护
 
 **面向机器人的 Agentic OS 技能示例库：CV、机器人与物理 AI 应用**
 
@@ -43,13 +43,13 @@ Telekinesis Agentic OS 的示例仓库：Telekinesis 是面向通用机器人的
 
 ```mermaid
 xychart-beta
-    title "telekinesis-ai/telekinesis-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 84 --> 87
-    line [86, 85, 86, 86]
+    title "telekinesis-ai/telekinesis-examples 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 84 --> 89
+    line [86, 85, 86, 87, 88, 88]
 ```
 
-2026-10-18 86 → 2026-11-02 86（+0）
+2026-10-18 86 → 2026-11-17 88（+2）
 
 
 ---

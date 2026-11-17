@@ -1,6 +1,6 @@
 # LeoLin990405/oral-interview-transcription-skill
 
-⭐ 17 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LeoLin990405/oral-interview-transcription-skill) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/LeoLin990405/oral-interview-transcription-skill) · 个人维护 · 中文 README
 
 **口述史逐字稿去口语化的 Claude Skill 流水线，存真优先**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoLin990405/oral-interview-transcription-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "LeoLin990405/oral-interview-transcription-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 20
+    line [15, 16, 17, 16, 19, 19]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 19（+4）
 
 
 ---

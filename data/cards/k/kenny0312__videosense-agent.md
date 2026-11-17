@@ -1,6 +1,6 @@
 # kenny0312/videosense-agent
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/kenny0312/videosense-agent) · 个人维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/kenny0312/videosense-agent) · 个人维护 · 中文 README
 
 **对视频库提问并给出可播放片段与图表佐证的 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kenny0312/videosense-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "kenny0312/videosense-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [29, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 28（-1）
 
 
 ---

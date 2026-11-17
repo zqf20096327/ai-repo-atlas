@@ -1,6 +1,6 @@
 # teddykoker/nequip-eqx
 
-⭐ 18 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/teddykoker/nequip-eqx) · [官网](https://pypi.org/project/nequip-eqx/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/teddykoker/nequip-eqx) · [官网](https://pypi.org/project/nequip-eqx/) · 个人维护
 
 **给计算化学研究者的 NequIP 力场 JAX 实现**
 
@@ -45,13 +45,13 @@ NequIP 神经网络原子间势（E(3)-等变图神经网络）的 JAX/Equinox �
 
 ```mermaid
 xychart-beta
-    title "teddykoker/nequip-eqx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "teddykoker/nequip-eqx 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

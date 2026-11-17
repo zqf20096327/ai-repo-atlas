@@ -1,6 +1,6 @@
 # Kymo-MCP/mcpcan
 
-⭐ 729 · Go · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/Kymo-MCP/mcpcan) · [官网](https://www.mcpcan.com) · 组织维护 · 中文 README
+⭐ 731 · Go · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/Kymo-MCP/mcpcan) · [官网](https://www.mcpcan.com) · 组织维护 · 中文 README
 
 **面向 DevOps 团队的 MCP 服务容器化集中管理平台**
 
@@ -45,13 +45,13 @@ MCPCan 是开源的 MCP（Model Context Protocol）服务集成与管理平台�
 
 ```mermaid
 xychart-beta
-    title "Kymo-MCP/mcpcan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 727 --> 730
-    line [728, 729, 729]
+    title "Kymo-MCP/mcpcan 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 727 --> 732
+    line [728, 729, 728, 729, 730, 731, 731]
 ```
 
-2026-10-18 728 → 2026-11-02 729（+1）
+2026-10-18 728 → 2026-11-17 731（+3）
 
 
 ---

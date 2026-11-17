@@ -1,6 +1,6 @@
 # JdeRobot/PerceptionMetrics
 
-⭐ 114 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/JdeRobot/PerceptionMetrics) · [官网](https://jderobot.github.io/PerceptionMetrics/) · 组织维护
+⭐ 115 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/JdeRobot/PerceptionMetrics) · [官网](https://jderobot.github.io/PerceptionMetrics/) · 组织维护
 
 **面向感知模型的统一评测工具箱：跨模态跨框架评测检测与分割**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JdeRobot/PerceptionMetrics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 112 --> 115
-    line [113, 114, 114]
+    title "JdeRobot/PerceptionMetrics 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 112 --> 116
+    line [113, 114, 115, 115]
 ```
 
-2026-10-18 113 → 2026-11-02 114（+1）
+2026-10-18 113 → 2026-11-17 115（+2）
 
 
 ---

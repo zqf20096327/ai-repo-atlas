@@ -1,6 +1,6 @@
 # b-tapia-morales/FuzzySharper
 
-⭐ 13 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/b-tapia-morales/FuzzySharper) · 个人维护
+⭐ 13 · C# · MIT · 推送 2026-11-04 · [GitHub](https://github.com/b-tapia-morales/FuzzySharper) · 个人维护
 
 **C# 模糊逻辑推理库：组件化搭建模糊专家系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "b-tapia-morales/FuzzySharper 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-17"]
     y-axis "stars" 9 --> 14
     line [10, 12, 13, 13]
 ```
 
-2026-10-29 10 → 2026-11-02 13（+3）
+2026-10-29 10 → 2026-11-17 13（+3）
 
 
 ---

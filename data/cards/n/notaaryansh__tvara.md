@@ -1,6 +1,6 @@
 # notaaryansh/tvara
 
-⭐ 17 · Swift · AGPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/notaaryansh/tvara) · [官网](https://trytvara.com) · 个人维护
+⭐ 17 · Swift · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/notaaryansh/tvara) · [官网](https://trytvara.com) · 个人维护
 
 **macOS 全局统一搜索启动器，本地默认、AI 可选**
 
@@ -46,12 +46,12 @@ tvara 是一款 macOS 桌面启动器，用 ⌘K 从任意位置唤起，在单�
 ```mermaid
 xychart-beta
     title "notaaryansh/tvara 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

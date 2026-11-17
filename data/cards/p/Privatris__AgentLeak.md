@@ -1,6 +1,6 @@
 # Privatris/AgentLeak
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Privatris/AgentLeak) · [官网](https://www.agentleak.org) · 组织维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Privatris/AgentLeak) · [官网](https://www.agentleak.org) · 组织维护
 
 **多智能体 LLM 系统内部信道隐私泄漏基准**
 
@@ -45,13 +45,13 @@ IEEE Access 论文的配套研究基准仓库：在 1,000 个场景（医疗/金
 
 ```mermaid
 xychart-beta
-    title "Privatris/AgentLeak 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "Privatris/AgentLeak 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 33 --> 46
+    line [34, 35, 36, 37, 40, 43, 44, 45, 45]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 45（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # nk3nny/LambsDanger
 
-⭐ 127 · SQF · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/nk3nny/LambsDanger) · 组织维护
+⭐ 129 · SQF · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/nk3nny/LambsDanger) · 组织维护
 
 **Arma 3 的 AI 战术增强模组：改造游戏内 AI 行为**
 
@@ -45,13 +45,13 @@ Arma 3 的开源模组（GPLv2 附加两项修正），最初为挪威 nopryl.no
 
 ```mermaid
 xychart-beta
-    title "nk3nny/LambsDanger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    title "nk3nny/LambsDanger 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 126 --> 130
+    line [127, 129, 129]
 ```
 
-2026-10-18 127 → 2026-11-02 127（+0）
+2026-10-18 127 → 2026-11-17 129（+2）
 
 
 ---

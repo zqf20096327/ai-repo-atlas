@@ -1,6 +1,6 @@
 # k-zehnder/gophersignal
 
-⭐ 25 · TypeScript · 推送 2026-09-07 · [GitHub](https://github.com/k-zehnder/gophersignal) · [官网](https://gophersignal.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **聚合并 AI 摘要 HackerNews 文章内容的新闻服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "k-zehnder/gophersignal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-07 25（+0）
 
 
 ---

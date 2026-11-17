@@ -1,6 +1,6 @@
 # saddam213/TensorStack
 
-⭐ 45 · C# · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/saddam213/TensorStack) · 个人维护
+⭐ 48 · C# · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/saddam213/TensorStack) · 个人维护
 
 **面向 Windows 的 .NET 生成式 AI 开发 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "saddam213/TensorStack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "saddam213/TensorStack 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 48, 48]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 48（+3）
 
 
 ---

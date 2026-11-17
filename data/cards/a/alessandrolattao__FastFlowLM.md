@@ -1,6 +1,6 @@
 # alessandrolattao/FastFlowLM
 
-⭐ 18 · Makefile · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/alessandrolattao/FastFlowLM) · [官网](https://copr.fedorainfracloud.org/coprs/alessandrolattao/fastflowlm) · 个人维护
+⭐ 18 · Makefile · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/alessandrolattao/FastFlowLM) · [官网](https://copr.fedorainfracloud.org/coprs/alessandrolattao/fastflowlm) · 个人维护
 
 **为 Fedora/RHEL 系发行版打包 FastFlowLM，在 AMD NPU 上跑 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alessandrolattao/FastFlowLM 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-02"]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-17"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-29 17 → 2026-11-02 18（+1）
+2026-10-29 17 → 2026-11-17 18（+1）
 
 
 ---

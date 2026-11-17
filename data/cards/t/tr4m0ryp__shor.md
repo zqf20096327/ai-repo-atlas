@@ -1,6 +1,6 @@
 # tr4m0ryp/shor
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/tr4m0ryp/shor) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/tr4m0ryp/shor) · 个人维护
 
 **自主 Web 应用渗透测试引擎：多 agent 流水线产出经验证的漏洞**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tr4m0ryp/shor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "tr4m0ryp/shor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

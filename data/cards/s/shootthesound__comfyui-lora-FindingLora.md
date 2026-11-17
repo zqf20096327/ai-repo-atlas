@@ -1,6 +1,6 @@
 # shootthesound/comfyui-lora-FindingLora
 
-⭐ 11 · JavaScript · 推送 2026-07-23 · [GitHub](https://github.com/shootthesound/comfyui-lora-FindingLora) · 个人维护
+⭐ 12 · JavaScript · 推送 2026-07-23 · [GitHub](https://github.com/shootthesound/comfyui-lora-FindingLora) · 个人维护
 
 **给 ComfyUI 用户的 LoRA 加载节点：书签、触发词、模糊搜索**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点包，替代原生 LoRA Loader 的交互：以模态选�
 
 ```mermaid
 xychart-beta
-    title "shootthesound/comfyui-lora-FindingLora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "shootthesound/comfyui-lora-FindingLora 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

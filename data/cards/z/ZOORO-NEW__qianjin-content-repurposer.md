@@ -1,6 +1,6 @@
 # ZOORO-NEW/qianjin-content-repurposer
 
-⭐ 19 · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ZOORO-NEW/qianjin-content-repurposer) · 个人维护 · 中文 README
+⭐ 20 · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ZOORO-NEW/qianjin-content-repurposer) · 个人维护 · 中文 README
 
 **AI 写作技能包：把一篇长文改写为 6 个平台的内容版本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZOORO-NEW/qianjin-content-repurposer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19]
+    title "ZOORO-NEW/qianjin-content-repurposer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 18, 19, 16, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-17 20（+4）
 
 
 ---

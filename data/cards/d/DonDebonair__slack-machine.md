@@ -1,6 +1,6 @@
 # DonDebonair/slack-machine
 
-⭐ 769 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/DonDebonair/slack-machine) · [官网](https://dondebonair.github.io/slack-machine/) · 个人维护
+⭐ 770 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DonDebonair/slack-machine) · [官网](https://dondebonair.github.io/slack-machine/) · 个人维护
 
 **面向开发者的可扩展 Slack 聊天机器人框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DonDebonair/slack-machine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 768 --> 770
-    line [769, 769]
+    title "DonDebonair/slack-machine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 768 --> 771
+    line [769, 770, 770]
 ```
 
-2026-10-18 769 → 2026-11-02 769（+0）
+2026-10-18 769 → 2026-11-17 770（+1）
 
 
 ---

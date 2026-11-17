@@ -1,6 +1,6 @@
 # Sachithx/EntroPE
 
-⭐ 50 · Python · 推送 2026-10-22 · [GitHub](https://github.com/Sachithx/EntroPE) · [官网](https://arxiv.org/pdf/2509.26157) · 个人维护
+⭐ 52 · Python · 推送 2026-11-11 · [GitHub](https://github.com/Sachithx/EntroPE) · [官网](https://arxiv.org/pdf/2509.26157) · 个人维护
 
 **NeurIPS 2026 论文官方实现：熵引导的时序 patch 分割预测**
 
@@ -45,13 +45,13 @@ EntroPE 论文（NeurIPS 2026）的参考实现：用冻结的预训练因果 GP
 
 ```mermaid
 xychart-beta
-    title "Sachithx/EntroPE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    title "Sachithx/EntroPE 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 51, 52, 52]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 52（+3）
 
 
 ---

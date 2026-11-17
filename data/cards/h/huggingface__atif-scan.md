@@ -1,6 +1,6 @@
 # huggingface/atif-scan
 
-⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/huggingface/atif-scan) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/huggingface/atif-scan) · 组织维护
 
 **离线扫描 ATIF agent 轨迹、输出作弊审查候选的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/atif-scan 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 17
-    line [13, 16, 16]
+    title "huggingface/atif-scan 星数(近 8 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 46
+    line [13, 16, 23, 25, 26, 40, 43, 43]
 ```
 
-2026-10-31 13 → 2026-11-02 16（+3）
+2026-10-31 13 → 2026-11-17 43（+30）
 
 
 ---

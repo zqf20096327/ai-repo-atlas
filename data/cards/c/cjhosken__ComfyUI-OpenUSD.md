@@ -1,6 +1,6 @@
 # cjhosken/ComfyUI-OpenUSD
 
-⭐ 11 · JavaScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/cjhosken/ComfyUI-OpenUSD) · [官网](https://registry.comfy.org/publishers/cjhosken/nodes/ComfyUI-OpenUSD) · 个人维护
+⭐ 10 · JavaScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/cjhosken/ComfyUI-OpenUSD) · [官网](https://registry.comfy.org/publishers/cjhosken/nodes/ComfyUI-OpenUSD) · 个人维护
 
 **ComfyUI 的 OpenUSD 3D 场景集成节点包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "cjhosken/ComfyUI-OpenUSD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "cjhosken/ComfyUI-OpenUSD 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

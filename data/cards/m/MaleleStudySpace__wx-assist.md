@@ -1,6 +1,6 @@
 # MaleleStudySpace/wx-assist
 
-⭐ 132 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/MaleleStudySpace/wx-assist) · [官网](https://wx-assist-landing.onrender.com/) · 个人维护 · 中文 README
+⭐ 143 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/MaleleStudySpace/wx-assist) · [官网](https://wx-assist-landing.onrender.com/) · 个人维护 · 中文 README
 
 **本地运行的微信 AI 助手：群摘要、关键词提醒、收藏/朋友圈管理**
 
@@ -45,13 +45,13 @@ Windows 桌面应用「摘星」，围绕微信消息处理：关键词命中即
 
 ```mermaid
 xychart-beta
-    title "MaleleStudySpace/wx-assist 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 120 --> 133
-    line [121, 122, 126, 127, 128, 129, 130, 131, 132, 132]
+    title "MaleleStudySpace/wx-assist 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 119 --> 145
+    line [121, 122, 126, 127, 128, 129, 130, 131, 132, 127, 140, 141, 142, 143, 143]
 ```
 
-2026-10-18 121 → 2026-11-02 132（+11）
+2026-10-18 121 → 2026-11-17 143（+22）
 
 
 ---

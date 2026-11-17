@@ -1,6 +1,6 @@
 # matrixmapai/openabcode
 
-⭐ 428 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/matrixmapai/openabcode) · [官网](https://openabcode.com) · 组织维护
+⭐ 448 · TypeScript · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/matrixmapai/openabcode) · [官网](https://openabcode.com) · 组织维护
 
 **按任务类型动态路由多模型的终端编码 agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "matrixmapai/openabcode 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 423 --> 429
-    line [424, 425, 427, 425, 426, 428, 428]
+    title "matrixmapai/openabcode 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 422 --> 450
+    line [424, 425, 427, 425, 426, 428, 425, 424, 426, 428, 437, 444, 448, 448]
 ```
 
-2026-10-18 424 → 2026-11-02 428（+4）
+2026-10-18 424 → 2026-11-17 448（+24）
 
 
 ---

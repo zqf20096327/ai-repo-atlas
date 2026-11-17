@@ -44,13 +44,13 @@ Chrome 扩展，将浏览器转变为 MCP 服务器：任何支持 stdio 的 MCP
 
 ```mermaid
 xychart-beta
-    title "ekingunoncu/izan.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "ekingunoncu/izan.io 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [28, 27, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

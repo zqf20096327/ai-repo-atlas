@@ -1,6 +1,6 @@
 # huangjia2019/rag-in-action
 
-⭐ 855 · Jupyter Notebook · 推送 2026-08-25 · [GitHub](https://github.com/huangjia2019/rag-in-action) · [官网](https://u.geekbang.org/subject/airag/1009927) · 个人维护 · 中文 README
+⭐ 860 · Jupyter Notebook · 推送 2026-08-25 · [GitHub](https://github.com/huangjia2019/rag-in-action) · [官网](https://u.geekbang.org/subject/airag/1009927) · 个人维护 · 中文 README
 
 **RAG 系统实战课程代码库：10 大组件模块化拆解与实操**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huangjia2019/rag-in-action 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 848 --> 857
-    line [849, 851, 852, 854, 856, 855, 855]
+    title "huangjia2019/rag-in-action 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 848 --> 861
+    line [849, 851, 852, 854, 856, 855, 854, 859, 860, 860]
 ```
 
-2026-10-18 849 → 2026-11-02 855（+6）
+2026-10-18 849 → 2026-11-17 860（+11）
 
 
 ---

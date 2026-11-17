@@ -1,6 +1,6 @@
 # symfony/ai-mate
 
-⭐ 43 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/symfony/ai-mate) · [官网](https://symfony.com/packages/ai-mate) · 组织维护
+⭐ 46 · PHP · MIT · 推送 2026-11-13 · [GitHub](https://github.com/symfony/ai-mate) · [官网](https://symfony.com/packages/ai-mate) · 组织维护
 
 **Symfony 项目的 CLI 开发助手：为编码 agent 暴露项目感知工具**
 
@@ -45,13 +45,13 @@ Symfony 官方 Mate 组件，提供命令行工具 vendor/bin/mate，将项目�
 
 ```mermaid
 xychart-beta
-    title "symfony/ai-mate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "symfony/ai-mate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 41 --> 47
+    line [42, 43, 42, 44, 46, 46]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 46（+4）
 
 
 ---

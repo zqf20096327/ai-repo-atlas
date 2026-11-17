@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kbhujbal/Multi-Agent-AI-Travel-Advisor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "kbhujbal/Multi-Agent-AI-Travel-Advisor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 57 --> 61
-    line [58, 59, 60]
+    line [58, 59, 60, 58, 60, 60]
 ```
 
-2026-10-18 58 → 2026-11-02 60（+2）
+2026-10-18 58 → 2026-11-17 60（+2）
 
 
 ---

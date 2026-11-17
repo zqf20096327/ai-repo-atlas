@@ -1,6 +1,6 @@
 # JustVugg/judicex
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/JustVugg/judicex) · 个人维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/JustVugg/judicex) · 个人维护
 
 **给律师与法律团队的开源法律 AI 工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JustVugg/judicex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 60 --> 64
-    line [61, 62, 63, 63]
+    title "JustVugg/judicex 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 60 --> 70
+    line [61, 62, 63, 61, 65, 66, 68, 69, 69]
 ```
 
-2026-10-18 61 → 2026-11-02 63（+2）
+2026-10-18 61 → 2026-11-17 69（+8）
 
 
 ---

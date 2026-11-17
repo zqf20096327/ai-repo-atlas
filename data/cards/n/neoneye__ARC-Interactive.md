@@ -1,6 +1,6 @@
 # neoneye/ARC-Interactive
 
-⭐ 33 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/neoneye/ARC-Interactive) · [官网](https://neoneye.github.io/arc/) · 个人维护
+⭐ 33 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/neoneye/ARC-Interactive) · [官网](https://neoneye.github.io/arc/) · 个人维护
 
 **在浏览器中解答 ARC 抽象推理谜题并沉淀交互数据集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "neoneye/ARC-Interactive 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-24", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-24 33 → 2026-11-02 33（+0）
+2026-10-24 33 → 2026-11-17 33（+0）
 
 
 ---

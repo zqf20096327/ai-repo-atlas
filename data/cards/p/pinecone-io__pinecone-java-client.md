@@ -1,6 +1,6 @@
 # pinecone-io/pinecone-java-client
 
-⭐ 51 · Java · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/pinecone-io/pinecone-java-client) · [官网](https://www.pinecone.io) · 组织维护
+⭐ 51 · Java · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/pinecone-io/pinecone-java-client) · [官网](https://www.pinecone.io) · 组织维护
 
 **Pinecone 向量数据库官方 Java 客户端，供 JVM 应用接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pinecone-io/pinecone-java-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

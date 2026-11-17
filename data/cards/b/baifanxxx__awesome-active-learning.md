@@ -1,6 +1,6 @@
 # baifanxxx/awesome-active-learning
 
-⭐ 809 · CC0-1.0 · 推送 2026-03-26 · [GitHub](https://github.com/baifanxxx/awesome-active-learning) · 个人维护
+⭐ 810 · CC0-1.0 · 推送 2026-03-26 · [GitHub](https://github.com/baifanxxx/awesome-active-learning) · 个人维护
 
 **主动学习（Active Learning）论文与资源策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "baifanxxx/awesome-active-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 806 --> 810
-    line [807, 808, 809, 809]
+    title "baifanxxx/awesome-active-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 806 --> 811
+    line [807, 808, 809, 807, 810, 810]
 ```
 
-2026-10-18 807 → 2026-11-02 809（+2）
+2026-10-18 807 → 2026-11-17 810（+3）
 
 
 ---

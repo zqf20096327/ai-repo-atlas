@@ -1,6 +1,6 @@
 # oakreader/oakreader
 
-⭐ 46 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/oakreader/oakreader) · [官网](https://oakreader.com) · 个人维护 · 中文 README
+⭐ 47 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/oakreader/oakreader) · [官网](https://oakreader.com) · 个人维护 · 中文 README
 
 **macOS 原生 AI 阅读器：PDF/网页阅读、问答与个人知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oakreader/oakreader 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 47
-    line [43, 44, 45, 46, 46]
+    title "oakreader/oakreader 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 45, 46, 45, 46, 47, 47]
 ```
 
-2026-10-18 43 → 2026-11-02 46（+3）
+2026-10-18 43 → 2026-11-17 47（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # mischasigtermans/laravel-toon
 
-⭐ 147 · PHP · MIT · 推送 2026-03-23 · [GitHub](https://github.com/mischasigtermans/laravel-toon) · [官网](https://toonformat.dev) · 个人维护
+⭐ 148 · PHP · MIT · 推送 2026-11-09 · [GitHub](https://github.com/mischasigtermans/laravel-toon) · [官网](https://toonformat.dev) · 个人维护
 
 **Laravel 的 TOON 编码包：给 LLM 传数据时省约 50% token**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mischasigtermans/laravel-toon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    title "mischasigtermans/laravel-toon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 146 --> 149
+    line [147, 148, 148]
 ```
 
-2026-10-18 147 → 2026-11-02 147（+0）
+2026-10-18 147 → 2026-11-17 148（+1）
 
 
 ---

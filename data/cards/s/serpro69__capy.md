@@ -1,6 +1,6 @@
 # serpro69/capy
 
-⭐ 13 · Go · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/serpro69/capy) · 个人维护
+⭐ 13 · Go · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/serpro69/capy) · 个人维护
 
 **本地 MCP 服务器：帮编程代理处理大输出、免撑爆上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serpro69/capy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "serpro69/capy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    line [12, 13, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # scikit-learn-contrib/scikit-matter
 
-⭐ 98 · Python · BSD-3-Clause · 推送 2026-10-07 · [GitHub](https://github.com/scikit-learn-contrib/scikit-matter) · [官网](https://scikit-matter.readthedocs.io/en/latest) · 组织维护
+⭐ 99 · Python · BSD-3-Clause · 推送 2026-10-07 · [GitHub](https://github.com/scikit-learn-contrib/scikit-matter) · [官网](https://scikit-matter.readthedocs.io/en/latest) · 组织维护
 
 **材料科学与化学社区方法构建的 scikit-learn 兼容工具库**
 
@@ -44,13 +44,13 @@ Python 库 scikit-matter（包名 skmatter），汇集源自材料科学与化�
 
 ```mermaid
 xychart-beta
-    title "scikit-learn-contrib/scikit-matter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "scikit-learn-contrib/scikit-matter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

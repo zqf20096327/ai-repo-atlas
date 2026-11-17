@@ -1,6 +1,6 @@
 # machinelearningZH/audio-transcription
 
-⭐ 102 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/machinelearningZH/audio-transcription) · 组织维护 · 中文 README
+⭐ 103 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/machinelearningZH/audio-transcription) · 组织维护 · 中文 README
 
 **本地部署的音频/视频转写工具，带 HTML 转写编辑器**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "machinelearningZH/audio-transcription 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "machinelearningZH/audio-transcription 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 101 --> 104
+    line [102, 103, 103]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 103（+1）
 
 
 ---

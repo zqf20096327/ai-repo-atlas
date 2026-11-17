@@ -1,6 +1,6 @@
 # stefanasandei/roai-solved
 
-⭐ 49 · Jupyter Notebook · MIT · 推送 2026-07-04 · [GitHub](https://github.com/stefanasandei/roai-solved) · 个人维护
+⭐ 51 · Jupyter Notebook · MIT · 推送 2026-07-04 · [GitHub](https://github.com/stefanasandei/roai-solved) · 个人维护
 
 **AI 奥林匹克竞赛题解集：IOAI 类赛事任务解法汇编**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "stefanasandei/roai-solved 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "stefanasandei/roai-solved 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

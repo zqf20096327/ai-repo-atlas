@@ -1,6 +1,6 @@
 # chanjoongx/microgpt-efficiency
 
-⭐ 23 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/chanjoongx/microgpt-efficiency) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/chanjoongx/microgpt-efficiency) · 个人维护
 
 **Karpathy microgpt 在四种后端下的效率基准与教学实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chanjoongx/microgpt-efficiency 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "chanjoongx/microgpt-efficiency 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

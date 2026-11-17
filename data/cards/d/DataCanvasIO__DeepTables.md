@@ -1,6 +1,6 @@
 # DataCanvasIO/DeepTables
 
-⭐ 707 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/DataCanvasIO/DeepTables) · [官网](https://deeptables.readthedocs.io) · 组织维护
+⭐ 706 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/DataCanvasIO/DeepTables) · [官网](https://deeptables.readthedocs.io) · 组织维护
 
 **面向表格数据的深度学习工具包，覆盖 CTR 预测模型族**
 
@@ -45,13 +45,13 @@ DataCanvas 开源的 Python 工具包，将 FM、DeepFM、Wide&Deep、DCN、PNN 
 
 ```mermaid
 xychart-beta
-    title "DataCanvasIO/DeepTables 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "DataCanvasIO/DeepTables 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 705 --> 708
-    line [706, 707, 707]
+    line [706, 707, 706, 706]
 ```
 
-2026-10-18 706 → 2026-11-02 707（+1）
+2026-10-18 706 → 2026-11-17 706（+0）
 
 
 ---

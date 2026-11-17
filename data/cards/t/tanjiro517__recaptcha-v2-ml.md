@@ -1,6 +1,6 @@
 # tanjiro517/recaptcha-v2-ml
 
-⭐ 16 · Jupyter Notebook · 推送 2025-11-11 · [GitHub](https://github.com/tanjiro517/recaptcha-v2-ml) · [官网](https://t.me/rex_update) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 YOLO 模型分析 reCAPTCHA v2 图像挑战的教学演示项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tanjiro517/recaptcha-v2-ml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-07"]
     y-axis "stars" 14 --> 17
     line [16, 15, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-07 16（+0）
 
 
 ---

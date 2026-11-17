@@ -1,6 +1,6 @@
 # tweag/tricorder
 
-⭐ 68 · Haskell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tweag/tricorder) · 组织维护
+⭐ 70 · Haskell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tweag/tricorder) · 组织维护
 
 **Haskell 开发反馈工具：持续构建、诊断并服务人类与 LLM agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tweag/tricorder 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 64 --> 69
-    line [65, 66, 67, 68, 68]
+    title "tweag/tricorder 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 64 --> 71
+    line [65, 66, 67, 68, 66, 68, 70, 70]
 ```
 
-2026-10-18 65 → 2026-11-02 68（+3）
+2026-10-18 65 → 2026-11-17 70（+5）
 
 
 ---

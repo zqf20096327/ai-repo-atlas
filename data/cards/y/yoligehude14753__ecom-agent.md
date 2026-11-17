@@ -1,6 +1,6 @@
 # yoligehude14753/ecom-agent
 
-⭐ 16 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/yoligehude14753/ecom-agent) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/yoligehude14753/ecom-agent) · 个人维护
 
 **自托管亚马逊卖家 AI 自动化平台：选品、listing、评论、广告**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoligehude14753/ecom-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    title "yoligehude14753/ecom-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 20
+    line [14, 16, 14, 18, 19, 19]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 19（+5）
 
 
 ---

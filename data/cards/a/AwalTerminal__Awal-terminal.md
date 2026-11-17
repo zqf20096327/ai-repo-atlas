@@ -1,6 +1,6 @@
 # AwalTerminal/Awal-terminal
 
-⭐ 35 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AwalTerminal/Awal-terminal) · [官网](https://awalterminal.github.io/Awal-terminal/) · 组织维护
+⭐ 36 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AwalTerminal/Awal-terminal) · [官网](https://awalterminal.github.io/Awal-terminal/) · 组织维护
 
 **面向 AI 编码代理的 macOS 原生终端模拟器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AwalTerminal/Awal-terminal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35]
+    title "AwalTerminal/Awal-terminal 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

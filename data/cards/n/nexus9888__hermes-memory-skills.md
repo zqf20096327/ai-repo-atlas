@@ -1,6 +1,6 @@
 # nexus9888/hermes-memory-skills
 
-⭐ 48 · 推送 2026-06-03 · [GitHub](https://github.com/nexus9888/hermes-memory-skills) · 个人维护
+⭐ 49 · 推送 2026-06-03 · [GitHub](https://github.com/nexus9888/hermes-memory-skills) · 个人维护
 
 **Hermes Agent 的记忆维护技能：跨后端的记忆整理与净化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexus9888/hermes-memory-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "nexus9888/hermes-memory-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 46 --> 50
-    line [47, 48, 49, 48, 48]
+    line [47, 48, 49, 48, 47, 48, 49, 49]
 ```
 
-2026-10-18 47 → 2026-11-02 48（+1）
+2026-10-18 47 → 2026-11-17 49（+2）
 
 
 ---

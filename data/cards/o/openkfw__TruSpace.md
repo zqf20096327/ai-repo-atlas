@@ -1,6 +1,6 @@
 # openkfw/TruSpace
 
-⭐ 25 · TypeScript · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/openkfw/TruSpace) · [官网](https://web.truspace.dev) · 组织维护
+⭐ 27 · TypeScript · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/openkfw/TruSpace) · [官网](https://web.truspace.dev) · 组织维护
 
 **去中心化的主权文档协作工作区，内置本地 AI 解读**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openkfw/TruSpace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "openkfw/TruSpace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

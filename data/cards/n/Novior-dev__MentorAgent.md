@@ -1,6 +1,6 @@
 # Novior-dev/MentorAgent
 
-⭐ 12 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Novior-dev/MentorAgent) · [官网](https://mentoragent.net/) · 组织维护
+⭐ 15 · C# · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Novior-dev/MentorAgent) · [官网](https://mentoragent.net/) · 组织维护
 
 **为 .NET 应用接入 AI agent 的框架：方法变工具并带权限与人工确认**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Novior-dev/MentorAgent 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 12, 12]
+    title "Novior-dev/MentorAgent 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 4 --> 16
+    line [5, 6, 12, 5, 15, 15]
 ```
 
-2026-10-23 5 → 2026-11-02 12（+7）
+2026-10-23 5 → 2026-11-17 15（+10）
 
 
 ---

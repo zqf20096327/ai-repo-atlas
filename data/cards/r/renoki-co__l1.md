@@ -1,6 +1,6 @@
 # renoki-co/l1
 
-⭐ 164 · PHP · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/renoki-co/l1) · 个人维护
+⭐ 165 · PHP · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/renoki-co/l1) · 个人维护
 
 **Laravel/PHP 接入 Cloudflare D1 数据库的连接器包**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "renoki-co/l1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    title "renoki-co/l1 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 163 --> 166
+    line [164, 165, 165]
 ```
 
-2026-10-18 164 → 2026-11-02 164（+0）
+2026-10-18 164 → 2026-11-17 165（+1）
 
 
 ---

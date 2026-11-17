@@ -1,6 +1,6 @@
 # intel/gprofiler-performance-studio
 
-⭐ 199 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/intel/gprofiler-performance-studio) · [官网](https://github.com/intel/gprofiler-performance-studio) · 组织维护
+⭐ 200 · JavaScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/intel/gprofiler-performance-studio) · [官网](https://github.com/intel/gprofiler-performance-studio) · 组织维护
 
 **gProfiler 连续性能分析平台的自托管后端与 UI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "intel/gprofiler-performance-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 198 --> 200
-    line [199, 199]
+    title "intel/gprofiler-performance-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 198 --> 201
+    line [199, 200, 200]
 ```
 
-2026-10-18 199 → 2026-11-02 199（+0）
+2026-10-18 199 → 2026-11-17 200（+1）
 
 
 ---

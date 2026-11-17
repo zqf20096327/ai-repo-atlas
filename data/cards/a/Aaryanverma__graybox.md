@@ -1,6 +1,6 @@
 # Aaryanverma/graybox
 
-⭐ 269 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Aaryanverma/graybox) · [官网](https://pypi.org/project/graybox/) · 个人维护
+⭐ 272 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Aaryanverma/graybox) · [官网](https://pypi.org/project/graybox/) · 个人维护
 
 **本地优先的个人长期记忆工具：笔记自动整理成互链 wiki 并带引用问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aaryanverma/graybox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 263 --> 270
-    line [265, 264, 268, 269]
+    title "Aaryanverma/graybox 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 263 --> 273
+    line [265, 264, 268, 269, 268, 271, 270, 271, 272, 272]
 ```
 
-2026-10-18 265 → 2026-11-02 269（+4）
+2026-10-18 265 → 2026-11-17 272（+7）
 
 
 ---

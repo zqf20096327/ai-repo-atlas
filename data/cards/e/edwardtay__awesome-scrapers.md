@@ -1,6 +1,6 @@
 # edwardtay/awesome-scrapers
 
-⭐ 18 · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/edwardtay/awesome-scrapers) · 个人维护
+⭐ 24 · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/edwardtay/awesome-scrapers) · 个人维护
 
 **150+ 网页爬取/反检测/MCP 工具的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "edwardtay/awesome-scrapers 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 17, 18, 18]
+    title "edwardtay/awesome-scrapers 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 25
+    line [14, 15, 16, 17, 18, 17, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 14 → 2026-11-02 18（+4）
+2026-10-18 14 → 2026-11-17 24（+10）
 
 
 ---

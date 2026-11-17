@@ -1,6 +1,6 @@
 # NewLifeX/NewLife.AI
 
-⭐ 21 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NewLifeX/NewLife.AI) · 组织维护 · 中文 README
+⭐ 22 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NewLifeX/NewLife.AI) · 组织维护 · 中文 README
 
 **.NET 统一 AI 网关库：46 家 LLM 服务商单一接口接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NewLifeX/NewLife.AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "NewLifeX/NewLife.AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # srwi/PyCharm-PixelLens
 
-⭐ 101 · Kotlin · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/srwi/PyCharm-PixelLens) · [官网](https://plugins.jetbrains.com/plugin/25039-pixellens) · 个人维护
+⭐ 102 · Kotlin · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/srwi/PyCharm-PixelLens) · [官网](https://plugins.jetbrains.com/plugin/25039-pixellens) · 个人维护
 
 **PyCharm 调试图像可视化插件：查看多维数组为图像**
 
@@ -44,13 +44,13 @@ JetBrains Marketplace 分发的 PyCharm 插件，在调试器中右键将 NumPy�
 
 ```mermaid
 xychart-beta
-    title "srwi/PyCharm-PixelLens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 99 --> 102
-    line [100, 101, 101]
+    title "srwi/PyCharm-PixelLens 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 102, 102]
 ```
 
-2026-10-18 100 → 2026-11-02 101（+1）
+2026-10-18 100 → 2026-11-17 102（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # smaramwbc/statewave-personal-assistant
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/smaramwbc/statewave-personal-assistant) · [官网](https://statewave.ai) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/smaramwbc/statewave-personal-assistant) · [官网](https://statewave.ai) · 组织维护
 
 **Statewave 记忆集成的 FastAPI 参考应用：跨会话持久记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smaramwbc/statewave-personal-assistant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "smaramwbc/statewave-personal-assistant 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
     y-axis "stars" 25 --> 31
-    line [30, 28, 26, 27, 27]
+    line [30, 28, 26, 27, 28, 26, 27, 28, 28]
 ```
 
-2026-10-18 30 → 2026-11-02 27（-3）
+2026-10-18 30 → 2026-11-17 28（-2）
 
 
 ---

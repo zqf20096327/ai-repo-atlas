@@ -1,6 +1,6 @@
 # camlab-bioml/astir
 
-⭐ 59 · Python · GPL-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/camlab-bioml/astir) · [官网](https://astir.readthedocs.io/en/latest) · 组织维护
+⭐ 61 · Python · GPL-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/camlab-bioml/astir) · [官网](https://astir.readthedocs.io/en/latest) · 组织维护
 
 **从单细胞多重成像与蛋白质组数据自动识别细胞类型的建模框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "camlab-bioml/astir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 56 --> 60
-    line [57, 59, 59]
+    title "camlab-bioml/astir 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 56 --> 62
+    line [57, 59, 57, 60, 61, 61]
 ```
 
-2026-10-18 57 → 2026-11-02 59（+2）
+2026-10-18 57 → 2026-11-17 61（+4）
 
 
 ---

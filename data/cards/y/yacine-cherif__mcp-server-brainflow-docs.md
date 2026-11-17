@@ -1,6 +1,6 @@
 # yacine-cherif/mcp-server-brainflow-docs
 
-⭐ 21 · 推送 2026-05-21 · [GitHub](https://github.com/yacine-cherif/mcp-server-brainflow-docs) · [官网](https://brain-flow.ai/mcp) · 组织维护
+⭐ 16 · 推送 2026-05-21 · [GitHub](https://github.com/yacine-cherif/mcp-server-brainflow-docs) · [官网](https://brain-flow.ai/mcp) · 组织维护
 
 **将团队邮件转化为公司共享记忆的 BrainFlow MCP 服务器文档**
 
@@ -44,13 +44,13 @@ BrainFlow 商业服务的 MCP 服务器设置文档：通过在邮件中抄送 B
 
 ```mermaid
 xychart-beta
-    title "yacine-cherif/mcp-server-brainflow-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 20 --> 25
-    line [24, 21, 21]
+    title "yacine-cherif/mcp-server-brainflow-docs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 25
+    line [24, 21, 17, 16, 16]
 ```
 
-2026-10-18 24 → 2026-11-02 21（-3）
+2026-10-18 24 → 2026-11-17 16（-8）
 
 
 ---

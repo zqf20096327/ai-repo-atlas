@@ -1,6 +1,6 @@
 # frank-luongt/faos-skills-marketplace
 
-⭐ 37 · TeX · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/frank-luongt/faos-skills-marketplace) · [官网](https://faosx.ai/skills) · 组织维护
+⭐ 39 · TeX · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/frank-luongt/faos-skills-marketplace) · [官网](https://faosx.ai/skills) · 组织维护
 
 **面向多 AI 编码平台的 930+ 技能与 31 个 agent 插件库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frank-luongt/faos-skills-marketplace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 34 --> 38
-    line [35, 37, 37]
+    title "frank-luongt/faos-skills-marketplace 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 34 --> 40
+    line [35, 37, 35, 38, 39, 39]
 ```
 
-2026-10-18 35 → 2026-11-02 37（+2）
+2026-10-18 35 → 2026-11-17 39（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # LogeshR15/screener-mcp
 
-⭐ 20 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/LogeshR15/screener-mcp) · [官网](https://logeshr15.github.io/screener-mcp/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/LogeshR15/screener-mcp) · [官网](https://logeshr15.github.io/screener-mcp/) · 个人维护
 
 **给 Claude 接入印度股市数据的 MCP 服务器（Screener.in/NSE/MCX）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LogeshR15/screener-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 17, 19, 20, 20]
+    title "LogeshR15/screener-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 25
+    line [15, 16, 17, 19, 20, 17, 22, 24, 24]
 ```
 
-2026-10-18 15 → 2026-11-02 20（+5）
+2026-10-18 15 → 2026-11-17 24（+9）
 
 
 ---

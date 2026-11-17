@@ -1,6 +1,6 @@
 # deeptelar/telar
 
-⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/deeptelar/telar) · [官网](https://deeptelar.github.io/telar/) · 个人维护
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/deeptelar/telar) · [官网](https://deeptelar.github.io/telar/) · 个人维护
 
 **Kotlin 多平台 AI agent 与工作流框架：类型化图编排**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deeptelar/telar 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "deeptelar/telar 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 5 --> 15
-    line [6, 8, 10, 11, 13, 14, 14]
+    line [6, 8, 10, 11, 13, 14, 13, 14, 14]
 ```
 
-2026-10-19 6 → 2026-11-02 14（+8）
+2026-10-19 6 → 2026-11-17 14（+8）
 
 
 ---

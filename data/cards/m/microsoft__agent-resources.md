@@ -1,6 +1,6 @@
 # microsoft/agent-resources
 
-⭐ 14 · HTML · MIT · 推送 2026-08-12 · [GitHub](https://github.com/microsoft/agent-resources) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-10 · [GitHub](https://github.com/microsoft/agent-resources) · 组织维护
 
 **微软官方 AI Agent 资源导航站集合（5 个静态站）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/agent-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

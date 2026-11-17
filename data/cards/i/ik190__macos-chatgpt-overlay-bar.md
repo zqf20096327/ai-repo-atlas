@@ -1,6 +1,6 @@
 # ik190/macos-chatgpt-overlay-bar
 
-⭐ 1,323 · 推送 2026-06-26 · [GitHub](https://github.com/ik190/macos-chatgpt-overlay-bar) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **常驻 macOS 菜单栏的 ChatGPT 快速访问浮层客户端**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "ik190/macos-chatgpt-overlay-bar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 1322 --> 1324
     line [1323, 1323]
 ```
 
-2026-10-18 1,323 → 2026-11-02 1,323（+0）
+2026-10-18 1,323 → 2026-11-15 1,323（+0）
 
 
 ---

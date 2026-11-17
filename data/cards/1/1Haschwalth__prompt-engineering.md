@@ -1,6 +1,6 @@
 # 1Haschwalth/prompt-engineering
 
-⭐ 57 · Apache-2.0 · 推送 2025-11-09 · [GitHub](https://github.com/1Haschwalth/prompt-engineering) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **中文 Prompt 工程自学手册：从基础理论到实战与管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "1Haschwalth/prompt-engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-07 57（+0）
 
 
 ---

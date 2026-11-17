@@ -1,6 +1,6 @@
 # Okohedeki/scroll-studio
 
-⭐ 50 · Python · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Okohedeki/scroll-studio) · [官网](https://okohedeki.github.io/scroll-studio-showcase/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从单个 YAML 文件生成交互式滚动叙事网站的开源设计工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Okohedeki/scroll-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 47 --> 51
-    line [48, 49, 50, 50]
+    title "Okohedeki/scroll-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 49, 51]
 ```
 
-2026-10-18 48 → 2026-11-02 50（+2）
+2026-10-18 48 → 2026-11-08 51（+3）
 
 
 ---

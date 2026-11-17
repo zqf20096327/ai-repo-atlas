@@ -1,6 +1,6 @@
 # trendsmcp-ai/Trends-MCP
 
-⭐ 44 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/trendsmcp-ai/Trends-MCP) · [官网](https://trendsmcp.ai/) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/trendsmcp-ai/Trends-MCP) · [官网](https://trendsmcp.ai/) · 组织维护
 
 **为 AI agent 提供实时趋势数据的 MCP server（30+ 来源）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trendsmcp-ai/Trends-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "trendsmcp-ai/Trends-MCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 49
+    line [44, 47, 48, 48]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 48（+4）
 
 
 ---

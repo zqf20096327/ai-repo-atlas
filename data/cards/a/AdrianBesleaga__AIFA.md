@@ -1,6 +1,6 @@
 # AdrianBesleaga/AIFA
 
-⭐ 87 · 推送 2026-10-20 · [GitHub](https://github.com/AdrianBesleaga/AIFA) · [官网](https://adrianbesleaga.github.io/AIFA/) · 个人维护
+⭐ 66 · 推送 2026-10-20 · [GitHub](https://github.com/AdrianBesleaga/AIFA) · [官网](https://adrianbesleaga.github.io/AIFA/) · 个人维护
 
 **AI 原生全栈应用架构方法论：以可执行功能契约为核心组织人与 AI 协作开发**
 
@@ -44,13 +44,13 @@ AIFA 是一套软件架构方法论与规范：将每个业务用例组织为独
 
 ```mermaid
 xychart-beta
-    title "AdrianBesleaga/AIFA 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 86 --> 95
-    line [94, 88, 89, 87, 87]
+    title "AdrianBesleaga/AIFA 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 64 --> 96
+    line [94, 88, 89, 87, 67, 66, 66]
 ```
 
-2026-10-18 94 → 2026-11-02 87（-7）
+2026-10-18 94 → 2026-11-17 66（-28）
 
 
 ---

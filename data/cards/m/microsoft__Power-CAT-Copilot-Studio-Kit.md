@@ -1,6 +1,6 @@
 # microsoft/Power-CAT-Copilot-Studio-Kit
 
-⭐ 473 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) · [官网](https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/) · 组织维护
+⭐ 485 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) · [官网](https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/) · 组织维护
 
 **扩展 Microsoft Copilot Studio 的 agent 开发/测试/治理工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Power-CAT-Copilot-Studio-Kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 468 --> 475
-    line [469, 470, 471, 472, 474, 473]
+    title "microsoft/Power-CAT-Copilot-Studio-Kit 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 468 --> 486
+    line [469, 470, 471, 472, 474, 473, 471, 478, 480, 482, 483, 484, 485, 485]
 ```
 
-2026-10-18 469 → 2026-11-02 473（+4）
+2026-10-18 469 → 2026-11-17 485（+16）
 
 
 ---

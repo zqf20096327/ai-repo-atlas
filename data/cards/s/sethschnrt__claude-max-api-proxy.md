@@ -1,6 +1,6 @@
 # sethschnrt/claude-max-api-proxy
 
-⭐ 49 · TypeScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/sethschnrt/claude-max-api-proxy) · [官网](https://sethschnrt.github.io/claude-max-api-proxy/) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/sethschnrt/claude-max-api-proxy) · [官网](https://sethschnrt.github.io/claude-max-api-proxy/) · 个人维护
 
 **把 Claude Max 订阅包装成 OpenAI 兼容 API 的本地代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sethschnrt/claude-max-api-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "sethschnrt/claude-max-api-proxy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 51, 51]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 51（+3）
 
 
 ---

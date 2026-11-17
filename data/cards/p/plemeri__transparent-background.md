@@ -1,6 +1,6 @@
 # plemeri/transparent-background
 
-⭐ 1,299 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/plemeri/transparent-background) · 个人维护
+⭐ 1,306 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/plemeri/transparent-background) · 个人维护
 
 **基于 InSPyReNet 的图片/视频/摄像头抠图去背景工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "plemeri/transparent-background 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1297 --> 1301
-    line [1299, 1300, 1298, 1299, 1298, 1299]
+    title "plemeri/transparent-background 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 1297 --> 1307
+    line [1299, 1300, 1298, 1299, 1298, 1299, 1302, 1303, 1304, 1306, 1306]
 ```
 
-2026-10-18 1,299 → 2026-11-02 1,299（+0）
+2026-10-18 1,299 → 2026-11-17 1,306（+7）
 
 
 ---

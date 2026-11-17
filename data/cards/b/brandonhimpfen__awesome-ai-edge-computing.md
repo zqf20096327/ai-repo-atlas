@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-edge-computing
 
-⭐ 34 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-edge-computing) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 35 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-edge-computing) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **边缘计算 AI 工具与资源策展清单：框架、硬件、平台、教程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-ai-edge-computing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 34, 34]
+    title "brandonhimpfen/awesome-ai-edge-computing 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [34, 33, 34, 33, 34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # exelite-dev/Free-Gemini-pro-API
 
-⭐ 22 · HTML · MIT · 推送 2026-09-12 · [GitHub](https://github.com/exelite-dev/Free-Gemini-pro-API) · 个人维护
+⭐ 26 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/exelite-dev/Free-Gemini-pro-API) · 个人维护
 
 **自托管代理：把 Gemini/DeepSeek/ChatGPT 网页会话转成 OpenAI/Anthropic 兼容 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "exelite-dev/Free-Gemini-pro-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22]
+    title "exelite-dev/Free-Gemini-pro-API 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 27
+    line [19, 20, 21, 22, 20, 22, 23, 24, 26, 26]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 26（+7）
 
 
 ---

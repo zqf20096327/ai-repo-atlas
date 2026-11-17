@@ -1,6 +1,6 @@
 # Winfred1024/feishu-pm-kit
 
-⭐ 30 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Winfred1024/feishu-pm-kit) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Winfred1024/feishu-pm-kit) · 个人维护 · 中文 README
 
 **可部署到飞书的 AI 项目经理 Agent 与项目管理系统套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Winfred1024/feishu-pm-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "Winfred1024/feishu-pm-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

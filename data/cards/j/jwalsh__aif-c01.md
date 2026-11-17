@@ -1,6 +1,6 @@
 # jwalsh/aif-c01
 
-⭐ 76 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jwalsh/aif-c01) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/jwalsh/aif-c01) · 个人维护
 
 **AWS AIF-C01 认证备考资料库：分域学习路径与动手示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jwalsh/aif-c01 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    title "jwalsh/aif-c01 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

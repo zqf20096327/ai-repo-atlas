@@ -1,6 +1,6 @@
 # SouthpawIN/turbofit
 
-⭐ 118 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SouthpawIN/turbofit) · 个人维护
+⭐ 122 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SouthpawIN/turbofit) · 个人维护
 
 **Hermes Agent 的自适应本地推理运行时与模型选配提供方**
 
@@ -44,13 +44,13 @@ TurboFit 是 Hermes Agent 的一等模型 provider 与自适应本地推理运�
 
 ```mermaid
 xychart-beta
-    title "SouthpawIN/turbofit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 109 --> 119
-    line [110, 113, 114, 116, 117, 118]
+    title "SouthpawIN/turbofit 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 109 --> 123
+    line [110, 113, 114, 116, 117, 118, 116, 119, 120, 121, 122, 122]
 ```
 
-2026-10-18 110 → 2026-11-02 118（+8）
+2026-10-18 110 → 2026-11-17 122（+12）
 
 
 ---

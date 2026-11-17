@@ -1,6 +1,6 @@
 # motif-Labs/motif
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/motif-Labs/motif) · [官网](https://www.getmotif.dev/) · 组织维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/motif-Labs/motif) · [官网](https://www.getmotif.dev/) · 组织维护
 
 **自托管的 AI agent 经验图谱：会话记忆、人工审核与评测数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "motif-Labs/motif 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "motif-Labs/motif 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 20, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

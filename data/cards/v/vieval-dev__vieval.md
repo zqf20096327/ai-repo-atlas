@@ -1,6 +1,6 @@
 # vieval-dev/vieval
 
-⭐ 71 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vieval-dev/vieval) · [官网](https://vieval.dev/en/) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/vieval-dev/vieval) · [官网](https://vieval.dev/en/) · 组织维护
 
 **Vitest 风格的 agent/模型评测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vieval-dev/vieval 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 48 --> 73
-    line [50, 58, 63, 64, 65, 71, 71]
+    title "vieval-dev/vieval 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 48 --> 75
+    line [50, 58, 63, 64, 65, 71, 64, 71, 72, 73, 73]
 ```
 
-2026-10-18 50 → 2026-11-02 71（+21）
+2026-10-18 50 → 2026-11-17 73（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # mohammadtavakoli78/BEAM
 
-⭐ 167 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/mohammadtavakoli78/BEAM) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/mohammadtavakoli78/BEAM) · 个人维护
 
 **LLM 长期记忆评测基准 BEAM 与记忆增强框架 LIGHT（ICLR 2026）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohammadtavakoli78/BEAM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 157 --> 168
-    line [158, 160, 161, 164, 167, 167]
+    title "mohammadtavakoli78/BEAM 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 157 --> 177
+    line [158, 160, 161, 164, 167, 164, 173, 175, 176, 176]
 ```
 
-2026-10-18 158 → 2026-11-02 167（+9）
+2026-10-18 158 → 2026-11-17 176（+18）
 
 
 ---

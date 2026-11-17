@@ -1,6 +1,6 @@
 # elbruno/ElBruno.QwenTTS
 
-⭐ 43 · C# · MIT · 推送 2026-09-29 · [GitHub](https://github.com/elbruno/ElBruno.QwenTTS) · 个人维护
+⭐ 43 · C# · MIT · 推送 2026-11-14 · [GitHub](https://github.com/elbruno/ElBruno.QwenTTS) · 个人维护
 
 **在 C#/.NET 中本地运行 Qwen3-TTS 语音合成的 ONNX 管线库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elbruno/ElBruno.QwenTTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

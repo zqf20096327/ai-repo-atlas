@@ -1,6 +1,6 @@
 # squerne/open-career-skills
 
-⭐ 26 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/squerne/open-career-skills) · [官网](https://jobmentis.com/?ref=oss-prompts) · 组织维护
+⭐ 30 · MIT · 推送 2026-11-06 · [GitHub](https://github.com/squerne/open-career-skills) · [官网](https://jobmentis.com/?ref=oss-prompts) · 组织维护
 
 **求职场景的 8 个 Claude 技能与提示词集合，拒绝编造个人事实**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "squerne/open-career-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "squerne/open-career-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 25, 26, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0x-boss/velocity
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2025-11-16 · [GitHub](https://github.com/0x-boss/velocity) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用自然语言或 YAML 生成动效视频的 AI 辅助视频编辑器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0x-boss/velocity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-11 12（+0）
 
 
 ---

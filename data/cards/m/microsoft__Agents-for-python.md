@@ -1,6 +1,6 @@
 # microsoft/Agents-for-python
 
-⭐ 216 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Agents-for-python) · 组织维护
+⭐ 218 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/Agents-for-python) · 组织维护
 
 **微软官方 Python SDK：构建多渠道企业 agent 应用**
 
@@ -44,13 +44,13 @@ Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Team
 
 ```mermaid
 xychart-beta
-    title "microsoft/Agents-for-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 215 --> 217
-    line [216, 216]
+    title "microsoft/Agents-for-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 215 --> 219
+    line [216, 217, 218, 218]
 ```
 
-2026-10-18 216 → 2026-11-02 216（+0）
+2026-10-18 216 → 2026-11-17 218（+2）
 
 
 ---

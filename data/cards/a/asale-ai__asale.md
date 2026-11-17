@@ -1,6 +1,6 @@
 # asale-ai/asale
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/asale-ai/asale) · [官网](https://asale.ai) · 组织维护 · 中文 README
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/asale-ai/asale) · [官网](https://asale.ai) · 组织维护 · 中文 README
 
 **AI 订阅额度共享网络桌面客户端：出售闲置额度或代付购量**
 
@@ -45,13 +45,13 @@ Asale 代币共享网络的桌面客户端（Rust/Tauri），连接订阅额度�
 
 ```mermaid
 xychart-beta
-    title "asale-ai/asale 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 22
-    line [15, 20, 21, 21]
+    title "asale-ai/asale 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 23
+    line [15, 20, 21, 20, 21, 22, 22]
 ```
 
-2026-10-18 15 → 2026-11-02 21（+6）
+2026-10-18 15 → 2026-11-17 22（+7）
 
 
 ---

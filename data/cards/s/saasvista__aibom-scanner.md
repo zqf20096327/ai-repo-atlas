@@ -1,6 +1,6 @@
 # saasvista/aibom-scanner
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/saasvista/aibom-scanner) · [官网](https://pypi.org/project/aibom-scanner/) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/saasvista/aibom-scanner) · [官网](https://pypi.org/project/aibom-scanner/) · 组织维护
 
 **扫描代码库生成 AI 物料清单（AIBOM）并映射合规风险的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "saasvista/aibom-scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "saasvista/aibom-scanner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Olanetsoft/article-idea-generator
 
-⭐ 235 · TypeScript · 推送 2026-08-17 · [GitHub](https://github.com/Olanetsoft/article-idea-generator) · [官网](https://www.articleideagenerator.com/) · 个人维护
+⭐ 236 · TypeScript · 推送 2026-08-17 · [GitHub](https://github.com/Olanetsoft/article-idea-generator) · [官网](https://www.articleideagenerator.com/) · 个人维护
 
 **输入主题生成文章标题的 Web 工具站，附多项免费在线工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Olanetsoft/article-idea-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 234 --> 236
-    line [235, 235]
+    title "Olanetsoft/article-idea-generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 234 --> 237
+    line [235, 236, 236]
 ```
 
-2026-10-18 235 → 2026-11-02 235（+0）
+2026-10-18 235 → 2026-11-17 236（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # frankbria/auto-author
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/frankbria/auto-author) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/frankbria/auto-author) · 个人维护
 
 **面向长篇非虚构写作者的 AI 图书创作平台**
 
@@ -45,12 +45,12 @@ Auto Author 是一个自托管的全栈 Web 应用：用户输入书籍摘要（
 ```mermaid
 xychart-beta
     title "frankbria/auto-author 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

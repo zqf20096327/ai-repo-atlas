@@ -1,6 +1,6 @@
 # op7418/ai-desk-card
 
-⭐ 152 · Python · NOASSERTION · 推送 2026-05-22 · [GitHub](https://github.com/op7418/ai-desk-card) · [官网](https://github.com/op7418/ai-desk-card) · 个人维护 · 中文 README
+⭐ 155 · Python · NOASSERTION · 推送 2026-05-22 · [GitHub](https://github.com/op7418/ai-desk-card) · [官网](https://github.com/op7418/ai-desk-card) · 个人维护 · 中文 README
 
 **给 AI Agent 用的墨水屏副屏 Skill：把信息推到 M5Paper**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "op7418/ai-desk-card 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 150 --> 153
-    line [151, 152, 151, 152, 152]
+    title "op7418/ai-desk-card 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 150 --> 156
+    line [151, 152, 151, 152, 153, 154, 155, 155]
 ```
 
-2026-10-18 151 → 2026-11-02 152（+1）
+2026-10-18 151 → 2026-11-17 155（+4）
 
 
 ---

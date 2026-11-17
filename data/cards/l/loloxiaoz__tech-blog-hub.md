@@ -1,6 +1,6 @@
 # loloxiaoz/tech-blog-hub
 
-⭐ 11 · HTML · 推送 2026-07-08 · [GitHub](https://github.com/loloxiaoz/tech-blog-hub) · 个人维护 · 中文 README
+⭐ 11 · HTML · 推送 2026-11-08 · [GitHub](https://github.com/loloxiaoz/tech-blog-hub) · 个人维护 · 中文 README
 
 **聚合 23 个 AI 大厂博客并生成中文静态学习站的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "loloxiaoz/tech-blog-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

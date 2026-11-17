@@ -1,6 +1,6 @@
 # zhoujun94511/TestPilot-vue
 
-⭐ 16 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zhoujun94511/TestPilot-vue) · [官网](https://github.com/zhoujun94511/TestPilot-vue) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/zhoujun94511/TestPilot-vue) · [官网](https://github.com/zhoujun94511/TestPilot-vue) · 个人维护 · 中文 README
 
 **基于 LLM+RAG 的测试用例生成与管理 Web 平台**
 
@@ -45,13 +45,13 @@ Flask + Vue 3 的 Web 应用：读取 TXT/DOC/PDF/Markdown 等需求文档，自
 
 ```mermaid
 xychart-beta
-    title "zhoujun94511/TestPilot-vue 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "zhoujun94511/TestPilot-vue 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

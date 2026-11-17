@@ -1,6 +1,6 @@
 # MackDing/CodexClaw
 
-⭐ 35 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/MackDing/CodexClaw) · [官网](https://opc.ren) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/MackDing/CodexClaw) · [官网](https://opc.ren) · 个人维护 · 中文 README
 
 **通过 Telegram 远程操控 Codex 的 bot，带 MCP 路由与多代理编排**
 
@@ -45,13 +45,13 @@ Node.js 实现的 Telegram bot，把 Telegram 消息接入 OpenAI Codex（SDK �
 
 ```mermaid
 xychart-beta
-    title "MackDing/CodexClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "MackDing/CodexClaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    line [34, 35, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

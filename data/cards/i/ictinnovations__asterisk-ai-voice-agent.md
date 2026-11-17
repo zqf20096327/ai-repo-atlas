@@ -1,6 +1,6 @@
 # ictinnovations/asterisk-ai-voice-agent
 
-⭐ 26 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ictinnovations/asterisk-ai-voice-agent) · [官网](https://ictinnovations.com/asterisk-ai-voice-agent-audiosocket-open-source/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ictinnovations/asterisk-ai-voice-agent) · [官网](https://ictinnovations.com/asterisk-ai-voice-agent-audiosocket-open-source/) · 组织维护
 
 **自托管的 Asterisk AI 电话语音代理边车**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ictinnovations/asterisk-ai-voice-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "ictinnovations/asterisk-ai-voice-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 26, 25, 28, 29, 30, 30]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 30（+6）
 
 
 ---

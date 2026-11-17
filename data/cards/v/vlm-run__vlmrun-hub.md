@@ -1,6 +1,6 @@
 # vlm-run/vlmrun-hub
 
-⭐ 554 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/vlm-run/vlmrun-hub) · [官网](https://docs.vlm.run/hub) · 组织维护
+⭐ 556 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/vlm-run/vlmrun-hub) · [官网](https://docs.vlm.run/hub) · 组织维护
 
 **面向 VLM 的行业结构化抽取 Pydantic 模式库**
 
@@ -44,13 +44,13 @@ VLM Run Hub 收录预先定义的 Pydantic 数据模型（schema），用于从�
 
 ```mermaid
 xychart-beta
-    title "vlm-run/vlmrun-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 553 --> 556
-    line [555, 554, 554]
+    title "vlm-run/vlmrun-hub 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 553 --> 557
+    line [555, 554, 555, 554, 555, 556, 556]
 ```
 
-2026-10-18 555 → 2026-11-02 554（-1）
+2026-10-18 555 → 2026-11-17 556（+1）
 
 
 ---

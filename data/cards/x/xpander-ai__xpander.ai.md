@@ -1,6 +1,6 @@
 # xpander-ai/xpander.ai
 
-⭐ 868 · Jupyter Notebook · MIT · 推送 2025-11-11 · [GitHub](https://github.com/xpander-ai/xpander.ai) · [官网](https://app.xpander.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI agent 的运行时与控制平面：构建、部署、管理 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xpander-ai/xpander.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 867 --> 869
     line [868, 868]
 ```
 
-2026-10-18 868 → 2026-11-02 868（+0）
+2026-10-18 868 → 2026-11-07 868（+0）
 
 
 ---

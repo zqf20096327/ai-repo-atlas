@@ -1,6 +1,6 @@
 # benjaminsehl/agent-kernel
 
-⭐ 32 · 推送 2026-04-15 · [GitHub](https://github.com/benjaminsehl/agent-kernel) · 个人维护
+⭐ 33 · 推送 2026-04-15 · [GitHub](https://github.com/benjaminsehl/agent-kernel) · 个人维护
 
 **给 agent 提供持久记忆的 markdown 工作区模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "benjaminsehl/agent-kernel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "benjaminsehl/agent-kernel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

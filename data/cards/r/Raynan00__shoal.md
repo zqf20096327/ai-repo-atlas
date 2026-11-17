@@ -1,6 +1,6 @@
 # Raynan00/shoal
 
-⭐ 14 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Raynan00/shoal) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Raynan00/shoal) · 个人维护
 
 **用 AI 用户群体在真实浏览器中测试网站、生成摩擦地图的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Raynan00/shoal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "Raynan00/shoal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

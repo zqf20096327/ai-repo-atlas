@@ -1,6 +1,6 @@
 # Zuofeng198/Keji-agent
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/Zuofeng198/Keji-agent) · [官网](https://github.com/Zuofeng198/keji#readme) · 个人维护 · 中文 README
+⭐ 34 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/Zuofeng198/Keji-agent) · [官网](https://github.com/Zuofeng198/keji#readme) · 个人维护 · 中文 README
 
 **Windows 本地/局域网多用户 AI 助手：网页对话与团队文件工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zuofeng198/Keji-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "Zuofeng198/Keji-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

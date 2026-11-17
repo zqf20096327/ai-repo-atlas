@@ -1,6 +1,6 @@
 # DragonDiffusionbyBoyo/Boyonodes
 
-⭐ 22 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DragonDiffusionbyBoyo/Boyonodes) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/DragonDiffusionbyBoyo/Boyonodes) · 个人维护
 
 **ComfyUI 自定义节点集：覆盖 TTS、视频、LoRA、循环工作流等**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DragonDiffusionbyBoyo/Boyonodes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "DragonDiffusionbyBoyo/Boyonodes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # guo-yichen/news-summary
 
-⭐ 14 · Python · 推送 2026-11-01 · [GitHub](https://github.com/guo-yichen/news-summary) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-11-16 · [GitHub](https://github.com/guo-yichen/news-summary) · 个人维护 · 中文 README
 
 **用 Claude 聚合个人信息源生成每日 AI 简报并投递到 Notion 与邮箱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "guo-yichen/news-summary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "guo-yichen/news-summary 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pwittchen/aictl
 
-⭐ 12 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/pwittchen/aictl) · [官网](https://aictl.app) · 个人维护
+⭐ 13 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/pwittchen/aictl) · [官网](https://aictl.app) · 个人维护
 
 **运行云端与本地模型的终端/macOS AI agent 运行时**
 
@@ -45,13 +45,13 @@ Rust 编写的 AI agent 工具集，含三部分：CLI（交互式 REPL，支持
 
 ```mermaid
 xychart-beta
-    title "pwittchen/aictl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "pwittchen/aictl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

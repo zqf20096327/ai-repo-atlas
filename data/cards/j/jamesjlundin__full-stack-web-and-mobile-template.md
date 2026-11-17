@@ -1,6 +1,6 @@
 # jamesjlundin/full-stack-web-and-mobile-template
 
-⭐ 34 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/jamesjlundin/full-stack-web-and-mobile-template) · [官网](https://full-stack-web-and-mobile-template.vercel.app) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/jamesjlundin/full-stack-web-and-mobile-template) · [官网](https://full-stack-web-and-mobile-template.vercel.app) · 个人维护
 
 **全栈 Web 与移动应用模板：Web/移动共享代码，内置认证与 AI 聊天**
 
@@ -45,13 +45,13 @@ pnpm workspaces + Turborepo 的 monorepo GitHub 模板，用 Next.js 16 Web 应�
 
 ```mermaid
 xychart-beta
-    title "jamesjlundin/full-stack-web-and-mobile-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "jamesjlundin/full-stack-web-and-mobile-template 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

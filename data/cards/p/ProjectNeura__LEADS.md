@@ -1,6 +1,6 @@
 # ProjectNeura/LEADS
 
-⭐ 272 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/ProjectNeura/LEADS) · [官网](https://leads.projectneura.org) · 组织维护
+⭐ 273 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/ProjectNeura/LEADS) · [官网](https://leads.projectneura.org) · 组织维护
 
 **面向赛车的轻量嵌入式辅助驾驶系统：仪表、控制与数据分析**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProjectNeura/LEADS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 270 --> 273
-    line [271, 272, 272]
+    title "ProjectNeura/LEADS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 270 --> 274
+    line [271, 272, 273, 273]
 ```
 
-2026-10-18 271 → 2026-11-02 272（+1）
+2026-10-18 271 → 2026-11-17 273（+2）
 
 
 ---

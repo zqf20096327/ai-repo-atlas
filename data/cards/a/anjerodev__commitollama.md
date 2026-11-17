@@ -1,6 +1,6 @@
 # anjerodev/commitollama
 
-⭐ 99 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anjerodev/commitollama) · [官网](https://marketplace.visualstudio.com/items?itemName=commitollama.commitollama) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/anjerodev/commitollama) · [官网](https://marketplace.visualstudio.com/items?itemName=commitollama.commitollama) · 个人维护
 
 **VS Code 扩展：用本地 Ollama 模型生成 Git 提交信息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anjerodev/commitollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 99（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # YanWenKun/ComfyUI-WinPortable-XPU
 
-⭐ 121 · Python · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/YanWenKun/ComfyUI-WinPortable-XPU) · 个人维护 · 中文 README
+⭐ 123 · Python · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/YanWenKun/ComfyUI-WinPortable-XPU) · 个人维护 · 中文 README
 
 **面向英特尔显卡的 ComfyUI Windows 免安装整合包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YanWenKun/ComfyUI-WinPortable-XPU 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    title "YanWenKun/ComfyUI-WinPortable-XPU 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 120 --> 124
+    line [121, 122, 123, 123]
 ```
 
-2026-10-18 121 → 2026-11-02 121（+0）
+2026-10-18 121 → 2026-11-17 123（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mechramc/Orion
 
-⭐ 133 · Objective-C · MIT · 推送 2026-08-23 · [GitHub](https://github.com/mechramc/Orion) · 个人维护
+⭐ 134 · Objective-C · MIT · 推送 2026-08-23 · [GitHub](https://github.com/mechramc/Orion) · 个人维护
 
 **在 Apple 神经引擎上直接训练与推理小 LLM 的本地运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mechramc/Orion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 129 --> 134
-    line [130, 131, 133, 133]
+    title "mechramc/Orion 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 129 --> 135
+    line [130, 131, 133, 131, 133, 134, 134]
 ```
 
-2026-10-18 130 → 2026-11-02 133（+3）
+2026-10-18 130 → 2026-11-17 134（+4）
 
 
 ---

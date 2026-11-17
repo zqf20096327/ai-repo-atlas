@@ -1,6 +1,6 @@
 # nirholas/pumpfun-mcp
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/nirholas/pumpfun-mcp) · [官网](https://nirholas.github.io/pumpfun-mcp/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **pump.fun/Solana 只读 MCP 服务器：给 AI 客户端链上代币数据**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/pumpfun-mcp 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-10"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-22 11 → 2026-11-02 12（+1）
+2026-10-22 11 → 2026-11-10 12（+1）
 
 
 ---

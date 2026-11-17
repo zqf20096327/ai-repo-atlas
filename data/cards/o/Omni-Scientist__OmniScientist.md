@@ -1,6 +1,6 @@
 # Omni-Scientist/OmniScientist
 
-⭐ 174 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Omni-Scientist/OmniScientist) · [官网](https://omni-scientist.github.io/) · 组织维护 · 中文 README
+⭐ 173 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Omni-Scientist/OmniScientist) · [官网](https://omni-scientist.github.io/) · 组织维护 · 中文 README
 
 **本地运行的全模态 AI 科学家：自动完成科研并产出论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Omni-Scientist/OmniScientist 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "Omni-Scientist/OmniScientist 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
     y-axis "stars" 169 --> 175
-    line [170, 171, 172, 174, 174]
+    line [170, 171, 172, 174, 172, 173, 172, 173, 173]
 ```
 
-2026-10-18 170 → 2026-11-02 174（+4）
+2026-10-18 170 → 2026-11-17 173（+3）
 
 
 ---

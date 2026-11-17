@@ -1,6 +1,6 @@
 # zayedrais/DocumentSearchEngine
 
-⭐ 55 · Jupyter Notebook · 推送 2026-09-01 · [GitHub](https://github.com/zayedrais/DocumentSearchEngine) · 个人维护
+⭐ 55 · Jupyter Notebook · 推送 2026-11-03 · [GitHub](https://github.com/zayedrais/DocumentSearchEngine) · 个人维护
 
 **基于 TF-IDF 与 Google USE 的语义文档搜索引擎示例项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zayedrais/DocumentSearchEngine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 55（+0）
 
 
 ---

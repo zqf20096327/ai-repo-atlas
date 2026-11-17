@@ -1,6 +1,6 @@
 # oracle/vecdb-python-sdk
 
-⭐ 72 · Python · UPL-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/oracle/vecdb-python-sdk) · [官网](https://docs.oracle.com/en/cloud/paas/autonomous-vector-database/vcapi/quickstart.html) · 组织维护
+⭐ 73 · Python · UPL-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/oracle/vecdb-python-sdk) · [官网](https://docs.oracle.com/en/cloud/paas/autonomous-vector-database/vcapi/quickstart.html) · 组织维护
 
 **在 Oracle AI Database 上构建向量搜索与 RAG 的 Python SDK**
 
@@ -45,13 +45,13 @@ Oracle 官方的 Python SDK，面向在 Oracle AI Database 上开发向量检索
 
 ```mermaid
 xychart-beta
-    title "oracle/vecdb-python-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    title "oracle/vecdb-python-sdk 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 72, 70, 72, 73, 73]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 73（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentii-ai/DocMeld
 
-⭐ 102 · Python · 推送 2026-09-15 · [GitHub](https://github.com/agentii-ai/DocMeld) · [官网](https://www.agentii.ai) · 组织维护
+⭐ 101 · Python · 推送 2026-09-15 · [GitHub](https://github.com/agentii-ai/DocMeld) · [官网](https://www.agentii.ai) · 组织维护
 
 **面向 AI agent 的 PDF/Word/PPT 结构化知识流水线**
 
@@ -45,13 +45,13 @@ Python 库与 CLI，将 PDF、Word、PowerPoint 文档经 Bronze→Silver→Gold
 
 ```mermaid
 xychart-beta
-    title "agentii-ai/DocMeld 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "agentii-ai/DocMeld 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 100 --> 103
+    line [102, 101, 101]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 101（-1）
 
 
 ---

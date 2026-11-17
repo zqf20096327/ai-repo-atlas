@@ -1,6 +1,6 @@
 # nearform/lastlight
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nearform/lastlight) · [官网](https://lastlight.dev) · 组织维护
+⭐ 47 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nearform/lastlight) · [官网](https://lastlight.dev) · 组织维护
 
 **自托管的 AI 软件工厂：AI agent 维护 GitHub 仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nearform/lastlight 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 38 --> 45
-    line [39, 40, 41, 42, 44]
+    title "nearform/lastlight 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 38 --> 48
+    line [39, 40, 41, 42, 44, 40, 45, 46, 47, 47]
 ```
 
-2026-10-18 39 → 2026-11-02 44（+5）
+2026-10-18 39 → 2026-11-17 47（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # AndyShaman/telegram-business-bridge
 
-⭐ 18 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AndyShaman/telegram-business-bridge) · [官网](https://ai-handler.com/#telegram-business-bridge) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AndyShaman/telegram-business-bridge) · [官网](https://ai-handler.com/#telegram-business-bridge) · 个人维护
 
 **通过官方 Business API 把 AI agent 接入个人 Telegram 的 MCP 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AndyShaman/telegram-business-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "AndyShaman/telegram-business-bridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

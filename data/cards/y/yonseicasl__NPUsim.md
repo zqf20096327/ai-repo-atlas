@@ -1,6 +1,6 @@
 # yonseicasl/NPUsim
 
-⭐ 57 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/yonseicasl/NPUsim) · 组织维护
+⭐ 57 · C++ · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/yonseicasl/NPUsim) · 组织维护
 
 **DNN 加速器全模型周期级功能仿真框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yonseicasl/NPUsim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 57（+0）
 
 
 ---

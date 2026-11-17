@@ -1,6 +1,6 @@
 # FareedKhan-dev/production-grade-agentic-system
 
-⭐ 1,017 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/FareedKhan-dev/production-grade-agentic-system) · [官网](https://medium.com/@fareedkhandev/building-a-critical-infrastructure-for-production-ready-ai-agentic-system-building-a-production-37ee5d941f1c) · 个人维护
+⭐ 1,023 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/production-grade-agentic-system) · [官网](https://medium.com/@fareedkhandev/building-a-critical-infrastructure-for-production-ready-ai-agentic-system-building-a-production-37ee5d941f1c) · 个人维护
 
 **教程/模板：逐层构建生产级 agentic AI 系统的架构指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/production-grade-agentic-system 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1010 --> 1018
-    line [1011, 1014, 1015, 1014, 1013, 1015, 1017, 1017]
+    title "FareedKhan-dev/production-grade-agentic-system 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1010 --> 1024
+    line [1011, 1014, 1015, 1014, 1013, 1015, 1017, 1014, 1017, 1018, 1019, 1021, 1023, 1023]
 ```
 
-2026-10-18 1,011 → 2026-11-02 1,017（+6）
+2026-10-18 1,011 → 2026-11-17 1,023（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # baixianger/snowball-cli
 
-⭐ 24 · TypeScript · 推送 2026-04-03 · [GitHub](https://github.com/baixianger/snowball-cli) · [官网](https://www.npmjs.com/package/snowball-cli) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · 推送 2026-11-02 · [GitHub](https://github.com/baixianger/snowball-cli) · [官网](https://www.npmjs.com/package/snowball-cli) · 个人维护 · 中文 README
 
 **雪球股票数据 CLI：30 条命令输出 JSON 供 AI agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "baixianger/snowball-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "baixianger/snowball-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

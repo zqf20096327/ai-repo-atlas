@@ -1,6 +1,6 @@
 # StringKe/claudex
 
-⭐ 73 · MDX · MIT · 推送 2026-02-27 · [GitHub](https://github.com/StringKe/claudex) · [官网](https://claudex.space) · 个人维护 · 中文 README
+⭐ 74 · MDX · MIT · 推送 2026-11-11 · [GitHub](https://github.com/StringKe/claudex) · [官网](https://claudex.space) · 个人维护 · 中文 README
 
 **多实例 Claude Code 管理器：协议翻译代理接入 20+ 模型服务商**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StringKe/claudex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 69 --> 74
-    line [70, 72, 73, 73]
+    title "StringKe/claudex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 69 --> 75
+    line [70, 72, 73, 74, 74]
 ```
 
-2026-10-18 70 → 2026-11-02 73（+3）
+2026-10-18 70 → 2026-11-17 74（+4）
 
 
 ---

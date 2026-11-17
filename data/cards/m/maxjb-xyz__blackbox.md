@@ -1,6 +1,6 @@
 # maxjb-xyz/blackbox
 
-⭐ 73 · Go · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/maxjb-xyz/blackbox) · [官网](https://blackboxd.dev) · 个人维护
+⭐ 74 · Go · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/maxjb-xyz/blackbox) · [官网](https://blackboxd.dev) · 个人维护
 
 **面向家庭实验室的自托管事件时间线与故障取证平台**
 
@@ -45,13 +45,13 @@ Go 编写的自托管事件关联平台：从 Docker 事件、配置文件变更
 
 ```mermaid
 xychart-beta
-    title "maxjb-xyz/blackbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "maxjb-xyz/blackbox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 72 --> 75
-    line [74, 73, 73]
+    line [74, 73, 74, 73, 74, 74]
 ```
 
-2026-10-18 74 → 2026-11-02 73（-1）
+2026-10-18 74 → 2026-11-17 74（+0）
 
 
 ---

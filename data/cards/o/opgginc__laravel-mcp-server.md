@@ -1,6 +1,6 @@
 # opgginc/laravel-mcp-server
 
-⭐ 330 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/opgginc/laravel-mcp-server) · [官网](https://op.gg/open-source/laravel-mcp-server) · 组织维护
+⭐ 331 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/opgginc/laravel-mcp-server) · [官网](https://op.gg/open-source/laravel-mcp-server) · 组织维护
 
 **Laravel/Lumen 的 MCP 服务器构建包，面向 PHP 开发者**
 
@@ -44,13 +44,13 @@ OP.GG 维护的 Laravel/Lumen Composer 包，以路由优先方式注册 MCP 端
 
 ```mermaid
 xychart-beta
-    title "opgginc/laravel-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 328 --> 331
-    line [330, 329, 330, 330]
+    title "opgginc/laravel-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 328 --> 332
+    line [330, 329, 330, 331, 331]
 ```
 
-2026-10-18 330 → 2026-11-02 330（+0）
+2026-10-18 330 → 2026-11-17 331（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mindmuxai/mindmux
 
-⭐ 20 · 推送 2026-10-26 · [GitHub](https://github.com/mindmuxai/mindmux) · [官网](https://mindmux.ai) · 组织维护
+⭐ 19 · 推送 2026-10-26 · [GitHub](https://github.com/mindmuxai/mindmux) · [官网](https://mindmux.ai) · 组织维护
 
 **本地优先的 AI 项目记忆工作台，面向开发者的"项目大脑"**
 
@@ -44,13 +44,13 @@ MindMux 是一款 Electron 桌面应用，用于持久化项目记忆：与 AI �
 
 ```mermaid
 xychart-beta
-    title "mindmuxai/mindmux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "mindmuxai/mindmux 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    line [18, 20, 18, 20, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

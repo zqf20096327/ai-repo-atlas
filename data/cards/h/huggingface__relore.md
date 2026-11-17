@@ -1,6 +1,6 @@
 # huggingface/relore
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/relore) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/huggingface/relore) · 组织维护
 
 **为 AI agent 服务的 GitHub 仓库历史索引与查询服务**
 
@@ -46,12 +46,12 @@ relore 索引仓库完整的 issue 与 PR 历史，并在服务端维护工作�
 ```mermaid
 xychart-beta
     title "huggingface/relore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

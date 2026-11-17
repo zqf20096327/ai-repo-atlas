@@ -1,6 +1,6 @@
 # Zehong-Wang/Awesome-Weight-Space-Learning
 
-⭐ 99 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning) · 个人维护
+⭐ 125 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning) · 个人维护
 
 **权重空间学习论文/代码/数据集的策展清单，面向科研者**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zehong-Wang/Awesome-Weight-Space-Learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 96 --> 100
-    line [97, 98, 99, 99]
+    title "Zehong-Wang/Awesome-Weight-Space-Learning 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 95 --> 127
+    line [97, 98, 99, 98, 119, 121, 122, 123, 124, 125, 125]
 ```
 
-2026-10-18 97 → 2026-11-02 99（+2）
+2026-10-18 97 → 2026-11-17 125（+28）
 
 
 ---

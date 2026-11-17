@@ -1,6 +1,6 @@
 # 599yongyang/DatasetLoom
 
-⭐ 300 · TypeScript · MIT · 推送 2025-12-13 · [GitHub](https://github.com/599yongyang/DatasetLoom) · 个人维护 · 中文 README
+⭐ 303 · TypeScript · MIT · 推送 2025-12-13 · [GitHub](https://github.com/599yongyang/DatasetLoom) · 个人维护 · 中文 README
 
 **面向多模态大模型训练的数据集构建与评估平台**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "599yongyang/DatasetLoom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 299 --> 301
-    line [300, 300]
+    title "599yongyang/DatasetLoom 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 299 --> 304
+    line [300, 302, 303, 302, 303, 303]
 ```
 
-2026-10-18 300 → 2026-11-02 300（+0）
+2026-10-18 300 → 2026-11-17 303（+3）
 
 
 ---

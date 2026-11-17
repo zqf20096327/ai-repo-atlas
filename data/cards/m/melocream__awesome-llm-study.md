@@ -1,6 +1,6 @@
 # melocream/awesome-llm-study
 
-⭐ 82 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/melocream/awesome-llm-study) · [官网](https://marblo.app) · 个人维护
+⭐ 81 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/melocream/awesome-llm-study) · [官网](https://marblo.app) · 个人维护
 
 **韩语 LLM 学习资源策展清单：验证过的课程·论文·文档链接**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "melocream/awesome-llm-study 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
+    title "melocream/awesome-llm-study 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 79 --> 83
-    line [80, 81, 82, 82]
+    line [80, 81, 82, 80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-11-02 82（+2）
+2026-10-18 80 → 2026-11-17 81（+1）
 
 
 ---

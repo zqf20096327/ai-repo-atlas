@@ -1,6 +1,6 @@
 # pragatidev/AIAgentsBootcamp
 
-⭐ 36 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/pragatidev/AIAgentsBootcamp) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/pragatidev/AIAgentsBootcamp) · 个人维护
 
 **AI Agents 课程配套实训仓库：LangGraph/RAG/多智能体实验**
 
@@ -44,13 +44,13 @@ Udemy 课程《AI Agents Bootcamp》的配套代码仓库，含三次课程重�
 
 ```mermaid
 xychart-beta
-    title "pragatidev/AIAgentsBootcamp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "pragatidev/AIAgentsBootcamp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

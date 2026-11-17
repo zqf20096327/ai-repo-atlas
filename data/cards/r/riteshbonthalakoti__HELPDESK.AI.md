@@ -1,6 +1,6 @@
 # riteshbonthalakoti/HELPDESK.AI
 
-⭐ 187 · Python · 推送 2026-10-30 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://riteshbonthalakoti.tech/projects/helpdesk-ai) · 个人维护
+⭐ 181 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://riteshbonthalakoti.tech/projects/helpdesk-ai) · 个人维护
 
 **多租户 AI 工单平台：自动分类工单、查重与建议修复**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "riteshbonthalakoti/HELPDESK.AI 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    title "riteshbonthalakoti/HELPDESK.AI 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
     y-axis "stars" 174 --> 188
-    line [175, 184, 187, 183, 182, 184, 185, 187, 186, 187, 187]
+    line [175, 184, 187, 183, 182, 184, 185, 187, 186, 187, 183, 177, 179, 180, 181, 181]
 ```
 
-2026-10-18 175 → 2026-11-02 187（+12）
+2026-10-18 175 → 2026-11-17 181（+6）
 
 
 ---

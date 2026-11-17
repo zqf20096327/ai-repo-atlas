@@ -1,6 +1,6 @@
 # WalkingDevFlag/MLE-STAR-Open
 
-⭐ 34 · Python · 推送 2026-06-16 · [GitHub](https://github.com/WalkingDevFlag/MLE-STAR-Open) · 个人维护
+⭐ 35 · Python · 推送 2026-06-16 · [GitHub](https://github.com/WalkingDevFlag/MLE-STAR-Open) · 个人维护
 
 **多 agent 机器学习工程管线：自动生成、调试并提交 Kaggle 表格赛方案**
 
@@ -44,13 +44,13 @@ MLE-STAR 的非官方、去 Google 依赖重实现：多阶段 agent 管线覆�
 
 ```mermaid
 xychart-beta
-    title "WalkingDevFlag/MLE-STAR-Open 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "WalkingDevFlag/MLE-STAR-Open 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

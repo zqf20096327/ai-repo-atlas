@@ -1,6 +1,6 @@
 # kstenerud/yoloai
 
-⭐ 222 · Go · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kstenerud/yoloai) · [官网](https://yoloai.dev) · 个人维护
+⭐ 256 · Go · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kstenerud/yoloai) · [官网](https://yoloai.dev) · 个人维护
 
 **AI 编程 agent 的沙箱运行器：隔离文件/凭据/网络**
 
@@ -45,13 +45,13 @@ Go 编写的命令行工具，为 AI 编程 agent（Claude Code、Codex、Gemini
 
 ```mermaid
 xychart-beta
-    title "kstenerud/yoloai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 219 --> 223
-    line [220, 221, 222, 222]
+    title "kstenerud/yoloai 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 217 --> 259
+    line [220, 221, 222, 220, 242, 253, 254, 255, 256, 256]
 ```
 
-2026-10-18 220 → 2026-11-02 222（+2）
+2026-10-18 220 → 2026-11-17 256（+36）
 
 
 ---

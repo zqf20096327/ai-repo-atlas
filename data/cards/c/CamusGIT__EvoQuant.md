@@ -1,6 +1,6 @@
 # CamusGIT/EvoQuant
 
-⭐ 141 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/CamusGIT/EvoQuant) · 组织维护 · 中文 README
+⭐ 144 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/CamusGIT/EvoQuant) · 组织维护 · 中文 README
 
 **量化投研自主 AI 研究代理：从研报到因子实验全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CamusGIT/EvoQuant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    title "CamusGIT/EvoQuant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 140 --> 145
+    line [141, 143, 144, 144]
 ```
 
-2026-10-18 141 → 2026-11-02 141（+0）
+2026-10-18 141 → 2026-11-17 144（+3）
 
 
 ---

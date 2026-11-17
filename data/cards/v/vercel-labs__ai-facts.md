@@ -1,6 +1,6 @@
 # vercel-labs/ai-facts
 
-⭐ 168 · TypeScript · 推送 2026-04-25 · [GitHub](https://github.com/vercel-labs/ai-facts) · [官网](https://ai-facts.vercel.app) · 组织维护
+⭐ 169 · TypeScript · 推送 2026-04-25 · [GitHub](https://github.com/vercel-labs/ai-facts) · [官网](https://ai-facts.vercel.app) · 组织维护
 
 **实时核验口语陈述真伪的 Next.js 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/ai-facts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 166 --> 169
-    line [168, 167, 168, 168]
+    title "vercel-labs/ai-facts 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 166 --> 170
+    line [168, 167, 168, 167, 169, 169]
 ```
 
-2026-10-18 168 → 2026-11-02 168（+0）
+2026-10-18 168 → 2026-11-17 169（+1）
 
 
 ---

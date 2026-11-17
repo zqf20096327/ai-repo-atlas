@@ -1,6 +1,6 @@
 # Smile-QWQ/SubTracker
 
-⭐ 137 · TypeScript · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Smile-QWQ/SubTracker) · 个人维护 · 中文 README
+⭐ 139 · TypeScript · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Smile-QWQ/SubTracker) · 个人维护 · 中文 README
 
 **自托管订阅管理器：订阅、提醒、预算统计与 AI 辅助录入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Smile-QWQ/SubTracker 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 125 --> 138
-    line [126, 132, 133, 135, 137, 137]
+    title "Smile-QWQ/SubTracker 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 125 --> 140
+    line [126, 132, 133, 135, 137, 135, 139, 139]
 ```
 
-2026-10-18 126 → 2026-11-02 137（+11）
+2026-10-18 126 → 2026-11-17 139（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZeroTang05/easytts
 
-⭐ 148 · Python · 推送 2026-10-20 · [GitHub](https://github.com/ZeroTang05/easytts) · 个人维护 · 中文 README
+⭐ 149 · Python · 推送 2026-10-20 · [GitHub](https://github.com/ZeroTang05/easytts) · 个人维护 · 中文 README
 
 **一键将小说转为多人有声书的 TTS 服务与 GUI 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZeroTang05/easytts 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
-    y-axis "stars" 147 --> 149
-    line [148, 148]
+    title "ZeroTang05/easytts 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 147 --> 150
+    line [148, 149, 149]
 ```
 
-2026-10-28 148 → 2026-11-02 148（+0）
+2026-10-28 148 → 2026-11-17 149（+1）
 
 
 ---

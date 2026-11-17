@@ -1,6 +1,6 @@
 # patbaumgartner/talk-intelligent-applications-with-spring-ai
 
-⭐ 18 · 推送 2026-09-07 · [GitHub](https://github.com/patbaumgartner/talk-intelligent-applications-with-spring-ai) · [官网](https://github.com/patbaumgartner/talk-intelligent-applications-with-spring-ai/blob/main/intelligent-applications-with-spring-ai.pdf) · 个人维护
+⭐ 18 · 推送 2026-11-08 · [GitHub](https://github.com/patbaumgartner/talk-intelligent-applications-with-spring-ai) · [官网](https://github.com/patbaumgartner/talk-intelligent-applications-with-spring-ai/blob/main/intelligent-applications-with-spring-ai.pdf) · 个人维护
 
 **关于用 Spring AI 构建 LLM 应用的大会演讲资料库**
 
@@ -43,12 +43,12 @@ Patrick Baumgartner（42talents，Java Champion）的会议演讲仓库，主题
 ```mermaid
 xychart-beta
     title "patbaumgartner/talk-intelligent-applications-with-spring-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

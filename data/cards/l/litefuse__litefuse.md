@@ -1,6 +1,6 @@
 # litefuse/litefuse
 
-⭐ 106 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/litefuse/litefuse) · [官网](https://litefuse.ai) · 组织维护 · 中文 README
+⭐ 113 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/litefuse/litefuse) · [官网](https://litefuse.ai) · 组织维护 · 中文 README
 
 **开源 LLM 工程平台：团队协作开发、监控、评测与调试 AI 应用**
 
@@ -45,13 +45,13 @@ Langfuse 的 fork，将分析后端替换为 Apache Doris，并保持与上游 L
 
 ```mermaid
 xychart-beta
-    title "litefuse/litefuse 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 101 --> 107
-    line [102, 103, 104, 105, 106, 106]
+    title "litefuse/litefuse 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 101 --> 114
+    line [102, 103, 104, 105, 106, 105, 109, 111, 113, 113]
 ```
 
-2026-10-18 102 → 2026-11-02 106（+4）
+2026-10-18 102 → 2026-11-17 113（+11）
 
 
 ---

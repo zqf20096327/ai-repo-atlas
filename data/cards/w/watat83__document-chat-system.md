@@ -1,6 +1,6 @@
 # watat83/document-chat-system
 
-⭐ 148 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/watat83/document-chat-system) · [官网](https://document-chat-system.vercel.app) · 个人维护
+⭐ 149 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/watat83/document-chat-system) · [官网](https://document-chat-system.vercel.app) · 个人维护
 
 **自部署的文档 AI 对话平台：上传文档做 RAG 问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "watat83/document-chat-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "watat83/document-chat-system 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 147 --> 150
-    line [149, 148, 148]
+    line [149, 148, 149, 149]
 ```
 
-2026-10-18 149 → 2026-11-02 148（-1）
+2026-10-18 149 → 2026-11-17 149（+0）
 
 
 ---

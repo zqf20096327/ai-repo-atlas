@@ -1,6 +1,6 @@
 # wladimiravila/esp32s3-distributed-ai
 
-⭐ 113 · C · 推送 2026-07-30 · [GitHub](https://github.com/wladimiravila/esp32s3-distributed-ai) · 个人维护
+⭐ 120 · C · 推送 2026-07-30 · [GitHub](https://github.com/wladimiravila/esp32s3-distributed-ai) · 个人维护
 
 **在 3 块 ESP32-S3 上分布式运行 56M 参数自训练 LLM 的嵌入式项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wladimiravila/esp32s3-distributed-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 111 --> 114
-    line [112, 113, 113]
+    title "wladimiravila/esp32s3-distributed-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 111 --> 121
+    line [112, 113, 115, 117, 118, 119, 120, 120]
 ```
 
-2026-10-18 112 → 2026-11-02 113（+1）
+2026-10-18 112 → 2026-11-17 120（+8）
 
 
 ---

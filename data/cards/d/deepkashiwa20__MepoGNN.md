@@ -1,6 +1,6 @@
 # deepkashiwa20/MepoGNN
 
-⭐ 33 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/deepkashiwa20/MepoGNN) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/deepkashiwa20/MepoGNN) · 个人维护
 
 **图神经网络混合 SIR 模型预测日本 47 都道府县疫情**
 
@@ -43,13 +43,13 @@ ECMLPKDD22 论文 MepoGNN 的官方代码：将时空图神经网络与图学习
 
 ```mermaid
 xychart-beta
-    title "deepkashiwa20/MepoGNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "deepkashiwa20/MepoGNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

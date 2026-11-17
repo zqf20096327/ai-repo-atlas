@@ -1,6 +1,6 @@
 # pixgt-ai/awesome-ecommerce-ai-tools
 
-⭐ 16 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) · 组织维护 · 中文 README
+⭐ 19 · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) · 组织维护 · 中文 README
 
 **面向电商与跨境卖家的 AI 视觉工具策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixgt-ai/awesome-ecommerce-ai-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "pixgt-ai/awesome-ecommerce-ai-tools 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

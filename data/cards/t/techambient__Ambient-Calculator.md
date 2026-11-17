@@ -1,6 +1,6 @@
 # techambient/Ambient-Calculator
 
-⭐ 11 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/techambient/Ambient-Calculator) · [官网](https://www.youtube.com/@techambient) · 个人维护
+⭐ 11 · Kotlin · MIT · 推送 2026-11-15 · [GitHub](https://github.com/techambient/Ambient-Calculator) · [官网](https://techambient.github.io/Ambient-Calculator/) · 个人维护
 
 **Android 离线 AI 计算器：OCR 识别算式并出结果**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "techambient/Ambient-Calculator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "techambient/Ambient-Calculator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

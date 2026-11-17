@@ -1,6 +1,6 @@
 # st1vms/AModel
 
-⭐ 12 · Python · 推送 2026-10-31 · [GitHub](https://github.com/st1vms/AModel) · 个人维护
+⭐ 17 · Python · 推送 2026-10-31 · [GitHub](https://github.com/st1vms/AModel) · 个人维护
 
 **足球比赛结果预测引擎：数据管线+ML模型+回测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "st1vms/AModel 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3 --> 13
-    line [4, 6, 9, 12]
+    title "st1vms/AModel 星数(近 6 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 3 --> 18
+    line [4, 6, 9, 12, 17, 17]
 ```
 
-2026-10-30 4 → 2026-11-02 12（+8）
+2026-10-30 4 → 2026-11-17 17（+13）
 
 
 ---

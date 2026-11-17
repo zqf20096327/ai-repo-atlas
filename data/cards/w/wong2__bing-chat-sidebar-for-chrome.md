@@ -1,6 +1,6 @@
 # wong2/bing-chat-sidebar-for-chrome
 
-⭐ 213 · JavaScript · GPL-3.0 · 推送 2025-11-26 · [GitHub](https://github.com/wong2/bing-chat-sidebar-for-chrome) · [官网](https://chrome.google.com/webstore/detail/bing-sidebar-for-chrome/ncjedehfkpnliaafimjhdjjeggmfmlgf) · 个人维护
+⭐ 212 · JavaScript · GPL-3.0 · 推送 2025-11-26 · [GitHub](https://github.com/wong2/bing-chat-sidebar-for-chrome) · [官网](https://chrome.google.com/webstore/detail/bing-sidebar-for-chrome/ncjedehfkpnliaafimjhdjjeggmfmlgf) · 个人维护
 
 **在 Chrome 中使用 Edge 版 Bing Chat 侧边栏的扩展**
 
@@ -42,13 +42,13 @@ Chrome 浏览器扩展，将 Microsoft Edge 内置的 AI Bing 侧边栏通过逆
 
 ```mermaid
 xychart-beta
-    title "wong2/bing-chat-sidebar-for-chrome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 212 --> 214
-    line [213, 213]
+    title "wong2/bing-chat-sidebar-for-chrome 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 211 --> 214
+    line [213, 212, 212]
 ```
 
-2026-10-18 213 → 2026-11-02 213（+0）
+2026-10-18 213 → 2026-11-17 212（-1）
 
 
 ---

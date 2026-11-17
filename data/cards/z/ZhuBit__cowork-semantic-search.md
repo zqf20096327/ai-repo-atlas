@@ -1,6 +1,6 @@
 # ZhuBit/cowork-semantic-search
 
-⭐ 29 · Python · AGPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/ZhuBit/cowork-semantic-search) · 个人维护
+⭐ 31 · Python · AGPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/ZhuBit/cowork-semantic-search) · 个人维护
 
 **本地文档语义搜索 MCP 服务器：让 AI 工具检索你的文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhuBit/cowork-semantic-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "ZhuBit/cowork-semantic-search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

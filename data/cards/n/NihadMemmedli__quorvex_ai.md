@@ -1,6 +1,6 @@
 # NihadMemmedli/quorvex_ai
 
-⭐ 46 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/NihadMemmedli/quorvex_ai) · [官网](https://nihadmemmedli.github.io/quorvex_ai/) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/NihadMemmedli/quorvex_ai) · [官网](https://nihadmemmedli.github.io/quorvex_ai/) · 个人维护
 
 **自托管 AI 测试平台：把规格/PRD 转成 Playwright 测试并自愈**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "NihadMemmedli/quorvex_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 47
-    line [45, 46]
+    title "NihadMemmedli/quorvex_ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 45, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

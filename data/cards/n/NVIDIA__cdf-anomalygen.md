@@ -1,6 +1,6 @@
 # NVIDIA/cdf-anomalygen
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/cdf-anomalygen) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/cdf-anomalygen) · 组织维护
 
 **工业检测的少样本合成缺陷图像生成管线（基于扩散模型）**
 
@@ -45,13 +45,13 @@ NVIDIA Cosmos Data Factory 下的合成数据生成管线：给定洁净产品�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cdf-anomalygen 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19, 19]
+    title "NVIDIA/cdf-anomalygen 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 18, 19, 17, 20, 20]
 ```
 
-2026-10-22 16 → 2026-11-02 19（+3）
+2026-10-22 16 → 2026-11-17 20（+4）
 
 
 ---

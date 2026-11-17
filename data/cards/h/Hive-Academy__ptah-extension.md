@@ -1,6 +1,6 @@
 # Hive-Academy/ptah-extension
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Hive-Academy/ptah-extension) · [官网](https://ptah.live) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 开发环境：带持久记忆的多智能体编程助手，覆盖桌面/CLI/VS Code**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hive-Academy/ptah-extension 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-07"]
     y-axis "stars" 28 --> 32
     line [29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 31（+2）
+2026-10-18 29 → 2026-11-07 31（+2）
 
 
 ---

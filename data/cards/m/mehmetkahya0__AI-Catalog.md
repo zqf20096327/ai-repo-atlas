@@ -1,6 +1,6 @@
 # mehmetkahya0/AI-Catalog
 
-⭐ 500 · HTML · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
+⭐ 505 · HTML · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
 
 **AI 工具策展清单：500+ 工具按 40+ 类别收录供查找**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mehmetkahya0/AI-Catalog 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 496 --> 501
-    line [497, 498, 499, 500, 500]
+    title "mehmetkahya0/AI-Catalog 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 496 --> 506
+    line [497, 498, 499, 500, 498, 502, 503, 504, 505, 505]
 ```
 
-2026-10-18 497 → 2026-11-02 500（+3）
+2026-10-18 497 → 2026-11-17 505（+8）
 
 
 ---

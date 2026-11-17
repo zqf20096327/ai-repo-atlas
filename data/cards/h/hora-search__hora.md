@@ -1,6 +1,6 @@
 # hora-search/hora
 
-⭐ 2,657 · Rust · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/hora-search/hora) · [官网](http://horasearch.com/) · 组织维护
+⭐ 2,655 · Rust · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/hora-search/hora) · [官网](http://horasearch.com/) · 组织维护
 
 **Rust 编写的近似最近邻搜索（ANN）算法库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hora-search/hora 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2655 --> 2659
-    line [2658, 2657, 2656, 2657, 2657]
+    title "hora-search/hora 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 2654 --> 2659
+    line [2658, 2657, 2656, 2657, 2655, 2655]
 ```
 
-2026-10-18 2,658 → 2026-11-02 2,657（-1）
+2026-10-18 2,658 → 2026-11-17 2,655（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-csharp
 
-⭐ 339 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-csharp) · 组织维护
+⭐ 346 · C# · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/anthropics/anthropic-sdk-csharp) · 组织维护
 
 **C# 官方 Claude API SDK，供 .NET 应用接入 Claude 模型**
 
@@ -42,13 +42,13 @@ Anthropic 官方维护的 C#/.NET SDK，从 10 版起作为 Claude API 的官方
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-csharp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 336 --> 341
-    line [337, 339, 340, 339, 339]
+    title "anthropics/anthropic-sdk-csharp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 336 --> 347
+    line [337, 339, 340, 339, 340, 343, 345, 346, 346]
 ```
 
-2026-10-18 337 → 2026-11-02 339（+2）
+2026-10-18 337 → 2026-11-17 346（+9）
 
 
 ---

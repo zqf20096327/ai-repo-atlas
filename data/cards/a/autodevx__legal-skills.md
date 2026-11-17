@@ -1,6 +1,6 @@
 # autodevx/legal-skills
 
-⭐ 16 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/autodevx/legal-skills) · [官网](https://github.com/autodevx) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/autodevx/legal-skills) · [官网](https://github.com/autodevx) · 组织维护
 
 **巴西法律业务 Claude 技能集：CNJ 解析、合同审查、或有负债报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "autodevx/legal-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "autodevx/legal-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 15 --> 22
+    line [16, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 21（+5）
 
 
 ---

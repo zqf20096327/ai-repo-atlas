@@ -1,6 +1,6 @@
 # bolivian-peru/os-moda
 
-⭐ 119 · Rust · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/bolivian-peru/os-moda) · [官网](https://os.moda) · 个人维护
+⭐ 123 · Rust · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/bolivian-peru/os-moda) · [官网](https://os.moda) · 个人维护
 
 **面向 AI agent 的 NixOS 操作系统：对话运维服务器，改动可原子回滚**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bolivian-peru/os-moda 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 118 --> 121
-    line [119, 120, 119, 119]
+    title "bolivian-peru/os-moda 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 118 --> 124
+    line [119, 120, 119, 120, 121, 122, 123, 123]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 123（+4）
 
 
 ---

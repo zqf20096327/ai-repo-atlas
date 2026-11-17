@@ -1,6 +1,6 @@
 # healthchainai/HealthChain
 
-⭐ 230 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/healthchainai/HealthChain) · [官网](https://healthchainai.github.io/HealthChain/) · 组织维护
+⭐ 231 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/healthchainai/HealthChain) · [官网](https://healthchainai.github.io/HealthChain/) · 组织维护
 
 **面向医疗 AI 的 Python SDK：连接真实 FHIR API 并构建校验 FHIR 输出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "healthchainai/HealthChain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 228 --> 231
-    line [229, 230, 230]
+    title "healthchainai/HealthChain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 228 --> 232
+    line [229, 230, 229, 231, 231]
 ```
 
-2026-10-18 229 → 2026-11-02 230（+1）
+2026-10-18 229 → 2026-11-17 231（+2）
 
 
 ---

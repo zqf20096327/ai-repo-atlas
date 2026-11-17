@@ -1,6 +1,6 @@
 # xyskywalker/Ripple
 
-⭐ 242 · Python · AGPL-3.0 · 推送 2026-04-27 · [GitHub](https://github.com/xyskywalker/Ripple) · 个人维护 · 中文 README
+⭐ 245 · Python · AGPL-3.0 · 推送 2026-04-27 · [GitHub](https://github.com/xyskywalker/Ripple) · 个人维护 · 中文 README
 
 **基于 CAS 理论的人类社会行为预测引擎，产出传播/PMF 预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xyskywalker/Ripple 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 240 --> 243
-    line [242, 241, 242, 242]
+    title "xyskywalker/Ripple 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 240 --> 246
+    line [242, 241, 242, 241, 245, 245]
 ```
 
-2026-10-18 242 → 2026-11-02 242（+0）
+2026-10-18 242 → 2026-11-17 245（+3）
 
 
 ---

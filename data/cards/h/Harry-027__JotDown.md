@@ -1,6 +1,6 @@
 # Harry-027/JotDown
 
-⭐ 23 · Rust · MIT · 推送 2026-02-24 · [GitHub](https://github.com/Harry-027/JotDown) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-02-24 · [GitHub](https://github.com/Harry-027/JotDown) · 个人维护
 
 **Rust 编写的 MCP 服务器：让 LLM 创建 Notion 页面与生成 mdBook**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Harry-027/JotDown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "Harry-027/JotDown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

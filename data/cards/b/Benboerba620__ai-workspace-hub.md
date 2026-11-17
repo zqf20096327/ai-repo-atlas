@@ -1,6 +1,6 @@
 # Benboerba620/ai-workspace-hub
 
-⭐ 83 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Benboerba620/ai-workspace-hub) · [官网](https://mp.weixin.qq.com/s?__biz=MzcwNTA3NjkzNQ==&mid=2247484256&idx=1&sn=8b7af107a56947b1d14b944445f19d38) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Benboerba620/ai-workspace-hub) · [官网](https://mp.weixin.qq.com/s?__biz=MzcwNTA3NjkzNQ==&mid=2247484256&idx=1&sn=8b7af107a56947b1d14b944445f19d38) · 个人维护 · 中文 README
 
 **把 AI 编程助手变成带长期记忆的投资研究工作台（文件协议）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Benboerba620/ai-workspace-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    title "Benboerba620/ai-workspace-hub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 84（+2）
 
 
 ---

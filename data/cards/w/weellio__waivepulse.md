@@ -1,6 +1,6 @@
 # weellio/waivepulse
 
-⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/weellio/waivepulse) · [官网](http://waivepulse.com) · 个人维护
+⭐ 27 · JavaScript · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/weellio/waivepulse) · [官网](http://waivepulse.com) · 个人维护
 
 **本地离线 AI 音乐生成与混音工作站：歌词加标签生成带人声歌曲**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "weellio/waivepulse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "weellio/waivepulse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

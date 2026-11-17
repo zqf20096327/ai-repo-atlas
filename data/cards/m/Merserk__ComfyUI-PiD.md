@@ -1,6 +1,6 @@
 # Merserk/ComfyUI-PiD
 
-⭐ 133 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Merserk/ComfyUI-PiD) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Merserk/ComfyUI-PiD) · 个人维护
 
 **ComfyUI 节点集：接入 NVIDIA PiD/PixelDiT 解码与放大**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Merserk/ComfyUI-PiD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Merserk/ComfyUI-PiD 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 131 --> 134
-    line [132, 133, 133]
+    line [132, 133, 132, 133, 132, 132]
 ```
 
-2026-10-18 132 → 2026-11-02 133（+1）
+2026-10-18 132 → 2026-11-17 132（+0）
 
 
 ---

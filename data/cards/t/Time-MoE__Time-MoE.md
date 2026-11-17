@@ -1,6 +1,6 @@
 # Time-MoE/Time-MoE
 
-⭐ 1,008 · Python · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/Time-MoE/Time-MoE) · [官网](https://arxiv.org/abs/2409.16040) · 组织维护 · 中文 README
+⭐ 1,012 · Python · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/Time-MoE/Time-MoE) · [官网](https://arxiv.org/abs/2409.16040) · 组织维护 · 中文 README
 
 **十亿参数级时序基础模型（MoE 架构）官方实现，用于时序预测**
 
@@ -45,13 +45,13 @@ ICLR 2025 Spotlight 论文 Time-MoE 的官方代码：提供 decoder-only、混�
 
 ```mermaid
 xychart-beta
-    title "Time-MoE/Time-MoE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1005 --> 1009
-    line [1006, 1007, 1008]
+    title "Time-MoE/Time-MoE 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1005 --> 1013
+    line [1006, 1007, 1008, 1006, 1009, 1012, 1012]
 ```
 
-2026-10-18 1,006 → 2026-11-02 1,008（+2）
+2026-10-18 1,006 → 2026-11-17 1,012（+6）
 
 
 ---

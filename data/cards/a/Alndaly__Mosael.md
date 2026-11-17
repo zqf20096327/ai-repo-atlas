@@ -1,6 +1,6 @@
 # Alndaly/Mosael
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Alndaly/Mosael) · [官网](https://mosael.com) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Alndaly/Mosael) · [官网](https://mosael.com) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 视频创作软件：生成、剪辑、配音一站式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alndaly/Mosael 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "Alndaly/Mosael 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

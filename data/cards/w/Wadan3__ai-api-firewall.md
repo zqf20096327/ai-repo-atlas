@@ -1,6 +1,6 @@
 # Wadan3/ai-api-firewall
 
-⭐ 20 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/Wadan3/ai-api-firewall) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/Wadan3/ai-api-firewall) · 个人维护
 
 **机器学习 API 网关：实时检测并拦截恶意 Web 流量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wadan3/ai-api-firewall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "Wadan3/ai-api-firewall 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

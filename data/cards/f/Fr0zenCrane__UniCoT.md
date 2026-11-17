@@ -1,6 +1,6 @@
 # Fr0zenCrane/UniCoT
 
-⭐ 237 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/Fr0zenCrane/UniCoT) · 组织维护
+⭐ 238 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/Fr0zenCrane/UniCoT) · 组织维护
 
 **ICLR 2026 论文项目：扩展 MLLM 的文本-视觉统一思维链推理框架**
 
@@ -44,13 +44,13 @@ Uni-CoT 将 Chain-of-Thought 推理扩展到多模态领域，基于 Bagel-7B-Mo
 
 ```mermaid
 xychart-beta
-    title "Fr0zenCrane/UniCoT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 236 --> 238
-    line [237, 237]
+    title "Fr0zenCrane/UniCoT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 236 --> 239
+    line [237, 238, 238]
 ```
 
-2026-10-18 237 → 2026-11-02 237（+0）
+2026-10-18 237 → 2026-11-17 238（+1）
 
 
 ---

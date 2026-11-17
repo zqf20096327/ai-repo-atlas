@@ -1,6 +1,6 @@
 # frequenz-floss/contai
 
-⭐ 61 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/frequenz-floss/contai) · 组织维护
+⭐ 61 · Shell · MIT · 推送 2026-11-04 · [GitHub](https://github.com/frequenz-floss/contai) · 组织维护
 
 **在 Docker 沙箱中隔离运行 AI CLI 工具的容器封装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "frequenz-floss/contai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 59 --> 62
     line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 61（+1）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # himanshu231204/ml-mastery
 
-⭐ 15 · Jupyter Notebook · MIT · 推送 2026-07-21 · [GitHub](https://github.com/himanshu231204/ml-mastery) · 个人维护
+⭐ 15 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/himanshu231204/ml-mastery) · 个人维护
 
 **机器学习学习与复习仓库：结构化 notebook 与速查指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "himanshu231204/ml-mastery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

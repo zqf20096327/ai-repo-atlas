@@ -1,6 +1,6 @@
 # yusong652/yade-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yusong652/yade-mcp) · [官网](https://pypi.org/project/yade-mcp/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/yusong652/yade-mcp) · [官网](https://pypi.org/project/yade-mcp/) · 个人维护 · 中文 README
 
 **让 AI agent 通过 MCP 直接运行 YADE 离散元仿真的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yusong652/yade-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

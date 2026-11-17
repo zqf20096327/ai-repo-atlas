@@ -1,6 +1,6 @@
 # las7/HakoVM
 
-⭐ 11 · Swift · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/las7/HakoVM) · 个人维护
+⭐ 16 · Swift · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/las7/HakoVM) · 个人维护
 
 **macOS 上为 AI agent 提供的一次性 microVM 沙箱运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "las7/HakoVM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "las7/HakoVM 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 10, 11, 13, 15, 16, 16]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 16（+6）
 
 
 ---

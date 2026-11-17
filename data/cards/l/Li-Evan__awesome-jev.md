@@ -1,6 +1,6 @@
 # Li-Evan/awesome-jev
 
-⭐ 28 · HTML · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/Li-Evan/awesome-jev) · [官网](https://li-evan.github.io/awesome-jev/) · 组织维护 · 中文 README
+⭐ 29 · HTML · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/Li-Evan/awesome-jev) · [官网](https://li-evan.github.io/awesome-jev/) · 组织维护 · 中文 README
 
 **Jev（TypeSafe System One）模型应用项目策展清单（3,398 条，16 类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Li-Evan/awesome-jev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "Li-Evan/awesome-jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

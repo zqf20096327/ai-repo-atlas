@@ -1,6 +1,6 @@
 # AlexeyPerov/Unity-Open-MCP
 
-⭐ 17 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlexeyPerov/Unity-Open-MCP) · 个人维护 · 中文 README
+⭐ 18 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlexeyPerov/Unity-Open-MCP) · 个人维护 · 中文 README
 
 **让 AI agent 通过 MCP 控制与测试 Unity 项目的工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlexeyPerov/Unity-Open-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "AlexeyPerov/Unity-Open-MCP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

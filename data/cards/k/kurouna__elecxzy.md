@@ -1,6 +1,6 @@
 # kurouna/elecxzy
 
-⭐ 23 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kurouna/elecxzy) · 个人维护 · 中文 README
+⭐ 24 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kurouna/elecxzy) · 个人维护 · 中文 README
 
 **带 MCP 服务器的 Emacs 键位文本编辑器（Windows）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kurouna/elecxzy 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "kurouna/elecxzy 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-11-01 23 → 2026-11-02 23（+0）
+2026-11-01 23 → 2026-11-17 24（+1）
 
 
 ---

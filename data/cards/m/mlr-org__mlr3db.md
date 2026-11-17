@@ -1,6 +1,6 @@
 # mlr-org/mlr3db
 
-⭐ 23 · R · LGPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/mlr-org/mlr3db) · [官网](https://mlr3db.mlr-org.com) · 组织维护
+⭐ 23 · R · LGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/mlr-org/mlr3db) · [官网](https://mlr3db.mlr-org.com) · 组织维护
 
 **R 包：让 mlr3 透明对接数据库的数据后端扩展**
 
@@ -44,12 +44,12 @@ mlr3 生态的 R 扩展包，为 mlr3 机器学习框架提供三种 DataBackend
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3db 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

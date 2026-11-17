@@ -1,6 +1,6 @@
 # capsulerun/runtime
 
-⭐ 299 · Rust · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/capsulerun/runtime) · 组织维护
+⭐ 304 · Rust · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/capsulerun/runtime) · 组织维护
 
 **WebAssembly 沙箱运行时：安全执行不可信代码任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "capsulerun/runtime 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 297 --> 300
-    line [298, 299, 299]
+    title "capsulerun/runtime 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 297 --> 305
+    line [298, 299, 303, 304, 304]
 ```
 
-2026-10-18 298 → 2026-11-02 299（+1）
+2026-10-18 298 → 2026-11-17 304（+6）
 
 
 ---

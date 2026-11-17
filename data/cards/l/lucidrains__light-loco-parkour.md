@@ -1,6 +1,6 @@
 # lucidrains/light-loco-parkour
 
-⭐ 72 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lucidrains/light-loco-parkour) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lucidrains/light-loco-parkour) · 个人维护
 
 **机器人四足感知运动技能的论文官方实现（进行中）**
 
@@ -43,13 +43,13 @@ Light Origins Labs 论文《Light Loco Parkour: Versatile Perceptive Whole-Body 
 
 ```mermaid
 xychart-beta
-    title "lucidrains/light-loco-parkour 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 69 --> 73
-    line [70, 72, 72]
+    title "lucidrains/light-loco-parkour 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 69 --> 78
+    line [70, 72, 73, 74, 76, 77, 77]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 77（+7）
 
 
 ---

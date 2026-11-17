@@ -1,6 +1,6 @@
 # ChinaYiqun/java-rag
 
-⭐ 162 · Java · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/ChinaYiqun/java-rag) · 个人维护 · 中文 README
+⭐ 163 · Java · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/ChinaYiqun/java-rag) · 个人维护 · 中文 README
 
 **纯 Java 实现的 RAG 工具包与可视化 Playground**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChinaYiqun/java-rag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 160 --> 163
-    line [161, 162, 162]
+    title "ChinaYiqun/java-rag 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 160 --> 164
+    line [161, 162, 161, 162, 163, 163]
 ```
 
-2026-10-18 161 → 2026-11-02 162（+1）
+2026-10-18 161 → 2026-11-17 163（+2）
 
 
 ---

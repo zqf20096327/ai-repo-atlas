@@ -1,6 +1,6 @@
 # jan3dev/a1echos
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jan3dev/a1echos) · [官网](https://www.a1lab.com/echos) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/jan3dev/a1echos) · [官网](https://www.a1lab.com/echos) · 组织维护 · 中文 README
 
 **端侧 AI 语音记录与转录应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jan3dev/a1echos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mclwh/xiaomaque
 
-⭐ 24 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/mclwh/xiaomaque) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/mclwh/xiaomaque) · 个人维护 · 中文 README
 
 **短剧/漫剧 AI 创作平台：剧本生成、分镜编辑与 AI 生图生视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mclwh/xiaomaque 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "mclwh/xiaomaque 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 23, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

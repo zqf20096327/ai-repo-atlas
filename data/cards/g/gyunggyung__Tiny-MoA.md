@@ -1,6 +1,6 @@
 # gyunggyung/Tiny-MoA
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/gyunggyung/Tiny-MoA) · 个人维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/gyunggyung/Tiny-MoA) · 个人维护
 
 **CPU 上运行的多智能体系统：1.2B 主控 + 600M 推理 + 90M 工具调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gyunggyung/Tiny-MoA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "gyunggyung/Tiny-MoA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/skill-reach
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/google/skill-reach) · [官网](https://google.github.io/skill-reach/) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google/skill-reach) · [官网](https://google.github.io/skill-reach/) · 组织维护
 
 **AI agent 技能触发与碰撞的评测套件：测路由是否命中**
 
@@ -44,13 +44,13 @@ Google 维护的 Python 评测工具，度量 agent 技能的发现与选择阶�
 
 ```mermaid
 xychart-beta
-    title "google/skill-reach 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 13, 14, 15, 16, 16]
+    title "google/skill-reach 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 26
+    line [11, 12, 13, 14, 15, 16, 13, 21, 22, 23, 24, 25, 25]
 ```
 
-2026-10-18 11 → 2026-11-02 16（+5）
+2026-10-18 11 → 2026-11-17 25（+14）
 
 
 ---

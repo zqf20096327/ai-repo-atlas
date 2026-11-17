@@ -1,6 +1,6 @@
 # langbyyi/CyberStrikeAI-SRC
 
-⭐ 132 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/langbyyi/CyberStrikeAI-SRC) · 个人维护 · 中文 README
+⭐ 134 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/langbyyi/CyberStrikeAI-SRC) · 个人维护 · 中文 README
 
 **面向授权 SRC 漏洞挖掘的 AI 原生安全测试平台（Go）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "langbyyi/CyberStrikeAI-SRC 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 130 --> 135
-    line [134, 133, 132, 131, 132, 132]
+    title "langbyyi/CyberStrikeAI-SRC 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 128 --> 135
+    line [134, 133, 132, 131, 132, 131, 129, 132, 133, 134, 134]
 ```
 
-2026-10-18 134 → 2026-11-02 132（-2）
+2026-10-18 134 → 2026-11-17 134（+0）
 
 
 ---

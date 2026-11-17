@@ -1,6 +1,6 @@
 # CrazyDashTool/Local-Agent-Studio
 
-⭐ 25 · JavaScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/CrazyDashTool/Local-Agent-Studio) · 个人维护
+⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/CrazyDashTool/Local-Agent-Studio) · 个人维护
 
 **本地优先的桌面 Agent 聊天应用：连接 Ollama/ComfyUI 等本地工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CrazyDashTool/Local-Agent-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "CrazyDashTool/Local-Agent-Studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    line [24, 25, 24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

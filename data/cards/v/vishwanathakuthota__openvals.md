@@ -1,6 +1,6 @@
 # vishwanathakuthota/openvals
 
-⭐ 48 · Python · 推送 2026-08-13 · [GitHub](https://github.com/vishwanathakuthota/openvals) · [官网](https://openvalidations.com) · 个人维护
+⭐ 52 · Python · 推送 2026-11-12 · [GitHub](https://github.com/vishwanathakuthota/openvals) · [官网](https://openvalidations.com) · 个人维护
 
 **企业级 LLM 评测与信任度量平台：多模型基准与幻觉检测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vishwanathakuthota/openvals 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 41 --> 49
-    line [42, 47, 48, 48]
+    title "vishwanathakuthota/openvals 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 41 --> 53
+    line [42, 47, 48, 42, 50, 52, 52]
 ```
 
-2026-10-18 42 → 2026-11-02 48（+6）
+2026-10-18 42 → 2026-11-17 52（+10）
 
 
 ---

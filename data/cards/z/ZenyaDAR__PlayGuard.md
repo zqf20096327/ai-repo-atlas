@@ -1,6 +1,6 @@
 # ZenyaDAR/PlayGuard
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ZenyaDAR/PlayGuard) · [官网](https://playguard.dev/) · 个人维护
+⭐ 24 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ZenyaDAR/PlayGuard) · [官网](https://playguard.dev/) · 个人维护
 
 **给 AI agent 用的 MCP 代理：优化 Playwright/Figma 工具响应**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZenyaDAR/PlayGuard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ZenyaDAR/PlayGuard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 25
+    line [15, 24, 24]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 24（+9）
 
 
 ---

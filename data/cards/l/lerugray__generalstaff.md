@@ -1,6 +1,6 @@
 # lerugray/generalstaff
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/lerugray/generalstaff) · 个人维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/lerugray/generalstaff) · 个人维护
 
 **面向自主编码 agent 的本地验证门调度器：测试不过即回滚**
 
@@ -45,13 +45,13 @@ BYOK、local-first 的自主编码 agent 调度器：以自然语言描述任务
 
 ```mermaid
 xychart-beta
-    title "lerugray/generalstaff 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 18, 19, 19]
+    title "lerugray/generalstaff 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 18, 19, 18, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-17 20（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # rfonod/deepsleep2
 
-⭐ 22 · Jupyter Notebook · MIT · 推送 2026-07-10 · [GitHub](https://github.com/rfonod/deepsleep2) · [官网](https://doi.org/10.3390/ai3010010) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-11-08 · [GitHub](https://github.com/rfonod/deepsleep2) · [官网](https://doi.org/10.3390/ai3010010) · 个人维护
 
 **从整夜 PSG 记录逐 5ms 分割睡眠觉醒事件的轻量 U-Net**
 
@@ -45,12 +45,12 @@ PyTorch 实现的一维全卷积编解码网络（740,551 参数），输入整�
 ```mermaid
 xychart-beta
     title "rfonod/deepsleep2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

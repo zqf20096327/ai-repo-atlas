@@ -1,6 +1,6 @@
 # n00bvn/CanvasMCPClient
 
-⭐ 78 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/n00bvn/CanvasMCPClient) · [官网](https://canvas-mcp.com) · 组织维护
+⭐ 79 · TypeScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/n00bvn/CanvasMCPClient) · [官网](https://canvas-mcp.com) · 组织维护
 
 **自托管无限画布仪表盘：统一连接多个 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "n00bvn/CanvasMCPClient 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "n00bvn/CanvasMCPClient 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 77 --> 80
+    line [78, 79, 79]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 79（+1）
 
 
 ---

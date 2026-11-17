@@ -1,6 +1,6 @@
 # iFulling/cdcasSK
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/iFulling/cdcasSK) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/iFulling/cdcasSK) · 个人维护 · 中文 README
 
 **英华学堂刷课用户脚本：视频自动播放与考试 AI 搜题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iFulling/cdcasSK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "iFulling/cdcasSK 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cosolar/AgentLearn
 
-⭐ 20 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/cosolar/AgentLearn) · [官网](https://docs.minims.cn/share/agentlearn) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cosolar/AgentLearn) · [官网](https://docs.minims.cn/share/agentlearn) · 个人维护 · 中文 README
 
 **AI Agent 系统化开源教程：80+ 篇文档与 12+ 实战项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cosolar/AgentLearn 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 21
-    line [12, 13, 15, 16, 20, 20]
+    title "cosolar/AgentLearn 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 30
+    line [12, 13, 15, 16, 20, 15, 23, 25, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 12 → 2026-11-02 20（+8）
+2026-10-18 12 → 2026-11-17 29（+17）
 
 
 ---

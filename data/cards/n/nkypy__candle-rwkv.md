@@ -1,6 +1,6 @@
 # nkypy/candle-rwkv
 
-⭐ 25 · Rust · 推送 2026-01-19 · [GitHub](https://github.com/nkypy/candle-rwkv) · [官网](https://github.com/nkypy/candle-rwkv) · 个人维护 · 中文 README
+⭐ 24 · Rust · 推送 2026-01-19 · [GitHub](https://github.com/nkypy/candle-rwkv) · [官网](https://github.com/nkypy/candle-rwkv) · 个人维护 · 中文 README
 
 **Rust 实现 RWKV5/6/7 模型推理与量化转换工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nkypy/candle-rwkv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "nkypy/candle-rwkv 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    line [24, 25, 24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

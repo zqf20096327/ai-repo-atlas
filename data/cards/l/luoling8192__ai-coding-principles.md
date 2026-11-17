@@ -1,6 +1,6 @@
 # luoling8192/ai-coding-principles
 
-⭐ 172 · MIT · 推送 2026-03-26 · [GitHub](https://github.com/luoling8192/ai-coding-principles) · 个人维护 · 中文 README
+⭐ 173 · MIT · 推送 2026-03-26 · [GitHub](https://github.com/luoling8192/ai-coding-principles) · 个人维护 · 中文 README
 
 **Claude Code 编码纪律与系统设计技能集**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "luoling8192/ai-coding-principles 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 170 --> 173
-    line [172, 171, 172, 172]
+    title "luoling8192/ai-coding-principles 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 170 --> 174
+    line [172, 171, 172, 171, 173, 173]
 ```
 
-2026-10-18 172 → 2026-11-02 172（+0）
+2026-10-18 172 → 2026-11-17 173（+1）
 
 
 ---

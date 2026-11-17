@@ -1,6 +1,6 @@
 # lucidrains/RLT
 
-⭐ 61 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/lucidrains/RLT) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/lucidrains/RLT) · 个人维护
 
 **循环环路 Transformer 的 PyTorch 非官方实现，供研究者实验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/RLT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "lucidrains/RLT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

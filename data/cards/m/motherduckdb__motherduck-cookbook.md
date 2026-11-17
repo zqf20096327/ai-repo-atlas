@@ -1,6 +1,6 @@
 # motherduckdb/motherduck-cookbook
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/motherduckdb/motherduck-cookbook) · [官网](http://motherduck.com/docs/cookbook) · 组织维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/motherduckdb/motherduck-cookbook) · [官网](http://motherduck.com/docs/cookbook) · 组织维护
 
 **MotherDuck 官方示例项目集：dbt/接入/边缘集成等可复用代码模板**
 
@@ -44,13 +44,13 @@ MotherDuck 维护的官方 cookbook 仓库，收录自包含的示例工程：db
 
 ```mermaid
 xychart-beta
-    title "motherduckdb/motherduck-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "motherduckdb/motherduck-cookbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

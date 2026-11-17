@@ -1,6 +1,6 @@
 # steve228uk/metro-mcp
 
-⭐ 86 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/steve228uk/metro-mcp) · [官网](https://metromcp.dev/) · 个人维护
+⭐ 89 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/steve228uk/metro-mcp) · [官网](https://metromcp.dev/) · 个人维护
 
 **面向 AI agent 的 React Native 运行时调试 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "steve228uk/metro-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 87
-    line [85, 86]
+    title "steve228uk/metro-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 84 --> 90
+    line [85, 86, 85, 86, 88, 89, 89]
 ```
 
-2026-10-18 85 → 2026-11-02 86（+1）
+2026-10-18 85 → 2026-11-17 89（+4）
 
 
 ---

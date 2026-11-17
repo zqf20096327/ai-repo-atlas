@@ -1,6 +1,6 @@
 # melagiri/code-insights
 
-⭐ 79 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/melagiri/code-insights) · [官网](https://code-insights.app) · 个人维护
+⭐ 80 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/melagiri/code-insights) · [官网](https://code-insights.app) · 个人维护
 
 **把 AI 编程会话转为可浏览知识的本地分析 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "melagiri/code-insights 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79, 79]
+    title "melagiri/code-insights 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 75 --> 81
+    line [76, 77, 78, 79, 77, 79, 80, 80]
 ```
 
-2026-10-18 76 → 2026-11-02 79（+3）
+2026-10-18 76 → 2026-11-17 80（+4）
 
 
 ---

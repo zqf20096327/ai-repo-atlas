@@ -1,6 +1,6 @@
 # SpillwaveSolutions/agent-brain
 
-⭐ 119 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SpillwaveSolutions/agent-brain) · [官网](https://github.com/SpillwaveSolutions/agent-brain/wiki) · 组织维护
+⭐ 121 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SpillwaveSolutions/agent-brain) · [官网](https://github.com/SpillwaveSolutions/agent-brain/wiki) · 组织维护
 
 **面向 AI agent 的本地 RAG 文档/代码索引检索系统**
 
@@ -44,13 +44,13 @@ Agent Brain 是为 AI agent 与应用提供的 RAG 文档与源码索引及语�
 
 ```mermaid
 xychart-beta
-    title "SpillwaveSolutions/agent-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    title "SpillwaveSolutions/agent-brain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 118 --> 122
+    line [119, 120, 121, 121]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 121（+2）
 
 
 ---

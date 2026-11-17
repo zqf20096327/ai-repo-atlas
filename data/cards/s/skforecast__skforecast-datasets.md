@@ -1,6 +1,6 @@
 # skforecast/skforecast-datasets
 
-⭐ 16 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/skforecast/skforecast-datasets) · [官网](https://skforecast.org) · 组织维护
+⭐ 16 · Python · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/skforecast/skforecast-datasets) · [官网](https://skforecast.org) · 组织维护
 
 **skforecast 时间序列预测库配套的示例数据集仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "skforecast/skforecast-datasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mukel/gemma4.java
 
-⭐ 69 · Java · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/mukel/gemma4.java) · 个人维护
+⭐ 71 · Java · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/mukel/gemma4.java) · 个人维护
 
 **纯 Java 实现的 Gemma 4 推理引擎，单文件零依赖**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mukel/gemma4.java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 68 --> 71
-    line [70, 69, 69]
+    title "mukel/gemma4.java 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 68 --> 72
+    line [70, 69, 70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-11-02 69（-1）
+2026-10-18 70 → 2026-11-17 71（+1）
 
 
 ---

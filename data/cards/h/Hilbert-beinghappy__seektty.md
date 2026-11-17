@@ -1,6 +1,6 @@
 # Hilbert-beinghappy/seektty
 
-⭐ 194 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Hilbert-beinghappy/seektty) · 个人维护 · 中文 README
+⭐ 193 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Hilbert-beinghappy/seektty) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Claude Code 风格终端工作区界面**
 
@@ -44,13 +44,13 @@ SeekTTY 是 DeepSeek Harness（dsh）的终端前端插件：通过 dsh plugin �
 
 ```mermaid
 xychart-beta
-    title "Hilbert-beinghappy/seektty 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 193 --> 197
-    line [196, 195, 194, 194]
+    title "Hilbert-beinghappy/seektty 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 191 --> 197
+    line [196, 195, 194, 195, 192, 193, 193]
 ```
 
-2026-10-18 196 → 2026-11-02 194（-2）
+2026-10-18 196 → 2026-11-17 193（-3）
 
 
 ---

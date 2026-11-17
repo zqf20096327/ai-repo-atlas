@@ -1,6 +1,6 @@
 # ServiceNow/TapeAgents
 
-⭐ 320 · Python · Apache-2.0 · 推送 2025-12-16 · [GitHub](https://github.com/ServiceNow/TapeAgents) · [官网](https://arxiv.org/abs/2412.08445) · 组织维护
+⭐ 319 · Python · Apache-2.0 · 推送 2025-12-16 · [GitHub](https://github.com/ServiceNow/TapeAgents) · [官网](https://arxiv.org/abs/2412.08445) · 组织维护
 
 **LLM Agent 开发全生命周期框架：以可回放 Tape 日志为核心**
 
@@ -44,13 +44,13 @@ ServiceNow 维护的 Python 框架，用结构化、可回放的会话日志（T
 
 ```mermaid
 xychart-beta
-    title "ServiceNow/TapeAgents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "ServiceNow/TapeAgents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-17"]
     y-axis "stars" 318 --> 321
-    line [319, 320, 320]
+    line [319, 320, 319, 319]
 ```
 
-2026-10-18 319 → 2026-11-02 320（+1）
+2026-10-18 319 → 2026-11-17 319（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # l-wn/ClusterChat
 
-⭐ 44 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/l-wn/ClusterChat) · [官网](https://clusterchat.io) · 个人维护
+⭐ 56 · JavaScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/l-wn/ClusterChat) · [官网](https://clusterchat.io) · 个人维护
 
 **浏览器内多人拼 GPU 分布式运行 27B 大模型的群聊应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "l-wn/ClusterChat 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 46
-    line [23, 39, 44, 44]
+    title "l-wn/ClusterChat 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 59
+    line [23, 39, 44, 53, 54, 55, 56, 56]
 ```
 
-2026-10-30 23 → 2026-11-02 44（+21）
+2026-10-30 23 → 2026-11-17 56（+33）
 
 
 ---

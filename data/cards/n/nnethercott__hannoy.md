@@ -1,6 +1,6 @@
 # nnethercott/hannoy
 
-⭐ 88 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nnethercott/hannoy) · [官网](https://docs.rs/hannoy) · 个人维护
+⭐ 89 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/nnethercott/hannoy) · [官网](https://docs.rs/hannoy) · 个人维护
 
 **LMDB 磁盘存储后端的 HNSW 近似最近邻库（Rust/Python）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nnethercott/hannoy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    title "nnethercott/hannoy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 86 --> 90
+    line [87, 88, 89, 89]
 ```
 
-2026-10-18 87 → 2026-11-02 88（+1）
+2026-10-18 87 → 2026-11-17 89（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sazonovanton/SirChatalot
 
-⭐ 72 · Python · GPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/sazonovanton/SirChatalot) · 个人维护
+⭐ 74 · Python · GPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/sazonovanton/SirChatalot) · 个人维护
 
 **面向 Telegram 用户的 AI 对话机器人：多模型接入与代理工具**
 
@@ -46,13 +46,13 @@ Python 实现的 Telegram 聊天机器人，连接任意 OpenAI 兼容 API（Ope
 
 ```mermaid
 xychart-beta
-    title "sazonovanton/SirChatalot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "sazonovanton/SirChatalot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

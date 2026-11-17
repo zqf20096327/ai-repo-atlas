@@ -1,6 +1,6 @@
 # MinightDev/Autoshorts
 
-⭐ 92 · TypeScript · 推送 2026-01-23 · [GitHub](https://github.com/MinightDev/Autoshorts) · [官网](https://monzed.com/products) · 组织维护
+⭐ 94 · TypeScript · 推送 2026-01-23 · [GitHub](https://github.com/MinightDev/Autoshorts) · [官网](https://monzed.com/products) · 组织维护
 
 **Monzed AI 短视频生成 API 的官方交互式 Playground**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MinightDev/Autoshorts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "MinightDev/Autoshorts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 91 --> 95
+    line [92, 93, 94, 94]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 94（+2）
 
 
 ---

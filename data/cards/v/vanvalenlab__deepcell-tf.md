@@ -1,6 +1,6 @@
 # vanvalenlab/deepcell-tf
 
-⭐ 481 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/vanvalenlab/deepcell-tf) · [官网](https://deepcell.readthedocs.io) · 组织维护
+⭐ 480 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/vanvalenlab/deepcell-tf) · [官网](https://deepcell.readthedocs.io) · 组织维护
 
 **生物图像单细胞分析深度学习库：细胞分割与追踪**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vanvalenlab/deepcell-tf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 480 --> 482
-    line [481, 481]
+    title "vanvalenlab/deepcell-tf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 479 --> 482
+    line [481, 480, 480]
 ```
 
-2026-10-18 481 → 2026-11-02 481（+0）
+2026-10-18 481 → 2026-11-17 480（-1）
 
 
 ---

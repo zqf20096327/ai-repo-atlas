@@ -1,6 +1,6 @@
 # Haochen-Wang409/TreeVGR
 
-⭐ 93 · Python · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/Haochen-Wang409/TreeVGR) · [官网](https://arxiv.org/pdf/2507.07999) · 组织维护
+⭐ 94 · Python · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/Haochen-Wang409/TreeVGR) · [官网](https://arxiv.org/pdf/2507.07999) · 组织维护
 
 **视觉定位推理评测基准 TreeBench 及训练范式 TreeVGR（ICLR'26）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haochen-Wang409/TreeVGR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "Haochen-Wang409/TreeVGR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 94（+1）
 
 
 ---

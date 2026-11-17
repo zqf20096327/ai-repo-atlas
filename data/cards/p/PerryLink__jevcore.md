@@ -1,6 +1,6 @@
 # PerryLink/jevcore
 
-⭐ 104 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/PerryLink/jevcore) · [官网](https://www.npmjs.com/package/jevcore) · 个人维护 · 中文 README
+⭐ 105 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/PerryLink/jevcore) · [官网](https://www.npmjs.com/package/jevcore) · 个人维护 · 中文 README
 
 **给 agent 的类型化决策工具：Jev 是非/选择/评分判断与校准概率**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/jevcore 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
+    title "PerryLink/jevcore 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 101 --> 114
-    line [109, 111, 113, 102, 103, 104, 104]
+    line [109, 111, 113, 102, 103, 104, 102, 103, 105, 105]
 ```
 
-2026-10-18 109 → 2026-11-02 104（-5）
+2026-10-18 109 → 2026-11-17 105（-4）
 
 
 ---

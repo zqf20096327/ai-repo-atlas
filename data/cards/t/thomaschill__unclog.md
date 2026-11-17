@@ -1,6 +1,6 @@
 # thomaschill/unclog
 
-⭐ 36 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/thomaschill/unclog) · [官网](https://pypi.org/project/unclog/) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/thomaschill/unclog) · [官网](https://pypi.org/project/unclog/) · 个人维护
 
 **扫描并清理 Claude Code 上下文占用项的本地 CLI 审计工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thomaschill/unclog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "thomaschill/unclog 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 38（+2）
 
 
 ---

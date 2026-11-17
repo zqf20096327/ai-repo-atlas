@@ -1,6 +1,6 @@
 # Nice3point/revit-skills
 
-⭐ 20 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Nice3point/revit-skills) · 个人维护
+⭐ 24 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Nice3point/revit-skills) · 个人维护
 
 **面向 Revit 插件开发的 AI agent 技能插件集（8 个插件）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nice3point/revit-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 20, 20]
+    title "Nice3point/revit-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 25
+    line [16, 17, 18, 20, 18, 23, 24, 24]
 ```
 
-2026-10-18 16 → 2026-11-02 20（+4）
+2026-10-18 16 → 2026-11-17 24（+8）
 
 
 ---

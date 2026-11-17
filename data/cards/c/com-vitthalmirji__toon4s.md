@@ -1,6 +1,6 @@
 # com-vitthalmirji/toon4s
 
-⭐ 32 · Scala · MIT · 推送 2026-10-20 · [GitHub](https://github.com/com-vitthalmirji/toon4s) · [官网](https://toonformat.dev) · 个人维护
+⭐ 32 · Scala · MIT · 推送 2026-11-04 · [GitHub](https://github.com/com-vitthalmirji/toon4s) · [官网](https://toonformat.dev) · 个人维护
 
 **TOON 数据格式的 Scala/JVM 实现：面向 LLM 的紧凑序列化**
 
@@ -48,12 +48,12 @@ Token-Oriented Object Notation（TOON）的 Scala 实现库，用于在 JSON 与
 ```mermaid
 xychart-beta
     title "com-vitthalmirji/toon4s 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

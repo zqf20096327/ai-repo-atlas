@@ -1,6 +1,6 @@
 # seehiong/multi-model-chat
 
-⭐ 163 · TypeScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/seehiong/multi-model-chat) · [官网](https://seehiong.github.io/multi-model-chat/) · 个人维护
+⭐ 162 · TypeScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/seehiong/multi-model-chat) · [官网](https://seehiong.github.io/multi-model-chat/) · 个人维护
 
 **网页聊天应用：同时向多个大模型提问并实时对比回答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seehiong/multi-model-chat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "seehiong/multi-model-chat 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 160 --> 164
-    line [162, 161, 162, 163, 163]
+    line [162, 161, 162, 163, 162, 163, 162, 162]
 ```
 
-2026-10-18 162 → 2026-11-02 163（+1）
+2026-10-18 162 → 2026-11-17 162（+0）
 
 
 ---

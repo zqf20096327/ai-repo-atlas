@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_OpenMontage
 
-⭐ 57 · Python · 推送 2026-06-22 · [GitHub](https://github.com/47thtechcorner/RayCodes_OpenMontage) · [官网](https://youtu.be/FyM-0sJYIR8) · 个人维护
+⭐ 70 · Python · 推送 2026-06-22 · [GitHub](https://github.com/47thtechcorner/RayCodes_OpenMontage) · [官网](https://youtu.be/FyM-0sJYIR8) · 个人维护
 
 **本地 AI 视频生成系统：用 Ollama 与 FFmpeg 自动剪辑成片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "47thtechcorner/RayCodes_OpenMontage 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 58
-    line [43, 46, 49, 50, 51, 52, 53, 54, 55, 57]
+    title "47thtechcorner/RayCodes_OpenMontage 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 72
+    line [43, 46, 49, 50, 51, 52, 53, 54, 55, 57, 51, 63, 65, 66, 67, 69, 70, 70]
 ```
 
-2026-10-18 43 → 2026-11-02 57（+14）
+2026-10-18 43 → 2026-11-17 70（+27）
 
 
 ---

@@ -1,6 +1,6 @@
 # BigJk/snd
 
-⭐ 677 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/BigJk/snd) · [官网](https://sales-and-dungeons.app/) · 个人维护
+⭐ 679 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/BigJk/snd) · [官网](https://sales-and-dungeons.app/) · 个人维护
 
 **用热敏打印机为 D&D 跑团打印手办物、法术卡等资料的桌面工具**
 
@@ -45,13 +45,13 @@ Sales & Dungeons 是面向龙与地下城等桌上角色扮演游戏 GM/DM 的�
 
 ```mermaid
 xychart-beta
-    title "BigJk/snd 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 673 --> 678
-    line [676, 674, 675, 676, 677]
+    title "BigJk/snd 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 673 --> 680
+    line [676, 674, 675, 676, 677, 674, 679, 679]
 ```
 
-2026-10-18 676 → 2026-11-02 677（+1）
+2026-10-18 676 → 2026-11-17 679（+3）
 
 
 ---

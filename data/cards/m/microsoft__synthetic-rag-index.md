@@ -1,6 +1,6 @@
 # microsoft/synthetic-rag-index
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/synthetic-rag-index) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Azure 无服务器文档导入与合成索引服务，服务 RAG 场景**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/synthetic-rag-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-07 38（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # eugeniughelbur/jev-engineering
 
-⭐ 13 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/eugeniughelbur/jev-engineering) · [官网](https://eugeniughelbur.github.io/jev-engineering/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/eugeniughelbur/jev-engineering) · [官网](https://eugeniughelbur.github.io/jev-engineering/) · 个人维护
 
 **基于 Jev 模型的编码代理守门与审查路由工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eugeniughelbur/jev-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13, 13]
+    title "eugeniughelbur/jev-engineering 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 13, 11, 15, 16, 16]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 16（+6）
 
 
 ---

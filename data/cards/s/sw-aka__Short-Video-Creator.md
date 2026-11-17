@@ -1,6 +1,6 @@
 # sw-aka/Short-Video-Creator
 
-⭐ 185 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/sw-aka/Short-Video-Creator) · 个人维护
+⭐ 191 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/sw-aka/Short-Video-Creator) · 个人维护
 
 **本地生成带 AI 字幕与背景视频的短视频剪辑工具**
 
@@ -45,13 +45,13 @@ Python CLI 工具，将输入视频自动剪辑为带背景视频与 AI 生成�
 
 ```mermaid
 xychart-beta
-    title "sw-aka/Short-Video-Creator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 183 --> 186
-    line [184, 185, 185]
+    title "sw-aka/Short-Video-Creator 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 183 --> 192
+    line [184, 185, 188, 189, 190, 191, 191]
 ```
 
-2026-10-18 184 → 2026-11-02 185（+1）
+2026-10-18 184 → 2026-11-17 191（+7）
 
 
 ---

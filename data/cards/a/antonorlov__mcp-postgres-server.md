@@ -1,6 +1,6 @@
 # antonorlov/mcp-postgres-server
 
-⭐ 24 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/antonorlov/mcp-postgres-server) · [官网](https://www.npmjs.com/package/mcp-postgres-server) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/antonorlov/mcp-postgres-server) · [官网](https://www.npmjs.com/package/mcp-postgres-server) · 个人维护
 
 **让 MCP 客户端通过工具查询 PostgreSQL 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "antonorlov/mcp-postgres-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "antonorlov/mcp-postgres-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

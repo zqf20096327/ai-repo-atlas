@@ -1,6 +1,6 @@
 # thu-nics/MARSHAL
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/thu-nics/MARSHAL) · [官网](https://thu-nics.github.io/MARSHAL/) · 组织维护 · 中文 README
+⭐ 59 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/thu-nics/MARSHAL) · [官网](https://thu-nics.github.io/MARSHAL/) · 组织维护 · 中文 README
 
 **多智能体博弈自博弈强化学习框架：训练战略性 LLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thu-nics/MARSHAL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    title "thu-nics/MARSHAL 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 57, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

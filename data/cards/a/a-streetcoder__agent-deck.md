@@ -1,6 +1,6 @@
 # a-streetcoder/agent-deck
 
-⭐ 120 · Swift · MIT · 推送 2026-08-01 · [GitHub](https://github.com/a-streetcoder/agent-deck) · [官网](https://agentdeck.site) · 个人维护
+⭐ 124 · Swift · MIT · 推送 2026-08-01 · [GitHub](https://github.com/a-streetcoder/agent-deck) · [官网](https://agentdeck.site) · 个人维护
 
 **运行 Pi 编码 agent 的原生 macOS 工作台应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "a-streetcoder/agent-deck 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 117 --> 121
-    line [118, 119, 120, 120]
+    title "a-streetcoder/agent-deck 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 117 --> 125
+    line [118, 119, 120, 119, 122, 123, 124, 124]
 ```
 
-2026-10-18 118 → 2026-11-02 120（+2）
+2026-10-18 118 → 2026-11-17 124（+6）
 
 
 ---

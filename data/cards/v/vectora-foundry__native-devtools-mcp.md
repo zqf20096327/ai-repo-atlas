@@ -1,6 +1,6 @@
 # vectora-foundry/native-devtools-mcp
 
-⭐ 141 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/vectora-foundry/native-devtools-mcp) · [官网](https://www.npmjs.com/package/native-devtools-mcp) · 组织维护
+⭐ 142 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/vectora-foundry/native-devtools-mcp) · [官网](https://www.npmjs.com/package/native-devtools-mcp) · 组织维护
 
 **本地 MCP 服务器：让 AI agent 操控桌面、浏览器与安卓设备**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vectora-foundry/native-devtools-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 137 --> 142
-    line [138, 139, 140, 141, 141]
+    title "vectora-foundry/native-devtools-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 137 --> 143
+    line [138, 139, 140, 141, 139, 141, 142, 142]
 ```
 
-2026-10-18 138 → 2026-11-02 141（+3）
+2026-10-18 138 → 2026-11-17 142（+4）
 
 
 ---

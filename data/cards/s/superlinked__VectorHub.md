@@ -1,6 +1,6 @@
 # superlinked/VectorHub
 
-⭐ 533 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/superlinked/VectorHub) · [官网](https://superlinked.com/examples/) · 组织维护
+⭐ 536 · Jupyter Notebook · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/superlinked/VectorHub) · [官网](https://superlinked.com/examples/) · 组织维护
 
 **向量检索学习资源库：帮助开发者入门向量检索与选型**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "superlinked/VectorHub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 530 --> 534
-    line [531, 532, 533, 533]
+    title "superlinked/VectorHub 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 530 --> 537
+    line [531, 532, 533, 534, 535, 536, 536]
 ```
 
-2026-10-18 531 → 2026-11-02 533（+2）
+2026-10-18 531 → 2026-11-17 536（+5）
 
 
 ---

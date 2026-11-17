@@ -1,6 +1,6 @@
 # eliranwong/biblemate
 
-⭐ 23 · 推送 2026-07-11 · [GitHub](https://github.com/eliranwong/biblemate) · [官网](https://biblemate.ai) · 个人维护 · 中文 README
+⭐ 25 · 推送 2026-07-11 · [GitHub](https://github.com/eliranwong/biblemate) · [官网](https://biblemate.ai) · 个人维护 · 中文 README
 
 **自主 AI agent 驱动的圣经研读套件，多接口提供**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eliranwong/biblemate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "eliranwong/biblemate 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

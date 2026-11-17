@@ -1,6 +1,6 @@
 # morpheuslord/HackBot
 
-⭐ 365 · Python · 推送 2026-09-19 · [GitHub](https://github.com/morpheuslord/HackBot) · 个人维护
+⭐ 367 · Python · 推送 2026-09-19 · [GitHub](https://github.com/morpheuslord/HackBot) · 个人维护
 
 **面向网络安全学生的多 agent 网络安全研究与代码分析聊天应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "morpheuslord/HackBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 364 --> 367
-    line [366, 365, 365]
+    title "morpheuslord/HackBot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 364 --> 368
+    line [366, 365, 366, 365, 367, 367]
 ```
 
-2026-10-18 366 → 2026-11-02 365（-1）
+2026-10-18 366 → 2026-11-17 367（+1）
 
 
 ---

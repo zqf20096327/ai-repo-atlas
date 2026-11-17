@@ -1,6 +1,6 @@
 # Rudra-DB/rudradb-opin-examples
 
-⭐ 29 · 推送 2026-03-03 · [GitHub](https://github.com/Rudra-DB/rudradb-opin-examples) · [官网](https://rudradb.com) · 组织维护
+⭐ 30 · 推送 2026-03-03 · [GitHub](https://github.com/Rudra-DB/rudradb-opin-examples) · [官网](https://rudradb.com) · 组织维护
 
 **关系感知向量数据库 RudraDB-Opin 免费版的示例代码仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rudra-DB/rudradb-opin-examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "Rudra-DB/rudradb-opin-examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

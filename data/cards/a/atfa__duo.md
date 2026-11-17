@@ -1,6 +1,6 @@
 # atfa/duo
 
-⭐ 18 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/atfa/duo) · [官网](https://xduo.dev/) · 个人维护
+⭐ 18 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/atfa/duo) · [官网](https://xduo.dev/) · 个人维护
 
 **协调两个编码 agent 在隔离 Git worktree 中协作与交叉审查的 CLI 工具**
 
@@ -46,12 +46,12 @@ Duo 在同一仓库的两个独立 Git worktree 中运行两个编码 agent（Au
 ```mermaid
 xychart-beta
     title "atfa/duo 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
+    x-axis ["2026-10-26", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-26 18 → 2026-11-02 18（+0）
+2026-10-26 18 → 2026-11-17 18（+0）
 
 
 ---

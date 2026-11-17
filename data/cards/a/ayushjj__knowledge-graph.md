@@ -1,6 +1,6 @@
 # ayushjj/knowledge-graph
 
-⭐ 15 · TypeScript · ISC · 推送 2026-10-27 · [GitHub](https://github.com/ayushjj/knowledge-graph) · [官网](https://ayushjj.github.io/knowledge-graph/) · 个人维护
+⭐ 15 · TypeScript · ISC · 推送 2026-11-07 · [GitHub](https://github.com/ayushjj/knowledge-graph) · [官网](https://ayushjj.github.io/knowledge-graph/) · 个人维护
 
 **AI 产品构建与思维模型的个人知识图谱（266 条洞见）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ayushjj/knowledge-graph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

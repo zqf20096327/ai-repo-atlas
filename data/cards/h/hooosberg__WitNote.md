@@ -1,6 +1,6 @@
 # hooosberg/WitNote
 
-⭐ 568 · TypeScript · 推送 2026-10-13 · [GitHub](https://github.com/hooosberg/WitNote) · [官网](https://hooosberg.com/apps/witnote/) · 个人维护 · 中文 README
+⭐ 571 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/WitNote) · [官网](https://hooosberg.com/apps/witnote/) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 双栏编辑器，带离线/云端 AI 写作辅助**
 
@@ -45,13 +45,13 @@ Electron 构建的开源跨平台 Markdown 笔记编辑器，主打双栏编辑�
 
 ```mermaid
 xychart-beta
-    title "hooosberg/WitNote 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 566 --> 571
-    line [570, 569, 568, 567, 568, 568]
+    title "hooosberg/WitNote 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 566 --> 572
+    line [570, 569, 568, 567, 568, 567, 569, 570, 571, 571]
 ```
 
-2026-10-18 570 → 2026-11-02 568（-2）
+2026-10-18 570 → 2026-11-17 571（+1）
 
 
 ---

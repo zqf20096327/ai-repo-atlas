@@ -1,6 +1,6 @@
 # Ju571nK/lodeline
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Ju571nK/lodeline) · [官网](https://lodeline.dev) · 个人维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Ju571nK/lodeline) · [官网](https://lodeline.dev) · 个人维护
 
 **扫描 AI 编程 agent 配置并评分暴露风险的安全工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ju571nK/lodeline 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16]
+    title "Ju571nK/lodeline 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-11-01 15 → 2026-11-02 16（+1）
+2026-11-01 15 → 2026-11-17 17（+2）
 
 
 ---

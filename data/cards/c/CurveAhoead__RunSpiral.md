@@ -1,6 +1,6 @@
 # CurveAhoead/RunSpiral
 
-⭐ 14 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/CurveAhoead/RunSpiral) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/CurveAhoead/RunSpiral) · 个人维护
 
 **给开发者的 AI 运行可复现性分析器：评测重复运行的稳定性**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CurveAhoead/RunSpiral 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 20
-    line [19, 18, 15, 14, 14]
+    title "CurveAhoead/RunSpiral 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 20
+    line [19, 18, 15, 14, 15, 14, 13, 13]
 ```
 
-2026-10-18 19 → 2026-11-02 14（-5）
+2026-10-18 19 → 2026-11-17 13（-6）
 
 
 ---

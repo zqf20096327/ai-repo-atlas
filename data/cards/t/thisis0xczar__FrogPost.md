@@ -1,6 +1,6 @@
 # thisis0xczar/FrogPost
 
-⭐ 108 · JavaScript · 推送 2025-12-04 · [GitHub](https://github.com/thisis0xczar/FrogPost) · 个人维护
+⭐ 110 · JavaScript · 推送 2025-12-04 · [GitHub](https://github.com/thisis0xczar/FrogPost) · 个人维护
 
 **测试 iframe postMessage 通信安全漏洞的 Chrome 扩展**
 
@@ -45,13 +45,13 @@ Chrome 扩展，面向 Web 安全测试人员：实时捕获 iframe 间 postMess
 
 ```mermaid
 xychart-beta
-    title "thisis0xczar/FrogPost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    title "thisis0xczar/FrogPost 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 107 --> 111
+    line [108, 110, 110]
 ```
 
-2026-10-18 108 → 2026-11-02 108（+0）
+2026-10-18 108 → 2026-11-17 110（+2）
 
 
 ---

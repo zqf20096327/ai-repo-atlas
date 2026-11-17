@@ -1,6 +1,6 @@
 # noemaai-labs/noema-atlas
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/noemaai-labs/noema-atlas) · 组织维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/noemaai-labs/noema-atlas) · 组织维护
 
 **本地 LLM 权重文件的 P2P 多源分发与校验网络**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "noemaai-labs/noema-atlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "noemaai-labs/noema-atlas 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

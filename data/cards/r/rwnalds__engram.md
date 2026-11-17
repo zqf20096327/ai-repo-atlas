@@ -1,6 +1,6 @@
 # rwnalds/engram
 
-⭐ 20 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/rwnalds/engram) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/rwnalds/engram) · 个人维护
 
 **自托管 MCP 记忆服务器：让多个 AI agent 共享读写 git 化 markdown 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rwnalds/engram 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 20]
+    title "rwnalds/engram 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 18, 20, 17, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 16 → 2026-11-02 20（+4）
+2026-10-18 16 → 2026-11-17 23（+7）
 
 
 ---

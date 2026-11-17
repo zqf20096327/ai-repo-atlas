@@ -1,6 +1,6 @@
 # microsoft/m365-copilot-automated-readiness-assessment
 
-⭐ 98 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/microsoft/m365-copilot-automated-readiness-assessment) · [官网](https://aka.ms/MARA) · 组织维护
+⭐ 101 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/microsoft/m365-copilot-automated-readiness-assessment) · [官网](https://aka.ms/MARA) · 组织维护
 
 **评估 M365 租户部署 Copilot 与 Agent 就绪度的自动化工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/m365-copilot-automated-readiness-assessment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 95 --> 99
-    line [96, 97, 98]
+    title "microsoft/m365-copilot-automated-readiness-assessment 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 95 --> 102
+    line [96, 97, 98, 97, 98, 100, 101, 101]
 ```
 
-2026-10-18 96 → 2026-11-02 98（+2）
+2026-10-18 96 → 2026-11-17 101（+5）
 
 
 ---

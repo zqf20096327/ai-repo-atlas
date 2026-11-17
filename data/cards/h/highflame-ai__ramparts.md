@@ -1,6 +1,6 @@
 # highflame-ai/ramparts
 
-⭐ 98 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/highflame-ai/ramparts) · [官网](https://www.highflame.com) · 组织维护
+⭐ 99 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/highflame-ai/ramparts) · [官网](https://www.highflame.com) · 组织维护
 
 **MCP 服务器与 AI agent 技能文件的安全扫描器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "highflame-ai/ramparts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "highflame-ai/ramparts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

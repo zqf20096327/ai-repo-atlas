@@ -1,6 +1,6 @@
 # intrance7/Zeravynex
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/intrance7/Zeravynex) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/intrance7/Zeravynex) · 个人维护
 
 **面向 Windows PE 文件的可解释 AI 静态恶意软件分析平台**
 
@@ -44,13 +44,13 @@ Zeravynex 是对 Windows PE（.exe/.dll）文件做静态恶意软件分析与�
 
 ```mermaid
 xychart-beta
-    title "intrance7/Zeravynex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "intrance7/Zeravynex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

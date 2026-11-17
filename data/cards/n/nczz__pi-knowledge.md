@@ -1,6 +1,6 @@
 # nczz/pi-knowledge
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/nczz/pi-knowledge) · [官网](https://www.npmjs.com/package/pi-knowledge) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/nczz/pi-knowledge) · [官网](https://www.npmjs.com/package/pi-knowledge) · 个人维护
 
 **给 Pi/OMP 编程 agent 的本地优先 RAG 知识库**
 
@@ -45,13 +45,13 @@ Pi 原生扩展（兼容 OMP）的本地优先知识库工具：将代码库、�
 
 ```mermaid
 xychart-beta
-    title "nczz/pi-knowledge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 29, 31, 32, 32]
+    title "nczz/pi-knowledge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 35
+    line [27, 28, 29, 31, 32, 31, 34, 34]
 ```
 
-2026-10-18 27 → 2026-11-02 32（+5）
+2026-10-18 27 → 2026-11-17 34（+7）
 
 
 ---

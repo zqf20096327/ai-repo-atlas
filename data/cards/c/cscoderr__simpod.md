@@ -1,6 +1,6 @@
 # cscoderr/simpod
 
-⭐ 26 · Dart · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/cscoderr/simpod) · 个人维护
+⭐ 27 · Dart · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/cscoderr/simpod) · 个人维护
 
 **从浏览器/终端/AI agent 远程串流并控制 iOS 模拟器**
 
@@ -44,13 +44,13 @@ Simpod 通过原生 Swift helper 捕获 iOS 模拟器画面（H.264 60FPS、MJPE
 
 ```mermaid
 xychart-beta
-    title "cscoderr/simpod 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "cscoderr/simpod 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

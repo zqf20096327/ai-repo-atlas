@@ -1,6 +1,6 @@
 # Dmatut7/AgentHub
 
-⭐ 44 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/Dmatut7/AgentHub) · [官网](https://github.com/Dmatut7/AgentHub#readme) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/Dmatut7/AgentHub) · [官网](https://github.com/Dmatut7/AgentHub#readme) · 个人维护
 
 **多 AI Agent 协作编排框架：一条命令启动 5 Agent 开发团队**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dmatut7/AgentHub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "Dmatut7/AgentHub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43, 44, 43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

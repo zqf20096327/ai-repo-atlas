@@ -45,13 +45,13 @@ OpenGuardrails (OGR) 是一个 Apache-2.0 协议规范 monorepo，定义 agent �
 
 ```mermaid
 xychart-beta
-    title "openguardrails/openguardrails 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01"]
+    title "openguardrails/openguardrails 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 60]
+    line [57, 58, 59, 60, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-01 60（+3）
+2026-10-18 57 → 2026-11-07 59（+2）
 
 
 ---

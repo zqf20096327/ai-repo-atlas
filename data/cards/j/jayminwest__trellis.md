@@ -1,6 +1,6 @@
 # jayminwest/trellis
 
-⭐ 47 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jayminwest/trellis) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/jayminwest/trellis) · 个人维护
 
 **面向 TypeScript 代码库的结构性债务离线度量与审计 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jayminwest/trellis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "jayminwest/trellis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [47, 46, 46]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 46（-1）
 
 
 ---

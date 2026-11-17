@@ -1,6 +1,6 @@
 # OnlyTerp/turboquant
 
-⭐ 85 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/OnlyTerp/turboquant) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/OnlyTerp/turboquant) · 个人维护
 
 **Google TurboQuant 论文的开源实现：LLM 推理的 KV cache 量化压缩**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OnlyTerp/turboquant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "OnlyTerp/turboquant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 83 --> 88
+    line [84, 85, 86, 87, 87]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 87（+3）
 
 
 ---

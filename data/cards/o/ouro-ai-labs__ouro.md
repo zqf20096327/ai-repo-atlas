@@ -1,6 +1,6 @@
 # ouro-ai-labs/ouro
 
-⭐ 46 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/ouro-ai-labs/ouro) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/ouro-ai-labs/ouro) · 组织维护
 
 **开源 AI agent：可作编码 CLI 或部署为 IM 机器人**
 
@@ -45,13 +45,13 @@ Ouro 是一个统一 agent 核心的开源 AI agent，提供两种部署模式�
 
 ```mermaid
 xychart-beta
-    title "ouro-ai-labs/ouro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46, 46]
+    title "ouro-ai-labs/ouro 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [44, 45, 46, 45, 47, 47]
 ```
 
-2026-10-18 44 → 2026-11-02 46（+2）
+2026-10-18 44 → 2026-11-17 47（+3）
 
 
 ---

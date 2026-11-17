@@ -1,6 +1,6 @@
 # xgpxg/aiway
 
-⭐ 55 · Rust · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/xgpxg/aiway) · [官网](https://xgpxg.github.io/aiway/) · 个人维护 · 中文 README
+⭐ 57 · Rust · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/xgpxg/aiway) · [官网](https://xgpxg.github.io/aiway/) · 个人维护 · 中文 README
 
 **Rust 编写的 API + AI 融合网关，供开发/运维转发管理请求**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xgpxg/aiway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "xgpxg/aiway 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 58
+    line [55, 57, 57]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 57（+2）
 
 
 ---

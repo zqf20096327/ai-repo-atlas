@@ -1,6 +1,6 @@
 # Auxx-Ai/auxx-ai
 
-⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Auxx-Ai/auxx-ai) · [官网](https://auxx.ai) · 组织维护
+⭐ 28 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Auxx-Ai/auxx-ai) · [官网](https://auxx.ai) · 组织维护
 
 **面向 Shopify 商家的开源 AI 邮件客服工单 CRM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Auxx-Ai/auxx-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Auxx-Ai/auxx-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

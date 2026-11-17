@@ -1,6 +1,6 @@
 # mark2008chen-sudo/qwen-image2.1-uncensored-comfyui
 
-⭐ 14 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mark2008chen-sudo/qwen-image2.1-uncensored-comfyui) · [官网](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mark2008chen-sudo/qwen-image2.1-uncensored-comfyui) · [官网](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) · 个人维护 · 中文 README
 
 **ComfyUI 上部署 Qwen-Image-2.1 Uncensored GGUF 的一站式配套套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mark2008chen-sudo/qwen-image2.1-uncensored-comfyui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "mark2008chen-sudo/qwen-image2.1-uncensored-comfyui 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 10, 12, 14, 14]
+    line [10, 11, 10, 12, 14, 11, 13, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 14（+4）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

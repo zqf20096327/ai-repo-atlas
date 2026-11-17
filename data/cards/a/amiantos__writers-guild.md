@@ -1,6 +1,6 @@
 # amiantos/writers-guild
 
-⭐ 14 · JavaScript · MPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/amiantos/writers-guild) · 个人维护
+⭐ 14 · JavaScript · MPL-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/amiantos/writers-guild) · 个人维护
 
 **面向短篇小说写作的自托管 AI 应用，兼容 Tavern 角色卡**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amiantos/writers-guild 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

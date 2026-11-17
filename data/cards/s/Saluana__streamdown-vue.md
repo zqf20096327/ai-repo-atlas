@@ -1,6 +1,6 @@
 # Saluana/streamdown-vue
 
-⭐ 53 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Saluana/streamdown-vue) · 个人维护
+⭐ 53 · TypeScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Saluana/streamdown-vue) · 个人维护
 
 **Vue 3/Nuxt 3 的流式 Markdown 渲染组件，供 LLM 输出逐块展示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Saluana/streamdown-vue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

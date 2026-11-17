@@ -1,6 +1,6 @@
 # fucusy/gomoku-first-move-always-win
 
-⭐ 155 · MIT · 推送 2025-11-18 · [GitHub](https://github.com/fucusy/gomoku-first-move-always-win) · [官网](http://www.bytedance.ai/gomoku.html) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **五子棋先手必胜 AI：证明数搜索求解先手获胜走法**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fucusy/gomoku-first-move-always-win 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 154 --> 156
     line [155, 155]
 ```
 
-2026-10-18 155 → 2026-11-02 155（+0）
+2026-10-18 155 → 2026-11-13 155（+0）
 
 
 ---

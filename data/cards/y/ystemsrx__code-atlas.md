@@ -1,6 +1,6 @@
 # ystemsrx/code-atlas
 
-⭐ 63 · C++ · MIT · 推送 2025-11-13 · [GitHub](https://github.com/ystemsrx/code-atlas) · [官网](https://huggingface.co/ystemsrx/Qwen2.5-Interpreter) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地运行脚本与代码的 C++ 智能体应用，Open Interpreter 的 C++ 实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ystemsrx/code-atlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-08 63（+0）
 
 
 ---

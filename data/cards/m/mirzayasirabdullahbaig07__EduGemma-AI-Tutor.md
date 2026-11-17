@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/EduGemma-AI-Tutor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/EduGemma-AI-Tutor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
     y-axis "stars" 41 --> 45
-    line [42, 44, 44]
+    line [42, 44, 42, 44, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

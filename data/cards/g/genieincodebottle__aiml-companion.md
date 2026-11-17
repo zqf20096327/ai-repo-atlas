@@ -1,6 +1,6 @@
 # genieincodebottle/aiml-companion
 
-⭐ 73 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/genieincodebottle/aiml-companion) · [官网](https://aimlcompanion.ai) · 个人维护
+⭐ 75 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/genieincodebottle/aiml-companion) · [官网](https://aimlcompanion.ai) · 个人维护
 
 **AI/ML 交互式学习平台及 24 个端到端配套项目仓库**
 
@@ -45,13 +45,13 @@ AI-ML Companion 是通过实时动画可视化和浏览器内可运行 Python �
 
 ```mermaid
 xychart-beta
-    title "genieincodebottle/aiml-companion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    title "genieincodebottle/aiml-companion 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 71 --> 76
+    line [72, 73, 72, 73, 74, 75, 75]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-17 75（+3）
 
 
 ---

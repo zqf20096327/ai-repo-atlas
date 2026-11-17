@@ -1,6 +1,6 @@
 # huggingface/hf-claude
 
-⭐ 22 · Shell · 推送 2026-08-13 · [GitHub](https://github.com/huggingface/hf-claude) · 组织维护
+⭐ 24 · Shell · 推送 2026-08-13 · [GitHub](https://github.com/huggingface/hf-claude) · 组织维护
 
 **hf CLI 扩展：通过 HF Inference Providers 启动 Claude Code**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/hf-claude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "huggingface/hf-claude 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

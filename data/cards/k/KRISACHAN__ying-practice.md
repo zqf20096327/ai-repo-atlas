@@ -1,6 +1,6 @@
 # KRISACHAN/ying-practice
 
-⭐ 43 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/KRISACHAN/ying-practice) · [官网](https://www.krissarea.com) · 个人维护 · 中文 README
+⭐ 44 · HTML · 推送 2026-11-14 · [GitHub](https://github.com/KRISACHAN/ying-practice) · [官网](https://www.krissarea.com) · 个人维护 · 中文 README
 
 **个人全栈与 AI Agent 学习实践仓库，记录实验与项目**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "KRISACHAN/ying-practice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "KRISACHAN/ying-practice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # evanofslack/pyminion
 
-⭐ 24 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/evanofslack/pyminion) · [官网](https://pypi.org/project/pyminion/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/evanofslack/pyminion) · [官网](https://pypi.org/project/pyminion/) · 个人维护
 
 **Dominion 卡牌游戏引擎与机器人对局模拟库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "evanofslack/pyminion 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
+    x-axis ["2026-10-31", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-31 24 → 2026-11-02 24（+0）
+2026-10-31 24 → 2026-11-17 24（+0）
 
 
 ---

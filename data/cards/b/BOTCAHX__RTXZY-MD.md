@@ -1,6 +1,6 @@
 # BOTCAHX/RTXZY-MD
 
-⭐ 465 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BOTCAHX/RTXZY-MD) · [官网](https://api.botcahx.eu.org) · 组织维护
+⭐ 468 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/BOTCAHX/RTXZY-MD) · [官网](https://api.botcahx.eu.org) · 组织维护
 
 **WhatsApp 多设备机器人：消息应答、媒体处理与 MCP 开发接口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BOTCAHX/RTXZY-MD 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 461 --> 467
-    line [463, 462, 464, 466, 465, 465]
+    title "BOTCAHX/RTXZY-MD 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 461 --> 469
+    line [463, 462, 464, 466, 465, 462, 466, 467, 468, 468]
 ```
 
-2026-10-18 463 → 2026-11-02 465（+2）
+2026-10-18 463 → 2026-11-17 468（+5）
 
 
 ---

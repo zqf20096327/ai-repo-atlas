@@ -1,6 +1,6 @@
 # LeandroPG19/Memorys
 
-⭐ 30 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/LeandroPG19/Memorys) · [官网](https://registry.modelcontextprotocol.io) · 个人维护
+⭐ 30 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/LeandroPG19/Memorys) · [官网](https://registry.modelcontextprotocol.io/?q=memory-industry) · 个人维护
 
 **给 AI 编程 agent 的持久记忆 MCP 服务器（Rust + PostgreSQL/pgvector）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LeandroPG19/Memorys 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

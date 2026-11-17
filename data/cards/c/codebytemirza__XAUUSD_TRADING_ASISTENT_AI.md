@@ -1,6 +1,6 @@
 # codebytemirza/XAUUSD_TRADING_ASISTENT_AI
 
-⭐ 150 · Python · 推送 2026-01-19 · [GitHub](https://github.com/codebytemirza/XAUUSD_TRADING_ASISTENT_AI) · [官网](https://www.linkedin.com/in/muhammad-abdullah-ai-ml-developer/) · 个人维护
+⭐ 156 · Python · 推送 2026-01-19 · [GitHub](https://github.com/codebytemirza/XAUUSD_TRADING_ASISTENT_AI) · [官网](https://www.linkedin.com/in/muhammad-abdullah-ai-ml-developer/) · 个人维护
 
 **黄金 XAUUSD 交易辅助：LLM 生成交易信号的 Streamlit 面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "codebytemirza/XAUUSD_TRADING_ASISTENT_AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 145 --> 151
-    line [146, 148, 149, 150, 150]
+    title "codebytemirza/XAUUSD_TRADING_ASISTENT_AI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 145 --> 157
+    line [146, 148, 149, 150, 149, 154, 155, 156, 156]
 ```
 
-2026-10-18 146 → 2026-11-02 150（+4）
+2026-10-18 146 → 2026-11-17 156（+10）
 
 
 ---

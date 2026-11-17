@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vstorm-co/agentcanvas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    title "vstorm-co/agentcanvas 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 84 --> 87
+    line [85, 86, 85, 85]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 85（+0）
 
 
 ---

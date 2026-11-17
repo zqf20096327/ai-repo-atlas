@@ -1,6 +1,6 @@
 # Nomily-Ai/nomily-app
 
-⭐ 1,015 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Nomily-Ai/nomily-app) · [官网](https://geekis.com) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **BYOK 录音转写与 AI 摘要的 iOS/Android 原生客户端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nomily-Ai/nomily-app 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1014 --> 1019
-    line [1018, 1015, 1015]
+    title "Nomily-Ai/nomily-app 星数(近 7 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15"]
+    y-axis "stars" 1005 --> 1019
+    line [1018, 1015, 1006, 1009, 1010, 1011, 1012]
 ```
 
-2026-10-31 1,018 → 2026-11-02 1,015（-3）
+2026-10-31 1,018 → 2026-11-15 1,012（-6）
 
 
 ---

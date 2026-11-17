@@ -1,6 +1,6 @@
 # fafaniuniu/awesome-make-money-projects
 
-⭐ 13 · MIT · 推送 2026-05-26 · [GitHub](https://github.com/fafaniuniu/awesome-make-money-projects) · 组织维护 · 中文 README
+⭐ 15 · MIT · 推送 2026-05-26 · [GitHub](https://github.com/fafaniuniu/awesome-make-money-projects) · 组织维护 · 中文 README
 
 **付费会员网站 gitcc.com 的企业级项目推广清单**
 
@@ -43,13 +43,13 @@ README 为 www.gitcc.com 的推广页，声称网站会员可下载大量企业�
 
 ```mermaid
 xychart-beta
-    title "fafaniuniu/awesome-make-money-projects 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "fafaniuniu/awesome-make-money-projects 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 11, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

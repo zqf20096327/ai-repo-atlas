@@ -1,6 +1,6 @@
 # actava-ai/Cura
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/actava-ai/Cura) · [官网](https://actava.ai/cura) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/actava-ai/Cura) · [官网](https://actava.ai/cura) · 组织维护
 
 **面向医疗的万亿参数模型 Cura 1T 及配套医学评测工具 cura-eval**
 
@@ -47,12 +47,12 @@ actAVA 发布的仓库，包含两部分：一是 Cura 1T，基于 Kimi-K2.6 微
 ```mermaid
 xychart-beta
     title "actava-ai/Cura 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 38（+0）
 
 
 ---

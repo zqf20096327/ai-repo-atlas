@@ -1,6 +1,6 @@
 # HunterLzap/rag-tender
 
-⭐ 95 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HunterLzap/rag-tender) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HunterLzap/rag-tender) · 个人维护 · 中文 README
 
 **面向招投标的本地化 RAG 工作台：标书解读、资质对标与填写建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HunterLzap/rag-tender 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    title "HunterLzap/rag-tender 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 96, 96]
 ```
 
-2026-10-18 94 → 2026-11-02 95（+1）
+2026-10-18 94 → 2026-11-17 96（+2）
 
 
 ---

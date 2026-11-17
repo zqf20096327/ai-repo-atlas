@@ -1,6 +1,6 @@
 # tanrikuluozlem/burn
 
-⭐ 102 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tanrikuluozlem/burn) · 个人维护
+⭐ 104 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tanrikuluozlem/burn) · 个人维护
 
 **Kubernetes 成本分析与账单核对的 CLI 工具**
 
@@ -45,13 +45,13 @@ Go 编写的 Kubernetes 成本工具：读取集群 API 与 Prometheus 用量数
 
 ```mermaid
 xychart-beta
-    title "tanrikuluozlem/burn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 93 --> 103
-    line [94, 95, 101, 102]
+    title "tanrikuluozlem/burn 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 93 --> 105
+    line [94, 95, 101, 102, 94, 103, 104, 104]
 ```
 
-2026-10-18 94 → 2026-11-02 102（+8）
+2026-10-18 94 → 2026-11-17 104（+10）
 
 
 ---

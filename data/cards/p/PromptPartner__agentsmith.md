@@ -1,6 +1,6 @@
 # PromptPartner/agentsmith
 
-⭐ 173 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PromptPartner/agentsmith) · [官网](https://agentsmith.diy) · 组织维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PromptPartner/agentsmith) · [官网](https://agentsmith.diy) · 组织维护 · 中文 README
 
 **面向编码 Agent 的项目规则与验证脚手架配置工具**
 
@@ -45,13 +45,13 @@ AgentSmith 是一个模型无关的开源 harness，为 Claude Code、Codex 等�
 
 ```mermaid
 xychart-beta
-    title "PromptPartner/agentsmith 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 171 --> 179
-    line [178, 173, 172, 173, 173]
+    title "PromptPartner/agentsmith 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 150 --> 180
+    line [178, 173, 172, 173, 172, 154, 152, 152]
 ```
 
-2026-10-18 178 → 2026-11-02 173（-5）
+2026-10-18 178 → 2026-11-17 152（-26）
 
 
 ---

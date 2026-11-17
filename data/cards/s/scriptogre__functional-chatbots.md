@@ -1,6 +1,6 @@
 # scriptogre/functional-chatbots
 
-⭐ 15 · Jinja · 推送 2026-06-10 · [GitHub](https://github.com/scriptogre/functional-chatbots) · [官网](https://djangocon2024.christiantanul.com) · 个人维护
+⭐ 15 · Jinja · 推送 2026-11-12 · [GitHub](https://github.com/scriptogre/functional-chatbots) · [官网](https://djangocon2024.christiantanul.com) · 个人维护
 
 **DjangoCon 2024 演示：LLM 函数调用驱动 UI 状态的 Django 聊天机器人**
 
@@ -45,12 +45,12 @@ Django + htmx 技术栈的演示应用：聊天接口一次往返返回聊天消
 ```mermaid
 xychart-beta
     title "scriptogre/functional-chatbots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

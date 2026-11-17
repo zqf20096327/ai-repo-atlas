@@ -1,6 +1,6 @@
 # waynesutton/builder-skills
 
-⭐ 405 · JavaScript · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/waynesutton/builder-skills) · [官网](https://www.npmjs.com/package/@waynesutton/builder-skills) · 个人维护
+⭐ 404 · JavaScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/waynesutton/builder-skills) · [官网](https://www.npmjs.com/package/@waynesutton/builder-skills) · 个人维护
 
 **给编码 Agent 用的 Convex 开发与项目工作流技能集（17 个）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "waynesutton/builder-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 404 --> 407
-    line [406, 405, 405]
+    title "waynesutton/builder-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 402 --> 407
+    line [406, 405, 403, 404, 404]
 ```
 
-2026-10-18 406 → 2026-11-02 405（-1）
+2026-10-18 406 → 2026-11-17 404（-2）
 
 
 ---

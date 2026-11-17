@@ -1,6 +1,6 @@
 # BovineOverlord/Loyal-Bear---The-SynthID-Scrambler
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) · 个人维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) · 个人维护
 
 **从 AI 生成图像中移除 SynthID 隐形水印的工具**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "BovineOverlord/Loyal-Bear---The-SynthID-Scrambler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "BovineOverlord/Loyal-Bear---The-SynthID-Scrambler 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 17, 16, 19, 20, 21, 21]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 21（+6）
 
 
 ---

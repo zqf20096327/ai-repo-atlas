@@ -1,6 +1,6 @@
 # liruifengv/amon-agent
 
-⭐ 181 · TypeScript · AGPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/liruifengv/amon-agent) · 个人维护 · 中文 README
+⭐ 182 · TypeScript · AGPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/liruifengv/amon-agent) · 个人维护 · 中文 README
 
 **运行在桌面上的 AI 协作助手，帮你写代码执行命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liruifengv/amon-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 180 --> 182
-    line [181, 181]
+    title "liruifengv/amon-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 180 --> 183
+    line [181, 182, 182]
 ```
 
-2026-10-18 181 → 2026-11-02 181（+0）
+2026-10-18 181 → 2026-11-17 182（+1）
 
 
 ---

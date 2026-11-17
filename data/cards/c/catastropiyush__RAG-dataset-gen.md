@@ -1,6 +1,6 @@
 # catastropiyush/RAG-dataset-gen
 
-⭐ 12 · Jupyter Notebook · 推送 2026-06-04 · [GitHub](https://github.com/catastropiyush/RAG-dataset-gen) · [官网](https://iopscience.iop.org/article/10.1088/2515-7639/ade1fa) · 个人维护
+⭐ 14 · Jupyter Notebook · 推送 2026-06-04 · [GitHub](https://github.com/catastropiyush/RAG-dataset-gen) · [官网](https://iopscience.iop.org/article/10.1088/2515-7639/ade1fa) · 个人维护
 
 **用 RAG/LLM 从文献摘要提取储氢材料数据集的科研 notebook 集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "catastropiyush/RAG-dataset-gen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12]
+    title "catastropiyush/RAG-dataset-gen 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

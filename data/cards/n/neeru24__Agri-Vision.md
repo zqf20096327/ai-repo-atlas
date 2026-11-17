@@ -1,6 +1,6 @@
 # neeru24/Agri-Vision
 
-⭐ 25 · Jupyter Notebook · MIT · 推送 2026-08-27 · [GitHub](https://github.com/neeru24/Agri-Vision) · [官网](https://agri-vision-3.onrender.com/) · 个人维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-11-08 · [GitHub](https://github.com/neeru24/Agri-Vision) · [官网](https://agri-vision-3.onrender.com/) · 个人维护
 
 **面向棉农与科研者的棉花图像生长阶段与病害检测系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neeru24/Agri-Vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

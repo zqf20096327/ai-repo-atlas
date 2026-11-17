@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-sol-attn
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/Saganaki22/ComfyUI-sol-attn) · [官网](https://nvlabs.github.io/Sana/Sol-Attn/) · 个人维护 · 中文 README
+⭐ 161 · Python · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/Saganaki22/ComfyUI-sol-attn) · [官网](https://nvlabs.github.io/Sana/Sol-Attn/) · 个人维护 · 中文 README
 
 **ComfyUI 稀疏注意力 Triton 内核补丁，面向消费级 NVIDIA GPU 视频扩散**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-sol-attn 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 153 --> 160
-    line [155, 154, 155, 156, 159, 159]
+    title "Saganaki22/ComfyUI-sol-attn 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 153 --> 162
+    line [155, 154, 155, 156, 159, 155, 159, 160, 161, 161]
 ```
 
-2026-10-18 155 → 2026-11-02 159（+4）
+2026-10-18 155 → 2026-11-17 161（+6）
 
 
 ---

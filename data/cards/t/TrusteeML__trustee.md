@@ -1,6 +1,6 @@
 # TrusteeML/trustee
 
-⭐ 36 · Python · GPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/TrusteeML/trustee) · 组织维护
+⭐ 37 · Python · GPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/TrusteeML/trustee) · 组织维护
 
 **从黑盒 ML 模型中提取决策树解释的框架**
 
@@ -43,13 +43,13 @@ Python 包 trustee，用于从黑盒机器学习模型中提取决策树形式�
 
 ```mermaid
 xychart-beta
-    title "TrusteeML/trustee 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    title "TrusteeML/trustee 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 35, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-02 36（+1）
+2026-10-18 35 → 2026-11-17 37（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # richardartoul/swarmd
 
-⭐ 32 · Go · BSD-3-Clause · 推送 2026-09-23 · [GitHub](https://github.com/richardartoul/swarmd) · 个人维护
+⭐ 33 · Go · BSD-3-Clause · 推送 2026-11-06 · [GitHub](https://github.com/richardartoul/swarmd) · 个人维护
 
 **多租户后台 Agent 运行时：以 YAML 定义、沙箱化安全运行**
 
@@ -44,13 +44,13 @@ Go 编写的多租户 agent 运行时（agent harness）：Agent 以 YAML 定义
 
 ```mermaid
 xychart-beta
-    title "richardartoul/swarmd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "richardartoul/swarmd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

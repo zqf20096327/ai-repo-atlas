@@ -1,6 +1,6 @@
 # Project-MONAI/MONAILabel
 
-⭐ 908 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Project-MONAI/MONAILabel) · [官网](https://monai.readthedocs.io/projects/label/en/latest/) · 组织维护
+⭐ 912 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Project-MONAI/MONAILabel) · [官网](https://monai.readthedocs.io/projects/label/en/latest/) · 组织维护
 
 **给放射/病理/内镜标注者的医学影像 AI 标注与主动学习工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Project-MONAI/MONAILabel 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 903 --> 909
-    line [904, 905, 906, 907, 908, 908]
+    title "Project-MONAI/MONAILabel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 903 --> 913
+    line [904, 905, 906, 907, 908, 906, 911, 912, 912]
 ```
 
-2026-10-18 904 → 2026-11-02 908（+4）
+2026-10-18 904 → 2026-11-17 912（+8）
 
 
 ---

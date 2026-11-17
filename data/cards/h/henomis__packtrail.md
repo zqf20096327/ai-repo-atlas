@@ -1,6 +1,6 @@
 # henomis/packtrail
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/henomis/packtrail) · [官网](https://simonevellei.com/packtrail) · 个人维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/henomis/packtrail) · [官网](https://simonevellei.com/packtrail) · 个人维护
 
 **基于 NATS JetStream 的持久化工作流引擎（Go）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "henomis/packtrail 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "henomis/packtrail 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-23 12 → 2026-11-02 13（+1）
+2026-10-23 12 → 2026-11-17 14（+2）
 
 
 ---

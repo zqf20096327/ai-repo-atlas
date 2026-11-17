@@ -1,6 +1,6 @@
 # FudanDISC/J1Bench
 
-⭐ 16 · Python · 推送 2026-04-07 · [GitHub](https://github.com/FudanDISC/J1Bench) · [官网](https://j1bench.github.io/) · 组织维护 · 中文 README
+⭐ 17 · Python · 推送 2026-04-07 · [GitHub](https://github.com/FudanDISC/J1Bench) · [官网](https://j1bench.github.io/) · 组织维护 · 中文 README
 
 **法律 LLM 智能体交互式评测基准（环境+数据+评测）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FudanDISC/J1Bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "FudanDISC/J1Bench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

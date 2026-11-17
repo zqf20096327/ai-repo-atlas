@@ -1,6 +1,6 @@
 # light-and-ray/sd-webui-replacer
 
-⭐ 242 · Python · 推送 2026-01-08 · [GitHub](https://github.com/light-and-ray/sd-webui-replacer) · 个人维护
+⭐ 241 · Python · 推送 2026-01-08 · [GitHub](https://github.com/light-and-ray/sd-webui-replacer) · 个人维护
 
 **sd-webui 扩展：按检测提示词自动遮罩并替换图片/视频中的物体**
 
@@ -44,13 +44,13 @@ AUTOMATIC1111/stable-diffusion-webui 的扩展标签页，也兼容 reForge 与 
 
 ```mermaid
 xychart-beta
-    title "light-and-ray/sd-webui-replacer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 241 --> 243
-    line [242, 242]
+    title "light-and-ray/sd-webui-replacer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 240 --> 243
+    line [242, 241, 241]
 ```
 
-2026-10-18 242 → 2026-11-02 242（+0）
+2026-10-18 242 → 2026-11-17 241（-1）
 
 
 ---

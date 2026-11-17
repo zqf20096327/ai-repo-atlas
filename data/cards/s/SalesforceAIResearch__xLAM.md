@@ -1,6 +1,6 @@
 # SalesforceAIResearch/xLAM
 
-⭐ 641 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/xLAM) · 组织维护
+⭐ 642 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/xLAM) · 组织维护
 
 **Salesforce 的大动作模型系列：面向 Agent 的函数调用与多轮对话模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SalesforceAIResearch/xLAM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 638 --> 642
-    line [639, 640, 641, 641]
+    title "SalesforceAIResearch/xLAM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 638 --> 643
+    line [639, 640, 641, 640, 642, 642]
 ```
 
-2026-10-18 639 → 2026-11-02 641（+2）
+2026-10-18 639 → 2026-11-17 642（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hmbown/Hegelion
 
-⭐ 175 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/Hmbown/Hegelion) · [官网](https://hegelion-web.pages.dev/) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/Hmbown/Hegelion) · [官网](https://hegelion-web.pages.dev/) · 个人维护
 
 **让 LLM 先自我对立再综合的辩证推理与自动编码 MCP 工具**
 
@@ -45,13 +45,13 @@ Hegelion 是一个 Python 库 + MCP 服务器，向 LLM 编辑器（Claude Deskt
 
 ```mermaid
 xychart-beta
-    title "Hmbown/Hegelion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 172 --> 176
-    line [173, 174, 175, 175]
+    title "Hmbown/Hegelion 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 172 --> 177
+    line [173, 174, 175, 174, 176, 176]
 ```
 
-2026-10-18 173 → 2026-11-02 175（+2）
+2026-10-18 173 → 2026-11-17 176（+3）
 
 
 ---

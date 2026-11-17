@@ -1,6 +1,6 @@
 # spytensor/openmozi
 
-⭐ 444 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/spytensor/openmozi) · 个人维护 · 中文 README
+⭐ 442 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/spytensor/openmozi) · 个人维护 · 中文 README
 
 **本地自托管的个人 AI Agent 桌面应用，执行任务交付文件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "spytensor/openmozi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 440 --> 488
-    line [484, 445, 444, 444]
+    title "spytensor/openmozi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 437 --> 488
+    line [484, 445, 444, 445, 441, 442, 442]
 ```
 
-2026-10-18 484 → 2026-11-02 444（-40）
+2026-10-18 484 → 2026-11-17 442（-42）
 
 
 ---

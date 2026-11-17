@@ -1,6 +1,6 @@
 # dshapi/AI-SPM
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/dshapi/AI-SPM) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/dshapi/AI-SPM) · 组织维护
 
 **企业级 AI 安全态势管理（AI-SPM）平台：发现并防护 AI 资产风险**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dshapi/AI-SPM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "dshapi/AI-SPM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 16, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

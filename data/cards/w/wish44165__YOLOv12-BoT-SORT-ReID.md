@@ -1,6 +1,6 @@
 # wish44165/YOLOv12-BoT-SORT-ReID
 
-⭐ 214 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/wish44165/YOLOv12-BoT-SORT-ReID) · [官网](https://anti-uav.github.io/) · 个人维护 · 中文 README
+⭐ 215 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/wish44165/YOLOv12-BoT-SORT-ReID) · [官网](https://anti-uav.github.io/) · 个人维护 · 中文 README
 
 **热红外视频中多无人机检测与跟踪的基线框架（YOLOv12+BoT-SORT-ReID）**
 
@@ -44,13 +44,13 @@ CVPR 2025 第 4 届 Anti-UAV Workshop & Challenge Track 3 季军方案：以 YOL
 
 ```mermaid
 xychart-beta
-    title "wish44165/YOLOv12-BoT-SORT-ReID 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 213 --> 215
-    line [214, 214]
+    title "wish44165/YOLOv12-BoT-SORT-ReID 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 213 --> 216
+    line [214, 215, 215]
 ```
 
-2026-10-18 214 → 2026-11-02 214（+0）
+2026-10-18 214 → 2026-11-17 215（+1）
 
 
 ---

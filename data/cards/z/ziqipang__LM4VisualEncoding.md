@@ -1,6 +1,6 @@
 # ziqipang/LM4VisualEncoding
 
-⭐ 246 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/ziqipang/LM4VisualEncoding) · [官网](https://arxiv.org/abs/2310.12973) · 组织维护
+⭐ 247 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/ziqipang/LM4VisualEncoding) · [官网](https://arxiv.org/abs/2310.12973) · 组织维护
 
 **ICLR 2024 论文官方代码：冻结 LLM Transformer 层作视觉编码器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ziqipang/LM4VisualEncoding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 244 --> 247
-    line [245, 246, 246]
+    title "ziqipang/LM4VisualEncoding 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 244 --> 248
+    line [245, 246, 245, 246, 247, 247]
 ```
 
-2026-10-18 245 → 2026-11-02 246（+1）
+2026-10-18 245 → 2026-11-17 247（+2）
 
 
 ---

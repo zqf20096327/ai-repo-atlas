@@ -1,6 +1,6 @@
 # tuhinsharma121/ai-playground
 
-⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/tuhinsharma121/ai-playground) · 个人维护
+⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/tuhinsharma121/ai-playground) · 个人维护
 
 **AI 技术文章与会议演讲的可复现代码笔记本合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuhinsharma121/ai-playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "tuhinsharma121/ai-playground 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 111 --> 114
-    line [112, 113, 113]
+    line [112, 113, 112, 113, 113]
 ```
 
-2026-10-18 112 → 2026-11-02 113（+1）
+2026-10-18 112 → 2026-11-17 113（+1）
 
 
 ---

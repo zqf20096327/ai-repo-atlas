@@ -1,6 +1,6 @@
 # alfadur7/llm-wiki-newsroom
 
-⭐ 173 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/alfadur7/llm-wiki-newsroom) · [官网](https://alfadur7.github.io/llm-wiki-newsroom/) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/alfadur7/llm-wiki-newsroom) · [官网](https://alfadur7.github.io/llm-wiki-newsroom/) · 个人维护
 
 **多角色 agent 新闻室：把文档自动整理成互链 markdown 维基**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alfadur7/llm-wiki-newsroom 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 169 --> 174
-    line [170, 171, 172, 173, 173]
+    title "alfadur7/llm-wiki-newsroom 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 169 --> 177
+    line [170, 171, 172, 173, 172, 173, 175, 176, 176]
 ```
 
-2026-10-18 170 → 2026-11-02 173（+3）
+2026-10-18 170 → 2026-11-17 176（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # staticroostermedia-arch/engram
 
-⭐ 19 · Rust · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/staticroostermedia-arch/engram) · [官网](https://glama.ai/mcp/servers/staticroostermedia-arch/engram) · 个人维护
+⭐ 21 · Rust · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/staticroostermedia-arch/engram) · [官网](https://glama.ai/mcp/servers/staticroostermedia-arch/engram) · 个人维护
 
 **给 AI agent 的本地持久几何记忆后端，经 MCP 接入**
 
@@ -45,13 +45,13 @@ Rust 编写的本地记忆基座：以 256KB 全息块（.leg3，8192D q/p、BLA
 
 ```mermaid
 xychart-beta
-    title "staticroostermedia-arch/engram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "staticroostermedia-arch/engram 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

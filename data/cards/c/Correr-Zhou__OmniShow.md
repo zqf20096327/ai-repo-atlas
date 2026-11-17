@@ -1,6 +1,6 @@
 # Correr-Zhou/OmniShow
 
-⭐ 474 · Python · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/Correr-Zhou/OmniShow) · [官网](https://correr-zhou.github.io/OmniShow/) · 组织维护 · 中文 README
+⭐ 477 · Python · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/Correr-Zhou/OmniShow) · [官网](https://correr-zhou.github.io/OmniShow/) · 组织维护 · 中文 README
 
 **人-物交互视频生成模型：统一文本/参考图/音频/姿态多模态条件**
 
@@ -44,13 +44,13 @@ OmniShow 是 ICML 2026 论文的官方代码库，面向人-物交互视频生�
 
 ```mermaid
 xychart-beta
-    title "Correr-Zhou/OmniShow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 473 --> 475
-    line [474, 474]
+    title "Correr-Zhou/OmniShow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 473 --> 478
+    line [474, 475, 476, 477, 477]
 ```
 
-2026-10-18 474 → 2026-11-02 474（+0）
+2026-10-18 474 → 2026-11-17 477（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # iofold/stablehand
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/iofold/stablehand) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/iofold/stablehand) · 组织维护
 
 **自托管 agent 运行时：定时运行代理，带审批、预算与运行回执**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iofold/stablehand 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 3 --> 14
-    line [4, 12, 13, 13]
+    title "iofold/stablehand 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 3 --> 16
+    line [4, 12, 13, 12, 14, 15, 15]
 ```
 
-2026-10-23 4 → 2026-11-02 13（+9）
+2026-10-23 4 → 2026-11-17 15（+11）
 
 
 ---

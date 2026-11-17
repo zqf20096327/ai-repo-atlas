@@ -1,6 +1,6 @@
 # Narrator-AI/NarratorAI
 
-⭐ 247 · TypeScript · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/Narrator-AI/NarratorAI) · [官网](https://ai.jieshuo.cn/) · 组织维护 · 中文 README
+⭐ 250 · TypeScript · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/Narrator-AI/NarratorAI) · [官网](https://ai.jieshuo.cn/) · 组织维护 · 中文 README
 
 **视频翻译与字幕处理平台：字幕提取、擦除、翻译、压制一体化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Narrator-AI/NarratorAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 246 --> 248
-    line [247, 247]
+    title "Narrator-AI/NarratorAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 246 --> 251
+    line [247, 250, 250]
 ```
 
-2026-10-18 247 → 2026-11-02 247（+0）
+2026-10-18 247 → 2026-11-17 250（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # merlinquantum/reproduced_papers
 
-⭐ 11 · Jupyter Notebook · MIT · 推送 2026-09-21 · [GitHub](https://github.com/merlinquantum/reproduced_papers) · [官网](https://merlinquantum.ai/reproduced_papers) · 组织维护
+⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/merlinquantum/reproduced_papers) · [官网](https://merlinquantum.ai/reproduced_papers) · 组织维护
 
 **量子机器学习论文的光子计算复现代码与基准结果集合**
 
@@ -46,12 +46,12 @@ MerLin 项目的研究子仓库，收录 30 余篇量子机器学习论文的复
 ```mermaid
 xychart-beta
     title "merlinquantum/reproduced_papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

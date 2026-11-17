@@ -1,6 +1,6 @@
 # yashmahajan10/llm-differential-privacy-gateway
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/yashmahajan10/llm-differential-privacy-gateway) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/yashmahajan10/llm-differential-privacy-gateway) · 个人维护
 
 **差分隐私网关：让不可信 LLM agent 安全查询敏感数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yashmahajan10/llm-differential-privacy-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "yashmahajan10/llm-differential-privacy-gateway 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

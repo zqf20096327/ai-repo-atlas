@@ -1,6 +1,6 @@
 # ng-galien/maket
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ng-galien/maket) · [官网](https://ng-galien.github.io/maket/) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ng-galien/maket) · [官网](https://ng-galien.github.io/maket/) · 个人维护 · 中文 README
 
 **给 AI 助手用的可视化设计工作台：HTML/CSS 画布生成海报/传单并导出 PDF**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ng-galien/maket 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "ng-galien/maket 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # termly-dev/termly-cli
 
-⭐ 318 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/termly-dev/termly-cli) · [官网](https://termly.dev) · 组织维护
+⭐ 320 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/termly-dev/termly-cli) · [官网](https://termly.dev) · 组织维护
 
 **从手机远程访问终端 AI 编码助手的 CLI 通道，端到端加密**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "termly-dev/termly-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 315 --> 319
-    line [316, 317, 318]
+    title "termly-dev/termly-cli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 315 --> 321
+    line [316, 317, 318, 316, 319, 320, 320]
 ```
 
-2026-10-18 316 → 2026-11-02 318（+2）
+2026-10-18 316 → 2026-11-17 320（+4）
 
 
 ---

@@ -44,13 +44,13 @@ Python 实现的 RAG 检索系统库，提供 Semantic、BM25、Hybrid（RRF 融
 
 ```mermaid
 xychart-beta
-    title "KazKozDev/production-rag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    title "KazKozDev/production-rag 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-07"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    line [24, 25, 24, 24]
 ```
 
-2026-10-18 24 → 2026-10-31 25（+1）
+2026-10-18 24 → 2026-11-07 24（+0）
 
 
 ---

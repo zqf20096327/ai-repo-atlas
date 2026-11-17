@@ -1,6 +1,6 @@
 # YeonwooSung/llm-architecture-from-scratch
 
-⭐ 1,108 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/YeonwooSung/llm-architecture-from-scratch) · 个人维护
+⭐ 856 · Python · BSD-3-Clause · 推送 2026-11-11 · [GitHub](https://github.com/YeonwooSung/llm-architecture-from-scratch) · 个人维护
 
 **用 PyTorch 从零复现主流 LLM 架构的教学实现合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YeonwooSung/llm-architecture-from-scratch 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 924 --> 1135
-    line [941, 1055, 1117, 1115, 1118, 1105, 1106, 1107, 1108, 1108]
+    title "YeonwooSung/llm-architecture-from-scratch 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 830 --> 1144
+    line [941, 1055, 1117, 1115, 1118, 1105, 1106, 1107, 1108, 1105, 891, 856, 856]
 ```
 
-2026-10-18 941 → 2026-11-02 1,108（+167）
+2026-10-18 941 → 2026-11-17 856（-85）
 
 
 ---

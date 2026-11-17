@@ -1,6 +1,6 @@
 # microsoft/ml-fundamentals
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-06-17 · [GitHub](https://github.com/microsoft/ml-fundamentals) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软维护的机器学习基础学习资源库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ml-fundamentals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-08 20（+0）
 
 
 ---

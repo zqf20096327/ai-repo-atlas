@@ -1,6 +1,6 @@
 # go-kratos/blades
 
-⭐ 818 · Go · MIT · 推送 2026-08-14 · [GitHub](https://github.com/go-kratos/blades) · [官网](https://go-kratos.dev/blades/) · 组织维护 · 中文 README
+⭐ 824 · Go · MIT · 推送 2026-08-14 · [GitHub](https://github.com/go-kratos/blades) · [官网](https://go-kratos.dev/blades/) · 组织维护 · 中文 README
 
 **Go 语言多模态 AI Agent 框架：构建可组合的智能体**
 
@@ -43,13 +43,13 @@ Blades 是用 Go 编写的多模态 AI Agent 框架，核心组件包括 Agent�
 
 ```mermaid
 xychart-beta
-    title "go-kratos/blades 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 815 --> 820
-    line [816, 817, 818, 819, 818, 818]
+    title "go-kratos/blades 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 815 --> 825
+    line [816, 817, 818, 819, 818, 819, 820, 824, 824]
 ```
 
-2026-10-18 816 → 2026-11-02 818（+2）
+2026-10-18 816 → 2026-11-17 824（+8）
 
 
 ---

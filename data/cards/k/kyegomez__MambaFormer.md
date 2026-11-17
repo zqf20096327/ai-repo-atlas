@@ -1,6 +1,6 @@
 # kyegomez/MambaFormer
 
-⭐ 23 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/kyegomez/MambaFormer) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/kyegomez/MambaFormer) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
 
 **PyTorch 实现的 MambaFormer 模型（论文复现库）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MambaFormer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

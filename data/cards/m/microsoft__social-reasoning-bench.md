@@ -1,6 +1,6 @@
 # microsoft/social-reasoning-bench
 
-⭐ 20 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/social-reasoning-bench) · [官网](https://microsoft.github.io/social-reasoning-bench/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/social-reasoning-bench) · [官网](https://microsoft.github.io/social-reasoning-bench/) · 组织维护
 
 **评测 LLM agent 社交推理能力的基准**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/social-reasoning-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "microsoft/social-reasoning-bench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

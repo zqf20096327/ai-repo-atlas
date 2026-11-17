@@ -1,6 +1,6 @@
 # Krigsexe/ai-rsk
 
-⭐ 30 · Rust · MIT · 推送 2026-03-19 · [GitHub](https://github.com/Krigsexe/ai-rsk) · [官网](https://airsk.organicascode.me) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-03-19 · [GitHub](https://github.com/Krigsexe/ai-rsk) · [官网](https://airsk.organicascode.me) · 个人维护
 
 **拦截 AI 生成代码安全风险的构建安全门 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Krigsexe/ai-rsk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "Krigsexe/ai-rsk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

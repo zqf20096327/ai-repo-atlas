@@ -1,6 +1,6 @@
 # alphaparkinc/genpark-immutable-double-entry-ledger-kernel-skill
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/alphaparkinc/genpark-immutable-double-entry-ledger-kernel-skill) · [官网](https://genpark.ai/mcp) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **零依赖 Python 双式记账引擎：借 贷平衡与哈希链审计，供 MCP agent 调用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "alphaparkinc/genpark-immutable-double-entry-ledger-kernel-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-10-18 7 → 2026-11-02 7（+0）
+2026-10-18 7 → 2026-11-07 7（+0）
 
 
 ---

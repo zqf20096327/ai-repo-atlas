@@ -1,6 +1,6 @@
 # helixml/helix
 
-⭐ 825 · Go · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/helixml/helix) · [官网](https://helix.ml) · 组织维护
+⭐ 832 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/helixml/helix) · [官网](https://helix.ml) · 组织维护
 
 **私有部署的编码 Agent 舰队平台：每 Agent 独立 GPU 桌面**
 
@@ -45,13 +45,13 @@ Helix 是面向团队的自托管 AI 编码 Agent 编排平台：将 Claude Code
 
 ```mermaid
 xychart-beta
-    title "helixml/helix 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 821 --> 826
-    line [822, 823, 824, 825, 825]
+    title "helixml/helix 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 821 --> 833
+    line [822, 823, 824, 825, 823, 829, 831, 832, 832]
 ```
 
-2026-10-18 822 → 2026-11-02 825（+3）
+2026-10-18 822 → 2026-11-17 832（+10）
 
 
 ---

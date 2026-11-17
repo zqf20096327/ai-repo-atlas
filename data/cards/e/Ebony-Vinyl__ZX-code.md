@@ -1,6 +1,6 @@
 # Ebony-Vinyl/ZX-code
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Ebony-Vinyl/ZX-code) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Ebony-Vinyl/ZX-code) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 编程 Agent，免 API Key 用国产大模型并带 3D 桌宠**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ebony-Vinyl/ZX-code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 19 --> 26
-    line [20, 22, 23, 24, 25, 25]
+    title "Ebony-Vinyl/ZX-code 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 19 --> 30
+    line [20, 22, 23, 24, 25, 23, 26, 28, 29, 29]
 ```
 
-2026-10-18 20 → 2026-11-02 25（+5）
+2026-10-18 20 → 2026-11-17 29（+9）
 
 
 ---

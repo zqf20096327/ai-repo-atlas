@@ -1,6 +1,6 @@
 # HisMax/awesome-openclaw-ob
 
-⭐ 225 · Python · 推送 2026-06-06 · [GitHub](https://github.com/HisMax/awesome-openclaw-ob) · 个人维护 · 中文 README
+⭐ 226 · Python · 推送 2026-06-06 · [GitHub](https://github.com/HisMax/awesome-openclaw-ob) · 个人维护 · 中文 README
 
 **OpenClaw 深度研究的 Obsidian 中文知识库：339 篇原子化笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HisMax/awesome-openclaw-ob 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 223 --> 226
-    line [224, 225, 225]
+    title "HisMax/awesome-openclaw-ob 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 223 --> 227
+    line [224, 225, 226, 226]
 ```
 
-2026-10-18 224 → 2026-11-02 225（+1）
+2026-10-18 224 → 2026-11-17 226（+2）
 
 
 ---

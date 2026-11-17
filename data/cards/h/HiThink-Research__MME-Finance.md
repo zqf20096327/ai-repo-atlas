@@ -1,6 +1,6 @@
 # HiThink-Research/MME-Finance
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/HiThink-Research/MME-Finance) · [官网](https://hithink-research.github.io/MME-Finance/) · 组织维护 · 中文 README
+⭐ 45 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/HiThink-Research/MME-Finance) · [官网](https://hithink-research.github.io/MME-Finance/) · 组织维护 · 中文 README
 
 **面向金融领域的双语多模态大模型评测基准**
 
@@ -45,13 +45,13 @@ MME-Finance 是一个双语（英文/中文）多模态金融评测基准，包�
 
 ```mermaid
 xychart-beta
-    title "HiThink-Research/MME-Finance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "HiThink-Research/MME-Finance 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kristofers322/LLMPeek
 
-⭐ 11 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/kristofers322/LLMPeek) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/kristofers322/LLMPeek) · 个人维护
 
 **本地 LLM 调用观测工具：在 localhost 面板实时查看全部请求**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kristofers322/LLMPeek 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "kristofers322/LLMPeek 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

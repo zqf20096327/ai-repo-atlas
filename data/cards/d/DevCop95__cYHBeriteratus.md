@@ -1,6 +1,6 @@
 # DevCop95/cYHBeriteratus
 
-⭐ 24 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/DevCop95/cYHBeriteratus) · 个人维护
+⭐ 26 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/DevCop95/cYHBeriteratus) · 个人维护
 
 **面向安全工程师的本地 LLM 网页客户端，接 Ollama 用 abliterated 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevCop95/cYHBeriteratus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    title "DevCop95/cYHBeriteratus 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

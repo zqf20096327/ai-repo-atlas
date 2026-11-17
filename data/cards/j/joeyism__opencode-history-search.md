@@ -1,6 +1,6 @@
 # joeyism/opencode-history-search
 
-⭐ 130 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/joeyism/opencode-history-search) · [官网](https://www.npmjs.com/package/opencode-history-search) · 个人维护
+⭐ 132 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/joeyism/opencode-history-search) · [官网](https://www.npmjs.com/package/opencode-history-search) · 个人维护
 
 **OpenCode 插件：按关键词/正则/模糊检索历史会话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joeyism/opencode-history-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 128 --> 131
-    line [129, 130, 130]
+    title "joeyism/opencode-history-search 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 128 --> 133
+    line [129, 130, 129, 132, 132]
 ```
 
-2026-10-18 129 → 2026-11-02 130（+1）
+2026-10-18 129 → 2026-11-17 132（+3）
 
 
 ---

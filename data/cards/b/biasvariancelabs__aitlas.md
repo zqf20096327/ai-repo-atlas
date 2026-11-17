@@ -1,6 +1,6 @@
 # biasvariancelabs/aitlas
 
-⭐ 234 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/biasvariancelabs/aitlas) · [官网](https://aitlas.readthedocs.io/) · 组织维护
+⭐ 232 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/biasvariancelabs/aitlas) · [官网](https://aitlas.readthedocs.io/) · 组织维护
 
 **面向遥感卫星影像分析的机器学习工具箱，含AI就绪数据集仓库**
 
@@ -45,13 +45,13 @@ AiTLAS（Artificial Intelligence Toolbox for Earth Observation）提供用于卫
 
 ```mermaid
 xychart-beta
-    title "biasvariancelabs/aitlas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 233 --> 236
-    line [235, 234, 234]
+    title "biasvariancelabs/aitlas 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 231 --> 236
+    line [235, 234, 235, 234, 232, 232]
 ```
 
-2026-10-18 235 → 2026-11-02 234（-1）
+2026-10-18 235 → 2026-11-17 232（-3）
 
 
 ---

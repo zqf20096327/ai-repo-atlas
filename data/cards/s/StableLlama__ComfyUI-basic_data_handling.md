@@ -1,6 +1,6 @@
 # StableLlama/ComfyUI-basic_data_handling
 
-⭐ 51 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/StableLlama/ComfyUI-basic_data_handling) · 个人维护
+⭐ 51 · Python · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/StableLlama/ComfyUI-basic_data_handling) · 个人维护
 
 **给 ComfyUI 用户的通用数据操作节点包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StableLlama/ComfyUI-basic_data_handling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [52, 51, 51]
+    title "StableLlama/ComfyUI-basic_data_handling 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [52, 51, 52, 50, 51, 51]
 ```
 
-2026-10-18 52 → 2026-11-02 51（-1）
+2026-10-18 52 → 2026-11-17 51（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aatricks/LightDiffusion-Next 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "Aatricks/LightDiffusion-Next 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

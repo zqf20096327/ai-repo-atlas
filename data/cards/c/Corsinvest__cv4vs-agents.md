@@ -1,6 +1,6 @@
 # Corsinvest/cv4vs-agents
 
-⭐ 17 · C# · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Corsinvest/cv4vs-agents) · [官网](https://marketplace.visualstudio.com/items?itemName=Corsinvest.cv4vs-agents) · 组织维护 · 中文 README
+⭐ 18 · C# · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Corsinvest/cv4vs-agents) · [官网](https://marketplace.visualstudio.com/items?itemName=Corsinvest.cv4vs-agents) · 组织维护 · 中文 README
 
 **把 Claude Code CLI 嵌入 Visual Studio 的 IDE 扩展**
 
@@ -45,13 +45,13 @@ Visual Studio 2022/2026 扩展，将 Claude Code CLI 接入 IDE：提供 WebView
 
 ```mermaid
 xychart-beta
-    title "Corsinvest/cv4vs-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [16, 15, 16, 17, 17]
+    title "Corsinvest/cv4vs-agents 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [16, 15, 16, 17, 16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

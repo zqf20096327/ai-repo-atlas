@@ -1,6 +1,6 @@
 # EzioDEVio/Doomsday-Cyberdeck
 
-⭐ 27 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/EzioDEVio/Doomsday-Cyberdeck) · 个人维护
+⭐ 30 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/EzioDEVio/Doomsday-Cyberdeck) · 个人维护
 
 **基于树莓派5的离线生存电脑DIY项目，带离线AI助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EzioDEVio/Doomsday-Cyberdeck 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    title "EzioDEVio/Doomsday-Cyberdeck 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 26, 28, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

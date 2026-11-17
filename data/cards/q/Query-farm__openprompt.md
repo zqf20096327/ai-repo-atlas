@@ -1,6 +1,6 @@
 # Query-farm/openprompt
 
-⭐ 62 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Query-farm/openprompt) · [官网](https://duckdb.org/community_extensions/extensions/open_prompt.html) · 组织维护
+⭐ 62 · C++ · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Query-farm/openprompt) · [官网](https://duckdb.org/community_extensions/extensions/open_prompt.html) · 组织维护
 
 **在 SQL 中调用 LLM 的 DuckDB 社区扩展**
 
@@ -46,12 +46,12 @@ DuckDB 社区扩展 open_prompt：提供 open_prompt() SQL 函数，向兼容 /v
 ```mermaid
 xychart-beta
     title "Query-farm/openprompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 62（+0）
 
 
 ---

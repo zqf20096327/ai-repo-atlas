@@ -1,6 +1,6 @@
 # gyrdym/ml_algo
 
-⭐ 198 · Dart · BSD-2-Clause · 推送 2026-07-26 · [GitHub](https://github.com/gyrdym/ml_algo) · [官网](https://gyrdym.github.io/ml_algo/) · 个人维护
+⭐ 198 · Dart · BSD-2-Clause · 推送 2026-11-08 · [GitHub](https://github.com/gyrdym/ml_algo) · [官网](https://gyrdym.github.io/ml_algo/) · 个人维护
 
 **Dart 原生机器学习算法库，供 Dart/Flutter 开发者做分类回归**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gyrdym/ml_algo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 197 --> 199
     line [198, 198]
 ```
 
-2026-10-18 198 → 2026-11-02 198（+0）
+2026-10-18 198 → 2026-11-17 198（+0）
 
 
 ---

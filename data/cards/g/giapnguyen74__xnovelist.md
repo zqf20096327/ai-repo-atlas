@@ -1,6 +1,6 @@
 # giapnguyen74/xnovelist
 
-⭐ 11 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/giapnguyen74/xnovelist) · [官网](https://giapnguyen74.github.io/xnovelist/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/giapnguyen74/xnovelist) · [官网](https://giapnguyen74.github.io/xnovelist/) · 个人维护
 
 **本地优先的开源长篇小说写作工具，AI 可选且分级可控**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "giapnguyen74/xnovelist 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "giapnguyen74/xnovelist 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-02 11（+1）
+2026-10-24 10 → 2026-11-17 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dtkmn/mcp-zap-server
 
-⭐ 68 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dtkmn/mcp-zap-server) · [官网](https://danieltse.org/mcp-zap-server/) · 个人维护
+⭐ 70 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/dtkmn/mcp-zap-server) · [官网](https://danieltse.org/mcp-zap-server/) · 个人维护
 
 **让 AI agent 安全操作 ZAP 扫描器的自托管 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dtkmn/mcp-zap-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    title "dtkmn/mcp-zap-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 66 --> 71
+    line [67, 68, 67, 69, 70, 70]
 ```
 
-2026-10-18 67 → 2026-11-02 68（+1）
+2026-10-18 67 → 2026-11-17 70（+3）
 
 
 ---

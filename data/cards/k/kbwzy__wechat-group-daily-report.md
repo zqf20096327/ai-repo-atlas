@@ -1,6 +1,6 @@
 # kbwzy/wechat-group-daily-report
 
-⭐ 27 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kbwzy/wechat-group-daily-report) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kbwzy/wechat-group-daily-report) · 个人维护 · 中文 README
 
 **把微信群聊一天生成可核查的图文日报的 Agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kbwzy/wechat-group-daily-report 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 28
-    line [12, 23, 24, 25, 26, 27]
+    title "kbwzy/wechat-group-daily-report 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 31
+    line [12, 23, 24, 25, 26, 27, 29, 30, 30]
 ```
 
-2026-10-26 12 → 2026-11-02 27（+15）
+2026-10-26 12 → 2026-11-17 30（+18）
 
 
 ---

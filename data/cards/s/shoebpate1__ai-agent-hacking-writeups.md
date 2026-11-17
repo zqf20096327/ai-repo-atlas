@@ -1,6 +1,6 @@
 # shoebpate1/ai-agent-hacking-writeups
 
-⭐ 47 · CC0-1.0 · 推送 2026-08-22 · [GitHub](https://github.com/shoebpate1/ai-agent-hacking-writeups) · [官网](https://research.shoebpatel.com/how-to-hack-ai-agents/) · 个人维护
+⭐ 52 · CC0-1.0 · 推送 2026-08-22 · [GitHub](https://github.com/shoebpate1/ai-agent-hacking-writeups) · [官网](https://research.shoebpatel.com/how-to-hack-ai-agents/) · 个人维护
 
 **AI agent 攻击公开报告汇编（281 篇），供学习 agent 测试**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "shoebpate1/ai-agent-hacking-writeups 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 41 --> 48
-    line [42, 43, 45, 47, 47]
+    title "shoebpate1/ai-agent-hacking-writeups 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 53
+    line [42, 43, 45, 47, 45, 48, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 42 → 2026-11-02 47（+5）
+2026-10-18 42 → 2026-11-17 52（+10）
 
 
 ---

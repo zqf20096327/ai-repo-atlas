@@ -1,6 +1,6 @@
 # JerrIsTheBesta/AI-Short-Drama-Studio
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) · 个人维护 · 中文 README
 
 **开源 AI 短剧创作工作台：剧本到成片的一站式生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JerrIsTheBesta/AI-Short-Drama-Studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 24 --> 34
-    line [25, 27, 30, 32, 33, 33]
+    title "JerrIsTheBesta/AI-Short-Drama-Studio 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 52
+    line [25, 27, 30, 32, 33, 32, 42, 44, 46, 47, 48, 50, 50]
 ```
 
-2026-10-18 25 → 2026-11-02 33（+8）
+2026-10-18 25 → 2026-11-17 50（+25）
 
 
 ---

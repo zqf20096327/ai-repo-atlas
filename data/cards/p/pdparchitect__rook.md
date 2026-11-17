@@ -1,6 +1,6 @@
 # pdparchitect/rook
 
-⭐ 35 · Go · MIT · 推送 2026-08-24 · [GitHub](https://github.com/pdparchitect/rook) · 个人维护
+⭐ 34 · Go · MIT · 推送 2026-08-24 · [GitHub](https://github.com/pdparchitect/rook) · 个人维护
 
 **给安全研究者的自主 AI 漏洞挖掘 harness（单一 Go 二进制）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pdparchitect/rook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "pdparchitect/rook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    line [34, 35, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

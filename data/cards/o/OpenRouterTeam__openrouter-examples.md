@@ -1,6 +1,6 @@
 # OpenRouterTeam/openrouter-examples
 
-⭐ 392 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/OpenRouterTeam/openrouter-examples) · [官网](https://openrouter.ai/docs) · 组织维护
+⭐ 395 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/OpenRouterTeam/openrouter-examples) · [官网](https://openrouter.ai/docs) · 组织维护
 
 **OpenRouter API 集成的可执行示例代码集，覆盖多技术栈**
 
@@ -43,13 +43,13 @@ OpenRouter 官方团队维护的示例仓库：以可运行、经过验证的代
 
 ```mermaid
 xychart-beta
-    title "OpenRouterTeam/openrouter-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 389 --> 393
-    line [390, 391, 392, 392]
+    title "OpenRouterTeam/openrouter-examples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 389 --> 396
+    line [390, 391, 392, 393, 394, 395, 395]
 ```
 
-2026-10-18 390 → 2026-11-02 392（+2）
+2026-10-18 390 → 2026-11-17 395（+5）
 
 
 ---

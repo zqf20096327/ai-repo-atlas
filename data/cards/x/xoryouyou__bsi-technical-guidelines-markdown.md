@@ -1,6 +1,6 @@
 # xoryouyou/bsi-technical-guidelines-markdown
 
-⭐ 18 · Python · 推送 2026-10-30 · [GitHub](https://github.com/xoryouyou/bsi-technical-guidelines-markdown) · 个人维护
+⭐ 19 · Python · 推送 2026-11-06 · [GitHub](https://github.com/xoryouyou/bsi-technical-guidelines-markdown) · 个人维护
 
 **BSI 技术指南 PDF 转 Markdown 的文档库与同步转换工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "xoryouyou/bsi-technical-guidelines-markdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "xoryouyou/bsi-technical-guidelines-markdown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

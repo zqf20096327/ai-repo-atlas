@@ -1,6 +1,6 @@
 # pvz122/PromeFuzz
 
-⭐ 64 · C++ · MIT · 推送 2026-07-30 · [GitHub](https://github.com/pvz122/PromeFuzz) · 组织维护
+⭐ 65 · C++ · MIT · 推送 2026-07-30 · [GitHub](https://github.com/pvz122/PromeFuzz) · 组织维护
 
 **为 C/C++ 库自动生成模糊测试 harness 的知识驱动框架**
 
@@ -45,13 +45,13 @@ PromeFuzz 是利用大语言模型为 C/C++ 库自动生成模糊测试 harness�
 
 ```mermaid
 xychart-beta
-    title "pvz122/PromeFuzz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    title "pvz122/PromeFuzz 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 63, 65, 65]
 ```
 
-2026-10-18 63 → 2026-11-02 64（+1）
+2026-10-18 63 → 2026-11-17 65（+2）
 
 
 ---

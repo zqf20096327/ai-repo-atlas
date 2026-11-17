@@ -1,6 +1,6 @@
 # sesaloy/hermes-mobile
 
-⭐ 51 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/sesaloy/hermes-mobile) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/sesaloy/hermes-mobile) · 个人维护
 
 **在 Android 上本地运行 Hermes Agent 的自包含移动应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sesaloy/hermes-mobile 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 46 --> 52
-    line [47, 49, 50, 51, 51]
+    title "sesaloy/hermes-mobile 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 54
+    line [47, 49, 50, 51, 50, 53, 53]
 ```
 
-2026-10-18 47 → 2026-11-02 51（+4）
+2026-10-18 47 → 2026-11-17 53（+6）
 
 
 ---

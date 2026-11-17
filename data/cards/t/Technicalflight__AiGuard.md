@@ -1,6 +1,6 @@
 # Technicalflight/AiGuard
 
-⭐ 15 · Rust · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/Technicalflight/AiGuard) · [官网](https://technicalflight.github.io/AiGuard/) · 个人维护 · 中文 README
+⭐ 15 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Technicalflight/AiGuard) · [官网](https://technicalflight.github.io/AiGuard/) · 个人维护 · 中文 README
 
 **本地优先的 AI 流量安全网关：脱敏出网请求、还原响应并审计风险**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Technicalflight/AiGuard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "Technicalflight/AiGuard 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    line [13, 14, 15, 13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

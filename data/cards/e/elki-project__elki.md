@@ -1,6 +1,6 @@
 # elki-project/elki
 
-⭐ 832 · Java · AGPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/elki-project/elki) · [官网](https://elki-project.github.io/) · 组织维护
+⭐ 833 · Java · AGPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/elki-project/elki) · [官网](https://elki-project.github.io/) · 组织维护
 
 **Java 数据挖掘框架：面向聚簇与离群检测算法研究**
 
@@ -45,13 +45,13 @@ AGPLv3 许可的开源 Java 数据挖掘软件，聚焦算法研究，侧重无�
 
 ```mermaid
 xychart-beta
-    title "elki-project/elki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 830 --> 833
-    line [831, 832, 832]
+    title "elki-project/elki 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 830 --> 834
+    line [831, 832, 831, 832, 833, 833]
 ```
 
-2026-10-18 831 → 2026-11-02 832（+1）
+2026-10-18 831 → 2026-11-17 833（+2）
 
 
 ---

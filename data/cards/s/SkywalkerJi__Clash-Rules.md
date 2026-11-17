@@ -1,6 +1,6 @@
 # SkywalkerJi/Clash-Rules
 
-⭐ 125 · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/SkywalkerJi/Clash-Rules) · 个人维护 · 中文 README
+⭐ 126 · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/SkywalkerJi/Clash-Rules) · 个人维护 · 中文 README
 
 **自用 Clash 策略规则集合：覆盖游戏、AI 服务与加密货币分流**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SkywalkerJi/Clash-Rules 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 123 --> 126
-    line [125, 124, 125, 125]
+    title "SkywalkerJi/Clash-Rules 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 123 --> 127
+    line [125, 124, 125, 126, 126]
 ```
 
-2026-10-18 125 → 2026-11-02 125（+0）
+2026-10-18 125 → 2026-11-17 126（+1）
 
 
 ---

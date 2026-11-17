@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleScience
 
-⭐ 453 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/PaddlePaddle/PaddleScience) · [官网](http://paddlescience-docs.rtfd.io/) · 组织维护 · 中文 README
+⭐ 456 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/PaddlePaddle/PaddleScience) · [官网](http://paddlescience-docs.rtfd.io/) · 组织维护 · 中文 README
 
 **基于 PaddlePaddle 的 AI 科学计算套件，求解物理/化学/气象问题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/PaddleScience 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 452 --> 454
-    line [453, 453]
+    title "PaddlePaddle/PaddleScience 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 452 --> 457
+    line [453, 454, 455, 456, 456]
 ```
 
-2026-10-18 453 → 2026-11-02 453（+0）
+2026-10-18 453 → 2026-11-17 456（+3）
 
 
 ---

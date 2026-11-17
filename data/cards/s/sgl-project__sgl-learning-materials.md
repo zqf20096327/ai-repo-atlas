@@ -1,6 +1,6 @@
 # sgl-project/sgl-learning-materials
 
-⭐ 897 · MIT · 推送 2026-01-05 · [GitHub](https://github.com/sgl-project/sgl-learning-materials) · [官网](https://www.sglang.io/) · 组织维护
+⭐ 905 · MIT · 推送 2026-01-05 · [GitHub](https://github.com/sgl-project/sgl-learning-materials) · [官网](https://www.sglang.io/) · 组织维护
 
 **SGLang 学习资料汇编：幻灯片、博客、视频与论文索引**
 
@@ -45,13 +45,13 @@ SGLang 官方团队维护的学习材料合集，按幻灯片、博客、视频�
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sgl-learning-materials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 896 --> 899
-    line [897, 898, 897, 897]
+    title "sgl-project/sgl-learning-materials 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 896 --> 906
+    line [897, 898, 897, 899, 900, 901, 902, 903, 904, 905, 905]
 ```
 
-2026-10-18 897 → 2026-11-02 897（+0）
+2026-10-18 897 → 2026-11-17 905（+8）
 
 
 ---

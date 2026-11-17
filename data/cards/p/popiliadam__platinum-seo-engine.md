@@ -1,6 +1,6 @@
 # popiliadam/platinum-seo-engine
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/popiliadam/platinum-seo-engine) · 个人维护
+⭐ 26 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/popiliadam/platinum-seo-engine) · 个人维护
 
 **Claude Code 插件：把 SEO 运营变成受契约约束的可审计工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "popiliadam/platinum-seo-engine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
+    title "popiliadam/platinum-seo-engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 27, 27]
+    line [27, 26, 27, 26, 26]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 26（-1）
 
 
 ---

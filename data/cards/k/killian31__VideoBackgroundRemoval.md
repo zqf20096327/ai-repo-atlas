@@ -1,6 +1,6 @@
 # killian31/VideoBackgroundRemoval
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/killian31/VideoBackgroundRemoval) · [官网](https://nelikcode-video-background-removal.hf.space) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/killian31/VideoBackgroundRemoval) · [官网](https://nelikcode-video-background-removal.hf.space) · 个人维护
 
 **视频抠背景工具：框选主体后自动跟踪抠像并换底色**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "killian31/VideoBackgroundRemoval 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "killian31/VideoBackgroundRemoval 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-24 41 → 2026-11-02 41（+0）
+2026-10-24 41 → 2026-11-17 42（+1）
 
 
 ---

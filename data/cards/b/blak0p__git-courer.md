@@ -1,6 +1,6 @@
 # blak0p/git-courer
 
-⭐ 44 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/blak0p/git-courer) · [官网](https://blak0p.github.io/git-courer/) · 个人维护
+⭐ 46 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/blak0p/git-courer) · [官网](https://blak0p.github.io/git-courer/) · 个人维护
 
 **给 AI agent 用的 Git MCP 服务器，本地运行零 token 成本**
 
@@ -44,13 +44,13 @@ Go 编写的 MCP 服务器，向 AI agent 暴露 13 个结构化 Git 工具（st
 
 ```mermaid
 xychart-beta
-    title "blak0p/git-courer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "blak0p/git-courer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 47
+    line [44, 46, 46]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 46（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # BNLNPPS/awesome-terminals-ai
 
-⭐ 44 · CC0-1.0 · 推送 2026-04-01 · [GitHub](https://github.com/BNLNPPS/awesome-terminals-ai) · 个人维护
+⭐ 45 · CC0-1.0 · 推送 2026-04-01 · [GitHub](https://github.com/BNLNPPS/awesome-terminals-ai) · 个人维护
 
 **终端 AI 工具策展清单：收录命令行 AI 助手与工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BNLNPPS/awesome-terminals-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "BNLNPPS/awesome-terminals-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

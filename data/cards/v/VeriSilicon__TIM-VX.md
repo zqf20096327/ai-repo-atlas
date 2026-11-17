@@ -1,6 +1,6 @@
 # VeriSilicon/TIM-VX
 
-⭐ 263 · C · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/VeriSilicon/TIM-VX) · 组织维护
+⭐ 264 · C · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/VeriSilicon/TIM-VX) · 组织维护
 
 **VeriSilicon NPU 的神经网络部署后端绑定模块（C++）**
 
@@ -44,13 +44,13 @@ VeriSilicon 提供的软件集成模块，用于将神经网络部署到 VeriSil
 
 ```mermaid
 xychart-beta
-    title "VeriSilicon/TIM-VX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    title "VeriSilicon/TIM-VX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 261 --> 265
+    line [263, 262, 263, 264, 264]
 ```
 
-2026-10-18 263 → 2026-11-02 263（+0）
+2026-10-18 263 → 2026-11-17 264（+1）
 
 
 ---

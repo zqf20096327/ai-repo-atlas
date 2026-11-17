@@ -1,6 +1,6 @@
 # flashclub/ModelJudge
 
-⭐ 93 · TypeScript · MIT · 推送 2025-12-07 · [GitHub](https://github.com/flashclub/ModelJudge) · [官网](https://modeljudge.awesomeprompt.net/zh) · 个人维护 · 中文 README
+⭐ 94 · TypeScript · MIT · 推送 2025-12-07 · [GitHub](https://github.com/flashclub/ModelJudge) · [官网](https://modeljudge.awesomeprompt.net/zh) · 个人维护 · 中文 README
 
 **多模型回答对比与评分的 Next.js Web 平台**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "flashclub/ModelJudge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "flashclub/ModelJudge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 94（+1）
 
 
 ---

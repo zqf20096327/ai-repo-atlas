@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-VFX
 
-⭐ 30 · JavaScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/SamurAIGPT/AI-VFX) · [官网](https://video-generator-three-kappa.vercel.app/) · 组织维护
+⭐ 32 · JavaScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/SamurAIGPT/AI-VFX) · [官网](https://video-generator-three-kappa.vercel.app/) · 组织维护
 
 **面向创作者的 AI 视频特效生成 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/AI-VFX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "SamurAIGPT/AI-VFX 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

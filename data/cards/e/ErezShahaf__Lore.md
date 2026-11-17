@@ -1,6 +1,6 @@
 # ErezShahaf/Lore
 
-⭐ 249 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/ErezShahaf/Lore) · 个人维护
+⭐ 250 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/ErezShahaf/Lore) · 个人维护
 
 **本地优先的桌面速记与回忆应用：Ollama+LanceDB 私人第二记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErezShahaf/Lore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 245 --> 250
-    line [246, 247, 249, 249]
+    title "ErezShahaf/Lore 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 245 --> 251
+    line [246, 247, 249, 250, 250]
 ```
 
-2026-10-18 246 → 2026-11-02 249（+3）
+2026-10-18 246 → 2026-11-17 250（+4）
 
 
 ---

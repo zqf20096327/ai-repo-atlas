@@ -1,6 +1,6 @@
 # ParendumOU/Nexora
 
-⭐ 25 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ParendumOU/Nexora) · [官网](https://nexora.parendum.com) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ParendumOU/Nexora) · [官网](https://nexora.parendum.com) · 组织维护
 
 **自托管多租户 AI agent 编排平台，支持约 46 家 LLM 提供商**
 
@@ -45,13 +45,13 @@ MIT 许可的开源 AI-agent 编排平台核心：用户以人设+技能+工具�
 
 ```mermaid
 xychart-beta
-    title "ParendumOU/Nexora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "ParendumOU/Nexora 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

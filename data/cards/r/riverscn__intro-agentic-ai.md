@@ -1,6 +1,6 @@
 # riverscn/intro-agentic-ai
 
-⭐ 130 · Vue · 推送 2026-04-24 · [GitHub](https://github.com/riverscn/intro-agentic-ai) · [官网](https://intro-agentic-ai.lishun.me) · 个人维护 · 中文 README
+⭐ 129 · Vue · 推送 2026-04-24 · [GitHub](https://github.com/riverscn/intro-agentic-ai) · [官网](https://intro-agentic-ai.lishun.me) · 个人维护 · 中文 README
 
 **Agentic AI 入门与业务落地的内部分享演示文档**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "riverscn/intro-agentic-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "riverscn/intro-agentic-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
     y-axis "stars" 126 --> 131
-    line [127, 130, 130]
+    line [127, 130, 129, 129]
 ```
 
-2026-10-18 127 → 2026-11-02 130（+3）
+2026-10-18 127 → 2026-11-17 129（+2）
 
 
 ---

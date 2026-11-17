@@ -1,6 +1,6 @@
 # addyosmani/chatty
 
-⭐ 839 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/addyosmani/chatty) · 个人维护
+⭐ 842 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/addyosmani/chatty) · 个人维护
 
 **浏览器内本地运行 LLM 的私有 AI 聊天应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "addyosmani/chatty 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 837 --> 840
-    line [838, 839, 839]
+    title "addyosmani/chatty 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 837 --> 844
+    line [838, 839, 838, 841, 843, 842, 842]
 ```
 
-2026-10-18 838 → 2026-11-02 839（+1）
+2026-10-18 838 → 2026-11-17 842（+4）
 
 
 ---

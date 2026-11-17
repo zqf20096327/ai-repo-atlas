@@ -1,6 +1,6 @@
 # study8677/architecture-copilot
 
-⭐ 87 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/study8677/architecture-copilot) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/study8677/architecture-copilot) · 个人维护 · 中文 README
 
 **给 Claude Code/Cursor/Codex 的架构引导 skill：写码前用提问理清架构**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "study8677/architecture-copilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 84 --> 88
-    line [85, 86, 87, 87]
+    title "study8677/architecture-copilot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 84 --> 91
+    line [85, 86, 87, 85, 90, 89, 90, 89, 89]
 ```
 
-2026-10-18 85 → 2026-11-02 87（+2）
+2026-10-18 85 → 2026-11-17 89（+4）
 
 
 ---

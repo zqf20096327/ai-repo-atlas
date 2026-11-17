@@ -1,6 +1,6 @@
 # Emmimal/context-compiler
 
-⭐ 64 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/Emmimal/context-compiler) · [官网](https://towardsdatascience.com/author/emmimalp-alexander/) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/Emmimal/context-compiler) · [官网](https://towardsdatascience.com/author/emmimalp-alexander/) · 个人维护
 
 **纯 Python 仓库可达性分析与骨架化层：为编码 agent 精简上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emmimal/context-compiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    title "Emmimal/context-compiler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 63, 65, 65]
 ```
 
-2026-10-18 63 → 2026-11-02 64（+1）
+2026-10-18 63 → 2026-11-17 65（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # geezerrrr/motive
 
-⭐ 119 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/geezerrrr/motive) · [官网](https://motivework.app) · 个人维护
+⭐ 120 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/geezerrrr/motive) · [官网](https://motivework.app) · 个人维护
 
 **macOS 菜单栏后台运行 AI agent 并在需要时弹窗找你的应用**
 
@@ -45,13 +45,13 @@ Swift/SwiftUI 编写的 macOS 菜单栏应用，以 OpenCode 作为 agent 引擎
 
 ```mermaid
 xychart-beta
-    title "geezerrrr/motive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 117 --> 120
-    line [119, 118, 119]
+    title "geezerrrr/motive 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 117 --> 121
+    line [119, 118, 119, 118, 119, 120, 120]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 120（+1）
 
 
 ---

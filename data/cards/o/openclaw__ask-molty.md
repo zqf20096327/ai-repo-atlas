@@ -1,6 +1,6 @@
 # openclaw/ask-molty
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openclaw/ask-molty) · [官网](https://docs.openclaw.ai) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/openclaw/ask-molty) · [官网](https://docs.openclaw.ai) · 组织维护
 
 **OpenClaw 文档问答 agent：docs-chat 背后的 Worker 与工具循环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openclaw/ask-molty 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "openclaw/ask-molty 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 30
+    line [24, 25, 26, 25, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 29（+5）
 
 
 ---

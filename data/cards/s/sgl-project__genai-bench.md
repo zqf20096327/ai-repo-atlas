@@ -1,6 +1,6 @@
 # sgl-project/genai-bench
 
-⭐ 333 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/sgl-project/genai-bench) · [官网](http://docs.sglang.ai/genai-bench/) · 组织维护
+⭐ 335 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/sgl-project/genai-bench) · [官网](http://docs.sglang.ai/genai-bench/) · 组织维护
 
 **面向 LLM 服务系统的 token 级性能基准测试工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgl-project/genai-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 330 --> 334
-    line [331, 332, 333]
+    title "sgl-project/genai-bench 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 330 --> 336
+    line [331, 332, 333, 332, 335, 335]
 ```
 
-2026-10-18 331 → 2026-11-02 333（+2）
+2026-10-18 331 → 2026-11-17 335（+4）
 
 
 ---

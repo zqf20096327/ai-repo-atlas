@@ -1,6 +1,6 @@
 # tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations
 
-⭐ 190 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) · [官网](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) · 个人维护
+⭐ 191 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) · [官网](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) · 个人维护
 
 **面向工程师的 AI 数学基础书籍（含 Python 示例）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 187 --> 191
-    line [188, 189, 190, 190]
+    title "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 187 --> 192
+    line [188, 189, 190, 189, 190, 191, 191]
 ```
 
-2026-10-18 188 → 2026-11-02 190（+2）
+2026-10-18 188 → 2026-11-17 191（+3）
 
 
 ---

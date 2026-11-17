@@ -1,6 +1,6 @@
 # Michaelliv/psst
 
-⭐ 240 · TypeScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/Michaelliv/psst) · 个人维护
+⭐ 241 · TypeScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/Michaelliv/psst) · 个人维护
 
 **面向 AI agent 的密钥管理 CLI：agent 用密钥而不见密钥**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Michaelliv/psst 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 237 --> 241
-    line [238, 239, 240, 240]
+    title "Michaelliv/psst 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 237 --> 243
+    line [238, 239, 240, 239, 242, 241, 241]
 ```
 
-2026-10-18 238 → 2026-11-02 240（+2）
+2026-10-18 238 → 2026-11-17 241（+3）
 
 
 ---

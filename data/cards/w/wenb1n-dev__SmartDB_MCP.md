@@ -1,6 +1,6 @@
 # wenb1n-dev/SmartDB_MCP
 
-⭐ 77 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wenb1n-dev/SmartDB_MCP) · 个人维护 · 中文 README
+⭐ 78 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wenb1n-dev/SmartDB_MCP) · 个人维护 · 中文 README
 
 **连接 10 种数据源的通用数据库 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenb1n-dev/SmartDB_MCP 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "wenb1n-dev/SmartDB_MCP 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 76 --> 79
+    line [77, 78, 78]
 ```
 
-2026-10-23 77 → 2026-11-02 77（+0）
+2026-10-23 77 → 2026-11-17 78（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Litenova-Solutions/Fuse
 
-⭐ 36 · C# · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Litenova-Solutions/Fuse) · [官网](https://fuse.codes) · 组织维护
+⭐ 37 · C# · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Litenova-Solutions/Fuse) · [官网](https://fuse.codes) · 组织维护
 
 **为 AI 编程 agent 加速 .NET 构建与测试反馈的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Litenova-Solutions/Fuse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "Litenova-Solutions/Fuse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

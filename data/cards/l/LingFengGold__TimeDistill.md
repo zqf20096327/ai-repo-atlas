@@ -1,6 +1,6 @@
 # LingFengGold/TimeDistill
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-03-22 · [GitHub](https://github.com/LingFengGold/TimeDistill) · [官网](https://arxiv.org/abs/2502.15016) · 组织维护 · 中文 README
+⭐ 39 · Python · Apache-2.0 · 推送 2026-03-22 · [GitHub](https://github.com/LingFengGold/TimeDistill) · [官网](https://arxiv.org/abs/2502.15016) · 组织维护 · 中文 README
 
 **KDD'26 论文官方实现：跨架构蒸馏让 MLP 做长期时序预测**
 
@@ -45,13 +45,13 @@ TimeDistill 的官方代码实现（KDD'26，arXiv:2502.15016）。它是一个�
 
 ```mermaid
 xychart-beta
-    title "LingFengGold/TimeDistill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "LingFengGold/TimeDistill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

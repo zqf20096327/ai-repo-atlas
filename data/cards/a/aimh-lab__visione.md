@@ -1,6 +1,6 @@
 # aimh-lab/visione
 
-⭐ 66 · JavaScript · EUPL-1.2 · 推送 2026-10-19 · [GitHub](https://github.com/aimh-lab/visione) · [官网](https://visione.isti.cnr.it/) · 组织维护
+⭐ 65 · JavaScript · EUPL-1.2 · 推送 2026-10-19 · [GitHub](https://github.com/aimh-lab/visione) · [官网](https://visione.isti.cnr.it/) · 组织维护
 
 **面向视频集合的交互式 AI 检索系统：文本/图像/对象多方式搜索视频**
 
@@ -45,13 +45,13 @@ VISIONE 是一个基于 AI 的交互式视频检索系统：用户通过 Web UI 
 
 ```mermaid
 xychart-beta
-    title "aimh-lab/visione 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "aimh-lab/visione 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 64 --> 67
+    line [66, 65, 65]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 65（-1）
 
 
 ---

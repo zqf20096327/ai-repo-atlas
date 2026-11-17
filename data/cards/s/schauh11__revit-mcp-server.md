@@ -1,6 +1,6 @@
 # schauh11/revit-mcp-server
 
-⭐ 26 · C# · MIT · 推送 2026-02-05 · [GitHub](https://github.com/schauh11/revit-mcp-server) · 个人维护
+⭐ 27 · C# · MIT · 推送 2026-02-05 · [GitHub](https://github.com/schauh11/revit-mcp-server) · 个人维护
 
 **内嵌于 Revit 的自然语言 AI 助手插件（MCP，53+ 工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "schauh11/revit-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "schauh11/revit-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

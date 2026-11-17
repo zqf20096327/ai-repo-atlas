@@ -1,6 +1,6 @@
 # Rodert/copyright-forge-skill
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/Rodert/copyright-forge-skill) · [官网](https://rodert.github.io/copyright-forge-skill/) · 个人维护 · 中文 README
+⭐ 17 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/Rodert/copyright-forge-skill) · [官网](https://rodert.github.io/copyright-forge-skill/) · 个人维护 · 中文 README
 
 **面向开发者的软著材料生成 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rodert/copyright-forge-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    title "Rodert/copyright-forge-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 18
+    line [11, 13, 15, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 17（+6）
 
 
 ---

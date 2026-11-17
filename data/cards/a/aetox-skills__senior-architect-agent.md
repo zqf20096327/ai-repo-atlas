@@ -1,6 +1,6 @@
 # aetox-skills/senior-architect-agent
 
-⭐ 23 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/aetox-skills/senior-architect-agent) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/aetox-skills/senior-architect-agent) · 个人维护
 
 **让 AI agent 执行既有系统架构勘察的技能（skill）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aetox-skills/senior-architect-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "aetox-skills/senior-architect-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

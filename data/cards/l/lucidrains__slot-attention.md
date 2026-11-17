@@ -1,6 +1,6 @@
 # lucidrains/slot-attention
 
-⭐ 500 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/lucidrains/slot-attention) · 个人维护
+⭐ 502 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/lucidrains/slot-attention) · 个人维护
 
 **PyTorch 实现的 Slot Attention 注意力/聚类模块，供研究者使用**
 
@@ -44,13 +44,13 @@ GoogleAI 论文《Object-Centric Learning with Slot Attention》的 PyTorch 实�
 
 ```mermaid
 xychart-beta
-    title "lucidrains/slot-attention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 499 --> 501
-    line [500, 500]
+    title "lucidrains/slot-attention 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 499 --> 503
+    line [500, 501, 502, 502]
 ```
 
-2026-10-18 500 → 2026-11-02 500（+0）
+2026-10-18 500 → 2026-11-17 502（+2）
 
 
 ---

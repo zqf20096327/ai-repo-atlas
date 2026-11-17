@@ -1,6 +1,6 @@
 # AIGODLIKE/BlenderAIStudio
 
-⭐ 142 · Python · GPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/AIGODLIKE/BlenderAIStudio) · 组织维护
+⭐ 144 · Python · GPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/AIGODLIKE/BlenderAIStudio) · 组织维护
 
 **Blender 插件：调用 AI 模型将 3D 场景渲染图生成海报/概念图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIGODLIKE/BlenderAIStudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    title "AIGODLIKE/BlenderAIStudio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 141 --> 145
+    line [142, 143, 144, 144]
 ```
 
-2026-10-18 142 → 2026-11-02 142（+0）
+2026-10-18 142 → 2026-11-17 144（+2）
 
 
 ---

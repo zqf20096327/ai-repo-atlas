@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2.1
 
-⭐ 545 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.1) · [官网](https://www.minimax.io) · 组织维护 · 中文 README
+⭐ 543 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.1) · [官网](https://www.minimax.io) · 组织维护 · 中文 README
 
 **面向开发与 agent 场景的开源大语言模型权重（M2.1）**
 
@@ -44,13 +44,13 @@ MiniMax 公司发布的开源大语言模型 MiniMax-M2.1 的官方仓库，发�
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-M2.1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 542 --> 546
-    line [543, 544, 545, 545]
+    title "MiniMax-AI/MiniMax-M2.1 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 541 --> 546
+    line [543, 544, 545, 543, 544, 542, 543, 543]
 ```
 
-2026-10-18 543 → 2026-11-02 545（+2）
+2026-10-18 543 → 2026-11-17 543（+0）
 
 
 ---

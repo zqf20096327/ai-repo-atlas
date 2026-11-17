@@ -1,6 +1,6 @@
 # RayYoh/Awesome-Robot-Learning
 
-⭐ 207 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/RayYoh/Awesome-Robot-Learning) · 个人维护
+⭐ 209 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/RayYoh/Awesome-Robot-Learning) · 个人维护
 
 **机器人学习（侧重操作）研究资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RayYoh/Awesome-Robot-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "RayYoh/Awesome-Robot-Learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-16", "2026-11-17"]
     y-axis "stars" 206 --> 211
-    line [210, 207, 207]
+    line [210, 207, 208, 209, 209]
 ```
 
-2026-10-18 210 → 2026-11-02 207（-3）
+2026-10-18 210 → 2026-11-17 209（-1）
 
 
 ---

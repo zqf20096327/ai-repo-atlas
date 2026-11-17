@@ -1,6 +1,6 @@
 # garycli/garycli
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/garycli/garycli) · 个人维护 · 中文 README
+⭐ 160 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/garycli/garycli) · 个人维护 · 中文 README
 
 **嵌入式工程 agent：从自然语言需求到代码、构建、烧录与验证修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "garycli/garycli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 156 --> 159
-    line [158, 157, 158, 158]
+    title "garycli/garycli 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 156 --> 161
+    line [158, 157, 158, 159, 160, 160]
 ```
 
-2026-10-18 158 → 2026-11-02 158（+0）
+2026-10-18 158 → 2026-11-17 160（+2）
 
 
 ---

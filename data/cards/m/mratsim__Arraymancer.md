@@ -1,6 +1,6 @@
 # mratsim/Arraymancer
 
-⭐ 1,415 · Nim · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/mratsim/Arraymancer) · [官网](https://mratsim.github.io/Arraymancer/) · 个人维护
+⭐ 1,417 · Nim · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/mratsim/Arraymancer) · [官网](https://mratsim.github.io/Arraymancer/) · 个人维护
 
 **Nim 语言的张量计算与深度学习库，支持 CPU/CUDA/OpenCL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mratsim/Arraymancer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 1413 --> 1416
-    line [1414, 1415, 1415]
+    title "mratsim/Arraymancer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1413 --> 1418
+    line [1414, 1415, 1417, 1417]
 ```
 
-2026-10-18 1,414 → 2026-11-02 1,415（+1）
+2026-10-18 1,414 → 2026-11-17 1,417（+3）
 
 
 ---

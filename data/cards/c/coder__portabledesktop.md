@@ -1,6 +1,6 @@
 # coder/portabledesktop
 
-⭐ 32 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/coder/portabledesktop) · 组织维护
+⭐ 33 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/coder/portabledesktop) · 组织维护
 
 **为 AI agent 提供可控真实 Linux 桌面的 Go 单二进制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coder/portabledesktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "coder/portabledesktop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

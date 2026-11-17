@@ -1,6 +1,6 @@
 # 2nd1st/open-mcp-apps
 
-⭐ 36 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/2nd1st/open-mcp-apps) · [官网](https://openmcp.app) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/2nd1st/open-mcp-apps) · [官网](https://openmcp.app) · 个人维护 · 中文 README
 
 **为 MCP 主机提供 AI 可构建的持久化小程序引擎与应用商店**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "2nd1st/open-mcp-apps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "2nd1st/open-mcp-apps 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

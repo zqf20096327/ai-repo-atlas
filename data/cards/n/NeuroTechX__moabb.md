@@ -1,6 +1,6 @@
 # NeuroTechX/moabb
 
-⭐ 1,079 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/NeuroTechX/moabb) · [官网](https://moabb.neurotechx.com/docs/index.html) · 组织维护
+⭐ 1,086 · Python · BSD-3-Clause · 推送 2026-11-14 · [GitHub](https://github.com/NeuroTechX/moabb) · [官网](https://moabb.neurotechx.com/docs/index.html) · 组织维护
 
 **脑机接口算法基准测试框架：统一评测 BCI 算法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeuroTechX/moabb 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1072 --> 1080
-    line [1073, 1077, 1079, 1078, 1079, 1079]
+    title "NeuroTechX/moabb 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1072 --> 1087
+    line [1073, 1077, 1079, 1078, 1079, 1077, 1084, 1085, 1086, 1086]
 ```
 
-2026-10-18 1,073 → 2026-11-02 1,079（+6）
+2026-10-18 1,073 → 2026-11-17 1,086（+13）
 
 
 ---

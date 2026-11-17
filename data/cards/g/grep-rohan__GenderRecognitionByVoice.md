@@ -1,6 +1,6 @@
 # grep-rohan/GenderRecognitionByVoice
 
-⭐ 12 · Python · 推送 2025-11-07 · [GitHub](https://github.com/grep-rohan/GenderRecognitionByVoice) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用机器学习从语音录音识别说话人性别的脚本集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "grep-rohan/GenderRecognitionByVoice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-07 12（+0）
 
 
 ---

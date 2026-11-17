@@ -1,6 +1,6 @@
 # KuudoAI/amazon_ads_mcp
 
-⭐ 74 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/KuudoAI/amazon_ads_mcp) · [官网](https://www.kuudo.com/) · 组织维护
+⭐ 73 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/KuudoAI/amazon_ads_mcp) · [官网](https://www.kuudo.com/) · 组织维护
 
 **面向 Amazon 广告 API 的 MCP 服务器：让 AI agent 安全调用广告接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KuudoAI/amazon_ads_mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "KuudoAI/amazon_ads_mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    line [73, 74, 73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 74（+1）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

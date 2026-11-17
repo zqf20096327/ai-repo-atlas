@@ -1,6 +1,6 @@
 # acartine/foolery
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/acartine/foolery) · [官网](https://thecartine.substack.com/p/foolery-04?r=1rb8nt&triedRedirect=true) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/acartine/foolery) · [官网](https://thecartine.substack.com/p/foolery-04?r=1rb8nt&triedRedirect=true) · 个人维护
 
 **键盘优先的多 Agent 软件工作编排 Web UI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "acartine/foolery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    title "acartine/foolery 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 58, 60, 60]
 ```
 
-2026-10-18 58 → 2026-11-02 59（+1）
+2026-10-18 58 → 2026-11-17 60（+2）
 
 
 ---

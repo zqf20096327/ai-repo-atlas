@@ -1,6 +1,6 @@
 # claudio-silva/claude-artifact-runner
 
-⭐ 584 · TypeScript · MIT · 推送 2026-01-23 · [GitHub](https://github.com/claudio-silva/claude-artifact-runner) · 个人维护
+⭐ 588 · TypeScript · MIT · 推送 2026-01-23 · [GitHub](https://github.com/claudio-silva/claude-artifact-runner) · 个人维护
 
 **把 Claude 生成的 Artifact 一键运行/构建为可部署 React 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "claudio-silva/claude-artifact-runner 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 579 --> 585
-    line [580, 581, 582, 583, 584, 584]
+    title "claudio-silva/claude-artifact-runner 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 579 --> 589
+    line [580, 581, 582, 583, 584, 582, 585, 586, 588, 588]
 ```
 
-2026-10-18 580 → 2026-11-02 584（+4）
+2026-10-18 580 → 2026-11-17 588（+8）
 
 
 ---

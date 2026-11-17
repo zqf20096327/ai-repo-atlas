@@ -1,6 +1,6 @@
 # Google-Cloud-AI/agent-platform
 
-⭐ 338 · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/Google-Cloud-AI/agent-platform) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform) · 组织维护
+⭐ 342 · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/Google-Cloud-AI/agent-platform) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform) · 组织维护
 
 **Gemini Enterprise Agent Platform 的代码示例与教程策展清单**
 
@@ -43,13 +43,13 @@ Google Cloud AI 组织维护的策展仓库，汇集在 Gemini Enterprise Agent 
 
 ```mermaid
 xychart-beta
-    title "Google-Cloud-AI/agent-platform 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 331 --> 339
-    line [332, 333, 334, 335, 336, 338, 338]
+    title "Google-Cloud-AI/agent-platform 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 331 --> 343
+    line [332, 333, 334, 335, 336, 338, 334, 339, 340, 341, 342, 341, 342, 342]
 ```
 
-2026-10-18 332 → 2026-11-02 338（+6）
+2026-10-18 332 → 2026-11-17 342（+10）
 
 
 ---

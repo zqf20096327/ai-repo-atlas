@@ -1,6 +1,6 @@
 # moatazhamada/ai-omni-skills
 
-⭐ 14 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/moatazhamada/ai-omni-skills) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/moatazhamada/ai-omni-skills) · 个人维护
 
 **统一管理各 AI 编码工具技能的 CLI 与 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "moatazhamada/ai-omni-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mastercard/developers-agent-toolkit
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Mastercard/developers-agent-toolkit) · [官网](https://developer.mastercard.com) · 组织维护
+⭐ 60 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Mastercard/developers-agent-toolkit) · [官网](https://developer.mastercard.com) · 组织维护
 
 **让 agent 通过 MCP 发现并读取 Mastercard 开发者平台的服务与文档**
 
@@ -45,13 +45,13 @@ Mastercard 官方维护的 agent 工具包：提供一个基于 Model Context Pr
 
 ```mermaid
 xychart-beta
-    title "Mastercard/developers-agent-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    title "Mastercard/developers-agent-toolkit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 54 --> 61
+    line [55, 56, 57, 55, 59, 60, 60]
 ```
 
-2026-10-18 55 → 2026-11-02 57（+2）
+2026-10-18 55 → 2026-11-17 60（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # KTS-o7/AIML-Lab
 
-⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/KTS-o7/AIML-Lab) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/KTS-o7/AIML-Lab) · 个人维护
 
 **面向学生的 AI/ML 课程实验程序集（RVCE 21AI52）**
 
@@ -44,13 +44,13 @@ RVCE 21AI52 课程的 Python 实验程序仓库，覆盖搜索（DFS、Minimax�
 
 ```mermaid
 xychart-beta
-    title "KTS-o7/AIML-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "KTS-o7/AIML-Lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

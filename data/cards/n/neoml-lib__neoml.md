@@ -1,6 +1,6 @@
 # neoml-lib/neoml
 
-⭐ 798 · C++ · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/neoml-lib/neoml) · [官网](https://www.abbyy.com/neoml/) · 组织维护
+⭐ 801 · C++ · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/neoml-lib/neoml) · [官网](https://www.abbyy.com/neoml/) · 组织维护
 
 **ABBYY 的跨平台机器学习框架：构建、训练与部署深度/传统 ML 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neoml-lib/neoml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 797 --> 800
-    line [799, 798, 798]
+    title "neoml-lib/neoml 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 797 --> 802
+    line [799, 798, 799, 800, 801, 801]
 ```
 
-2026-10-18 799 → 2026-11-02 798（-1）
+2026-10-18 799 → 2026-11-17 801（+2）
 
 
 ---

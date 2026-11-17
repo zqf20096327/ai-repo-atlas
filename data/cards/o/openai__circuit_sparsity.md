@@ -1,6 +1,6 @@
 # openai/circuit_sparsity
 
-⭐ 539 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/openai/circuit_sparsity) · [官网](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/) · 组织维护
+⭐ 541 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/openai/circuit_sparsity) · [官网](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/) · 组织维护
 
 **稀疏电路模型的可视化与推理工具：Gao et al. 2025 论文配套**
 
@@ -44,13 +44,13 @@ OpenAI 发布的 Gao et al. 2025 论文配套代码：提供轻量 GPT 实现（
 
 ```mermaid
 xychart-beta
-    title "openai/circuit_sparsity 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 534 --> 541
-    line [535, 537, 540, 539, 539]
+    title "openai/circuit_sparsity 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 534 --> 542
+    line [535, 537, 540, 539, 540, 539, 540, 541, 541]
 ```
 
-2026-10-18 535 → 2026-11-02 539（+4）
+2026-10-18 535 → 2026-11-17 541（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # InternScience/SGI-Bench
 
-⭐ 172 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/InternScience/SGI-Bench) · [官网](https://internscience.github.io/SGI-Page/) · 组织维护 · 中文 README
+⭐ 173 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/InternScience/SGI-Bench) · [官网](https://internscience.github.io/SGI-Page/) · 组织维护 · 中文 README
 
 **评测 LLM 科学通用智能的科学家对齐基准与评测框架**
 
@@ -45,13 +45,13 @@ SGI-Bench 是面向科学通用智能（SGI）的 LLM 评测基准：覆盖深�
 
 ```mermaid
 xychart-beta
-    title "InternScience/SGI-Bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    title "InternScience/SGI-Bench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 171 --> 174
+    line [172, 173, 173]
 ```
 
-2026-10-18 172 → 2026-11-02 172（+0）
+2026-10-18 172 → 2026-11-17 173（+1）
 
 
 ---

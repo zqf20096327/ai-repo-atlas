@@ -1,6 +1,6 @@
 # Graylab/DL4Proteins-notebooks
 
-⭐ 733 · Jupyter Notebook · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Graylab/DL4Proteins-notebooks) · 组织维护
+⭐ 737 · Jupyter Notebook · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Graylab/DL4Proteins-notebooks) · 组织维护
 
 **面向科研与教学的蛋白质深度学习 Jupyter/Colab 笔记本教程集**
 
@@ -44,13 +44,13 @@ Johns Hopkins Gray 实验室维护的 DL4Proteins 工作坊教程：以 10 章 J
 
 ```mermaid
 xychart-beta
-    title "Graylab/DL4Proteins-notebooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 730 --> 734
-    line [731, 732, 733, 733]
+    title "Graylab/DL4Proteins-notebooks 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 730 --> 738
+    line [731, 732, 733, 731, 735, 736, 737, 737]
 ```
 
-2026-10-18 731 → 2026-11-02 733（+2）
+2026-10-18 731 → 2026-11-17 737（+6）
 
 
 ---

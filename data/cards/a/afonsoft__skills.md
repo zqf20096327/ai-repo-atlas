@@ -1,6 +1,6 @@
 # afonsoft/skills
 
-⭐ 14 · PowerShell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/afonsoft/skills) · [官网](https://skills.sh/afonsoft/skills) · 个人维护
+⭐ 19 · PowerShell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/afonsoft/skills) · [官网](https://skills.sh/afonsoft/skills) · 个人维护
 
 **面向 spec 驱动开发的 Agent Skills 技能库，以 orchestrator 为核心**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "afonsoft/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 10 --> 15
-    line [11, 13, 14, 14]
+    title "afonsoft/skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 20
+    line [11, 13, 14, 13, 15, 16, 17, 19, 19]
 ```
 
-2026-10-18 11 → 2026-11-02 14（+3）
+2026-10-18 11 → 2026-11-17 19（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # 686f6c61/radar-huggingface-dataset
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/686f6c61/radar-huggingface-dataset) · [官网](https://radar-huggingface.686f6c61.dev) · 个人维护
+⭐ 21 · JavaScript · CC-BY-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/686f6c61/radar-huggingface-dataset) · [官网](https://radar-huggingface.686f6c61.dev) · 个人维护
 
 **HuggingFace 模型生态的开策展数据集：西语模型档案与退出追踪**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | CC-BY-4.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "686f6c61/radar-huggingface-dataset 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 14, 16, 16]
+    title "686f6c61/radar-huggingface-dataset 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 22
+    line [12, 13, 14, 16, 13, 21, 21]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 21（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # rahmanef63/si-coder-agent
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rahmanef63/si-coder-agent) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/rahmanef63/si-coder-agent) · 个人维护
 
 **给 AI 编码 agent 的一体化全栈构建/部署技能包（/sc 命令集）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rahmanef63/si-coder-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 12 --> 15
     line [14, 13, 13]
 ```
 
-2026-10-18 14 → 2026-11-02 13（-1）
+2026-10-18 14 → 2026-11-17 13（-1）
 
 
 ---

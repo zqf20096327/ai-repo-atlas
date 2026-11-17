@@ -1,6 +1,6 @@
 # N1k1tung/infer-ring
 
-⭐ 28 · Swift · MIT · 推送 2026-05-19 · [GitHub](https://github.com/N1k1tung/infer-ring) · 个人维护
+⭐ 31 · Swift · MIT · 推送 2026-05-19 · [GitHub](https://github.com/N1k1tung/infer-ring) · 个人维护
 
 **跨 iOS/macOS 设备组合内存做本地 LLM 推理的应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "N1k1tung/infer-ring 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 28]
+    title "N1k1tung/infer-ring 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 32
+    line [25, 26, 27, 28, 27, 29, 30, 31, 31]
 ```
 
-2026-10-18 25 → 2026-11-02 28（+3）
+2026-10-18 25 → 2026-11-17 31（+6）
 
 
 ---

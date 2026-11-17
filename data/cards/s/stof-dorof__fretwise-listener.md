@@ -1,6 +1,6 @@
 # stof-dorof/fretwise-listener
 
-⭐ 56 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/stof-dorof/fretwise-listener) · 个人维护
+⭐ 58 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/stof-dorof/fretwise-listener) · 个人维护
 
 **实时吉他音高识别练习应用，把弹奏映射到指板可视化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stof-dorof/fretwise-listener 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "stof-dorof/fretwise-listener 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58, 58]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 58（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # probml/pyprobml
 
-⭐ 7,174 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/probml/pyprobml) · 个人维护
+⭐ 7,189 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/probml/pyprobml) · 个人维护
 
 **《Probabilistic Machine Learning》两卷教材插图复现代码集**
 
@@ -43,13 +43,13 @@ Kevin Murphy 所著《Probabilistic Machine Learning: An Introduction》与《Ad
 
 ```mermaid
 xychart-beta
-    title "probml/pyprobml 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 7168 --> 7175
-    line [7169, 7170, 7171, 7170, 7173, 7174]
+    title "probml/pyprobml 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 7167 --> 7191
+    line [7169, 7170, 7171, 7170, 7173, 7174, 7170, 7180, 7184, 7185, 7186, 7187, 7188, 7189, 7189]
 ```
 
-2026-10-18 7,169 → 2026-11-02 7,174（+5）
+2026-10-18 7,169 → 2026-11-17 7,189（+20）
 
 
 ---

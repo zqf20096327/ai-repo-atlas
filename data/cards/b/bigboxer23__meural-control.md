@@ -1,6 +1,6 @@
 # bigboxer23/meural-control
 
-⭐ 13 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bigboxer23/meural-control) · 个人维护
+⭐ 13 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/bigboxer23/meural-control) · 个人维护
 
 **向 Meural 数字画框推送官方不支持来源内容的 Java 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bigboxer23/meural-control 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

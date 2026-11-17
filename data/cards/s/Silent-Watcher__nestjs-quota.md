@@ -1,6 +1,6 @@
 # Silent-Watcher/nestjs-quota
 
-⭐ 14 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Silent-Watcher/nestjs-quota) · [官网](https://www.npmjs.com/package/nestjs-quota) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Silent-Watcher/nestjs-quota) · [官网](https://www.npmjs.com/package/nestjs-quota) · 个人维护
 
 **NestJS 的 API 配额执行与用量计量库，支持多策略原子扣减**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Silent-Watcher/nestjs-quota 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 14]
+    title "Silent-Watcher/nestjs-quota 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 14, 12, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

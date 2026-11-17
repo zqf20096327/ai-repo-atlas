@@ -1,6 +1,6 @@
 # lobehub/lobe-charts
 
-⭐ 121 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lobehub/lobe-charts) · [官网](https://charts.lobehub.com) · 组织维护
+⭐ 123 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lobehub/lobe-charts) · [官网](https://charts.lobehub.com) · 组织维护
 
 **面向仪表盘与 AI 榜单的 React 图表组件库，基于 recharts**
 
@@ -44,13 +44,13 @@ LobeHub 团队维护的 React 图表库（@lobehub/charts），基于 recharts �
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-charts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 118 --> 122
-    line [119, 120, 121, 121]
+    title "lobehub/lobe-charts 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 118 --> 124
+    line [119, 120, 121, 120, 122, 123, 123]
 ```
 
-2026-10-18 119 → 2026-11-02 121（+2）
+2026-10-18 119 → 2026-11-17 123（+4）
 
 
 ---

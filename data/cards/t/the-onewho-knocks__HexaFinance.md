@@ -1,6 +1,6 @@
 # the-onewho-knocks/HexaFinance
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/the-onewho-knocks/HexaFinance) · 个人维护
+⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/the-onewho-knocks/HexaFinance) · 个人维护
 
 **Go 金融模拟平台，附 LangGraph 多代理股票研究服务**
 
@@ -46,12 +46,12 @@ Clean/六边形架构的 Go 后端，模拟投资组合管理、买卖交易、�
 ```mermaid
 xychart-beta
     title "the-onewho-knocks/HexaFinance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

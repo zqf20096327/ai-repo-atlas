@@ -1,6 +1,6 @@
 # AEmotionStudio/ComfyUI-EnhancedLinksandNodes
 
-⭐ 84 · TypeScript · GPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-EnhancedLinksandNodes) · [官网](https://aemotionstudio.org/) · 组织维护
+⭐ 86 · TypeScript · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-EnhancedLinksandNodes) · [官网](https://aemotionstudio.org/) · 组织维护
 
 **ComfyUI 界面扩展：为连线与节点添加可定制动画**
 
@@ -44,13 +44,13 @@ ComfyUI 的自定义节点扩展，为工作流编辑器提供视觉动画：9 �
 
 ```mermaid
 xychart-beta
-    title "AEmotionStudio/ComfyUI-EnhancedLinksandNodes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 82 --> 85
-    line [83, 84, 84]
+    title "AEmotionStudio/ComfyUI-EnhancedLinksandNodes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 82 --> 87
+    line [83, 84, 85, 86, 86]
 ```
 
-2026-10-18 83 → 2026-11-02 84（+1）
+2026-10-18 83 → 2026-11-17 86（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # hghalebi/category_theory_transformer_rs
 
-⭐ 116 · Rust · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/hghalebi/category_theory_transformer_rs) · [官网](https://hghalebi.github.io/category_theory_transformer_rs/) · 个人维护
+⭐ 117 · Rust · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/hghalebi/category_theory_transformer_rs) · [官网](https://hghalebi.github.io/category_theory_transformer_rs/) · 个人维护
 
 **用 Rust 类型与范畴论讲解微型 ML 结构的可执行教程书**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hghalebi/category_theory_transformer_rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "hghalebi/category_theory_transformer_rs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 114 --> 118
-    line [115, 116, 117, 116]
+    line [115, 116, 117, 116, 115, 117, 117]
 ```
 
-2026-10-18 115 → 2026-11-02 116（+1）
+2026-10-18 115 → 2026-11-17 117（+2）
 
 
 ---

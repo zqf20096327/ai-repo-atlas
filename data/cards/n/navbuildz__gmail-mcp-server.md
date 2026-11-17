@@ -1,6 +1,6 @@
 # navbuildz/gmail-mcp-server
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/navbuildz/gmail-mcp-server) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/navbuildz/gmail-mcp-server) · 组织维护
 
 **给 AI agent 用的多账户 Gmail MCP 服务器：读写邮件、归档、打标、退订**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "navbuildz/gmail-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

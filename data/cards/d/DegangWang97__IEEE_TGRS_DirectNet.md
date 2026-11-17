@@ -44,13 +44,13 @@ IEEE TGRS 2024 论文（ESI 高被引）的 PyTorch 官方实现。面向无监�
 
 ```mermaid
 xychart-beta
-    title "DegangWang97/IEEE_TGRS_DirectNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "DegangWang97/IEEE_TGRS_DirectNet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiao-yuling/sci-figure
 
-⭐ 22 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/xiao-yuling/sci-figure) · [官网](https://xiao-yuling.github.io/sci-figure) · 个人维护 · 中文 README
+⭐ 25 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/xiao-yuling/sci-figure) · [官网](https://xiao-yuling.github.io/sci-figure) · 个人维护 · 中文 README
 
 **面向 AI agent 的科研绘图 skill，生成 SCI/Elsevier 风格论文图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiao-yuling/sci-figure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "xiao-yuling/sci-figure 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

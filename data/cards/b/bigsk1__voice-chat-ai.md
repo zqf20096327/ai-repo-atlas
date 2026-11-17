@@ -1,6 +1,6 @@
 # bigsk1/voice-chat-ai
 
-⭐ 469 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/bigsk1/voice-chat-ai) · 个人维护
+⭐ 471 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bigsk1/voice-chat-ai) · 个人维护
 
 **本地/云端皆可的语音对话 AI 应用，与多个 AI 角色用语音交流**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "bigsk1/voice-chat-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 465 --> 470
-    line [466, 467, 468, 469]
+    title "bigsk1/voice-chat-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 465 --> 472
+    line [466, 467, 468, 469, 467, 470, 471, 471]
 ```
 
-2026-10-18 466 → 2026-11-02 469（+3）
+2026-10-18 466 → 2026-11-17 471（+5）
 
 
 ---

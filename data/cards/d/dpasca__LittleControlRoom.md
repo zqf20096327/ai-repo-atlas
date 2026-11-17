@@ -1,6 +1,6 @@
 # dpasca/LittleControlRoom
 
-⭐ 11 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dpasca/LittleControlRoom) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dpasca/LittleControlRoom) · 个人维护
 
 **统一管理多个仓库中编码 agent 会话的终端仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dpasca/LittleControlRoom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "dpasca/LittleControlRoom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

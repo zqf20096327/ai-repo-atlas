@@ -1,6 +1,6 @@
 # caspianmoon/memoripy
 
-⭐ 693 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/caspianmoon/memoripy) · 个人维护
+⭐ 692 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/caspianmoon/memoripy) · 个人维护
 
 **面向 AI agent 的本地证据式记忆运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "caspianmoon/memoripy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 692 --> 696
-    line [694, 695, 694, 693, 693]
+    title "caspianmoon/memoripy 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 690 --> 696
+    line [694, 695, 694, 693, 695, 692, 691, 692, 692]
 ```
 
-2026-10-18 694 → 2026-11-02 693（-1）
+2026-10-18 694 → 2026-11-17 692（-2）
 
 
 ---

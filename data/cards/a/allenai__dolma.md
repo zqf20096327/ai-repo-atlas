@@ -1,6 +1,6 @@
 # allenai/dolma
 
-⭐ 1,562 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/allenai/dolma) · [官网](https://allenai.github.io/dolma/) · 组织维护
+⭐ 1,565 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/allenai/dolma) · [官网](https://allenai.github.io/dolma/) · 组织维护
 
 **给 NLP 研究者：3 万亿 token 开放预训练语料与数据清洗工具包**
 
@@ -44,13 +44,13 @@ Dolma 包含两部分：一是 3 万亿 token 的开放数据集，来源覆盖�
 
 ```mermaid
 xychart-beta
-    title "allenai/dolma 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1558 --> 1563
-    line [1559, 1561, 1562, 1562]
+    title "allenai/dolma 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 1558 --> 1566
+    line [1559, 1561, 1562, 1561, 1563, 1564, 1565, 1565]
 ```
 
-2026-10-18 1,559 → 2026-11-02 1,562（+3）
+2026-10-18 1,559 → 2026-11-17 1,565（+6）
 
 
 ---

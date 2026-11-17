@@ -1,6 +1,6 @@
 # cagataycali/tiny-technology
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/cagataycali/tiny-technology) · [官网](https://tiny.technology) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/cagataycali/tiny-technology) · [官网](https://tiny.technology) · 个人维护
 
 **通过对话创建个人 AI 的平台：每个 AI 有 URL、记忆、设备载体与钱包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cagataycali/tiny-technology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "cagataycali/tiny-technology 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

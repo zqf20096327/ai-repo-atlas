@@ -1,6 +1,6 @@
 # precious112/caret-desktop
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/precious112/caret-desktop) · [官网](https://caretai.cloud) · 个人维护
+⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/precious112/caret-desktop) · [官网](https://caretai.cloud) · 个人维护
 
 **本地运行的桌面设计画布：在代码渲染的页面上直接改设计并写回源文件**
 
@@ -47,13 +47,13 @@ Electron 桌面应用，把仓库中的页面渲染为可交互画布：右键�
 
 ```mermaid
 xychart-beta
-    title "precious112/caret-desktop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 36 --> 44
-    line [37, 38, 39, 42, 43]
+    title "precious112/caret-desktop 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 36 --> 53
+    line [37, 38, 39, 42, 43, 38, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 37 → 2026-11-02 43（+6）
+2026-10-18 37 → 2026-11-17 52（+15）
 
 
 ---

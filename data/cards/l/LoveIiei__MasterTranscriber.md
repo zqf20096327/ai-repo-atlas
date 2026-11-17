@@ -1,6 +1,6 @@
 # LoveIiei/MasterTranscriber
 
-⭐ 13 · C# · 推送 2025-11-06 · [GitHub](https://github.com/LoveIiei/MasterTranscriber) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 桌面应用：录音并实时转写、翻译、AI 总结会议与课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LoveIiei/MasterTranscriber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-07 13（+0）
 
 
 ---

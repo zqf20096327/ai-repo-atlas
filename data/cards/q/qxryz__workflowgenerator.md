@@ -1,6 +1,6 @@
 # qxryz/workflowgenerator
 
-⭐ 48 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/qxryz/workflowgenerator) · [官网](https://workflow.zhouzhou.dev) · 个人维护 · 中文 README
+⭐ 47 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/qxryz/workflowgenerator) · [官网](https://workflow.zhouzhou.dev) · 个人维护 · 中文 README
 
 **无限画布上的多模态 AI 创作 Agent 工作台（BYOK）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qxryz/workflowgenerator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 47 --> 54
-    line [53, 52, 48, 48]
+    title "qxryz/workflowgenerator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 54
+    line [53, 52, 48, 47, 47]
 ```
 
-2026-10-18 53 → 2026-11-02 48（-5）
+2026-10-18 53 → 2026-11-17 47（-6）
 
 
 ---

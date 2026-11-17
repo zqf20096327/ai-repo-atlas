@@ -1,6 +1,6 @@
 # model-architectures/GRAPE
 
-⭐ 122 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/model-architectures/GRAPE) · [官网](https://model-architectures.github.io/GRAPE/) · 组织维护
+⭐ 122 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/model-architectures/GRAPE) · [官网](https://model-architectures.github.io/GRAPE/) · 组织维护
 
 **统一群论位置编码框架的预训练研究代码（ICLR 2026）**
 
@@ -45,13 +45,13 @@ ICLR 2026 论文 GRAPE 的官方实现：以群作用（SO(d) 旋转与 GL(d+k) 
 
 ```mermaid
 xychart-beta
-    title "model-architectures/GRAPE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "model-architectures/GRAPE 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 120 --> 123
-    line [121, 122, 122]
+    line [121, 122, 121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-11-02 122（+1）
+2026-10-18 121 → 2026-11-17 122（+1）
 
 
 ---

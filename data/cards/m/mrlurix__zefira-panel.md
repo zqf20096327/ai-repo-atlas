@@ -1,6 +1,6 @@
 # mrlurix/zefira-panel
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mrlurix/zefira-panel) · [官网](https://mrlurix.github.io/zefira-panel/) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/mrlurix/zefira-panel) · [官网](https://mrlurix.github.io/zefira-panel/) · 个人维护 · 中文 README
 
 **多协议 VPN 账号销售管理面板，附带 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrlurix/zefira-panel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-17"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

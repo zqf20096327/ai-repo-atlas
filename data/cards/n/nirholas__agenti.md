@@ -1,6 +1,6 @@
 # nirholas/agenti
 
-⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/nirholas/agenti) · [官网](https://agenti.cash) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI agent 配加密钱包的支付 SDK 与 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirholas/agenti 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 79 --> 82
-    line [80, 81, 81]
+    title "nirholas/agenti 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10"]
+    y-axis "stars" 79 --> 85
+    line [80, 81, 82, 84]
 ```
 
-2026-10-18 80 → 2026-11-02 81（+1）
+2026-10-18 80 → 2026-11-10 84（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # zai-org/feedback
 
-⭐ 39 · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/zai-org/feedback) · 组织维护 · 中文 README
+⭐ 42 · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/zai-org/feedback) · 组织维护 · 中文 README
 
 **ZCode 官方用户反馈收集仓库，处理状态全程公开**
 
@@ -44,13 +44,13 @@ Z.ai 官方维护的 ZCode 反馈中心：通过 GitHub Issues 与 Discussions �
 
 ```mermaid
 xychart-beta
-    title "zai-org/feedback 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39, 39]
+    title "zai-org/feedback 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 43
+    line [36, 37, 38, 39, 40, 41, 42, 42]
 ```
 
-2026-10-18 36 → 2026-11-02 39（+3）
+2026-10-18 36 → 2026-11-17 42（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # whoisrade/agentic-field-manual
 
-⭐ 13 · MIT · 推送 2026-03-10 · [GitHub](https://github.com/whoisrade/agentic-field-manual) · [官网](https://github.com/whoisrade/agentic-field-manual) · 个人维护
+⭐ 14 · MIT · 推送 2026-03-10 · [GitHub](https://github.com/whoisrade/agentic-field-manual) · [官网](https://github.com/whoisrade/agentic-field-manual) · 个人维护
 
 **生产级 AI 系统运维手册：架构模式、失效模式与运维剧本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "whoisrade/agentic-field-manual 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "whoisrade/agentic-field-manual 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

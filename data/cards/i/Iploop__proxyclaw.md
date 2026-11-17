@@ -1,6 +1,6 @@
 # Iploop/proxyclaw
 
-⭐ 12 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/Iploop/proxyclaw) · [官网](https://proxyclaw.ai) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Iploop/proxyclaw) · [官网](https://proxyclaw.ai) · 组织维护
 
 **面向 AI 代理与爬虫的住宅代理 SDK（200 万 IP、195 国）**
 
@@ -44,13 +44,13 @@ IPLoop 公司的住宅代理平台客户端：提供 Python/Node.js SDK、curl �
 
 ```mermaid
 xychart-beta
-    title "Iploop/proxyclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "Iploop/proxyclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # RumbleDB/rumble
 
-⭐ 249 · Java · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/RumbleDB/rumble) · [官网](http://rumbledb.org/) · 组织维护
+⭐ 251 · Java · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/RumbleDB/rumble) · [官网](http://rumbledb.org/) · 组织维护
 
 **基于 Apache Spark 的 JSONiq 查询引擎，查询大规模嵌套异构数据**
 
@@ -45,13 +45,13 @@ RumbleDB 是构建在 Apache Spark 之上的查询引擎，以 JSONiq 查询语�
 
 ```mermaid
 xychart-beta
-    title "RumbleDB/rumble 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 248 --> 250
-    line [249, 249]
+    title "RumbleDB/rumble 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 248 --> 252
+    line [249, 250, 251, 251]
 ```
 
-2026-10-18 249 → 2026-11-02 249（+0）
+2026-10-18 249 → 2026-11-17 251（+2）
 
 
 ---

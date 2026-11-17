@@ -1,6 +1,6 @@
 # Trhova/Multi-omics
 
-⭐ 96 · Python · 推送 2025-12-28 · [GitHub](https://github.com/Trhova/Multi-omics) · 个人维护
+⭐ 97 · Python · 推送 2025-12-28 · [GitHub](https://github.com/Trhova/Multi-omics) · 个人维护
 
 **多组学整合方法（DIABLO/DIVAS/VAE）的入门教程与示例代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Trhova/Multi-omics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    title "Trhova/Multi-omics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 95 --> 98
+    line [96, 97, 97]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 97（+1）
 
 
 ---

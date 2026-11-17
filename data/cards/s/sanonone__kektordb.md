@@ -1,6 +1,6 @@
 # sanonone/kektordb
 
-⭐ 88 · Go · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/sanonone/kektordb) · 个人维护
+⭐ 91 · Go · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/sanonone/kektordb) · 个人维护
 
 **面向 AI agent 的记忆系统：向量检索+时序知识图谱+认知引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanonone/kektordb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 85 --> 89
-    line [86, 87, 88, 88]
+    title "sanonone/kektordb 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 85 --> 92
+    line [86, 87, 88, 89, 90, 91, 91]
 ```
 
-2026-10-18 86 → 2026-11-02 88（+2）
+2026-10-18 86 → 2026-11-17 91（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # raydeStar/sir-thaddeus
 
-⭐ 15 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/raydeStar/sir-thaddeus) · 个人维护
+⭐ 15 · C# · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/raydeStar/sir-thaddeus) · 个人维护
 
 **Windows 本地优先 AI 助手工作区：自带模型、权限与记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raydeStar/sir-thaddeus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

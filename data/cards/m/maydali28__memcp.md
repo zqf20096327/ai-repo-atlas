@@ -1,6 +1,6 @@
 # maydali28/memcp
 
-⭐ 17 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/maydali28/memcp) · [官网](https://pypi.org/project/claude-memory-mcp/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/maydali28/memcp) · [官网](https://pypi.org/project/claude-memory-mcp/) · 个人维护
 
 **为 Claude Code 提供持久记忆的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maydali28/memcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "maydali28/memcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

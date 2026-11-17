@@ -1,6 +1,6 @@
 # runta-dev/errand
 
-⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/runta-dev/errand) · [官网](https://runerrand.dev/) · 组织维护
+⭐ 143 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/runta-dev/errand) · [官网](https://runerrand.dev/) · 组织维护
 
 **macOS 桌面客户端：管理常驻云端 AI 队友及其专属云电脑**
 
@@ -45,13 +45,13 @@ Electron + React + TypeScript 构建的 macOS（13+，Apple Silicon）桌面应�
 
 ```mermaid
 xychart-beta
-    title "runta-dev/errand 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 133 --> 140
-    line [134, 136, 138, 139, 139]
+    title "runta-dev/errand 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 133 --> 144
+    line [134, 136, 138, 139, 136, 142, 143, 143]
 ```
 
-2026-10-18 134 → 2026-11-02 139（+5）
+2026-10-18 134 → 2026-11-17 143（+9）
 
 
 ---

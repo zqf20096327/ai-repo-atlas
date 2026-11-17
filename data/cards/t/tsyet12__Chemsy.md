@@ -1,6 +1,6 @@
 # tsyet12/Chemsy
 
-⭐ 12 · Python · BSD-2-Clause · 推送 2026-03-26 · [GitHub](https://github.com/tsyet12/Chemsy) · 个人维护
+⭐ 12 · Python · BSD-2-Clause · 推送 2026-11-09 · [GitHub](https://github.com/tsyet12/Chemsy) · 个人维护
 
 **化学计量学自动预处理搜索框架：光谱与工业过程数据建模**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tsyet12/Chemsy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

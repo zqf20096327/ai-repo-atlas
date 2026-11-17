@@ -1,6 +1,6 @@
 # cuddly-guacamole/opencode-routing-suite
 
-⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cuddly-guacamole/opencode-routing-suite) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cuddly-guacamole/opencode-routing-suite) · 个人维护 · 中文 README
 
 **DeepSeek V4 专用任务路由套件：opencode 插件，四阶段渐进披露**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cuddly-guacamole/opencode-routing-suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "cuddly-guacamole/opencode-routing-suite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [21, 20, 20]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 20（-1）
 
 
 ---

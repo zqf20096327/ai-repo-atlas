@@ -1,6 +1,6 @@
 # nozomi-koborinai/jev-spec
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/nozomi-koborinai/jev-spec) · [官网](https://koborin.ai/tech/jev-spec-introduction) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/nozomi-koborinai/jev-spec) · [官网](https://koborin.ai/tech/jev-spec-introduction) · 个人维护 · 中文 README
 
 **对照 Markdown 规格检查代码漂移的 CI/pre-commit 门禁工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nozomi-koborinai/jev-spec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "nozomi-koborinai/jev-spec 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

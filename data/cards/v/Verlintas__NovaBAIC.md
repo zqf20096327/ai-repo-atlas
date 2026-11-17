@@ -1,6 +1,6 @@
 # Verlintas/NovaBAIC
 
-⭐ 24 · Kotlin · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Verlintas/NovaBAIC) · [官网](https://verlintas.dev/NovaBAIC/) · 个人维护 · 中文 README
+⭐ 120 · Kotlin · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Verlintas/NovaBAIC) · [官网](https://verlintas.dev/NovaBAIC/) · 个人维护 · 中文 README
 
 **本地优先的 Android AI 智能体 App：让 AI 通过函数调用操作手机**
 
@@ -46,13 +46,13 @@ BetterAIChat2（代号 Nova）是 BetterAIChat 的重制版，面向终端用户
 
 ```mermaid
 xychart-beta
-    title "Verlintas/NovaBAIC 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 6 --> 25
-    line [7, 8, 9, 17, 24]
+    title "Verlintas/NovaBAIC 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 0 --> 131
+    line [7, 8, 9, 17, 24, 8, 99, 114, 119, 120, 120]
 ```
 
-2026-10-18 7 → 2026-11-02 24（+17）
+2026-10-18 7 → 2026-11-17 120（+113）
 
 
 ---

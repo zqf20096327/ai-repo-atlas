@@ -1,6 +1,6 @@
 # anatoly505/ios-reverse-skills
 
-⭐ 15 · Shell · Unlicense · 推送 2026-05-06 · [GitHub](https://github.com/anatoly505/ios-reverse-skills) · 个人维护
+⭐ 18 · Shell · Unlicense · 推送 2026-05-06 · [GitHub](https://github.com/anatoly505/ios-reverse-skills) · 个人维护
 
 **多 LLM 适配的 iOS 逆向工程技能包：14 阶段工作流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "anatoly505/ios-reverse-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "anatoly505/ios-reverse-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 18（+5）
 
 
 ---

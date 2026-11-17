@@ -1,6 +1,6 @@
 # wmaslonek/guardian-db
 
-⭐ 215 · Rust · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/wmaslonek/guardian-db) · [官网](https://www.willsearch.com.br) · 个人维护
+⭐ 214 · Rust · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/wmaslonek/guardian-db) · [官网](https://www.willsearch.com.br) · 个人维护
 
 **基于 Rust 与 Iroh 的本地优先 P2P 去中心化数据库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wmaslonek/guardian-db 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "wmaslonek/guardian-db 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 213 --> 216
-    line [214, 215, 215]
+    line [214, 215, 214, 214]
 ```
 
-2026-10-18 214 → 2026-11-02 215（+1）
+2026-10-18 214 → 2026-11-17 214（+0）
 
 
 ---

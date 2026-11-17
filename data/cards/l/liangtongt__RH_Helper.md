@@ -1,6 +1,6 @@
 # liangtongt/RH_Helper
 
-⭐ 103 · 推送 2026-11-01 · [GitHub](https://github.com/liangtongt/RH_Helper) · 个人维护 · 中文 README
+⭐ 103 · 推送 2026-11-16 · [GitHub](https://github.com/liangtongt/RH_Helper) · 个人维护 · 中文 README
 
 **给 RunningHub 用户的 latent 解码与去水印辅助工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangtongt/RH_Helper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
+    title "liangtongt/RH_Helper 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 101 --> 104
-    line [102, 103, 102, 103, 103]
+    line [102, 103, 102, 103, 102, 103, 103]
 ```
 
-2026-10-18 102 → 2026-11-02 103（+1）
+2026-10-18 102 → 2026-11-17 103（+1）
 
 
 ---

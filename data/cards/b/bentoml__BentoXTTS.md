@@ -1,6 +1,6 @@
 # bentoml/BentoXTTS
 
-⭐ 12 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoXTTS) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 BentoML 部署 XTTS 语音克隆模型的服务示例项目**
 
@@ -44,12 +44,12 @@ BentoML 官方示例工程，演示如何将 XTTS 语音生成模型封装为 te
 ```mermaid
 xychart-beta
     title "bentoml/BentoXTTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-08 12（+0）
 
 
 ---

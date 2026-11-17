@@ -1,6 +1,6 @@
 # Kai26-Han/miniLLM
 
-⭐ 57 · Python · 推送 2026-09-23 · [GitHub](https://github.com/Kai26-Han/miniLLM) · [官网](https://www.modelscope.cn/studios/kayson2026/miniLLM) · 个人维护 · 中文 README
+⭐ 61 · Python · 推送 2026-09-23 · [GitHub](https://github.com/Kai26-Han/miniLLM) · [官网](https://www.modelscope.cn/studios/kayson2026/miniLLM) · 个人维护 · 中文 README
 
 **单卡从零训练 200M 参数语言模型的教学实验项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kai26-Han/miniLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "Kai26-Han/miniLLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 56 --> 63
-    line [62, 57, 57]
+    line [62, 57, 61, 61]
 ```
 
-2026-10-18 62 → 2026-11-02 57（-5）
+2026-10-18 62 → 2026-11-17 61（-1）
 
 
 ---

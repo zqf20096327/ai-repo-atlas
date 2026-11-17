@@ -1,6 +1,6 @@
 # dineshsoudagar/local-document-intelligence
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/dineshsoudagar/local-document-intelligence) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/dineshsoudagar/local-document-intelligence) · 个人维护
 
 **完全本地运行的 PDF 文档知识库与 RAG 问答桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dineshsoudagar/local-document-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "dineshsoudagar/local-document-intelligence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

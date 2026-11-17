@@ -1,6 +1,6 @@
 # promptise-com/Foundry
 
-⭐ 893 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
+⭐ 897 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
 
 **构建、运行与治理 AI agent 的全栈 Python 框架**
 
@@ -45,13 +45,13 @@ Python 框架 Promptise Foundry，面向需要 agent 系统可问责的开发团
 
 ```mermaid
 xychart-beta
-    title "promptise-com/Foundry 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 871 --> 896
-    line [874, 873, 892, 893, 892, 893, 894, 893]
+    title "promptise-com/Foundry 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 871 --> 899
+    line [874, 873, 892, 893, 892, 893, 894, 893, 892, 894, 897, 897]
 ```
 
-2026-10-18 874 → 2026-11-02 893（+19）
+2026-10-18 874 → 2026-11-17 897（+23）
 
 
 ---

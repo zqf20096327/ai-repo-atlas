@@ -1,6 +1,6 @@
 # leopiney/linus-torvalds-skills
 
-⭐ 288 · 推送 2026-04-23 · [GitHub](https://github.com/leopiney/linus-torvalds-skills) · 个人维护 · 中文 README
+⭐ 299 · 推送 2026-04-23 · [GitHub](https://github.com/leopiney/linus-torvalds-skills) · 个人维护 · 中文 README
 
 **约束 AI 编程助手行为的单文件准则（CLAUDE.md）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leopiney/linus-torvalds-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 286 --> 289
-    line [287, 288, 288]
+    title "leopiney/linus-torvalds-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 286 --> 300
+    line [287, 288, 292, 295, 296, 298, 299, 299]
 ```
 
-2026-10-18 287 → 2026-11-02 288（+1）
+2026-10-18 287 → 2026-11-17 299（+12）
 
 
 ---

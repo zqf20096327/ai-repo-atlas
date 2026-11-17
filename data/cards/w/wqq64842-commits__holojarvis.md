@@ -1,6 +1,6 @@
 # wqq64842-commits/holojarvis
 
-⭐ 75 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/wqq64842-commits/holojarvis) · 个人维护 · 中文 README
+⭐ 76 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/wqq64842-commits/holojarvis) · 个人维护 · 中文 README
 
 **跨平台中文语音助手：本地识别唤醒、任意大模型、工具调用与桌宠**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wqq64842-commits/holojarvis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 73 --> 76
-    line [75, 74, 75, 75]
+    title "wqq64842-commits/holojarvis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [75, 74, 75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

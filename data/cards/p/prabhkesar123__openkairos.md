@@ -1,6 +1,6 @@
 # prabhkesar123/openkairos
 
-⭐ 13 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/prabhkesar123/openkairos) · [官网](https://pypi.org/project/openkairos) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/prabhkesar123/openkairos) · [官网](https://pypi.org/project/openkairos) · 个人维护
 
 **常驻后台的自主 AI 编码守护进程：持续监控代码库并自主行动**
 
@@ -44,13 +44,13 @@ Python 实现的后台守护进程，每 5 分钟唤醒扫描仓库、评估 git
 
 ```mermaid
 xychart-beta
-    title "prabhkesar123/openkairos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "prabhkesar123/openkairos 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

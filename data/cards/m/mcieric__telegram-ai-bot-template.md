@@ -1,6 +1,6 @@
 # mcieric/telegram-ai-bot-template
 
-⭐ 15 · JavaScript · 推送 2025-11-07 · [GitHub](https://github.com/mcieric/telegram-ai-bot-template) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **最小化 Telegram AI 机器人模板：接入 OpenAI 自动回复消息**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mcieric/telegram-ai-bot-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-07 15（+0）
 
 
 ---

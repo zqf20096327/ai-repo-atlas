@@ -1,6 +1,6 @@
 # lucidrains/worldparticle
 
-⭐ 45 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/lucidrains/worldparticle) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/lucidrains/worldparticle) · 个人维护
 
 **WorldParticle 论文的 PyTorch 实现：Transformer 模拟拉格朗日粒子动力学**
 
@@ -43,13 +43,13 @@ lucidrains 维护的 WorldParticle 官方描述中论文实现：用 Transformer
 
 ```mermaid
 xychart-beta
-    title "lucidrains/worldparticle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "lucidrains/worldparticle 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 44 --> 54
+    line [45, 46, 48, 51, 52, 53, 53]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 53（+8）
 
 
 ---

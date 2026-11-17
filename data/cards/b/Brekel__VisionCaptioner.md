@@ -1,6 +1,6 @@
 # Brekel/VisionCaptioner
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/Brekel/VisionCaptioner) · [官网](https://brekel.com) · 个人维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/Brekel/VisionCaptioner) · [官网](https://brekel.com) · 个人维护
 
 **本地桌面应用：批量为图像/视频数据集生成字幕与分割掩码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Brekel/VisionCaptioner 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 113 --> 116
-    line [115, 114, 115, 115]
+    title "Brekel/VisionCaptioner 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 113 --> 118
+    line [115, 114, 115, 114, 115, 116, 117, 117]
 ```
 
-2026-10-18 115 → 2026-11-02 115（+0）
+2026-10-18 115 → 2026-11-17 117（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # IRCVLab/Depth-Anything-for-Jetson-Orin
 
-⭐ 72 · Python · 推送 2025-11-10 · [GitHub](https://github.com/IRCVLab/Depth-Anything-for-Jetson-Orin) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Jetson Orin 的实时单目深度估计方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IRCVLab/Depth-Anything-for-Jetson-Orin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-07 72（+0）
 
 
 ---

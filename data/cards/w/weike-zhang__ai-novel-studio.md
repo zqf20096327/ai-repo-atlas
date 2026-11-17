@@ -1,6 +1,6 @@
 # weike-zhang/ai-novel-studio
 
-⭐ 235 · Go · MIT · 推送 2026-10-03 · [GitHub](https://github.com/weike-zhang/ai-novel-studio) · 个人维护 · 中文 README
+⭐ 236 · Go · MIT · 推送 2026-10-03 · [GitHub](https://github.com/weike-zhang/ai-novel-studio) · 个人维护 · 中文 README
 
 **AI 互动小说创作台：世界构建、分支选择与角色状态持久化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weike-zhang/ai-novel-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 233 --> 236
-    line [234, 235, 235]
+    title "weike-zhang/ai-novel-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 233 --> 237
+    line [234, 235, 236, 236]
 ```
 
-2026-10-18 234 → 2026-11-02 235（+1）
+2026-10-18 234 → 2026-11-17 236（+2）
 
 
 ---

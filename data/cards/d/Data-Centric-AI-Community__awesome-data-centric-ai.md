@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/awesome-data-centric-ai
 
-⭐ 358 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) · 组织维护
+⭐ 360 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) · 组织维护
 
 **以数据为中心的 AI 资源策展清单：库/教程/课程/基准**
 
@@ -44,13 +44,13 @@ Data-Centric AI Community 维护的 awesome 清单，收录以训练数据（而
 
 ```mermaid
 xychart-beta
-    title "Data-Centric-AI-Community/awesome-data-centric-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 356 --> 359
-    line [357, 358, 358]
+    title "Data-Centric-AI-Community/awesome-data-centric-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 356 --> 361
+    line [357, 358, 357, 359, 360, 360]
 ```
 
-2026-10-18 357 → 2026-11-02 358（+1）
+2026-10-18 357 → 2026-11-17 360（+3）
 
 
 ---

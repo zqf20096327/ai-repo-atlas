@@ -1,6 +1,6 @@
 # henrikekblad/codelight
 
-⭐ 71 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/henrikekblad/codelight) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/henrikekblad/codelight) · 个人维护
 
 **多编码 agent 远程监控面板：跨设备看状态、批权限、答提问**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "henrikekblad/codelight 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 68 --> 72
-    line [69, 71, 71]
+    title "henrikekblad/codelight 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 68 --> 74
+    line [69, 71, 72, 73, 73]
 ```
 
-2026-10-18 69 → 2026-11-02 71（+2）
+2026-10-18 69 → 2026-11-17 73（+4）
 
 
 ---

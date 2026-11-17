@@ -1,6 +1,6 @@
 # microsoft/intelligence-toolkit
 
-⭐ 111 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/intelligence-toolkit) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/intelligence-toolkit) · 组织维护
 
 **供领域专家从案例/实体/文本数据生成 AI 情报报告的交互式工作流套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/intelligence-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 110 --> 112
-    line [111, 111]
+    title "microsoft/intelligence-toolkit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 110 --> 114
+    line [111, 113, 112, 112]
 ```
 
-2026-10-18 111 → 2026-11-02 111（+0）
+2026-10-18 111 → 2026-11-17 112（+1）
 
 
 ---

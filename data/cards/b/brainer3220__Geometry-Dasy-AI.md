@@ -1,6 +1,6 @@
 # brainer3220/Geometry-Dasy-AI
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/brainer3220/Geometry-Dasy-AI) · 个人维护
+⭐ 12 · Jupyter Notebook · MIT · 推送 2026-11-06 · [GitHub](https://github.com/brainer3220/Geometry-Dasy-AI) · 个人维护
 
 **用 CNN 物体检测与 DQN 自动玩 Geometry Dash 的 AI 项目**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "brainer3220/Geometry-Dasy-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "brainer3220/Geometry-Dasy-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nosqlnull/ChatGPT-SparkAi
 
-⭐ 60 · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/nosqlnull/ChatGPT-SparkAi) · [官网](https://docs.sparkaigc.com) · 组织维护 · 中文 README
+⭐ 61 · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/nosqlnull/ChatGPT-SparkAi) · [官网](https://docs.sparkaigc.com) · 组织维护 · 中文 README
 
 **可私有化部署的一站式 AIGC 商业系统：AI 对话/绘画/视频/智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nosqlnull/ChatGPT-SparkAi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "nosqlnull/ChatGPT-SparkAi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

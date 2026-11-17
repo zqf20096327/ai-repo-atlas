@@ -1,6 +1,6 @@
 # muhammad-fiaz/finetune-web-ui
 
-⭐ 13 · Python · AGPL-3.0 · 推送 2026-03-03 · [GitHub](https://github.com/muhammad-fiaz/finetune-web-ui) · 个人维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-03-03 · [GitHub](https://github.com/muhammad-fiaz/finetune-web-ui) · 个人维护
 
 **面向 LLM 微调训练与部署的 Web 图形界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "muhammad-fiaz/finetune-web-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "muhammad-fiaz/finetune-web-ui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

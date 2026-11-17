@@ -1,6 +1,6 @@
 # SAMEEHA17/CAREER-ASSISTANCE-PORTAL
 
-⭐ 17 · JavaScript · 推送 2025-11-27 · [GitHub](https://github.com/SAMEEHA17/CAREER-ASSISTANCE-PORTAL) · [官网](https://sensai-bysamee.vercel.app) · 个人维护
+⭐ 18 · JavaScript · 推送 2025-11-27 · [GitHub](https://github.com/SAMEEHA17/CAREER-ASSISTANCE-PORTAL) · [官网](https://sensai-bysamee.vercel.app) · 个人维护
 
 **基于 AI 与行业动态洞察的求职辅助门户（Next.js 全栈）**
 
@@ -42,13 +42,13 @@ Next.js 全栈项目，README 主体为 create-next-app 生成的脚手架文档
 
 ```mermaid
 xychart-beta
-    title "SAMEEHA17/CAREER-ASSISTANCE-PORTAL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "SAMEEHA17/CAREER-ASSISTANCE-PORTAL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

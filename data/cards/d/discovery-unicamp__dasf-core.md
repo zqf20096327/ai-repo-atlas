@@ -1,6 +1,6 @@
 # discovery-unicamp/dasf-core
 
-⭐ 12 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/discovery-unicamp/dasf-core) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/discovery-unicamp/dasf-core) · 组织维护
 
 **用 Dask 与 RAPIDS 加速扩展机器学习算法的 Python 框架**
 
@@ -44,13 +44,13 @@ DASF 是面向机器学习算法加速与扩展的 Python 通用框架：通过 
 
 ```mermaid
 xychart-beta
-    title "discovery-unicamp/dasf-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "discovery-unicamp/dasf-core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

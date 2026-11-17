@@ -1,6 +1,6 @@
 # lygitdata/GarmentIQ
 
-⭐ 37 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/lygitdata/GarmentIQ) · [官网](https://GarmentIQ.ly.gd.edu.kg) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/lygitdata/GarmentIQ) · [官网](https://GarmentIQ.ly.gd.edu.kg) · 组织维护
 
 **从图像自动测量服装尺寸的计算机视觉 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lygitdata/GarmentIQ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "lygitdata/GarmentIQ 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

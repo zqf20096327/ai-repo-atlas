@@ -1,6 +1,6 @@
 # Vijax0/ai-clip-creator
 
-⭐ 104 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Vijax0/ai-clip-creator) · 个人维护
+⭐ 106 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/Vijax0/ai-clip-creator) · 个人维护
 
 **从直播/视频中用 AI 自动生成高光剪辑片段的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vijax0/ai-clip-creator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    title "Vijax0/ai-clip-creator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 103 --> 107
+    line [104, 105, 106, 106]
 ```
 
-2026-10-18 104 → 2026-11-02 104（+0）
+2026-10-18 104 → 2026-11-17 106（+2）
 
 
 ---

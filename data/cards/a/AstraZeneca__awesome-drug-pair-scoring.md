@@ -1,6 +1,6 @@
 # AstraZeneca/awesome-drug-pair-scoring
 
-⭐ 101 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/AstraZeneca/awesome-drug-pair-scoring) · 组织维护
+⭐ 102 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/AstraZeneca/awesome-drug-pair-scoring) · 组织维护
 
 **药物对评分关系深度学习综述的配套论文阅读清单**
 
@@ -42,13 +42,13 @@ AstraZeneca 团队维护的 awesome 清单，作为 IJCAI 2022 综述论文《A 
 
 ```mermaid
 xychart-beta
-    title "AstraZeneca/awesome-drug-pair-scoring 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    title "AstraZeneca/awesome-drug-pair-scoring 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 100 --> 103
+    line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-11-02 101（+0）
+2026-10-18 101 → 2026-11-17 102（+1）
 
 
 ---

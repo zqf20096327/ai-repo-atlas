@@ -1,6 +1,6 @@
 # loop-js/loop.js
 
-⭐ 136 · TypeScript · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/loop-js/loop.js) · [官网](https://loop-js.mintlify.site/) · 组织维护
+⭐ 137 · TypeScript · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/loop-js/loop.js) · [官网](https://loop-js.mintlify.site/) · 组织维护
 
 **面向开发者的循环工程框架：目标驱动多轮 agent 运行直至独立验证通过**
 
@@ -45,13 +45,13 @@ loop.js 是一个 TypeScript/Node.js 框架，实现所谓 loop engineering：�
 
 ```mermaid
 xychart-beta
-    title "loop-js/loop.js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "loop-js/loop.js 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 135 --> 138
-    line [137, 136, 136]
+    line [137, 136, 137, 137]
 ```
 
-2026-10-18 137 → 2026-11-02 136（-1）
+2026-10-18 137 → 2026-11-17 137（+0）
 
 
 ---

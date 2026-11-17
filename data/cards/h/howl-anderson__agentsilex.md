@@ -1,6 +1,6 @@
 # howl-anderson/agentsilex
 
-⭐ 459 · Python · MIT · 推送 2026-01-02 · [GitHub](https://github.com/howl-anderson/agentsilex) · [官网](https://github.com/howl-anderson/agentsilex) · 个人维护
+⭐ 460 · Python · MIT · 推送 2026-01-02 · [GitHub](https://github.com/howl-anderson/agentsilex) · [官网](https://github.com/howl-anderson/agentsilex) · 个人维护
 
 **约 300 行代码的可读可改 Python agent 框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "howl-anderson/agentsilex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 457 --> 460
-    line [458, 459, 459]
+    title "howl-anderson/agentsilex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 457 --> 461
+    line [458, 459, 458, 459, 460, 460]
 ```
 
-2026-10-18 458 → 2026-11-02 459（+1）
+2026-10-18 458 → 2026-11-17 460（+2）
 
 
 ---

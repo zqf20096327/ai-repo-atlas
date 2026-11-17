@@ -1,6 +1,6 @@
 # war851/AI-Governance-Architecture
 
-⭐ 56 · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/war851/AI-Governance-Architecture) · [官网](https://toldi.io) · 个人维护
+⭐ 57 · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/war851/AI-Governance-Architecture) · [官网](https://toldi.io) · 个人维护
 
 **数据库治理的 LLM 应用架构模式与 Claude Code 配置工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "war851/AI-Governance-Architecture 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "war851/AI-Governance-Architecture 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

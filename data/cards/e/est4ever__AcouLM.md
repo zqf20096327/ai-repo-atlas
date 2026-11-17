@@ -1,6 +1,6 @@
 # est4ever/AcouLM
 
-⭐ 13 · C++ · MIT · 推送 2026-08-24 · [GitHub](https://github.com/est4ever/AcouLM) · [官网](https://est4ever.github.io/AcouLM/) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-08-24 · [GitHub](https://github.com/est4ever/AcouLM) · [官网](https://est4ever.github.io/AcouLM/) · 个人维护
 
 **本地语言模型运行栈：在自己 PC 上加载模型并浏览器/终端对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "est4ever/AcouLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "est4ever/AcouLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

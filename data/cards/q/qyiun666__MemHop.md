@@ -1,6 +1,6 @@
 # qyiun666/MemHop
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/qyiun666/MemHop) · 个人维护 · 中文 README
+⭐ 25 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/qyiun666/MemHop) · 个人维护 · 中文 README
 
 **面向 AI agent 的嵌入式长期记忆数据库（单 .meh 文件）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qyiun666/MemHop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

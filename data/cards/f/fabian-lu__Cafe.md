@@ -1,6 +1,6 @@
 # fabian-lu/Cafe
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/fabian-lu/Cafe) · [官网](https://cafe-ai.de) · 个人维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/fabian-lu/Cafe) · [官网](https://cafe-ai.de) · 个人维护
 
 **复合 AI 系统的实验设计评估平台：量化各技术对质量的贡献**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabian-lu/Cafe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
+    title "fabian-lu/Cafe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    line [45, 46, 47, 46, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 47（+2）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

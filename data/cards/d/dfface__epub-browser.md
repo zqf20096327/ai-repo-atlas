@@ -1,6 +1,6 @@
 # dfface/epub-browser
 
-⭐ 11 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/dfface/epub-browser) · [官网](https://epub-browser-test.yuhan.tech) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **可自托管的 EPUB/PDF 网页图书馆，支持静态站与多用户服务模式**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "dfface/epub-browser 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "dfface/epub-browser 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-02 11（+1）
+2026-10-24 10 → 2026-11-12 12（+2）
 
 
 ---

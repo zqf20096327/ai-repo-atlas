@@ -1,6 +1,6 @@
 # martinopiaggi/summarize
 
-⭐ 233 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/martinopiaggi/summarize) · [官网](https://summarize.martino.im) · 个人维护
+⭐ 234 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/martinopiaggi/summarize) · [官网](https://summarize.martino.im) · 个人维护
 
 **多来源视频转 Markdown 摘要工具（YouTube/TikTok 等 11+ 来源）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "martinopiaggi/summarize 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 228 --> 234
-    line [229, 230, 231, 232, 233, 233]
+    title "martinopiaggi/summarize 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 228 --> 235
+    line [229, 230, 231, 232, 233, 230, 233, 234, 234]
 ```
 
-2026-10-18 229 → 2026-11-02 233（+4）
+2026-10-18 229 → 2026-11-17 234（+5）
 
 
 ---

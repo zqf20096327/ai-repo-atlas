@@ -1,6 +1,6 @@
 # lucasm/findto
 
-⭐ 103 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/lucasm/findto) · [官网](https://findto.app) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/lucasm/findto) · [官网](https://findto.app) · 个人维护
 
 **面向普通用户的多源去中心化网络与 AI 搜索助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucasm/findto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    title "lucasm/findto 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 102 --> 105
+    line [103, 104, 104]
 ```
 
-2026-10-18 103 → 2026-11-02 103（+0）
+2026-10-18 103 → 2026-11-17 104（+1）
 
 
 ---

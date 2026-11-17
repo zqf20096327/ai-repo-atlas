@@ -1,6 +1,6 @@
 # ArcadeAI/arcade-py
 
-⭐ 54 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ArcadeAI/arcade-py) · [官网](https://docs.arcade.dev) · 组织维护
+⭐ 55 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ArcadeAI/arcade-py) · [官网](https://docs.arcade.dev) · 组织维护
 
 **Arcade 平台的官方 Python API 客户端，供 Python 3.8+ 应用调用其 REST API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArcadeAI/arcade-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "ArcadeAI/arcade-py 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

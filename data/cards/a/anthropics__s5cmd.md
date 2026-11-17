@@ -1,6 +1,6 @@
 # anthropics/s5cmd
 
-⭐ 44 · Go · MIT · 推送 2026-05-19 · [GitHub](https://github.com/anthropics/s5cmd) · 组织维护
+⭐ 46 · Go · MIT · 推送 2026-05-19 · [GitHub](https://github.com/anthropics/s5cmd) · 组织维护
 
 **Anthropic 维护的 s5cmd 分支：S3/对象存储命令行工具，新增 GCS 与 WIF 支持**
 
@@ -44,13 +44,13 @@ Anthropic 对 peak/s5cmd 的 fork，目的是加入 Google Cloud Storage 支持�
 
 ```mermaid
 xychart-beta
-    title "anthropics/s5cmd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "anthropics/s5cmd 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 45, 46, 47, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

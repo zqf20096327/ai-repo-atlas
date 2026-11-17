@@ -1,6 +1,6 @@
 # nikhilunni/demucs-rs
 
-⭐ 160 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/nikhilunni/demucs-rs) · [官网](https://nikhilunni.github.io/demucs-rs/) · 个人维护
+⭐ 165 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/nikhilunni/demucs-rs) · [官网](https://nikhilunni.github.io/demucs-rs/) · 个人维护
 
 **Rust 实现的本地音乐源分离工具：歌曲拆分为鼓/贝斯/人声等音轨**
 
@@ -44,13 +44,13 @@ HTDemucs v4 的原生 Rust 实现，通过 Burn 框架做 GPU 加速推理，把
 
 ```mermaid
 xychart-beta
-    title "nikhilunni/demucs-rs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 153 --> 161
-    line [154, 155, 157, 158, 159, 160]
+    title "nikhilunni/demucs-rs 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 153 --> 166
+    line [154, 155, 157, 158, 159, 160, 157, 162, 164, 165, 165]
 ```
 
-2026-10-18 154 → 2026-11-02 160（+6）
+2026-10-18 154 → 2026-11-17 165（+11）
 
 
 ---

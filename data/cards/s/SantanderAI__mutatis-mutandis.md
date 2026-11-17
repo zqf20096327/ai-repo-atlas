@@ -1,6 +1,6 @@
 # SantanderAI/mutatis-mutandis
 
-⭐ 26 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/mutatis-mutandis) · [官网](https://github.com/SantanderAI) · 组织维护
+⭐ 25 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/mutatis-mutandis) · [官网](https://github.com/SantanderAI) · 组织维护
 
 **反事实情景测试的歧视审计研究代码（论文配套）**
 
@@ -45,13 +45,13 @@ Santander AI Lab 与比萨大学论文《Mutatis Mutandis: Revisiting the Compar
 
 ```mermaid
 xychart-beta
-    title "SantanderAI/mutatis-mutandis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "SantanderAI/mutatis-mutandis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 25（-1）
 
 
 ---

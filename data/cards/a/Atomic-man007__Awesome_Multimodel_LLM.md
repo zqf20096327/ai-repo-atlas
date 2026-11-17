@@ -1,6 +1,6 @@
 # Atomic-man007/Awesome_Multimodel_LLM
 
-⭐ 379 · 推送 2026-10-15 · [GitHub](https://github.com/Atomic-man007/Awesome_Multimodel_LLM) · 个人维护
+⭐ 379 · 推送 2026-11-08 · [GitHub](https://github.com/Atomic-man007/Awesome_Multimodel_LLM) · 个人维护
 
 **多模态大模型研究资源策展清单：论文/数据集/工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Atomic-man007/Awesome_Multimodel_LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 378 --> 380
     line [379, 379]
 ```
 
-2026-10-18 379 → 2026-11-02 379（+0）
+2026-10-18 379 → 2026-11-17 379（+0）
 
 
 ---

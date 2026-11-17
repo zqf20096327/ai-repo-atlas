@@ -1,6 +1,6 @@
 # weibocom/rill-flow
 
-⭐ 410 · Java · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/weibocom/rill-flow) · [官网](https://rill-flow.github.io) · 组织维护 · 中文 README
+⭐ 411 · Java · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/weibocom/rill-flow) · [官网](https://rill-flow.github.io) · 组织维护 · 中文 README
 
 **面向分布式工作负载与 LLM 的流程编排引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "weibocom/rill-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 409 --> 411
-    line [410, 410]
+    title "weibocom/rill-flow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 409 --> 412
+    line [410, 411, 411]
 ```
 
-2026-10-18 410 → 2026-11-02 410（+0）
+2026-10-18 410 → 2026-11-17 411（+1）
 
 
 ---

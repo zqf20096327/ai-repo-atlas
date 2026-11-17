@@ -1,6 +1,6 @@
 # sauravsingla/MemVanta
 
-⭐ 40 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sauravsingla/MemVanta) · [官网](https://sauravsingla.github.io/MemVanta/) · 个人维护
+⭐ 41 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sauravsingla/MemVanta) · [官网](https://sauravsingla.github.io/MemVanta/) · 个人维护
 
 **低内存 C++20 CPU 推理运行时：跑量化 GGUF Llama 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sauravsingla/MemVanta 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "sauravsingla/MemVanta 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

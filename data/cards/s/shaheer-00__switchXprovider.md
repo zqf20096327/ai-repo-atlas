@@ -1,6 +1,6 @@
 # shaheer-00/switchXprovider
 
-⭐ 21 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shaheer-00/switchXprovider) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/shaheer-00/switchXprovider) · 个人维护
 
 **Claude Code 本地多供应商代理插件：自动故障转移与用量分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shaheer-00/switchXprovider 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 21, 21]
+    title "shaheer-00/switchXprovider 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [21, 20, 21, 20, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

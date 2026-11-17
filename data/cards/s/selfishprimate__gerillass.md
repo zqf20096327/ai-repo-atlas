@@ -1,6 +1,6 @@
 # selfishprimate/gerillass
 
-⭐ 171 · SCSS · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/selfishprimate/gerillass) · [官网](https://gerillass.com/) · 个人维护
+⭐ 171 · SCSS · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/selfishprimate/gerillass) · [官网](https://gerillass.com/) · 个人维护
 
 **供编码代理读取的 Sass mixin/函数库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "selfishprimate/gerillass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 170 --> 172
     line [171, 171]
 ```
 
-2026-10-18 171 → 2026-11-02 171（+0）
+2026-10-18 171 → 2026-11-17 171（+0）
 
 
 ---

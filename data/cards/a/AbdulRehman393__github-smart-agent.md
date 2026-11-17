@@ -1,6 +1,6 @@
 # AbdulRehman393/github-smart-agent
 
-⭐ 16 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/AbdulRehman393/github-smart-agent) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/AbdulRehman393/github-smart-agent) · 个人维护
 
 **面向开发者的 GitHub 仓库 RAG 分析与问答工具**
 
@@ -44,13 +44,13 @@ Python 编写的 AI 开发者工具：输入 GitHub 仓库地址后，解析并�
 
 ```mermaid
 xychart-beta
-    title "AbdulRehman393/github-smart-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "AbdulRehman393/github-smart-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

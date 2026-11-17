@@ -1,6 +1,6 @@
 # tigergraph/pyTigerGraph
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/tigergraph/pyTigerGraph) · [官网](https://docs.tigergraph.com/pytigergraph/current/intro/) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/tigergraph/pyTigerGraph) · [官网](https://docs.tigergraph.com/pytigergraph/current/intro/) · 组织维护
 
 **TigerGraph 图数据库的 Python 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tigergraph/pyTigerGraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "tigergraph/pyTigerGraph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

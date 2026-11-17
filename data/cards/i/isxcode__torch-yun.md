@@ -1,6 +1,6 @@
 # isxcode/torch-yun
 
-⭐ 28 · Java · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/isxcode/torch-yun) · [官网](https://zhishuyun.isxcode.com) · 组织维护 · 中文 README
+⭐ 29 · Java · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/isxcode/torch-yun) · [官网](https://zhishuyun.isxcode.com) · 组织维护 · 中文 README
 
 **面向企业的轻量级 AI 应用平台：AI 对话、模型部署与训练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "isxcode/torch-yun 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "isxcode/torch-yun 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

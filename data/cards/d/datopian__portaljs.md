@@ -1,6 +1,6 @@
 # datopian/portaljs
 
-⭐ 2,370 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/datopian/portaljs) · [官网](https://www.portaljs.com) · 组织维护
+⭐ 2,371 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/datopian/portaljs) · [官网](https://www.portaljs.com) · 组织维护
 
 **AI 原生框架：用 agent 技能从需求简报搭建数据门户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datopian/portaljs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2362 --> 2371
-    line [2363, 2368, 2369, 2370, 2369, 2370, 2370]
+    title "datopian/portaljs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2362 --> 2372
+    line [2363, 2368, 2369, 2370, 2369, 2370, 2371, 2371]
 ```
 
-2026-10-18 2,363 → 2026-11-02 2,370（+7）
+2026-10-18 2,363 → 2026-11-17 2,371（+8）
 
 
 ---

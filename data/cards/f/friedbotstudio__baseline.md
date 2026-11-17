@@ -1,6 +1,6 @@
 # friedbotstudio/baseline
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/friedbotstudio/baseline) · [官网](http://baseline.friedbotstudio.com/) · 组织维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/friedbotstudio/baseline) · [官网](http://baseline.friedbotstudio.com/) · 组织维护
 
 **Claude Code 的治理层：钩子拦截工具调用，三道人工同意门**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "friedbotstudio/baseline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "friedbotstudio/baseline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

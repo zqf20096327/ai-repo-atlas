@@ -1,6 +1,6 @@
 # visual-layer/fastdup
 
-⭐ 1,917 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/visual-layer/fastdup) · [官网](https://docs.visual-layer.com/fastdup_docs_old/First%20Steps/getting-started) · 组织维护
+⭐ 1,916 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/visual-layer/fastdup) · [官网](https://docs.visual-layer.com/fastdup_docs_old/First%20Steps/getting-started) · 组织维护
 
 **图像/视频数据集质量分析工具：找重复、异常与错标**
 
@@ -44,13 +44,13 @@ fastdup 是面向图像与视频数据集的分析工具，识别重复/近重�
 
 ```mermaid
 xychart-beta
-    title "visual-layer/fastdup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "visual-layer/fastdup 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-17"]
     y-axis "stars" 1914 --> 1918
-    line [1915, 1916, 1917]
+    line [1915, 1916, 1917, 1915, 1916, 1916]
 ```
 
-2026-10-18 1,915 → 2026-11-02 1,917（+2）
+2026-10-18 1,915 → 2026-11-17 1,916（+1）
 
 
 ---

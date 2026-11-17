@@ -1,6 +1,6 @@
 # riyanshibohra/TuneKit
 
-⭐ 152 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/riyanshibohra/TuneKit) · [官网](https://tunekit.app/) · 个人维护
+⭐ 151 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/riyanshibohra/TuneKit) · [官网](https://tunekit.app/) · 个人维护
 
 **上传数据即生成 Colab 微调笔记本的工具，免费微调 SLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "riyanshibohra/TuneKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "riyanshibohra/TuneKit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-17"]
     y-axis "stars" 150 --> 153
-    line [151, 152, 152]
+    line [151, 152, 151, 152, 151, 151]
 ```
 
-2026-10-18 151 → 2026-11-02 152（+1）
+2026-10-18 151 → 2026-11-17 151（+0）
 
 
 ---

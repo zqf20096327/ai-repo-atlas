@@ -1,6 +1,6 @@
 # Yehor-Mishchyriak/PureML
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/Yehor-Mishchyriak/PureML) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Yehor-Mishchyriak/PureML) · 个人维护
 
 **纯 NumPy 实现的小型透明深度学习框架，面向教学与小型实验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yehor-Mishchyriak/PureML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "Yehor-Mishchyriak/PureML 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # PsChina/deepseek-as-subagent
 
-⭐ 54 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PsChina/deepseek-as-subagent) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PsChina/deepseek-as-subagent) · 个人维护 · 中文 README
 
 **把 DeepSeek 作为子代理运行在 Claude Code/Codex 内的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PsChina/deepseek-as-subagent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 44 --> 55
-    line [45, 47, 48, 50, 51, 52, 53, 54, 54]
+    title "PsChina/deepseek-as-subagent 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 44 --> 61
+    line [45, 47, 48, 50, 51, 52, 53, 54, 51, 58, 59, 60, 60]
 ```
 
-2026-10-18 45 → 2026-11-02 54（+9）
+2026-10-18 45 → 2026-11-17 60（+15）
 
 
 ---

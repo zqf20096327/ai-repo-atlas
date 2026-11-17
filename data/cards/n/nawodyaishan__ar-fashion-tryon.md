@@ -1,6 +1,6 @@
 # nawodyaishan/ar-fashion-tryon
 
-⭐ 15 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nawodyaishan/ar-fashion-tryon) · [官网](https://ar-fashion-tryon.vercel.app) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nawodyaishan/ar-fashion-tryon) · [官网](https://ar-fashion-tryon.vercel.app) · 个人维护
 
 **面向购物者的虚拟试衣应用：AR 实时预览与照片试穿生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nawodyaishan/ar-fashion-tryon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "nawodyaishan/ar-fashion-tryon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    line [16, 15, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AnotiaWang/deep-research-web-ui
 
-⭐ 2,224 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/AnotiaWang/deep-research-web-ui) · [官网](https://deep-research.ataw.top) · 个人维护 · 中文 README
+⭐ 2,227 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/AnotiaWang/deep-research-web-ui) · [官网](https://deep-research.ataw.top) · 个人维护 · 中文 README
 
 **把研究问题转为带引用报告的自托管 deep-research Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnotiaWang/deep-research-web-ui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 2221 --> 2225
-    line [2224, 2223, 2222, 2224, 2224]
+    title "AnotiaWang/deep-research-web-ui 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 2221 --> 2228
+    line [2224, 2223, 2222, 2224, 2223, 2225, 2227, 2227]
 ```
 
-2026-10-18 2,224 → 2026-11-02 2,224（+0）
+2026-10-18 2,224 → 2026-11-17 2,227（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # marco-hoffmann/HANNA
 
-⭐ 20 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/marco-hoffmann/HANNA) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/marco-hoffmann/HANNA) · 组织维护
 
 **预测多元混合物相平衡（VLE/LLE）的机器学习过量吉布斯能模型**
 
@@ -43,13 +43,13 @@ HANNA 是一个基于机器学习的过量吉布斯能（excess Gibbs energy）�
 
 ```mermaid
 xychart-beta
-    title "marco-hoffmann/HANNA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "marco-hoffmann/HANNA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

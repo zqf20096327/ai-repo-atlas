@@ -1,6 +1,6 @@
 # lunarwhite/covid-social-analysis
 
-⭐ 44 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lunarwhite/covid-social-analysis) · 个人维护 · 中文 README
+⭐ 44 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lunarwhite/covid-social-analysis) · 个人维护 · 中文 README
 
 **疫情微博文本情感分析与可视化的机器学习项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lunarwhite/covid-social-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 44（+0）
 
 
 ---

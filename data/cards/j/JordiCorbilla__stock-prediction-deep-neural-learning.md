@@ -1,6 +1,6 @@
 # JordiCorbilla/stock-prediction-deep-neural-learning
 
-⭐ 689 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning) · [官网](https://jordicorbilla.github.io/stock-prediction-deep-neural-learning/) · 个人维护
+⭐ 690 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning) · [官网](https://jordicorbilla.github.io/stock-prediction-deep-neural-learning/) · 个人维护
 
 **给量化研究者的 TensorFlow LSTM 股价预测与评测实验环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JordiCorbilla/stock-prediction-deep-neural-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 687 --> 690
-    line [688, 689, 689]
+    title "JordiCorbilla/stock-prediction-deep-neural-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 687 --> 691
+    line [688, 689, 688, 689, 690, 690]
 ```
 
-2026-10-18 688 → 2026-11-02 689（+1）
+2026-10-18 688 → 2026-11-17 690（+2）
 
 
 ---

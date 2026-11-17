@@ -1,6 +1,6 @@
 # NikolaiRadke/AI.duino
 
-⭐ 60 · JavaScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/NikolaiRadke/AI.duino) · [官网](http://www.monstermaker.de) · 个人维护
+⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NikolaiRadke/AI.duino) · [官网](http://www.monstermaker.de) · 个人维护
 
 **Arduino IDE 的 AI 编程助手插件，接入多家云端与本地模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "NikolaiRadke/AI.duino 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 55 --> 61
-    line [56, 57, 59, 60, 60]
+    title "NikolaiRadke/AI.duino 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 55 --> 63
+    line [56, 57, 59, 60, 59, 61, 62, 62]
 ```
 
-2026-10-18 56 → 2026-11-02 60（+4）
+2026-10-18 56 → 2026-11-17 62（+6）
 
 
 ---

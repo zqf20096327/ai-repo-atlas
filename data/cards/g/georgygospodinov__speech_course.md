@@ -1,6 +1,6 @@
 # georgygospodinov/speech_course
 
-⭐ 116 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/georgygospodinov/speech_course) · 组织维护
+⭐ 117 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/georgygospodinov/speech_course) · 组织维护
 
 **MIPT 2025 秋季语音深度学习课程大纲仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgygospodinov/speech_course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 115 --> 117
-    line [116, 116]
+    title "georgygospodinov/speech_course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 115 --> 118
+    line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-11-02 116（+0）
+2026-10-18 116 → 2026-11-17 117（+1）
 
 
 ---

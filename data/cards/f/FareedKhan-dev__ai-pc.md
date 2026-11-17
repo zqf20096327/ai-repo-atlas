@@ -1,6 +1,6 @@
 # FareedKhan-dev/ai-pc
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/FareedKhan-dev/ai-pc) · 个人维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/FareedKhan-dev/ai-pc) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 助手：用代码驱动 118 个程序完成任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/ai-pc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15]
+    title "FareedKhan-dev/ai-pc 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 14, 15, 14, 16, 17, 18, 18]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 18（+6）
 
 
 ---

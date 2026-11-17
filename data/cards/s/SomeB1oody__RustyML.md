@@ -1,6 +1,6 @@
 # SomeB1oody/RustyML
 
-⭐ 345 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SomeB1oody/RustyML) · 个人维护 · 中文 README
+⭐ 347 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SomeB1oody/RustyML) · 个人维护 · 中文 README
 
 **纯 Rust 编写的机器学习与深度学习库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SomeB1oody/RustyML 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 342 --> 346
-    line [343, 344, 345, 345]
+    title "SomeB1oody/RustyML 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 342 --> 348
+    line [343, 344, 345, 343, 345, 346, 347, 347]
 ```
 
-2026-10-18 343 → 2026-11-02 345（+2）
+2026-10-18 343 → 2026-11-17 347（+4）
 
 
 ---

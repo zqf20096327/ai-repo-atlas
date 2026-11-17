@@ -1,6 +1,6 @@
 # instavm/coderunner
 
-⭐ 898 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/instavm/coderunner) · [官网](https://instavm.io) · 组织维护
+⭐ 903 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/instavm/coderunner) · [官网](https://instavm.io) · 组织维护
 
 **给 AI agent 用的本地隔离沙箱：在容器中安全执行代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "instavm/coderunner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 894 --> 899
-    line [895, 896, 897, 898, 898]
+    title "instavm/coderunner 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 894 --> 904
+    line [895, 896, 897, 898, 896, 901, 902, 903, 903]
 ```
 
-2026-10-18 895 → 2026-11-02 898（+3）
+2026-10-18 895 → 2026-11-17 903（+8）
 
 
 ---

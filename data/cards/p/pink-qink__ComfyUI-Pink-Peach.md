@@ -1,6 +1,6 @@
 # pink-qink/ComfyUI-Pink-Peach
 
-⭐ 15 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/pink-qink/ComfyUI-Pink-Peach) · 个人维护
+⭐ 17 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/pink-qink/ComfyUI-Pink-Peach) · 个人维护
 
 **面向 Krea 2 Turbo 的 ComfyUI 节点包：补齐生成全流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pink-qink/ComfyUI-Pink-Peach 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "pink-qink/ComfyUI-Pink-Peach 星数(近 5 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-30 14 → 2026-11-02 15（+1）
+2026-10-30 14 → 2026-11-17 17（+3）
 
 
 ---

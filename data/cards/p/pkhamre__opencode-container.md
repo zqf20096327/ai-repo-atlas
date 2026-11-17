@@ -1,6 +1,6 @@
 # pkhamre/opencode-container
 
-⭐ 58 · Shell · 推送 2026-10-22 · [GitHub](https://github.com/pkhamre/opencode-container) · 个人维护
+⭐ 63 · Shell · 推送 2026-11-09 · [GitHub](https://github.com/pkhamre/opencode-container) · 个人维护
 
 **在加固容器中隔离运行 OpenCode CLI 的封装环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pkhamre/opencode-container 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 53 --> 59
-    line [54, 56, 57, 58]
+    title "pkhamre/opencode-container 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 53 --> 64
+    line [54, 56, 57, 58, 54, 62, 63, 63]
 ```
 
-2026-10-18 54 → 2026-11-02 58（+4）
+2026-10-18 54 → 2026-11-17 63（+9）
 
 
 ---

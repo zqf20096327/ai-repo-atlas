@@ -1,6 +1,6 @@
 # boquila/montgomery
 
-⭐ 12 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/boquila/montgomery) · 组织维护
+⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/boquila/montgomery) · 组织维护
 
 **Rust 计算机视觉推理与训练栈，CPU/GPU 运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "boquila/montgomery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "boquila/montgomery 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

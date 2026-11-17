@@ -1,6 +1,6 @@
 # Lethe044/hermes-incident-commander
 
-⭐ 74 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Lethe044/hermes-incident-commander) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Lethe044/hermes-incident-commander) · 个人维护
 
 **自主 SRE agent：检测、诊断并自愈生产环境事故**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lethe044/hermes-incident-commander 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 71 --> 75
-    line [72, 74, 74]
+    title "Lethe044/hermes-incident-commander 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 71 --> 76
+    line [72, 74, 72, 75, 75]
 ```
 
-2026-10-18 72 → 2026-11-02 74（+2）
+2026-10-18 72 → 2026-11-17 75（+3）
 
 
 ---

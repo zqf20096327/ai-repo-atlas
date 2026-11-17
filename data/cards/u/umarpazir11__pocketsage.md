@@ -1,6 +1,6 @@
 # umarpazir11/pocketsage
 
-⭐ 12 · Kotlin · 推送 2026-05-08 · [GitHub](https://github.com/umarpazir11/pocketsage) · 个人维护
+⭐ 13 · Kotlin · 推送 2026-05-08 · [GitHub](https://github.com/umarpazir11/pocketsage) · 个人维护
 
 **Android 端全离线 PDF 问答应用：本地 RAG，数据不出手机**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "umarpazir11/pocketsage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "umarpazir11/pocketsage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

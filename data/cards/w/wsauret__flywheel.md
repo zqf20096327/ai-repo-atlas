@@ -1,6 +1,6 @@
 # wsauret/flywheel
 
-⭐ 14 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/wsauret/flywheel) · 个人维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/wsauret/flywheel) · [官网](https://flywl.sh) · 个人维护
 
 **终端 UI 编码 agent：写码、验证、全程可检索回放**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wsauret/flywheel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "wsauret/flywheel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 20
+    line [14, 19, 19]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 19（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Flame-Code-VLM/Flame-Code-VLM
 
-⭐ 563 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/Flame-Code-VLM/Flame-Code-VLM) · 组织维护 · 中文 README
+⭐ 564 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/Flame-Code-VLM/Flame-Code-VLM) · 组织维护 · 中文 README
 
 **将 UI 设计图转为 React 代码的视觉-语言模型及训练评测框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Flame-Code-VLM/Flame-Code-VLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 562 --> 564
-    line [563, 563]
+    title "Flame-Code-VLM/Flame-Code-VLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 562 --> 566
+    line [563, 564, 565, 564, 564]
 ```
 
-2026-10-18 563 → 2026-11-02 563（+0）
+2026-10-18 563 → 2026-11-17 564（+1）
 
 
 ---

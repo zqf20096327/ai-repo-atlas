@@ -1,6 +1,6 @@
 # rakuyoMo/autocheck-anyrouter
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/rakuyoMo/autocheck-anyrouter) · [官网](https://anyrouter.top/register?aff=sL91) · 个人维护 · 中文 README
+⭐ 34 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/rakuyoMo/autocheck-anyrouter) · [官网](https://anyrouter.top/register?aff=sL91) · 个人维护 · 中文 README
 
 **GitHub Actions 定时自动签到工具：面向 Claude Code API 中转站（多账号）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rakuyoMo/autocheck-anyrouter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "rakuyoMo/autocheck-anyrouter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    line [34, 33, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # avabbbb/Flovart
 
-⭐ 144 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/avabbbb/Flovart) · [官网](https://avabbbb.github.io/Flovart/) · 个人维护 · 中文 README
+⭐ 145 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/avabbbb/Flovart) · [官网](flovart.avabbbb.com) · 个人维护 · 中文 README
 
 **开源本地优先的可视化创作工作台，人与编码 Agent 共用同一画布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "avabbbb/Flovart 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 137 --> 145
-    line [138, 140, 141, 143, 144, 144]
+    title "avabbbb/Flovart 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 137 --> 146
+    line [138, 140, 141, 143, 144, 143, 145, 145]
 ```
 
-2026-10-18 138 → 2026-11-02 144（+6）
+2026-10-18 138 → 2026-11-17 145（+7）
 
 
 ---

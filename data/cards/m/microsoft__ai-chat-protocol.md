@@ -1,6 +1,6 @@
 # microsoft/ai-chat-protocol
 
-⭐ 177 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/ai-chat-protocol) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软的生成式 AI 聊天流式输出 SDK 与 API 规范**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ai-chat-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-18 177 → 2026-11-02 177（+0）
+2026-10-18 177 → 2026-11-07 177（+0）
 
 
 ---

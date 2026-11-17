@@ -1,6 +1,6 @@
 # Amey-Thakur/AI-SKILLS
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/Amey-Thakur/AI-SKILLS) · [官网](https://amey-thakur.github.io/AI-SKILLS/) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/Amey-Thakur/AI-SKILLS) · [官网](https://amey-thakur.github.io/AI-SKILLS/) · 个人维护
 
 **面向 AI 编码代理的技能与提示词即插即用库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Amey-Thakur/AI-SKILLS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    title "Amey-Thakur/AI-SKILLS 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 10, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

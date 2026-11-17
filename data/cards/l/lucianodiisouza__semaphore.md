@@ -1,6 +1,6 @@
 # lucianodiisouza/semaphore
 
-⭐ 48 · Rust · MIT · 推送 2026-07-03 · [GitHub](https://github.com/lucianodiisouza/semaphore) · 个人维护
+⭐ 50 · Rust · MIT · 推送 2026-07-03 · [GitHub](https://github.com/lucianodiisouza/semaphore) · 个人维护
 
 **悬浮红绿灯桌面小部件：显示 AI 编程代理的空闲/思考/写文件状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucianodiisouza/semaphore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "lucianodiisouza/semaphore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

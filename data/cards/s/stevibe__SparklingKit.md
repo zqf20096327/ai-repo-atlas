@@ -1,6 +1,6 @@
 # stevibe/SparklingKit
 
-⭐ 68 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/stevibe/SparklingKit) · [官网](https://sparklingkit.com) · 个人维护
+⭐ 70 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/stevibe/SparklingKit) · [官网](https://sparklingkit.com) · 个人维护
 
 **本地优先的 AI 工作台：OCR/转录/翻译/绘图/思维导图与可组合工作流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "stevibe/SparklingKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "stevibe/SparklingKit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 67 --> 71
+    line [68, 69, 70, 70]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 70（+2）
 
 
 ---

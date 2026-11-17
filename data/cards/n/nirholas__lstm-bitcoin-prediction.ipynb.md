@@ -1,6 +1,6 @@
 # nirholas/lstm-bitcoin-prediction.ipynb
 
-⭐ 29 · Jupyter Notebook · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb) · [官网](https://three.ws) · 个人维护
+⭐ 28 · Jupyter Notebook · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb) · [官网](https://three.ws) · 个人维护
 
 **单文件 Jupyter 笔记本：训练 LSTM 预测比特币日收盘价**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirholas/lstm-bitcoin-prediction.ipynb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "nirholas/lstm-bitcoin-prediction.ipynb 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    line [28, 29, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

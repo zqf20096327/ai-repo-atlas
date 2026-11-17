@@ -1,6 +1,6 @@
 # Netxeo/skill-file-security
 
-⭐ 77 · JavaScript · 推送 2026-06-22 · [GitHub](https://github.com/Netxeo/skill-file-security) · [官网](https://security.ai-dev-skills.com/) · 组织维护
+⭐ 79 · JavaScript · 推送 2026-06-22 · [GitHub](https://github.com/Netxeo/skill-file-security) · [官网](https://security.ai-dev-skills.com/) · 组织维护
 
 **一条命令为 AI 编程助手注入 29 项安全检查技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Netxeo/skill-file-security 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    title "Netxeo/skill-file-security 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 75 --> 80
+    line [76, 77, 76, 78, 79, 79]
 ```
 
-2026-10-18 76 → 2026-11-02 77（+1）
+2026-10-18 76 → 2026-11-17 79（+3）
 
 
 ---

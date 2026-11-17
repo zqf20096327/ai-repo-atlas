@@ -44,13 +44,13 @@ Omnipose（显微图像细胞实例分割）代码库的重构工程（README �
 
 ```mermaid
 xychart-beta
-    title "kevinjohncutler/omnipose 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 165 --> 167
-    line [166, 166]
+    title "kevinjohncutler/omnipose 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 165 --> 168
+    line [166, 167, 166, 166]
 ```
 
-2026-10-18 166 → 2026-11-02 166（+0）
+2026-10-18 166 → 2026-11-17 166（+0）
 
 
 ---

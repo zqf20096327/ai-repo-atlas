@@ -1,6 +1,6 @@
 # hexxla/hexxladb
 
-⭐ 29 · Go · MIT · 推送 2026-08-27 · [GitHub](https://github.com/hexxla/hexxladb) · [官网](https://hexxladb.mintlify.app/) · 个人维护
+⭐ 30 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/hexxla/hexxladb) · [官网](https://hexxladb.mintlify.app/) · 个人维护
 
 **面向 Go 的嵌入式六边形网格数据库，支持向量检索与矛盾追踪**
 
@@ -45,13 +45,13 @@ HexxlaDB 是一个用 Go 编写的嵌入式数据库库：记录存放在六边�
 
 ```mermaid
 xychart-beta
-    title "hexxla/hexxladb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "hexxla/hexxladb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

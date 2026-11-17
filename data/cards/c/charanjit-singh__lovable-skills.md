@@ -1,6 +1,6 @@
 # charanjit-singh/lovable-skills
 
-⭐ 11 · MIT · 推送 2026-05-22 · [GitHub](https://github.com/charanjit-singh/lovable-skills) · [官网](https://vibemastery.io/) · 个人维护
+⭐ 13 · MIT · 推送 2026-05-22 · [GitHub](https://github.com/charanjit-singh/lovable-skills) · [官网](https://vibemastery.io/) · 个人维护
 
 **Lovable 平台的可复用技能库：57 个 Markdown 技能手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "charanjit-singh/lovable-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "charanjit-singh/lovable-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # HUST-AI-HYZ/FARMS
 
-⭐ 44 · Python · 推送 2025-11-14 · [GitHub](https://github.com/HUST-AI-HYZ/FARMS) · [官网](https://arxiv.org/abs/2506.06280) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICML 2025 论文代码：无长宽比偏置的神经网络特征谱分析方法 FARMS**
 
@@ -45,12 +45,12 @@ FARMS（Fixed-Aspect-Ratio Matrix Subsampling）是 ICML 2025 论文 Eigenspectr
 ```mermaid
 xychart-beta
     title "HUST-AI-HYZ/FARMS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-08 44（+0）
 
 
 ---

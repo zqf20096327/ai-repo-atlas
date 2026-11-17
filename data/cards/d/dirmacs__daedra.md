@@ -1,6 +1,6 @@
 # dirmacs/daedra
 
-⭐ 17 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dirmacs/daedra) · [官网](https://dirmacs.github.io/daedra/) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/dirmacs/daedra) · [官网](https://dirmacs.github.io/daedra/) · 个人维护
 
 **给 AI agent 用的 Rust 网页搜索 MCP 服务器，14 个免钥后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dirmacs/daedra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "dirmacs/daedra 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

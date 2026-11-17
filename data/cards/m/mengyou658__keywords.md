@@ -1,6 +1,6 @@
 # mengyou658/keywords
 
-⭐ 97 · HTML · 推送 2026-01-10 · [GitHub](https://github.com/mengyou658/keywords) · 个人维护 · 中文 README
+⭐ 96 · HTML · 推送 2026-01-10 · [GitHub](https://github.com/mengyou658/keywords) · 个人维护 · 中文 README
 
 **个人开发资源链接清单：按关键词分类的教程与开源项目索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mengyou658/keywords 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "mengyou658/keywords 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 95 --> 98
-    line [96, 97, 97]
+    line [96, 97, 96, 96]
 ```
 
-2026-10-18 96 → 2026-11-02 97（+1）
+2026-10-18 96 → 2026-11-17 96（+0）
 
 
 ---

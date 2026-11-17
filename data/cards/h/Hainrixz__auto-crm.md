@@ -1,6 +1,6 @@
 # Hainrixz/auto-crm
 
-⭐ 83 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/auto-crm) · [官网](https://www.tododeia.com/) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/auto-crm) · [官网](https://www.tododeia.com/) · 个人维护
 
 **本地自托管的 AI CRM：通过 Claude Code 自动适配业务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/auto-crm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 77 --> 84
-    line [78, 79, 81, 82, 83]
+    title "Hainrixz/auto-crm 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 77 --> 87
+    line [78, 79, 81, 82, 83, 81, 84, 85, 86, 86]
 ```
 
-2026-10-18 78 → 2026-11-02 83（+5）
+2026-10-18 78 → 2026-11-17 86（+8）
 
 
 ---

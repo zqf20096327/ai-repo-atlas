@@ -1,6 +1,6 @@
 # stagewise-io/klex
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/stagewise-io/klex) · [官网](https://klex.bot) · 组织维护
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/stagewise-io/klex) · [官网](https://klex.bot) · 组织维护
 
 **可自托管、模型无关的自治数字同事 bot 框架**
 
@@ -44,13 +44,13 @@ Klex 提供隔离运行、可观测的自治 agent bot，通过 MCP 连接工具
 
 ```mermaid
 xychart-beta
-    title "stagewise-io/klex 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "stagewise-io/klex 星数(近 6 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 33
+    line [11, 28, 29, 30, 31, 31]
 ```
 
-2026-11-01 11 → 2026-11-02 11（+0）
+2026-11-01 11 → 2026-11-17 31（+20）
 
 
 ---

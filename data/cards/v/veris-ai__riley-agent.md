@@ -1,6 +1,6 @@
 # veris-ai/riley-agent
 
-⭐ 18 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/veris-ai/riley-agent) · [官网](https://veris.ai/leaderboard) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/veris-ai/riley-agent) · [官网](https://veris.ai/leaderboard) · 组织维护
 
 **VAmoS 基准的语音 agent 参考实现集合，跨 17 种语音平台可对比**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "veris-ai/riley-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "veris-ai/riley-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

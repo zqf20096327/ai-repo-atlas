@@ -1,6 +1,6 @@
 # roots/acorn-llms-txt
 
-⭐ 16 · PHP · MIT · 推送 2026-03-21 · [GitHub](https://github.com/roots/acorn-llms-txt) · 组织维护
+⭐ 17 · PHP · MIT · 推送 2026-03-21 · [GitHub](https://github.com/roots/acorn-llms-txt) · 组织维护
 
 **为 WordPress 站点生成 llms.txt 端点，向 LLM 暴露站点内容**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "roots/acorn-llms-txt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "roots/acorn-llms-txt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

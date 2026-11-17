@@ -1,6 +1,6 @@
 # RaspberryCola/AI-Cloud-Go
 
-⭐ 47 · Go · 推送 2026-03-21 · [GitHub](https://github.com/RaspberryCola/AI-Cloud-Go) · 个人维护 · 中文 README
+⭐ 54 · Go · 推送 2026-03-21 · [GitHub](https://github.com/RaspberryCola/AI-Cloud-Go) · 个人维护 · 中文 README
 
 **Go 开发的 LLM 应用后端：云盘存储与知识库问答平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RaspberryCola/AI-Cloud-Go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "RaspberryCola/AI-Cloud-Go 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 46 --> 55
+    line [47, 53, 54, 54]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 54（+7）
 
 
 ---

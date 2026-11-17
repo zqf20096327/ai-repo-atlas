@@ -1,6 +1,6 @@
 # aaddrick/building-with-typesafe-jev
 
-⭐ 148 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/aaddrick/building-with-typesafe-jev) · [官网](https://github.com/aaddrick/building-with-typesafe-jev#readme) · 个人维护 · 中文 README
+⭐ 156 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/aaddrick/building-with-typesafe-jev) · [官网](https://github.com/aaddrick/building-with-typesafe-jev#readme) · 个人维护 · 中文 README
 
 **教编码代理使用 Jev 类型化决策模型的社区技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaddrick/building-with-typesafe-jev 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 142 --> 149
-    line [143, 144, 145, 146, 148, 148]
+    title "aaddrick/building-with-typesafe-jev 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 142 --> 157
+    line [143, 144, 145, 146, 148, 146, 153, 155, 156, 156]
 ```
 
-2026-10-18 143 → 2026-11-02 148（+5）
+2026-10-18 143 → 2026-11-17 156（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # linhut/document-ai-assistant
 
-⭐ 121 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/linhut/document-ai-assistant) · [官网](https://doc.linhut.cn) · 个人维护 · 中文 README
+⭐ 125 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/linhut/document-ai-assistant) · [官网](https://doc.linhut.cn) · 个人维护 · 中文 README
 
 **按 GB/T 9704 标准检测并优化中文公文格式的桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linhut/document-ai-assistant 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 115 --> 122
-    line [116, 118, 119, 120, 121, 121]
+    title "linhut/document-ai-assistant 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 115 --> 126
+    line [116, 118, 119, 120, 121, 119, 122, 123, 124, 125, 125]
 ```
 
-2026-10-18 116 → 2026-11-02 121（+5）
+2026-10-18 116 → 2026-11-17 125（+9）
 
 
 ---

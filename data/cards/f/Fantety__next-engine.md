@@ -1,6 +1,6 @@
 # Fantety/next-engine
 
-⭐ 27 · C++ · NOASSERTION · 推送 2026-07-10 · [GitHub](https://github.com/Fantety/next-engine) · [官网](https://nextengine.net) · 个人维护 · 中文 README
+⭐ 27 · C++ · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Fantety/next-engine) · [官网](https://nextengine.net) · 个人维护 · 中文 README
 
 **Godot 分支游戏引擎，内置编辑器 AI Agent 开发助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fantety/next-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

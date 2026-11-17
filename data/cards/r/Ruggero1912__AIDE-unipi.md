@@ -1,6 +1,6 @@
 # Ruggero1912/AIDE-unipi
 
-⭐ 92 · HTML · 推送 2026-09-17 · [GitHub](https://github.com/Ruggero1912/AIDE-unipi) · 组织维护
+⭐ 93 · HTML · 推送 2026-09-17 · [GitHub](https://github.com/Ruggero1912/AIDE-unipi) · 组织维护
 
 **比萨大学 AI 与数据工程课程的学生学习资料仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ruggero1912/AIDE-unipi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    title "Ruggero1912/AIDE-unipi 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 90 --> 94
+    line [91, 92, 93, 93]
 ```
 
-2026-10-18 91 → 2026-11-02 92（+1）
+2026-10-18 91 → 2026-11-17 93（+2）
 
 
 ---

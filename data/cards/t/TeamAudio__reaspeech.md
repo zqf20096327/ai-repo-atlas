@@ -1,6 +1,6 @@
 # TeamAudio/reaspeech
 
-⭐ 46 · Lua · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/TeamAudio/reaspeech) · [官网](https://techaud.io/reaspeech/) · 组织维护
+⭐ 47 · Lua · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/TeamAudio/reaspeech) · [官网](https://techaud.io/reaspeech/) · 组织维护
 
 **REAPER 音频工作站内的语音转文字转写工具**
 
@@ -43,13 +43,13 @@ ReaScript 前端加 Docker 托管 Whisper 后端组成：读取 REAPER 工程中
 
 ```mermaid
 xychart-beta
-    title "TeamAudio/reaspeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "TeamAudio/reaspeech 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

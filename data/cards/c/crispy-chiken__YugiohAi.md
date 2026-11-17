@@ -1,6 +1,6 @@
 # crispy-chiken/YugiohAi
 
-⭐ 52 · HTML · GPL-3.0 · 推送 2026-05-27 · [GitHub](https://github.com/crispy-chiken/YugiohAi) · 个人维护
+⭐ 53 · HTML · GPL-3.0 · 推送 2026-05-27 · [GitHub](https://github.com/crispy-chiken/YugiohAi) · 个人维护
 
 **游戏王对战与组卡 AI 机器人（Python+C#，WIP）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "crispy-chiken/YugiohAi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "crispy-chiken/YugiohAi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

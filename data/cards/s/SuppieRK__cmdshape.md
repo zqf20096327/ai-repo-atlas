@@ -1,6 +1,6 @@
 # SuppieRK/cmdshape
 
-⭐ 30 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SuppieRK/cmdshape) · [官网](https://suppierk.github.io/cmdshape/) · 个人维护
+⭐ 30 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/SuppieRK/cmdshape) · [官网](https://suppierk.github.io/cmdshape/) · 个人维护
 
 **给编码代理的命令输出过滤代理，去除已知 CLI 噪音**
 
@@ -45,12 +45,12 @@ cmdshape 是包裹在既有 CLI 命令外的小型代理：执行原生程序并
 ```mermaid
 xychart-beta
     title "SuppieRK/cmdshape 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

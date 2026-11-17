@@ -1,6 +1,6 @@
 # openapi/mcp-server
 
-⭐ 22 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/openapi/mcp-server) · [官网](https://console.openapi.com) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openapi/mcp-server) · [官网](https://console.openapi.com) · 组织维护
 
 **面向 openapi.com API 的官方 Python MCP SDK 与开箱即用服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openapi/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

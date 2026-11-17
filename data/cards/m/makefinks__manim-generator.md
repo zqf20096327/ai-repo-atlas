@@ -1,6 +1,6 @@
 # makefinks/manim-generator
 
-⭐ 119 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/makefinks/manim-generator) · 个人维护
+⭐ 122 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/makefinks/manim-generator) · 个人维护
 
 **LLM 自动生成 Manim 数学动画视频的命令行工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "makefinks/manim-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    title "makefinks/manim-generator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 118 --> 123
+    line [119, 120, 122, 122]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 122（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # atomicmilkshake/llama-cpp-turboquant
 
-⭐ 57 · C++ · MIT · 推送 2026-07-02 · [GitHub](https://github.com/atomicmilkshake/llama-cpp-turboquant) · [官网](https://huggingface.co/atomicmilkshake/llama-cpp-turboquant-binaries) · 个人维护
+⭐ 58 · C++ · MIT · 推送 2026-07-02 · [GitHub](https://github.com/atomicmilkshake/llama-cpp-turboquant) · [官网](https://huggingface.co/atomicmilkshake/llama-cpp-turboquant-binaries) · 个人维护
 
 **llama.cpp fork：TurboQuant 低比特量化 + TriAttention KV 缓存剪枝**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atomicmilkshake/llama-cpp-turboquant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    title "atomicmilkshake/llama-cpp-turboquant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58, 58]
 ```
 
-2026-10-18 55 → 2026-11-02 57（+2）
+2026-10-18 55 → 2026-11-17 58（+3）
 
 
 ---

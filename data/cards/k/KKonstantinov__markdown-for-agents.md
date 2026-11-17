@@ -1,6 +1,6 @@
 # KKonstantinov/markdown-for-agents
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/KKonstantinov/markdown-for-agents) · [官网](http://markdown-for-agents.vercel.app) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KKonstantinov/markdown-for-agents) · [官网](http://markdown-for-agents.vercel.app) · 个人维护
 
 **面向 AI agent 的 HTML 转 Markdown 转换库，降低 token 消耗**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KKonstantinov/markdown-for-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "KKonstantinov/markdown-for-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

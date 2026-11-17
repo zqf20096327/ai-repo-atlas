@@ -1,6 +1,6 @@
 # bentoml/BentoChatTTS
 
-⭐ 29 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoChatTTS) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 BentoML 部署 ChatTTS 对话语音合成模型的服务示例**
 
@@ -43,12 +43,12 @@ BentoML 官方示例项目：将 ChatTTS 文本转语音模型打包为 Bento �
 ```mermaid
 xychart-beta
     title "bentoml/BentoChatTTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-08 29（+0）
 
 
 ---

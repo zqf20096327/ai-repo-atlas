@@ -1,6 +1,6 @@
 # Ludeme/Ludii
 
-⭐ 170 · Java · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Ludeme/Ludii) · [官网](https://ludii.games/) · 组织维护
+⭐ 171 · Java · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Ludeme/Ludii) · [官网](https://ludii.games/) · 组织维护
 
 **通用博弈游戏系统：用博弈描述语言定义并运行上千种棋类游戏供 AI 研究**
 
@@ -45,13 +45,13 @@ ERC 资助的 Digital Ludeme 项目开发的通用博弈（General Game Playing�
 
 ```mermaid
 xychart-beta
-    title "Ludeme/Ludii 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 168 --> 171
-    line [169, 170, 170]
+    title "Ludeme/Ludii 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 168 --> 172
+    line [169, 170, 171, 171]
 ```
 
-2026-10-18 169 → 2026-11-02 170（+1）
+2026-10-18 169 → 2026-11-17 171（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # modelscope/ms-enclave
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/modelscope/ms-enclave) · 组织维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/modelscope/ms-enclave) · 组织维护 · 中文 README
 
 **Agent 沙箱运行时：为代码执行提供 Docker 隔离环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/ms-enclave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "modelscope/ms-enclave 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

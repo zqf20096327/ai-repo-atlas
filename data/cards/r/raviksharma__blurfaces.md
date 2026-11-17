@@ -1,6 +1,6 @@
 # raviksharma/blurfaces
 
-⭐ 78 · Python · AGPL-3.0 · 推送 2026-05-11 · [GitHub](https://github.com/raviksharma/blurfaces) · 个人维护
+⭐ 77 · Python · AGPL-3.0 · 推送 2026-05-11 · [GitHub](https://github.com/raviksharma/blurfaces) · 个人维护
 
 **视频人脸检测与打码工具，支持模糊/黑条/像素化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "raviksharma/blurfaces 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "raviksharma/blurfaces 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 76 --> 79
+    line [78, 77, 77]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 77（-1）
 
 
 ---

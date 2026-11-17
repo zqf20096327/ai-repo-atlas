@@ -1,6 +1,6 @@
 # Mantux775/NVAI-open
 
-⭐ 16 · Swift · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Mantux775/NVAI-open) · [官网](https://github.com/Mantux775/NVAI-open/releases) · 个人维护
+⭐ 29 · Swift · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Mantux775/NVAI-open) · [官网](https://github.com/Mantux775/NVAI-open/releases) · 个人维护
 
 **本地图像/视频/音乐/3D 生成桌面应用，免云免订阅**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mantux775/NVAI-open 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 3 --> 17
-    line [4, 5, 6, 7, 12, 14, 15, 16]
+    title "Mantux775/NVAI-open 星数(近 14 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2 --> 31
+    line [4, 5, 6, 7, 12, 14, 15, 16, 6, 24, 25, 26, 29, 29]
 ```
 
-2026-10-22 4 → 2026-11-02 16（+12）
+2026-10-22 4 → 2026-11-17 29（+25）
 
 
 ---

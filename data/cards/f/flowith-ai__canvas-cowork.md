@@ -1,6 +1,6 @@
 # flowith-ai/canvas-cowork
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/flowith-ai/canvas-cowork) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/flowith-ai/canvas-cowork) · 组织维护
 
 **从命令行在 Flowith 空间画布上生成图像/视频/文本的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "flowith-ai/canvas-cowork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "flowith-ai/canvas-cowork 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

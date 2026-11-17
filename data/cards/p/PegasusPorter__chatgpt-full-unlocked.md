@@ -1,6 +1,6 @@
 # PegasusPorter/chatgpt-full-unlocked
 
-⭐ 170 · 推送 2026-10-31 · [GitHub](https://github.com/PegasusPorter/chatgpt-full-unlocked) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **声称免登录免 API key 访问 GPT-4o 的 PowerShell 脚本仓库**
 

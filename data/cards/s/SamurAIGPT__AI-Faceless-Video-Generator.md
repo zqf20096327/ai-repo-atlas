@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-Faceless-Video-Generator
 
-⭐ 526 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) · [官网](https://www.vadoo.tv/ai-faceless-video-generator) · 个人维护
+⭐ 541 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) · [官网](https://www.vadoo.tv/ai-faceless-video-generator) · 个人维护
 
 **输入主题自动生成口播脚本、语音与说话头像视频的工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/AI-Faceless-Video-Generator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 518 --> 527
-    line [519, 520, 521, 522, 523, 525, 526, 526]
+    title "SamurAIGPT/AI-Faceless-Video-Generator 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 517 --> 543
+    line [519, 520, 521, 522, 523, 525, 526, 522, 534, 535, 536, 537, 538, 540, 541, 541]
 ```
 
-2026-10-18 519 → 2026-11-02 526（+7）
+2026-10-18 519 → 2026-11-17 541（+22）
 
 
 ---

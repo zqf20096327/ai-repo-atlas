@@ -1,6 +1,6 @@
 # hookprobe/hookprobe
 
-⭐ 48 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/hookprobe/hookprobe) · [官网](https://hookprobe.com) · 组织维护
+⭐ 54 · C · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hookprobe/hookprobe) · [官网](https://hookprobe.com) · 组织维护
 
 **运行在廉价硬件上的去中心化 AI 入侵检测/防御网格**
 
@@ -46,13 +46,13 @@ HookProbe 是一套开源（AGPL）的网络安全防护系统，面向家庭用
 
 ```mermaid
 xychart-beta
-    title "hookprobe/hookprobe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    title "hookprobe/hookprobe 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 45 --> 55
+    line [46, 47, 48, 47, 51, 52, 54, 54]
 ```
 
-2026-10-18 46 → 2026-11-02 48（+2）
+2026-10-18 46 → 2026-11-17 54（+8）
 
 
 ---

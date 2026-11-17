@@ -1,6 +1,6 @@
 # cairndev-sh/cairn
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/cairndev-sh/cairn) · [官网](https://cairndev.sh/) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/cairndev-sh/cairn) · [官网](https://cairndev.sh/) · 组织维护
 
 **自助托管的开源 ModelOps 控制平面：治理微调、评测、晋升与部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cairndev-sh/cairn 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 12, 13, 14, 14]
+    title "cairndev-sh/cairn 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 12, 13, 14, 12, 15, 16, 16]
 ```
 
-2026-10-23 10 → 2026-11-02 14（+4）
+2026-10-23 10 → 2026-11-17 16（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # sahilrajpurkar03/nlp-pnp-robotic-arm
 
-⭐ 72 · Python · 推送 2026-07-06 · [GitHub](https://github.com/sahilrajpurkar03/nlp-pnp-robotic-arm) · 个人维护
+⭐ 73 · Python · 推送 2026-07-06 · [GitHub](https://github.com/sahilrajpurkar03/nlp-pnp-robotic-arm) · 个人维护
 
 **自然语言控制的 ROS2 抓放机器人系统（仿真）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sahilrajpurkar03/nlp-pnp-robotic-arm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "sahilrajpurkar03/nlp-pnp-robotic-arm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 73（+1）
 
 
 ---

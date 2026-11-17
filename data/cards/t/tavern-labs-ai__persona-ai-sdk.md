@@ -1,6 +1,6 @@
 # tavern-labs-ai/persona-ai-sdk
 
-⭐ 192 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tavern-labs-ai/persona-ai-sdk) · [官网](https://www.npmjs.com/package/persona-ai-sdk) · 组织维护
+⭐ 187 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tavern-labs-ai/persona-ai-sdk) · [官网](https://www.npmjs.com/package/ai-persona-sdk) · 组织维护
 
 **给应用开发者的角色 AI SDK：人设卡+持久角色记忆+模型适配器**
 
@@ -40,6 +40,18 @@ TypeScript SDK，用于构建保持人设一致并跨对话记忆的 AI 角色�
 > L29: `persona-ai-sdk` is a TypeScript SDK for applications where an AI character should remain
 > L189: Extraction, embeddings, and generation are independent ports. An application can use Bedrock for
 > L216: |`persona-ai-sdk/bedrock`|Bedrock Converse extraction, Titan V2 embeddings, character models|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tavern-labs-ai/persona-ai-sdk 星数(近 3 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 186 --> 193
+    line [192, 187, 187]
+```
+
+2026-11-02 192 → 2026-11-17 187（-5）
 
 
 ---

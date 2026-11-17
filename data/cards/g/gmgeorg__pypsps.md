@@ -1,6 +1,6 @@
 # gmgeorg/pypsps
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2026-08-29 · [GitHub](https://github.com/gmgeorg/pypsps) · 个人维护
+⭐ 18 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/gmgeorg/pypsps) · 个人维护
 
 **因果深度学习库：用预测状态倾向分层估计观测数据因果效应**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gmgeorg/pypsps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

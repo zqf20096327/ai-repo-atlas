@@ -1,6 +1,6 @@
 # pilc80/claudegpt
 
-⭐ 33 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/pilc80/claudegpt) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/pilc80/claudegpt) · 个人维护
 
 **让 Claude Code 通过 OAuth 使用 ChatGPT/Codex 订阅的代理**
 
@@ -45,13 +45,13 @@ claudex 的一个 fork（基于上游 v0.2.4），作为 Claude Code 到 OpenAI 
 
 ```mermaid
 xychart-beta
-    title "pilc80/claudegpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "pilc80/claudegpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

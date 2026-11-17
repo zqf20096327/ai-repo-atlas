@@ -1,6 +1,6 @@
 # XieResearchGroup/Physics-aware-Multiplex-GNN
 
-⭐ 73 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN) · [官网](https://www.nature.com/articles/s41598-023-46382-8) · 组织维护
+⭐ 74 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN) · [官网](https://www.nature.com/articles/s41598-023-46382-8) · 组织维护
 
 **分子系统几何深度学习框架 PAMNet 的官方实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "XieResearchGroup/Physics-aware-Multiplex-GNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "XieResearchGroup/Physics-aware-Multiplex-GNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 74（+1）
 
 
 ---

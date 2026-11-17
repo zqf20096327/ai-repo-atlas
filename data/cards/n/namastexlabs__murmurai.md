@@ -1,6 +1,6 @@
 # namastexlabs/murmurai
 
-⭐ 46 · Python · MIT · 推送 2025-12-17 · [GitHub](https://github.com/namastexlabs/murmurai) · [官网](https://pypi.org/project/murmurai) · 组织维护
+⭐ 47 · Python · MIT · 推送 2025-12-17 · [GitHub](https://github.com/namastexlabs/murmurai) · [官网](https://pypi.org/project/murmurai) · 组织维护
 
 **自托管 GPU 转录 API 服务：音频转文字并带说话人分离**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "namastexlabs/murmurai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "namastexlabs/murmurai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

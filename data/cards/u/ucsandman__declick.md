@@ -1,6 +1,6 @@
 # ucsandman/declick
 
-⭐ 23 · JavaScript · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/ucsandman/declick) · [官网](https://declick.dev) · 个人维护
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/ucsandman/declick) · [官网](https://declick.dev) · 个人维护
 
 **将 API/MCP/数据库/网页编译成 agent 可运行 CLI 的编译器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ucsandman/declick 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    title "ucsandman/declick 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [24, 23, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 23（-1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

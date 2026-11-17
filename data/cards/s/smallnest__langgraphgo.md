@@ -1,6 +1,6 @@
 # smallnest/langgraphgo
 
-⭐ 309 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/smallnest/langgraphgo) · [官网](https://lango.rpcx.io) · 个人维护 · 中文 README
+⭐ 311 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/smallnest/langgraphgo) · [官网](https://lango.rpcx.io) · 个人维护 · 中文 README
 
 **Go 语言的 LangGraph 风格 agent 工作流框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smallnest/langgraphgo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 306 --> 310
-    line [307, 309, 309]
+    title "smallnest/langgraphgo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 306 --> 312
+    line [307, 309, 310, 311, 311]
 ```
 
-2026-10-18 307 → 2026-11-02 309（+2）
+2026-10-18 307 → 2026-11-17 311（+4）
 
 
 ---

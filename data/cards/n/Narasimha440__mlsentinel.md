@@ -1,6 +1,6 @@
 # Narasimha440/mlsentinel
 
-⭐ 19 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Narasimha440/mlsentinel) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Narasimha440/mlsentinel) · 个人维护
 
 **向 MLSentinel 平台上报 ML 模型评估指标与数据质量报告的 Python SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Narasimha440/mlsentinel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19]
+    title "Narasimha440/mlsentinel 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 19, 17, 21, 22, 23, 23]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 23（+6）
 
 
 ---

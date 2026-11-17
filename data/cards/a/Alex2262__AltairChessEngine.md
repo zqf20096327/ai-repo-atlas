@@ -1,6 +1,6 @@
 # Alex2262/AltairChessEngine
 
-⭐ 59 · C++ · MIT · 推送 2026-04-21 · [GitHub](https://github.com/Alex2262/AltairChessEngine) · 个人维护
+⭐ 61 · C++ · MIT · 推送 2026-04-21 · [GitHub](https://github.com/Alex2262/AltairChessEngine) · 个人维护
 
 **UCI 协议 C++ 国际象棋引擎，供对弈与局面分析**
 
@@ -44,13 +44,13 @@ Altair 是用 C++20 编写的 UCI 协议国际象棋引擎，支持标准国际�
 
 ```mermaid
 xychart-beta
-    title "Alex2262/AltairChessEngine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "Alex2262/AltairChessEngine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 58 --> 62
+    line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 61（+2）
 
 
 ---

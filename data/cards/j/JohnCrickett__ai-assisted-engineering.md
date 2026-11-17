@@ -1,6 +1,6 @@
 # JohnCrickett/ai-assisted-engineering
 
-⭐ 435 · 推送 2026-03-13 · [GitHub](https://github.com/JohnCrickett/ai-assisted-engineering) · 个人维护
+⭐ 443 · 推送 2026-03-13 · [GitHub](https://github.com/JohnCrickett/ai-assisted-engineering) · 个人维护
 
 **AI 辅助软件工程指南：面向工程师与工程负责人**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "JohnCrickett/ai-assisted-engineering 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 431 --> 436
-    line [432, 433, 432, 434, 435]
+    title "JohnCrickett/ai-assisted-engineering 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 431 --> 444
+    line [432, 433, 432, 434, 435, 432, 435, 436, 438, 441, 442, 443, 443]
 ```
 
-2026-10-18 432 → 2026-11-02 435（+3）
+2026-10-18 432 → 2026-11-17 443（+11）
 
 
 ---

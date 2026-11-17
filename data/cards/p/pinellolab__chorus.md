@@ -1,6 +1,6 @@
 # pinellolab/chorus
 
-⭐ 72 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/pinellolab/chorus) · 组织维护
+⭐ 72 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pinellolab/chorus) · 组织维护
 
 **统一调用八个基因组深度学习模型的变异效应预测工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "pinellolab/chorus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
+    title "pinellolab/chorus 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    line [70, 71, 72, 71, 72, 72]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 72（+2）
 
 
 ---

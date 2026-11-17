@@ -1,6 +1,6 @@
 # gyr0byte/ML-Foundations
 
-⭐ 45 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/gyr0byte/ML-Foundations) · 个人维护
+⭐ 46 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/gyr0byte/ML-Foundations) · 个人维护
 
 **从 NumPy 到深度学习的 ML 学习笔记本系列（65 本）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gyr0byte/ML-Foundations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "gyr0byte/ML-Foundations 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

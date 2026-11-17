@@ -1,6 +1,6 @@
 # JacobJandon/Sicry
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/JacobJandon/Sicry) · [官网](https://github.com/JacobJandon/Sicry) · 个人维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/JacobJandon/Sicry) · [官网](https://github.com/JacobJandon/Sicry) · 个人维护
 
 **给 AI agent 用的单文件 Tor/.onion 访问层与暗网 OSINT 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JacobJandon/Sicry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "JacobJandon/Sicry 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

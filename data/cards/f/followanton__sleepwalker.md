@@ -1,6 +1,6 @@
 # followanton/sleepwalker
 
-⭐ 25 · JavaScript · MIT · 推送 2026-07-30 · [GitHub](https://github.com/followanton/sleepwalker) · [官网](https://www.sleepwalker.ai) · 组织维护
+⭐ 24 · JavaScript · MIT · 推送 2026-07-30 · [GitHub](https://github.com/followanton/sleepwalker) · [官网](https://www.sleepwalker.ai) · 组织维护
 
 **面向品牌团队的 AI 可见性监测工具，追踪 AI 搜索中的回答与引用**
 
@@ -45,13 +45,13 @@ Sleepwalker 提供两大工作流：AI Visibility（在 ChatGPT、Perplexity、G
 
 ```mermaid
 xychart-beta
-    title "followanton/sleepwalker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "followanton/sleepwalker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [25, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 24（-1）
 
 
 ---

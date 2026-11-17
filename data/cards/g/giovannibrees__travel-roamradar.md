@@ -1,6 +1,6 @@
 # giovannibrees/travel-roamradar
 
-⭐ 39 · HTML · NOASSERTION · 推送 2026-07-24 · [GitHub](https://github.com/giovannibrees/travel-roamradar) · [官网](roamradar.app) · 个人维护
+⭐ 34 · HTML · NOASSERTION · 推送 2026-07-24 · [GitHub](https://github.com/giovannibrees/travel-roamradar) · [官网](roamradar.app) · 个人维护
 
 **自托管的个人旅行时间线应用，自动汇集航班酒店行程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "giovannibrees/travel-roamradar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [39, 38, 39, 39]
+    title "giovannibrees/travel-roamradar 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 40
+    line [39, 38, 39, 38, 34, 34]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 34（-5）
 
 
 ---

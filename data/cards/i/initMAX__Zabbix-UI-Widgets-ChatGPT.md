@@ -1,6 +1,6 @@
 # initMAX/Zabbix-UI-Widgets-ChatGPT
 
-⭐ 13 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) · [官网](https://www.initmax.com/product/chatgpt/) · 组织维护
+⭐ 13 · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) · [官网](https://www.initmax.com/product/chatgpt/) · 组织维护
 
 **Zabbix 仪表盘内的 AI 聊天小组件，接入多家模型答疑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "initMAX/Zabbix-UI-Widgets-ChatGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

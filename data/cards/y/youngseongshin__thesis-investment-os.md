@@ -1,6 +1,6 @@
 # youngseongshin/thesis-investment-os
 
-⭐ 14 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/youngseongshin/thesis-investment-os) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/youngseongshin/thesis-investment-os) · 个人维护 · 中文 README
 
 **投资 agent 的问责框架：论点卡、预测账本与反馈闭环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "youngseongshin/thesis-investment-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "youngseongshin/thesis-investment-os 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

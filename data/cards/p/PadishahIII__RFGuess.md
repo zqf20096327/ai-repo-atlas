@@ -1,6 +1,6 @@
 # PadishahIII/RFGuess
 
-⭐ 32 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/PadishahIII/RFGuess) · [官网](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-password-guessing) · 个人维护 · 中文 README
+⭐ 33 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/PadishahIII/RFGuess) · [官网](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-password-guessing) · 个人维护 · 中文 README
 
 **基于随机森林的社工密码字典生成工具（GUI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PadishahIII/RFGuess 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "PadishahIII/RFGuess 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

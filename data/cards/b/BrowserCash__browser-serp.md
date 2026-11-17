@@ -1,6 +1,6 @@
 # BrowserCash/browser-serp
 
-⭐ 27 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/BrowserCash/browser-serp) · [官网](https://browser.cash/developers) · 组织维护
+⭐ 28 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/BrowserCash/browser-serp) · [官网](https://browser.cash/developers) · 组织维护
 
 **给 AI Agent/RAG 的实时 Google 搜索 API，基于远程浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrowserCash/browser-serp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "BrowserCash/browser-serp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

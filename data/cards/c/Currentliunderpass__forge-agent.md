@@ -1,6 +1,6 @@
 # Currentliunderpass/forge-agent
 
-⭐ 23 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Currentliunderpass/forge-agent) · 个人维护
+⭐ 15 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Currentliunderpass/forge-agent) · 个人维护
 
 **本地优先的开源 AI 编程 agent，支持技能构建与分享**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Currentliunderpass/forge-agent 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "Currentliunderpass/forge-agent 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 24
+    line [23, 15, 15]
 ```
 
-2026-11-01 23 → 2026-11-02 23（+0）
+2026-11-01 23 → 2026-11-17 15（-8）
 
 
 ---

@@ -1,6 +1,6 @@
 # fh6312/kubeflow-pipeline-forge
 
-⭐ 53 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/fh6312/kubeflow-pipeline-forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/fh6312/kubeflow-pipeline-forge) · 个人维护
 
 **面向 Kubernetes 的 AI 工作负载编排系统（概念性 README）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fh6312/kubeflow-pipeline-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "fh6312/kubeflow-pipeline-forge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 57
+    line [53, 56, 56]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 56（+3）
 
 
 ---

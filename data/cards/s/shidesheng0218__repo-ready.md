@@ -1,6 +1,6 @@
 # shidesheng0218/repo-ready
 
-⭐ 28 · JavaScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/shidesheng0218/repo-ready) · [官网](https://www.npmjs.com/package/@shidesheng0218/repo-ready) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/shidesheng0218/repo-ready) · [官网](https://www.npmjs.com/package/@shidesheng0218/repo-ready) · 个人维护 · 中文 README
 
 **检查仓库是否适合 AI 编程代理协作的 CLI 工具**
 
@@ -45,13 +45,13 @@ CLI 优先的 AI 编程代理就绪度检查与修复工具：静态扫描仓库
 
 ```mermaid
 xychart-beta
-    title "shidesheng0218/repo-ready 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "shidesheng0218/repo-ready 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 27（-1）
 
 
 ---

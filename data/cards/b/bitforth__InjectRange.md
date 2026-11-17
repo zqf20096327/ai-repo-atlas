@@ -1,6 +1,6 @@
 # bitforth/InjectRange
 
-⭐ 14 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/bitforth/InjectRange) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/bitforth/InjectRange) · 个人维护
 
 **提示注入防护规则的确定性回归评测工具**
 
@@ -45,13 +45,13 @@ InjectRange 是面向开发者自声明防护规则的评测 harness：用 24 �
 
 ```mermaid
 xychart-beta
-    title "bitforth/InjectRange 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 5 --> 114
-    line [105, 14, 14]
+    title "bitforth/InjectRange 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 4 --> 114
+    line [105, 14, 13, 13]
 ```
 
-2026-10-18 105 → 2026-11-02 14（-91）
+2026-10-18 105 → 2026-11-17 13（-92）
 
 
 ---

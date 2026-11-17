@@ -1,6 +1,6 @@
 # LLM360/Reasoning360
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/LLM360/Reasoning360) · [官网](https://guru-reasoning.github.io/) · 组织维护
+⭐ 155 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/LLM360/Reasoning360) · [官网](https://guru-reasoning.github.io/) · 组织维护
 
 **面向大推理模型开放研究的 RL 训练与评测工具库**
 
@@ -44,13 +44,13 @@ Reasoning360 官方仓库，围绕大规模推理模型的开源研究：提供�
 
 ```mermaid
 xychart-beta
-    title "LLM360/Reasoning360 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 153 --> 155
-    line [154, 154]
+    title "LLM360/Reasoning360 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 153 --> 156
+    line [154, 155, 155]
 ```
 
-2026-10-18 154 → 2026-11-02 154（+0）
+2026-10-18 154 → 2026-11-17 155（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # squidKid-deluxe/QTradeX-Algo-Trading-SDK
 
-⭐ 90 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) · [官网](https://qtradex.litepresence.com) · 个人维护
+⭐ 92 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) · [官网](https://qtradex.litepresence.com) · 个人维护
 
 **加密货币量化交易框架：设计、回测与优化交易机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "squidKid-deluxe/QTradeX-Algo-Trading-SDK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 87 --> 91
-    line [88, 89, 90, 90]
+    title "squidKid-deluxe/QTradeX-Algo-Trading-SDK 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 87 --> 93
+    line [88, 89, 90, 89, 91, 92, 92]
 ```
 
-2026-10-18 88 → 2026-11-02 90（+2）
+2026-10-18 88 → 2026-11-17 92（+4）
 
 
 ---

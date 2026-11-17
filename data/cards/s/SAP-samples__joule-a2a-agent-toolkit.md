@@ -1,6 +1,6 @@
 # SAP-samples/joule-a2a-agent-toolkit
 
-⭐ 41 · Shell · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/SAP-samples/joule-a2a-agent-toolkit) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Claude Code 插件：脚手架生成并部署 SAP Joule A2A agent 到 BTP**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SAP-samples/joule-a2a-agent-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-07"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-07 41（+1）
 
 
 ---

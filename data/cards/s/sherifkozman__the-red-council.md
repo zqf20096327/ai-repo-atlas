@@ -1,6 +1,6 @@
 # sherifkozman/the-red-council
 
-⭐ 17 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/sherifkozman/the-red-council) · [官网](https://theredcouncil.com) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/sherifkozman/the-red-council) · [官网](https://theredcouncil.com) · 个人维护
 
 **LLM 对抗安全测试平台：攻击、判定、加固、验证闭环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sherifkozman/the-red-council 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "sherifkozman/the-red-council 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

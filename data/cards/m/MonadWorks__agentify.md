@@ -1,6 +1,6 @@
 # MonadWorks/agentify
 
-⭐ 42 · TypeScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/MonadWorks/agentify) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/MonadWorks/agentify) · 组织维护
 
 **把 OpenAPI 规范编译为 9 种 AI agent 接口格式的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MonadWorks/agentify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "MonadWorks/agentify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [42, 41, 41]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 41（-1）
 
 
 ---

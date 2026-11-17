@@ -1,6 +1,6 @@
 # RMeli/gnina-torch
 
-⭐ 79 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/RMeli/gnina-torch) · [官网](https://gnina-torch.rtfd.io) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/RMeli/gnina-torch) · [官网](https://gnina-torch.rtfd.io) · 个人维护
 
 **GNINA 分子对接评分函数的 PyTorch 实现，供训练与推理**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RMeli/gnina-torch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 76 --> 80
-    line [77, 79, 79]
+    title "RMeli/gnina-torch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 76 --> 82
+    line [77, 79, 77, 80, 81, 81]
 ```
 
-2026-10-18 77 → 2026-11-02 79（+2）
+2026-10-18 77 → 2026-11-17 81（+4）
 
 
 ---

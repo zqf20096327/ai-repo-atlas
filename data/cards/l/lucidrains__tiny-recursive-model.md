@@ -1,6 +1,6 @@
 # lucidrains/tiny-recursive-model
 
-⭐ 192 · Python · MIT · 推送 2025-12-23 · [GitHub](https://github.com/lucidrains/tiny-recursive-model) · 个人维护
+⭐ 193 · Python · MIT · 推送 2025-12-23 · [GitHub](https://github.com/lucidrains/tiny-recursive-model) · 个人维护
 
 **面向研究者的 Tiny Recursive Model (TRM) PyTorch 非官方实现**
 
@@ -43,13 +43,13 @@ lucidrains 对 Tiny Recursive Model (TRM) 的非官方 PyTorch 实现。TRM 是 
 
 ```mermaid
 xychart-beta
-    title "lucidrains/tiny-recursive-model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 191 --> 193
-    line [192, 192]
+    title "lucidrains/tiny-recursive-model 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 191 --> 194
+    line [192, 193, 193]
 ```
 
-2026-10-18 192 → 2026-11-02 192（+0）
+2026-10-18 192 → 2026-11-17 193（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PraveenElango/ros2-fast-stereo
 
-⭐ 31 · C++ · 推送 2026-07-27 · [GitHub](https://github.com/PraveenElango/ros2-fast-stereo) · 个人维护
+⭐ 32 · C++ · 推送 2026-07-27 · [GitHub](https://github.com/PraveenElango/ros2-fast-stereo) · 个人维护
 
 **给机器人开发者的 ROS2 实时双目深度估计工作空间**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PraveenElango/ros2-fast-stereo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "PraveenElango/ros2-fast-stereo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

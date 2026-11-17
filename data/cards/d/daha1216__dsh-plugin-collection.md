@@ -1,6 +1,6 @@
 # daha1216/dsh-plugin-collection
 
-⭐ 20 · PowerShell · 推送 2026-10-26 · [GitHub](https://github.com/daha1216/dsh-plugin-collection) · 个人维护 · 中文 README
+⭐ 21 · PowerShell · 推送 2026-11-11 · [GitHub](https://github.com/daha1216/dsh-plugin-collection) · 个人维护 · 中文 README
 
 **DeepSeek Harness 第三方插件精选目录：索引、安装与更新命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "daha1216/dsh-plugin-collection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 15 --> 21
-    line [16, 19, 20, 20]
+    title "daha1216/dsh-plugin-collection 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 22
+    line [16, 19, 20, 19, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 20（+4）
+2026-10-18 16 → 2026-11-17 21（+5）
 
 
 ---

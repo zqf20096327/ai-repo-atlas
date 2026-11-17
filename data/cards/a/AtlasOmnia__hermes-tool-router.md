@@ -1,6 +1,6 @@
 # AtlasOmnia/hermes-tool-router
 
-⭐ 137 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/hermes-tool-router) · [官网](https://hermesagenttools.com/) · 组织维护 · 中文 README
+⭐ 146 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/AtlasOmnia/hermes-tool-router) · [官网](https://hermesagenttools.com/) · 组织维护 · 中文 README
 
 **Hermes Agent 插件：首轮确定性收敛工具面以降低 token 开销**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasOmnia/hermes-tool-router 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 131 --> 138
-    line [132, 133, 134, 137]
+    title "AtlasOmnia/hermes-tool-router 星数(近 9 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 131 --> 147
+    line [132, 133, 134, 137, 145, 146, 145, 146, 146]
 ```
 
-2026-10-28 132 → 2026-11-02 137（+5）
+2026-10-28 132 → 2026-11-17 146（+14）
 
 
 ---

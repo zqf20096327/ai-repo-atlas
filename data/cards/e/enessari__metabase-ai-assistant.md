@@ -1,6 +1,6 @@
 # enessari/metabase-ai-assistant
 
-⭐ 48 · JavaScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/enessari/metabase-ai-assistant) · 个人维护 · 中文 README
+⭐ 47 · JavaScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/enessari/metabase-ai-assistant) · 个人维护 · 中文 README
 
 **连接 LLM 与 Metabase BI 的 MCP 服务器，提供百余个工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "enessari/metabase-ai-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [49, 48, 48]
+    title "enessari/metabase-ai-assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 50
+    line [49, 48, 47, 47]
 ```
 
-2026-10-18 49 → 2026-11-02 48（-1）
+2026-10-18 49 → 2026-11-17 47（-2）
 
 
 ---

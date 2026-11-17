@@ -1,6 +1,6 @@
 # brcrusoe72/agent-search
 
-⭐ 89 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/brcrusoe72/agent-search) · [官网](https://pypi.org/project/agentsearch-client/) · 个人维护
+⭐ 89 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/brcrusoe72/agent-search) · [官网](https://pypi.org/project/agentsearch-client/) · 个人维护
 
 **面向 AI agent 的自托管搜索 API，捆绑 SearXNG，无需第三方 API key**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brcrusoe72/agent-search 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 85 --> 90
-    line [86, 87, 88, 89, 89]
+    title "brcrusoe72/agent-search 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 85 --> 91
+    line [86, 87, 88, 89, 88, 90, 89, 89]
 ```
 
-2026-10-18 86 → 2026-11-02 89（+3）
+2026-10-18 86 → 2026-11-17 89（+3）
 
 
 ---

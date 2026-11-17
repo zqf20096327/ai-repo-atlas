@@ -1,6 +1,6 @@
 # jaggerjack61/OpenCodeMobile
 
-⭐ 16 · Kotlin · MIT · 推送 2026-10-19 · [GitHub](https://github.com/jaggerjack61/OpenCodeMobile) · [官网](https://github.com/jaggerjack61/OpenCodeMobile/releases/latest) · 个人维护
+⭐ 17 · Kotlin · MIT · 推送 2026-11-15 · [GitHub](https://github.com/jaggerjack61/OpenCodeMobile) · [官网](https://github.com/jaggerjack61/OpenCodeMobile/releases/latest) · 个人维护
 
 **OpenCode Go 的原生 Android 聊天客户端**
 
@@ -45,13 +45,13 @@ Kotlin + Jetpack Compose 编写的 Android 应用，接入 OpenCode Go 的 OpenA
 
 ```mermaid
 xychart-beta
-    title "jaggerjack61/OpenCodeMobile 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 9 --> 17
-    line [10, 13, 14, 16, 16]
+    title "jaggerjack61/OpenCodeMobile 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 18
+    line [10, 13, 14, 16, 17, 17]
 ```
 
-2026-10-22 10 → 2026-11-02 16（+6）
+2026-10-22 10 → 2026-11-17 17（+7）
 
 
 ---

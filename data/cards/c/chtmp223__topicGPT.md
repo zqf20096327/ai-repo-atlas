@@ -1,6 +1,6 @@
 # chtmp223/topicGPT
 
-⭐ 419 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/chtmp223/topicGPT) · [官网](https://chtmp223.github.io/topicGPT) · 组织维护
+⭐ 426 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/chtmp223/topicGPT) · [官网](https://chtmp223.github.io/topicGPT) · 组织维护
 
 **基于 LLM 提示的主题建模框架，为文档生成并分配主题**
 
@@ -44,13 +44,13 @@ NAACL'24 论文 TopicGPT 的官方代码库，以 pip 包 topicgpt_python 提供
 
 ```mermaid
 xychart-beta
-    title "chtmp223/topicGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 418 --> 420
-    line [419, 419]
+    title "chtmp223/topicGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 418 --> 427
+    line [419, 423, 425, 426, 426]
 ```
 
-2026-10-18 419 → 2026-11-02 419（+0）
+2026-10-18 419 → 2026-11-17 426（+7）
 
 
 ---

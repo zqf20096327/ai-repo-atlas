@@ -1,6 +1,6 @@
 # neoneye/agent-memory-atlas
 
-⭐ 106 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/neoneye/agent-memory-atlas) · [官网](https://neoneye.github.io/agent-memory-atlas/) · 个人维护
+⭐ 118 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/neoneye/agent-memory-atlas) · [官网](https://neoneye.github.io/agent-memory-atlas/) · 个人维护
 
 **AI agent 记忆系统的代码级对比研究与策展图谱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neoneye/agent-memory-atlas 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 98 --> 107
-    line [99, 101, 102, 103, 104, 105, 106]
+    title "neoneye/agent-memory-atlas 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 98 --> 119
+    line [99, 101, 102, 103, 104, 105, 106, 103, 115, 116, 117, 118, 118]
 ```
 
-2026-10-18 99 → 2026-11-02 106（+7）
+2026-10-18 99 → 2026-11-17 118（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # hashSTACS-Global/EnClaws
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/hashSTACS-Global/EnClaws) · [官网](https://www.enclaws.ai) · 组织维护 · 中文 README
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/hashSTACS-Global/EnClaws) · [官网](https://www.enclaws.ai) · 组织维护 · 中文 README
 
 **面向企业的数字员工容器化管理与调度平台**
 
@@ -44,13 +44,13 @@ EnClaws 定位为企业 AI 助手容器平台：创建、调度、隔离、升�
 
 ```mermaid
 xychart-beta
-    title "hashSTACS-Global/EnClaws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "hashSTACS-Global/EnClaws 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [36, 35, 35]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 35（-1）
 
 
 ---

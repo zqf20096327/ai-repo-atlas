@@ -1,6 +1,6 @@
 # MercurieVV/ScalaSemantic
 
-⭐ 22 · Scala · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MercurieVV/ScalaSemantic) · [官网](https://mercurievv.github.io/ScalaSemantic/) · 个人维护
+⭐ 23 · Scala · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MercurieVV/ScalaSemantic) · [官网](https://mercurievv.github.io/ScalaSemantic/) · 个人维护
 
 **给 AI 编码代理的 Scala 语义分析 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MercurieVV/ScalaSemantic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "MercurieVV/ScalaSemantic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

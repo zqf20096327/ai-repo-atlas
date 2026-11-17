@@ -1,6 +1,6 @@
 # HsiangNianian/soon
 
-⭐ 12 · Rust · MIT · 推送 2026-07-30 · [GitHub](https://github.com/HsiangNianian/soon) · [官网](https://soon.hydroroll.team) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-03 · [GitHub](https://github.com/HsiangNianian/soon) · [官网](https://soon.hydroroll.team) · 个人维护
 
 **本地优先的终端 agent：预测并修复你的下一条完整命令**
 
@@ -46,12 +46,12 @@ Rust 编写的命令预测工具：读取本地 shell 历史，基于命令转�
 ```mermaid
 xychart-beta
     title "HsiangNianian/soon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

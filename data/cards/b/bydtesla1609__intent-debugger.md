@@ -1,6 +1,6 @@
 # bydtesla1609/intent-debugger
 
-⭐ 123 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bydtesla1609/intent-debugger) · 个人维护 · 中文 README
+⭐ 124 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bydtesla1609/intent-debugger) · 个人维护 · 中文 README
 
 **需求澄清 Skill：把模糊想法整理成可核对的需求清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bydtesla1609/intent-debugger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    title "bydtesla1609/intent-debugger 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 122 --> 125
+    line [123, 124, 124]
 ```
 
-2026-10-18 123 → 2026-11-02 123（+0）
+2026-10-18 123 → 2026-11-17 124（+1）
 
 
 ---

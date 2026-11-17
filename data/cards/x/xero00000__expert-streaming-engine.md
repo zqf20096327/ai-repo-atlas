@@ -1,6 +1,6 @@
 # xero00000/expert-streaming-engine
 
-⭐ 22 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xero00000/expert-streaming-engine) · [官网](https://github.com/xero00000/expert-streaming-engine/releases/latest) · 个人维护
+⭐ 21 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xero00000/expert-streaming-engine) · [官网](https://github.com/xero00000/expert-streaming-engine/releases/latest) · 个人维护
 
 **桌面本地 LLM 运行引擎：跨 SSD/RAM/GPU 运行 MoE 大模型**
 
@@ -46,13 +46,13 @@ Expert Streaming Engine (ESE) 提供桌面应用 ESE Studio 与命令行工具�
 
 ```mermaid
 xychart-beta
-    title "xero00000/expert-streaming-engine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
+    title "xero00000/expert-streaming-engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-15", "2026-11-17"]
     y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    line [20, 21, 22, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # chojs23/lazyagent
 
-⭐ 79 · Go · MIT · 推送 2026-05-23 · [GitHub](https://github.com/chojs23/lazyagent) · 个人维护
+⭐ 80 · Go · MIT · 推送 2026-05-23 · [GitHub](https://github.com/chojs23/lazyagent) · 个人维护
 
 **观测 Claude/Codex/OpenCode 编码 agent 会话的 TUI/Web 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chojs23/lazyagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    title "chojs23/lazyagent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 78 --> 81
+    line [79, 80, 80]
 ```
 
-2026-10-18 79 → 2026-11-02 79（+0）
+2026-10-18 79 → 2026-11-17 80（+1）
 
 
 ---

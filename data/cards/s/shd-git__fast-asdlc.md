@@ -1,6 +1,6 @@
 # shd-git/fast-asdlc
 
-⭐ 27 · MIT · 推送 2026-07-01 · [GitHub](https://github.com/shd-git/fast-asdlc) · 个人维护
+⭐ 28 · MIT · 推送 2026-07-01 · [GitHub](https://github.com/shd-git/fast-asdlc) · 个人维护
 
 **AI 原生的 Agentic SDLC 框架：用本地 LLM 代理自动化软件开发生命周期**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shd-git/fast-asdlc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "shd-git/fast-asdlc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

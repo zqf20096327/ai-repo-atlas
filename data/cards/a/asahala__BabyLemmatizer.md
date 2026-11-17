@@ -1,6 +1,6 @@
 # asahala/BabyLemmatizer
 
-⭐ 17 · Python · 推送 2026-08-13 · [GitHub](https://github.com/asahala/BabyLemmatizer) · 个人维护
+⭐ 18 · Python · 推送 2026-08-13 · [GitHub](https://github.com/asahala/BabyLemmatizer) · 个人维护
 
 **面向楔形文字等古语言的神经词形还原与词性标注工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asahala/BabyLemmatizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "asahala/BabyLemmatizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

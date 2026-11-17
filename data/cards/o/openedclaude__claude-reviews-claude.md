@@ -1,6 +1,6 @@
 # openedclaude/claude-reviews-claude
 
-⭐ 1,638 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/openedclaude/claude-reviews-claude) · [官网](https://openedclaude.github.io/claude-reviews-claude/) · 个人维护 · 中文 README
+⭐ 1,646 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/openedclaude/claude-reviews-claude) · [官网](https://openedclaude.github.io/claude-reviews-claude/) · 个人维护 · 中文 README
 
 **Claude 撰写的 Claude Code v2.1.88 架构深度解析文档（17 章，中英双语）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openedclaude/claude-reviews-claude 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1629 --> 1639
-    line [1630, 1633, 1632, 1633, 1635, 1636, 1637, 1638, 1638]
+    title "openedclaude/claude-reviews-claude 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1629 --> 1647
+    line [1630, 1633, 1632, 1633, 1635, 1636, 1637, 1638, 1633, 1641, 1642, 1644, 1645, 1646, 1646]
 ```
 
-2026-10-18 1,630 → 2026-11-02 1,638（+8）
+2026-10-18 1,630 → 2026-11-17 1,646（+16）
 
 
 ---

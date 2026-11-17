@@ -1,6 +1,6 @@
 # neocortex-link/neocortex-unity-sdk
 
-⭐ 36 · C# · MIT · 推送 2026-10-07 · [GitHub](https://github.com/neocortex-link/neocortex-unity-sdk) · [官网](https://neocortex.link) · 组织维护
+⭐ 36 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/neocortex-link/neocortex-unity-sdk) · [官网](https://neocortex.link) · 组织维护
 
 **把 Neocortex 平台上的 AI 角色接入 Unity 游戏的 SDK**
 
@@ -45,12 +45,12 @@ Neocortex Unity SDK：将用户在 Neocortex 网页平台上构建的角色导�
 ```mermaid
 xychart-beta
     title "neocortex-link/neocortex-unity-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

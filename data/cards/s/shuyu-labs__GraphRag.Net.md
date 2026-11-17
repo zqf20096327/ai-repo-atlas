@@ -1,6 +1,6 @@
 # shuyu-labs/GraphRag.Net
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 230 · C# · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/shuyu-labs/GraphRag.Net) · [官网](https://antsk.cn) · 个人维护 · 中文 README
 
 **基于 Semantic Kernel 的 GraphRAG .NET 实现库，供学习与集成**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shuyu-labs/GraphRag.Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 229 --> 231
     line [230, 230]
 ```
 
-2026-10-18 230 → 2026-10-24 230（+0）
+2026-10-18 230 → 2026-11-17 230（+0）
 
 
 ---

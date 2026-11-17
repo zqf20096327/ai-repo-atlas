@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-Embodied
 
-⭐ 877 · Python · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied) · 组织维护 · 中文 README
+⭐ 881 · Python · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied) · 组织维护 · 中文 README
 
 **面向物理世界具身智能体的视觉-语言基础模型及推理代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HY-Embodied 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 875 --> 878
-    line [876, 877, 877]
+    title "Tencent-Hunyuan/HY-Embodied 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 875 --> 882
+    line [876, 877, 881, 881]
 ```
 
-2026-10-18 876 → 2026-11-02 877（+1）
+2026-10-18 876 → 2026-11-17 881（+5）
 
 
 ---

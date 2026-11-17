@@ -1,6 +1,6 @@
 # apisec-inc/AI-Surface
 
-⭐ 141 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/apisec-inc/AI-Surface) · [官网](https://apisec.ai) · 组织维护
+⭐ 144 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/apisec-inc/AI-Surface) · [官网](https://apisec.ai) · 组织维护
 
 **扫描代码库中 AI 攻击面的本地静态分析工具，PR 时与编码工具内可用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apisec-inc/AI-Surface 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 136 --> 142
-    line [137, 138, 140, 141, 141]
+    title "apisec-inc/AI-Surface 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 136 --> 145
+    line [137, 138, 140, 141, 138, 144, 144]
 ```
 
-2026-10-18 137 → 2026-11-02 141（+4）
+2026-10-18 137 → 2026-11-17 144（+7）
 
 
 ---

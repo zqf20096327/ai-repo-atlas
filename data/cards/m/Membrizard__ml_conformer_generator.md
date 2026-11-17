@@ -1,6 +1,6 @@
 # Membrizard/ml_conformer_generator
 
-⭐ 61 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Membrizard/ml_conformer_generator) · 组织维护
+⭐ 64 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Membrizard/ml_conformer_generator) · 组织维护
 
 **给药物/化学研究者：按目标形状生成3D分子构象的扩散模型工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Membrizard/ml_conformer_generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "Membrizard/ml_conformer_generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

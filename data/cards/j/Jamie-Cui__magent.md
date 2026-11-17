@@ -1,6 +1,6 @@
 # Jamie-Cui/magent
 
-⭐ 45 · Emacs Lisp · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/Jamie-Cui/magent) · [官网](https://jamie-cui.github.io/magent/) · 个人维护
+⭐ 46 · Emacs Lisp · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/Jamie-Cui/magent) · [官网](https://jamie-cui.github.io/magent/) · 个人维护
 
 **Emacs Lisp 编写的多智能体 AI 编程助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jamie-Cui/magent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45]
+    title "Jamie-Cui/magent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 43, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 45（+2）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

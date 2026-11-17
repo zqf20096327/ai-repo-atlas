@@ -1,6 +1,6 @@
 # qingshan/dotfiles
 
-⭐ 15 · Shell · MIT · 推送 2026-10-01 · [GitHub](https://github.com/qingshan/dotfiles) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/qingshan/dotfiles) · 个人维护
 
 **macOS/Linux 开发环境 dotfiles：终端、Shell、编辑器与 AI CLI 配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qingshan/dotfiles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

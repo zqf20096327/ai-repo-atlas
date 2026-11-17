@@ -1,6 +1,6 @@
 # google/torchax
 
-⭐ 249 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/torchax) · [官网](https://google.github.io/torchax/) · 组织维护
+⭐ 251 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/torchax) · [官网](https://google.github.io/torchax/) · 组织维护
 
 **让 PyTorch 代码经 JAX 后端运行于 TPU 的互操作库**
 
@@ -46,13 +46,13 @@ torchax 是 PyTorch 的一个后端，使 PyTorch 程序能够在 Google Cloud T
 
 ```mermaid
 xychart-beta
-    title "google/torchax 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 245 --> 250
-    line [246, 247, 246, 247, 248, 249, 249]
+    title "google/torchax 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 245 --> 252
+    line [246, 247, 246, 247, 248, 249, 248, 251, 251]
 ```
 
-2026-10-18 246 → 2026-11-02 249（+3）
+2026-10-18 246 → 2026-11-17 251（+5）
 
 
 ---

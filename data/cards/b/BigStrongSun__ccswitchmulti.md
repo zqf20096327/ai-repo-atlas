@@ -1,6 +1,6 @@
 # BigStrongSun/ccswitchmulti
 
-⭐ 126 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BigStrongSun/ccswitchmulti) · 个人维护 · 中文 README
+⭐ 131 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/BigStrongSun/ccswitchmulti) · 个人维护 · 中文 README
 
 **桌面工具：为 Codex 等八类 Agent 工具做多模型 Provider 管理与本地路由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BigStrongSun/ccswitchmulti 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 119 --> 127
-    line [120, 123, 122, 121, 122, 123, 126, 126]
+    title "BigStrongSun/ccswitchmulti 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 119 --> 132
+    line [120, 123, 122, 121, 122, 123, 126, 122, 129, 131, 131]
 ```
 
-2026-10-18 120 → 2026-11-02 126（+6）
+2026-10-18 120 → 2026-11-17 131（+11）
 
 
 ---

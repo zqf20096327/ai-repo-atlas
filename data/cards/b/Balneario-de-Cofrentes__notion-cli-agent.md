@@ -1,6 +1,6 @@
 # Balneario-de-Cofrentes/notion-cli-agent
 
-⭐ 90 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Balneario-de-Cofrentes/notion-cli-agent) · [官网](https://www.npmjs.com/package/notion-cli-agent) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Balneario-de-Cofrentes/notion-cli-agent) · [官网](https://www.npmjs.com/package/notion-cli-agent) · 个人维护
 
 **供 AI agent 调用的 Notion 命令行工具：读写工作区与批量操作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Balneario-de-Cofrentes/notion-cli-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "Balneario-de-Cofrentes/notion-cli-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 89 --> 93
+    line [90, 91, 92, 92]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 92（+2）
 
 
 ---

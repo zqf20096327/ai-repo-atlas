@@ -1,6 +1,6 @@
 # vannu07/jarvis
 
-⭐ 72 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/vannu07/jarvis) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/vannu07/jarvis) · 个人维护
 
 **带人脸识别认证的语音 AI 助手，语音控制电脑与通讯**
 
@@ -45,13 +45,13 @@ Python 实现的个人语音助手：通过 Google STT 做实时语音识别、P
 
 ```mermaid
 xychart-beta
-    title "vannu07/jarvis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    title "vannu07/jarvis 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 72, 70, 72, 73, 73]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 73（+3）
 
 
 ---

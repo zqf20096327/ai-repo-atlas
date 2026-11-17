@@ -1,6 +1,6 @@
 # MIgHTy-alIeN/ethereum-flashloan-mev-bot
 
-⭐ 931 · Solidity · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **以太坊 MEV/套利交易机器人的部署教程：向合约地址充值 ETH 后自动交易**
 
@@ -11,7 +11,7 @@ README 以分步教程形式引导用户：在浏览器安装 MetaMask 或 Phant
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ README 以分步教程形式引导用户：在浏览器安装 MetaMask 或 Phant
 
 ```mermaid
 xychart-beta
-    title "MIgHTy-alIeN/ethereum-flashloan-mev-bot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "MIgHTy-alIeN/ethereum-flashloan-mev-bot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10"]
     y-axis "stars" 744 --> 2976
-    line [2790, 2048, 2047, 2043, 930, 931, 931]
+    line [2790, 2048, 2047, 2043, 930, 931, 2047, 931, 930]
 ```
 
-2026-10-18 2,790 → 2026-11-02 931（-1,859）
+2026-10-18 2,790 → 2026-11-10 930（-1,860）
 
 
 ---

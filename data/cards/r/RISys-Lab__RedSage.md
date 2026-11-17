@@ -1,6 +1,6 @@
 # RISys-Lab/RedSage
 
-⭐ 67 · Python · 推送 2026-08-24 · [GitHub](https://github.com/RISys-Lab/RedSage) · [官网](https://risys-lab.github.io/RedSage/) · 组织维护
+⭐ 69 · Python · 推送 2026-08-24 · [GitHub](https://github.com/RISys-Lab/RedSage) · [官网](https://risys-lab.github.io/RedSage/) · 组织维护
 
 **8B 网络安全领域大模型：本地部署的安全专家助手**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文的官方仓库，发布 8B 规模网络安全大模型系列（
 
 ```mermaid
 xychart-beta
-    title "RISys-Lab/RedSage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 65 --> 68
-    line [66, 67, 67]
+    title "RISys-Lab/RedSage 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 65 --> 70
+    line [66, 67, 68, 69, 69]
 ```
 
-2026-10-18 66 → 2026-11-02 67（+1）
+2026-10-18 66 → 2026-11-17 69（+3）
 
 
 ---

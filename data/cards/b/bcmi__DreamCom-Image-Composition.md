@@ -1,6 +1,6 @@
 # bcmi/DreamCom-Image-Composition
 
-⭐ 23 · Python · 推送 2026-08-20 · [GitHub](https://github.com/bcmi/DreamCom-Image-Composition) · 组织维护 · 中文 README
+⭐ 23 · Python · 推送 2026-11-10 · [GitHub](https://github.com/bcmi/DreamCom-Image-Composition) · 组织维护 · 中文 README
 
 **论文官方代码：微调文本引导 inpainting 模型做图像合成**
 
@@ -46,12 +46,12 @@ DreamCom 论文的官方仓库，属于 token-to-object 类生成式图像合成
 ```mermaid
 xychart-beta
     title "bcmi/DreamCom-Image-Composition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

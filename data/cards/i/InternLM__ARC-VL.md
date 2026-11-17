@@ -1,6 +1,6 @@
 # InternLM/ARC-VL
 
-⭐ 47 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/InternLM/ARC-VL) · [官网](https://arxiv.org/pdf/2511.15703) · 组织维护 · 中文 README
+⭐ 48 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/InternLM/ARC-VL) · [官网](https://arxiv.org/pdf/2511.15703) · 组织维护 · 中文 README
 
 **ARC-AGI 任务的视觉-语言协同推理方法官方实现（CVPR 2026 论文）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/ARC-VL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "InternLM/ARC-VL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # decodingai-magazine/llm-wiki-workshop
 
-⭐ 43 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/decodingai-magazine/llm-wiki-workshop) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/decodingai-magazine/llm-wiki-workshop) · 组织维护
 
 **从第一性原理设计 LLM wiki 的工作坊：3 个练习与开源代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/llm-wiki-workshop 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 33 --> 44
-    line [34, 37, 39, 40, 41, 42, 43, 43]
+    title "decodingai-magazine/llm-wiki-workshop 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 33 --> 45
+    line [34, 37, 39, 40, 41, 42, 43, 39, 42, 43, 44, 44]
 ```
 
-2026-10-18 34 → 2026-11-02 43（+9）
+2026-10-18 34 → 2026-11-17 44（+10）
 
 
 ---

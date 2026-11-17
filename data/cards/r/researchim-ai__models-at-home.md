@@ -1,6 +1,6 @@
 # researchim-ai/models-at-home
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/researchim-ai/models-at-home) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/researchim-ai/models-at-home) · 组织维护
 
 **在家训练与微调 LLM 的浏览器图形化训练工作室**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "researchim-ai/models-at-home 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "researchim-ai/models-at-home 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

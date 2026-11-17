@@ -1,6 +1,6 @@
 # memvid/canvas
 
-⭐ 23 · TypeScript · 推送 2026-01-05 · [GitHub](https://github.com/memvid/canvas) · [官网](https://memvid.com) · 组织维护
+⭐ 25 · TypeScript · 推送 2026-01-05 · [GitHub](https://github.com/memvid/canvas) · [官网](https://memvid.com) · 组织维护
 
 **基于 Memvid 构建知识库搜索/聊天/仪表盘界面的 React UI 套件**
 
@@ -45,13 +45,13 @@ Canvas 是构建在 Memvid（视频化 AI 记忆格式）之上的知识库 UI �
 
 ```mermaid
 xychart-beta
-    title "memvid/canvas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "memvid/canvas 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

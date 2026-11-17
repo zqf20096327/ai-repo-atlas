@@ -1,6 +1,6 @@
 # AgentiLoop/Agent
 
-⭐ 652 · Swift · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/AgentiLoop/Agent) · [官网](https://agentiloop.ai) · 个人维护 · 中文 README
+⭐ 656 · Swift · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/AgentiLoop/Agent) · [官网](https://agentiloop.ai) · 个人维护 · 中文 README
 
 **macOS 原生自主 AI 代理：驱动应用、写码、执行系统任务**
 
@@ -44,13 +44,13 @@ Swift 6.4/SwiftUI 编写的 macOS 桌面 AI 代理应用，接入 23 个 LLM 提
 
 ```mermaid
 xychart-beta
-    title "AgentiLoop/Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 645 --> 653
-    line [646, 648, 649, 650, 651, 652, 652]
+    title "AgentiLoop/Agent 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 645 --> 657
+    line [646, 648, 649, 650, 651, 652, 649, 651, 652, 653, 655, 656, 656]
 ```
 
-2026-10-18 646 → 2026-11-02 652（+6）
+2026-10-18 646 → 2026-11-17 656（+10）
 
 
 ---

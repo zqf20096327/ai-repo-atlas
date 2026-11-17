@@ -1,6 +1,6 @@
 # AoharuCat/Closure
 
-⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/AoharuCat/Closure) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/AoharuCat/Closure) · 个人维护 · 中文 README
 
 **本地优先的 AI 小说创作 IDE：面向网文与长篇作者**
 
@@ -45,13 +45,13 @@ Closure 是 OrisonSpace（Apache-2.0）的 fork，以 AGPL-3.0-or-later 发布�
 
 ```mermaid
 xychart-beta
-    title "AoharuCat/Closure 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "AoharuCat/Closure 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    line [18, 19, 20, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

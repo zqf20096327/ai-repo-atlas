@@ -1,6 +1,6 @@
 # techgniouss/pdagent
 
-⭐ 15 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/techgniouss/pdagent) · [官网](https://pypi.org/project/pocket-desk-agent/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/techgniouss/pdagent) · [官网](https://pypi.org/project/pocket-desk-agent/) · 个人维护 · 中文 README
 
 **自托管的 Telegram 机器人：远程控制 Windows PC，可选 Gemini AI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "techgniouss/pdagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

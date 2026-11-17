@@ -1,6 +1,6 @@
 # ardoco/magika
 
-⭐ 16 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ardoco/magika) · 组织维护
+⭐ 16 · Java · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ardoco/magika) · 组织维护
 
 **Google Magika 文件类型识别工具的 Java 库封装**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ardoco/magika 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-22", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-22 16 → 2026-11-02 16（+0）
+2026-10-22 16 → 2026-11-17 16（+0）
 
 
 ---

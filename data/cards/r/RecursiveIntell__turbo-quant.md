@@ -1,6 +1,6 @@
 # RecursiveIntell/turbo-quant
 
-⭐ 27 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/RecursiveIntell/turbo-quant) · 组织维护
+⭐ 28 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/RecursiveIntell/turbo-quant) · 组织维护
 
 **Rust 向量压缩 sidecar 编解码库：近似候选生成+精确重排**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RecursiveIntell/turbo-quant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "RecursiveIntell/turbo-quant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

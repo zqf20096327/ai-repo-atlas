@@ -1,6 +1,6 @@
 # moshafieeha/UT-ECE-Student-Resources
 
-⭐ 73 · MIT · 推送 2026-02-15 · [GitHub](https://github.com/moshafieeha/UT-ECE-Student-Resources) · 个人维护
+⭐ 75 · MIT · 推送 2026-02-15 · [GitHub](https://github.com/moshafieeha/UT-ECE-Student-Resources) · 个人维护
 
 **德黑兰大学电机与计算机工程学院课程资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moshafieeha/UT-ECE-Student-Resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    title "moshafieeha/UT-ECE-Student-Resources 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 71 --> 76
+    line [72, 73, 74, 75, 75]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-17 75（+3）
 
 
 ---

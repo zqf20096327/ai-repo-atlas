@@ -1,6 +1,6 @@
 # udityamerit/NeuroLens-Knowledge-Retrieval-Engine
 
-⭐ 12 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine) · [官网](https://udityamerit.github.io/NeuroLens-Knowledge-Retrieval-Engine/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine) · [官网](https://udityamerit.github.io/NeuroLens-Knowledge-Retrieval-Engine/) · 个人维护
 
 **双架构文档 RAG 问答平台：浏览器端或 FastAPI+FAISS 后端**
 
@@ -46,12 +46,12 @@ Document RAG 问答应用，提供两种执行模式：零后端的浏览器端�
 ```mermaid
 xychart-beta
     title "udityamerit/NeuroLens-Knowledge-Retrieval-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

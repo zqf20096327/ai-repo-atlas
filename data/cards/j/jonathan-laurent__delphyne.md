@@ -1,6 +1,6 @@
 # jonathan-laurent/delphyne
 
-⭐ 22 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/jonathan-laurent/delphyne) · [官网](https://jonathan-laurent.github.io/delphyne/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/jonathan-laurent/delphyne) · [官网](https://jonathan-laurent.github.io/delphyne/) · 个人维护
 
 **给开发者的 LLM 应用构建框架：策略与策略解耦的可靠编程**
 
@@ -44,13 +44,13 @@ Delphyne 是一个构建 LLM 应用的 Python 编程框架：用户将高层解�
 
 ```mermaid
 xychart-beta
-    title "jonathan-laurent/delphyne 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "jonathan-laurent/delphyne 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

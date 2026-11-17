@@ -1,6 +1,6 @@
 # circuitnet/CircuitNet
 
-⭐ 519 · Python · BSD-3-Clause · 推送 2026-05-17 · [GitHub](https://github.com/circuitnet/CircuitNet) · [官网](https://circuitnet.github.io/) · 组织维护 · 中文 README
+⭐ 524 · Python · BSD-3-Clause · 推送 2026-05-17 · [GitHub](https://github.com/circuitnet/CircuitNet) · [官网](https://circuitnet.github.io/) · 组织维护 · 中文 README
 
 **面向 EDA 机器学习的开源数据集与基准代码库**
 
@@ -43,13 +43,13 @@ CircuitNet 提供电子设计自动化（EDA）领域的开源数据集及配套
 
 ```mermaid
 xychart-beta
-    title "circuitnet/CircuitNet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 514 --> 520
-    line [515, 517, 518, 519, 519]
+    title "circuitnet/CircuitNet 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 514 --> 525
+    line [515, 517, 518, 519, 518, 522, 523, 524, 524]
 ```
 
-2026-10-18 515 → 2026-11-02 519（+4）
+2026-10-18 515 → 2026-11-17 524（+9）
 
 
 ---

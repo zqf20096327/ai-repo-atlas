@@ -1,6 +1,6 @@
 # NimbleEdge/sparse_transformers
 
-⭐ 222 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/NimbleEdge/sparse_transformers) · 组织维护
+⭐ 223 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/NimbleEdge/sparse_transformers) · 组织维护
 
 **面向 LLM 推理的稀疏化 C++ 内核：加速 MLP 层计算**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NimbleEdge/sparse_transformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    title "NimbleEdge/sparse_transformers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 221 --> 224
+    line [222, 223, 223]
 ```
 
-2026-10-18 222 → 2026-11-02 222（+0）
+2026-10-18 222 → 2026-11-17 223（+1）
 
 
 ---

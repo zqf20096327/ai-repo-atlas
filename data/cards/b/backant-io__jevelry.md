@@ -1,6 +1,6 @@
 # backant-io/jevelry
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/backant-io/jevelry) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/backant-io/jevelry) · 组织维护
 
 **让代码与编程 Agent 调用 Jev 决策模型并追踪决策对错的 CLI 库**
 
@@ -44,13 +44,13 @@ jevelry 以 CLI、TUI 与 npm 库形式提供：把『工单是否紧急、该�
 
 ```mermaid
 xychart-beta
-    title "backant-io/jevelry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "backant-io/jevelry 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

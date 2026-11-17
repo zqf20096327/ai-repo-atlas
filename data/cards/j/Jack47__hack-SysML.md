@@ -1,6 +1,6 @@
 # Jack47/hack-SysML
 
-⭐ 520 · Emacs Lisp · 推送 2026-10-07 · [GitHub](https://github.com/Jack47/hack-SysML) · 个人维护 · 中文 README
+⭐ 521 · Emacs Lisp · 推送 2026-10-07 · [GitHub](https://github.com/Jack47/hack-SysML) · 个人维护 · 中文 README
 
 **个人 SysML 学习路线笔记：聚合论文、课程与开源框架资源**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jack47/hack-SysML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 519 --> 521
-    line [520, 520]
+    title "Jack47/hack-SysML 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 519 --> 522
+    line [520, 521, 521]
 ```
 
-2026-10-18 520 → 2026-11-02 520（+0）
+2026-10-18 520 → 2026-11-17 521（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # omron-sinicx/dgpo
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/omron-sinicx/dgpo) · [官网](https://omron-sinicx.github.io/dgpo) · 组织维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/omron-sinicx/dgpo) · [官网](https://omron-sinicx.github.io/dgpo) · 组织维护
 
 **面向研究者的训练方法代码：蒸馏引导强化学习保留小型模型 agentic RAG 能力**
 
@@ -44,13 +44,13 @@ ACL 2026 论文 DGPO 的官方实现：针对 0.5B 级紧凑模型在 agentic RA
 
 ```mermaid
 xychart-beta
-    title "omron-sinicx/dgpo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "omron-sinicx/dgpo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

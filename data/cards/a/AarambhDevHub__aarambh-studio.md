@@ -1,6 +1,6 @@
 # AarambhDevHub/aarambh-studio
 
-⭐ 111 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/AarambhDevHub/aarambh-studio) · 组织维护
+⭐ 112 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/AarambhDevHub/aarambh-studio) · 组织维护
 
 **纯 Rust 从零实现的 decoder-only LLM 全流程系统（训练到服务）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AarambhDevHub/aarambh-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 108 --> 112
-    line [110, 109, 110, 111, 111]
+    title "AarambhDevHub/aarambh-studio 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 108 --> 113
+    line [110, 109, 110, 111, 109, 112, 112]
 ```
 
-2026-10-18 110 → 2026-11-02 111（+1）
+2026-10-18 110 → 2026-11-17 112（+2）
 
 
 ---

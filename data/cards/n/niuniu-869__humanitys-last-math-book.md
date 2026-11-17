@@ -1,6 +1,6 @@
 # niuniu-869/humanitys-last-math-book
 
-⭐ 15 · Python · CC-BY-SA-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/niuniu-869/humanitys-last-math-book) · 个人维护 · 中文 README
+⭐ 16 · Python · CC-BY-SA-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/niuniu-869/humanitys-last-math-book) · 个人维护 · 中文 README
 
 **从中学数学讲到读懂大模型的开源自学教材（11 册 97 章）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "niuniu-869/humanitys-last-math-book 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 6 --> 16
-    line [7, 10, 13, 15, 15]
+    title "niuniu-869/humanitys-last-math-book 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 6 --> 17
+    line [7, 10, 13, 15, 16, 16]
 ```
 
-2026-10-22 7 → 2026-11-02 15（+8）
+2026-10-22 7 → 2026-11-17 16（+9）
 
 
 ---

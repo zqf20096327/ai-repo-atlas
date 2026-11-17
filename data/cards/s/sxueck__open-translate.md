@@ -1,6 +1,6 @@
 # sxueck/open-translate
 
-⭐ 25 · JavaScript · 推送 2026-04-10 · [GitHub](https://github.com/sxueck/open-translate) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · 推送 2026-04-10 · [GitHub](https://github.com/sxueck/open-translate) · 个人维护 · 中文 README
 
 **调用 OpenAI 兼容 API 做网页翻译的 Chrome 扩展**
 
@@ -43,13 +43,13 @@ Chrome 浏览器扩展：通过用户配置的 OpenAI 兼容 API 端点（GPT、
 
 ```mermaid
 xychart-beta
-    title "sxueck/open-translate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "sxueck/open-translate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

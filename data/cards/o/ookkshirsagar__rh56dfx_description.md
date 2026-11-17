@@ -1,6 +1,6 @@
 # ookkshirsagar/rh56dfx_description
 
-⭐ 16 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/ookkshirsagar/rh56dfx_description) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ookkshirsagar/rh56dfx_description) · 个人维护
 
 **Inspire RH56DFX 六自由度灵巧手的 ROS 2 URDF 描述包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ookkshirsagar/rh56dfx_description 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "ookkshirsagar/rh56dfx_description 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

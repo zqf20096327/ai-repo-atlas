@@ -1,6 +1,6 @@
 # DerwenAI/pytextrank
 
-⭐ 2,219 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/DerwenAI/pytextrank) · [官网](https://derwen.ai/docs/ptr/) · 组织维护
+⭐ 2,217 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/DerwenAI/pytextrank) · [官网](https://derwen.ai/docs/ptr/) · 组织维护
 
 **spaCy 扩展库：实现 TextRank 系列图算法做短语抽取与摘要**
 
@@ -45,13 +45,13 @@ PyTextRank 是 TextRank 的 Python 实现，以 spaCy pipeline 扩展形式提�
 
 ```mermaid
 xychart-beta
-    title "DerwenAI/pytextrank 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 2218 --> 2222
-    line [2221, 2220, 2219, 2219]
+    title "DerwenAI/pytextrank 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 2216 --> 2222
+    line [2221, 2220, 2219, 2220, 2219, 2217, 2217]
 ```
 
-2026-10-18 2,221 → 2026-11-02 2,219（-2）
+2026-10-18 2,221 → 2026-11-17 2,217（-4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Razee4315/NetLogo-MCP
 
-⭐ 27 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Razee4315/NetLogo-MCP) · [官网](https://razee4315.github.io/NetLogo-MCP/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Razee4315/NetLogo-MCP) · [官网](https://razee4315.github.io/NetLogo-MCP/) · 个人维护
 
 **让 AI 助手通过对话创建、运行、分析 NetLogo 仿真的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Razee4315/NetLogo-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Razee4315/NetLogo-MCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

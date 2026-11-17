@@ -1,6 +1,6 @@
 # praneethreddyganta/AutoStream-Agentic-AI
 
-⭐ 13 · Python · 推送 2026-10-19 · [GitHub](https://github.com/praneethreddyganta/AutoStream-Agentic-AI) · [官网](https://autostream-agentic-ai.streamlit.app/) · 个人维护
+⭐ 13 · Python · 推送 2026-11-15 · [GitHub](https://github.com/praneethreddyganta/AutoStream-Agentic-AI) · [官网](https://autostream-agentic-ai.streamlit.app/) · 个人维护
 
 **面向 SaaS 销售线索收集的对话式 Agent 应用（LangGraph+RAG）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "praneethreddyganta/AutoStream-Agentic-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

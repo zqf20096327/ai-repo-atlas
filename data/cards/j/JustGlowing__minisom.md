@@ -1,6 +1,6 @@
 # JustGlowing/minisom
 
-⭐ 1,608 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JustGlowing/minisom) · 个人维护
+⭐ 1,611 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JustGlowing/minisom) · 个人维护
 
 **给研究者和学生的 NumPy 版自组织映射（SOM）最小实现库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JustGlowing/minisom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1606 --> 1610
-    line [1609, 1608, 1607, 1608]
+    title "JustGlowing/minisom 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1606 --> 1612
+    line [1609, 1608, 1607, 1608, 1610, 1611, 1611]
 ```
 
-2026-10-18 1,609 → 2026-11-02 1,608（-1）
+2026-10-18 1,609 → 2026-11-17 1,611（+2）
 
 
 ---

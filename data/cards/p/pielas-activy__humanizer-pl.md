@@ -1,6 +1,6 @@
 # pielas-activy/humanizer-pl
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/pielas-activy/humanizer-pl) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/pielas-activy/humanizer-pl) · 个人维护
 
 **波兰语+英语双语的去 AI 痕迹改写技能，供 Claude Code 使用**
 
@@ -45,13 +45,13 @@ blader/humanizer 的 fork，作为 Claude Code/Cowork 的 skill 安装：检测�
 
 ```mermaid
 xychart-beta
-    title "pielas-activy/humanizer-pl 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "pielas-activy/humanizer-pl 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-26 10 → 2026-11-02 11（+1）
+2026-10-26 10 → 2026-11-17 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ChrisW09/Advanced-Quantitative-Research-Methods
 
-⭐ 13 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods) · [官网](https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/) · 组织维护
+⭐ 17 · Jupyter Notebook · 推送 2026-11-15 · [GitHub](https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods) · [官网](https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/) · 组织维护
 
 **基于 ISLP 教材的可直接授课的统计学习大学课程材料**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChrisW09/Advanced-Quantitative-Research-Methods 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "ChrisW09/Advanced-Quantitative-Research-Methods 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 12, 13, 17, 17]
 ```
 
-2026-10-19 12 → 2026-11-02 13（+1）
+2026-10-19 12 → 2026-11-17 17（+5）
 
 
 ---

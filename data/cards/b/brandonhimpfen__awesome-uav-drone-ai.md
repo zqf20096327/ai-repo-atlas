@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-uav-drone-ai
 
-⭐ 41 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-uav-drone-ai) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 43 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-uav-drone-ai) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **无人机与空中机器人 AI 资源策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-uav-drone-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "brandonhimpfen/awesome-uav-drone-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sdsds222/Unitale
 
-⭐ 238 · HTML · MIT · 推送 2026-07-05 · [GitHub](https://github.com/sdsds222/Unitale) · [官网](https://www.bilibili.com/video/BV1AkzLB7E8M/?spm_id_from=333.1387.homepage.video_card.click) · 个人维护 · 中文 README
+⭐ 242 · HTML · MIT · 推送 2026-07-05 · [GitHub](https://github.com/sdsds222/Unitale) · [官网](https://www.bilibili.com/video/BV1AkzLB7E8M/?spm_id_from=333.1387.homepage.video_card.click) · 个人维护 · 中文 README
 
 **浏览器内一键生成多角色有声书的 AI 工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sdsds222/Unitale 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 231 --> 239
-    line [232, 234, 235, 236, 237, 238, 238]
+    title "sdsds222/Unitale 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 231 --> 243
+    line [232, 234, 235, 236, 237, 238, 236, 240, 241, 242, 242]
 ```
 
-2026-10-18 232 → 2026-11-02 238（+6）
+2026-10-18 232 → 2026-11-17 242（+10）
 
 
 ---

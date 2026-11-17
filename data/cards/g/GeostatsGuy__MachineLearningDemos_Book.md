@@ -1,6 +1,6 @@
 # GeostatsGuy/MachineLearningDemos_Book
 
-⭐ 44 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/GeostatsGuy/MachineLearningDemos_Book) · [官网](https://geostatsguy.github.io/MachineLearningDemos_Book) · 组织维护
+⭐ 45 · Jupyter Notebook · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/GeostatsGuy/MachineLearningDemos_Book) · [官网](https://geostatsguy.github.io/MachineLearningDemos_Book) · 组织维护
 
 **免费在线电子书：Python 应用机器学习实战指南（含代码）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeostatsGuy/MachineLearningDemos_Book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "GeostatsGuy/MachineLearningDemos_Book 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

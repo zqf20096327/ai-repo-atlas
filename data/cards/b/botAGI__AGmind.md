@@ -1,6 +1,6 @@
 # botAGI/AGmind
 
-⭐ 48 · Shell · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/botAGI/AGmind) · [官网](https://agmind.ai) · 组织维护
+⭐ 50 · Shell · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/botAGI/AGmind) · [官网](https://agmind.ai) · 组织维护
 
 **面向 NVIDIA DGX Spark 的一键私有化 RAG 平台安装器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "botAGI/AGmind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "botAGI/AGmind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # leemysw/agent-kit
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-03-14 · [GitHub](https://github.com/leemysw/agent-kit) · 个人维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-03-14 · [GitHub](https://github.com/leemysw/agent-kit) · 个人维护 · 中文 README
 
 **基于 Claude Agent SDK 的全栈 AI 智能体开发框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leemysw/agent-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    title "leemysw/agent-kit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 56, 57, 58, 58]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 58（+2）
 
 
 ---

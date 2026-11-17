@@ -1,6 +1,6 @@
 # arnsri33/embedflow
 
-⭐ 55 · Python · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/arnsri33/embedflow) · 个人维护
+⭐ 57 · Python · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/arnsri33/embedflow) · 个人维护
 
 **嵌入模型迁移工具：换模型时渐进物化目标向量、零停机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arnsri33/embedflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "arnsri33/embedflow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57, 57]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 57（+2）
 
 
 ---

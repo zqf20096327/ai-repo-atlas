@@ -1,6 +1,6 @@
 # alternbits/awesome-ai-newsletters
 
-⭐ 403 · CC0-1.0 · 推送 2026-07-04 · [GitHub](https://github.com/alternbits/awesome-ai-newsletters) · 个人维护
+⭐ 407 · CC0-1.0 · 推送 2026-07-04 · [GitHub](https://github.com/alternbits/awesome-ai-newsletters) · 个人维护
 
 **AI 相关邮件通讯（Newsletter）策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alternbits/awesome-ai-newsletters 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 399 --> 404
-    line [400, 401, 402, 403, 403]
+    title "alternbits/awesome-ai-newsletters 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 399 --> 408
+    line [400, 401, 402, 403, 402, 405, 406, 407, 407]
 ```
 
-2026-10-18 400 → 2026-11-02 403（+3）
+2026-10-18 400 → 2026-11-17 407（+7）
 
 
 ---

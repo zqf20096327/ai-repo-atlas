@@ -1,6 +1,6 @@
 # markswendsen-code/mcp-instacart
 
-⭐ 11 · TypeScript · 推送 2026-06-11 · [GitHub](https://github.com/markswendsen-code/mcp-instacart) · [官网](https://www.npmjs.com/package/@striderlabs/mcp-instacart) · 组织维护
+⭐ 12 · TypeScript · 推送 2026-06-11 · [GitHub](https://github.com/markswendsen-code/mcp-instacart) · [官网](https://www.npmjs.com/package/@striderlabs/mcp-instacart) · 组织维护
 
 **让 AI agent 通过 MCP 在 Instacart 下单买菜的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "markswendsen-code/mcp-instacart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "markswendsen-code/mcp-instacart 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

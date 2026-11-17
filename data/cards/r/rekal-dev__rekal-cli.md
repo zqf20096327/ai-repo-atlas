@@ -1,6 +1,6 @@
 # rekal-dev/rekal-cli
 
-⭐ 205 · Go · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/rekal-dev/rekal-cli) · [官网](https://rekal.dev) · 组织维护
+⭐ 206 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/rekal-dev/rekal-cli) · [官网](https://rekal.dev) · 组织维护
 
 **给 AI 编码 agent 的 git 团队记忆 CLI：留存每次会话的决策推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rekal-dev/rekal-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "rekal-dev/rekal-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 204 --> 208
-    line [207, 205, 205]
+    line [207, 205, 206, 206]
 ```
 
-2026-10-18 207 → 2026-11-02 205（-2）
+2026-10-18 207 → 2026-11-17 206（-1）
 
 
 ---

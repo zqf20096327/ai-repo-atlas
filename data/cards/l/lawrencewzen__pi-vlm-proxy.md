@@ -1,6 +1,6 @@
 # lawrencewzen/pi-vlm-proxy
 
-⭐ 29 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/lawrencewzen/pi-vlm-proxy) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/lawrencewzen/pi-vlm-proxy) · 个人维护 · 中文 README
 
 **pi 编程助手的视觉代理扩展：让纯文本模型委托多模态模型识图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lawrencewzen/pi-vlm-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "lawrencewzen/pi-vlm-proxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

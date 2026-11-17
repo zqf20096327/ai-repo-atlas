@@ -1,6 +1,6 @@
 # boggspa/TaskWraith
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/boggspa/TaskWraith) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/boggspa/TaskWraith) · 组织维护
 
 **本地优先的桌面控制台：统一运行与审查多家 AI 编码 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "boggspa/TaskWraith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "boggspa/TaskWraith 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 16
-    line [11, 15, 15]
+    line [11, 15, 11, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-02 15（+4）
+2026-10-18 11 → 2026-11-17 15（+4）
 
 
 ---

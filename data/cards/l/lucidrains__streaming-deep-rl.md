@@ -1,6 +1,6 @@
 # lucidrains/streaming-deep-rl
 
-⭐ 32 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/lucidrains/streaming-deep-rl) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/lucidrains/streaming-deep-rl) · 个人维护
 
 **流式深度强化学习算法的 PyTorch 实现库，面向持续学习场景**
 
@@ -44,12 +44,12 @@ University of Alberta 提出的 Streaming Deep Reinforcement Learning 方法的�
 ```mermaid
 xychart-beta
     title "lucidrains/streaming-deep-rl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

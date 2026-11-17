@@ -1,6 +1,6 @@
 # aorumbayev/herdr-workflows
 
-⭐ 39 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aorumbayev/herdr-workflows) · [官网](https://aorumbayev.github.io/herdr-workflows/) · 个人维护
+⭐ 49 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aorumbayev/herdr-workflows) · [官网](https://aorumbayev.github.io/herdr-workflows/) · 个人维护
 
 **herdr 插件：用 YAML 声明重复工作流并从热键启动**
 
@@ -44,13 +44,13 @@ herdr 终端复用器的插件，把日常重复操作序列写成简短 YAML �
 
 ```mermaid
 xychart-beta
-    title "aorumbayev/herdr-workflows 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 31 --> 40
-    line [32, 33, 35, 36, 37, 38, 39, 39]
+    title "aorumbayev/herdr-workflows 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 31 --> 50
+    line [32, 33, 35, 36, 37, 38, 39, 36, 40, 43, 44, 47, 49, 49]
 ```
 
-2026-10-18 32 → 2026-11-02 39（+7）
+2026-10-18 32 → 2026-11-17 49（+17）
 
 
 ---

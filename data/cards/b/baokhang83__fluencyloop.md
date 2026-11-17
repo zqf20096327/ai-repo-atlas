@@ -1,6 +1,6 @@
 # baokhang83/fluencyloop
 
-⭐ 45 · HTML · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/baokhang83/fluencyloop) · [官网](https://baokhang83.github.io/fluencyloop/) · 个人维护
+⭐ 47 · HTML · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/baokhang83/fluencyloop) · [官网](https://baokhang83.github.io/fluencyloop/) · 个人维护
 
 **面向 Claude Code/Codex 的 AI 结对开发工作流插件：边写代码边沉淀决策知识**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baokhang83/fluencyloop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 43 --> 46
-    line [45, 44, 45, 45]
+    title "baokhang83/fluencyloop 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [45, 44, 45, 44, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

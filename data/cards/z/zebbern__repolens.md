@@ -1,6 +1,6 @@
 # zebbern/repolens
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zebbern/repolens) · [官网](https://mgithub.com) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zebbern/repolens) · [官网](https://mgithub.com) · 个人维护
 
 **网页应用：在浏览器中用 AI 分析 GitHub 仓库并生成文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zebbern/repolens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "zebbern/repolens 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JustAJobApp/jobseeker-analytics
 
-⭐ 206 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JustAJobApp/jobseeker-analytics) · [官网](https://www.justajobapp.com) · 个人维护
+⭐ 208 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JustAJobApp/jobseeker-analytics) · [官网](https://www.justajobapp.com) · 个人维护
 
 **连接 Gmail 自动追踪求职进度的求职者仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JustAJobApp/jobseeker-analytics 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 203 --> 207
-    line [204, 205, 206, 206]
+    title "JustAJobApp/jobseeker-analytics 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 203 --> 209
+    line [204, 205, 206, 204, 207, 208, 208]
 ```
 
-2026-10-18 204 → 2026-11-02 206（+2）
+2026-10-18 204 → 2026-11-17 208（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # chopratejas/headroom-zed
 
-⭐ 69 · Rust · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/chopratejas/headroom-zed) · [官网](https://github.com/chopratejas/headroom) · 个人维护
+⭐ 67 · Rust · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/chopratejas/headroom-zed) · [官网](https://github.com/chopratejas/headroom) · 个人维护
 
 **Zed 编辑器扩展：为 AI agent 接入 Headroom 上下文压缩 MCP 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chopratejas/headroom-zed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 67 --> 70
-    line [68, 69, 69]
+    title "chopratejas/headroom-zed 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 66 --> 70
+    line [68, 69, 68, 67, 67]
 ```
 
-2026-10-18 68 → 2026-11-02 69（+1）
+2026-10-18 68 → 2026-11-17 67（-1）
 
 
 ---

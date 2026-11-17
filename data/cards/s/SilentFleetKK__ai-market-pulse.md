@@ -1,6 +1,6 @@
 # SilentFleetKK/ai-market-pulse
 
-⭐ 175 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/SilentFleetKK/ai-market-pulse) · 个人维护 · 中文 README
+⭐ 177 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/SilentFleetKK/ai-market-pulse) · 个人维护 · 中文 README
 
 **自选股量化研究工具：生成每日 AI 市场研究报告与看板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SilentFleetKK/ai-market-pulse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    title "SilentFleetKK/ai-market-pulse 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 174 --> 178
+    line [175, 176, 177, 177]
 ```
 
-2026-10-18 175 → 2026-11-02 175（+0）
+2026-10-18 175 → 2026-11-17 177（+2）
 
 
 ---

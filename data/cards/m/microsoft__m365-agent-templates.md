@@ -1,6 +1,6 @@
 # microsoft/m365-agent-templates
 
-⭐ 56 · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/m365-agent-templates) · 组织维护
+⭐ 59 · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/m365-agent-templates) · 组织维护
 
 **面向 Microsoft 365 的预构建可部署 AI agent 模板集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/m365-agent-templates 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 55, 56, 56]
+    title "microsoft/m365-agent-templates 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 60
+    line [55, 56, 55, 56, 59, 59]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 59（+4）
 
 
 ---

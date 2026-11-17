@@ -1,6 +1,6 @@
 # antmicro/jetson-nano-baseboard
 
-⭐ 548 · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/antmicro/jetson-nano-baseboard) · [官网](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/) · 组织维护
+⭐ 551 · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/antmicro/jetson-nano-baseboard) · [官网](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/) · 组织维护
 
 **NVIDIA Jetson Nano/Xavier NX/TX2 NX 模组的开源底板硬件设计**
 
@@ -44,13 +44,13 @@ Antmicro 提供的开源硬件底板设计文件项目，支持 NVIDIA Jetson Na
 
 ```mermaid
 xychart-beta
-    title "antmicro/jetson-nano-baseboard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 545 --> 549
-    line [546, 547, 548, 546, 547, 548, 548]
+    title "antmicro/jetson-nano-baseboard 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 545 --> 552
+    line [546, 547, 548, 546, 547, 548, 549, 550, 551, 551]
 ```
 
-2026-10-18 546 → 2026-11-02 548（+2）
+2026-10-18 546 → 2026-11-17 551（+5）
 
 
 ---

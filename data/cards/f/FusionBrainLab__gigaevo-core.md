@@ -1,6 +1,6 @@
 # FusionBrainLab/gigaevo-core
 
-⭐ 128 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/FusionBrainLab/gigaevo-core) · [官网](https://airi-institute.github.io/gigaevo-cover/) · 组织维护
+⭐ 129 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/FusionBrainLab/gigaevo-core) · [官网](https://airi-institute.github.io/gigaevo-cover/) · 组织维护
 
 **用 LLM 做变异算子的进化算法框架，自动迭代改进程序**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FusionBrainLab/gigaevo-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    title "FusionBrainLab/gigaevo-core 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 126 --> 130
+    line [128, 127, 129, 129]
 ```
 
-2026-10-18 128 → 2026-11-02 128（+0）
+2026-10-18 128 → 2026-11-17 129（+1）
 
 
 ---

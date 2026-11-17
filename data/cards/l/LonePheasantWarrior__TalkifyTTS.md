@@ -1,6 +1,6 @@
 # LonePheasantWarrior/TalkifyTTS
 
-⭐ 384 · Kotlin · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LonePheasantWarrior/TalkifyTTS) · [官网](https://gitee.com/LonePheasantWarrior/talkify) · 个人维护 · 中文 README
+⭐ 402 · Kotlin · MIT · 推送 2026-11-15 · [GitHub](https://github.com/LonePheasantWarrior/TalkifyTTS) · [官网](https://gitee.com/LonePheasantWarrior/talkify) · 个人维护 · 中文 README
 
 **Android TTS 引擎：聚合云端大模型与离线本地语音合成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LonePheasantWarrior/TalkifyTTS 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 371 --> 385
-    line [372, 373, 375, 377, 376, 377, 380, 382, 384]
+    title "LonePheasantWarrior/TalkifyTTS 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 369 --> 405
+    line [372, 373, 375, 377, 376, 377, 380, 382, 384, 377, 390, 392, 394, 397, 398, 399, 402, 402]
 ```
 
-2026-10-18 372 → 2026-11-02 384（+12）
+2026-10-18 372 → 2026-11-17 402（+30）
 
 
 ---

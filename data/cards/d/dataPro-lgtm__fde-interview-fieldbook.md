@@ -1,6 +1,6 @@
 # dataPro-lgtm/fde-interview-fieldbook
 
-⭐ 54 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dataPro-lgtm/fde-interview-fieldbook) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dataPro-lgtm/fde-interview-fieldbook) · 个人维护 · 中文 README
 
 **面向求职者的 FDE（前向部署工程师）面试实战手册**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dataPro-lgtm/fde-interview-fieldbook 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 48 --> 55
-    line [49, 51, 52, 53, 54, 54]
+    title "dataPro-lgtm/fde-interview-fieldbook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 57
+    line [49, 51, 52, 53, 54, 52, 56, 56]
 ```
 
-2026-10-18 49 → 2026-11-02 54（+5）
+2026-10-18 49 → 2026-11-17 56（+7）
 
 
 ---

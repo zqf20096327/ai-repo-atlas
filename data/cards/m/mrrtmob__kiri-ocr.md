@@ -1,6 +1,6 @@
 # mrrtmob/kiri-ocr
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/mrrtmob/kiri-ocr) · [官网](https://blizzer.tech) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/mrrtmob/kiri-ocr) · [官网](https://blizzer.tech) · 个人维护
 
 **面向英语与高棉语文档的轻量 OCR Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrrtmob/kiri-ocr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "mrrtmob/kiri-ocr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

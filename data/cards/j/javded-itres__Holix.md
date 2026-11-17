@@ -1,6 +1,6 @@
 # javded-itres/Holix
 
-⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/javded-itres/Holix) · [官网](https://holix-agent.ru) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/javded-itres/Holix) · [官网](https://holix-agent.ru) · 组织维护
 
 **自我改进的 CLI AI agent：持久记忆、技能与多模型接入**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "javded-itres/Holix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "javded-itres/Holix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

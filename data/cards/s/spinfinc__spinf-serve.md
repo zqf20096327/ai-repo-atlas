@@ -1,6 +1,6 @@
 # spinfinc/spinf-serve
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/spinfinc/spinf-serve) · [官网](https://spinf.com) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/spinfinc/spinf-serve) · [官网](https://spinf.com) · 组织维护
 
 **单 GPU 批量分类与决策推理服务：内容读一次，多问题同批打分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spinfinc/spinf-serve 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 4 --> 21
-    line [5, 20, 20]
+    title "spinfinc/spinf-serve 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 4 --> 22
+    line [5, 20, 21, 21]
 ```
 
-2026-10-31 5 → 2026-11-02 20（+15）
+2026-10-31 5 → 2026-11-17 21（+16）
 
 
 ---

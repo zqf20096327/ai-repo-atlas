@@ -1,6 +1,6 @@
 # brianrisk/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples
 
-⭐ 273 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/brianrisk/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples) · [官网](https://d.at/ref/github-python-examples) · 个人维护
+⭐ 274 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/brianrisk/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples) · [官网](https://d.at/ref/github-python-examples) · 个人维护
 
 **机器学习与神经网络股价预测的 Python 教学示例集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brianrisk/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "brianrisk/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 272 --> 276
-    line [275, 274, 273, 273]
+    line [275, 274, 273, 274, 274]
 ```
 
-2026-10-18 275 → 2026-11-02 273（-2）
+2026-10-18 275 → 2026-11-17 274（-1）
 
 
 ---

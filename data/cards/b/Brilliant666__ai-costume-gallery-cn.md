@@ -1,6 +1,6 @@
 # Brilliant666/ai-costume-gallery-cn
 
-⭐ 119 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Brilliant666/ai-costume-gallery-cn) · [官网](https://photoai.life/costume/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 绘画服装参考图库中文镜像：1407 件服装元数据与静态画廊**
 
@@ -11,7 +11,7 @@ ai-costume-gallery.pages.dev 的元数据镜像与汉化项目：将 8 个分类
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ ai-costume-gallery.pages.dev 的元数据镜像与汉化项目：将 8 个分类
 
 ```mermaid
 xychart-beta
-    title "Brilliant666/ai-costume-gallery-cn 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 85 --> 122
-    line [88, 112, 119]
+    title "Brilliant666/ai-costume-gallery-cn 星数(近 8 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14"]
+    y-axis "stars" 82 --> 155
+    line [88, 112, 119, 143, 145, 147, 148, 149]
 ```
 
-2026-10-31 88 → 2026-11-02 119（+31）
+2026-10-31 88 → 2026-11-14 149（+61）
 
 
 ---

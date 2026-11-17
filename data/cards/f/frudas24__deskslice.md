@@ -1,6 +1,6 @@
 # frudas24/deskslice
 
-⭐ 12 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/frudas24/deskslice) · 个人维护
+⭐ 12 · Go · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/frudas24/deskslice) · 个人维护
 
 **手机局域网远程控制 VS Code 内 Codex 面板的工具**
 
@@ -45,12 +45,12 @@ Go 编写的 Windows 主机屏幕远程控制服务：通过 ffmpeg 采集（d3d
 ```mermaid
 xychart-beta
     title "frudas24/deskslice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # moellere/WireStudio
 
-⭐ 26 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/moellere/WireStudio) · [官网](https://wirestudio.io) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/moellere/WireStudio) · [官网](https://wirestudio.io) · 个人维护
 
 **面向 ESPHome/LoRaWAN 硬件的 AI 辅助设计工作台：从 design.json 生成全套硬件产物**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moellere/WireStudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "moellere/WireStudio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

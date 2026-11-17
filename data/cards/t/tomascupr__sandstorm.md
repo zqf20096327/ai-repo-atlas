@@ -1,6 +1,6 @@
 # tomascupr/sandstorm
 
-⭐ 449 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/tomascupr/sandstorm) · [官网](https://duvo.ai) · 个人维护
+⭐ 450 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/tomascupr/sandstorm) · [官网](https://duvo.ai) · 个人维护
 
 **自托管沙箱化 Agent 运行时：在自有基础设施上经 Slack/API/CLI 运行 Claude 等 Agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomascupr/sandstorm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 447 --> 450
-    line [448, 449, 449]
+    title "tomascupr/sandstorm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 447 --> 451
+    line [448, 449, 450, 450]
 ```
 
-2026-10-18 448 → 2026-11-02 449（+1）
+2026-10-18 448 → 2026-11-17 450（+2）
 
 
 ---

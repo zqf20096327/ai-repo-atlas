@@ -1,6 +1,6 @@
 # LunaRime/novelforge
 
-⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/LunaRime/novelforge) · [官网](https://github.com/LunaRime/novelforge) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/LunaRime/novelforge) · [官网](https://github.com/LunaRime/novelforge) · 组织维护 · 中文 README
 
 **为网文作者打造的 AI 小说写作桌面 IDE**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LunaRime/novelforge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "LunaRime/novelforge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 14, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

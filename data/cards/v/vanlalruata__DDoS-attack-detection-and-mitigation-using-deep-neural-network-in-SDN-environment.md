@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "vanlalruata/DDoS-attack-detection-and-mitigation-using-deep-neural-network-in-SDN-environment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-11-07 22（+0）
 
 
 ---

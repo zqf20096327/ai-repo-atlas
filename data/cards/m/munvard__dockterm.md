@@ -1,6 +1,6 @@
 # munvard/dockterm
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/munvard/dockterm) · [官网](https://munetic.net/dockterm) · 个人维护 · 中文 README
+⭐ 52 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/munvard/dockterm) · [官网](https://munetic.net/dockterm) · 个人维护 · 中文 README
 
 **给开发者的 Claude Code 终端工作区，含凹槽提示吉祥物**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "munvard/dockterm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 42 --> 49
-    line [43, 44, 47, 48, 48]
+    title "munvard/dockterm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 42 --> 53
+    line [43, 44, 47, 48, 47, 49, 51, 52, 52]
 ```
 
-2026-10-18 43 → 2026-11-02 48（+5）
+2026-10-18 43 → 2026-11-17 52（+9）
 
 
 ---

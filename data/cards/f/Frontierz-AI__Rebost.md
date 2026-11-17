@@ -1,6 +1,6 @@
 # Frontierz-AI/Rebost
 
-⭐ 41 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Frontierz-AI/Rebost) · [官网](https://rebost.ai/) · 组织维护
+⭐ 48 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Frontierz-AI/Rebost) · [官网](https://rebost.ai/) · 组织维护
 
 **Mac/Windows 本地 AI 桌面应用：私有文档问答带引用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Frontierz-AI/Rebost 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 35 --> 42
-    line [36, 38, 39, 41]
+    title "Frontierz-AI/Rebost 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 50
+    line [36, 38, 39, 41, 38, 47, 49, 48, 48]
 ```
 
-2026-10-18 36 → 2026-11-02 41（+5）
+2026-10-18 36 → 2026-11-17 48（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # gnn-tracking/gnn_tracking
 
-⭐ 53 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/gnn-tracking/gnn_tracking) · [官网](https://gnn-tracking.rtfd.io/) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/gnn-tracking/gnn_tracking) · [官网](https://gnn-tracking.rtfd.io/) · 组织维护
 
 **用图神经网络重建粒子径迹的 Python 包（高能物理径迹重建）**
 
@@ -45,12 +45,12 @@ GNN Tracking 项目的主 Python 包：以图神经网络实现带电粒子径�
 ```mermaid
 xychart-beta
     title "gnn-tracking/gnn_tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

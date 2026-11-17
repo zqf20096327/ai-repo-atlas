@@ -1,6 +1,6 @@
 # taylorsatula/TeaLeaves
 
-⭐ 45 · Python · 推送 2026-07-16 · [GitHub](https://github.com/taylorsatula/TeaLeaves) · 个人维护
+⭐ 46 · Python · 推送 2026-07-16 · [GitHub](https://github.com/taylorsatula/TeaLeaves) · 个人维护
 
 **给开发者的提示词注意力可视化与机制可解释性流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taylorsatula/TeaLeaves 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "taylorsatula/TeaLeaves 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

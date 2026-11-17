@@ -1,6 +1,6 @@
 # kud/mcp-jenkins
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kud/mcp-jenkins) · [官网](https://kud.io/projects/mcp-jenkins) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kud/mcp-jenkins) · [官网](https://kud.io/projects/mcp-jenkins) · 个人维护
 
 **让 AI 客户端通过 MCP 操作 Jenkins 的服务器（38 工具）**
 
@@ -45,12 +45,12 @@ TypeScript/Node.js 实现的 Jenkins MCP 服务器：向 Claude 等 MCP 客户�
 ```mermaid
 xychart-beta
     title "kud/mcp-jenkins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

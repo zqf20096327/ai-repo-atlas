@@ -1,6 +1,6 @@
 # bigdata-ustc/Agent4Edu
 
-⭐ 100 · Python · 推送 2026-09-29 · [GitHub](https://github.com/bigdata-ustc/Agent4Edu) · 组织维护 · 中文 README
+⭐ 103 · Python · 推送 2026-09-29 · [GitHub](https://github.com/bigdata-ustc/Agent4Edu) · 组织维护 · 中文 README
 
 **用 LLM 智能体生成学习者答题行为模拟数据的教育研究代码库**
 
@@ -44,13 +44,13 @@ AAAI 2025 论文 Agent4Edu 的官方实现：构建 LLM 驱动的学习者智能
 
 ```mermaid
 xychart-beta
-    title "bigdata-ustc/Agent4Edu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 96 --> 101
-    line [97, 98, 99, 100, 100]
+    title "bigdata-ustc/Agent4Edu 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 96 --> 104
+    line [97, 98, 99, 100, 99, 102, 103, 103]
 ```
 
-2026-10-18 97 → 2026-11-02 100（+3）
+2026-10-18 97 → 2026-11-17 103（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # cofy-x/dsh-console
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/cofy-x/dsh-console) · [官网](https://dsh-console.cofy-x.space) · 组织维护 · 中文 README
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/cofy-x/dsh-console) · [官网](https://dsh-console.cofy-x.space) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的原生终端工作台（TUI 客户端）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cofy-x/dsh-console 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

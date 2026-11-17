@@ -1,6 +1,6 @@
 # astra-vision/MonoScene
 
-⭐ 822 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/MonoScene) · [官网](https://astra-vision.github.io/MonoScene/) · 组织维护
+⭐ 823 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/MonoScene) · [官网](https://astra-vision.github.io/MonoScene/) · 组织维护
 
 **CVPR 2022 单目图像 3D 语义占据预测研究代码**
 
@@ -44,13 +44,13 @@ MonoScene 是 CVPR 2022 论文的官方 PyTorch 实现，从单张 RGB 图像预
 
 ```mermaid
 xychart-beta
-    title "astra-vision/MonoScene 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 821 --> 823
-    line [822, 822]
+    title "astra-vision/MonoScene 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 821 --> 824
+    line [822, 823, 823]
 ```
 
-2026-10-18 822 → 2026-11-02 822（+0）
+2026-10-18 822 → 2026-11-17 823（+1）
 
 
 ---

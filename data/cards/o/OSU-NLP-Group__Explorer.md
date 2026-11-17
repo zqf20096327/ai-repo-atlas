@@ -1,6 +1,6 @@
 # OSU-NLP-Group/Explorer
 
-⭐ 28 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/OSU-NLP-Group/Explorer) · [官网](https://osu-nlp-group.github.io/Explorer/) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/OSU-NLP-Group/Explorer) · [官网](https://osu-nlp-group.github.io/Explorer/) · 组织维护
 
 **为多模态 Web Agent 合成探索式训练轨迹并训练评测的代码库**
 
@@ -45,13 +45,13 @@ ACL 2025 Findings 论文 Explorer 的官方代码库，由俄亥俄州立大学�
 
 ```mermaid
 xychart-beta
-    title "OSU-NLP-Group/Explorer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "OSU-NLP-Group/Explorer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 27 --> 30
-    line [29, 28, 28]
+    line [29, 28, 29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 28（-1）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

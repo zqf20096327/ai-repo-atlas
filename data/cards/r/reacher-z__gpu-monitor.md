@@ -1,6 +1,6 @@
 # reacher-z/gpu-monitor
 
-⭐ 32 · Python · MIT · 推送 2026-03-08 · [GitHub](https://github.com/reacher-z/gpu-monitor) · [官网](https://reacher-z.github.io/gpu-monitor/) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-03-08 · [GitHub](https://github.com/reacher-z/gpu-monitor) · [官网](https://reacher-z.github.io/gpu-monitor/) · 个人维护 · 中文 README
 
 **NVIDIA GPU 训练监控告警工具：崩溃/过热/OOM 即时通知**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "reacher-z/gpu-monitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "reacher-z/gpu-monitor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

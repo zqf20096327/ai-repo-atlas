@@ -1,6 +1,6 @@
 # berkaygediz/SolidWriting
 
-⭐ 39 · Python · GPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/berkaygediz/SolidWriting) · 个人维护
+⭐ 45 · Python · GPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/berkaygediz/SolidWriting) · 个人维护
 
 **带离线 AI 助手的跨平台文字处理器**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "berkaygediz/SolidWriting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "berkaygediz/SolidWriting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 46
+    line [39, 45, 45]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 45（+6）
 
 
 ---

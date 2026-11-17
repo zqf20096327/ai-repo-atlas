@@ -1,6 +1,6 @@
 # rdh9616/ComfyUI-Open-H3-Regenerate
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate) · 个人维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate) · 个人维护
 
 **ComfyUI 节点包：把低分辨率视频草稿三步重生成至 768P–4K**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rdh9616/ComfyUI-Open-H3-Regenerate 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 15 --> 39
-    line [17, 30, 35, 37]
+    title "rdh9616/ComfyUI-Open-H3-Regenerate 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 52
+    line [17, 30, 35, 37, 44, 46, 49, 49]
 ```
 
-2026-10-30 17 → 2026-11-02 37（+20）
+2026-10-30 17 → 2026-11-17 49（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # zai-org/GLM-skills
 
-⭐ 473 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/zai-org/GLM-skills) · 组织维护 · 中文 README
+⭐ 478 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/zai-org/GLM-skills) · 组织维护 · 中文 README
 
 **GLM 系列模型官方技能合集：面向 AI 编码 agent 的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/GLM-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 472 --> 477
-    line [476, 475, 473, 473]
+    title "zai-org/GLM-skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 472 --> 479
+    line [476, 475, 473, 476, 473, 475, 476, 477, 478, 478]
 ```
 
-2026-10-18 476 → 2026-11-02 473（-3）
+2026-10-18 476 → 2026-11-17 478（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mirecl/catboost-cgo
 
-⭐ 26 · C · MIT · 推送 2026-08-20 · [GitHub](https://github.com/mirecl/catboost-cgo) · 个人维护
+⭐ 26 · C · MIT · 推送 2026-11-09 · [GitHub](https://github.com/mirecl/catboost-cgo) · 个人维护
 
 **Go 通过 Cgo 调用 CatBoost 模型做快速推理的绑定库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mirecl/catboost-cgo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

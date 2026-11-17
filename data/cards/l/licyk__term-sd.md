@@ -1,6 +1,6 @@
 # licyk/term-sd
 
-⭐ 29 · Shell · GPL-3.0 · 推送 2026-05-25 · [GitHub](https://github.com/licyk/term-sd) · 个人维护 · 中文 README
+⭐ 28 · Shell · GPL-3.0 · 推送 2026-05-25 · [GitHub](https://github.com/licyk/term-sd) · 个人维护 · 中文 README
 
 **基于 Dialog 的 AI 绘图软件安装与管理器（Bash 脚本）**
 
@@ -45,13 +45,13 @@ Term-SD 是用 Bash 编写、以 Dialog 作为终端前端界面的 AI 软件管
 
 ```mermaid
 xychart-beta
-    title "licyk/term-sd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "licyk/term-sd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [29, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 28（-1）
 
 
 ---

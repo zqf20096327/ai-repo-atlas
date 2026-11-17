@@ -1,6 +1,6 @@
 # moazbuilds/CodeMachine-CLI
 
-⭐ 2,511 · TypeScript · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/moazbuilds/CodeMachine-CLI) · [官网](https://codemachine.co/) · 个人维护
+⭐ 2,515 · TypeScript · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/moazbuilds/CodeMachine-CLI) · [官网](https://codemachine.co/) · 个人维护
 
 **将 AI 编码代理编排为可复用长时工作流的 CLI 工具**
 
@@ -44,13 +44,13 @@ npm 全局安装的命令行编排层，调用 AI 编码 CLI（Claude Code、Cod
 
 ```mermaid
 xychart-beta
-    title "moazbuilds/CodeMachine-CLI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "moazbuilds/CodeMachine-CLI 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
     y-axis "stars" 2510 --> 2516
-    line [2512, 2514, 2515, 2514, 2512, 2511, 2511]
+    line [2512, 2514, 2515, 2514, 2512, 2511, 2514, 2512, 2513, 2514, 2515, 2515]
 ```
 
-2026-10-18 2,512 → 2026-11-02 2,511（-1）
+2026-10-18 2,512 → 2026-11-17 2,515（+3）
 
 
 ---

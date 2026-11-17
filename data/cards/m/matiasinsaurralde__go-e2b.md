@@ -1,6 +1,6 @@
 # matiasinsaurralde/go-e2b
 
-⭐ 14 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/matiasinsaurralde/go-e2b) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/matiasinsaurralde/go-e2b) · 个人维护
 
 **E2B 云沙箱的非官方 Go SDK：创建并管理安全 microVM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "matiasinsaurralde/go-e2b 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "matiasinsaurralde/go-e2b 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

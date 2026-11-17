@@ -1,6 +1,6 @@
 # jialanhu0915/silver-novel-skills
 
-⭐ 16 · MIT · 推送 2026-07-07 · [GitHub](https://github.com/jialanhu0915/silver-novel-skills) · 个人维护 · 中文 README
+⭐ 17 · MIT · 推送 2026-07-07 · [GitHub](https://github.com/jialanhu0915/silver-novel-skills) · 个人维护 · 中文 README
 
 **AI 小说写作技能集：男频/女频双系统创作与质量评测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jialanhu0915/silver-novel-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "jialanhu0915/silver-novel-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

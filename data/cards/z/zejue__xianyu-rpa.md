@@ -1,6 +1,6 @@
 # zejue/xianyu-rpa
 
-⭐ 59 · HTML · 推送 2026-08-21 · [GitHub](https://github.com/zejue/xianyu-rpa) · [官网](https://zejue.github.io/xianyu-rpa/) · 个人维护 · 中文 README
+⭐ 62 · HTML · 推送 2026-08-21 · [GitHub](https://github.com/zejue/xianyu-rpa) · [官网](https://zejue.github.io/xianyu-rpa/) · 个人维护 · 中文 README
 
 **闲鱼卖家的本地化 RPA 运营工具：多店铺接待、自动发货与 AI 客服**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zejue/xianyu-rpa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 58, 59, 59]
+    title "zejue/xianyu-rpa 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 57 --> 63
+    line [58, 59, 58, 59, 58, 60, 61, 62, 62]
 ```
 
-2026-10-18 58 → 2026-11-02 59（+1）
+2026-10-18 58 → 2026-11-17 62（+4）
 
 
 ---

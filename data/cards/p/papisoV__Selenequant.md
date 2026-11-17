@@ -1,6 +1,6 @@
 # papisoV/Selenequant
 
-⭐ 41 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/papisoV/Selenequant) · [官网](https://space.bilibili.com/110740322) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的 AI 量化研究平台：问题持久化、结论版本化并自动召回**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

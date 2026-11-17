@@ -1,6 +1,6 @@
 # LeonardoBerti00/DeepMarket
 
-⭐ 115 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/LeonardoBerti00/DeepMarket) · 个人维护
+⭐ 117 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/LeonardoBerti00/DeepMarket) · 个人维护
 
 **深度学习限价订单簿模拟框架，论文 TRADES 官方实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeonardoBerti00/DeepMarket 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 112 --> 116
-    line [113, 114, 115, 115]
+    title "LeonardoBerti00/DeepMarket 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 112 --> 118
+    line [113, 114, 115, 113, 116, 117, 117]
 ```
 
-2026-10-18 113 → 2026-11-02 115（+2）
+2026-10-18 113 → 2026-11-17 117（+4）
 
 
 ---

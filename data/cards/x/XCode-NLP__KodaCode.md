@@ -1,6 +1,6 @@
 # XCode-NLP/KodaCode
 
-⭐ 12 · 推送 2026-08-25 · [GitHub](https://github.com/XCode-NLP/KodaCode) · [官网](https://kodacode.ru/) · 组织维护
+⭐ 15 · 推送 2026-08-25 · [GitHub](https://github.com/XCode-NLP/KodaCode) · [官网](https://kodacode.ru/) · 组织维护
 
 **KodaCode（AI 编程助手）的官方错误与功能建议追踪仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "XCode-NLP/KodaCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "XCode-NLP/KodaCode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 15（+4）
 
 
 ---

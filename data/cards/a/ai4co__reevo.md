@@ -1,6 +1,6 @@
 # ai4co/reevo
 
-⭐ 306 · Python · MIT · 推送 2026-01-24 · [GitHub](https://github.com/ai4co/reevo) · [官网](https://ai4co.github.io/reevo/) · 组织维护 · 中文 README
+⭐ 311 · Python · MIT · 推送 2026-01-24 · [GitHub](https://github.com/ai4co/reevo) · [官网](https://ai4co.github.io/reevo/) · 组织维护 · 中文 README
 
 **用 LLM 反思进化自动生成组合优化启发式算法的研究框架**
 
@@ -44,13 +44,13 @@ NeurIPS 2024 论文 ReEvo 的官方代码库：提出 Language Hyper-Heuristics 
 
 ```mermaid
 xychart-beta
-    title "ai4co/reevo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 302 --> 307
-    line [303, 304, 305, 306, 306]
+    title "ai4co/reevo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 302 --> 312
+    line [303, 304, 305, 306, 305, 309, 311, 311]
 ```
 
-2026-10-18 303 → 2026-11-02 306（+3）
+2026-10-18 303 → 2026-11-17 311（+8）
 
 
 ---

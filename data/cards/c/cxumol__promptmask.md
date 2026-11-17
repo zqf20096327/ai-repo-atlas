@@ -1,6 +1,6 @@
 # cxumol/promptmask
 
-⭐ 156 · Python · MIT · 推送 2026-01-04 · [GitHub](https://github.com/cxumol/promptmask) · [官网](https://promptmask.rtfd.org/) · 个人维护
+⭐ 160 · Python · MIT · 推送 2026-01-04 · [GitHub](https://github.com/cxumol/promptmask) · [官网](https://promptmask.rtfd.org/) · 个人维护
 
 **本地 LLM 隐私过滤层：发送前脱敏敏感数据，返回后还原**
 
@@ -44,13 +44,13 @@ PromptMask 在用户与第三方 AI 服务之间加入脱敏层：调用本地�
 
 ```mermaid
 xychart-beta
-    title "cxumol/promptmask 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 155 --> 157
-    line [156, 156]
+    title "cxumol/promptmask 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 155 --> 161
+    line [156, 157, 159, 160, 160]
 ```
 
-2026-10-18 156 → 2026-11-02 156（+0）
+2026-10-18 156 → 2026-11-17 160（+4）
 
 
 ---

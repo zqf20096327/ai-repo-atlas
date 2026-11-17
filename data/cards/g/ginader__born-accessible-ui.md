@@ -1,6 +1,6 @@
 # ginader/born-accessible-ui
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ginader/born-accessible-ui) · 个人维护
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ginader/born-accessible-ui) · 个人维护
 
 **让 AI 编码代理一次成稿生成无障碍前端的技能包与校验工具**
 
@@ -45,13 +45,13 @@ a11yTO Conf 2026 演讲的配套工具包：以 Agent Skill（SKILL.md）形式�
 
 ```mermaid
 xychart-beta
-    title "ginader/born-accessible-ui 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 3 --> 13
-    line [4, 5, 9, 11, 12, 12]
+    title "ginader/born-accessible-ui 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 3 --> 15
+    line [4, 5, 9, 11, 12, 5, 14, 14]
 ```
 
-2026-10-24 4 → 2026-11-02 12（+8）
+2026-10-24 4 → 2026-11-17 14（+10）
 
 
 ---

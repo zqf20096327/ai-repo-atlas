@@ -1,6 +1,6 @@
 # Ahren09/SARA
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Ahren09/SARA) · [官网](https://ahren09.github.io/SARA/) · 组织维护
+⭐ 258 · Python · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/Ahren09/SARA) · [官网](https://ahren09.github.io/SARA/) · 组织维护
 
 **论文官方实现：RAG 上下文压缩方法 SARA，k 条文本+n−k 压缩嵌入**
 
@@ -44,13 +44,13 @@ ACL 2026 论文 SARA 的官方实现（Georgia Tech 与 Visa Research 合作）�
 
 ```mermaid
 xychart-beta
-    title "Ahren09/SARA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 262 --> 266
-    line [263, 265, 263, 263]
+    title "Ahren09/SARA 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 257 --> 266
+    line [263, 265, 263, 258, 258]
 ```
 
-2026-10-18 263 → 2026-11-02 263（+0）
+2026-10-18 263 → 2026-11-17 258（-5）
 
 
 ---

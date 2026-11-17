@@ -1,6 +1,6 @@
 # reliefeai/browser-relay
 
-⭐ 138 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/reliefeai/browser-relay) · [官网](https://www.npmjs.com/package/@linsoai/browser-relay) · 组织维护 · 中文 README
+⭐ 139 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/reliefeai/browser-relay) · [官网](https://www.npmjs.com/package/@linsoai/browser-relay) · 组织维护 · 中文 README
 
 **让 AI agent 共享你已登录 Chrome 的 Skill+CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "reliefeai/browser-relay 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 133 --> 139
-    line [134, 135, 136, 138, 138]
+    title "reliefeai/browser-relay 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 133 --> 140
+    line [134, 135, 136, 138, 136, 138, 139, 139]
 ```
 
-2026-10-18 134 → 2026-11-02 138（+4）
+2026-10-18 134 → 2026-11-17 139（+5）
 
 
 ---

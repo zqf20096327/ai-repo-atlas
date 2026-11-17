@@ -1,6 +1,6 @@
 # ciri/comfyui-model-downloader
 
-⭐ 131 · Python · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/ciri/comfyui-model-downloader) · 个人维护
+⭐ 132 · Python · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/ciri/comfyui-model-downloader) · 个人维护
 
 **ComfyUI 自定义节点：在画布内从 Hugging Face/CivitAI 下载模型**
 
@@ -45,13 +45,13 @@ ComfyUI 的模型下载自定义节点，提供 HF Downloader 与 CivitAI Downlo
 
 ```mermaid
 xychart-beta
-    title "ciri/comfyui-model-downloader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 129 --> 132
-    line [130, 131, 131]
+    title "ciri/comfyui-model-downloader 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 129 --> 133
+    line [130, 131, 130, 131, 132, 132]
 ```
 
-2026-10-18 130 → 2026-11-02 131（+1）
+2026-10-18 130 → 2026-11-17 132（+2）
 
 
 ---

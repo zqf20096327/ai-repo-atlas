@@ -1,6 +1,6 @@
 # pascalorg/lingo
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pascalorg/lingo) · [官网](https://lingo.pascal.app) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pascalorg/lingo) · [官网](https://lingo.pascal.app) · 组织维护
 
 **零依赖解析库：把自然语言数量/单位/日期/区间转为规范值**
 
@@ -44,13 +44,13 @@ TypeScript 单一解析器库，把 `180cm`、`next friday`、`5'11"` 一类松�
 
 ```mermaid
 xychart-beta
-    title "pascalorg/lingo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 23]
+    title "pascalorg/lingo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 23, 21, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 23（+3）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

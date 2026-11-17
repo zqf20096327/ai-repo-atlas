@@ -1,6 +1,6 @@
 # epam/ai-dial-helm
 
-⭐ 23 · Go Template · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/epam/ai-dial-helm) · [官网](https://dialx.ai) · 组织维护
+⭐ 23 · Go Template · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/epam/ai-dial-helm) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 平台的 Helm Chart 仓库，用于 Kubernetes 部署**
 
@@ -43,12 +43,12 @@ EPAM 维护的 AI DIAL Helm Chart 仓库，通过 charts.dialx.ai 提供 AI DIAL
 ```mermaid
 xychart-beta
     title "epam/ai-dial-helm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

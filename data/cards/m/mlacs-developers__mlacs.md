@@ -1,6 +1,6 @@
 # mlacs-developers/mlacs
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/mlacs-developers/mlacs) · [官网](https://mlacs.readthedocs.io/) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/mlacs-developers/mlacs) · [官网](https://mlacs.readthedocs.io/) · 组织维护
 
 **机器学习辅助的原子体系有限温度模拟 Python 库，面向热力学性质计算**
 
@@ -45,13 +45,13 @@ MLACS 是一个 Python 包，将机器学习势与原子体系的量子模拟结
 
 ```mermaid
 xychart-beta
-    title "mlacs-developers/mlacs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "mlacs-developers/mlacs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

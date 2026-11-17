@@ -1,6 +1,6 @@
 # tcsenpai/qrare
 
-⭐ 38 · Python · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/qrare) · 个人维护
+⭐ 39 · Python · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/qrare) · 个人维护
 
 **把二进制文件转成 QR 码图片并可还原的 Python CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tcsenpai/qrare 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "tcsenpai/qrare 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

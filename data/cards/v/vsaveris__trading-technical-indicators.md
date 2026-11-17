@@ -1,6 +1,6 @@
 # vsaveris/trading-technical-indicators
 
-⭐ 151 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/vsaveris/trading-technical-indicators) · [官网](https://trading-technical-indicators.readthedocs.io/en/latest/index.html) · 个人维护
+⭐ 153 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/vsaveris/trading-technical-indicators) · [官网](https://trading-technical-indicators.readthedocs.io/en/latest/index.html) · 个人维护
 
 **面向交易者的 Python 技术指标库（62 个指标+信号+模拟）**
 
@@ -44,13 +44,13 @@ Python 库 tti，提供 62 个传统技术指标（RSI、MACD、布林带等）�
 
 ```mermaid
 xychart-beta
-    title "vsaveris/trading-technical-indicators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 150 --> 152
-    line [151, 151]
+    title "vsaveris/trading-technical-indicators 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153, 153]
 ```
 
-2026-10-18 151 → 2026-11-02 151（+0）
+2026-10-18 151 → 2026-11-17 153（+2）
 
 
 ---

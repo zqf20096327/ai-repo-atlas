@@ -1,6 +1,6 @@
 # thoughtspot/visual-embed-sdk
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/thoughtspot/visual-embed-sdk) · [官网](https://developers.thoughtspot.com) · 组织维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/thoughtspot/visual-embed-sdk) · [官网](https://developers.thoughtspot.com) · 组织维护
 
 **将 ThoughtSpot 分析与 AI 搜索嵌入 Web 应用的前端 SDK**
 
@@ -44,12 +44,12 @@ ThoughtSpot 官方的 Visual Embed SDK，TypeScript 编写，以 ESM/UMD 模块�
 ```mermaid
 xychart-beta
     title "thoughtspot/visual-embed-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

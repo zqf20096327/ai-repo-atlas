@@ -1,6 +1,6 @@
 # AQ-MedAI/RagQALeaderboard
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/AQ-MedAI/RagQALeaderboard) · [官网](https://huggingface.co/datasets/AQ-MedAI/RAG-QA-Leaderboard) · 组织维护 · 中文 README
+⭐ 29 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/AQ-MedAI/RagQALeaderboard) · [官网](https://huggingface.co/datasets/AQ-MedAI/RAG-QA-Leaderboard) · 组织维护 · 中文 README
 
 **RAG 问答系统的评测基准与排行榜框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AQ-MedAI/RagQALeaderboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "AQ-MedAI/RagQALeaderboard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

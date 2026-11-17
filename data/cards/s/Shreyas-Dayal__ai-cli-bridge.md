@@ -1,6 +1,6 @@
 # Shreyas-Dayal/ai-cli-bridge
 
-⭐ 13 · TypeScript · MIT · 推送 2026-05-03 · [GitHub](https://github.com/Shreyas-Dayal/ai-cli-bridge) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-05-03 · [GitHub](https://github.com/Shreyas-Dayal/ai-cli-bridge) · 个人维护
 
 **将 Claude Code / Codex CLI 订阅封装为带鉴权的 HTTP API 桥接服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shreyas-Dayal/ai-cli-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Shreyas-Dayal/ai-cli-bridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

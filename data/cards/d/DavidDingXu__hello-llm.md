@@ -1,6 +1,6 @@
 # DavidDingXu/hello-llm
 
-⭐ 39 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/DavidDingXu/hello-llm) · [官网](https://daviddingxu.github.io/hello-llm/) · 组织维护 · 中文 README
+⭐ 40 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/DavidDingXu/hello-llm) · [官网](https://daviddingxu.github.io/hello-llm/) · 组织维护 · 中文 README
 
 **LLM 入门图解课程：20 讲手写 92,352 参数小模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DavidDingXu/hello-llm 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 35 --> 40
-    line [36, 39, 39]
+    title "DavidDingXu/hello-llm 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 35 --> 41
+    line [36, 39, 40, 40]
 ```
 
-2026-10-29 36 → 2026-11-02 39（+3）
+2026-10-29 36 → 2026-11-17 40（+4）
 
 
 ---

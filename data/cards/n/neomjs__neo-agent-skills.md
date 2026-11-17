@@ -1,6 +1,6 @@
 # neomjs/neo-agent-skills
 
-⭐ 11 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/neomjs/neo-agent-skills) · [官网](https://neomjs.com/) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/neomjs/neo-agent-skills) · [官网](https://neomjs.com/) · 组织维护
 
 **Neo.mjs 组织的 agent 技能底座包：技能物化、守卫与 CI 检查**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "neomjs/neo-agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

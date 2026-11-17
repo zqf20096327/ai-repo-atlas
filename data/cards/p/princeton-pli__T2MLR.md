@@ -1,6 +1,6 @@
 # princeton-pli/T2MLR
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/princeton-pli/T2MLR) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/princeton-pli/T2MLR) · 组织维护
 
 **T2MLR 论文官方实现：Transformer 中层时序循环训练代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "princeton-pli/T2MLR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "princeton-pli/T2MLR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

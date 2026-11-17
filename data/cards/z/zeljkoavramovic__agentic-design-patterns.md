@@ -1,6 +1,6 @@
 # zeljkoavramovic/agentic-design-patterns
 
-⭐ 128 · HTML · 推送 2026-05-26 · [GitHub](https://github.com/zeljkoavramovic/agentic-design-patterns) · [官网](https://zeljkoavramovic.github.io/agentic-design-patterns/) · 个人维护
+⭐ 129 · HTML · 推送 2026-05-26 · [GitHub](https://github.com/zeljkoavramovic/agentic-design-patterns) · [官网](https://zeljkoavramovic.github.io/agentic-design-patterns/) · 个人维护
 
 **29 种 agentic 设计模式的单文件交互式教程与参考**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeljkoavramovic/agentic-design-patterns 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 125 --> 129
-    line [126, 127, 128, 128]
+    title "zeljkoavramovic/agentic-design-patterns 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 125 --> 130
+    line [126, 127, 128, 129, 129]
 ```
 
-2026-10-18 126 → 2026-11-02 128（+2）
+2026-10-18 126 → 2026-11-17 129（+3）
 
 
 ---

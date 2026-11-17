@@ -1,6 +1,6 @@
 # IvanWng97/TradingAgents-Telegram
 
-⭐ 46 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/IvanWng97/TradingAgents-Telegram) · [官网](https://t.me/TheTradingAgents_bot) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/IvanWng97/TradingAgents-Telegram) · [官网](https://t.me/TheTradingAgents_bot) · 个人维护
 
 **在 Telegram 中运行 TradingAgents 多智能体股票分析的 bot**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanWng97/TradingAgents-Telegram 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "IvanWng97/TradingAgents-Telegram 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

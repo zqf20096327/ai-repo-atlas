@@ -1,6 +1,6 @@
 # instantcms-dev/instantcms-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/instantcms-dev/instantcms-mcp) · [官网](https://www.npmjs.com/package/@maxisoft/instantcms-mcp) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/instantcms-dev/instantcms-mcp) · [官网](https://www.npmjs.com/package/@maxisoft/instantcms-mcp) · 组织维护
 
 **InstantCMS 2 开发用 MCP 服务器：101 个工具与源码校验的 API 知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "instantcms-dev/instantcms-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
+    title "instantcms-dev/instantcms-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

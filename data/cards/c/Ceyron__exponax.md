@@ -1,6 +1,6 @@
 # Ceyron/exponax
 
-⭐ 233 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Ceyron/exponax) · [官网](https://fkoehler.site/exponax/) · 个人维护
+⭐ 234 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Ceyron/exponax) · [官网](https://fkoehler.site/exponax/) · 个人维护
 
 **科研/开发者用的可微分多维偏微分方程谱方法求解库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ceyron/exponax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 232 --> 234
-    line [233, 233]
+    title "Ceyron/exponax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 232 --> 235
+    line [233, 234, 234]
 ```
 
-2026-10-18 233 → 2026-11-02 233（+0）
+2026-10-18 233 → 2026-11-17 234（+1）
 
 
 ---

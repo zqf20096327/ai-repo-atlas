@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pitroytech/update-helper-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "pitroytech/update-helper-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [16, 15]
+    line [16, 15, 16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

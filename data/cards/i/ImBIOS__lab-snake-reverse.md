@@ -1,6 +1,6 @@
 # ImBIOS/lab-snake-reverse
 
-⭐ 36 · HTML · 推送 2025-11-24 · [GitHub](https://github.com/ImBIOS/lab-snake-reverse) · [官网](https://imbios.github.io/lab-snake-reverse/) · 个人维护
+⭐ 35 · HTML · 推送 2025-11-24 · [GitHub](https://github.com/ImBIOS/lab-snake-reverse) · [官网](https://imbios.github.io/lab-snake-reverse/) · 个人维护
 
 **反向贪吃蛇浏览器游戏：玩家当苹果，被 A* 蛇追捕**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ImBIOS/lab-snake-reverse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "ImBIOS/lab-snake-reverse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [36, 35, 35]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 35（-1）
 
 
 ---

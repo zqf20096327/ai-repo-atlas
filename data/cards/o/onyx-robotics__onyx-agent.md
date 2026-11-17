@@ -1,6 +1,6 @@
 # onyx-robotics/onyx-agent
 
-⭐ 71 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/onyx-robotics/onyx-agent) · [官网](https://www.onyxresearch.ai/) · 组织维护
+⭐ 72 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/onyx-robotics/onyx-agent) · [官网](https://www.onyxresearch.ai/) · 组织维护
 
 **用大规模 AI agent 团队在你的代码库上自动做改进研究的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onyx-robotics/onyx-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 67 --> 72
-    line [68, 69, 70, 71, 71]
+    title "onyx-robotics/onyx-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 67 --> 73
+    line [68, 69, 70, 71, 69, 71, 72, 72]
 ```
 
-2026-10-18 68 → 2026-11-02 71（+3）
+2026-10-18 68 → 2026-11-17 72（+4）
 
 
 ---

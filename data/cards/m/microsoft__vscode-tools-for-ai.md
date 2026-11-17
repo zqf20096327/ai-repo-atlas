@@ -1,6 +1,6 @@
 # microsoft/vscode-tools-for-ai
 
-⭐ 340 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/vscode-tools-for-ai) · 组织维护
+⭐ 341 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/vscode-tools-for-ai) · 组织维护
 
 **VS Code 扩展：在编辑器内用 Azure ML 构建、训练与部署模型**
 
@@ -44,13 +44,13 @@ Azure Machine Learning for Visual Studio Code 扩展（早期名称 Visual Studi
 
 ```mermaid
 xychart-beta
-    title "microsoft/vscode-tools-for-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 339 --> 341
-    line [340, 340]
+    title "microsoft/vscode-tools-for-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 339 --> 342
+    line [340, 341, 341]
 ```
 
-2026-10-18 340 → 2026-11-02 340（+0）
+2026-10-18 340 → 2026-11-17 341（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dezoito/ollama-grid-search
 
-⭐ 958 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/dezoito/ollama-grid-search) · 个人维护
+⭐ 961 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/dezoito/ollama-grid-search) · 个人维护
 
 **桌面应用：批量评测与 A/B 对比 Ollama 本地模型和提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dezoito/ollama-grid-search 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 956 --> 960
-    line [957, 958, 959, 958, 958]
+    title "dezoito/ollama-grid-search 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 956 --> 962
+    line [957, 958, 959, 958, 957, 958, 960, 961, 961]
 ```
 
-2026-10-18 957 → 2026-11-02 958（+1）
+2026-10-18 957 → 2026-11-17 961（+4）
 
 
 ---

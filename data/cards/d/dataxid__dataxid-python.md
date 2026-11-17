@@ -1,6 +1,6 @@
 # dataxid/dataxid-python
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/dataxid/dataxid-python) · [官网](https://app.dataxid.com) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/dataxid/dataxid-python) · [官网](https://app.dataxid.com) · 组织维护
 
 **Python SDK：调用 DataXID API 生成隐私安全的合成数据**
 
@@ -44,13 +44,13 @@ DataXID 的 Python SDK，用于生成单表、多表（保持引用完整性）�
 
 ```mermaid
 xychart-beta
-    title "dataxid/dataxid-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "dataxid/dataxid-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 27（-1）
 
 
 ---

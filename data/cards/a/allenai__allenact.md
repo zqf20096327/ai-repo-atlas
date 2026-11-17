@@ -1,6 +1,6 @@
 # allenai/allenact
 
-⭐ 384 · Python · NOASSERTION · 推送 2026-05-19 · [GitHub](https://github.com/allenai/allenact) · [官网](https://www.allenact.org) · 组织维护
+⭐ 385 · Python · NOASSERTION · 推送 2026-05-19 · [GitHub](https://github.com/allenai/allenact) · [官网](https://www.allenact.org) · 组织维护
 
 **面向具身 AI 研究的模块化强化学习框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "allenai/allenact 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 383 --> 385
-    line [384, 384]
+    title "allenai/allenact 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 383 --> 386
+    line [384, 385, 385]
 ```
 
-2026-10-18 384 → 2026-11-02 384（+0）
+2026-10-18 384 → 2026-11-17 385（+1）
 
 
 ---

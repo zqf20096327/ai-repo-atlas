@@ -1,6 +1,6 @@
 # substructureai/subs
 
-⭐ 13 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/substructureai/subs) · [官网](https://substructure.ai) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-06 · [GitHub](https://github.com/substructureai/subs) · [官网](https://substructure.ai) · 组织维护
 
 **云端 agent 运行框架：以 MCP 工具执行运行不可特权 agent 循环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "substructureai/subs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

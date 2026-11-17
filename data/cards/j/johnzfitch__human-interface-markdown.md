@@ -1,6 +1,6 @@
 # johnzfitch/human-interface-markdown
 
-⭐ 18 · 推送 2026-03-27 · [GitHub](https://github.com/johnzfitch/human-interface-markdown) · 个人维护
+⭐ 19 · 推送 2026-03-27 · [GitHub](https://github.com/johnzfitch/human-interface-markdown) · 个人维护
 
 **Apple 人机界面指南历史档案库：35 份文档的 LLM 就绪化数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnzfitch/human-interface-markdown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "johnzfitch/human-interface-markdown 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

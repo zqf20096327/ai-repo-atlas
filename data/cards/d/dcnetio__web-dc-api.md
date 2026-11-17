@@ -1,6 +1,6 @@
 # dcnetio/web-dc-api
 
-⭐ 817 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/dcnetio/web-dc-api) · 组织维护 · 中文 README
+⭐ 818 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/dcnetio/web-dc-api) · 组织维护 · 中文 README
 
 **面向浏览器的去中心化应用 SDK：钱包身份+私有数据库+共享存储+AI 代理**
 
@@ -45,13 +45,13 @@ TypeScript SDK，把钱包登录与身份、用户私有 ThreadDB、共享 KeyVa
 
 ```mermaid
 xychart-beta
-    title "dcnetio/web-dc-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 815 --> 818
-    line [816, 817, 817]
+    title "dcnetio/web-dc-api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 815 --> 819
+    line [816, 817, 818, 818]
 ```
 
-2026-10-18 816 → 2026-11-02 817（+1）
+2026-10-18 816 → 2026-11-17 818（+2）
 
 
 ---

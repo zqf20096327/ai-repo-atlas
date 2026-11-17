@@ -1,6 +1,6 @@
 # google-deepmind/neural_testbed
 
-⭐ 192 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/neural_testbed) · 组织维护
+⭐ 192 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google-deepmind/neural_testbed) · 组织维护
 
 **评估不确定性量化智能体的合成测试台库**
 
@@ -45,12 +45,12 @@ DeepMind 的 neural_testbed 是一个评测库：通过基于神经网络的合�
 ```mermaid
 xychart-beta
     title "google-deepmind/neural_testbed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-18 192 → 2026-11-02 192（+0）
+2026-10-18 192 → 2026-11-17 192（+0）
 
 
 ---

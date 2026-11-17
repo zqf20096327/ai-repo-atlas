@@ -1,6 +1,6 @@
 # qasimio/MQNotebook
 
-⭐ 22 · Python · 推送 2026-06-10 · [GitHub](https://github.com/qasimio/MQNotebook) · [官网](https://mqnotebook.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地优先的企业级 RAG 文档问答引擎，处理扫描件与复杂办公文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qasimio/MQNotebook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "qasimio/MQNotebook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-07"]
     y-axis "stars" 17 --> 23
-    line [18, 19, 20, 22, 22]
+    line [18, 19, 20, 22, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 22（+4）
+2026-10-18 18 → 2026-11-07 19（+1）
 
 
 ---

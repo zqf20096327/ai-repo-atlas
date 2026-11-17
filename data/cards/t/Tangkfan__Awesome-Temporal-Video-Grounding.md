@@ -1,6 +1,6 @@
 # Tangkfan/Awesome-Temporal-Video-Grounding
 
-⭐ 45 · 推送 2026-07-30 · [GitHub](https://github.com/Tangkfan/Awesome-Temporal-Video-Grounding) · 个人维护 · 中文 README
+⭐ 48 · 推送 2026-11-13 · [GitHub](https://github.com/Tangkfan/Awesome-Temporal-Video-Grounding) · 个人维护 · 中文 README
 
 **时序视频定位（TVG/VMR）论文清单，覆盖2017-2026**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tangkfan/Awesome-Temporal-Video-Grounding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "Tangkfan/Awesome-Temporal-Video-Grounding 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 48, 48]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 48（+3）
 
 
 ---

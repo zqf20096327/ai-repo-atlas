@@ -1,6 +1,6 @@
 # feiskyer/chatgpt-copilot
 
-⭐ 163 · TypeScript · ISC · 推送 2026-06-20 · [GitHub](https://github.com/feiskyer/chatgpt-copilot) · [官网](https://marketplace.visualstudio.com/items?itemName=feiskyer.chatgpt-copilot) · 个人维护
+⭐ 164 · TypeScript · ISC · 推送 2026-06-20 · [GitHub](https://github.com/feiskyer/chatgpt-copilot) · [官网](https://marketplace.visualstudio.com/items?itemName=feiskyer.chatgpt-copilot) · 个人维护
 
 **VS Code 中的多模型 ChatGPT 对话与代码辅助扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feiskyer/chatgpt-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 162 --> 164
-    line [163, 163]
+    title "feiskyer/chatgpt-copilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 162 --> 165
+    line [163, 164, 164]
 ```
 
-2026-10-18 163 → 2026-11-02 163（+0）
+2026-10-18 163 → 2026-11-17 164（+1）
 
 
 ---

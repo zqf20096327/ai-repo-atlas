@@ -1,6 +1,6 @@
 # Puteitous/HippoBuddy
 
-⭐ 55 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Puteitous/HippoBuddy) · [官网](https://www.hippobuddy.cn/) · 个人维护 · 中文 README
+⭐ 56 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Puteitous/HippoBuddy) · [官网](https://www.hippobuddy.cn/) · 个人维护 · 中文 README
 
 **桌面 AI 助手：聊天、AI 编程与 Office 办公一体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Puteitous/HippoBuddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 51 --> 56
-    line [52, 53, 55, 55]
+    title "Puteitous/HippoBuddy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 57
+    line [52, 53, 55, 56, 56]
 ```
 
-2026-10-18 52 → 2026-11-02 55（+3）
+2026-10-18 52 → 2026-11-17 56（+4）
 
 
 ---

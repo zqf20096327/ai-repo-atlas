@@ -1,6 +1,6 @@
 # AgenticFlowX/agenticflowx
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/AgenticFlowX/agenticflowx) · [官网](https://agenticflowx.github.io) · 组织维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/AgenticFlowX/agenticflowx) · [官网](https://agenticflowx.github.io) · 组织维护
 
 **给 AI 编程者的 VS Code 扩展：聊天优先，按需升级为规格驱动开发**
 
@@ -45,12 +45,12 @@ VS Code 扩展，作为侧边栏 AI 编程助手运行：支持聊天、文件�
 ```mermaid
 xychart-beta
     title "AgenticFlowX/agenticflowx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

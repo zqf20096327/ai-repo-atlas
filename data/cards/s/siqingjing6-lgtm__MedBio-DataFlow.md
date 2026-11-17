@@ -1,6 +1,6 @@
 # siqingjing6-lgtm/MedBio-DataFlow
 
-⭐ 16 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/siqingjing6-lgtm/MedBio-DataFlow) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/siqingjing6-lgtm/MedBio-DataFlow) · 个人维护
 
 **临床数据统计与多组学样本准备 Python 工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "siqingjing6-lgtm/MedBio-DataFlow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "siqingjing6-lgtm/MedBio-DataFlow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

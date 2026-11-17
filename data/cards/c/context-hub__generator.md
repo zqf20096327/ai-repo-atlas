@@ -1,6 +1,6 @@
 # context-hub/generator
 
-⭐ 341 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/context-hub/generator) · [官网](https://docs.ctxllm.com) · 组织维护
+⭐ 343 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/context-hub/generator) · [官网](https://docs.ctxllm.com) · 组织维护
 
 **给 AI 编程助手的 MCP 工具：让 AI 直接读写代码库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "context-hub/generator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    title "context-hub/generator 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
     y-axis "stars" 340 --> 344
-    line [343, 342, 341, 341]
+    line [343, 342, 341, 342, 341, 342, 343, 343]
 ```
 
-2026-10-18 343 → 2026-11-02 341（-2）
+2026-10-18 343 → 2026-11-17 343（+0）
 
 
 ---

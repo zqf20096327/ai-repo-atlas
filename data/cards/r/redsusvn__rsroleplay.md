@@ -1,6 +1,6 @@
 # redsusvn/rsroleplay
 
-⭐ 11 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/redsusvn/rsroleplay) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/redsusvn/rsroleplay) · 个人维护
 
 **部署在 Cloudflare Workers 上的自托管 AI 角色扮演聊天客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "redsusvn/rsroleplay 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "redsusvn/rsroleplay 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

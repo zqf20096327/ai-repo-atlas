@@ -1,6 +1,6 @@
 # SciML/NeuralPDE.jl
 
-⭐ 1,237 · Julia · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/SciML/NeuralPDE.jl) · [官网](https://docs.sciml.ai/NeuralPDE/stable/) · 组织维护
+⭐ 1,240 · Julia · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/SciML/NeuralPDE.jl) · [官网](https://docs.sciml.ai/NeuralPDE/stable/) · 组织维护
 
 **面向科研计算：用 PINN 求解微分方程的 Julia 求解器包**
 
@@ -45,13 +45,13 @@ SciML 生态下的 Julia 求解器包，基于物理信息神经网络（PINN）
 
 ```mermaid
 xychart-beta
-    title "SciML/NeuralPDE.jl 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1234 --> 1238
-    line [1235, 1236, 1237, 1236, 1237, 1237]
+    title "SciML/NeuralPDE.jl 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1234 --> 1241
+    line [1235, 1236, 1237, 1236, 1237, 1236, 1237, 1238, 1240, 1240]
 ```
 
-2026-10-18 1,235 → 2026-11-02 1,237（+2）
+2026-10-18 1,235 → 2026-11-17 1,240（+5）
 
 
 ---

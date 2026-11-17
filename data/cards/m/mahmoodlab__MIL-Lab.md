@@ -1,6 +1,6 @@
 # mahmoodlab/MIL-Lab
 
-⭐ 158 · Python · NOASSERTION · 推送 2026-02-05 · [GitHub](https://github.com/mahmoodlab/MIL-Lab) · 组织维护
+⭐ 159 · Python · NOASSERTION · 推送 2026-02-05 · [GitHub](https://github.com/mahmoodlab/MIL-Lab) · 组织维护
 
 **病理全切片图像多示例学习模型库：9 种 MIL 架构与 FEATHER 预训练权重**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahmoodlab/MIL-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    title "mahmoodlab/MIL-Lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 157 --> 160
+    line [158, 159, 159]
 ```
 
-2026-10-18 158 → 2026-11-02 158（+0）
+2026-10-18 158 → 2026-11-17 159（+1）
 
 
 ---

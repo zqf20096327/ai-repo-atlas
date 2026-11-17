@@ -1,6 +1,6 @@
 # privacyshield-ai/privacy-firewall
 
-⭐ 245 · JavaScript · MIT · 推送 2026-01-16 · [GitHub](https://github.com/privacyshield-ai/privacy-firewall) · 个人维护
+⭐ 247 · JavaScript · MIT · 推送 2026-01-16 · [GitHub](https://github.com/privacyshield-ai/privacy-firewall) · 个人维护
 
 **浏览器端 AI 防泄漏扩展：拦截发往 AI 聊天工具的敏感数据**
 
@@ -44,13 +44,13 @@ Chrome Manifest V3 扩展，在用户向 ChatGPT、Claude、Gemini 等 AI 聊天
 
 ```mermaid
 xychart-beta
-    title "privacyshield-ai/privacy-firewall 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 243 --> 246
-    line [245, 244, 245, 245]
+    title "privacyshield-ai/privacy-firewall 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 243 --> 248
+    line [245, 244, 245, 244, 246, 247, 247]
 ```
 
-2026-10-18 245 → 2026-11-02 245（+0）
+2026-10-18 245 → 2026-11-17 247（+2）
 
 
 ---

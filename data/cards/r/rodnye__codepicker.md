@@ -1,6 +1,6 @@
 # rodnye/codepicker
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/rodnye/codepicker) · [官网](http://rodny.is-a.dev/codepicker/) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/rodnye/codepicker) · [官网](http://rodny.is-a.dev/codepicker/) · 个人维护
 
 **把代码库转 Markdown 供 LLM 使用、并逆向写回的 CLI**
 
@@ -45,13 +45,13 @@ Node.js 命令行工具 codepicker，双向转换代码与 Markdown：pick 命�
 
 ```mermaid
 xychart-beta
-    title "rodnye/codepicker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "rodnye/codepicker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 16
+    line [11, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 15（+4）
 
 
 ---

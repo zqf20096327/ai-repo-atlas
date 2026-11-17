@@ -1,6 +1,6 @@
 # nitinjain999/platform-skills
 
-⭐ 71 · Shell · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nitinjain999/platform-skills) · 个人维护
+⭐ 72 · Shell · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/nitinjain999/platform-skills) · 个人维护
 
 **面向平台/DevOps/SRE 工程师的运维领域参考手册与 AI 插件层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nitinjain999/platform-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    title "nitinjain999/platform-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 70, 71, 72, 72]
 ```
 
-2026-10-18 70 → 2026-11-02 71（+1）
+2026-10-18 70 → 2026-11-17 72（+2）
 
 
 ---

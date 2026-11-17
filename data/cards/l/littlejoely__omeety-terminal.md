@@ -1,6 +1,6 @@
 # littlejoely/omeety-terminal
 
-⭐ 19 · JavaScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/littlejoely/omeety-terminal) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/littlejoely/omeety-terminal) · 个人维护 · 中文 README
 
 **浏览器侧栏本地终端扩展：为 MCP CLI Agent 提供 41 个浏览器工具**
 
@@ -45,13 +45,13 @@ Chrome/Edge 侧栏扩展，内嵌基于 xterm.js 与真实 PTY（Windows ConPTY�
 
 ```mermaid
 xychart-beta
-    title "littlejoely/omeety-terminal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "littlejoely/omeety-terminal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

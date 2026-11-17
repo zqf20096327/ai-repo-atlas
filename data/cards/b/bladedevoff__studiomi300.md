@@ -1,6 +1,6 @@
 # bladedevoff/studiomi300
 
-⭐ 50 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/bladedevoff/studiomi300) · [官网](https://huggingface.co/spaces/lablab-ai-amd-developer-hackathon/studiomi300) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/bladedevoff/studiomi300) · [官网](https://huggingface.co/spaces/lablab-ai-amd-developer-hackathon/studiomi300) · 个人维护
 
 **单张 AMD MI300X 上端到端生成 30 秒多镜头视频短片的流水线**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bladedevoff/studiomi300 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "bladedevoff/studiomi300 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

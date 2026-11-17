@@ -44,13 +44,13 @@ AI-Gate 是部署在用户与外部 LLM（ChatGPT/Claude/Gemini 及任意 OpenAI
 
 ```mermaid
 xychart-beta
-    title "oleg-vdv/AI-Gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "oleg-vdv/AI-Gateway 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CharlesPikachu/FreeGPTHub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "CharlesPikachu/FreeGPTHub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-17"]
     y-axis "stars" 66 --> 69
-    line [68, 67, 68]
+    line [68, 67, 68, 68]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 68（+0）
 
 
 ---

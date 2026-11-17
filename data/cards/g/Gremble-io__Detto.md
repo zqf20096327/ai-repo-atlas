@@ -1,6 +1,6 @@
 # Gremble-io/Detto
 
-⭐ 521 · Swift · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/Gremble-io/Detto) · [官网](https://detto.app) · 个人维护
+⭐ 519 · Swift · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/Gremble-io/Detto) · [官网](https://detto.app) · 个人维护
 
 **macOS 本地会议转录/语音备忘/全局听写的桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gremble-io/Detto 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "Gremble-io/Detto 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 518 --> 522
-    line [519, 521, 521]
+    line [519, 521, 519, 519]
 ```
 
-2026-10-18 519 → 2026-11-02 521（+2）
+2026-10-18 519 → 2026-11-17 519（+0）
 
 
 ---

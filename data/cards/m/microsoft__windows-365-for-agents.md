@@ -1,6 +1,6 @@
 # microsoft/windows-365-for-agents
 
-⭐ 12 · C# · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/windows-365-for-agents) · 组织维护
+⭐ 14 · C# · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/windows-365-for-agents) · 组织维护
 
 **微软官方文档：让 AI agent 在云端 Windows PC 上执行任务**
 
@@ -44,13 +44,13 @@ Windows 365 for Agents 的开发者文档仓库：提供 Entra ID 加入、Intun
 
 ```mermaid
 xychart-beta
-    title "microsoft/windows-365-for-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "microsoft/windows-365-for-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

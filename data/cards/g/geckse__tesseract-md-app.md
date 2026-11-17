@@ -1,6 +1,6 @@
 # geckse/tesseract-md-app
 
-⭐ 19 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/geckse/tesseract-md-app) · [官网](https://tesseract.md) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/geckse/tesseract-md-app) · [官网](https://tesseract.md) · 个人维护
 
 **本地优先的 Markdown 知识库桌面应用，含 3D 图谱与混合搜索**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "geckse/tesseract-md-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "geckse/tesseract-md-app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

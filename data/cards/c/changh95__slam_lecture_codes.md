@@ -1,6 +1,6 @@
 # changh95/slam_lecture_codes
 
-⭐ 419 · C++ · 推送 2026-10-30 · [GitHub](https://github.com/changh95/slam_lecture_codes) · 个人维护
+⭐ 420 · C++ · 推送 2026-11-08 · [GitHub](https://github.com/changh95/slam_lecture_codes) · 个人维护
 
 **SLAM 系列课程的配套代码练习仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "changh95/slam_lecture_codes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 417 --> 420
-    line [418, 419, 419]
+    title "changh95/slam_lecture_codes 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 417 --> 421
+    line [418, 419, 418, 419, 420, 420]
 ```
 
-2026-10-18 418 → 2026-11-02 419（+1）
+2026-10-18 418 → 2026-11-17 420（+2）
 
 
 ---

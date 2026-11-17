@@ -1,6 +1,6 @@
 # lploc94/cross-review
 
-⭐ 160 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lploc94/cross-review) · [官网](https://cross-review.tlelabs.com) · 个人维护
+⭐ 167 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/lploc94/cross-review) · [官网](https://cross-review.tlelabs.com) · 个人维护
 
 **跨模型代码审查技能包：一个 agent 编排、另一模型审查方案与代码**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lploc94/cross-review 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 152 --> 161
-    line [153, 155, 156, 160]
+    title "lploc94/cross-review 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 152 --> 169
+    line [153, 155, 156, 160, 153, 167, 168, 167, 167]
 ```
 
-2026-10-18 153 → 2026-11-02 160（+7）
+2026-10-18 153 → 2026-11-17 167（+14）
 
 
 ---

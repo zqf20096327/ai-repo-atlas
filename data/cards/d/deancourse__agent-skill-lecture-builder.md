@@ -1,6 +1,6 @@
 # deancourse/agent-skill-lecture-builder
 
-⭐ 73 · HTML · 推送 2026-04-12 · [GitHub](https://github.com/deancourse/agent-skill-lecture-builder) · [官网](https://youtu.be/0pZri5f_tfk) · 个人维护 · 中文 README
+⭐ 74 · HTML · 推送 2026-04-12 · [GitHub](https://github.com/deancourse/agent-skill-lecture-builder) · [官网](https://youtu.be/0pZri5f_tfk) · 个人维护 · 中文 README
 
 **講者/教師用的 Agent Skill：把主題或 Markdown 講稿生成單一 HTML 課程頁面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deancourse/agent-skill-lecture-builder 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 68 --> 74
-    line [69, 70, 71, 70, 72, 73]
+    title "deancourse/agent-skill-lecture-builder 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 68 --> 75
+    line [69, 70, 71, 70, 72, 73, 70, 73, 74, 74]
 ```
 
-2026-10-18 69 → 2026-11-02 73（+4）
+2026-10-18 69 → 2026-11-17 74（+5）
 
 
 ---

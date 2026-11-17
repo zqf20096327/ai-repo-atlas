@@ -1,6 +1,6 @@
 # brandlll-lee/SolersEngine
 
-⭐ 37 · C++ · MIT · 推送 2026-09-05 · [GitHub](https://github.com/brandlll-lee/SolersEngine) · 个人维护 · 中文 README
+⭐ 38 · C++ · MIT · 推送 2026-09-05 · [GitHub](https://github.com/brandlll-lee/SolersEngine) · 个人维护 · 中文 README
 
 **内嵌 AI agent 的 Godot 4.7.1 引擎分支，支持人机同库协作开发**
 
@@ -44,13 +44,13 @@ Solers 是基于 Godot 4.7.1 的引擎分支，核心是在编辑器内运行一
 
 ```mermaid
 xychart-beta
-    title "brandlll-lee/SolersEngine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "brandlll-lee/SolersEngine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

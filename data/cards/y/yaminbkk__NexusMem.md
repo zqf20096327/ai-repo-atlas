@@ -1,6 +1,6 @@
 # yaminbkk/NexusMem
 
-⭐ 15 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/yaminbkk/NexusMem) · [官网](https://nexus-mem.vercel.app) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/yaminbkk/NexusMem) · [官网](https://nexus-mem.vercel.app) · 个人维护
 
 **把 shell 历史、git 与文档索引进本地 SQLite 的 MCP 记忆服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaminbkk/NexusMem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "yaminbkk/NexusMem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

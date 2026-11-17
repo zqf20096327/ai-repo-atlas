@@ -1,6 +1,6 @@
 # wangkai930418/awesome-diffusion-categorized
 
-⭐ 2,222 · 推送 2026-03-16 · [GitHub](https://github.com/wangkai930418/awesome-diffusion-categorized) · 个人维护
+⭐ 2,220 · 推送 2026-03-16 · [GitHub](https://github.com/wangkai930418/awesome-diffusion-categorized) · 个人维护
 
 **按子领域分类的扩散模型论文清单，供研究者检索**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangkai930418/awesome-diffusion-categorized 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 2221 --> 2225
-    line [2224, 2223, 2222, 2222]
+    title "wangkai930418/awesome-diffusion-categorized 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2219 --> 2225
+    line [2224, 2223, 2222, 2223, 2222, 2221, 2220, 2220]
 ```
 
-2026-10-18 2,224 → 2026-11-02 2,222（-2）
+2026-10-18 2,224 → 2026-11-17 2,220（-4）
 
 
 ---

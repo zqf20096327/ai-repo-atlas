@@ -1,6 +1,6 @@
 # caudena/beam_weaver
 
-⭐ 64 · Elixir · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/caudena/beam_weaver) · [官网](https://docs.weavescope.com/beamweaver) · 组织维护
+⭐ 65 · Elixir · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/caudena/beam_weaver) · [官网](https://docs.weavescope.com/beamweaver) · 组织维护
 
 **Elixir 原生的 LLM 应用与 Agent 工作流框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "caudena/beam_weaver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "caudena/beam_weaver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

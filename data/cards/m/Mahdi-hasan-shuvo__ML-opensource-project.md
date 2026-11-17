@@ -1,6 +1,6 @@
 # Mahdi-hasan-shuvo/ML-opensource-project
 
-⭐ 13 · HTML · 推送 2025-11-19 · [GitHub](https://github.com/Mahdi-hasan-shuvo/ML-opensource-project) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向学习者的机器学习代码与教程开源仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Mahdi-hasan-shuvo/ML-opensource-project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-14 13（+0）
 
 
 ---

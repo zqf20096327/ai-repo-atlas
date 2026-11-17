@@ -1,6 +1,6 @@
 # hunhee98/pluck
 
-⭐ 42 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/hunhee98/pluck) · 个人维护 · 中文 README
+⭐ 43 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/hunhee98/pluck) · 个人维护 · 中文 README
 
 **MCP 原生代码检索守护进程：为 AI agent 省 token 地读搜代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hunhee98/pluck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "hunhee98/pluck 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

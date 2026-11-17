@@ -1,6 +1,6 @@
 # fingentic/revolut-mcp
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fingentic/revolut-mcp) · [官网](https://fingentic.github.io/revolut-mcp/) · 组织维护
+⭐ 38 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/fingentic/revolut-mcp) · [官网](https://fingentic.github.io/revolut-mcp/) · 组织维护
 
 **连接 AI 助手与 Revolut Business API 的 MCP 服务器**
 
@@ -44,13 +44,13 @@ Model Context Protocol 服务器，桥接 Claude、Cursor 等 AI 助手与 Revol
 
 ```mermaid
 xychart-beta
-    title "fingentic/revolut-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "fingentic/revolut-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 34, 37, 38, 38]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 38（+4）
 
 
 ---

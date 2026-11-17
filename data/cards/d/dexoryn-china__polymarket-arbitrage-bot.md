@@ -1,6 +1,6 @@
 # dexoryn-china/polymarket-arbitrage-bot
 
-⭐ 42 · Python · 推送 2026-09-29 · [GitHub](https://github.com/dexoryn-china/polymarket-arbitrage-bot) · 个人维护 · 中文 README
+⭐ 41 · Python · 推送 2026-09-29 · [GitHub](https://github.com/dexoryn-china/polymarket-arbitrage-bot) · 个人维护 · 中文 README
 
 **Polymarket 预测市场自主 AI 交易代理：发现、研究、预测、风控、执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dexoryn-china/polymarket-arbitrage-bot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "dexoryn-china/polymarket-arbitrage-bot 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [42, 41, 41]
 ```
 
-2026-10-23 42 → 2026-11-02 42（+0）
+2026-10-23 42 → 2026-11-17 41（-1）
 
 
 ---

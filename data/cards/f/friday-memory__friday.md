@@ -1,6 +1,6 @@
 # friday-memory/friday
 
-⭐ 67 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/friday-memory/friday) · [官网](https://pypi.org/project/friday-memory/) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/friday-memory/friday) · [官网](https://pypi.org/project/friday-memory/) · 组织维护
 
 **为 AI 编程 agent 提供跨会话持久记忆层的自托管服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "friday-memory/friday 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 67, 67]
+    title "friday-memory/friday 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 65 --> 69
+    line [67, 68, 67, 68, 66, 67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 68（+1）
 
 
 ---

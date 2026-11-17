@@ -1,6 +1,6 @@
 # langchain-ai/langchain-postgres
 
-⭐ 282 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-postgres) · 组织维护
+⭐ 281 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-postgres) · 组织维护
 
 **基于 Postgres 实现 LangChain 核心抽象的 Python 集成包**
 
@@ -44,13 +44,13 @@ langchain-ai 组织维护的集成库，用 Postgres 后端实现 LangChain 核�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-postgres 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-postgres 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 280 --> 284
-    line [282, 281, 282, 283, 282, 282]
+    line [282, 281, 282, 283, 282, 281, 282, 281, 281]
 ```
 
-2026-10-18 282 → 2026-11-02 282（+0）
+2026-10-18 282 → 2026-11-17 281（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Burgstall-labs/ComfyUI-SpEdE
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Burgstall-labs/ComfyUI-SpEdE) · 组织维护
+⭐ 38 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Burgstall-labs/ComfyUI-SpEdE) · 组织维护
 
 **高斯泼溅场景物体编辑引擎：点击后移除/替换/提取 3D 对象**
 
@@ -45,13 +45,13 @@ ComfyUI 节点包加本地 Web Studio：在 3D 高斯泼溅（3DGS）场景中�
 
 ```mermaid
 xychart-beta
-    title "Burgstall-labs/ComfyUI-SpEdE 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 5 --> 17
-    line [6, 14, 15, 16]
+    title "Burgstall-labs/ComfyUI-SpEdE 星数(近 12 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 3 --> 41
+    line [6, 14, 15, 16, 21, 25, 29, 32, 33, 35, 38, 38]
 ```
 
-2026-10-30 6 → 2026-11-02 16（+10）
+2026-10-30 6 → 2026-11-17 38（+32）
 
 
 ---

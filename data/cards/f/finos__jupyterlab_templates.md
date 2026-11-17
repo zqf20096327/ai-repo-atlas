@@ -1,6 +1,6 @@
 # finos/jupyterlab_templates
 
-⭐ 413 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/finos/jupyterlab_templates) · 组织维护
+⭐ 414 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/finos/jupyterlab_templates) · 组织维护
 
 **JupyterLab 笔记本模板扩展：从指定目录加载模板供选用**
 
@@ -43,13 +43,13 @@ FINOS 毕业项目，为 JupyterLab 提供笔记本模板功能的 server/lab �
 
 ```mermaid
 xychart-beta
-    title "finos/jupyterlab_templates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 412 --> 414
-    line [413, 413]
+    title "finos/jupyterlab_templates 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 412 --> 415
+    line [413, 414, 414]
 ```
 
-2026-10-18 413 → 2026-11-02 413（+0）
+2026-10-18 413 → 2026-11-17 414（+1）
 
 
 ---

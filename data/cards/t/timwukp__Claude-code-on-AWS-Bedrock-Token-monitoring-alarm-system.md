@@ -1,6 +1,6 @@
 # timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system) · [官网](https://github.com/timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system) · [官网](https://github.com/timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system) · 组织维护
 
 **多租户 AWS Bedrock token 用量监控与成本治理平台**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "timwukp/Claude-code-on-AWS-Bedrock-Token-monitoring-alarm-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

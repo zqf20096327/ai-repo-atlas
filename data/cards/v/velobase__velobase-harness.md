@@ -1,6 +1,6 @@
 # velobase/velobase-harness
 
-⭐ 618 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/velobase/velobase-harness) · 组织维护 · 中文 README
+⭐ 625 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/velobase/velobase-harness) · 组织维护 · 中文 README
 
 **把 AI 原型变成付费 SaaS 的开源 Next.js 样板框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "velobase/velobase-harness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 612 --> 619
-    line [613, 614, 616, 617, 618, 618]
+    title "velobase/velobase-harness 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 612 --> 626
+    line [613, 614, 616, 617, 618, 616, 620, 621, 623, 624, 625, 625]
 ```
 
-2026-10-18 613 → 2026-11-02 618（+5）
+2026-10-18 613 → 2026-11-17 625（+12）
 
 
 ---

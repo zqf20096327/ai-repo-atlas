@@ -1,6 +1,6 @@
 # anipottsbuilds/imessage-mcp
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anipottsbuilds/imessage-mcp) · [官网](https://npmjs.com/package/imessage-mcp) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/anipottsbuilds/imessage-mcp) · [官网](https://npmjs.com/package/imessage-mcp) · 个人维护
 
 **本地只读读取 macOS iMessage 历史给 MCP 客户端的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anipottsbuilds/imessage-mcp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "anipottsbuilds/imessage-mcp 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 28, 31, 32, 33, 33]
 ```
 
-2026-10-25 28 → 2026-11-02 29（+1）
+2026-10-25 28 → 2026-11-17 33（+5）
 
 
 ---

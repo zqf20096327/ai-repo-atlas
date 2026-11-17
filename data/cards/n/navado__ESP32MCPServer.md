@@ -1,6 +1,6 @@
 # navado/ESP32MCPServer
 
-⭐ 66 · C++ · MIT · 推送 2026-03-08 · [GitHub](https://github.com/navado/ESP32MCPServer) · 个人维护
+⭐ 66 · C++ · MIT · 推送 2026-11-14 · [GitHub](https://github.com/navado/ESP32MCPServer) · 个人维护
 
 **跑在 ESP32 上的 MCP 服务器，向 AI agent 暴露传感器与总线数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "navado/ESP32MCPServer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "navado/ESP32MCPServer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 63 --> 67
-    line [64, 65, 66, 66]
+    line [64, 65, 66, 64, 65, 66, 66]
 ```
 
-2026-10-18 64 → 2026-11-02 66（+2）
+2026-10-18 64 → 2026-11-17 66（+2）
 
 
 ---

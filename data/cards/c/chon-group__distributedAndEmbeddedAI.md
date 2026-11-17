@@ -1,6 +1,6 @@
 # chon-group/distributedAndEmbeddedAI
 
-⭐ 12 · ASL · 推送 2026-10-24 · [GitHub](https://github.com/chon-group/distributedAndEmbeddedAI) · 组织维护
+⭐ 12 · ASL · 推送 2026-11-11 · [GitHub](https://github.com/chon-group/distributedAndEmbeddedAI) · 组织维护
 
 **嵌入式多智能体系统（MAS）教学课程工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chon-group/distributedAndEmbeddedAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

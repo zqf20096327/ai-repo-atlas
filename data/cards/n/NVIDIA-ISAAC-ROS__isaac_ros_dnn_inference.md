@@ -44,13 +44,13 @@ NVIDIA Isaac ROS 生态下的 ROS 2 推理节点集合：提供 TensorRT 与 Tri
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 141 --> 144
-    line [142, 143, 143]
+    line [142, 143, 142, 143, 143]
 ```
 
-2026-10-18 142 → 2026-11-02 143（+1）
+2026-10-18 142 → 2026-11-17 143（+1）
 
 
 ---

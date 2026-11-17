@@ -1,6 +1,6 @@
 # tub-rip/DERD-Net
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2025-11-22 · [GitHub](https://github.com/tub-rip/DERD-Net) · 组织维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2025-11-22 · [GitHub](https://github.com/tub-rip/DERD-Net) · 组织维护
 
 **事件相机深度估计神经网络（NeurIPS 2025）**
 
@@ -44,13 +44,13 @@ TU Berlin RIP 实验室发布的 DERD-Net 官方实现：从事件相机数据�
 
 ```mermaid
 xychart-beta
-    title "tub-rip/DERD-Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "tub-rip/DERD-Net 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

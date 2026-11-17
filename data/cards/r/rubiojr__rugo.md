@@ -1,6 +1,6 @@
 # rubiojr/rugo
 
-⭐ 25 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rubiojr/rugo) · [官网](https://rugo-lang.dev) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rubiojr/rugo) · [官网](https://rugo-lang.dev) · 个人维护
 
 **Ruby 语法编译为 Go 原生二进制的编程语言**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rubiojr/rugo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "rubiojr/rugo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 24, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

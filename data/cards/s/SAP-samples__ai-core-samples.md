@@ -1,6 +1,6 @@
 # SAP-samples/ai-core-samples
 
-⭐ 102 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/SAP-samples/ai-core-samples) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **SAP AI Core 官方示例：notebook 与工作流模板集合**
 
@@ -11,7 +11,7 @@ SAP 维护的示例仓库，收录 Jupyter notebook 与工作流模板（yaml �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@ SAP 维护的示例仓库，收录 Jupyter notebook 与工作流模板（yaml �
 
 ```mermaid
 xychart-beta
-    title "SAP-samples/ai-core-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "SAP-samples/ai-core-samples 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-07"]
     y-axis "stars" 99 --> 103
-    line [100, 101, 102, 102]
+    line [100, 101, 102, 101, 101]
 ```
 
-2026-10-18 100 → 2026-11-02 102（+2）
+2026-10-18 100 → 2026-11-07 101（+1）
 
 
 ---

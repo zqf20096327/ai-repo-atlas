@@ -1,6 +1,6 @@
 # ma-pony/deepspider
 
-⭐ 21 · JavaScript · 推送 2026-09-18 · [GitHub](https://github.com/ma-pony/deepspider) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · 推送 2026-09-18 · [GitHub](https://github.com/ma-pony/deepspider) · 个人维护 · 中文 README
 
 **AI 驱动的爬虫与 JS 逆向平台，从浏览器证据恢复参数生成逻辑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ma-pony/deepspider 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 21, 21]
+    title "ma-pony/deepspider 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [21, 20, 21, 20, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

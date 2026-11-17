@@ -1,6 +1,6 @@
 # huihuijiangqiang/moshu
 
-⭐ 65 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/huihuijiangqiang/moshu) · [官网](https://ms.moshu-novel.com/) · 个人维护 · 中文 README
+⭐ 64 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/huihuijiangqiang/moshu) · [官网](https://ms.moshu-novel.com/) · 个人维护 · 中文 README
 
 **面向中文长篇网文作者的 AI 小说写作工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huihuijiangqiang/moshu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-02"]
+    title "huihuijiangqiang/moshu 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
     y-axis "stars" 58 --> 66
-    line [59, 60, 62, 63, 64, 65]
+    line [59, 60, 62, 63, 64, 65, 63, 64, 65, 64, 64]
 ```
 
-2026-10-18 59 → 2026-11-02 65（+6）
+2026-10-18 59 → 2026-11-17 64（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # iMoonLab/Hyper-RAG
 
-⭐ 330 · Python · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/iMoonLab/Hyper-RAG) · [官网](https://www.nature.com/articles/s41467-026-71411-1) · 组织维护
+⭐ 331 · Python · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/iMoonLab/Hyper-RAG) · [官网](https://www.nature.com/articles/s41467-026-71411-1) · 组织维护
 
 **超图驱动的 RAG 框架：建模高阶关联以降低 LLM 幻觉**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iMoonLab/Hyper-RAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 328 --> 331
-    line [329, 330, 330]
+    title "iMoonLab/Hyper-RAG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 328 --> 332
+    line [329, 330, 331, 331]
 ```
 
-2026-10-18 329 → 2026-11-02 330（+1）
+2026-10-18 329 → 2026-11-17 331（+2）
 
 
 ---

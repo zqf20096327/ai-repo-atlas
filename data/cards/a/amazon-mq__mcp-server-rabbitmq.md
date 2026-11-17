@@ -1,6 +1,6 @@
 # amazon-mq/mcp-server-rabbitmq
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/amazon-mq/mcp-server-rabbitmq) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/amazon-mq/mcp-server-rabbitmq) · 组织维护
 
 **让 AI agent 用对话管理 RabbitMQ 的 MCP server**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amazon-mq/mcp-server-rabbitmq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "amazon-mq/mcp-server-rabbitmq 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

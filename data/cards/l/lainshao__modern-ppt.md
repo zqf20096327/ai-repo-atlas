@@ -1,6 +1,6 @@
 # lainshao/modern-ppt
 
-⭐ 12 · HTML · AGPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/lainshao/modern-ppt) · [官网](https://lainshao.github.io/modern-ppt/) · 个人维护 · 中文 README
+⭐ 13 · HTML · AGPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/lainshao/modern-ppt) · [官网](https://lainshao.github.io/modern-ppt/) · 个人维护 · 中文 README
 
 **供 coding agent 使用的单文件 HTML 演示文稿生成技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lainshao/modern-ppt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "lainshao/modern-ppt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

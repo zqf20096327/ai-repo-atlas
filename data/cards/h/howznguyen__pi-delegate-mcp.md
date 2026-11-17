@@ -1,6 +1,6 @@
 # howznguyen/pi-delegate-mcp
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/howznguyen/pi-delegate-mcp) · [官网](https://www.npmjs.com/package/pi-delegate-mcp) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/howznguyen/pi-delegate-mcp) · [官网](https://www.npmjs.com/package/pi-delegate-mcp) · 个人维护
 
 **把 pi coding agent 变成可中途转向的 MCP 后台委派工人的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "howznguyen/pi-delegate-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22, 22]
+    title "howznguyen/pi-delegate-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

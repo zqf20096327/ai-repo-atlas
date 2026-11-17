@@ -1,6 +1,6 @@
 # cdt15/lingam
 
-⭐ 510 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cdt15/lingam) · [官网](https://sites.google.com/view/sshimizu06/lingam) · 组织维护
+⭐ 512 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/cdt15/lingam) · [官网](https://sites.google.com/view/sshimizu06/lingam) · 组织维护
 
 **基于非高斯数据的线性因果结构发现 Python 库**
 
@@ -45,13 +45,13 @@ LiNGAM 官方 Python 包，实现基于数据非高斯性的结构方程模型/�
 
 ```mermaid
 xychart-beta
-    title "cdt15/lingam 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 507 --> 511
-    line [508, 509, 510, 509, 510, 510]
+    title "cdt15/lingam 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 507 --> 513
+    line [508, 509, 510, 509, 510, 511, 512, 512]
 ```
 
-2026-10-18 508 → 2026-11-02 510（+2）
+2026-10-18 508 → 2026-11-17 512（+4）
 
 
 ---

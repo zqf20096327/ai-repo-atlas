@@ -1,6 +1,6 @@
 # roackb2/cyberloop
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/roackb2/cyberloop) · 个人维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/roackb2/cyberloop) · 个人维护
 
 **给 AI Agent 加中间件控制层的 TypeScript 框架**
 
@@ -44,13 +44,13 @@ CyberLoop 是用 TypeScript 编写的 agent 中间件框架：将任意 agent �
 
 ```mermaid
 xychart-beta
-    title "roackb2/cyberloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "roackb2/cyberloop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

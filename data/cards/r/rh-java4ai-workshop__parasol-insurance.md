@@ -1,6 +1,6 @@
 # rh-java4ai-workshop/parasol-insurance
 
-⭐ 20 · TypeScript · MIT · 推送 2025-11-20 · [GitHub](https://github.com/rh-java4ai-workshop/parasol-insurance) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **虚构保险理赔的 AI 聊天演示应用（Quarkus+React）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rh-java4ai-workshop/parasol-insurance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "rh-java4ai-workshop/parasol-insurance 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-15 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # amluckydave/shiyu
 
-⭐ 39 · Vue · MIT · 推送 2026-03-20 · [GitHub](https://github.com/amluckydave/shiyu) · [官网](https://amluckydave.github.io/shiyu/) · 个人维护 · 中文 README
+⭐ 40 · Vue · MIT · 推送 2026-03-20 · [GitHub](https://github.com/amluckydave/shiyu) · [官网](https://amluckydave.github.io/shiyu/) · 个人维护 · 中文 README
 
 **英语学习桌面应用：AI 划词翻译标注与 FSRS 间隔复习**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amluckydave/shiyu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39]
+    title "amluckydave/shiyu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

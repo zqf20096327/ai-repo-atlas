@@ -1,6 +1,6 @@
 # GAIR-NLP/MegaScience
 
-⭐ 131 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/GAIR-NLP/MegaScience) · [官网](https://huggingface.co/MegaScience) · 组织维护
+⭐ 133 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/GAIR-NLP/MegaScience) · [官网](https://huggingface.co/MegaScience) · 组织维护
 
 **科学推理后训练数据集及配套模型、数据构建与评测系统**
 
@@ -45,13 +45,13 @@ COLM 2026 论文的配套开源项目：发布 TextbookReasoning（12k 大学理
 
 ```mermaid
 xychart-beta
-    title "GAIR-NLP/MegaScience 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    title "GAIR-NLP/MegaScience 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 130 --> 134
+    line [131, 132, 133, 133]
 ```
 
-2026-10-18 131 → 2026-11-02 131（+0）
+2026-10-18 131 → 2026-11-17 133（+2）
 
 
 ---

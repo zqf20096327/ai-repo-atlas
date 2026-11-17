@@ -1,6 +1,6 @@
 # MigoXLab/LMeterX
 
-⭐ 216 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/MigoXLab/LMeterX) · 组织维护 · 中文 README
+⭐ 219 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/MigoXLab/LMeterX) · 组织维护 · 中文 README
 
 **面向 LLM/HTTP/A2A/MCP 服务的通用 API 压测平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MigoXLab/LMeterX 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 211 --> 217
-    line [212, 213, 215, 216, 216]
+    title "MigoXLab/LMeterX 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 211 --> 220
+    line [212, 213, 215, 216, 213, 218, 219, 219]
 ```
 
-2026-10-18 212 → 2026-11-02 216（+4）
+2026-10-18 212 → 2026-11-17 219（+7）
 
 
 ---

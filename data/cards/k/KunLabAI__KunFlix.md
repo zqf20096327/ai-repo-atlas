@@ -1,6 +1,6 @@
 # KunLabAI/KunFlix
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KunLabAI/KunFlix) · [官网](https://kunpuai.com/kunflix) · 组织维护 · 中文 README
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/KunLabAI/KunFlix) · [官网](https://kunpuai.com/kunflix) · 组织维护 · 中文 README
 
 **面向影视广告创作者的 AI 多智能体内容创作平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KunLabAI/KunFlix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "KunLabAI/KunFlix 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    line [25, 26, 27, 25, 27, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

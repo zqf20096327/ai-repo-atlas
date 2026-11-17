@@ -1,6 +1,6 @@
 # w1ckedxt/cynical-sally
 
-⭐ 101 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/w1ckedxt/cynical-sally) · [官网](https://CynicalSally.com/fullsuite) · 个人维护
+⭐ 102 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/w1ckedxt/cynical-sally) · [官网](https://CynicalSally.com/fullsuite) · 个人维护
 
 **给开发者的终端/AI 编辑器代码审查 CLI 与 MCP 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "w1ckedxt/cynical-sally 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 98 --> 102
-    line [99, 100, 101, 101]
+    title "w1ckedxt/cynical-sally 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 98 --> 103
+    line [99, 100, 101, 102, 102]
 ```
 
-2026-10-18 99 → 2026-11-02 101（+2）
+2026-10-18 99 → 2026-11-17 102（+3）
 
 
 ---

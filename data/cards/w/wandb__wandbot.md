@@ -1,6 +1,6 @@
 # wandb/wandbot
 
-⭐ 311 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/wandb/wandbot) · [官网](https://www.wandb.ai/site) · 组织维护
+⭐ 312 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/wandb/wandbot) · [官网](https://www.wandb.ai/site) · 组织维护
 
 **Weights & Biases 官方的 RAG 技术支持问答机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wandb/wandbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 309 --> 312
-    line [310, 311]
+    title "wandb/wandbot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 309 --> 313
+    line [310, 311, 310, 312, 312]
 ```
 
-2026-10-18 310 → 2026-11-02 311（+1）
+2026-10-18 310 → 2026-11-17 312（+2）
 
 
 ---

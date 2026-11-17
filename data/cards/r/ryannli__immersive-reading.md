@@ -1,6 +1,6 @@
 # ryannli/immersive-reading
 
-⭐ 48 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ryannli/immersive-reading) · [官网](https://x.com/ranli_thinker/status/2071738620860682365) · 个人维护
+⭐ 49 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ryannli/immersive-reading) · [官网](https://x.com/ranli_thinker/status/2071738620860682365) · 个人维护
 
 **把长文/论文变成沉浸式阅读学习空间的 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryannli/immersive-reading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    title "ryannli/immersive-reading 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 49, 49]
 ```
 
-2026-10-18 47 → 2026-11-02 48（+1）
+2026-10-18 47 → 2026-11-17 49（+2）
 
 
 ---

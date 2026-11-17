@@ -1,6 +1,6 @@
 # air-xvc/orca-guide
 
-⭐ 18 · CSS · MIT · 推送 2026-07-26 · [GitHub](https://github.com/air-xvc/orca-guide) · [官网](https://guide.rtxk.us) · 个人维护 · 中文 README
+⭐ 23 · CSS · MIT · 推送 2026-07-26 · [GitHub](https://github.com/air-xvc/orca-guide) · [官网](https://guide.rtxk.us) · 个人维护 · 中文 README
 
 **社区编写的 Orca 中文使用指南：讲如何用 Orca 并行指挥 AI 编程 Agent**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "air-xvc/orca-guide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 14, 17, 18, 18]
+    title "air-xvc/orca-guide 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 24
+    line [12, 13, 14, 17, 18, 17, 22, 23, 23]
 ```
 
-2026-10-18 12 → 2026-11-02 18（+6）
+2026-10-18 12 → 2026-11-17 23（+11）
 
 
 ---

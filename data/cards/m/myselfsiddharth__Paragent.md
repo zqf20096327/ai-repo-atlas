@@ -1,6 +1,6 @@
 # myselfsiddharth/Paragent
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/myselfsiddharth/Paragent) · [官网](https://www.npmjs.com/package/paragent) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/myselfsiddharth/Paragent) · [官网](https://www.npmjs.com/package/paragent) · 个人维护
 
 **浏览器任务的录制-回放执行层：回放无需模型，失败时模型修复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "myselfsiddharth/Paragent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

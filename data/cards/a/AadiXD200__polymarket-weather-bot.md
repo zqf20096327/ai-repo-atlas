@@ -1,6 +1,6 @@
 # AadiXD200/polymarket-weather-bot
 
-⭐ 14 · Python · 推送 2026-04-05 · [GitHub](https://github.com/AadiXD200/polymarket-weather-bot) · 个人维护
+⭐ 15 · Python · 推送 2026-04-05 · [GitHub](https://github.com/AadiXD200/polymarket-weather-bot) · 个人维护
 
 **Polymarket 天气衍生品市场的自动量化交易机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AadiXD200/polymarket-weather-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "AadiXD200/polymarket-weather-bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

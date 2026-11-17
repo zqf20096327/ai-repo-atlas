@@ -1,6 +1,6 @@
 # fabiojbg/LLMApiGateway
 
-⭐ 27 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/fabiojbg/LLMApiGateway) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/fabiojbg/LLMApiGateway) · 个人维护
 
 **个人自托管的容错 LLM 网关：统一接入多家 OpenAI 兼容提供商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabiojbg/LLMApiGateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "fabiojbg/LLMApiGateway 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

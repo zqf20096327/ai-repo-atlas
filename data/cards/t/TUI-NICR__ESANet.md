@@ -1,6 +1,6 @@
 # TUI-NICR/ESANet
 
-⭐ 281 · Python · Apache-2.0 · 推送 2026-01-01 · [GitHub](https://github.com/TUI-NICR/ESANet) · 组织维护
+⭐ 282 · Python · Apache-2.0 · 推送 2026-01-01 · [GitHub](https://github.com/TUI-NICR/ESANet) · 组织维护
 
 **面向移动机器人的高效 RGB-D 室内语义分割网络**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "TUI-NICR/ESANet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 280 --> 282
-    line [281, 281]
+    title "TUI-NICR/ESANet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 280 --> 283
+    line [281, 282, 282]
 ```
 
-2026-10-18 281 → 2026-11-02 281（+0）
+2026-10-18 281 → 2026-11-17 282（+1）
 
 
 ---

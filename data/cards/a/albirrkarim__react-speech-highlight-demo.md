@@ -1,6 +1,6 @@
 # albirrkarim/react-speech-highlight-demo
 
-⭐ 190 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/albirrkarim/react-speech-highlight-demo) · [官网](https://react-speech-highlight.vercel.app) · 个人维护
+⭐ 189 · JavaScript · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/albirrkarim/react-speech-highlight-demo) · [官网](https://react-speech-highlight.vercel.app) · 个人维护
 
 **网页端 TTS 朗读与逐词/逐句高亮同步的前端库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "albirrkarim/react-speech-highlight-demo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "albirrkarim/react-speech-highlight-demo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 188 --> 191
-    line [189, 190, 190]
+    line [189, 190, 189, 189]
 ```
 
-2026-10-18 189 → 2026-11-02 190（+1）
+2026-10-18 189 → 2026-11-17 189（+0）
 
 
 ---

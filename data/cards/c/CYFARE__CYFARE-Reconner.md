@@ -1,6 +1,6 @@
 # CYFARE/CYFARE-Reconner
 
-⭐ 12 · JavaScript · GPL-3.0 · 推送 2025-11-14 · [GitHub](https://github.com/CYFARE/CYFARE-Reconner) · [官网](https://cyfare.net/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向安全测试的 Firefox 链接侦察浏览器扩展**
 
@@ -11,7 +11,7 @@ CYFARE-Reconner 是一款 Firefox 浏览器扩展（版本 3），面向安全�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ CYFARE-Reconner 是一款 Firefox 浏览器扩展（版本 3），面向安全�
 ```mermaid
 xychart-beta
     title "CYFARE/CYFARE-Reconner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-08 12（+0）
 
 
 ---

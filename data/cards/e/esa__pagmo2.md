@@ -1,6 +1,6 @@
 # esa/pagmo2
 
-⭐ 938 · C++ · GPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/esa/pagmo2) · [官网](https://esa.github.io/pagmo2/) · 组织维护
+⭐ 941 · C++ · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/esa/pagmo2) · [官网](https://esa.github.io/pagmo2/) · 组织维护
 
 **ESA 维护的 C++ 大规模并行优化科学计算库**
 
@@ -44,13 +44,13 @@ pagmo2 是 C++ 科学库，提供优化算法与优化问题的统一接口，�
 
 ```mermaid
 xychart-beta
-    title "esa/pagmo2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 937 --> 939
-    line [938, 938]
+    title "esa/pagmo2 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 937 --> 942
+    line [938, 939, 940, 941, 941]
 ```
 
-2026-10-18 938 → 2026-11-02 938（+0）
+2026-10-18 938 → 2026-11-17 941（+3）
 
 
 ---

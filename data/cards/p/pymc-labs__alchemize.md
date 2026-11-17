@@ -1,6 +1,6 @@
 # pymc-labs/alchemize
 
-⭐ 51 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pymc-labs/alchemize) · 组织维护
+⭐ 53 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pymc-labs/alchemize) · 组织维护
 
 **LLM 驱动的计算模型自纠错转译器：PyMC/Stan/JAX/PyTorch/Rust 互转**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pymc-labs/alchemize 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [52, 51, 51]
+    title "pymc-labs/alchemize 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [52, 51, 52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 51（-1）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

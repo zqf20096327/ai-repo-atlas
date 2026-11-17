@@ -1,6 +1,6 @@
 # dswah/pyGAM
 
-⭐ 1,023 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/dswah/pyGAM) · [官网](https://pygam.readthedocs.io) · 个人维护
+⭐ 1,024 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/dswah/pyGAM) · [官网](https://pygam.readthedocs.io) · 个人维护
 
 **Python 广义可加模型（GAM）建模库：拟合可解释非线性模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dswah/pyGAM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1020 --> 1024
-    line [1021, 1023, 1023]
+    title "dswah/pyGAM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1020 --> 1025
+    line [1021, 1023, 1021, 1023, 1024, 1024]
 ```
 
-2026-10-18 1,021 → 2026-11-02 1,023（+2）
+2026-10-18 1,021 → 2026-11-17 1,024（+3）
 
 
 ---

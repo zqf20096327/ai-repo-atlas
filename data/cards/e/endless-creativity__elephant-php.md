@@ -1,6 +1,6 @@
 # endless-creativity/elephant-php
 
-⭐ 14 · PHP · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/endless-creativity/elephant-php) · 个人维护
+⭐ 15 · PHP · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/endless-creativity/elephant-php) · 个人维护
 
 **纯 PHP 的 .docx 转 Markdown/语义 HTML 转换库，供 RAG/索引管线用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "endless-creativity/elephant-php 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "endless-creativity/elephant-php 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

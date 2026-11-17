@@ -1,6 +1,6 @@
 # alibaba/InferSim
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/InferSim) · 组织维护 · 中文 README
+⭐ 105 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/InferSim) · 组织维护 · 中文 README
 
 **面向 LLM 推理的性能模拟器：按 FLOPs/带宽/MFU 预估 TTFT/TPOT/TGS**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/InferSim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    title "alibaba/InferSim 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 102 --> 106
+    line [103, 104, 105, 105]
 ```
 
-2026-10-18 103 → 2026-11-02 103（+0）
+2026-10-18 103 → 2026-11-17 105（+2）
 
 
 ---

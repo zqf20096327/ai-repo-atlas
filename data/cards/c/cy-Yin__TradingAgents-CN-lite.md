@@ -1,6 +1,6 @@
 # cy-Yin/TradingAgents-CN-lite
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/cy-Yin/TradingAgents-CN-lite) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/cy-Yin/TradingAgents-CN-lite) · 个人维护 · 中文 README
 
 **多智能体股票分析框架：输入代码与日期，输出买卖建议与报告**
 
@@ -45,13 +45,13 @@ TauricResearch/TradingAgents 的轻量 fork，保留 CLI 架构并新增 A 股�
 
 ```mermaid
 xychart-beta
-    title "cy-Yin/TradingAgents-CN-lite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "cy-Yin/TradingAgents-CN-lite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

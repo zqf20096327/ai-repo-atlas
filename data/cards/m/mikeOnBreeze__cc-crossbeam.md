@@ -1,6 +1,6 @@
 # mikeOnBreeze/cc-crossbeam
 
-⭐ 297 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mikeOnBreeze/cc-crossbeam) · [官网](https://www.crossbeam-permits.com) · 个人维护
+⭐ 298 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mikeOnBreeze/cc-crossbeam) · [官网](https://www.crossbeam-permits.com) · 个人维护
 
 **面向加州 ADU 许可的 AI 审图助手：读图纸、解读整改函、生成答复包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeOnBreeze/cc-crossbeam 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 295 --> 298
-    line [296, 297, 297]
+    title "mikeOnBreeze/cc-crossbeam 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 295 --> 299
+    line [296, 297, 298, 297, 298, 298]
 ```
 
-2026-10-18 296 → 2026-11-02 297（+1）
+2026-10-18 296 → 2026-11-17 298（+2）
 
 
 ---

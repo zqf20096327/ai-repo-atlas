@@ -1,6 +1,6 @@
 # loomle/loomle
 
-⭐ 13 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/loomle/loomle) · [官网](https://loomle.ai) · 组织维护
+⭐ 14 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/loomle/loomle) · [官网](https://loomle.ai) · 组织维护
 
 **让 AI agent 读写 Unreal 编辑器对象的 MCP 工具链（SAL）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "loomle/loomle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "loomle/loomle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

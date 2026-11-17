@@ -1,6 +1,6 @@
 # SiriusNEO/StarAgent
 
-⭐ 62 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/SiriusNEO/StarAgent) · 个人维护 · 中文 README
+⭐ 63 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/SiriusNEO/StarAgent) · 个人维护 · 中文 README
 
 **本地优先的编码 Agent 会话启动器与多节点管理面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SiriusNEO/StarAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "SiriusNEO/StarAgent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 63, 63]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 63（+2）
 
 
 ---

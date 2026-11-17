@@ -1,6 +1,6 @@
 # piratheon/ori
 
-⭐ 11 · C++ · GPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/piratheon/ori) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端优先的 Linux AI 助手：TUI 与 Web GUI 接入多模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "piratheon/ori 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "piratheon/ori 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-14 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SwissCore92/comfyui-telegram-suite
 
-⭐ 12 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/SwissCore92/comfyui-telegram-suite) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/SwissCore92/comfyui-telegram-suite) · 个人维护
 
 **ComfyUI 节点套件：把生成结果通过 Telegram Bot 发送**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SwissCore92/comfyui-telegram-suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "SwissCore92/comfyui-telegram-suite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

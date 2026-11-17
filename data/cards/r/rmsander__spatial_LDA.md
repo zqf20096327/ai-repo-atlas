@@ -1,6 +1,6 @@
 # rmsander/spatial_LDA
 
-⭐ 15 · Python · 推送 2026-10-20 · [GitHub](https://github.com/rmsander/spatial_LDA) · 组织维护
+⭐ 15 · Python · 推送 2026-11-14 · [GitHub](https://github.com/rmsander/spatial_LDA) · 组织维护
 
 **无监督图像聚类研究代码：LDA+SIFT+CNN 特征自动归类图片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rmsander/spatial_LDA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 14 --> 17
     line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

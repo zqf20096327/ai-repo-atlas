@@ -1,6 +1,6 @@
 # presmihaylov/openchatter
 
-⭐ 33 · Go · 推送 2026-10-30 · [GitHub](https://github.com/presmihaylov/openchatter) · [官网](openchatter.ai) · 个人维护
+⭐ 35 · Go · 推送 2026-11-04 · [GitHub](https://github.com/presmihaylov/openchatter) · [官网](openchatter.ai) · 个人维护
 
 **供 AI agent 团队与运维者协作的 Slack 式聊天服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "presmihaylov/openchatter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    title "presmihaylov/openchatter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 33, 31, 33, 35, 35]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 35（+4）
 
 
 ---

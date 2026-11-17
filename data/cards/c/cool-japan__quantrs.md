@@ -1,6 +1,6 @@
 # cool-japan/quantrs
 
-⭐ 18 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/cool-japan/quantrs) · 组织维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/cool-japan/quantrs) · 组织维护
 
 **纯 Rust 量子计算框架：量子模拟、算法与硬件接入**
 
@@ -45,13 +45,13 @@ QuantRS2 是以 11 个 crate 组成的 Rust 量子计算工作区，覆盖量子
 
 ```mermaid
 xychart-beta
-    title "cool-japan/quantrs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "cool-japan/quantrs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

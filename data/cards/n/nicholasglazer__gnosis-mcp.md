@@ -1,6 +1,6 @@
 # nicholasglazer/gnosis-mcp
 
-⭐ 30 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nicholasglazer/gnosis-mcp) · [官网](https://gnosismcp.com) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nicholasglazer/gnosis-mcp) · [官网](https://gnosismcp.com) · 个人维护
 
 **零配置的本地文档搜索 MCP 服务器，供 AI agent 检索自有文档**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicholasglazer/gnosis-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "nicholasglazer/gnosis-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vincenzo-afk/CraftUI
 
-⭐ 38 · JavaScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/vincenzo-afk/CraftUI) · [官网](https://craft-ui-swart.vercel.app) · 个人维护
+⭐ 39 · JavaScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/vincenzo-afk/CraftUI) · [官网](https://craft-ui-swart.vercel.app) · 个人维护
 
 **浏览器端 UI 组件试验场：实时调参预览并导出 HTML/CSS**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vincenzo-afk/CraftUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "vincenzo-afk/CraftUI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

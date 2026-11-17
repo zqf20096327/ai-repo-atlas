@@ -1,6 +1,6 @@
 # openai/role-specific-plugins
 
-⭐ 560 · 推送 2026-09-30 · [GitHub](https://github.com/openai/role-specific-plugins) · 组织维护
+⭐ 564 · 推送 2026-09-30 · [GitHub](https://github.com/openai/role-specific-plugins) · 组织维护
 
 **面向 Codex 的角色专用插件模板仓库（占位）**
 
@@ -40,13 +40,13 @@ openai 名下的 Role-Specific Plugins 仓库，README 仅说明这是即将推�
 
 ```mermaid
 xychart-beta
-    title "openai/role-specific-plugins 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 556 --> 561
-    line [558, 557, 559, 560, 560]
+    title "openai/role-specific-plugins 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 556 --> 565
+    line [558, 557, 559, 560, 559, 561, 563, 564, 564]
 ```
 
-2026-10-18 558 → 2026-11-02 560（+2）
+2026-10-18 558 → 2026-11-17 564（+6）
 
 
 ---

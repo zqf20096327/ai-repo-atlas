@@ -1,6 +1,6 @@
 # merchantprotocol/sulla-desktop
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/merchantprotocol/sulla-desktop) · [官网](https://sulladesktop.com) · 组织维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/merchantprotocol/sulla-desktop) · [官网](https://sulladesktop.com) · 组织维护
 
 **运行在本机的 AI 执行助理桌面应用，按自然语言构建并定时运行自动化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "merchantprotocol/sulla-desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "merchantprotocol/sulla-desktop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

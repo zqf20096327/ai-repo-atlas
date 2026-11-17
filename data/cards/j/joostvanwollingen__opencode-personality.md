@@ -1,6 +1,6 @@
 # joostvanwollingen/opencode-personality
 
-⭐ 36 · TypeScript · MIT · 推送 2026-02-23 · [GitHub](https://github.com/joostvanwollingen/opencode-personality) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-02-23 · [GitHub](https://github.com/joostvanwollingen/opencode-personality) · 个人维护
 
 **为 OpenCode 助手配置多性格与心情状态的插件**
 
@@ -44,13 +44,13 @@ OpenCode 编辑器的第三方插件，通过 JSON 配置文件定义多个性�
 
 ```mermaid
 xychart-beta
-    title "joostvanwollingen/opencode-personality 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "joostvanwollingen/opencode-personality 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

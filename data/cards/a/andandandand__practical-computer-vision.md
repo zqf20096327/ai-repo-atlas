@@ -1,6 +1,6 @@
 # andandandand/practical-computer-vision
 
-⭐ 205 · Jupyter Notebook · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/andandandand/practical-computer-vision) · 个人维护
+⭐ 204 · Jupyter Notebook · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/andandandand/practical-computer-vision) · 个人维护
 
 **计算机视觉动手教程仓库：notebook+测验+视频课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andandandand/practical-computer-vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 204 --> 206
-    line [205, 205]
+    title "andandandand/practical-computer-vision 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 203 --> 206
+    line [205, 204, 204]
 ```
 
-2026-10-18 205 → 2026-11-02 205（+0）
+2026-10-18 205 → 2026-11-17 204（-1）
 
 
 ---

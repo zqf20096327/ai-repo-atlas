@@ -1,6 +1,6 @@
 # TheUncharted/zapcode
 
-⭐ 94 · Rust · MIT · 推送 2026-08-29 · [GitHub](https://github.com/TheUncharted/zapcode) · 组织维护
+⭐ 99 · Rust · MIT · 推送 2026-08-29 · [GitHub](https://github.com/TheUncharted/zapcode) · 组织维护
 
 **供 AI agent 安全执行 TypeScript 代码的 Rust 解释器与沙箱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheUncharted/zapcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "TheUncharted/zapcode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 93 --> 100
+    line [94, 96, 97, 99, 99]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 99（+5）
 
 
 ---

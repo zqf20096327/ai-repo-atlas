@@ -1,6 +1,6 @@
 # RamziRebai/a-Realtime-Voice-to-Voice-Agentic-RAG-Application-using-LiveKit-and-Redis
 
-⭐ 23 · 推送 2025-11-08 · [GitHub](https://github.com/RamziRebai/a-Realtime-Voice-to-Voice-Agentic-RAG-Application-using-LiveKit-and-Redis) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **实时语音对话分析 PDF 的语音 Agent 应用（LiveKit+Redis）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RamziRebai/a-Realtime-Voice-to-Voice-Agentic-RAG-Application-using-LiveKit-and-Redis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-07 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NJUIS-Students/Resources
 
-⭐ 135 · HTML · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/NJUIS-Students/Resources) · [官网](https://njuis-students.github.io/) · 组织维护 · 中文 README
+⭐ 136 · HTML · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/NJUIS-Students/Resources) · [官网](https://njuis-students.github.io/) · 组织维护 · 中文 README
 
 **南京大学智能学院课程资料库：课件、试卷与笔记**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NJUIS-Students/Resources 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 128 --> 136
-    line [129, 130, 132, 133, 134, 135]
+    title "NJUIS-Students/Resources 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 128 --> 137
+    line [129, 130, 132, 133, 134, 135, 130, 135, 136, 136]
 ```
 
-2026-10-18 129 → 2026-11-02 135（+6）
+2026-10-18 129 → 2026-11-17 136（+7）
 
 
 ---

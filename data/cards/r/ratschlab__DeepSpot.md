@@ -1,6 +1,6 @@
 # ratschlab/DeepSpot
 
-⭐ 105 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ratschlab/DeepSpot) · [官网](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) · 组织维护
+⭐ 106 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ratschlab/DeepSpot) · [官网](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) · 组织维护
 
 **从 H&E 病理图像预测空间转录组的深度学习模型**
 
@@ -44,13 +44,13 @@ DeepSpot 是一个深度学习模型与 Python 工具包，从 H&E 组织病理�
 
 ```mermaid
 xychart-beta
-    title "ratschlab/DeepSpot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 102 --> 106
-    line [103, 104, 105, 105]
+    title "ratschlab/DeepSpot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 102 --> 107
+    line [103, 104, 105, 103, 105, 106, 106]
 ```
 
-2026-10-18 103 → 2026-11-02 105（+2）
+2026-10-18 103 → 2026-11-17 106（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # shijue-aid/aid-studio
 
-⭐ 1,243 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shijue-aid/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
+⭐ 1,447 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shijue-aid/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
 
 **自托管的 AI 漫剧/短剧/电影与漫画创作平台**
 
@@ -40,6 +40,18 @@
 > L5: **AID Studio is an open-source AI motion comic creation platform for AI short dramas, films and comics, with an end-
 > L43: - **Complete creative workflow**: Organize scripts, characters, scenes, storyboards, images, videos and voiceovers 
 > L54: AID focuses on **AI motion comics and short dramas**, and also supports cinematic short films and static comics. Cr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shijue-aid/aid-studio 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1223 --> 1467
+    line [1243, 1353, 1374, 1394, 1404, 1413, 1429, 1434, 1447, 1447]
+```
+
+2026-11-02 1,243 → 2026-11-17 1,447（+204）
 
 
 ---

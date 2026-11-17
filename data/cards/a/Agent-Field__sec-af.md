@@ -1,6 +1,6 @@
 # Agent-Field/sec-af
 
-⭐ 200 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Agent-Field/sec-af) · [官网](https://agentfield.ai/) · 组织维护
+⭐ 200 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Agent-Field/sec-af) · [官网](https://agentfield.ai/) · 组织维护
 
 **面向开发者的 AI 代码安全审计工具：证明漏洞可利用性**
 
@@ -46,12 +46,12 @@ SEC-AF 是构建在 AgentField 编排框架上的 AI-native 静态代码安全�
 ```mermaid
 xychart-beta
     title "Agent-Field/sec-af 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 199 --> 202
     line [201, 200, 200]
 ```
 
-2026-10-18 201 → 2026-11-02 200（-1）
+2026-10-18 201 → 2026-11-17 200（-1）
 
 
 ---

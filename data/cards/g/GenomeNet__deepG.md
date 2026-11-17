@@ -1,6 +1,6 @@
 # GenomeNet/deepG
 
-⭐ 28 · R · 推送 2025-11-18 · [GitHub](https://github.com/GenomeNet/deepG) · [官网](https://deepg.de) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向基因组数据的 R 深度学习工具箱**
 
@@ -45,12 +45,12 @@ DeepG 是用于在基因组数据集上训练和应用深度神经网络的 R �
 ```mermaid
 xychart-beta
     title "GenomeNet/deepG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-13 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # LinearBoost/linearboost-classifier
 
-⭐ 231 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/LinearBoost/linearboost-classifier) · 组织维护
+⭐ 230 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/LinearBoost/linearboost-classifier) · 组织维护
 
 **基于线性分类器 SEFR 的 boosting 分类算法库**
 
@@ -44,13 +44,13 @@ Python 实现的机器学习分类算法包：LinearBoost 在线性分类器 SEF
 
 ```mermaid
 xychart-beta
-    title "LinearBoost/linearboost-classifier 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "LinearBoost/linearboost-classifier 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 229 --> 232
-    line [230, 231, 231]
+    line [230, 231, 230, 230]
 ```
 
-2026-10-18 230 → 2026-11-02 231（+1）
+2026-10-18 230 → 2026-11-17 230（+0）
 
 
 ---

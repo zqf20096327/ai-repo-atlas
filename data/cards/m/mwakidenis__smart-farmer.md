@@ -1,6 +1,6 @@
 # mwakidenis/smart-farmer
 
-⭐ 15 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/mwakidenis/smart-farmer) · [官网](https://shamba-smart-scan.vercel.app/) · 个人维护
+⭐ 15 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/mwakidenis/smart-farmer) · [官网](https://shamba-smart-scan.vercel.app/) · 个人维护
 
 **拍照诊断植物病害的 AI 平台，面向农民与园艺爱好者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mwakidenis/smart-farmer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

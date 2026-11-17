@@ -1,6 +1,6 @@
 # acorderob/sd-webui-prompt-postprocessor
 
-⭐ 55 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/acorderob/sd-webui-prompt-postprocessor) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/acorderob/sd-webui-prompt-postprocessor) · 个人维护
 
 **SD WebUI/ComfyUI 的提示词后处理扩展：通配符、变量、负迁移等**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "acorderob/sd-webui-prompt-postprocessor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "acorderob/sd-webui-prompt-postprocessor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [55, 54, 54]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 54（-1）
 
 
 ---

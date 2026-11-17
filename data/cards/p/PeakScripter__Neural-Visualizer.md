@@ -1,6 +1,6 @@
 # PeakScripter/Neural-Visualizer
 
-⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-04-26 · [GitHub](https://github.com/PeakScripter/Neural-Visualizer) · [官网](https://neural-visualizer-ruby.vercel.app/) · 个人维护
+⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-04-26 · [GitHub](https://github.com/PeakScripter/Neural-Visualizer) · [官网](https://neural-visualizer-ruby.vercel.app/) · 个人维护
 
 **在浏览器中构建、训练并可视化神经网络的教学 Web 应用**
 
@@ -45,13 +45,13 @@ React + FastAPI 架构的交互式深度学习可视化 Web 应用：支持搭�
 
 ```mermaid
 xychart-beta
-    title "PeakScripter/Neural-Visualizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "PeakScripter/Neural-Visualizer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

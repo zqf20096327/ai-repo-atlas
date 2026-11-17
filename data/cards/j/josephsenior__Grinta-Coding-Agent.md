@@ -1,6 +1,6 @@
 # josephsenior/Grinta-Coding-Agent
 
-⭐ 32 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/josephsenior/Grinta-Coding-Agent) · [官网](https://josephsenior.github.io/Grinta-Coding-Agent/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/josephsenior/Grinta-Coding-Agent) · [官网](https://josephsenior.github.io/Grinta-Coding-Agent/) · 个人维护
 
 **本地优先的自主编码代理，端到端完成长周期软件任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "josephsenior/Grinta-Coding-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "josephsenior/Grinta-Coding-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

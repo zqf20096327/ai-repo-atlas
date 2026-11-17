@@ -1,6 +1,6 @@
 # briwilcox/todoist-llm-assistant
 
-⭐ 22 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/briwilcox/todoist-llm-assistant) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/briwilcox/todoist-llm-assistant) · 个人维护
 
 **为 Todoist 任务生成 AI 完成建议的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "briwilcox/todoist-llm-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "briwilcox/todoist-llm-assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

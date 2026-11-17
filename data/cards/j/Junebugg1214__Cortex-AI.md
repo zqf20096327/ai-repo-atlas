@@ -1,6 +1,6 @@
 # Junebugg1214/Cortex-AI
 
-⭐ 14 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Junebugg1214/Cortex-AI) · [官网](http://cortex-ore.com/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Junebugg1214/Cortex-AI) · [官网](http://cortex-ore.com/) · 个人维护
 
 **给 AI agent 用的本地版本化记忆层，Git 式提交与 MCP 服务**
 
@@ -45,13 +45,13 @@ Cortex 是面向 AI agent 的本地记忆层：在磁盘上存储用户拥有的
 
 ```mermaid
 xychart-beta
-    title "Junebugg1214/Cortex-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "Junebugg1214/Cortex-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Lee985-cmd/AI-30-Day-Challenge
 
-⭐ 57 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Lee985-cmd/AI-30-Day-Challenge) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Lee985-cmd/AI-30-Day-Challenge) · 个人维护 · 中文 README
 
 **面向零基础学习者的 30 天 AI 入门教程与可运行项目合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lee985-cmd/AI-30-Day-Challenge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "Lee985-cmd/AI-30-Day-Challenge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 59, 60, 60]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 60（+3）
 
 
 ---

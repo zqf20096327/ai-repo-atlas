@@ -1,6 +1,6 @@
 # FlorianMarquardt/machine-learning-for-physicists
 
-⭐ 349 · Jupyter Notebook · 推送 2026-05-14 · [GitHub](https://github.com/FlorianMarquardt/machine-learning-for-physicists) · [官网](https://machine-learning-for-physicists.org/) · 组织维护
+⭐ 351 · Jupyter Notebook · 推送 2026-05-14 · [GitHub](https://github.com/FlorianMarquardt/machine-learning-for-physicists) · [官网](https://machine-learning-for-physicists.org/) · 组织维护
 
 **物理学家机器学习课程的教学代码集合**
 
@@ -42,13 +42,13 @@ Florian Marquardt 主讲课程《Machine Learning for Physicists》的配套代�
 
 ```mermaid
 xychart-beta
-    title "FlorianMarquardt/machine-learning-for-physicists 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 346 --> 350
-    line [347, 348, 349, 349]
+    title "FlorianMarquardt/machine-learning-for-physicists 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 346 --> 352
+    line [347, 348, 349, 350, 351, 351]
 ```
 
-2026-10-18 347 → 2026-11-02 349（+2）
+2026-10-18 347 → 2026-11-17 351（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # MaincodeHQ/mainarch
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/MaincodeHQ/mainarch) · 组织维护
+⭐ 26 · Rust · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/MaincodeHQ/mainarch) · 组织维护
 
 **从零编写的 AMD GPU Rust 推理栈：绕过 ROCm 直连内核驱动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaincodeHQ/mainarch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "MaincodeHQ/mainarch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # faramesh/faramesh-core
 
-⭐ 109 · Go · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/faramesh/faramesh-core) · [官网](https://docs.faramesh.dev/) · 组织维护
+⭐ 111 · Go · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/faramesh/faramesh-core) · [官网](https://docs.faramesh.dev/) · 组织维护
 
 **AI agent 工具调用的治理即代码层：声明式策略+本地守护进程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "faramesh/faramesh-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 107 --> 110
-    line [108, 109, 109]
+    title "faramesh/faramesh-core 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 107 --> 112
+    line [108, 109, 111, 111]
 ```
 
-2026-10-18 108 → 2026-11-02 109（+1）
+2026-10-18 108 → 2026-11-17 111（+3）
 
 
 ---

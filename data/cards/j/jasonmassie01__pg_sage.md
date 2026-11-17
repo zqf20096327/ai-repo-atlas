@@ -1,6 +1,6 @@
 # jasonmassie01/pg_sage
 
-⭐ 17 · Go · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/jasonmassie01/pg_sage) · 个人维护
+⭐ 17 · Go · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/jasonmassie01/pg_sage) · 个人维护
 
 **PostgreSQL 14-18 的 Agent 化 DBA：监控、分析并执行优化动作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jasonmassie01/pg_sage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

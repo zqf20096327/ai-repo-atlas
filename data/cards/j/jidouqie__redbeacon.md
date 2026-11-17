@@ -1,6 +1,6 @@
 # jidouqie/redbeacon
 
-⭐ 262 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jidouqie/redbeacon) · [官网](https://bytestaff.jiomig.com/market/redbeacon) · 组织维护 · 中文 README
+⭐ 255 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jidouqie/redbeacon) · [官网](https://bytestaff.jiomig.com/market/redbeacon) · 组织维护 · 中文 README
 
 **小红书运营数字员工：定位、选题、生成、审稿、发布全流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jidouqie/redbeacon 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 256 --> 263
-    line [261, 257, 258, 260, 262, 262]
+    title "jidouqie/redbeacon 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 253 --> 263
+    line [261, 257, 258, 260, 262, 257, 254, 255, 255]
 ```
 
-2026-10-18 261 → 2026-11-02 262（+1）
+2026-10-18 261 → 2026-11-17 255（-6）
 
 
 ---

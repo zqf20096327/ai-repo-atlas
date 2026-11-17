@@ -1,6 +1,6 @@
 # ericshang98/Perfect-Web-Clone
 
-⭐ 278 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/ericshang98/Perfect-Web-Clone) · 个人维护 · 中文 README
+⭐ 285 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/ericshang98/Perfect-Web-Clone) · 个人维护 · 中文 README
 
 **网页像素级克隆技能：输入 URL 生成带评分的 Vite+React 复刻**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ericshang98/Perfect-Web-Clone 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 272 --> 279
-    line [273, 274, 275, 276, 277, 278]
+    title "ericshang98/Perfect-Web-Clone 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 272 --> 286
+    line [273, 274, 275, 276, 277, 278, 275, 280, 281, 283, 285, 285]
 ```
 
-2026-10-18 273 → 2026-11-02 278（+5）
+2026-10-18 273 → 2026-11-17 285（+12）
 
 
 ---

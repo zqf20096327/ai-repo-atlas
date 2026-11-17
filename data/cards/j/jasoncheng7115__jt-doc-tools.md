@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-doc-tools
 
-⭐ 246 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
+⭐ 250 · HTML · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
 
 **自架开源的 PDF/Office 文件处理平台，含 52 种工具与可选 LLM 增强**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jasoncheng7115/jt-doc-tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 241 --> 247
-    line [242, 243, 244, 245, 246, 246]
+    title "jasoncheng7115/jt-doc-tools 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 241 --> 251
+    line [242, 243, 244, 245, 246, 245, 246, 247, 248, 250, 250]
 ```
 
-2026-10-18 242 → 2026-11-02 246（+4）
+2026-10-18 242 → 2026-11-17 250（+8）
 
 
 ---

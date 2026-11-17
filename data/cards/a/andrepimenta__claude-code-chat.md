@@ -1,6 +1,6 @@
 # andrepimenta/claude-code-chat
 
-⭐ 1,086 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/andrepimenta/claude-code-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) · 个人维护
+⭐ 1,087 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/andrepimenta/claude-code-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) · 个人维护
 
 **VS Code 扩展：为 Claude Code 提供图形化聊天界面**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 VS Code 扩展，为 Claude Code CLI 提供替代终端的�
 
 ```mermaid
 xychart-beta
-    title "andrepimenta/claude-code-chat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 1084 --> 1088
-    line [1085, 1086, 1087, 1086, 1086]
+    title "andrepimenta/claude-code-chat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1084 --> 1089
+    line [1085, 1086, 1087, 1086, 1088, 1087, 1087]
 ```
 
-2026-10-18 1,085 → 2026-11-02 1,086（+1）
+2026-10-18 1,085 → 2026-11-17 1,087（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # willxxy/awesome-mmps
 
-⭐ 168 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/willxxy/awesome-mmps) · 个人维护
+⭐ 169 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/willxxy/awesome-mmps) · 个人维护
 
 **生理信号多模态机器学习论文资源清单（EEG/ECG 等）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "willxxy/awesome-mmps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 166 --> 169
-    line [167, 168, 168]
+    title "willxxy/awesome-mmps 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 166 --> 170
+    line [167, 168, 169, 169]
 ```
 
-2026-10-18 167 → 2026-11-02 168（+1）
+2026-10-18 167 → 2026-11-17 169（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # gquthier/autonomous-shortform-facecam-editing
 
-⭐ 13 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/gquthier/autonomous-shortform-facecam-editing) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/gquthier/autonomous-shortform-facecam-editing) · 个人维护
 
 **Claude Code 技能：把一段口播视频自动做成成片广告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gquthier/autonomous-shortform-facecam-editing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "gquthier/autonomous-shortform-facecam-editing 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 15, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

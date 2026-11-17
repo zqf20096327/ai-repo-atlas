@@ -1,6 +1,6 @@
 # yzxingtu2026/novusai-saas
 
-⭐ 28 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yzxingtu2026/novusai-saas) · [官网](https://nvuai.cc) · 组织维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yzxingtu2026/novusai-saas) · [官网](https://nvuai.cc) · 组织维护 · 中文 README
 
 **面向二次开发的多租户 AI SaaS 开发框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yzxingtu2026/novusai-saas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    title "yzxingtu2026/novusai-saas 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 28, 27, 28, 29, 30, 30]
 ```
 
-2026-10-18 26 → 2026-11-02 28（+2）
+2026-10-18 26 → 2026-11-17 30（+4）
 
 
 ---

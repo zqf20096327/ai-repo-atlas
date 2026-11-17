@@ -1,6 +1,6 @@
 # claude-did-this/MCPControl
 
-⭐ 332 · TypeScript · MIT · 推送 2025-12-02 · [GitHub](https://github.com/claude-did-this/MCPControl) · 组织维护
+⭐ 335 · TypeScript · MIT · 推送 2025-12-02 · [GitHub](https://github.com/claude-did-this/MCPControl) · 组织维护
 
 **Windows 自动化 MCP 服务器：让 AI 模型控制鼠标键盘与屏幕**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "claude-did-this/MCPControl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 330 --> 333
-    line [331, 332, 332]
+    title "claude-did-this/MCPControl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 330 --> 336
+    line [331, 332, 331, 334, 335, 335]
 ```
 
-2026-10-18 331 → 2026-11-02 332（+1）
+2026-10-18 331 → 2026-11-17 335（+4）
 
 
 ---

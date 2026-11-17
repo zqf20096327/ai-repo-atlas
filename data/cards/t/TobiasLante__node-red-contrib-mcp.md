@@ -1,6 +1,6 @@
 # TobiasLante/node-red-contrib-mcp
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/TobiasLante/node-red-contrib-mcp) · 个人维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/TobiasLante/node-red-contrib-mcp) · 个人维护
 
 **Node-RED 的 MCP 节点包：可视化搭建连接 MCP 工具的 AI Agent**
 
@@ -46,13 +46,13 @@ npm 安装的 Node-RED 扩展节点包，提供 mcp server/mcp tool/mcp resource
 
 ```mermaid
 xychart-beta
-    title "TobiasLante/node-red-contrib-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "TobiasLante/node-red-contrib-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

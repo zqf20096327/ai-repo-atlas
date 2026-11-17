@@ -1,6 +1,6 @@
 # ESIPFed/Awesome-Earth-Artificial-Intelligence
 
-⭐ 252 · CC0-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) · 组织维护
+⭐ 255 · CC0-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) · 组织维护
 
 **地球科学 AI 资源策展清单：教程、软件、数据集与论文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ESIPFed/Awesome-Earth-Artificial-Intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 251 --> 253
-    line [252, 252]
+    title "ESIPFed/Awesome-Earth-Artificial-Intelligence 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 251 --> 256
+    line [252, 253, 255, 255]
 ```
 
-2026-10-18 252 → 2026-11-02 252（+0）
+2026-10-18 252 → 2026-11-17 255（+3）
 
 
 ---

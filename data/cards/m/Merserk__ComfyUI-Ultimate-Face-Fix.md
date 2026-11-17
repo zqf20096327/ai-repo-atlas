@@ -1,6 +1,6 @@
 # Merserk/ComfyUI-Ultimate-Face-Fix
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-07-21 · [GitHub](https://github.com/Merserk/ComfyUI-Ultimate-Face-Fix) · 个人维护
+⭐ 26 · Python · AGPL-3.0 · 推送 2026-07-21 · [GitHub](https://github.com/Merserk/ComfyUI-Ultimate-Face-Fix) · 个人维护
 
 **ComfyUI 人脸修复节点：检测裁剪人脸后用生成模型修复并回贴**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Merserk/ComfyUI-Ultimate-Face-Fix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "Merserk/ComfyUI-Ultimate-Face-Fix 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    line [26, 27, 26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

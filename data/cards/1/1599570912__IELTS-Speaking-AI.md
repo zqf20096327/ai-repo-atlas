@@ -1,6 +1,6 @@
 # 1599570912/IELTS-Speaking-AI
 
-⭐ 32 · JavaScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/1599570912/IELTS-Speaking-AI) · [官网](https://1599570912.github.io/IELTS-Speaking-AI/ielts-speaking-app-ai.html) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/1599570912/IELTS-Speaking-AI) · [官网](https://1599570912.github.io/IELTS-Speaking-AI/ielts-speaking-app-ai.html) · 个人维护 · 中文 README
 
 **浏览器端雅思口语练习应用：实时语音识别与四维评分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1599570912/IELTS-Speaking-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "1599570912/IELTS-Speaking-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

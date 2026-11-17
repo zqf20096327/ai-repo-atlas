@@ -1,6 +1,6 @@
 # CloudDefenseAI/secure-agents-md
 
-⭐ 13 · MIT · 推送 2026-05-19 · [GitHub](https://github.com/CloudDefenseAI/secure-agents-md) · 组织维护
+⭐ 14 · MIT · 推送 2026-05-19 · [GitHub](https://github.com/CloudDefenseAI/secure-agents-md) · 组织维护
 
 **给 AI 编码代理的安全工作协议模板：加固版 AGENTS.md**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CloudDefenseAI/secure-agents-md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "CloudDefenseAI/secure-agents-md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

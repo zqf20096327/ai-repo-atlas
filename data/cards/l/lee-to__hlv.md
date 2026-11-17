@@ -1,6 +1,6 @@
 # lee-to/hlv
 
-⭐ 82 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/lee-to/hlv) · [官网](https://hlv.cutcode.dev) · 个人维护
+⭐ 79 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/lee-to/hlv) · [官网](https://hlv.cutcode.dev) · 个人维护
 
 **校验 LLM 生成代码是否符合规格的 Rust 命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lee-to/hlv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    title "lee-to/hlv 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 78 --> 83
+    line [82, 81, 80, 79, 79]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-17 79（-3）
 
 
 ---

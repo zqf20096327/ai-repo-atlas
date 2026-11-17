@@ -1,6 +1,6 @@
 # incognite-lab/myGym
 
-⭐ 54 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/incognite-lab/myGym) · [官网](https://mygym.readthedocs.io/en/latest/) · 组织维护
+⭐ 55 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/incognite-lab/myGym) · [官网](https://mygym.readthedocs.io/en/latest/) · 组织维护
 
 **机器人操作/导航任务的强化学习仿真与训练工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "incognite-lab/myGym 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "incognite-lab/myGym 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 53 --> 56
-    line [55, 54, 54]
+    line [55, 54, 55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 54（-1）
+2026-10-18 55 → 2026-11-17 55（+0）
 
 
 ---

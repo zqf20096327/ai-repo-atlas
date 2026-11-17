@@ -44,13 +44,13 @@ TypeScript 原生（NestJS API + React/Vite SPA）的多智能体交易分析应
 
 ```mermaid
 xychart-beta
-    title "QuantiaAI/helm-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    title "QuantiaAI/helm-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 86 --> 89
+    line [88, 87, 88, 88]
 ```
 
-2026-10-18 88 → 2026-11-02 88（+0）
+2026-10-18 88 → 2026-11-17 88（+0）
 
 
 ---

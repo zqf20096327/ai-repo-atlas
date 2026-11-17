@@ -1,6 +1,6 @@
 # aomerk/tmux-claude-sessions
 
-⭐ 12 · Python · MIT · 推送 2026-02-22 · [GitHub](https://github.com/aomerk/tmux-claude-sessions) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-02-22 · [GitHub](https://github.com/aomerk/tmux-claude-sessions) · 个人维护
 
 **在 tmux 中浏览并恢复 Claude AI 会话的插件**
 
@@ -44,13 +44,13 @@ TPM 兼容的 tmux 插件，通过一键（Prefix + g）弹出浮窗列出所有
 
 ```mermaid
 xychart-beta
-    title "aomerk/tmux-claude-sessions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "aomerk/tmux-claude-sessions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [13, 12, 12]
+    line [13, 12, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 12（-1）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

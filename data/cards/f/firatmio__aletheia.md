@@ -1,6 +1,6 @@
 # firatmio/aletheia
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/firatmio/aletheia) · [官网](https://aletheia.firattunaarslan.me) · 个人维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/firatmio/aletheia) · [官网](https://aletheia.firattunaarslan.me) · 个人维护
 
 **面向编码 agent 的可验证记忆服务器，记忆附代码证据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "firatmio/aletheia 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 7 --> 17
-    line [8, 9, 13, 16, 16]
+    title "firatmio/aletheia 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 7 --> 19
+    line [8, 9, 13, 16, 8, 16, 18, 18]
 ```
 
-2026-10-25 8 → 2026-11-02 16（+8）
+2026-10-25 8 → 2026-11-17 18（+10）
 
 
 ---

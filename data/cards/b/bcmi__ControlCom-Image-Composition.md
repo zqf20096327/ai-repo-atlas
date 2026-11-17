@@ -1,6 +1,6 @@
 # bcmi/ControlCom-Image-Composition
 
-⭐ 186 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/bcmi/ControlCom-Image-Composition) · 组织维护 · 中文 README
+⭐ 186 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/bcmi/ControlCom-Image-Composition) · 组织维护 · 中文 README
 
 **基于扩散模型的可控图像合成模型，统一四种图像合成任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bcmi/ControlCom-Image-Composition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 185 --> 187
     line [186, 186]
 ```
 
-2026-10-18 186 → 2026-11-02 186（+0）
+2026-10-18 186 → 2026-11-17 186（+0）
 
 
 ---

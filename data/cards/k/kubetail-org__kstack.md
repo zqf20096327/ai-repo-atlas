@@ -1,6 +1,6 @@
 # kubetail-org/kstack
 
-⭐ 134 · Shell · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/kubetail-org/kstack) · [官网](https://kstack.sh) · 组织维护 · 中文 README
+⭐ 138 · Shell · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/kubetail-org/kstack) · [官网](https://kstack.sh) · 组织维护 · 中文 README
 
 **给 Claude Code 等 AI agent 的 K8s 监控与排障技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kubetail-org/kstack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 131 --> 135
-    line [132, 133, 134, 134]
+    title "kubetail-org/kstack 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 131 --> 139
+    line [132, 133, 134, 133, 134, 135, 136, 137, 138, 138]
 ```
 
-2026-10-18 132 → 2026-11-02 134（+2）
+2026-10-18 132 → 2026-11-17 138（+6）
 
 
 ---

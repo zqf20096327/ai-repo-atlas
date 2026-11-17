@@ -1,6 +1,6 @@
 # VaporTang/yolo-vision-pipeline-rknn
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/VaporTang/yolo-vision-pipeline-rknn) · 个人维护 · 中文 README
+⭐ 51 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/VaporTang/yolo-vision-pipeline-rknn) · 个人维护 · 中文 README
 
 **面向瑞芯微 NPU 的 YOLOv8 训练-导出-转换一体化流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VaporTang/yolo-vision-pipeline-rknn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "VaporTang/yolo-vision-pipeline-rknn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # rocopolas/FemtoBot
 
-⭐ 24 · Python · 推送 2026-03-04 · [GitHub](https://github.com/rocopolas/FemtoBot) · 个人维护
+⭐ 25 · Python · 推送 2026-03-04 · [GitHub](https://github.com/rocopolas/FemtoBot) · 个人维护
 
 **面向小型本地模型的个人 AI 助手，提供 Telegram 机器人与 TUI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rocopolas/FemtoBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "rocopolas/FemtoBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

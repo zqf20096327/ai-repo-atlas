@@ -1,6 +1,6 @@
 # CorvusCodex/LotteryAi
 
-⭐ 157 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/CorvusCodex/LotteryAi) · 个人维护
+⭐ 158 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/CorvusCodex/LotteryAi) · 个人维护
 
 **用机器学习预测彩票号码的 Python 脚本，附带付费预测服务**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "CorvusCodex/LotteryAi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 155 --> 158
-    line [157, 156, 157, 157]
+    title "CorvusCodex/LotteryAi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 155 --> 159
+    line [157, 156, 157, 156, 158, 158]
 ```
 
-2026-10-18 157 → 2026-11-02 157（+0）
+2026-10-18 157 → 2026-11-17 158（+1）
 
 
 ---

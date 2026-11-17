@@ -1,6 +1,6 @@
 # RobotFlow-Labs/gsplat-mlx
 
-⭐ 21 · Python · 推送 2026-03-15 · [GitHub](https://github.com/RobotFlow-Labs/gsplat-mlx) · [官网](https://robotflowlabs.com/) · 组织维护
+⭐ 22 · Python · 推送 2026-03-15 · [GitHub](https://github.com/RobotFlow-Labs/gsplat-mlx) · [官网](https://robotflowlabs.com/) · 组织维护
 
 **gsplat 的 MLX 移植：在 Apple Silicon 上原生运行 3DGS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobotFlow-Labs/gsplat-mlx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "RobotFlow-Labs/gsplat-mlx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

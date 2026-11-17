@@ -1,6 +1,6 @@
 # hacrex/Hack-Under-Root
 
-⭐ 34 · HTML · 推送 2026-06-28 · [GitHub](https://github.com/hacrex/Hack-Under-Root) · [官网](http://hackunderroot.blogspot.in/) · 组织维护
+⭐ 33 · HTML · 推送 2026-06-28 · [GitHub](https://github.com/hacrex/Hack-Under-Root) · [官网](http://hackunderroot.blogspot.in/) · 组织维护
 
 **十年技术演进档案库：支撑网络安全/Linux/AI/DevSecOps 博客**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hacrex/Hack-Under-Root 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "hacrex/Hack-Under-Root 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    line [33, 34, 33, 34, 33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

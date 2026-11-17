@@ -1,6 +1,6 @@
 # lucidrains/HS-TasNet
 
-⭐ 113 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lucidrains/HS-TasNet) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lucidrains/HS-TasNet) · 个人维护
 
 **HS-TasNet 音乐源分离模型的 PyTorch 实现**
 
@@ -44,13 +44,13 @@ L-Acoustics 研究团队论文 'Real-time Low-latency Music Source Separation us
 
 ```mermaid
 xychart-beta
-    title "lucidrains/HS-TasNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 111 --> 114
-    line [113, 112, 113, 113]
+    title "lucidrains/HS-TasNet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 111 --> 116
+    line [113, 112, 113, 112, 114, 115, 115]
 ```
 
-2026-10-18 113 → 2026-11-02 113（+0）
+2026-10-18 113 → 2026-11-17 115（+2）
 
 
 ---

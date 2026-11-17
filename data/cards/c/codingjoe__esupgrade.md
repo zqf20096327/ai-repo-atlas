@@ -1,6 +1,6 @@
 # codingjoe/esupgrade
 
-⭐ 15 · JavaScript · BSD-2-Clause · 推送 2026-10-27 · [GitHub](https://github.com/codingjoe/esupgrade) · 个人维护
+⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/codingjoe/esupgrade) · 个人维护
 
 **面向 JavaScript/TypeScript 开发者的语法自动升级工具**
 
@@ -11,7 +11,7 @@ esupgrade 是一个自动重写 JavaScript/TypeScript 语法的 CLI 工具：基
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-2-Clause |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ esupgrade 是一个自动重写 JavaScript/TypeScript 语法的 CLI 工具：基
 ```mermaid
 xychart-beta
     title "codingjoe/esupgrade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

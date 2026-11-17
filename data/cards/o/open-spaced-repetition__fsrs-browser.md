@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs-browser
 
-⭐ 57 · Rust · BSD-3-Clause · 推送 2026-06-14 · [GitHub](https://github.com/open-spaced-repetition/fsrs-browser) · [官网](https://www.npmjs.com/package/fsrs-browser) · 组织维护
+⭐ 59 · Rust · BSD-3-Clause · 推送 2026-06-14 · [GitHub](https://github.com/open-spaced-repetition/fsrs-browser) · [官网](https://www.npmjs.com/package/fsrs-browser) · 组织维护
 
 **在浏览器中运行 FSRS 间隔重复算法并训练参数的 WASM 库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/fsrs-browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "open-spaced-repetition/fsrs-browser 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

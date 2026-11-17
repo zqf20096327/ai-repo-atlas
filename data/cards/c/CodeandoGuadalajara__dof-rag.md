@@ -1,6 +1,6 @@
 # CodeandoGuadalajara/dof-rag
 
-⭐ 25 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/CodeandoGuadalajara/dof-rag) · [官网](https://codeandoguadalajara.github.io/dof-rag-website/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/CodeandoGuadalajara/dof-rag) · [官网](https://codeandoguadalajara.github.io/dof-rag-website/) · 组织维护
 
 **墨西哥联邦公报（DOF）的 RAG 聊天与检索问答系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CodeandoGuadalajara/dof-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

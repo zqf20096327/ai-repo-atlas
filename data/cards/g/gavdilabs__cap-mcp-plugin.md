@@ -1,6 +1,6 @@
 # gavdilabs/cap-mcp-plugin
 
-⭐ 61 · TypeScript · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/gavdilabs/cap-mcp-plugin) · 组织维护
+⭐ 61 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/gavdilabs/cap-mcp-plugin) · 组织维护
 
 **从 CAP 服务自动生成 MCP server 的 NodeJS 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gavdilabs/cap-mcp-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 61（+0）
 
 
 ---

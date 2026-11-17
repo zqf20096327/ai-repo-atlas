@@ -1,6 +1,6 @@
 # Kraken-CI/kraken
 
-⭐ 160 · Python · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/Kraken-CI/kraken) · [官网](https://kraken.ci/) · 组织维护
+⭐ 159 · Python · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/Kraken-CI/kraken) · [官网](https://kraken.ci/) · 组织维护
 
 **开源、可本地部署、面向测试的 CI/CD 持续集成系统**
 
@@ -41,13 +41,13 @@ Kraken CI 是一个开源自托管的 CI/CD 系统，定位为高可扩展并聚
 
 ```mermaid
 xychart-beta
-    title "Kraken-CI/kraken 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 159 --> 161
-    line [160, 160]
+    title "Kraken-CI/kraken 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 158 --> 161
+    line [160, 159, 159]
 ```
 
-2026-10-18 160 → 2026-11-02 160（+0）
+2026-10-18 160 → 2026-11-17 159（-1）
 
 
 ---

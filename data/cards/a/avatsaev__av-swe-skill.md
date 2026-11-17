@@ -1,6 +1,6 @@
 # avatsaev/av-swe-skill
 
-⭐ 17 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/avatsaev/av-swe-skill) · 个人维护
+⭐ 19 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/avatsaev/av-swe-skill) · 个人维护
 
 **让编码 Agent 按版本化任务计划执行大规模软件工程的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "avatsaev/av-swe-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [16, 15, 16, 17, 17]
+    title "avatsaev/av-swe-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 20
+    line [16, 15, 16, 17, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

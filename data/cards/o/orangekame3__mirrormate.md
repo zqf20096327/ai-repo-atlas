@@ -1,6 +1,6 @@
 # orangekame3/mirrormate
 
-⭐ 495 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/orangekame3/mirrormate) · [官网](https://orangekame3.dev/mirrormate/) · 个人维护
+⭐ 496 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/orangekame3/mirrormate) · [官网](https://orangekame3.dev/mirrormate/) · 个人维护
 
 **自托管的语音优先智能镜 AI 助手，可全本地运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "orangekame3/mirrormate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 493 --> 496
-    line [495, 494, 495, 495]
+    title "orangekame3/mirrormate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 493 --> 497
+    line [495, 494, 495, 496, 496]
 ```
 
-2026-10-18 495 → 2026-11-02 495（+0）
+2026-10-18 495 → 2026-11-17 496（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jacke-pp/ai-wallet-binance
 
-⭐ 310 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jacke-pp/ai-wallet-binance) · [官网](https://www.npmjs.com/package/ai-wallet-binance) · 个人维护 · 中文 README
+⭐ 308 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jacke-pp/ai-wallet-binance) · [官网](https://www.npmjs.com/package/ai-wallet-binance) · 个人维护 · 中文 README
 
 **让 AI 通过币安 Agentic Wallet 代为链上交易的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jacke-pp/ai-wallet-binance 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
+    title "jacke-pp/ai-wallet-binance 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
     y-axis "stars" 0 --> 340
-    line [3, 95, 121, 148, 198, 259, 307, 310]
+    line [3, 95, 121, 148, 198, 259, 307, 310, 308, 308]
 ```
 
-2026-10-26 3 → 2026-11-02 310（+307）
+2026-10-26 3 → 2026-11-17 308（+305）
 
 
 ---

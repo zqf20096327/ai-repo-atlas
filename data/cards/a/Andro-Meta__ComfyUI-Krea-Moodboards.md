@@ -1,6 +1,6 @@
 # Andro-Meta/ComfyUI-Krea-Moodboards
 
-⭐ 20 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/Andro-Meta/ComfyUI-Krea-Moodboards) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/Andro-Meta/ComfyUI-Krea-Moodboards) · 个人维护
 
 **给 ComfyUI 用户的 Krea 风格情绪板提示词搜索与应用节点包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Andro-Meta/ComfyUI-Krea-Moodboards 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "Andro-Meta/ComfyUI-Krea-Moodboards 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

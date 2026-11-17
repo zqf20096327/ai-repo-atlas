@@ -1,6 +1,6 @@
 # Agent360dk/browser-mcp
 
-⭐ 61 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Agent360dk/browser-mcp) · [官网](https://browsermcp.dev) · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Agent360dk/browser-mcp) · [官网](https://browsermcp.dev) · 组织维护
 
 **让 AI agent 操控你已登录 Chrome 的 MCP 工具，遇 2FA/CAPTCHA 可暂停询问**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agent360dk/browser-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 55 --> 62
-    line [56, 58, 59, 60, 61]
+    title "Agent360dk/browser-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 55 --> 65
+    line [56, 58, 59, 60, 61, 59, 62, 63, 62, 64, 64]
 ```
 
-2026-10-18 56 → 2026-11-02 61（+5）
+2026-10-18 56 → 2026-11-17 64（+8）
 
 
 ---

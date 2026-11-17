@@ -1,6 +1,6 @@
 # rigvedrs/RAGIndex
 
-⭐ 18 · Python · 推送 2025-12-07 · [GitHub](https://github.com/rigvedrs/RAGIndex) · 个人维护
+⭐ 19 · Python · 推送 2025-12-07 · [GitHub](https://github.com/rigvedrs/RAGIndex) · 个人维护
 
 **基于 LlamaIndex 的文档问答应用：PDF/DOCX/TXT 上传即问即答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rigvedrs/RAGIndex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "rigvedrs/RAGIndex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

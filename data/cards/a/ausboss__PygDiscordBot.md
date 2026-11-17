@@ -1,6 +1,6 @@
 # ausboss/PygDiscordBot
 
-⭐ 67 · Python · MIT · 推送 2026-05-05 · [GitHub](https://github.com/ausboss/PygDiscordBot) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-05-05 · [GitHub](https://github.com/ausboss/PygDiscordBot) · 个人维护
 
 **用本地 LLM 做角色扮演聊天的 Discord 机器人（2023 存档）**
 
@@ -45,13 +45,13 @@ Python 编写的 Discord 机器人，连接 KoboldAI 或 Oobabooga 的 text-gene
 
 ```mermaid
 xychart-beta
-    title "ausboss/PygDiscordBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "ausboss/PygDiscordBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 68（+1）
 
 
 ---

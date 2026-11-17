@@ -1,6 +1,6 @@
 # MatthewZMD/aidermacs
 
-⭐ 934 · Emacs Lisp · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/MatthewZMD/aidermacs) · 个人维护
+⭐ 936 · Emacs Lisp · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/MatthewZMD/aidermacs) · 个人维护
 
 **在 Emacs 中集成 Aider 的 AI 结对编程前端**
 
@@ -45,13 +45,13 @@ Aidermacs 是将 Aider 命令行工具接入 Emacs 的 AI 结对编程包：提�
 
 ```mermaid
 xychart-beta
-    title "MatthewZMD/aidermacs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 931 --> 935
-    line [933, 932, 933, 934, 934]
+    title "MatthewZMD/aidermacs 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 931 --> 937
+    line [933, 932, 933, 934, 933, 934, 935, 936, 936]
 ```
 
-2026-10-18 933 → 2026-11-02 934（+1）
+2026-10-18 933 → 2026-11-17 936（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # unionst/swift-chat
 
-⭐ 44 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/unionst/swift-chat) · [官网](https://unionst.com/swiftchat) · 组织维护
+⭐ 49 · Swift · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/unionst/swift-chat) · [官网](https://unionst.com/swiftchat) · 组织维护
 
 **给 iOS 开发者的 SwiftUI 聊天 UI 组件库，支持 AI 助手流式对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "unionst/swift-chat 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 34 --> 45
-    line [35, 36, 38, 39, 40, 41, 42, 43, 44]
+    title "unionst/swift-chat 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 34 --> 50
+    line [35, 36, 38, 39, 40, 41, 42, 43, 44, 40, 47, 48, 49, 49]
 ```
 
-2026-10-18 35 → 2026-11-02 44（+9）
+2026-10-18 35 → 2026-11-17 49（+14）
 
 
 ---

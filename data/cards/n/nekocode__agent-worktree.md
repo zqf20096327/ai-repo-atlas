@@ -1,6 +1,6 @@
 # nekocode/agent-worktree
 
-⭐ 281 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nekocode/agent-worktree) · 个人维护 · 中文 README
+⭐ 282 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nekocode/agent-worktree) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的 Git worktree 并行工作流工具**
 
@@ -44,13 +44,13 @@ npm 全局安装的命令行工具，基于 Git worktree 为 AI 编码代理提�
 
 ```mermaid
 xychart-beta
-    title "nekocode/agent-worktree 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 279 --> 282
-    line [280, 281, 281]
+    title "nekocode/agent-worktree 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 279 --> 283
+    line [280, 281, 280, 282, 282]
 ```
 
-2026-10-18 280 → 2026-11-02 281（+1）
+2026-10-18 280 → 2026-11-17 282（+2）
 
 
 ---

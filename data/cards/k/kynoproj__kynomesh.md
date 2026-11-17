@@ -1,6 +1,6 @@
 # kynoproj/kynomesh
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/kynoproj/kynomesh) · [官网](https://kyno.sh) · 组织维护
+⭐ 27 · Go · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/kynoproj/kynomesh) · [官网](https://kyno.sh) · 组织维护
 
 **Kubernetes 原生的分布式多智能体编排平台（Agent Mesh）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kynoproj/kynomesh 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 15 --> 26
-    line [16, 20, 21, 23, 24, 25, 25]
+    title "kynoproj/kynomesh 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 28
+    line [16, 20, 21, 23, 24, 25, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 16 → 2026-11-02 25（+9）
+2026-10-18 16 → 2026-11-17 27（+11）
 
 
 ---

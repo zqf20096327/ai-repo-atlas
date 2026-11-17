@@ -1,6 +1,6 @@
 # amarisaster/Haven
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/amarisaster/Haven) · 个人维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/amarisaster/Haven) · 个人维护
 
 **自托管的 AI 陪伴聊天应用：自带 API key，部署在 Cloudflare 上**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "amarisaster/Haven 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "amarisaster/Haven 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

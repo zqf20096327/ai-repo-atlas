@@ -1,6 +1,6 @@
 # Youhai020616/xiaohongshu
 
-⭐ 31 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Youhai020616/xiaohongshu) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Youhai020616/xiaohongshu) · 个人维护 · 中文 README
 
 **面向 AI Agent 的小红书命令行工具：搜索、发布、互动与数据分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Youhai020616/xiaohongshu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "Youhai020616/xiaohongshu 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2
 
-⭐ 55 · Python · 推送 2026-02-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2) · 个人维护
+⭐ 54 · Python · 推送 2026-02-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2) · 个人维护
 
 **用 YOLOv11+SAM2 检测与分割医学影像中肿瘤的项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    line [54, 55, 54, 55, 54, 54]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 54（+0）
 
 
 ---

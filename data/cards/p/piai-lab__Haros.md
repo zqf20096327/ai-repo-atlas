@@ -1,6 +1,6 @@
 # piai-lab/Haros
 
-⭐ 194 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/piai-lab/Haros) · 组织维护 · 中文 README
+⭐ 193 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/piai-lab/Haros) · 组织维护 · 中文 README
 
 **本地优先桌面工作台：在同一会话中接入并切换多种编码 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "piai-lab/Haros 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 192 --> 219
-    line [217, 194, 194]
+    title "piai-lab/Haros 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 191 --> 219
+    line [217, 194, 193, 193]
 ```
 
-2026-10-18 217 → 2026-11-02 194（-23）
+2026-10-18 217 → 2026-11-17 193（-24）
 
 
 ---

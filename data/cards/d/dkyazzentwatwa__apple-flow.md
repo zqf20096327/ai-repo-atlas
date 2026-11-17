@@ -1,6 +1,6 @@
 # dkyazzentwatwa/apple-flow
 
-⭐ 105 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/dkyazzentwatwa/apple-flow) · [官网](https://apple-flow-site.vercel.app/) · 个人维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/dkyazzentwatwa/apple-flow) · [官网](https://apple-flow-site.vercel.app/) · 个人维护 · 中文 README
 
 **通过 iMessage/Mail 等 Apple 应用驱动 AI CLI 的 macOS 守护进程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dkyazzentwatwa/apple-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    title "dkyazzentwatwa/apple-flow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 104 --> 107
+    line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-17 106（+1）
 
 
 ---

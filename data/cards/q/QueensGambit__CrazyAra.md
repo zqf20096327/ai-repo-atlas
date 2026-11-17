@@ -1,6 +1,6 @@
 # QueensGambit/CrazyAra
 
-⭐ 295 · Jupyter Notebook · GPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/QueensGambit/CrazyAra) · [官网](https://lichess.org/@/CrazyAra) · 个人维护
+⭐ 297 · Jupyter Notebook · GPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/QueensGambit/CrazyAra) · [官网](https://lichess.org/@/CrazyAra) · 个人维护
 
 **深度学习国际象棋变体 UCI 引擎，下 Crazyhouse 等变体棋**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QueensGambit/CrazyAra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 294 --> 297
-    line [296, 295, 295]
+    title "QueensGambit/CrazyAra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 294 --> 298
+    line [296, 295, 296, 297, 297]
 ```
 
-2026-10-18 296 → 2026-11-02 295（-1）
+2026-10-18 296 → 2026-11-17 297（+1）
 
 
 ---

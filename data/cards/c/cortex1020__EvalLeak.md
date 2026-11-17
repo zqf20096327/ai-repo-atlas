@@ -1,6 +1,6 @@
 # cortex1020/EvalLeak
 
-⭐ 33 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/cortex1020/EvalLeak) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/cortex1020/EvalLeak) · 个人维护
 
 **检测训练/评估切分间数据污染的确定性 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cortex1020/EvalLeak 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    title "cortex1020/EvalLeak 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [34, 33, 32, 31, 31]
 ```
 
-2026-10-26 34 → 2026-11-02 33（-1）
+2026-10-26 34 → 2026-11-17 31（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/copilot-agent-inventory-samples
 
-⭐ 29 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/copilot-agent-inventory-samples) · 组织维护
+⭐ 28 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/copilot-agent-inventory-samples) · 组织维护
 
 **Microsoft Graph API 示例集：清点租户内 Copilot agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-agent-inventory-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "microsoft/copilot-agent-inventory-samples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [29, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 28（-1）
 
 
 ---

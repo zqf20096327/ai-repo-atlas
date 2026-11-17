@@ -1,6 +1,6 @@
 # dlab-berkeley/R-Deep-Learning
 
-⭐ 124 · R · 推送 2026-06-02 · [GitHub](https://github.com/dlab-berkeley/R-Deep-Learning) · [官网](https://dlab-berkeley.github.io/Deep-Learning-in-R/slides.html) · 组织维护
+⭐ 125 · R · 推送 2026-06-02 · [GitHub](https://github.com/dlab-berkeley/R-Deep-Learning) · [官网](https://dlab-berkeley.github.io/Deep-Learning-in-R/slides.html) · 组织维护
 
 **给 R 用户的深度学习入门工作坊教程（6 小时）**
 
@@ -44,13 +44,13 @@ UC Berkeley D-Lab 出品的六小时 R 深度学习教学材料库：以 TensorF
 
 ```mermaid
 xychart-beta
-    title "dlab-berkeley/R-Deep-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    title "dlab-berkeley/R-Deep-Learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 123 --> 126
+    line [124, 125, 125]
 ```
 
-2026-10-18 124 → 2026-11-02 124（+0）
+2026-10-18 124 → 2026-11-17 125（+1）
 
 
 ---

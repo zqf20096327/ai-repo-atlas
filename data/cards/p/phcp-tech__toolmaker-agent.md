@@ -1,6 +1,6 @@
 # phcp-tech/toolmaker-agent
 
-⭐ 92 · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/phcp-tech/toolmaker-agent) · [官网](https://toolmaker.io) · 组织维护 · 中文 README
+⭐ 92 · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/phcp-tech/toolmaker-agent) · [官网](https://toolmaker.io) · 组织维护 · 中文 README
 
 **人类与 AI agent 协作的 SDLC 结构化数据平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "phcp-tech/toolmaker-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 90 --> 93
     line [91, 92, 92]
 ```
 
-2026-10-18 91 → 2026-11-02 92（+1）
+2026-10-18 91 → 2026-11-17 92（+1）
 
 
 ---

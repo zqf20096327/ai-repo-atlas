@@ -1,6 +1,6 @@
 # Prismer-AI/PrismerCloud
 
-⭐ 1,363 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Prismer-AI/PrismerCloud) · [官网](https://prismer.cloud) · 组织维护 · 中文 README
+⭐ 1,364 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Prismer-AI/PrismerCloud) · [官网](https://prismer.cloud) · 组织维护 · 中文 README
 
 **面向 AI Agent 的云端运行时：进化学习、记忆、消息与身份**
 
@@ -45,13 +45,13 @@ Prismer Cloud 是一个面向 AI Agent 的托管服务平台（Intelligence Runt
 
 ```mermaid
 xychart-beta
-    title "Prismer-AI/PrismerCloud 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "Prismer-AI/PrismerCloud 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-17"]
     y-axis "stars" 1360 --> 1386
-    line [1384, 1363, 1364, 1363, 1362, 1363, 1363]
+    line [1384, 1363, 1364, 1363, 1362, 1363, 1364, 1364]
 ```
 
-2026-10-18 1,384 → 2026-11-02 1,363（-21）
+2026-10-18 1,384 → 2026-11-17 1,364（-20）
 
 
 ---

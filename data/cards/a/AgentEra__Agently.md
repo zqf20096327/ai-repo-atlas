@@ -1,6 +1,6 @@
 # AgentEra/Agently
 
-⭐ 1,658 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/AgentEra/Agently) · [官网](http://agently.tech) · 组织维护 · 中文 README
+⭐ 1,672 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AgentEra/Agently) · [官网](http://agently.tech) · 组织维护 · 中文 README
 
 **面向工程化落地的 AI 应用运行时框架**
 
@@ -46,13 +46,13 @@ Python（≥3.10）AI 应用开发框架，供从原型走向可靠服务的团�
 
 ```mermaid
 xychart-beta
-    title "AgentEra/Agently 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 1657 --> 1660
-    line [1659, 1658, 1658]
+    title "AgentEra/Agently 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1657 --> 1673
+    line [1659, 1658, 1666, 1668, 1671, 1672, 1672]
 ```
 
-2026-10-18 1,659 → 2026-11-02 1,658（-1）
+2026-10-18 1,659 → 2026-11-17 1,672（+13）
 
 
 ---

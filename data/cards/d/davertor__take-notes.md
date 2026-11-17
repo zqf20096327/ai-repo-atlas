@@ -1,6 +1,6 @@
 # davertor/take-notes
 
-⭐ 19 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/davertor/take-notes) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/davertor/take-notes) · 个人维护
 
 **把视频/文章/论文/仓库转成教学式学习笔记的 Agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "davertor/take-notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "davertor/take-notes 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 18, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

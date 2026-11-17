@@ -1,6 +1,6 @@
 # HKU-BAL/ClairS-TO
 
-⭐ 98 · Python · BSD-3-Clause · 推送 2026-09-09 · [GitHub](https://github.com/HKU-BAL/ClairS-TO) · 组织维护
+⭐ 100 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/HKU-BAL/ClairS-TO) · 组织维护
 
 **长读长肿瘤-only 体细胞小变异检测的深度学习工具**
 
@@ -45,13 +45,13 @@ HKU-BAL 维护的 Clair 系列工具，面向无匹配正常样本的肿瘤样�
 
 ```mermaid
 xychart-beta
-    title "HKU-BAL/ClairS-TO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "HKU-BAL/ClairS-TO 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 97 --> 101
+    line [98, 99, 100, 100]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 100（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # swaylq/sijiao-skill
 
-⭐ 20 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/swaylq/sijiao-skill) · [官网](https://swaylq.github.io/sijiao-skill/) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/swaylq/sijiao-skill) · [官网](https://swaylq.github.io/sijiao-skill/) · 个人维护 · 中文 README
 
 **元 skill：输入想学的技能，蒸馏出带你从 0 学会的有状态私教**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "swaylq/sijiao-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    title "swaylq/sijiao-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

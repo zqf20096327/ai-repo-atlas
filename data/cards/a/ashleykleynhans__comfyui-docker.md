@@ -1,6 +1,6 @@
 # ashleykleynhans/comfyui-docker
 
-⭐ 62 · Shell · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ashleykleynhans/comfyui-docker) · 个人维护
+⭐ 60 · Shell · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ashleykleynhans/comfyui-docker) · 个人维护
 
 **ComfyUI 的 Docker 镜像，面向 RunPod 与本地 GPU 部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashleykleynhans/comfyui-docker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "ashleykleynhans/comfyui-docker 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 59 --> 63
+    line [61, 62, 61, 60, 60]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 60（-1）
 
 
 ---

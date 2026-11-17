@@ -1,6 +1,6 @@
 # itsjwill/gsd-pro
 
-⭐ 85 · JavaScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/itsjwill/gsd-pro) · [官网](https://github.com/glittercowboy/get-shit-done) · 个人维护 · 中文 README
+⭐ 86 · JavaScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/itsjwill/gsd-pro) · [官网](https://github.com/glittercowboy/get-shit-done) · 个人维护 · 中文 README
 
 **面向 Claude Code 等编码 Agent 的规格驱动开发工作流系统**
 
@@ -45,13 +45,13 @@ GSD 原项目（TÂCHES）的 fork，本版本增加回滚/恢复、自适应上
 
 ```mermaid
 xychart-beta
-    title "itsjwill/gsd-pro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "itsjwill/gsd-pro 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 84, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

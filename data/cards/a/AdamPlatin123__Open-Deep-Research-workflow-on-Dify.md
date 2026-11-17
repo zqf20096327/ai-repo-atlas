@@ -1,6 +1,6 @@
 # AdamPlatin123/Open-Deep-Research-workflow-on-Dify
 
-⭐ 320 · 推送 2026-08-18 · [GitHub](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · 个人维护 · 中文 README
+⭐ 321 · 推送 2026-08-18 · [GitHub](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · 个人维护 · 中文 README
 
 **Dify 平台上的 Deep Research 工作流：多源检索生成带引用长文报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdamPlatin123/Open-Deep-Research-workflow-on-Dify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 319 --> 321
-    line [320, 320]
+    title "AdamPlatin123/Open-Deep-Research-workflow-on-Dify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 319 --> 322
+    line [320, 321, 321]
 ```
 
-2026-10-18 320 → 2026-11-02 320（+0）
+2026-10-18 320 → 2026-11-17 321（+1）
 
 
 ---

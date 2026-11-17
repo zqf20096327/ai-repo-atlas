@@ -1,6 +1,6 @@
 # cy-xu/cosmic-conn
 
-⭐ 29 · Python · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/cy-xu/cosmic-conn) · 个人维护
+⭐ 30 · Python · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/cy-xu/cosmic-conn) · 个人维护
 
 **给天文学家的宇宙线检测深度学习框架、数据集与工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cy-xu/cosmic-conn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "cy-xu/cosmic-conn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

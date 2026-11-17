@@ -1,6 +1,6 @@
 # Torabiy/HLS-CMDS
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Torabiy/HLS-CMDS) · [官网](https://doi.org/10.1109/IEEEDATA.2025.3566012) · 组织维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Torabiy/HLS-CMDS) · [官网](https://doi.org/10.1109/IEEEDATA.2025.3566012) · 组织维护
 
 **数字听诊器录制的心肺音数据集（HLS-CMDS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Torabiy/HLS-CMDS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "Torabiy/HLS-CMDS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

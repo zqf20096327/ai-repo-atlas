@@ -1,6 +1,6 @@
 # 7WaySecurity/ai_osint
 
-⭐ 174 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/7WaySecurity/ai_osint) · [官网](https://www.7waysecurity.co) · 组织维护
+⭐ 180 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/7WaySecurity/ai_osint) · [官网](https://www.7waysecurity.co) · 组织维护
 
 **AI 基础设施暴露面 OSINT 查询集：面向红队与攻防人员**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "7WaySecurity/ai_osint 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 168 --> 175
-    line [169, 170, 173, 172, 174, 174]
+    title "7WaySecurity/ai_osint 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 168 --> 181
+    line [169, 170, 173, 172, 174, 173, 177, 178, 179, 180, 180]
 ```
 
-2026-10-18 169 → 2026-11-02 174（+5）
+2026-10-18 169 → 2026-11-17 180（+11）
 
 
 ---

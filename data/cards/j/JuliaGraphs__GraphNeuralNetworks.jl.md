@@ -1,6 +1,6 @@
 # JuliaGraphs/GraphNeuralNetworks.jl
 
-⭐ 310 · Julia · MIT · 推送 2026-11-01 · [GitHub](https://github.com/JuliaGraphs/GraphNeuralNetworks.jl) · [官网](https://juliagraphs.org/GraphNeuralNetworks.jl) · 组织维护
+⭐ 313 · Julia · MIT · 推送 2026-11-12 · [GitHub](https://github.com/JuliaGraphs/GraphNeuralNetworks.jl) · [官网](https://juliagraphs.org/GraphNeuralNetworks.jl) · 组织维护
 
 **Julia 图神经网络库：提供图卷积层与消息传递框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaGraphs/GraphNeuralNetworks.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 308 --> 311
-    line [309, 310, 310]
+    title "JuliaGraphs/GraphNeuralNetworks.jl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 308 --> 314
+    line [309, 310, 311, 312, 313, 313]
 ```
 
-2026-10-18 309 → 2026-11-02 310（+1）
+2026-10-18 309 → 2026-11-17 313（+4）
 
 
 ---

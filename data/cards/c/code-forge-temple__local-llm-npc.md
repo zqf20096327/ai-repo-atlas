@@ -1,6 +1,6 @@
 # code-forge-temple/local-llm-npc
 
-⭐ 52 · C# · CC-BY-4.0 · 推送 2026-02-26 · [GitHub](https://github.com/code-forge-temple/local-llm-npc) · 个人维护
+⭐ 54 · C# · CC-BY-4.0 · 推送 2026-02-26 · [GitHub](https://github.com/code-forge-temple/local-llm-npc) · 个人维护
 
 **本地 LLM 驱动的离线教育游戏：花园中与 Gemma 3n NPC 对话学习农业**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "code-forge-temple/local-llm-npc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    title "code-forge-temple/local-llm-npc 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 49 --> 55
+    line [50, 51, 52, 51, 53, 54, 54]
 ```
 
-2026-10-18 50 → 2026-11-02 52（+2）
+2026-10-18 50 → 2026-11-17 54（+4）
 
 
 ---

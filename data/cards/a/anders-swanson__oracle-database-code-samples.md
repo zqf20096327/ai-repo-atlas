@@ -1,6 +1,6 @@
 # anders-swanson/oracle-database-code-samples
 
-⭐ 43 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/anders-swanson/oracle-database-code-samples) · [官网](https://anders-swanson.github.io/oracle-database-code-samples/#/) · 个人维护
+⭐ 43 · Java · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/anders-swanson/oracle-database-code-samples) · [官网](https://anders-swanson.github.io/oracle-database-code-samples/#/) · 个人维护
 
 **Oracle AI Database 官方风格代码示例集：Java 为主，覆盖向量检索等多数据库特性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anders-swanson/oracle-database-code-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

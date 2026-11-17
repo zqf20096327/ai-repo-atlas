@@ -1,6 +1,6 @@
 # alexandriax/pawvis
 
-⭐ 25 · Swift · MIT · 推送 2026-09-03 · [GitHub](https://github.com/alexandriax/pawvis) · [官网](https://pawvis.app) · 个人维护
+⭐ 26 · Swift · MIT · 推送 2026-09-03 · [GitHub](https://github.com/alexandriax/pawvis) · [官网](https://pawvis.app) · 个人维护
 
 **macOS 免触手势与语音控制应用：用手与语音代替鼠标键盘**
 
@@ -45,13 +45,13 @@ macOS 桌面应用，将摄像头画面中的手部追踪转为指针控制：�
 
 ```mermaid
 xychart-beta
-    title "alexandriax/pawvis 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25, 25]
+    title "alexandriax/pawvis 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 25, 24, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 25（+3）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

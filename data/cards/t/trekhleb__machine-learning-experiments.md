@@ -1,6 +1,6 @@
 # trekhleb/machine-learning-experiments
 
-⭐ 1,836 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/machine-learning-experiments) · [官网](https://trekhleb.dev/machine-learning-experiments/) · 个人维护
+⭐ 1,837 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/machine-learning-experiments) · [官网](https://trekhleb.dev/machine-learning-experiments/) · 个人维护
 
 **交互式机器学习实验集：Jupyter 训练笔记本 + 浏览器演示**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trekhleb/machine-learning-experiments 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1835 --> 1837
-    line [1836, 1836]
+    title "trekhleb/machine-learning-experiments 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1835 --> 1838
+    line [1836, 1837, 1837]
 ```
 
-2026-10-18 1,836 → 2026-11-02 1,836（+0）
+2026-10-18 1,836 → 2026-11-17 1,837（+1）
 
 
 ---

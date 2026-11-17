@@ -1,6 +1,6 @@
 # tianemon/EasyMint
 
-⭐ 83 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/tianemon/EasyMint) · [官网](https://tianemon.github.io/EasyMint/) · 个人维护 · 中文 README
+⭐ 89 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tianemon/EasyMint) · [官网](https://tianemon.github.io/EasyMint/) · 个人维护 · 中文 README
 
 **桌面 AI 编程平台：内置 Pi Agent，让非技术用户对话式完成软件开发全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tianemon/EasyMint 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 78 --> 84
-    line [79, 81, 83, 82, 83, 83]
+    title "tianemon/EasyMint 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 78 --> 90
+    line [79, 81, 83, 82, 83, 82, 86, 87, 88, 87, 89, 89]
 ```
 
-2026-10-18 79 → 2026-11-02 83（+4）
+2026-10-18 79 → 2026-11-17 89（+10）
 
 
 ---

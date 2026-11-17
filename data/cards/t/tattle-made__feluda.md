@@ -1,6 +1,6 @@
 # tattle-made/feluda
 
-⭐ 96 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/tattle-made/feluda) · [官网](https://tattle.co.in/products/feluda/) · 组织维护
+⭐ 97 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/tattle-made/feluda) · [官网](https://tattle.co.in/products/feluda/) · 组织维护
 
 **分析多语言多模态内容的可配置引擎（文本/图像/音视频）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tattle-made/feluda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "tattle-made/feluda 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
     y-axis "stars" 95 --> 98
-    line [97, 96, 96]
+    line [97, 96, 97, 97]
 ```
 
-2026-10-18 97 → 2026-11-02 96（-1）
+2026-10-18 97 → 2026-11-17 97（+0）
 
 
 ---

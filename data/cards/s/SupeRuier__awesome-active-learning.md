@@ -1,6 +1,6 @@
 # SupeRuier/awesome-active-learning
 
-⭐ 1,011 · 推送 2026-03-16 · [GitHub](https://github.com/SupeRuier/awesome-active-learning) · 个人维护 · 中文 README
+⭐ 1,012 · 推送 2026-03-16 · [GitHub](https://github.com/SupeRuier/awesome-active-learning) · 个人维护 · 中文 README
 
 **主动学习研究资料库：论文、综述、工具与学者索引**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SupeRuier/awesome-active-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1008 --> 1012
-    line [1009, 1010, 1011, 1011]
+    title "SupeRuier/awesome-active-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1008 --> 1013
+    line [1009, 1010, 1011, 1010, 1012, 1012]
 ```
 
-2026-10-18 1,009 → 2026-11-02 1,011（+2）
+2026-10-18 1,009 → 2026-11-17 1,012（+3）
 
 
 ---

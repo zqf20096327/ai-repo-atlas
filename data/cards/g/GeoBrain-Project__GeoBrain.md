@@ -1,6 +1,6 @@
 # GeoBrain-Project/GeoBrain
 
-⭐ 87 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/GeoBrain-Project/GeoBrain) · [官网](https://geobrain-project.github.io/GeoBrain/) · 组织维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/GeoBrain-Project/GeoBrain) · [官网](https://geobrain-project.github.io/GeoBrain/) · 组织维护
 
 **面向地下综合建模的可微分贝叶斯科学计算平台**
 
@@ -46,13 +46,13 @@ GeoBrain 是开源的模块化科研平台，为地下综合建模提供端到�
 
 ```mermaid
 xychart-beta
-    title "GeoBrain-Project/GeoBrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    title "GeoBrain-Project/GeoBrain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 85 --> 89
+    line [86, 87, 88, 88]
 ```
 
-2026-10-18 86 → 2026-11-02 87（+1）
+2026-10-18 86 → 2026-11-17 88（+2）
 
 
 ---

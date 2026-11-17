@@ -1,6 +1,6 @@
 # siftystudio/viv
 
-⭐ 39 · TypeScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/siftystudio/viv) · [官网](https://viv.sifty.studio) · 组织维护
+⭐ 41 · TypeScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/siftystudio/viv) · [官网](https://viv.sifty.studio) · 组织维护
 
 **面向叙事设计师的涌现叙事引擎与 DSL**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "siftystudio/viv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "siftystudio/viv 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 41, 41]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 41（+3）
 
 
 ---

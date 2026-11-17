@@ -1,6 +1,6 @@
 # metaspartan/cybara
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/metaspartan/cybara) · [官网](https://cybara.ai) · 组织维护
+⭐ 38 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/metaspartan/cybara) · [官网](https://cybara.ai) · 组织维护
 
 **自托管的持久 AI agent 工作区：编码、研究、自动化一体化运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "metaspartan/cybara 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "metaspartan/cybara 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 31 --> 39
+    line [32, 33, 32, 35, 38, 38]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 38（+6）
 
 
 ---

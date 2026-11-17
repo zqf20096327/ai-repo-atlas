@@ -1,6 +1,6 @@
 # sandydasari/openacme
 
-⭐ 89 · TypeScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/sandydasari/openacme) · [官网](https://openacme.org) · 个人维护
+⭐ 90 · TypeScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/sandydasari/openacme) · [官网](https://openacme.org) · 个人维护
 
 **自托管多 agent AI 劳动力平台，带 Web 与 CLI 界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandydasari/openacme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "sandydasari/openacme 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [89, 90, 90]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 90（+1）
 
 
 ---

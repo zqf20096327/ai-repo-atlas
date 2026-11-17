@@ -1,6 +1,6 @@
 # thingctx/thingctx
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/thingctx/thingctx) · [官网](https://thingctx.com) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/thingctx/thingctx) · [官网](https://thingctx.com) · 个人维护
 
 **把 API/设备描述转为 AI agent 工具的 Python 库，按操作授权**
 
@@ -46,12 +46,12 @@ thingctx 读取 W3C WoT Thing Description（JSON 文件，可从 OpenAPI 3.x 编
 ```mermaid
 xychart-beta
     title "thingctx/thingctx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

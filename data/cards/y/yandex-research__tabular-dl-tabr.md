@@ -1,6 +1,6 @@
 # yandex-research/tabular-dl-tabr
 
-⭐ 332 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/yandex-research/tabular-dl-tabr) · [官网](https://arxiv.org/abs/2307.14338) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **TabR 论文官方实现：检索增强的表格深度学习模型**
 
@@ -11,7 +11,7 @@ Yandex Research 发布的论文《TabR: Unlocking the Power of Retrieval-Augment
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Yandex Research 发布的论文《TabR: Unlocking the Power of Retrieval-Augment
 
 ```mermaid
 xychart-beta
-    title "yandex-research/tabular-dl-tabr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 331 --> 333
-    line [332, 332]
+    title "yandex-research/tabular-dl-tabr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 331 --> 334
+    line [332, 333, 333]
 ```
 
-2026-10-18 332 → 2026-11-02 332（+0）
+2026-10-18 332 → 2026-11-12 333（+1）
 
 
 ---

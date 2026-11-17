@@ -1,6 +1,6 @@
 # RyeSama/edge-cloud-vision
 
-⭐ 20 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/RyeSama/edge-cloud-vision) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/RyeSama/edge-cloud-vision) · 个人维护 · 中文 README
 
 **边缘-云端视觉参考项目：端侧 TFLite 判断+云端 LLM 兜底**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "RyeSama/edge-cloud-vision 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-11-02"]
+    title "RyeSama/edge-cloud-vision 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-26", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 21
-    line [17, 20, 20]
+    line [17, 20, 19, 19]
 ```
 
-2026-10-22 17 → 2026-11-02 20（+3）
+2026-10-22 17 → 2026-11-17 19（+2）
 
 
 ---

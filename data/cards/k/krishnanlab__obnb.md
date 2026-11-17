@@ -1,6 +1,6 @@
 # krishnanlab/obnb
 
-⭐ 22 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/krishnanlab/obnb) · [官网](https://obnb.readthedocs.io) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/krishnanlab/obnb) · [官网](https://obnb.readthedocs.io) · 组织维护
 
 **生物医学网络基准图数据集构建的 Python 工具包**
 
@@ -44,13 +44,13 @@ OBNB 面向网络生物学研究者，提供基于生物医学网络与基因注
 
 ```mermaid
 xychart-beta
-    title "krishnanlab/obnb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "krishnanlab/obnb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

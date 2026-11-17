@@ -1,6 +1,6 @@
 # imfing/jsrun
 
-⭐ 58 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/imfing/jsrun) · [官网](https://imfing.github.io/jsrun/) · 个人维护
+⭐ 59 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/imfing/jsrun) · [官网](https://imfing.github.io/jsrun/) · 个人维护
 
 **给 Python 开发者的嵌入式 V8 JavaScript 运行时库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "imfing/jsrun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    title "imfing/jsrun 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # enthropy7/YSCV
 
-⭐ 59 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/enthropy7/YSCV) · 个人维护
+⭐ 62 · Rust · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/enthropy7/YSCV) · 个人维护
 
 **纯 Rust 的边缘端计算机视觉与深度学习框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "enthropy7/YSCV 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 56 --> 60
-    line [57, 58, 59, 59]
+    title "enthropy7/YSCV 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 63
+    line [57, 58, 59, 57, 62, 62]
 ```
 
-2026-10-18 57 → 2026-11-02 59（+2）
+2026-10-18 57 → 2026-11-17 62（+5）
 
 
 ---

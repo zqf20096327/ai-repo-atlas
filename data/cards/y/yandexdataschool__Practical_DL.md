@@ -1,6 +1,6 @@
 # yandexdataschool/Practical_DL
 
-⭐ 1,781 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yandexdataschool/Practical_DL) · 组织维护
+⭐ 1,790 · Jupyter Notebook · MIT · 推送 2026-11-13 · [GitHub](https://github.com/yandexdataschool/Practical_DL) · 组织维护
 
 **YSDA/HSE/Skoltech 合作的深度学习课程材料库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "yandexdataschool/Practical_DL 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1777 --> 1783
-    line [1778, 1780, 1781, 1782, 1781]
+    title "yandexdataschool/Practical_DL 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1777 --> 1791
+    line [1778, 1780, 1781, 1782, 1781, 1780, 1783, 1784, 1786, 1787, 1788, 1789, 1790, 1790]
 ```
 
-2026-10-18 1,778 → 2026-11-02 1,781（+3）
+2026-10-18 1,778 → 2026-11-17 1,790（+12）
 
 
 ---

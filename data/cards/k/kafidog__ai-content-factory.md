@@ -1,6 +1,6 @@
 # kafidog/ai-content-factory
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/kafidog/ai-content-factory) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/kafidog/ai-content-factory) · 个人维护
 
 **离线优先、供应商中立的内容生产线：一条命令产出多平台内容包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kafidog/ai-content-factory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "kafidog/ai-content-factory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

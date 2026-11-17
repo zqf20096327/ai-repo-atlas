@@ -1,6 +1,6 @@
 # bytedance/vArmor
 
-⭐ 512 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/bytedance/vArmor) · [官网](https://varmor.org) · 组织维护 · 中文 README
+⭐ 517 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bytedance/vArmor) · [官网](https://varmor.org) · 组织维护 · 中文 README
 
 **云原生容器加固系统：为 K8s 工作负载（含 AI Agent）实施强制访问控制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/vArmor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 508 --> 513
-    line [509, 510, 511, 512, 512]
+    title "bytedance/vArmor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 508 --> 518
+    line [509, 510, 511, 512, 514, 516, 517, 517]
 ```
 
-2026-10-18 509 → 2026-11-02 512（+3）
+2026-10-18 509 → 2026-11-17 517（+8）
 
 
 ---

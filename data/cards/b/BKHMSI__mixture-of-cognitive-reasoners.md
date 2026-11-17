@@ -1,6 +1,6 @@
 # BKHMSI/mixture-of-cognitive-reasoners
 
-⭐ 47 · Python · 推送 2026-02-07 · [GitHub](https://github.com/BKHMSI/mixture-of-cognitive-reasoners) · [官网](https://cognitive-reasoners.epfl.ch) · 组织维护
+⭐ 48 · Python · 推送 2026-02-07 · [GitHub](https://github.com/BKHMSI/mixture-of-cognitive-reasoners) · [官网](https://cognitive-reasoners.epfl.ch) · 组织维护
 
 **脑功能特化专家模块的模块化推理模型（论文代码）**
 
@@ -44,13 +44,13 @@ EPFL 团队论文 MiCRo 的官方代码库：将预训练语言模型的层划�
 
 ```mermaid
 xychart-beta
-    title "BKHMSI/mixture-of-cognitive-reasoners 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "BKHMSI/mixture-of-cognitive-reasoners 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 46, 48, 48]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 48（+2）
 
 
 ---

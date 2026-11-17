@@ -1,6 +1,6 @@
 # Bogyie/ComfyUI-Sapiens2-Easy
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-05-04 · [GitHub](https://github.com/Bogyie/ComfyUI-Sapiens2-Easy) · 个人维护 · 中文 README
+⭐ 29 · Python · NOASSERTION · 推送 2026-05-04 · [GitHub](https://github.com/Bogyie/ComfyUI-Sapiens2-Easy) · 个人维护 · 中文 README
 
 **在 ComfyUI 中运行 Meta Sapiens2 的人体分析节点包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bogyie/ComfyUI-Sapiens2-Easy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "Bogyie/ComfyUI-Sapiens2-Easy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 29（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Asif-Iqbal-Bhatti/High-Entropy-Alloys
 
-⭐ 72 · Python · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/Asif-Iqbal-Bhatti/High-Entropy-Alloys) · [官网](https://asif-iqbal-bhatti.github.io/High-Entropy-Alloys/) · 个人维护
+⭐ 74 · Python · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/Asif-Iqbal-Bhatti/High-Entropy-Alloys) · [官网](https://asif-iqbal-bhatti.github.io/High-Entropy-Alloys/) · 个人维护
 
 **高熵合金计算脚本集：结构生成、热力学与 ML 性质预测**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Asif-Iqbal-Bhatti/High-Entropy-Alloys 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "Asif-Iqbal-Bhatti/High-Entropy-Alloys 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [72, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

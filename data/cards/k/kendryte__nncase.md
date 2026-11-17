@@ -1,6 +1,6 @@
 # kendryte/nncase
 
-⭐ 899 · C# · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/kendryte/nncase) · 组织维护 · 中文 README
+⭐ 901 · C# · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/kendryte/nncase) · 组织维护 · 中文 README
 
 **面向 Kendryte AI 加速器的神经网络编译器，供 K210/K510/K230 部署模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kendryte/nncase 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 896 --> 900
-    line [897, 898, 899, 899]
+    title "kendryte/nncase 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 896 --> 902
+    line [897, 898, 899, 900, 901, 901]
 ```
 
-2026-10-18 897 → 2026-11-02 899（+2）
+2026-10-18 897 → 2026-11-17 901（+4）
 
 
 ---

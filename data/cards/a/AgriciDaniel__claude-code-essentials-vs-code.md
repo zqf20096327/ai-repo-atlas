@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-code-essentials-vs-code
 
-⭐ 65 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AgriciDaniel/claude-code-essentials-vs-code) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 67 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AgriciDaniel/claude-code-essentials-vs-code) · [官网](https://agricidaniel.com) · 个人维护
 
 **Claude Code 与 VS Code 扩展的选择性安装脚本助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-code-essentials-vs-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 63 --> 66
-    line [64, 65, 65]
+    title "AgriciDaniel/claude-code-essentials-vs-code 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 63 --> 68
+    line [64, 65, 64, 66, 67, 67]
 ```
 
-2026-10-18 64 → 2026-11-02 65（+1）
+2026-10-18 64 → 2026-11-17 67（+3）
 
 
 ---

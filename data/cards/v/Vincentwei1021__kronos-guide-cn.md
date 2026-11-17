@@ -1,6 +1,6 @@
 # Vincentwei1021/kronos-guide-cn
 
-⭐ 70 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Vincentwei1021/kronos-guide-cn) · [官网](https://github.com/shiyu-coder/Kronos) · 个人维护 · 中文 README
+⭐ 74 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Vincentwei1021/kronos-guide-cn) · [官网](https://github.com/shiyu-coder/Kronos) · 个人维护 · 中文 README
 
 **面向中文用户的 Kronos 金融 K 线基础模型实战指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vincentwei1021/kronos-guide-cn 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 61 --> 71
-    line [62, 63, 64, 65, 66, 67, 69, 70]
+    title "Vincentwei1021/kronos-guide-cn 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 61 --> 75
+    line [62, 63, 64, 65, 66, 67, 69, 70, 65, 72, 73, 74, 74]
 ```
 
-2026-10-18 62 → 2026-11-02 70（+8）
+2026-10-18 62 → 2026-11-17 74（+12）
 
 
 ---

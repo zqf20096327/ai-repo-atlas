@@ -1,6 +1,6 @@
 # CorsenAI/hermes-connector
 
-⭐ 29 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CorsenAI/hermes-connector) · [官网](https://corsenai.github.io/hermes-connector/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/CorsenAI/hermes-connector) · [官网](https://corsenai.github.io/hermes-connector/) · 组织维护
 
 **把本地 Hermes Agent 会话接入用户选定 Chrome 标签页的浏览器扩展**
 
@@ -45,13 +45,13 @@ Corsen AI 开发的开源 Chrome 扩展（Manifest V3），为本地安装的 He
 
 ```mermaid
 xychart-beta
-    title "CorsenAI/hermes-connector 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 24 --> 30
-    line [25, 27, 28, 29, 29]
+    title "CorsenAI/hermes-connector 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 27, 28, 29, 28, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 29（+4）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

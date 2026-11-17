@@ -1,6 +1,6 @@
 # Troyanovsky/Local-LLM-Comparison-Colab-UI
 
-⭐ 1,107 · Jupyter Notebook · 推送 2026-01-13 · [GitHub](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) · 个人维护
+⭐ 1,106 · Jupyter Notebook · 推送 2026-01-13 · [GitHub](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) · 个人维护
 
 **本地可跑的开源 LLM 清单：附 Colab 试运行链接与备注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Troyanovsky/Local-LLM-Comparison-Colab-UI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Troyanovsky/Local-LLM-Comparison-Colab-UI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-17"]
     y-axis "stars" 1105 --> 1108
-    line [1107, 1106, 1107]
+    line [1107, 1106, 1107, 1106, 1106]
 ```
 
-2026-10-18 1,107 → 2026-11-02 1,107（+0）
+2026-10-18 1,107 → 2026-11-17 1,106（-1）
 
 
 ---

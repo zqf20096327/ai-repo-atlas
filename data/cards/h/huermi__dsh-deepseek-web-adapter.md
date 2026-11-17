@@ -1,6 +1,6 @@
 # huermi/dsh-deepseek-web-adapter
 
-⭐ 20 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/huermi/dsh-deepseek-web-adapter) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/huermi/dsh-deepseek-web-adapter) · 个人维护 · 中文 README
 
 **把 DeepSeek 网页版变成 DSH 免 API Key 模型提供方的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huermi/dsh-deepseek-web-adapter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 18, 19, 20, 20]
+    title "huermi/dsh-deepseek-web-adapter 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 18, 19, 20, 19, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 20（+4）
+2026-10-18 16 → 2026-11-17 21（+5）
 
 
 ---

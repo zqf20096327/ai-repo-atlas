@@ -1,6 +1,6 @@
 # mahmoudsajjadi/awesome-ai-coding-tools
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) · [官网](https://mahmoudsajjadi.github.io/awesome-ai-coding-tools/) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) · [官网](https://mahmoudsajjadi.github.io/awesome-ai-coding-tools/) · 个人维护
 
 **AI 编码工具策展清单：三阶分类收录 IDE、CLI agent、本地 LLM 与基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahmoudsajjadi/awesome-ai-coding-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "mahmoudsajjadi/awesome-ai-coding-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

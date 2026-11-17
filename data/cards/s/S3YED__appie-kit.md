@@ -1,6 +1,6 @@
 # S3YED/appie-kit
 
-⭐ 12 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/S3YED/appie-kit) · [官网](https://weblyfe.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 员工启动套件：939 个去重 agent 技能+工作区配置与安装脚本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "S3YED/appie-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-08"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-08 14（+2）
 
 
 ---

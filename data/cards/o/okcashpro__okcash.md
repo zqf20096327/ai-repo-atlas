@@ -1,6 +1,6 @@
 # okcashpro/okcash
 
-⭐ 432 · C++ · MIT · 推送 2026-06-16 · [GitHub](https://github.com/okcashpro/okcash) · [官网](https://okcash.org) · 组织维护
+⭐ 434 · C++ · MIT · 推送 2026-06-16 · [GitHub](https://github.com/okcashpro/okcash) · [官网](https://okcash.org) · 组织维护
 
 **Okcash (OK) 加密货币多链合约仓库，展示各链代币地址**
 
@@ -43,13 +43,13 @@ Okcash 是 2014 年发起的开源混合共识加密货币（PoW-Scrypt 转 PoS-
 
 ```mermaid
 xychart-beta
-    title "okcashpro/okcash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 431 --> 433
-    line [432, 432]
+    title "okcashpro/okcash 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 431 --> 435
+    line [432, 433, 434, 434]
 ```
 
-2026-10-18 432 → 2026-11-02 432（+0）
+2026-10-18 432 → 2026-11-17 434（+2）
 
 
 ---

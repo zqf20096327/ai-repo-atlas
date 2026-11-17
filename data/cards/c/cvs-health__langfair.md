@@ -1,6 +1,6 @@
 # cvs-health/langfair
 
-⭐ 261 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/cvs-health/langfair) · [官网](https://cvs-health.github.io/langfair/) · 组织维护
+⭐ 262 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/cvs-health/langfair) · [官网](https://cvs-health.github.io/langfair/) · 组织维护
 
 **评估 LLM 用例偏见与公平性的 Python 库，供治理审计使用**
 
@@ -45,13 +45,13 @@ CVS Health 团队维护的 LLM 偏见与公平性评估库：采用 Bring Your O
 
 ```mermaid
 xychart-beta
-    title "cvs-health/langfair 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "cvs-health/langfair 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
     y-axis "stars" 260 --> 263
-    line [262, 261, 261]
+    line [262, 261, 262, 262]
 ```
 
-2026-10-18 262 → 2026-11-02 261（-1）
+2026-10-18 262 → 2026-11-17 262（+0）
 
 
 ---

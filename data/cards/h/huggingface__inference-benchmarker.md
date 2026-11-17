@@ -1,6 +1,6 @@
 # huggingface/inference-benchmarker
 
-⭐ 176 · Rust · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/inference-benchmarker) · 组织维护
+⭐ 177 · Rust · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/inference-benchmarker) · 组织维护
 
 **给部署者的 LLM 推理服务器基准测试工具**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的 Rust 命令行基准测试工具，面向暴露 OpenAI �
 
 ```mermaid
 xychart-beta
-    title "huggingface/inference-benchmarker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 175 --> 177
-    line [176, 176]
+    title "huggingface/inference-benchmarker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 175 --> 178
+    line [176, 177, 177]
 ```
 
-2026-10-18 176 → 2026-11-02 176（+0）
+2026-10-18 176 → 2026-11-17 177（+1）
 
 
 ---

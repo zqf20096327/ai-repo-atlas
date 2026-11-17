@@ -1,6 +1,6 @@
 # ZumingHuang/awesome-ocr-resources
 
-⭐ 442 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ZumingHuang/awesome-ocr-resources) · 个人维护 · 中文 README
+⭐ 443 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ZumingHuang/awesome-ocr-resources) · 个人维护 · 中文 README
 
 **OCR 与文档 AI 资源策展清单（论文/模型/数据集等）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZumingHuang/awesome-ocr-resources 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 439 --> 443
-    line [440, 441, 442, 442]
+    title "ZumingHuang/awesome-ocr-resources 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 439 --> 444
+    line [440, 441, 442, 441, 442, 441, 443, 443]
 ```
 
-2026-10-18 440 → 2026-11-02 442（+2）
+2026-10-18 440 → 2026-11-17 443（+3）
 
 
 ---

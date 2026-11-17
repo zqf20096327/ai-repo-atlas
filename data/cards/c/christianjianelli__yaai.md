@@ -1,6 +1,6 @@
 # christianjianelli/yaai
 
-⭐ 34 · ABAP · MIT · 推送 2026-10-31 · [GitHub](https://github.com/christianjianelli/yaai) · 个人维护
+⭐ 34 · ABAP · MIT · 推送 2026-11-13 · [GitHub](https://github.com/christianjianelli/yaai) · 个人维护
 
 **ABAP 环境的 LLM/AI Agent 开发工具集，面向 SAP 开发者**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "christianjianelli/yaai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "christianjianelli/yaai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    line [33, 34, 33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

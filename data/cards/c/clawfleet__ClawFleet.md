@@ -1,6 +1,6 @@
 # clawfleet/ClawFleet
 
-⭐ 178 · Go · MIT · 推送 2026-04-27 · [GitHub](https://github.com/clawfleet/ClawFleet) · [官网](https://clawfleet.io) · 组织维护 · 中文 README
+⭐ 181 · Go · MIT · 推送 2026-04-27 · [GitHub](https://github.com/clawfleet/ClawFleet) · [官网](https://clawfleet.io) · 组织维护 · 中文 README
 
 **本机 Docker 容器中编排 OpenClaw/Hermes 多 AI agent 的机群管理器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "clawfleet/ClawFleet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 174 --> 179
-    line [175, 176, 177, 178, 178]
+    title "clawfleet/ClawFleet 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 174 --> 182
+    line [175, 176, 177, 178, 177, 179, 180, 181, 181]
 ```
 
-2026-10-18 175 → 2026-11-02 178（+3）
+2026-10-18 175 → 2026-11-17 181（+6）
 
 
 ---

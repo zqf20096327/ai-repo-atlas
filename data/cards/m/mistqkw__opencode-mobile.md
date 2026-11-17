@@ -1,6 +1,6 @@
 # mistqkw/opencode-mobile
 
-⭐ 12 · Kotlin · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mistqkw/opencode-mobile) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Android 手机上本地运行 OpenCode 服务端的 AI 编程客户端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mistqkw/opencode-mobile 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 8 --> 13
-    line [9, 12]
+    title "mistqkw/opencode-mobile 星数(近 7 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14"]
+    y-axis "stars" 8 --> 29
+    line [9, 12, 22, 23, 24, 26, 28]
 ```
 
-2026-11-01 9 → 2026-11-02 12（+3）
+2026-11-01 9 → 2026-11-14 28（+19）
 
 
 ---

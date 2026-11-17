@@ -1,6 +1,6 @@
 # vincentping/claudeFS
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/vincentping/claudeFS) · [官网](https://chromewebstore.google.com/detail/claudefs/dgejoeopjlibbnbglaheaokkhmddedcf?authuser=0&hl=en) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/vincentping/claudeFS) · [官网](https://chromewebstore.google.com/detail/claudefs/dgejoeopjlibbnbglaheaokkhmddedcf?authuser=0&hl=en) · 个人维护 · 中文 README
 
 **把本地文件夹接入 claude.ai 的浏览器扩展，让 Claude 直接读写文件**
 
@@ -44,13 +44,13 @@ Chrome/Edge 的 MV3 浏览器扩展：用户在 claude.ai 页面授权一个本�
 
 ```mermaid
 xychart-beta
-    title "vincentping/claudeFS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "vincentping/claudeFS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    line [18, 19, 18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

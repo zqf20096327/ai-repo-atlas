@@ -1,6 +1,6 @@
 # olicesx/kixparadigm
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/olicesx/kixparadigm) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/olicesx/kixparadigm) · 个人维护 · 中文 README
 
 **面向 DeepSeek Harness 的 AI 编码 Agent 预设与多智能体编排范式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "olicesx/kixparadigm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "olicesx/kixparadigm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 29（-1）
 
 
 ---

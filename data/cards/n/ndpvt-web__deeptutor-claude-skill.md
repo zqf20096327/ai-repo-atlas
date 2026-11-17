@@ -1,6 +1,6 @@
 # ndpvt-web/deeptutor-claude-skill
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/ndpvt-web/deeptutor-claude-skill) · 个人维护
+⭐ 46 · Python · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/ndpvt-web/deeptutor-claude-skill) · 个人维护
 
 **Claude Code 技能：把文档变成图增强 RAG 辅导教学会话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ndpvt-web/deeptutor-claude-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 35, 36, 37, 37]
+    title "ndpvt-web/deeptutor-claude-skill 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 47
+    line [33, 34, 35, 36, 37, 33, 42, 43, 44, 45, 46, 46]
 ```
 
-2026-10-18 33 → 2026-11-02 37（+4）
+2026-10-18 33 → 2026-11-17 46（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # tinh2/skills-hub-registry
 
-⭐ 22 · Python · 推送 2026-10-28 · [GitHub](https://github.com/tinh2/skills-hub-registry) · [官网](https://skills-hub.ai) · 组织维护
+⭐ 23 · Python · 推送 2026-10-28 · [GitHub](https://github.com/tinh2/skills-hub-registry) · [官网](https://skills-hub.ai) · 组织维护
 
 **面向 AI 编程工具的社区技能注册表：430 个 SKILL.md 技能分类收录**
 
@@ -44,13 +44,13 @@ skills-hub.ai 的官方技能集合仓库：收录 430 个以 SKILL.md 格式交
 
 ```mermaid
 xychart-beta
-    title "tinh2/skills-hub-registry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 22, 22]
+    title "tinh2/skills-hub-registry 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 22, 20, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

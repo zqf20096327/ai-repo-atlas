@@ -1,6 +1,6 @@
 # tomwechsler/Cyber_and_Information_Security_Knowledge_Base
 
-⭐ 21 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/tomwechsler/Cyber_and_Information_Security_Knowledge_Base) · 个人维护
+⭐ 22 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/tomwechsler/Cyber_and_Information_Security_Knowledge_Base) · 个人维护
 
 **网络安全标准与框架的结构化知识库：供专业人员查阅参考**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomwechsler/Cyber_and_Information_Security_Knowledge_Base 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "tomwechsler/Cyber_and_Information_Security_Knowledge_Base 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

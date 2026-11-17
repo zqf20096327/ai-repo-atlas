@@ -1,6 +1,6 @@
 # microsoft/physical-ai-toolchain
 
-⭐ 136 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/microsoft/physical-ai-toolchain) · 组织维护
+⭐ 139 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/physical-ai-toolchain) · 组织维护
 
 **机器人/物理 AI 全生命周期工具链：采集→训练→评估→部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/physical-ai-toolchain 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 128 --> 137
-    line [129, 131, 132, 133, 134, 135, 136]
+    title "microsoft/physical-ai-toolchain 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 128 --> 140
+    line [129, 131, 132, 133, 134, 135, 136, 133, 138, 137, 138, 139, 139]
 ```
 
-2026-10-18 129 → 2026-11-02 136（+7）
+2026-10-18 129 → 2026-11-17 139（+10）
 
 
 ---

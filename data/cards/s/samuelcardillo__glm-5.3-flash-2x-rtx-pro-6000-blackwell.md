@@ -1,6 +1,6 @@
 # samuelcardillo/glm-5.3-flash-2x-rtx-pro-6000-blackwell
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/samuelcardillo/glm-5.3-flash-2x-rtx-pro-6000-blackwell) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/samuelcardillo/glm-5.3-flash-2x-rtx-pro-6000-blackwell) · 个人维护
 
 **GLM-5.3 Flash 双卡本地部署配方：2×RTX PRO 6000 百万上下文推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "samuelcardillo/glm-5.3-flash-2x-rtx-pro-6000-blackwell 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "samuelcardillo/glm-5.3-flash-2x-rtx-pro-6000-blackwell 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 63, 64, 64]
 ```
 
-2026-10-18 60 → 2026-11-02 61（+1）
+2026-10-18 60 → 2026-11-17 64（+4）
 
 
 ---

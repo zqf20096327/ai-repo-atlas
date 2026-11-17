@@ -1,6 +1,6 @@
 # neo4j-partners/hands-on-lab-neo4j-and-amazon
 
-⭐ 59 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/neo4j-partners/hands-on-lab-neo4j-and-amazon) · 组织维护
+⭐ 60 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/neo4j-partners/hands-on-lab-neo4j-and-amazon) · 组织维护
 
 **面向数据科学家的 Neo4j 与 Amazon Bedrock GraphRAG 实操教程**
 
@@ -45,13 +45,13 @@ Neo4j 合作方维护的动手实验（Hands-On Lab）教程仓库，主题为�
 
 ```mermaid
 xychart-beta
-    title "neo4j-partners/hands-on-lab-neo4j-and-amazon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "neo4j-partners/hands-on-lab-neo4j-and-amazon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # raold/second-brain
 
-⭐ 36 · Python · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/raold/second-brain) · [官网](https://raold.github.io/second-brain/) · 个人维护
+⭐ 38 · Python · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/raold/second-brain) · [官网](https://raold.github.io/second-brain/) · 个人维护
 
 **本地自托管的个人 AI 知识管理系统，多模态存取与检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "raold/second-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 33 --> 37
-    line [34, 36, 36]
+    title "raold/second-brain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 33 --> 39
+    line [34, 36, 37, 38, 38]
 ```
 
-2026-10-18 34 → 2026-11-02 36（+2）
+2026-10-18 34 → 2026-11-17 38（+4）
 
 
 ---

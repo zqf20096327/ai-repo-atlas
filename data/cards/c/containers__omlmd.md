@@ -1,6 +1,6 @@
 # containers/omlmd
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/containers/omlmd) · [官网](https://containers.github.io/omlmd) · 组织维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/containers/omlmd) · [官网](https://containers.github.io/omlmd) · 组织维护
 
 **以 OCI Artifact 打包/分发 ML 模型与元数据的 SDK 和 CLI**
 
@@ -43,13 +43,13 @@ containers 组织下的开源工具链：提供 Python SDK 与 CLI，将 ML 模�
 
 ```mermaid
 xychart-beta
-    title "containers/omlmd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    title "containers/omlmd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 81 --> 84
+    line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-17 83（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tunib-ai/joker
 
-⭐ 11 · Python · 推送 2026-02-09 · [GitHub](https://github.com/tunib-ai/joker) · [官网](https://huggingface.co/tunib/llama-3-joker) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者与科研：自动化测试 LLM 伦理攻击防御的韩语模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tunib-ai/joker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

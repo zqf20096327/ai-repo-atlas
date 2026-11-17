@@ -1,6 +1,6 @@
 # castacks/UniCeption
 
-⭐ 99 · Python · BSD-3-Clause · 推送 2026-03-22 · [GitHub](https://github.com/castacks/UniCeption) · [官网](https://pypi.org/project/uniception/) · 组织维护
+⭐ 100 · Python · BSD-3-Clause · 推送 2026-03-22 · [GitHub](https://github.com/castacks/UniCeption) · [官网](https://pypi.org/project/uniception/) · 组织维护
 
 **面向研究者的通用 3D/4D/场景理解感知模型构建模块库**
 
@@ -44,13 +44,13 @@ UniCeption 提供用于开发与训练可泛化感知模型的模块化构建块
 
 ```mermaid
 xychart-beta
-    title "castacks/UniCeption 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    title "castacks/UniCeption 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 98 --> 101
+    line [99, 100, 100]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 100（+1）
 
 
 ---

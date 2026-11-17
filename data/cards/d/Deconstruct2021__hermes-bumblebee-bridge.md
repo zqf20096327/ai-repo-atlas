@@ -1,6 +1,6 @@
 # Deconstruct2021/hermes-bumblebee-bridge
 
-⭐ 19 · Shell · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/Deconstruct2021/hermes-bumblebee-bridge) · 个人维护
+⭐ 18 · Shell · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/Deconstruct2021/hermes-bumblebee-bridge) · 个人维护
 
 **为 Hermes Agent 接入 Bumblebee 的供应链安全扫描桥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Deconstruct2021/hermes-bumblebee-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "Deconstruct2021/hermes-bumblebee-bridge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    line [18, 19, 18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

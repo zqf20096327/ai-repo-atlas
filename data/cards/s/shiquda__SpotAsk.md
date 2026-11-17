@@ -1,6 +1,6 @@
 # shiquda/SpotAsk
 
-⭐ 22 · Swift · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/shiquda/SpotAsk) · [官网](https://shiquda.github.io/SpotAsk/) · 个人维护 · 中文 README
+⭐ 24 · Swift · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/shiquda/SpotAsk) · [官网](https://shiquda.github.io/SpotAsk/) · 个人维护 · 中文 README
 
 **macOS 菜单栏 AI 助手：快捷键唤起提问并路由到多端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shiquda/SpotAsk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 21, 22, 22]
+    title "shiquda/SpotAsk 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 21, 22, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

@@ -45,13 +45,13 @@ SignLens 是部署在 GitHub Pages 上的网页应用，通过 MediaPipe Hands �
 
 ```mermaid
 xychart-beta
-    title "classifiedstudentkabir/Sign-Language-Interpreter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 62, 63, 62, 63]
+    title "classifiedstudentkabir/Sign-Language-Interpreter 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 62, 63, 62, 63, 60, 63, 64, 63, 63]
 ```
 
-2026-10-18 60 → 2026-11-02 63（+3）
+2026-10-18 60 → 2026-11-17 63（+3）
 
 
 ---

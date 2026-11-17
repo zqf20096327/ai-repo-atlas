@@ -1,6 +1,6 @@
 # frjnn/bhtsne
 
-⭐ 95 · Rust · MIT · 推送 2026-08-31 · [GitHub](https://github.com/frjnn/bhtsne) · [官网](https://docs.rs/bhtsne) · 个人维护
+⭐ 95 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/frjnn/bhtsne) · [官网](https://docs.rs/bhtsne) · 个人维护
 
 **Rust 编写的并行 Barnes-Hut t-SNE 降维库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "frjnn/bhtsne 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 95（+0）
 
 
 ---

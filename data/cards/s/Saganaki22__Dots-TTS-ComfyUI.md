@@ -1,6 +1,6 @@
 # Saganaki22/Dots-TTS-ComfyUI
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/Dots-TTS-ComfyUI) · [官网](https://github.com/rednote-hilab/dots.tts) · 个人维护 · 中文 README
+⭐ 39 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/Dots-TTS-ComfyUI) · [官网](https://github.com/rednote-hilab/dots.tts) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：dots.tts 语音合成、克隆与 Whisper 转录**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/Dots-TTS-ComfyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "Saganaki22/Dots-TTS-ComfyUI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [40, 39, 39]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 39（-1）
 
 
 ---

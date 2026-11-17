@@ -1,6 +1,6 @@
 # AounYoussef/JobCrafting
 
-⭐ 14 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/AounYoussef/JobCrafting) · [官网](https://jobcrafting.vercel.app) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/AounYoussef/JobCrafting) · [官网](https://jobcrafting.vercel.app) · 个人维护
 
 **AI 职业匹配平台：帮用户找到契合技能与价值观的工作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AounYoussef/JobCrafting 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [16, 14, 14]
+    title "AounYoussef/JobCrafting 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [16, 14, 12, 13, 13]
 ```
 
-2026-10-18 16 → 2026-11-02 14（-2）
+2026-10-18 16 → 2026-11-17 13（-3）
 
 
 ---

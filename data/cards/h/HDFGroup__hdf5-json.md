@@ -1,6 +1,6 @@
 # HDFGroup/hdf5-json
 
-⭐ 81 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/HDFGroup/hdf5-json) · [官网](https://support.hdfgroup.org/documentation/hdf5-json/latest/) · 组织维护
+⭐ 81 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/HDFGroup/hdf5-json) · [官网](https://support.hdfgroup.org/documentation/hdf5-json/latest/) · 组织维护
 
 **HDF5 与 JSON 双向转换的规范与 Python 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HDFGroup/hdf5-json 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 81（+0）
 
 
 ---

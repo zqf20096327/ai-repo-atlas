@@ -1,6 +1,6 @@
 # InfiXAI/InfiGUI-G1
 
-⭐ 152 · Python · Apache-2.0 · 推送 2025-11-19 · [GitHub](https://github.com/InfiXAI/InfiGUI-G1) · [官网](https://arxiv.org/abs/2508.05731) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **GUI 定位模型系列：用自适应探索策略优化训练的 3B/7B 多模态模型**
 
@@ -11,7 +11,7 @@ AAAI 2026 Oral 论文 InfiGUI-G1 的官方仓库，提供 3B 与 7B 两个在 Hu
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ AAAI 2026 Oral 论文 InfiGUI-G1 的官方仓库，提供 3B 与 7B 两个在 Hu
 ```mermaid
 xychart-beta
     title "InfiXAI/InfiGUI-G1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 151 --> 153
-    line [152, 152]
+    x-axis ["2026-10-18", "2026-11-14"]
+    y-axis "stars" 151 --> 154
+    line [152, 153]
 ```
 
-2026-10-18 152 → 2026-11-02 152（+0）
+2026-10-18 152 → 2026-11-14 153（+1）
 
 
 ---

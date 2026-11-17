@@ -1,6 +1,6 @@
 # Toston-App/lake
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Toston-App/lake) · [官网](https://toston.app) · 组织维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Toston-App/lake) · [官网](https://toston.app) · 组织维护
 
 **开源个人财务管理器的后端，支持 WhatsApp 记账**
 
@@ -45,13 +45,13 @@ Toston（原 Cleverbill.ing）的 Python 后端：个人财务管理器，通过
 
 ```mermaid
 xychart-beta
-    title "Toston-App/lake 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "Toston-App/lake 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [22, 23, 22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

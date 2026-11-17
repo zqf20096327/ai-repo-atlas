@@ -1,6 +1,6 @@
 # reichenbach/iwork_mcp
 
-⭐ 41 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/reichenbach/iwork_mcp) · 个人维护
+⭐ 45 · TypeScript · 推送 2026-11-05 · [GitHub](https://github.com/reichenbach/iwork_mcp) · 个人维护
 
 **用 AI agent 自动化操作 macOS iWork 三件套的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reichenbach/iwork_mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 36 --> 42
-    line [37, 38, 39, 40, 41, 41]
+    title "reichenbach/iwork_mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 46
+    line [37, 38, 39, 40, 41, 38, 42, 43, 44, 45, 45]
 ```
 
-2026-10-18 37 → 2026-11-02 41（+4）
+2026-10-18 37 → 2026-11-17 45（+8）
 
 
 ---

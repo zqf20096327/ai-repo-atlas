@@ -1,6 +1,6 @@
 # kokikwbt/predictive-maintenance
 
-⭐ 176 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kokikwbt/predictive-maintenance) · 个人维护
+⭐ 177 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/kokikwbt/predictive-maintenance) · 个人维护
 
 **预测性维护数据集的下载加载可视化 Python 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kokikwbt/predictive-maintenance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 173 --> 177
-    line [174, 175, 176, 176]
+    title "kokikwbt/predictive-maintenance 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 173 --> 178
+    line [174, 175, 176, 177, 177]
 ```
 
-2026-10-18 174 → 2026-11-02 176（+2）
+2026-10-18 174 → 2026-11-17 177（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # NUGURI-7/CoCoWork
 
-⭐ 15 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/NUGURI-7/CoCoWork) · [官网](https://cocowork.nuguri.org) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NUGURI-7/CoCoWork) · [官网](https://cocowork.nuguri.org) · 个人维护 · 中文 README
 
 **多 Agent 协作平台：supervisor 调度、Agentic RAG 与沙箱产出物**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NUGURI-7/CoCoWork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # unicornB/Supportly-Ai
 
-⭐ 39 · TypeScript · 推送 2026-05-23 · [GitHub](https://github.com/unicornB/Supportly-Ai) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · 推送 2026-05-23 · [GitHub](https://github.com/unicornB/Supportly-Ai) · 个人维护 · 中文 README
 
 **给小团队自部署的 Cloudflare 原生 AI 智能客服后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "unicornB/Supportly-Ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 38, 39, 39]
+    title "unicornB/Supportly-Ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 38, 39, 35, 40, 40]
 ```
 
-2026-10-18 35 → 2026-11-02 39（+4）
+2026-10-18 35 → 2026-11-17 40（+5）
 
 
 ---

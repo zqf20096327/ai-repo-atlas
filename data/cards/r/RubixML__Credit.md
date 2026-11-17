@@ -1,6 +1,6 @@
 # RubixML/Credit
 
-⭐ 37 · PHP · MIT · 推送 2026-10-20 · [GitHub](https://github.com/RubixML/Credit) · [官网](https://rubixml.org) · 组织维护
+⭐ 35 · PHP · MIT · 推送 2026-10-20 · [GitHub](https://github.com/RubixML/Credit) · [官网](https://rubixml.org) · 组织维护
 
 **用逻辑回归预测信用卡违约的 Rubix ML 示例项目**
 
@@ -45,13 +45,13 @@ Rubix ML 官方示例工程：基于 30,000 条台湾信用卡客户数据，训
 
 ```mermaid
 xychart-beta
-    title "RubixML/Credit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "RubixML/Credit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 34 --> 38
+    line [37, 35, 35]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 35（-2）
 
 
 ---

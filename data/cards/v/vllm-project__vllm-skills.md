@@ -1,6 +1,6 @@
 # vllm-project/vllm-skills
 
-⭐ 103 · Shell · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/vllm-project/vllm-skills) · 组织维护
+⭐ 105 · Shell · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/vllm-project/vllm-skills) · 组织维护
 
 **面向 Claude Code 的 vLLM 部署与基准测试 agent 技能集**
 
@@ -45,13 +45,13 @@ vLLM 项目维护的 agent 技能仓库，遵循 anthropics/skills 的 SKILL.md 
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 101 --> 104
-    line [102, 103, 103]
+    title "vllm-project/vllm-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 101 --> 106
+    line [102, 103, 102, 104, 105, 105]
 ```
 
-2026-10-18 102 → 2026-11-02 103（+1）
+2026-10-18 102 → 2026-11-17 105（+3）
 
 
 ---

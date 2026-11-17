@@ -1,6 +1,6 @@
 # vikonix/Mimora
 
-⭐ 30 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/vikonix/Mimora) · [官网](https://github.com/vikonix/Mimora/releases/latest) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/vikonix/Mimora) · [官网](https://github.com/vikonix/Mimora/releases/latest) · 个人维护
 
 **面向英语/西语学习者的本地离线发音训练器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vikonix/Mimora 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 12 --> 31
-    line [13, 24, 25, 26, 28, 29, 30]
+    title "vikonix/Mimora 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 40
+    line [13, 24, 25, 26, 28, 29, 30, 25, 35, 36, 37, 38, 38]
 ```
 
-2026-10-18 13 → 2026-11-02 30（+17）
+2026-10-18 13 → 2026-11-17 38（+25）
 
 
 ---

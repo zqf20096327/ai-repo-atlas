@@ -1,6 +1,6 @@
 # hyparam/hypaware
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hyparam/hypaware) · [官网](https://hypaware.ai) · 组织维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hyparam/hypaware) · [官网](https://hypaware.ai) · 组织维护
 
 **AI 客户端会话录制与分析工具：把各 agent 历史变成可查询数据**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hyparam/hypaware 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 16, 16]
+    title "hyparam/hypaware 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 16, 12, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

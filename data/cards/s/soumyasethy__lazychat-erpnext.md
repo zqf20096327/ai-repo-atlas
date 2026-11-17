@@ -1,6 +1,6 @@
 # soumyasethy/lazychat-erpnext
 
-⭐ 21 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/soumyasethy/lazychat-erpnext) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/soumyasethy/lazychat-erpnext) · 个人维护
 
 **嵌入 ERPNext 工作台的 AI 助手：对话查数据、起草报表、确认后落库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "soumyasethy/lazychat-erpnext 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "soumyasethy/lazychat-erpnext 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

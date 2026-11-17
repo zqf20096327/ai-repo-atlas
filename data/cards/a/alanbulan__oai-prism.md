@@ -1,6 +1,6 @@
 # alanbulan/oai-prism
 
-⭐ 26 · Go · MIT · 推送 2026-10-06 · [GitHub](https://github.com/alanbulan/oai-prism) · 个人维护 · 中文 README
+⭐ 26 · Go · MIT · 推送 2026-11-03 · [GitHub](https://github.com/alanbulan/oai-prism) · 个人维护 · 中文 README
 
 **把 OpenAI Prism 私有协议转成标准 API 的 Go 网关**
 
@@ -44,13 +44,13 @@ Go 单二进制网关，将 prism.openai.com 的私有协议（start+轮询、Se
 
 ```mermaid
 xychart-beta
-    title "alanbulan/oai-prism 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
+    title "alanbulan/oai-prism 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 25 --> 29
-    line [28, 27, 26, 26]
+    line [28, 27, 26, 27, 26, 26]
 ```
 
-2026-10-18 28 → 2026-11-02 26（-2）
+2026-10-18 28 → 2026-11-17 26（-2）
 
 
 ---

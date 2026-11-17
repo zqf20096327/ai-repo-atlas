@@ -1,6 +1,6 @@
 # mapooon/PetFace
 
-⭐ 116 · Python · 推送 2026-07-10 · [GitHub](https://github.com/mapooon/PetFace) · 组织维护
+⭐ 117 · Python · 推送 2026-07-10 · [GitHub](https://github.com/mapooon/PetFace) · 组织维护
 
 **动物身份识别大规模数据集与基准（25万+ID，13科）**
 
@@ -45,13 +45,13 @@ ECCV 2024 Oral 论文 PetFace 的官方 PyTorch 实现：提供覆盖 13 科动�
 
 ```mermaid
 xychart-beta
-    title "mapooon/PetFace 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 113 --> 117
-    line [114, 115, 116, 116]
+    title "mapooon/PetFace 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 113 --> 118
+    line [114, 115, 116, 115, 117, 117]
 ```
 
-2026-10-18 114 → 2026-11-02 116（+2）
+2026-10-18 114 → 2026-11-17 117（+3）
 
 
 ---

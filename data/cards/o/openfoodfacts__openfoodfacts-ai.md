@@ -1,6 +1,6 @@
 # openfoodfacts/openfoodfacts-ai
 
-⭐ 275 · Python · 推送 2026-10-26 · [GitHub](https://github.com/openfoodfacts/openfoodfacts-ai) · 组织维护
+⭐ 278 · Python · 推送 2026-10-26 · [GitHub](https://github.com/openfoodfacts/openfoodfacts-ai) · 组织维护
 
 **Open Food Facts 的 AI 实验追踪仓库：记录模型训练与项目清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openfoodfacts/openfoodfacts-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 274 --> 276
-    line [275, 275]
+    title "openfoodfacts/openfoodfacts-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 274 --> 279
+    line [275, 277, 278, 278]
 ```
 
-2026-10-18 275 → 2026-11-02 275（+0）
+2026-10-18 275 → 2026-11-17 278（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MugglePay/MugglePay
 
-⭐ 241 · JavaScript · BSD-2-Clause · 推送 2026-03-16 · [GitHub](https://github.com/MugglePay/MugglePay) · [官网](https://blog.mugglepay.com/) · 组织维护 · 中文 README
+⭐ 241 · JavaScript · BSD-2-Clause · 推送 2026-11-16 · [GitHub](https://github.com/MugglePay/MugglePay) · [官网](https://blog.mugglepay.com/) · 组织维护 · 中文 README
 
 **面向商户与 AI Agent 的加密货币支付网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MugglePay/MugglePay 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
     y-axis "stars" 238 --> 242
     line [239, 240, 241, 241]
 ```
 
-2026-10-18 239 → 2026-11-02 241（+2）
+2026-10-18 239 → 2026-11-17 241（+2）
 
 
 ---

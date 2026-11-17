@@ -1,6 +1,6 @@
 # openai/openai-guardrails-js
 
-⭐ 113 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openai/openai-guardrails-js) · [官网](https://guardrails.openai.com) · 组织维护
+⭐ 114 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openai/openai-guardrails-js) · [官网](https://guardrails.openai.com) · 组织维护
 
 **给 OpenAI 应用加输入输出安全检查的 TypeScript 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-guardrails-js 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 107 --> 114
-    line [108, 110, 111, 112, 113, 113]
+    title "openai/openai-guardrails-js 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 107 --> 115
+    line [108, 110, 111, 112, 113, 111, 113, 114, 114]
 ```
 
-2026-10-18 108 → 2026-11-02 113（+5）
+2026-10-18 108 → 2026-11-17 114（+6）
 
 
 ---

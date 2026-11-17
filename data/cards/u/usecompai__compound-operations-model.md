@@ -1,6 +1,6 @@
 # usecompai/compound-operations-model
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/usecompai/compound-operations-model) · [官网](https://usecompai.com) · 组织维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/usecompai/compound-operations-model) · [官网](https://usecompai.com) · 组织维护
 
 **企业 AI 运营架构的参考实现与工作笔记集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "usecompai/compound-operations-model 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "usecompai/compound-operations-model 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 33
+    line [27, 28, 27, 31, 32, 32]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 32（+5）
 
 
 ---

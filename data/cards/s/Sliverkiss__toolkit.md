@@ -1,6 +1,6 @@
 # Sliverkiss/toolkit
 
-⭐ 18 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Sliverkiss/toolkit) · 个人维护 · 中文 README
+⭐ 19 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Sliverkiss/toolkit) · 个人维护 · 中文 README
 
 **给不支持函数调用的 LLM API 补上 tool_calls 的 Go 中间件库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sliverkiss/toolkit 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 19
-    line [12, 15, 16, 17, 18, 18]
+    title "Sliverkiss/toolkit 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 20
+    line [12, 15, 16, 17, 18, 16, 18, 19, 19]
 ```
 
-2026-10-22 12 → 2026-11-02 18（+6）
+2026-10-22 12 → 2026-11-17 19（+7）
 
 
 ---

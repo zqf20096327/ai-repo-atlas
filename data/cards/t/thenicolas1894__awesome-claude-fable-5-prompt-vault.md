@@ -1,6 +1,6 @@
 # thenicolas1894/awesome-claude-fable-5-prompt-vault
 
-⭐ 141 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **提示工程模式知识库：模板、评估框架与部署蓝图合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thenicolas1894/awesome-claude-fable-5-prompt-vault 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 139 --> 142
-    line [141, 140, 141, 141]
+    title "thenicolas1894/awesome-claude-fable-5-prompt-vault 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-10", "2026-11-13", "2026-11-15"]
+    y-axis "stars" 139 --> 144
+    line [141, 140, 141, 142, 143, 143]
 ```
 
-2026-10-18 141 → 2026-11-02 141（+0）
+2026-10-18 141 → 2026-11-15 143（+2）
 
 
 ---

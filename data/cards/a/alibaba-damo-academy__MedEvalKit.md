@@ -1,6 +1,6 @@
 # alibaba-damo-academy/MedEvalKit
 
-⭐ 266 · Python · 推送 2026-02-24 · [GitHub](https://github.com/alibaba-damo-academy/MedEvalKit) · [官网](https://alibaba-damo-academy.github.io/lingshu/) · 组织维护 · 中文 README
+⭐ 270 · Python · 推送 2026-02-24 · [GitHub](https://github.com/alibaba-damo-academy/MedEvalKit) · [官网](https://alibaba-damo-academy.github.io/lingshu/) · 组织维护 · 中文 README
 
 **面向医疗大模型（LMM/LLM）的统一评测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba-damo-academy/MedEvalKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 265 --> 267
-    line [266, 266]
+    title "alibaba-damo-academy/MedEvalKit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 265 --> 271
+    line [266, 267, 268, 269, 270, 270]
 ```
 
-2026-10-18 266 → 2026-11-02 266（+0）
+2026-10-18 266 → 2026-11-17 270（+4）
 
 
 ---

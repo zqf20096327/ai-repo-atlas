@@ -1,6 +1,6 @@
 # EuniAI/awesome-code-agents
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/EuniAI/awesome-code-agents) · [官网](https://euniai.github.io/awesome-code-agents/) · 组织维护
+⭐ 171 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/EuniAI/awesome-code-agents) · [官网](https://euniai.github.io/awesome-code-agents/) · 组织维护
 
 **自主代码 agent 前沿研究论文策展清单（470 篇）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EuniAI/awesome-code-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 165 --> 170
-    line [166, 168, 169, 169]
+    title "EuniAI/awesome-code-agents 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 165 --> 172
+    line [166, 168, 169, 168, 171, 171]
 ```
 
-2026-10-18 166 → 2026-11-02 169（+3）
+2026-10-18 166 → 2026-11-17 171（+5）
 
 
 ---

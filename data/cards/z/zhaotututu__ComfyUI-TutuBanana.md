@@ -1,6 +1,6 @@
 # zhaotututu/ComfyUI-TutuBanana
 
-⭐ 146 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/zhaotututu/ComfyUI-TutuBanana) · 个人维护 · 中文 README
+⭐ 147 · Python · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/zhaotututu/ComfyUI-TutuBanana) · 个人维护 · 中文 README
 
 **ComfyUI 的 Gemini 图像生成节点套件，接多平台 API**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhaotututu/ComfyUI-TutuBanana 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "zhaotututu/ComfyUI-TutuBanana 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 145 --> 148
-    line [146, 147, 146, 146]
+    line [146, 147, 146, 147, 147]
 ```
 
-2026-10-18 146 → 2026-11-02 146（+0）
+2026-10-18 146 → 2026-11-17 147（+1）
 
 
 ---

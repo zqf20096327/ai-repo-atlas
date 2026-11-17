@@ -1,6 +1,6 @@
 # tamanitomo/tamanitomo
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/tamanitomo/tamanitomo) · 个人维护
+⭐ 44 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/tamanitomo/tamanitomo) · 个人维护
 
 **自托管 AI 陪伴应用：常驻本地、有记忆与日常作息**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tamanitomo/tamanitomo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 42, 43, 43]
+    title "tamanitomo/tamanitomo 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 43, 42, 43, 44, 44]
 ```
 
-2026-10-18 41 → 2026-11-02 43（+2）
+2026-10-18 41 → 2026-11-17 44（+3）
 
 
 ---

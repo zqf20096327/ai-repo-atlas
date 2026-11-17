@@ -1,6 +1,6 @@
 # mynaparrot/plugNmeet-server
 
-⭐ 575 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mynaparrot/plugNmeet-server) · [官网](https://www.plugnmeet.org) · 组织维护
+⭐ 580 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mynaparrot/plugNmeet-server) · [官网](https://www.plugnmeet.org) · 组织维护
 
 **自托管视频会议软件，附 AI 会议转录/翻译/摘要**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mynaparrot/plugNmeet-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 572 --> 577
-    line [575, 576, 575, 573, 574, 575, 575]
+    title "mynaparrot/plugNmeet-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 572 --> 581
+    line [575, 576, 575, 573, 574, 575, 573, 575, 577, 579, 580, 580]
 ```
 
-2026-10-18 575 → 2026-11-02 575（+0）
+2026-10-18 575 → 2026-11-17 580（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # fenxer/llm-things
 
-⭐ 620 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fenxer/llm-things) · [官网](https://df.fenx.work/llm-things/) · 个人维护 · 中文 README
+⭐ 621 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fenxer/llm-things) · [官网](https://df.fenx.work/llm-things/) · 个人维护 · 中文 README
 
 **LLM 主题梗图与贴纸合集（png/svg）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "fenxer/llm-things 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 617 --> 621
-    line [618, 620, 620]
+    title "fenxer/llm-things 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 617 --> 622
+    line [618, 620, 618, 620, 621, 620, 621, 621]
 ```
 
-2026-10-18 618 → 2026-11-02 620（+2）
+2026-10-18 618 → 2026-11-17 621（+3）
 
 
 ---

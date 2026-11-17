@@ -1,6 +1,6 @@
 # manasijatech/ananta-market-stack
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/manasijatech/ananta-market-stack) · [官网](https://manasija.in/ananta-market-stack) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/manasijatech/ananta-market-stack) · [官网](https://manasija.in/ananta-market-stack) · 组织维护
 
 **自托管交易与行情工作台：统一接入多家印度券商账户**
 
@@ -45,12 +45,12 @@ FastAPI + Next.js 的自托管交易工作区：集中管理券商账户与登�
 ```mermaid
 xychart-beta
     title "manasijatech/ananta-market-stack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-17"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rajdhal/trOCR
 
-⭐ 13 · Python · 推送 2026-02-01 · [GitHub](https://github.com/rajdhal/trOCR) · [官网](https://ai.rajand.xyz/) · 组织维护
+⭐ 14 · Python · 推送 2026-02-01 · [GitHub](https://github.com/rajdhal/trOCR) · [官网](https://ai.rajand.xyz/) · 组织维护
 
 **温莎大学签到表姓名识别：trOCR+YOLO 的手写文本识别应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rajdhal/trOCR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "rajdhal/trOCR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

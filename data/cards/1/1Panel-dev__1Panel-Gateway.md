@@ -1,6 +1,6 @@
 # 1Panel-dev/1Panel-Gateway
 
-⭐ 86 · 推送 2026-10-30 · [GitHub](https://github.com/1Panel-dev/1Panel-Gateway) · [官网](https://1panel.cn/ai-gateway.html) · 组织维护 · 中文 README
+⭐ 86 · 推送 2026-11-13 · [GitHub](https://github.com/1Panel-dev/1Panel-Gateway) · [官网](https://1panel.cn/ai-gateway.html) · 组织维护 · 中文 README
 
 **面向企业团队的 AI 统一接入与治理网关平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1Panel-dev/1Panel-Gateway 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "1Panel-dev/1Panel-Gateway 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 77 --> 87
-    line [78, 79, 82, 83, 85, 86, 86]
+    line [78, 79, 82, 83, 85, 86, 83, 86, 86]
 ```
 
-2026-10-18 78 → 2026-11-02 86（+8）
+2026-10-18 78 → 2026-11-17 86（+8）
 
 
 ---

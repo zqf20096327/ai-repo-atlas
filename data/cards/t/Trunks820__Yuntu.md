@@ -1,6 +1,6 @@
 # Trunks820/Yuntu
 
-⭐ 55 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Trunks820/Yuntu) · [官网](https://kakarot8.com) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Trunks820/Yuntu) · [官网](https://kakarot8.com) · 个人维护 · 中文 README
 
 **AI 旅行规划引擎：确定性路线排程 + 事实约束文案生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Trunks820/Yuntu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
+    title "Trunks820/Yuntu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 52 --> 56
-    line [53, 54, 55, 55]
+    line [53, 54, 55, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 55（+2）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

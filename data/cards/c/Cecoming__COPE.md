@@ -1,6 +1,6 @@
 # Cecoming/COPE
 
-⭐ 15 · Python · 推送 2026-06-03 · [GitHub](https://github.com/Cecoming/COPE) · 组织维护
+⭐ 18 · Python · 推送 2026-06-03 · [GitHub](https://github.com/Cecoming/COPE) · 组织维护
 
 **遮挡行人重识别研究代码：CVPR 2026 论文官方复现**
 
@@ -45,13 +45,13 @@ CVPR 2026 论文 COPE 的官方 PyTorch 仓库，针对遮挡行人重识别（O
 
 ```mermaid
 xychart-beta
-    title "Cecoming/COPE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "Cecoming/COPE 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

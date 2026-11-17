@@ -1,6 +1,6 @@
 # apeman/awesome_computer_science
 
-⭐ 589 · MPL-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/apeman/awesome_computer_science) · 个人维护
+⭐ 590 · MPL-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/apeman/awesome_computer_science) · 个人维护
 
 **计算机科学与工程本科课程的完整大纲核对清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "apeman/awesome_computer_science 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 585 --> 590
-    line [586, 587, 589, 589]
+    title "apeman/awesome_computer_science 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 585 --> 591
+    line [586, 587, 589, 586, 588, 590, 590]
 ```
 
-2026-10-18 586 → 2026-11-02 589（+3）
+2026-10-18 586 → 2026-11-17 590（+4）
 
 
 ---

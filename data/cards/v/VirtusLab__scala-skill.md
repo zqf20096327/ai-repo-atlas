@@ -1,6 +1,6 @@
 # VirtusLab/scala-skill
 
-⭐ 79 · 推送 2026-10-16 · [GitHub](https://github.com/VirtusLab/scala-skill) · 组织维护
+⭐ 80 · 推送 2026-10-16 · [GitHub](https://github.com/VirtusLab/scala-skill) · 组织维护
 
 **面向 Claude Code/Codex 等 Agent 的 Scala 编码技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VirtusLab/scala-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79, 79]
+    title "VirtusLab/scala-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 81
+    line [76, 77, 78, 79, 80, 80]
 ```
 
-2026-10-18 76 → 2026-11-02 79（+3）
+2026-10-18 76 → 2026-11-17 80（+4）
 
 
 ---

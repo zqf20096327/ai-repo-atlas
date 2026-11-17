@@ -1,6 +1,6 @@
 # AhmadJeddi/Resnet-DCBAM
 
-⭐ 40 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/AhmadJeddi/Resnet-DCBAM) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/AhmadJeddi/Resnet-DCBAM) · 个人维护
 
 **PyTorch 实现的 DCBAM 注意力模块与 ResNet50 骨干网络**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AhmadJeddi/Resnet-DCBAM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 39, 40, 40]
+    title "AhmadJeddi/Resnet-DCBAM 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 36 --> 45
+    line [37, 38, 39, 40, 39, 41, 42, 43, 44, 44]
 ```
 
-2026-10-18 37 → 2026-11-02 40（+3）
+2026-10-18 37 → 2026-11-17 44（+7）
 
 
 ---

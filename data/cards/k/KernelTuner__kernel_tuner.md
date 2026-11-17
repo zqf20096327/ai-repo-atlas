@@ -1,6 +1,6 @@
 # KernelTuner/kernel_tuner
 
-⭐ 427 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/KernelTuner/kernel_tuner) · [官网](https://kerneltuner.github.io/kernel_tuner/) · 组织维护
+⭐ 428 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/KernelTuner/kernel_tuner) · [官网](https://kerneltuner.github.io/kernel_tuner/) · 组织维护
 
 **面向开发者的 GPU kernel 自动调优框架（CUDA/HIP/OpenCL 等）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KernelTuner/kernel_tuner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 425 --> 428
-    line [426, 427, 427]
+    title "KernelTuner/kernel_tuner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 425 --> 429
+    line [426, 427, 428, 428]
 ```
 
-2026-10-18 426 → 2026-11-02 427（+1）
+2026-10-18 426 → 2026-11-17 428（+2）
 
 
 ---

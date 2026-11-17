@@ -1,6 +1,6 @@
 # clay-good/anvilate
 
-⭐ 12 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/clay-good/anvilate) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/clay-good/anvilate) · 个人维护
 
 **本地优先的机械零件工程校核工具：生成参数化 CAD 文件与逐条引用规范的校核记分卡**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "clay-good/anvilate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "clay-good/anvilate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

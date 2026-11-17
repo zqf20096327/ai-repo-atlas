@@ -1,6 +1,6 @@
 # Ge-limin/ai-native-engineering-manifesto
 
-⭐ 322 · CC-BY-4.0 · 推送 2026-07-02 · [GitHub](https://github.com/Ge-limin/ai-native-engineering-manifesto) · [官网](https://liminge.space/manifesto) · 个人维护 · 中文 README
+⭐ 328 · CC-BY-4.0 · 推送 2026-11-02 · [GitHub](https://github.com/Ge-limin/ai-native-engineering-manifesto) · [官网](https://liminge.space/manifesto) · 个人维护 · 中文 README
 
 **AI 原生软件工程宣言与实践手册（11 条硬真理+扩展章节）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ge-limin/ai-native-engineering-manifesto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 321 --> 323
-    line [322, 322]
+    title "Ge-limin/ai-native-engineering-manifesto 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 321 --> 330
+    line [322, 325, 328, 329, 328, 328]
 ```
 
-2026-10-18 322 → 2026-11-02 322（+0）
+2026-10-18 322 → 2026-11-17 328（+6）
 
 
 ---

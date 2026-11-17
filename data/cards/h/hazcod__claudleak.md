@@ -1,6 +1,6 @@
 # hazcod/claudleak
 
-⭐ 58 · Go · 推送 2026-05-19 · [GitHub](https://github.com/hazcod/claudleak) · [官网](https://ironpeak.be/blog/leaking-secrets-from-the-claud/) · 个人维护
+⭐ 61 · Go · 推送 2026-05-19 · [GitHub](https://github.com/hazcod/claudleak) · [官网](https://ironpeak.be/blog/leaking-secrets-from-the-claud/) · 个人维护
 
 **扫描公开 GitHub 仓库中 AI 编码工具配置文件泄露凭证的 CLI 工具**
 
@@ -44,13 +44,13 @@ Go 编写的命令行安全扫描工具：通过 GitHub Code Search 发现包含
 
 ```mermaid
 xychart-beta
-    title "hazcod/claudleak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "hazcod/claudleak 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 60, 61, 61]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 61（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # techdomegh/ai-news-scraper
 
-⭐ 14 · Python · 推送 2026-10-14 · [GitHub](https://github.com/techdomegh/ai-news-scraper) · 组织维护
+⭐ 15 · Python · 推送 2026-10-14 · [GitHub](https://github.com/techdomegh/ai-news-scraper) · 组织维护
 
 **抓取新闻并用 GenAI 生成摘要与语义搜索的 Python 应用**
 
@@ -45,13 +45,13 @@ Python 应用：用 Beautiful Soup 与 Requests 抓取新闻文章的标题、�
 
 ```mermaid
 xychart-beta
-    title "techdomegh/ai-news-scraper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "techdomegh/ai-news-scraper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

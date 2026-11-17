@@ -1,6 +1,6 @@
 # inseq-team/inseq
 
-⭐ 477 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/inseq-team/inseq) · [官网](https://inseq.org) · 组织维护
+⭐ 478 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/inseq-team/inseq) · [官网](https://inseq.org) · 组织维护
 
 **面向研究者的序列生成模型事后可解释性分析工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inseq-team/inseq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 476 --> 478
-    line [477, 477]
+    title "inseq-team/inseq 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 476 --> 479
+    line [477, 478, 478]
 ```
 
-2026-10-18 477 → 2026-11-02 477（+0）
+2026-10-18 477 → 2026-11-17 478（+1）
 
 
 ---

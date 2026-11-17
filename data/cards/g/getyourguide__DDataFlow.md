@@ -1,6 +1,6 @@
 # getyourguide/DDataFlow
 
-⭐ 15 · HTML · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/getyourguide/DDataFlow) · [官网](https://code.getyourguide.com/DDataFlow/) · 组织维护
+⭐ 15 · HTML · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/getyourguide/DDataFlow) · [官网](https://code.getyourguide.com/DDataFlow/) · 组织维护
 
 **PySpark ML 数据管道的端到端测试与本地开发采样工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "getyourguide/DDataFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Harusame64/desktop-touch-mcp
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Harusame64/desktop-touch-mcp) · [官网](https://harusame64.github.io/desktop-touch-mcp/) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Harusame64/desktop-touch-mcp) · [官网](https://harusame64.github.io/desktop-touch-mcp/) · 个人维护
 
 **Windows 桌面 computer-use MCP server，供 Claude 等 MCP 客户端操作本机应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Harusame64/desktop-touch-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    title "Harusame64/desktop-touch-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 22, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

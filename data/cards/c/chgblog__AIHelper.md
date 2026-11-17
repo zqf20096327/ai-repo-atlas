@@ -1,6 +1,6 @@
 # chgblog/AIHelper
 
-⭐ 34 · C# · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/chgblog/AIHelper) · 个人维护 · 中文 README
+⭐ 36 · C# · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/chgblog/AIHelper) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 助手：划词/快捷键调用网页大模型处理文本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chgblog/AIHelper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 34, 34]
+    title "chgblog/AIHelper 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 37
+    line [31, 32, 34, 31, 36, 36]
 ```
 
-2026-10-18 31 → 2026-11-02 34（+3）
+2026-10-18 31 → 2026-11-17 36（+5）
 
 
 ---

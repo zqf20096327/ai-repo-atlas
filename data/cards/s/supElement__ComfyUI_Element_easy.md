@@ -1,6 +1,6 @@
 # supElement/ComfyUI_Element_easy
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/supElement/ComfyUI_Element_easy) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/supElement/ComfyUI_Element_easy) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户的可视化交互节点集：剪辑、素材管理与调色**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "supElement/ComfyUI_Element_easy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
+    title "supElement/ComfyUI_Element_easy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    line [13, 14, 15, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SamurAIGPT/social-post
 
-⭐ 49 · JavaScript · 推送 2026-07-27 · [GitHub](https://github.com/SamurAIGPT/social-post) · 个人维护
+⭐ 52 · JavaScript · 推送 2026-07-27 · [GitHub](https://github.com/SamurAIGPT/social-post) · 个人维护
 
 **自托管的 AI 社媒帖子生成 SaaS 模板（Next.js）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/social-post 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "SamurAIGPT/social-post 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 46 --> 53
+    line [47, 48, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 47 → 2026-11-02 49（+2）
+2026-10-18 47 → 2026-11-17 52（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # milanglacier/minuet-ai.el
 
-⭐ 383 · Emacs Lisp · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/milanglacier/minuet-ai.el) · 个人维护
+⭐ 386 · Emacs Lisp · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/milanglacier/minuet-ai.el) · 个人维护
 
 **Emacs 的 LLM 代码补全插件：边打字边从多家模型取建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "milanglacier/minuet-ai.el 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 378 --> 384
-    line [379, 381, 382, 383, 383]
+    title "milanglacier/minuet-ai.el 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 378 --> 388
+    line [379, 381, 382, 383, 382, 384, 385, 387, 386, 386]
 ```
 
-2026-10-18 379 → 2026-11-02 383（+4）
+2026-10-18 379 → 2026-11-17 386（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # basicallysource/sorter
 
-⭐ 144 · Python · 推送 2026-01-18 · [GitHub](https://github.com/basicallysource/sorter) · [官网](https://basically.website/sorter-v1) · 个人维护
+⭐ 146 · Python · 推送 2026-01-18 · [GitHub](https://github.com/basicallysource/sorter) · [官网](https://basically.website/sorter-v1) · 个人维护
 
 **用机器学习对乐高积木进行分拣的机器项目**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "basicallysource/sorter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 139 --> 145
-    line [140, 141, 142, 144, 144]
+    title "basicallysource/sorter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 147
+    line [140, 141, 142, 144, 141, 146, 146]
 ```
 
-2026-10-18 140 → 2026-11-02 144（+4）
+2026-10-18 140 → 2026-11-17 146（+6）
 
 
 ---

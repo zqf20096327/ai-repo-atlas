@@ -1,6 +1,6 @@
 # adm73/OpenBcon
 
-⭐ 55 · TypeScript · AGPL-3.0 · 推送 2026-09-06 · [GitHub](https://github.com/adm73/OpenBcon) · [官网](https://www.bconomics.ai) · 个人维护 · 中文 README
+⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-09-06 · [GitHub](https://github.com/adm73/OpenBcon) · [官网](https://www.bconomics.ai) · 个人维护 · 中文 README
 
 **面向融资顾问的开源 AI 融资工作台，管理项目与生成融资方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "adm73/OpenBcon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
+    title "adm73/OpenBcon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 52 --> 56
-    line [53, 54, 55, 55]
+    line [53, 54, 55, 54, 55, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 55（+2）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

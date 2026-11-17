@@ -1,6 +1,6 @@
 # Frikallo/axiom
 
-⭐ 115 · C++ · MIT · 推送 2026-05-29 · [GitHub](https://github.com/Frikallo/axiom) · [官网](https://axiom-cpp.readthedocs.io) · 个人维护
+⭐ 117 · C++ · MIT · 推送 2026-05-29 · [GitHub](https://github.com/Frikallo/axiom) · [官网](https://axiom-cpp.readthedocs.io) · 个人维护
 
 **C++ 张量库：为 C++ 提供 NumPy/PyTorch 风格 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Frikallo/axiom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    title "Frikallo/axiom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 114 --> 118
+    line [115, 117, 117]
 ```
 
-2026-10-18 115 → 2026-11-02 115（+0）
+2026-10-18 115 → 2026-11-17 117（+2）
 
 
 ---

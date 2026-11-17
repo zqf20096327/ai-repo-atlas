@@ -1,6 +1,6 @@
 # KwanWaiPang/Awesome-Learning-based-VO-VIO
 
-⭐ 219 · 推送 2026-11-01 · [GitHub](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) · [官网](https://kwanwaipang.github.io/Learning-based-VO-VIO/) · 个人维护 · 中文 README
+⭐ 221 · 推送 2026-11-01 · [GitHub](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) · [官网](https://kwanwaipang.github.io/Learning-based-VO-VIO/) · 个人维护 · 中文 README
 
 **基于学习的视觉/惯性里程计论文清单（VO/VIO/SLAM）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KwanWaiPang/Awesome-Learning-based-VO-VIO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 217 --> 220
-    line [218, 219]
+    title "KwanWaiPang/Awesome-Learning-based-VO-VIO 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 217 --> 222
+    line [218, 219, 218, 219, 221, 221]
 ```
 
-2026-10-18 218 → 2026-11-02 219（+1）
+2026-10-18 218 → 2026-11-17 221（+3）
 
 
 ---

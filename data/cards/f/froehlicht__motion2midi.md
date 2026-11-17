@@ -1,6 +1,6 @@
 # froehlicht/motion2midi
 
-⭐ 33 · HTML · 推送 2025-12-04 · [GitHub](https://github.com/froehlicht/motion2midi) · [官网](https://motion2midi.com/) · 个人维护
+⭐ 34 · HTML · 推送 2025-12-04 · [GitHub](https://github.com/froehlicht/motion2midi) · [官网](https://motion2midi.com/) · 个人维护
 
 **摄像头手部追踪驱动的 MIDI 控制插件，用于 DAW**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "froehlicht/motion2midi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "froehlicht/motion2midi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

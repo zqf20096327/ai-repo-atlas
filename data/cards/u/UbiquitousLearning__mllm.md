@@ -1,6 +1,6 @@
 # UbiquitousLearning/mllm
 
-⭐ 1,631 · C++ · MIT · 推送 2026-09-30 · [GitHub](https://github.com/UbiquitousLearning/mllm) · [官网](https://ubiquitouslearning.github.io/mllm/) · 组织维护
+⭐ 1,640 · C++ · MIT · 推送 2026-09-30 · [GitHub](https://github.com/UbiquitousLearning/mllm) · [官网](https://ubiquitouslearning.github.io/mllm/) · 组织维护
 
 **面向移动/边缘设备的多模态 LLM 推理引擎**
 
@@ -45,13 +45,13 @@ C++ 实现的多模态大模型推理引擎，面向手机、Jetson、Ascend NPU
 
 ```mermaid
 xychart-beta
-    title "UbiquitousLearning/mllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1627 --> 1632
-    line [1628, 1631, 1631]
+    title "UbiquitousLearning/mllm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1627 --> 1641
+    line [1628, 1631, 1628, 1635, 1636, 1637, 1638, 1640, 1640]
 ```
 
-2026-10-18 1,628 → 2026-11-02 1,631（+3）
+2026-10-18 1,628 → 2026-11-17 1,640（+12）
 
 
 ---

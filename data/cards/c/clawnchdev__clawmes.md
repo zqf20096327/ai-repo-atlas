@@ -1,6 +1,6 @@
 # clawnchdev/clawmes
 
-⭐ 27 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/clawnchdev/clawmes) · [官网](https://github.com/clawnchdev/clawmes) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/clawnchdev/clawmes) · [官网](https://github.com/clawnchdev/clawmes) · 组织维护
 
 **Hermes Agent 的加密货币插件：钱包、DEX 交易、借贷质押与链上自动化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "clawnchdev/clawmes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27]
+    title "clawnchdev/clawmes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 26, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

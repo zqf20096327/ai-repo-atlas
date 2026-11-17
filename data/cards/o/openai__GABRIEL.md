@@ -1,6 +1,6 @@
 # openai/GABRIEL
 
-⭐ 445 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/openai/GABRIEL) · 组织维护
+⭐ 447 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/openai/GABRIEL) · 组织维护
 
 **OpenAI 官方的 GPT 文本/图像/音频量化测量工具库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/GABRIEL 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 440 --> 446
-    line [441, 443, 444, 445, 445]
+    title "openai/GABRIEL 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 440 --> 448
+    line [441, 443, 444, 445, 444, 446, 447, 447]
 ```
 
-2026-10-18 441 → 2026-11-02 445（+4）
+2026-10-18 441 → 2026-11-17 447（+6）
 
 
 ---

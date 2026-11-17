@@ -1,6 +1,6 @@
 # lunarwhite/gen-anime-face
 
-⭐ 11 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lunarwhite/gen-anime-face) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/lunarwhite/gen-anime-face) · 个人维护 · 中文 README
 
 **基于 GAN 的二次元人脸生成训练项目（Keras/TensorFlow）**
 
@@ -45,12 +45,12 @@ NTU MLDS 课程的 GAN 实践项目：使用李宏毅老师提供的二次元人
 ```mermaid
 xychart-beta
     title "lunarwhite/gen-anime-face 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

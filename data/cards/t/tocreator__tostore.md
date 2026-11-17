@@ -1,6 +1,6 @@
 # tocreator/tostore
 
-⭐ 67 · Dart · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/tocreator/tostore) · [官网](https://pub.dev/packages/tostore) · 组织维护 · 中文 README
+⭐ 67 · Dart · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tocreator/tostore) · [官网](https://pub.dev/packages/tostore) · 组织维护 · 中文 README
 
 **面向边缘与 Agent 场景的分布式向量数据库/存储引擎（Dart/Flutter）**
 
@@ -45,13 +45,13 @@ ToStore 是用 Dart 编写的跨平台数据引擎，以 pub 包形式提供给 
 
 ```mermaid
 xychart-beta
-    title "tocreator/tostore 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-02"]
+    title "tocreator/tostore 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-17"]
     y-axis "stars" 64 --> 68
-    line [65, 66, 67]
+    line [65, 66, 67, 67]
 ```
 
-2026-10-26 65 → 2026-11-02 67（+2）
+2026-10-26 65 → 2026-11-17 67（+2）
 
 
 ---

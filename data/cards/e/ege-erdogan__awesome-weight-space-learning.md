@@ -1,6 +1,6 @@
 # ege-erdogan/awesome-weight-space-learning
 
-⭐ 40 · 推送 2026-01-16 · [GitHub](https://github.com/ege-erdogan/awesome-weight-space-learning) · 个人维护
+⭐ 44 · 推送 2026-01-16 · [GitHub](https://github.com/ege-erdogan/awesome-weight-space-learning) · 个人维护
 
 **权重空间学习论文清单：面向ML研究者汇集领域文献**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ege-erdogan/awesome-weight-space-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    title "ege-erdogan/awesome-weight-space-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 37 --> 45
+    line [38, 39, 40, 43, 44, 44]
 ```
 
-2026-10-18 38 → 2026-11-02 40（+2）
+2026-10-18 38 → 2026-11-17 44（+6）
 
 
 ---

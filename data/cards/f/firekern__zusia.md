@@ -1,6 +1,6 @@
 # firekern/zusia
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/firekern/zusia) · 个人维护
+⭐ 30 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/firekern/zusia) · 个人维护
 
 **Zotero 内的论文阅读 AI 助手：连本地 CLI 问答当前论文**
 
@@ -45,13 +45,13 @@ Zotero 7-10 的侧栏插件：在 PDF 旁开聊天，把论文全文（按页切
 
 ```mermaid
 xychart-beta
-    title "firekern/zusia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "firekern/zusia 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 31
+    line [14, 15, 20, 21, 26, 30, 30]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 30（+16）
 
 
 ---

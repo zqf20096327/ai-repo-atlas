@@ -1,6 +1,6 @@
 # lifeidle/qwen3.8-27b-5090-laptop-24gb-coder390-ninfer
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/lifeidle/qwen3.8-27b-5090-laptop-24gb-coder390-ninfer) · 个人维护 · 中文 README
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/lifeidle/qwen3.8-27b-5090-laptop-24gb-coder390-ninfer) · 个人维护 · 中文 README
 
 **RTX 5090 笔记本 24GB 上跑 Qwen3.8-27B 的实测基准与调优记录仓**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lifeidle/qwen3.8-27b-5090-laptop-24gb-coder390-ninfer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    title "lifeidle/qwen3.8-27b-5090-laptop-24gb-coder390-ninfer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 19, 20, 18, 21, 22, 23, 23]
 ```
 
-2026-10-18 17 → 2026-11-02 20（+3）
+2026-10-18 17 → 2026-11-17 23（+6）
 
 
 ---

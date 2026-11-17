@@ -1,6 +1,6 @@
 # YosefLab/scviva-tools
 
-⭐ 15 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/YosefLab/scviva-tools) · [官网](https://yoseflab.github.io/scviva-tools/) · 组织维护
+⭐ 16 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/YosefLab/scviva-tools) · [官网](https://yoseflab.github.io/scviva-tools/) · 组织维护
 
 **空间转录组分析统一工具包：整合七个空间模型与下游分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YosefLab/scviva-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "YosefLab/scviva-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

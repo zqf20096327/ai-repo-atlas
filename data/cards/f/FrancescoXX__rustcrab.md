@@ -1,6 +1,6 @@
 # FrancescoXX/rustcrab
 
-⭐ 532 · Rust · MIT · 推送 2026-05-09 · [GitHub](https://github.com/FrancescoXX/rustcrab) · [官网](https://rustcrab.com) · 个人维护
+⭐ 534 · Rust · MIT · 推送 2026-05-09 · [GitHub](https://github.com/FrancescoXX/rustcrab) · [官网](https://rustcrab.com) · 个人维护
 
 **面向 Rust 学习者的开源资源网站（Next.js 应用）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrancescoXX/rustcrab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 529 --> 533
-    line [531, 530, 532, 532]
+    title "FrancescoXX/rustcrab 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 529 --> 535
+    line [531, 530, 532, 530, 533, 534, 534]
 ```
 
-2026-10-18 531 → 2026-11-02 532（+1）
+2026-10-18 531 → 2026-11-17 534（+3）
 
 
 ---

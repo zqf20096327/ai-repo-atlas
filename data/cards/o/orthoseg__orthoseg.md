@@ -1,6 +1,6 @@
 # orthoseg/orthoseg
 
-⭐ 51 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/orthoseg/orthoseg) · [官网](https://orthoseg.readthedocs.io/) · 组织维护
+⭐ 52 · Python · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/orthoseg/orthoseg) · [官网](https://orthoseg.readthedocs.io/) · 组织维护
 
 **训练自有神经网络对正射影像做地物分割的 Python 包**
 
@@ -43,13 +43,13 @@ Python 包，用于训练神经网络并对正射影像（卫星、航空、无�
 
 ```mermaid
 xychart-beta
-    title "orthoseg/orthoseg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "orthoseg/orthoseg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

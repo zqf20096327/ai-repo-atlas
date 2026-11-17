@@ -1,6 +1,6 @@
 # vect-G/lecture-to-hw
 
-⭐ 130 · MIT · 推送 2026-05-08 · [GitHub](https://github.com/vect-G/lecture-to-hw) · 个人维护 · 中文 README
+⭐ 134 · MIT · 推送 2026-05-08 · [GitHub](https://github.com/vect-G/lecture-to-hw) · 个人维护 · 中文 README
 
 **把课件与作业题自动转成 Markdown 作业答案的 Codex skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vect-G/lecture-to-hw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 127 --> 131
-    line [128, 130, 129, 130, 130]
+    title "vect-G/lecture-to-hw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 127 --> 135
+    line [128, 130, 129, 130, 129, 133, 134, 134]
 ```
 
-2026-10-18 128 → 2026-11-02 130（+2）
+2026-10-18 128 → 2026-11-17 134（+6）
 
 
 ---

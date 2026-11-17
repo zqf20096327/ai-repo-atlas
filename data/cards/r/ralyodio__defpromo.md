@@ -1,6 +1,6 @@
 # ralyodio/defpromo
 
-⭐ 24 · JavaScript · 推送 2026-09-14 · [GitHub](https://github.com/ralyodio/defpromo) · [官网](https://defpromo.com) · 个人维护
+⭐ 24 · JavaScript · 推送 2026-11-08 · [GitHub](https://github.com/ralyodio/defpromo) · [官网](https://defpromo.com) · 个人维护
 
 **浏览器扩展：基于产品简介生成社交媒体帖子与回复草稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ralyodio/defpromo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

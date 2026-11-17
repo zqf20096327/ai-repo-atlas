@@ -1,6 +1,6 @@
 # BuildWithAIs/voicekey
 
-⭐ 181 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BuildWithAIs/voicekey) · [官网](https://buildwithais.github.io/voicekey/) · 组织维护 · 中文 README
+⭐ 185 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BuildWithAIs/voicekey) · [官网](https://buildwithais.github.io/voicekey/) · 组织维护 · 中文 README
 
 **本地优先的按键说话语音转文字桌面输入工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BuildWithAIs/voicekey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 180 --> 182
-    line [181, 181]
+    title "BuildWithAIs/voicekey 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 180 --> 186
+    line [181, 184, 185, 185]
 ```
 
-2026-10-18 181 → 2026-11-02 181（+0）
+2026-10-18 181 → 2026-11-17 185（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # UMass-Embodied-AGI/SyncWorld
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/UMass-Embodied-AGI/SyncWorld) · [官网](https://umass-embodied-agi.github.io/SyncWorld/) · 组织维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/UMass-Embodied-AGI/SyncWorld) · [官网](https://umass-embodied-agi.github.io/SyncWorld/) · 组织维护
 
 **视觉校准世界模型：单一检查点零样本充当未见过环境的模拟器**
 
@@ -45,13 +45,13 @@ NeurIPS 2026 论文 SyncWorld 的训练与评测代码，源自 NVIDIA Cosmos-Fr
 
 ```mermaid
 xychart-beta
-    title "UMass-Embodied-AGI/SyncWorld 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "UMass-Embodied-AGI/SyncWorld 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 26, 26]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 26（+5）
 
 
 ---

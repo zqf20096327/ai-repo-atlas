@@ -1,6 +1,6 @@
 # ZhishaBai-web/help-you-find-job
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/ZhishaBai-web/help-you-find-job) · [官网](https://app-you-find-job-sszicd3jn6vphnuuhtm84a.streamlit.app/) · 个人维护 · 中文 README
+⭐ 86 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/ZhishaBai-web/help-you-find-job) · [官网](https://app-you-find-job-sszicd3jn6vphnuuhtm84a.streamlit.app/) · 个人维护 · 中文 README
 
 **面向中国求职者的 AI 求职助手：画像—规划—采集—匹配—分析全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhishaBai-web/help-you-find-job 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 58 --> 65
-    line [59, 60, 61, 62, 63, 64, 64]
+    title "ZhishaBai-web/help-you-find-job 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 57 --> 88
+    line [59, 60, 61, 62, 63, 64, 60, 72, 78, 79, 81, 83, 86, 86]
 ```
 
-2026-10-18 59 → 2026-11-02 64（+5）
+2026-10-18 59 → 2026-11-17 86（+27）
 
 
 ---

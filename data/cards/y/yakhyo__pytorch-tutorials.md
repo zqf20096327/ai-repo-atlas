@@ -1,6 +1,6 @@
 # yakhyo/pytorch-tutorials
 
-⭐ 27 · Jupyter Notebook · MIT · 推送 2025-11-06 · [GitHub](https://github.com/yakhyo/pytorch-tutorials) · [官网](https://yakhyo.github.io/pytorch-tutorials/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **PyTorch 教程集：覆盖基础到高级深度学习概念**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yakhyo/pytorch-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-07 27（+0）
 
 
 ---

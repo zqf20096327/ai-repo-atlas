@@ -1,6 +1,6 @@
 # machinelearningnuremberg/HPO-B
 
-⭐ 42 · Python · MIT · 推送 2025-11-08 · [GitHub](https://github.com/machinelearningnuremberg/HPO-B) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **黑箱超参数优化算法评测基准与元数据集**
 
@@ -11,7 +11,7 @@ NeurIPS DBT 2021 提出的 HPO 评测基准：包含 176 个元数据集上不�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ NeurIPS DBT 2021 提出的 HPO 评测基准：包含 176 个元数据集上不�
 ```mermaid
 xychart-beta
     title "machinelearningnuremberg/HPO-B 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-07 42（+0）
 
 
 ---

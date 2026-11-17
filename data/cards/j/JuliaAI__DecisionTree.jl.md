@@ -1,6 +1,6 @@
 # JuliaAI/DecisionTree.jl
 
-⭐ 365 · Julia · NOASSERTION · 推送 2025-11-09 · [GitHub](https://github.com/JuliaAI/DecisionTree.jl) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Julia 决策树（CART）与随机森林算法实现库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaAI/DecisionTree.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "JuliaAI/DecisionTree.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 363 --> 366
-    line [364, 365]
+    line [364, 365, 364, 364]
 ```
 
-2026-10-18 364 → 2026-11-02 365（+1）
+2026-10-18 364 → 2026-11-07 364（+0）
 
 
 ---

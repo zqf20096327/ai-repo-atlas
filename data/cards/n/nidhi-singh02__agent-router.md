@@ -1,6 +1,6 @@
 # nidhi-singh02/agent-router
 
-⭐ 120 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/nidhi-singh02/agent-router) · 个人维护
+⭐ 124 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nidhi-singh02/agent-router) · 个人维护
 
 **配额感知的 CLI：为任务挑选 AI 编码 agent 与模型并启动**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nidhi-singh02/agent-router 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 114 --> 121
-    line [115, 116, 117, 118, 119, 120, 120]
+    title "nidhi-singh02/agent-router 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 114 --> 125
+    line [115, 116, 117, 118, 119, 120, 117, 124, 124]
 ```
 
-2026-10-18 115 → 2026-11-02 120（+5）
+2026-10-18 115 → 2026-11-17 124（+9）
 
 
 ---

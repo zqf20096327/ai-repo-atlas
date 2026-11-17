@@ -1,6 +1,6 @@
 # move-fast-and-break-things/minerva
 
-⭐ 13 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/move-fast-and-break-things/minerva) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/move-fast-and-break-things/minerva) · 个人维护
 
 **帮助社区成员学软件开发的 GPT Telegram 机器人**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "move-fast-and-break-things/minerva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

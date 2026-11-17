@@ -1,6 +1,6 @@
 # crabbuild/compass
 
-⭐ 175 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/crabbuild/compass) · [官网](https://compass.crab.build) · 组织维护
+⭐ 176 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/crabbuild/compass) · [官网](https://compass.crab.build) · 组织维护
 
 **本地优先的代码知识图谱引擎：为人和编码助手提供代码库结构地图**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "crabbuild/compass 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 172 --> 176
-    line [173, 174, 175, 175]
+    title "crabbuild/compass 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 172 --> 177
+    line [173, 174, 175, 176, 176]
 ```
 
-2026-10-18 173 → 2026-11-02 175（+2）
+2026-10-18 173 → 2026-11-17 176（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # geoalgo/slurmpilot
 
-⭐ 35 · Python · 推送 2026-06-29 · [GitHub](https://github.com/geoalgo/slurmpilot) · 个人维护
+⭐ 34 · Python · 推送 2026-06-29 · [GitHub](https://github.com/geoalgo/slurmpilot) · 个人维护
 
 **从本地机器向 Slurm 集群提交并管理实验的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geoalgo/slurmpilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "geoalgo/slurmpilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [35, 34, 34]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 34（-1）
 
 
 ---

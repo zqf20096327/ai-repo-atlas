@@ -1,6 +1,6 @@
 # FrankChen021/datastoria
 
-⭐ 327 · TypeScript · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/FrankChen021/datastoria) · [官网](https://datastoria.app) · 个人维护
+⭐ 328 · TypeScript · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/FrankChen021/datastoria) · [官网](https://datastoria.app) · 个人维护
 
 **AI 原生的 ClickHouse 控制台：诊断、查询生成与可视化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrankChen021/datastoria 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 326 --> 328
-    line [327, 327]
+    title "FrankChen021/datastoria 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 326 --> 329
+    line [327, 328, 328]
 ```
 
-2026-10-18 327 → 2026-11-02 327（+0）
+2026-10-18 327 → 2026-11-17 328（+1）
 
 
 ---

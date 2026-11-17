@@ -1,6 +1,6 @@
 # CercaTrovato/cityu-ai-course-notes
 
-⭐ 13 · HTML · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/CercaTrovato/cityu-ai-course-notes) · 个人维护 · 中文 README
+⭐ 18 · HTML · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/CercaTrovato/cityu-ai-course-notes) · 个人维护 · 中文 README
 
 **CityU 五门课中文精读笔记知识库：讲义×转录双源融合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CercaTrovato/cityu-ai-course-notes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 6 --> 14
-    line [7, 8, 9, 12, 13, 13]
+    title "CercaTrovato/cityu-ai-course-notes 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 6 --> 19
+    line [7, 8, 9, 12, 13, 8, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 7 → 2026-11-02 13（+6）
+2026-10-18 7 → 2026-11-17 18（+11）
 
 
 ---

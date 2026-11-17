@@ -1,6 +1,6 @@
 # MS-PINPOINT/mindGlide
 
-⭐ 46 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/MS-PINPOINT/mindGlide) · [官网](https://www.nature.com/articles/s41467-025-58274-8) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/MS-PINPOINT/mindGlide) · [官网](https://www.nature.com/articles/s41467-025-58274-8) · 组织维护
 
 **多发性硬化症脑 MRI 分割工具：任意序列、任意质量、免预处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MS-PINPOINT/mindGlide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "MS-PINPOINT/mindGlide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 45 --> 48
-    line [47, 46, 46]
+    line [47, 46, 47, 47]
 ```
 
-2026-10-18 47 → 2026-11-02 46（-1）
+2026-10-18 47 → 2026-11-17 47（+0）
 
 
 ---

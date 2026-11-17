@@ -1,6 +1,6 @@
 # Zar-Manah/opencode-android-apk
 
-⭐ 17 · Java · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Zar-Manah/opencode-android-apk) · 个人维护
+⭐ 20 · Java · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Zar-Manah/opencode-android-apk) · 个人维护
 
 **Android 原生 AI 编程代理：手机上自主编码并编译安装 APK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zar-Manah/opencode-android-apk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 11 --> 18
-    line [12, 14, 15, 17, 17]
+    title "Zar-Manah/opencode-android-apk 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 21
+    line [12, 14, 15, 17, 18, 19, 20, 20]
 ```
 
-2026-10-18 12 → 2026-11-02 17（+5）
+2026-10-18 12 → 2026-11-17 20（+8）
 
 
 ---

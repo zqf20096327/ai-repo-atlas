@@ -1,6 +1,6 @@
 # narender-rk10/OpenBI
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/narender-rk10/OpenBI) · 个人维护
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/narender-rk10/OpenBI) · 个人维护
 
 **自托管 AI 商业智能平台：对话查询 90+ 数据源并生成仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "narender-rk10/OpenBI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "narender-rk10/OpenBI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # saadkhan1150/telegram-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/saadkhan1150/telegram-mcp) · [官网](https://saadkhan1150.github.io) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/saadkhan1150/telegram-mcp) · [官网](https://saadkhan1150.github.io) · 个人维护
 
 **多 Telegram 账号管理桌面应用：群发、定时任务与 AI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "saadkhan1150/telegram-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "saadkhan1150/telegram-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

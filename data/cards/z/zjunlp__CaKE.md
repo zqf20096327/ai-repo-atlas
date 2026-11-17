@@ -1,6 +1,6 @@
 # zjunlp/CaKE
 
-⭐ 19 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/zjunlp/CaKE) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向多跳推理的知识编辑研究代码（EMNLP 2025 论文配套）**
 
@@ -11,7 +11,7 @@ EMNLP 2025 论文 Circuit-aware Editing Enables Generalizable Knowledge Learners
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@ EMNLP 2025 论文 Circuit-aware Editing Enables Generalizable Knowledge Learners
 ```mermaid
 xychart-beta
     title "zjunlp/CaKE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-12 19（+0）
 
 
 ---

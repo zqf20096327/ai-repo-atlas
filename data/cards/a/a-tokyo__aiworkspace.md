@@ -1,6 +1,6 @@
 # a-tokyo/aiworkspace
 
-⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/a-tokyo/aiworkspace) · 个人维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/a-tokyo/aiworkspace) · 个人维护
 
 **跨多仓库工作区统一管理 AI 编程工具技能与配置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "a-tokyo/aiworkspace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "a-tokyo/aiworkspace 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

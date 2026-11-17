@@ -1,6 +1,6 @@
 # NLPOptimize/flash-tokenizer
 
-⭐ 457 · C++ · 推送 2026-02-02 · [GitHub](https://github.com/NLPOptimize/flash-tokenizer) · [官网](https://github.com/NLPOptimize/flash-tokenizer) · 组织维护
+⭐ 458 · C++ · 推送 2026-02-02 · [GitHub](https://github.com/NLPOptimize/flash-tokenizer) · [官网](https://github.com/NLPOptimize/flash-tokenizer) · 组织维护
 
 **C++17 实现的高速 BertTokenizer 库，面向 LLM 推理服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NLPOptimize/flash-tokenizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "NLPOptimize/flash-tokenizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
     y-axis "stars" 456 --> 459
-    line [458, 457, 457]
+    line [458, 457, 458, 458]
 ```
 
-2026-10-18 458 → 2026-11-02 457（-1）
+2026-10-18 458 → 2026-11-17 458（+0）
 
 
 ---

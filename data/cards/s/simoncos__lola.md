@@ -1,6 +1,6 @@
 # simoncos/lola
 
-⭐ 142 · Python · 推送 2026-08-10 · [GitHub](https://github.com/simoncos/lola) · 个人维护
+⭐ 143 · Python · 推送 2026-08-10 · [GitHub](https://github.com/simoncos/lola) · 个人维护
 
 **英雄联盟对局数据挖掘与预测的历史课程项目（存档状态）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "simoncos/lola 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    title "simoncos/lola 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 141 --> 144
+    line [142, 143, 143]
 ```
 
-2026-10-18 142 → 2026-11-02 142（+0）
+2026-10-18 142 → 2026-11-17 143（+1）
 
 
 ---

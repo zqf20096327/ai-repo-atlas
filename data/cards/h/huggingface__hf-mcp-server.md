@@ -1,6 +1,6 @@
 # huggingface/hf-mcp-server
 
-⭐ 312 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/hf-mcp-server) · [官网](https://huggingface.co/mcp) · 组织维护
+⭐ 319 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/hf-mcp-server) · [官网](https://huggingface.co/mcp) · 组织维护
 
 **Hugging Face 官方 MCP 服务器：把 LLM 接入 Hub 与 Gradio 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/hf-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 304 --> 313
-    line [305, 306, 308, 309, 310, 312, 312]
+    title "huggingface/hf-mcp-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 304 --> 320
+    line [305, 306, 308, 309, 310, 312, 308, 314, 316, 317, 319, 319]
 ```
 
-2026-10-18 305 → 2026-11-02 312（+7）
+2026-10-18 305 → 2026-11-17 319（+14）
 
 
 ---

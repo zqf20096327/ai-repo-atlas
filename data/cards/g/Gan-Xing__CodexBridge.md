@@ -1,6 +1,6 @@
 # Gan-Xing/CodexBridge
 
-⭐ 461 · TypeScript · 推送 2026-06-24 · [GitHub](https://github.com/Gan-Xing/CodexBridge) · [官网](https://github.com/Gan-Xing/CodexBridge#readme) · 个人维护 · 中文 README
+⭐ 468 · TypeScript · 推送 2026-06-24 · [GitHub](https://github.com/Gan-Xing/CodexBridge) · [官网](https://github.com/Gan-Xing/CodexBridge#readme) · 个人维护 · 中文 README
 
 **把微信聊天接入共享 Codex 引擎的桥接网关**
 
@@ -45,13 +45,13 @@ TypeScript 实现的网关，将微信等聊天平台作为适配器连接到宿
 
 ```mermaid
 xychart-beta
-    title "Gan-Xing/CodexBridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 456 --> 462
-    line [457, 459, 461, 460, 461, 461]
+    title "Gan-Xing/CodexBridge 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 456 --> 469
+    line [457, 459, 461, 460, 461, 460, 462, 464, 463, 464, 467, 468, 468]
 ```
 
-2026-10-18 457 → 2026-11-02 461（+4）
+2026-10-18 457 → 2026-11-17 468（+11）
 
 
 ---

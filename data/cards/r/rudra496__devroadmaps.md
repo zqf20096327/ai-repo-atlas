@@ -1,6 +1,6 @@
 # rudra496/devroadmaps
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rudra496/devroadmaps) · [官网](https://rudra496.github.io/devroadmaps) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rudra496/devroadmaps) · [官网](https://rudra496.github.io/devroadmaps) · 个人维护
 
 **交互式开发者职业学习路线图站点：20 条路径与免费资源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rudra496/devroadmaps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "rudra496/devroadmaps 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

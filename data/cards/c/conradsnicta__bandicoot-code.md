@@ -1,6 +1,6 @@
 # conradsnicta/bandicoot-code
 
-⭐ 30 · 推送 2026-10-21 · [GitHub](https://github.com/conradsnicta/bandicoot-code) · [官网](https://coot.sourceforge.io/download.html) · 组织维护
+⭐ 31 · 推送 2026-10-21 · [GitHub](https://github.com/conradsnicta/bandicoot-code) · [官网](https://coot.sourceforge.io/download.html) · 组织维护
 
 **C++ GPU 线性代数库：在 GPU 上提供 Armadillo 风格 API**
 
@@ -44,13 +44,13 @@ Bandicoot 是提供 Armadillo 类似 API 的 GPU 加速线性代数 C++ 库，�
 
 ```mermaid
 xychart-beta
-    title "conradsnicta/bandicoot-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "conradsnicta/bandicoot-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JingHao-Leon/blue-whale-voice-agent
 
-⭐ 57 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/JingHao-Leon/blue-whale-voice-agent) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/JingHao-Leon/blue-whale-voice-agent) · 个人维护 · 中文 README
 
 **园区访客登记 AI 语音 Agent：电话/浏览器/小程序三入口，25 秒推企微访客卡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JingHao-Leon/blue-whale-voice-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "JingHao-Leon/blue-whale-voice-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 54 --> 58
-    line [56, 55, 56, 57, 57]
+    line [56, 55, 56, 57, 55, 56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mingti-org/phyai
 
-⭐ 141 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mingti-org/phyai) · [官网](https://phyai.mintlify.app/) · 组织维护 · 中文 README
+⭐ 156 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mingti-org/phyai) · [官网](https://phyai.mintlify.app/) · 组织维护 · 中文 README
 
 **面向 Physical AI 的低延迟推理服务引擎（VLA/WAM 模型）**
 
@@ -45,13 +45,13 @@ PhyAI 是为 Physical AI 模型（VLA、WAM、基础模型）设计的延迟优�
 
 ```mermaid
 xychart-beta
-    title "mingti-org/phyai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 133 --> 142
-    line [134, 136, 137, 139, 140, 141, 141]
+    title "mingti-org/phyai 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 132 --> 158
+    line [134, 136, 137, 139, 140, 141, 136, 148, 150, 151, 153, 156, 156]
 ```
 
-2026-10-18 134 → 2026-11-02 141（+7）
+2026-10-18 134 → 2026-11-17 156（+22）
 
 
 ---

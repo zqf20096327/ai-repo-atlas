@@ -1,6 +1,6 @@
 # aichatwatch/aicw-video
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aichatwatch/aicw-video) · [官网](https://aichatwatch.com/aicw-video/?utm_source=github) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/aichatwatch/aicw-video) · [官网](https://aichatwatch.com/aicw-video/?utm_source=github) · 组织维护
 
 **把人物访谈视频剪成带字幕与隐私保护的社交媒体短片的本地 AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aichatwatch/aicw-video 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
+    x-axis ["2026-10-31", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-31 14 → 2026-11-02 14（+0）
+2026-10-31 14 → 2026-11-17 14（+0）
 
 
 ---

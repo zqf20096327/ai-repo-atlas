@@ -1,6 +1,6 @@
 # Bria-AI/Fibo-Edit
 
-⭐ 52 · Python · 推送 2026-10-06 · [GitHub](https://github.com/Bria-AI/Fibo-Edit) · [官网](https://bria.ai) · 组织维护
+⭐ 54 · Python · 推送 2026-11-03 · [GitHub](https://github.com/Bria-AI/Fibo-Edit) · [官网](https://bria.ai) · 组织维护
 
 **面向专业生产的结构化 JSON 控制图像编辑模型**
 
@@ -44,13 +44,13 @@ Bria AI 开发的 8B 参数图像编辑模型（含 base 与蒸馏到 4 步的 t
 
 ```mermaid
 xychart-beta
-    title "Bria-AI/Fibo-Edit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 48 --> 53
-    line [49, 50, 51, 52, 52]
+    title "Bria-AI/Fibo-Edit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 48 --> 55
+    line [49, 50, 51, 52, 53, 54, 54]
 ```
 
-2026-10-18 49 → 2026-11-02 52（+3）
+2026-10-18 49 → 2026-11-17 54（+5）
 
 
 ---

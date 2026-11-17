@@ -1,6 +1,6 @@
 # vectordbz/vectordbz
 
-⭐ 272 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/vectordbz/vectordbz) · [官网](http://vectordbz.com/) · 组织维护
+⭐ 275 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/vectordbz/vectordbz) · [官网](http://vectordbz.com/) · 组织维护
 
 **开源向量数据库桌面管理客户端：连接、浏览、搜索与可视化**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "vectordbz/vectordbz 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 268 --> 273
-    line [269, 270, 271, 272, 272]
+    title "vectordbz/vectordbz 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 268 --> 276
+    line [269, 270, 271, 272, 271, 275, 275]
 ```
 
-2026-10-18 269 → 2026-11-02 272（+3）
+2026-10-18 269 → 2026-11-17 275（+6）
 
 
 ---

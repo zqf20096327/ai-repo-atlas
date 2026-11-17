@@ -1,6 +1,6 @@
 # caiomadeira/llama2-psp
 
-⭐ 22 · C++ · 推送 2026-10-01 · [GitHub](https://github.com/caiomadeira/llama2-psp) · [官网](https://caiomadeira.github.io/) · 个人维护
+⭐ 23 · C++ · 推送 2026-10-01 · [GitHub](https://github.com/caiomadeira/llama2-psp) · [官网](https://caiomadeira.github.io/) · 个人维护
 
 **在 PlayStation Portable 上运行 Llama 2 推理的 C 项目**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "caiomadeira/llama2-psp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "caiomadeira/llama2-psp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

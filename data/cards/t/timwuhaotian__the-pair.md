@@ -1,6 +1,6 @@
 # timwuhaotian/the-pair
 
-⭐ 385 · Rust · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/timwuhaotian/the-pair) · [官网](https://apps.timwuhaotian.dev/) · 个人维护 · 中文 README
+⭐ 390 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/timwuhaotian/the-pair) · [官网](https://apps.timwuhaotian.dev/apps/the-pair) · 个人维护 · 中文 README
 
 **开源桌面双 AI 智能体结对编程应用：规划者与执行者互相校验代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "timwuhaotian/the-pair 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 382 --> 386
-    line [383, 384, 385, 385]
+    title "timwuhaotian/the-pair 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 382 --> 391
+    line [383, 384, 385, 383, 386, 388, 389, 390, 390]
 ```
 
-2026-10-18 383 → 2026-11-02 385（+2）
+2026-10-18 383 → 2026-11-17 390（+7）
 
 
 ---

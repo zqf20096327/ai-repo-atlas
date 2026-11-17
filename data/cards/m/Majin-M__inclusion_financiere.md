@@ -1,6 +1,6 @@
 # Majin-M/inclusion_financiere
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Majin-M/inclusion_financiere) · [官网](https://portfolio-data-lovat.vercel.app/projets/inclusion-financiere/) · 个人维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Majin-M/inclusion_financiere) · [官网](https://portfolio-data-lovat.vercel.app/projets/inclusion-financiere/) · 个人维护
 
 **预测个人拥有银行账户概率的 Streamlit 机器学习应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Majin-M/inclusion_financiere 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

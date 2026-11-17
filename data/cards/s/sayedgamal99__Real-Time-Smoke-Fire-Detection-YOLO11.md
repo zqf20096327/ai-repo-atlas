@@ -1,6 +1,6 @@
 # sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11
 
-⭐ 136 · Python · 推送 2026-04-25 · [GitHub](https://github.com/sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11) · [官网](https://sayedgamal99.github.io/Real-Time-Smoke-Fire-Detection-YOLO11/) · 个人维护
+⭐ 138 · Python · 推送 2026-04-25 · [GitHub](https://github.com/sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11) · [官网](https://sayedgamal99.github.io/Real-Time-Smoke-Fire-Detection-YOLO11/) · 个人维护
 
 **用 YOLO11 实时检测火焰与烟雾并经 Telegram 告警的系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 134 --> 137
-    line [135, 136, 136]
+    title "sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 134 --> 139
+    line [135, 136, 138, 138]
 ```
 
-2026-10-18 135 → 2026-11-02 136（+1）
+2026-10-18 135 → 2026-11-17 138（+3）
 
 
 ---

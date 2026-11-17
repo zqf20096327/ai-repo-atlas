@@ -1,6 +1,6 @@
 # ing-bank/popmon
 
-⭐ 512 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/ing-bank/popmon) · [官网](https://popmon.readthedocs.io/) · 组织维护
+⭐ 513 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/ing-bank/popmon) · [官网](https://popmon.readthedocs.io/) · 组织维护
 
 **监测 Pandas/Spark 数据集稳定性的 Python 库，检测数据漂移并告警**
 
@@ -45,13 +45,13 @@ popmon 按时间切片对特征生成分箱直方图，用统计检验比较各�
 
 ```mermaid
 xychart-beta
-    title "ing-bank/popmon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 511 --> 513
-    line [512, 512]
+    title "ing-bank/popmon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 511 --> 514
+    line [512, 513, 513]
 ```
 
-2026-10-18 512 → 2026-11-02 512（+0）
+2026-10-18 512 → 2026-11-17 513（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Chrome MV3 扩展，将 OpenAI 兼容、Anthropic 兼容、OpenRouter、Gemini �
 ```mermaid
 xychart-beta
     title "SFzxc/aipocket 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-11-07 15（+0）
 
 
 ---

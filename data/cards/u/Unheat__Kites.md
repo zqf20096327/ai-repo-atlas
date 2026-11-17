@@ -1,6 +1,6 @@
 # Unheat/Kites
 
-⭐ 40 · TypeScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Unheat/Kites) · [官网](https://kites-translator.pages.dev/) · 个人维护
+⭐ 42 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Unheat/Kites) · [官网](https://kites-translator.pages.dev/) · 个人维护
 
 **浏览器内本地 AI 漫画翻译扩展：OCR、修复与排版**
 
@@ -45,13 +45,13 @@ Chrome MV3 扩展，面向漫画读者，在浏览器内完成端到端翻译：
 
 ```mermaid
 xychart-beta
-    title "Unheat/Kites 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 34 --> 41
-    line [35, 36, 37, 39, 40, 40]
+    title "Unheat/Kites 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 43
+    line [35, 36, 37, 39, 40, 37, 42, 42]
 ```
 
-2026-10-18 35 → 2026-11-02 40（+5）
+2026-10-18 35 → 2026-11-17 42（+7）
 
 
 ---

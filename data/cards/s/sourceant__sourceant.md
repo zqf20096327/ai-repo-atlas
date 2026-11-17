@@ -1,6 +1,6 @@
 # sourceant/sourceant
 
-⭐ 27 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sourceant/sourceant) · [官网](https://sourceant.ai) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sourceant/sourceant) · [官网](https://sourceant.ai) · 组织维护
 
 **为 AI 编码代理提供持久记忆与代码图谱的 MCP 服务器**
 
@@ -45,13 +45,13 @@ SourceAnt 将仓库解析为文件、符号及其关系的代码图谱，并通�
 
 ```mermaid
 xychart-beta
-    title "sourceant/sourceant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "sourceant/sourceant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 26 --> 36
+    line [27, 35, 35]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 35（+8）
 
 
 ---

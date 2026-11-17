@@ -1,6 +1,6 @@
 # Majiks-Studio/majiks-music-studio
 
-⭐ 15 · Swift · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Majiks-Studio/majiks-music-studio) · [官网](https://majiks.studio) · 组织维护
+⭐ 17 · Swift · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Majiks-Studio/majiks-music-studio) · [官网](https://majiks.studio) · 组织维护
 
 **macOS 本地 AI 音乐生成 DAW：文本生成多轨歌曲并可编曲混音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Majiks-Studio/majiks-music-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Majiks-Studio/majiks-music-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0xMassi/stik_app
 
-⭐ 268 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/0xMassi/stik_app) · [官网](https://www.stik.ink) · 个人维护 · 中文 README
+⭐ 269 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/0xMassi/stik_app) · [官网](https://www.stik.ink) · 个人维护 · 中文 README
 
 **macOS 快速笔记捕获应用：快捷键唤出便签即写即存**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xMassi/stik_app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 267 --> 270
-    line [268, 269, 268, 268]
+    title "0xMassi/stik_app 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 266 --> 270
+    line [268, 269, 268, 267, 268, 267, 269, 269]
 ```
 
-2026-10-18 268 → 2026-11-02 268（+0）
+2026-10-18 268 → 2026-11-17 269（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gollem-dev/gollem
 
-⭐ 200 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/gollem-dev/gollem) · 组织维护
+⭐ 203 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/gollem-dev/gollem) · 组织维护
 
 **Go 语言的 LLM 统一接口与 agentic 应用构建框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gollem-dev/gollem 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 198 --> 201
-    line [199, 200, 199, 200, 200]
+    title "gollem-dev/gollem 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 198 --> 204
+    line [199, 200, 199, 200, 203, 203]
 ```
 
-2026-10-18 199 → 2026-11-02 200（+1）
+2026-10-18 199 → 2026-11-17 203（+4）
 
 
 ---

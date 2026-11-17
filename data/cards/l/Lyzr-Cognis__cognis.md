@@ -1,6 +1,6 @@
 # Lyzr-Cognis/cognis
 
-⭐ 55 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Lyzr-Cognis/cognis) · [官网](https://www.lyzr.ai/cognis/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Lyzr-Cognis/cognis) · [官网](https://www.lyzr.ai/cognis/) · 组织维护
 
 **给 AI agent 开发者的轻量记忆库：本地优先或托管**
 
@@ -45,13 +45,13 @@ Python 库，为 AI agent 提供持久记忆：写入消息后由 LLM 抽取事�
 
 ```mermaid
 xychart-beta
-    title "Lyzr-Cognis/cognis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "Lyzr-Cognis/cognis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

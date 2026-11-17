@@ -1,6 +1,6 @@
 # webworn/openfoam-mcp-server
 
-⭐ 127 · C++ · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/webworn/openfoam-mcp-server) · 个人维护
+⭐ 129 · C++ · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/webworn/openfoam-mcp-server) · 个人维护
 
 **面向 CFD 教学的 OpenFOAM MCP 服务器，提供苏格拉底式提问与错误诊断**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "webworn/openfoam-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 120 --> 128
-    line [121, 124, 125, 127]
+    title "webworn/openfoam-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 120 --> 130
+    line [121, 124, 125, 127, 124, 127, 128, 129, 129]
 ```
 
-2026-10-18 121 → 2026-11-02 127（+6）
+2026-10-18 121 → 2026-11-17 129（+8）
 
 
 ---

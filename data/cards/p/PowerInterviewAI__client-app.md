@@ -1,6 +1,6 @@
 # PowerInterviewAI/client-app
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/PowerInterviewAI/client-app) · [官网](https://www.powerinterviewai.com) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/PowerInterviewAI/client-app) · [官网](https://www.powerinterviewai.com) · 组织维护
 
 **面向求职者的实时 AI 面试助手：实时转录与提示建议**
 
@@ -45,13 +45,13 @@ Electron 桌面客户端，配合自有后端（FastAPI/MongoDB/Redis，含 ASR 
 
 ```mermaid
 xychart-beta
-    title "PowerInterviewAI/client-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "PowerInterviewAI/client-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Skull-boy/Finley
 
-⭐ 23 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Skull-boy/Finley) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Skull-boy/Finley) · 个人维护
 
 **Telegram 上的 AI 金融助理：实时行情、基本面与主动提醒**
 
@@ -44,13 +44,13 @@ Telegram 原生 AI 金融助手：以 Gemini 为模型层，接入 Finnhub、yfi
 
 ```mermaid
 xychart-beta
-    title "Skull-boy/Finley 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "Skull-boy/Finley 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

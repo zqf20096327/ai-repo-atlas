@@ -1,6 +1,6 @@
 # pymc-devs/ptgp
 
-⭐ 14 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/pymc-devs/ptgp) · 组织维护
+⭐ 15 · Jupyter Notebook · MIT · 推送 2026-11-12 · [GitHub](https://github.com/pymc-devs/ptgp) · 组织维护
 
 **基于 PyTensor 的高斯过程建模库，面向实际问题的 GP 建模者**
 
@@ -45,13 +45,13 @@ PTGP 是构建在 PyTensor 符号图之上的高斯过程（GP）Python 库，�
 
 ```mermaid
 xychart-beta
-    title "pymc-devs/ptgp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "pymc-devs/ptgp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

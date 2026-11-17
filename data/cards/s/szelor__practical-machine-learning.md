@@ -1,6 +1,6 @@
 # szelor/practical-machine-learning
 
-⭐ 11 · R · 推送 2026-02-23 · [GitHub](https://github.com/szelor/practical-machine-learning) · 个人维护
+⭐ 10 · R · 推送 2026-02-23 · [GitHub](https://github.com/szelor/practical-machine-learning) · 个人维护
 
 **波兰语机器学习书籍的配套数据与示例代码仓库**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "szelor/practical-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "szelor/practical-machine-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # GStaaaaa/ComfyUI-Gaoshang-Pose
 
-⭐ 22 · JavaScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/GStaaaaa/ComfyUI-Gaoshang-Pose) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/GStaaaaa/ComfyUI-Gaoshang-Pose) · 个人维护 · 中文 README
 
 **ComfyUI 多人姿势编辑器节点：1–9 人独立摆姿接入 Qwen 图像编辑**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点，提供最多 9 人的独立姿势编辑器：彩色编
 
 ```mermaid
 xychart-beta
-    title "GStaaaaa/ComfyUI-Gaoshang-Pose 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "GStaaaaa/ComfyUI-Gaoshang-Pose 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

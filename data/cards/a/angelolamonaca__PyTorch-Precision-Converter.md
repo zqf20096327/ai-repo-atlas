@@ -1,6 +1,6 @@
 # angelolamonaca/PyTorch-Precision-Converter
 
-⭐ 12 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/angelolamonaca/PyTorch-Precision-Converter) · [官网](https://pypi.org/project/pytorch-precision-converter/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/angelolamonaca/PyTorch-Precision-Converter) · [官网](https://pypi.org/project/pytorch-precision-converter/) · 个人维护
 
 **一条命令转换 PyTorch/Hugging Face 模型文件精度的 CLI 工具**
 
@@ -45,13 +45,13 @@ Python 命令行工具（PyPI 包 pytorch-precision-converter），将 PyTorch c
 
 ```mermaid
 xychart-beta
-    title "angelolamonaca/PyTorch-Precision-Converter 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "angelolamonaca/PyTorch-Precision-Converter 星数(近 5 点)"
+    x-axis ["2026-10-30", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15, 15]
 ```
 
-2026-10-30 12 → 2026-11-02 12（+0）
+2026-10-30 12 → 2026-11-17 15（+3）
 
 
 ---

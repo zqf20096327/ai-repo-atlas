@@ -1,6 +1,6 @@
 # lc700x/desktop2stereo
 
-⭐ 170 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lc700x/desktop2stereo) · 个人维护 · 中文 README
+⭐ 171 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lc700x/desktop2stereo) · 个人维护 · 中文 README
 
 **实时把 2D 桌面画面转为 3D 立体显示的 AI 深度应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lc700x/desktop2stereo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 165 --> 171
-    line [166, 167, 169, 170]
+    title "lc700x/desktop2stereo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 165 --> 173
+    line [166, 167, 169, 170, 167, 172, 171, 171]
 ```
 
-2026-10-18 166 → 2026-11-02 170（+4）
+2026-10-18 166 → 2026-11-17 171（+5）
 
 
 ---

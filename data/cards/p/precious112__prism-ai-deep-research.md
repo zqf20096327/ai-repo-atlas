@@ -1,6 +1,6 @@
 # precious112/prism-ai-deep-research
 
-⭐ 19 · TypeScript · MIT · 推送 2026-02-19 · [GitHub](https://github.com/precious112/prism-ai-deep-research) · [官网](https://prism-ai.glyde.world/) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-02-19 · [GitHub](https://github.com/precious112/prism-ai-deep-research) · [官网](https://prism-ai.glyde.world/) · 个人维护
 
 **开源深度研究智能体：多 Agent 协作生成带引用的研究报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "precious112/prism-ai-deep-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "precious112/prism-ai-deep-research 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 21, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

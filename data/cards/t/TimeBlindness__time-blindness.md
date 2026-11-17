@@ -1,6 +1,6 @@
 # TimeBlindness/time-blindness
 
-⭐ 68 · Python · MIT · 推送 2026-01-28 · [GitHub](https://github.com/TimeBlindness/time-blindness) · [官网](https://timeblindness.github.io/) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-01-28 · [GitHub](https://github.com/TimeBlindness/time-blindness) · [官网](https://timeblindness.github.io/) · 组织维护
 
 **评测视频语言模型纯时序理解能力的基准数据集 SpookyBench**
 
@@ -45,13 +45,13 @@ CVPR 论文配套的基准数据集与评测代码：451 个视频仅通过噪�
 
 ```mermaid
 xychart-beta
-    title "TimeBlindness/time-blindness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "TimeBlindness/time-blindness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 69（+1）
 
 
 ---

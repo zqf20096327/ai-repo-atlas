@@ -1,6 +1,6 @@
 # lunemis/mux
 
-⭐ 83 · Go · MIT · 推送 2026-07-07 · [GitHub](https://github.com/lunemis/mux) · 个人维护
+⭐ 84 · Go · MIT · 推送 2026-07-07 · [GitHub](https://github.com/lunemis/mux) · 个人维护
 
 **面向 AI CLI 工作流的 TUI tmux 会话管理器，带实时预览**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lunemis/mux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    title "lunemis/mux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 84（+2）
 
 
 ---

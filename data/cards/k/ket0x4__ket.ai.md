@@ -1,6 +1,6 @@
 # ket0x4/ket.ai
 
-⭐ 11 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/ket0x4/ket.ai) · [官网](https://t.me/Ketardgrambot) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/ket0x4/ket.ai) · [官网](https://t.me/Ketardgrambot) · 个人维护
 
 **基于 Gemini 的 Telegram 群聊 AI 机器人，带向量记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ket0x4/ket.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

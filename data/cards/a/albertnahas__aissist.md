@@ -1,6 +1,6 @@
 # albertnahas/aissist
 
-⭐ 17 · TypeScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/albertnahas/aissist) · [官网](https://www.aissistcli.dev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/albertnahas/aissist) · [官网](https://www.aissistcli.dev) · 个人维护
 
 **本地优先的 AI 命令行个人助理，管理目标、待办与历史**
 
@@ -46,13 +46,13 @@ Aissist 是一个 npm 安装的 CLI 个人助理，以本地 Markdown 文件存�
 
 ```mermaid
 xychart-beta
-    title "albertnahas/aissist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "albertnahas/aissist 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

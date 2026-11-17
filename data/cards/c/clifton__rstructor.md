@@ -1,6 +1,6 @@
 # clifton/rstructor
 
-⭐ 33 · Rust · MIT · 推送 2026-10-11 · [GitHub](https://github.com/clifton/rstructor) · [官网](https://crates.io/crates/rstructor) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-10-11 · [GitHub](https://github.com/clifton/rstructor) · [官网](https://crates.io/crates/rstructor) · 个人维护
 
 **Rust 版 Instructor：从 LLM 提取经校验的结构化数据到原生类型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "clifton/rstructor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "clifton/rstructor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # totalhack/zillion
 
-⭐ 207 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/totalhack/zillion) · 个人维护
+⭐ 208 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/totalhack/zillion) · 个人维护
 
 **数据建模与分析的语义层工具，含自然语言问答**
 
@@ -45,13 +45,13 @@ Python 数据建模与分析工具：在多个 SQL/文件类数据源之上构�
 
 ```mermaid
 xychart-beta
-    title "totalhack/zillion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 206 --> 208
-    line [207, 207]
+    title "totalhack/zillion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 206 --> 209
+    line [207, 208, 208]
 ```
 
-2026-10-18 207 → 2026-11-02 207（+0）
+2026-10-18 207 → 2026-11-17 208（+1）
 
 
 ---

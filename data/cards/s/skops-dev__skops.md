@@ -1,6 +1,6 @@
 # skops-dev/skops
 
-⭐ 531 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/skops-dev/skops) · [官网](https://skops.readthedocs.io/en/stable/) · 组织维护
+⭐ 533 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/skops-dev/skops) · [官网](https://skops.readthedocs.io/en/stable/) · 组织维护
 
 **帮助共享与部署 scikit-learn 模型的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skops-dev/skops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 528 --> 532
-    line [529, 530, 531, 531]
+    title "skops-dev/skops 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 528 --> 534
+    line [529, 530, 531, 530, 531, 533, 533]
 ```
 
-2026-10-18 529 → 2026-11-02 531（+2）
+2026-10-18 529 → 2026-11-17 533（+4）
 
 
 ---

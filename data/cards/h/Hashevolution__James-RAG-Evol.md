@@ -1,6 +1,6 @@
 # Hashevolution/James-RAG-Evol
 
-⭐ 21 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Hashevolution/James-RAG-Evol) · [官网](https://www.bestpractices.dev/projects/12806) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Hashevolution/James-RAG-Evol) · [官网](https://www.bestpractices.dev/projects/12806) · 个人维护
 
 **本地优先的可审计知识平台：Graph-RAG + 审计日志 + 状态重放**
 
@@ -45,13 +45,13 @@ SEKOS（内部引擎代号 JAMES）是一个本地优先的知识平台：查询
 
 ```mermaid
 xychart-beta
-    title "Hashevolution/James-RAG-Evol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Hashevolution/James-RAG-Evol 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 314arhaam/heat-pinn
 
-⭐ 187 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/314arhaam/heat-pinn) · 个人维护
+⭐ 186 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/314arhaam/heat-pinn) · 个人维护
 
 **求解 2D 稳态热传导方程的物理信息神经网络（PINN）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "314arhaam/heat-pinn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "314arhaam/heat-pinn 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 184 --> 188
-    line [185, 186, 187, 187]
+    line [185, 186, 187, 186, 186]
 ```
 
-2026-10-18 185 → 2026-11-02 187（+2）
+2026-10-18 185 → 2026-11-17 186（+1）
 
 
 ---

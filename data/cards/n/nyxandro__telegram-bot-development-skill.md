@@ -1,6 +1,6 @@
 # nyxandro/telegram-bot-development-skill
 
-⭐ 13 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nyxandro/telegram-bot-development-skill) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 Claude Code/OpenCode 开发 Telegram bot 时核验实时文档的技能包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nyxandro/telegram-bot-development-skill 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "nyxandro/telegram-bot-development-skill 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 5 --> 14
-    line [6, 8, 9, 11, 12, 13]
+    line [6, 8, 9, 11, 12, 13, 6, 6]
 ```
 
-2026-10-25 6 → 2026-11-02 13（+7）
+2026-10-25 6 → 2026-11-07 6（+0）
 
 
 ---

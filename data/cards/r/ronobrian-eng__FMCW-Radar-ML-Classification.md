@@ -1,6 +1,6 @@
 # ronobrian-eng/FMCW-Radar-ML-Classification
 
-⭐ 12 · MATLAB · MIT · 推送 2025-11-14 · [GitHub](https://github.com/ronobrian-eng/FMCW-Radar-ML-Classification) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MATLAB FMCW 雷达仿真 + SVM 分类 Human/Car/Drone 的教学作品**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ronobrian-eng/FMCW-Radar-ML-Classification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-08 12（+1）
 
 
 ---

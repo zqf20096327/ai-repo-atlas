@@ -1,6 +1,6 @@
 # MushroomFleet/DJZ-Workflows
 
-⭐ 118 · Python · 推送 2026-04-07 · [GitHub](https://github.com/MushroomFleet/DJZ-Workflows) · [官网](http://www.scuffedepoch.com) · 个人维护
+⭐ 120 · Python · 推送 2026-04-07 · [GitHub](https://github.com/MushroomFleet/DJZ-Workflows) · [官网](http://www.scuffedepoch.com) · 个人维护
 
 **1000+ ComfyUI 工作流合集，覆盖 AI 图像与视频生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MushroomFleet/DJZ-Workflows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    title "MushroomFleet/DJZ-Workflows 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 120, 120]
 ```
 
-2026-10-18 118 → 2026-11-02 118（+0）
+2026-10-18 118 → 2026-11-17 120（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SrGrace/generative-ai-compass
 
-⭐ 26 · MIT · 推送 2025-11-06 · [GitHub](https://github.com/SrGrace/generative-ai-compass) · [官网](https://www.linkedin.com/in/srgrace) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **生成式 AI 学习资源与路线图策展清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SrGrace/generative-ai-compass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-07 26（+0）
 
 
 ---

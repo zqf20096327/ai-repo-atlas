@@ -1,6 +1,6 @@
 # Kainiko943/beautiful-ui
 
-⭐ 12 · PowerShell · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Kainiko943/beautiful-ui) · 个人维护
+⭐ 15 · PowerShell · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Kainiko943/beautiful-ui) · 个人维护
 
 **教 AI 编程代理设计高质量 UI 的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kainiko943/beautiful-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "Kainiko943/beautiful-ui 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

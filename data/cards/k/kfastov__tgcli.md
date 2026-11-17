@@ -1,6 +1,6 @@
 # kfastov/tgcli
 
-⭐ 44 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kfastov/tgcli) · 个人维护
+⭐ 45 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kfastov/tgcli) · 个人维护
 
 **Telegram 个人账号控制台客户端与归档器，带 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kfastov/tgcli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "kfastov/tgcli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

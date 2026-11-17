@@ -1,6 +1,6 @@
 # Xzcv-hub/Awesome-LLM-Agent-Harness
 
-⭐ 19 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Xzcv-hub/Awesome-LLM-Agent-Harness) · 个人维护
+⭐ 20 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Xzcv-hub/Awesome-LLM-Agent-Harness) · 个人维护
 
 **LLM Agent Harness 论文与系统策展清单：人机交互/自进化/长程自主**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xzcv-hub/Awesome-LLM-Agent-Harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 17, 19, 19]
+    title "Xzcv-hub/Awesome-LLM-Agent-Harness 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 19, 16, 19, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 19（+4）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

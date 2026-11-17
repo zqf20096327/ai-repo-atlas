@@ -1,6 +1,6 @@
 # ENDEVSOLS/LongParser
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ENDEVSOLS/LongParser) · [官网](https://endevsols.com/open-source/longparser) · 组织维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/ENDEVSOLS/LongParser) · [官网](https://endevsols.com/open-source/longparser) · 组织维护
 
 **面向 RAG 管线的隐私优先文档解析引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ENDEVSOLS/LongParser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

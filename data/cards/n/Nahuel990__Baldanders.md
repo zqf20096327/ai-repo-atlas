@@ -1,6 +1,6 @@
 # Nahuel990/Baldanders
 
-⭐ 24 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Nahuel990/Baldanders) · [官网](https://pypi.org/project/baldanders/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Nahuel990/Baldanders) · [官网](https://nahuel990.github.io/Baldanders/) · 个人维护
 
 **本地个人数据防火墙：云端 LLM 对话前自动脱敏 PII 并回填**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nahuel990/Baldanders 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 25
-    line [11, 17, 21, 23, 24, 24]
+    title "Nahuel990/Baldanders 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 28
+    line [11, 17, 21, 23, 24, 23, 27, 27]
 ```
 
-2026-10-19 11 → 2026-11-02 24（+13）
+2026-10-19 11 → 2026-11-17 27（+16）
 
 
 ---

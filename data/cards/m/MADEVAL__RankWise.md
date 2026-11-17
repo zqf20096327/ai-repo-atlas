@@ -1,6 +1,6 @@
 # MADEVAL/RankWise
 
-⭐ 33 · Python · MIT · 推送 2026-07-12 · [GitHub](https://github.com/MADEVAL/RankWise) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/MADEVAL/RankWise) · [官网](https://www.skills.sh/madeval/rankwise) · 个人维护
 
 **把任意 LLM 变成 SEO 内容工程师的提示词技能系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MADEVAL/RankWise 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 28 --> 34
-    line [29, 30, 33]
+    title "MADEVAL/RankWise 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 49
+    line [29, 30, 33, 30, 37, 40, 42, 47, 48, 48]
 ```
 
-2026-10-18 29 → 2026-11-02 33（+4）
+2026-10-18 29 → 2026-11-17 48（+19）
 
 
 ---

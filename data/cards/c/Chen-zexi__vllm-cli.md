@@ -1,6 +1,6 @@
 # Chen-zexi/vllm-cli
 
-⭐ 505 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/Chen-zexi/vllm-cli) · 个人维护
+⭐ 507 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/Chen-zexi/vllm-cli) · 个人维护
 
 **用 vLLM 部署 LLM 服务的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chen-zexi/vllm-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 504 --> 507
-    line [506, 505, 505]
+    title "Chen-zexi/vllm-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 504 --> 508
+    line [506, 505, 506, 507, 507]
 ```
 
-2026-10-18 506 → 2026-11-02 505（-1）
+2026-10-18 506 → 2026-11-17 507（+1）
 
 
 ---

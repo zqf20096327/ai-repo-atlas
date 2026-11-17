@@ -1,6 +1,6 @@
 # dpaluy/rubric_llm
 
-⭐ 29 · Ruby · MIT · 推送 2026-10-14 · [GitHub](https://github.com/dpaluy/rubric_llm) · [官网](https://majesticlabs.dev/open-source) · 个人维护
+⭐ 30 · Ruby · MIT · 推送 2026-10-14 · [GitHub](https://github.com/dpaluy/rubric_llm) · [官网](https://majesticlabs.dev/open-source) · 个人维护
 
 **面向 Ruby 的轻量 LLM 评测框架，含 LLM-as-Judge 指标与统计 A/B 对比**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dpaluy/rubric_llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "dpaluy/rubric_llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

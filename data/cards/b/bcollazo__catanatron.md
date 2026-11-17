@@ -1,6 +1,6 @@
 # bcollazo/catanatron
 
-⭐ 446 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/bcollazo/catanatron) · [官网](https://docs.catanatron.com) · 个人维护
+⭐ 447 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/bcollazo/catanatron) · [官网](https://docs.catanatron.com) · 个人维护
 
 **卡坦岛（Settlers of Catan）游戏模拟器与 AI 机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bcollazo/catanatron 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 444 --> 447
-    line [445, 446, 445, 446, 446]
+    title "bcollazo/catanatron 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 444 --> 448
+    line [445, 446, 445, 446, 445, 446, 447, 447]
 ```
 
-2026-10-18 445 → 2026-11-02 446（+1）
+2026-10-18 445 → 2026-11-17 447（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dav-niu474/onetake
 
-⭐ 11 · TypeScript · 推送 2026-08-30 · [GitHub](https://github.com/dav-niu474/onetake) · [官网](https://github.com/dav-niu474/agent-video-canvas#readme) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · 推送 2026-08-30 · [GitHub](https://github.com/dav-niu474/onetake) · [官网](https://github.com/dav-niu474/agent-video-canvas#readme) · 个人维护 · 中文 README
 
 **节点式 AI 视频创作画布：从提示词到成片的全链路可视化生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dav-niu474/onetake 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "dav-niu474/onetake 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-23 10 → 2026-11-02 11（+1）
+2026-10-23 10 → 2026-11-17 12（+2）
 
 
 ---

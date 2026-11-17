@@ -1,6 +1,6 @@
 # OpenCSGs/coagent
 
-⭐ 32 · Python · AGPL-3.0 · 推送 2026-01-14 · [GitHub](https://github.com/OpenCSGs/coagent) · 组织维护
+⭐ 33 · Python · AGPL-3.0 · 推送 2026-01-14 · [GitHub](https://github.com/OpenCSGs/coagent) · 组织维护
 
 **构建单体或分布式 agentic 系统的开源框架**
 
@@ -44,13 +44,13 @@ OpenCSGs 维护的 agent 框架，覆盖从简单 LLM 调用到组合式工作�
 
 ```mermaid
 xychart-beta
-    title "OpenCSGs/coagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "OpenCSGs/coagent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

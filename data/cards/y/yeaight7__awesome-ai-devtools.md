@@ -1,6 +1,6 @@
 # yeaight7/awesome-ai-devtools
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yeaight7/awesome-ai-devtools) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yeaight7/awesome-ai-devtools) · 个人维护
 
 **AI 开发者工具生态地图：收录 388 个工具的策展目录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeaight7/awesome-ai-devtools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "yeaight7/awesome-ai-devtools 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 11, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # kianxyzw/comfyui-model-linker
 
-⭐ 70 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kianxyzw/comfyui-model-linker) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kianxyzw/comfyui-model-linker) · 个人维护
 
 **ComfyUI 扩展：为工作流缺失模型做模糊匹配重链与下载**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kianxyzw/comfyui-model-linker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 70]
+    title "kianxyzw/comfyui-model-linker 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 67 --> 73
+    line [68, 69, 70, 69, 71, 72, 72]
 ```
 
-2026-10-18 68 → 2026-11-02 70（+2）
+2026-10-18 68 → 2026-11-17 72（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # jolokia/jolokia-mcp-server
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/jolokia/jolokia-mcp-server) · 组织维护
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/jolokia/jolokia-mcp-server) · 组织维护
 
 **让 LLM 通过 JMX/Jolokia 管理 Java 应用的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jolokia/jolokia-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "jolokia/jolokia-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    line [17, 18, 17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

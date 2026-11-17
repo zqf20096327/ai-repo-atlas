@@ -1,6 +1,6 @@
 # mjendrusch/salad
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/mjendrusch/salad) · [官网](https://github.com/mjendrusch/salad) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/mjendrusch/salad) · [官网](https://github.com/mjendrusch/salad) · 组织维护
 
 **稀疏全原子去噪扩散模型家族，用于蛋白质结构生成**
 
@@ -45,13 +45,13 @@ salad 是基于去噪扩散模型的蛋白质结构生成模型家族与配套�
 
 ```mermaid
 xychart-beta
-    title "mjendrusch/salad 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "mjendrusch/salad 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 67（+2）
 
 
 ---

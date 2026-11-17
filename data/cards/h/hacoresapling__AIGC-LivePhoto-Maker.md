@@ -1,6 +1,6 @@
 # hacoresapling/AIGC-LivePhoto-Maker
 
-⭐ 12 · Python · 推送 2026-03-22 · [GitHub](https://github.com/hacoresapling/AIGC-LivePhoto-Maker) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-03-22 · [GitHub](https://github.com/hacoresapling/AIGC-LivePhoto-Maker) · 个人维护 · 中文 README
 
 **面向普通用户的跨平台 Live/Motion Photo 生成器，可 AI 图生视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hacoresapling/AIGC-LivePhoto-Maker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "hacoresapling/AIGC-LivePhoto-Maker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

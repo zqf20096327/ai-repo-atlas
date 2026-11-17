@@ -1,6 +1,6 @@
 # machinelearningZH/document-research-tool
 
-⭐ 13 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/machinelearningZH/document-research-tool) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/machinelearningZH/document-research-tool) · 组织维护
 
 **面向文档集合的混合检索+LLM 研究工具，供领域专家检索与起草答案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "machinelearningZH/document-research-tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

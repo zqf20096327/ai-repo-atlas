@@ -1,6 +1,6 @@
 # mixdoktorz-bit/AI-Music-Doctor
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/mixdoktorz-bit/AI-Music-Doctor) · 个人维护
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/mixdoktorz-bit/AI-Music-Doctor) · 个人维护
 
 **清理与润饰 AI 生成音乐的独立桌面音频处理应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mixdoktorz-bit/AI-Music-Doctor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "mixdoktorz-bit/AI-Music-Doctor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 29（-1）
 
 
 ---

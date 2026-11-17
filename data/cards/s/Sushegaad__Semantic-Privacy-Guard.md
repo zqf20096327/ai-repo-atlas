@@ -1,6 +1,6 @@
 # Sushegaad/Semantic-Privacy-Guard
 
-⭐ 21 · Java · NOASSERTION · 推送 2026-06-14 · [GitHub](https://github.com/Sushegaad/Semantic-Privacy-Guard) · [官网](https://sushegaad.github.io/Semantic-Privacy-Guard/docs/index.html) · 个人维护
+⭐ 22 · Java · NOASSERTION · 推送 2026-06-14 · [GitHub](https://github.com/Sushegaad/Semantic-Privacy-Guard) · [官网](https://sushegaad.github.io/Semantic-Privacy-Guard/docs/index.html) · 个人维护
 
 **Java 中间件库：在文本到达 LLM 前检测并脱敏 PII**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sushegaad/Semantic-Privacy-Guard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Sushegaad/Semantic-Privacy-Guard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

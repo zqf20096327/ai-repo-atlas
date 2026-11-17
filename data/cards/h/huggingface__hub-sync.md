@@ -1,6 +1,6 @@
 # huggingface/hub-sync
 
-⭐ 23 · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/huggingface/hub-sync) · 组织维护
+⭐ 25 · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/huggingface/hub-sync) · 组织维护
 
 **把 GitHub 仓库同步到 Hugging Face Hub 的 GitHub Action**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/hub-sync 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "huggingface/hub-sync 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 22, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

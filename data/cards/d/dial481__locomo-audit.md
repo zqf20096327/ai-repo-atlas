@@ -1,6 +1,6 @@
 # dial481/locomo-audit
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/dial481/locomo-audit) · [官网](https://github.com/snap-research/locomo/) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/dial481/locomo-audit) · [官网](https://github.com/snap-research/locomo/) · 个人维护
 
 **对 LoCoMo 长上下文基准与 EverMemOS 评测的独立审计报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dial481/locomo-audit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "dial481/locomo-audit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 21, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

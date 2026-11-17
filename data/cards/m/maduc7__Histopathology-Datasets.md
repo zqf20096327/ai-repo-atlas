@@ -1,6 +1,6 @@
 # maduc7/Histopathology-Datasets
 
-⭐ 574 · 推送 2026-03-06 · [GitHub](https://github.com/maduc7/Histopathology-Datasets) · 个人维护
+⭐ 580 · 推送 2026-03-06 · [GitHub](https://github.com/maduc7/Histopathology-Datasets) · 个人维护
 
 **公开组织病理学数据集清单，供分类/分割/配准任务检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maduc7/Histopathology-Datasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 573 --> 575
-    line [574, 574]
+    title "maduc7/Histopathology-Datasets 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 573 --> 581
+    line [574, 575, 577, 578, 579, 580, 580]
 ```
 
-2026-10-18 574 → 2026-11-02 574（+0）
+2026-10-18 574 → 2026-11-17 580（+6）
 
 
 ---

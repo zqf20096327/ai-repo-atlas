@@ -1,6 +1,6 @@
 # adityaarsharma/sitewalk
 
-⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/adityaarsharma/sitewalk) · [官网](https://audit.adityaarsharma.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 SEO 从业者的 MCP 网站爬虫与技术 SEO 审计服务器**
 
@@ -11,7 +11,7 @@ Sitewalk 提供两种形态：托管版（在 ChatGPT 中以插件使用，免�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Sitewalk 提供两种形态：托管版（在 ChatGPT 中以插件使用，免�
 
 ```mermaid
 xychart-beta
-    title "adityaarsharma/sitewalk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 42 --> 47
-    line [43, 44, 45, 46, 46]
+    title "adityaarsharma/sitewalk 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 45, 46, 44, 47, 47]
 ```
 
-2026-10-18 43 → 2026-11-02 46（+3）
+2026-10-18 43 → 2026-11-11 47（+4）
 
 
 ---

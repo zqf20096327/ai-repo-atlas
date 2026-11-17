@@ -1,6 +1,6 @@
 # jdermody/brightwire
 
-⭐ 128 · C# · MIT · 推送 2026-08-21 · [GitHub](https://github.com/jdermody/brightwire) · [官网](https://github.com/jdermody/brightwire/wiki) · 个人维护
+⭐ 129 · C# · MIT · 推送 2026-11-06 · [GitHub](https://github.com/jdermody/brightwire) · [官网](https://github.com/jdermody/brightwire/wiki) · 个人维护
 
 **.NET 机器学习库：神经网络/贝叶斯/聚类等多算法，可选 CUDA/MKL 加速**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jdermody/brightwire 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    title "jdermody/brightwire 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 127 --> 130
+    line [128, 129, 129]
 ```
 
-2026-10-18 128 → 2026-11-02 128（+0）
+2026-10-18 128 → 2026-11-17 129（+1）
 
 
 ---

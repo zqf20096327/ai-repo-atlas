@@ -1,6 +1,6 @@
 # nucket/NekoAI
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/nucket/NekoAI) · [官网](https://nekoai.dev/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nucket/NekoAI) · [官网](https://nekoai.dev/) · 个人维护
 
 **带 AI 聊天能力的开源桌面宠物（经典 Neko 复刻）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nucket/NekoAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "nucket/NekoAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 28
+    line [20, 21, 20, 22, 24, 26, 27, 27]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 27（+7）
 
 
 ---

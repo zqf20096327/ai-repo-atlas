@@ -1,6 +1,6 @@
 # FrankS-IntelLab/agentic-kaggle-skill
 
-⭐ 189 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FrankS-IntelLab/agentic-kaggle-skill) · [官网](https://github.com/FrankS-IntelLab/agentic-kaggle-skill) · 个人维护 · 中文 README
+⭐ 193 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FrankS-IntelLab/agentic-kaggle-skill) · [官网](https://github.com/FrankS-IntelLab/agentic-kaggle-skill) · 个人维护 · 中文 README
 
 **供 AI 智能体使用的 Kaggle 竞赛工作流 Skill 包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrankS-IntelLab/agentic-kaggle-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 188 --> 190
-    line [189, 189]
+    title "FrankS-IntelLab/agentic-kaggle-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 188 --> 194
+    line [189, 191, 192, 193, 193]
 ```
 
-2026-10-18 189 → 2026-11-02 189（+0）
+2026-10-18 189 → 2026-11-17 193（+4）
 
 
 ---

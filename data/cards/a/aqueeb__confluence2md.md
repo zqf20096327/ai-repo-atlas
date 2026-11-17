@@ -1,6 +1,6 @@
 # aqueeb/confluence2md
 
-⭐ 48 · Go · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/aqueeb/confluence2md) · 个人维护
+⭐ 49 · Go · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/aqueeb/confluence2md) · 个人维护
 
 **将 Confluence MIME 导出（.doc）转为 Markdown 的 CLI 工具**
 
@@ -44,13 +44,13 @@ Go 编写的命令行工具，解析 Confluence"导出为 Word"实际生成的 M
 
 ```mermaid
 xychart-beta
-    title "aqueeb/confluence2md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "aqueeb/confluence2md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

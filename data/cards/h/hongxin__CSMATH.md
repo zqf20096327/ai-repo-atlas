@@ -1,6 +1,6 @@
 # hongxin/CSMATH
 
-⭐ 25 · 推送 2026-03-17 · [GitHub](https://github.com/hongxin/CSMATH) · 组织维护 · 中文 README
+⭐ 26 · 推送 2026-03-17 · [GitHub](https://github.com/hongxin/CSMATH) · 组织维护 · 中文 README
 
 **面向计算机博士新生的数学课程仓库（统计学习/优化/偏微分方程/泛函）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hongxin/CSMATH 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "hongxin/CSMATH 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 24, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

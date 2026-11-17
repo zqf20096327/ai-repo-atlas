@@ -1,6 +1,6 @@
 # hazratali/awesome-ai-summerschool
 
-⭐ 747 · 推送 2026-10-26 · [GitHub](https://github.com/hazratali/awesome-ai-summerschool) · 个人维护
+⭐ 751 · 推送 2026-11-13 · [GitHub](https://github.com/hazratali/awesome-ai-summerschool) · 个人维护
 
 **AI/ML/医疗影像领域暑期学校与冬季学校清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hazratali/awesome-ai-summerschool 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 745 --> 749
-    line [746, 748, 747, 746, 747, 747]
+    title "hazratali/awesome-ai-summerschool 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 745 --> 752
+    line [746, 748, 747, 746, 747, 748, 749, 750, 749, 750, 751, 751]
 ```
 
-2026-10-18 746 → 2026-11-02 747（+1）
+2026-10-18 746 → 2026-11-17 751（+5）
 
 
 ---

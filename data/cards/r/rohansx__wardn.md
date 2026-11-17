@@ -1,6 +1,6 @@
 # rohansx/wardn
 
-⭐ 37 · Rust · MIT · 推送 2026-09-30 · [GitHub](https://github.com/rohansx/wardn) · 个人维护
+⭐ 39 · Rust · MIT · 推送 2026-09-30 · [GitHub](https://github.com/rohansx/wardn) · 个人维护
 
 **面向 AI agent 的凭证防火墙：代理注入真实密钥，agent 只见占位符**
 
@@ -47,13 +47,13 @@ Rust 编写的本地凭证隔离工具：真实 API 密钥存于 AES-256-GCM 加
 
 ```mermaid
 xychart-beta
-    title "rohansx/wardn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "rohansx/wardn 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 39（+3）
 
 
 ---

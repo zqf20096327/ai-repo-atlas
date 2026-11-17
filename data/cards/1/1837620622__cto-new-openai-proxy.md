@@ -1,6 +1,6 @@
 # 1837620622/cto-new-openai-proxy
 
-⭐ 45 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/1837620622/cto-new-openai-proxy) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/1837620622/cto-new-openai-proxy) · 个人维护 · 中文 README
 
 **把 cto.new 免费模型反代成 OpenAI/Anthropic 兼容 API 的账号池代理**
 
@@ -44,13 +44,13 @@ Go 编写的反向代理：批量注册 cto.new（Engine Labs）免费账号，�
 
 ```mermaid
 xychart-beta
-    title "1837620622/cto-new-openai-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    title "1837620622/cto-new-openai-proxy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [44, 45, 46, 47, 46, 46]
 ```
 
-2026-10-18 44 → 2026-11-02 45（+1）
+2026-10-18 44 → 2026-11-17 46（+2）
 
 
 ---

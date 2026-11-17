@@ -1,6 +1,6 @@
 # athxrvc/Homeport
 
-⭐ 18 · PowerShell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/athxrvc/Homeport) · [官网](https://homeport-site.wasmer.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把本机 Ollama 模型封装为 OpenAI 兼容 API 的自托管网关**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "athxrvc/Homeport 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-07 18（+0）
 
 
 ---

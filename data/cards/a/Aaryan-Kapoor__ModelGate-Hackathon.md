@@ -1,6 +1,6 @@
 # Aaryan-Kapoor/ModelGate-Hackathon
 
-⭐ 54 · TypeScript · MIT · 推送 2026-03-22 · [GitHub](https://github.com/Aaryan-Kapoor/ModelGate-Hackathon) · 组织维护
+⭐ 55 · TypeScript · MIT · 推送 2026-03-22 · [GitHub](https://github.com/Aaryan-Kapoor/ModelGate-Hackathon) · 组织维护
 
 **按合同约束自动路由 LLM 请求的控制平面，降成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aaryan-Kapoor/ModelGate-Hackathon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "Aaryan-Kapoor/ModelGate-Hackathon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 53, 54, 55, 55]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 55（+2）
 
 
 ---

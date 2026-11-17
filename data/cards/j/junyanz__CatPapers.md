@@ -1,6 +1,6 @@
 # junyanz/CatPapers
 
-⭐ 1,168 · Python · 推送 2026-01-24 · [GitHub](https://github.com/junyanz/CatPapers) · 个人维护
+⭐ 1,172 · Python · 推送 2026-01-24 · [GitHub](https://github.com/junyanz/CatPapers) · 个人维护
 
 **收录猫相关实验结果的计算机视觉/图形学/机器学习论文清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "junyanz/CatPapers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 1166 --> 1169
-    line [1167, 1168, 1168]
+    title "junyanz/CatPapers 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1166 --> 1173
+    line [1167, 1168, 1169, 1170, 1171, 1172, 1172]
 ```
 
-2026-10-18 1,167 → 2026-11-02 1,168（+1）
+2026-10-18 1,167 → 2026-11-17 1,172（+5）
 
 
 ---

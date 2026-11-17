@@ -1,6 +1,6 @@
 # HakAl/scrappy
 
-⭐ 13 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/HakAl/scrappy) · [官网](https://pypi.org/project/scrappy-ai/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/HakAl/scrappy) · [官网](https://pypi.org/project/scrappy-ai/) · 个人维护
 
 **免费 LLM 编排的代码库感知 AI 编程助手（CLI）**
 
@@ -46,12 +46,12 @@ Python CLI 编程助手，将 Cerebras、Groq、Gemini 三家免费额度 LLM �
 ```mermaid
 xychart-beta
     title "HakAl/scrappy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

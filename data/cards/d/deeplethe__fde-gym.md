@@ -1,6 +1,6 @@
 # deeplethe/fde-gym
 
-⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/deeplethe/fde-gym) · [官网](https://fde-gym.com/paper) · 个人维护 · 中文 README
+⭐ 115 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/deeplethe/fde-gym) · [官网](https://fde-gym.com/paper) · 个人维护 · 中文 README
 
 **面向前置交付工程师（FDE）的实战评测平台：用 coding agent 完成真实客户交付案例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deeplethe/fde-gym 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 100 --> 112
-    line [101, 111, 107, 109, 111, 107, 111, 111]
+    title "deeplethe/fde-gym 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 100 --> 116
+    line [101, 111, 107, 109, 111, 107, 111, 113, 114, 115, 115]
 ```
 
-2026-10-18 101 → 2026-11-02 111（+10）
+2026-10-18 101 → 2026-11-17 115（+14）
 
 
 ---

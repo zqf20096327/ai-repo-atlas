@@ -1,6 +1,6 @@
 # divyansh-shandilya/deepseek-openai-proxy
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/divyansh-shandilya/deepseek-openai-proxy) · [官网](https://deepseek-setup.antigravity-cloudflare-worker.workers.dev/) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/divyansh-shandilya/deepseek-openai-proxy) · [官网](https://deepseek-setup.antigravity-cloudflare-worker.workers.dev/) · 个人维护
 
 **本地代理：把 DeepSeek 网页会话转成 OpenAI 兼容接口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "divyansh-shandilya/deepseek-openai-proxy 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 8 --> 16
-    line [9, 11, 14, 15, 15]
+    title "divyansh-shandilya/deepseek-openai-proxy 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 8 --> 17
+    line [9, 11, 14, 15, 9, 16, 16]
 ```
 
-2026-10-25 9 → 2026-11-02 15（+6）
+2026-10-25 9 → 2026-11-17 16（+7）
 
 
 ---

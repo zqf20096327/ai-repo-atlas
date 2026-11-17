@@ -1,6 +1,6 @@
 # shrdgn/openfusion
 
-⭐ 34 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/shrdgn/openfusion) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/shrdgn/openfusion) · 个人维护
 
 **开源复合模型代理：将请求并发分发至多模型面板并由裁判模型合成单一回答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shrdgn/openfusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "shrdgn/openfusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

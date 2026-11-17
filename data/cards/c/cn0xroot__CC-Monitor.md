@@ -1,6 +1,6 @@
 # cn0xroot/CC-Monitor
 
-⭐ 64 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cn0xroot/CC-Monitor) · [官网](www.cc-monitor.com) · 个人维护 · 中文 README
+⭐ 66 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cn0xroot/CC-Monitor) · [官网](www.cc-monitor.com) · 个人维护 · 中文 README
 
 **监控并审计 Claude Code 在本机行为的工具，高风险操作可拦截**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cn0xroot/CC-Monitor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 63 --> 66
-    line [65, 64, 64]
+    title "cn0xroot/CC-Monitor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 63 --> 67
+    line [65, 64, 65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-11-02 64（-1）
+2026-10-18 65 → 2026-11-17 66（+1）
 
 
 ---

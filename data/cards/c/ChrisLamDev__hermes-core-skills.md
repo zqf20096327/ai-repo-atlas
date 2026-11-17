@@ -1,6 +1,6 @@
 # ChrisLamDev/hermes-core-skills
 
-⭐ 12 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ChrisLamDev/hermes-core-skills) · [官网](https://chrislamdev.github.io/hermes-core-skills/) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ChrisLamDev/hermes-core-skills) · [官网](https://chrislamdev.github.io/hermes-core-skills/) · 个人维护 · 中文 README
 
 **给 AI 编码代理的 25 个可执行工作流技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChrisLamDev/hermes-core-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "ChrisLamDev/hermes-core-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

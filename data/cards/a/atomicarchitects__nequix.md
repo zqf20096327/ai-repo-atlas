@@ -1,6 +1,6 @@
 # atomicarchitects/nequix
 
-⭐ 80 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/atomicarchitects/nequix) · [官网](https://arxiv.org/abs/2601.07742) · 组织维护
+⭐ 81 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/atomicarchitects/nequix) · [官网](https://arxiv.org/abs/2601.07742) · 组织维护
 
 **材料科学机器学习原子间势基础模型（含声子微调）**
 
@@ -49,13 +49,13 @@ Nequix 提供材料领域基础模型的源码与预训练权重，覆盖 MPtrj�
 
 ```mermaid
 xychart-beta
-    title "atomicarchitects/nequix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    title "atomicarchitects/nequix 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 78 --> 82
+    line [79, 80, 81, 81]
 ```
 
-2026-10-18 79 → 2026-11-02 80（+1）
+2026-10-18 79 → 2026-11-17 81（+2）
 
 
 ---

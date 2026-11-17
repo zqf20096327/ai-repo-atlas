@@ -1,6 +1,6 @@
 # valtors/relay
 
-⭐ 12 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/valtors/relay) · [官网](https://valtors.github.io/relay) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-07 · [GitHub](https://github.com/valtors/relay) · [官网](https://valtors.github.io/relay) · 个人维护
 
 **单一 Go 二进制的 MCP 服务器：40 个工具供 AI agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "valtors/relay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

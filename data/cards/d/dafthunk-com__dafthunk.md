@@ -1,6 +1,6 @@
 # dafthunk-com/dafthunk
 
-⭐ 143 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/dafthunk-com/dafthunk) · [官网](https://www.dafthunk.com) · 组织维护
+⭐ 149 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/dafthunk-com/dafthunk) · [官网](https://www.dafthunk.com) · 组织维护
 
 **基于 Cloudflare 的可视化工作流自动化平台，含 AI 节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dafthunk-com/dafthunk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 136 --> 144
-    line [137, 138, 140, 141, 142, 143, 143]
+    title "dafthunk-com/dafthunk 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 136 --> 150
+    line [137, 138, 140, 141, 142, 143, 141, 144, 145, 147, 148, 149, 149]
 ```
 
-2026-10-18 137 → 2026-11-02 143（+6）
+2026-10-18 137 → 2026-11-17 149（+12）
 
 
 ---

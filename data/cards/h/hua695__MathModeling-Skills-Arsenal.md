@@ -1,6 +1,6 @@
 # hua695/MathModeling-Skills-Arsenal
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/hua695/MathModeling-Skills-Arsenal) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **数学建模竞赛的 AI Agent 技能集，覆盖全流程**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hua695/MathModeling-Skills-Arsenal 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "hua695/MathModeling-Skills-Arsenal 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 8 --> 13
-    line [9, 11, 12, 12]
+    line [9, 11, 12, 11, 11]
 ```
 
-2026-10-24 9 → 2026-11-02 12（+3）
+2026-10-24 9 → 2026-11-07 11（+2）
 
 
 ---

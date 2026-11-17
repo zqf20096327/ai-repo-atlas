@@ -1,6 +1,6 @@
 # tumf/jev-cli
 
-⭐ 19 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/tumf/jev-cli) · [官网](https://docs.typesafe.ai/introduction) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/tumf/jev-cli) · [官网](https://docs.typesafe.ai/introduction) · 个人维护
 
 **调用 TypeSafe Jev API 的类型化判断 CLI 与 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tumf/jev-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 19, 19]
+    title "tumf/jev-cli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 23
+    line [16, 17, 19, 17, 19, 22, 22]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-17 22（+6）
 
 
 ---

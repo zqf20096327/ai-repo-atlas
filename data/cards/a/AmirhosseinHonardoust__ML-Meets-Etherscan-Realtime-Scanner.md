@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/ML-Meets-Etherscan-Realtime-Scanner
 
-⭐ 22 · MIT · 推送 2025-11-20 · [GitHub](https://github.com/AmirhosseinHonardoust/ML-Meets-Etherscan-Realtime-Scanner) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **教程文章：讲解如何构建实时智能合约 ML 风险扫描管线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/ML-Meets-Etherscan-Realtime-Scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-15 22（+0）
 
 
 ---

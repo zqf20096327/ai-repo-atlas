@@ -1,6 +1,6 @@
 # mc7yxyyq96-sketch/hi-code
 
-⭐ 15 · JavaScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/mc7yxyyq96-sketch/hi-code) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/mc7yxyyq96-sketch/hi-code) · 个人维护 · 中文 README
 
 **本地优先的桌面编码 Agent 工作台，接入任意 OpenAI 兼容模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mc7yxyyq96-sketch/hi-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "mc7yxyyq96-sketch/hi-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

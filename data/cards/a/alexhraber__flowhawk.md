@@ -1,6 +1,6 @@
 # alexhraber/flowhawk
 
-⭐ 80 · Go · MIT · 推送 2026-07-14 · [GitHub](https://github.com/alexhraber/flowhawk) · 个人维护
+⭐ 82 · Go · MIT · 推送 2026-07-14 · [GitHub](https://github.com/alexhraber/flowhawk) · 个人维护
 
 **eBPF 网络安全监控平台：实时检测端口扫描、DDoS 等威胁**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexhraber/flowhawk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    title "alexhraber/flowhawk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 79 --> 83
+    line [80, 82, 82]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-17 82（+2）
 
 
 ---

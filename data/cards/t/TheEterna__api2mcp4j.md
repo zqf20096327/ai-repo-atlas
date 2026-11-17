@@ -1,6 +1,6 @@
 # TheEterna/api2mcp4j
 
-⭐ 113 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TheEterna/api2mcp4j) · [官网](https://theeterna.github.io/server2mcp-docs/) · 个人维护 · 中文 README
+⭐ 114 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TheEterna/api2mcp4j) · [官网](https://theeterna.github.io/server2mcp-docs/) · 个人维护 · 中文 README
 
 **把 Spring Boot REST 控制器自动转为 MCP Server 的 Starter**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheEterna/api2mcp4j 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 109 --> 114
-    line [110, 111, 112, 113, 113]
+    title "TheEterna/api2mcp4j 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 109 --> 115
+    line [110, 111, 112, 113, 111, 114, 114]
 ```
 
-2026-10-18 110 → 2026-11-02 113（+3）
+2026-10-18 110 → 2026-11-17 114（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/optimum-executorch
 
-⭐ 141 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/optimum-executorch) · [官网](https://huggingface.co/docs/optimum-executorch/en/index) · 组织维护
+⭐ 141 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/optimum-executorch) · [官网](https://huggingface.co/docs/optimum-executorch/en/index) · 组织维护
 
 **把 Hugging Face 模型转换为 ExecuTorch 格式以部署到边缘设备**
 
@@ -45,13 +45,13 @@ Hugging Face 官方维护的模型导出与部署工具：将 Transformers 模�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-executorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "huggingface/optimum-executorch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 140 --> 143
-    line [142, 141, 141]
+    line [142, 141, 142, 141, 141]
 ```
 
-2026-10-18 142 → 2026-11-02 141（-1）
+2026-10-18 142 → 2026-11-17 141（-1）
 
 
 ---

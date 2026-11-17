@@ -1,6 +1,6 @@
 # Ubanillx/NovaCloudEdu
 
-⭐ 47 · Dart · NOASSERTION · 推送 2026-04-27 · [GitHub](https://github.com/Ubanillx/NovaCloudEdu) · [官网](https://novacloudedu.ubanillx.com/) · 个人维护 · 中文 README
+⭐ 52 · Dart · NOASSERTION · 推送 2026-04-27 · [GitHub](https://github.com/Ubanillx/NovaCloudEdu) · [官网](https://novacloudedu.ubanillx.com/) · 个人维护 · 中文 README
 
 **面向教育的 AI+ SaaS 平台：课程/知识库/AI 助手多端一体化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ubanillx/NovaCloudEdu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 43 --> 48
-    line [44, 45, 46, 47, 47]
+    title "Ubanillx/NovaCloudEdu 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 43 --> 53
+    line [44, 45, 46, 47, 48, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 44 → 2026-11-02 47（+3）
+2026-10-18 44 → 2026-11-17 52（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # NoWayJA/word-to-markdown
 
-⭐ 59 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/NoWayJA/word-to-markdown) · 个人维护
+⭐ 62 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/NoWayJA/word-to-markdown) · 个人维护
 
 **浏览器本地运行的 Word/PDF 转 Markdown 隐私工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoWayJA/word-to-markdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 56 --> 60
-    line [57, 58, 59, 59]
+    title "NoWayJA/word-to-markdown 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 56 --> 63
+    line [57, 58, 59, 61, 62, 62]
 ```
 
-2026-10-18 57 → 2026-11-02 59（+2）
+2026-10-18 57 → 2026-11-17 62（+5）
 
 
 ---

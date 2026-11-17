@@ -1,6 +1,6 @@
 # xmed-lab/TAM
 
-⭐ 191 · Python · 推送 2025-12-14 · [GitHub](https://github.com/xmed-lab/TAM) · 组织维护
+⭐ 192 · Python · 推送 2025-12-14 · [GitHub](https://github.com/xmed-lab/TAM) · 组织维护
 
 **ICCV25 论文方法：可视化解释多模态 LLM 的 Token 激活图**
 
@@ -45,13 +45,13 @@ ICCV 2025 Oral 论文官方代码库，实现 Token Activation Map（TAM）方�
 
 ```mermaid
 xychart-beta
-    title "xmed-lab/TAM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "xmed-lab/TAM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-17"]
     y-axis "stars" 190 --> 193
-    line [191, 192, 191, 191]
+    line [191, 192, 191, 192, 192]
 ```
 
-2026-10-18 191 → 2026-11-02 191（+0）
+2026-10-18 191 → 2026-11-17 192（+1）
 
 
 ---

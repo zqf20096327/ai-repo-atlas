@@ -1,6 +1,6 @@
 # runkids/skillshare-hub
 
-⭐ 17 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/runkids/skillshare-hub) · 个人维护 · 中文 README
+⭐ 21 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/runkids/skillshare-hub) · 个人维护 · 中文 README
 
 **AI CLI 技能策展目录：232 个技能、11 类，可自建组织内部 hub**
 
@@ -45,13 +45,13 @@ skillshare 的官方默认技能目录仓库，收录 232 个 agent 技能，按
 
 ```mermaid
 xychart-beta
-    title "runkids/skillshare-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "runkids/skillshare-hub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 19, 20, 21, 21]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 21（+5）
 
 
 ---

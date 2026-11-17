@@ -1,6 +1,6 @@
 # kreuzberg-dev/kreuzberg-lts
 
-⭐ 20 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kreuzberg-dev/kreuzberg-lts) · [官网](https://kreuzberg.dev) · 组织维护
+⭐ 21 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kreuzberg-dev/kreuzberg-lts) · [官网](https://kreuzberg.dev) · 组织维护
 
 **多语言文档文本提取库：97+格式解析、OCR 与代码结构分析**
 
@@ -46,13 +46,13 @@ Rust 核心的文档解析库，从 PDF、Office、图像、HTML、邮件、归�
 
 ```mermaid
 xychart-beta
-    title "kreuzberg-dev/kreuzberg-lts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "kreuzberg-dev/kreuzberg-lts 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 18, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

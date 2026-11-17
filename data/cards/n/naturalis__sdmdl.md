@@ -1,6 +1,6 @@
 # naturalis/sdmdl
 
-⭐ 31 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/naturalis/sdmdl) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/naturalis/sdmdl) · 组织维护
 
 **用深度神经网络做物种分布建模的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naturalis/sdmdl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 31（+0）
 
 
 ---

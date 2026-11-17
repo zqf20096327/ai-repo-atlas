@@ -1,6 +1,6 @@
 # aws-neuron/aws-neuron-samples
 
-⭐ 163 · Jupyter Notebook · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/aws-neuron/aws-neuron-samples) · 组织维护
+⭐ 163 · Jupyter Notebook · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/aws-neuron/aws-neuron-samples) · 组织维护
 
 **面向 AWS Neuron SDK 开发者的推理/训练示例代码集合**
 
@@ -45,12 +45,12 @@ AWS Neuron 团队维护的示例代码仓库：Neuron SDK 用于在 AWS 自研�
 ```mermaid
 xychart-beta
     title "aws-neuron/aws-neuron-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 161 --> 164
     line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-11-02 163（+1）
+2026-10-18 162 → 2026-11-17 163（+1）
 
 
 ---

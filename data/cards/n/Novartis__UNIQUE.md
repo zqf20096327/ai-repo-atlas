@@ -1,6 +1,6 @@
 # Novartis/UNIQUE
 
-⭐ 61 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/Novartis/UNIQUE) · [官网](https://opensource.nibr.com/UNIQUE) · 组织维护
+⭐ 62 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/Novartis/UNIQUE) · [官网](https://opensource.nibr.com/UNIQUE) · 组织维护
 
 **面向机器学习模型预测的不确定性量化基准评测库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Novartis/UNIQUE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "Novartis/UNIQUE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

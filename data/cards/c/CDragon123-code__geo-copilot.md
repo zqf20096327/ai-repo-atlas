@@ -45,13 +45,13 @@ Chrome/Edge（Manifest V3）扩展，用于以产品为中心的 GEO（生成式
 
 ```mermaid
 xychart-beta
-    title "CDragon123-code/geo-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "CDragon123-code/geo-copilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

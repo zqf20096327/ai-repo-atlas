@@ -1,6 +1,6 @@
 # hyperfy-xyz/hyperfy
 
-⭐ 309 · JavaScript · GPL-3.0 · 推送 2026-04-21 · [GitHub](https://github.com/hyperfy-xyz/hyperfy) · 组织维护
+⭐ 311 · JavaScript · GPL-3.0 · 推送 2026-04-21 · [GitHub](https://github.com/hyperfy-xyz/hyperfy) · 组织维护
 
 **开发者用开源框架：构建可自托管的多人交互式 3D 虚拟世界**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hyperfy-xyz/hyperfy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 305 --> 310
-    line [306, 307, 308, 309, 309]
+    title "hyperfy-xyz/hyperfy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 305 --> 312
+    line [306, 307, 308, 309, 308, 310, 311, 311]
 ```
 
-2026-10-18 306 → 2026-11-02 309（+3）
+2026-10-18 306 → 2026-11-17 311（+5）
 
 
 ---

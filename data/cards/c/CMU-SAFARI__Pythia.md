@@ -1,6 +1,6 @@
 # CMU-SAFARI/Pythia
 
-⭐ 174 · C++ · MIT · 推送 2026-05-27 · [GitHub](https://github.com/CMU-SAFARI/Pythia) · [官网](https://arxiv.org/pdf/2109.12021.pdf) · 组织维护
+⭐ 175 · C++ · MIT · 推送 2026-05-27 · [GitHub](https://github.com/CMU-SAFARI/Pythia) · [官网](https://arxiv.org/pdf/2109.12021.pdf) · 组织维护
 
 **强化学习硬件预取框架：在 ChampSim 中生成预取决策**
 
@@ -45,13 +45,13 @@ CMU SAFARI 组发表于 MICRO 2021 的硬件数据预取器研究框架：将硬
 
 ```mermaid
 xychart-beta
-    title "CMU-SAFARI/Pythia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 172 --> 175
-    line [173, 174, 174]
+    title "CMU-SAFARI/Pythia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 172 --> 176
+    line [173, 174, 175, 175]
 ```
 
-2026-10-18 173 → 2026-11-02 174（+1）
+2026-10-18 173 → 2026-11-17 175（+2）
 
 
 ---

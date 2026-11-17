@@ -1,6 +1,6 @@
 # datalayer/earthdata-mcp-server
 
-⭐ 26 · Python · BSD-3-Clause · 推送 2026-10-10 · [GitHub](https://github.com/datalayer/earthdata-mcp-server) · [官网](https://datalayer.earth) · 组织维护
+⭐ 27 · Python · BSD-3-Clause · 推送 2026-10-10 · [GitHub](https://github.com/datalayer/earthdata-mcp-server) · [官网](https://datalayer.earth) · 组织维护
 
 **面向 NASA Earthdata 的 MCP 服务器：为 AI 客户端提供数据检索工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datalayer/earthdata-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "datalayer/earthdata-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

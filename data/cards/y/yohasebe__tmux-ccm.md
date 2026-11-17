@@ -1,6 +1,6 @@
 # yohasebe/tmux-ccm
 
-⭐ 16 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yohasebe/tmux-ccm) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/yohasebe/tmux-ccm) · 个人维护
 
 **管理多项目并行 Claude Code 会话的 tmux 注意力管理插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yohasebe/tmux-ccm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "yohasebe/tmux-ccm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

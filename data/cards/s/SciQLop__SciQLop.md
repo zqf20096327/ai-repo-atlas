@@ -1,6 +1,6 @@
 # SciQLop/SciQLop
 
-⭐ 29 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/SciQLop/SciQLop) · [官网](https://sciqlop.github.io/) · 组织维护
+⭐ 29 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/SciQLop/SciQLop) · [官网](https://sciqlop.github.io/) · 组织维护
 
 **给空间物理研究者的原位等离子体卫星数据浏览、标注与分析 IDE**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SciQLop/SciQLop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

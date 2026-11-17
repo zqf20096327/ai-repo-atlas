@@ -1,6 +1,6 @@
 # ICUnit/Tokai
 
-⭐ 38 · TypeScript · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/ICUnit/Tokai) · [官网](https://go.tokai.app) · 组织维护 · 中文 README
+⭐ 40 · TypeScript · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/ICUnit/Tokai) · [官网](https://go.tokai.app) · 组织维护 · 中文 README
 
 **为 ADHD 用户打造的 BCI/自评认知指标驱动 AI 任务规划应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ICUnit/Tokai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 38, 38]
+    title "ICUnit/Tokai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ActiveCampaign/postmark-mcp
 
-⭐ 60 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ActiveCampaign/postmark-mcp) · [官网](https://postmarkapp.com/lp/mcp) · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ActiveCampaign/postmark-mcp) · [官网](https://postmarkapp.com/lp/mcp) · 组织维护
 
 **官方 Postmark MCP 服务器：让 AI 助手发送与诊断邮件**
 
@@ -45,13 +45,13 @@ ActiveCampaign 官方维护的 Model Context Protocol 服务器，把 Postmark �
 
 ```mermaid
 xychart-beta
-    title "ActiveCampaign/postmark-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 57 --> 61
-    line [58, 59, 60, 60]
+    title "ActiveCampaign/postmark-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 57 --> 65
+    line [58, 59, 60, 63, 64, 64]
 ```
 
-2026-10-18 58 → 2026-11-02 60（+2）
+2026-10-18 58 → 2026-11-17 64（+6）
 
 
 ---

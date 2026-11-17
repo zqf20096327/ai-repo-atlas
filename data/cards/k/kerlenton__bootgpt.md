@@ -1,6 +1,6 @@
 # kerlenton/bootgpt
 
-⭐ 50 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kerlenton/bootgpt) · 个人维护
+⭐ 109 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kerlenton/bootgpt) · 个人维护
 
 **在 512 字节 MBR 引导扇区里运行的语言模型：开机即生成假 Linux 启动日志**
 
@@ -40,6 +40,18 @@
 > L3: A neural network that boots your PC.
 > L5: The MBR is 512 bytes of hand written asm. It loads an 11.5 KB int8 model
 > L6: from the next 23 sectors and runs it in 16-bit real mode on a 386. No OS,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kerlenton/bootgpt 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 44 --> 116
+    line [50, 103, 104, 105, 107, 110, 109, 109]
+```
+
+2026-11-02 50 → 2026-11-17 109（+59）
 
 
 ---

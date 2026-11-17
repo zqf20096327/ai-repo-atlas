@@ -1,6 +1,6 @@
 # google-deepmind/proeval
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/google-deepmind/proeval) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/google-deepmind/proeval) · 组织维护
 
 **GenAI 评测降本框架：更少样本估计模型性能并发现失败模式**
 
@@ -45,13 +45,13 @@ Python 库，面向生成式 AI 评测场景：用贝叶斯二次（BQ）采样�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/proeval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "google-deepmind/proeval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 45 --> 50
+    line [46, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 49（+3）
 
 
 ---

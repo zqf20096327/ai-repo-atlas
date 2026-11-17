@@ -1,6 +1,6 @@
 # MayankSingh-coder/react-agents
 
-⭐ 21 · Python · 推送 2025-11-09 · [GitHub](https://github.com/MayankSingh-coder/react-agents) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **混合 ReAct/Plan-Execute 的 AI agent 服务：自适应推理执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MayankSingh-coder/react-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-07 21（+0）
 
 
 ---

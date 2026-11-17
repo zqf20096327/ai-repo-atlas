@@ -1,6 +1,6 @@
 # anakhas771/AI-Incident-Response-Platform
 
-⭐ 34 · TypeScript · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/anakhas771/AI-Incident-Response-Platform) · 个人维护
+⭐ 47 · TypeScript · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/anakhas771/AI-Incident-Response-Platform) · 个人维护
 
 **面向工程团队的 AI 事件响应平台：RAG 分析生产事故**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anakhas771/AI-Incident-Response-Platform 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 35
-    line [22, 23, 24, 26, 27, 28, 29, 31, 34, 34]
+    title "anakhas771/AI-Incident-Response-Platform 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 49
+    line [22, 23, 24, 26, 27, 28, 29, 31, 34, 23, 39, 40, 43, 46, 45, 47, 47]
 ```
 
-2026-10-18 22 → 2026-11-02 34（+12）
+2026-10-18 22 → 2026-11-17 47（+25）
 
 
 ---

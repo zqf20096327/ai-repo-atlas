@@ -1,6 +1,6 @@
 # AnalyticAce/myresumo
 
-⭐ 69 · HTML · MIT · 推送 2026-09-15 · [GitHub](https://github.com/AnalyticAce/myresumo) · 个人维护
+⭐ 70 · HTML · MIT · 推送 2026-09-15 · [GitHub](https://github.com/AnalyticAce/myresumo) · 个人维护
 
 **AI 简历定制平台：按职位描述自动改写简历并优化 ATS 匹配**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnalyticAce/myresumo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "AnalyticAce/myresumo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 70（+1）
 
 
 ---

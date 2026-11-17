@@ -1,6 +1,6 @@
 # zjunlp/SkillAdaptor
 
-⭐ 19 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/zjunlp/SkillAdaptor) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/zjunlp/SkillAdaptor) · 组织维护 · 中文 README
 
 **从失败轨迹自动演化 LLM Agent 技能文件的 Python CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/SkillAdaptor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "zjunlp/SkillAdaptor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

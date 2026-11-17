@@ -1,6 +1,6 @@
 # coder/ai-tokenizer
 
-⭐ 62 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/coder/ai-tokenizer) · [官网](https://coder.github.io/ai-tokenizer/) · 组织维护
+⭐ 63 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/coder/ai-tokenizer) · [官网](https://coder.github.io/ai-tokenizer/) · 组织维护
 
 **为 Vercel AI SDK 设计的快速 token 计数库**
 
@@ -11,7 +11,7 @@ npm 包 ai-tokenizer，提供对 AI SDK 工具与消息 schema 的 token 估算�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ npm 包 ai-tokenizer，提供对 AI SDK 工具与消息 schema 的 token 估算�
 
 ```mermaid
 xychart-beta
-    title "coder/ai-tokenizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "coder/ai-tokenizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # paulk-asert/groovy-data-science
 
-⭐ 43 · Groovy · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/paulk-asert/groovy-data-science) · 个人维护
+⭐ 44 · Groovy · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/paulk-asert/groovy-data-science) · 个人维护
 
 **用 Groovy 做数据科学的示例项目集合，覆盖回归/聚类/分类/NLP/深度学习**
 
@@ -43,13 +43,13 @@ Groovy 语言数据科学示例库，按主题组织多个子项目：香薰蜡�
 
 ```mermaid
 xychart-beta
-    title "paulk-asert/groovy-data-science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43]
+    title "paulk-asert/groovy-data-science 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 42, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

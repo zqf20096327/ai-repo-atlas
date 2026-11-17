@@ -1,6 +1,6 @@
 # Edw590/VISOR---A-Voice-Assistant
 
-⭐ 37 · Go · Apache-2.0 · 推送 2025-11-20 · [GitHub](https://github.com/Edw590/VISOR---A-Voice-Assistant) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Go 编写的桌面语音助手，接本地 LLM 与模块化常驻服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Edw590/VISOR---A-Voice-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-15 37（+0）
 
 
 ---

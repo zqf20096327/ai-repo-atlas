@@ -1,6 +1,6 @@
 # joshpocock/Stride-AI-Agents
 
-⭐ 364 · Python · MIT · 推送 2026-04-03 · [GitHub](https://github.com/joshpocock/Stride-AI-Agents) · [官网](https://strideagents.com) · 个人维护
+⭐ 365 · Python · MIT · 推送 2026-04-03 · [GitHub](https://github.com/joshpocock/Stride-AI-Agents) · [官网](https://strideagents.com) · 个人维护
 
 **面向 n8n 等场景的开源 AI agent 代码集合（开发中）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joshpocock/Stride-AI-Agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 362 --> 365
-    line [364, 363, 364, 364]
+    title "joshpocock/Stride-AI-Agents 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 362 --> 366
+    line [364, 363, 364, 363, 364, 365, 365]
 ```
 
-2026-10-18 364 → 2026-11-02 364（+0）
+2026-10-18 364 → 2026-11-17 365（+1）
 
 
 ---

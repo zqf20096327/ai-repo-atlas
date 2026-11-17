@@ -1,6 +1,6 @@
 # yan5xu/oh-my-ai-company
 
-⭐ 85 · TypeScript · 推送 2026-08-04 · [GitHub](https://github.com/yan5xu/oh-my-ai-company) · 个人维护 · 中文 README
+⭐ 86 · TypeScript · 推送 2026-08-04 · [GitHub](https://github.com/yan5xu/oh-my-ai-company) · 个人维护 · 中文 README
 
 **AI 公司研究图谱库：结构化沉淀公司、投资人与增长信号**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yan5xu/oh-my-ai-company 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "yan5xu/oh-my-ai-company 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

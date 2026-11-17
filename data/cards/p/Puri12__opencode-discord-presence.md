@@ -1,6 +1,6 @@
 # Puri12/opencode-discord-presence
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Puri12/opencode-discord-presence) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Puri12/opencode-discord-presence) · 个人维护
 
 **在 Discord 展示 OpenCode AI 编程会话状态的插件**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 OpenCode 插件，通过 Discord Rich Presence 展示当前
 
 ```mermaid
 xychart-beta
-    title "Puri12/opencode-discord-presence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "Puri12/opencode-discord-presence 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

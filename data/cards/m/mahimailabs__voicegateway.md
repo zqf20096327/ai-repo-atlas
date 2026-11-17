@@ -1,6 +1,6 @@
 # mahimailabs/voicegateway
 
-⭐ 54 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/mahimailabs/voicegateway) · [官网](https://voicegateway.dev) · 组织维护
+⭐ 59 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/mahimailabs/voicegateway) · [官网](https://voicegateway.dev) · 组织维护
 
 **LiveKit 语音 Agent 的开源观测与分析面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahimailabs/voicegateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "mahimailabs/voicegateway 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 56, 58, 59, 59]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 59（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # HumeAI/hume-python-sdk
 
-⭐ 181 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/HumeAI/hume-python-sdk) · [官网](https://dev.hume.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Hume AI API 的 Python 客户端 SDK：接入语音情感与 TTS**
 
@@ -11,7 +11,7 @@ Hume AI 官方 Python SDK，封装 Empathic Voice Interface（EVI）与 Text-to-
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Hume AI 官方 Python SDK，封装 Empathic Voice Interface（EVI）与 Text-to-
 
 ```mermaid
 xychart-beta
-    title "HumeAI/hume-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 180 --> 182
-    line [181, 181]
+    title "HumeAI/hume-python-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 180 --> 183
+    line [181, 182, 182]
 ```
 
-2026-10-18 181 → 2026-11-02 181（+0）
+2026-10-18 181 → 2026-11-11 182（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/lightflow
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/lightflow) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/google/lightflow) · 组织维护
 
 **面向 AI agent 的本地优先 Python DAG 工作流编排与执行引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/lightflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "google/lightflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 20
+    line [14, 17, 18, 19, 19]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 19（+5）
 
 
 ---

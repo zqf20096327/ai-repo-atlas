@@ -1,6 +1,6 @@
 # Donitzo/ai-pixelart-extractor
 
-⭐ 30 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/Donitzo/ai-pixelart-extractor) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/Donitzo/ai-pixelart-extractor) · 个人维护
 
 **从 AI 生成图像中提取像素画的 Python 工具**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Donitzo/ai-pixelart-extractor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "Donitzo/ai-pixelart-extractor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 28, 30, 31, 32, 32]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 32（+4）
 
 
 ---

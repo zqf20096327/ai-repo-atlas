@@ -1,6 +1,6 @@
 # ikarus1211/VISAPP_ToothCraft
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/ikarus1211/VISAPP_ToothCraft) · 组织维护
+⭐ 19 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/ikarus1211/VISAPP_ToothCraft) · 组织维护
 
 **基于扩散模型的 3D 牙冠补全方法（科研代码）**
 
@@ -45,13 +45,13 @@ ToothCraft 是基于符号距离函数（SDF）扩散模型的学习型 3D 牙�
 
 ```mermaid
 xychart-beta
-    title "ikarus1211/VISAPP_ToothCraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "ikarus1211/VISAPP_ToothCraft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

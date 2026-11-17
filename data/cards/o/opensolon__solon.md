@@ -1,6 +1,6 @@
 # opensolon/solon
 
-⭐ 2,796 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/opensolon/solon) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
+⭐ 2,805 · Java · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/opensolon/solon) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
 
 **Java 企业应用开发框架，含 AI 与 MCP 相关子生态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opensolon/solon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 2794 --> 2797
-    line [2796, 2795, 2796, 2796]
+    title "opensolon/solon 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 2794 --> 2806
+    line [2796, 2795, 2796, 2795, 2802, 2803, 2804, 2805, 2805]
 ```
 
-2026-10-18 2,796 → 2026-11-02 2,796（+0）
+2026-10-18 2,796 → 2026-11-17 2,805（+9）
 
 
 ---

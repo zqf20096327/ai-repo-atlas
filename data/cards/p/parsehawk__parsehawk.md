@@ -1,6 +1,6 @@
 # parsehawk/parsehawk
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/parsehawk/parsehawk) · [官网](https://docs.parsehawk.com/) · 组织维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/parsehawk/parsehawk) · [官网](https://docs.parsehawk.com/) · 组织维护
 
 **本地优先的文档 AI：将 PDF/图像转为 Markdown 或校验后的 JSON**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "parsehawk/parsehawk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 70 --> 74
-    line [71, 72, 73, 73]
+    title "parsehawk/parsehawk 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 70 --> 75
+    line [71, 72, 73, 72, 73, 74, 74]
 ```
 
-2026-10-18 71 → 2026-11-02 73（+2）
+2026-10-18 71 → 2026-11-17 74（+3）
 
 
 ---

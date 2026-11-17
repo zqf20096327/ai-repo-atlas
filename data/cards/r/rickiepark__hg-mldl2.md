@@ -1,6 +1,6 @@
 # rickiepark/hg-mldl2
 
-⭐ 56 · Jupyter Notebook · MIT · 推送 2026-02-27 · [GitHub](https://github.com/rickiepark/hg-mldl2) · [官网](https://tensorflow.blog/hg-mldl2) · 个人维护
+⭐ 57 · Jupyter Notebook · MIT · 推送 2026-02-27 · [GitHub](https://github.com/rickiepark/hg-mldl2) · [官网](https://tensorflow.blog/hg-mldl2) · 个人维护
 
 **韩文机器学习/深度学习入门书的配套示例代码库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "rickiepark/hg-mldl2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "rickiepark/hg-mldl2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

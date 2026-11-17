@@ -1,6 +1,6 @@
 # alecs5am/ralphy
 
-⭐ 143 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/alecs5am/ralphy) · [官网](https://alecs5am.com/ralphy) · 个人维护
+⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/alecs5am/ralphy) · [官网](https://alecs5am.com/ralphy) · 个人维护
 
 **开源内容创作桌面应用与 agent 运行时，生成短视频等内容**
 
@@ -45,13 +45,13 @@ Apache 2.0 许可的桌面应用（apps/desktop）加独立 CLI 运行时（cli�
 
 ```mermaid
 xychart-beta
-    title "alecs5am/ralphy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 139 --> 144
-    line [140, 141, 142, 143]
+    title "alecs5am/ralphy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 145
+    line [140, 141, 142, 143, 141, 144, 144]
 ```
 
-2026-10-18 140 → 2026-11-02 143（+3）
+2026-10-18 140 → 2026-11-17 144（+4）
 
 
 ---

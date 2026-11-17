@@ -1,6 +1,6 @@
 # xyun92/trilane
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/xyun92/trilane) · [官网](https://github.com/xyun92/trilane) · 组织维护 · 中文 README
+⭐ 33 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/xyun92/trilane) · [官网](https://github.com/xyun92/trilane) · 组织维护 · 中文 README
 
 **面向授权灰盒测试的自主 AI 渗透测试与多 agent 安全审计工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xyun92/trilane 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "xyun92/trilane 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 30, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-02 32（+2）
+2026-10-18 30 → 2026-11-17 33（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Bifrostapi/ai-api-examples
 
-⭐ 26 · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/Bifrostapi/ai-api-examples) · [官网](https://www.bifrostapi.net/login?ref=ZZWFCM) · 组织维护
+⭐ 25 · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/Bifrostapi/ai-api-examples) · [官网](https://www.bifrostapi.net/login?ref=ZZWFCM) · 组织维护
 
 **统一接入多家 LLM 的 OpenAI 兼容 API 网关**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bifrostapi/ai-api-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [27, 26, 26]
+    title "Bifrostapi/ai-api-examples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [27, 26, 25, 25]
 ```
 
-2026-10-18 27 → 2026-11-02 26（-1）
+2026-10-18 27 → 2026-11-17 25（-2）
 
 
 ---

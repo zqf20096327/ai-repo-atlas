@@ -1,6 +1,6 @@
 # Emekaborisama/textgen
 
-⭐ 64 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/Emekaborisama/textgen) · 个人维护
+⭐ 63 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/Emekaborisama/textgen) · 个人维护
 
 **Python 文本生成库：用 LSTM 训练自定义文本生成模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emekaborisama/textgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "Emekaborisama/textgen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 62 --> 65
+    line [64, 63, 63]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 63（-1）
 
 
 ---

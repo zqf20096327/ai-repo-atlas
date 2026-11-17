@@ -1,6 +1,6 @@
 # Jsoned/autowealth-ai
 
-⭐ 26 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Jsoned/autowealth-ai) · [官网](https://github.com/Jsoned/autowealth-ai) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Jsoned/autowealth-ai) · [官网](https://github.com/Jsoned/autowealth-ai) · 个人维护 · 中文 README
 
 **多智能体个人投资分析引擎：技术/基本面/情绪综合决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jsoned/autowealth-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "Jsoned/autowealth-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

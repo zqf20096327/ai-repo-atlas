@@ -1,6 +1,6 @@
 # Muvon/octocode
 
-⭐ 518 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Muvon/octocode) · [官网](https://octomind.run/product/octocode) · 个人维护
+⭐ 524 · Rust · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Muvon/octocode) · [官网](https://octomind.run/product/octocode) · 个人维护
 
 **给 AI agent 的代码库结构化检索工具：MCP 服务器+知识图谱+语义搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Muvon/octocode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 511 --> 519
-    line [512, 513, 515, 518, 518]
+    title "Muvon/octocode 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 511 --> 525
+    line [512, 513, 515, 518, 513, 522, 523, 524, 524]
 ```
 
-2026-10-18 512 → 2026-11-02 518（+6）
+2026-10-18 512 → 2026-11-17 524（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # staypossesed/PromptOS
 
-⭐ 17 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/staypossesed/PromptOS) · [官网](https://www.umprompt.com/) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/staypossesed/PromptOS) · [官网](https://www.umprompt.com/) · 个人维护
 
 **面向普通用户的 AI 提示词构建工作台，把粗略想法转为可用提示词**
 
@@ -44,13 +44,13 @@ Umprompt 是一个 Next.js 15 构建的 Web 工作台，帮助不熟悉提示词
 
 ```mermaid
 xychart-beta
-    title "staypossesed/PromptOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "staypossesed/PromptOS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

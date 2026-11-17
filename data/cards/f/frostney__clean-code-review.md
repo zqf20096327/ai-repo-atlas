@@ -1,6 +1,6 @@
 # frostney/clean-code-review
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/frostney/clean-code-review) · [官网](https://clean-code-review.vercel.app) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/frostney/clean-code-review) · [官网](https://clean-code-review.vercel.app) · 个人维护
 
 **按 Clean Code 标准评审 PR 代码文件的 AI 代码评审应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "frostney/clean-code-review 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "frostney/clean-code-review 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

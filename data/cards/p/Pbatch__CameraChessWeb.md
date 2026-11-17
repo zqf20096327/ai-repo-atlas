@@ -1,6 +1,6 @@
 # Pbatch/CameraChessWeb
 
-⭐ 269 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Pbatch/CameraChessWeb) · [官网](https://www.chesscam.net) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用手机摄像头直播记录国际象棋对局并上传 PGN 到 Lichess**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pbatch/CameraChessWeb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 267 --> 270
-    line [268, 269, 269]
+    title "Pbatch/CameraChessWeb 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11"]
+    y-axis "stars" 267 --> 271
+    line [268, 269, 268, 269, 270, 270]
 ```
 
-2026-10-18 268 → 2026-11-02 269（+1）
+2026-10-18 268 → 2026-11-11 270（+2）
 
 
 ---

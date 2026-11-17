@@ -1,6 +1,6 @@
 # general-molecular-simulations/so3lr
 
-⭐ 237 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/general-molecular-simulations/so3lr) · [官网](https://doi.org/10.1021/jacs.5c09558) · 组织维护
+⭐ 297 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/general-molecular-simulations/so3lr) · [官网](https://arxiv.org/abs/2611.06237) · 组织维护
 
 **预训练机器学习力场：用于生物分子模拟的能量与力预测**
 
@@ -45,13 +45,13 @@ SO3LR 是面向(生物)分子模拟的预训练机器学习力场，结合 SO3kr
 
 ```mermaid
 xychart-beta
-    title "general-molecular-simulations/so3lr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 236 --> 238
-    line [237, 237]
+    title "general-molecular-simulations/so3lr 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 231 --> 303
+    line [237, 286, 293, 294, 293, 294, 295, 297, 297]
 ```
 
-2026-10-18 237 → 2026-11-02 237（+0）
+2026-10-18 237 → 2026-11-17 297（+60）
 
 
 ---

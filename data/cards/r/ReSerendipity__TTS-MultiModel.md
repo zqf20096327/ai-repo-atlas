@@ -1,6 +1,6 @@
 # ReSerendipity/TTS-MultiModel
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/ReSerendipity/TTS-MultiModel) · 组织维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ReSerendipity/TTS-MultiModel) · 组织维护 · 中文 README
 
 **自托管多引擎 TTS 平台：六本地引擎统一 Web 工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ReSerendipity/TTS-MultiModel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "ReSerendipity/TTS-MultiModel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # iml-wg/HEPML-LivingGuide
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/iml-wg/HEPML-LivingGuide) · [官网](https://iml-wg.github.io/HEPML-LivingGuide/) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/iml-wg/HEPML-LivingGuide) · [官网](https://iml-wg.github.io/HEPML-LivingGuide/) · 组织维护
 
 **粒子物理机器学习文献社区策展指南（活文档）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "iml-wg/HEPML-LivingGuide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "iml-wg/HEPML-LivingGuide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

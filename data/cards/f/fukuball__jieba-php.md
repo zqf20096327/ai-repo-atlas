@@ -1,6 +1,6 @@
 # fukuball/jieba-php
 
-⭐ 1,378 · PHP · MIT · 推送 2025-12-16 · [GitHub](https://github.com/fukuball/jieba-php) · 个人维护 · 中文 README
+⭐ 1,380 · PHP · MIT · 推送 2025-12-16 · [GitHub](https://github.com/fukuball/jieba-php) · 个人维护 · 中文 README
 
 **PHP 中文/CJK 分词组件，提供分词、关键词提取与词性标注**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fukuball/jieba-php 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 1377 --> 1380
-    line [1379, 1378, 1378]
+    title "fukuball/jieba-php 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1377 --> 1381
+    line [1379, 1378, 1379, 1380, 1380]
 ```
 
-2026-10-18 1,379 → 2026-11-02 1,378（-1）
+2026-10-18 1,379 → 2026-11-17 1,380（+1）
 
 
 ---

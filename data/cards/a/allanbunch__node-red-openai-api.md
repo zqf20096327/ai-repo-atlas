@@ -1,6 +1,6 @@
 # allanbunch/node-red-openai-api
 
-⭐ 54 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/allanbunch/node-red-openai-api) · [官网](https://www.npmjs.com/package/@inductiv/node-red-openai-api) · 个人维护
+⭐ 55 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/allanbunch/node-red-openai-api) · [官网](https://www.npmjs.com/package/@inductiv/node-red-openai-api) · 个人维护
 
 **Node-RED 节点包：在低代码流中调用 OpenAI 及兼容 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "allanbunch/node-red-openai-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "allanbunch/node-red-openai-api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

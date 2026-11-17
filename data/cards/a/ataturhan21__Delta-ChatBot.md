@@ -1,6 +1,6 @@
 # ataturhan21/Delta-ChatBot
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ataturhan21/Delta-ChatBot) · 个人维护
+⭐ 24 · Python · 推送 2026-11-14 · [GitHub](https://github.com/ataturhan21/Delta-ChatBot) · 个人维护
 
 **基于 Streamlit 的本地 PDF/文本文档问答聊天机器人**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ataturhan21/Delta-ChatBot 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
+    x-axis ["2026-11-01", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-01 24 → 2026-11-02 24（+0）
+2026-11-01 24 → 2026-11-17 24（+0）
 
 
 ---

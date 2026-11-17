@@ -1,6 +1,6 @@
 # ai-ng/swift
 
-⭐ 591 · TypeScript · MIT · 推送 2025-12-04 · [GitHub](https://github.com/ai-ng/swift) · [官网](https://swift-ai.vercel.app) · 个人维护
+⭐ 590 · TypeScript · MIT · 推送 2025-12-04 · [GitHub](https://github.com/ai-ng/swift) · [官网](https://swift-ai.vercel.app) · 个人维护
 
 **基于 Groq 与 Cartesia 的快速 AI 语音助手演示应用**
 
@@ -45,13 +45,13 @@ Next.js/TypeScript 编写的 AI 语音助手：Groq 上运行 OpenAI Whisper 做
 
 ```mermaid
 xychart-beta
-    title "ai-ng/swift 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "ai-ng/swift 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 589 --> 592
-    line [590, 591, 591]
+    line [590, 591, 590, 590]
 ```
 
-2026-10-18 590 → 2026-11-02 591（+1）
+2026-10-18 590 → 2026-11-17 590（+0）
 
 
 ---

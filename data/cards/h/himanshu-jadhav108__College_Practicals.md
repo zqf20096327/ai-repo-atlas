@@ -1,6 +1,6 @@
 # himanshu-jadhav108/College_Practicals
 
-⭐ 34 · Jupyter Notebook · 推送 2026-10-13 · [GitHub](https://github.com/himanshu-jadhav108/College_Practicals) · 个人维护
+⭐ 35 · Jupyter Notebook · 推送 2026-11-02 · [GitHub](https://github.com/himanshu-jadhav108/College_Practicals) · 个人维护
 
 **SPPU 2024 课程的全科实验实现合集（AI/ML/NLP/DS 等 10 门）**
 
@@ -44,13 +44,13 @@ Savitribai Phule Pune 大学 AI & Data Science 方向学生个人维护的课程
 
 ```mermaid
 xychart-beta
-    title "himanshu-jadhav108/College_Practicals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "himanshu-jadhav108/College_Practicals 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

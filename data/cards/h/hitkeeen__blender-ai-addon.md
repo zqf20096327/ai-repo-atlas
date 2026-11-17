@@ -1,6 +1,6 @@
 # hitkeeen/blender-ai-addon
 
-⭐ 49 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/hitkeeen/blender-ai-addon) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **通过聊天/图片让 AI 生成 bpy 代码直接改 3D 场景的 Blender 插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hitkeeen/blender-ai-addon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "hitkeeen/blender-ai-addon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11"]
     y-axis "stars" 33 --> 234
-    line [217, 218, 68, 49, 49]
+    line [217, 218, 68, 49, 68, 49, 49]
 ```
 
-2026-10-18 217 → 2026-11-02 49（-168）
+2026-10-18 217 → 2026-11-11 49（-168）
 
 
 ---

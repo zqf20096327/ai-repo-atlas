@@ -1,6 +1,6 @@
 # Likhithsai2580/JARVIS
 
-⭐ 149 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/Likhithsai2580/JARVIS) · 个人维护
+⭐ 151 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/Likhithsai2580/JARVIS) · 个人维护
 
 **多功能离线 AI 助手：语音、OCR、图像生成与任务自动化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Likhithsai2580/JARVIS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 145 --> 150
-    line [146, 147, 149, 149]
+    title "Likhithsai2580/JARVIS 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 145 --> 152
+    line [146, 147, 149, 147, 150, 151, 151]
 ```
 
-2026-10-18 146 → 2026-11-02 149（+3）
+2026-10-18 146 → 2026-11-17 151（+5）
 
 
 ---

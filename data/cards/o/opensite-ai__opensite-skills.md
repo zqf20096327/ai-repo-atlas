@@ -1,6 +1,6 @@
 # opensite-ai/opensite-skills
 
-⭐ 15 · Python · 推送 2026-10-19 · [GitHub](https://github.com/opensite-ai/opensite-skills) · [官网](https://opensite.ai) · 组织维护
+⭐ 15 · Python · 推送 2026-11-15 · [GitHub](https://github.com/opensite-ai/opensite-skills) · [官网](https://opensite.ai) · 组织维护
 
 **跨 AI 编码 agent 的技能库：单一仓库同步技能并附带持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "opensite-ai/opensite-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PaddlePaddle/Paddle-Inference-Demo
 
-⭐ 269 · C++ · Apache-2.0 · 推送 2025-11-20 · [GitHub](https://github.com/PaddlePaddle/Paddle-Inference-Demo) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **Paddle Inference 推理引擎的 C++/Python 部署示例集**
 
@@ -11,7 +11,7 @@ PaddlePaddle 官方维护的示例仓库，演示如何使用飞桨核心推理�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ PaddlePaddle 官方维护的示例仓库，演示如何使用飞桨核心推理�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/Paddle-Inference-Demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 268 --> 270
     line [269, 269]
 ```
 
-2026-10-18 269 → 2026-11-02 269（+0）
+2026-10-18 269 → 2026-11-15 269（+0）
 
 
 ---

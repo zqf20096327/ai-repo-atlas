@@ -1,6 +1,6 @@
 # w-partners/Wbrowser
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/w-partners/Wbrowser) · 组织维护 · 中文 README
+⭐ 31 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/w-partners/Wbrowser) · 组织维护 · 中文 README
 
 **让 AI 助手驱动你已登录 Chrome 的 CLI/MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "w-partners/Wbrowser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "w-partners/Wbrowser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

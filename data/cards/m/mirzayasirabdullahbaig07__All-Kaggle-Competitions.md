@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/All-Kaggle-Competitions
 
-⭐ 43 · 推送 2026-08-01 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-Kaggle-Competitions) · [官网](https://www.kaggle.com/myab07/competitions) · 个人维护
+⭐ 42 · 推送 2026-08-01 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-Kaggle-Competitions) · [官网](https://www.kaggle.com/myab07/competitions) · 个人维护
 
 **个人 Kaggle 竞赛作品集：汇总参赛记录与排名**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/All-Kaggle-Competitions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/All-Kaggle-Competitions 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    line [42, 43, 42, 43, 42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

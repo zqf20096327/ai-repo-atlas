@@ -1,6 +1,6 @@
 # CoinLobster/coinlobster-mcp
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CoinLobster/coinlobster-mcp) · [官网](https://coinlobster.com/connect) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CoinLobster/coinlobster-mcp) · [官网](https://coinlobster.com/connect) · 组织维护
 
 **加密市场数据 MCP 服务器：向 AI 提供鲸鱼交易与链上数据**
 
@@ -44,13 +44,13 @@ MCP 服务器，为 Claude、ChatGPT、Cursor 等 AI 客户端提供加密货币
 
 ```mermaid
 xychart-beta
-    title "CoinLobster/coinlobster-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "CoinLobster/coinlobster-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [14, 13, 12, 12]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 12（-2）
 
 
 ---

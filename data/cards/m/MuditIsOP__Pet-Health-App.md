@@ -1,6 +1,6 @@
 # MuditIsOP/Pet-Health-App
 
-⭐ 29 · Kotlin · 推送 2026-05-21 · [GitHub](https://github.com/MuditIsOP/Pet-Health-App) · 个人维护
+⭐ 39 · Kotlin · 推送 2026-05-21 · [GitHub](https://github.com/MuditIsOP/Pet-Health-App) · 个人维护
 
 **宠物主人用的 Android 健康监测 App：蓝牙遥测+AI 解读**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuditIsOP/Pet-Health-App 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "MuditIsOP/Pet-Health-App 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 27 --> 40
+    line [28, 29, 28, 35, 36, 37, 38, 39, 39]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 39（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # aiverify-foundation/moonshot
 
-⭐ 359 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/aiverify-foundation/moonshot) · [官网](https://aiverify-foundation.github.io/moonshot/) · 组织维护
+⭐ 363 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/aiverify-foundation/moonshot) · [官网](https://aiverify-foundation.github.io/moonshot/) · 组织维护
 
 **面向 LLM 应用与模型的基准评测与红队测试工具**
 
@@ -45,13 +45,13 @@ AI Verify Foundation 开发的评测工具，将基准测试与红队攻击整�
 
 ```mermaid
 xychart-beta
-    title "aiverify-foundation/moonshot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 357 --> 360
-    line [358, 359, 359]
+    title "aiverify-foundation/moonshot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 357 --> 364
+    line [358, 359, 361, 363, 363]
 ```
 
-2026-10-18 358 → 2026-11-02 359（+1）
+2026-10-18 358 → 2026-11-17 363（+5）
 
 
 ---

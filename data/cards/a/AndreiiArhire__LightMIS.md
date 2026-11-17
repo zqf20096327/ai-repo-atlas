@@ -1,6 +1,6 @@
 # AndreiiArhire/LightMIS
 
-⭐ 32 · Python · 推送 2026-09-30 · [GitHub](https://github.com/AndreiiArhire/LightMIS) · [官网](https://arxiv.org/pdf/2609.28327) · 组织维护
+⭐ 33 · Python · 推送 2026-09-30 · [GitHub](https://github.com/AndreiiArhire/LightMIS) · [官网](https://arxiv.org/pdf/2609.28327) · 组织维护
 
 **面向边缘设备的超轻量 2D 医学图像分割模型**
 
@@ -45,13 +45,13 @@ LightMIS 是一个用于 2D 二值医学图像分割的超轻量神经网络结�
 
 ```mermaid
 xychart-beta
-    title "AndreiiArhire/LightMIS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 33
-    line [25, 29, 32, 32]
+    title "AndreiiArhire/LightMIS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 34
+    line [25, 29, 32, 25, 33, 33]
 ```
 
-2026-10-18 25 → 2026-11-02 32（+7）
+2026-10-18 25 → 2026-11-17 33（+8）
 
 
 ---

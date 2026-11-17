@@ -1,6 +1,6 @@
 # JustVugg/anybridge
 
-⭐ 25 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/JustVugg/anybridge) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/JustVugg/anybridge) · 个人维护
 
 **把任意网站变成 MCP 工具供 AI agent 调用的桥接器**
 
@@ -45,13 +45,13 @@ Python 实现的 MCP 桥接工具：在真实浏览器中打开网站，捕获�
 
 ```mermaid
 xychart-beta
-    title "JustVugg/anybridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 25, 25]
+    title "JustVugg/anybridge 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 29
+    line [21, 22, 25, 22, 25, 26, 27, 28, 28]
 ```
 
-2026-10-18 21 → 2026-11-02 25（+4）
+2026-10-18 21 → 2026-11-17 28（+7）
 
 
 ---

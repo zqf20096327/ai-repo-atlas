@@ -1,6 +1,6 @@
 # polyfact/polyfire-js
 
-⭐ 141 · JavaScript · 推送 2026-07-31 · [GitHub](https://github.com/polyfact/polyfire-js) · [官网](https://www.npmjs.com/package/polyfire-js) · 组织维护
+⭐ 142 · JavaScript · 推送 2026-07-31 · [GitHub](https://github.com/polyfact/polyfire-js) · [官网](https://www.npmjs.com/package/polyfire-js) · 组织维护
 
 **面向 AI 应用的托管后端 JS/React SDK**
 
@@ -44,13 +44,13 @@ Polyfire 的 JavaScript/TypeScript SDK，连接 Polyfire 托管 AI 后端，使�
 
 ```mermaid
 xychart-beta
-    title "polyfact/polyfire-js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 139 --> 142
-    line [140, 141, 141]
+    title "polyfact/polyfire-js 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 139 --> 143
+    line [140, 141, 142, 142]
 ```
 
-2026-10-18 140 → 2026-11-02 141（+1）
+2026-10-18 140 → 2026-11-17 142（+2）
 
 
 ---

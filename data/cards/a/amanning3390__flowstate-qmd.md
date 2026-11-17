@@ -1,6 +1,6 @@
 # amanning3390/flowstate-qmd
 
-⭐ 51 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/amanning3390/flowstate-qmd) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/amanning3390/flowstate-qmd) · 个人维护
 
 **面向编码 agent 的本地先行项目记忆层（MCP）**
 
@@ -45,13 +45,13 @@ Hermes 2026 黑客松作品，基于 QMD：把本地 markdown 知识（文档/AD
 
 ```mermaid
 xychart-beta
-    title "amanning3390/flowstate-qmd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "amanning3390/flowstate-qmd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 50 --> 53
-    line [51, 52, 51, 51]
+    line [51, 52, 51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

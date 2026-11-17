@@ -1,6 +1,6 @@
 # Belluxx/Perplex
 
-⭐ 18 · Rust · 推送 2026-08-03 · [GitHub](https://github.com/Belluxx/Perplex) · 个人维护
+⭐ 19 · Rust · 推送 2026-08-03 · [GitHub](https://github.com/Belluxx/Perplex) · 个人维护
 
 **离线查看 LLM 对文本的 logprobs 与困惑度的桌面工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Belluxx/Perplex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Belluxx/Perplex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

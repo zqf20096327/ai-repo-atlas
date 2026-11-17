@@ -1,6 +1,6 @@
 # daimonionnn/amd-vega-rocm-vulkan-llm-toolkit
 
-⭐ 20 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/daimonionnn/amd-vega-rocm-vulkan-llm-toolkit) · 个人维护
+⭐ 19 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/daimonionnn/amd-vega-rocm-vulkan-llm-toolkit) · 个人维护
 
 **在 AMD Vega 核显上运行本地 LLM 的脚本与基准工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "daimonionnn/amd-vega-rocm-vulkan-llm-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "daimonionnn/amd-vega-rocm-vulkan-llm-toolkit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    line [17, 18, 19, 20, 17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 20（+3）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

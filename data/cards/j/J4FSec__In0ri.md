@@ -1,6 +1,6 @@
 # J4FSec/In0ri
 
-⭐ 64 · CSS · AGPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/J4FSec/In0ri) · 组织维护
+⭐ 65 · CSS · AGPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/J4FSec/In0ri) · 组织维护
 
 **用深度学习检测网页篡改并告警的自动化监控系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "J4FSec/In0ri 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "J4FSec/In0ri 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

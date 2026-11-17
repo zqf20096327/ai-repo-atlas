@@ -1,6 +1,6 @@
 # HumeAI/hume-react-sdk
 
-⭐ 48 · TypeScript · 推送 2026-08-18 · [GitHub](https://github.com/HumeAI/hume-react-sdk) · [官网](https://hume.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 React 应用中接入 Hume AI 语音接口的 SDK 合集**
 
@@ -45,12 +45,12 @@ Hume AI 官方维护的 monorepo，提供三个 npm 包：@humeai/voice-react、
 ```mermaid
 xychart-beta
     title "HumeAI/hume-react-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-11 48（+0）
 
 
 ---

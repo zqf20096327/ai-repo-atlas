@@ -1,6 +1,6 @@
 # Tahsine/kaggle-llm-server
 
-⭐ 15 · Jupyter Notebook · 推送 2026-05-24 · [GitHub](https://github.com/Tahsine/kaggle-llm-server) · 个人维护
+⭐ 34 · Jupyter Notebook · 推送 2026-05-24 · [GitHub](https://github.com/Tahsine/kaggle-llm-server) · 个人维护
 
 **在免费 Kaggle GPU 上运行 Qwen3.6-35B 多模态 LLM 服务器的笔记本方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tahsine/kaggle-llm-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 15]
+    title "Tahsine/kaggle-llm-server 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 36
+    line [11, 12, 13, 15, 11, 16, 20, 28, 30, 34, 34]
 ```
 
-2026-10-18 11 → 2026-11-02 15（+4）
+2026-10-18 11 → 2026-11-17 34（+23）
 
 
 ---

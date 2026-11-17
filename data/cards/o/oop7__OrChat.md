@@ -1,6 +1,6 @@
 # oop7/OrChat
 
-⭐ 80 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/oop7/OrChat) · 个人维护
+⭐ 79 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/oop7/OrChat) · 个人维护
 
 **通过 OpenRouter 调用 AI 模型的终端聊天 CLI**
 
@@ -45,13 +45,13 @@ Python 编写的命令行聊天界面，经 OpenRouter API 接入其上的各类
 
 ```mermaid
 xychart-beta
-    title "oop7/OrChat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "oop7/OrChat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
     y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    line [79, 80, 79, 79]
 ```
 
-2026-10-18 79 → 2026-11-02 80（+1）
+2026-10-18 79 → 2026-11-17 79（+0）
 
 
 ---

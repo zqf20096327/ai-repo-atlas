@@ -1,6 +1,6 @@
 # jean-zay-users/jean-zay-doc
 
-⭐ 132 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/jean-zay-users/jean-zay-doc) · [官网](https://jean-zay-doc.readthedocs.io/en/latest/) · 组织维护
+⭐ 133 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/jean-zay-users/jean-zay-doc) · [官网](https://jean-zay-doc.readthedocs.io/en/latest/) · 组织维护
 
 **Jean Zay 超算集群的用户协作文档（面向 AI 研究者）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jean-zay-users/jean-zay-doc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 131 --> 133
-    line [132, 132]
+    title "jean-zay-users/jean-zay-doc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 131 --> 134
+    line [132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 133（+1）
 
 
 ---

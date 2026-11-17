@@ -1,6 +1,6 @@
 # Guepard-Corp/qwery-core
 
-⭐ 135 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Guepard-Corp/qwery-core) · [官网](https://agent.qwery.run) · 组织维护
+⭐ 136 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/Guepard-Corp/qwery-core) · [官网](https://agent.qwery.run) · 组织维护
 
 **终端里的 AI 数据分析师：自然语言查询多种数据源**
 
@@ -45,13 +45,13 @@ Qwery 是一个运行在终端的 AI 数据代理，用户用自然语言提问�
 
 ```mermaid
 xychart-beta
-    title "Guepard-Corp/qwery-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 133 --> 136
-    line [135, 134, 135, 135]
+    title "Guepard-Corp/qwery-core 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 133 --> 137
+    line [135, 134, 135, 134, 135, 136, 136]
 ```
 
-2026-10-18 135 → 2026-11-02 135（+0）
+2026-10-18 135 → 2026-11-17 136（+1）
 
 
 ---

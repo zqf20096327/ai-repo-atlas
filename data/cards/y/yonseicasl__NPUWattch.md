@@ -1,6 +1,6 @@
 # yonseicasl/NPUWattch
 
-⭐ 14 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yonseicasl/NPUWattch) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yonseicasl/NPUWattch) · 组织维护
 
 **面向神经加速器的功耗/面积/时序 ML 建模工具**
 
@@ -44,13 +44,13 @@ NPUWattch 读入加速器架构描述（可选叠加模拟器记录的活动数�
 
 ```mermaid
 xychart-beta
-    title "yonseicasl/NPUWattch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 14]
+    title "yonseicasl/NPUWattch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 14, 12, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

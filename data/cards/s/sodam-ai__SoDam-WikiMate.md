@@ -1,6 +1,6 @@
 # sodam-ai/SoDam-WikiMate
 
-⭐ 49 · JavaScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/sodam-ai/SoDam-WikiMate) · 组织维护 · 中文 README
+⭐ 48 · JavaScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/sodam-ai/SoDam-WikiMate) · 组织维护 · 中文 README
 
 **把散落资料整理成 Obsidian 笔记的 Claude Code 插件+MCP 核心**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sodam-ai/SoDam-WikiMate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [50, 49, 49]
+    title "sodam-ai/SoDam-WikiMate 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [50, 49, 48, 48]
 ```
 
-2026-10-18 50 → 2026-11-02 49（-1）
+2026-10-18 50 → 2026-11-17 48（-2）
 
 
 ---

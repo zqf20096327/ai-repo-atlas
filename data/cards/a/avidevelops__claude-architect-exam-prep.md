@@ -1,6 +1,6 @@
 # avidevelops/claude-architect-exam-prep
 
-⭐ 593 · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/avidevelops/claude-architect-exam-prep) · 个人维护
+⭐ 600 · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/avidevelops/claude-architect-exam-prep) · 个人维护
 
 **Claude 认证架构师基础考试的备考问答指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "avidevelops/claude-architect-exam-prep 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 585 --> 594
-    line [586, 587, 588, 589, 590, 592, 593, 593]
+    title "avidevelops/claude-architect-exam-prep 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 585 --> 601
+    line [586, 587, 588, 589, 590, 592, 593, 590, 595, 597, 598, 599, 600, 600]
 ```
 
-2026-10-18 586 → 2026-11-02 593（+7）
+2026-10-18 586 → 2026-11-17 600（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # devwhodevs/engraph
 
-⭐ 173 · Rust · MIT · 推送 2026-05-27 · [GitHub](https://github.com/devwhodevs/engraph) · 个人维护
+⭐ 175 · Rust · MIT · 推送 2026-05-27 · [GitHub](https://github.com/devwhodevs/engraph) · 个人维护
 
 **把 Obsidian 库变成本地知识 API 供 AI agent 查询的 MCP 服务器**
 
@@ -46,13 +46,13 @@ Rust 编写的本地优先工具：将 Markdown 库索引为知识图（语义�
 
 ```mermaid
 xychart-beta
-    title "devwhodevs/engraph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 169 --> 174
-    line [170, 171, 172, 173, 173]
+    title "devwhodevs/engraph 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 169 --> 176
+    line [170, 171, 172, 173, 172, 175, 175]
 ```
 
-2026-10-18 170 → 2026-11-02 173（+3）
+2026-10-18 170 → 2026-11-17 175（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # typex-ink/Typex
 
-⭐ 41 · Rust · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/typex-ink/Typex) · [官网](typex.ink) · 个人维护 · 中文 README
+⭐ 40 · Rust · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/typex-ink/Typex) · [官网](typex.ink) · 个人维护 · 中文 README
 
 **开源桌面 AI 语音输入工具：说话即转文字到任意应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "typex-ink/Typex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "typex-ink/Typex 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 38 --> 42
-    line [39, 40, 41]
+    line [39, 40, 41, 39, 41, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 41（+2）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

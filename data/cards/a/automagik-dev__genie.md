@@ -1,6 +1,6 @@
 # automagik-dev/genie
 
-⭐ 345 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/automagik-dev/genie) · [官网](https://docs.automagik.dev/genie) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给开发者的编码 agent 工作流 CLI：一个任务进，一个 PR 出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "automagik-dev/genie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 344 --> 346
-    line [345, 345]
+    x-axis ["2026-10-18", "2026-11-08"]
+    y-axis "stars" 344 --> 352
+    line [345, 351]
 ```
 
-2026-10-18 345 → 2026-11-02 345（+0）
+2026-10-18 345 → 2026-11-08 351（+6）
 
 
 ---

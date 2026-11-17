@@ -1,6 +1,6 @@
 # microsoft/agentic-sdlc-starter
 
-⭐ 20 · Shell · 推送 2026-04-08 · [GitHub](https://github.com/microsoft/agentic-sdlc-starter) · 组织维护
+⭐ 23 · Shell · 推送 2026-04-08 · [GitHub](https://github.com/microsoft/agentic-sdlc-starter) · 组织维护
 
 **规范驱动的 AI 辅助软件开发参考架构（5 步流水线）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentic-sdlc-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "microsoft/agentic-sdlc-starter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

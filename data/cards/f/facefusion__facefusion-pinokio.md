@@ -1,6 +1,6 @@
 # facefusion/facefusion-pinokio
 
-⭐ 408 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-pinokio) · [官网](https://facefusion.io) · 组织维护
+⭐ 409 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-pinokio) · [官网](https://facefusion.io) · 组织维护
 
 **FaceFusion 的 Pinokio 一键安装发行仓库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "facefusion/facefusion-pinokio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 406 --> 409
-    line [407, 408, 408]
+    title "facefusion/facefusion-pinokio 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 406 --> 410
+    line [407, 408, 407, 408, 409, 409]
 ```
 
-2026-10-18 407 → 2026-11-02 408（+1）
+2026-10-18 407 → 2026-11-17 409（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # genmilab/MedMO
 
-⭐ 43 · Python · 推送 2026-04-08 · [GitHub](https://github.com/genmilab/MedMO) · [官网](https://genmilab.github.io/MedMO-Page) · 组织维护
+⭐ 44 · Python · 推送 2026-04-08 · [GitHub](https://github.com/genmilab/MedMO) · [官网](https://genmilab.github.io/MedMO-Page) · 组织维护
 
 **面向医学图像理解与定位的开源多模态基础模型**
 
@@ -45,13 +45,13 @@ MedMO 是基于 Qwen3-VL-8B-Instruct 训练的医学多模态大模型家族，�
 
 ```mermaid
 xychart-beta
-    title "genmilab/MedMO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "genmilab/MedMO 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Carstin520/token-remain
 
-⭐ 71 · Swift · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Carstin520/token-remain) · [官网](https://tokenremain.com) · 个人维护 · 中文 README
+⭐ 71 · Swift · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Carstin520/token-remain) · [官网](https://tokenremain.com) · 个人维护 · 中文 README
 
 **macOS 菜单栏应用：追踪 21+ 家 AI 编码工具的剩余额度与 Token 成本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Carstin520/token-remain 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 70 --> 74
-    line [72, 73, 72, 73, 72, 71, 71]
+    title "Carstin520/token-remain 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 69 --> 74
+    line [72, 73, 72, 73, 72, 71, 73, 70, 71, 71]
 ```
 
-2026-10-18 72 → 2026-11-02 71（-1）
+2026-10-18 72 → 2026-11-17 71（-1）
 
 
 ---

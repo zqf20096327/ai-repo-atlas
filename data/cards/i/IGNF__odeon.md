@@ -1,6 +1,6 @@
 # IGNF/odeon
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/IGNF/odeon) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/IGNF/odeon) · 组织维护
 
 **面向 GIS 遥感深度学习的任务无关框架（语义分割转型中）**
 
@@ -44,12 +44,12 @@ ODEON（Object Delineation on Earth Observations with Neural network）是法国
 ```mermaid
 xychart-beta
     title "IGNF/odeon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

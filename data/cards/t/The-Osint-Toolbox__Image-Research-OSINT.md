@@ -1,6 +1,6 @@
 # The-Osint-Toolbox/Image-Research-OSINT
 
-⭐ 567 · 推送 2026-07-12 · [GitHub](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) · 个人维护
+⭐ 580 · 推送 2026-11-15 · [GitHub](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) · 个人维护
 
 **图像调查 OSINT 工具链接清单：反向搜图/人脸识别/EXIF 取证**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Osint-Toolbox/Image-Research-OSINT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 556 --> 568
-    line [557, 560, 561, 562, 564, 565, 567]
+    title "The-Osint-Toolbox/Image-Research-OSINT 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 555 --> 582
+    line [557, 560, 561, 562, 564, 565, 567, 561, 573, 576, 577, 579, 580, 580]
 ```
 
-2026-10-18 557 → 2026-11-02 567（+10）
+2026-10-18 557 → 2026-11-17 580（+23）
 
 
 ---

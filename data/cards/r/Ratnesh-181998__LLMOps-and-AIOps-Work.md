@@ -1,6 +1,6 @@
 # Ratnesh-181998/LLMOps-and-AIOps-Work
 
-⭐ 26 · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work) · [官网](https://github.com/DataExpert-io/ai-engineer-handbook) · 个人维护
+⭐ 27 · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work) · [官网](https://github.com/DataExpert-io/ai-engineer-handbook) · 个人维护
 
 **个人 AI 工程师作品集：10 个 GenAI/LLMOps 项目索引**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ratnesh-181998/LLMOps-and-AIOps-Work 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    title "Ratnesh-181998/LLMOps-and-AIOps-Work 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 24, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

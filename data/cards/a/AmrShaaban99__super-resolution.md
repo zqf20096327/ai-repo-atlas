@@ -1,6 +1,6 @@
 # AmrShaaban99/super-resolution
 
-⭐ 36 · Jupyter Notebook · 推送 2026-04-06 · [GitHub](https://github.com/AmrShaaban99/super-resolution) · 组织维护
+⭐ 37 · Jupyter Notebook · 推送 2026-04-06 · [GitHub](https://github.com/AmrShaaban99/super-resolution) · 组织维护
 
 **七个深度学习超分辨率模型的实现与 Tkinter GUI**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmrShaaban99/super-resolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "AmrShaaban99/super-resolution 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

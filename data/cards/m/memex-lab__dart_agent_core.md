@@ -1,6 +1,6 @@
 # memex-lab/dart_agent_core
 
-⭐ 46 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/memex-lab/dart_agent_core) · [官网](https://memexlab.ai) · 组织维护 · 中文 README
+⭐ 47 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/memex-lab/dart_agent_core) · [官网](https://memexlab.ai) · 组织维护 · 中文 README
 
 **Dart/Flutter 的有状态 AI Agent 开发与评测库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "memex-lab/dart_agent_core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "memex-lab/dart_agent_core 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 45 --> 48
-    line [47, 46, 46]
+    line [47, 46, 47, 47]
 ```
 
-2026-10-18 47 → 2026-11-02 46（-1）
+2026-10-18 47 → 2026-11-17 47（+0）
 
 
 ---

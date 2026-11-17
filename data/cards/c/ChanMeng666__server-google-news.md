@@ -1,6 +1,6 @@
 # ChanMeng666/server-google-news
 
-⭐ 129 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChanMeng666/server-google-news) · [官网](https://glama.ai/mcp/servers/dbx6imq4ef) · 个人维护
+⭐ 132 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/ChanMeng666/server-google-news) · [官网](https://glama.ai/mcp/servers/dbx6imq4ef) · 个人维护
 
 **让 Claude 等 AI 助手搜索 Google News 实时新闻的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChanMeng666/server-google-news 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    title "ChanMeng666/server-google-news 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 128 --> 133
+    line [129, 131, 132, 132]
 ```
 
-2026-10-18 129 → 2026-11-02 129（+0）
+2026-10-18 129 → 2026-11-17 132（+3）
 
 
 ---

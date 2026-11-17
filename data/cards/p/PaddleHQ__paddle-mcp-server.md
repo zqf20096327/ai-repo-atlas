@@ -1,6 +1,6 @@
 # PaddleHQ/paddle-mcp-server
 
-⭐ 49 · TypeScript · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/PaddleHQ/paddle-mcp-server) · [官网](https://developer.paddle.com/) · 组织维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PaddleHQ/paddle-mcp-server) · [官网](https://developer.paddle.com/) · 组织维护
 
 **Paddle 计费 API 的 MCP 服务器：让 AI 助手管理商品与订阅**
 
@@ -44,13 +44,13 @@ Paddle 官方提供的 Model Context Protocol（MCP）服务器，为 LLM 与 AI
 
 ```mermaid
 xychart-beta
-    title "PaddleHQ/paddle-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "PaddleHQ/paddle-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

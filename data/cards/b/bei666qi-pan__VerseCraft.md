@@ -1,6 +1,6 @@
 # bei666qi-pan/VerseCraft
 
-⭐ 33 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/bei666qi-pan/VerseCraft) · [官网](https://versecraft.cn) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **浏览器端 AI 互动小说引擎：玩家自由输入行动，世界规则结算后果**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bei666qi-pan/VerseCraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-07 33（+0）
 
 
 ---

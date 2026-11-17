@@ -1,6 +1,6 @@
 # Rose-STL-Lab/torchTS
 
-⭐ 85 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Rose-STL-Lab/torchTS) · [官网](https://rose-stl-lab.github.io/torchTS/) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Rose-STL-Lab/torchTS) · [官网](https://rose-stl-lab.github.io/torchTS/) · 组织维护
 
 **基于 PyTorch 的时间序列预测深度学习库，面向科研社区**
 
@@ -44,12 +44,12 @@ TorchTS 是基于 PyTorch 与 PyTorch Lightning 构建的时间序列建模库�
 ```mermaid
 xychart-beta
     title "Rose-STL-Lab/torchTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 85（+0）
 
 
 ---

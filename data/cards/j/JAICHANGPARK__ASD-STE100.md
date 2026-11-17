@@ -1,6 +1,6 @@
 # JAICHANGPARK/ASD-STE100
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JAICHANGPARK/ASD-STE100) · [官网](https://github.com/JAICHANGPARK/ASD-STE100#readme) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JAICHANGPARK/ASD-STE100) · [官网](https://github.com/JAICHANGPARK/ASD-STE100#readme) · 个人维护
 
 **给 Claude Code 用户的 ASD-STE100 受控英语插件、技能与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JAICHANGPARK/ASD-STE100 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 7 --> 20
-    line [8, 11, 13, 14, 15, 16, 18, 19, 19]
+    title "JAICHANGPARK/ASD-STE100 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 6 --> 34
+    line [8, 11, 13, 14, 15, 16, 18, 19, 15, 26, 30, 32, 32]
 ```
 
-2026-10-18 8 → 2026-11-02 19（+11）
+2026-10-18 8 → 2026-11-17 32（+24）
 
 
 ---

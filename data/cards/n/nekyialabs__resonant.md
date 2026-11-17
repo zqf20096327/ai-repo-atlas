@@ -1,6 +1,6 @@
 # nekyialabs/resonant
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/nekyialabs/resonant) · [官网](https://liveresonant.com) · 组织维护
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/nekyialabs/resonant) · [官网](https://liveresonant.com) · 组织维护
 
 **本地自托管的单用户 AI 伴侣应用，带记忆与身份持久化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nekyialabs/resonant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    title "nekyialabs/resonant 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 58 --> 65
+    line [59, 60, 61, 60, 62, 63, 64, 64]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 64（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-) · 个人维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-) · 个人维护
 
 **自注意力的树路由替代方案：O(NlogN) 稀疏注意力模块（beta）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing- 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 37 --> 43
-    line [38, 39, 40, 41, 42, 42]
+    title "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing- 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 44
+    line [38, 39, 40, 41, 42, 41, 43, 43]
 ```
 
-2026-10-18 38 → 2026-11-02 42（+4）
+2026-10-18 38 → 2026-11-17 43（+5）
 
 
 ---

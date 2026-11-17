@@ -1,6 +1,6 @@
 # teddykoker/blog
 
-⭐ 200 · Jupyter Notebook · MIT · 推送 2026-05-23 · [GitHub](https://github.com/teddykoker/blog) · [官网](https://teddykoker.com) · 个人维护
+⭐ 200 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/teddykoker/blog) · [官网](https://teddykoker.com) · 个人维护
 
 **个人博客站点源码，含机器学习文章的 Notebook**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "teddykoker/blog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 199 --> 201
     line [200, 200]
 ```
 
-2026-10-18 200 → 2026-11-02 200（+0）
+2026-10-18 200 → 2026-11-17 200（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # calf-ai/calfkit-sdk
 
-⭐ 150 · JavaScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/calf-ai/calfkit-sdk) · 组织维护
+⭐ 149 · JavaScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/calf-ai/calfkit-sdk) · 组织维护
 
 **构建分布式事件驱动多 agent 系统的 Python SDK**
 
@@ -45,13 +45,13 @@ Calfkit 提供一个 Python SDK，用于构建多 agent 系统：各 agent 作�
 
 ```mermaid
 xychart-beta
-    title "calf-ai/calfkit-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "calf-ai/calfkit-sdk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 148 --> 151
-    line [149, 150, 150]
+    line [149, 150, 149, 150, 149, 149]
 ```
 
-2026-10-18 149 → 2026-11-02 150（+1）
+2026-10-18 149 → 2026-11-17 149（+0）
 
 
 ---

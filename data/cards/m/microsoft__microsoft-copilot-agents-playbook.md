@@ -1,6 +1,6 @@
 # microsoft/microsoft-copilot-agents-playbook
 
-⭐ 25 · HTML · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/microsoft-copilot-agents-playbook) · [官网](https://developer.microsoft.com/en-us/reactor/series/s-1696) · 组织维护
+⭐ 26 · HTML · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/microsoft-copilot-agents-playbook) · [官网](https://developer.microsoft.com/en-us/reactor/series/s-1696) · 组织维护
 
 **微软官方的 M365 Copilot 智能体开发学习系列（含视频与配套材料）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/microsoft-copilot-agents-playbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "microsoft/microsoft-copilot-agents-playbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

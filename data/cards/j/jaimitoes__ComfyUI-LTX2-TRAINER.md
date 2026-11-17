@@ -1,6 +1,6 @@
 # jaimitoes/ComfyUI-LTX2-TRAINER
 
-⭐ 17 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/jaimitoes/ComfyUI-LTX2-TRAINER) · [官网](https://github.com/Lightricks/LTX-2) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/jaimitoes/ComfyUI-LTX2-TRAINER) · [官网](https://github.com/Lightricks/LTX-2) · 个人维护
 
 **ComfyUI 内训练 LTX 2.X 视频模型 LoRA 的自定义节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaimitoes/ComfyUI-LTX2-TRAINER 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 18
-    line [12, 13, 14, 15, 17, 17]
+    title "jaimitoes/ComfyUI-LTX2-TRAINER 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 21
+    line [12, 13, 14, 15, 17, 13, 19, 20, 20]
 ```
 
-2026-10-18 12 → 2026-11-02 17（+5）
+2026-10-18 12 → 2026-11-17 20（+8）
 
 
 ---

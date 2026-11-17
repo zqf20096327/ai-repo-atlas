@@ -1,6 +1,6 @@
 # Azure-Samples/SQL-AI-samples
 
-⭐ 331 · HTML · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure-Samples/SQL-AI-samples) · [官网](https://aka.ms/sql-ai) · 组织维护
+⭐ 333 · HTML · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure-Samples/SQL-AI-samples) · [官网](https://aka.ms/sql-ai) · 组织维护
 
 **Azure SQL 数据库与 AI 结合的官方示例集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/SQL-AI-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 330 --> 332
-    line [331, 331]
+    title "Azure-Samples/SQL-AI-samples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 330 --> 334
+    line [331, 333, 333]
 ```
 
-2026-10-18 331 → 2026-11-02 331（+0）
+2026-10-18 331 → 2026-11-17 333（+2）
 
 
 ---

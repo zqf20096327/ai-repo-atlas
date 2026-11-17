@@ -1,6 +1,6 @@
 # Pikselkroken/pixlstash
 
-⭐ 96 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Pikselkroken/pixlstash) · [官网](http://pixlstash.dev/) · 个人维护
+⭐ 107 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Pikselkroken/pixlstash) · [官网](http://pixlstash.dev/) · 个人维护
 
 **本地图片库服务器：自动打标签、语义搜索与人脸识别管理大图库**
 
@@ -45,13 +45,13 @@ PixlStash 是运行在本机的图片库服务器，支持桌面应用、浏览�
 
 ```mermaid
 xychart-beta
-    title "Pikselkroken/pixlstash 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 88 --> 97
-    line [89, 92, 94, 96, 96]
+    title "Pikselkroken/pixlstash 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 88 --> 108
+    line [89, 92, 94, 96, 94, 98, 99, 107, 107]
 ```
 
-2026-10-18 89 → 2026-11-02 96（+7）
+2026-10-18 89 → 2026-11-17 107（+18）
 
 
 ---

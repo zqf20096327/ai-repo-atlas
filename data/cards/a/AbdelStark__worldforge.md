@@ -1,6 +1,6 @@
 # AbdelStark/worldforge
 
-⭐ 108 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/AbdelStark/worldforge) · [官网](https://abdelstark.github.io/worldforge/) · 个人维护 · 中文 README
+⭐ 109 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/AbdelStark/worldforge) · [官网](https://abdelstark.github.io/worldforge/) · 个人维护 · 中文 README
 
 **面向机器人学的世界模型规划工作流编排与评测框架**
 
@@ -45,13 +45,13 @@ Python 编写的物理 AI 世界模型规划集成层：以行动条件预测世
 
 ```mermaid
 xychart-beta
-    title "AbdelStark/worldforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    title "AbdelStark/worldforge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 107 --> 110
+    line [108, 109, 109]
 ```
 
-2026-10-18 108 → 2026-11-02 108（+0）
+2026-10-18 108 → 2026-11-17 109（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dice-group/Ontolearn
 
-⭐ 78 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dice-group/Ontolearn) · [官网](https://ontolearn-docs-dice-group.netlify.app/index.html) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/dice-group/Ontolearn) · [官网](https://ontolearn-docs-dice-group.netlify.app/index.html) · 组织维护
 
 **从正负例中学习 OWL 类表达式的 Python 机器学习库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dice-group/Ontolearn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    title "dice-group/Ontolearn 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 76 --> 81
+    line [77, 78, 77, 78, 80, 80]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-17 80（+3）
 
 
 ---

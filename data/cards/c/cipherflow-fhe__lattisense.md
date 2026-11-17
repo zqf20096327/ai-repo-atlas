@@ -1,6 +1,6 @@
 # cipherflow-fhe/lattisense
 
-⭐ 16 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cipherflow-fhe/lattisense) · [官网](https://cipherflow.ai/docs/) · 组织维护
+⭐ 16 · C++ · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cipherflow-fhe/lattisense) · [官网](https://cipherflow.ai/docs/) · 组织维护
 
 **全同态加密（FHE）全栈开发框架：密文上执行计算**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cipherflow-fhe/lattisense 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "cipherflow-fhe/lattisense 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

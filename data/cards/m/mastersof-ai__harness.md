@@ -1,6 +1,6 @@
 # mastersof-ai/harness
 
-⭐ 43 · TypeScript · MIT · 推送 2026-03-19 · [GitHub](https://github.com/mastersof-ai/harness) · [官网](https://github.com/mastersof-ai/harness#readme) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-03-19 · [GitHub](https://github.com/mastersof-ai/harness) · [官网](https://github.com/mastersof-ai/harness#readme) · 组织维护
 
 **以 Markdown 定义 agent 的运行时，支持终端 TUI 与 Web UI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mastersof-ai/harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "mastersof-ai/harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 42, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

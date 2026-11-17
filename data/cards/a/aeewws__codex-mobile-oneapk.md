@@ -1,6 +1,6 @@
 # aeewws/codex-mobile-oneapk
 
-⭐ 24 · Kotlin · MIT · 推送 2026-10-09 · [GitHub](https://github.com/aeewws/codex-mobile-oneapk) · 个人维护 · 中文 README
+⭐ 26 · Kotlin · MIT · 推送 2026-10-09 · [GitHub](https://github.com/aeewws/codex-mobile-oneapk) · 个人维护 · 中文 README
 
 **把本地 Codex 运行时打包进单 APK 的 Android 手机客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aeewws/codex-mobile-oneapk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "aeewws/codex-mobile-oneapk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

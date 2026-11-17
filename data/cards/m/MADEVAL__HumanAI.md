@@ -1,6 +1,6 @@
 # MADEVAL/HumanAI
 
-⭐ 42 · PowerShell · MIT · 推送 2026-07-12 · [GitHub](https://github.com/MADEVAL/HumanAI) · 个人维护 · 中文 README
+⭐ 56 · PowerShell · MIT · 推送 2026-11-07 · [GitHub](https://github.com/MADEVAL/HumanAI) · [官网](https://www.skills.sh/madeval/humanai) · 个人维护 · 中文 README
 
 **将机器生成文本改写为人味的 LLM 技能（9 语言，5 阶段流水线）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MADEVAL/HumanAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 37 --> 43
-    line [38, 39, 42]
+    title "MADEVAL/HumanAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 37 --> 57
+    line [38, 39, 42, 39, 46, 49, 51, 56, 56]
 ```
 
-2026-10-18 38 → 2026-11-02 42（+4）
+2026-10-18 38 → 2026-11-17 56（+18）
 
 
 ---

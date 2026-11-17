@@ -1,6 +1,6 @@
 # nwyin/tau
 
-⭐ 14 · Rust · MIT · 推送 2026-04-24 · [GitHub](https://github.com/nwyin/tau) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-04-24 · [GitHub](https://github.com/nwyin/tau) · 个人维护
 
 **Rust 编写的极简可定制编码 agent 框架，含 TUI/CLI/serve 模式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nwyin/tau 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "nwyin/tau 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

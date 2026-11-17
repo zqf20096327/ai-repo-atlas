@@ -1,6 +1,6 @@
 # hsuanshao/TeamAgentMemory
 
-⭐ 39 · Rust · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/hsuanshao/TeamAgentMemory) · 个人维护 · 中文 README
+⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/hsuanshao/TeamAgentMemory) · 个人维护 · 中文 README
 
 **团队 AI agent 的自托管长期记忆服务，Rust 编写**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hsuanshao/TeamAgentMemory 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
+    x-axis ["2026-11-01", "2026-11-17"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-11-01 39 → 2026-11-02 39（+0）
+2026-11-01 39 → 2026-11-17 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MagosDigitalStudio/ComfyUI-Magos-Nodes
 
-⭐ 23 · JavaScript · GPL-3.0 · 推送 2026-05-15 · [GitHub](https://github.com/MagosDigitalStudio/ComfyUI-Magos-Nodes) · [官网](http://www.magosdigitalstudio.com) · 组织维护
+⭐ 22 · JavaScript · GPL-3.0 · 推送 2026-05-15 · [GitHub](https://github.com/MagosDigitalStudio/ComfyUI-Magos-Nodes) · [官网](http://www.magosdigitalstudio.com) · 组织维护
 
 **ComfyUI 姿态节点包：DWPose/NLF 骨架提取、编辑与重定向**
 
@@ -45,13 +45,13 @@ Magos Digital Studio 开发的 ComfyUI 自定义节点包，面向需要精细�
 
 ```mermaid
 xychart-beta
-    title "MagosDigitalStudio/ComfyUI-Magos-Nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "MagosDigitalStudio/ComfyUI-Magos-Nodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

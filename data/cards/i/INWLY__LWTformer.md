@@ -1,6 +1,6 @@
 # INWLY/LWTformer
 
-⭐ 34 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/INWLY/LWTformer) · 组织维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/INWLY/LWTformer) · 组织维护 · 中文 README
 
 **古文字图像修复的可学习小波 Transformer（PyTorch 官方实现）**
 
@@ -44,13 +44,13 @@ CVPR 2026 Findings 论文 LWTformer 的官方 PyTorch 实现，面向甲骨文�
 
 ```mermaid
 xychart-beta
-    title "INWLY/LWTformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "INWLY/LWTformer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

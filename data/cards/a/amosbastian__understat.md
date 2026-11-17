@@ -1,6 +1,6 @@
 # amosbastian/understat
 
-⭐ 186 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/amosbastian/understat) · 个人维护
+⭐ 187 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/amosbastian/understat) · 个人维护
 
 **异步 Python 库：抓取 understat.com 足球数据**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "amosbastian/understat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 185 --> 187
-    line [186, 186]
+    title "amosbastian/understat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 185 --> 188
+    line [186, 187, 187]
 ```
 
-2026-10-18 186 → 2026-11-02 186（+0）
+2026-10-18 186 → 2026-11-17 187（+1）
 
 
 ---

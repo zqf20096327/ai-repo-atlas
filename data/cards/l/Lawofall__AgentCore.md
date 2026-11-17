@@ -1,6 +1,6 @@
 # Lawofall/AgentCore
 
-⭐ 90 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Lawofall/AgentCore) · [官网](https://fashitianxia.xyz) · 个人维护 · 中文 README
+⭐ 90 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/Lawofall/AgentCore) · [官网](https://fashitianxia.xyz) · 个人维护 · 中文 README
 
 **面向大众的多 Agent AI 桌面工作台，支持 Agent 团队协作**
 
@@ -43,12 +43,12 @@ AgentCore 是一个 Multi-Agent AI 工作台，定位为面向大众的桌面应
 ```mermaid
 xychart-beta
     title "Lawofall/AgentCore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 89 --> 91
     line [90, 90]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 90（+0）
 
 
 ---

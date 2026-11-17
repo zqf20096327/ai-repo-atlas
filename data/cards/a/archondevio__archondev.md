@@ -1,6 +1,6 @@
 # archondevio/archondev
 
-⭐ 165 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/archondevio/archondev) · [官网](https://archondev.io) · 个人维护
+⭐ 166 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/archondevio/archondev) · [官网](https://archondev.io) · 个人维护
 
 **治理 AI 助手代码的本地 CLI：架构约束与质量门禁**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "archondevio/archondev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 163 --> 166
-    line [164, 165, 165]
+    title "archondevio/archondev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 163 --> 167
+    line [164, 165, 164, 166, 166]
 ```
 
-2026-10-18 164 → 2026-11-02 165（+1）
+2026-10-18 164 → 2026-11-17 166（+2）
 
 
 ---

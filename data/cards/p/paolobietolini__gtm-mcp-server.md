@@ -1,6 +1,6 @@
 # paolobietolini/gtm-mcp-server
 
-⭐ 182 · Go · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/paolobietolini/gtm-mcp-server) · [官网](https://mcp.gtmeditor.com) · 个人维护
+⭐ 190 · Go · BSD-3-Clause · 推送 2026-11-12 · [GitHub](https://github.com/paolobietolini/gtm-mcp-server) · [官网](https://mcp.gtmeditor.com) · 个人维护
 
 **让 LLM 通过 MCP 管理 Google Tag Manager 的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "paolobietolini/gtm-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 176 --> 183
-    line [177, 178, 179, 180, 182, 182]
+    title "paolobietolini/gtm-mcp-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 176 --> 191
+    line [177, 178, 179, 180, 182, 179, 186, 187, 188, 189, 190, 190]
 ```
 
-2026-10-18 177 → 2026-11-02 182（+5）
+2026-10-18 177 → 2026-11-17 190（+13）
 
 
 ---

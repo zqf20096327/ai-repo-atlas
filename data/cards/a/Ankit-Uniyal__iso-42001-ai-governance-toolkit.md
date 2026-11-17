@@ -1,6 +1,6 @@
 # Ankit-Uniyal/iso-42001-ai-governance-toolkit
 
-⭐ 27 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/Ankit-Uniyal/iso-42001-ai-governance-toolkit) · [官网](https://ankituniyalprofile.com/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/Ankit-Uniyal/iso-42001-ai-governance-toolkit) · [官网](https://ankituniyalprofile.com/) · 个人维护
 
 **ISO/IEC 42001 AI 管理体系实施工具包，面向 GRC 从业者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ankit-Uniyal/iso-42001-ai-governance-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    title "Ankit-Uniyal/iso-42001-ai-governance-toolkit 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 36
+    line [24, 25, 26, 27, 26, 31, 33, 34, 35, 35]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 35（+11）
 
 
 ---

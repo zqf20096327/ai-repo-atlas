@@ -1,6 +1,6 @@
 # ever-works/awesome-mcp-servers
 
-⭐ 128 · CC-BY-SA-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/ever-works/awesome-mcp-servers) · [官网](https://mcpserver.ever.works) · 组织维护
+⭐ 135 · CC-BY-SA-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/ever-works/awesome-mcp-servers) · [官网](https://mcpserver.ever.works) · 组织维护
 
 **MCP Server 精选目录：聚合各类 MCP 服务器条目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ever-works/awesome-mcp-servers 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 118 --> 129
-    line [119, 121, 122, 123, 124, 127, 128, 128]
+    title "ever-works/awesome-mcp-servers 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 118 --> 136
+    line [119, 121, 122, 123, 124, 127, 128, 123, 132, 134, 135, 135]
 ```
 
-2026-10-18 119 → 2026-11-02 128（+9）
+2026-10-18 119 → 2026-11-17 135（+16）
 
 
 ---

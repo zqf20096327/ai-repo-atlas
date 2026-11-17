@@ -1,6 +1,6 @@
 # posecode-dev/posecode
 
-⭐ 128 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/posecode-dev/posecode) · [官网](https://www.posecode.org/) · 组织维护
+⭐ 132 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/posecode-dev/posecode) · [官网](https://www.posecode.org/) · 组织维护
 
 **描述人体运动的文本 DSL：解析、校验并用 Three.js 渲染 3D 动作**
 
@@ -45,13 +45,13 @@ Posecode 是一种开源领域特定语言：以小型 .posecode 文本文档描
 
 ```mermaid
 xychart-beta
-    title "posecode-dev/posecode 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 119 --> 129
-    line [120, 122, 123, 124, 125, 126, 127, 128]
+    title "posecode-dev/posecode 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 119 --> 133
+    line [120, 122, 123, 124, 125, 126, 127, 128, 124, 129, 131, 132, 132]
 ```
 
-2026-10-18 120 → 2026-11-02 128（+8）
+2026-10-18 120 → 2026-11-17 132（+12）
 
 
 ---

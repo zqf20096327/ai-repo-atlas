@@ -1,6 +1,6 @@
 # Bzy-0326/PaperPilot
 
-⭐ 18 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/Bzy-0326/PaperPilot) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/Bzy-0326/PaperPilot) · 个人维护 · 中文 README
 
 **面向研究者的 AI 论文推荐与阅读决策助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bzy-0326/PaperPilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Bzy-0326/PaperPilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # llnl/merlin
 
-⭐ 151 · Python · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/llnl/merlin) · 组织维护
+⭐ 152 · Python · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/llnl/merlin) · 组织维护
 
 **面向 HPC 的分布式机器学习工作流编排与任务队列系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "llnl/merlin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "llnl/merlin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-13", "2026-11-17"]
     y-axis "stars" 150 --> 153
-    line [151, 152, 151, 151]
+    line [151, 152, 151, 152, 152]
 ```
 
-2026-10-18 151 → 2026-11-02 151（+0）
+2026-10-18 151 → 2026-11-17 152（+1）
 
 
 ---

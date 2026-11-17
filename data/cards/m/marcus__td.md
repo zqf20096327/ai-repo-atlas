@@ -1,6 +1,6 @@
 # marcus/td
 
-⭐ 255 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/marcus/td) · 个人维护
+⭐ 258 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/marcus/td) · 个人维护
 
 **AI 编码会话间的任务追踪 CLI，充当外部记忆**
 
@@ -45,13 +45,13 @@ Go 编写的轻量 CLI，为 AI 编码会话（Claude Code、Cursor、Codex、Co
 
 ```mermaid
 xychart-beta
-    title "marcus/td 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 253 --> 256
-    line [254, 255, 255]
+    title "marcus/td 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 253 --> 259
+    line [254, 255, 258, 258]
 ```
 
-2026-10-18 254 → 2026-11-02 255（+1）
+2026-10-18 254 → 2026-11-17 258（+4）
 
 
 ---

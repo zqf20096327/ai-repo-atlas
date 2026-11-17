@@ -1,6 +1,6 @@
 # abdallahdib/abdallahdib.github.io
 
-⭐ 30 · HTML · 推送 2026-10-04 · [GitHub](https://github.com/abdallahdib/abdallahdib.github.io) · 个人维护
+⭐ 29 · HTML · 推送 2026-10-04 · [GitHub](https://github.com/abdallahdib/abdallahdib.github.io) · 个人维护
 
 **计算机视觉研究科学家的个人学术主页（论文与项目汇集）**
 
@@ -44,13 +44,13 @@ Abdallah Dib 的 GitHub Pages 个人网站，作者任职于 Ubisoft La Forge（
 
 ```mermaid
 xychart-beta
-    title "abdallahdib/abdallahdib.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "abdallahdib/abdallahdib.github.io 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 29（-1）
 
 
 ---

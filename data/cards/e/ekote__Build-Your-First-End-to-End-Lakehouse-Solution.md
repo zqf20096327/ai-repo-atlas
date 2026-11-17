@@ -1,6 +1,6 @@
 # ekote/Build-Your-First-End-to-End-Lakehouse-Solution
 
-⭐ 23 · Jupyter Notebook · 推送 2025-11-18 · [GitHub](https://github.com/ekote/Build-Your-First-End-to-End-Lakehouse-Solution) · [官网](https://events.pinetool.ai/3499/#sessions/113278?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Microsoft Fabric 端到端 Lakehouse 动手工作坊教程**
 
@@ -45,13 +45,13 @@ Big Data Conference Europe 2025（维尔纽斯）的研讨会仓库，指导参�
 
 ```mermaid
 xychart-beta
-    title "ekote/Build-Your-First-End-to-End-Lakehouse-Solution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "ekote/Build-Your-First-End-to-End-Lakehouse-Solution 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [22, 23, 22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-13 23（+1）
 
 
 ---

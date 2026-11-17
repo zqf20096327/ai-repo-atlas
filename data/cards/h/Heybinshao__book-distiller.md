@@ -1,6 +1,6 @@
 # Heybinshao/book-distiller
 
-⭐ 23 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Heybinshao/book-distiller) · 个人维护 · 中文 README
+⭐ 29 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Heybinshao/book-distiller) · 个人维护 · 中文 README
 
 **面向非技术用户的 AI 拆书 Skill：epub/pdf/md 拆成结构化知识**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Heybinshao/book-distiller 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 16 --> 24
-    line [17, 18, 19, 20, 21, 22, 23, 23]
+    title "Heybinshao/book-distiller 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 30
+    line [17, 18, 19, 20, 21, 22, 23, 21, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 17 → 2026-11-02 23（+6）
+2026-10-18 17 → 2026-11-17 29（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # woheller69/gptAssist
 
-⭐ 464 · Java · GPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/woheller69/gptAssist) · 个人维护
+⭐ 467 · Java · GPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/woheller69/gptAssist) · 个人维护
 
 **Android 上的 ChatGPT WebView 轻量封装应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "woheller69/gptAssist 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 461 --> 466
-    line [462, 464, 465, 464, 464]
+    title "woheller69/gptAssist 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 461 --> 468
+    line [462, 464, 465, 464, 465, 467, 466, 467, 467]
 ```
 
-2026-10-18 462 → 2026-11-02 464（+2）
+2026-10-18 462 → 2026-11-17 467（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # CryptoDmitry/Ghost-Agent
 
-⭐ 743 · Shell · MIT · 推送 2026-08-25 · [GitHub](https://github.com/CryptoDmitry/Ghost-Agent) · 组织维护 · 中文 README
+⭐ 741 · Shell · MIT · 推送 2026-08-25 · [GitHub](https://github.com/CryptoDmitry/Ghost-Agent) · 组织维护 · 中文 README
 
 **Solana 链上的 MCP Agent 工具执行引擎，支持 CLI/API/Telegram**
 
@@ -44,13 +44,13 @@ Coreon-MCP-Execution-Engine 为结构化 ToolCall 链提供统一运行时：Pla
 
 ```mermaid
 xychart-beta
-    title "CryptoDmitry/Ghost-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 742 --> 745
-    line [744, 743, 743]
+    title "CryptoDmitry/Ghost-Agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 740 --> 745
+    line [744, 743, 741, 742, 741, 741]
 ```
 
-2026-10-18 744 → 2026-11-02 743（-1）
+2026-10-18 744 → 2026-11-17 741（-3）
 
 
 ---

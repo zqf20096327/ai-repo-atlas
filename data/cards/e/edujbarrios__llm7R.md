@@ -1,6 +1,6 @@
 # edujbarrios/llm7R
 
-⭐ 35 · R · GPL-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/edujbarrios/llm7R) · [官网](https://llm7.io/) · 个人维护
+⭐ 37 · R · GPL-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/edujbarrios/llm7R) · [官网](https://llm7.io/) · 个人维护
 
 **在 R 中调用 LLM7.io API 的轻量客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edujbarrios/llm7R 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 26 --> 36
-    line [27, 35, 35]
+    title "edujbarrios/llm7R 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 26 --> 38
+    line [27, 35, 36, 37, 37]
 ```
 
-2026-10-18 27 → 2026-11-02 35（+8）
+2026-10-18 27 → 2026-11-17 37（+10）
 
 
 ---

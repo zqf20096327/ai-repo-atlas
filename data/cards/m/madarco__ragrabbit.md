@@ -1,6 +1,6 @@
 # madarco/ragrabbit
 
-⭐ 136 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/madarco/ragrabbit) · [官网](https://ragrabbit.com) · 个人维护
+⭐ 135 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/madarco/ragrabbit) · [官网](https://ragrabbit.com) · 个人维护
 
 **自托管网站 AI 搜索与 LLMs.txt 生成应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "madarco/ragrabbit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    title "madarco/ragrabbit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 134 --> 137
+    line [136, 135, 135]
 ```
 
-2026-10-18 136 → 2026-11-02 136（+0）
+2026-10-18 136 → 2026-11-17 135（-1）
 
 
 ---

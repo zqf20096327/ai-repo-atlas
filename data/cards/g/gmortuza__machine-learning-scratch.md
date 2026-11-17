@@ -1,6 +1,6 @@
 # gmortuza/machine-learning-scratch
 
-⭐ 19 · Jupyter Notebook · 推送 2026-01-04 · [GitHub](https://github.com/gmortuza/machine-learning-scratch) · 个人维护
+⭐ 18 · Jupyter Notebook · 推送 2026-01-04 · [GitHub](https://github.com/gmortuza/machine-learning-scratch) · 个人维护
 
 **从零实现主流机器学习算法的教学型代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gmortuza/machine-learning-scratch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "gmortuza/machine-learning-scratch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

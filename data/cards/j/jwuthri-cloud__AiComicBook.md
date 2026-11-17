@@ -1,6 +1,6 @@
 # jwuthri-cloud/AiComicBook
 
-⭐ 22 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jwuthri-cloud/AiComicBook) · [官网](https://ai-comic-book-topaz.vercel.app) · 个人维护
+⭐ 12 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jwuthri-cloud/AiComicBook) · [官网](https://ai-comic-book-topaz.vercel.app) · 个人维护
 
 **AI/ML 等技术主题的漫画风格学习速查图集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jwuthri-cloud/AiComicBook 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 21 --> 26
-    line [25, 22, 22]
+    title "jwuthri-cloud/AiComicBook 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 26
+    line [25, 22, 12, 12]
 ```
 
-2026-10-19 25 → 2026-11-02 22（-3）
+2026-10-19 25 → 2026-11-17 12（-13）
 
 
 ---

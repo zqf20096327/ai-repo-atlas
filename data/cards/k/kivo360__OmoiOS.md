@@ -1,6 +1,6 @@
 # kivo360/OmoiOS
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/kivo360/OmoiOS) · [官网](https://omoios.dev) · 个人维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/kivo360/OmoiOS) · [官网](https://omoios.dev) · 个人维护
 
 **自托管的多编码代理群体运行时：从功能规格到合并 PR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kivo360/OmoiOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    title "kivo360/OmoiOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 79 --> 82
+    line [81, 80, 80]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 80（-1）
 
 
 ---

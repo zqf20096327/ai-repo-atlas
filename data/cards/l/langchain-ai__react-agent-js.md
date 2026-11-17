@@ -1,6 +1,6 @@
 # langchain-ai/react-agent-js
 
-⭐ 119 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/react-agent-js) · 组织维护
+⭐ 121 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/langchain-ai/react-agent-js) · 组织维护
 
 **面向开发者的 LangChain AI Agent 应用起始模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/react-agent-js 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 118, 119, 119]
+    title "langchain-ai/react-agent-js 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 117 --> 122
+    line [118, 119, 118, 119, 118, 119, 120, 121, 121]
 ```
 
-2026-10-18 118 → 2026-11-02 119（+1）
+2026-10-18 118 → 2026-11-17 121（+3）
 
 
 ---

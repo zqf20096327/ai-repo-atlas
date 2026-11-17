@@ -1,6 +1,6 @@
 # liufeng2317/OpenSWI
 
-⭐ 19 · Jupyter Notebook · CC-BY-4.0 · 推送 2025-11-19 · [GitHub](https://github.com/liufeng2317/OpenSWI) · [官网](https://liufeng2317.github.io/OpenSWI/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面波频散曲线反演的大规模基准数据集（超2300万样本对）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC-BY-4.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liufeng2317/OpenSWI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-14 19（+0）
 
 
 ---

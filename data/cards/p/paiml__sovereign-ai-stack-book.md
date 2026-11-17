@@ -1,6 +1,6 @@
 # paiml/sovereign-ai-stack-book
 
-⭐ 15 · Makefile · MIT · 推送 2026-08-28 · [GitHub](https://github.com/paiml/sovereign-ai-stack-book) · [官网](https://paiml.github.io/sovereign-ai-stack-book/) · 组织维护
+⭐ 15 · Makefile · MIT · 推送 2026-11-09 · [GitHub](https://github.com/paiml/sovereign-ai-stack-book) · [官网](https://paiml.github.io/sovereign-ai-stack-book/) · 组织维护
 
 **纯 Rust 主权 AI 技术栈书籍：23 章可复现代码讲解 EU 合规 ML 基础设施**
 
@@ -46,12 +46,12 @@ Pragmatic AI Labs 出品的技术书籍，用 mdBook 组织 23 章 6 部分，�
 ```mermaid
 xychart-beta
     title "paiml/sovereign-ai-stack-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

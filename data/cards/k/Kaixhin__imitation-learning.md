@@ -1,6 +1,6 @@
 # Kaixhin/imitation-learning
 
-⭐ 575 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Kaixhin/imitation-learning) · 个人维护
+⭐ 576 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Kaixhin/imitation-learning) · 个人维护
 
 **深度模仿学习算法集合：在 MuJoCo 上实现 6 种 IL 算法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kaixhin/imitation-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 574 --> 576
-    line [575, 575]
+    title "Kaixhin/imitation-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 574 --> 577
+    line [575, 576, 576]
 ```
 
-2026-10-18 575 → 2026-11-02 575（+0）
+2026-10-18 575 → 2026-11-17 576（+1）
 
 
 ---

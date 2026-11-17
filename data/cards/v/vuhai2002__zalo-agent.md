@@ -1,6 +1,6 @@
 # vuhai2002/zalo-agent
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vuhai2002/zalo-agent) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vuhai2002/zalo-agent) · 个人维护
 
 **自托管的 Zalo 聊天 AI agent，多账号、15 工具、Web 仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vuhai2002/zalo-agent 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "vuhai2002/zalo-agent 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 10, 13, 14, 14]
 ```
 
-2026-10-22 10 → 2026-11-02 12（+2）
+2026-10-22 10 → 2026-11-17 14（+4）
 
 
 ---

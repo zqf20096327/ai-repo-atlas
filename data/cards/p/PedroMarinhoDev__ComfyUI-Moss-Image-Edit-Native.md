@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-Moss-Image-Edit-Native
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Moss-Image-Edit-Native) · 个人维护
+⭐ 20 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Moss-Image-Edit-Native) · 个人维护
 
 **ComfyUI 原生节点包：用文本指令编辑图像的 MOSS-Image 编辑 LoRA 集成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PedroMarinhoDev/ComfyUI-Moss-Image-Edit-Native 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 5 --> 20
-    line [6, 14, 16, 17, 19, 19]
+    title "PedroMarinhoDev/ComfyUI-Moss-Image-Edit-Native 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 5 --> 21
+    line [6, 14, 16, 17, 19, 20, 20]
 ```
 
-2026-10-26 6 → 2026-11-02 19（+13）
+2026-10-26 6 → 2026-11-17 20（+14）
 
 
 ---

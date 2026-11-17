@@ -1,6 +1,6 @@
 # tester-army/unbox-ai
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tester-army/unbox-ai) · [官网](https://tester.army) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 追踪可视化工具：token、延迟与成本一目了然**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tester-army/unbox-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02"]
+    title "tester-army/unbox-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08"]
     y-axis "stars" 52 --> 57
-    line [53, 54, 55, 56, 56]
+    line [53, 54, 55, 56, 55, 56]
 ```
 
-2026-10-18 53 → 2026-11-02 56（+3）
+2026-10-18 53 → 2026-11-08 56（+3）
 
 
 ---

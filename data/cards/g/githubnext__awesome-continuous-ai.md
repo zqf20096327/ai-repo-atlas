@@ -1,6 +1,6 @@
 # githubnext/awesome-continuous-ai
 
-⭐ 498 · MIT · 推送 2025-11-16 · [GitHub](https://github.com/githubnext/awesome-continuous-ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Continuous AI 清单：收录用 AI 自动化软件协作的 Actions 与框架**
 
@@ -11,7 +11,7 @@ GitHub Next 维护的 awesome 清单，围绕"Continuous AI"概念——用自�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ GitHub Next 维护的 awesome 清单，围绕"Continuous AI"概念——用自�
 
 ```mermaid
 xychart-beta
-    title "githubnext/awesome-continuous-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 497 --> 499
-    line [498, 498]
+    title "githubnext/awesome-continuous-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 497 --> 500
+    line [498, 499, 499]
 ```
 
-2026-10-18 498 → 2026-11-02 498（+0）
+2026-10-18 498 → 2026-11-11 499（+1）
 
 
 ---

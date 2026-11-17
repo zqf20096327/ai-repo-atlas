@@ -27,9 +27,9 @@ GitHub 上的开源 AI 项目有几十万个,README 长短不一、真假混杂�
 
 **人看**——每仓一张 markdown 卡,按首字母浏览 [`data/cards/`](data/cards)。
 
-**程序用**——一行一仓的 JSONL 主表,带 [JSON Schema](data/schema/card.schema.json):
+**程序用**——一行一仓的 JSONL 主表(分片 `data/catalog/partNN.jsonl` + [MANIFEST](data/catalog/MANIFEST.json)),带 [JSON Schema](data/schema/card.schema.json):
 ```bash
-jq -c 'select(.filters.license_risk=="permissive" and .meta.stars>10000)' data/catalog.jsonl
+cat data/catalog/part*.jsonl | jq -c 'select(.filters.license_risk=="permissive" and .meta.stars>10000)'
 ```
 
 **AI 助手用**——根目录 [`llms.txt`](llms.txt) 是标准发现入口;场景词表在 [`data/vocab.json`](data/vocab.json)。
@@ -40,7 +40,7 @@ jq -c 'select(.filters.license_risk=="permissive" and .meta.stars>10000)' data/c
 
 1. 检出公开工厂仓(README 43k 份 + 池元数据)——只读输入,零令牌;
 2. s8 解读(六道闸 + 行号证据,双跑一致率 98.5%)→ s10 受控词表打标 → s12 每日曲线点;
-3. s11 导出(catalog.jsonl + 人读卡 + 曲线)→ 剥离内部字段 → 提交发布。
+3. s11 导出(分片 catalog + 人读卡 + 曲线)→ 剥离内部字段 → 提交发布。
 
 手动触发一批:[Actions · generate cards](../../actions/workflows/generate.yml)。
 

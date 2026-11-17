@@ -1,6 +1,6 @@
 # kevinrss01/framedeck
 
-⭐ 62 · TypeScript · 推送 2026-05-25 · [GitHub](https://github.com/kevinrss01/framedeck) · [官网](https://framedeck.ai) · 个人维护
+⭐ 64 · TypeScript · 推送 2026-05-25 · [GitHub](https://github.com/kevinrss01/framedeck) · [官网](https://framedeck.ai) · 个人维护
 
 **自然语言驱动的 AI 视频编辑器：对话生成时间线编辑与字幕**
 
@@ -44,13 +44,13 @@ Turborepo 单体仓库构成的视频编辑软件：Next.js 前端承载编辑�
 
 ```mermaid
 xychart-beta
-    title "kevinrss01/framedeck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "kevinrss01/framedeck 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 62, 63, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

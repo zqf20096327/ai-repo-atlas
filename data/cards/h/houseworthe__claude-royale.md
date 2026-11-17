@@ -1,6 +1,6 @@
 # houseworthe/claude-royale
 
-⭐ 26 · Shell · MIT · 推送 2026-01-25 · [GitHub](https://github.com/houseworthe/claude-royale) · 个人维护
+⭐ 27 · Shell · MIT · 推送 2026-01-25 · [GitHub](https://github.com/houseworthe/claude-royale) · 个人维护
 
 **让 AI agent 通过屏幕截图与点击自主玩 Clash Royale 的框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "houseworthe/claude-royale 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "houseworthe/claude-royale 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

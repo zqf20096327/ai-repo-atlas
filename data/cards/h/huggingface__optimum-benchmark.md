@@ -1,6 +1,6 @@
 # huggingface/optimum-benchmark
 
-⭐ 341 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/optimum-benchmark) · 组织维护
+⭐ 342 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/optimum-benchmark) · 组织维护
 
 **多后端多硬件的模型推理/训练基准测试工具**
 
@@ -44,13 +44,13 @@ HuggingFace 维护的统一基准测试工具，面向 Transformers、Diffusers�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 340 --> 342
-    line [341, 341]
+    title "huggingface/optimum-benchmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 340 --> 343
+    line [341, 342, 342]
 ```
 
-2026-10-18 341 → 2026-11-02 341（+0）
+2026-10-18 341 → 2026-11-17 342（+1）
 
 
 ---

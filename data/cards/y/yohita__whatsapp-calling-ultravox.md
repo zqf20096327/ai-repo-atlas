@@ -1,6 +1,6 @@
 # yohita/whatsapp-calling-ultravox
 
-⭐ 16 · HTML · 推送 2025-12-25 · [GitHub](https://github.com/yohita/whatsapp-calling-ultravox) · [官网](https://www.youtube.com/watch?v=4DWiJec8LFo) · 个人维护
+⭐ 17 · HTML · 推送 2025-12-25 · [GitHub](https://github.com/yohita/whatsapp-calling-ultravox) · [官网](https://www.youtube.com/watch?v=4DWiJec8LFo) · 个人维护
 
 **WhatsApp 语音通话接入 AI 语音代理的示例代码与教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yohita/whatsapp-calling-ultravox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "yohita/whatsapp-calling-ultravox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # FlowEngine-cloud/flowengine
 
-⭐ 16 · TypeScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/FlowEngine-cloud/flowengine) · [官网](https://flowengine.cloud) · 组织维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/FlowEngine-cloud/flowengine) · [官网](https://flowengine.cloud) · 组织维护
 
 **面向自动化代理机构的白标客户门户：管理 n8n 实例与客户计费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlowEngine-cloud/flowengine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

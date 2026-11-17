@@ -1,6 +1,6 @@
 # NoteDance/optimizers
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/NoteDance/optimizers) · 个人维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/NoteDance/optimizers) · 个人维护
 
 **给深度学习研究者的 TensorFlow/Keras 优化器集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoteDance/optimizers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "NoteDance/optimizers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

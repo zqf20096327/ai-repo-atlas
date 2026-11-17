@@ -1,6 +1,6 @@
 # martinopedal/linkedin-auto-poster
 
-⭐ 15 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/martinopedal/linkedin-auto-poster) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/martinopedal/linkedin-auto-poster) · 个人维护
 
 **从行业 RSS 自动生成并经 PR 审批发布 LinkedIn 帖子的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "martinopedal/linkedin-auto-poster 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "martinopedal/linkedin-auto-poster 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

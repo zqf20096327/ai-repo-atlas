@@ -1,6 +1,6 @@
 # CBICA/Brain2Vec
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/CBICA/Brain2Vec) · 组织维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/CBICA/Brain2Vec) · 组织维护
 
 **结构脑 MRI 的自监督 3D 基础模型：嵌入提取与疾病/脑龄预测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CBICA/Brain2Vec 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15, 15]
+    title "CBICA/Brain2Vec 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 13, 14, 15, 12, 18, 18]
 ```
 
-2026-10-24 11 → 2026-11-02 15（+4）
+2026-10-24 11 → 2026-11-17 18（+7）
 
 
 ---

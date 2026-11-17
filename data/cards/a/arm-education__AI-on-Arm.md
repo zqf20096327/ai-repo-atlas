@@ -1,6 +1,6 @@
 # arm-education/AI-on-Arm
 
-⭐ 32 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/arm-education/AI-on-Arm) · [官网](https://github.com/arm-education/AI-on-Arm/tree/main?tab=readme-ov-file#optimizing-generative-ai-on-arm-processors) · 组织维护
+⭐ 34 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/arm-education/AI-on-Arm) · [官网](https://github.com/arm-education/AI-on-Arm/tree/main?tab=readme-ov-file#optimizing-generative-ai-on-arm-processors) · 组织维护
 
 **Arm 处理器上生成式 AI 优化部署的实操课程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arm-education/AI-on-Arm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "arm-education/AI-on-Arm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

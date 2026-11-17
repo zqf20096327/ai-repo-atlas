@@ -1,6 +1,6 @@
 # nikita-rulenko/Helixir
 
-⭐ 89 · Rust · MIT · 推送 2026-08-25 · [GitHub](https://github.com/nikita-rulenko/Helixir) · 个人维护
+⭐ 91 · Rust · MIT · 推送 2026-08-25 · [GitHub](https://github.com/nikita-rulenko/Helixir) · 个人维护
 
 **给 AI agent 用的跨 harness 持久记忆与治理控制平面**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nikita-rulenko/Helixir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    title "nikita-rulenko/Helixir 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 87 --> 92
+    line [88, 89, 88, 91, 91]
 ```
 
-2026-10-18 88 → 2026-11-02 89（+1）
+2026-10-18 88 → 2026-11-17 91（+3）
 
 
 ---

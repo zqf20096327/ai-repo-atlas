@@ -1,6 +1,6 @@
 # basilpuglisi/HAIA
 
-⭐ 47 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/basilpuglisi/HAIA) · [官网](https://basilpuglisi.com) · 个人维护
+⭐ 46 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/basilpuglisi/HAIA) · [官网](https://basilpuglisi.com) · 个人维护
 
 **多 AI 工作流的治理基础设施：调度、审计与人工检查点**
 
@@ -45,13 +45,13 @@ GOPEL（治理编排策略执行层）的参考实现 v0.6.1：向多个 AI 平�
 
 ```mermaid
 xychart-beta
-    title "basilpuglisi/HAIA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "basilpuglisi/HAIA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [47, 46, 46]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 46（-1）
 
 
 ---

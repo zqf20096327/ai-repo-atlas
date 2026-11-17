@@ -1,6 +1,6 @@
 # BCG-X-Official/sklearndf
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BCG-X-Official/sklearndf) · [官网](https://bcg-x-official.github.io/sklearndf/) · 组织维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BCG-X-Official/sklearndf) · [官网](https://bcg-x-official.github.io/sklearndf/) · 组织维护
 
 **让 scikit-learn 估计器保持 DataFrame 结构与特征名溯源的库**
 
@@ -44,13 +44,13 @@ sklearndf 是 BCG（BCG GAMMA）维护的开源 Python 库，封装 scikit-learn
 
 ```mermaid
 xychart-beta
-    title "BCG-X-Official/sklearndf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "BCG-X-Official/sklearndf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kstrat2001/darkmux
 
-⭐ 11 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kstrat2001/darkmux) · [官网](https://darkmux.com) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kstrat2001/darkmux) · [官网](https://darkmux.com) · 个人维护
 
 **面向 Apple Silicon 的本地 AI 任务编排运行时：多机舰队执行任务图**
 
@@ -44,13 +44,13 @@ darkmux 将一台或多台通过 tailnet 连接的 Mac 组成本地 AI 舰队：
 
 ```mermaid
 xychart-beta
-    title "kstrat2001/darkmux 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "kstrat2001/darkmux 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-19 11 → 2026-11-02 11（+0）
+2026-10-19 11 → 2026-11-17 12（+1）
 
 
 ---

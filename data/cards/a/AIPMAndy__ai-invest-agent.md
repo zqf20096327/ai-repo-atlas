@@ -1,6 +1,6 @@
 # AIPMAndy/ai-invest-agent
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/ai-invest-agent) · [官网](https://github.com/AIPMAndy) · 个人维护 · 中文 README
+⭐ 51 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AIPMAndy/ai-invest-agent) · [官网](https://github.com/AIPMAndy/ai-invest-agent) · 个人维护 · 中文 README
 
 **AI 投资复盘工具：记录交易并用 AI 分析决策与风险**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/ai-invest-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 47 --> 51
-    line [48, 49, 50, 50]
+    title "AIPMAndy/ai-invest-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 48, 50, 51, 51]
 ```
 
-2026-10-18 48 → 2026-11-02 50（+2）
+2026-10-18 48 → 2026-11-17 51（+3）
 
 
 ---

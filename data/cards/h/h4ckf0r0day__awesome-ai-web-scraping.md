@@ -1,6 +1,6 @@
 # h4ckf0r0day/awesome-ai-web-scraping
 
-⭐ 117 · CC0-1.0 · 推送 2026-05-18 · [GitHub](https://github.com/h4ckf0r0day/awesome-ai-web-scraping) · 个人维护
+⭐ 130 · CC0-1.0 · 推送 2026-05-18 · [GitHub](https://github.com/h4ckf0r0day/awesome-ai-web-scraping) · 个人维护
 
 **AI 网页抓取工具策展清单：框架、API、MCP 服务与数据集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "h4ckf0r0day/awesome-ai-web-scraping 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 114 --> 118
-    line [115, 116, 117, 117]
+    title "h4ckf0r0day/awesome-ai-web-scraping 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 114 --> 131
+    line [115, 116, 117, 116, 121, 127, 129, 130, 130]
 ```
 
-2026-10-18 115 → 2026-11-02 117（+2）
+2026-10-18 115 → 2026-11-17 130（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # j-morano/rrwnet
 
-⭐ 53 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/j-morano/rrwnet) · [官网](https://doi.org/10.1016/j.eswa.2024.124970) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/j-morano/rrwnet) · [官网](https://doi.org/10.1016/j.eswa.2024.124970) · 个人维护
 
 **视网膜动静脉分割与分类的深度学习模型（论文官方实现）**
 
@@ -45,13 +45,13 @@ RRWNet 论文（Expert Systems with Applications, 2024）的官方 PyTorch 实�
 
 ```mermaid
 xychart-beta
-    title "j-morano/rrwnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    title "j-morano/rrwnet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 52, 53, 54, 54]
 ```
 
-2026-10-18 51 → 2026-11-02 53（+2）
+2026-10-18 51 → 2026-11-17 54（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # M507/AI-SOC-Agent
 
-⭐ 53 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/M507/AI-SOC-Agent) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/M507/AI-SOC-Agent) · 个人维护
 
 **面向 SOC 团队的 AI 安全调查与事件响应平台（MCP server）**
 
@@ -45,13 +45,13 @@ Blackhat 2025 议题配套项目 SamiGPT：以 MCP server 形式将安全调查�
 
 ```mermaid
 xychart-beta
-    title "M507/AI-SOC-Agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 50 --> 54
-    line [52, 51, 52, 53, 53]
+    title "M507/AI-SOC-Agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 50 --> 56
+    line [52, 51, 52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

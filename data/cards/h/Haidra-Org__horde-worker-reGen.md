@@ -1,6 +1,6 @@
 # Haidra-Org/horde-worker-reGen
 
-⭐ 187 · Python · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/Haidra-Org/horde-worker-reGen) · [官网](https://aihorde.net/) · 组织维护
+⭐ 188 · Python · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/Haidra-Org/horde-worker-reGen) · [官网](https://aihorde.net/) · 组织维护
 
 **AI Horde 众包网络的图像生成志愿 worker 客户端**
 
@@ -44,13 +44,13 @@ AI Horde 去中心化众包 AI 平台的官方 worker 客户端：在本地 GPU 
 
 ```mermaid
 xychart-beta
-    title "Haidra-Org/horde-worker-reGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 186 --> 188
-    line [187, 187]
+    title "Haidra-Org/horde-worker-reGen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 186 --> 189
+    line [187, 188, 188]
 ```
 
-2026-10-18 187 → 2026-11-02 187（+0）
+2026-10-18 187 → 2026-11-17 188（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # chengzhi-c/natural-talk
 
-⭐ 99 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chengzhi-c/natural-talk) · [官网](https://linux.do) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/chengzhi-c/natural-talk) · [官网](https://linux.do) · 个人维护 · 中文 README
 
 **让 AI 对话与写作去除机械套路、贴近真人表达的风格规则集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chengzhi-c/natural-talk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 96 --> 100
-    line [97, 98, 97, 98, 99, 99]
+    title "chengzhi-c/natural-talk 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 96 --> 114
+    line [97, 98, 97, 98, 99, 97, 109, 111, 112, 113, 113]
 ```
 
-2026-10-18 97 → 2026-11-02 99（+2）
+2026-10-18 97 → 2026-11-17 113（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # bentoml/BentoLMDeploy
 
-⭐ 23 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoLMDeploy) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **BentoML 示例工程：用 LMDeploy 自托管部署开源 LLM**
 
@@ -44,12 +44,12 @@ BentoML 官方示例项目，演示如何用 LMDeploy（LLM 压缩、部署与�
 ```mermaid
 xychart-beta
     title "bentoml/BentoLMDeploy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-08 23（+0）
 
 
 ---

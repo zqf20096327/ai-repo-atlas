@@ -1,6 +1,6 @@
 # enlite-ai/maze
 
-⭐ 294 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/enlite-ai/maze) · [官网](https://maze-rl.readthedocs.io/) · 组织维护
+⭐ 295 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/enlite-ai/maze) · [官网](https://maze-rl.readthedocs.io/) · 组织维护
 
 **面向真实决策问题的应用型深度强化学习框架**
 
@@ -44,13 +44,13 @@ MazeRL 是基于 PyTorch 的应用导向深度强化学习框架，覆盖 RL 应
 
 ```mermaid
 xychart-beta
-    title "enlite-ai/maze 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 293 --> 295
-    line [294, 294]
+    title "enlite-ai/maze 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 293 --> 296
+    line [294, 295, 295]
 ```
 
-2026-10-18 294 → 2026-11-02 294（+0）
+2026-10-18 294 → 2026-11-17 295（+1）
 
 
 ---

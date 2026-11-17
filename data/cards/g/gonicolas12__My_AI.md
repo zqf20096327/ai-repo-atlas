@@ -1,6 +1,6 @@
 # gonicolas12/My_AI
 
-⭐ 12 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gonicolas12/My_AI) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/gonicolas12/My_AI) · [官网](https://github.com/gonicolas12/My_AI/releases/latest) · 个人维护
 
 **本地离线桌面 AI 助手：聊天、9 个 agent 与文档/图像/语音生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gonicolas12/My_AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "gonicolas12/My_AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

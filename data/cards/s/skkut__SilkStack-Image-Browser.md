@@ -1,6 +1,6 @@
 # skkut/SilkStack-Image-Browser
 
-⭐ 32 · TypeScript · MPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/skkut/SilkStack-Image-Browser) · [官网](https://skkut.github.io/silkstack) · 个人维护
+⭐ 34 · TypeScript · MPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/skkut/SilkStack-Image-Browser) · [官网](https://skkut.github.io/silkstack) · 个人维护
 
 **本地浏览与整理 ComfyUI 等 AI 生成图片的桌面浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skkut/SilkStack-Image-Browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "skkut/SilkStack-Image-Browser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # metaopt/torchopt
 
-⭐ 640 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/metaopt/torchopt) · [官网](https://torchopt.readthedocs.io) · 组织维护
+⭐ 639 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/metaopt/torchopt) · [官网](https://torchopt.readthedocs.io) · 组织维护
 
 **基于 PyTorch 的可微分优化库，用于双层优化与元学习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metaopt/torchopt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
+    title "metaopt/torchopt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 637 --> 641
-    line [638, 639, 640, 640]
+    line [638, 639, 640, 639, 639]
 ```
 
-2026-10-18 638 → 2026-11-02 640（+2）
+2026-10-18 638 → 2026-11-17 639（+1）
 
 
 ---

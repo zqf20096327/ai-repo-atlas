@@ -1,6 +1,6 @@
 # RapidAI/RapidRAG
 
-⭐ 252 · Python · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/RapidAI/RapidRAG) · [官网](https://rapidai.github.io/RapidRAG/) · 组织维护 · 中文 README
+⭐ 250 · Python · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/RapidAI/RapidRAG) · [官网](https://rapidai.github.io/RapidRAG/) · 组织维护 · 中文 README
 
 **基于本地知识库与 LLM 的模块化问答系统**
 
@@ -44,13 +44,13 @@ RapidAI 开源的本地知识库问答项目：用 LLM 对本地文档做问答�
 
 ```mermaid
 xychart-beta
-    title "RapidAI/RapidRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 251 --> 253
-    line [252, 252]
+    title "RapidAI/RapidRAG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 249 --> 253
+    line [252, 251, 250, 250]
 ```
 
-2026-10-18 252 → 2026-11-02 252（+0）
+2026-10-18 252 → 2026-11-17 250（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-AudioSR
 
-⭐ 102 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-AudioSR) · [官网](https://huggingface.co/drbaph/AudioSR) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-AudioSR) · [官网](https://huggingface.co/drbaph/AudioSR) · 个人维护
 
 **ComfyUI 音频超分节点：用潜扩散将音频升至 48kHz**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-AudioSR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "Saganaki22/ComfyUI-AudioSR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 101 --> 106
+    line [102, 104, 105, 105]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 105（+3）
 
 
 ---

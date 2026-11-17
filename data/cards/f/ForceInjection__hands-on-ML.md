@@ -1,6 +1,6 @@
 # ForceInjection/hands-on-ML
 
-⭐ 87 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/ForceInjection/hands-on-ML) · 个人维护 · 中文 README
+⭐ 90 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/ForceInjection/hands-on-ML) · 个人维护 · 中文 README
 
 **机器学习学习路径清单：整合课程、代码与实战案例**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ForceInjection/hands-on-ML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    title "ForceInjection/hands-on-ML 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 85 --> 91
+    line [86, 87, 90, 90]
 ```
 
-2026-10-18 86 → 2026-11-02 87（+1）
+2026-10-18 86 → 2026-11-17 90（+4）
 
 
 ---

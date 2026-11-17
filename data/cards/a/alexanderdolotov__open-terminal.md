@@ -1,6 +1,6 @@
 # alexanderdolotov/open-terminal
 
-⭐ 16 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/alexanderdolotov/open-terminal) · [官网](https://tesseractanalytics.ai) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/alexanderdolotov/open-terminal) · [官网](https://tesseractanalytics.ai) · 个人维护
 
 **给个人投资者的自托管金融研究终端，整合 SEC 财报、股价与 AI 分析**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexanderdolotov/open-terminal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 14, 15, 16, 16]
+    title "alexanderdolotov/open-terminal 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 14, 15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-02 16（+5）
+2026-10-18 11 → 2026-11-17 17（+6）
 
 
 ---

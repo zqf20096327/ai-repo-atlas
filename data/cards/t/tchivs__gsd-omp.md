@@ -1,6 +1,6 @@
 # tchivs/gsd-omp
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tchivs/gsd-omp) · [官网](https://github.com/tchivs/gsd-omp#readme) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/tchivs/gsd-omp) · [官网](https://github.com/tchivs/gsd-omp#readme) · 个人维护 · 中文 README
 
 **把 GSD 编排系统接入 Oh My Pi 的第三方宿主插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tchivs/gsd-omp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "tchivs/gsd-omp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

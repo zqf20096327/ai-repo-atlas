@@ -1,6 +1,6 @@
 # AgentToolkit/altk-evolve
 
-⭐ 135 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/AgentToolkit/altk-evolve) · [官网](https://agenttoolkit.github.io/altk-evolve/) · 组织维护
+⭐ 140 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AgentToolkit/altk-evolve) · [官网](https://agenttoolkit.github.io/altk-evolve/) · 组织维护
 
 **让 AI agent 从轨迹中学习经验的记忆中间件（IBM）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentToolkit/altk-evolve 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 123 --> 136
-    line [124, 129, 132, 131, 132, 134, 135, 135]
+    title "AgentToolkit/altk-evolve 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 123 --> 141
+    line [124, 129, 132, 131, 132, 134, 135, 131, 136, 137, 138, 139, 140, 140]
 ```
 
-2026-10-18 124 → 2026-11-02 135（+11）
+2026-10-18 124 → 2026-11-17 140（+16）
 
 
 ---

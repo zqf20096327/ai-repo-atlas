@@ -1,6 +1,6 @@
 # pinecone-io/pinecone-ts-client
 
-⭐ 280 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/pinecone-io/pinecone-ts-client) · [官网](https://www.pinecone.io) · 组织维护
+⭐ 279 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/pinecone-io/pinecone-ts-client) · [官网](https://www.pinecone.io) · 组织维护
 
 **Pinecone 向量数据库的官方 TypeScript/Node 客户端 SDK**
 
@@ -44,13 +44,13 @@ Pinecone 官方维护的 TypeScript SDK，面向在服务端构建全文检索�
 
 ```mermaid
 xychart-beta
-    title "pinecone-io/pinecone-ts-client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "pinecone-io/pinecone-ts-client 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 278 --> 281
-    line [279, 280, 280]
+    line [279, 280, 279, 279]
 ```
 
-2026-10-18 279 → 2026-11-02 280（+1）
+2026-10-18 279 → 2026-11-17 279（+0）
 
 
 ---

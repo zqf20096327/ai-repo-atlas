@@ -1,6 +1,6 @@
 # lfnovo/esperanto
 
-⭐ 225 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/lfnovo/esperanto) · 个人维护 · 中文 README
+⭐ 223 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/lfnovo/esperanto) · 个人维护 · 中文 README
 
 **统一多种 AI 模型服务商接口的轻量 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lfnovo/esperanto 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "lfnovo/esperanto 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 220 --> 226
-    line [221, 222, 223, 225, 225]
+    line [221, 222, 223, 225, 222, 224, 223, 223]
 ```
 
-2026-10-18 221 → 2026-11-02 225（+4）
+2026-10-18 221 → 2026-11-17 223（+2）
 
 
 ---

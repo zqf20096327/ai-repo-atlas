@@ -1,6 +1,6 @@
 # FreedomIntelligence/MTalk-Bench
 
-⭐ 20 · JavaScript · Apache-2.0 · 推送 2025-11-19 · [GitHub](https://github.com/FreedomIntelligence/MTalk-Bench) · [官网](https://freedomintelligence.github.io/MTalk-Bench/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多轮对话场景下评测语音到语音 LLM 的基准**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "FreedomIntelligence/MTalk-Bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-14 20（+0）
 
 
 ---

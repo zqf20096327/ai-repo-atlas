@@ -1,6 +1,6 @@
 # aiDAPTIV-Phison/aiDAPTIV
 
-⭐ 21 · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/aiDAPTIV-Phison/aiDAPTIV) · [官网](https://phisonaidaptiv.com/) · 组织维护
+⭐ 22 · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/aiDAPTIV-Phison/aiDAPTIV) · [官网](https://phisonaidaptiv.com/) · 组织维护
 
 **用 NVMe SSD 扩展 GPU 显存的 LLM 训练/推理中间件**
 
@@ -45,13 +45,13 @@ Phison Pascari 的 aiDAPTIV 存储加速平台：以高性能 NVMe SSD（aiDAPTI
 
 ```mermaid
 xychart-beta
-    title "aiDAPTIV-Phison/aiDAPTIV 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "aiDAPTIV-Phison/aiDAPTIV 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # brycewang-stanford/stata-code
 
-⭐ 55 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/brycewang-stanford/stata-code) · 组织维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/brycewang-stanford/stata-code) · 组织维护 · 中文 README
 
 **让 LLM 智能体与 Jupyter/VS Code 驱动 Stata 跑实证研究的桥接工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/stata-code 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "brycewang-stanford/stata-code 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 49 --> 56
-    line [50, 51, 52, 53, 54, 55, 55]
+    line [50, 51, 52, 53, 54, 55, 52, 55, 55]
 ```
 
-2026-10-18 50 → 2026-11-02 55（+5）
+2026-10-18 50 → 2026-11-17 55（+5）
 
 
 ---

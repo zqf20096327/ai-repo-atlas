@@ -1,6 +1,6 @@
 # SergioTermann/awesome-post-training-RL
 
-⭐ 52 · MIT · 推送 2026-09-13 · [GitHub](https://github.com/SergioTermann/awesome-post-training-RL) · 个人维护 · 中文 README
+⭐ 53 · MIT · 推送 2026-09-13 · [GitHub](https://github.com/SergioTermann/awesome-post-training-RL) · 个人维护 · 中文 README
 
 **LLM 强化学习后训练论文策展清单（55 篇，7 类）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SergioTermann/awesome-post-training-RL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 49 --> 53
-    line [50, 52, 52]
+    title "SergioTermann/awesome-post-training-RL 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 49 --> 54
+    line [50, 52, 53, 53]
 ```
 
-2026-10-18 50 → 2026-11-02 52（+2）
+2026-10-18 50 → 2026-11-17 53（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-uncensored-ai-image-models
 
-⭐ 14 · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) · 个人维护
+⭐ 19 · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) · 个人维护
 
 **社区维护的低过滤 AI 图像模型与端点编目清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/awesome-uncensored-ai-image-models 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 13, 14, 14]
+    title "Anil-matcha/awesome-uncensored-ai-image-models 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 20
+    line [10, 11, 13, 14, 11, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 10 → 2026-11-02 14（+4）
+2026-10-18 10 → 2026-11-17 19（+9）
 
 
 ---

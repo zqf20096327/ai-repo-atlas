@@ -1,6 +1,6 @@
 # J-Pster/Psters_AI_Workflow
 
-⭐ 289 · JavaScript · MIT · 推送 2026-03-18 · [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) · [官网](https://github.com/J-Pster/Psters_AI_Workflow/wiki) · 个人维护 · 中文 README
+⭐ 286 · JavaScript · MIT · 推送 2026-03-18 · [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) · [官网](https://github.com/J-Pster/Psters_AI_Workflow/wiki) · 个人维护 · 中文 README
 
 **面向软件团队的自文档化、模型无关 AI 开发工作流插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "J-Pster/Psters_AI_Workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 288 --> 290
-    line [289, 289]
+    title "J-Pster/Psters_AI_Workflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 285 --> 290
+    line [289, 286, 286]
 ```
 
-2026-10-18 289 → 2026-11-02 289（+0）
+2026-10-18 289 → 2026-11-17 286（-3）
 
 
 ---

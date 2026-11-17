@@ -1,6 +1,6 @@
 # lucidrains/metacontroller
 
-⭐ 107 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/lucidrains/metacontroller) · 个人维护
+⭐ 107 · Jupyter Notebook · MIT · 推送 2026-11-05 · [GitHub](https://github.com/lucidrains/metacontroller) · 个人维护
 
 **MetaController 论文的 PyTorch 实现：自回归模型的分层强化学习**
 
@@ -46,12 +46,12 @@ Google Paradigms of Intelligence 团队论文 "Emergent temporal abstractions in
 ```mermaid
 xychart-beta
     title "lucidrains/metacontroller 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-18 107 → 2026-11-02 107（+0）
+2026-10-18 107 → 2026-11-17 107（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hec-ovi/gamentic
 
-⭐ 29 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/hec-ovi/gamentic) · [官网](https://hec-ovi.github.io/gamentic/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/hec-ovi/gamentic) · [官网](https://hec-ovi.github.io/gamentic/) · 组织维护
 
 **自托管本地 AI 地下城 RPG：浏览器游玩，全本地生成文本/图像/语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hec-ovi/gamentic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 26 --> 30
-    line [27, 29, 29]
+    title "hec-ovi/gamentic 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 29, 27, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

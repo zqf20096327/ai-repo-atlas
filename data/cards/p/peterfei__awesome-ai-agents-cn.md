@@ -1,6 +1,6 @@
 # peterfei/awesome-ai-agents-cn
 
-⭐ 21 · 推送 2026-06-02 · [GitHub](https://github.com/peterfei/awesome-ai-agents-cn) · [官网](https://github.com/peterfei/awesome-ai-agents-cn) · 个人维护 · 中文 README
+⭐ 23 · 推送 2026-06-02 · [GitHub](https://github.com/peterfei/awesome-ai-agents-cn) · [官网](https://github.com/peterfei/awesome-ai-agents-cn) · 个人维护 · 中文 README
 
 **中文 AI Agent 落地案例精选清单，覆盖 12 类应用场景**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "peterfei/awesome-ai-agents-cn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "peterfei/awesome-ai-agents-cn 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 21, 19, 21, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 23（+5）
 
 
 ---

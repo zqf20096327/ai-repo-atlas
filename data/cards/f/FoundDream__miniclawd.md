@@ -1,6 +1,6 @@
 # FoundDream/miniclawd
 
-⭐ 138 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/FoundDream/miniclawd) · [官网](https://founddream.github.io/miniclawd/) · 个人维护 · 中文 README
+⭐ 139 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/FoundDream/miniclawd) · [官网](https://founddream.github.io/miniclawd/) · 个人维护 · 中文 README
 
 **TypeScript 编写的轻量个人 AI 助手，多模型多渠道**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FoundDream/miniclawd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
+    title "FoundDream/miniclawd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 137 --> 140
-    line [138, 139, 138, 138]
+    line [138, 139, 138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-11-02 138（+0）
+2026-10-18 138 → 2026-11-17 139（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kstonekuan/simple-chromium-ai
 
-⭐ 269 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/kstonekuan/simple-chromium-ai) · [官网](https://www.npmjs.com/package/simple-chromium-ai) · 个人维护
+⭐ 268 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/kstonekuan/simple-chromium-ai) · [官网](https://www.npmjs.com/package/simple-chromium-ai) · 个人维护
 
 **封装 Chrome 内置 AI API 的 TypeScript 轻量库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kstonekuan/simple-chromium-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 268 --> 270
-    line [269, 269]
+    title "kstonekuan/simple-chromium-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 267 --> 270
+    line [269, 268, 268]
 ```
 
-2026-10-18 269 → 2026-11-02 269（+0）
+2026-10-18 269 → 2026-11-17 268（-1）
 
 
 ---

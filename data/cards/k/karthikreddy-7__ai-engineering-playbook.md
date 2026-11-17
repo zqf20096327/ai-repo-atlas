@@ -1,6 +1,6 @@
 # karthikreddy-7/ai-engineering-playbook
 
-⭐ 63 · MDX · MIT · 推送 2026-08-02 · [GitHub](https://github.com/karthikreddy-7/ai-engineering-playbook) · [官网](https://karthikreddy-7.github.io/ai-engineering-playbook/) · 个人维护
+⭐ 64 · MDX · MIT · 推送 2026-08-02 · [GitHub](https://github.com/karthikreddy-7/ai-engineering-playbook) · [官网](https://karthikreddy-7.github.io/ai-engineering-playbook/) · 个人维护
 
 **应用 AI 工程学习路径站点：RAG、向量检索、agents、MCP 等教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "karthikreddy-7/ai-engineering-playbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "karthikreddy-7/ai-engineering-playbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-11-02 63（+1）
+2026-10-18 62 → 2026-11-17 64（+2）
 
 
 ---

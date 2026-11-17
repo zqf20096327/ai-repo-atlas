@@ -1,6 +1,6 @@
 # northflank/skills
 
-⭐ 39 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/northflank/skills) · [官网](https://northflank.com) · 组织维护
+⭐ 41 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/northflank/skills) · [官网](https://northflank.com) · 组织维护
 
 **供编码 Agent 使用的 Northflank 部署运维技能包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "northflank/skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39, 39]
+    title "northflank/skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 38, 39, 38, 39, 40, 41, 41]
 ```
 
-2026-10-18 36 → 2026-11-02 39（+3）
+2026-10-18 36 → 2026-11-17 41（+5）
 
 
 ---

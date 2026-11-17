@@ -1,6 +1,6 @@
 # huggingface/Microsoft-Azure
 
-⭐ 17 · Makefile · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/Microsoft-Azure) · [官网](https://hf.co/docs/microsoft-azure) · 组织维护
+⭐ 17 · Makefile · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/Microsoft-Azure) · [官网](https://hf.co/docs/microsoft-azure) · 组织维护
 
 **Hugging Face 与 Microsoft Azure 合作文档与示例仓库**
 
@@ -44,12 +44,12 @@ Hugging Face 官方维护的 Azure 合作内容仓库：收录 Hugging Face on M
 ```mermaid
 xychart-beta
     title "huggingface/Microsoft-Azure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

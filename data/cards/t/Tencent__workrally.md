@@ -1,6 +1,6 @@
 # Tencent/workrally
 
-⭐ 180 · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/Tencent/workrally) · [官网](https://workrally.qq.com/) · 组织维护 · 中文 README
+⭐ 195 · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/Tencent/workrally) · [官网](https://workrally.qq.com/) · 组织维护 · 中文 README
 
 **面向 AI Agent 的 AIGC 漫剧视频创作 CLI 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/workrally 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 172 --> 181
-    line [173, 177, 178, 179, 180]
+    title "Tencent/workrally 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 171 --> 197
+    line [173, 177, 178, 179, 180, 179, 186, 188, 191, 193, 194, 195, 195]
 ```
 
-2026-10-18 173 → 2026-11-02 180（+7）
+2026-10-18 173 → 2026-11-17 195（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # etsi-ai/etsi-watchdog
 
-⭐ 33 · Python · BSD-2-Clause · 推送 2025-12-30 · [GitHub](https://github.com/etsi-ai/etsi-watchdog) · 组织维护
+⭐ 33 · Python · BSD-2-Clause · 推送 2026-11-04 · [GitHub](https://github.com/etsi-ai/etsi-watchdog) · 组织维护
 
 **ML 管线数据漂移检测与监控库（Python）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "etsi-ai/etsi-watchdog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

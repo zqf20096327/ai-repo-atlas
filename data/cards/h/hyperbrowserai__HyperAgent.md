@@ -1,6 +1,6 @@
 # hyperbrowserai/HyperAgent
 
-⭐ 1,603 · TypeScript · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/hyperbrowserai/HyperAgent) · [官网](https://www.hyperbrowser.ai/) · 组织维护
+⭐ 1,609 · TypeScript · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/hyperbrowserai/HyperAgent) · [官网](https://www.hyperbrowser.ai/) · 组织维护
 
 **给开发者的 LLM 驱动浏览器自动化库（Playwright+AI）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hyperbrowserai/HyperAgent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1597 --> 1604
-    line [1598, 1599, 1598, 1599, 1601, 1602, 1603, 1603]
+    title "hyperbrowserai/HyperAgent 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1597 --> 1610
+    line [1598, 1599, 1598, 1599, 1601, 1602, 1603, 1599, 1605, 1606, 1605, 1606, 1608, 1609, 1609]
 ```
 
-2026-10-18 1,598 → 2026-11-02 1,603（+5）
+2026-10-18 1,598 → 2026-11-17 1,609（+11）
 
 
 ---

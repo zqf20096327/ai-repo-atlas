@@ -1,6 +1,6 @@
 # gautierdag/plancraft
 
-⭐ 31 · Python · MIT · 推送 2025-11-07 · [GitHub](https://github.com/gautierdag/plancraft) · [官网](https://gautierdag.github.io/plancraft/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Minecraft 合成任务环境与 LLM agent 规划能力评测套件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gautierdag/plancraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-07 31（+0）
 
 
 ---

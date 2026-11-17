@@ -1,6 +1,6 @@
 # aashari/mcp-server-atlassian-confluence
 
-⭐ 62 · TypeScript · 推送 2026-02-22 · [GitHub](https://github.com/aashari/mcp-server-atlassian-confluence) · 个人维护
+⭐ 63 · TypeScript · 推送 2026-02-22 · [GitHub](https://github.com/aashari/mcp-server-atlassian-confluence) · 个人维护
 
 **让 AI 助手通过 MCP 访问 Confluence 知识库的服务器**
 
@@ -44,13 +44,13 @@ Node.js/TypeScript 实现的 MCP server，把 Atlassian Confluence 的 REST API�
 
 ```mermaid
 xychart-beta
-    title "aashari/mcp-server-atlassian-confluence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "aashari/mcp-server-atlassian-confluence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

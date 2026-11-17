@@ -1,6 +1,6 @@
 # DATASET.md — 数据集卡与字段字典
 
-主表 `data/catalog.jsonl`,一仓一行(JSON Lines,UTF-8,按 `fn` 字典序稳定排序)。
+主表为分片 JSON Lines(`data/catalog/part00..07.jsonl`,UTF-8,片内按 `fn` 字典序稳定排序;分片键 `crc32(fn)%8`,插入新仓不扰动其他片),`data/catalog/MANIFEST.json` 载片名/行数/字节/sha256。读全表:`cat data/catalog/part*.jsonl`。
 卡片数据版本与格式版本见文末。校验文件:`data/schema/card.schema.json`。
 
 ## 顶层结构

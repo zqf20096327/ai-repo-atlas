@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Missing-Data-Doctor
 
-⭐ 19 · Python · MIT · 推送 2025-11-15 · [GitHub](https://github.com/AmirhosseinHonardoust/Missing-Data-Doctor) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **表格数据缺失值诊断与填补评估工具，输出 HTML 报告**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Missing-Data-Doctor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-10 19（+0）
 
 
 ---

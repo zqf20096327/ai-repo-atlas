@@ -1,6 +1,6 @@
 # FIIT-IAU/IAU-course
 
-⭐ 56 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/FIIT-IAU/IAU-course) · 组织维护
+⭐ 55 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/FIIT-IAU/IAU-course) · 组织维护
 
 **布拉迪斯拉发理工大学的数据科学导论课程仓库**
 
@@ -43,13 +43,13 @@ FIIT STU（斯洛伐克理工大学）IAU_B 课程 'Intelligent Data Analysis' �
 
 ```mermaid
 xychart-beta
-    title "FIIT-IAU/IAU-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
+    title "FIIT-IAU/IAU-course 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 53 --> 57
-    line [54, 55, 56, 56]
+    line [54, 55, 56, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 56（+2）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

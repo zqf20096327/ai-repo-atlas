@@ -1,6 +1,6 @@
 # LianjiaTech/bella-openapi
 
-⭐ 240 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/LianjiaTech/bella-openapi) · [官网](https://api.bella.top) · 组织维护 · 中文 README
+⭐ 241 · Java · MIT · 推送 2026-11-10 · [GitHub](https://github.com/LianjiaTech/bella-openapi) · [官网](https://api.bella.top) · 组织维护 · 中文 README
 
 **企业级 AI API 网关：聚合聊天、语音、图像多种 AI 能力并计费限流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LianjiaTech/bella-openapi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 239 --> 241
-    line [240, 240]
+    title "LianjiaTech/bella-openapi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 239 --> 242
+    line [240, 241, 241]
 ```
 
-2026-10-18 240 → 2026-11-02 240（+0）
+2026-10-18 240 → 2026-11-17 241（+1）
 
 
 ---

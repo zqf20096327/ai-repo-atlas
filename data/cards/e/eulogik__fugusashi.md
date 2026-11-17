@@ -1,6 +1,6 @@
 # eulogik/fugusashi
 
-⭐ 23 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/eulogik/fugusashi) · [官网](https://eulogik.github.io/fugusashi/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/eulogik/fugusashi) · [官网](https://eulogik.github.io/fugusashi/) · 个人维护
 
 **自托管的 LLM 路由与多智能体编排引擎，可解释路由决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eulogik/fugusashi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    title "eulogik/fugusashi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-11", "2026-11-17"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    line [21, 22, 23, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

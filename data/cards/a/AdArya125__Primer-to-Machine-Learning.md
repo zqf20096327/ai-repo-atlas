@@ -1,6 +1,6 @@
 # AdArya125/Primer-to-Machine-Learning
 
-⭐ 39 · Jupyter Notebook · MIT · 推送 2026-08-21 · [GitHub](https://github.com/AdArya125/Primer-to-Machine-Learning) · 个人维护
+⭐ 42 · Jupyter Notebook · MIT · 推送 2026-08-21 · [GitHub](https://github.com/AdArya125/Primer-to-Machine-Learning) · 个人维护
 
 **机器学习入门到进阶的结构化学习路线指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdArya125/Primer-to-Machine-Learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    title "AdArya125/Primer-to-Machine-Learning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 35 --> 43
+    line [36, 37, 38, 39, 37, 41, 42, 42]
 ```
 
-2026-10-18 36 → 2026-11-02 39（+3）
+2026-10-18 36 → 2026-11-17 42（+6）
 
 
 ---

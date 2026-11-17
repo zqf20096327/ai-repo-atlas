@@ -1,6 +1,6 @@
 # yonatangross/orchestkit
 
-⭐ 300 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yonatangross/orchestkit) · [官网](https://orchestkit.dev) · 个人维护
+⭐ 304 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yonatangross/orchestkit) · [官网](https://orchestkit.dev) · 个人维护
 
 **Claude Code 开发插件：110 技能、36 agents、162 hooks 的开发工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yonatangross/orchestkit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 294 --> 301
-    line [295, 296, 298, 299, 300, 300]
+    title "yonatangross/orchestkit 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 294 --> 305
+    line [295, 296, 298, 299, 300, 298, 300, 301, 302, 303, 304, 304]
 ```
 
-2026-10-18 295 → 2026-11-02 300（+5）
+2026-10-18 295 → 2026-11-17 304（+9）
 
 
 ---

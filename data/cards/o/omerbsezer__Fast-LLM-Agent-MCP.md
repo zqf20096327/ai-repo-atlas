@@ -1,6 +1,6 @@
 # omerbsezer/Fast-LLM-Agent-MCP
 
-⭐ 93 · Python · 推送 2026-11-01 · [GitHub](https://github.com/omerbsezer/Fast-LLM-Agent-MCP) · 个人维护
+⭐ 94 · HTML · 推送 2026-11-02 · [GitHub](https://github.com/omerbsezer/Fast-LLM-Agent-MCP) · 个人维护
 
 **LLM/Agent/MCP 概念教程与三框架示例代码合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "omerbsezer/Fast-LLM-Agent-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 90 --> 94
-    line [91, 92, 93, 93]
+    title "omerbsezer/Fast-LLM-Agent-MCP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 90 --> 95
+    line [91, 92, 93, 91, 94, 94]
 ```
 
-2026-10-18 91 → 2026-11-02 93（+2）
+2026-10-18 91 → 2026-11-17 94（+3）
 
 
 ---

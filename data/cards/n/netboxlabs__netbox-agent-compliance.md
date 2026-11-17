@@ -1,6 +1,6 @@
 # netboxlabs/netbox-agent-compliance
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/netboxlabs/netbox-agent-compliance) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/netboxlabs/netbox-agent-compliance) · 组织维护
 
 **用自然语言规则对 NetBox 做合规检查的 AI agent 示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "netboxlabs/netbox-agent-compliance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "netboxlabs/netbox-agent-compliance 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

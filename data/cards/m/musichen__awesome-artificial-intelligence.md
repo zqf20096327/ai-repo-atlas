@@ -1,6 +1,6 @@
 # musichen/awesome-artificial-intelligence
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/musichen/awesome-artificial-intelligence) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/musichen/awesome-artificial-intelligence) · 个人维护
 
 **面向开发者的生成式 AI 与 agent 学习资源精选清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "musichen/awesome-artificial-intelligence 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "musichen/awesome-artificial-intelligence 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 15, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

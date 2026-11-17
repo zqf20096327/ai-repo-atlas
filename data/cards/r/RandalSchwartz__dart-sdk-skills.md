@@ -1,6 +1,6 @@
 # RandalSchwartz/dart-sdk-skills
 
-⭐ 34 · Dart · MIT · 推送 2026-10-29 · [GitHub](https://github.com/RandalSchwartz/dart-sdk-skills) · 个人维护
+⭐ 35 · Dart · MIT · 推送 2026-11-15 · [GitHub](https://github.com/RandalSchwartz/dart-sdk-skills) · 个人维护
 
 **Dart/Flutter SDK 版本知识技能包：补齐 AI 编程代理的知识空档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RandalSchwartz/dart-sdk-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "RandalSchwartz/dart-sdk-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 32, 34, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 35（+3）
 
 
 ---

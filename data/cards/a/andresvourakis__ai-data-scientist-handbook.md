@@ -1,6 +1,6 @@
 # andresvourakis/ai-data-scientist-handbook
 
-⭐ 134 · 推送 2025-12-16 · [GitHub](https://github.com/andresvourakis/ai-data-scientist-handbook) · [官网](https://www.linkedin.com/in/andresvourakis) · 个人维护
+⭐ 134 · 推送 2026-11-03 · [GitHub](https://github.com/andresvourakis/ai-data-scientist-handbook) · [官网](https://www.linkedin.com/in/andresvourakis) · 个人维护
 
 **面向数据科学家的 AI 工具与资源策展手册**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "andresvourakis/ai-data-scientist-handbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 132 --> 135
     line [133, 134, 134]
 ```
 
-2026-10-18 133 → 2026-11-02 134（+1）
+2026-10-18 133 → 2026-11-17 134（+1）
 
 
 ---

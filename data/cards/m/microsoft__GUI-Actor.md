@@ -1,6 +1,6 @@
 # microsoft/GUI-Actor
 
-⭐ 424 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/microsoft/GUI-Actor) · [官网](https://microsoft.github.io/GUI-Actor/) · 组织维护
+⭐ 425 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/microsoft/GUI-Actor) · [官网](https://microsoft.github.io/GUI-Actor/) · 组织维护
 
 **GUI Agent 的免坐标视觉定位模型：为界面元素定位动作区域**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/GUI-Actor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 420 --> 425
-    line [421, 422, 423, 424, 424]
+    title "microsoft/GUI-Actor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 420 --> 426
+    line [421, 422, 423, 424, 422, 424, 425, 425]
 ```
 
-2026-10-18 421 → 2026-11-02 424（+3）
+2026-10-18 421 → 2026-11-17 425（+4）
 
 
 ---

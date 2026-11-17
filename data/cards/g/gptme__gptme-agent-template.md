@@ -1,6 +1,6 @@
 # gptme/gptme-agent-template
 
-⭐ 57 · Shell · 推送 2026-11-01 · [GitHub](https://github.com/gptme/gptme-agent-template) · [官网](https://gptme.org) · 组织维护
+⭐ 58 · Shell · 推送 2026-11-16 · [GitHub](https://github.com/gptme/gptme-agent-template) · [官网](https://gptme.org) · 组织维护
 
 **gptme 持久自治 agent 的 git 工作区模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gptme/gptme-agent-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 53 --> 58
-    line [54, 56, 57, 57]
+    title "gptme/gptme-agent-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 53 --> 59
+    line [54, 56, 57, 58, 58]
 ```
 
-2026-10-18 54 → 2026-11-02 57（+3）
+2026-10-18 54 → 2026-11-17 58（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # LuckyOneTwoThree/vibe-skill
 
-⭐ 33 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/LuckyOneTwoThree/vibe-skill) · [官网](https://luckyonetwothree.github.io/all-skill-html/) · 个人维护 · 中文 README
+⭐ 36 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/LuckyOneTwoThree/vibe-skill) · [官网](https://luckyonetwothree.github.io/all-skill-html/) · 个人维护 · 中文 README
 
 **127 个覆盖产品全生命周期的 AI Agent 技能集（PM×UI×后端）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LuckyOneTwoThree/vibe-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "LuckyOneTwoThree/vibe-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 34, 35, 36, 36]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 36（+4）
 
 
 ---

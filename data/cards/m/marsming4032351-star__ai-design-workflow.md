@@ -1,6 +1,6 @@
 # marsming4032351-star/ai-design-workflow
 
-⭐ 11 · Python · MIT · 推送 2026-02-08 · [GitHub](https://github.com/marsming4032351-star/ai-design-workflow) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-02-08 · [GitHub](https://github.com/marsming4032351-star/ai-design-workflow) · 个人维护 · 中文 README
 
 **面向室内设计师的 6 智能体提示词工作流技能库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "marsming4032351-star/ai-design-workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "marsming4032351-star/ai-design-workflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

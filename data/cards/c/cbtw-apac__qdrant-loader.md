@@ -1,6 +1,6 @@
 # cbtw-apac/qdrant-loader
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/cbtw-apac/qdrant-loader) · [官网](https://qdrant-loader.net) · 组织维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/cbtw-apac/qdrant-loader) · [官网](https://qdrant-loader.net) · 组织维护
 
 **向 Qdrant 摄入多源数据并经 MCP 提供语义搜索的工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cbtw-apac/qdrant-loader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "cbtw-apac/qdrant-loader 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    line [56, 57, 56, 57, 56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

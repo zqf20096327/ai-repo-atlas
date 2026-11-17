@@ -1,6 +1,6 @@
 # huggingface/harbor-hf
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/harbor-hf) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/huggingface/harbor-hf) · 组织维护
 
 **在 Hugging Face 基础设施上托管运行 Harbor 基准测试的控制服务**
 
@@ -45,13 +45,13 @@ Harbor-HF 是一个托管控制服务：提交 Harbor 基准测试运行、启�
 
 ```mermaid
 xychart-beta
-    title "huggingface/harbor-hf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "huggingface/harbor-hf 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Publikey/imference-desktop
 
-⭐ 13 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Publikey/imference-desktop) · [官网](https://imference.com/desktop) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Publikey/imference-desktop) · [官网](https://imference.com/desktop) · 组织维护 · 中文 README
 
 **本地 GPU 或云端生成 AI 图像/视频的一键桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Publikey/imference-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 12, 13, 13]
+    title "Publikey/imference-desktop 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 12, 13, 10, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # NiobiumInc/niobium-skills
 
-⭐ 14 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/NiobiumInc/niobium-skills) · 组织维护
+⭐ 14 · C++ · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/NiobiumInc/niobium-skills) · 组织维护
 
 **指导 AI 编程代理构建 FHE 加密计算应用的技能包**
 
@@ -46,12 +46,12 @@ Niobium 维护的 Agent Skills 集合：以 SKILL.md 便携包形式，为支持
 ```mermaid
 xychart-beta
     title "NiobiumInc/niobium-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SirhanMacx/Claw-ED
 
-⭐ 63 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SirhanMacx/Claw-ED) · [官网](https://sirhanmacx.github.io/Claw-ED) · 组织维护
+⭐ 65 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SirhanMacx/Claw-ED) · [官网](https://sirhanmacx.github.io/Claw-ED) · 组织维护
 
 **本地优先的 AI 教学助手：用教师自有课件生成可编辑教案与课件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SirhanMacx/Claw-ED 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "SirhanMacx/Claw-ED 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 65, 65]
 ```
 
-2026-10-18 62 → 2026-11-02 63（+1）
+2026-10-18 62 → 2026-11-17 65（+3）
 
 
 ---

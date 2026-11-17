@@ -1,6 +1,6 @@
 # linogaliana/python-datascientist
 
-⭐ 185 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/linogaliana/python-datascientist) · [官网](https://pythonds.linogaliana.fr/) · 个人维护
+⭐ 187 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/linogaliana/python-datascientist) · [官网](https://pythonds.linogaliana.fr/) · 个人维护
 
 **面向 ENSAE/ENSAI 学生的 Python 数据科学课程（含 NLP）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linogaliana/python-datascientist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 183 --> 186
-    line [184, 185, 185]
+    title "linogaliana/python-datascientist 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 183 --> 188
+    line [184, 185, 184, 186, 187, 187]
 ```
 
-2026-10-18 184 → 2026-11-02 185（+1）
+2026-10-18 184 → 2026-11-17 187（+3）
 
 
 ---

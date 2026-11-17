@@ -1,6 +1,6 @@
 # Calamari/BehaviorTree.js
 
-⭐ 339 · JavaScript · 推送 2026-03-09 · [GitHub](https://github.com/Calamari/BehaviorTree.js) · 个人维护
+⭐ 340 · JavaScript · 推送 2026-03-09 · [GitHub](https://github.com/Calamari/BehaviorTree.js) · 个人维护
 
 **给游戏开发者的 JavaScript 行为树实现库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Calamari/BehaviorTree.js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 338 --> 340
-    line [339, 339]
+    title "Calamari/BehaviorTree.js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 338 --> 341
+    line [339, 340, 340]
 ```
 
-2026-10-18 339 → 2026-11-02 339（+0）
+2026-10-18 339 → 2026-11-17 340（+1）
 
 
 ---

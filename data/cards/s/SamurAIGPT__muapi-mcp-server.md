@@ -1,6 +1,6 @@
 # SamurAIGPT/muapi-mcp-server
 
-⭐ 12 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/SamurAIGPT/muapi-mcp-server) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=muapi-mcp-server) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/SamurAIGPT/muapi-mcp-server) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=muapi-mcp-server) · 组织维护
 
 **将 muapi.ai 百余个生成模型接入 MCP 客户端的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/muapi-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "SamurAIGPT/muapi-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

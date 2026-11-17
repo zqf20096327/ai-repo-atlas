@@ -1,6 +1,6 @@
 # wshm-dev/wshm
 
-⭐ 87 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/wshm-dev/wshm) · [官网](https://wshm.dev) · 组织维护
+⭐ 93 · Rust · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/wshm-dev/wshm) · [官网](https://wshm.dev) · 组织维护
 
 **自托管的仓库维护 agent：AI 分诊 issue、分析 PR、管理合并队列**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wshm-dev/wshm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    title "wshm-dev/wshm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 85 --> 94
+    line [86, 87, 86, 90, 91, 92, 93, 93]
 ```
 
-2026-10-18 86 → 2026-11-02 87（+1）
+2026-10-18 86 → 2026-11-17 93（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # deciqAI/knowledge-skills
 
-⭐ 13 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/deciqAI/knowledge-skills) · [官网](https://www.deciqai.com/skills) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/deciqAI/knowledge-skills) · [官网](https://www.deciqai.com/skills) · 组织维护
 
 **AI agent 思维框架技能库：253 个可安装的推理心智模型**
 
@@ -44,13 +44,13 @@ deciqAI 维护的开源 Agent Skills 集合：将 253 个思维框架（第一�
 
 ```mermaid
 xychart-beta
-    title "deciqAI/knowledge-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "deciqAI/knowledge-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 15, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

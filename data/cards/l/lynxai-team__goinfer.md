@@ -1,6 +1,6 @@
 # lynxai-team/goinfer
 
-⭐ 14 · Go · MIT · 推送 2026-10-11 · [GitHub](https://github.com/lynxai-team/goinfer) · [官网](https://synw.github.io/goinfer/) · 组织维护
+⭐ 15 · Go · MIT · 推送 2026-10-11 · [GitHub](https://github.com/lynxai-team/goinfer) · [官网](https://synw.github.io/goinfer/) · 组织维护
 
 **本地 LLM 推理代理：在远程 GPU 机器上切换 GGUF 模型并经 API 暴露**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lynxai-team/goinfer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "lynxai-team/goinfer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

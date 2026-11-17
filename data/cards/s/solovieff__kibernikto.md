@@ -1,6 +1,6 @@
 # solovieff/kibernikto
 
-⭐ 35 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/solovieff/kibernikto) · [官网](https://telegram.me/cybernoone_bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **接入 Telegram 的多 agent AI 框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "solovieff/kibernikto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-15 35（+0）
 
 
 ---

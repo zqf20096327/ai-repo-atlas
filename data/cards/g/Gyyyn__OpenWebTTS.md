@@ -1,6 +1,6 @@
 # Gyyyn/OpenWebTTS
 
-⭐ 77 · JavaScript · MIT · 推送 2025-11-14 · [GitHub](https://github.com/Gyyyn/OpenWebTTS) · [官网](https://openwebtts.guyra.com.br/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地自托管的 TTS 网页应用：用本地模型朗读 PDF/EPUB**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gyyyn/OpenWebTTS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "Gyyyn/OpenWebTTS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08"]
     y-axis "stars" 73 --> 78
-    line [74, 75, 76, 77]
+    line [74, 75, 76, 77, 74, 77]
 ```
 
-2026-10-18 74 → 2026-11-02 77（+3）
+2026-10-18 74 → 2026-11-08 77（+3）
 
 
 ---

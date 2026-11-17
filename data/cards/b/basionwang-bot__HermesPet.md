@@ -1,6 +1,6 @@
 # basionwang-bot/HermesPet
 
-⭐ 600 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/basionwang-bot/HermesPet) · [官网](https://hermespet.cc) · 个人维护 · 中文 README
+⭐ 605 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/basionwang-bot/HermesPet) · [官网](https://hermespet.cc) · 个人维护 · 中文 README
 
 **macOS 刘海桌宠形态的桌面 AI 伴侣与多 Agent 控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "basionwang-bot/HermesPet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 596 --> 601
-    line [598, 597, 598, 599, 600, 600]
+    title "basionwang-bot/HermesPet 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 596 --> 606
+    line [598, 597, 598, 599, 600, 599, 602, 603, 604, 605, 605]
 ```
 
-2026-10-18 598 → 2026-11-02 600（+2）
+2026-10-18 598 → 2026-11-17 605（+7）
 
 
 ---

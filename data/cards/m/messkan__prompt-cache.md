@@ -1,6 +1,6 @@
 # messkan/prompt-cache
 
-⭐ 425 · Go · MIT · 推送 2026-08-18 · [GitHub](https://github.com/messkan/prompt-cache) · [官网](https://messkan.github.io/prompt-cache) · 个人维护
+⭐ 427 · Go · MIT · 推送 2026-08-18 · [GitHub](https://github.com/messkan/prompt-cache) · [官网](https://messkan.github.io/prompt-cache) · 个人维护
 
 **自托管 LLM 语义缓存代理：相似提示词直接返回缓存回答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "messkan/prompt-cache 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "messkan/prompt-cache 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
     y-axis "stars" 423 --> 429
-    line [428, 426, 425, 424, 425, 425]
+    line [428, 426, 425, 424, 425, 427, 426, 427, 427]
 ```
 
-2026-10-18 428 → 2026-11-02 425（-3）
+2026-10-18 428 → 2026-11-17 427（-1）
 
 
 ---

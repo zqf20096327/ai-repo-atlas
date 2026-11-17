@@ -1,6 +1,6 @@
 # prasanthj/duckdb-jev
 
-⭐ 14 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/prasanthj/duckdb-jev) · [官网](https://docs.typesafe.ai/) · 个人维护
+⭐ 15 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/prasanthj/duckdb-jev) · [官网](https://docs.typesafe.ai/) · 个人维护
 
 **DuckDB 原生扩展：从 SQL 调用 TypeSafe/Jev 做分类与语义判定**
 
@@ -44,13 +44,13 @@ C++ 编写的 DuckDB 扩展，通过 SQL 标量函数（jev/jev_choice/jev_score
 
 ```mermaid
 xychart-beta
-    title "prasanthj/duckdb-jev 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 8 --> 15
-    line [9, 10, 11, 12, 14, 14]
+    title "prasanthj/duckdb-jev 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 8 --> 16
+    line [9, 10, 11, 12, 14, 11, 14, 15, 15]
 ```
 
-2026-10-18 9 → 2026-11-02 14（+5）
+2026-10-18 9 → 2026-11-17 15（+6）
 
 
 ---

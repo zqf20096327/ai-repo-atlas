@@ -1,6 +1,6 @@
 # salmanashraf/mobile-ai-agents
 
-⭐ 34 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/salmanashraf/mobile-ai-agents) · [官网](https://play.google.com/store/apps/details?id=com.sa.outreach.ai) · 个人维护
+⭐ 36 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/salmanashraf/mobile-ai-agents) · [官网](https://play.google.com/store/apps/details?id=com.sa.outreach.ai) · 个人维护
 
 **面向移动开发者的 AI 代理/技能/工作流工具集（19 代理、57 技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "salmanashraf/mobile-ai-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 29 --> 35
-    line [30, 31, 32, 34, 34]
+    title "salmanashraf/mobile-ai-agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 29 --> 37
+    line [30, 31, 32, 34, 31, 35, 36, 36]
 ```
 
-2026-10-18 30 → 2026-11-02 34（+4）
+2026-10-18 30 → 2026-11-17 36（+6）
 
 
 ---

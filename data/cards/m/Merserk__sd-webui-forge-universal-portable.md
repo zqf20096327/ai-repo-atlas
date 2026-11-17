@@ -1,6 +1,6 @@
 # Merserk/sd-webui-forge-universal-portable
 
-⭐ 32 · Batchfile · MIT · 推送 2026-08-30 · [GitHub](https://github.com/Merserk/sd-webui-forge-universal-portable) · 个人维护
+⭐ 34 · Batchfile · MIT · 推送 2026-08-30 · [GitHub](https://github.com/Merserk/sd-webui-forge-universal-portable) · 个人维护
 
 **SD WebUI Forge（Classic/Neo）的 Windows 全便携安装器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Merserk/sd-webui-forge-universal-portable 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "Merserk/sd-webui-forge-universal-portable 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 31, 32, 33, 34, 34]
 ```
 
-2026-10-18 30 → 2026-11-02 32（+2）
+2026-10-18 30 → 2026-11-17 34（+4）
 
 
 ---

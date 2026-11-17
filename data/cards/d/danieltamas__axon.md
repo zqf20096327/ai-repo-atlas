@@ -1,6 +1,6 @@
 # danieltamas/axon
 
-⭐ 49 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/danieltamas/axon) · 个人维护
+⭐ 49 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/danieltamas/axon) · 个人维护
 
 **本机 AI 编码代理的协调总线与观测看板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "danieltamas/axon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "danieltamas/axon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    line [48, 49, 48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

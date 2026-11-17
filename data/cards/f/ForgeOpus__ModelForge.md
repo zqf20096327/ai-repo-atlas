@@ -1,6 +1,6 @@
 # ForgeOpus/ModelForge
 
-⭐ 16 · Python · BSD-3-Clause · 推送 2026-05-01 · [GitHub](https://github.com/ForgeOpus/ModelForge) · 组织维护
+⭐ 16 · Python · BSD-3-Clause · 推送 2026-11-15 · [GitHub](https://github.com/ForgeOpus/ModelForge) · 组织维护
 
 **本地 GPU 上无代码微调 LLM 的工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ForgeOpus/ModelForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AI-Hub-Admin/Craftsman-Agent
 
-⭐ 21 · Python · 推送 2026-10-03 · [GitHub](https://github.com/AI-Hub-Admin/Craftsman-Agent) · [官网](https://craftsman-agent.aiagenta2z.com/) · 组织维护 · 中文 README
+⭐ 21 · Python · 推送 2026-11-02 · [GitHub](https://github.com/AI-Hub-Admin/Craftsman-Agent) · [官网](https://craftsman-agent.aiagenta2z.com/) · 组织维护 · 中文 README
 
 **创意设计 Agent 平台：把想法生成为 3D 模型、拼装图纸与实体产品**
 
@@ -46,13 +46,13 @@ Craftsman Agent 是一个创意设计 Agent 应用与商店：通过 20+ 个 Age
 
 ```mermaid
 xychart-beta
-    title "AI-Hub-Admin/Craftsman-Agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-02"]
+    title "AI-Hub-Admin/Craftsman-Agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    line [19, 20, 21, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # schmelczer/great-ai
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/schmelczer/great-ai) · [官网](https://great-ai.scoutinscience.com) · 个人维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/schmelczer/great-ai) · [官网](https://great-ai.schmelczer.dev/) · 个人维护
 
 **把原型 AI 代码自动配置为可部署服务的 Python 框架**
 
@@ -44,13 +44,13 @@ Python 框架，定位在 AI 开发生命周期的原型与部署阶段之间：
 
 ```mermaid
 xychart-beta
-    title "schmelczer/great-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "schmelczer/great-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

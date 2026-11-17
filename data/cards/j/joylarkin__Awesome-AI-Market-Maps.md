@@ -1,6 +1,6 @@
 # joylarkin/Awesome-AI-Market-Maps
 
-⭐ 349 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/joylarkin/Awesome-AI-Market-Maps) · 个人维护
+⭐ 355 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/joylarkin/Awesome-AI-Market-Maps) · 个人维护
 
 **AI 创业市场图（market map）策展清单：500+ 张按季度组织**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joylarkin/Awesome-AI-Market-Maps 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 344 --> 350
-    line [345, 346, 347, 348, 349, 349]
+    title "joylarkin/Awesome-AI-Market-Maps 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 344 --> 356
+    line [345, 346, 347, 348, 349, 346, 350, 351, 353, 355, 355]
 ```
 
-2026-10-18 345 → 2026-11-02 349（+4）
+2026-10-18 345 → 2026-11-17 355（+10）
 
 
 ---

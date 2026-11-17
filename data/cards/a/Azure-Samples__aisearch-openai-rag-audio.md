@@ -1,6 +1,6 @@
 # Azure-Samples/aisearch-openai-rag-audio
 
-⭐ 564 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/Azure-Samples/aisearch-openai-rag-audio) · [官网](https://azure.microsoft.com/products/search) · 组织维护
+⭐ 568 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Azure-Samples/aisearch-openai-rag-audio) · [官网](https://azure.microsoft.com/products/search) · 组织维护
 
 **语音 RAG 应用示例：GPT-4o Realtime 语音问答结合 Azure AI Search**
 
@@ -45,13 +45,13 @@ Azure-Samples 维护的 VoiceRAG 模式示例应用：浏览器采集语音输�
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/aisearch-openai-rag-audio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 561 --> 565
-    line [562, 563, 564, 564]
+    title "Azure-Samples/aisearch-openai-rag-audio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 561 --> 569
+    line [562, 563, 564, 565, 566, 567, 568, 568]
 ```
 
-2026-10-18 562 → 2026-11-02 564（+2）
+2026-10-18 562 → 2026-11-17 568（+6）
 
 
 ---

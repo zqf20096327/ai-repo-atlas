@@ -1,6 +1,6 @@
 # atryx/ai-engineer-roadmap-2026
 
-⭐ 16 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/atryx/ai-engineer-roadmap-2026) · 个人维护
+⭐ 17 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/atryx/ai-engineer-roadmap-2026) · 个人维护
 
 **2026 年 AI 工程师学习路线图：LLM/RAG/Agent/微调/评测分阶段清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "atryx/ai-engineer-roadmap-2026 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "atryx/ai-engineer-roadmap-2026 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # itallstartedwithaidea/google-ads-api-agent
 
-⭐ 32 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/itallstartedwithaidea/google-ads-api-agent) · [官网](https://googleadsagent.ai) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/itallstartedwithaidea/google-ads-api-agent) · [官网](https://itallstartedwithaidea.com/work/buddy-google-ads-agent/) · 个人维护 · 中文 README
 
 **广告投放者的 Claude 驱动 Google Ads 管理 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itallstartedwithaidea/google-ads-api-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "itallstartedwithaidea/google-ads-api-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    line [31, 32, 31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

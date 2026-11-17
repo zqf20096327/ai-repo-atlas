@@ -1,6 +1,6 @@
 # stephenlb/buttercup.sh
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/stephenlb/buttercup.sh) · [官网](https://buttercup.sh/) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/stephenlb/buttercup.sh) · [官网](https://buttercup.sh/) · 个人维护
 
 **浏览器内运行的编程 Agent：静态代码展示 Agent 循环机制**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "stephenlb/buttercup.sh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "stephenlb/buttercup.sh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

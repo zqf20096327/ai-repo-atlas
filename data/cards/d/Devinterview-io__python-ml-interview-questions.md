@@ -1,6 +1,6 @@
 # Devinterview-io/python-ml-interview-questions
 
-⭐ 60 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/python-ml-interview-questions) · 组织维护
+⭐ 61 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/python-ml-interview-questions) · 组织维护
 
 **面向求职者的 Python/ML 面试问答清单（100 题）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/python-ml-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 61
-    line [59, 60]
+    title "Devinterview-io/python-ml-interview-questions 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 58 --> 62
+    line [59, 60, 59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-02 60（+1）
+2026-10-18 59 → 2026-11-17 61（+2）
 
 
 ---

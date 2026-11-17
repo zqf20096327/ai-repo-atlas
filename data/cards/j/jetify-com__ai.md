@@ -1,6 +1,6 @@
 # jetify-com/ai
 
-⭐ 261 · Go · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/jetify-com/ai) · [官网](https://www.jetify.com) · 组织维护
+⭐ 264 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/jetify-com/ai) · [官网](https://www.jetify.com) · 组织维护
 
 **Go 语言的统一 AI SDK：一套接口接入多家 LLM 提供商**
 
@@ -44,13 +44,13 @@ Jetify 维护的开源 Go 库，为 OpenAI、Anthropic 等多家 AI 提供商提
 
 ```mermaid
 xychart-beta
-    title "jetify-com/ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 260 --> 262
-    line [261, 261]
+    title "jetify-com/ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 260 --> 265
+    line [261, 264, 264]
 ```
 
-2026-10-18 261 → 2026-11-02 261（+0）
+2026-10-18 261 → 2026-11-17 264（+3）
 
 
 ---

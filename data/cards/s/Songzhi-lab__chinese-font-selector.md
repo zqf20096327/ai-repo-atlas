@@ -1,6 +1,6 @@
 # Songzhi-lab/chinese-font-selector
 
-⭐ 81 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Songzhi-lab/chinese-font-selector) · 个人维护 · 中文 README
+⭐ 84 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Songzhi-lab/chinese-font-selector) · 个人维护 · 中文 README
 
 **给 AI Agent 的中文字体选配知识包：授权分级+选字矩阵+混排规则**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Songzhi-lab/chinese-font-selector 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 78 --> 82
-    line [79, 80, 81, 81]
+    title "Songzhi-lab/chinese-font-selector 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 78 --> 85
+    line [79, 80, 81, 83, 84, 84]
 ```
 
-2026-10-18 79 → 2026-11-02 81（+2）
+2026-10-18 79 → 2026-11-17 84（+5）
 
 
 ---

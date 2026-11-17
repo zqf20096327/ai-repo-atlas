@@ -1,6 +1,6 @@
 # Sema4AI/actions
 
-⭐ 141 · Python · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/Sema4AI/actions) · [官网](https://sema4.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 Python 编写 MCP 工具/AI Actions，连接 AI Agent 与企业系统**
 
@@ -11,7 +11,7 @@ Sema4.ai Action Server：开发者用 @tool/@action 装饰器标记 Python 函�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Sema4.ai Action Server：开发者用 @tool/@action 装饰器标记 Python 函�
 
 ```mermaid
 xychart-beta
-    title "Sema4AI/actions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "Sema4AI/actions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 139 --> 142
-    line [140, 141, 141]
+    line [140, 141, 140, 140]
 ```
 
-2026-10-18 140 → 2026-11-02 141（+1）
+2026-10-18 140 → 2026-11-07 140（+0）
 
 
 ---

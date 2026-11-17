@@ -1,6 +1,6 @@
 # aws-samples/sample-deep-research-bedrock-agentcore
 
-⭐ 29 · Python · MIT-0 · 推送 2026-06-30 · [GitHub](https://github.com/aws-samples/sample-deep-research-bedrock-agentcore) · 组织维护
+⭐ 30 · Python · MIT-0 · 推送 2026-06-30 · [GitHub](https://github.com/aws-samples/sample-deep-research-bedrock-agentcore) · 组织维护
 
 **部署到 AWS 的深度研究 agent，产出多维研究报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-deep-research-bedrock-agentcore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "aws-samples/sample-deep-research-bedrock-agentcore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

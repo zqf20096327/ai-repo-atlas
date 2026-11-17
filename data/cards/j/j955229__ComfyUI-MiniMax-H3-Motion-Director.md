@@ -1,6 +1,6 @@
 # j955229/ComfyUI-MiniMax-H3-Motion-Director
 
-⭐ 141 · JavaScript · GPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/j955229/ComfyUI-MiniMax-H3-Motion-Director) · 个人维护 · 中文 README
+⭐ 143 · JavaScript · GPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/j955229/ComfyUI-MiniMax-H3-Motion-Director) · 个人维护 · 中文 README
 
 **ComfyUI 的 MiniMax H3 多段视频生成导演节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "j955229/ComfyUI-MiniMax-H3-Motion-Director 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 129 --> 142
-    line [130, 132, 133, 135, 136, 139, 140, 141, 141]
+    title "j955229/ComfyUI-MiniMax-H3-Motion-Director 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 129 --> 144
+    line [130, 132, 133, 135, 136, 139, 140, 141, 136, 141, 143, 143]
 ```
 
-2026-10-18 130 → 2026-11-02 141（+11）
+2026-10-18 130 → 2026-11-17 143（+13）
 
 
 ---

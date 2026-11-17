@@ -1,6 +1,6 @@
 # zhuhanqing/APOLLO
 
-⭐ 367 · Python · NOASSERTION · 推送 2025-11-29 · [GitHub](https://github.com/zhuhanqing/APOLLO) · [官网](https://zhuhanqing.github.io/APOLLO/) · 组织维护
+⭐ 368 · Python · NOASSERTION · 推送 2025-11-29 · [GitHub](https://github.com/zhuhanqing/APOLLO) · [官网](https://zhuhanqing.github.io/APOLLO/) · 组织维护
 
 **面向 LLM 训练的内存高效优化器：SGD 级内存、AdamW 级性能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhuhanqing/APOLLO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 365 --> 368
-    line [366, 367, 367]
+    title "zhuhanqing/APOLLO 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 365 --> 369
+    line [366, 367, 368, 368]
 ```
 
-2026-10-18 366 → 2026-11-02 367（+1）
+2026-10-18 366 → 2026-11-17 368（+2）
 
 
 ---

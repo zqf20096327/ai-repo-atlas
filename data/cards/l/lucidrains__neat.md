@@ -1,6 +1,6 @@
 # lucidrains/neat
 
-⭐ 42 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lucidrains/neat) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lucidrains/neat) · 个人维护
 
 **NEAT 神经进化算法及其衍生研究的实验代码库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/neat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

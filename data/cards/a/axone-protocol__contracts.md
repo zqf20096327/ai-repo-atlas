@@ -1,6 +1,6 @@
 # axone-protocol/contracts
 
-⭐ 123 · Rust · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/axone-protocol/contracts) · [官网](https://axone.xyz) · 组织维护
+⭐ 123 · Rust · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/axone-protocol/contracts) · [官网](https://axone.xyz) · 组织维护
 
 **AXONE 区块链协议的 CosmWasm 智能合约集（治理与凭证）**
 
@@ -45,12 +45,12 @@ AXONE 网络（基于 Cosmos 的区块链）的核心智能合约仓库，用 Ru
 ```mermaid
 xychart-beta
     title "axone-protocol/contracts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-10-18 123 → 2026-11-02 123（+0）
+2026-10-18 123 → 2026-11-17 123（+0）
 
 
 ---

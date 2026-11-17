@@ -1,6 +1,6 @@
 # deepqmc/deepqmc
 
-⭐ 423 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/deepqmc/deepqmc) · 组织维护
+⭐ 424 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/deepqmc/deepqmc) · 组织维护
 
 **深度学习变分量子蒙特卡罗软件套件：求解分子电子基态与激发态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepqmc/deepqmc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 422 --> 424
-    line [423, 423]
+    title "deepqmc/deepqmc 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 422 --> 425
+    line [423, 424, 423, 424, 424]
 ```
 
-2026-10-18 423 → 2026-11-02 423（+0）
+2026-10-18 423 → 2026-11-17 424（+1）
 
 
 ---

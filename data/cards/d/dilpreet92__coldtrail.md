@@ -1,6 +1,6 @@
 # dilpreet92/coldtrail
 
-⭐ 17 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/dilpreet92/coldtrail) · [官网](https://trycanonical.ai) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dilpreet92/coldtrail) · [官网](https://trycanonical.ai) · 个人维护
 
 **单人创始人的本地冷启动外联工具：发现公司、起草并代发邮件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dilpreet92/coldtrail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

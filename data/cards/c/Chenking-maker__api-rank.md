@@ -1,6 +1,6 @@
 # Chenking-maker/api-rank
 
-⭐ 27 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/Chenking-maker/api-rank) · [官网](https://api-rank-lake.vercel.app) · 个人维护 · 中文 README
+⭐ 31 · HTML · 推送 2026-11-15 · [GitHub](https://github.com/Chenking-maker/api-rank) · [官网](https://api-rank-lake.vercel.app) · 个人维护 · 中文 README
 
 **AI API 中转站评测排行网站：166+ 平台多维度评分与选站推荐**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chenking-maker/api-rank 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 18 --> 28
-    line [19, 20, 22, 23, 24, 25, 26, 27]
+    title "Chenking-maker/api-rank 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 32
+    line [19, 20, 22, 23, 24, 25, 26, 27, 22, 28, 29, 31, 31]
 ```
 
-2026-10-18 19 → 2026-11-02 27（+8）
+2026-10-18 19 → 2026-11-17 31（+12）
 
 
 ---

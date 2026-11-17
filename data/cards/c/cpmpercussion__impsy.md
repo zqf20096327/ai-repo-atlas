@@ -1,6 +1,6 @@
 # cpmpercussion/impsy
 
-⭐ 36 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/cpmpercussion/impsy) · [官网](http://charlesmartin.au/impsy/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/cpmpercussion/impsy) · [官网](http://charlesmartin.au/impsy/) · 个人维护
 
 **创建智能乐器的平台：MDRNN 预测演奏者下一步输入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cpmpercussion/impsy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

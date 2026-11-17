@@ -1,6 +1,6 @@
 # soberlemur/autopo
 
-⭐ 19 · Java · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/soberlemur/autopo) · [官网](https://autopo.ooo) · 个人维护
+⭐ 19 · Java · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/soberlemur/autopo) · [官网](https://autopo.ooo) · 个人维护
 
 **用 AI 自动翻译 .po 本地化文件的桌面应用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "soberlemur/autopo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

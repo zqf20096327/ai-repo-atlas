@@ -1,6 +1,6 @@
 # OrangeLatte/OHnews
 
-⭐ 21 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/OrangeLatte/OHnews) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/OrangeLatte/OHnews) · 个人维护 · 中文 README
 
 **自托管的证据优先新闻工作台：对比官方与市场叙事框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OrangeLatte/OHnews 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "OrangeLatte/OHnews 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [22, 21, 21]
+    line [22, 21, 22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 21（-1）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

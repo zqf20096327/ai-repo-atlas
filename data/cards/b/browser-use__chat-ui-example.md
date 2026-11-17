@@ -1,6 +1,6 @@
 # browser-use/chat-ui-example
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/browser-use/chat-ui-example) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/browser-use/chat-ui-example) · 组织维护
 
 **浏览器操作 AI agent 的聊天界面示例应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "browser-use/chat-ui-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "browser-use/chat-ui-example 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

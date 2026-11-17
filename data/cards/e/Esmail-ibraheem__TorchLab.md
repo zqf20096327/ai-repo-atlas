@@ -1,6 +1,6 @@
 # Esmail-ibraheem/TorchLab
 
-⭐ 18 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Esmail-ibraheem/TorchLab) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Esmail-ibraheem/TorchLab) · 个人维护
 
 **个人深度学习实验室：从理论到 PyTorch 论文复现到自建框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Esmail-ibraheem/TorchLab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

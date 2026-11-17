@@ -1,6 +1,6 @@
 # aramis-lab/clinica
 
-⭐ 295 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/aramis-lab/clinica) · [官网](https://aramislab.paris.inria.fr/clinica/docs/public/latest) · 组织维护
+⭐ 295 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/aramis-lab/clinica) · [官网](https://aramislab.paris.inria.fr/clinica/docs/public/latest) · 组织维护
 
 **临床神经影像研究软件平台：BIDS 转换与处理流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aramis-lab/clinica 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "aramis-lab/clinica 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 292 --> 296
-    line [293, 294, 295, 295]
+    line [293, 294, 295, 293, 295, 295]
 ```
 
-2026-10-18 293 → 2026-11-02 295（+2）
+2026-10-18 293 → 2026-11-17 295（+2）
 
 
 ---

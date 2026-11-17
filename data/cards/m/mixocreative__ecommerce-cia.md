@@ -1,6 +1,6 @@
 # mixocreative/ecommerce-cia
 
-⭐ 14 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mixocreative/ecommerce-cia) · [官网](https://github.com/mixocreative/ecommerce-cia#readme) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mixocreative/ecommerce-cia) · [官网](https://github.com/mixocreative/ecommerce-cia#readme) · 组织维护 · 中文 README
 
 **台湾电商金流串接与完整性稽核的 AI Agent Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mixocreative/ecommerce-cia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

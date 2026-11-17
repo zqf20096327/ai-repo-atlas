@@ -1,6 +1,6 @@
 # artiomn/awesome-neuromorphic
 
-⭐ 61 · CC0-1.0 · 推送 2026-08-20 · [GitHub](https://github.com/artiomn/awesome-neuromorphic) · 个人维护
+⭐ 62 · CC0-1.0 · 推送 2026-08-20 · [GitHub](https://github.com/artiomn/awesome-neuromorphic) · 个人维护
 
 **神经形态/脉冲神经网络框架、数据集与硬件的策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "artiomn/awesome-neuromorphic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "artiomn/awesome-neuromorphic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 60, 62, 62]
 ```
 
-2026-10-18 60 → 2026-11-02 61（+1）
+2026-10-18 60 → 2026-11-17 62（+2）
 
 
 ---

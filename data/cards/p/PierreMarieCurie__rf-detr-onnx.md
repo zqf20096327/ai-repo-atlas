@@ -1,6 +1,6 @@
 # PierreMarieCurie/rf-detr-onnx
 
-⭐ 104 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/PierreMarieCurie/rf-detr-onnx) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/PierreMarieCurie/rf-detr-onnx) · 个人维护
 
 **RF-DETR 目标检测模型的 ONNX 转换与推理工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PierreMarieCurie/rf-detr-onnx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    title "PierreMarieCurie/rf-detr-onnx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 102 --> 106
+    line [103, 104, 103, 105, 105]
 ```
 
-2026-10-18 103 → 2026-11-02 104（+1）
+2026-10-18 103 → 2026-11-17 105（+2）
 
 
 ---

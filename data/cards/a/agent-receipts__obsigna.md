@@ -1,6 +1,6 @@
 # agent-receipts/obsigna
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/agent-receipts/obsigna) · [官网](https://agentreceipts.ai) · 组织维护
+⭐ 22 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/agent-receipts/obsigna) · [官网](https://agentreceipts.ai) · 组织维护
 
 **AI agent 操作的密码学签名审计协议与工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-receipts/obsigna 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "agent-receipts/obsigna 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

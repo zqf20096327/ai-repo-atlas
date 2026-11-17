@@ -1,6 +1,6 @@
 # ArcBricklayer/doc-digest
 
-⭐ 21 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ArcBricklayer/doc-digest) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 本地 PDF 长文摘要与带引文问答工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArcBricklayer/doc-digest 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
+    title "ArcBricklayer/doc-digest 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 10 --> 23
-    line [11, 18, 22, 21, 21]
+    line [11, 18, 22, 21, 22, 22]
 ```
 
-2026-10-22 11 → 2026-11-02 21（+10）
+2026-10-22 11 → 2026-11-07 22（+11）
 
 
 ---

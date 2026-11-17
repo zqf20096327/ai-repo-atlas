@@ -1,6 +1,6 @@
 # dubzdubz/microgpt-ts
 
-⭐ 42 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/dubzdubz/microgpt-ts) · [官网](https://microgpt-ts.vercel.app/) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/dubzdubz/microgpt-ts) · [官网](https://microgpt-ts.vercel.app/) · 个人维护
 
 **零依赖 TypeScript 从零实现的字符级 GPT（教学向）**
 
@@ -44,13 +44,13 @@ Karpathy microgpt 的 TypeScript 移植：~500 行零运行时依赖实现完整
 
 ```mermaid
 xychart-beta
-    title "dubzdubz/microgpt-ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "dubzdubz/microgpt-ts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

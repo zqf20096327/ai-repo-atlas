@@ -1,6 +1,6 @@
 # pipedude/evi-run
 
-⭐ 121 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/pipedude/evi-run) · 个人维护
+⭐ 122 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/pipedude/evi-run) · 个人维护
 
 **通过 Telegram 交付的多智能体 AI 系统，开箱即用可定制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pipedude/evi-run 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 118 --> 122
-    line [119, 120, 121, 121]
+    title "pipedude/evi-run 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 118 --> 123
+    line [119, 120, 121, 122, 122]
 ```
 
-2026-10-18 119 → 2026-11-02 121（+2）
+2026-10-18 119 → 2026-11-17 122（+3）
 
 
 ---

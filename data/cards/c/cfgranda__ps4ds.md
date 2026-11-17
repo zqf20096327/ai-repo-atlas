@@ -1,6 +1,6 @@
 # cfgranda/ps4ds
 
-⭐ 631 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/cfgranda/ps4ds) · [官网](https://www.ps4ds.net/) · 个人维护
+⭐ 634 · Jupyter Notebook · 推送 2026-11-13 · [GitHub](https://github.com/cfgranda/ps4ds) · [官网](https://www.ps4ds.net/) · 个人维护
 
 **数据科学概率统计教材的代码仓库与配套资源**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "cfgranda/ps4ds 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 629 --> 632
-    line [630, 631, 631]
+    title "cfgranda/ps4ds 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 629 --> 635
+    line [630, 631, 630, 633, 634, 634]
 ```
 
-2026-10-18 630 → 2026-11-02 631（+1）
+2026-10-18 630 → 2026-11-17 634（+4）
 
 
 ---

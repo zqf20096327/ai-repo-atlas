@@ -1,6 +1,6 @@
 # xronocode/grace-docx
 
-⭐ 39 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xronocode/grace-docx) · 个人维护
+⭐ 40 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xronocode/grace-docx) · 个人维护
 
 **让 AI agent 安全编辑 Office 文档的引导提示协议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xronocode/grace-docx 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "xronocode/grace-docx 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40, 40]
 ```
 
-2026-10-26 38 → 2026-11-02 39（+1）
+2026-10-26 38 → 2026-11-17 40（+2）
 
 
 ---

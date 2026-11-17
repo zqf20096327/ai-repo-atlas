@@ -1,6 +1,6 @@
 # ahumblenerd/tour-of-agents
 
-⭐ 43 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/ahumblenerd/tour-of-agents) · [官网](https://tinyagents.dev) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/ahumblenerd/tour-of-agents) · [官网](https://tinyagents.dev) · 个人维护
 
 **30分钟交互课程：用60行纯Python从零构建AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahumblenerd/tour-of-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    title "ahumblenerd/tour-of-agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 46
+    line [41, 42, 43, 45, 45]
 ```
 
-2026-10-18 41 → 2026-11-02 43（+2）
+2026-10-18 41 → 2026-11-17 45（+4）
 
 
 ---

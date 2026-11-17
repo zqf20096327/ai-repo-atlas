@@ -1,6 +1,6 @@
 # schmitech/orbit
 
-⭐ 358 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/schmitech/orbit) · [官网](https://schmitech.ai) · 组织维护
+⭐ 364 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/schmitech/orbit) · [官网](https://schmitech.ai) · 组织维护
 
 **自托管 AI 网关：私有数据接入本地/托管模型并统一 API**
 
@@ -45,13 +45,13 @@ ORBIT（Open Retrieval-Based Inference Toolkit）是自托管的 AI 网关与控
 
 ```mermaid
 xychart-beta
-    title "schmitech/orbit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 354 --> 359
-    line [355, 356, 357, 358, 358]
+    title "schmitech/orbit 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 354 --> 365
+    line [355, 356, 357, 358, 355, 361, 362, 363, 364, 364]
 ```
 
-2026-10-18 355 → 2026-11-02 358（+3）
+2026-10-18 355 → 2026-11-17 364（+9）
 
 
 ---

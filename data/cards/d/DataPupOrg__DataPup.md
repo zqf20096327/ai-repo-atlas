@@ -1,6 +1,6 @@
 # DataPupOrg/DataPup
 
-⭐ 309 · TypeScript · MIT · 推送 2026-02-09 · [GitHub](https://github.com/DataPupOrg/DataPup) · 组织维护
+⭐ 310 · TypeScript · MIT · 推送 2026-02-09 · [GitHub](https://github.com/DataPupOrg/DataPup) · 组织维护
 
 **带 AI 查询辅助的跨平台开源数据库客户端**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DataPupOrg/DataPup 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 307 --> 310
-    line [309, 308, 309, 309]
+    title "DataPupOrg/DataPup 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 307 --> 311
+    line [309, 308, 309, 308, 309, 310, 310]
 ```
 
-2026-10-18 309 → 2026-11-02 309（+0）
+2026-10-18 309 → 2026-11-17 310（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # wess/sinclair
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wess/sinclair) · [官网](https://wess.io/sinclair/) · 个人维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/wess/sinclair) · [官网](https://wess.io/sinclair/) · 个人维护
 
 **面向编码 agent 团队的 GPU 渲染终端（macOS/Linux）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wess/sinclair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

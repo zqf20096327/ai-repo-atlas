@@ -1,6 +1,6 @@
 # dohooo/helmor
 
-⭐ 1,310 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/dohooo/helmor) · [官网](https://helmor.ai) · 组织维护
+⭐ 1,306 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/dohooo/helmor) · [官网](https://helmor.ai) · 组织维护
 
 **本地优先的编码 agent 编排工作台：并行运行、审查并合并多 agent 产出**
 
@@ -45,13 +45,13 @@ macOS/Windows 桌面应用，将多个编码 agent（Claude Code、Codex、Curso
 
 ```mermaid
 xychart-beta
-    title "dohooo/helmor 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1307 --> 1311
-    line [1308, 1309, 1308, 1309, 1310, 1310]
+    title "dohooo/helmor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1305 --> 1311
+    line [1308, 1309, 1308, 1309, 1310, 1309, 1306, 1306]
 ```
 
-2026-10-18 1,308 → 2026-11-02 1,310（+2）
+2026-10-18 1,308 → 2026-11-17 1,306（-2）
 
 
 ---

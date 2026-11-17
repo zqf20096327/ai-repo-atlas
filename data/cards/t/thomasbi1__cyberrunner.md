@@ -1,6 +1,6 @@
 # thomasbi1/cyberrunner
 
-⭐ 128 · Python · AGPL-3.0 · 推送 2026-04-07 · [GitHub](https://github.com/thomasbi1/cyberrunner) · [官网](https://cyberrunner.readthedocs.io/) · 个人维护
+⭐ 130 · Python · AGPL-3.0 · 推送 2026-04-07 · [GitHub](https://github.com/thomasbi1/cyberrunner) · [官网](https://cyberrunner.readthedocs.io/) · 个人维护
 
 **自主学习玩迷宫滚珠游戏的实体 AI 机器人项目**
 
@@ -44,13 +44,13 @@ CyberRunner 是一个 AI 机器人项目：通过相机俯视迷宫盘面采集�
 
 ```mermaid
 xychart-beta
-    title "thomasbi1/cyberrunner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    title "thomasbi1/cyberrunner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 127 --> 131
+    line [128, 129, 130, 130]
 ```
 
-2026-10-18 128 → 2026-11-02 128（+0）
+2026-10-18 128 → 2026-11-17 130（+2）
 
 
 ---

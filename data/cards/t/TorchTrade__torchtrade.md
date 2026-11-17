@@ -1,6 +1,6 @@
 # TorchTrade/torchtrade
 
-⭐ 430 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/TorchTrade/torchtrade) · [官网](https://torchtrade.github.io/torchtrade.io/) · 组织维护
+⭐ 428 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/TorchTrade/torchtrade) · [官网](https://torchtrade.github.io/torchtrade.io/) · 组织维护
 
 **面向算法交易的模块化强化学习框架，基于 TorchRL 构建**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TorchTrade/torchtrade 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    title "TorchTrade/torchtrade 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
     y-axis "stars" 427 --> 431
-    line [428, 429, 430, 430]
+    line [428, 429, 430, 429, 430, 429, 428, 428]
 ```
 
-2026-10-18 428 → 2026-11-02 430（+2）
+2026-10-18 428 → 2026-11-17 428（+0）
 
 
 ---

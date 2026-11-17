@@ -1,6 +1,6 @@
 # AI-in-Cardiovascular-Medicine/HolOrama
 
-⭐ 20 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AI-in-Cardiovascular-Medicine/HolOrama) · [官网](https://holorama.readthedocs.io/en/latest/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AI-in-Cardiovascular-Medicine/HolOrama) · [官网](https://holorama.readthedocs.io/en/latest/) · 组织维护
 
 **心脏影像深度学习分割、修改与融合的图形界面平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI-in-Cardiovascular-Medicine/HolOrama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "AI-in-Cardiovascular-Medicine/HolOrama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

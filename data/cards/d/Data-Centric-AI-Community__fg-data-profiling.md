@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-profiling
 
-⭐ 13,746 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
+⭐ 13,753 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
 **一行代码生成 DataFrame 数据质量剖析与 EDA 报告**
 
@@ -52,13 +52,13 @@ ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供�
 
 ```mermaid
 xychart-beta
-    title "Data-Centric-AI-Community/fg-data-profiling 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13726 --> 13747
-    line [13727, 13731, 13733, 13735, 13736, 13737, 13740, 13743, 13744, 13743, 13746, 13746]
+    title "Data-Centric-AI-Community/fg-data-profiling 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13725 --> 13757
+    line [13727, 13731, 13733, 13735, 13736, 13737, 13740, 13743, 13744, 13743, 13746, 13737, 13755, 13754, 13753, 13752, 13753, 13753]
 ```
 
-2026-10-18 13,727 → 2026-11-02 13,746（+19）
+2026-10-18 13,727 → 2026-11-17 13,753（+26）
 
 
 ---

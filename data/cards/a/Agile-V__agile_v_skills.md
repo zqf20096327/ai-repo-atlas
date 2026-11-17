@@ -1,6 +1,6 @@
 # Agile-V/agile_v_skills
 
-⭐ 54 · Python · CC-BY-SA-4.0 · 推送 2026-10-05 · [GitHub](https://github.com/Agile-V/agile_v_skills) · [官网](https://agile-v.org/) · 组织维护
+⭐ 55 · Python · CC-BY-SA-4.0 · 推送 2026-10-05 · [GitHub](https://github.com/Agile-V/agile_v_skills) · [官网](https://agile-v.org/) · 组织维护
 
 **给 AI 辅助工程提供可审计保障层的 agent 技能库（49 个技能）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agile-V/agile_v_skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "Agile-V/agile_v_skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

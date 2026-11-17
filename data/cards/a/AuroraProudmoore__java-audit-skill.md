@@ -1,6 +1,6 @@
 # AuroraProudmoore/java-audit-skill
 
-⭐ 27 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/AuroraProudmoore/java-audit-skill) · [官网](https://github.com/AuroraProudmoore/java-audit-skill) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/AuroraProudmoore/java-audit-skill) · [官网](https://github.com/AuroraProudmoore/java-audit-skill) · 个人维护 · 中文 README
 
 **AI 代码安全审计 Skill：给 LLM 装上资深审计员工作流协议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AuroraProudmoore/java-audit-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "AuroraProudmoore/java-audit-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

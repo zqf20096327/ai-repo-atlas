@@ -1,6 +1,6 @@
 # OpenSQZ/Jailbreak-Foundry
 
-⭐ 173 · Python · 推送 2026-10-08 · [GitHub](https://github.com/OpenSQZ/Jailbreak-Foundry) · 组织维护 · 中文 README
+⭐ 176 · Python · 推送 2026-11-11 · [GitHub](https://github.com/OpenSQZ/Jailbreak-Foundry) · 组织维护 · 中文 README
 
 **将越狱论文自动转为可运行攻击并统一评测的基准系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenSQZ/Jailbreak-Foundry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 170 --> 174
-    line [171, 172, 173]
+    title "OpenSQZ/Jailbreak-Foundry 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 170 --> 177
+    line [171, 172, 173, 171, 174, 175, 176, 176]
 ```
 
-2026-10-18 171 → 2026-11-02 173（+2）
+2026-10-18 171 → 2026-11-17 176（+5）
 
 
 ---

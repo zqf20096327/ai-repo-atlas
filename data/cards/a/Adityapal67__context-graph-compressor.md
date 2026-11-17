@@ -1,6 +1,6 @@
 # Adityapal67/context-graph-compressor
 
-⭐ 35 · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Adityapal67/context-graph-compressor) · 个人维护
+⭐ 37 · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Adityapal67/context-graph-compressor) · 个人维护
 
 **将长 AI 对话压缩为可移植 JSON 上下文图，供跨会话/跨 LLM 接续**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adityapal67/context-graph-compressor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "Adityapal67/context-graph-compressor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 37（+2）
 
 
 ---

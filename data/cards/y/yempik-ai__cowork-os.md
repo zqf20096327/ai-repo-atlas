@@ -1,6 +1,6 @@
 # yempik-ai/cowork-os
 
-⭐ 54 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yempik-ai/cowork-os) · [官网](https://www.yempik.com/cowork-os) · 组织维护
+⭐ 55 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yempik-ai/cowork-os) · [官网](https://www.yempik.com/cowork-os) · 组织维护
 
 **面向 Claude Cowork 的 Markdown 团队工作区结构：决策、上下文与例行任务**
 
@@ -45,13 +45,13 @@ cowork-os 是一个开源（MIT）的工作区/流程模板层，供 Claude Cowo
 
 ```mermaid
 xychart-beta
-    title "yempik-ai/cowork-os 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 53 --> 57
-    line [56, 55, 56, 55, 54, 54]
+    title "yempik-ai/cowork-os 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 52 --> 57
+    line [56, 55, 56, 55, 54, 55, 53, 54, 55, 55]
 ```
 
-2026-10-18 56 → 2026-11-02 54（-2）
+2026-10-18 56 → 2026-11-17 55（-1）
 
 
 ---

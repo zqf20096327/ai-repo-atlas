@@ -1,6 +1,6 @@
 # xRiskLab/fastwoe
 
-⭐ 24 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/xRiskLab/fastwoe) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xRiskLab/fastwoe) · 组织维护
 
 **分类任务中类别特征的 WOE 编码与统计推断 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xRiskLab/fastwoe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

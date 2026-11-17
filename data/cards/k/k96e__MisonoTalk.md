@@ -1,6 +1,6 @@
 # k96e/MisonoTalk
 
-⭐ 51 · Dart · MIT · 推送 2026-09-27 · [GitHub](https://github.com/k96e/MisonoTalk) · 个人维护 · 中文 README
+⭐ 51 · Dart · MIT · 推送 2026-11-15 · [GitHub](https://github.com/k96e/MisonoTalk) · 个人维护 · 中文 README
 
 **碧蓝档案 MomoTalk 风格的 LLM 聊天客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "k96e/MisonoTalk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

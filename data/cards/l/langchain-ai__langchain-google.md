@@ -1,6 +1,6 @@
 # langchain-ai/langchain-google
 
-⭐ 406 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/langchain-google) · [官网](https://docs.langchain.com/oss/python/integrations/providers/google) · 组织维护
+⭐ 409 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/langchain-google) · [官网](https://docs.langchain.com/oss/python/integrations/providers/google) · 组织维护
 
 **LangChain 与 Google AI 产品（Gemini/Vertex AI）的集成包集合**
 
@@ -43,13 +43,13 @@ langchain-ai 团队维护的 monorepo，集中提供 LangChain 对 Google AI 产
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-google 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 403 --> 408
-    line [404, 406, 407, 406, 406]
+    title "langchain-ai/langchain-google 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 403 --> 410
+    line [404, 406, 407, 406, 408, 409, 409]
 ```
 
-2026-10-18 404 → 2026-11-02 406（+2）
+2026-10-18 404 → 2026-11-17 409（+5）
 
 
 ---

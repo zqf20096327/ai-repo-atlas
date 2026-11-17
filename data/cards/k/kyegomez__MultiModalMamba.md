@@ -1,6 +1,6 @@
 # kyegomez/MultiModalMamba
 
-⭐ 474 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MultiModalMamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 473 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kyegomez/MultiModalMamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **融合 ViT 与 Mamba 的多模态模型实现（文本+图像）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/MultiModalMamba 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 473 --> 476
-    line [475, 474, 474]
+    title "kyegomez/MultiModalMamba 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 472 --> 476
+    line [475, 474, 475, 473, 473]
 ```
 
-2026-10-18 475 → 2026-11-02 474（-1）
+2026-10-18 475 → 2026-11-17 473（-2）
 
 
 ---

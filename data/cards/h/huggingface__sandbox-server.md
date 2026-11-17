@@ -1,6 +1,6 @@
 # huggingface/sandbox-server
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/sandbox-server) · 组织维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/huggingface/sandbox-server) · 组织维护
 
 **Hugging Face Jobs 沙箱内运行的静态代理服务器：命令执行、文件传输、端口转发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/sandbox-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

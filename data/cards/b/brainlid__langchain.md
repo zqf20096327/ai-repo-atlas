@@ -1,6 +1,6 @@
 # brainlid/langchain
 
-⭐ 1,212 · Elixir · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/brainlid/langchain) · [官网](https://hexdocs.pm/langchain/) · 个人维护
+⭐ 1,216 · Elixir · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/brainlid/langchain) · [官网](https://hexdocs.pm/langchain/) · 个人维护
 
 **Elixir 的 LangChain 式 LLM 应用开发框架，接入多家模型服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brainlid/langchain 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1207 --> 1213
-    line [1208, 1209, 1210, 1211, 1212, 1212]
+    title "brainlid/langchain 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1207 --> 1217
+    line [1208, 1209, 1210, 1211, 1212, 1211, 1213, 1214, 1216, 1216]
 ```
 
-2026-10-18 1,208 → 2026-11-02 1,212（+4）
+2026-10-18 1,208 → 2026-11-17 1,216（+8）
 
 
 ---

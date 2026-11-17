@@ -1,6 +1,6 @@
 # rooneyrulz/agentic-stock-research-system
 
-⭐ 120 · Python · 推送 2026-09-15 · [GitHub](https://github.com/rooneyrulz/agentic-stock-research-system) · 个人维护
+⭐ 124 · Python · 推送 2026-09-15 · [GitHub](https://github.com/rooneyrulz/agentic-stock-research-system) · 个人维护
 
 **面向印度 NSE 股票的多 Agent AI 研究与买卖推荐系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rooneyrulz/agentic-stock-research-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 119 --> 122
-    line [121, 120, 120]
+    title "rooneyrulz/agentic-stock-research-system 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 119 --> 125
+    line [121, 120, 121, 120, 121, 122, 124, 124]
 ```
 
-2026-10-18 121 → 2026-11-02 120（-1）
+2026-10-18 121 → 2026-11-17 124（+3）
 
 
 ---

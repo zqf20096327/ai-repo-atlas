@@ -1,6 +1,6 @@
 # JonasGeiping/breaching
 
-⭐ 328 · Python · MIT · 推送 2026-01-24 · [GitHub](https://github.com/JonasGeiping/breaching) · 组织维护
+⭐ 329 · Python · MIT · 推送 2026-01-24 · [GitHub](https://github.com/JonasGeiping/breaching) · 组织维护
 
 **联邦学习隐私攻击框架：从梯度更新重建用户数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JonasGeiping/breaching 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 324 --> 329
-    line [325, 327, 328, 328]
+    title "JonasGeiping/breaching 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 324 --> 330
+    line [325, 327, 328, 327, 328, 329, 329]
 ```
 
-2026-10-18 325 → 2026-11-02 328（+3）
+2026-10-18 325 → 2026-11-17 329（+4）
 
 
 ---

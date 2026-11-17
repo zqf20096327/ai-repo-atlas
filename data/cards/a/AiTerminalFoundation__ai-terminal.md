@@ -1,6 +1,6 @@
 # AiTerminalFoundation/ai-terminal
 
-⭐ 150 · Rust · 推送 2026-05-09 · [GitHub](https://github.com/AiTerminalFoundation/ai-terminal) · [官网](https://ai-terminal.dev/) · 组织维护
+⭐ 151 · Rust · 推送 2026-05-09 · [GitHub](https://github.com/AiTerminalFoundation/ai-terminal) · [官网](https://ai-terminal.dev/) · 组织维护
 
 **集成 AI 助手的跨平台终端应用（Tauri+Angular）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AiTerminalFoundation/ai-terminal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 149 --> 151
-    line [150, 150]
+    title "AiTerminalFoundation/ai-terminal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 149 --> 152
+    line [150, 151, 151]
 ```
 
-2026-10-18 150 → 2026-11-02 150（+0）
+2026-10-18 150 → 2026-11-17 151（+1）
 
 
 ---

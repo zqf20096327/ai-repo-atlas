@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zzzlip/langraph-AI-Accompany-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "zzzlip/langraph-AI-Accompany-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-07"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 22（+1）
+2026-10-18 21 → 2026-11-07 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # EdwardAThomson/NovelWriter
 
-⭐ 84 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/EdwardAThomson/NovelWriter) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/EdwardAThomson/NovelWriter) · 个人维护
 
 **辅助作者用 LLM 创作小说/短篇的桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EdwardAThomson/NovelWriter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 81 --> 85
-    line [83, 82, 84, 84]
+    title "EdwardAThomson/NovelWriter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 81 --> 89
+    line [83, 82, 84, 82, 87, 88, 88]
 ```
 
-2026-10-18 83 → 2026-11-02 84（+1）
+2026-10-18 83 → 2026-11-17 88（+5）
 
 
 ---

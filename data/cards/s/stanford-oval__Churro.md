@@ -1,6 +1,6 @@
 # stanford-oval/Churro
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/stanford-oval/Churro) · [官网](https://stanford-oval.github.io/Churro/) · 组织维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/stanford-oval/Churro) · [官网](https://stanford-oval.github.io/Churro/) · 组织维护
 
 **历史文献 OCR 工具包：把手写/印刷扫描件转成可靠文本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stanford-oval/Churro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 81 --> 87
-    line [82, 83, 85, 86, 86]
+    title "stanford-oval/Churro 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 81 --> 89
+    line [82, 83, 85, 86, 82, 86, 87, 88, 88]
 ```
 
-2026-10-18 82 → 2026-11-02 86（+4）
+2026-10-18 82 → 2026-11-17 88（+6）
 
 
 ---

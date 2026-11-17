@@ -1,6 +1,6 @@
 # Amey-Thakur/MACHINE-LEARNING
 
-⭐ 15 · Rich Text Format · CC-BY-4.0 · 推送 2026-09-05 · [GitHub](https://github.com/Amey-Thakur/MACHINE-LEARNING) · [官网](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING) · 个人维护
+⭐ 16 · Rich Text Format · CC-BY-4.0 · 推送 2026-09-05 · [GitHub](https://github.com/Amey-Thakur/MACHINE-LEARNING) · [官网](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING) · 个人维护
 
 **孟买大学机器学习课程的学习资料归档库**
 
@@ -43,13 +43,13 @@ Amey Thakur 维护的 University of Mumbai 计算机工程第六学期机器学�
 
 ```mermaid
 xychart-beta
-    title "Amey-Thakur/MACHINE-LEARNING 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Amey-Thakur/MACHINE-LEARNING 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

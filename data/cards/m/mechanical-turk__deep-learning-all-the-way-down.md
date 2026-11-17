@@ -1,6 +1,6 @@
 # mechanical-turk/deep-learning-all-the-way-down
 
-⭐ 12 · C++ · 推送 2026-10-22 · [GitHub](https://github.com/mechanical-turk/deep-learning-all-the-way-down) · [官网](https://www.youtube.com/playlist?list=PLZSg76FHvdTw) · 组织维护
+⭐ 13 · C++ · 推送 2026-11-16 · [GitHub](https://github.com/mechanical-turk/deep-learning-all-the-way-down) · [官网](https://www.youtube.com/playlist?list=PLZSg76FHvdTw) · 组织维护
 
 **用现代 C++ 从第一性原理构建深度学习的教学代码系列**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mechanical-turk/deep-learning-all-the-way-down 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "mechanical-turk/deep-learning-all-the-way-down 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

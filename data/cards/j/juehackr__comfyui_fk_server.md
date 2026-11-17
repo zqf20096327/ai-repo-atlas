@@ -1,6 +1,6 @@
 # juehackr/comfyui_fk_server
 
-⭐ 594 · Python · 推送 2026-01-27 · [GitHub](https://github.com/juehackr/comfyui_fk_server) · 个人维护 · 中文 README
+⭐ 593 · Python · 推送 2026-01-27 · [GitHub](https://github.com/juehackr/comfyui_fk_server) · 个人维护 · 中文 README
 
 **ComfyUI 多功能聚合插件：中文翻译、提示词润色与编辑器节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "juehackr/comfyui_fk_server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
+    title "juehackr/comfyui_fk_server 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 590 --> 595
-    line [591, 592, 593, 594]
+    line [591, 592, 593, 594, 592, 593, 593]
 ```
 
-2026-10-18 591 → 2026-11-02 594（+3）
+2026-10-18 591 → 2026-11-17 593（+2）
 
 
 ---

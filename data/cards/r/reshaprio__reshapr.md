@@ -1,6 +1,6 @@
 # reshaprio/reshapr
 
-⭐ 171 · Java · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/reshaprio/reshapr) · [官网](https://reshapr.io) · 组织维护
+⭐ 176 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/reshaprio/reshapr) · [官网](https://reshapr.io) · 组织维护
 
 **将既有 REST/GraphQL/gRPC API 转为 MCP 工具的运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reshaprio/reshapr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 133 --> 174
-    line [136, 146, 170, 171, 171]
+    title "reshaprio/reshapr 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 132 --> 180
+    line [136, 146, 170, 171, 170, 173, 174, 175, 176, 176]
 ```
 
-2026-10-18 136 → 2026-11-02 171（+35）
+2026-10-18 136 → 2026-11-17 176（+40）
 
 
 ---

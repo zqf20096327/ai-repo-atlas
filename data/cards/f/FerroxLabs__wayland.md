@@ -1,6 +1,6 @@
 # FerroxLabs/wayland
 
-⭐ 616 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/FerroxLabs/wayland) · [官网](https://getwayland.com) · 组织维护
+⭐ 618 · TypeScript · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/FerroxLabs/wayland) · [官网](https://getwayland.com) · 组织维护
 
 **本地优先的桌面 AI agent，统一驱动各 AI CLI 协同完成整项工作**
 
@@ -46,13 +46,13 @@ Rust/Electron 桌面应用，含内置 Fuigo 引擎：以单一命令中心驱�
 
 ```mermaid
 xychart-beta
-    title "FerroxLabs/wayland 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 612 --> 617
-    line [613, 614, 615, 616, 616]
+    title "FerroxLabs/wayland 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 612 --> 620
+    line [613, 614, 615, 616, 614, 618, 619, 618, 618]
 ```
 
-2026-10-18 613 → 2026-11-02 616（+3）
+2026-10-18 613 → 2026-11-17 618（+5）
 
 
 ---

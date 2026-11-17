@@ -1,6 +1,6 @@
 # graniet/kheish
 
-⭐ 217 · Rust · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/graniet/kheish) · [官网](https://kheish.ai) · 个人维护
+⭐ 213 · Rust · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/graniet/kheish) · [官网](https://kheish.ai) · 个人维护
 
 **长时运行工具型 AI agent 的守护进程式控制平面**
 
@@ -44,13 +44,13 @@ Rust 实现的持久化 agent 运行时与控制平面：调用方（CLI/Slack/w
 
 ```mermaid
 xychart-beta
-    title "graniet/kheish 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 216 --> 222
-    line [221, 217, 217]
+    title "graniet/kheish 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 211 --> 222
+    line [221, 217, 213, 212, 213, 213]
 ```
 
-2026-10-18 221 → 2026-11-02 217（-4）
+2026-10-18 221 → 2026-11-17 213（-8）
 
 
 ---

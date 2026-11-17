@@ -1,6 +1,6 @@
 # NikolaRHristov/STE-Code
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/NikolaRHristov/STE-Code) · [官网](https://github.com/NikolaRHristov/STE-Code) · 个人维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/NikolaRHristov/STE-Code) · [官网](https://github.com/NikolaRHristov/STE-Code) · 个人维护
 
 **将 ASD-STE100 受控英语标准适配到代码文档的分层 prompt 工件集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NikolaRHristov/STE-Code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "NikolaRHristov/STE-Code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

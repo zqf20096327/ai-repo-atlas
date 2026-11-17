@@ -1,6 +1,6 @@
 # BaLaurent/agent-desktop
 
-⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/BaLaurent/agent-desktop) · [官网](https://agent-desktop.site) · 个人维护
+⭐ 58 · TypeScript · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/BaLaurent/agent-desktop) · [官网](https://agent-desktop.site) · 个人维护
 
 **面向 agent 的可配置 LLM 桌面客户端，默认 Claude**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BaLaurent/agent-desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [54, 53, 54]
+    title "BaLaurent/agent-desktop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 59
+    line [54, 53, 54, 58, 58]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 58（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # eliranwong/agentmake
 
-⭐ 30 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/eliranwong/agentmake) · [官网](https://toolmate.ai) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/eliranwong/agentmake) · [官网](https://toolmate.ai) · 个人维护
 
 **Agent 应用开发套件：统一接口接入 20+ AI 后端与 7 类组件**
 
@@ -46,12 +46,12 @@ Python 库形式的 agent 开发套件（ADK），提供单一签名函数 agent
 ```mermaid
 xychart-beta
     title "eliranwong/agentmake 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

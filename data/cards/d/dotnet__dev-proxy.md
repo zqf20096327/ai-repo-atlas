@@ -1,6 +1,6 @@
 # dotnet/dev-proxy
 
-⭐ 838 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dotnet/dev-proxy) · [官网](https://aka.ms/devproxy) · 组织维护
+⭐ 848 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dotnet/dev-proxy) · [官网](https://aka.ms/devproxy) · 组织维护
 
 **命令行 API 模拟器：无需改代码即可测试应用的容错与限流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dotnet/dev-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 836 --> 839
-    line [837, 838, 838]
+    title "dotnet/dev-proxy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 836 --> 849
+    line [837, 838, 842, 844, 846, 847, 848, 848]
 ```
 
-2026-10-18 837 → 2026-11-02 838（+1）
+2026-10-18 837 → 2026-11-17 848（+11）
 
 
 ---

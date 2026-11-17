@@ -1,6 +1,6 @@
 # runtypelabs/persona
 
-⭐ 257 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
+⭐ 266 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
 
 **零框架依赖的网站 AI 聊天组件（TypeScript 小组件库）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "runtypelabs/persona 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 251 --> 258
-    line [252, 253, 257, 257]
+    title "runtypelabs/persona 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 251 --> 267
+    line [252, 253, 257, 253, 263, 264, 265, 266, 266]
 ```
 
-2026-10-18 252 → 2026-11-02 257（+5）
+2026-10-18 252 → 2026-11-17 266（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # ProductOfAmerica/mcp-server-kicad
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/ProductOfAmerica/mcp-server-kicad) · [官网](https://pypi.org/project/mcp-server-kicad) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ProductOfAmerica/mcp-server-kicad) · [官网](https://pypi.org/project/mcp-server-kicad) · 个人维护
 
 **让 AI 助手通过 MCP 工具编辑 KiCad 项目的服务器（109 工具）**
 
@@ -45,13 +45,13 @@ KiCad 的 Model Context Protocol 服务器：提供 109 个工具覆盖原理图
 
 ```mermaid
 xychart-beta
-    title "ProductOfAmerica/mcp-server-kicad 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "ProductOfAmerica/mcp-server-kicad 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # samuelrince/awesome-green-ai
 
-⭐ 115 · CC0-1.0 · 推送 2026-05-05 · [GitHub](https://github.com/samuelrince/awesome-green-ai) · 个人维护
+⭐ 116 · CC0-1.0 · 推送 2026-05-05 · [GitHub](https://github.com/samuelrince/awesome-green-ai) · 个人维护
 
 **Green AI 资源清单：收录测算与降低 AI 环境影响的工具与论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "samuelrince/awesome-green-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    title "samuelrince/awesome-green-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 114 --> 117
+    line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-11-02 115（+0）
+2026-10-18 115 → 2026-11-17 116（+1）
 
 
 ---

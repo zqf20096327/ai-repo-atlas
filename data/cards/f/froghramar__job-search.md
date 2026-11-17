@@ -1,6 +1,6 @@
 # froghramar/job-search
 
-⭐ 17 · Python · 推送 2025-11-20 · [GitHub](https://github.com/froghramar/job-search) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 LangGraph/LangChain 自动化 LinkedIn 求职搜索与申请的 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "froghramar/job-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-15 17（+1）
 
 
 ---

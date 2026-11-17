@@ -1,6 +1,6 @@
 # huggingface/upskill
 
-⭐ 761 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/upskill) · 组织维护
+⭐ 769 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/upskill) · 组织维护
 
 **为代码 agent 生成并评测 SKILL.md 技能的 CLI 工具**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的 Python CLI：从任务描述或既有 agent 轨迹生成 
 
 ```mermaid
 xychart-beta
-    title "huggingface/upskill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 759 --> 765
-    line [762, 764, 761, 760, 761, 761]
+    title "huggingface/upskill 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 759 --> 770
+    line [762, 764, 761, 760, 761, 763, 765, 766, 767, 769, 769]
 ```
 
-2026-10-18 762 → 2026-11-02 761（-1）
+2026-10-18 762 → 2026-11-17 769（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # sonhany/xuanji
 
-⭐ 22 · Python · 推送 2026-09-19 · [GitHub](https://github.com/sonhany/xuanji) · 个人维护 · 中文 README
+⭐ 22 · Python · 推送 2026-11-02 · [GitHub](https://github.com/sonhany/xuanji) · 个人维护 · 中文 README
 
 **面向 A 股的本机量化研究与确定性模拟盘工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sonhany/xuanji 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 22（-1）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

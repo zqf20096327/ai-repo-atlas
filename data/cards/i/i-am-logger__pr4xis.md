@@ -1,6 +1,6 @@
 # i-am-logger/pr4xis
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/i-am-logger/pr4xis) · [官网](https://pr4xis.dev) · 个人维护
+⭐ 17 · Rust · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/i-am-logger/pr4xis) · [官网](https://pr4xis.dev) · 个人维护
 
 **基于公理推导的确定性推理引擎，替代统计式生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "i-am-logger/pr4xis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "i-am-logger/pr4xis 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

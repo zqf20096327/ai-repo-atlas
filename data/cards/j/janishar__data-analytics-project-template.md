@@ -1,6 +1,6 @@
 # janishar/data-analytics-project-template
 
-⭐ 131 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/janishar/data-analytics-project-template) · 个人维护
+⭐ 132 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/janishar/data-analytics-project-template) · 个人维护
 
 **数据分析与机器学习项目的 Python 起步模板**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "janishar/data-analytics-project-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    title "janishar/data-analytics-project-template 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 130 --> 133
+    line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-11-02 131（+0）
+2026-10-18 131 → 2026-11-17 132（+1）
 
 
 ---

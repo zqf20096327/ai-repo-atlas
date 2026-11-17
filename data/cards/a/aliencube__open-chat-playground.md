@@ -1,6 +1,6 @@
 # aliencube/open-chat-playground
 
-⭐ 53 · C# · MIT · 推送 2025-11-17 · [GitHub](https://github.com/aliencube/open-chat-playground) · [官网](https://bit.ly/openchat-playground) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多平台 LLM 接入的 Blazor Web UI 聊天应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aliencube/open-chat-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-12 53（+0）
 
 
 ---

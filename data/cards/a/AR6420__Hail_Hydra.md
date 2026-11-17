@@ -1,6 +1,6 @@
 # AR6420/Hail_Hydra
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/AR6420/Hail_Hydra) · [官网](https://www.npmjs.com/package/hail-hydra-cc) · 个人维护
+⭐ 52 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/AR6420/Hail_Hydra) · [官网](https://www.npmjs.com/package/hail-hydra-cc) · 个人维护
 
 **面向 AI 编程 CLI 的多 agent 分派工具包：10 个专职 agent 降本提速**
 
@@ -45,13 +45,13 @@ Hydra 是部署到 Claude Code、Gemini CLI、Codex CLI、GitHub Copilot CLI 四
 
 ```mermaid
 xychart-beta
-    title "AR6420/Hail_Hydra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50]
+    title "AR6420/Hail_Hydra 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 49, 51, 52, 52]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 52（+3）
 
 
 ---

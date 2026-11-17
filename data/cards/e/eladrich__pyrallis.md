@@ -1,6 +1,6 @@
 # eladrich/pyrallis
 
-⭐ 260 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/eladrich/pyrallis) · [官网](https://eladrich.github.io/pyrallis/) · 个人维护
+⭐ 261 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/eladrich/pyrallis) · [官网](https://eladrich.github.io/pyrallis/) · 个人维护
 
 **用 dataclass 定义配置、从命令行与文件解析的 Python 库**
 
@@ -44,13 +44,13 @@ Pyrallis 是从 simple-parsing 派生、受 Hydra 启发的 Python 配置解析�
 
 ```mermaid
 xychart-beta
-    title "eladrich/pyrallis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    title "eladrich/pyrallis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 259 --> 262
+    line [260, 261, 261]
 ```
 
-2026-10-18 260 → 2026-11-02 260（+0）
+2026-10-18 260 → 2026-11-17 261（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ethqnol/strata-mojo
 
-⭐ 12 · Mojo · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ethqnol/strata-mojo) · [官网](https://ethqnol.github.io/strata-mojo) · 个人维护
+⭐ 13 · Mojo · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ethqnol/strata-mojo) · [官网](https://ethqnol.github.io/strata-mojo) · 个人维护
 
 **纯 Mojo 编写的机器学习与线性代数库，接口仿 scikit-learn**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethqnol/strata-mojo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "ethqnol/strata-mojo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

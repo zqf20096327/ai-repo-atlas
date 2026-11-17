@@ -1,6 +1,6 @@
 # edgee-ai/rust-sdk
 
-⭐ 80 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/edgee-ai/rust-sdk) · [官网](https://www.edgee.cloud) · 组织维护
+⭐ 80 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/edgee-ai/rust-sdk) · [官网](https://www.edgee.cloud) · 组织维护
 
 **Edgee AI Gateway 的官方 Rust SDK，提供类型安全的 LLM 请求接口**
 
@@ -45,12 +45,12 @@ Edgee 公司为其 AI Gateway 发布的官方 Rust 客户端库：通过 send() 
 ```mermaid
 xychart-beta
     title "edgee-ai/rust-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-17 80（+0）
 
 
 ---

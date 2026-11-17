@@ -1,6 +1,6 @@
 # ehsanghaffar/javascript-playground
 
-⭐ 28 · JavaScript · NOASSERTION · 推送 2025-11-14 · [GitHub](https://github.com/ehsanghaffar/javascript-playground) · [官网](https://ehsanghaffarii.ir) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **JavaScript 代码片段与迷你项目合集，供学习参考**
 
@@ -11,7 +11,7 @@ JavaScript 学习资源仓库：收录算法与数据结构实现、数组/字�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ JavaScript 学习资源仓库：收录算法与数据结构实现、数组/字�
 ```mermaid
 xychart-beta
     title "ehsanghaffar/javascript-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-08 28（+0）
 
 
 ---

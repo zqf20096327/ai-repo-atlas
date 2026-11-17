@@ -1,6 +1,6 @@
 # liyupi/openclaw-guide
 
-⭐ 188 · PowerShell · 推送 2026-04-15 · [GitHub](https://github.com/liyupi/openclaw-guide) · [官网](https://clawfather.cn) · 个人维护 · 中文 README
+⭐ 190 · PowerShell · 推送 2026-04-15 · [GitHub](https://github.com/liyupi/openclaw-guide) · [官网](https://clawfather.cn) · 个人维护 · 中文 README
 
 **OpenClaw 开源 AI 智能体的中文文档站与翻译项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/openclaw-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 187 --> 189
-    line [188, 188]
+    title "liyupi/openclaw-guide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 187 --> 191
+    line [188, 189, 190, 190]
 ```
 
-2026-10-18 188 → 2026-11-02 188（+0）
+2026-10-18 188 → 2026-11-17 190（+2）
 
 
 ---

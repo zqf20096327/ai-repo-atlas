@@ -1,6 +1,6 @@
 # zcweah1981/awesome-hermes-agent-zh
 
-⭐ 55 · Python · 推送 2026-10-27 · [GitHub](https://github.com/zcweah1981/awesome-hermes-agent-zh) · [官网](http://www.hermes-zh.com) · 个人维护 · 中文 README
+⭐ 56 · Python · 推送 2026-11-16 · [GitHub](https://github.com/zcweah1981/awesome-hermes-agent-zh) · [官网](http://www.hermes-zh.com) · 个人维护 · 中文 README
 
 **中文用户的 Hermes Agent 实战文档站：上手、国内落地、迁移与排障**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zcweah1981/awesome-hermes-agent-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "zcweah1981/awesome-hermes-agent-zh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

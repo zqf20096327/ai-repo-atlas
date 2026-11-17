@@ -1,6 +1,6 @@
 # google-deepmind/agentic_ecology
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/agentic_ecology) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/google-deepmind/agentic_ecology) · 组织维护
 
 **生态学（生物声学）数据处理的开源 agent 技能包**
 
@@ -45,13 +45,13 @@ DeepMind 维护的 agentic ecology 项目：为 agentic 开发平台（如 Googl
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/agentic_ecology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "google-deepmind/agentic_ecology 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

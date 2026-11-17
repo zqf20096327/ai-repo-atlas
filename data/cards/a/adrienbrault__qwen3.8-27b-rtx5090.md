@@ -1,6 +1,6 @@
 # adrienbrault/qwen3.8-27b-rtx5090
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/adrienbrault/qwen3.8-27b-rtx5090) · 个人维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/adrienbrault/qwen3.8-27b-rtx5090) · 个人维护
 
 **在 2×RTX 5090 上服务 Qwen3.8-27B 的配置与测量记录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adrienbrault/qwen3.8-27b-rtx5090 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "adrienbrault/qwen3.8-27b-rtx5090 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 27, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # elazarg/nakdimon
 
-⭐ 51 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/elazarg/nakdimon) · [官网](https://nakdimon.org) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/elazarg/nakdimon) · [官网](https://nakdimon.org) · 个人维护
 
 **希伯来文元音符号自动恢复模型（论文配套实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elazarg/nakdimon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

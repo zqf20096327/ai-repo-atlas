@@ -1,6 +1,6 @@
 # camail-official/compressm
 
-⭐ 34 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/camail-official/compressm) · [官网](https://openreview.net/pdf?id=LtzmeSMBTW) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/camail-official/compressm) · [官网](https://openreview.net/pdf?id=LtzmeSMBTW) · 组织维护
 
 **训练中压缩状态空间模型（LRU）的研究代码，ICLR 2026 论文配套**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文 The Curious Case of In-Training Compression of State Space Mode
 
 ```mermaid
 xychart-beta
-    title "camail-official/compressm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "camail-official/compressm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

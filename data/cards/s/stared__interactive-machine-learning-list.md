@@ -1,6 +1,6 @@
 # stared/interactive-machine-learning-list
 
-⭐ 457 · JavaScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/stared/interactive-machine-learning-list) · [官网](https://p.migdal.pl/interactive-machine-learning-list/) · 个人维护
+⭐ 458 · JavaScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/stared/interactive-machine-learning-list) · [官网](https://p.migdal.pl/interactive-machine-learning-list/) · 个人维护
 
 **机器学习与统计交互式可视化网站的协作清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stared/interactive-machine-learning-list 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 455 --> 458
-    line [456, 457, 457]
+    title "stared/interactive-machine-learning-list 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 455 --> 459
+    line [456, 457, 456, 457, 458, 458]
 ```
 
-2026-10-18 456 → 2026-11-02 457（+1）
+2026-10-18 456 → 2026-11-17 458（+2）
 
 
 ---

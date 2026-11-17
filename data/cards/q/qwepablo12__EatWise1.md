@@ -1,6 +1,6 @@
 # qwepablo12/EatWise1
 
-⭐ 20 · TypeScript · 推送 2026-08-10 · [GitHub](https://github.com/qwepablo12/EatWise1) · 个人维护
+⭐ 20 · TypeScript · 推送 2026-11-02 · [GitHub](https://github.com/qwepablo12/EatWise1) · 个人维护
 
 **AI 文本解析的卡路里/宏量营养追踪应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qwepablo12/EatWise1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

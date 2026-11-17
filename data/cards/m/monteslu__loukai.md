@@ -1,6 +1,6 @@
 # monteslu/loukai
 
-⭐ 42 · JavaScript · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/monteslu/loukai) · 个人维护
+⭐ 44 · JavaScript · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/monteslu/loukai) · 个人维护
 
 **本地运行的开源卡拉OK软件：播放并制作分轨卡拉OK文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "monteslu/loukai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    title "monteslu/loukai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 42, 41, 43, 44, 44]
 ```
 
-2026-10-18 40 → 2026-11-02 42（+2）
+2026-10-18 40 → 2026-11-17 44（+4）
 
 
 ---

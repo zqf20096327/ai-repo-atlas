@@ -1,6 +1,6 @@
 # MabudAlam/NomAI-App
 
-⭐ 126 · Dart · 推送 2026-04-22 · [GitHub](https://github.com/MabudAlam/NomAI-App) · 个人维护
+⭐ 130 · Dart · 推送 2026-04-22 · [GitHub](https://github.com/MabudAlam/NomAI-App) · 个人维护
 
 **AI 营养与饮食追踪应用：拍照识别食物并生成周餐单**
 
@@ -44,13 +44,13 @@ Flutter 跨平台（iOS/Android/Web）营养追踪应用，配合独立的 FastA
 
 ```mermaid
 xychart-beta
-    title "MabudAlam/NomAI-App 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 125 --> 127
-    line [126, 126]
+    title "MabudAlam/NomAI-App 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 125 --> 131
+    line [126, 127, 130, 130]
 ```
 
-2026-10-18 126 → 2026-11-02 126（+0）
+2026-10-18 126 → 2026-11-17 130（+4）
 
 
 ---

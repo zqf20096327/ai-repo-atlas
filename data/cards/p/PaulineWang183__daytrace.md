@@ -1,6 +1,6 @@
 # PaulineWang183/daytrace
 
-⭐ 96 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/PaulineWang183/daytrace) · 个人维护 · 中文 README
+⭐ 95 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/PaulineWang183/daytrace) · 个人维护 · 中文 README
 
 **面向学生与知识工作者的本地优先 AI 桌面时间规划助手**
 
@@ -45,13 +45,13 @@ Electron + Flask + SQLite 构建的 macOS（Apple Silicon）桌面应用：用�
 
 ```mermaid
 xychart-beta
-    title "PaulineWang183/daytrace 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 95 --> 107
-    line [106, 105, 96, 96]
+    title "PaulineWang183/daytrace 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 94 --> 107
+    line [106, 105, 96, 95, 95]
 ```
 
-2026-10-18 106 → 2026-11-02 96（-10）
+2026-10-18 106 → 2026-11-17 95（-11）
 
 
 ---

@@ -1,6 +1,6 @@
 # SpeyTech/c-sentinel
 
-⭐ 71 · C · MIT · 推送 2026-03-28 · [GitHub](https://github.com/SpeyTech/c-sentinel) · [官网](https://speytech.com/) · 个人维护
+⭐ 72 · C · MIT · 推送 2026-03-28 · [GitHub](https://github.com/SpeyTech/c-sentinel) · [官网](https://speytech.com/) · 个人维护
 
 **C 编写的 UNIX 系统指纹采集器，供 AI 辅助安全分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SpeyTech/c-sentinel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "SpeyTech/c-sentinel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 70 --> 73
-    line [72, 71, 71]
+    line [72, 71, 72, 72]
 ```
 
-2026-10-18 72 → 2026-11-02 71（-1）
+2026-10-18 72 → 2026-11-17 72（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SuryaUT/EMG-Winter-Soldier-Arm
 
-⭐ 12 · C · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SuryaUT/EMG-Winter-Soldier-Arm) · 个人维护
+⭐ 13 · C · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SuryaUT/EMG-Winter-Soldier-Arm) · 个人维护
 
 **EMG 肌电控制仿生手臂：ESP32-S3 上端到端手势分类与驱动**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SuryaUT/EMG-Winter-Soldier-Arm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "SuryaUT/EMG-Winter-Soldier-Arm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

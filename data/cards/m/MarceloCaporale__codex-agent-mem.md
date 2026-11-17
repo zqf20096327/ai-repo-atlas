@@ -1,6 +1,6 @@
 # MarceloCaporale/codex-agent-mem
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/MarceloCaporale/codex-agent-mem) · [官网](https://marcelocaporale.github.io/codex-agent-mem/) · 个人维护 · 中文 README
+⭐ 41 · Python · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/MarceloCaporale/codex-agent-mem) · [官网](https://marcelocaporale.github.io/codex-agent-mem/) · 个人维护 · 中文 README
 
 **本地优先的 MCP 记忆层：为 AI 编码代理保存可审计项目记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarceloCaporale/codex-agent-mem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "MarceloCaporale/codex-agent-mem 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

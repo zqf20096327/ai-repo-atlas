@@ -1,6 +1,6 @@
 # cadugrillo/s7-mcp-bridge
 
-⭐ 27 · TypeScript · MIT · 推送 2026-03-20 · [GitHub](https://github.com/cadugrillo/s7-mcp-bridge) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-03-20 · [GitHub](https://github.com/cadugrillo/s7-mcp-bridge) · 个人维护
 
 **连接 AI 代理与西门子 S7 PLC 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cadugrillo/s7-mcp-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "cadugrillo/s7-mcp-bridge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

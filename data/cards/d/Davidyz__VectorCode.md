@@ -1,6 +1,6 @@
 # Davidyz/VectorCode
 
-⭐ 874 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Davidyz/VectorCode) · 个人维护
+⭐ 875 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Davidyz/VectorCode) · 个人维护
 
 **为编程 LLM 提供代码仓库索引与上下文注入的工具，含 Neovim 插件**
 
@@ -44,13 +44,13 @@ VectorCode 对本地代码仓库做索引（支持分块、语义/语法级 smar
 
 ```mermaid
 xychart-beta
-    title "Davidyz/VectorCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 873 --> 877
-    line [876, 874, 874]
+    title "Davidyz/VectorCode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 872 --> 877
+    line [876, 874, 873, 874, 875, 875]
 ```
 
-2026-10-18 876 → 2026-11-02 874（-2）
+2026-10-18 876 → 2026-11-17 875（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ameraner/dsen2-cr
 
-⭐ 184 · Python · GPL-3.0 · 推送 2026-01-26 · [GitHub](https://github.com/ameraner/dsen2-cr) · 个人维护
+⭐ 183 · Python · GPL-3.0 · 推送 2026-01-26 · [GitHub](https://github.com/ameraner/dsen2-cr) · 个人维护
 
 **去除 Sentinel-2 影像云层的深度残差网络模型代码**
 
@@ -45,13 +45,13 @@ DSen2-CR 是发表于 ISPRS Journal 2020 的论文配套仓库：用深度残差
 
 ```mermaid
 xychart-beta
-    title "ameraner/dsen2-cr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "ameraner/dsen2-cr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
     y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    line [183, 184, 183, 183]
 ```
 
-2026-10-18 183 → 2026-11-02 184（+1）
+2026-10-18 183 → 2026-11-17 183（+0）
 
 
 ---

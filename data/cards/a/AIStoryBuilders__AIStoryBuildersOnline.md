@@ -1,6 +1,6 @@
 # AIStoryBuilders/AIStoryBuildersOnline
 
-⭐ 16 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AIStoryBuilders/AIStoryBuildersOnline) · [官网](https://aistorybuilders.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在线 AI 小说写作工具：更快更易完成下一部小说**
 
@@ -11,7 +11,7 @@ AIStoryBuilders Online 是一个面向写作者的在线写作应用，提供免
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@ AIStoryBuilders Online 是一个面向写作者的在线写作应用，提供免
 ```mermaid
 xychart-beta
     title "AIStoryBuilders/AIStoryBuildersOnline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-14 16（+0）
 
 
 ---

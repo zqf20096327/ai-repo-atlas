@@ -1,6 +1,6 @@
 # MiniCodeMonkey/chief
 
-⭐ 472 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/MiniCodeMonkey/chief) · [官网](https://chiefloop.com) · 个人维护
+⭐ 474 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/MiniCodeMonkey/chief) · [官网](https://chiefloop.com) · 个人维护
 
 **把项目拆成任务并循环运行 Claude Code 的 Go TUI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiniCodeMonkey/chief 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 470 --> 474
-    line [473, 472, 471, 472, 472]
+    title "MiniCodeMonkey/chief 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 470 --> 475
+    line [473, 472, 471, 472, 473, 474, 474]
 ```
 
-2026-10-18 473 → 2026-11-02 472（-1）
+2026-10-18 473 → 2026-11-17 474（+1）
 
 
 ---

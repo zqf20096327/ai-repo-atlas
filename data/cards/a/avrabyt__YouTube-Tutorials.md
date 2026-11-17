@@ -1,6 +1,6 @@
 # avrabyt/YouTube-Tutorials
 
-⭐ 122 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/avrabyt/YouTube-Tutorials) · [官网](https://www.youtube.com/c/Avra_b) · 个人维护
+⭐ 121 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/avrabyt/YouTube-Tutorials) · [官网](https://www.youtube.com/c/Avra_b) · 个人维护
 
 **YouTube 教程视频合集仓库：Python/ML/bioinformatics/OpenAI 主题**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "avrabyt/YouTube-Tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 121 --> 123
-    line [122, 122]
+    title "avrabyt/YouTube-Tutorials 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 120 --> 123
+    line [122, 121, 121]
 ```
 
-2026-10-18 122 → 2026-11-02 122（+0）
+2026-10-18 122 → 2026-11-17 121（-1）
 
 
 ---

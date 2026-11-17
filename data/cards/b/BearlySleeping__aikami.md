@@ -1,6 +1,6 @@
 # BearlySleeping/aikami
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BearlySleeping/aikami) · [官网](https://bearlysleeping.com) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BearlySleeping/aikami) · [官网](https://bearlysleeping.com) · 个人维护
 
 **开源 AI 驱动 2D RPG 平台：生成叙事草稿并探索像素世界**
 
@@ -45,13 +45,13 @@ MIT 许可的 AI 2D RPG 冒险平台，处于早期开发阶段。当前版本�
 
 ```mermaid
 xychart-beta
-    title "BearlySleeping/aikami 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "BearlySleeping/aikami 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

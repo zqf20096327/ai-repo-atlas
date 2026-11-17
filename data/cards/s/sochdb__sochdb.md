@@ -1,6 +1,6 @@
 # sochdb/sochdb
 
-⭐ 48 · Rust · AGPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/sochdb/sochdb) · [官网](https://sochdb.dev) · 组织维护
+⭐ 49 · Rust · AGPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/sochdb/sochdb) · [官网](https://sochdb.dev) · 组织维护
 
 **面向 AI agent 的嵌入式 ACID 向量数据库，单引擎整合 SQL/向量/图记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sochdb/sochdb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "sochdb/sochdb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

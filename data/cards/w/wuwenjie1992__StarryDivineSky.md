@@ -1,6 +1,6 @@
 # wuwenjie1992/StarryDivineSky
 
-⭐ 951 · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/wuwenjie1992/StarryDivineSky) · [官网](https://www.wuwenjie.xyz) · 个人维护 · 中文 README
+⭐ 955 · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/wuwenjie1992/StarryDivineSky) · [官网](https://www.wuwenjie.xyz) · 个人维护 · 中文 README
 
 **10K+ 开源项目精选清单：机器学习、NLP、生物医药等分类导航**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuwenjie1992/StarryDivineSky 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 950 --> 953
-    line [952, 951, 952, 951, 951]
+    title "wuwenjie1992/StarryDivineSky 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 950 --> 956
+    line [952, 951, 952, 951, 952, 953, 954, 953, 955, 955]
 ```
 
-2026-10-18 952 → 2026-11-02 951（-1）
+2026-10-18 952 → 2026-11-17 955（+3）
 
 
 ---

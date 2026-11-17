@@ -1,6 +1,6 @@
 # mr-tbot/mesh-api
 
-⭐ 184 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/mr-tbot/mesh-api) · [官网](https://mesh-api.dev) · 个人维护
+⭐ 187 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/mr-tbot/mesh-api) · [官网](https://mesh-api.dev) · 个人维护
 
 **LoRa 网格网络的 AI/API 路由桥，连接 Meshtastic 与 MeshCore**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mr-tbot/mesh-api 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 179 --> 185
-    line [180, 182, 183, 184, 184]
+    title "mr-tbot/mesh-api 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 179 --> 188
+    line [180, 182, 183, 184, 183, 185, 186, 187, 187]
 ```
 
-2026-10-18 180 → 2026-11-02 184（+4）
+2026-10-18 180 → 2026-11-17 187（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # giannisanni/pulsar
 
-⭐ 231 · Rust · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/giannisanni/pulsar) · 个人维护
+⭐ 238 · Rust · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/giannisanni/pulsar) · 个人维护
 
 **在消费级多 GPU 上运行巨型 MoE 模型的 SSD 流式推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "giannisanni/pulsar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 229 --> 232
-    line [230, 231, 230, 231]
+    title "giannisanni/pulsar 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 229 --> 239
+    line [230, 231, 230, 231, 230, 235, 236, 237, 238, 238]
 ```
 
-2026-10-18 230 → 2026-11-02 231（+1）
+2026-10-18 230 → 2026-11-17 238（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # BryanBradfo/JAXlaxy
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/BryanBradfo/JAXlaxy) · [官网](https://jaxlaxy.bryanbradfo.me/) · 个人维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/BryanBradfo/JAXlaxy) · [官网](https://jaxlaxy.bryanbradfo.me/) · 个人维护
 
 **JAX 生态策展清单：按领域导航库与研究工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BryanBradfo/JAXlaxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "BryanBradfo/JAXlaxy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    line [14, 16, 14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

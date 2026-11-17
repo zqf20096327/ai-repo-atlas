@@ -1,6 +1,6 @@
 # anshk1234/stockly.ai
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anshk1234/stockly.ai) · [官网](https://stockly-ai.streamlit.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向散户的对话式股票分析 Web 应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anshk1234/stockly.ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "anshk1234/stockly.ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-07"]
     y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    line [45, 46, 47, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 47（+2）
+2026-10-18 45 → 2026-11-07 46（+1）
 
 
 ---

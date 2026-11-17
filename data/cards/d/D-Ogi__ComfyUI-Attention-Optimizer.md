@@ -1,6 +1,6 @@
 # D-Ogi/ComfyUI-Attention-Optimizer
 
-⭐ 37 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/D-Ogi/ComfyUI-Attention-Optimizer) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/D-Ogi/ComfyUI-Attention-Optimizer) · 个人维护
 
 **ComfyUI 插件：自动基准测试并选用最快 attention 后端加速扩散模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "D-Ogi/ComfyUI-Attention-Optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "D-Ogi/ComfyUI-Attention-Optimizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

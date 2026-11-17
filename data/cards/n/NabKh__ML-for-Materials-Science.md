@@ -1,6 +1,6 @@
 # NabKh/ML-for-Materials-Science
 
-⭐ 12 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/NabKh/ML-for-Materials-Science) · [官网](https://sustai-nabil.com/teaching/) · 个人维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/NabKh/ML-for-Materials-Science) · [官网](https://sustai-nabil.com/teaching/) · 个人维护
 
 **机器学习应用于材料科学的交互式教程系列（Jupyter）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NabKh/ML-for-Materials-Science 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "NabKh/ML-for-Materials-Science 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

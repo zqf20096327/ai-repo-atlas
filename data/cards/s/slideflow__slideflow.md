@@ -1,6 +1,6 @@
 # slideflow/slideflow
 
-⭐ 376 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/slideflow/slideflow) · [官网](https://slideflow.dev) · 组织维护
+⭐ 378 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/slideflow/slideflow) · [官网](https://slideflow.dev) · 组织维护
 
 **面向数字病理的深度学习库：全幻灯片图像训练与部署**
 
@@ -45,13 +45,13 @@ Python 深度学习库，面向医学研究者和开发者，用于病理全幻�
 
 ```mermaid
 xychart-beta
-    title "slideflow/slideflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 375 --> 377
-    line [376, 376]
+    title "slideflow/slideflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 375 --> 379
+    line [376, 378, 378]
 ```
 
-2026-10-18 376 → 2026-11-02 376（+0）
+2026-10-18 376 → 2026-11-17 378（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hoangsonww/Forge-Agentic-Coding-CLI
 
-⭐ 26 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Forge-Agentic-Coding-CLI) · [官网](https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Forge-Agentic-Coding-CLI) · [官网](https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/) · 个人维护
 
 **本地优先的多智能体软件工程运行时（CLI/REPL/UI）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/Forge-Agentic-Coding-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "hoangsonww/Forge-Agentic-Coding-CLI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

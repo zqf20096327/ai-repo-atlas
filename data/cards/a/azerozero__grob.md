@@ -1,6 +1,6 @@
 # azerozero/grob
 
-⭐ 24 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/azerozero/grob) · 组织维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/azerozero/grob) · 组织维护
 
 **面向编码代理的 LLM 代理网关：DLP 脱敏、多供应商故障转移与合规审计**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "azerozero/grob 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "azerozero/grob 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

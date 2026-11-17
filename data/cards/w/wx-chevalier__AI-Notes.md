@@ -1,6 +1,6 @@
 # wx-chevalier/AI-Notes
 
-⭐ 785 · Jupyter Notebook · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/wx-chevalier/AI-Notes) · [官网](https://ng-tech.icu/books/AI-Series) · 个人维护 · 中文 README
+⭐ 787 · Jupyter Notebook · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/wx-chevalier/AI-Notes) · [官网](https://ng-tech.icu/books/AI-Series) · 个人维护 · 中文 README
 
 **人工智能与深度学习中文系列学习笔记与教程仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wx-chevalier/AI-Notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 784 --> 786
-    line [785, 785]
+    title "wx-chevalier/AI-Notes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 784 --> 788
+    line [785, 786, 787, 787]
 ```
 
-2026-10-18 785 → 2026-11-02 785（+0）
+2026-10-18 785 → 2026-11-17 787（+2）
 
 
 ---

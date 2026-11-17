@@ -1,6 +1,6 @@
 # Lvyizhuo/Alibaba-ACACertification-LLM
 
-⭐ 19 · HTML · 推送 2026-08-26 · [GitHub](https://github.com/Lvyizhuo/Alibaba-ACACertification-LLM) · [官网](https://edu.aliyun.com/certification/aca13?spm=5176.38069147.J_HzKgVczpY3grCE0p2ViJx.10.3d0b33efC9r2H7) · 个人维护 · 中文 README
+⭐ 21 · HTML · 推送 2026-08-26 · [GitHub](https://github.com/Lvyizhuo/Alibaba-ACACertification-LLM) · [官网](https://edu.aliyun.com/certification/aca13?spm=5176.38069147.J_HzKgVczpY3grCE0p2ViJx.10.3d0b33efC9r2H7) · 个人维护 · 中文 README
 
 **阿里云大模型 ACA 认证学习笔记：思维导图与逐章笔记**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lvyizhuo/Alibaba-ACACertification-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "Lvyizhuo/Alibaba-ACACertification-LLM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

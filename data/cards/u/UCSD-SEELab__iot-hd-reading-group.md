@@ -1,6 +1,6 @@
 # UCSD-SEELab/iot-hd-reading-group
 
-⭐ 37 · 推送 2026-09-28 · [GitHub](https://github.com/UCSD-SEELab/iot-hd-reading-group) · 组织维护
+⭐ 38 · 推送 2026-09-28 · [GitHub](https://github.com/UCSD-SEELab/iot-hd-reading-group) · 组织维护
 
 **SEELab 的 IoT/超维计算/ML 论文阅读跟踪清单**
 
@@ -43,13 +43,13 @@ UCSD SEELab 维护的论文阅读小组仓库：以表格形式收录 AI 会议�
 
 ```mermaid
 xychart-beta
-    title "UCSD-SEELab/iot-hd-reading-group 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "UCSD-SEELab/iot-hd-reading-group 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kubeara/core
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kubeara/core) · [官网](https://kubeara.dev/) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kubeara/core) · [官网](https://kubeara.dev/) · 个人维护
 
 **自托管 PaaS：在自有服务器上一键部署 200+ 服务与 AI 模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kubeara/core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [43, 42, 42]
+    title "kubeara/core 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [43, 42, 43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 42（-1）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

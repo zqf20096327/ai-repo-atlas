@@ -1,6 +1,6 @@
 # zoejane/zmusic-pal
 
-⭐ 12 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/zoejane/zmusic-pal) · [官网](https://zmusic-pal.zoejane.net) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/zoejane/zmusic-pal) · [官网](https://zmusic-pal.zoejane.net) · 个人维护 · 中文 README
 
 **音乐人查调查和弦 Web 应用，附 AI 伙伴答疑（现已下线）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zoejane/zmusic-pal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "zoejane/zmusic-pal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

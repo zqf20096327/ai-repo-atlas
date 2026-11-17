@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "biomedical-signal-processing/sleepyland 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "biomedical-signal-processing/sleepyland 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    line [52, 53, 54, 52, 54, 54]
 ```
 
-2026-10-18 52 → 2026-11-02 54（+2）
+2026-10-18 52 → 2026-11-17 54（+2）
 
 
 ---

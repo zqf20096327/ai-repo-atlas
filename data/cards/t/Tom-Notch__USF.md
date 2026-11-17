@@ -1,6 +1,6 @@
 # Tom-Notch/USF
 
-⭐ 15 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/Tom-Notch/USF) · [官网](https://tomnotch.com/USF/) · 组织维护
+⭐ 15 · Python · BSD-3-Clause · 推送 2026-11-09 · [GitHub](https://github.com/Tom-Notch/USF) · [官网](https://tomnotch.com/USF/) · 组织维护
 
 **CVPR 2026 球面图像旋转等变视觉前端框架（USF）**
 
@@ -47,12 +47,12 @@ CMU 机器人研究所发布的统一球面前端（USF）研究代码：面向�
 ```mermaid
 xychart-beta
     title "Tom-Notch/USF 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

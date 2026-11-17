@@ -1,6 +1,6 @@
 # ythx-101/lan-control
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/ythx-101/lan-control) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/lan-control) · 个人维护
 
 **把家用路由器变成局域网设备控制中心的 CLI 工具**
 
@@ -46,12 +46,12 @@ Python 3.8+ 编写的本地优先 CLI 工具：通过 SSH DHCP 扫描、ARP、nm
 ```mermaid
 xychart-beta
     title "ythx-101/lan-control 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

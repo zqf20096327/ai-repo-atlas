@@ -1,6 +1,6 @@
 # amanchadha/coursera-natural-language-processing-specialization
 
-⭐ 376 · Jupyter Notebook · MIT · 推送 2025-12-08 · [GitHub](https://github.com/amanchadha/coursera-natural-language-processing-specialization) · 个人维护
+⭐ 377 · Jupyter Notebook · MIT · 推送 2025-12-08 · [GitHub](https://github.com/amanchadha/coursera-natural-language-processing-specialization) · 个人维护
 
 **deeplearning.ai NLP 专项课程的编程作业解答合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "amanchadha/coursera-natural-language-processing-specialization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 375 --> 377
-    line [376, 376]
+    title "amanchadha/coursera-natural-language-processing-specialization 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 375 --> 378
+    line [376, 377, 377]
 ```
 
-2026-10-18 376 → 2026-11-02 376（+0）
+2026-10-18 376 → 2026-11-17 377（+1）
 
 
 ---

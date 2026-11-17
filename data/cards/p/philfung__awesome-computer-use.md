@@ -1,6 +1,6 @@
 # philfung/awesome-computer-use
 
-⭐ 24 · 推送 2026-10-31 · [GitHub](https://github.com/philfung/awesome-computer-use) · 个人维护
+⭐ 24 · 推送 2026-11-02 · [GitHub](https://github.com/philfung/awesome-computer-use) · 个人维护
 
 **LLM 驱动 GUI computer-use 的论文与库策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "philfung/awesome-computer-use 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "philfung/awesome-computer-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

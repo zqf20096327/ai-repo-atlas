@@ -1,6 +1,6 @@
 # Yelp/yelp-mcp
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/Yelp/yelp-mcp) · [官网](https://business.yelp.com/data/products/fusion-ai/) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Yelp/yelp-mcp) · [官网](https://business.yelp.com/data/products/fusion-ai/) · 组织维护
 
 **将 Yelp 商户数据与对话能力接入 MCP 客户端的工具服务器**
 
@@ -44,13 +44,13 @@ Yelp 官方维护的 Model Context Protocol 服务器，暴露 yelp_agent 单一
 
 ```mermaid
 xychart-beta
-    title "Yelp/yelp-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Yelp/yelp-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

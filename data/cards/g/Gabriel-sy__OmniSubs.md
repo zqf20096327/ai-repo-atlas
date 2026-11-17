@@ -1,6 +1,6 @@
 # Gabriel-sy/OmniSubs
 
-⭐ 19 · C# · 推送 2026-07-27 · [GitHub](https://github.com/Gabriel-sy/OmniSubs) · [官网](https://omnisubs.me) · 个人维护
+⭐ 20 · C# · 推送 2026-07-27 · [GitHub](https://github.com/Gabriel-sy/OmniSubs) · [官网](https://omnisubs.me) · 个人维护
 
 **Windows 右键菜单字幕下载工具，带 AI 字幕翻译**
 
@@ -43,13 +43,13 @@ Windows 右键菜单工具：通过 OpenSubtitles.com 账号，对视频文件�
 
 ```mermaid
 xychart-beta
-    title "Gabriel-sy/OmniSubs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Gabriel-sy/OmniSubs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # TayunStarry/Lunar_Astral_Agents
 
-⭐ 34 · C++ · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/TayunStarry/Lunar_Astral_Agents) · 个人维护 · 中文 README
+⭐ 34 · C++ · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/TayunStarry/Lunar_Astral_Agents) · 个人维护 · 中文 README
 
 **纯本地 Windows 桌面 AI 智能体平台，零 Python/零云端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TayunStarry/Lunar_Astral_Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "TayunStarry/Lunar_Astral_Agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [34, 33, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

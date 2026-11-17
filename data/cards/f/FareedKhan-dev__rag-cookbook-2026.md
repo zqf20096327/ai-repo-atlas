@@ -1,6 +1,6 @@
 # FareedKhan-dev/rag-cookbook-2026
 
-⭐ 30 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/FareedKhan-dev/rag-cookbook-2026) · [官网](https://fareedkhan-dev.github.io/rag-cookbook-2026/) · 个人维护
+⭐ 31 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/FareedKhan-dev/rag-cookbook-2026) · [官网](https://fareedkhan-dev.github.io/rag-cookbook-2026/) · 个人维护
 
 **40 章生产级 RAG 实战食谱集：含理论与评测的可运行教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/rag-cookbook-2026 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "FareedKhan-dev/rag-cookbook-2026 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

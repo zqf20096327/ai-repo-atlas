@@ -1,6 +1,6 @@
 # VizzleTF/CommitSage
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VizzleTF/CommitSage) · [官网](https://marketplace.visualstudio.com/items?itemName=VizzleTF.geminicommit) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/VizzleTF/CommitSage) · [官网](https://marketplace.visualstudio.com/items?itemName=VizzleTF.geminicommit) · 个人维护
 
 **用 AI 从 Git 改动生成 commit 信息的 VS Code 扩展**
 
@@ -44,13 +44,13 @@ VS Code 扩展，读取暂存的 diff，经用户选择的 AI 提供商生成 co
 
 ```mermaid
 xychart-beta
-    title "VizzleTF/CommitSage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "VizzleTF/CommitSage 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    line [52, 53, 52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

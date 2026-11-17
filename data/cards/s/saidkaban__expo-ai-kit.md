@@ -1,6 +1,6 @@
 # saidkaban/expo-ai-kit
 
-⭐ 91 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/saidkaban/expo-ai-kit) · [官网](https://expo-ai-kit.dev) · 个人维护
+⭐ 94 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/saidkaban/expo-ai-kit) · [官网](https://expo-ai-kit.dev) · 个人维护
 
 **React Native 端侧 AI 库：本地 LLM、语音转写、视觉与嵌入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "saidkaban/expo-ai-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 90 --> 92
-    line [91, 91]
+    title "saidkaban/expo-ai-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 90 --> 95
+    line [91, 94, 94]
 ```
 
-2026-10-18 91 → 2026-11-02 91（+0）
+2026-10-18 91 → 2026-11-17 94（+3）
 
 
 ---

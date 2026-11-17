@@ -1,6 +1,6 @@
 # sausheong/felix
 
-⭐ 50 · Go · 推送 2026-08-03 · [GitHub](https://github.com/sausheong/felix) · 个人维护
+⭐ 52 · Go · 推送 2026-08-03 · [GitHub](https://github.com/sausheong/felix) · 个人维护
 
 **自托管单二进制 AI agent 网关，多 LLM 接入与本地运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sausheong/felix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "sausheong/felix 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

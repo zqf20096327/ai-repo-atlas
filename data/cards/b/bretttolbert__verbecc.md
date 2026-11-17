@@ -1,6 +1,6 @@
 # bretttolbert/verbecc
 
-⭐ 107 · Python · LGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/bretttolbert/verbecc) · [官网](http://verbe.cc) · 个人维护
+⭐ 106 · Python · LGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/bretttolbert/verbecc) · [官网](http://verbe.cc) · 个人维护
 
 **罗曼语系动词变位 Python 库，ML 预测未知动词变位**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bretttolbert/verbecc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    title "bretttolbert/verbecc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 105 --> 108
+    line [107, 106, 106]
 ```
 
-2026-10-18 107 → 2026-11-02 107（+0）
+2026-10-18 107 → 2026-11-17 106（-1）
 
 
 ---

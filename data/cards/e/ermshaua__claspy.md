@@ -1,6 +1,6 @@
 # ermshaua/claspy
 
-⭐ 146 · Jupyter Notebook · BSD-3-Clause · 推送 2026-03-19 · [GitHub](https://github.com/ermshaua/claspy) · 组织维护
+⭐ 147 · Jupyter Notebook · BSD-3-Clause · 推送 2026-03-19 · [GitHub](https://github.com/ermshaua/claspy) · 组织维护
 
 **时间序列分割 Python 库：无参数变点检测与状态识别**
 
@@ -45,13 +45,13 @@ ClaSP 算法的官方 Python 实现，提供时间序列分割能力：BinaryCla
 
 ```mermaid
 xychart-beta
-    title "ermshaua/claspy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 145 --> 147
-    line [146, 146]
+    title "ermshaua/claspy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 145 --> 148
+    line [146, 147, 147]
 ```
 
-2026-10-18 146 → 2026-11-02 146（+0）
+2026-10-18 146 → 2026-11-17 147（+1）
 
 
 ---

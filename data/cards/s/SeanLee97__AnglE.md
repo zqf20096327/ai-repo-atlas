@@ -1,6 +1,6 @@
 # SeanLee97/AnglE
 
-⭐ 575 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/SeanLee97/AnglE) · [官网](https://arxiv.org/abs/2309.12871) · 个人维护 · 中文 README
+⭐ 576 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/SeanLee97/AnglE) · [官网](https://arxiv.org/abs/2309.12871) · 个人维护 · 中文 README
 
 **面向开发者的句子嵌入训练与推理库（BERT/LLM 主干）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeanLee97/AnglE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 574 --> 576
-    line [575, 575]
+    title "SeanLee97/AnglE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 574 --> 577
+    line [575, 576, 576]
 ```
 
-2026-10-18 575 → 2026-11-02 575（+0）
+2026-10-18 575 → 2026-11-17 576（+1）
 
 
 ---

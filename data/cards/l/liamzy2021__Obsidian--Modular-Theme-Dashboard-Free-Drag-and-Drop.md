@@ -1,6 +1,6 @@
 # liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop
 
-⭐ 21 · CSS · MIT · 推送 2026-07-14 · [GitHub](https://github.com/liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop) · 个人维护 · 中文 README
+⭐ 22 · CSS · MIT · 推送 2026-07-14 · [GitHub](https://github.com/liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop) · 个人维护 · 中文 README
 
 **Obsidian 模块化仪表盘插件：拖拽主页+多格式查看器+AI翻译/转录**
 
@@ -45,13 +45,13 @@ Obsidian 仪表盘插件，提供自由拖拽的绝对定位画布、25 个内�
 
 ```mermaid
 xychart-beta
-    title "liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

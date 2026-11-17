@@ -1,6 +1,6 @@
 # baler-collaboration/baler
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/baler-collaboration/baler) · [官网](https://github.com/baler-collaboration/baler.github.io) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/baler-collaboration/baler) · [官网](https://github.com/baler-collaboration/baler.github.io) · 组织维护
 
 **基于机器学习自编码器的科学数据压缩工具**
 
@@ -44,12 +44,12 @@ Baler 用于测试以机器学习自编码器压缩不同类型科学数据的�
 ```mermaid
 xychart-beta
     title "baler-collaboration/baler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

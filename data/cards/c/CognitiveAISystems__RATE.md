@@ -1,6 +1,6 @@
 # CognitiveAISystems/RATE
 
-⭐ 26 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/CognitiveAISystems/RATE) · 组织维护
+⭐ 27 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/CognitiveAISystems/RATE) · 组织维护
 
 **带记忆机制的离线强化学习智能体官方实现（ICLR 2026）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CognitiveAISystems/RATE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "CognitiveAISystems/RATE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

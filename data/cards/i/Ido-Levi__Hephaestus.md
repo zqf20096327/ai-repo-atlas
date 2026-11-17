@@ -1,6 +1,6 @@
 # Ido-Levi/Hephaestus
 
-⭐ 1,185 · Python · NOASSERTION · 推送 2025-12-01 · [GitHub](https://github.com/Ido-Levi/Hephaestus) · 个人维护
+⭐ 1,189 · Python · NOASSERTION · 推送 2025-12-01 · [GitHub](https://github.com/Ido-Levi/Hephaestus) · 个人维护
 
 **半结构化多智能体框架：工作流由 agent 发现动态生成任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ido-Levi/Hephaestus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1183 --> 1186
-    line [1185, 1184, 1185, 1185]
+    title "Ido-Levi/Hephaestus 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1183 --> 1190
+    line [1185, 1184, 1185, 1184, 1185, 1186, 1187, 1188, 1189, 1189]
 ```
 
-2026-10-18 1,185 → 2026-11-02 1,185（+0）
+2026-10-18 1,185 → 2026-11-17 1,189（+4）
 
 
 ---

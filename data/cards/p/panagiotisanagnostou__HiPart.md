@@ -1,6 +1,6 @@
 # panagiotisanagnostou/HiPart
 
-⭐ 56 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/panagiotisanagnostou/HiPart) · [官网](https://hipart.readthedocs.io/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/panagiotisanagnostou/HiPart) · [官网](https://hipart.readthedocs.io/) · 组织维护
 
 **分裂式层次聚类算法库：可交互可视化操纵聚类过程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "panagiotisanagnostou/HiPart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

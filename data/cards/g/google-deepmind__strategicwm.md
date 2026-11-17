@@ -1,6 +1,6 @@
 # google-deepmind/strategicwm
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/google-deepmind/strategicwm) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/google-deepmind/strategicwm) · 组织维护
 
 **用 LLM 从自然语言构建博弈树并做博弈论分析的 Python 库**
 
@@ -45,13 +45,13 @@ DeepMind 的 strategicwm（swm）面向研究者和开发者：用 LLM 从自然
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/strategicwm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "google-deepmind/strategicwm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

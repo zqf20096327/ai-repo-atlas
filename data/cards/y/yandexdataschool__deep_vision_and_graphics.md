@@ -1,6 +1,6 @@
 # yandexdataschool/deep_vision_and_graphics
 
-⭐ 414 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yandexdataschool/deep_vision_and_graphics) · 组织维护
+⭐ 417 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yandexdataschool/deep_vision_and_graphics) · 组织维护
 
 **YSDA 深度学习计算机视觉与图形学课程资料库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yandexdataschool/deep_vision_and_graphics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 412 --> 415
-    line [413, 414, 414]
+    title "yandexdataschool/deep_vision_and_graphics 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 412 --> 418
+    line [413, 414, 415, 417, 417]
 ```
 
-2026-10-18 413 → 2026-11-02 414（+1）
+2026-10-18 413 → 2026-11-17 417（+4）
 
 
 ---

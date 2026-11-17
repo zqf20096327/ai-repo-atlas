@@ -1,6 +1,6 @@
 # Xenios91/Glyph
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Xenios91/Glyph) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Xenios91/Glyph) · 个人维护
 
 **跨架构二进制函数指纹识别与危险函数扫描平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xenios91/Glyph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

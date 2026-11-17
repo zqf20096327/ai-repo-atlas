@@ -1,6 +1,6 @@
 # livingbio/fuzzy-json
 
-⭐ 45 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/livingbio/fuzzy-json) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/livingbio/fuzzy-json) · 个人维护
 
 **零依赖 Python 库：自动修复 LLM 输出的非法 JSON**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "livingbio/fuzzy-json 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 45（+0）
 
 
 ---

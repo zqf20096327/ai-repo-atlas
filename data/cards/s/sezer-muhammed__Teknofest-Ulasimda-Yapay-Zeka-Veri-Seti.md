@@ -1,6 +1,6 @@
 # sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti
 
-⭐ 51 · 推送 2026-01-02 · [GitHub](https://github.com/sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti) · 组织维护
+⭐ 52 · 推送 2026-01-02 · [GitHub](https://github.com/sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti) · 组织维护
 
 **2022 Teknofest 交通赛俯视图目标检测数据集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

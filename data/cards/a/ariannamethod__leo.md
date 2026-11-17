@@ -1,6 +1,6 @@
 # ariannamethod/leo
 
-⭐ 16 · C · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/ariannamethod/leo) · [官网](http://x.com/@olegataeff) · 个人维护
+⭐ 16 · C · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/ariannamethod/leo) · [官网](http://x.com/@olegataeff) · 个人维护
 
 **零预训练权重的后 Transformer 语言生成体（纯 C）**
 
@@ -45,12 +45,12 @@ Arianna Method 维护的实验性语言生成体 leo.c：不加载预训练权�
 ```mermaid
 xychart-beta
     title "ariannamethod/leo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

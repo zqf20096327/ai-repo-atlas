@@ -1,6 +1,6 @@
 # dead1786/kagora
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/dead1786/kagora) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/dead1786/kagora) · 个人维护 · 中文 README
 
 **统一管理多个 AI agent 的终端平台：终端、群聊、定时自动化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dead1786/kagora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

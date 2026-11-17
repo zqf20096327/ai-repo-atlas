@@ -1,6 +1,6 @@
 # clearyss/WeLoom
 
-⭐ 39 · Python · AGPL-3.0 · 推送 2026-05-15 · [GitHub](https://github.com/clearyss/WeLoom) · 个人维护 · 中文 README
+⭐ 40 · Python · AGPL-3.0 · 推送 2026-05-15 · [GitHub](https://github.com/clearyss/WeLoom) · 个人维护 · 中文 README
 
 **将多平台聊天记录转为数字分身的本地聊天记忆系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "clearyss/WeLoom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39]
+    title "clearyss/WeLoom 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 38, 40, 41, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # xuri/excelize-cs
 
-⭐ 15 · C# · BSD-3-Clause · 推送 2026-08-24 · [GitHub](https://github.com/xuri/excelize-cs) · [官网](https://xuri.me/excelize) · 个人维护 · 中文 README
+⭐ 16 · C# · BSD-3-Clause · 推送 2026-11-07 · [GitHub](https://github.com/xuri/excelize-cs) · [官网](https://xuri.me/excelize) · 个人维护 · 中文 README
 
 **C# 读写 Excel（XLSX/XLSM 等）文件的开源库**
 
@@ -43,13 +43,13 @@ Go 语言 Excelize 库的 C# 移植版，提供对 XLAM/XLSM/XLSX/XLTM/XLTX 格�
 
 ```mermaid
 xychart-beta
-    title "xuri/excelize-cs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "xuri/excelize-cs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

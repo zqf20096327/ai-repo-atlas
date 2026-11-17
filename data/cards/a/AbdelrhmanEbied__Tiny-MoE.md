@@ -1,6 +1,6 @@
 # AbdelrhmanEbied/Tiny-MoE
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/AbdelrhmanEbied/Tiny-MoE) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/AbdelrhmanEbied/Tiny-MoE) · 个人维护
 
 **纯 PyTorch 从零实现的轻量 MoE 语言模型及训练管线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdelrhmanEbied/Tiny-MoE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "AbdelrhmanEbied/Tiny-MoE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

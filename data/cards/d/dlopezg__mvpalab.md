@@ -1,6 +1,6 @@
 # dlopezg/mvpalab
 
-⭐ 32 · MATLAB · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/dlopezg/mvpalab) · 个人维护
+⭐ 32 · MATLAB · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/dlopezg/mvpalab) · 个人维护
 
 **MATLAB 的 EEG/MEG 多变量模式分析解码工具箱**
 
@@ -45,12 +45,12 @@ MVPAlab 是基于 MATLAB 的多维脑电（EEG）与脑磁（MEG）数据解码�
 ```mermaid
 xychart-beta
     title "dlopezg/mvpalab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

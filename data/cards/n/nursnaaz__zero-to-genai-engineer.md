@@ -1,6 +1,6 @@
 # nursnaaz/zero-to-genai-engineer
 
-⭐ 21 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nursnaaz/zero-to-genai-engineer) · [官网](https://nursnaaz.github.io) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nursnaaz/zero-to-genai-engineer) · [官网](https://nursnaaz.github.io) · 个人维护
 
 **从零到生产级 GenAI 工程师的免费开源课程仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nursnaaz/zero-to-genai-engineer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "nursnaaz/zero-to-genai-engineer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

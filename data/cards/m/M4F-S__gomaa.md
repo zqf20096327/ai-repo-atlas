@@ -1,6 +1,6 @@
 # M4F-S/gomaa
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/M4F-S/gomaa) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/M4F-S/gomaa) · 个人维护
 
 **给 AI agent 的持久记忆系统：Obsidian 笔记库+混合检索+MCP 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "M4F-S/gomaa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "M4F-S/gomaa 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-17"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 35]
+    line [33, 34, 35, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 35（+2）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

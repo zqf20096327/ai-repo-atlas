@@ -1,6 +1,6 @@
 # MontyGovernance/montycat-mcp
 
-⭐ 23 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MontyGovernance/montycat-mcp) · [官网](https://montygovernance.com/docs) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/MontyGovernance/montycat-mcp) · [官网](https://montygovernance.com/docs) · 组织维护
 
 **自托管 MCP 服务器：为 AI agents 提供共享持久记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MontyGovernance/montycat-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "MontyGovernance/montycat-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
     y-axis "stars" 22 --> 29
-    line [28, 24, 23, 23]
+    line [28, 24, 23, 24, 25, 27, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 23（-5）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

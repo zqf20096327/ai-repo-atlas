@@ -1,6 +1,6 @@
 # OuyangWenyu/HydroDHM
 
-⭐ 23 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/OuyangWenyu/HydroDHM) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向资料稀缺流域的可微分水文模型：日径流预测**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OuyangWenyu/HydroDHM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-12 23（+1）
 
 
 ---

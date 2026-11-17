@@ -1,6 +1,6 @@
 # XBigRoad/prompt-optimizer-studio
 
-⭐ 216 · TypeScript · AGPL-3.0 · 推送 2026-04-04 · [GitHub](https://github.com/XBigRoad/prompt-optimizer-studio) · [官网](https://github.com/XBigRoad/prompt-optimizer-studio/blob/main/docs/deployment/docker-self-hosted.md) · 个人维护 · 中文 README
+⭐ 216 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/XBigRoad/prompt-optimizer-studio) · [官网](https://github.com/XBigRoad/prompt-optimizer-studio/blob/main/docs/deployment/docker-self-hosted.md) · 个人维护 · 中文 README
 
 **自托管的提示词多轮自动优化工作台**
 
@@ -45,13 +45,13 @@ Prompt Optimizer Studio 以自托管服务端版发布：用户提交初版 prom
 
 ```mermaid
 xychart-beta
-    title "XBigRoad/prompt-optimizer-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    title "XBigRoad/prompt-optimizer-studio 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 213 --> 217
-    line [216, 214, 216, 216]
+    line [216, 214, 216, 214, 215, 216, 216]
 ```
 
-2026-10-18 216 → 2026-11-02 216（+0）
+2026-10-18 216 → 2026-11-17 216（+0）
 
 
 ---

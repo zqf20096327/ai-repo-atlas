@@ -1,6 +1,6 @@
 # como-votam/teor
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/como-votam/teor) · [官网](https://teor.comovotam.com.br) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/como-votam/teor) · [官网](https://teor.comovotam.com.br) · 个人维护
 
 **面向巴西立法流程的 LLM 开放基准测试**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "como-votam/teor 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "como-votam/teor 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 4 --> 32
+    line [30, 9, 6, 6]
 ```
 
-2026-10-31 30 → 2026-11-02 30（+0）
+2026-10-31 30 → 2026-11-17 6（-24）
 
 
 ---

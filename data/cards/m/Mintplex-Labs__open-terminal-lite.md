@@ -1,6 +1,6 @@
 # Mintplex-Labs/open-terminal-lite
 
-⭐ 12 · JavaScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/Mintplex-Labs/open-terminal-lite) · 组织维护
+⭐ 13 · JavaScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/Mintplex-Labs/open-terminal-lite) · 组织维护
 
 **给 AI agent 提供自托管命令执行环境的轻量终端服务**
 
@@ -45,13 +45,13 @@ open-webui/open-terminal 的 Node.js 重写版，以约 400MB 的 Alpine Docker 
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/open-terminal-lite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Mintplex-Labs/open-terminal-lite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

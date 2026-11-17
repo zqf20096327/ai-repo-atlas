@@ -1,6 +1,6 @@
 # intellibar/main
 
-⭐ 71 · 推送 2026-01-13 · [GitHub](https://github.com/intellibar/main) · [官网](https://intellibar.app/) · 组织维护
+⭐ 70 · 推送 2026-01-13 · [GitHub](https://github.com/intellibar/main) · [官网](https://intellibar.app/) · 组织维护
 
 **Mac 平台 AI 助手应用 IntelliBar 的官方资源仓库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "intellibar/main 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "intellibar/main 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 69 --> 72
+    line [71, 70, 70]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 70（-1）
 
 
 ---

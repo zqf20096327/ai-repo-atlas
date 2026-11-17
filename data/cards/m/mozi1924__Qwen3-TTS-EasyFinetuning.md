@@ -1,6 +1,6 @@
 # mozi1924/Qwen3-TTS-EasyFinetuning
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/mozi1924/Qwen3-TTS-EasyFinetuning) · 个人维护 · 中文 README
+⭐ 130 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/mozi1924/Qwen3-TTS-EasyFinetuning) · 个人维护 · 中文 README
 
 **Qwen3-TTS 模型微调工作区：从原始音频到自定义语音模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozi1924/Qwen3-TTS-EasyFinetuning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 127 --> 130
-    line [128, 129, 129]
+    title "mozi1924/Qwen3-TTS-EasyFinetuning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 127 --> 131
+    line [128, 129, 130, 130]
 ```
 
-2026-10-18 128 → 2026-11-02 129（+1）
+2026-10-18 128 → 2026-11-17 130（+2）
 
 
 ---

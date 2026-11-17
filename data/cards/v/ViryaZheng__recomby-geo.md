@@ -1,6 +1,6 @@
 # ViryaZheng/recomby-geo
 
-⭐ 457 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ViryaZheng/recomby-geo) · 组织维护 · 中文 README
+⭐ 456 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ViryaZheng/recomby-geo) · 组织维护 · 中文 README
 
 **GEO（生成引擎优化）领域 AI 员工方案：skills 与生态清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ViryaZheng/recomby-geo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 456 --> 460
-    line [459, 458, 457, 457]
+    title "ViryaZheng/recomby-geo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 453 --> 460
+    line [459, 458, 457, 458, 454, 455, 456, 456]
 ```
 
-2026-10-18 459 → 2026-11-02 457（-2）
+2026-10-18 459 → 2026-11-17 456（-3）
 
 
 ---

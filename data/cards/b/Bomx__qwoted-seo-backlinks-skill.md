@@ -1,6 +1,6 @@
 # Bomx/qwoted-seo-backlinks-skill
 
-⭐ 150 · Python · 推送 2026-05-02 · [GitHub](https://github.com/Bomx/qwoted-seo-backlinks-skill) · [官网](https://distribb.io) · 组织维护
+⭐ 156 · Python · 推送 2026-05-02 · [GitHub](https://github.com/Bomx/qwoted-seo-backlinks-skill) · [官网](https://distribb.io) · 组织维护
 
 **让 Claude Code 代理在 Qwoted 上找 PR 机会并投放引用链接的技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bomx/qwoted-seo-backlinks-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 146 --> 152
-    line [147, 148, 149, 150, 151, 150, 150]
+    title "Bomx/qwoted-seo-backlinks-skill 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 146 --> 157
+    line [147, 148, 149, 150, 151, 150, 154, 155, 156, 156]
 ```
 
-2026-10-18 147 → 2026-11-02 150（+3）
+2026-10-18 147 → 2026-11-17 156（+9）
 
 
 ---

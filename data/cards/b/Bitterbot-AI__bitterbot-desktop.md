@@ -1,6 +1,6 @@
 # Bitterbot-AI/bitterbot-desktop
 
-⭐ 2,480 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Bitterbot-AI/bitterbot-desktop) · [官网](https://bitterbot.ai) · 组织维护
+⭐ 2,486 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Bitterbot-AI/bitterbot-desktop) · [官网](https://bitterbot.ai) · 组织维护
 
 **本地优先的个人 AI agent：持久记忆+技能学习+多渠道对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bitterbot-AI/bitterbot-desktop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 2474 --> 2481
-    line [2475, 2476, 2477, 2478, 2480]
+    title "Bitterbot-AI/bitterbot-desktop 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 2474 --> 2487
+    line [2475, 2476, 2477, 2478, 2480, 2478, 2483, 2484, 2486, 2486]
 ```
 
-2026-10-18 2,475 → 2026-11-02 2,480（+5）
+2026-10-18 2,475 → 2026-11-17 2,486（+11）
 
 
 ---

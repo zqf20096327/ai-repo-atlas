@@ -1,6 +1,6 @@
 # SoftBacon-Software/mycelium
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/SoftBacon-Software/mycelium) · [官网](https://mycelium.fyi/) · 组织维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/SoftBacon-Software/mycelium) · [官网](https://mycelium.fyi/) · 组织维护
 
 **本地自托管的多智能体记忆与协调层，HTTP 皆可接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SoftBacon-Software/mycelium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

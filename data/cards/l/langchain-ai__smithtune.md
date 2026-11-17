@@ -1,6 +1,6 @@
 # langchain-ai/smithtune
 
-⭐ 33 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/smithtune) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/langchain-ai/smithtune) · 组织维护
 
 **基于 LangSmith 轨迹数据做模型后训练（微调）的 CLI 工具**
 
@@ -46,13 +46,13 @@ smithtune 是 LangChain 团队提供的命令行工具，用于把 LangSmith 中
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/smithtune 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "langchain-ai/smithtune 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 28 --> 35
-    line [29, 30, 31, 33, 34, 33, 33]
+    line [29, 30, 31, 33, 34, 33, 31, 33, 34, 34]
 ```
 
-2026-10-18 29 → 2026-11-02 33（+4）
+2026-10-18 29 → 2026-11-17 34（+5）
 
 
 ---

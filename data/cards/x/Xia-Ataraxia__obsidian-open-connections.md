@@ -1,6 +1,6 @@
 # Xia-Ataraxia/obsidian-open-connections
 
-⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Xia-Ataraxia/obsidian-open-connections) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Obsidian 插件：语义关联笔记展示与语义搜索，附带 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xia-Ataraxia/obsidian-open-connections 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "Xia-Ataraxia/obsidian-open-connections 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    line [20, 21, 22, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-07 21（+1）
 
 
 ---

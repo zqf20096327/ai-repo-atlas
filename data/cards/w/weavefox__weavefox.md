@@ -1,6 +1,6 @@
 # weavefox/weavefox
 
-⭐ 17 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/weavefox/weavefox) · [官网](https://www.weavefox.cn) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **AI 辅助创意变现应用（README 信息极少）**
 
@@ -11,7 +11,7 @@ WeaveFox 自称定位为『灵感即产品，让创意快速变现；零门槛�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,12 +40,12 @@ WeaveFox 自称定位为『灵感即产品，让创意快速变现；零门槛�
 ```mermaid
 xychart-beta
     title "weavefox/weavefox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-07 17（+0）
 
 
 ---

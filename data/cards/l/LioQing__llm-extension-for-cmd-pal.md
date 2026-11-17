@@ -1,6 +1,6 @@
 # LioQing/llm-extension-for-cmd-pal
 
-⭐ 81 · C# · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LioQing/llm-extension-for-cmd-pal) · [官网](http://lioqing.com/llm-extension-for-cmd-pal/) · 个人维护
+⭐ 82 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/LioQing/llm-extension-for-cmd-pal) · [官网](http://lioqing.com/llm-extension-for-cmd-pal/) · 个人维护
 
 **在 PowerToys 命令面板中直接对话 LLM 的扩展**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "LioQing/llm-extension-for-cmd-pal 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 77 --> 82
-    line [78, 79, 80, 81, 81]
+    title "LioQing/llm-extension-for-cmd-pal 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 77 --> 83
+    line [78, 79, 80, 81, 79, 82, 82]
 ```
 
-2026-10-18 78 → 2026-11-02 81（+3）
+2026-10-18 78 → 2026-11-17 82（+4）
 
 
 ---

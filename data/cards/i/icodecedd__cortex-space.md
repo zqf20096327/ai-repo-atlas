@@ -1,6 +1,6 @@
 # icodecedd/cortex-space
 
-⭐ 23 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/icodecedd/cortex-space) · [官网](https://cortex-space.vercel.app/) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/icodecedd/cortex-space) · [官网](https://cortex-space.vercel.app/) · 个人维护
 
 **本地优先的多面板终端管理器，面向开发者的桌面工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "icodecedd/cortex-space 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "icodecedd/cortex-space 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-16", "2026-11-17"]
     y-axis "stars" 22 --> 26
-    line [25, 23, 23]
+    line [25, 23, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-02 23（-2）
+2026-10-18 25 → 2026-11-17 24（-1）
 
 
 ---

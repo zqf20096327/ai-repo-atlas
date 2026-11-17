@@ -1,6 +1,6 @@
 # super-mortal/DeepSeekHarnessGuide
 
-⭐ 13 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/super-mortal/DeepSeekHarnessGuide) · [官网](https://dsh.supermortal.top) · 个人维护 · 中文 README
+⭐ 14 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/super-mortal/DeepSeekHarnessGuide) · [官网](https://dsh.supermortal.top) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 实战教程站：从入门到插件发布的蓝皮书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "super-mortal/DeepSeekHarnessGuide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "super-mortal/DeepSeekHarnessGuide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

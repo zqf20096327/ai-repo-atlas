@@ -1,6 +1,6 @@
 # LidiaGarrucho/MAMA-MIA
 
-⭐ 117 · Jupyter Notebook · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/LidiaGarrucho/MAMA-MIA) · [官网](https://doi.org/10.7303/syn60868042) · 组织维护
+⭐ 118 · Jupyter Notebook · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/LidiaGarrucho/MAMA-MIA) · [官网](https://doi.org/10.7303/syn60868042) · 组织维护
 
 **1,506 例多中心乳腺癌 DCE-MRI 公开数据集，含专家分割**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LidiaGarrucho/MAMA-MIA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    title "LidiaGarrucho/MAMA-MIA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 116 --> 119
+    line [117, 118, 118]
 ```
 
-2026-10-18 117 → 2026-11-02 117（+0）
+2026-10-18 117 → 2026-11-17 118（+1）
 
 
 ---

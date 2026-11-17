@@ -1,6 +1,6 @@
 # luzhenqian/claude-harness
 
-⭐ 117 · MDX · 推送 2026-05-21 · [GitHub](https://github.com/luzhenqian/claude-harness) · [官网](https://claude-harness.dev) · 个人维护 · 中文 README
+⭐ 117 · MDX · 推送 2026-11-09 · [GitHub](https://github.com/luzhenqian/claude-harness) · [官网](https://claude-harness.dev) · 个人维护 · 中文 README
 
 **解构 Claude Code 的交互式源码分析学习平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luzhenqian/claude-harness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 109 --> 118
-    line [110, 111, 112, 113, 115, 116, 117]
+    title "luzhenqian/claude-harness 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 109 --> 119
+    line [110, 111, 112, 113, 115, 116, 117, 112, 118, 117, 117]
 ```
 
-2026-10-18 110 → 2026-11-02 117（+7）
+2026-10-18 110 → 2026-11-17 117（+7）
 
 
 ---

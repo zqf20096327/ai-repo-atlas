@@ -1,6 +1,6 @@
 # param087/agent-ml-skills
 
-⭐ 13 · JavaScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/param087/agent-ml-skills) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/param087/agent-ml-skills) · 个人维护
 
 **给 AI 编程 agent 的 15 条 ML/MLOps 技能包，一条 npx 命令安装**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "param087/agent-ml-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "param087/agent-ml-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

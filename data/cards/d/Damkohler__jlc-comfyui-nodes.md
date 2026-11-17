@@ -1,6 +1,6 @@
 # Damkohler/jlc-comfyui-nodes
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Damkohler/jlc-comfyui-nodes) · 个人维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Damkohler/jlc-comfyui-nodes) · 个人维护
 
 **ComfyUI 自定义节点集：非递归多 ControlNet 组合与 Flux 工作流工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Damkohler/jlc-comfyui-nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Damkohler/jlc-comfyui-nodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [27, 26, 26]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 26（-1）
 
 
 ---

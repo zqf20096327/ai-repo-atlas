@@ -1,6 +1,6 @@
 # Imolatte/claude-cli-telegram
 
-⭐ 36 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/Imolatte/claude-cli-telegram) · [官网](https://github.com/Imolatte/tg-claude#readme) · 个人维护
+⭐ 37 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/Imolatte/claude-cli-telegram) · [官网](https://github.com/Imolatte/tg-claude#readme) · 个人维护
 
 **把 Mac/Linux 变成 Telegram 远程 Claude Code 终端的 bot**
 
@@ -44,13 +44,13 @@ Node.js 编写的 Telegram bot，在用户本机或服务器上启动真实的 C
 
 ```mermaid
 xychart-beta
-    title "Imolatte/claude-cli-telegram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "Imolatte/claude-cli-telegram 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

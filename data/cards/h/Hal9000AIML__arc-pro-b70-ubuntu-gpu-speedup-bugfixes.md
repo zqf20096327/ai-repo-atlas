@@ -1,6 +1,6 @@
 # Hal9000AIML/arc-pro-b70-ubuntu-gpu-speedup-bugfixes
 
-⭐ 27 · Python · Unlicense · 推送 2026-05-10 · [GitHub](https://github.com/Hal9000AIML/arc-pro-b70-ubuntu-gpu-speedup-bugfixes) · 个人维护
+⭐ 28 · Python · Unlicense · 推送 2026-05-10 · [GitHub](https://github.com/Hal9000AIML/arc-pro-b70-ubuntu-gpu-speedup-bugfixes) · 个人维护
 
 **Intel Arc Pro B70 上 llama.cpp 本地 LLM 推理的调优补丁与配置套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hal9000AIML/arc-pro-b70-ubuntu-gpu-speedup-bugfixes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Hal9000AIML/arc-pro-b70-ubuntu-gpu-speedup-bugfixes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

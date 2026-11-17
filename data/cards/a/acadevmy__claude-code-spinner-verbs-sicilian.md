@@ -1,6 +1,6 @@
 # acadevmy/claude-code-spinner-verbs-sicilian
 
-⭐ 30 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/acadevmy/claude-code-spinner-verbs-sicilian) · [官网](https://devmy.it) · 个人维护
+⭐ 32 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/acadevmy/claude-code-spinner-verbs-sicilian) · [官网](https://devmy.it) · 个人维护
 
 **给 Claude Code 用户提供西西里语终端 spinner 动词预设**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "acadevmy/claude-code-spinner-verbs-sicilian 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "acadevmy/claude-code-spinner-verbs-sicilian 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 29, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

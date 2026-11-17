@@ -1,6 +1,6 @@
 # liushuangls/go-anthropic
 
-⭐ 175 · Go · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/liushuangls/go-anthropic) · 个人维护
+⭐ 177 · Go · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/liushuangls/go-anthropic) · 个人维护
 
 **非官方 Anthropic Claude API 的 Go 语言 SDK 封装库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liushuangls/go-anthropic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 173 --> 176
-    line [174, 175, 175]
+    title "liushuangls/go-anthropic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 173 --> 178
+    line [174, 175, 176, 177, 177]
 ```
 
-2026-10-18 174 → 2026-11-02 175（+1）
+2026-10-18 174 → 2026-11-17 177（+3）
 
 
 ---

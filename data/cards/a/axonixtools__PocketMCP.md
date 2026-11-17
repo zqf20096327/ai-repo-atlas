@@ -1,6 +1,6 @@
 # axonixtools/PocketMCP
 
-⭐ 19 · Kotlin · MIT · 推送 2026-10-17 · [GitHub](https://github.com/axonixtools/PocketMCP) · 个人维护
+⭐ 21 · Kotlin · MIT · 推送 2026-10-17 · [GitHub](https://github.com/axonixtools/PocketMCP) · 个人维护
 
 **把 Android 手机变成 MCP 服务器，供 AI agent 远程调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "axonixtools/PocketMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "axonixtools/PocketMCP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

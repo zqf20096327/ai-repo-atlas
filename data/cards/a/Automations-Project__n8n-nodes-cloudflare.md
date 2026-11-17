@@ -1,6 +1,6 @@
 # Automations-Project/n8n-nodes-cloudflare
 
-⭐ 15 · TypeScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/Automations-Project/n8n-nodes-cloudflare) · [官网](http://npmjs.com/package/n8n-nodes-cloudflare) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/Automations-Project/n8n-nodes-cloudflare) · [官网](http://npmjs.com/package/n8n-nodes-cloudflare) · 组织维护
 
 **n8n 的 Cloudflare 集成节点包：在 n8n 中管理 100+ Cloudflare 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Automations-Project/n8n-nodes-cloudflare 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Automations-Project/n8n-nodes-cloudflare 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

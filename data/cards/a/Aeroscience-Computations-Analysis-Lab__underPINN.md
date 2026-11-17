@@ -1,6 +1,6 @@
 # Aeroscience-Computations-Analysis-Lab/underPINN
 
-⭐ 37 · Python · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/Aeroscience-Computations-Analysis-Lab/underPINN) · [官网](http://docs.underpinn.dev/) · 组织维护
+⭐ 39 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Aeroscience-Computations-Analysis-Lab/underPINN) · [官网](http://docs.underpinn.dev/) · 组织维护
 
 **给科研与工程用户：基于 JAX 的物理信息神经网络（PINN）求解 PDE 的模块化框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aeroscience-Computations-Analysis-Lab/underPINN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "Aeroscience-Computations-Analysis-Lab/underPINN 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

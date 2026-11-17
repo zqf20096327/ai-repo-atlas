@@ -1,6 +1,6 @@
 # robertklee/COCO-Human-Pose
 
-⭐ 50 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/robertklee/COCO-Human-Pose) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/robertklee/COCO-Human-Pose) · 个人维护
 
 **从零训练堆叠沙漏网络做 COCO 单人人体姿态估计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "robertklee/COCO-Human-Pose 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "robertklee/COCO-Human-Pose 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [50, 49, 49]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 49（-1）
 
 
 ---

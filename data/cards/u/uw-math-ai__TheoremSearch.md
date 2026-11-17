@@ -1,6 +1,6 @@
 # uw-math-ai/TheoremSearch
 
-⭐ 24 · Jupyter Notebook · 推送 2026-10-03 · [GitHub](https://github.com/uw-math-ai/TheoremSearch) · [官网](https://theoremsearch.com) · 组织维护
+⭐ 26 · Jupyter Notebook · 推送 2026-10-03 · [GitHub](https://github.com/uw-math-ai/TheoremSearch) · [官网](https://theoremsearch.com) · 组织维护
 
 **覆盖 900 万数学定理的语义检索 API，供数学家与证明 agent 使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "uw-math-ai/TheoremSearch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "uw-math-ai/TheoremSearch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 23, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

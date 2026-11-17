@@ -1,6 +1,6 @@
 # aimclub/FEDOT
 
-⭐ 713 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/aimclub/FEDOT) · [官网](https://fedot.readthedocs.io) · 组织维护 · 中文 README
+⭐ 714 · Python · BSD-3-Clause · 推送 2026-11-11 · [GitHub](https://github.com/aimclub/FEDOT) · [官网](https://fedot.readthedocs.io) · 组织维护 · 中文 README
 
 **面向 AutoML 的自动机器学习流水线生成框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aimclub/FEDOT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 711 --> 714
-    line [712, 713, 713]
+    title "aimclub/FEDOT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 711 --> 715
+    line [712, 713, 712, 714, 714]
 ```
 
-2026-10-18 712 → 2026-11-02 713（+1）
+2026-10-18 712 → 2026-11-17 714（+2）
 
 
 ---

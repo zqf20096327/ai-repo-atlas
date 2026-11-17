@@ -1,6 +1,6 @@
 # EmbraceAGI/Awesome-AGI
 
-⭐ 582 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/Awesome-AGI) · 组织维护 · 中文 README
+⭐ 583 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/Awesome-AGI) · 组织维护 · 中文 README
 
 **AGI 框架与资源的策展清单：前沿模型、agent 工具与论文聚合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "EmbraceAGI/Awesome-AGI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 578 --> 583
-    line [580, 579, 580, 581, 582, 582]
+    title "EmbraceAGI/Awesome-AGI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 578 --> 584
+    line [580, 579, 580, 581, 582, 579, 582, 583, 583]
 ```
 
-2026-10-18 580 → 2026-11-02 582（+2）
+2026-10-18 580 → 2026-11-17 583（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # LingyunStudio/knowledge-vault
 
-⭐ 19 · TypeScript · 推送 2026-10-04 · [GitHub](https://github.com/LingyunStudio/knowledge-vault) · 组织维护 · 中文 README
+⭐ 18 · TypeScript · 推送 2026-10-04 · [GitHub](https://github.com/LingyunStudio/knowledge-vault) · 组织维护 · 中文 README
 
 **本地优先的所见即所得 Markdown 知识库与学习工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LingyunStudio/knowledge-vault 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "LingyunStudio/knowledge-vault 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 20
-    line [11, 12, 14, 15, 16, 18, 19, 19]
+    line [11, 12, 14, 15, 16, 18, 19, 15, 18, 18]
 ```
 
-2026-10-18 11 → 2026-11-02 19（+8）
+2026-10-18 11 → 2026-11-17 18（+7）
 
 
 ---

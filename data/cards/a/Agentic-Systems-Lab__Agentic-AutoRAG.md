@@ -1,6 +1,6 @@
 # Agentic-Systems-Lab/Agentic-AutoRAG
 
-⭐ 14 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Agentic-Systems-Lab/Agentic-AutoRAG) · [官网](https://arxiv.org/abs/2610.08452) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Agentic-Systems-Lab/Agentic-AutoRAG) · [官网](https://arxiv.org/abs/2610.08452) · 组织维护
 
 **LLM agent 驱动的 RAG 流水线配置优化器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agentic-Systems-Lab/Agentic-AutoRAG 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14, 14]
+    title "Agentic-Systems-Lab/Agentic-AutoRAG 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 14, 11, 16, 16]
 ```
 
-2026-10-18 10 → 2026-11-02 14（+4）
+2026-10-18 10 → 2026-11-17 16（+6）
 
 
 ---

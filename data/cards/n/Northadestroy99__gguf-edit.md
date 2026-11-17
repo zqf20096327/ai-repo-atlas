@@ -1,6 +1,6 @@
 # Northadestroy99/gguf-edit
 
-⭐ 22 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Northadestroy99/gguf-edit) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 桌面 GGUF 元数据编辑器：免重量化改模板与参数**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Northadestroy99/gguf-edit 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-07"]
     y-axis "stars" 9 --> 23
     line [10, 17, 22, 22]
 ```
 
-2026-10-22 10 → 2026-11-02 22（+12）
+2026-10-22 10 → 2026-11-07 22（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Leask/halbot
 
-⭐ 102 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Leask/halbot) · [官网](https://leaskh.com/2023/03/13/halbot/) · 个人维护
+⭐ 102 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Leask/halbot) · [官网](https://leaskh.com/2023/03/13/halbot/) · 个人维护
 
 **AI 驱动的 Telegram 机器人，接入多种模型提供对话与多模态能力**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leask/halbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "Leask/halbot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 101 --> 104
-    line [103, 102]
+    line [103, 102, 103, 102, 102]
 ```
 
-2026-10-18 103 → 2026-11-02 102（-1）
+2026-10-18 103 → 2026-11-17 102（-1）
 
 
 ---

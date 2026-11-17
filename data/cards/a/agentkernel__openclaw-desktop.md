@@ -1,6 +1,6 @@
 # agentkernel/openclaw-desktop
 
-⭐ 110 · TypeScript · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/agentkernel/openclaw-desktop) · [官网](https://github.com/agentkernel/openclaw-desktop/releases/latest) · 组织维护 · 中文 README
+⭐ 112 · TypeScript · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/agentkernel/openclaw-desktop) · [官网](https://github.com/agentkernel/openclaw-desktop/releases/latest) · 组织维护 · 中文 README
 
 **OpenClaw AI 智能体的 Windows 一键安装器与原生桌面壳**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentkernel/openclaw-desktop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 106 --> 111
-    line [107, 108, 109, 110, 110]
+    title "agentkernel/openclaw-desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 106 --> 113
+    line [107, 108, 109, 110, 109, 111, 112, 112]
 ```
 
-2026-10-18 107 → 2026-11-02 110（+3）
+2026-10-18 107 → 2026-11-17 112（+5）
 
 
 ---

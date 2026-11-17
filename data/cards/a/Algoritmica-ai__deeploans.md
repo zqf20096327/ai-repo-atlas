@@ -1,6 +1,6 @@
 # Algoritmica-ai/deeploans
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Algoritmica-ai/deeploans) · [官网](https://algoritmica.ai/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Algoritmica-ai/deeploans) · [官网](https://algoritmica.ai/) · 组织维护
 
 **结构化金融贷款级数据的处理与建模开源框架**
 
@@ -45,13 +45,13 @@ Apache 2.0 许可的信贷数据工具集合，覆盖贷款级数据的摄取、
 
 ```mermaid
 xychart-beta
-    title "Algoritmica-ai/deeploans 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "Algoritmica-ai/deeploans 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

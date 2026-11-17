@@ -1,6 +1,6 @@
 # huggingface/optimum-intel
 
-⭐ 624 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/optimum-intel) · [官网](https://huggingface.co/docs/optimum-intel/en/index) · 组织维护
+⭐ 630 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/optimum-intel) · [官网](https://huggingface.co/docs/optimum-intel/en/index) · 组织维护
 
 **Hugging Face 库接入 OpenVINO：在 Intel 硬件上加速模型推理**
 
@@ -44,13 +44,13 @@ Transformers、Diffusers、Sentence Transformers 与 timm 库和 OpenVINO 工具
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-intel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 622 --> 625
-    line [623, 624, 623, 624]
+    title "huggingface/optimum-intel 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 622 --> 631
+    line [623, 624, 623, 624, 626, 627, 628, 629, 630, 630]
 ```
 
-2026-10-18 623 → 2026-11-02 624（+1）
+2026-10-18 623 → 2026-11-17 630（+7）
 
 
 ---

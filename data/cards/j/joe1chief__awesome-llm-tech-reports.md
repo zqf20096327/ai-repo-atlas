@@ -1,6 +1,6 @@
 # joe1chief/awesome-llm-tech-reports
 
-⭐ 29 · Python · 推送 2026-09-03 · [GitHub](https://github.com/joe1chief/awesome-llm-tech-reports) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-11-16 · [GitHub](https://github.com/joe1chief/awesome-llm-tech-reports) · [官网](https://joe1chief.github.io/awesome-llm-tech-reports/) · 个人维护 · 中文 README
 
 **前沿 LLM 技术报告策展档案：按年份/公司组织论文与模型卡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joe1chief/awesome-llm-tech-reports 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 24 --> 30
-    line [25, 27, 29, 29]
+    title "joe1chief/awesome-llm-tech-reports 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 27, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 29（+4）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

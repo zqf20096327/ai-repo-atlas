@@ -1,6 +1,6 @@
 # EvelynnYu/MIRROW
 
-⭐ 50 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/EvelynnYu/MIRROW) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/EvelynnYu/MIRROW) · 个人维护 · 中文 README
 
 **单用户本地 AI 伴侣系统：聊天、记忆认知与主动漫想模块**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvelynnYu/MIRROW 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 45 --> 51
-    line [46, 47, 49, 50, 50]
+    title "EvelynnYu/MIRROW 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 45 --> 53
+    line [46, 47, 49, 50, 47, 51, 52, 52]
 ```
 
-2026-10-18 46 → 2026-11-02 50（+4）
+2026-10-18 46 → 2026-11-17 52（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # DSB-117/brainblast
 
-⭐ 90 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/DSB-117/brainblast) · [官网](https://www.npmjs.com/package/brainblast) · 个人维护
+⭐ 81 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/DSB-117/brainblast) · [官网](https://www.npmjs.com/package/brainblast) · 个人维护
 
 **为 AI 编码 agent 做外部 API/SDK 前置研究与 CI 静态审计的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DSB-117/brainblast 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 89 --> 94
-    line [93, 92, 91, 90, 90]
+    title "DSB-117/brainblast 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 80 --> 94
+    line [93, 92, 91, 90, 91, 81, 81]
 ```
 
-2026-10-18 93 → 2026-11-02 90（-3）
+2026-10-18 93 → 2026-11-17 81（-12）
 
 
 ---

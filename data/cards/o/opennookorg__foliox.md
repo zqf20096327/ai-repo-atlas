@@ -1,6 +1,6 @@
 # opennookorg/foliox
 
-⭐ 140 · TypeScript · GPL-3.0 · 推送 2025-12-12 · [GitHub](https://github.com/opennookorg/foliox) · [官网](https://www.foliox.site) · 个人维护
+⭐ 141 · TypeScript · GPL-3.0 · 推送 2025-12-12 · [GitHub](https://github.com/opennookorg/foliox) · [官网](https://www.foliox.site) · 个人维护
 
 **从 GitHub 资料自动生成开发者作品集网站的 AI 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "opennookorg/foliox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 139 --> 141
-    line [140, 140]
+    title "opennookorg/foliox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 142
+    line [140, 141, 141]
 ```
 
-2026-10-18 140 → 2026-11-02 140（+0）
+2026-10-18 140 → 2026-11-17 141（+1）
 
 
 ---

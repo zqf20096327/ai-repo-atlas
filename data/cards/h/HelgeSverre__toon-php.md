@@ -1,6 +1,6 @@
 # HelgeSverre/toon-php
 
-⭐ 132 · PHP · MIT · 推送 2026-09-06 · [GitHub](https://github.com/HelgeSverre/toon-php) · [官网](https://github.com/HelgeSverre/toon-php) · 个人维护
+⭐ 134 · PHP · MIT · 推送 2026-11-06 · [GitHub](https://github.com/HelgeSverre/toon-php) · [官网](https://github.com/HelgeSverre/toon-php) · 个人维护
 
 **PHP 库：TOON 紧凑数据格式编解码，降低发给 LLM 的 token 消耗**
 
@@ -45,13 +45,13 @@ toon-format/toon 的 PHP 移植，提供 TOON 格式的编码与双向解码：P
 
 ```mermaid
 xychart-beta
-    title "HelgeSverre/toon-php 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 130 --> 133
-    line [131, 132, 132]
+    title "HelgeSverre/toon-php 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 130 --> 135
+    line [131, 132, 131, 134, 134]
 ```
 
-2026-10-18 131 → 2026-11-02 132（+1）
+2026-10-18 131 → 2026-11-17 134（+3）
 
 
 ---

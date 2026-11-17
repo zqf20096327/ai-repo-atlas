@@ -1,6 +1,6 @@
 # mholzen/workflowy
 
-⭐ 72 · Go · MIT · 推送 2026-08-14 · [GitHub](https://github.com/mholzen/workflowy) · [官网](https://workflowy.com) · 个人维护
+⭐ 73 · Go · MIT · 推送 2026-08-14 · [GitHub](https://github.com/mholzen/workflowy) · [官网](https://workflowy.com) · 个人维护
 
 **WorkFlowy 的 MCP 服务器与 CLI：让 AI 助手和终端操作大纲数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mholzen/workflowy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "mholzen/workflowy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 73（+1）
 
 
 ---

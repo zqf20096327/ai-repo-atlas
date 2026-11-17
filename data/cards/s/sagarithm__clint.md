@@ -1,6 +1,6 @@
 # sagarithm/clint
 
-⭐ 32 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/sagarithm/clint) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/sagarithm/clint) · 个人维护
 
 **面向企业的 AI 潜在客户发现与外联自动化库/CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sagarithm/clint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "sagarithm/clint 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 31, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-02 32（+2）
+2026-10-18 30 → 2026-11-17 33（+3）
 
 
 ---

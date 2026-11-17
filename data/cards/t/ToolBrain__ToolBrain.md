@@ -1,6 +1,6 @@
 # ToolBrain/ToolBrain
 
-⭐ 206 · Python · 推送 2026-04-08 · [GitHub](https://github.com/ToolBrain/ToolBrain) · [官网](https://toolbrain.org/) · 组织维护
+⭐ 207 · Python · 推送 2026-04-08 · [GitHub](https://github.com/ToolBrain/ToolBrain) · [官网](https://toolbrain.org/) · 组织维护
 
 **训练 agent 工具使用能力的强化学习框架（GRPO/DPO）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ToolBrain/ToolBrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 204 --> 207
-    line [205, 206, 206]
+    title "ToolBrain/ToolBrain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 204 --> 208
+    line [205, 206, 207, 207]
 ```
 
-2026-10-18 205 → 2026-11-02 206（+1）
+2026-10-18 205 → 2026-11-17 207（+2）
 
 
 ---

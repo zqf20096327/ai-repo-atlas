@@ -1,6 +1,6 @@
 # aircrushin/awesome-dify-workflow
 
-⭐ 42 · 推送 2026-09-10 · [GitHub](https://github.com/aircrushin/awesome-dify-workflow) · 个人维护 · 中文 README
+⭐ 42 · 推送 2026-11-04 · [GitHub](https://github.com/aircrushin/awesome-dify-workflow) · 个人维护 · 中文 README
 
 **Dify 工作流 DSL 模板合集（74 个），导入即用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aircrushin/awesome-dify-workflow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-02"]
+    title "aircrushin/awesome-dify-workflow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    line [39, 40, 41, 42, 41, 42, 42]
 ```
 
-2026-10-18 39 → 2026-11-02 42（+3）
+2026-10-18 39 → 2026-11-17 42（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Natfii/ZeroAI
 
-⭐ 50 · Rust · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/Natfii/ZeroAI) · 个人维护
+⭐ 52 · Rust · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/Natfii/ZeroAI) · 个人维护
 
 **Android 本地优先 AI agent 应用，Kotlin+Rust 原生栈**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Natfii/ZeroAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "Natfii/ZeroAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

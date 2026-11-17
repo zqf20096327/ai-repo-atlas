@@ -1,6 +1,6 @@
 # AG-Peter/encodermap
 
-⭐ 35 · Python · LGPL-3.0 · 推送 2026-07-06 · [GitHub](https://github.com/AG-Peter/encodermap) · [官网](https://ag-peter.github.io/encodermap/) · 组织维护
+⭐ 37 · Python · LGPL-3.0 · 推送 2026-07-06 · [GitHub](https://github.com/AG-Peter/encodermap) · [官网](https://ag-peter.github.io/encodermap/) · 组织维护
 
 **分子构象降维与生成的 TensorFlow 库（科研用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AG-Peter/encodermap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "AG-Peter/encodermap 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 34, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

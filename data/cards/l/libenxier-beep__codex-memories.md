@@ -1,6 +1,6 @@
 # libenxier-beep/codex-memories
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/libenxier-beep/codex-memories) · 个人维护 · 中文 README
+⭐ 104 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/libenxier-beep/codex-memories) · 个人维护 · 中文 README
 
 **给 OpenAI Codex 的本地持久记忆运行时：Git 权威+渐进披露**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "libenxier-beep/codex-memories 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    title "libenxier-beep/codex-memories 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 102 --> 105
+    line [103, 104, 104]
 ```
 
-2026-10-18 103 → 2026-11-02 103（+0）
+2026-10-18 103 → 2026-11-17 104（+1）
 
 
 ---

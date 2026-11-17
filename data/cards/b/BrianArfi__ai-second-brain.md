@@ -1,6 +1,6 @@
 # BrianArfi/ai-second-brain
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BrianArfi/ai-second-brain) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/BrianArfi/ai-second-brain) · 个人维护
 
 **个人 AI 工作操作系统：为知识工作者起草会议纪要与周报并学习修正**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrianArfi/ai-second-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "BrianArfi/ai-second-brain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 32（-1）
 
 
 ---

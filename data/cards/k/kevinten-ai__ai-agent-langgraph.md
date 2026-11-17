@@ -1,6 +1,6 @@
 # kevinten-ai/ai-agent-langgraph
 
-⭐ 23 · Python · 推送 2026-07-11 · [GitHub](https://github.com/kevinten-ai/ai-agent-langgraph) · 个人维护 · 中文 README
+⭐ 25 · Python · 推送 2026-07-11 · [GitHub](https://github.com/kevinten-ai/ai-agent-langgraph) · 个人维护 · 中文 README
 
 **LangChain + LangGraph 从零到生产的系统化学习教程与示例集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinten-ai/ai-agent-langgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "kevinten-ai/ai-agent-langgraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

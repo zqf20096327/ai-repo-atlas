@@ -1,6 +1,6 @@
 # SiO-2/kvcloak
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/SiO-2/kvcloak) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/SiO-2/kvcloak) · 组织维护
 
 **LLM 推理 KV-cache 隐私保护的攻击与防御研究代码**
 
@@ -45,13 +45,13 @@ NDSS 2026 论文 "Shadow in the Cache" 的官方实现，面向安全研究人�
 
 ```mermaid
 xychart-beta
-    title "SiO-2/kvcloak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "SiO-2/kvcloak 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # VibeBench/VibeSearchBench
 
-⭐ 105 · Python · MIT · 推送 2026-05-28 · [GitHub](https://github.com/VibeBench/VibeSearchBench) · [官网](https://vibebench.github.io/VibeSearchBench.github.io/) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-05-28 · [GitHub](https://github.com/VibeBench/VibeSearchBench) · [官网](https://vibebench.github.io/VibeSearchBench.github.io/) · 组织维护
 
 **多轮主动搜索 agent 评测基准：200 长程任务，三元组 F1 评分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VibeBench/VibeSearchBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "VibeBench/VibeSearchBench 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
     y-axis "stars" 104 --> 111
-    line [110, 105, 105]
+    line [110, 105, 107, 106, 107, 107]
 ```
 
-2026-10-18 110 → 2026-11-02 105（-5）
+2026-10-18 110 → 2026-11-17 107（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # JaydenTeoh/NextLat
 
-⭐ 210 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/JaydenTeoh/NextLat) · [官网](https://jaydenteoh.github.io/blog/2026/nextlat) · 个人维护
+⭐ 220 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/JaydenTeoh/NextLat) · [官网](https://jaydenteoh.github.io/blog/2026/nextlat) · 个人维护
 
 **Next-Latent Prediction Transformer 论文官方训练代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JaydenTeoh/NextLat 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 196 --> 211
-    line [197, 198, 200, 202, 205, 207, 209, 210, 210]
+    title "JaydenTeoh/NextLat 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 195 --> 222
+    line [197, 198, 200, 202, 205, 207, 209, 210, 200, 214, 215, 216, 218, 219, 220, 220]
 ```
 
-2026-10-18 197 → 2026-11-02 210（+13）
+2026-10-18 197 → 2026-11-17 220（+23）
 
 
 ---

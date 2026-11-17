@@ -1,6 +1,6 @@
 # jasonjmcghee/claude-debugs-for-you
 
-⭐ 514 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/jasonjmcghee/claude-debugs-for-you) · [官网](https://marketplace.visualstudio.com/items?itemName=JasonMcGhee.claude-debugs-for-you) · 个人维护
+⭐ 517 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/jasonjmcghee/claude-debugs-for-you) · [官网](https://marketplace.visualstudio.com/items?itemName=JasonMcGhee.claude-debugs-for-you) · 个人维护
 
 **让 Claude 等 LLM 通过 MCP 在 VS Code 中交互式调试代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jasonjmcghee/claude-debugs-for-you 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 513 --> 516
-    line [515, 514, 514]
+    title "jasonjmcghee/claude-debugs-for-you 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 513 --> 518
+    line [515, 514, 515, 516, 517, 517]
 ```
 
-2026-10-18 515 → 2026-11-02 514（-1）
+2026-10-18 515 → 2026-11-17 517（+2）
 
 
 ---

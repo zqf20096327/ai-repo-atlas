@@ -1,6 +1,6 @@
 # kkkano/FinSight
 
-⭐ 57 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kkkano/FinSight) · 个人维护 · 中文 README
+⭐ 63 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/kkkano/FinSight) · 个人维护 · 中文 README
 
 **面向投资者的多智能体会话式金融研究平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kkkano/FinSight 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 57, 57]
+    title "kkkano/FinSight 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 64
+    line [57, 58, 57, 60, 62, 63, 63]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 63（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # onejune2018/Awesome-LLM-Eval
 
-⭐ 659 · MIT · 推送 2025-11-24 · [GitHub](https://github.com/onejune2018/Awesome-LLM-Eval) · [官网](https://arxiv.org/abs/2508.18646) · 组织维护 · 中文 README
+⭐ 660 · MIT · 推送 2025-11-24 · [GitHub](https://github.com/onejune2018/Awesome-LLM-Eval) · [官网](https://arxiv.org/abs/2508.18646) · 组织维护 · 中文 README
 
 **LLM 评测工具、基准与数据集的精选清单（附综述论文）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "onejune2018/Awesome-LLM-Eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 658 --> 660
-    line [659, 659]
+    title "onejune2018/Awesome-LLM-Eval 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 658 --> 661
+    line [659, 660, 660]
 ```
 
-2026-10-18 659 → 2026-11-02 659（+0）
+2026-10-18 659 → 2026-11-17 660（+1）
 
 
 ---

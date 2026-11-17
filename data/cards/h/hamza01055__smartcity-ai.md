@@ -1,6 +1,6 @@
 # hamza01055/smartcity-ai
 
-⭐ 26 · Python · 推送 2026-10-28 · [GitHub](https://github.com/hamza01055/smartcity-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **城市问题上报平台：市民拍照后 YOLOv8 自动识别分类并派单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hamza01055/smartcity-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-10"]
+    y-axis "stars" 24 --> 27
+    line [26, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-10 25（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vesperchinn/learn-anything-skill
 
-⭐ 15 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/vesperchinn/learn-anything-skill) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/vesperchinn/learn-anything-skill) · 个人维护 · 中文 README
 
 **把 AI agent 变成引导式学习教练的多语言技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vesperchinn/learn-anything-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "vesperchinn/learn-anything-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 24
+    line [12, 13, 14, 15, 14, 20, 22, 23, 23]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 23（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kirozaku/Marina-GPT
 
-⭐ 72 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/Kirozaku/Marina-GPT) · [官网](https://github.com/Kirozaku/Marina-GPT/) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/Kirozaku/Marina-GPT) · [官网](https://github.com/Kirozaku/Marina-GPT/) · 个人维护
 
 **面向渗透测试学习场景的无限制 CLI 聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kirozaku/Marina-GPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    title "Kirozaku/Marina-GPT 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 72, 71, 74, 74]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 74（+4）
 
 
 ---

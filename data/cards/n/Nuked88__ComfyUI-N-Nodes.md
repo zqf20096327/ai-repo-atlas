@@ -1,6 +1,6 @@
 # Nuked88/ComfyUI-N-Nodes
 
-⭐ 240 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Nuked88/ComfyUI-N-Nodes) · 个人维护
+⭐ 239 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Nuked88/ComfyUI-N-Nodes) · 个人维护
 
 **ComfyUI 自定义节点套件：视频处理与图像描述生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nuked88/ComfyUI-N-Nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 239 --> 241
-    line [240, 240]
+    title "Nuked88/ComfyUI-N-Nodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 238 --> 241
+    line [240, 239, 239]
 ```
 
-2026-10-18 240 → 2026-11-02 240（+0）
+2026-10-18 240 → 2026-11-17 239（-1）
 
 
 ---

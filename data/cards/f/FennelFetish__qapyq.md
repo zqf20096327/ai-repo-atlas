@@ -1,6 +1,6 @@
 # FennelFetish/qapyq
 
-⭐ 162 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/FennelFetish/qapyq) · 个人维护
+⭐ 164 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/FennelFetish/qapyq) · 个人维护
 
 **面向 LoRA/扩散训练的图像视频数据集 AI 策展桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FennelFetish/qapyq 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-02"]
+    title "FennelFetish/qapyq 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
     y-axis "stars" 161 --> 165
-    line [164, 163, 162, 162]
+    line [164, 163, 162, 163, 162, 163, 164, 164]
 ```
 
-2026-10-18 164 → 2026-11-02 162（-2）
+2026-10-18 164 → 2026-11-17 164（+0）
 
 
 ---

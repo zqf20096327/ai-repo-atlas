@@ -1,6 +1,6 @@
 # AGI-is-going-to-arrive/ahadiff
 
-⭐ 244 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AGI-is-going-to-arrive/ahadiff) · [官网](https://agi-is-going-to-arrive.github.io/ahadiff/) · 个人维护 · 中文 README
+⭐ 247 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AGI-is-going-to-arrive/ahadiff) · [官网](https://agi-is-going-to-arrive.github.io/ahadiff/) · 个人维护 · 中文 README
 
 **把 Git/diff/文档改动变成带证据的课程与测验的学习工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AGI-is-going-to-arrive/ahadiff 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 234 --> 245
-    line [235, 237, 238, 240, 242, 244, 244]
+    title "AGI-is-going-to-arrive/ahadiff 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 234 --> 248
+    line [235, 237, 238, 240, 242, 244, 235, 245, 247, 247]
 ```
 
-2026-10-18 235 → 2026-11-02 244（+9）
+2026-10-18 235 → 2026-11-17 247（+12）
 
 
 ---

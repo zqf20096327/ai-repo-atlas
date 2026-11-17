@@ -1,6 +1,6 @@
 # carlomarxdk/life2vec-light
 
-⭐ 57 · Python · MIT · 推送 2026-04-03 · [GitHub](https://github.com/carlomarxdk/life2vec-light) · [官网](https://life2vec.dk) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-04-03 · [GitHub](https://github.com/carlomarxdk/life2vec-light) · [官网](https://life2vec.dk) · 个人维护
 
 **life2vec 生命轨迹 Transformer 模型的轻量实现与示例**
 
@@ -44,13 +44,13 @@ life2vec 论文（Using Sequences of Life-events to Predict Human Lives）模型
 
 ```mermaid
 xychart-beta
-    title "carlomarxdk/life2vec-light 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "carlomarxdk/life2vec-light 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

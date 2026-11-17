@@ -1,6 +1,6 @@
 # andreluizbvs/InsPLAD
 
-⭐ 181 · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/andreluizbvs/InsPLAD) · [官网](https://andreluizbvs.github.io/InsPLAD/) · 组织维护
+⭐ 183 · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/andreluizbvs/InsPLAD) · [官网](https://andreluizbvs.github.io/InsPLAD/) · 组织维护
 
 **电力线部件巡检无人机图像数据集与基准（1 万余张）**
 
@@ -44,13 +44,13 @@ InsPLAD 是面向电力线部件巡检的无人机彩色图像数据集与基准
 
 ```mermaid
 xychart-beta
-    title "andreluizbvs/InsPLAD 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 175 --> 182
-    line [176, 177, 178, 179, 180, 181, 181]
+    title "andreluizbvs/InsPLAD 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 175 --> 184
+    line [176, 177, 178, 179, 180, 181, 178, 182, 183, 183]
 ```
 
-2026-10-18 176 → 2026-11-02 181（+5）
+2026-10-18 176 → 2026-11-17 183（+7）
 
 
 ---

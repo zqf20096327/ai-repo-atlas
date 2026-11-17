@@ -1,6 +1,6 @@
 # godelcomplete9/deepsearch-academic
 
-⭐ 186 · Python · 推送 2026-08-14 · [GitHub](https://github.com/godelcomplete9/deepsearch-academic) · 个人维护
+⭐ 187 · Python · 推送 2026-08-14 · [GitHub](https://github.com/godelcomplete9/deepsearch-academic) · 个人维护
 
 **本地学术文献检索问答助手：搜论文、RAPTOR 索引、回答问题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "godelcomplete9/deepsearch-academic 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 184 --> 187
-    line [186, 185, 186, 186]
+    title "godelcomplete9/deepsearch-academic 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 184 --> 188
+    line [186, 185, 186, 185, 187, 187]
 ```
 
-2026-10-19 186 → 2026-11-02 186（+0）
+2026-10-19 186 → 2026-11-17 187（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # CES-Ltd/Lumi
 
-⭐ 40 · Rust · MIT · 推送 2026-05-11 · [GitHub](https://github.com/CES-Ltd/Lumi) · 组织维护
+⭐ 41 · Rust · MIT · 推送 2026-05-11 · [GitHub](https://github.com/CES-Ltd/Lumi) · 组织维护
 
 **Rust 桌面 AI agent 平台：统一运行 Claude Code 等多 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CES-Ltd/Lumi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 39, 40, 40]
+    title "CES-Ltd/Lumi 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 39, 40, 39, 40, 41, 41]
 ```
 
-2026-10-18 37 → 2026-11-02 40（+3）
+2026-10-18 37 → 2026-11-17 41（+4）
 
 
 ---

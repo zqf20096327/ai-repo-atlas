@@ -1,6 +1,6 @@
 # guy915/Open-Co-Scientist
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/guy915/Open-Co-Scientist) · [官网](https://open-coscientist.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多 agent 科研伙伴：把研究目标转成有出处的排序假设**
 
@@ -11,7 +11,7 @@ Google AI co-scientist 设计的独立开源复现：监督者协调生成、反
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Google AI co-scientist 设计的独立开源复现：监督者协调生成、反
 
 ```mermaid
 xychart-beta
-    title "guy915/Open-Co-Scientist 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 5 --> 14
-    line [6, 10, 12, 13, 13]
+    title "guy915/Open-Co-Scientist 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15"]
+    y-axis "stars" 5 --> 16
+    line [6, 10, 12, 13, 12, 14, 15, 14, 14]
 ```
 
-2026-10-18 6 → 2026-11-02 13（+7）
+2026-10-18 6 → 2026-11-15 14（+8）
 
 
 ---

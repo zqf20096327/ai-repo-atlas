@@ -1,6 +1,6 @@
 # felipeluissalgueiro/hive
 
-⭐ 22 · HTML · MIT · 推送 2026-06-03 · [GitHub](https://github.com/felipeluissalgueiro/hive) · [官网](https://hive.cadencia.ia.br) · 个人维护
+⭐ 21 · HTML · MIT · 推送 2026-06-03 · [GitHub](https://github.com/felipeluissalgueiro/hive) · [官网](https://hive.cadencia.ia.br) · 个人维护
 
 **在 Claude Code 内以 11 个专业 AI 小队运营公司的开源脚手架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "felipeluissalgueiro/hive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "felipeluissalgueiro/hive 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

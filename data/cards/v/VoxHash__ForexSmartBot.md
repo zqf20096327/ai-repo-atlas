@@ -1,6 +1,6 @@
 # VoxHash/ForexSmartBot
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/VoxHash/ForexSmartBot) · 组织维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/VoxHash/ForexSmartBot) · 组织维护
 
 **PyQt6 桌面外汇自动交易机器人：多策略、风控与回测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoxHash/ForexSmartBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "VoxHash/ForexSmartBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

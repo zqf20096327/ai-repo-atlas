@@ -1,6 +1,6 @@
 # aasimansari1/ml-interview-prep
 
-⭐ 28 · 推送 2026-05-18 · [GitHub](https://github.com/aasimansari1/ml-interview-prep) · 个人维护
+⭐ 67 · 推送 2026-05-18 · [GitHub](https://github.com/aasimansari1/ml-interview-prep) · 个人维护
 
 **面向求职者的 500+ ML/AI 面试问答与速查参考库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "aasimansari1/ml-interview-prep 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 10 --> 29
-    line [11, 14, 28, 27, 28]
+    title "aasimansari1/ml-interview-prep 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 6 --> 72
+    line [11, 14, 28, 27, 28, 14, 66, 67, 67]
 ```
 
-2026-10-19 11 → 2026-11-02 28（+17）
+2026-10-19 11 → 2026-11-17 67（+56）
 
 
 ---

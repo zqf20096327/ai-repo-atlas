@@ -1,6 +1,6 @@
 # roymasad/ArchiCode
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/roymasad/ArchiCode) · [官网](https://archicode.pixel-hat.com) · 个人维护
+⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/roymasad/ArchiCode) · [官网](https://archicode.pixel-hat.com) · 个人维护
 
 **图优先的本地 AI 编码工作台：架构图作为人与 agent 的共享真相**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "roymasad/ArchiCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "roymasad/ArchiCode 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

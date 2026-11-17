@@ -1,6 +1,6 @@
 # swobuforge/swobu
 
-⭐ 20 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/swobuforge/swobu) · [官网](https://swobu.com) · 组织维护 · 中文 README
+⭐ 21 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/swobuforge/swobu) · [官网](https://swobu.com) · 组织维护 · 中文 README
 
 **面向 Claude Code 等 coding agent 的本地 LLM 网关：路由聚合多家算力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "swobuforge/swobu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "swobuforge/swobu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

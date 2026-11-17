@@ -1,6 +1,6 @@
 # x1xhlol/zero-calendar
 
-⭐ 366 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/x1xhlol/zero-calendar) · [官网](https://zerocalendar.com) · 个人维护
+⭐ 367 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/x1xhlol/zero-calendar) · 个人维护
 
 **开源自托管日历应用，用自然语言管理日程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "x1xhlol/zero-calendar 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 362 --> 367
-    line [364, 363, 365, 366, 366]
+    title "x1xhlol/zero-calendar 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 362 --> 368
+    line [364, 363, 365, 366, 363, 365, 366, 367, 367]
 ```
 
-2026-10-18 364 → 2026-11-02 366（+2）
+2026-10-18 364 → 2026-11-17 367（+3）
 
 
 ---

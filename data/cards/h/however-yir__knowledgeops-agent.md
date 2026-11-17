@@ -1,6 +1,6 @@
 # however-yir/knowledgeops-agent
 
-⭐ 166 · Java · MIT · 推送 2026-09-21 · [GitHub](https://github.com/however-yir/knowledgeops-agent) · [官网](https://github.com/however-yir/knowledgeops-agent/tree/main/docs) · 个人维护 · 中文 README
+⭐ 167 · Java · MIT · 推送 2026-09-21 · [GitHub](https://github.com/however-yir/knowledgeops-agent) · [官网](https://github.com/however-yir/knowledgeops-agent/tree/main/docs) · 个人维护 · 中文 README
 
 **企业 Spring AI RAG 平台原型：多 Agent、混合检索、租户隔离与可观测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "however-yir/knowledgeops-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "however-yir/knowledgeops-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 163 --> 172
-    line [171, 166, 165, 164, 165, 166, 166]
+    line [171, 166, 165, 164, 165, 166, 165, 166, 167, 167]
 ```
 
-2026-10-18 171 → 2026-11-02 166（-5）
+2026-10-18 171 → 2026-11-17 167（-4）
 
 
 ---

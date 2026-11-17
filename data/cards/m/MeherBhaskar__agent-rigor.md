@@ -1,6 +1,6 @@
 # MeherBhaskar/agent-rigor
 
-⭐ 41 · Shell · MIT · 推送 2026-07-11 · [GitHub](https://github.com/MeherBhaskar/agent-rigor) · 个人维护
+⭐ 43 · Shell · MIT · 推送 2026-07-11 · [GitHub](https://github.com/MeherBhaskar/agent-rigor) · 个人维护
 
 **给 AI 编程助手的工程纪律技能库：18 个 Agent Skill 约束代理行为**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MeherBhaskar/agent-rigor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "MeherBhaskar/agent-rigor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

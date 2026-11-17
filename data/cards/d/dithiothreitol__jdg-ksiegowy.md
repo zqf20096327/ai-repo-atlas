@@ -1,6 +1,6 @@
 # dithiothreitol/jdg-ksiegowy
 
-⭐ 11 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/dithiothreitol/jdg-ksiegowy) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/dithiothreitol/jdg-ksiegowy) · 个人维护
 
 **面向波兰个体户（JDG）的开源 AI 记账助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dithiothreitol/jdg-ksiegowy 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "dithiothreitol/jdg-ksiegowy 星数(近 5 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-31 10 → 2026-11-02 11（+1）
+2026-10-31 10 → 2026-11-17 13（+3）
 
 
 ---

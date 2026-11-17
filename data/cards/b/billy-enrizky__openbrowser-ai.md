@@ -1,6 +1,6 @@
 # billy-enrizky/openbrowser-ai
 
-⭐ 280 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
+⭐ 279 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
 **面向开发者的 AI 浏览器自动化框架，LLM 写代码控制网页**
 
@@ -46,13 +46,13 @@ Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架�
 
 ```mermaid
 xychart-beta
-    title "billy-enrizky/openbrowser-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "billy-enrizky/openbrowser-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-14", "2026-11-17"]
     y-axis "stars" 276 --> 281
-    line [277, 279, 280]
+    line [277, 279, 280, 279, 280, 279, 279]
 ```
 
-2026-10-18 277 → 2026-11-02 280（+3）
+2026-10-18 277 → 2026-11-17 279（+2）
 
 
 ---

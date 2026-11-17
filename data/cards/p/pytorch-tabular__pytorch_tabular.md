@@ -1,6 +1,6 @@
 # pytorch-tabular/pytorch_tabular
 
-⭐ 1,696 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pytorch-tabular/pytorch_tabular) · [官网](https://pytorch-tabular.readthedocs.io/) · 组织维护
+⭐ 1,698 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pytorch-tabular/pytorch_tabular) · [官网](https://pytorch-tabular.readthedocs.io/) · 组织维护
 
 **表格数据深度学习的统一框架，基于 PyTorch Lightning**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pytorch-tabular/pytorch_tabular 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "pytorch-tabular/pytorch_tabular 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
     y-axis "stars" 1694 --> 1699
-    line [1695, 1697, 1696, 1697, 1698, 1696, 1696]
+    line [1695, 1697, 1696, 1697, 1698, 1696, 1697, 1696, 1697, 1698, 1698]
 ```
 
-2026-10-18 1,695 → 2026-11-02 1,696（+1）
+2026-10-18 1,695 → 2026-11-17 1,698（+3）
 
 
 ---

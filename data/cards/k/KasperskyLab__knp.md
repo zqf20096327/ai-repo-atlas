@@ -1,6 +1,6 @@
 # KasperskyLab/knp
 
-⭐ 56 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/KasperskyLab/knp) · 组织维护
+⭐ 55 · C++ · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/KasperskyLab/knp) · 组织维护
 
 **卡巴斯基脉冲神经网络平台：开发、训练与执行 SNN**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KasperskyLab/knp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "KasperskyLab/knp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 53 --> 57
-    line [54, 55, 56, 56]
+    line [54, 55, 56, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 56（+2）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

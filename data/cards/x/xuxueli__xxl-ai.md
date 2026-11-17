@@ -1,6 +1,6 @@
 # xuxueli/xxl-ai
 
-⭐ 51 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/xuxueli/xxl-ai) · [官网](http://www.xuxueli.com/xxl-ai/) · 个人维护 · 中文 README
+⭐ 71 · TypeScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/xuxueli/xxl-ai) · [官网](http://www.xuxueli.com/xxl-ai/) · 个人维护 · 中文 README
 
 **云本结合的 AI Agent 开发平台：云版编排发布 + 本地桌面工作台**
 
@@ -45,13 +45,13 @@ XXL-AI 是一个 AI Agent 开发平台，提供两种交付形态：云版为 B/
 
 ```mermaid
 xychart-beta
-    title "xuxueli/xxl-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 40 --> 52
-    line [41, 47, 50, 51, 51]
+    title "xuxueli/xxl-ai 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 38 --> 74
+    line [41, 47, 50, 51, 57, 63, 64, 65, 69, 71, 71]
 ```
 
-2026-10-18 41 → 2026-11-02 51（+10）
+2026-10-18 41 → 2026-11-17 71（+30）
 
 
 ---

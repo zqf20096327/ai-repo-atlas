@@ -1,6 +1,6 @@
 # mcdays94/pocock-agents
 
-⭐ 45 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mcdays94/pocock-agents) · 个人维护
+⭐ 46 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mcdays94/pocock-agents) · 个人维护
 
 **在 OpenCode 中运行 Matt Pocock 技能流的两个 agent 定义**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mcdays94/pocock-agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 37 --> 46
-    line [38, 39, 42, 43, 44, 45, 45]
+    title "mcdays94/pocock-agents 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 37 --> 47
+    line [38, 39, 42, 43, 44, 45, 42, 45, 46, 46]
 ```
 
-2026-10-18 38 → 2026-11-02 45（+7）
+2026-10-18 38 → 2026-11-17 46（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # gunawan1996/world-forge-ai
 
-⭐ 124 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/gunawan1996/world-forge-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从一句话生成自演化世界与叙事的 AI 叙事引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gunawan1996/world-forge-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 122 --> 125
-    line [124, 123, 124]
+    title "gunawan1996/world-forge-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-10"]
+    y-axis "stars" 122 --> 126
+    line [124, 123, 124, 125]
 ```
 
-2026-10-18 124 → 2026-11-02 124（+0）
+2026-10-18 124 → 2026-11-10 125（+1）
 
 
 ---

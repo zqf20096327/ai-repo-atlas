@@ -1,6 +1,6 @@
 # gethelio/helio
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/gethelio/helio) · [官网](https://helio.so) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/gethelio/helio) · [官网](https://helio.so) · 组织维护
 
 **MCP 代理治理层：拦截审批 AI 工具调用并管控预算与审计**
 
@@ -45,13 +45,13 @@ Helio 是部署在 AI agent 与 MCP 工具服务器之间的代理：每个工�
 
 ```mermaid
 xychart-beta
-    title "gethelio/helio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "gethelio/helio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

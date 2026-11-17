@@ -1,6 +1,6 @@
 # pmprompt/claude-plugin-product-management
 
-⭐ 55 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pmprompt/claude-plugin-product-management) · [官网](https://pmprompt.com/claude-product-management-plugin) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pmprompt/claude-plugin-product-management) · [官网](https://pmprompt.com/claude-product-management-plugin) · 组织维护
 
 **面向产品经理的 Claude 插件：30 个 PM 技能/命令包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pmprompt/claude-plugin-product-management 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 51 --> 56
-    line [53, 52, 53, 54, 55, 55]
+    title "pmprompt/claude-plugin-product-management 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 51 --> 60
+    line [53, 52, 53, 54, 55, 53, 57, 58, 59, 59]
 ```
 
-2026-10-18 53 → 2026-11-02 55（+2）
+2026-10-18 53 → 2026-11-17 59（+6）
 
 
 ---

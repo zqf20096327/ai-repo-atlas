@@ -1,6 +1,6 @@
 # AstroQore/cursor2api
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/AstroQore/cursor2api) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/AstroQore/cursor2api) · 组织维护 · 中文 README
 
 **把 Cursor 订阅转换为 OpenAI 兼容 API 的协议网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AstroQore/cursor2api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    title "AstroQore/cursor2api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [16, 15, 16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

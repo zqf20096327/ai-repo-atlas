@@ -1,6 +1,6 @@
 # TheAiSingularity/hermesclaw
 
-⭐ 73 · Shell · MIT · 推送 2026-04-24 · [GitHub](https://github.com/TheAiSingularity/hermesclaw) · 个人维护
+⭐ 76 · Shell · MIT · 推送 2026-04-24 · [GitHub](https://github.com/TheAiSingularity/hermesclaw) · 个人维护
 
 **将 Hermes Agent 运行于 NVIDIA OpenShell 硬件级沙箱的社区实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheAiSingularity/hermesclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "TheAiSingularity/hermesclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 72 --> 77
+    line [73, 75, 76, 76]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 76（+3）
 
 
 ---

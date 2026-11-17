@@ -1,6 +1,6 @@
 # MAS-Infra-Layer/Agent-Git
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/MAS-Infra-Layer/Agent-Git) · [官网](https://katadavidxd.github.io/Agent-Git/) · 组织维护 · 中文 README
+⭐ 95 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/MAS-Infra-Layer/Agent-Git) · [官网](https://katadavidxd.github.io/Agent-Git/) · 组织维护 · 中文 README
 
 **给 LangGraph/Agno agent 加 Git 式版本控制的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MAS-Infra-Layer/Agent-Git 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 91 --> 95
-    line [92, 93, 94, 94]
+    title "MAS-Infra-Layer/Agent-Git 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 94, 93, 95, 95]
 ```
 
-2026-10-18 92 → 2026-11-02 94（+2）
+2026-10-18 92 → 2026-11-17 95（+3）
 
 
 ---

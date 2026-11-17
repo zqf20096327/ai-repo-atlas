@@ -1,6 +1,6 @@
 # fastmachinelearning/hls4ml-tutorial
 
-⭐ 452 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/fastmachinelearning/hls4ml-tutorial) · [官网](http://fastmachinelearning.org/hls4ml-tutorial/) · 组织维护
+⭐ 453 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/fastmachinelearning/hls4ml-tutorial) · [官网](http://fastmachinelearning.org/hls4ml-tutorial/) · 组织维护
 
 **hls4ml 教程笔记本集合：FPGA 上部署机器学习模型的练习**
 
@@ -43,13 +43,13 @@ hls4ml 项目的教程仓库，以 Jupyter 笔记本形式提供机器学习模�
 
 ```mermaid
 xychart-beta
-    title "fastmachinelearning/hls4ml-tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 451 --> 453
-    line [452, 452]
+    title "fastmachinelearning/hls4ml-tutorial 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 451 --> 454
+    line [452, 453, 453]
 ```
 
-2026-10-18 452 → 2026-11-02 452（+0）
+2026-10-18 452 → 2026-11-17 453（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ruiwang20010702/cryptobot
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-02-25 · [GitHub](https://github.com/ruiwang20010702/cryptobot) · 个人维护 · 中文 README
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-02-25 · [GitHub](https://github.com/ruiwang20010702/cryptobot) · 个人维护 · 中文 README
 
 **加密货币永续合约 AI 量化交易系统，AI 工作流生成信号**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruiwang20010702/cryptobot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "ruiwang20010702/cryptobot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

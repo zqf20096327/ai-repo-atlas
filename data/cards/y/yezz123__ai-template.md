@@ -1,6 +1,6 @@
 # yezz123/ai-template
 
-⭐ 258 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yezz123/ai-template) · 个人维护
+⭐ 259 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yezz123/ai-template) · 个人维护
 
 **多租户 SaaS 模板：FastAPI+authx+Next.js，AI 功能可选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yezz123/ai-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 256 --> 259
-    line [257, 258, 258]
+    title "yezz123/ai-template 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 256 --> 260
+    line [257, 258, 257, 258, 259, 259]
 ```
 
-2026-10-18 257 → 2026-11-02 258（+1）
+2026-10-18 257 → 2026-11-17 259（+2）
 
 
 ---

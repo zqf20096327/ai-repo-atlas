@@ -1,6 +1,6 @@
 # dmotz/emdash
 
-⭐ 180 · Elm · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/dmotz/emdash) · [官网](https://emdash.oxism.com) · 个人维护
+⭐ 181 · Elm · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/dmotz/emdash) · [官网](https://emdash.oxism.com) · 个人维护
 
 **用设备端 AI 整理读书摘录与笔记的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dmotz/emdash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 179 --> 181
-    line [180, 180]
+    title "dmotz/emdash 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 179 --> 182
+    line [180, 181, 181]
 ```
 
-2026-10-18 180 → 2026-11-02 180（+0）
+2026-10-18 180 → 2026-11-17 181（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tmy2623231/USB-Harness
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/tmy2623231/USB-Harness) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/tmy2623231/USB-Harness) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 装进 U 盘的免安装便携 AI 助手**
 
@@ -46,13 +46,13 @@ deepseek-harness（dsh）的便携式打包：Releases 完整包自带便携 Nod
 
 ```mermaid
 xychart-beta
-    title "tmy2623231/USB-Harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "tmy2623231/USB-Harness 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 12, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 15（+4）
 
 
 ---

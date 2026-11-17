@@ -1,6 +1,6 @@
 # AuraFriday/Fusion-360-MCP-Server
 
-⭐ 127 · Python · NOASSERTION · 推送 2026-01-28 · [GitHub](https://github.com/AuraFriday/Fusion-360-MCP-Server) · [官网](https://aurafriday.com/) · 组织维护
+⭐ 128 · Python · NOASSERTION · 推送 2026-01-28 · [GitHub](https://github.com/AuraFriday/Fusion-360-MCP-Server) · [官网](https://aurafriday.com/) · 组织维护
 
 **让 AI 通过 MCP 控制 Autodesk Fusion 的插件**
 
@@ -46,13 +46,13 @@ Autodesk Fusion 插件，通过连接 Aura Friday MCP-Link 服务器将 Fusion �
 
 ```mermaid
 xychart-beta
-    title "AuraFriday/Fusion-360-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    title "AuraFriday/Fusion-360-MCP-Server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 126 --> 129
+    line [127, 128, 128]
 ```
 
-2026-10-18 127 → 2026-11-02 127（+0）
+2026-10-18 127 → 2026-11-17 128（+1）
 
 
 ---

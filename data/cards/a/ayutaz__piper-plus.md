@@ -1,6 +1,6 @@
 # ayutaz/piper-plus
 
-⭐ 239 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ayutaz/piper-plus) · [官网](https://ayutaz.github.io/piper-plus/) · 个人维护 · 中文 README
+⭐ 240 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ayutaz/piper-plus) · [官网](https://ayutaz.github.io/piper-plus/) · 个人维护 · 中文 README
 
 **多语言神经 TTS 系统：为开发者在 8 种语言运行时中生成语音**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayutaz/piper-plus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 236 --> 240
-    line [237, 238, 239, 238, 239]
+    title "ayutaz/piper-plus 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 236 --> 241
+    line [237, 238, 239, 238, 239, 238, 240, 240]
 ```
 
-2026-10-18 237 → 2026-11-02 239（+2）
+2026-10-18 237 → 2026-11-17 240（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MagePsycho/awesome-magento-ai
 
-⭐ 15 · CC0-1.0 · 推送 2026-09-02 · [GitHub](https://github.com/MagePsycho/awesome-magento-ai) · [官网](https://github.com/MagePsycho/awesome-magento-ai) · 个人维护
+⭐ 18 · CC0-1.0 · 推送 2026-11-10 · [GitHub](https://github.com/MagePsycho/awesome-magento-ai) · [官网](https://github.com/MagePsycho/awesome-magento-ai) · 个人维护
 
 **Magento 生态 AI 工具策展清单：技能、MCP、模块、CLI 等**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MagePsycho/awesome-magento-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "MagePsycho/awesome-magento-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

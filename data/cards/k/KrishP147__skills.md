@@ -1,6 +1,6 @@
 # KrishP147/skills
 
-⭐ 37 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/KrishP147/skills) · [官网](https://www.krishpunjabi.com/skills) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KrishP147/skills) · [官网](https://www.krishpunjabi.com/skills) · 个人维护
 
 **给开发者的 Claude Code 技能/子代理集合：规划、编排与多账号工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KrishP147/skills 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02"]
+    title "KrishP147/skills 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 31 --> 38
-    line [32, 36, 37, 37]
+    line [32, 36, 37, 36, 37, 37]
 ```
 
-2026-10-19 32 → 2026-11-02 37（+5）
+2026-10-19 32 → 2026-11-17 37（+5）
 
 
 ---

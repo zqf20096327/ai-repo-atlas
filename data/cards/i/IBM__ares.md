@@ -1,6 +1,6 @@
 # IBM/ares
 
-⭐ 74 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/IBM/ares) · [官网](https://ibm.github.io/ares/) · 组织维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/IBM/ares) · [官网](https://ibm.github.io/ares/) · 组织维护
 
 **面向研究与企业安全团队的 LLM 红队/鲁棒性评测编排框架**
 
@@ -45,13 +45,13 @@ IBM 维护的 LLM 安全评测编排框架：通过 YAML 配置或 Python API �
 
 ```mermaid
 xychart-beta
-    title "IBM/ares 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    title "IBM/ares 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 72 --> 90
+    line [73, 74, 73, 89, 89]
 ```
 
-2026-10-18 73 → 2026-11-02 74（+1）
+2026-10-18 73 → 2026-11-17 89（+16）
 
 
 ---

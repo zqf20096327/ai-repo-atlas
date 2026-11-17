@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-architect-learning
 
-⭐ 14 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-architect-learning) · 组织维护
+⭐ 15 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-architect-learning) · 组织维护
 
 **AI 基础设施架构师免费课程（10 模块 5 项目，600 小时）**
 
@@ -44,13 +44,13 @@ AI Career Curriculum 生态的 Level 3 学习仓库，面向具备 5-8 年经验
 
 ```mermaid
 xychart-beta
-    title "ai-infra-curriculum/ai-infra-architect-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "ai-infra-curriculum/ai-infra-architect-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DaizeDong/buy-me-a-car
 
-⭐ 12 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DaizeDong/buy-me-a-car) · [官网](https://github.com/DaizeDong/buy-me-a-car) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DaizeDong/buy-me-a-car) · [官网](https://github.com/DaizeDong/buy-me-a-car) · 个人维护 · 中文 README
 
 **面向 Claude 类 agent 的 16 项美国购车研究技能包**
 
@@ -46,13 +46,13 @@ Claude Code Skill 形式的 agent 技能包：一个编排技能加 15 个专项
 
 ```mermaid
 xychart-beta
-    title "DaizeDong/buy-me-a-car 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "DaizeDong/buy-me-a-car 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

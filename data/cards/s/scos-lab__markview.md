@@ -1,6 +1,6 @@
 # scos-lab/markview
 
-⭐ 14 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/scos-lab/markview) · [官网](https://stl-lang.org) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/scos-lab/markview) · [官网](https://stl-lang.org) · 组织维护
 
 **面向 LLM 输出的只读 Markdown 阅读器（已停止开发）**
 
@@ -44,13 +44,13 @@ Windows/Linux 桌面端 Markdown 阅读器，定位只读不编辑：渲染 Merm
 
 ```mermaid
 xychart-beta
-    title "scos-lab/markview 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "scos-lab/markview 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # csc-training/intro-to-dl
 
-⭐ 63 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/csc-training/intro-to-dl) · 组织维护
+⭐ 64 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/csc-training/intro-to-dl) · 组织维护
 
 **深度学习课程的练习材料仓库（CSC 课程）**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "csc-training/intro-to-dl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 60 --> 64
-    line [61, 62, 63, 63]
+    title "csc-training/intro-to-dl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 62, 63, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 63（+2）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

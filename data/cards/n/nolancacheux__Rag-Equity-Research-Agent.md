@@ -1,6 +1,6 @@
 # nolancacheux/Rag-Equity-Research-Agent
 
-⭐ 19 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/nolancacheux/Rag-Equity-Research-Agent) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/nolancacheux/Rag-Equity-Research-Agent) · 个人维护
 
 **面向个人投资者的自主股票研究 Agent：聚合多源数据生成研报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nolancacheux/Rag-Equity-Research-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "nolancacheux/Rag-Equity-Research-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

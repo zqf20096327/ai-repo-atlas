@@ -1,6 +1,6 @@
 # deepseek-php/deepseek-php-client
 
-⭐ 474 · PHP · MIT · 推送 2026-05-24 · [GitHub](https://github.com/deepseek-php/deepseek-php-client) · 组织维护 · 中文 README
+⭐ 475 · PHP · MIT · 推送 2026-05-24 · [GitHub](https://github.com/deepseek-php/deepseek-php-client) · 组织维护 · 中文 README
 
 **PHP 应用的 DeepSeek API 客户端 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-php/deepseek-php-client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 472 --> 475
-    line [473, 474, 474]
+    title "deepseek-php/deepseek-php-client 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 472 --> 476
+    line [473, 474, 473, 474, 475, 475]
 ```
 
-2026-10-18 473 → 2026-11-02 474（+1）
+2026-10-18 473 → 2026-11-17 475（+2）
 
 
 ---

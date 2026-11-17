@@ -1,6 +1,6 @@
 # CMLab-Korea/Awesome-Video-Frame-Interpolation
 
-⭐ 169 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) · 组织维护
+⭐ 172 · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) · 组织维护
 
 **视频帧插值综述配套论文清单：收录 250+ 篇 VFI 论文**
 
@@ -43,13 +43,13 @@ IEEE TCSVT'26 综述 AceVFI 的配套资源库，按方法类别（运动补偿�
 
 ```mermaid
 xychart-beta
-    title "CMLab-Korea/Awesome-Video-Frame-Interpolation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 168 --> 170
-    line [169, 169]
+    title "CMLab-Korea/Awesome-Video-Frame-Interpolation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 168 --> 173
+    line [169, 171, 172, 172]
 ```
 
-2026-10-18 169 → 2026-11-02 169（+0）
+2026-10-18 169 → 2026-11-17 172（+3）
 
 
 ---

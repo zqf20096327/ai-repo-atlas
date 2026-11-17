@@ -1,6 +1,6 @@
 # translate-tools/core
 
-⭐ 90 · TypeScript · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/translate-tools/core) · [官网](https://npmjs.com/anylang) · 组织维护
+⭐ 89 · TypeScript · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/translate-tools/core) · [官网](https://npmjs.com/anylang) · 组织维护
 
 **JavaScript 翻译工具库：聚合 Google/Bing/LLM 等多种翻译 API**
 
@@ -45,13 +45,13 @@ AnyLang 是用于构建自有翻译系统的 npm 包（anylang），提供翻译
 
 ```mermaid
 xychart-beta
-    title "translate-tools/core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "translate-tools/core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [90, 89, 89]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 89（-1）
 
 
 ---

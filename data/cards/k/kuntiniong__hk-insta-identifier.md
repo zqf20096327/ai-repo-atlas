@@ -1,6 +1,6 @@
 # kuntiniong/hk-insta-identifier
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-04-13 · [GitHub](https://github.com/kuntiniong/hk-insta-identifier) · [官网](https://hk-insta-identifier.streamlit.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于罗马化粤语音节特征识别香港 Instagram 用户的二分类项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kuntiniong/hk-insta-identifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-07 17（+0）
 
 
 ---

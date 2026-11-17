@@ -1,6 +1,6 @@
 # tinqiao-oss/PocketClaw
 
-⭐ 63 · Shell · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/tinqiao-oss/PocketClaw) · [官网](https://pocketclaw.cn) · 个人维护 · 中文 README
+⭐ 64 · Shell · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/tinqiao-oss/PocketClaw) · [官网](https://pocketclaw.cn) · 个人维护 · 中文 README
 
 **装进 U 盘随身携带的便携个人 AI 助手（基于 OpenClaw）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinqiao-oss/PocketClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    title "tinqiao-oss/PocketClaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 62 --> 65
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-17 64（+1）
 
 
 ---

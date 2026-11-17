@@ -1,6 +1,6 @@
 # MengXinSu/LocalDream-Operit-Plugin
 
-⭐ 24 · JavaScript · GPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/MengXinSu/LocalDream-Operit-Plugin) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · GPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/MengXinSu/LocalDream-Operit-Plugin) · 个人维护 · 中文 README
 
 **手机本地 AI 生图插件：在 Operit 平台离线运行 Stable Diffusion**
 
@@ -42,13 +42,13 @@ Operit 平台的生图插件，在安卓手机本地运行 Stable Diffusion（SD
 
 ```mermaid
 xychart-beta
-    title "MengXinSu/LocalDream-Operit-Plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 24, 24]
+    title "MengXinSu/LocalDream-Operit-Plugin 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 23, 24, 23, 25, 25]
 ```
 
-2026-10-18 21 → 2026-11-02 24（+3）
+2026-10-18 21 → 2026-11-17 25（+4）
 
 
 ---

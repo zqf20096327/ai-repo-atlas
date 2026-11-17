@@ -1,6 +1,6 @@
 # SantanderAI/ralph-vault-skill
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/ralph-vault-skill) · [官网](https://github.com/SantanderAI) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/ralph-vault-skill) · [官网](https://github.com/SantanderAI) · 组织维护
 
 **为代码仓库生成分层知识库（deepwiki）的 agent 技能与 CLI**
 
@@ -45,13 +45,13 @@ Santander AI Lab 开源的 Python CLI/技能：为单个或多个代码仓库创
 
 ```mermaid
 xychart-beta
-    title "SantanderAI/ralph-vault-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "SantanderAI/ralph-vault-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 68 --> 71
+    line [70, 69, 69]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 69（-1）
 
 
 ---

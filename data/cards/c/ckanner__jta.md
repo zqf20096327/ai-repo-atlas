@@ -1,6 +1,6 @@
 # ckanner/jta
 
-⭐ 133 · Go · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ckanner/jta) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 翻译 JSON i18n 文件的命令行工具，带反思自优化**
 
@@ -11,7 +11,7 @@ Go 编写的命令行工具，读取 JSON 国际化文件并调用 LLM 完成翻
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@ Go 编写的命令行工具，读取 JSON 国际化文件并调用 LLM 完成翻
 ```mermaid
 xychart-beta
     title "ckanner/jta 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-11-02 133（+0）
+2026-10-18 133 → 2026-11-07 133（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 6fears7/nospy-ai
 
-⭐ 13 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/6fears7/nospy-ai) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-05 · [GitHub](https://github.com/6fears7/nospy-ai) · 个人维护
 
 **LLM API 流量中的敏感信息脱敏与还原代理**
 
@@ -46,12 +46,12 @@ nospy 是部署在 AI agent 与 LLM API 之间的前向代理：请求中的密�
 ```mermaid
 xychart-beta
     title "6fears7/nospy-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 9 --> 14
     line [10, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

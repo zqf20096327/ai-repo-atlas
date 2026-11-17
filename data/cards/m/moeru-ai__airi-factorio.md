@@ -1,6 +1,6 @@
 # moeru-ai/airi-factorio
 
-⭐ 104 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/moeru-ai/airi-factorio) · 组织维护
+⭐ 106 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/moeru-ai/airi-factorio) · 组织维护
 
 **让 AI 通过 CV 与 LLM 自动游玩 Factorio 的游戏智能体**
 
@@ -43,13 +43,13 @@ Project AIRI 的子项目，目标是构建由 LLM 与 AI 驱动、能实时语�
 
 ```mermaid
 xychart-beta
-    title "moeru-ai/airi-factorio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    title "moeru-ai/airi-factorio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 102 --> 107
+    line [103, 104, 105, 106, 106]
 ```
 
-2026-10-18 103 → 2026-11-02 104（+1）
+2026-10-18 103 → 2026-11-17 106（+3）
 
 
 ---

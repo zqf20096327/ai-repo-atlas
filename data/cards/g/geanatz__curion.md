@@ -1,6 +1,6 @@
 # geanatz/curion
 
-⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/geanatz/curion) · [官网](https://www.npmjs.com/package/@geanatz/curion) · 个人维护
+⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/geanatz/curion) · [官网](https://www.npmjs.com/package/@geanatz/curion) · 个人维护
 
 **AI 编码 agent 的项目级持久记忆层（MCP stdio 服务器）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geanatz/curion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 31 --> 34
     line [33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-11-02 32（-1）
+2026-10-18 33 → 2026-11-17 32（-1）
 
 
 ---

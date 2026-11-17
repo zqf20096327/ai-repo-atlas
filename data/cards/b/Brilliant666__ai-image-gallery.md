@@ -1,6 +1,6 @@
 # Brilliant666/ai-image-gallery
 
-⭐ 18 · HTML · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Brilliant666/ai-image-gallery) · [官网](https://photoai.life/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 绘画参考图库：五个静态站收录 15,241 张人像/姿势/服装参考图**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Brilliant666/ai-image-gallery 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 4 --> 19
-    line [5, 17, 18]
+    title "Brilliant666/ai-image-gallery 星数(近 7 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14"]
+    y-axis "stars" 3 --> 30
+    line [5, 17, 18, 26, 27, 28, 28]
 ```
 
-2026-10-31 5 → 2026-11-02 18（+13）
+2026-10-31 5 → 2026-11-14 28（+23）
 
 
 ---

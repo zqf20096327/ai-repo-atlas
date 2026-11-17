@@ -1,6 +1,6 @@
 # x1zzdev/Xazz
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/x1zzdev/Xazz) · 个人维护 · 中文 README
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/x1zzdev/Xazz) · 个人维护 · 中文 README
 
 **Rust 编写的 AI 管线治理 DSL：编译期类型安全与安全护栏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "x1zzdev/Xazz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "x1zzdev/Xazz 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21]
+    line [20, 21, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

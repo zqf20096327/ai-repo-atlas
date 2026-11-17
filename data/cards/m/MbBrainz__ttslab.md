@@ -1,6 +1,6 @@
 # MbBrainz/ttslab
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MbBrainz/ttslab) · [官网](https://ttslab.dev) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/MbBrainz/ttslab) · [官网](https://ttslab.dev) · 个人维护
 
 **浏览器内测试与对比 TTS/STT 模型的网站，本地推理零上传**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MbBrainz/ttslab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "MbBrainz/ttslab 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 53 --> 57
-    line [54, 55, 56]
+    line [54, 55, 56, 54, 56, 56]
 ```
 
-2026-10-18 54 → 2026-11-02 56（+2）
+2026-10-18 54 → 2026-11-17 56（+2）
 
 
 ---

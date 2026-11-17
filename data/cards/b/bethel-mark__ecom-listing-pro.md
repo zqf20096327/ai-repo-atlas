@@ -1,6 +1,6 @@
 # bethel-mark/ecom-listing-pro
 
-⭐ 12 · 推送 2026-07-20 · [GitHub](https://github.com/bethel-mark/ecom-listing-pro) · [官网](https://github.com/bethel-mark/ecom-listing-pro) · 个人维护 · 中文 README
+⭐ 13 · 推送 2026-07-20 · [GitHub](https://github.com/bethel-mark/ecom-listing-pro) · [官网](https://github.com/bethel-mark/ecom-listing-pro) · 个人维护 · 中文 README
 
 **Codex 电商上架优化技能：自动诊断图片、重写标题、生成轮播图方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bethel-mark/ecom-listing-pro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "bethel-mark/ecom-listing-pro 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

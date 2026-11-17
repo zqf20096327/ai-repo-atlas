@@ -1,6 +1,6 @@
 # kaelusai/shard
 
-⭐ 47 · Kotlin · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/kaelusai/shard) · [官网](https://shard.ac) · 组织维护
+⭐ 48 · Kotlin · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/kaelusai/shard) · [官网](https://shard.ac) · 组织维护
 
 **Minecraft 服务器的开源 AI 反作弊插件：检测 killaura 与自瞄**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaelusai/shard 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-02"]
+    title "kaelusai/shard 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-14", "2026-11-17"]
     y-axis "stars" 46 --> 49
-    line [48, 47, 47]
+    line [48, 47, 48, 48]
 ```
 
-2026-10-19 48 → 2026-11-02 47（-1）
+2026-10-19 48 → 2026-11-17 48（+0）
 
 
 ---

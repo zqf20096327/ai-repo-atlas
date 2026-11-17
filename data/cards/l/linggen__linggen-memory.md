@@ -1,6 +1,6 @@
 # linggen/linggen-memory
 
-⭐ 110 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/linggen/linggen-memory) · [官网](https://linggen.dev) · 组织维护
+⭐ 111 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/linggen/linggen-memory) · [官网](https://linggen.dev) · 组织维护
 
 **面向 AI 编程助手的本地优先跨主机共享语义记忆存储**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linggen/linggen-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    title "linggen/linggen-memory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 109 --> 112
+    line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-11-02 110（+0）
+2026-10-18 110 → 2026-11-17 111（+1）
 
 
 ---

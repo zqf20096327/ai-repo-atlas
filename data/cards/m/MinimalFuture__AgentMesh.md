@@ -1,6 +1,6 @@
 # MinimalFuture/AgentMesh
 
-⭐ 347 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/MinimalFuture/AgentMesh) · 个人维护 · 中文 README
+⭐ 350 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/MinimalFuture/AgentMesh) · 个人维护 · 中文 README
 
 **面向开发者的多智能体协作框架，快速组建 Agent 团队**
 
@@ -44,13 +44,13 @@ AgentMesh 是一个多智能体（Multi-Agent）平台，提供智能体间通�
 
 ```mermaid
 xychart-beta
-    title "MinimalFuture/AgentMesh 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 342 --> 348
-    line [343, 344, 345, 346, 347, 347]
+    title "MinimalFuture/AgentMesh 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 342 --> 351
+    line [343, 344, 345, 346, 347, 345, 347, 349, 350, 350]
 ```
 
-2026-10-18 343 → 2026-11-02 347（+4）
+2026-10-18 343 → 2026-11-17 350（+7）
 
 
 ---

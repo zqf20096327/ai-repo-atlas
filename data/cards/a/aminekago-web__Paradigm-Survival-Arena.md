@@ -1,6 +1,6 @@
 # aminekago-web/Paradigm-Survival-Arena
 
-⭐ 116 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/aminekago-web/Paradigm-Survival-Arena) · 个人维护
+⭐ 116 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/aminekago-web/Paradigm-Survival-Arena) · 个人维护
 
 **六种机器学习范式在浏览器生存竞技场中对抗演化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aminekago-web/Paradigm-Survival-Arena 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "aminekago-web/Paradigm-Survival-Arena 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 115 --> 118
-    line [117, 116, 116]
+    line [117, 116, 117, 116, 116]
 ```
 
-2026-10-18 117 → 2026-11-02 116（-1）
+2026-10-18 117 → 2026-11-17 116（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SamurAIGPT/ai-knowledge-base
 
-⭐ 17 · JavaScript · 推送 2026-07-27 · [GitHub](https://github.com/SamurAIGPT/ai-knowledge-base) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=ai-knowledge-base) · 组织维护
+⭐ 19 · JavaScript · 推送 2026-07-27 · [GitHub](https://github.com/SamurAIGPT/ai-knowledge-base) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=ai-knowledge-base) · 组织维护
 
 **自托管知识库 RAG 聊天机器人构建平台（Next.js SaaS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/ai-knowledge-base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "SamurAIGPT/ai-knowledge-base 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

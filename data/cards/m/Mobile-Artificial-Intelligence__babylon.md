@@ -1,6 +1,6 @@
 # Mobile-Artificial-Intelligence/babylon
 
-⭐ 41 · C++ · MIT · 推送 2026-04-14 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/babylon) · 组织维护
+⭐ 42 · C++ · MIT · 推送 2026-04-14 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/babylon) · 组织维护
 
 **C/C++ 本地离线 TTS 与字素转音素库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mobile-Artificial-Intelligence/babylon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "Mobile-Artificial-Intelligence/babylon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

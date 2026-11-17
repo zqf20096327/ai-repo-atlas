@@ -1,6 +1,6 @@
 # kbrdn1/gwm-cli
 
-⭐ 149 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kbrdn1/gwm-cli) · [官网](https://gwm.kbrdn.dev) · 个人维护
+⭐ 155 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/kbrdn1/gwm-cli) · [官网](https://gwm.kbrdn.dev) · 个人维护
 
 **给开发者的 git worktree 管理 CLI/TUI，检测 AI agent 会话归属**
 
@@ -46,13 +46,13 @@ Rust 编写的单二进制 git worktree 管理器，基于 vendored libgit2 提�
 
 ```mermaid
 xychart-beta
-    title "kbrdn1/gwm-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 147 --> 150
-    line [148, 149, 149]
+    title "kbrdn1/gwm-cli 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 147 --> 156
+    line [148, 149, 148, 150, 151, 152, 153, 154, 155, 155]
 ```
 
-2026-10-18 148 → 2026-11-02 149（+1）
+2026-10-18 148 → 2026-11-17 155（+7）
 
 
 ---

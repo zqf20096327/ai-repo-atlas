@@ -1,6 +1,6 @@
 # flowForges/myFlowForge
 
-⭐ 56 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/flowForges/myFlowForge) · [官网](https://myflowforge.wzcu.com) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/flowForges/myFlowForge) · [官网](https://myflowforge.wzcu.com) · 个人维护 · 中文 README
 
 **统一管理多家编码 agent CLI 的跨设备 GUI 层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "flowForges/myFlowForge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 43 --> 57
-    line [44, 45, 54, 55, 56, 56]
+    title "flowForges/myFlowForge 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 43 --> 60
+    line [44, 45, 54, 55, 56, 55, 58, 59, 59]
 ```
 
-2026-10-18 44 → 2026-11-02 56（+12）
+2026-10-18 44 → 2026-11-17 59（+15）
 
 
 ---

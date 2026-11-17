@@ -1,6 +1,6 @@
 # sravan27/context-os
 
-⭐ 11 · Python · MIT · 推送 2026-05-28 · [GitHub](https://github.com/sravan27/context-os) · [官网](https://sravan27.github.io/money-27-proof/agent-cost-leak-checker.html) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-05-28 · [GitHub](https://github.com/sravan27/context-os) · [官网](https://sravan27.github.io/money-27-proof/agent-cost-leak-checker.html) · 个人维护
 
 **为 Claude Code 注入仓库静态图的本地钩子，减少首轮探索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sravan27/context-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "sravan27/context-os 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

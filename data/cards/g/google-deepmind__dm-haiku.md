@@ -1,6 +1,6 @@
 # google-deepmind/dm-haiku
 
-⭐ 3,296 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/dm-haiku) · [官网](https://dm-haiku.readthedocs.io) · 组织维护
+⭐ 3,302 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/dm-haiku) · [官网](https://dm-haiku.readthedocs.io) · 组织维护
 
 **面向 JAX 的神经网络库：用面向对象模块构建可变换纯函数**
 
@@ -45,13 +45,13 @@ Google DeepMind 开发的 JAX 神经网络库，由 Sonnet 作者团队打造，
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/dm-haiku 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 3294 --> 3298
-    line [3295, 3296, 3297, 3296, 3295, 3296]
+    title "google-deepmind/dm-haiku 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 3294 --> 3303
+    line [3295, 3296, 3297, 3296, 3295, 3296, 3297, 3301, 3299, 3301, 3302, 3302]
 ```
 
-2026-10-18 3,295 → 2026-11-02 3,296（+1）
+2026-10-18 3,295 → 2026-11-17 3,302（+7）
 
 
 ---

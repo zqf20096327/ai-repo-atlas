@@ -1,6 +1,6 @@
 # dongheechoi/ai-portfolio-selection
 
-⭐ 31 · 推送 2026-09-30 · [GitHub](https://github.com/dongheechoi/ai-portfolio-selection) · 个人维护
+⭐ 32 · 推送 2026-09-30 · [GitHub](https://github.com/dongheechoi/ai-portfolio-selection) · 个人维护
 
 **AI 投资组合选择方向的论文清单（awesome list）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dongheechoi/ai-portfolio-selection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "dongheechoi/ai-portfolio-selection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

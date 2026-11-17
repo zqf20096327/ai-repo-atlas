@@ -1,6 +1,6 @@
 # Blushyes/flowmark
 
-⭐ 22 · TypeScript · 推送 2026-03-14 · [GitHub](https://github.com/Blushyes/flowmark) · [官网](https://chromewebstore.google.com/detail/kbmjedeepcglnmllaklecppgijhgggdg?utm_source=item-share-cb) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · 推送 2026-03-14 · [GitHub](https://github.com/Blushyes/flowmark) · [官网](https://chromewebstore.google.com/detail/kbmjedeepcglnmllaklecppgijhgggdg?utm_source=item-share-cb) · 个人维护 · 中文 README
 
 **保存网页时由 AI 建议书签文件夹、标题与摘要的浏览器扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blushyes/flowmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "Blushyes/flowmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

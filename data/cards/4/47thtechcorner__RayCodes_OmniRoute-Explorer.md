@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_OmniRoute-Explorer
 
-⭐ 70 · Python · 推送 2026-07-03 · [GitHub](https://github.com/47thtechcorner/RayCodes_OmniRoute-Explorer) · [官网](https://youtu.be/If7Xeozh17Q) · 个人维护
+⭐ 76 · Python · 推送 2026-07-03 · [GitHub](https://github.com/47thtechcorner/RayCodes_OmniRoute-Explorer) · [官网](https://youtu.be/If7Xeozh17Q) · 个人维护
 
 **基于 OmniRoute 网关的 Streamlit AI 仪表盘与报告生成工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "47thtechcorner/RayCodes_OmniRoute-Explorer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 61 --> 71
-    line [62, 65, 67, 68, 69, 70, 70]
+    title "47thtechcorner/RayCodes_OmniRoute-Explorer 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 61 --> 77
+    line [62, 65, 67, 68, 69, 70, 68, 71, 73, 74, 76, 76]
 ```
 
-2026-10-18 62 → 2026-11-02 70（+8）
+2026-10-18 62 → 2026-11-17 76（+14）
 
 
 ---

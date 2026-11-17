@@ -1,6 +1,6 @@
 # EnzymeAD/ReactantNitro.jl
 
-⭐ 22 · Julia · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EnzymeAD/ReactantNitro.jl) · [官网](https://enzymead.github.io/ReactantNitro.jl/dev) · 组织维护
+⭐ 25 · Julia · MIT · 推送 2026-11-10 · [GitHub](https://github.com/EnzymeAD/ReactantNitro.jl) · [官网](https://enzymead.github.io/ReactantNitro.jl/dev) · 组织维护
 
 **面向 Lux 模型的 Reactant/XLA 训练框架，Julia 实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EnzymeAD/ReactantNitro.jl 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 23
-    line [16, 17, 18, 19, 20, 21, 22, 22]
+    title "EnzymeAD/ReactantNitro.jl 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 26
+    line [16, 17, 18, 19, 20, 21, 22, 19, 23, 24, 25, 25]
 ```
 
-2026-10-18 16 → 2026-11-02 22（+6）
+2026-10-18 16 → 2026-11-17 25（+9）
 
 
 ---

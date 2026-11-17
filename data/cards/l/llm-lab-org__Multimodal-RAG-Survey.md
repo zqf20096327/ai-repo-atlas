@@ -1,6 +1,6 @@
 # llm-lab-org/Multimodal-RAG-Survey
 
-⭐ 546 · 推送 2026-02-20 · [GitHub](https://github.com/llm-lab-org/Multimodal-RAG-Survey) · [官网](https://arxiv.org/abs/2502.08826) · 组织维护
+⭐ 545 · 推送 2026-11-07 · [GitHub](https://github.com/llm-lab-org/Multimodal-RAG-Survey) · [官网](https://arxiv.org/abs/2502.08826) · 组织维护
 
 **多模态 RAG 综述配套论文仓库：收录并分类相关论文与数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "llm-lab-org/Multimodal-RAG-Survey 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 545 --> 548
-    line [546, 547, 546, 546]
+    title "llm-lab-org/Multimodal-RAG-Survey 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 544 --> 548
+    line [546, 547, 546, 547, 545, 545]
 ```
 
-2026-10-18 546 → 2026-11-02 546（+0）
+2026-10-18 546 → 2026-11-17 545（-1）
 
 
 ---

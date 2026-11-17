@@ -1,6 +1,6 @@
 # EdinburghAI/workshops
 
-⭐ 24 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/EdinburghAI/workshops) · [官网](https://www.edinburghai.org) · 组织维护
+⭐ 26 · Jupyter Notebook · 推送 2026-11-02 · [GitHub](https://github.com/EdinburghAI/workshops) · [官网](https://www.edinburghai.org) · 组织维护
 
 **面向学生的机器学习实践工作坊 notebook 教学资源库**
 
@@ -44,13 +44,13 @@ Edinburgh AI 在爱丁堡大学运行的入门级 AI 工作坊的配套资源仓
 
 ```mermaid
 xychart-beta
-    title "EdinburghAI/workshops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [25, 24, 24]
+    title "EdinburghAI/workshops 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [25, 24, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 24（-1）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

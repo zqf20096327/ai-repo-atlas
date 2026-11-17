@@ -1,6 +1,6 @@
 # matteo-grella/fucina
 
-⭐ 21 · Zig · MIT · 推送 2026-09-09 · [GitHub](https://github.com/matteo-grella/fucina) · [官网](https://matteo-grella.github.io/fucina/) · 个人维护
+⭐ 22 · Zig · MIT · 推送 2026-09-09 · [GitHub](https://github.com/matteo-grella/fucina) · [官网](https://matteo-grella.github.io/fucina/) · 个人维护
 
 **纯 Zig 编写的 CPU 优先张量/autograd 库与 LLM 推理训练运行时**
 
@@ -47,13 +47,13 @@ Fucina 是用 Zig 0.16 编写的 eager 执行张量/自动微分库：轴名在�
 
 ```mermaid
 xychart-beta
-    title "matteo-grella/fucina 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "matteo-grella/fucina 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

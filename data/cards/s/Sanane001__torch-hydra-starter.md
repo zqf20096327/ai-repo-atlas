@@ -1,6 +1,6 @@
 # Sanane001/torch-hydra-starter
 
-⭐ 55 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/Sanane001/torch-hydra-starter) · 个人维护 · 中文 README
+⭐ 55 · HTML · 推送 2026-11-14 · [GitHub](https://github.com/Sanane001/torch-hydra-starter) · 个人维护 · 中文 README
 
 **面向研究者的 PyTorch+Hydra 深度学习实验模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sanane001/torch-hydra-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 55（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/AnthropomorphicIntelligence
 
-⭐ 153 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/microsoft/AnthropomorphicIntelligence) · 组织维护
+⭐ 156 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/microsoft/AnthropomorphicIntelligence) · 组织维护
 
 **微软拟人化智能研究项目集：评测与推进类人心智的 AI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AnthropomorphicIntelligence 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 149 --> 155
-    line [150, 152, 153, 154, 153, 153]
+    title "microsoft/AnthropomorphicIntelligence 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 149 --> 157
+    line [150, 152, 153, 154, 153, 152, 156, 156]
 ```
 
-2026-10-18 150 → 2026-11-02 153（+3）
+2026-10-18 150 → 2026-11-17 156（+6）
 
 
 ---

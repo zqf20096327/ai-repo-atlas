@@ -1,6 +1,6 @@
 # ROCm/Tensile
 
-⭐ 262 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ROCm/Tensile) · [官网](https://github.com/ROCm/rocm-libraries) · 组织维护
+⭐ 263 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ROCm/Tensile) · [官网](https://github.com/ROCm/rocm-libraries) · 组织维护
 
 **已弃用：GPU 上 GEMM/张量收缩基准驱动后端库生成工具**
 
@@ -42,13 +42,13 @@ Tensile 用于创建面向 GPU 的基准驱动后端库，覆盖 GEMM、类 GEMM
 
 ```mermaid
 xychart-beta
-    title "ROCm/Tensile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 261 --> 263
-    line [262, 262]
+    title "ROCm/Tensile 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 261 --> 264
+    line [262, 263, 263]
 ```
 
-2026-10-18 262 → 2026-11-02 262（+0）
+2026-10-18 262 → 2026-11-17 263（+1）
 
 
 ---

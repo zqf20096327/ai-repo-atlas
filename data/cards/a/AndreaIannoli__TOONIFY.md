@@ -1,6 +1,6 @@
 # AndreaIannoli/TOONIFY
 
-⭐ 17 · Rust · MIT · 推送 2025-11-17 · [GitHub](https://github.com/AndreaIannoli/TOONIFY) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **JSON/YAML/XML/CSV 转 TOON 格式的 Rust 转换器及多语言绑定**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AndreaIannoli/TOONIFY 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "AndreaIannoli/TOONIFY 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-12"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-12 18（+2）
 
 
 ---

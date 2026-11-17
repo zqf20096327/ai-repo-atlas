@@ -1,6 +1,6 @@
 # lightsifter/sift-light
 
-⭐ 102 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/lightsifter/sift-light) · 个人维护 · 中文 README
+⭐ 104 · JavaScript · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/lightsifter/sift-light) · 个人维护 · 中文 README
 
 **面向 AI agent 的本地证据优先文本搜索插件（MCP/Pi/OMP）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lightsifter/sift-light 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 97 --> 103
-    line [98, 99, 100, 99, 102, 102]
+    title "lightsifter/sift-light 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 97 --> 105
+    line [98, 99, 100, 99, 102, 99, 102, 103, 104, 104]
 ```
 
-2026-10-18 98 → 2026-11-02 102（+4）
+2026-10-18 98 → 2026-11-17 104（+6）
 
 
 ---

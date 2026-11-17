@@ -1,6 +1,6 @@
 # guillaume-be/rust-bert
 
-⭐ 3,089 · Rust · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/guillaume-be/rust-bert) · [官网](https://docs.rs/crate/rust-bert) · 个人维护
+⭐ 3,091 · Rust · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/guillaume-be/rust-bert) · [官网](https://docs.rs/crate/rust-bert) · 个人维护
 
 **Rust 原生 NLP 模型与即用管线库：问答/翻译/摘要/生成等**
 
@@ -45,13 +45,13 @@ Hugging Face Transformers 的 Rust 移植库，通过 tch-rs（Libtorch 绑定�
 
 ```mermaid
 xychart-beta
-    title "guillaume-be/rust-bert 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3083 --> 3090
-    line [3084, 3086, 3087, 3089, 3088, 3089]
+    title "guillaume-be/rust-bert 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 3083 --> 3092
+    line [3084, 3086, 3087, 3089, 3088, 3089, 3086, 3091, 3090, 3091, 3091]
 ```
 
-2026-10-18 3,084 → 2026-11-02 3,089（+5）
+2026-10-18 3,084 → 2026-11-17 3,091（+7）
 
 
 ---

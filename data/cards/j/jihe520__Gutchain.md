@@ -1,6 +1,6 @@
 # jihe520/Gutchain
 
-⭐ 34 · TypeScript · 推送 2026-08-18 · [GitHub](https://github.com/jihe520/Gutchain) · [官网](http://gutchain.fun) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · 推送 2026-08-18 · [GitHub](https://github.com/jihe520/Gutchain) · [官网](http://gutchain.fun) · 个人维护 · 中文 README
 
 **Chrome 扩展：一键将 X 推文搬运到小红书创作页面**
 
@@ -42,13 +42,13 @@ Chrome 浏览器扩展，面向需要把海外社交媒体内容转发到中文�
 
 ```mermaid
 xychart-beta
-    title "jihe520/Gutchain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "jihe520/Gutchain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

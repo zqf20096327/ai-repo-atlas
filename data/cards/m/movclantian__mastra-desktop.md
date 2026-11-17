@@ -1,6 +1,6 @@
 # movclantian/mastra-desktop
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/movclantian/mastra-desktop) · [官网](https://mastrawork-notebook.sorryios-4070.chatgpt.site) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/movclantian/mastra-desktop) · [官网](https://mastrawork-notebook.sorryios-4070.chatgpt.site) · 个人维护 · 中文 README
 
 **本地优先的多 Agent 桌面 AI 工作台，面向软件工程与知识工作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "movclantian/mastra-desktop 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02"]
+    title "movclantian/mastra-desktop 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 9 --> 19
-    line [10, 14, 16, 17, 18, 18]
+    line [10, 14, 16, 17, 18, 16, 18, 17, 17]
 ```
 
-2026-10-22 10 → 2026-11-02 18（+8）
+2026-10-22 10 → 2026-11-17 17（+7）
 
 
 ---

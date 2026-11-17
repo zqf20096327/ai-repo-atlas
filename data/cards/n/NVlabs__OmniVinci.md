@@ -1,6 +1,6 @@
 # NVlabs/OmniVinci
 
-⭐ 685 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/NVlabs/OmniVinci) · [官网](https://nvlabs.github.io/OmniVinci/) · 组织维护
+⭐ 683 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/NVlabs/OmniVinci) · [官网](https://nvlabs.github.io/OmniVinci/) · 组织维护
 
 **NVIDIA 开源全模态 LLM：视觉、音频、语言联合理解**
 
@@ -45,13 +45,13 @@ NVIDIA 研究团队发布的全模态大语言模型（ICLR 2026 投稿，arXiv:
 
 ```mermaid
 xychart-beta
-    title "NVlabs/OmniVinci 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 683 --> 686
-    line [684, 685, 685]
+    title "NVlabs/OmniVinci 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 682 --> 686
+    line [684, 685, 684, 683, 683]
 ```
 
-2026-10-18 684 → 2026-11-02 685（+1）
+2026-10-18 684 → 2026-11-17 683（-1）
 
 
 ---

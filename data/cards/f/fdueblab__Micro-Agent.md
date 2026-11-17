@@ -1,6 +1,6 @@
 # fdueblab/Micro-Agent
 
-⭐ 100 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/fdueblab/Micro-Agent) · 组织维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/fdueblab/Micro-Agent) · 组织维护 · 中文 README
 
 **面向垂域应用的轻量级 AI Agent 框架，以 API 服务交付**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fdueblab/Micro-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "fdueblab/Micro-Agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 99 --> 102
-    line [101, 100, 100]
+    line [101, 100, 101, 100, 101, 101]
 ```
 
-2026-10-18 101 → 2026-11-02 100（-1）
+2026-10-18 101 → 2026-11-17 101（+0）
 
 
 ---

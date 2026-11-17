@@ -1,6 +1,6 @@
 # aeturrell/python4DS
 
-⭐ 170 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aeturrell/python4DS) · [官网](https://aeturrell.github.io/python4DS) · 个人维护
+⭐ 171 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aeturrell/python4DS) · [官网](https://aeturrell.github.io/python4DS) · 个人维护
 
 **教你用 Python 做数据科学的在线图书（含代码仓库）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aeturrell/python4DS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 168 --> 171
-    line [169, 170, 170]
+    title "aeturrell/python4DS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 168 --> 172
+    line [169, 170, 171, 171]
 ```
 
-2026-10-18 169 → 2026-11-02 170（+1）
+2026-10-18 169 → 2026-11-17 171（+2）
 
 
 ---

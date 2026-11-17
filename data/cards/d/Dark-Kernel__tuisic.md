@@ -1,6 +1,6 @@
 # Dark-Kernel/tuisic
 
-⭐ 77 · C++ · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/Dark-Kernel/tuisic) · [官网](https://dark-kernel.github.io/tuisic/) · 个人维护
+⭐ 76 · C++ · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/Dark-Kernel/tuisic) · [官网](https://dark-kernel.github.io/tuisic/) · 个人维护
 
 **带 Vim 键位与 MCP 集成的 C++ 终端在线音乐播放器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dark-Kernel/tuisic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "Dark-Kernel/tuisic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 78
+    line [77, 76, 76]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 76（-1）
 
 
 ---

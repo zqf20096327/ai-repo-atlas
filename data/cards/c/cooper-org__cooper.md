@@ -1,6 +1,6 @@
 # cooper-org/cooper
 
-⭐ 167 · Python · MIT · 推送 2025-11-15 · [GitHub](https://github.com/cooper-org/cooper) · [官网](https://cooper.readthedocs.io/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **PyTorch 深度学习约束优化库：拉格朗日法求解受限问题**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cooper-org/cooper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10"]
     y-axis "stars" 165 --> 168
     line [166, 167, 167]
 ```
 
-2026-10-18 166 → 2026-11-02 167（+1）
+2026-10-18 166 → 2026-11-10 167（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # arizqi/cpubrrr
 
-⭐ 56 · Rust · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/arizqi/cpubrrr) · 个人维护
+⭐ 57 · Rust · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/arizqi/cpubrrr) · 个人维护
 
 **Apple 芯片 CPU 上的 MoE 模型推理研究运行时（Rust）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arizqi/cpubrrr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "arizqi/cpubrrr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rabrain/ai-chat
 
-⭐ 63 · TypeScript · 推送 2026-01-08 · [GitHub](https://github.com/rabrain/ai-chat) · [官网](https://www.chatbar.top) · 个人维护
+⭐ 64 · TypeScript · 推送 2026-01-08 · [GitHub](https://github.com/rabrain/ai-chat) · [官网](https://www.chatbar.top) · 个人维护
 
 **菜单栏 AI 聊天机器人桌面客户端，快速访问 ChatGPT 等**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "rabrain/ai-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    title "rabrain/ai-chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 62 --> 65
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-17 64（+1）
 
 
 ---

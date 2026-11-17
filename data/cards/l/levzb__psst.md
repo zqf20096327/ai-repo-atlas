@@ -1,6 +1,6 @@
 # levzb/psst
 
-⭐ 11 · Python · Unlicense · 推送 2026-10-30 · [GitHub](https://github.com/levzb/psst) · 个人维护
+⭐ 15 · Python · Unlicense · 推送 2026-10-30 · [GitHub](https://github.com/levzb/psst) · 个人维护
 
 **终端里用自然语言换出一条适配本机的 shell 命令**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "levzb/psst 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 7 --> 12
-    line [8, 9, 11]
+    title "levzb/psst 星数(近 5 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 7 --> 16
+    line [8, 9, 11, 15, 15]
 ```
 
-2026-10-31 8 → 2026-11-02 11（+3）
+2026-10-31 8 → 2026-11-17 15（+7）
 
 
 ---

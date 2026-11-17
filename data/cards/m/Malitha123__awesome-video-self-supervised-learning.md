@@ -1,6 +1,6 @@
 # Malitha123/awesome-video-self-supervised-learning
 
-⭐ 175 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/Malitha123/awesome-video-self-supervised-learning) · 组织维护
+⭐ 176 · HTML · 推送 2026-11-03 · [GitHub](https://github.com/Malitha123/awesome-video-self-supervised-learning) · 组织维护
 
 **视频自监督学习论文策展清单：面向研究者的方法收录**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Malitha123/awesome-video-self-supervised-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 173 --> 176
-    line [174, 175, 175]
+    title "Malitha123/awesome-video-self-supervised-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 173 --> 177
+    line [174, 175, 176, 176]
 ```
 
-2026-10-18 174 → 2026-11-02 175（+1）
+2026-10-18 174 → 2026-11-17 176（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Spkap/StockSense-AI
 
-⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Spkap/StockSense-AI) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Spkap/StockSense-AI) · 个人维护
 
 **多智能体股票研究系统：牛熊辩论生成概率加权结论**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Spkap/StockSense-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 16 --> 23
-    line [17, 22, 22]
+    title "Spkap/StockSense-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 24
+    line [17, 22, 23, 23]
 ```
 
-2026-10-18 17 → 2026-11-02 22（+5）
+2026-10-18 17 → 2026-11-17 23（+6）
 
 
 ---

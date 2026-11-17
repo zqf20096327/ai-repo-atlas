@@ -1,6 +1,6 @@
 # userFRM/rpg-encoder
 
-⭐ 31 · Rust · MIT · 推送 2026-05-29 · [GitHub](https://github.com/userFRM/rpg-encoder) · [官网](https://www.npmjs.com/package/rpg-encoder) · 个人维护
+⭐ 33 · Rust · MIT · 推送 2026-05-29 · [GitHub](https://github.com/userFRM/rpg-encoder) · [官网](https://www.npmjs.com/package/rpg-encoder) · 个人维护
 
 **给 AI 编程 agent 提供全仓库语义理解的 MCP server**
 
@@ -44,13 +44,13 @@ Rust + Tree-sitter 实现的 MCP server：对代码库建立语义图（实体�
 
 ```mermaid
 xychart-beta
-    title "userFRM/rpg-encoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "userFRM/rpg-encoder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

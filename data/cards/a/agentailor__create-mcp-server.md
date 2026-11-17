@@ -1,6 +1,6 @@
 # agentailor/create-mcp-server
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/agentailor/create-mcp-server) · [官网](https://www.agentailor.com/) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/agentailor/create-mcp-server) · [官网](https://www.agentailor.com/) · 组织维护
 
 **脚手架工具：快速生成生产级 MCP 服务器项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentailor/create-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rhgs/crewai-go
 
-⭐ 15 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/rhgs/crewai-go) · [官网](https://pkg.go.dev/github.com/rhgs/crewai-go) · 个人维护
+⭐ 16 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/rhgs/crewai-go) · [官网](https://pkg.go.dev/github.com/rhgs/crewai-go) · 个人维护
 
 **Go 语言多智能体编排框架，CrewAI 的惯用移植**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rhgs/crewai-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15]
+    title "rhgs/crewai-go 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 13, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

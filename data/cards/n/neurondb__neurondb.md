@@ -1,6 +1,6 @@
 # neurondb/neurondb
 
-⭐ 53 · C · NOASSERTION · 推送 2026-05-04 · [GitHub](https://github.com/neurondb/neurondb) · [官网](https://www.neurondb.ai) · 组织维护
+⭐ 54 · C · NOASSERTION · 推送 2026-05-04 · [GitHub](https://github.com/neurondb/neurondb) · [官网](https://www.neurondb.ai) · 组织维护
 
 **PostgreSQL 扩展：在库内做向量检索、kNN、ML 训练预测与混合搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neurondb/neurondb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "neurondb/neurondb 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54, 54]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 54（+2）
 
 
 ---

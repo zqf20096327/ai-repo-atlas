@@ -1,6 +1,6 @@
 # Dishant27/medium-mcp-server
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Dishant27/medium-mcp-server) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Dishant27/medium-mcp-server) · 个人维护
 
 **让 AI 助手读写 Medium 账号的 MCP 服务器**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dishant27/medium-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 28]
+    title "Dishant27/medium-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [28, 27, 28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

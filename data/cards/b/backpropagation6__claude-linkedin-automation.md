@@ -1,6 +1,6 @@
 # backpropagation6/claude-linkedin-automation
 
-⭐ 30 · Shell · MIT · 推送 2026-04-07 · [GitHub](https://github.com/backpropagation6/claude-linkedin-automation) · [官网](https://giovanniliguori.it) · 个人维护
+⭐ 33 · Shell · MIT · 推送 2026-04-07 · [GitHub](https://github.com/backpropagation6/claude-linkedin-automation) · [官网](https://giovanniliguori.it) · 个人维护
 
 **让 Claude 自主运营 LinkedIn 主页的 agent 技能（含反检测体系）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "backpropagation6/claude-linkedin-automation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 29, 30]
+    title "backpropagation6/claude-linkedin-automation 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 29, 30, 29, 31, 32, 33, 33]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 33（+4）
 
 
 ---

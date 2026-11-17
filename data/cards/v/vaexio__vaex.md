@@ -1,6 +1,6 @@
 # vaexio/vaex
 
-⭐ 8,518 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vaexio/vaex) · [官网](https://vaex.io) · 组织维护
+⭐ 8,519 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/vaexio/vaex) · [官网](https://vaex.io) · 组织维护
 
 **面向十亿行级表格数据的 Python 核外 DataFrame 与可视化库**
 
@@ -44,13 +44,13 @@ Python 库，提供类似 Pandas 的懒计算核外（Out-of-Core）DataFrame，
 
 ```mermaid
 xychart-beta
-    title "vaexio/vaex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 8515 --> 8519
-    line [8517, 8516, 8518, 8518]
+    title "vaexio/vaex 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 8515 --> 8520
+    line [8517, 8516, 8518, 8517, 8516, 8518, 8519, 8519]
 ```
 
-2026-10-18 8,517 → 2026-11-02 8,518（+1）
+2026-10-18 8,517 → 2026-11-17 8,519（+2）
 
 
 ---

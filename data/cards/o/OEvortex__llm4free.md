@@ -1,6 +1,6 @@
 # OEvortex/llm4free
 
-⭐ 377 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/OEvortex/llm4free) · [官网](https://pypi.org/project/llm4free/) · 组织维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/OEvortex/llm4free) · [官网](https://pypi.org/project/llm4free/) · 组织维护
 
 **统一 OpenAI 接口聚合 40+ 免费/付费 AI 提供商的 Python 工具包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "OEvortex/llm4free 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 374 --> 378
-    line [375, 376, 377, 376, 377, 377]
+    title "OEvortex/llm4free 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 374 --> 384
+    line [375, 376, 377, 376, 377, 375, 380, 381, 382, 383, 383]
 ```
 
-2026-10-18 375 → 2026-11-02 377（+2）
+2026-10-18 375 → 2026-11-17 383（+8）
 
 
 ---

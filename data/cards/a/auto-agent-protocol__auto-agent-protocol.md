@@ -1,6 +1,6 @@
 # auto-agent-protocol/auto-agent-protocol
 
-⭐ 110 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/auto-agent-protocol/auto-agent-protocol) · [官网](https://autoagentprotocol.org/) · 组织维护
+⭐ 112 · TypeScript · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/auto-agent-protocol/auto-agent-protocol) · [官网](https://autoagentprotocol.org/) · 组织维护
 
 **开放协议：让 AI 助手可查询车行库存并提交销售线索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "auto-agent-protocol/auto-agent-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    title "auto-agent-protocol/auto-agent-protocol 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 112, 112]
 ```
 
-2026-10-18 110 → 2026-11-02 110（+0）
+2026-10-18 110 → 2026-11-17 112（+2）
 
 
 ---

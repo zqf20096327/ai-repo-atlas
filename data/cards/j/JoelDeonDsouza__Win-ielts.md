@@ -1,6 +1,6 @@
 # JoelDeonDsouza/Win-ielts
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/JoelDeonDsouza/Win-ielts) · [官网](https://win-ielts.vercel.app) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/JoelDeonDsouza/Win-ielts) · [官网](https://win-ielts.vercel.app) · 个人维护
 
 **借助 AI 的雅思备考 Web 应用：练习材料与个性化反馈**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoelDeonDsouza/Win-ielts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "JoelDeonDsouza/Win-ielts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

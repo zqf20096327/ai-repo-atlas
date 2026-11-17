@@ -1,6 +1,6 @@
 # emer/leabra
 
-⭐ 100 · Go · BSD-3-Clause · 推送 2026-06-29 · [GitHub](https://github.com/emer/leabra) · [官网](https://emersim.org) · 个人维护
+⭐ 102 · Go · BSD-3-Clause · 推送 2026-06-29 · [GitHub](https://github.com/emer/leabra) · [官网](https://emersim.org) · 个人维护
 
 **Leabra 认知神经计算算法的 Go 实现，供生物合理性神经网络建模**
 
@@ -44,13 +44,13 @@ Leabra（Local, Error-driven and Associative, Biologically Realistic Algorithm�
 
 ```mermaid
 xychart-beta
-    title "emer/leabra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    title "emer/leabra 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 99 --> 103
+    line [100, 102, 102]
 ```
 
-2026-10-18 100 → 2026-11-02 100（+0）
+2026-10-18 100 → 2026-11-17 102（+2）
 
 
 ---

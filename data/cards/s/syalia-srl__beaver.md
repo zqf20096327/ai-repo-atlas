@@ -1,6 +1,6 @@
 # syalia-srl/beaver
 
-⭐ 37 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/syalia-srl/beaver) · [官网](https://syalia.com/beaver/) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/syalia-srl/beaver) · [官网](https://syalia.com/beaver/) · 组织维护
 
 **给开发者的纯 Python 嵌入式多模型数据库：关系/文档/向量/图/事件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "syalia-srl/beaver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "syalia-srl/beaver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SciSharp/BotSharp-UI
 
-⭐ 158 · Svelte · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/SciSharp/BotSharp-UI) · 组织维护 · 中文 README
+⭐ 160 · Svelte · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/SciSharp/BotSharp-UI) · 组织维护 · 中文 README
 
 **BotSharp 的 Agent 管理与对话 Web 前端**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SciSharp/BotSharp-UI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 156 --> 159
-    line [157, 158, 158]
+    title "SciSharp/BotSharp-UI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 156 --> 161
+    line [157, 158, 159, 160, 160]
 ```
 
-2026-10-18 157 → 2026-11-02 158（+1）
+2026-10-18 157 → 2026-11-17 160（+3）
 
 
 ---

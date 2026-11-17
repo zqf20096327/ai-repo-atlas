@@ -1,6 +1,6 @@
 # OxWearables/biobankAccelerometerAnalysis
 
-⭐ 253 · Python · NOASSERTION · 推送 2025-11-10 · [GitHub](https://github.com/OxWearables/biobankAccelerometerAnalysis) · [官网](https://biobankaccanalysis.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **从大型加速度计数据集提取健康信息的处理工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OxWearables/biobankAccelerometerAnalysis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
     y-axis "stars" 251 --> 254
     line [252, 253, 253]
 ```
 
-2026-10-18 252 → 2026-11-02 253（+1）
+2026-10-18 252 → 2026-11-07 253（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mr-Infect/AI-cyber-range
 
-⭐ 13 · Python · 推送 2025-11-30 · [GitHub](https://github.com/Mr-Infect/AI-cyber-range) · 个人维护
+⭐ 14 · Python · 推送 2025-11-30 · [GitHub](https://github.com/Mr-Infect/AI-cyber-range) · 个人维护
 
 **OWASP LLM Top 10 攻防靶场：Docker 化模拟 LLM 漏洞供练习**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mr-Infect/AI-cyber-range 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Mr-Infect/AI-cyber-range 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/d4rt
 
-⭐ 74 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/lucidrains/d4rt) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/lucidrains/d4rt) · 个人维护
 
 **DeepMind D4RT 动态场景重建模型的 PyTorch 实现**
 
@@ -42,13 +42,13 @@ lucidrains 对 DeepMind 论文《Efficiently Reconstructing Dynamic Scenes One D
 
 ```mermaid
 xychart-beta
-    title "lucidrains/d4rt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "lucidrains/d4rt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [74, 75, 76, 76]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 76（+2）
 
 
 ---

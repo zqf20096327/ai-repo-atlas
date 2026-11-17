@@ -1,6 +1,6 @@
 # tejas4patel/dragonfarm
 
-⭐ 16 · R · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tejas4patel/dragonfarm) · [官网](https://dragonfarm.dev/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **R 语言的 LLM 微调工具包：用自有文档训练并使用自己的模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tejas4patel/dragonfarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-02"]
+    title "tejas4patel/dragonfarm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15"]
     y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16, 16]
+    line [13, 14, 15, 16, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 16（+3）
+2026-10-18 13 → 2026-11-15 16（+3）
 
 
 ---

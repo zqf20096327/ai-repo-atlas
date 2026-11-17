@@ -1,6 +1,6 @@
 # sb-ai-lab/Eco2AI
 
-⭐ 283 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/sb-ai-lab/Eco2AI) · 组织维护
+⭐ 283 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/sb-ai-lab/Eco2AI) · 组织维护
 
 **追踪 Python 代码运行能耗与 CO2 排放的 Python 库**
 
@@ -45,12 +45,12 @@ eco2AI 是用于 CO2 排放追踪的 Python 库：监控 CPU 与 GPU 设备的�
 ```mermaid
 xychart-beta
     title "sb-ai-lab/Eco2AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 282 --> 284
     line [283, 283]
 ```
 
-2026-10-18 283 → 2026-11-02 283（+0）
+2026-10-18 283 → 2026-11-17 283（+0）
 
 
 ---

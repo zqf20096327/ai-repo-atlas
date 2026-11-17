@@ -1,6 +1,6 @@
 # Ericvf/BroPilot
 
-⭐ 12 · C# · GPL-3.0 · 推送 2026-04-24 · [GitHub](https://github.com/Ericvf/BroPilot) · 个人维护
+⭐ 13 · C# · GPL-3.0 · 推送 2026-04-24 · [GitHub](https://github.com/Ericvf/BroPilot) · 个人维护
 
 **连接本地 LLM 的 Visual Studio/SSMS 代码辅助扩展**
 
@@ -44,13 +44,13 @@ Visual Studio 扩展（另支持 SSMS），连接本地 LLM 服务器（Ollama�
 
 ```mermaid
 xychart-beta
-    title "Ericvf/BroPilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [12, 11, 12, 12]
+    title "Ericvf/BroPilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [12, 11, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # GACWR/OpenUBA
 
-⭐ 524 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GACWR/OpenUBA) · [官网](http://openuba.org) · 组织维护
+⭐ 529 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GACWR/OpenUBA) · [官网](http://openuba.org) · 组织维护
 
 **开源 UEBA 安全分析框架：模型管理、规则引擎与行为异常检测平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "GACWR/OpenUBA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 521 --> 525
-    line [522, 523, 524, 524]
+    title "GACWR/OpenUBA 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 521 --> 530
+    line [522, 523, 524, 523, 527, 528, 529, 529]
 ```
 
-2026-10-18 522 → 2026-11-02 524（+2）
+2026-10-18 522 → 2026-11-17 529（+7）
 
 
 ---

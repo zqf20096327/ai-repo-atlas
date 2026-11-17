@@ -1,6 +1,6 @@
 # duriantaco/ravage
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/duriantaco/ravage) · 个人维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/duriantaco/ravage) · 个人维护
 
 **面向授权目标的 AI 驱动 Web 安全测试 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "duriantaco/ravage 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 52 --> 57
-    line [53, 54, 55, 56, 56]
+    title "duriantaco/ravage 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 59
+    line [53, 54, 55, 56, 58, 58]
 ```
 
-2026-10-18 53 → 2026-11-02 56（+3）
+2026-10-18 53 → 2026-11-17 58（+5）
 
 
 ---

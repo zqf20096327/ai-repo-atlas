@@ -1,6 +1,6 @@
 # umacloud/umadev
 
-⭐ 265 · Rust · MIT · 推送 2026-09-29 · [GitHub](https://github.com/umacloud/umadev) · [官网](https://umadev.goder.ai) · 组织维护 · 中文 README
+⭐ 267 · Rust · MIT · 推送 2026-09-29 · [GitHub](https://github.com/umacloud/umadev) · [官网](https://umadev.goder.ai) · 组织维护 · 中文 README
 
 **编排既有 AI 编码 CLI 的角色化团队式编码代理**
 
@@ -45,13 +45,13 @@ Rust 单二进制编码代理，自身不含模型端点，驱动 Claude Code、
 
 ```mermaid
 xychart-beta
-    title "umacloud/umadev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 262 --> 266
-    line [263, 265, 264, 265]
+    title "umacloud/umadev 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 262 --> 268
+    line [263, 265, 264, 265, 266, 267, 267]
 ```
 
-2026-10-18 263 → 2026-11-02 265（+2）
+2026-10-18 263 → 2026-11-17 267（+4）
 
 
 ---

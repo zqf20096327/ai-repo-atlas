@@ -1,6 +1,6 @@
 # couchbase-examples/rag-demo
 
-⭐ 25 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/couchbase-examples/rag-demo) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/couchbase-examples/rag-demo) · 组织维护
 
 **基于 Couchbase 向量检索的 PDF 对话 RAG 演示应用**
 
@@ -46,12 +46,12 @@ Streamlit 演示应用：上传 PDF 后在聊天框提问，用 Couchbase 向量
 ```mermaid
 xychart-beta
     title "couchbase-examples/rag-demo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

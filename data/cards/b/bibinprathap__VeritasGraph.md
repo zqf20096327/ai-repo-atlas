@@ -1,6 +1,6 @@
 # bibinprathap/VeritasGraph
 
-⭐ 326 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bibinprathap/VeritasGraph) · [官网](https://bibinprathap.github.io/VeritasGraph/studio/) · 个人维护
+⭐ 327 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/bibinprathap/VeritasGraph) · [官网](https://bibinprathap.github.io/VeritasGraph/studio/) · 个人维护
 
 **开源 GraphRAG 与治理型 Agent 框架：图结构检索+可验证溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bibinprathap/VeritasGraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 324 --> 327
-    line [325, 326, 326]
+    title "bibinprathap/VeritasGraph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 324 --> 328
+    line [325, 326, 325, 326, 327, 327]
 ```
 
-2026-10-18 325 → 2026-11-02 326（+1）
+2026-10-18 325 → 2026-11-17 327（+2）
 
 
 ---

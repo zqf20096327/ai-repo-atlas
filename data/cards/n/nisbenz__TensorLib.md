@@ -1,6 +1,6 @@
 # nisbenz/TensorLib
 
-⭐ 29 · C · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nisbenz/TensorLib) · 个人维护
+⭐ 30 · C · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nisbenz/TensorLib) · 个人维护
 
 **纯 C 从零实现的 CPU 深度学习张量库，支持训练 Transformer**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nisbenz/TensorLib 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "nisbenz/TensorLib 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

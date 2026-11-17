@@ -1,6 +1,6 @@
 # ValerianXXX/JobFlow
 
-⭐ 197 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ValerianXXX/JobFlow) · 个人维护
+⭐ 198 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ValerianXXX/JobFlow) · 个人维护
 
 **本地优先的 Windows 求职申请工作流：AI 生成有据材料，人工确认提交**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ValerianXXX/JobFlow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "ValerianXXX/JobFlow 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-17"]
     y-axis "stars" 195 --> 200
-    line [199, 197, 196, 197, 197]
+    line [199, 197, 196, 197, 198, 198]
 ```
 
-2026-10-18 199 → 2026-11-02 197（-2）
+2026-10-18 199 → 2026-11-17 198（-1）
 
 
 ---

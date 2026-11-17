@@ -1,6 +1,6 @@
 # endorhq/rover
 
-⭐ 273 · TypeScript · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/endorhq/rover) · [官网](https://endor.dev/rover) · 组织维护
+⭐ 274 · TypeScript · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/endorhq/rover) · [官网](https://endor.dev/rover) · 组织维护
 
 **AI 编码 agent 管理器：让多个 agent 并行隔离地处理编码任务**
 
@@ -45,13 +45,13 @@ Endor 团队开发的 AI 编码 agent 管理工具，支持 Claude Code、Codex�
 
 ```mermaid
 xychart-beta
-    title "endorhq/rover 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 270 --> 274
-    line [272, 271, 272, 273, 273]
+    title "endorhq/rover 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 270 --> 275
+    line [272, 271, 272, 273, 271, 273, 274, 274]
 ```
 
-2026-10-18 272 → 2026-11-02 273（+1）
+2026-10-18 272 → 2026-11-17 274（+2）
 
 
 ---

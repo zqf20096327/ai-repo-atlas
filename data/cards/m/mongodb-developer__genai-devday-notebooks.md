@@ -1,6 +1,6 @@
 # mongodb-developer/genai-devday-notebooks
 
-⭐ 118 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/mongodb-developer/genai-devday-notebooks) · 组织维护
+⭐ 122 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/mongodb-developer/genai-devday-notebooks) · 组织维护
 
 **MongoDB GenAI Developer Day 研讨会 Jupyter 实操笔记本合集**
 
@@ -43,13 +43,13 @@ MongoDB 官方维护的开发者日活动仓库，收录活动现场交付的全
 
 ```mermaid
 xychart-beta
-    title "mongodb-developer/genai-devday-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    title "mongodb-developer/genai-devday-notebooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 117 --> 123
+    line [118, 119, 122, 122]
 ```
 
-2026-10-18 118 → 2026-11-02 118（+0）
+2026-10-18 118 → 2026-11-17 122（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # inboxpraveen/Movie-Recommendation-System
 
-⭐ 246 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/Movie-Recommendation-System) · [官网](https://inboxpraveen.github.io/projects/project-3.html) · 个人维护
+⭐ 247 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/Movie-Recommendation-System) · [官网](https://inboxpraveen.github.io/projects/project-3.html) · 个人维护
 
 **给开发者的内容型电影推荐系统：训练管线加 Django 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inboxpraveen/Movie-Recommendation-System 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 245 --> 247
-    line [246, 246]
+    title "inboxpraveen/Movie-Recommendation-System 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 245 --> 248
+    line [246, 247, 247]
 ```
 
-2026-10-29 246 → 2026-11-02 246（+0）
+2026-10-29 246 → 2026-11-17 247（+1）
 
 
 ---

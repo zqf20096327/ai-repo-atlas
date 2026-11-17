@@ -1,6 +1,6 @@
 # yeyupiaoling/PPASR
 
-⭐ 869 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/yeyupiaoling/PPASR) · 个人维护 · 中文 README
+⭐ 868 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/yeyupiaoling/PPASR) · 个人维护 · 中文 README
 
 **基于 PaddlePaddle 的中文语音识别训练与部署框架**
 
@@ -44,13 +44,13 @@ PPASR 是基于 PaddlePaddle 实现的自动语音识别框架（V3 版本，与
 
 ```mermaid
 xychart-beta
-    title "yeyupiaoling/PPASR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 868 --> 870
-    line [869, 869]
+    title "yeyupiaoling/PPASR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 867 --> 870
+    line [869, 868, 868]
 ```
 
-2026-10-18 869 → 2026-11-02 869（+0）
+2026-10-18 869 → 2026-11-17 868（-1）
 
 
 ---

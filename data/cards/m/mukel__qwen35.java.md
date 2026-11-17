@@ -1,6 +1,6 @@
 # mukel/qwen35.java
 
-⭐ 15 · Java · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/mukel/qwen35.java) · 个人维护
+⭐ 17 · Java · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/mukel/qwen35.java) · 个人维护
 
 **纯 Java 的 Qwen 3.5 本地推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mukel/qwen35.java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "mukel/qwen35.java 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

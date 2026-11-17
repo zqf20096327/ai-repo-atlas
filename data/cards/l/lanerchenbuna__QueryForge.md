@@ -1,6 +1,6 @@
 # lanerchenbuna/QueryForge
 
-⭐ 13 · Python · 推送 2026-10-11 · [GitHub](https://github.com/lanerchenbuna/QueryForge) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-11-07 · [GitHub](https://github.com/lanerchenbuna/QueryForge) · 个人维护 · 中文 README
 
 **面向业务用户的受治理 NL2SQL 分析平台：自然语言生成可审计 SQL**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lanerchenbuna/QueryForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/ferminet
 
-⭐ 856 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/ferminet) · 组织维护
+⭐ 857 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/ferminet) · 组织维护
 
 **用神经网络计算原子分子基态波函数的从头算电子结构代码**
 
@@ -44,13 +44,13 @@ FermiNet 的 JAX 实现，通过变分蒙特卡洛方法学习原子与分子的
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/ferminet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 853 --> 857
-    line [854, 855, 856, 856]
+    title "google-deepmind/ferminet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 853 --> 858
+    line [854, 855, 856, 855, 856, 857, 857]
 ```
 
-2026-10-18 854 → 2026-11-02 856（+2）
+2026-10-18 854 → 2026-11-17 857（+3）
 
 
 ---

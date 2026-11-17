@@ -1,6 +1,6 @@
 # yepicaiaaron/awesome-realtime-video-generation
 
-⭐ 13 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/yepicaiaaron/awesome-realtime-video-generation) · 个人维护
+⭐ 15 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/yepicaiaaron/awesome-realtime-video-generation) · 个人维护
 
 **面向生产部署的实时视频生成模型策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yepicaiaaron/awesome-realtime-video-generation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "yepicaiaaron/awesome-realtime-video-generation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # fat-forensics/fat-forensics
 
-⭐ 79 · Python · BSD-3-Clause · 推送 2026-04-13 · [GitHub](https://github.com/fat-forensics/fat-forensics) · [官网](https://fat-forensics.org) · 组织维护
+⭐ 77 · Python · BSD-3-Clause · 推送 2026-04-13 · [GitHub](https://github.com/fat-forensics/fat-forensics) · [官网](https://fat-forensics.org) · 组织维护
 
 **评估预测系统公平性、问责性与透明度的 Python 工具箱**
 
@@ -45,13 +45,13 @@ FAT Forensics（fatf）是基于 SciPy/NumPy 的 Python 工具箱，针对数据
 
 ```mermaid
 xychart-beta
-    title "fat-forensics/fat-forensics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    title "fat-forensics/fat-forensics 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 76 --> 80
+    line [79, 78, 77, 77]
 ```
 
-2026-10-18 79 → 2026-11-02 79（+0）
+2026-10-18 79 → 2026-11-17 77（-2）
 
 
 ---

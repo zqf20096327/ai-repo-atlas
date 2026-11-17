@@ -1,6 +1,6 @@
 # ArtKeyAi/bhived-mcp
 
-⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/ArtKeyAi/bhived-mcp) · [官网](https://bhived.ai/) · 组织维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ArtKeyAi/bhived-mcp) · [官网](https://bhived.ai/) · 组织维护
 
 **给 AI agent 提供共享经验、技能与 MCP 工具发现的 MCP 服务器**
 
@@ -44,13 +44,13 @@ Bhived MCP 是连接 AI agent 与 Bhived.ai 网络的 MCP 服务器，由两个 
 
 ```mermaid
 xychart-beta
-    title "ArtKeyAi/bhived-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "ArtKeyAi/bhived-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 36（+1）
 
 
 ---

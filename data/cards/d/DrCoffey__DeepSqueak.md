@@ -1,6 +1,6 @@
 # DrCoffey/DeepSqueak
 
-⭐ 436 · MATLAB · BSD-3-Clause · 推送 2026-04-08 · [GitHub](https://github.com/DrCoffey/DeepSqueak) · 组织维护
+⭐ 437 · MATLAB · BSD-3-Clause · 推送 2026-04-08 · [GitHub](https://github.com/DrCoffey/DeepSqueak) · 组织维护
 
 **检测啮齿动物超声发声（USV）的 MATLAB 深度学习工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DrCoffey/DeepSqueak 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 433 --> 437
-    line [434, 435, 436, 436]
+    title "DrCoffey/DeepSqueak 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 433 --> 438
+    line [434, 435, 436, 437, 437]
 ```
 
-2026-10-18 434 → 2026-11-02 436（+2）
+2026-10-18 434 → 2026-11-17 437（+3）
 
 
 ---

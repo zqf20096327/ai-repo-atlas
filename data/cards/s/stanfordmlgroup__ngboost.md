@@ -1,6 +1,6 @@
 # stanfordmlgroup/ngboost
 
-⭐ 1,900 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/stanfordmlgroup/ngboost) · 组织维护
+⭐ 1,904 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/stanfordmlgroup/ngboost) · 组织维护
 
 **不确定性预测的梯度提升 Python 库：输出概率分布**
 
@@ -43,13 +43,13 @@ NGBoost 是实现自然梯度提升（Natural Gradient Boosting）的 Python 库
 
 ```mermaid
 xychart-beta
-    title "stanfordmlgroup/ngboost 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1892 --> 1901
-    line [1893, 1894, 1896, 1897, 1898, 1899, 1900]
+    title "stanfordmlgroup/ngboost 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 1892 --> 1905
+    line [1893, 1894, 1896, 1897, 1898, 1899, 1900, 1896, 1903, 1904, 1904]
 ```
 
-2026-10-18 1,893 → 2026-11-02 1,900（+7）
+2026-10-18 1,893 → 2026-11-17 1,904（+11）
 
 
 ---

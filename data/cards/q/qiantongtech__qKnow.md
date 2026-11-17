@@ -1,6 +1,6 @@
 # qiantongtech/qKnow
 
-⭐ 288 · Java · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/qiantongtech/qKnow) · [官网](https://community.qknow.ai/) · 组织维护 · 中文 README
+⭐ 299 · Java · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/qiantongtech/qKnow) · [官网](https://community.qknow.ai/) · 组织维护 · 中文 README
 
 **企业知识智能与行业 AI 应用构建平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "qiantongtech/qKnow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 284 --> 289
-    line [285, 286, 287, 288, 288]
+    title "qiantongtech/qKnow 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 284 --> 300
+    line [285, 286, 287, 288, 287, 292, 295, 296, 297, 298, 299, 299]
 ```
 
-2026-10-18 285 → 2026-11-02 288（+3）
+2026-10-18 285 → 2026-11-17 299（+14）
 
 
 ---

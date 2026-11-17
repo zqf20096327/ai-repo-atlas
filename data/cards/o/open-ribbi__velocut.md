@@ -1,6 +1,6 @@
 # open-ribbi/velocut
 
-⭐ 453 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/open-ribbi/velocut) · [官网](https://ribbi.ai) · 组织维护 · 中文 README
+⭐ 451 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/open-ribbi/velocut) · [官网](https://ribbi.ai) · 组织维护 · 中文 README
 
 **浏览器内本地优先的 AI 视频编辑与 3D 场景制作工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-ribbi/velocut 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 452 --> 456
-    line [455, 453, 453]
+    title "open-ribbi/velocut 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 449 --> 456
+    line [455, 453, 450, 451, 451]
 ```
 
-2026-10-18 455 → 2026-11-02 453（-2）
+2026-10-18 455 → 2026-11-17 451（-4）
 
 
 ---

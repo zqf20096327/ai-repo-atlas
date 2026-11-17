@@ -1,6 +1,6 @@
 # microsoft/azure-devops-skills
 
-⭐ 54 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/azure-devops-skills) · 组织维护
+⭐ 57 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/azure-devops-skills) · 组织维护
 
 **Azure DevOps 的 AI 编程助手技能示例集（7 个技能）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-devops-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 52 --> 56
-    line [53, 55, 54, 54]
+    title "microsoft/azure-devops-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 52 --> 58
+    line [53, 55, 54, 55, 54, 56, 57, 57]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 57（+4）
 
 
 ---

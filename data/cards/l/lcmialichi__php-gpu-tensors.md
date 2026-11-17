@@ -1,6 +1,6 @@
 # lcmialichi/php-gpu-tensors
 
-⭐ 19 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lcmialichi/php-gpu-tensors) · 个人维护
+⭐ 19 · C · MIT · 推送 2026-11-02 · [GitHub](https://github.com/lcmialichi/php-gpu-tensors) · 个人维护
 
 **PHP 原生张量与 CUDA 扩展：在 PHP 中做 CPU/GPU 数值计算**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lcmialichi/php-gpu-tensors 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

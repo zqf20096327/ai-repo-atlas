@@ -1,6 +1,6 @@
 # Arena-Rosnav/rosnav-rl
 
-⭐ 104 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Arena-Rosnav/rosnav-rl) · [官网](https://discord.gg/XDg24s5D) · 组织维护
+⭐ 108 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Arena-Rosnav/rosnav-rl) · [官网](https://docs.arena-rosnav.org/en/latest/arena_training/) · 组织维护
 
 **面向科研的 ROS2 机器人 DRL 导航模块化训练与部署框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arena-Rosnav/rosnav-rl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    title "Arena-Rosnav/rosnav-rl 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 102 --> 109
+    line [103, 104, 103, 104, 106, 108, 108]
 ```
 
-2026-10-18 103 → 2026-11-02 104（+1）
+2026-10-18 103 → 2026-11-17 108（+5）
 
 
 ---

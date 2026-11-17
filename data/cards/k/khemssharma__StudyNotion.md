@@ -1,6 +1,6 @@
 # khemssharma/StudyNotion
 
-⭐ 23 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/khemssharma/StudyNotion) · [官网](https://edtech.ayushweb.online) · 个人维护
+⭐ 23 · JavaScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/khemssharma/StudyNotion) · [官网](https://edtech.ayushweb.online) · 个人维护
 
 **面向学生与讲师的 MERN 在线教育平台，含课程/支付/认证**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "khemssharma/StudyNotion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # florentPoux/3D-Data-Science
 
-⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2025-12-17 · [GitHub](https://github.com/florentPoux/3D-Data-Science) · [官网](https://learngeodata.eu/3d-data-science-with-python/index.html) · 个人维护
+⭐ 17 · Jupyter Notebook · NOASSERTION · 推送 2025-12-17 · [GitHub](https://github.com/florentPoux/3D-Data-Science) · [官网](https://learngeodata.eu/3d-data-science-with-python/index.html) · 个人维护
 
 **《3D Data Science with Python》书籍官方代码配套仓库**
 
@@ -43,13 +43,13 @@ Florent Poux 著、O'Reilly 出版的 3D 数据科学书籍的官方配套仓库
 
 ```mermaid
 xychart-beta
-    title "florentPoux/3D-Data-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "florentPoux/3D-Data-Science 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

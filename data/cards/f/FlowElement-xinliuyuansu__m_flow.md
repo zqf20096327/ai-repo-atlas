@@ -1,6 +1,6 @@
 # FlowElement-xinliuyuansu/m_flow
 
-⭐ 4,510 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/FlowElement-xinliuyuansu/m_flow) · [官网](https://flowelement.ai) · 组织维护
+⭐ 4,515 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/FlowElement-xinliuyuansu/m_flow) · [官网](https://flowelement.ai) · 组织维护
 
 **给 LLM/Agent 的认知记忆引擎：以四层锥形图做路径成本检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlowElement-xinliuyuansu/m_flow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 4507 --> 4513
-    line [4511, 4512, 4508, 4510, 4510]
+    title "FlowElement-xinliuyuansu/m_flow 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 4507 --> 4516
+    line [4511, 4512, 4508, 4510, 4508, 4509, 4510, 4511, 4513, 4515, 4515]
 ```
 
-2026-10-18 4,511 → 2026-11-02 4,510（-1）
+2026-10-18 4,511 → 2026-11-17 4,515（+4）
 
 
 ---

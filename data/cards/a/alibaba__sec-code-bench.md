@@ -1,6 +1,6 @@
 # alibaba/sec-code-bench
 
-⭐ 135 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/alibaba/sec-code-bench) · [官网](https://alibaba.github.io/sec-code-bench/) · 组织维护 · 中文 README
+⭐ 137 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/alibaba/sec-code-bench) · [官网](https://alibaba.github.io/sec-code-bench/) · 组织维护 · 中文 README
 
 **面向 Agentic Coding Tool 的代码安全评测基准套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/sec-code-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 134 --> 136
-    line [135, 135]
+    title "alibaba/sec-code-bench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 134 --> 139
+    line [135, 138, 137, 137]
 ```
 
-2026-10-18 135 → 2026-11-02 135（+0）
+2026-10-18 135 → 2026-11-17 137（+2）
 
 
 ---

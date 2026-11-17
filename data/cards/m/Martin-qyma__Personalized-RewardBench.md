@@ -1,6 +1,6 @@
 # Martin-qyma/Personalized-RewardBench
 
-⭐ 14 · Python · 推送 2026-04-09 · [GitHub](https://github.com/Martin-qyma/Personalized-RewardBench) · [官网](https://arxiv.org/abs/2604.07343) · 个人维护
+⭐ 13 · Python · 推送 2026-04-09 · [GitHub](https://github.com/Martin-qyma/Personalized-RewardBench) · [官网](https://arxiv.org/abs/2604.07343) · 个人维护
 
 **评测奖励模型个性化偏好能力的基准（COLM 2026 论文）**
 
@@ -44,13 +44,13 @@ COLM 2026 论文配套的基准代码库：基于用户专属评分准则构建 
 
 ```mermaid
 xychart-beta
-    title "Martin-qyma/Personalized-RewardBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "Martin-qyma/Personalized-RewardBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [14, 13, 13]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 13（-1）
 
 
 ---

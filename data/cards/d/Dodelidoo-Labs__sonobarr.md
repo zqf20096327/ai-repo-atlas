@@ -1,6 +1,6 @@
 # Dodelidoo-Labs/sonobarr
 
-⭐ 383 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dodelidoo-Labs/sonobarr) · 组织维护
+⭐ 381 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dodelidoo-Labs/sonobarr) · 组织维护
 
 **面向 Lidarr 用户的音乐发现自托管 Web 应用**
 
@@ -44,13 +44,13 @@ Flask + Socket.IO 自托管应用：读取 Lidarr 曲库中的艺人，调用 La
 
 ```mermaid
 xychart-beta
-    title "Dodelidoo-Labs/sonobarr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 382 --> 385
-    line [383, 384, 383, 384, 383, 383]
+    title "Dodelidoo-Labs/sonobarr 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 380 --> 385
+    line [383, 384, 383, 384, 383, 384, 382, 381, 381]
 ```
 
-2026-10-18 383 → 2026-11-02 383（+0）
+2026-10-18 383 → 2026-11-17 381（-2）
 
 
 ---

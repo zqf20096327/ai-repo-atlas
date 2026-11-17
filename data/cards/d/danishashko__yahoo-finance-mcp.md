@@ -1,6 +1,6 @@
 # danishashko/yahoo-finance-mcp
 
-⭐ 23 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danishashko/yahoo-finance-mcp) · [官网](https://www.linkedin.com/in/daniel-shashko/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/danishashko/yahoo-finance-mcp) · [官网](https://www.npmjs.com/package/yahoo-finance-mcp-server) · 个人维护
 
 **给 Claude 等 MCP 客户端提供 Yahoo Finance 股票数据的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "danishashko/yahoo-finance-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "danishashko/yahoo-finance-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

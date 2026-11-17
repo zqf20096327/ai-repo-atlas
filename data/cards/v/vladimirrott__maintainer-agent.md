@@ -1,6 +1,6 @@
 # vladimirrott/maintainer-agent
 
-⭐ 44 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vladimirrott/maintainer-agent) · [官网](https://vladimirrott.github.io/maintainer-agent/) · 个人维护
+⭐ 13 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vladimirrott/maintainer-agent) · [官网](https://vladimirrott.github.io/maintainer-agent/) · 个人维护
 
 **无人值守的开源仓库维护 agent：审 PR、发 issue、修剪分支**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vladimirrott/maintainer-agent 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "vladimirrott/maintainer-agent 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 47
+    line [44, 13, 13]
 ```
 
-2026-10-30 44 → 2026-11-02 44（+0）
+2026-10-30 44 → 2026-11-17 13（-31）
 
 
 ---

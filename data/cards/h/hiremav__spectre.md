@@ -1,6 +1,6 @@
 # hiremav/spectre
 
-⭐ 28 · Ruby · 推送 2025-12-15 · [GitHub](https://github.com/hiremav/spectre) · 组织维护
+⭐ 28 · Ruby · 推送 2026-11-05 · [GitHub](https://github.com/hiremav/spectre) · 组织维护
 
 **Rails 应用的 AI 集成 gem：嵌入、向量搜索与对话补全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hiremav/spectre 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

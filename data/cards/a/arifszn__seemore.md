@@ -1,6 +1,6 @@
 # arifszn/seemore
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/arifszn/seemore) · [官网](https://arifszn.github.io/seemore) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/arifszn/seemore) · [官网](https://arifszn.github.io/seemore) · 个人维护
 
 **零配置 Markdown 文档渲染工具：把现有文件夹变文档站点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arifszn/seemore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "arifszn/seemore 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

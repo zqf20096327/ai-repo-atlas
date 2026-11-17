@@ -1,6 +1,6 @@
 # alexshtf/torchcurves
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/alexshtf/torchcurves) · [官网](https://torchcurves.readthedocs.io/en/stable/) · 个人维护
+⭐ 76 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/alexshtf/torchcurves) · [官网](https://torchcurves.readthedocs.io/en/stable/) · 个人维护
 
 **PyTorch 可微分参数曲线库：用于 KAN、连续嵌入与形状约束建模**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexshtf/torchcurves 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 67 --> 70
-    line [68, 69, 69]
+    title "alexshtf/torchcurves 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 67 --> 77
+    line [68, 69, 71, 72, 74, 76, 76]
 ```
 
-2026-10-18 68 → 2026-11-02 69（+1）
+2026-10-18 68 → 2026-11-17 76（+8）
 
 
 ---

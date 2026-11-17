@@ -1,6 +1,6 @@
 # t8y2/PolarisDesk
 
-⭐ 64 · TypeScript · MIT · 推送 2026-01-02 · [GitHub](https://github.com/t8y2/PolarisDesk) · [官网](https://t8y2.github.io/PolarisDesk/) · 个人维护 · 中文 README
+⭐ 67 · TypeScript · MIT · 推送 2026-01-02 · [GitHub](https://github.com/t8y2/PolarisDesk) · [官网](https://t8y2.github.io/PolarisDesk/) · 个人维护 · 中文 README
 
 **AI 桌面助手：多模型对话、文档处理与 AI 命令行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "t8y2/PolarisDesk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "t8y2/PolarisDesk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 63 --> 68
+    line [64, 66, 67, 67]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 67（+3）
 
 
 ---

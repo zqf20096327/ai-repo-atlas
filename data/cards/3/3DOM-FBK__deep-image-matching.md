@@ -1,6 +1,6 @@
 # 3DOM-FBK/deep-image-matching
 
-⭐ 554 · Python · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/3DOM-FBK/deep-image-matching) · [官网](https://3dom-fbk.github.io/deep-image-matching/) · 组织维护
+⭐ 558 · Python · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/3DOM-FBK/deep-image-matching) · [官网](https://3dom-fbk.github.io/deep-image-matching/) · 组织维护
 
 **面向 SfM 软件的多视图图像匹配工具箱（深度学习+手工特征）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "3DOM-FBK/deep-image-matching 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 550 --> 555
-    line [551, 552, 553, 554, 554]
+    title "3DOM-FBK/deep-image-matching 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 550 --> 559
+    line [551, 552, 553, 554, 552, 555, 556, 557, 558, 558]
 ```
 
-2026-10-18 551 → 2026-11-02 554（+3）
+2026-10-18 551 → 2026-11-17 558（+7）
 
 
 ---

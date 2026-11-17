@@ -1,6 +1,6 @@
 # sysdiglabs/sysdig-mcp-server
 
-⭐ 14 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/sysdiglabs/sysdig-mcp-server) · 组织维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/sysdiglabs/sysdig-mcp-server) · 组织维护
 
 **将 Sysdig 监控数据通过 MCP 暴露给 LLM 的服务器**
 
@@ -45,12 +45,12 @@ Sysdig 官方维护的 MCP Server 实现，将 Sysdig Monitor 的 Kubernetes 与
 ```mermaid
 xychart-beta
     title "sysdiglabs/sysdig-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

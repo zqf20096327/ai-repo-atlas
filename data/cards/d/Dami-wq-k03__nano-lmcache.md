@@ -1,6 +1,6 @@
 # Dami-wq-k03/nano-lmcache
 
-⭐ 25 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Dami-wq-k03/nano-lmcache) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Dami-wq-k03/nano-lmcache) · 个人维护 · 中文 README
 
 **教学项目：逐步实现 LLM KV cache 复用并接入 nano-vLLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dami-wq-k03/nano-lmcache 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 10 --> 26
-    line [11, 22, 23, 25, 25]
+    title "Dami-wq-k03/nano-lmcache 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 8 --> 45
+    line [11, 22, 23, 25, 23, 26, 28, 30, 42, 42]
 ```
 
-2026-10-22 11 → 2026-11-02 25（+14）
+2026-10-22 11 → 2026-11-17 42（+31）
 
 
 ---

@@ -1,6 +1,6 @@
 # max9159/system-design
 
-⭐ 31 · HTML · MIT · 推送 2026-06-24 · [GitHub](https://github.com/max9159/system-design) · 个人维护 · 中文 README
+⭐ 32 · HTML · MIT · 推送 2026-06-24 · [GitHub](https://github.com/max9159/system-design) · 个人维护 · 中文 README
 
 **系统设计图表与 AI agent 工作流教程集合（Mermaid/draw.io）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "max9159/system-design 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "max9159/system-design 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

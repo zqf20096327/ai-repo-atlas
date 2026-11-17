@@ -1,6 +1,6 @@
 # ribesstefano/PROTAC-Splitter
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ribesstefano/PROTAC-Splitter) · [官网](https://huggingface.co/spaces/ailab-bio/PROTAC-Splitter-App) · 组织维护
+⭐ 31 · Jupyter Notebook · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ribesstefano/PROTAC-Splitter) · [官网](https://huggingface.co/spaces/ailab-bio/PROTAC-Splitter-App) · 组织维护
 
 **将 PROTAC 分子自动拆分为 E3 配体/连接子/POI 弹头的 ML 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ribesstefano/PROTAC-Splitter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 31（+0）
 
 
 ---

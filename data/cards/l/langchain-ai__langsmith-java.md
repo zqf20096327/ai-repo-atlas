@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-java
 
-⭐ 34 · Kotlin · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/langsmith-java) · 组织维护
+⭐ 34 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/langsmith-java) · 组织维护
 
 **LangSmith 平台的 Java SDK：供 Java 应用访问其 REST API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "langchain-ai/langsmith-java 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    line [33, 34, 33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

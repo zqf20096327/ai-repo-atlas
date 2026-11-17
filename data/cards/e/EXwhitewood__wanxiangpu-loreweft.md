@@ -1,6 +1,6 @@
 # EXwhitewood/wanxiangpu-loreweft
 
-⭐ 41 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/EXwhitewood/wanxiangpu-loreweft) · 个人维护 · 中文 README
+⭐ 42 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/EXwhitewood/wanxiangpu-loreweft) · 个人维护 · 中文 README
 
 **面向长篇小说的本地优先 AI 原生创作工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EXwhitewood/wanxiangpu-loreweft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "EXwhitewood/wanxiangpu-loreweft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

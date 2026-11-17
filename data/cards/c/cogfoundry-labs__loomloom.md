@@ -1,6 +1,6 @@
 # cogfoundry-labs/loomloom
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cogfoundry-labs/loomloom) · 组织维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/cogfoundry-labs/loomloom) · 组织维护
 
 **将 AI 工作流编译打包为可复用软件的编译器与运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cogfoundry-labs/loomloom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

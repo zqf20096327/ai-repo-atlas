@@ -1,6 +1,6 @@
 # StartLuxLabs/DecisionPivot
 
-⭐ 152 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/StartLuxLabs/DecisionPivot) · [官网](https://huggingface.co/datasets/startlux-models/DecisionPivot) · 组织维护
+⭐ 154 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/StartLuxLabs/DecisionPivot) · [官网](https://huggingface.co/datasets/startlux-models/DecisionPivot) · 组织维护
 
 **评测 LLM 系统中决策模型的诊断基准（对比组+独立求解器）**
 
@@ -45,13 +45,13 @@ DecisionPivot（原名 DecideBench）是评测 LLM 系统控制点上决策模�
 
 ```mermaid
 xychart-beta
-    title "StartLuxLabs/DecisionPivot 星数(近 11 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 0 --> 166
-    line [4, 21, 26, 144, 145, 146, 148, 150, 151, 152, 152]
+    title "StartLuxLabs/DecisionPivot 星数(近 13 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 0 --> 169
+    line [4, 21, 26, 144, 145, 146, 148, 150, 151, 152, 145, 154, 154]
 ```
 
-2026-10-19 4 → 2026-11-02 152（+148）
+2026-10-19 4 → 2026-11-17 154（+150）
 
 
 ---

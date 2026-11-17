@@ -1,6 +1,6 @@
 # dg/ai-access
 
-⭐ 66 · PHP · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/dg/ai-access) · [官网](https://ai-access.deegee.dev) · 个人维护
+⭐ 68 · PHP · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/dg/ai-access) · [官网](https://ai-access.deegee.dev) · 个人维护
 
 **PHP 统一 AI 接口库：一套代码接入 OpenAI/Claude/Gemini/DeepSeek/Grok**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dg/ai-access 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "dg/ai-access 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 69
+    line [66, 68, 68]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 68（+2）
 
 
 ---

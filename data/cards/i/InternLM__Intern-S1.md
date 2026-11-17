@@ -1,6 +1,6 @@
 # InternLM/Intern-S1
 
-⭐ 871 · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/InternLM/Intern-S1) · 组织维护 · 中文 README
+⭐ 874 · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/InternLM/Intern-S1) · 组织维护 · 中文 README
 
 **面向科学智能的多模态基础模型系列（Intern-S 系列）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/Intern-S1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 868 --> 872
-    line [869, 870, 871, 871]
+    title "InternLM/Intern-S1 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 868 --> 875
+    line [869, 870, 871, 870, 874, 873, 874, 874]
 ```
 
-2026-10-18 869 → 2026-11-02 871（+2）
+2026-10-18 869 → 2026-11-17 874（+5）
 
 
 ---

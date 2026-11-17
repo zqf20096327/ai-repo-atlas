@@ -1,6 +1,6 @@
 # Prismer-AI/signet
 
-⭐ 40 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Prismer-AI/signet) · [官网](https://signet-auth.vercel.app/) · 组织维护 · 中文 README
+⭐ 40 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Prismer-AI/signet) · [官网](https://signet-auth.vercel.app/) · 组织维护 · 中文 README
 
 **为 AI agent 工具调用提供密码学签名与授权凭证的信任层**
 
@@ -47,12 +47,12 @@ Signet 为 AI agent 的每次工具调用生成 Ed25519 签名凭证，写入 SH
 ```mermaid
 xychart-beta
     title "Prismer-AI/signet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

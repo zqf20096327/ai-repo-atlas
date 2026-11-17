@@ -1,6 +1,6 @@
 # ineedbots/iw5_bot_warfare
 
-⭐ 156 · GSC · 推送 2026-03-12 · [GitHub](https://github.com/ineedbots/iw5_bot_warfare) · [官网](https://www.moddb.com/mods/bot-warfare) · 个人维护
+⭐ 157 · GSC · 推送 2026-03-12 · [GitHub](https://github.com/ineedbots/iw5_bot_warfare) · [官网](https://www.moddb.com/mods/bot-warfare) · 个人维护
 
 **给 MW3 多人游戏添加可玩 AI 机器人的 GSC 模组**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ineedbots/iw5_bot_warfare 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    title "ineedbots/iw5_bot_warfare 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 154 --> 158
+    line [155, 156, 155, 156, 157, 157]
 ```
 
-2026-10-18 155 → 2026-11-02 156（+1）
+2026-10-18 155 → 2026-11-17 157（+2）
 
 
 ---

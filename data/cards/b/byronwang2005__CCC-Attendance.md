@@ -1,6 +1,6 @@
 # byronwang2005/CCC-Attendance
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/byronwang2005/CCC-Attendance) · [官网](https://ccc.byron.wang) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **UNNC 课程签到码生成工具，项目已失效停用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "byronwang2005/CCC-Attendance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-08 27（+1）
 
 
 ---

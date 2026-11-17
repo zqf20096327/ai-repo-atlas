@@ -1,6 +1,6 @@
 # GoSlowPoke168/obsidian-clean-ai-paste
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/GoSlowPoke168/obsidian-clean-ai-paste) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/GoSlowPoke168/obsidian-clean-ai-paste) · 个人维护
 
 **Obsidian 插件：自动清理粘贴自 AI 聊天界面的杂乱文本**
 
@@ -45,13 +45,13 @@ Obsidian 社区插件，拦截外部粘贴事件，将剪贴板 HTML 转换为�
 
 ```mermaid
 xychart-beta
-    title "GoSlowPoke168/obsidian-clean-ai-paste 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "GoSlowPoke168/obsidian-clean-ai-paste 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

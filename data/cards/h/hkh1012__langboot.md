@@ -1,6 +1,6 @@
 # hkh1012/langboot
 
-⭐ 186 · Java · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/hkh1012/langboot) · 个人维护 · 中文 README
+⭐ 188 · Java · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/hkh1012/langboot) · 个人维护 · 中文 README
 
 **基于 SpringBoot 的 LangChain 式 AI 应用框架与知识库系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hkh1012/langboot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 185 --> 188
-    line [187, 186, 186]
+    title "hkh1012/langboot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 185 --> 189
+    line [187, 186, 187, 188, 188]
 ```
 
-2026-10-18 187 → 2026-11-02 186（-1）
+2026-10-18 187 → 2026-11-17 188（+1）
 
 
 ---

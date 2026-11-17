@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/genai-factory
 
-⭐ 178 · HCL · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/GoogleCloudPlatform/genai-factory) · 组织维护
+⭐ 184 · HCL · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/GoogleCloudPlatform/genai-factory) · 组织维护
 
 **面向 GCP 的生成式 AI 基础设施端到端 Terraform 蓝图集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/genai-factory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 174 --> 179
-    line [175, 176, 175, 176, 178, 178]
+    title "GoogleCloudPlatform/genai-factory 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 174 --> 185
+    line [175, 176, 175, 176, 178, 175, 183, 184, 184]
 ```
 
-2026-10-18 175 → 2026-11-02 178（+3）
+2026-10-18 175 → 2026-11-17 184（+9）
 
 
 ---

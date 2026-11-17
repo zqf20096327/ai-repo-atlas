@@ -1,6 +1,6 @@
 # 0xzerolight/topic_watch
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/0xzerolight/topic_watch) · 个人维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/0xzerolight/topic_watch) · 个人维护
 
 **自托管新闻监控：仅在有真正新信息时通知用户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xzerolight/topic_watch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "0xzerolight/topic_watch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

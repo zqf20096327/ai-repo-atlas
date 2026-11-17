@@ -1,6 +1,6 @@
 # mrwogu/factory-droid-openai
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mrwogu/factory-droid-openai) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/mrwogu/factory-droid-openai) · 个人维护
 
 **非官方 OpenAI 兼容桥：让任意 OpenAI 客户端调用 Factory Droid**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrwogu/factory-droid-openai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [16, 15, 16, 16]
+    title "mrwogu/factory-droid-openai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [16, 15, 16, 15, 12, 12]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 12（-4）
 
 
 ---

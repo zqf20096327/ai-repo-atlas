@@ -1,6 +1,6 @@
 # wikimedia/wikilabels
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wikimedia/wikilabels) · [官网](https://meta.wikimedia.org/wiki/Wiki_labels) · 组织维护
+⭐ 30 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/wikimedia/wikilabels) · [官网](https://meta.wikimedia.org/wiki/Wiki_labels) · 组织维护
 
 **MediaWiki 通用标注服务：为众包标注任务提供前端脚本与 Flask 服务器**
 
@@ -45,12 +45,12 @@ Wikimedia 维护的通用标注服务，包含两个组件：部署在 MediaWiki
 ```mermaid
 xychart-beta
     title "wikimedia/wikilabels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

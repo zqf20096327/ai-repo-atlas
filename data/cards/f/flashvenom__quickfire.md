@@ -1,6 +1,6 @@
 # flashvenom/quickfire
 
-⭐ 46 · HTML · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/flashvenom/quickfire) · [官网](https://quickfireams.com) · 组织维护
+⭐ 47 · HTML · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/flashvenom/quickfire) · [官网](https://quickfireams.com) · 组织维护
 
 **面向独立财产险经纪团队的保险代理管理系统（含 AI 功能）**
 
@@ -45,13 +45,13 @@ Quickfire 是面向独立 P&C 经纪人、批发商与代理团队的保险代�
 
 ```mermaid
 xychart-beta
-    title "flashvenom/quickfire 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "flashvenom/quickfire 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

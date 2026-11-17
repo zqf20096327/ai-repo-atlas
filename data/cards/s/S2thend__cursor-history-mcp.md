@@ -1,6 +1,6 @@
 # S2thend/cursor-history-mcp
 
-⭐ 33 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/S2thend/cursor-history-mcp) · [官网](https://www.npmjs.com/package/cursor-history-mcp) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/S2thend/cursor-history-mcp) · [官网](https://www.npmjs.com/package/cursor-history-mcp) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 搜索、浏览和导出 Cursor 聊天历史**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "S2thend/cursor-history-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "S2thend/cursor-history-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

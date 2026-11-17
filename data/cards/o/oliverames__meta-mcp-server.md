@@ -1,6 +1,6 @@
 # oliverames/meta-mcp-server
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/oliverames/meta-mcp-server) · [官网](https://www.npmjs.com/package/meta-mcp-server) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **连接 AI 助手与 Meta 商业平台的 MCP 服务器（199 工具）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oliverames/meta-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "oliverames/meta-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-07"]
     y-axis "stars" 56 --> 67
-    line [57, 59, 60, 61, 63, 64, 66, 66]
+    line [57, 59, 60, 61, 63, 64, 66, 60, 60]
 ```
 
-2026-10-18 57 → 2026-11-02 66（+9）
+2026-10-18 57 → 2026-11-07 60（+3）
 
 
 ---

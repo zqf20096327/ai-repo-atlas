@@ -1,6 +1,6 @@
 # microsoft/medusa
 
-⭐ 11 · HTML · MIT · 推送 2026-08-04 · [GitHub](https://github.com/microsoft/medusa) · 组织维护
+⭐ 12 · HTML · MIT · 推送 2026-08-04 · [GitHub](https://github.com/microsoft/medusa) · 组织维护
 
 **微软开源的 agentic AI 安全教育小游戏，含 5 个安全主题关卡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/medusa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "microsoft/medusa 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

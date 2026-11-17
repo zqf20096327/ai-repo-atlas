@@ -1,6 +1,6 @@
 # maeddesg/vulkanforge
 
-⭐ 23 · Rust · GPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/maeddesg/vulkanforge) · 个人维护
+⭐ 24 · Rust · GPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/maeddesg/vulkanforge) · 个人维护
 
 **面向 AMD RDNA4 GPU 的 Rust+Vulkan LLM 推理引擎，支持 GGUF 与原生 FP8**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maeddesg/vulkanforge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "maeddesg/vulkanforge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

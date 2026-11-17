@@ -1,6 +1,6 @@
 # ignfab/geocontext
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ignfab/geocontext) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ignfab/geocontext) · 组织维护
 
 **面向 AI 助手的法国 Géoplateforme 地理数据 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ignfab/geocontext 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "ignfab/geocontext 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

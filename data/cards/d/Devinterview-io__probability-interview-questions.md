@@ -1,6 +1,6 @@
 # Devinterview-io/probability-interview-questions
 
-⭐ 32 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/probability-interview-questions) · 组织维护
+⭐ 33 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/probability-interview-questions) · 组织维护
 
 **概率面试题解集：45 道题与答案助力 ML/数据科学面试准备**
 
@@ -44,13 +44,13 @@ Devinterview.io 维护的概率面试问答集合，收录 45 道概率常见面
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/probability-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "Devinterview-io/probability-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

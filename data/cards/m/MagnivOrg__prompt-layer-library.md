@@ -1,6 +1,6 @@
 # MagnivOrg/prompt-layer-library
 
-⭐ 785 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MagnivOrg/prompt-layer-library) · [官网](https://www.promptlayer.com) · 组织维护
+⭐ 789 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MagnivOrg/prompt-layer-library) · [官网](https://www.promptlayer.com) · 组织维护
 
 **面向开发者的提示词版本管理与 LLM 请求追踪 SDK（Python）**
 
@@ -44,13 +44,13 @@ PromptLayer 的官方 Python SDK：提供对 PromptLayer API 的访问，功能�
 
 ```mermaid
 xychart-beta
-    title "MagnivOrg/prompt-layer-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 783 --> 786
-    line [784, 785, 785]
+    title "MagnivOrg/prompt-layer-library 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 783 --> 790
+    line [784, 785, 784, 786, 788, 789, 789]
 ```
 
-2026-10-18 784 → 2026-11-02 785（+1）
+2026-10-18 784 → 2026-11-17 789（+5）
 
 
 ---

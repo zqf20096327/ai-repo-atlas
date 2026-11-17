@@ -1,6 +1,6 @@
 # fawdyinc/shellguard
 
-⭐ 26 · Go · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/fawdyinc/shellguard) · 组织维护
+⭐ 29 · Go · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/fawdyinc/shellguard) · 组织维护
 
 **给 LLM agent 提供 SSH 只读 shell 访问的 MCP server**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fawdyinc/shellguard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "fawdyinc/shellguard 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 23 --> 30
+    line [24, 25, 26, 24, 27, 28, 29, 29]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 29（+5）
 
 
 ---

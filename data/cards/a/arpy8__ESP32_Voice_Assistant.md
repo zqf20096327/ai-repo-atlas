@@ -1,6 +1,6 @@
 # arpy8/ESP32_Voice_Assistant
 
-⭐ 49 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/arpy8/ESP32_Voice_Assistant) · [官网](https://youtu.be/_BZOLwxb_aU) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ESP32 硬件 + Python 后端的端到端语音助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "arpy8/ESP32_Voice_Assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12"]
     y-axis "stars" 48 --> 51
     line [50, 49, 49]
 ```
 
-2026-10-18 50 → 2026-11-02 49（-1）
+2026-10-18 50 → 2026-11-12 49（-1）
 
 
 ---

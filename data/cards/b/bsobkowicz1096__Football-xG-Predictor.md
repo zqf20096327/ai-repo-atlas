@@ -1,6 +1,6 @@
 # bsobkowicz1096/Football-xG-Predictor
 
-⭐ 20 · Jupyter Notebook · 推送 2026-07-19 · [GitHub](https://github.com/bsobkowicz1096/Football-xG-Predictor) · 个人维护
+⭐ 21 · Jupyter Notebook · 推送 2026-07-19 · [GitHub](https://github.com/bsobkowicz1096/Football-xG-Predictor) · 个人维护
 
 **基于 StatsBomb 数据的足球 xG 概率预测模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bsobkowicz1096/Football-xG-Predictor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "bsobkowicz1096/Football-xG-Predictor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

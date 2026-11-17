@@ -1,6 +1,6 @@
 # CameronScarpati/lob-regime-scanner
 
-⭐ 19 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/CameronScarpati/lob-regime-scanner) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/CameronScarpati/lob-regime-scanner) · 个人维护
 
 **加密货币订单簿 HMM 状态识别管线与可视化仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CameronScarpati/lob-regime-scanner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

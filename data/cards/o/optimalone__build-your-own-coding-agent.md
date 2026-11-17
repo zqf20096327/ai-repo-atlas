@@ -1,6 +1,6 @@
 # optimalone/build-your-own-coding-agent
 
-⭐ 105 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/optimalone/build-your-own-coding-agent) · [官网](https://buildyourowncodingagent.com) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/optimalone/build-your-own-coding-agent) · [官网](https://buildyourowncodingagent.com) · 个人维护
 
 **《Build Your Own Coding Agent》一书配套源码：用纯 Python 从零构建编码 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "optimalone/build-your-own-coding-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-17 105（+0）
 
 
 ---

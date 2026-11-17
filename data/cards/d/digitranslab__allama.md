@@ -1,6 +1,6 @@
 # digitranslab/allama
 
-⭐ 201 · Python · AGPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/digitranslab/allama) · 组织维护
+⭐ 205 · Python · AGPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/digitranslab/allama) · 组织维护
 
 **面向 SOC 团队的开源自托管 AI 安全自动化（SOAR）平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "digitranslab/allama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 199 --> 202
-    line [201, 200, 201, 201]
+    title "digitranslab/allama 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 199 --> 206
+    line [201, 200, 201, 200, 204, 205, 205]
 ```
 
-2026-10-18 201 → 2026-11-02 201（+0）
+2026-10-18 201 → 2026-11-17 205（+4）
 
 
 ---

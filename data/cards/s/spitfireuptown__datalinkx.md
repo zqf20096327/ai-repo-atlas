@@ -1,6 +1,6 @@
 # spitfireuptown/datalinkx
 
-⭐ 381 · Java · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/spitfireuptown/datalinkx) · 个人维护 · 中文 README
+⭐ 379 · Java · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/spitfireuptown/datalinkx) · 个人维护 · 中文 README
 
 **异构数据源同步系统：MySQL/ES/HTTP/Oracle 间全量与增量流转**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spitfireuptown/datalinkx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 379 --> 382
-    line [380, 381, 381]
+    title "spitfireuptown/datalinkx 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 378 --> 382
+    line [380, 381, 379, 379]
 ```
 
-2026-10-18 380 → 2026-11-02 381（+1）
+2026-10-18 380 → 2026-11-17 379（-1）
 
 
 ---

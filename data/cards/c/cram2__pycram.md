@@ -1,6 +1,6 @@
 # cram2/pycram
 
-⭐ 50 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/cram2/pycram) · [官网](https://pycram.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 51 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/cram2/pycram) · [官网](https://pycram.readthedocs.io/en/latest/index.html) · 组织维护
 
 **Python 认知机器人任务规划框架：以意图描述生成可执行机器人计划**
 
@@ -44,13 +44,13 @@ PyCRAM（Cognitive Robot Abstract Machine）是面向机器人的高层任务规
 
 ```mermaid
 xychart-beta
-    title "cram2/pycram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "cram2/pycram 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

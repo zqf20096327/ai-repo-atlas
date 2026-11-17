@@ -1,6 +1,6 @@
 # mylxsw/aidea-server
 
-⭐ 1,766 · Go · 推送 2026-10-22 · [GitHub](https://github.com/mylxsw/aidea-server) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
+⭐ 1,770 · Go · 推送 2026-10-22 · [GitHub](https://github.com/mylxsw/aidea-server) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
 
 **AIdea 全栈 AI 应用的服务端：集成多家 LLM 与图像生成模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mylxsw/aidea-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1763 --> 1767
-    line [1765, 1764, 1766]
+    title "mylxsw/aidea-server 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1763 --> 1772
+    line [1765, 1764, 1766, 1765, 1770, 1771, 1770, 1770]
 ```
 
-2026-10-18 1,765 → 2026-11-02 1,766（+1）
+2026-10-18 1,765 → 2026-11-17 1,770（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Aspectbramove/Fuck-Adobbe
 
-⭐ 156 · 推送 2026-10-25 · [GitHub](https://github.com/Aspectbramove/Fuck-Adobbe) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **宣称提供 Acrobat Reader 预激活安装脚本的仓库**
 

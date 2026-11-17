@@ -1,6 +1,6 @@
 # dezoito/markitdown-api
 
-⭐ 89 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/dezoito/markitdown-api) · 个人维护
+⭐ 90 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/dezoito/markitdown-api) · 个人维护
 
 **将 Office/PDF 等文件转为 Markdown 的轻量 REST API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dezoito/markitdown-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "dezoito/markitdown-api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [89, 90, 90]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 90（+1）
 
 
 ---

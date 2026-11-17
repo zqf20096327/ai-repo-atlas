@@ -1,6 +1,6 @@
 # hannesrudolph/imessage-query-fastmcp-mcp-server
 
-⭐ 81 · Python · 推送 2026-02-03 · [GitHub](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) · 个人维护
+⭐ 82 · Python · 推送 2026-02-03 · [GitHub](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) · 个人维护
 
 **让 LLM 安全查询 macOS iMessage 数据库的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hannesrudolph/imessage-query-fastmcp-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    title "hannesrudolph/imessage-query-fastmcp-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 80 --> 83
+    line [81, 82, 82]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 82（+1）
 
 
 ---

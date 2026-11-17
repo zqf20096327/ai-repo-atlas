@@ -1,6 +1,6 @@
 # issol14/paper2code-skill
 
-⭐ 43 · MIT · 推送 2026-01-08 · [GitHub](https://github.com/issol14/paper2code-skill) · 个人维护 · 中文 README
+⭐ 47 · MIT · 推送 2026-01-08 · [GitHub](https://github.com/issol14/paper2code-skill) · 个人维护 · 中文 README
 
 **把研究论文转为可执行代码的 Claude Code 技能（免额外 API 费用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "issol14/paper2code-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    title "issol14/paper2code-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 48
+    line [41, 42, 43, 45, 46, 47, 47]
 ```
 
-2026-10-18 41 → 2026-11-02 43（+2）
+2026-10-18 41 → 2026-11-17 47（+6）
 
 
 ---

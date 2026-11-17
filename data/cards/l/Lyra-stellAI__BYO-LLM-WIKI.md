@@ -1,6 +1,6 @@
 # Lyra-stellAI/BYO-LLM-WIKI
 
-⭐ 280 · Python · 推送 2026-07-29 · [GitHub](https://github.com/Lyra-stellAI/BYO-LLM-WIKI) · 个人维护
+⭐ 276 · Python · 推送 2026-07-29 · [GitHub](https://github.com/Lyra-stellAI/BYO-LLM-WIKI) · 个人维护
 
 **自建个人知识库应用：网页/文件转为带引用问答的本地 wiki**
 
@@ -45,13 +45,13 @@ Flask 应用，把网页、文件与笔记整理为本地个人 wiki：deepagent
 
 ```mermaid
 xychart-beta
-    title "Lyra-stellAI/BYO-LLM-WIKI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 278 --> 283
-    line [280, 282, 279, 280, 280]
+    title "Lyra-stellAI/BYO-LLM-WIKI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 275 --> 283
+    line [280, 282, 279, 280, 279, 276, 276]
 ```
 
-2026-10-18 280 → 2026-11-02 280（+0）
+2026-10-18 280 → 2026-11-17 276（-4）
 
 
 ---

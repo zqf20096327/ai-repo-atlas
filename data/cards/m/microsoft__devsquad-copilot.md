@@ -1,6 +1,6 @@
 # microsoft/devsquad-copilot
 
-⭐ 50 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/devsquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
+⭐ 51 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/devsquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
 
 **基于 GitHub Copilot 的团队交付框架：从业务意图到实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/devsquad-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    title "microsoft/devsquad-copilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

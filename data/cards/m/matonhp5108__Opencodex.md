@@ -1,6 +1,6 @@
 # matonhp5108/Opencodex
 
-⭐ 54 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/matonhp5108/Opencodex) · [官网](https://marketplace.visualstudio.com/items?itemName=EvaanChowdhry.opencodex-agent) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/matonhp5108/Opencodex) · [官网](https://marketplace.visualstudio.com/items?itemName=EvaanChowdhry.opencodex-agent) · 个人维护
 
 **VS Code 内的开源免费编码 agent 扩展**
 
@@ -45,13 +45,13 @@ VS Code 扩展，在编辑器内提供编码 agent 循环：读取工作区、�
 
 ```mermaid
 xychart-beta
-    title "matonhp5108/Opencodex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    title "matonhp5108/Opencodex 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 51 --> 70
+    line [52, 53, 54, 53, 54, 63, 67, 68, 69, 69]
 ```
 
-2026-10-18 52 → 2026-11-02 54（+2）
+2026-10-18 52 → 2026-11-17 69（+17）
 
 
 ---

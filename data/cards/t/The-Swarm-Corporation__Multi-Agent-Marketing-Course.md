@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/Multi-Agent-Marketing-Course
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2025-12-08 · [GitHub](https://github.com/The-Swarm-Corporation/Multi-Agent-Marketing-Course) · [官网](https://discord.com/servers/agora-999382051935506503) · 组织维护
+⭐ 19 · Jupyter Notebook · MIT · 推送 2025-12-08 · [GitHub](https://github.com/The-Swarm-Corporation/Multi-Agent-Marketing-Course) · [官网](https://discord.com/servers/agora-999382051935506503) · 组织维护
 
 **教你用 Swarms 框架构建营销多智能体系统的 8 周课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/Multi-Agent-Marketing-Course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "The-Swarm-Corporation/Multi-Agent-Marketing-Course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

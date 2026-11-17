@@ -1,6 +1,6 @@
 # ageerle/ruoyi-web
 
-⭐ 425 · Vue · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ageerle/ruoyi-web) · [官网](https://web.ruoyiai.chat) · 个人维护 · 中文 README
+⭐ 428 · Vue · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ageerle/ruoyi-web) · [官网](https://web.ruoyiai.chat) · 个人维护 · 中文 README
 
 **RuoYi-AI 的用户前端：AI 对话、Agent 交互与知识库问答界面**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ageerle/ruoyi-web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 423 --> 426
-    line [424, 425, 425]
+    title "ageerle/ruoyi-web 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 423 --> 430
+    line [424, 425, 427, 429, 428, 429, 428, 428]
 ```
 
-2026-10-18 424 → 2026-11-02 425（+1）
+2026-10-18 424 → 2026-11-17 428（+4）
 
 
 ---

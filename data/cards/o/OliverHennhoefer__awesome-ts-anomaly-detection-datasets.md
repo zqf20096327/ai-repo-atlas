@@ -1,6 +1,6 @@
 # OliverHennhoefer/awesome-ts-anomaly-detection-datasets
 
-⭐ 12 · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/OliverHennhoefer/awesome-ts-anomaly-detection-datasets) · 个人维护
+⭐ 14 · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/OliverHennhoefer/awesome-ts-anomaly-detection-datasets) · 个人维护
 
 **时间序列异常检测公开数据集策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OliverHennhoefer/awesome-ts-anomaly-detection-datasets 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "OliverHennhoefer/awesome-ts-anomaly-detection-datasets 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 11, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

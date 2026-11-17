@@ -1,6 +1,6 @@
 # lightfeed/scrapedown
 
-⭐ 15 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/lightfeed/scrapedown) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/lightfeed/scrapedown) · 组织维护
 
 **带 CSS/XPath 标注的 HTML 转 Markdown 转换库，用于生成爬虫代码**
 
@@ -45,13 +45,13 @@ TypeScript/npm 库，将 HTML 转为 Markdown 并为标题、段落、链接、�
 
 ```mermaid
 xychart-beta
-    title "lightfeed/scrapedown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "lightfeed/scrapedown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

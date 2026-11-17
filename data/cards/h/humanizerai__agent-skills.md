@@ -1,6 +1,6 @@
 # humanizerai/agent-skills
 
-⭐ 53 · MIT · 推送 2026-02-05 · [GitHub](https://github.com/humanizerai/agent-skills) · [官网](https://humanizerai.com) · 组织维护
+⭐ 56 · MIT · 推送 2026-02-05 · [GitHub](https://github.com/humanizerai/agent-skills) · [官网](https://humanizerai.com) · 组织维护
 
 **面向 Claude Code 等 Agent 的 AI 检测与文本拟人化技能集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "humanizerai/agent-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 50 --> 54
-    line [51, 53, 53]
+    title "humanizerai/agent-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 50 --> 57
+    line [51, 53, 55, 56, 56]
 ```
 
-2026-10-18 51 → 2026-11-02 53（+2）
+2026-10-18 51 → 2026-11-17 56（+5）
 
 
 ---

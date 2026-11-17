@@ -1,6 +1,6 @@
 # Benboerba620/karpathy-claude-wiki
 
-⭐ 69 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/Benboerba620/karpathy-claude-wiki) · [官网](https://x.com/karpathy/status/2039805659525644595) · 个人维护 · 中文 README
+⭐ 70 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/Benboerba620/karpathy-claude-wiki) · [官网](https://x.com/karpathy/status/2039805659525644595) · 个人维护 · 中文 README
 
 **供 AI agent 读写维护的个人 markdown wiki 空模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Benboerba620/karpathy-claude-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "Benboerba620/karpathy-claude-wiki 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
     y-axis "stars" 68 --> 71
-    line [70, 69, 69]
+    line [70, 69, 70, 70]
 ```
 
-2026-10-18 70 → 2026-11-02 69（-1）
+2026-10-18 70 → 2026-11-17 70（+0）
 
 
 ---

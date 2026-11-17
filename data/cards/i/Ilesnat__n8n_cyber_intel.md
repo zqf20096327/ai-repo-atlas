@@ -1,6 +1,6 @@
 # Ilesnat/n8n_cyber_intel
 
-⭐ 16 · 推送 2025-11-17 · [GitHub](https://github.com/Ilesnat/n8n_cyber_intel) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **n8n 工作流：聚合 RSS 并用 AI 生成每日威胁情报邮件摘要**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Ilesnat/n8n_cyber_intel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-12 16（+0）
 
 
 ---

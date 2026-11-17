@@ -1,6 +1,6 @@
 # cu-sanjay/Amazon-ML-Summer-School-2026
 
-⭐ 622 · NOASSERTION · 推送 2026-07-02 · [GitHub](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2026) · [官网](https://amazonml.vercel.app/interview-prep) · 个人维护
+⭐ 628 · NOASSERTION · 推送 2026-07-02 · [GitHub](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2026) · [官网](https://amazonml.vercel.app/interview-prep) · 个人维护
 
 **Amazon ML Summer School 课程资料与历年真题汇编，面向备考学生**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cu-sanjay/Amazon-ML-Summer-School-2026 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 621 --> 625
-    line [622, 623, 624, 623, 622, 622]
+    title "cu-sanjay/Amazon-ML-Summer-School-2026 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 621 --> 629
+    line [622, 623, 624, 623, 622, 624, 626, 627, 626, 627, 628, 628]
 ```
 
-2026-10-18 622 → 2026-11-02 622（+0）
+2026-10-18 622 → 2026-11-17 628（+6）
 
 
 ---

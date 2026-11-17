@@ -1,6 +1,6 @@
 # aws-samples/sample-specship
 
-⭐ 256 · Shell · MIT · 推送 2026-09-16 · [GitHub](https://github.com/aws-samples/sample-specship) · 组织维护
+⭐ 258 · Shell · MIT · 推送 2026-09-16 · [GitHub](https://github.com/aws-samples/sample-specship) · 组织维护
 
 **Kiro 平台的规格驱动自主工程工作流（侦察→计划→构建→验证→交付）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-specship 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 255 --> 257
-    line [256, 256]
+    title "aws-samples/sample-specship 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 255 --> 259
+    line [256, 258, 258]
 ```
 
-2026-10-18 256 → 2026-11-02 256（+0）
+2026-10-18 256 → 2026-11-17 258（+2）
 
 
 ---

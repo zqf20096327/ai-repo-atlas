@@ -1,6 +1,6 @@
 # NekomyaDev/nudge
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NekomyaDev/nudge) · [官网](https://github.com/NekomyaDev/nudge) · 组织维护 · 中文 README
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/NekomyaDev/nudge) · [官网](https://github.com/NekomyaDev/nudge) · 组织维护 · 中文 README
 
 **面向 LLM agent 的类型化、可重放、预算约束编程语言**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NekomyaDev/nudge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "NekomyaDev/nudge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    line [18, 20, 18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

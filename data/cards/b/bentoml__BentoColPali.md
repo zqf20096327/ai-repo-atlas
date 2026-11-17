@@ -1,6 +1,6 @@
 # bentoml/BentoColPali
 
-⭐ 26 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoColPali) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **BentoML 示例项目：将 ColPali 文档检索模型封装为推理 API 服务**
 
@@ -45,12 +45,12 @@ BentoML 官方示例工程，演示如何将 ColPali（基于 PaliGemma-3B 视�
 ```mermaid
 xychart-beta
     title "bentoml/BentoColPali 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-08 26（+0）
 
 
 ---

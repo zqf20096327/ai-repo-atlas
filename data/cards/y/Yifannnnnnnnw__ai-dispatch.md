@@ -1,6 +1,6 @@
 # Yifannnnnnnnw/ai-dispatch
 
-⭐ 23 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/Yifannnnnnnnw/ai-dispatch) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/Yifannnnnnnnw/ai-dispatch) · 个人维护 · 中文 README
 
 **运行在 GitHub Actions 上的每日 AI 资讯邮件简报生成器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yifannnnnnnnw/ai-dispatch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "Yifannnnnnnnw/ai-dispatch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

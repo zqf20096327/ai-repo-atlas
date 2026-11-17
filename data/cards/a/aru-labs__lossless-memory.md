@@ -1,6 +1,6 @@
 # aru-labs/lossless-memory
 
-⭐ 161 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/aru-labs/lossless-memory) · [官网](https://note.com/aru_log) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/aru-labs/lossless-memory) · [官网](https://note.com/aru_log) · 个人维护
 
 **个人 AI 的本地无损长期记忆层：全量留痕、全量打时间戳**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aru-labs/lossless-memory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 143 --> 162
-    line [144, 146, 147, 150, 161]
+    title "aru-labs/lossless-memory 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 142 --> 174
+    line [144, 146, 147, 150, 161, 146, 168, 169, 171, 172, 172]
 ```
 
-2026-10-18 144 → 2026-11-02 161（+17）
+2026-10-18 144 → 2026-11-17 172（+28）
 
 
 ---

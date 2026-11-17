@@ -1,6 +1,6 @@
 # WILLOSCAR/Awesome-HCI-LLM
 
-⭐ 26 · Python · 推送 2026-03-08 · [GitHub](https://github.com/WILLOSCAR/Awesome-HCI-LLM) · 个人维护
+⭐ 25 · Python · 推送 2026-03-08 · [GitHub](https://github.com/WILLOSCAR/Awesome-HCI-LLM) · 个人维护
 
 **HCI 与 LLM/Agent 交叉领域研究论文策展清单（2021 至今）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "WILLOSCAR/Awesome-HCI-LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "WILLOSCAR/Awesome-HCI-LLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 25（-1）
 
 
 ---

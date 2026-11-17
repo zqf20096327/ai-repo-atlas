@@ -1,6 +1,6 @@
 # monkesearch/monkeSearch
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/monkesearch/monkeSearch) · 个人维护
+⭐ 205 · Python · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/monkesearch/monkeSearch) · 个人维护
 
 **本地离线的自然语言文件搜索：为 AI 代理桥接 macOS Spotlight**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "monkesearch/monkeSearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 202 --> 204
-    line [203, 203]
+    title "monkesearch/monkeSearch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 202 --> 206
+    line [203, 204, 205, 205]
 ```
 
-2026-10-18 203 → 2026-11-02 203（+0）
+2026-10-18 203 → 2026-11-17 205（+2）
 
 
 ---

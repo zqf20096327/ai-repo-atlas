@@ -1,6 +1,6 @@
 # lonewolfyx/usage-board
 
-⭐ 37 · Vue · MIT · 推送 2026-10-10 · [GitHub](https://github.com/lonewolfyx/usage-board) · 个人维护
+⭐ 38 · Vue · MIT · 推送 2026-10-10 · [GitHub](https://github.com/lonewolfyx/usage-board) · 个人维护
 
 **分析本地 JSON 文件的 AI 编程 token 用量仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lonewolfyx/usage-board 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "lonewolfyx/usage-board 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

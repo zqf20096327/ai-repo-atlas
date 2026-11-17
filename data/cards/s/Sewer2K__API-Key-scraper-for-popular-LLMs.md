@@ -1,6 +1,6 @@
 # Sewer2K/API-Key-scraper-for-popular-LLMs
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/Sewer2K/API-Key-scraper-for-popular-LLMs) · 个人维护
+⭐ 18 · Python · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/Sewer2K/API-Key-scraper-for-popular-LLMs) · 个人维护
 
 **扫描 GitHub 泄露 LLM API key 并验证余额的桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sewer2K/API-Key-scraper-for-popular-LLMs 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [11, 10, 12, 11, 12, 13, 14, 14]
+    title "Sewer2K/API-Key-scraper-for-popular-LLMs 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 19
+    line [11, 10, 12, 11, 12, 13, 14, 11, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 11 → 2026-11-02 14（+3）
+2026-10-18 11 → 2026-11-17 18（+7）
 
 
 ---

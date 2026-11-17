@@ -1,6 +1,6 @@
 # browser-use/stress-tests
 
-⭐ 28 · HTML · 推送 2026-05-15 · [GitHub](https://github.com/browser-use/stress-tests) · [官网](https://browser-use.github.io/stress-tests/challenge.html) · 组织维护
+⭐ 29 · HTML · 推送 2026-05-15 · [GitHub](https://github.com/browser-use/stress-tests) · [官网](https://browser-use.github.io/stress-tests/challenge.html) · 组织维护
 
 **用于评测 browser-use 的困难 Web 表单测试场景集合**
 
@@ -44,13 +44,13 @@ browser-use 官方组织的压力测试场景库：收录 27 种主流前端技�
 
 ```mermaid
 xychart-beta
-    title "browser-use/stress-tests 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "browser-use/stress-tests 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

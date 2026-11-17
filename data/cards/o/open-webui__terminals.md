@@ -1,6 +1,6 @@
 # open-webui/terminals
 
-⭐ 126 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
+⭐ 138 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
 
 **为 Open WebUI 用户编排隔离终端容器的服务层**
 
@@ -44,13 +44,13 @@ Terminals 是 Open WebUI 的终端容器编排服务：为每个用户自动创�
 
 ```mermaid
 xychart-beta
-    title "open-webui/terminals 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 119 --> 127
-    line [120, 121, 122, 123, 124, 123, 124, 125, 126]
+    title "open-webui/terminals 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 119 --> 139
+    line [120, 121, 122, 123, 124, 123, 124, 125, 126, 123, 132, 136, 137, 138, 138]
 ```
 
-2026-10-18 120 → 2026-11-02 126（+6）
+2026-10-18 120 → 2026-11-17 138（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # HICAI-ZJU/SciKGs
 
-⭐ 44 · 推送 2026-01-21 · [GitHub](https://github.com/HICAI-ZJU/SciKGs) · 组织维护
+⭐ 45 · 推送 2026-01-21 · [GitHub](https://github.com/HICAI-ZJU/SciKGs) · 组织维护
 
 **AI for Science 中科学知识图谱的综述与论文清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HICAI-ZJU/SciKGs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "HICAI-ZJU/SciKGs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

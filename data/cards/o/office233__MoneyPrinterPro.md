@@ -1,6 +1,6 @@
 # office233/MoneyPrinterPro
 
-⭐ 19 · JavaScript · MIT · 推送 2026-05-28 · [GitHub](https://github.com/office233/MoneyPrinterPro) · [官网](https://github.com/office233/MoneyPrinterPro) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-05-28 · [GitHub](https://github.com/office233/MoneyPrinterPro) · [官网](https://github.com/office233/MoneyPrinterPro) · 个人维护
 
 **本地优先的虚拟人像图文生成管线：身份保持与质量把关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "office233/MoneyPrinterPro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "office233/MoneyPrinterPro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

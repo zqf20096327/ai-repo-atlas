@@ -1,6 +1,6 @@
 # NeuralNomadsAI/CodeNomad
 
-⭐ 2,657 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
+⭐ 2,677 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
 
 **面向开发者的 OpenCode V2 桌面与浏览器工作台**
 
@@ -40,6 +40,18 @@ CodeNomad 是连接 OpenCode V2 共享后台服务的桌面（Electron/Tauri）�
 > L5: CodeNomad is a **desktop and browser workspace for OpenCode V2** — built for developers who work across projects, lo
 > L25: - **🧩 Tools and previews** — Monitor native background shells, manage MCP connections and Global/Project plugin act
 > L91: - **One shared OpenCode service** owns sessions and messages. Closing a CodeNomad tab, window, or backend leaves th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NeuralNomadsAI/CodeNomad 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2655 --> 2679
+    line [2657, 2663, 2667, 2669, 2670, 2672, 2677, 2677]
+```
+
+2026-11-02 2,657 → 2026-11-17 2,677（+20）
 
 
 ---

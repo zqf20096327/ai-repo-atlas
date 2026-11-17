@@ -1,6 +1,6 @@
 # aakashg/pm-prompt-library
 
-⭐ 15 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/aakashg/pm-prompt-library) · [官网](https://www.news.aakashg.com/p/pm-prompt-library) · 个人维护
+⭐ 16 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/aakashg/pm-prompt-library) · [官网](https://www.news.aakashg.com/p/pm-prompt-library) · 个人维护
 
 **产品经理 AI 提示词集合：25 条免费样本，全库 82 条**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aakashg/pm-prompt-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "aakashg/pm-prompt-library 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

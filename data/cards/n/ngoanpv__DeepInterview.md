@@ -1,6 +1,6 @@
 # ngoanpv/DeepInterview
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ngoanpv/DeepInterview) · [官网](https://deepinterview) · 个人维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ngoanpv/DeepInterview) · [官网](https://deepinterview) · 个人维护
 
 **开源自托管的语音 AI 模拟面试官：练口语并评分辅导**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ngoanpv/DeepInterview 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 58 --> 68
-    line [59, 60, 61, 63, 64, 66, 67]
+    title "ngoanpv/DeepInterview 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 58 --> 73
+    line [59, 60, 61, 63, 64, 66, 67, 63, 69, 70, 71, 72, 72]
 ```
 
-2026-10-18 59 → 2026-11-02 67（+8）
+2026-10-18 59 → 2026-11-17 72（+13）
 
 
 ---

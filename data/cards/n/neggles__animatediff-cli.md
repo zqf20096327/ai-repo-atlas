@@ -1,6 +1,6 @@
 # neggles/animatediff-cli
 
-⭐ 271 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/neggles/animatediff-cli) · 个人维护
+⭐ 271 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/neggles/animatediff-cli) · 个人维护
 
 **AnimateDiff 视频/动画生成的命令行工具，降低显存占用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neggles/animatediff-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 269 --> 272
     line [270, 271, 271]
 ```
 
-2026-10-18 270 → 2026-11-02 271（+1）
+2026-10-18 270 → 2026-11-17 271（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HakureiMonika/QQ-Chat-AI-Analyzer
 
-⭐ 44 · Python · GPL-3.0 · 推送 2026-01-12 · [GitHub](https://github.com/HakureiMonika/QQ-Chat-AI-Analyzer) · 个人维护 · 中文 README
+⭐ 45 · Python · GPL-3.0 · 推送 2026-01-12 · [GitHub](https://github.com/HakureiMonika/QQ-Chat-AI-Analyzer) · 个人维护 · 中文 README
 
 **本地部署的 QQ 群聊记录 LLM 分析与年度报告生成工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HakureiMonika/QQ-Chat-AI-Analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "HakureiMonika/QQ-Chat-AI-Analyzer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Peiyang-Song/Awesome-LLM-Reasoning-Failures
 
-⭐ 224 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) · 个人维护
+⭐ 223 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) · 个人维护
 
 **LLM 推理失败研究论文策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Peiyang-Song/Awesome-LLM-Reasoning-Failures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "Peiyang-Song/Awesome-LLM-Reasoning-Failures 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
     y-axis "stars" 222 --> 225
-    line [223, 224, 224]
+    line [223, 224, 223, 223]
 ```
 
-2026-10-18 223 → 2026-11-02 224（+1）
+2026-10-18 223 → 2026-11-17 223（+0）
 
 
 ---

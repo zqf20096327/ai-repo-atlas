@@ -1,6 +1,6 @@
 # IDEALLab/EngiOpt
 
-⭐ 19 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/IDEALLab/EngiOpt) · [官网](https://engibench.ethz.ch/) · 组织维护
+⭐ 20 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/IDEALLab/EngiOpt) · [官网](https://engibench.ethz.ch/) · 组织维护
 
 **工程设计问题的逆向设计与优化算法基准库（EngiBench 兼容）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IDEALLab/EngiOpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "IDEALLab/EngiOpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

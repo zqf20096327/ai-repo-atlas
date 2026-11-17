@@ -1,6 +1,6 @@
 # sinanuozdemir/ai-experiments
 
-⭐ 13 · Jupyter Notebook · 推送 2026-11-01 · [GitHub](https://github.com/sinanuozdemir/ai-experiments) · 个人维护
+⭐ 16 · Jupyter Notebook · 推送 2026-11-01 · [GitHub](https://github.com/sinanuozdemir/ai-experiments) · 个人维护
 
 **个人 AI/ML 实验合集：可复现的探索型 notebook 仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sinanuozdemir/ai-experiments 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 13]
+    title "sinanuozdemir/ai-experiments 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 17
+    line [11, 13, 16, 16]
 ```
 
-2026-11-01 11 → 2026-11-02 13（+2）
+2026-11-01 11 → 2026-11-17 16（+5）
 
 
 ---

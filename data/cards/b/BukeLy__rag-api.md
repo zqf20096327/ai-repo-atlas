@@ -1,6 +1,6 @@
 # BukeLy/rag-api
 
-⭐ 67 · Python · 推送 2025-12-15 · [GitHub](https://github.com/BukeLy/rag-api) · 个人维护 · 中文 README
+⭐ 68 · Python · 推送 2025-12-15 · [GitHub](https://github.com/BukeLy/rag-api) · 个人维护 · 中文 README
 
 **多租户多模态文档 RAG 服务，自动选择文档解析引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BukeLy/rag-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 64 --> 68
-    line [65, 66, 67, 67]
+    title "BukeLy/rag-api 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 67, 65, 68, 68]
 ```
 
-2026-10-18 65 → 2026-11-02 67（+2）
+2026-10-18 65 → 2026-11-17 68（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ComfyUI-Kelin/ComfyUI-LLMs-Toolkit
 
-⭐ 32 · Python · AGPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/ComfyUI-Kelin/ComfyUI-LLMs-Toolkit) · 组织维护 · 中文 README
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ComfyUI-Kelin/ComfyUI-LLMs-Toolkit) · 组织维护 · 中文 README
 
 **在 ComfyUI 中调用 OpenAI 兼容 LLM API 的自定义节点包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ComfyUI-Kelin/ComfyUI-LLMs-Toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "ComfyUI-Kelin/ComfyUI-LLMs-Toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

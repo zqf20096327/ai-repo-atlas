@@ -1,6 +1,6 @@
 # comol/Humanizer_RU
 
-⭐ 17 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/comol/Humanizer_RU) · [官网](https://skills.sh/comol/Humanizer_RU) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/comol/Humanizer_RU) · [官网](https://skills.sh/comol/Humanizer_RU) · 个人维护 · 中文 README
 
 **俄语文本去 AI 腔工具：规则体检查器加 Agent Skill 供大模型修文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "comol/Humanizer_RU 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "comol/Humanizer_RU 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

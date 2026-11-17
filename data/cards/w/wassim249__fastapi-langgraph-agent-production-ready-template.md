@@ -1,6 +1,6 @@
 # wassim249/fastapi-langgraph-agent-production-ready-template
 
-⭐ 2,724 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · 个人维护
+⭐ 2,742 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · 个人维护
 
 **面向 AI 工程师的 FastAPI + LangGraph Agent 后端生产级模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wassim249/fastapi-langgraph-agent-production-ready-template 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2704 --> 2725
-    line [2705, 2711, 2714, 2718, 2717, 2718, 2719, 2720, 2724]
+    title "wassim249/fastapi-langgraph-agent-production-ready-template 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2702 --> 2745
+    line [2705, 2711, 2714, 2718, 2717, 2718, 2719, 2720, 2724, 2718, 2730, 2734, 2738, 2737, 2739, 2741, 2742, 2742]
 ```
 
-2026-10-18 2,705 → 2026-11-02 2,724（+19）
+2026-10-18 2,705 → 2026-11-17 2,742（+37）
 
 
 ---

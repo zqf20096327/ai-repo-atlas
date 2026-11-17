@@ -1,6 +1,6 @@
 # MrXujiang/ai-book
 
-⭐ 18 · GPL-3.0 · 推送 2026-06-05 · [GitHub](https://github.com/MrXujiang/ai-book) · [官网](https://aibook.mvtable.com) · 组织维护 · 中文 README
+⭐ 19 · GPL-3.0 · 推送 2026-06-05 · [GitHub](https://github.com/MrXujiang/ai-book) · [官网](https://aibook.mvtable.com) · 组织维护 · 中文 README
 
 **付费 AI 全栈学习手册：教程+实战项目+变现路径**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MrXujiang/ai-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "MrXujiang/ai-book 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

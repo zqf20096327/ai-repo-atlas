@@ -1,6 +1,6 @@
 # dshakes/compass
 
-⭐ 21 · Shell · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dshakes/compass) · [官网](https://dshakes.github.io/compass/) · 个人维护
+⭐ 23 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/dshakes/compass) · [官网](https://dshakes.github.io/compass/) · 个人维护
 
 **给 AI 编程代理加护栏的本地配置层：预算硬停、命令拦截与自修复 PR 循环**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dshakes/compass 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "dshakes/compass 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

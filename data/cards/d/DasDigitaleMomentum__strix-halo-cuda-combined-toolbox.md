@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DasDigitaleMomentum/strix-halo-cuda-combined-toolbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "DasDigitaleMomentum/strix-halo-cuda-combined-toolbox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 22, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

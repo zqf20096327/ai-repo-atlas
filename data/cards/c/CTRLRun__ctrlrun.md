@@ -1,6 +1,6 @@
 # CTRLRun/ctrlrun
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/CTRLRun/ctrlrun) · [官网](https://ctrlrun.dev/docs) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/CTRLRun/ctrlrun) · [官网](https://ctrlrun.dev/docs) · 组织维护
 
 **AI 代理动作的执行安全层：行动前按规则校验、审批、留痕**
 
@@ -46,13 +46,13 @@ Python 库，嵌入在代理决定与实际调用之间：读取即将发出的�
 
 ```mermaid
 xychart-beta
-    title "CTRLRun/ctrlrun 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "CTRLRun/ctrlrun 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

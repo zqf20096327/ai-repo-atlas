@@ -1,6 +1,6 @@
 # rohitsoni1010/mcp-gearbox
 
-⭐ 63 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/rohitsoni1010/mcp-gearbox) · [官网](https://rohitsoni1010.github.io/mcp-gearbox) · 个人维护
+⭐ 62 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/rohitsoni1010/mcp-gearbox) · [官网](https://rohitsoni1010.github.io/mcp-gearbox) · 个人维护
 
 **跨平台桌面应用：统一管理多个 AI agent 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohitsoni1010/mcp-gearbox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
+    title "rohitsoni1010/mcp-gearbox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 60 --> 64
-    line [61, 62, 63, 63]
+    line [61, 62, 63, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 63（+2）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Somi-Project/Somi
 
-⭐ 28 · Python · 推送 2026-03-20 · [GitHub](https://github.com/Somi-Project/Somi) · [官网](https://x.com/SomiProject) · 组织维护
+⭐ 29 · Python · 推送 2026-03-20 · [GitHub](https://github.com/Somi-Project/Somi) · [官网](https://x.com/SomiProject) · 组织维护
 
 **本地自托管的桌面 AI agent 工作站：聊天/记忆/编码/语音/OCR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Somi-Project/Somi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28]
+    title "Somi-Project/Somi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

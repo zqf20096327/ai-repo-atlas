@@ -1,6 +1,6 @@
 # EthicalML/xai
 
-⭐ 1,273 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/EthicalML/xai) · [官网](https://ethical.institute/principles.html#commitment-3) · 组织维护
+⭐ 1,271 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/EthicalML/xai) · [官网](https://ethical.institute/principles.html#commitment-3) · 组织维护
 
 **机器学习可解释性工具库：数据分析、模型评估与偏差检测**
 
@@ -44,13 +44,13 @@ The Institute for Ethical AI & ML 维护的 Python 库，基于负责任机器�
 
 ```mermaid
 xychart-beta
-    title "EthicalML/xai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
+    title "EthicalML/xai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 1267 --> 1274
-    line [1268, 1270, 1271, 1272, 1273, 1273]
+    line [1268, 1270, 1271, 1272, 1273, 1271, 1271]
 ```
 
-2026-10-18 1,268 → 2026-11-02 1,273（+5）
+2026-10-18 1,268 → 2026-11-17 1,271（+3）
 
 
 ---

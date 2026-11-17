@@ -1,6 +1,6 @@
 # maxischuh/BarlowDTI
 
-⭐ 11 · Python · GPL-3.0 · 推送 2025-12-09 · [GitHub](https://github.com/maxischuh/BarlowDTI) · [官网](https://huggingface.co/spaces/mschuh/BarlowDTI) · 组织维护
+⭐ 12 · Python · GPL-3.0 · 推送 2025-12-09 · [GitHub](https://github.com/maxischuh/BarlowDTI) · [官网](https://huggingface.co/spaces/mschuh/BarlowDTI) · 组织维护
 
 **基于 Barlow Twins 的药物-靶点相互作用预测模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maxischuh/BarlowDTI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "maxischuh/BarlowDTI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

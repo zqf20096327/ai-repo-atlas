@@ -1,6 +1,6 @@
 # Yuralume/yuralume-core
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/Yuralume/yuralume-core) · [官网](https://yuralume.com/) · 个人维护
+⭐ 40 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/Yuralume/yuralume-core) · [官网](https://yuralume.com/) · 个人维护
 
 **自托管 AI 陪伴平台：角色拥有日程、记忆与主动消息**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yuralume/yuralume-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "Yuralume/yuralume-core 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

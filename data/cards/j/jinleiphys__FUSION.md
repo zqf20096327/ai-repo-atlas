@@ -1,6 +1,6 @@
 # jinleiphys/FUSION
 
-⭐ 20 · Shell · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/jinleiphys/FUSION) · [官网](https://vibeinscience.com/) · 组织维护 · 中文 README
+⭐ 26 · Shell · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/jinleiphys/FUSION) · [官网](https://vibeinscience.com/) · 组织维护 · 中文 README
 
 **核物理 AI 代理技能插件：驱动 28 个科学代码与 6.1 万页离线文献**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jinleiphys/FUSION 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "jinleiphys/FUSION 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 27
+    line [19, 20, 19, 23, 25, 26, 26]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 26（+7）
 
 
 ---

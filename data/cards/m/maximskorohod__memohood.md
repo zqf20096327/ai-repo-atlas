@@ -1,6 +1,6 @@
 # maximskorohod/memohood
 
-⭐ 25 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/maximskorohod/memohood) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/maximskorohod/memohood) · 个人维护
 
 **hermes-agent 的对话记忆插件：跨会话事实存取与版本化**
 
@@ -45,13 +45,13 @@ MemoHood 是面向 hermes-agent 的记忆提供方插件（memory.provider），
 
 ```mermaid
 xychart-beta
-    title "maximskorohod/memohood 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "maximskorohod/memohood 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 25, 24, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

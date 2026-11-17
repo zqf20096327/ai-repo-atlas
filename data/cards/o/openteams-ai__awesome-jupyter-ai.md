@@ -1,6 +1,6 @@
 # openteams-ai/awesome-jupyter-ai
 
-⭐ 12 · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/openteams-ai/awesome-jupyter-ai) · 组织维护
+⭐ 12 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/openteams-ai/awesome-jupyter-ai) · 组织维护
 
 **JupyterLab/Notebook 7 的 AI 扩展策展清单（百余条）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openteams-ai/awesome-jupyter-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-02"]
+    title "openteams-ai/awesome-jupyter-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 8 --> 13
-    line [9, 10, 11, 12, 12]
+    line [9, 10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-18 9 → 2026-11-02 12（+3）
+2026-10-18 9 → 2026-11-17 12（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Italink/UnrealClientProtocol
 
-⭐ 128 · C++ · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Italink/UnrealClientProtocol) · 个人维护 · 中文 README
+⭐ 131 · C++ · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Italink/UnrealClientProtocol) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 TCP+JSON 操作 UE5 反射系统的编辑器插件**
 
@@ -45,13 +45,13 @@ UE5 纯插件，不改引擎源码：把引擎反射系统的原子能力（调�
 
 ```mermaid
 xychart-beta
-    title "Italink/UnrealClientProtocol 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 126 --> 129
-    line [127, 128, 128]
+    title "Italink/UnrealClientProtocol 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 126 --> 132
+    line [127, 128, 130, 131, 131]
 ```
 
-2026-10-18 127 → 2026-11-02 128（+1）
+2026-10-18 127 → 2026-11-17 131（+4）
 
 
 ---

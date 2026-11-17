@@ -1,6 +1,6 @@
 # gamaliel-ai/gamaliel-prompts
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/gamaliel-ai/gamaliel-prompts) · [官网](https://gamaliel.ai) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/gamaliel-ai/gamaliel-prompts) · [官网](https://gamaliel.ai) · 组织维护
 
 **开源 AI 圣经研读应用的提示词模板与神学准则集合**
 
@@ -44,13 +44,13 @@ Gamaliel.ai 是免费、无需登录的 AI 圣经研读伴侣，本仓库是其�
 
 ```mermaid
 xychart-beta
-    title "gamaliel-ai/gamaliel-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "gamaliel-ai/gamaliel-prompts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

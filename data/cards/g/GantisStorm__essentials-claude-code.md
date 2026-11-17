@@ -1,6 +1,6 @@
 # GantisStorm/essentials-claude-code
 
-⭐ 90 · Unlicense · 推送 2026-02-15 · [GitHub](https://github.com/GantisStorm/essentials-claude-code) · 个人维护
+⭐ 89 · Unlicense · 推送 2026-02-15 · [GitHub](https://github.com/GantisStorm/essentials-claude-code) · 个人维护
 
 **Claude Code 插件：以循环/蜂群/团队三模式执行带退出准则的任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GantisStorm/essentials-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "GantisStorm/essentials-claude-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [90, 89, 89]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 89（-1）
 
 
 ---

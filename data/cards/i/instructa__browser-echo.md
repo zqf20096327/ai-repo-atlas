@@ -1,6 +1,6 @@
 # instructa/browser-echo
 
-⭐ 319 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/instructa/browser-echo) · 个人维护
+⭐ 321 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/instructa/browser-echo) · 个人维护
 
 **把浏览器控制台日志流式传到终端，供 AI 编码助手读取**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "instructa/browser-echo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 318 --> 321
-    line [320, 319, 319]
+    title "instructa/browser-echo 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 318 --> 322
+    line [320, 319, 320, 319, 320, 321, 321]
 ```
 
-2026-10-18 320 → 2026-11-02 319（-1）
+2026-10-18 320 → 2026-11-17 321（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # barahona-research-group/RamanSPy
 
-⭐ 200 · Jupyter Notebook · BSD-3-Clause · 推送 2025-11-09 · [GitHub](https://github.com/barahona-research-group/RamanSPy) · [官网](https://ramanspy.readthedocs.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **拉曼光谱数据分析 Python 库，含 AI/ML 集成**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "barahona-research-group/RamanSPy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "barahona-research-group/RamanSPy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 194 --> 201
-    line [195, 196, 197, 198, 199, 200]
+    line [195, 196, 197, 198, 199, 200, 196, 196]
 ```
 
-2026-10-18 195 → 2026-11-02 200（+5）
+2026-10-18 195 → 2026-11-07 196（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ruvnet/rvQR
 
-⭐ 16 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ruvnet/rvQR) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ruvnet/rvQR) · 个人维护
 
 **离线光学传输工具：通过动画二维码在设备间传文件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruvnet/rvQR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "ruvnet/rvQR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

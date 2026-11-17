@@ -1,6 +1,6 @@
 # SonghaiFan/frankie-poker
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/SonghaiFan/frankie-poker) · [官网](https://songhaifan.github.io/frankie-poker/) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/SonghaiFan/frankie-poker) · [官网](https://songhaifan.github.io/frankie-poker/) · 个人维护 · 中文 README
 
 **与 LLM 对打德州扑克的开源网页游乐场**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SonghaiFan/frankie-poker 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 12, 13, 14, 14]
+    title "SonghaiFan/frankie-poker 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 12, 13, 14, 13, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 14（+4）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

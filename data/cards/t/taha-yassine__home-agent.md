@@ -1,6 +1,6 @@
 # taha-yassine/home-agent
 
-⭐ 13 · Python · 推送 2025-11-21 · [GitHub](https://github.com/taha-yassine/home-agent) · 个人维护
+⭐ 15 · Python · 推送 2025-11-21 · [GitHub](https://github.com/taha-yassine/home-agent) · 个人维护
 
 **为 Home Assistant 增加本地对话与自动化 Agent 的集成模块**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taha-yassine/home-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13]
+    title "taha-yassine/home-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

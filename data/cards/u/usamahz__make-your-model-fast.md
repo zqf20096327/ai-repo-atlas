@@ -1,6 +1,6 @@
 # usamahz/make-your-model-fast
 
-⭐ 29 · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/usamahz/make-your-model-fast) · [官网](https://ai.usamah.me) · 个人维护
+⭐ 30 · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/usamahz/make-your-model-fast) · [官网](https://ai.usamah.me) · 个人维护
 
 **免费在线书籍：从硬件到 Agent 的高效机器学习系统视角**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "usamahz/make-your-model-fast 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    title "usamahz/make-your-model-fast 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 28, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

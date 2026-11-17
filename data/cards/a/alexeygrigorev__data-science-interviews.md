@@ -1,6 +1,6 @@
 # alexeygrigorev/data-science-interviews
 
-⭐ 10,218 · HTML · CC-BY-4.0 · 推送 2026-09-26 · [GitHub](https://github.com/alexeygrigorev/data-science-interviews) · [官网](https://alexeygrigorev.com/data-science-interviews/) · 个人维护
+⭐ 10,234 · HTML · CC-BY-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/alexeygrigorev/data-science-interviews) · [官网](https://alexeygrigorev.com/data-science-interviews/) · 个人维护
 
 **数据科学面试问答社区合集：分类问题与社区答案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexeygrigorev/data-science-interviews 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 10189 --> 10221
-    line [10191, 10198, 10204, 10206, 10209, 10214, 10216, 10219, 10218, 10218]
+    title "alexeygrigorev/data-science-interviews 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10187 --> 10238
+    line [10191, 10198, 10204, 10206, 10209, 10214, 10216, 10219, 10218, 10209, 10229, 10234, 10231, 10234, 10234]
 ```
 
-2026-10-18 10,191 → 2026-11-02 10,218（+27）
+2026-10-18 10,191 → 2026-11-17 10,234（+43）
 
 
 ---

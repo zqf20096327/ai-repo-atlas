@@ -1,6 +1,6 @@
 # microsoft/dp-transformers
 
-⭐ 149 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/microsoft/dp-transformers) · 组织维护
+⭐ 149 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/dp-transformers) · 组织维护
 
 **面向研究者的差分隐私 Transformer 训练扩展库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/dp-transformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 148 --> 150
     line [149, 149]
 ```
 
-2026-10-18 149 → 2026-11-02 149（+0）
+2026-10-18 149 → 2026-11-17 149（+0）
 
 
 ---

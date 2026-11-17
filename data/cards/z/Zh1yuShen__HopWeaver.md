@@ -1,6 +1,6 @@
 # Zh1yuShen/HopWeaver
 
-⭐ 29 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/Zh1yuShen/HopWeaver) · 组织维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/Zh1yuShen/HopWeaver) · 组织维护 · 中文 README
 
 **从无结构语料自动合成跨文档多跳问答数据的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zh1yuShen/HopWeaver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "Zh1yuShen/HopWeaver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

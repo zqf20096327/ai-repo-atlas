@@ -1,6 +1,6 @@
 # indiser/ViralContent-Factory
 
-⭐ 23 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/indiser/ViralContent-Factory) · [官网](https://indiser.github.io/ViralContent-Factory/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/indiser/ViralContent-Factory) · [官网](https://indiser.github.io/ViralContent-Factory/) · 个人维护
 
 **自动化流水线：抓取 Reddit 故事生成 TikTok/Shorts 竖屏视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "indiser/ViralContent-Factory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
+    title "indiser/ViralContent-Factory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 24, 23, 23]
+    line [22, 23, 24, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

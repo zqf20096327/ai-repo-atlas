@@ -1,6 +1,6 @@
 # w4-advisory/plexiglass
 
-⭐ 156 · Python · Apache-2.0 · 推送 2026-02-04 · [GitHub](https://github.com/w4-advisory/plexiglass) · 组织维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/w4-advisory/plexiglass) · 组织维护
 
 **面向开发者的 LLM 漏洞检测与防护工具包（CLI）**
 
@@ -45,12 +45,12 @@ Plexiglass 是一个用于检测和保护大语言模型（LLM）免受漏洞影
 ```mermaid
 xychart-beta
     title "w4-advisory/plexiglass 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 155 --> 158
     line [157, 156, 156]
 ```
 
-2026-10-18 157 → 2026-11-02 156（-1）
+2026-10-18 157 → 2026-11-17 156（-1）
 
 
 ---

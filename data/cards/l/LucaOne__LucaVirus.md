@@ -1,6 +1,6 @@
 # LucaOne/LucaVirus
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-05-25 · [GitHub](https://github.com/LucaOne/LucaVirus) · [官网](https://zenodo.org/records/15703216) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-05-25 · [GitHub](https://github.com/LucaOne/LucaVirus) · [官网](https://zenodo.org/records/15703216) · 组织维护
 
 **统一基因-蛋白语言模型：刻画病毒演化与功能图谱**
 
@@ -45,13 +45,13 @@ LucaVirus 是面向病毒序列的统一核酸-蛋白语言模型，基于 LucaO
 
 ```mermaid
 xychart-beta
-    title "LucaOne/LucaVirus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 80 --> 83
-    line [81, 82, 82]
+    title "LucaOne/LucaVirus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 80 --> 85
+    line [81, 82, 81, 84, 84]
 ```
 
-2026-10-18 81 → 2026-11-02 82（+1）
+2026-10-18 81 → 2026-11-17 84（+3）
 
 
 ---

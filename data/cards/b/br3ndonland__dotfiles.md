@@ -1,6 +1,6 @@
 # br3ndonland/dotfiles
 
-⭐ 85 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/br3ndonland/dotfiles) · 个人维护
+⭐ 87 · Shell · MIT · 推送 2026-11-15 · [GitHub](https://github.com/br3ndonland/dotfiles) · 个人维护
 
 **个人 macOS/Linux 开发环境配置文件集与一键初始化脚本**
 
@@ -45,13 +45,13 @@ Brendon Smith 的 dotfiles 仓库：存放应用配置与设置文件，兼容 L
 
 ```mermaid
 xychart-beta
-    title "br3ndonland/dotfiles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "br3ndonland/dotfiles 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 83 --> 88
+    line [84, 85, 86, 87, 87]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 87（+3）
 
 
 ---

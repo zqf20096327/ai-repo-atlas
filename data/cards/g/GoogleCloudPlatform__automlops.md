@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/automlops
 
-⭐ 258 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/GoogleCloudPlatform/automlops) · 组织维护
+⭐ 259 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/GoogleCloudPlatform/automlops) · 组织维护
 
 **生成并部署 GCP 上 CI/CD 集成 MLOps 流水线的 Python 框架**
 
@@ -45,13 +45,13 @@ AutoMLOps 是 Google Cloud Platform 组织下的 MLOps 流水线生成与运维�
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/automlops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 256 --> 259
-    line [257, 258, 258]
+    title "GoogleCloudPlatform/automlops 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 256 --> 260
+    line [257, 258, 259, 259]
 ```
 
-2026-10-18 257 → 2026-11-02 258（+1）
+2026-10-18 257 → 2026-11-17 259（+2）
 
 
 ---

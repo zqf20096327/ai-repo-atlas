@@ -1,6 +1,6 @@
 # LISK819129/OpenNPC
 
-⭐ 21 · C# · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/LISK819129/OpenNPC) · [官网](https://lisk819129.github.io/OpenNPC/) · 个人维护
+⭐ 23 · C# · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/LISK819129/OpenNPC) · [官网](https://lisk819129.github.io/OpenNPC/) · 个人维护
 
 **给游戏开发者的性格驱动 NPC 对话 AI 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LISK819129/OpenNPC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21]
+    title "LISK819129/OpenNPC 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 20, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

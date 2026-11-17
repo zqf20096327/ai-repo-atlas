@@ -1,6 +1,6 @@
 # wwu-mmll/deepmriprep
 
-⭐ 63 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/wwu-mmll/deepmriprep) · [官网](https://github.com/wwu-mmll/deepmriprep) · 组织维护
+⭐ 65 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/wwu-mmll/deepmriprep) · [官网](https://github.com/wwu-mmll/deepmriprep) · 组织维护
 
 **神经网络驱动的 T1 MRI 预处理工具：秒级完成 VBM/RBM 全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wwu-mmll/deepmriprep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "wwu-mmll/deepmriprep 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 64, 65, 65]
 ```
 
-2026-10-18 62 → 2026-11-02 63（+1）
+2026-10-18 62 → 2026-11-17 65（+3）
 
 
 ---

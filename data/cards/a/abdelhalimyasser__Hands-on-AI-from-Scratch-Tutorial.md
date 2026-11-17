@@ -1,6 +1,6 @@
 # abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial) · 个人维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-11-13 · [GitHub](https://github.com/abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial) · 个人维护
 
 **AI/ML 从零实现教程仓库：C/MATLAB/Python 三语言学习路径**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 5 --> 14
-    line [6, 8, 9, 13, 13]
+    title "abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 5 --> 15
+    line [6, 8, 9, 13, 6, 14, 14]
 ```
 
-2026-10-18 6 → 2026-11-02 13（+7）
+2026-10-18 6 → 2026-11-17 14（+8）
 
 
 ---

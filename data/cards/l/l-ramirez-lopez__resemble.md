@@ -1,6 +1,6 @@
 # l-ramirez-lopez/resemble
 
-⭐ 28 · R · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/l-ramirez-lopez/resemble) · [官网](http://l-ramirez-lopez.github.io/resemble/) · 个人维护
+⭐ 27 · R · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/l-ramirez-lopez/resemble) · [官网](http://l-ramirez-lopez.github.io/resemble/) · 个人维护
 
 **光谱化学计量学 R 包：光谱相似度检索与局部学习建模**
 
@@ -45,13 +45,13 @@ R 语言包，面向复杂光谱数据的相异性分析与预测建模：提供
 
 ```mermaid
 xychart-beta
-    title "l-ramirez-lopez/resemble 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "l-ramirez-lopez/resemble 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 27（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # richie-rk/rag-app-azure
 
-⭐ 13 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/richie-rk/rag-app-azure) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/richie-rk/rag-app-azure) · 个人维护
 
 **构建在 Azure 上的企业级 RAG 问答应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "richie-rk/rag-app-azure 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    title "richie-rk/rag-app-azure 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 16
-    line [15, 14, 13, 13]
+    line [15, 14, 13, 14, 13, 13]
 ```
 
-2026-10-18 15 → 2026-11-02 13（-2）
+2026-10-18 15 → 2026-11-17 13（-2）
 
 
 ---

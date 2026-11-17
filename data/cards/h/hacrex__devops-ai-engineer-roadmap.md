@@ -1,6 +1,6 @@
 # hacrex/devops-ai-engineer-roadmap
 
-⭐ 55 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/hacrex/devops-ai-engineer-roadmap) · 个人维护
+⭐ 78 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/hacrex/devops-ai-engineer-roadmap) · 个人维护
 
 **面向 DevOps/SRE 的 AI 基础设施工程学习路线图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hacrex/devops-ai-engineer-roadmap 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 41 --> 56
-    line [42, 44, 45, 48, 49, 50, 52, 55, 55]
+    title "hacrex/devops-ai-engineer-roadmap 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 39 --> 81
+    line [42, 44, 45, 48, 49, 50, 52, 55, 42, 63, 69, 70, 72, 74, 76, 78, 78]
 ```
 
-2026-10-18 42 → 2026-11-02 55（+13）
+2026-10-18 42 → 2026-11-17 78（+36）
 
 
 ---

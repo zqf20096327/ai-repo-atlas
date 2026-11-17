@@ -1,6 +1,6 @@
 # towardsai/ragbook-notebooks
 
-⭐ 561 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/towardsai/ragbook-notebooks) · [官网](https://academy.towardsai.net/courses/buildingllmsforproduction) · 组织维护
+⭐ 567 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/towardsai/ragbook-notebooks) · [官网](https://academy.towardsai.net/courses/buildingllmsforproduction) · 组织维护
 
 **Towards AI RAG 图书配套的 Jupyter notebook 代码集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "towardsai/ragbook-notebooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 558 --> 562
-    line [559, 560, 561, 561]
+    title "towardsai/ragbook-notebooks 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 558 --> 568
+    line [559, 560, 561, 560, 563, 565, 566, 567, 567]
 ```
 
-2026-10-18 559 → 2026-11-02 561（+2）
+2026-10-18 559 → 2026-11-17 567（+8）
 
 
 ---

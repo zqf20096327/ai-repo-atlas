@@ -1,6 +1,6 @@
 # eunsanMountain/atlassian-skills
 
-⭐ 26 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/eunsanMountain/atlassian-skills) · [官网](https://pypi.org/project/atlassian-skills/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/eunsanMountain/atlassian-skills) · [官网](https://pypi.org/project/atlassian-skills/) · 个人维护
 
 **面向 LLM agent 的 Atlassian Server/DC 轻量命令行客户端**
 
@@ -44,13 +44,13 @@ Python 实现的 CLI（命令 atls），对 Jira、Confluence、Bitbucket Server
 
 ```mermaid
 xychart-beta
-    title "eunsanMountain/atlassian-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "eunsanMountain/atlassian-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

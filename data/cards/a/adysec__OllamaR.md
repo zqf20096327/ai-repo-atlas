@@ -1,6 +1,6 @@
 # adysec/OllamaR
 
-⭐ 96 · GPL-3.0 · 推送 2025-11-06 · [GitHub](https://github.com/adysec/OllamaR) · [官网](https://ollama.adysec.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Ollama 负载均衡代理服务器：均衡分发请求并隐藏源端口**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adysec/OllamaR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
     y-axis "stars" 94 --> 97
     line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-11-02 96（+1）
+2026-10-18 95 → 2026-11-07 96（+1）
 
 
 ---

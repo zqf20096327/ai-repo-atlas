@@ -1,6 +1,6 @@
 # ax128/AegisGate
 
-⭐ 71 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ax128/AegisGate) · [官网](https://github.com/ax128/AegisGate) · 个人维护 · 中文 README
+⭐ 73 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ax128/AegisGate) · [官网](https://github.com/ax128/AegisGate) · 个人维护 · 中文 README
 
 **自托管的 LLM API 安全网关：PII 脱敏与提示注入防护代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ax128/AegisGate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    title "ax128/AegisGate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 70, 73, 73]
 ```
 
-2026-10-18 70 → 2026-11-02 71（+1）
+2026-10-18 70 → 2026-11-17 73（+3）
 
 
 ---

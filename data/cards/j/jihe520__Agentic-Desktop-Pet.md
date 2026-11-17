@@ -1,6 +1,6 @@
 # jihe520/Agentic-Desktop-Pet
 
-⭐ 341 · Python · 推送 2026-01-10 · [GitHub](https://github.com/jihe520/Agentic-Desktop-Pet) · 个人维护 · 中文 README
+⭐ 343 · Python · 推送 2026-01-10 · [GitHub](https://github.com/jihe520/Agentic-Desktop-Pet) · 个人维护 · 中文 README
 
 **带记忆、情感与 RPG 属性的 LLM 桌面宠物**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jihe520/Agentic-Desktop-Pet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 338 --> 342
-    line [339, 340, 341, 341]
+    title "jihe520/Agentic-Desktop-Pet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 338 --> 344
+    line [339, 340, 341, 340, 342, 343, 343]
 ```
 
-2026-10-18 339 → 2026-11-02 341（+2）
+2026-10-18 339 → 2026-11-17 343（+4）
 
 
 ---

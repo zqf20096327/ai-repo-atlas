@@ -1,6 +1,6 @@
 # drunkrhin0/antislop
 
-⭐ 23 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/drunkrhin0/antislop) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/drunkrhin0/antislop) · 个人维护
 
 **让 AI agent 写出少套话文本的两个技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drunkrhin0/antislop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    title "drunkrhin0/antislop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-16", "2026-11-17"]
     y-axis "stars" 22 --> 26
-    line [25, 24, 23, 23]
+    line [25, 24, 23, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-02 23（-2）
+2026-10-18 25 → 2026-11-17 24（-1）
 
 
 ---

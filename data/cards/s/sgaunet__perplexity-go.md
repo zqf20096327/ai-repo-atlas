@@ -1,6 +1,6 @@
 # sgaunet/perplexity-go
 
-⭐ 28 · Go · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sgaunet/perplexity-go) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-11-04 · [GitHub](https://github.com/sgaunet/perplexity-go) · 个人维护
 
 **Go 开发者调用 Perplexity AI API 的客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sgaunet/perplexity-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

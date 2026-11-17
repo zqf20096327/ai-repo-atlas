@@ -1,6 +1,6 @@
 # lianluo-esign/ferrogate
 
-⭐ 29 · TypeScript · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/lianluo-esign/ferrogate) · [官网](https://token4ai.cloud) · 组织维护 · 中文 README
+⭐ 32 · TypeScript · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/lianluo-esign/ferrogate) · [官网](https://token4ai.cloud) · 组织维护 · 中文 README
 
 **运行在 Cloudflare Workers 上的开源 AI 网关，做多供应商路由与租户管控**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lianluo-esign/ferrogate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "lianluo-esign/ferrogate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 31, 32, 32]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 32（+4）
 
 
 ---

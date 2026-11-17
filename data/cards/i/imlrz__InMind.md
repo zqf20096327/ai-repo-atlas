@@ -1,6 +1,6 @@
 # imlrz/InMind
 
-⭐ 18 · Python · 推送 2026-07-30 · [GitHub](https://github.com/imlrz/InMind) · 组织维护
+⭐ 19 · Python · 推送 2026-07-30 · [GitHub](https://github.com/imlrz/InMind) · 组织维护
 
 **面向长记忆 agent 的 125 任务评测基准**
 
@@ -45,13 +45,13 @@ InMind 是一个评测长期记忆 agent 的基准数据集：检验 agent 能�
 
 ```mermaid
 xychart-beta
-    title "imlrz/InMind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "imlrz/InMind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

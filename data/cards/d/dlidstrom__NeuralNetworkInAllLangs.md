@@ -1,6 +1,6 @@
 # dlidstrom/NeuralNetworkInAllLangs
 
-⭐ 116 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dlidstrom/NeuralNetworkInAllLangs) · 个人维护
+⭐ 116 · Java · MIT · 推送 2026-11-12 · [GitHub](https://github.com/dlidstrom/NeuralNetworkInAllLangs) · 个人维护
 
 **用各主流语言实现的入门级全连接神经网络教学仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dlidstrom/NeuralNetworkInAllLangs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-11-02 116（+0）
+2026-10-18 116 → 2026-11-17 116（+0）
 
 
 ---

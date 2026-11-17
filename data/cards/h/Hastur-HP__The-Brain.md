@@ -1,6 +1,6 @@
 # Hastur-HP/The-Brain
 
-⭐ 35 · JavaScript · MIT · 推送 2026-03-23 · [GitHub](https://github.com/Hastur-HP/The-Brain) · 个人维护
+⭐ 39 · JavaScript · MIT · 推送 2026-03-23 · [GitHub](https://github.com/Hastur-HP/The-Brain) · 个人维护
 
 **多模态 RAG 仪表盘与 3D 知识图谱可视化应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hastur-HP/The-Brain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    title "Hastur-HP/The-Brain 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 40
+    line [33, 34, 35, 33, 38, 39, 39]
 ```
 
-2026-10-18 33 → 2026-11-02 35（+2）
+2026-10-18 33 → 2026-11-17 39（+6）
 
 
 ---

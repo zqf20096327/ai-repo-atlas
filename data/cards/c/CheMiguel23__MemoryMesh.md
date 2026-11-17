@@ -1,6 +1,6 @@
 # CheMiguel23/MemoryMesh
 
-⭐ 354 · TypeScript · MIT · 推送 2026-03-01 · [GitHub](https://github.com/CheMiguel23/MemoryMesh) · 个人维护
+⭐ 356 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/CheMiguel23/MemoryMesh) · 个人维护
 
 **为 AI 模型提供结构化记忆的 MCP 知识图谱服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CheMiguel23/MemoryMesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 353 --> 355
-    line [354, 354]
+    title "CheMiguel23/MemoryMesh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 353 --> 357
+    line [354, 355, 356, 356]
 ```
 
-2026-10-18 354 → 2026-11-02 354（+0）
+2026-10-18 354 → 2026-11-17 356（+2）
 
 
 ---

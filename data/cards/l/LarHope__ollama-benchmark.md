@@ -1,6 +1,6 @@
 # LarHope/ollama-benchmark
 
-⭐ 174 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/LarHope/ollama-benchmark) · 个人维护
+⭐ 175 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/LarHope/ollama-benchmark) · 个人维护
 
 **本地 Ollama 推理性能基准测试工具，输出 token/秒指标**
 
@@ -44,13 +44,13 @@ Python 编写的 LLM 推理基准测试 CLI 工具：连接本地 Ollama 服务�
 
 ```mermaid
 xychart-beta
-    title "LarHope/ollama-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 173 --> 175
-    line [174, 174]
+    title "LarHope/ollama-benchmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 173 --> 176
+    line [174, 175, 175]
 ```
 
-2026-10-18 174 → 2026-11-02 174（+0）
+2026-10-18 174 → 2026-11-17 175（+1）
 
 
 ---

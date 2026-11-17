@@ -1,6 +1,6 @@
 # huggingface/gym-pusht
 
-⭐ 207 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/gym-pusht) · 组织维护
+⭐ 211 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/gym-pusht) · 组织维护
 
 **PushT 推块任务的 Gymnasium 仿真环境，供强化学习训练评测**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的 Gymnasium 环境，实现 PushT 推块任务：圆形 age
 
 ```mermaid
 xychart-beta
-    title "huggingface/gym-pusht 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 203 --> 208
-    line [204, 205, 206, 207, 207]
+    title "huggingface/gym-pusht 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 203 --> 212
+    line [204, 205, 206, 207, 206, 210, 211, 211]
 ```
 
-2026-10-18 204 → 2026-11-02 207（+3）
+2026-10-18 204 → 2026-11-17 211（+7）
 
 
 ---

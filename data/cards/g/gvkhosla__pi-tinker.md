@@ -1,6 +1,6 @@
 # gvkhosla/pi-tinker
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/gvkhosla/pi-tinker) · [官网](https://www.npmjs.com/package/pi-tinker) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/gvkhosla/pi-tinker) · [官网](https://www.npmjs.com/package/pi-tinker) · 个人维护
 
 **在 Pi 内用 Tinker 微调开源模型的工具包，含托管训练流程**
 
@@ -45,12 +45,12 @@ Pi 编辑器的扩展包（pi-package），封装 Tinker 与 Tinker Cookbook 的
 ```mermaid
 xychart-beta
     title "gvkhosla/pi-tinker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

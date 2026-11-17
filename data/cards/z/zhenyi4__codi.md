@@ -1,6 +1,6 @@
 # zhenyi4/codi
 
-⭐ 111 · Python · 推送 2025-12-15 · [GitHub](https://github.com/zhenyi4/codi) · [官网](https://arxiv.org/abs/2502.21074) · 组织维护
+⭐ 112 · Python · 推送 2025-12-15 · [GitHub](https://github.com/zhenyi4/codi) · [官网](https://arxiv.org/abs/2502.21074) · 组织维护
 
 **EMNLP 2025 论文 CODI 官方实现：自蒸馏压缩思维链为连续潜变量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhenyi4/codi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 108 --> 112
-    line [109, 110, 111, 111]
+    title "zhenyi4/codi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 108 --> 113
+    line [109, 110, 111, 112, 112]
 ```
 
-2026-10-18 109 → 2026-11-02 111（+2）
+2026-10-18 109 → 2026-11-17 112（+3）
 
 
 ---

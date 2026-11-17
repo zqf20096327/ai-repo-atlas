@@ -1,6 +1,6 @@
 # alexpospekhov/searchstack-aeo
 
-⭐ 112 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/alexpospekhov/searchstack-aeo) · [官网](https://github.com/alexpospekhov/searchstack-aeo#readme) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/alexpospekhov/searchstack-aeo) · [官网](https://github.com/alexpospekhov/searchstack-aeo#readme) · 个人维护
 
 **面向 AI 原生创始人的 AEO/GEO/SEO 可见性监控 CLI**
 
@@ -45,13 +45,13 @@ Python 编写的命令行工具，用于监控网站在 Google、Google AI Overv
 
 ```mermaid
 xychart-beta
-    title "alexpospekhov/searchstack-aeo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 106 --> 113
-    line [107, 108, 110, 111, 112, 112]
+    title "alexpospekhov/searchstack-aeo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 106 --> 116
+    line [107, 108, 110, 111, 112, 110, 115, 115]
 ```
 
-2026-10-18 107 → 2026-11-02 112（+5）
+2026-10-18 107 → 2026-11-17 115（+8）
 
 
 ---

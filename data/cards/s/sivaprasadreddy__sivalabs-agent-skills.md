@@ -1,6 +1,6 @@
 # sivaprasadreddy/sivalabs-agent-skills
 
-⭐ 195 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sivaprasadreddy/sivalabs-agent-skills) · 个人维护
+⭐ 196 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sivaprasadreddy/sivalabs-agent-skills) · 个人维护
 
 **面向 AI 编码代理的 Spring Boot 技能/规范集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sivaprasadreddy/sivalabs-agent-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 188 --> 196
-    line [189, 190, 191, 193, 194, 195, 195]
+    title "sivaprasadreddy/sivalabs-agent-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 188 --> 197
+    line [189, 190, 191, 193, 194, 195, 190, 194, 195, 196, 196]
 ```
 
-2026-10-18 189 → 2026-11-02 195（+6）
+2026-10-18 189 → 2026-11-17 196（+7）
 
 
 ---

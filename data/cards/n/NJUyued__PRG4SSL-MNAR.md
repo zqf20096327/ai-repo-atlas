@@ -1,6 +1,6 @@
 # NJUyued/PRG4SSL-MNAR
 
-⭐ 76 · Python · 推送 2025-11-20 · [GitHub](https://github.com/NJUyued/PRG4SSL-MNAR) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **ICCV 2023 论文官方代码：MNAR 非随机缺失标签下的半监督学习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NJUyued/PRG4SSL-MNAR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-11-02 76（+0）
+2026-10-18 76 → 2026-11-15 76（+0）
 
 
 ---

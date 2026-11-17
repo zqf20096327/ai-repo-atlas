@@ -1,6 +1,6 @@
 # wyolet/relay
 
-⭐ 29 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/wyolet/relay) · [官网](https://docs.wyolet.com) · 组织维护
+⭐ 31 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/wyolet/relay) · [官网](https://docs.wyolet.com) · 组织维护
 
 **自托管 LLM 网关：统一端点路由多家提供商并管理密钥**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wyolet/relay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "wyolet/relay 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

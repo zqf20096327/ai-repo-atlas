@@ -1,6 +1,6 @@
 # byteyu2436/tidytalk
 
-⭐ 13 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/byteyu2436/tidytalk) · [官网](https://tidytalk.zayen.dev/) · 个人维护 · 中文 README
+⭐ 14 · Swift · MIT · 推送 2026-11-05 · [GitHub](https://github.com/byteyu2436/tidytalk) · [官网](https://tidytalk.zayen.dev/) · 个人维护 · 中文 README
 
 **Mac 本地语音输入工具：按住说话，松开得到整理后的文本**
 
@@ -45,13 +45,13 @@ macOS 菜单栏语音输入应用：按住快捷键说话，松开后本机完�
 
 ```mermaid
 xychart-beta
-    title "byteyu2436/tidytalk 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 5 --> 14
-    line [6, 11, 12, 13, 13]
+    title "byteyu2436/tidytalk 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 5 --> 15
+    line [6, 11, 12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-19 6 → 2026-11-02 13（+7）
+2026-10-19 6 → 2026-11-17 14（+8）
 
 
 ---

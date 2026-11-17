@@ -1,6 +1,6 @@
 # reVrost/go-openrouter
 
-⭐ 128 · Go · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/reVrost/go-openrouter) · 个人维护
+⭐ 127 · Go · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/reVrost/go-openrouter) · 个人维护
 
 **面向 Go 开发者的 OpenRouter API 非官方 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reVrost/go-openrouter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    title "reVrost/go-openrouter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 126 --> 129
+    line [128, 127, 127]
 ```
 
-2026-10-18 128 → 2026-11-02 128（+0）
+2026-10-18 128 → 2026-11-17 127（-1）
 
 
 ---

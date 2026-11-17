@@ -1,6 +1,6 @@
 # TecHub-life/techub
 
-⭐ 23 · Ruby · MIT · 推送 2026-10-19 · [GitHub](https://github.com/TecHub-life/techub) · [官网](https://techub.life) · 组织维护
+⭐ 23 · Ruby · MIT · 推送 2026-11-02 · [GitHub](https://github.com/TecHub-life/techub) · [官网](https://techub.life) · 组织维护
 
 **为 GitHub 用户生成 AI 交易卡片的 Rails Web 应用**
 
@@ -46,12 +46,12 @@ Rails 8 + SQLite 的 Web 应用，为 GitHub 个人资料生成 AI 辅助的交�
 ```mermaid
 xychart-beta
     title "TecHub-life/techub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

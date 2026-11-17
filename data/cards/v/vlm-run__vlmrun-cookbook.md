@@ -1,6 +1,6 @@
 # vlm-run/vlmrun-cookbook
 
-⭐ 312 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/vlm-run/vlmrun-cookbook) · [官网](https://docs.vlm.run/introduction) · 组织维护
+⭐ 313 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/vlm-run/vlmrun-cookbook) · [官网](https://docs.vlm.run/introduction) · 组织维护
 
 **VLM Run 平台的示例与教程集：图像/视频/文档结构化提取**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vlm-run/vlmrun-cookbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 310 --> 313
-    line [311, 312, 312]
+    title "vlm-run/vlmrun-cookbook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 310 --> 314
+    line [311, 312, 311, 312, 313, 313]
 ```
 
-2026-10-18 311 → 2026-11-02 312（+1）
+2026-10-18 311 → 2026-11-17 313（+2）
 
 
 ---

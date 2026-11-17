@@ -1,6 +1,6 @@
 # atakan-topaloglu/OracleGS
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/atakan-topaloglu/OracleGS) · [官网](https://atakan-topaloglu.github.io/oracle_gs/) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/atakan-topaloglu/OracleGS) · [官网](https://atakan-topaloglu.github.io/oracle_gs/) · 个人维护
 
 **稀疏视角 3D 高斯泼溅的论文参考实现（WACV'26 Oral）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atakan-topaloglu/OracleGS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "atakan-topaloglu/OracleGS 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 11, 13, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

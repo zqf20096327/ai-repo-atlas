@@ -1,6 +1,6 @@
 # IlhamriSKY/TEDI
 
-⭐ 169 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/IlhamriSKY/TEDI) · [官网](https://tedi.ilhamriski.com) · 个人维护
+⭐ 171 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/IlhamriSKY/TEDI) · [官网](https://tedi.ilhamriski.com) · 个人维护
 
 **八合一开发者工作台桌面应用：终端/SSH/编辑器/API 客户端/Git 加 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IlhamriSKY/TEDI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 167 --> 170
-    line [168, 169, 169]
+    title "IlhamriSKY/TEDI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 167 --> 172
+    line [168, 169, 168, 170, 171, 171]
 ```
 
-2026-10-18 168 → 2026-11-02 169（+1）
+2026-10-18 168 → 2026-11-17 171（+3）
 
 
 ---

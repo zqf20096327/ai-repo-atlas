@@ -1,6 +1,6 @@
 # video-db/videodb-cookbook
 
-⭐ 36 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/video-db/videodb-cookbook) · [官网](https://docs.videodb.io/build-with-videodb-35) · 组织维护
+⭐ 37 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/video-db/videodb-cookbook) · [官网](https://docs.videodb.io/build-with-videodb-35) · 组织维护
 
 **VideoDB SDK 的示例代码与教程合集：视频 AI 应用场景速查**
 
@@ -44,13 +44,13 @@ VideoDB 官方维护的 Cookbook 仓库，收录用 VideoDB SDK 解决常见任�
 
 ```mermaid
 xychart-beta
-    title "video-db/videodb-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "video-db/videodb-cookbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

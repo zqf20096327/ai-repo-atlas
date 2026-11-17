@@ -1,6 +1,6 @@
 # NaiveSteven/transformer
 
-⭐ 22 · TypeScript · 推送 2026-04-10 · [GitHub](https://github.com/NaiveSteven/transformer) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · 推送 2026-04-10 · [GitHub](https://github.com/NaiveSteven/transformer) · 个人维护 · 中文 README
 
 **本地 AI 实时对话翻译桌面应用：离线语音转写与互译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NaiveSteven/transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "NaiveSteven/transformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [22, 20, 20]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 20（-2）
 
 
 ---

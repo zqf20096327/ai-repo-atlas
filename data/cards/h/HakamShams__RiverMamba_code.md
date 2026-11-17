@@ -1,6 +1,6 @@
 # HakamShams/RiverMamba_code
 
-⭐ 21 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-02 · [GitHub](https://github.com/HakamShams/RiverMamba_code) · [官网](https://hakamshams.github.io/RiverMamba/) · 组织维护
+⭐ 22 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-02 · [GitHub](https://github.com/HakamShams/RiverMamba_code) · [官网](https://hakamshams.github.io/RiverMamba/) · 组织维护
 
 **全球河流径流与洪水预报的状态空间模型官方代码**
 
@@ -44,13 +44,13 @@ NeurIPS'25 论文 RiverMamba 的复现代码，由波恩大学计算机视觉组
 
 ```mermaid
 xychart-beta
-    title "HakamShams/RiverMamba_code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "HakamShams/RiverMamba_code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

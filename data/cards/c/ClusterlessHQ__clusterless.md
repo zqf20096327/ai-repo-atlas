@@ -1,6 +1,6 @@
 # ClusterlessHQ/clusterless
 
-⭐ 15 · Java · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/ClusterlessHQ/clusterless) · 组织维护
+⭐ 15 · Java · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/ClusterlessHQ/clusterless) · 组织维护
 
 **跨云部署事件驱动数据处理管线的 CLI 工具**
 
@@ -45,12 +45,12 @@ Clusterless 是一个去中心化、可扩展的数据管道部署工具，面�
 ```mermaid
 xychart-beta
     title "ClusterlessHQ/clusterless 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PabloNAX/ultracode-skill
 
-⭐ 192 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/PabloNAX/ultracode-skill) · 个人维护
+⭐ 196 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/PabloNAX/ultracode-skill) · 个人维护
 
 **给 Codex 等 AI 编码代理增加动态工作流层的技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PabloNAX/ultracode-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 189 --> 193
-    line [190, 192]
+    title "PabloNAX/ultracode-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 189 --> 197
+    line [190, 192, 190, 195, 196, 196]
 ```
 
-2026-10-18 190 → 2026-11-02 192（+2）
+2026-10-18 190 → 2026-11-17 196（+6）
 
 
 ---

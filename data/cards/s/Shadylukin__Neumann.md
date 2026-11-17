@@ -1,6 +1,6 @@
 # Shadylukin/Neumann
 
-⭐ 74 · Rust · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/Shadylukin/Neumann) · [官网](https://scrunchee.ai) · 个人维护
+⭐ 75 · Rust · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/Shadylukin/Neumann) · [官网](https://scrunchee.ai) · 个人维护
 
 **Rust 统一数据库：关系表、图与向量在同一存储层**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shadylukin/Neumann 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "Shadylukin/Neumann 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 73 --> 76
+    line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 75（+1）
 
 
 ---

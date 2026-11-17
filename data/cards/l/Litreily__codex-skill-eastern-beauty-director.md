@@ -1,6 +1,6 @@
 # Litreily/codex-skill-eastern-beauty-director
 
-⭐ 35 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/Litreily/codex-skill-eastern-beauty-director) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/Litreily/codex-skill-eastern-beauty-director) · 个人维护 · 中文 README
 
 **Codex 东方美人系列 AI 绘画提示词 Skill 包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Litreily/codex-skill-eastern-beauty-director 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
+    title "Litreily/codex-skill-eastern-beauty-director 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    line [33, 34, 35, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 35（+2）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

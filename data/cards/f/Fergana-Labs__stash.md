@@ -1,6 +1,6 @@
 # Fergana-Labs/stash
 
-⭐ 342 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Fergana-Labs/stash) · [官网](https://www.joinstash.ai) · 组织维护
+⭐ 343 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fergana-Labs/stash) · [官网](https://www.joinstash.ai) · 组织维护
 
 **让 coding agent 从历史经验中学习的知识与技能基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fergana-Labs/stash 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 336 --> 343
-    line [337, 338, 340, 339, 340, 342, 342]
+    title "Fergana-Labs/stash 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 336 --> 344
+    line [337, 338, 340, 339, 340, 342, 340, 342, 343, 343]
 ```
 
-2026-10-18 337 → 2026-11-02 342（+5）
+2026-10-18 337 → 2026-11-17 343（+6）
 
 
 ---

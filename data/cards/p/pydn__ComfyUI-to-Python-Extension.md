@@ -1,6 +1,6 @@
 # pydn/ComfyUI-to-Python-Extension
 
-⭐ 2,393 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/pydn/ComfyUI-to-Python-Extension) · 个人维护
+⭐ 2,394 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/pydn/ComfyUI-to-Python-Extension) · 个人维护
 
 **将 ComfyUI 可视化工作流导出为可执行 Python 脚本的扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pydn/ComfyUI-to-Python-Extension 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 2388 --> 2394
-    line [2389, 2391, 2392, 2391, 2392, 2391, 2393, 2393]
+    title "pydn/ComfyUI-to-Python-Extension 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 2388 --> 2396
+    line [2389, 2391, 2392, 2391, 2392, 2391, 2393, 2391, 2395, 2394, 2394]
 ```
 
-2026-10-18 2,389 → 2026-11-02 2,393（+4）
+2026-10-18 2,389 → 2026-11-17 2,394（+5）
 
 
 ---

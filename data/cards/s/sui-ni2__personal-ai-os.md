@@ -1,6 +1,6 @@
 # sui-ni2/personal-ai-os
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sui-ni2/personal-ai-os) · 个人维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sui-ni2/personal-ai-os) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 工作台：聊天、记忆、可审计工具与项目插件**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "sui-ni2/personal-ai-os 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "sui-ni2/personal-ai-os 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 57 --> 60
-    line [59, 58, 59]
+    line [59, 58, 59, 58, 59, 58, 58]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 58（-1）
 
 
 ---

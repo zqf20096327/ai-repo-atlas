@@ -1,6 +1,6 @@
 # paiml/python_for_datascience
 
-⭐ 44 · Jupyter Notebook · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/paiml/python_for_datascience) · [官网](https://paiml.github.io/python_for_datascience/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Python 数据科学视频课配套 Jupyter/Colab 笔记本集合**
 
@@ -11,7 +11,7 @@ Pragmatic AI Labs 为 Pearson 视频课程《Python for Data Science》制作的
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Pragmatic AI Labs 为 Pearson 视频课程《Python for Data Science》制作的
 ```mermaid
 xychart-beta
     title "paiml/python_for_datascience 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-07 44（+0）
 
 
 ---

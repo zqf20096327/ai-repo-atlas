@@ -1,6 +1,6 @@
 # Haruhiyuki/DesignCode
 
-⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/Haruhiyuki/DesignCode) · [官网](http://designcode.cc/) · 组织维护 · 中文 README
+⭐ 36 · JavaScript · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/Haruhiyuki/DesignCode) · [官网](http://designcode.cc/) · 组织维护 · 中文 README
 
 **Agent 驱动的平面设计工作台，对话生成可编辑设计稿**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haruhiyuki/DesignCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "Haruhiyuki/DesignCode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 36（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # FrancescoStabile/omnigent
 
-⭐ 34 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/FrancescoStabile/omnigent) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/FrancescoStabile/omnigent) · 个人维护
 
 **领域无关的自主 AI agent 构建框架，含 ReAct 循环与多 LLM 路由**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrancescoStabile/omnigent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "FrancescoStabile/omnigent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Natooz/MidiTok
 
-⭐ 906 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Natooz/MidiTok) · [官网](https://miditok.readthedocs.io/) · 个人维护
+⭐ 908 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Natooz/MidiTok) · [官网](https://miditok.readthedocs.io/) · 个人维护
 
 **面向深度学习的 MIDI/符号音乐分词 Python 库**
 
@@ -44,13 +44,13 @@ Python 库，将 MIDI 与 abc 文件转换为可输入 Transformer 等模型的 
 
 ```mermaid
 xychart-beta
-    title "Natooz/MidiTok 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 903 --> 907
-    line [904, 906, 906]
+    title "Natooz/MidiTok 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 903 --> 909
+    line [904, 906, 904, 906, 907, 908, 908]
 ```
 
-2026-10-18 904 → 2026-11-02 906（+2）
+2026-10-18 904 → 2026-11-17 908（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # sno-ai/llmix
 
-⭐ 128 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/sno-ai/llmix) · [官网](https://github.com/sno-ai/llmix) · 组织维护
+⭐ 128 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/sno-ai/llmix) · [官网](https://github.com/sno-ai/llmix) · 组织维护
 
 **给 AI agent 开发者的 LLM 调用治理层：缓存/重试/密钥池/热切换**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sno-ai/llmix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "sno-ai/llmix 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 126 --> 133
-    line [132, 127, 128, 128]
+    line [132, 127, 128, 132, 128, 128]
 ```
 
-2026-10-18 132 → 2026-11-02 128（-4）
+2026-10-18 132 → 2026-11-17 128（-4）
 
 
 ---

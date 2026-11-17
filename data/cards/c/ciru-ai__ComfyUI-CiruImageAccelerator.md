@@ -1,6 +1,6 @@
 # ciru-ai/ComfyUI-CiruImageAccelerator
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/ciru-ai/ComfyUI-CiruImageAccelerator) · [官网](https://registry.comfy.org/publishers/ciru/nodes/ciru-image-accelerator) · 组织维护
+⭐ 18 · Python · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/ciru-ai/ComfyUI-CiruImageAccelerator) · [官网](https://registry.comfy.org/publishers/ciru/nodes/ciru-image-accelerator) · 组织维护
 
 **AMD Strix Halo 上加速 Qwen Image 2.1 出图的 ComfyUI 节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ciru-ai/ComfyUI-CiruImageAccelerator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 19]
+    title "ciru-ai/ComfyUI-CiruImageAccelerator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [19, 20, 19, 20, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

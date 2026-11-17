@@ -1,6 +1,6 @@
 # joohw/clovapi
 
-⭐ 12 · Go · 推送 2026-09-21 · [GitHub](https://github.com/joohw/clovapi) · [官网](https://clovapi.com) · 个人维护 · 中文 README
+⭐ 13 · Go · 推送 2026-09-21 · [GitHub](https://github.com/joohw/clovapi) · [官网](https://clovapi.com) · 个人维护 · 中文 README
 
 **共享模型 API 网络：平台 Key 调用在线共享模型，CLI 做贡献节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "joohw/clovapi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "joohw/clovapi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

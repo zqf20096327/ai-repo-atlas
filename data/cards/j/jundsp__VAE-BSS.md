@@ -1,6 +1,6 @@
 # jundsp/VAE-BSS
 
-⭐ 48 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/jundsp/VAE-BSS) · 个人维护
+⭐ 48 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jundsp/VAE-BSS) · 个人维护
 
 **PyTorch VAE 实现的图像无监督盲源分离**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jundsp/VAE-BSS 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
+    x-axis ["2026-10-28", "2026-11-17"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-28 48 → 2026-11-02 48（+0）
+2026-10-28 48 → 2026-11-17 48（+0）
 
 
 ---

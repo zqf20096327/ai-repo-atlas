@@ -1,6 +1,6 @@
 # saezlab/mistyR
 
-⭐ 74 · R · GPL-3.0 · 推送 2026-01-15 · [GitHub](https://github.com/saezlab/mistyR) · [官网](https://saezlab.github.io/mistyR/) · 组织维护
+⭐ 76 · R · GPL-3.0 · 推送 2026-01-15 · [GitHub](https://github.com/saezlab/mistyR) · [官网](https://saezlab.github.io/mistyR/) · 组织维护
 
 **分析空间组学数据的可解释多视角机器学习框架（R 包）**
 
@@ -44,13 +44,13 @@ mistyR 是实现 MISTy 框架的 R/Bioconductor 包，面向单细胞高多重�
 
 ```mermaid
 xychart-beta
-    title "saezlab/mistyR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "saezlab/mistyR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [74, 76, 76]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 76（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # rosette-api/java
 
-⭐ 15 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rosette-api/java) · 组织维护
+⭐ 15 · Java · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/rosette-api/java) · 组织维护
 
 **面向 Java 开发者的 Babel Street Analytics API 客户端绑定库**
 
@@ -45,12 +45,12 @@ Babel Street（原 Rosette）Text Analytics 服务的官方 Java 客户端绑定
 ```mermaid
 xychart-beta
     title "rosette-api/java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

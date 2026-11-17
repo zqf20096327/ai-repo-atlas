@@ -1,6 +1,6 @@
 # andersondanieln/hexllama
 
-⭐ 24 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/andersondanieln/hexllama) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/andersondanieln/hexllama) · 个人维护
 
 **桌面客户端：管理并用 llama.cpp 运行本地 LLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andersondanieln/hexllama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "andersondanieln/hexllama 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23, 24, 23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

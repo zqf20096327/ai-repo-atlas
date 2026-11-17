@@ -1,6 +1,6 @@
 # baker27727/ds4-8gb-cpu
 
-⭐ 40 · C · MIT · 推送 2026-08-18 · [GitHub](https://github.com/baker27727/ds4-8gb-cpu) · 个人维护
+⭐ 41 · C · MIT · 推送 2026-08-18 · [GitHub](https://github.com/baker27727/ds4-8gb-cpu) · 个人维护
 
 **在 8GB RAM 无 GPU 的 Linux 上跑 78.62 GiB DeepSeek V4 Flash 的研究性推理 fork**
 
@@ -44,13 +44,13 @@ antirez/ds4（DwarfStar）的研究分支，验证在 7.7 GiB 物理内存、纯
 
 ```mermaid
 xychart-beta
-    title "baker27727/ds4-8gb-cpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "baker27727/ds4-8gb-cpu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

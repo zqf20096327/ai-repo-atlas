@@ -1,6 +1,6 @@
 # lylelllll/RelatedWorksAgent
 
-⭐ 16 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/lylelllll/RelatedWorksAgent) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/lylelllll/RelatedWorksAgent) · 个人维护 · 中文 README
 
 **本地优先的文献综述写作助手：上传论文生成相关工作章节与 Survey 草稿**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lylelllll/RelatedWorksAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "lylelllll/RelatedWorksAgent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

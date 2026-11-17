@@ -1,6 +1,6 @@
 # imedslab/solt
 
-⭐ 269 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/imedslab/solt) · [官网](https://imedslab.github.io/solt/) · 组织维护
+⭐ 269 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/imedslab/solt) · [官网](https://imedslab.github.io/solt/) · 组织维护
 
 **面向深度学习的数据增强库，支持图像、掩码与关键点**
 
@@ -45,12 +45,12 @@ Python 数据增强库 SOLT：以流式（Stream）方式组合旋转、裁剪�
 ```mermaid
 xychart-beta
     title "imedslab/solt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 267 --> 270
     line [268, 269, 269]
 ```
 
-2026-10-18 268 → 2026-11-02 269（+1）
+2026-10-18 268 → 2026-11-17 269（+1）
 
 
 ---

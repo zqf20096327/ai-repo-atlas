@@ -1,6 +1,6 @@
 # final-bench/ongrid
 
-⭐ 34 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/final-bench/ongrid) · [官网](https://huggingface.co/spaces/FINAL-Bench/ONGRID) · 组织维护 · 中文 README
+⭐ 36 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/final-bench/ongrid) · [官网](https://huggingface.co/spaces/FINAL-Bench/ONGRID) · 组织维护 · 中文 README
 
 **3D 本体知识图谱 GraphRAG 引擎，附零 token 答案真伪判定**
 
@@ -45,13 +45,13 @@ ONGRID 将上传文档解析为带类型实体与关系的本体图谱，以 thr
 
 ```mermaid
 xychart-beta
-    title "final-bench/ongrid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "final-bench/ongrid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 36, 36]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 36（+3）
 
 
 ---

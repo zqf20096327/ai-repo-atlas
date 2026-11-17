@@ -1,6 +1,6 @@
 # rsandx/AlphaSuite
 
-⭐ 247 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rsandx/AlphaSuite) · [官网](https://alphasuite.aitransformer.net) · 个人维护
+⭐ 248 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rsandx/AlphaSuite) · [官网](https://alphasuite.aitransformer.net) · 个人维护
 
 **面向交易者的开源量化分析与策略回测平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rsandx/AlphaSuite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 245 --> 248
-    line [246, 247, 247]
+    title "rsandx/AlphaSuite 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 245 --> 249
+    line [246, 247, 246, 247, 248, 248]
 ```
 
-2026-10-18 246 → 2026-11-02 247（+1）
+2026-10-18 246 → 2026-11-17 248（+2）
 
 
 ---

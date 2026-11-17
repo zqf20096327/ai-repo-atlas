@@ -1,6 +1,6 @@
 # langchain-ai/langchain-datastax
 
-⭐ 34 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-datastax) · [官网](https://python.langchain.com/docs/integrations/providers/astradb) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/langchain-ai/langchain-datastax) · [官网](https://python.langchain.com/docs/integrations/providers/astradb) · 组织维护
 
 **DataStax Astra DB 与 LangChain 的集成包**
 
@@ -42,13 +42,13 @@ langchain-ai 组织下的集成仓库，包含 1 个包：langchain-astradb，�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-datastax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-datastax 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 33 --> 36
-    line [35, 34, 34]
+    line [35, 34, 35, 34, 34]
 ```
 
-2026-10-18 35 → 2026-11-02 34（-1）
+2026-10-18 35 → 2026-11-17 34（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # speq-ai/speq
 
-⭐ 140 · MIT · 推送 2026-03-11 · [GitHub](https://github.com/speq-ai/speq) · [官网](https://speq-ai.github.io/speq/) · 组织维护
+⭐ 141 · MIT · 推送 2026-03-11 · [GitHub](https://github.com/speq-ai/speq) · [官网](https://speq-ai.github.io/speq/) · 组织维护
 
 **AI 辅助开发的声明式架构规范格式（.speq）**
 
@@ -44,13 +44,13 @@ SpeQ 定义一种 .speq 声明式规范格式，作为项目的架构契约：AI
 
 ```mermaid
 xychart-beta
-    title "speq-ai/speq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 139 --> 141
-    line [140, 140]
+    title "speq-ai/speq 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 142
+    line [140, 141, 141]
 ```
 
-2026-10-18 140 → 2026-11-02 140（+0）
+2026-10-18 140 → 2026-11-17 141（+1）
 
 
 ---

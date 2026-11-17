@@ -1,6 +1,6 @@
 # filonux/Bitacora-Dev
 
-⭐ 26 · HTML · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/filonux/Bitacora-Dev) · [官网](https://filonux.github.io/Bitacora-Dev/) · 个人维护
+⭐ 30 · HTML · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/filonux/Bitacora-Dev) · [官网](https://filonux.github.io/Bitacora-Dev/) · 个人维护
 
 **浏览器本地运行的项目日志工具：记录版本、决策与任务，AI 可选**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "filonux/Bitacora-Dev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "filonux/Bitacora-Dev 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 28, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

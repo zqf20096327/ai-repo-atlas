@@ -1,6 +1,6 @@
 # Devinterview-io/scikit-learn-interview-questions
 
-⭐ 38 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/scikit-learn-interview-questions) · 组织维护
+⭐ 39 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/scikit-learn-interview-questions) · 组织维护
 
 **面向求职者的 scikit-learn 面试题与答案合集（50 题）**
 
@@ -44,13 +44,13 @@ Devinterview.io 维护的机器学习面试准备资料仓库，收录 50 道 sc
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/scikit-learn-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "Devinterview-io/scikit-learn-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

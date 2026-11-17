@@ -1,6 +1,6 @@
 # georgeguimaraes/arcana
 
-⭐ 343 · Elixir · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/georgeguimaraes/arcana) · [官网](https://hexdocs.pm/arcana) · 个人维护
+⭐ 346 · Elixir · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/georgeguimaraes/arcana) · [官网](https://hexdocs.pm/arcana) · 个人维护
 
 **可嵌入 Elixir/Phoenix 应用的 RAG 库，含 agentic 流水线与仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgeguimaraes/arcana 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 340 --> 344
-    line [341, 342, 343]
+    title "georgeguimaraes/arcana 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 340 --> 347
+    line [341, 342, 343, 341, 344, 345, 346, 346]
 ```
 
-2026-10-18 341 → 2026-11-02 343（+2）
+2026-10-18 341 → 2026-11-17 346（+5）
 
 
 ---

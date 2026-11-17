@@ -1,6 +1,6 @@
 # alexdevassy/Machine_Learning_CTF_Challenges
 
-⭐ 276 · Python · 推送 2026-05-13 · [GitHub](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) · 个人维护
+⭐ 279 · Python · 推送 2026-05-13 · [GitHub](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) · 个人维护
 
 **AI/ML 安全攻防的 CTF 挑战集合（9 题，三类）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexdevassy/Machine_Learning_CTF_Challenges 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 273 --> 277
-    line [274, 275, 276, 276]
+    title "alexdevassy/Machine_Learning_CTF_Challenges 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 273 --> 280
+    line [274, 275, 276, 275, 278, 279, 279]
 ```
 
-2026-10-18 274 → 2026-11-02 276（+2）
+2026-10-18 274 → 2026-11-17 279（+5）
 
 
 ---

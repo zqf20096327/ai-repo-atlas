@@ -1,6 +1,6 @@
 # FasterAI-Labs/fasterai
 
-⭐ 269 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/FasterAI-Labs/fasterai) · [官网](https://fasterai-labs.github.io/fasterai/) · 个人维护
+⭐ 270 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/FasterAI-Labs/fasterai) · [官网](https://fasterai-labs.github.io/fasterai/) · 个人维护
 
 **基于 PyTorch/FastAI 的模型压缩库：剪枝、蒸馏、量化、稀疏化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FasterAI-Labs/fasterai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 268 --> 270
-    line [269, 269]
+    title "FasterAI-Labs/fasterai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 268 --> 271
+    line [269, 270, 270]
 ```
 
-2026-10-18 269 → 2026-11-02 269（+0）
+2026-10-18 269 → 2026-11-17 270（+1）
 
 
 ---

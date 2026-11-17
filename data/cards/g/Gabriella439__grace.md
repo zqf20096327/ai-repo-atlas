@@ -1,6 +1,6 @@
 # Gabriella439/grace
 
-⭐ 623 · Haskell · BSD-3-Clause · 推送 2026-08-31 · [GitHub](https://github.com/Gabriella439/grace) · [官网](https://trygrace.dev/) · 个人维护
+⭐ 624 · Haskell · BSD-3-Clause · 推送 2026-08-31 · [GitHub](https://github.com/Gabriella439/grace) · [官网](https://trygrace.dev/) · 个人维护
 
 **面向提示工程的函数式 DSL，构建与生成提示链**
 
@@ -44,13 +44,13 @@ Grace（Fall-from-Grace）是一门用于提示模型的领域专用函数式编
 
 ```mermaid
 xychart-beta
-    title "Gabriella439/grace 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-02"]
+    title "Gabriella439/grace 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
     y-axis "stars" 620 --> 625
-    line [621, 622, 623, 624, 623, 623]
+    line [621, 622, 623, 624, 623, 624, 623, 624, 624]
 ```
 
-2026-10-18 621 → 2026-11-02 623（+2）
+2026-10-18 621 → 2026-11-17 624（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/aloha_sim
 
-⭐ 319 · Python · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/google-deepmind/aloha_sim) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Aloha 机器人的 MuJoCo 桌面任务仿真与评测环境库**
 
@@ -11,7 +11,7 @@ DeepMind 维护的 Python 库，为 Aloha 桌面机器人定义 MuJoCo 仿真环
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ DeepMind 维护的 Python 库，为 Aloha 桌面机器人定义 MuJoCo 仿真环
 ```mermaid
 xychart-beta
     title "google-deepmind/aloha_sim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08"]
     y-axis "stars" 318 --> 321
     line [320, 319, 319]
 ```
 
-2026-10-18 320 → 2026-11-02 319（-1）
+2026-10-18 320 → 2026-11-08 319（-1）
 
 
 ---

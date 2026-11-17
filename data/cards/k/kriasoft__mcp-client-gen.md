@@ -1,6 +1,6 @@
 # kriasoft/mcp-client-gen
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/kriasoft/mcp-client-gen) · [官网](https://medium.com/@koistya/why-i-built-mcp-client-generator-and-why-you-should-care-c860193ca902) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/kriasoft/mcp-client-gen) · [官网](https://medium.com/@koistya/why-i-built-mcp-client-generator-and-why-you-should-care-c860193ca902) · 个人维护
 
 **把远程 MCP 服务器生成为类型安全的 TypeScript SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kriasoft/mcp-client-gen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "kriasoft/mcp-client-gen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

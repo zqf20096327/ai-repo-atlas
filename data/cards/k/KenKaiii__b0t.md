@@ -1,6 +1,6 @@
 # KenKaiii/b0t
 
-⭐ 28 · TypeScript · 推送 2025-11-22 · [GitHub](https://github.com/KenKaiii/b0t) · [官网](https://www.youtube.com/kenkaidoesai) · 个人维护
+⭐ 29 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/KenKaiii/b0t) · [官网](https://www.skool.com/raid) · 个人维护
 
 **用自然语言对话创建自动化工作流的自托管平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KenKaiii/b0t 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "KenKaiii/b0t 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

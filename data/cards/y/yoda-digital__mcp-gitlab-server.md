@@ -1,6 +1,6 @@
 # yoda-digital/mcp-gitlab-server
 
-⭐ 65 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/yoda-digital/mcp-gitlab-server) · [官网](https://opensource.yoda.digital/en/projects/mcp-gitlab-server/) · 组织维护
+⭐ 66 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/yoda-digital/mcp-gitlab-server) · [官网](https://opensource.yoda.digital/en/projects/mcp-gitlab-server/) · 组织维护
 
 **面向 AI agent 的 GitLab MCP 服务器，86 个工具直连 GitLab API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoda-digital/mcp-gitlab-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    title "yoda-digital/mcp-gitlab-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 64 --> 67
+    line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 66（+1）
 
 
 ---

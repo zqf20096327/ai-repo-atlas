@@ -1,6 +1,6 @@
 # lowcort1sol/ida-x64dbg-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/lowcort1sol/ida-x64dbg-mcp) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/lowcort1sol/ida-x64dbg-mcp) · 个人维护
 
 **连接 Codex 等 AI agent 与 IDA Pro/x64dbg 的本地 MCP 逆向工程平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lowcort1sol/ida-x64dbg-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "lowcort1sol/ida-x64dbg-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

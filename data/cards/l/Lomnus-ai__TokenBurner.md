@@ -1,6 +1,6 @@
 # Lomnus-ai/TokenBurner
 
-⭐ 173 · MIT · 推送 2026-05-03 · [GitHub](https://github.com/Lomnus-ai/TokenBurner) · 组织维护
+⭐ 174 · MIT · 推送 2026-05-03 · [GitHub](https://github.com/Lomnus-ai/TokenBurner) · 组织维护
 
 **Claude Code 技能：按需在扩展思考中消耗 token 的负载工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lomnus-ai/TokenBurner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 172 --> 174
-    line [173, 173]
+    title "Lomnus-ai/TokenBurner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 172 --> 175
+    line [173, 174, 174]
 ```
 
-2026-10-18 173 → 2026-11-02 173（+0）
+2026-10-18 173 → 2026-11-17 174（+1）
 
 
 ---

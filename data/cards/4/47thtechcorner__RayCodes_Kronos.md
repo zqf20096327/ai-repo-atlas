@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_Kronos
 
-⭐ 39 · Python · 推送 2026-07-28 · [GitHub](https://github.com/47thtechcorner/RayCodes_Kronos) · [官网](https://youtu.be/AdtyZJ7rxsk) · 个人维护
+⭐ 41 · Python · 推送 2026-07-28 · [GitHub](https://github.com/47thtechcorner/RayCodes_Kronos) · [官网](https://youtu.be/AdtyZJ7rxsk) · 个人维护
 
 **面向印度散户的 K 线预测与本地 LLM 解读顾问**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "47thtechcorner/RayCodes_Kronos 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 37, 38, 39, 39]
+    title "47thtechcorner/RayCodes_Kronos 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 37, 38, 39, 38, 40, 41, 41]
 ```
 
-2026-10-18 37 → 2026-11-02 39（+2）
+2026-10-18 37 → 2026-11-17 41（+4）
 
 
 ---

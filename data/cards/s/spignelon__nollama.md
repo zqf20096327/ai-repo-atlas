@@ -1,6 +1,6 @@
 # spignelon/nollama
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/spignelon/nollama) · [官网](https://pypi.org/project/nollama/) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/spignelon/nollama) · [官网](https://pypi.org/project/nollama/) · 个人维护
 
 **终端多 LLM 聊天界面：统一接入 8 家模型供应商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spignelon/nollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "spignelon/nollama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

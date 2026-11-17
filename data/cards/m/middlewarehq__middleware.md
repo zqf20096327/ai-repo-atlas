@@ -1,6 +1,6 @@
 # middlewarehq/middleware
 
-⭐ 1,631 · TypeScript · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/middlewarehq/middleware) · [官网](https://middlewarehq.com) · 组织维护
+⭐ 1,633 · TypeScript · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/middlewarehq/middleware) · [官网](https://middlewarehq.com) · 组织维护
 
 **面向工程管理者的开源 DORA 指标度量与分析平台**
 
@@ -44,13 +44,13 @@ Middleware 帮助工程负责人度量与分析团队效能：通过 PAT 令牌�
 
 ```mermaid
 xychart-beta
-    title "middlewarehq/middleware 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1629 --> 1633
-    line [1630, 1631, 1632, 1631]
+    title "middlewarehq/middleware 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1629 --> 1634
+    line [1630, 1631, 1632, 1631, 1633, 1633]
 ```
 
-2026-10-18 1,630 → 2026-11-02 1,631（+1）
+2026-10-18 1,630 → 2026-11-17 1,633（+3）
 
 
 ---

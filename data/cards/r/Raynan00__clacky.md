@@ -1,6 +1,6 @@
 # Raynan00/clacky
 
-⭐ 68 · Python · NOASSERTION · 推送 2026-07-10 · [GitHub](https://github.com/Raynan00/clacky) · 个人维护
+⭐ 71 · Python · NOASSERTION · 推送 2026-07-10 · [GitHub](https://github.com/Raynan00/clacky) · 个人维护
 
 **Windows 语音桌面 AI 伙伴：看屏幕、指向并代操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Raynan00/clacky 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 65 --> 69
-    line [66, 67, 68]
+    title "Raynan00/clacky 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 65 --> 72
+    line [66, 67, 68, 66, 69, 70, 71, 71]
 ```
 
-2026-10-18 66 → 2026-11-02 68（+2）
+2026-10-18 66 → 2026-11-17 71（+5）
 
 
 ---

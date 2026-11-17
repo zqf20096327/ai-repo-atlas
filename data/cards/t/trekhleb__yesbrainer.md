@@ -1,6 +1,6 @@
 # trekhleb/yesbrainer
 
-⭐ 38 · HTML · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/trekhleb/yesbrainer) · [官网](https://yesbrainer.ai) · 个人维护
+⭐ 37 · HTML · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/trekhleb/yesbrainer) · [官网](https://yesbrainer.ai) · 个人维护
 
 **浏览器端多模型议事应用：一个问题并发多模型辩论出共识或裁决**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trekhleb/yesbrainer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [39, 38, 38]
+    title "trekhleb/yesbrainer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [39, 38, 37, 37]
 ```
 
-2026-10-18 39 → 2026-11-02 38（-1）
+2026-10-18 39 → 2026-11-17 37（-2）
 
 
 ---

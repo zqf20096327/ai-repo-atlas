@@ -1,6 +1,6 @@
 # singhpratech/ferrovec
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/singhpratech/ferrovec) · [官网](https://singhpratech.github.io/ferrovec/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/singhpratech/ferrovec) · [官网](https://singhpratech.github.io/ferrovec/) · 个人维护
 
 **浏览器内持久化向量库：Rust→WASM HNSW 引擎，OPFS 落盘、跨标签页一致**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "singhpratech/ferrovec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "singhpratech/ferrovec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 17（-1）
 
 
 ---

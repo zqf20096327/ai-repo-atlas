@@ -1,6 +1,6 @@
 # deepdave98/jev-playground
 
-⭐ 32 · Python · 推送 2026-10-16 · [GitHub](https://github.com/deepdave98/jev-playground) · 个人维护
+⭐ 33 · Python · 推送 2026-10-16 · [GitHub](https://github.com/deepdave98/jev-playground) · 个人维护
 
 **Jev 的 GTM 工作流实验场：数据集、提示词与基准结果**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepdave98/jev-playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "deepdave98/jev-playground 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

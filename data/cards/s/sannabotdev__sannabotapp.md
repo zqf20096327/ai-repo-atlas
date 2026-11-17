@@ -1,6 +1,6 @@
 # sannabotdev/sannabotapp
 
-⭐ 46 · TypeScript · 推送 2026-03-27 · [GitHub](https://github.com/sannabotdev/sannabotapp) · 组织维护
+⭐ 51 · TypeScript · 推送 2026-03-27 · [GitHub](https://github.com/sannabotdev/sannabotapp) · 组织维护
 
 **Android 语音 AI 助手：通过 LLM agent 循环直接操控手机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sannabotdev/sannabotapp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 39 --> 47
-    line [40, 41, 44, 45, 46, 46]
+    title "sannabotdev/sannabotapp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 39 --> 52
+    line [40, 41, 44, 45, 46, 44, 47, 49, 50, 51, 51]
 ```
 
-2026-10-18 40 → 2026-11-02 46（+6）
+2026-10-18 40 → 2026-11-17 51（+11）
 
 
 ---

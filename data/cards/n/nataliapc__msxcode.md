@@ -1,6 +1,6 @@
 # nataliapc/msxcode
 
-⭐ 15 · C · GPL-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/nataliapc/msxcode) · 个人维护
+⭐ 16 · C · GPL-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/nataliapc/msxcode) · 个人维护
 
 **MSX2 8 位机上的 AI 聊天客户端，连接 OpenAI 兼容 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nataliapc/msxcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "nataliapc/msxcode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

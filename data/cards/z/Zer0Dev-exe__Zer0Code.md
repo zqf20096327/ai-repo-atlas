@@ -1,6 +1,6 @@
 # Zer0Dev-exe/Zer0Code
 
-⭐ 24 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Zer0Dev-exe/Zer0Code) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **编排 Claude Code/Codex/Gemini CLI 的多端代码代理指挥台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zer0Dev-exe/Zer0Code 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
+    title "Zer0Dev-exe/Zer0Code 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 4 --> 25
-    line [5, 6, 16, 19, 24]
+    line [5, 6, 16, 19, 24, 5, 5]
 ```
 
-2026-10-23 5 → 2026-11-02 24（+19）
+2026-10-23 5 → 2026-11-07 5（+0）
 
 
 ---

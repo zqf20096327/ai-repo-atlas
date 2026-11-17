@@ -1,6 +1,6 @@
 # philfung/perplexed
 
-⭐ 148 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/philfung/perplexed) · [官网](https://philfung.github.io/perplexed) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开源 Perplexity 式 AI 网页搜索问答应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "philfung/perplexed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-11-02 148（+0）
+2026-10-18 148 → 2026-11-14 148（+0）
 
 
 ---

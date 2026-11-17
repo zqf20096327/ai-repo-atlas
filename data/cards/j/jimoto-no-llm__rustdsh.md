@@ -1,6 +1,6 @@
 # jimoto-no-llm/rustdsh
 
-⭐ 100 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jimoto-no-llm/rustdsh) · [官网](https://jimoto-no-llm.github.io/rustdsh/) · 个人维护 · 中文 README
+⭐ 107 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jimoto-no-llm/rustdsh) · [官网](https://jimoto-no-llm.github.io/rustdsh/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Rust 启动器/微型编排器，加速本地 LLM agent 运行**
 
@@ -39,6 +39,18 @@ rdsh 是 DeepSeek Harness (dsh) 的 Rust 实现 launcher：非原生子命令透
 
 > L18: `rdsh` is a Rust micro-orchestrator for local LLM agents: it bundles the operational surface — web search, session 
 > L20: The delegated harness sits behind a swappable adapter layer; the bundled DeepSeek Harness (`dsh`) adapter delegates
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jimoto-no-llm/rustdsh 星数(近 6 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 99 --> 109
+    line [100, 105, 106, 108, 107, 107]
+```
+
+2026-11-02 100 → 2026-11-17 107（+7）
 
 
 ---

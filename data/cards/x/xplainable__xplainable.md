@@ -1,6 +1,6 @@
 # xplainable/xplainable
 
-⭐ 66 · Python · AGPL-3.0 · 推送 2026-07-23 · [GitHub](https://github.com/xplainable/xplainable) · [官网](https://www.xplainable.io) · 组织维护
+⭐ 67 · Python · AGPL-3.0 · 推送 2026-07-23 · [GitHub](https://github.com/xplainable/xplainable) · [官网](https://www.xplainable.io) · 组织维护
 
 **表格机器学习库：模型自带逐特征贡献的实时可解释预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xplainable/xplainable 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "xplainable/xplainable 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 67（+2）
 
 
 ---

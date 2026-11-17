@@ -1,6 +1,6 @@
 # maotoumao/Cebian
 
-⭐ 178 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/maotoumao/Cebian) · [官网](https://cebian.catcat.work) · 个人维护 · 中文 README
+⭐ 185 · TypeScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/maotoumao/Cebian) · [官网](https://cebian.catcat.work) · 个人维护 · 中文 README
 
 **浏览器侧边栏 AI 助手扩展：自带 API Key 即装即用**
 
@@ -44,13 +44,13 @@ Chrome/Edge/Firefox 浏览器侧边栏 AI 助手扩展，面向普通用户：�
 
 ```mermaid
 xychart-beta
-    title "maotoumao/Cebian 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 168 --> 179
-    line [169, 171, 175, 176, 177, 178, 178]
+    title "maotoumao/Cebian 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 168 --> 187
+    line [169, 171, 175, 176, 177, 178, 177, 181, 183, 185, 186, 185, 185]
 ```
 
-2026-10-18 169 → 2026-11-02 178（+9）
+2026-10-18 169 → 2026-11-17 185（+16）
 
 
 ---

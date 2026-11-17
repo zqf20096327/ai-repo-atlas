@@ -1,6 +1,6 @@
 # SherylHYX/pytorch_geometric_signed_directed
 
-⭐ 150 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/SherylHYX/pytorch_geometric_signed_directed) · [官网](https://pytorch-geometric-signed-directed.readthedocs.io/en/latest/) · 组织维护
+⭐ 149 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/SherylHYX/pytorch_geometric_signed_directed) · [官网](https://pytorch-geometric-signed-directed.readthedocs.io/en/latest/) · 组织维护
 
 **PyTorch Geometric 的符号/有向图神经网络扩展库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SherylHYX/pytorch_geometric_signed_directed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 149 --> 151
-    line [150, 150]
+    title "SherylHYX/pytorch_geometric_signed_directed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 148 --> 151
+    line [150, 149, 149]
 ```
 
-2026-10-18 150 → 2026-11-02 150（+0）
+2026-10-18 150 → 2026-11-17 149（-1）
 
 
 ---

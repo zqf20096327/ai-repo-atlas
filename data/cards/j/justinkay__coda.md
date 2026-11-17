@@ -1,6 +1,6 @@
 # justinkay/coda
 
-⭐ 17 · Python · 推送 2026-09-15 · [GitHub](https://github.com/justinkay/coda) · 个人维护
+⭐ 19 · Python · 推送 2026-11-16 · [GitHub](https://github.com/justinkay/coda) · 个人维护
 
 **减少标注量的主动模型选择方法（ICCV 2025）**
 
@@ -44,13 +44,13 @@ ICCV 2025 Highlight 论文 CODA 的官方实现：针对候选模型池（如 Hu
 
 ```mermaid
 xychart-beta
-    title "justinkay/coda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "justinkay/coda 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

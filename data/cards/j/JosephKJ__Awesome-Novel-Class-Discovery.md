@@ -1,6 +1,6 @@
 # JosephKJ/Awesome-Novel-Class-Discovery
 
-⭐ 538 · 推送 2026-09-04 · [GitHub](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery) · 个人维护
+⭐ 539 · 推送 2026-09-04 · [GitHub](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery) · 个人维护
 
 **Novel Class Discovery 研究论文清单：面向科研人员**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JosephKJ/Awesome-Novel-Class-Discovery 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 534 --> 539
-    line [535, 536, 537, 536, 535, 537, 538, 538]
+    title "JosephKJ/Awesome-Novel-Class-Discovery 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 534 --> 540
+    line [535, 536, 537, 536, 535, 537, 538, 535, 538, 539, 539]
 ```
 
-2026-10-18 535 → 2026-11-02 538（+3）
+2026-10-18 535 → 2026-11-17 539（+4）
 
 
 ---

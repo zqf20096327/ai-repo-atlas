@@ -1,6 +1,6 @@
 # eobarretooo/ClawLite
 
-⭐ 51 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/eobarretooo/ClawLite) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/eobarretooo/ClawLite) · 个人维护
 
 **本地优先的 Linux 自主 AI 助手，多渠道接入与自愈运行时**
 
@@ -44,13 +44,13 @@ Python 编写的本地优先自主 AI agent：通过 LiteLLM 接入 20+ LLM 提�
 
 ```mermaid
 xychart-beta
-    title "eobarretooo/ClawLite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "eobarretooo/ClawLite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

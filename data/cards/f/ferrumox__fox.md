@@ -1,6 +1,6 @@
 # ferrumox/fox
 
-⭐ 190 · Rust · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/ferrumox/fox) · [官网](https://ferrumox.com) · 组织维护
+⭐ 191 · Rust · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/ferrumox/fox) · [官网](https://ferrumox.com) · 组织维护
 
 **面向并发场景的本地 LLM 服务器，Ollama 的替换品**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ferrumox/fox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "ferrumox/fox 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-17"]
     y-axis "stars" 189 --> 192
-    line [191, 190, 190]
+    line [191, 190, 191, 191]
 ```
 
-2026-10-18 191 → 2026-11-02 190（-1）
+2026-10-18 191 → 2026-11-17 191（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kgarbacinski/AutoViralAI
 
-⭐ 44 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/kgarbacinski/AutoViralAI) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/kgarbacinski/AutoViralAI) · 个人维护
 
 **自主运营 Threads 账号的 AI 内容代理：研究热点、生成、发布、自学习**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kgarbacinski/AutoViralAI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 40 --> 45
-    line [41, 42, 43, 44, 44]
+    title "kgarbacinski/AutoViralAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 48
+    line [41, 42, 43, 44, 43, 46, 47, 47]
 ```
 
-2026-10-18 41 → 2026-11-02 44（+3）
+2026-10-18 41 → 2026-11-17 47（+6）
 
 
 ---

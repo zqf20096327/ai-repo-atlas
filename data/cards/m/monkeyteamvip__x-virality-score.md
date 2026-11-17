@@ -1,6 +1,6 @@
 # monkeyteamvip/x-virality-score
 
-⭐ 32 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/monkeyteamvip/x-virality-score) · [官网](https://monkeyteamvip.github.io/kiosa-board/) · 个人维护
+⭐ 36 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/monkeyteamvip/x-virality-score) · [官网](https://monkeyteamvip.github.io/kiosa-board/) · 个人维护
 
 **面向 X 创作者的每日爆款摘要与自托管仪表盘工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "monkeyteamvip/x-virality-score 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 27 --> 33
-    line [28, 29, 32, 32]
+    title "monkeyteamvip/x-virality-score 星数(近 7 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 27 --> 37
+    line [28, 29, 32, 34, 35, 36, 36]
 ```
 
-2026-10-28 28 → 2026-11-02 32（+4）
+2026-10-28 28 → 2026-11-17 36（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # maemreyo/omnivoice-server
 
-⭐ 93 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/maemreyo/omnivoice-server) · 个人维护
+⭐ 93 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/maemreyo/omnivoice-server) · 个人维护
 
 **OmniVoice TTS 模型的 OpenAI 兼容 HTTP 服务封装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maemreyo/omnivoice-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 91 --> 94
     line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-11-02 93（+1）
+2026-10-18 92 → 2026-11-17 93（+1）
 
 
 ---

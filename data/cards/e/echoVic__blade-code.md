@@ -1,6 +1,6 @@
 # echoVic/blade-code
 
-⭐ 180 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/echoVic/blade-code) · [官网](https://echovic.github.io/blade-code/) · 个人维护 · 中文 README
+⭐ 181 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/echoVic/blade-code) · [官网](https://echovic.github.io/blade-code/) · 个人维护 · 中文 README
 
 **终端/Web/无头三模式的 AI 编程 Agent CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "echoVic/blade-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
+    title "echoVic/blade-code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 179 --> 182
-    line [180, 181, 180, 180]
+    line [180, 181, 180, 181, 181]
 ```
 
-2026-10-18 180 → 2026-11-02 180（+0）
+2026-10-18 180 → 2026-11-17 181（+1）
 
 
 ---

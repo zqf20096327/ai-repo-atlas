@@ -1,6 +1,6 @@
 # rwliebs/Dossier
 
-⭐ 88 · TypeScript · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/rwliebs/Dossier) · [官网](http://www.dossierbuilds.app) · 个人维护
+⭐ 88 · TypeScript · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/rwliebs/Dossier) · [官网](http://www.dossierbuilds.app) · 个人维护
 
 **AI 编码产品的可视化规划与上下文管理平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rwliebs/Dossier 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "rwliebs/Dossier 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 87 --> 90
-    line [89, 88, 88]
+    line [89, 88, 89, 88, 88]
 ```
 
-2026-10-18 89 → 2026-11-02 88（-1）
+2026-10-18 89 → 2026-11-17 88（-1）
 
 
 ---

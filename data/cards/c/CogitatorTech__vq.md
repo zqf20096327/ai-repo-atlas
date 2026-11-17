@@ -1,6 +1,6 @@
 # CogitatorTech/vq
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/CogitatorTech/vq) · [官网](https://cogitatortech.github.io/vq/) · 组织维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/CogitatorTech/vq) · [官网](https://cogitatortech.github.io/vq/) · 组织维护
 
 **Rust 向量量化库：压缩高维嵌入向量以省存提速**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CogitatorTech/vq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

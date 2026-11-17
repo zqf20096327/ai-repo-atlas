@@ -1,6 +1,6 @@
 # hasso5703/alzeo
 
-⭐ 245 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hasso5703/alzeo) · [官网](https://hasso5703.github.io/) · 个人维护
+⭐ 268 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hasso5703/alzeo) · [官网](https://alzeo.ai) · 个人维护
 
 **把 DGX Spark/GB10 设备一键变成本地 AI 服务器**
 
@@ -40,6 +40,18 @@
 > L1: # Alzeo: one command turns a DGX Spark into a private AI server
 > L79: One command installs a boot-persistent, hardened serving stack on a single DGX Spark,
 > L107: Whatever the target, you get the same surface: an **OpenAI-compatible API** and the Anthropic protocol on port 300
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hasso5703/alzeo 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 243 --> 270
+    line [245, 252, 257, 258, 259, 264, 265, 267, 268, 268]
+```
+
+2026-11-02 245 → 2026-11-17 268（+23）
 
 
 ---

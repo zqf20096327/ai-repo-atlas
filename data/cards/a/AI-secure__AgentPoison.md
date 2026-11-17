@@ -1,6 +1,6 @@
 # AI-secure/AgentPoison
 
-⭐ 250 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AI-secure/AgentPoison) · [官网](https://billchan226.github.io/AgentPoison) · 组织维护
+⭐ 257 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AI-secure/AgentPoison) · [官网](https://billchan226.github.io/AgentPoison) · 组织维护
 
 **对 LLM Agent 做记忆/知识库后门投毒攻击的红队研究实现**
 
@@ -46,13 +46,13 @@ NeurIPS 2024 论文 AgentPoison 的官方 PyTorch 实现：面向科研人员，
 
 ```mermaid
 xychart-beta
-    title "AI-secure/AgentPoison 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 247 --> 251
-    line [248, 249, 250, 250]
+    title "AI-secure/AgentPoison 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 247 --> 258
+    line [248, 249, 250, 255, 256, 257, 257]
 ```
 
-2026-10-18 248 → 2026-11-02 250（+2）
+2026-10-18 248 → 2026-11-17 257（+9）
 
 
 ---

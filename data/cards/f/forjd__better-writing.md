@@ -1,6 +1,6 @@
 # forjd/better-writing
 
-⭐ 52 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/forjd/better-writing) · [官网](https://skills.sh/forjd/better-writing) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/forjd/better-writing) · [官网](https://skills.sh/forjd/better-writing) · 个人维护
 
 **让 agent 改写文稿的技能：去 AI 腔、保留事实与作者声音**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "forjd/better-writing 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 43 --> 53
-    line [44, 45, 47, 49, 50, 52]
+    title "forjd/better-writing 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 43 --> 58
+    line [44, 45, 47, 49, 50, 52, 45, 55, 56, 57, 57]
 ```
 
-2026-10-18 44 → 2026-11-02 52（+8）
+2026-10-18 44 → 2026-11-17 57（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # portdeveloper/docusaurus-plugin-copy-page-button
 
-⭐ 17 · JavaScript · 推送 2026-10-12 · [GitHub](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) · [官网](https://www.npmjs.com/package/docusaurus-plugin-copy-page-button) · 个人维护
+⭐ 19 · JavaScript · 推送 2026-11-10 · [GitHub](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) · [官网](https://www.npmjs.com/package/docusaurus-plugin-copy-page-button) · 个人维护
 
 **Docusaurus 文档站插件：一键复制/导出页面为 Markdown 供 AI 工具使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "portdeveloper/docusaurus-plugin-copy-page-button 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "portdeveloper/docusaurus-plugin-copy-page-button 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

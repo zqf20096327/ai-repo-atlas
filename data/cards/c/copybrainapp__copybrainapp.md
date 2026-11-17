@@ -1,6 +1,6 @@
 # copybrainapp/copybrainapp
 
-⭐ 40 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/copybrainapp/copybrainapp) · [官网](https://www.copybrainapp.xyz/) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/copybrainapp/copybrainapp) · [官网](https://www.copybrainapp.xyz/) · 个人维护
 
 **跨平台桌面剪贴板历史归档工具，本地时间线可搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "copybrainapp/copybrainapp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "copybrainapp/copybrainapp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

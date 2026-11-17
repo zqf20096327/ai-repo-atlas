@@ -1,6 +1,6 @@
 # leeguooooo/mail-use
 
-⭐ 47 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/leeguooooo/mail-use) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/leeguooooo/mail-use) · 个人维护 · 中文 README
 
 **让 AI agent 操作邮箱的 CLI/MCP 工具：收发搜索管理邮件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leeguooooo/mail-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    title "leeguooooo/mail-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 47, 48, 48]
 ```
 
-2026-10-18 45 → 2026-11-02 47（+2）
+2026-10-18 45 → 2026-11-17 48（+3）
 
 
 ---

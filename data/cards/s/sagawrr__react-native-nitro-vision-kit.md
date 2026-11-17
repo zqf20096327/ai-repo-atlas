@@ -1,6 +1,6 @@
 # sagawrr/react-native-nitro-vision-kit
 
-⭐ 58 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sagawrr/react-native-nitro-vision-kit) · 个人维护
+⭐ 58 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sagawrr/react-native-nitro-vision-kit) · 个人维护
 
 **React Native 端侧视觉库：主体抠图、图像标签与 OCR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sagawrr/react-native-nitro-vision-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 58（+0）
 
 
 ---

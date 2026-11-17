@@ -1,6 +1,6 @@
 # liaosiliangCodeLife/harness-mate-plat
 
-⭐ 29 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/liaosiliangCodeLife/harness-mate-plat) · [官网](https://harness.alltman.com) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/liaosiliangCodeLife/harness-mate-plat) · [官网](https://harness.alltman.com) · 个人维护 · 中文 README
 
 **把本机 AI Agent 变成多人可用 Web 产品的端到端平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "liaosiliangCodeLife/harness-mate-plat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 22 --> 30
-    line [23, 27, 28, 29, 29]
+    title "liaosiliangCodeLife/harness-mate-plat 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 31
+    line [23, 27, 28, 29, 27, 29, 30, 30]
 ```
 
-2026-10-18 23 → 2026-11-02 29（+6）
+2026-10-18 23 → 2026-11-17 30（+7）
 
 
 ---

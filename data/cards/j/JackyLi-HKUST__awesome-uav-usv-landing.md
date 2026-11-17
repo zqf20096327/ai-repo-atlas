@@ -1,6 +1,6 @@
 # JackyLi-HKUST/awesome-uav-usv-landing
 
-⭐ 14 · CC0-1.0 · 推送 2026-01-30 · [GitHub](https://github.com/JackyLi-HKUST/awesome-uav-usv-landing) · 个人维护
+⭐ 15 · CC0-1.0 · 推送 2026-01-30 · [GitHub](https://github.com/JackyLi-HKUST/awesome-uav-usv-landing) · 个人维护
 
 **无人机在波浪中降落无人船的科研论文阅读清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JackyLi-HKUST/awesome-uav-usv-landing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "JackyLi-HKUST/awesome-uav-usv-landing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

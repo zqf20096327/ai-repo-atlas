@@ -1,6 +1,6 @@
 # PlawIO/veto
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/PlawIO/veto) · [官网](https://veto.so) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/PlawIO/veto) · [官网](https://veto.so) · 组织维护
 
 **AI agent 工具调用授权策略运行时：用 YAML 规则拦截/放行/审批**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "PlawIO/veto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

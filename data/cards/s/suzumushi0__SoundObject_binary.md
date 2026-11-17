@@ -1,6 +1,6 @@
 # suzumushi0/SoundObject_binary
 
-⭐ 63 · 推送 2026-08-13 · [GitHub](https://github.com/suzumushi0/SoundObject_binary) · [官网](https://suzumushi0.hatenablog.com/entry/SOv1/SO_EN) · 个人维护
+⭐ 64 · 推送 2026-08-13 · [GitHub](https://github.com/suzumushi0/SoundObject_binary) · [官网](https://suzumushi0.hatenablog.com/entry/SOv1/SO_EN) · 个人维护
 
 **VST 3 插件：单声道源生成 3D 定位双耳声**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "suzumushi0/SoundObject_binary 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "suzumushi0/SoundObject_binary 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-11-02 63（+1）
+2026-10-18 62 → 2026-11-17 64（+2）
 
 
 ---

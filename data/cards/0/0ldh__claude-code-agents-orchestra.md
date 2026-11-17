@@ -1,6 +1,6 @@
 # 0ldh/claude-code-agents-orchestra
 
-⭐ 85 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/0ldh/claude-code-agents-orchestra) · 个人维护
+⭐ 86 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/0ldh/claude-code-agents-orchestra) · 个人维护
 
 **面向 Claude Code 的 47 个专业化 AI agent 提示词集合与编排示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0ldh/claude-code-agents-orchestra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "0ldh/claude-code-agents-orchestra 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

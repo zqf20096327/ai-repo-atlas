@@ -1,6 +1,6 @@
 # microsoft/m365-copilot-eval
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/microsoft/m365-copilot-eval) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/m365-copilot-eval) · 组织维护
 
 **评估 M365 Copilot Agent 回答质量的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/m365-copilot-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # llmrtc/llmrtc
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/llmrtc/llmrtc) · [官网](https://www.llmrtc.org/) · 组织维护
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/llmrtc/llmrtc) · [官网](https://www.llmrtc.org/) · 组织维护
 
 **构建实时多模态语音/视觉 AI Agent 的 TypeScript SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "llmrtc/llmrtc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "llmrtc/llmrtc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

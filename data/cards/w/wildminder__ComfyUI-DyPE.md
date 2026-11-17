@@ -1,6 +1,6 @@
 # wildminder/ComfyUI-DyPE
 
-⭐ 633 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/wildminder/ComfyUI-DyPE) · 个人维护
+⭐ 634 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/wildminder/ComfyUI-DyPE) · 个人维护
 
 **ComfyUI 节点包：让 FLUX/Qwen/Z-Image 等 DiT 生成 4K 以上图像**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wildminder/ComfyUI-DyPE 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-02"]
+    title "wildminder/ComfyUI-DyPE 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 631 --> 636
-    line [635, 634, 632, 633, 633]
+    line [635, 634, 632, 633, 634, 632, 634, 634]
 ```
 
-2026-10-18 635 → 2026-11-02 633（-2）
+2026-10-18 635 → 2026-11-17 634（-1）
 
 
 ---

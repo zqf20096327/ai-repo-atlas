@@ -1,6 +1,6 @@
 # hao-ai-lab/DistCA
 
-⭐ 106 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/hao-ai-lab/DistCA) · [官网](https://hao-ai-lab.github.io/blogs/distca) · 组织维护
+⭐ 108 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/hao-ai-lab/DistCA) · [官网](https://hao-ai-lab.github.io/blogs/distca) · 组织维护
 
 **面向长上下文 LLM 训练的核心注意力解耦分布式系统**
 
@@ -45,13 +45,13 @@ DistCA 是用于长上下文大模型训练的分布式训练系统，提出核�
 
 ```mermaid
 xychart-beta
-    title "hao-ai-lab/DistCA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    title "hao-ai-lab/DistCA 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 105 --> 109
+    line [106, 107, 108, 108]
 ```
 
-2026-10-18 106 → 2026-11-02 106（+0）
+2026-10-18 106 → 2026-11-17 108（+2）
 
 
 ---

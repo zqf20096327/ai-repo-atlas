@@ -1,6 +1,6 @@
 # isaacus-dev/mleb
 
-⭐ 39 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/isaacus-dev/mleb) · [官网](https://isaacus.com/mleb) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/isaacus-dev/mleb) · [官网](https://isaacus.com/mleb) · 组织维护
 
 **法律文本嵌入模型评测基准 MLEB 的评测代码与结果集**
 
@@ -44,13 +44,13 @@ Isaacus 发布的 Massive Legal Embedding Benchmark（MLEB）配套仓库：包�
 
 ```mermaid
 xychart-beta
-    title "isaacus-dev/mleb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "isaacus-dev/mleb 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

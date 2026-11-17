@@ -1,6 +1,6 @@
 # mikeoliphant/neural-amp-modeler-lv2
 
-⭐ 550 · C++ · GPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/mikeoliphant/neural-amp-modeler-lv2) · 个人维护
+⭐ 553 · C++ · GPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/mikeoliphant/neural-amp-modeler-lv2) · 个人维护
 
 **吉他音箱神经网络模型的 LV2 播放插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeoliphant/neural-amp-modeler-lv2 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 543 --> 552
-    line [544, 546, 548, 550, 551, 550, 550]
+    title "mikeoliphant/neural-amp-modeler-lv2 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 543 --> 554
+    line [544, 546, 548, 550, 551, 550, 551, 552, 553, 553]
 ```
 
-2026-10-18 544 → 2026-11-02 550（+6）
+2026-10-18 544 → 2026-11-17 553（+9）
 
 
 ---

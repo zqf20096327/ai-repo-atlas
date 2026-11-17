@@ -1,6 +1,6 @@
 # Nemo0000/codex-pet-usage-companion
 
-⭐ 98 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Nemo0000/codex-pet-usage-companion) · 个人维护 · 中文 README
+⭐ 97 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Nemo0000/codex-pet-usage-companion) · 个人维护 · 中文 README
 
 **Windows 托盘工具：切换 Codex 宠物并查看 ChatGPT 用量限额**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nemo0000/codex-pet-usage-companion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 97 --> 103
-    line [101, 102, 98, 98]
+    title "Nemo0000/codex-pet-usage-companion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 96 --> 103
+    line [101, 102, 98, 97, 97]
 ```
 
-2026-10-18 101 → 2026-11-02 98（-3）
+2026-10-18 101 → 2026-11-17 97（-4）
 
 
 ---

@@ -1,6 +1,6 @@
 # alaradirik/sd-interior-design
 
-⭐ 109 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/alaradirik/sd-interior-design) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/alaradirik/sd-interior-design) · 个人维护
 
 **保持布局的室内设计图像生成 API（Realistic Vision + ControlNet）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alaradirik/sd-interior-design 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    title "alaradirik/sd-interior-design 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 108 --> 111
+    line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-11-02 109（+0）
+2026-10-18 109 → 2026-11-17 110（+1）
 
 
 ---

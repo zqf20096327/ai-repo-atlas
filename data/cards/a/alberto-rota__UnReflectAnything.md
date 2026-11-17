@@ -1,6 +1,6 @@
 # alberto-rota/UnReflectAnything
 
-⭐ 40 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/alberto-rota/UnReflectAnything) · [官网](https://alberto-rota.github.io/UnReflectAnything/) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/alberto-rota/UnReflectAnything) · [官网](https://alberto-rota.github.io/UnReflectAnything/) · 组织维护
 
 **RGB 图像镜面高光去除模型，输出纯漫反射图像**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alberto-rota/UnReflectAnything 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 35 --> 41
-    line [36, 38, 39, 40, 40]
+    title "alberto-rota/UnReflectAnything 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 35 --> 43
+    line [36, 38, 39, 40, 41, 42, 42]
 ```
 
-2026-10-18 36 → 2026-11-02 40（+4）
+2026-10-18 36 → 2026-11-17 42（+6）
 
 
 ---

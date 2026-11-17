@@ -1,6 +1,6 @@
 # vericle/intellyweave
 
-⭐ 78 · Python · BSD-3-Clause · 推送 2026-09-02 · [GitHub](https://github.com/vericle/intellyweave) · 组织维护
+⭐ 79 · Python · BSD-3-Clause · 推送 2026-09-02 · [GitHub](https://github.com/vericle/intellyweave) · 组织维护
 
 **面向情报分析员的 OSINT 分析平台：实体抽取、地图与档案调查**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vericle/intellyweave 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    title "vericle/intellyweave 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 79, 79]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-17 79（+2）
 
 
 ---

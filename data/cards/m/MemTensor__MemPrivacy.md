@@ -1,6 +1,6 @@
 # MemTensor/MemPrivacy
 
-⭐ 127 · Python · 推送 2026-06-16 · [GitHub](https://github.com/MemTensor/MemPrivacy) · 组织维护 · 中文 README
+⭐ 130 · Python · 推送 2026-06-16 · [GitHub](https://github.com/MemTensor/MemPrivacy) · 组织维护 · 中文 README
 
 **云端 agent 长期记忆的本地可逆脱敏隐私保护框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MemTensor/MemPrivacy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 125 --> 128
-    line [126, 127, 127]
+    title "MemTensor/MemPrivacy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 125 --> 131
+    line [126, 127, 129, 130, 130]
 ```
 
-2026-10-18 126 → 2026-11-02 127（+1）
+2026-10-18 126 → 2026-11-17 130（+4）
 
 
 ---

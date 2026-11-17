@@ -1,6 +1,6 @@
 # sethupavan12/Markdownify
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sethupavan12/Markdownify) · [官网](https://clickpy.clickhouse.com/dashboard/llm-markdownify) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/sethupavan12/Markdownify) · [官网](https://clickpy.clickhouse.com/dashboard/llm-markdownify) · 个人维护
 
 **用视觉 LLM 把 PDF/扫描件/图片转成 Markdown 的工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sethupavan12/Markdownify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

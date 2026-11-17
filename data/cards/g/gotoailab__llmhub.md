@@ -1,6 +1,6 @@
 # gotoailab/llmhub
 
-⭐ 54 · Go · MIT · 推送 2025-12-13 · [GitHub](https://github.com/gotoailab/llmhub) · 组织维护 · 中文 README
+⭐ 55 · Go · MIT · 推送 2025-12-13 · [GitHub](https://github.com/gotoailab/llmhub) · 组织维护 · 中文 README
 
 **Golang 统一 LLM API 客户端库：一个接口调用 20+ 提供商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gotoailab/llmhub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "gotoailab/llmhub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

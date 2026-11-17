@@ -1,6 +1,6 @@
 # theaisocietyasu/rlhf-from-scratch
 
-⭐ 120 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/theaisocietyasu/rlhf-from-scratch) · [官网](https://colab.research.google.com/github/ashworks1706/rlhf-from-scratch/blob/main/tutorial.ipynb) · 组织维护
+⭐ 121 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/theaisocietyasu/rlhf-from-scratch) · [官网](https://colab.research.google.com/github/ashworks1706/rlhf-from-scratch/blob/main/tutorial.ipynb) · 组织维护
 
 **RLHF 教学与最小代码示例仓库：讲解偏好数据→奖励模型→PPO**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "theaisocietyasu/rlhf-from-scratch 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-02"]
-    y-axis "stars" 119 --> 121
-    line [120, 120]
+    title "theaisocietyasu/rlhf-from-scratch 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 119 --> 122
+    line [120, 121, 121]
 ```
 
-2026-10-19 120 → 2026-11-02 120（+0）
+2026-10-19 120 → 2026-11-17 121（+1）
 
 
 ---

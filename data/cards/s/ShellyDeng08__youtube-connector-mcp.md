@@ -1,6 +1,6 @@
 # ShellyDeng08/youtube-connector-mcp
 
-⭐ 72 · Python · 推送 2026-03-19 · [GitHub](https://github.com/ShellyDeng08/youtube-connector-mcp) · [官网](https://youtube-connector-mcp-website.vercel.app/) · 个人维护 · 中文 README
+⭐ 68 · Python · 推送 2026-03-19 · [GitHub](https://github.com/ShellyDeng08/youtube-connector-mcp) · [官网](https://youtube-connector-mcp-website.vercel.app/) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 访问 YouTube 数据的连接器服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShellyDeng08/youtube-connector-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "ShellyDeng08/youtube-connector-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 73
+    line [72, 68, 68]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 68（-4）
 
 
 ---

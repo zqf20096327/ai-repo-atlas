@@ -1,6 +1,6 @@
 # Snowflake-Labs/cocoplus
 
-⭐ 727 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Snowflake-Labs/cocoplus) · [官网](https://cocoplus.dev/) · 组织维护
+⭐ 729 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Snowflake-Labs/cocoplus) · [官网](https://cocoplus.dev/) · 组织维护
 
 **面向 Snowflake Coco 的数据工程多智能体工作流插件系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Snowflake-Labs/cocoplus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 722 --> 728
-    line [724, 723, 726, 727, 727]
+    title "Snowflake-Labs/cocoplus 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 722 --> 730
+    line [724, 723, 726, 727, 726, 728, 729, 729]
 ```
 
-2026-10-18 724 → 2026-11-02 727（+3）
+2026-10-18 724 → 2026-11-17 729（+5）
 
 
 ---

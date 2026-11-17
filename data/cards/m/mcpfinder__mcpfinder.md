@@ -1,6 +1,6 @@
 # mcpfinder/mcpfinder
 
-⭐ 13 · JavaScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/mcpfinder/mcpfinder) · [官网](https://mcpfinder.dev) · 组织维护
+⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/mcpfinder/mcpfinder) · [官网](https://mcpfinder.dev) · 组织维护
 
 **帮 AI agent 发现、评估并安装其他 MCP server 的 MCP server**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mcpfinder/mcpfinder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "mcpfinder/mcpfinder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

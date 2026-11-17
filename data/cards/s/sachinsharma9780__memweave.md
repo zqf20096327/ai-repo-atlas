@@ -1,6 +1,6 @@
 # sachinsharma9780/memweave
 
-⭐ 54 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/sachinsharma9780/memweave) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/sachinsharma9780/memweave) · 个人维护
 
 **给 AI agent 的持久化可检索记忆库，Markdown 文件存储**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sachinsharma9780/memweave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "sachinsharma9780/memweave 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 53 --> 58
+    line [54, 56, 57, 57]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 57（+3）
 
 
 ---

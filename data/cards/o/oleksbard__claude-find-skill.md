@@ -1,6 +1,6 @@
 # oleksbard/claude-find-skill
 
-⭐ 11 · MIT · 推送 2026-06-20 · [GitHub](https://github.com/oleksbard/claude-find-skill) · 个人维护
+⭐ 13 · MIT · 推送 2026-06-20 · [GitHub](https://github.com/oleksbard/claude-find-skill) · 个人维护
 
 **Claude Code 技能：帮你搜索尚未安装的技能并给出前 5 推荐**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oleksbard/claude-find-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "oleksbard/claude-find-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

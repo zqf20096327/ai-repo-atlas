@@ -1,6 +1,6 @@
 # emmazangAI/mindwiki-skills
 
-⭐ 20 · 推送 2026-05-29 · [GitHub](https://github.com/emmazangAI/mindwiki-skills) · 个人维护 · 中文 README
+⭐ 21 · 推送 2026-05-29 · [GitHub](https://github.com/emmazangAI/mindwiki-skills) · 个人维护 · 中文 README
 
 **10 位专家思维模型封装的 Agent Skills 决策追问包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emmazangAI/mindwiki-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "emmazangAI/mindwiki-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # patcireamo/ChungusHub
 
-⭐ 41 · TypeScript · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/patcireamo/ChungusHub) · [官网](https://chungushub.mintlify.app/) · 个人维护
+⭐ 42 · TypeScript · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/patcireamo/ChungusHub) · [官网](https://chungushub.mintlify.app/) · 个人维护
 
 **本地优先的 SillyTavern 格式角色扮演 LLM 前端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patcireamo/ChungusHub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "patcireamo/ChungusHub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

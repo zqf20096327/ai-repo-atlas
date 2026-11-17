@@ -1,6 +1,6 @@
 # Verzeta/Verzeta-Studio
 
-⭐ 19 · C++ · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/Verzeta/Verzeta-Studio) · [官网](https://verzeta.com) · 个人维护
+⭐ 20 · C++ · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/Verzeta/Verzeta-Studio) · [官网](https://verzeta.com) · 个人维护
 
 **本地优先的多 AI agent 团队工作区：多模型在同一对话协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Verzeta/Verzeta-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Verzeta/Verzeta-Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

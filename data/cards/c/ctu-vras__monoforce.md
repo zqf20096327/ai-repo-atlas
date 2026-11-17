@@ -1,6 +1,6 @@
 # ctu-vras/monoforce
 
-⭐ 94 · Jupyter Notebook · BSD-3-Clause · 推送 2026-04-11 · [GitHub](https://github.com/ctu-vras/monoforce) · 组织维护
+⭐ 95 · Jupyter Notebook · BSD-3-Clause · 推送 2026-04-11 · [GitHub](https://github.com/ctu-vras/monoforce) · 组织维护
 
 **从 RGB 图像学习机器人-地形交互的可微物理引擎（科研代码）**
 
@@ -45,13 +45,13 @@ MonoForce 是 IROS 2024 论文的配套研究代码：由 Terrain Encoder 与可
 
 ```mermaid
 xychart-beta
-    title "ctu-vras/monoforce 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 91 --> 95
-    line [92, 93, 94, 94]
+    title "ctu-vras/monoforce 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 94, 93, 94, 95, 95]
 ```
 
-2026-10-18 92 → 2026-11-02 94（+2）
+2026-10-18 92 → 2026-11-17 95（+3）
 
 
 ---

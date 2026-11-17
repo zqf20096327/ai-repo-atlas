@@ -1,6 +1,6 @@
 # IAAR-Shanghai/xFinder
 
-⭐ 178 · Python · NOASSERTION · 推送 2025-11-14 · [GitHub](https://github.com/IAAR-Shanghai/xFinder) · [官网](https://openreview.net/forum?id=7UqQJUKaLM) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **LLM 评测的关键答案抽取与匹配评测器，附 KAF 数据集**
 
@@ -11,7 +11,7 @@ ICLR 2025 论文配套开源项目：xFinder 是用于 LLM 评测链路中关键
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ ICLR 2025 论文配套开源项目：xFinder 是用于 LLM 评测链路中关键
 ```mermaid
 xychart-beta
     title "IAAR-Shanghai/xFinder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 177 --> 179
-    line [178, 178]
+    x-axis ["2026-10-18", "2026-11-08"]
+    y-axis "stars" 177 --> 180
+    line [178, 179]
 ```
 
-2026-10-18 178 → 2026-11-02 178（+0）
+2026-10-18 178 → 2026-11-08 179（+1）
 
 
 ---

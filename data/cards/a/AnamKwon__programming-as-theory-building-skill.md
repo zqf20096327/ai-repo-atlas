@@ -1,6 +1,6 @@
 # AnamKwon/programming-as-theory-building-skill
 
-⭐ 32 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/AnamKwon/programming-as-theory-building-skill) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/AnamKwon/programming-as-theory-building-skill) · 个人维护
 
 **将 Naur 理论构建思想转化为 Claude Code 编码规则技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnamKwon/programming-as-theory-building-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "AnamKwon/programming-as-theory-building-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 30, 33, 34, 34]
 ```
 
-2026-10-18 30 → 2026-11-02 32（+2）
+2026-10-18 30 → 2026-11-17 34（+4）
 
 
 ---

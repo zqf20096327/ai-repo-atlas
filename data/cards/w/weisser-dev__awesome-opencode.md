@@ -1,6 +1,6 @@
 # weisser-dev/awesome-opencode
 
-⭐ 44 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/weisser-dev/awesome-opencode) · [官网](https://www.npmjs.com/package/@weisser-dev/awesome-opencode) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/weisser-dev/awesome-opencode) · [官网](https://www.npmjs.com/package/@weisser-dev/awesome-opencode) · 个人维护
 
 **面向 OpenCode 的 agent/技能策展集与交互式配置 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weisser-dev/awesome-opencode 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 37 --> 45
-    line [38, 39, 40, 41, 43, 44, 44]
+    title "weisser-dev/awesome-opencode 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 37 --> 48
+    line [38, 39, 40, 41, 43, 44, 41, 45, 46, 47, 47]
 ```
 
-2026-10-18 38 → 2026-11-02 44（+6）
+2026-10-18 38 → 2026-11-17 47（+9）
 
 
 ---

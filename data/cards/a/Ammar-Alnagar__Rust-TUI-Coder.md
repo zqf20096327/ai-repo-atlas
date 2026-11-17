@@ -1,6 +1,6 @@
 # Ammar-Alnagar/Rust-TUI-Coder
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2025-11-26 · [GitHub](https://github.com/Ammar-Alnagar/Rust-TUI-Coder) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端 AI 编程助手：在 TUI 中对话、执行代码与操作文件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ammar-Alnagar/Rust-TUI-Coder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "Ammar-Alnagar/Rust-TUI-Coder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-11 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # majiayu000/ccstats
 
-⭐ 14 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/majiayu000/ccstats) · [官网](https://github.com/majiayu000/ccstats) · 个人维护 · 中文 README
+⭐ 14 · Rust · MIT · 推送 2026-11-05 · [GitHub](https://github.com/majiayu000/ccstats) · [官网](https://github.com/majiayu000/ccstats) · 个人维护 · 中文 README
 
 **本地优先的 CLI：分析 29 种 AI 编码代理的 token 与费用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "majiayu000/ccstats 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

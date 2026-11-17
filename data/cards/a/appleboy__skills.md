@@ -1,6 +1,6 @@
 # appleboy/skills
 
-⭐ 23 · 推送 2026-09-12 · [GitHub](https://github.com/appleboy/skills) · 个人维护
+⭐ 23 · 推送 2026-11-04 · [GitHub](https://github.com/appleboy/skills) · 个人维护
 
 **面向 Claude Code/Codex 的 agent 技能插件集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "appleboy/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

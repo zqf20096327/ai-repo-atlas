@@ -1,6 +1,6 @@
 # PKU-YuanGroup/TIDE
 
-⭐ 71 · Python · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/PKU-YuanGroup/TIDE) · [官网](https://arxiv.org/abs/2604.26951) · 组织维护 · 中文 README
+⭐ 72 · Python · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/PKU-YuanGroup/TIDE) · [官网](https://arxiv.org/abs/2604.26951) · 组织维护 · 中文 README
 
 **面向扩散语言模型的跨架构蒸馏训练框架（论文官方实现）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PKU-YuanGroup/TIDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "PKU-YuanGroup/TIDE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

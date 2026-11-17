@@ -1,6 +1,6 @@
 # martenlienen/torchode
 
-⭐ 290 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/martenlienen/torchode) · [官网](https://torchode.readthedocs.io) · 个人维护
+⭐ 290 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/martenlienen/torchode) · [官网](https://torchode.readthedocs.io) · 个人维护
 
 **为 PyTorch 提供的批量并行 ODE 求解器库**
 
@@ -44,12 +44,12 @@ torchode 是一组单步 ODE 求解器（如 dopri5、tsit5），兼容 PyTorch 
 ```mermaid
 xychart-beta
     title "martenlienen/torchode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 289 --> 291
     line [290, 290]
 ```
 
-2026-10-18 290 → 2026-11-02 290（+0）
+2026-10-18 290 → 2026-11-17 290（+0）
 
 
 ---

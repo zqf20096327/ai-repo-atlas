@@ -1,6 +1,6 @@
 # OpenSeizureDetector/OpenSeizureDatabase
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/OpenSeizureDetector/OpenSeizureDatabase) · [官网](https://openseizuredetector.org.uk) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/OpenSeizureDetector/OpenSeizureDatabase) · [官网](https://openseizuredetector.org.uk) · 组织维护
 
 **癫痫发作数据库的处理工具包与数据访问管理（OSTK）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenSeizureDetector/OpenSeizureDatabase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "OpenSeizureDetector/OpenSeizureDatabase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

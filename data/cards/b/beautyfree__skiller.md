@@ -1,6 +1,6 @@
 # beautyfree/skiller
 
-⭐ 49 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/beautyfree/skiller) · [官网](https://skiller.download) · 个人维护
+⭐ 56 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/beautyfree/skiller) · [官网](https://skiller.download) · 个人维护
 
 **桌面端 AI agent 技能管理器：跨 49 个编码 agent 统一安装同步 SKILL.md**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beautyfree/skiller 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 45 --> 50
-    line [46, 47, 48, 49, 49]
+    title "beautyfree/skiller 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 45 --> 57
+    line [46, 47, 48, 49, 47, 51, 52, 53, 54, 56, 56]
 ```
 
-2026-10-18 46 → 2026-11-02 49（+3）
+2026-10-18 46 → 2026-11-17 56（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # listener-He/java-harness-agent
 
-⭐ 17 · Python · MIT · 推送 2026-05-31 · [GitHub](https://github.com/listener-He/java-harness-agent) · [官网](https://blog.hehouhui.cn/archives/java-harness-agent-intent-driven-development-practice) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-05-31 · [GitHub](https://github.com/listener-He/java-harness-agent) · [官网](https://blog.hehouhui.cn/archives/java-harness-agent-intent-driven-development-practice) · 个人维护 · 中文 README
 
 **约束 Claude Code 行为的 Java 开发 agent 协议框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "listener-He/java-harness-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "listener-He/java-harness-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 16, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

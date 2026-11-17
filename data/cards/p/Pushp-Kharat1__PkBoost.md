@@ -1,6 +1,6 @@
 # Pushp-Kharat1/PkBoost
 
-⭐ 73 · Rust · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/Pushp-Kharat1/PkBoost) · [官网](https://pkboost.vercel.app/) · 个人维护
+⭐ 73 · Rust · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Pushp-Kharat1/PkBoost) · [官网](https://pkboost.vercel.app/) · 个人维护
 
 **Rust 实现的自适应梯度提升库，处理极度不平衡与概念漂移下的分类**
 
@@ -46,12 +46,12 @@ PKBoost（Performance-Based Knowledge Booster）是从零用 Rust 实现的梯�
 ```mermaid
 xychart-beta
     title "Pushp-Kharat1/PkBoost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Synthefy/synthefy-nori
 
-⭐ 77 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Synthefy/synthefy-nori) · [官网](https://docs.synthefy.com/nori/) · 组织维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Synthefy/synthefy-nori) · [官网](https://docs.synthefy.com/nori/) · 组织维护
 
 **表格数据基础模型：免训练上下文学习回归并给出预测分布**
 
@@ -45,13 +45,13 @@ Synthefy 维护的开源表格基础模型，通过上下文学习做回归：fi
 
 ```mermaid
 xychart-beta
-    title "Synthefy/synthefy-nori 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    title "Synthefy/synthefy-nori 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 75 --> 81
+    line [76, 77, 76, 77, 78, 80, 80]
 ```
 
-2026-10-18 76 → 2026-11-02 77（+1）
+2026-10-18 76 → 2026-11-17 80（+4）
 
 
 ---

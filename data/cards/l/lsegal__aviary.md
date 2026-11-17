@@ -1,6 +1,6 @@
 # lsegal/aviary
 
-⭐ 12 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lsegal/aviary) · [官网](https://aviary.bot) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lsegal/aviary) · [官网](https://aviary.bot) · 个人维护
 
 **将 AI 模型接入聊天平台并执行定时任务的助手平台**
 
@@ -45,12 +45,12 @@ Aviary 是一个 AI 助手平台：把用户的 AI 模型连接到 Slack、Signa
 ```mermaid
 xychart-beta
     title "lsegal/aviary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

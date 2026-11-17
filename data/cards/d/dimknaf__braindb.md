@@ -1,6 +1,6 @@
 # dimknaf/braindb
 
-⭐ 116 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/dimknaf/braindb) · 个人维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/dimknaf/braindb) · 个人维护
 
 **面向 LLM agent 的持久记忆数据库与 REST API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dimknaf/braindb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 112 --> 117
-    line [113, 114, 115, 116]
+    title "dimknaf/braindb 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 112 --> 118
+    line [113, 114, 115, 116, 115, 116, 117, 117]
 ```
 
-2026-10-18 113 → 2026-11-02 116（+3）
+2026-10-18 113 → 2026-11-17 117（+4）
 
 
 ---

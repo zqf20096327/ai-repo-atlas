@@ -1,6 +1,6 @@
 # bgub/bengubler.com
 
-⭐ 13 · TypeScript · 推送 2026-09-22 · [GitHub](https://github.com/bgub/bengubler.com) · [官网](https://bengubler.com) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-11-05 · [GitHub](https://github.com/bgub/bengubler.com) · [官网](https://bengubler.com) · 个人维护
 
 **个人博客网站：基于 TanStack Start 与 React 构建**
 
@@ -42,12 +42,12 @@ bengubler.com 的个人网站源码，使用 TanStack Start + React 19、Tailwin
 ```mermaid
 xychart-beta
     title "bgub/bengubler.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

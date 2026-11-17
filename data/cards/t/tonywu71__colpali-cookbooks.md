@@ -1,6 +1,6 @@
 # tonywu71/colpali-cookbooks
 
-⭐ 356 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/tonywu71/colpali-cookbooks) · [官网](https://huggingface.co/vidore) · 个人维护
+⭐ 357 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/tonywu71/colpali-cookbooks) · [官网](https://huggingface.co/vidore) · 个人维护
 
 **ColPali 视觉检索模型的教学与微调 notebook 合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "tonywu71/colpali-cookbooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "tonywu71/colpali-cookbooks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 354 --> 358
-    line [357, 355, 356, 356]
+    line [357, 355, 356, 355, 356, 357, 357]
 ```
 
-2026-10-18 357 → 2026-11-02 356（-1）
+2026-10-18 357 → 2026-11-17 357（+0）
 
 
 ---

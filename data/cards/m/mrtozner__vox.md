@@ -1,6 +1,6 @@
 # mrtozner/vox
 
-⭐ 51 · Rust · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/mrtozner/vox) · 个人维护
+⭐ 55 · Rust · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/mrtozner/vox) · 个人维护
 
 **本地优先的 Rust 语音 AI 框架：STT/TTS/说话人分离/语音对话**
 
@@ -47,13 +47,13 @@ Rust 编写的本地语音 AI 框架，流水线为 VAD(Silero)→STT(Whisper/Sh
 
 ```mermaid
 xychart-beta
-    title "mrtozner/vox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    title "mrtozner/vox 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 48 --> 56
+    line [49, 50, 51, 49, 53, 55, 55]
 ```
 
-2026-10-18 49 → 2026-11-02 51（+2）
+2026-10-18 49 → 2026-11-17 55（+6）
 
 
 ---

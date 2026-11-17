@@ -1,6 +1,6 @@
 # emanuelcasco/pi-mono-extensions
 
-⭐ 108 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/emanuelcasco/pi-mono-extensions) · 个人维护
+⭐ 110 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/emanuelcasco/pi-mono-extensions) · 个人维护
 
 **pi 编码代理的扩展集合：工具、斜杠命令、安全防护等**
 
@@ -45,13 +45,13 @@ pnpm workspace 形式的 pi coding agent 扩展合集，每个 extensions/ 下�
 
 ```mermaid
 xychart-beta
-    title "emanuelcasco/pi-mono-extensions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    title "emanuelcasco/pi-mono-extensions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 107 --> 111
+    line [108, 109, 110, 110]
 ```
 
-2026-10-18 108 → 2026-11-02 108（+0）
+2026-10-18 108 → 2026-11-17 110（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tianyu0207/weakly-polyp
 
-⭐ 46 · Python · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/tianyu0207/weakly-polyp) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **弱监督息肉视频帧检测的对比 Transformer MIL 代码与数据集**
 
@@ -11,7 +11,7 @@ MICCAI'22 论文官方仓库：提出基于对比 Transformer 与多示例学习
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ MICCAI'22 论文官方仓库：提出基于对比 Transformer 与多示例学习
 ```mermaid
 xychart-beta
     title "tianyu0207/weakly-polyp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-07 46（+0）
 
 
 ---

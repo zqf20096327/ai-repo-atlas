@@ -1,6 +1,6 @@
 # gluschenko/panlingo
 
-⭐ 18 · C# · NOASSERTION · 推送 2026-09-12 · [GitHub](https://github.com/gluschenko/panlingo) · 个人维护
+⭐ 19 · C# · NOASSERTION · 推送 2026-09-12 · [GitHub](https://github.com/gluschenko/panlingo) · 个人维护
 
 **.NET 语言识别库合集：6 种模型的原生互操作封装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gluschenko/panlingo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "gluschenko/panlingo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

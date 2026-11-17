@@ -1,6 +1,6 @@
 # tianye1999/callpilot
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tianye1999/callpilot) · [官网](https://tianye1999.github.io/callpilot/) · 个人维护 · 中文 README
+⭐ 42 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/tianye1999/callpilot) · [官网](https://tianye1999.github.io/callpilot/) · 个人维护 · 中文 README
 
 **自托管 AI 电话代理：4G 模块上用实时语音 AI 接打电话**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tianye1999/callpilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 35 --> 41
-    line [36, 37, 38, 39, 40, 40]
+    title "tianye1999/callpilot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 43
+    line [36, 37, 38, 39, 40, 37, 41, 42, 42]
 ```
 
-2026-10-18 36 → 2026-11-02 40（+4）
+2026-10-18 36 → 2026-11-17 42（+6）
 
 
 ---

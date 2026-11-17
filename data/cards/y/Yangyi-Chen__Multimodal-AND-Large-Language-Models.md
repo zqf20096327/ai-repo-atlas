@@ -1,6 +1,6 @@
 # Yangyi-Chen/Multimodal-AND-Large-Language-Models
 
-⭐ 764 · 推送 2026-05-21 · [GitHub](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) · 个人维护
+⭐ 765 · 推送 2026-05-21 · [GitHub](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) · 个人维护
 
 **个人维护的多模态与大语言模型论文阅读清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yangyi-Chen/Multimodal-AND-Large-Language-Models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 763 --> 765
-    line [764, 764]
+    title "Yangyi-Chen/Multimodal-AND-Large-Language-Models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 763 --> 766
+    line [764, 765, 765]
 ```
 
-2026-10-18 764 → 2026-11-02 764（+0）
+2026-10-18 764 → 2026-11-17 765（+1）
 
 
 ---

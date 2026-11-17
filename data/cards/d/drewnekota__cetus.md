@@ -1,6 +1,6 @@
 # drewnekota/cetus
 
-⭐ 149 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/drewnekota/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **macOS 桌面客户端：统一管理与审阅多个编码 agent 运行时**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "drewnekota/cetus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 147 --> 150
-    line [148, 149, 149]
+    title "drewnekota/cetus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08"]
+    y-axis "stars" 147 --> 151
+    line [148, 149, 148, 150]
 ```
 
-2026-10-18 148 → 2026-11-02 149（+1）
+2026-10-18 148 → 2026-11-08 150（+2）
 
 
 ---

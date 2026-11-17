@@ -1,6 +1,6 @@
 # dreamrec/TDPilot
 
-⭐ 16 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/dreamrec/TDPilot) · [官网](https://github.com/dreamrec/TDPilot/releases/latest) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/dreamrec/TDPilot) · [官网](https://github.com/dreamrec/TDPilot/releases/latest) · 个人维护
 
 **让 AI agent 对话式操控 TouchDesigner 的本地 MCP 服务器（114 工具）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dreamrec/TDPilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "dreamrec/TDPilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

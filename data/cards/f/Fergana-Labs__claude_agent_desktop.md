@@ -1,6 +1,6 @@
 # Fergana-Labs/claude_agent_desktop
 
-⭐ 28 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/Fergana-Labs/claude_agent_desktop) · [官网](https://www.ferganalabs.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **免装 CLI 的 Claude Code 桌面端：Electron 图形界面加扩展技能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Fergana-Labs/claude_agent_desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-07 28（+0）
 
 
 ---

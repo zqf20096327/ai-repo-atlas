@@ -1,6 +1,6 @@
 # chroma-core/generative-benchmarking
 
-⭐ 53 · Jupyter Notebook · MIT · 推送 2025-11-18 · [GitHub](https://github.com/chroma-core/generative-benchmarking) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向嵌入模型的定制化基准生成与评测工具包**
 
@@ -11,7 +11,7 @@ Chroma 维护的生成式基准测试工具包：给定一组文档，合成代�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Chroma 维护的生成式基准测试工具包：给定一组文档，合成代�
 ```mermaid
 xychart-beta
     title "chroma-core/generative-benchmarking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-13 53（+0）
 
 
 ---

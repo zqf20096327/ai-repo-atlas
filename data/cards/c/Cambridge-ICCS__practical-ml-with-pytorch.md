@@ -1,6 +1,6 @@
 # Cambridge-ICCS/practical-ml-with-pytorch
 
-⭐ 44 · Jupyter Notebook · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Cambridge-ICCS/practical-ml-with-pytorch) · [官网](https://cambridge-iccs.github.io/practical-ml-with-pytorch/) · 组织维护
+⭐ 44 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Cambridge-ICCS/practical-ml-with-pytorch) · [官网](https://cambridge-iccs.github.io/practical-ml-with-pytorch/) · 组织维护
 
 **面向科研人员的 PyTorch 机器学习入门教学材料库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cambridge-ICCS/practical-ml-with-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 44（+0）
 
 
 ---

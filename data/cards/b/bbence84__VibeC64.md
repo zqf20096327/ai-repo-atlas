@@ -1,6 +1,6 @@
 # bbence84/VibeC64
 
-⭐ 40 · Python · MIT · 推送 2026-02-08 · [GitHub](https://github.com/bbence84/VibeC64) · [官网](https://vibec64.super-duper.xyz/) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-02-08 · [GitHub](https://github.com/bbence84/VibeC64) · [官网](https://vibec64.super-duper.xyz/) · 个人维护
 
 **AI agent：从创意生成 Commodore 64 BASIC 游戏并测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bbence84/VibeC64 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "bbence84/VibeC64 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
     y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    line [39, 40, 39, 39]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 39（+0）
 
 
 ---

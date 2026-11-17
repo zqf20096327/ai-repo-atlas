@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "fschur/DDQN-with-PyTorch-for-OpenAI-Gym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 71（+0）
 
 
 ---

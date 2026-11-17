@@ -1,6 +1,6 @@
 # minorjailerimagine/Fuck-Adobe
 
-⭐ 21 · 推送 2026-10-19 · [GitHub](https://github.com/minorjailerimagine/Fuck-Adobe) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Windows 的 PS 2026 预激活安装脚本分发页**
 
@@ -43,12 +43,12 @@ README 描述一个自称为 Photoshop 2026 预激活独立安装包的分发渠
 ```mermaid
 xychart-beta
     title "minorjailerimagine/Fuck-Adobe 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-07"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-19 20 → 2026-11-02 21（+1）
+2026-10-19 20 → 2026-11-07 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # LakshmanTurlapati/Review-Gate
 
-⭐ 1,524 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/LakshmanTurlapati/Review-Gate) · [官网](https://www.youtube.com/watch?v=mZmNM-AIf4M) · 个人维护
+⭐ 1,522 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/LakshmanTurlapati/Review-Gate) · [官网](https://www.youtube.com/watch?v=mZmNM-AIf4M) · 个人维护
 
 **Cursor IDE 的交互式审查规则与 MCP 工具，让 Agent 在单次请求内循环待命**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LakshmanTurlapati/Review-Gate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1523 --> 1528
-    line [1527, 1526, 1525, 1524, 1524]
+    title "LakshmanTurlapati/Review-Gate 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1521 --> 1528
+    line [1527, 1526, 1525, 1524, 1525, 1522, 1522]
 ```
 
-2026-10-18 1,527 → 2026-11-02 1,524（-3）
+2026-10-18 1,527 → 2026-11-17 1,522（-5）
 
 
 ---

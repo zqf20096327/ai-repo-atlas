@@ -1,6 +1,6 @@
 # emanueleielo/advisor-middleware
 
-⭐ 45 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/emanueleielo/advisor-middleware) · [官网](https://pypi.org/project/advisor-middleware/) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/emanueleielo/advisor-middleware) · [官网](https://pypi.org/project/advisor-middleware/) · 个人维护
 
 **把 Anthropic Advisor 策略做成 DeepAgents 即插中间件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "emanueleielo/advisor-middleware 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "emanueleielo/advisor-middleware 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 44（-1）
 
 
 ---

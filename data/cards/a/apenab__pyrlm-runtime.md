@@ -1,6 +1,6 @@
 # apenab/pyrlm-runtime
 
-⭐ 32 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/apenab/pyrlm-runtime) · [官网](https://arxiv.org/html/2512.24601v1) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/apenab/pyrlm-runtime) · [官网](https://arxiv.org/html/2512.24601v1) · 个人维护
 
 **递归语言模型（RLM）的 Python 运行时库，处理长上下文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "apenab/pyrlm-runtime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

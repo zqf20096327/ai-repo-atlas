@@ -1,6 +1,6 @@
 # thibautrey/chaton
 
-⭐ 20 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/thibautrey/chaton) · [官网](https://chatons.ai) · 个人维护
+⭐ 21 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/thibautrey/chaton) · [官网](https://chatons.ai) · 个人维护
 
 **本地优先的桌面 AI 工作区：多模型对话与代码/项目管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thibautrey/chaton 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "thibautrey/chaton 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

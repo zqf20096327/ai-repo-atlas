@@ -1,6 +1,6 @@
 # DigitalSlideArchive/HistomicsTK
 
-⭐ 492 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/DigitalSlideArchive/HistomicsTK) · [官网](https://digitalslidearchive.github.io/HistomicsTK/) · 组织维护
+⭐ 493 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/DigitalSlideArchive/HistomicsTK) · [官网](https://digitalslidearchive.github.io/HistomicsTK/) · 组织维护
 
 **病理全切片图像分析的 Python 算法工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DigitalSlideArchive/HistomicsTK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 489 --> 493
-    line [490, 491, 492, 492]
+    title "DigitalSlideArchive/HistomicsTK 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 489 --> 494
+    line [490, 491, 492, 491, 492, 493, 493]
 ```
 
-2026-10-18 490 → 2026-11-02 492（+2）
+2026-10-18 490 → 2026-11-17 493（+3）
 
 
 ---

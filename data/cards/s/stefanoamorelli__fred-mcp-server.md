@@ -1,6 +1,6 @@
 # stefanoamorelli/fred-mcp-server
 
-⭐ 130 · TypeScript · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/stefanoamorelli/fred-mcp-server) · [官网](https://fred-mcp-server.amorelli.tech) · 个人维护
+⭐ 134 · TypeScript · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/stefanoamorelli/fred-mcp-server) · [官网](https://fred-mcp-server.amorelli.tech) · 个人维护
 
 **为 LLM/agent 提供美联储经济数据（FRED）访问的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stefanoamorelli/fred-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 124 --> 131
-    line [125, 127, 128, 129, 130, 130]
+    title "stefanoamorelli/fred-mcp-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 124 --> 135
+    line [125, 127, 128, 129, 130, 127, 130, 131, 132, 133, 134, 134]
 ```
 
-2026-10-18 125 → 2026-11-02 130（+5）
+2026-10-18 125 → 2026-11-17 134（+9）
 
 
 ---

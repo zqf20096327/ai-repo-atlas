@@ -1,6 +1,6 @@
 # RunEdgeAI/agents.cpp
 
-⭐ 113 · C++ · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/RunEdgeAI/agents.cpp) · [官网](https://www.runedge.ai/) · 组织维护
+⭐ 115 · C++ · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/RunEdgeAI/agents.cpp) · [官网](https://www.runedge.ai/) · 组织维护
 
 **面向边缘设备的 C++ AI Agent 构建框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RunEdgeAI/agents.cpp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 108 --> 114
-    line [109, 110, 111, 112, 113, 113]
+    title "RunEdgeAI/agents.cpp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 108 --> 116
+    line [109, 110, 111, 112, 113, 111, 113, 115, 115]
 ```
 
-2026-10-18 109 → 2026-11-02 113（+4）
+2026-10-18 109 → 2026-11-17 115（+6）
 
 
 ---

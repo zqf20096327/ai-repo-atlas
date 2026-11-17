@@ -1,6 +1,6 @@
 # SuZeAI/ai-collective
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/SuZeAI/ai-collective) · [官网](https://ai-collective-eight.vercel.app) · 组织维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/SuZeAI/ai-collective) · [官网](https://ai-collective-eight.vercel.app) · 组织维护
 
 **构建与运行 AI 虚拟公司的多智能体协作平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SuZeAI/ai-collective 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "SuZeAI/ai-collective 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

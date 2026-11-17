@@ -1,6 +1,6 @@
 # KuiChi-x/reverseloom
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/KuiChi-x/reverseloom) · 个人维护 · 中文 README
+⭐ 34 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/KuiChi-x/reverseloom) · 个人维护 · 中文 README
 
 **把浏览器交给 LLM 的网页逆向 Agent：自动还原签名并生成无浏览器爬虫**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KuiChi-x/reverseloom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "KuiChi-x/reverseloom 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 33, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

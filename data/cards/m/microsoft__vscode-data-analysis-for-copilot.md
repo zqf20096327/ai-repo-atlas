@@ -1,6 +1,6 @@
 # microsoft/vscode-data-analysis-for-copilot
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/vscode-data-analysis-for-copilot) · 组织维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/microsoft/vscode-data-analysis-for-copilot) · 组织维护
 
 **让 Copilot 代理执行 Python 完成数据分析的 VS Code 扩展**
 
@@ -44,12 +44,12 @@ VS Code 扩展，为 GitHub Copilot 的 @data 代理提供代码执行工具：�
 ```mermaid
 xychart-beta
     title "microsoft/vscode-data-analysis-for-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

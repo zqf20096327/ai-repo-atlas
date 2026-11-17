@@ -1,6 +1,6 @@
 # jamditis/tools
 
-⭐ 13 · HTML · 推送 2026-09-14 · [GitHub](https://github.com/jamditis/tools) · [官网](http://tools.amditis.tech/) · 个人维护
+⭐ 15 · HTML · 推送 2026-11-12 · [GitHub](https://github.com/jamditis/tools) · [官网](http://tools.amditis.tech/) · 个人维护
 
 **面向记者与开发者的 AI 工具、模板与指南资源合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jamditis/tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "jamditis/tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # JuliaAI/ScientificTypes.jl
 
-⭐ 98 · Julia · MIT · 推送 2026-09-28 · [GitHub](https://github.com/JuliaAI/ScientificTypes.jl) · 组织维护
+⭐ 99 · Julia · MIT · 推送 2026-09-28 · [GitHub](https://github.com/JuliaAI/ScientificTypes.jl) · 组织维护
 
 **Julia 数据科学类型约定库：按数据用途而非机器类型分派**
 
@@ -44,13 +44,13 @@ Julia 包，区分机器类型与科学类型：机器类型指 Julia 底层数�
 
 ```mermaid
 xychart-beta
-    title "JuliaAI/ScientificTypes.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "JuliaAI/ScientificTypes.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jenkinsci/ai-agent-plugin
 
-⭐ 19 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jenkinsci/ai-agent-plugin) · [官网](https://plugins.jenkins.io/ai-agent/) · 组织维护
+⭐ 20 · Java · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jenkinsci/ai-agent-plugin) · [官网](https://plugins.jenkins.io/ai-agent/) · 组织维护
 
 **Jenkins 插件：在 CI 任务中运行多种自主编码 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jenkinsci/ai-agent-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "jenkinsci/ai-agent-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

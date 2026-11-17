@@ -1,6 +1,6 @@
 # luojiahai/code-by-wire
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/luojiahai/code-by-wire) · [官网](https://cbw.liyu.dev) · 个人维护 · 中文 README
+⭐ 74 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/luojiahai/code-by-wire) · [官网](https://cbw.liyu.dev) · 个人维护 · 中文 README
 
 **驾驶舱式面板：统一管理 Claude Code/Codex 会话并监控遥测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luojiahai/code-by-wire 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 71 --> 74
-    line [73, 72, 73, 73]
+    title "luojiahai/code-by-wire 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [73, 72, 73, 72, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 74（+1）
 
 
 ---

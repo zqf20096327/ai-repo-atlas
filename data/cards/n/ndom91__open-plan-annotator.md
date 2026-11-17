@@ -1,6 +1,6 @@
 # ndom91/open-plan-annotator
 
-⭐ 99 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ndom91/open-plan-annotator) · 个人维护
+⭐ 100 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ndom91/open-plan-annotator) · 个人维护
 
 **本地优先的编码 agent 计划标注插件：拦截计划模式并在浏览器中批注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ndom91/open-plan-annotator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 96 --> 100
-    line [97, 98, 99, 99]
+    title "ndom91/open-plan-annotator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 96 --> 101
+    line [97, 98, 99, 98, 100, 100]
 ```
 
-2026-10-18 97 → 2026-11-02 99（+2）
+2026-10-18 97 → 2026-11-17 100（+3）
 
 
 ---

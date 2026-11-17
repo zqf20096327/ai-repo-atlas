@@ -1,6 +1,6 @@
 # mlr-org/mlr3proba
 
-⭐ 150 · R · LGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/mlr-org/mlr3proba) · [官网](https://mlr3proba.mlr-org.com/) · 组织维护
+⭐ 151 · R · LGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/mlr-org/mlr3proba) · [官网](https://mlr3proba.mlr-org.com/) · 组织维护
 
 **面向 mlr3 的概率学习 R 包：生存分析、密度估计与概率回归**
 
@@ -44,13 +44,13 @@ mlr3 生态系统中的机器学习工具包，提供三类概率学习能力：
 
 ```mermaid
 xychart-beta
-    title "mlr-org/mlr3proba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 149 --> 151
-    line [150, 150]
+    title "mlr-org/mlr3proba 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 149 --> 152
+    line [150, 151, 151]
 ```
 
-2026-10-18 150 → 2026-11-02 150（+0）
+2026-10-18 150 → 2026-11-17 151（+1）
 
 
 ---

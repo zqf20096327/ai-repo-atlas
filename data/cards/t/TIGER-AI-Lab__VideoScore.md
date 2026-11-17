@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/VideoScore
 
-⭐ 293 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore) · [官网](https://tiger-ai-lab.github.io/VideoScore/) · 组织维护
+⭐ 378 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore) · [官网](https://tiger-ai-lab.github.io/VideoScore/) · 组织维护
 
 **视频生成质量自动评测模型：模拟细粒度人类反馈打分**
 
@@ -45,13 +45,13 @@ EMNLP 2024 论文官方仓库，包含三部分产出：VideoFeedback 数据集�
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/VideoScore 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 111 --> 309
-    line [135, 170, 284, 127, 179, 229, 279, 291, 293]
+    title "TIGER-AI-Lab/VideoScore 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 102 --> 403
+    line [135, 170, 284, 127, 179, 229, 279, 291, 293, 127, 377, 378, 378]
 ```
 
-2026-10-18 135 → 2026-11-02 293（+158）
+2026-10-18 135 → 2026-11-17 378（+243）
 
 
 ---

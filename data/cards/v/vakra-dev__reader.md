@@ -1,6 +1,6 @@
 # vakra-dev/reader
 
-⭐ 561 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/vakra-dev/reader) · [官网](https://reader.dev) · 个人维护
+⭐ 571 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/vakra-dev/reader) · [官网](https://reader.dev) · 个人维护
 
 **给 AI agent 的网页抓取基础设施：反爬浏览器输出干净 markdown**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vakra-dev/reader 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 556 --> 563
-    line [557, 558, 560, 561, 562, 561, 561]
+    title "vakra-dev/reader 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 556 --> 572
+    line [557, 558, 560, 561, 562, 561, 562, 564, 571, 571]
 ```
 
-2026-10-18 557 → 2026-11-02 561（+4）
+2026-10-18 557 → 2026-11-17 571（+14）
 
 
 ---

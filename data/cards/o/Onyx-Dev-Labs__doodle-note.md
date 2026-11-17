@@ -1,6 +1,6 @@
 # Onyx-Dev-Labs/doodle-note
 
-⭐ 183 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Onyx-Dev-Labs/doodle-note) · [官网](https://www.doodlenote.ai) · 组织维护
+⭐ 187 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Onyx-Dev-Labs/doodle-note) · [官网](https://www.doodlenote.ai) · 组织维护
 
 **本地优先的会议录音转写与 AI 笔记桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Onyx-Dev-Labs/doodle-note 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 180 --> 184
-    line [181, 182, 183, 183]
+    title "Onyx-Dev-Labs/doodle-note 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 180 --> 188
+    line [181, 182, 183, 182, 183, 184, 186, 187, 187]
 ```
 
-2026-10-18 181 → 2026-11-02 183（+2）
+2026-10-18 181 → 2026-11-17 187（+6）
 
 
 ---

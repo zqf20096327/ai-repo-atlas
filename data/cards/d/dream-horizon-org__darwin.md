@@ -1,6 +1,6 @@
 # dream-horizon-org/darwin
 
-⭐ 62 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/dream-horizon-org/darwin) · [官网](https://darwin.dreamhorizon.org/) · 组织维护
+⭐ 63 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/dream-horizon-org/darwin) · [官网](https://darwin.dreamhorizon.org/) · 组织维护
 
 **Dream11 的企业级端到端 ML 平台，覆盖训练到推理全生命周期**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dream-horizon-org/darwin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "dream-horizon-org/darwin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 63, 63]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 63（+2）
 
 
 ---

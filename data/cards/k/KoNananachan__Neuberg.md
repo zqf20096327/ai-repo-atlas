@@ -1,6 +1,6 @@
 # KoNananachan/Neuberg
 
-⭐ 222 · TypeScript · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/KoNananachan/Neuberg) · [官网](https://neuberg.ai) · 个人维护 · 中文 README
+⭐ 230 · TypeScript · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/KoNananachan/Neuberg) · [官网](https://neuberg.ai) · 个人维护 · 中文 README
 
 **开源网页版金融终端：516 个面板、实时数据与多资产交易**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KoNananachan/Neuberg 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 214 --> 223
-    line [215, 216, 218, 220, 221, 222, 222]
+    title "KoNananachan/Neuberg 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 214 --> 231
+    line [215, 216, 218, 220, 221, 222, 220, 225, 226, 227, 229, 230, 230]
 ```
 
-2026-10-18 215 → 2026-11-02 222（+7）
+2026-10-18 215 → 2026-11-17 230（+15）
 
 
 ---

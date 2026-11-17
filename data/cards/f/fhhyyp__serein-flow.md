@@ -1,6 +1,6 @@
 # fhhyyp/serein-flow
 
-⭐ 188 · C# · 推送 2026-10-30 · [GitHub](https://github.com/fhhyyp/serein-flow) · 个人维护 · 中文 README
+⭐ 189 · C# · 推送 2026-10-30 · [GitHub](https://github.com/fhhyyp/serein-flow) · 个人维护 · 中文 README
 
 **Web 端工作流编排引擎，内置 MCP 供 AI 客户端安全操作流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fhhyyp/serein-flow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 186 --> 189
-    line [187, 188, 188]
+    title "fhhyyp/serein-flow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 186 --> 190
+    line [187, 188, 189, 189]
 ```
 
-2026-10-18 187 → 2026-11-02 188（+1）
+2026-10-18 187 → 2026-11-17 189（+2）
 
 
 ---

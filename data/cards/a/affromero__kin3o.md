@@ -1,6 +1,6 @@
 # affromero/kin3o
 
-⭐ 27 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/affromero/kin3o) · [官网](https://kin3o.com) · 个人维护
+⭐ 29 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/affromero/kin3o) · [官网](https://kin3o.com) · 个人维护
 
 **终端文本生成 Lottie 动画的 AI CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "affromero/kin3o 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "affromero/kin3o 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 26, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 29（+3）
 
 
 ---

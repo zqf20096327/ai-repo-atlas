@@ -1,6 +1,6 @@
 # ViTAE-Transformer/ViTAE-Transformer
 
-⭐ 280 · Python · 推送 2026-04-15 · [GitHub](https://github.com/ViTAE-Transformer/ViTAE-Transformer) · 组织维护
+⭐ 281 · Python · 推送 2026-04-15 · [GitHub](https://github.com/ViTAE-Transformer/ViTAE-Transformer) · 组织维护
 
 **ViTAE/ViTAEv2 视觉 Transformer 论文官方代码库**
 
@@ -44,13 +44,13 @@ NeurIPS'21 与 IJCV'22 论文的官方仓库，提供 ViTAE 与 ViTAEv2 的代�
 
 ```mermaid
 xychart-beta
-    title "ViTAE-Transformer/ViTAE-Transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 279 --> 281
-    line [280, 280]
+    title "ViTAE-Transformer/ViTAE-Transformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 279 --> 282
+    line [280, 281, 281]
 ```
 
-2026-10-18 280 → 2026-11-02 280（+0）
+2026-10-18 280 → 2026-11-17 281（+1）
 
 
 ---

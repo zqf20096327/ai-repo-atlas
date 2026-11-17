@@ -1,6 +1,6 @@
 # scrunchds/Command-Center
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/scrunchds/Command-Center) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/scrunchds/Command-Center) · 个人维护
 
 **面向 Obsidian 用户的本地优先 AI 多 agent 编排插件与个人运营中枢**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "scrunchds/Command-Center 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "scrunchds/Command-Center 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

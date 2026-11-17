@@ -1,6 +1,6 @@
 # wouldbe12/lexwiki
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/wouldbe12/lexwiki) · 组织维护
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/wouldbe12/lexwiki) · 组织维护
 
 **法律文档的结构化记忆库：AI 读取并持续更新，供任意 agent 查询**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wouldbe12/lexwiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "wouldbe12/lexwiki 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

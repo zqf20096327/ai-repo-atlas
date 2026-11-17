@@ -1,6 +1,6 @@
 # mmTheBest/arxie
 
-⭐ 114 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/mmTheBest/arxie) · [官网](https://github.com/mmTheBest/arxie) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/mmTheBest/arxie) · [官网](https://github.com/mmTheBest/arxie) · 个人维护
 
 **面向科研者的文献扎根 AI 助手：综述/基准/批判生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mmTheBest/arxie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    title "mmTheBest/arxie 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 113 --> 116
+    line [114, 115, 115]
 ```
 
-2026-10-18 114 → 2026-11-02 114（+0）
+2026-10-18 114 → 2026-11-17 115（+1）
 
 
 ---

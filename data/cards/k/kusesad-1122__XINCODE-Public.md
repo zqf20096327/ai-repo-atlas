@@ -1,6 +1,6 @@
 # kusesad-1122/XINCODE-Public
 
-⭐ 23 · C · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/kusesad-1122/XINCODE-Public) · 个人维护 · 中文 README
+⭐ 25 · C · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/kusesad-1122/XINCODE-Public) · 个人维护 · 中文 README
 
 **运行在 Android 手机上的纯 Kotlin 原生 AI 智能体应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kusesad-1122/XINCODE-Public 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    title "kusesad-1122/XINCODE-Public 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [24, 23, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 23（-1）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

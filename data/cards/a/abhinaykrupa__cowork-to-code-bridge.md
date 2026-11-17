@@ -1,6 +1,6 @@
 # abhinaykrupa/cowork-to-code-bridge
 
-⭐ 16 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/abhinaykrupa/cowork-to-code-bridge) · [官网](https://github.com/abhinaykrupa/cowork-to-code-bridge#install--two-pastes-total) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/abhinaykrupa/cowork-to-code-bridge) · [官网](https://github.com/abhinaykrupa/cowork-to-code-bridge#install--two-pastes-total) · 个人维护
 
 **让云端 Claude Cowork 通过 Claude Code 在本机执行任务的桥接工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "abhinaykrupa/cowork-to-code-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "abhinaykrupa/cowork-to-code-bridge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 16, 15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

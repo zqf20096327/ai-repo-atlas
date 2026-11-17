@@ -1,6 +1,6 @@
 # Jinsong-Zhou/xhs-autopilot
 
-⭐ 20 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/Jinsong-Zhou/xhs-autopilot) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/Jinsong-Zhou/xhs-autopilot) · 个人维护 · 中文 README
 
 **面向小红书创作者的 AI Agent 内容创作全流程自动化技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jinsong-Zhou/xhs-autopilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "Jinsong-Zhou/xhs-autopilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # POWER-KI/POWER-KI
 
-⭐ 17 · C++ · 推送 2026-08-13 · [GitHub](https://github.com/POWER-KI/POWER-KI) · [官网](http://www.POWER-KI.com) · 组织维护
+⭐ 17 · C++ · 推送 2026-11-03 · [GitHub](https://github.com/POWER-KI/POWER-KI) · [官网](http://www.POWER-KI.com) · 组织维护
 
 **面向工业自动化的编程语言及开发环境，含本地 LLM 推理能力**
 
@@ -46,12 +46,12 @@ XPLAB 开发的 Windows 专有编程语言，自 2010 年起用于工厂自动�
 ```mermaid
 xychart-beta
     title "POWER-KI/POWER-KI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

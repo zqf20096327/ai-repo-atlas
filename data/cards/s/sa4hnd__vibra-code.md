@@ -1,6 +1,6 @@
 # sa4hnd/vibra-code
 
-⭐ 151 · TypeScript · AGPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/sa4hnd/vibra-code) · [官网](https://mintlify.wiki/sa4hnd/vibra-code) · 个人维护
+⭐ 155 · TypeScript · AGPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/sa4hnd/vibra-code) · [官网](https://mintlify.wiki/sa4hnd/vibra-code) · 个人维护
 
 **开源 AI 移动应用生成器：描述需求由 AI 生成 App 并手机预览**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sa4hnd/vibra-code 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 136 --> 152
-    line [137, 138, 139, 146, 149, 150, 151]
+    title "sa4hnd/vibra-code 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 136 --> 156
+    line [137, 138, 139, 146, 149, 150, 151, 138, 154, 155, 155]
 ```
 
-2026-10-18 137 → 2026-11-02 151（+14）
+2026-10-18 137 → 2026-11-17 155（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-twinkle/Eval
 
-⭐ 117 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ai-twinkle/Eval) · [官网](https://twinkleai.tw) · 组织维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ai-twinkle/Eval) · [官网](https://twinkleai.tw) · 组织维护 · 中文 README
 
 **并行 API 请求的 LLM 评测框架，单机跑完整评测流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-twinkle/Eval 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 117, 117]
+    title "ai-twinkle/Eval 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 116 --> 120
+    line [117, 118, 117, 118, 119, 119]
 ```
 
-2026-10-18 117 → 2026-11-02 117（+0）
+2026-10-18 117 → 2026-11-17 119（+2）
 
 
 ---

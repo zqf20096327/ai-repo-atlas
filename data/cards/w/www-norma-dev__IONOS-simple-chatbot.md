@@ -1,6 +1,6 @@
 # www-norma-dev/IONOS-simple-chatbot
 
-⭐ 15 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/www-norma-dev/IONOS-simple-chatbot) · [官网](https://www-norma-dev.github.io/IONOS-simple-chatbot/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/www-norma-dev/IONOS-simple-chatbot) · [官网](https://www-norma-dev.github.io/IONOS-simple-chatbot/) · 组织维护
 
 **基于 IONOS AI 的全栈对话机器人起步包（ReAct agent）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "www-norma-dev/IONOS-simple-chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "www-norma-dev/IONOS-simple-chatbot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

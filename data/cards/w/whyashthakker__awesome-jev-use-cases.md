@@ -1,6 +1,6 @@
 # whyashthakker/awesome-jev-use-cases
 
-⭐ 18 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/whyashthakker/awesome-jev-use-cases) · [官网](https://www.explainx.ai) · 个人维护
+⭐ 19 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/whyashthakker/awesome-jev-use-cases) · [官网](https://www.explainx.ai) · 个人维护
 
 **50 个 Jev 与 OpenAI 并排对比的交互式示例画廊**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "whyashthakker/awesome-jev-use-cases 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "whyashthakker/awesome-jev-use-cases 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

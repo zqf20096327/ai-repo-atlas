@@ -1,6 +1,6 @@
 # rio-labs/rio
 
-⭐ 3,648 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rio-labs/rio) · [官网](https://rio.dev) · 组织维护
+⭐ 3,651 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rio-labs/rio) · [官网](https://rio.dev) · 组织维护
 
 **纯 Python 构建 Web 与桌面应用的 UI 框架，无需 HTML/CSS/JS**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rio-labs/rio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 3646 --> 3649
-    line [3647, 3648, 3648]
+    title "rio-labs/rio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 3646 --> 3652
+    line [3647, 3648, 3650, 3651, 3651]
 ```
 
-2026-10-18 3,647 → 2026-11-02 3,648（+1）
+2026-10-18 3,647 → 2026-11-17 3,651（+4）
 
 
 ---

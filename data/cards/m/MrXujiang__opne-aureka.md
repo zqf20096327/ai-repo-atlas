@@ -1,6 +1,6 @@
 # MrXujiang/opne-aureka
 
-⭐ 69 · TypeScript · GPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/MrXujiang/opne-aureka) · [官网](http://aureka.jitword.com) · 个人维护 · 中文 README
+⭐ 72 · TypeScript · GPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/MrXujiang/opne-aureka) · [官网](http://aureka.jitword.com) · 个人维护 · 中文 README
 
 **对话式 Chat BI 平台：上传表格自然语言分析生成图表报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MrXujiang/opne-aureka 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 66 --> 70
-    line [67, 69, 69]
+    title "MrXujiang/opne-aureka 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 66 --> 73
+    line [67, 69, 71, 72, 72]
 ```
 
-2026-10-18 67 → 2026-11-02 69（+2）
+2026-10-18 67 → 2026-11-17 72（+5）
 
 
 ---

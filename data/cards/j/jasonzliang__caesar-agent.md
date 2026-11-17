@@ -1,6 +1,6 @@
 # jasonzliang/caesar-agent
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/jasonzliang/caesar-agent) · [官网](https://jasonzliang.github.io/caesar-agent/) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/jasonzliang/caesar-agent) · [官网](https://jasonzliang.github.io/caesar-agent/) · 个人维护
 
 **自主网络研究 agent：图探索+对抗式综合生成研究答案**
 
@@ -45,13 +45,13 @@ Caesar 是一个自主 AI 研究 agent：以 Perceive–Think–Act 循环递归
 
 ```mermaid
 xychart-beta
-    title "jasonzliang/caesar-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    title "jasonzliang/caesar-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 21
+    line [14, 15, 16, 17, 15, 19, 20, 20]
 ```
 
-2026-10-18 14 → 2026-11-02 17（+3）
+2026-10-18 14 → 2026-11-17 20（+6）
 
 
 ---

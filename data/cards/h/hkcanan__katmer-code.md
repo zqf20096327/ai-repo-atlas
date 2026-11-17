@@ -1,6 +1,6 @@
 # hkcanan/katmer-code
 
-⭐ 476 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/hkcanan/katmer-code) · 个人维护
+⭐ 478 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/hkcanan/katmer-code) · 个人维护
 
 **Obsidian 多供应商 AI 侧边栏插件：四家 AI 助手同栏对话与学术研究技能**
 
@@ -45,13 +45,13 @@ Obsidian 桌面端插件，在侧边栏接入 Claude Code、Gemini、Codex、Ant
 
 ```mermaid
 xychart-beta
-    title "hkcanan/katmer-code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 473 --> 477
-    line [474, 475, 476, 475, 476, 476]
+    title "hkcanan/katmer-code 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 473 --> 479
+    line [474, 475, 476, 475, 476, 477, 478, 478]
 ```
 
-2026-10-18 474 → 2026-11-02 476（+2）
+2026-10-18 474 → 2026-11-17 478（+4）
 
 
 ---

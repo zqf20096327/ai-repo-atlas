@@ -1,6 +1,6 @@
 # modular/llm-inference-handbook
 
-⭐ 472 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modular/llm-inference-handbook) · [官网](https://handbook.modular.com/) · 组织维护
+⭐ 483 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/modular/llm-inference-handbook) · [官网](https://handbook.modular.com/) · 组织维护
 
 **LLM 推理系统的实践指南（Docusaurus 站点源码）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "modular/llm-inference-handbook 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 456 --> 473
-    line [457, 459, 462, 464, 465, 466, 471, 472, 472]
+    title "modular/llm-inference-handbook 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 455 --> 485
+    line [457, 459, 462, 464, 465, 466, 471, 472, 464, 477, 480, 481, 483, 483]
 ```
 
-2026-10-18 457 → 2026-11-02 472（+15）
+2026-10-18 457 → 2026-11-17 483（+26）
 
 
 ---

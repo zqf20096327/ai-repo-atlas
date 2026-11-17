@@ -1,6 +1,6 @@
 # kanchengw/cnllm
 
-⭐ 171 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/kanchengw/cnllm) · 个人维护 · 中文 README
+⭐ 161 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/kanchengw/cnllm) · 个人维护 · 中文 README
 
 **中文大模型统一 OpenAI 兼容接口的 Python 适配工具包**
 
@@ -45,13 +45,13 @@ CNLLM 是面向开发者的 Python 工具包，为 DeepSeek、KIMI、豆包、�
 
 ```mermaid
 xychart-beta
-    title "kanchengw/cnllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 170 --> 174
-    line [173, 171, 171]
+    title "kanchengw/cnllm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 160 --> 174
+    line [173, 171, 161, 161]
 ```
 
-2026-10-18 173 → 2026-11-02 171（-2）
+2026-10-18 173 → 2026-11-17 161（-12）
 
 
 ---

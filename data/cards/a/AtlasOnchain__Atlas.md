@@ -1,6 +1,6 @@
 # AtlasOnchain/Atlas
 
-⭐ 34 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/AtlasOnchain/Atlas) · 组织维护
+⭐ 37 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/AtlasOnchain/Atlas) · 组织维护
 
 **Solana 链上资金流追踪器：定位先手钱包与跟风传播**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 Solana 链上资金流分析工具：维护一组受关注�
 
 ```mermaid
 xychart-beta
-    title "AtlasOnchain/Atlas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "AtlasOnchain/Atlas 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 32 --> 38
+    line [33, 34, 35, 37, 37]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 37（+4）
 
 
 ---

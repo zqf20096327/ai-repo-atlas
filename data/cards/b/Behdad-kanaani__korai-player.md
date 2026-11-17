@@ -1,6 +1,6 @@
 # Behdad-kanaani/korai-player
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/Behdad-kanaani/korai-player) · [官网](https://behdad-kanaani.github.io/kmp) · 个人维护
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Behdad-kanaani/korai-player) · [官网](https://behdad-kanaani.github.io/kmp) · 个人维护
 
 **本地优先的桌面音乐播放器，含 DSP、BPM 检测与离线推荐**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Behdad-kanaani/korai-player 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

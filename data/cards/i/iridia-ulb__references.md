@@ -1,6 +1,6 @@
 # iridia-ulb/references
 
-⭐ 11 · TeX · 推送 2026-10-29 · [GitHub](https://github.com/iridia-ulb/references) · [官网](https://iridia-ulb.github.io/references/) · 组织维护
+⭐ 11 · TeX · 推送 2026-11-15 · [GitHub](https://github.com/iridia-ulb/references) · [官网](https://iridia-ulb.github.io/references/) · 组织维护
 
 **IRIDIA 实验室共享的 BibTeX 参考文献库：供论文引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iridia-ulb/references 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

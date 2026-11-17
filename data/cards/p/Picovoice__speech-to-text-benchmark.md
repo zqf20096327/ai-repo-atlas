@@ -1,6 +1,6 @@
 # Picovoice/speech-to-text-benchmark
 
-⭐ 699 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Picovoice/speech-to-text-benchmark) · [官网](https://picovoice.ai/) · 组织维护
+⭐ 699 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Picovoice/speech-to-text-benchmark) · [官网](https://picovoice.ai/) · 组织维护
 
 **语音转文字引擎的基准测试框架：跨引擎评测 WER/CER/延迟**
 
@@ -45,12 +45,12 @@ Picovoice 维护的语音转文字（STT）引擎基准测试框架，面向开�
 ```mermaid
 xychart-beta
     title "Picovoice/speech-to-text-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 698 --> 700
     line [699, 699]
 ```
 
-2026-10-18 699 → 2026-11-02 699（+0）
+2026-10-18 699 → 2026-11-17 699（+0）
 
 
 ---

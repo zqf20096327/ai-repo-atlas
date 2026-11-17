@@ -1,6 +1,6 @@
 # InternLM/InternLumina-U2
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/InternLM/InternLumina-U2) · [官网](https://internlm.github.io/InternLumina-U2/) · 组织维护 · 中文 README
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/InternLM/InternLumina-U2) · [官网](https://internlm.github.io/InternLumina-U2/) · 组织维护 · 中文 README
 
 **统一多模态模型：文生图、图像/视频/3D理解与图像编辑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/InternLumina-U2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 77 --> 83
-    line [78, 80, 81, 80, 81, 82]
+    title "InternLM/InternLumina-U2 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 77 --> 85
+    line [78, 80, 81, 80, 81, 82, 80, 83, 84, 84]
 ```
 
-2026-10-18 78 → 2026-11-02 82（+4）
+2026-10-18 78 → 2026-11-17 84（+6）
 
 
 ---

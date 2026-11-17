@@ -1,6 +1,6 @@
 # shuowu/pi-tree
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/shuowu/pi-tree) · [官网](https://shuowu.github.io/pi-tree/) · 个人维护
+⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/shuowu/pi-tree) · [官网](https://shuowu.github.io/pi-tree/) · 个人维护
 
 **本地优先的 AI 阅读伴侣：树状对话读图书/论文/新闻/视频**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuowu/pi-tree 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "shuowu/pi-tree 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

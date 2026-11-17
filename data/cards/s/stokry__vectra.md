@@ -1,6 +1,6 @@
 # stokry/vectra
 
-⭐ 13 · Ruby · MIT · 推送 2026-01-28 · [GitHub](https://github.com/stokry/vectra) · [官网](https://vectra-docs.netlify.app/) · 个人维护
+⭐ 13 · Ruby · MIT · 推送 2026-11-03 · [GitHub](https://github.com/stokry/vectra) · [官网](https://vectra-docs.netlify.app/) · 个人维护
 
 **统一 Ruby 向量数据库客户端：一次编写，多后端切换**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "stokry/vectra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

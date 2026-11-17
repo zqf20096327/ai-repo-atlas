@@ -1,6 +1,6 @@
 # CosmosYi/AutoControl-Arena
 
-⭐ 92 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/CosmosYi/AutoControl-Arena) · [官网](https://cosmosyi.github.io/AutoControl-Arena/) · 组织维护 · 中文 README
+⭐ 105 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/CosmosYi/AutoControl-Arena) · [官网](https://cosmosyi.github.io/AutoControl-Arena/) · 组织维护 · 中文 README
 
 **前沿 AI 安全评测框架：自动合成可执行环境压测模型风险**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CosmosYi/AutoControl-Arena 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 91 --> 96
-    line [95, 94, 93, 92, 92]
+    title "CosmosYi/AutoControl-Arena 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 106
+    line [95, 94, 93, 92, 105, 105]
 ```
 
-2026-10-18 95 → 2026-11-02 92（-3）
+2026-10-18 95 → 2026-11-17 105（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # jonnor/embeddedml
 
-⭐ 317 · Jupyter Notebook · 推送 2026-09-24 · [GitHub](https://github.com/jonnor/embeddedml) · 个人维护
+⭐ 318 · Jupyter Notebook · 推送 2026-09-24 · [GitHub](https://github.com/jonnor/embeddedml) · 个人维护
 
 **嵌入式/TinyML 笔记仓库：边缘侧机器学习知识整理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jonnor/embeddedml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 315 --> 318
-    line [316, 317, 317]
+    title "jonnor/embeddedml 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 315 --> 319
+    line [316, 317, 316, 317, 318, 318]
 ```
 
-2026-10-18 316 → 2026-11-02 317（+1）
+2026-10-18 316 → 2026-11-17 318（+2）
 
 
 ---

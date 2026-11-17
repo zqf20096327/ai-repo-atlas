@@ -1,6 +1,6 @@
 # rayliuca/grammared-language
 
-⭐ 38 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/rayliuca/grammared-language) · [官网](https://github.com/rayliuca/grammared-language) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/rayliuca/grammared-language) · [官网](https://github.com/rayliuca/grammared-language) · 个人维护
 
 **把开源语法纠错模型接入 LanguageTool 的 gRPC 远程规则服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rayliuca/grammared-language 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 38]
+    title "rayliuca/grammared-language 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 37, 38, 36, 39, 40, 40]
 ```
 
-2026-10-18 35 → 2026-11-02 38（+3）
+2026-10-18 35 → 2026-11-17 40（+5）
 
 
 ---

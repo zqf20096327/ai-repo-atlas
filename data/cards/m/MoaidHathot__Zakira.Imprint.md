@@ -1,6 +1,6 @@
 # MoaidHathot/Zakira.Imprint
 
-⭐ 23 · C# · MIT · 推送 2026-06-11 · [GitHub](https://github.com/MoaidHathot/Zakira.Imprint) · 个人维护
+⭐ 24 · C# · MIT · 推送 2026-06-11 · [GitHub](https://github.com/MoaidHathot/Zakira.Imprint) · 个人维护
 
 **通过 NuGet 包分发 AI Skills 与 MCP 配置的 .NET 工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoaidHathot/Zakira.Imprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "MoaidHathot/Zakira.Imprint 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

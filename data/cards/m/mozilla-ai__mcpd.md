@@ -1,6 +1,6 @@
 # mozilla-ai/mcpd
 
-⭐ 189 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mozilla-ai/mcpd) · [官网](https://docs.mozilla.ai/mcpd) · 组织维护
+⭐ 194 · Go · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/mozilla-ai/mcpd) · [官网](https://docs.mozilla.ai/mcpd) · 组织维护
 
 **声明式管理 MCP 服务器的守护进程，统一暴露 HTTP 接口**
 
@@ -45,13 +45,13 @@ Mozilla AI 开发的 mcpd 守护进程：以 .mcpd.toml 声明式配置管理 MC
 
 ```mermaid
 xychart-beta
-    title "mozilla-ai/mcpd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 184 --> 190
-    line [185, 187, 188, 189]
+    title "mozilla-ai/mcpd 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 184 --> 195
+    line [185, 187, 188, 189, 187, 193, 194, 194]
 ```
 
-2026-10-18 185 → 2026-11-02 189（+4）
+2026-10-18 185 → 2026-11-17 194（+9）
 
 
 ---

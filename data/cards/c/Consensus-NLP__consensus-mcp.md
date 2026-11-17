@@ -1,6 +1,6 @@
 # Consensus-NLP/consensus-mcp
 
-⭐ 31 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Consensus-NLP/consensus-mcp) · [官网](https://mcp.consensus.app/mcp) · 组织维护
+⭐ 30 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Consensus-NLP/consensus-mcp) · [官网](https://docs.consensus.app/consensus-mcp) · 组织维护
 
 **Consensus 学术搜索的官方 MCP 服务器，供 AI 客户端检索 2.2 亿+论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Consensus-NLP/consensus-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
+    title "Consensus-NLP/consensus-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-16", "2026-11-17"]
     y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31, 31]
+    line [28, 29, 30, 31, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 31（+3）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

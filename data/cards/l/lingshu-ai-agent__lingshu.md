@@ -1,6 +1,6 @@
 # lingshu-ai-agent/lingshu
 
-⭐ 11 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lingshu-ai-agent/lingshu) · [官网](https://lingshu-ai-agent.github.io/lingshu-website/) · 组织维护 · 中文 README
+⭐ 12 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lingshu-ai-agent/lingshu) · [官网](https://lingshu-ai-agent.github.io/lingshu-website/) · 组织维护 · 中文 README
 
 **面向 JDK 8+ 企业 Java 栈的嵌入式 ReAct Agent 引擎**
 
@@ -45,13 +45,13 @@ LingShu 是用 Java 编写的 Agent 引擎，设计为嵌入 Spring Boot 进程�
 
 ```mermaid
 xychart-beta
-    title "lingshu-ai-agent/lingshu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "lingshu-ai-agent/lingshu 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

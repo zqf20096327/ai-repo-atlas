@@ -1,6 +1,6 @@
 # Ikomia-dev/IkomiaApi
 
-⭐ 247 · Python · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/Ikomia-dev/IkomiaApi) · [官网](https://ikomia-dev.github.io/python-api-documentation/) · 组织维护
+⭐ 246 · Python · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/Ikomia-dev/IkomiaApi) · [官网](https://ikomia-dev.github.io/python-api-documentation/) · 组织维护
 
 **面向开发者的计算机视觉工作流编排 Python 框架**
 
@@ -44,13 +44,13 @@ Ikomia 提供统一的 Python 框架，将来自 OpenCV、Detectron2、OpenMMLab
 
 ```mermaid
 xychart-beta
-    title "Ikomia-dev/IkomiaApi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 246 --> 248
-    line [247, 247]
+    title "Ikomia-dev/IkomiaApi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 245 --> 248
+    line [247, 246, 246]
 ```
 
-2026-10-18 247 → 2026-11-02 247（+0）
+2026-10-18 247 → 2026-11-17 246（-1）
 
 
 ---

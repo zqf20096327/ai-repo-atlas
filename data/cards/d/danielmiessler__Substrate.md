@@ -1,6 +1,6 @@
 # danielmiessler/Substrate
 
-⭐ 932 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/danielmiessler/Substrate) · [官网](https://www.youtube.com/watch?v=ky7ejowc_qY) · 个人维护
+⭐ 939 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/danielmiessler/Substrate) · [官网](https://www.youtube.com/watch?v=ky7ejowc_qY) · 个人维护
 
 **连接17+知识组件的人类福祉知识库与数据框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielmiessler/Substrate 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 928 --> 933
-    line [929, 930, 931, 930, 931, 932]
+    title "danielmiessler/Substrate 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 928 --> 940
+    line [929, 930, 931, 930, 931, 932, 931, 933, 934, 937, 938, 939, 939]
 ```
 
-2026-10-18 929 → 2026-11-02 932（+3）
+2026-10-18 929 → 2026-11-17 939（+10）
 
 
 ---

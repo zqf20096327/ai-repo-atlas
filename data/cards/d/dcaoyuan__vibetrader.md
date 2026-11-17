@@ -1,6 +1,6 @@
 # dcaoyuan/vibetrader
 
-⭐ 55 · TypeScript · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/dcaoyuan/vibetrader) · [官网](https://dcaoyuan.github.io/vibetrader/) · 个人维护
+⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/dcaoyuan/vibetrader) · [官网](https://dcaoyuan.github.io/vibetrader/) · 个人维护
 
 **面向 AI 的开源交易平台：图表查看与指标截图输出**
 
@@ -45,13 +45,13 @@ VibeTrader 是一个开源交易平台，提供 API 指定股票代码、时间�
 
 ```mermaid
 xychart-beta
-    title "dcaoyuan/vibetrader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "dcaoyuan/vibetrader 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

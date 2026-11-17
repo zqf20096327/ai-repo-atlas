@@ -1,6 +1,6 @@
 # GlitterKill/sdl-mcp
 
-⭐ 497 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/GlitterKill/sdl-mcp) · 个人维护
+⭐ 501 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/GlitterKill/sdl-mcp) · 个人维护
 
 **面向编码 Agent 的代码上下文预算层（MCP 服务器）**
 
@@ -45,13 +45,13 @@ SDL-MCP 将仓库索引为符号图，通过 MCP（stdio/HTTP）向编码 Agent 
 
 ```mermaid
 xychart-beta
-    title "GlitterKill/sdl-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 491 --> 498
-    line [492, 493, 495, 496, 497, 497]
+    title "GlitterKill/sdl-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 491 --> 502
+    line [492, 493, 495, 496, 497, 495, 498, 499, 500, 501, 501]
 ```
 
-2026-10-18 492 → 2026-11-02 497（+5）
+2026-10-18 492 → 2026-11-17 501（+9）
 
 
 ---

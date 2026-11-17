@@ -1,6 +1,6 @@
 # Ishannaik/agent-sweep
 
-⭐ 88 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Ishannaik/agent-sweep) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Ishannaik/agent-sweep) · 个人维护
 
 **扫描并就地脱敏 AI 编程助手本地历史中泄露密钥的离线 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ishannaik/agent-sweep 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
+    title "Ishannaik/agent-sweep 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 85 --> 89
-    line [86, 87, 88, 88]
+    line [86, 87, 88, 87, 88, 88]
 ```
 
-2026-10-18 86 → 2026-11-02 88（+2）
+2026-10-18 86 → 2026-11-17 88（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # born-ml/born
 
-⭐ 138 · Go · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/born-ml/born) · [官网](https://pkg.go.dev/github.com/born-ml/born) · 组织维护
+⭐ 142 · Go · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/born-ml/born) · [官网](https://pkg.go.dev/github.com/born-ml/born) · 组织维护
 
 **纯 Go 深度学习框架：单二进制训练与部署模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "born-ml/born 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 136 --> 139
-    line [137, 138, 138]
+    title "born-ml/born 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 136 --> 143
+    line [137, 138, 137, 139, 141, 142, 142]
 ```
 
-2026-10-18 137 → 2026-11-02 138（+1）
+2026-10-18 137 → 2026-11-17 142（+5）
 
 
 ---

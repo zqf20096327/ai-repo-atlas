@@ -1,6 +1,6 @@
 # tony1223/better-agent-terminal
 
-⭐ 519 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tony1223/better-agent-terminal) · 个人维护 · 中文 README
+⭐ 523 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/tony1223/better-agent-terminal) · 个人维护 · 中文 README
 
 **多工作区终端聚合器，内置 Claude Code/Codex agent 面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tony1223/better-agent-terminal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 518 --> 520
-    line [519, 519]
+    title "tony1223/better-agent-terminal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 518 --> 524
+    line [519, 521, 522, 523, 523]
 ```
 
-2026-10-18 519 → 2026-11-02 519（+0）
+2026-10-18 519 → 2026-11-17 523（+4）
 
 
 ---

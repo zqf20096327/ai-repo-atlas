@@ -1,6 +1,6 @@
 # flatplanet/CenterOS
 
-⭐ 60 · HTML · MIT · 推送 2026-09-01 · [GitHub](https://github.com/flatplanet/CenterOS) · [官网](https://CenterOS.ai) · 个人维护
+⭐ 62 · HTML · MIT · 推送 2026-09-01 · [GitHub](https://github.com/flatplanet/CenterOS) · [官网](https://CenterOS.ai) · 个人维护
 
 **给个人/小团队的可克隆 AI 工作系统：让 AI 有持久记忆与工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "flatplanet/CenterOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 57 --> 61
-    line [58, 59, 60, 60]
+    title "flatplanet/CenterOS 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 57 --> 63
+    line [58, 59, 60, 59, 61, 62, 62]
 ```
 
-2026-10-18 58 → 2026-11-02 60（+2）
+2026-10-18 58 → 2026-11-17 62（+4）
 
 
 ---

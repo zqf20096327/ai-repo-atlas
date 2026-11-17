@@ -1,6 +1,6 @@
 # maheshvaikri-code/snapllm
 
-⭐ 42 · C++ · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/maheshvaikri-code/snapllm) · 个人维护
+⭐ 44 · C++ · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/maheshvaikri-code/snapllm) · 个人维护
 
 **本地多模型 LLM 推理引擎：常驻多模型免重载切换**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maheshvaikri-code/snapllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "maheshvaikri-code/snapllm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

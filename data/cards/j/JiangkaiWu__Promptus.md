@@ -1,6 +1,6 @@
 # JiangkaiWu/Promptus
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/JiangkaiWu/Promptus) · [官网](https://arxiv.org/abs/2405.20032) · 组织维护
+⭐ 102 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/JiangkaiWu/Promptus) · [官网](https://arxiv.org/abs/2405.20032) · 组织维护
 
 **AAAI 2026 论文官方实现：用 Stable Diffusion 提示词流替代视频流传输**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JiangkaiWu/Promptus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 95 --> 100
-    line [96, 97, 98, 99, 99]
+    title "JiangkaiWu/Promptus 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 95 --> 103
+    line [96, 97, 98, 99, 98, 100, 101, 102, 102]
 ```
 
-2026-10-18 96 → 2026-11-02 99（+3）
+2026-10-18 96 → 2026-11-17 102（+6）
 
 
 ---

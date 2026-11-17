@@ -1,6 +1,6 @@
 # truman-t3/keyshot-mcp
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/truman-t3/keyshot-mcp) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/truman-t3/keyshot-mcp) · 个人维护 · 中文 README
 
 **通过 AI Agent 控制本地 KeyShot 进行产品渲染的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "truman-t3/keyshot-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 21 --> 27
-    line [22, 24, 25, 26, 26]
+    title "truman-t3/keyshot-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 31
+    line [22, 24, 25, 26, 25, 28, 29, 30, 30]
 ```
 
-2026-10-18 22 → 2026-11-02 26（+4）
+2026-10-18 22 → 2026-11-17 30（+8）
 
 
 ---

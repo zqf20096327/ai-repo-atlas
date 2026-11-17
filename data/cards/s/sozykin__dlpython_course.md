@@ -1,6 +1,6 @@
 # sozykin/dlpython_course
 
-⭐ 321 · Jupyter Notebook · 推送 2026-05-21 · [GitHub](https://github.com/sozykin/dlpython_course) · [官网](https://asozykin.ru/courses/nnpython) · 个人维护
+⭐ 322 · Jupyter Notebook · 推送 2026-05-21 · [GitHub](https://github.com/sozykin/dlpython_course) · [官网](https://asozykin.ru/courses/nnpython) · 个人维护
 
 **深度学习课程配套代码示例集（Keras/PyTorch）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sozykin/dlpython_course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 320 --> 322
-    line [321, 321]
+    title "sozykin/dlpython_course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 320 --> 323
+    line [321, 322, 322]
 ```
 
-2026-10-18 321 → 2026-11-02 321（+0）
+2026-10-18 321 → 2026-11-17 322（+1）
 
 
 ---

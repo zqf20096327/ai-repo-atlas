@@ -1,6 +1,6 @@
 # raphaelmansuy/digital_palace
 
-⭐ 72 · Python · 推送 2025-11-15 · [GitHub](https://github.com/raphaelmansuy/digital_palace) · [官网](https://www.elitizon.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人 AI 知识库与学习笔记枢纽：概念、工具、博客策展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raphaelmansuy/digital_palace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-10 72（+0）
 
 
 ---

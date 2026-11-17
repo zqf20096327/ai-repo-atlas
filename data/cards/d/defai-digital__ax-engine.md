@@ -1,6 +1,6 @@
 # defai-digital/ax-engine
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/defai-digital/ax-engine) · [官网](https://ax-engine.app) · 组织维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/defai-digital/ax-engine) · [官网](https://ax-engine.app) · 组织维护
 
 **面向 Apple Silicon 的本地多模型 LLM 推理运行时，提供 OpenAI 兼容接口**
 
@@ -45,13 +45,13 @@ Mac 优先的 Apple Silicon 本地推理运行时，基于 MLX 运行模型图�
 
 ```mermaid
 xychart-beta
-    title "defai-digital/ax-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "defai-digital/ax-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

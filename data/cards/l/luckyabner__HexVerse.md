@@ -1,6 +1,6 @@
 # luckyabner/HexVerse
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/luckyabner/HexVerse) · [官网](https://hexverse.luckyabner.top) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/luckyabner/HexVerse) · [官网](https://hexverse.luckyabner.top) · 个人维护 · 中文 README
 
 **AI 玄学占卜应用：小六壬、六爻与命理分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luckyabner/HexVerse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "luckyabner/HexVerse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

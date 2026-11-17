@@ -1,6 +1,6 @@
 # TUMFTM/RID
 
-⭐ 33 · Python · LGPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/TUMFTM/RID) · 组织维护
+⭐ 33 · Python · LGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/TUMFTM/RID) · 组织维护
 
 **屋顶结构语义分割数据集与光伏潜力评估代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TUMFTM/RID 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

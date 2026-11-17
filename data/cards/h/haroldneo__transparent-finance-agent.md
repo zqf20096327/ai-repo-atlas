@@ -1,6 +1,6 @@
 # haroldneo/transparent-finance-agent
 
-⭐ 11 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/haroldneo/transparent-finance-agent) · [官网](https://transparent-finance-agent.harold1998z.chatgpt.site) · 个人维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/haroldneo/transparent-finance-agent) · [官网](https://transparent-finance-agent.harold1998z.chatgpt.site) · 个人维护 · 中文 README
 
 **面向一人公司的财务报税 Agent：票据记账、分析与报税闭环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "haroldneo/transparent-finance-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "haroldneo/transparent-finance-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 7 --> 47
+    line [10, 11, 14, 25, 34, 39, 43, 44, 44]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 44（+34）
 
 
 ---

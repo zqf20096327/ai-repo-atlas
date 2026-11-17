@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepjavalibrary/djl-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 352 --> 354
-    line [353, 353]
+    title "deepjavalibrary/djl-demo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 351 --> 354
+    line [353, 352, 353, 353]
 ```
 
-2026-10-18 353 → 2026-11-02 353（+0）
+2026-10-18 353 → 2026-11-17 353（+0）
 
 
 ---

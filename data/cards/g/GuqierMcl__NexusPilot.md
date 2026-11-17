@@ -1,6 +1,6 @@
 # GuqierMcl/NexusPilot
 
-⭐ 129 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/GuqierMcl/NexusPilot) · [官网](https://nexuspilot.dev) · 个人维护 · 中文 README
+⭐ 132 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/GuqierMcl/NexusPilot) · [官网](https://nexuspilot.dev) · 个人维护 · 中文 README
 
 **AI 原生跨平台数据库工作台：自然语言查询与操作多种数据库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GuqierMcl/NexusPilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "GuqierMcl/NexusPilot 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
     y-axis "stars" 127 --> 136
-    line [134, 135, 134, 128, 129, 129]
+    line [134, 135, 134, 128, 129, 128, 129, 128, 130, 131, 132, 132]
 ```
 
-2026-10-18 134 → 2026-11-02 129（-5）
+2026-10-18 134 → 2026-11-17 132（-2）
 
 
 ---

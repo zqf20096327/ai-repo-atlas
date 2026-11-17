@@ -1,6 +1,6 @@
 # ggui-ai/ggui
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/ggui-ai/ggui) · [官网](https://ggui.ai) · 组织维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/ggui-ai/ggui) · [官网](https://ggui.ai) · 组织维护
 
 **MCP-UI 协议与参考运行时：让 AI agent 按需生成可交互界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggui-ai/ggui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "ggui-ai/ggui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

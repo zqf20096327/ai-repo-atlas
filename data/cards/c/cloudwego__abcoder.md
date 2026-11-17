@@ -1,6 +1,6 @@
 # cloudwego/abcoder
 
-⭐ 390 · Go · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/cloudwego/abcoder) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向 LLM 的代码处理框架：UniAST 与本地 Code-RAG MCP 工具**
 
@@ -11,7 +11,7 @@ Cloudwego 维护的 AI 代码处理框架，核心是语言无关的通用抽象
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Cloudwego 维护的 AI 代码处理框架，核心是语言无关的通用抽象
 ```mermaid
 xychart-beta
     title "cloudwego/abcoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 389 --> 391
-    line [390, 390]
+    x-axis ["2026-10-18", "2026-11-08"]
+    y-axis "stars" 389 --> 392
+    line [390, 391]
 ```
 
-2026-10-18 390 → 2026-11-02 390（+0）
+2026-10-18 390 → 2026-11-08 391（+1）
 
 
 ---

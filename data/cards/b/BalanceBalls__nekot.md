@@ -1,6 +1,6 @@
 # BalanceBalls/nekot
 
-⭐ 200 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/BalanceBalls/nekot) · 个人维护
+⭐ 201 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/BalanceBalls/nekot) · 个人维护
 
 **终端 TUI 中与本地及云端 LLM 对话的便携客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BalanceBalls/nekot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 197 --> 201
-    line [198, 199, 200, 200]
+    title "BalanceBalls/nekot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 197 --> 203
+    line [198, 199, 200, 199, 202, 201, 201]
 ```
 
-2026-10-18 198 → 2026-11-02 200（+2）
+2026-10-18 198 → 2026-11-17 201（+3）
 
 
 ---

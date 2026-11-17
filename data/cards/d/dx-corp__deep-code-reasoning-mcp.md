@@ -1,6 +1,6 @@
 # dx-corp/deep-code-reasoning-mcp
 
-⭐ 108 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/dx-corp/deep-code-reasoning-mcp) · 个人维护
+⭐ 109 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/dx-corp/deep-code-reasoning-mcp) · 个人维护
 
 **MCP 服务器：让 Claude Code 将复杂代码分析移交给 Gemini 处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dx-corp/deep-code-reasoning-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "dx-corp/deep-code-reasoning-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 107 --> 110
-    line [109, 108, 108]
+    line [109, 108, 109, 109]
 ```
 
-2026-10-18 109 → 2026-11-02 108（-1）
+2026-10-18 109 → 2026-11-17 109（+0）
 
 
 ---

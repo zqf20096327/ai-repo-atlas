@@ -1,6 +1,6 @@
 # microsoft/prompty
 
-⭐ 1,286 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/prompty) · [官网](https://prompty.ai) · 组织维护
+⭐ 1,289 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/prompty) · [官网](https://prompty.ai) · 组织维护
 
 **面向开发者的跨语言 LLM 提示词文件格式与运行时**
 
@@ -45,13 +45,13 @@ Prompty 定义 .prompty Markdown 文件格式，用于编写、管理与调试 L
 
 ```mermaid
 xychart-beta
-    title "microsoft/prompty 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1281 --> 1287
-    line [1282, 1285, 1286, 1286]
+    title "microsoft/prompty 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1281 --> 1290
+    line [1282, 1285, 1286, 1285, 1286, 1288, 1289, 1289]
 ```
 
-2026-10-18 1,282 → 2026-11-02 1,286（+4）
+2026-10-18 1,282 → 2026-11-17 1,289（+7）
 
 
 ---

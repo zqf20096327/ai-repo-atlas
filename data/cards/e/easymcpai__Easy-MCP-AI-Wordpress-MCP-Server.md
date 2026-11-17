@@ -1,6 +1,6 @@
 # easymcpai/Easy-MCP-AI-Wordpress-MCP-Server
 
-⭐ 11 · GPL-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/easymcpai/Easy-MCP-AI-Wordpress-MCP-Server) · [官网](https://easymcpai.com/) · 组织维护
+⭐ 14 · GPL-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/easymcpai/Easy-MCP-AI-Wordpress-MCP-Server) · [官网](https://easymcpai.com/) · 组织维护
 
 **把 WordPress 站点暴露为远程 MCP 服务器的插件（214 工具）**
 
@@ -44,13 +44,13 @@ WordPress 插件，将站点以远程 MCP 服务器形式通过 HTTPS 暴露，�
 
 ```mermaid
 xychart-beta
-    title "easymcpai/Easy-MCP-AI-Wordpress-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "easymcpai/Easy-MCP-AI-Wordpress-MCP-Server 星数(近 6 点)"
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-29 10 → 2026-11-02 11（+1）
+2026-10-29 10 → 2026-11-17 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # kishormorol/promptlean
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/kishormorol/promptlean) · [官网](https://kishormorol.github.io/promptlean/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/kishormorol/promptlean) · [官网](https://kishormorol.github.io/promptlean/) · 个人维护
 
 **开源提示词库：120 条提示词、14 类，每条 3 个 token 档位变体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kishormorol/promptlean 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "kishormorol/promptlean 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

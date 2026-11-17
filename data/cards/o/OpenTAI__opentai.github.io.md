@@ -1,6 +1,6 @@
 # OpenTAI/opentai.github.io
 
-⭐ 12 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/OpenTAI/opentai.github.io) · [官网](https://opentai.org) · 组织维护 · 中文 README
+⭐ 12 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/OpenTAI/opentai.github.io) · [官网](https://opentai.org) · 组织维护 · 中文 README
 
 **可信 AI 开放社区官网：汇聚安全基准、数据集与论文目录**
 
@@ -46,12 +46,12 @@ OpenTAI（可信 AI 开放社区）的官方网站源码，静态站点经脚本
 ```mermaid
 xychart-beta
     title "OpenTAI/opentai.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

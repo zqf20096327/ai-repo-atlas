@@ -1,6 +1,6 @@
 # ProjectViVy/agent-diva
 
-⭐ 66 · Vue · 推送 2026-11-01 · [GitHub](https://github.com/ProjectViVy/agent-diva) · [官网](https://projectvivy.github.io/agent-diva-docs/) · 组织维护 · 中文 README
+⭐ 67 · Vue · 推送 2026-11-10 · [GitHub](https://github.com/ProjectViVy/agent-diva) · [官网](https://projectvivy.github.io/agent-diva-docs/) · 组织维护 · 中文 README
 
 **自托管个人 AI 网关：把聊天应用接入 LLM 助手，Rust 实现**
 
@@ -45,13 +45,13 @@ Rust 编写的多 crate 个人 AI 助手框架：Gateway 进程作为聊天平�
 
 ```mermaid
 xychart-beta
-    title "ProjectViVy/agent-diva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "ProjectViVy/agent-diva 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 68
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

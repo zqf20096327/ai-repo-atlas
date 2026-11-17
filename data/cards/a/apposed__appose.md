@@ -1,6 +1,6 @@
 # apposed/appose
 
-⭐ 19 · Python · BSD-2-Clause · 推送 2026-10-20 · [GitHub](https://github.com/apposed/appose) · [官网](https://apposed.org) · 组织维护
+⭐ 20 · Python · BSD-2-Clause · 推送 2026-10-20 · [GitHub](https://github.com/apposed/appose) · [官网](https://apposed.org) · 组织维护
 
 **跨语言进程协作库：Java 调用 Python 环境并共享内存**
 
@@ -45,13 +45,13 @@ Appose 是一个进程间协作库，提供基于社区标准（pixi/mamba/uv）
 
 ```mermaid
 xychart-beta
-    title "apposed/appose 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "apposed/appose 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

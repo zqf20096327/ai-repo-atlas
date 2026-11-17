@@ -1,6 +1,6 @@
 # barredterra/pretty_release_notes
 
-⭐ 39 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/barredterra/pretty_release_notes) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/barredterra/pretty_release_notes) · 个人维护
 
 **用 LLM 把 GitHub 自动生成的发布说明改写成可读句子**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "barredterra/pretty_release_notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "barredterra/pretty_release_notes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

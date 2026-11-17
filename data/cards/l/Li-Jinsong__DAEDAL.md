@@ -1,6 +1,6 @@
 # Li-Jinsong/DAEDAL
 
-⭐ 175 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/Li-Jinsong/DAEDAL) · 组织维护
+⭐ 176 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/Li-Jinsong/DAEDAL) · 组织维护
 
 **扩散式大语言模型的无训练变长去噪推理策略（ICLR 2026 论文代码）**
 
@@ -45,13 +45,13 @@ ICLR 2026 论文 DAEDAL 的官方代码库：面向扩散式大语言模型（DL
 
 ```mermaid
 xychart-beta
-    title "Li-Jinsong/DAEDAL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    title "Li-Jinsong/DAEDAL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 174 --> 177
+    line [175, 176, 176]
 ```
 
-2026-10-18 175 → 2026-11-02 175（+0）
+2026-10-18 175 → 2026-11-17 176（+1）
 
 
 ---

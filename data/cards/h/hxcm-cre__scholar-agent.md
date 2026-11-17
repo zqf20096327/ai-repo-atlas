@@ -1,6 +1,6 @@
 # hxcm-cre/scholar-agent
 
-⭐ 39 · Python · GPL-3.0 · 推送 2026-05-02 · [GitHub](https://github.com/hxcm-cre/scholar-agent) · [官网](https://scholar-agent-three.vercel.app) · 个人维护 · 中文 README
+⭐ 41 · Python · GPL-3.0 · 推送 2026-05-02 · [GitHub](https://github.com/hxcm-cre/scholar-agent) · [官网](https://scholar-agent-three.vercel.app) · 个人维护 · 中文 README
 
 **对话式 AI 学术研究助手：检索、阅读与分析论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hxcm-cre/scholar-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "hxcm-cre/scholar-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

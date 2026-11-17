@@ -1,6 +1,6 @@
 # PeterVanPercson/buildcored-orcas
 
-⭐ 41 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/PeterVanPercson/buildcored-orcas) · [官网](https://forms.gle/rqwWu8g8WuQ9usac8) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/PeterVanPercson/buildcored-orcas) · [官网](https://forms.gle/rqwWu8g8WuQ9usac8) · 个人维护
 
 **30 天软件模拟硬件工程的每日构建挑战，无需硬件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PeterVanPercson/buildcored-orcas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "PeterVanPercson/buildcored-orcas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [41, 40, 40]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 40（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # l0o0/MagicZotero
 
-⭐ 34 · 推送 2026-10-20 · [GitHub](https://github.com/l0o0/MagicZotero) · [官网](https://www.magiczotero.top/) · 组织维护 · 中文 README
+⭐ 36 · 推送 2026-11-14 · [GitHub](https://github.com/l0o0/MagicZotero) · [官网](https://www.magiczotero.top/) · 组织维护 · 中文 README
 
 **Zotero 插件：文献全文翻译与 AI 总结，付费订阅制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "l0o0/MagicZotero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "l0o0/MagicZotero 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

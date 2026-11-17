@@ -1,6 +1,6 @@
 # xihaian251/ml-research-audit
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/xihaian251/ml-research-audit) · 个人维护 · 中文 README
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/xihaian251/ml-research-audit) · 个人维护 · 中文 README
 
 **面向 ML 科研的端到端溯源审计工具栈门户（四个 Doctor CLI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xihaian251/ml-research-audit 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 5 --> 14
-    line [6, 7, 13]
+    title "xihaian251/ml-research-audit 星数(近 7 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 5 --> 21
+    line [6, 7, 13, 18, 19, 20, 20]
 ```
 
-2026-10-31 6 → 2026-11-02 13（+7）
+2026-10-31 6 → 2026-11-17 20（+14）
 
 
 ---

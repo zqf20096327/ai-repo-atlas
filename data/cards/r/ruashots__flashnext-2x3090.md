@@ -1,6 +1,6 @@
 # ruashots/flashnext-2x3090
 
-⭐ 17 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ruashots/flashnext-2x3090) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ruashots/flashnext-2x3090) · 个人维护
 
 **个人推理服务器记录：Qwen3.8-Flash-Next 双 3090 运行与评测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruashots/flashnext-2x3090 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "ruashots/flashnext-2x3090 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

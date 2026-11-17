@@ -1,6 +1,6 @@
 # tristan-mcinnis/pptx-from-layouts-skill
 
-⭐ 40 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/tristan-mcinnis/pptx-from-layouts-skill) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/tristan-mcinnis/pptx-from-layouts-skill) · 个人维护
 
 **按模板母版布局从 Markdown 生成 PPT 的 Claude Code 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tristan-mcinnis/pptx-from-layouts-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 35 --> 41
-    line [36, 37, 38, 40, 40]
+    title "tristan-mcinnis/pptx-from-layouts-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 43
+    line [36, 37, 38, 40, 38, 42, 42]
 ```
 
-2026-10-18 36 → 2026-11-02 40（+4）
+2026-10-18 36 → 2026-11-17 42（+6）
 
 
 ---

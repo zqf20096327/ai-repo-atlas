@@ -1,6 +1,6 @@
 # regyssilveira/RadIA-Plugin
 
-⭐ 40 · Pascal · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/regyssilveira/RadIA-Plugin) · [官网](https://regys.com.br) · 个人维护
+⭐ 41 · Pascal · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/regyssilveira/RadIA-Plugin) · [官网](https://regys.com.br) · 个人维护
 
 **Delphi IDE 的 AI 助手插件：聊天、代码生成与 IDE 工具代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "regyssilveira/RadIA-Plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "regyssilveira/RadIA-Plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

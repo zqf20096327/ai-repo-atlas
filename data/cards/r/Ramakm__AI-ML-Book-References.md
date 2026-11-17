@@ -1,6 +1,6 @@
 # Ramakm/AI-ML-Book-References
 
-⭐ 544 · MIT · 推送 2026-01-16 · [GitHub](https://github.com/Ramakm/AI-ML-Book-References) · [官网](https://growtechie.substack.com/) · 个人维护
+⭐ 547 · MIT · 推送 2026-01-16 · [GitHub](https://github.com/Ramakm/AI-ML-Book-References) · [官网](https://growtechie.substack.com/) · 个人维护
 
 **面向各阶段学习者的 AI/ML 书籍参考清单（33 条）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ramakm/AI-ML-Book-References 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 542 --> 545
-    line [543, 544, 544]
+    title "Ramakm/AI-ML-Book-References 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 542 --> 548
+    line [543, 544, 543, 544, 545, 546, 547, 547]
 ```
 
-2026-10-18 543 → 2026-11-02 544（+1）
+2026-10-18 543 → 2026-11-17 547（+4）
 
 
 ---

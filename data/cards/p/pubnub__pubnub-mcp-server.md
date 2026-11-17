@@ -1,6 +1,6 @@
 # pubnub/pubnub-mcp-server
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pubnub/pubnub-mcp-server) · [官网](https://www.npmjs.com/package/@pubnub/mcp) · 组织维护
+⭐ 33 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/pubnub/pubnub-mcp-server) · [官网](https://www.npmjs.com/package/@pubnub/mcp) · 组织维护
 
 **向 LLM 工具暴露 PubNub 文档与 API 的 MCP 服务器**
 
@@ -45,12 +45,12 @@ PubNub 官方维护的 Model Context Protocol 服务器，把 20+ 语言的 SDK 
 ```mermaid
 xychart-beta
     title "pubnub/pubnub-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zimingttkx/AI-Practices
 
-⭐ 450 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zimingttkx/AI-Practices) · [官网](https://zimingttkx.github.io/AI-Practices/) · 个人维护 · 中文 README
+⭐ 439 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zimingttkx/AI-Practices) · [官网](https://zimingttkx.github.io/AI-Practices/) · 个人维护 · 中文 README
 
 **机器学习与深度学习系统化实战教程库（14 模块）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zimingttkx/AI-Practices 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 448 --> 456
-    line [455, 449, 450, 450]
+    title "zimingttkx/AI-Practices 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 433 --> 457
+    line [455, 449, 450, 449, 435, 437, 439, 439]
 ```
 
-2026-10-18 455 → 2026-11-02 450（-5）
+2026-10-18 455 → 2026-11-17 439（-16）
 
 
 ---

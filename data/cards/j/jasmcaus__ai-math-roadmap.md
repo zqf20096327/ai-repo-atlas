@@ -1,6 +1,6 @@
 # jasmcaus/ai-math-roadmap
 
-⭐ 548 · MIT · 推送 2025-11-07 · [GitHub](https://github.com/jasmcaus/ai-math-roadmap) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI 从业者的数学知识学习路线图（Markdown 教程）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jasmcaus/ai-math-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 547 --> 549
     line [548, 548]
 ```
 
-2026-10-18 548 → 2026-11-02 548（+0）
+2026-10-18 548 → 2026-11-07 548（+0）
 
 
 ---

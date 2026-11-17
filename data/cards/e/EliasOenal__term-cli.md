@@ -1,6 +1,6 @@
 # EliasOenal/term-cli
 
-⭐ 104 · Python · BSD-3-Clause-Clear · 推送 2026-08-04 · [GitHub](https://github.com/EliasOenal/term-cli) · 个人维护
+⭐ 103 · Python · BSD-3-Clause-Clear · 推送 2026-08-04 · [GitHub](https://github.com/EliasOenal/term-cli) · 个人维护
 
 **让 AI agent 运行交互式终端程序的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EliasOenal/term-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    title "EliasOenal/term-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 102 --> 105
+    line [104, 103, 103]
 ```
 
-2026-10-18 104 → 2026-11-02 104（+0）
+2026-10-18 104 → 2026-11-17 103（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xf686/Meet-Reviewer-2
 
-⭐ 47 · MIT · 推送 2026-06-23 · [GitHub](https://github.com/xf686/Meet-Reviewer-2) · 个人维护 · 中文 README
+⭐ 48 · MIT · 推送 2026-06-23 · [GitHub](https://github.com/xf686/Meet-Reviewer-2) · 个人维护 · 中文 README
 
 **投稿前模拟同行评审小组的 Claude Code 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xf686/Meet-Reviewer-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "xf686/Meet-Reviewer-2 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 46, 47, 48, 48]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 48（+2）
 
 
 ---

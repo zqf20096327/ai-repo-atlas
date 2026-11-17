@@ -1,6 +1,6 @@
 # fmind/mlops-coding-course
 
-⭐ 745 · CC-BY-4.0 · 推送 2026-10-29 · [GitHub](https://github.com/fmind/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 个人维护
+⭐ 748 · CC-BY-4.0 · 推送 2026-11-08 · [GitHub](https://github.com/fmind/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 个人维护
 
 **MLOps 编码课程：以 Python 项目实践 ML 工程开发全流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fmind/mlops-coding-course 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 744 --> 746
-    line [745, 745]
+    title "fmind/mlops-coding-course 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 744 --> 749
+    line [745, 748, 748]
 ```
 
-2026-10-30 745 → 2026-11-02 745（+0）
+2026-10-30 745 → 2026-11-17 748（+3）
 
 
 ---

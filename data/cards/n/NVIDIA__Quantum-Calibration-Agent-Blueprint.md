@@ -1,6 +1,6 @@
 # NVIDIA/Quantum-Calibration-Agent-Blueprint
 
-⭐ 73 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/NVIDIA/Quantum-Calibration-Agent-Blueprint) · 组织维护
+⭐ 75 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/NVIDIA/Quantum-Calibration-Agent-Blueprint) · 组织维护
 
 **面向量子器件校准实验的 AI agent 参考蓝图**
 
@@ -44,13 +44,13 @@ NVIDIA Ising 项目下的量子器件校准 agent 蓝图：通过自然语言或
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Quantum-Calibration-Agent-Blueprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "NVIDIA/Quantum-Calibration-Agent-Blueprint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75, 75]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 75（+2）
 
 
 ---

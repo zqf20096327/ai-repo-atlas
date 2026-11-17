@@ -1,6 +1,6 @@
 # Vaan21th/daemonkey-agent
 
-⭐ 95 · Python · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/Vaan21th/daemonkey-agent) · 个人维护 · 中文 README
+⭐ 96 · Python · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/Vaan21th/daemonkey-agent) · 个人维护 · 中文 README
 
 **本地优先的 AI 搭档守护进程：带长期记忆，随用户成长**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vaan21th/daemonkey-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    title "Vaan21th/daemonkey-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 94, 95, 96, 96]
 ```
 
-2026-10-18 94 → 2026-11-02 95（+1）
+2026-10-18 94 → 2026-11-17 96（+2）
 
 
 ---

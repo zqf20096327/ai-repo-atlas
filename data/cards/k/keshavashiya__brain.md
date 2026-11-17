@@ -1,6 +1,6 @@
 # keshavashiya/brain
 
-⭐ 37 · Rust · MIT · 推送 2026-09-07 · [GitHub](https://github.com/keshavashiya/brain) · [官网](https://keshavashiya.github.io/brain/) · 个人维护
+⭐ 38 · Rust · MIT · 推送 2026-09-07 · [GitHub](https://github.com/keshavashiya/brain) · [官网](https://keshavashiya.github.io/brain/) · 个人维护
 
 **本地优先的 AI 记忆操作系统，让多个 AI 工具共享统一记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "keshavashiya/brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "keshavashiya/brain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

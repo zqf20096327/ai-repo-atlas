@@ -1,6 +1,6 @@
 # tingly-dev/tingly-box
 
-⭐ 373 · Go · MPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tingly-dev/tingly-box) · [官网](https://tingly-dev.github.io/tingly-box/) · 组织维护 · 中文 README
+⭐ 382 · Go · MPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tingly-dev/tingly-box) · [官网](https://tingly-dev.github.io/tingly-box/) · 组织维护 · 中文 README
 
 **自托管 LLM 网关：任意 Agent 接任意模型，含团队管理与远程控制**
 
@@ -45,13 +45,13 @@ Go 编写的统一 AI 网关，通过单一端点将 Claude Code、OpenCode、Co
 
 ```mermaid
 xychart-beta
-    title "tingly-dev/tingly-box 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 351 --> 375
-    line [353, 356, 359, 361, 366, 370, 371, 373, 373]
+    title "tingly-dev/tingly-box 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 351 --> 384
+    line [353, 356, 359, 361, 366, 370, 371, 373, 356, 379, 381, 382, 382]
 ```
 
-2026-10-18 353 → 2026-11-02 373（+20）
+2026-10-18 353 → 2026-11-17 382（+29）
 
 
 ---

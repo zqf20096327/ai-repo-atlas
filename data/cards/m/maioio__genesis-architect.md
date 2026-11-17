@@ -1,6 +1,6 @@
 # maioio/genesis-architect
 
-⭐ 48 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/maioio/genesis-architect) · [官网](https://maioio.github.io/genesis-architect/) · 个人维护
+⭐ 49 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/maioio/genesis-architect) · [官网](https://maioio.github.io/genesis-architect/) · 个人维护
 
 **证据驱动的软件架构分析与脚手架工具，含可选 LLM 集成**
 
@@ -44,13 +44,13 @@ Python CLI 工具，覆盖新项目脚手架与既有代码库诊断两条流程
 
 ```mermaid
 xychart-beta
-    title "maioio/genesis-architect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "maioio/genesis-architect 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

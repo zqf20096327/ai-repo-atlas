@@ -1,6 +1,6 @@
 # phalkmin/WP-AutoInsight
 
-⭐ 14 · PHP · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/phalkmin/WP-AutoInsight) · [官网](https://wpautoinsight.phalkmin.me/) · 个人维护
+⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/phalkmin/WP-AutoInsight) · [官网](https://wpautoinsight.phalkmin.me/) · 个人维护
 
 **WordPress 插件：用自有 API 密钥定时生成 AI 博客文章**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "phalkmin/WP-AutoInsight 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    title "phalkmin/WP-AutoInsight 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 17
-    line [16, 15, 14, 14]
+    line [16, 15, 14, 15, 14, 14]
 ```
 
-2026-10-18 16 → 2026-11-02 14（-2）
+2026-10-18 16 → 2026-11-17 14（-2）
 
 
 ---

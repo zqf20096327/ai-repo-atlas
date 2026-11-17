@@ -1,6 +1,6 @@
 # zakelfassi/skills-driven-development
 
-⭐ 18 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/zakelfassi/skills-driven-development) · [官网](https://skdd.dev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/zakelfassi/skills-driven-development) · [官网](https://skdd.dev) · 个人维护
 
 **让 AI agent 在工作中自创、演化并共享可复用技能的方法学与 CLI**
 
@@ -46,12 +46,12 @@ Skills-Driven Development（SkDD）是一套让 AI agent 在实际工作中按�
 ```mermaid
 xychart-beta
     title "zakelfassi/skills-driven-development 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

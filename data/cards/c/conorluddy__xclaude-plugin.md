@@ -1,6 +1,6 @@
 # conorluddy/xclaude-plugin
 
-⭐ 186 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/conorluddy/xclaude-plugin) · 个人维护
+⭐ 187 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/conorluddy/xclaude-plugin) · 个人维护
 
 **Claude Code 的模块化 iOS 开发 MCP 插件（已停止维护）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "conorluddy/xclaude-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 183 --> 187
-    line [184, 186, 186]
+    title "conorluddy/xclaude-plugin 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 183 --> 189
+    line [184, 186, 187, 188, 187, 187]
 ```
 
-2026-10-18 184 → 2026-11-02 186（+2）
+2026-10-18 184 → 2026-11-17 187（+3）
 
 
 ---

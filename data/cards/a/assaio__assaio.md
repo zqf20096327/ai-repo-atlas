@@ -1,6 +1,6 @@
 # assaio/assaio
 
-⭐ 58 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/assaio/assaio) · [官网](https://assaio.dev) · 组织维护
+⭐ 44 · Go · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/assaio/assaio) · [官网](https://assaio.dev) · 组织维护
 
 **离线 CLI：分析 AI 编码工具使用情况与成本估算**
 
@@ -45,13 +45,13 @@ Go 编写的单二进制 CLI（assaio-agent），内嵌 SQLite，读取 Claude C
 
 ```mermaid
 xychart-beta
-    title "assaio/assaio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 57 --> 64
-    line [63, 59, 58, 58]
+    title "assaio/assaio 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 64
+    line [63, 59, 58, 46, 44, 44]
 ```
 
-2026-10-18 63 → 2026-11-02 58（-5）
+2026-10-18 63 → 2026-11-17 44（-19）
 
 
 ---

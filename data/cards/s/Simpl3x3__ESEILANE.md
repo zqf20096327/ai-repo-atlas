@@ -1,6 +1,6 @@
 # Simpl3x3/ESEILANE
 
-⭐ 69 · Ruby · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/Simpl3x3/ESEILANE) · [官网](https://eseilane.org) · 个人维护
+⭐ 68 · Ruby · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/Simpl3x3/ESEILANE) · [官网](https://eseilane.org) · 个人维护
 
 **面向 LLM 与 GraphRAG 的高性能知识图谱引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Simpl3x3/ESEILANE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "Simpl3x3/ESEILANE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 68（-1）
 
 
 ---

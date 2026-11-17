@@ -1,6 +1,6 @@
 # Ganador1/FenixAI_tradingBot
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/Ganador1/FenixAI_tradingBot) · [官网](https://ko-fi.com/ganador) · 个人维护
+⭐ 159 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/Ganador1/FenixAI_tradingBot) · [官网](https://ko-fi.com/ganador) · 个人维护
 
 **面向 Binance 合约的多 agent 加密货币自动交易机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ganador1/FenixAI_tradingBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 151 --> 155
-    line [152, 154, 154]
+    title "Ganador1/FenixAI_tradingBot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 151 --> 160
+    line [152, 154, 156, 158, 159, 159]
 ```
 
-2026-10-18 152 → 2026-11-02 154（+2）
+2026-10-18 152 → 2026-11-17 159（+7）
 
 
 ---

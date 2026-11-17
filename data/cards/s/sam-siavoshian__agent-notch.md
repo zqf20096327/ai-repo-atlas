@@ -1,6 +1,6 @@
 # sam-siavoshian/agent-notch
 
-⭐ 22 · Swift · MIT · 推送 2026-09-22 · [GitHub](https://github.com/sam-siavoshian/agent-notch) · [官网](https://agent-notch.vercel.app/) · 个人维护
+⭐ 23 · Swift · MIT · 推送 2026-09-22 · [GitHub](https://github.com/sam-siavoshian/agent-notch) · [官网](https://agent-notch.vercel.app/) · 个人维护
 
 **驻留 MacBook 刘海区的 macOS 语音 computer-use agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sam-siavoshian/agent-notch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "sam-siavoshian/agent-notch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

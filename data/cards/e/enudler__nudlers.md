@@ -1,6 +1,6 @@
 # enudler/nudlers
 
-⭐ 30 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/enudler/nudlers) · [官网](https://nudlers.com) · 个人维护
+⭐ 31 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/enudler/nudlers) · [官网](https://nudlers.com) · 个人维护
 
 **自托管的以色列银行个人财务聚合看板，含 AI 分类与问答**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "enudler/nudlers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 26 --> 31
-    line [27, 29, 30]
+    title "enudler/nudlers 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 32
+    line [27, 29, 30, 29, 31, 31]
 ```
 
-2026-10-18 27 → 2026-11-02 30（+3）
+2026-10-18 27 → 2026-11-17 31（+4）
 
 
 ---

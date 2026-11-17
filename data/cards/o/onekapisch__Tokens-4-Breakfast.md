@@ -1,6 +1,6 @@
 # onekapisch/Tokens-4-Breakfast
 
-⭐ 22 · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/onekapisch/Tokens-4-Breakfast) · [官网](https://www.tokens4breakfast.app) · 组织维护
+⭐ 26 · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/onekapisch/Tokens-4-Breakfast) · [官网](https://www.tokens4breakfast.app) · 组织维护
 
 **Mac 菜单栏追踪 11 家 AI 工具用量、花费与限额的商用闭源应用**
 
@@ -45,13 +45,13 @@ macOS 菜单栏应用，聚合 Claude Code、Cursor、Codex、Copilot、OpenAI �
 
 ```mermaid
 xychart-beta
-    title "onekapisch/Tokens-4-Breakfast 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "onekapisch/Tokens-4-Breakfast 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 26, 26]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 26（+5）
 
 
 ---

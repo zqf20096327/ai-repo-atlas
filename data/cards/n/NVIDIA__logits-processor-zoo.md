@@ -1,6 +1,6 @@
 # NVIDIA/logits-processor-zoo
 
-⭐ 391 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/NVIDIA/logits-processor-zoo) · 组织维护
+⭐ 392 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/NVIDIA/logits-processor-zoo) · 组织维护
 
 **NVIDIA 出品的 LLM logits 处理器集合，定制生成行为**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/logits-processor-zoo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 389 --> 392
-    line [390, 391, 391]
+    title "NVIDIA/logits-processor-zoo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 389 --> 393
+    line [390, 391, 390, 392, 392]
 ```
 
-2026-10-18 390 → 2026-11-02 391（+1）
+2026-10-18 390 → 2026-11-17 392（+2）
 
 
 ---

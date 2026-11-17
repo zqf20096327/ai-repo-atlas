@@ -1,6 +1,6 @@
 # JunjoSick/bookforge
 
-⭐ 16 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JunjoSick/bookforge) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/JunjoSick/bookforge) · 个人维护
 
 **保留 EPUB 结构的 AI 整本书翻译工具，附浏览器界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JunjoSick/bookforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "JunjoSick/bookforge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

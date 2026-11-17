@@ -1,6 +1,6 @@
 # kcieslik/eq-insar
 
-⭐ 16 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/kcieslik/eq-insar) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/kcieslik/eq-insar) · 个人维护
 
 **为 ML 训练生成物理仿真的地震 InSAR 形变数据的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kcieslik/eq-insar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "kcieslik/eq-insar 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

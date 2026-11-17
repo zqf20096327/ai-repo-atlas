@@ -1,6 +1,6 @@
 # RicterZ/AL1S-WMS
 
-⭐ 34 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/RicterZ/AL1S-WMS) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/RicterZ/AL1S-WMS) · 个人维护 · 中文 README
 
 **家庭自托管库存管理系统，带 MCP 接口供 AI agent 协助**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RicterZ/AL1S-WMS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "RicterZ/AL1S-WMS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 33, 36, 36]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 36（+3）
 
 
 ---

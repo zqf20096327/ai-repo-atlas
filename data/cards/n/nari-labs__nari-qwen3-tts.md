@@ -1,6 +1,6 @@
 # nari-labs/nari-qwen3-tts
 
-⭐ 190 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/nari-labs/nari-qwen3-tts) · [官网](https://nari-labs.com/) · 组织维护
+⭐ 192 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/nari-labs/nari-qwen3-tts) · [官网](https://nari-labs.com/) · 组织维护
 
 **单卡 H100 上高性能服务 Qwen3-TTS 的流式推理引擎**
 
@@ -45,13 +45,13 @@ Nari Labs 开发的 Qwen3-TTS 1.7B CustomVoice 单 GPU 服务实现：通过 HTT
 
 ```mermaid
 xychart-beta
-    title "nari-labs/nari-qwen3-tts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 186 --> 191
-    line [187, 188, 190, 190]
+    title "nari-labs/nari-qwen3-tts 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 186 --> 193
+    line [187, 188, 190, 188, 192, 192]
 ```
 
-2026-10-18 187 → 2026-11-02 190（+3）
+2026-10-18 187 → 2026-11-17 192（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # humemai/humemai-research
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/humemai/humemai-research) · [官网](https://humemai.github.io/humemai-research/) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/humemai/humemai-research) · [官网](https://humemai.github.io/humemai-research/) · 组织维护
 
 **AI 类人记忆研究库：情景与语义记忆的图存储与推理**
 
@@ -46,12 +46,12 @@ HumemAI 的研究代码库，探索 AI 的人类式记忆机制：将对话与�
 ```mermaid
 xychart-beta
     title "humemai/humemai-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

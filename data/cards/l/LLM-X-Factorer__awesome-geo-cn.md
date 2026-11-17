@@ -1,6 +1,6 @@
 # LLM-X-Factorer/awesome-geo-cn
 
-⭐ 43 · 推送 2026-09-30 · [GitHub](https://github.com/LLM-X-Factorer/awesome-geo-cn) · 组织维护 · 中文 README
+⭐ 45 · 推送 2026-11-13 · [GitHub](https://github.com/LLM-X-Factorer/awesome-geo-cn) · 组织维护 · 中文 README
 
 **中文 GEO（生成式引擎优化）资源清单：论文、生态地图与监管政策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LLM-X-Factorer/awesome-geo-cn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "LLM-X-Factorer/awesome-geo-cn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # PUITAR/DeepSlide
 
-⭐ 68 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/PUITAR/DeepSlide) · [官网](https://puitar.github.io/DeepSlide/) · 组织维护 · 中文 README
+⭐ 69 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/PUITAR/DeepSlide) · [官网](https://puitar.github.io/DeepSlide/) · 组织维护 · 中文 README
 
 **面向演讲全流程的人机协作演示准备与演练系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PUITAR/DeepSlide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "PUITAR/DeepSlide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 69（+1）
 
 
 ---

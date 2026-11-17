@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Bank-App
 
-⭐ 46 · Python · 推送 2026-05-20 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Bank-App) · [官网](https://bank-app-007.streamlit.app/) · 个人维护
+⭐ 45 · Python · 推送 2026-05-20 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Bank-App) · [官网](https://bank-app-007.streamlit.app/) · 个人维护
 
 **Streamlit 银行账户管理系统教学演示（开户/存取/查余额）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Bank-App 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/Bank-App 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    line [45, 46, 45, 46, 45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 45（+0）
 
 
 ---

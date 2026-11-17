@@ -1,6 +1,6 @@
 # AtomFlow-AI/MoleCode
 
-⭐ 310 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/AtomFlow-AI/MoleCode) · [官网](https://arxiv.org/pdf/2605.16480) · 组织维护 · 中文 README
+⭐ 311 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/AtomFlow-AI/MoleCode) · [官网](https://arxiv.org/pdf/2605.16480) · 组织维护 · 中文 README
 
 **面向 LLM 的图显式分子表示语言库，让模型直接读写分子结构**
 
@@ -45,13 +45,13 @@ MoleCode 是一种以 Mermaid 图序列化的分子表示格式：原子与化�
 
 ```mermaid
 xychart-beta
-    title "AtomFlow-AI/MoleCode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 305 --> 311
-    line [306, 308, 309, 310, 310]
+    title "AtomFlow-AI/MoleCode 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 305 --> 312
+    line [306, 308, 309, 310, 308, 309, 310, 311, 311]
 ```
 
-2026-10-18 306 → 2026-11-02 310（+4）
+2026-10-18 306 → 2026-11-17 311（+5）
 
 
 ---

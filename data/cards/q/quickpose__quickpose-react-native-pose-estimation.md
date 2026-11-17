@@ -1,6 +1,6 @@
 # quickpose/quickpose-react-native-pose-estimation
 
-⭐ 27 · TypeScript · 推送 2026-08-26 · [GitHub](https://github.com/quickpose/quickpose-react-native-pose-estimation) · [官网](https://quickpose.ai) · 组织维护
+⭐ 27 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/quickpose/quickpose-react-native-pose-estimation) · [官网](https://quickpose.ai) · 组织维护
 
 **React Native 姿态估计插件：接入 QuickPose SDK 实现体感追踪**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quickpose/quickpose-react-native-pose-estimation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 27（+0）
 
 
 ---

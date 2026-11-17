@@ -1,6 +1,6 @@
 # greenlogs/aseprite-mcp-live
 
-⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/greenlogs/aseprite-mcp-live) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/greenlogs/aseprite-mcp-live) · 个人维护 · 中文 README
 
 **连接 AI 与 Aseprite 的 MCP 服务，实现像素画实时协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "greenlogs/aseprite-mcp-live 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 14, 15, 16, 16]
+    title "greenlogs/aseprite-mcp-live 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 14, 15, 16, 12, 17, 17]
 ```
 
-2026-10-24 12 → 2026-11-02 16（+4）
+2026-10-24 12 → 2026-11-17 17（+5）
 
 
 ---

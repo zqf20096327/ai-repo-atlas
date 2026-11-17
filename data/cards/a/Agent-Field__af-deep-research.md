@@ -1,6 +1,6 @@
 # Agent-Field/af-deep-research
 
-⭐ 101 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/Agent-Field/af-deep-research) · [官网](https://agentfield.ai/) · 组织维护
+⭐ 102 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/Agent-Field/af-deep-research) · [官网](https://agentfield.ai/) · 组织维护
 
 **自主深度研究后端 API：多代理并行检索并产出结构化研究报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/af-deep-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 99 --> 102
-    line [100, 101]
+    title "Agent-Field/af-deep-research 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 100, 102, 102]
 ```
 
-2026-10-18 100 → 2026-11-02 101（+1）
+2026-10-18 100 → 2026-11-17 102（+2）
 
 
 ---

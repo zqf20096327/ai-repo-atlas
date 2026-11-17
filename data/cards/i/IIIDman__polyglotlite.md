@@ -1,6 +1,6 @@
 # IIIDman/polyglotlite
 
-⭐ 55 · Python · MIT · 推送 2026-01-08 · [GitHub](https://github.com/IIIDman/polyglotlite) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-01-08 · [GitHub](https://github.com/IIIDman/polyglotlite) · 个人维护
 
 **面向消费级硬件的轻量多语言模型训练与运行工具包**
 
@@ -44,13 +44,13 @@ PolyglotLite 是用于训练和运行 100M-500M 参数多语言语言模型的 P
 
 ```mermaid
 xychart-beta
-    title "IIIDman/polyglotlite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "IIIDman/polyglotlite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [55, 54, 54]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 54（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # volt-l18/llm-redteam-pipeline
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/volt-l18/llm-redteam-pipeline) · 个人维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/volt-l18/llm-redteam-pipeline) · 个人维护
 
 **自动化多轮 LLM 红队评测管线：攻防对话评估模型安全边界**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "volt-l18/llm-redteam-pipeline 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 26 --> 31
-    line [27, 29, 30, 30]
+    title "volt-l18/llm-redteam-pipeline 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 33
+    line [27, 29, 30, 27, 32, 32]
 ```
 
-2026-10-18 27 → 2026-11-02 30（+3）
+2026-10-18 27 → 2026-11-17 32（+5）
 
 
 ---

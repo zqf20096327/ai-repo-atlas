@@ -1,6 +1,6 @@
 # DazzleML/Claude-Session-Backup
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/DazzleML/Claude-Session-Backup) · 个人维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/DazzleML/Claude-Session-Backup) · 个人维护
 
 **Claude Code 会话的 git 备份与恢复 CLI（csb）**
 
@@ -46,13 +46,13 @@ Python CLI 工具 csb，备份 ~/.claude/projects/ 下的 Claude Code 会话 JSO
 
 ```mermaid
 xychart-beta
-    title "DazzleML/Claude-Session-Backup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "DazzleML/Claude-Session-Backup 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dingodb/dingospeed
 
-⭐ 50 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dingodb/dingospeed) · 组织维护 · 中文 README
+⭐ 53 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dingodb/dingospeed) · 组织维护 · 中文 README
 
 **自托管的 Hugging Face 镜像加速服务**
 
@@ -44,13 +44,13 @@ DingoSpeed 是可自部署的 Hugging Face 镜像服务：缓存首次下载的�
 
 ```mermaid
 xychart-beta
-    title "dingodb/dingospeed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    title "dingodb/dingospeed 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 54
+    line [49, 50, 49, 53, 53]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 53（+4）
 
 
 ---

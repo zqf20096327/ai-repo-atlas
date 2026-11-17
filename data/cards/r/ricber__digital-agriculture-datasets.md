@@ -1,6 +1,6 @@
 # ricber/digital-agriculture-datasets
 
-⭐ 121 · GPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/ricber/digital-agriculture-datasets) · 个人维护
+⭐ 124 · GPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/ricber/digital-agriculture-datasets) · 个人维护
 
 **农业与野外机器人 AI 数据集策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ricber/digital-agriculture-datasets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 117 --> 122
-    line [118, 119, 120, 121, 121]
+    title "ricber/digital-agriculture-datasets 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 117 --> 125
+    line [118, 119, 120, 121, 118, 123, 124, 124]
 ```
 
-2026-10-18 118 → 2026-11-02 121（+3）
+2026-10-18 118 → 2026-11-17 124（+6）
 
 
 ---

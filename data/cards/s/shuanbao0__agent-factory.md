@@ -1,6 +1,6 @@
 # shuanbao0/agent-factory
 
-⭐ 23 · JavaScript · GPL-3.0 · 推送 2026-04-11 · [GitHub](https://github.com/shuanbao0/agent-factory) · [官网](https://shuanbao0.github.io/agent-factory) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · GPL-3.0 · 推送 2026-04-11 · [GitHub](https://github.com/shuanbao0/agent-factory) · [官网](https://shuanbao0.github.io/agent-factory) · 个人维护 · 中文 README
 
 **单人驱动的自包含多智能体协作平台，内置 OpenClaw 引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuanbao0/agent-factory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 23]
+    title "shuanbao0/agent-factory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 23（+3）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

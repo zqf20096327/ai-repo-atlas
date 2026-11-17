@@ -1,6 +1,6 @@
 # prompt-armor/prompt-armor
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/prompt-armor/prompt-armor) · [官网](https://pypi.org/project/prompt-armor/) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/prompt-armor/prompt-armor) · [官网](https://pypi.org/project/prompt-armor/) · 组织维护
 
 **离线 LLM 提示注入检测器：5 层并行分析，毫秒级判定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prompt-armor/prompt-armor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

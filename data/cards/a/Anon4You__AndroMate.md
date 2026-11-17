@@ -1,6 +1,6 @@
 # Anon4You/AndroMate
 
-⭐ 32 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Anon4You/AndroMate) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Anon4You/AndroMate) · 个人维护
 
 **运行在 Termux 上的 Android 语音/聊天 AI 助手，可控制设备**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anon4You/AndroMate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "Anon4You/AndroMate 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

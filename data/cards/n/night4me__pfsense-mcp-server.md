@@ -1,6 +1,6 @@
 # night4me/pfsense-mcp-server
 
-⭐ 11 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/night4me/pfsense-mcp-server) · [官网](https://night4me.github.io/pfsense-mcp-server/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/night4me/pfsense-mcp-server) · [官网](https://night4me.github.io/pfsense-mcp-server/) · 个人维护
 
 **给 AI 助手提供 pfSense 只读访问的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "night4me/pfsense-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "night4me/pfsense-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Majika007/MaPic
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-05-18 · [GitHub](https://github.com/Majika007/MaPic) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-05-18 · [GitHub](https://github.com/Majika007/MaPic) · 个人维护
 
 **面向 AI 生成图片的浏览器：读取并展示生成元数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Majika007/MaPic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "Majika007/MaPic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

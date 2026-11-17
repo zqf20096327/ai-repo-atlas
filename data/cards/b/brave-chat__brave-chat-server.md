@@ -1,6 +1,6 @@
 # brave-chat/brave-chat-server
 
-⭐ 41 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/brave-chat/brave-chat-server) · [官网](https://server-wzxp.onrender.com/docs) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/brave-chat/brave-chat-server) · [官网](https://server-wzxp.onrender.com/docs) · 组织维护
 
 **Brave Chat 的全异步后端：实时聊天服务端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brave-chat/brave-chat-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 41（+0）
 
 
 ---

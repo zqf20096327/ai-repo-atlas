@@ -1,6 +1,6 @@
 # shukur-alom/leaf-diseases-detect
 
-⭐ 153 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/shukur-alom/leaf-diseases-detect) · [官网](https://leaf-diseases-detect5.streamlit.app) · 个人维护
+⭐ 154 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/shukur-alom/leaf-diseases-detect) · [官网](https://leaf-diseases-detect5.streamlit.app) · 个人维护
 
 **通过 Llama Vision 识别叶片病害并给出严重度与治疗建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shukur-alom/leaf-diseases-detect 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 151 --> 154
-    line [153, 152, 153, 153]
+    title "shukur-alom/leaf-diseases-detect 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 151 --> 155
+    line [153, 152, 153, 152, 153, 154, 154]
 ```
 
-2026-10-18 153 → 2026-11-02 153（+0）
+2026-10-18 153 → 2026-11-17 154（+1）
 
 
 ---

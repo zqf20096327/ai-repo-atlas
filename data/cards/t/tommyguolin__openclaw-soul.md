@@ -1,6 +1,6 @@
 # tommyguolin/openclaw-soul
 
-⭐ 22 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/tommyguolin/openclaw-soul) · [官网](https://clawhub.ai/plugins/openclaw-soul-plugin) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/tommyguolin/openclaw-soul) · [官网](https://clawhub.ai/plugins/openclaw-soul-plugin) · 个人维护 · 中文 README
 
 **给 OpenClaw 助手加自主思考、长期记忆与自我改进的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tommyguolin/openclaw-soul 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "tommyguolin/openclaw-soul 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

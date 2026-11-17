@@ -1,6 +1,6 @@
 # abdu6666/Bunny-AI-Agent
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/abdu6666/Bunny-AI-Agent) · [官网](https://buda.im) · 个人维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/abdu6666/Bunny-AI-Agent) · [官网](https://buda.im) · 个人维护
 
 **基于 Pi 的多模型编码 Agent CLI，支持远程沙箱与自建产品**
 
@@ -45,13 +45,13 @@ TypeScript 编写的编码代理，构建于 Pi Coding Agent 之上，支持在 
 
 ```mermaid
 xychart-beta
-    title "abdu6666/Bunny-AI-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "abdu6666/Bunny-AI-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

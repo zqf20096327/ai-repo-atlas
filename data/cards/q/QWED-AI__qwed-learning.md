@@ -1,6 +1,6 @@
 # QWED-AI/qwed-learning
 
-⭐ 12 · Python · CC0-1.0 · 推送 2026-09-14 · [GitHub](https://github.com/QWED-AI/qwed-learning) · [官网](https://qwedai.tech) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的确定性 AI 验证与 AISecOps 免费课程**
 
@@ -11,7 +11,7 @@ QWED-AI 维护的免费开源课程（CC0），共 17 个模块、8-10 小时，
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ QWED-AI 维护的免费开源课程（CC0），共 17 个模块、8-10 小时，
 ```mermaid
 xychart-beta
     title "QWED-AI/qwed-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-07 12（+0）
 
 
 ---

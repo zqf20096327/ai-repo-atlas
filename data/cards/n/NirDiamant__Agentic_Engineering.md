@@ -1,6 +1,6 @@
 # NirDiamant/Agentic_Engineering
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NirDiamant/Agentic_Engineering) · [官网](https://www.diamant-ai.com/courses?utm_source=github&utm_medium=repo-homepage&utm_campaign=agentic-engineering) · 个人维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NirDiamant/Agentic_Engineering) · [官网](https://www.diamant-ai.com/courses?utm_source=github&utm_medium=repo-homepage&utm_campaign=agentic-engineering) · 个人维护
 
 **为编程 agent 生成项目记忆层并自测知识得分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/Agentic_Engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "NirDiamant/Agentic_Engineering 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 31 --> 38
+    line [32, 33, 34, 33, 35, 36, 37, 37]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 37（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # QGrain/SyzGPT
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/QGrain/SyzGPT) · [官网](https://zhiyu.netlify.app/syzgpt-demo/) · 组织维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/QGrain/SyzGPT) · [官网](https://zhiyu.netlify.app/syzgpt-demo/) · 组织维护
 
 **面向内核模糊测试的 LLM 种子生成框架，覆盖低频系统调用**
 
@@ -44,13 +44,13 @@ ISSTA 2025 论文实现：LLM 辅助的内核模糊测试框架，通过基于�
 
 ```mermaid
 xychart-beta
-    title "QGrain/SyzGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 65 --> 68
-    line [66, 67, 67]
+    title "QGrain/SyzGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 69
+    line [66, 67, 66, 68, 68]
 ```
 
-2026-10-18 66 → 2026-11-02 67（+1）
+2026-10-18 66 → 2026-11-17 68（+2）
 
 
 ---

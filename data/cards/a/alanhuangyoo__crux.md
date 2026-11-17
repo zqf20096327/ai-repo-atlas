@@ -1,6 +1,6 @@
 # alanhuangyoo/crux
 
-⭐ 186 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/alanhuangyoo/crux) · 个人维护 · 中文 README
+⭐ 187 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/alanhuangyoo/crux) · 个人维护 · 中文 README
 
 **基于 pi 重构的终端编程 agent，Terminal-Bench 2.1 达 0.773 pass@1**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alanhuangyoo/crux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 184 --> 187
-    line [185, 186, 186]
+    title "alanhuangyoo/crux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 184 --> 188
+    line [185, 186, 187, 187]
 ```
 
-2026-10-18 185 → 2026-11-02 186（+1）
+2026-10-18 185 → 2026-11-17 187（+2）
 
 
 ---

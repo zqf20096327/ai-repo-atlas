@@ -1,6 +1,6 @@
 # sophonfinance-wq/finance-automation-portfolio
 
-⭐ 16 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/sophonfinance-wq/finance-automation-portfolio) · [官网](https://sophonfinance.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **52 个财务与税务自动化引擎组合，含 AI 多角色复核框架**
 
@@ -11,7 +11,7 @@ Sophon Finance Systems 提供 52 个自包含 Python 系统，覆盖月结、现
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@ Sophon Finance Systems 提供 52 个自包含 Python 系统，覆盖月结、现
 
 ```mermaid
 xychart-beta
-    title "sophonfinance-wq/finance-automation-portfolio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "sophonfinance-wq/finance-automation-portfolio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-07"]
     y-axis "stars" 12 --> 17
-    line [13, 15, 16, 16]
+    line [13, 15, 16, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 16（+3）
+2026-10-18 13 → 2026-11-07 15（+2）
 
 
 ---

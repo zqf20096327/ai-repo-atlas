@@ -1,6 +1,6 @@
 # denfry/codebase-index
 
-⭐ 12 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/denfry/codebase-index) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/denfry/codebase-index) · 个人维护
 
 **给 AI 编程 agent 用的本地代码索引：查找、追踪、影响预测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "denfry/codebase-index 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "denfry/codebase-index 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 13, 13]
 ```
 
-2026-10-22 10 → 2026-11-02 12（+2）
+2026-10-22 10 → 2026-11-17 13（+3）
 
 
 ---

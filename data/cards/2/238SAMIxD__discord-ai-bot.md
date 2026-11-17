@@ -1,6 +1,6 @@
 # 238SAMIxD/discord-ai-bot
 
-⭐ 294 · JavaScript · 推送 2026-06-17 · [GitHub](https://github.com/238SAMIxD/discord-ai-bot) · [官网](https://github.com/ollama/ollama) · 个人维护
+⭐ 294 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/238SAMIxD/discord-ai-bot) · [官网](https://github.com/ollama/ollama) · 个人维护
 
 **接入 Ollama 与 Stable Diffusion 的 Discord AI 聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "238SAMIxD/discord-ai-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 292 --> 295
-    line [293, 294, 294]
+    title "238SAMIxD/discord-ai-bot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 292 --> 296
+    line [293, 294, 293, 295, 294, 294]
 ```
 
-2026-10-18 293 → 2026-11-02 294（+1）
+2026-10-18 293 → 2026-11-17 294（+1）
 
 
 ---

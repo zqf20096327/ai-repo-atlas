@@ -1,6 +1,6 @@
 # turin-dev/rish-mcp
 
-⭐ 27 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/turin-dev/rish-mcp) · 个人维护 · 中文 README
+⭐ 31 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/turin-dev/rish-mcp) · 个人维护 · 中文 README
 
 **让 AI 客户端经 MCP 远程访问 Android 设备 shell 的自托管中继**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "turin-dev/rish-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27]
+    title "turin-dev/rish-mcp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 32
+    line [24, 25, 26, 27, 25, 28, 29, 30, 31, 31]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 31（+7）
 
 
 ---

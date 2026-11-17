@@ -1,6 +1,6 @@
 # mikeoller82/VideoGraphAI
 
-⭐ 72 · Python · 推送 2026-02-11 · [GitHub](https://github.com/mikeoller82/VideoGraphAI) · 个人维护
+⭐ 74 · Python · 推送 2026-02-11 · [GitHub](https://github.com/mikeoller82/VideoGraphAI) · 个人维护
 
 **面向 YouTube Shorts 创作者的 AI 短视频自动生成工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeoller82/VideoGraphAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    title "mikeoller82/VideoGraphAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 70 --> 75
+    line [71, 72, 71, 74, 74]
 ```
 
-2026-10-18 71 → 2026-11-02 72（+1）
+2026-10-18 71 → 2026-11-17 74（+3）
 
 
 ---

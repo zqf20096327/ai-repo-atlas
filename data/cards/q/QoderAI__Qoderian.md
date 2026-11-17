@@ -1,6 +1,6 @@
 # QoderAI/Qoderian
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/QoderAI/Qoderian) · [官网](https://qoderai.github.io/Qoderian/docs/introduction) · 组织维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/QoderAI/Qoderian) · [官网](https://qoderai.github.io/Qoderian/docs/introduction) · 组织维护 · 中文 README
 
 **在 Obsidian 内嵌入 Qoder CLI 作为 AI 协作者的插件**
 
@@ -45,13 +45,13 @@ Obsidian 桌面插件，将 Qoder CLI（qodercli）作为 agent 嵌入笔记库�
 
 ```mermaid
 xychart-beta
-    title "QoderAI/Qoderian 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "QoderAI/Qoderian 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 31, 33, 33]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 33（+2）
 
 
 ---

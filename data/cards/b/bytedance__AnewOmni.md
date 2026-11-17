@@ -1,6 +1,6 @@
 # bytedance/AnewOmni
 
-⭐ 110 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/bytedance/AnewOmni) · [官网](https://www.biorxiv.org/content/10.64898/2026.03.12.711044) · 组织维护
+⭐ 113 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/bytedance/AnewOmni) · [官网](https://www.biorxiv.org/content/10.64898/2026.03.12.711044) · 组织维护
 
 **全原子生成模型：面向靶蛋白设计与生成分子/多肽/抗体结合物**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/AnewOmni 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 107 --> 111
-    line [108, 109, 110, 110]
+    title "bytedance/AnewOmni 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 107 --> 114
+    line [108, 109, 110, 109, 111, 112, 113, 113]
 ```
 
-2026-10-18 108 → 2026-11-02 110（+2）
+2026-10-18 108 → 2026-11-17 113（+5）
 
 
 ---

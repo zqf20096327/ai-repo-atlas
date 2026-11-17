@@ -1,6 +1,6 @@
 # fukuyori/rakukan
 
-⭐ 42 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fukuyori/rakukan) · 个人维护
+⭐ 46 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fukuyori/rakukan) · 个人维护
 
 **用本地小型 LLM 做假名汉字变换的实验性 Windows 日语 IME**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fukuyori/rakukan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    title "fukuyori/rakukan 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 39 --> 47
+    line [40, 41, 42, 41, 42, 43, 46, 46]
 ```
 
-2026-10-18 40 → 2026-11-02 42（+2）
+2026-10-18 40 → 2026-11-17 46（+6）
 
 
 ---

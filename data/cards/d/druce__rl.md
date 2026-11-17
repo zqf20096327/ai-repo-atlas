@@ -1,6 +1,6 @@
 # druce/rl
 
-⭐ 109 · Jupyter Notebook · 推送 2026-08-19 · [GitHub](https://github.com/druce/rl) · [官网](https://alphaarchitect.com/2020/02/26/reinforcement-learning-for-trading/) · 个人维护
+⭐ 110 · Jupyter Notebook · 推送 2026-08-19 · [GitHub](https://github.com/druce/rl) · [官网](https://alphaarchitect.com/2020/02/26/reinforcement-learning-for-trading/) · 个人维护
 
 **强化学习交易教学笔记本集：从DQN到RL交易算法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "druce/rl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    title "druce/rl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 108 --> 111
+    line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-11-02 109（+0）
+2026-10-18 109 → 2026-11-17 110（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zjunlp/JevLoop
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/zjunlp/JevLoop) · 组织维护 · 中文 README
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/zjunlp/JevLoop) · 组织维护 · 中文 README
 
 **零依赖的 TypeScript Agent 循环运行时：决策交给决策模型，LLM 只负责写作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/JevLoop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "zjunlp/JevLoop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

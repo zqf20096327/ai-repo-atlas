@@ -1,6 +1,6 @@
 # SecurityRonin/alaya
 
-⭐ 19 · Rust · MIT · 推送 2026-07-16 · [GitHub](https://github.com/SecurityRonin/alaya) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-07-16 · [GitHub](https://github.com/SecurityRonin/alaya) · 个人维护
 
 **面向 AI agent 的记忆引擎库：SQLite 单文件存储与遗忘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SecurityRonin/alaya 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "SecurityRonin/alaya 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

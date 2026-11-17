@@ -1,6 +1,6 @@
 # Owl-Listener/designpowers
 
-⭐ 256 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/Owl-Listener/designpowers) · 个人维护
+⭐ 259 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/Owl-Listener/designpowers) · 个人维护
 
 **由用户执导的 10 个设计 agent 团队，运行包容性设计流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Owl-Listener/designpowers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 253 --> 257
-    line [254, 255, 256, 256]
+    title "Owl-Listener/designpowers 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 253 --> 260
+    line [254, 255, 256, 254, 256, 258, 259, 259]
 ```
 
-2026-10-18 254 → 2026-11-02 256（+2）
+2026-10-18 254 → 2026-11-17 259（+5）
 
 
 ---

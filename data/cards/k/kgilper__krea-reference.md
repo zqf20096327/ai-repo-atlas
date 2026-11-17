@@ -1,6 +1,6 @@
 # kgilper/krea-reference
 
-⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kgilper/krea-reference) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/kgilper/krea-reference) · 个人维护
 
 **用参考图引导 Krea 2 生成的 ComfyUI 自定义节点集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kgilper/krea-reference 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "kgilper/krea-reference 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 17 --> 23
-    line [18, 19, 20, 21, 22, 22]
+    line [18, 19, 20, 21, 22, 18, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 22（+4）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

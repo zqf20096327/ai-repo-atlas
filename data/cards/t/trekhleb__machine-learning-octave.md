@@ -1,6 +1,6 @@
 # trekhleb/machine-learning-octave
 
-⭐ 900 · MATLAB · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/machine-learning-octave) · 个人维护
+⭐ 901 · MATLAB · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/machine-learning-octave) · 个人维护
 
 **MatLab/Octave 机器学习算法教学示例集：代码加数学推导**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "trekhleb/machine-learning-octave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 899 --> 901
-    line [900, 900]
+    title "trekhleb/machine-learning-octave 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 899 --> 902
+    line [900, 901, 901]
 ```
 
-2026-10-18 900 → 2026-11-02 900（+0）
+2026-10-18 900 → 2026-11-17 901（+1）
 
 
 ---

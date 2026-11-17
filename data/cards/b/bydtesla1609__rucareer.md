@@ -1,6 +1,6 @@
 # bydtesla1609/rucareer
 
-⭐ 42 · Python · 推送 2026-09-09 · [GitHub](https://github.com/bydtesla1609/rucareer) · 个人维护 · 中文 README
+⭐ 44 · Python · 推送 2026-09-09 · [GitHub](https://github.com/bydtesla1609/rucareer) · 个人维护 · 中文 README
 
 **面向大学生的本地经历档案与 AI 辅助简历生成桌面工具**
 
@@ -44,13 +44,13 @@ RUCareer（鹿路录）是 Windows 本地优先的个人经历管理工具：把
 
 ```mermaid
 xychart-beta
-    title "bydtesla1609/rucareer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "bydtesla1609/rucareer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

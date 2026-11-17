@@ -1,6 +1,6 @@
 # tysoncung/crypto-chart-patterns
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/tysoncung/crypto-chart-patterns) · 个人维护
+⭐ 27 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/tysoncung/crypto-chart-patterns) · 个人维护
 
 **加密货币 K 线图形态自动检测工具（15 类形态）**
 
@@ -44,13 +44,13 @@ Python 编写的技术分析工具：从 Binance API 拉取实时行情数据，
 
 ```mermaid
 xychart-beta
-    title "tysoncung/crypto-chart-patterns 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "tysoncung/crypto-chart-patterns 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 22 --> 30
-    line [23, 24, 25, 26, 27, 28, 29, 28]
+    line [23, 24, 25, 26, 27, 28, 29, 28, 24, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 28（+5）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

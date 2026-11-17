@@ -1,6 +1,6 @@
 # ceodaniyal/free-llm-image-to-text
 
-⭐ 25 · Python · 推送 2025-12-11 · [GitHub](https://github.com/ceodaniyal/free-llm-image-to-text) · 个人维护
+⭐ 27 · Python · 推送 2025-12-11 · [GitHub](https://github.com/ceodaniyal/free-llm-image-to-text) · 个人维护
 
 **用 OpenRouter 免费视觉 LLM 做图片文字提取的 Python 脚本**
 
@@ -45,13 +45,13 @@ Python 脚本项目，调用 OpenRouter 免费档位的视觉 LLM 完成 OCR：�
 
 ```mermaid
 xychart-beta
-    title "ceodaniyal/free-llm-image-to-text 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 24, 25, 25]
+    title "ceodaniyal/free-llm-image-to-text 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 20 --> 28
+    line [21, 22, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 21 → 2026-11-02 25（+4）
+2026-10-18 21 → 2026-11-17 27（+6）
 
 
 ---

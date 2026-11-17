@@ -1,6 +1,6 @@
 # frank-flin/excelchat-streamlit
 
-⭐ 77 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-06 · [GitHub](https://github.com/frank-flin/excelchat-streamlit) · [官网](https://excelchat.streamlit.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **上传 Excel 文件并用对话查询的 Streamlit 应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "frank-flin/excelchat-streamlit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-07 77（+0）
 
 
 ---

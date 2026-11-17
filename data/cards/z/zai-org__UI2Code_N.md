@@ -1,6 +1,6 @@
 # zai-org/UI2Code_N
 
-⭐ 87 · Python · 推送 2026-05-02 · [GitHub](https://github.com/zai-org/UI2Code_N) · 组织维护 · 中文 README
+⭐ 89 · Python · 推送 2026-05-02 · [GitHub](https://github.com/zai-org/UI2Code_N) · 组织维护 · 中文 README
 
 **UI 截图转前端代码的 VLM，交互式视觉优化生成/编辑/打磨**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/UI2Code_N 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "zai-org/UI2Code_N 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 86 --> 90
+    line [87, 89, 89]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-17 89（+2）
 
 
 ---

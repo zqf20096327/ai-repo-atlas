@@ -1,6 +1,6 @@
 # bigsk1/supa-crawl-chat
 
-⭐ 30 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/bigsk1/supa-crawl-chat) · [官网](https://github.com/bigsk1/supa-crawl-chat/wiki/Supa-%E2%80%90-Crawl-%E2%80%90-Chat-Wiki) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/bigsk1/supa-crawl-chat) · [官网](https://github.com/bigsk1/supa-crawl-chat/wiki/Supa-%E2%80%90-Crawl-%E2%80%90-Chat-Wiki) · 个人维护
 
 **网页爬取+语义搜索+AI 聊天一体化方案（Supabase+Crawl4AI）**
 
@@ -45,13 +45,13 @@ Python 应用，整合 Crawl4AI 爬取网站与 sitemap、Supabase(pgvector/Post
 
 ```mermaid
 xychart-beta
-    title "bigsk1/supa-crawl-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "bigsk1/supa-crawl-chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

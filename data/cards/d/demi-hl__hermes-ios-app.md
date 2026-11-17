@@ -1,6 +1,6 @@
 # demi-hl/hermes-ios-app
 
-⭐ 26 · TypeScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/demi-hl/hermes-ios-app) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/demi-hl/hermes-ios-app) · 个人维护
 
 **本地 Hermes agent 的桌面+移动驾驶舱客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "demi-hl/hermes-ios-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KRR-Oxford/DeepOnto
 
-⭐ 328 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/KRR-Oxford/DeepOnto) · [官网](https://krr-oxford.github.io/DeepOnto/) · 组织维护
+⭐ 331 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/KRR-Oxford/DeepOnto) · [官网](https://krr-oxford.github.io/DeepOnto/) · 组织维护
 
 **面向本体工程的深度学习 Python 包：本体处理与匹配/推理工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KRR-Oxford/DeepOnto 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 322 --> 329
-    line [323, 325, 326, 327, 328, 328]
+    title "KRR-Oxford/DeepOnto 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 322 --> 332
+    line [323, 325, 326, 327, 328, 325, 328, 330, 331, 331]
 ```
 
-2026-10-18 323 → 2026-11-02 328（+5）
+2026-10-18 323 → 2026-11-17 331（+8）
 
 
 ---

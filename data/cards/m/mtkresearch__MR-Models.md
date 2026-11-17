@@ -1,6 +1,6 @@
 # mtkresearch/MR-Models
 
-⭐ 301 · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/mtkresearch/MR-Models) · 组织维护 · 中文 README
+⭐ 303 · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/mtkresearch/MR-Models) · 组织维护 · 中文 README
 
 **联发创新基地的繁体中文基础模型家族（Breeze 系列）**
 
@@ -44,13 +44,13 @@ MediaTek Research 发布的面向繁体中文使用者的开源模型集合：�
 
 ```mermaid
 xychart-beta
-    title "mtkresearch/MR-Models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 298 --> 302
-    line [299, 300, 301, 301]
+    title "mtkresearch/MR-Models 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 298 --> 304
+    line [299, 300, 301, 300, 303, 303]
 ```
 
-2026-10-18 299 → 2026-11-02 301（+2）
+2026-10-18 299 → 2026-11-17 303（+4）
 
 
 ---

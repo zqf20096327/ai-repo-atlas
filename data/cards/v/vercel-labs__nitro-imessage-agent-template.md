@@ -1,6 +1,6 @@
 # vercel-labs/nitro-imessage-agent-template
 
-⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/vercel-labs/nitro-imessage-agent-template) · [官网](https://nitro-imessage-agent.vercel.app) · 组织维护
+⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/vercel-labs/nitro-imessage-agent-template) · [官网](https://nitro-imessage-agent.vercel.app) · 组织维护
 
 **可部署的 iMessage AI agent 模板：短信进、可重试的 LLM+工具回复出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/nitro-imessage-agent-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "vercel-labs/nitro-imessage-agent-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 62
+    line [57, 59, 60, 61, 61]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 61（+4）
 
 
 ---

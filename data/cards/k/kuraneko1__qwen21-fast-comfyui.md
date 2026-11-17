@@ -1,6 +1,6 @@
 # kuraneko1/qwen21-fast-comfyui
 
-⭐ 18 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/kuraneko1/qwen21-fast-comfyui) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/kuraneko1/qwen21-fast-comfyui) · 个人维护
 
 **在 RTX 4070 12GB 的 ComfyUI 上运行 Qwen-Image-2.1 的设置备忘录与脚本集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kuraneko1/qwen21-fast-comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "kuraneko1/qwen21-fast-comfyui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 17（-1）
 
 
 ---

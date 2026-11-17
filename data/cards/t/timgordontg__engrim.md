@@ -1,6 +1,6 @@
 # timgordontg/engrim
 
-⭐ 304 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/timgordontg/engrim) · [官网](https://engrim.dev) · 个人维护
+⭐ 305 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/timgordontg/engrim) · [官网](https://engrim.dev) · 个人维护
 
 **跨 AI 编码代理的本地 SQLite 情景记忆引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "timgordontg/engrim 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 298 --> 305
-    line [299, 300, 301, 302, 303, 304]
+    title "timgordontg/engrim 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 298 --> 306
+    line [299, 300, 301, 302, 303, 304, 299, 304, 305, 305]
 ```
 
-2026-10-18 299 → 2026-11-02 304（+5）
+2026-10-18 299 → 2026-11-17 305（+6）
 
 
 ---

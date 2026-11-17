@@ -1,6 +1,6 @@
 # bitwize-ai/Logue
 
-⭐ 173 · Swift · MIT · 推送 2026-10-07 · [GitHub](https://github.com/bitwize-ai/Logue) · [官网](https://bitwize.ai) · 组织维护
+⭐ 174 · Swift · MIT · 推送 2026-10-07 · [GitHub](https://github.com/bitwize-ai/Logue) · [官网](https://bitwize.ai) · 组织维护
 
 **macOS 本地优先工作区：文档/任务/会议记录+端侧AI转录与代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bitwize-ai/Logue 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 170 --> 174
-    line [171, 172, 173, 173]
+    title "bitwize-ai/Logue 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 170 --> 175
+    line [171, 172, 173, 171, 173, 174, 174]
 ```
 
-2026-10-18 171 → 2026-11-02 173（+2）
+2026-10-18 171 → 2026-11-17 174（+3）
 
 
 ---

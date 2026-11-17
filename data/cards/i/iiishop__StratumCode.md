@@ -1,6 +1,6 @@
 # iiishop/StratumCode
 
-⭐ 16 · Python · 推送 2026-10-24 · [GitHub](https://github.com/iiishop/StratumCode) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-10-24 · [GitHub](https://github.com/iiishop/StratumCode) · 个人维护 · 中文 README
 
 **本地优先的透明软件工程 agent，每步可审计、补丁需授权**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iiishop/StratumCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "iiishop/StratumCode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

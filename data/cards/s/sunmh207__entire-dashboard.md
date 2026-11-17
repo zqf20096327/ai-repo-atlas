@@ -1,6 +1,6 @@
 # sunmh207/entire-dashboard
 
-⭐ 25 · Java · MIT · 推送 2026-06-06 · [GitHub](https://github.com/sunmh207/entire-dashboard) · 个人维护 · 中文 README
+⭐ 26 · Java · MIT · 推送 2026-06-06 · [GitHub](https://github.com/sunmh207/entire-dashboard) · 个人维护 · 中文 README
 
 **可视化分析 entireio/cli 记录的 AI 辅助开发活动数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunmh207/entire-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "sunmh207/entire-dashboard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

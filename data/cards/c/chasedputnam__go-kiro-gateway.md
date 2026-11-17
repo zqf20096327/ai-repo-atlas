@@ -1,6 +1,6 @@
 # chasedputnam/go-kiro-gateway
 
-⭐ 12 · HTML · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/chasedputnam/go-kiro-gateway) · 个人维护
+⭐ 13 · HTML · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/chasedputnam/go-kiro-gateway) · 个人维护
 
 **把 Kiro（Amazon Q）模型转成 OpenAI/Anthropic 兼容 API 的网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chasedputnam/go-kiro-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "chasedputnam/go-kiro-gateway 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

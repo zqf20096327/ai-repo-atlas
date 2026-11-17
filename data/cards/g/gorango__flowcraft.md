@@ -1,6 +1,6 @@
 # gorango/flowcraft
 
-⭐ 212 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/gorango/flowcraft) · [官网](http://flowcraft.js.org/) · 个人维护
+⭐ 216 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/gorango/flowcraft) · [官网](http://flowcraft.js.org/) · 个人维护
 
 **轻量零依赖的 TypeScript 工作流引擎，编排业务流程与 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gorango/flowcraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 211 --> 213
-    line [212, 212]
+    title "gorango/flowcraft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 211 --> 217
+    line [212, 216, 216]
 ```
 
-2026-10-18 212 → 2026-11-02 212（+0）
+2026-10-18 212 → 2026-11-17 216（+4）
 
 
 ---

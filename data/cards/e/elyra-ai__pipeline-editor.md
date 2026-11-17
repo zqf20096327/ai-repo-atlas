@@ -1,6 +1,6 @@
 # elyra-ai/pipeline-editor
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/elyra-ai/pipeline-editor) · [官网](https://elyra.readthedocs.io/) · 组织维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/elyra-ai/pipeline-editor) · [官网](https://elyra.readthedocs.io/) · 组织维护
 
 **编辑 pipeline 文件的 React 组件库，供 Elyra 各客户端复用**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "elyra-ai/pipeline-editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

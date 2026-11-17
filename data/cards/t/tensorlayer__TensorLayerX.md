@@ -1,6 +1,6 @@
 # tensorlayer/TensorLayerX
 
-⭐ 531 · Python · NOASSERTION · 推送 2026-01-23 · [GitHub](https://github.com/tensorlayer/TensorLayerX) · 组织维护 · 中文 README
+⭐ 532 · Python · NOASSERTION · 推送 2026-01-23 · [GitHub](https://github.com/tensorlayer/TensorLayerX) · 组织维护 · 中文 README
 
 **多后端深度学习/强化学习框架，一套代码跨框架跨硬件运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tensorlayer/TensorLayerX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 530 --> 532
-    line [531, 531]
+    title "tensorlayer/TensorLayerX 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 530 --> 533
+    line [531, 532, 532]
 ```
 
-2026-10-18 531 → 2026-11-02 531（+0）
+2026-10-18 531 → 2026-11-17 532（+1）
 
 
 ---

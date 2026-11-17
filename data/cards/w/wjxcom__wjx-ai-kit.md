@@ -1,6 +1,6 @@
 # wjxcom/wjx-ai-kit
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wjxcom/wjx-ai-kit) · [官网](https://www.npmjs.com/package/wjx-mcp-server) · 组织维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/wjxcom/wjx-ai-kit) · [官网](https://www.npmjs.com/package/wjx-mcp-server) · 组织维护 · 中文 README
 
 **问卷星 OpenAPI 工具包：TypeScript SDK + CLI + MCP Server**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wjxcom/wjx-ai-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "wjxcom/wjx-ai-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

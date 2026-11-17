@@ -1,6 +1,6 @@
 # onekapisch/easy-write
 
-⭐ 34 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/onekapisch/easy-write) · [官网](https://www.onekapisch.com/products/easy-write/) · 个人维护
+⭐ 36 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/onekapisch/easy-write) · [官网](https://www.onekapisch.com/products/easy-write/) · 个人维护
 
 **Mac 菜单栏翻译改写工具：快捷键就地替换文本，本地模型驱动**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "onekapisch/easy-write 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "onekapisch/easy-write 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [34, 33, 34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

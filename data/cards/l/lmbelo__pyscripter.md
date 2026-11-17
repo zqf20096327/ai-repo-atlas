@@ -1,6 +1,6 @@
 # lmbelo/pyscripter
 
-⭐ 1,258 · Pascal · MIT · 推送 2025-11-24 · [GitHub](https://github.com/lmbelo/pyscripter) · 个人维护
+⭐ 1,260 · Pascal · MIT · 推送 2025-11-24 · [GitHub](https://github.com/lmbelo/pyscripter) · 个人维护
 
 **Windows 平台免费开源的 Python IDE，含 LLM 辅助编码**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "lmbelo/pyscripter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 1256 --> 1259
-    line [1257, 1258, 1258]
+    title "lmbelo/pyscripter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1256 --> 1261
+    line [1257, 1258, 1257, 1258, 1259, 1260, 1260]
 ```
 
-2026-10-18 1,257 → 2026-11-02 1,258（+1）
+2026-10-18 1,257 → 2026-11-17 1,260（+3）
 
 
 ---

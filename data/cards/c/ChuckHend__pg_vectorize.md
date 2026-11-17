@@ -1,6 +1,6 @@
 # ChuckHend/pg_vectorize
 
-⭐ 832 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/ChuckHend/pg_vectorize) · [官网](https://chuckhend.github.io/pg_vectorize/) · 个人维护
+⭐ 836 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/ChuckHend/pg_vectorize) · [官网](https://chuckhend.github.io/pg_vectorize/) · 个人维护
 
 **在 Postgres 上自动做向量/全文/混合搜索的扩展与 HTTP 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChuckHend/pg_vectorize 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 831 --> 833
-    line [832, 832]
+    title "ChuckHend/pg_vectorize 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 831 --> 837
+    line [832, 835, 836, 836]
 ```
 
-2026-10-18 832 → 2026-11-02 832（+0）
+2026-10-18 832 → 2026-11-17 836（+4）
 
 
 ---

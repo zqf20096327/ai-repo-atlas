@@ -1,6 +1,6 @@
 # arieradle/shekel
 
-⭐ 19 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/arieradle/shekel) · [官网](https://pypi.org/project/shekel/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/arieradle/shekel) · [官网](https://pypi.org/project/shekel/) · 个人维护
 
 **给 AI agent 开发者的 LLM 花费预算控制与成本治理 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arieradle/shekel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "arieradle/shekel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

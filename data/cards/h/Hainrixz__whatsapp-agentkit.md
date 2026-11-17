@@ -1,6 +1,6 @@
 # Hainrixz/whatsapp-agentkit
 
-⭐ 549 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/whatsapp-agentkit) · [官网](https://hainrixz.github.io/whatsapp-agentkit/) · 个人维护
+⭐ 570 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Hainrixz/whatsapp-agentkit) · [官网](https://hainrixz.github.io/whatsapp-agentkit/) · 个人维护
 
 **用 Claude Code 访谈式生成 WhatsApp AI 客服 agent 的工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/whatsapp-agentkit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 536 --> 550
-    line [537, 541, 543, 546, 547, 548, 549]
+    title "Hainrixz/whatsapp-agentkit 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 534 --> 573
+    line [537, 541, 543, 546, 547, 548, 549, 546, 551, 554, 558, 563, 566, 568, 570, 570]
 ```
 
-2026-10-18 537 → 2026-11-02 549（+12）
+2026-10-18 537 → 2026-11-17 570（+33）
 
 
 ---

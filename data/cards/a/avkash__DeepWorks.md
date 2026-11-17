@@ -1,6 +1,6 @@
 # avkash/DeepWorks
 
-⭐ 334 · Jupyter Notebook · 推送 2026-10-10 · [GitHub](https://github.com/avkash/DeepWorks) · [官网](https://youtube.com/@prodramp) · 个人维护
+⭐ 333 · Jupyter Notebook · 推送 2026-10-10 · [GitHub](https://github.com/avkash/DeepWorks) · [官网](https://youtube.com/@prodramp) · 个人维护
 
 **深度学习项目与教程资源合集，配 YouTube 视频讲解**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "avkash/DeepWorks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 333 --> 335
-    line [334, 334]
+    title "avkash/DeepWorks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 332 --> 335
+    line [334, 333, 333]
 ```
 
-2026-10-18 334 → 2026-11-02 334（+0）
+2026-10-18 334 → 2026-11-17 333（-1）
 
 
 ---

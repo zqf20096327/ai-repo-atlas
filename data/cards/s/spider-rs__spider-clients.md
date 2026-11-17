@@ -1,6 +1,6 @@
 # spider-rs/spider-clients
 
-⭐ 26 · Rust · MIT · 推送 2026-10-01 · [GitHub](https://github.com/spider-rs/spider-clients) · [官网](https://spider.cloud/github/clients) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/spider-rs/spider-clients) · [官网](https://spider.cloud/github/clients) · 组织维护
 
 **Spider Cloud 网页爬虫服务的多语言客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spider-rs/spider-clients 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

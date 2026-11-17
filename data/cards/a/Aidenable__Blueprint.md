@@ -1,6 +1,6 @@
 # Aidenable/Blueprint
 
-⭐ 29 · Swift · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Aidenable/Blueprint) · 个人维护
+⭐ 31 · Swift · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Aidenable/Blueprint) · 个人维护
 
 **macOS 数据库 ER 图绘制工具：无限画布草图转为 SQL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aidenable/Blueprint 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "Aidenable/Blueprint 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Devanik21/ISRO_Mining_Site_FINAL_APP
 
-⭐ 25 · Jupyter Notebook · MIT · 推送 2026-04-18 · [GitHub](https://github.com/Devanik21/ISRO_Mining_Site_FINAL_APP) · 个人维护
+⭐ 26 · Jupyter Notebook · MIT · 推送 2026-04-18 · [GitHub](https://github.com/Devanik21/ISRO_Mining_Site_FINAL_APP) · 个人维护
 
 **面向太空采矿选址的 ML 分析 Streamlit 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Devanik21/ISRO_Mining_Site_FINAL_APP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "Devanik21/ISRO_Mining_Site_FINAL_APP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

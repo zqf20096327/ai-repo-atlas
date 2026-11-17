@@ -1,6 +1,6 @@
 # jrzaurin/pytorch-widedeep
 
-⭐ 1,416 · Python · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/jrzaurin/pytorch-widedeep) · 个人维护
+⭐ 1,417 · Python · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/jrzaurin/pytorch-widedeep) · 个人维护
 
 **PyTorch 多模态深度学习库：表格数据结合文本与图像建模**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jrzaurin/pytorch-widedeep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1415 --> 1417
-    line [1416, 1416]
+    title "jrzaurin/pytorch-widedeep 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1415 --> 1418
+    line [1416, 1417, 1417]
 ```
 
-2026-10-18 1,416 → 2026-11-02 1,416（+0）
+2026-10-18 1,416 → 2026-11-17 1,417（+1）
 
 
 ---

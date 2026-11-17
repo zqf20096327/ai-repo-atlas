@@ -1,6 +1,6 @@
 # OthmanAdi/loophole
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/OthmanAdi/loophole) · [官网](https://othmanadi.github.io/loophole/) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/OthmanAdi/loophole) · [官网](https://othmanadi.github.io/loophole/) · 个人维护
 
 **让 LLM/MCP 客户端控制 Ableton Live 的 MCP 服务器扩展套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OthmanAdi/loophole 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

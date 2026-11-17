@@ -1,6 +1,6 @@
 # JackDrogon/opencode-context-cache
 
-⭐ 43 · JavaScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/JackDrogon/opencode-context-cache) · [官网](https://opencode.ai/docs/plugins/) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/JackDrogon/opencode-context-cache) · [官网](https://opencode.ai/docs/plugins/) · 个人维护
 
 **OpenCode 插件：生成稳定缓存键提升 prompt cache 命中率**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JackDrogon/opencode-context-cache 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "JackDrogon/opencode-context-cache 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 42 --> 45
-    line [44, 43, 43]
+    line [44, 43, 44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 43（-1）
+2026-10-18 44 → 2026-11-17 44（+0）
 
 
 ---

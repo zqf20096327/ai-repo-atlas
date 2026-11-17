@@ -1,6 +1,6 @@
 # langfuse/pi-observability-plugin
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/pi-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/pi-agent) · 组织维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/pi-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/pi-agent) · 组织维护
 
 **将 pi 编码 agent 会话追踪上报 Langfuse 的观测插件**
 
@@ -44,13 +44,13 @@ Langfuse 官方为 pi 编码 agent 提供的可观测性扩展：监听 Pi 生�
 
 ```mermaid
 xychart-beta
-    title "langfuse/pi-observability-plugin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 18 --> 27
-    line [19, 20, 21, 24, 25, 26, 26]
+    title "langfuse/pi-observability-plugin 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 18 --> 38
+    line [19, 20, 21, 24, 25, 26, 21, 36, 37, 37]
 ```
 
-2026-10-18 19 → 2026-11-02 26（+7）
+2026-10-18 19 → 2026-11-17 37（+18）
 
 
 ---

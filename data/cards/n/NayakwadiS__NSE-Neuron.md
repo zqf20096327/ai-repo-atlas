@@ -1,6 +1,6 @@
 # NayakwadiS/NSE-Neuron
 
-⭐ 27 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NayakwadiS/NSE-Neuron) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NayakwadiS/NSE-Neuron) · 个人维护
 
 **深度学习预测印度 NSE 股票未来 5 日行情的应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NayakwadiS/NSE-Neuron 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 27, 27]
+    title "NayakwadiS/NSE-Neuron 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 30
+    line [24, 25, 27, 25, 28, 29, 29]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 29（+5）
 
 
 ---

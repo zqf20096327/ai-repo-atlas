@@ -1,6 +1,6 @@
 # outshift-open/insight-module-for-agentic-systems
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/outshift-open/insight-module-for-agentic-systems) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/outshift-open/insight-module-for-agentic-systems) · 组织维护
 
 **为 OpenClaw 提供 OpenTelemetry 追踪与指标的观测插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "outshift-open/insight-module-for-agentic-systems 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dabaibian/api-model-spy
 
-⭐ 15 · 推送 2026-05-30 · [GitHub](https://github.com/dabaibian/api-model-spy) · 个人维护 · 中文 README
+⭐ 17 · 推送 2026-05-30 · [GitHub](https://github.com/dabaibian/api-model-spy) · 个人维护 · 中文 README
 
 **检测 LLM API 掺水，指纹识别接口背后实际运行的模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dabaibian/api-model-spy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "dabaibian/api-model-spy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # elbruno/ElBruno.MarkItDotNet
 
-⭐ 57 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/elbruno/ElBruno.MarkItDotNet) · 个人维护
+⭐ 60 · C# · MIT · 推送 2026-11-14 · [GitHub](https://github.com/elbruno/ElBruno.MarkItDotNet) · 个人维护
 
 **面向 AI 管线的 .NET 文件转 Markdown 库（15+ 格式）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elbruno/ElBruno.MarkItDotNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    title "elbruno/ElBruno.MarkItDotNet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 55 --> 61
+    line [56, 57, 56, 58, 59, 60, 60]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 60（+4）
 
 
 ---

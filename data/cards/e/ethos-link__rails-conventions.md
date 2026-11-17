@@ -1,6 +1,6 @@
 # ethos-link/rails-conventions
 
-⭐ 19 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ethos-link/rails-conventions) · 组织维护
+⭐ 20 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ethos-link/rails-conventions) · 组织维护
 
 **面向编码 Agent 的 Rails 8 约定技能包：按既有代码库规范写码与审查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethos-link/rails-conventions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "ethos-link/rails-conventions 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 18, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # anslwy/openduck
 
-⭐ 14 · Svelte · MIT · 推送 2026-05-16 · [GitHub](https://github.com/anslwy/openduck) · 个人维护 · 中文 README
+⭐ 15 · Svelte · MIT · 推送 2026-05-16 · [GitHub](https://github.com/anslwy/openduck) · 个人维护 · 中文 README
 
 **macOS 实时语音对话应用：8 语言聊天+字幕+屏幕感知**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anslwy/openduck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "anslwy/openduck 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

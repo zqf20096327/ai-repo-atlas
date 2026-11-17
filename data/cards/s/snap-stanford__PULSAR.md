@@ -1,6 +1,6 @@
 # snap-stanford/PULSAR
 
-⭐ 41 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/snap-stanford/PULSAR) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/snap-stanford/PULSAR) · 组织维护
 
 **单细胞数据基础模型：从基因到细胞到供体多层整合建模**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snap-stanford/PULSAR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "snap-stanford/PULSAR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

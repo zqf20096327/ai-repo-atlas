@@ -1,6 +1,6 @@
 # moeen-mahmud/dispach
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/moeen-mahmud/dispach) · [官网](https://dispach.blivius.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管 HTTP agent 运行时：产品通过一个 API 运行带记忆与工具的 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -44,13 +44,13 @@ Flask Web 应用：用户在浏览器中对本地目录图片做两两比较，�
 
 ```mermaid
 xychart-beta
-    title "QuentinWach/image-ranker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "QuentinWach/image-ranker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [93, 94, 93, 93]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 93（+0）
 
 
 ---

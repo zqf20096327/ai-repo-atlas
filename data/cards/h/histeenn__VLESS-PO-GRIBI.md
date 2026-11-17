@@ -1,6 +1,6 @@
 # histeenn/VLESS-PO-GRIBI
 
-⭐ 87 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/histeenn/VLESS-PO-GRIBI) · [官网](https://t.me/histeenn) · 个人维护
+⭐ 97 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/histeenn/VLESS-PO-GRIBI) · [官网](https://t.me/histeenn) · 个人维护
 
 **每 3 小时自动聚合校验的免费 VPN 订阅链接集合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "histeenn/VLESS-PO-GRIBI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 83 --> 88
-    line [84, 87, 87]
+    title "histeenn/VLESS-PO-GRIBI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 83 --> 98
+    line [84, 87, 91, 94, 96, 97, 97]
 ```
 
-2026-10-18 84 → 2026-11-02 87（+3）
+2026-10-18 84 → 2026-11-17 97（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # matlab-deep-learning/reinforcement_learning_financial_trading
 
-⭐ 184 · MATLAB · NOASSERTION · 推送 2026-02-13 · [GitHub](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading) · [官网](https://www.mathworks.com/products/reinforcement-learning.html) · 组织维护
+⭐ 185 · MATLAB · NOASSERTION · 推送 2026-02-13 · [GitHub](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading) · [官网](https://www.mathworks.com/products/reinforcement-learning.html) · 组织维护
 
 **MATLAB 强化学习股票交易示例（单智能体+多智能体）**
 
@@ -45,13 +45,13 @@ MathWorks 官方 MATLAB 示例项目，演示用强化学习训练股票交易�
 
 ```mermaid
 xychart-beta
-    title "matlab-deep-learning/reinforcement_learning_financial_trading 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 183 --> 185
-    line [184, 184]
+    title "matlab-deep-learning/reinforcement_learning_financial_trading 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 183 --> 186
+    line [184, 185, 185]
 ```
 
-2026-10-18 184 → 2026-11-02 184（+0）
+2026-10-18 184 → 2026-11-17 185（+1）
 
 
 ---

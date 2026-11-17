@@ -1,6 +1,6 @@
 # pgEdge/pgedge-docloader
 
-⭐ 12 · Go · PostgreSQL · 推送 2026-10-29 · [GitHub](https://github.com/pgEdge/pgedge-docloader) · [官网](https://docs.pgedge.com/pgedge-docloader) · 组织维护
+⭐ 12 · Go · PostgreSQL · 推送 2026-11-16 · [GitHub](https://github.com/pgEdge/pgedge-docloader) · [官网](https://docs.pgedge.com/pgedge-docloader) · 组织维护
 
 **命令行工具：将 HTML/RST 等文档转为 Markdown 并载入 PostgreSQL**
 
@@ -45,12 +45,12 @@ pgEdge 维护的 Go 命令行工具，把 HTML、Markdown、reStructuredText 与
 ```mermaid
 xychart-beta
     title "pgEdge/pgedge-docloader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

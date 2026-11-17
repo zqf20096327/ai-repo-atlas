@@ -1,6 +1,6 @@
 # the-perfect-developer/the-perfect-opencode
 
-⭐ 16 · Shell · MIT · 推送 2026-04-28 · [GitHub](https://github.com/the-perfect-developer/the-perfect-opencode) · [官网](https://opencode.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **OpenCode 的 agent/技能/命令策展集与安装器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-perfect-developer/the-perfect-opencode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
+    title "the-perfect-developer/the-perfect-opencode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    line [14, 15, 16, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-07 15（+1）
 
 
 ---

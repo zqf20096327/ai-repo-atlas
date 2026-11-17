@@ -1,6 +1,6 @@
 # lebek/modmixer
 
-⭐ 30 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/lebek/modmixer) · [官网](https://modmixer.com) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/lebek/modmixer) · [官网](https://modmixer.com) · 个人维护
 
 **桌面应用：用对话让 AI agent 构建 RimWorld 模组**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lebek/modmixer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "lebek/modmixer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 30, 28, 31, 32, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 33（+5）
 
 
 ---

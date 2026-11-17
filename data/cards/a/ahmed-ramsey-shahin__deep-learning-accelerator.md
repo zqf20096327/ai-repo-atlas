@@ -1,6 +1,6 @@
 # ahmed-ramsey-shahin/deep-learning-accelerator
 
-⭐ 16 · SystemVerilog · 推送 2025-12-10 · [GitHub](https://github.com/ahmed-ramsey-shahin/deep-learning-accelerator) · 个人维护
+⭐ 17 · SystemVerilog · 推送 2025-12-10 · [GitHub](https://github.com/ahmed-ramsey-shahin/deep-learning-accelerator) · 个人维护
 
 **SystemVerilog 神经网络推理加速器：脉动阵列矩阵乘单元**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahmed-ramsey-shahin/deep-learning-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "ahmed-ramsey-shahin/deep-learning-accelerator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

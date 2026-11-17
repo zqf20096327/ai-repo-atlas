@@ -1,6 +1,6 @@
 # microsoft/timewarp
 
-⭐ 68 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/microsoft/timewarp) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/microsoft/timewarp) · 组织维护
 
 **用深度学习加速分子动力学模拟的科研代码库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/timewarp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "microsoft/timewarp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 69（+1）
 
 
 ---

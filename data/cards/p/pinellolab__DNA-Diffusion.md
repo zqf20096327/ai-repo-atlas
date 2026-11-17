@@ -1,6 +1,6 @@
 # pinellolab/DNA-Diffusion
 
-⭐ 490 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pinellolab/DNA-Diffusion) · [官网](https://pinellolab.github.io/DNA-Diffusion/) · 组织维护
+⭐ 491 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pinellolab/DNA-Diffusion) · [官网](https://pinellolab.github.io/DNA-Diffusion/) · 组织维护
 
 **扩散模型生成 200bp 细胞类型特异调控 DNA 序列**
 
@@ -44,13 +44,13 @@ DNA-Diffusion 是基于扩散概率模型的调控 DNA 序列生成工具：生�
 
 ```mermaid
 xychart-beta
-    title "pinellolab/DNA-Diffusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 488 --> 491
-    line [490, 489, 490, 490]
+    title "pinellolab/DNA-Diffusion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 488 --> 492
+    line [490, 489, 490, 491, 491]
 ```
 
-2026-10-18 490 → 2026-11-02 490（+0）
+2026-10-18 490 → 2026-11-17 491（+1）
 
 
 ---

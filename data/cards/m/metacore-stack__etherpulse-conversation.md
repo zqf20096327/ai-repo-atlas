@@ -1,6 +1,6 @@
 # metacore-stack/etherpulse-conversation
 
-⭐ 13 · TypeScript · 推送 2025-11-13 · [GitHub](https://github.com/metacore-stack/etherpulse-conversation) · [官网](https://ether-conversation.vercel.app/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Puter 无服务器 API 的浏览器端 AI 对话工作区**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "metacore-stack/etherpulse-conversation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-08 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kweinmeister/agentitest
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/kweinmeister/agentitest) · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/kweinmeister/agentitest) · 个人维护
 
 **用自然语言编写浏览器测试的 LLM 测试框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kweinmeister/agentitest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "kweinmeister/agentitest 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

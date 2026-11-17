@@ -1,6 +1,6 @@
 # BrunkenClaas/lx
 
-⭐ 37 · Rust · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/BrunkenClaas/lx) · 个人维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/BrunkenClaas/lx) · 个人维护
 
 **本地 LLM 驱动的 Unix 风格 CLI 工具套件（72 个）**
 
@@ -47,13 +47,13 @@ Rust 编写的命令行工具套件，把常见开发操作交给 LLM 完成：�
 
 ```mermaid
 xychart-beta
-    title "BrunkenClaas/lx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "BrunkenClaas/lx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

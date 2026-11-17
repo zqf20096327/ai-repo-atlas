@@ -1,6 +1,6 @@
 # mistralai/client-ts
 
-⭐ 160 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/mistralai/client-ts) · 组织维护
+⭐ 161 · TypeScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/mistralai/client-ts) · 组织维护
 
 **Mistral AI 平台的 TypeScript 客户端 SDK（v2）**
 
@@ -43,13 +43,13 @@ Mistral AI 官方 TypeScript SDK v2，供开发者在 JS 应用中调用 Mistral
 
 ```mermaid
 xychart-beta
-    title "mistralai/client-ts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 156 --> 161
-    line [157, 158, 159, 160, 160]
+    title "mistralai/client-ts 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 156 --> 163
+    line [157, 158, 159, 160, 158, 162, 161, 161]
 ```
 
-2026-10-18 157 → 2026-11-02 160（+3）
+2026-10-18 157 → 2026-11-17 161（+4）
 
 
 ---

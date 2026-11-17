@@ -1,6 +1,6 @@
 # yxiy171866-boop/x-twikit-mcp
 
-⭐ 25 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/yxiy171866-boop/x-twikit-mcp) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/yxiy171866-boop/x-twikit-mcp) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 协议操作 X (Twitter) 账号的服务端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yxiy171866-boop/x-twikit-mcp 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 26
-    line [11, 21, 22, 25, 25]
+    title "yxiy171866-boop/x-twikit-mcp 星数(近 8 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 9 --> 36
+    line [11, 21, 22, 25, 30, 31, 34, 34]
 ```
 
-2026-10-29 11 → 2026-11-02 25（+14）
+2026-10-29 11 → 2026-11-17 34（+23）
 
 
 ---

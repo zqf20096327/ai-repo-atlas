@@ -1,6 +1,6 @@
 # gao-lab/GLUE
 
-⭐ 483 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/gao-lab/GLUE) · 组织维护 · 中文 README
+⭐ 488 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/gao-lab/GLUE) · 组织维护 · 中文 README
 
 **单细胞多组学数据整合的图链接统一嵌入方法**
 
@@ -44,13 +44,13 @@ GLUE（scglue 包）是一种图链接统一嵌入方法，用于单细胞多组
 
 ```mermaid
 xychart-beta
-    title "gao-lab/GLUE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 481 --> 484
-    line [482, 483, 483]
+    title "gao-lab/GLUE 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 481 --> 489
+    line [482, 483, 482, 488, 488]
 ```
 
-2026-10-18 482 → 2026-11-02 483（+1）
+2026-10-18 482 → 2026-11-17 488（+6）
 
 
 ---

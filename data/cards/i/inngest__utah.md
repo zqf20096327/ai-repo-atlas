@@ -1,6 +1,6 @@
 # inngest/utah
 
-⭐ 138 · TypeScript · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/inngest/utah) · 组织维护
+⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/inngest/utah) · 组织维护
 
 **基于 Inngest 的持久化个人 AI agent，多渠道触发自扩展技能**
 
@@ -44,13 +44,13 @@ TypeScript 实现的个人 AI agent：think/act/observe 循环中每次 LLM 调�
 
 ```mermaid
 xychart-beta
-    title "inngest/utah 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 136 --> 139
-    line [137, 138, 138]
+    title "inngest/utah 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 136 --> 140
+    line [137, 138, 137, 138, 139, 139]
 ```
 
-2026-10-18 137 → 2026-11-02 138（+1）
+2026-10-18 137 → 2026-11-17 139（+2）
 
 
 ---

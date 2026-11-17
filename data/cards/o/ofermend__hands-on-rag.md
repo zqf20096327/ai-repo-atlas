@@ -1,6 +1,6 @@
 # ofermend/hands-on-rag
 
-⭐ 45 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/ofermend/hands-on-rag) · 个人维护
+⭐ 52 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/ofermend/hands-on-rag) · 个人维护
 
 **O'Reilly RAG 书籍配套代码仓库：35 个可运行笔记本**
 
@@ -45,13 +45,13 @@ O'Reilly 书籍 Hands-On RAG for Production 的官方代码仓库，含 35 个 J
 
 ```mermaid
 xychart-beta
-    title "ofermend/hands-on-rag 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 44, 45, 45]
+    title "ofermend/hands-on-rag 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 41 --> 53
+    line [42, 43, 44, 45, 44, 48, 49, 50, 51, 52, 52]
 ```
 
-2026-10-18 42 → 2026-11-02 45（+3）
+2026-10-18 42 → 2026-11-17 52（+10）
 
 
 ---

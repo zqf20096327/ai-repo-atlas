@@ -1,6 +1,6 @@
 # NexusGPU/vgpu.rs
 
-⭐ 41 · Rust · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/NexusGPU/vgpu.rs) · [官网](https://tensor-fusion.ai) · 组织维护
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/NexusGPU/vgpu.rs) · [官网](https://tensor-fusion.ai) · 组织维护
 
 **Rust 编写的 GPU 分片与 vGPU 虚拟化管理组件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NexusGPU/vgpu.rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "NexusGPU/vgpu.rs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

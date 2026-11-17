@@ -1,6 +1,6 @@
 # RanitDERIA/Chefini
 
-⭐ 42 · TypeScript · MIT · 推送 2025-12-17 · [GitHub](https://github.com/RanitDERIA/Chefini) · [官网](https://chefini.vercel.app) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2025-12-17 · [GitHub](https://github.com/RanitDERIA/Chefini) · [官网](https://chefini.vercel.app) · 个人维护
 
 **面向家庭厨师的 AI 烹饪应用：用剩余食材生成菜谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RanitDERIA/Chefini 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 36 --> 43
-    line [37, 38, 40, 42, 42]
+    title "RanitDERIA/Chefini 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 36 --> 47
+    line [37, 38, 40, 42, 37, 44, 45, 46, 46]
 ```
 
-2026-10-18 37 → 2026-11-02 42（+5）
+2026-10-18 37 → 2026-11-17 46（+9）
 
 
 ---

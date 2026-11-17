@@ -1,6 +1,6 @@
 # unrealandychan/learn-python-with-ai
 
-⭐ 32 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/unrealandychan/learn-python-with-ai) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/unrealandychan/learn-python-with-ai) · 个人维护 · 中文 README
 
 **面向 AI 应用开发的 Python 自学课程（75 课）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "unrealandychan/learn-python-with-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "unrealandychan/learn-python-with-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 31, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

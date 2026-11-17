@@ -1,6 +1,6 @@
 # managedcode/MCAF
 
-⭐ 56 · CSS · CC-BY-4.0 · 推送 2026-10-11 · [GitHub](https://github.com/managedcode/MCAF) · [官网](https://mcaf.managed-code.com/) · 组织维护
+⭐ 55 · CSS · CC-BY-4.0 · 推送 2026-10-11 · [GitHub](https://github.com/managedcode/MCAF) · [官网](https://mcaf.managed-code.com/) · 组织维护
 
 **与 AI 编码代理协作构建软件工程的框架（上下文/验证/指令）**
 
@@ -44,13 +44,13 @@ Managed Code 维护的 AI 编码代理工程框架：定义将代码、文档、
 
 ```mermaid
 xychart-beta
-    title "managedcode/MCAF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "managedcode/MCAF 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [56, 55, 55]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 55（-1）
 
 
 ---

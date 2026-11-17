@@ -1,6 +1,6 @@
 # VirtualPatientEngine/AIAgents4Pharma
 
-⭐ 107 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/VirtualPatientEngine/AIAgents4Pharma) · [官网](https://virtualpatientengine.github.io/AIAgents4Pharma/) · 组织维护
+⭐ 108 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/VirtualPatientEngine/AIAgents4Pharma) · [官网](https://virtualpatientengine.github.io/AIAgents4Pharma/) · 组织维护
 
 **面向药物研发的生物医药 AI Agent 工具包（5 个对话 Agent）**
 
@@ -44,13 +44,13 @@ Team VPE 维护的开源工具包，提供多个面向生物医药研究的对�
 
 ```mermaid
 xychart-beta
-    title "VirtualPatientEngine/AIAgents4Pharma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 105 --> 108
-    line [106, 107]
+    title "VirtualPatientEngine/AIAgents4Pharma 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 105 --> 109
+    line [106, 107, 106, 108, 108]
 ```
 
-2026-10-18 106 → 2026-11-02 107（+1）
+2026-10-18 106 → 2026-11-17 108（+2）
 
 
 ---

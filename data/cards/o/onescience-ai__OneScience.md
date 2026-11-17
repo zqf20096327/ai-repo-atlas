@@ -1,6 +1,6 @@
 # onescience-ai/OneScience
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/onescience-ai/OneScience) · 组织维护 · 中文 README
+⭐ 50 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/onescience-ai/OneScience) · 组织维护 · 中文 README
 
 **面向科学计算的深度学习模型工具包，覆盖气象、CFD、生信、材料等领域**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onescience-ai/OneScience 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "onescience-ai/OneScience 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

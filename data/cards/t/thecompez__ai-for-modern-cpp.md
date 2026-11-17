@@ -1,6 +1,6 @@
 # thecompez/ai-for-modern-cpp
 
-⭐ 27 · CMake · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/thecompez/ai-for-modern-cpp) · 个人维护
+⭐ 27 · CMake · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/thecompez/ai-for-modern-cpp) · 个人维护
 
 **教 AI 编码代理写安全现代 C++20/23/26 的可执行知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thecompez/ai-for-modern-cpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-17"]
     y-axis "stars" 24 --> 28
     line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

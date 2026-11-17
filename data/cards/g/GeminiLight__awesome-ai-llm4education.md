@@ -1,6 +1,6 @@
 # GeminiLight/awesome-ai-llm4education
 
-⭐ 221 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/awesome-ai-llm4education) · [官网](https://tianfu.wang/awesome-ai-llm4education/) · 组织维护
+⭐ 225 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/awesome-ai-llm4education) · [官网](https://tianfu.wang/awesome-ai-llm4education/) · 组织维护
 
 **AI/LLM 教育应用论文策展清单（334 篇，2001–2026）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeminiLight/awesome-ai-llm4education 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 219 --> 222
-    line [220, 221, 221]
+    title "GeminiLight/awesome-ai-llm4education 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 219 --> 226
+    line [220, 221, 220, 221, 222, 223, 225, 225]
 ```
 
-2026-10-18 220 → 2026-11-02 221（+1）
+2026-10-18 220 → 2026-11-17 225（+5）
 
 
 ---

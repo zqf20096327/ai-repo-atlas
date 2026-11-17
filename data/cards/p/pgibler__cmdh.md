@@ -1,6 +1,6 @@
 # pgibler/cmdh
 
-⭐ 135 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/pgibler/cmdh) · 个人维护
+⭐ 136 · TypeScript · MIT · 推送 2026-02-25 · [GitHub](https://github.com/pgibler/cmdh) · 个人维护
 
 **在 shell 中用 LLM 将自然语言转换为 Linux 命令的工具**
 
@@ -44,13 +44,13 @@ cmdh（Command Helper）是一个 TypeScript 编写的命令行工具：用户�
 
 ```mermaid
 xychart-beta
-    title "pgibler/cmdh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 133 --> 136
-    line [134, 135, 135]
+    title "pgibler/cmdh 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 133 --> 137
+    line [134, 135, 134, 136, 136]
 ```
 
-2026-10-18 134 → 2026-11-02 135（+1）
+2026-10-18 134 → 2026-11-17 136（+2）
 
 
 ---

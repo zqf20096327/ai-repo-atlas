@@ -1,6 +1,6 @@
 # kreneskyp/ix
 
-⭐ 1,045 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kreneskyp/ix) · 个人维护
+⭐ 1,044 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kreneskyp/ix) · 个人维护
 
 **设计并部署自主 LLM 智能体与工作流的平台**
 
@@ -44,13 +44,13 @@ IX 是用于设计和部署自主/半自主 LLM 智能体与工作流的开源�
 
 ```mermaid
 xychart-beta
-    title "kreneskyp/ix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 1044 --> 1047
-    line [1046, 1045, 1045]
+    title "kreneskyp/ix 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1043 --> 1047
+    line [1046, 1045, 1044, 1044]
 ```
 
-2026-10-18 1,046 → 2026-11-02 1,045（-1）
+2026-10-18 1,046 → 2026-11-17 1,044（-2）
 
 
 ---

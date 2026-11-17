@@ -1,6 +1,6 @@
 # eric8810/authy
 
-⭐ 23 · Rust · MIT · 推送 2026-02-26 · [GitHub](https://github.com/eric8810/authy) · [官网](https://authy.scotares.com) · 个人维护
+⭐ 22 · Rust · MIT · 推送 2026-02-26 · [GitHub](https://github.com/eric8810/authy) · [官网](https://authy.scotares.com) · 个人维护
 
 **面向 AI agent 的本地加密密钥库与分发 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "eric8810/authy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "eric8810/authy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

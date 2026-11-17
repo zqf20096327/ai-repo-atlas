@@ -1,6 +1,6 @@
 # JaneliaSciComp/exllsm-circuit-reconstruction
 
-⭐ 13 · Nextflow · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/JaneliaSciComp/exllsm-circuit-reconstruction) · 组织维护
+⭐ 13 · Nextflow · BSD-3-Clause · 推送 2026-11-05 · [GitHub](https://github.com/JaneliaSciComp/exllsm-circuit-reconstruction) · 组织维护
 
 **ExLLSM 显微成像分析 Nextflow 流水线：拼接、分割与突触预测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JaneliaSciComp/exllsm-circuit-reconstruction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

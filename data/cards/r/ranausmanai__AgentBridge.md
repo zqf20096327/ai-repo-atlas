@@ -1,6 +1,6 @@
 # ranausmanai/AgentBridge
 
-⭐ 21 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/ranausmanai/AgentBridge) · [官网](https://agentbridge.cc) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/ranausmanai/AgentBridge) · [官网](https://agentbridge.cc) · 个人维护
 
 **把任意 OpenAPI API 快速变为 AI agent 可调用的桥接工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ranausmanai/AgentBridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "ranausmanai/AgentBridge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sidiora-Labs/centra-gideon-agent
 
-⭐ 212 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Sidiora-Labs/centra-gideon-agent) · [官网](https://centra.ag) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管的个人 AI agent 平台：网关+Web 控制台**
 
@@ -11,7 +11,7 @@ Sidiora Labs 开源的 Gideon 自托管版：一个网关加 Web 控制台，提
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Sidiora Labs 开源的 Gideon 自托管版：一个网关加 Web 控制台，提
 
 ```mermaid
 xychart-beta
-    title "Sidiora-Labs/centra-gideon-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
+    title "Sidiora-Labs/centra-gideon-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08"]
     y-axis "stars" 211 --> 217
-    line [216, 214, 215, 213, 212, 212]
+    line [216, 214, 215, 213, 212, 213, 212]
 ```
 
-2026-10-18 216 → 2026-11-02 212（-4）
+2026-10-18 216 → 2026-11-08 212（-4）
 
 
 ---

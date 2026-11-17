@@ -1,6 +1,6 @@
 # JhCircle/Kardia-R1
 
-⭐ 62 · Python · MIT · 推送 2026-03-02 · [GitHub](https://github.com/JhCircle/Kardia-R1) · [官网](https://arxiv.org/pdf/2512.01282) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-03-02 · [GitHub](https://github.com/JhCircle/Kardia-R1) · [官网](https://arxiv.org/pdf/2512.01282) · 组织维护
 
 **面向情感支持的共情推理对话模型与数据集框架（WWW 2026）**
 
@@ -44,13 +44,13 @@ Kardia-R1 是推理中心的共情对话框架，统一用户理解、情感推�
 
 ```mermaid
 xychart-beta
-    title "JhCircle/Kardia-R1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "JhCircle/Kardia-R1 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 63
+    line [62, 60, 60]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 60（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ylab-hi/DeepChopper
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ylab-hi/DeepChopper) · [官网](https://ylab-hi.github.io/DeepChopper/) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/ylab-hi/DeepChopper) · [官网](https://ylab-hi.github.io/DeepChopper/) · 组织维护
 
 **检测并切除 Nanopore 直接 RNA 测序嵌合 reads 的语言模型工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ylab-hi/DeepChopper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

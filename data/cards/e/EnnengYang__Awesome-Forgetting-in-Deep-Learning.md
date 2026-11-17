@@ -1,6 +1,6 @@
 # EnnengYang/Awesome-Forgetting-in-Deep-Learning
 
-⭐ 369 · 推送 2026-01-27 · [GitHub](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) · [官网](https://arxiv.org/abs/2307.09218) · 个人维护
+⭐ 370 · 推送 2026-01-27 · [GitHub](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) · [官网](https://arxiv.org/abs/2307.09218) · 个人维护
 
 **深度学习中遗忘现象的论文综述清单（TPAMI 2024）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EnnengYang/Awesome-Forgetting-in-Deep-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 368 --> 370
-    line [369, 369]
+    title "EnnengYang/Awesome-Forgetting-in-Deep-Learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 368 --> 371
+    line [369, 370, 370]
 ```
 
-2026-10-18 369 → 2026-11-02 369（+0）
+2026-10-18 369 → 2026-11-17 370（+1）
 
 
 ---

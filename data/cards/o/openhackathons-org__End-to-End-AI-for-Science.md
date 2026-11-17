@@ -1,6 +1,6 @@
 # openhackathons-org/End-to-End-AI-for-Science
 
-⭐ 276 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openhackathons-org/End-to-End-AI-for-Science) · 组织维护
+⭐ 283 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openhackathons-org/End-to-End-AI-for-Science) · 组织维护
 
 **面向科研人员的端到端 AI for Science 训练营教材（NVIDIA PhysicsNeMo）**
 
@@ -44,13 +44,13 @@ OpenHackathons 发布的 Bootcamp 教材仓库：以 NVIDIA PhysicsNeMo 框架�
 
 ```mermaid
 xychart-beta
-    title "openhackathons-org/End-to-End-AI-for-Science 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 263 --> 277
-    line [264, 267, 268, 274, 275, 276]
+    title "openhackathons-org/End-to-End-AI-for-Science 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 263 --> 284
+    line [264, 267, 268, 274, 275, 276, 268, 282, 283, 283]
 ```
 
-2026-10-18 264 → 2026-11-02 276（+12）
+2026-10-18 264 → 2026-11-17 283（+19）
 
 
 ---

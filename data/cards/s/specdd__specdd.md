@@ -1,6 +1,6 @@
 # specdd/specdd
 
-⭐ 42 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/specdd/specdd) · [官网](https://specdd.ai) · 组织维护
+⭐ 45 · HTML · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/specdd/specdd) · [官网](https://specdd.ai) · 组织维护
 
 **给人类与 AI agent 共用的规格驱动开发框架（.sdd 文件）**
 
@@ -46,13 +46,13 @@ SpecDD 是开源的规格驱动开发框架：在代码、基础设施或文档�
 
 ```mermaid
 xychart-beta
-    title "specdd/specdd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    title "specdd/specdd 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 39 --> 46
+    line [40, 41, 42, 41, 44, 45, 45]
 ```
 
-2026-10-18 40 → 2026-11-02 42（+2）
+2026-10-18 40 → 2026-11-17 45（+5）
 
 
 ---

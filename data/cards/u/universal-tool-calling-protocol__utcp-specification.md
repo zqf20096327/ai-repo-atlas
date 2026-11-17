@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/utcp-specification
 
-⭐ 316 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/universal-tool-calling-protocol/utcp-specification) · [官网](https://www.utcp.io/) · 组织维护
+⭐ 336 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/universal-tool-calling-protocol/utcp-specification) · [官网](https://www.utcp.io/) · 组织维护
 
 **通用工具调用协议（UTCP）的官方规范文档仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "universal-tool-calling-protocol/utcp-specification 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 312 --> 317
-    line [314, 313, 314, 315, 316, 316]
+    title "universal-tool-calling-protocol/utcp-specification 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 311 --> 338
+    line [314, 313, 314, 315, 316, 314, 332, 334, 333, 335, 336, 336]
 ```
 
-2026-10-18 314 → 2026-11-02 316（+2）
+2026-10-18 314 → 2026-11-17 336（+22）
 
 
 ---

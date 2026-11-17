@@ -1,6 +1,6 @@
 # rodrigo-arenas/Sklearn-genetic-opt
 
-⭐ 391 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) · [官网](https://sklearngeneticopt.rodrigo-arenas.com) · 个人维护
+⭐ 397 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) · [官网](https://sklearngeneticopt.rodrigo-arenas.com) · 个人维护
 
 **用遗传算法为 scikit-learn 模型做超参调优与特征选择的工具库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rodrigo-arenas/Sklearn-genetic-opt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 388 --> 392
-    line [389, 390, 391]
+    title "rodrigo-arenas/Sklearn-genetic-opt 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 388 --> 398
+    line [389, 390, 391, 390, 391, 393, 397, 397]
 ```
 
-2026-10-18 389 → 2026-11-02 391（+2）
+2026-10-18 389 → 2026-11-17 397（+8）
 
 
 ---

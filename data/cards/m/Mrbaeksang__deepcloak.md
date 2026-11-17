@@ -1,6 +1,6 @@
 # Mrbaeksang/deepcloak
 
-⭐ 60 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Mrbaeksang/deepcloak) · [官网](https://deepcloak.vercel.app) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Mrbaeksang/deepcloak) · [官网](https://deepcloak.vercel.app) · 个人维护 · 中文 README
 
 **本地优先的深度研究 CLI：遇反爬墙时升级浏览器抓取并出引用报告**
 
@@ -44,13 +44,13 @@ DeepCloak 是封装 local-deep-research 与 CloakBrowser 的本地优先研究�
 
 ```mermaid
 xychart-beta
-    title "Mrbaeksang/deepcloak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "Mrbaeksang/deepcloak 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

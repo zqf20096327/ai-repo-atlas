@@ -1,6 +1,6 @@
 # sturlese/hippocampus
 
-⭐ 29 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/sturlese/hippocampus) · [官网](https://github.com/sturlese/hippocampus) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/sturlese/hippocampus) · [官网](https://github.com/sturlese/hippocampus) · 个人维护
 
 **用编码代理把零散笔记整理成 Obsidian 知识库的轻量个人大脑模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sturlese/hippocampus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "sturlese/hippocampus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [29, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 28（-1）
 
 
 ---

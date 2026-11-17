@@ -1,6 +1,6 @@
 # byliutao/CDM
 
-⭐ 157 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/byliutao/CDM) · 个人维护
+⭐ 156 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/byliutao/CDM) · 个人维护
 
 **少步扩散蒸馏方法：4 NFE 高质量文生图（NeurIPS 2026）**
 
@@ -45,13 +45,13 @@ NeurIPS 2026 论文 Continuous-Time Distribution Matching (CDM) 的官方代码�
 
 ```mermaid
 xychart-beta
-    title "byliutao/CDM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "byliutao/CDM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 153 --> 158
-    line [154, 156, 157, 157]
+    line [154, 156, 157, 156, 156]
 ```
 
-2026-10-18 154 → 2026-11-02 157（+3）
+2026-10-18 154 → 2026-11-17 156（+2）
 
 
 ---

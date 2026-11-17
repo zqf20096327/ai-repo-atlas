@@ -1,6 +1,6 @@
 # metareflection/formal-disco
 
-⭐ 14 · Python · 推送 2026-07-08 · [GitHub](https://github.com/metareflection/formal-disco) · [官网](https://arxiv.org/abs/2607.04631) · 组织维护
+⭐ 15 · Python · 推送 2026-07-08 · [GitHub](https://github.com/metareflection/formal-disco) · [官网](https://arxiv.org/abs/2607.04631) · 组织维护
 
 **分布式 LLM 工作流框架：大规模生成并自改进形式化验证程序**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metareflection/formal-disco 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "metareflection/formal-disco 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

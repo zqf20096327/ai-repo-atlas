@@ -1,6 +1,6 @@
 # vercel-labs/workflow-builder-template
 
-⭐ 1,230 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/vercel-labs/workflow-builder-template) · [官网](https://workflow-builder.dev) · 组织维护
+⭐ 1,241 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/vercel-labs/workflow-builder-template) · [官网](https://workflow-builder.dev) · 组织维护
 
 **可视化 AI 工作流自动化平台模板：拖拽搭建流程并生成代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/workflow-builder-template 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1223 --> 1231
-    line [1225, 1224, 1225, 1224, 1225, 1227, 1228, 1230, 1230]
+    title "vercel-labs/workflow-builder-template 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1223 --> 1242
+    line [1225, 1224, 1225, 1224, 1225, 1227, 1228, 1230, 1224, 1239, 1240, 1238, 1239, 1241, 1241]
 ```
 
-2026-10-18 1,225 → 2026-11-02 1,230（+5）
+2026-10-18 1,225 → 2026-11-17 1,241（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # toxy4ny/redteam-ai-benchmark
 
-⭐ 59 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/toxy4ny/redteam-ai-benchmark) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/toxy4ny/redteam-ai-benchmark) · 个人维护
 
 **面向授权红队/攻防场景的 LLM 基座选型 CLI 评测基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "toxy4ny/redteam-ai-benchmark 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 52 --> 60
-    line [53, 55, 56, 57, 59, 59]
+    title "toxy4ny/redteam-ai-benchmark 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 52 --> 65
+    line [53, 55, 56, 57, 59, 57, 61, 62, 64, 64]
 ```
 
-2026-10-19 53 → 2026-11-02 59（+6）
+2026-10-19 53 → 2026-11-17 64（+11）
 
 
 ---

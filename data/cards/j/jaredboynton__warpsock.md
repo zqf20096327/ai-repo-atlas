@@ -1,6 +1,6 @@
 # jaredboynton/warpsock
 
-⭐ 13 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/jaredboynton/warpsock) · [官网](https://crates.io/crates/warpsock) · 个人维护
+⭐ 16 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/jaredboynton/warpsock) · [官网](https://crates.io/crates/warpsock) · 个人维护
 
 **Rust HTTP 客户端：以浏览器级指纹模拟访问，含 Node/Python 绑定**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaredboynton/warpsock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "jaredboynton/warpsock 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

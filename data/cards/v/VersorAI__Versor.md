@@ -1,6 +1,6 @@
 # VersorAI/Versor
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/VersorAI/Versor) · [官网](https://arxiv.org/pdf/2602.10195) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/VersorAI/Versor) · [官网](https://arxiv.org/pdf/2602.10195) · 组织维护
 
 **基于共形几何代数 Cl(4,1) 的几何序列 Transformer 架构**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VersorAI/Versor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "VersorAI/Versor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

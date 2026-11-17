@@ -1,6 +1,6 @@
 # cyanheads/ntfy-mcp-server
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cyanheads/ntfy-mcp-server) · [官网](https://www.npmjs.com/package/ntfy-mcp-server) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/cyanheads/ntfy-mcp-server) · [官网](https://www.npmjs.com/package/ntfy-mcp-server) · 个人维护
 
 **让 AI agent 通过 MCP 收发管理 ntfy 推送通知的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyanheads/ntfy-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
+    title "cyanheads/ntfy-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    line [23, 24, 25, 23, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

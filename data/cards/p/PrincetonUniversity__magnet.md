@@ -1,6 +1,6 @@
 # PrincetonUniversity/magnet
 
-⭐ 92 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/PrincetonUniversity/magnet) · [官网](https://mag-net.princeton.edu/) · 组织维护
+⭐ 93 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/PrincetonUniversity/magnet) · [官网](https://mag-net.princeton.edu/) · 组织维护
 
 **功率磁件建模数据集：用机器学习预测磁芯损耗**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrincetonUniversity/magnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 89 --> 93
-    line [90, 91, 92, 92]
+    title "PrincetonUniversity/magnet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 89 --> 94
+    line [90, 91, 92, 91, 92, 93, 93]
 ```
 
-2026-10-18 90 → 2026-11-02 92（+2）
+2026-10-18 90 → 2026-11-17 93（+3）
 
 
 ---

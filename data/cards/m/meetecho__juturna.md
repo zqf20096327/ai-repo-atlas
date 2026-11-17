@@ -1,6 +1,6 @@
 # meetecho/juturna
 
-⭐ 23 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/meetecho/juturna) · [官网](https://meetecho.github.io/juturna/index.html) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/meetecho/juturna) · [官网](https://meetecho.github.io/juturna/index.html) · 组织维护
 
 **Python 实时数据管线库，用于多媒体与 AI 模型原型验证**
 
@@ -45,13 +45,13 @@ Juturna 是 Meetecho 维护的 Python 数据管线库，面向快速原型开发
 
 ```mermaid
 xychart-beta
-    title "meetecho/juturna 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "meetecho/juturna 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

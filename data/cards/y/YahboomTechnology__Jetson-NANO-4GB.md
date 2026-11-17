@@ -1,6 +1,6 @@
 # YahboomTechnology/Jetson-NANO-4GB
 
-⭐ 28 · 推送 2026-08-14 · [GitHub](https://github.com/YahboomTechnology/Jetson-NANO-4GB) · [官网](https://category.yahboom.net/products/jetson-nano-sub) · 组织维护 · 中文 README
+⭐ 29 · 推送 2026-08-14 · [GitHub](https://github.com/YahboomTechnology/Jetson-NANO-4GB) · [官网](https://category.yahboom.net/products/jetson-nano-sub) · 组织维护 · 中文 README
 
 **Jetson Nano 4GB 开发套件的硬件介绍与支持文档**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "YahboomTechnology/Jetson-NANO-4GB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "YahboomTechnology/Jetson-NANO-4GB 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

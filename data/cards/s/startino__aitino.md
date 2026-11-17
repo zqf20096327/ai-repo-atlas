@@ -1,6 +1,6 @@
 # startino/aitino
 
-⭐ 92 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/startino/aitino) · [官网](https://aiti.no/) · 组织维护
+⭐ 92 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/startino/aitino) · [官网](https://aiti.no/) · 组织维护
 
 **构建 AI Agent 团队以自动化高层任务的开源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "startino/aitino 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 92（+0）
 
 
 ---

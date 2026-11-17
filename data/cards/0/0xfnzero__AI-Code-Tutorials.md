@@ -1,6 +1,6 @@
 # 0xfnzero/AI-Code-Tutorials
 
-⭐ 80 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/0xfnzero/AI-Code-Tutorials) · [官网](https://fnzero.dev) · 个人维护 · 中文 README
+⭐ 81 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/0xfnzero/AI-Code-Tutorials) · [官网](https://fnzero.dev) · 个人维护 · 中文 README
 
 **中英双语 AI 辅助编程教程集：覆盖 Claude Code 与 Codex**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xfnzero/AI-Code-Tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    title "0xfnzero/AI-Code-Tutorials 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 79 --> 82
+    line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-17 81（+1）
 
 
 ---

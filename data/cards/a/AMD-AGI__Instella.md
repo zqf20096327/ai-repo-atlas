@@ -1,6 +1,6 @@
 # AMD-AGI/Instella
 
-⭐ 334 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/AMD-AGI/Instella) · 组织维护
+⭐ 340 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/AMD-AGI/Instella) · 组织维护
 
 **AMD 开源 3B 语言模型及完整训练代码与数据**
 
@@ -44,13 +44,13 @@ AMD GenAI 团队在 Instinct MI300X GPU 上训练的全开放语言模型家族�
 
 ```mermaid
 xychart-beta
-    title "AMD-AGI/Instella 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 333 --> 336
-    line [335, 334, 334]
+    title "AMD-AGI/Instella 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 333 --> 341
+    line [335, 334, 335, 337, 339, 340, 340]
 ```
 
-2026-10-18 335 → 2026-11-02 334（-1）
+2026-10-18 335 → 2026-11-17 340（+5）
 
 
 ---

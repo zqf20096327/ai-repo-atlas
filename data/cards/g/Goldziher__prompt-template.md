@@ -1,6 +1,6 @@
 # Goldziher/prompt-template
 
-⭐ 27 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Goldziher/prompt-template) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Goldziher/prompt-template) · 个人维护
 
 **零依赖的 LLM 提示词模板 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Goldziher/prompt-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27]
+    title "Goldziher/prompt-template 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 26, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 29（+3）
 
 
 ---

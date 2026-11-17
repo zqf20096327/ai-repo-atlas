@@ -1,6 +1,6 @@
 # curiosity-ai/catalyst
 
-⭐ 861 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/curiosity-ai/catalyst) · 组织维护
+⭐ 864 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/curiosity-ai/catalyst) · 组织维护
 
 **给 .NET 开发者的 C# 自然语言处理库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "curiosity-ai/catalyst 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 859 --> 862
-    line [860, 861]
+    title "curiosity-ai/catalyst 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 859 --> 865
+    line [860, 861, 860, 861, 863, 864, 864]
 ```
 
-2026-10-18 860 → 2026-11-02 861（+1）
+2026-10-18 860 → 2026-11-17 864（+4）
 
 
 ---

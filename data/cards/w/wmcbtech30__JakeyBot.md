@@ -1,6 +1,6 @@
 # wmcbtech30/JakeyBot
 
-⭐ 44 · Python · 推送 2026-08-15 · [GitHub](https://github.com/wmcbtech30/JakeyBot) · 个人维护
+⭐ 43 · Python · 推送 2026-08-15 · [GitHub](https://github.com/wmcbtech30/JakeyBot) · 个人维护
 
 **Discord 多模型 AI 与音乐机器人，接入主流大模型聊天**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wmcbtech30/JakeyBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "wmcbtech30/JakeyBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [44, 43, 43]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 43（-1）
 
 
 ---

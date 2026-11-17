@@ -1,6 +1,6 @@
 # AIDotNet/auto-prompt
 
-⭐ 773 · TypeScript · NOASSERTION · 推送 2025-12-06 · [GitHub](https://github.com/AIDotNet/auto-prompt) · [官网](https://console.token-ai.cn) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向 AI 开发者与内容创作者的 Prompt 优化、调试与分享平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIDotNet/auto-prompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-07"]
     y-axis "stars" 771 --> 774
     line [772, 773, 773]
 ```
 
-2026-10-18 772 → 2026-11-02 773（+1）
+2026-10-18 772 → 2026-11-07 773（+1）
 
 
 ---

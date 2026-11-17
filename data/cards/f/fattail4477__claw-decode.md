@@ -1,6 +1,6 @@
 # fattail4477/claw-decode
 
-⭐ 56 · TypeScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/fattail4477/claw-decode) · [官网](https://www.clawdecode.net) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/fattail4477/claw-decode) · [官网](https://www.clawdecode.net) · 个人维护
 
 **Claude Code 泄露源码的分析文档库：隐藏功能与43个工具定义**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fattail4477/claw-decode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "fattail4477/claw-decode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

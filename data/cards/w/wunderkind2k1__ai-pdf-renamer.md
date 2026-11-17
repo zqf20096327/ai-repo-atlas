@@ -1,6 +1,6 @@
 # wunderkind2k1/ai-pdf-renamer
 
-⭐ 22 · Go · MIT · 推送 2026-02-16 · [GitHub](https://github.com/wunderkind2k1/ai-pdf-renamer) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-11-08 · [GitHub](https://github.com/wunderkind2k1/ai-pdf-renamer) · 个人维护
 
 **离线批量 PDF 智能重命名工具：用本地 Ollama 模型按内容生成文件名**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wunderkind2k1/ai-pdf-renamer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "wunderkind2k1/ai-pdf-renamer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

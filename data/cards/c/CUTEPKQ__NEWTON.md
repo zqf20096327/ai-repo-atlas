@@ -1,6 +1,6 @@
 # CUTEPKQ/NEWTON
 
-⭐ 139 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/CUTEPKQ/NEWTON) · [官网](https://newton026.github.io/newton/) · 组织维护
+⭐ 140 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/CUTEPKQ/NEWTON) · [官网](https://newton026.github.io/newton/) · 组织维护
 
 **科研用 agent 规划框架：让视频生成满足物理常识**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CUTEPKQ/NEWTON 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    title "CUTEPKQ/NEWTON 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 138 --> 141
+    line [139, 140, 140]
 ```
 
-2026-10-18 139 → 2026-11-02 139（+0）
+2026-10-18 139 → 2026-11-17 140（+1）
 
 
 ---

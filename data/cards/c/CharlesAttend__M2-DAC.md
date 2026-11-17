@@ -1,6 +1,6 @@
 # CharlesAttend/M2-DAC
 
-⭐ 22 · Jupyter Notebook · 推送 2026-06-12 · [GitHub](https://github.com/CharlesAttend/M2-DAC) · 个人维护
+⭐ 21 · Jupyter Notebook · 推送 2026-06-12 · [GitHub](https://github.com/CharlesAttend/M2-DAC) · 个人维护
 
 **索邦大学 M2 DAC/MIND 课程资料与学生贡献合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "CharlesAttend/M2-DAC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "CharlesAttend/M2-DAC 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

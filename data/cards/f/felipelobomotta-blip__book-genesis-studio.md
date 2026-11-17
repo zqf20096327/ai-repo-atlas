@@ -1,6 +1,6 @@
 # felipelobomotta-blip/book-genesis-studio
 
-⭐ 156 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
 
 **给 AI 编程 agent 的整书创作技能集：从一句话到成书**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "felipelobomotta-blip/book-genesis-studio 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 143 --> 157
-    line [144, 146, 148, 150, 151, 152, 153, 156, 156]
+    title "felipelobomotta-blip/book-genesis-studio 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 143 --> 163
+    line [144, 146, 148, 150, 151, 152, 153, 156, 150, 159, 160, 161, 162, 162]
 ```
 
-2026-10-18 144 → 2026-11-02 156（+12）
+2026-10-18 144 → 2026-11-17 162（+18）
 
 
 ---

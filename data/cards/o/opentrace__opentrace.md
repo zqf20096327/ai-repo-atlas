@@ -1,6 +1,6 @@
 # opentrace/opentrace
 
-⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opentrace/opentrace) · [官网](https://opentrace.ai) · 组织维护
+⭐ 111 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opentrace/opentrace) · [官网](https://opentrace.ai) · 组织维护
 
 **把代码库索引自建知识图谱并通过 MCP 暴露给 AI 工具的平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opentrace/opentrace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 107 --> 110
-    line [108, 109, 109]
+    title "opentrace/opentrace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 107 --> 112
+    line [108, 109, 111, 111]
 ```
 
-2026-10-18 108 → 2026-11-02 109（+1）
+2026-10-18 108 → 2026-11-17 111（+3）
 
 
 ---

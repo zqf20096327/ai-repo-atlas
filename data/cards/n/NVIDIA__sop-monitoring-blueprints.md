@@ -1,6 +1,6 @@
 # NVIDIA/sop-monitoring-blueprints
 
-⭐ 64 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/NVIDIA/sop-monitoring-blueprints) · 组织维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/NVIDIA/sop-monitoring-blueprints) · 组织维护
 
 **工业 SOP 视频监控系统的训练与推理微服务及 agentic 技能包**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的标准作业程序（SOP）监控蓝图：包含训练微服务�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/sop-monitoring-blueprints 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    title "NVIDIA/sop-monitoring-blueprints 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 63, 65, 65]
 ```
 
-2026-10-18 63 → 2026-11-02 64（+1）
+2026-10-18 63 → 2026-11-17 65（+2）
 
 
 ---

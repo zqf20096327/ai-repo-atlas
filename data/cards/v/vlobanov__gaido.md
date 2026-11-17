@@ -1,6 +1,6 @@
 # vlobanov/gaido
 
-⭐ 12 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/vlobanov/gaido) · [官网](https://gaido.ai) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/vlobanov/gaido) · [官网](https://gaido.ai) · 个人维护
 
 **创意编码 agent 的实验室笔记本：提示变节点图，可分叉迭代**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vlobanov/gaido 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "vlobanov/gaido 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

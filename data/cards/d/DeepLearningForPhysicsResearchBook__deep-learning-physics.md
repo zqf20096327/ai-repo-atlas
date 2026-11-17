@@ -1,6 +1,6 @@
 # DeepLearningForPhysicsResearchBook/deep-learning-physics
 
-⭐ 78 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics) · [官网](http://www.deeplearningphysics.org/) · 组织维护
+⭐ 79 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics) · [官网](http://www.deeplearningphysics.org/) · 组织维护
 
 **物理研究深度学习教材的配套习题仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeepLearningForPhysicsResearchBook/deep-learning-physics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    title "DeepLearningForPhysicsResearchBook/deep-learning-physics 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 79, 79]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-17 79（+2）
 
 
 ---

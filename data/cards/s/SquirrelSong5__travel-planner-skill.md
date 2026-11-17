@@ -1,6 +1,6 @@
 # SquirrelSong5/travel-planner-skill
 
-⭐ 12 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/SquirrelSong5/travel-planner-skill) · [官网](https://squirrelsong5.github.io/travel-plans/chengdu-2026-09-18.html) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/SquirrelSong5/travel-planner-skill) · [官网](https://squirrelsong5.github.io/travel-plans/chengdu-2026-09-18.html) · 个人维护 · 中文 README
 
 **面向中国大陆行程的 AI Agent 旅行规划 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SquirrelSong5/travel-planner-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "SquirrelSong5/travel-planner-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

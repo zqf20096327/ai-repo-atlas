@@ -1,6 +1,6 @@
 # 4n4nd/prometheus-api-client-python
 
-⭐ 277 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/4n4nd/prometheus-api-client-python) · 组织维护
+⭐ 278 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/4n4nd/prometheus-api-client-python) · 组织维护
 
 **Prometheus HTTP API 的 Python 封装库，用于获取与处理监控指标**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "4n4nd/prometheus-api-client-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 276 --> 278
-    line [277, 277]
+    title "4n4nd/prometheus-api-client-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 276 --> 279
+    line [277, 278, 278]
 ```
 
-2026-10-18 277 → 2026-11-02 277（+0）
+2026-10-18 277 → 2026-11-17 278（+1）
 
 
 ---

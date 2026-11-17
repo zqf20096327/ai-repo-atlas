@@ -1,6 +1,6 @@
 # memovai/openfde
 
-⭐ 58 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/memovai/openfde) · [官网](https://fde.md) · 组织维护
+⭐ 59 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/memovai/openfde) · [官网](https://fde.md) · 组织维护
 
 **面向前置部署工程师的本地优先 AI 工作台：访谈变记忆、记忆变任务、任务派给编码 agent**
 
@@ -45,13 +45,13 @@ OpenFDE 将客户访谈、聊天记录、文档、PDF 与图片编译为基于�
 
 ```mermaid
 xychart-beta
-    title "memovai/openfde 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58, 58]
+    title "memovai/openfde 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 58, 57, 58, 59, 59]
 ```
 
-2026-10-18 56 → 2026-11-02 58（+2）
+2026-10-18 56 → 2026-11-17 59（+3）
 
 
 ---

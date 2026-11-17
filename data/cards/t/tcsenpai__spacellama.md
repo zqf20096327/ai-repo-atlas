@@ -1,6 +1,6 @@
 # tcsenpai/spacellama
 
-⭐ 89 · JavaScript · WTFPL · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/spacellama) · 个人维护
+⭐ 90 · JavaScript · WTFPL · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/spacellama) · 个人维护
 
 **调用本地 Ollama 的浏览器网页摘要扩展（侧边栏）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tcsenpai/spacellama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "tcsenpai/spacellama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [89, 90, 90]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 90（+1）
 
 
 ---

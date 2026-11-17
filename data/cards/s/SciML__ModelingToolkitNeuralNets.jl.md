@@ -1,6 +1,6 @@
 # SciML/ModelingToolkitNeuralNets.jl
 
-⭐ 41 · Julia · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SciML/ModelingToolkitNeuralNets.jl) · [官网](https://docs.sciml.ai/ModelingToolkitNeuralNets/stable/) · 组织维护
+⭐ 43 · Julia · MIT · 推送 2026-11-12 · [GitHub](https://github.com/SciML/ModelingToolkitNeuralNets.jl) · [官网](https://docs.sciml.ai/ModelingToolkitNeuralNets/stable/) · 组织维护
 
 **Julia 包：在 ODE 系统中嵌入神经网络块求解 UDE**
 
@@ -43,13 +43,13 @@ ModelingToolkitNeuralNets.jl 是 SciML 组织的 Julia 包，用于创建类似 
 
 ```mermaid
 xychart-beta
-    title "SciML/ModelingToolkitNeuralNets.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "SciML/ModelingToolkitNeuralNets.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

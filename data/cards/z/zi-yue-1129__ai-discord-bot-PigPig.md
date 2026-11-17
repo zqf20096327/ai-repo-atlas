@@ -1,6 +1,6 @@
 # zi-yue-1129/ai-discord-bot-PigPig
 
-⭐ 50 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zi-yue-1129/ai-discord-bot-PigPig) · [官网](https://zi-yue-1129.github.io/ai-discord-bot-PigPig/) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/zi-yue-1129/ai-discord-bot-PigPig) · [官网](https://zi-yue-1129.github.io/ai-discord-bot-PigPig/) · 个人维护 · 中文 README
 
 **基于多模态 LLM 的 Discord 对话机器人：自然语言交互与社区功能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zi-yue-1129/ai-discord-bot-PigPig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "zi-yue-1129/ai-discord-bot-PigPig 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

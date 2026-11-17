@@ -1,6 +1,6 @@
 # unicorn-mafia/unicorn-mafia
 
-⭐ 43 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/unicorn-mafia/unicorn-mafia) · [官网](https://unicornmafia.ai) · 组织维护
+⭐ 44 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/unicorn-mafia/unicorn-mafia) · [官网](https://unicornmafia.ai) · 组织维护
 
 **伦敦开发者社区的成员公司展示网站**
 
@@ -43,13 +43,13 @@ Unicorn Mafia 社区的官方网站，基于 Next.js 15（App Router）、TypeSc
 
 ```mermaid
 xychart-beta
-    title "unicorn-mafia/unicorn-mafia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "unicorn-mafia/unicorn-mafia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

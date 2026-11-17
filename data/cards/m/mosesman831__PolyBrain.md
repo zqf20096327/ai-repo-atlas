@@ -1,6 +1,6 @@
 # mosesman831/PolyBrain
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/mosesman831/PolyBrain) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Hermes Agent 的多模型编排技能：并行子代理与引用验证**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mosesman831/PolyBrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "mosesman831/PolyBrain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-13 25（+2）
 
 
 ---

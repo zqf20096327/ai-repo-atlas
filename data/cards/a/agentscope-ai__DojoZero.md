@@ -1,6 +1,6 @@
 # agentscope-ai/DojoZero
 
-⭐ 56 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/agentscope-ai/DojoZero) · [官网](https://dojozero.live) · 组织维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/agentscope-ai/DojoZero) · [官网](https://dojozero.live) · 组织维护 · 中文 README
 
 **运行 AI agent 于实时体育数据做赛事预测的平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/DojoZero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "agentscope-ai/DojoZero 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

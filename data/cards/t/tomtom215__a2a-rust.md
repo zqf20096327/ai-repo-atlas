@@ -1,6 +1,6 @@
 # tomtom215/a2a-rust
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tomtom215/a2a-rust) · [官网](https://a2a-rust.com/) · 个人维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tomtom215/a2a-rust) · [官网](https://a2a-rust.com/) · 个人维护
 
 **Rust 版 A2A 协议 SDK：构建互操作 AI agent 的客户端与服务端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomtom215/a2a-rust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "tomtom215/a2a-rust 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

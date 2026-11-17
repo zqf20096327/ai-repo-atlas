@@ -1,6 +1,6 @@
 # giselles-ai/giselle
 
-⭐ 559 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/giselles-ai/giselle) · [官网](https://giselles.ai) · 组织维护
+⭐ 559 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/giselles-ai/giselle) · [官网](https://giselles.ai) · 组织维护
 
 **开源可视化 AI agent 工作流构建与运行平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "giselles-ai/giselle 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 556 --> 560
-    line [558, 559, 558, 557, 559, 559]
+    title "giselles-ai/giselle 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 556 --> 561
+    line [558, 559, 558, 557, 559, 558, 560, 559, 559]
 ```
 
-2026-10-18 558 → 2026-11-02 559（+1）
+2026-10-18 558 → 2026-11-17 559（+1）
 
 
 ---

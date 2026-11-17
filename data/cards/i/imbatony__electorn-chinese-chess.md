@@ -1,6 +1,6 @@
 # imbatony/electorn-chinese-chess
 
-⭐ 38 · TypeScript · 推送 2026-07-26 · [GitHub](https://github.com/imbatony/electorn-chinese-chess) · [官网](https://github.com/imbatony/electorn-chinese-chess) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · 推送 2026-07-26 · [GitHub](https://github.com/imbatony/electorn-chinese-chess) · [官网](https://github.com/imbatony/electorn-chinese-chess) · 个人维护 · 中文 README
 
 **基于 Electron 的 Windows 象棋软件，内置四款引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imbatony/electorn-chinese-chess 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "imbatony/electorn-chinese-chess 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

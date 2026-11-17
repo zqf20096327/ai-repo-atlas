@@ -1,6 +1,6 @@
 # waikato-llm/llm-dataset-converter
 
-⭐ 22 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/waikato-llm/llm-dataset-converter) · [官网](https://waikato-llm.github.io/llm-dataset-converter-examples/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **LLM 数据集格式转换与清洗的 Python 工具库**
 
@@ -11,7 +11,7 @@ Waikato LLM 团队维护的数据集转换工具：以插件化 reader/filter/wr
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Waikato LLM 团队维护的数据集转换工具：以插件化 reader/filter/wr
 ```mermaid
 xychart-beta
     title "waikato-llm/llm-dataset-converter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-07 22（+0）
 
 
 ---

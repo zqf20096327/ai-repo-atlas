@@ -1,6 +1,6 @@
 # watchmesink/berlin_ai_startups
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/watchmesink/berlin_ai_startups) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/watchmesink/berlin_ai_startups) · 个人维护
 
 **柏林活跃 AI/ML 公司目录：245 家，按行业组织含融资与招聘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "watchmesink/berlin_ai_startups 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "watchmesink/berlin_ai_startups 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

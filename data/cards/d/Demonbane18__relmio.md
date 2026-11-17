@@ -1,6 +1,6 @@
 # Demonbane18/relmio
 
-⭐ 59 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Demonbane18/relmio) · [官网](https://relmio.jpfusin.tech/) · 个人维护
+⭐ 68 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Demonbane18/relmio) · [官网](https://relmio.jpfusin.tech/) · 个人维护
 
 **本地浏览器向导：为自托管 n8n 安装 ChatGPT/SuperGrok 等 OAuth 接入**
 
@@ -45,13 +45,13 @@ Relmio 是运行在 127.0.0.1 的本地安装向导，为自托管 n8n 配置 Ch
 
 ```mermaid
 xychart-beta
-    title "Demonbane18/relmio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 58 --> 61
-    line [60, 59, 59]
+    title "Demonbane18/relmio 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 58 --> 69
+    line [60, 59, 60, 67, 68, 68]
 ```
 
-2026-10-18 60 → 2026-11-02 59（-1）
+2026-10-18 60 → 2026-11-17 68（+8）
 
 
 ---

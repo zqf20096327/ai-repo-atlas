@@ -1,6 +1,6 @@
 # HRNPH/GANime-FullBody
 
-⭐ 33 · Jupyter Notebook · GPL-3.0 · 推送 2025-11-14 · [GitHub](https://github.com/HRNPH/GANime-FullBody) · [官网](https://hrnph.github.io/GANime-FullBody/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **扩散模型之前时代的动漫全身立绘 GAN 生成实验项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HRNPH/GANime-FullBody 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-08 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # volcengine/veaiops
 
-⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/volcengine/veaiops) · [官网](https://volcengine.github.io/veaiops/) · 组织维护 · 中文 README
+⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/volcengine/veaiops) · [官网](https://volcengine.github.io/veaiops/) · 组织维护 · 中文 README
 
 **火山引擎开源 AIOps 套件：ChatOps 值班助手+智能告警阈值+可观测性**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "volcengine/veaiops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "volcengine/veaiops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

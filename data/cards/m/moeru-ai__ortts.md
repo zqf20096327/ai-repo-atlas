@@ -1,6 +1,6 @@
 # moeru-ai/ortts
 
-⭐ 13 · Rust · MIT · 推送 2026-09-18 · [GitHub](https://github.com/moeru-ai/ortts) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/moeru-ai/ortts) · 组织维护
 
 **本地 TTS 推理服务器：ONNX Runtime 驱动，OpenAI 兼容接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moeru-ai/ortts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

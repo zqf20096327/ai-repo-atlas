@@ -1,6 +1,6 @@
 # arthjean/rust-doctor
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/arthjean/rust-doctor) · [官网](rust-doctor.com) · 个人维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/arthjean/rust-doctor) · [官网](rust-doctor.com) · 个人维护
 
 **审查 AI 生成 Rust 代码的本地静态分析工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arthjean/rust-doctor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "arthjean/rust-doctor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

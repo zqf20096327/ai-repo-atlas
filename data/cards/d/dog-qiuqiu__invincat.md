@@ -1,6 +1,6 @@
 # dog-qiuqiu/invincat
 
-⭐ 118 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/dog-qiuqiu/invincat) · 个人维护 · 中文 README
+⭐ 117 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/dog-qiuqiu/invincat) · 个人维护 · 中文 README
 
 **终端原生的 AI 编码助手，带分层记忆与计划执行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dog-qiuqiu/invincat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    title "dog-qiuqiu/invincat 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 114 --> 119
+    line [117, 118, 117, 115, 117, 117]
 ```
 
-2026-10-18 117 → 2026-11-02 118（+1）
+2026-10-18 117 → 2026-11-17 117（+0）
 
 
 ---

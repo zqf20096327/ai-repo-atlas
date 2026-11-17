@@ -1,6 +1,6 @@
 # zae-bayern/elpv-dataset
 
-⭐ 313 · Python · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/zae-bayern/elpv-dataset) · 组织维护
+⭐ 317 · Python · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/zae-bayern/elpv-dataset) · 组织维护
 
 **太阳能电池 EL 图像缺陷基准数据集（2,624 张带标注）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zae-bayern/elpv-dataset 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 310 --> 314
-    line [311, 312, 313, 313]
+    title "zae-bayern/elpv-dataset 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 310 --> 318
+    line [311, 312, 313, 312, 314, 315, 316, 317, 317]
 ```
 
-2026-10-18 311 → 2026-11-02 313（+2）
+2026-10-18 311 → 2026-11-17 317（+6）
 
 
 ---

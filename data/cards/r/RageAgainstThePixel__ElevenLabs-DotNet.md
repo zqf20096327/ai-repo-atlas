@@ -1,6 +1,6 @@
 # RageAgainstThePixel/ElevenLabs-DotNet
 
-⭐ 99 · C# · MIT · 推送 2026-03-09 · [GitHub](https://github.com/RageAgainstThePixel/ElevenLabs-DotNet) · [官网](https://try.elevenlabs.io/rage-against-the-pixel) · 个人维护
+⭐ 99 · C# · MIT · 推送 2026-11-02 · [GitHub](https://github.com/RageAgainstThePixel/ElevenLabs-DotNet) · [官网](https://try.elevenlabs.io/rage-against-the-pixel) · 个人维护
 
 **.NET 8 的 ElevenLabs TTS/配音 API 非官方客户端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RageAgainstThePixel/ElevenLabs-DotNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 99（+0）
 
 
 ---

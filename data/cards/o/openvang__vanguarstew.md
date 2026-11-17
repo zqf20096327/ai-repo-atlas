@@ -1,6 +1,6 @@
 # openvang/vanguarstew
 
-⭐ 21 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openvang/vanguarstew) · [官网](https://openvang.github.io/vanguarstew/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/openvang/vanguarstew) · [官网](https://openvang.github.io/vanguarstew/) · 组织维护
 
 **仓库维护者智能体与基于 GitHub 历史的维护决策基准**
 
@@ -46,12 +46,12 @@ OpenVang 的维护者智能组件：给定冻结在某一时刻的仓库，agent
 ```mermaid
 xychart-beta
     title "openvang/vanguarstew 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

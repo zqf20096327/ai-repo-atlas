@@ -1,6 +1,6 @@
 # skymanbp/CodeEraser
 
-⭐ 20 · Haskell · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/skymanbp/CodeEraser) · [官网](https://codeeraser.dev) · 个人维护 · 中文 README
+⭐ 15 · Haskell · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/skymanbp/CodeEraser) · [官网](https://codeeraser.dev) · 个人维护 · 中文 README
 
 **拦截 agent 重复/膨胀写入的确定性写时守卫与代码质量工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skymanbp/CodeEraser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    title "skymanbp/CodeEraser 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 22
+    line [21, 20, 16, 14, 15, 15]
 ```
 
-2026-10-18 21 → 2026-11-02 20（-1）
+2026-10-18 21 → 2026-11-17 15（-6）
 
 
 ---

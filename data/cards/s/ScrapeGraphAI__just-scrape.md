@@ -1,6 +1,6 @@
 # ScrapeGraphAI/just-scrape
 
-⭐ 74 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ScrapeGraphAI/just-scrape) · [官网](https://scrapegraphai.com) · 组织维护
+⭐ 76 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ScrapeGraphAI/just-scrape) · [官网](https://scrapegraphai.com) · 组织维护
 
 **ScrapeGraphAI 的 CLI：网页抓取、结构化提取与监控**
 
@@ -45,13 +45,13 @@ ScrapeGraphAI 官方命令行工具，封装 ScrapeGraph AI API 工作流：将�
 
 ```mermaid
 xychart-beta
-    title "ScrapeGraphAI/just-scrape 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 69 --> 75
-    line [70, 71, 72, 73, 74, 74]
+    title "ScrapeGraphAI/just-scrape 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 69 --> 77
+    line [70, 71, 72, 73, 74, 72, 75, 76, 76]
 ```
 
-2026-10-18 70 → 2026-11-02 74（+4）
+2026-10-18 70 → 2026-11-17 76（+6）
 
 
 ---

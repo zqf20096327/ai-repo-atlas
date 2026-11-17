@@ -1,6 +1,6 @@
 # llm-use/llm-use
 
-⭐ 58 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/llm-use/llm-use) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/llm-use/llm-use) · 组织维护
 
 **面向 agent 工作流的多供应商 LLM 编排工具包：planner+workers+synthesis**
 
@@ -44,13 +44,13 @@ Python 编排工具包，运行“规划器+工作者+综合”流程：编排�
 
 ```mermaid
 xychart-beta
-    title "llm-use/llm-use 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 57 --> 60
-    line [59, 58, 58]
+    title "llm-use/llm-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 57 --> 61
+    line [59, 58, 59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 58（-1）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

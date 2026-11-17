@@ -1,6 +1,6 @@
 # NovasPlace/CSM
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/NovasPlace/CSM) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NovasPlace/CSM) · 组织维护
 
 **AI 编码代理的跨会话记忆与连续性运行时（AgentBook 事件账本）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NovasPlace/CSM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
+    title "NovasPlace/CSM 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 45, 46]
+    line [45, 46, 45, 46, 45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

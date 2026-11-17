@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/VideoScore2
 
-⭐ 61 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore2) · [官网](https://tiger-ai-lab.github.io/VideoScore2/) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore2) · [官网](https://tiger-ai-lab.github.io/VideoScore2/) · 组织维护
 
 **生成视频的自动评测指标：多维度打分并给出推理依据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/VideoScore2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 61, 61]
+    title "TIGER-AI-Lab/VideoScore2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 58 --> 63
+    line [59, 61, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 62（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cysharp/AIApiTracer
 
-⭐ 49 · C# · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Cysharp/AIApiTracer) · 组织维护
+⭐ 50 · C# · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Cysharp/AIApiTracer) · 组织维护
 
 **本地开发环境的 AI API 反向代理：拦截并追踪 AI 服务请求响应**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cysharp/AIApiTracer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "Cysharp/AIApiTracer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

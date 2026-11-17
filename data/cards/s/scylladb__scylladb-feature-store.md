@@ -1,6 +1,6 @@
 # scylladb/scylladb-feature-store
 
-⭐ 21 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/scylladb/scylladb-feature-store) · [官网](https://feature-store.scylladb.com/) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/scylladb/scylladb-feature-store) · [官网](https://feature-store.scylladb.com/) · 组织维护
 
 **Feast + ScyllaDB 实时信贷评分示例应用（特征存储演示）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "scylladb/scylladb-feature-store 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

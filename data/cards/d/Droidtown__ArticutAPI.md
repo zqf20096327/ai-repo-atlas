@@ -1,6 +1,6 @@
 # Droidtown/ArticutAPI
 
-⭐ 414 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/Droidtown/ArticutAPI) · [官网](https://api.droidtown.co) · 组织维护 · 中文 README
+⭐ 414 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Droidtown/ArticutAPI) · [官网](https://api.droidtown.co) · 组织维护 · 中文 README
 
 **中文斷詞與詞性標記 API 客戶端，規則式處理無需模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Droidtown/ArticutAPI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 413 --> 415
     line [414, 414]
 ```
 
-2026-10-18 414 → 2026-11-02 414（+0）
+2026-10-18 414 → 2026-11-17 414（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mirayavandiepen/bricka
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mirayavandiepen/bricka) · [官网](https://bricka.mirayavandiepen.com) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mirayavandiepen/bricka) · [官网](https://bricka.mirayavandiepen.com) · 个人维护
 
 **React AI 应用输入框组件：文件、人、命令以 token 形式内嵌消息**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirayavandiepen/bricka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "mirayavandiepen/bricka 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

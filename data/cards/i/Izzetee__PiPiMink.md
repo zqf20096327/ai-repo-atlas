@@ -1,6 +1,6 @@
 # Izzetee/PiPiMink
 
-⭐ 32 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Izzetee/PiPiMink) · 个人维护
+⭐ 29 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Izzetee/PiPiMink) · 个人维护
 
 **按用户自建基准路由 prompt 到最适 LLM 的 Go 代理服务**
 
@@ -45,13 +45,13 @@ Go 编写的 LLM 路由代理服务：每个聊天请求先经可配置的 meta-
 
 ```mermaid
 xychart-beta
-    title "Izzetee/PiPiMink 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 31 --> 36
-    line [35, 32, 32]
+    title "Izzetee/PiPiMink 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 36
+    line [35, 32, 31, 29, 29]
 ```
 
-2026-10-18 35 → 2026-11-02 32（-3）
+2026-10-18 35 → 2026-11-17 29（-6）
 
 
 ---

@@ -1,6 +1,6 @@
 # HeyNina101/generative_ai_project
 
-⭐ 902 · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/HeyNina101/generative_ai_project) · [官网](https://www.linkedin.com/in/ninadurann/) · 个人维护
+⭐ 901 · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/HeyNina101/generative_ai_project) · [官网](https://www.linkedin.com/in/ninadurann/) · 个人维护
 
 **生成式 AI 项目起步模板：提供结构与配置组织方式**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "HeyNina101/generative_ai_project 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 901 --> 906
-    line [905, 904, 903, 902, 902]
+    title "HeyNina101/generative_ai_project 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 900 --> 906
+    line [905, 904, 903, 902, 903, 901, 901]
 ```
 
-2026-10-18 905 → 2026-11-02 902（-3）
+2026-10-18 905 → 2026-11-17 901（-4）
 
 
 ---

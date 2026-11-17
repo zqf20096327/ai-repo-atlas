@@ -1,6 +1,6 @@
 # langchain-ai/sql-support-bot
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/sql-support-bot) · 组织维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/sql-support-bot) · 组织维护
 
 **基于 DeepAgents 的 SQL 数据库客服聊天机器人示例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/sql-support-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

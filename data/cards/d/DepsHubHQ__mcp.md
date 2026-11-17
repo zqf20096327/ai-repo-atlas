@@ -1,6 +1,6 @@
 # DepsHubHQ/mcp
 
-⭐ 14 · Go · 推送 2025-11-13 · [GitHub](https://github.com/DepsHubHQ/mcp) · [官网](https://discord.gg/NuEXZwNDtN) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **MCP 服务器：为编辑器提供依赖更新与破坏性变更信息**
 
@@ -46,12 +46,12 @@ DepsHub 提供的 MCP Server，将依赖更新分析能力接入支持 MCP 协�
 ```mermaid
 xychart-beta
     title "DepsHubHQ/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-08 14（+0）
 
 
 ---

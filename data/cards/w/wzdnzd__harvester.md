@@ -1,6 +1,6 @@
 # wzdnzd/harvester
 
-⭐ 609 · Python · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/wzdnzd/harvester) · [官网](https://github.com/wzdnzd/harvester) · 个人维护 · 中文 README
+⭐ 612 · Python · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/wzdnzd/harvester) · [官网](https://github.com/wzdnzd/harvester) · 个人维护 · 中文 README
 
 **通用数据采集框架：从 GitHub 等多源发现并验证 AI 服务密钥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wzdnzd/harvester 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 606 --> 610
-    line [607, 608, 609, 609]
+    title "wzdnzd/harvester 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 606 --> 613
+    line [607, 608, 609, 610, 611, 612, 612]
 ```
 
-2026-10-18 607 → 2026-11-02 609（+2）
+2026-10-18 607 → 2026-11-17 612（+5）
 
 
 ---

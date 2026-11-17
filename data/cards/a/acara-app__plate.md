@@ -1,6 +1,6 @@
 # acara-app/plate
 
-⭐ 39 · PHP · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/acara-app/plate) · [官网](https://plate.acara.app) · 组织维护
+⭐ 41 · PHP · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/acara-app/plate) · [官网](https://plate.acara.app) · 组织维护
 
 **可自托管的健康 AI 代理平台：问答、健康数据接入与营养指导**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "acara-app/plate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    title "acara-app/plate 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 38, 39, 36, 39, 38, 41, 41]
 ```
 
-2026-10-18 36 → 2026-11-02 39（+3）
+2026-10-18 36 → 2026-11-17 41（+5）
 
 
 ---

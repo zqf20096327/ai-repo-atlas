@@ -1,6 +1,6 @@
 # aws-samples/sample-agentic-coding-harness-benchmarks
 
-⭐ 20 · Python · MIT-0 · 推送 2026-10-30 · [GitHub](https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks) · 组织维护
+⭐ 22 · Python · MIT-0 · 推送 2026-11-16 · [GitHub](https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks) · [官网](https://aws.amazon.com/blogs/aws-cloud-financial-management/tokenomics-for-coding-agents-benchmark-cost-and-quality-on-your-own-code/) · 组织维护
 
 **编码 agent 跨模型基准工具与 swe-router 模型选型技能**
 
@@ -44,13 +44,13 @@ AWS samples 出品的样例仓库，包含两部分：基准测试 harness 驱�
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-agentic-coding-harness-benchmarks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 17, 18, 20, 20]
+    title "aws-samples/sample-agentic-coding-harness-benchmarks 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 23
+    line [15, 16, 17, 18, 20, 18, 21, 22, 22]
 ```
 
-2026-10-18 15 → 2026-11-02 20（+5）
+2026-10-18 15 → 2026-11-17 22（+7）
 
 
 ---

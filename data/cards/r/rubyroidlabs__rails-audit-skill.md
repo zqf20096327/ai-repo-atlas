@@ -1,6 +1,6 @@
 # rubyroidlabs/rails-audit-skill
 
-⭐ 16 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/rubyroidlabs/rails-audit-skill) · [官网](https://rubyroidlabs.com) · 组织维护
+⭐ 17 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/rubyroidlabs/rails-audit-skill) · [官网](https://rubyroidlabs.com) · 组织维护
 
 **面向 agent 的 Rails 应用审计技能：产出分级审计报告与评分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rubyroidlabs/rails-audit-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "rubyroidlabs/rails-audit-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

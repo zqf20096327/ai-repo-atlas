@@ -1,6 +1,6 @@
 # QIANLING-0831/dsh-memory-plus
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/QIANLING-0831/dsh-memory-plus) · [官网](https://github.com/QIANLING-0831/dsh-memory-plus) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness 社区记忆插件集：中文检索、跨会话记忆与技能管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "QIANLING-0831/dsh-memory-plus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 15, 14, 15, 15]
+    title "QIANLING-0831/dsh-memory-plus 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-13"]
+    y-axis "stars" 12 --> 20
+    line [13, 15, 14, 15, 18, 19, 19]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-13 19（+6）
 
 
 ---

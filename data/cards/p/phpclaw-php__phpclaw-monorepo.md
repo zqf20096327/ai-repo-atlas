@@ -1,6 +1,6 @@
 # phpclaw-php/phpclaw-monorepo
 
-⭐ 29 · PHP · MIT · 推送 2026-10-16 · [GitHub](https://github.com/phpclaw-php/phpclaw-monorepo) · [官网](https://phpclaw.ai/) · 组织维护
+⭐ 32 · PHP · MIT · 推送 2026-10-16 · [GitHub](https://github.com/phpclaw-php/phpclaw-monorepo) · [官网](https://phpclaw.ai) · 组织维护
 
 **PHP 通用 AI agent 引擎：内置工具/记忆/安全防护与 ReAct 循环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "phpclaw-php/phpclaw-monorepo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 30
-    line [13, 19, 25, 28, 29]
+    title "phpclaw-php/phpclaw-monorepo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 33
+    line [13, 19, 25, 28, 29, 13, 32, 32]
 ```
 
-2026-10-18 13 → 2026-11-02 29（+16）
+2026-10-18 13 → 2026-11-17 32（+19）
 
 
 ---

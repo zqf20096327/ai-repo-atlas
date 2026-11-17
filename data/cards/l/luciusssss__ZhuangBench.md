@@ -1,6 +1,6 @@
 # luciusssss/ZhuangBench
 
-⭐ 30 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/luciusssss/ZhuangBench) · 组织维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-01-06 · [GitHub](https://github.com/luciusssss/ZhuangBench) · 组织维护 · 中文 README
 
 **壮语低资源 NLP 数据集及 DiPMT++ 复现代码**
 
@@ -45,13 +45,13 @@ ACL'24 Findings 论文 Teaching Large Language Models an Unseen Language on the 
 
 ```mermaid
 xychart-beta
-    title "luciusssss/ZhuangBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "luciusssss/ZhuangBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

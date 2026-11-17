@@ -1,6 +1,6 @@
 # anandb/nb-complete
 
-⭐ 26 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/anandb/nb-complete) · 个人维护
+⭐ 27 · Java · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/anandb/nb-complete) · 个人维护
 
 **NetBeans IDE 的 AI 结对话编程插件，经 ACP 接入多种编码代理**
 
@@ -44,13 +44,13 @@ BeanBot 是一个 NetBeans 插件，通过 Agent Client Protocol（JSON-RPC over
 
 ```mermaid
 xychart-beta
-    title "anandb/nb-complete 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "anandb/nb-complete 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

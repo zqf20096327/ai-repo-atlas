@@ -1,6 +1,6 @@
 # enowdev/antares
 
-⭐ 85 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/enowdev/antares) · [官网](https://antares.enowx.ai) · 组织维护
+⭐ 89 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/enowdev/antares) · [官网](https://antares.enowx.ai) · 组织维护
 
 **自托管单二进制 AI 渗透测试 agent 与助手**
 
@@ -45,13 +45,13 @@ Go 后端、React 面板与终端 UI 打包为单一二进制的自托管 AI age
 
 ```mermaid
 xychart-beta
-    title "enowdev/antares 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 85, 85]
+    title "enowdev/antares 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 82 --> 90
+    line [83, 84, 85, 87, 88, 87, 89, 89]
 ```
 
-2026-10-22 83 → 2026-11-02 85（+2）
+2026-10-22 83 → 2026-11-17 89（+6）
 
 
 ---

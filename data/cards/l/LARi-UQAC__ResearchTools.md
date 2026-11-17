@@ -1,6 +1,6 @@
 # LARi-UQAC/ResearchTools
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/LARi-UQAC/ResearchTools) · 组织维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LARi-UQAC/ResearchTools) · 组织维护
 
 **面向研究者的 AI 辅助工具箱：审计论文/论文/代码/PCB/CAD 设计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LARi-UQAC/ResearchTools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
     y-axis "stars" 10 --> 15
     line [11, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 14（+3）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

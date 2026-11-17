@@ -1,6 +1,6 @@
 # ekstasisSH/wenshu
 
-⭐ 20 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/ekstasisSH/wenshu) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/ekstasisSH/wenshu) · 个人维护 · 中文 README
 
 **面向人文社科研究的本地知识库/RAG/引文/理论谱系 AI 工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ekstasisSH/wenshu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "ekstasisSH/wenshu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 19, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

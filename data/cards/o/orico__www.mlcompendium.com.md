@@ -1,6 +1,6 @@
 # orico/www.mlcompendium.com
 
-⭐ 2,203 · 推送 2026-10-01 · [GitHub](https://github.com/orico/www.mlcompendium.com) · [官网](https://www.mlcompendium.com) · 个人维护
+⭐ 2,205 · 推送 2026-10-01 · [GitHub](https://github.com/orico/www.mlcompendium.com) · [官网](https://www.mlcompendium.com) · 个人维护
 
 **开源机器学习知识汇编书：502 个主题的学习资源导航**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "orico/www.mlcompendium.com 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2199 --> 2204
-    line [2200, 2202, 2203, 2203]
+    title "orico/www.mlcompendium.com 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 2199 --> 2206
+    line [2200, 2202, 2203, 2200, 2202, 2204, 2205, 2205]
 ```
 
-2026-10-18 2,200 → 2026-11-02 2,203（+3）
+2026-10-18 2,200 → 2026-11-17 2,205（+5）
 
 
 ---

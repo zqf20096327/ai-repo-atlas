@@ -1,6 +1,6 @@
 # LeoLee0812/sunyuchen-alan-interview
 
-⭐ 49 · 推送 2026-10-09 · [GitHub](https://github.com/LeoLee0812/sunyuchen-alan-interview) · 个人维护 · 中文 README
+⭐ 54 · 推送 2026-10-09 · [GitHub](https://github.com/LeoLee0812/sunyuchen-alan-interview) · 个人维护 · 中文 README
 
 **孙宇晨访谈 4 小时 22 分中文逐字稿，约 7.5 万字带时间戳**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoLee0812/sunyuchen-alan-interview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 39 --> 50
-    line [40, 44, 45, 48, 49, 49]
+    title "LeoLee0812/sunyuchen-alan-interview 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 39 --> 55
+    line [40, 44, 45, 48, 49, 48, 52, 53, 54, 54]
 ```
 
-2026-10-18 40 → 2026-11-02 49（+9）
+2026-10-18 40 → 2026-11-17 54（+14）
 
 
 ---

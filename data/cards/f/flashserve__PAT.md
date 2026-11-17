@@ -1,6 +1,6 @@
 # flashserve/PAT
 
-⭐ 48 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/flashserve/PAT) · [官网](https://dl.acm.org/doi/10.1145/3779212.3790200) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/flashserve/PAT) · [官网](https://dl.acm.org/doi/10.1145/3779212.3790200) · 组织维护
 
 **面向 vLLM 的前缀感知解码注意力内核插件，减少 KV cache 读取**
 
@@ -44,13 +44,13 @@ PAT 是基于 CUTLASS 的高性能注意力内核实现，用于优化 transform
 
 ```mermaid
 xychart-beta
-    title "flashserve/PAT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "flashserve/PAT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 51, 51]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 51（+3）
 
 
 ---

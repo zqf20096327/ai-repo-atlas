@@ -1,6 +1,6 @@
 # noahatfin/telos
 
-⭐ 32 · Rust · MIT · 推送 2026-03-02 · [GitHub](https://github.com/noahatfin/telos) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-03-02 · [GitHub](https://github.com/noahatfin/telos) · 个人维护
 
 **面向 AI 编码 agent 的意图与约束追踪层，构建于 Git 旁**
 
@@ -45,13 +45,13 @@ Rust 编写的命令行工具，在 Git 仓库旁建立 .telos/ 内容寻址存�
 
 ```mermaid
 xychart-beta
-    title "noahatfin/telos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "noahatfin/telos 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [32, 30, 31, 31]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 31（-1）
 
 
 ---

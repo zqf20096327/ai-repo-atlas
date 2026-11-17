@@ -1,6 +1,6 @@
 # bnomei/nereid
 
-⭐ 68 · Rust · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/bnomei/nereid) · [官网](https://crates.io/crates/nereid) · 个人维护
+⭐ 67 · Rust · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/bnomei/nereid) · [官网](https://crates.io/crates/nereid) · 个人维护
 
 **终端优先的 Mermaid 图工作区：TUI + MCP 服务器，人与 AI agent 共同编辑图表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bnomei/nereid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "bnomei/nereid 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    line [67, 68, 67, 67]
 ```
 
-2026-10-18 67 → 2026-11-02 68（+1）
+2026-10-18 67 → 2026-11-17 67（+0）
 
 
 ---

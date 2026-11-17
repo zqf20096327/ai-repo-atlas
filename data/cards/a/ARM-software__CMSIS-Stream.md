@@ -1,6 +1,6 @@
 # ARM-software/CMSIS-Stream
 
-⭐ 40 · C++ · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/ARM-software/CMSIS-Stream) · [官网](https://arm-software.github.io/CMSIS-Stream/main/) · 组织维护
+⭐ 41 · C++ · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/ARM-software/CMSIS-Stream) · [官网](https://arm-software.github.io/CMSIS-Stream/main/) · 组织维护
 
 **面向嵌入式与富 OS 的低开销 AI/多媒体数据流框架**
 
@@ -44,13 +44,13 @@ ARM 维护的 CMSIS-Stream 框架，将视频、音频、DSP 与 AI 组件统一
 
 ```mermaid
 xychart-beta
-    title "ARM-software/CMSIS-Stream 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    title "ARM-software/CMSIS-Stream 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 41, 41]
 ```
 
-2026-10-18 38 → 2026-11-02 40（+2）
+2026-10-18 38 → 2026-11-17 41（+3）
 
 
 ---

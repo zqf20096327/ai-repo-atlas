@@ -1,6 +1,6 @@
 # sparklyr/sparklyr
 
-⭐ 972 · R · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/sparklyr/sparklyr) · [官网](https://spark.posit.co/) · 组织维护
+⭐ 970 · R · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sparklyr/sparklyr) · [官网](https://spark.posit.co/) · 组织维护
 
 **R 语言接入 Apache Spark 的接口包，用于分布式数据处理与建模**
 
@@ -44,13 +44,13 @@ sparklyr 是 CRAN 上的 R 包，提供到 Apache Spark 的连接与操作接口
 
 ```mermaid
 xychart-beta
-    title "sparklyr/sparklyr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 971 --> 973
-    line [972, 972]
+    title "sparklyr/sparklyr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 969 --> 973
+    line [972, 971, 970, 970]
 ```
 
-2026-10-18 972 → 2026-11-02 972（+0）
+2026-10-18 972 → 2026-11-17 970（-2）
 
 
 ---

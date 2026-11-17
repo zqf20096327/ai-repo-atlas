@@ -1,6 +1,6 @@
 # tensorflow/transform
 
-⭐ 991 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/tensorflow/transform) · 组织维护
+⭐ 992 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/tensorflow/transform) · 组织维护
 
 **给机器学习开发者的 TensorFlow 数据预处理流水线库**
 
@@ -45,13 +45,13 @@ TensorFlow Transform（tf.Transform）是用于 TensorFlow 数据预处理的 Py
 
 ```mermaid
 xychart-beta
-    title "tensorflow/transform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 989 --> 992
-    line [990, 991, 991]
+    title "tensorflow/transform 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 989 --> 993
+    line [990, 991, 992, 992]
 ```
 
-2026-10-18 990 → 2026-11-02 991（+1）
+2026-10-18 990 → 2026-11-17 992（+2）
 
 
 ---

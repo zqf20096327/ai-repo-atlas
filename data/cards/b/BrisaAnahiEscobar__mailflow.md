@@ -1,6 +1,6 @@
 # BrisaAnahiEscobar/mailflow
 
-⭐ 30 · Dart · 推送 2026-09-28 · [GitHub](https://github.com/BrisaAnahiEscobar/mailflow) · 个人维护
+⭐ 31 · Dart · 推送 2026-11-02 · [GitHub](https://github.com/BrisaAnahiEscobar/mailflow) · 个人维护
 
 **网页版 Gmail 助手：把邮件转为语音播放，AI 摘要在开发中**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrisaAnahiEscobar/mailflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "BrisaAnahiEscobar/mailflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jama1017/MoVer
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jama1017/MoVer) · [官网](https://mover-dsl.github.io/) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jama1017/MoVer) · [官网](https://mover-dsl.github.io/) · 个人维护
 
 **面向动效动画的一阶逻辑验证 DSL 及 LLM 生成管线**
 
@@ -44,13 +44,13 @@ SIGGRAPH 2025 论文 MoVer 的官方实现：提供基于一阶逻辑的领域�
 
 ```mermaid
 xychart-beta
-    title "jama1017/MoVer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "jama1017/MoVer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

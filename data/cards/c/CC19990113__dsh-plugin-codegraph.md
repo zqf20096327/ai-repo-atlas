@@ -1,6 +1,6 @@
 # CC19990113/dsh-plugin-codegraph
 
-⭐ 13 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/CC19990113/dsh-plugin-codegraph) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/CC19990113/dsh-plugin-codegraph) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness agent 提供符号级代码结构查询工具的插件**
 
@@ -45,13 +45,13 @@ DeepSeek Harness (dsh) 的插件，向 agent 暴露 codegraph 与 codegraph_inde
 
 ```mermaid
 xychart-beta
-    title "CC19990113/dsh-plugin-codegraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "CC19990113/dsh-plugin-codegraph 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 18（+5）
 
 
 ---

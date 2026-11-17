@@ -1,6 +1,6 @@
 # generalbusiness-ai/keep
 
-⭐ 41 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/generalbusiness-ai/keep) · [官网](https://docs.keepnotes.ai/guides/quickstart/) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/generalbusiness-ai/keep) · [官网](https://docs.keepnotes.ai/guides/quickstart/) · 组织维护
 
 **给 AI agent 的反思式记忆系统：语义存储与检索基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "generalbusiness-ai/keep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

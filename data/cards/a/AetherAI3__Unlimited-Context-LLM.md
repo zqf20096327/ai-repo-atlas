@@ -1,6 +1,6 @@
 # AetherAI3/Unlimited-Context-LLM
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/AetherAI3/Unlimited-Context-LLM) · [官网](https://aetherai3.github.io/Unlimited-Context-LLM/) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/AetherAI3/Unlimited-Context-LLM) · [官网](https://aetherai3.github.io/Unlimited-Context-LLM/) · 组织维护
 
 **给本地 LLM 提供十亿级 token 磁盘记忆池的上下文引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AetherAI3/Unlimited-Context-LLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "AetherAI3/Unlimited-Context-LLM 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 46 --> 53
+    line [47, 48, 49, 48, 50, 51, 52, 52]
 ```
 
-2026-10-18 47 → 2026-11-02 49（+2）
+2026-10-18 47 → 2026-11-17 52（+5）
 
 
 ---

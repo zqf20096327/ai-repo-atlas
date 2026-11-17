@@ -1,6 +1,6 @@
 # adeelahmad/MacPilot
 
-⭐ 98 · Python · 推送 2026-10-20 · [GitHub](https://github.com/adeelahmad/MacPilot) · 组织维护
+⭐ 97 · Python · 推送 2026-10-20 · [GitHub](https://github.com/adeelahmad/MacPilot) · 组织维护
 
 **用自然语言驱动 macOS UI 自动化的框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adeelahmad/MacPilot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "adeelahmad/MacPilot 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 96 --> 99
+    line [98, 97, 97]
 ```
 
-2026-10-24 98 → 2026-11-02 98（+0）
+2026-10-24 98 → 2026-11-17 97（-1）
 
 
 ---

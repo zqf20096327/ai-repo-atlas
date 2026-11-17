@@ -1,6 +1,6 @@
 # Ordinary0x/The-3rd-Eye
 
-⭐ 13 · Python · MIT · 推送 2025-12-17 · [GitHub](https://github.com/Ordinary0x/The-3rd-Eye) · 个人维护
+⭐ 14 · Python · MIT · 推送 2025-12-17 · [GitHub](https://github.com/Ordinary0x/The-3rd-Eye) · 个人维护
 
 **基于 Agent 图架构的 OSINT 框架：自动收集分析公开信息并生成情报报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ordinary0x/The-3rd-Eye 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Ordinary0x/The-3rd-Eye 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

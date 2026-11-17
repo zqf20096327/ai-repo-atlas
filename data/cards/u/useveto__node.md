@@ -1,6 +1,6 @@
 # useveto/node
 
-⭐ 24 · TypeScript · MIT · 推送 2026-04-04 · [GitHub](https://github.com/useveto/node) · [官网](https://veto.tools) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-04-04 · [GitHub](https://github.com/useveto/node) · [官网](https://veto.tools) · 组织维护
 
 **AI agent 运行时授权 SDK：拦截工具调用并按策略放行/拒绝**
 
@@ -44,13 +44,13 @@ Node.js/TypeScript SDK，为 AI agent 提供运行时授权层：拦截每一次
 
 ```mermaid
 xychart-beta
-    title "useveto/node 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [26, 24, 24]
+    title "useveto/node 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [26, 24, 23, 23]
 ```
 
-2026-10-18 26 → 2026-11-02 24（-2）
+2026-10-18 26 → 2026-11-17 23（-3）
 
 
 ---

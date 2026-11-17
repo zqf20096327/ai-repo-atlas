@@ -1,6 +1,6 @@
 # shutootaki/bookwith
 
-⭐ 309 · TypeScript · AGPL-3.0 · 推送 2026-05-10 · [GitHub](https://github.com/shutootaki/bookwith) · 个人维护 · 中文 README
+⭐ 312 · TypeScript · AGPL-3.0 · 推送 2026-05-10 · [GitHub](https://github.com/shutootaki/bookwith) · 个人维护 · 中文 README
 
 **面向读者的 AI 对话式电子书阅读平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shutootaki/bookwith 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 308 --> 310
-    line [309, 309]
+    title "shutootaki/bookwith 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 308 --> 314
+    line [309, 310, 313, 312, 312]
 ```
 
-2026-10-18 309 → 2026-11-02 309（+0）
+2026-10-18 309 → 2026-11-17 312（+3）
 
 
 ---

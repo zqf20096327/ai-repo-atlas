@@ -1,6 +1,6 @@
 # 1024XEngineer/XEngineer
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/1024XEngineer/XEngineer) · 组织维护 · 中文 README
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/1024XEngineer/XEngineer) · 组织维护 · 中文 README
 
 **七牛云发起的工程师实战培养计划（原1024实训营）**
 
@@ -44,13 +44,13 @@ XEngineer 新工科计划（原 1024 实训营）由七牛云发起，是以开�
 
 ```mermaid
 xychart-beta
-    title "1024XEngineer/XEngineer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "1024XEngineer/XEngineer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    line [35, 36, 35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 36（+1）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

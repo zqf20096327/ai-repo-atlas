@@ -1,6 +1,6 @@
 # shihabshahrier/freelm
 
-⭐ 16 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/shihabshahrier/freelm) · [官网](https://shahriarlabs.com/products/freelm/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/shihabshahrier/freelm) · [官网](https://shahriarlabs.com/products/freelm/) · 个人维护
 
 **聚合各厂商免费 LLM 额度的 OpenAI 兼容库与本地网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shihabshahrier/freelm 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 17
-    line [10, 11, 12, 13, 15, 16, 16]
+    title "shihabshahrier/freelm 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 23
+    line [10, 11, 12, 13, 15, 16, 10, 19, 20, 21, 22, 22]
 ```
 
-2026-10-25 10 → 2026-11-02 16（+6）
+2026-10-25 10 → 2026-11-17 22（+12）
 
 
 ---

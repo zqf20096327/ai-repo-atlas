@@ -1,6 +1,6 @@
 # kabartay/openunivcourses
 
-⭐ 254 · Astro · MIT · 推送 2026-10-18 · [GitHub](https://github.com/kabartay/openunivcourses) · [官网](https://kabartay.github.io/openunivcourses/) · 个人维护
+⭐ 255 · Astro · MIT · 推送 2026-10-18 · [GitHub](https://github.com/kabartay/openunivcourses) · [官网](https://kabartay.github.io/openunivcourses/) · 个人维护
 
 **免费大学机器学习课程聚合页：一页检索各年度课程链接**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kabartay/openunivcourses 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 252 --> 255
-    line [253, 254, 254]
+    title "kabartay/openunivcourses 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 252 --> 256
+    line [253, 254, 253, 254, 255, 255]
 ```
 
-2026-10-19 253 → 2026-11-02 254（+1）
+2026-10-19 253 → 2026-11-17 255（+2）
 
 
 ---

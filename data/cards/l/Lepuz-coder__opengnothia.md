@@ -1,6 +1,6 @@
 # Lepuz-coder/opengnothia
 
-⭐ 32 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Lepuz-coder/opengnothia) · [官网](https://opengnothia.com/) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Lepuz-coder/opengnothia) · [官网](https://opengnothia.com/) · 个人维护
 
 **本地优先的 AI 自助心理疗愈桌面应用：对话、日记与梦境分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lepuz-coder/opengnothia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "Lepuz-coder/opengnothia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

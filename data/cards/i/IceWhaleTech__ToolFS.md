@@ -1,6 +1,6 @@
 # IceWhaleTech/ToolFS
 
-⭐ 32 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/IceWhaleTech/ToolFS) · 组织维护 · 中文 README
+⭐ 33 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/IceWhaleTech/ToolFS) · 组织维护 · 中文 README
 
 **面向 LLM Agent 的 FUSE 虚拟文件系统框架，统一文件/记忆/RAG/技能接口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IceWhaleTech/ToolFS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 31, 32, 32]
+    title "IceWhaleTech/ToolFS 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 31, 32, 29, 33, 33]
 ```
 
-2026-10-18 29 → 2026-11-02 32（+3）
+2026-10-18 29 → 2026-11-17 33（+4）
 
 
 ---

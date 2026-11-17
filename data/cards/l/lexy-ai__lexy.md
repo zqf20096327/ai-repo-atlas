@@ -1,6 +1,6 @@
 # lexy-ai/lexy
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/lexy-ai/lexy) · [官网](https://getlexy.com) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/lexy-ai/lexy) · [官网](https://getlexy.com) · 组织维护
 
 **为 AI 应用提供数据管道与存储的平台（RAG/记忆/结构化提取）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lexy-ai/lexy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

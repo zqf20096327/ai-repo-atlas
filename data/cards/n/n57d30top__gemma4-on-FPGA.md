@@ -1,6 +1,6 @@
 # n57d30top/gemma4-on-FPGA
 
-⭐ 51 · Verilog · NOASSERTION · 推送 2026-04-05 · [GitHub](https://github.com/n57d30top/gemma4-on-FPGA) · 个人维护
+⭐ 53 · Verilog · NOASSERTION · 推送 2026-04-05 · [GitHub](https://github.com/n57d30top/gemma4-on-FPGA) · 个人维护
 
 **在 Xilinx KV260 FPGA 上运行 Gemma 蒸馏模型推理的部署包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "n57d30top/gemma4-on-FPGA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "n57d30top/gemma4-on-FPGA 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 50, 52, 53, 53]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 53（+3）
 
 
 ---

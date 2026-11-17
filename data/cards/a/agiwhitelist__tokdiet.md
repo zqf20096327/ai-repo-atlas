@@ -1,6 +1,6 @@
 # agiwhitelist/tokdiet
 
-⭐ 33 · TypeScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/agiwhitelist/tokdiet) · [官网](https://agiwhitelist.github.io/tokdiet/) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/agiwhitelist/tokdiet) · [官网](https://agiwhitelist.github.io/tokdiet/) · 个人维护
 
 **本地反向代理：计量 AI 编程代理的 token 成本并压缩上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agiwhitelist/tokdiet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    title "agiwhitelist/tokdiet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [34, 33, 32, 32]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 32（-2）
 
 
 ---

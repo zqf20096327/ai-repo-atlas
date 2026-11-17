@@ -1,6 +1,6 @@
 # JarvisPei/SCOPE
 
-⭐ 85 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/JarvisPei/SCOPE) · 组织维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/JarvisPei/SCOPE) · 组织维护 · 中文 README
 
 **从执行轨迹自动优化 agent 提示词的自进化框架**
 
@@ -44,13 +44,13 @@ SCOPE 是一个自动提示词优化框架：从 agent 执行轨迹中检测错�
 
 ```mermaid
 xychart-beta
-    title "JarvisPei/SCOPE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "JarvisPei/SCOPE 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 82 --> 86
+    line [84, 85, 84, 83, 83]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-17 83（-1）
 
 
 ---

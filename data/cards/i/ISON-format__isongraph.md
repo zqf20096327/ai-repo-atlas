@@ -1,6 +1,6 @@
 # ISON-format/isongraph
 
-⭐ 19 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/ISON-format/isongraph) · [官网](https://graph.ison.dev) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ISON-format/isongraph) · [官网](https://graph.ison.dev) · 组织维护
 
 **面向 LLM 上下文的多语言属性图库：省 token 的图序列化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ISON-format/isongraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
+    title "ISON-format/isongraph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    line [17, 18, 19, 17, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

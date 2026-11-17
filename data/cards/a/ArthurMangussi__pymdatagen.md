@@ -1,6 +1,6 @@
 # ArthurMangussi/pymdatagen
 
-⭐ 15 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ArthurMangussi/pymdatagen) · [官网](https://arthurmangussi.github.io/pymdatagen/) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ArthurMangussi/pymdatagen) · [官网](https://arthurmangussi.github.io/pymdatagen/) · 组织维护
 
 **给机器学习研究者的缺失数据人工生成 Python 库**
 
@@ -44,13 +44,13 @@ mdatagen（missing-data-generator）是一个用于人工生成缺失数据的 P
 
 ```mermaid
 xychart-beta
-    title "ArthurMangussi/pymdatagen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ArthurMangussi/pymdatagen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

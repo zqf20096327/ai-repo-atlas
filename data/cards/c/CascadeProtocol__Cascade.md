@@ -1,6 +1,6 @@
 # CascadeProtocol/Cascade
 
-⭐ 25 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/CascadeProtocol/Cascade) · 组织维护
+⭐ 27 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/CascadeProtocol/Cascade) · 组织维护
 
 **Solana 跨 DEX 套利扫描器：Claude agent 评估并执行价差机会**
 
@@ -45,13 +45,13 @@ TypeScript/Bun 实现的自动化套利程序：每 3 秒并行拉取 Jupiter、
 
 ```mermaid
 xychart-beta
-    title "CascadeProtocol/Cascade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "CascadeProtocol/Cascade 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

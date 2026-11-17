@@ -1,6 +1,6 @@
 # santifer/watermark-remover
 
-⭐ 29 · Python · MIT · 推送 2026-01-29 · [GitHub](https://github.com/santifer/watermark-remover) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-01-29 · [GitHub](https://github.com/santifer/watermark-remover) · 个人维护
 
 **用 YOLO 检测+LaMa 修补去除图片水印的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "santifer/watermark-remover 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "santifer/watermark-remover 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

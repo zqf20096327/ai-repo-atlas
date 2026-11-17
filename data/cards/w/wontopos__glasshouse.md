@@ -1,6 +1,6 @@
 # wontopos/glasshouse
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/wontopos/glasshouse) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/wontopos/glasshouse) · 组织维护
 
 **公开可复核的 AI 记忆基准结果发布处（规则+逐题记录）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wontopos/glasshouse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "wontopos/glasshouse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

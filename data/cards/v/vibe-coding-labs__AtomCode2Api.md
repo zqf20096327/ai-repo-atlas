@@ -1,6 +1,6 @@
 # vibe-coding-labs/AtomCode2Api
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/vibe-coding-labs/AtomCode2Api) · [官网](https://github.com/vibe-coding-labs/AtomCodeProxy) · 组织维护 · 中文 README
+⭐ 17 · Go · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/vibe-coding-labs/AtomCode2Api) · [官网](https://github.com/vibe-coding-labs/AtomCodeProxy) · 组织维护 · 中文 README
 
 **把 AtomCode 免费额度转成 OpenAI/Anthropic 标准接口的代理**
 
@@ -45,13 +45,13 @@ Go 编写的反向代理服务：读取本地运行的 AtomCode（CodingPlan Lit
 
 ```mermaid
 xychart-beta
-    title "vibe-coding-labs/AtomCode2Api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "vibe-coding-labs/AtomCode2Api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

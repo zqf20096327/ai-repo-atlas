@@ -1,6 +1,6 @@
 # milanm/AutoGrad-Engine
 
-⭐ 402 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/milanm/AutoGrad-Engine) · 个人维护
+⭐ 404 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/milanm/AutoGrad-Engine) · 个人维护
 
 **约600行纯 C# 实现的 GPT 训练与生成教学项目**
 
@@ -44,13 +44,13 @@ Karpathy microgpt.py 的 C# 移植：零依赖实现标量自动微分引擎（V
 
 ```mermaid
 xychart-beta
-    title "milanm/AutoGrad-Engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 400 --> 403
-    line [401, 402, 402]
+    title "milanm/AutoGrad-Engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 400 --> 405
+    line [401, 402, 403, 404, 404]
 ```
 
-2026-10-18 401 → 2026-11-02 402（+1）
+2026-10-18 401 → 2026-11-17 404（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # epam/ai-dial-chat-themes
 
-⭐ 14 · Shell · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/epam/ai-dial-chat-themes) · [官网](https://dialx.ai) · 组织维护
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/epam/ai-dial-chat-themes) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL Chat 的静态主题资源托管服务：外置图片/字体/配色**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "epam/ai-dial-chat-themes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

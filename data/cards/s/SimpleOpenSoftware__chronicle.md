@@ -1,6 +1,6 @@
 # SimpleOpenSoftware/chronicle
 
-⭐ 76 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/SimpleOpenSoftware/chronicle) · 组织维护
+⭐ 78 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SimpleOpenSoftware/chronicle) · 组织维护
 
 **自托管的个人 AI 记忆系统：从可穿戴设备音频生成记忆与待办**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SimpleOpenSoftware/chronicle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    title "SimpleOpenSoftware/chronicle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 74 --> 79
+    line [75, 76, 77, 78, 78]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 78（+3）
 
 
 ---

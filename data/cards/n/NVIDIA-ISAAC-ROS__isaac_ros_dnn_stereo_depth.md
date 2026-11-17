@@ -1,6 +1,6 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth
 
-⭐ 159 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
+⭐ 160 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
 **NVIDIA 加速的深度学习双目视差估计 ROS 2 包**
 
@@ -45,13 +45,13 @@ Isaac ROS 系列中的 DNN 双目深度估计包，通过 ESS 与 FoundationSter
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 158 --> 161
+    line [159, 160, 160]
 ```
 
-2026-10-18 159 → 2026-11-02 159（+0）
+2026-10-18 159 → 2026-11-17 160（+1）
 
 
 ---

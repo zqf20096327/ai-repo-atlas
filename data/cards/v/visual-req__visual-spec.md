@@ -1,6 +1,6 @@
 # visual-req/visual-spec
 
-⭐ 51 · HTML · MIT · 推送 2026-10-05 · [GitHub](https://github.com/visual-req/visual-spec) · 组织维护 · 中文 README
+⭐ 52 · HTML · MIT · 推送 2026-10-05 · [GitHub](https://github.com/visual-req/visual-spec) · 组织维护 · 中文 README
 
 **把一句话需求转成可运行原型与可追溯规格的 AI 编辑器技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "visual-req/visual-spec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "visual-req/visual-spec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

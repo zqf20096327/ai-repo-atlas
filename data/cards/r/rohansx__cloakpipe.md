@@ -1,6 +1,6 @@
 # rohansx/cloakpipe
 
-⭐ 49 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rohansx/cloakpipe) · [官网](https://cloakpipe.co) · 个人维护
+⭐ 50 · Rust · MIT · 推送 2026-11-07 · [GitHub](https://github.com/rohansx/cloakpipe) · [官网](https://cloakpipe.co) · 个人维护
 
 **面向生产 AI agent 的可验证控制平面：评测、认证、执行与取证**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohansx/cloakpipe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "rohansx/cloakpipe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 49, 50, 50]
 ```
 
-2026-10-18 47 → 2026-11-02 49（+2）
+2026-10-18 47 → 2026-11-17 50（+3）
 
 
 ---

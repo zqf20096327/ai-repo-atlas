@@ -1,6 +1,6 @@
 # hby7921/BannerlordSage
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/hby7921/BannerlordSage) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/hby7921/BannerlordSage) · 个人维护 · 中文 README
 
 **为《骑马与砍杀2》Mod 开发者提供 MCP 服务器：源码/XML 检索与补丁生成**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hby7921/BannerlordSage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "hby7921/BannerlordSage 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 23, 24, 25, 25]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 25（+4）
 
 
 ---

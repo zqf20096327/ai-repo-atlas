@@ -1,6 +1,6 @@
 # le0pard/json_mend
 
-⭐ 22 · Ruby · MIT · 推送 2026-09-22 · [GitHub](https://github.com/le0pard/json_mend) · [官网](https://rubygems.org/gems/json_mend) · 个人维护
+⭐ 22 · Ruby · MIT · 推送 2026-11-02 · [GitHub](https://github.com/le0pard/json_mend) · [官网](https://rubygems.org/gems/json_mend) · 个人维护
 
 **修复 LLM 输出的破损 JSON 的 Ruby gem**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "le0pard/json_mend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

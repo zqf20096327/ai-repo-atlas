@@ -1,6 +1,6 @@
 # bobmatnyc/claude-mpm
 
-⭐ 158 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/bobmatnyc/claude-mpm) · 个人维护
+⭐ 159 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/bobmatnyc/claude-mpm) · 个人维护
 
 **Claude Code 的多智能体项目管理工作流框架**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "bobmatnyc/claude-mpm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 156 --> 159
-    line [157, 158, 158]
+    title "bobmatnyc/claude-mpm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 156 --> 160
+    line [157, 158, 157, 158, 159, 159]
 ```
 
-2026-10-18 157 → 2026-11-02 158（+1）
+2026-10-18 157 → 2026-11-17 159（+2）
 
 
 ---

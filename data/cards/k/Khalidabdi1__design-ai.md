@@ -1,6 +1,6 @@
 # Khalidabdi1/design-ai
 
-⭐ 249 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Khalidabdi1/design-ai) · 个人维护
+⭐ 253 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Khalidabdi1/design-ai) · 个人维护
 
 **面向 AI 编码代理的 DESIGN.md 设计系统文件库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Khalidabdi1/design-ai 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 245 --> 250
-    line [246, 247, 248, 249, 249]
+    title "Khalidabdi1/design-ai 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 245 --> 254
+    line [246, 247, 248, 249, 252, 253, 253]
 ```
 
-2026-10-26 246 → 2026-11-02 249（+3）
+2026-10-26 246 → 2026-11-17 253（+7）
 
 
 ---

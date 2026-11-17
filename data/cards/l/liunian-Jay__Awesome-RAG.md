@@ -1,6 +1,6 @@
 # liunian-Jay/Awesome-RAG
 
-⭐ 522 · 推送 2026-10-25 · [GitHub](https://github.com/liunian-Jay/Awesome-RAG) · 组织维护
+⭐ 521 · 推送 2026-11-07 · [GitHub](https://github.com/liunian-Jay/Awesome-RAG) · 组织维护
 
 **RAG 领域论文与资源追踪清单（面向研究者）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "liunian-Jay/Awesome-RAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "liunian-Jay/Awesome-RAG 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 518 --> 523
-    line [519, 520, 521, 522]
+    line [519, 520, 521, 522, 520, 521, 521]
 ```
 
-2026-10-18 519 → 2026-11-02 522（+3）
+2026-10-18 519 → 2026-11-17 521（+2）
 
 
 ---

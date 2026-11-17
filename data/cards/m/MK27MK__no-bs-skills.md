@@ -1,6 +1,6 @@
 # MK27MK/no-bs-skills
 
-⭐ 15 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/MK27MK/no-bs-skills) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/MK27MK/no-bs-skills) · 个人维护
 
 **面向实用主义程序员的 agent 技能集（7 个 Claude Code 技能）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MK27MK/no-bs-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "MK27MK/no-bs-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

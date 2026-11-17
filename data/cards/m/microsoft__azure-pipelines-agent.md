@@ -1,6 +1,6 @@
 # microsoft/azure-pipelines-agent
 
-⭐ 1,925 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/azure-pipelines-agent) · 组织维护
+⭐ 1,932 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/azure-pipelines-agent) · 组织维护
 
 **微软出品的 Azure Pipelines 跨平台 CI/CD 构建代理**
 
@@ -43,13 +43,13 @@ Azure Pipelines 与 Team Foundation Server/Azure DevOps Server 使用的跨平�
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-pipelines-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1918 --> 1926
-    line [1919, 1921, 1923, 1924, 1925, 1925]
+    title "microsoft/azure-pipelines-agent 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1918 --> 1933
+    line [1919, 1921, 1923, 1924, 1925, 1924, 1928, 1929, 1930, 1932, 1932]
 ```
 
-2026-10-18 1,919 → 2026-11-02 1,925（+6）
+2026-10-18 1,919 → 2026-11-17 1,932（+13）
 
 
 ---

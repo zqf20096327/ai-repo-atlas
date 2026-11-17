@@ -1,6 +1,6 @@
 # VeryMath/VeryMath-textbook-copilot
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/VeryMath/VeryMath-textbook-copilot) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/VeryMath/VeryMath-textbook-copilot) · 个人维护 · 中文 README
 
 **个人自部署的课程学习工作台：读教材并与 AI 生成讲解、习题与课件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VeryMath/VeryMath-textbook-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "VeryMath/VeryMath-textbook-copilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

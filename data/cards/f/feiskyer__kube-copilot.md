@@ -1,6 +1,6 @@
 # feiskyer/kube-copilot
 
-⭐ 234 · Go · Apache-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/feiskyer/kube-copilot) · 个人维护
+⭐ 235 · Go · Apache-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/feiskyer/kube-copilot) · 个人维护
 
 **面向运维的 Kubernetes AI 助手 CLI：诊断、审计与生成清单**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "feiskyer/kube-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "feiskyer/kube-copilot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 233 --> 236
-    line [235, 234, 234]
+    line [235, 234, 235, 234, 235, 235]
 ```
 
-2026-10-18 235 → 2026-11-02 234（-1）
+2026-10-18 235 → 2026-11-17 235（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # softmaxdata/engram
 
-⭐ 45 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/softmaxdata/engram) · [官网](https://engram.so) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/softmaxdata/engram) · [官网](https://engram.so) · 组织维护
 
 **面向 AI agent 的可移植上下文数据库服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "softmaxdata/engram 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 39 --> 46
-    line [40, 41, 44, 45]
+    title "softmaxdata/engram 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 39 --> 50
+    line [40, 41, 44, 45, 41, 48, 49, 49]
 ```
 
-2026-10-18 40 → 2026-11-02 45（+5）
+2026-10-18 40 → 2026-11-17 49（+9）
 
 
 ---

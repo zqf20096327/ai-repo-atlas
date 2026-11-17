@@ -1,6 +1,6 @@
 # v-fidelusaleksander/prompt-action
 
-⭐ 12 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/v-fidelusaleksander/prompt-action) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/v-fidelusaleksander/prompt-action) · 个人维护
 
 **在 GitHub Actions 工作流中直接向 GitHub Models 发送提示词的 Action**
 
@@ -44,13 +44,13 @@ GitHub Action，供用户在 CI 工作流中向 GitHub Models 发送提示词并
 
 ```mermaid
 xychart-beta
-    title "v-fidelusaleksander/prompt-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "v-fidelusaleksander/prompt-action 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

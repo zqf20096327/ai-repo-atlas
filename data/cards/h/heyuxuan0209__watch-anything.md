@@ -1,6 +1,6 @@
 # heyuxuan0209/watch-anything
 
-⭐ 25 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/heyuxuan0209/watch-anything) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/heyuxuan0209/watch-anything) · 个人维护 · 中文 README
 
 **丢视频链接给 AI agent，产出中文卡片式视频解读与全文中译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "heyuxuan0209/watch-anything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "heyuxuan0209/watch-anything 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

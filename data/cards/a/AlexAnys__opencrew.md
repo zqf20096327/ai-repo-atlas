@@ -1,6 +1,6 @@
 # AlexAnys/opencrew
 
-⭐ 495 · Shell · MIT · 推送 2026-04-05 · [GitHub](https://github.com/AlexAnys/opencrew) · 个人维护 · 中文 README
+⭐ 499 · Shell · MIT · 推送 2026-04-05 · [GitHub](https://github.com/AlexAnys/opencrew) · 个人维护 · 中文 README
 
 **把 OpenClaw 组织成多 Agent 团队的配置与协作系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlexAnys/opencrew 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "AlexAnys/opencrew 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
     y-axis "stars" 494 --> 500
-    line [499, 497, 496, 495, 495]
+    line [499, 497, 496, 495, 496, 497, 498, 499, 499]
 ```
 
-2026-10-18 499 → 2026-11-02 495（-4）
+2026-10-18 499 → 2026-11-17 499（+0）
 
 
 ---

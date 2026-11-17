@@ -1,6 +1,6 @@
 # vnk8071/anomaly-detection-in-industry-manufacturing
 
-⭐ 111 · Python · 推送 2026-04-09 · [GitHub](https://github.com/vnk8071/anomaly-detection-in-industry-manufacturing) · 个人维护
+⭐ 112 · Python · 推送 2026-04-09 · [GitHub](https://github.com/vnk8071/anomaly-detection-in-industry-manufacturing) · 个人维护
 
 **基于 Anomalib 的工业异常检测训练与推理管线，含 UI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vnk8071/anomaly-detection-in-industry-manufacturing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    title "vnk8071/anomaly-detection-in-industry-manufacturing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 112, 112]
 ```
 
-2026-10-18 110 → 2026-11-02 111（+1）
+2026-10-18 110 → 2026-11-17 112（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # manuelfussTC/PulseFramework
 
-⭐ 28 · TypeScript · MIT · 推送 2026-01-15 · [GitHub](https://github.com/manuelfussTC/PulseFramework) · [官网](https://manuel-fuss.de/pulse) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/manuelfussTC/PulseFramework) · [官网](https://manuel-fuss.de/pulse) · 个人维护
 
 **面向 Cursor 的受控 AI 编程框架：CLI + MCP 服务器与安全护栏**
 
@@ -46,12 +46,12 @@ PULSE 是一套 AI 辅助开发的方法论与工具包，包含 pulse CLI（13 
 ```mermaid
 xychart-beta
     title "manuelfussTC/PulseFramework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

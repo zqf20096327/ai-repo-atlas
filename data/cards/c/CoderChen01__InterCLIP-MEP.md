@@ -1,6 +1,6 @@
 # CoderChen01/InterCLIP-MEP
 
-⭐ 16 · Python · MIT · 推送 2025-11-13 · [GitHub](https://github.com/CoderChen01/InterCLIP-MEP) · [官网](https://dl.acm.org/doi/10.1145/3776561) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多模态反讽检测论文官方实现：CLIP 交互编码+记忆增强预测**
 
@@ -11,7 +11,7 @@ ACM TOMM 论文 InterCLIP-MEP 的官方代码库：提出 Interactive CLIP 训�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ ACM TOMM 论文 InterCLIP-MEP 的官方代码库：提出 Interactive CLIP 训�
 ```mermaid
 xychart-beta
     title "CoderChen01/InterCLIP-MEP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-08 16（+0）
 
 
 ---

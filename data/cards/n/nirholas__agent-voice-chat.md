@@ -1,6 +1,6 @@
 # nirholas/agent-voice-chat
 
-⭐ 19 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/nirholas/agent-voice-chat) · [官网](https://github.com/nirholas/agent-voice-chat) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在网站中加入多 AI 语音对话的 TypeScript SDK 与服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/agent-voice-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-10 19（+1）
 
 
 ---

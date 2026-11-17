@@ -1,6 +1,6 @@
 # Noel-Research-Group/Robochem_Flex
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/Noel-Research-Group/Robochem_Flex) · [官网](https://chemrxiv.org/doi/10.26434/chemrxiv-2025-73xqf) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/Noel-Research-Group/Robochem_Flex) · [官网](https://chemrxiv.org/doi/10.26434/chemrxiv-2025-73xqf) · 组织维护
 
 **低成本模块化自驱动实验室平台：软件、硬件与示例数据集合**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Noel-Research-Group/Robochem_Flex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 48 --> 53
-    line [49, 50, 52, 52]
+    title "Noel-Research-Group/Robochem_Flex 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 48 --> 55
+    line [49, 50, 52, 50, 53, 54, 54]
 ```
 
-2026-10-18 49 → 2026-11-02 52（+3）
+2026-10-18 49 → 2026-11-17 54（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # bupt-ai-cz/BALNMP
 
-⭐ 69 · Python · 推送 2025-11-10 · [GitHub](https://github.com/bupt-ai-cz/BALNMP) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **深度学习预测早期乳腺癌腋窝淋巴结转移的论文官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bupt-ai-cz/BALNMP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-07 69（+0）
 
 
 ---

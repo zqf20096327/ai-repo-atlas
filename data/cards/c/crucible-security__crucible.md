@@ -1,6 +1,6 @@
 # crucible-security/crucible
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/crucible-security/crucible) · [官网](https://crucible-security.github.io/crucible-website/) · 组织维护
+⭐ 51 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/crucible-security/crucible) · [官网](https://crucible-security.github.io/crucible-website/) · 组织维护
 
 **面向 LLM 智能体的自动化红队与安全测试 CLI 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "crucible-security/crucible 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "crucible-security/crucible 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

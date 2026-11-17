@@ -1,6 +1,6 @@
 # langfuse/claude-observability-plugin
 
-⭐ 29 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langfuse/claude-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/claude-code) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langfuse/claude-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/claude-code) · 组织维护
 
 **将 Claude Code 会话遥测发送到 Langfuse 的追踪插件**
 
@@ -43,13 +43,13 @@ Langfuse 官方维护的 Claude Code 插件：通过 hook 把用户提示、agen
 
 ```mermaid
 xychart-beta
-    title "langfuse/claude-observability-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "langfuse/claude-observability-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

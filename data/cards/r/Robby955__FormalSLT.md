@@ -1,6 +1,6 @@
 # Robby955/FormalSLT
 
-⭐ 47 · Lean · MIT · 推送 2026-09-04 · [GitHub](https://github.com/Robby955/FormalSLT) · [官网](https://robby955.github.io/FormalSLT/) · 个人维护
+⭐ 35 · Lean · MIT · 推送 2026-09-04 · [GitHub](https://github.com/Robby955/FormalSLT) · [官网](https://robby955.github.io/FormalSLT/) · 个人维护
 
 **Lean 4 形式化统计学习理论库：机器可检验的泛化界与置信序列**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Robby955/FormalSLT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 46 --> 51
-    line [50, 47, 47]
+    title "Robby955/FormalSLT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 34 --> 51
+    line [50, 47, 38, 35, 35]
 ```
 
-2026-10-18 50 → 2026-11-02 47（-3）
+2026-10-18 50 → 2026-11-17 35（-15）
 
 
 ---

@@ -1,6 +1,6 @@
 # juanjo-barrientos/genaiguide
 
-⭐ 13 · CC0-1.0 · 推送 2026-10-02 · [GitHub](https://github.com/juanjo-barrientos/genaiguide) · 个人维护
+⭐ 14 · CC0-1.0 · 推送 2026-10-02 · [GitHub](https://github.com/juanjo-barrientos/genaiguide) · 个人维护
 
 **西班牙语生成式 AI 进阶免费学习指南（311 页 PDF）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "juanjo-barrientos/genaiguide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "juanjo-barrientos/genaiguide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

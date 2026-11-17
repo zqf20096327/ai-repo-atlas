@@ -1,6 +1,6 @@
 # Akas333/TYSA
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Akas333/TYSA) · [官网](https://akas333.github.io/TYSA/) · 个人维护
+⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/Akas333/TYSA) · [官网](https://akas333.github.io/TYSA/) · 个人维护
 
 **自适应学习桌面应用：测出你懂到哪，从那里开始教**
 
@@ -45,13 +45,13 @@ Electron 桌面应用，构建于 Meta 的 Muse 模型之上。教学流程分�
 
 ```mermaid
 xychart-beta
-    title "Akas333/TYSA 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 16]
+    title "Akas333/TYSA 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 22
+    line [12, 16, 21, 21]
 ```
 
-2026-11-01 12 → 2026-11-02 16（+4）
+2026-11-01 12 → 2026-11-17 21（+9）
 
 
 ---

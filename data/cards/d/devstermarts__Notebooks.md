@@ -1,6 +1,6 @@
 # devstermarts/Notebooks
 
-⭐ 40 · Jupyter Notebook · 推送 2026-09-27 · [GitHub](https://github.com/devstermarts/Notebooks) · 个人维护
+⭐ 40 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/devstermarts/Notebooks) · 个人维护
 
 **在 Kaggle 上训练神经音频与隐空间扩散模型的笔记本集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "devstermarts/Notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

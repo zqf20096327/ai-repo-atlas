@@ -1,6 +1,6 @@
 # jarmatys/DEV_ASSISTENTE
 
-⭐ 45 · C# · MIT · 推送 2025-11-19 · [GitHub](https://github.com/jarmatys/DEV_ASSISTENTE) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开发者个人知识库助手：存储笔记/代码片段并生成回答**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jarmatys/DEV_ASSISTENTE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-14 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # coleam00/dark-factory-experiment
 
-⭐ 173 · Python · 推送 2026-08-14 · [GitHub](https://github.com/coleam00/dark-factory-experiment) · [官网](https://chat.dynamous.ai) · 个人维护
+⭐ 175 · Python · 推送 2026-08-14 · [GitHub](https://github.com/coleam00/dark-factory-experiment) · [官网](https://chat.dynamous.ai) · 个人维护
 
 **AI 自主开发维护的 YouTube RAG 聊天应用与自主工作流实验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coleam00/dark-factory-experiment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 170 --> 174
-    line [171, 172, 173]
+    title "coleam00/dark-factory-experiment 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 170 --> 177
+    line [171, 172, 173, 172, 175, 176, 175, 175]
 ```
 
-2026-10-18 171 → 2026-11-02 173（+2）
+2026-10-18 171 → 2026-11-17 175（+4）
 
 
 ---

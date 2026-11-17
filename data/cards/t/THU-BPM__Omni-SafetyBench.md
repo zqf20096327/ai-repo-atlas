@@ -1,6 +1,6 @@
 # THU-BPM/Omni-SafetyBench
 
-⭐ 116 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/THU-BPM/Omni-SafetyBench) · [官网](https://arxiv.org/abs/2508.07173) · 组织维护 · 中文 README
+⭐ 116 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/THU-BPM/Omni-SafetyBench) · [官网](https://dl.acm.org/doi/10.1145/3767308.3835347) · 组织维护 · 中文 README
 
 **全模态大模型安全评测基准：23,000+ 平行样本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "THU-BPM/Omni-SafetyBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-11-02 116（+0）
+2026-10-18 116 → 2026-11-17 116（+0）
 
 
 ---

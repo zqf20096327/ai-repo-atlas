@@ -1,6 +1,6 @@
 # qiqihezh/deepresearch-agent
 
-⭐ 173 · Python · 推送 2026-05-11 · [GitHub](https://github.com/qiqihezh/deepresearch-agent) · 个人维护 · 中文 README
+⭐ 181 · Python · 推送 2026-05-11 · [GitHub](https://github.com/qiqihezh/deepresearch-agent) · 个人维护 · 中文 README
 
 **面向复杂研究任务的深度研究 Agent 系统，自动产出带引用研究报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qiqihezh/deepresearch-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 165 --> 174
-    line [166, 167, 169, 171, 172, 173, 173]
+    title "qiqihezh/deepresearch-agent 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 165 --> 182
+    line [166, 167, 169, 171, 172, 173, 169, 178, 180, 181, 181]
 ```
 
-2026-10-18 166 → 2026-11-02 173（+7）
+2026-10-18 166 → 2026-11-17 181（+15）
 
 
 ---

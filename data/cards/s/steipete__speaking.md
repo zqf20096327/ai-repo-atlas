@@ -1,6 +1,6 @@
 # steipete/speaking
 
-⭐ 237 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/steipete/speaking) · [官网](https://steipete.me) · 个人维护
+⭐ 240 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/steipete/speaking) · [官网](https://steipete.me) · 个人维护
 
 **Peter Steinberger 的演讲日程与个人资料页（会议清单+Bio）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "steipete/speaking 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 236 --> 239
-    line [238, 237, 237]
+    title "steipete/speaking 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 236 --> 241
+    line [238, 237, 239, 240, 240]
 ```
 
-2026-10-18 238 → 2026-11-02 237（-1）
+2026-10-18 238 → 2026-11-17 240（+2）
 
 
 ---

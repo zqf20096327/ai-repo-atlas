@@ -1,6 +1,6 @@
 # openai/openai-security-bots
 
-⭐ 402 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-security-bots) · 组织维护
+⭐ 404 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-security-bots) · 组织维护
 
 **OpenAI 官方的 Slack 安全团队机器人集合**
 
@@ -42,13 +42,13 @@ OpenAI 维护的开源仓库，提供一组接入 OpenAI API 的 Slack 机器人
 
 ```mermaid
 xychart-beta
-    title "openai/openai-security-bots 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 399 --> 403
-    line [400, 401, 402, 402]
+    title "openai/openai-security-bots 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 399 --> 405
+    line [400, 401, 402, 401, 403, 404, 404]
 ```
 
-2026-10-18 400 → 2026-11-02 402（+2）
+2026-10-18 400 → 2026-11-17 404（+4）
 
 
 ---

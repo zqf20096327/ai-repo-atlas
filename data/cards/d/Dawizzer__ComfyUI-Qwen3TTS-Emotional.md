@@ -1,6 +1,6 @@
 # Dawizzer/ComfyUI-Qwen3TTS-Emotional
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/Dawizzer/ComfyUI-Qwen3TTS-Emotional) · 个人维护
+⭐ 28 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/Dawizzer/ComfyUI-Qwen3TTS-Emotional) · 个人维护
 
 **给 ComfyUI 用户的 Qwen3-TTS 情感语音克隆节点**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点，基于 Qwen3-TTS 做声音克隆并叠加情绪控制�
 
 ```mermaid
 xychart-beta
-    title "Dawizzer/ComfyUI-Qwen3TTS-Emotional 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "Dawizzer/ComfyUI-Qwen3TTS-Emotional 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 24, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

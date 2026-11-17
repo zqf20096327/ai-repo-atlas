@@ -1,6 +1,6 @@
 # nirholas/extract-llms-docs
 
-⭐ 35 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/nirholas/extract-llms-docs) · [官网](https://llm.energy) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从网站提取 llms.txt/install.md 文档供 AI agent 使用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/extract-llms-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-10 35（+1）
 
 
 ---

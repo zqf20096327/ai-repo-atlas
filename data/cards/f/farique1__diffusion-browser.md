@@ -1,6 +1,6 @@
 # farique1/diffusion-browser
 
-⭐ 43 · Python · 推送 2025-11-18 · [GitHub](https://github.com/farique1/diffusion-browser) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **查看 AI 生成图像及嵌入元数据的桌面浏览器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "farique1/diffusion-browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-13 43（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # haoran-zha/Awesome-Spiking-Neural-Networks-Hub
 
-⭐ 120 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub) · 个人维护 · 中文 README
 
 **脉冲神经网络领域双语资源总目录：论文/模型/硬件/数据集/研究组**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haoran-zha/Awesome-Spiking-Neural-Networks-Hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "haoran-zha/Awesome-Spiking-Neural-Networks-Hub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 117 --> 121
-    line [118, 120, 120]
+    line [118, 120, 119, 119]
 ```
 
-2026-10-18 118 → 2026-11-02 120（+2）
+2026-10-18 118 → 2026-11-17 119（+1）
 
 
 ---

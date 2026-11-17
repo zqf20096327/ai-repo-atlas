@@ -1,6 +1,6 @@
 # IamLiuLv/compoder
 
-⭐ 288 · TypeScript · NOASSERTION · 推送 2025-11-09 · [GitHub](https://github.com/IamLiuLv/compoder) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向前端工程师的 AI 组件代码生成引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IamLiuLv/compoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 287 --> 289
     line [288, 288]
 ```
 
-2026-10-18 288 → 2026-11-02 288（+0）
+2026-10-18 288 → 2026-11-07 288（+0）
 
 
 ---

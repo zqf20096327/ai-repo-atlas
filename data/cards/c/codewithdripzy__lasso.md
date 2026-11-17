@@ -1,6 +1,6 @@
 # codewithdripzy/lasso
 
-⭐ 14 · TypeScript · ISC · 推送 2026-10-29 · [GitHub](https://github.com/codewithdripzy/lasso) · [官网](https://lasso.byorello.space) · 个人维护
+⭐ 15 · TypeScript · ISC · 推送 2026-11-10 · [GitHub](https://github.com/codewithdripzy/lasso) · [官网](https://lasso.byorello.space) · 个人维护
 
 **面向前端开发者的可视化 AI 编码工具：选中页面元素，让 agent 改真实源码**
 
@@ -45,13 +45,13 @@ Lasso 是一个 Node.js CLI 工具：在运行中的 Web 应用上选中某个�
 
 ```mermaid
 xychart-beta
-    title "codewithdripzy/lasso 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 5 --> 15
-    line [6, 7, 8, 10, 12, 14, 14]
+    title "codewithdripzy/lasso 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 5 --> 16
+    line [6, 7, 8, 10, 12, 14, 7, 15, 15]
 ```
 
-2026-10-18 6 → 2026-11-02 14（+8）
+2026-10-18 6 → 2026-11-17 15（+9）
 
 
 ---

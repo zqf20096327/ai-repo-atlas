@@ -1,6 +1,6 @@
 # langchain-ai/langchain-ai21
 
-⭐ 12 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-ai21) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/langchain-ai/langchain-ai21) · 组织维护
 
 **LangChain 官方的 AI21 模型接入集成包**
 
@@ -41,12 +41,12 @@ langchain-ai 机构维护的仓库，包含一个 Python 包 langchain-ai21，�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-ai21 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

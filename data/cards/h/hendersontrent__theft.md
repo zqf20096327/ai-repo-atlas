@@ -1,6 +1,6 @@
 # hendersontrent/theft
 
-⭐ 44 · R · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/hendersontrent/theft) · [官网](https://hendersontrent.github.io/theft/) · 个人维护
+⭐ 45 · R · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/hendersontrent/theft) · [官网](https://hendersontrent.github.io/theft/) · 个人维护
 
 **R 包：统一接口从时序数据提取约 6000 个特征**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hendersontrent/theft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "hendersontrent/theft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

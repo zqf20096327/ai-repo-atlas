@@ -1,6 +1,6 @@
 # extrasmall0/dear-hiring-manager
 
-⭐ 112 · MIT · 推送 2026-07-15 · [GitHub](https://github.com/extrasmall0/dear-hiring-manager) · 个人维护
+⭐ 113 · MIT · 推送 2026-07-15 · [GitHub](https://github.com/extrasmall0/dear-hiring-manager) · 个人维护
 
 **本地运行的任务申请自动填写插件：按简历填表并起草求职信**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "extrasmall0/dear-hiring-manager 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 111, 112, 112]
+    title "extrasmall0/dear-hiring-manager 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 111, 112, 111, 113, 113]
 ```
 
-2026-10-18 111 → 2026-11-02 112（+1）
+2026-10-18 111 → 2026-11-17 113（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sfu-mial/QG-SSL
 
-⭐ 14 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/sfu-mial/QG-SSL) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/sfu-mial/QG-SSL) · 组织维护
 
 **质量引导的医学图像半监督分割训练方法（MICCAI 2026）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sfu-mial/QG-SSL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "sfu-mial/QG-SSL 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

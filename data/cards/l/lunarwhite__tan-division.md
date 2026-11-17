@@ -1,6 +1,6 @@
 # lunarwhite/tan-division
 
-⭐ 64 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lunarwhite/tan-division) · 个人维护 · 中文 README
+⭐ 64 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lunarwhite/tan-division) · 个人维护 · 中文 README
 
 **基于谭松波酒店评论数据集的中文情感分析训练项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lunarwhite/tan-division 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 62 --> 65
     line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-11-02 64（+1）
+2026-10-18 63 → 2026-11-17 64（+1）
 
 
 ---

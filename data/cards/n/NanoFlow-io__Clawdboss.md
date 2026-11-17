@@ -1,6 +1,6 @@
 # NanoFlow-io/Clawdboss
 
-⭐ 115 · Shell · NOASSERTION · 推送 2026-03-21 · [GitHub](https://github.com/NanoFlow-io/Clawdboss) · 组织维护
+⭐ 114 · Shell · NOASSERTION · 推送 2026-03-21 · [GitHub](https://github.com/NanoFlow-io/Clawdboss) · 组织维护
 
 **一键脚本部署预加固的 OpenClaw 多 Agent AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NanoFlow-io/Clawdboss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    title "NanoFlow-io/Clawdboss 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 113 --> 116
+    line [115, 114, 114]
 ```
 
-2026-10-18 115 → 2026-11-02 115（+0）
+2026-10-18 115 → 2026-11-17 114（-1）
 
 
 ---

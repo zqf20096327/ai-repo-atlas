@@ -1,6 +1,6 @@
 # Devinterview-io/deep-learning-interview-questions
 
-⭐ 82 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/deep-learning-interview-questions) · 组织维护
+⭐ 83 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/deep-learning-interview-questions) · 组织维护
 
 **面向求职者的深度学习面试题与答案合集（80 题）**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的深度学习面试准备资料仓库，收录 80 道面
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/deep-learning-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    title "Devinterview-io/deep-learning-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 81 --> 84
+    line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-17 83（+1）
 
 
 ---

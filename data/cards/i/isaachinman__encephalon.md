@@ -1,6 +1,6 @@
 # isaachinman/encephalon
 
-⭐ 129 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/isaachinman/encephalon) · [官网](https://github.com/isaachinman/encephalon) · 个人维护
+⭐ 101 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/isaachinman/encephalon) · [官网](https://github.com/isaachinman/encephalon) · 个人维护
 
 **给编码 agent 的仓库本地持久记忆：Git 可合并的 JSON 记录+SQLite 索引**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "isaachinman/encephalon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 127 --> 138
-    line [137, 128, 129]
+    title "isaachinman/encephalon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 98 --> 140
+    line [137, 128, 129, 128, 105, 101, 101]
 ```
 
-2026-10-18 137 → 2026-11-02 129（-8）
+2026-10-18 137 → 2026-11-17 101（-36）
 
 
 ---

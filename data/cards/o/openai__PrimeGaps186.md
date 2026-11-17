@@ -1,6 +1,6 @@
 # openai/PrimeGaps186
 
-⭐ 169 · Lean · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/openai/PrimeGaps186) · 组织维护
+⭐ 170 · Lean · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/openai/PrimeGaps186) · 组织维护
 
 **Lean 4 形式化素数间隙 ≤186 的条件性证明及数值证书**
 
@@ -45,13 +45,13 @@ OpenAI 名下仓库，包含素数间隙上界 liminf(p_{n+1}-p_n)≤186 的 Lea
 
 ```mermaid
 xychart-beta
-    title "openai/PrimeGaps186 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 166 --> 170
-    line [167, 168, 169, 169]
+    title "openai/PrimeGaps186 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 166 --> 171
+    line [167, 168, 169, 170, 170]
 ```
 
-2026-10-18 167 → 2026-11-02 169（+2）
+2026-10-18 167 → 2026-11-17 170（+3）
 
 
 ---

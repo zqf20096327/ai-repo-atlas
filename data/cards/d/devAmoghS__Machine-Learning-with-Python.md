@@ -1,6 +1,6 @@
 # devAmoghS/Machine-Learning-with-Python
 
-⭐ 1,332 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/devAmoghS/Machine-Learning-with-Python) · 个人维护
+⭐ 1,333 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/devAmoghS/Machine-Learning-with-Python) · 个人维护
 
 **Python 机器学习小型练习项目集合，供学习者理解核心概念**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "devAmoghS/Machine-Learning-with-Python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "devAmoghS/Machine-Learning-with-Python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 1331 --> 1334
-    line [1333, 1332, 1332]
+    line [1333, 1332, 1333, 1333]
 ```
 
-2026-10-18 1,333 → 2026-11-02 1,332（-1）
+2026-10-18 1,333 → 2026-11-17 1,333（+0）
 
 
 ---

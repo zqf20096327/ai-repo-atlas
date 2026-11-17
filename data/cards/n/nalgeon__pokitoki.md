@@ -1,6 +1,6 @@
 # nalgeon/pokitoki
 
-⭐ 341 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nalgeon/pokitoki) · 个人维护
+⭐ 342 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nalgeon/pokitoki) · 个人维护
 
 **接入 OpenAI 兼容 API 的 Telegram 聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nalgeon/pokitoki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 340 --> 343
-    line [342, 341, 341]
+    title "nalgeon/pokitoki 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 339 --> 343
+    line [342, 341, 340, 341, 342, 342]
 ```
 
-2026-10-18 342 → 2026-11-02 341（-1）
+2026-10-18 342 → 2026-11-17 342（+0）
 
 
 ---

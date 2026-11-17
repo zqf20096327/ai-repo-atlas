@@ -1,6 +1,6 @@
 # QuecPython/AIChatBot-Volcengine-webRTC
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-05-06 · [GitHub](https://github.com/QuecPython/AIChatBot-Volcengine-webRTC) · 组织维护 · 中文 README
+⭐ 38 · Python · NOASSERTION · 推送 2026-05-06 · [GitHub](https://github.com/QuecPython/AIChatBot-Volcengine-webRTC) · 组织维护 · 中文 README
 
 **基于豆包 webRTC 的 QuecPython 嵌入式 AI 语音聊天机器人方案**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuecPython/AIChatBot-Volcengine-webRTC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "QuecPython/AIChatBot-Volcengine-webRTC 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

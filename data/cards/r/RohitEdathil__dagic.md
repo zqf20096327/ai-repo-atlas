@@ -1,6 +1,6 @@
 # RohitEdathil/dagic
 
-⭐ 13 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/RohitEdathil/dagic) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/RohitEdathil/dagic) · 个人维护
 
 **让 LLM 用微型 DSL 组合工具为类型化 DAG 并发执行的引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RohitEdathil/dagic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "RohitEdathil/dagic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

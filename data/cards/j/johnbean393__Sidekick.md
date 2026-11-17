@@ -1,6 +1,6 @@
 # johnbean393/Sidekick
 
-⭐ 3,321 · Swift · MIT · 推送 2026-09-30 · [GitHub](https://github.com/johnbean393/Sidekick) · [官网](https://johnbean393.github.io/Sidekick/) · 个人维护
+⭐ 3,325 · Swift · MIT · 推送 2026-09-30 · [GitHub](https://github.com/johnbean393/Sidekick) · [官网](https://johnbean393.github.io/Sidekick/) · 个人维护
 
 **macOS 本地 LLM 聊天应用：离线对话并引用本机文件与网页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnbean393/Sidekick 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 3318 --> 3322
-    line [3320, 3319, 3320, 3321, 3321]
+    title "johnbean393/Sidekick 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 3318 --> 3326
+    line [3320, 3319, 3320, 3321, 3319, 3324, 3325, 3325]
 ```
 
-2026-10-18 3,320 → 2026-11-02 3,321（+1）
+2026-10-18 3,320 → 2026-11-17 3,325（+5）
 
 
 ---

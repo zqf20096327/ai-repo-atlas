@@ -1,6 +1,6 @@
 # weslleycapelari/adapter-antigravity-local
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/weslleycapelari/adapter-antigravity-local) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/weslleycapelari/adapter-antigravity-local) · 个人维护
 
 **让 Paperclip AI 调用本地 Google Antigravity (agy) CLI 的适配器**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 Paperclip AI 适配器，用于接入本地运行的 Google
 
 ```mermaid
 xychart-beta
-    title "weslleycapelari/adapter-antigravity-local 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "weslleycapelari/adapter-antigravity-local 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 20, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

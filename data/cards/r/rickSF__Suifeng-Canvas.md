@@ -1,6 +1,6 @@
 # rickSF/Suifeng-Canvas
 
-⭐ 13 · TypeScript · 推送 2026-05-31 · [GitHub](https://github.com/rickSF/Suifeng-Canvas) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · 推送 2026-05-31 · [GitHub](https://github.com/rickSF/Suifeng-Canvas) · 个人维护 · 中文 README
 
 **节点画布式 AI 分镜工作台：文生图、图生图与分镜生成一站式桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rickSF/Suifeng-Canvas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "rickSF/Suifeng-Canvas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

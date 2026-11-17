@@ -1,6 +1,6 @@
 # miroslav-reiter/notebook-lab
 
-⭐ 12 · 推送 2026-10-13 · [GitHub](https://github.com/miroslav-reiter/notebook-lab) · [官网](https://www.vita.sk/) · 个人维护
+⭐ 15 · 推送 2026-10-13 · [GitHub](https://github.com/miroslav-reiter/notebook-lab) · [官网](https://www.vita.sk/) · 个人维护
 
 **Google NotebookLM 中级实操课程仓库（4 个实验室）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "miroslav-reiter/notebook-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "miroslav-reiter/notebook-lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

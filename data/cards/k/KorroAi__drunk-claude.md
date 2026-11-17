@@ -1,6 +1,6 @@
 # KorroAi/drunk-claude
 
-⭐ 207 · TeX · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/drunk-claude) · [官网](https://korrocorp.com) · 组织维护
+⭐ 210 · TeX · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/drunk-claude) · [官网](https://korrocorp.com) · 组织维护
 
 **Claude Code 头脑风暴技能：以"微醺"人设注入大胆创意**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KorroAi/drunk-claude 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 201 --> 208
-    line [202, 204, 205, 206, 207, 207]
+    title "KorroAi/drunk-claude 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 201 --> 211
+    line [202, 204, 205, 206, 207, 205, 207, 209, 210, 210]
 ```
 
-2026-10-18 202 → 2026-11-02 207（+5）
+2026-10-18 202 → 2026-11-17 210（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # eeshsaxena/mamba-ssm-implementation
 
-⭐ 16 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/eeshsaxena/mamba-ssm-implementation) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/eeshsaxena/mamba-ssm-implementation) · 个人维护
 
 **面向学习研究的 Mamba 选择性状态空间模型 PyTorch 实现**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "eeshsaxena/mamba-ssm-implementation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "eeshsaxena/mamba-ssm-implementation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

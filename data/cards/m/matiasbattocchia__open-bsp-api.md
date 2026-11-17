@@ -1,6 +1,6 @@
 # matiasbattocchia/open-bsp-api
 
-⭐ 629 · TypeScript · Unlicense · 推送 2026-10-31 · [GitHub](https://github.com/matiasbattocchia/open-bsp-api) · [官网](https://web.openbsp.dev) · 个人维护
+⭐ 652 · TypeScript · Unlicense · 推送 2026-11-03 · [GitHub](https://github.com/matiasbattocchia/open-bsp-api) · [官网](https://web.openbsp.dev) · 个人维护
 
 **可自托管的多租户 WhatsApp/Instagram 商业消息平台，支持 AI agent 接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "matiasbattocchia/open-bsp-api 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 607 --> 631
-    line [609, 610, 615, 616, 618, 620, 623, 625, 629]
+    title "matiasbattocchia/open-bsp-api 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 605 --> 656
+    line [609, 610, 615, 616, 618, 620, 623, 625, 629, 615, 641, 645, 647, 648, 650, 651, 652, 652]
 ```
 
-2026-10-18 609 → 2026-11-02 629（+20）
+2026-10-18 609 → 2026-11-17 652（+43）
 
 
 ---

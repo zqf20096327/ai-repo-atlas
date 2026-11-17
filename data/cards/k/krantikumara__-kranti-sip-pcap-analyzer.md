@@ -1,6 +1,6 @@
 # krantikumara/-kranti-sip-pcap-analyzer
 
-⭐ 132 · Python · 推送 2026-04-18 · [GitHub](https://github.com/krantikumara/-kranti-sip-pcap-analyzer) · 个人维护
+⭐ 133 · Python · 推送 2026-04-18 · [GitHub](https://github.com/krantikumara/-kranti-sip-pcap-analyzer) · 个人维护
 
 **面向 Wireshark 抓包的 SIP 协议分析器，带 GPT-4o 对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "krantikumara/-kranti-sip-pcap-analyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 130 --> 133
-    line [131, 132, 132]
+    title "krantikumara/-kranti-sip-pcap-analyzer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 130 --> 134
+    line [131, 132, 133, 133]
 ```
 
-2026-10-18 131 → 2026-11-02 132（+1）
+2026-10-18 131 → 2026-11-17 133（+2）
 
 
 ---

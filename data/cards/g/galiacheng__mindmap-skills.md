@@ -1,6 +1,6 @@
 # galiacheng/mindmap-skills
 
-⭐ 27 · Shell · MIT · 推送 2026-10-12 · [GitHub](https://github.com/galiacheng/mindmap-skills) · [官网](https://galiacheng.github.io/mindmap-skills/examples/) · 个人维护 · 中文 README
+⭐ 28 · Shell · MIT · 推送 2026-10-12 · [GitHub](https://github.com/galiacheng/mindmap-skills) · [官网](https://galiacheng.github.io/mindmap-skills/examples/) · 个人维护 · 中文 README
 
 **把文件/URL/文本/主题转为 Markmap 交互思维导图的 agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "galiacheng/mindmap-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 27, 27]
+    title "galiacheng/mindmap-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 27, 25, 27, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

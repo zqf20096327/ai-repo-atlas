@@ -1,6 +1,6 @@
 # allianceai/endgame
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/allianceai/endgame) · [官网](https://github.com/allianceai/endgame) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/allianceai/endgame) · [官网](https://github.com/allianceai/endgame) · 组织维护
 
 **面向生产部署的 sklearn 风格 ML 框架：校准、可解释、带 MCP**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "allianceai/endgame 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "allianceai/endgame 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

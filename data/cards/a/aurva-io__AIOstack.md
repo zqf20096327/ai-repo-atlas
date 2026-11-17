@@ -1,6 +1,6 @@
 # aurva-io/AIOstack
 
-⭐ 65 · Vue · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/aurva-io/AIOstack) · [官网](https://aurva.ai) · 组织维护
+⭐ 66 · Vue · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/aurva-io/AIOstack) · [官网](https://aurva.ai) · 组织维护
 
 **Kubernetes 上 AI 运行时可观测层：发现影子 AI 并追踪 LLM 调用**
 
@@ -44,13 +44,13 @@ Aurva 维护的社区版运行时可见性工具，面向安全与平台团队�
 
 ```mermaid
 xychart-beta
-    title "aurva-io/AIOstack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    title "aurva-io/AIOstack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 64 --> 67
+    line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 66（+1）
 
 
 ---

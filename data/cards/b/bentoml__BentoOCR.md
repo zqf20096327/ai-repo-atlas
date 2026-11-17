@@ -1,6 +1,6 @@
 # bentoml/BentoOCR
 
-⭐ 60 · Python · 推送 2026-10-22 · [GitHub](https://github.com/bentoml/BentoOCR) · [官网](https://bentoml.com) · 组织维护
+⭐ 60 · Python · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoOCR) · [官网](https://bentoml.com) · 组织维护
 
 **将 OCR 模型部署为在线推理 API 的 BentoML 示例工程**
 
@@ -44,12 +44,12 @@ BentoML 官方示例项目：以 EasyOCR 为例演示如何将 OCR 模型导入 
 ```mermaid
 xychart-beta
     title "bentoml/BentoOCR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 60（+0）
 
 
 ---

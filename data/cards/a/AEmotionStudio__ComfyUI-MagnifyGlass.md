@@ -1,6 +1,6 @@
 # AEmotionStudio/ComfyUI-MagnifyGlass
 
-⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-04-02 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-MagnifyGlass) · [官网](https://aemotionstudio.org/) · 组织维护
+⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-MagnifyGlass) · [官网](https://aemotionstudio.org/) · 组织维护
 
 **ComfyUI 画布放大镜扩展：缩放查看图像与节点细节**
 
@@ -45,12 +45,12 @@ ComfyUI 的自定义节点扩展，提供 WebGL 渲染的放大镜工具：跟�
 ```mermaid
 xychart-beta
     title "AEmotionStudio/ComfyUI-MagnifyGlass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

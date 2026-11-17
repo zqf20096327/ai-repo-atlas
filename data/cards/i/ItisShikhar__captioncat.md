@@ -1,6 +1,6 @@
 # ItisShikhar/captioncat
 
-⭐ 15 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/ItisShikhar/captioncat) · [官网](https://itisshikhar.github.io/captioncat/captioncat-preset-studio/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/ItisShikhar/captioncat) · [官网](https://itisshikhar.github.io/captioncat/captioncat-preset-studio/) · 个人维护
 
 **开发者用代码设计并渲染动画字幕的 Node.js 引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ItisShikhar/captioncat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "ItisShikhar/captioncat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # tecno-consultores/llm-lab
 
-⭐ 19 · Shell · GPL-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/tecno-consultores/llm-lab) · [官网](https://www.tecnoconsultores.net/) · 组织维护
+⭐ 19 · Shell · GPL-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tecno-consultores/llm-lab) · [官网](https://www.tecnoconsultores.net/) · 组织维护
 
 **Docker Compose 编排：一键部署 n8n、Ollama、OpenWebUI 等 LLM 工具栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tecno-consultores/llm-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

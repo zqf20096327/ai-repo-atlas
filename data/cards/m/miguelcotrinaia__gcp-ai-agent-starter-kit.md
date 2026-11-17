@@ -1,6 +1,6 @@
 # miguelcotrinaia/gcp-ai-agent-starter-kit
 
-⭐ 24 · Jupyter Notebook · 推送 2026-10-12 · [GitHub](https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit) · 个人维护
+⭐ 24 · Jupyter Notebook · 推送 2026-11-03 · [GitHub](https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit) · 个人维护
 
 **在 GCP 上构建 LangChain RAG 智能体的教学系列仓库（13 集）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "miguelcotrinaia/gcp-ai-agent-starter-kit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "miguelcotrinaia/gcp-ai-agent-starter-kit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 25
-    line [21, 23, 24, 24]
+    line [21, 23, 24, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 24（+3）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

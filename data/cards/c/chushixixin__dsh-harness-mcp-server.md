@@ -1,6 +1,6 @@
 # chushixixin/dsh-harness-mcp-server
 
-⭐ 13 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/chushixixin/dsh-harness-mcp-server) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/chushixixin/dsh-harness-mcp-server) · 个人维护
 
 **把 DeepSeek Harness agent 能力暴露为 MCP 服务器的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chushixixin/dsh-harness-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "chushixixin/dsh-harness-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

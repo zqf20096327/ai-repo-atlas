@@ -1,6 +1,6 @@
 # xhzq233/ios-use
 
-⭐ 22 · Swift · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/xhzq233/ios-use) · 个人维护
+⭐ 24 · Swift · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/xhzq233/ios-use) · 个人维护
 
 **终端控制 iPhone/Mac 应用的 iOS UI 自动化 CLI，可由 AI 驱动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xhzq233/ios-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "xhzq233/ios-use 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 20, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

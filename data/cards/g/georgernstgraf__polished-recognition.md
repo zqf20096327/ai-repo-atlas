@@ -1,6 +1,6 @@
 # georgernstgraf/polished-recognition
 
-⭐ 13 · Kotlin · MIT · 推送 2026-10-19 · [GitHub](https://github.com/georgernstgraf/polished-recognition) · [官网](https://f-droid.org/packages/com.georgernstgraf.polishedrecognition) · 个人维护
+⭐ 14 · Kotlin · MIT · 推送 2026-11-14 · [GitHub](https://github.com/georgernstgraf/polished-recognition) · [官网](https://f-droid.org/packages/com.georgernstgraf.polishedrecognition) · 个人维护
 
 **Android 语音键盘：自选 STT+LLM，把口述打磨成成品文字**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgernstgraf/polished-recognition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "georgernstgraf/polished-recognition 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

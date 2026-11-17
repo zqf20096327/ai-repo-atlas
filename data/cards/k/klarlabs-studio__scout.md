@@ -1,6 +1,6 @@
 # klarlabs-studio/scout
 
-⭐ 14 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/klarlabs-studio/scout) · [官网](https://klarlabs-studio.github.io/scout/) · 组织维护
+⭐ 14 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/klarlabs-studio/scout) · [官网](https://klarlabs-studio.github.io/scout/) · 组织维护
 
 **单二进制浏览器自动化工具：CLI/MCP 服务器/聊天 UI/Go 库四合一**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "klarlabs-studio/scout 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

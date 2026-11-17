@@ -1,6 +1,6 @@
 # AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE
 
-⭐ 14 · HTML · 推送 2026-03-11 · [GitHub](https://github.com/AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE) · [官网](https://t.me/smartentertainmentt) · 个人维护
+⭐ 16 · HTML · 推送 2026-03-11 · [GitHub](https://github.com/AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE) · [官网](https://t.me/smartentertainmentt) · 个人维护
 
 **大学课程作业：基于 TF-IDF 与余弦相似度的电影推荐网站**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

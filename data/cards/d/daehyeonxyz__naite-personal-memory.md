@@ -1,6 +1,6 @@
 # daehyeonxyz/naite-personal-memory
 
-⭐ 25 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/daehyeonxyz/naite-personal-memory) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/daehyeonxyz/naite-personal-memory) · 个人维护 · 中文 README
 
 **由 LLM 维护的个人知识库：用 Claude Code/Codex 把资料长成互联 Markdown 树**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daehyeonxyz/naite-personal-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "daehyeonxyz/naite-personal-memory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

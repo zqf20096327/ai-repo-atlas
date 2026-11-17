@@ -1,6 +1,6 @@
 # agentic-in/elephant-agent
 
-⭐ 584 · Python · 推送 2026-08-27 · [GitHub](https://github.com/agentic-in/elephant-agent) · [官网](https://elephant.agentic-in.ai) · 组织维护 · 中文 README
+⭐ 586 · Python · 推送 2026-08-27 · [GitHub](https://github.com/agentic-in/elephant-agent) · [官网](https://elephant.agentic-in.ai) · 组织维护 · 中文 README
 
 **以个人模型为核心的自进化个人 AI Agent 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentic-in/elephant-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 581 --> 585
-    line [582, 583, 584, 584]
+    title "agentic-in/elephant-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 581 --> 587
+    line [582, 583, 584, 585, 586, 586]
 ```
 
-2026-10-18 582 → 2026-11-02 584（+2）
+2026-10-18 582 → 2026-11-17 586（+4）
 
 
 ---

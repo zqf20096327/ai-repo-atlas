@@ -1,6 +1,6 @@
 # p10node/docflare-ai
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/p10node/docflare-ai) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/p10node/docflare-ai) · 个人维护
 
 **文档站一键嵌入的开源 AI 问答与站内搜索挂件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "p10node/docflare-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "p10node/docflare-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    line [42, 43, 44, 42, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

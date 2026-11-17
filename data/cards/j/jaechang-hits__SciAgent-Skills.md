@@ -1,6 +1,6 @@
 # jaechang-hits/SciAgent-Skills
 
-⭐ 384 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jaechang-hits/SciAgent-Skills) · [官网](https://omicshorizon.ai/en/) · 个人维护
+⭐ 392 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jaechang-hits/SciAgent-Skills) · [官网](https://omicshorizon.ai/en/) · 个人维护
 
 **面向 AI 编码 agent 的 199 个生物信息学技能库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaechang-hits/SciAgent-Skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 378 --> 385
-    line [379, 381, 382, 383, 384, 384]
+    title "jaechang-hits/SciAgent-Skills 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 378 --> 393
+    line [379, 381, 382, 383, 384, 382, 386, 387, 388, 389, 390, 392, 392]
 ```
 
-2026-10-18 379 → 2026-11-02 384（+5）
+2026-10-18 379 → 2026-11-17 392（+13）
 
 
 ---

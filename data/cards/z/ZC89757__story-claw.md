@@ -1,6 +1,6 @@
 # ZC89757/story-claw
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZC89757/story-claw) · [官网](https://zc89757.github.io/story-claw/) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ZC89757/story-claw) · [官网](https://zc89757.github.io/story-claw/) · 个人维护 · 中文 README
 
 **开源 AI 小说转视频流水线：一章小说一键产出短剧成片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZC89757/story-claw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
+    title "ZC89757/story-claw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 28 --> 33
-    line [29, 30, 32, 31, 31]
+    line [29, 30, 32, 31, 32, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 31（+2）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

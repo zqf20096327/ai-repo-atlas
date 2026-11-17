@@ -1,6 +1,6 @@
 # T8mars/comfyui-fireredaudio-T8
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/T8mars/comfyui-fireredaudio-T8) · [官网](https://huggingface.co/t8star/Firered-Audio-Comfy) · 个人维护 · 中文 README
+⭐ 22 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/T8mars/comfyui-fireredaudio-T8) · [官网](https://huggingface.co/t8star/Firered-Audio-Comfy) · 个人维护 · 中文 README
 
 **ComfyUI 的 FireRedAudio 全能力节点包：ASR、声音克隆与配音生产**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "T8mars/comfyui-fireredaudio-T8 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "T8mars/comfyui-fireredaudio-T8 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [24, 23, 22, 22]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 22（-2）
 
 
 ---

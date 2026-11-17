@@ -1,6 +1,6 @@
 # foxj77/claudectx
 
-⭐ 143 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/foxj77/claudectx) · 个人维护
+⭐ 144 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/foxj77/claudectx) · 个人维护
 
 **Claude Code 配置切换 CLI：一条命令切换多套配置档案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "foxj77/claudectx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    title "foxj77/claudectx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 142 --> 145
+    line [143, 144, 144]
 ```
 
-2026-10-18 143 → 2026-11-02 143（+0）
+2026-10-18 143 → 2026-11-17 144（+1）
 
 
 ---

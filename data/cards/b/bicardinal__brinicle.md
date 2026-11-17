@@ -1,6 +1,6 @@
 # bicardinal/brinicle
 
-⭐ 102 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/bicardinal/brinicle) · [官网](https://brinicle.bicardinal.com) · 组织维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/bicardinal/brinicle) · [官网](https://brinicle.bicardinal.com) · 组织维护
 
 **低内存场景的 C++ 磁盘优先 HNSW 向量/混合检索引擎**
 
@@ -45,13 +45,13 @@ brinicle 是以磁盘优先 HNSW 索引为核心的检索引擎，提供 Python 
 
 ```mermaid
 xychart-beta
-    title "bicardinal/brinicle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "bicardinal/brinicle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 100 --> 103
+    line [102, 101, 101]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 101（-1）
 
 
 ---

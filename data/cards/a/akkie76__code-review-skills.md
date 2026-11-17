@@ -1,6 +1,6 @@
 # akkie76/code-review-skills
 
-⭐ 89 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/akkie76/code-review-skills) · [官网](https://gihyo.jp/book/2026/978-4-297-15768-5) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/akkie76/code-review-skills) · [官网](https://gihyo.jp/book/2026/978-4-297-15768-5) · 个人维护
 
 **面向 Codex 与 Claude Code 的证据驱动代码审查 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "akkie76/code-review-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 82 --> 90
-    line [83, 85, 86, 87, 89, 89]
+    title "akkie76/code-review-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 82 --> 92
+    line [83, 85, 86, 87, 89, 87, 88, 89, 90, 91, 91]
 ```
 
-2026-10-18 83 → 2026-11-02 89（+6）
+2026-10-18 83 → 2026-11-17 91（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # virolea/lintus
 
-⭐ 12 · Rust · MIT · 推送 2026-09-23 · [GitHub](https://github.com/virolea/lintus) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/virolea/lintus) · 个人维护
 
 **用自然语言写规则、由模型判定的代码检查工具**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行 linter：从仓库根目录读取 YAML 规则文件，�
 ```mermaid
 xychart-beta
     title "virolea/lintus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

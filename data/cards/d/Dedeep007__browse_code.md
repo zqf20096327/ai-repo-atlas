@@ -1,6 +1,6 @@
 # Dedeep007/browse_code
 
-⭐ 21 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Dedeep007/browse_code) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Dedeep007/browse_code) · 个人维护
 
 **把网页版 AI 聊天变成本地自主编程代理的 CLI+浏览器扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dedeep007/browse_code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Dedeep007/browse_code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

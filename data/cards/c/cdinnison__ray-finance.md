@@ -1,6 +1,6 @@
 # cdinnison/ray-finance
 
-⭐ 308 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cdinnison/ray-finance) · [官网](https://rayfinance.app) · 个人维护
+⭐ 310 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cdinnison/ray-finance) · [官网](https://rayfinance.app) · 个人维护
 
 **开源本地优先的 AI 个人财务顾问 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cdinnison/ray-finance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 305 --> 309
-    line [306, 307, 308, 308]
+    title "cdinnison/ray-finance 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 305 --> 311
+    line [306, 307, 308, 307, 308, 309, 310, 310]
 ```
 
-2026-10-18 306 → 2026-11-02 308（+2）
+2026-10-18 306 → 2026-11-17 310（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Camil-H/cli-agent-lint
 
-⭐ 58 · Go · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Camil-H/cli-agent-lint) · 个人维护
+⭐ 59 · Go · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Camil-H/cli-agent-lint) · 个人维护
 
 **审计 CLI 工具对 AI agent 就绪度的静态/主动检查与评分工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Camil-H/cli-agent-lint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "Camil-H/cli-agent-lint 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

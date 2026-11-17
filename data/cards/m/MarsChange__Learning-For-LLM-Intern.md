@@ -1,6 +1,6 @@
 # MarsChange/Learning-For-LLM-Intern
 
-⭐ 28 · 推送 2026-07-17 · [GitHub](https://github.com/MarsChange/Learning-For-LLM-Intern) · 个人维护 · 中文 README
+⭐ 35 · 推送 2026-11-08 · [GitHub](https://github.com/MarsChange/Learning-For-LLM-Intern) · 个人维护 · 中文 README
 
 **面向大模型算法实习面试的个人学习笔记库（Obsidian）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarsChange/Learning-For-LLM-Intern 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 29
-    line [24, 25, 26, 27, 28, 28]
+    title "MarsChange/Learning-For-LLM-Intern 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 36
+    line [24, 25, 26, 27, 28, 24, 31, 33, 34, 35, 35]
 ```
 
-2026-10-18 24 → 2026-11-02 28（+4）
+2026-10-18 24 → 2026-11-17 35（+11）
 
 
 ---

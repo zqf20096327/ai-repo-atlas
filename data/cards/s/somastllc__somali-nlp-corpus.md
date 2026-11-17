@@ -1,6 +1,6 @@
 # somastllc/somali-nlp-corpus
 
-⭐ 109 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/somali-nlp-corpus) · [官网](https://www.somast.so/en/datasets/somali-nlp-corpus) · 组织维护
+⭐ 115 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/somali-nlp-corpus) · [官网](https://www.somast.so/en/datasets/somali-nlp-corpus) · 组织维护
 
 **索马里语 NLP 语料库与 Rust 数据处理管线，产出训练用 JSONL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "somastllc/somali-nlp-corpus 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 85 --> 111
-    line [87, 107, 108, 109, 109]
+    title "somastllc/somali-nlp-corpus 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 85 --> 117
+    line [87, 107, 108, 109, 108, 112, 113, 115, 115]
 ```
 
-2026-10-19 87 → 2026-11-02 109（+22）
+2026-10-19 87 → 2026-11-17 115（+28）
 
 
 ---

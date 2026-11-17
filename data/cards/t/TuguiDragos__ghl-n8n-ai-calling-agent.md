@@ -1,6 +1,6 @@
 # TuguiDragos/ghl-n8n-ai-calling-agent
 
-⭐ 33 · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/TuguiDragos/ghl-n8n-ai-calling-agent) · [官网](https://n8n.io/workflows/8339-replace-your-call-center-with-an-ai-agent-using-gohighlevel-ghl-vapi-and-twilio/) · 个人维护
+⭐ 34 · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/TuguiDragos/ghl-n8n-ai-calling-agent) · [官网](https://n8n.io/workflows/8339-replace-your-call-center-with-an-ai-agent-using-gohighlevel-ghl-vapi-and-twilio/) · 个人维护
 
 **面向 GoHighLevel 的 n8n AI 外呼代理：自动打电话、筛选线索、约日程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TuguiDragos/ghl-n8n-ai-calling-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33, 33]
+    title "TuguiDragos/ghl-n8n-ai-calling-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 33, 30, 33, 34, 34]
 ```
 
-2026-10-18 30 → 2026-11-02 33（+3）
+2026-10-18 30 → 2026-11-17 34（+4）
 
 
 ---

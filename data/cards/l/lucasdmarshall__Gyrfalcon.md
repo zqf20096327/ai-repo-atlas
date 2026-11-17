@@ -1,6 +1,6 @@
 # lucasdmarshall/Gyrfalcon
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lucasdmarshall/Gyrfalcon) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lucasdmarshall/Gyrfalcon) · 个人维护
 
 **Rust 实现的嵌入式混合检索引擎：BM25+稠密向量融合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucasdmarshall/Gyrfalcon 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 8 --> 12
-    line [9, 10, 11, 11]
+    title "lucasdmarshall/Gyrfalcon 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 11, 12, 12]
 ```
 
-2026-10-29 9 → 2026-11-02 11（+2）
+2026-10-29 9 → 2026-11-17 12（+3）
 
 
 ---

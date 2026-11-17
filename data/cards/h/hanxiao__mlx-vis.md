@@ -1,6 +1,6 @@
 # hanxiao/mlx-vis
 
-⭐ 97 · Python · 推送 2026-03-20 · [GitHub](https://github.com/hanxiao/mlx-vis) · [官网](https://arxiv.org/abs/2603.04035) · 个人维护
+⭐ 100 · Python · 推送 2026-03-20 · [GitHub](https://github.com/hanxiao/mlx-vis) · [官网](https://arxiv.org/abs/2603.04035) · 个人维护
 
 **面向 Apple Silicon 的 MLX 降维与可视化库，Metal GPU 加速**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanxiao/mlx-vis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 94 --> 98
-    line [95, 96, 97, 97]
+    title "hanxiao/mlx-vis 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 94 --> 101
+    line [95, 96, 97, 95, 99, 100, 100]
 ```
 
-2026-10-18 95 → 2026-11-02 97（+2）
+2026-10-18 95 → 2026-11-17 100（+5）
 
 
 ---

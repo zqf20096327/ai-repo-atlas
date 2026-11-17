@@ -1,6 +1,6 @@
 # totocaster/arrowhead
 
-⭐ 44 · Rust · MIT · 推送 2026-08-12 · [GitHub](https://github.com/totocaster/arrowhead) · [官网](https://ttvl.co/arrowhead) · 个人维护
+⭐ 44 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/totocaster/arrowhead) · [官网](https://ttvl.co/arrowhead) · 个人维护
 
 **Obsidian 知识库的常驻索引守护进程，供人与 AI agent 快速检索**
 
@@ -46,12 +46,12 @@ Rust 编写的跨平台 CLI 与守护进程，持续监视 Obsidian vault 或任
 ```mermaid
 xychart-beta
     title "totocaster/arrowhead 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 44（+0）
 
 
 ---

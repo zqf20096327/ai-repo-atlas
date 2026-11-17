@@ -1,6 +1,6 @@
 # Ask-Sage/AskSage-Open-Source-Community
 
-⭐ 36 · Jupyter Notebook · MIT · 推送 2026-04-27 · [GitHub](https://github.com/Ask-Sage/AskSage-Open-Source-Community) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AskSage API 的社区示例代码与文档集合，供付费订阅用户参考**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ask-Sage/AskSage-Open-Source-Community 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-07 36（+0）
 
 
 ---

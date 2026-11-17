@@ -1,6 +1,6 @@
 # lyk555/UnrealAIAssistant
 
-⭐ 11 · C++ · MIT · 推送 2026-03-20 · [GitHub](https://github.com/lyk555/UnrealAIAssistant) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-03-20 · [GitHub](https://github.com/lyk555/UnrealAIAssistant) · 个人维护
 
 **Unreal Engine 5.5 编辑器插件：接入 CodeX/Claude Code 等 AI 编码 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lyk555/UnrealAIAssistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "lyk555/UnrealAIAssistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

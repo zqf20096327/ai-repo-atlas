@@ -1,6 +1,6 @@
 # augix/SNPBag
 
-⭐ 21 · Jupyter Notebook · 推送 2025-12-17 · [GitHub](https://github.com/augix/SNPBag) · [官网](https://www.biorxiv.org/content/10.1101/2025.01.29.635579v3) · 组织维护
+⭐ 22 · Jupyter Notebook · 推送 2025-12-17 · [GitHub](https://github.com/augix/SNPBag) · [官网](https://www.biorxiv.org/content/10.1101/2025.01.29.635579v3) · 组织维护
 
 **基因组变异基础模型：SNP 预训练，支持插补/分期等 5 项任务**
 
@@ -44,13 +44,13 @@ SNPBag 是基于 100 万合成个体全基因组 SNP 数据预训练的语言模
 
 ```mermaid
 xychart-beta
-    title "augix/SNPBag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    title "augix/SNPBag 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 20, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

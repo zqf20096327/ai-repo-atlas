@@ -1,6 +1,6 @@
 # wakaka6/myconfig
 
-⭐ 11 · Lua · 推送 2026-09-21 · [GitHub](https://github.com/wakaka6/myconfig) · 个人维护 · 中文 README
+⭐ 12 · Lua · 推送 2026-11-03 · [GitHub](https://github.com/wakaka6/myconfig) · 个人维护 · 中文 README
 
 **个人 Linux/macOS 桌面与终端配置（dotfiles）集合及安装脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wakaka6/myconfig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "wakaka6/myconfig 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

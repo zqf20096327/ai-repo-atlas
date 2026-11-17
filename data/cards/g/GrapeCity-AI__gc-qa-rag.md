@@ -1,6 +1,6 @@
 # GrapeCity-AI/gc-qa-rag
 
-⭐ 84 · Python · MIT · 推送 2026-01-19 · [GitHub](https://github.com/GrapeCity-AI/gc-qa-rag) · [官网](https://grapecity-ai.github.io/gc-qa-rag/) · 组织维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-01-19 · [GitHub](https://github.com/GrapeCity-AI/gc-qa-rag) · [官网](https://grapecity-ai.github.io/gc-qa-rag/) · 组织维护 · 中文 README
 
 **基于 QA 预生成的企业级 RAG 问答系统，面向文档知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GrapeCity-AI/gc-qa-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    title "GrapeCity-AI/gc-qa-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 82 --> 85
+    line [84, 83, 83]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 83（-1）
 
 
 ---

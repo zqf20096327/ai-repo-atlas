@@ -1,6 +1,6 @@
 # carlosfab/sigmoidal_ai
 
-⭐ 178 · Jupyter Notebook · 推送 2026-03-25 · [GitHub](https://github.com/carlosfab/sigmoidal_ai) · [官网](http://sigmoidal.ai) · 个人维护
+⭐ 176 · Jupyter Notebook · 推送 2026-03-25 · [GitHub](https://github.com/carlosfab/sigmoidal_ai) · [官网](http://sigmoidal.ai) · 个人维护
 
 **Sigmoidal 博客的 Python/Data Science/ML 教程 notebook 集合**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "carlosfab/sigmoidal_ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "carlosfab/sigmoidal_ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 175 --> 179
-    line [176, 177, 178, 178]
+    line [176, 177, 178, 176, 176]
 ```
 
-2026-10-18 176 → 2026-11-02 178（+2）
+2026-10-18 176 → 2026-11-17 176（+0）
 
 
 ---

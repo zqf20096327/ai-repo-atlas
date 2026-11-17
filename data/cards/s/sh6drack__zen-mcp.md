@@ -1,6 +1,6 @@
 # sh6drack/zen-mcp
 
-⭐ 27 · JavaScript · 推送 2026-05-16 · [GitHub](https://github.com/sh6drack/zen-mcp) · 个人维护
+⭐ 28 · JavaScript · 推送 2026-05-16 · [GitHub](https://github.com/sh6drack/zen-mcp) · 个人维护
 
 **面向 Zen Browser 的 MCP 服务器：让 AI 客户端自动化浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sh6drack/zen-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 26, 27, 27]
+    title "sh6drack/zen-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 26, 27, 24, 28, 28]
 ```
 
-2026-10-18 23 → 2026-11-02 27（+4）
+2026-10-18 23 → 2026-11-17 28（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # bilalshemsu1/ai-gateway
 
-⭐ 17 · JavaScript · ISC · 推送 2026-10-23 · [GitHub](https://github.com/bilalshemsu1/ai-gateway) · 个人维护
+⭐ 17 · JavaScript · ISC · 推送 2026-11-05 · [GitHub](https://github.com/bilalshemsu1/ai-gateway) · 个人维护
 
 **多 AI 供应商的统一网关：一个 API 聚合多家免费服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bilalshemsu1/ai-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cai-layer/cai
 
-⭐ 60 · Swift · MIT · 推送 2026-10-31 · [GitHub](https://github.com/cai-layer/cai) · [官网](https://getcai.app/) · 组织维护
+⭐ 60 · Swift · MIT · 推送 2026-11-03 · [GitHub](https://github.com/cai-layer/cai) · [官网](https://getcai.app/) · 组织维护
 
 **macOS 本地 AI 快捷动作启动器：选中内容按 ⌥C 即变换**
 
@@ -45,13 +45,13 @@ macOS 菜单栏应用：任意位置选中文本或图片后按 ⌥C，触发 AI
 
 ```mermaid
 xychart-beta
-    title "cai-layer/cai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-02"]
+    title "cai-layer/cai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 60]
+    line [57, 58, 59, 60, 59, 60, 60]
 ```
 
-2026-10-18 57 → 2026-11-02 60（+3）
+2026-10-18 57 → 2026-11-17 60（+3）
 
 
 ---

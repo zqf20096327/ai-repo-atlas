@@ -1,6 +1,6 @@
 # nihannihu/watermark-remover-ai
 
-⭐ 40 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nihannihu/watermark-remover-ai) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nihannihu/watermark-remover-ai) · 个人维护 · 中文 README
 
 **离线去除图片/视频水印与标识的 AI 桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nihannihu/watermark-remover-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 39, 40, 40]
+    title "nihannihu/watermark-remover-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

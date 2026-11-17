@@ -1,6 +1,6 @@
 # KorroAi/claude-creativity
 
-⭐ 37 · TeX · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/claude-creativity) · [官网](https://korrocorp.com) · 个人维护
+⭐ 41 · TeX · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/claude-creativity) · [官网](https://korrocorp.com) · 个人维护
 
 **给 Claude Code 加 15 种创意技法的头脑风暴技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KorroAi/claude-creativity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 37, 37]
+    title "KorroAi/claude-creativity 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 42
+    line [33, 34, 37, 34, 38, 39, 40, 41, 41]
 ```
 
-2026-10-18 33 → 2026-11-02 37（+4）
+2026-10-18 33 → 2026-11-17 41（+8）
 
 
 ---

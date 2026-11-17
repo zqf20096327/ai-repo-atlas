@@ -1,6 +1,6 @@
 # yagobski/agentleak
 
-⭐ 11 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/yagobski/agentleak) · [官网](https://www.agentleak.org) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yagobski/agentleak) · [官网](https://www.agentleak.org) · 个人维护
 
 **AI agent 隐私泄露检测工具：审计工具调用、内存与日志等通道**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yagobski/agentleak 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

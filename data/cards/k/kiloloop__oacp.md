@@ -1,6 +1,6 @@
 # kiloloop/oacp
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kiloloop/oacp) · [官网](https://oacp.dev) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kiloloop/oacp) · [官网](https://oacp.dev) · 个人维护
 
 **基于文件的多 AI agent 协调协议与 CLI，无需服务器**
 
@@ -45,13 +45,13 @@ OACP 是一个用纯文件（YAML）实现的多 AI agent 协调协议与配套 
 
 ```mermaid
 xychart-beta
-    title "kiloloop/oacp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "kiloloop/oacp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

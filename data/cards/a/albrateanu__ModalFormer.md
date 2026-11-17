@@ -1,6 +1,6 @@
 # albrateanu/ModalFormer
 
-⭐ 29 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/albrateanu/ModalFormer) · [官网](https://arxiv.org/abs/2507.20388) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/albrateanu/ModalFormer) · [官网](https://arxiv.org/abs/2507.20388) · 组织维护
 
 **多模态 Transformer 低光照图像增强模型，论文官方代码与预训练权重**
 
@@ -44,13 +44,13 @@ ModalFormer 是低光照图像增强（LLIE）的多模态 Transformer 框架官
 
 ```mermaid
 xychart-beta
-    title "albrateanu/ModalFormer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "albrateanu/ModalFormer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

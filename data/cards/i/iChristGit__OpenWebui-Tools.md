@@ -1,6 +1,6 @@
 # iChristGit/OpenWebui-Tools
 
-⭐ 158 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/iChristGit/OpenWebui-Tools) · [官网](https://openwebui.com/u/ichrist) · 个人维护
+⭐ 167 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/iChristGit/OpenWebui-Tools) · [官网](https://openwebui.com/u/ichrist) · 个人维护
 
 **面向 Open WebUI 的自定义聊天工具集：媒体、资讯与生成等 27 个**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iChristGit/OpenWebui-Tools 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 150 --> 159
-    line [151, 153, 154, 155, 156, 157, 158, 158]
+    title "iChristGit/OpenWebui-Tools 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 150 --> 168
+    line [151, 153, 154, 155, 156, 157, 158, 156, 164, 165, 167, 167]
 ```
 
-2026-10-18 151 → 2026-11-02 158（+7）
+2026-10-18 151 → 2026-11-17 167（+16）
 
 
 ---

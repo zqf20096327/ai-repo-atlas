@@ -1,6 +1,6 @@
 # vibheksoni/t3router
 
-⭐ 77 · Rust · MIT · 推送 2026-07-25 · [GitHub](https://github.com/vibheksoni/t3router) · 个人维护
+⭐ 78 · Rust · MIT · 推送 2026-07-25 · [GitHub](https://github.com/vibheksoni/t3router) · 个人维护
 
 **在终端调用 t3.chat 上 51+ 模型的 Rust 客户端库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vibheksoni/t3router 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 74 --> 78
-    line [75, 76, 77, 77]
+    title "vibheksoni/t3router 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 74 --> 79
+    line [75, 76, 77, 76, 77, 78, 78]
 ```
 
-2026-10-18 75 → 2026-11-02 77（+2）
+2026-10-18 75 → 2026-11-17 78（+3）
 
 
 ---

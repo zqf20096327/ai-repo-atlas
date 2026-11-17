@@ -1,6 +1,6 @@
 # Denis-ya-32/prostograf
 
-⭐ 12 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Denis-ya-32/prostograf) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Denis-ya-32/prostograf) · 个人维护 · 中文 README
 
 **自托管多用户图 RAG 文档问答系统（LightRAG 深度分支）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Denis-ya-32/prostograf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

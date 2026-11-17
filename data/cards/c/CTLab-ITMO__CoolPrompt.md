@@ -1,6 +1,6 @@
 # CTLab-ITMO/CoolPrompt
 
-⭐ 199 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/CTLab-ITMO/CoolPrompt) · 组织维护
+⭐ 201 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/CTLab-ITMO/CoolPrompt) · 组织维护
 
 **自动提示词创建与优化的框架，供 LLM 开发者调优 prompt**
 
@@ -46,13 +46,13 @@ ITMO 大学 CT-Lab 开发的自动提示优化（APO）框架：提供 HyPER、R
 
 ```mermaid
 xychart-beta
-    title "CTLab-ITMO/CoolPrompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 197 --> 200
-    line [198, 199, 199]
+    title "CTLab-ITMO/CoolPrompt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 197 --> 202
+    line [198, 199, 201, 200, 201, 201]
 ```
 
-2026-10-18 198 → 2026-11-02 199（+1）
+2026-10-18 198 → 2026-11-17 201（+3）
 
 
 ---

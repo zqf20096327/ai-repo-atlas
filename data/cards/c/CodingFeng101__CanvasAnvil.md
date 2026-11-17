@@ -1,6 +1,6 @@
 # CodingFeng101/CanvasAnvil
 
-⭐ 98 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/CodingFeng101/CanvasAnvil) · [官网](https://canvasanvil.codingfgd.asia) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 多画布创作平台：图表/室内设计/PPT 生成工作区**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | MIT |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CodingFeng101/CanvasAnvil 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "CodingFeng101/CanvasAnvil 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 96 --> 99
-    line [97, 98, 98]
+    line [97, 98, 97, 97]
 ```
 
-2026-10-18 97 → 2026-11-02 98（+1）
+2026-10-18 97 → 2026-11-07 97（+0）
 
 
 ---

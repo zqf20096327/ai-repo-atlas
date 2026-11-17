@@ -1,6 +1,6 @@
 # tahrirchi/uzlib
 
-⭐ 27 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tahrirchi/uzlib) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tahrirchi/uzlib) · 组织维护
 
 **乌兹别克语语言学基准：评测 LLM 的乌语能力**
 
@@ -45,13 +45,13 @@ UzLiB 是面向大语言模型的多项选择题基准，用于评测模型对�
 
 ```mermaid
 xychart-beta
-    title "tahrirchi/uzlib 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "tahrirchi/uzlib 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 29, 30, 30]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 30（+4）
 
 
 ---

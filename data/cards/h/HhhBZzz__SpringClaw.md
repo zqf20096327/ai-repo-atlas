@@ -1,6 +1,6 @@
 # HhhBZzz/SpringClaw
 
-⭐ 17 · Java · MIT · 推送 2026-08-19 · [GitHub](https://github.com/HhhBZzz/SpringClaw) · [官网](https://spring-claw.vercel.app) · 个人维护 · 中文 README
+⭐ 18 · Java · MIT · 推送 2026-11-09 · [GitHub](https://github.com/HhhBZzz/SpringClaw) · [官网](https://spring-claw.vercel.app) · 个人维护 · 中文 README
 
 **可视化 Java Agent 运行时：7 种范式可切换，执行全程可观测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HhhBZzz/SpringClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "HhhBZzz/SpringClaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # educlopez/codevator
 
-⭐ 65 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/educlopez/codevator) · [官网](https://codevator.dev) · 个人维护
+⭐ 65 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/educlopez/codevator) · [官网](https://codevator.dev) · 个人维护
 
 **AI 编码 agent 工作时自动播放背景音乐的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "educlopez/codevator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 65（+0）
 
 
 ---

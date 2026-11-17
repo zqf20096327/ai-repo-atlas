@@ -1,6 +1,6 @@
 # wentbackward/hikyaku
 
-⭐ 11 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/wentbackward/hikyaku) · [官网](https://hikyaku.ai/) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/wentbackward/hikyaku) · [官网](https://hikyaku.ai/) · 个人维护
 
 **AI 推理代理与负载均衡器：虚拟化模型、统一本地与云端后端**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wentbackward/hikyaku 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "wentbackward/hikyaku 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cloud-CV/EvalAI
 
-⭐ 2,049 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Cloud-CV/EvalAI) · [官网](https://eval.ai) · 组织维护
+⭐ 2,050 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Cloud-CV/EvalAI) · [官网](https://eval.ai) · 组织维护
 
 **面向研究者的 AI 算法评测与竞赛平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cloud-CV/EvalAI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2046 --> 2050
-    line [2047, 2048, 2047, 2048, 2049]
+    title "Cloud-CV/EvalAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 2046 --> 2051
+    line [2047, 2048, 2047, 2048, 2049, 2048, 2050, 2050]
 ```
 
-2026-10-18 2,047 → 2026-11-02 2,049（+2）
+2026-10-18 2,047 → 2026-11-17 2,050（+3）
 
 
 ---

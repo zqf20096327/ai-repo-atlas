@@ -1,6 +1,6 @@
 # bryan-shea/Annotative
 
-⭐ 13 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/bryan-shea/Annotative) · [官网](https://marketplace.visualstudio.com/items?itemName=bryan-shea.annotative) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/bryan-shea/Annotative) · [官网](https://marketplace.visualstudio.com/items?itemName=bryan-shea.annotative) · 个人维护
 
 **VS Code 扩展：结构化标注 markdown 计划、AI 回复与本地 diff 并导出反馈**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bryan-shea/Annotative 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "bryan-shea/Annotative 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [13, 11, 11]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 11（-2）
 
 
 ---

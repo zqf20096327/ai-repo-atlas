@@ -1,6 +1,6 @@
 # Reyzowter/Hello-Agents
 
-⭐ 125 · Python · 推送 2026-06-23 · [GitHub](https://github.com/Reyzowter/Hello-Agents) · [官网](http://helloagents.org/) · 组织维护
+⭐ 126 · Python · 推送 2026-06-23 · [GitHub](https://github.com/Reyzowter/Hello-Agents) · [官网](http://helloagents.org/) · 组织维护
 
 **AI Agent 系统从零构建的开源教程课程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Reyzowter/Hello-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 123 --> 126
-    line [124, 125, 125]
+    title "Reyzowter/Hello-Agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 123 --> 127
+    line [124, 125, 124, 126, 126]
 ```
 
-2026-10-18 124 → 2026-11-02 125（+1）
+2026-10-18 124 → 2026-11-17 126（+2）
 
 
 ---

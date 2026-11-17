@@ -1,6 +1,6 @@
 # rosmur/claudecode-best-practices
 
-⭐ 85 · Python · 推送 2025-11-09 · [GitHub](https://github.com/rosmur/claudecode-best-practices) · [官网](https://rosmur.github.io/claudecode-best-practices/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **汇总网络文章的 Claude Code 使用最佳实践知识合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rosmur/claudecode-best-practices 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-07 85（+0）
 
 
 ---

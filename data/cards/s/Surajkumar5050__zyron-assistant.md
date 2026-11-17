@@ -1,6 +1,6 @@
 # Surajkumar5050/zyron-assistant
 
-⭐ 121 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/Surajkumar5050/zyron-assistant) · 个人维护
+⭐ 122 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/Surajkumar5050/zyron-assistant) · 个人维护
 
 **Windows 本地 AI 桌面助手：语音/Telegram 远程控制电脑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Surajkumar5050/zyron-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "Surajkumar5050/zyron-assistant 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 120 --> 123
-    line [122, 121, 121]
+    line [122, 121, 122, 121, 122, 122]
 ```
 
-2026-10-18 122 → 2026-11-02 121（-1）
+2026-10-18 122 → 2026-11-17 122（+0）
 
 
 ---

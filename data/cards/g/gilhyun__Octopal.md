@@ -1,6 +1,6 @@
 # gilhyun/Octopal
 
-⭐ 13 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gilhyun/Octopal) · [官网](https://octopal.app) · 个人维护 · 中文 README
+⭐ 14 · Rust · MIT · 推送 2026-11-03 · [GitHub](https://github.com/gilhyun/Octopal) · [官网](https://octopal.app) · 个人维护 · 中文 README
 
 **多模型 AI agent 编排桌面应用：Claude/GPT/Ollama 协同群聊**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gilhyun/Octopal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "gilhyun/Octopal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

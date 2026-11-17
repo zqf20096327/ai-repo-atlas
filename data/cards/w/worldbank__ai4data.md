@@ -1,6 +1,6 @@
 # worldbank/ai4data
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/worldbank/ai4data) · [官网](https://worldbank.github.io/ai4data/) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/worldbank/ai4data) · [官网](https://worldbank.github.io/ai4data/) · 组织维护
 
 **世界银行项目工具集：用 AI 生产/治理统计数据并让数据可被 AI 使用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "worldbank/ai4data 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-23", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-02 16（+0）
+2026-10-23 16 → 2026-11-17 16（+0）
 
 
 ---

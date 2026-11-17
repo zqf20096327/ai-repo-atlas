@@ -1,6 +1,6 @@
 # Devinterview-io/numpy-interview-questions
 
-⭐ 38 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/numpy-interview-questions) · 组织维护
+⭐ 39 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/numpy-interview-questions) · 组织维护
 
 **NumPy 面试题库：为 ML/数据科学求职者提供 70 道问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/numpy-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "Devinterview-io/numpy-interview-questions 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

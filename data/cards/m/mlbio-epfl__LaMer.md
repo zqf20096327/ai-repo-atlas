@@ -1,6 +1,6 @@
 # mlbio-epfl/LaMer
 
-⭐ 52 · Python · 推送 2026-02-01 · [GitHub](https://github.com/mlbio-epfl/LaMer) · [官网](https://brbiclab.epfl.ch/projects/LaMer/) · 组织维护
+⭐ 53 · Python · 推送 2026-02-01 · [GitHub](https://github.com/mlbio-epfl/LaMer) · [官网](https://brbiclab.epfl.ch/projects/LaMer/) · 组织维护
 
 **训练 LLM agent 测试时主动探索与适应的 Meta-RL 框架**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文的官方源码仓库，提供 LaMer：一种训练 LLM agent �
 
 ```mermaid
 xychart-beta
-    title "mlbio-epfl/LaMer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "mlbio-epfl/LaMer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

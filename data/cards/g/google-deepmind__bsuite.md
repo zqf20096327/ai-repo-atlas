@@ -1,6 +1,6 @@
 # google-deepmind/bsuite
 
-⭐ 1,565 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/bsuite) · 组织维护
+⭐ 1,567 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google-deepmind/bsuite) · 组织维护
 
 **RL 智能体核心能力评测基准实验套件**
 
@@ -44,13 +44,13 @@ DeepMind 维护的强化学习评测基准库：提供一组经过设计的实�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/bsuite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1563 --> 1566
-    line [1564, 1565, 1565]
+    title "google-deepmind/bsuite 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 1563 --> 1568
+    line [1564, 1565, 1564, 1566, 1567, 1567]
 ```
 
-2026-10-18 1,564 → 2026-11-02 1,565（+1）
+2026-10-18 1,564 → 2026-11-17 1,567（+3）
 
 
 ---

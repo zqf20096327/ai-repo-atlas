@@ -1,6 +1,6 @@
 # lhfer/factory-switcher
 
-⭐ 25 · Swift · MIT · 推送 2026-10-02 · [GitHub](https://github.com/lhfer/factory-switcher) · 个人维护 · 中文 README
+⭐ 24 · Swift · MIT · 推送 2026-10-02 · [GitHub](https://github.com/lhfer/factory-switcher) · 个人维护 · 中文 README
 
 **macOS 菜单栏应用：一键切换 Factory (Droid) 多账号并查看额度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lhfer/factory-switcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "lhfer/factory-switcher 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    line [24, 25, 24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

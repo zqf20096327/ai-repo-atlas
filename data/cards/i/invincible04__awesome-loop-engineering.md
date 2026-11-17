@@ -1,6 +1,6 @@
 # invincible04/awesome-loop-engineering
 
-⭐ 66 · HTML · MIT · 推送 2026-06-22 · [GitHub](https://github.com/invincible04/awesome-loop-engineering) · [官网](https://invincible04.github.io/awesome-loop-engineering/) · 个人维护
+⭐ 67 · HTML · MIT · 推送 2026-06-22 · [GitHub](https://github.com/invincible04/awesome-loop-engineering) · [官网](https://invincible04.github.io/awesome-loop-engineering/) · 个人维护
 
 **循环工程教学仓库：教你构建自动驱动编码代理的系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "invincible04/awesome-loop-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "invincible04/awesome-loop-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 65 --> 68
-    line [66, 67, 66, 66]
+    line [66, 67, 66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # patrick-tssn/Awesome-Colorful-LLM
 
-⭐ 131 · MIT · 推送 2026-05-07 · [GitHub](https://github.com/patrick-tssn/Awesome-Colorful-LLM) · 个人维护
+⭐ 132 · MIT · 推送 2026-05-07 · [GitHub](https://github.com/patrick-tssn/Awesome-Colorful-LLM) · 个人维护
 
 **多模态 LLM 研究策展清单：覆盖视觉/音频/Agent/机器人等领域**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patrick-tssn/Awesome-Colorful-LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    title "patrick-tssn/Awesome-Colorful-LLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 130 --> 133
+    line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-11-02 131（+0）
+2026-10-18 131 → 2026-11-17 132（+1）
 
 
 ---

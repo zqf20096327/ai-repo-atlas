@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "lobehub/chat-plugin-search-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "lobehub/chat-plugin-search-engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    line [46, 47, 46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

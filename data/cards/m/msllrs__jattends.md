@@ -1,6 +1,6 @@
 # msllrs/jattends
 
-⭐ 11 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/msllrs/jattends) · 个人维护
+⭐ 11 · Swift · MIT · 推送 2026-11-02 · [GitHub](https://github.com/msllrs/jattends) · 个人维护
 
 **macOS 菜单栏应用：监控 Claude Code 会话状态并快捷审批与跳转**
 
@@ -45,12 +45,12 @@ macOS menubar 应用，通过 Claude Code hooks 跟踪会话状态：当会话�
 ```mermaid
 xychart-beta
     title "msllrs/jattends 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

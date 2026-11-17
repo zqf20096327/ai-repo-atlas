@@ -1,6 +1,6 @@
 # huggingface/AIEnergyScore
 
-⭐ 43 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/huggingface/AIEnergyScore) · [官网](https://huggingface.github.io/AIEnergyScore/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/huggingface/AIEnergyScore) · [官网](https://huggingface.github.io/AIEnergyScore/) · 组织维护
 
 **AI 模型能效基准测试框架：测量并对比模型能耗**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的 AI 能效评测项目：通过 Docker 镜像（内置 opt
 
 ```mermaid
 xychart-beta
-    title "huggingface/AIEnergyScore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "huggingface/AIEnergyScore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

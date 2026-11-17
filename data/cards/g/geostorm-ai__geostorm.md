@@ -1,6 +1,6 @@
 # geostorm-ai/geostorm
 
-⭐ 33 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/geostorm-ai/geostorm) · [官网](http://geostorm.ai/) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/geostorm-ai/geostorm) · [官网](http://geostorm.ai/) · 组织维护
 
 **自托管工具：监控各 AI 模型如何推荐你的软件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "geostorm-ai/geostorm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "geostorm-ai/geostorm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

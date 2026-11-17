@@ -1,6 +1,6 @@
 # KhazixW2/Everything-Maa
 
-⭐ 17 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/KhazixW2/Everything-Maa) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/KhazixW2/Everything-Maa) · 个人维护 · 中文 README
 
 **面向 MaaFramework 项目的可复用 AI 技能包与 MCP 集成工具箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KhazixW2/Everything-Maa 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 16, 17]
+    title "KhazixW2/Everything-Maa 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 16, 17, 16, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

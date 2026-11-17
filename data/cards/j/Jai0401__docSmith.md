@@ -1,6 +1,6 @@
 # Jai0401/docSmith
 
-⭐ 16 · JavaScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/Jai0401/docSmith) · [官网](https://doc-smith.vercel.app) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/Jai0401/docSmith) · [官网](https://doc-smith.vercel.app) · 个人维护
 
 **从 GitHub 仓库 URL 生成文档、Dockerfile 与 Compose 的 API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jai0401/docSmith 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Jai0401/docSmith 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

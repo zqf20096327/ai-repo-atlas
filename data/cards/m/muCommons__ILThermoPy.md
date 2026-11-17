@@ -1,6 +1,6 @@
 # muCommons/ILThermoPy
 
-⭐ 13 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/muCommons/ILThermoPy) · [官网](https://mucommons.github.io/ILThermoPy/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/muCommons/ILThermoPy) · [官网](https://mucommons.github.io/ILThermoPy/) · 个人维护
 
 **给科研者：从 ILThermo 2.0 取数并附 SMILES 结构标注的 Python 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "muCommons/ILThermoPy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "muCommons/ILThermoPy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

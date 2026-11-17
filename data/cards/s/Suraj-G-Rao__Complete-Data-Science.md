@@ -1,6 +1,6 @@
 # Suraj-G-Rao/Complete-Data-Science
 
-⭐ 47 · Jupyter Notebook · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Suraj-G-Rao/Complete-Data-Science) · 个人维护
+⭐ 48 · Jupyter Notebook · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Suraj-G-Rao/Complete-Data-Science) · 个人维护
 
 **跟随 Udemy 课程的数据科学学习代码集合：ML/DL/NLP/MLOps**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Suraj-G-Rao/Complete-Data-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "Suraj-G-Rao/Complete-Data-Science 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

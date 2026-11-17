@@ -1,6 +1,6 @@
 # Gman0909/VectorIntelligence
 
-⭐ 16 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/Gman0909/VectorIntelligence) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/Gman0909/VectorIntelligence) · 个人维护
 
 **给 Vector 机器人用户：本地自托管 AI 大脑，识人记事全离线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gman0909/VectorIntelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Gman0909/VectorIntelligence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

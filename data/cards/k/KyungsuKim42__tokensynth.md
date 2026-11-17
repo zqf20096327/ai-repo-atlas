@@ -1,6 +1,6 @@
 # KyungsuKim42/tokensynth
 
-⭐ 98 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/KyungsuKim42/tokensynth) · [官网](https://tinyurl.com/tokensynth-demo) · 个人维护
+⭐ 100 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/KyungsuKim42/tokensynth) · [官网](https://tinyurl.com/tokensynth-demo) · 个人维护
 
 **从 MIDI 与音色嵌入生成乐器音频的神经合成器（ICASSP 2025）**
 
@@ -44,13 +44,13 @@ TokenSynth 官方实现（ICASSP 2025 论文）：基于 decoder-only transforme
 
 ```mermaid
 xychart-beta
-    title "KyungsuKim42/tokensynth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "KyungsuKim42/tokensynth 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 97 --> 101
+    line [98, 99, 100, 100]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 100（+2）
 
 
 ---

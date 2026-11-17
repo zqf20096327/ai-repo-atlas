@@ -1,6 +1,6 @@
 # carlos-algms/agentic.nvim
 
-⭐ 645 · Lua · MIT · 推送 2026-10-16 · [GitHub](https://github.com/carlos-algms/agentic.nvim) · 个人维护
+⭐ 660 · Lua · MIT · 推送 2026-11-08 · [GitHub](https://github.com/carlos-algms/agentic.nvim) · 个人维护
 
 **Neovim 中的 AI agent 聊天界面，经 ACP 接入多家 CLI 编程 agent**
 
@@ -45,13 +45,13 @@ Neovim 插件，通过实现 Agent Client Protocol (ACP) 为 AI 编程 agent 提
 
 ```mermaid
 xychart-beta
-    title "carlos-algms/agentic.nvim 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 639 --> 646
-    line [641, 640, 641, 643, 644, 645, 645]
+    title "carlos-algms/agentic.nvim 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 638 --> 662
+    line [641, 640, 641, 643, 644, 645, 641, 656, 658, 659, 658, 659, 660, 660]
 ```
 
-2026-10-18 641 → 2026-11-02 645（+4）
+2026-10-18 641 → 2026-11-17 660（+19）
 
 
 ---

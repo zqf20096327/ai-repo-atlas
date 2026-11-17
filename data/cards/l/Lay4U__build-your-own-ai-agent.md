@@ -1,6 +1,6 @@
 # Lay4U/build-your-own-ai-agent
 
-⭐ 18 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/Lay4U/build-your-own-ai-agent) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-03-01 · [GitHub](https://github.com/Lay4U/build-your-own-ai-agent) · 个人维护 · 中文 README
 
 **12 个纯 Python 从零构建 AI agent 的实战教程项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lay4U/build-your-own-ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Lay4U/build-your-own-ai-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

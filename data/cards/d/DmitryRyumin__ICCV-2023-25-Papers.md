@@ -1,6 +1,6 @@
 # DmitryRyumin/ICCV-2023-25-Papers
 
-⭐ 972 · Python · MIT · 推送 2025-11-07 · [GitHub](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) · [官网](https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ICCV 2023-2025 计算机视觉论文清单：含代码与视频链接**
 
@@ -11,7 +11,7 @@ Awesome 系列的 ICCV 会议论文聚合仓库：按会议届次（2023/2025）
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ Awesome 系列的 ICCV 会议论文聚合仓库：按会议届次（2023/2025）
 ```mermaid
 xychart-beta
     title "DmitryRyumin/ICCV-2023-25-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
     y-axis "stars" 971 --> 974
     line [973, 972, 972]
 ```
 
-2026-10-18 973 → 2026-11-02 972（-1）
+2026-10-18 973 → 2026-11-07 972（-1）
 
 
 ---

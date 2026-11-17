@@ -1,6 +1,6 @@
 # questionjie-max/echo-memory
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/questionjie-max/echo-memory) · [官网](https://github.com/questionjie-max/echo-memory/releases/latest) · 个人维护 · 中文 README
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/questionjie-max/echo-memory) · [官网](https://github.com/questionjie-max/echo-memory/releases/latest) · 个人维护 · 中文 README
 
 **macOS 本地个人记忆库：把录音、文档与 AI 对话转为可复用记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "questionjie-max/echo-memory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 21
-    line [12, 13, 18, 19, 20, 20]
+    title "questionjie-max/echo-memory 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 26
+    line [12, 13, 18, 19, 20, 18, 25, 25]
 ```
 
-2026-10-18 12 → 2026-11-02 20（+8）
+2026-10-18 12 → 2026-11-17 25（+13）
 
 
 ---

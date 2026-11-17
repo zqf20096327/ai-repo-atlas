@@ -1,6 +1,6 @@
 # EllisMorrow/Caelune
 
-⭐ 45 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/EllisMorrow/Caelune) · [官网](https://ellismorrow.github.io/Caelune/) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/EllisMorrow/Caelune) · [官网](https://ellismorrow.github.io/Caelune/) · 个人维护 · 中文 README
 
 **本地优先的私人知识检索 Windows 桌面应用与只读 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EllisMorrow/Caelune 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "EllisMorrow/Caelune 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 44（-1）
 
 
 ---

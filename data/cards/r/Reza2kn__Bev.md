@@ -1,6 +1,6 @@
 # Reza2kn/Bev
 
-⭐ 12 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Reza2kn/Bev) · [官网](https://huggingface.co/Reza2kn/Bev) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Reza2kn/Bev) · [官网](https://huggingface.co/Reza2kn/Bev) · 个人维护
 
 **面向开发者的三元决策评分推理服务：本地 HTTP API 输出结构化决策**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Reza2kn/Bev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Reza2kn/Bev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

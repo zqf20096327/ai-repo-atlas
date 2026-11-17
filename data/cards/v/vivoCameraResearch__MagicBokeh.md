@@ -1,6 +1,6 @@
 # vivoCameraResearch/MagicBokeh
 
-⭐ 60 · Python · 推送 2026-06-17 · [GitHub](https://github.com/vivoCameraResearch/MagicBokeh) · 组织维护
+⭐ 62 · Python · 推送 2026-06-17 · [GitHub](https://github.com/vivoCameraResearch/MagicBokeh) · 组织维护
 
 **基于扩散的高倍变焦散景渲染框架（CVPR 2026 论文代码）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vivoCameraResearch/MagicBokeh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    title "vivoCameraResearch/MagicBokeh 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 58 --> 63
+    line [59, 60, 59, 60, 61, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-02 60（+1）
+2026-10-18 59 → 2026-11-17 62（+3）
 
 
 ---

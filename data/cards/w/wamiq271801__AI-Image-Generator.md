@@ -1,6 +1,6 @@
 # wamiq271801/AI-Image-Generator
 
-⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/wamiq271801/AI-Image-Generator) · [官网](https://main.ai-image-generator-5li.pages.dev) · 个人维护
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-03-10 · [GitHub](https://github.com/wamiq271801/AI-Image-Generator) · [官网](https://main.ai-image-generator-5li.pages.dev) · 个人维护
 
 **基于 Pollinations API 的文生图 Web 应用，Cloudflare Workers 部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wamiq271801/AI-Image-Generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "wamiq271801/AI-Image-Generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jnlt3/blackmarlin
 
-⭐ 104 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jnlt3/blackmarlin) · 个人维护
+⭐ 105 · Rust · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/jnlt3/blackmarlin) · 个人维护
 
 **Rust 编写的 UCI 国际象棋引擎，NNUE 评估与 alpha-beta 搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jnlt3/blackmarlin 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-02"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    title "jnlt3/blackmarlin 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 103 --> 106
+    line [104, 105, 105]
 ```
 
-2026-10-25 104 → 2026-11-02 104（+0）
+2026-10-25 104 → 2026-11-17 105（+1）
 
 
 ---

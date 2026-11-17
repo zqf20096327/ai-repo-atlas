@@ -1,6 +1,6 @@
 # open-data-science/pycourse
 
-⭐ 40 · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/open-data-science/pycourse) · [官网](https://open-data-science.github.io/pycourse/) · 组织维护
+⭐ 40 · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/open-data-science/pycourse) · [官网](https://open-data-science.github.io/pycourse/) · 组织维护
 
 **ODS 社区的 Python 入门课程（俄语）**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "open-data-science/pycourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

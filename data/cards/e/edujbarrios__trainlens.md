@@ -1,6 +1,6 @@
 # edujbarrios/trainlens
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/edujbarrios/trainlens) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/edujbarrios/trainlens) · 个人维护
 
 **分析 ML 训练运行并产出本地确定性证据与报告的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "edujbarrios/trainlens 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 21
-    line [11, 19, 20, 20]
+    title "edujbarrios/trainlens 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 24
+    line [11, 19, 20, 19, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 11 → 2026-11-02 20（+9）
+2026-10-18 11 → 2026-11-17 23（+12）
 
 
 ---

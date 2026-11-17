@@ -1,6 +1,6 @@
 # eliasdabbas/chatnificent
 
-⭐ 21 · Python · 推送 2026-06-04 · [GitHub](https://github.com/eliasdabbas/chatnificent) · [官网](https://chatnificent.com) · 个人维护
+⭐ 22 · Python · 推送 2026-06-04 · [GitHub](https://github.com/eliasdabbas/chatnificent) · [官网](https://chatnificent.com) · 个人维护
 
 **面向 Python 开发者的可替换组件式 LLM 聊天应用框架**
 
@@ -45,13 +45,13 @@ Python 框架，用于构建 LLM 聊天应用：将服务器、UI、LLM 客户�
 
 ```mermaid
 xychart-beta
-    title "eliasdabbas/chatnificent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "eliasdabbas/chatnificent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # plugyawn/Megaprop
 
-⭐ 34 · 推送 2026-06-17 · [GitHub](https://github.com/plugyawn/Megaprop) · 个人维护
+⭐ 35 · 推送 2026-06-17 · [GitHub](https://github.com/plugyawn/Megaprop) · 个人维护
 
 **面向 MoE 大模型训练的预条件优化器跨仓库集成工程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "plugyawn/Megaprop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "plugyawn/Megaprop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

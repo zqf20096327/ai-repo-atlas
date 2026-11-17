@@ -1,6 +1,6 @@
 # Stxqq/aevori-app
 
-⭐ 16 · TypeScript · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/Stxqq/aevori-app) · [官网](https://github.com/Stxqq/aevori-app/releases) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **macOS 本地 AI 聊天与个人 agent 工作区（Ollama 驱动）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stxqq/aevori-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Stxqq/aevori-app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14"]
+    y-axis "stars" 3 --> 17
+    line [16, 5, 4, 4]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-14 4（-12）
 
 
 ---

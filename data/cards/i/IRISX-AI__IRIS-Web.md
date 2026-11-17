@@ -1,6 +1,6 @@
 # IRISX-AI/IRIS-Web
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/IRISX-AI/IRIS-Web) · [官网](https://irisxai.in) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **语音优先的桌面 AI 助手，用语音指令执行系统与应用操作**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IRISX-AI/IRIS-Web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-11 18（+1）
 
 
 ---

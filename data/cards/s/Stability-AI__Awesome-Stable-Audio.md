@@ -1,6 +1,6 @@
 # Stability-AI/Awesome-Stable-Audio
 
-⭐ 39 · 推送 2026-10-14 · [GitHub](https://github.com/Stability-AI/Awesome-Stable-Audio) · 组织维护
+⭐ 41 · 推送 2026-10-14 · [GitHub](https://github.com/Stability-AI/Awesome-Stable-Audio) · 组织维护
 
 **Stable Audio 生态项目与资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/Awesome-Stable-Audio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 39, 39]
+    title "Stability-AI/Awesome-Stable-Audio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

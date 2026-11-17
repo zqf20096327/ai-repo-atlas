@@ -1,6 +1,6 @@
 # postmelee/hyper-waterfall
 
-⭐ 82 · JavaScript · MIT · 推送 2026-07-12 · [GitHub](https://github.com/postmelee/hyper-waterfall) · 个人维护 · 中文 README
+⭐ 81 · JavaScript · MIT · 推送 2026-07-12 · [GitHub](https://github.com/postmelee/hyper-waterfall) · 个人维护 · 中文 README
 
 **人类主导的 AI 编码工作流：把会话上下文沉淀为可复用项目记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "postmelee/hyper-waterfall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    title "postmelee/hyper-waterfall 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 80 --> 83
+    line [82, 81, 81]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-17 81（-1）
 
 
 ---

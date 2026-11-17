@@ -1,6 +1,6 @@
 # driftkit-ai/driftkit-framework
 
-⭐ 50 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/driftkit-ai/driftkit-framework) · 个人维护
+⭐ 51 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/driftkit-ai/driftkit-framework) · 个人维护
 
 **Java LLM 智能体框架：内置提示词版本管理与测试追踪**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "driftkit-ai/driftkit-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    title "driftkit-ai/driftkit-framework 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 49, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhenyi4/ssa
 
-⭐ 32 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/zhenyi4/ssa) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/zhenyi4/ssa) · 组织维护
 
 **论文 SSA 官方实现：用全/稀疏注意力对齐做高效预训练框架**
 
@@ -44,13 +44,13 @@ ICML 2026 论文 SSA（Sparse Sparse Attention）的官方代码库：一个混�
 
 ```mermaid
 xychart-beta
-    title "zhenyi4/ssa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "zhenyi4/ssa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

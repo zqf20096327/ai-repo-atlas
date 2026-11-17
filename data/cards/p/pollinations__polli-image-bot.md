@@ -1,6 +1,6 @@
 # pollinations/polli-image-bot
 
-⭐ 36 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pollinations/polli-image-bot) · [官网](https://discord.com/application-directory/1123551005993357342) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pollinations/polli-image-bot) · [官网](https://discord.com/application-directory/1123551005993357342) · 组织维护
 
 **在 Discord 中通过命令生成 AI 图片的机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pollinations/polli-image-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "pollinations/polli-image-bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

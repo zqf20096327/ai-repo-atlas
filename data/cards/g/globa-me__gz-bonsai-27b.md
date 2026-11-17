@@ -1,6 +1,6 @@
 # globa-me/gz-bonsai-27b
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/globa-me/gz-bonsai-27b) · [官网](https://zakharov.asia/) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/globa-me/gz-bonsai-27b) · [官网](https://zakharov.asia/) · 个人维护
 
 **macOS 本地聊天应用：一键下载运行 PrismML Bonsai 系列模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "globa-me/gz-bonsai-27b 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 12 --> 20
-    line [13, 14, 15, 16, 17, 18, 19, 19]
+    title "globa-me/gz-bonsai-27b 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 15, 16, 17, 18, 19, 17, 20, 20]
 ```
 
-2026-10-18 13 → 2026-11-02 19（+6）
+2026-10-18 13 → 2026-11-17 20（+7）
 
 
 ---

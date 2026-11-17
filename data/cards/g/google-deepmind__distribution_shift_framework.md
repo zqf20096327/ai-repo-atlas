@@ -45,13 +45,13 @@ DeepMind 论文 A Fine-Grained Analysis on Distribution Shift (Wiles et al., 202
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/distribution_shift_framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "google-deepmind/distribution_shift_framework 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 89 --> 92
-    line [90, 91]
+    line [90, 91, 90, 91, 91]
 ```
 
-2026-10-18 90 → 2026-11-02 91（+1）
+2026-10-18 90 → 2026-11-17 91（+1）
 
 
 ---

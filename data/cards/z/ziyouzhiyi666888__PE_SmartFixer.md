@@ -1,6 +1,6 @@
 # ziyouzhiyi666888/PE_SmartFixer
 
-⭐ 11 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ziyouzhiyi666888/PE_SmartFixer) · 个人维护 · 中文 README
+⭐ 11 · Go · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ziyouzhiyi666888/PE_SmartFixer) · 个人维护 · 中文 README
 
 **给维修技术员的 WinPE AI 视觉蓝屏诊断与离线注册表修复工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ziyouzhiyi666888/PE_SmartFixer 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-02"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-28 10 → 2026-11-02 11（+1）
+2026-10-28 10 → 2026-11-17 11（+1）
 
 
 ---

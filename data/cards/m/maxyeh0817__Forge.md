@@ -1,6 +1,6 @@
 # maxyeh0817/Forge
 
-⭐ 34 · 推送 2026-03-16 · [GitHub](https://github.com/maxyeh0817/Forge) · 个人维护 · 中文 README
+⭐ 32 · 推送 2026-03-16 · [GitHub](https://github.com/maxyeh0817/Forge) · 个人维护 · 中文 README
 
 **把单个 Claude Code CLI 编排为多角色 AI 开发团队的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maxyeh0817/Forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "maxyeh0817/Forge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [34, 32, 32]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 32（-2）
 
 
 ---

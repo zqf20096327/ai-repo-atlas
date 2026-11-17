@@ -1,6 +1,6 @@
 # 29-Cu/atrio
 
-⭐ 41 · JavaScript · CC-BY-4.0 · 推送 2026-07-11 · [GitHub](https://github.com/29-Cu/atrio) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · CC-BY-4.0 · 推送 2026-07-11 · [GitHub](https://github.com/29-Cu/atrio) · 个人维护 · 中文 README
 
 **自托管 AI 人格会客厅：朋友凭一次性链接与你的 AI 聊天**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "29-Cu/atrio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "29-Cu/atrio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

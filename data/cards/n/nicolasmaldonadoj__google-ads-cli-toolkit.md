@@ -1,6 +1,6 @@
 # nicolasmaldonadoj/google-ads-cli-toolkit
 
-⭐ 20 · Python · MIT · 推送 2026-05-06 · [GitHub](https://github.com/nicolasmaldonadoj/google-ads-cli-toolkit) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-05-06 · [GitHub](https://github.com/nicolasmaldonadoj/google-ads-cli-toolkit) · 个人维护
 
 **用终端脚本和 Claude Code 接管自己 Google Ads 账户的开源工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicolasmaldonadoj/google-ads-cli-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "nicolasmaldonadoj/google-ads-cli-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

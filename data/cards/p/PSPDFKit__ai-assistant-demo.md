@@ -1,6 +1,6 @@
 # PSPDFKit/ai-assistant-demo
 
-⭐ 68 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/PSPDFKit/ai-assistant-demo) · 组织维护
+⭐ 69 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/PSPDFKit/ai-assistant-demo) · 组织维护
 
 **用自然语言操作 PDF 的 AI 助手演示（Nutrient Web SDK）**
 
@@ -42,13 +42,13 @@ PSPDFKit/Nutrient 官方演示工程：在 Nutrient Web SDK 文档查看器中�
 
 ```mermaid
 xychart-beta
-    title "PSPDFKit/ai-assistant-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "PSPDFKit/ai-assistant-demo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 69（+1）
 
 
 ---

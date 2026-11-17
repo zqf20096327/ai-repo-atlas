@@ -1,6 +1,6 @@
 # Qengineering/Jetson-Nano-Ubuntu-20-image
 
-⭐ 990 · BSD-3-Clause · 推送 2026-07-25 · [GitHub](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) · [官网](https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html) · 个人维护
+⭐ 988 · BSD-3-Clause · 推送 2026-07-25 · [GitHub](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) · [官网](https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html) · 个人维护
 
 **预装深度学习框架的 Jetson Nano Ubuntu 20.04 SD 卡系统镜像**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Qengineering/Jetson-Nano-Ubuntu-20-image 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "Qengineering/Jetson-Nano-Ubuntu-20-image 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 985 --> 991
-    line [986, 987, 988, 989, 990, 990]
+    line [986, 987, 988, 989, 990, 988, 988]
 ```
 
-2026-10-18 986 → 2026-11-02 990（+4）
+2026-10-18 986 → 2026-11-17 988（+2）
 
 
 ---

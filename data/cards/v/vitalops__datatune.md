@@ -1,6 +1,6 @@
 # vitalops/datatune
 
-⭐ 152 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/vitalops/datatune) · [官网](https://github.com/vitalops/datatune) · 组织维护
+⭐ 153 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/vitalops/datatune) · [官网](https://github.com/vitalops/datatune) · 组织维护
 
 **让 LLM/Agent 对超大规模数据做行级语义变换的 Python 库**
 
@@ -44,13 +44,13 @@ Datatune 是一个 Python 数据变换库，面向需要用 LLM 对大量数据�
 
 ```mermaid
 xychart-beta
-    title "vitalops/datatune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 150 --> 153
-    line [151, 152, 152]
+    title "vitalops/datatune 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153, 153]
 ```
 
-2026-10-18 151 → 2026-11-02 152（+1）
+2026-10-18 151 → 2026-11-17 153（+2）
 
 
 ---

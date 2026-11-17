@@ -1,6 +1,6 @@
 # Kaihui-AMD/ComfyUI-MiniMaxH3-MultiGPU
 
-⭐ 16 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/Kaihui-AMD/ComfyUI-MiniMaxH3-MultiGPU) · 组织维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/Kaihui-AMD/ComfyUI-MiniMaxH3-MultiGPU) · 组织维护 · 中文 README
 
 **在 ComfyUI 中用两块 AMD GPU 序列并行推理 MiniMax H3**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kaihui-AMD/ComfyUI-MiniMaxH3-MultiGPU 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "Kaihui-AMD/ComfyUI-MiniMaxH3-MultiGPU 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

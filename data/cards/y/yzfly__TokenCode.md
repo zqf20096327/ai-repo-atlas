@@ -1,6 +1,6 @@
 # yzfly/TokenCode
 
-⭐ 34 · Go · NOASSERTION · 推送 2026-07-07 · [GitHub](https://github.com/yzfly/TokenCode) · 个人维护 · 中文 README
+⭐ 35 · Go · NOASSERTION · 推送 2026-07-07 · [GitHub](https://github.com/yzfly/TokenCode) · 个人维护 · 中文 README
 
 **Go 终端编码 agent：最多 1000 个 agent 并行竞赛解题、裁判择优**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yzfly/TokenCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "yzfly/TokenCode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

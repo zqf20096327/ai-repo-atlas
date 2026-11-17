@@ -1,6 +1,6 @@
 # digitalfactorysn/mcp-dolibarr
 
-⭐ 14 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/digitalfactorysn/mcp-dolibarr) · [官网](https://digitalfactory.sn) · 组织维护
+⭐ 17 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/digitalfactorysn/mcp-dolibarr) · [官网](https://digitalfactory.sn) · 组织维护
 
 **面向 Dolibarr ERP/CRM 的 MCP 服务器，55+ 工具接入 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "digitalfactorysn/mcp-dolibarr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "digitalfactorysn/mcp-dolibarr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

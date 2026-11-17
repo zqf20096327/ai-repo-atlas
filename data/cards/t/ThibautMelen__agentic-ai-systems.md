@@ -1,6 +1,6 @@
 # ThibautMelen/agentic-ai-systems
 
-⭐ 326 · MIT · 推送 2026-07-11 · [GitHub](https://github.com/ThibautMelen/agentic-ai-systems) · 个人维护
+⭐ 330 · MIT · 推送 2026-07-11 · [GitHub](https://github.com/ThibautMelen/agentic-ai-systems) · 个人维护
 
 **以小鸡比喻讲解 AI agent 模式的教程仓库，模式可运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThibautMelen/agentic-ai-systems 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 319 --> 327
-    line [320, 322, 323, 324, 326, 326]
+    title "ThibautMelen/agentic-ai-systems 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 319 --> 331
+    line [320, 322, 323, 324, 326, 323, 326, 328, 329, 330, 330]
 ```
 
-2026-10-18 320 → 2026-11-02 326（+6）
+2026-10-18 320 → 2026-11-17 330（+10）
 
 
 ---

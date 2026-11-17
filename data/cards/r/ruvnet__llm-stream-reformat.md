@@ -1,6 +1,6 @@
 # ruvnet/llm-stream-reformat
 
-⭐ 21 · Rust · MIT · 推送 2026-08-17 · [GitHub](https://github.com/ruvnet/llm-stream-reformat) · 个人维护
+⭐ 22 · Rust · MIT · 推送 2026-08-17 · [GitHub](https://github.com/ruvnet/llm-stream-reformat) · 个人维护
 
 **对流式 LLM 输出做实时整形：分离思考与回答**
 
@@ -43,13 +43,13 @@ Rust + WASM 实现的流式文本转换库：在 token 仍到达的过程中，�
 
 ```mermaid
 xychart-beta
-    title "ruvnet/llm-stream-reformat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "ruvnet/llm-stream-reformat 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

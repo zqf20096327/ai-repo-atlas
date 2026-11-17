@@ -1,6 +1,6 @@
 # sibirbil/LESS
 
-⭐ 24 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/sibirbil/LESS) · [官网](https://less.readthedocs.io/en/latest/getting_started.html) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/sibirbil/LESS) · [官网](https://less.readthedocs.io/en/latest/getting_started.html) · 个人维护
 
 **监督学习算法 LESS：子集局部估计器堆叠的全局预测**
 
@@ -42,12 +42,12 @@ LESS 是一种监督学习算法：在数据集的多个子集上训练局部估
 ```mermaid
 xychart-beta
     title "sibirbil/LESS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

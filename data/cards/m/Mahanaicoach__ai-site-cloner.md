@@ -1,6 +1,6 @@
 # Mahanaicoach/ai-site-cloner
 
-⭐ 32 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Mahanaicoach/ai-site-cloner) · 个人维护
+⭐ 60 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Mahanaicoach/ai-site-cloner) · 个人维护
 
 **让编程 Agent 把任意网站克隆为像素级还原的 Next.js 应用的技能与脚本管线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mahanaicoach/ai-site-cloner 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 18 --> 33
-    line [19, 20, 22, 23, 31, 32]
+    title "Mahanaicoach/ai-site-cloner 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 64
+    line [19, 20, 22, 23, 31, 32, 20, 52, 54, 56, 57, 59, 60, 60]
 ```
 
-2026-10-18 19 → 2026-11-02 32（+13）
+2026-10-18 19 → 2026-11-17 60（+41）
 
 
 ---

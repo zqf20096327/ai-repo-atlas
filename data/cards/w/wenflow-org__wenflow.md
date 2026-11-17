@@ -1,6 +1,6 @@
 # wenflow-org/wenflow
 
-⭐ 62 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/wenflow-org/wenflow) · [官网](https://wenflow.org/) · 个人维护 · 中文 README
+⭐ 72 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/wenflow-org/wenflow) · [官网](https://wenflow.org/) · 个人维护 · 中文 README
 
 **从真实问题出发的 AI 学习平台：对话澄清目标并生成学习路径**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenflow-org/wenflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 55 --> 63
-    line [56, 58, 59, 61, 62, 62]
+    title "wenflow-org/wenflow 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 55 --> 73
+    line [56, 58, 59, 61, 62, 59, 65, 67, 70, 71, 72, 72]
 ```
 
-2026-10-18 56 → 2026-11-02 62（+6）
+2026-10-18 56 → 2026-11-17 72（+16）
 
 
 ---

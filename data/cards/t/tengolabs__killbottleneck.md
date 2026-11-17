@@ -1,6 +1,6 @@
 # tengolabs/killbottleneck
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/tengolabs/killbottleneck) · [官网](https://killbottleneck.com) · 组织维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tengolabs/killbottleneck) · [官网](https://killbottleneck.com) · 组织维护
 
 **可自托管的目标/流程地图工具，含 AI 助手、REST API 与 MCP 服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tengolabs/killbottleneck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "tengolabs/killbottleneck 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 10, 12, 13, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

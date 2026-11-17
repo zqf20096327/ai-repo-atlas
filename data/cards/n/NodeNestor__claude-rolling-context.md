@@ -1,6 +1,6 @@
 # NodeNestor/claude-rolling-context
 
-⭐ 33 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/NodeNestor/claude-rolling-context) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/NodeNestor/claude-rolling-context) · 个人维护
 
 **Claude Code 滚动上下文压缩代理，避免长会话撞上下文墙**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NodeNestor/claude-rolling-context 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "NodeNestor/claude-rolling-context 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

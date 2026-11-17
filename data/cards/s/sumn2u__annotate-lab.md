@@ -1,6 +1,6 @@
 # sumn2u/annotate-lab
 
-⭐ 127 · JavaScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/sumn2u/annotate-lab) · [官网](https://annotate-docs.dwaste.live/) · 个人维护
+⭐ 128 · JavaScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/sumn2u/annotate-lab) · [官网](https://annotate-docs.dwaste.live/) · 个人维护
 
 **开源图像标注工具：为机器学习数据集创建做图像标注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sumn2u/annotate-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    title "sumn2u/annotate-lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 126 --> 129
+    line [127, 128, 128]
 ```
 
-2026-10-18 127 → 2026-11-02 127（+0）
+2026-10-18 127 → 2026-11-17 128（+1）
 
 
 ---

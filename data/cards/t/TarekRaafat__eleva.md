@@ -1,6 +1,6 @@
 # TarekRaafat/eleva
 
-⭐ 54 · JavaScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/TarekRaafat/eleva) · [官网](https://elevajs.com) · 个人维护
+⭐ 55 · JavaScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/TarekRaafat/eleva) · [官网](https://elevajs.com) · 个人维护
 
 **轻量原生 JS 前端框架，内置 AI Agent 插件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TarekRaafat/eleva 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "TarekRaafat/eleva 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 53 --> 56
-    line [54, 55, 54, 54]
+    line [54, 55, 54, 55, 54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

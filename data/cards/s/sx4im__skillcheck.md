@@ -1,6 +1,6 @@
 # sx4im/skillcheck
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sx4im/skillcheck) · [官网](https://skillcheck.page) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/sx4im/skillcheck) · [官网](https://skillcheck.page) · 个人维护
 
 **AI agent 技能与提示词的盲测 A/B 评测工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sx4im/skillcheck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [29, 28, 29]
+    title "sx4im/skillcheck 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [29, 28, 29, 28, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

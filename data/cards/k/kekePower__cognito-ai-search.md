@@ -1,6 +1,6 @@
 # kekePower/cognito-ai-search
 
-⭐ 283 · TypeScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/kekePower/cognito-ai-search) · [官网](https://blog.kekepower.com/blog/2025/may/30/new_release_-_cognito_ai_search_120.html) · 个人维护
+⭐ 284 · TypeScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/kekePower/cognito-ai-search) · [官网](https://blog.kekepower.com/blog/2025/may/30/new_release_-_cognito_ai_search_120.html) · 个人维护
 
 **本地 AI 助手与隐私网页搜索结合的自托管搜索页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kekePower/cognito-ai-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 282 --> 284
-    line [283, 283]
+    title "kekePower/cognito-ai-search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 282 --> 285
+    line [283, 284, 284]
 ```
 
-2026-10-18 283 → 2026-11-02 283（+0）
+2026-10-18 283 → 2026-11-17 284（+1）
 
 
 ---

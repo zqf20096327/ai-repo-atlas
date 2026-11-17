@@ -1,6 +1,6 @@
 # malav2110/explain-diff-html
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/malav2110/explain-diff-html) · [官网](https://malav2110.github.io/explain-diff-html/) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/malav2110/explain-diff-html) · [官网](https://malav2110.github.io/explain-diff-html/) · 个人维护
 
 **把 PR/代码 diff 生成为讲解逻辑流程的单页 HTML 的 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "malav2110/explain-diff-html 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "malav2110/explain-diff-html 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # dayuwang401/spectral-orthogonal-exploration
 
-⭐ 128 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/dayuwang401/spectral-orthogonal-exploration) · [官网](https://aclanthology.org/2026.acl-long.761.pdf) · 组织维护
+⭐ 194 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/dayuwang401/spectral-orthogonal-exploration) · [官网](https://aclanthology.org/2026.acl-long.761.pdf) · 组织维护
 
 **ACL 2026 论文官方代码：训练无关的推理时扩展方法 SOE**
 
@@ -45,13 +45,13 @@ Baidu 与南洋理工作者团队的论文官方实现（ACL 2026 Oral）。SOE 
 
 ```mermaid
 xychart-beta
-    title "dayuwang401/spectral-orthogonal-exploration 星数(近 12 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1 --> 139
-    line [12, 30, 39, 49, 64, 74, 84, 94, 100, 113, 125, 128]
+    title "dayuwang401/spectral-orthogonal-exploration 星数(近 16 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 0 --> 212
+    line [12, 30, 39, 49, 64, 74, 84, 94, 100, 113, 125, 128, 49, 191, 194, 194]
 ```
 
-2026-10-19 12 → 2026-11-02 128（+116）
+2026-10-19 12 → 2026-11-17 194（+182）
 
 
 ---

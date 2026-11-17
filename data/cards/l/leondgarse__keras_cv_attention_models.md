@@ -1,6 +1,6 @@
 # leondgarse/keras_cv_attention_models
 
-⭐ 625 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/leondgarse/keras_cv_attention_models) · 个人维护
+⭐ 624 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/leondgarse/keras_cv_attention_models) · 个人维护
 
 **Keras/PyTorch 双后端的视觉模型实现库：识别、检测等预训练模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leondgarse/keras_cv_attention_models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 624 --> 626
-    line [625, 625]
+    title "leondgarse/keras_cv_attention_models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 623 --> 626
+    line [625, 624, 624]
 ```
 
-2026-10-18 625 → 2026-11-02 625（+0）
+2026-10-18 625 → 2026-11-17 624（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HemulGM/DelphiOpenAI
 
-⭐ 317 · Pascal · MIT · 推送 2026-07-14 · [GitHub](https://github.com/HemulGM/DelphiOpenAI) · 个人维护
+⭐ 320 · Pascal · MIT · 推送 2026-07-14 · [GitHub](https://github.com/HemulGM/DelphiOpenAI) · 个人维护
 
 **Delphi 语言的 OpenAI 兼容 API 封装库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HemulGM/DelphiOpenAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 314 --> 318
-    line [315, 316, 317, 317]
+    title "HemulGM/DelphiOpenAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 314 --> 321
+    line [315, 316, 317, 316, 319, 320, 319, 320, 320]
 ```
 
-2026-10-18 315 → 2026-11-02 317（+2）
+2026-10-18 315 → 2026-11-17 320（+5）
 
 
 ---

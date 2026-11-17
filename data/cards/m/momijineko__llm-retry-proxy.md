@@ -1,6 +1,6 @@
 # momijineko/llm-retry-proxy
 
-⭐ 22 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/momijineko/llm-retry-proxy) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/momijineko/llm-retry-proxy) · 个人维护 · 中文 README
 
 **LLM API 本地反向代理：上游过载/限流时自动重试与多 key 切换**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "momijineko/llm-retry-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 22（-1）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

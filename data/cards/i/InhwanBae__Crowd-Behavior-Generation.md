@@ -1,6 +1,6 @@
 # InhwanBae/Crowd-Behavior-Generation
 
-⭐ 55 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/InhwanBae/Crowd-Behavior-Generation) · [官网](https://ihbae.com/publication/crowdes/) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/InhwanBae/Crowd-Behavior-Generation) · [官网](https://ihbae.com/publication/crowdes/) · 组织维护
 
 **CVPR 2025 论文代码：从单张场景图生成持续人群轨迹**
 
@@ -44,13 +44,13 @@ Continuous Locomotive Crowd Behavior Generation（CVPR 2025）官方实现，含
 
 ```mermaid
 xychart-beta
-    title "InhwanBae/Crowd-Behavior-Generation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "InhwanBae/Crowd-Behavior-Generation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [55, 54, 54]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 54（-1）
 
 
 ---

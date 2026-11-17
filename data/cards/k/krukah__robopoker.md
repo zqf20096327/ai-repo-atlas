@@ -1,6 +1,6 @@
 # krukah/robopoker
 
-⭐ 229 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/krukah/robopoker) · [官网](https://robopoker.io) · 个人维护
+⭐ 233 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/krukah/robopoker) · [官网](https://robopoker.io) · 个人维护
 
 **Rust 从零实现超人类级扑克 AI：CFR 求解、抽象与对战引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "krukah/robopoker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 225 --> 230
-    line [226, 228, 229, 229]
+    title "krukah/robopoker 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 225 --> 234
+    line [226, 228, 229, 226, 232, 233, 232, 233, 233]
 ```
 
-2026-10-18 226 → 2026-11-02 229（+3）
+2026-10-18 226 → 2026-11-17 233（+7）
 
 
 ---

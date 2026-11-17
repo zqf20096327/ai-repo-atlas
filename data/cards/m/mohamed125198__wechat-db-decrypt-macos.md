@@ -1,6 +1,6 @@
 # mohamed125198/wechat-db-decrypt-macos
 
-⭐ 19 · Python · WTFPL · 推送 2026-10-14 · [GitHub](https://github.com/mohamed125198/wechat-db-decrypt-macos) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **macOS Apple 芯片上解密微信数据库文件的工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | WTFPL |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohamed125198/wechat-db-decrypt-macos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "mohamed125198/wechat-db-decrypt-macos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-15 20（+2）
 
 
 ---

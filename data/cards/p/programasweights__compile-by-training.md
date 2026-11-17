@@ -1,6 +1,6 @@
 # programasweights/compile-by-training
 
-⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/programasweights/compile-by-training) · [官网](https://programasweights.com/playground?compiler=paw-ft-bs48) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/programasweights/compile-by-training) · [官网](https://programasweights.com/playground?compiler=paw-ft-bs48) · 组织维护
 
 **把自然语言函数描述编译为可本地运行的神经程序（.paw）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "programasweights/compile-by-training 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

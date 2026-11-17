@@ -1,6 +1,6 @@
 # AlibabaResearch/AdvancedLiterateMachinery
 
-⭐ 1,834 · C++ · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) · 组织维护 · 中文 README
+⭐ 1,832 · C++ · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) · 组织维护 · 中文 README
 
 **阿里读光OCR团队的文档智能研究论文与算法集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlibabaResearch/AdvancedLiterateMachinery 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1832 --> 1835
-    line [1833, 1834, 1833, 1834, 1834]
+    title "AlibabaResearch/AdvancedLiterateMachinery 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 1831 --> 1835
+    line [1833, 1834, 1833, 1834, 1833, 1832, 1832]
 ```
 
-2026-10-18 1,833 → 2026-11-02 1,834（+1）
+2026-10-18 1,833 → 2026-11-17 1,832（-1）
 
 
 ---

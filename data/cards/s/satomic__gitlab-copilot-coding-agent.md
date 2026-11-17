@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "satomic/gitlab-copilot-coding-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "satomic/gitlab-copilot-coding-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

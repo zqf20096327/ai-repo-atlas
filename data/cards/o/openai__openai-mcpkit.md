@@ -1,6 +1,6 @@
 # openai/openai-mcpkit
 
-⭐ 86 · Python · 推送 2026-08-07 · [GitHub](https://github.com/openai/openai-mcpkit) · 组织维护
+⭐ 88 · Python · 推送 2026-08-07 · [GitHub](https://github.com/openai/openai-mcpkit) · 组织维护
 
 **企业级带认证 MCP 服务器脚手架，向 ChatGPT 接入专有数据**
 
@@ -44,13 +44,13 @@ OpenAI 维护的 Model Context Protocol 服务器构建蓝图：提供 Python �
 
 ```mermaid
 xychart-beta
-    title "openai/openai-mcpkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 82 --> 87
-    line [83, 85, 86, 86]
+    title "openai/openai-mcpkit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 82 --> 89
+    line [83, 85, 86, 85, 87, 88, 88]
 ```
 
-2026-10-18 83 → 2026-11-02 86（+3）
+2026-10-18 83 → 2026-11-17 88（+5）
 
 
 ---

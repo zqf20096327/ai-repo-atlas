@@ -1,6 +1,6 @@
 # tsawler/tabula
 
-⭐ 30 · Go · MIT · 推送 2026-06-29 · [GitHub](https://github.com/tsawler/tabula) · 个人维护
+⭐ 31 · Go · MIT · 推送 2026-06-29 · [GitHub](https://github.com/tsawler/tabula) · 个人维护
 
 **Go 文本提取库：多格式文档抽取文本与 RAG 分块**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tsawler/tabula 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30]
+    title "tsawler/tabula 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

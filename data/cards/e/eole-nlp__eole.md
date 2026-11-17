@@ -1,6 +1,6 @@
 # eole-nlp/eole
 
-⭐ 199 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/eole-nlp/eole) · [官网](https://eole-nlp.github.io/eole) · 组织维护
+⭐ 202 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/eole-nlp/eole) · [官网](https://eole-nlp.github.io/eole) · 组织维护
 
 **给NLP研究者的开源语言建模工具箱：训练/微调/评测/推理一体化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eole-nlp/eole 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 194 --> 200
-    line [195, 197, 198, 199]
+    title "eole-nlp/eole 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 194 --> 203
+    line [195, 197, 198, 199, 197, 202, 202]
 ```
 
-2026-10-18 195 → 2026-11-02 199（+4）
+2026-10-18 195 → 2026-11-17 202（+7）
 
 
 ---

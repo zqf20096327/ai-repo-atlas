@@ -1,6 +1,6 @@
 # xKevIsDev/nextjs-bolt
 
-⭐ 21 · TypeScript · 推送 2025-11-20 · [GitHub](https://github.com/xKevIsDev/nextjs-bolt) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Next.js 实现的 Bolt：对话式 AI 全栈 Web 应用生成器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xKevIsDev/nextjs-bolt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-15 21（+0）
 
 
 ---

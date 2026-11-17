@@ -1,6 +1,6 @@
 # lynote-ai/lynote-notes
 
-⭐ 13 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/lynote-ai/lynote-notes) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/lynote-ai/lynote-notes) · 组织维护 · 中文 README
 
 **本地优先的双语 AI 笔记工具：把文档音视频转成可溯源笔记**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lynote-ai/lynote-notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "lynote-ai/lynote-notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

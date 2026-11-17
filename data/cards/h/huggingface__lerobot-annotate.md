@@ -1,6 +1,6 @@
 # huggingface/lerobot-annotate
 
-⭐ 45 · Python · 推送 2026-01-29 · [GitHub](https://github.com/huggingface/lerobot-annotate) · 组织维护
+⭐ 46 · Python · 推送 2026-01-29 · [GitHub](https://github.com/huggingface/lerobot-annotate) · 组织维护
 
 **为 LeRobot 数据集添加子任务与对话标注的 Web 界面**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的轻量级 Web 标注工具：连接本地或 Hub 上的任
 
 ```mermaid
 xychart-beta
-    title "huggingface/lerobot-annotate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "huggingface/lerobot-annotate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

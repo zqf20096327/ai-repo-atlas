@@ -1,6 +1,6 @@
 # torchsynth/torchsynth
 
-⭐ 387 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/torchsynth/torchsynth) · [官网](https://torchsynth.rtfd.io/) · 组织维护
+⭐ 388 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/torchsynth/torchsynth) · [官网](https://torchsynth.rtfd.io/) · 组织维护
 
 **给音频 ML 研究者的 PyTorch 模块化合成器，GPU 可选、可微分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "torchsynth/torchsynth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "torchsynth/torchsynth 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 386 --> 389
-    line [388, 387, 387]
+    line [388, 387, 388, 388]
 ```
 
-2026-10-18 388 → 2026-11-02 387（-1）
+2026-10-18 388 → 2026-11-17 388（+0）
 
 
 ---

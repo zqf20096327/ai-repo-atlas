@@ -1,6 +1,6 @@
 # polyaxon/mloperator
 
-⭐ 95 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/polyaxon/mloperator) · [官网](https://polyaxon.com) · 组织维护
+⭐ 95 · Go · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/polyaxon/mloperator) · [官网](https://polyaxon.com) · 组织维护
 
 **面向 Polyaxon 的 Kubernetes 机器学习运算符与控制器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "polyaxon/mloperator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 95（+0）
 
 
 ---

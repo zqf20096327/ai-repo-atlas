@@ -1,6 +1,6 @@
 # battysh/batty
 
-⭐ 60 · Rust · MIT · 推送 2026-08-18 · [GitHub](https://github.com/battysh/batty) · [官网](https://batty.sh) · 个人维护
+⭐ 61 · Rust · MIT · 推送 2026-08-18 · [GitHub](https://github.com/battysh/batty) · [官网](https://batty.sh) · 个人维护
 
 **软件团队的分层编码 Agent 监督执行控制平面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "battysh/batty 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 57 --> 61
-    line [58, 59, 60, 60]
+    title "battysh/batty 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 60, 61, 61]
 ```
 
-2026-10-18 58 → 2026-11-02 60（+2）
+2026-10-18 58 → 2026-11-17 61（+3）
 
 
 ---

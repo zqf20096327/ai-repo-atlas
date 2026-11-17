@@ -1,6 +1,6 @@
 # Chaoses-Ib/ComfyUI_Ib_CustomNodes
 
-⭐ 59 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/Chaoses-Ib/ComfyUI_Ib_CustomNodes) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/Chaoses-Ib/ComfyUI_Ib_CustomNodes) · 个人维护
 
 **ComfyUI 自定义节点集：按路径加载图像与 PIL 图像转换**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chaoses-Ib/ComfyUI_Ib_CustomNodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "Chaoses-Ib/ComfyUI_Ib_CustomNodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [59, 58, 58]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 58（-1）
 
 
 ---

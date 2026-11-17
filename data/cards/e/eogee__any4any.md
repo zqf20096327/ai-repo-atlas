@@ -1,6 +1,6 @@
 # eogee/any4any
 
-⭐ 73 · Python · MIT · 推送 2025-11-10 · [GitHub](https://github.com/eogee/any4any) · [官网](https://eogee.com) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **企业级多模态 AI 平台：LLM 对话、数字人、NL2SQL、语音与知识库**
 
@@ -11,7 +11,7 @@ any4any 是自托管的多模态 AI 系统，集成大语言模型对话（支�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -48,12 +48,12 @@ any4any 是自托管的多模态 AI 系统，集成大语言模型对话（支�
 ```mermaid
 xychart-beta
     title "eogee/any4any 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-07"]
     y-axis "stars" 71 --> 74
     line [72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-07 73（+1）
 
 
 ---

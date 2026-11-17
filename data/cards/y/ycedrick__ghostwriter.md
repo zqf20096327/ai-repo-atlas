@@ -1,6 +1,6 @@
 # ycedrick/ghostwriter
 
-⭐ 51 · TypeScript · MIT · 推送 2026-04-17 · [GitHub](https://github.com/ycedrick/ghostwriter) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-04-17 · [GitHub](https://github.com/ycedrick/ghostwriter) · 个人维护
 
 **面向 AI 编程代理的 AST 代码裁剪工具，压缩大文件上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ycedrick/ghostwriter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 50 --> 58
-    line [57, 51, 51]
+    title "ycedrick/ghostwriter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 58
+    line [57, 51, 38, 38]
 ```
 
-2026-10-18 57 → 2026-11-02 51（-6）
+2026-10-18 57 → 2026-11-17 38（-19）
 
 
 ---

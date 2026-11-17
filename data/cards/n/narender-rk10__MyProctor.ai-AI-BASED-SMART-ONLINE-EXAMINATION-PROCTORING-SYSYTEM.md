@@ -1,6 +1,6 @@
 # narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM
 
-⭐ 236 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM) · 个人维护
+⭐ 237 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM) · 个人维护
 
 **AI 在线考试监考系统：人脸识别、视线估计与作弊检测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 235 --> 237
-    line [236, 236]
+    title "narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 235 --> 238
+    line [236, 237, 237]
 ```
 
-2026-10-31 236 → 2026-11-02 236（+0）
+2026-10-31 236 → 2026-11-17 237（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sashakolpakov/dire-jax
 
-⭐ 29 · Python · Apache-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/sashakolpakov/dire-jax) · [官网](https://arxiv.org/abs/2503.03156) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 JAX 的降维库：保持全局结构的高维数据可视化**
 
@@ -11,7 +11,7 @@ Python 降维包 DiRe，用随机投影加基于度量的图方法将高维嵌�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Python 降维包 DiRe，用随机投影加基于度量的图方法将高维嵌�
 ```mermaid
 xychart-beta
     title "sashakolpakov/dire-jax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-14"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-14 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hakku/finnish-humanizer
 
-⭐ 21 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/Hakku/finnish-humanizer) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/Hakku/finnish-humanizer) · 个人维护
 
 **去除芬兰语 AI 文本痕迹的技能包：27 个模式改写为自然文风**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hakku/finnish-humanizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "Hakku/finnish-humanizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

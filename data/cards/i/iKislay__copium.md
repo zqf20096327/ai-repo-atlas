@@ -1,6 +1,6 @@
 # iKislay/copium
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/iKislay/copium) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/iKislay/copium) · 个人维护
 
 **面向 AI 编程工具的 LLM 上下文压缩本地代理**
 
@@ -45,13 +45,13 @@ Copium 是部署在 agent 与 AI 提供商之间的本地压缩代理：拦截 C
 
 ```mermaid
 xychart-beta
-    title "iKislay/copium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "iKislay/copium 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

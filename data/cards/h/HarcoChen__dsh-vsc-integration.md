@@ -1,6 +1,6 @@
 # HarcoChen/dsh-vsc-integration
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/HarcoChen/dsh-vsc-integration) · [官网](https://marketplace.visualstudio.com/items?itemName=HarcoChen.dsh-vsc-integration) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/HarcoChen/dsh-vsc-integration) · [官网](https://marketplace.visualstudio.com/items?itemName=HarcoChen.dsh-vsc-integration) · 个人维护 · 中文 README
 
 **在 VS Code 中使用 DeepSeek Harness 编程代理的扩展**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "HarcoChen/dsh-vsc-integration 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "HarcoChen/dsh-vsc-integration 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 25
+    line [18, 19, 20, 22, 24, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 23（+5）
 
 
 ---

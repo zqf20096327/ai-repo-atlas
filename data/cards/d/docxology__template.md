@@ -1,6 +1,6 @@
 # docxology/template
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/docxology/template) · [官网](https://doi.org/10.5281/zenodo.19139090) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **可复现计算研究的项目模板：17 阶段流水线与出版链**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "docxology/template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-07 20（+0）
 
 
 ---

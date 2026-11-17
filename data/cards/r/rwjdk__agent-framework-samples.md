@@ -1,6 +1,6 @@
 # rwjdk/agent-framework-samples
 
-⭐ 335 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rwjdk/agent-framework-samples) · [官网](https://youtube.com/playlist?list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx) · 个人维护
+⭐ 336 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/rwjdk/agent-framework-samples) · [官网](https://youtube.com/playlist?list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx) · 个人维护
 
 **微软 Agent Framework 的 C# 示例代码集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "rwjdk/agent-framework-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 332 --> 336
-    line [333, 334, 335]
+    title "rwjdk/agent-framework-samples 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 332 --> 337
+    line [333, 334, 335, 334, 336, 336]
 ```
 
-2026-10-18 333 → 2026-11-02 335（+2）
+2026-10-18 333 → 2026-11-17 336（+3）
 
 
 ---

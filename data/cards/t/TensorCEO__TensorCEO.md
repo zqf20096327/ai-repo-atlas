@@ -1,6 +1,6 @@
 # TensorCEO/TensorCEO
 
-⭐ 154 · 推送 2026-03-29 · [GitHub](https://github.com/TensorCEO/TensorCEO) · 个人维护 · 中文 README
+⭐ 141 · 推送 2026-03-29 · [GitHub](https://github.com/TensorCEO/TensorCEO) · 个人维护 · 中文 README
 
 **计算机毕设源码与定制指导服务：AI 模型+系统开发全流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TensorCEO/TensorCEO 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 152 --> 162
-    line [161, 154, 153, 154, 154]
+    title "TensorCEO/TensorCEO 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 139 --> 163
+    line [161, 154, 153, 154, 141, 141]
 ```
 
-2026-10-18 161 → 2026-11-02 154（-7）
+2026-10-18 161 → 2026-11-17 141（-20）
 
 
 ---

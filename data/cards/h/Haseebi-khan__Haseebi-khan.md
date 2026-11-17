@@ -1,6 +1,6 @@
 # Haseebi-khan/Haseebi-khan
 
-⭐ 15 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Haseebi-khan/Haseebi-khan) · 个人维护
+⭐ 17 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Haseebi-khan/Haseebi-khan) · 个人维护
 
 **个人简历型 Profile 仓库：计算机视觉与边缘 AI 学生作品集**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haseebi-khan/Haseebi-khan 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "Haseebi-khan/Haseebi-khan 星数(近 5 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17, 17]
 ```
 
-2026-10-28 14 → 2026-11-02 15（+1）
+2026-10-28 14 → 2026-11-17 17（+3）
 
 
 ---

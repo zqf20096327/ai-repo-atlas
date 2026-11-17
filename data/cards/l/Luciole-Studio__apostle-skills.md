@@ -1,6 +1,6 @@
 # Luciole-Studio/apostle-skills
 
-⭐ 13 · AGPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/Luciole-Studio/apostle-skills) · [官网](https://space.bilibili.com/1878125647) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向 agent 的思考/阅读/研究/翻译技能集（11 个 SKILL.md）**
 
@@ -11,7 +11,7 @@ Luciole Studio 维护的 agent 技能合集：11 个自包含的 SKILL.md 格式
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Luciole Studio 维护的 agent 技能合集：11 个自包含的 SKILL.md 格式
 
 ```mermaid
 xychart-beta
-    title "Luciole-Studio/apostle-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    title "Luciole-Studio/apostle-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    line [11, 12, 13, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-07 12（+1）
 
 
 ---

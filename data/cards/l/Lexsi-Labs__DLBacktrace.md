@@ -1,6 +1,6 @@
 # Lexsi-Labs/DLBacktrace
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/Lexsi-Labs/DLBacktrace) · [官网](https://dlbacktrace.lexsi.ai/) · 组织维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Lexsi-Labs/DLBacktrace) · [官网](https://dlbacktrace.lexsi.ai/) · 组织维护
 
 **给深度学习研究者的模型无关可解释性框架：逐层相关性溯源**
 
@@ -45,12 +45,12 @@ Lexsi Labs 开发的模型无关深度学习可解释性框架：通过逐层相
 ```mermaid
 xychart-beta
     title "Lexsi-Labs/DLBacktrace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

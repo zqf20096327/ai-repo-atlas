@@ -1,6 +1,6 @@
 # Kevin-Liu-01/Loop
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Kevin-Liu-01/Loop) · [官网](https://loooooop.vercel.app) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Kevin-Liu-01/Loop) · [官网](https://loooooop.vercel.app) · 个人维护
 
 **自动追踪信息源并自我更新的 agent 技能运维台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kevin-Liu-01/Loop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Kevin-Liu-01/Loop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 17（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # songqiang321/Awesome-AI-Papers
 
-⭐ 99 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/songqiang321/Awesome-AI-Papers) · 个人维护
+⭐ 100 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/songqiang321/Awesome-AI-Papers) · 个人维护
 
 **AI 领域论文与代码合集（awesome list），覆盖 NLP/LLM 等**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "songqiang321/Awesome-AI-Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    title "songqiang321/Awesome-AI-Papers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 98 --> 101
+    line [99, 100, 100]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 100（+1）
 
 
 ---

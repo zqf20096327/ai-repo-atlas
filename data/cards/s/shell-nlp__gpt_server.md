@@ -1,6 +1,6 @@
 # shell-nlp/gpt_server
 
-⭐ 253 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/shell-nlp/gpt_server) · [官网](https://blog.csdn.net/q506610466/article/details/151360406) · 个人维护 · 中文 README
+⭐ 254 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/shell-nlp/gpt_server) · [官网](https://blog.csdn.net/q506610466/article/details/151360406) · 个人维护 · 中文 README
 
 **多模态模型统一 OpenAI 接口服务框架：LLM/Embedding/Reranker/ASR/TTS/文生图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shell-nlp/gpt_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 252 --> 254
-    line [253, 253]
+    title "shell-nlp/gpt_server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 252 --> 255
+    line [253, 254, 254]
 ```
 
-2026-10-18 253 → 2026-11-02 253（+0）
+2026-10-18 253 → 2026-11-17 254（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # scarletkc/agents
 
-⭐ 227 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/scarletkc/agents) · 个人维护
+⭐ 228 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/scarletkc/agents) · 个人维护
 
 **面向 AI 编码 agent 的共享规范与可复用技能集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "scarletkc/agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 223 --> 228
-    line [225, 224, 226, 227, 227]
+    title "scarletkc/agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 223 --> 229
+    line [225, 224, 226, 227, 225, 227, 228, 228]
 ```
 
-2026-10-18 225 → 2026-11-02 227（+2）
+2026-10-18 225 → 2026-11-17 228（+3）
 
 
 ---

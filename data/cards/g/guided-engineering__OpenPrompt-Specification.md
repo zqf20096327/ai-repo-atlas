@@ -1,6 +1,6 @@
 # guided-engineering/OpenPrompt-Specification
 
-⭐ 27 · 推送 2026-05-17 · [GitHub](https://github.com/guided-engineering/OpenPrompt-Specification) · 组织维护
+⭐ 28 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/guided-engineering/OpenPrompt-Specification) · 组织维护
 
 **面向工程师的规范驱动开发（SDD）框架：用版本化 YAML 提示词编排 AI 代理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guided-engineering/OpenPrompt-Specification 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "guided-engineering/OpenPrompt-Specification 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

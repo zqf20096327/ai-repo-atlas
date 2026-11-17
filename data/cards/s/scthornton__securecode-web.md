@@ -1,6 +1,6 @@
 # scthornton/securecode-web
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/scthornton/securecode-web) · 个人维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-07-06 · [GitHub](https://github.com/scthornton/securecode-web) · 个人维护
 
 **面向 AI 训练的 Web 安全漏洞对话数据集（1,650 例）**
 
@@ -44,13 +44,13 @@ SecureCode Web 是一个 Web 与应用安全训练数据集：v2.6 共 1,650 条
 
 ```mermaid
 xychart-beta
-    title "scthornton/securecode-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "scthornton/securecode-web 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 12
+    line [11, 10, 10]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 10（-1）
 
 
 ---

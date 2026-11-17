@@ -1,6 +1,6 @@
 # openai/openai-chatkit-starter-app
 
-⭐ 890 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/openai/openai-chatkit-starter-app) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
+⭐ 895 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/openai/openai-chatkit-starter-app) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
 
 **OpenAI ChatKit 集成的入门示例应用模板**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-chatkit-starter-app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 883 --> 891
-    line [884, 885, 886, 887, 886, 888, 889, 890]
+    title "openai/openai-chatkit-starter-app 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 883 --> 896
+    line [884, 885, 886, 887, 886, 888, 889, 890, 887, 894, 895, 895]
 ```
 
-2026-10-18 884 → 2026-11-02 890（+6）
+2026-10-18 884 → 2026-11-17 895（+11）
 
 
 ---

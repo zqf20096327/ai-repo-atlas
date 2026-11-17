@@ -1,6 +1,6 @@
 # manifest-cyber/aibom
 
-⭐ 47 · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/manifest-cyber/aibom) · [官网](https://www.manifestcyber.com) · 组织维护
+⭐ 48 · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/manifest-cyber/aibom) · [官网](https://www.manifestcyber.com) · 组织维护
 
 **AI/ML 模型物料清单（AIBOM）的社区 wiki 与规范提案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "manifest-cyber/aibom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "manifest-cyber/aibom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

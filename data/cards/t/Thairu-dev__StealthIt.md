@@ -1,6 +1,6 @@
 # Thairu-dev/StealthIt
 
-⭐ 17 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Thairu-dev/StealthIt) · [官网](https://stealthit-web.vercel.app/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Thairu-dev/StealthIt) · [官网](https://stealthit-web.vercel.app/) · 个人维护
 
 **悬浮式隐形 AI 桌面助手：实时会议转录与屏幕分析，屏幕共享中不可见**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thairu-dev/StealthIt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "Thairu-dev/StealthIt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

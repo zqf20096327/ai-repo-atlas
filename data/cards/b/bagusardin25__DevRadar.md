@@ -1,6 +1,6 @@
 # bagusardin25/DevRadar
 
-⭐ 15 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bagusardin25/DevRadar) · [官网](https://dev-radar-rho.vercel.app) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/bagusardin25/DevRadar) · [官网](https://dev-radar-rho.vercel.app) · 个人维护
 
 **开源黑客松与 AI 免费额度聚合目录，带多级核验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bagusardin25/DevRadar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "bagusardin25/DevRadar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhaorw02/DeepMesh
 
-⭐ 736 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/zhaorw02/DeepMesh) · [官网](https://zhaorw02.github.io/DeepMesh/) · 组织维护
+⭐ 739 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/zhaorw02/DeepMesh) · [官网](https://zhaorw02.github.io/DeepMesh/) · 组织维护
 
 **点云条件下的自回归网格生成模型（ICCV 2025）**
 
@@ -44,13 +44,13 @@ ICCV 2025 论文 DeepMesh 的官方代码：基于自回归 transformer 与强�
 
 ```mermaid
 xychart-beta
-    title "zhaorw02/DeepMesh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 734 --> 737
-    line [736, 735, 736, 736]
+    title "zhaorw02/DeepMesh 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 734 --> 740
+    line [736, 735, 736, 735, 738, 737, 739, 739]
 ```
 
-2026-10-18 736 → 2026-11-02 736（+0）
+2026-10-18 736 → 2026-11-17 739（+3）
 
 
 ---

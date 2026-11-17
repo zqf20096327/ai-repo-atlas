@@ -1,6 +1,6 @@
 # DareDev256/fcp-mcp-server
 
-⭐ 131 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DareDev256/fcp-mcp-server) · [官网](https://pypi.org/project/fcp-mcp-server/) · 个人维护
+⭐ 154 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DareDev256/fcp-mcp-server) · [官网](https://pypi.org/project/fcp-mcp-server/) · 个人维护
 
 **让 Claude 读写 Final Cut Pro XML 时间线的 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DareDev256/fcp-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 124 --> 132
-    line [125, 127, 129, 131, 130, 131, 131]
+    title "DareDev256/fcp-mcp-server 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 123 --> 156
+    line [125, 127, 129, 131, 130, 131, 139, 145, 147, 149, 150, 151, 154, 154]
 ```
 
-2026-10-18 125 → 2026-11-02 131（+6）
+2026-10-18 125 → 2026-11-17 154（+29）
 
 
 ---

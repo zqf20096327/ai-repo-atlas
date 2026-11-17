@@ -1,6 +1,6 @@
 # sandner-art/ai-research
 
-⭐ 66 · Batchfile · GPL-3.0 · 推送 2025-11-15 · [GitHub](https://github.com/sandner-art/ai-research) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 图像生成训练的配置与工作流设置集合**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "sandner-art/ai-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-10 66（+0）
 
 
 ---

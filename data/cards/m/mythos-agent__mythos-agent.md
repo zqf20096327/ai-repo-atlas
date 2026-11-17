@@ -1,6 +1,6 @@
 # mythos-agent/mythos-agent
 
-⭐ 48 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/mythos-agent/mythos-agent) · [官网](https://mythos-agent.com) · 组织维护 · 中文 README
+⭐ 49 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/mythos-agent/mythos-agent) · [官网](https://mythos-agent.com) · 组织维护 · 中文 README
 
 **面向开发者的 AI 代码安全审查工具，检测漏洞并生成修复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mythos-agent/mythos-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 44 --> 49
-    line [45, 46, 47, 48, 48]
+    title "mythos-agent/mythos-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 44 --> 50
+    line [45, 46, 47, 48, 47, 48, 49, 49]
 ```
 
-2026-10-18 45 → 2026-11-02 48（+3）
+2026-10-18 45 → 2026-11-17 49（+4）
 
 
 ---

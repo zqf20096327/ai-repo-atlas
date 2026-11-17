@@ -1,6 +1,6 @@
 # im-syn/SafeVision
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/im-syn/SafeVision) · 个人维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/im-syn/SafeVision) · 个人维护
 
 **本地 NSFW 检测与打码工具包：处理图片/视频/摄像头/屏幕/API**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "im-syn/SafeVision 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 81 --> 86
-    line [82, 84, 85, 85]
+    title "im-syn/SafeVision 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 81 --> 87
+    line [82, 84, 85, 86, 86]
 ```
 
-2026-10-18 82 → 2026-11-02 85（+3）
+2026-10-18 82 → 2026-11-17 86（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # shadowrootdev/awesome-agent-skills-mcp
 
-⭐ 27 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/shadowrootdev/awesome-agent-skills-mcp) · [官网](https://www.npmjs.com/package/awesome-agent-skills-mcp) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/shadowrootdev/awesome-agent-skills-mcp) · [官网](https://www.npmjs.com/package/awesome-agent-skills-mcp) · 个人维护
 
 **MCP server：向 AI 助手分发 100+ 策展 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shadowrootdev/awesome-agent-skills-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "shadowrootdev/awesome-agent-skills-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

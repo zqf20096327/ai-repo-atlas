@@ -1,6 +1,6 @@
 # osslab-pku/gfi-bot
 
-⭐ 57 · Python · GPL-3.0 · 推送 2026-04-21 · [GitHub](https://github.com/osslab-pku/gfi-bot) · [官网](https://gfibot.osslab-pku.org) · 组织维护 · 中文 README
+⭐ 58 · Python · GPL-3.0 · 推送 2026-04-21 · [GitHub](https://github.com/osslab-pku/gfi-bot) · [官网](https://gfibot.osslab-pku.org) · 组织维护 · 中文 README
 
 **给 GitHub 项目自动发现并标注 good first issue 的 ML 机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "osslab-pku/gfi-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    title "osslab-pku/gfi-bot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58, 58]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 58（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # better-vault/better-vault
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/better-vault/better-vault) · [官网](https://better-vault.dev) · 组织维护
+⭐ 97 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/better-vault/better-vault) · [官网](https://better-vault.dev) · 组织维护
 
 **开源 NotebookLM 替代品：用自选模型与资料对话并生成学习材料**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "better-vault/better-vault 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 4 --> 13
-    line [5, 9, 10, 12, 12]
+    title "better-vault/better-vault 星数(近 12 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 106
+    line [5, 9, 10, 12, 14, 37, 47, 50, 51, 53, 97, 97]
 ```
 
-2026-10-28 5 → 2026-11-02 12（+7）
+2026-10-28 5 → 2026-11-17 97（+92）
 
 
 ---

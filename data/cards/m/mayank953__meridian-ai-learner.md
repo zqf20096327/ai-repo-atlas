@@ -1,6 +1,6 @@
 # mayank953/meridian-ai-learner
 
-⭐ 15 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/mayank953/meridian-ai-learner) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/mayank953/meridian-ai-learner) · 个人维护
 
 **面向学习者的双功能 AI Web 应用：文档问答与采购审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mayank953/meridian-ai-learner 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 7 --> 16
-    line [8, 9, 11, 12, 13, 14, 15, 15]
+    title "mayank953/meridian-ai-learner 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 7 --> 18
+    line [8, 9, 11, 12, 13, 14, 15, 11, 16, 17, 17]
 ```
 
-2026-10-18 8 → 2026-11-02 15（+7）
+2026-10-18 8 → 2026-11-17 17（+9）
 
 
 ---

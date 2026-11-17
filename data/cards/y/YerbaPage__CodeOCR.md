@@ -1,6 +1,6 @@
 # YerbaPage/CodeOCR
 
-⭐ 32 · Python · 推送 2026-02-02 · [GitHub](https://github.com/YerbaPage/CodeOCR) · 组织维护
+⭐ 34 · Python · 推送 2026-02-02 · [GitHub](https://github.com/YerbaPage/CodeOCR) · 组织维护
 
 **论文官方实现：把源码渲染成图像供 MLLM 理解代码**
 
@@ -45,13 +45,13 @@ ISSTA 2026 论文 'Seeing is Coding' 的官方实现：研究将源码渲染为�
 
 ```mermaid
 xychart-beta
-    title "YerbaPage/CodeOCR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "YerbaPage/CodeOCR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [32, 34, 34]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 34（+2）
 
 
 ---

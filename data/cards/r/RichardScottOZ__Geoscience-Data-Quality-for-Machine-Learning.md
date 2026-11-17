@@ -1,6 +1,6 @@
 # RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning
 
-⭐ 19 · Jupyter Notebook · 推送 2026-03-10 · [GitHub](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning) · 个人维护
+⭐ 20 · Jupyter Notebook · 推送 2026-03-10 · [GitHub](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning) · 个人维护
 
 **地球科学数据质量评估 Python 库：为 ML 流水线量化数据质量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 19, 19]
+    title "RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 19, 17, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

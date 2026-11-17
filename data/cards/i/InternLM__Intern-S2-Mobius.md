@@ -1,6 +1,6 @@
 # InternLM/Intern-S2-Mobius
 
-⭐ 59 · Python · 推送 2026-08-14 · [GitHub](https://github.com/InternLM/Intern-S2-Mobius) · 组织维护 · 中文 README
+⭐ 58 · Python · 推送 2026-08-14 · [GitHub](https://github.com/InternLM/Intern-S2-Mobius) · 组织维护 · 中文 README
 
 **35B 基础模型：知识-推理分离架构的高效推理模型**
 
@@ -44,13 +44,13 @@ InternLM 团队发布的 35B 参数基础模型，基于 Mobius-v0 架构，由 
 
 ```mermaid
 xychart-beta
-    title "InternLM/Intern-S2-Mobius 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "InternLM/Intern-S2-Mobius 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [59, 58, 58]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 58（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cosbidev/Intermediate-Multimodal-Fusion-Bio
 
-⭐ 17 · 推送 2026-02-28 · [GitHub](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio) · [官网](https://www.sciencedirect.com/science/article/pii/S0262885625000976?via%3Dihub) · 组织维护
+⭐ 16 · 推送 2026-02-28 · [GitHub](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio) · [官网](https://www.sciencedirect.com/science/article/pii/S0262885625000976?via%3Dihub) · 组织维护
 
 **生物医学多模态中间融合方法系统综述配套资源库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cosbidev/Intermediate-Multimodal-Fusion-Bio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "cosbidev/Intermediate-Multimodal-Fusion-Bio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 16（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # crftwr/xefm
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/crftwr/xefm) · [官网](https://crftwr.github.io/xefm/) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/crftwr/xefm) · [官网](https://crftwr.github.io/xefm/) · 个人维护
 
 **键盘驱动的双栏文件管理器，桌面端与终端端皆可运行**
 
@@ -46,13 +46,13 @@ XeFM 是跨平台双栏文件管理器：Windows/macOS 提供原生桌面应用�
 
 ```mermaid
 xychart-beta
-    title "crftwr/xefm 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 13]
+    title "crftwr/xefm 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 13, 15, 15]
 ```
 
-2026-10-24 12 → 2026-11-02 13（+1）
+2026-10-24 12 → 2026-11-17 15（+3）
 
 
 ---

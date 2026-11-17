@@ -1,6 +1,6 @@
 # NVIDIA/Broadcast-Skills
 
-⭐ 19 · Standard ML · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/NVIDIA/Broadcast-Skills) · [官网](https://www.nvidia.com/broadcast-app/) · 组织维护
+⭐ 22 · Standard ML · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/NVIDIA/Broadcast-Skills) · [官网](https://www.nvidia.com/broadcast-app/) · 组织维护
 
 **让 AI Agent 通过 MCP 驱动 NVIDIA Broadcast 应用音视频 AI 特效**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的 agent 技能包：通过 NVIDIA Broadcast 2.3+ 在本地回环�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Broadcast-Skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "NVIDIA/Broadcast-Skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 18, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

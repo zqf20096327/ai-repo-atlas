@@ -1,6 +1,6 @@
 # IAA-AITF/Actuarial-AI-Case-Studies
 
-⭐ 53 · HTML · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies) · 组织维护
+⭐ 55 · HTML · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies) · 组织维护
 
 **国际精算协会 AI 工作组的精算 AI 案例研究合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IAA-AITF/Actuarial-AI-Case-Studies 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "IAA-AITF/Actuarial-AI-Case-Studies 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

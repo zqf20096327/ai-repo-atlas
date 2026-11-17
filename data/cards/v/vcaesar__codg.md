@@ -1,6 +1,6 @@
 # vcaesar/codg
 
-⭐ 43 · Go · 推送 2026-10-30 · [GitHub](https://github.com/vcaesar/codg) · [官网](https://atomai.cc) · 个人维护 · 中文 README
+⭐ 46 · Go · 推送 2026-11-15 · [GitHub](https://github.com/vcaesar/codg) · [官网](https://atomai.cc) · 个人维护 · 中文 README
 
 **终端 AI 编码/工作 Agent 运行时（CLI/TUI/Web/桌面）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vcaesar/codg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43]
+    title "vcaesar/codg 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 41 --> 47
+    line [42, 43, 42, 45, 46, 46]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 46（+4）
 
 
 ---

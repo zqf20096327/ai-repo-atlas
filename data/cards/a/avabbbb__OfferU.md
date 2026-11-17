@@ -1,6 +1,6 @@
 # avabbbb/OfferU
 
-⭐ 23 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/avabbbb/OfferU) · [官网](https://avabbbb.github.io/OfferU/) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/avabbbb/OfferU) · [官网](offerU.avabbbb.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 求职操作系统：岗位研究、简历定制与面试练习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "avabbbb/OfferU 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

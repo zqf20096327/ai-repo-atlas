@@ -1,6 +1,6 @@
 # Ignema/youtube-music-remover
 
-⭐ 75 · Kotlin · MIT · 推送 2026-04-15 · [GitHub](https://github.com/Ignema/youtube-music-remover) · 个人维护
+⭐ 77 · Kotlin · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Ignema/youtube-music-remover) · [官网](https://f-droid.org/packages/com.musicremover.app/) · 个人维护
 
 **用 AI 音频分离从视频中去除背景音乐、保留人声**
 
@@ -44,13 +44,13 @@ Murem 提供视频背景音乐去除功能：通过 AI 音频分离模型（Kim 
 
 ```mermaid
 xychart-beta
-    title "Ignema/youtube-music-remover 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 75, 76, 75, 75]
+    title "Ignema/youtube-music-remover 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 75, 76, 75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ntakouris/awesome-dronecraft
 
-⭐ 238 · 推送 2026-06-18 · [GitHub](https://github.com/ntakouris/awesome-dronecraft) · 个人维护
+⭐ 239 · 推送 2026-06-18 · [GitHub](https://github.com/ntakouris/awesome-dronecraft) · 个人维护
 
 **自主旋翼机/无人机方向的学习路线资源清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ntakouris/awesome-dronecraft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 236 --> 239
-    line [237, 238, 238]
+    title "ntakouris/awesome-dronecraft 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 236 --> 240
+    line [237, 238, 237, 238, 239, 239]
 ```
 
-2026-10-18 237 → 2026-11-02 238（+1）
+2026-10-18 237 → 2026-11-17 239（+2）
 
 
 ---

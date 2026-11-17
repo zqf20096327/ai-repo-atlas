@@ -1,6 +1,6 @@
 # Nyx-abu/awwwards-ui-skill
 
-⭐ 18 · JavaScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/Nyx-abu/awwwards-ui-skill) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/Nyx-abu/awwwards-ui-skill) · 个人维护
 
 **提升 AI 生成 UI 设计质量的 agent 技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nyx-abu/awwwards-ui-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 12 --> 19
-    line [13, 14, 15, 17, 18, 18]
+    title "Nyx-abu/awwwards-ui-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 23
+    line [13, 14, 15, 17, 18, 17, 21, 22, 22]
 ```
 
-2026-10-18 13 → 2026-11-02 18（+5）
+2026-10-18 13 → 2026-11-17 22（+9）
 
 
 ---

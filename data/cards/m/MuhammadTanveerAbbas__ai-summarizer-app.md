@@ -1,6 +1,6 @@
 # MuhammadTanveerAbbas/ai-summarizer-app
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MuhammadTanveerAbbas/ai-summarizer-app) · [官网](https://ai-summarizer-gpt.vercel.app/) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/MuhammadTanveerAbbas/ai-summarizer-app) · [官网](https://ai-summarizer-gpt.vercel.app/) · 个人维护
 
 **网页应用：粘贴文章 URL 生成 GPT-4 摘要**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuhammadTanveerAbbas/ai-summarizer-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "MuhammadTanveerAbbas/ai-summarizer-app 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

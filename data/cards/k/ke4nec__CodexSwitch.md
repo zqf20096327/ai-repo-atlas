@@ -1,6 +1,6 @@
 # ke4nec/CodexSwitch
 
-⭐ 11 · Go · 推送 2026-04-02 · [GitHub](https://github.com/ke4nec/CodexSwitch) · [官网](https://github.com/ke4nec/CodexSwitch/releases) · 个人维护 · 中文 README
+⭐ 12 · Go · 推送 2026-04-02 · [GitHub](https://github.com/ke4nec/CodexSwitch) · [官网](https://github.com/ke4nec/CodexSwitch/releases) · 个人维护 · 中文 README
 
 **跨平台桌面工具：管理并一键切换 Codex 账号与 OpenAI API 配置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ke4nec/CodexSwitch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "ke4nec/CodexSwitch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

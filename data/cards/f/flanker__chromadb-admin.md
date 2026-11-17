@@ -1,6 +1,6 @@
 # flanker/chromadb-admin
 
-⭐ 284 · TypeScript · MIT · 推送 2025-11-16 · [GitHub](https://github.com/flanker/chromadb-admin) · [官网](https://chromadb-admin.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Chroma 向量数据库的 Web 管理界面（Next.js）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "flanker/chromadb-admin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 283 --> 286
-    line [285, 284, 284]
+    title "flanker/chromadb-admin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-11"]
+    y-axis "stars" 282 --> 286
+    line [285, 284, 283, 283]
 ```
 
-2026-10-18 285 → 2026-11-02 284（-1）
+2026-10-18 285 → 2026-11-11 283（-2）
 
 
 ---

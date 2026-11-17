@@ -1,6 +1,6 @@
 # kevinelliott/agentpipe
 
-⭐ 154 · Go · MIT · 推送 2026-06-27 · [GitHub](https://github.com/kevinelliott/agentpipe) · [官网](https://agentpipe.ai) · 个人维护
+⭐ 156 · Go · MIT · 推送 2026-06-27 · [GitHub](https://github.com/kevinelliott/agentpipe) · [官网](https://agentpipe.ai) · 个人维护
 
 **让多个 AI CLI 工具在共享房间对话的多智能体编排 CLI**
 
@@ -44,13 +44,13 @@ Go 编写的 CLI/TUI 应用，将 Claude、Gemini、Qwen、Codex、Copilot 等 A
 
 ```mermaid
 xychart-beta
-    title "kevinelliott/agentpipe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 150 --> 155
-    line [151, 153, 152, 153, 154]
+    title "kevinelliott/agentpipe 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 150 --> 157
+    line [151, 153, 152, 153, 154, 152, 154, 155, 156, 156]
 ```
 
-2026-10-18 151 → 2026-11-02 154（+3）
+2026-10-18 151 → 2026-11-17 156（+5）
 
 
 ---

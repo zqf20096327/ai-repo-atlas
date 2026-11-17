@@ -1,6 +1,6 @@
 # josephleblanc/ploke
 
-⭐ 95 · Rust · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/josephleblanc/ploke) · [官网](https://ploke.dev/) · 个人维护
+⭐ 96 · Rust · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/josephleblanc/ploke) · [官网](https://ploke.dev/) · 个人维护
 
 **Rust 代码库的终端 LLM 协作工具：向量图索引+语义检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "josephleblanc/ploke 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "josephleblanc/ploke 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 94 --> 97
+    line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 96（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nielstron/quantulum3
 
-⭐ 149 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/nielstron/quantulum3) · 个人维护
+⭐ 150 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/nielstron/quantulum3) · 个人维护
 
 **从非结构化文本中抽取数量、度量及其单位的 Python 库**
 
@@ -44,13 +44,13 @@ quantulum3 是 quantulum 的 Python 3 兼容分支，提供从非结构化文本
 
 ```mermaid
 xychart-beta
-    title "nielstron/quantulum3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 148 --> 150
-    line [149, 149]
+    title "nielstron/quantulum3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 148 --> 151
+    line [149, 150, 150]
 ```
 
-2026-10-18 149 → 2026-11-02 149（+0）
+2026-10-18 149 → 2026-11-17 150（+1）
 
 
 ---

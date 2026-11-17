@@ -1,6 +1,6 @@
 # revoconner/Felicity
 
-⭐ 31 · 推送 2026-08-07 · [GitHub](https://github.com/revoconner/Felicity) · [官网](https://felicity-app.com) · 个人维护
+⭐ 32 · 推送 2026-08-07 · [GitHub](https://github.com/revoconner/Felicity) · [官网](https://felicity-app.com) · 个人维护
 
 **Windows 离线人脸识别照片整理工具：按人物自动分组照片**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "revoconner/Felicity 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31]
+    title "revoconner/Felicity 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 31, 30, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 31（+2）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

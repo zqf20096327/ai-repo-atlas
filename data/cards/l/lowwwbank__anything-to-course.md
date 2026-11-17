@@ -1,6 +1,6 @@
 # lowwwbank/anything-to-course
 
-⭐ 29 · MIT · 推送 2026-07-07 · [GitHub](https://github.com/lowwwbank/anything-to-course) · 个人维护
+⭐ 38 · MIT · 推送 2026-07-07 · [GitHub](https://github.com/lowwwbank/anything-to-course) · 个人维护
 
 **把任意材料变成学习科学式自学课程的 AI agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lowwwbank/anything-to-course 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 27, 29, 29]
+    title "lowwwbank/anything-to-course 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 39
+    line [24, 25, 26, 27, 29, 34, 37, 38, 38]
 ```
 
-2026-10-18 24 → 2026-11-02 29（+5）
+2026-10-18 24 → 2026-11-17 38（+14）
 
 
 ---

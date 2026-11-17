@@ -1,6 +1,6 @@
 # plaxtoris/codehamr
 
-⭐ 222 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/plaxtoris/codehamr) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端里的极简本地优先编程 agent，连接自选模型服务**
 
@@ -11,7 +11,7 @@ MIT 许可的独立终端编程 agent，通过 bash、read_file、write_file、e
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ MIT 许可的独立终端编程 agent，通过 bash、read_file、write_file、e
 
 ```mermaid
 xychart-beta
-    title "plaxtoris/codehamr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 219 --> 223
-    line [220, 221, 222, 222]
+    title "plaxtoris/codehamr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-14"]
+    y-axis "stars" 219 --> 225
+    line [220, 221, 222, 224, 224]
 ```
 
-2026-10-18 220 → 2026-11-02 222（+2）
+2026-10-18 220 → 2026-11-14 224（+4）
 
 
 ---

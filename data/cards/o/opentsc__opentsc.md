@@ -1,6 +1,6 @@
 # opentsc/opentsc
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/opentsc/opentsc) · [官网](https://dashen.wang) · 个人维护 · 中文 README
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/opentsc/opentsc) · [官网](https://dashen.wang) · 个人维护 · 中文 README
 
 **本地离线的人际/项目/决策记忆系统，供 AI agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opentsc/opentsc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "opentsc/opentsc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

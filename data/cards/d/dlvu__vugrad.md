@@ -1,6 +1,6 @@
 # dlvu/vugrad
 
-⭐ 33 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/dlvu/vugrad) · [官网](https://dlvu.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **教学用迷你自动微分库，基于 numpy 的张量反向传播**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "dlvu/vugrad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-07 33（+0）
 
 
 ---

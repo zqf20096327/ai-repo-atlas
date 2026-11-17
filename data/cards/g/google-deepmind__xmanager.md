@@ -1,6 +1,6 @@
 # google-deepmind/xmanager
 
-⭐ 925 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/xmanager) · 组织维护
+⭐ 926 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/xmanager) · 组织维护
 
 **给 ML 研究者：打包、运行与追踪机器学习实验的框架**
 
@@ -45,13 +45,13 @@ DeepMind 的机器学习实验管理平台：通过 Python launch 脚本调用 X
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/xmanager 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 921 --> 926
-    line [922, 923, 924, 925, 925]
+    title "google-deepmind/xmanager 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 921 --> 927
+    line [922, 923, 924, 925, 924, 925, 926, 926]
 ```
 
-2026-10-18 922 → 2026-11-02 925（+3）
+2026-10-18 922 → 2026-11-17 926（+4）
 
 
 ---

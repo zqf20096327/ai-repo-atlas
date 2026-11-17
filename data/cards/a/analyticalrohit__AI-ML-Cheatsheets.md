@@ -1,6 +1,6 @@
 # analyticalrohit/AI-ML-Cheatsheets
 
-⭐ 1,011 · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/AI-ML-Cheatsheets) · [官网](https://awesomeneuron.substack.com) · 个人维护
+⭐ 1,016 · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/AI-ML-Cheatsheets) · [官网](https://awesomeneuron.substack.com) · 个人维护
 
 **斯坦福 AI/ML 速查表合集：学生与开发者快速查阅概念公式**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "analyticalrohit/AI-ML-Cheatsheets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1007 --> 1012
-    line [1008, 1009, 1010, 1011, 1011]
+    title "analyticalrohit/AI-ML-Cheatsheets 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1007 --> 1017
+    line [1008, 1009, 1010, 1011, 1009, 1014, 1016, 1016]
 ```
 
-2026-10-18 1,008 → 2026-11-02 1,011（+3）
+2026-10-18 1,008 → 2026-11-17 1,016（+8）
 
 
 ---

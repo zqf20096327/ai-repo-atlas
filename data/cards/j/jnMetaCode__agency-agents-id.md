@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-id
 
-⭐ 30 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-id) · [官网](https://www.npmjs.com/package/agency-agents-id) · 个人维护
+⭐ 32 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-id) · [官网](https://www.npmjs.com/package/agency-agents-id) · 个人维护
 
 **187 个印尼语 AI agent 人格库，配 3 个印尼市场原创 agent**
 
@@ -45,13 +45,13 @@ agency-agents 上游 184 个 agent 的印尼语社区翻译版，另含 3 个针
 
 ```mermaid
 xychart-beta
-    title "jnMetaCode/agency-agents-id 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30, 30]
+    title "jnMetaCode/agency-agents-id 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 26 --> 33
+    line [27, 28, 29, 30, 29, 31, 32, 32]
 ```
 
-2026-10-18 27 → 2026-11-02 30（+3）
+2026-10-18 27 → 2026-11-17 32（+5）
 
 
 ---

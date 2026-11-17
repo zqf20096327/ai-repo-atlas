@@ -1,6 +1,6 @@
 # DaoyuanLi2816/can-i-finetune-this
 
-⭐ 794 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/DaoyuanLi2816/can-i-finetune-this) · [官网](https://daoyuanli2816.github.io/can-i-finetune-this/) · 个人维护
+⭐ 796 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/DaoyuanLi2816/can-i-finetune-this) · [官网](https://daoyuanli2816.github.io/can-i-finetune-this/) · 个人维护
 
 **单卡 LLM 微调预检工具：估算显存并生成可运行的 LoRA/QLoRA 方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DaoyuanLi2816/can-i-finetune-this 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 791 --> 795
-    line [793, 792, 793, 794, 794]
+    title "DaoyuanLi2816/can-i-finetune-this 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 791 --> 797
+    line [793, 792, 793, 794, 795, 796, 796]
 ```
 
-2026-10-18 793 → 2026-11-02 794（+1）
+2026-10-18 793 → 2026-11-17 796（+3）
 
 
 ---

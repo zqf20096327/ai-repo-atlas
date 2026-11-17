@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-Doctor
 
-⭐ 77 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rookiestar28/ComfyUI-Doctor) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rookiestar28/ComfyUI-Doctor) · 个人维护
 
 **ComfyUI 实时诊断调试助手：捕获错误并给出修复建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rookiestar28/ComfyUI-Doctor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "rookiestar28/ComfyUI-Doctor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    line [76, 77, 76, 76]
 ```
 
-2026-10-18 76 → 2026-11-02 77（+1）
+2026-10-18 76 → 2026-11-17 76（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # qdleader/Awesome-AI-Pedia
 
-⭐ 566 · TypeScript · MIT · 推送 2026-07-03 · [GitHub](https://github.com/qdleader/Awesome-AI-Pedia) · 个人维护 · 中文 README
+⭐ 571 · TypeScript · MIT · 推送 2026-07-03 · [GitHub](https://github.com/qdleader/Awesome-AI-Pedia) · 个人维护 · 中文 README
 
 **面向开发者的 AI 知识库与博客平台，11 类 AI 工具指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdleader/Awesome-AI-Pedia 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 564 --> 567
-    line [565, 566]
+    title "qdleader/Awesome-AI-Pedia 星数(近 5 点)"
+    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 564 --> 572
+    line [565, 566, 570, 571, 571]
 ```
 
-2026-10-30 565 → 2026-11-02 566（+1）
+2026-10-30 565 → 2026-11-17 571（+6）
 
 
 ---

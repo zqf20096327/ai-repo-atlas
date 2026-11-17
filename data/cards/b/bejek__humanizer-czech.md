@@ -1,6 +1,6 @@
 # bejek/humanizer-czech
 
-⭐ 25 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/bejek/humanizer-czech) · 个人维护
+⭐ 28 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/bejek/humanizer-czech) · 个人维护
 
 **捷克语 AI 文本人性化 skill：检测并改写 27 种 AI 写作痕迹**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bejek/humanizer-czech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "bejek/humanizer-czech 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

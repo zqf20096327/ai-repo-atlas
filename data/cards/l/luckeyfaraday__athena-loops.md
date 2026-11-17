@@ -1,6 +1,6 @@
 # luckeyfaraday/athena-loops
 
-⭐ 60 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/luckeyfaraday/athena-loops) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/luckeyfaraday/athena-loops) · 个人维护
 
 **后端无关的 Python AI agent 编排循环框架，供开发者构建确定性任务循环**
 
@@ -45,13 +45,13 @@ agentloop 是一个轻量级 Python 多 agent 编排框架，将 orchestrator→
 
 ```mermaid
 xychart-beta
-    title "luckeyfaraday/athena-loops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "luckeyfaraday/athena-loops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

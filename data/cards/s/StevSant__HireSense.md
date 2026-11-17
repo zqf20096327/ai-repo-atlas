@@ -1,6 +1,6 @@
 # StevSant/HireSense
 
-⭐ 14 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/StevSant/HireSense) · [官网](https://hiresense-demo.vercel.app) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/StevSant/HireSense) · [官网](https://hiresense-demo.vercel.app) · 个人维护
 
 **自托管求职全流程平台：聚合招聘信息并用 LLM 排序匹配**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StevSant/HireSense 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "StevSant/HireSense 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

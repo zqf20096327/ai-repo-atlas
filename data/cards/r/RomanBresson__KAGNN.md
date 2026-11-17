@@ -1,6 +1,6 @@
 # RomanBresson/KAGNN
 
-⭐ 60 · Python · 推送 2025-11-18 · [GitHub](https://github.com/RomanBresson/KAGNN) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **论文官方仓库：用 KAN 构建模块的图神经网络**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "RomanBresson/KAGNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-13 60（+0）
 
 
 ---

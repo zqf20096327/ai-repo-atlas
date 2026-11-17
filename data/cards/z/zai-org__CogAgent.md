@@ -1,6 +1,6 @@
 # zai-org/CogAgent
 
-⭐ 1,195 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/zai-org/CogAgent) · 组织维护 · 中文 README
+⭐ 1,202 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/zai-org/CogAgent) · 组织维护 · 中文 README
 
 **开源 VLM GUI Agent 模型：看屏幕截图执行跨平台界面操作**
 
@@ -44,13 +44,13 @@ CogAgent-9B-20241220 是基于 GLM-4V-9B 的双语（中英）视觉语言 GUI A
 
 ```mermaid
 xychart-beta
-    title "zai-org/CogAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1194 --> 1198
-    line [1197, 1196, 1195]
+    title "zai-org/CogAgent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1194 --> 1203
+    line [1197, 1196, 1195, 1197, 1198, 1199, 1200, 1201, 1202, 1202]
 ```
 
-2026-10-18 1,197 → 2026-11-02 1,195（-2）
+2026-10-18 1,197 → 2026-11-17 1,202（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # spideydotjs/ollama-android
 
-⭐ 29 · Kotlin · 推送 2026-05-27 · [GitHub](https://github.com/spideydotjs/ollama-android) · 个人维护
+⭐ 28 · Kotlin · 推送 2026-05-27 · [GitHub](https://github.com/spideydotjs/ollama-android) · 个人维护
 
 **Android 端个人助手 LAMI：本地 LLM 可选接入的聊天客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spideydotjs/ollama-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "spideydotjs/ollama-android 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [29, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 28（-1）
 
 
 ---

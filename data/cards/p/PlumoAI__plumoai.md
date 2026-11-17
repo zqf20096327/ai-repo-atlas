@@ -1,6 +1,6 @@
 # PlumoAI/plumoai
 
-⭐ 78 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/PlumoAI/plumoai) · [官网](https://plumoai.com) · 组织维护
+⭐ 82 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/PlumoAI/plumoai) · [官网](https://plumoai.com) · 组织维护
 
 **自托管自主 AI 员工平台：创建并运行承担业务职责的 AI 雇员**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PlumoAI/plumoai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "PlumoAI/plumoai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 77 --> 83
+    line [78, 80, 81, 82, 82]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 82（+4）
 
 
 ---

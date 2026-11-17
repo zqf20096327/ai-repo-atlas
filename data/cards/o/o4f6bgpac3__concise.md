@@ -1,6 +1,6 @@
 # o4f6bgpac3/concise
 
-⭐ 19 · Shell · MIT · 推送 2026-04-08 · [GitHub](https://github.com/o4f6bgpac3/concise) · 个人维护
+⭐ 21 · Shell · MIT · 推送 2026-04-08 · [GitHub](https://github.com/o4f6bgpac3/concise) · 个人维护
 
 **让 Claude 等编程助手简洁回复的技能/插件，省约60-70%输出token**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "o4f6bgpac3/concise 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 19, 19]
+    title "o4f6bgpac3/concise 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 19, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hanlulong/econ-slides-skill
 
-⭐ 26 · TeX · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hanlulong/econ-slides-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-slides-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
 
 **把经济学论文转成 Beamer 演讲稿的 Agent Skill**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanlulong/econ-slides-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 24, 25, 26, 26]
+    title "hanlulong/econ-slides-skill 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 33
+    line [22, 23, 24, 25, 26, 25, 27, 28, 29, 30, 31, 32, 32]
 ```
 
-2026-10-18 22 → 2026-11-02 26（+4）
+2026-10-18 22 → 2026-11-17 32（+10）
 
 
 ---

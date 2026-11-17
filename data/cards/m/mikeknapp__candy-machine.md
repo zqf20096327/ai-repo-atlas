@@ -1,6 +1,6 @@
 # mikeknapp/candy-machine
 
-⭐ 55 · TypeScript · NOASSERTION · 推送 2026-04-06 · [GitHub](https://github.com/mikeknapp/candy-machine) · 个人维护
+⭐ 56 · TypeScript · NOASSERTION · 推送 2026-04-06 · [GitHub](https://github.com/mikeknapp/candy-machine) · 个人维护
 
 **给 Stable Diffusion/Lora 训练者手动标注小图像数据集的 Web 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeknapp/candy-machine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "mikeknapp/candy-machine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

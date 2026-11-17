@@ -1,6 +1,6 @@
 # apisec-inc/mcp-audit
 
-⭐ 165 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/apisec-inc/mcp-audit) · [官网](https://apisec-inc.github.io/mcp-audit) · 组织维护
+⭐ 167 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/apisec-inc/mcp-audit) · [官网](https://apisec-inc.github.io/mcp-audit) · 组织维护
 
 **扫描 AI 开发工具 MCP 配置的安全审计 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "apisec-inc/mcp-audit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 163 --> 166
-    line [164, 165, 165]
+    title "apisec-inc/mcp-audit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 163 --> 168
+    line [164, 165, 166, 167, 167]
 ```
 
-2026-10-18 164 → 2026-11-02 165（+1）
+2026-10-18 164 → 2026-11-17 167（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # segment-any-text/wtpsplit
 
-⭐ 1,376 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/segment-any-text/wtpsplit) · 组织维护
+⭐ 1,382 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/segment-any-text/wtpsplit) · 组织维护
 
 **多语言句子与段落切分工具库（SaT/WtP 模型，85 语言）**
 
@@ -45,13 +45,13 @@ Python 库 wtpsplit，实现 SaT（Segment any Text）与 WtP 两种预训练模
 
 ```mermaid
 xychart-beta
-    title "segment-any-text/wtpsplit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1372 --> 1377
-    line [1373, 1374, 1375, 1376, 1376]
+    title "segment-any-text/wtpsplit 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1372 --> 1383
+    line [1373, 1374, 1375, 1376, 1374, 1378, 1379, 1380, 1381, 1382, 1382]
 ```
 
-2026-10-18 1,373 → 2026-11-02 1,376（+3）
+2026-10-18 1,373 → 2026-11-17 1,382（+9）
 
 
 ---

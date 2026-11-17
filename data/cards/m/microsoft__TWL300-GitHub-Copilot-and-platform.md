@@ -1,6 +1,6 @@
 # microsoft/TWL300-GitHub-Copilot-and-platform
 
-⭐ 16 · C# · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/TWL300-GitHub-Copilot-and-platform) · [官网](https://microsoft.github.io/TWL300-GitHub-Copilot-and-platform/) · 组织维护
+⭐ 16 · C# · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/TWL300-GitHub-Copilot-and-platform) · [官网](https://microsoft.github.io/TWL300-GitHub-Copilot-and-platform/) · 组织维护
 
 **将业务应用与数据库迁移到 Azure 的实操培训实验手册**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/TWL300-GitHub-Copilot-and-platform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

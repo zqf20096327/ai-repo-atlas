@@ -1,6 +1,6 @@
 # hit1001/multiagent-visibility-tool
 
-⭐ 15 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/hit1001/multiagent-visibility-tool) · 个人维护
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hit1001/multiagent-visibility-tool) · 个人维护
 
 **多智能体系统的实时追踪、可视化与调试工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hit1001/multiagent-visibility-tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "hit1001/multiagent-visibility-tool 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

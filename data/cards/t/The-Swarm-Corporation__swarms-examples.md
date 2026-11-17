@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/swarms-examples
 
-⭐ 83 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/The-Swarm-Corporation/swarms-examples) · [官网](https://swarms.ai) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/The-Swarm-Corporation/swarms-examples) · [官网](https://swarms.ai) · 组织维护
 
 **swarms 多智能体框架的示例集：单/多智能体各类用例索引**
 
@@ -44,13 +44,13 @@ The-Swarm-Corporation 维护的 swarms 框架示例仓库：以表格索引形�
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/swarms-examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    title "The-Swarm-Corporation/swarms-examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 82 --> 85
+    line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 84（+1）
 
 
 ---

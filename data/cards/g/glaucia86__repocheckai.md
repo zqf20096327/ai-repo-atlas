@@ -1,6 +1,6 @@
 # glaucia86/repocheckai
 
-⭐ 121 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/glaucia86/repocheckai) · [官网](https://glaucia86.github.io/repocheckai/) · 个人维护
+⭐ 122 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/glaucia86/repocheckai) · [官网](https://glaucia86.github.io/repocheckai/) · 个人维护
 
 **面向开发者的 GitHub 仓库健康分析 CLI，AI 产出诊断与修复建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "glaucia86/repocheckai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    title "glaucia86/repocheckai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 120 --> 123
+    line [121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-11-02 121（+0）
+2026-10-18 121 → 2026-11-17 122（+1）
 
 
 ---

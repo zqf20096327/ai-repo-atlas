@@ -1,6 +1,6 @@
 # microsoft/new-copilot-studio-tech-guide
 
-⭐ 21 · Astro · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/new-copilot-studio-tech-guide) · [官网](https://microsoft.github.io/new-copilot-studio-tech-guide/) · 组织维护
+⭐ 21 · Astro · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/new-copilot-studio-tech-guide) · [官网](https://microsoft.github.io/new-copilot-studio-tech-guide/) · 组织维护
 
 **Copilot Studio 代理与工作流示例的展示站与一键部署包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/new-copilot-studio-tech-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "microsoft/new-copilot-studio-tech-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

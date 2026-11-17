@@ -1,6 +1,6 @@
 # chmonitor/chmonitor
 
-⭐ 305 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/chmonitor/chmonitor) · [官网](https://chmonitor.dev) · 个人维护
+⭐ 305 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/chmonitor/chmonitor) · [官网](https://chmonitor.dev) · 个人维护
 
 **ClickHouse 运维监控面板，附 AI 优化建议与 AI 问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chmonitor/chmonitor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "chmonitor/chmonitor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
     y-axis "stars" 302 --> 306
-    line [303, 305, 305]
+    line [303, 305, 303, 304, 305, 305]
 ```
 
-2026-10-18 303 → 2026-11-02 305（+2）
+2026-10-18 303 → 2026-11-17 305（+2）
 
 
 ---

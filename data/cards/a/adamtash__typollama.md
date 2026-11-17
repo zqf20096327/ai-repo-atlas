@@ -1,6 +1,6 @@
 # adamtash/typollama
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/adamtash/typollama) · [官网](https://chrome.google.com/webstore/detail/Typollama–AI-Spell-Check-%26-Text-Processing/bpfbfpkchkmgladnfmgmhapainhcokel) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/adamtash/typollama) · [官网](https://chrome.google.com/webstore/detail/Typollama–AI-Spell-Check-%26-Text-Processing/bpfbfpkchkmgladnfmgmhapainhcokel) · 个人维护
 
 **在网页文本框中就地润色的 Chrome 扩展，支持本地与云端模型**
 
@@ -45,13 +45,13 @@ Chrome 浏览器扩展：在任意文本框中选中文本或定位光标后，�
 
 ```mermaid
 xychart-beta
-    title "adamtash/typollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "adamtash/typollama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

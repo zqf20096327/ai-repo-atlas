@@ -1,6 +1,6 @@
 # nomie7/nano-banana-slides-prompter
 
-⭐ 70 · TypeScript · GPL-3.0 · 推送 2026-01-10 · [GitHub](https://github.com/nomie7/nano-banana-slides-prompter) · [官网](https://slides.jo3.ai) · 个人维护 · 中文 README
+⭐ 72 · TypeScript · GPL-3.0 · 推送 2026-01-10 · [GitHub](https://github.com/nomie7/nano-banana-slides-prompter) · [官网](https://slides.jo3.ai) · 个人维护 · 中文 README
 
 **为 Nano Banana Pro Slides 生成优化 AI 提示词的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nomie7/nano-banana-slides-prompter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "nomie7/nano-banana-slides-prompter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72, 72]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 72（+2）
 
 
 ---

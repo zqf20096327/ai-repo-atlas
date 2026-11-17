@@ -1,6 +1,6 @@
 # pooyaphoenix/RA3G-Agent
 
-⭐ 12 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/pooyaphoenix/RA3G-Agent) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/pooyaphoenix/RA3G-Agent) · 个人维护
 
 **带治理 Agent 的本地 RAG 多智能体问答系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pooyaphoenix/RA3G-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "pooyaphoenix/RA3G-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

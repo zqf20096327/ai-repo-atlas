@@ -1,6 +1,6 @@
 # zth0828/mmx-mcp-server
 
-⭐ 31 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/zth0828/mmx-mcp-server) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/zth0828/mmx-mcp-server) · 个人维护 · 中文 README
 
 **封装 mmx CLI 的 MiniMax 全模态 MCP Server**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zth0828/mmx-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "zth0828/mmx-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 30（-1）
 
 
 ---

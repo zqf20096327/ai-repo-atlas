@@ -1,6 +1,6 @@
 # orziz/odai
 
-⭐ 119 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/orziz/odai) · 个人维护 · 中文 README
+⭐ 133 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/orziz/odai) · 个人维护 · 中文 README
 
 **AI agent 通用任务治理框架：对齐目标、规划调度、验收交付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "orziz/odai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    title "orziz/odai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 117 --> 134
+    line [118, 119, 129, 132, 133, 133]
 ```
 
-2026-10-18 118 → 2026-11-02 119（+1）
+2026-10-18 118 → 2026-11-17 133（+15）
 
 
 ---

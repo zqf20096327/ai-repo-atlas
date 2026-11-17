@@ -1,6 +1,6 @@
 # nobel-postech/mirror
 
-⭐ 20 · Jupyter Notebook · 推送 2025-11-18 · [GitHub](https://github.com/nobel-postech/mirror) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多模态认知重构疗法论文的合成数据集与代码**
 
@@ -46,12 +46,12 @@ MIRROR 论文的官方代码与数据仓库，提供面向来访者阻抗的多�
 ```mermaid
 xychart-beta
     title "nobel-postech/mirror 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
+    x-axis ["2026-10-28", "2026-11-13"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-28 20 → 2026-11-02 20（+0）
+2026-10-28 20 → 2026-11-13 20（+0）
 
 
 ---

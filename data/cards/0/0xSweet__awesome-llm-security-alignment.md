@@ -1,6 +1,6 @@
 # 0xSweet/awesome-llm-security-alignment
 
-⭐ 14 · 推送 2026-09-13 · [GitHub](https://github.com/0xSweet/awesome-llm-security-alignment) · 个人维护
+⭐ 15 · 推送 2026-09-13 · [GitHub](https://github.com/0xSweet/awesome-llm-security-alignment) · 个人维护
 
 **LLM 安全与对齐研究资源策展清单（论文/工具/政策）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xSweet/awesome-llm-security-alignment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "0xSweet/awesome-llm-security-alignment 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

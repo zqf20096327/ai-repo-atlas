@@ -1,6 +1,6 @@
 # andomeder/act-mujoco-manipulation
 
-⭐ 12 · Python · MIT · 推送 2025-12-19 · [GitHub](https://github.com/andomeder/act-mujoco-manipulation) · 个人维护
+⭐ 13 · Python · MIT · 推送 2025-12-19 · [GitHub](https://github.com/andomeder/act-mujoco-manipulation) · 个人维护
 
 **机器人操作模仿学习的 ACT 端到端 PyTorch 实现（MuJoCo 仿真）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andomeder/act-mujoco-manipulation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "andomeder/act-mujoco-manipulation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [13, 12, 12]
+    line [13, 12, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 12（-1）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

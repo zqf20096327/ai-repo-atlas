@@ -1,6 +1,6 @@
 # SynapseLayer/synapse-layer
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/SynapseLayer/synapse-layer) · [官网](https://synapselayer.org) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/SynapseLayer/synapse-layer) · [官网](https://synapselayer.org) · 组织维护
 
 **给 AI agent 的持久记忆基础设施：加密存储与语义检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SynapseLayer/synapse-layer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

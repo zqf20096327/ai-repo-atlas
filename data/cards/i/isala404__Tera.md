@@ -1,6 +1,6 @@
 # isala404/Tera
 
-⭐ 97 · Rust · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/isala404/Tera) · 个人维护
+⭐ 97 · Rust · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/isala404/Tera) · 个人维护
 
 **把 WhatsApp 变成个人 AI Agent 入口的 Rust 守护进程**
 
@@ -45,12 +45,12 @@ Tera 是一个 Rust 守护进程：通过 WhatsApp Rust 连接 WhatsApp Web（�
 ```mermaid
 xychart-beta
     title "isala404/Tera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 95 --> 98
     line [96, 97, 97]
 ```
 
-2026-10-18 96 → 2026-11-02 97（+1）
+2026-10-18 96 → 2026-11-17 97（+1）
 
 
 ---

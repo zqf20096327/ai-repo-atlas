@@ -1,6 +1,6 @@
 # jitOffice/jitknow
 
-⭐ 14 · 推送 2026-04-26 · [GitHub](https://github.com/jitOffice/jitknow) · [官网](https://know.jitword.com) · 组织维护 · 中文 README
+⭐ 17 · 推送 2026-04-26 · [GitHub](https://github.com/jitOffice/jitknow) · [官网](https://know.jitword.com) · 组织维护 · 中文 README
 
 **企业级 AI 知识库平台的开放 API，供第三方嵌入问答能力**
 
@@ -44,13 +44,13 @@ JitKnow 是企业级 AI 智能知识库平台（SaaS，支持私有化部署）�
 
 ```mermaid
 xychart-beta
-    title "jitOffice/jitknow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14]
+    title "jitOffice/jitknow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 13, 15, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

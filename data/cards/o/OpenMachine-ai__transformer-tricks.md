@@ -1,6 +1,6 @@
 # OpenMachine-ai/transformer-tricks
 
-⭐ 234 · TeX · MIT · 推送 2026-10-12 · [GitHub](https://github.com/OpenMachine-ai/transformer-tricks) · 组织维护
+⭐ 236 · TeX · MIT · 推送 2026-10-12 · [GitHub](https://github.com/OpenMachine-ai/transformer-tricks) · 组织维护
 
 **简化并加速 Transformer 模型的技巧与工具集（PyPI 库）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenMachine-ai/transformer-tricks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 232 --> 235
-    line [233, 234, 234]
+    title "OpenMachine-ai/transformer-tricks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 232 --> 237
+    line [233, 234, 236, 236]
 ```
 
-2026-10-18 233 → 2026-11-02 234（+1）
+2026-10-18 233 → 2026-11-17 236（+3）
 
 
 ---

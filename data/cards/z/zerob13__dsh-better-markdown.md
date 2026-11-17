@@ -1,6 +1,6 @@
 # zerob13/dsh-better-markdown
 
-⭐ 22 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zerob13/dsh-better-markdown) · [官网](https://github.com/zerob13/dsh-better-markdown#readme) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zerob13/dsh-better-markdown) · [官网](https://github.com/zerob13/dsh-better-markdown#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness Web 的流式 Markdown 渲染插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zerob13/dsh-better-markdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "zerob13/dsh-better-markdown 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

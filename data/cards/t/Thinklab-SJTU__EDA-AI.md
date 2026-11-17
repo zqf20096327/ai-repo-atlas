@@ -1,6 +1,6 @@
 # Thinklab-SJTU/EDA-AI
 
-⭐ 327 · C · MIT · 推送 2025-11-23 · [GitHub](https://github.com/Thinklab-SJTU/EDA-AI) · 组织维护 · 中文 README
+⭐ 328 · C · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Thinklab-SJTU/EDA-AI) · 组织维护 · 中文 README
 
 **芯片布局布线深度学习论文的官方代码实现集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thinklab-SJTU/EDA-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 326 --> 328
-    line [327, 327]
+    title "Thinklab-SJTU/EDA-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 326 --> 329
+    line [327, 328, 328]
 ```
 
-2026-10-18 327 → 2026-11-02 327（+0）
+2026-10-18 327 → 2026-11-17 328（+1）
 
 
 ---

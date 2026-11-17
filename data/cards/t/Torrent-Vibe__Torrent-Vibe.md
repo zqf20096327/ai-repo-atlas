@@ -1,6 +1,6 @@
 # Torrent-Vibe/Torrent-Vibe
 
-⭐ 159 · TypeScript · 推送 2026-09-25 · [GitHub](https://github.com/Torrent-Vibe/Torrent-Vibe) · [官网](https://qb-webui-site-inneis-projects.vercel.app) · 组织维护
+⭐ 158 · TypeScript · 推送 2026-09-25 · [GitHub](https://github.com/Torrent-Vibe/Torrent-Vibe) · [官网](https://qb-webui-site-inneis-projects.vercel.app) · 组织维护
 
 **qBittorrent 的现代化替代 Web 界面，含 AI 元数据增强**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Torrent-Vibe/Torrent-Vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "Torrent-Vibe/Torrent-Vibe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 157 --> 160
-    line [158, 159, 159]
+    line [158, 159, 158, 158]
 ```
 
-2026-10-18 158 → 2026-11-02 159（+1）
+2026-10-18 158 → 2026-11-17 158（+0）
 
 
 ---

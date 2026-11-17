@@ -1,6 +1,6 @@
 # dvoraknc/heatherbot
 
-⭐ 24 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/dvoraknc/heatherbot) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/dvoraknc/heatherbot) · 个人维护
 
 **全本地 Telegram AI 伴侣 bot：人设 YAML + 本地 LLM，自托管**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dvoraknc/heatherbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "dvoraknc/heatherbot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

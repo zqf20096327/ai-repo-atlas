@@ -1,6 +1,6 @@
 # OpenGVLab/OmniQuant
 
-⭐ 969 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/OpenGVLab/OmniQuant) · 组织维护 · 中文 README
+⭐ 970 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/OpenGVLab/OmniQuant) · 组织维护 · 中文 README
 
 **面向 LLM 的全方向校准量化算法与量化权重生成工具**
 
@@ -45,13 +45,13 @@ ICLR 2024 Spotlight 论文的官方实现：提供 LLM 权重量化（W2/W3/W4A1
 
 ```mermaid
 xychart-beta
-    title "OpenGVLab/OmniQuant 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 961 --> 970
-    line [962, 963, 964, 967, 969, 969]
+    title "OpenGVLab/OmniQuant 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 961 --> 971
+    line [962, 963, 964, 967, 969, 964, 968, 969, 970, 970]
 ```
 
-2026-10-18 962 → 2026-11-02 969（+7）
+2026-10-18 962 → 2026-11-17 970（+8）
 
 
 ---

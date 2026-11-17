@@ -1,6 +1,6 @@
 # gabrieletiboni/MaskPlanner
 
-⭐ 32 · 推送 2026-06-25 · [GitHub](https://github.com/gabrieletiboni/MaskPlanner) · [官网](https://gabrieletiboni.github.io/MaskPlanner/) · 组织维护
+⭐ 33 · 推送 2026-06-25 · [GitHub](https://github.com/gabrieletiboni/MaskPlanner) · [官网](https://gabrieletiboni.github.io/MaskPlanner/) · 组织维护
 
 **从 3D 点云生成多路径长时程轨迹的深度学习模型（机器人喷涂）**
 
@@ -44,13 +44,13 @@ MaskPlanner 是面向以物体为中心运动生成（OCMG）的深度学习方�
 
 ```mermaid
 xychart-beta
-    title "gabrieletiboni/MaskPlanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "gabrieletiboni/MaskPlanner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

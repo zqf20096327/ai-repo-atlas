@@ -1,6 +1,6 @@
 # gael-vanderlee/whai
 
-⭐ 38 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/gael-vanderlee/whai) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/gael-vanderlee/whai) · 个人维护
 
 **开发者的终端 AI 助手：在 shell 中按需调用 LLM 诊断错误、生成命令**
 
@@ -44,13 +44,13 @@ Whai 是集成于原生 shell 的轻量终端 AI 助手，面向在终端工作�
 
 ```mermaid
 xychart-beta
-    title "gael-vanderlee/whai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [39, 38, 38]
+    title "gael-vanderlee/whai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [39, 38, 37, 37]
 ```
 
-2026-10-18 39 → 2026-11-02 38（-1）
+2026-10-18 39 → 2026-11-17 37（-2）
 
 
 ---

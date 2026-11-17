@@ -1,6 +1,6 @@
 # em4nu3i69dll/service-status-api
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/em4nu3i69dll/service-status-api) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/em4nu3i69dll/service-status-api) · 个人维护
 
 **加密服务状态监控 API：Go 代理探测，Ollama 本地生成报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "em4nu3i69dll/service-status-api 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "em4nu3i69dll/service-status-api 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 34
+    line [33, 16, 15, 15]
 ```
 
-2026-10-29 33 → 2026-11-02 33（+0）
+2026-10-29 33 → 2026-11-17 15（-18）
 
 
 ---

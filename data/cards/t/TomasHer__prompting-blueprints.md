@@ -1,6 +1,6 @@
 # TomasHer/prompting-blueprints
 
-⭐ 23 · HTML · MIT · 推送 2026-10-20 · [GitHub](https://github.com/TomasHer/prompting-blueprints) · [官网](https://tomasher.github.io/prompting-blueprints/) · 个人维护
+⭐ 24 · HTML · MIT · 推送 2026-10-20 · [GitHub](https://github.com/TomasHer/prompting-blueprints) · [官网](https://tomasher.github.io/prompting-blueprints/) · 个人维护
 
 **Agentic AI 提示词模式与工作流战术的策展知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TomasHer/prompting-blueprints 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "TomasHer/prompting-blueprints 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

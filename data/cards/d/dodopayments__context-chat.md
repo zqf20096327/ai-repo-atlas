@@ -1,6 +1,6 @@
 # dodopayments/context-chat
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dodopayments/context-chat) · [官网](https://contextmcp.ai) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/dodopayments/context-chat) · [官网](https://contextmcp.ai) · 组织维护
 
 **可嵌入文档站的自托管 AI 问答组件，带引用与防滥用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dodopayments/context-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

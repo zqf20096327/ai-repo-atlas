@@ -1,6 +1,6 @@
 # chy4pro/chat-nojev
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/chy4pro/chat-nojev) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/chy4pro/chat-nojev) · 个人维护 · 中文 README
 
 **jev-chat 对话副驾派生版：判断与候选回复合并为单次模型调用**
 
@@ -45,13 +45,13 @@ jev-chat 三个平台版本（Windows/Android/macOS）的派生作品，只改�
 
 ```mermaid
 xychart-beta
-    title "chy4pro/chat-nojev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "chy4pro/chat-nojev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Intrect-io/OpenSwarm
 
-⭐ 870 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Intrect-io/OpenSwarm) · 组织维护
+⭐ 870 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Intrect-io/OpenSwarm) · 组织维护
 
 **面向 PR 的 agentic CI/CD 审查门：审查、修复、复审与确定性验证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Intrect-io/OpenSwarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 866 --> 871
-    line [867, 868, 869, 870, 870]
+    title "Intrect-io/OpenSwarm 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 866 --> 874
+    line [867, 868, 869, 870, 868, 872, 873, 872, 871, 870, 870]
 ```
 
-2026-10-18 867 → 2026-11-02 870（+3）
+2026-10-18 867 → 2026-11-17 870（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # zexadev/lapisnote
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/zexadev/lapisnote) · [官网](https://jdnotes.zexa.cc/) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/zexadev/lapisnote) · [官网](https://jdnotes.zexa.cc/) · 个人维护 · 中文 README
 
 **带 AI 助手与 MCP 集成的本地优先跨端笔记应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zexadev/lapisnote 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "zexadev/lapisnote 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    line [16, 15, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

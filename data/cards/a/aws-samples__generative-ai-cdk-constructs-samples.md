@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-cdk-constructs-samples
 
-⭐ 176 · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) · [官网](https://github.com/awslabs/generative-ai-cdk-constructs) · 组织维护
+⭐ 175 · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) · [官网](https://github.com/awslabs/generative-ai-cdk-constructs) · 组织维护
 
 **基于 AWS GenAI CDK Constructs 的生成式 AI 示例应用合集**
 
@@ -44,13 +44,13 @@ aws-samples 组织维护的示例仓库，演示如何用 AWS Generative AI CDK 
 
 ```mermaid
 xychart-beta
-    title "aws-samples/generative-ai-cdk-constructs-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "aws-samples/generative-ai-cdk-constructs-samples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 174 --> 177
-    line [176, 175, 176, 176]
+    line [176, 175, 176, 175, 176, 175, 175]
 ```
 
-2026-10-18 176 → 2026-11-02 176（+0）
+2026-10-18 176 → 2026-11-17 175（-1）
 
 
 ---

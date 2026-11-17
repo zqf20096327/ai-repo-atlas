@@ -1,6 +1,6 @@
 # quguanni/kernel-vuln-data
 
-⭐ 25 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/quguanni/kernel-vuln-data) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/quguanni/kernel-vuln-data) · 个人维护
 
 **Linux 内核漏洞数据集：12.5 万对 bug 修复对及标注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "quguanni/kernel-vuln-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "quguanni/kernel-vuln-data 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

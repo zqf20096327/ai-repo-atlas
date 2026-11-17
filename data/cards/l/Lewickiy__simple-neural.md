@@ -1,6 +1,6 @@
 # Lewickiy/simple-neural
 
-⭐ 14 · Java · 推送 2026-07-26 · [GitHub](https://github.com/Lewickiy/simple-neural) · 个人维护
+⭐ 15 · Java · 推送 2026-07-26 · [GitHub](https://github.com/Lewickiy/simple-neural) · 个人维护
 
 **Java 教学用前馈神经网络实现，含反向传播与分类示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lewickiy/simple-neural 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14]
+    title "Lewickiy/simple-neural 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 14, 13, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-02 14（+3）
+2026-10-18 11 → 2026-11-17 15（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # lttxzmj/chinese-law-corpus
 
-⭐ 39 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/lttxzmj/chinese-law-corpus) · 个人维护 · 中文 README
+⭐ 44 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/lttxzmj/chinese-law-corpus) · [官网](https://gitee.com/chengzi_h/chinese-law-corpus) · 个人维护 · 中文 README
 
 **中国法律法规与案例的结构化 JSON 语料库（1513 部+723 案例）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lttxzmj/chinese-law-corpus 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 29 --> 40
-    line [30, 31, 32, 33, 34, 36, 37, 38, 39]
+    title "lttxzmj/chinese-law-corpus 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 29 --> 45
+    line [30, 31, 32, 33, 34, 36, 37, 38, 39, 32, 42, 43, 44, 44]
 ```
 
-2026-10-18 30 → 2026-11-02 39（+9）
+2026-10-18 30 → 2026-11-17 44（+14）
 
 
 ---

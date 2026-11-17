@@ -1,6 +1,6 @@
 # Bigduang/new-api-audit-for-company
 
-⭐ 14 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Bigduang/new-api-audit-for-company) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Bigduang/new-api-audit-for-company) · 个人维护 · 中文 README
 
 **New-API 的 token 用量与工作用途事后审计服务，供企业内部中转站使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bigduang/new-api-audit-for-company 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "Bigduang/new-api-audit-for-company 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # null-object-0000/ai-clash
 
-⭐ 19 · TypeScript · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/null-object-0000/ai-clash) · [官网](https://ai-clash.snewbie.site) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **浏览器扩展：一次提问让多个网页 AI 同屏作答并总结**
 
@@ -11,7 +11,7 @@ Chrome/Edge 浏览器扩展，用户一次提问后由多个已登录的网页�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Chrome/Edge 浏览器扩展，用户一次提问后由多个已登录的网页�
 
 ```mermaid
 xychart-beta
-    title "null-object-0000/ai-clash 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "null-object-0000/ai-clash 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-11 20（+2）
 
 
 ---

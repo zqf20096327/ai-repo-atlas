@@ -1,6 +1,6 @@
 # tae2089/code-context-graph
 
-⭐ 17 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/tae2089/code-context-graph) · 个人维护 · 中文 README
+⭐ 18 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/tae2089/code-context-graph) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的无向量代码检索与知识图谱工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tae2089/code-context-graph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "tae2089/code-context-graph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

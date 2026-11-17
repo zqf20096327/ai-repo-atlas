@@ -1,6 +1,6 @@
 # davide-troiani/moeshift
 
-⭐ 19 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/davide-troiani/moeshift) · 个人维护
+⭐ 122 · C++ · MIT · 推送 2026-11-15 · [GitHub](https://github.com/davide-troiani/moeshift) · 个人维护
 
 **在 10GB 内存 Apple Silicon Mac 上本地运行 125B MoE 模型的推理服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "davide-troiani/moeshift 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 8 --> 20
-    line [9, 19]
+    title "davide-troiani/moeshift 星数(近 11 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 0 --> 133
+    line [9, 19, 49, 83, 96, 107, 116, 119, 120, 122, 122]
 ```
 
-2026-11-01 9 → 2026-11-02 19（+10）
+2026-11-01 9 → 2026-11-17 122（+113）
 
 
 ---

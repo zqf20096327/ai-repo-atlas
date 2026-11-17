@@ -1,6 +1,6 @@
 # berelevant-ai/slopless
 
-⭐ 338 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/berelevant-ai/slopless) · [官网](https://www.npmjs.com/package/slopless) · 组织维护
+⭐ 341 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/berelevant-ai/slopless) · [官网](https://www.npmjs.com/package/slopless) · 组织维护
 
 **检测英文 Markdown 中 AI 味文风的确定性 textlint 规则集与 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "berelevant-ai/slopless 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 333 --> 339
-    line [334, 335, 336, 337, 338, 338]
+    title "berelevant-ai/slopless 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 333 --> 342
+    line [334, 335, 336, 337, 338, 335, 339, 340, 341, 341]
 ```
 
-2026-10-18 334 → 2026-11-02 338（+4）
+2026-10-18 334 → 2026-11-17 341（+7）
 
 
 ---

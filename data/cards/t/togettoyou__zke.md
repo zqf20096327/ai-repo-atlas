@@ -1,6 +1,6 @@
 # togettoyou/zke
 
-⭐ 107 · Go · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/togettoyou/zke) · 个人维护 · 中文 README
+⭐ 108 · Go · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/togettoyou/zke) · 个人维护 · 中文 README
 
 **AI 原生的多集群 Kubernetes 操作环境与受控 AIOps Agent**
 
@@ -45,13 +45,13 @@ ZKE 把数据中心、私有云、公有云与边缘的多个 Kubernetes 集群�
 
 ```mermaid
 xychart-beta
-    title "togettoyou/zke 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    title "togettoyou/zke 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 106 --> 109
+    line [107, 108, 108]
 ```
 
-2026-10-18 107 → 2026-11-02 107（+0）
+2026-10-18 107 → 2026-11-17 108（+1）
 
 
 ---

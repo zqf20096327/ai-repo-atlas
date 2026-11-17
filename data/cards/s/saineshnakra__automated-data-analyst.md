@@ -1,6 +1,6 @@
 # saineshnakra/automated-data-analyst
 
-⭐ 34 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/saineshnakra/automated-data-analyst) · [官网](https://automated-data-analyst.streamlit.app/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/saineshnakra/automated-data-analyst) · [官网](https://automated-data-analyst.streamlit.app/) · 个人维护
 
 **给 LLM 提供数值计算与核验的工具包：用 pandas/SciPy/statsmodels 算数并验证声明**
 
@@ -45,13 +45,13 @@ ADA 是 Python 包、命令行和函数调用工具定义集，供 Claude Code�
 
 ```mermaid
 xychart-beta
-    title "saineshnakra/automated-data-analyst 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 29 --> 35
-    line [30, 34, 34]
+    title "saineshnakra/automated-data-analyst 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 37
+    line [30, 34, 35, 36, 36]
 ```
 
-2026-10-18 30 → 2026-11-02 34（+4）
+2026-10-18 30 → 2026-11-17 36（+6）
 
 
 ---

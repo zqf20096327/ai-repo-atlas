@@ -1,6 +1,6 @@
 # rlan/notebooks
 
-⭐ 35 · Dockerfile · MIT · 推送 2025-11-17 · [GitHub](https://github.com/rlan/notebooks) · [官网](https://hub.docker.com/r/wqael/notebooks/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Docker 化的 Jupyter 机器学习运行环境启动套件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rlan/notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-12 35（+0）
 
 
 ---

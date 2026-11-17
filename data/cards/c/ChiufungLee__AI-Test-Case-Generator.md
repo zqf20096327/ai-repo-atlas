@@ -1,6 +1,6 @@
 # ChiufungLee/AI-Test-Case-Generator
 
-⭐ 22 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ChiufungLee/AI-Test-Case-Generator) · [官网](http://106.13.192.72:8000/) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ChiufungLee/AI-Test-Case-Generator) · [官网](http://106.13.192.72:8000/) · 个人维护 · 中文 README
 
 **面向测试工程师的 RAG+LLM 测试用例生成与测试辅助平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChiufungLee/AI-Test-Case-Generator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22, 22]
+    title "ChiufungLee/AI-Test-Case-Generator 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 30
+    line [19, 20, 21, 22, 20, 23, 25, 28, 29, 29]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 29（+10）
 
 
 ---

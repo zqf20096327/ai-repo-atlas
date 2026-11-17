@@ -1,6 +1,6 @@
 # JoasASantos/DeepNudeDetect
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-01-03 · [GitHub](https://github.com/JoasASantos/DeepNudeDetect) · 个人维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-01-03 · [GitHub](https://github.com/JoasASantos/DeepNudeDetect) · 个人维护
 
 **检测深度伪造/Deepnude/NSFW 图片并提供图像保护的开源系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoasASantos/DeepNudeDetect 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "JoasASantos/DeepNudeDetect 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # MultiX0/last-archive
 
-⭐ 32 · Go · MIT · 推送 2026-01-31 · [GitHub](https://github.com/MultiX0/last-archive) · 个人维护
+⭐ 33 · Go · MIT · 推送 2026-01-31 · [GitHub](https://github.com/MultiX0/last-archive) · 个人维护
 
 **本地优先的网页存档与语义搜索 RAG 引擎，完全离线运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MultiX0/last-archive 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
+    title "MultiX0/last-archive 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-13", "2026-11-17"]
     y-axis "stars" 31 --> 34
-    line [32, 33, 32, 32]
+    line [32, 33, 32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

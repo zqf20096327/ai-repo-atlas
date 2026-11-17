@@ -1,6 +1,6 @@
 # gramaziokohler/aixd_ara
 
-⭐ 12 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/gramaziokohler/aixd_ara) · [官网](https://gramaziokohler.github.io/aixd_ara/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向建筑师的 Grasshopper 插件：用生成式 AI 做逆向设计**
 
@@ -11,7 +11,7 @@ ARA 是 Rhino/Grasshopper 参数化建模环境下的插件，基于 AIXD 工具
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ ARA 是 Rhino/Grasshopper 参数化建模环境下的插件，基于 AIXD 工具
 ```mermaid
 xychart-beta
     title "gramaziokohler/aixd_ara 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-12 12（+0）
 
 
 ---

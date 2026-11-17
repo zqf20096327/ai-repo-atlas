@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Anima-Wardrobe
 
-⭐ 22 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe) · [官网](https://registry.comfy.org/nodes/comfyui-anima-wardrobe) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe) · [官网](https://registry.comfy.org/nodes/comfyui-anima-wardrobe) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：动漫角色造型槽位与提示词标签仲裁**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lingdongbudong/Comfyui-Anima-Wardrobe 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 23
-    line [13, 14, 15, 17, 18, 19, 21, 22]
+    title "lingdongbudong/Comfyui-Anima-Wardrobe 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 27
+    line [13, 14, 15, 17, 18, 19, 21, 22, 15, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 13 → 2026-11-02 22（+9）
+2026-10-18 13 → 2026-11-17 26（+13）
 
 
 ---

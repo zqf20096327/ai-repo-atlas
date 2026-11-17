@@ -1,6 +1,6 @@
 # Gen-Verse/Open-AgentRL
 
-⭐ 659 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/Gen-Verse/Open-AgentRL) · [官网](https://arxiv.org/abs/2602.02488) · 组织维护 · 中文 README
+⭐ 664 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/Gen-Verse/Open-AgentRL) · [官网](https://arxiv.org/abs/2602.02488) · 组织维护 · 中文 README
 
 **面向 LLM 与 Agent 场景的开源强化学习训练框架与研究集合**
 
@@ -46,13 +46,13 @@ Gen-Verse 维护的仓库，聚合三项研究工作并开源训练代码：RLAn
 
 ```mermaid
 xychart-beta
-    title "Gen-Verse/Open-AgentRL 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 654 --> 660
-    line [655, 657, 658, 659, 659]
+    title "Gen-Verse/Open-AgentRL 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 654 --> 665
+    line [655, 657, 658, 659, 657, 661, 663, 662, 663, 664, 664]
 ```
 
-2026-10-18 655 → 2026-11-02 659（+4）
+2026-10-18 655 → 2026-11-17 664（+9）
 
 
 ---

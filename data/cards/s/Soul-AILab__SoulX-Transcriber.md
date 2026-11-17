@@ -1,6 +1,6 @@
 # Soul-AILab/SoulX-Transcriber
 
-⭐ 305 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/Soul-AILab/SoulX-Transcriber) · [官网](https://soul-ailab.github.io/soulx-transcriber/) · 组织维护 · 中文 README
+⭐ 308 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/Soul-AILab/SoulX-Transcriber) · [官网](https://soul-ailab.github.io/soulx-transcriber/) · 组织维护 · 中文 README
 
 **多说话人语音转录的端到端音频语言大模型框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Soul-AILab/SoulX-Transcriber 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 299 --> 306
-    line [300, 301, 302, 303, 304, 305, 305]
+    title "Soul-AILab/SoulX-Transcriber 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 299 --> 309
+    line [300, 301, 302, 303, 304, 305, 302, 306, 307, 308, 308]
 ```
 
-2026-10-18 300 → 2026-11-02 305（+5）
+2026-10-18 300 → 2026-11-17 308（+8）
 
 
 ---

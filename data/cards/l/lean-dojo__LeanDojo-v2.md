@@ -1,6 +1,6 @@
 # lean-dojo/LeanDojo-v2
 
-⭐ 151 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/lean-dojo/LeanDojo-v2) · [官网](https://leandojo.org/) · 组织维护
+⭐ 160 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/lean-dojo/LeanDojo-v2) · [官网](https://leandojo.org/) · 组织维护
 
 **面向 Lean 4 的 AI 定理证明器训练、评估与部署端到端框架**
 
@@ -11,7 +11,7 @@ LeanDojo-v2 是用于训练、评估和部署 Lean 4 AI 辅助定理证明器的
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ LeanDojo-v2 是用于训练、评估和部署 Lean 4 AI 辅助定理证明器的
 
 ```mermaid
 xychart-beta
-    title "lean-dojo/LeanDojo-v2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 146 --> 152
-    line [147, 148, 149, 150, 151, 151]
+    title "lean-dojo/LeanDojo-v2 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 146 --> 161
+    line [147, 148, 149, 150, 151, 148, 155, 156, 157, 158, 160, 160]
 ```
 
-2026-10-18 147 → 2026-11-02 151（+4）
+2026-10-18 147 → 2026-11-17 160（+13）
 
 
 ---

@@ -39,13 +39,13 @@
 
 ```mermaid
 xychart-beta
-    title "vixhal-baraiya/pageindex-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    title "vixhal-baraiya/pageindex-rag 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 94 --> 97
+    line [96, 95, 96, 96]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 96（+0）
 
 
 ---

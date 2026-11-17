@@ -1,6 +1,6 @@
 # trendsmcp-ai/google-trends-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/trendsmcp-ai/google-trends-mcp) · [官网](https://trendsmcp.ai/google-trends) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/trendsmcp-ai/google-trends-mcp) · [官网](https://trendsmcp.ai/google-trends) · 组织维护
 
 **为 AI agent 提供多平台实时趋势数据的托管 MCP 服务器**
 
@@ -44,13 +44,13 @@ Trends MCP 是一个托管在 trendsmcp.ai 的 MCP 服务器，向 Claude、Curs
 
 ```mermaid
 xychart-beta
-    title "trendsmcp-ai/google-trends-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "trendsmcp-ai/google-trends-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 15, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

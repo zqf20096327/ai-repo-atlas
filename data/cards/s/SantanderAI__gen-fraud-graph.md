@@ -1,6 +1,6 @@
 # SantanderAI/gen-fraud-graph
 
-⭐ 295 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/gen-fraud-graph) · [官网](https://pypi.org/project/gen-fraud-graph/) · 组织维护
+⭐ 296 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/gen-fraud-graph) · [官网](https://pypi.org/project/gen-fraud-graph/) · 组织维护
 
 **面向金融反欺诈的合成交易图生成器，用于训练与基准测试**
 
@@ -44,13 +44,13 @@ Santander AI Lab 开源的 Python 工具，生成大规模合成金融交易图�
 
 ```mermaid
 xychart-beta
-    title "SantanderAI/gen-fraud-graph 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 289 --> 296
-    line [290, 291, 292, 293, 294, 295, 295]
+    title "SantanderAI/gen-fraud-graph 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 289 --> 297
+    line [290, 291, 292, 293, 294, 295, 293, 295, 296, 296]
 ```
 
-2026-10-18 290 → 2026-11-02 295（+5）
+2026-10-18 290 → 2026-11-17 296（+6）
 
 
 ---

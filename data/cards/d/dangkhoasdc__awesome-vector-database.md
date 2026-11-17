@@ -1,6 +1,6 @@
 # dangkhoasdc/awesome-vector-database
 
-⭐ 362 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/dangkhoasdc/awesome-vector-database) · 个人维护
+⭐ 362 · CC0-1.0 · 推送 2026-11-06 · [GitHub](https://github.com/dangkhoasdc/awesome-vector-database) · 个人维护
 
 **向量检索与向量数据库领域的策展清单（服务/引擎/论文/课程）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dangkhoasdc/awesome-vector-database 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 361 --> 363
     line [362, 362]
 ```
 
-2026-10-18 362 → 2026-11-02 362（+0）
+2026-10-18 362 → 2026-11-17 362（+0）
 
 
 ---

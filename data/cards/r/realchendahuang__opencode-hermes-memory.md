@@ -1,6 +1,6 @@
 # realchendahuang/opencode-hermes-memory
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/realchendahuang/opencode-hermes-memory) · [官网](https://github.com/realchendahuang/opencode-hermes-memory#readme) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/realchendahuang/opencode-hermes-memory) · [官网](https://github.com/realchendahuang/opencode-hermes-memory#readme) · 个人维护
 
 **为 OpenCode agent 提供纯 Markdown 分层持久记忆的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "realchendahuang/opencode-hermes-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "realchendahuang/opencode-hermes-memory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

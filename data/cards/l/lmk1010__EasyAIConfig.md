@@ -1,6 +1,6 @@
 # lmk1010/EasyAIConfig
 
-⭐ 74 · JavaScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lmk1010/EasyAIConfig) · 个人维护 · 中文 README
+⭐ 73 · JavaScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lmk1010/EasyAIConfig) · 个人维护 · 中文 README
 
 **本地桌面应用：集中配置与管理 AI 编程工具的 Provider、密钥与用量**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lmk1010/EasyAIConfig 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 73 --> 76
-    line [75, 74, 74]
+    title "lmk1010/EasyAIConfig 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 72 --> 76
+    line [75, 74, 75, 74, 73, 73]
 ```
 
-2026-10-18 75 → 2026-11-02 74（-1）
+2026-10-18 75 → 2026-11-17 73（-2）
 
 
 ---

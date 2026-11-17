@@ -1,6 +1,6 @@
 # symfony/ai-store
 
-⭐ 24 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai-store) · [官网](https://symfony.com/packages/ai-store) · 组织维护
+⭐ 25 · PHP · MIT · 推送 2026-11-15 · [GitHub](https://github.com/symfony/ai-store) · [官网](https://symfony.com/packages/ai-store) · 组织维护
 
 **向量存储的 PHP 抽象层组件，统一文档存取接口**
 
@@ -43,13 +43,13 @@ Symfony AI 生态的 Store 组件：为在向量存储中存取文档提供低�
 
 ```mermaid
 xychart-beta
-    title "symfony/ai-store 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "symfony/ai-store 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

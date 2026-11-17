@@ -1,6 +1,6 @@
 # vybraan/vyai
 
-⭐ 15 · Go · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vybraan/vyai) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/vybraan/vyai) · 个人维护
 
 **终端内与 Gemini 对话的轻量 CLI 工具，支持上下文保持**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vybraan/vyai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

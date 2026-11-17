@@ -1,6 +1,6 @@
 # bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude
 
-⭐ 13 · 推送 2026-10-30 · [GitHub](https://github.com/bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 93 · 推送 2026-10-30 · [GitHub](https://github.com/bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的营销文：讲解绕过 Stripe 风控支付 OpenAI/Claude**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 8 --> 14
-    line [9, 13, 13]
+    title "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude 星数(近 10 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1 --> 105
+    line [9, 13, 53, 73, 87, 92, 97, 96, 93, 93]
 ```
 
-2026-10-31 9 → 2026-11-02 13（+4）
+2026-10-31 9 → 2026-11-17 93（+84）
 
 
 ---

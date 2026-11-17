@@ -1,6 +1,6 @@
 # dcSpark/shinkai-node
 
-⭐ 66 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dcSpark/shinkai-node) · [官网](https://shinkai.com) · 组织维护
+⭐ 65 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dcSpark/shinkai-node) · [官网](https://shinkai.com) · 组织维护
 
 **无代码创建 AI agent 的 Rust 节点后端，含定时任务与原生加密支持**
 
@@ -43,13 +43,13 @@ Shinkai 的 Rust 后端节点：支持不写代码地创建 AI agent、定义任
 
 ```mermaid
 xychart-beta
-    title "dcSpark/shinkai-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "dcSpark/shinkai-node 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 67
+    line [66, 65, 65]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 65（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # VisActor/skills
 
-⭐ 473 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/VisActor/skills) · [官网](https://www.visactor.io/vmind) · 组织维护 · 中文 README
+⭐ 487 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/VisActor/skills) · [官网](https://www.visactor.com/vmind) · 组织维护 · 中文 README
 
 **为宿主 Agent 提供数据故事、杂志图文与生平海报生成技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VisActor/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 470 --> 474
-    line [471, 472, 473, 473]
+    title "VisActor/skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 470 --> 488
+    line [471, 472, 473, 472, 475, 477, 480, 483, 484, 487, 487]
 ```
 
-2026-10-18 471 → 2026-11-02 473（+2）
+2026-10-18 471 → 2026-11-17 487（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # ziqi-jin/agent-to-trust
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ziqi-jin/agent-to-trust) · [官网](https://sealit.cc) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ziqi-jin/agent-to-trust) · [官网](https://sealit.cc) · 个人维护 · 中文 README
 
 **AI agent 信任度测评实验室：考试出证据，算出可复算的信用分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ziqi-jin/agent-to-trust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

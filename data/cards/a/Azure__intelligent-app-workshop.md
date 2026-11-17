@@ -1,6 +1,6 @@
 # Azure/intelligent-app-workshop
 
-⭐ 208 · Bicep · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Azure/intelligent-app-workshop) · [官网](https://copilotwksp.com) · 组织维护
+⭐ 210 · Bicep · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Azure/intelligent-app-workshop) · [官网](https://copilotwksp.com) · 组织维护
 
 **微软官方动手工坊：用 Copilot 技术栈构建自定义智能应用**
 
@@ -44,13 +44,13 @@ Azure 官方沉浸式工坊，指导开发者基于微软 Copilot 技术栈（Az
 
 ```mermaid
 xychart-beta
-    title "Azure/intelligent-app-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 207 --> 209
-    line [208, 208]
+    title "Azure/intelligent-app-workshop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 207 --> 211
+    line [208, 210, 210]
 ```
 
-2026-10-18 208 → 2026-11-02 208（+0）
+2026-10-18 208 → 2026-11-17 210（+2）
 
 
 ---

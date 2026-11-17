@@ -1,6 +1,6 @@
 # ertis-research/kafka-ml
 
-⭐ 206 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ertis-research/kafka-ml) · 组织维护
+⭐ 206 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ertis-research/kafka-ml) · 组织维护
 
 **在 Kubernetes 上管理 ML 模型流水线、数据流由 Kafka 接入的框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ertis-research/kafka-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 205 --> 207
     line [206, 206]
 ```
 
-2026-10-18 206 → 2026-11-02 206（+0）
+2026-10-18 206 → 2026-11-17 206（+0）
 
 
 ---

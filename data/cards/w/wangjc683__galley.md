@@ -1,6 +1,6 @@
 # wangjc683/galley
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wangjc683/galley) · 个人维护 · 中文 README
+⭐ 74 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/wangjc683/galley) · 个人维护 · 中文 README
 
 **本地优先的桌面个人 AI 助理，操作终端、文件与浏览器完成任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangjc683/galley 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "wangjc683/galley 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

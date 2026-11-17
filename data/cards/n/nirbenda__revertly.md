@@ -1,6 +1,6 @@
 # nirbenda/revertly
 
-⭐ 12 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/nirbenda/revertly) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/nirbenda/revertly) · 个人维护
 
 **本地离线的 AI 编码代理安全网：记录并撤销文件改动、告警敏感读取**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirbenda/revertly 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "nirbenda/revertly 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

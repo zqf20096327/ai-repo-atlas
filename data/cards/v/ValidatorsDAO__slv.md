@@ -1,6 +1,6 @@
 # ValidatorsDAO/slv
 
-⭐ 96 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ValidatorsDAO/slv) · [官网](https://slv.dev) · 组织维护
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ValidatorsDAO/slv) · [官网](https://slv.dev) · 组织维护
 
 **给 Solana 节点运营者的开源运维工具包，含可选 AI 控制台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ValidatorsDAO/slv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    title "ValidatorsDAO/slv 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 94 --> 97
+    line [96, 95, 95]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 95（-1）
 
 
 ---

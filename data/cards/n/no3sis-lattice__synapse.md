@@ -1,6 +1,6 @@
 # no3sis-lattice/synapse
 
-⭐ 14 · Python · MIT · 推送 2025-11-13 · [GitHub](https://github.com/no3sis-lattice/synapse) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 Synapse 知识引擎暴露给 Claude Code 的 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "no3sis-lattice/synapse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-08 14（+0）
 
 
 ---

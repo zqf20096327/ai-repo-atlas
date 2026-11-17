@@ -1,6 +1,6 @@
 # jame-ri/cst2026-skill-mcp
 
-⭐ 12 · HTML · 推送 2026-09-07 · [GitHub](https://github.com/jame-ri/cst2026-skill-mcp) · 个人维护 · 中文 README
+⭐ 13 · HTML · 推送 2026-09-07 · [GitHub](https://github.com/jame-ri/cst2026-skill-mcp) · 个人维护 · 中文 README
 
 **面向 AI agent 的 CST Studio Suite 电磁仿真自动化知识与工具库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jame-ri/cst2026-skill-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "jame-ri/cst2026-skill-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

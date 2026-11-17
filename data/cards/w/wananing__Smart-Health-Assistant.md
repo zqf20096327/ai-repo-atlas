@@ -1,6 +1,6 @@
 # wananing/Smart-Health-Assistant
 
-⭐ 38 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/wananing/Smart-Health-Assistant) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/wananing/Smart-Health-Assistant) · 个人维护 · 中文 README
 
 **开源大健康 AI 助手全栈参考实现：多智能体问诊+实时语音**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wananing/Smart-Health-Assistant 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 32 --> 39
-    line [33, 34, 35, 37, 38, 38]
+    title "wananing/Smart-Health-Assistant 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 45
+    line [33, 34, 35, 37, 38, 35, 40, 41, 42, 43, 44, 44]
 ```
 
-2026-10-18 33 → 2026-11-02 38（+5）
+2026-10-18 33 → 2026-11-17 44（+11）
 
 
 ---

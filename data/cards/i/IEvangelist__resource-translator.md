@@ -1,6 +1,6 @@
 # IEvangelist/resource-translator
 
-⭐ 70 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/IEvangelist/resource-translator) · [官网](https://ievangelist.github.io/resource-translator/) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/IEvangelist/resource-translator) · [官网](https://ievangelist.github.io/resource-translator/) · 个人维护
 
 **GitHub Action：为资源文件自动生成机器翻译的 PR**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IEvangelist/resource-translator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "IEvangelist/resource-translator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 69 --> 72
-    line [71, 70]
+    line [71, 70, 71, 70, 70]
 ```
 
-2026-10-18 71 → 2026-11-02 70（-1）
+2026-10-18 71 → 2026-11-17 70（-1）
 
 
 ---

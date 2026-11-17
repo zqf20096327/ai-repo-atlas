@@ -1,6 +1,6 @@
 # modiqo/cliare
 
-⭐ 462 · Rust · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/modiqo/cliare) · [官网](https://cliare.sh) · 组织维护
+⭐ 433 · Rust · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/modiqo/cliare) · [官网](https://cliare.sh) · 组织维护
 
 **CLI 的 agent 就绪度评测工具：探测命令面并生成索引与评分卡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "modiqo/cliare 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 461 --> 470
-    line [469, 462, 462]
+    title "modiqo/cliare 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 429 --> 472
+    line [469, 462, 437, 432, 433, 433]
 ```
 
-2026-10-18 469 → 2026-11-02 462（-7）
+2026-10-18 469 → 2026-11-17 433（-36）
 
 
 ---

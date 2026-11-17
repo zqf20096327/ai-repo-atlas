@@ -1,6 +1,6 @@
 # kulkarnirohit123/cra-agent
 
-⭐ 393 · Python · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/kulkarnirohit123/cra-agent) · 个人维护
+⭐ 394 · Python · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/kulkarnirohit123/cra-agent) · 个人维护
 
 **面向 CRA 合规的自主 agent：扫描提交、分诊漏洞并自动修复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kulkarnirohit123/cra-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "kulkarnirohit123/cra-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 387 --> 460
-    line [454, 430, 393, 393]
+    line [454, 430, 393, 430, 393, 394, 394]
 ```
 
-2026-10-18 454 → 2026-11-02 393（-61）
+2026-10-18 454 → 2026-11-17 394（-60）
 
 
 ---

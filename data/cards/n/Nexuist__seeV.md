@@ -1,6 +1,6 @@
 # Nexuist/seeV
 
-⭐ 34 · Swift · 推送 2026-08-12 · [GitHub](https://github.com/Nexuist/seeV) · 个人维护
+⭐ 35 · Swift · 推送 2026-08-12 · [GitHub](https://github.com/Nexuist/seeV) · 个人维护
 
 **macOS 命令行工具：在 shell 中调用 Apple Vision 做图像/视频识别**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nexuist/seeV 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "Nexuist/seeV 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # bxmaximum/bitrix_ai_challenge
 
-⭐ 38 · PHP · 推送 2026-10-14 · [GitHub](https://github.com/bxmaximum/bitrix_ai_challenge) · [官网](https://t.me/bxmaximum) · 组织维护
+⭐ 37 · PHP · 推送 2026-11-09 · [GitHub](https://github.com/bxmaximum/bitrix_ai_challenge) · [官网](https://t.me/bxmaximum) · 组织维护
 
 **AI 编程代理在 1С-Битрикс 开发任务上的对比基准与榜单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bxmaximum/bitrix_ai_challenge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "bxmaximum/bitrix_ai_challenge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    line [36, 37, 38, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 38（+2）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

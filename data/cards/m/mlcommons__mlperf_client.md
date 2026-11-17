@@ -1,6 +1,6 @@
 # mlcommons/mlperf_client
 
-⭐ 95 · C++ · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/mlcommons/mlperf_client) · [官网](https://mlcommons.org/benchmarks/client/) · 组织维护
+⭐ 96 · C++ · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/mlcommons/mlperf_client) · [官网](https://mlcommons.org/benchmarks/client/) · 组织维护
 
 **面向个人设备的 ML 推理性能基准测试工具（命令行）**
 
@@ -44,13 +44,13 @@ MLCommons 的 MLPerf Client 基准：在 Windows/macOS 个人电脑上测量 LLM
 
 ```mermaid
 xychart-beta
-    title "mlcommons/mlperf_client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    title "mlcommons/mlperf_client 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 94, 96, 96]
 ```
 
-2026-10-18 94 → 2026-11-02 95（+1）
+2026-10-18 94 → 2026-11-17 96（+2）
 
 
 ---

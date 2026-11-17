@@ -1,6 +1,6 @@
 # microsoft/msrgamut
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/msrgamut) · [官网](https://microsoft.github.io/msrgamut/) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/msrgamut) · [官网](https://microsoft.github.io/msrgamut/) · 组织维护
 
 **交互式可视化广义可加模型（GAM）以理解机器学习模型的原型工具**
 
@@ -45,12 +45,12 @@ Microsoft 发布的设计探针（design probe）原型，用于研究数据科�
 ```mermaid
 xychart-beta
     title "microsoft/msrgamut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

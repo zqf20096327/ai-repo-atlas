@@ -1,6 +1,6 @@
 # RayP11/QuestChain
 
-⭐ 15 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/RayP11/QuestChain) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/RayP11/QuestChain) · 个人维护
 
 **完全本地运行的自主 AI 助手：多智能体分工处理任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RayP11/QuestChain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

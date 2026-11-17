@@ -1,6 +1,6 @@
 # H0nGzA1/testpilot
 
-⭐ 19 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/H0nGzA1/testpilot) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/H0nGzA1/testpilot) · 个人维护 · 中文 README
 
 **自然语言 E2E 测试平台：浏览器 agent 执行、LLM 裁决通过与否**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "H0nGzA1/testpilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "H0nGzA1/testpilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-13", "2026-11-17"]
     y-axis "stars" 16 --> 20
-    line [17, 19, 19]
+    line [17, 19, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

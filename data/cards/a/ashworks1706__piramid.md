@@ -1,6 +1,6 @@
 # ashworks1706/piramid
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ashworks1706/piramid) · [官网](https://piramiddb.com) · 个人维护
+⭐ 16 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ashworks1706/piramid) · [官网](https://piramiddb.com) · 个人维护
 
 **面向开发者的 Rust 推理系统：让语言模型在计算中直接使用外部信息**
 
@@ -44,13 +44,13 @@ Piramid 是一个 Rust 编写的 AI 推理系统项目，研究语言模型在�
 
 ```mermaid
 xychart-beta
-    title "ashworks1706/piramid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ashworks1706/piramid 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

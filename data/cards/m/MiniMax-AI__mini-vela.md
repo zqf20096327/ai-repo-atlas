@@ -1,6 +1,6 @@
 # MiniMax-AI/mini-vela
 
-⭐ 41 · Python · 推送 2026-04-02 · [GitHub](https://github.com/MiniMax-AI/mini-vela) · 组织维护 · 中文 README
+⭐ 43 · Python · 推送 2026-04-02 · [GitHub](https://github.com/MiniMax-AI/mini-vela) · 组织维护 · 中文 README
 
 **评测 AI 编程 Agent 指令遵循能力的基准框架（OctoBench）**
 
@@ -44,13 +44,13 @@ MiniMax 发布的 OctoBench 基准框架：通过在宿主机运行 LiteLLM Prox
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/mini-vela 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "MiniMax-AI/mini-vela 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 39 --> 44
+    line [40, 41, 42, 43, 43]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 43（+3）
 
 
 ---

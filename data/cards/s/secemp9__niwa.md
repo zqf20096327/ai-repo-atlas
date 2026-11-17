@@ -1,6 +1,6 @@
 # secemp9/niwa
 
-⭐ 17 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/secemp9/niwa) · [官网](https://pypi.org/project/niwa) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/secemp9/niwa) · [官网](https://pypi.org/project/niwa) · 个人维护
 
 **多 LLM agent 并发协作编辑 Markdown 的冲突感知 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "secemp9/niwa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "secemp9/niwa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

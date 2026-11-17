@@ -1,6 +1,6 @@
 # MoJIeAIGC/comfyui-MJAPI-party
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/MoJIeAIGC/comfyui-MJAPI-party) · [官网](http://www.mojieaigc.com) · 组织维护 · 中文 README
+⭐ 54 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/MoJIeAIGC/comfyui-MJAPI-party) · [官网](http://www.mojieaigc.com) · 组织维护 · 中文 README
 
 **给 ComfyUI 用户的聚合 API 节点包：一个 key 调用多家模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoJIeAIGC/comfyui-MJAPI-party 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "MoJIeAIGC/comfyui-MJAPI-party 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 56
+    line [55, 54, 54]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 54（-1）
 
 
 ---

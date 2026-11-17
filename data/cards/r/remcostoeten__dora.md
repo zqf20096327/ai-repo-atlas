@@ -1,6 +1,6 @@
 # remcostoeten/dora
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/remcostoeten/dora) · [官网](https://doradb.app) · 个人维护
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/remcostoeten/dora) · [官网](https://doradb.app) · 个人维护
 
 **Rust/Tauri 桌面数据库工作台，支持多种数据库与 AI SQL 生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "remcostoeten/dora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "remcostoeten/dora 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

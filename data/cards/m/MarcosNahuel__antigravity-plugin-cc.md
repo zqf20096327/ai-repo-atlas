@@ -1,6 +1,6 @@
 # MarcosNahuel/antigravity-plugin-cc
 
-⭐ 32 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/MarcosNahuel/antigravity-plugin-cc) · [官网](https://traidagency.com/labs/antigravity) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/MarcosNahuel/antigravity-plugin-cc) · [官网](https://traidagency.com/labs/antigravity) · 个人维护
 
 **Claude Code 插件：经 agy 调用 Gemini 做文档综合、转录与深度研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarcosNahuel/antigravity-plugin-cc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "MarcosNahuel/antigravity-plugin-cc 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-02 32（+2）
+2026-10-18 30 → 2026-11-17 33（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Haoming02/comfyui-prompt-format
 
-⭐ 36 · JavaScript · MIT · 推送 2025-11-19 · [GitHub](https://github.com/Haoming02/comfyui-prompt-format) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ComfyUI 扩展：清理与格式化提示词文本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Haoming02/comfyui-prompt-format 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-14 36（+0）
 
 
 ---

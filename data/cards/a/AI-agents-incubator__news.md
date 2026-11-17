@@ -1,6 +1,6 @@
 # AI-agents-incubator/news
 
-⭐ 84 · JavaScript · 推送 2026-08-04 · [GitHub](https://github.com/AI-agents-incubator/news) · 个人维护
+⭐ 86 · JavaScript · 推送 2026-08-04 · [GitHub](https://github.com/AI-agents-incubator/news) · 个人维护
 
 **自动新闻摘要流水线：收集新闻→LLM 生成评语→发布 Telegram/Facebook**
 
@@ -45,13 +45,13 @@ Node.js + SQLite 的自托管新闻摘要管道：用户在 Perplexity Discover 
 
 ```mermaid
 xychart-beta
-    title "AI-agents-incubator/news 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    title "AI-agents-incubator/news 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # myths-labs/muse
 
-⭐ 37 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/myths-labs/muse) · [官网](https://github.com/myths-labs/muse) · 组织维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/myths-labs/muse) · [官网](https://github.com/myths-labs/muse) · 组织维护 · 中文 README
 
 **面向 AI 结对编程的 Markdown 治理系统：角色、记忆与技能管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "myths-labs/muse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [37, 36, 37, 37]
+    title "myths-labs/muse 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 41
+    line [37, 36, 37, 36, 38, 39, 40, 40]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 40（+3）
 
 
 ---

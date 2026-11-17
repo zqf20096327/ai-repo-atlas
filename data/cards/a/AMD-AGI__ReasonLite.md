@@ -1,6 +1,6 @@
 # AMD-AGI/ReasonLite
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/AMD-AGI/ReasonLite) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/AMD-AGI/ReasonLite) · 组织维护
 
 **AMD 开源的 0.6B 参数超轻量数学推理模型及训练数据管线**
 
@@ -44,13 +44,13 @@ ReasonLite 是基于 Qwen3-0.6B 两阶段蒸馏得到的数学推理模型：先
 
 ```mermaid
 xychart-beta
-    title "AMD-AGI/ReasonLite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "AMD-AGI/ReasonLite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

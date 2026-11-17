@@ -1,6 +1,6 @@
 # avayabaniya/job-cd
 
-⭐ 12 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/avayabaniya/job-cd) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/avayabaniya/job-cd) · 个人维护
 
 **求职外联自动化 CLI：输入职位链接，AI 生成邮件并自动发送**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "avayabaniya/job-cd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "avayabaniya/job-cd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

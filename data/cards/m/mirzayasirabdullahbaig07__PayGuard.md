@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/PayGuard
 
-⭐ 27 · TypeScript · 推送 2026-08-09 · [GitHub](https://github.com/mirzayasirabdullahbaig07/PayGuard) · [官网](https://payguard07.netlify.app/) · 个人维护
+⭐ 26 · TypeScript · 推送 2026-08-09 · [GitHub](https://github.com/mirzayasirabdullahbaig07/PayGuard) · [官网](https://payguard07.netlify.app/) · 个人维护
 
 **给自由职业者的客户风险评估工具：输入信息出风险等级与防护邮件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/PayGuard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/PayGuard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 23 --> 28
-    line [24, 26, 27, 27]
+    line [24, 26, 27, 24, 27, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

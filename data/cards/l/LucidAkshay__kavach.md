@@ -1,6 +1,6 @@
 # LucidAkshay/kavach
 
-⭐ 260 · TypeScript · GPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/LucidAkshay/kavach) · 个人维护
+⭐ 262 · TypeScript · GPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/LucidAkshay/kavach) · 个人维护
 
 **监控并约束本地 AI agent 与 LLM 的端点检测响应（EDR）桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LucidAkshay/kavach 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 258 --> 261
-    line [259, 260, 259, 260, 260]
+    title "LucidAkshay/kavach 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 258 --> 263
+    line [259, 260, 259, 260, 261, 262, 262]
 ```
 
-2026-10-18 259 → 2026-11-02 260（+1）
+2026-10-18 259 → 2026-11-17 262（+3）
 
 
 ---

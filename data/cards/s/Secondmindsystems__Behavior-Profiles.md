@@ -1,6 +1,6 @@
 # Secondmindsystems/Behavior-Profiles
 
-⭐ 18 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Secondmindsystems/Behavior-Profiles) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Secondmindsystems/Behavior-Profiles) · 组织维护
 
 **AI agent 行为约束的便携契约层：让预期行为显式化、可审查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Secondmindsystems/Behavior-Profiles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Secondmindsystems/Behavior-Profiles 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

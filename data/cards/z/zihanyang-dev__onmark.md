@@ -1,6 +1,6 @@
 # zihanyang-dev/onmark
 
-⭐ 126 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/zihanyang-dev/onmark) · 个人维护 · 中文 README
+⭐ 125 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/zihanyang-dev/onmark) · 个人维护 · 中文 README
 
 **面向人与 agent 的剧本优先 HTML 视频编译 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zihanyang-dev/onmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 125 --> 127
-    line [126, 126]
+    title "zihanyang-dev/onmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 124 --> 127
+    line [126, 125, 125]
 ```
 
-2026-10-18 126 → 2026-11-02 126（+0）
+2026-10-18 126 → 2026-11-17 125（-1）
 
 
 ---

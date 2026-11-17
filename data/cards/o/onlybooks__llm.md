@@ -1,6 +1,6 @@
 # onlybooks/llm
 
-⭐ 197 · Jupyter Notebook · 推送 2026-04-22 · [GitHub](https://github.com/onlybooks/llm) · [官网](https://www.onlybook.co.kr/entry/llm) · 组织维护 · 中文 README
+⭐ 198 · Jupyter Notebook · 推送 2026-04-22 · [GitHub](https://github.com/onlybooks/llm) · [官网](https://www.onlybook.co.kr/entry/llm) · 组织维护 · 中文 README
 
 **LLM 实战应用开发书籍的配套实练代码仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onlybooks/llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 196 --> 198
-    line [197, 197]
+    title "onlybooks/llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 196 --> 199
+    line [197, 198, 198]
 ```
 
-2026-10-18 197 → 2026-11-02 197（+0）
+2026-10-18 197 → 2026-11-17 198（+1）
 
 
 ---

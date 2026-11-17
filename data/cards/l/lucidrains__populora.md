@@ -1,6 +1,6 @@
 # lucidrains/populora
 
-⭐ 19 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/lucidrains/populora) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/lucidrains/populora) · 个人维护
 
 **PopuLoRA 论文实现：共享基座上协同进化 LoRA 种群**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/populora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "lucidrains/populora 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/figure
 
-⭐ 12 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/figure) · [官网](https://neurips.cc/virtual/2023/poster/69941) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/figure) · [官网](https://neurips.cc/virtual/2023/poster/69941) · 组织维护
 
 **NeurIPS'23 论文代码：基于滤波增强的无监督图节点表示学习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/figure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

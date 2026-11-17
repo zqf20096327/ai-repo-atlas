@@ -45,13 +45,13 @@ Rust 编写的 GGUF 量化模型卸载推理运行时：权重保持 file-backed
 
 ```mermaid
 xychart-beta
-    title "coderredlab/runNburn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "coderredlab/runNburn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zyhector/token-rush
 
-⭐ 23 · Python · 推送 2026-09-12 · [GitHub](https://github.com/zyhector/token-rush) · 个人维护
+⭐ 25 · Python · 推送 2026-09-12 · [GitHub](https://github.com/zyhector/token-rush) · 个人维护
 
 **单卡 RTX 5090 上运行 Qwen3.8-27B 的单流 LLM 推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zyhector/token-rush 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "zyhector/token-rush 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 23, 24, 25, 25]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 25（+4）
 
 
 ---

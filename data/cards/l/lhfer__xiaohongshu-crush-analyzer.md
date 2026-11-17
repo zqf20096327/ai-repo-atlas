@@ -1,6 +1,6 @@
 # lhfer/xiaohongshu-crush-analyzer
 
-⭐ 13 · MIT · 推送 2026-03-10 · [GitHub](https://github.com/lhfer/xiaohongshu-crush-analyzer) · [官网](https://lhfer.github.io/xiaohongshu-crush-analyzer/) · 个人维护 · 中文 README
+⭐ 15 · MIT · 推送 2026-03-10 · [GitHub](https://github.com/lhfer/xiaohongshu-crush-analyzer) · [官网](https://lhfer.github.io/xiaohongshu-crush-analyzer/) · 个人维护 · 中文 README
 
 **分析小红书主页生成画像与追求攻略的 Claude Desktop Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lhfer/xiaohongshu-crush-analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "lhfer/xiaohongshu-crush-analyzer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

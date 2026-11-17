@@ -1,6 +1,6 @@
 # crstian19/llamit
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/crstian19/llamit) · [官网](https://llamit.crstian.me) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/crstian19/llamit) · [官网](https://llamit.crstian.me) · 个人维护
 
 **VS Code 扩展：用本地 Ollama 等端点生成语义化提交信息**
 
@@ -45,12 +45,12 @@ Llamit 是一个 VS Code 扩展，用于生成语义化 Git 提交信息。架�
 ```mermaid
 xychart-beta
     title "crstian19/llamit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

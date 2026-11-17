@@ -1,6 +1,6 @@
 # Context-Engine-AI/Context-Engine
 
-⭐ 400 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Context-Engine-AI/Context-Engine) · [官网](https://context-engine.ai) · 组织维护
+⭐ 402 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Context-Engine-AI/Context-Engine) · [官网](https://context-engine.ai) · 组织维护
 
 **为 AI 编程助手提供语义代码搜索与记忆的 MCP 工具套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Context-Engine-AI/Context-Engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 399 --> 402
-    line [401, 400, 400]
+    title "Context-Engine-AI/Context-Engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 399 --> 403
+    line [401, 400, 401, 402, 402]
 ```
 
-2026-10-18 401 → 2026-11-02 400（-1）
+2026-10-18 401 → 2026-11-17 402（+1）
 
 
 ---

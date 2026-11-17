@@ -1,6 +1,6 @@
 # CmsChase/cf-difficulty-prediction
 
-⭐ 33 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/CmsChase/cf-difficulty-prediction) · [官网](https://cmschase.github.io/cf-difficulty-prediction/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/CmsChase/cf-difficulty-prediction) · [官网](https://cmschase.github.io/cf-difficulty-prediction/) · 个人维护
 
 **预测 Codeforces 题目难度评分的可复现 ML 研究流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CmsChase/cf-difficulty-prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "CmsChase/cf-difficulty-prediction 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

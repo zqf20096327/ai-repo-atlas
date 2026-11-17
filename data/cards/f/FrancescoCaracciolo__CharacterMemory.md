@@ -1,6 +1,6 @@
 # FrancescoCaracciolo/CharacterMemory
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/FrancescoCaracciolo/CharacterMemory) · 个人维护
+⭐ 28 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/FrancescoCaracciolo/CharacterMemory) · 个人维护
 
 **为 LLM 角色提供类人记忆（记住/遗忘/情感）的库与服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrancescoCaracciolo/CharacterMemory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "FrancescoCaracciolo/CharacterMemory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

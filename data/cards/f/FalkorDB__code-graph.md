@@ -1,6 +1,6 @@
 # FalkorDB/code-graph
 
-⭐ 350 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/FalkorDB/code-graph) · [官网](https://code-graph.falkordb.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **把代码库索引为知识图谱的可视化与查询工具，供开发者与 AI agent 使用**
 
@@ -11,7 +11,7 @@ FalkorDB 出品的代码图谱应用：Python/FastAPI 后端加 React/Next.js �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ FalkorDB 出品的代码图谱应用：Python/FastAPI 后端加 React/Next.js �
 
 ```mermaid
 xychart-beta
-    title "FalkorDB/code-graph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 347 --> 351
-    line [348, 349, 350, 350]
+    title "FalkorDB/code-graph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14"]
+    y-axis "stars" 347 --> 354
+    line [348, 349, 350, 349, 351, 352, 353, 353]
 ```
 
-2026-10-18 348 → 2026-11-02 350（+2）
+2026-10-18 348 → 2026-11-14 353（+5）
 
 
 ---

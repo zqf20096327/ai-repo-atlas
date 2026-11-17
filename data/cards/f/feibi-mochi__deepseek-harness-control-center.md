@@ -1,6 +1,6 @@
 # feibi-mochi/deepseek-harness-control-center
 
-⭐ 78 · JavaScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/feibi-mochi/deepseek-harness-control-center) · 个人维护 · 中文 README
+⭐ 77 · JavaScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/feibi-mochi/deepseek-harness-control-center) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：余额/用量/峰谷计费监控与多账户管理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "feibi-mochi/deepseek-harness-control-center 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "feibi-mochi/deepseek-harness-control-center 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 74 --> 79
-    line [75, 76, 78, 78]
+    line [75, 76, 78, 75, 78, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 78（+3）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ubunye-ai-ecosystems/ubunye_engine
 
-⭐ 16 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ubunye-ai-ecosystems/ubunye_engine) · [官网](https://ubunye-ai-ecosystems.github.io/ubunye_engine/) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ubunye-ai-ecosystems/ubunye_engine) · [官网](https://ubunye-ai-ecosystems.github.io/ubunye_engine/) · 组织维护
 
 **配置驱动的 Spark 数据/ML 流水线框架，同一任务多环境运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ubunye-ai-ecosystems/ubunye_engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

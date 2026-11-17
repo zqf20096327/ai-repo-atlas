@@ -1,6 +1,6 @@
 # The3eard/BeardGit
 
-⭐ 17 · Rust · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/The3eard/BeardGit) · [官网](https://the3eard.github.io/BeardGit/) · 个人维护
+⭐ 17 · Rust · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/The3eard/BeardGit) · [官网](https://the3eard.github.io/BeardGit/) · 个人维护
 
 **把提交图、PR/MR、CI、终端、AI 与编辑器装进一个窗口的桌面 Git 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The3eard/BeardGit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

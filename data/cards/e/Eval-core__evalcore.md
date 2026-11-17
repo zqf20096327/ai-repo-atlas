@@ -1,6 +1,6 @@
 # Eval-core/evalcore
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/Eval-core/evalcore) · [官网](https://evalcore.cc/) · 组织维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/Eval-core/evalcore) · [官网](https://evalcore.cc/) · 组织维护
 
 **本地优先的 LLM 应用与 Agent 快照测试评测运行器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eval-core/evalcore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Eval-core/evalcore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # bigmacman1129/crypto-ai-trading-bot
 
-⭐ 200 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/bigmacman1129/crypto-ai-trading-bot) · 个人维护
+⭐ 201 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/bigmacman1129/crypto-ai-trading-bot) · 个人维护
 
 **自托管加密做市与流动性信号交易机器人（Node.js）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bigmacman1129/crypto-ai-trading-bot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 194 --> 201
-    line [195, 198, 199, 200, 200]
+    title "bigmacman1129/crypto-ai-trading-bot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 194 --> 202
+    line [195, 198, 199, 200, 199, 200, 201, 201]
 ```
 
-2026-10-18 195 → 2026-11-02 200（+5）
+2026-10-18 195 → 2026-11-17 201（+6）
 
 
 ---

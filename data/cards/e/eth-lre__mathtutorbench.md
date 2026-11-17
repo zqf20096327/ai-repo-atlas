@@ -1,6 +1,6 @@
 # eth-lre/mathtutorbench
 
-⭐ 46 · Python · 推送 2026-08-27 · [GitHub](https://github.com/eth-lre/mathtutorbench) · [官网](https://eth-lre.github.io/mathtutorbench/) · 组织维护
+⭐ 49 · Python · 推送 2026-08-27 · [GitHub](https://github.com/eth-lre/mathtutorbench) · [官网](https://eth-lre.github.io/mathtutorbench/) · 组织维护
 
 **评测 LLM 数学导师开放教学能力的基准（EMNLP 2025）**
 
@@ -44,13 +44,13 @@ ETH 维护的基准框架，用 3 项教师技能与 7 个具体任务（解题�
 
 ```mermaid
 xychart-beta
-    title "eth-lre/mathtutorbench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46, 46]
+    title "eth-lre/mathtutorbench 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 43 --> 50
+    line [44, 45, 46, 45, 47, 48, 49, 49]
 ```
 
-2026-10-18 44 → 2026-11-02 46（+2）
+2026-10-18 44 → 2026-11-17 49（+5）
 
 
 ---

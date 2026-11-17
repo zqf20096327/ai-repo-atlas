@@ -1,6 +1,6 @@
 # IBM/unitxt
 
-⭐ 215 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/IBM/unitxt) · [官网](https://www.unitxt.ai) · 组织维护
+⭐ 215 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/IBM/unitxt) · [官网](https://www.unitxt.ai) · 组织维护
 
 **企业级 AI 评测 Python 库：统一评测文本/表格/视觉/语音/代码**
 
@@ -45,12 +45,12 @@ IBM 维护的 Python 评测库，提供命令行评测工具、Python API（eval
 ```mermaid
 xychart-beta
     title "IBM/unitxt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 214 --> 216
     line [215, 215]
 ```
 
-2026-10-18 215 → 2026-11-02 215（+0）
+2026-10-18 215 → 2026-11-17 215（+0）
 
 
 ---

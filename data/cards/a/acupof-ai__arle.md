@@ -1,6 +1,6 @@
 # acupof-ai/arle
 
-⭐ 21 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/acupof-ai/arle) · [官网](https://acupof-ai.github.io/arle/) · 组织维护 · 中文 README
+⭐ 22 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/acupof-ai/arle) · [官网](https://acupof-ai.github.io/arle/) · 组织维护 · 中文 README
 
 **面向编码 agent 的本地推理服务器：Rust 单二进制，Anthropic/OpenAI API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "acupof-ai/arle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "acupof-ai/arle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

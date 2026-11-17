@@ -1,6 +1,6 @@
 # zzh1996/chatgpt-telegram-bot
 
-⭐ 52 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/zzh1996/chatgpt-telegram-bot) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/zzh1996/chatgpt-telegram-bot) · 个人维护
 
 **在 Telegram 中使用多种大模型的聊天机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zzh1996/chatgpt-telegram-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 52（+0）
 
 
 ---

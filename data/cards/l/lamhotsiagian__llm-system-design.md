@@ -1,6 +1,6 @@
 # lamhotsiagian/llm-system-design
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/lamhotsiagian/llm-system-design) · 个人维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/lamhotsiagian/llm-system-design) · 个人维护
 
 **LLM 系统设计参考平台与交互式实验台（150+离线测试）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lamhotsiagian/llm-system-design 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    title "lamhotsiagian/llm-system-design 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 20, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

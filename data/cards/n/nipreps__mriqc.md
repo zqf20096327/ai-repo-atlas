@@ -1,6 +1,6 @@
 # nipreps/mriqc
 
-⭐ 382 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/nipreps/mriqc) · [官网](http://mriqc.readthedocs.io) · 组织维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nipreps/mriqc) · [官网](http://mriqc.readthedocs.io) · 组织维护
 
 **脑部 MRI 影像质量指标提取与可视化质控工具**
 
@@ -44,13 +44,13 @@ MRIQC 从结构（T1w/T2w）、功能与弥散 MRI 数据中提取无参考图�
 
 ```mermaid
 xychart-beta
-    title "nipreps/mriqc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 380 --> 383
-    line [381, 382, 382]
+    title "nipreps/mriqc 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 380 --> 384
+    line [381, 382, 381, 383, 383]
 ```
 
-2026-10-18 381 → 2026-11-02 382（+1）
+2026-10-18 381 → 2026-11-17 383（+2）
 
 
 ---

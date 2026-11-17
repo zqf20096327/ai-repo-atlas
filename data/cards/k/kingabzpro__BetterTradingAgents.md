@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingabzpro/BetterTradingAgents 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    title "kingabzpro/BetterTradingAgents 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 19 --> 33
-    line [20, 26, 32]
+    line [20, 26, 32, 20, 20]
 ```
 
-2026-10-25 20 → 2026-10-27 32（+12）
+2026-10-25 20 → 2026-11-07 20（+0）
 
 
 ---

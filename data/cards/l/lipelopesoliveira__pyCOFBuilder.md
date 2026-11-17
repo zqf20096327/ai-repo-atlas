@@ -1,6 +1,6 @@
 # lipelopesoliveira/pyCOFBuilder
 
-⭐ 67 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/lipelopesoliveira/pyCOFBuilder) · [官网](https://lipelopesoliveira.github.io/pyCOFBuilder/) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/lipelopesoliveira/pyCOFBuilder) · [官网](https://lipelopesoliveira.github.io/pyCOFBuilder/) · 个人维护
 
 **按网状化学规则自动组装共价有机框架（COF）结构的 Python 包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lipelopesoliveira/pyCOFBuilder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "lipelopesoliveira/pyCOFBuilder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 68（+1）
 
 
 ---

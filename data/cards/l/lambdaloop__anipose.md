@@ -1,6 +1,6 @@
 # lambdaloop/anipose
 
-⭐ 472 · JavaScript · BSD-2-Clause · 推送 2026-06-02 · [GitHub](https://github.com/lambdaloop/anipose) · [官网](http://anipose.org) · 个人维护
+⭐ 474 · JavaScript · BSD-2-Clause · 推送 2026-06-02 · [GitHub](https://github.com/lambdaloop/anipose) · [官网](http://anipose.org) · 个人维护
 
 **多相机动物行为的无标记 3D 姿态估计工具箱**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lambdaloop/anipose 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 469 --> 473
-    line [470, 471, 472, 472]
+    title "lambdaloop/anipose 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 469 --> 475
+    line [470, 471, 472, 471, 472, 473, 474, 474]
 ```
 
-2026-10-18 470 → 2026-11-02 472（+2）
+2026-10-18 470 → 2026-11-17 474（+4）
 
 
 ---

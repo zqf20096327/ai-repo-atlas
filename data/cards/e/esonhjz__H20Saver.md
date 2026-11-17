@@ -1,6 +1,6 @@
 # esonhjz/H20Saver
 
-⭐ 22 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/esonhjz/H20Saver) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/esonhjz/H20Saver) · 个人维护 · 中文 README
 
 **溺水目标检测系统：基于 YOLO11x 训练的三分类检测模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "esonhjz/H20Saver 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "esonhjz/H20Saver 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 20, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

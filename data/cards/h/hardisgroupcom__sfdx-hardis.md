@@ -1,6 +1,6 @@
 # hardisgroupcom/sfdx-hardis
 
-⭐ 427 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/hardisgroupcom/sfdx-hardis) · [官网](https://sfdx-hardis.cloudity.com) · 组织维护
+⭐ 437 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/hardisgroupcom/sfdx-hardis) · [官网](https://sfdx-hardis.cloudity.com) · 组织维护
 
 **Salesforce DevOps 工具套件：CI/CD 流水线、元数据备份监控与 AI 文档生成**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hardisgroupcom/sfdx-hardis 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 409 --> 428
-    line [410, 411, 412, 414, 416, 418, 420, 421, 425, 427]
+    title "hardisgroupcom/sfdx-hardis 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 408 --> 439
+    line [410, 411, 412, 414, 416, 418, 420, 421, 425, 427, 416, 431, 435, 436, 437, 437]
 ```
 
-2026-10-18 410 → 2026-11-02 427（+17）
+2026-10-18 410 → 2026-11-17 437（+27）
 
 
 ---

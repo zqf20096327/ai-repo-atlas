@@ -1,6 +1,6 @@
 # SasanLabs/LLMForge
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SasanLabs/LLMForge) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/SasanLabs/LLMForge) · 组织维护
 
 **面向 LLM 安全攻防训练的故意脆弱实验环境（真实本地 LLM 驱动）**
 
@@ -45,13 +45,13 @@ OWASP VulnerableApp 生态的 AI/LLM 漏洞模块：一个故意脆弱的 FastAP
 
 ```mermaid
 xychart-beta
-    title "SasanLabs/LLMForge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "SasanLabs/LLMForge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

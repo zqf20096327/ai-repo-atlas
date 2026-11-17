@@ -1,6 +1,6 @@
 # op7418/pilot-harness
 
-⭐ 281 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/op7418/pilot-harness) · 个人维护 · 中文 README
+⭐ 282 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/op7418/pilot-harness) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面客户端与插件套件，可视化管模型与 Provider**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "op7418/pilot-harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 278 --> 282
-    line [279, 281, 280, 281, 281]
+    title "op7418/pilot-harness 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 278 --> 284
+    line [279, 281, 280, 281, 280, 281, 282, 283, 282, 282]
 ```
 
-2026-10-18 279 → 2026-11-02 281（+2）
+2026-10-18 279 → 2026-11-17 282（+3）
 
 
 ---

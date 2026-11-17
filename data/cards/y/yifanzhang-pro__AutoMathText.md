@@ -1,6 +1,6 @@
 # yifanzhang-pro/AutoMathText
 
-⭐ 93 · Python · CC-BY-4.0 · 推送 2025-11-23 · [GitHub](https://github.com/yifanzhang-pro/AutoMathText) · [官网](https://auto-data-selection.github.io) · 组织维护
+⭐ 94 · Python · CC-BY-4.0 · 推送 2025-11-23 · [GitHub](https://github.com/yifanzhang-pro/AutoMathText) · [官网](https://auto-data-selection.github.io) · 组织维护
 
 **约 200GB 数学文本数据集，Qwen-72B 打分筛选**
 
@@ -44,13 +44,13 @@ ACL 2025 Findings 论文 Autonomous Data Selection 的官方实现，同时发�
 
 ```mermaid
 xychart-beta
-    title "yifanzhang-pro/AutoMathText 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "yifanzhang-pro/AutoMathText 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 94（+1）
 
 
 ---

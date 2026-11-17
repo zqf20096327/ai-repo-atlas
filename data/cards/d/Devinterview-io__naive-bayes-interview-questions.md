@@ -1,6 +1,6 @@
 # Devinterview-io/naive-bayes-interview-questions
 
-⭐ 15 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/naive-bayes-interview-questions) · 组织维护
+⭐ 16 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/naive-bayes-interview-questions) · 组织维护
 
 **朴素贝叶斯面试题库：45 道题与答案的备考知识库**
 
@@ -44,13 +44,13 @@ Devinterview.io 维护的机器学习面试准备仓库，收录 45 道朴素贝
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/naive-bayes-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Devinterview-io/naive-bayes-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

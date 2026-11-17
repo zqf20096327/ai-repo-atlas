@@ -1,6 +1,6 @@
 # berserkdisruptors/engraph
 
-⭐ 15 · TypeScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/berserkdisruptors/engraph) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/berserkdisruptors/engraph) · 组织维护
 
 **为 AI 编程 agent 构建持久化代码库专长上下文层的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "berserkdisruptors/engraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "berserkdisruptors/engraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

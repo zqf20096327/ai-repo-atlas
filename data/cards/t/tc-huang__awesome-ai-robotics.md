@@ -1,6 +1,6 @@
 # tc-huang/awesome-ai-robotics
 
-⭐ 15 · 推送 2026-10-23 · [GitHub](https://github.com/tc-huang/awesome-ai-robotics) · 个人维护
+⭐ 15 · 推送 2026-11-06 · [GitHub](https://github.com/tc-huang/awesome-ai-robotics) · 个人维护
 
 **AI 机器人学资源清单：论文、库、教程与视频聚合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tc-huang/awesome-ai-robotics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

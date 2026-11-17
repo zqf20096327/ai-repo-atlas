@@ -1,6 +1,6 @@
 # ZengLiangYi/ChatCrystal
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ZengLiangYi/ChatCrystal) · [官网](https://zengliangyi.github.io/ChatCrystal/) · 个人维护 · 中文 README
+⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ZengLiangYi/ChatCrystal) · [官网](https://zengliangyi.github.io/ChatCrystal/) · 个人维护 · 中文 README
 
 **面向开发者的本地优先 AI 编程对话知识管理应用**
 
@@ -45,13 +45,13 @@ Electron 桌面应用（含 CLI/Web 与 Docker 自托管模式），面向使用
 
 ```mermaid
 xychart-beta
-    title "ZengLiangYi/ChatCrystal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "ZengLiangYi/ChatCrystal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 59 --> 64
+    line [61, 60, 62, 63, 63]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 63（+2）
 
 
 ---

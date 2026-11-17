@@ -1,6 +1,6 @@
 # merill/msgraph
 
-⭐ 119 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/merill/msgraph) · [官网](https://graph.pm) · 个人维护
+⭐ 122 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/merill/msgraph) · [官网](https://graph.pm) · 个人维护
 
 **给 AI agent 的 Microsoft Graph API 知识技能包，含本地索引与直连调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "merill/msgraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    title "merill/msgraph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 117 --> 123
+    line [118, 119, 120, 121, 122, 122]
 ```
 
-2026-10-18 118 → 2026-11-02 119（+1）
+2026-10-18 118 → 2026-11-17 122（+4）
 
 
 ---

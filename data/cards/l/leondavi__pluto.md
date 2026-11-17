@@ -1,6 +1,6 @@
 # leondavi/pluto
 
-⭐ 18 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/leondavi/pluto) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/leondavi/pluto) · 个人维护
 
 **多 AI agent 协调与消息服务器：锁、注册表、死锁检测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leondavi/pluto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "leondavi/pluto 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 17（-1）
 
 
 ---

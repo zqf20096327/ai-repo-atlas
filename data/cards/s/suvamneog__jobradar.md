@@ -1,6 +1,6 @@
 # suvamneog/jobradar
 
-⭐ 194 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/suvamneog/jobradar) · 个人维护
+⭐ 195 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/suvamneog/jobradar) · 个人维护
 
 **监控 56 家公司招聘板、用 LLM 按简历给职位打分的求职提醒工具**
 
@@ -45,13 +45,13 @@ Python 编写的职位监控与筛选工具：抓取 56 家公司在 Greenhouse�
 
 ```mermaid
 xychart-beta
-    title "suvamneog/jobradar 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 190 --> 195
-    line [191, 193, 192, 193, 194, 194]
+    title "suvamneog/jobradar 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 190 --> 196
+    line [191, 193, 192, 193, 194, 193, 195, 195]
 ```
 
-2026-10-18 191 → 2026-11-02 194（+3）
+2026-10-18 191 → 2026-11-17 195（+4）
 
 
 ---

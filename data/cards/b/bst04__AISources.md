@@ -1,6 +1,6 @@
 # bst04/AISources
 
-⭐ 22 · 推送 2026-10-19 · [GitHub](https://github.com/bst04/AISources) · [官网](https://brunoooost.github.io/AISources/) · 个人维护
+⭐ 25 · 推送 2026-10-19 · [GitHub](https://github.com/bst04/AISources) · [官网](https://brunoooost.github.io/AISources/) · 个人维护
 
 **AI 工具与资源汇总清单：按 7 个类别收录工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bst04/AISources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "bst04/AISources 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

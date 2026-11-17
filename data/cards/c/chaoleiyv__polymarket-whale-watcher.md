@@ -1,6 +1,6 @@
 # chaoleiyv/polymarket-whale-watcher
 
-⭐ 216 · Python · 推送 2026-05-06 · [GitHub](https://github.com/chaoleiyv/polymarket-whale-watcher) · 个人维护
+⭐ 219 · Python · 推送 2026-05-06 · [GitHub](https://github.com/chaoleiyv/polymarket-whale-watcher) · 个人维护
 
 **监控 Polymarket 巨额交易的 AI 情报工具，输出信息不对称评分**
 
@@ -45,13 +45,13 @@ Python 3.10+ 程序：实时监控 Polymarket 700+ 活跃市场（按交易量�
 
 ```mermaid
 xychart-beta
-    title "chaoleiyv/polymarket-whale-watcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 214 --> 217
-    line [215, 216, 216]
+    title "chaoleiyv/polymarket-whale-watcher 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 214 --> 220
+    line [215, 216, 215, 219, 219]
 ```
 
-2026-10-18 215 → 2026-11-02 216（+1）
+2026-10-18 215 → 2026-11-17 219（+4）
 
 
 ---

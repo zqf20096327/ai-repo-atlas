@@ -1,6 +1,6 @@
 # xboot/libonnx
 
-⭐ 656 · C · MIT · 推送 2026-07-07 · [GitHub](https://github.com/xboot/libonnx) · 组织维护 · 中文 README
+⭐ 657 · C · MIT · 推送 2026-07-07 · [GitHub](https://github.com/xboot/libonnx) · 组织维护 · 中文 README
 
 **面向嵌入式设备的纯 C99 ONNX 推理引擎库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xboot/libonnx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 654 --> 657
-    line [655, 656, 656]
+    title "xboot/libonnx 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 654 --> 658
+    line [655, 656, 655, 656, 657, 657]
 ```
 
-2026-10-18 655 → 2026-11-02 656（+1）
+2026-10-18 655 → 2026-11-17 657（+2）
 
 
 ---

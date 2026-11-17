@@ -1,6 +1,6 @@
 # franciellevargas/HateBR
 
-⭐ 53 · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/franciellevargas/HateBR) · 个人维护
+⭐ 54 · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/franciellevargas/HateBR) · 个人维护
 
 **巴西葡语 Instagram 仇恨言论/冒犯性语言专家标注数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "franciellevargas/HateBR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "franciellevargas/HateBR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

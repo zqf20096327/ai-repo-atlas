@@ -1,6 +1,6 @@
 # shayne-snap/WayLog
 
-⭐ 76 · TypeScript · Apache-2.0 · 推送 2026-01-17 · [GitHub](https://github.com/shayne-snap/WayLog) · [官网](https://open-vsx.org/extension/waylog/waylog) · 个人维护 · 中文 README
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-01-17 · [GitHub](https://github.com/shayne-snap/WayLog) · [官网](https://open-vsx.org/extension/waylog/waylog) · 个人维护 · 中文 README
 
 **本地优先的 VS Code 扩展：自动保存并导出多款 AI 编程助手聊天记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shayne-snap/WayLog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    title "shayne-snap/WayLog 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

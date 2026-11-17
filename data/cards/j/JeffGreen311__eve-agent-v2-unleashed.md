@@ -1,6 +1,6 @@
 # JeffGreen311/eve-agent-v2-unleashed
 
-⭐ 42 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/JeffGreen311/eve-agent-v2-unleashed) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/JeffGreen311/eve-agent-v2-unleashed) · 个人维护
 
 **本地优先的自主 AI 编程 agent，经 Ollama 运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JeffGreen311/eve-agent-v2-unleashed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "JeffGreen311/eve-agent-v2-unleashed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [42, 41, 41]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 41（-1）
 
 
 ---

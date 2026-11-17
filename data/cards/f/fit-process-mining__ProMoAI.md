@@ -1,6 +1,6 @@
 # fit-process-mining/ProMoAI
 
-⭐ 77 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/fit-process-mining/ProMoAI) · [官网](https://promoai.streamlit.app) · 组织维护
+⭐ 79 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/fit-process-mining/ProMoAI) · [官网](https://promoai.streamlit.app) · 组织维护
 
 **面向流程挖掘的 AI 套件：文本生成流程模型并自主分析事件日志**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fit-process-mining/ProMoAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 72 --> 78
-    line [73, 74, 75, 76, 77, 77]
+    title "fit-process-mining/ProMoAI 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 72 --> 80
+    line [73, 74, 75, 76, 77, 75, 77, 78, 79, 79]
 ```
 
-2026-10-18 73 → 2026-11-02 77（+4）
+2026-10-18 73 → 2026-11-17 79（+6）
 
 
 ---

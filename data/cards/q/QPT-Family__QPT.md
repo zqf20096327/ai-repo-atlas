@@ -1,6 +1,6 @@
 # QPT-Family/QPT
 
-⭐ 792 · Python · LGPL-2.1 · 推送 2026-02-06 · [GitHub](https://github.com/QPT-Family/QPT) · 个人维护 · 中文 README
+⭐ 793 · Python · LGPL-2.1 · 推送 2026-02-06 · [GitHub](https://github.com/QPT-Family/QPT) · 个人维护 · 中文 README
 
 **面向深度学习开源项目的 Python 打包工具（Py 转 EXE）**
 
@@ -44,13 +44,13 @@ QPT 将 Python 项目封装为 Windows 可执行文件，设计上针对深度�
 
 ```mermaid
 xychart-beta
-    title "QPT-Family/QPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "QPT-Family/QPT 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 791 --> 794
-    line [793, 792, 792]
+    line [793, 792, 793, 792, 793, 793]
 ```
 
-2026-10-18 793 → 2026-11-02 792（-1）
+2026-10-18 793 → 2026-11-17 793（+0）
 
 
 ---

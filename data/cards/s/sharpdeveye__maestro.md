@@ -1,6 +1,6 @@
 # sharpdeveye/maestro
 
-⭐ 592 · TypeScript · MIT · 推送 2026-04-29 · [GitHub](https://github.com/sharpdeveye/maestro) · [官网](https://maestroskills.dev) · 个人维护
+⭐ 603 · TypeScript · MIT · 推送 2026-04-29 · [GitHub](https://github.com/sharpdeveye/maestro) · [官网](https://maestroskills.dev) · 个人维护
 
 **面向 AI 编程 agent 的工作流技能包：25 命令+记忆层+审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sharpdeveye/maestro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 590 --> 593
-    line [591, 592, 592]
+    title "sharpdeveye/maestro 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 590 --> 605
+    line [591, 592, 591, 602, 603, 604, 603, 603]
 ```
 
-2026-10-18 591 → 2026-11-02 592（+1）
+2026-10-18 591 → 2026-11-17 603（+12）
 
 
 ---

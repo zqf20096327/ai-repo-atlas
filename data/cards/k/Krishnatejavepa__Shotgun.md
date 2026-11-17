@@ -1,6 +1,6 @@
 # Krishnatejavepa/Shotgun
 
-⭐ 16 · Markdown · MIT · 推送 2026-07-12 · [GitHub](https://github.com/Krishnatejavepa/Shotgun) · 个人维护
+⭐ 18 · Markdown · MIT · 推送 2026-07-12 · [GitHub](https://github.com/Krishnatejavepa/Shotgun) · 个人维护
 
 **给独立创始人的 AI 联创操作系统：为任意 agent 注入记忆与执行循环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Krishnatejavepa/Shotgun 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Krishnatejavepa/Shotgun 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

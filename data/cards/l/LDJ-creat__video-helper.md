@@ -1,6 +1,6 @@
 # LDJ-creat/video-helper
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/LDJ-creat/video-helper) · [官网](https://video-helper-landing.vercel.app/) · 个人维护 · 中文 README
+⭐ 53 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/LDJ-creat/video-helper) · [官网](https://video-helper-landing.vercel.app/) · 个人维护 · 中文 README
 
 **AI 视频学习助手：从视频链接/本地视频自动生成思维导图与总结**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LDJ-creat/video-helper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    title "LDJ-creat/video-helper 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 52, 51, 52, 53, 53]
 ```
 
-2026-10-18 50 → 2026-11-02 52（+2）
+2026-10-18 50 → 2026-11-17 53（+3）
 
 
 ---

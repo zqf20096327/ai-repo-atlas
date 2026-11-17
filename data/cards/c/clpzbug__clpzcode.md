@@ -1,6 +1,6 @@
 # clpzbug/clpzcode
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/clpzbug/clpzcode) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向渗透测试者的 AI 编码 agent CLI：一个目标跑完攻击链**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "clpzbug/clpzcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-08 18（+0）
 
 
 ---

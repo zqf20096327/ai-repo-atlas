@@ -1,6 +1,6 @@
 # mlalma/kokoro-ios
 
-⭐ 294 · Swift · MIT · 推送 2026-01-10 · [GitHub](https://github.com/mlalma/kokoro-ios) · 个人维护
+⭐ 296 · Swift · MIT · 推送 2026-01-10 · [GitHub](https://github.com/mlalma/kokoro-ios) · 个人维护
 
 **Kokoro TTS 的 Swift/MLX 移植库，供 iOS/macOS 应用集成语音合成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlalma/kokoro-ios 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 292 --> 295
-    line [293, 294, 294]
+    title "mlalma/kokoro-ios 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 292 --> 297
+    line [293, 294, 296, 296]
 ```
 
-2026-10-18 293 → 2026-11-02 294（+1）
+2026-10-18 293 → 2026-11-17 296（+3）
 
 
 ---

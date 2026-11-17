@@ -1,6 +1,6 @@
 # manticore-projects/aurscan
 
-⭐ 160 · Go · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/manticore-projects/aurscan) · [官网](https://manticore-projects.com/aurscan/README.html) · 组织维护
+⭐ 163 · Go · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/manticore-projects/aurscan) · [官网](https://manticore-projects.com/aurscan/README.html) · 组织维护
 
 **Arch 用户：构建前自动扫描 AUR 包是否含恶意代码的 LLM 安全门**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "manticore-projects/aurscan 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 156 --> 162
-    line [157, 159, 161, 160, 160]
+    title "manticore-projects/aurscan 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 156 --> 164
+    line [157, 159, 161, 160, 159, 161, 162, 163, 163]
 ```
 
-2026-10-18 157 → 2026-11-02 160（+3）
+2026-10-18 157 → 2026-11-17 163（+6）
 
 
 ---

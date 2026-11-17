@@ -1,6 +1,6 @@
 # LyoSU/capka
 
-⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/LyoSU/capka) · [官网](https://capka.app) · 个人维护
+⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/LyoSU/capka) · [官网](https://capka.app) · 个人维护
 
 **自托管的 AI 协作者：把任务和文件交给它，取回成品文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LyoSU/capka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "LyoSU/capka 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 52 --> 55
-    line [53, 54]
+    line [53, 54, 53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

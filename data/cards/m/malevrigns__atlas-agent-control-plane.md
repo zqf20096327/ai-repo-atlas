@@ -1,6 +1,6 @@
 # malevrigns/atlas-agent-control-plane
 
-⭐ 104 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/malevrigns/atlas-agent-control-plane) · [官网](https://github.com/malevrigns/atlas-agent-control-plane/blob/main/README.md) · 个人维护 · 中文 README
+⭐ 99 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/malevrigns/atlas-agent-control-plane) · [官网](https://github.com/malevrigns/atlas-agent-control-plane/blob/main/README.md) · 个人维护 · 中文 README
 
 **可审计 AI agent 控制平面：证据记忆、工具门禁与检查点恢复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "malevrigns/atlas-agent-control-plane 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 103 --> 107
-    line [106, 104, 104]
+    title "malevrigns/atlas-agent-control-plane 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 98 --> 107
+    line [106, 104, 99, 99]
 ```
 
-2026-10-18 106 → 2026-11-02 104（-2）
+2026-10-18 106 → 2026-11-17 99（-7）
 
 
 ---

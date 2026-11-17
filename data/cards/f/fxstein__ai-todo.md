@@ -1,6 +1,6 @@
 # fxstein/ai-todo
 
-⭐ 16 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/fxstein/ai-todo) · [官网](https://pypi.org/project/ai-todo/) · 个人维护
+⭐ 17 · Shell · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/fxstein/ai-todo) · [官网](https://pypi.org/project/ai-todo/) · 个人维护
 
 **给编程 AI agent 用的持久化 Git 版本化任务管理工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fxstein/ai-todo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "fxstein/ai-todo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

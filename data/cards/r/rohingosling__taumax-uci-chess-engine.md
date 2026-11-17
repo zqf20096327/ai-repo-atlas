@@ -1,6 +1,6 @@
 # rohingosling/taumax-uci-chess-engine
 
-⭐ 20 · Rust · MIT · 推送 2026-09-22 · [GitHub](https://github.com/rohingosling/taumax-uci-chess-engine) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-09-22 · [GitHub](https://github.com/rohingosling/taumax-uci-chess-engine) · 个人维护
 
 **基于因果熵方程 F=T∇Sτ 的 UCI 国际象棋引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohingosling/taumax-uci-chess-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "rohingosling/taumax-uci-chess-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

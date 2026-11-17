@@ -1,6 +1,6 @@
 # neo4j-labs/text2cypher
 
-⭐ 245 · Jupyter Notebook · CC0-1.0 · 推送 2026-10-09 · [GitHub](https://github.com/neo4j-labs/text2cypher) · [官网](https://huggingface.co/tomasonjo) · 组织维护
+⭐ 246 · Jupyter Notebook · CC0-1.0 · 推送 2026-10-09 · [GitHub](https://github.com/neo4j-labs/text2cypher) · [官网](https://huggingface.co/tomasonjo) · 组织维护
 
 **自然语言转 Cypher 的数据集、评测与微调资源集合**
 
@@ -43,13 +43,13 @@ Neo4j Labs 的实验性仓库，汇集自然语言到 Cypher 查询翻译的相�
 
 ```mermaid
 xychart-beta
-    title "neo4j-labs/text2cypher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 244 --> 246
-    line [245, 245]
+    title "neo4j-labs/text2cypher 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 244 --> 247
+    line [245, 246, 246]
 ```
 
-2026-10-18 245 → 2026-11-02 245（+0）
+2026-10-18 245 → 2026-11-17 246（+1）
 
 
 ---

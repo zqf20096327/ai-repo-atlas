@@ -1,6 +1,6 @@
 # masteryee-labs/Open-Godot-MCP
 
-⭐ 14 · GDScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/masteryee-labs/Open-Godot-MCP) · 组织维护 · 中文 README
+⭐ 15 · GDScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/masteryee-labs/Open-Godot-MCP) · 组织维护 · 中文 README
 
 **連接 AI 助手與 Godot 引擎的 MCP server，支援自主開發測試除錯**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "masteryee-labs/Open-Godot-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "masteryee-labs/Open-Godot-MCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [14, 13, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

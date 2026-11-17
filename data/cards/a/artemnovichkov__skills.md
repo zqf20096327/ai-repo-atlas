@@ -1,6 +1,6 @@
 # artemnovichkov/skills
 
-⭐ 42 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/artemnovichkov/skills) · [官网](http://skills.sh/) · 个人维护
+⭐ 43 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/artemnovichkov/skills) · [官网](http://skills.sh/) · 个人维护
 
 **iOS/Swift 开发用的 Claude Code agent 技能合集（6 个技能）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "artemnovichkov/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    title "artemnovichkov/skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 39 --> 44
+    line [40, 41, 42, 41, 42, 43, 43]
 ```
 
-2026-10-18 40 → 2026-11-02 42（+2）
+2026-10-18 40 → 2026-11-17 43（+3）
 
 
 ---

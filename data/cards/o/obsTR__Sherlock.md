@@ -1,6 +1,6 @@
 # obsTR/Sherlock
 
-⭐ 11 · TypeScript · 推送 2026-02-20 · [GitHub](https://github.com/obsTR/Sherlock) · [官网](https://obstr.github.io/Sherlock/) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-02-20 · [GitHub](https://github.com/obsTR/Sherlock) · [官网](https://obstr.github.io/Sherlock/) · 个人维护
 
 **多模态深度伪造检测系统：视频+音频真伪分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "obsTR/Sherlock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "obsTR/Sherlock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

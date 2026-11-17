@@ -1,6 +1,6 @@
 # ourmem/omem
 
-⭐ 173 · Rust · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/ourmem/omem) · [官网](https://ourmem.ai) · 组织维护 · 中文 README
+⭐ 174 · Rust · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/ourmem/omem) · [官网](https://ourmem.ai) · 组织维护 · 中文 README
 
 **给 AI agent 用的跨会话共享持久记忆服务，含自托管与托管版**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ourmem/omem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 171 --> 174
-    line [173, 172, 173, 173]
+    title "ourmem/omem 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 171 --> 175
+    line [173, 172, 173, 172, 173, 174, 174]
 ```
 
-2026-10-18 173 → 2026-11-02 173（+0）
+2026-10-18 173 → 2026-11-17 174（+1）
 
 
 ---

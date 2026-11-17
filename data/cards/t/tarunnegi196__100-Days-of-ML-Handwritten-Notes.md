@@ -1,6 +1,6 @@
 # tarunnegi196/100-Days-of-ML-Handwritten-Notes
 
-⭐ 45 · 推送 2026-01-17 · [GitHub](https://github.com/tarunnegi196/100-Days-of-ML-Handwritten-Notes) · [官网](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) · 个人维护
+⭐ 47 · 推送 2026-01-17 · [GitHub](https://github.com/tarunnegi196/100-Days-of-ML-Handwritten-Notes) · [官网](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) · 个人维护
 
 **跟学 CampusX 机器学习课程的 50 页手写学习笔记**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "tarunnegi196/100-Days-of-ML-Handwritten-Notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    title "tarunnegi196/100-Days-of-ML-Handwritten-Notes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 45, 44, 45, 47, 47]
 ```
 
-2026-10-18 43 → 2026-11-02 45（+2）
+2026-10-18 43 → 2026-11-17 47（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # qqqqqf-q/MirrorFlow
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/qqqqqf-q/MirrorFlow) · [官网](https://qqqqqf-q.github.io/MirrorFlow/) · 个人维护 · 中文 README
+⭐ 72 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/qqqqqf-q/MirrorFlow) · [官网](https://qqqqqf-q.github.io/MirrorFlow/) · 个人维护 · 中文 README
 
 **对话数据到模型训练的闭环工具链：数字分身+蒸馏**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "qqqqqf-q/MirrorFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "qqqqqf-q/MirrorFlow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [73, 72, 72]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 72（-1）
 
 
 ---

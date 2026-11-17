@@ -1,6 +1,6 @@
 # stuttlepress/ComfyUI-Wan-VACE-Prep
 
-⭐ 103 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep) · 个人维护
 
 **ComfyUI 节点集：为 Wan VACE 等视频生成模型准备编辑控制输入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stuttlepress/ComfyUI-Wan-VACE-Prep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "stuttlepress/ComfyUI-Wan-VACE-Prep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 101 --> 104
-    line [102, 103, 103]
+    line [102, 103, 102, 102]
 ```
 
-2026-10-18 102 → 2026-11-02 103（+1）
+2026-10-18 102 → 2026-11-17 102（+0）
 
 
 ---

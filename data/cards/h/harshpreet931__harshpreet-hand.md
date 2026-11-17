@@ -1,6 +1,6 @@
 # harshpreet931/harshpreet-hand
 
-⭐ 57 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/harshpreet931/harshpreet-hand) · [官网](https://harshpreet931.github.io/harshpreet-hand/) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/harshpreet931/harshpreet-hand) · [官网](https://harshpreet931.github.io/harshpreet-hand/) · 个人维护
 
 **把120页手写笔记转成真实手写字体并开源流水线**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "harshpreet931/harshpreet-hand 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 8 --> 61
-    line [12, 39, 45, 47, 51, 52, 55, 56, 57, 57]
+    title "harshpreet931/harshpreet-hand 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 8 --> 65
+    line [12, 39, 45, 47, 51, 52, 55, 56, 57, 52, 61, 60, 60]
 ```
 
-2026-10-18 12 → 2026-11-02 57（+45）
+2026-10-18 12 → 2026-11-17 60（+48）
 
 
 ---

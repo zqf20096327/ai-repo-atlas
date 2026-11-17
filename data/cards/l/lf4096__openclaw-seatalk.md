@@ -1,6 +1,6 @@
 # lf4096/openclaw-seatalk
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/lf4096/openclaw-seatalk) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/lf4096/openclaw-seatalk) · 个人维护
 
 **将 OpenClaw AI 代理接入 SeaTalk 的渠道插件**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 OpenClaw 渠道插件，把 OpenClaw 代理接入 SeaTalk �
 
 ```mermaid
 xychart-beta
-    title "lf4096/openclaw-seatalk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "lf4096/openclaw-seatalk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

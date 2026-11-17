@@ -1,6 +1,6 @@
 # prasanjit101/whishpy
 
-⭐ 99 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/prasanjit101/whishpy) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **macOS 菜单栏语音转文字听写工具（Wispr Flow 替代）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prasanjit101/whishpy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "prasanjit101/whishpy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14"]
     y-axis "stars" 97 --> 100
-    line [98, 99, 99]
+    line [98, 99, 98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 99（+1）
+2026-10-18 98 → 2026-11-14 99（+1）
 
 
 ---

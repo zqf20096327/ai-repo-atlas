@@ -1,6 +1,6 @@
 # scitix/arks
 
-⭐ 50 · Go · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/scitix/arks) · [官网](https://www.scitix.ai) · 组织维护 · 中文 README
+⭐ 51 · Go · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/scitix/arks) · [官网](https://www.scitix.ai) · 组织维护 · 中文 README
 
 **Kubernetes 上的 LLM 推理部署编排框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "scitix/arks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "scitix/arks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/context_engineering
 
-⭐ 203 · Jupyter Notebook · 推送 2026-07-27 · [GitHub](https://github.com/langchain-ai/context_engineering) · 组织维护
+⭐ 202 · Jupyter Notebook · 推送 2026-07-27 · [GitHub](https://github.com/langchain-ai/context_engineering) · 组织维护
 
 **LangGraph 上下文工程教学笔记本集（写/选/压/隔离四策略）**
 
@@ -44,13 +44,13 @@ LangChain 官方团队维护的上下文工程教学仓库，包含 4 个 Jupyte
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/context_engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
+    title "langchain-ai/context_engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 200 --> 204
-    line [201, 202, 203, 203]
+    line [201, 202, 203, 202, 202]
 ```
 
-2026-10-18 201 → 2026-11-02 203（+2）
+2026-10-18 201 → 2026-11-17 202（+1）
 
 
 ---

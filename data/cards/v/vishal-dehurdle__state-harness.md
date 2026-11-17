@@ -1,6 +1,6 @@
 # vishal-dehurdle/state-harness
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/vishal-dehurdle/state-harness) · [官网](https://vishalvermalabs.com/papers/empirical-lyapunov-stability-agent-failure) · 个人维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/vishal-dehurdle/state-harness) · [官网](https://vishalvermalabs.com/papers/empirical-lyapunov-stability-agent-failure) · 个人维护
 
 **LLM agent 运行时安全监控库：检测 token 失控并诊断失败原因**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vishal-dehurdle/state-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

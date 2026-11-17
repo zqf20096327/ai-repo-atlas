@@ -1,6 +1,6 @@
 # sqliteai/sqlite-rag
 
-⭐ 87 · Python · 推送 2025-11-18 · [GitHub](https://github.com/sqliteai/sqlite-rag) · [官网](https://sqlite.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 SQLite 的混合检索引擎：向量搜索+全文检索做文档 RAG**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sqliteai/sqlite-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "sqliteai/sqlite-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13"]
+    y-axis "stars" 86 --> 89
+    line [87, 88, 88]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-13 88（+1）
 
 
 ---

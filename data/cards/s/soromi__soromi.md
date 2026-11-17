@@ -1,6 +1,6 @@
 # soromi/soromi
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/soromi/soromi) · [官网](https://soromi.dev) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/soromi/soromi) · [官网](https://soromi.dev) · 个人维护
 
 **AI 编程 agent 的桌面工作台：多项目终端、账号隔离与远程查看**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "soromi/soromi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "soromi/soromi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 34, 35, 35]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 35（+4）
 
 
 ---

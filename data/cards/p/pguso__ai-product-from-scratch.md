@@ -1,6 +1,6 @@
 # pguso/ai-product-from-scratch
 
-⭐ 44 · TypeScript · MIT · 推送 2026-02-07 · [GitHub](https://github.com/pguso/ai-product-from-scratch) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-02-07 · [GitHub](https://github.com/pguso/ai-product-from-scratch) · 个人维护
 
 **教学项目：从零构建本地 LLM 消息分析工具，理解 AI 产品原理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pguso/ai-product-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "pguso/ai-product-from-scratch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

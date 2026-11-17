@@ -1,6 +1,6 @@
 # jkjoker/datawork
 
-⭐ 18 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jkjoker/datawork) · [官网](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · 个人维护 · 中文 README
+⭐ 19 · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/jkjoker/datawork) · [官网](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · 个人维护 · 中文 README
 
 **本地优先的个人 AI Agent 桌面系统，整合对话、任务与知识管理**
 
@@ -44,13 +44,13 @@ datawork 是面向 Windows 10 及以上系统的本地优先个人 AI Agent 桌�
 
 ```mermaid
 xychart-beta
-    title "jkjoker/datawork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "jkjoker/datawork 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # chandewardnyanesh/kronos-nse-terminal
 
-⭐ 11 · Python · 推送 2026-05-31 · [GitHub](https://github.com/chandewardnyanesh/kronos-nse-terminal) · 个人维护
+⭐ 12 · Python · 推送 2026-05-31 · [GitHub](https://github.com/chandewardnyanesh/kronos-nse-terminal) · 个人维护
 
 **在 NSE/BSE 实时数据上运行 Kronos 模型做 K 线预测的 Python 交易终端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chandewardnyanesh/kronos-nse-terminal 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "chandewardnyanesh/kronos-nse-terminal 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-28 10 → 2026-11-02 11（+1）
+2026-10-28 10 → 2026-11-17 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # pytorch/rfcs
 
-⭐ 154 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/rfcs) · 组织维护
+⭐ 156 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/rfcs) · 组织维护
 
 **PyTorch 官方 RFC 流程文档仓库：功能设计提案的提交与评审规范**
 
@@ -44,13 +44,13 @@ PyTorch 官方维护的 Requests for Comments 仓库，存放向 PyTorch 提议�
 
 ```mermaid
 xychart-beta
-    title "pytorch/rfcs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 153 --> 155
-    line [154, 154]
+    title "pytorch/rfcs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 153 --> 157
+    line [154, 155, 156, 156]
 ```
 
-2026-10-18 154 → 2026-11-02 154（+0）
+2026-10-18 154 → 2026-11-17 156（+2）
 
 
 ---

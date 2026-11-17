@@ -1,6 +1,6 @@
 # nullclaw/nullwatch
 
-⭐ 44 · Zig · 推送 2026-10-03 · [GitHub](https://github.com/nullclaw/nullwatch) · 组织维护
+⭐ 39 · Zig · 推送 2026-10-03 · [GitHub](https://github.com/nullclaw/nullwatch) · 组织维护
 
 **nullclaw 的追踪、评测与可观测性执行智能层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nullclaw/nullwatch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 43 --> 47
-    line [46, 44, 44]
+    title "nullclaw/nullwatch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 47
+    line [46, 44, 41, 39, 39]
 ```
 
-2026-10-18 46 → 2026-11-02 44（-2）
+2026-10-18 46 → 2026-11-17 39（-7）
 
 
 ---

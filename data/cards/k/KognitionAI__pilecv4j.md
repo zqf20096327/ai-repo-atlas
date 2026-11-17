@@ -1,6 +1,6 @@
 # KognitionAI/pilecv4j
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/KognitionAI/pilecv4j) · 组织维护
+⭐ 12 · Java · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/KognitionAI/pilecv4j) · 组织维护
 
 **Java 图像视频处理库：整合 FFMpeg/OpenCV/Python/TensorFlow**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KognitionAI/pilecv4j 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

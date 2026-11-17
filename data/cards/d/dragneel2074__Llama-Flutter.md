@@ -1,6 +1,6 @@
 # dragneel2074/Llama-Flutter
 
-⭐ 27 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/dragneel2074/Llama-Flutter) · [官网](https://pub.dev/packages/llama_flutter_android) · 个人维护
+⭐ 26 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/dragneel2074/Llama-Flutter) · [官网](https://pub.dev/packages/llama_flutter_android) · 个人维护
 
 **在 Android 上运行 GGUF 模型的 Flutter 插件（基于 llama.cpp）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dragneel2074/Llama-Flutter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "dragneel2074/Llama-Flutter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    line [26, 27, 26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

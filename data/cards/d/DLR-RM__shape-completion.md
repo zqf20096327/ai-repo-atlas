@@ -1,6 +1,6 @@
 # DLR-RM/shape-completion
 
-⭐ 27 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/DLR-RM/shape-completion) · [官网](https://dlr-rm.github.io/shape-completion) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/DLR-RM/shape-completion) · [官网](https://dlr-rm.github.io/shape-completion) · 组织维护
 
 **面向研究者的 3D 形状补全研究平台，实现 30+ 种深度学习架构**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DLR-RM/shape-completion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    title "DLR-RM/shape-completion 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 25, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

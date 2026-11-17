@@ -1,6 +1,6 @@
 # yanghao1143/rust-norion
 
-⭐ 19 · Rust · GPL-3.0 · 推送 2026-07-16 · [GitHub](https://github.com/yanghao1143/rust-norion) · 个人维护 · 中文 README
+⭐ 20 · Rust · GPL-3.0 · 推送 2026-07-16 · [GitHub](https://github.com/yanghao1143/rust-norion) · 个人维护 · 中文 README
 
 **DNA 启发的本地 LLM 推理控制层/自进化控制引擎研究原型**
 
@@ -45,13 +45,13 @@ Rust 实现的推理控制层原型，处理路由、层级调度、KV/gist 记�
 
 ```mermaid
 xychart-beta
-    title "yanghao1143/rust-norion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "yanghao1143/rust-norion 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DaoyuanLi2816/mini-verl
 
-⭐ 307 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/DaoyuanLi2816/mini-verl) · [官网](https://pypi.org/project/miniverl/) · 个人维护 · 中文 README
+⭐ 311 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/DaoyuanLi2816/mini-verl) · [官网](https://pypi.org/project/miniverl/) · 个人维护 · 中文 README
 
 **单张消费级 GPU 上运行 verl 风格 RL 训练的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DaoyuanLi2816/mini-verl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 306 --> 308
-    line [307, 307]
+    title "DaoyuanLi2816/mini-verl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 306 --> 312
+    line [307, 310, 311, 311]
 ```
 
-2026-10-18 307 → 2026-11-02 307（+0）
+2026-10-18 307 → 2026-11-17 311（+4）
 
 
 ---

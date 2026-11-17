@@ -1,6 +1,6 @@
 # arunrajiah/odoopilot
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/arunrajiah/odoopilot) · [官网](https://apps.odoo.com/apps/modules/18.0/odoopilot) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/arunrajiah/odoopilot) · [官网](https://apps.odoo.com/apps/modules/18.0/odoopilot) · 个人维护
 
 **Odoo 内部团队 AI 助手：Telegram/WhatsApp 聊天操作 ERP**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arunrajiah/odoopilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "arunrajiah/odoopilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

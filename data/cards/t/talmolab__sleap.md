@@ -1,6 +1,6 @@
 # talmolab/sleap
 
-⭐ 620 · Python · BSD-3-Clause-Clear · 推送 2026-10-20 · [GitHub](https://github.com/talmolab/sleap) · [官网](https://sleap.ai) · 组织维护
+⭐ 623 · Python · BSD-3-Clause-Clear · 推送 2026-11-10 · [GitHub](https://github.com/talmolab/sleap) · [官网](https://sleap.ai) · 组织维护
 
 **科研用深度学习多动物姿态追踪框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "talmolab/sleap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 617 --> 621
-    line [618, 619, 620, 620]
+    title "talmolab/sleap 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 617 --> 624
+    line [618, 619, 620, 619, 622, 623, 623]
 ```
 
-2026-10-18 618 → 2026-11-02 620（+2）
+2026-10-18 618 → 2026-11-17 623（+5）
 
 
 ---

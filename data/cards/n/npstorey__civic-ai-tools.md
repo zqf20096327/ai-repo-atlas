@@ -1,6 +1,6 @@
 # npstorey/civic-ai-tools
 
-⭐ 47 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/npstorey/civic-ai-tools) · [官网](https://civicaitools.org) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/npstorey/civic-ai-tools) · [官网](https://civicaitools.org) · 个人维护
 
 **通过 MCP 把 AI 助手接入政府开放数据的平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "npstorey/civic-ai-tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 45, 46, 47, 47]
+    title "npstorey/civic-ai-tools 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 49
+    line [43, 44, 45, 46, 47, 46, 48, 48]
 ```
 
-2026-10-18 43 → 2026-11-02 47（+4）
+2026-10-18 43 → 2026-11-17 48（+5）
 
 
 ---

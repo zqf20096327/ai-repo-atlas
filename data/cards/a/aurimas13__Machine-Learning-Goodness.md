@@ -1,6 +1,6 @@
 # aurimas13/Machine-Learning-Goodness
 
-⭐ 286 · Jupyter Notebook · MIT · 推送 2026-01-05 · [GitHub](https://github.com/aurimas13/Machine-Learning-Goodness) · 个人维护
+⭐ 287 · Jupyter Notebook · MIT · 推送 2026-01-05 · [GitHub](https://github.com/aurimas13/Machine-Learning-Goodness) · 个人维护
 
 **ML 学习资源聚合仓库：书籍、工具、速查表与笔记清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aurimas13/Machine-Learning-Goodness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 285 --> 287
-    line [286, 286]
+    title "aurimas13/Machine-Learning-Goodness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 285 --> 288
+    line [286, 287, 287]
 ```
 
-2026-10-18 286 → 2026-11-02 286（+0）
+2026-10-18 286 → 2026-11-17 287（+1）
 
 
 ---

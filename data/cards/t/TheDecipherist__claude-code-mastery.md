@@ -1,6 +1,6 @@
 # TheDecipherist/claude-code-mastery
 
-⭐ 558 · Shell · MIT · 推送 2026-05-07 · [GitHub](https://github.com/TheDecipherist/claude-code-mastery) · [官网](https://thedecipherist.com?utm_source=github&utm_medium=repo&utm_campaign=claude-code-mastery&utm_content=about-link    ) · 个人维护
+⭐ 560 · Shell · MIT · 推送 2026-05-07 · [GitHub](https://github.com/TheDecipherist/claude-code-mastery) · [官网](https://thedecipherist.com?utm_source=github&utm_medium=repo&utm_campaign=claude-code-mastery&utm_content=about-link    ) · 个人维护
 
 **Claude Code 使用指南与配置模板库（V2 已废弃）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheDecipherist/claude-code-mastery 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 554 --> 559
-    line [555, 556, 557, 558, 558]
+    title "TheDecipherist/claude-code-mastery 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 554 --> 561
+    line [555, 556, 557, 558, 556, 558, 559, 560, 560]
 ```
 
-2026-10-18 555 → 2026-11-02 558（+3）
+2026-10-18 555 → 2026-11-17 560（+5）
 
 
 ---

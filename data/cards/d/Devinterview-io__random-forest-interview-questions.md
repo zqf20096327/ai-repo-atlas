@@ -1,6 +1,6 @@
 # Devinterview-io/random-forest-interview-questions
 
-⭐ 21 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/random-forest-interview-questions) · 组织维护
+⭐ 22 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/random-forest-interview-questions) · 组织维护
 
 **随机森林面试题库：50 道机器学习面试问答**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的 Random Forest 主题面试题问答集合，覆盖 202
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/random-forest-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "Devinterview-io/random-forest-interview-questions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NotAnyoneMe/ProxyChecker
 
-⭐ 48 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/NotAnyoneMe/ProxyChecker) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/NotAnyoneMe/ProxyChecker) · 个人维护
 
 **带 GUI 的多协议代理检测工具：批量验证 HTTP/SOCKS 代理可用性**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NotAnyoneMe/ProxyChecker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "NotAnyoneMe/ProxyChecker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 47 --> 53
+    line [48, 51, 52, 52]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 52（+4）
 
 
 ---

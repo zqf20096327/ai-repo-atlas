@@ -1,6 +1,6 @@
 # kingcharleslzy-ai/dsh-qwen-studio
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) · [官网](https://github.com/kingcharleslzy-ai/dsh-qwen-studio#readme) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Qwen Image 2.1 本机生图/改图插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | `gpu-8g` | |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingcharleslzy-ai/dsh-qwen-studio 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 7 --> 38
-    line [9, 13, 19, 23, 26, 30, 31, 32, 34, 36]
+    title "kingcharleslzy-ai/dsh-qwen-studio 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12"]
+    y-axis "stars" 2 --> 90
+    line [9, 13, 19, 23, 26, 30, 31, 32, 34, 36, 19, 57, 72, 78, 83]
 ```
 
-2026-10-23 9 → 2026-11-02 36（+27）
+2026-10-23 9 → 2026-11-12 83（+74）
 
 
 ---

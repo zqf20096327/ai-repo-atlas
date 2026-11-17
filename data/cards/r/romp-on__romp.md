@@ -1,6 +1,6 @@
 # romp-on/romp
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/romp-on/romp) · [官网](https://romp-on.github.io/romp/) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/romp-on/romp) · [官网](https://romp-on.github.io/romp/) · 组织维护
 
 **并行 Claude Code 会话的追踪与协调管理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "romp-on/romp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24]
+    title "romp-on/romp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

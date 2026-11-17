@@ -1,6 +1,6 @@
 # airbus/scikit-decide
 
-⭐ 227 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/airbus/scikit-decide) · [官网](https://airbus.github.io/scikit-decide) · 组织维护
+⭐ 228 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/airbus/scikit-decide) · [官网](https://airbus.github.io/scikit-decide) · 组织维护
 
 **Airbus 开源的决策问题求解框架，覆盖 RL/规划/调度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "airbus/scikit-decide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 223 --> 228
-    line [224, 225, 226, 227, 227]
+    title "airbus/scikit-decide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 223 --> 229
+    line [224, 225, 226, 227, 226, 227, 228, 228]
 ```
 
-2026-10-18 224 → 2026-11-02 227（+3）
+2026-10-18 224 → 2026-11-17 228（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # onuralpszr/GFPGAN-ncnn-vulkan
 
-⭐ 54 · C++ · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/onuralpszr/GFPGAN-ncnn-vulkan) · 个人维护
+⭐ 53 · C++ · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/onuralpszr/GFPGAN-ncnn-vulkan) · 个人维护
 
 **GFPGAN 人脸修复算法的 NCNN-Vulkan C++ 实现**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "onuralpszr/GFPGAN-ncnn-vulkan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "onuralpszr/GFPGAN-ncnn-vulkan 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    line [53, 54, 53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

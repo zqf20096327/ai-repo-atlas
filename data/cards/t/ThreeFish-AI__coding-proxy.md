@@ -1,6 +1,6 @@
 # ThreeFish-AI/coding-proxy
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/ThreeFish-AI/coding-proxy) · [官网](https://threefish.site) · 组织维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThreeFish-AI/coding-proxy) · [官网](https://threefish.site) · 组织维护 · 中文 README
 
 **面向 Claude Code 的多厂商代理：自动故障切换与格式转换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThreeFish-AI/coding-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # keirsalterego/jailbreak-fable
 
-⭐ 44 · JavaScript · 推送 2026-07-17 · [GitHub](https://github.com/keirsalterego/jailbreak-fable) · 个人维护
+⭐ 45 · JavaScript · 推送 2026-07-17 · [GitHub](https://github.com/keirsalterego/jailbreak-fable) · 个人维护
 
 **针对 Claude 的多 agent 越狱研究实验室与环境模拟器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keirsalterego/jailbreak-fable 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "keirsalterego/jailbreak-fable 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

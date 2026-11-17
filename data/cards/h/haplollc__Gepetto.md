@@ -1,6 +1,6 @@
 # haplollc/Gepetto
 
-⭐ 41 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haplollc/Gepetto) · 组织维护
+⭐ 43 · Swift · MIT · 推送 2026-11-06 · [GitHub](https://github.com/haplollc/Gepetto) · 组织维护
 
 **SwiftUI 库：可人工接管的人机协作浏览器 Agent（iOS/macOS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haplollc/Gepetto 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "haplollc/Gepetto 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 39 --> 44
+    line [40, 41, 43, 43]
 ```
 
-2026-10-26 40 → 2026-11-02 41（+1）
+2026-10-26 40 → 2026-11-17 43（+3）
 
 
 ---

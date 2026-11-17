@@ -1,6 +1,6 @@
 # developzir/gepa-mcp
 
-⭐ 52 · Python · MIT · 推送 2025-11-10 · [GitHub](https://github.com/developzir/gepa-mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Desktop 提供 GEPA 自动提示词优化的 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "developzir/gepa-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-07 52（+0）
 
 
 ---

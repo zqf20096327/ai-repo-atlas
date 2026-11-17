@@ -1,6 +1,6 @@
 # vllm-project/compressed-tensors
 
-⭐ 333 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/vllm-project/compressed-tensors) · [官网](https://docs.vllm.ai/projects/compressed-tensors) · 组织维护
+⭐ 338 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/vllm-project/compressed-tensors) · [官网](https://docs.vllm.ai/projects/compressed-tensors) · 组织维护
 
 **safetensors 扩展库：统一存储稀疏量化张量的磁盘格式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/compressed-tensors 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 329 --> 334
-    line [330, 332, 333, 333]
+    title "vllm-project/compressed-tensors 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 329 --> 339
+    line [330, 332, 333, 335, 336, 337, 338, 338]
 ```
 
-2026-10-18 330 → 2026-11-02 333（+3）
+2026-10-18 330 → 2026-11-17 338（+8）
 
 
 ---

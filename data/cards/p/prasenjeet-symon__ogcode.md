@@ -1,6 +1,6 @@
 # prasenjeet-symon/ogcode
 
-⭐ 145 · Go · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/prasenjeet-symon/ogcode) · [官网](https://ogcode.in) · 组织维护
+⭐ 148 · Go · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/prasenjeet-symon/ogcode) · [官网](https://ogcode.in) · 组织维护
 
 **自托管的 AI 编程 Agent：理解代码库并完成开发工作**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "prasenjeet-symon/ogcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 142 --> 146
-    line [143, 145, 145]
+    title "prasenjeet-symon/ogcode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 142 --> 149
+    line [143, 145, 143, 147, 148, 148]
 ```
 
-2026-10-18 143 → 2026-11-02 145（+2）
+2026-10-18 143 → 2026-11-17 148（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # riteshs4hu/LLM-OWASP-LAB
 
-⭐ 17 · CSS · 推送 2026-09-16 · [GitHub](https://github.com/riteshs4hu/LLM-OWASP-LAB) · 个人维护
+⭐ 19 · CSS · 推送 2026-09-16 · [GitHub](https://github.com/riteshs4hu/LLM-OWASP-LAB) · 个人维护
 
 **OWASP LLM Top 10 安全学习靶场：可运行的漏洞实验应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "riteshs4hu/LLM-OWASP-LAB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "riteshs4hu/LLM-OWASP-LAB 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 16, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

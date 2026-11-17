@@ -1,6 +1,6 @@
 # kagent-dev/website
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/kagent-dev/website) · [官网](https://kagent.dev) · 组织维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/kagent-dev/website) · [官网](https://kagent.dev) · 组织维护
 
 **Kubernetes 原生 AI agent 框架 kagent 的官网与文档仓库**
 
@@ -42,13 +42,13 @@ kagent-dev/kagent 项目的网站与文档仓库，内容为 kagent 框架的介
 
 ```mermaid
 xychart-beta
-    title "kagent-dev/website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "kagent-dev/website 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

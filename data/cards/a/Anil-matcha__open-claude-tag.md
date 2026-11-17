@@ -1,6 +1,6 @@
 # Anil-matcha/open-claude-tag
 
-⭐ 19 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Anil-matcha/open-claude-tag) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Anil-matcha/open-claude-tag) · 个人维护
 
 **自托管 Slack 共享 AI 队友：每频道一个共享智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/open-claude-tag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "Anil-matcha/open-claude-tag 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # marinac-dev/qdrant
 
-⭐ 31 · Elixir · MIT · 推送 2026-08-10 · [GitHub](https://github.com/marinac-dev/qdrant) · 个人维护
+⭐ 32 · Elixir · MIT · 推送 2026-08-10 · [GitHub](https://github.com/marinac-dev/qdrant) · 个人维护
 
 **Qdrant 向量数据库的 Elixir REST 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "marinac-dev/qdrant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "marinac-dev/qdrant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Vkuparin/gamepause-for-local-ai
 
-⭐ 25 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Vkuparin/gamepause-for-local-ai) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Vkuparin/gamepause-for-local-ai) · 个人维护
 
 **游戏时自动暂停本地 AI 服务、结束后恢复的 Windows 托盘应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vkuparin/gamepause-for-local-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "Vkuparin/gamepause-for-local-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

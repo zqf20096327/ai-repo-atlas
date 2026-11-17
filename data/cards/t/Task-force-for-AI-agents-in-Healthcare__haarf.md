@@ -1,6 +1,6 @@
 # Task-force-for-AI-agents-in-Healthcare/haarf
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/Task-force-for-AI-agents-in-Healthcare/haarf) · [官网](https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1) · 组织维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/Task-force-for-AI-agents-in-Healthcare/haarf) · [官网](https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1) · 组织维护
 
 **医疗自主 AI agent 的监管合规框架与红队评测工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Task-force-for-AI-agents-in-Healthcare/haarf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "Task-force-for-AI-agents-in-Healthcare/haarf 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

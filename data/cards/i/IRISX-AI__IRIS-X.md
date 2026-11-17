@@ -1,6 +1,6 @@
 # IRISX-AI/IRIS-X
 
-⭐ 16 · Kotlin · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/IRISX-AI/IRIS-X) · [官网](irisxai.in) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Android 的语音优先手机 AI 助手：说话即执行操作**
 
@@ -11,7 +11,7 @@ Android 移动应用，通过 Gemini 3.5 Flash Lite 的双向实时语音 WebSoc
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Android 移动应用，通过 Gemini 3.5 Flash Lite 的双向实时语音 WebSoc
 
 ```mermaid
 xychart-beta
-    title "IRISX-AI/IRIS-X 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "IRISX-AI/IRIS-X 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-11 17（+3）
 
 
 ---

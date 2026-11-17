@@ -1,6 +1,6 @@
 # mitchhankins01/oura-ring-mcp
 
-⭐ 31 · TypeScript · 推送 2026-02-08 · [GitHub](https://github.com/mitchhankins01/oura-ring-mcp) · 个人维护
+⭐ 37 · TypeScript · 推送 2026-02-08 · [GitHub](https://github.com/mitchhankins01/oura-ring-mcp) · 个人维护
 
 **把 Oura 戒指健康数据接入 Claude 等 AI 助手的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mitchhankins01/oura-ring-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "mitchhankins01/oura-ring-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 30 --> 38
+    line [31, 34, 35, 37, 37]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 37（+6）
 
 
 ---

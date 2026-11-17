@@ -1,6 +1,6 @@
 # fritzprix/libr-agent
 
-⭐ 11 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/fritzprix/libr-agent) · [官网](https://fritzprix.github.io/libr-agent/) · 个人维护 · 中文 README
+⭐ 12 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fritzprix/libr-agent) · [官网](https://fritzprix.github.io/libr-agent/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent 运行环境：选模型、装工具、选编排模式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fritzprix/libr-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "fritzprix/libr-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # a1exsun/dsh-council
 
-⭐ 154 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/a1exsun/dsh-council) · 个人维护 · 中文 README
+⭐ 158 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/a1exsun/dsh-council) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的多模型评议会插件：独立作答、匿名互评、合并决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "a1exsun/dsh-council 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 152 --> 158
-    line [157, 153, 154, 153, 154, 154]
+    title "a1exsun/dsh-council 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 152 --> 159
+    line [157, 153, 154, 153, 154, 153, 156, 157, 158, 158]
 ```
 
-2026-10-18 157 → 2026-11-02 154（-3）
+2026-10-18 157 → 2026-11-17 158（+1）
 
 
 ---

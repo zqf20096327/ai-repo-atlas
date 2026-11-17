@@ -1,6 +1,6 @@
 # Zaki-1052/GPTPortal
 
-⭐ 396 · JavaScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Zaki-1052/GPTPortal) · [官网](http://localhost:3000/portal) · 个人维护
+⭐ 399 · JavaScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Zaki-1052/GPTPortal) · [官网](http://localhost:3000/portal) · 个人维护
 
 **自托管的统一 LLM 聊天门户：一个界面接入多家模型 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zaki-1052/GPTPortal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 395 --> 398
-    line [397, 396, 396]
+    title "Zaki-1052/GPTPortal 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 395 --> 401
+    line [397, 396, 398, 399, 400, 399, 399]
 ```
 
-2026-10-18 397 → 2026-11-02 396（-1）
+2026-10-18 397 → 2026-11-17 399（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # isaacus-dev/cookbooks
 
-⭐ 37 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/isaacus-dev/cookbooks) · [官网](https://docs.isaacus.com) · 组织维护
+⭐ 59 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/isaacus-dev/cookbooks) · [官网](https://docs.isaacus.com) · 组织维护
 
 **Isaacus AI 模型实践指南与代码示例集合**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "isaacus-dev/cookbooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "isaacus-dev/cookbooks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 35 --> 61
+    line [37, 38, 56, 59, 59]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 59（+22）
 
 
 ---

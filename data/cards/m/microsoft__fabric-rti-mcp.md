@@ -1,6 +1,6 @@
 # microsoft/fabric-rti-mcp
 
-⭐ 133 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/microsoft/fabric-rti-mcp) · 组织维护
+⭐ 134 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/fabric-rti-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 操作 Fabric 实时智能服务的服务器**
 
@@ -45,13 +45,13 @@ Microsoft 维护的 MCP 服务器，作为 AI agent 与 Microsoft Fabric Real-Ti
 
 ```mermaid
 xychart-beta
-    title "microsoft/fabric-rti-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 131 --> 134
-    line [132, 133, 133]
+    title "microsoft/fabric-rti-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 131 --> 135
+    line [132, 133, 134, 134]
 ```
 
-2026-10-18 132 → 2026-11-02 133（+1）
+2026-10-18 132 → 2026-11-17 134（+2）
 
 
 ---

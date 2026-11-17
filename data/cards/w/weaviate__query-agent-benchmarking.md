@@ -1,6 +1,6 @@
 # weaviate/query-agent-benchmarking
 
-⭐ 17 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/weaviate/query-agent-benchmarking) · 组织维护
+⭐ 17 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-05 · [GitHub](https://github.com/weaviate/query-agent-benchmarking) · 组织维护
 
 **评测检索与问答系统的基准工具，为 Weaviate Query Agent 而建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/query-agent-benchmarking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

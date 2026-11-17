@@ -1,6 +1,6 @@
 # greynewell/infermux
 
-⭐ 94 · Go · MIT · 推送 2026-07-03 · [GitHub](https://github.com/greynewell/infermux) · [官网](https://infermux.dev) · 个人维护
+⭐ 93 · Go · MIT · 推送 2026-07-03 · [GitHub](https://github.com/greynewell/infermux) · [官网](https://infermux.dev) · 个人维护
 
 **Go 推理路由器：跨多个 provider 分发 LLM 推理请求并追踪成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "greynewell/infermux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 93 --> 96
-    line [95, 94, 94]
+    title "greynewell/infermux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 96
+    line [95, 94, 93, 93]
 ```
 
-2026-10-18 95 → 2026-11-02 94（-1）
+2026-10-18 95 → 2026-11-17 93（-2）
 
 
 ---

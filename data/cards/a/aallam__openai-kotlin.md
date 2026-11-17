@@ -1,6 +1,6 @@
 # aallam/openai-kotlin
 
-⭐ 1,850 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aallam/openai-kotlin) · 个人维护
+⭐ 1,851 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aallam/openai-kotlin) · 个人维护
 
 **面向 Kotlin 开发者的 OpenAI API 多平台客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aallam/openai-kotlin 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02"]
+    title "aallam/openai-kotlin 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-17"]
     y-axis "stars" 1848 --> 1852
-    line [1849, 1850, 1851, 1850, 1851, 1850]
+    line [1849, 1850, 1851, 1850, 1851, 1850, 1851, 1851]
 ```
 
-2026-10-18 1,849 → 2026-11-02 1,850（+1）
+2026-10-18 1,849 → 2026-11-17 1,851（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # chenhangcuisg-code/gat
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/chenhangcuisg-code/gat) · 个人维护 · 中文 README
+⭐ 12 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/chenhangcuisg-code/gat) · 个人维护 · 中文 README
 
 **Godot 游戏全流程开发智能体团队：从一句点子到可运行构建**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenhangcuisg-code/gat 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "chenhangcuisg-code/gat 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-29 10 → 2026-11-02 11（+1）
+2026-10-29 10 → 2026-11-17 12（+2）
 
 
 ---

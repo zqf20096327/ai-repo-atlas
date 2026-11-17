@@ -1,6 +1,6 @@
 # GongZhiren/SubspacePathPruner
 
-⭐ 39 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/GongZhiren/SubspacePathPruner) · [官网](https://gongzhiren.github.io/SubspacePathPruner-website/) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/GongZhiren/SubspacePathPruner) · [官网](https://gongzhiren.github.io/SubspacePathPruner-website/) · 个人维护
 
 **ICML 2026 推理时免训练 LLM 结构化剪枝工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GongZhiren/SubspacePathPruner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "GongZhiren/SubspacePathPruner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 38 --> 42
-    line [41, 39, 39]
+    line [41, 39, 40, 40]
 ```
 
-2026-10-18 41 → 2026-11-02 39（-2）
+2026-10-18 41 → 2026-11-17 40（-1）
 
 
 ---

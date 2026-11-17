@@ -1,6 +1,6 @@
 # lucadellalib/focalcodec
 
-⭐ 177 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-30 · [GitHub](https://github.com/lucadellalib/focalcodec) · [官网](https://lucadellalib.github.io/focalcodec-web/) · 个人维护
+⭐ 178 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-30 · [GitHub](https://github.com/lucadellalib/focalcodec) · [官网](https://lucadellalib.github.io/focalcodec-web/) · 个人维护
 
 **低码率单码本神经语音编解码器，供语音处理研究使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucadellalib/focalcodec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 176 --> 178
-    line [177, 177]
+    title "lucadellalib/focalcodec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 176 --> 179
+    line [177, 178, 178]
 ```
 
-2026-10-18 177 → 2026-11-02 177（+0）
+2026-10-18 177 → 2026-11-17 178（+1）
 
 
 ---

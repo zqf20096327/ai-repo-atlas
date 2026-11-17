@@ -1,6 +1,6 @@
 # The-Pocket/PocketFlow-Zig
 
-⭐ 16 · Zig · MIT · 推送 2026-01-26 · [GitHub](https://github.com/The-Pocket/PocketFlow-Zig) · 组织维护
+⭐ 17 · Zig · MIT · 推送 2026-01-26 · [GitHub](https://github.com/The-Pocket/PocketFlow-Zig) · 组织维护
 
 **用 Zig 实现的极简 LLM 工作流框架，供开发者构建 Agent 流程**
 
@@ -44,13 +44,13 @@ Python 版 PocketFlow 的 Zig 移植：以节点图组织 LLM 工作流，节点
 
 ```mermaid
 xychart-beta
-    title "The-Pocket/PocketFlow-Zig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "The-Pocket/PocketFlow-Zig 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

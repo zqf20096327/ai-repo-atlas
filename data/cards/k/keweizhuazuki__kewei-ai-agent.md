@@ -1,6 +1,6 @@
 # keweizhuazuki/kewei-ai-agent
 
-⭐ 21 · Java · 推送 2026-10-10 · [GitHub](https://github.com/keweizhuazuki/kewei-ai-agent) · 个人维护 · 中文 README
+⭐ 22 · Java · 推送 2026-10-10 · [GitHub](https://github.com/keweizhuazuki/kewei-ai-agent) · 个人维护 · 中文 README
 
 **Spring Boot + Spring AI + Vue 的 AI Agent 实践项目：聊天/RAG/工具/记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "keweizhuazuki/kewei-ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "keweizhuazuki/kewei-ai-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

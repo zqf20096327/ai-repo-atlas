@@ -1,6 +1,6 @@
 # KJLdefeated/RL.cu
 
-⭐ 42 · Cuda · MIT · 推送 2026-07-25 · [GitHub](https://github.com/KJLdefeated/RL.cu) · 个人维护
+⭐ 43 · Cuda · MIT · 推送 2026-07-25 · [GitHub](https://github.com/KJLdefeated/RL.cu) · 个人维护
 
 **纯 CUDA/C++ 实现的 LLM 强化学习训练与推理框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KJLdefeated/RL.cu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "KJLdefeated/RL.cu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

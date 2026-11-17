@@ -1,6 +1,6 @@
 # huaxialucaicaizi/ai-startup-skills
 
-⭐ 733 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/huaxialucaicaizi/ai-startup-skills) · 个人维护 · 中文 README
+⭐ 928 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/huaxialucaicaizi/ai-startup-skills) · 个人维护 · 中文 README
 
 **一人公司做 AI 产品的 7 步 Agent Skill 合集：验证到注册**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huaxialucaicaizi/ai-startup-skills 星数(近 7 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 242 --> 777
-    line [286, 389, 484, 553, 579, 617, 733]
+    title "huaxialucaicaizi/ai-startup-skills 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 222 --> 992
+    line [286, 389, 484, 553, 579, 617, 733, 921, 924, 926, 927, 928, 928]
 ```
 
-2026-10-26 286 → 2026-11-02 733（+447）
+2026-10-26 286 → 2026-11-17 928（+642）
 
 
 ---

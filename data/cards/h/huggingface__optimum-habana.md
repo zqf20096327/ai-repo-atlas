@@ -1,6 +1,6 @@
 # huggingface/optimum-habana
 
-⭐ 212 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/optimum-habana) · 组织维护
+⭐ 211 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/optimum-habana) · 组织维护
 
 **让 Transformers/Diffusers 在 Intel Gaudi HPU 上训练与推理的接口库**
 
@@ -45,13 +45,13 @@ Optimum for Intel Gaudi（optimum-habana）是 Hugging Face Optimum 系列中面
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-habana 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 211 --> 214
-    line [212, 213, 212, 212]
+    title "huggingface/optimum-habana 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 210 --> 214
+    line [212, 213, 212, 211, 211]
 ```
 
-2026-10-18 212 → 2026-11-02 212（+0）
+2026-10-18 212 → 2026-11-17 211（-1）
 
 
 ---

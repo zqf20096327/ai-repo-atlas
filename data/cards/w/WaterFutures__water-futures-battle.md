@@ -1,6 +1,6 @@
 # WaterFutures/water-futures-battle
 
-⭐ 17 · Python · MIT · 推送 2026-04-28 · [GitHub](https://github.com/WaterFutures/water-futures-battle) · [官网](https://waterfutures.github.io/water-futures-battle/) · 组织维护
+⭐ 17 · Jupyter Notebook · MIT · 推送 2026-11-05 · [GitHub](https://github.com/WaterFutures/water-futures-battle) · [官网](https://waterfutures.github.io/water-futures-battle/) · 组织维护
 
 **WDSA/CCWI 2026 供水系统深度不确定性设计竞赛的官方仓库**
 
@@ -44,12 +44,12 @@ The Battle of the Water Futures 竞赛的 GitHub 门户：竞赛在 2026 年 5 �
 ```mermaid
 xychart-beta
     title "WaterFutures/water-futures-battle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

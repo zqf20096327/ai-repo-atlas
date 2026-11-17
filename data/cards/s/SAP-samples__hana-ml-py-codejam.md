@@ -1,6 +1,6 @@
 # SAP-samples/hana-ml-py-codejam
 
-⭐ 24 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/SAP-samples/hana-ml-py-codejam) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **SAP HANA Python 机器学习 CodeJam 教程与练习材料**
 
@@ -11,7 +11,7 @@ SAP 官方 CodeJam 活动的教学材料仓库，主题为使用 SAP HANA Cloud 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ SAP 官方 CodeJam 活动的教学材料仓库，主题为使用 SAP HANA Cloud 
 ```mermaid
 xychart-beta
     title "SAP-samples/hana-ml-py-codejam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-07 24（+0）
 
 
 ---

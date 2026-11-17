@@ -1,6 +1,6 @@
 # dataware-tools/pydtk
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dataware-tools/pydtk) · [官网](https://dataware-tools.github.io/pydtk/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/dataware-tools/pydtk) · [官网](https://dataware-tools.github.io/pydtk/) · 组织维护
 
 **Python 数据管理工具包：统一接口读取与处理多类数据**
 
@@ -45,12 +45,12 @@ PyDTK 是一个用于管理、检索与处理数据的 Python 工具包。核心
 ```mermaid
 xychart-beta
     title "dataware-tools/pydtk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

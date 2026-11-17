@@ -1,6 +1,6 @@
 # lsnow/translate-clipboard
 
-⭐ 22 · JavaScript · GPL-3.0 · 推送 2026-01-17 · [GitHub](https://github.com/lsnow/translate-clipboard) · 个人维护
+⭐ 22 · JavaScript · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/lsnow/translate-clipboard) · 个人维护
 
 **GNOME 剪贴板内容翻译的桌面扩展，支持 Google 或 LLM**
 
@@ -42,12 +42,12 @@ GNOME Shell 桌面扩展，读取剪贴板内容并显示翻译结果；翻译�
 ```mermaid
 xychart-beta
     title "lsnow/translate-clipboard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

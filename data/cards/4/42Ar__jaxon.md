@@ -1,6 +1,6 @@
 # 42Ar/jaxon
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/42Ar/jaxon) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/42Ar/jaxon) · 个人维护
 
 **Python 库：将 pytree 结构高效存取为 HDF5 文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "42Ar/jaxon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "42Ar/jaxon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AlexsJones/repo-steward
 
-⭐ 31 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/AlexsJones/repo-steward) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/AlexsJones/repo-steward) · 个人维护
 
 **开源仓库维护的自主 agent：分诊 issue、审 PR、盯站点，仅升级关键决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlexsJones/repo-steward 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "AlexsJones/repo-steward 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 30, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

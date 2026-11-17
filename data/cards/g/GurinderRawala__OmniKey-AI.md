@@ -1,6 +1,6 @@
 # GurinderRawala/OmniKey-AI
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/GurinderRawala/OmniKey-AI) · [官网](https://omnikeyai.ca) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/GurinderRawala/OmniKey-AI) · [官网](https://omnikeyai.ca) · 个人维护
 
 **选中文本快捷键触发 AI 改写的桌面效率工具（macOS/Windows）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GurinderRawala/OmniKey-AI 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "GurinderRawala/OmniKey-AI 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-22 15 → 2026-11-02 15（+0）
+2026-10-22 15 → 2026-11-17 16（+1）
 
 
 ---

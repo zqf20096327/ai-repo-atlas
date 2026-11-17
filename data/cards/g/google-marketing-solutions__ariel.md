@@ -1,6 +1,6 @@
 # google-marketing-solutions/ariel
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google-marketing-solutions/ariel) · [官网](https://github.com/google-marketing-solutions/ariel) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/google-marketing-solutions/ariel) · [官网](https://github.com/google-marketing-solutions/ariel) · 组织维护
 
 **广告视频 AI 配音翻译工具：上传视频生成多语言配音**
 
@@ -45,13 +45,13 @@ Google gTech 出品的视频语音翻译重配音工具：通过 Web 界面上�
 
 ```mermaid
 xychart-beta
-    title "google-marketing-solutions/ariel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "google-marketing-solutions/ariel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-11-02 67（+1）
+2026-10-18 66 → 2026-11-17 67（+1）
 
 
 ---

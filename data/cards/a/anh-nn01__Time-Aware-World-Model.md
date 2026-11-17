@@ -1,6 +1,6 @@
 # anh-nn01/Time-Aware-World-Model
 
-⭐ 16 · Python · 推送 2025-11-24 · [GitHub](https://github.com/anh-nn01/Time-Aware-World-Model) · 组织维护
+⭐ 15 · Python · 推送 2025-11-24 · [GitHub](https://github.com/anh-nn01/Time-Aware-World-Model) · 组织维护
 
 **世界模型的时间感知训练方法代码（ICML 2025 论文官方实现）**
 
@@ -44,13 +44,13 @@ ICML 2025 论文 Time-Aware World Model 的官方代码：一种模型无关的�
 
 ```mermaid
 xychart-beta
-    title "anh-nn01/Time-Aware-World-Model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "anh-nn01/Time-Aware-World-Model 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

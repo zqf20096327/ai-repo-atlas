@@ -1,6 +1,6 @@
 # deepinfra/deepinfra-node
 
-⭐ 22 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/deepinfra/deepinfra-node) · [官网](https://deepinfra.com/) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/deepinfra/deepinfra-node) · [官网](https://deepinfra.com/) · 组织维护
 
 **DeepInfra 推理 API 的官方 TypeScript 客户端库**
 
@@ -44,13 +44,13 @@ DeepInfra 官方维护的 TypeScript/JavaScript SDK，封装 DeepInfra Inference
 
 ```mermaid
 xychart-beta
-    title "deepinfra/deepinfra-node 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "deepinfra/deepinfra-node 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

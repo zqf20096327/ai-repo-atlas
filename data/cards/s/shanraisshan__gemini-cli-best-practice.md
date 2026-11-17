@@ -1,6 +1,6 @@
 # shanraisshan/gemini-cli-best-practice
 
-⭐ 80 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/shanraisshan/gemini-cli-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/shanraisshan/gemini-cli-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
 **Gemini CLI 最佳实践与技巧策展仓库：概念表、工作流与 29+ 条提示**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/gemini-cli-best-practice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 77 --> 81
-    line [78, 79, 80, 80]
+    title "shanraisshan/gemini-cli-best-practice 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 77 --> 83
+    line [78, 79, 80, 79, 82, 82]
 ```
 
-2026-10-18 78 → 2026-11-02 80（+2）
+2026-10-18 78 → 2026-11-17 82（+4）
 
 
 ---

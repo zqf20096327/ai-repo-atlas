@@ -1,6 +1,6 @@
 # ru4ls/ComfyUI_Nano_Banana
 
-⭐ 61 · Python · MIT · 推送 2026-03-02 · [GitHub](https://github.com/ru4ls/ComfyUI_Nano_Banana) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-03-02 · [GitHub](https://github.com/ru4ls/ComfyUI_Nano_Banana) · 个人维护
 
 **ComfyUI 自定义节点集：通过 Gemini API/VertexAI 做文生图与图编辑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ru4ls/ComfyUI_Nano_Banana 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "ru4ls/ComfyUI_Nano_Banana 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

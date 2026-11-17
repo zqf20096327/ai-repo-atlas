@@ -1,6 +1,6 @@
 # systemime/coding-plan-mask
 
-⭐ 92 · Go · MIT · 推送 2026-07-05 · [GitHub](https://github.com/systemime/coding-plan-mask) · 个人维护 · 中文 README
+⭐ 90 · Go · MIT · 推送 2026-07-05 · [GitHub](https://github.com/systemime/coding-plan-mask) · 个人维护 · 中文 README
 
 **本地代理：将 Coding Plan API 伪装成官方 IDE 客户端供任意工具使用**
 
@@ -45,13 +45,13 @@ Go 编写的轻量本地代理，面向已订阅大模型厂商 Coding Plan（�
 
 ```mermaid
 xychart-beta
-    title "systemime/coding-plan-mask 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    title "systemime/coding-plan-mask 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 89 --> 93
+    line [91, 92, 91, 90, 90]
 ```
 
-2026-10-18 91 → 2026-11-02 92（+1）
+2026-10-18 91 → 2026-11-17 90（-1）
 
 
 ---

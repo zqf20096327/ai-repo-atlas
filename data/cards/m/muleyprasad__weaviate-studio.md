@@ -1,6 +1,6 @@
 # muleyprasad/weaviate-studio
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/muleyprasad/weaviate-studio) · [官网](https://marketplace.visualstudio.com/items?itemName=prasadmuley.weaviate-studio) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/muleyprasad/weaviate-studio) · [官网](https://marketplace.visualstudio.com/items?itemName=prasadmuley.weaviate-studio) · 个人维护
 
 **在 VS Code 内管理 Weaviate 向量库的扩展：查询、浏览、备份**
 
@@ -46,12 +46,12 @@ TypeScript/React 编写的 VS Code 扩展，用于连接本地、自托管或云
 ```mermaid
 xychart-beta
     title "muleyprasad/weaviate-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Przemyslaw11/BeyondBackpropagation
 
-⭐ 16 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Przemyslaw11/BeyondBackpropagation) · [官网](https://arxiv.org/abs/2511.01061) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Przemyslaw11/BeyondBackpropagation) · [官网](https://arxiv.org/abs/2511.01061) · 组织维护
 
 **无反向传播深度学习算法的硬件实测基准研究代码**
 
@@ -46,12 +46,12 @@ PPAM 2026 论文的配套代码库，实现并对比 Forward-Forward、Cascaded 
 ```mermaid
 xychart-beta
     title "Przemyslaw11/BeyondBackpropagation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

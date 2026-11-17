@@ -1,6 +1,6 @@
 # AtrCheema/AI4Water
 
-⭐ 78 · Python · MIT · 推送 2025-11-09 · [GitHub](https://github.com/AtrCheema/AI4Water) · [官网](https://ai4water.readthedocs.io) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向时序与表格数据的机器/深度学习建模框架**
 
@@ -11,7 +11,7 @@ Python 框架，用于快速构建与实验时间序列和表格数据的机器�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Python 框架，用于快速构建与实验时间序列和表格数据的机器�
 ```mermaid
 xychart-beta
     title "AtrCheema/AI4Water 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-07 78（+0）
 
 
 ---

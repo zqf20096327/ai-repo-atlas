@@ -1,6 +1,6 @@
 # OmegaMc1331/agentic-software-factory
 
-⭐ 25 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OmegaMc1331/agentic-software-factory) · 个人维护
+⭐ 27 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OmegaMc1331/agentic-software-factory) · 个人维护
 
 **本地多智能体编码运行时：编排编码 agent 完成规划、审查与集成**
 
@@ -45,13 +45,13 @@ Rust 编写的本地优先多智能体软件工程运行时：用户安装自己
 
 ```mermaid
 xychart-beta
-    title "OmegaMc1331/agentic-software-factory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25, 25]
+    title "OmegaMc1331/agentic-software-factory 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 28
+    line [22, 23, 24, 25, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 22 → 2026-11-02 25（+3）
+2026-10-18 22 → 2026-11-17 27（+5）
 
 
 ---

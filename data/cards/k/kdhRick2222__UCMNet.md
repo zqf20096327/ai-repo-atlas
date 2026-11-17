@@ -1,6 +1,6 @@
 # kdhRick2222/UCMNet
 
-⭐ 22 · Python · 推送 2026-08-18 · [GitHub](https://github.com/kdhRick2222/UCMNet) · [官网](https://kdhrick2222.github.io/projects/UCMNet/) · 组织维护
+⭐ 23 · Python · 推送 2026-08-18 · [GitHub](https://github.com/kdhRick2222/UCMNet) · [官网](https://kdhrick2222.github.io/projects/UCMNet/) · 组织维护
 
 **屏下摄像头图像修复模型官方实现（CVPR'26）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kdhRick2222/UCMNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "kdhRick2222/UCMNet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 21, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

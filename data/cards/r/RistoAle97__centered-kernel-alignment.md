@@ -1,6 +1,6 @@
 # RistoAle97/centered-kernel-alignment
 
-⭐ 83 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/RistoAle97/centered-kernel-alignment) · 个人维护
+⭐ 83 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/RistoAle97/centered-kernel-alignment) · 个人维护
 
 **给研究者的 PyTorch CKA 表示相似度计算库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "RistoAle97/centered-kernel-alignment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 81 --> 84
     line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 83（+1）
 
 
 ---

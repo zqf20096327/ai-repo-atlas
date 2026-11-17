@@ -1,6 +1,6 @@
 # niuhuoshan/ai-agent-server
 
-⭐ 25 · Java · 推送 2026-08-27 · [GitHub](https://github.com/niuhuoshan/ai-agent-server) · 个人维护 · 中文 README
+⭐ 28 · Java · 推送 2026-08-27 · [GitHub](https://github.com/niuhuoshan/ai-agent-server) · 个人维护 · 中文 README
 
 **企业级通用智能体平台工程实践：多 Agent 协作与治理（Java 21）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "niuhuoshan/ai-agent-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 24, 23, 25, 25]
+    title "niuhuoshan/ai-agent-server 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 29
+    line [21, 22, 24, 23, 25, 24, 25, 26, 27, 28, 28]
 ```
 
-2026-10-18 21 → 2026-11-02 25（+4）
+2026-10-18 21 → 2026-11-17 28（+7）
 
 
 ---

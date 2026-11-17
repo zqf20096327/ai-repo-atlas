@@ -1,6 +1,6 @@
 # MuhammadUsmanGM/code-stick
 
-⭐ 63 · TypeScript · NOASSERTION · 推送 2026-05-21 · [GitHub](https://github.com/MuhammadUsmanGM/code-stick) · [官网](https://www.npmjs.com/package/code-stick) · 个人维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-05-21 · [GitHub](https://github.com/MuhammadUsmanGM/code-stick) · [官网](https://www.npmjs.com/package/code-stick) · 个人维护
 
 **装进 USB 的离线 AI 编程代理：即插即用零安装**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuhammadUsmanGM/code-stick 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    title "MuhammadUsmanGM/code-stick 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 62 --> 65
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-17 64（+1）
 
 
 ---

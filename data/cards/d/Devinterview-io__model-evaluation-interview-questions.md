@@ -1,6 +1,6 @@
 # Devinterview-io/model-evaluation-interview-questions
 
-⭐ 21 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/model-evaluation-interview-questions) · 组织维护
+⭐ 22 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/model-evaluation-interview-questions) · 组织维护
 
 **模型评估面试题库：55 问答案助准备 ML/数据科学面试**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的机器学习模型评估主题面试问答集，覆盖 
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/model-evaluation-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Devinterview-io/model-evaluation-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JackismyShephard/ultimate-rvc
 
-⭐ 340 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/JackismyShephard/ultimate-rvc) · 个人维护
+⭐ 344 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/JackismyShephard/ultimate-rvc) · 个人维护
 
 **面向用户的 RVC 语音转换应用：生成歌曲翻唱与语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JackismyShephard/ultimate-rvc 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 334 --> 341
-    line [335, 336, 337, 338, 339, 340, 340]
+    title "JackismyShephard/ultimate-rvc 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 334 --> 345
+    line [335, 336, 337, 338, 339, 340, 338, 342, 343, 344, 344]
 ```
 
-2026-10-18 335 → 2026-11-02 340（+5）
+2026-10-18 335 → 2026-11-17 344（+9）
 
 
 ---

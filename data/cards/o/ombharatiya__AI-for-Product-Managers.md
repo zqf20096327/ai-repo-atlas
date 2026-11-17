@@ -1,6 +1,6 @@
 # ombharatiya/AI-for-Product-Managers
 
-⭐ 19 · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/ombharatiya/AI-for-Product-Managers) · 个人维护
+⭐ 20 · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/ombharatiya/AI-for-Product-Managers) · 个人维护
 
 **AI 产品经理学习与面试准备知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ombharatiya/AI-for-Product-Managers 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 20
-    line [11, 12, 13, 14, 15, 16, 17, 18, 19]
+    title "ombharatiya/AI-for-Product-Managers 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 21
+    line [11, 12, 13, 14, 15, 16, 17, 18, 19, 15, 20, 20]
 ```
 
-2026-10-18 11 → 2026-11-02 19（+8）
+2026-10-18 11 → 2026-11-17 20（+9）
 
 
 ---

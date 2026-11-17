@@ -1,6 +1,6 @@
 # shadowlzt/ironclaw-ai-vision
 
-⭐ 116 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/shadowlzt/ironclaw-ai-vision) · 个人维护
+⭐ 116 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/shadowlzt/ironclaw-ai-vision) · 个人维护
 
 **离线优先的认知训练 PWA：导入内容并用 AI 生成对抗式思维训练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shadowlzt/ironclaw-ai-vision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "shadowlzt/ironclaw-ai-vision 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 115 --> 118
-    line [117, 116, 116]
+    line [117, 116, 117, 116, 116]
 ```
 
-2026-10-18 117 → 2026-11-02 116（-1）
+2026-10-18 117 → 2026-11-17 116（-1）
 
 
 ---

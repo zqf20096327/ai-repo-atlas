@@ -1,6 +1,6 @@
 # langchain-ai/langchain-nvidia
 
-⭐ 216 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-nvidia) · 组织维护
+⭐ 217 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/langchain-nvidia) · 组织维护
 
 **NVIDIA 与 LangChain 集成的官方包合集**
 
@@ -44,13 +44,13 @@ langchain-ai 维护的仓库，包含五个 Python 包：langchain-nvidia-ai-end
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-nvidia 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
+    title "langchain-ai/langchain-nvidia 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 215 --> 218
-    line [217, 216, 217, 216, 216]
+    line [217, 216, 217, 216, 217, 216, 217, 217]
 ```
 
-2026-10-18 217 → 2026-11-02 216（-1）
+2026-10-18 217 → 2026-11-17 217（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # duaraghav8/dockershrink
 
-⭐ 419 · Go · MPL-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/duaraghav8/dockershrink) · 个人维护
+⭐ 417 · Go · MPL-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/duaraghav8/dockershrink) · 个人维护
 
 **AI 辅助缩减 Docker 镜像体积的命令行工具（当前仅 Node.js）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duaraghav8/dockershrink 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 417 --> 420
-    line [418, 419, 419]
+    title "duaraghav8/dockershrink 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 415 --> 420
+    line [418, 419, 418, 416, 417, 417]
 ```
 
-2026-10-18 418 → 2026-11-02 419（+1）
+2026-10-18 418 → 2026-11-17 417（-1）
 
 
 ---

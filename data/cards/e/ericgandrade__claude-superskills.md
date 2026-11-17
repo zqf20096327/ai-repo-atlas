@@ -1,6 +1,6 @@
 # ericgandrade/claude-superskills
 
-⭐ 85 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/ericgandrade/claude-superskills) · 个人维护
+⭐ 88 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/ericgandrade/claude-superskills) · 个人维护
 
 **跨 8 个 AI 编码助手的 18 个通用技能包平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ericgandrade/claude-superskills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 83, 84, 85, 85]
+    title "ericgandrade/claude-superskills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 82 --> 90
+    line [83, 84, 83, 84, 85, 83, 87, 88, 89, 88, 88]
 ```
 
-2026-10-18 83 → 2026-11-02 85（+2）
+2026-10-18 83 → 2026-11-17 88（+5）
 
 
 ---

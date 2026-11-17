@@ -1,6 +1,6 @@
 # Neuvem/java2graph
 
-⭐ 17 · Java · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/Neuvem/java2graph) · 组织维护
+⭐ 17 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Neuvem/java2graph) · 组织维护
 
 **为 AI Agent 生成 Java 代码属性图的 AST 解析器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Neuvem/java2graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Neuvem/java2graph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

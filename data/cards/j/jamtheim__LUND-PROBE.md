@@ -1,6 +1,6 @@
 # jamtheim/LUND-PROBE
 
-⭐ 17 · Python · 推送 2026-03-20 · [GitHub](https://github.com/jamtheim/LUND-PROBE) · [官网](https://datahub.aida.scilifelab.se/10.23698/aida/lund-probe) · 组织维护
+⭐ 18 · Python · 推送 2026-03-20 · [GitHub](https://github.com/jamtheim/LUND-PROBE) · [官网](https://datahub.aida.scilifelab.se/10.23698/aida/lund-probe) · 组织维护
 
 **前列腺癌 MRI 放疗开放基准数据集（432 例）及加载可视化 notebook**
 
@@ -43,13 +43,13 @@ LUND-PROBE 是面向 MRI 基放疗计划研究的数据集：432 例前列腺癌
 
 ```mermaid
 xychart-beta
-    title "jamtheim/LUND-PROBE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "jamtheim/LUND-PROBE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

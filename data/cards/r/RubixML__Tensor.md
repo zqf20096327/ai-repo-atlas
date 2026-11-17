@@ -1,6 +1,6 @@
 # RubixML/Tensor
 
-⭐ 278 · PHP · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RubixML/Tensor) · 组织维护
+⭐ 279 · PHP · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RubixML/Tensor) · 组织维护
 
 **PHP 科学计算库：提供矩阵与张量运算对象**
 
@@ -42,13 +42,13 @@ RubixML 维护的 PHP 科学计算库，以对象形式提供矩阵、向量等�
 
 ```mermaid
 xychart-beta
-    title "RubixML/Tensor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 277 --> 279
-    line [278, 278]
+    title "RubixML/Tensor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 277 --> 280
+    line [278, 279, 279]
 ```
 
-2026-10-18 278 → 2026-11-02 278（+0）
+2026-10-18 278 → 2026-11-17 279（+1）
 
 
 ---

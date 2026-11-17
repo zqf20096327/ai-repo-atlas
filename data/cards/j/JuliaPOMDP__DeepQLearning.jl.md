@@ -1,6 +1,6 @@
 # JuliaPOMDP/DeepQLearning.jl
 
-⭐ 77 · Julia · NOASSERTION · 推送 2025-11-16 · [GitHub](https://github.com/JuliaPOMDP/DeepQLearning.jl) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Julia 实现的 Deep Q-Learning 算法库，用于求解 MDP**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JuliaPOMDP/DeepQLearning.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-11 77（+0）
 
 
 ---

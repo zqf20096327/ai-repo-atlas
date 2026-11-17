@@ -1,6 +1,6 @@
 # tarikurrahmann/Machine-Learning-Projects
 
-⭐ 17 · HTML · 推送 2026-10-31 · [GitHub](https://github.com/tarikurrahmann/Machine-Learning-Projects) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **26 个端到端机器学习项目合集，覆盖医疗、CV、NLP 等领域**
 

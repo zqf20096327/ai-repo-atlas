@@ -1,6 +1,6 @@
 # dcavar/python-tutorial-notebooks
 
-⭐ 166 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/dcavar/python-tutorial-notebooks) · [官网](http://damir.cavar.me/) · 组织维护
+⭐ 166 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/dcavar/python-tutorial-notebooks) · [官网](http://damir.cavar.me/) · 组织维护
 
 **面向计算语言学课程的 Python/NLP/ML/AI 教程笔记本集**
 
@@ -44,12 +44,12 @@ Damir Cavar 自 2016 年起在印第安纳大学计算语言学、NLP、ML、AI 
 ```mermaid
 xychart-beta
     title "dcavar/python-tutorial-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 165 --> 167
     line [166, 166]
 ```
 
-2026-10-18 166 → 2026-11-02 166（+0）
+2026-10-18 166 → 2026-11-17 166（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # orkunkinay/openai_cost_calculator
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/orkunkinay/openai_cost_calculator) · [官网](https://orkunkinay.github.io/openai_cost_calculator/) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/orkunkinay/openai_cost_calculator) · [官网](https://orkunkinay.github.io/openai_cost_calculator/) · 个人维护
 
 **计算 13 家 LLM API 调用精确美元成本的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "orkunkinay/openai_cost_calculator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

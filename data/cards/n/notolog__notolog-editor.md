@@ -1,6 +1,6 @@
 # notolog/notolog-editor
 
-⭐ 30 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/notolog/notolog-editor) · [官网](https://notolog.app) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/notolog/notolog-editor) · [官网](https://notolog.app) · 个人维护
 
 **带本地 AI 助手与 TTS 的 Markdown 编辑器，隐私本地优先**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "notolog/notolog-editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "notolog/notolog-editor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

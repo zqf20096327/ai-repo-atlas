@@ -1,6 +1,6 @@
 # proj-airi/airi-android
 
-⭐ 17 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/proj-airi/airi-android) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/proj-airi/airi-android) · 组织维护
 
 **让 LLM 通过 MCP 控制安卓设备的 MCP 服务器**
 
@@ -44,13 +44,13 @@ airi 项目的子项目，一个基于 MCP 协议的服务器，使 LLM/agent �
 
 ```mermaid
 xychart-beta
-    title "proj-airi/airi-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "proj-airi/airi-android 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 16（-1）
 
 
 ---

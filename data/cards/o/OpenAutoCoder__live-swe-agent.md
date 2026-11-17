@@ -1,6 +1,6 @@
 # OpenAutoCoder/live-swe-agent
 
-⭐ 468 · MIT · 推送 2026-01-19 · [GitHub](https://github.com/OpenAutoCoder/live-swe-agent) · 组织维护
+⭐ 469 · MIT · 推送 2026-01-19 · [GitHub](https://github.com/OpenAutoCoder/live-swe-agent) · 组织维护
 
 **运行时自我演化的软件工程 agent 脚手架，供 LLM 评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenAutoCoder/live-swe-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 466 --> 469
-    line [467, 468, 468]
+    title "OpenAutoCoder/live-swe-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 466 --> 470
+    line [467, 468, 467, 468, 469, 469]
 ```
 
-2026-10-18 467 → 2026-11-02 468（+1）
+2026-10-18 467 → 2026-11-17 469（+2）
 
 
 ---

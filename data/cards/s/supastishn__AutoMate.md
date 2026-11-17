@@ -1,6 +1,6 @@
 # supastishn/AutoMate
 
-⭐ 21 · TypeScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/supastishn/AutoMate) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/supastishn/AutoMate) · 个人维护
 
 **自托管个人 AI agent：多渠道、可调用工具、插件扩展**
 
@@ -45,13 +45,13 @@ TypeScript 编写的自托管个人 AI 助手平台，运行于用户自有硬�
 
 ```mermaid
 xychart-beta
-    title "supastishn/AutoMate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "supastishn/AutoMate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

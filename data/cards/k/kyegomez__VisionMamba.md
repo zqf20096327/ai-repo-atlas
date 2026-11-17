@@ -1,6 +1,6 @@
 # kyegomez/VisionMamba
 
-⭐ 497 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/VisionMamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 496 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/VisionMamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **Vision Mamba 论文的 PyTorch 实现，双向状态空间视觉模型**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/VisionMamba 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "kyegomez/VisionMamba 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 495 --> 498
-    line [496, 497, 497]
+    line [496, 497, 496, 496]
 ```
 
-2026-10-18 496 → 2026-11-02 497（+1）
+2026-10-18 496 → 2026-11-17 496（+0）
 
 
 ---

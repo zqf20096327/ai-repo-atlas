@@ -1,6 +1,6 @@
 # Mr-DooSun/fastapi-agent-blueprint
 
-⭐ 30 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Mr-DooSun/fastapi-agent-blueprint) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mr-DooSun/fastapi-agent-blueprint) · 个人维护 · 中文 README
 
 **面向 AI 编码代理协作的 FastAPI 后端蓝图模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mr-DooSun/fastapi-agent-blueprint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "Mr-DooSun/fastapi-agent-blueprint 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 28, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

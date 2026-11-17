@@ -1,6 +1,6 @@
 # GGBond2424648901/YOLOv-AutoLabel-Tool_v3
 
-⭐ 23 · HTML · CC0-1.0 · 推送 2026-01-03 · [GitHub](https://github.com/GGBond2424648901/YOLOv-AutoLabel-Tool_v3) · 个人维护 · 中文 README
+⭐ 24 · HTML · CC0-1.0 · 推送 2026-01-03 · [GitHub](https://github.com/GGBond2424648901/YOLOv-AutoLabel-Tool_v3) · 个人维护 · 中文 README
 
 **网页端 YOLO 自动标注工具：加载自训模型标注图片视频并导出训练格式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GGBond2424648901/YOLOv-AutoLabel-Tool_v3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "GGBond2424648901/YOLOv-AutoLabel-Tool_v3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

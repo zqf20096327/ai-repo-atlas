@@ -1,6 +1,6 @@
 # yandifei/ArisuQQChatAI
 
-⭐ 18 · Python · LGPL-2.1 · 推送 2026-01-01 · [GitHub](https://github.com/yandifei/ArisuQQChatAI) · [官网](https://github.com/yandifei/ArisuQQChatAI) · 个人维护 · 中文 README
+⭐ 19 · Python · LGPL-2.1 · 推送 2026-01-01 · [GitHub](https://github.com/yandifei/ArisuQQChatAI) · [官网](https://github.com/yandifei/ArisuQQChatAI) · 个人维护 · 中文 README
 
 **接入 DeepSeek API 的 QQ 群自动回复 AI 机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yandifei/ArisuQQChatAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "yandifei/ArisuQQChatAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

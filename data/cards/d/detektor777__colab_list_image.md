@@ -1,6 +1,6 @@
 # detektor777/colab_list_image
 
-⭐ 23 · Jupyter Notebook · 推送 2026-09-26 · [GitHub](https://github.com/detektor777/colab_list_image) · 个人维护
+⭐ 24 · Jupyter Notebook · 推送 2026-09-26 · [GitHub](https://github.com/detektor777/colab_list_image) · 个人维护
 
 **AI 图像处理与生成的 Google Colab 笔记本合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "detektor777/colab_list_image 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "detektor777/colab_list_image 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

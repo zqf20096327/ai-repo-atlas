@@ -1,6 +1,6 @@
 # PJH720/VoiceVault
 
-⭐ 26 · TypeScript · MIT · 推送 2026-04-25 · [GitHub](https://github.com/PJH720/VoiceVault) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-04-25 · [GitHub](https://github.com/PJH720/VoiceVault) · 个人维护
 
 **本地优先的桌面录音应用：AI 转写、摘要、分类与 RAG 检索**
 
@@ -46,13 +46,13 @@ Electrobun 桌面应用，面向个人用户录制讲座、会议与对话。通
 
 ```mermaid
 xychart-beta
-    title "PJH720/VoiceVault 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "PJH720/VoiceVault 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

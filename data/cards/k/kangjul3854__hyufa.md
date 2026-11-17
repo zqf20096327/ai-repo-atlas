@@ -1,6 +1,6 @@
 # kangjul3854/hyufa
 
-⭐ 244 · HTML · 推送 2025-12-07 · [GitHub](https://github.com/kangjul3854/hyufa) · 个人维护
+⭐ 245 · HTML · 推送 2025-12-07 · [GitHub](https://github.com/kangjul3854/hyufa) · 个人维护
 
 **面向大学生与职场新人的韩语 AI 金融咨询聊天网页应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kangjul3854/hyufa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 243 --> 245
-    line [244, 244]
+    title "kangjul3854/hyufa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 243 --> 246
+    line [244, 245, 245]
 ```
 
-2026-10-18 244 → 2026-11-02 244（+0）
+2026-10-18 244 → 2026-11-17 245（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leonardodalinky/SciDER
 
-⭐ 88 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/leonardodalinky/SciDER) · [官网](https://leonardodalinky.github.io/scider-proj-page/) · 组织维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/leonardodalinky/SciDER) · [官网](https://leonardodalinky.github.io/scider-proj-page/) · 组织维护
 
 **面向科研的端到端 AI 研究员：从想法到数据分析、实验与成稿论文**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "leonardodalinky/SciDER 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    title "leonardodalinky/SciDER 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 87 --> 90
+    line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-11-02 88（+0）
+2026-10-18 88 → 2026-11-17 89（+1）
 
 
 ---

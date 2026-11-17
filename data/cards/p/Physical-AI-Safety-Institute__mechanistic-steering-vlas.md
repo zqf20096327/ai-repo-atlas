@@ -1,6 +1,6 @@
 # Physical-AI-Safety-Institute/mechanistic-steering-vlas
 
-⭐ 19 · Python · 推送 2026-01-30 · [GitHub](https://github.com/Physical-AI-Safety-Institute/mechanistic-steering-vlas) · [官网](https://vla-mech-interp.github.io) · 组织维护
+⭐ 21 · Python · 推送 2026-01-30 · [GitHub](https://github.com/Physical-AI-Safety-Institute/mechanistic-steering-vlas) · [官网](https://vla-mech-interp.github.io) · 组织维护
 
 **VLA 机器人策略的机制可解释性与激活层转向研究工具**
 
@@ -45,13 +45,13 @@ CoRL 2025 论文配套代码库：将 VLA 模型 FFN 值向量投影到词汇空
 
 ```mermaid
 xychart-beta
-    title "Physical-AI-Safety-Institute/mechanistic-steering-vlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Physical-AI-Safety-Institute/mechanistic-steering-vlas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

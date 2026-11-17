@@ -1,6 +1,6 @@
 # trustabl/agent-dashboard
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/trustabl/agent-dashboard) · [官网](https://www.trustabl.ai) · 组织维护
+⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/trustabl/agent-dashboard) · [官网](https://www.trustabl.ai) · 组织维护
 
 **本地单用户 Web UI：对自有仓库跑 agent 可靠性扫描与网络探测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trustabl/agent-dashboard 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 15]
+    title "trustabl/agent-dashboard 星数(近 7 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 7 --> 67
+    line [12, 15, 57, 60, 61, 62, 62]
 ```
 
-2026-11-01 12 → 2026-11-02 15（+3）
+2026-11-01 12 → 2026-11-17 62（+50）
 
 
 ---

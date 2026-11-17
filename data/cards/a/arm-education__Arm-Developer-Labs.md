@@ -1,6 +1,6 @@
 # arm-education/Arm-Developer-Labs
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/arm-education/Arm-Developer-Labs) · [官网](https://arm-education.github.io/Arm-Developer-Labs/) · 组织维护
+⭐ 46 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/arm-education/Arm-Developer-Labs) · [官网](https://arm-education.github.io/Arm-Developer-Labs/) · 组织维护
 
 **Arm 官方的产业相关项目清单：面向学生与开发者**
 
@@ -44,13 +44,13 @@ Arm 教育团队维护的实践社区（Community of Practice），收录来自 
 
 ```mermaid
 xychart-beta
-    title "arm-education/Arm-Developer-Labs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    title "arm-education/Arm-Developer-Labs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 45（+2）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

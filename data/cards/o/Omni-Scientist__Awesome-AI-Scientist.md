@@ -1,6 +1,6 @@
 # Omni-Scientist/Awesome-AI-Scientist
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Omni-Scientist/Awesome-AI-Scientist) · [官网](https://omni-scientist.github.io/Awesome-AI-Scientist/) · 组织维护
+⭐ 105 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Omni-Scientist/Awesome-AI-Scientist) · [官网](https://omni-scientist.github.io/Awesome-AI-Scientist/) · 组织维护
 
 **AI 科学家论文/系统/基准/数据集的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Omni-Scientist/Awesome-AI-Scientist 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "Omni-Scientist/Awesome-AI-Scientist 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 98 --> 111
-    line [109, 110, 99, 101, 102, 103, 104, 103, 103]
+    line [109, 110, 99, 101, 102, 103, 104, 103, 99, 104, 105, 105]
 ```
 
-2026-10-18 109 → 2026-11-02 103（-6）
+2026-10-18 109 → 2026-11-17 105（-4）
 
 
 ---

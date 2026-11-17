@@ -1,6 +1,6 @@
 # ravsau/ai-tutorials
 
-⭐ 43 · HTML · 推送 2026-10-01 · [GitHub](https://github.com/ravsau/ai-tutorials) · [官网](https://www.youtube.com/@CloudYeti) · 组织维护
+⭐ 43 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/ravsau/ai-tutorials) · [官网](https://www.youtube.com/@CloudYeti) · 组织维护
 
 **CloudYeti 的 AI 教程配套代码与配置集合**
 
@@ -45,12 +45,12 @@ YouTube 频道 CloudYeti 的 AI 教程配套仓库：收录 Hermes Agent、OpenC
 ```mermaid
 xychart-beta
     title "ravsau/ai-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

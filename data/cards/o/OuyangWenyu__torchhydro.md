@@ -1,6 +1,6 @@
 # OuyangWenyu/torchhydro
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/OuyangWenyu/torchhydro) · 个人维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/OuyangWenyu/torchhydro) · 个人维护
 
 **PyTorch 流域水文建模框架：数据集、模型与训练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OuyangWenyu/torchhydro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "OuyangWenyu/torchhydro 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

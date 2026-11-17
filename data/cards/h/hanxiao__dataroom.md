@@ -1,6 +1,6 @@
 # hanxiao/dataroom
 
-⭐ 191 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/hanxiao/dataroom) · [官网](https://dataroom.hanxiao.io) · 个人维护
+⭐ 194 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/hanxiao/dataroom) · [官网](https://dataroom.hanxiao.io) · 个人维护
 
 **单卡 L4 本地研究代理：给一个查询，自动产出带引用的资料包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanxiao/dataroom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 190 --> 193
-    line [192, 191, 191]
+    title "hanxiao/dataroom 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 190 --> 195
+    line [192, 191, 192, 193, 194, 194]
 ```
 
-2026-10-18 192 → 2026-11-02 191（-1）
+2026-10-18 192 → 2026-11-17 194（+2）
 
 
 ---

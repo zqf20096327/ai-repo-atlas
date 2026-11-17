@@ -1,6 +1,6 @@
 # mostofashakib/tech-interview-curriculum
 
-⭐ 23 · Java · MIT · 推送 2026-08-09 · [GitHub](https://github.com/mostofashakib/tech-interview-curriculum) · 个人维护
+⭐ 25 · Java · MIT · 推送 2026-08-09 · [GitHub](https://github.com/mostofashakib/tech-interview-curriculum) · 个人维护
 
 **按职业路径组织的面试准备资料库：LLM后训练/ML/系统设计/算法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mostofashakib/tech-interview-curriculum 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "mostofashakib/tech-interview-curriculum 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

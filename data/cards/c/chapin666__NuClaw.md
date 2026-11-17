@@ -1,6 +1,6 @@
 # chapin666/NuClaw
 
-⭐ 11 · C++ · 推送 2026-04-03 · [GitHub](https://github.com/chapin666/NuClaw) · [官网](https://chapin666.github.io/NuClaw/) · 个人维护 · 中文 README
+⭐ 12 · C++ · 推送 2026-04-03 · [GitHub](https://github.com/chapin666/NuClaw) · [官网](https://chapin666.github.io/NuClaw/) · 个人维护 · 中文 README
 
 **C++17 从零构建 AI Agent 的渐进式教程项目（21 章）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chapin666/NuClaw 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "chapin666/NuClaw 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-26 10 → 2026-11-02 11（+1）
+2026-10-26 10 → 2026-11-17 12（+2）
 
 
 ---

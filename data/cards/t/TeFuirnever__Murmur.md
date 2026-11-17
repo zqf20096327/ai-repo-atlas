@@ -1,6 +1,6 @@
 # TeFuirnever/Murmur
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/TeFuirnever/Murmur) · [官网](https://tefuirnever.github.io/Murmur/) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/TeFuirnever/Murmur) · [官网](https://tefuirnever.github.io/Murmur/) · 个人维护 · 中文 README
 
 **本地优先的中文 AI 语音输入与转录桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TeFuirnever/Murmur 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    title "TeFuirnever/Murmur 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 29（+4）
 
 
 ---

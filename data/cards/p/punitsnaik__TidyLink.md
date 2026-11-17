@@ -1,6 +1,6 @@
 # punitsnaik/TidyLink
 
-⭐ 24 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/punitsnaik/TidyLink) · 个人维护
+⭐ 26 · Kotlin · MIT · 推送 2026-11-09 · [GitHub](https://github.com/punitsnaik/TidyLink) · 个人维护
 
 **Android 书签管理器：AI 自动分类与摘要保存的链接**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "punitsnaik/TidyLink 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24]
+    title "punitsnaik/TidyLink 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

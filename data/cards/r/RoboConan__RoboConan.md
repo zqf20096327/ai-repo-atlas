@@ -1,6 +1,6 @@
 # RoboConan/RoboConan
 
-⭐ 13 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RoboConan/RoboConan) · [官网](https://github.com/valgur/conan-center-index) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/RoboConan/RoboConan) · 个人维护
 
 **面向 CV/ML/机器人边缘设备的 Conan 包配方仓库（ConanCenter 分叉）**
 
@@ -47,12 +47,12 @@ Fork 自 ConanCenter 的纯配方（recipes-only）仓库，聚焦 CUDA、计算
 ```mermaid
 xychart-beta
     title "RoboConan/RoboConan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

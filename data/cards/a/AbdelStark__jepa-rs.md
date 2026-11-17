@@ -1,6 +1,6 @@
 # AbdelStark/jepa-rs
 
-⭐ 32 · Rust · MIT · 推送 2026-03-16 · [GitHub](https://github.com/AbdelStark/jepa-rs) · 个人维护
+⭐ 33 · Rust · MIT · 推送 2026-03-16 · [GitHub](https://github.com/AbdelStark/jepa-rs) · 个人维护
 
 **Rust 实现的 JEPA 自监督学习与世界模型框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdelStark/jepa-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "AbdelStark/jepa-rs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

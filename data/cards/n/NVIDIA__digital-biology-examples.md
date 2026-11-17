@@ -1,6 +1,6 @@
 # NVIDIA/digital-biology-examples
 
-⭐ 251 · 推送 2026-09-24 · [GitHub](https://github.com/NVIDIA/digital-biology-examples) · 组织维护
+⭐ 254 · 推送 2026-09-24 · [GitHub](https://github.com/NVIDIA/digital-biology-examples) · 组织维护
 
 **NVIDIA 数字生物学与药物发现示例集合：蛋白折叠到虚拟筛选**
 
@@ -43,13 +43,13 @@ NVIDIA 维护的数字生物学与计算药物发现示例仓库，覆盖 AI 蛋
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/digital-biology-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 249 --> 252
-    line [251, 250, 251, 251]
+    title "NVIDIA/digital-biology-examples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 249 --> 255
+    line [251, 250, 251, 250, 252, 254, 254]
 ```
 
-2026-10-18 251 → 2026-11-02 251（+0）
+2026-10-18 251 → 2026-11-17 254（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/Enterprise-Grade-Agents-Course
 
-⭐ 22 · Python · MIT · 推送 2025-12-22 · [GitHub](https://github.com/The-Swarm-Corporation/Enterprise-Grade-Agents-Course) · [官网](https://discord.com/servers/agora-999382051935506503) · 组织维护
+⭐ 23 · Python · MIT · 推送 2025-12-22 · [GitHub](https://github.com/The-Swarm-Corporation/Enterprise-Grade-Agents-Course) · [官网](https://discord.com/servers/agora-999382051935506503) · 组织维护
 
 **面向企业场景的自主 agent 开发课程（8 周制）**
 
@@ -44,13 +44,13 @@ The-Swarm-Corporation 发布的 8 周（24 学时）课程，教授使用 Swarms
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/Enterprise-Grade-Agents-Course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "The-Swarm-Corporation/Enterprise-Grade-Agents-Course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

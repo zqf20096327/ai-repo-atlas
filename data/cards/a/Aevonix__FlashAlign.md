@@ -1,6 +1,6 @@
 # Aevonix/FlashAlign
 
-⭐ 95 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
+⭐ 126 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
 
 **按请求切换模型对齐（abliteration）画像的推理路由工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aevonix/FlashAlign 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 32 --> 100
-    line [37, 95]
+    title "Aevonix/FlashAlign 星数(近 5 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 134
+    line [37, 95, 125, 126, 126]
 ```
 
-2026-11-01 37 → 2026-11-02 95（+58）
+2026-11-01 37 → 2026-11-17 126（+89）
 
 
 ---

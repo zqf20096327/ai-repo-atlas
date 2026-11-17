@@ -1,6 +1,6 @@
 # SysAdminDoc/project-nomad-desktop
 
-⭐ 16 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/SysAdminDoc/project-nomad-desktop) · [官网](https://github.com/SysAdminDoc/project-nomad-desktop/releases/latest) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/SysAdminDoc/project-nomad-desktop) · [官网](https://github.com/SysAdminDoc/project-nomad-desktop/releases/latest) · 个人维护
 
 **离线优先的个人应急备灾桌面工作台，可选本地 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SysAdminDoc/project-nomad-desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "SysAdminDoc/project-nomad-desktop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

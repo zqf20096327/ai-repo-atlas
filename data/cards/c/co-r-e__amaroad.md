@@ -1,6 +1,6 @@
 # co-r-e/amaroad
 
-⭐ 36 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/co-r-e/amaroad) · 组织维护
+⭐ 37 · HTML · MIT · 推送 2026-11-07 · [GitHub](https://github.com/co-r-e/amaroad) · 组织维护
 
 **开发者用 AI 编码代理创作 MDX/HTML 幻灯片的演示环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "co-r-e/amaroad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "co-r-e/amaroad 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

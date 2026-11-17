@@ -1,6 +1,6 @@
 # amikos-tech/chroma-go
 
-⭐ 210 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/amikos-tech/chroma-go) · [官网](https://go-client.chromadb.dev) · 组织维护
+⭐ 210 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/amikos-tech/chroma-go) · [官网](https://go-client.chromadb.dev) · 组织维护
 
 **Chroma 向量数据库的 Go 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amikos-tech/chroma-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "amikos-tech/chroma-go 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-17"]
     y-axis "stars" 207 --> 211
-    line [208, 209, 210, 210]
+    line [208, 209, 210, 209, 210, 210]
 ```
 
-2026-10-18 208 → 2026-11-02 210（+2）
+2026-10-18 208 → 2026-11-17 210（+2）
 
 
 ---

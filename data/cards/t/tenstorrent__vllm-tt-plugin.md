@@ -1,6 +1,6 @@
 # tenstorrent/vllm-tt-plugin
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tenstorrent/vllm-tt-plugin) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **将 Tenstorrent 硬件接入 vLLM 的后端插件，面向 TT 设备做 LLM 推理**
 
@@ -11,7 +11,7 @@ vLLM TT Plugin 通过 vLLM 标准插件机制把 Tenstorrent 硬件注册为 vLL
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ vLLM TT Plugin 通过 vLLM 标准插件机制把 Tenstorrent 硬件注册为 vLL
 
 ```mermaid
 xychart-beta
-    title "tenstorrent/vllm-tt-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "tenstorrent/vllm-tt-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 18, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-08 20（+3）
 
 
 ---

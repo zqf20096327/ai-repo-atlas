@@ -1,6 +1,6 @@
 # zylc369/OpenSecurity
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/zylc369/OpenSecurity) · 个人维护 · 中文 README
+⭐ 86 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/zylc369/OpenSecurity) · 个人维护 · 中文 README
 
 **AI 驱动的多领域安全分析 Agent 平台，让 LLM 端到端完成逆向与安全审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zylc369/OpenSecurity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 80 --> 84
-    line [81, 82, 83, 83]
+    title "zylc369/OpenSecurity 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 80 --> 87
+    line [81, 82, 83, 81, 85, 86, 86]
 ```
 
-2026-10-18 81 → 2026-11-02 83（+2）
+2026-10-18 81 → 2026-11-17 86（+5）
 
 
 ---

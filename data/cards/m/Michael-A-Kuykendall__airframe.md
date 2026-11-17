@@ -1,6 +1,6 @@
 # Michael-A-Kuykendall/airframe
 
-⭐ 21 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/Michael-A-Kuykendall/airframe) · [官网](https://crates.io/crates/airframe) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Michael-A-Kuykendall/airframe) · [官网](https://crates.io/crates/airframe) · 个人维护
 
 **纯 Rust WebGPU 推理引擎：在多厂商 GPU 上运行 GGUF 模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Michael-A-Kuykendall/airframe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    title "Michael-A-Kuykendall/airframe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 26
+    line [19, 20, 21, 25, 25]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 25（+6）
 
 
 ---

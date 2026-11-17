@@ -1,6 +1,6 @@
 # twilio-labs/mcp
 
-⭐ 113 · TypeScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/twilio-labs/mcp) · [官网](https://twilioalpha.com/mcp) · 组织维护
+⭐ 114 · TypeScript · MIT · 推送 2026-02-14 · [GitHub](https://github.com/twilio-labs/mcp) · [官网](https://twilioalpha.com/mcp) · 组织维护
 
 **将 Twilio API 与任意 OpenAPI 规范暴露为 MCP 工具的服务器**
 
@@ -46,13 +46,13 @@ Twilio 官方维护的 MCP monorepo，含两个包：mcp 将 Twilio 全部公开
 
 ```mermaid
 xychart-beta
-    title "twilio-labs/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 112 --> 114
-    line [113, 113]
+    title "twilio-labs/mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 112 --> 115
+    line [113, 114, 114]
 ```
 
-2026-10-18 113 → 2026-11-02 113（+0）
+2026-10-18 113 → 2026-11-17 114（+1）
 
 
 ---

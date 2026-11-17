@@ -1,6 +1,6 @@
 # redis/redis-vl-java
 
-⭐ 23 · Java · MIT · 推送 2026-06-05 · [GitHub](https://github.com/redis/redis-vl-java) · [官网](https://redis.github.io/redis-vl-java/) · 组织维护
+⭐ 24 · Java · MIT · 推送 2026-06-05 · [GitHub](https://github.com/redis/redis-vl-java) · [官网](https://redis.github.io/redis-vl-java/) · 组织维护
 
 **面向 AI 应用的 Redis Java 客户端：向量检索/RAG/语义缓存**
 
@@ -45,13 +45,13 @@ Redis 官方维护的 Java 17+ 向量库客户端，构建于 Jedis 之上，供
 
 ```mermaid
 xychart-beta
-    title "redis/redis-vl-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "redis/redis-vl-java 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # verikod/hector
 
-⭐ 59 · Go · MIT · 推送 2026-05-18 · [GitHub](https://github.com/verikod/hector) · [官网](https://gohector.dev) · 组织维护
+⭐ 60 · Go · MIT · 推送 2026-05-18 · [GitHub](https://github.com/verikod/hector) · [官网](https://gohector.dev) · 组织维护
 
 **Go 编写的 A2A 原生 AI agent 运行时平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "verikod/hector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "verikod/hector 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 58 --> 61
-    line [60, 59, 59]
+    line [60, 59, 60, 60]
 ```
 
-2026-10-18 60 → 2026-11-02 59（-1）
+2026-10-18 60 → 2026-11-17 60（+0）
 
 
 ---

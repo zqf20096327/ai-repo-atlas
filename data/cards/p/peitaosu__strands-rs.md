@@ -1,6 +1,6 @@
 # peitaosu/strands-rs
 
-⭐ 11 · Rust · MIT · 推送 2025-12-23 · [GitHub](https://github.com/peitaosu/strands-rs) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/peitaosu/strands-rs) · 个人维护
 
 **Rust 实现的 Strands Agents SDK：构建 AI agent 框架**
 
@@ -45,12 +45,12 @@ AWS Strands Agents SDK 的 Rust 移植版，提供以模型驱动编排构建 AI
 ```mermaid
 xychart-beta
     title "peitaosu/strands-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

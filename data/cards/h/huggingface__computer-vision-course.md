@@ -1,6 +1,6 @@
 # huggingface/computer-vision-course
 
-⭐ 901 · Jupyter Notebook · MIT · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/computer-vision-course) · 组织维护
+⭐ 912 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/computer-vision-course) · 组织维护
 
 **社区共创的计算机视觉课程，覆盖 CNN 到视觉 Transformer**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/computer-vision-course 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 895 --> 902
-    line [896, 897, 898, 899, 901]
+    title "huggingface/computer-vision-course 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 895 --> 913
+    line [896, 897, 898, 899, 901, 898, 908, 909, 910, 911, 912, 912]
 ```
 
-2026-10-18 896 → 2026-11-02 901（+5）
+2026-10-18 896 → 2026-11-17 912（+16）
 
 
 ---

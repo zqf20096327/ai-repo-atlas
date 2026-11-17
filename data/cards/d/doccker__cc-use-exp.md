@@ -1,6 +1,6 @@
 # doccker/cc-use-exp
 
-⭐ 1,063 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/doccker/cc-use-exp) · [官网](https://github.com/dev-agent-kit/recipes.git) · 个人维护 · 中文 README
+⭐ 1,061 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/doccker/cc-use-exp) · [官网](https://github.com/dev-agent-kit/recipes.git) · 个人维护 · 中文 README
 
 **六款 AI 编码 CLI/IDE 的开箱即用分层配置模板体系**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "doccker/cc-use-exp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1061 --> 1067
-    line [1066, 1064, 1065, 1064, 1063, 1062, 1063, 1063]
+    title "doccker/cc-use-exp 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1060 --> 1067
+    line [1066, 1064, 1065, 1064, 1063, 1062, 1063, 1065, 1061, 1062, 1061, 1061]
 ```
 
-2026-10-18 1,066 → 2026-11-02 1,063（-3）
+2026-10-18 1,066 → 2026-11-17 1,061（-5）
 
 
 ---

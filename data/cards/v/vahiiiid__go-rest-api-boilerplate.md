@@ -1,6 +1,6 @@
 # vahiiiid/go-rest-api-boilerplate
 
-⭐ 71 · Go · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vahiiiid/go-rest-api-boilerplate) · [官网](https://vahiiiid.github.io/go-rest-api-docs/) · 个人维护
+⭐ 73 · Go · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vahiiiid/go-rest-api-boilerplate) · [官网](https://vahiiiid.github.io/go-rest-api-docs/) · 个人维护
 
 **面向 AI 编码助手优化的 Go REST API 脚手架**
 
@@ -45,13 +45,13 @@ Go 语言 REST API 项目模板（GRAB），提供 Clean Architecture 分层、J
 
 ```mermaid
 xychart-beta
-    title "vahiiiid/go-rest-api-boilerplate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    title "vahiiiid/go-rest-api-boilerplate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 70, 72, 73, 73]
 ```
 
-2026-10-18 70 → 2026-11-02 71（+1）
+2026-10-18 70 → 2026-11-17 73（+3）
 
 
 ---

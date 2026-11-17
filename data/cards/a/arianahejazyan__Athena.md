@@ -1,6 +1,6 @@
 # arianahejazyan/Athena
 
-⭐ 32 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/arianahejazyan/Athena) · 个人维护
+⭐ 32 · C++ · MIT · 推送 2026-11-11 · [GitHub](https://github.com/arianahejazyan/Athena) · 个人维护
 
 **UCI 兼容的四国象棋引擎（C++，256 位 bitboard）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arianahejazyan/Athena 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

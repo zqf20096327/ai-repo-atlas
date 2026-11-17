@@ -1,6 +1,6 @@
 # Leo-Corporation/ColorPicker
 
-⭐ 108 · C# · MIT · 推送 2026-02-20 · [GitHub](https://github.com/Leo-Corporation/ColorPicker) · [官网](https://leocorporation.dev/store/colorpickermax) · 个人维护
+⭐ 107 · C# · MIT · 推送 2026-02-20 · [GitHub](https://github.com/Leo-Corporation/ColorPicker) · [官网](https://leocorporation.dev/store/colorpickermax) · 个人维护
 
 **Windows 桌面取色与配色工具，含 AI 自然语言配色建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leo-Corporation/ColorPicker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    title "Leo-Corporation/ColorPicker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 106 --> 109
+    line [108, 107, 107]
 ```
 
-2026-10-18 108 → 2026-11-02 108（+0）
+2026-10-18 108 → 2026-11-17 107（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HenryZ838978/pocketclaw
 
-⭐ 38 · Kotlin · 推送 2026-03-17 · [GitHub](https://github.com/HenryZ838978/pocketclaw) · 个人维护 · 中文 README
+⭐ 39 · Kotlin · 推送 2026-03-17 · [GitHub](https://github.com/HenryZ838978/pocketclaw) · 个人维护 · 中文 README
 
 **安卓手机本地运行的 AI agent 应用：单 APK 免服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HenryZ838978/pocketclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "HenryZ838978/pocketclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

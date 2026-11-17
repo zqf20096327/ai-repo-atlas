@@ -1,6 +1,6 @@
 # shehzaadzd/MINERVA
 
-⭐ 322 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/shehzaadzd/MINERVA) · 组织维护
+⭐ 323 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/shehzaadzd/MINERVA) · 组织维护
 
 **知识图谱上做强化学习路径推理的问答 agent 代码库**
 
@@ -44,13 +44,13 @@ ICLR 2018 论文《Go for a Walk and Arrive at the Answer》的官方代码与�
 
 ```mermaid
 xychart-beta
-    title "shehzaadzd/MINERVA 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 321 --> 323
-    line [322, 322]
+    title "shehzaadzd/MINERVA 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 321 --> 324
+    line [322, 323, 323]
 ```
 
-2026-10-29 322 → 2026-11-02 322（+0）
+2026-10-29 322 → 2026-11-17 323（+1）
 
 
 ---

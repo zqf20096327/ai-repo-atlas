@@ -1,6 +1,6 @@
 # vkorost/weekend-diy-book
 
-⭐ 34 · Shell · CC0-1.0 · 推送 2026-08-15 · [GitHub](https://github.com/vkorost/weekend-diy-book) · 个人维护
+⭐ 36 · Shell · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/vkorost/weekend-diy-book) · 个人维护
 
 **AI 一个周末写成的 Claude Code 进阶技术书，附自写指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vkorost/weekend-diy-book 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 27 --> 35
-    line [28, 30, 31, 32, 33, 34, 34]
+    title "vkorost/weekend-diy-book 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 27 --> 37
+    line [28, 30, 31, 32, 33, 34, 32, 35, 36, 36]
 ```
 
-2026-10-18 28 → 2026-11-02 34（+6）
+2026-10-18 28 → 2026-11-17 36（+8）
 
 
 ---

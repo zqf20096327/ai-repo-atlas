@@ -1,6 +1,6 @@
 # chalie-ai/chalie
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/chalie-ai/chalie) · [官网](https://chalie.ai) · 组织维护
+⭐ 25 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/chalie-ai/chalie) · [官网](https://chalie.ai) · 组织维护
 
 **本地自托管的个人 AI 助理：长期记忆、代理行动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chalie-ai/chalie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

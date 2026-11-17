@@ -1,6 +1,6 @@
 # arthurpanhku/j7scope
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/arthurpanhku/j7scope) · 个人维护 · 中文 README
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/arthurpanhku/j7scope) · 个人维护 · 中文 README
 
 **检验语言模型内部 J-space 跨语言共享性的研究项目与实时旁路工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arthurpanhku/j7scope 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

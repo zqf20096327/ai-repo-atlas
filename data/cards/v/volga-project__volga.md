@@ -1,6 +1,6 @@
 # volga-project/volga
 
-⭐ 161 · Rust · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/volga-project/volga) · [官网](https://volgaai.substack.com) · 组织维护
+⭐ 163 · Rust · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/volga-project/volga) · [官网](https://volgaai.substack.com) · 组织维护
 
 **统一实时数据引擎：一份 SQL 支持流式、批处理与请求服务三种模式**
 
@@ -45,13 +45,13 @@ Rust 编写的 split-path 数据流引擎，基于 Apache Arrow 与 DataFusion�
 
 ```mermaid
 xychart-beta
-    title "volga-project/volga 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 160 --> 162
-    line [161, 161]
+    title "volga-project/volga 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 160 --> 164
+    line [161, 163, 163]
 ```
 
-2026-10-18 161 → 2026-11-02 161（+0）
+2026-10-18 161 → 2026-11-17 163（+2）
 
 
 ---

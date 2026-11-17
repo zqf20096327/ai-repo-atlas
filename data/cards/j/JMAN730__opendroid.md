@@ -1,6 +1,6 @@
 # JMAN730/opendroid
 
-⭐ 1,232 · Kotlin · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
+⭐ 1,292 · Kotlin · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
 
 **Android 全自主 AI 代理：本地/云端 LLM 驱动手机自动化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JMAN730/opendroid 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 1226 --> 1233
-    line [1227, 1232]
+    title "JMAN730/opendroid 星数(近 10 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1221 --> 1298
+    line [1227, 1232, 1264, 1270, 1273, 1280, 1281, 1285, 1292, 1292]
 ```
 
-2026-11-01 1,227 → 2026-11-02 1,232（+5）
+2026-11-01 1,227 → 2026-11-17 1,292（+65）
 
 
 ---

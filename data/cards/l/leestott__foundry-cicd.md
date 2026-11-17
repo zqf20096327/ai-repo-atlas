@@ -1,6 +1,6 @@
 # leestott/foundry-cicd
 
-⭐ 25 · MIT · 推送 2026-05-22 · [GitHub](https://github.com/leestott/foundry-cicd) · 个人维护
+⭐ 26 · MIT · 推送 2026-05-22 · [GitHub](https://github.com/leestott/foundry-cicd) · 个人维护
 
 **给企业开发团队：Microsoft Foundry AI agent 的 CI/CD 参考流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leestott/foundry-cicd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "leestott/foundry-cicd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # yzhao062/pytod
 
-⭐ 187 · Python · BSD-2-Clause · 推送 2026-09-08 · [GitHub](https://github.com/yzhao062/pytod) · [官网](https://arxiv.org/abs/2110.14007) · 个人维护
+⭐ 188 · Python · BSD-2-Clause · 推送 2026-09-08 · [GitHub](https://github.com/yzhao062/pytod) · [官网](https://arxiv.org/abs/2110.14007) · 个人维护
 
 **给数据分析开发者的 GPU 加速离群点检测 Python 库**
 
@@ -44,13 +44,13 @@ PyTOD 将离群点检测算法分解为基础张量代数运算以实现 GPU 加
 
 ```mermaid
 xychart-beta
-    title "yzhao062/pytod 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 186 --> 188
-    line [187, 187]
+    title "yzhao062/pytod 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 186 --> 189
+    line [187, 188, 188]
 ```
 
-2026-10-18 187 → 2026-11-02 187（+0）
+2026-10-18 187 → 2026-11-17 188（+1）
 
 
 ---

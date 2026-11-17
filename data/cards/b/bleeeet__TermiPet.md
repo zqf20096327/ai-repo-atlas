@@ -1,6 +1,6 @@
 # bleeeet/TermiPet
 
-⭐ 86 · Swift · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bleeeet/TermiPet) · [官网](https://github.com/bleeeet/TermiPet/releases/tag/v0.1) · 个人维护 · 中文 README
+⭐ 85 · Swift · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bleeeet/TermiPet) · [官网](https://github.com/bleeeet/TermiPet/releases/tag/v0.1) · 个人维护 · 中文 README
 
 **macOS 终端桌宠：陪伴 Claude Code 并查看状态与用量**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bleeeet/TermiPet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "bleeeet/TermiPet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 83 --> 87
-    line [84, 85, 86, 86]
+    line [84, 85, 86, 85, 86, 85, 85]
 ```
 
-2026-10-18 84 → 2026-11-02 86（+2）
+2026-10-18 84 → 2026-11-17 85（+1）
 
 
 ---

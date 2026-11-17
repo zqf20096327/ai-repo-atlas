@@ -1,6 +1,6 @@
 # THUDM/IndexCache
 
-⭐ 146 · NOASSERTION · 推送 2026-03-14 · [GitHub](https://github.com/THUDM/IndexCache) · [官网](https://huggingface.co/papers/2603.12201) · 组织维护 · 中文 README
+⭐ 147 · NOASSERTION · 推送 2026-03-14 · [GitHub](https://github.com/THUDM/IndexCache) · [官网](https://huggingface.co/papers/2603.12201) · 组织维护 · 中文 README
 
 **给推理引擎的补丁：跨层复用稀疏注意力索引以加速 DSA 推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "THUDM/IndexCache 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 144 --> 147
-    line [145, 146, 145, 146, 146]
+    title "THUDM/IndexCache 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 144 --> 148
+    line [145, 146, 145, 146, 145, 147, 147]
 ```
 
-2026-10-18 145 → 2026-11-02 146（+1）
+2026-10-18 145 → 2026-11-17 147（+2）
 
 
 ---

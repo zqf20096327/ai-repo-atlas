@@ -1,6 +1,6 @@
 # Ararararararaki/comfyui-anima-toolkit
 
-⭐ 43 · JavaScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Ararararararaki/comfyui-anima-toolkit) · [官网](https://ararararararaki.github.io/comfyui-anima-toolkit/) · 个人维护 · 中文 README
+⭐ 42 · JavaScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Ararararararaki/comfyui-anima-toolkit) · [官网](https://ararararararaki.github.io/comfyui-anima-toolkit/) · 个人维护 · 中文 README
 
 **ComfyUI 插件：批量 LoRA 管理、Danbooru 画廊与提示词工具一站式工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ararararararaki/comfyui-anima-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01", "2026-11-02"]
+    title "Ararararararaki/comfyui-anima-toolkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 37 --> 44
-    line [38, 41, 42, 43, 43]
+    line [38, 41, 42, 43, 42, 42]
 ```
 
-2026-10-18 38 → 2026-11-02 43（+5）
+2026-10-18 38 → 2026-11-17 42（+4）
 
 
 ---

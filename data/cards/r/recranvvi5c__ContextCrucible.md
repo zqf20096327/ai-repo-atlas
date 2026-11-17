@@ -1,6 +1,6 @@
 # recranvvi5c/ContextCrucible
 
-⭐ 136 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/ContextCrucible) · [官网](https://pablog-7.github.io/ecommerce-kushi/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给编码 agent 的硬预算上下文编译器：扫描、打分、产出打包**
 
@@ -11,7 +11,7 @@ Rust 编写的 CLI 工具（crucible），从代码仓库生成受 token 硬预�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Rust 编写的 CLI 工具（crucible），从代码仓库生成受 token 硬预�
 
 ```mermaid
 xychart-beta
-    title "recranvvi5c/ContextCrucible 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "recranvvi5c/ContextCrucible 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08"]
     y-axis "stars" 128 --> 220
-    line [206, 212, 213, 135, 136, 136]
+    line [206, 212, 213, 135, 136, 212, 136]
 ```
 
-2026-10-23 206 → 2026-11-02 136（-70）
+2026-10-23 206 → 2026-11-08 136（-70）
 
 
 ---

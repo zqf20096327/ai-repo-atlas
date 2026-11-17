@@ -46,12 +46,12 @@ Aleph Hackathon 2026 的参赛项目（Tether QVAC 赛道）：自动将客户�
 ```mermaid
 xychart-beta
     title "felipebridge/aleph-hack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-01 12（+0）
+2026-10-18 12 → 2026-11-07 12（+0）
 
 
 ---

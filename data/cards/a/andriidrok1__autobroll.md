@@ -1,6 +1,6 @@
 # andriidrok1/autobroll
 
-⭐ 25 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/andriidrok1/autobroll) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/andriidrok1/autobroll) · 个人维护
 
 **浏览器内 AI 短视频剪辑器：自动排序、去静音、字幕与 B-roll**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andriidrok1/autobroll 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 23, 24, 25]
+    title "andriidrok1/autobroll 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 24, 25, 24, 25, 26, 26]
 ```
 
-2026-10-18 21 → 2026-11-02 25（+4）
+2026-10-18 21 → 2026-11-17 26（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Wanying-He/awesome-llm-social-simulation
 
-⭐ 12 · MIT · 推送 2026-02-27 · [GitHub](https://github.com/Wanying-He/awesome-llm-social-simulation) · 个人维护
+⭐ 14 · MIT · 推送 2026-02-27 · [GitHub](https://github.com/Wanying-He/awesome-llm-social-simulation) · 个人维护
 
 **LLM 社会模拟研究的注释性论文阅读清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wanying-He/awesome-llm-social-simulation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "Wanying-He/awesome-llm-social-simulation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

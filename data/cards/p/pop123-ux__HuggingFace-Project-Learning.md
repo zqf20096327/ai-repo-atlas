@@ -1,6 +1,6 @@
 # pop123-ux/HuggingFace-Project-Learning
 
-⭐ 15 · Jupyter Notebook · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/pop123-ux/HuggingFace-Project-Learning) · 个人维护
+⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/pop123-ux/HuggingFace-Project-Learning) · 个人维护
 
 **Hugging Face 课程实践笔记本集：38 个可运行的 NLP/LLM 学习路径**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pop123-ux/HuggingFace-Project-Learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "pop123-ux/HuggingFace-Project-Learning 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

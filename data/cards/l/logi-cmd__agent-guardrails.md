@@ -1,6 +1,6 @@
 # logi-cmd/agent-guardrails
 
-⭐ 27 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/logi-cmd/agent-guardrails) · [官网](https://www.npmjs.com/package/agent-guardrails) · 组织维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/logi-cmd/agent-guardrails) · [官网](https://www.npmjs.com/package/agent-guardrails) · 组织维护 · 中文 README
 
 **合并前检查 AI 代码改动的仓库级护栏工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "logi-cmd/agent-guardrails 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "logi-cmd/agent-guardrails 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
     y-axis "stars" 26 --> 29
-    line [28, 27, 27]
+    line [28, 27, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 27（-1）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

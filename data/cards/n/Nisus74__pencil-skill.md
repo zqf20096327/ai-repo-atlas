@@ -1,6 +1,6 @@
 # Nisus74/pencil-skill
 
-⭐ 27 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/Nisus74/pencil-skill) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/Nisus74/pencil-skill) · 个人维护
 
 **教 AI 编码工具操作 pencil.dev 设计文件的技能插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nisus74/pencil-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    title "Nisus74/pencil-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 29（+4）
 
 
 ---

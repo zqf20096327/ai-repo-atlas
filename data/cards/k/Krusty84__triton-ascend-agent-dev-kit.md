@@ -1,6 +1,6 @@
 # Krusty84/triton-ascend-agent-dev-kit
 
-⭐ 192 · Shell · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/Krusty84/triton-ascend-agent-dev-kit) · [官网](https://www.hiascend.com/en/document) · 个人维护 · 中文 README
+⭐ 189 · Shell · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/Krusty84/triton-ascend-agent-dev-kit) · [官网](https://www.hiascend.com/en/document) · 个人维护 · 中文 README
 
 **供 AI agent 开发 Triton-Ascend NPU 内核的开发工具包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Krusty84/triton-ascend-agent-dev-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "Krusty84/triton-ascend-agent-dev-kit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 96 --> 221
-    line [106, 211, 210, 192, 192]
+    line [106, 211, 210, 192, 210, 189, 189]
 ```
 
-2026-10-18 106 → 2026-11-02 192（+86）
+2026-10-18 106 → 2026-11-17 189（+83）
 
 
 ---

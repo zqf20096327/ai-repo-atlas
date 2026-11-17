@@ -1,6 +1,6 @@
 # maosasagawa/blackbox-re-agent
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/maosasagawa/blackbox-re-agent) · 个人维护 · 中文 README
+⭐ 34 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/maosasagawa/blackbox-re-agent) · 个人维护 · 中文 README
 
 **对话式黑盒逆向分析 agent：自然语言驱动整套逆向工具链**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "maosasagawa/blackbox-re-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "maosasagawa/blackbox-re-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

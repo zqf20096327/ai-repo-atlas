@@ -1,6 +1,6 @@
 # McGill-NLP/weblinx
 
-⭐ 164 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/McGill-NLP/weblinx) · [官网](https://mcgill-nlp.github.io/weblinx) · 组织维护
+⭐ 165 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/McGill-NLP/weblinx) · [官网](https://mcgill-nlp.github.io/weblinx) · 组织维护
 
 **网页导航 agent 基准数据集及配套 Python 库**
 
@@ -45,13 +45,13 @@ McGill-NLP 发布的 ICML 2024 论文配套项目：提供 WebLINX 真实网站�
 
 ```mermaid
 xychart-beta
-    title "McGill-NLP/weblinx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    title "McGill-NLP/weblinx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 163 --> 166
+    line [164, 165, 165]
 ```
 
-2026-10-18 164 → 2026-11-02 164（+0）
+2026-10-18 164 → 2026-11-17 165（+1）
 
 
 ---

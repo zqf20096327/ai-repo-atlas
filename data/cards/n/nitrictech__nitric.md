@@ -1,6 +1,6 @@
 # nitrictech/nitric
 
-⭐ 2,020 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nitrictech/nitric) · [官网](https://nitric.io) · 组织维护
+⭐ 2,018 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nitrictech/nitric) · [官网](https://nitric.io) · 组织维护
 
 **多语言云端应用框架：从代码推断并自动部署基础设施**
 
@@ -44,13 +44,13 @@ Nitric 是一个开源的多语言云应用框架，采用 infrastructure from c
 
 ```mermaid
 xychart-beta
-    title "nitrictech/nitric 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "nitrictech/nitric 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 2015 --> 2021
-    line [2016, 2018, 2019, 2020, 2020]
+    line [2016, 2018, 2019, 2020, 2018, 2017, 2018, 2018]
 ```
 
-2026-10-18 2,016 → 2026-11-02 2,020（+4）
+2026-10-18 2,016 → 2026-11-17 2,018（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # badchars/hackbrowser-mcp
 
-⭐ 25 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/badchars/hackbrowser-mcp) · [官网](https://github.com/badchars/hackbrowser-mcp#quick-start) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/badchars/hackbrowser-mcp) · [官网](https://github.com/badchars/hackbrowser-mcp#quick-start) · 个人维护
 
 **面向安全测试的浏览器 MCP 服务器：给 AI agent 一台 Firefox 做渗透测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "badchars/hackbrowser-mcp 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "badchars/hackbrowser-mcp 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [25, 24, 24]
 ```
 
-2026-10-31 25 → 2026-11-02 25（+0）
+2026-10-31 25 → 2026-11-17 24（-1）
 
 
 ---

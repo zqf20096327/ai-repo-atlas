@@ -1,6 +1,6 @@
 # AnkitNayak-dev/llmBench
 
-⭐ 49 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/AnkitNayak-dev/llmBench) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/AnkitNayak-dev/llmBench) · 个人维护
 
 **本地 LLM 运行时基准测试与硬件深度分析套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnkitNayak-dev/llmBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "AnkitNayak-dev/llmBench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

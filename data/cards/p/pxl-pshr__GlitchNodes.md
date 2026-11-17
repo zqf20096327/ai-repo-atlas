@@ -1,6 +1,6 @@
 # pxl-pshr/GlitchNodes
 
-⭐ 77 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/pxl-pshr/GlitchNodes) · 个人维护
+⭐ 76 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/pxl-pshr/GlitchNodes) · 个人维护
 
 **ComfyUI 图像故障艺术与复古效果节点集（16 个节点）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pxl-pshr/GlitchNodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "pxl-pshr/GlitchNodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 78
+    line [77, 76, 76]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 76（-1）
 
 
 ---

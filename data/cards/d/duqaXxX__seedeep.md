@@ -1,6 +1,6 @@
 # duqaXxX/seedeep
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/duqaXxX/seedeep) · [官网](https://www.npmjs.com/package/seedeep) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/duqaXxX/seedeep) · [官网](https://www.npmjs.com/package/seedeep) · 个人维护
 
 **Claude Code 会话的本地只读实时观测工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "duqaXxX/seedeep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "duqaXxX/seedeep 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    line [47, 48, 47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 48（+1）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

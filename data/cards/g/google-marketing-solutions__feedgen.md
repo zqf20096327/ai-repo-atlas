@@ -1,6 +1,6 @@
 # google-marketing-solutions/feedgen
 
-⭐ 268 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
+⭐ 270 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
 
 **用 Vertex AI LLM 优化 Google Shopping 商品流的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-marketing-solutions/feedgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 267 --> 269
-    line [268, 268]
+    title "google-marketing-solutions/feedgen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 267 --> 271
+    line [268, 269, 270, 270]
 ```
 
-2026-10-18 268 → 2026-11-02 268（+0）
+2026-10-18 268 → 2026-11-17 270（+2）
 
 
 ---

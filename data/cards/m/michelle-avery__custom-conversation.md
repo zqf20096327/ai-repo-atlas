@@ -45,13 +45,13 @@ Home Assistant 的自定义对话 agent 集成：通过 LiteLLM 兼容多家 LLM
 
 ```mermaid
 xychart-beta
-    title "michelle-avery/custom-conversation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "michelle-avery/custom-conversation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 97 --> 100
-    line [98, 99, 99]
+    line [98, 99, 98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 99（+1）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

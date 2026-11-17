@@ -1,6 +1,6 @@
 # KevinBonnoron/sirene
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/KevinBonnoron/sirene) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/KevinBonnoron/sirene) · 个人维护
 
 **自托管多后端文字转语音平台，含语音克隆与 Web UI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KevinBonnoron/sirene 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "KevinBonnoron/sirene 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

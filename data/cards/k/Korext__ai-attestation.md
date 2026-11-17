@@ -1,6 +1,6 @@
 # Korext/ai-attestation
 
-⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/Korext/ai-attestation) · [官网](https://oss.korext.com/ai-attestation) · 组织维护
+⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/Korext/ai-attestation) · [官网](https://oss.korext.com/ai-attestation) · 组织维护
 
 **追踪仓库中 AI 生成代码的开放标准与 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Korext/ai-attestation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "Korext/ai-attestation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [29, 26, 28, 28]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 28（-1）
 
 
 ---

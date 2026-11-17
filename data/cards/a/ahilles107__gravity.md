@@ -1,6 +1,6 @@
 # ahilles107/gravity
 
-⭐ 23 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ahilles107/gravity) · [官网](https://getgravity.build) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ahilles107/gravity) · [官网](https://getgravity.build) · 个人维护
 
 **常驻多机器人 AI 编码代理的桌面工作区**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahilles107/gravity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 23, 23]
+    title "ahilles107/gravity 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 23, 24, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

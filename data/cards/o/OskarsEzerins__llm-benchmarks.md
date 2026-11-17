@@ -1,6 +1,6 @@
 # OskarsEzerins/llm-benchmarks
 
-⭐ 78 · Ruby · MIT · 推送 2026-10-31 · [GitHub](https://github.com/OskarsEzerins/llm-benchmarks) · [官网](https://benchmarks.oskarsezerins.site/) · 个人维护
+⭐ 77 · Ruby · MIT · 推送 2026-11-16 · [GitHub](https://github.com/OskarsEzerins/llm-benchmarks) · [官网](https://benchmarks.oskarsezerins.site/) · 个人维护
 
 **面向 Ruby 代码生成的 LLM 基准测试套件与结果网站**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "OskarsEzerins/llm-benchmarks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "OskarsEzerins/llm-benchmarks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 76 --> 79
+    line [78, 77, 77]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 77（-1）
 
 
 ---

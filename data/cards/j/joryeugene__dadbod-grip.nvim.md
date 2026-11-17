@@ -1,6 +1,6 @@
 # joryeugene/dadbod-grip.nvim
 
-⭐ 181 · Lua · MIT · 推送 2026-10-31 · [GitHub](https://github.com/joryeugene/dadbod-grip.nvim) · [官网](https://jorypestorious.com/dadbod-grip-web/) · 个人维护
+⭐ 183 · Lua · MIT · 推送 2026-11-03 · [GitHub](https://github.com/joryeugene/dadbod-grip.nvim) · [官网](https://jorypestorious.com/dadbod-grip-web/) · 个人维护
 
 **Neovim 数据库编辑插件：表变成可编辑缓冲区，支持自然语言生成 SQL**
 
@@ -45,13 +45,13 @@ Neovim 插件，把数据库表转为可编辑 Vim 缓冲区，提供 schema 侧
 
 ```mermaid
 xychart-beta
-    title "joryeugene/dadbod-grip.nvim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 176 --> 182
-    line [177, 179, 180, 181]
+    title "joryeugene/dadbod-grip.nvim 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 176 --> 184
+    line [177, 179, 180, 181, 177, 183, 183]
 ```
 
-2026-10-18 177 → 2026-11-02 181（+4）
+2026-10-18 177 → 2026-11-17 183（+6）
 
 
 ---

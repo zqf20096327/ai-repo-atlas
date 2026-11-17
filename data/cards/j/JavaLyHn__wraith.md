@@ -1,6 +1,6 @@
 # JavaLyHn/wraith
 
-⭐ 13 · Java · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/JavaLyHn/wraith) · [官网](https://github.com/JavaLyHn/wraith/releases/latest) · 个人维护 · 中文 README
+⭐ 14 · Java · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/JavaLyHn/wraith) · [官网](https://github.com/JavaLyHn/wraith/releases/latest) · 个人维护 · 中文 README
 
 **运行在本机的 AI 编程 Agent，终端/桌面/IM 网关三形态**
 
@@ -45,13 +45,13 @@ Java 内核的编程 Agent，同一套配置、会话、记忆与工具支持三
 
 ```mermaid
 xychart-beta
-    title "JavaLyHn/wraith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "JavaLyHn/wraith 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

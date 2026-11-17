@@ -1,6 +1,6 @@
 # okahu-demos/lg-travel-agent
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/okahu-demos/lg-travel-agent) · [官网](https://portal.okahu.co) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/okahu-demos/lg-travel-agent) · [官网](https://portal.okahu.co) · 组织维护
 
 **LangGraph+OpenAI 构建的示例旅行 Agent，演示 GenAI 追踪调试**
 
@@ -45,12 +45,12 @@ Okahu 团队维护的演示型 Python 应用：基于 LangGraph 多 Agent 框架
 ```mermaid
 xychart-beta
     title "okahu-demos/lg-travel-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

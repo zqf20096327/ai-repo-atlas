@@ -1,6 +1,6 @@
 # mybolide/mcp-probe-kit
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mybolide/mcp-probe-kit) · [官网](https://mcp-probe-kit.bytezonex.com/) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mybolide/mcp-probe-kit) · [官网](https://mcp-probe-kit.bytezonex.com/) · 个人维护 · 中文 README
 
 **面向 Cursor/AI agent 的规范驱动开发 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mybolide/mcp-probe-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "mybolide/mcp-probe-kit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 38 --> 42
-    line [39, 41, 41]
+    line [39, 41, 39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 41（+2）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

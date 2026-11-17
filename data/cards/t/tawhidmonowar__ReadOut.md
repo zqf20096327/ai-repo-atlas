@@ -1,6 +1,6 @@
 # tawhidmonowar/ReadOut
 
-⭐ 30 · Kotlin · MIT · 推送 2025-11-12 · [GitHub](https://github.com/tawhidmonowar/ReadOut) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **跨平台读书伴侣应用：图书浏览、有声书播放与 AI 摘要**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tawhidmonowar/ReadOut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-07 30（+0）
 
 
 ---

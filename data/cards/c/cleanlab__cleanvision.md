@@ -1,6 +1,6 @@
 # cleanlab/cleanvision
 
-⭐ 1,212 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/cleanlab/cleanvision) · [官网](https://cleanvision.readthedocs.io/) · 组织维护
+⭐ 1,213 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/cleanlab/cleanvision) · [官网](https://cleanvision.readthedocs.io/) · 组织维护
 
 **自动检测图像数据集质量问题的 Python 库，供 CV 项目先审数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cleanlab/cleanvision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1211 --> 1213
-    line [1212, 1212]
+    title "cleanlab/cleanvision 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 1211 --> 1214
+    line [1212, 1213, 1213]
 ```
 
-2026-10-18 1,212 → 2026-11-02 1,212（+0）
+2026-10-18 1,212 → 2026-11-17 1,213（+1）
 
 
 ---

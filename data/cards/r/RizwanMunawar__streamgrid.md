@@ -1,6 +1,6 @@
 # RizwanMunawar/streamgrid
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/RizwanMunawar/streamgrid) · 个人维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/RizwanMunawar/streamgrid) · 个人维护
 
 **多路视频流网格显示工具，实时运行 YOLO 目标检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RizwanMunawar/streamgrid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

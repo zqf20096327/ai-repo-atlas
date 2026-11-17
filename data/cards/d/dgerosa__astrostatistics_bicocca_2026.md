@@ -1,6 +1,6 @@
 # dgerosa/astrostatistics_bicocca_2026
 
-⭐ 12 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/dgerosa/astrostatistics_bicocca_2026) · 组织维护
+⭐ 13 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/dgerosa/astrostatistics_bicocca_2026) · 组织维护
 
 **米兰比可卡大学天体物理硕士的天体统计与机器学习课程仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dgerosa/astrostatistics_bicocca_2026 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "dgerosa/astrostatistics_bicocca_2026 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nvidia-holoscan/holoscan-sdk
 
-⭐ 239 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nvidia-holoscan/holoscan-sdk) · [官网](https://nvidia-holoscan.github.io/) · 组织维护
+⭐ 245 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nvidia-holoscan/holoscan-sdk) · [官网](https://nvidia-holoscan.github.io/) · 组织维护
 
 **NVIDIA 的低延迟传感器流式 AI 管线构建 SDK**
 
@@ -44,13 +44,13 @@ Holoscan SDK 是 NVIDIA Holoscan 平台的 C++/Python SDK，用于在嵌入式�
 
 ```mermaid
 xychart-beta
-    title "nvidia-holoscan/holoscan-sdk 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 224 --> 240
-    line [225, 227, 230, 231, 232, 234, 238, 239]
+    title "nvidia-holoscan/holoscan-sdk 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 223 --> 247
+    line [225, 227, 230, 231, 232, 234, 238, 239, 231, 242, 244, 245, 245]
 ```
 
-2026-10-18 225 → 2026-11-02 239（+14）
+2026-10-18 225 → 2026-11-17 245（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # akougkas/zulipchat-mcp
 
-⭐ 33 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/akougkas/zulipchat-mcp) · [官网](https://pypi.org/project/zulipchat-mcp/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/akougkas/zulipchat-mcp) · [官网](https://pypi.org/project/zulipchat-mcp/) · 个人维护
 
 **连接 MCP 客户端与 Zulip 聊天的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akougkas/zulipchat-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

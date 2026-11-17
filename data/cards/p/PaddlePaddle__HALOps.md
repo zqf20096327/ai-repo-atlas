@@ -1,6 +1,6 @@
 # PaddlePaddle/HALOps
 
-⭐ 23 · Cuda · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/PaddlePaddle/HALOps) · 组织维护 · 中文 README
+⭐ 25 · Cuda · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/PaddlePaddle/HALOps) · 组织维护 · 中文 README
 
 **面向 NVIDIA Blackwell 的 LLM 推理高性能算子库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/HALOps 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 24
-    line [14, 19, 23, 23]
+    title "PaddlePaddle/HALOps 星数(近 6 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 13 --> 26
+    line [14, 19, 23, 24, 25, 25]
 ```
 
-2026-10-29 14 → 2026-11-02 23（+9）
+2026-10-29 14 → 2026-11-17 25（+11）
 
 
 ---

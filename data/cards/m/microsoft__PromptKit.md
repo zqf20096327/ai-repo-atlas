@@ -1,6 +1,6 @@
 # microsoft/PromptKit
 
-⭐ 113 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/PromptKit) · 组织维护
+⭐ 114 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/PromptKit) · 组织维护
 
 **可组合、版本化提示词组件库，覆盖工程任务全流程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/PromptKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 111 --> 114
-    line [112, 113, 113]
+    title "microsoft/PromptKit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 111 --> 115
+    line [112, 113, 114, 114]
 ```
 
-2026-10-18 112 → 2026-11-02 113（+1）
+2026-10-18 112 → 2026-11-17 114（+2）
 
 
 ---

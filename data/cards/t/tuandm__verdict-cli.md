@@ -1,6 +1,6 @@
 # tuandm/verdict-cli
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tuandm/verdict-cli) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/tuandm/verdict-cli) · 个人维护
 
 **为 AI 编码 agent 提供省 token 的浏览器验证 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuandm/verdict-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "tuandm/verdict-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

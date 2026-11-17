@@ -1,6 +1,6 @@
 # mai-yyy/multi-llm-mcp
 
-⭐ 117 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/mai-yyy/multi-llm-mcp) · 个人维护 · 中文 README
+⭐ 118 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/mai-yyy/multi-llm-mcp) · 个人维护 · 中文 README
 
 **让 Claude Code 调度 Codex CLI 并行调用多模型的 MCP 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mai-yyy/multi-llm-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    title "mai-yyy/multi-llm-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 116 --> 119
+    line [117, 118, 118]
 ```
 
-2026-10-18 117 → 2026-11-02 117（+0）
+2026-10-18 117 → 2026-11-17 118（+1）
 
 
 ---

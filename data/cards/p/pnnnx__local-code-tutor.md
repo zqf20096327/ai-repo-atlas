@@ -1,6 +1,6 @@
 # pnnnx/local-code-tutor
 
-⭐ 20 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pnnnx/local-code-tutor) · [官网](https://github.com/pnnnx/loca) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向学生的本地代码辅导 agent：微调 Qwen2.5-Coder-7B 并实测运行代码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pnnnx/local-code-tutor 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 19 --> 24
-    line [23, 22, 20, 20]
+    title "pnnnx/local-code-tutor 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-15"]
+    y-axis "stars" 13 --> 24
+    line [23, 22, 20, 14, 15, 15]
 ```
 
-2026-10-22 23 → 2026-11-02 20（-3）
+2026-10-22 23 → 2026-11-15 15（-8）
 
 
 ---

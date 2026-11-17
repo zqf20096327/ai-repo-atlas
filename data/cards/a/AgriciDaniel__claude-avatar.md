@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-avatar
 
-⭐ 31 · HTML · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-avatar) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 34 · HTML · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-avatar) · [官网](https://agricidaniel.com) · 个人维护
 
 **连接 Claude Code CLI 的 3D 语音对话数字人，带口型同步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-avatar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "AgriciDaniel/claude-avatar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sleepy-zone/ai-ref-library-cn
 
-⭐ 551 · JavaScript · 推送 2026-11-01 · [GitHub](https://github.com/sleepy-zone/ai-ref-library-cn) · [官网](https://sleepyzone.online/ai-ref-library-cn/) · 个人维护 · 中文 README
+⭐ 774 · JavaScript · 推送 2026-11-09 · [GitHub](https://github.com/sleepy-zone/ai-ref-library-cn) · [官网](https://sleepyzone.online/ai-ref-library-cn/) · 个人维护 · 中文 README
 
 **AI 作图参考素材库中文检索站：脸/姿势/服装三库统一入口**
 
@@ -40,6 +40,18 @@
 > L1: # AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
 > L81: |库|内容|数量|源站|
 > L83: |脸库|正面向、纯色背景的头部参考（脸部特写 893 / 造型 606）|1,499 张|<https://ai-portrait-gallery.pages.dev/>|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sleepy-zone/ai-ref-library-cn 星数(近 9 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 529 --> 796
+    line [551, 737, 755, 763, 767, 768, 770, 774, 774]
+```
+
+2026-11-02 551 → 2026-11-17 774（+223）
 
 
 ---

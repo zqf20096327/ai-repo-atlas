@@ -1,6 +1,6 @@
 # waterpare833/Novel-Assistant
 
-⭐ 59 · 推送 2025-12-25 · [GitHub](https://github.com/waterpare833/Novel-Assistant) · 个人维护 · 中文 README
+⭐ 58 · 推送 2025-12-25 · [GitHub](https://github.com/waterpare833/Novel-Assistant) · 个人维护 · 中文 README
 
 **面向小说创作者的本地文件夹 RAG 问答助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "waterpare833/Novel-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "waterpare833/Novel-Assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [59, 58, 58]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 58（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/distrax
 
-⭐ 658 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/distrax) · 组织维护
+⭐ 659 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-deepmind/distrax) · 组织维护
 
 **JAX 概率分布与双射器库，供开发者构建概率模型**
 
@@ -44,13 +44,13 @@ DeepMind JAX 生态下的概率分布与 bijector（可逆变换）轻量库，�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/distrax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 656 --> 659
-    line [657, 658, 658]
+    title "google-deepmind/distrax 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 656 --> 660
+    line [657, 658, 657, 658, 657, 658, 659, 659]
 ```
 
-2026-10-18 657 → 2026-11-02 658（+1）
+2026-10-18 657 → 2026-11-17 659（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/skala
 
-⭐ 270 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/skala) · [官网](https://aka.ms/dft) · 组织维护
+⭐ 274 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/skala) · [官网](https://aka.ms/dft) · 组织维护
 
 **深度学习 DFT 交换相关泛函，供量子化学计算使用**
 
@@ -44,13 +44,13 @@ Microsoft Research AI for Science 开发的神经网络交换相关（XC）泛�
 
 ```mermaid
 xychart-beta
-    title "microsoft/skala 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 265 --> 271
-    line [266, 267, 268, 269, 270, 270]
+    title "microsoft/skala 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 265 --> 275
+    line [266, 267, 268, 269, 270, 266, 273, 274, 274]
 ```
 
-2026-10-18 266 → 2026-11-02 270（+4）
+2026-10-18 266 → 2026-11-17 274（+8）
 
 
 ---

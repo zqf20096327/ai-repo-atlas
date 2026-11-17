@@ -1,6 +1,6 @@
 # ray-project/llm-applications
 
-⭐ 1,863 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-08-15 · [GitHub](https://github.com/ray-project/llm-applications) · 组织维护
+⭐ 1,865 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-08-15 · [GitHub](https://github.com/ray-project/llm-applications) · 组织维护
 
 **面向生产的 RAG LLM 应用开发指南（教程与笔记本）**
 
@@ -44,13 +44,13 @@ Ray 项目维护的教学仓库：通过交互式 notebook（rag.ipynb）从零�
 
 ```mermaid
 xychart-beta
-    title "ray-project/llm-applications 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1861 --> 1865
-    line [1862, 1863, 1864, 1863, 1863]
+    title "ray-project/llm-applications 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1861 --> 1866
+    line [1862, 1863, 1864, 1863, 1864, 1865, 1865]
 ```
 
-2026-10-18 1,862 → 2026-11-02 1,863（+1）
+2026-10-18 1,862 → 2026-11-17 1,865（+3）
 
 
 ---

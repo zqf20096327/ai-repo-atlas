@@ -1,6 +1,6 @@
 # idwts/Crayotter
 
-⭐ 247 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/idwts/Crayotter) · [官网](https://idwts.github.io/Crayotter/) · 组织维护 · 中文 README
+⭐ 254 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/idwts/Crayotter) · [官网](https://idwts.github.io/Crayotter/) · 组织维护 · 中文 README
 
 **多模态 AI 剪辑智能体：一句话文字需求端到端产出成品视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "idwts/Crayotter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 228 --> 248
-    line [229, 246, 245, 247, 247]
+    title "idwts/Crayotter 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 227 --> 256
+    line [229, 246, 245, 247, 245, 251, 252, 253, 254, 254]
 ```
 
-2026-10-18 229 → 2026-11-02 247（+18）
+2026-10-18 229 → 2026-11-17 254（+25）
 
 
 ---

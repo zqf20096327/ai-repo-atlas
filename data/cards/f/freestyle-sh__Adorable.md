@@ -1,6 +1,6 @@
 # freestyle-sh/Adorable
 
-⭐ 831 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/freestyle-sh/Adorable) · 组织维护
+⭐ 836 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/freestyle-sh/Adorable) · 组织维护
 
 **开源 AI 应用构建器：对话生成应用并实时预览、发布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "freestyle-sh/Adorable 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 827 --> 832
-    line [828, 830, 829, 831, 831]
+    title "freestyle-sh/Adorable 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 827 --> 837
+    line [828, 830, 829, 831, 829, 833, 834, 836, 836]
 ```
 
-2026-10-18 828 → 2026-11-02 831（+3）
+2026-10-18 828 → 2026-11-17 836（+8）
 
 
 ---

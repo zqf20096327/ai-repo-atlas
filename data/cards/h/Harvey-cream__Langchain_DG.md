@@ -1,6 +1,6 @@
 # Harvey-cream/Langchain_DG
 
-⭐ 29 · Python · 推送 2026-10-12 · [GitHub](https://github.com/Harvey-cream/Langchain_DG) · [官网](http://38.190.206.248/login) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-10-12 · [GitHub](https://github.com/Harvey-cream/Langchain_DG) · [官网](http://38.190.206.248/login) · 个人维护 · 中文 README
 
 **面向企业合同全生命周期的 AI Agent 平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Harvey-cream/Langchain_DG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "Harvey-cream/Langchain_DG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 28 --> 34
-    line [32, 33, 29, 29]
+    line [32, 33, 29, 30, 30]
 ```
 
-2026-10-18 32 → 2026-11-02 29（-3）
+2026-10-18 32 → 2026-11-17 30（-2）
 
 
 ---

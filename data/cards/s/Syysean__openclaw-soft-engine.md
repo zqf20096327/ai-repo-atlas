@@ -1,6 +1,6 @@
 # Syysean/openclaw-soft-engine
 
-⭐ 12 · JavaScript · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Syysean/openclaw-soft-engine) · [官网](https://syysean.github.io/openclaw-soft-engine/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Syysean/openclaw-soft-engine) · [官网](https://syysean.github.io/openclaw-soft-engine/) · 个人维护 · 中文 README
 
 **OpenClaw 的生产化部署模板：多专家模型路由与执行加固层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Syysean/openclaw-soft-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Syysean/openclaw-soft-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

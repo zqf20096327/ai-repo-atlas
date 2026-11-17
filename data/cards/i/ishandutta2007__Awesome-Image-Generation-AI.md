@@ -1,6 +1,6 @@
 # ishandutta2007/Awesome-Image-Generation-AI
 
-⭐ 20 · MIT · 推送 2026-09-09 · [GitHub](https://github.com/ishandutta2007/Awesome-Image-Generation-AI) · 个人维护
+⭐ 20 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ishandutta2007/Awesome-Image-Generation-AI) · 个人维护
 
 **AI 图像生成工具策展清单：收录 SaaS 平台与开源项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ishandutta2007/Awesome-Image-Generation-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

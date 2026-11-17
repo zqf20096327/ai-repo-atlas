@@ -1,6 +1,6 @@
 # ai-forever/easy_sign
 
-⭐ 36 · Python · CC-BY-SA-4.0 · 推送 2026-09-01 · [GitHub](https://github.com/ai-forever/easy_sign) · [官网](https://habr.com/ru/companies/sberbank/articles/775688/) · 组织维护
+⭐ 37 · Python · CC-BY-SA-4.0 · 推送 2026-09-01 · [GitHub](https://github.com/ai-forever/easy_sign) · [官网](https://habr.com/ru/companies/sberbank/articles/775688/) · 组织维护
 
 **俄语手语识别开源项目：轻量 CPU 模型 + Streamlit 部署**
 
@@ -44,13 +44,13 @@ ai-forever（Sber）团队的俄语手语单个手势识别项目：使用在约
 
 ```mermaid
 xychart-beta
-    title "ai-forever/easy_sign 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "ai-forever/easy_sign 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

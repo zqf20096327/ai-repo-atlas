@@ -1,6 +1,6 @@
 # th0r3nt/JAWL
 
-⭐ 40 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/th0r3nt/JAWL) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/th0r3nt/JAWL) · 个人维护 · 中文 README
 
 **构建持续循环自主 AI agent 的异步 Python 框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "th0r3nt/JAWL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "th0r3nt/JAWL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [40, 39, 39]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 39（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SugarMGP/study.skill
 
-⭐ 19 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/SugarMGP/study.skill) · 组织维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/SugarMGP/study.skill) · 组织维护 · 中文 README
 
 **Agent 技能包：让 AI 助手备课、带学并安排复习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SugarMGP/study.skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "SugarMGP/study.skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

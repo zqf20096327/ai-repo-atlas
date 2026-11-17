@@ -1,6 +1,6 @@
 # emirbartu/jev-for-all
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/emirbartu/jev-for-all) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/emirbartu/jev-for-all) · 个人维护
 
 **把 Jev 决策模型接入编码 agent 的插件：选技能、选模型、选工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "emirbartu/jev-for-all 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "emirbartu/jev-for-all 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

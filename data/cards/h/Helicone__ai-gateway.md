@@ -1,6 +1,6 @@
 # Helicone/ai-gateway
 
-⭐ 641 · Rust · GPL-3.0 · 推送 2025-11-21 · [GitHub](https://github.com/Helicone/ai-gateway) · [官网](https://docs.helicone.ai/ai-gateway) · 组织维护
+⭐ 646 · Rust · GPL-3.0 · 推送 2025-11-21 · [GitHub](https://github.com/Helicone/ai-gateway) · [官网](https://docs.helicone.ai/ai-gateway) · 组织维护
 
 **开源 LLM 网关：统一 API 接入 100+ 模型并路由**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Helicone/ai-gateway 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 636 --> 642
-    line [637, 638, 639, 640, 639, 641, 641]
+    title "Helicone/ai-gateway 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 636 --> 647
+    line [637, 638, 639, 640, 639, 641, 640, 644, 643, 646, 646]
 ```
 
-2026-10-18 637 → 2026-11-02 641（+4）
+2026-10-18 637 → 2026-11-17 646（+9）
 
 
 ---

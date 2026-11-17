@@ -1,6 +1,6 @@
 # call518/MCP-OpenStack-Ops
 
-⭐ 48 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/call518/MCP-OpenStack-Ops) · [官网](https://deepwiki.com/call518/MCP-OpenStack-Ops) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/call518/MCP-OpenStack-Ops) · [官网](https://deepwiki.com/call518/MCP-OpenStack-Ops) · 个人维护
 
 **面向 AI agent 的 OpenStack 运维 MCP 服务器（90+ 只读优先工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "call518/MCP-OpenStack-Ops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 44 --> 49
-    line [45, 47, 48, 48]
+    title "call518/MCP-OpenStack-Ops 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 44 --> 51
+    line [45, 47, 48, 45, 49, 50, 50]
 ```
 
-2026-10-18 45 → 2026-11-02 48（+3）
+2026-10-18 45 → 2026-11-17 50（+5）
 
 
 ---

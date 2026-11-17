@@ -1,6 +1,6 @@
 # sfortis/openai_tts
 
-⭐ 221 · Python · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/sfortis/openai_tts) · 个人维护
+⭐ 222 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/sfortis/openai_tts) · 个人维护
 
 **Home Assistant 文字转语音集成，接入多家 OpenAI 兼容语音服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sfortis/openai_tts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 219 --> 222
-    line [220, 221, 221]
+    title "sfortis/openai_tts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 219 --> 223
+    line [220, 221, 222, 222]
 ```
 
-2026-10-18 220 → 2026-11-02 221（+1）
+2026-10-18 220 → 2026-11-17 222（+2）
 
 
 ---

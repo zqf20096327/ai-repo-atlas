@@ -1,6 +1,6 @@
 # sudocode-ai/sudocode
 
-⭐ 295 · TypeScript · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/sudocode-ai/sudocode) · [官网](https://sudocode.ai) · 组织维护
+⭐ 296 · TypeScript · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/sudocode-ai/sudocode) · [官网](https://sudocode.ai) · 组织维护
 
 **开发者工具：在代码仓库内编排与记忆多 coding agent 协作**
 
@@ -44,13 +44,13 @@ sudocode 是一个驻留在 git 仓库中的轻量级 agent 编排系统，面�
 
 ```mermaid
 xychart-beta
-    title "sudocode-ai/sudocode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 293 --> 296
-    line [294, 295, 295]
+    title "sudocode-ai/sudocode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 293 --> 297
+    line [294, 295, 296, 296]
 ```
 
-2026-10-18 294 → 2026-11-02 295（+1）
+2026-10-18 294 → 2026-11-17 296（+2）
 
 
 ---

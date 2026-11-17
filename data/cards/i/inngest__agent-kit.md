@@ -1,6 +1,6 @@
 # inngest/agent-kit
 
-⭐ 959 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/inngest/agent-kit) · [官网](https://agentkit.inngest.com) · 组织维护
+⭐ 963 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/inngest/agent-kit) · [官网](https://agentkit.inngest.com) · 组织维护
 
 **TypeScript 多智能体网络框架：确定性路由与 MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inngest/agent-kit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 947 --> 960
-    line [948, 949, 952, 955, 956, 958, 959, 959]
+    title "inngest/agent-kit 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 947 --> 964
+    line [948, 949, 952, 955, 956, 958, 959, 955, 962, 963, 963]
 ```
 
-2026-10-18 948 → 2026-11-02 959（+11）
+2026-10-18 948 → 2026-11-17 963（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # sure-scale/doc-haus
 
-⭐ 80 · TypeScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/sure-scale/doc-haus) · [官网](https://doc.haus) · 组织维护
+⭐ 82 · TypeScript · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/sure-scale/doc-haus) · [官网](https://doc.haus) · 组织维护
 
 **本地自托管的法律文档 AI 助手：文档留在本地、红线稿输出为 Word 修订**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sure-scale/doc-haus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 77 --> 81
-    line [78, 79, 80, 80]
+    title "sure-scale/doc-haus 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 77 --> 83
+    line [78, 79, 80, 79, 80, 81, 82, 82]
 ```
 
-2026-10-18 78 → 2026-11-02 80（+2）
+2026-10-18 78 → 2026-11-17 82（+4）
 
 
 ---

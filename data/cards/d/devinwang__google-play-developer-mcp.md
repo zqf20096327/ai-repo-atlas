@@ -1,6 +1,6 @@
 # devinwang/google-play-developer-mcp
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/devinwang/google-play-developer-mcp) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/devinwang/google-play-developer-mcp) · 个人维护
 
 **面向 Google Play 开发者 API 的 MCP 服务器（157 个工具）**
 
@@ -45,13 +45,13 @@ TypeScript 实现的 Model Context Protocol 服务器，封装 Android Publisher
 
 ```mermaid
 xychart-beta
-    title "devinwang/google-play-developer-mcp 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "devinwang/google-play-developer-mcp 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-28 10 → 2026-11-02 11（+1）
+2026-10-28 10 → 2026-11-17 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # junxiaopang/all-image-prompts
 
-⭐ 65 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/junxiaopang/all-image-prompts) · [官网](https://prompts.kkkm.cn/) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/junxiaopang/all-image-prompts) · [官网](https://prompts.kkkm.cn/) · 个人维护 · 中文 README
 
 **多模型 AI 绘画提示词的展示与管理平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "junxiaopang/all-image-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    title "junxiaopang/all-image-prompts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [65, 64, 64]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 64（-1）
 
 
 ---

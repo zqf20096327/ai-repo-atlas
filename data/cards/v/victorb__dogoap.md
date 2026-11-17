@@ -1,6 +1,6 @@
 # victorb/dogoap
 
-⭐ 205 · Rust · MIT · 推送 2025-11-06 · [GitHub](https://github.com/victorb/dogoap) · [官网](https://victorb.github.io/dogoap/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **数据导向 GOAP 库，为 Bevy 游戏 NPC 提供目标导向行动计划**
 
@@ -11,7 +11,7 @@ Rust 实现的 Goal-Oriented Action Planning 库，采用数据导向设计，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Rust 实现的 Goal-Oriented Action Planning 库，采用数据导向设计，�
 ```mermaid
 xychart-beta
     title "victorb/dogoap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-18 205 → 2026-11-02 205（+0）
+2026-10-18 205 → 2026-11-07 205（+0）
 
 
 ---

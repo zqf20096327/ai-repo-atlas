@@ -1,6 +1,6 @@
 # TimMikeladze/devbar
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/TimMikeladze/devbar) · [官网](https://devbar.sh) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/TimMikeladze/devbar) · [官网](https://devbar.sh) · 个人维护
 
 **给前端开发者的网页标注工具栏：采集 UI 信息并生成交给 AI agent 的提示**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TimMikeladze/devbar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    title "TimMikeladze/devbar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 33（+3）
 
 
 ---

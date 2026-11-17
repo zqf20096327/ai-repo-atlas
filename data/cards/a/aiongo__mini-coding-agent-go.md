@@ -45,13 +45,13 @@ Sebastian Raschka mini-coding-agent 的 Go 移植，单个 main 包加 CLI。实
 
 ```mermaid
 xychart-beta
-    title "aiongo/mini-coding-agent-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
+    title "aiongo/mini-coding-agent-go 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 86 --> 97
-    line [96, 87, 88, 88]
+    line [96, 87, 88, 87, 88, 88]
 ```
 
-2026-10-18 96 → 2026-11-02 88（-8）
+2026-10-18 96 → 2026-11-17 88（-8）
 
 
 ---

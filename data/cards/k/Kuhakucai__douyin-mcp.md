@@ -1,6 +1,6 @@
 # Kuhakucai/douyin-mcp
 
-⭐ 85 · Python · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Kuhakucai/douyin-mcp) · 个人维护 · 中文 README
+⭐ 94 · Python · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Kuhakucai/douyin-mcp) · 个人维护 · 中文 README
 
 **本地运行的抖音创作者数据 MCP Server，供 AI 读取并复盘作品表现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kuhakucai/douyin-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 83, 84, 85, 85]
+    title "Kuhakucai/douyin-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 82 --> 95
+    line [83, 84, 83, 84, 85, 84, 89, 90, 91, 94, 94]
 ```
 
-2026-10-18 83 → 2026-11-02 85（+2）
+2026-10-18 83 → 2026-11-17 94（+11）
 
 
 ---

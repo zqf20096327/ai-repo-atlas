@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ansarimajid/Construction-PPE-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-25 50（+0）
+2026-10-18 50 → 2026-11-07 50（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # georgeguimaraes/alike
 
-⭐ 45 · Elixir · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/georgeguimaraes/alike) · [官网](http://hexdocs.pm/alike) · 个人维护
+⭐ 47 · Elixir · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/georgeguimaraes/alike) · [官网](http://hexdocs.pm/alike) · 个人维护
 
 **Elixir 语义相似度测试库：断言两句话含义相同**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgeguimaraes/alike 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "georgeguimaraes/alike 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

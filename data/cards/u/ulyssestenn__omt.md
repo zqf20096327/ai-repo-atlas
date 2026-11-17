@@ -1,6 +1,6 @@
 # ulyssestenn/omt
 
-⭐ 49 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/ulyssestenn/omt) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ulyssestenn/omt) · 个人维护
 
 **对比本地 Ollama 模型输出的零依赖 Python CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ulyssestenn/omt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "ulyssestenn/omt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 48 --> 51
-    line [50, 49, 49]
+    line [50, 49, 50, 49, 50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 49（-1）
+2026-10-18 50 → 2026-11-17 50（+0）
 
 
 ---

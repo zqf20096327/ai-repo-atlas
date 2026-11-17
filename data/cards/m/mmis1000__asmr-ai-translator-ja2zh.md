@@ -1,6 +1,6 @@
 # mmis1000/asmr-ai-translator-ja2zh
 
-⭐ 18 · TypeScript · 推送 2026-04-13 · [GitHub](https://github.com/mmis1000/asmr-ai-translator-ja2zh) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · 推送 2026-04-13 · [GitHub](https://github.com/mmis1000/asmr-ai-translator-ja2zh) · 个人维护 · 中文 README
 
 **将日语 ASMR 音频转录并翻译为中文的 CLI 流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mmis1000/asmr-ai-translator-ja2zh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 14 --> 19
-    line [15, 17, 18, 18]
+    title "mmis1000/asmr-ai-translator-ja2zh 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 23
+    line [15, 17, 18, 17, 20, 21, 22, 22]
 ```
 
-2026-10-18 15 → 2026-11-02 18（+3）
+2026-10-18 15 → 2026-11-17 22（+7）
 
 
 ---

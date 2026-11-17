@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-python
 
-⭐ 3,169 · Python · 推送 2026-10-30 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
+⭐ 3,187 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
 
 **ElevenLabs 官方 Python SDK：文本转语音与对话式语音 Agent 接入**
 
@@ -11,7 +11,7 @@ ElevenLabs API 的官方 Python 客户端库，覆盖 TTS 主模型（Eleven v3�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ ElevenLabs API 的官方 Python 客户端库，覆盖 TTS 主模型（Eleven v3�
 
 ```mermaid
 xychart-beta
-    title "elevenlabs/elevenlabs-python 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3143 --> 3171
-    line [3145, 3147, 3148, 3150, 3151, 3154, 3156, 3159, 3161, 3164, 3167, 3168, 3169]
+    title "elevenlabs/elevenlabs-python 星数(近 22 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 3141 --> 3191
+    line [3145, 3147, 3148, 3150, 3151, 3154, 3156, 3159, 3161, 3164, 3167, 3168, 3169, 3154, 3179, 3180, 3181, 3182, 3183, 3185, 3187, 3187]
 ```
 
-2026-10-18 3,145 → 2026-11-02 3,169（+24）
+2026-10-18 3,145 → 2026-11-17 3,187（+42）
 
 
 ---

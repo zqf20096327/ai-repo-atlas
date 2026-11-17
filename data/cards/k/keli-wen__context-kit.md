@@ -1,6 +1,6 @@
 # keli-wen/context-kit
 
-⭐ 55 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/keli-wen/context-kit) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/keli-wen/context-kit) · 个人维护 · 中文 README
 
 **给 AI 开发者的极简上下文工程工具库：选择、压缩、持久化上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keli-wen/context-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    title "keli-wen/context-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56, 56]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 56（+2）
 
 
 ---

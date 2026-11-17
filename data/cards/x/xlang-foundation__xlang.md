@@ -1,6 +1,6 @@
 # xlang-foundation/xlang
 
-⭐ 73 · C · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/xlang-foundation/xlang) · 组织维护
+⭐ 74 · C · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/xlang-foundation/xlang) · 组织维护
 
 **面向 AI 代理、系统与分布式计算的原生编程语言**
 
@@ -45,13 +45,13 @@ XLang 是一门 agent 原生的动态编程语言，采用类 Python 语法与�
 
 ```mermaid
 xychart-beta
-    title "xlang-foundation/xlang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "xlang-foundation/xlang 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 74（+1）
 
 
 ---

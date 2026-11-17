@@ -1,6 +1,6 @@
 # lucidrains/transfusion-pytorch
 
-⭐ 1,411 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/lucidrains/transfusion-pytorch) · 个人维护
+⭐ 1,414 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/lucidrains/transfusion-pytorch) · 个人维护
 
 **Transfusion 多模态模型（文本+图像/视频）的 PyTorch 实现**
 
@@ -44,13 +44,13 @@ PyTorch 实现的 Transfusion 论文（MetaAI，"Predict the Next Token and Diff
 
 ```mermaid
 xychart-beta
-    title "lucidrains/transfusion-pytorch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1406 --> 1412
-    line [1407, 1408, 1409, 1411, 1411]
+    title "lucidrains/transfusion-pytorch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1406 --> 1415
+    line [1407, 1408, 1409, 1411, 1408, 1412, 1413, 1414, 1414]
 ```
 
-2026-10-18 1,407 → 2026-11-02 1,411（+4）
+2026-10-18 1,407 → 2026-11-17 1,414（+7）
 
 
 ---

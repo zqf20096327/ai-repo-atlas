@@ -1,6 +1,6 @@
 # rbc33/Ghostbar
 
-⭐ 111 · Swift · 推送 2026-07-31 · [GitHub](https://github.com/rbc33/Ghostbar) · [官网](https://rbc33.github.io/Ghostbar/) · 个人维护
+⭐ 113 · Swift · 推送 2026-07-31 · [GitHub](https://github.com/rbc33/Ghostbar) · [官网](https://rbc33.github.io/Ghostbar/) · 个人维护
 
 **macOS 菜单栏 AI 聊天客户端，屏幕共享/录制不可见**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rbc33/Ghostbar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    title "rbc33/Ghostbar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 109 --> 114
+    line [110, 111, 110, 113, 113]
 ```
 
-2026-10-18 110 → 2026-11-02 111（+1）
+2026-10-18 110 → 2026-11-17 113（+3）
 
 
 ---

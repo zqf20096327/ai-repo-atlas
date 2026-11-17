@@ -1,6 +1,6 @@
 # lakshmimallesh-dev/hospital-data-analysis-ml
 
-⭐ 13 · Jupyter Notebook · 推送 2026-04-19 · [GitHub](https://github.com/lakshmimallesh-dev/hospital-data-analysis-ml) · 个人维护
+⭐ 12 · Jupyter Notebook · 推送 2026-04-19 · [GitHub](https://github.com/lakshmimallesh-dev/hospital-data-analysis-ml) · 个人维护
 
 **医院患者数据的 EDA 分析与病情严重度预测项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lakshmimallesh-dev/hospital-data-analysis-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "lakshmimallesh-dev/hospital-data-analysis-ml 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

@@ -44,13 +44,13 @@ Ruby on Rails 引擎形式的 LLM 评测框架：以 ActiveRecord 记录构建�
 
 ```mermaid
 xychart-beta
-    title "kieranklaassen/leva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "kieranklaassen/leva 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 147 --> 150
-    line [149, 148]
+    line [149, 148, 149, 148, 148]
 ```
 
-2026-10-18 149 → 2026-11-02 148（-1）
+2026-10-18 149 → 2026-11-17 148（-1）
 
 
 ---

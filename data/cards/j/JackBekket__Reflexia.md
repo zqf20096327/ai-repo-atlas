@@ -1,6 +1,6 @@
 # JackBekket/Reflexia
 
-⭐ 19 · Go · 推送 2025-11-19 · [GitHub](https://github.com/JackBekket/Reflexia) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **代码仓库文档生成与分析工具：自动化分析并支持 GitHub 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JackBekket/Reflexia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-14 19（+0）
 
 
 ---

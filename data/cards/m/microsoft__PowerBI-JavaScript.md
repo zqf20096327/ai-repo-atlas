@@ -1,6 +1,6 @@
 # microsoft/PowerBI-JavaScript
 
-⭐ 1,141 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/microsoft/PowerBI-JavaScript) · 组织维护
+⭐ 1,142 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/microsoft/PowerBI-JavaScript) · 组织维护
 
 **将 Power BI 报表嵌入 Web 应用的 JavaScript/TypeScript 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/PowerBI-JavaScript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1139 --> 1142
-    line [1140, 1141, 1141]
+    title "microsoft/PowerBI-JavaScript 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1138 --> 1143
+    line [1140, 1141, 1140, 1139, 1140, 1141, 1142, 1142]
 ```
 
-2026-10-18 1,140 → 2026-11-02 1,141（+1）
+2026-10-18 1,140 → 2026-11-17 1,142（+2）
 
 
 ---

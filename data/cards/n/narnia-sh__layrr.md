@@ -1,6 +1,6 @@
 # narnia-sh/layrr
 
-⭐ 267 · TypeScript · MIT · 推送 2026-05-10 · [GitHub](https://github.com/narnia-sh/layrr) · [官网](https://layrr.dev) · 个人维护
+⭐ 266 · TypeScript · MIT · 推送 2026-05-10 · [GitHub](https://github.com/narnia-sh/layrr) · [官网](https://layrr.dev) · 个人维护
 
 **浏览器点击选元素并向编码 agent 下指令的中间层**
 
@@ -44,13 +44,13 @@ Layrr 运行在浏览器与本地开发服务器之间：通过代理注入 over
 
 ```mermaid
 xychart-beta
-    title "narnia-sh/layrr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 266 --> 268
-    line [267, 267]
+    title "narnia-sh/layrr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 265 --> 268
+    line [267, 266, 266]
 ```
 
-2026-10-18 267 → 2026-11-02 267（+0）
+2026-10-18 267 → 2026-11-17 266（-1）
 
 
 ---

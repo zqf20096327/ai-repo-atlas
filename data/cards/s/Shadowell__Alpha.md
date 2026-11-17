@@ -1,6 +1,6 @@
 # Shadowell/Alpha
 
-⭐ 33 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Shadowell/Alpha) · 个人维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Shadowell/Alpha) · 个人维护 · 中文 README
 
 **A股自进化量化选股系统：Kronos K线预测 + Hermes Agent 闭环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shadowell/Alpha 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    title "Shadowell/Alpha 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 30 --> 46
+    line [31, 32, 33, 32, 35, 38, 43, 44, 45, 45]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 45（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # zarazhangrui/personalized-podcast
 
-⭐ 440 · Python · 推送 2026-04-08 · [GitHub](https://github.com/zarazhangrui/personalized-podcast) · [官网](https://x.com/zarazhangrui) · 个人维护
+⭐ 443 · Python · 推送 2026-04-08 · [GitHub](https://github.com/zarazhangrui/personalized-podcast) · [官网](https://x.com/zarazhangrui) · 个人维护
 
 **把任意内容生成为双主播 AI 播客的编码代理技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zarazhangrui/personalized-podcast 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 437 --> 441
-    line [438, 439, 440, 440]
+    title "zarazhangrui/personalized-podcast 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 437 --> 444
+    line [438, 439, 440, 439, 442, 443, 443]
 ```
 
-2026-10-18 438 → 2026-11-02 440（+2）
+2026-10-18 438 → 2026-11-17 443（+5）
 
 
 ---

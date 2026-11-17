@@ -1,6 +1,6 @@
 # Mercury-vivis/mcd-benefits-butler
 
-⭐ 16 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Mercury-vivis/mcd-benefits-butler) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Mercury-vivis/mcd-benefits-butler) · 个人维护 · 中文 README
 
 **扫描麦当劳历史订单待评价权益的 WorkBuddy 技能/MCP 客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mercury-vivis/mcd-benefits-butler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 15, 16, 16]
+    title "Mercury-vivis/mcd-benefits-butler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 15, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

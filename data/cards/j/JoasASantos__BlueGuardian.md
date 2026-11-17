@@ -1,6 +1,6 @@
 # JoasASantos/BlueGuardian
 
-⭐ 51 · Python · 推送 2025-12-23 · [GitHub](https://github.com/JoasASantos/BlueGuardian) · 个人维护
+⭐ 53 · Python · 推送 2025-12-23 · [GitHub](https://github.com/JoasASantos/BlueGuardian) · 个人维护
 
 **多模型驱动的蓝队安全分析框架：恶意软件/钓鱼/日志等分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoasASantos/BlueGuardian 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 51, 51]
+    title "JoasASantos/BlueGuardian 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

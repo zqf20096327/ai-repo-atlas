@@ -1,6 +1,6 @@
 # Friz-zy/ai-capability-registry
 
-⭐ 12 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Friz-zy/ai-capability-registry) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Friz-zy/ai-capability-registry) · 个人维护
 
 **面向多 agent 开发的能力注册表：策展技能、MCP 服务器与工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Friz-zy/ai-capability-registry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12]
+    title "Friz-zy/ai-capability-registry 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Panda1847/claude-uncensored
 
-⭐ 14 · MIT · 推送 2026-02-07 · [GitHub](https://github.com/Panda1847/claude-uncensored) · 个人维护
+⭐ 16 · MIT · 推送 2026-02-07 · [GitHub](https://github.com/Panda1847/claude-uncensored) · 个人维护
 
 **名为 claude-uncensored 的项目，README 为模板内容，实际功能未说明**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "Panda1847/claude-uncensored 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "Panda1847/claude-uncensored 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 12, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # kasumaputu6633/visbridge-mcp
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/kasumaputu6633/visbridge-mcp) · 个人维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/kasumaputu6633/visbridge-mcp) · 个人维护
 
 **给无视觉能力模型加看图功能的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kasumaputu6633/visbridge-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "kasumaputu6633/visbridge-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JakeNesler/OpenProphet
 
-⭐ 115 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/JakeNesler/OpenProphet) · 个人维护
+⭐ 117 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/JakeNesler/OpenProphet) · 个人维护
 
 **自主 AI 股票/期权交易代理，含 Web 仪表盘与 MCP 工具**
 
@@ -45,13 +45,13 @@ Node.js 代理系统在心跳循环上调度 OpenCode CLI（Claude 模型）驱�
 
 ```mermaid
 xychart-beta
-    title "JakeNesler/OpenProphet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 112 --> 116
-    line [113, 114, 115]
+    title "JakeNesler/OpenProphet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 112 --> 118
+    line [113, 114, 115, 114, 116, 117, 117]
 ```
 
-2026-10-18 113 → 2026-11-02 115（+2）
+2026-10-18 113 → 2026-11-17 117（+4）
 
 
 ---

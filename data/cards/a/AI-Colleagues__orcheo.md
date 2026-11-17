@@ -1,6 +1,6 @@
 # AI-Colleagues/orcheo
 
-⭐ 15 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AI-Colleagues/orcheo) · [官网](https://orcheo.readthedocs.io/) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AI-Colleagues/orcheo) · [官网](https://orcheo.readthedocs.io/) · 组织维护
 
 **面向 AI 编码 agent 的工作流编排全栈平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AI-Colleagues/orcheo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

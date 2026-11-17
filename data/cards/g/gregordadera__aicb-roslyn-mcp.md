@@ -1,6 +1,6 @@
 # gregordadera/aicb-roslyn-mcp
 
-⭐ 11 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/gregordadera/aicb-roslyn-mcp) · [官网](https://www.dadera.de/en/aicb.html) · 个人维护
+⭐ 12 · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/gregordadera/aicb-roslyn-mcp) · [官网](https://www.dadera.de/en/aicb.html) · 个人维护
 
 **给编码 Agent 提供 C#/.NET 代码智能的 Roslyn MCP 服务器与 CLI**
 
@@ -44,13 +44,13 @@ AIContextBuilder (aicb) 是面向 C#/.NET 的代码智能工具：以 MCP 服务
 
 ```mermaid
 xychart-beta
-    title "gregordadera/aicb-roslyn-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "gregordadera/aicb-roslyn-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

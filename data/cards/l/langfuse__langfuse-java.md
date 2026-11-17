@@ -1,6 +1,6 @@
 # langfuse/langfuse-java
 
-⭐ 74 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langfuse/langfuse-java) · 组织维护
+⭐ 74 · Java · MIT · 推送 2026-11-13 · [GitHub](https://github.com/langfuse/langfuse-java) · 组织维护
 
 **面向 Java 开发者的 Langfuse API 自动生成客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 74（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # memseekai/membukkit
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/memseekai/membukkit) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/memseekai/membukkit) · 组织维护
 
 **为 LLM 应用提供带收据与时效查询的长期记忆库**
 
@@ -46,12 +46,12 @@ Python 库 + CLI + 本地 GUI + HTTP + MCP 的长期记忆层：写入时用 LLM
 ```mermaid
 xychart-beta
     title "memseekai/membukkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

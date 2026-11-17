@@ -1,6 +1,6 @@
 # andybbruno/deepagents-docker
 
-⭐ 32 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/andybbruno/deepagents-docker) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/andybbruno/deepagents-docker) · 个人维护
 
 **为 Deep Agents 提供 Docker 沙箱后端的 Python 库**
 
@@ -44,13 +44,13 @@ deepagents-docker 是一个 Python 库，为 LangChain 的 Deep Agents 提供 Do
 
 ```mermaid
 xychart-beta
-    title "andybbruno/deepagents-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "andybbruno/deepagents-docker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

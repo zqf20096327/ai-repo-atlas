@@ -1,6 +1,6 @@
 # Menaelz/Tapnow-Studio--
 
-⭐ 21 · HTML · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/Menaelz/Tapnow-Studio--) · [官网](https://menaelz.github.io) · 个人维护
+⭐ 22 · HTML · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/Menaelz/Tapnow-Studio--) · [官网](https://menaelz.github.io) · 个人维护
 
 **面向设计师的项目管理与预算跟踪桌面应用**
 
@@ -44,13 +44,13 @@ README 描述的 Tapnow-Studio-- 是一款帮助设计师管理项目的应用�
 
 ```mermaid
 xychart-beta
-    title "Menaelz/Tapnow-Studio-- 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Menaelz/Tapnow-Studio-- 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

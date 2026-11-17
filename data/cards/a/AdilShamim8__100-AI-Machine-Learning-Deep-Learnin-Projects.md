@@ -1,6 +1,6 @@
 # AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects
 
-⭐ 292 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects) · [官网](https://adilshamim8.github.io/100-AI-Machine-Learning-Deep-Learnin-Projects/) · 个人维护
+⭐ 293 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects) · [官网](https://adilshamim8.github.io/100-AI-Machine-Learning-Deep-Learnin-Projects/) · 个人维护
 
 **个人维护的 100+ AI/ML/DL 项目策展合集，含路线图与实战项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 281 --> 293
-    line [282, 286, 287, 288, 289, 291, 292, 292]
+    title "AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 281 --> 294
+    line [282, 286, 287, 288, 289, 291, 292, 289, 292, 293, 293]
 ```
 
-2026-10-18 282 → 2026-11-02 292（+10）
+2026-10-18 282 → 2026-11-17 293（+11）
 
 
 ---

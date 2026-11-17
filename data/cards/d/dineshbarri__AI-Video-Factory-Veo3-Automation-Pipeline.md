@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dineshbarri/AI-Video-Factory-Veo3-Automation-Pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "dineshbarri/AI-Video-Factory-Veo3-Automation-Pipeline 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FiammettaC/AI-for-Chemical-Engineers
 
-⭐ 96 · Jupyter Notebook · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/FiammettaC/AI-for-Chemical-Engineers) · 组织维护
+⭐ 97 · Jupyter Notebook · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/FiammettaC/AI-for-Chemical-Engineers) · 组织维护
 
 **面向化学工程师的 7 周 Python 与 AI 实践课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FiammettaC/AI-for-Chemical-Engineers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    title "FiammettaC/AI-for-Chemical-Engineers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 94 --> 98
+    line [95, 96, 97, 97]
 ```
 
-2026-10-18 95 → 2026-11-02 96（+1）
+2026-10-18 95 → 2026-11-17 97（+2）
 
 
 ---

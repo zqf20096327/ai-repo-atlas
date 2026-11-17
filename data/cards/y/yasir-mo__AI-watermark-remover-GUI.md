@@ -1,6 +1,6 @@
 # yasir-mo/AI-watermark-remover-GUI
 
-⭐ 92 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/yasir-mo/AI-watermark-remover-GUI) · [官网](https://yasir-mo.github.io/AI-watermark-remover-GUI/) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/yasir-mo/AI-watermark-remover-GUI) · [官网](https://yasir-mo.github.io/AI-watermark-remover-GUI/) · 个人维护
 
 **检测并清除 AI 文本水印与文档元数据的研究工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yasir-mo/AI-watermark-remover-GUI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 87 --> 93
-    line [88, 90, 91, 92, 92]
+    title "yasir-mo/AI-watermark-remover-GUI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 87 --> 95
+    line [88, 90, 91, 92, 91, 94, 94]
 ```
 
-2026-10-18 88 → 2026-11-02 92（+4）
+2026-10-18 88 → 2026-11-17 94（+6）
 
 
 ---

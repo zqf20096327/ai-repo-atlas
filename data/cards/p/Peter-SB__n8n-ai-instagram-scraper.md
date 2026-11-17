@@ -1,6 +1,6 @@
 # Peter-SB/n8n-ai-instagram-scraper
 
-⭐ 39 · Python · 推送 2026-01-10 · [GitHub](https://github.com/Peter-SB/n8n-ai-instagram-scraper) · 个人维护
+⭐ 40 · Python · 推送 2026-01-10 · [GitHub](https://github.com/Peter-SB/n8n-ai-instagram-scraper) · 个人维护
 
 **自托管的 n8n AI 工作流：抓取并转录 Instagram Reels，结构化存表**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Peter-SB/n8n-ai-instagram-scraper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "Peter-SB/n8n-ai-instagram-scraper 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

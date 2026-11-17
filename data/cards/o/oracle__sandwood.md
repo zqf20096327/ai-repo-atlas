@@ -1,6 +1,6 @@
 # oracle/sandwood
 
-⭐ 36 · Java · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/oracle/sandwood) · 组织维护
+⭐ 37 · Java · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/oracle/sandwood) · 组织维护
 
 **面向 Java 开发者的 JVM 概率编程语言与编译运行时**
 
@@ -44,13 +44,13 @@ Sandwood 是 Oracle 维护的基于 JVM 的概率编程语言、编译器与运�
 
 ```mermaid
 xychart-beta
-    title "oracle/sandwood 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "oracle/sandwood 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # drivendataorg/zamba
 
-⭐ 162 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/drivendataorg/zamba) · [官网](https://zamba.drivendata.org/docs/stable/) · 组织维护
+⭐ 164 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/drivendataorg/zamba) · [官网](https://zamba.drivendata.org/docs/stable/) · 组织维护
 
 **用机器学习自动识别相机陷阱影像中动物物种的 Python 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drivendataorg/zamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    title "drivendataorg/zamba 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 161 --> 165
+    line [162, 163, 164, 164]
 ```
 
-2026-10-18 162 → 2026-11-02 162（+0）
+2026-10-18 162 → 2026-11-17 164（+2）
 
 
 ---

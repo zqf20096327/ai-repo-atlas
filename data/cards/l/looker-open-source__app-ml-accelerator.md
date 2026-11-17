@@ -1,6 +1,6 @@
 # looker-open-source/app-ml-accelerator
 
-⭐ 17 · LookML · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/looker-open-source/app-ml-accelerator) · [官网](https://youtu.be/bvP5syhh2AI) · 组织维护
+⭐ 18 · LookML · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/looker-open-source/app-ml-accelerator) · [官网](https://youtu.be/bvP5syhh2AI) · 组织维护
 
 **让业务用户在 Looker 中无代码创建 BigQuery/Vertex AI 机器学习模型的应用**
 
@@ -44,13 +44,13 @@ Looker 扩展应用，面向业务分析师，通过无代码界面引导用户�
 
 ```mermaid
 xychart-beta
-    title "looker-open-source/app-ml-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "looker-open-source/app-ml-accelerator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

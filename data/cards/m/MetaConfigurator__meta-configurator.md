@@ -1,6 +1,6 @@
 # MetaConfigurator/meta-configurator
 
-⭐ 89 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MetaConfigurator/meta-configurator) · [官网](https://www.metaconfigurator.org) · 组织维护
+⭐ 90 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MetaConfigurator/meta-configurator) · [官网](https://www.metaconfigurator.org) · 组织维护
 
 **带 AI 辅助的浏览器端 JSON Schema 编辑器与表单/代码/文档生成器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MetaConfigurator/meta-configurator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    title "MetaConfigurator/meta-configurator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 87 --> 91
+    line [88, 89, 88, 89, 90, 90]
 ```
 
-2026-10-18 88 → 2026-11-02 89（+1）
+2026-10-18 88 → 2026-11-17 90（+2）
 
 
 ---

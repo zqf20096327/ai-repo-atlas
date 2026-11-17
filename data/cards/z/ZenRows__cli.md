@@ -1,6 +1,6 @@
 # ZenRows/cli
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ZenRows/cli) · [官网](https://docs.zenrows.com/cli/introduction) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/ZenRows/cli) · [官网](https://docs.zenrows.com/cli/introduction) · 组织维护
 
 **让 AI agent 经 Zenrows 云可靠抓取受保护网页的 CLI/MCP 工具**
 
@@ -45,13 +45,13 @@ ZenRows 官方开源的命令行工具：将 Fetch、Extract、Batch、Crawl、B
 
 ```mermaid
 xychart-beta
-    title "ZenRows/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "ZenRows/cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

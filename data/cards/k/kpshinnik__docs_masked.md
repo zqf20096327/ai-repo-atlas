@@ -1,6 +1,6 @@
 # kpshinnik/docs_masked
 
-⭐ 21 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/kpshinnik/docs_masked) · [官网](https://github.com/kpshinnik/docs_masked#readme) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/kpshinnik/docs_masked) · [官网](https://github.com/kpshinnik/docs_masked#readme) · 个人维护 · 中文 README
 
 **本地文档脱敏工具：发给 LLM 前替换个人信息，回答后还原**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kpshinnik/docs_masked 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 20, 21, 21]
+    title "kpshinnik/docs_masked 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 20, 21, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

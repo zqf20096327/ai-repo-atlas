@@ -1,6 +1,6 @@
 # chengyansen-ai/cys-portrait-prompts
 
-⭐ 36 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/chengyansen-ai/cys-portrait-prompts) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/chengyansen-ai/cys-portrait-prompts) · 个人维护 · 中文 README
 
 **中文 9 段式人像提示词模板库与批量生成器，面向文生图用户**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chengyansen-ai/cys-portrait-prompts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 29 --> 37
-    line [30, 32, 33, 34, 35, 36, 36]
+    title "chengyansen-ai/cys-portrait-prompts 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 29 --> 41
+    line [30, 32, 33, 34, 35, 36, 34, 37, 38, 40, 40]
 ```
 
-2026-10-18 30 → 2026-11-02 36（+6）
+2026-10-18 30 → 2026-11-17 40（+10）
 
 
 ---

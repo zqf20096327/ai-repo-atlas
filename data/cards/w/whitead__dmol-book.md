@@ -1,6 +1,6 @@
 # whitead/dmol-book
 
-⭐ 754 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/whitead/dmol-book) · [官网](https://dmol.pub) · 个人维护
+⭐ 759 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/whitead/dmol-book) · [官网](https://dmol.pub) · 个人维护
 
 **分子与材料深度学习开放教科书，可在线阅读或本地构建**
 
@@ -43,13 +43,13 @@ Andrew White 编写的 Deep Learning for Molecules and Materials 在线书籍（
 
 ```mermaid
 xychart-beta
-    title "whitead/dmol-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 753 --> 755
-    line [754, 754]
+    title "whitead/dmol-book 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 752 --> 760
+    line [754, 753, 754, 755, 756, 757, 759, 759]
 ```
 
-2026-10-18 754 → 2026-11-02 754（+0）
+2026-10-18 754 → 2026-11-17 759（+5）
 
 
 ---

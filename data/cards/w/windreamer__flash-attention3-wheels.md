@@ -1,6 +1,6 @@
 # windreamer/flash-attention3-wheels
 
-⭐ 119 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/windreamer/flash-attention3-wheels) · [官网](https://windreamer.github.io/flash-attention3-wheels/) · 个人维护
+⭐ 118 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/windreamer/flash-attention3-wheels) · [官网](https://windreamer.github.io/flash-attention3-wheels/) · 个人维护
 
 **Flash Attention 3 预编译 wheel 下载源，免去本地编译**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "windreamer/flash-attention3-wheels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    title "windreamer/flash-attention3-wheels 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 117 --> 120
+    line [119, 118, 118]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 118（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fcmam5/skilleton
 
-⭐ 14 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Fcmam5/skilleton) · [官网](https://www.npmjs.com/package/skilleton) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Fcmam5/skilleton) · [官网](https://www.npmjs.com/package/skilleton) · 个人维护
 
 **面向团队的 AI 技能依赖管理 CLI：像 npm 一样管理 skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fcmam5/skilleton 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "Fcmam5/skilleton 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [14, 13, 13]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 13（-1）
 
 
 ---

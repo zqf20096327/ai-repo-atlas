@@ -1,6 +1,6 @@
 # sahenjp/RustXNG
 
-⭐ 252 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/sahenjp/RustXNG) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向本地 AI agent 的自托管元搜索与溯源引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 > L3: **A self-hosted, SSRF-hardened web search and grounding engine for local AI agents.**
 > L15: An agent searches, reads, and decides — then does it again. What it needs underneath is not another search UI but a
 > L119: |docs/AI-INFRA.md|Why this is agent infrastructure, and why tests and audits matter|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sahenjp/RustXNG 星数(近 8 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15"]
+    y-axis "stars" 180 --> 1047
+    line [252, 931, 944, 956, 962, 968, 973, 975]
+```
+
+2026-11-02 252 → 2026-11-15 975（+723）
 
 
 ---

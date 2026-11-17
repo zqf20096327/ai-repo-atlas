@@ -1,6 +1,6 @@
 # AditthyaSS/iloveAgents
 
-⭐ 150 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AditthyaSS/iloveAgents) · [官网](https://iloveagents.vercel.app/) · 个人维护
+⭐ 155 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AditthyaSS/iloveAgents) · [官网](https://iloveagents.vercel.app/) · 个人维护
 
 **浏览器直接运行 160+ 开源 AI agent 的 BYOK Web 平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AditthyaSS/iloveAgents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 147 --> 151
-    line [148, 149, 150, 150]
+    title "AditthyaSS/iloveAgents 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 147 --> 156
+    line [148, 149, 150, 148, 150, 151, 152, 154, 155, 155]
 ```
 
-2026-10-18 148 → 2026-11-02 150（+2）
+2026-10-18 148 → 2026-11-17 155（+7）
 
 
 ---

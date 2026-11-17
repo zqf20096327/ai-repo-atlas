@@ -1,6 +1,6 @@
 # guillermoscript/lms-front
 
-⭐ 44 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/guillermoscript/lms-front) · [官网](https://preciopana.com) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/guillermoscript/lms-front) · [官网](https://preciopana.com) · 个人维护
 
 **面向创作者与学校的多租户开源 LMS，可自托管售卖课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "guillermoscript/lms-front 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 39 --> 45
-    line [40, 41, 42, 43, 42, 43, 44, 44]
+    title "guillermoscript/lms-front 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 39 --> 49
+    line [40, 41, 42, 43, 42, 43, 44, 43, 46, 47, 48, 48]
 ```
 
-2026-10-18 40 → 2026-11-02 44（+4）
+2026-10-18 40 → 2026-11-17 48（+8）
 
 
 ---

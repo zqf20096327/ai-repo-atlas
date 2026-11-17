@@ -1,6 +1,6 @@
 # thoughtbot/rails-audit-thoughtbot
 
-⭐ 262 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/thoughtbot/rails-audit-thoughtbot) · [官网](https://thoughtbot.com) · 组织维护
+⭐ 265 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/thoughtbot/rails-audit-thoughtbot) · [官网](https://thoughtbot.com) · 组织维护
 
 **Claude Code 技能：对 Rails 应用按 thoughtbot 规范做代码审计**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thoughtbot/rails-audit-thoughtbot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 258 --> 263
-    line [259, 261, 262, 262]
+    title "thoughtbot/rails-audit-thoughtbot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 258 --> 266
+    line [259, 261, 262, 261, 263, 264, 265, 265]
 ```
 
-2026-10-18 259 → 2026-11-02 262（+3）
+2026-10-18 259 → 2026-11-17 265（+6）
 
 
 ---

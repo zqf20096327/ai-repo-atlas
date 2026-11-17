@@ -1,6 +1,6 @@
 # PocketLLM/PocketLLM
 
-⭐ 72 · Dart · 推送 2026-07-01 · [GitHub](https://github.com/PocketLLM/PocketLLM) · [官网](https://pocketllm-ai.vercel.app/) · 组织维护
+⭐ 74 · Dart · 推送 2026-07-01 · [GitHub](https://github.com/PocketLLM/PocketLLM) · [官网](https://pocketllm-ai.vercel.app/) · 组织维护
 
 **跨平台 LLM 聊天客户端：Flutter 应用加 FastAPI 后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PocketLLM/PocketLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    title "PocketLLM/PocketLLM 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 72, 71, 73, 74, 74]
 ```
 
-2026-10-18 70 → 2026-11-02 72（+2）
+2026-10-18 70 → 2026-11-17 74（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # emptymalei/deep-learning
 
-⭐ 28 · Python · 推送 2026-06-04 · [GitHub](https://github.com/emptymalei/deep-learning) · [官网](https://emptymalei.github.io/deep-learning) · 个人维护
+⭐ 28 · Python · 推送 2026-11-16 · [GitHub](https://github.com/emptymalei/deep-learning) · [官网](https://emptymalei.github.io/deep-learning) · 个人维护
 
 **个人深度学习时间序列预测的学习笔记与文档仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "emptymalei/deep-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

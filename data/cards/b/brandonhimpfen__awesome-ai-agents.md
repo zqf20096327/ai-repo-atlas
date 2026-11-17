@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-agents
 
-⭐ 16 · Python · 推送 2026-09-07 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-agents) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 17 · Python · 推送 2026-09-07 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-agents) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **构建 AI agent 的框架与工具策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "brandonhimpfen/awesome-ai-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

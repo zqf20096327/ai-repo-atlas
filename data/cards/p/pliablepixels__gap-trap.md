@@ -1,6 +1,6 @@
 # pliablepixels/gap-trap
 
-⭐ 181 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/pliablepixels/gap-trap) · [官网](https://pliablepixels.github.io/gap-trap/) · 个人维护
+⭐ 180 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/pliablepixels/gap-trap) · [官网](https://pliablepixels.github.io/gap-trap/) · 个人维护
 
 **为 AI 编码 agent 仓库生成规则与提交门禁的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pliablepixels/gap-trap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 180 --> 182
-    line [181, 181]
+    title "pliablepixels/gap-trap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 179 --> 182
+    line [181, 180, 180]
 ```
 
-2026-10-18 181 → 2026-11-02 181（+0）
+2026-10-18 181 → 2026-11-17 180（-1）
 
 
 ---

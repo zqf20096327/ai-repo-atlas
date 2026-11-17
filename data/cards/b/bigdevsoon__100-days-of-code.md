@@ -1,6 +1,6 @@
 # bigdevsoon/100-days-of-code
 
-⭐ 73 · HTML · MIT · 推送 2026-02-14 · [GitHub](https://github.com/bigdevsoon/100-days-of-code) · [官网](https://bigdevsoon.me/challenges) · 组织维护
+⭐ 72 · HTML · MIT · 推送 2026-02-14 · [GitHub](https://github.com/bigdevsoon/100-days-of-code) · [官网](https://bigdevsoon.me/challenges) · 组织维护
 
 **面向前端开发者的 100 个设计转代码挑战集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bigdevsoon/100-days-of-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "bigdevsoon/100-days-of-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [73, 72, 72]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 72（-1）
 
 
 ---

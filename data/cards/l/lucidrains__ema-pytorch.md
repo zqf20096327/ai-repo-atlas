@@ -1,6 +1,6 @@
 # lucidrains/ema-pytorch
 
-⭐ 659 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lucidrains/ema-pytorch) · 个人维护
+⭐ 660 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lucidrains/ema-pytorch) · 个人维护
 
 **PyTorch 模型指数移动平均（EMA）追踪库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/ema-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 657 --> 660
-    line [658, 659, 659]
+    title "lucidrains/ema-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 657 --> 661
+    line [658, 659, 660, 660]
 ```
 
-2026-10-18 658 → 2026-11-02 659（+1）
+2026-10-18 658 → 2026-11-17 660（+2）
 
 
 ---

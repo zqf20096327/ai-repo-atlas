@@ -1,6 +1,6 @@
 # Tavus-Engineering/tavus-examples
 
-⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Tavus-Engineering/tavus-examples) · [官网](https://docs.tavus.io/) · 组织维护
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/Tavus-Engineering/tavus-examples) · [官网](https://docs.tavus.io/) · 组织维护
 
 **Tavus 对话视频接口（CVI）与视频生成 API 的示例集**
 
@@ -44,13 +44,13 @@ Tavus 维护的官方示例仓库：提供 5 个 CVI 快速上手示例（React 
 
 ```mermaid
 xychart-beta
-    title "Tavus-Engineering/tavus-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 92 --> 96
-    line [93, 94, 95, 95]
+    title "Tavus-Engineering/tavus-examples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 92 --> 97
+    line [93, 94, 95, 94, 96, 95, 95]
 ```
 
-2026-10-18 93 → 2026-11-02 95（+2）
+2026-10-18 93 → 2026-11-17 95（+2）
 
 
 ---

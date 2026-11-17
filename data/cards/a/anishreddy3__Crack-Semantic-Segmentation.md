@@ -1,6 +1,6 @@
 # anishreddy3/Crack-Semantic-Segmentation
 
-⭐ 64 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anishreddy3/Crack-Semantic-Segmentation) · [官网](https://docs.google.com/document/d/1gJtviJ3ks5ddoKysCEBuZs0xUSVYecq-EYUO7ba8fp4/edit?usp=sharing) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anishreddy3/Crack-Semantic-Segmentation) · [官网](https://docs.google.com/document/d/1gJtviJ3ks5ddoKysCEBuZs0xUSVYecq-EYUO7ba8fp4/edit?usp=sharing) · 个人维护
 
 **用 U-Net 做实时裂缝分割：训练、导出 ONNX、图像/视频推理**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anishreddy3/Crack-Semantic-Segmentation 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "anishreddy3/Crack-Semantic-Segmentation 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-26 64 → 2026-11-02 64（+0）
+2026-10-26 64 → 2026-11-17 65（+1）
 
 
 ---

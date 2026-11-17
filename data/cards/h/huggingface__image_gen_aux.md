@@ -1,6 +1,6 @@
 # huggingface/image_gen_aux
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/huggingface/image_gen_aux) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/huggingface/image_gen_aux) · 组织维护
 
 **图像/视频生成辅助工具库：上采样、预处理、背景去除**
 
@@ -43,13 +43,13 @@ Hugging Face 维护的图像与视频生成辅助工具集，主要为配合 dif
 
 ```mermaid
 xychart-beta
-    title "huggingface/image_gen_aux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "huggingface/image_gen_aux 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 69 --> 72
+    line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 71（+1）
 
 
 ---

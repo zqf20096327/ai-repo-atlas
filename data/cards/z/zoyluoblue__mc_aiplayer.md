@@ -1,6 +1,6 @@
 # zoyluoblue/mc_aiplayer
 
-⭐ 156 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/zoyluoblue/mc_aiplayer) · [官网](https://github.com/zoyluoblue/mc_aiplayer/wiki) · 个人维护 · 中文 README
+⭐ 149 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/zoyluoblue/mc_aiplayer) · [官网](https://github.com/zoyluoblue/mc_aiplayer/wiki) · 个人维护 · 中文 README
 
 **服务端 Fabric 模组：LLM 驱动的真实玩家在 Minecraft 中自主生存**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zoyluoblue/mc_aiplayer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 154 --> 163
-    line [161, 162, 155, 156, 156]
+    title "zoyluoblue/mc_aiplayer 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 145 --> 163
+    line [161, 162, 155, 156, 155, 148, 146, 147, 148, 149, 149]
 ```
 
-2026-10-18 161 → 2026-11-02 156（-5）
+2026-10-18 161 → 2026-11-17 149（-12）
 
 
 ---

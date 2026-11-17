@@ -1,6 +1,6 @@
 # nailuoGG/anki-mcp-server
 
-⭐ 253 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/nailuoGG/anki-mcp-server) · 个人维护
+⭐ 254 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/nailuoGG/anki-mcp-server) · 个人维护
 
 **让 LLM 通过 MCP 操作 Anki 记忆卡片的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nailuoGG/anki-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 251 --> 254
-    line [253, 252, 253, 253]
+    title "nailuoGG/anki-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 251 --> 255
+    line [253, 252, 253, 254, 254]
 ```
 
-2026-10-18 253 → 2026-11-02 253（+0）
+2026-10-18 253 → 2026-11-17 254（+1）
 
 
 ---

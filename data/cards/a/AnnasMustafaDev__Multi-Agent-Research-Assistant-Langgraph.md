@@ -1,6 +1,6 @@
 # AnnasMustafaDev/Multi-Agent-Research-Assistant-Langgraph
 
-⭐ 20 · Python · 推送 2025-11-15 · [GitHub](https://github.com/AnnasMustafaDev/Multi-Agent-Research-Assistant-Langgraph) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **LangGraph 多智能体协作系统：自动搜集资料并生成研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnnasMustafaDev/Multi-Agent-Research-Assistant-Langgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-10 20（+0）
 
 
 ---

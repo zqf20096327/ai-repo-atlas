@@ -1,6 +1,6 @@
 # dvsusan/susanSayJava
 
-⭐ 463 · 推送 2026-10-28 · [GitHub](https://github.com/dvsusan/susanSayJava) · [官网](https://susan.net.cn) · 个人维护 · 中文 README
+⭐ 484 · 推送 2026-11-16 · [GitHub](https://github.com/dvsusan/susanSayJava) · [官网](https://susan.net.cn) · 个人维护 · 中文 README
 
 **Java 后端面试八股文与企业级项目实战文章合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dvsusan/susanSayJava 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 457 --> 464
-    line [458, 461, 462, 463, 463]
+    title "dvsusan/susanSayJava 星数(近 11 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 456 --> 486
+    line [458, 461, 462, 463, 461, 468, 475, 480, 482, 484, 484]
 ```
 
-2026-10-23 458 → 2026-11-02 463（+5）
+2026-10-23 458 → 2026-11-17 484（+26）
 
 
 ---

@@ -1,6 +1,6 @@
 # thoughtbot/opentelemetry-instrumentation-ruby_llm
 
-⭐ 55 · Ruby · MIT · 推送 2026-08-28 · [GitHub](https://github.com/thoughtbot/opentelemetry-instrumentation-ruby_llm) · 组织维护
+⭐ 55 · Ruby · MIT · 推送 2026-11-11 · [GitHub](https://github.com/thoughtbot/opentelemetry-instrumentation-ruby_llm) · 组织维护
 
 **为 RubyLLM 提供 OpenTelemetry 可观测性追踪的 Ruby gem**
 
@@ -45,12 +45,12 @@ thoughtbot 维护的 OpenTelemetry instrumentation 库，为 RubyLLM 框架的 c
 ```mermaid
 xychart-beta
     title "thoughtbot/opentelemetry-instrumentation-ruby_llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 55（+0）
 
 
 ---

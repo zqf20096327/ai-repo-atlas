@@ -1,6 +1,6 @@
 # BennettSchwartz/discord-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-01-12 · [GitHub](https://github.com/BennettSchwartz/discord-mcp) · [官网](http://discord-mcp.gustycube.com/) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-01-12 · [GitHub](https://github.com/BennettSchwartz/discord-mcp) · [官网](http://discord-mcp.gustycube.com/) · 个人维护
 
 **为 AI agent 提供安全访问 Discord API 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BennettSchwartz/discord-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "BennettSchwartz/discord-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

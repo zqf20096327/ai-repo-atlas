@@ -1,6 +1,6 @@
 # Chleba/ollamaMQ
 
-⭐ 130 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Chleba/ollamaMQ) · 个人维护
+⭐ 133 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Chleba/ollamaMQ) · 个人维护
 
 **面向多用户的 Ollama/LM Studio 后端代理与公平排队调度器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chleba/ollamaMQ 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 127 --> 131
-    line [128, 129, 130, 130]
+    title "Chleba/ollamaMQ 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 127 --> 134
+    line [128, 129, 130, 129, 133, 133]
 ```
 
-2026-10-18 128 → 2026-11-02 130（+2）
+2026-10-18 128 → 2026-11-17 133（+5）
 
 
 ---

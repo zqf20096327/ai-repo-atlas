@@ -1,6 +1,6 @@
 # ZhiyuanChen/CHANfiG
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ZhiyuanChen/CHANfiG) · [官网](https://chanfig.danling.org) · 个人维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ZhiyuanChen/CHANfiG) · [官网](https://chanfig.danling.org) · 个人维护
 
 **面向机器学习训练的 Python 配置管理库：命令行改配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhiyuanChen/CHANfiG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

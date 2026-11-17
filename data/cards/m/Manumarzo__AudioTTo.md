@@ -1,6 +1,6 @@
 # Manumarzo/AudioTTo
 
-⭐ 19 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Manumarzo/AudioTTo) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Manumarzo/AudioTTo) · 个人维护
 
 **将录音与 PDF 幻灯片转成结构化 LaTeX 学习笔记的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Manumarzo/AudioTTo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Manumarzo/AudioTTo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

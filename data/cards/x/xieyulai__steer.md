@@ -1,6 +1,6 @@
 # xieyulai/steer
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/xieyulai/steer) · [官网](https://github.com/xieyulai/steer) · 个人维护 · 中文 README
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/xieyulai/steer) · [官网](https://github.com/xieyulai/steer) · 个人维护 · 中文 README
 
 **AI4R 自主实验治理框架：冻结任务与评分，agent 只改实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xieyulai/steer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

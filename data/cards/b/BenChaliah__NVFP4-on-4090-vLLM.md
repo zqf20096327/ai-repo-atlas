@@ -1,6 +1,6 @@
 # BenChaliah/NVFP4-on-4090-vLLM
 
-⭐ 155 · Python · 推送 2026-02-15 · [GitHub](https://github.com/BenChaliah/NVFP4-on-4090-vLLM) · 个人维护
+⭐ 156 · Python · 推送 2026-02-15 · [GitHub](https://github.com/BenChaliah/NVFP4-on-4090-vLLM) · 个人维护
 
 **面向 RTX 4090 的 NVFP4/FP8 LLM 推理运行时**
 
@@ -44,13 +44,13 @@ AdaLLM 是针对 Ada Lovelace 架构 GPU（如 RTX 4090）的 NVFP4 优先推理
 
 ```mermaid
 xychart-beta
-    title "BenChaliah/NVFP4-on-4090-vLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 152 --> 156
-    line [153, 154, 155, 155]
+    title "BenChaliah/NVFP4-on-4090-vLLM 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 152 --> 157
+    line [153, 154, 155, 154, 155, 156, 156]
 ```
 
-2026-10-18 153 → 2026-11-02 155（+2）
+2026-10-18 153 → 2026-11-17 156（+3）
 
 
 ---

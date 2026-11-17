@@ -1,6 +1,6 @@
 # phith0n/v2srt
 
-⭐ 50 · Python · 推送 2026-10-17 · [GitHub](https://github.com/phith0n/v2srt) · 个人维护 · 中文 README
+⭐ 50 · Python · 推送 2026-11-13 · [GitHub](https://github.com/phith0n/v2srt) · 个人维护 · 中文 README
 
 **本地 whisper.cpp 识别视频语音并可用 Gemini 翻译的字幕生成 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "phith0n/v2srt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 50（+0）
 
 
 ---

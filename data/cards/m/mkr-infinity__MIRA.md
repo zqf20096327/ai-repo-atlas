@@ -1,6 +1,6 @@
 # mkr-infinity/MIRA
 
-⭐ 12 · TypeScript · 推送 2026-06-16 · [GitHub](https://github.com/mkr-infinity/MIRA) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地优先的跨平台 AI 桌面助手，支持对话、语音与自动化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mkr-infinity/MIRA 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "mkr-infinity/MIRA 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-15"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-11-01 12 → 2026-11-02 12（+0）
+2026-11-01 12 → 2026-11-15 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/LIMoE
 
-⭐ 36 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kyegomez/LIMoE) · [官网](https://discord.gg/47ENfJQjMq) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/kyegomez/LIMoE) · [官网](https://discord.gg/47ENfJQjMq) · 个人维护
 
 **LIMoE 多模态混合专家模型的 PyTorch 实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/LIMoE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

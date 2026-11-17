@@ -1,6 +1,6 @@
 # NCAR/bridgescaler
 
-⭐ 12 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/NCAR/bridgescaler) · [官网](https://bridgescaler.readthedocs.io/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/NCAR/bridgescaler) · [官网](https://bridgescaler.readthedocs.io/) · 组织维护
 
 **跨会话保存/复用与分布式计算 scikit-learn 缩放器参数的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NCAR/bridgescaler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

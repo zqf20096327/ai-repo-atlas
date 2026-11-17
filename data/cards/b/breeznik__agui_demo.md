@@ -1,6 +1,6 @@
 # breeznik/agui_demo
 
-⭐ 18 · JavaScript · 推送 2026-08-19 · [GitHub](https://github.com/breeznik/agui_demo) · 个人维护
+⭐ 19 · JavaScript · 推送 2026-08-19 · [GitHub](https://github.com/breeznik/agui_demo) · 个人维护
 
 **无框架前端的 AG-UI + LangGraph agent 接线参考实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "breeznik/agui_demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "breeznik/agui_demo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

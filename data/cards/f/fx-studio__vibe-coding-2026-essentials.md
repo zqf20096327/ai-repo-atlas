@@ -1,6 +1,6 @@
 # fx-studio/vibe-coding-2026-essentials
 
-⭐ 16 · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/fx-studio/vibe-coding-2026-essentials) · [官网](https://fxstudio.dev) · 个人维护
+⭐ 18 · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/fx-studio/vibe-coding-2026-essentials) · [官网](https://fxstudio.dev) · 个人维护
 
 **面向不写代码 IT 人群的越南语 vibe coding 免费电子书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fx-studio/vibe-coding-2026-essentials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    title "fx-studio/vibe-coding-2026-essentials 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 16, 14, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

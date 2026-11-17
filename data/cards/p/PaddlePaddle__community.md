@@ -1,6 +1,6 @@
 # PaddlePaddle/community
 
-⭐ 144 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/PaddlePaddle/community) · 组织维护 · 中文 README
+⭐ 145 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/PaddlePaddle/community) · 组织维护 · 中文 README
 
 **PaddlePaddle 框架的开源社区治理与贡献入口**
 
@@ -43,13 +43,13 @@ PaddlePaddle 官方社区仓库，汇集社区活动信息、双周贡献者线�
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/community 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    title "PaddlePaddle/community 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 143 --> 146
+    line [144, 145, 145]
 ```
 
-2026-10-18 144 → 2026-11-02 144（+0）
+2026-10-18 144 → 2026-11-17 145（+1）
 
 
 ---

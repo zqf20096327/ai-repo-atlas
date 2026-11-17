@@ -1,6 +1,6 @@
 # hdcola/OmniVoice
 
-⭐ 15 · Swift · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hdcola/OmniVoice) · 个人维护 · 中文 README
+⭐ 16 · Swift · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hdcola/OmniVoice) · 个人维护 · 中文 README
 
 **macOS 端上实时转写、翻译与语音输入菜单栏应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hdcola/OmniVoice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "hdcola/OmniVoice 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbhishekMandapmalvi/AutoApply
 
-⭐ 21 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/AbhishekMandapmalvi/AutoApply) · [官网](https://github.com/AbhishekMandapmalvi/AutoApply/wiki) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/AbhishekMandapmalvi/AutoApply) · [官网](https://github.com/AbhishekMandapmalvi/AutoApply/wiki) · 个人维护
 
 **本地运行的求职自动化桌面应用：搜索评分并代投职位**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbhishekMandapmalvi/AutoApply 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "AbhishekMandapmalvi/AutoApply 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 23（+5）
 
 
 ---

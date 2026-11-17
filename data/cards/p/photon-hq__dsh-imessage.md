@@ -1,6 +1,6 @@
 # photon-hq/dsh-imessage
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/photon-hq/dsh-imessage) · [官网](https://photon.codes) · 组织维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/photon-hq/dsh-imessage) · [官网](https://photon.codes) · 组织维护
 
 **给 DeepSeek Harness 加 iMessage 通道的 Photon 托管插件**
 
@@ -11,7 +11,7 @@ dsh-imessage 是 DeepSeek Harness（DSH）的 web profile 插件：用户通过 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ dsh-imessage 是 DeepSeek Harness（DSH）的 web profile 插件：用户通过 
 
 ```mermaid
 xychart-beta
-    title "photon-hq/dsh-imessage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "photon-hq/dsh-imessage 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 9 --> 28
+    line [10, 11, 10, 25, 26, 27, 27]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 27（+17）
 
 
 ---

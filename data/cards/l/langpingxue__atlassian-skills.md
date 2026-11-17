@@ -1,6 +1,6 @@
 # langpingxue/atlassian-skills
 
-⭐ 41 · Python · 推送 2026-04-10 · [GitHub](https://github.com/langpingxue/atlassian-skills) · [官网](https://medium.com/@xuelangping/introducing-atlassian-skills-extending-ai-agent-with-atlassian-integration-fa19f6056df7) · 个人维护
+⭐ 42 · Python · 推送 2026-04-10 · [GitHub](https://github.com/langpingxue/atlassian-skills) · [官网](https://medium.com/@xuelangping/introducing-atlassian-skills-extending-ai-agent-with-atlassian-integration-fa19f6056df7) · 个人维护
 
 **Claude Code 的 Atlassian 集成技能：操作 Jira/Confluence/Bitbucket**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langpingxue/atlassian-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "langpingxue/atlassian-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/ShallowFF
 
-⭐ 12 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/ShallowFF) · [官网](https://discord.gg/Yx5y5VBahs) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/ShallowFF) · [官网](https://discord.gg/Yx5y5VBahs) · 个人维护
 
 **用浅层前馈网络替代注意力层的 Transformer 实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/ShallowFF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

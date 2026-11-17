@@ -1,6 +1,6 @@
 # tensorkithq/openbeam
 
-⭐ 81 · TypeScript · 推送 2026-08-29 · [GitHub](https://github.com/tensorkithq/openbeam) · [官网](https://openbeam.tensorkit.ai) · 组织维护
+⭐ 83 · TypeScript · 推送 2026-08-29 · [GitHub](https://github.com/tensorkithq/openbeam) · [官网](https://openbeam.tensorkit.ai) · 组织维护
 
 **面向直播讲道的实时经文检测浏览器应用**
 
@@ -46,13 +46,13 @@ OpenBeam 是桌面应用 Rhema 的云端版本：通过浏览器麦克风采集�
 
 ```mermaid
 xychart-beta
-    title "tensorkithq/openbeam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
+    title "tensorkithq/openbeam 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-10", "2026-11-16", "2026-11-17"]
     y-axis "stars" 80 --> 89
-    line [87, 88, 81, 81]
+    line [87, 88, 81, 82, 83, 83]
 ```
 
-2026-10-18 87 → 2026-11-02 81（-6）
+2026-10-18 87 → 2026-11-17 83（-4）
 
 
 ---

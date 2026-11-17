@@ -1,6 +1,6 @@
 # penkovsky/10-days-of-grad
 
-⭐ 34 · Jupyter Notebook · 推送 2026-06-26 · [GitHub](https://github.com/penkovsky/10-days-of-grad) · [官网](http://penkovsky.com/neural-networks) · 个人维护
+⭐ 34 · Jupyter Notebook · 推送 2026-11-05 · [GitHub](https://github.com/penkovsky/10-days-of-grad) · [官网](http://penkovsky.com/neural-networks) · 个人维护
 
 **Haskell 神经网络与深度学习入门教程（10 天系列）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "penkovsky/10-days-of-grad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

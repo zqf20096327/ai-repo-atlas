@@ -1,6 +1,6 @@
 # truconsent/truscanner
 
-⭐ 18 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/truconsent/truscanner) · [官网](https://truconsent.io) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/truconsent/truscanner) · [官网](https://truconsent.io) · 组织维护
 
 **扫描源码发现个人数据元素与隐私数据流的静态分析工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "truconsent/truscanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

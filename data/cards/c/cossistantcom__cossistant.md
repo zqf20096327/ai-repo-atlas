@@ -1,6 +1,6 @@
 # cossistantcom/cossistant
 
-⭐ 738 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/cossistantcom/cossistant) · [官网](https://cossistant.com) · 组织维护
+⭐ 741 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/cossistantcom/cossistant) · [官网](https://cossistant.com) · 组织维护
 
 **开源 React 客服聊天组件：可定制 AI 客服 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cossistantcom/cossistant 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 734 --> 740
-    line [735, 737, 736, 737, 738, 739, 738]
+    title "cossistantcom/cossistant 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 734 --> 742
+    line [735, 737, 736, 737, 738, 739, 738, 736, 739, 740, 741, 741]
 ```
 
-2026-10-18 735 → 2026-11-02 738（+3）
+2026-10-18 735 → 2026-11-17 741（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # guess/claude_code
 
-⭐ 98 · Elixir · MIT · 推送 2026-06-05 · [GitHub](https://github.com/guess/claude_code) · [官网](https://code.claude.com) · 个人维护
+⭐ 100 · Elixir · MIT · 推送 2026-06-05 · [GitHub](https://github.com/guess/claude_code) · [官网](https://code.claude.com) · 个人维护
 
 **面向 Elixir 开发者的 Claude Agent SDK：OTP 构建 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "guess/claude_code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "guess/claude_code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 97 --> 101
+    line [98, 99, 100, 100]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 100（+2）
 
 
 ---

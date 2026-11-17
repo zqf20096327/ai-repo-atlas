@@ -1,6 +1,6 @@
 # chanind/frame-semantic-transformer
 
-⭐ 71 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/chanind/frame-semantic-transformer) · [官网](https://chanind.github.io/frame-semantic-transformer) · 个人维护
+⭐ 70 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/chanind/frame-semantic-transformer) · [官网](https://chanind.github.io/frame-semantic-transformer) · 个人维护
 
 **基于 T5 的 FrameNet 框架语义解析库，供 NLP 开发者使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chanind/frame-semantic-transformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "chanind/frame-semantic-transformer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-17"]
     y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    line [70, 71, 70, 70]
 ```
 
-2026-10-18 70 → 2026-11-02 71（+1）
+2026-10-18 70 → 2026-11-17 70（+0）
 
 
 ---

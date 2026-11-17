@@ -1,6 +1,6 @@
 # zamalali/DeepGit
 
-⭐ 925 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/zamalali/DeepGit) · [官网](https://deepgit.vercel.app) · 个人维护
+⭐ 929 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/zamalali/DeepGit) · [官网](https://deepgit.vercel.app) · 个人维护
 
 **帮开发者用自然语言找最匹配 GitHub 仓库的 agentic 研究引擎**
 
@@ -45,13 +45,13 @@ DeepGit 是面向 GitHub 的 agentic 搜索引擎：将自然语言请求解析�
 
 ```mermaid
 xychart-beta
-    title "zamalali/DeepGit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 921 --> 926
-    line [922, 923, 922, 923, 925, 925]
+    title "zamalali/DeepGit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 921 --> 930
+    line [922, 923, 922, 923, 925, 923, 928, 929, 929]
 ```
 
-2026-10-18 922 → 2026-11-02 925（+3）
+2026-10-18 922 → 2026-11-17 929（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # BDMisME/us-stock-radar
 
-⭐ 77 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/BDMisME/us-stock-radar) · 个人维护 · 中文 README
+⭐ 78 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/BDMisME/us-stock-radar) · 个人维护 · 中文 README
 
 **个人美股 AI 看盘雷达：规则引擎+常驻 LLM 分析师自架监控**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BDMisME/us-stock-radar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 75 --> 78
-    line [76, 77]
+    title "BDMisME/us-stock-radar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 79
+    line [76, 77, 76, 78, 78]
 ```
 
-2026-10-18 76 → 2026-11-02 77（+1）
+2026-10-18 76 → 2026-11-17 78（+2）
 
 
 ---

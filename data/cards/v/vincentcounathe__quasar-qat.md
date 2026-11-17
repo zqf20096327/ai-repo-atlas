@@ -1,6 +1,6 @@
 # vincentcounathe/quasar-qat
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/vincentcounathe/quasar-qat) · [官网](https://quasar-qat.github.io/) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/vincentcounathe/quasar-qat) · [官网](https://quasar-qat.github.io/) · 个人维护
 
 **面向 LLM 的量化感知训练（QAT）方法库，支持 INT2/3/4 与 NVFP4**
 
@@ -44,13 +44,13 @@ QUASAR 是一种用于大语言模型的量化感知训练方法：每个训练�
 
 ```mermaid
 xychart-beta
-    title "vincentcounathe/quasar-qat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 5 --> 13
-    line [6, 10, 12, 12]
+    title "vincentcounathe/quasar-qat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 5 --> 14
+    line [6, 10, 12, 13, 13]
 ```
 
-2026-10-18 6 → 2026-11-02 12（+6）
+2026-10-18 6 → 2026-11-17 13（+7）
 
 
 ---

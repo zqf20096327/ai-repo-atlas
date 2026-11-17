@@ -1,6 +1,6 @@
 # jackschedel/KoalaClient
 
-⭐ 36 · TypeScript · CC0-1.0 · 推送 2026-06-18 · [GitHub](https://github.com/jackschedel/KoalaClient) · 个人维护
+⭐ 37 · TypeScript · CC0-1.0 · 推送 2026-06-18 · [GitHub](https://github.com/jackschedel/KoalaClient) · 个人维护
 
 **桌面优先的 OpenAI 兼容 API 聊天界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jackschedel/KoalaClient 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "jackschedel/KoalaClient 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

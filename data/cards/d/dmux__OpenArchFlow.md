@@ -1,6 +1,6 @@
 # dmux/OpenArchFlow
 
-⭐ 28 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/dmux/OpenArchFlow) · [官网](https://openarchflow.cloud) · 组织维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/dmux/OpenArchFlow) · [官网](https://openarchflow.cloud) · 组织维护
 
 **用自然语言生成 AWS 架构图并部署到本地模拟器的 PWA**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dmux/OpenArchFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28]
+    title "dmux/OpenArchFlow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 27, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

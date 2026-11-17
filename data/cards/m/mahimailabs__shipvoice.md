@@ -1,6 +1,6 @@
 # mahimailabs/shipvoice
 
-⭐ 30 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/mahimailabs/shipvoice) · [官网](https://docs.shipvoice.dev) · 组织维护
+⭐ 31 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/mahimailabs/shipvoice) · [官网](https://docs.shipvoice.dev) · 组织维护
 
 **浏览器语音 agent 全栈启动模板：worker+令牌服务+前端**
 
@@ -45,13 +45,13 @@ MIT 许可的实时语音 agent 起步工程，包含三块可独立运行、部
 
 ```mermaid
 xychart-beta
-    title "mahimailabs/shipvoice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "mahimailabs/shipvoice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

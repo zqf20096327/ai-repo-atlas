@@ -1,6 +1,6 @@
 # bigmlcom/python
 
-⭐ 294 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/bigmlcom/python) · [官网](http://bigml.com/api) · 组织维护
+⭐ 295 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/bigmlcom/python) · [官网](http://bigml.com/api) · 组织维护
 
 **BigML 机器学习云服务的 Python API 绑定库**
 
@@ -44,13 +44,13 @@ BigML.io 官方 Python 客户端库：通过 API 创建、获取、更新、删�
 
 ```mermaid
 xychart-beta
-    title "bigmlcom/python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "bigmlcom/python 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 293 --> 296
-    line [294, 295, 294, 294]
+    line [294, 295, 294, 295, 295]
 ```
 
-2026-10-18 294 → 2026-11-02 294（+0）
+2026-10-18 294 → 2026-11-17 295（+1）
 
 
 ---

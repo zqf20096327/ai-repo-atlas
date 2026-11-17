@@ -1,6 +1,6 @@
 # georgian-io/pyoats
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/georgian-io/pyoats) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/georgian-io/pyoats) · 组织维护
 
 **面向时间序列的异常检测 Python 库，统一接口适配多模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgian-io/pyoats 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    title "georgian-io/pyoats 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 111 --> 114
+    line [112, 113, 113]
 ```
 
-2026-10-18 112 → 2026-11-02 112（+0）
+2026-10-18 112 → 2026-11-17 113（+1）
 
 
 ---

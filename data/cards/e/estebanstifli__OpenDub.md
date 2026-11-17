@@ -1,6 +1,6 @@
 # estebanstifli/OpenDub
 
-⭐ 18 · C# · MIT · 推送 2026-10-10 · [GitHub](https://github.com/estebanstifli/OpenDub) · [官网](https://www.youtube.com/watch?v=iYkr_BjH9cE) · 个人维护
+⭐ 22 · C# · MIT · 推送 2026-10-10 · [GitHub](https://github.com/estebanstifli/OpenDub) · [官网](https://www.youtube.com/watch?v=iYkr_BjH9cE) · 个人维护
 
 **本地 AI 视频配音工作室：分离、转写、翻译与克隆配音**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "estebanstifli/OpenDub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 8 --> 19
-    line [9, 10, 11, 14, 15, 18, 18]
+    title "estebanstifli/OpenDub 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 8 --> 23
+    line [9, 10, 11, 14, 15, 18, 11, 19, 20, 21, 22, 22]
 ```
 
-2026-10-18 9 → 2026-11-02 18（+9）
+2026-10-18 9 → 2026-11-17 22（+13）
 
 
 ---

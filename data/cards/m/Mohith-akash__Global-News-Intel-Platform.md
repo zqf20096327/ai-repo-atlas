@@ -1,6 +1,6 @@
 # Mohith-akash/Global-News-Intel-Platform
 
-⭐ 28 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [官网](https://global-news-intel-platform.streamlit.app/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [官网](https://global-news-intel-platform.streamlit.app/) · 个人维护
 
 **GDELT 地缘新闻数据平台：每小时 ETL + 仪表盘与 AI 问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mohith-akash/Global-News-Intel-Platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "Mohith-akash/Global-News-Intel-Platform 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

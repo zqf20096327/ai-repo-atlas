@@ -1,6 +1,6 @@
 # samvardhan03/Vikshep
 
-⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/samvardhan03/Vikshep) · [官网](https://vikshep.vercel.app/) · 个人维护
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/samvardhan03/Vikshep) · [官网](https://vikshep.vercel.app/) · 个人维护
 
 **面向物理学的确定性小波散射特征提取与去相关标注工具链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samvardhan03/Vikshep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

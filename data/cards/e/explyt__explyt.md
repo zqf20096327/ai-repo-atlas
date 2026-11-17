@@ -1,6 +1,6 @@
 # explyt/explyt
 
-⭐ 26 · 推送 2026-10-30 · [GitHub](https://github.com/explyt/explyt) · [官网](https://explyt.ai) · 组织维护
+⭐ 25 · 推送 2026-11-11 · [GitHub](https://github.com/explyt/explyt) · [官网](https://explyt.ai) · 组织维护
 
 **JetBrains IDE 的 AI 编码代理：调试、重构与测试覆盖率提升**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "explyt/explyt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "explyt/explyt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 25（-1）
 
 
 ---

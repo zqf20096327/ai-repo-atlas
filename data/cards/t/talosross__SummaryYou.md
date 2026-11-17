@@ -1,6 +1,6 @@
 # talosross/SummaryYou
 
-⭐ 203 · Kotlin · GPL-3.0 · 推送 2026-04-17 · [GitHub](https://github.com/talosross/SummaryYou) · [官网](https://play.google.com/store/apps/details?id=com.talosross.summaryyou) · 个人维护
+⭐ 204 · Kotlin · GPL-3.0 · 推送 2026-04-17 · [GitHub](https://github.com/talosross/SummaryYou) · [官网](https://play.google.com/store/apps/details?id=com.talosross.summaryyou) · 个人维护
 
 **Android 应用：用 AI 总结视频、文章、图片与文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "talosross/SummaryYou 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 201 --> 204
-    line [202, 203, 203]
+    title "talosross/SummaryYou 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 201 --> 205
+    line [202, 203, 204, 204]
 ```
 
-2026-10-18 202 → 2026-11-02 203（+1）
+2026-10-18 202 → 2026-11-17 204（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Pushp-Kharat1/LEMMA
 
-⭐ 27 · Rust · MPL-2.0 · 推送 2026-02-14 · [GitHub](https://github.com/Pushp-Kharat1/LEMMA) · 个人维护
+⭐ 28 · Rust · MPL-2.0 · 推送 2026-02-14 · [GitHub](https://github.com/Pushp-Kharat1/LEMMA) · 个人维护
 
 **神经引导的符号数学推理研究原型（Rust）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pushp-Kharat1/LEMMA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Pushp-Kharat1/LEMMA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

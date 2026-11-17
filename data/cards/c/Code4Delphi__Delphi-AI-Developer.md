@@ -1,6 +1,6 @@
 # Code4Delphi/Delphi-AI-Developer
 
-⭐ 316 · Pascal · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Code4Delphi/Delphi-AI-Developer) · [官网](https://code4delphi.com.br/blog/) · 个人维护
+⭐ 318 · Pascal · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Code4Delphi/Delphi-AI-Developer) · [官网](https://code4delphi.com.br/blog/) · 个人维护
 
 **给 Delphi 开发者的 IDE AI 编程助手插件**
 
@@ -45,13 +45,13 @@ Delphi IDE 插件，接入 OpenAI、Gemini、Mistral、Groq API，并支持通�
 
 ```mermaid
 xychart-beta
-    title "Code4Delphi/Delphi-AI-Developer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 314 --> 317
-    line [315, 316, 316]
+    title "Code4Delphi/Delphi-AI-Developer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 314 --> 319
+    line [315, 316, 315, 317, 318, 318]
 ```
 
-2026-10-18 315 → 2026-11-02 316（+1）
+2026-10-18 315 → 2026-11-17 318（+3）
 
 
 ---

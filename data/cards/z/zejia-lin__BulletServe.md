@@ -1,6 +1,6 @@
 # zejia-lin/BulletServe
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/zejia-lin/BulletServe) · 个人维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/zejia-lin/BulletServe) · 个人维护
 
 **LLM 推理服务系统：同卡时空共享并发 prefill 与 decode**
 
@@ -45,13 +45,13 @@ BulletServe（Bullet）是面向 LLM serving 的系统，通过单设备内 pref
 
 ```mermaid
 xychart-beta
-    title "zejia-lin/BulletServe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 53 --> 57
-    line [54, 55, 56, 56]
+    title "zejia-lin/BulletServe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 53 --> 58
+    line [54, 55, 56, 57, 57]
 ```
 
-2026-10-18 54 → 2026-11-02 56（+2）
+2026-10-18 54 → 2026-11-17 57（+3）
 
 
 ---

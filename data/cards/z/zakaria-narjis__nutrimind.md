@@ -1,6 +1,6 @@
 # zakaria-narjis/nutrimind
 
-⭐ 258 · TypeScript · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/zakaria-narjis/nutrimind) · [官网](https://diet-recommendation-system.streamlit.app/) · 个人维护
+⭐ 257 · TypeScript · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/zakaria-narjis/nutrimind) · [官网](https://diet-recommendation-system.streamlit.app/) · 个人维护
 
 **基于营养向量相似度的个性化饮食推荐 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zakaria-narjis/nutrimind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "zakaria-narjis/nutrimind 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
     y-axis "stars" 256 --> 259
-    line [257, 258, 258]
+    line [257, 258, 257, 257]
 ```
 
-2026-10-18 257 → 2026-11-02 258（+1）
+2026-10-18 257 → 2026-11-17 257（+0）
 
 
 ---

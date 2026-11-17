@@ -1,6 +1,6 @@
 # The-Nexus-Guard/aip
 
-⭐ 15 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/The-Nexus-Guard/aip) · [官网](https://the-nexus-guard.github.io/aip/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/The-Nexus-Guard/aip) · [官网](https://the-nexus-guard.github.io/aip/) · 组织维护
 
 **给 AI agent 的去中心化密码学身份、信任链与端到端加密消息协议**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Nexus-Guard/aip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "The-Nexus-Guard/aip 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

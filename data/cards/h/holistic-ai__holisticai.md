@@ -1,6 +1,6 @@
 # holistic-ai/holisticai
 
-⭐ 114 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/holistic-ai/holisticai) · [官网](https://holisticai.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/holistic-ai/holisticai) · [官网](https://holisticai.readthedocs.io/en/latest/index.html) · 组织维护
 
 **面向开发者的 AI 系统可信度评估与偏差缓解 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "holistic-ai/holisticai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    title "holistic-ai/holisticai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 112 --> 115
+    line [114, 113, 113]
 ```
 
-2026-10-18 114 → 2026-11-02 114（+0）
+2026-10-18 114 → 2026-11-17 113（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # neomatrix369/awesome-ai-ml-dl
 
-⭐ 1,719 · Jupyter Notebook · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/neomatrix369/awesome-ai-ml-dl) · 个人维护
+⭐ 1,722 · Jupyter Notebook · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/neomatrix369/awesome-ai-ml-dl) · 个人维护
 
 **AI/ML/DL 学习资源与学习笔记的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neomatrix369/awesome-ai-ml-dl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 1717 --> 1721
-    line [1718, 1720, 1719, 1719]
+    title "neomatrix369/awesome-ai-ml-dl 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1717 --> 1723
+    line [1718, 1720, 1719, 1718, 1719, 1721, 1722, 1722]
 ```
 
-2026-10-18 1,718 → 2026-11-02 1,719（+1）
+2026-10-18 1,718 → 2026-11-17 1,722（+4）
 
 
 ---

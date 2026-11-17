@@ -1,6 +1,6 @@
 # InternScience/SciEvalKit
 
-⭐ 87 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/InternScience/SciEvalKit) · 组织维护 · 中文 README
+⭐ 88 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/InternScience/SciEvalKit) · 组织维护 · 中文 README
 
 **评测大模型科学智能的统一工具包与排行榜**
 
@@ -44,13 +44,13 @@ OpenCompass 体系下的科学能力评测框架：覆盖科学知识理解、�
 
 ```mermaid
 xychart-beta
-    title "InternScience/SciEvalKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "InternScience/SciEvalKit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 86 --> 89
+    line [87, 88, 88]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-17 88（+1）
 
 
 ---

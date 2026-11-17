@@ -1,6 +1,6 @@
 # qdrant/migration
 
-⭐ 86 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/qdrant/migration) · 组织维护
+⭐ 86 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/qdrant/migration) · 组织维护
 
 **将 17 种向量库/数据源的数据迁移到 Qdrant 的 CLI 工具**
 
@@ -44,13 +44,13 @@ Qdrant 官方维护的数据迁移 CLI：从 Chroma、Pinecone、Milvus、Weavia
 
 ```mermaid
 xychart-beta
-    title "qdrant/migration 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "qdrant/migration 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 84 --> 87
-    line [85, 86]
+    line [85, 86, 85, 86, 86]
 ```
 
-2026-10-18 85 → 2026-11-02 86（+1）
+2026-10-18 85 → 2026-11-17 86（+1）
 
 
 ---

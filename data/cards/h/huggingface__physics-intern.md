@@ -1,6 +1,6 @@
 # huggingface/physics-intern
 
-⭐ 26 · Shell · 推送 2026-07-01 · [GitHub](https://github.com/huggingface/physics-intern) · 组织维护
+⭐ 32 · Shell · 推送 2026-07-01 · [GitHub](https://github.com/huggingface/physics-intern) · 组织维护
 
 **驱动 AI 编码代理执行理论物理研究的方法论包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/physics-intern 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 22 --> 27
-    line [23, 24, 25, 26, 26]
+    title "huggingface/physics-intern 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 22 --> 33
+    line [23, 24, 25, 26, 27, 30, 31, 32, 32]
 ```
 
-2026-10-18 23 → 2026-11-02 26（+3）
+2026-10-18 23 → 2026-11-17 32（+9）
 
 
 ---

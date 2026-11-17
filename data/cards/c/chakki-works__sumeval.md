@@ -1,6 +1,6 @@
 # chakki-works/sumeval
 
-⭐ 625 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/chakki-works/sumeval) · 组织维护
+⭐ 626 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/chakki-works/sumeval) · 组织维护
 
 **多语言文本摘要评测框架：计算 ROUGE/BLEU 分数**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "chakki-works/sumeval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 623 --> 626
-    line [624, 625, 625]
+    title "chakki-works/sumeval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 623 --> 627
+    line [624, 625, 626, 626]
 ```
 
-2026-10-18 624 → 2026-11-02 625（+1）
+2026-10-18 624 → 2026-11-17 626（+2）
 
 
 ---

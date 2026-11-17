@@ -1,6 +1,6 @@
 # NeuromatchAcademy/course-content-dl
 
-⭐ 818 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-07 · [GitHub](https://github.com/NeuromatchAcademy/course-content-dl) · [官网](https://deeplearning.neuromatch.io/) · 组织维护
+⭐ 819 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-15 · [GitHub](https://github.com/NeuromatchAcademy/course-content-dl) · [官网](https://deeplearning.neuromatch.io/) · 组织维护
 
 **Neuromatch Academy 深度学习课程内容库：代码优先的教学大纲与教程**
 
@@ -45,13 +45,13 @@ Neuromatch Academy（NMA-DL）深度学习课程的公开内容仓库，覆盖�
 
 ```mermaid
 xychart-beta
-    title "NeuromatchAcademy/course-content-dl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 816 --> 819
-    line [817, 818, 818]
+    title "NeuromatchAcademy/course-content-dl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 816 --> 820
+    line [817, 818, 819, 819]
 ```
 
-2026-10-18 817 → 2026-11-02 818（+1）
+2026-10-18 817 → 2026-11-17 819（+2）
 
 
 ---

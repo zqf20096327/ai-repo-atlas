@@ -1,6 +1,6 @@
 # Djdefrag/RealScaler
 
-⭐ 429 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Djdefrag/RealScaler) · 个人维护
+⭐ 431 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Djdefrag/RealScaler) · 个人维护
 
 **Windows 图像/视频 AI 超分应用（Real-ESRGAN）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Djdefrag/RealScaler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 427 --> 430
-    line [428, 429, 429]
+    title "Djdefrag/RealScaler 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 427 --> 432
+    line [428, 429, 428, 430, 431, 431]
 ```
 
-2026-10-18 428 → 2026-11-02 429（+1）
+2026-10-18 428 → 2026-11-17 431（+3）
 
 
 ---

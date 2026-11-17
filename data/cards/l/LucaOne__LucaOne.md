@@ -1,6 +1,6 @@
 # LucaOne/LucaOne
 
-⭐ 371 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/LucaOne/LucaOne) · [官网](https://doi.org/10.5281/zenodo.15171943) · 组织维护 · 中文 README
+⭐ 374 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/LucaOne/LucaOne) · [官网](https://doi.org/10.5281/zenodo.15171943) · 组织维护 · 中文 README
 
 **统一核酸与蛋白质语言的生物基础模型（LucaOne）资源库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LucaOne/LucaOne 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 369 --> 372
-    line [370, 371, 371]
+    title "LucaOne/LucaOne 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 369 --> 375
+    line [370, 371, 370, 372, 373, 374, 374]
 ```
 
-2026-10-18 370 → 2026-11-02 371（+1）
+2026-10-18 370 → 2026-11-17 374（+4）
 
 
 ---

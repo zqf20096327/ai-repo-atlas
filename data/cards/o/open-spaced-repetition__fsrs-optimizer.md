@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs-optimizer
 
-⭐ 112 · Python · BSD-3-Clause · 推送 2026-08-06 · [GitHub](https://github.com/open-spaced-repetition/fsrs-optimizer) · [官网](https://pypi.org/project/FSRS-Optimizer/) · 组织维护
+⭐ 113 · Python · BSD-3-Clause · 推送 2026-08-06 · [GitHub](https://github.com/open-spaced-repetition/fsrs-optimizer) · [官网](https://pypi.org/project/FSRS-Optimizer/) · 组织维护
 
 **用个人复习日志训练 FSRS 记忆调度算法参数的 Python 库**
 
@@ -43,13 +43,13 @@ Python 库，读取符合标准 schema 的间隔重复复习日志（卡片 ID�
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/fsrs-optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    title "open-spaced-repetition/fsrs-optimizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 111 --> 114
+    line [112, 113, 113]
 ```
 
-2026-10-18 112 → 2026-11-02 112（+0）
+2026-10-18 112 → 2026-11-17 113（+1）
 
 
 ---

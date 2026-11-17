@@ -1,6 +1,6 @@
 # raulgomis/semversioner
 
-⭐ 48 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/raulgomis/semversioner) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/raulgomis/semversioner) · 个人维护
 
 **面向 AI 原生项目的语义化版本与 CHANGELOG 自动化 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raulgomis/semversioner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 48（+0）
 
 
 ---

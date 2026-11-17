@@ -1,6 +1,6 @@
 # CelestialCreator/pocket-pi
 
-⭐ 24 · Kotlin · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/CelestialCreator/pocket-pi) · [官网](https://github.com/CelestialCreator/pocket-pi/releases/latest) · 个人维护
+⭐ 28 · Kotlin · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/CelestialCreator/pocket-pi) · [官网](https://github.com/CelestialCreator/pocket-pi/releases/latest) · 个人维护
 
 **在 Android 手机上单 APK 运行 Pi 编程代理的应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CelestialCreator/pocket-pi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 23, 24]
+    title "CelestialCreator/pocket-pi 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 29
+    line [20, 21, 22, 23, 24, 23, 26, 27, 28, 28]
 ```
 
-2026-10-18 20 → 2026-11-02 24（+4）
+2026-10-18 20 → 2026-11-17 28（+8）
 
 
 ---

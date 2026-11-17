@@ -1,6 +1,6 @@
 # LifeValue/HealthWallet.me
 
-⭐ 72 · Dart · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/LifeValue/HealthWallet.me) · [官网](https://healthwallet.me) · 组织维护
+⭐ 73 · Dart · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/LifeValue/HealthWallet.me) · [官网](https://healthwallet.me) · 组织维护
 
 **患者自控的健康档案应用：聚合 52K+ 机构数据并本地 AI 扫描**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LifeValue/HealthWallet.me 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    title "LifeValue/HealthWallet.me 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 70 --> 74
+    line [71, 72, 73, 73]
 ```
 
-2026-10-18 71 → 2026-11-02 72（+1）
+2026-10-18 71 → 2026-11-17 73（+2）
 
 
 ---

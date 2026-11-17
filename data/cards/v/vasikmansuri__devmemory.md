@@ -1,6 +1,6 @@
 # vasikmansuri/devmemory
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vasikmansuri/devmemory) · [官网](https://www.npmjs.com/package/@vasikmansuri/devmemory) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/vasikmansuri/devmemory) · [官网](https://www.npmjs.com/package/@vasikmansuri/devmemory) · 个人维护
 
 **给 AI 编程 agent 的本地持久记忆：MCP 服务器 + CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vasikmansuri/devmemory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "vasikmansuri/devmemory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 3 --> 15
-    line [4, 5, 6, 14, 14]
+    line [4, 5, 6, 14, 5, 14, 14]
 ```
 
-2026-10-18 4 → 2026-11-02 14（+10）
+2026-10-18 4 → 2026-11-17 14（+10）
 
 
 ---

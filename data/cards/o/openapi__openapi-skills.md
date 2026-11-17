@@ -1,6 +1,6 @@
 # openapi/openapi-skills
 
-⭐ 15 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/openapi/openapi-skills) · [官网](https://openapi.com) · 组织维护
+⭐ 16 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/openapi/openapi-skills) · [官网](https://openapi.com) · 组织维护
 
 **Openapi API 市场的 agent 技能集：公司数据/KYC/电子签等 12 个领域**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openapi/openapi-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "openapi/openapi-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

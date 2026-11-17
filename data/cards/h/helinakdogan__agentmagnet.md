@@ -1,6 +1,6 @@
 # helinakdogan/agentmagnet
 
-⭐ 14 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/helinakdogan/agentmagnet) · [官网](https://www.agentmagnet.app) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/helinakdogan/agentmagnet) · [官网](https://www.agentmagnet.app) · 个人维护
 
 **跨 Claude/Cursor/Codex 共享项目记忆的本地 MCP 记忆层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "helinakdogan/agentmagnet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "helinakdogan/agentmagnet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

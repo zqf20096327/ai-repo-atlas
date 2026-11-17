@@ -1,6 +1,6 @@
 # zgsm-ai/everything-ai-coding
 
-⭐ 206 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zgsm-ai/everything-ai-coding) · [官网](https://zgsm-ai.github.io/everything-ai-coding/) · 组织维护 · 中文 README
+⭐ 207 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zgsm-ai/everything-ai-coding) · [官网](https://zgsm-ai.github.io/everything-ai-coding/) · 组织维护 · 中文 README
 
 **编程 AI 扩展资源精选目录：MCP/Skills/Rules/Prompts 聚合+一键安装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zgsm-ai/everything-ai-coding 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "zgsm-ai/everything-ai-coding 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 205 --> 209
-    line [207, 208, 207, 206, 206]
+    line [207, 208, 207, 206, 207, 207]
 ```
 
-2026-10-18 207 → 2026-11-02 206（-1）
+2026-10-18 207 → 2026-11-17 207（+0）
 
 
 ---

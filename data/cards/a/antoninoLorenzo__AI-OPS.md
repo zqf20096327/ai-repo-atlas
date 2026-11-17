@@ -1,6 +1,6 @@
 # antoninoLorenzo/AI-OPS
 
-⭐ 168 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/antoninoLorenzo/AI-OPS) · [官网](https://antoninolorenzo.github.io/AI-OPS/) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/antoninoLorenzo/AI-OPS) · [官网](https://antoninolorenzo.github.io/AI-OPS/) · 个人维护
 
 **自带 LLM 的渗透测试 AI agent，API+CLI 驱动**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "antoninoLorenzo/AI-OPS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 166 --> 169
-    line [167, 168, 168]
+    title "antoninoLorenzo/AI-OPS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 166 --> 173
+    line [167, 168, 167, 171, 172, 172]
 ```
 
-2026-10-18 167 → 2026-11-02 168（+1）
+2026-10-18 167 → 2026-11-17 172（+5）
 
 
 ---

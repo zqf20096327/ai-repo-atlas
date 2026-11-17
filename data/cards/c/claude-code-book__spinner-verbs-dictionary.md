@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "claude-code-book/spinner-verbs-dictionary 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "claude-code-book/spinner-verbs-dictionary 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    line [75, 76, 75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # linaproai/linapro
 
-⭐ 165 · Go · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/linaproai/linapro) · [官网](https://linapro.ai) · 组织维护 · 中文 README
+⭐ 170 · Go · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/linaproai/linapro) · [官网](https://linapro.ai) · 组织维护 · 中文 README
 
 **面向团队与企业的 AI 原生全栈开发框架**
 
@@ -45,13 +45,13 @@ LinaPro 是一个 AI 原生全栈框架：后端基于 Go（GoFrame），前端�
 
 ```mermaid
 xychart-beta
-    title "linaproai/linapro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 161 --> 166
-    line [162, 163, 164, 165, 165]
+    title "linaproai/linapro 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 161 --> 171
+    line [162, 163, 164, 165, 163, 170, 170]
 ```
 
-2026-10-18 162 → 2026-11-02 165（+3）
+2026-10-18 162 → 2026-11-17 170（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # yuyuanweb/ai-ppt-generator
 
-⭐ 169 · Python · 推送 2026-09-16 · [GitHub](https://github.com/yuyuanweb/ai-ppt-generator) · [官网](https://www.codefather.cn/course/2091823677833220098) · 组织维护 · 中文 README
+⭐ 173 · Python · 推送 2026-09-16 · [GitHub](https://github.com/yuyuanweb/ai-ppt-generator) · [官网](https://www.codefather.cn/course/2091823677833220098) · 组织维护 · 中文 README
 
 **给开发学习者的 AI PPT 生成器全栈项目教程（含完整源码）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuyuanweb/ai-ppt-generator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 165 --> 170
-    line [166, 167, 168, 169]
+    title "yuyuanweb/ai-ppt-generator 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 165 --> 175
+    line [166, 167, 168, 169, 167, 174, 173, 172, 173, 173]
 ```
 
-2026-10-18 166 → 2026-11-02 169（+3）
+2026-10-18 166 → 2026-11-17 173（+7）
 
 
 ---

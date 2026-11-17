@@ -1,6 +1,6 @@
 # axon-rl/gem
 
-⭐ 513 · Python · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/axon-rl/gem) · [官网](https://arxiv.org/pdf/2510.01051) · 组织维护
+⭐ 518 · Python · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/axon-rl/gem) · [官网](https://arxiv.org/pdf/2510.01051) · 组织维护
 
 **面向 Agentic LLM 的强化学习环境套件（Gym 式）**
 
@@ -44,13 +44,13 @@ GEM（General Experience Maker）是开源的 LLM 智能体环境套件，采用
 
 ```mermaid
 xychart-beta
-    title "axon-rl/gem 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 509 --> 514
-    line [510, 511, 512, 513, 513]
+    title "axon-rl/gem 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 509 --> 519
+    line [510, 511, 512, 513, 511, 516, 517, 518, 518]
 ```
 
-2026-10-18 510 → 2026-11-02 513（+3）
+2026-10-18 510 → 2026-11-17 518（+8）
 
 
 ---

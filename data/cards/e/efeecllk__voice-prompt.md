@@ -1,6 +1,6 @@
 # efeecllk/voice-prompt
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/efeecllk/voice-prompt) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/efeecllk/voice-prompt) · 个人维护
 
 **语音输入生成 AI 提示词的桌面应用：说母语得英文提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "efeecllk/voice-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

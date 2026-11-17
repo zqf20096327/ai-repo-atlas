@@ -1,6 +1,6 @@
 # AlekseiUL/humanlike
 
-⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlekseiUL/humanlike) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/AlekseiUL/humanlike) · 个人维护
 
 **为对话式 AI 代理提供确定性人格与行为控制层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlekseiUL/humanlike 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "AlekseiUL/humanlike 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 19, 22, 23, 24, 24]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 24（+5）
 
 
 ---

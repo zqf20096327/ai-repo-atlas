@@ -1,6 +1,6 @@
 # TheBrainLab/Spikingformer
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-04-16 · [GitHub](https://github.com/TheBrainLab/Spikingformer) · 组织维护
+⭐ 155 · Python · Apache-2.0 · 推送 2026-04-16 · [GitHub](https://github.com/TheBrainLab/Spikingformer) · 组织维护
 
 **纯事件驱动 Transformer 脉冲神经网络模型及训练代码（AAAI 2026）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheBrainLab/Spikingformer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 151 --> 155
-    line [152, 153, 154, 154]
+    title "TheBrainLab/Spikingformer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 151 --> 156
+    line [152, 153, 154, 153, 154, 155, 155]
 ```
 
-2026-10-18 152 → 2026-11-02 154（+2）
+2026-10-18 152 → 2026-11-17 155（+3）
 
 
 ---

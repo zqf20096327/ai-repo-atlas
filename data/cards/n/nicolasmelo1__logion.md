@@ -1,6 +1,6 @@
 # nicolasmelo1/logion
 
-⭐ 40 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/nicolasmelo1/logion) · [官网](https://logion.sh) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/nicolasmelo1/logion) · [官网](https://logion.sh) · 个人维护
 
 **AI agent 制品行为度量与注册层：验证技能/插件是否真的能用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicolasmelo1/logion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "nicolasmelo1/logion 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [39, 40, 38, 38]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 38（-1）
 
 
 ---

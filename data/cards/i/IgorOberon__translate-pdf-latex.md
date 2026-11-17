@@ -1,6 +1,6 @@
 # IgorOberon/translate-pdf-latex
 
-⭐ 16 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/IgorOberon/translate-pdf-latex) · [官网](https://github.com/IgorOberon/translate-pdf-latex/releases) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/IgorOberon/translate-pdf-latex) · [官网](https://github.com/IgorOberon/translate-pdf-latex/releases) · 个人维护
 
 **本地模型驱动的整书翻译与 LaTeX/PDF 排版流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IgorOberon/translate-pdf-latex 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02"]
+    title "IgorOberon/translate-pdf-latex 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 8 --> 17
-    line [9, 11, 13, 14, 15, 16, 16]
+    line [9, 11, 13, 14, 15, 16, 15, 16, 16]
 ```
 
-2026-10-18 9 → 2026-11-02 16（+7）
+2026-10-18 9 → 2026-11-17 16（+7）
 
 
 ---

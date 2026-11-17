@@ -1,6 +1,6 @@
 # agentview/agentview
 
-⭐ 43 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/agentview/agentview) · [官网](https://agentview.app) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/agentview/agentview) · [官网](https://agentview.app) · 组织维护
 
 **对话式 Agent 的会话查看器与后端持久层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentview/agentview 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "agentview/agentview 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

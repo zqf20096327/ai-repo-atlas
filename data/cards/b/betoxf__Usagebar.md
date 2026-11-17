@@ -1,6 +1,6 @@
 # betoxf/Usagebar
 
-⭐ 14 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/betoxf/Usagebar) · [官网](https://bullfighterstudio.com/usagebar) · 个人维护
+⭐ 16 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/betoxf/Usagebar) · [官网](https://bullfighterstudio.com/usagebar) · 个人维护
 
 **macOS 菜单栏应用：显示 Claude/Codex/Cursor 等 AI 编程工具的用量限额**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "betoxf/Usagebar 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "betoxf/Usagebar 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-10-26 13 → 2026-11-02 14（+1）
+2026-10-26 13 → 2026-11-17 16（+3）
 
 
 ---

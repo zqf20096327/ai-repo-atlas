@@ -1,6 +1,6 @@
 # SukinShetty/Nemp-memory
 
-⭐ 140 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/SukinShetty/Nemp-memory) · [官网](https://www.nemp.dev/) · 个人维护
+⭐ 141 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/SukinShetty/Nemp-memory) · [官网](https://www.nemp.dev/) · 个人维护
 
 **给 Claude Code 的本地记忆插件：保存并检索决策与上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SukinShetty/Nemp-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 138 --> 141
-    line [139, 140]
+    title "SukinShetty/Nemp-memory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 138 --> 142
+    line [139, 140, 139, 140, 141, 141]
 ```
 
-2026-10-18 139 → 2026-11-02 140（+1）
+2026-10-18 139 → 2026-11-17 141（+2）
 
 
 ---

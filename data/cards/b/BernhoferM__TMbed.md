@@ -1,6 +1,6 @@
 # BernhoferM/TMbed
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/BernhoferM/TMbed) · 个人维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/BernhoferM/TMbed) · 个人维护
 
 **预测跨膜蛋白及其区段与信号肽的生物信息学工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BernhoferM/TMbed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "BernhoferM/TMbed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

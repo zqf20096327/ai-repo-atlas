@@ -1,6 +1,6 @@
 # Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime
 
-⭐ 314 · Python · 推送 2026-10-05 · [GitHub](https://github.com/Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime) · 个人维护
+⭐ 315 · Python · 推送 2026-10-05 · [GitHub](https://github.com/Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime) · 个人维护
 
 **用 TensorFlow/Sklearn/XGBoost 从技术指标预测股票买卖点的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 313 --> 315
-    line [314, 314]
+    title "Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 313 --> 316
+    line [314, 315, 315]
 ```
 
-2026-10-18 314 → 2026-11-02 314（+0）
+2026-10-18 314 → 2026-11-17 315（+1）
 
 
 ---

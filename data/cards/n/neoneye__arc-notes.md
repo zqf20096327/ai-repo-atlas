@@ -1,6 +1,6 @@
 # neoneye/arc-notes
 
-⭐ 90 · MIT · 推送 2025-12-09 · [GitHub](https://github.com/neoneye/arc-notes) · 个人维护
+⭐ 89 · MIT · 推送 2025-12-09 · [GitHub](https://github.com/neoneye/arc-notes) · 个人维护
 
 **关于 ARC（抽象与推理语料库）的个人笔记文集**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "neoneye/arc-notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "neoneye/arc-notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [90, 89, 89]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 89（-1）
 
 
 ---

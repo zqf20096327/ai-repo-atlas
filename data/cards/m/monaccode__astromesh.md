@@ -1,6 +1,6 @@
 # monaccode/astromesh
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/monaccode/astromesh) · [官网](https://monaccode.github.io/astromesh/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/monaccode/astromesh) · [官网](https://monaccode.github.io/astromesh/) · 组织维护
 
 **多模型 AI agent 运行时：YAML 定义 agent 并按 API 部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "monaccode/astromesh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    title "monaccode/astromesh 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 37, 39, 39]
 ```
 
-2026-10-18 36 → 2026-11-02 38（+2）
+2026-10-18 36 → 2026-11-17 39（+3）
 
 
 ---

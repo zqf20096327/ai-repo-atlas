@@ -1,6 +1,6 @@
 # Labelbox/labelbox-python
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Labelbox/labelbox-python) · [官网](https://labelbox.com) · 组织维护
+⭐ 157 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/Labelbox/labelbox-python) · [官网](https://labelbox.com) · 组织维护
 
 **Labelbox 平台的 Python SDK：数据标注与模型评估编程接入**
 
@@ -44,13 +44,13 @@ Labelbox 官方 Python SDK，用于以编程方式访问 Labelbox 数据管理�
 
 ```mermaid
 xychart-beta
-    title "Labelbox/labelbox-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "Labelbox/labelbox-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 156 --> 159
-    line [157, 158, 158]
+    line [157, 158, 157, 157]
 ```
 
-2026-10-18 157 → 2026-11-02 158（+1）
+2026-10-18 157 → 2026-11-17 157（+0）
 
 
 ---

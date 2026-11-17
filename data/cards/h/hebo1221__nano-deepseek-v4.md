@@ -1,6 +1,6 @@
 # hebo1221/nano-deepseek-v4
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/hebo1221/nano-deepseek-v4) · [官网](https://github.com/hebo1221/nano-deepseek-v4#readme) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/hebo1221/nano-deepseek-v4) · [官网](https://github.com/hebo1221/nano-deepseek-v4#readme) · 个人维护
 
 **DeepSeek-V4 架构的可读 PyTorch 参考实现与 CPU 一致性验证套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hebo1221/nano-deepseek-v4 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "hebo1221/nano-deepseek-v4 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 19（-1）
 
 
 ---

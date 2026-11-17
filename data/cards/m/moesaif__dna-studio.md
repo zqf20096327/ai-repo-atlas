@@ -1,6 +1,6 @@
 # moesaif/dna-studio
 
-⭐ 50 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/moesaif/dna-studio) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/moesaif/dna-studio) · 个人维护
 
 **自托管的 AI 营销平台：从网站 URL 提取品牌画像并生成发布社媒内容**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moesaif/dna-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50, 50]
+    title "moesaif/dna-studio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 46 --> 53
+    line [47, 48, 49, 50, 48, 49, 52, 52]
 ```
 
-2026-10-18 47 → 2026-11-02 50（+3）
+2026-10-18 47 → 2026-11-17 52（+5）
 
 
 ---

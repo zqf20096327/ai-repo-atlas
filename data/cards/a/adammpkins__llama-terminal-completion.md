@@ -1,6 +1,6 @@
 # adammpkins/llama-terminal-completion
 
-⭐ 194 · Go · MIT · 推送 2026-05-31 · [GitHub](https://github.com/adammpkins/llama-terminal-completion) · [官网](https://adammpkins.github.io/llamaterm/) · 个人维护
+⭐ 193 · Go · MIT · 推送 2026-05-31 · [GitHub](https://github.com/adammpkins/llama-terminal-completion) · [官网](https://adammpkins.github.io/llamaterm/) · 个人维护
 
 **终端里的 AI 助手 CLI：接入任意 OpenAI 兼容 API 问答与生成命令**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adammpkins/llama-terminal-completion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 193 --> 195
-    line [194, 194]
+    title "adammpkins/llama-terminal-completion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 192 --> 195
+    line [194, 193, 193]
 ```
 
-2026-10-18 194 → 2026-11-02 194（+0）
+2026-10-18 194 → 2026-11-17 193（-1）
 
 
 ---

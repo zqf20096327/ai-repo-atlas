@@ -1,6 +1,6 @@
 # DeepTrackAI/DeepLearningCrashCourse
 
-⭐ 203 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/DeepTrackAI/DeepLearningCrashCourse) · [官网](https://nostarch.com/deep-learning-crash-course) · 组织维护
+⭐ 207 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/DeepTrackAI/DeepLearningCrashCourse) · [官网](https://nostarch.com/deep-learning-crash-course) · 组织维护
 
 **深度学习教材《Deep Learning Crash Course》配套代码仓库**
 
@@ -44,13 +44,13 @@ No Starch Press 2026 年出版的深度学习入门书籍配套仓库，作者�
 
 ```mermaid
 xychart-beta
-    title "DeepTrackAI/DeepLearningCrashCourse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 200 --> 204
-    line [201, 202, 203, 203]
+    title "DeepTrackAI/DeepLearningCrashCourse 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 200 --> 208
+    line [201, 202, 203, 202, 206, 207, 207]
 ```
 
-2026-10-18 201 → 2026-11-02 203（+2）
+2026-10-18 201 → 2026-11-17 207（+6）
 
 
 ---

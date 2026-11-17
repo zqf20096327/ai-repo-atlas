@@ -1,6 +1,6 @@
 # phughesmcr/deno-mcp-template
 
-⭐ 33 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/phughesmcr/deno-mcp-template) · [官网](https://jsr.io/@phughesmcr/deno-mcp-template) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/phughesmcr/deno-mcp-template) · [官网](https://jsr.io/@phughesmcr/deno-mcp-template) · 个人维护
 
 **Deno 编写 MCP 服务器的全功能模板：一键生成多格式分发**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "phughesmcr/deno-mcp-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "phughesmcr/deno-mcp-template 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

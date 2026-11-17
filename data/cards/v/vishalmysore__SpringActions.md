@@ -1,6 +1,6 @@
 # vishalmysore/SpringActions
 
-⭐ 11 · Java · MIT · 推送 2026-07-29 · [GitHub](https://github.com/vishalmysore/SpringActions) · 个人维护
+⭐ 11 · Java · MIT · 推送 2026-11-08 · [GitHub](https://github.com/vishalmysore/SpringActions) · 个人维护
 
 **将 Spring Bean 自动暴露为 A2A/MCP 工具的 Spring Boot 集成框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vishalmysore/SpringActions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/ai-diffusion-report
 
-⭐ 29 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/ai-diffusion-report) · 组织维护
+⭐ 32 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/ai-diffusion-report) · 组织维护
 
 **微软 AI 采用率数据集与报告：各国及美国各地区生成式 AI 使用份额**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ai-diffusion-report 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29]
+    title "microsoft/ai-diffusion-report 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 26 --> 33
+    line [27, 28, 29, 27, 30, 31, 32, 32]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 32（+5）
 
 
 ---

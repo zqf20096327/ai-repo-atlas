@@ -1,6 +1,6 @@
 # escapeboy/agent-fleet-o
 
-⭐ 77 · PHP · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/escapeboy/agent-fleet-o) · [官网](https://fleetq.net) · 个人维护
+⭐ 83 · PHP · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/escapeboy/agent-fleet-o) · [官网](https://fleetq.net) · 个人维护
 
 **自托管多 AI agent 编排平台：可视化 DAG 工作流与治理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "escapeboy/agent-fleet-o 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 73 --> 78
-    line [74, 75, 76, 77, 77]
+    title "escapeboy/agent-fleet-o 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 73 --> 84
+    line [74, 75, 76, 77, 76, 78, 79, 80, 81, 83, 83]
 ```
 
-2026-10-18 74 → 2026-11-02 77（+3）
+2026-10-18 74 → 2026-11-17 83（+9）
 
 
 ---

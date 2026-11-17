@@ -1,6 +1,6 @@
 # kYangLi/DeepH-dock
 
-⭐ 42 · Python · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/kYangLi/DeepH-dock) · [官网](https://docs.deeph-pack.com/deeph-dock) · 个人维护
+⭐ 43 · Python · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/kYangLi/DeepH-dock) · [官网](https://docs.deeph-pack.com/deeph-dock) · 个人维护
 
 **连接第一性原理计算与 DeepH 深度学习方法的接口平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kYangLi/DeepH-dock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "kYangLi/DeepH-dock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

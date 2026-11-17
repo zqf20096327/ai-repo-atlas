@@ -1,6 +1,6 @@
 # microsoft/CopilotHackathon
 
-⭐ 235 · HTML · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/CopilotHackathon) · 组织维护
+⭐ 236 · HTML · MIT · 推送 2026-11-10 · [GitHub](https://github.com/microsoft/CopilotHackathon) · 组织维护
 
 **学习 GitHub Copilot 的黑客松练习集：多语言实验与挑战题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/CopilotHackathon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 234 --> 236
-    line [235, 235]
+    title "microsoft/CopilotHackathon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 234 --> 237
+    line [235, 236, 236]
 ```
 
-2026-10-18 235 → 2026-11-02 235（+0）
+2026-10-18 235 → 2026-11-17 236（+1）
 
 
 ---

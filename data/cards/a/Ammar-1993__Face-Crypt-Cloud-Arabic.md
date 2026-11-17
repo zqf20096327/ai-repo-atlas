@@ -1,6 +1,6 @@
 # Ammar-1993/Face-Crypt-Cloud-Arabic
 
-⭐ 12 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Ammar-1993/Face-Crypt-Cloud-Arabic) · [官网](https://face-crypt-cloud-184918603595.us-central1.run.app) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Ammar-1993/Face-Crypt-Cloud-Arabic) · [官网](https://face-crypt-cloud-184918603595.us-central1.run.app) · 个人维护
 
 **基于人脸识别的无密码云端身份认证系统（阿拉伯语/英语）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ammar-1993/Face-Crypt-Cloud-Arabic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Ammar-1993/Face-Crypt-Cloud-Arabic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

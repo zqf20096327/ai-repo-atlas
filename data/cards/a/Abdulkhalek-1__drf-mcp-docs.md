@@ -1,6 +1,6 @@
 # Abdulkhalek-1/drf-mcp-docs
 
-⭐ 16 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/Abdulkhalek-1/drf-mcp-docs) · [官网](http://abdulkhalek-1.github.io/drf-mcp-docs/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/Abdulkhalek-1/drf-mcp-docs) · [官网](http://abdulkhalek-1.github.io/drf-mcp-docs/) · 个人维护
 
 **通过 MCP 向 AI 编码代理暴露 Django REST API 文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abdulkhalek-1/drf-mcp-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Abdulkhalek-1/drf-mcp-docs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

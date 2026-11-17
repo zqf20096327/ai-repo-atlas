@@ -1,6 +1,6 @@
 # kishanraj41/autolineage
 
-⭐ 92 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kishanraj41/autolineage) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Python ML 管线的数据血缘自动追踪库：一行 import 记录全链路操作**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kishanraj41/autolineage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-14 92（+0）
 
 
 ---

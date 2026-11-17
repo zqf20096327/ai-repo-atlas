@@ -1,6 +1,6 @@
 # T8mars/Comfyui-Auk-T8
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/T8mars/Comfyui-Auk-T8) · [官网](https://huggingface.co/t8star/Auk-Comfy) · 个人维护 · 中文 README
+⭐ 14 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/T8mars/Comfyui-Auk-T8) · [官网](https://huggingface.co/t8star/Auk-Comfy) · 个人维护 · 中文 README
 
 **在 ComfyUI 内运行 AuK 语音生成与编辑的自定义节点包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "T8mars/Comfyui-Auk-T8 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "T8mars/Comfyui-Auk-T8 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

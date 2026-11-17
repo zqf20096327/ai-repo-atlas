@@ -1,6 +1,6 @@
 # ronnieops/pi-search-hub
 
-⭐ 50 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/ronnieops/pi-search-hub) · 个人维护
+⭐ 52 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/ronnieops/pi-search-hub) · 个人维护
 
 **为 pi 编码 agent 提供统一 web 搜索与网页读取的扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ronnieops/pi-search-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    title "ronnieops/pi-search-hub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 49, 51, 52, 52]
 ```
 
-2026-10-18 49 → 2026-11-02 50（+1）
+2026-10-18 49 → 2026-11-17 52（+3）
 
 
 ---

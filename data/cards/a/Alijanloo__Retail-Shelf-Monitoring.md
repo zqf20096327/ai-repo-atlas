@@ -1,6 +1,6 @@
 # Alijanloo/Retail-Shelf-Monitoring
 
-⭐ 16 · Python · MIT · 推送 2025-11-06 · [GitHub](https://github.com/Alijanloo/Retail-Shelf-Monitoring) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 CCTV 视觉分析的零售货架监控系统（缺货/错放检测）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alijanloo/Retail-Shelf-Monitoring 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-07 16（+0）
 
 
 ---

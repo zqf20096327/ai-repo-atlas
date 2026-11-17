@@ -1,6 +1,6 @@
 # martinimarcello00/SRE-agent
 
-⭐ 25 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/martinimarcello00/SRE-agent) · [官网](https://marcellomartini.tech/projects/sre-agent/) · 个人维护
+⭐ 26 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/martinimarcello00/SRE-agent) · [官网](https://marcellomartini.tech/projects/sre-agent/) · 个人维护
 
 **面向 Kubernetes 事故的 LLM 多智能体诊断与缓解系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "martinimarcello00/SRE-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "martinimarcello00/SRE-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

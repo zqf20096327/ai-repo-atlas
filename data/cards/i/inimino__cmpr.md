@@ -1,6 +1,6 @@
 # inimino/cmpr
 
-⭐ 20 · C · MIT · 推送 2026-05-27 · [GitHub](https://github.com/inimino/cmpr) · 个人维护
+⭐ 21 · C · MIT · 推送 2026-05-27 · [GitHub](https://github.com/inimino/cmpr) · 个人维护
 
 **面向 LLM agent 的代码数据库与编程框架**
 
@@ -43,13 +43,13 @@ CMPr 是一个代码数据库工具：通过 git clone 源码 make 编译安装�
 
 ```mermaid
 xychart-beta
-    title "inimino/cmpr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "inimino/cmpr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

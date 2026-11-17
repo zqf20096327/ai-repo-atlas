@@ -1,6 +1,6 @@
 # lofty14/restaurant-digitalization-blueprint
 
-⭐ 69 · MIT · 推送 2026-10-09 · [GitHub](https://github.com/lofty14/restaurant-digitalization-blueprint) · 组织维护 · 中文 README
+⭐ 71 · MIT · 推送 2026-10-09 · [GitHub](https://github.com/lofty14/restaurant-digitalization-blueprint) · 组织维护 · 中文 README
 
 **餐饮连锁数字化+AI 全景蓝图：自然语言方案供 AI 直接施工**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lofty14/restaurant-digitalization-blueprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "lofty14/restaurant-digitalization-blueprint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71, 71]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 71（+2）
 
 
 ---

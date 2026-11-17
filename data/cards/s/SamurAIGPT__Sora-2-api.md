@@ -1,6 +1,6 @@
 # SamurAIGPT/Sora-2-api
 
-⭐ 19 · MIT · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/Sora-2-api) · [官网](https://muapi.ai/playground/openai-sora-2-text-to-video) · 组织维护
+⭐ 20 · MIT · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/Sora-2-api) · [官网](https://muapi.ai/playground/openai-sora-2-text-to-video) · 组织维护
 
 **通过 muapi.ai 调用 OpenAI Sora 2 文生视频模型的 Python API 封装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/Sora-2-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "SamurAIGPT/Sora-2-api 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

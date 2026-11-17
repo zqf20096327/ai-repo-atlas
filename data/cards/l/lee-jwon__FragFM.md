@@ -1,6 +1,6 @@
 # lee-jwon/FragFM
 
-⭐ 23 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/lee-jwon/FragFM) · [官网](https://openreview.net/forum?id=tr6vRn2aPg) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/lee-jwon/FragFM) · [官网](https://openreview.net/forum?id=tr6vRn2aPg) · 组织维护
 
 **片段级离散流匹配的分子图生成框架与天然产物基准**
 
@@ -45,13 +45,13 @@ ICLR 2026 论文 FragFM 的官方实现：通过随机片段袋与无损粗到�
 
 ```mermaid
 xychart-beta
-    title "lee-jwon/FragFM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "lee-jwon/FragFM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

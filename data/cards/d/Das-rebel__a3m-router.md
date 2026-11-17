@@ -1,6 +1,6 @@
 # Das-rebel/a3m-router
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Das-rebel/a3m-router) · [官网](https://www.npmjs.com/package/adaptive-memory-multi-model-router) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Das-rebel/a3m-router) · [官网](https://das-rebel.github.io/a3m-router/) · 个人维护
 
 **自托管多模型 LLM 路由网关：按请求复杂度路由到低价提供商**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Das-rebel/a3m-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "Das-rebel/a3m-router 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

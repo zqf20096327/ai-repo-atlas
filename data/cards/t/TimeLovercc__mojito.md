@@ -1,6 +1,6 @@
 # TimeLovercc/mojito
 
-⭐ 120 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/TimeLovercc/mojito) · [官网](https://timelovercc.github.io/mojito/) · 个人维护 · 中文 README
+⭐ 120 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/TimeLovercc/mojito) · [官网](https://timelovercc.github.io/mojito/) · 个人维护 · 中文 README
 
 **自托管的自我进化个人助手：通过对话让 Claude Code 改写应用本身**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TimeLovercc/mojito 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
+    title "TimeLovercc/mojito 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 116 --> 123
-    line [118, 121, 122, 117, 119, 120, 120]
+    line [118, 121, 122, 117, 119, 120, 119, 120, 120]
 ```
 
-2026-10-18 118 → 2026-11-02 120（+2）
+2026-10-18 118 → 2026-11-17 120（+2）
 
 
 ---

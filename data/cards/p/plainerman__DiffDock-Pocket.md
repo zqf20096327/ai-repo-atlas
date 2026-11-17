@@ -1,6 +1,6 @@
 # plainerman/DiffDock-Pocket
 
-⭐ 45 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/plainerman/DiffDock-Pocket) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/plainerman/DiffDock-Pocket) · 组织维护
 
 **口袋级全原子分子对接扩散模型，支持侧链柔性**
 
@@ -44,13 +44,13 @@ DiffDock-Pocket 是在口袋（pocket）级别运行的全原子分子对接模�
 
 ```mermaid
 xychart-beta
-    title "plainerman/DiffDock-Pocket 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    title "plainerman/DiffDock-Pocket 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 43, 44, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 45（+2）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

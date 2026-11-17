@@ -1,6 +1,6 @@
 # photon-hq/advanced-imessage-kit
 
-⭐ 185 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/photon-hq/advanced-imessage-kit) · [官网](https://photon.codes) · 组织维护
+⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/photon-hq/advanced-imessage-kit) · [官网](https://photon.codes) · 组织维护
 
 **iMessage 自动化 TypeScript SDK（已停止维护）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "photon-hq/advanced-imessage-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 184 --> 186
-    line [185, 185]
+    title "photon-hq/advanced-imessage-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 183 --> 186
+    line [185, 184, 184]
 ```
 
-2026-10-18 185 → 2026-11-02 185（+0）
+2026-10-18 185 → 2026-11-17 184（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kolenaIO/kolena
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/kolenaIO/kolena) · [官网](https://docs.kolena.io) · 组织维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/kolenaIO/kolena) · [官网](https://docs.kolena.io) · 组织维护
 
 **Kolena 机器学习测试平台的 Python 客户端库**
 
@@ -43,13 +43,13 @@ kolena 是 kolenaIO 维护的 Python 客户端库，用于以编程方式接入 
 
 ```mermaid
 xychart-beta
-    title "kolenaIO/kolena 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "kolenaIO/kolena 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

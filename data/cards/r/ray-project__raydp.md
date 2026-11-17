@@ -1,6 +1,6 @@
 # ray-project/raydp
 
-⭐ 380 · Scala · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/ray-project/raydp) · 组织维护
+⭐ 381 · Scala · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/ray-project/raydp) · 组织维护
 
 **在 Ray 上运行 Spark 并衔接 AI 训练库的 Python API**
 
@@ -44,13 +44,13 @@ RayDP 提供 API 将 Spark 运行于 Ray 之上（Ray 作为 Spark 资源管理�
 
 ```mermaid
 xychart-beta
-    title "ray-project/raydp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 378 --> 381
-    line [379, 380, 380]
+    title "ray-project/raydp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 378 --> 382
+    line [379, 380, 379, 381, 381]
 ```
 
-2026-10-18 379 → 2026-11-02 380（+1）
+2026-10-18 379 → 2026-11-17 381（+2）
 
 
 ---

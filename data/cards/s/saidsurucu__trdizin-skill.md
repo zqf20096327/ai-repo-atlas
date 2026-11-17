@@ -1,6 +1,6 @@
 # saidsurucu/trdizin-skill
 
-⭐ 40 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/saidsurucu/trdizin-skill) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/saidsurucu/trdizin-skill) · 个人维护
 
 **TR Dizin 学术检索 agent 技能：自然语言查土耳其学术文献**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "saidsurucu/trdizin-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "saidsurucu/trdizin-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

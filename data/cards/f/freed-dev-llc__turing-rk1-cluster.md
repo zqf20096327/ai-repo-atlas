@@ -1,6 +1,6 @@
 # freed-dev-llc/turing-rk1-cluster
 
-⭐ 11 · Shell · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/freed-dev-llc/turing-rk1-cluster) · [官网](https://github.com/freed-dev-llc/turing-rk1-cluster) · 组织维护
+⭐ 11 · Shell · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/freed-dev-llc/turing-rk1-cluster) · [官网](https://github.com/freed-dev-llc/turing-rk1-cluster) · 组织维护
 
 **Turing RK1 四节点裸机 Kubernetes 集群的部署与运维配置库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "freed-dev-llc/turing-rk1-cluster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

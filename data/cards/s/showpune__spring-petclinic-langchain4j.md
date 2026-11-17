@@ -1,6 +1,6 @@
 # showpune/spring-petclinic-langchain4j
 
-⭐ 15 · CSS · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/showpune/spring-petclinic-langchain4j) · 个人维护
+⭐ 15 · CSS · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/showpune/spring-petclinic-langchain4j) · 个人维护
 
 **Langchain4j 集成示例：宠物诊所应用带 AI 聊天助手**
 
@@ -45,12 +45,12 @@ Spring PetClinic 示例应用的 Langchain4j 版本，展示在 Spring Boot 中�
 ```mermaid
 xychart-beta
     title "showpune/spring-petclinic-langchain4j 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

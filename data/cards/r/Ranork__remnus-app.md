@@ -1,6 +1,6 @@
 # Ranork/remnus-app
 
-⭐ 74 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Ranork/remnus-app) · [官网](https://remnus.com) · 个人维护
+⭐ 75 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Ranork/remnus-app) · [官网](https://remnus.com) · 个人维护
 
 **人与 AI agent 协作的 MCP 原生工作区：页面/数据库/看板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ranork/remnus-app 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 71 --> 75
-    line [73, 72, 73, 74, 74]
+    title "Ranork/remnus-app 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 71 --> 76
+    line [73, 72, 73, 74, 72, 75, 75]
 ```
 
-2026-10-18 73 → 2026-11-02 74（+1）
+2026-10-18 73 → 2026-11-17 75（+2）
 
 
 ---

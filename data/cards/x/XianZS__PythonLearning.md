@@ -1,6 +1,6 @@
 # XianZS/PythonLearning
 
-⭐ 121 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/XianZS/PythonLearning) · [官网](https://xianzs.github.io/) · 个人维护 · 中文 README
+⭐ 131 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/XianZS/PythonLearning) · [官网](https://xianzs.github.io/) · 个人维护 · 中文 README
 
 **面向初学者的 Python 分阶段学习文档与代码仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "XianZS/PythonLearning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 109 --> 122
-    line [110, 113, 116, 117, 118, 120, 121]
+    title "XianZS/PythonLearning 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 108 --> 133
+    line [110, 113, 116, 117, 118, 120, 121, 116, 128, 129, 130, 131, 131]
 ```
 
-2026-10-18 110 → 2026-11-02 121（+11）
+2026-10-18 110 → 2026-11-17 131（+21）
 
 
 ---

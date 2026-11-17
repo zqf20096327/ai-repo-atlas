@@ -1,6 +1,6 @@
 # zach-blumenfeld/knowledge-index
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/zach-blumenfeld/knowledge-index) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/zach-blumenfeld/knowledge-index) · 个人维护
 
 **Markdown 知识库的图索引搜索引擎，供 CLI 与 AI agent 检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zach-blumenfeld/knowledge-index 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "zach-blumenfeld/knowledge-index 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

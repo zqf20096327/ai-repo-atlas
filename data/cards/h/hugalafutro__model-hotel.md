@@ -1,6 +1,6 @@
 # hugalafutro/model-hotel
 
-⭐ 57 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hugalafutro/model-hotel) · 个人维护
+⭐ 58 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hugalafutro/model-hotel) · 个人维护
 
 **多供应商 LLM 网关：统一 OpenAI 兼容端点、自动故障转移**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "hugalafutro/model-hotel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "hugalafutro/model-hotel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

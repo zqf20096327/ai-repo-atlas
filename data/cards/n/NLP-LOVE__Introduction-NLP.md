@@ -1,6 +1,6 @@
 # NLP-LOVE/Introduction-NLP
 
-⭐ 2,273 · Python · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/Introduction-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
+⭐ 2,272 · Python · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/Introduction-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
 
 **《自然语言处理入门》一书的学习笔记与知识梳理**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "NLP-LOVE/Introduction-NLP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "NLP-LOVE/Introduction-NLP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-16", "2026-11-17"]
     y-axis "stars" 2271 --> 2275
-    line [2272, 2273, 2274, 2273, 2273]
+    line [2272, 2273, 2274, 2273, 2272, 2272]
 ```
 
-2026-10-18 2,272 → 2026-11-02 2,273（+1）
+2026-10-18 2,272 → 2026-11-17 2,272（+0）
 
 
 ---

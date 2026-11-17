@@ -1,6 +1,6 @@
 # kardaneh/IPSL-AID
 
-⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/kardaneh/IPSL-AID) · [官网](https://kardaneh.github.io/IPSL-AID/index.html) · 组织维护
+⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/kardaneh/IPSL-AID) · [官网](https://kardaneh.github.io/IPSL-AID/index.html) · 组织维护
 
 **面向 GPU 集群/HPC 的气候数据降尺度扩散模型研究框架**
 
@@ -46,12 +46,12 @@ IPSL-AID 是基于扩散模型的气候数据降尺度研究框架，面向 GPU 
 ```mermaid
 xychart-beta
     title "kardaneh/IPSL-AID 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

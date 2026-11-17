@@ -1,6 +1,6 @@
 # KimangKhenng/Traffic-SImulation-and-Visualization
 
-⭐ 55 · C++ · GPL-3.0 · 推送 2025-11-08 · [GitHub](https://github.com/KimangKhenng/Traffic-SImulation-and-Visualization) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **C++/Qt5 编写的十字路口交通仿真与可视化桌面软件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KimangKhenng/Traffic-SImulation-and-Visualization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-07 55（+0）
 
 
 ---

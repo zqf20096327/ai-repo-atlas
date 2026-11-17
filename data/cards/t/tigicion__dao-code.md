@@ -1,6 +1,6 @@
 # tigicion/dao-code
 
-⭐ 786 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tigicion/dao-code) · [官网](https://www.npmjs.com/package/dao-code) · 个人维护 · 中文 README
+⭐ 787 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tigicion/dao-code) · [官网](https://www.npmjs.com/package/dao-code) · 个人维护 · 中文 README
 
 **面向 DeepSeek V4 的终端 AI 编程助手（命令 dao）**
 
@@ -44,13 +44,13 @@ TypeScript 编写的终端编程 agent：读取/编写代码、运行命令、�
 
 ```mermaid
 xychart-beta
-    title "tigicion/dao-code 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-02"]
+    title "tigicion/dao-code 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-17"]
     y-axis "stars" 785 --> 790
-    line [788, 789, 788, 787, 788, 786, 786]
+    line [788, 789, 788, 787, 788, 786, 787, 786, 787, 787]
 ```
 
-2026-10-18 788 → 2026-11-02 786（-2）
+2026-10-18 788 → 2026-11-17 787（-1）
 
 
 ---

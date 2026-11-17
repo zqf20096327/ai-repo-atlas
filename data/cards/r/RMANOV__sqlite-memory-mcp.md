@@ -1,6 +1,6 @@
 # RMANOV/sqlite-memory-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/RMANOV/sqlite-memory-mcp) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/RMANOV/sqlite-memory-mcp) · 个人维护
 
 **面向编码 agent 的 SQLite 跨 agent 记忆 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RMANOV/sqlite-memory-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

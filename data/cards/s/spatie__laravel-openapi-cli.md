@@ -1,6 +1,6 @@
 # spatie/laravel-openapi-cli
 
-⭐ 42 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/spatie/laravel-openapi-cli) · [官网](https://spatie.be/open-source) · 组织维护
+⭐ 43 · PHP · MIT · 推送 2026-11-06 · [GitHub](https://github.com/spatie/laravel-openapi-cli) · [官网](https://spatie.be/open-source) · 组织维护
 
 **把 OpenAPI 规格生成为 Laravel artisan 命令的 CLI 工具包**
 
@@ -42,13 +42,13 @@ spatie 维护的 Laravel 扩展包：读取 OpenAPI 规格文件（YAML，可来
 
 ```mermaid
 xychart-beta
-    title "spatie/laravel-openapi-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "spatie/laravel-openapi-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

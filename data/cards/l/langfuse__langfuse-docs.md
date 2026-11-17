@@ -1,6 +1,6 @@
 # langfuse/langfuse-docs
 
-⭐ 248 · MDX · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langfuse/langfuse-docs) · [官网](https://langfuse.com/docs) · 组织维护
+⭐ 253 · MDX · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langfuse/langfuse-docs) · [官网](https://langfuse.com/docs) · 组织维护
 
 **Langfuse 平台的文档站仓库，含面向 LLM 的文档特性**
 
@@ -44,13 +44,13 @@ Langfuse（开源 agent 评测与可观测平台）的官方文档站点仓库�
 
 ```mermaid
 xychart-beta
-    title "langfuse/langfuse-docs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 245 --> 249
-    line [246, 248, 247, 248, 248]
+    title "langfuse/langfuse-docs 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 245 --> 254
+    line [246, 248, 247, 248, 247, 250, 251, 253, 253]
 ```
 
-2026-10-18 246 → 2026-11-02 248（+2）
+2026-10-18 246 → 2026-11-17 253（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Octane0411/opencode-plugin-openspec
 
-⭐ 167 · TypeScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/Octane0411/opencode-plugin-openspec) · 个人维护
+⭐ 168 · TypeScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/Octane0411/opencode-plugin-openspec) · 个人维护
 
 **OpenCode 插件：新增 openspec-plan 模式专用于规格规划**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Octane0411/opencode-plugin-openspec 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 163 --> 168
-    line [164, 165, 166, 167, 167]
+    title "Octane0411/opencode-plugin-openspec 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 163 --> 169
+    line [164, 165, 166, 167, 166, 167, 168, 168]
 ```
 
-2026-10-18 164 → 2026-11-02 167（+3）
+2026-10-18 164 → 2026-11-17 168（+4）
 
 
 ---

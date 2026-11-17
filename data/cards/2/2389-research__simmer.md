@@ -1,6 +1,6 @@
 # 2389-research/simmer
 
-⭐ 16 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/2389-research/simmer) · [官网](https://2389.ai/research/products/simmer/) · 组织维护
+⭐ 16 · MIT · 推送 2026-11-02 · [GitHub](https://github.com/2389-research/simmer) · [官网](https://2389.ai/research/products/simmer/) · 组织维护
 
 **Claude Code 插件：用多评委迭代循环精炼任意工件或工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2389-research/simmer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

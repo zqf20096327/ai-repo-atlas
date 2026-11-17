@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Twins
 
-⭐ 39 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/Tencent-Hunyuan/Twins) · 组织维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/Tencent-Hunyuan/Twins) · 组织维护 · 中文 README
 
 **ICML 2026 论文代码：focal loss 训练统一表示的扩散生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Twins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "Tencent-Hunyuan/Twins 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

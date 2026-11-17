@@ -1,6 +1,6 @@
 # rootsongjc/ai-native-landscape
 
-⭐ 39 · Astro · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rootsongjc/ai-native-landscape) · [官网](https://landscape.jimmysong.io) · 个人维护 · 中文 README
+⭐ 41 · Astro · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rootsongjc/ai-native-landscape) · [官网](https://landscape.jimmysong.io) · 个人维护 · 中文 README
 
 **手工策展的开源 AI Native 项目清单站（600+ 项目）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rootsongjc/ai-native-landscape 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "rootsongjc/ai-native-landscape 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 38, 40, 41, 41]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 41（+3）
 
 
 ---

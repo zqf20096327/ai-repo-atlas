@@ -1,6 +1,6 @@
 # koreainvestment/open-trading-api
 
-⭐ 1,656 · Python · 推送 2026-10-27 · [GitHub](https://github.com/koreainvestment/open-trading-api) · [官网](https://apiportal.koreainvestment.com) · 组织维护 · 中文 README
+⭐ 1,673 · Python · 推送 2026-11-16 · [GitHub](https://github.com/koreainvestment/open-trading-api) · [官网](https://apiportal.koreainvestment.com) · 组织维护 · 中文 README
 
 **韩国投资证券 Open API 官方示例代码库，供开发者和 LLM 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "koreainvestment/open-trading-api 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1648 --> 1659
-    line [1649, 1653, 1654, 1653, 1655, 1657, 1658, 1656, 1656]
+    title "koreainvestment/open-trading-api 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1647 --> 1675
+    line [1649, 1653, 1654, 1653, 1655, 1657, 1658, 1656, 1654, 1661, 1662, 1664, 1667, 1669, 1671, 1673, 1673]
 ```
 
-2026-10-18 1,649 → 2026-11-02 1,656（+7）
+2026-10-18 1,649 → 2026-11-17 1,673（+24）
 
 
 ---

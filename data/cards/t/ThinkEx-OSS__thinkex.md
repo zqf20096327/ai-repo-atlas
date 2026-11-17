@@ -1,6 +1,6 @@
 # ThinkEx-OSS/thinkex
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ThinkEx-OSS/thinkex) · [官网](https://thinkex.app) · 组织维护
+⭐ 55 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ThinkEx-OSS/thinkex) · [官网](https://thinkex.app) · 组织维护
 
 **面向研究学习的源材料工作台：文档与 AI 对话并排**
 
@@ -46,12 +46,12 @@ ThinkEx 是一个面向源材料密集型学习与研究的全栈 TypeScript 工
 ```mermaid
 xychart-beta
     title "ThinkEx-OSS/thinkex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 55（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # YuanchenBei/Awesome-Graphs-Meet-Agents
 
-⭐ 211 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents) · [官网](https://arxiv.org/pdf/2506.18019) · 个人维护
+⭐ 212 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents) · [官网](https://arxiv.org/pdf/2506.18019) · 个人维护
 
 **图与智能体交叉领域的论文资源清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YuanchenBei/Awesome-Graphs-Meet-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 210 --> 212
-    line [211, 211]
+    title "YuanchenBei/Awesome-Graphs-Meet-Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 210 --> 213
+    line [211, 212, 212]
 ```
 
-2026-10-18 211 → 2026-11-02 211（+0）
+2026-10-18 211 → 2026-11-17 212（+1）
 
 
 ---

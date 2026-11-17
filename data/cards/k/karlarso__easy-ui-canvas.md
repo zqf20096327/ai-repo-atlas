@@ -1,6 +1,6 @@
 # karlarso/easy-ui-canvas
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/karlarso/easy-ui-canvas) · 个人维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/karlarso/easy-ui-canvas) · 个人维护 · 中文 README
 
 **本地多帧 UI 设计画布：评论元素、点击走流程，AI 编码代理接单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "karlarso/easy-ui-canvas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "karlarso/easy-ui-canvas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

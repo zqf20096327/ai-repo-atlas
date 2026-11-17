@@ -1,6 +1,6 @@
 # TokenHungryMash/personalized-travel-guide-skill
 
-⭐ 79 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/TokenHungryMash/personalized-travel-guide-skill) · 个人维护 · 中文 README
+⭐ 81 · HTML · MIT · 推送 2026-11-13 · [GitHub](https://github.com/TokenHungryMash/personalized-travel-guide-skill) · 个人维护 · 中文 README
 
 **为 AI Agent 生成个性化移动端旅行攻略网页手册的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TokenHungryMash/personalized-travel-guide-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79]
+    title "TokenHungryMash/personalized-travel-guide-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 78, 79, 78, 80, 81, 81]
 ```
 
-2026-10-18 76 → 2026-11-02 79（+3）
+2026-10-18 76 → 2026-11-17 81（+5）
 
 
 ---

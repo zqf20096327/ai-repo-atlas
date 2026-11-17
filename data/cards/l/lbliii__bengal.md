@@ -1,6 +1,6 @@
 # lbliii/bengal
 
-⭐ 51 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/lbliii/bengal) · [官网](https://lbliii.github.io/bengal/) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/lbliii/bengal) · [官网](https://lbliii.github.io/bengal/) · 个人维护
 
 **Python 3.14+ 免费线程化的静态文档/站点生成器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lbliii/bengal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "lbliii/bengal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    line [50, 51, 50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 50（+0）
 
 
 ---

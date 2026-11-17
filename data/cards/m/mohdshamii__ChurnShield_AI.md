@@ -1,6 +1,6 @@
 # mohdshamii/ChurnShield_AI
 
-⭐ 15 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/mohdshamii/ChurnShield_AI) · 个人维护
+⭐ 16 · Jupyter Notebook · 推送 2026-11-03 · [GitHub](https://github.com/mohdshamii/ChurnShield_AI) · 个人维护
 
 **电信客户流失预测系统：多模型集成与挽留策略推荐**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohdshamii/ChurnShield_AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "mohdshamii/ChurnShield_AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

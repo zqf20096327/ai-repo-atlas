@@ -1,6 +1,6 @@
 # theam/limina
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/theam/limina) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/theam/limina) · 组织维护
 
 **给研究/工程团队的自主研究运行时：让 AI agent 假设-实验-迭代**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "theam/limina 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "theam/limina 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

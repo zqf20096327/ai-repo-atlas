@@ -1,6 +1,6 @@
 # wjq-learning/EEGMamba
 
-⭐ 102 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/wjq-learning/EEGMamba) · [官网](https://www.sciencedirect.com/science/article/pii/S0893608025006963) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向临床与 BCI 的 EEG 基础模型（Mamba 架构）及预训练/微调代码**
 
@@ -11,7 +11,7 @@ EEGMamba 是基于 Mamba 状态空间模型的脑电（EEG）基础模型，用�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ EEGMamba 是基于 Mamba 状态空间模型的脑电（EEG）基础模型，用�
 
 ```mermaid
 xychart-beta
-    title "wjq-learning/EEGMamba 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "wjq-learning/EEGMamba 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12"]
     y-axis "stars" 99 --> 103
-    line [100, 101, 102]
+    line [100, 101, 102, 101, 102, 102]
 ```
 
-2026-10-18 100 → 2026-11-02 102（+2）
+2026-10-18 100 → 2026-11-12 102（+2）
 
 
 ---

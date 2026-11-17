@@ -1,6 +1,6 @@
 # langfuse/langfuse-cli
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langfuse/langfuse-cli) · [官网](https://langfuse.com/docs/api-and-data-platform/features/cli) · 组织维护
+⭐ 69 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/langfuse/langfuse-cli) · [官网](https://langfuse.com/docs/api-and-data-platform/features/cli) · 组织维护
 
 **Langfuse API 的命令行客户端，面向 AI agent 与高级用户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langfuse/langfuse-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "langfuse/langfuse-cli 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 64 --> 70
+    line [65, 66, 65, 68, 69, 69]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 69（+4）
 
 
 ---

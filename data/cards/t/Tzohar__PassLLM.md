@@ -1,6 +1,6 @@
 # Tzohar/PassLLM
 
-⭐ 129 · Python · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Tzohar/PassLLM) · 个人维护
+⭐ 132 · Python · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/Tzohar/PassLLM) · 个人维护
 
 **基于 LLM 的定向密码猜测框架，用 PII 生成目标候选密码**
 
@@ -45,13 +45,13 @@ USENIX Security 2025 论文《Password Guessing Using Large Language Models》�
 
 ```mermaid
 xychart-beta
-    title "Tzohar/PassLLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 124 --> 130
-    line [125, 126, 127, 128, 129, 129]
+    title "Tzohar/PassLLM 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 124 --> 133
+    line [125, 126, 127, 128, 129, 127, 130, 132, 132]
 ```
 
-2026-10-18 125 → 2026-11-02 129（+4）
+2026-10-18 125 → 2026-11-17 132（+7）
 
 
 ---

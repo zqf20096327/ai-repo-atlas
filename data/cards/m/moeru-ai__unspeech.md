@@ -1,6 +1,6 @@
 # moeru-ai/unspeech
 
-⭐ 108 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/moeru-ai/unspeech) · 组织维护
+⭐ 110 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/moeru-ai/unspeech) · 组织维护
 
 **统一多家在线 TTS 服务的 OpenAI 兼容 API 网关**
 
@@ -44,13 +44,13 @@ unSpeech 是一个用 Go 编写的自托管服务，将 OpenAI、Azure AI Speech
 
 ```mermaid
 xychart-beta
-    title "moeru-ai/unspeech 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 105 --> 109
-    line [106, 107, 108]
+    title "moeru-ai/unspeech 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 105 --> 111
+    line [106, 107, 108, 106, 109, 110, 110]
 ```
 
-2026-10-18 106 → 2026-11-02 108（+2）
+2026-10-18 106 → 2026-11-17 110（+4）
 
 
 ---

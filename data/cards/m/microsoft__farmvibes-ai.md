@@ -1,6 +1,6 @@
 # microsoft/farmvibes-ai
 
-⭐ 905 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/farmvibes-ai) · [官网](https://microsoft.github.io/farmvibes-ai/) · 组织维护
+⭐ 912 · Jupyter Notebook · MIT · 推送 2026-11-03 · [GitHub](https://github.com/microsoft/farmvibes-ai) · [官网](https://microsoft.github.io/farmvibes-ai/) · 组织维护
 
 **面向农业与可持续性的多模态地理空间 ML 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/farmvibes-ai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 900 --> 906
-    line [901, 902, 903, 904, 905, 904, 905, 905]
+    title "microsoft/farmvibes-ai 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 900 --> 913
+    line [901, 902, 903, 904, 905, 904, 905, 909, 910, 912, 912]
 ```
 
-2026-10-18 901 → 2026-11-02 905（+4）
+2026-10-18 901 → 2026-11-17 912（+11）
 
 
 ---

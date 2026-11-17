@@ -1,6 +1,6 @@
 # mallahyari/rag-ebook
 
-⭐ 95 · 推送 2026-06-03 · [GitHub](https://github.com/mallahyari/rag-ebook) · [官网](https://mallahyari.github.io/rag-ebook/) · 个人维护
+⭐ 97 · 推送 2026-06-03 · [GitHub](https://github.com/mallahyari/rag-ebook) · [官网](https://mallahyari.github.io/rag-ebook/) · 个人维护
 
 **RAG 系统实践电子书的 HTML 源码仓库**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "mallahyari/rag-ebook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    title "mallahyari/rag-ebook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 93 --> 98
+    line [94, 95, 97, 97]
 ```
 
-2026-10-18 94 → 2026-11-02 95（+1）
+2026-10-18 94 → 2026-11-17 97（+3）
 
 
 ---

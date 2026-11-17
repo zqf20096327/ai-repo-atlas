@@ -1,6 +1,6 @@
 # s4nniyusuf/nigerian-legal-corpus
 
-⭐ 14 · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/s4nniyusuf/nigerian-legal-corpus) · 个人维护
+⭐ 17 · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/s4nniyusuf/nigerian-legal-corpus) · 个人维护
 
 **尼日利亚法律文本语料库：为 RAG 与法律 NLP 提供结构化数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "s4nniyusuf/nigerian-legal-corpus 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 6 --> 15
-    line [7, 14]
+    title "s4nniyusuf/nigerian-legal-corpus 星数(近 6 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 6 --> 18
+    line [7, 14, 15, 16, 17, 17]
 ```
 
-2026-11-01 7 → 2026-11-02 14（+7）
+2026-11-01 7 → 2026-11-17 17（+10）
 
 
 ---

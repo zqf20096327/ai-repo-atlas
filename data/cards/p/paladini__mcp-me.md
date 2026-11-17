@@ -1,6 +1,6 @@
 # paladini/mcp-me
 
-⭐ 21 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/paladini/mcp-me) · [官网](https://mcp-me.page/) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/paladini/mcp-me) · [官网](https://mcp-me.page/) · 个人维护
 
 **让 AI 助手读取你个人档案的本地 MCP 服务器**
 
@@ -46,12 +46,12 @@ mcp-me 是一个本地运行的 Model Context Protocol (MCP) 服务器，为 Cla
 ```mermaid
 xychart-beta
     title "paladini/mcp-me 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

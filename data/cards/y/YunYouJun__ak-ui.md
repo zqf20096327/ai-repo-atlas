@@ -1,6 +1,6 @@
 # YunYouJun/ak-ui
 
-⭐ 66 · SCSS · MIT · 推送 2026-10-18 · [GitHub](https://github.com/YunYouJun/ak-ui) · [官网](https://ak-ui.yyj.moe) · 个人维护 · 中文 README
+⭐ 71 · SCSS · MIT · 推送 2026-10-18 · [GitHub](https://github.com/YunYouJun/ak-ui) · [官网](https://ak-ui.yyj.moe) · 个人维护 · 中文 README
 
 **明日方舟风格的 UI 设计令牌与 CSS 基础库，附 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YunYouJun/ak-ui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 62 --> 67
-    line [63, 64, 65, 66, 66]
+    title "YunYouJun/ak-ui 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 62 --> 72
+    line [63, 64, 65, 66, 64, 65, 66, 68, 69, 71, 71]
 ```
 
-2026-10-18 63 → 2026-11-02 66（+3）
+2026-10-18 63 → 2026-11-17 71（+8）
 
 
 ---

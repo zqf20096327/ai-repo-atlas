@@ -1,6 +1,6 @@
 # ashp15205/guardian-runtime
 
-⭐ 20 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/ashp15205/guardian-runtime) · [官网](https://ashp15205.github.io/guardian-runtime/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/ashp15205/guardian-runtime) · [官网](https://ashp15205.github.io/guardian-runtime/) · 个人维护
 
 **本地 LLM 代理防火墙：拦截提示词防泄密并管控 API 支出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashp15205/guardian-runtime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "ashp15205/guardian-runtime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

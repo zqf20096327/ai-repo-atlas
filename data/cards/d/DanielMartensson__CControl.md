@@ -1,6 +1,6 @@
 # DanielMartensson/CControl
 
-⭐ 287 · C · MIT · 推送 2026-06-15 · [GitHub](https://github.com/DanielMartensson/CControl) · 个人维护
+⭐ 290 · C · MIT · 推送 2026-06-15 · [GitHub](https://github.com/DanielMartensson/CControl) · 个人维护
 
 **面向嵌入式与桌面的 ANSI C 控制/视觉/机器学习算法库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DanielMartensson/CControl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 286 --> 288
-    line [287, 287]
+    title "DanielMartensson/CControl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 286 --> 291
+    line [287, 288, 290, 290]
 ```
 
-2026-10-18 287 → 2026-11-02 287（+0）
+2026-10-18 287 → 2026-11-17 290（+3）
 
 
 ---

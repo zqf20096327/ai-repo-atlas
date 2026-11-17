@@ -1,6 +1,6 @@
 # hamza01055/hamza-voice-studio
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/hamza01055/hamza-voice-studio) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地离线 TTS 语音制作工作室：写作、生成、多 take 编辑与导出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hamza01055/hamza-voice-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-10"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-10 27（-1）
 
 
 ---

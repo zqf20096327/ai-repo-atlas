@@ -1,6 +1,6 @@
 # EricRollei/comfyui-refocus
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/EricRollei/comfyui-refocus) · [官网](http://historic.camera) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/EricRollei/comfyui-refocus) · [官网](http://historic.camera) · 个人维护
 
 **ComfyUI 节点集：生成式重新对焦、去模糊与景深估计**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点集，封装 Genfocus 生成式重对焦管线：DeblurNe
 
 ```mermaid
 xychart-beta
-    title "EricRollei/comfyui-refocus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "EricRollei/comfyui-refocus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    line [21, 22, 23, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

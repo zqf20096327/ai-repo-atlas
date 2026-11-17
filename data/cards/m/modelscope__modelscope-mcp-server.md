@@ -44,13 +44,13 @@ ModelScope 官方维护的 MCP 服务器，基于 FastMCP v2 构建，向 AI age
 
 ```mermaid
 xychart-beta
-    title "modelscope/modelscope-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "modelscope/modelscope-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 24 --> 27
-    line [26, 25, 25]
+    line [26, 25, 26, 25, 25]
 ```
 
-2026-10-18 26 → 2026-11-02 25（-1）
+2026-10-18 26 → 2026-11-17 25（-1）
 
 
 ---

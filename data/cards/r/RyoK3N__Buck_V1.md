@@ -1,6 +1,6 @@
 # RyoK3N/Buck_V1
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/RyoK3N/Buck_V1) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/RyoK3N/Buck_V1) · 个人维护
 
 **面向股票的 LLM 分析 agent：预测次日 OHLC 价格**
 
@@ -44,13 +44,13 @@ Buck 是一个股票分析 agent：抓取 OHLCV 数据，运行可配置的技�
 
 ```mermaid
 xychart-beta
-    title "RyoK3N/Buck_V1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "RyoK3N/Buck_V1 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

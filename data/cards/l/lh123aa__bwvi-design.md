@@ -1,6 +1,6 @@
 # lh123aa/bwvi-design
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/lh123aa/bwvi-design) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/lh123aa/bwvi-design) · 个人维护 · 中文 README
 
 **给 AI Agent 的设计决策协议：CLI + MCP 设计决策层**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lh123aa/bwvi-design 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "lh123aa/bwvi-design 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 21, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

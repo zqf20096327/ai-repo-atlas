@@ -1,6 +1,6 @@
 # scitix/siclaw
 
-⭐ 238 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/scitix/siclaw) · [官网](https://siclaw.ai) · 组织维护
+⭐ 239 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/scitix/siclaw) · [官网](https://siclaw.ai) · 组织维护
 
 **面向 DevOps/SRE 团队的只读基础设施诊断 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "scitix/siclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 237 --> 239
-    line [238, 238]
+    title "scitix/siclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 237 --> 240
+    line [238, 239, 239]
 ```
 
-2026-10-18 238 → 2026-11-02 238（+0）
+2026-10-18 238 → 2026-11-17 239（+1）
 
 
 ---

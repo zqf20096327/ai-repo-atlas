@@ -1,6 +1,6 @@
 # 315386775/DeepLearing-Interview-Awesome-2024
 
-⭐ 2,890 · 推送 2026-03-05 · [GitHub](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) · 个人维护 · 中文 README
+⭐ 2,888 · 推送 2026-03-05 · [GitHub](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) · 个人维护 · 中文 README
 
 **深度学习/大模型面试题与解析合集（6大专题）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "315386775/DeepLearing-Interview-Awesome-2024 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 2889 --> 2892
-    line [2890, 2891, 2890, 2890]
+    title "315386775/DeepLearing-Interview-Awesome-2024 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 2887 --> 2892
+    line [2890, 2891, 2890, 2891, 2888, 2888]
 ```
 
-2026-10-18 2,890 → 2026-11-02 2,890（+0）
+2026-10-18 2,890 → 2026-11-17 2,888（-2）
 
 
 ---

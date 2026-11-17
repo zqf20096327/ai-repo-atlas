@@ -1,6 +1,6 @@
 # KryptosAI/mcp-observatory
 
-⭐ 135 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/KryptosAI/mcp-observatory) · [官网](https://clearframecode.com/observatory/?utm_source=mcp-observatory&utm_medium=github&utm_campaign=opensource) · 组织维护 · 中文 README
+⭐ 121 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/KryptosAI/mcp-observatory) · [官网](https://clearframecode.com/observatory/?utm_source=mcp-observatory&utm_medium=github&utm_campaign=opensource) · 组织维护 · 中文 README
 
 **MCP 服务器安全测试与审计工具，面向发布 MCP 服务器的团队**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KryptosAI/mcp-observatory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 134 --> 143
-    line [142, 136, 135, 135]
+    title "KryptosAI/mcp-observatory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 118 --> 144
+    line [142, 136, 135, 120, 121, 121]
 ```
 
-2026-10-18 142 → 2026-11-02 135（-7）
+2026-10-18 142 → 2026-11-17 121（-21）
 
 
 ---

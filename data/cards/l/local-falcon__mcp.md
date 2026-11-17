@@ -1,6 +1,6 @@
 # local-falcon/mcp
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/local-falcon/mcp) · [官网](https://www.localfalcon.com/features/mcp) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/local-falcon/mcp) · [官网](https://www.localfalcon.com/features/mcp) · 组织维护
 
 **将 Local Falcon 本地 SEO 平台接入 MCP 客户端的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "local-falcon/mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "local-falcon/mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 24, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

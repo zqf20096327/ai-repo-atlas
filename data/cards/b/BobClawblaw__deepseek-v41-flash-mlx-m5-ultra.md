@@ -1,6 +1,6 @@
 # BobClawblaw/deepseek-v41-flash-mlx-m5-ultra
 
-⭐ 13 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BobClawblaw/deepseek-v41-flash-mlx-m5-ultra) · [官网](https://huggingface.co/BobClawblaw/DeepSeek-V4.1-Flash-1017-TensorFold-e2e3-p4-h8) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BobClawblaw/deepseek-v41-flash-mlx-m5-ultra) · [官网](https://huggingface.co/BobClawblaw/DeepSeek-V4.1-Flash-1017-TensorFold-e2e3-p4-h8) · 个人维护
 
 **在单台 256GB M5 Ultra 上用 Metal 推理引擎服务 DeepSeek-V4.1-Flash**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BobClawblaw/deepseek-v41-flash-mlx-m5-ultra 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 2 --> 14
-    line [3, 5, 9, 10, 13, 13]
+    title "BobClawblaw/deepseek-v41-flash-mlx-m5-ultra 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2 --> 17
+    line [3, 5, 9, 10, 13, 14, 15, 16, 16]
 ```
 
-2026-10-26 3 → 2026-11-02 13（+10）
+2026-10-26 3 → 2026-11-17 16（+13）
 
 
 ---

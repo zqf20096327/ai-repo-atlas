@@ -1,6 +1,6 @@
 # wei18/Upkeep
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wei18/Upkeep) · [官网](https://github.com/wei18/Upkeep/releases/latest) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/wei18/Upkeep) · [官网](https://github.com/wei18/Upkeep/releases/latest) · 个人维护 · 中文 README
 
 **AI 审计团队技能：检测仓库文档/规范/资源漂移**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wei18/Upkeep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "wei18/Upkeep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

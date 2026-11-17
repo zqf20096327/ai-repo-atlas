@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/python-utcp
 
-⭐ 654 · Python · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/universal-tool-calling-protocol/python-utcp) · [官网](https://www.utcp.io/) · 组织维护
+⭐ 672 · Python · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/universal-tool-calling-protocol/python-utcp) · [官网](https://www.utcp.io/) · 组织维护
 
 **让 AI agent 直接调用各类 API 的工具调用协议 Python 实现**
 
@@ -45,13 +45,13 @@ UTCP 是一个开放的工具调用协议，此仓库为其官方 Python 实现�
 
 ```mermaid
 xychart-beta
-    title "universal-tool-calling-protocol/python-utcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 651 --> 655
-    line [653, 652, 653, 654, 654]
+    title "universal-tool-calling-protocol/python-utcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 650 --> 674
+    line [653, 652, 653, 654, 653, 667, 671, 672, 672]
 ```
 
-2026-10-18 653 → 2026-11-02 654（+1）
+2026-10-18 653 → 2026-11-17 672（+19）
 
 
 ---

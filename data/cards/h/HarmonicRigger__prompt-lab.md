@@ -1,6 +1,6 @@
 # HarmonicRigger/prompt-lab
 
-⭐ 20 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HarmonicRigger/prompt-lab) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 本地模型的提示词测试台：变量矩阵、版本对比、批量运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HarmonicRigger/prompt-lab 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-07"]
     y-axis "stars" 14 --> 21
     line [15, 17, 19, 20, 20]
 ```
 
-2026-10-22 15 → 2026-11-02 20（+5）
+2026-10-22 15 → 2026-11-07 20（+5）
 
 
 ---

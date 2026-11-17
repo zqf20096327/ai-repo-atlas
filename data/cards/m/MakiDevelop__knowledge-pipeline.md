@@ -1,6 +1,6 @@
 # MakiDevelop/knowledge-pipeline
 
-⭐ 16 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/MakiDevelop/knowledge-pipeline) · [官网](https://github.com/MakiDevelop/knowledge-pipeline) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/MakiDevelop/knowledge-pipeline) · [官网](https://github.com/MakiDevelop/knowledge-pipeline) · 个人维护 · 中文 README
 
 **为 AI 代理提供评分与路由的 6 层确定性知识管线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MakiDevelop/knowledge-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "MakiDevelop/knowledge-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

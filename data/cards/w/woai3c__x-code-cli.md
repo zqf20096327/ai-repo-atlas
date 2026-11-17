@@ -1,6 +1,6 @@
 # woai3c/x-code-cli
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/woai3c/x-code-cli) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/woai3c/x-code-cli) · 个人维护 · 中文 README
 
 **模型无关的编码 agent CLI，兼容 Claude Code 扩展生态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "woai3c/x-code-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "woai3c/x-code-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 50（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bentoml/BentoLangGraph
 
-⭐ 13 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoLangGraph) · 组织维护
+⭐ 13 · Python · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoLangGraph) · 组织维护
 
 **用 BentoML 将 LangGraph Agent 部署为 REST API 的示例项目**
 
@@ -45,12 +45,12 @@ BentoML 官方参考实现，演示如何将 LangGraph Agent 应用以 REST API 
 ```mermaid
 xychart-beta
     title "bentoml/BentoLangGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

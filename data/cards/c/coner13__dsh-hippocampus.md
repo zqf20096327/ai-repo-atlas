@@ -1,6 +1,6 @@
 # coner13/dsh-hippocampus
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/coner13/dsh-hippocampus) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为 DSH 提供“自动记、按线索想、会变淡”的长期记忆插件**
 
@@ -11,7 +11,7 @@ DeepSeek Harness（DSH）的会话长期记忆插件：每一轮对话与工具�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Dominion-Academy/RAG-Complete-Guide
 
-⭐ 12 · Python · 推送 2026-10-26 · [GitHub](https://github.com/Dominion-Academy/RAG-Complete-Guide) · 组织维护
+⭐ 14 · Python · 推送 2026-10-26 · [GitHub](https://github.com/Dominion-Academy/RAG-Complete-Guide) · 组织维护
 
 **面向 LLM 应用开发者的 RAG 多路线教学课程仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dominion-Academy/RAG-Complete-Guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "Dominion-Academy/RAG-Complete-Guide 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

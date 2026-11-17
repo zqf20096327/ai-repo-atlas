@@ -1,6 +1,6 @@
 # mingdui/ming-qa
 
-⭐ 43 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mingdui/ming-qa) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/mingdui/ming-qa) · 个人维护 · 中文 README
 
 **端到端 QA 验收编排技能：上下文到报告自动衔接，用例处人工把关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mingdui/ming-qa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43]
+    title "mingdui/ming-qa 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 43, 42, 43, 44, 44]
 ```
 
-2026-10-18 41 → 2026-11-02 43（+2）
+2026-10-18 41 → 2026-11-17 44（+3）
 
 
 ---

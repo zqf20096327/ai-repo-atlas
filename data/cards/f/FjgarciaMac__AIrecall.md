@@ -1,6 +1,6 @@
 # FjgarciaMac/AIrecall
 
-⭐ 30 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/FjgarciaMac/AIrecall) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/FjgarciaMac/AIrecall) · 个人维护
 
 **给 AI agent 的长期记忆层：情节+语义记忆与混合检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FjgarciaMac/AIrecall 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 28 --> 59
-    line [57, 31, 30, 30]
+    title "FjgarciaMac/AIrecall 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 26 --> 59
+    line [57, 31, 30, 31, 29, 28, 28]
 ```
 
-2026-10-18 57 → 2026-11-02 30（-27）
+2026-10-18 57 → 2026-11-17 28（-29）
 
 
 ---

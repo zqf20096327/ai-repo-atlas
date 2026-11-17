@@ -1,6 +1,6 @@
 # sanbei101/Tarocard
 
-⭐ 53 · Vue · 推送 2026-10-30 · [GitHub](https://github.com/sanbei101/Tarocard) · [官网](https://tarocard.pages.dev) · 个人维护 · 中文 README
+⭐ 52 · Vue · 推送 2026-11-16 · [GitHub](https://github.com/sanbei101/Tarocard) · [官网](https://tarocard.pages.dev) · 个人维护 · 中文 README
 
 **给塔罗牌爱好者的 Vue 3 塔罗牌 AI 预测趣味应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanbei101/Tarocard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [54, 53, 53]
+    title "sanbei101/Tarocard 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 55
+    line [54, 53, 54, 52, 52]
 ```
 
-2026-10-18 54 → 2026-11-02 53（-1）
+2026-10-18 54 → 2026-11-17 52（-2）
 
 
 ---

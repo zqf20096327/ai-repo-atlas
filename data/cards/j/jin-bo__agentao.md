@@ -1,6 +1,6 @@
 # jin-bo/agentao
 
-⭐ 310 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
+⭐ 313 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
 
 **面向 Python 开发者的本地优先受治理 AI agent 运行时**
 
@@ -45,13 +45,13 @@ Agentao 是一个可嵌入 Python 应用的受治理 agent 运行时（Governed 
 
 ```mermaid
 xychart-beta
-    title "jin-bo/agentao 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 308 --> 311
-    line [309, 310, 310]
+    title "jin-bo/agentao 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 308 --> 314
+    line [309, 310, 311, 312, 313, 313]
 ```
 
-2026-10-18 309 → 2026-11-02 310（+1）
+2026-10-18 309 → 2026-11-17 313（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # izzzzzi/agent-assh
 
-⭐ 21 · Go · MIT · 推送 2026-08-10 · [GitHub](https://github.com/izzzzzi/agent-assh) · 个人维护 · 中文 README
+⭐ 22 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/izzzzzi/agent-assh) · 个人维护 · 中文 README
 
 **为 LLM agent 准备的 SSH 工作流工具，节省上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "izzzzzi/agent-assh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "izzzzzi/agent-assh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

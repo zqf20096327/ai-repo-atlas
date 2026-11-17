@@ -1,6 +1,6 @@
 # dremio/dremio-mcp
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dremio/dremio-mcp) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/dremio/dremio-mcp) · 组织维护
 
 **连接 Dremio 数据平台的 MCP server，供 LLM 查询数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dremio/dremio-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 53（+0）
 
 
 ---

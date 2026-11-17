@@ -1,6 +1,6 @@
 # Vepricov/claude-brainlab
 
-⭐ 35 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Vepricov/claude-brainlab) · [官网](https://vepricov.github.io/claude-brainlab/lab-showcase/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **研究实验室的 Claude Code 配置包：67 个技能+钩子+git 知识库**
 
@@ -11,7 +11,7 @@ BRAIn 实验室在用的 Claude Code 工作台配置，打包供其他实验室�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

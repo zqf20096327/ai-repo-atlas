@@ -1,6 +1,6 @@
 # openvurp/openvurp
 
-⭐ 33 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/openvurp/openvurp) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/openvurp/openvurp) · 个人维护
 
 **本地优先的多 AI agent 管家：自建 agent 各司其职并互相请教**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openvurp/openvurp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    title "openvurp/openvurp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 30 --> 40
+    line [31, 32, 33, 32, 35, 36, 39, 39]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 39（+8）
 
 
 ---

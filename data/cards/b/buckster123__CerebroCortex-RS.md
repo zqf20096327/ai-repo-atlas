@@ -1,6 +1,6 @@
 # buckster123/CerebroCortex-RS
 
-⭐ 15 · Rust · 推送 2026-08-09 · [GitHub](https://github.com/buckster123/CerebroCortex-RS) · [官网](http://www.apexaurum.no) · 个人维护
+⭐ 16 · Rust · 推送 2026-08-09 · [GitHub](https://github.com/buckster123/CerebroCortex-RS) · [官网](http://www.apexaurum.no) · 个人维护
 
 **给 AI agent 的脑类比记忆系统（纯 Rust 单二进制+SQLite）**
 
@@ -46,13 +46,13 @@ CerebroCortex 的纯 Rust 移植版，为 AI agent 提供记忆存取：通过 M
 
 ```mermaid
 xychart-beta
-    title "buckster123/CerebroCortex-RS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "buckster123/CerebroCortex-RS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

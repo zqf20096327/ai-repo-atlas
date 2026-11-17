@@ -1,6 +1,6 @@
 # indigokarasu/finch
 
-⭐ 31 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/indigokarasu/finch) · [官网](https://github.com/indigokarasu/ocas-finch) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/indigokarasu/finch) · [官网](https://github.com/indigokarasu/ocas-finch) · 个人维护
 
 **为 Hermes Agent 挖掘会话历史、自动改进技能与记忆的编排器**
 
@@ -44,13 +44,13 @@ OCAS Agent Suite 的组成部分，运行于 Hermes Agent runtime 之上：扫�
 
 ```mermaid
 xychart-beta
-    title "indigokarasu/finch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "indigokarasu/finch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 31（+1）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

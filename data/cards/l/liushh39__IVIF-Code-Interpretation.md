@@ -1,6 +1,6 @@
 # liushh39/IVIF-Code-Interpretation
 
-⭐ 173 · 推送 2026-09-17 · [GitHub](https://github.com/liushh39/IVIF-Code-Interpretation) · 个人维护 · 中文 README
+⭐ 175 · 推送 2026-09-17 · [GitHub](https://github.com/liushh39/IVIF-Code-Interpretation) · 个人维护 · 中文 README
 
 **面向图像融合研究者的红外-可见光融合方法与代码汇总清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liushh39/IVIF-Code-Interpretation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 171 --> 174
-    line [172, 173, 173]
+    title "liushh39/IVIF-Code-Interpretation 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 171 --> 176
+    line [172, 173, 172, 174, 175, 175]
 ```
 
-2026-10-18 172 → 2026-11-02 173（+1）
+2026-10-18 172 → 2026-11-17 175（+3）
 
 
 ---

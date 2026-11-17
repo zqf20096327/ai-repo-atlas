@@ -1,6 +1,6 @@
 # synergyai-nl/svelte-langgraph
 
-⭐ 13 · TypeScript · Unlicense · 推送 2026-10-26 · [GitHub](https://github.com/synergyai-nl/svelte-langgraph) · [官网](https://svelte-langgraph-demo.synergyai.nl/) · 组织维护
+⭐ 13 · TypeScript · Unlicense · 推送 2026-11-16 · [GitHub](https://github.com/synergyai-nl/svelte-langgraph) · [官网](https://svelte-langgraph-demo.synergyai.nl/) · 组织维护
 
 **LangGraph agent 的 SvelteKit 前端与 Aegra 服务端全栈模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "synergyai-nl/svelte-langgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

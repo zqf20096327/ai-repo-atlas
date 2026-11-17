@@ -1,6 +1,6 @@
 # vestauth/vestauth
 
-⭐ 171 · JavaScript · BSD-3-Clause · 推送 2026-04-16 · [GitHub](https://github.com/vestauth/vestauth) · [官网](https://vestauth.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 的加密身份与 HTTP 签名认证工具（dotenv 作者）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vestauth/vestauth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "vestauth/vestauth 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 169 --> 172
-    line [170, 171, 171]
+    line [170, 171, 170, 170]
 ```
 
-2026-10-18 170 → 2026-11-02 171（+1）
+2026-10-18 170 → 2026-11-07 170（+0）
 
 
 ---

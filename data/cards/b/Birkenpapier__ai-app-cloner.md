@@ -1,6 +1,6 @@
 # Birkenpapier/ai-app-cloner
 
-⭐ 17 · JavaScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Birkenpapier/ai-app-cloner) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Birkenpapier/ai-app-cloner) · 个人维护
 
 **从手机应用截图重建可运行 Expo/RN 应用的 Claude Code 技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Birkenpapier/ai-app-cloner 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 13, 14, 15, 16, 17, 17]
+    title "Birkenpapier/ai-app-cloner 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 21
+    line [11, 12, 13, 14, 15, 16, 17, 14, 17, 18, 19, 20, 20]
 ```
 
-2026-10-18 11 → 2026-11-02 17（+6）
+2026-10-18 11 → 2026-11-17 20（+9）
 
 
 ---

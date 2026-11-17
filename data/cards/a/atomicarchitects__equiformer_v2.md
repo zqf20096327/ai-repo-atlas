@@ -1,6 +1,6 @@
 # atomicarchitects/equiformer_v2
 
-⭐ 353 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/atomicarchitects/equiformer_v2) · [官网](https://arxiv.org/abs/2306.12059) · 组织维护
+⭐ 354 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/atomicarchitects/equiformer_v2) · [官网](https://arxiv.org/abs/2306.12059) · 组织维护
 
 **面向原子体系的等变 Transformer 官方 PyTorch 实现**
 
@@ -45,13 +45,13 @@ ICLR 2024 论文 EquiformerV2 的官方 PyTorch 实现：一种等变 Transforme
 
 ```mermaid
 xychart-beta
-    title "atomicarchitects/equiformer_v2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 352 --> 354
-    line [353, 353]
+    title "atomicarchitects/equiformer_v2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 352 --> 355
+    line [353, 354, 354]
 ```
 
-2026-10-18 353 → 2026-11-02 353（+0）
+2026-10-18 353 → 2026-11-17 354（+1）
 
 
 ---

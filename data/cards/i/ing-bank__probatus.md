@@ -1,6 +1,6 @@
 # ing-bank/probatus
 
-⭐ 155 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ing-bank/probatus) · [官网](https://ing-bank.github.io/probatus) · 组织维护
+⭐ 155 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ing-bank/probatus) · [官网](https://ing-bank.github.io/probatus) · 组织维护
 
 **验证回归与分类模型及其训练数据的 Python 工具库**
 
@@ -44,13 +44,13 @@ ING 银行维护的 Python 包，面向回归、二分类与多分类模型的�
 
 ```mermaid
 xychart-beta
-    title "ing-bank/probatus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "ing-bank/probatus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 153 --> 156
-    line [154, 155]
+    line [154, 155, 154, 155, 155]
 ```
 
-2026-10-18 154 → 2026-11-02 155（+1）
+2026-10-18 154 → 2026-11-17 155（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # apple-aiml-research/ml-spatial-librispeech
 
-⭐ 130 · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-spatial-librispeech) · 组织维护
+⭐ 131 · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-spatial-librispeech) · 组织维护
 
 **650+ 小时一阶 ambisonics 空间音频数据集，供机器学习训练**
 
@@ -44,13 +44,13 @@ Apple ML Research 发布的空间音频合成数据集：基于 LibriSpeech 语�
 
 ```mermaid
 xychart-beta
-    title "apple-aiml-research/ml-spatial-librispeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    title "apple-aiml-research/ml-spatial-librispeech 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 129 --> 132
+    line [130, 131, 131]
 ```
 
-2026-10-18 130 → 2026-11-02 130（+0）
+2026-10-18 130 → 2026-11-17 131（+1）
 
 
 ---

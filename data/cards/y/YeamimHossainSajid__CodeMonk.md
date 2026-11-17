@@ -1,6 +1,6 @@
 # YeamimHossainSajid/CodeMonk
 
-⭐ 70 · Java · 推送 2026-10-27 · [GitHub](https://github.com/YeamimHossainSajid/CodeMonk) · 个人维护
+⭐ 70 · Java · 推送 2026-11-16 · [GitHub](https://github.com/YeamimHossainSajid/CodeMonk) · 个人维护
 
 **帮开发者理解复杂代码库的开源 AI 代码智能平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YeamimHossainSajid/CodeMonk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02"]
+    title "YeamimHossainSajid/CodeMonk 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 64 --> 72
-    line [65, 66, 67, 68, 71, 70, 70]
+    line [65, 66, 67, 68, 71, 70, 68, 69, 70, 70]
 ```
 
-2026-10-18 65 → 2026-11-02 70（+5）
+2026-10-18 65 → 2026-11-17 70（+5）
 
 
 ---

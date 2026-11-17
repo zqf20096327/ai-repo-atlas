@@ -1,6 +1,6 @@
 # hrishikeshdkakkad/fluidbox
 
-⭐ 11 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hrishikeshdkakkad/fluidbox) · [官网](https://fluidbox-cloud-dashboard.vercel.app) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hrishikeshdkakkad/fluidbox) · [官网](https://fluidbox-cloud-dashboard.vercel.app) · 个人维护
 
 **在治理化一次性沙箱中运行 AI agent 的企业控制平面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hrishikeshdkakkad/fluidbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

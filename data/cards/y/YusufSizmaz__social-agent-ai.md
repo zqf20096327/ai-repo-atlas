@@ -1,6 +1,6 @@
 # YusufSizmaz/social-agent-ai
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/YusufSizmaz/social-agent-ai) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/YusufSizmaz/social-agent-ai) · 个人维护
 
 **自托管 AI 社媒自动化平台：Gemini 生成内容并多平台发布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YusufSizmaz/social-agent-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "YusufSizmaz/social-agent-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 11, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # omarabid/cli-llm-coding
 
-⭐ 50 · 推送 2026-07-13 · [GitHub](https://github.com/omarabid/cli-llm-coding) · [官网](https://codeinput.com) · 个人维护
+⭐ 51 · 推送 2026-11-15 · [GitHub](https://github.com/omarabid/cli-llm-coding) · [官网](https://codeinput.com) · 个人维护
 
 **CLI 编码 agent 工具策展清单：收录类 Claude Code 的终端工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "omarabid/cli-llm-coding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "omarabid/cli-llm-coding 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 49 --> 52
-    line [51, 50, 50]
+    line [51, 50, 51, 51]
 ```
 
-2026-10-18 51 → 2026-11-02 50（-1）
+2026-10-18 51 → 2026-11-17 51（+0）
 
 
 ---

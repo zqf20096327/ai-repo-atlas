@@ -1,6 +1,6 @@
 # tensorgi/TPA
 
-⭐ 464 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/tensorgi/TPA) · [官网](https://tensorgi.github.io/TPA) · 组织维护
+⭐ 464 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/tensorgi/TPA) · [官网](https://tensorgi.github.io/TPA) · 组织维护
 
 **Tensor Product Attention Transformer (T6) 官方预训练代码**
 
@@ -45,12 +45,12 @@ NeurIPS 2025 Spotlight 论文 "Tensor Product Attention Is All You Need" 的官�
 ```mermaid
 xychart-beta
     title "tensorgi/TPA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 463 --> 465
     line [464, 464]
 ```
 
-2026-10-18 464 → 2026-11-02 464（+0）
+2026-10-18 464 → 2026-11-17 464（+0）
 
 
 ---

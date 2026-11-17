@@ -1,6 +1,6 @@
 # kayas881/comfyui-kaggle
 
-⭐ 11 · Jupyter Notebook · 推送 2025-12-29 · [GitHub](https://github.com/kayas881/comfyui-kaggle) · 个人维护
+⭐ 14 · Jupyter Notebook · 推送 2025-12-29 · [GitHub](https://github.com/kayas881/comfyui-kaggle) · 个人维护
 
 **在 Kaggle 免费 GPU 上运行 ComfyUI 工作流的 notebook 模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kayas881/comfyui-kaggle 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "kayas881/comfyui-kaggle 星数(近 5 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 13, 14, 14]
 ```
 
-2026-10-31 10 → 2026-11-02 11（+1）
+2026-10-31 10 → 2026-11-17 14（+4）
 
 
 ---

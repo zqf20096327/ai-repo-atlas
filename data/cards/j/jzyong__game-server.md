@@ -1,6 +1,6 @@
 # jzyong/game-server
 
-⭐ 1,229 · Java · MIT · 推送 2025-12-19 · [GitHub](https://github.com/jzyong/game-server) · [官网](https://jzyong.github.io/game-server/) · 个人维护 · 中文 README
+⭐ 1,227 · Java · MIT · 推送 2025-12-19 · [GitHub](https://github.com/jzyong/game-server) · [官网](https://jzyong.github.io/game-server/) · 个人维护 · 中文 README
 
 **棋牌/MMORPG 游戏的分布式 Java 服务器框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jzyong/game-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 1227 --> 1230
-    line [1228, 1229, 1229]
+    title "jzyong/game-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1226 --> 1230
+    line [1228, 1229, 1228, 1227, 1227]
 ```
 
-2026-10-18 1,228 → 2026-11-02 1,229（+1）
+2026-10-18 1,228 → 2026-11-17 1,227（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lennylxx/lancedb-csharp
 
-⭐ 17 · C# · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/lennylxx/lancedb-csharp) · [官网](https://www.nuget.org/packages/LanceDB) · 个人维护
+⭐ 18 · C# · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/lennylxx/lancedb-csharp) · [官网](https://www.nuget.org/packages/LanceDB) · 个人维护
 
 **LanceDB 的 C# SDK：通过 FFI 封装 Rust 原生库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lennylxx/lancedb-csharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "lennylxx/lancedb-csharp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

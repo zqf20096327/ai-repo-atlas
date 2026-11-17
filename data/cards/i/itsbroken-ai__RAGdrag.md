@@ -1,6 +1,6 @@
 # itsbroken-ai/RAGdrag
 
-⭐ 42 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/itsbroken-ai/RAGdrag) · [官网](https://itsbroken.ai/ragdrag) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/itsbroken-ai/RAGdrag) · [官网](https://itsbroken.ai/ragdrag) · 个人维护
 
 **RAG 流水线安全测试工具：6 阶段 27 类攻击技法评估**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itsbroken-ai/RAGdrag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "itsbroken-ai/RAGdrag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

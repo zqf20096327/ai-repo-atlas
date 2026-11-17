@@ -1,6 +1,6 @@
 # Hack23/riksdagsmonitor
 
-⭐ 13 · HTML · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Hack23/riksdagsmonitor) · [官网](https://riksdagsmonitor.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **瑞典议会政治情报平台：AI 新闻室自动生成多语言分析**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hack23/riksdagsmonitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-07 13（+0）
 
 
 ---

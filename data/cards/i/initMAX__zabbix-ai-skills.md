@@ -1,6 +1,6 @@
 # initMAX/zabbix-ai-skills
 
-⭐ 29 · AGPL-3.0 · 推送 2026-03-31 · [GitHub](https://github.com/initMAX/zabbix-ai-skills) · [官网](https://www.initmax.com) · 组织维护
+⭐ 32 · AGPL-3.0 · 推送 2026-03-31 · [GitHub](https://github.com/initMAX/zabbix-ai-skills) · [官网](https://www.initmax.com) · 组织维护
 
 **Zabbix 运维 AI 技能集：通过 MCP 自动执行监控管理任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "initMAX/zabbix-ai-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29, 29]
+    title "initMAX/zabbix-ai-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 33
+    line [26, 27, 28, 29, 28, 32, 32]
 ```
 
-2026-10-18 26 → 2026-11-02 29（+3）
+2026-10-18 26 → 2026-11-17 32（+6）
 
 
 ---

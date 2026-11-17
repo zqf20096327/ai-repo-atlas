@@ -1,6 +1,6 @@
 # kekko7072/flutter_local_ai
 
-⭐ 49 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kekko7072/flutter_local_ai) · [官网](https://pub.dev/packages/flutter_local_ai) · 个人维护
+⭐ 51 · Dart · MIT · 推送 2026-11-14 · [GitHub](https://github.com/kekko7072/flutter_local_ai) · [官网](https://pub.dev/packages/flutter_local_ai) · 个人维护
 
 **Flutter 插件：统一 API 调用 iOS/Android/Windows/Chrome 系统内置端侧 AI 模型**
 
@@ -46,13 +46,13 @@ Flutter/Dart 包，通过各操作系统原生 API 做本地 AI 推理：Apple �
 
 ```mermaid
 xychart-beta
-    title "kekko7072/flutter_local_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "kekko7072/flutter_local_ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 51（+2）
 
 
 ---

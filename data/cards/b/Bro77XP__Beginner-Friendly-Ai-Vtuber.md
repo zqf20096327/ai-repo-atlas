@@ -1,6 +1,6 @@
 # Bro77XP/Beginner-Friendly-Ai-Vtuber
 
-⭐ 12 · Python · 推送 2026-10-22 · [GitHub](https://github.com/Bro77XP/Beginner-Friendly-Ai-Vtuber) · 个人维护
+⭐ 14 · Python · 推送 2026-10-22 · [GitHub](https://github.com/Bro77XP/Beginner-Friendly-Ai-Vtuber) · 个人维护
 
 **面向非程序员的 AI VTuber：语音对话+Live2D 动画驱动**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bro77XP/Beginner-Friendly-Ai-Vtuber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Bro77XP/Beginner-Friendly-Ai-Vtuber 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

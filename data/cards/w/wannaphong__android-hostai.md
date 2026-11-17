@@ -1,6 +1,6 @@
 # wannaphong/android-hostai
 
-⭐ 35 · Kotlin · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/wannaphong/android-hostai) · [官网](http://github.wannaphong.com/android-hostai/) · 个人维护
+⭐ 37 · Kotlin · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/wannaphong/android-hostai) · [官网](http://github.wannaphong.com/android-hostai/) · 个人维护
 
 **Android 应用：在手机上用 LiteRT-LM 托管 OpenAI 兼容 API 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wannaphong/android-hostai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "wannaphong/android-hostai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

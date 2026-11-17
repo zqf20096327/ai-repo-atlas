@@ -1,6 +1,6 @@
 # 7gugu/whistle-mcp
 
-⭐ 44 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/7gugu/whistle-mcp) · [官网](https://www.npmjs.com/package/whistle-mcp-tool) · 个人维护 · 中文 README
+⭐ 45 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/7gugu/whistle-mcp) · [官网](https://www.npmjs.com/package/whistle-mcp-tool) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 直接管理本地 Whistle 代理服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "7gugu/whistle-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "7gugu/whistle-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

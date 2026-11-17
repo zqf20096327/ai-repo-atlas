@@ -1,6 +1,6 @@
 # CLAIRE-Labo/EvoTune
 
-⭐ 146 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/CLAIRE-Labo/EvoTune) · [官网](https://claire-labo.github.io/EvoTune/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **科研者用 LLM 进化搜索+强化学习发现新算法的框架**
 
@@ -11,7 +11,7 @@ EvoTune 是通过结合两类机制发现新算法的研究框架：对 LLM 生�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ EvoTune 是通过结合两类机制发现新算法的研究框架：对 LLM 生�
 
 ```mermaid
 xychart-beta
-    title "CLAIRE-Labo/EvoTune 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    title "CLAIRE-Labo/EvoTune 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13"]
     y-axis "stars" 143 --> 147
-    line [144, 145, 146, 146]
+    line [144, 145, 146, 145, 146, 146]
 ```
 
-2026-10-18 144 → 2026-11-02 146（+2）
+2026-10-18 144 → 2026-11-13 146（+2）
 
 
 ---

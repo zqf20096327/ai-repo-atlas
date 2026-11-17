@@ -1,6 +1,6 @@
 # yandex-cloud/mcp
 
-⭐ 49 · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/yandex-cloud/mcp) · 组织维护
+⭐ 50 · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/yandex-cloud/mcp) · 组织维护
 
 **让 AI 助手管理 Yandex Cloud 资源的官方 MCP 服务器集**
 
@@ -44,13 +44,13 @@ Yandex Cloud 官方维护的一组 MCP（Model Context Protocol）服务器，�
 
 ```mermaid
 xychart-beta
-    title "yandex-cloud/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "yandex-cloud/mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

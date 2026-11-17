@@ -1,6 +1,6 @@
 # EvilFreelancer/gpu-server-setup
 
-⭐ 15 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/EvilFreelancer/gpu-server-setup) · [官网](https://github.com/EvilFreelancer/rpa-skills) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/EvilFreelancer/gpu-server-setup) · [官网](https://github.com/EvilFreelancer/rpa-skills) · 个人维护 · 中文 README
 
 **为 agent 提供的 NVIDIA/Intel GPU Linux 服务器部署技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvilFreelancer/gpu-server-setup 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02"]
+    title "EvilFreelancer/gpu-server-setup 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 16
-    line [11, 12, 14, 15, 15]
+    line [11, 12, 14, 15, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-11-02 15（+4）
+2026-10-18 11 → 2026-11-17 15（+4）
 
 
 ---

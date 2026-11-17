@@ -1,6 +1,6 @@
 # brain-tree-dev/brain-tree-os
 
-⭐ 74 · TypeScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/brain-tree-dev/brain-tree-os) · [官网](https://brain-tree.ai) · 组织维护
+⭐ 75 · TypeScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/brain-tree-dev/brain-tree-os) · [官网](https://brain-tree.ai) · 组织维护
 
 **给 AI agent 建本地持久知识库的浏览器大脑查看器与项目管理系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brain-tree-dev/brain-tree-os 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 71 --> 75
-    line [72, 73, 74, 74]
+    title "brain-tree-dev/brain-tree-os 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 71 --> 76
+    line [72, 73, 74, 75, 75]
 ```
 
-2026-10-18 72 → 2026-11-02 74（+2）
+2026-10-18 72 → 2026-11-17 75（+3）
 
 
 ---

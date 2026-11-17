@@ -1,6 +1,6 @@
 # rossoctl/context-guru
 
-⭐ 71 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/rossoctl/context-guru) · [官网](https://rossoctl.github.io/context-guru/) · 组织维护
+⭐ 74 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rossoctl/context-guru) · [官网](https://rossoctl.github.io/context-guru/) · 组织维护
 
 **AI 编码 agent 的上下文工程代理：降低 token 成本与延迟**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rossoctl/context-guru 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    title "rossoctl/context-guru 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 70, 73, 74, 74]
 ```
 
-2026-10-18 70 → 2026-11-02 71（+1）
+2026-10-18 70 → 2026-11-17 74（+4）
 
 
 ---

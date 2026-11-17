@@ -1,6 +1,6 @@
 # ultralytics/iSky
 
-⭐ 77 · Swift · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/iSky) · [官网](https://apps.apple.com/us/app/isky/id1445737240) · 组织维护 · 中文 README
+⭐ 81 · Swift · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/iSky) · [官网](https://apps.apple.com/us/app/isky/id1445737240) · 组织维护 · 中文 README
 
 **iOS 实时风格迁移相机应用：五种名画风格处理实时视频**
 
@@ -43,13 +43,13 @@ Ultralytics 开发的 iPhone/iPad 应用，使用 Core ML 风格迁移模型对�
 
 ```mermaid
 xychart-beta
-    title "ultralytics/iSky 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    title "ultralytics/iSky 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 76 --> 82
+    line [77, 79, 81, 81]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 81（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # AndyShaman/senior-fable
 
-⭐ 27 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AndyShaman/senior-fable) · [官网](https://ai-handler.com/#senior-fable) · 个人维护
+⭐ 28 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AndyShaman/senior-fable) · [官网](https://ai-handler.com/#senior-fable) · 个人维护
 
 **Claude Code 插件：让顶级模型当技术主管，廉价子代理干活**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AndyShaman/senior-fable 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "AndyShaman/senior-fable 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 26 --> 29
-    line [28, 27, 27]
+    line [28, 27, 28, 27, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 27（-1）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

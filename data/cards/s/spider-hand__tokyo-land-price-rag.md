@@ -1,6 +1,6 @@
 # spider-hand/tokyo-land-price-rag
 
-⭐ 18 · Vue · MIT · 推送 2026-03-02 · [GitHub](https://github.com/spider-hand/tokyo-land-price-rag) · 个人维护
+⭐ 18 · Vue · MIT · 推送 2026-11-09 · [GitHub](https://github.com/spider-hand/tokyo-land-price-rag) · 个人维护
 
 **用交互式地图探索东京地价的 RAG 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spider-hand/tokyo-land-price-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

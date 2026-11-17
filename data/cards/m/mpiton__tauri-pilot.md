@@ -1,6 +1,6 @@
 # mpiton/tauri-pilot
 
-⭐ 87 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mpiton/tauri-pilot) · 个人维护
+⭐ 89 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/mpiton/tauri-pilot) · 个人维护
 
 **面向 AI 代理的 Tauri v2 应用交互式测试 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mpiton/tauri-pilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    title "mpiton/tauri-pilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 85 --> 90
+    line [86, 87, 88, 89, 89]
 ```
 
-2026-10-18 86 → 2026-11-02 87（+1）
+2026-10-18 86 → 2026-11-17 89（+3）
 
 
 ---

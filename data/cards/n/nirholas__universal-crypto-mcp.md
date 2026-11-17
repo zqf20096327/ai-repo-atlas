@@ -1,6 +1,6 @@
 # nirholas/universal-crypto-mcp
 
-⭐ 44 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/nirholas/universal-crypto-mcp) · [官网](https://mcp.giving) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AI agent 通过自然语言操作区块链的通用 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/universal-crypto-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-10"]
     y-axis "stars" 41 --> 45
     line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-10 44（+2）
 
 
 ---

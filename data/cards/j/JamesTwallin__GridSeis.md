@@ -1,6 +1,6 @@
 # JamesTwallin/GridSeis
 
-⭐ 31 · Python · MIT · 推送 2025-12-10 · [GitHub](https://github.com/JamesTwallin/GridSeis) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/JamesTwallin/GridSeis) · 个人维护
 
 **用 FFT 分析电网频率数据预测碳排放强度的机器学习项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "JamesTwallin/GridSeis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 31（+0）
 
 
 ---

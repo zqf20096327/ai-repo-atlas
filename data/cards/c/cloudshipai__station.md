@@ -1,6 +1,6 @@
 # cloudshipai/station
 
-⭐ 429 · Go · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/cloudshipai/station) · [官网](https://www.cloudshipai.com/station) · 组织维护
+⭐ 431 · Go · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/cloudshipai/station) · [官网](https://www.cloudshipai.com/station) · 组织维护
 
 **自托管的多 Agent 编排与部署平台，供团队在自有基础设施上运行 Agent 团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloudshipai/station 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 428 --> 430
-    line [429, 429]
+    title "cloudshipai/station 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 428 --> 432
+    line [429, 430, 431, 431]
 ```
 
-2026-10-18 429 → 2026-11-02 429（+0）
+2026-10-18 429 → 2026-11-17 431（+2）
 
 
 ---

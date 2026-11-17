@@ -1,6 +1,6 @@
 # wildminder/ComfyUI-KEEP
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/wildminder/ComfyUI-KEEP) · 个人维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/wildminder/ComfyUI-KEEP) · 个人维护
 
 **ComfyUI 上的 KEEP 视频人脸超分辨率自定义节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wildminder/ComfyUI-KEEP 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [71, 70, 71, 71]
+    title "wildminder/ComfyUI-KEEP 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 69 --> 81
+    line [71, 70, 71, 72, 79, 80, 80]
 ```
 
-2026-10-23 71 → 2026-11-02 71（+0）
+2026-10-23 71 → 2026-11-17 80（+9）
 
 
 ---

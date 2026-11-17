@@ -1,6 +1,6 @@
 # 9tigerio/db2rest
 
-⭐ 474 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/9tigerio/db2rest) · [官网](https://db2rest.com) · 组织维护
+⭐ 475 · Java · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/9tigerio/db2rest) · [官网](https://db2rest.com) · 组织维护
 
 **面向关系型数据库的无代码 REST DATA API 平台，可支撑 GenAI 应用**
 
@@ -44,13 +44,13 @@ DB2Rest 是低代码/无代码的 REST DATA API 平台：连接已有或新建�
 
 ```mermaid
 xychart-beta
-    title "9tigerio/db2rest 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 471 --> 475
-    line [472, 473, 474, 474]
+    title "9tigerio/db2rest 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 471 --> 477
+    line [472, 473, 474, 475, 476, 475, 475]
 ```
 
-2026-10-18 472 → 2026-11-02 474（+2）
+2026-10-18 472 → 2026-11-17 475（+3）
 
 
 ---

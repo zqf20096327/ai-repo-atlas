@@ -1,6 +1,6 @@
 # huawei-csl/SINQ
 
-⭐ 636 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/huawei-csl/SINQ) · [官网](https://www.arxiv.org/abs/2509.22944) · 组织维护 · 中文 README
+⭐ 638 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/huawei-csl/SINQ) · [官网](https://www.arxiv.org/abs/2509.22944) · 组织维护 · 中文 README
 
 **面向 LLM 的免校准低比特量化方法库，压缩模型并保持精度**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "huawei-csl/SINQ 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 634 --> 637
-    line [635, 636, 636]
+    title "huawei-csl/SINQ 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 634 --> 639
+    line [635, 636, 635, 637, 638, 638]
 ```
 
-2026-10-18 635 → 2026-11-02 636（+1）
+2026-10-18 635 → 2026-11-17 638（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # murf-ai/murf-python-sdk
 
-⭐ 109 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/murf-ai/murf-python-sdk) · [官网](https://murf.ai/api/docs) · 组织维护
+⭐ 109 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/murf-ai/murf-python-sdk) · [官网](https://murf.ai/api/docs) · 组织维护
 
 **Murf 文本转语音 API 的 Python 客户端 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "murf-ai/murf-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-18 109 → 2026-11-02 109（+0）
+2026-10-18 109 → 2026-11-17 109（+0）
 
 
 ---

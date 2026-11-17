@@ -1,6 +1,6 @@
 # KenTaniguchi-R/ledgr
 
-⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/KenTaniguchi-R/ledgr) · 个人维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/KenTaniguchi-R/ledgr) · 个人维护
 
 **自托管个人记账应用：银行同步+AI分类+MCP代理查询**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KenTaniguchi-R/ledgr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 20, 21, 21]
+    title "KenTaniguchi-R/ledgr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 20, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # CoffeeMethod/KokoroGUI
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CoffeeMethod/KokoroGUI) · [官网](https://coffeemethod.github.io/KokoroGUI/) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CoffeeMethod/KokoroGUI) · [官网](https://coffeemethod.github.io/KokoroGUI/) · 个人维护
 
 **本地 TTS 音频制作 GUI：文本驱动多角色配音与时间线混音**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CoffeeMethod/KokoroGUI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "CoffeeMethod/KokoroGUI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 23（+5）
 
 
 ---

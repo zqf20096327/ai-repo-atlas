@@ -1,6 +1,6 @@
 # promacanthus/awesome-golang-ai
 
-⭐ 123 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/promacanthus/awesome-golang-ai) · [官网](https://promacanthus.github.io/awesome-golang-ai/) · 个人维护 · 中文 README
+⭐ 123 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/promacanthus/awesome-golang-ai) · [官网](https://promacanthus.github.io/awesome-golang-ai/) · 个人维护 · 中文 README
 
 **Go 语言 AI/ML 资源策展清单：工具、库、基准与教程聚合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "promacanthus/awesome-golang-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    title "promacanthus/awesome-golang-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 120 --> 124
-    line [121, 122, 123, 123]
+    line [121, 122, 123, 122, 123, 123]
 ```
 
-2026-10-18 121 → 2026-11-02 123（+2）
+2026-10-18 121 → 2026-11-17 123（+2）
 
 
 ---

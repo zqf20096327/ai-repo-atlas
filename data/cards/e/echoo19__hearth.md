@@ -1,6 +1,6 @@
 # echoo19/hearth
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/echoo19/hearth) · [官网](https://hearthengine.com) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/echoo19/hearth) · [官网](https://hearthengine.com) · 个人维护
 
 **面向开放式游戏开发的 agent 桌面应用：对话即建游戏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "echoo19/hearth 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 47 --> 56
-    line [55, 49, 48, 48]
+    title "echoo19/hearth 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 56
+    line [55, 49, 48, 43, 43]
 ```
 
-2026-10-18 55 → 2026-11-02 48（-7）
+2026-10-18 55 → 2026-11-17 43（-12）
 
 
 ---

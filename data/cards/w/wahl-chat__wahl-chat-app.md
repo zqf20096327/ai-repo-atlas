@@ -1,6 +1,6 @@
 # wahl-chat/wahl-chat-app
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/wahl-chat/wahl-chat-app) · [官网](https://wahl.chat) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/wahl-chat/wahl-chat-app) · [官网](https://wahl.chat) · 组织维护
 
 **德国选举政治问答聊天机器人平台（RAG，带来源佐证）**
 
@@ -45,13 +45,13 @@ wahl.chat 的平台源码：面向德国联邦/州/地方选举的政治信息�
 
 ```mermaid
 xychart-beta
-    title "wahl-chat/wahl-chat-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "wahl-chat/wahl-chat-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

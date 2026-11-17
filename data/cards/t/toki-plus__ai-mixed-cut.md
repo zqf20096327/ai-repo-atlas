@@ -1,6 +1,6 @@
 # toki-plus/ai-mixed-cut
 
-⭐ 93 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/toki-plus/ai-mixed-cut) · 个人维护 · 中文 README
+⭐ 94 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/toki-plus/ai-mixed-cut) · 个人维护 · 中文 README
 
 **AI 辅助短视频再创作工作流的技术案例仓库（无实现代码）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "toki-plus/ai-mixed-cut 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "toki-plus/ai-mixed-cut 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 95
+    line [92, 93, 92, 94, 94]
 ```
 
-2026-10-18 92 → 2026-11-02 93（+1）
+2026-10-18 92 → 2026-11-17 94（+2）
 
 
 ---

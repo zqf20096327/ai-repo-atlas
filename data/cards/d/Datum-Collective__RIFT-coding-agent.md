@@ -1,6 +1,6 @@
 # Datum-Collective/RIFT-coding-agent
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Datum-Collective/RIFT-coding-agent) · [官网](https://datum-collective.github.io/RIFT-coding-agent/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Datum-Collective/RIFT-coding-agent) · [官网](https://datum-collective.github.io/RIFT-coding-agent/) · 组织维护
 
 **终端 AI 编程代理：改代码后自动跑测试/typecheck/lint 并核验自身总结**
 
@@ -45,13 +45,13 @@ RIFT 是 MIT 许可的 OpenCode 分支，在终端中运行的 AI 编程代理�
 
 ```mermaid
 xychart-beta
-    title "Datum-Collective/RIFT-coding-agent 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
+    title "Datum-Collective/RIFT-coding-agent 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 8 --> 13
-    line [9, 11, 12, 12]
+    line [9, 11, 12, 11, 12, 12]
 ```
 
-2026-10-23 9 → 2026-11-02 12（+3）
+2026-10-23 9 → 2026-11-17 12（+3）
 
 
 ---

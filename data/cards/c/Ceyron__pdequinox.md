@@ -1,6 +1,6 @@
 # Ceyron/pdequinox
 
-⭐ 28 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Ceyron/pdequinox) · [官网](https://fkoehler.site/pdequinox/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Ceyron/pdequinox) · [官网](https://fkoehler.site/pdequinox/) · 个人维护
 
 **JAX 上的偏微分方程神经模拟器架构库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ceyron/pdequinox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "Ceyron/pdequinox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

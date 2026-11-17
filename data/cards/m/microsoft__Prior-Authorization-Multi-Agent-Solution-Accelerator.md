@@ -1,6 +1,6 @@
 # microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator
 
-⭐ 20 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator) · 组织维护
 
 **面向医保支付方的 AI 预授权审查多智能体方案加速器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [20, 19, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

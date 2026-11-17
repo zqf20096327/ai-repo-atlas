@@ -1,6 +1,6 @@
 # linegel/threejs-complete-set-of-skill
 
-⭐ 12 · JavaScript · ISC · 推送 2026-09-24 · [GitHub](https://github.com/linegel/threejs-complete-set-of-skill) · [官网](https://linegel.github.io/threejs-complete-set-of-skill/) · 个人维护
+⭐ 13 · JavaScript · ISC · 推送 2026-09-24 · [GitHub](https://github.com/linegel/threejs-complete-set-of-skill) · [官网](https://linegel.github.io/threejs-complete-set-of-skill/) · 个人维护
 
 **面向 agent 的 Three.js WebGPU/TSL 技能包（27 个可安装技能）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linegel/threejs-complete-set-of-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "linegel/threejs-complete-set-of-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

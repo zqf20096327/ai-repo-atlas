@@ -1,6 +1,6 @@
 # jasen215/dsh-continual-harness
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/jasen215/dsh-continual-harness) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/jasen215/dsh-continual-harness) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：为 AI agent 提供持续学习与持久记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jasen215/dsh-continual-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "jasen215/dsh-continual-harness 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 14, 17, 18, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

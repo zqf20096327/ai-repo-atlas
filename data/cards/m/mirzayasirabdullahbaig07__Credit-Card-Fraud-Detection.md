@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection
 
-⭐ 27 · Python · 推送 2026-08-21 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection) · [官网](https://credit-card-fraud-detection-model07.streamlit.app/) · 个人维护
+⭐ 26 · Python · 推送 2026-08-21 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection) · [官网](https://credit-card-fraud-detection-model07.streamlit.app/) · 个人维护
 
 **信用卡欺诈检测训练与部署全流程项目，Streamlit 在线预测应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 23 --> 28
-    line [24, 26, 27, 27]
+    line [24, 26, 27, 24, 27, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 27（+3）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

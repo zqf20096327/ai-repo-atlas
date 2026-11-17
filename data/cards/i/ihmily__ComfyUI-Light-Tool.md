@@ -1,6 +1,6 @@
 # ihmily/ComfyUI-Light-Tool
 
-⭐ 21 · Python · MIT · 推送 2026-04-28 · [GitHub](https://github.com/ihmily/ComfyUI-Light-Tool) · [官网](https://registry.comfy.org/nodes/comfyui-light-tool) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ihmily/ComfyUI-Light-Tool) · [官网](https://registry.comfy.org/nodes/comfyui-light-tool) · 个人维护 · 中文 README
 
 **ComfyUI 轻量自定义工具节点套件：图像/文本/视频/数据处理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ihmily/ComfyUI-Light-Tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "ihmily/ComfyUI-Light-Tool 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

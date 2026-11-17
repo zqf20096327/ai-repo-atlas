@@ -1,6 +1,6 @@
 # rares9301/anomaly-detection
 
-⭐ 163 · MATLAB · MIT · 推送 2026-05-15 · [GitHub](https://github.com/rares9301/anomaly-detection) · [官网](http://raresbyte.com/anomaly-detection/) · 个人维护
+⭐ 162 · MATLAB · MIT · 推送 2026-05-15 · [GitHub](https://github.com/rares9301/anomaly-detection) · [官网](http://raresbyte.com/anomaly-detection/) · 个人维护
 
 **学生课程项目：核回归与异常检测算法实现**
 
@@ -40,13 +40,13 @@ MN 团队的异常检测项目，README 标题与描述声明提供核回归与�
 
 ```mermaid
 xychart-beta
-    title "rares9301/anomaly-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 162 --> 164
-    line [163, 163]
+    title "rares9301/anomaly-detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 161 --> 164
+    line [163, 162, 162]
 ```
 
-2026-10-18 163 → 2026-11-02 163（+0）
+2026-10-18 163 → 2026-11-17 162（-1）
 
 
 ---

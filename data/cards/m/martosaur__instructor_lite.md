@@ -1,6 +1,6 @@
 # martosaur/instructor_lite
 
-⭐ 145 · Elixir · 推送 2026-10-12 · [GitHub](https://github.com/martosaur/instructor_lite) · 个人维护
+⭐ 145 · Elixir · 推送 2026-11-09 · [GitHub](https://github.com/martosaur/instructor_lite) · 个人维护
 
 **Elixir 结构化输出库：用 Ecto schema 约束 LLM 输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "martosaur/instructor_lite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 144 --> 146
     line [145, 145]
 ```
 
-2026-10-18 145 → 2026-11-02 145（+0）
+2026-10-18 145 → 2026-11-17 145（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/DirectML
 
-⭐ 2,595 · C++ · MIT · 推送 2026-04-27 · [GitHub](https://github.com/microsoft/DirectML) · 组织维护
+⭐ 2,592 · C++ · MIT · 推送 2026-04-27 · [GitHub](https://github.com/microsoft/DirectML) · 组织维护
 
 **微软 DirectX 12 GPU 加速机器学习运算库（维护模式）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/DirectML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 2592 --> 2596
-    line [2593, 2595, 2595]
+    title "microsoft/DirectML 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2591 --> 2597
+    line [2593, 2595, 2596, 2593, 2592, 2592]
 ```
 
-2026-10-18 2,593 → 2026-11-02 2,595（+2）
+2026-10-18 2,593 → 2026-11-17 2,592（-1）
 
 
 ---

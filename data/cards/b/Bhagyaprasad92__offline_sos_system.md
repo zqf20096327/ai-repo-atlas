@@ -1,6 +1,6 @@
 # Bhagyaprasad92/offline_sos_system
 
-⭐ 15 · Dart · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Bhagyaprasad92/offline_sos_system) · [官网](https://pub.dev/packages/offline_sos_system/example) · 个人维护
+⭐ 16 · Dart · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Bhagyaprasad92/offline_sos_system) · [官网](https://pub.dev/packages/offline_sos_system/example) · 个人维护
 
 **离线端侧碰撞检测引擎：Flutter 应用集成的无 UI 安全包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bhagyaprasad92/offline_sos_system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Bhagyaprasad92/offline_sos_system 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    line [16, 15, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

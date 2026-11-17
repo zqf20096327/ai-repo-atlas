@@ -1,6 +1,6 @@
 # KeWang0622/MRFoundry
 
-⭐ 30 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/KeWang0622/MRFoundry) · [官网](https://kewang0622.github.io/slides/mrfoundry/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/KeWang0622/MRFoundry) · [官网](https://kewang0622.github.io/slides/mrfoundry/) · 个人维护
 
 **给编码 agent 的 MRI 科研技能与参考知识库（7 个技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KeWang0622/MRFoundry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "KeWang0622/MRFoundry 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 31, 32, 33, 33]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 33（+4）
 
 
 ---

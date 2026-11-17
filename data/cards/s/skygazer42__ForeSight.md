@@ -1,6 +1,6 @@
 # skygazer42/ForeSight
 
-⭐ 119 · Python · GPL-3.0 · 推送 2026-05-03 · [GitHub](https://github.com/skygazer42/ForeSight) · 个人维护
+⭐ 117 · Python · GPL-3.0 · 推送 2026-05-03 · [GitHub](https://github.com/skygazer42/ForeSight) · 个人维护
 
 **Python 时间序列预测工具包：统一接口调用 250+ 统计/ML/深度学习模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "skygazer42/ForeSight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    title "skygazer42/ForeSight 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 116 --> 120
+    line [119, 117, 117]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 117（-2）
 
 
 ---

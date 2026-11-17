@@ -1,6 +1,6 @@
 # NFeruch/reddit2text
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/NFeruch/reddit2text) · 个人维护
+⭐ 127 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/NFeruch/reddit2text) · 个人维护
 
 **把 Reddit 帖子及评论转为结构化文本的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NFeruch/reddit2text 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 123 --> 126
-    line [124, 125, 125]
+    title "NFeruch/reddit2text 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 123 --> 128
+    line [124, 125, 124, 125, 126, 127, 127]
 ```
 
-2026-10-18 124 → 2026-11-02 125（+1）
+2026-10-18 124 → 2026-11-17 127（+3）
 
 
 ---

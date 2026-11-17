@@ -1,6 +1,6 @@
 # hyperactive-project/Hyperactive
 
-⭐ 551 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/hyperactive-project/Hyperactive) · [官网](https://hyperactive.readthedocs.io/en/latest/#) · 个人维护
+⭐ 552 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/hyperactive-project/Hyperactive) · [官网](https://hyperactive.readthedocs.io/en/latest/#) · 个人维护
 
 **统一接口的优化算法库：31 种算法用于调参与黑盒优化**
 
@@ -44,13 +44,13 @@ Python 优化算法统一接口库，提供 31 种算法（局部、全局、种
 
 ```mermaid
 xychart-beta
-    title "hyperactive-project/Hyperactive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 550 --> 552
-    line [551, 551]
+    title "hyperactive-project/Hyperactive 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 550 --> 553
+    line [551, 552, 552]
 ```
 
-2026-10-18 551 → 2026-11-02 551（+0）
+2026-10-18 551 → 2026-11-17 552（+1）
 
 
 ---

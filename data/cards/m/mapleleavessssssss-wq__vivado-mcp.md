@@ -1,6 +1,6 @@
 # mapleleavessssssss-wq/vivado-mcp
 
-⭐ 167 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/mapleleavessssssss-wq/vivado-mcp) · [官网](https://pypi.org/project/vivado-mcp/) · 个人维护 · 中文 README
+⭐ 176 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/mapleleavessssssss-wq/vivado-mcp) · [官网](https://pypi.org/project/vivado-mcp/) · 个人维护 · 中文 README
 
 **驱动本地 Xilinx Vivado 的 MCP server，供 AI Agent 完成 FPGA 全流程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mapleleavessssssss-wq/vivado-mcp 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 157 --> 168
-    line [158, 160, 161, 162, 161, 162, 163, 165, 164, 166, 167]
+    title "mapleleavessssssss-wq/vivado-mcp 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 157 --> 177
+    line [158, 160, 161, 162, 161, 162, 163, 165, 164, 166, 167, 161, 172, 174, 175, 176, 176]
 ```
 
-2026-10-18 158 → 2026-11-02 167（+9）
+2026-10-18 158 → 2026-11-17 176（+18）
 
 
 ---

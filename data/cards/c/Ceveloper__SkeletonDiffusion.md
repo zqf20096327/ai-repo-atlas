@@ -1,6 +1,6 @@
 # Ceveloper/SkeletonDiffusion
 
-⭐ 47 · Jupyter Notebook · BSD-2-Clause · 推送 2026-04-02 · [GitHub](https://github.com/Ceveloper/SkeletonDiffusion) · [官网](https://ceveloper.github.io/publications/skeletondiffusion/) · 组织维护
+⭐ 48 · Jupyter Notebook · BSD-2-Clause · 推送 2026-04-02 · [GitHub](https://github.com/Ceveloper/SkeletonDiffusion) · [官网](https://ceveloper.github.io/publications/skeletondiffusion/) · 组织维护
 
 **CVPR 2025 论文官方代码：非各向同性高斯扩散做 3D 人体运动预测**
 
@@ -45,13 +45,13 @@ CVPR 2025 论文《Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion
 
 ```mermaid
 xychart-beta
-    title "Ceveloper/SkeletonDiffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "Ceveloper/SkeletonDiffusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

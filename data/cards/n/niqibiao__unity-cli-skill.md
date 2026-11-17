@@ -1,6 +1,6 @@
 # niqibiao/unity-cli-skill
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/niqibiao/unity-cli-skill) · 个人维护 · 中文 README
+⭐ 49 · Python · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/niqibiao/unity-cli-skill) · 个人维护 · 中文 README
 
 **供 AI agent 控制 Unity Editor 的零配置技能（CLI+命令契约）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "niqibiao/unity-cli-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "niqibiao/unity-cli-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 50
+    line [44, 49, 49]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 49（+5）
 
 
 ---

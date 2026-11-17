@@ -1,6 +1,6 @@
 # juninmd/tokenix
 
-⭐ 16 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/juninmd/tokenix) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/juninmd/tokenix) · 个人维护
 
 **AI 编码代理的本地代码索引与输出过滤器 CLI，降低 token 消耗**
 
@@ -46,13 +46,13 @@ Rust 编写的 CLI 工具，运行在 AI 编码代理与代码仓库之间：在
 
 ```mermaid
 xychart-beta
-    title "juninmd/tokenix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "juninmd/tokenix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [15, 16, 15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

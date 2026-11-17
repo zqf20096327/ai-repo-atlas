@@ -1,6 +1,6 @@
 # rickysarraf/debian-cosmic
 
-⭐ 11 · Python · 推送 2026-10-23 · [GitHub](https://github.com/rickysarraf/debian-cosmic) · 个人维护
+⭐ 12 · Python · 推送 2026-10-23 · [GitHub](https://github.com/rickysarraf/debian-cosmic) · 个人维护
 
 **为 Debian Testing/Sid 打包 System76 COSMIC 桌面环境的项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rickysarraf/debian-cosmic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "rickysarraf/debian-cosmic 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

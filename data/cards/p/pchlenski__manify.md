@@ -1,6 +1,6 @@
 # pchlenski/manify
 
-⭐ 76 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/pchlenski/manify) · [官网](https://manify.readthedocs.io/en/latest/) · 组织维护
+⭐ 77 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/pchlenski/manify) · [官网](https://manify.readthedocs.io/en/latest/) · 组织维护
 
 **非欧几里得表示学习 Python 库：流形嵌入与机器学习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pchlenski/manify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    title "pchlenski/manify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 75 --> 78
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-11-02 76（+0）
+2026-10-18 76 → 2026-11-17 77（+1）
 
 
 ---

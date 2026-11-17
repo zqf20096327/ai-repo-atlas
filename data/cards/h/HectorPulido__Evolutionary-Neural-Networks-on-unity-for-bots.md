@@ -1,6 +1,6 @@
 # HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots
 
-⭐ 88 · C# · MIT · 推送 2026-07-22 · [GitHub](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) · [官网](https://www.youtube.com/watch?v=ckSKdjosxc8) · 个人维护
+⭐ 87 · C# · MIT · 推送 2026-07-22 · [GitHub](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) · [官网](https://www.youtube.com/watch?v=ckSKdjosxc8) · 个人维护
 
 **Unity 资产：用遗传算法训练神经网络制作游戏 bot**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    title "HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 86 --> 89
+    line [88, 87, 87]
 ```
 
-2026-10-18 88 → 2026-11-02 88（+0）
+2026-10-18 88 → 2026-11-17 87（-1）
 
 
 ---

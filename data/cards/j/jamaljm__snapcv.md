@@ -1,6 +1,6 @@
 # jamaljm/snapcv
 
-⭐ 56 · TypeScript · AGPL-3.0 · 推送 2026-07-11 · [GitHub](https://github.com/jamaljm/snapcv) · [官网](https://snapcv.me) · 个人维护
+⭐ 56 · TypeScript · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/jamaljm/snapcv) · [官网](https://snapcv.me) · 个人维护
 
 **上传简历自动生成个人作品集网站的 AI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamaljm/snapcv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

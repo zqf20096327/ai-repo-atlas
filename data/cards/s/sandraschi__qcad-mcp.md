@@ -1,6 +1,6 @@
 # sandraschi/qcad-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sandraschi/qcad-mcp) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sandraschi/qcad-mcp) · 个人维护
 
 **让 AI 助手操作 QCAD Pro 的 MCP 服务器与 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandraschi/qcad-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "sandraschi/qcad-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 19
-    line [18, 17, 18, 18]
+    line [18, 17, 18, 17, 18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

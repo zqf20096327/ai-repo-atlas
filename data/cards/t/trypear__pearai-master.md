@@ -1,6 +1,6 @@
 # trypear/pearai-master
 
-⭐ 773 · Shell · 推送 2026-06-19 · [GitHub](https://github.com/trypear/pearai-master) · [官网](https://trypear.ai) · 组织维护
+⭐ 774 · Shell · 推送 2026-06-19 · [GitHub](https://github.com/trypear/pearai-master) · [官网](https://trypear.ai) · 组织维护
 
 **聚合多个仓库的 AI 代码编辑器主仓库：VSCode 分支+AI 聊天**
 
@@ -44,13 +44,13 @@ PearAI 主仓库，汇总构成整个项目的各子仓库：pearai-app（VSCode
 
 ```mermaid
 xychart-beta
-    title "trypear/pearai-master 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 772 --> 774
-    line [773, 773]
+    title "trypear/pearai-master 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 772 --> 776
+    line [773, 775, 774, 773, 774, 774]
 ```
 
-2026-10-18 773 → 2026-11-02 773（+0）
+2026-10-18 773 → 2026-11-17 774（+1）
 
 
 ---

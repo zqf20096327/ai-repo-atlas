@@ -1,6 +1,6 @@
 # meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals
 
-⭐ 59 · Python · 推送 2026-03-28 · [GitHub](https://github.com/meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals) · [官网](https://www.lernerlab.com/) · 组织维护
+⭐ 60 · Python · 推送 2026-03-28 · [GitHub](https://github.com/meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals) · [官网](https://www.lernerlab.com/) · 组织维护
 
 **用 CNN 对自闭症群体 EEG 数据做情绪解码的科研代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "meiyor/Deep-Learning-Emotion-Decoding-using-EEG-data-from-Autism-individuals 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

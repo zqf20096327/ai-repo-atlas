@@ -1,6 +1,6 @@
 # tboulet/Alan-Code-agent
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tboulet/Alan-Code-agent) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/tboulet/Alan-Code-agent) · 个人维护
 
 **开源 Python 编码 agent，类 Claude Code，支持本地模型**
 
@@ -45,13 +45,13 @@ Alan Code 是用 Python 实现的终端编码 agent，功能含异步 agent 循�
 
 ```mermaid
 xychart-beta
-    title "tboulet/Alan-Code-agent 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "tboulet/Alan-Code-agent 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-30 25 → 2026-11-02 25（+0）
+2026-10-30 25 → 2026-11-17 26（+1）
 
 
 ---

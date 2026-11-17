@@ -1,6 +1,6 @@
 # ultralytics/functions-matlab
 
-⭐ 79 · MATLAB · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ultralytics/functions-matlab) · [官网](https://ultralytics.com) · 组织维护
+⭐ 83 · MATLAB · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ultralytics/functions-matlab) · [官网](https://ultralytics.com) · 组织维护
 
 **Ultralytics 生态共享的 MATLAB 工具函数库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ultralytics/functions-matlab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    title "ultralytics/functions-matlab 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 78 --> 84
+    line [79, 81, 83, 83]
 ```
 
-2026-10-18 79 → 2026-11-02 79（+0）
+2026-10-18 79 → 2026-11-17 83（+4）
 
 
 ---

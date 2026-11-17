@@ -1,6 +1,6 @@
 # MattiaPugliatti/corto
 
-⭐ 37 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/MattiaPugliatti/corto) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/MattiaPugliatti/corto) · 组织维护
 
 **天体与航天器合成图像-标签对生成库（基于 Blender bpy）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MattiaPugliatti/corto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "MattiaPugliatti/corto 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

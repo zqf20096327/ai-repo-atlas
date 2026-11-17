@@ -1,6 +1,6 @@
 # Sega757/Fast-AtomRAG-Core
 
-⭐ 84 · Python · 推送 2026-08-21 · [GitHub](https://github.com/Sega757/Fast-AtomRAG-Core) · 个人维护
+⭐ 85 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Sega757/Fast-AtomRAG-Core) · 个人维护
 
 **向量-图混合检索微服务：亚秒级 RAG 原子知识搜索**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sega757/Fast-AtomRAG-Core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    title "Sega757/Fast-AtomRAG-Core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 83 --> 86
+    line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 85（+1）
 
 
 ---

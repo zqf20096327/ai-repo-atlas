@@ -1,6 +1,6 @@
 # qoli/eisonAI
 
-⭐ 95 · Swift · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/qoli/eisonAI) · 个人维护 · 中文 README
+⭐ 96 · Swift · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/qoli/eisonAI) · 个人维护 · 中文 README
 
 **iOS Safari 扩展+原生应用：结构先行的阅读与笔记助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qoli/eisonAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "qoli/eisonAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 94 --> 97
+    line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 96（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rpita623/Movie-Recommendation-System-using-R_Project 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Rpita623/Movie-Recommendation-System-using-R_Project 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 44 --> 47
-    line [46, 45, 45]
+    line [46, 45, 46, 45, 45]
 ```
 
-2026-10-18 46 → 2026-11-02 45（-1）
+2026-10-18 46 → 2026-11-17 45（-1）
 
 
 ---

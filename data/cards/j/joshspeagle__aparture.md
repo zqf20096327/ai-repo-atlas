@@ -1,6 +1,6 @@
 # joshspeagle/aparture
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/joshspeagle/aparture) · [官网](https://joshspeagle.com/aparture/) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/joshspeagle/aparture) · [官网](https://joshspeagle.com/aparture/) · 个人维护
 
 **按研究者兴趣自动筛选 arXiv 论文并生成日报的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joshspeagle/aparture 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yaoshu-open/yaoshu-token
 
-⭐ 14 · Java · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/yaoshu-open/yaoshu-token) · [官网](https://yaoshu.cc) · 组织维护 · 中文 README
+⭐ 16 · Java · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/yaoshu-open/yaoshu-token) · [官网](https://yaoshu.cc) · 组织维护 · 中文 README
 
 **聚合 40+ 上游 AI 服务商的 Java 版 AI API 网关与计费系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaoshu-open/yaoshu-token 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "yaoshu-open/yaoshu-token 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

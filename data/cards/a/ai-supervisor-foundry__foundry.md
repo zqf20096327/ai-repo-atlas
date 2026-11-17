@@ -1,6 +1,6 @@
 # ai-supervisor-foundry/foundry
 
-⭐ 12 · TypeScript · MIT · 推送 2026-07-12 · [GitHub](https://github.com/ai-supervisor-foundry/foundry) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 编码 agent 的持久编排控制平面：调度、校验、断点续跑**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-supervisor-foundry/foundry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-07"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-07 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hleliofficiel/ExaAiAgent
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/hleliofficiel/ExaAiAgent) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/hleliofficiel/ExaAiAgent) · 个人维护
 
 **AI 驱动的渗透测试 agent 框架，多 agent 协作与 Docker 沙箱执行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hleliofficiel/ExaAiAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "hleliofficiel/ExaAiAgent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

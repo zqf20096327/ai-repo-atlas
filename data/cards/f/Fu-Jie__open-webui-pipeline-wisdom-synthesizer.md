@@ -1,6 +1,6 @@
 # Fu-Jie/open-webui-pipeline-wisdom-synthesizer
 
-⭐ 15 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) · 个人维护 · 中文 README
 
 **Open WebUI 的聚合回答重构管道：将多模型汇总输出改写为结构化专家分析报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fu-Jie/open-webui-pipeline-wisdom-synthesizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Fu-Jie/open-webui-pipeline-wisdom-synthesizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # haghish/shapley
 
-⭐ 18 · R · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/haghish/shapley) · 个人维护
+⭐ 18 · R · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/haghish/shapley) · 个人维护
 
 **R 包：为多模型与堆叠集成计算加权平均 SHAP 值与置信区间**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "haghish/shapley 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

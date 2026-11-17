@@ -1,6 +1,6 @@
 # ScrapingBee/chatgpt-scraper-api
 
-⭐ 1,295 · 推送 2026-07-15 · [GitHub](https://github.com/ScrapingBee/chatgpt-scraper-api) · [官网](https://www.scrapingbee.com/features/chatgpt/) · 组织维护
+⭐ 1,419 · 推送 2026-07-15 · [GitHub](https://github.com/ScrapingBee/chatgpt-scraper-api) · [官网](https://www.scrapingbee.com/features/chatgpt/) · 组织维护
 
 **ScrapingBee ChatGPT 抓取 API 的示例与接入指南仓库**
 
@@ -45,13 +45,13 @@ ScrapingBee 官方仓库，演示如何通过单一 API（chatGPT 端点）构�
 
 ```mermaid
 xychart-beta
-    title "ScrapingBee/chatgpt-scraper-api 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 1261 --> 1299
-    line [1264, 1289, 1296, 1295, 1295]
+    title "ScrapingBee/chatgpt-scraper-api 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1249 --> 1434
+    line [1264, 1289, 1296, 1295, 1330, 1351, 1362, 1374, 1382, 1398, 1411, 1419, 1419]
 ```
 
-2026-10-18 1,264 → 2026-11-02 1,295（+31）
+2026-10-18 1,264 → 2026-11-17 1,419（+155）
 
 
 ---

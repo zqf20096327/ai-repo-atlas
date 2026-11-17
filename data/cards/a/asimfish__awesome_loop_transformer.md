@@ -1,6 +1,6 @@
 # asimfish/awesome_loop_transformer
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/asimfish/awesome_loop_transformer) · 个人维护 · 中文 README
+⭐ 16 · HTML · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/asimfish/awesome_loop_transformer) · [官网](https://asimfish.github.io/awesome_loop_transformer/) · 个人维护 · 中文 README
 
 **循环/递归深度 Transformer 论文策展清单与深度解读报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asimfish/awesome_loop_transformer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 5 --> 13
-    line [6, 7, 10, 11, 12]
+    title "asimfish/awesome_loop_transformer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 5 --> 17
+    line [6, 7, 10, 11, 12, 15, 16, 16]
 ```
 
-2026-10-18 6 → 2026-11-02 12（+6）
+2026-10-18 6 → 2026-11-17 16（+10）
 
 
 ---

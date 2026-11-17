@@ -1,6 +1,6 @@
 # thomasahle/numberlink
 
-⭐ 110 · Go · AGPL-3.0 · 推送 2026-01-26 · [GitHub](https://github.com/thomasahle/numberlink) · 个人维护
+⭐ 111 · Go · AGPL-3.0 · 推送 2026-01-26 · [GitHub](https://github.com/thomasahle/numberlink) · 个人维护
 
 **生成与求解 Numberlink/Flow Free 谜题的命令行程序**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thomasahle/numberlink 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    title "thomasahle/numberlink 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 109 --> 112
+    line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-11-02 110（+0）
+2026-10-18 110 → 2026-11-17 111（+1）
 
 
 ---

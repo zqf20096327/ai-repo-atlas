@@ -1,6 +1,6 @@
 # LienJack/learn-agent
 
-⭐ 26 · Mermaid · MIT · 推送 2026-07-11 · [GitHub](https://github.com/LienJack/learn-agent) · [官网](https://blog.lienjack.com) · 个人维护 · 中文 README
+⭐ 27 · Mermaid · MIT · 推送 2026-07-11 · [GitHub](https://github.com/LienJack/learn-agent) · [官网](https://blog.lienjack.com) · 个人维护 · 中文 README
 
 **工程师向技术博客知识库：系统学习 Agent、Claude Code 源码与后端基础**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LienJack/learn-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "LienJack/learn-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

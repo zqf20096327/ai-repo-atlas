@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtrackingai/analytics-tracking-automation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "jtrackingai/analytics-tracking-automation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 143 --> 146
-    line [144, 145, 145]
+    line [144, 145, 144, 145, 145]
 ```
 
-2026-10-18 144 → 2026-11-02 145（+1）
+2026-10-18 144 → 2026-11-17 145（+1）
 
 
 ---

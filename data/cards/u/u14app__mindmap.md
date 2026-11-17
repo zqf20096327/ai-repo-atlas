@@ -1,6 +1,6 @@
 # u14app/mindmap
 
-⭐ 22 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/u14app/mindmap) · [官网](https://mindmap.u14.app) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/u14app/mindmap) · [官网](https://mindmap.u14.app) · 个人维护 · 中文 README
 
 **支持 AI 流式输出的 React 思维导图组件库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "u14app/mindmap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

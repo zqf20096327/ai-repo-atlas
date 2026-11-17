@@ -1,6 +1,6 @@
 # AntoGA/agents-contract
 
-⭐ 34 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AntoGA/agents-contract) · [官网](https://cc-c.ru) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AntoGA/agents-contract) · [官网](https://cc-c.ru) · 个人维护 · 中文 README
 
 **AGENTS.md 项目契约模板与零依赖 Python 校验工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AntoGA/agents-contract 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 33 --> 42
-    line [41, 40, 34, 34]
+    title "AntoGA/agents-contract 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 43
+    line [41, 40, 34, 20, 20]
 ```
 
-2026-10-19 41 → 2026-11-02 34（-7）
+2026-10-19 41 → 2026-11-17 20（-21）
 
 
 ---

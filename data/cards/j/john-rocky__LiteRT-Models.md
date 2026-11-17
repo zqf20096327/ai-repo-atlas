@@ -1,6 +1,6 @@
 # john-rocky/LiteRT-Models
 
-⭐ 26 · Kotlin · MIT · 推送 2026-10-31 · [GitHub](https://github.com/john-rocky/LiteRT-Models) · [官网](https://john-rocky.github.io/) · 个人维护
+⭐ 29 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/john-rocky/LiteRT-Models) · [官网](https://john-rocky.github.io/) · 个人维护
 
 **Android 端侧 TFLite 模型库：91 个经 GPU 转换的 .tflite 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/LiteRT-Models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "john-rocky/LiteRT-Models 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 29（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # XMUDeepLIT/TTCS
 
-⭐ 56 · Python · 推送 2026-10-23 · [GitHub](https://github.com/XMUDeepLIT/TTCS) · [官网](https://arxiv.org/abs/2601.22628) · 组织维护
+⭐ 57 · Python · 推送 2026-10-23 · [GitHub](https://github.com/XMUDeepLIT/TTCS) · [官网](https://arxiv.org/abs/2601.22628) · 组织维护
 
 **面向科研者的 LLM 数学推理测试时自进化训练框架**
 
@@ -45,13 +45,13 @@ NeurIPS 2026 论文的代码实现：TTCS 在测试时通过 Synthesizer 与 Sol
 
 ```mermaid
 xychart-beta
-    title "XMUDeepLIT/TTCS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 53 --> 57
-    line [54, 55, 56, 56]
+    title "XMUDeepLIT/TTCS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 58
+    line [54, 55, 56, 55, 57, 57]
 ```
 
-2026-10-18 54 → 2026-11-02 56（+2）
+2026-10-18 54 → 2026-11-17 57（+3）
 
 
 ---

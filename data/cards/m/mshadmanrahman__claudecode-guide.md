@@ -1,6 +1,6 @@
 # mshadmanrahman/claudecode-guide
 
-⭐ 45 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mshadmanrahman/claudecode-guide) · [官网](https://claudecodeguide.dev) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mshadmanrahman/claudecode-guide) · [官网](https://claudecodeguide.dev) · 个人维护
 
 **面向初学者到团队负责人的 Claude Code 使用指南站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mshadmanrahman/claudecode-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mshadmanrahman/claudecode-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    line [44, 45, 44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 45（+1）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

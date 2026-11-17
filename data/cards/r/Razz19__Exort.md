@@ -1,6 +1,6 @@
 # Razz19/Exort
 
-⭐ 226 · Svelte · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/Razz19/Exort) · [官网](https://exort.dev) · 个人维护
+⭐ 227 · Svelte · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Razz19/Exort) · [官网](https://exort.dev) · 个人维护
 
 **面向微控制器的开源 AI 编程桌面工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Razz19/Exort 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 225 --> 227
-    line [226, 226]
+    title "Razz19/Exort 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 225 --> 229
+    line [226, 227, 228, 227, 227]
 ```
 
-2026-10-18 226 → 2026-11-02 226（+0）
+2026-10-18 226 → 2026-11-17 227（+1）
 
 
 ---

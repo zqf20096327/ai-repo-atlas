@@ -1,6 +1,6 @@
 # bsommerfeld/wsbg-terminal
 
-⭐ 22 · Java · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/bsommerfeld/wsbg-terminal) · [官网](https://wsbg.app) · 个人维护
+⭐ 23 · Java · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/bsommerfeld/wsbg-terminal) · [官网](https://wsbg.app) · 个人维护
 
 **面向 r/wallstreetbetsGER 的本地 AI 财经行情终端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bsommerfeld/wsbg-terminal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "bsommerfeld/wsbg-terminal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

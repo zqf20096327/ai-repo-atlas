@@ -1,6 +1,6 @@
 # mindsdb/type_infer
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/mindsdb/type_infer) · 组织维护
+⭐ 27 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/mindsdb/type_infer) · 组织维护
 
 **面向 ML 流水线的表格数据列类型自动推断库**
 
@@ -43,12 +43,12 @@ MindsDB 维护的 Python 库，针对表格数据为每列推断适合机器学�
 ```mermaid
 xychart-beta
     title "mindsdb/type_infer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 27（+0）
 
 
 ---

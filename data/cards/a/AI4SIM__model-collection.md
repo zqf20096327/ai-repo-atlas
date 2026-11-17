@@ -1,6 +1,6 @@
 # AI4SIM/model-collection
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/AI4SIM/model-collection) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AI4SIM/model-collection) · 组织维护
 
 **物理过程代理模型的 PyTorch Lightning 训练管线集合**
 
@@ -45,12 +45,12 @@ Atos AI4SIM 团队与 CERFACS、ECMWF 等伙伴合作维护的深度学习模型
 ```mermaid
 xychart-beta
     title "AI4SIM/model-collection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

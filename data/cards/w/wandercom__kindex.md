@@ -1,6 +1,6 @@
 # wandercom/kindex
 
-⭐ 49 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wandercom/kindex) · [官网](https://wandercom.github.io/kindex/) · 组织维护
+⭐ 51 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/wandercom/kindex) · [官网](https://wandercom.github.io/kindex/) · 组织维护
 
 **多 AI 编码 agent 共享读写的本地知识图谱（MCP 插件/CLI）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wandercom/kindex 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 35 --> 50
-    line [36, 37, 45, 46, 47, 48, 49, 49]
+    title "wandercom/kindex 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 35 --> 52
+    line [36, 37, 45, 46, 47, 48, 49, 46, 49, 50, 51, 51]
 ```
 
-2026-10-18 36 → 2026-11-02 49（+13）
+2026-10-18 36 → 2026-11-17 51（+15）
 
 
 ---

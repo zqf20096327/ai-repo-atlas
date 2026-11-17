@@ -1,6 +1,6 @@
 # arjun988/GPU-Share
 
-⭐ 31 · Rust · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/arjun988/GPU-Share) · [官网](https://gpumesh-architechture.vercel.app/) · 个人维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/arjun988/GPU-Share) · [官网](https://gpumesh-architechture.vercel.app/) · 个人维护
 
 **让信任的同伴经 P2P 在你的 NVIDIA GPU 上运行 Docker 任务**
 
@@ -44,13 +44,13 @@ GPUMesh 是一个 Rust 编写的 CLI 优先工具，附带可选本地仪表盘�
 
 ```mermaid
 xychart-beta
-    title "arjun988/GPU-Share 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31, 31]
+    title "arjun988/GPU-Share 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 31（+2）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

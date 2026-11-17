@@ -1,6 +1,6 @@
 # PreternaturalAI/AI
 
-⭐ 230 · Swift · MIT · 推送 2026-03-05 · [GitHub](https://github.com/PreternaturalAI/AI) · [官网](https://preternatural.ai) · 组织维护
+⭐ 231 · Swift · MIT · 推送 2026-03-05 · [GitHub](https://github.com/PreternaturalAI/AI) · [官网](https://preternatural.ai) · 组织维护
 
 **Swift 开发者接入生成式 AI 的开源框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PreternaturalAI/AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 229 --> 231
-    line [230, 230]
+    title "PreternaturalAI/AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 229 --> 232
+    line [230, 231, 231]
 ```
 
-2026-10-18 230 → 2026-11-02 230（+0）
+2026-10-18 230 → 2026-11-17 231（+1）
 
 
 ---

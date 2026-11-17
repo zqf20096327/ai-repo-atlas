@@ -1,6 +1,6 @@
 # cequence-io/pinecone-scala
 
-⭐ 19 · Scala · MIT · 推送 2026-10-18 · [GitHub](https://github.com/cequence-io/pinecone-scala) · 组织维护
+⭐ 19 · Scala · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cequence-io/pinecone-scala) · 组织维护
 
 **面向 Scala 开发者的 Pinecone 向量数据库异步客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cequence-io/pinecone-scala 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

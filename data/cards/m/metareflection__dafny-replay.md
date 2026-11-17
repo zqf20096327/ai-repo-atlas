@@ -1,6 +1,6 @@
 # metareflection/dafny-replay
 
-⭐ 41 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/metareflection/dafny-replay) · [官网](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/) · 组织维护
+⭐ 42 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/metareflection/dafny-replay) · [官网](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/) · 组织维护
 
 **Dafny 编写、编译为 JS 的形式化验证状态内核，供交互式 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metareflection/dafny-replay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "metareflection/dafny-replay 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 42（+1）
 
 
 ---

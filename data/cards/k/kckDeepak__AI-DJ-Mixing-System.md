@@ -1,6 +1,6 @@
 # kckDeepak/AI-DJ-Mixing-System
 
-⭐ 57 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/kckDeepak/AI-DJ-Mixing-System) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/kckDeepak/AI-DJ-Mixing-System) · 个人维护
 
 **用自然语言 prompt 从本地 MP3 生成 DJ 混音的 AI 管线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kckDeepak/AI-DJ-Mixing-System 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 50 --> 58
-    line [51, 52, 54, 55, 56, 57, 57]
+    title "kckDeepak/AI-DJ-Mixing-System 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 50 --> 66
+    line [51, 52, 54, 55, 56, 57, 55, 59, 61, 62, 64, 65, 65]
 ```
 
-2026-10-18 51 → 2026-11-02 57（+6）
+2026-10-18 51 → 2026-11-17 65（+14）
 
 
 ---

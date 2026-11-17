@@ -1,6 +1,6 @@
 # jurigis/avoid-ai-writing-multilingual
 
-⭐ 19 · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/jurigis/avoid-ai-writing-multilingual) · 个人维护
+⭐ 22 · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/jurigis/avoid-ai-writing-multilingual) · 个人维护
 
 **多语言 AI 写作模式检测/改写技能文件集（德/罗/意/法/瑞典语）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jurigis/avoid-ai-writing-multilingual 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "jurigis/avoid-ai-writing-multilingual 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 18, 20, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

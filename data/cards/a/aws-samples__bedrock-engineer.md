@@ -1,6 +1,6 @@
 # aws-samples/bedrock-engineer
 
-⭐ 486 · TypeScript · MIT-0 · 推送 2026-10-23 · [GitHub](https://github.com/aws-samples/bedrock-engineer) · [官网](https://speakerdeck.com/gawa/introducing-bedrock-engineer-en) · 组织维护
+⭐ 487 · TypeScript · MIT-0 · 推送 2026-11-16 · [GitHub](https://github.com/aws-samples/bedrock-engineer) · [官网](https://speakerdeck.com/gawa/introducing-bedrock-engineer-en) · 组织维护
 
 **基于 Amazon Bedrock 的桌面自主软件开发 Agent 应用**
 
@@ -44,13 +44,13 @@ AWS 官方示例仓库出品的原生桌面应用：通过 Amazon Bedrock 模型
 
 ```mermaid
 xychart-beta
-    title "aws-samples/bedrock-engineer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 482 --> 487
-    line [484, 483, 484, 485, 486]
+    title "aws-samples/bedrock-engineer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 482 --> 488
+    line [484, 483, 484, 485, 486, 483, 486, 487, 487]
 ```
 
-2026-10-18 484 → 2026-11-02 486（+2）
+2026-10-18 484 → 2026-11-17 487（+3）
 
 
 ---

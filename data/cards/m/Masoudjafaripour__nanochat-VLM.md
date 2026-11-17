@@ -1,6 +1,6 @@
 # Masoudjafaripour/nanochat-VLM
 
-⭐ 26 · Python · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Masoudjafaripour/nanochat-VLM) · 个人维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Masoudjafaripour/nanochat-VLM) · [官网](https://masoudjafaripour.github.io/projects/nanochat-vlm/) · 个人维护
 
 **面向学习研究的极简端到端 VLM 训练代码库（nanochat 风格）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Masoudjafaripour/nanochat-VLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "Masoudjafaripour/nanochat-VLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 25 --> 30
+    line [26, 29, 29]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 29（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # aws/sagemaker-spark
 
-⭐ 301 · Scala · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/aws/sagemaker-spark) · [官网](https://aws.github.io/sagemaker-spark/) · 组织维护
+⭐ 302 · Scala · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/aws/sagemaker-spark) · [官网](https://aws.github.io/sagemaker-spark/) · 组织维护
 
 **在 Spark 中调用 Amazon SageMaker 训练与托管模型的库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws/sagemaker-spark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 300 --> 302
-    line [301, 301]
+    title "aws/sagemaker-spark 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 300 --> 304
+    line [301, 302, 303, 302, 302]
 ```
 
-2026-10-18 301 → 2026-11-02 301（+0）
+2026-10-18 301 → 2026-11-17 302（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sphere-AI-Lab/orbit
 
-⭐ 157 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/Sphere-AI-Lab/orbit) · [官网](https://spherelab.ai/orbit/) · 组织维护
+⭐ 155 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/Sphere-AI-Lab/orbit) · [官网](https://spherelab.ai/orbit/) · 组织维护
 
 **面向万亿参数 LLM 的单节点低精度 RL 后训练框架**
 
@@ -45,13 +45,13 @@ Orbit 是一个轻量级大规模强化学习后训练框架：将基座模型�
 
 ```mermaid
 xychart-beta
-    title "Sphere-AI-Lab/orbit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 156 --> 158
-    line [157, 157]
+    title "Sphere-AI-Lab/orbit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 154 --> 158
+    line [157, 156, 155, 155]
 ```
 
-2026-10-18 157 → 2026-11-02 157（+0）
+2026-10-18 157 → 2026-11-17 155（-2）
 
 
 ---

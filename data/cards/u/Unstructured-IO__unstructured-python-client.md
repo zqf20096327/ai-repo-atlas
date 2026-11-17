@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured-python-client
 
-⭐ 120 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Unstructured-IO/unstructured-python-client) · 组织维护
+⭐ 120 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Unstructured-IO/unstructured-python-client) · 组织维护
 
 **面向开发者的 Unstructured 文档处理平台 Python SDK**
 
@@ -45,12 +45,12 @@ Unstructured Platform API 的 HTTP 客户端 SDK，以 Python 库形式提供，
 ```mermaid
 xychart-beta
     title "Unstructured-IO/unstructured-python-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 119 --> 121
     line [120, 120]
 ```
 
-2026-10-18 120 → 2026-11-02 120（+0）
+2026-10-18 120 → 2026-11-17 120（+0）
 
 
 ---

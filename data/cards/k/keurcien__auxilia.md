@@ -1,6 +1,6 @@
 # keurcien/auxilia
 
-⭐ 23 · HTML · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/keurcien/auxilia) · 个人维护
+⭐ 24 · HTML · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/keurcien/auxilia) · 个人维护
 
 **面向团队的自托管 Web 端 MCP AI 助手运行平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "keurcien/auxilia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "keurcien/auxilia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

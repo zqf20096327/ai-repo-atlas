@@ -1,6 +1,6 @@
 # mdrideout/junjo
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/mdrideout/junjo) · [官网](https://python-api.junjo.ai/) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/mdrideout/junjo) · [官网](https://python-api.junjo.ai/) · 个人维护
 
 **构建可观测 AI 应用与确定性工作流的平台与 Python SDK**
 
@@ -45,13 +45,13 @@ Junjo 是一个构建可观测 AI 应用的平台，通过显式契约管理确�
 
 ```mermaid
 xychart-beta
-    title "mdrideout/junjo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "mdrideout/junjo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

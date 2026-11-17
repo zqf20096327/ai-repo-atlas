@@ -1,6 +1,6 @@
 # bentoml/BentoWhisperX
 
-⭐ 18 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoWhisperX) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 BentoML 部署 WhisperX 语音识别推理 API 的示例工程**
 
@@ -44,12 +44,12 @@ BentoML 官方示例项目：将 WhisperX（带词级时间戳与说话人分离
 ```mermaid
 xychart-beta
     title "bentoml/BentoWhisperX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-08 18（+0）
 
 
 ---

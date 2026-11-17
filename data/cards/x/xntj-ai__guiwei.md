@@ -1,6 +1,6 @@
 # xntj-ai/guiwei
 
-⭐ 27 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/xntj-ai/guiwei) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/xntj-ai/guiwei) · 个人维护 · 中文 README
 
 **本地 AI 文件自动整理服务：读懂文件后改名、归类、建可撤销索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xntj-ai/guiwei 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    title "xntj-ai/guiwei 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 26, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

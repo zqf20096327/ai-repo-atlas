@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/tf-estimator-tutorials
 
-⭐ 668 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials) · [官网](https://www.tensorflow.org/programmers_guide/estimators) · 组织维护
+⭐ 669 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials) · [官网](https://www.tensorflow.org/programmers_guide/estimators) · 组织维护
 
 **TensorFlow Estimator API 系统化教程仓库，覆盖多种机器学习任务**
 
@@ -44,13 +44,13 @@ GoogleCloudPlatform 维护的 TF estimator 教程集合：以标准化、系统�
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/tf-estimator-tutorials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 667 --> 670
-    line [669, 668, 668]
+    title "GoogleCloudPlatform/tf-estimator-tutorials 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 666 --> 670
+    line [669, 668, 667, 668, 669, 669]
 ```
 
-2026-10-18 669 → 2026-11-02 668（-1）
+2026-10-18 669 → 2026-11-17 669（+0）
 
 
 ---

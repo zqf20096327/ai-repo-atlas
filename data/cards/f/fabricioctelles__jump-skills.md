@@ -1,6 +1,6 @@
 # fabricioctelles/jump-skills
 
-⭐ 32 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fabricioctelles/jump-skills) · [官网](https://jumpskills.ninja) · 个人维护
+⭐ 32 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/fabricioctelles/jump-skills) · [官网](https://jumpskills.ninja) · 个人维护
 
 **AI 编码 agent 的元技能集合：按需路由到各云厂商专家技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabricioctelles/jump-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "fabricioctelles/jump-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 31 --> 34
-    line [33, 32, 32]
+    line [33, 32, 33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-11-02 32（-1）
+2026-10-18 33 → 2026-11-17 32（-1）
 
 
 ---

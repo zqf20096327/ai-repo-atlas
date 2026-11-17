@@ -1,6 +1,6 @@
 # KOSASIH/pi-humanity-protocol
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/KOSASIH/pi-humanity-protocol) · [官网](https://pi-humanity-protocol.vercel.app) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/KOSASIH/pi-humanity-protocol) · [官网](https://pi-humanity-protocol.vercel.app) · 个人维护
 
 **面向 AI 公司的人类众包 API：租用 Pi 网络 KYC 认证用户做人审**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "KOSASIH/pi-humanity-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "KOSASIH/pi-humanity-protocol 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

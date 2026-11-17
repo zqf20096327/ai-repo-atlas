@@ -1,6 +1,6 @@
 # Sanaurrehmanarain/wqu-msc-financial-engineering
 
-⭐ 15 · Jupyter Notebook · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/Sanaurrehmanarain/wqu-msc-financial-engineering) · [官网](https://www.wqu.edu/) · 个人维护
+⭐ 18 · Jupyter Notebook · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/Sanaurrehmanarain/wqu-msc-financial-engineering) · [官网](https://www.wqu.edu/) · 个人维护
 
 **金融工程硕士课程作业与项目存档（WorldQuant University）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sanaurrehmanarain/wqu-msc-financial-engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Sanaurrehmanarain/wqu-msc-financial-engineering 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

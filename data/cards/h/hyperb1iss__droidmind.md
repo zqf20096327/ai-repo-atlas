@@ -1,6 +1,6 @@
 # hyperb1iss/droidmind
 
-⭐ 444 · Python · Apache-2.0 · 推送 2026-01-07 · [GitHub](https://github.com/hyperb1iss/droidmind) · [官网](https://hyperb1iss.github.io/droidmind/) · 个人维护
+⭐ 452 · Python · Apache-2.0 · 推送 2026-01-07 · [GitHub](https://github.com/hyperb1iss/droidmind) · [官网](https://hyperb1iss.github.io/droidmind/) · 个人维护
 
 **通过 MCP 让 AI 助手控制与调试 Android 设备的桥接服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hyperb1iss/droidmind 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 439 --> 445
-    line [440, 441, 443, 444, 443, 444, 444]
+    title "hyperb1iss/droidmind 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 439 --> 454
+    line [440, 441, 443, 444, 443, 444, 450, 453, 452, 452]
 ```
 
-2026-10-18 440 → 2026-11-02 444（+4）
+2026-10-18 440 → 2026-11-17 452（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # argahv/sisyphus-academica
 
-⭐ 76 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/argahv/sisyphus-academica) · [官网](https://argahv.github.io/sisyphus-academica/) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/argahv/sisyphus-academica) · [官网](https://argahv.github.io/sisyphus-academica/) · 个人维护
 
 **多 agent 科研论文生成管道：文献综述、新颖性生成与引用验证**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "argahv/sisyphus-academica 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 72 --> 77
-    line [73, 74, 75, 76, 76]
+    title "argahv/sisyphus-academica 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 72 --> 78
+    line [73, 74, 75, 76, 73, 77, 77]
 ```
 
-2026-10-18 73 → 2026-11-02 76（+3）
+2026-10-18 73 → 2026-11-17 77（+4）
 
 
 ---

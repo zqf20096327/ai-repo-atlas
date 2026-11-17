@@ -1,6 +1,6 @@
 # BrikerMan/skilless.ai
 
-⭐ 229 · Astro · 推送 2026-07-04 · [GitHub](https://github.com/BrikerMan/skilless.ai) · [官网](https://skilless.ai) · 个人维护 · 中文 README
+⭐ 228 · Astro · 推送 2026-07-04 · [GitHub](https://github.com/BrikerMan/skilless.ai) · [官网](https://skilless.ai) · 个人维护 · 中文 README
 
 **给 AI Agent 装上真实数据能力的技能包安装器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrikerMan/skilless.ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "BrikerMan/skilless.ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 226 --> 230
-    line [227, 229, 229]
+    line [227, 229, 228, 228]
 ```
 
-2026-10-18 227 → 2026-11-02 229（+2）
+2026-10-18 227 → 2026-11-17 228（+1）
 
 
 ---

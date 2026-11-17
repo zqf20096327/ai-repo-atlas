@@ -1,6 +1,6 @@
 # talhatahir-10xe/CuQwen
 
-⭐ 13 · Cuda · MIT · 推送 2026-10-14 · [GitHub](https://github.com/talhatahir-10xe/CuQwen) · [官网](https://www.linkedin.com/in/talha-tahir-46318420a/) · 个人维护
+⭐ 14 · Cuda · MIT · 推送 2026-10-14 · [GitHub](https://github.com/talhatahir-10xe/CuQwen) · [官网](https://www.linkedin.com/in/talha-tahir-46318420a/) · 个人维护
 
 **从零用 C++/CUDA 编写的 Qwen 模型本地推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "talhatahir-10xe/CuQwen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "talhatahir-10xe/CuQwen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

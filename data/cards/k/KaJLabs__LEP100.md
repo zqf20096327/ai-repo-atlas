@@ -1,6 +1,6 @@
 # KaJLabs/LEP100
 
-⭐ 142 · TypeScript · NOASSERTION · 推送 2026-03-25 · [GitHub](https://github.com/KaJLabs/LEP100) · [官网](https://lep100.ai) · 组织维护
+⭐ 124 · TypeScript · NOASSERTION · 推送 2026-03-25 · [GitHub](https://github.com/KaJLabs/LEP100) · [官网](https://lep100.ai) · 组织维护
 
 **Lithosphere 区块链的 LEP100 智能合约与代币标准规范套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KaJLabs/LEP100 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 141 --> 150
-    line [149, 143, 142, 142]
+    title "KaJLabs/LEP100 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 122 --> 151
+    line [149, 143, 142, 127, 124, 124]
 ```
 
-2026-10-18 149 → 2026-11-02 142（-7）
+2026-10-18 149 → 2026-11-17 124（-25）
 
 
 ---

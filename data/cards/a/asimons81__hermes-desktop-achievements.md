@@ -1,6 +1,6 @@
 # asimons81/hermes-desktop-achievements
 
-⭐ 16 · JavaScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/asimons81/hermes-desktop-achievements) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/asimons81/hermes-desktop-achievements) · 个人维护
 
 **Hermes Agent 桌面端的成就系统插件：成就页、状态栏积分与解锁通知**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asimons81/hermes-desktop-achievements 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "asimons81/hermes-desktop-achievements 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 15, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 18（+3）
 
 
 ---

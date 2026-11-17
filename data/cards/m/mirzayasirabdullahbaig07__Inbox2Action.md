@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Inbox2Action
 
-⭐ 26 · Python · 推送 2026-08-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Inbox2Action) · [官网](https://inbox2action.streamlit.app/) · 组织维护
+⭐ 25 · Python · 推送 2026-08-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Inbox2Action) · [官网](https://inbox2action.streamlit.app/) · 组织维护
 
 **面向企业的自主任务 Agent：将非结构化来件解析为执行计划与草拟回复**
 
@@ -44,13 +44,13 @@ All Things Agentic Hackathon Taskmaster Track 的参赛作品，部署在 Stream
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Inbox2Action 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/Inbox2Action 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 22 --> 27
-    line [23, 25, 26, 26]
+    line [23, 25, 26, 23, 26, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 26（+3）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

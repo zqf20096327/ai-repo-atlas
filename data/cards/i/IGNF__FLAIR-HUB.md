@@ -1,6 +1,6 @@
 # IGNF/FLAIR-HUB
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/IGNF/FLAIR-HUB) · [官网](https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/IGNF/FLAIR-HUB) · [官网](https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html) · 组织维护
 
 **FLAIR-HUB 遥感数据集的多模态语义分割训练与推理代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IGNF/FLAIR-HUB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 54（+0）
 
 
 ---

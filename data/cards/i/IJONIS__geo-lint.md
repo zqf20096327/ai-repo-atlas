@@ -1,6 +1,6 @@
 # IJONIS/geo-lint
 
-⭐ 40 · TypeScript · MIT · 推送 2026-03-19 · [GitHub](https://github.com/IJONIS/geo-lint) · [官网](https://ijonis.com) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-03-19 · [GitHub](https://github.com/IJONIS/geo-lint) · [官网](https://ijonis.com) · 个人维护
 
 **面向 AI agent 的 GEO/SEO 内容检查器（97 条规则，可自动修复循环）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "IJONIS/geo-lint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "IJONIS/geo-lint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

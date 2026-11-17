@@ -1,6 +1,6 @@
 # voidmuse-dev/voidmuse
 
-⭐ 112 · TypeScript · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/voidmuse-dev/voidmuse) · [官网](https://voidmuse-dev.github.io/voidmuse/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 IntelliJ 与 VS Code 的开源 AI IDE 插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "voidmuse-dev/voidmuse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-18 112 → 2026-11-02 112（+0）
+2026-10-18 112 → 2026-11-07 112（+0）
 
 
 ---

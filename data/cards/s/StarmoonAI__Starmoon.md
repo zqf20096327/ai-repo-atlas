@@ -1,6 +1,6 @@
 # StarmoonAI/Starmoon
 
-⭐ 546 · TypeScript · GPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/StarmoonAI/Starmoon) · [官网](https://www.elatoai.com) · 组织维护
+⭐ 547 · TypeScript · GPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/StarmoonAI/Starmoon) · [官网](https://www.elatoai.com) · 组织维护
 
 **开源 ESP32 对话 AI 伴侣设备的软硬件框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StarmoonAI/Starmoon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "StarmoonAI/Starmoon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 545 --> 549
-    line [548, 547, 546, 546]
+    line [548, 547, 546, 547, 546, 547, 547]
 ```
 
-2026-10-18 548 → 2026-11-02 546（-2）
+2026-10-18 548 → 2026-11-17 547（-1）
 
 
 ---

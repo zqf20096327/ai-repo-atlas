@@ -1,6 +1,6 @@
 # nuwa-skills/socrates-skill
 
-⭐ 15 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/socrates-skill) · 个人维护 · 中文 README
+⭐ 16 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/socrates-skill) · 个人维护 · 中文 README
 
 **苏格拉底人设的 Agent Skill：提供可运行的批判性提问框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nuwa-skills/socrates-skill 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "nuwa-skills/socrates-skill 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 16, 16]
 ```
 
-2026-10-19 14 → 2026-11-02 15（+1）
+2026-10-19 14 → 2026-11-17 16（+2）
 
 
 ---

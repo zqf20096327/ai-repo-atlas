@@ -1,6 +1,6 @@
 # kvv256512-ux/turbo-ai
 
-⭐ 70 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/kvv256512-ux/turbo-ai) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/kvv256512-ux/turbo-ai) · 个人维护
 
 **Turbo Pascal 7.0 风格的 Pi coding agent 终端前端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kvv256512-ux/turbo-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 65 --> 71
-    line [66, 67, 68, 70, 70]
+    title "kvv256512-ux/turbo-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 73
+    line [66, 67, 68, 70, 67, 72, 72]
 ```
 
-2026-10-18 66 → 2026-11-02 70（+4）
+2026-10-18 66 → 2026-11-17 72（+6）
 
 
 ---

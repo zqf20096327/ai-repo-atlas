@@ -1,6 +1,6 @@
 # frankroeder/parrot.nvim
 
-⭐ 793 · Lua · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/frankroeder/parrot.nvim) · 个人维护
+⭐ 792 · Lua · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/frankroeder/parrot.nvim) · 个人维护
 
 **面向 Neovim 的 LLM 文本生成插件：补全、改写与聊天**
 
@@ -45,13 +45,13 @@ Neovim 插件，将 LLM API 集成到文本编辑工作流中，功能为按需�
 
 ```mermaid
 xychart-beta
-    title "frankroeder/parrot.nvim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "frankroeder/parrot.nvim 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 791 --> 794
-    line [792, 793, 793]
+    line [792, 793, 792, 792]
 ```
 
-2026-10-18 792 → 2026-11-02 793（+1）
+2026-10-18 792 → 2026-11-17 792（+0）
 
 
 ---

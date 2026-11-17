@@ -1,6 +1,6 @@
 # DPIRD-DMA/OmniCloudMask
 
-⭐ 204 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DPIRD-DMA/OmniCloudMask) · 组织维护
+⭐ 210 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DPIRD-DMA/OmniCloudMask) · 组织维护
 
 **卫星影像云与云影分割的 Python 库（深度学习）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DPIRD-DMA/OmniCloudMask 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 198 --> 205
-    line [199, 200, 201, 202, 204, 204]
+    title "DPIRD-DMA/OmniCloudMask 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 198 --> 211
+    line [199, 200, 201, 202, 204, 201, 207, 208, 210, 210]
 ```
 
-2026-10-18 199 → 2026-11-02 204（+5）
+2026-10-18 199 → 2026-11-17 210（+11）
 
 
 ---

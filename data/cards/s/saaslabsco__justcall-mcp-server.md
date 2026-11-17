@@ -1,6 +1,6 @@
 # saaslabsco/justcall-mcp-server
 
-⭐ 25 · HTML · MIT · 推送 2026-03-12 · [GitHub](https://github.com/saaslabsco/justcall-mcp-server) · [官网](https://justcall.io) · 组织维护
+⭐ 26 · HTML · MIT · 推送 2026-03-12 · [GitHub](https://github.com/saaslabsco/justcall-mcp-server) · [官网](https://justcall.io) · 组织维护
 
 **让 LLM/agent 通过 MCP 直接打电话、发短信的官方服务器**
 
@@ -44,13 +44,13 @@ JustCall 官方的 MCP Server：以函数调用接口向 LLM 与 AI agent 开放
 
 ```mermaid
 xychart-beta
-    title "saaslabsco/justcall-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "saaslabsco/justcall-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

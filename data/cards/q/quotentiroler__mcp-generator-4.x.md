@@ -1,6 +1,6 @@
 # quotentiroler/mcp-generator-4.x
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/quotentiroler/mcp-generator-4.x) · [官网](https://quotentiroler.github.io/mcp-generator-4.x/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/quotentiroler/mcp-generator-4.x) · [官网](https://quotentiroler.github.io/mcp-generator-4.x/) · 个人维护
 
 **从 OpenAPI 规范生成 FastMCP 4 MCP 服务器的代码生成器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quotentiroler/mcp-generator-4.x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

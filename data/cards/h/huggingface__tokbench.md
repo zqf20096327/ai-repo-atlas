@@ -1,6 +1,6 @@
 # huggingface/tokbench
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/tokbench) · 组织维护
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/tokbench) · 组织维护
 
 **分词器实现的公平基准测试框架，含 id 校验门**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的分词器（tokenizer）性能基准：一个引擎一个�
 
 ```mermaid
 xychart-beta
-    title "huggingface/tokbench 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "huggingface/tokbench 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 13, 15, 15]
 ```
 
-2026-10-19 10 → 2026-11-02 11（+1）
+2026-10-19 10 → 2026-11-17 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Forlives/21-day-self-interview
 
-⭐ 107 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Forlives/21-day-self-interview) · 个人维护 · 中文 README
+⭐ 108 · Python · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Forlives/21-day-self-interview) · 个人维护 · 中文 README
 
 **AI 存在主义心理咨询师技能：21 晚每晚三问并记忆回映**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Forlives/21-day-self-interview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 102 --> 108
-    line [103, 104, 105, 106, 107, 107]
+    title "Forlives/21-day-self-interview 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 102 --> 109
+    line [103, 104, 105, 106, 107, 105, 108, 108]
 ```
 
-2026-10-18 103 → 2026-11-02 107（+4）
+2026-10-18 103 → 2026-11-17 108（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # sozercan/ayna
 
-⭐ 34 · Swift · MIT · 推送 2026-08-15 · [GitHub](https://github.com/sozercan/ayna) · 个人维护
+⭐ 35 · Swift · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sozercan/ayna) · 个人维护
 
 **Apple 平台的原生 agentic AI 聊天客户端（macOS/iOS/watchOS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sozercan/ayna 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "sozercan/ayna 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

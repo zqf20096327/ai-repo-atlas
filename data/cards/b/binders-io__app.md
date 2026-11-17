@@ -1,6 +1,6 @@
 # binders-io/app
 
-⭐ 24 · Swift · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/binders-io/app) · [官网](https://binders.io) · 组织维护
+⭐ 25 · Swift · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/binders-io/app) · [官网](https://binders.io) · 组织维护
 
 **macOS 本地优先的听写、会议纪要与个人记忆应用，附 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "binders-io/app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "binders-io/app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

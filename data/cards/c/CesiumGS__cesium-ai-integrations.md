@@ -1,6 +1,6 @@
 # CesiumGS/cesium-ai-integrations
 
-⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/CesiumGS/cesium-ai-integrations) · 组织维护
+⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/CesiumGS/cesium-ai-integrations) · 组织维护
 
 **连接 CesiumJS 与 AI 系统的参考集成与实验合集（已弃用）**
 
@@ -44,13 +44,13 @@ CesiumGS 维护的参考集成集合：提供 MCP 服务器、agent skills、检
 
 ```mermaid
 xychart-beta
-    title "CesiumGS/cesium-ai-integrations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    title "CesiumGS/cesium-ai-integrations 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-17 94（+1）
 
 
 ---

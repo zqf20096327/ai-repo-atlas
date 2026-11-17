@@ -1,6 +1,6 @@
 # 10Nates/ollama-autocoder
 
-⭐ 156 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/10Nates/ollama-autocoder) · 个人维护
+⭐ 157 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/10Nates/ollama-autocoder) · 个人维护
 
 **调用 Ollama 的 VSCode 代码自动补全扩展**
 
@@ -44,13 +44,13 @@ VSCode 扩展，通过本地 Ollama API 端点生成代码补全：按键或命�
 
 ```mermaid
 xychart-beta
-    title "10Nates/ollama-autocoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 155 --> 157
-    line [156, 156]
+    title "10Nates/ollama-autocoder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 155 --> 158
+    line [156, 157, 157]
 ```
 
-2026-10-18 156 → 2026-11-02 156（+0）
+2026-10-18 156 → 2026-11-17 157（+1）
 
 
 ---

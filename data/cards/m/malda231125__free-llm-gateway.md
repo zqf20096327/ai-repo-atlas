@@ -1,6 +1,6 @@
 # malda231125/free-llm-gateway
 
-⭐ 13 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/malda231125/free-llm-gateway) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/malda231125/free-llm-gateway) · 个人维护 · 中文 README
 
 **为开发者聚合 7 家免费 LLM API 并按提示词智能路由的网关**
 
@@ -44,13 +44,13 @@ OpenAI 兼容的 LLM 网关，聚合 Google、Groq、Cerebras、Mistral、NVIDIA
 
 ```mermaid
 xychart-beta
-    title "malda231125/free-llm-gateway 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [11, 10, 11, 12, 13, 13]
+    title "malda231125/free-llm-gateway 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [11, 10, 11, 12, 13, 10, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

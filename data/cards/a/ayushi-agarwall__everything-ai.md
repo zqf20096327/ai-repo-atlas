@@ -1,6 +1,6 @@
 # ayushi-agarwall/everything-ai
 
-⭐ 21 · GPL-3.0 · 推送 2026-02-27 · [GitHub](https://github.com/ayushi-agarwall/everything-ai) · 个人维护
+⭐ 22 · GPL-3.0 · 推送 2026-02-27 · [GitHub](https://github.com/ayushi-agarwall/everything-ai) · 个人维护
 
 **AI/生成式 AI 学习与资源路线图清单：课程、资助、社群**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayushi-agarwall/everything-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "ayushi-agarwall/everything-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

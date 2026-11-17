@@ -1,6 +1,6 @@
 # Bouwles/rl-chess-snake-lab
 
-⭐ 19 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Bouwles/rl-chess-snake-lab) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Bouwles/rl-chess-snake-lab) · 个人维护
 
 **蛇与棋的强化学习实验库：DQN 与自博弈训练代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bouwles/rl-chess-snake-lab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 18 --> 24
-    line [23, 19, 19]
+    title "Bouwles/rl-chess-snake-lab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 24
+    line [23, 19, 11, 10, 10]
 ```
 
-2026-10-18 23 → 2026-11-02 19（-4）
+2026-10-18 23 → 2026-11-17 10（-13）
 
 
 ---

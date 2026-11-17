@@ -1,6 +1,6 @@
 # jihadkhawaja/MAGICore
 
-⭐ 15 · C# · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/jihadkhawaja/MAGICore) · 个人维护
+⭐ 16 · C# · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/jihadkhawaja/MAGICore) · 个人维护
 
 **面向 .NET AI agent 的长期记忆基础设施库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jihadkhawaja/MAGICore 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "jihadkhawaja/MAGICore 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-29 15 → 2026-11-02 15（+0）
+2026-10-29 15 → 2026-11-17 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # strelov1/diffray
 
-⭐ 25 · TypeScript · 推送 2026-01-25 · [GitHub](https://github.com/strelov1/diffray) · [官网](https://diffray.ai/cli) · 个人维护
+⭐ 27 · TypeScript · 推送 2026-01-25 · [GitHub](https://github.com/strelov1/diffray) · [官网](https://diffray.ai/cli) · 个人维护
 
 **多 agent AI 代码审查 CLI：审查 git 变更中的问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "strelov1/diffray 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "strelov1/diffray 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # EmergentOrder/onnx-scala
 
-⭐ 151 · Scala · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/EmergentOrder/onnx-scala) · 个人维护
+⭐ 151 · Scala · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/EmergentOrder/onnx-scala) · 个人维护
 
 **Scala 3 的 ONNX API 与推理后端库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EmergentOrder/onnx-scala 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 150 --> 152
     line [151, 151]
 ```
 
-2026-10-18 151 → 2026-11-02 151（+0）
+2026-10-18 151 → 2026-11-17 151（+0）
 
 
 ---

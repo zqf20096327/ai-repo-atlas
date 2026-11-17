@@ -1,6 +1,6 @@
 # vEduardovich/dodari
 
-⭐ 246 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/vEduardovich/dodari) · [官网](https://finpin.himion.com/dodari) · 个人维护 · 中文 README
+⭐ 247 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/vEduardovich/dodari) · [官网](https://finpin.himion.com/dodari) · 个人维护 · 中文 README
 
 **面向读者的多语言 AI 整书翻译工具：翻译 EPUB/PDF/TXT**
 
@@ -45,13 +45,13 @@ Dodari 2 是多语言 AI 翻译应用，读取 EPUB、PDF、TXT 文档并生成�
 
 ```mermaid
 xychart-beta
-    title "vEduardovich/dodari 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 238 --> 247
-    line [239, 241, 243, 244, 246, 246]
+    title "vEduardovich/dodari 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 238 --> 248
+    line [239, 241, 243, 244, 246, 243, 247, 247]
 ```
 
-2026-10-18 239 → 2026-11-02 246（+7）
+2026-10-18 239 → 2026-11-17 247（+8）
 
 
 ---

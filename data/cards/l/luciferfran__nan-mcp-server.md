@@ -1,6 +1,6 @@
 # luciferfran/nan-mcp-server
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/luciferfran/nan-mcp-server) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/luciferfran/nan-mcp-server) · 个人维护
 
 **MCP 服务器：向 MCP 客户端暴露 NaN API 的图像、语音与嵌入工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "luciferfran/nan-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "luciferfran/nan-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

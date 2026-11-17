@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/slidev-mcp
 
-⭐ 91 · Jinja · MIT · 推送 2025-11-17 · [GitHub](https://github.com/LSTM-Kirigaya/slidev-mcp) · [官网](https://kirigaya.cn/openmcp) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 Slidev 的 MCP 服务器：让 LLM 生成与管理网页幻灯片**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LSTM-Kirigaya/slidev-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-18 91 → 2026-11-02 91（+0）
+2026-10-18 91 → 2026-11-12 91（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Otman404/local-rag-llamaindex
 
-⭐ 135 · Python · 推送 2026-10-26 · [GitHub](https://github.com/Otman404/local-rag-llamaindex) · [官网](https://otmaneboughaba.com/posts/local-rag-api/) · 个人维护
+⭐ 135 · Python · 推送 2026-11-12 · [GitHub](https://github.com/Otman404/local-rag-llamaindex) · [官网](https://otmaneboughaba.com/posts/local-rag-api/) · 个人维护
 
 **本地离线 RAG 系统：帮研究者从论文集中检索答案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Otman404/local-rag-llamaindex 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
+    x-axis ["2026-10-26", "2026-11-17"]
     y-axis "stars" 134 --> 136
     line [135, 135]
 ```
 
-2026-10-26 135 → 2026-11-02 135（+0）
+2026-10-26 135 → 2026-11-17 135（+0）
 
 
 ---

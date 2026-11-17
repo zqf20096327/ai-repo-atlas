@@ -1,6 +1,6 @@
 # ARPAHLS/OPSIE
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-05-21 · [GitHub](https://github.com/ARPAHLS/OPSIE) · [官网](https://arpacorp.net) · 组织维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-05-21 · [GitHub](https://github.com/ARPAHLS/OPSIE) · [官网](https://arpacorp.net) · 组织维护
 
 **本地多模型终端人格代理：带记忆、多模态与 Web3/邮件等工具**
 
@@ -44,13 +44,13 @@ OPSIIE 是一个单文件的终端原生自中心智能（SCI）原型：长会�
 
 ```mermaid
 xychart-beta
-    title "ARPAHLS/OPSIE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "ARPAHLS/OPSIE 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kimimgo/awesome-ai-cae
 
-⭐ 64 · Python · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/kimimgo/awesome-ai-cae) · 个人维护 · 中文 README
+⭐ 69 · Python · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/kimimgo/awesome-ai-cae) · 个人维护 · 中文 README
 
 **110+ 个 AI agent 可调用的 CAE 工具策展清单，按可调用性评分排名**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kimimgo/awesome-ai-cae 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 59 --> 65
-    line [60, 62, 63, 64, 64]
+    title "kimimgo/awesome-ai-cae 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 59 --> 70
+    line [60, 62, 63, 64, 62, 66, 68, 69, 69]
 ```
 
-2026-10-18 60 → 2026-11-02 64（+4）
+2026-10-18 60 → 2026-11-17 69（+9）
 
 
 ---

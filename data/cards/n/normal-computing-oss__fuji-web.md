@@ -43,13 +43,13 @@ Chrome 浏览器扩展，以侧栏形式运行的 AI agent：理解用户意图�
 
 ```mermaid
 xychart-beta
-    title "normal-computing-oss/fuji-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 596 --> 598
-    line [597, 597]
+    title "normal-computing-oss/fuji-web 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 596 --> 599
+    line [597, 598, 597, 597]
 ```
 
-2026-10-18 597 → 2026-11-02 597（+0）
+2026-10-18 597 → 2026-11-17 597（+0）
 
 
 ---

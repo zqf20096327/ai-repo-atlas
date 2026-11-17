@@ -1,6 +1,6 @@
 # UPC-ViRVIG/SparsePoser
 
-⭐ 51 · C# · MIT · 推送 2026-06-06 · [GitHub](https://github.com/UPC-ViRVIG/SparsePoser) · [官网](https://upc-virvig.github.io/SparsePoser) · 组织维护
+⭐ 52 · C# · MIT · 推送 2026-06-06 · [GitHub](https://github.com/UPC-ViRVIG/SparsePoser) · [官网](https://upc-virvig.github.io/SparsePoser) · 组织维护
 
 **稀疏传感器实时全身动作重建方法（TOG 论文官方代码）**
 
@@ -44,13 +44,13 @@ ACM TOG 论文 SparsePoser 的官方实现：用 PyTorch 网络从稀疏追踪�
 
 ```mermaid
 xychart-beta
-    title "UPC-ViRVIG/SparsePoser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "UPC-ViRVIG/SparsePoser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

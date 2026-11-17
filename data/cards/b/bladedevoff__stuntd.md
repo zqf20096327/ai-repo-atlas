@@ -1,6 +1,6 @@
 # bladedevoff/stuntd
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/bladedevoff/stuntd) · [官网](https://github.com/bladedevoff/stuntd) · 个人维护
+⭐ 76 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/bladedevoff/stuntd) · [官网](https://github.com/bladedevoff/stuntd) · 个人维护
 
 **本地代理：学习应用的类型化 LLM 决策并在本地作答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bladedevoff/stuntd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 69 --> 74
-    line [70, 72, 73, 73]
+    title "bladedevoff/stuntd 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 69 --> 77
+    line [70, 72, 73, 75, 76, 76]
 ```
 
-2026-10-18 70 → 2026-11-02 73（+3）
+2026-10-18 70 → 2026-11-17 76（+6）
 
 
 ---

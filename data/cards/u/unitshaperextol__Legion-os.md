@@ -1,6 +1,6 @@
 # unitshaperextol/Legion-os
 
-⭐ 75 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/unitshaperextol/Legion-os) · 个人维护
+⭐ 45 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/unitshaperextol/Legion-os) · 个人维护
 
 **多 Agent 集群编排引擎：协调 50+ 异构 LLM 节点运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "unitshaperextol/Legion-os 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    title "unitshaperextol/Legion-os 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 78
+    line [75, 46, 45, 45]
 ```
 
-2026-10-31 75 → 2026-11-02 75（+0）
+2026-10-31 75 → 2026-11-17 45（-30）
 
 
 ---

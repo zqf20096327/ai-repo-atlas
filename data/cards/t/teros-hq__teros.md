@@ -1,6 +1,6 @@
 # teros-hq/teros
 
-⭐ 64 · TypeScript · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/teros-hq/teros) · [官网](https://teros.ai) · 组织维护
+⭐ 66 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/teros-hq/teros) · [官网](https://teros.ai) · 组织维护
 
 **开源自托管 AI agent 运行平台：构建、运行带工具能力的智能体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "teros-hq/teros 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "teros-hq/teros 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 63 --> 67
+    line [64, 65, 66, 66]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 66（+2）
 
 
 ---

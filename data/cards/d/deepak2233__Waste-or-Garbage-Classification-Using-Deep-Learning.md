@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 60 --> 63
-    line [62, 61, 61]
+    line [62, 61, 62, 61, 61]
 ```
 
-2026-10-18 62 → 2026-11-02 61（-1）
+2026-10-18 62 → 2026-11-17 61（-1）
 
 
 ---

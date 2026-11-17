@@ -1,6 +1,6 @@
 # FelixIsaac/whatsapp-mcp-extended
 
-⭐ 43 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/FelixIsaac/whatsapp-mcp-extended) · 个人维护
+⭐ 45 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FelixIsaac/whatsapp-mcp-extended) · 个人维护
 
 **WhatsApp 的 MCP 服务器扩展版：为 AI agent 提供消息、群组与媒体工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FelixIsaac/whatsapp-mcp-extended 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 38 --> 44
-    line [39, 40, 41, 43, 43]
+    title "FelixIsaac/whatsapp-mcp-extended 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 38 --> 46
+    line [39, 40, 41, 43, 41, 43, 44, 45, 45]
 ```
 
-2026-10-18 39 → 2026-11-02 43（+4）
+2026-10-18 39 → 2026-11-17 45（+6）
 
 
 ---

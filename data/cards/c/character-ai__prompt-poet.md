@@ -1,6 +1,6 @@
 # character-ai/prompt-poet
 
-⭐ 1,162 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/character-ai/prompt-poet) · [官网](https://pypi.org/project/prompt-poet/) · 组织维护
+⭐ 1,163 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/character-ai/prompt-poet) · [官网](https://pypi.org/project/prompt-poet/) · 组织维护
 
 **低代码 prompt 模板库：用 YAML+Jinja2 动态构建 LLM 提示词**
 
@@ -44,13 +44,13 @@ Character.AI 开源的 Python 提示词模板库，面向开发者与非技术�
 
 ```mermaid
 xychart-beta
-    title "character-ai/prompt-poet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1158 --> 1163
-    line [1159, 1161, 1162, 1162]
+    title "character-ai/prompt-poet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1158 --> 1164
+    line [1159, 1161, 1162, 1161, 1163, 1163]
 ```
 
-2026-10-18 1,159 → 2026-11-02 1,162（+3）
+2026-10-18 1,159 → 2026-11-17 1,163（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # shun0t/versatile_bot_project
 
-⭐ 32 · 推送 2026-06-27 · [GitHub](https://github.com/shun0t/versatile_bot_project) · 个人维护
+⭐ 33 · 推送 2026-06-27 · [GitHub](https://github.com/shun0t/versatile_bot_project) · 个人维护
 
 **将 NotebookLM 改造为多功能机器人的提示词文档集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shun0t/versatile_bot_project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "shun0t/versatile_bot_project 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

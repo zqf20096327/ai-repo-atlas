@@ -1,6 +1,6 @@
 # sgl-project/sgl-amd-mono
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sgl-project/sgl-amd-mono) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sgl-project/sgl-amd-mono) · 组织维护
 
 **SGLang 在 AMD Instinct GPU 上的 monokernel 解码内核插件库**
 
@@ -44,13 +44,13 @@ SGLang 框架的 AMD GPU monokernel 插件库：将解码器层的注意力、Mo
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sgl-amd-mono 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "sgl-project/sgl-amd-mono 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 9 --> 22
+    line [10, 11, 12, 17, 19, 20, 21, 21]
 ```
 
-2026-10-26 10 → 2026-11-02 12（+2）
+2026-10-26 10 → 2026-11-17 21（+11）
 
 
 ---

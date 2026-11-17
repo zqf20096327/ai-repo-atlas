@@ -1,6 +1,6 @@
 # pablo-reyes8/deepseek-v4-mini-pytorch
 
-⭐ 12 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/pablo-reyes8/deepseek-v4-mini-pytorch) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/pablo-reyes8/deepseek-v4-mini-pytorch) · 个人维护 · 中文 README
 
 **DeepSeek-V4 架构的从零 PyTorch 复现，供研究消融与迷你训练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pablo-reyes8/deepseek-v4-mini-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "pablo-reyes8/deepseek-v4-mini-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

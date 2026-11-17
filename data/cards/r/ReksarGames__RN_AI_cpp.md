@@ -1,6 +1,6 @@
 # ReksarGames/RN_AI_cpp
 
-⭐ 35 · C++ · MIT · 推送 2026-02-24 · [GitHub](https://github.com/ReksarGames/RN_AI_cpp) · [官网](https://mega.nz/file/T8IFHS7I#70_WjY_-3rDZ82U3yKS3meS8mk3bV29_RFrSCQRlFhg) · 个人维护 · 中文 README
+⭐ 36 · C++ · MIT · 推送 2026-02-24 · [GitHub](https://github.com/ReksarGames/RN_AI_cpp) · [官网](https://mega.nz/file/T8IFHS7I#70_WjY_-3rDZ82U3yKS3meS8mk3bV29_RFrSCQRlFhg) · 个人维护 · 中文 README
 
 **基于 AI 目标检测的 FPS/TPS 游戏自瞄工具**
 
@@ -45,13 +45,13 @@ Windows 平台的 C++ 游戏瞄准辅助程序：通过 DirectX Duplication/WCRT
 
 ```mermaid
 xychart-beta
-    title "ReksarGames/RN_AI_cpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    title "ReksarGames/RN_AI_cpp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 34, 35, 36, 36]
 ```
 
-2026-10-18 33 → 2026-11-02 35（+2）
+2026-10-18 33 → 2026-11-17 36（+3）
 
 
 ---

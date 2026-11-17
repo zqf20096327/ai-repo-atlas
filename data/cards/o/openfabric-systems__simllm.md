@@ -1,6 +1,6 @@
 # openfabric-systems/simllm
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/openfabric-systems/simllm) · [官网](https://openfabric-simllm-codex.yifenwan.chatgpt.site) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/openfabric-systems/simllm) · [官网](https://openfabric-simllm-codex.yifenwan.chatgpt.site) · 组织维护
 
 **面向 LLM 部署的包级网络仿真器：购硬件前预测 TTFT/TPOT**
 
@@ -46,13 +46,13 @@ SimLLM 在购置或预留硬件前预测大规模 LLM 部署的推理性能指�
 
 ```mermaid
 xychart-beta
-    title "openfabric-systems/simllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "openfabric-systems/simllm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 51（+1）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jplenio/ComfyUI-MiniMax-Music-Production-Toolkit
 
-⭐ 91 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jplenio/ComfyUI-MiniMax-Music-Production-Toolkit) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ComfyUI 本地音乐生产工具集：写歌、翻唱、修复、母带与封面**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jplenio/ComfyUI-MiniMax-Music-Production-Toolkit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 84 --> 92
-    line [85, 86, 88, 89, 90, 91, 91]
+    title "jplenio/ComfyUI-MiniMax-Music-Production-Toolkit 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13"]
+    y-axis "stars" 84 --> 95
+    line [85, 86, 88, 89, 90, 91, 90, 92, 94, 94]
 ```
 
-2026-10-18 85 → 2026-11-02 91（+6）
+2026-10-18 85 → 2026-11-13 94（+9）
 
 
 ---

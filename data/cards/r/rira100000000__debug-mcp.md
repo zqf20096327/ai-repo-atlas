@@ -1,6 +1,6 @@
 # rira100000000/debug-mcp
 
-⭐ 27 · Ruby · MIT · 推送 2026-10-18 · [GitHub](https://github.com/rira100000000/debug-mcp) · [官网](https://rubygems.org/gems/debug-mcp) · 个人维护
+⭐ 29 · Ruby · MIT · 推送 2026-10-18 · [GitHub](https://github.com/rira100000000/debug-mcp) · [官网](https://rubygems.org/gems/debug-mcp) · 个人维护
 
 **连接 LLM agent 与 Ruby 运行时调试的 MCP server**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rira100000000/debug-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 22 --> 28
-    line [23, 26, 27, 27]
+    title "rira100000000/debug-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 30
+    line [23, 26, 27, 26, 28, 29, 29]
 ```
 
-2026-10-18 23 → 2026-11-02 27（+4）
+2026-10-18 23 → 2026-11-17 29（+6）
 
 
 ---

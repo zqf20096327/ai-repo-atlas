@@ -1,6 +1,6 @@
 # HautaniemiLab/histolytics
 
-⭐ 20 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/HautaniemiLab/histolytics) · [官网](https://hautaniemilab.github.io/histolytics/) · 组织维护
+⭐ 22 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/HautaniemiLab/histolytics) · [官网](https://hautaniemilab.github.io/histolytics/) · 组织维护
 
 **面向病理全切片图像的全景分割与空间分析 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HautaniemiLab/histolytics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "HautaniemiLab/histolytics 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

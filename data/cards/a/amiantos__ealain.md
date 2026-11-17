@@ -1,6 +1,6 @@
 # amiantos/ealain
 
-⭐ 75 · C# · MPL-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/amiantos/ealain) · 个人维护
+⭐ 77 · C# · MPL-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/amiantos/ealain) · 个人维护
 
 **用 Stable Diffusion 生成抽象艺术画面的 macOS/Windows 屏保**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amiantos/ealain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    title "amiantos/ealain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

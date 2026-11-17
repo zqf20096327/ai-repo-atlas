@@ -1,6 +1,6 @@
 # dynatrace-oss/dt-evals
 
-⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dynatrace-oss/dt-evals) · 组织维护
+⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/dynatrace-oss/dt-evals) · 组织维护
 
 **面向 Dynatrace 用户的 LLM 评测 CLI 与工具集**
 
@@ -45,13 +45,13 @@ Dynatrace 开源的 LLM 端到端评测工具集，含 CLI（dt-evals）、TypeS
 
 ```mermaid
 xychart-beta
-    title "dynatrace-oss/dt-evals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    title "dynatrace-oss/dt-evals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 52（+1）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

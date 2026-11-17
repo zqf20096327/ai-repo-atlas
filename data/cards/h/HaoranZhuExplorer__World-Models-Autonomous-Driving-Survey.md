@@ -1,6 +1,6 @@
 # HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey
 
-⭐ 534 · 推送 2025-12-23 · [GitHub](https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自动驾驶世界模型论文策展清单，按会议年份组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-07"]
     y-axis "stars" 532 --> 535
     line [534, 533, 534, 534]
 ```
 
-2026-10-18 534 → 2026-11-02 534（+0）
+2026-10-18 534 → 2026-11-07 534（+0）
 
 
 ---

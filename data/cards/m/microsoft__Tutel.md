@@ -1,6 +1,6 @@
 # microsoft/Tutel
 
-⭐ 1,030 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Tutel) · 组织维护
+⭐ 1,028 · C · MIT · 推送 2026-11-06 · [GitHub](https://github.com/microsoft/Tutel) · 组织维护
 
 **微软的 MoE 优化推理库：低精度运行 DeepSeek/Kimi/GLM 等大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Tutel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
+    title "microsoft/Tutel 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 1027 --> 1031
-    line [1028, 1029, 1030, 1030]
+    line [1028, 1029, 1030, 1029, 1028, 1028]
 ```
 
-2026-10-18 1,028 → 2026-11-02 1,030（+2）
+2026-10-18 1,028 → 2026-11-17 1,028（+0）
 
 
 ---

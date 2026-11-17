@@ -1,6 +1,6 @@
 # lennney/mcp-slim-guard
 
-⭐ 182 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/lennney/mcp-slim-guard) · [官网](https://take-a-deep-breath0.com/en/mcp-slim-guard) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MCP 工具调用网关：授权过滤、schema 校验与结果可恢复交付**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lennney/mcp-slim-guard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 181 --> 187
-    line [186, 182, 182]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08"]
+    y-axis "stars" 179 --> 187
+    line [186, 182, 180]
 ```
 
-2026-10-18 186 → 2026-11-02 182（-4）
+2026-10-18 186 → 2026-11-08 180（-6）
 
 
 ---

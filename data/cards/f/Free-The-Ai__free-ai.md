@@ -1,6 +1,6 @@
 # Free-The-Ai/free-ai
 
-⭐ 39 · Astro · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Free-The-Ai/free-ai) · [官网](https://freetheai.org) · 个人维护 · 中文 README
+⭐ 40 · Astro · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Free-The-Ai/free-ai) · [官网](https://freetheai.org) · 个人维护 · 中文 README
 
 **免费的 OpenAI 兼容 AI API 聚合服务与 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Free-The-Ai/free-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 37, 38, 39, 39]
+    title "Free-The-Ai/free-ai 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 37, 38, 39, 36, 39, 40, 40]
 ```
 
-2026-10-18 35 → 2026-11-02 39（+4）
+2026-10-18 35 → 2026-11-17 40（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # akshayaggarwal99/jarvis-ai-assistant
 
-⭐ 668 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/akshayaggarwal99/jarvis-ai-assistant) · [官网](https://jarvis.ceo) · 个人维护
+⭐ 674 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/akshayaggarwal99/jarvis-ai-assistant) · [官网](https://jarvis.ceo) · 个人维护
 
 **Mac 语音听写助手：按住 Fn 说话，文本出现在任意应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "akshayaggarwal99/jarvis-ai-assistant 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 651 --> 669
-    line [652, 656, 659, 662, 665, 666, 668, 668]
+    title "akshayaggarwal99/jarvis-ai-assistant 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 650 --> 677
+    line [652, 656, 659, 662, 665, 666, 668, 659, 673, 674, 673, 672, 673, 675, 674, 674]
 ```
 
-2026-10-18 652 → 2026-11-02 668（+16）
+2026-10-18 652 → 2026-11-17 674（+22）
 
 
 ---

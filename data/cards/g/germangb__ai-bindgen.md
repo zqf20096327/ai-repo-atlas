@@ -1,6 +1,6 @@
 # germangb/ai-bindgen
 
-⭐ 121 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/germangb/ai-bindgen) · 个人维护
+⭐ 122 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/germangb/ai-bindgen) · 个人维护
 
 **Rust 编译期调用 LLM API 生成代码的过程宏**
 
@@ -42,13 +42,13 @@ Rust 过程宏 crate，在编译阶段调用 OpenAI（或兼容）API 生成 Rus
 
 ```mermaid
 xychart-beta
-    title "germangb/ai-bindgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    title "germangb/ai-bindgen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 120 --> 123
+    line [121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-11-02 121（+0）
+2026-10-18 121 → 2026-11-17 122（+1）
 
 
 ---

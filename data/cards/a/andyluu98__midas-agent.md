@@ -1,6 +1,6 @@
 # andyluu98/midas-agent
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/andyluu98/midas-agent) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/andyluu98/midas-agent) · 个人维护
 
 **面向 XAUUSD M15 剥头皮的多智能体 AI 交易决策框架**
 
@@ -45,13 +45,13 @@ TauricResearch/TradingAgents（MIT）的定制 fork，用 LangGraph 构建 8 个
 
 ```mermaid
 xychart-beta
-    title "andyluu98/midas-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "andyluu98/midas-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 12, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

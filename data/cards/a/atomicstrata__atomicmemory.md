@@ -1,6 +1,6 @@
 # atomicstrata/atomicmemory
 
-⭐ 440 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/atomicstrata/atomicmemory) · [官网](https://docs.atomicstrata.ai) · 组织维护
+⭐ 440 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/atomicstrata/atomicmemory) · [官网](https://docs.atomicstrata.ai) · 组织维护
 
 **给 AI agent 的可审计语义记忆层：Core 后端+SDK+MCP+CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atomicstrata/atomicmemory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 438 --> 441
-    line [439, 440, 440]
+    title "atomicstrata/atomicmemory 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 437 --> 442
+    line [439, 440, 439, 438, 440, 441, 440, 440]
 ```
 
-2026-10-18 439 → 2026-11-02 440（+1）
+2026-10-18 439 → 2026-11-17 440（+1）
 
 
 ---

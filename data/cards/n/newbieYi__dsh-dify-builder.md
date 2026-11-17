@@ -1,6 +1,6 @@
 # newbieYi/dsh-dify-builder
 
-⭐ 16 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/newbieYi/dsh-dify-builder) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/newbieYi/dsh-dify-builder) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 中对话式构建本地 Dify 工作流的安装器与插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "newbieYi/dsh-dify-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "newbieYi/dsh-dify-builder 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

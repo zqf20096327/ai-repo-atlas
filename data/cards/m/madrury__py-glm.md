@@ -1,6 +1,6 @@
 # madrury/py-glm
 
-⭐ 131 · Python · BSD-3-Clause · 推送 2026-10-31 · [GitHub](https://github.com/madrury/py-glm) · 个人维护
+⭐ 132 · Python · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/madrury/py-glm) · 个人维护
 
 **Python 广义线性模型库：sklearn 风格拟合、推断与模拟**
 
@@ -44,13 +44,13 @@ Python 库，提供广义线性模型的拟合、推断与模拟：Fisher scorin
 
 ```mermaid
 xychart-beta
-    title "madrury/py-glm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    title "madrury/py-glm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 130 --> 133
+    line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-11-02 131（+0）
+2026-10-18 131 → 2026-11-17 132（+1）
 
 
 ---

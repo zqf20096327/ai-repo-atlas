@@ -1,6 +1,6 @@
 # UIC-InDeXLab/RSR
 
-⭐ 19 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/UIC-InDeXLab/RSR) · [官网](https://arxiv.org/abs/2411.06360) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/UIC-InDeXLab/RSR) · [官网](https://arxiv.org/abs/2411.06360) · 组织维护
 
 **加速二/三值神经网络推理的 RSR 快速矩阵乘法算法库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UIC-InDeXLab/RSR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "UIC-InDeXLab/RSR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

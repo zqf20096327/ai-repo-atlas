@@ -1,6 +1,6 @@
 # a-r-j/CPDB
 
-⭐ 35 · Jupyter Notebook · MIT · 推送 2026-10-31 · [GitHub](https://github.com/a-r-j/CPDB) · 个人维护
+⭐ 36 · Jupyter Notebook · MIT · 推送 2026-11-15 · [GitHub](https://github.com/a-r-j/CPDB) · 个人维护
 
 **Cython 实现的 PDB 蛋白质结构解析库，输出字典/DataFrame**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "a-r-j/CPDB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "a-r-j/CPDB 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 34, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

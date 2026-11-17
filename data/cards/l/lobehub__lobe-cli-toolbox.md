@@ -1,6 +1,6 @@
 # lobehub/lobe-cli-toolbox
 
-⭐ 418 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lobehub/lobe-cli-toolbox) · 组织维护 · 中文 README
+⭐ 420 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/lobehub/lobe-cli-toolbox) · 组织维护 · 中文 README
 
 **LobeHub 的 AI CLI 工具集合：AI 生成 commit 与 i18n 翻译**
 
@@ -43,13 +43,13 @@ LobeHub 维护的 CLI 工具集仓，收录三个工具：Lobe Commit 用 Langch
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-cli-toolbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 416 --> 419
-    line [417, 418, 418]
+    title "lobehub/lobe-cli-toolbox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 416 --> 421
+    line [417, 418, 419, 420, 420]
 ```
 
-2026-10-18 417 → 2026-11-02 418（+1）
+2026-10-18 417 → 2026-11-17 420（+3）
 
 
 ---

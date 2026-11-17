@@ -1,6 +1,6 @@
 # YURIBEDRAN/rubi
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/YURIBEDRAN/rubi) · [官网](https://yuribedran.github.io/rubi/) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/YURIBEDRAN/rubi) · [官网](https://yuribedran.github.io/rubi/) · 个人维护 · 中文 README
 
 **AI 编程助手的上下文管理器：知识图谱+提前压缩降 token 成本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YURIBEDRAN/rubi 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "YURIBEDRAN/rubi 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14, 14]
 ```
 
-2026-10-19 11 → 2026-11-02 13（+2）
+2026-10-19 11 → 2026-11-17 14（+3）
 
 
 ---

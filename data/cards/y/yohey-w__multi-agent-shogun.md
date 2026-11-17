@@ -1,6 +1,6 @@
 # yohey-w/multi-agent-shogun
 
-⭐ 1,425 · Shell · MIT · 推送 2026-08-06 · [GitHub](https://github.com/yohey-w/multi-agent-shogun) · 个人维护
+⭐ 1,421 · Shell · MIT · 推送 2026-08-06 · [GitHub](https://github.com/yohey-w/multi-agent-shogun) · 个人维护
 
 **用 tmux 并行编排 7 种 AI 编码 CLI 的多 agent 系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yohey-w/multi-agent-shogun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1422 --> 1426
-    line [1424, 1423, 1425]
+    title "yohey-w/multi-agent-shogun 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1420 --> 1426
+    line [1424, 1423, 1425, 1424, 1422, 1421, 1421]
 ```
 
-2026-10-18 1,424 → 2026-11-02 1,425（+1）
+2026-10-18 1,424 → 2026-11-17 1,421（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # modfin/bellman
 
-⭐ 70 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/modfin/bellman) · 组织维护
+⭐ 71 · Go · MIT · 推送 2026-11-03 · [GitHub](https://github.com/modfin/bellman) · 组织维护
 
 **Go 语言多厂商 LLM 统一接口库与代理服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modfin/bellman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "modfin/bellman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 69 --> 72
+    line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 71（+1）
 
 
 ---

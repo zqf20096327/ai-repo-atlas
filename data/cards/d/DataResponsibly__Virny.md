@@ -1,6 +1,6 @@
 # DataResponsibly/Virny
 
-⭐ 17 · Python · BSD-3-Clause · 推送 2026-05-06 · [GitHub](https://github.com/DataResponsibly/Virny) · 组织维护
+⭐ 18 · Python · BSD-3-Clause · 推送 2026-05-06 · [GitHub](https://github.com/DataResponsibly/Virny) · 组织维护
 
 **机器学习模型性能剖析库：多维评估公平性/稳定性/不确定性**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DataResponsibly/Virny 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "DataResponsibly/Virny 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

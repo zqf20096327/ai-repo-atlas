@@ -1,6 +1,6 @@
 # youssefvdel/qwen-studio
 
-⭐ 47 · Rust · 推送 2026-05-22 · [GitHub](https://github.com/youssefvdel/qwen-studio) · 个人维护 · 中文 README
+⭐ 49 · Rust · 推送 2026-05-22 · [GitHub](https://github.com/youssefvdel/qwen-studio) · 个人维护 · 中文 README
 
 **Linux 桌面端 Qwen 客户端：补齐官方 Windows/macOS 缺位**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "youssefvdel/qwen-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 46, 47, 47]
+    title "youssefvdel/qwen-studio 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 42 --> 51
+    line [43, 44, 46, 47, 44, 47, 48, 49, 50, 49, 49]
 ```
 
-2026-10-18 43 → 2026-11-02 47（+4）
+2026-10-18 43 → 2026-11-17 49（+6）
 
 
 ---

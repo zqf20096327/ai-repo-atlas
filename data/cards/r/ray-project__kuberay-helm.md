@@ -1,6 +1,6 @@
 # ray-project/kuberay-helm
 
-⭐ 65 · Mustache · 推送 2026-09-21 · [GitHub](https://github.com/ray-project/kuberay-helm) · 组织维护
+⭐ 66 · Mustache · 推送 2026-11-06 · [GitHub](https://github.com/ray-project/kuberay-helm) · 组织维护
 
 **KubeRay 项目的 Helm charts 仓库，用于在 Kubernetes 部署 KubeRay**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "ray-project/kuberay-helm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    title "ray-project/kuberay-helm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 67
+    line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 66（+1）
 
 
 ---

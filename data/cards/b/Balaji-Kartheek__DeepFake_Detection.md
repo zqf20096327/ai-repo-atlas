@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Balaji-Kartheek/DeepFake_Detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "Balaji-Kartheek/DeepFake_Detection 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 70 --> 73
-    line [72, 71, 71]
+    line [72, 71, 72, 71, 71]
 ```
 
-2026-10-18 72 → 2026-11-02 71（-1）
+2026-10-18 72 → 2026-11-17 71（-1）
 
 
 ---

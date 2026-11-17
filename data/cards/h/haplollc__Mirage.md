@@ -1,6 +1,6 @@
 # haplollc/Mirage
 
-⭐ 21 · Swift · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/haplollc/Mirage) · 组织维护
+⭐ 22 · Swift · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/haplollc/Mirage) · 组织维护
 
 **iOS/macOS/visionOS 端侧文生图引擎 Swift 封装库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haplollc/Mirage 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "haplollc/Mirage 星数(近 3 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-30 21 → 2026-11-02 21（+0）
+2026-10-30 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # martymcenroe/ai-power-systems-compendium
 
-⭐ 13 · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/martymcenroe/ai-power-systems-compendium) · 个人维护
+⭐ 13 · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/martymcenroe/ai-power-systems-compendium) · 个人维护
 
 **电力系统与公用事业领域 AI/ML 资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "martymcenroe/ai-power-systems-compendium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

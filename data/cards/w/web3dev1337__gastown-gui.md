@@ -1,6 +1,6 @@
 # web3dev1337/gastown-gui
 
-⭐ 96 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/web3dev1337/gastown-gui) · 个人维护
+⭐ 97 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/web3dev1337/gastown-gui) · 个人维护
 
 **Gas Town 多智能体编排系统的独立 Web 图形界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "web3dev1337/gastown-gui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    title "web3dev1337/gastown-gui 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 94 --> 98
+    line [95, 96, 95, 96, 97, 97]
 ```
 
-2026-10-18 95 → 2026-11-02 96（+1）
+2026-10-18 95 → 2026-11-17 97（+2）
 
 
 ---

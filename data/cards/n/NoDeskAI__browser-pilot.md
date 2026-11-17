@@ -1,6 +1,6 @@
 # NoDeskAI/browser-pilot
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NoDeskAI/browser-pilot) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NoDeskAI/browser-pilot) · 组织维护
 
 **为 AI Agent 提供隔离远程浏览器会话的基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoDeskAI/browser-pilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "NoDeskAI/browser-pilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 38（+2）
 
 
 ---

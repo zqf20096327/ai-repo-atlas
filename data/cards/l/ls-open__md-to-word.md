@@ -1,6 +1,6 @@
 # ls-open/md-to-word
 
-⭐ 16 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ls-open/md-to-word) · [官网](https://ls-open.github.io/md-to-word/) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ls-open/md-to-word) · [官网](https://ls-open.github.io/md-to-word/) · 个人维护 · 中文 README
 
 **Markdown 确定性转出版级 Word 的编译器与 MCP 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ls-open/md-to-word 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "ls-open/md-to-word 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 15, 17, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

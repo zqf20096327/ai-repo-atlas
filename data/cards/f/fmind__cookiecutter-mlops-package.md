@@ -1,6 +1,6 @@
 # fmind/cookiecutter-mlops-package
 
-⭐ 443 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fmind/cookiecutter-mlops-package) · [官网](https://mlops-coding-course.fmind.dev/) · 个人维护
+⭐ 444 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/fmind/cookiecutter-mlops-package) · [官网](https://mlops-coding-course.fmind.dev/) · 个人维护
 
 **生成 MLOps Python 包与 Docker 镜像项目骨架的 Cookiecutter 模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fmind/cookiecutter-mlops-package 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 441 --> 444
-    line [442, 443, 443]
+    title "fmind/cookiecutter-mlops-package 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 441 --> 445
+    line [442, 443, 442, 443, 444, 444]
 ```
 
-2026-10-18 442 → 2026-11-02 443（+1）
+2026-10-18 442 → 2026-11-17 444（+2）
 
 
 ---

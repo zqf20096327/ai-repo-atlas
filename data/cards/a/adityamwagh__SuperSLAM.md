@@ -1,6 +1,6 @@
 # adityamwagh/SuperSLAM
 
-⭐ 184 · C++ · LGPL-2.1 · 推送 2026-07-10 · [GitHub](https://github.com/adityamwagh/SuperSLAM) · 个人维护
+⭐ 185 · C++ · LGPL-2.1 · 推送 2026-07-10 · [GitHub](https://github.com/adityamwagh/SuperSLAM) · 个人维护
 
 **基于深度学习特征的实时双目/RGB-D 视觉 SLAM 系统**
 
@@ -44,13 +44,13 @@ SuperSLAM 是面向机器人定位建图的双目与 RGB-D 视觉 SLAM 系统：
 
 ```mermaid
 xychart-beta
-    title "adityamwagh/SuperSLAM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    title "adityamwagh/SuperSLAM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 182 --> 186
+    line [183, 184, 183, 184, 185, 185]
 ```
 
-2026-10-18 183 → 2026-11-02 184（+1）
+2026-10-18 183 → 2026-11-17 185（+2）
 
 
 ---

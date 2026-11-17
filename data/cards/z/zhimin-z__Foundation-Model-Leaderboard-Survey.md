@@ -1,6 +1,6 @@
 # zhimin-z/Foundation-Model-Leaderboard-Survey
 
-⭐ 13 · Jupyter Notebook · 推送 2026-05-31 · [GitHub](https://github.com/zhimin-z/Foundation-Model-Leaderboard-Survey) · [官网](https://github.com/SAILResearch/awesome-ai-leaderboard) · 组织维护
+⭐ 14 · Jupyter Notebook · 推送 2026-05-31 · [GitHub](https://github.com/zhimin-z/Foundation-Model-Leaderboard-Survey) · [官网](https://github.com/SAILResearch/awesome-ai-leaderboard) · 组织维护
 
 **基础模型排行榜运营工作流与缺陷的探索性研究（附策展清单）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhimin-z/Foundation-Model-Leaderboard-Survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "zhimin-z/Foundation-Model-Leaderboard-Survey 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

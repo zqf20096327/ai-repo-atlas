@@ -1,6 +1,6 @@
 # KenosInc/sigrok-mcp-server
 
-⭐ 14 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KenosInc/sigrok-mcp-server) · [官网](https://kenosinc.github.io/sigrok-mcp-server/) · 组织维护
+⭐ 15 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KenosInc/sigrok-mcp-server) · [官网](https://kenosinc.github.io/sigrok-mcp-server/) · 组织维护
 
 **让 Claude/Cursor 等 AI agent 操作逻辑分析仪的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KenosInc/sigrok-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "KenosInc/sigrok-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 12, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

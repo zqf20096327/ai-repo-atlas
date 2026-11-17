@@ -1,6 +1,6 @@
 # MacHatter1/ContainerDesk
 
-⭐ 33 · Swift · MIT · 推送 2026-10-31 · [GitHub](https://github.com/MacHatter1/ContainerDesk) · 个人维护
+⭐ 41 · Swift · MIT · 推送 2026-11-15 · [GitHub](https://github.com/MacHatter1/ContainerDesk) · [官网](https://www.containerdesk.dev) · 个人维护
 
 **macOS 原生 GUI，管理 Apple container 运行时并内置本地 MLX 聊天**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MacHatter1/ContainerDesk 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3 --> 35
-    line [5, 31, 33]
+    title "MacHatter1/ContainerDesk 星数(近 8 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2 --> 44
+    line [5, 31, 33, 38, 39, 40, 41, 41]
 ```
 
-2026-10-31 5 → 2026-11-02 33（+28）
+2026-10-31 5 → 2026-11-17 41（+36）
 
 
 ---

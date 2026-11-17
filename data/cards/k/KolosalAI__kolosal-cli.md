@@ -1,6 +1,6 @@
 # KolosalAI/kolosal-cli
 
-⭐ 463 · TypeScript · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/KolosalAI/kolosal-cli) · [官网](https://kolosal.ai) · 组织维护
+⭐ 464 · TypeScript · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/KolosalAI/kolosal-cli) · [官网](https://kolosal.ai) · 组织维护
 
 **面向开发者的命令行 AI 编码工作流工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KolosalAI/kolosal-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
+    title "KolosalAI/kolosal-cli 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
     y-axis "stars" 462 --> 467
-    line [466, 465, 464, 463, 463]
+    line [466, 465, 464, 463, 465, 463, 465, 464, 464]
 ```
 
-2026-10-18 466 → 2026-11-02 463（-3）
+2026-10-18 466 → 2026-11-17 464（-2）
 
 
 ---

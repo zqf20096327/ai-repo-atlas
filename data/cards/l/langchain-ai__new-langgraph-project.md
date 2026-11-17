@@ -1,6 +1,6 @@
 # langchain-ai/new-langgraph-project
 
-⭐ 299 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/new-langgraph-project) · 组织维护
+⭐ 301 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/langchain-ai/new-langgraph-project) · 组织维护
 
 **LangGraph 官方项目模板：演示如何用 LangGraph Server/Studio 起步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/new-langgraph-project 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 296 --> 300
-    line [297, 298, 299, 299]
+    title "langchain-ai/new-langgraph-project 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 296 --> 302
+    line [297, 298, 299, 298, 300, 301, 301]
 ```
 
-2026-10-18 297 → 2026-11-02 299（+2）
+2026-10-18 297 → 2026-11-17 301（+4）
 
 
 ---

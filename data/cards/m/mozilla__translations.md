@@ -1,6 +1,6 @@
 # mozilla/translations
 
-⭐ 366 · C++ · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mozilla/translations) · [官网](https://mozilla.github.io/translations/) · 组织维护
+⭐ 377 · C++ · MPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/mozilla/translations) · [官网](https://mozilla.github.io/translations/) · 组织维护
 
 **Firefox 网页翻译模型的训练管线与推理引擎代码**
 
@@ -44,13 +44,13 @@ Mozilla 维护的机器翻译项目，包含端到端翻译模型训练管线（
 
 ```mermaid
 xychart-beta
-    title "mozilla/translations 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 363 --> 367
-    line [364, 365, 366, 366]
+    title "mozilla/translations 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 363 --> 378
+    line [364, 365, 366, 364, 373, 375, 376, 377, 377]
 ```
 
-2026-10-18 364 → 2026-11-02 366（+2）
+2026-10-18 364 → 2026-11-17 377（+13）
 
 
 ---

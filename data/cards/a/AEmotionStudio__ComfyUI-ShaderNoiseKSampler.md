@@ -1,6 +1,6 @@
 # AEmotionStudio/ComfyUI-ShaderNoiseKSampler
 
-⭐ 70 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-ShaderNoiseKSampler) · [官网](https://aemotionstudio.org/) · 组织维护
+⭐ 69 · Python · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/AEmotionStudio/ComfyUI-ShaderNoiseKSampler) · [官网](https://aemotionstudio.org/) · 组织维护
 
 **ComfyUI 自定义 KSampler 节点：用着色器噪声定向探索潜空间**
 
@@ -44,13 +44,13 @@ ComfyUI 的高级 KSampler 替换节点，将标准随机噪声与多阶段着�
 
 ```mermaid
 xychart-beta
-    title "AEmotionStudio/ComfyUI-ShaderNoiseKSampler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "AEmotionStudio/ComfyUI-ShaderNoiseKSampler 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    line [69, 70, 69, 69]
 ```
 
-2026-10-18 69 → 2026-11-02 70（+1）
+2026-10-18 69 → 2026-11-17 69（+0）
 
 
 ---

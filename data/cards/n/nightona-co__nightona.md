@@ -1,6 +1,6 @@
 # nightona-co/nightona
 
-⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/nightona-co/nightona) · 组织维护
+⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/nightona-co/nightona) · 组织维护
 
 **自托管 AI 代码执行沙箱平台（Daytona 开源分支）**
 
@@ -45,13 +45,13 @@ Daytona v0.190.0 的社区开源分支：在自有基础设施上运行安全的
 
 ```mermaid
 xychart-beta
-    title "nightona-co/nightona 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    title "nightona-co/nightona 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 21 --> 28
+    line [22, 23, 24, 22, 25, 26, 27, 27]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 27（+5）
 
 
 ---

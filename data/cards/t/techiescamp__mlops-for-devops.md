@@ -1,6 +1,6 @@
 # techiescamp/mlops-for-devops
 
-⭐ 554 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/techiescamp/mlops-for-devops) · [官网](https://devopscube.com/devops-to-mlops/) · 组织维护
+⭐ 559 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/techiescamp/mlops-for-devops) · [官网](https://devopscube.com/devops-to-mlops/) · 组织维护
 
 **面向 DevOps 工程师的 MLOps 实操教程仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "techiescamp/mlops-for-devops 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 543 --> 555
-    line [544, 545, 547, 548, 549, 550, 552, 553, 554, 554]
+    title "techiescamp/mlops-for-devops 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 543 --> 560
+    line [544, 545, 547, 548, 549, 550, 552, 553, 554, 548, 554, 555, 556, 557, 559, 559]
 ```
 
-2026-10-18 544 → 2026-11-02 554（+10）
+2026-10-18 544 → 2026-11-17 559（+15）
 
 
 ---

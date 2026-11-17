@@ -1,6 +1,6 @@
 # topastro73-it/founder-os
 
-⭐ 11 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/topastro73-it/founder-os) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/topastro73-it/founder-os) · 个人维护 · 中文 README
 
 **在 Claude Code 内运行的 B2B SaaS 创业公司代理操作系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "topastro73-it/founder-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

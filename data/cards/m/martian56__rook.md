@@ -1,6 +1,6 @@
 # martian56/rook
 
-⭐ 19 · Rust · MIT · 推送 2026-07-28 · [GitHub](https://github.com/martian56/rook) · 个人维护
+⭐ 27 · Rust · MIT · 推送 2026-07-28 · [GitHub](https://github.com/martian56/rook) · 个人维护
 
 **终端里的编码 agent：模型读写文件、跑命令改代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "martian56/rook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "martian56/rook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 18 --> 28
+    line [19, 20, 25, 27, 27]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 27（+8）
 
 
 ---

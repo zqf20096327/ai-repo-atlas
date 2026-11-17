@@ -1,6 +1,6 @@
 # michael-chow-arch/StreamLingo
 
-⭐ 34 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/michael-chow-arch/StreamLingo) · [官网](https://github.com/michael-chow-arch/StreamLingo/releases/tag/v0.2.0) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/michael-chow-arch/StreamLingo) · [官网](https://github.com/michael-chow-arch/StreamLingo/releases/tag/v0.2.0) · 个人维护 · 中文 README
 
 **YouTube 直播实时 AI 翻译字幕工具：本地 Ollama，英中双向**
 
@@ -45,13 +45,13 @@ Chrome 扩展加本地 Python 服务的组合：从浏览器标签页直接采�
 
 ```mermaid
 xychart-beta
-    title "michael-chow-arch/StreamLingo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 29 --> 35
-    line [30, 32, 33, 34, 34]
+    title "michael-chow-arch/StreamLingo 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 36
+    line [30, 32, 33, 34, 33, 35, 35]
 ```
 
-2026-10-18 30 → 2026-11-02 34（+4）
+2026-10-18 30 → 2026-11-17 35（+5）
 
 
 ---

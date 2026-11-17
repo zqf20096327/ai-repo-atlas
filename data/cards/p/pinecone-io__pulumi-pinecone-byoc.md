@@ -1,6 +1,6 @@
 # pinecone-io/pulumi-pinecone-byoc
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pinecone-io/pulumi-pinecone-byoc) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/pinecone-io/pulumi-pinecone-byoc) · 组织维护
 
 **用 Pulumi 在自有云账号部署 Pinecone 向量数据库的 IaC 工具**
 
@@ -46,12 +46,12 @@ Pinecone 官方的 BYOC（Bring Your Own Cloud）基础设施即代码组件：�
 ```mermaid
 xychart-beta
     title "pinecone-io/pulumi-pinecone-byoc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Beever-AI/beever-atlas
 
-⭐ 451 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/Beever-AI/beever-atlas) · [官网](https://docs.beever.ai/atlas) · 组织维护
+⭐ 454 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/Beever-AI/beever-atlas) · [官网](https://docs.beever.ai/atlas) · 组织维护
 
 **把团队聊天自动转化为带引用的维基知识库并支持问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Beever-AI/beever-atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 448 --> 452
-    line [449, 450, 451, 451]
+    title "Beever-AI/beever-atlas 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 448 --> 455
+    line [449, 450, 451, 453, 454, 454]
 ```
 
-2026-10-18 449 → 2026-11-02 451（+2）
+2026-10-18 449 → 2026-11-17 454（+5）
 
 
 ---

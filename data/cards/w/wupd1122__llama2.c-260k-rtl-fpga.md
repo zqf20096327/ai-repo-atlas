@@ -1,6 +1,6 @@
 # wupd1122/llama2.c-260k-rtl-fpga
 
-⭐ 23 · Verilog · 推送 2026-05-30 · [GitHub](https://github.com/wupd1122/llama2.c-260k-rtl-fpga) · 个人维护
+⭐ 25 · Verilog · 推送 2026-05-30 · [GitHub](https://github.com/wupd1122/llama2.c-260k-rtl-fpga) · 个人维护
 
 **在 FPGA 上用 Verilog RTL 实现 llama2.c stories260K 前向推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wupd1122/llama2.c-260k-rtl-fpga 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "wupd1122/llama2.c-260k-rtl-fpga 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

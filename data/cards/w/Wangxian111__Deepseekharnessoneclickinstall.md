@@ -1,6 +1,6 @@
 # Wangxian111/Deepseekharnessoneclickinstall
 
-⭐ 12 · PowerShell · 推送 2026-08-16 · [GitHub](https://github.com/Wangxian111/Deepseekharnessoneclickinstall) · 个人维护 · 中文 README
+⭐ 13 · PowerShell · 推送 2026-08-16 · [GitHub](https://github.com/Wangxian111/Deepseekharnessoneclickinstall) · 个人维护 · 中文 README
 
 **Windows 用户一键安装 DeepSeek Harness 的便携安装器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wangxian111/Deepseekharnessoneclickinstall 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "Wangxian111/Deepseekharnessoneclickinstall 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

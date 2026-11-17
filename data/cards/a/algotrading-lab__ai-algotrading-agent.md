@@ -44,13 +44,13 @@ TypeScript 编写的加密货币算法交易工具包，由原 Python 框架移�
 
 ```mermaid
 xychart-beta
-    title "algotrading-lab/ai-algotrading-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "algotrading-lab/ai-algotrading-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 121 --> 126
-    line [122, 123, 125]
+    line [122, 123, 125, 122, 125, 125]
 ```
 
-2026-10-18 122 → 2026-11-02 125（+3）
+2026-10-18 122 → 2026-11-17 125（+3）
 
 
 ---

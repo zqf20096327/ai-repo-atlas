@@ -1,6 +1,6 @@
 # ever-works/ever-works
 
-⭐ 186 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ever-works/ever-works) · [官网](https://ever.works) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源 agentic 运行时：AI agent 自主研究、生成并维护完整业务站点**
 
@@ -11,7 +11,7 @@ Ever Co. LTD 维护的 TypeScript monorepo 平台（Turborepo + pnpm，NestJS AP
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Ever Co. LTD 维护的 TypeScript monorepo 平台（Turborepo + pnpm，NestJS AP
 
 ```mermaid
 xychart-beta
-    title "ever-works/ever-works 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "ever-works/ever-works 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 169 --> 187
-    line [170, 171, 179, 180, 181, 182, 183, 185, 186]
+    line [170, 171, 179, 180, 181, 182, 183, 185, 186, 180, 180]
 ```
 
-2026-10-18 170 → 2026-11-02 186（+16）
+2026-10-18 170 → 2026-11-07 180（+10）
 
 
 ---

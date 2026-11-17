@@ -1,6 +1,6 @@
 # JacksonBurns/astartes
 
-⭐ 103 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/JacksonBurns/astartes) · [官网](https://jacksonburns.github.io/astartes/) · 个人维护
+⭐ 103 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/JacksonBurns/astartes) · [官网](https://jacksonburns.github.io/astartes/) · 个人维护
 
 **sklearn 兼容的 ML 数据集算法化划分库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JacksonBurns/astartes 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
+    x-axis ["2026-10-28", "2026-11-17"]
     y-axis "stars" 102 --> 104
     line [103, 103]
 ```
 
-2026-10-28 103 → 2026-11-02 103（+0）
+2026-10-28 103 → 2026-11-17 103（+0）
 
 
 ---

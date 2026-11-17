@@ -1,6 +1,6 @@
 # VectorInstitute/odyssey
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/VectorInstitute/odyssey) · 组织维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/VectorInstitute/odyssey) · 组织维护
 
 **可解释临床时间线 EHR 基础模型：事件预测与预警评测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VectorInstitute/odyssey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "VectorInstitute/odyssey 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 62, 63, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

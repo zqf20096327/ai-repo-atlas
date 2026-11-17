@@ -1,6 +1,6 @@
 # vttc08/demucs-karaoke-app
 
-⭐ 31 · Python · 推送 2026-11-01 · [GitHub](https://github.com/vttc08/demucs-karaoke-app) · [官网](https://vttc08.github.io/demucs-karaoke-app) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2026-11-14 · [GitHub](https://github.com/vttc08/demucs-karaoke-app) · [官网](https://vttc08.github.io/demucs-karaoke-app) · 个人维护 · 中文 README
 
 **本地运行的家庭卡拉 OK 网页应用：AI 分离人声并生成逐字歌词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vttc08/demucs-karaoke-app 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 32
-    line [14, 22, 24, 25, 26, 30, 31]
+    title "vttc08/demucs-karaoke-app 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 34
+    line [14, 22, 24, 25, 26, 30, 31, 22, 33, 33]
 ```
 
-2026-10-24 14 → 2026-11-02 31（+17）
+2026-10-24 14 → 2026-11-17 33（+19）
 
 
 ---

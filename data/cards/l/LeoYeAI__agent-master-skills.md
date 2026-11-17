@@ -1,6 +1,6 @@
 # LeoYeAI/agent-master-skills
 
-⭐ 2,171 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 2,196 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **2700+ 条 agent 技能策展清单，适配多 agent 运行时**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoYeAI/agent-master-skills 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 2167 --> 2172
-    line [2168, 2171]
+    title "LeoYeAI/agent-master-skills 星数(近 9 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2166 --> 2198
+    line [2168, 2171, 2185, 2186, 2187, 2192, 2193, 2196, 2196]
 ```
 
-2026-11-01 2,168 → 2026-11-02 2,171（+3）
+2026-11-01 2,168 → 2026-11-17 2,196（+28）
 
 
 ---

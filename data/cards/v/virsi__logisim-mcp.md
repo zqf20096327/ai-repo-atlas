@@ -1,6 +1,6 @@
 # virsi/logisim-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/virsi/logisim-mcp) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/virsi/logisim-mcp) · 个人维护
 
 **让 LLM 无 GUI 设计与验证 Logisim 数字电路的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "virsi/logisim-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "virsi/logisim-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 18, 19, 19]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 19（+5）
 
 
 ---

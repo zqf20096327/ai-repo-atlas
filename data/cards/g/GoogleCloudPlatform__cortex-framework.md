@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/cortex-framework
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/GoogleCloudPlatform/cortex-framework) · [官网](https://docs.cloud.google.com/cortex/docs/overview) · 组织维护
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/GoogleCloudPlatform/cortex-framework) · [官网](https://docs.cloud.google.com/cortex/docs/overview) · 组织维护
 
 **面向企业的 Google Cloud 数据基础框架：构建分析用数据产品**
 
@@ -45,13 +45,13 @@ Google Cloud 维护的企业数据框架 v7：基于 BigQuery、Dataform 与 Kno
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/cortex-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "GoogleCloudPlatform/cortex-framework 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 14, 17, 18, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

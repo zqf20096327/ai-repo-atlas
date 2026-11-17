@@ -1,6 +1,6 @@
 # meepolabs/routectl
 
-⭐ 18 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/meepolabs/routectl) · 组织维护
+⭐ 20 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/meepolabs/routectl) · 组织维护
 
 **本地 LLM 路由器：统一 OpenAI/Anthropic 端点，跨供应商故障转移**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "meepolabs/routectl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "meepolabs/routectl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

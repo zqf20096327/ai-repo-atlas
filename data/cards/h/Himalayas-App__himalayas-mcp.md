@@ -1,6 +1,6 @@
 # Himalayas-App/himalayas-mcp
 
-⭐ 21 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Himalayas-App/himalayas-mcp) · [官网](https://himalayas.app/mcp) · 组织维护
+⭐ 21 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Himalayas-App/himalayas-mcp) · [官网](https://himalayas.app/mcp) · 组织维护
 
 **远程招聘平台 Himalayas 的 MCP 服务器：求职/招聘工具接入 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Himalayas-App/himalayas-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

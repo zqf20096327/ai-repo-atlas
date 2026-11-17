@@ -1,6 +1,6 @@
 # sznnnnn/taught-master-applications-skill
 
-⭐ 16 · HTML · 推送 2026-06-03 · [GitHub](https://github.com/sznnnnn/taught-master-applications-skill) · 个人维护 · 中文 README
+⭐ 20 · HTML · 推送 2026-06-03 · [GitHub](https://github.com/sznnnnn/taught-master-applications-skill) · 个人维护 · 中文 README
 
 **留学申请工作流 Agent Skill：选校分流、证据地图、文书与时间线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sznnnnn/taught-master-applications-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "sznnnnn/taught-master-applications-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 21
+    line [14, 15, 16, 15, 19, 20, 20]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 20（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # linto-ai/whisper-timestamped
 
-⭐ 2,857 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/linto-ai/whisper-timestamped) · 组织维护
+⭐ 2,862 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/linto-ai/whisper-timestamped) · 组织维护
 
 **为 Whisper 转录添加词级时间戳与置信度的 Python 扩展**
 
@@ -46,13 +46,13 @@ openai-whisper 的 Python 包扩展，通过在交叉注意力权重上应用 Dy
 
 ```mermaid
 xychart-beta
-    title "linto-ai/whisper-timestamped 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 2854 --> 2858
-    line [2855, 2856, 2857]
+    title "linto-ai/whisper-timestamped 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2854 --> 2863
+    line [2855, 2856, 2857, 2856, 2861, 2862, 2861, 2862, 2862]
 ```
 
-2026-10-18 2,855 → 2026-11-02 2,857（+2）
+2026-10-18 2,855 → 2026-11-17 2,862（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # yamadashy/github-deepwiki-button
 
-⭐ 99 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/yamadashy/github-deepwiki-button) · [官网](https://chromewebstore.google.com/detail/github-deepwiki-unofficia/agchcjkheangfiopepndmenabbaopnpp) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yamadashy/github-deepwiki-button) · [官网](https://chromewebstore.google.com/detail/github-deepwiki-unofficia/agchcjkheangfiopepndmenabbaopnpp) · 个人维护
 
 **在 GitHub 仓库页添加一键跳转 DeepWiki 的浏览器扩展**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yamadashy/github-deepwiki-button 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 99（+0）
 
 
 ---

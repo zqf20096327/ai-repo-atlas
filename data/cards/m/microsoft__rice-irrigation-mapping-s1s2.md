@@ -1,6 +1,6 @@
 # microsoft/rice-irrigation-mapping-s1s2
 
-⭐ 13 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/microsoft/rice-irrigation-mapping-s1s2) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/microsoft/rice-irrigation-mapping-s1s2) · 组织维护
 
 **用 Sentinel-1/2 时序与 ML 对稻田灌溉与播种方式分类的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/rice-irrigation-mapping-s1s2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

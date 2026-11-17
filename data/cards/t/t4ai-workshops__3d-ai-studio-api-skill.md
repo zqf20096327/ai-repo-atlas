@@ -1,6 +1,6 @@
 # t4ai-workshops/3d-ai-studio-api-skill
 
-⭐ 13 · Python · 推送 2026-07-27 · [GitHub](https://github.com/t4ai-workshops/3d-ai-studio-api-skill) · [官网](https://www.3daistudio.com/Platform) · 组织维护
+⭐ 16 · Python · 推送 2026-07-27 · [GitHub](https://github.com/t4ai-workshops/3d-ai-studio-api-skill) · [官网](https://www.3daistudio.com/Platform) · 组织维护
 
 **让 Claude/Hermes 等 agent 调用 3D AI Studio API 生成 3D 模型与图像的技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "t4ai-workshops/3d-ai-studio-api-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "t4ai-workshops/3d-ai-studio-api-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 14, 15, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

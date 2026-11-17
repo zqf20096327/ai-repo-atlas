@@ -1,6 +1,6 @@
 # feyninc/chonkiejs
 
-⭐ 368 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/feyninc/chonkiejs) · [官网](https://chonkie.ai) · 组织维护
+⭐ 370 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/feyninc/chonkiejs) · [官网](https://chonkie.ai) · 组织维护
 
 **TypeScript 文本分块库：为 RAG 应用提供轻量分块能力**
 
@@ -45,13 +45,13 @@ Python 库 chonkie 的 TypeScript 移植（非 binding），面向开发 TypeScr
 
 ```mermaid
 xychart-beta
-    title "feyninc/chonkiejs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 366 --> 369
-    line [368, 367, 368, 368]
+    title "feyninc/chonkiejs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 366 --> 371
+    line [368, 367, 368, 367, 368, 369, 370, 370]
 ```
 
-2026-10-18 368 → 2026-11-02 368（+0）
+2026-10-18 368 → 2026-11-17 370（+2）
 
 
 ---

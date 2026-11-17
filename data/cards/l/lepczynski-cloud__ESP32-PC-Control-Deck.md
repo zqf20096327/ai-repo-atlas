@@ -1,6 +1,6 @@
 # lepczynski-cloud/ESP32-PC-Control-Deck
 
-⭐ 38 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/lepczynski-cloud/ESP32-PC-Control-Deck) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/lepczynski-cloud/ESP32-PC-Control-Deck) · [官网](https://sp32-pc-control-deck.lepczynski.it/) · 个人维护
 
 **USB 连接的 ESP32 桌面触摸控制面板：显示 PC 遥测并触发快捷操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lepczynski-cloud/ESP32-PC-Control-Deck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "lepczynski-cloud/ESP32-PC-Control-Deck 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 37 --> 43
+    line [38, 40, 42, 42]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 42（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # JSONbored/awesome-claude
 
-⭐ 305 · MDX · MIT · 推送 2026-08-16 · [GitHub](https://github.com/JSONbored/awesome-claude) · [官网](https://heyclau.de) · 个人维护
+⭐ 310 · MDX · MIT · 推送 2026-11-03 · [GitHub](https://github.com/JSONbored/awesome-claude) · [官网](https://heyclau.de) · 个人维护
 
 **Claude 生态资源人工审编目录：1388+ 条 agent/技能/MCP 条目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JSONbored/awesome-claude 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 300 --> 306
-    line [301, 303, 304, 303, 304, 305, 305]
+    title "JSONbored/awesome-claude 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 300 --> 311
+    line [301, 303, 304, 303, 304, 305, 304, 308, 309, 310, 310]
 ```
 
-2026-10-18 301 → 2026-11-02 305（+4）
+2026-10-18 301 → 2026-11-17 310（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # elastic/eland
 
-⭐ 693 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/elastic/eland) · [官网](https://eland.readthedocs.io) · 组织维护
+⭐ 694 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/elastic/eland) · [官网](https://eland.readthedocs.io) · 组织维护
 
 **用 Pandas 兼容 API 操作 Elasticsearch 数据的 Python 客户端与工具包**
 
@@ -44,13 +44,13 @@ Elastic 官方维护的 Python 客户端：以 Pandas 兼容的 DataFrame API �
 
 ```mermaid
 xychart-beta
-    title "elastic/eland 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 692 --> 694
-    line [693, 693]
+    title "elastic/eland 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 692 --> 695
+    line [693, 694, 694]
 ```
 
-2026-10-18 693 → 2026-11-02 693（+0）
+2026-10-18 693 → 2026-11-17 694（+1）
 
 
 ---

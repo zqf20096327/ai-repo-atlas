@@ -1,6 +1,6 @@
 # domdoss/Warden
 
-⭐ 172 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/domdoss/Warden) · [官网](https://aionsystems.ca) · 个人维护
+⭐ 171 · JavaScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/domdoss/Warden) · [官网](https://aionsystems.ca) · 个人维护
 
 **驻留桌面的个人 AI 代理：本地+云端混合模型直接操作电脑**
 
@@ -45,13 +45,13 @@ dockbox.dev 项目的 fork。运行于用户桌面的个人 AI 助理：通过 O
 
 ```mermaid
 xychart-beta
-    title "domdoss/Warden 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    title "domdoss/Warden 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 170 --> 173
+    line [172, 171, 171]
 ```
 
-2026-10-18 172 → 2026-11-02 172（+0）
+2026-10-18 172 → 2026-11-17 171（-1）
 
 
 ---

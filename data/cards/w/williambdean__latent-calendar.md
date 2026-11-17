@@ -1,6 +1,6 @@
 # williambdean/latent-calendar
 
-⭐ 21 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/williambdean/latent-calendar) · [官网](https://williambdean.github.io/latent-calendar/) · 个人维护
+⭐ 21 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/williambdean/latent-calendar) · [官网](https://williambdean.github.io/latent-calendar/) · 个人维护
 
 **Python 库：分析与建模周历分布数据（潜在成分混合模型）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "williambdean/latent-calendar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

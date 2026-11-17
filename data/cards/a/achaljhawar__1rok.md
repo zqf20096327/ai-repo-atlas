@@ -1,6 +1,6 @@
 # achaljhawar/1rok
 
-⭐ 51 · TypeScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/achaljhawar/1rok) · [官网](https://investingbench.vercel.app) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/achaljhawar/1rok) · [官网](https://investingbench.vercel.app) · 个人维护
 
 **多 LLM 投资组合构建代理运行框架，对接 Alpaca 模拟交易**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "achaljhawar/1rok 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    title "achaljhawar/1rok 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 48 --> 54
+    line [49, 50, 51, 49, 51, 52, 53, 53]
 ```
 
-2026-10-18 49 → 2026-11-02 51（+2）
+2026-10-18 49 → 2026-11-17 53（+4）
 
 
 ---

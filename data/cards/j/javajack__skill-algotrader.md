@@ -1,6 +1,6 @@
 # javajack/skill-algotrader
 
-⭐ 100 · Python · 推送 2026-02-14 · [GitHub](https://github.com/javajack/skill-algotrader) · 个人维护
+⭐ 103 · Python · 推送 2026-02-14 · [GitHub](https://github.com/javajack/skill-algotrader) · 个人维护
 
 **面向 Claude Code 的印度股市量化交易技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "javajack/skill-algotrader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 96 --> 101
-    line [97, 99, 100, 100]
+    title "javajack/skill-algotrader 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 96 --> 104
+    line [97, 99, 100, 99, 101, 102, 103, 103]
 ```
 
-2026-10-18 97 → 2026-11-02 100（+3）
+2026-10-18 97 → 2026-11-17 103（+6）
 
 
 ---

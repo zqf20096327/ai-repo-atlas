@@ -1,6 +1,6 @@
 # Wh1isper/ya-mono
 
-⭐ 19 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/Wh1isper/ya-mono) · 个人维护
+⭐ 19 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/Wh1isper/ya-mono) · 个人维护
 
 **多包 monorepo：基于 Pydantic AI 的 Agent SDK/CLI/运行时服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wh1isper/ya-mono 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "Wh1isper/ya-mono 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

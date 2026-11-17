@@ -1,6 +1,6 @@
 # MohammadHeydari/Awesome-Persian-LLM
 
-⭐ 26 · Python · 推送 2026-06-24 · [GitHub](https://github.com/MohammadHeydari/Awesome-Persian-LLM) · 个人维护
+⭐ 27 · Python · 推送 2026-06-24 · [GitHub](https://github.com/MohammadHeydari/Awesome-Persian-LLM) · 个人维护
 
 **波斯语 LLM 资源清单：论文、模型、数据集与评测一站收录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MohammadHeydari/Awesome-Persian-LLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 19 --> 27
-    line [20, 21, 24, 25, 26, 26]
+    title "MohammadHeydari/Awesome-Persian-LLM 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 28
+    line [20, 21, 24, 25, 26, 24, 26, 27, 27]
 ```
 
-2026-10-18 20 → 2026-11-02 26（+6）
+2026-10-18 20 → 2026-11-17 27（+7）
 
 
 ---

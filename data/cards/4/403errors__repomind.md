@@ -1,6 +1,6 @@
 # 403errors/repomind
 
-⭐ 291 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/403errors/repomind) · [官网](https://repomind.in) · 组织维护
+⭐ 291 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/403errors/repomind) · [官网](https://repomind.in) · 组织维护
 
 **用 Agentic CAG 与公开 GitHub 仓库/开发者对话的 AI 分析平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "403errors/repomind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 290 --> 292
-    line [291, 291]
+    title "403errors/repomind 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 289 --> 292
+    line [291, 290, 291, 291]
 ```
 
-2026-10-18 291 → 2026-11-02 291（+0）
+2026-10-18 291 → 2026-11-17 291（+0）
 
 
 ---

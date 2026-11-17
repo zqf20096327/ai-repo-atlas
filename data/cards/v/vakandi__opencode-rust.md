@@ -1,6 +1,6 @@
 # vakandi/opencode-rust
 
-⭐ 52 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vakandi/opencode-rust) · [官网](https://vakandi.github.io/opencode-rust/) · 个人维护
+⭐ 39 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vakandi/opencode-rust) · [官网](https://vakandi.github.io/opencode-rust/) · 个人维护
 
 **Rust 实现的开源 AI 编码代理，CLI/TUI/HTTP 服务**
 
@@ -44,13 +44,13 @@ OpenCode 的 Rust 实现，提供 CLI、TUI 与 HTTP server 三种形态，统�
 
 ```mermaid
 xychart-beta
-    title "vakandi/opencode-rust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 50 --> 75
-    line [72, 73, 52, 52]
+    title "vakandi/opencode-rust 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 76
+    line [72, 73, 52, 39, 39]
 ```
 
-2026-10-18 72 → 2026-11-02 52（-20）
+2026-10-18 72 → 2026-11-17 39（-33）
 
 
 ---

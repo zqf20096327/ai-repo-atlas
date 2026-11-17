@@ -1,6 +1,6 @@
 # RubricLab/maige
 
-⭐ 105 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/RubricLab/maige) · [官网](https://maige.app) · 组织维护
+⭐ 106 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/RubricLab/maige) · [官网](https://maige.app) · 组织维护
 
 **AI 管理 GitHub 仓库议题与标签的自然语言工作流工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RubricLab/maige 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 103 --> 106
-    line [104, 105, 105]
+    title "RubricLab/maige 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 103 --> 107
+    line [104, 105, 104, 105, 106, 106]
 ```
 
-2026-10-18 104 → 2026-11-02 105（+1）
+2026-10-18 104 → 2026-11-17 106（+2）
 
 
 ---

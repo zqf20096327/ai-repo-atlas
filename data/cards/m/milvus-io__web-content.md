@@ -1,6 +1,6 @@
 # milvus-io/web-content
 
-⭐ 139 · MDX · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/milvus-io/web-content) · [官网](https://milvus.io/) · 组织维护
+⭐ 139 · MDX · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/milvus-io/web-content) · [官网](https://milvus.io/) · 组织维护
 
 **Milvus 官网的文档、博客与训练营内容仓库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "milvus-io/web-content 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "milvus-io/web-content 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 137 --> 140
-    line [138, 139, 139]
+    line [138, 139, 138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-11-02 139（+1）
+2026-10-18 138 → 2026-11-17 139（+1）
 
 
 ---

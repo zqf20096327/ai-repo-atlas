@@ -1,6 +1,6 @@
 # filippofinke/cad-studio
 
-⭐ 33 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/filippofinke/cad-studio) · [官网](https://filippofinke.github.io/cad-studio/) · 个人维护
+⭐ 37 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/filippofinke/cad-studio) · [官网](https://filippofinke.github.io/cad-studio/) · 个人维护
 
 **macOS 原生 CAD 应用：用 Claude Code 生成参数化可打印 3D 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "filippofinke/cad-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 27 --> 34
-    line [28, 29, 30, 31, 32, 33, 33]
+    title "filippofinke/cad-studio 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 27 --> 38
+    line [28, 29, 30, 31, 32, 33, 29, 34, 35, 36, 37, 37]
 ```
 
-2026-10-18 28 → 2026-11-02 33（+5）
+2026-10-18 28 → 2026-11-17 37（+9）
 
 
 ---

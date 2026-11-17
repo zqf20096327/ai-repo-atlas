@@ -1,6 +1,6 @@
 # m3talux/superbrain
 
-⭐ 42 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/m3talux/superbrain) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/m3talux/superbrain) · 个人维护
 
 **Claude Code 插件：自动把每次会话沉淀为 Obsidian 笔记库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "m3talux/superbrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "m3talux/superbrain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

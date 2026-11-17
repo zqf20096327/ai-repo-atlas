@@ -1,6 +1,6 @@
 # log-bell/avakill
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-03-10 · [GitHub](https://github.com/log-bell/avakill) · [官网](https://avakill.vercel.app) · 个人维护
+⭐ 27 · Python · AGPL-3.0 · 推送 2026-03-10 · [GitHub](https://github.com/log-bell/avakill) · [官网](https://avakill.vercel.app) · 个人维护
 
 **AI agent 工具调用防火墙：拦截危险操作并按 YAML 策略拦截**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "log-bell/avakill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "log-bell/avakill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

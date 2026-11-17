@@ -1,6 +1,6 @@
 # Edmon02/bookmark-ai-organizer
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/Edmon02/bookmark-ai-organizer) · [官网](https://github.com/Edmon02/bookmark-ai-organizer#readme) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/Edmon02/bookmark-ai-organizer) · [官网](https://github.com/Edmon02/bookmark-ai-organizer#readme) · 个人维护
 
 **AI 分类整理浏览器书签的 Chrome 扩展**
 
@@ -44,13 +44,13 @@ Manifest V3 Chrome 扩展：通过用户选择的 LLM 供应商（OpenRouter/Ope
 
 ```mermaid
 xychart-beta
-    title "Edmon02/bookmark-ai-organizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "Edmon02/bookmark-ai-organizer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 22, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

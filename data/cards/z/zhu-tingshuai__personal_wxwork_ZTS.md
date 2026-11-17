@@ -1,6 +1,6 @@
 # zhu-tingshuai/personal_wxwork_ZTS
 
-⭐ 22 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/zhu-tingshuai/personal_wxwork_ZTS) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/zhu-tingshuai/personal_wxwork_ZTS) · 个人维护 · 中文 README
 
 **不依赖企微 API 的企业微信私聊自动回复桌面系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhu-tingshuai/personal_wxwork_ZTS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 20, 22, 22]
+    title "zhu-tingshuai/personal_wxwork_ZTS 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 20, 22, 19, 23, 24, 25, 25]
 ```
 
-2026-10-18 18 → 2026-11-02 22（+4）
+2026-10-18 18 → 2026-11-17 25（+7）
 
 
 ---

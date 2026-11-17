@@ -1,6 +1,6 @@
 # LAMDA-NeSy/ChinaTravel
 
-⭐ 137 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/LAMDA-NeSy/ChinaTravel) · [官网](https://sh-jj.github.io/ChinaTravel/index.html) · 组织维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/LAMDA-NeSy/ChinaTravel) · [官网](https://sh-jj.github.io/ChinaTravel/index.html) · 组织维护 · 中文 README
 
 **面向语言 Agent 的中文真实旅行规划基准（评测数据集+评估器）**
 
@@ -45,13 +45,13 @@ LAMDA-NeSy 维护的旅行规划基准：提供中英双语结构化沙盒数据
 
 ```mermaid
 xychart-beta
-    title "LAMDA-NeSy/ChinaTravel 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 132 --> 138
-    line [133, 134, 135, 136, 137, 137]
+    title "LAMDA-NeSy/ChinaTravel 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 132 --> 141
+    line [133, 134, 135, 136, 137, 135, 138, 139, 140, 140]
 ```
 
-2026-10-18 133 → 2026-11-02 137（+4）
+2026-10-18 133 → 2026-11-17 140（+7）
 
 
 ---

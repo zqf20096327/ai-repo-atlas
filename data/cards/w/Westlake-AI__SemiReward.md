@@ -1,6 +1,6 @@
 # Westlake-AI/SemiReward
 
-⭐ 75 · Python · Apache-2.0 · 推送 2025-11-09 · [GitHub](https://github.com/Westlake-AI/SemiReward) · [官网](https://arxiv.org/abs/2310.03013) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给科研者：预测奖励分数以评估半监督伪标签质量的通用奖励模型**
 
@@ -11,7 +11,7 @@ ICLR 2024 论文的官方实现，基于 USB（PyTorch 半监督学习代码库�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ ICLR 2024 论文的官方实现，基于 USB（PyTorch 半监督学习代码库�
 ```mermaid
 xychart-beta
     title "Westlake-AI/SemiReward 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-07 75（+0）
 
 
 ---

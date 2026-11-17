@@ -1,6 +1,6 @@
 # HengXin666/freebuff-proxy
 
-⭐ 97 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HengXin666/freebuff-proxy) · 个人维护 · 中文 README
+⭐ 101 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HengXin666/freebuff-proxy) · 个人维护 · 中文 README
 
 **把 Freebuff 免费额度反代为 OpenAI 兼容 API 的自托管网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HengXin666/freebuff-proxy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 91 --> 98
-    line [94, 93, 92, 93, 94, 97, 97]
+    title "HengXin666/freebuff-proxy 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 91 --> 104
+    line [94, 93, 92, 93, 94, 97, 93, 102, 101, 103, 102, 101, 101]
 ```
 
-2026-10-18 94 → 2026-11-02 97（+3）
+2026-10-18 94 → 2026-11-17 101（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # 1173591564/memory-manage
 
-⭐ 184 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/1173591564/memory-manage) · 个人维护 · 中文 README
+⭐ 185 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/1173591564/memory-manage) · 个人维护 · 中文 README
 
 **LLM/coding agent 的长期记忆层：任务日志存储与检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1173591564/memory-manage 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 183 --> 186
-    line [185, 184, 184]
+    title "1173591564/memory-manage 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 182 --> 186
+    line [185, 184, 185, 183, 184, 185, 185]
 ```
 
-2026-10-23 185 → 2026-11-02 184（-1）
+2026-10-23 185 → 2026-11-17 185（+0）
 
 
 ---

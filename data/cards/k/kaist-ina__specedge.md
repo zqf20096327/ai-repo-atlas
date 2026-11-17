@@ -1,6 +1,6 @@
 # kaist-ina/specedge
 
-⭐ 38 · Python · NOASSERTION · 推送 2025-11-14 · [GitHub](https://github.com/kaist-ina/specedge) · [官网](https://arxiv.org/abs/2505.17052) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **边云协同的交互式 LLM 推理服务框架（NeurIPS 2025）**
 
@@ -11,7 +11,7 @@ KAIST 研究团队发布的边缘辅助 LLM 推理框架：利用消费级 GPU �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ KAIST 研究团队发布的边缘辅助 LLM 推理框架：利用消费级 GPU �
 
 ```mermaid
 xychart-beta
-    title "kaist-ina/specedge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
+    title "kaist-ina/specedge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    line [36, 37, 38, 37, 38]
 ```
 
-2026-10-18 36 → 2026-11-02 38（+2）
+2026-10-18 36 → 2026-11-08 38（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # geckse/markdown-vdb
 
-⭐ 29 · Rust · MIT · 推送 2026-08-14 · [GitHub](https://github.com/geckse/markdown-vdb) · 个人维护
+⭐ 30 · Rust · MIT · 推送 2026-08-14 · [GitHub](https://github.com/geckse/markdown-vdb) · 个人维护
 
 **面向 Markdown 的文件系统原生向量数据库，供 AI 代理检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "geckse/markdown-vdb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    title "geckse/markdown-vdb 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 28, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 30（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Free-AI-Things/AI-DeWatermarker
 
-⭐ 21 · TypeScript · GPL-3.0 · 推送 2025-11-10 · [GitHub](https://github.com/Free-AI-Things/AI-DeWatermarker) · [官网](https://ai-de-watermarker.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **浏览器本地检测并清除 AI 水印与 Unicode 文本混淆的工具**
 
@@ -11,7 +11,7 @@ React + TypeScript + Vite 构建的网页工具：检测文本中的零宽字符
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ React + TypeScript + Vite 构建的网页工具：检测文本中的零宽字符
 ```mermaid
 xychart-beta
     title "Free-AI-Things/AI-DeWatermarker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-07 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cqzyys/lang-agent
 
-⭐ 339 · TypeScript · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/cqzyys/lang-agent) · 个人维护 · 中文 README
+⭐ 333 · TypeScript · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/cqzyys/lang-agent) · 个人维护 · 中文 README
 
 **面向开发者的可视化 AI Agent 配置平台，基于 LangGraph**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cqzyys/lang-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 337 --> 340
-    line [338, 339, 339]
+    title "cqzyys/lang-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 330 --> 340
+    line [338, 339, 338, 331, 333, 333]
 ```
 
-2026-10-18 338 → 2026-11-02 339（+1）
+2026-10-18 338 → 2026-11-17 333（-5）
 
 
 ---

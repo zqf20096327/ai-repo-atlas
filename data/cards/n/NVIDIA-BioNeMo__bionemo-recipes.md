@@ -1,6 +1,6 @@
 # NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ 878 · Python · 推送 2026-11-01 · [GitHub](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) · [官网](https://nvidia-bionemo.github.io/bionemo-recipes/) · 组织维护
+⭐ 877 · Python · 推送 2026-11-13 · [GitHub](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) · [官网](https://nvidia-bionemo.github.io/bionemo-recipes/) · 组织维护
 
 **面向药物发现的生物基础模型训练配方与模型检查点库**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的生物基础模型规模化训练资源库：提供使用 Transf
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-BioNeMo/bionemo-recipes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "NVIDIA-BioNeMo/bionemo-recipes 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 869 --> 879
-    line [870, 871, 874, 875, 877, 878, 878]
+    line [870, 871, 874, 875, 877, 878, 877, 878, 877, 877]
 ```
 
-2026-10-18 870 → 2026-11-02 878（+8）
+2026-10-18 870 → 2026-11-17 877（+7）
 
 
 ---

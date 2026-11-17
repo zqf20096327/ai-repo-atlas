@@ -1,6 +1,6 @@
 # atrislabs/atris
 
-⭐ 71 · JavaScript · 推送 2026-11-01 · [GitHub](https://github.com/atrislabs/atris) · [官网](https://atris.ai) · 组织维护
+⭐ 71 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/atrislabs/atris) · [官网](https://atris.ai) · 组织维护
 
 **把任意仓库变成 AI agent 可操作工作区的 CLI 与 MCP 服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atrislabs/atris 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 71（+0）
 
 
 ---

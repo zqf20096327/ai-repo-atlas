@@ -1,6 +1,6 @@
 # Aayush9029/mcp-server
 
-⭐ 48 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Aayush9029/mcp-server) · [官网](https://relaydeck.onrender.com) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Aayush9029/mcp-server) · [官网](https://relaydeck.onrender.com) · 个人维护
 
 **把 AI agent 任务同步到 iPhone/手表的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Aayush9029/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 48（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bold84/cot_proxy
 
-⭐ 50 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/bold84/cot_proxy) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/bold84/cot_proxy) · 个人维护
 
 **LLM API 代理：按模型定制参数、自动切换思考模式并过滤 think 标签**
 
@@ -40,6 +40,18 @@
 > L3: Ever wished you had more control over how your applications interact with Large Language Models (LLMs)? **cot_proxy*
 > L34: - **Smart Request Modification**: Automatically adjust parameters and append text to prompts
 > L37: - **Streaming Support**: Works with both streaming and non-streaming responses
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bold84/cot_proxy 星数(近 2 点)"
+    x-axis ["2026-11-02", "2026-11-17"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
+```
+
+2026-11-02 50 → 2026-11-17 50（+0）
 
 
 ---

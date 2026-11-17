@@ -1,6 +1,6 @@
 # salishforge/memforge
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/salishforge/memforge) · [官网](https://github.com/salishforge/memforge#readme) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/salishforge/memforge) · [官网](https://github.com/salishforge/memforge#readme) · 组织维护
 
 **给 AI agent 的三层记忆系统：休眠周期改写强化知识**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "salishforge/memforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "salishforge/memforge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

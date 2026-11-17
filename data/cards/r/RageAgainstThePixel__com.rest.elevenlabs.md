@@ -1,6 +1,6 @@
 # RageAgainstThePixel/com.rest.elevenlabs
 
-⭐ 109 · C# · MIT · 推送 2026-03-09 · [GitHub](https://github.com/RageAgainstThePixel/com.rest.elevenlabs) · [官网](https://try.elevenlabs.io/rage-against-the-pixel) · 个人维护
+⭐ 109 · C# · MIT · 推送 2026-11-02 · [GitHub](https://github.com/RageAgainstThePixel/com.rest.elevenlabs) · [官网](https://try.elevenlabs.io/rage-against-the-pixel) · 个人维护
 
 **Unity 平台的 ElevenLabs 语音合成非官方客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RageAgainstThePixel/com.rest.elevenlabs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-18 109 → 2026-11-02 109（+0）
+2026-10-18 109 → 2026-11-17 109（+0）
 
 
 ---

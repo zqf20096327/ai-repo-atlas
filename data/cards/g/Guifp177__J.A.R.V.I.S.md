@@ -1,6 +1,6 @@
 # Guifp177/J.A.R.V.I.S
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/Guifp177/J.A.R.V.I.S) · [官网](https://jarvis-7u3.pages.dev/) · 个人维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/Guifp177/J.A.R.V.I.S) · [官网](https://jarvis-7u3.pages.dev/) · 个人维护
 
 **Windows 本地个人 AI 语音助手，灵感来自钢铁侠 J.A.R.V.I.S.**
 
@@ -45,13 +45,13 @@ Python 编写的桌面智能助手，带 PyQt 图形界面，集成 Ollama（云
 
 ```mermaid
 xychart-beta
-    title "Guifp177/J.A.R.V.I.S 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Guifp177/J.A.R.V.I.S 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

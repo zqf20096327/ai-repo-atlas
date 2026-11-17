@@ -1,6 +1,6 @@
 # THU-MIG/edge-dit.cpp
 
-⭐ 54 · C++ · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/THU-MIG/edge-dit.cpp) · [官网](https://thu-mig.github.io/edge-dit.cpp/) · 组织维护 · 中文 README
+⭐ 55 · C++ · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/THU-MIG/edge-dit.cpp) · [官网](https://thu-mig.github.io/edge-dit.cpp/) · 组织维护 · 中文 README
 
 **面向本地/边缘设备的 DiT 推理引擎，运行图像与视频生成模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "THU-MIG/edge-dit.cpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    title "THU-MIG/edge-dit.cpp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 54（+2）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

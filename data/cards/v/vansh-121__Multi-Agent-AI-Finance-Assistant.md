@@ -1,6 +1,6 @@
 # vansh-121/Multi-Agent-AI-Finance-Assistant
 
-⭐ 28 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vansh-121/Multi-Agent-AI-Finance-Assistant) · [官网](https://multi-agents-finance-assistant.streamlit.app) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/vansh-121/Multi-Agent-AI-Finance-Assistant) · [官网](https://multi-agents-finance-assistant.streamlit.app) · 个人维护
 
 **多 Agent 金融分析助手：LLM 驱动的股票研究与市场简报生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vansh-121/Multi-Agent-AI-Finance-Assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "vansh-121/Multi-Agent-AI-Finance-Assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

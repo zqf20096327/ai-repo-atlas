@@ -1,6 +1,6 @@
 # dralkh/spaceforge
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dralkh/spaceforge) · [官网](https://github.com/dralkh/spaceforge) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dralkh/spaceforge) · [官网](https://github.com/dralkh/spaceforge) · 个人维护
 
 **Obsidian 间隔重复学习插件：FSRS/SM-2 复习、AI 出题与番茄钟**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dralkh/spaceforge 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-17"]
     y-axis "stars" 10 --> 16
     line [11, 13, 14, 15, 15]
 ```
 
-2026-10-19 11 → 2026-11-02 15（+4）
+2026-10-19 11 → 2026-11-17 15（+4）
 
 
 ---

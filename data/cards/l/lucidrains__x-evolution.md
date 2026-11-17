@@ -1,6 +1,6 @@
 # lucidrains/x-evolution
 
-⭐ 53 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/lucidrains/x-evolution) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lucidrains/x-evolution) · 个人维护
 
 **PyTorch 进化算法库：进化策略训练与分布式运行**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/x-evolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "lucidrains/x-evolution 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

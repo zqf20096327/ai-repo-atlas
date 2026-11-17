@@ -1,6 +1,6 @@
 # SamurAIGPT/ai-resume-builder
 
-⭐ 12 · JavaScript · 推送 2026-07-27 · [GitHub](https://github.com/SamurAIGPT/ai-resume-builder) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=ai-resume-builder) · 组织维护
+⭐ 14 · JavaScript · 推送 2026-07-27 · [GitHub](https://github.com/SamurAIGPT/ai-resume-builder) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=ai-resume-builder) · 组织维护
 
 **自托管 AI 简历生成与 ATS 优化 SaaS 模板（Next.js）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/ai-resume-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "SamurAIGPT/ai-resume-builder 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

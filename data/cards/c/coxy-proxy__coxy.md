@@ -1,6 +1,6 @@
 # coxy-proxy/coxy
 
-⭐ 60 · TypeScript · MIT · 推送 2025-11-06 · [GitHub](https://github.com/coxy-proxy/coxy) · [官网](https://coxy.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将 GitHub Copilot 转为 OpenAI 兼容 API 的代理服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coxy-proxy/coxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-07 60（+0）
 
 
 ---

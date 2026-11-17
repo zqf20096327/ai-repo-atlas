@@ -1,6 +1,6 @@
 # databricks/mlops-stacks
 
-⭐ 723 · Go Template · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/databricks/mlops-stacks) · [官网](https://docs.databricks.com/en/dev-tools/bundles/mlops-stacks.html) · 组织维护
+⭐ 726 · Go Template · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/databricks/mlops-stacks) · [官网](https://docs.databricks.com/en/dev-tools/bundles/mlops-stacks.html) · 组织维护
 
 **Databricks 上的 MLOps 项目模板栈：快速生成带 CI/CD 的 ML 工程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "databricks/mlops-stacks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 720 --> 724
-    line [721, 723, 723]
+    title "databricks/mlops-stacks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 720 --> 727
+    line [721, 723, 725, 726, 726]
 ```
 
-2026-10-18 721 → 2026-11-02 723（+2）
+2026-10-18 721 → 2026-11-17 726（+5）
 
 
 ---

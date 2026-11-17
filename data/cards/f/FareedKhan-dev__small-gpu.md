@@ -1,6 +1,6 @@
 # FareedKhan-dev/small-gpu
 
-⭐ 72 · SystemVerilog · MIT · 推送 2026-01-22 · [GitHub](https://github.com/FareedKhan-dev/small-gpu) · [官网](https://medium.com/@fareedkhandev/building-a-tiny-gpu-to-learn-understand-ai-hardware-engineering-for-ai-computation-fundamental-62bb08f2d1d1) · 个人维护
+⭐ 76 · SystemVerilog · MIT · 推送 2026-01-22 · [GitHub](https://github.com/FareedKhan-dev/small-gpu) · [官网](https://medium.com/@fareedkhandev/building-a-tiny-gpu-to-learn-understand-ai-hardware-engineering-for-ai-computation-fundamental-62bb08f2d1d1) · 个人维护
 
 **面向 AI 工程师的 GPU 硬件教程：用 SystemVerilog 从零构建迷你 GPU**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/small-gpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "FareedKhan-dev/small-gpu 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 71 --> 77
+    line [72, 73, 74, 75, 76, 76]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 76（+4）
 
 
 ---

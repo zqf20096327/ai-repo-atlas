@@ -1,6 +1,6 @@
 # hitSlop/Hashy
 
-⭐ 27 · Swift · MIT · 推送 2026-02-23 · [GitHub](https://github.com/hitSlop/Hashy) · [官网](https://hashy.ink) · 个人维护
+⭐ 28 · Swift · MIT · 推送 2026-02-23 · [GitHub](https://github.com/hitSlop/Hashy) · [官网](https://hashy.ink) · 个人维护
 
 **macOS/iOS 原生 Markdown 编辑器，内置 AI 聊天与 iCloud 同步**
 
@@ -44,13 +44,13 @@ SwiftUI 原生应用，面向以 Markdown 记笔记的开发者：笔记为带 Y
 
 ```mermaid
 xychart-beta
-    title "hitSlop/Hashy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "hitSlop/Hashy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

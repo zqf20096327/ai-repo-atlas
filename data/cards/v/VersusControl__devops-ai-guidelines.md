@@ -1,6 +1,6 @@
 # VersusControl/devops-ai-guidelines
 
-⭐ 1,557 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/VersusControl/devops-ai-guidelines) · [官网](https://versusincident.com) · 组织维护
+⭐ 1,569 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/VersusControl/devops-ai-guidelines) · [官网](https://versusincident.com) · 组织维护
 
 **DevOps 工程师的 AI 学习路径与企业落地指南合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "VersusControl/devops-ai-guidelines 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1549 --> 1558
-    line [1550, 1554, 1553, 1555, 1556, 1555, 1556, 1557, 1557]
+    title "VersusControl/devops-ai-guidelines 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1549 --> 1570
+    line [1550, 1554, 1553, 1555, 1556, 1555, 1556, 1557, 1555, 1564, 1565, 1566, 1567, 1569, 1569]
 ```
 
-2026-10-18 1,550 → 2026-11-02 1,557（+7）
+2026-10-18 1,550 → 2026-11-17 1,569（+19）
 
 
 ---

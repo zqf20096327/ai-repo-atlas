@@ -1,6 +1,6 @@
 # yhzhu99/HealthFlow
 
-⭐ 58 · Python · 推送 2026-09-23 · [GitHub](https://github.com/yhzhu99/HealthFlow) · [官网](https://healthflow.medx-pku.com/) · 组织维护
+⭐ 61 · Python · 推送 2026-09-23 · [GitHub](https://github.com/yhzhu99/HealthFlow) · [官网](https://healthflow.medx-pku.com/) · 组织维护
 
 **自动化 EHR 分析的自进化多智能体框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yhzhu99/HealthFlow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 53 --> 59
-    line [54, 57, 58]
+    title "yhzhu99/HealthFlow 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 53 --> 62
+    line [54, 57, 58, 57, 59, 60, 61, 61]
 ```
 
-2026-10-18 54 → 2026-11-02 58（+4）
+2026-10-18 54 → 2026-11-17 61（+7）
 
 
 ---

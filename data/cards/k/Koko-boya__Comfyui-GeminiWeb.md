@@ -1,6 +1,6 @@
 # Koko-boya/Comfyui-GeminiWeb
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/Koko-boya/Comfyui-GeminiWeb) · 个人维护
+⭐ 53 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/Koko-boya/Comfyui-GeminiWeb) · 个人维护
 
 **让 ComfyUI 经 Gemini 网页接口生成/编辑图像的节点**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集，通过 Gemini 网页接口实现文生图、图生�
 
 ```mermaid
 xychart-beta
-    title "Koko-boya/Comfyui-GeminiWeb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "Koko-boya/Comfyui-GeminiWeb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

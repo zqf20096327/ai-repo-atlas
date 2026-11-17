@@ -1,6 +1,6 @@
 # nirholas/defi-agents
 
-⭐ 36 · TypeScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/nirholas/defi-agents) · [官网](https://sperax.click) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **DeFi/Crypto AI agent 定义库：42 个 agent 的 JSON API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirholas/defi-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    title "nirholas/defi-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-02 36（+1）
+2026-10-18 35 → 2026-11-10 37（+2）
 
 
 ---

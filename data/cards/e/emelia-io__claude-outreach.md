@@ -1,6 +1,6 @@
 # emelia-io/claude-outreach
 
-⭐ 21 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/emelia-io/claude-outreach) · [官网](https://emelia.io) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/emelia-io/claude-outreach) · [官网](https://emelia.io) · 组织维护
 
 **在 Claude Code 内运行 B2B 外联全流程的技能与代理包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "emelia-io/claude-outreach 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "emelia-io/claude-outreach 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 21, 19, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 23（+5）
 
 
 ---

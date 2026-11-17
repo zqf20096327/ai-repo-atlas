@@ -1,6 +1,6 @@
 # Shelpuk-AI-Technology-Consulting/agent-skill-tdd
 
-⭐ 31 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/agent-skill-tdd) · [官网](https://www.shelpuk.com) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/agent-skill-tdd) · [官网](https://www.shelpuk.com) · 组织维护
 
 **面向 AI 编程代理的 TDD 与需求纪律技能（SKILL.md）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shelpuk-AI-Technology-Consulting/agent-skill-tdd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "Shelpuk-AI-Technology-Consulting/agent-skill-tdd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

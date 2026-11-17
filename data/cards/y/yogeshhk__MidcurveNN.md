@@ -1,6 +1,6 @@
 # yogeshhk/MidcurveNN
 
-⭐ 44 · TeX · MIT · 推送 2026-11-01 · [GitHub](https://github.com/yogeshhk/MidcurveNN) · 个人维护
+⭐ 44 · TeX · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yogeshhk/MidcurveNN) · 个人维护
 
 **用神经网络计算 2D 闭合多边形中曲线的研究项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yogeshhk/MidcurveNN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "yogeshhk/MidcurveNN 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/tokenizers.js
 
-⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/tokenizers.js) · [官网](https://www.npmjs.com/package/@huggingface/tokenizers) · 组织维护
+⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/tokenizers.js) · [官网](https://www.npmjs.com/package/@huggingface/tokenizers) · 组织维护
 
 **纯 JS/TS 实现的分词器库，浏览器/Node 直接运行主流 tokenizer**
 
@@ -45,13 +45,13 @@ Hugging Face 官方维护的轻量分词器库，用纯 JavaScript/TypeScript �
 
 ```mermaid
 xychart-beta
-    title "huggingface/tokenizers.js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    title "huggingface/tokenizers.js 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 56 --> 63
+    line [57, 58, 60, 61, 62, 62]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 62（+5）
 
 
 ---

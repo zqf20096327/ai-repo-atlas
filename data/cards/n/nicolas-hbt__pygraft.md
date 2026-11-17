@@ -1,6 +1,6 @@
 # nicolas-hbt/pygraft
 
-⭐ 717 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/nicolas-hbt/pygraft) · [官网](https://pygraft.readthedocs.io/en/latest/) · 个人维护
+⭐ 719 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/nicolas-hbt/pygraft) · [官网](https://pygraft.readthedocs.io/en/latest/) · 个人维护
 
 **为科研人员按参数生成合成模式与知识图谱的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicolas-hbt/pygraft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 715 --> 718
-    line [716, 717, 717]
+    title "nicolas-hbt/pygraft 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 715 --> 720
+    line [716, 717, 716, 718, 719, 719]
 ```
 
-2026-10-18 716 → 2026-11-02 717（+1）
+2026-10-18 716 → 2026-11-17 719（+3）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TaherehZarratEhsan/Chicken-Behavior-Analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-11-07 23（+0）
 
 
 ---

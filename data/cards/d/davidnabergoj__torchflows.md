@@ -1,6 +1,6 @@
 # davidnabergoj/torchflows
 
-⭐ 13 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/davidnabergoj/torchflows) · [官网](https://torchflows.readthedocs.io/en/latest/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/davidnabergoj/torchflows) · [官网](https://torchflows.readthedocs.io/en/latest/) · 个人维护
 
 **PyTorch 归一化流库：生成建模与密度估计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "davidnabergoj/torchflows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

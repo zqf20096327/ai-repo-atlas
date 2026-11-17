@@ -1,6 +1,6 @@
 # kyegomez/RT-X
 
-⭐ 246 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/RT-X) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 246 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kyegomez/RT-X) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **RT-1-X/RT-2-X 机器人模型的 PyTorch 复现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/RT-X 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 245 --> 247
     line [246, 246]
 ```
 
-2026-10-18 246 → 2026-11-02 246（+0）
+2026-10-18 246 → 2026-11-17 246（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # UMCU-Digital-Health/discharge-documentation-generator
 
-⭐ 28 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/UMCU-Digital-Health/discharge-documentation-generator) · [官网](https://research.umcutrecht.nl/ai-applications-in-use/) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/UMCU-Digital-Health/discharge-documentation-generator) · [官网](https://research.umcutrecht.nl/ai-applications-in-use/) · 组织维护
 
 **用 LLM 生成临床出院信草稿的医院工具**
 
@@ -43,13 +43,13 @@ UMC Utrecht 数字健康团队开发的工具：读取患者电子病历中的�
 
 ```mermaid
 xychart-beta
-    title "UMCU-Digital-Health/discharge-documentation-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "UMCU-Digital-Health/discharge-documentation-generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

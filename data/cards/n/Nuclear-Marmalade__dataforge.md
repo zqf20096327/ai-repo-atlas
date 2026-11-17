@@ -1,6 +1,6 @@
 # Nuclear-Marmalade/dataforge
 
-⭐ 58 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Nuclear-Marmalade/dataforge) · [官网](https://nuclearmarmalade.com) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Nuclear-Marmalade/dataforge) · [官网](https://nuclearmarmalade.com) · 个人维护
 
 **开源企业数据富化引擎：用免费数据源和本地 AI 补全企业信息**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nuclear-Marmalade/dataforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "Nuclear-Marmalade/dataforge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

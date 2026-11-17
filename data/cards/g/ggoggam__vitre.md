@@ -1,6 +1,6 @@
 # ggoggam/vitre
 
-⭐ 106 · Kotlin · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ggoggam/vitre) · [官网](https://javadoc.io/doc/dev.ggoggam.vitre/vitre-core/latest/index.html) · 个人维护
+⭐ 67 · Kotlin · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ggoggam/vitre) · [官网](https://javadoc.io/doc/dev.ggoggam.vitre/vitre-core/latest/index.html) · 个人维护
 
 **Kotlin 多平台 WebView 自动化库，可由 LLM agent 经 MCP/Koog 驱动**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggoggam/vitre 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 103 --> 134
-    line [105, 132, 108, 106, 106]
+    title "ggoggam/vitre 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 61 --> 138
+    line [105, 132, 108, 106, 108, 73, 67, 67]
 ```
 
-2026-10-18 105 → 2026-11-02 106（+1）
+2026-10-18 105 → 2026-11-17 67（-38）
 
 
 ---

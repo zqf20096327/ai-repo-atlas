@@ -1,6 +1,6 @@
 # testdriverai/testdriverai
 
-⭐ 463 · JavaScript · 推送 2026-09-21 · [GitHub](https://github.com/testdriverai/testdriverai) · [官网](https://testdriver.ai) · 组织维护
+⭐ 357 · JavaScript · 推送 2026-09-21 · [GitHub](https://github.com/testdriverai/testdriverai) · [官网](https://testdriver.ai) · 组织维护
 
 **面向 E2E 测试的 Computer-Use SDK，用视觉 LLM 驱动测试**
 
@@ -44,13 +44,13 @@ TestDriver SDK 是一个 vitest 的 JS 插件，用于生成端到端测试：�
 
 ```mermaid
 xychart-beta
-    title "testdriverai/testdriverai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "testdriverai/testdriverai 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
     y-axis "stars" 332 --> 490
-    line [345, 476, 477, 465, 464, 463, 463]
+    line [345, 476, 477, 465, 464, 463, 464, 365, 356, 357, 357]
 ```
 
-2026-10-18 345 → 2026-11-02 463（+118）
+2026-10-18 345 → 2026-11-17 357（+12）
 
 
 ---

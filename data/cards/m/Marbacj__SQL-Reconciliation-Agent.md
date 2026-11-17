@@ -1,6 +1,6 @@
 # Marbacj/SQL-Reconciliation-Agent
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Marbacj/SQL-Reconciliation-Agent) · 个人维护 · 中文 README
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Marbacj/SQL-Reconciliation-Agent) · 个人维护 · 中文 README
 
 **自然语言 SQL 对账平台：非技术人员对话完成跨表差异核对**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Marbacj/SQL-Reconciliation-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "Marbacj/SQL-Reconciliation-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [24, 23, 23]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 23（-1）
 
 
 ---

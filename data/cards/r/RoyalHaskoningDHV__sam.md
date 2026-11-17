@@ -1,6 +1,6 @@
 # RoyalHaskoningDHV/sam
 
-⭐ 28 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/RoyalHaskoningDHV/sam) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/RoyalHaskoningDHV/sam) · 组织维护
 
 **面向资产管理的 Python 时序分析与异常检测、预测库**
 
@@ -45,12 +45,12 @@ SAM（Smart Asset Management）是由 Royal HaskoningDHV 维护的 Python 包，
 ```mermaid
 xychart-beta
     title "RoyalHaskoningDHV/sam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jolie-z/Auto-JobHunter
 
-⭐ 89 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/jolie-z/Auto-JobHunter) · 个人维护 · 中文 README
+⭐ 91 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/jolie-z/Auto-JobHunter) · 个人维护 · 中文 README
 
 **多平台（BOSS/51job/猎聘）全自动求职系统：抓取+LLM 评估+自动投递**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jolie-z/Auto-JobHunter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "jolie-z/Auto-JobHunter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 88 --> 92
+    line [89, 90, 91, 91]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 91（+2）
 
 
 ---

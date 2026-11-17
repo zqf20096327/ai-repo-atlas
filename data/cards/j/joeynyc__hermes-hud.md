@@ -1,6 +1,6 @@
 # joeynyc/hermes-hud
 
-⭐ 935 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/joeynyc/hermes-hud) · 个人维护
+⭐ 936 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/joeynyc/hermes-hud) · 个人维护
 
 **监控 Hermes AI agent 自身状态的终端仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joeynyc/hermes-hud 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 933 --> 937
-    line [934, 935, 936, 935, 935]
+    title "joeynyc/hermes-hud 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 932 --> 937
+    line [934, 935, 936, 935, 933, 934, 935, 936, 936]
 ```
 
-2026-10-18 934 → 2026-11-02 935（+1）
+2026-10-18 934 → 2026-11-17 936（+2）
 
 
 ---

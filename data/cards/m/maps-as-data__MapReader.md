@@ -1,6 +1,6 @@
 # maps-as-data/MapReader
 
-⭐ 152 · Python · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/maps-as-data/MapReader) · [官网](https://mapreader.readthedocs.io/en/latest/) · 组织维护
+⭐ 153 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/maps-as-data/MapReader) · [官网](https://mapreader.readthedocs.io/en/latest/) · 组织维护
 
 **分析地图图像的开源 Python 计算机视觉库**
 
@@ -44,13 +44,13 @@ MapReader 是用于大规模探索和分析地图图像的开源 Python 库，�
 
 ```mermaid
 xychart-beta
-    title "maps-as-data/MapReader 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 148 --> 153
-    line [149, 150, 151, 152, 152]
+    title "maps-as-data/MapReader 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 148 --> 154
+    line [149, 150, 151, 152, 151, 153, 153]
 ```
 
-2026-10-18 149 → 2026-11-02 152（+3）
+2026-10-18 149 → 2026-11-17 153（+4）
 
 
 ---

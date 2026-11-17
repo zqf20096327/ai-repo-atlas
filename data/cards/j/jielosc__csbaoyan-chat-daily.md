@@ -1,6 +1,6 @@
 # jielosc/csbaoyan-chat-daily
 
-⭐ 80 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/jielosc/csbaoyan-chat-daily) · [官网](https://csbaoyan.icelon.top) · 个人维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/jielosc/csbaoyan-chat-daily) · [官网](https://csbaoyan.icelon.top) · 个人维护 · 中文 README
 
 **CS 保研群聊 AI 日报生成工具：ChatLab 记录转结构化 Markdown 日报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jielosc/csbaoyan-chat-daily 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 77 --> 81
-    line [78, 80, 80]
+    title "jielosc/csbaoyan-chat-daily 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 77 --> 84
+    line [78, 80, 78, 82, 83, 83]
 ```
 
-2026-10-18 78 → 2026-11-02 80（+2）
+2026-10-18 78 → 2026-11-17 83（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # simonasrazm/simon-factory-lights-out
 
-⭐ 24 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/simonasrazm/simon-factory-lights-out) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/simonasrazm/simon-factory-lights-out) · 个人维护
 
 **用 AI agent 流水线自动构建软件的门控协议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonasrazm/simon-factory-lights-out 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [25, 24, 24]
+    title "simonasrazm/simon-factory-lights-out 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [25, 24, 23, 23]
 ```
 
-2026-10-18 25 → 2026-11-02 24（-1）
+2026-10-18 25 → 2026-11-17 23（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # labring/sealos-skills
 
-⭐ 83 · Python · 推送 2026-09-28 · [GitHub](https://github.com/labring/sealos-skills) · [官网](https://sealos.io/sealos-skills) · 组织维护 · 中文 README
+⭐ 84 · Python · 推送 2026-09-28 · [GitHub](https://github.com/labring/sealos-skills) · [官网](https://sealos.io/sealos-skills) · 组织维护 · 中文 README
 
 **让 AI agent 一句话把项目部署到 Sealos 云的技能插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "labring/sealos-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    title "labring/sealos-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 84（+2）
 
 
 ---

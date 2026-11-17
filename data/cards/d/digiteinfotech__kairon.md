@@ -1,6 +1,6 @@
 # digiteinfotech/kairon
 
-⭐ 283 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/digiteinfotech/kairon) · [官网](https://kairon.com) · 组织维护
+⭐ 284 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/digiteinfotech/kairon) · [官网](https://kairon.com) · 组织维护
 
 **基于 Rasa 的对话助手低代码构建与全生命周期管理平台**
 
@@ -45,13 +45,13 @@ Kairon 是构建在 Rasa 开源框架之上的对话式数字助手平台，面�
 
 ```mermaid
 xychart-beta
-    title "digiteinfotech/kairon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 281 --> 284
-    line [282, 283, 283]
+    title "digiteinfotech/kairon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 281 --> 285
+    line [282, 283, 282, 284, 284]
 ```
 
-2026-10-18 282 → 2026-11-02 283（+1）
+2026-10-18 282 → 2026-11-17 284（+2）
 
 
 ---

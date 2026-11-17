@@ -1,6 +1,6 @@
 # axioma-ai-labs/nevron
 
-⭐ 46 · Python · NOASSERTION · 推送 2026-02-18 · [GitHub](https://github.com/axioma-ai-labs/nevron) · [官网](https://axioma-ai-labs.github.io/nevron/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **轻量级自主 AI Agent 框架：通过 Dashboard 构建/运行智能体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "axioma-ai-labs/nevron 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-12 46（+0）
 
 
 ---

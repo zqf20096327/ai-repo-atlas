@@ -1,6 +1,6 @@
 # NetX-lab/NetOpsBench
 
-⭐ 36 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/NetX-lab/NetOpsBench) · [官网](https://netx-lab.github.io/NetOpsBench/) · 组织维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/NetX-lab/NetOpsBench) · [官网](https://netx-lab.github.io/NetOpsBench/) · 组织维护 · 中文 README
 
 **开放智能体网络故障排查基准测试平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NetX-lab/NetOpsBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 33 --> 37
     line [34, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 36（+2）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

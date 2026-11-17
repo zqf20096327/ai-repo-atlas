@@ -1,6 +1,6 @@
 # triadecom/valheim-bjorn
 
-⭐ 12 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/triadecom/valheim-bjorn) · 个人维护
+⭐ 7 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/triadecom/valheim-bjorn) · 个人维护
 
 **Valheim 的 AI 维京伙伴 Mod：Claude 驱动，可对话、作战、采集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "triadecom/valheim-bjorn 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "triadecom/valheim-bjorn 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 6 --> 13
+    line [12, 7, 7]
 ```
 
-2026-10-19 12 → 2026-11-02 12（+0）
+2026-10-19 12 → 2026-11-17 7（-5）
 
 
 ---

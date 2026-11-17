@@ -1,6 +1,6 @@
 # itwanger/PaiCLI-Python
 
-⭐ 109 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/itwanger/PaiCLI-Python) · 个人维护 · 中文 README
+⭐ 115 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/itwanger/PaiCLI-Python) · 个人维护 · 中文 README
 
 **终端 AI Agent CLI：面向真实项目开发的读写/执行/检索/记忆工具链**
 
@@ -44,13 +44,13 @@ Python 实现的终端 AI Agent CLI，面向真实项目开发场景：内置文
 
 ```mermaid
 xychart-beta
-    title "itwanger/PaiCLI-Python 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 105 --> 110
-    line [107, 106, 108, 109, 109]
+    title "itwanger/PaiCLI-Python 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 105 --> 116
+    line [107, 106, 108, 109, 106, 113, 114, 115, 115]
 ```
 
-2026-10-18 107 → 2026-11-02 109（+2）
+2026-10-18 107 → 2026-11-17 115（+8）
 
 
 ---

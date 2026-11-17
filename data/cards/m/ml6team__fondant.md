@@ -1,6 +1,6 @@
 # ml6team/fondant
 
-⭐ 359 · Python · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/ml6team/fondant) · [官网](https://fondant.ai/en/stable/) · 组织维护
+⭐ 361 · Python · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/ml6team/fondant) · [官网](https://fondant.ai/en/stable/) · 组织维护
 
 **构建与共享可复用数据处理流水线的 Python 数据框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ml6team/fondant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 357 --> 360
-    line [358, 359, 359]
+    title "ml6team/fondant 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 357 --> 362
+    line [358, 359, 358, 359, 360, 361, 361]
 ```
 
-2026-10-18 358 → 2026-11-02 359（+1）
+2026-10-18 358 → 2026-11-17 361（+3）
 
 
 ---

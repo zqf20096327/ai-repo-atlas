@@ -1,6 +1,6 @@
 # huangyiminghappy/ai-eval-platform
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/huangyiminghappy/ai-eval-platform) · 个人维护 · 中文 README
+⭐ 22 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/huangyiminghappy/ai-eval-platform) · 个人维护 · 中文 README
 
 **自托管 AI 应用评测平台：评测 RAG/Agent/多轮对话与接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huangyiminghappy/ai-eval-platform 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 14, 15, 16, 16]
+    title "huangyiminghappy/ai-eval-platform 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 23
+    line [12, 14, 15, 16, 15, 19, 20, 22, 22]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 22（+10）
 
 
 ---

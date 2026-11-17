@@ -1,6 +1,6 @@
 # princechouhan19/sheryians-cohort-2.0
 
-⭐ 27 · JavaScript · 推送 2026-03-12 · [GitHub](https://github.com/princechouhan19/sheryians-cohort-2.0) · 个人维护
+⭐ 29 · JavaScript · 推送 2026-03-12 · [GitHub](https://github.com/princechouhan19/sheryians-cohort-2.0) · 个人维护
 
 **个人编程训练营学习记录：全栈、DSA、生成式 AI 笔记与项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "princechouhan19/sheryians-cohort-2.0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "princechouhan19/sheryians-cohort-2.0 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

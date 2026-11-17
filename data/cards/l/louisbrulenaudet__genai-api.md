@@ -1,6 +1,6 @@
 # louisbrulenaudet/genai-api
 
-⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-04-05 · [GitHub](https://github.com/louisbrulenaudet/genai-api) · [官网](https://producthunt.com/products/genai-api-for-apple-shortcuts) · 个人维护
+⭐ 113 · TypeScript · Apache-2.0 · 推送 2026-04-05 · [GitHub](https://github.com/louisbrulenaudet/genai-api) · [官网](https://producthunt.com/products/genai-api-for-apple-shortcuts) · 个人维护
 
 **部署到 Cloudflare Workers 的 Gemini API 网关，供 Apple 快捷指令等调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "louisbrulenaudet/genai-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 110 --> 112
-    line [111, 111]
+    title "louisbrulenaudet/genai-api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 113, 113]
 ```
 
-2026-10-18 111 → 2026-11-02 111（+0）
+2026-10-18 111 → 2026-11-17 113（+2）
 
 
 ---

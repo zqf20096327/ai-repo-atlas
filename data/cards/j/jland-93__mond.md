@@ -1,6 +1,6 @@
 # jland-93/mond
 
-⭐ 16 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/jland-93/mond) · [官网](https://github.com/jland-93/devsecops-platform) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/jland-93/mond) · [官网](https://github.com/jland-93/devsecops-platform) · 个人维护
 
 **面向企业的自服务 DevSecOps 平台：AI 分诊安全发现**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jland-93/mond 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

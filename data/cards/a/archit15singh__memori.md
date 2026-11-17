@@ -1,6 +1,6 @@
 # archit15singh/memori
 
-⭐ 25 · Rust · MIT · 推送 2026-09-19 · [GitHub](https://github.com/archit15singh/memori) · [官网](https://archit15singh.github.io/posts/2026-02-28-designing-cli-tools-for-ai-agents/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI 编程 Agent 的持久记忆层：单文件 SQLite 混合检索**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "archit15singh/memori 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-11 25（+0）
 
 
 ---

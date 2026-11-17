@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/AutoCodeBenchmark
 
-⭐ 437 · Python · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark) · 组织维护 · 中文 README
+⭐ 439 · Python · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark) · 组织维护 · 中文 README
 
 **多语言代码生成基准与评测数据集生成管线，含代码沙箱服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/AutoCodeBenchmark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 435 --> 438
-    line [437, 436, 437, 437]
+    title "Tencent-Hunyuan/AutoCodeBenchmark 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 435 --> 440
+    line [437, 436, 437, 436, 437, 438, 439, 439]
 ```
 
-2026-10-18 437 → 2026-11-02 437（+0）
+2026-10-18 437 → 2026-11-17 439（+2）
 
 
 ---

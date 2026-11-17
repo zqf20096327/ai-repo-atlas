@@ -1,6 +1,6 @@
 # thom-heinrich/chonkify
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-03-26 · [GitHub](https://github.com/thom-heinrich/chonkify) · 个人维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-03-26 · [GitHub](https://github.com/thom-heinrich/chonkify) · 个人维护
 
 **面向 RAG 与 agent 管线的抽取式文档压缩工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thom-heinrich/chonkify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "thom-heinrich/chonkify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

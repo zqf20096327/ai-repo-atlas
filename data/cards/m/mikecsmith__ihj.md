@@ -1,6 +1,6 @@
 # mikecsmith/ihj
 
-⭐ 60 · Go · 推送 2026-06-22 · [GitHub](https://github.com/mikecsmith/ihj) · 个人维护
+⭐ 59 · Go · 推送 2026-06-22 · [GitHub](https://github.com/mikecsmith/ihj) · 个人维护
 
 **fzf 风格的终端 issue 跟踪器，含 LLM 辅助待办精炼**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikecsmith/ihj 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "mikecsmith/ihj 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [60, 59, 59]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 59（-1）
 
 
 ---

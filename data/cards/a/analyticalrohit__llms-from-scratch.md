@@ -1,6 +1,6 @@
 # analyticalrohit/llms-from-scratch
 
-⭐ 386 · Jupyter Notebook · MIT · 推送 2026-06-08 · [GitHub](https://github.com/analyticalrohit/llms-from-scratch) · [官网](https://awesomeneuron.substack.com) · 个人维护
+⭐ 387 · Jupyter Notebook · MIT · 推送 2026-06-08 · [GitHub](https://github.com/analyticalrohit/llms-from-scratch) · [官网](https://awesomeneuron.substack.com) · 个人维护
 
 **用 PyTorch 从零分步构建类 ChatGPT LLM 的教学仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "analyticalrohit/llms-from-scratch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 383 --> 387
-    line [384, 385, 384, 386, 386]
+    title "analyticalrohit/llms-from-scratch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 383 --> 388
+    line [384, 385, 384, 386, 385, 386, 387, 387]
 ```
 
-2026-10-18 384 → 2026-11-02 386（+2）
+2026-10-18 384 → 2026-11-17 387（+3）
 
 
 ---

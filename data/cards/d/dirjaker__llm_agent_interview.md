@@ -1,6 +1,6 @@
 # dirjaker/llm_agent_interview
 
-⭐ 22 · MIT · 推送 2026-06-29 · [GitHub](https://github.com/dirjaker/llm_agent_interview) · 个人维护 · 中文 README
+⭐ 25 · MIT · 推送 2026-06-29 · [GitHub](https://github.com/dirjaker/llm_agent_interview) · 个人维护 · 中文 README
 
 **LLM 应用与 Agent 开发面试题学习知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dirjaker/llm_agent_interview 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22]
+    title "dirjaker/llm_agent_interview 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 26
+    line [19, 20, 21, 22, 21, 24, 25, 25]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 25（+6）
 
 
 ---

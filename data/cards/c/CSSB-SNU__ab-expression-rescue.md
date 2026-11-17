@@ -1,6 +1,6 @@
 # CSSB-SNU/ab-expression-rescue
 
-⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/CSSB-SNU/ab-expression-rescue) · 组织维护
+⭐ 17 · Jupyter Notebook · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/CSSB-SNU/ab-expression-rescue) · 组织维护
 
 **提出 CDR 单点突变以挽救抗体表达且不破坏抗原结合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CSSB-SNU/ab-expression-rescue 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "CSSB-SNU/ab-expression-rescue 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

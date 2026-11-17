@@ -1,6 +1,6 @@
 # davis7dotsh/river
 
-⭐ 228 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/davis7dotsh/river) · [官网](https://useriver.dev) · 个人维护
+⭐ 227 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/davis7dotsh/river) · [官网](https://useriver.dev) · 个人维护
 
 **为全栈 TypeScript 应用提供类型安全、可恢复的 AI agent 流式传输库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "davis7dotsh/river 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 227 --> 229
-    line [228, 228]
+    title "davis7dotsh/river 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 226 --> 229
+    line [228, 227, 227]
 ```
 
-2026-10-18 228 → 2026-11-02 228（+0）
+2026-10-18 228 → 2026-11-17 227（-1）
 
 
 ---

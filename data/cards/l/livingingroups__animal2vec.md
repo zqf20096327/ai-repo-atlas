@@ -1,6 +1,6 @@
 # livingingroups/animal2vec
 
-⭐ 34 · Python · MIT · 推送 2025-12-15 · [GitHub](https://github.com/livingingroups/animal2vec) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/livingingroups/animal2vec) · 组织维护
 
 **面向稀有动物发声事件的自监督 transformer 模型与数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "livingingroups/animal2vec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

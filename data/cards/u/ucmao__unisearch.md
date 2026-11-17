@@ -1,6 +1,6 @@
 # ucmao/unisearch
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/ucmao/unisearch) · [官网](https://unisearch.ucmao.cn/) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/ucmao/unisearch) · [官网](https://unisearch.ucmao.cn/) · 个人维护 · 中文 README
 
 **面向创作者与分析师的 AI 多平台采集与深度研报桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ucmao/unisearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ucmao/unisearch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

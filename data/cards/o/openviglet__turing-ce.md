@@ -1,6 +1,6 @@
 # openviglet/turing-ce
 
-⭐ 22 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openviglet/turing-ce) · [官网](https://turing.viglet.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管企业搜索与生成式 AI 平台，含 RAG 对话与 AI Agent**
 
@@ -11,7 +11,7 @@ Apache 2.0 许可的自托管企业搜索与生成式 AI 平台：提供分面�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Apache 2.0 许可的自托管企业搜索与生成式 AI 平台：提供分面�
 ```mermaid
 xychart-beta
     title "openviglet/turing-ce 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-07"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 22（-1）
+2026-10-18 23 → 2026-11-07 22（-1）
 
 
 ---

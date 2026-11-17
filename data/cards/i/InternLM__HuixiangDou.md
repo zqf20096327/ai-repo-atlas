@@ -1,6 +1,6 @@
 # InternLM/HuixiangDou
 
-⭐ 2,499 · Python · BSD-3-Clause · 推送 2025-11-24 · [GitHub](https://github.com/InternLM/HuixiangDou) · [官网](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web) · 组织维护 · 中文 README
+⭐ 2,500 · Python · BSD-3-Clause · 推送 2025-11-24 · [GitHub](https://github.com/InternLM/HuixiangDou) · [官网](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web) · 组织维护 · 中文 README
 
 **面向群聊场景的 LLM 专业知识问答助手（RAG 管线）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/HuixiangDou 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "InternLM/HuixiangDou 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
     y-axis "stars" 2498 --> 2503
-    line [2502, 2501, 2500, 2499, 2499]
+    line [2502, 2501, 2500, 2499, 2502, 2500, 2501, 2500, 2500]
 ```
 
-2026-10-18 2,502 → 2026-11-02 2,499（-3）
+2026-10-18 2,502 → 2026-11-17 2,500（-2）
 
 
 ---

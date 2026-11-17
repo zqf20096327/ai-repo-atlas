@@ -1,6 +1,6 @@
 # gammahazard/locate-anything
 
-⭐ 169 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/gammahazard/locate-anything) · 个人维护
+⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/gammahazard/locate-anything) · 个人维护
 
 **NVIDIA LocateAnything-3B 的网页 UI：自然语言查图并返回检测框**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gammahazard/locate-anything 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 163 --> 170
-    line [164, 166, 167, 168, 169]
+    title "gammahazard/locate-anything 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 163 --> 174
+    line [164, 166, 167, 168, 169, 167, 170, 171, 173, 173]
 ```
 
-2026-10-18 164 → 2026-11-02 169（+5）
+2026-10-18 164 → 2026-11-17 173（+9）
 
 
 ---

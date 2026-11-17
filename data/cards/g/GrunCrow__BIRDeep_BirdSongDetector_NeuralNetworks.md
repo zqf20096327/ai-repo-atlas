@@ -1,6 +1,6 @@
 # GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks
 
-⭐ 14 · Jupyter Notebook · MIT · 推送 2026-06-22 · [GitHub](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks) · 组织维护
+⭐ 15 · Jupyter Notebook · MIT · 推送 2026-06-22 · [GitHub](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks) · 组织维护
 
 **多尼亚纳公园鸟鸣检测与物种分类深度学习研究代码库**
 
@@ -45,13 +45,13 @@ BIRDeep 项目的研究代码仓库：提供基于 YOLOv8 的鸟鸣检测器（�
 
 ```mermaid
 xychart-beta
-    title "GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

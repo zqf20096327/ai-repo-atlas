@@ -1,6 +1,6 @@
 # aadya940/autoresume
 
-⭐ 246 · JavaScript · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/aadya940/autoresume) · 个人维护
+⭐ 245 · JavaScript · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/aadya940/autoresume) · 个人维护
 
 **AI 简历撰写与求职匹配的开源 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aadya940/autoresume 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 245 --> 248
-    line [247, 246, 246]
+    title "aadya940/autoresume 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 244 --> 248
+    line [247, 246, 245, 245]
 ```
 
-2026-10-18 247 → 2026-11-02 246（-1）
+2026-10-18 247 → 2026-11-17 245（-2）
 
 
 ---

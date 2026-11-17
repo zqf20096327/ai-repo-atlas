@@ -1,6 +1,6 @@
 # MohamedAbdallah-14/prompt-to-asset
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MohamedAbdallah-14/prompt-to-asset) · [官网](https://www.npmjs.com/package/prompt-to-asset) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MohamedAbdallah-14/prompt-to-asset) · [官网](https://www.npmjs.com/package/prompt-to-asset) · 个人维护
 
 **给开发者的免费图像资产生成 MCP server + CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MohamedAbdallah-14/prompt-to-asset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "MohamedAbdallah-14/prompt-to-asset 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # chiennv2000/orthrus
 
-⭐ 483 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/chiennv2000/orthrus) · 个人维护
+⭐ 482 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/chiennv2000/orthrus) · 个人维护
 
 **无损加速 LLM 推理的双视角扩散解码框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chiennv2000/orthrus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "chiennv2000/orthrus 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 481 --> 484
-    line [482, 483, 483]
+    line [482, 483, 482, 483, 482, 482]
 ```
 
-2026-10-18 482 → 2026-11-02 483（+1）
+2026-10-18 482 → 2026-11-17 482（+0）
 
 
 ---

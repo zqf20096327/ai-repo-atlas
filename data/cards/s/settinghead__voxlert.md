@@ -1,6 +1,6 @@
 # settinghead/voxlert
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/settinghead/voxlert) · [官网](https://www.npmjs.com/package/@settinghead/voiceforge) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/settinghead/voxlert) · [官网](https://www.npmjs.com/package/@settinghead/voiceforge) · 个人维护
 
 **为多路 AI 编码 agent 会话提供游戏角色语音通知的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "settinghead/voxlert 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "settinghead/voxlert 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

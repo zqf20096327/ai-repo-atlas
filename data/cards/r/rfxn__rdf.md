@@ -1,6 +1,6 @@
 # rfxn/rdf
 
-⭐ 20 · Shell · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rfxn/rdf) · [官网](https://rfxn.github.io/rdf/) · 组织维护
+⭐ 20 · Shell · GPL-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/rfxn/rdf) · [官网](https://rfxn.github.io/rdf/) · 组织维护
 
 **给 AI 编程 agent 的项目规约治理层：约定、质量门与领域专家注入**
 
@@ -45,12 +45,12 @@ RDF 是面向 AI 编程 agent（Claude Code、Codex、Antigravity CLI、Gemini C
 ```mermaid
 xychart-beta
     title "rfxn/rdf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

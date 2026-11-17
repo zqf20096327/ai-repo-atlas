@@ -1,6 +1,6 @@
 # yuchoyao/Deep_Learning_Foundation_and_Concepts-Springer
 
-⭐ 122 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yuchoyao/Deep_Learning_Foundation_and_Concepts-Springer) · [官网](https://www.bishopbook.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **《深度学习：基础与概念》教材的开源补充资源与习题解答**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

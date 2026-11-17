@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Embodied-RoboFusion
 
-⭐ 35 · C · 推送 2026-05-15 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) · 组织维护 · 中文 README
+⭐ 36 · C · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) · 组织维护 · 中文 README
 
 **面向机器人控制系统的 UDP 通信协议规范文档**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy-Embodied-RoboFusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "Tencent-Hunyuan/Hy-Embodied-RoboFusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 36（+1）
 
 
 ---

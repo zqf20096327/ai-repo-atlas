@@ -1,6 +1,6 @@
 # jedarden/duck-e
 
-⭐ 55 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jedarden/duck-e) · [官网](https://jedarden.com/projects/ducke/) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/jedarden/duck-e) · [官网](https://jedarden.com/projects/ducke/) · 个人维护
 
 **面向橡皮鸭调试的浏览器语音助手，接入 OpenAI Realtime API**
 
@@ -45,13 +45,13 @@ DUCK-E 是一个基于 FastAPI 的浏览器语音助手，用于橡皮鸭式调�
 
 ```mermaid
 xychart-beta
-    title "jedarden/duck-e 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    title "jedarden/duck-e 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 53 --> 58
+    line [54, 55, 54, 56, 57, 57]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 57（+3）
 
 
 ---

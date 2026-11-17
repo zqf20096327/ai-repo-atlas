@@ -1,6 +1,6 @@
 # Amir-Ivry/MAPSS-measures
 
-⭐ 14 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Amir-Ivry/MAPSS-measures) · [官网](https://arxiv.org/abs/2509.09212v3) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Amir-Ivry/MAPSS-measures) · [官网](https://arxiv.org/abs/2509.09212v3) · 个人维护
 
 **源分离系统感知质量评测指标包（ICLR 2026）**
 
@@ -46,13 +46,13 @@ MAPSS 是 ICLR 2026 论文的配套 Python 指标包，用于评测音频源分�
 
 ```mermaid
 xychart-beta
-    title "Amir-Ivry/MAPSS-measures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "Amir-Ivry/MAPSS-measures 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

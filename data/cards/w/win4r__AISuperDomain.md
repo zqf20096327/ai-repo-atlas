@@ -1,6 +1,6 @@
 # win4r/AISuperDomain
 
-⭐ 1,997 · C# · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/win4r/AISuperDomain) · [官网](https://www.youtube.com/@AIsuperdomain) · 个人维护 · 中文 README
+⭐ 1,997 · C# · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/win4r/AISuperDomain) · [官网](https://space.bilibili.com/3493277319825652) · 个人维护 · 中文 README
 
 **一次提问同时获得 10+ 家 AI 回答的桌面客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "win4r/AISuperDomain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1996 --> 2000
-    line [1999, 1998, 1997, 1997]
+    title "win4r/AISuperDomain 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 1994 --> 2000
+    line [1999, 1998, 1997, 1998, 1995, 1996, 1997, 1997]
 ```
 
-2026-10-18 1,999 → 2026-11-02 1,997（-2）
+2026-10-18 1,999 → 2026-11-17 1,997（-2）
 
 
 ---

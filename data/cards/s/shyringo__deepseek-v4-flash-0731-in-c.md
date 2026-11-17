@@ -1,6 +1,6 @@
 # shyringo/deepseek-v4-flash-0731-in-c
 
-⭐ 28 · C · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/shyringo/deepseek-v4-flash-0731-in-c) · [官网](https://shyringo.github.io/shyringo/) · 个人维护 · 中文 README
+⭐ 29 · C · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/shyringo/deepseek-v4-flash-0731-in-c) · [官网](https://shyringo.github.io/shyringo/) · 个人维护 · 中文 README
 
 **纯 C99 实现：在笔记本单 CPU 上本地运行 DeepSeek-V4-Flash-0731**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shyringo/deepseek-v4-flash-0731-in-c 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "shyringo/deepseek-v4-flash-0731-in-c 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

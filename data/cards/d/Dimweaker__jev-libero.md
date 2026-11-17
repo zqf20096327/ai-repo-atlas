@@ -1,6 +1,6 @@
 # Dimweaker/jev-libero
 
-⭐ 88 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Dimweaker/jev-libero) · [官网](https://dimweaker.github.io/jev-libero/) · 个人维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Dimweaker/jev-libero) · [官网](https://dimweaker.github.io/jev-libero/) · 个人维护 · 中文 README
 
 **用 Jev LLM 决策控制 LIBERO 机器人操作任务的工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dimweaker/jev-libero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "Dimweaker/jev-libero 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 82 --> 89
-    line [83, 84, 87, 88]
+    line [83, 84, 87, 88, 83, 87, 87]
 ```
 
-2026-10-18 83 → 2026-11-02 88（+5）
+2026-10-18 83 → 2026-11-17 87（+4）
 
 
 ---

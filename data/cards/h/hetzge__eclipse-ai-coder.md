@@ -1,6 +1,6 @@
 # hetzge/eclipse-ai-coder
 
-⭐ 27 · Java · MIT · 推送 2026-09-25 · [GitHub](https://github.com/hetzge/eclipse-ai-coder) · [官网](https://hetzge.github.io/aicoder) · 个人维护
+⭐ 27 · Java · MIT · 推送 2026-11-06 · [GitHub](https://github.com/hetzge/eclipse-ai-coder) · [官网](https://hetzge.github.io/aicoder) · 个人维护
 
 **Eclipse IDE 的 AI 行内代码补全扩展**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "hetzge/eclipse-ai-coder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "hetzge/eclipse-ai-coder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    line [26, 27, 26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

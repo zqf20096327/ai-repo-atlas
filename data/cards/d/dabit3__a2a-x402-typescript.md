@@ -1,6 +1,6 @@
 # dabit3/a2a-x402-typescript
 
-⭐ 104 · TypeScript · 推送 2026-07-07 · [GitHub](https://github.com/dabit3/a2a-x402-typescript) · 个人维护
+⭐ 105 · TypeScript · 推送 2026-07-07 · [GitHub](https://github.com/dabit3/a2a-x402-typescript) · 个人维护
 
 **给 AI agent 开发者：TypeScript 版 x402 加密支付协议库**
 
@@ -44,13 +44,13 @@ Python x402 支付协议扩展的 TypeScript 完整实现，用于 A2A（Agent-t
 
 ```mermaid
 xychart-beta
-    title "dabit3/a2a-x402-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    title "dabit3/a2a-x402-typescript 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 103 --> 106
+    line [104, 105, 105]
 ```
 
-2026-10-18 104 → 2026-11-02 104（+0）
+2026-10-18 104 → 2026-11-17 105（+1）
 
 
 ---

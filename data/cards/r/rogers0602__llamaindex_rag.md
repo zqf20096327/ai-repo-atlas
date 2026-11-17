@@ -1,6 +1,6 @@
 # rogers0602/llamaindex_rag
 
-⭐ 19 · Python · 推送 2025-12-08 · [GitHub](https://github.com/rogers0602/llamaindex_rag) · 个人维护 · 中文 README
+⭐ 21 · Python · 推送 2025-12-08 · [GitHub](https://github.com/rogers0602/llamaindex_rag) · 个人维护 · 中文 README
 
 **企业私有化 RAG 知识库后端：离线部署、RBAC 与 LDAP 认证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rogers0602/llamaindex_rag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "rogers0602/llamaindex_rag 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

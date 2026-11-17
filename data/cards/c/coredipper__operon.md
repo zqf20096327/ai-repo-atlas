@@ -1,6 +1,6 @@
 # coredipper/operon
 
-⭐ 34 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/coredipper/operon) · [官网](https://pypi.org/project/operon-ai/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/coredipper/operon) · [官网](https://pypi.org/project/operon-ai/) · 个人维护
 
 **面向 AI agent 系统的生物学启发控制模式库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coredipper/operon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "coredipper/operon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

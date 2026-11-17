@@ -1,6 +1,6 @@
 # gabrielekarra/mcp-anything
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/gabrielekarra/mcp-anything) · 个人维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/gabrielekarra/mcp-anything) · 个人维护
 
 **把代码库/API 规格一句话生成为可用 MCP 服务器**
 
@@ -45,13 +45,13 @@ CLI 工具，通过自然语言 brief 或静态扫描代码库、OpenAPI/GraphQL
 
 ```mermaid
 xychart-beta
-    title "gabrielekarra/mcp-anything 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 51 --> 56
-    line [52, 53, 55, 55]
+    title "gabrielekarra/mcp-anything 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 51 --> 61
+    line [52, 53, 55, 53, 56, 57, 58, 59, 60, 60]
 ```
 
-2026-10-18 52 → 2026-11-02 55（+3）
+2026-10-18 52 → 2026-11-17 60（+8）
 
 
 ---

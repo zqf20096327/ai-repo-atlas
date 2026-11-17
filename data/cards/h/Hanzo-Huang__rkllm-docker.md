@@ -1,6 +1,6 @@
 # Hanzo-Huang/rkllm-docker
 
-⭐ 21 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Hanzo-Huang/rkllm-docker) · 个人维护
+⭐ 23 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Hanzo-Huang/rkllm-docker) · 个人维护
 
 **在 Rockchip NPU 上用 Docker 一条命令运行 RKLLM 模型的个人测试床**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hanzo-Huang/rkllm-docker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 17 --> 22
-    line [18, 20, 21, 21]
+    title "Hanzo-Huang/rkllm-docker 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 24
+    line [18, 20, 21, 20, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 23（+5）
 
 
 ---

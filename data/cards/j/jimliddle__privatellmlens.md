@@ -1,6 +1,6 @@
 # jimliddle/privatellmlens
 
-⭐ 32 · HTML · BSD-3-Clause · 推送 2026-10-15 · [GitHub](https://github.com/jimliddle/privatellmlens) · 个人维护
+⭐ 33 · HTML · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/jimliddle/privatellmlens) · 个人维护
 
 **零后端单文件浏览器界面：连接本地 Ollama/llama.cpp 聊天与文档问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jimliddle/privatellmlens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "jimliddle/privatellmlens 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

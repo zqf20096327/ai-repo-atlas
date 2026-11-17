@@ -1,6 +1,6 @@
 # pegainfer-project/pega-omni
 
-⭐ 50 · Rust · 推送 2026-09-30 · [GitHub](https://github.com/pegainfer-project/pega-omni) · 组织维护
+⭐ 51 · Rust · 推送 2026-11-14 · [GitHub](https://github.com/pegainfer-project/pega-omni) · 组织维护
 
 **Rust 编写的 OpenAI 兼容语音/图像推理服务，支持流式 TTS 与全双工语音**
 
@@ -45,13 +45,13 @@ pegainfer 项目的推理服务前端：以单一进程、单一引擎循环提�
 
 ```mermaid
 xychart-beta
-    title "pegainfer-project/pega-omni 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 45 --> 51
-    line [46, 47, 48, 49, 50, 50]
+    title "pegainfer-project/pega-omni 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 45 --> 52
+    line [46, 47, 48, 49, 50, 48, 51, 51]
 ```
 
-2026-10-18 46 → 2026-11-02 50（+4）
+2026-10-18 46 → 2026-11-17 51（+5）
 
 
 ---

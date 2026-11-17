@@ -1,6 +1,6 @@
 # hpnkv/a11
 
-⭐ 11 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/hpnkv/a11) · [官网](https://a11.to) · 组织维护
+⭐ 11 · C++ · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/hpnkv/a11) · [官网](https://a11.to) · 组织维护
 
 **面向 AI agent 与模型应用的流式动作运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hpnkv/a11 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

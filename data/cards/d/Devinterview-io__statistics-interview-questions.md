@@ -1,6 +1,6 @@
 # Devinterview-io/statistics-interview-questions
 
-⭐ 55 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/statistics-interview-questions) · 组织维护
+⭐ 56 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/statistics-interview-questions) · 组织维护
 
 **面向求职者的统计学面试题与解答合集（75 题）**
 
@@ -43,13 +43,13 @@ Devinterview-io 维护的统计学面试准备知识仓库，收录 75 道题目
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/statistics-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "Devinterview-io/statistics-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 54 --> 57
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

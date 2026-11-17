@@ -1,6 +1,6 @@
 # aicademyorg/AIcademy
 
-⭐ 308 · TypeScript · MIT · 推送 2026-02-18 · [GitHub](https://github.com/aicademyorg/AIcademy) · [官网](https://aicademyorg.netlify.app) · 组织维护
+⭐ 307 · TypeScript · MIT · 推送 2026-02-18 · [GitHub](https://github.com/aicademyorg/AIcademy) · [官网](https://aicademyorg.netlify.app) · 组织维护
 
 **提供免费 AI 教育的社区及配套网站项目**
 
@@ -40,13 +40,13 @@ AIcademy 是一个面向学习者的免费 AI 教育社区，主题涵盖机器�
 
 ```mermaid
 xychart-beta
-    title "aicademyorg/AIcademy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 307 --> 309
-    line [308, 308]
+    title "aicademyorg/AIcademy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 305 --> 309
+    line [308, 306, 307, 307]
 ```
 
-2026-10-18 308 → 2026-11-02 308（+0）
+2026-10-18 308 → 2026-11-17 307（-1）
 
 
 ---

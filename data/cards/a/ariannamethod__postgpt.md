@@ -1,6 +1,6 @@
 # ariannamethod/postgpt
 
-⭐ 25 · C · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/ariannamethod/postgpt) · [官网](http://x.com/@olegataeff) · 个人维护
+⭐ 26 · C · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/ariannamethod/postgpt) · [官网](http://x.com/@olegataeff) · 个人维护
 
 **无需训练的 BPE transformer：从共现统计构造"元权重"生成文本**
 
@@ -45,13 +45,13 @@ Python/C 双实现的约 140K 参数小型 transformer（2 层、4 头，含 Con
 
 ```mermaid
 xychart-beta
-    title "ariannamethod/postgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "ariannamethod/postgpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

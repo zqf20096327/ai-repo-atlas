@@ -1,6 +1,6 @@
 # Ifihan/blazerpc
 
-⭐ 33 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/Ifihan/blazerpc) · [官网](https://ifihan.github.io/blazerpc/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/Ifihan/blazerpc) · [官网](https://ifihan.github.io/blazerpc/) · 个人维护
 
 **Python 库：装饰器方式把 ML 模型发布为 gRPC 推理服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ifihan/blazerpc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "Ifihan/blazerpc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 1ove9/antenna-forge
 
-⭐ 1,036 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/1ove9/antenna-forge) · [官网](https://1ove9.github.io/antenna-forge/frontend/playground.html) · 个人维护 · 中文 README
+⭐ 1,037 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/1ove9/antenna-forge) · [官网](https://1ove9.github.io/antenna-forge/frontend/playground.html) · 个人维护 · 中文 README
 
 **AI 驱动的天线逆向设计平台：真电磁仿真在环的拓扑探索优化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "1ove9/antenna-forge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 1032 --> 1037
-    line [1033, 1035, 1036, 1036]
+    title "1ove9/antenna-forge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1032 --> 1038
+    line [1033, 1035, 1036, 1037, 1037]
 ```
 
-2026-10-18 1,033 → 2026-11-02 1,036（+3）
+2026-10-18 1,033 → 2026-11-17 1,037（+4）
 
 
 ---

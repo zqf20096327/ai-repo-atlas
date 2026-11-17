@@ -1,6 +1,6 @@
 # PokerBotAI/awesome-poker-ai
 
-⭐ 77 · 推送 2026-10-26 · [GitHub](https://github.com/PokerBotAI/awesome-poker-ai) · 组织维护
+⭐ 75 · 推送 2026-10-26 · [GitHub](https://github.com/PokerBotAI/awesome-poker-ai) · 组织维护
 
 **AI 扑克资源策展清单：论文、开源工具、求解器与评测**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "PokerBotAI/awesome-poker-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "PokerBotAI/awesome-poker-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 72 --> 78
-    line [74, 73, 75, 76, 77]
+    line [74, 73, 75, 76, 77, 73, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-02 77（+3）
+2026-10-18 74 → 2026-11-17 75（+1）
 
 
 ---

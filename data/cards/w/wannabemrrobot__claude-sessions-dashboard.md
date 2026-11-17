@@ -1,6 +1,6 @@
 # wannabemrrobot/claude-sessions-dashboard
 
-⭐ 13 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/wannabemrrobot/claude-sessions-dashboard) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/wannabemrrobot/claude-sessions-dashboard) · 个人维护
 
 **本地浏览/搜索/恢复 Claude Code 会话的仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wannabemrrobot/claude-sessions-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

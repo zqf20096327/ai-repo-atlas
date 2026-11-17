@@ -1,6 +1,6 @@
 # SeanEllyJames/deep-research-skill
 
-⭐ 187 · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/SeanEllyJames/deep-research-skill) · 个人维护 · 中文 README
+⭐ 186 · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/SeanEllyJames/deep-research-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 做带判断的深度调研的即插即用提示词 skill 文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeanEllyJames/deep-research-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 186 --> 197
-    line [196, 187, 187]
+    title "SeanEllyJames/deep-research-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 185 --> 197
+    line [196, 187, 186, 186]
 ```
 
-2026-10-18 196 → 2026-11-02 187（-9）
+2026-10-18 196 → 2026-11-17 186（-10）
 
 
 ---

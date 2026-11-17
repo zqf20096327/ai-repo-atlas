@@ -1,6 +1,6 @@
 # Sugers955/agent-mill
 
-⭐ 43 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Sugers955/agent-mill) · [官网](https://sugers955.github.io/agent-mill/features.html) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Sugers955/agent-mill) · [官网](https://sugers955.github.io/agent-mill/features.html) · 个人维护 · 中文 README
 
 **企业 AI Agent 平台：低代码搭建数字员工并交付团队使用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sugers955/agent-mill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "Sugers955/agent-mill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 42（-1）
 
 
 ---

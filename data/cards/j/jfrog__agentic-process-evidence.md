@@ -1,6 +1,6 @@
 # jfrog/agentic-process-evidence
 
-⭐ 12 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/jfrog/agentic-process-evidence) · 组织维护
+⭐ 15 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/jfrog/agentic-process-evidence) · 组织维护
 
 **将 AI agent 会话证据绑定到 SDLC 实体的治理标准**
 
@@ -45,13 +45,13 @@ JFrog 维护的提案性标准，定义如何将 agent 会话信息（会话日�
 
 ```mermaid
 xychart-beta
-    title "jfrog/agentic-process-evidence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    title "jfrog/agentic-process-evidence 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 16
+    line [10, 12, 10, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 15（+5）
 
 
 ---

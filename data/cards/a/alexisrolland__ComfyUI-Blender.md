@@ -1,6 +1,6 @@
 # alexisrolland/ComfyUI-Blender
 
-⭐ 214 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/alexisrolland/ComfyUI-Blender) · 个人维护
+⭐ 224 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/alexisrolland/ComfyUI-Blender) · 个人维护
 
 **Blender 插件+ComfyUI 自定义节点：在 Blender 内运行 ComfyUI 工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexisrolland/ComfyUI-Blender 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 210 --> 215
-    line [211, 212, 213, 214, 214]
+    title "alexisrolland/ComfyUI-Blender 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 210 --> 225
+    line [211, 212, 213, 214, 213, 220, 221, 222, 223, 224, 224]
 ```
 
-2026-10-18 211 → 2026-11-02 214（+3）
+2026-10-18 211 → 2026-11-17 224（+13）
 
 
 ---

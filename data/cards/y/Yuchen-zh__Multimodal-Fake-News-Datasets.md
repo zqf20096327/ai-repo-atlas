@@ -1,6 +1,6 @@
 # Yuchen-zh/Multimodal-Fake-News-Datasets
 
-⭐ 67 · Python · 推送 2026-09-03 · [GitHub](https://github.com/Yuchen-zh/Multimodal-Fake-News-Datasets) · 个人维护
+⭐ 70 · Python · 推送 2026-09-03 · [GitHub](https://github.com/Yuchen-zh/Multimodal-Fake-News-Datasets) · 个人维护
 
 **多模态假新闻数据集编目：33个数据集的结构化元数据与选型指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yuchen-zh/Multimodal-Fake-News-Datasets 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 65 --> 68
-    line [66, 67, 67]
+    title "Yuchen-zh/Multimodal-Fake-News-Datasets 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 65 --> 71
+    line [66, 67, 68, 69, 70, 70]
 ```
 
-2026-10-18 66 → 2026-11-02 67（+1）
+2026-10-18 66 → 2026-11-17 70（+4）
 
 
 ---

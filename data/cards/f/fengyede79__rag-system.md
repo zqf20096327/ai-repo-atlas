@@ -1,6 +1,6 @@
 # fengyede79/rag-system
 
-⭐ 33 · Python · 推送 2026-07-08 · [GitHub](https://github.com/fengyede79/rag-system) · 个人维护 · 中文 README
+⭐ 32 · Python · 推送 2026-07-08 · [GitHub](https://github.com/fengyede79/rag-system) · 个人维护 · 中文 README
 
 **中文食谱问答的端到端 RAG 系统工程实践**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fengyede79/rag-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    title "fengyede79/rag-system 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 35
+    line [34, 33, 34, 32, 32]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 32（-2）
 
 
 ---

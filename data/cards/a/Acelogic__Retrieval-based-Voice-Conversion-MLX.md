@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Acelogic/Retrieval-based-Voice-Conversion-MLX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "Acelogic/Retrieval-based-Voice-Conversion-MLX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-15", "2026-11-17"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    line [29, 30, 29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

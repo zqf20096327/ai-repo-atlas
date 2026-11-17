@@ -1,6 +1,6 @@
 # Trampoline-AI/predict-rlm
 
-⭐ 436 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Trampoline-AI/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **让 LLM 自主编排子模型与工具的递归语言模型运行时**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Trampoline-AI/predict-rlm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 435 --> 437
-    line [436, 436]
+    title "Trampoline-AI/predict-rlm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15"]
+    y-axis "stars" 435 --> 438
+    line [436, 437, 437]
 ```
 
-2026-10-18 436 → 2026-11-02 436（+0）
+2026-10-18 436 → 2026-11-15 437（+1）
 
 
 ---

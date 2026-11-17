@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-EdgeTTS
 
-⭐ 81 · Python · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/1038lab/ComfyUI-EdgeTTS) · 个人维护
+⭐ 82 · Python · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/1038lab/ComfyUI-EdgeTTS) · 个人维护
 
 **ComfyUI 的 TTS/STT 节点：文本转语音与语音转文字**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "1038lab/ComfyUI-EdgeTTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 78 --> 82
-    line [79, 81, 81]
+    title "1038lab/ComfyUI-EdgeTTS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 78 --> 83
+    line [79, 81, 82, 82]
 ```
 
-2026-10-18 79 → 2026-11-02 81（+2）
+2026-10-18 79 → 2026-11-17 82（+3）
 
 
 ---

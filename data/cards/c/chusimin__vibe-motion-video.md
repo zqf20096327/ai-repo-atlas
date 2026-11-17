@@ -1,6 +1,6 @@
 # chusimin/vibe-motion-video
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/chusimin/vibe-motion-video) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 Claude Code 的自动出片 skill：AI 写分镜，Remotion 渲染视频**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chusimin/vibe-motion-video 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "chusimin/vibe-motion-video 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    line [14, 15, 16, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-07 14（+0）
 
 
 ---

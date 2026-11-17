@@ -1,6 +1,6 @@
 # Praveenkottari/BD3-Dataset
 
-⭐ 39 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/Praveenkottari/BD3-Dataset) · 组织维护
+⭐ 40 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/Praveenkottari/BD3-Dataset) · 组织维护
 
 **建筑缺陷检测数据集：3,965 张标注 RGB 图像供计算机视觉评测**
 
@@ -44,13 +44,13 @@ BD3 是面向自动建筑巡检的公开图像数据集：原始子集含 3,965 
 
 ```mermaid
 xychart-beta
-    title "Praveenkottari/BD3-Dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "Praveenkottari/BD3-Dataset 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

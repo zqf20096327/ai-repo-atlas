@@ -1,6 +1,6 @@
 # Haimanot25/lograke
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Haimanot25/lograke) · [官网](https://www.npmjs.com/package/lograke) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Haimanot25/lograke) · [官网](https://www.npmjs.com/package/lograke) · 个人维护
 
 **自适应日志分析平台：解析、搜索、可视化日志并提供 AI 洞察**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haimanot25/lograke 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
+    title "Haimanot25/lograke 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 5 --> 16
-    line [6, 9, 12, 14, 15, 15]
+    line [6, 9, 12, 14, 15, 12, 14, 13, 13]
 ```
 
-2026-10-22 6 → 2026-11-02 15（+9）
+2026-10-22 6 → 2026-11-17 13（+7）
 
 
 ---

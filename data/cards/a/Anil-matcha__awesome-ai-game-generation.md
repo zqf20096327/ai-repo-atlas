@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-ai-game-generation
 
-⭐ 53 · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/Anil-matcha/awesome-ai-game-generation) · 个人维护
+⭐ 57 · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/Anil-matcha/awesome-ai-game-generation) · 个人维护
 
 **AI 游戏生成工具与研究策展清单（世界模型到资产生成）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/awesome-ai-game-generation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    title "Anil-matcha/awesome-ai-game-generation 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 50 --> 58
+    line [51, 52, 53, 52, 54, 57, 57]
 ```
 
-2026-10-18 51 → 2026-11-02 53（+2）
+2026-10-18 51 → 2026-11-17 57（+6）
 
 
 ---

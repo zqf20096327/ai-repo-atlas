@@ -1,6 +1,6 @@
 # yxhpy/comfy-prompt-studio
 
-⭐ 84 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/yxhpy/comfy-prompt-studio) · 个人维护 · 中文 README
+⭐ 85 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/yxhpy/comfy-prompt-studio) · 个人维护 · 中文 README
 
 **AI图像生成Web应用：LLM提示词增强+ComfyUI工作流+实时推送**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yxhpy/comfy-prompt-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
+    title "yxhpy/comfy-prompt-studio 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 82 --> 86
-    line [83, 85, 84, 84]
+    line [83, 85, 84, 85, 84, 85, 85]
 ```
 
-2026-10-18 83 → 2026-11-02 84（+1）
+2026-10-18 83 → 2026-11-17 85（+2）
 
 
 ---

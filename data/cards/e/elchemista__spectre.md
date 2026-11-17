@@ -1,6 +1,6 @@
 # elchemista/spectre
 
-⭐ 13 · Elixir · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/elchemista/spectre) · [官网](https://spectre.guide) · 个人维护
+⭐ 13 · Elixir · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/elchemista/spectre) · [官网](https://spectre.guide) · 个人维护
 
 **Elixir 的 OTP 原生 agent 构建运行时框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elchemista/spectre 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

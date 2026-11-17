@@ -1,6 +1,6 @@
 # pancsta/secai
 
-⭐ 91 · Go · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/pancsta/secai) · [官网](https://ai-gents.work) · 个人维护
+⭐ 92 · Go · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/pancsta/secai) · [官网](https://ai-gents.work) · 个人维护
 
 **Golang 本地优先 AI agent/工作流框架，含嵌入式开发工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pancsta/secai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    title "pancsta/secai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 89 --> 93
+    line [90, 91, 92, 92]
 ```
 
-2026-10-18 90 → 2026-11-02 91（+1）
+2026-10-18 90 → 2026-11-17 92（+2）
 
 
 ---

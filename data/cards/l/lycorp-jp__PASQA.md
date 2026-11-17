@@ -1,6 +1,6 @@
 # lycorp-jp/PASQA
 
-⭐ 25 · Python · CC0-1.0 · 推送 2026-09-18 · [GitHub](https://github.com/lycorp-jp/PASQA) · 组织维护
+⭐ 26 · Python · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/lycorp-jp/PASQA) · 组织维护
 
 **面向音高重音正确性的日语语音质量 MOS 预测模型**
 
@@ -44,13 +44,13 @@ LY Corporation 为论文发布（已被 INTERSPEECH 2026 接收）的 MOS 预测
 
 ```mermaid
 xychart-beta
-    title "lycorp-jp/PASQA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "lycorp-jp/PASQA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

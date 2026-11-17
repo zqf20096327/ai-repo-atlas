@@ -1,6 +1,6 @@
 # eosho/langchain_data_agent
 
-⭐ 238 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/eosho/langchain_data_agent) · 个人维护
+⭐ 239 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/eosho/langchain_data_agent) · 个人维护
 
 **面向多数据库的 NL2SQL 智能体平台：英文提问生成 SQL 并执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eosho/langchain_data_agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 235 --> 239
-    line [236, 237, 238, 238]
+    title "eosho/langchain_data_agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 235 --> 240
+    line [236, 237, 238, 239, 239]
 ```
 
-2026-10-18 236 → 2026-11-02 238（+2）
+2026-10-18 236 → 2026-11-17 239（+3）
 
 
 ---

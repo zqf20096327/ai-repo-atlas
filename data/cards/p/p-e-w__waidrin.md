@@ -1,6 +1,6 @@
 # p-e-w/waidrin
 
-⭐ 391 · TypeScript · AGPL-3.0 · 推送 2026-02-19 · [GitHub](https://github.com/p-e-w/waidrin) · [官网](https://waidrin.com) · 个人维护
+⭐ 396 · TypeScript · AGPL-3.0 · 推送 2026-02-19 · [GitHub](https://github.com/p-e-w/waidrin) · [官网](https://waidrin.com) · 个人维护
 
 **LLM 驱动的角色扮演游戏引擎，含 React 前端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "p-e-w/waidrin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 387 --> 392
-    line [388, 389, 390, 391]
+    title "p-e-w/waidrin 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 387 --> 397
+    line [388, 389, 390, 391, 388, 394, 395, 396, 396]
 ```
 
-2026-10-18 388 → 2026-11-02 391（+3）
+2026-10-18 388 → 2026-11-17 396（+8）
 
 
 ---

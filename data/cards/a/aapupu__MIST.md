@@ -1,6 +1,6 @@
 # aapupu/MIST
 
-⭐ 19 · Jupyter Notebook · GPL-3.0 · 推送 2026-06-09 · [GitHub](https://github.com/aapupu/MIST) · 组织维护
+⭐ 18 · Jupyter Notebook · GPL-3.0 · 推送 2026-06-09 · [GitHub](https://github.com/aapupu/MIST) · 组织维护
 
 **单T细胞转录组与受体联合分析的深度学习框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aapupu/MIST 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "aapupu/MIST 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 18（-1）
 
 
 ---

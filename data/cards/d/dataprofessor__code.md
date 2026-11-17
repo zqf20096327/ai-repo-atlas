@@ -1,6 +1,6 @@
 # dataprofessor/code
 
-⭐ 1,053 · Jupyter Notebook · 推送 2026-01-10 · [GitHub](https://github.com/dataprofessor/code) · [官网](http://youtube.com/dataprofessor) · 组织维护
+⭐ 1,056 · Jupyter Notebook · 推送 2026-01-10 · [GitHub](https://github.com/dataprofessor/code) · [官网](http://youtube.com/dataprofessor) · 组织维护
 
 **Data Professor 频道 R/Python 数据科学教程代码合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dataprofessor/code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1051 --> 1055
-    line [1053, 1052, 1054, 1053]
+    title "dataprofessor/code 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1051 --> 1057
+    line [1053, 1052, 1054, 1053, 1052, 1054, 1055, 1056, 1056]
 ```
 
-2026-10-18 1,053 → 2026-11-02 1,053（+0）
+2026-10-18 1,053 → 2026-11-17 1,056（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # civaapple-alt/mini-dsh
 
-⭐ 11 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/civaapple-alt/mini-dsh) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/civaapple-alt/mini-dsh) · 个人维护 · 中文 README
 
 **学习 Cordis 微内核的极简 DeepSeek Harness 架构实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "civaapple-alt/mini-dsh 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "civaapple-alt/mini-dsh 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 12, 12]
 ```
 
-2026-10-25 10 → 2026-11-02 11（+1）
+2026-10-25 10 → 2026-11-17 12（+2）
 
 
 ---

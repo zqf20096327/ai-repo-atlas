@@ -1,6 +1,6 @@
 # tensorchord/envd
 
-⭐ 2,241 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/tensorchord/envd) · [官网](https://envd.tensorchord.ai/) · 组织维护 · 中文 README
+⭐ 2,242 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tensorchord/envd) · [官网](https://envd.tensorchord.ai/) · 组织维护 · 中文 README
 
 **为 AI/ML 开发者声明式构建容器化开发环境的 CLI 工具**
 
@@ -45,13 +45,13 @@ envd 是一个命令行工具，面向 AI/ML 开发者，用 build.envd 文件�
 
 ```mermaid
 xychart-beta
-    title "tensorchord/envd 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 2238 --> 2242
-    line [2240, 2239, 2240, 2241, 2241]
+    title "tensorchord/envd 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 2238 --> 2244
+    line [2240, 2239, 2240, 2241, 2239, 2243, 2242, 2242]
 ```
 
-2026-10-18 2,240 → 2026-11-02 2,241（+1）
+2026-10-18 2,240 → 2026-11-17 2,242（+2）
 
 
 ---

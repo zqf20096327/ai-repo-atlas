@@ -1,6 +1,6 @@
 # Artificial-Sweetener/WhiteRabbit
 
-⭐ 88 · Python · AGPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/Artificial-Sweetener/WhiteRabbit) · [官网](https://artificialsweeter.ai) · 个人维护 · 中文 README
+⭐ 87 · Python · AGPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/Artificial-Sweetener/WhiteRabbit) · [官网](https://artificialsweeter.ai) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户的视频帧处理节点包：补帧、变速、无缝循环与批量缩放**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Artificial-Sweetener/WhiteRabbit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "Artificial-Sweetener/WhiteRabbit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 86 --> 90
-    line [87, 88, 89, 88, 88]
+    line [87, 88, 89, 88, 87, 87]
 ```
 
-2026-10-18 87 → 2026-11-02 88（+1）
+2026-10-18 87 → 2026-11-17 87（+0）
 
 
 ---

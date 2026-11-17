@@ -1,6 +1,6 @@
 # gaaiyun/joinquant-skill
 
-⭐ 90 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/gaaiyun/joinquant-skill) · 个人维护 · 中文 README
+⭐ 93 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/gaaiyun/joinquant-skill) · 个人维护 · 中文 README
 
 **给 Coding Agent 用的聚宽量化策略 API 知识库与代码检查工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaaiyun/joinquant-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 86 --> 91
-    line [87, 88, 89, 90, 90]
+    title "gaaiyun/joinquant-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 86 --> 94
+    line [87, 88, 89, 90, 88, 91, 92, 93, 93]
 ```
 
-2026-10-18 87 → 2026-11-02 90（+3）
+2026-10-18 87 → 2026-11-17 93（+6）
 
 
 ---

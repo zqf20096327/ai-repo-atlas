@@ -1,6 +1,6 @@
 # writerslogic/warm
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/writerslogic/warm) · [官网](https://docs.holographic-memory.com/) · 组织维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/writerslogic/warm) · [官网](https://docs.holographic-memory.com/) · 组织维护
 
 **给 AI agent 的本地记忆与混合检索 Rust 引擎，含 MCP 服务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "writerslogic/warm 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "writerslogic/warm 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 27, 28, 28]
 ```
 
-2026-11-01 25 → 2026-11-02 25（+0）
+2026-11-01 25 → 2026-11-17 28（+3）
 
 
 ---

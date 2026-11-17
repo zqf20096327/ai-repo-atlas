@@ -1,6 +1,6 @@
 # MacPaw/Fast-dLLM-mlx
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/MacPaw/Fast-dLLM-mlx) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/MacPaw/Fast-dLLM-mlx) · 组织维护
 
 **Apple Silicon 上扩散语言模型的 MLX 推理加速实现**
 
@@ -45,13 +45,13 @@ MacPaw 发布的 MLX 推理实现，将 NVLabs/Fast-dLLM 的免训练加速思�
 
 ```mermaid
 xychart-beta
-    title "MacPaw/Fast-dLLM-mlx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "MacPaw/Fast-dLLM-mlx 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

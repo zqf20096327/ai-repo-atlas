@@ -1,6 +1,6 @@
 # machaao/llama-net
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/machaao/llama-net) · [官网](https://llamanet.app) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/machaao/llama-net) · [官网](https://llamanet.app) · 组织维护
 
 **把 Mac/GPU 变成 OpenAI 兼容推理节点并可共享为公网 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "machaao/llama-net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "machaao/llama-net 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

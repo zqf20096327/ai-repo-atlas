@@ -1,6 +1,6 @@
 # IdoGol24/weir
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/IdoGol24/weir) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **检测 AI agent 泄露 API 密钥的工具：种假密钥、验真泄露**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IdoGol24/weir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "IdoGol24/weir 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    line [17, 18, 17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-07 17（+0）
 
 
 ---

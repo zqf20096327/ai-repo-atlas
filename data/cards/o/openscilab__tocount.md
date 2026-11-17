@@ -1,6 +1,6 @@
 # openscilab/tocount
 
-⭐ 23 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openscilab/tocount) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/openscilab/tocount) · 组织维护
 
 **轻量级 token 数估算库：多种规则与 ML 策略估计文本 token 数**
 
@@ -46,12 +46,12 @@ Python 库 ToCount，用规则与机器学习两类方法估算文本的 token �
 ```mermaid
 xychart-beta
     title "openscilab/tocount 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

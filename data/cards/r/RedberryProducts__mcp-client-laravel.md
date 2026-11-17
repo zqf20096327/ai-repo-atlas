@@ -1,6 +1,6 @@
 # RedberryProducts/mcp-client-laravel
 
-⭐ 13 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RedberryProducts/mcp-client-laravel) · 组织维护
+⭐ 13 · PHP · MIT · 推送 2026-11-16 · [GitHub](https://github.com/RedberryProducts/mcp-client-laravel) · 组织维护
 
 **Laravel 应用的 MCP 客户端包：连接 MCP 服务器调用工具与资源**
 
@@ -45,12 +45,12 @@ Redberry 维护的 Laravel 原生 Model Context Protocol 客户端 Composer 包�
 ```mermaid
 xychart-beta
     title "RedberryProducts/mcp-client-laravel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

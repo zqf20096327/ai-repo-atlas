@@ -1,6 +1,6 @@
 # Devinterview-io/explainable-ai-interview-questions
 
-⭐ 12 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/explainable-ai-interview-questions) · 组织维护
+⭐ 11 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/explainable-ai-interview-questions) · 组织维护
 
 **可解释 AI（XAI）面试问答集，面向 ML/数据科学求职者**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/explainable-ai-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Devinterview-io/explainable-ai-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

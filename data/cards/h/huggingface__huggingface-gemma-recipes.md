@@ -1,6 +1,6 @@
 # huggingface/huggingface-gemma-recipes
 
-⭐ 304 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/huggingface/huggingface-gemma-recipes) · 组织维护
+⭐ 305 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/huggingface/huggingface-gemma-recipes) · 组织维护
 
 **Gemma 系列模型的推理与微调示例笔记本集合**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的 Gemma 模型食谱仓库：提供最小化上手示例，
 
 ```mermaid
 xychart-beta
-    title "huggingface/huggingface-gemma-recipes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 302 --> 305
-    line [303, 304, 304]
+    title "huggingface/huggingface-gemma-recipes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 302 --> 306
+    line [303, 304, 305, 305]
 ```
 
-2026-10-18 303 → 2026-11-02 304（+1）
+2026-10-18 303 → 2026-11-17 305（+2）
 
 
 ---

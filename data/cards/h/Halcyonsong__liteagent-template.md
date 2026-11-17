@@ -1,6 +1,6 @@
 # Halcyonsong/liteagent-template
 
-⭐ 51 · Java · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Halcyonsong/liteagent-template) · 个人维护 · 中文 README
+⭐ 50 · Java · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Halcyonsong/liteagent-template) · 个人维护 · 中文 README
 
 **Java 轻量级 LLM/Agent 调用框架：可插拔步骤编排与工具调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Halcyonsong/liteagent-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 51, 51]
+    title "Halcyonsong/liteagent-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [51, 52, 51, 50, 50]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 50（-1）
 
 
 ---

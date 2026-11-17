@@ -1,6 +1,6 @@
 # rb81/bookmarks-organizer
 
-⭐ 17 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/rb81/bookmarks-organizer) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/rb81/bookmarks-organizer) · 个人维护
 
 **用 LLM 给浏览器书签自动分类并重新导出的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rb81/bookmarks-organizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "rb81/bookmarks-organizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

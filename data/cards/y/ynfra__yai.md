@@ -1,6 +1,6 @@
 # ynfra/yai
 
-⭐ 15 · Shell · MIT · 推送 2026-09-04 · [GitHub](https://github.com/ynfra/yai) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ynfra/yai) · 个人维护
 
 **自托管 Docker 化 AI 基础设施栈：单一 CLI 编排十余个服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ynfra/yai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

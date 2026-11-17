@@ -1,6 +1,6 @@
 # Irixil/DeepWe
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Irixil/DeepWe) · [官网](https://s2fslv06rel2qvptljhke.apigateway-cn-beijing.volceapi.com/) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Irixil/DeepWe) · [官网](https://s2fslv06rel2qvptljhke.apigateway-cn-beijing.volceapi.com/) · 个人维护 · 中文 README
 
 **面向亲密关系的 AI 私密情绪支持与双人异步复盘应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Irixil/DeepWe 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Irixil/DeepWe 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-19 18 → 2026-11-02 18（+0）
+2026-10-19 18 → 2026-11-17 19（+1）
 
 
 ---

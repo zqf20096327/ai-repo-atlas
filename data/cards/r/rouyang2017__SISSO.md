@@ -1,6 +1,6 @@
 # rouyang2017/SISSO
 
-⭐ 377 · Fortran · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/rouyang2017/SISSO) · 个人维护
+⭐ 380 · Fortran · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/rouyang2017/SISSO) · 个人维护
 
 **材料科学场景的符号回归+压缩感知建模程序（Fortran/MPI）**
 
@@ -44,13 +44,13 @@ SISSO（Sure Independence Screening and Sparsifying Operator）是数据驱动�
 
 ```mermaid
 xychart-beta
-    title "rouyang2017/SISSO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 375 --> 378
-    line [376, 377, 377]
+    title "rouyang2017/SISSO 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 375 --> 381
+    line [376, 377, 376, 379, 380, 380]
 ```
 
-2026-10-18 376 → 2026-11-02 377（+1）
+2026-10-18 376 → 2026-11-17 380（+4）
 
 
 ---

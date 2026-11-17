@@ -1,6 +1,6 @@
 # cubeplexai/cubeloop
 
-⭐ 85 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/cubeplexai/cubeloop) · [官网](https://cubeloop.dev) · 组织维护
+⭐ 103 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/cubeplexai/cubeloop) · [官网](https://cubeloop.dev) · 组织维护
 
 **异步原生 Python agent 框架：以 while 循环建模 agent 逻辑**
 
@@ -44,13 +44,13 @@ Python 编写的 async 原生 agent 框架，将 agent 逻辑建模为线性 whi
 
 ```mermaid
 xychart-beta
-    title "cubeplexai/cubeloop 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 65 --> 86
-    line [66, 67, 68, 70, 82, 83, 85, 85]
+    title "cubeplexai/cubeloop 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 63 --> 106
+    line [66, 67, 68, 70, 82, 83, 85, 68, 88, 89, 103, 103]
 ```
 
-2026-10-18 66 → 2026-11-02 85（+19）
+2026-10-18 66 → 2026-11-17 103（+37）
 
 
 ---

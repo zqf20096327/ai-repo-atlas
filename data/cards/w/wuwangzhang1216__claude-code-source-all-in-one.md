@@ -1,6 +1,6 @@
 # wuwangzhang1216/claude-code-source-all-in-one
 
-⭐ 90 · TypeScript · 推送 2026-05-28 · [GitHub](https://github.com/wuwangzhang1216/claude-code-source-all-in-one) · 个人维护 · 中文 README
+⭐ 91 · TypeScript · 推送 2026-05-28 · [GitHub](https://github.com/wuwangzhang1216/claude-code-source-all-in-one) · 个人维护 · 中文 README
 
 **Claude Code 源码镜像+18篇架构解析文章，可本地从源码运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuwangzhang1216/claude-code-source-all-in-one 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "wuwangzhang1216/claude-code-source-all-in-one 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 89 --> 92
-    line [91, 90, 90]
+    line [91, 90, 91, 91]
 ```
 
-2026-10-18 91 → 2026-11-02 90（-1）
+2026-10-18 91 → 2026-11-17 91（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # monkey2jack/aiduPOP
 
-⭐ 15 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/monkey2jack/aiduPOP) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/monkey2jack/aiduPOP) · 个人维护 · 中文 README
 
 **Hermes Agent 的飞书流式卡片插件，实时渲染 AI 回答与思考**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "monkey2jack/aiduPOP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
+    title "monkey2jack/aiduPOP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 15, 15]
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

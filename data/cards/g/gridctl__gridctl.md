@@ -1,6 +1,6 @@
 # gridctl/gridctl
 
-⭐ 45 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/gridctl/gridctl) · 组织维护
+⭐ 47 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/gridctl/gridctl) · 组织维护
 
 **MCP 网关与技能库：把 agent 环境声明进版本控制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gridctl/gridctl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "gridctl/gridctl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 47（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Quantco/polarify
 
-⭐ 147 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/Quantco/polarify) · 组织维护
+⭐ 147 · Python · BSD-3-Clause · 推送 2026-11-02 · [GitHub](https://github.com/Quantco/polarify) · 组织维护
 
 **把 Python if/elif/else 转写为 Polars 表达式的装饰器库**
 
@@ -45,12 +45,12 @@ QuantCo 维护的 Python 库，核心是 @polarify 装饰器：解析函数的 A
 ```mermaid
 xychart-beta
     title "Quantco/polarify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
     y-axis "stars" 144 --> 148
     line [145, 147, 147]
 ```
 
-2026-10-18 145 → 2026-11-02 147（+2）
+2026-10-18 145 → 2026-11-17 147（+2）
 
 
 ---

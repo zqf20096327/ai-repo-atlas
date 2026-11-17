@@ -1,6 +1,6 @@
 # muend/geoai-skills
 
-⭐ 39 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/muend/geoai-skills) · [官网](https://www.skills.sh/muend/geoai-skills) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/muend/geoai-skills) · [官网](https://www.skills.sh/muend/geoai-skills) · 个人维护
 
 **给地理空间 AI agent 的 18 个方法层技能包：判定数据能否支撑结论**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "muend/geoai-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 30 --> 40
-    line [31, 32, 33, 34, 35, 37, 39, 39]
+    title "muend/geoai-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 30 --> 46
+    line [31, 32, 33, 34, 35, 37, 39, 35, 43, 45, 45]
 ```
 
-2026-10-18 31 → 2026-11-02 39（+8）
+2026-10-18 31 → 2026-11-17 45（+14）
 
 
 ---

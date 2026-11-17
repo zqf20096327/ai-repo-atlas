@@ -1,6 +1,6 @@
 # HiThink-Research/GAGE
 
-⭐ 53 · Python · 推送 2026-06-02 · [GitHub](https://github.com/HiThink-Research/GAGE) · 组织维护 · 中文 README
+⭐ 54 · Python · 推送 2026-06-02 · [GitHub](https://github.com/HiThink-Research/GAGE) · 组织维护 · 中文 README
 
 **统一评测引擎：LLM/多模态/音频/扩散模型与游戏竞技场评测**
 
@@ -45,13 +45,13 @@ GAGE 是面向大语言模型、多模态、音频、扩散模型、agent 与游
 
 ```mermaid
 xychart-beta
-    title "HiThink-Research/GAGE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "HiThink-Research/GAGE 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 52, 53, 54, 54]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 54（+2）
 
 
 ---

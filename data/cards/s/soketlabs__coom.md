@@ -1,6 +1,6 @@
 # soketlabs/coom
 
-⭐ 32 · Python · NOASSERTION · 推送 2025-11-14 · [GitHub](https://github.com/soketlabs/coom) · [官网](https://eka.soket.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Megatron-Core 的大模型训练框架，受 HAI-LLM 启发**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "soketlabs/coom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-08 32（+1）
 
 
 ---

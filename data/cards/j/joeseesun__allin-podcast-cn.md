@@ -1,6 +1,6 @@
 # joeseesun/allin-podcast-cn
 
-⭐ 19 · HTML · MIT · 推送 2026-10-31 · [GitHub](https://github.com/joeseesun/allin-podcast-cn) · [官网](https://allin.qiaomu.ai) · 个人维护 · 中文 README
+⭐ 19 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/joeseesun/allin-podcast-cn) · [官网](https://allin.qiaomu.ai) · 个人维护 · 中文 README
 
 **All-In 播客中文伴读站：音频视频、英文文稿与 AI 中文精读**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joeseesun/allin-podcast-cn 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02"]
+    title "joeseesun/allin-podcast-cn 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 2 --> 20
-    line [3, 6, 13, 17, 18, 19]
+    line [3, 6, 13, 17, 18, 19, 17, 19, 19]
 ```
 
-2026-10-19 3 → 2026-11-02 19（+16）
+2026-10-19 3 → 2026-11-17 19（+16）
 
 
 ---

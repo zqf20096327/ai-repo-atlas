@@ -1,6 +1,6 @@
 # barbacane-dev/barbacane
 
-⭐ 29 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/barbacane-dev/barbacane) · [官网](https://barbacane.dev/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **以 OpenAPI/AsyncAPI 规范驱动的 Rust API 网关与 AI 网关**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "barbacane-dev/barbacane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-15 29（+0）
 
 
 ---

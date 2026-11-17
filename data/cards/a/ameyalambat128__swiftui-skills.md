@@ -1,6 +1,6 @@
 # ameyalambat128/swiftui-skills
 
-⭐ 124 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ameyalambat128/swiftui-skills) · [官网](https://swiftui-skills.ameyalambat.com) · 个人维护
+⭐ 126 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ameyalambat128/swiftui-skills) · [官网](https://swiftui-skills.ameyalambat.com) · 个人维护
 
 **把 Xcode 内置 Apple 文档提取为 AI 编码 agent 的 SwiftUI 技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ameyalambat128/swiftui-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 121 --> 125
-    line [122, 123, 124, 124]
+    title "ameyalambat128/swiftui-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 121 --> 127
+    line [122, 123, 124, 125, 126, 126]
 ```
 
-2026-10-18 122 → 2026-11-02 124（+2）
+2026-10-18 122 → 2026-11-17 126（+4）
 
 
 ---

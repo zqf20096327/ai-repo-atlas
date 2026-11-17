@@ -1,6 +1,6 @@
 # yaroslav/astro-slop
 
-⭐ 15 · TypeScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/yaroslav/astro-slop) · [官网](https://yaroslav.io/opensource/astro-slop) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/yaroslav/astro-slop) · [官网](https://yaroslav.io/opensource/astro-slop) · 个人维护
 
 **Astro 站点的 LLM 友好内容导出集成：生成 .md 页面与 llms.txt**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaroslav/astro-slop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "yaroslav/astro-slop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

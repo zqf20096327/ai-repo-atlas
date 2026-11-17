@@ -1,6 +1,6 @@
 # qiuxchao/content-agent
 
-⭐ 26 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/qiuxchao/content-agent) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/qiuxchao/content-agent) · 个人维护 · 中文 README
 
 **输入主题自动生成公众号/小红书/知乎文章并配图的 AI 内容 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qiuxchao/content-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "qiuxchao/content-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 26]
+    line [27, 26, 27, 26, 27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 26（-1）
+2026-10-18 27 → 2026-11-17 27（+0）
 
 
 ---

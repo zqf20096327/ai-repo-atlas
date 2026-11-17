@@ -1,6 +1,6 @@
 # Margueritecluttered489/google-rkp-sw
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Margueritecluttered489/google-rkp-sw) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 桌面工具：软件方式执行 Android 远程密钥供给并导出 keybox.xml**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Margueritecluttered489/google-rkp-sw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "Margueritecluttered489/google-rkp-sw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    line [12, 13, 14, 12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-07 12（+0）
 
 
 ---

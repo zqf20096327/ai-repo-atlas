@@ -1,6 +1,6 @@
 # henricksmedia/shimmer
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/henricksmedia/shimmer) · [官网](https://treqmusic.com/tools/shimmer) · 个人维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/henricksmedia/shimmer) · [官网](https://treqmusic.com/tools/shimmer) · 个人维护
 
 **清理 AI 音乐生成伪影并完成发行母带处理的离线工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "henricksmedia/shimmer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 16 --> 21
-    line [17, 19, 20, 20]
+    title "henricksmedia/shimmer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 19, 20, 19, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 20（+3）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

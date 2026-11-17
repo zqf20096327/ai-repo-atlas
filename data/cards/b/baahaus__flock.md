@@ -1,6 +1,6 @@
 # baahaus/flock
 
-⭐ 24 · Swift · MIT · 推送 2026-07-14 · [GitHub](https://github.com/baahaus/flock) · [官网](https://baahaus.github.io/flock/) · 个人维护
+⭐ 25 · Swift · MIT · 推送 2026-07-14 · [GitHub](https://github.com/baahaus/flock) · [官网](https://baahaus.github.io/flock/) · 个人维护
 
 **macOS 终端复用器：单窗口并行管理多个 Claude Code 会话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "baahaus/flock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "baahaus/flock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

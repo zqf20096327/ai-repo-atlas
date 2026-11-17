@@ -1,6 +1,6 @@
 # shibing624/train-jev
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/shibing624/train-jev) · [官网](https://huggingface.co/shibing624) · 个人维护 · 中文 README
+⭐ 21 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/shibing624/train-jev) · [官网](https://huggingface.co/shibing624) · 个人维护 · 中文 README
 
 **在 Qwen 上训练并部署输出选项概率的决策模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shibing624/train-jev 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 18
-    line [10, 12, 13, 14, 15, 17, 17]
+    title "shibing624/train-jev 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 22
+    line [10, 12, 13, 14, 15, 17, 13, 19, 20, 21, 21]
 ```
 
-2026-10-18 10 → 2026-11-02 17（+7）
+2026-10-18 10 → 2026-11-17 21（+11）
 
 
 ---

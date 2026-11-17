@@ -1,6 +1,6 @@
 # Ayanami0730/arag
 
-⭐ 364 · Python · 推送 2026-02-06 · [GitHub](https://github.com/Ayanami0730/arag) · [官网](https://agentresearchlab.org/agents/a-rag) · 组织维护
+⭐ 367 · Python · 推送 2026-02-06 · [GitHub](https://github.com/Ayanami0730/arag) · [官网](https://agentresearchlab.org/agents/a-rag) · 组织维护
 
 **给研究者的 Agentic RAG 框架：分层检索工具支持多跳问答**
 
@@ -44,13 +44,13 @@ A-RAG 是一个 Agentic RAG 框架，向模型直接暴露分层检索接口：k
 
 ```mermaid
 xychart-beta
-    title "Ayanami0730/arag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 361 --> 365
-    line [362, 363, 364, 364]
+    title "Ayanami0730/arag 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 361 --> 368
+    line [362, 363, 364, 362, 365, 366, 367, 367]
 ```
 
-2026-10-18 362 → 2026-11-02 364（+2）
+2026-10-18 362 → 2026-11-17 367（+5）
 
 
 ---

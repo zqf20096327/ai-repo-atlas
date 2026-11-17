@@ -1,6 +1,6 @@
 # nicepkg/ctxport
 
-⭐ 654 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/nicepkg/ctxport) · [官网](https://ctxport.xiaominglab.com) · 组织维护 · 中文 README
+⭐ 655 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/nicepkg/ctxport) · [官网](https://ctxport.xiaominglab.com) · 组织维护 · 中文 README
 
 **浏览器扩展：一键把 AI 对话复制为结构化 Markdown**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicepkg/ctxport 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 648 --> 655
-    line [649, 651, 652, 653, 654, 654]
+    title "nicepkg/ctxport 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 648 --> 656
+    line [649, 651, 652, 653, 654, 651, 653, 654, 655, 655]
 ```
 
-2026-10-18 649 → 2026-11-02 654（+5）
+2026-10-18 649 → 2026-11-17 655（+6）
 
 
 ---

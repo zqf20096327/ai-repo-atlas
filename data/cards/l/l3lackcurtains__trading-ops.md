@@ -1,6 +1,6 @@
 # l3lackcurtains/trading-ops
 
-⭐ 57 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/l3lackcurtains/trading-ops) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/l3lackcurtains/trading-ops) · 个人维护
 
 **在 Claude Code 内运行的系统化交易分析工作区，一条命令扫描任意资产**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "l3lackcurtains/trading-ops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "l3lackcurtains/trading-ops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

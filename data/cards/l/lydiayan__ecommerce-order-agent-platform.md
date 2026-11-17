@@ -1,6 +1,6 @@
 # lydiayan/ecommerce-order-agent-platform
 
-⭐ 13 · Java · MIT · 推送 2026-09-01 · [GitHub](https://github.com/lydiayan/ecommerce-order-agent-platform) · 个人维护 · 中文 README
+⭐ 13 · Java · MIT · 推送 2026-11-09 · [GitHub](https://github.com/lydiayan/ecommerce-order-agent-platform) · 个人维护 · 中文 README
 
 **面向电商订单场景的可观测 AI Agent 平台，带 RAG 与人工审批**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lydiayan/ecommerce-order-agent-platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "lydiayan/ecommerce-order-agent-platform 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

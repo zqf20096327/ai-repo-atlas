@@ -1,6 +1,6 @@
 # syiibfs-hash/cc-agent-brain
 
-⭐ 83 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/syiibfs-hash/cc-agent-brain) · 个人维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/syiibfs-hash/cc-agent-brain) · 个人维护 · 中文 README
 
 **编码 Agent 的本地记忆引擎：SQLite+FTS5 检索，MCP 暴露给各工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "syiibfs-hash/cc-agent-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 82 --> 95
     line [94, 83, 83]
 ```
 
-2026-10-18 94 → 2026-11-02 83（-11）
+2026-10-18 94 → 2026-11-17 83（-11）
 
 
 ---

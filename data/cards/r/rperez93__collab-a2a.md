@@ -1,6 +1,6 @@
 # rperez93/collab-a2a
 
-⭐ 12 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/rperez93/collab-a2a) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rperez93/collab-a2a) · 个人维护
 
 **让不同机器上的编码代理实时对话协作的自托管 A2A 中心**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rperez93/collab-a2a 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "rperez93/collab-a2a 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 19
+    line [10, 11, 12, 15, 17, 18, 18]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 18（+8）
 
 
 ---

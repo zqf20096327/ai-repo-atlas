@@ -1,6 +1,6 @@
 # wrab12/awesome-spatial-transcriptomics
 
-⭐ 55 · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/wrab12/awesome-spatial-transcriptomics) · 个人维护
+⭐ 58 · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/wrab12/awesome-spatial-transcriptomics) · 个人维护
 
 **空间转录组学与单细胞分析的资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wrab12/awesome-spatial-transcriptomics 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 47 --> 56
-    line [48, 50, 52, 53, 54, 55]
+    title "wrab12/awesome-spatial-transcriptomics 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 47 --> 59
+    line [48, 50, 52, 53, 54, 55, 53, 57, 58, 58]
 ```
 
-2026-10-18 48 → 2026-11-02 55（+7）
+2026-10-18 48 → 2026-11-17 58（+10）
 
 
 ---

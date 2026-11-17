@@ -1,6 +1,6 @@
 # AliDehbansiahkarbon/FusionAI
 
-⭐ 278 · Pascal · MIT · 推送 2026-04-30 · [GitHub](https://github.com/AliDehbansiahkarbon/FusionAI) · [官网](https://alidehbansiahkarbon.github.io/FusionAI/) · 个人维护
+⭐ 279 · Pascal · MIT · 推送 2026-04-30 · [GitHub](https://github.com/AliDehbansiahkarbon/FusionAI) · [官网](https://alidehbansiahkarbon.github.io/FusionAI/) · 个人维护
 
 **RAD Studio IDE 的多模型 AI 助手插件（ChatGPT/Gemini/Claude/Ollama）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AliDehbansiahkarbon/FusionAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 277 --> 279
-    line [278, 278]
+    title "AliDehbansiahkarbon/FusionAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 277 --> 281
+    line [278, 279, 280, 279, 279]
 ```
 
-2026-10-18 278 → 2026-11-02 278（+0）
+2026-10-18 278 → 2026-11-17 279（+1）
 
 
 ---

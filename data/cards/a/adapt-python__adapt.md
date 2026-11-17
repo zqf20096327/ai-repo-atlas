@@ -1,6 +1,6 @@
 # adapt-python/adapt
 
-⭐ 376 · Python · BSD-2-Clause · 推送 2025-12-02 · [GitHub](https://github.com/adapt-python/adapt) · [官网](https://adapt-python.github.io/adapt/) · 组织维护
+⭐ 379 · Python · BSD-2-Clause · 推送 2025-12-02 · [GitHub](https://github.com/adapt-python/adapt) · [官网](https://adapt-python.github.io/adapt/) · 组织维护
 
 **领域自适应/迁移学习算法的 Python 工具箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adapt-python/adapt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 375 --> 377
-    line [376, 376]
+    title "adapt-python/adapt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 375 --> 380
+    line [376, 377, 379, 379]
 ```
 
-2026-10-18 376 → 2026-11-02 376（+0）
+2026-10-18 376 → 2026-11-17 379（+3）
 
 
 ---

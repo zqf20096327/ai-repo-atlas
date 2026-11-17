@@ -1,6 +1,6 @@
 # NVIDIA/nv-embedding-cache
 
-⭐ 30 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/nv-embedding-cache) · 组织维护
+⭐ 32 · C++ · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/nv-embedding-cache) · 组织维护
 
 **面向推荐系统的分层嵌入查表 SDK，支持超 GPU 显存的嵌入推理**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的领域专用 SDK，用 GPU/Host 内存中的软件缓存与定�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/nv-embedding-cache 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "NVIDIA/nv-embedding-cache 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 29, 31, 32, 32]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 32（+4）
 
 
 ---

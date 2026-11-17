@@ -1,6 +1,6 @@
 # torchmd/torchmd
 
-⭐ 721 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/torchmd/torchmd) · 组织维护
+⭐ 722 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/torchmd/torchmd) · 组织维护
 
 **基于 PyTorch 的端到端分子动力学引擎，供力场与神经网络势研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "torchmd/torchmd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 720 --> 722
-    line [721, 721]
+    title "torchmd/torchmd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 720 --> 723
+    line [721, 722, 722]
 ```
 
-2026-10-18 721 → 2026-11-02 721（+0）
+2026-10-18 721 → 2026-11-17 722（+1）
 
 
 ---

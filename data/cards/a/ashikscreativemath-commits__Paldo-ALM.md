@@ -1,6 +1,6 @@
 # ashikscreativemath-commits/Paldo-ALM
 
-⭐ 22 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ashikscreativemath-commits/Paldo-ALM) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ashikscreativemath-commits/Paldo-ALM) · 个人维护
 
 **面向 MetaTrader 5 的自动交易机器人：AI 分析并自动执行交易**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashikscreativemath-commits/Paldo-ALM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 22, 22]
+    title "ashikscreativemath-commits/Paldo-ALM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 22, 23, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

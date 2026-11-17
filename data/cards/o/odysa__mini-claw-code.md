@@ -1,6 +1,6 @@
 # odysa/mini-claw-code
 
-⭐ 28 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/odysa/mini-claw-code) · [官网](https://odysa.github.io/mini-claw-code/) · 个人维护 · 中文 README
+⭐ 29 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/odysa/mini-claw-code) · [官网](https://odysa.github.io/mini-claw-code/) · 个人维护 · 中文 README
 
 **用 Rust 从零构建编程 agent 的教程书（18 章测试驱动）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "odysa/mini-claw-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "odysa/mini-claw-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

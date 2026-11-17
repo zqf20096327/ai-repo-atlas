@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "badchars/osint-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "badchars/osint-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [62, 61, 62, 62]
 ```
 
-2026-10-31 62 → 2026-11-02 62（+0）
+2026-10-31 62 → 2026-11-17 62（+0）
 
 
 ---

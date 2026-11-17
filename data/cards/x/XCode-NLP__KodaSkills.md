@@ -1,6 +1,6 @@
 # XCode-NLP/KodaSkills
 
-⭐ 24 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/XCode-NLP/KodaSkills) · [官网](https://kodacode.ru) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/XCode-NLP/KodaSkills) · [官网](https://kodacode.ru) · 组织维护
 
 **KodaCode AI 助手的 agent 技能（SKILL.md）集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "XCode-NLP/KodaSkills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    title "XCode-NLP/KodaSkills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

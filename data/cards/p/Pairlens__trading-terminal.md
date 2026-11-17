@@ -1,6 +1,6 @@
 # Pairlens/trading-terminal
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/Pairlens/trading-terminal) · [官网](https://pairlens.finance) · 组织维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/Pairlens/trading-terminal) · [官网](https://pairlens.finance) · 组织维护
 
 **本地优先的多市场加密/美股 AI 交易终端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pairlens/trading-terminal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "Pairlens/trading-terminal 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 20, 19, 23, 25, 25]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 25（+7）
 
 
 ---

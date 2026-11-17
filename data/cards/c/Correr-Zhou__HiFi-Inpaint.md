@@ -1,6 +1,6 @@
 # Correr-Zhou/HiFi-Inpaint
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-06-07 · [GitHub](https://github.com/Correr-Zhou/HiFi-Inpaint) · 组织维护 · 中文 README
+⭐ 115 · Python · Apache-2.0 · 推送 2026-06-07 · [GitHub](https://github.com/Correr-Zhou/HiFi-Inpaint) · 组织维护 · 中文 README
 
 **基于参考图的高保真人-商品图修复生成框架（CVPR 2026）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Correr-Zhou/HiFi-Inpaint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    title "Correr-Zhou/HiFi-Inpaint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 111 --> 116
+    line [112, 114, 115, 115]
 ```
 
-2026-10-18 112 → 2026-11-02 112（+0）
+2026-10-18 112 → 2026-11-17 115（+3）
 
 
 ---

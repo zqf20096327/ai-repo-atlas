@@ -1,6 +1,6 @@
 # hkopenai/hk-finance-mcp-server
 
-⭐ 12 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/hkopenai/hk-finance-mcp-server) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/hkopenai/hk-finance-mcp-server) · 组织维护
 
 **为 LLM/agent 提供香港金融数据的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hkopenai/hk-finance-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "hkopenai/hk-finance-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

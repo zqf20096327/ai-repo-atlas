@@ -1,6 +1,6 @@
 # vojir-mikulas/red
 
-⭐ 17 · Rust · GPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/vojir-mikulas/red) · [官网](https://red.vojir.io) · 个人维护
+⭐ 18 · Rust · GPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/vojir-mikulas/red) · [官网](https://red.vojir.io) · 个人维护
 
 **Rust 桌面数据库浏览器，附带基于 Claude 的 AI 助手**
 
@@ -44,13 +44,13 @@ RED 是用 Rust 编写、基于 GPUI 的原生数据库探索器，支持 Postgr
 
 ```mermaid
 xychart-beta
-    title "vojir-mikulas/red 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "vojir-mikulas/red 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

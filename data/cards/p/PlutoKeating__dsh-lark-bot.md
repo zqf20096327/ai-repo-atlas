@@ -1,6 +1,6 @@
 # PlutoKeating/dsh-lark-bot
 
-⭐ 41 · TypeScript · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/PlutoKeating/dsh-lark-bot) · [官网](https://dsh-lark-bot.plutokeating.beer) · 个人维护 · 中文 README
+⭐ 44 · TypeScript · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/PlutoKeating/dsh-lark-bot) · [官网](https://dsh-lark-bot.plutokeating.beer) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 本机 coding agent 接入飞书/Lark 的桥接插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PlutoKeating/dsh-lark-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "PlutoKeating/dsh-lark-bot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 44, 44]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 44（+3）
 
 
 ---

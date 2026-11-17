@@ -1,6 +1,6 @@
 # codylabs/cody-code-reviewer
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/codylabs/cody-code-reviewer) · [官网](https://docs.codylabs.uk/) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/codylabs/cody-code-reviewer) · [官网](https://docs.codylabs.uk/) · 组织维护
 
 **GitHub Actions 内私有 AI 代码审查：BYOK 审查 PR 并评论**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codylabs/cody-code-reviewer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

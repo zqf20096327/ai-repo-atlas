@@ -1,6 +1,6 @@
 # canonical/inference-snaps
 
-⭐ 53 · 推送 2026-10-27 · [GitHub](https://github.com/canonical/inference-snaps) · [官网](https://documentation.ubuntu.com/inference-snaps) · 组织维护
+⭐ 55 · Go · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/canonical/inference-snaps) · [官网](https://documentation.ubuntu.com/inference-snaps) · 组织维护
 
 **Canonical 出品的 snap 打包本地模型推理与 API 服务方案**
 
@@ -11,7 +11,7 @@ Canonical 维护的 Inference Snaps 项目：将生成式模型及其运行时�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | GPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Canonical 维护的 Inference Snaps 项目：将生成式模型及其运行时�
 
 ```mermaid
 xychart-beta
-    title "canonical/inference-snaps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "canonical/inference-snaps 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

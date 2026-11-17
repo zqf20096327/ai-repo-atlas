@@ -1,6 +1,6 @@
 # Beledarian/mcp-local-memory
 
-⭐ 61 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Beledarian/mcp-local-memory) · 个人维护
+⭐ 62 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Beledarian/mcp-local-memory) · 个人维护
 
 **本地优先的 MCP 记忆服务器：为 AI agent 提供共享持久记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Beledarian/mcp-local-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "Beledarian/mcp-local-memory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 60, 62, 62]
 ```
 
-2026-10-18 60 → 2026-11-02 61（+1）
+2026-10-18 60 → 2026-11-17 62（+2）
 
 
 ---

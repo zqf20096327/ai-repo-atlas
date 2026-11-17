@@ -1,6 +1,6 @@
 # NoahIsARider/ZhituCareer
 
-⭐ 43 · Python · 推送 2026-08-12 · [GitHub](https://github.com/NoahIsARider/ZhituCareer) · 个人维护 · 中文 README
+⭐ 44 · Python · 推送 2026-08-12 · [GitHub](https://github.com/NoahIsARider/ZhituCareer) · 个人维护 · 中文 README
 
 **面向求职者的 AI 职业分析与求职推荐 Web 平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoahIsARider/ZhituCareer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "NoahIsARider/ZhituCareer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 42 --> 46
-    line [45, 43, 43]
+    line [45, 43, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-02 43（-2）
+2026-10-18 45 → 2026-11-17 44（-1）
 
 
 ---

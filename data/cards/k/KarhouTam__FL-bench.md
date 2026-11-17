@@ -1,6 +1,6 @@
 # KarhouTam/FL-bench
 
-⭐ 692 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/KarhouTam/FL-bench) · 个人维护 · 中文 README
+⭐ 697 · Python · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/KarhouTam/FL-bench) · 个人维护 · 中文 README
 
 **联邦学习方法基准测试框架：统一复现 40+ 种 FL 算法**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KarhouTam/FL-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 691 --> 695
-    line [694, 692, 692]
+    title "KarhouTam/FL-bench 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 691 --> 698
+    line [694, 692, 694, 696, 695, 696, 697, 697]
 ```
 
-2026-10-18 694 → 2026-11-02 692（-2）
+2026-10-18 694 → 2026-11-17 697（+3）
 
 
 ---

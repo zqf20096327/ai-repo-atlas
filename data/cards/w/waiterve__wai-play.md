@@ -1,6 +1,6 @@
 # waiterve/wai-play
 
-⭐ 255 · Python · 推送 2026-08-31 · [GitHub](https://github.com/waiterve/wai-play) · 个人维护 · 中文 README
+⭐ 256 · Python · 推送 2026-08-31 · [GitHub](https://github.com/waiterve/wai-play) · 个人维护 · 中文 README
 
 **AI 自动试玩网页游戏并产出评分与优化建议的 Agent 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "waiterve/wai-play 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 254 --> 256
-    line [255, 255]
+    title "waiterve/wai-play 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 254 --> 257
+    line [255, 256, 256]
 ```
 
-2026-10-18 255 → 2026-11-02 255（+0）
+2026-10-18 255 → 2026-11-17 256（+1）
 
 
 ---

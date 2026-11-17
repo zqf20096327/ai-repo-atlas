@@ -1,6 +1,6 @@
 # xiaoY233/GLM-Free-API
 
-⭐ 64 · TypeScript · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/xiaoY233/GLM-Free-API) · [官网](https://open.bigmodel.cn/) · 个人维护 · 中文 README
+⭐ 65 · TypeScript · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/xiaoY233/GLM-Free-API) · [官网](https://open.bigmodel.cn/) · 个人维护 · 中文 README
 
 **智谱清言逆向 API 服务：兼容 OpenAI/Gemini/Claude 接口格式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoY233/GLM-Free-API 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    title "xiaoY233/GLM-Free-API 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 65, 65]
 ```
 
-2026-10-18 63 → 2026-11-02 64（+1）
+2026-10-18 63 → 2026-11-17 65（+2）
 
 
 ---

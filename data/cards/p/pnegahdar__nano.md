@@ -1,6 +1,6 @@
 # pnegahdar/nano
 
-⭐ 180 · Python · 推送 2026-05-17 · [GitHub](https://github.com/pnegahdar/nano) · 个人维护
+⭐ 181 · Python · 推送 2026-05-17 · [GitHub](https://github.com/pnegahdar/nano) · 个人维护
 
 **单文件零依赖的命令行编码 Agent：读仓库、执行命令、修复任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pnegahdar/nano 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "pnegahdar/nano 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 179 --> 182
-    line [181, 180, 180]
+    line [181, 180, 181, 180, 181, 181]
 ```
 
-2026-10-18 181 → 2026-11-02 180（-1）
+2026-10-18 181 → 2026-11-17 181（+0）
 
 
 ---

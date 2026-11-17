@@ -1,6 +1,6 @@
 # jgmontoya/shaka
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jgmontoya/shaka) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jgmontoya/shaka) · 个人维护
 
 **给 AI 编程助手的本地共享上下文/记忆/工作流/安全钩子框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jgmontoya/shaka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

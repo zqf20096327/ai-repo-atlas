@@ -1,6 +1,6 @@
 # vllm-project/vllm-gguf-plugin
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vllm-project/vllm-gguf-plugin) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vllm-project/vllm-gguf-plugin) · 组织维护
 
 **为 vLLM 提供树外 GGUF 量化支持的插件**
 
@@ -43,13 +43,13 @@ vLLM 官方项目下的树外量化插件：在 vLLM 移除树内 GGUF 支持后
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-gguf-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    title "vllm-project/vllm-gguf-plugin 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 53 --> 60
+    line [54, 55, 56, 57, 58, 59, 59]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 59（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/ai-agent-runbooks
 
-⭐ 70 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/ai-agent-runbooks) · 组织维护
+⭐ 78 · HTML · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/ai-agent-runbooks) · 组织维护
 
 **微软平台的 AI Agent 实施指南与模式清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ai-agent-runbooks 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 62 --> 71
-    line [63, 64, 65, 67, 68, 69, 70]
+    title "microsoft/ai-agent-runbooks 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 62 --> 79
+    line [63, 64, 65, 67, 68, 69, 70, 65, 74, 77, 78, 78]
 ```
 
-2026-10-18 63 → 2026-11-02 70（+7）
+2026-10-18 63 → 2026-11-17 78（+15）
 
 
 ---

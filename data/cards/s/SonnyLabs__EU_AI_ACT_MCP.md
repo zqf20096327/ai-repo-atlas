@@ -1,6 +1,6 @@
 # SonnyLabs/EU_AI_ACT_MCP
 
-⭐ 33 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/SonnyLabs/EU_AI_ACT_MCP) · [官网](https://sonnylabs.ai/) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/SonnyLabs/EU_AI_ACT_MCP) · [官网](https://sonnylabs.ai/) · 组织维护
 
 **面向 AI 应用的 EU AI Act 合规 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SonnyLabs/EU_AI_ACT_MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "SonnyLabs/EU_AI_ACT_MCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

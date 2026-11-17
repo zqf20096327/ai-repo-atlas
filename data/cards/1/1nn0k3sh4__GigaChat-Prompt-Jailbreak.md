@@ -1,6 +1,6 @@
 # 1nn0k3sh4/GigaChat-Prompt-Jailbreak
 
-⭐ 30 · MIT · 推送 2025-12-27 · [GitHub](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) · 个人维护
+⭐ 31 · MIT · 推送 2025-12-27 · [GitHub](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) · 个人维护
 
 **GigaChat 内容过滤器绕过漏洞的技术研究报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1nn0k3sh4/GigaChat-Prompt-Jailbreak 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "1nn0k3sh4/GigaChat-Prompt-Jailbreak 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 29, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

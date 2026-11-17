@@ -1,6 +1,6 @@
 # avocadodb/avocadodb
 
-⭐ 13 · Rust · MIT · 推送 2025-12-10 · [GitHub](https://github.com/avocadodb/avocadodb) · [官网](https://avocadodb.ai) · 组织维护
+⭐ 14 · Rust · MIT · 推送 2025-12-10 · [GitHub](https://github.com/avocadodb/avocadodb) · [官网](https://avocadodb.ai) · 组织维护
 
 **面向 AI agent 的确定性上下文数据库，同一查询输出同一上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "avocadodb/avocadodb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "avocadodb/avocadodb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jamesmawm/mastering-python-for-finance-second-edition
 
-⭐ 472 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) · 个人维护
+⭐ 473 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) · 个人维护
 
 **《Mastering Python for Finance（第二版）》图书配套源码**
 
@@ -45,13 +45,13 @@ Packt 出版书籍的代码仓库，提供全书各章节示例源码，内容�
 
 ```mermaid
 xychart-beta
-    title "jamesmawm/mastering-python-for-finance-second-edition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 471 --> 473
-    line [472, 472]
+    title "jamesmawm/mastering-python-for-finance-second-edition 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 471 --> 474
+    line [472, 473, 473]
 ```
 
-2026-10-18 472 → 2026-11-02 472（+0）
+2026-10-18 472 → 2026-11-17 473（+1）
 
 
 ---

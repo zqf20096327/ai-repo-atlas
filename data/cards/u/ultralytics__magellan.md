@@ -1,6 +1,6 @@
 # ultralytics/magellan
 
-⭐ 67 · MATLAB · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/magellan) · [官网](https://ultralytics.com) · 组织维护
+⭐ 71 · MATLAB · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/magellan) · [官网](https://ultralytics.com) · 组织维护
 
 **MATLAB 机器学习地球观测与中子制图工具集**
 
@@ -44,13 +44,13 @@ Ultralytics 维护的 MATLAB 开源仓库，将机器学习用于地球观测与
 
 ```mermaid
 xychart-beta
-    title "ultralytics/magellan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "ultralytics/magellan 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 66 --> 72
+    line [67, 69, 71, 71]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 71（+4）
 
 
 ---

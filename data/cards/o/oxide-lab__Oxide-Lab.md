@@ -1,6 +1,6 @@
 # oxide-lab/Oxide-Lab
 
-⭐ 116 · Rust · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/oxide-lab/Oxide-Lab) · [官网](https://oxidelab.tech) · 个人维护
+⭐ 119 · Rust · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/oxide-lab/Oxide-Lab) · [官网](https://oxidelab.tech) · 个人维护
 
 **本地运行 LLM 的私有桌面聊天应用，数据不出本机**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oxide-lab/Oxide-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 115 --> 117
-    line [116, 116]
+    title "oxide-lab/Oxide-Lab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 115 --> 120
+    line [116, 117, 118, 119, 119]
 ```
 
-2026-10-18 116 → 2026-11-02 116（+0）
+2026-10-18 116 → 2026-11-17 119（+3）
 
 
 ---

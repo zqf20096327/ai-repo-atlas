@@ -1,6 +1,6 @@
 # Devinterview-io/ml-design-patterns-interview-questions
 
-⭐ 22 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/ml-design-patterns-interview-questions) · 组织维护
+⭐ 23 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/ml-design-patterns-interview-questions) · 组织维护
 
 **面向求职者的 ML 设计模式面试题库（70 题，含答案）**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的机器学习设计模式面试问答仓库，收录 70 
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/ml-design-patterns-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "Devinterview-io/ml-design-patterns-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

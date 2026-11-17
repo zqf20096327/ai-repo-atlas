@@ -1,6 +1,6 @@
 # ManuelSLemos/RabbitLLM
 
-⭐ 89 · Python · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/ManuelSLemos/RabbitLLM) · 个人维护
+⭐ 94 · Python · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/ManuelSLemos/RabbitLLM) · 个人维护
 
 **AirLLM 分支：4GB 显存逐层流式推理 70B+ 大模型**
 
@@ -45,13 +45,13 @@ AirLLM 的 fork，以 Python 库（pip 安装）形式提供：将 HuggingFace c
 
 ```mermaid
 xychart-beta
-    title "ManuelSLemos/RabbitLLM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 85 --> 90
-    line [86, 87, 88, 89, 89]
+    title "ManuelSLemos/RabbitLLM 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 85 --> 95
+    line [86, 87, 88, 89, 87, 92, 93, 94, 94]
 ```
 
-2026-10-18 86 → 2026-11-02 89（+3）
+2026-10-18 86 → 2026-11-17 94（+8）
 
 
 ---

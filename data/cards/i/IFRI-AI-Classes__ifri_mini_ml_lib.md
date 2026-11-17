@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IFRI-AI-Classes/ifri_mini_ml_lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "IFRI-AI-Classes/ifri_mini_ml_lib 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [39, 38, 39, 39]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 39（+0）
 
 
 ---

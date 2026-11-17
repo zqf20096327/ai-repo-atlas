@@ -1,6 +1,6 @@
 # EvanYao826/AgentCraft
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/EvanYao826/AgentCraft) · 个人维护 · 中文 README
+⭐ 37 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/EvanYao826/AgentCraft) · 个人维护 · 中文 README
 
 **多 Agent 协作 RAG 知识库全栈系统，兼作 Agent 架构学习项目**
 
@@ -44,13 +44,13 @@ Spring Boot + FastAPI + React 全栈 RAG 知识库问答平台：用户上传 PD
 
 ```mermaid
 xychart-beta
-    title "EvanYao826/AgentCraft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "EvanYao826/AgentCraft 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

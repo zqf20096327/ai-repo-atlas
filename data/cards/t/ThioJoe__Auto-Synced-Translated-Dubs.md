@@ -1,6 +1,6 @@
 # ThioJoe/Auto-Synced-Translated-Dubs
 
-⭐ 1,751 · Python · AGPL-3.0 · 推送 2026-05-11 · [GitHub](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) · 组织维护
+⭐ 1,755 · Python · AGPL-3.0 · 推送 2026-05-11 · [GitHub](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) · 组织维护
 
 **基于字幕文件自动翻译配音的 Python 工具，语音与原视频同步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThioJoe/Auto-Synced-Translated-Dubs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 1750 --> 1754
-    line [1751, 1752, 1753, 1752, 1751]
+    title "ThioJoe/Auto-Synced-Translated-Dubs 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1750 --> 1756
+    line [1751, 1752, 1753, 1752, 1751, 1753, 1754, 1755, 1755]
 ```
 
-2026-10-18 1,751 → 2026-11-02 1,751（+0）
+2026-10-18 1,751 → 2026-11-17 1,755（+4）
 
 
 ---

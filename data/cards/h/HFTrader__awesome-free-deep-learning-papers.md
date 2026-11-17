@@ -1,6 +1,6 @@
 # HFTrader/awesome-free-deep-learning-papers
 
-⭐ 358 · 推送 2026-03-03 · [GitHub](https://github.com/HFTrader/awesome-free-deep-learning-papers) · 个人维护
+⭐ 359 · 推送 2026-03-03 · [GitHub](https://github.com/HFTrader/awesome-free-deep-learning-papers) · 个人维护
 
 **免费深度学习论文 PDF 清单，供研究者按主题查阅**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HFTrader/awesome-free-deep-learning-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 357 --> 359
-    line [358, 358]
+    title "HFTrader/awesome-free-deep-learning-papers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 356 --> 360
+    line [358, 357, 358, 359, 359]
 ```
 
-2026-10-18 358 → 2026-11-02 358（+0）
+2026-10-18 358 → 2026-11-17 359（+1）
 
 
 ---

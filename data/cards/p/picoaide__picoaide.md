@@ -1,6 +1,6 @@
 # picoaide/picoaide
 
-⭐ 59 · Go · MIT · 推送 2026-07-28 · [GitHub](https://github.com/picoaide/picoaide) · [官网](https://www.picoaide.com) · 组织维护 · 中文 README
+⭐ 49 · Go · MIT · 推送 2026-07-28 · [GitHub](https://github.com/picoaide/picoaide) · [官网](https://www.picoaide.com) · 组织维护 · 中文 README
 
 **私有化部署的企业 AI 代理管理平台：沙箱隔离、统一认证**
 
@@ -44,13 +44,13 @@ Go + Gin 实现的私有化 AI 代理管理平台，通过 overlayfs + network n
 
 ```mermaid
 xychart-beta
-    title "picoaide/picoaide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 58 --> 67
-    line [65, 66, 60, 59, 59]
+    title "picoaide/picoaide 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 48 --> 67
+    line [65, 66, 60, 59, 60, 49, 49]
 ```
 
-2026-10-18 65 → 2026-11-02 59（-6）
+2026-10-18 65 → 2026-11-17 49（-16）
 
 
 ---

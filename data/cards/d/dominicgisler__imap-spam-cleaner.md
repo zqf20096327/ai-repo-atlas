@@ -1,6 +1,6 @@
 # dominicgisler/imap-spam-cleaner
 
-⭐ 20 · Go · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/dominicgisler/imap-spam-cleaner) · 个人维护
+⭐ 21 · Go · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/dominicgisler/imap-spam-cleaner) · 个人维护
 
 **自托管工具：用 AI 判分自动清理 IMAP 收件箱垃圾邮件**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "dominicgisler/imap-spam-cleaner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "dominicgisler/imap-spam-cleaner 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

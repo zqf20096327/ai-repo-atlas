@@ -1,6 +1,6 @@
 # FankChen/tracecrate
 
-⭐ 196 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FankChen/tracecrate) · [官网](https://fankchen.github.io/tracecrate/) · 个人维护 · 中文 README
+⭐ 195 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FankChen/tracecrate) · [官网](https://fankchen.github.io/tracecrate/) · 个人维护 · 中文 README
 
 **本地优先的 AI agent 追踪查看台：检视与比对 Claude Code/Codex/OTLP 日志**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FankChen/tracecrate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 190 --> 263
-    line [257, 255, 254, 196, 196]
+    title "FankChen/tracecrate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 189 --> 263
+    line [257, 255, 254, 196, 195, 195]
 ```
 
-2026-10-18 257 → 2026-11-02 196（-61）
+2026-10-18 257 → 2026-11-17 195（-62）
 
 
 ---

@@ -1,6 +1,6 @@
 # evilstar2016/skill-doctor
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/evilstar2016/skill-doctor) · [官网](https://www.npmjs.com/package/@evilstar2025/skill-doctor) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/evilstar2016/skill-doctor) · [官网](https://www.npmjs.com/package/@evilstar2025/skill-doctor) · 个人维护 · 中文 README
 
 **本地 CLI 工具：审计 AI agent 技能的冲突、重复与上下文成本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "evilstar2016/skill-doctor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "evilstar2016/skill-doctor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 13, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

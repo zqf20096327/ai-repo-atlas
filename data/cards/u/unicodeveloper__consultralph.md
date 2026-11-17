@@ -1,6 +1,6 @@
 # unicodeveloper/consultralph
 
-⭐ 150 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/unicodeveloper/consultralph) · [官网](https://consultralph.com) · 个人维护
+⭐ 152 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/unicodeveloper/consultralph) · [官网](https://consultralph.com) · 个人维护
 
 **面向咨询顾问的自主深度研究 AI 代理，生成尽调与市场报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "unicodeveloper/consultralph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 147 --> 151
-    line [148, 149, 150, 150]
+    title "unicodeveloper/consultralph 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 147 --> 153
+    line [148, 149, 150, 149, 151, 152, 152]
 ```
 
-2026-10-18 148 → 2026-11-02 150（+2）
+2026-10-18 148 → 2026-11-17 152（+4）
 
 
 ---

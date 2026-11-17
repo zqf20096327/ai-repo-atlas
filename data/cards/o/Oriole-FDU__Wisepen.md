@@ -1,6 +1,6 @@
 # Oriole-FDU/Wisepen
 
-⭐ 122 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Oriole-FDU/Wisepen) · [官网](https://home.wisepen.oriole.cn) · 组织维护 · 中文 README
+⭐ 126 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Oriole-FDU/Wisepen) · [官网](https://home.wisepen.oriole.cn) · 组织维护 · 中文 README
 
 **面向高校教学与科研的开源知识与 AI Agent 协作平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Oriole-FDU/Wisepen 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 121 --> 123
-    line [122, 122]
+    title "Oriole-FDU/Wisepen 星数(近 4 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 121 --> 127
+    line [122, 125, 126, 126]
 ```
 
-2026-10-30 122 → 2026-11-02 122（+0）
+2026-10-30 122 → 2026-11-17 126（+4）
 
 
 ---

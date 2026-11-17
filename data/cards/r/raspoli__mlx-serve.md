@@ -1,6 +1,6 @@
 # raspoli/mlx-serve
 
-⭐ 22 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/raspoli/mlx-serve) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/raspoli/mlx-serve) · 个人维护
 
 **Apple Silicon 本地推理服务器：热切换 MLX 模型并提供 OpenAI 兼容 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raspoli/mlx-serve 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "raspoli/mlx-serve 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

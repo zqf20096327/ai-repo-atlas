@@ -1,6 +1,6 @@
 # majiayu000/sage
 
-⭐ 12 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/majiayu000/sage) · [官网](https://docs.rs/sage-cli) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **给开发者的 Rust 单二进制 AI 编程 agent CLI，多模型可续会话**
 
@@ -11,7 +11,7 @@ Rust 实现的软件工程 agent CLI，以约 15MB 单二进制分发，命令�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Rust 实现的软件工程 agent CLI，以约 15MB 单二进制分发，命令�
 ```mermaid
 xychart-beta
     title "majiayu000/sage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-08 12（+0）
 
 
 ---

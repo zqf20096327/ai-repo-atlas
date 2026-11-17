@@ -1,6 +1,6 @@
 # ManasVardhan/bench-my-llm
 
-⭐ 51 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ManasVardhan/bench-my-llm) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ManasVardhan/bench-my-llm) · 个人维护
 
 **面向开发者的 LLM 基准测试 CLI：测延迟、成本与质量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ManasVardhan/bench-my-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 50 --> 55
-    line [54, 51, 51]
+    title "ManasVardhan/bench-my-llm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 44 --> 55
+    line [54, 51, 47, 45, 45]
 ```
 
-2026-10-18 54 → 2026-11-02 51（-3）
+2026-10-18 54 → 2026-11-17 45（-9）
 
 
 ---

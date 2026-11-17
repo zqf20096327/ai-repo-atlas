@@ -1,6 +1,6 @@
 # Ar9av/clippy
 
-⭐ 12 · Swift · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Ar9av/clippy) · [官网](https://github.com/Ar9av/clippy/releases/latest) · 个人维护
+⭐ 12 · Swift · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Ar9av/clippy) · [官网](https://github.com/Ar9av/clippy/releases/latest) · 个人维护
 
 **macOS 桌面 AI 代理：读取屏幕并代你点击、输入完成操作**
 
@@ -45,12 +45,12 @@ Swift 编写的 macOS 桌面助手应用，形似回形针浮窗。用户发出�
 ```mermaid
 xychart-beta
     title "Ar9av/clippy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

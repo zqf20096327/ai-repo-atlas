@@ -1,6 +1,6 @@
 # RonMizrahi/ai-sdlc-graph
 
-⭐ 17 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/RonMizrahi/ai-sdlc-graph) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/RonMizrahi/ai-sdlc-graph) · 个人维护
 
 **驱动编码 agent 执行软件生命周期的可执行无代码 SDLC 图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RonMizrahi/ai-sdlc-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "RonMizrahi/ai-sdlc-graph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 16, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # maida-ai/maida
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/maida-ai/maida) · [官网](https://maida.ai) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/maida-ai/maida) · [官网](https://maida.ai) · 组织维护
 
 **AI agent 行为回归门禁：合并前检查 agent 变更是否破坏行为**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maida-ai/maida 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "maida-ai/maida 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

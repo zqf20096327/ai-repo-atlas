@@ -1,6 +1,6 @@
 # 31d4r/Raven
 
-⭐ 197 · Swift · MIT · 推送 2026-04-07 · [GitHub](https://github.com/31d4r/Raven) · 个人维护
+⭐ 199 · Swift · MIT · 推送 2026-11-08 · [GitHub](https://github.com/31d4r/Raven) · 个人维护
 
 **macOS/iOS 本地文档问答应用：上传文件后提问，全程设备内处理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "31d4r/Raven 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 196 --> 198
-    line [197, 197]
+    title "31d4r/Raven 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 196 --> 200
+    line [197, 199, 199]
 ```
 
-2026-10-18 197 → 2026-11-02 197（+0）
+2026-10-18 197 → 2026-11-17 199（+2）
 
 
 ---

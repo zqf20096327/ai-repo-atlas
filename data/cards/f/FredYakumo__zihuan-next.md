@@ -1,6 +1,6 @@
 # FredYakumo/zihuan-next
 
-⭐ 39 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/FredYakumo/zihuan-next) · 个人维护 · 中文 README
+⭐ 41 · Rust · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/FredYakumo/zihuan-next) · 个人维护 · 中文 README
 
 **Rust 实现的可定制 AI Agent 平台，含写码与 QQ 机器人 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FredYakumo/zihuan-next 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    title "FredYakumo/zihuan-next 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 39, 37, 40, 41, 41]
 ```
 
-2026-10-18 37 → 2026-11-02 39（+2）
+2026-10-18 37 → 2026-11-17 41（+4）
 
 
 ---

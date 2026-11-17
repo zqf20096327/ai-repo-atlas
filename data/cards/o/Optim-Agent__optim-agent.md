@@ -1,6 +1,6 @@
 # Optim-Agent/optim-agent
 
-⭐ 799 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Optim-Agent/optim-agent) · [官网](https://optim-agent.github.io/optim-agent/) · 组织维护 · 中文 README
+⭐ 796 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Optim-Agent/optim-agent) · [官网](https://optim-agent.github.io/optim-agent/) · 组织维护 · 中文 README
 
 **让 Claude Code/Codex 等 coding agent 充当超参数优化器的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Optim-Agent/optim-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 796 --> 801
-    line [800, 797, 798, 799, 799]
+    title "Optim-Agent/optim-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 795 --> 801
+    line [800, 797, 798, 799, 797, 798, 799, 798, 796, 796]
 ```
 
-2026-10-18 800 → 2026-11-02 799（-1）
+2026-10-18 800 → 2026-11-17 796（-4）
 
 
 ---

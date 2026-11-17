@@ -1,6 +1,6 @@
 # yiwenlu66/PiloTY
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/yiwenlu66/PiloTY) · 个人维护
+⭐ 44 · Python · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/yiwenlu66/PiloTY) · 个人维护
 
 **给 AI agent 提供持久交互式终端的 MCP 服务器**
 
@@ -45,13 +45,13 @@ PiloTY 是一个 MCP server，通过 stdio 由 MCP 客户端启动，为 agent �
 
 ```mermaid
 xychart-beta
-    title "yiwenlu66/PiloTY 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "yiwenlu66/PiloTY 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 44（-1）
 
 
 ---

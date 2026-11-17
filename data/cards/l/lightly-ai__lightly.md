@@ -1,6 +1,6 @@
 # lightly-ai/lightly
 
-⭐ 3,826 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lightly-ai/lightly) · [官网](https://docs.lightly.ai/self-supervised-learning/) · 组织维护
+⭐ 3,832 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/lightly-ai/lightly) · [官网](https://docs.lightly.ai/self-supervised-learning/) · 组织维护
 
 **图像自监督学习框架：在自有数据上预训练视觉模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lightly-ai/lightly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3820 --> 3827
-    line [3821, 3822, 3823, 3825, 3826, 3826]
+    title "lightly-ai/lightly 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 3820 --> 3834
+    line [3821, 3822, 3823, 3825, 3826, 3822, 3831, 3832, 3831, 3833, 3832, 3832]
 ```
 
-2026-10-18 3,821 → 2026-11-02 3,826（+5）
+2026-10-18 3,821 → 2026-11-17 3,832（+11）
 
 
 ---

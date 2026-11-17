@@ -1,6 +1,6 @@
 # VoxelCubes/PanelCleaner
 
-⭐ 489 · Python · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/VoxelCubes/PanelCleaner) · 个人维护
+⭐ 491 · Python · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/VoxelCubes/PanelCleaner) · 个人维护
 
 **用机器学习自动清除漫画气泡文字的清理工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoxelCubes/PanelCleaner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 485 --> 490
-    line [486, 487, 488, 489, 489]
+    title "VoxelCubes/PanelCleaner 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 485 --> 492
+    line [486, 487, 488, 489, 487, 489, 490, 491, 490, 491, 491]
 ```
 
-2026-10-18 486 → 2026-11-02 489（+3）
+2026-10-18 486 → 2026-11-17 491（+5）
 
 
 ---

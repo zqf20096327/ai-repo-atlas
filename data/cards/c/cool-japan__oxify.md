@@ -1,6 +1,6 @@
 # cool-japan/oxify
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/cool-japan/oxify) · [官网](https://github.com/cool-japan/oxify) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Rust 编写的图式 LLM 工作流编排平台，用 DAG 组合 AI 应用**
 
@@ -11,7 +11,7 @@ OxiFY 是基于 Rust 的工作区项目（13 个 crate），以有向无环图�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ OxiFY 是基于 Rust 的工作区项目（13 个 crate），以有向无环图�
 ```mermaid
 xychart-beta
     title "cool-japan/oxify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-12 14（+0）
 
 
 ---

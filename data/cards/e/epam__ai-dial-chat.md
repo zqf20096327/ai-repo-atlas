@@ -1,6 +1,6 @@
 # epam/ai-dial-chat
 
-⭐ 502 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/epam/ai-dial-chat) · [官网](https://chat.dialx.ai) · 组织维护
+⭐ 501 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/epam/ai-dial-chat) · [官网](https://chat.dialx.ai) · 组织维护
 
 **EPAM AI DIAL 平台的默认聊天前端（React + NestJS）**
 
@@ -45,13 +45,13 @@ Nx monorepo 全栈聊天应用：React 19 + Vite + Tailwind 前端、NestJS REST
 
 ```mermaid
 xychart-beta
-    title "epam/ai-dial-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 501 --> 506
-    line [505, 502, 502]
+    title "epam/ai-dial-chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 500 --> 506
+    line [505, 502, 501, 501]
 ```
 
-2026-10-18 505 → 2026-11-02 502（-3）
+2026-10-18 505 → 2026-11-17 501（-4）
 
 
 ---

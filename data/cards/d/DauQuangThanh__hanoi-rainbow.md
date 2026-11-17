@@ -1,6 +1,6 @@
 # DauQuangThanh/hanoi-rainbow
 
-⭐ 17 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/DauQuangThanh/hanoi-rainbow) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/DauQuangThanh/hanoi-rainbow) · 个人维护
 
 **面向 AI 编程代理的规格驱动开发工作流框架**
 
@@ -44,13 +44,13 @@ Hanoi Rainbow 是一套 Spec-Driven Development 框架：通过 rainbow CLI 初�
 
 ```mermaid
 xychart-beta
-    title "DauQuangThanh/hanoi-rainbow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "DauQuangThanh/hanoi-rainbow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

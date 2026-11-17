@@ -1,6 +1,6 @@
 # l-gevity/l-gevity-skills
 
-⭐ 72 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/l-gevity/l-gevity-skills) · [官网](https://l-gevity.nl) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/l-gevity/l-gevity-skills) · [官网](https://l-gevity.nl) · 个人维护
 
 **给编程 agent 的软件架构思维技能库（23 个技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "l-gevity/l-gevity-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 42 --> 74
-    line [44, 49, 71, 72, 72]
+    title "l-gevity/l-gevity-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 40 --> 92
+    line [44, 49, 71, 72, 44, 80, 81, 88, 88]
 ```
 
-2026-10-18 44 → 2026-11-02 72（+28）
+2026-10-18 44 → 2026-11-17 88（+44）
 
 
 ---

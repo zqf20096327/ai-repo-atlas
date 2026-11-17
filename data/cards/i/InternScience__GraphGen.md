@@ -1,6 +1,6 @@
 # InternScience/GraphGen
 
-⭐ 1,237 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/InternScience/GraphGen) · [官网](https://chenzihong.gitbook.io/graphgen-cookbook/) · 组织维护 · 中文 README
+⭐ 1,236 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/InternScience/GraphGen) · [官网](https://chenzihong.gitbook.io/graphgen-cookbook/) · 组织维护 · 中文 README
 
 **知识图谱引导的 LLM 训练合成数据生成框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternScience/GraphGen 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1231 --> 1238
-    line [1232, 1233, 1235, 1236, 1235, 1236, 1237, 1237]
+    title "InternScience/GraphGen 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1230 --> 1238
+    line [1232, 1233, 1235, 1236, 1235, 1236, 1237, 1235, 1231, 1233, 1234, 1235, 1236, 1236]
 ```
 
-2026-10-18 1,232 → 2026-11-02 1,237（+5）
+2026-10-18 1,232 → 2026-11-17 1,236（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # thiagomendes/mcpx
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/thiagomendes/mcpx) · [官网](https://www.tmdevlab.com/mcpx-gateway-incubating.html) · 个人维护
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/thiagomendes/mcpx) · [官网](https://www.tmdevlab.com/mcpx-gateway-incubating.html) · 个人维护
 
 **企业自托管 MCP 网关：安全连接 AI agent 与 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thiagomendes/mcpx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "thiagomendes/mcpx 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mjjo16/marmonitor
 
-⭐ 27 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/mjjo16/marmonitor) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/mjjo16/marmonitor) · 个人维护 · 中文 README
 
 **tmux 状态栏监控器：实时追踪 Claude/Codex/Gemini 编码会话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mjjo16/marmonitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 27（+0）
 
 
 ---

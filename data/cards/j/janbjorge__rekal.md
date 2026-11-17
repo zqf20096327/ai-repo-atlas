@@ -1,6 +1,6 @@
 # janbjorge/rekal
 
-⭐ 53 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/janbjorge/rekal) · [官网](https://pypi.org/project/rekal/) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/janbjorge/rekal) · [官网](https://pypi.org/project/rekal/) · 个人维护
 
 **给 AI 编码 agent 的本地长期记忆 MCP 服务器**
 
@@ -44,13 +44,13 @@ rekal 是一个 MCP 服务器，为 Claude Code、Codex CLI、OpenCode、Cursor 
 
 ```mermaid
 xychart-beta
-    title "janbjorge/rekal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "janbjorge/rekal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 52（-1）
 
 
 ---

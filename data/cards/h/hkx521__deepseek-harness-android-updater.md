@@ -1,6 +1,6 @@
 # hkx521/deepseek-harness-android-updater
 
-⭐ 14 · Java · MIT · 推送 2026-09-22 · [GitHub](https://github.com/hkx521/deepseek-harness-android-updater) · 个人维护 · 中文 README
+⭐ 23 · Java · MIT · 推送 2026-09-22 · [GitHub](https://github.com/hkx521/deepseek-harness-android-updater) · 个人维护 · 中文 README
 
 **把 DSH 内核打包成 APK，让 AI 通过 root/Shizuku 操作安卓手机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hkx521/deepseek-harness-android-updater 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 6 --> 15
-    line [7, 9, 10, 11, 13, 14, 14]
+    title "hkx521/deepseek-harness-android-updater 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 6 --> 24
+    line [7, 9, 10, 11, 13, 14, 11, 20, 22, 23, 23]
 ```
 
-2026-10-18 7 → 2026-11-02 14（+7）
+2026-10-18 7 → 2026-11-17 23（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Thinking-Free_Policy_Initialization
 
-⭐ 104 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/Tencent-Hunyuan/Thinking-Free_Policy_Initialization) · 组织维护 · 中文 README
+⭐ 103 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/Tencent-Hunyuan/Thinking-Free_Policy_Initialization) · 组织维护 · 中文 README
 
 **面向研究者的 RLVR 训练方法代码：跳过思考阶段的策略初始化**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文 TFPI 的官方代码，来自腾讯混元与港科大、港大�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Thinking-Free_Policy_Initialization 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "Tencent-Hunyuan/Thinking-Free_Policy_Initialization 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    line [103, 104, 103, 103]
 ```
 
-2026-10-18 103 → 2026-11-02 104（+1）
+2026-10-18 103 → 2026-11-17 103（+0）
 
 
 ---

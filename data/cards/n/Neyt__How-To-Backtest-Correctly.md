@@ -1,6 +1,6 @@
 # Neyt/How-To-Backtest-Correctly
 
-⭐ 16 · MIT · 推送 2026-03-05 · [GitHub](https://github.com/Neyt/How-To-Backtest-Correctly) · 个人维护
+⭐ 18 · MIT · 推送 2026-03-05 · [GitHub](https://github.com/Neyt/How-To-Backtest-Correctly) · 个人维护
 
 **量化回测方法论库：实现 AFML 的标签、CV 与统计检验工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Neyt/How-To-Backtest-Correctly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Neyt/How-To-Backtest-Correctly 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

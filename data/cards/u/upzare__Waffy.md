@@ -1,6 +1,6 @@
 # upzare/Waffy
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/upzare/Waffy) · [官网](https://waffy.io) · 个人维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/upzare/Waffy) · [官网](https://waffy.io) · 个人维护
 
 **浏览器侧边栏 AI 自动化扩展：自然语言驱动网页操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "upzare/Waffy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "upzare/Waffy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

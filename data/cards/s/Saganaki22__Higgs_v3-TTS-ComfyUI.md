@@ -1,6 +1,6 @@
 # Saganaki22/Higgs_v3-TTS-ComfyUI
 
-⭐ 74 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI) · [官网](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) · 个人维护 · 中文 README
+⭐ 76 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI) · [官网](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) · 个人维护 · 中文 README
 
 **在 ComfyUI 中运行 Higgs Audio v3 多语种 TTS 的节点包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/Higgs_v3-TTS-ComfyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "Saganaki22/Higgs_v3-TTS-ComfyUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [74, 75, 76, 76]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 76（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # JonathanQUANLEE/JobKoi-AI
 
-⭐ 23 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/JonathanQUANLEE/JobKoi-AI) · [官网](https://jonathanquanlee.github.io/bosszhipin-job-bot-site/) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/JonathanQUANLEE/JobKoi-AI) · [官网](https://jonathanquanlee.github.io/bosszhipin-job-bot-site/) · 个人维护 · 中文 README
 
 **求职者的多平台自动化投递桌面客户端，带 AI 管家与简历精修**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JonathanQUANLEE/JobKoi-AI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 15 --> 24
-    line [16, 17, 18, 19, 20, 21, 23, 23]
+    title "JonathanQUANLEE/JobKoi-AI 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 31
+    line [16, 17, 18, 19, 20, 21, 23, 20, 29, 30, 30]
 ```
 
-2026-10-18 16 → 2026-11-02 23（+7）
+2026-10-18 16 → 2026-11-17 30（+14）
 
 
 ---

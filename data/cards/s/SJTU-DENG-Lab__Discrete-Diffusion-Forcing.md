@@ -1,6 +1,6 @@
 # SJTU-DENG-Lab/Discrete-Diffusion-Forcing
 
-⭐ 263 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/SJTU-DENG-Lab/Discrete-Diffusion-Forcing) · [官网](https://SJTU-DENG-Lab.github.io/Discrete-Diffusion-Forcing/) · 组织维护 · 中文 README
+⭐ 264 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/SJTU-DENG-Lab/Discrete-Diffusion-Forcing) · [官网](https://SJTU-DENG-Lab.github.io/Discrete-Diffusion-Forcing/) · 组织维护 · 中文 README
 
 **加速扩散语言模型推理的训练与推理范式（D2F）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SJTU-DENG-Lab/Discrete-Diffusion-Forcing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    title "SJTU-DENG-Lab/Discrete-Diffusion-Forcing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 262 --> 265
+    line [263, 264, 264]
 ```
 
-2026-10-18 263 → 2026-11-02 263（+0）
+2026-10-18 263 → 2026-11-17 264（+1）
 
 
 ---

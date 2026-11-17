@@ -1,6 +1,6 @@
 # tbosancheros39/opencode-thinking-fix
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tbosancheros39/opencode-thinking-fix) · [官网](https://www.npmjs.com/package/opencode-thinking-fix) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tbosancheros39/opencode-thinking-fix) · [官网](https://www.npmjs.com/package/opencode-thinking-fix) · 个人维护 · 中文 README
 
 **修复 OpenCode 多轮对话中 reasoning_content 丢失的插件/代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tbosancheros39/opencode-thinking-fix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "tbosancheros39/opencode-thinking-fix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

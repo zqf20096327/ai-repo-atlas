@@ -1,6 +1,6 @@
 # bi-boo/claude-model-fingerprint
 
-⭐ 80 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/bi-boo/claude-model-fingerprint) · 个人维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/bi-boo/claude-model-fingerprint) · 个人维护 · 中文 README
 
 **个人 Claude Code Skills 合集：内容创作、会议处理等 8 个技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bi-boo/claude-model-fingerprint 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02"]
+    title "bi-boo/claude-model-fingerprint 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-17"]
     y-axis "stars" 78 --> 82
-    line [79, 80, 81, 80, 80]
+    line [79, 80, 81, 80, 81, 81]
 ```
 
-2026-10-18 79 → 2026-11-02 80（+1）
+2026-10-18 79 → 2026-11-17 81（+2）
 
 
 ---

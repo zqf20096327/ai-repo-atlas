@@ -1,6 +1,6 @@
 # cognicore-dev/cognicore-env
 
-⭐ 81 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cognicore-dev/cognicore-env) · [官网](https://www.cognicoree.tech/) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cognicore-dev/cognicore-env) · [官网](https://www.cognicoree.tech/) · 组织维护
 
 **给 AI agent 的持久记忆、反思与安全层 Python 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cognicore-dev/cognicore-env 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 76 --> 82
-    line [77, 79, 81, 80, 81, 81]
+    title "cognicore-dev/cognicore-env 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 76 --> 85
+    line [77, 79, 81, 80, 81, 82, 83, 84, 84]
 ```
 
-2026-10-18 77 → 2026-11-02 81（+4）
+2026-10-18 77 → 2026-11-17 84（+7）
 
 
 ---

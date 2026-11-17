@@ -1,6 +1,6 @@
 # RManLuo/gfm-rag
 
-⭐ 310 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/RManLuo/gfm-rag) · [官网](https://rmanluo.github.io/gfm-rag/) · 个人维护 · 中文 README
+⭐ 315 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/RManLuo/gfm-rag) · [官网](https://rmanluo.github.io/gfm-rag/) · 个人维护 · 中文 README
 
 **面向开发者的图基础模型 RAG 检索框架，图上多跳推理检索文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RManLuo/gfm-rag 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 305 --> 311
-    line [306, 307, 308, 309, 310, 310]
+    title "RManLuo/gfm-rag 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 305 --> 316
+    line [306, 307, 308, 309, 310, 307, 313, 314, 315, 315]
 ```
 
-2026-10-18 306 → 2026-11-02 310（+4）
+2026-10-18 306 → 2026-11-17 315（+9）
 
 
 ---

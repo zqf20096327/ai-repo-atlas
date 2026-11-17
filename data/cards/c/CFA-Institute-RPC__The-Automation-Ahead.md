@@ -1,6 +1,6 @@
 # CFA-Institute-RPC/The-Automation-Ahead
 
-⭐ 73 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/CFA-Institute-RPC/The-Automation-Ahead) · 组织维护
+⭐ 74 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/CFA-Institute-RPC/The-Automation-Ahead) · 组织维护
 
 **CFA 协会 GenAI 投资应用系列配套代码与教程仓库**
 
@@ -44,13 +44,13 @@ CFA Institute Research & Policy Center 的 Automation Ahead 内容系列配套�
 
 ```mermaid
 xychart-beta
-    title "CFA-Institute-RPC/The-Automation-Ahead 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    title "CFA-Institute-RPC/The-Automation-Ahead 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 72, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

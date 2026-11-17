@@ -1,6 +1,6 @@
 # Optimization-AI/LibAUC
 
-⭐ 324 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Optimization-AI/LibAUC) · [官网](https://libauc.org/) · 组织维护
+⭐ 323 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Optimization-AI/LibAUC) · [官网](https://libauc.org/) · 组织维护
 
 **面向 X-Risk 优化的深度学习损失与优化器库**
 
@@ -44,13 +44,13 @@ LibAUC 是基于 PyTorch 的深度学习库，围绕 X-Risk 优化提供统一�
 
 ```mermaid
 xychart-beta
-    title "Optimization-AI/LibAUC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 323 --> 325
-    line [324, 324]
+    title "Optimization-AI/LibAUC 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 322 --> 325
+    line [324, 323, 323]
 ```
 
-2026-10-18 324 → 2026-11-02 324（+0）
+2026-10-18 324 → 2026-11-17 323（-1）
 
 
 ---

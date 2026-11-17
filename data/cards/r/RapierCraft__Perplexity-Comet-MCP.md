@@ -1,6 +1,6 @@
 # RapierCraft/Perplexity-Comet-MCP
 
-⭐ 53 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/RapierCraft/Perplexity-Comet-MCP) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/RapierCraft/Perplexity-Comet-MCP) · 个人维护
 
 **连接 Claude Code 与 Perplexity Comet 浏览器的 MCP 服务器**
 
@@ -45,13 +45,13 @@ hanzili/comet-mcp 的增强分支：以 MCP 服务器形式桥接 Claude Code �
 
 ```mermaid
 xychart-beta
-    title "RapierCraft/Perplexity-Comet-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    title "RapierCraft/Perplexity-Comet-MCP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 52, 53, 54, 54]
 ```
 
-2026-10-18 51 → 2026-11-02 53（+2）
+2026-10-18 51 → 2026-11-17 54（+3）
 
 
 ---

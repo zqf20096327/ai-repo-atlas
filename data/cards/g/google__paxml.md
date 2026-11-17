@@ -1,6 +1,6 @@
 # google/paxml
 
-⭐ 560 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/paxml) · 组织维护
+⭐ 561 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/paxml) · 组织维护
 
 **给大模型训练研究者的 Jax 大规模训练框架**
 
@@ -44,13 +44,13 @@ Google 维护的基于 Jax 的机器学习实验框架，用于配置与运行�
 
 ```mermaid
 xychart-beta
-    title "google/paxml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 559 --> 561
-    line [560, 560]
+    title "google/paxml 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 559 --> 562
+    line [560, 561, 561]
 ```
 
-2026-10-18 560 → 2026-11-02 560（+0）
+2026-10-18 560 → 2026-11-17 561（+1）
 
 
 ---

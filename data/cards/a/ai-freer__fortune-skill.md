@@ -1,6 +1,6 @@
 # ai-freer/fortune-skill
 
-⭐ 40 · JavaScript · NOASSERTION · 推送 2026-05-07 · [GitHub](https://github.com/ai-freer/fortune-skill) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/ai-freer/fortune-skill) · 个人维护 · 中文 README
 
 **给 agent 平台的中国传统命理分析技能（八字+紫微斗数）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-freer/fortune-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 33 --> 41
-    line [34, 35, 37, 40, 40]
+    title "ai-freer/fortune-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 33 --> 45
+    line [34, 35, 37, 40, 35, 41, 43, 44, 44]
 ```
 
-2026-10-18 34 → 2026-11-02 40（+6）
+2026-10-18 34 → 2026-11-17 44（+10）
 
 
 ---

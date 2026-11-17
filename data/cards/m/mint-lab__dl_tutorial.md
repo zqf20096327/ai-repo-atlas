@@ -1,6 +1,6 @@
 # mint-lab/dl_tutorial
 
-⭐ 17 · 推送 2026-09-08 · [GitHub](https://github.com/mint-lab/dl_tutorial) · 组织维护
+⭐ 17 · 推送 2026-11-11 · [GitHub](https://github.com/mint-lab/dl_tutorial) · 组织维护
 
 **面向本科生的机器学习与深度学习入门教程（幻灯片+示例代码）**
 
@@ -45,13 +45,13 @@ SEOULTECH 教学用 ML/DL 教程仓库，含讲义幻灯片与配套示例代码
 
 ```mermaid
 xychart-beta
-    title "mint-lab/dl_tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "mint-lab/dl_tutorial 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [17, 16, 17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

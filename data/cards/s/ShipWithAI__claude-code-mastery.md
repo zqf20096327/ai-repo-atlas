@@ -1,6 +1,6 @@
 # ShipWithAI/claude-code-mastery
 
-⭐ 100 · MDX · MIT · 推送 2026-10-01 · [GitHub](https://github.com/ShipWithAI/claude-code-mastery) · [官网](https://course.shipwithai.io) · 组织维护
+⭐ 102 · MDX · MIT · 推送 2026-10-01 · [GitHub](https://github.com/ShipWithAI/claude-code-mastery) · [官网](https://course.shipwithai.io) · 组织维护
 
 **面向开发者的 Claude Code 系统化免费课程（16 阶段 64 模块）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShipWithAI/claude-code-mastery 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 94 --> 101
-    line [95, 96, 97, 98, 99, 100, 100]
+    title "ShipWithAI/claude-code-mastery 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 94 --> 103
+    line [95, 96, 97, 98, 99, 100, 99, 101, 102, 102]
 ```
 
-2026-10-18 95 → 2026-11-02 100（+5）
+2026-10-18 95 → 2026-11-17 102（+7）
 
 
 ---

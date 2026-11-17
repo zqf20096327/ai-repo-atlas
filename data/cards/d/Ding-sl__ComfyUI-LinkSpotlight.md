@@ -1,6 +1,6 @@
 # Ding-sl/ComfyUI-LinkSpotlight
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Ding-sl/ComfyUI-LinkSpotlight) · [官网](https://www.patreon.com/Dingsl) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Ding-sl/ComfyUI-LinkSpotlight) · [官网](https://www.patreon.com/Dingsl) · 个人维护
 
 **ComfyUI 前端扩展：一键高亮选中节点相关连线，隐藏其余连线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ding-sl/ComfyUI-LinkSpotlight 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "Ding-sl/ComfyUI-LinkSpotlight 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

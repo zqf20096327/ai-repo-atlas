@@ -1,6 +1,6 @@
 # RxNaison/Gemini-Pro
 
-⭐ 80 · Kotlin · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/RxNaison/Gemini-Pro) · 个人维护
+⭐ 81 · Kotlin · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/RxNaison/Gemini-Pro) · 个人维护
 
 **访问 Google AI Studio 的 Android WebView 客户端，附增强功能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RxNaison/Gemini-Pro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 77 --> 81
-    line [78, 79, 80, 80]
+    title "RxNaison/Gemini-Pro 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 77 --> 82
+    line [78, 79, 80, 79, 80, 81, 81]
 ```
 
-2026-10-18 78 → 2026-11-02 80（+2）
+2026-10-18 78 → 2026-11-17 81（+3）
 
 
 ---

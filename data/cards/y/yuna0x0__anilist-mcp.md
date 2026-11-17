@@ -1,6 +1,6 @@
 # yuna0x0/anilist-mcp
 
-⭐ 92 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/yuna0x0/anilist-mcp) · [官网](https://www.npmjs.com/package/anilist-mcp) · 个人维护
+⭐ 90 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/yuna0x0/anilist-mcp) · [官网](https://www.npmjs.com/package/anilist-mcp) · 个人维护
 
 **给 LLM 客户端接入 AniList 动漫漫画数据的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuna0x0/anilist-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    title "yuna0x0/anilist-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 89 --> 93
+    line [91, 92, 91, 90, 90]
 ```
 
-2026-10-18 91 → 2026-11-02 92（+1）
+2026-10-18 91 → 2026-11-17 90（-1）
 
 
 ---

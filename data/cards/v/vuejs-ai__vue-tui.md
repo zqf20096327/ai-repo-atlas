@@ -1,6 +1,6 @@
 # vuejs-ai/vue-tui
 
-⭐ 367 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/vuejs-ai/vue-tui) · 组织维护
+⭐ 370 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/vuejs-ai/vue-tui) · 组织维护
 
 **用 Vue 构建交互式终端 UI 的应用框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vuejs-ai/vue-tui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 365 --> 368
-    line [366, 367, 367]
+    title "vuejs-ai/vue-tui 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 365 --> 371
+    line [366, 367, 366, 368, 369, 370, 370]
 ```
 
-2026-10-18 366 → 2026-11-02 367（+1）
+2026-10-18 366 → 2026-11-17 370（+4）
 
 
 ---

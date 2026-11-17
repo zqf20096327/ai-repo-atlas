@@ -1,6 +1,6 @@
 # ao92265/claude-code-playbook
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ao92265/claude-code-playbook) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ao92265/claude-code-playbook) · 个人维护
 
 **面向开发者的 Claude Code 实战手册：技能、钩子与模板合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ao92265/claude-code-playbook 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-23", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-02 13（+0）
+2026-10-23 13 → 2026-11-17 13（+0）
 
 
 ---

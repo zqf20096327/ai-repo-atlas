@@ -1,6 +1,6 @@
 # pan-nie/Nmail
 
-⭐ 15 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/pan-nie/Nmail) · [官网](https://nmail.whizzzest.com) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/pan-nie/Nmail) · [官网](https://nmail.whizzzest.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 邮件客户端：多账号聚合、AI 分类代管**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pan-nie/Nmail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "pan-nie/Nmail 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

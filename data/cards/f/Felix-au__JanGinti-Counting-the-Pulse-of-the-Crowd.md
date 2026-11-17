@@ -1,6 +1,6 @@
 # Felix-au/JanGinti-Counting-the-Pulse-of-the-Crowd
 
-⭐ 21 · Jupyter Notebook · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Felix-au/JanGinti-Counting-the-Pulse-of-the-Crowd) · [官网](https://janginti.felixau.in) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Felix-au/JanGinti-Counting-the-Pulse-of-the-Crowd) · [官网](https://janginti.felixau.in) · 个人维护
 
 **CSRNet 人群密度估计系统：训练+FastAPI 网页模拟器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Felix-au/JanGinti-Counting-the-Pulse-of-the-Crowd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Felix-au/JanGinti-Counting-the-Pulse-of-the-Crowd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

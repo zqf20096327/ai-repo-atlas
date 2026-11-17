@@ -1,6 +1,6 @@
 # wkentaro/imgviz
 
-⭐ 268 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wkentaro/imgviz) · 个人维护
+⭐ 270 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wkentaro/imgviz) · 个人维护
 
 **轻量图像可视化库：为深度学习/视觉任务提供低依赖绘图**
 
@@ -44,13 +44,13 @@ Python 图像可视化工具库，最小依赖仅 cmap/numpy/Pillow（不依赖 
 
 ```mermaid
 xychart-beta
-    title "wkentaro/imgviz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 267 --> 269
-    line [268, 268]
+    title "wkentaro/imgviz 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 267 --> 271
+    line [268, 270, 270]
 ```
 
-2026-10-18 268 → 2026-11-02 268（+0）
+2026-10-18 268 → 2026-11-17 270（+2）
 
 
 ---

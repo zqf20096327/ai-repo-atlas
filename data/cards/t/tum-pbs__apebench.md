@@ -1,6 +1,6 @@
 # tum-pbs/apebench
 
-⭐ 110 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/tum-pbs/apebench) · [官网](https://tum-pbs.github.io/apebench/) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/tum-pbs/apebench) · [官网](https://tum-pbs.github.io/apebench/) · 组织维护
 
 **JAX 基础的 PDE 自回归神经模拟器评测基准套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tum-pbs/apebench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 110]
+    title "tum-pbs/apebench 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 108 --> 113
+    line [109, 110, 109, 111, 112, 112]
 ```
 
-2026-10-18 109 → 2026-11-02 110（+1）
+2026-10-18 109 → 2026-11-17 112（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # alifanov/scopegate
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alifanov/scopegate) · [官网](https://scopegate.dev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alifanov/scopegate) · [官网](https://scopegate.dev) · 个人维护
 
 **AI 代理的细粒度权限网关，按动作粒度下发 MCP 端点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alifanov/scopegate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # psmarter/mini-infer
 
-⭐ 237 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/psmarter/mini-infer) · [官网](https://smarter.xin/) · 个人维护 · 中文 README
+⭐ 221 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/psmarter/mini-infer) · [官网](https://smarter.xin/) · 个人维护 · 中文 README
 
 **从零实现的 LLM 推理引擎，含分页 KV 缓存与 OpenAI 兼容服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "psmarter/mini-infer 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 234 --> 238
-    line [235, 236, 237, 237]
+    title "psmarter/mini-infer 星数(近 6 点)"
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 219 --> 238
+    line [235, 236, 237, 220, 221, 221]
 ```
 
-2026-10-29 235 → 2026-11-02 237（+2）
+2026-10-29 235 → 2026-11-17 221（-14）
 
 
 ---

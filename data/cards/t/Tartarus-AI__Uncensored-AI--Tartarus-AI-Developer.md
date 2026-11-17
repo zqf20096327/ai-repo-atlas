@@ -1,6 +1,6 @@
 # Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer
 
-⭐ 152 · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer) · [官网](https://tartarusai.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **付费的终端 AI 编程代理，主打不拒绝的编码助手**
 
@@ -11,7 +11,7 @@ TartarusAI 提供名为 tartarusai-cli 的终端客户端，连接其无内容�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ TartarusAI 提供名为 tartarusai-cli 的终端客户端，连接其无内容�
 
 ```mermaid
 xychart-beta
-    title "Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 151 --> 165
-    line [164, 152, 152]
+    title "Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11"]
+    y-axis "stars" 105 --> 169
+    line [164, 152, 113, 110, 110]
 ```
 
-2026-10-18 164 → 2026-11-02 152（-12）
+2026-10-18 164 → 2026-11-11 110（-54）
 
 
 ---

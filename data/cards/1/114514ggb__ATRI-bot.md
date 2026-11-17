@@ -1,6 +1,6 @@
 # 114514ggb/ATRI-bot
 
-⭐ 66 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/114514ggb/ATRI-bot) · [官网](https://xn--jlq249bliy.top/) · 个人维护 · 中文 README
+⭐ 70 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/114514ggb/ATRI-bot) · [官网](https://xn--jlq249bliy.top/) · 个人维护 · 中文 README
 
 **给 QQ 群聊用户的深度定制 LLM 聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "114514ggb/ATRI-bot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 63 --> 67
-    line [64, 65, 66, 66]
+    title "114514ggb/ATRI-bot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 63 --> 71
+    line [64, 65, 66, 67, 68, 69, 70, 70]
 ```
 
-2026-10-18 64 → 2026-11-02 66（+2）
+2026-10-18 64 → 2026-11-17 70（+6）
 
 
 ---

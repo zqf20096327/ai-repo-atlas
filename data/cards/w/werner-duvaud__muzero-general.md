@@ -1,6 +1,6 @@
 # werner-duvaud/muzero-general
 
-⭐ 2,878 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/werner-duvaud/muzero-general) · [官网](https://github.com/werner-duvaud/muzero-general/wiki/MuZero-Documentation) · 组织维护
+⭐ 2,881 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/werner-duvaud/muzero-general) · [官网](https://github.com/werner-duvaud/muzero-general/wiki/MuZero-Documentation) · 组织维护
 
 **面向教学的 MuZero 通用实现：在自定义环境中训练规划智能体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "werner-duvaud/muzero-general 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2876 --> 2879
-    line [2877, 2878, 2878]
+    title "werner-duvaud/muzero-general 星数(近 7 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 2876 --> 2882
+    line [2877, 2878, 2880, 2879, 2880, 2881, 2881]
 ```
 
-2026-10-30 2,877 → 2026-11-02 2,878（+1）
+2026-10-30 2,877 → 2026-11-17 2,881（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # crazyyanchao/llmcompiler
 
-⭐ 65 · Python · Apache-2.0 · 推送 2025-11-06 · [GitHub](https://github.com/crazyyanchao/llmcompiler) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Agent 架构：将 LLM 工具调用编排为 DAG 并行执行**
 
@@ -11,7 +11,7 @@ LLMCompiler 是一种 Agent 架构实现：Planner 将用户请求解析为任�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ LLMCompiler 是一种 Agent 架构实现：Planner 将用户请求解析为任�
 ```mermaid
 xychart-beta
     title "crazyyanchao/llmcompiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-07 65（+0）
 
 
 ---

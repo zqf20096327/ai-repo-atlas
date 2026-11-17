@@ -1,6 +1,6 @@
 # EvannZhongg/Nosis
 
-⭐ 117 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/EvannZhongg/Nosis) · 个人维护 · 中文 README
+⭐ 103 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/EvannZhongg/Nosis) · 个人维护 · 中文 README
 
 **个人本地 AI agent 应用：沙箱执行、桌面操作与长期记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvannZhongg/Nosis 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "EvannZhongg/Nosis 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 0 --> 269
-    line [246, 10, 16, 67, 117, 117]
+    line [246, 10, 16, 67, 117, 10, 103, 103]
 ```
 
-2026-10-22 246 → 2026-11-02 117（-129）
+2026-10-22 246 → 2026-11-17 103（-143）
 
 
 ---

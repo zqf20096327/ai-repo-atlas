@@ -1,6 +1,6 @@
 # the-cog-dev/cog
 
-⭐ 20 · TypeScript · 推送 2026-07-29 · [GitHub](https://github.com/the-cog-dev/cog) · [官网](https://TheCog.dev) · 组织维护
+⭐ 22 · TypeScript · 推送 2026-07-29 · [GitHub](https://github.com/the-cog-dev/cog) · [官网](https://TheCog.dev) · 组织维护
 
 **面向开发者的多 AI 编程 agent 编排 IDE**
 
@@ -44,13 +44,13 @@ The Cog 是基于 Electron/TypeScript 的桌面 IDE，用于编排多个 AI 编�
 
 ```mermaid
 xychart-beta
-    title "the-cog-dev/cog 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "the-cog-dev/cog 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 19, 21, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

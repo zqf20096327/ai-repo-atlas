@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/All-AI-Coursera-Courses
 
-⭐ 47 · 推送 2026-05-07 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-AI-Coursera-Courses) · [官网](https://www.coursera.org/learner/mirza-yasir-abdullah-baig) · 个人维护
+⭐ 46 · 推送 2026-05-07 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-AI-Coursera-Courses) · [官网](https://www.coursera.org/learner/mirza-yasir-abdullah-baig) · 个人维护
 
 **个人 AI/数据科学一年学习与证书成果记录**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/All-AI-Coursera-Courses 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/All-AI-Coursera-Courses 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    line [46, 47, 46, 47, 46, 46]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 46（+0）
 
 
 ---

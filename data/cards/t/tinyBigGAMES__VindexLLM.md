@@ -1,6 +1,6 @@
 # tinyBigGAMES/VindexLLM
 
-⭐ 72 · Pascal · NOASSERTION · 推送 2026-04-21 · [GitHub](https://github.com/tinyBigGAMES/VindexLLM) · 组织维护
+⭐ 75 · Pascal · NOASSERTION · 推送 2026-04-21 · [GitHub](https://github.com/tinyBigGAMES/VindexLLM) · 组织维护
 
 **纯 Delphi 编写的 GPU LLM 推理引擎，Vulkan 运行 GGUF 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinyBigGAMES/VindexLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    title "tinyBigGAMES/VindexLLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 70 --> 76
+    line [71, 72, 75, 75]
 ```
 
-2026-10-18 71 → 2026-11-02 72（+1）
+2026-10-18 71 → 2026-11-17 75（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # UditAkhourii/brane-code
 
-⭐ 97 · TypeScript · 推送 2026-03-31 · [GitHub](https://github.com/UditAkhourii/brane-code) · [官网](https://gobrane.com) · 个人维护
+⭐ 99 · TypeScript · 推送 2026-03-31 · [GitHub](https://github.com/UditAkhourii/brane-code) · [官网](https://gobrane.com) · 个人维护
 
 **终端里的模型无关 AI 编码运行时，执行多步编码任务**
 
@@ -45,13 +45,13 @@ CLI 形态的 AI 编码运行时：接受自然语言指令，规划并执行多
 
 ```mermaid
 xychart-beta
-    title "UditAkhourii/brane-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 96 --> 99
-    line [98, 97, 97]
+    title "UditAkhourii/brane-code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 96 --> 100
+    line [98, 97, 98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 97（-1）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

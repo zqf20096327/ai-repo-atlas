@@ -1,6 +1,6 @@
 # cannlytics/cannlytics
 
-⭐ 84 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cannlytics/cannlytics) · [官网](https://cannlytics.com) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/cannlytics/cannlytics) · [官网](https://cannlytics.com) · 组织维护
 
 **大麻行业数据分析 Python 库：COA 解析、实验室结果与 Metrc 合规数据**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cannlytics/cannlytics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 82 --> 85
     line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-02 84（+1）
+2026-10-18 83 → 2026-11-17 84（+1）
 
 
 ---

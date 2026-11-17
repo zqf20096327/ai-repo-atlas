@@ -1,6 +1,6 @@
 # Amal-David/docingest
 
-⭐ 21 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Amal-David/docingest) · [官网](https://docingest.com) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Amal-David/docingest) · [官网](https://docingest.com) · 个人维护
 
 **将文档站点转为可搜索、MCP 可访问上下文的开源引擎**
 
@@ -45,13 +45,13 @@ DocIngest 爬取文档站点，以 markdown 形式版本化存储，用 Redis �
 
 ```mermaid
 xychart-beta
-    title "Amal-David/docingest 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "Amal-David/docingest 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

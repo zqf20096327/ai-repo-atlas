@@ -1,6 +1,6 @@
 # BindsNET/bindsnet
 
-⭐ 1,706 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/BindsNET/bindsnet) · 组织维护
+⭐ 1,707 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/BindsNET/bindsnet) · 组织维护
 
 **基于 PyTorch 的脉冲神经网络（SNN）仿真库，面向 ML/RL 研究**
 
@@ -46,13 +46,13 @@ Python 仿真库，用 PyTorch Tensor 在 CPU/GPU 上模拟脉冲神经网络，
 
 ```mermaid
 xychart-beta
-    title "BindsNET/bindsnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1705 --> 1708
-    line [1706, 1707, 1706, 1706]
+    title "BindsNET/bindsnet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1705 --> 1709
+    line [1706, 1707, 1706, 1707, 1708, 1707, 1707]
 ```
 
-2026-10-18 1,706 → 2026-11-02 1,706（+0）
+2026-10-18 1,706 → 2026-11-17 1,707（+1）
 
 
 ---

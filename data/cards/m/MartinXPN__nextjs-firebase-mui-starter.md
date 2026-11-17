@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MartinXPN/nextjs-firebase-mui-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "MartinXPN/nextjs-firebase-mui-starter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

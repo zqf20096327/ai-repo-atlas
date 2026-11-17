@@ -1,6 +1,6 @@
 # ashnkumar/sketch-code
 
-⭐ 5,144 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/ashnkumar/sketch-code) · 个人维护
+⭐ 5,140 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/ashnkumar/sketch-code) · 个人维护
 
 **从手绘网页线框图生成 HTML 代码的 Keras 深度学习模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashnkumar/sketch-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 5141 --> 5145
-    line [5142, 5143, 5144, 5144]
+    title "ashnkumar/sketch-code 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 5139 --> 5145
+    line [5142, 5143, 5144, 5142, 5143, 5141, 5140, 5140]
 ```
 
-2026-10-18 5,142 → 2026-11-02 5,144（+2）
+2026-10-18 5,142 → 2026-11-17 5,140（-2）
 
 
 ---

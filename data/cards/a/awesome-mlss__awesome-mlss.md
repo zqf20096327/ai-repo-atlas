@@ -1,6 +1,6 @@
 # awesome-mlss/awesome-mlss
 
-⭐ 3,035 · HTML · MIT · 推送 2026-10-20 · [GitHub](https://github.com/awesome-mlss/awesome-mlss) · [官网](https://awesome-mlss.com) · 组织维护
+⭐ 3,036 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/awesome-mlss/awesome-mlss) · [官网](https://awesome-mlss.com) · 组织维护
 
 **追踪全球机器学习暑期学校申请截止日期的社区清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "awesome-mlss/awesome-mlss 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 3032 --> 3036
-    line [3033, 3034, 3035, 3035]
+    title "awesome-mlss/awesome-mlss 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 3032 --> 3037
+    line [3033, 3034, 3035, 3034, 3036, 3035, 3036, 3036]
 ```
 
-2026-10-18 3,033 → 2026-11-02 3,035（+2）
+2026-10-18 3,033 → 2026-11-17 3,036（+3）
 
 
 ---

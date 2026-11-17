@@ -1,6 +1,6 @@
 # agenthatch/agenthatch
 
-⭐ 74 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agenthatch/agenthatch) · 组织维护
+⭐ 73 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agenthatch/agenthatch) · 组织维护
 
 **把 SKILL.md 编译为独立可运行 Python AI Agent 的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenthatch/agenthatch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "agenthatch/agenthatch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 71 --> 75
-    line [72, 73, 74, 74]
+    line [72, 73, 74, 72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 74（+2）
+2026-10-18 72 → 2026-11-17 73（+1）
 
 
 ---

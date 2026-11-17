@@ -1,6 +1,6 @@
 # nithin42/privacylens
 
-⭐ 39 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nithin42/privacylens) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nithin42/privacylens) · 个人维护
 
 **面向开发者的 ML 模型隐私漏洞审计库：检测训练数据泄露风险**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nithin42/privacylens 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-02"]
+    title "nithin42/privacylens 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    line [37, 38, 39, 37, 39, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 39（+2）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

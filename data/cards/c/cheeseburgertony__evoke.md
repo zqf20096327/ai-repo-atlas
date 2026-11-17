@@ -1,6 +1,6 @@
 # cheeseburgertony/evoke
 
-⭐ 165 · TypeScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/cheeseburgertony/evoke) · [官网](https://evoke-mocha.vercel.app) · 个人维护 · 中文 README
+⭐ 160 · TypeScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/cheeseburgertony/evoke) · [官网](https://evoke-mocha.vercel.app) · 个人维护 · 中文 README
 
 **用自然语言对话生成完整 Web 应用并实时预览的平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cheeseburgertony/evoke 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 164 --> 166
-    line [165, 165]
+    title "cheeseburgertony/evoke 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 158 --> 166
+    line [165, 159, 160, 160]
 ```
 
-2026-10-18 165 → 2026-11-02 165（+0）
+2026-10-18 165 → 2026-11-17 160（-5）
 
 
 ---

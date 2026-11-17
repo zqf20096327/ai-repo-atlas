@@ -1,6 +1,6 @@
 # safdev758/agentpackettracer
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/safdev758/agentpackettracer) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/safdev758/agentpackettracer) · 个人维护
 
 **嵌入 Cisco Packet Tracer 的 AI 助手：规划与配置网络实验**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "safdev758/agentpackettracer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "safdev758/agentpackettracer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

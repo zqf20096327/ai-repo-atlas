@@ -1,6 +1,6 @@
 # kisugez/moderator
 
-⭐ 32 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/kisugez/moderator) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/kisugez/moderator) · 个人维护
 
 **BYOK 内容审核 API：自带 AI key，审消息并跟踪违规用户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kisugez/moderator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 31 --> 36
-    line [35, 32, 32]
+    title "kisugez/moderator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 36
+    line [35, 32, 28, 28]
 ```
 
-2026-10-18 35 → 2026-11-02 32（-3）
+2026-10-18 35 → 2026-11-17 28（-7）
 
 
 ---

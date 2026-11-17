@@ -1,6 +1,6 @@
 # sjh9714/krea2-wildcards
 
-⭐ 33 · HTML · MIT · 推送 2026-09-06 · [GitHub](https://github.com/sjh9714/krea2-wildcards) · [官网](https://sjh9714.github.io/krea2-wildcards/) · 个人维护
+⭐ 34 · HTML · MIT · 推送 2026-09-06 · [GitHub](https://github.com/sjh9714/krea2-wildcards) · [官网](https://sjh9714.github.io/krea2-wildcards/) · 个人维护
 
 **514 条 Krea 2 Turbo 提示词库，附生成图与 ComfyUI wildcards**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjh9714/krea2-wildcards 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 30 --> 34
-    line [31, 33, 33]
+    title "sjh9714/krea2-wildcards 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 33, 31, 32, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

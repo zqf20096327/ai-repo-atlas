@@ -1,6 +1,6 @@
 # marimo-team/modernaicourse
 
-⭐ 116 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/marimo-team/modernaicourse) · [官网](https://modernaicourse.org) · 组织维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/marimo-team/modernaicourse) · [官网](https://modernaicourse.org) · 组织维护
 
 **CMU 现代 AI 导论课程配套 notebook 仓库：从零训练 LLM**
 
@@ -43,13 +43,13 @@ CMU 教授 Zico Kolter 的 Intro to Modern AI 课程配套仓库，面向无机�
 
 ```mermaid
 xychart-beta
-    title "marimo-team/modernaicourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 115 --> 117
-    line [116, 116]
+    title "marimo-team/modernaicourse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 115 --> 120
+    line [116, 117, 118, 119, 119]
 ```
 
-2026-10-18 116 → 2026-11-02 116（+0）
+2026-10-18 116 → 2026-11-17 119（+3）
 
 
 ---

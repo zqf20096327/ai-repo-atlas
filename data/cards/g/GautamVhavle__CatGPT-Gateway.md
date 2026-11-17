@@ -1,6 +1,6 @@
 # GautamVhavle/CatGPT-Gateway
 
-⭐ 315 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/GautamVhavle/CatGPT-Gateway) · 个人维护
+⭐ 318 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/GautamVhavle/CatGPT-Gateway) · 个人维护
 
 **把 ChatGPT/Claude 网页账号变成 OpenAI 兼容 API 的网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GautamVhavle/CatGPT-Gateway 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 302 --> 316
-    line [303, 304, 307, 308, 310, 311, 314, 315]
+    title "GautamVhavle/CatGPT-Gateway 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 302 --> 319
+    line [303, 304, 307, 308, 310, 311, 314, 315, 308, 316, 317, 318, 318]
 ```
 
-2026-10-18 303 → 2026-11-02 315（+12）
+2026-10-18 303 → 2026-11-17 318（+15）
 
 
 ---

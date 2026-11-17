@@ -1,6 +1,6 @@
 # christopherkarani/Conduit
 
-⭐ 121 · Swift · MIT · 推送 2026-06-13 · [GitHub](https://github.com/christopherkarani/Conduit) · [官网](https://christopherkarani.github.io/Conduit/) · 个人维护 · 中文 README
+⭐ 120 · Swift · MIT · 推送 2026-06-13 · [GitHub](https://github.com/christopherkarani/Conduit) · [官网](https://christopherkarani.github.io/Conduit/) · 个人维护 · 中文 README
 
 **面向 Swift 开发者的统一 LLM 推理 SDK，支持多云端与本地提供商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "christopherkarani/Conduit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "christopherkarani/Conduit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
     y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    line [120, 121, 120, 120]
 ```
 
-2026-10-18 120 → 2026-11-02 121（+1）
+2026-10-18 120 → 2026-11-17 120（+0）
 
 
 ---

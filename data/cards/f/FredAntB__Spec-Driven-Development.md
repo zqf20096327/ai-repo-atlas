@@ -1,6 +1,6 @@
 # FredAntB/Spec-Driven-Development
 
-⭐ 157 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/FredAntB/Spec-Driven-Development) · 个人维护
+⭐ 159 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/FredAntB/Spec-Driven-Development) · 个人维护
 
 **Claude 技能：写代码前先生成需求/设计/任务规格，统一多款 AI 编码工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FredAntB/Spec-Driven-Development 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 152 --> 158
-    line [153, 154, 155, 156, 157, 157]
+    title "FredAntB/Spec-Driven-Development 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 152 --> 160
+    line [153, 154, 155, 156, 157, 155, 158, 159, 159]
 ```
 
-2026-10-18 153 → 2026-11-02 157（+4）
+2026-10-18 153 → 2026-11-17 159（+6）
 
 
 ---

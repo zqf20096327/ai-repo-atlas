@@ -1,6 +1,6 @@
 # audrina-ebrahimi/AK_SSL
 
-⭐ 12 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/audrina-ebrahimi/AK_SSL) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自监督学习方法的 PyTorch 实现：供研究者实验预训练技术**
 
@@ -11,7 +11,7 @@ Python 自监督学习库，为研究人员和实践者提供多种自监督方�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ Python 自监督学习库，为研究人员和实践者提供多种自监督方�
 ```mermaid
 xychart-beta
     title "audrina-ebrahimi/AK_SSL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-12 12（+0）
 
 
 ---

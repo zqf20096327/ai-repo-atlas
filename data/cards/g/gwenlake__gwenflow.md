@@ -1,6 +1,6 @@
 # gwenlake/gwenflow
 
-⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/gwenlake/gwenflow) · [官网](https://gwenlake.com) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/gwenlake/gwenflow) · [官网](https://gwenlake.com) · 组织维护
 
 **给开发者的 LLM 与自主 Agent 应用编排框架**
 
@@ -45,13 +45,13 @@ Gwenlake 开发的 Python 框架，用于构建基于 LLM 与 Agent 的应用：
 
 ```mermaid
 xychart-beta
-    title "gwenlake/gwenflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "gwenlake/gwenflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hi-paris/XPER
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-06-02 · [GitHub](https://github.com/hi-paris/XPER) · [官网](https://hi-paris.github.io/XPER/) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-06-02 · [GitHub](https://github.com/hi-paris/XPER) · [官网](https://hi-paris.github.io/XPER/) · 组织维护
 
 **度量各输入特征对模型预测性能贡献的 Python 解释性库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hi-paris/XPER 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "hi-paris/XPER 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

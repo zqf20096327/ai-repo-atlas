@@ -1,6 +1,6 @@
 # lowcache/mcp-box
 
-⭐ 15 · Go · MIT · 推送 2026-08-29 · [GitHub](https://github.com/lowcache/mcp-box) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/lowcache/mcp-box) · 个人维护
 
 **用 Docker 沙箱隔离运行 MCP server 的 Go CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lowcache/mcp-box 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/eureka-ml-insights
 
-⭐ 187 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/eureka-ml-insights) · [官网](https://microsoft.github.io/eureka-ml-insights) · 组织维护
+⭐ 187 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/eureka-ml-insights) · [官网](https://microsoft.github.io/eureka-ml-insights) · 组织维护
 
 **微软的大模型评测框架：可复现的多基准评测流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/eureka-ml-insights 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
     y-axis "stars" 184 --> 188
     line [185, 186, 187, 187]
 ```
 
-2026-10-18 185 → 2026-11-02 187（+2）
+2026-10-18 185 → 2026-11-17 187（+2）
 
 
 ---

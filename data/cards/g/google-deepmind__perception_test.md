@@ -1,6 +1,6 @@
 # google-deepmind/perception_test
 
-⭐ 263 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/google-deepmind/perception_test) · 组织维护
+⭐ 265 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-19 · [GitHub](https://github.com/google-deepmind/perception_test) · 组织维护
 
 **多模态视频模型感知能力的诊断评测基准数据集**
 
@@ -44,13 +44,13 @@ DeepMind 维护的 Perception Test 基准仓库：提供真实世界视频数据
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/perception_test 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 261 --> 264
-    line [262, 263]
+    title "google-deepmind/perception_test 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 261 --> 266
+    line [262, 263, 262, 265, 265]
 ```
 
-2026-10-18 262 → 2026-11-02 263（+1）
+2026-10-18 262 → 2026-11-17 265（+3）
 
 
 ---

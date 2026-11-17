@@ -1,6 +1,6 @@
 # skynetcmd/m3-memory
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/skynetcmd/m3-memory) · [官网](https://github.com/skynetcmd/m3-memory) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/skynetcmd/m3-memory) · [官网](https://github.com/skynetcmd/m3-memory) · 个人维护
 
 **给 AI 助手的本地优先持久记忆层，跨会话跨工具共享**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skynetcmd/m3-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "skynetcmd/m3-memory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

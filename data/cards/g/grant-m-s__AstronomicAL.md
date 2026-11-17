@@ -1,6 +1,6 @@
 # grant-m-s/AstronomicAL
 
-⭐ 89 · Python · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/grant-m-s/AstronomicAL) · [官网](https://astronomical.readthedocs.io) · 个人维护
+⭐ 92 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/grant-m-s/AstronomicAL) · [官网](https://astronomical.readthedocs.io) · 个人维护
 
 **本地人机协同科研数据工作台：探索、标注、建模一体化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "grant-m-s/AstronomicAL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "grant-m-s/AstronomicAL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 88 --> 93
+    line [89, 92, 92]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 92（+3）
 
 
 ---

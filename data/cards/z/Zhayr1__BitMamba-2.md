@@ -1,6 +1,6 @@
 # Zhayr1/BitMamba-2
 
-⭐ 25 · Python · MIT · 推送 2026-02-04 · [GitHub](https://github.com/Zhayr1/BitMamba-2) · [官网](https://zenodo.org/records/18394665) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-02-04 · [GitHub](https://github.com/Zhayr1/BitMamba-2) · [官网](https://zenodo.org/records/18394665) · 个人维护
 
 **1.58-bit Mamba-2 状态空间模型的 JAX 预训练代码与模型**
 
@@ -44,13 +44,13 @@ BitMamba-2 的官方实现：将 BitNet 1.58-bit 三值量化集成进 Mamba-2 �
 
 ```mermaid
 xychart-beta
-    title "Zhayr1/BitMamba-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "Zhayr1/BitMamba-2 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

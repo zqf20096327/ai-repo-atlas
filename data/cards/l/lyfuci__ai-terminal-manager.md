@@ -1,6 +1,6 @@
 # lyfuci/ai-terminal-manager
 
-⭐ 20 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lyfuci/ai-terminal-manager) · [官网](https://pypi.org/project/ai-terminal-manager/) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lyfuci/ai-terminal-manager) · [官网](https://pypi.org/project/ai-terminal-manager/) · 个人维护 · 中文 README
 
 **tmux 内多 AI CLI 会话的统一管理与恢复工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lyfuci/ai-terminal-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

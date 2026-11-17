@@ -1,6 +1,6 @@
 # prospectio-ai/prospectio-api-mcp
 
-⭐ 21 · Python · 推送 2026-03-25 · [GitHub](https://github.com/prospectio-ai/prospectio-api-mcp) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向线索挖掘的 FastAPI/MCP 服务器，连接多种销售线索数据源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "prospectio-ai/prospectio-api-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-11 21（+0）
 
 
 ---

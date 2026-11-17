@@ -1,6 +1,6 @@
 # google-deepmind/treescope
 
-⭐ 477 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/google-deepmind/treescope) · [官网](https://treescope.readthedocs.io/) · 组织维护
+⭐ 479 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google-deepmind/treescope) · [官网](https://treescope.readthedocs.io/) · 组织维护
 
 **面向 ML 研究的交互式 HTML 渲染与张量可视化工具**
 
@@ -45,13 +45,13 @@ IPython notebook 中的交互式 HTML pretty-printer 与 N 维数组（张量）
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/treescope 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 475 --> 478
-    line [476, 477, 477]
+    title "google-deepmind/treescope 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 475 --> 480
+    line [476, 477, 476, 479, 479]
 ```
 
-2026-10-18 476 → 2026-11-02 477（+1）
+2026-10-18 476 → 2026-11-17 479（+3）
 
 
 ---

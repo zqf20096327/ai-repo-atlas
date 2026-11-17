@@ -1,6 +1,6 @@
 # enkei0x/espai
 
-⭐ 19 · C++ · MIT · 推送 2026-02-23 · [GitHub](https://github.com/enkei0x/espai) · 个人维护
+⭐ 20 · C++ · MIT · 推送 2026-02-23 · [GitHub](https://github.com/enkei0x/espai) · 个人维护
 
 **面向 ESP32/Arduino 的统一 AI API 客户端库**
 
@@ -44,13 +44,13 @@ C++17 编写的 Arduino/PlatformIO 库，让 ESP32 系列开发板通过单一�
 
 ```mermaid
 xychart-beta
-    title "enkei0x/espai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "enkei0x/espai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hamr0/liteagents
 
-⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/hamr0/liteagents) · 个人维护
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/hamr0/liteagents) · 个人维护
 
 **面向 Claude Code 等 CLI agent 的子代理与技能工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hamr0/liteagents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "hamr0/liteagents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

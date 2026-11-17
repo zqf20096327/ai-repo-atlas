@@ -1,6 +1,6 @@
 # codewithmahad/the-ubit-hub-resources
 
-⭐ 19 · MIT · 推送 2026-09-20 · [GitHub](https://github.com/codewithmahad/the-ubit-hub-resources) · 个人维护
+⭐ 21 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/codewithmahad/the-ubit-hub-resources) · 个人维护
 
 **给 UBIT 学生的课程资料归档：讲义 PDF 与学习指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "codewithmahad/the-ubit-hub-resources 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "codewithmahad/the-ubit-hub-resources 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 21, 21]
 ```
 
-2026-10-31 18 → 2026-11-02 19（+1）
+2026-10-31 18 → 2026-11-17 21（+3）
 
 
 ---

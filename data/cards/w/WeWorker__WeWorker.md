@@ -1,6 +1,6 @@
 # WeWorker/WeWorker
 
-⭐ 158 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/WeWorker/WeWorker) · [官网](https://www.weworker.cc) · 组织维护 · 中文 README
+⭐ 266 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/WeWorker/WeWorker) · [官网](https://www.weworker.cc) · 组织维护 · 中文 README
 
 **让 AI Agent 通过浏览器扩展实际操作网站的开源桌面应用**
 
@@ -40,6 +40,18 @@
 > L19: WeWorker 将自然语言任务交给 AI Agent，通过浏览器扩展或内置 Toolkit Adapter 调用网站能力；涉及登录、提交、下单、支付等关键步骤时，仍由用户确认。
 > L41: - **自然语言操作网站**：通过桌面端对话描述任务，由 AI 选择并调用网站工具。
 > L47: - **多模型配置**：支持 Anthropic、智谱、DeepSeek 和兼容接口的自定义模型配置。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WeWorker/WeWorker 星数(近 6 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 148 --> 276
+    line [158, 199, 200, 258, 266, 266]
+```
+
+2026-11-02 158 → 2026-11-17 266（+108）
 
 
 ---

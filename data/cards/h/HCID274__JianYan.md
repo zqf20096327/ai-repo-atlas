@@ -1,6 +1,6 @@
 # HCID274/JianYan
 
-⭐ 29 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/HCID274/JianYan) · [官网](https://jianyan.hcid274.xyz/) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/HCID274/JianYan) · [官网](https://jianyan.hcid274.xyz/) · 个人维护 · 中文 README
 
 **Windows 本地语音转文字工具：SenseVoice 离线转写、快捷键录音、自动粘贴**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HCID274/JianYan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "HCID274/JianYan 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [29, 27, 27]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 27（-2）
 
 
 ---

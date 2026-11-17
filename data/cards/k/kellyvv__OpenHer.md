@@ -1,6 +1,6 @@
 # kellyvv/OpenHer
 
-⭐ 281 · Python · NOASSERTION · 推送 2026-06-27 · [GitHub](https://github.com/kellyvv/OpenHer) · [官网](https://github.com/kellyvv/OpenHer) · 个人维护 · 中文 README
+⭐ 287 · Python · NOASSERTION · 推送 2026-06-27 · [GitHub](https://github.com/kellyvv/OpenHer) · [官网](https://github.com/kellyvv/OpenHer) · 个人维护 · 中文 README
 
 **开源人格引擎：AI 陪伴角色的性格由神经网络涌现而非提示词**
 
@@ -45,13 +45,13 @@ OpenHer 是一个用 Python 编写的人格引擎，灵感来自电影《Her》�
 
 ```mermaid
 xychart-beta
-    title "kellyvv/OpenHer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 276 --> 282
-    line [277, 279, 280, 281, 281]
+    title "kellyvv/OpenHer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 276 --> 288
+    line [277, 279, 280, 281, 284, 285, 286, 287, 287]
 ```
 
-2026-10-18 277 → 2026-11-02 281（+4）
+2026-10-18 277 → 2026-11-17 287（+10）
 
 
 ---

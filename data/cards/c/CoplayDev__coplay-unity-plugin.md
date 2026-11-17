@@ -1,6 +1,6 @@
 # CoplayDev/coplay-unity-plugin
 
-⭐ 164 · 推送 2026-09-01 · [GitHub](https://github.com/CoplayDev/coplay-unity-plugin) · [官网](https://www.coplay.dev) · 组织维护
+⭐ 167 · 推送 2026-09-01 · [GitHub](https://github.com/CoplayDev/coplay-unity-plugin) · [官网](https://www.coplay.dev) · 组织维护
 
 **面向 Unity 开发者的自然语言 AI Copilot 插件**
 
@@ -44,13 +44,13 @@ Unity 编辑器插件形式的 AI 助手：通过自然语言控制 Unity 执行
 
 ```mermaid
 xychart-beta
-    title "CoplayDev/coplay-unity-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    title "CoplayDev/coplay-unity-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 163 --> 168
+    line [164, 165, 166, 167, 167]
 ```
 
-2026-10-18 164 → 2026-11-02 164（+0）
+2026-10-18 164 → 2026-11-17 167（+3）
 
 
 ---

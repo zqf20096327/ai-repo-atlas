@@ -1,6 +1,6 @@
 # matjesg/deepflash2
 
-⭐ 64 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/matjesg/deepflash2) · [官网](https://matjesg.github.io/deepflash2/) · 组织维护
+⭐ 64 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/matjesg/deepflash2) · [官网](https://matjesg.github.io/deepflash2/) · 组织维护
 
 **生命科学研究者的显微图像深度学习分割流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matjesg/deepflash2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 64（+0）
 
 
 ---

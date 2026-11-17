@@ -1,6 +1,6 @@
 # ehteshambuildagents/jarvis
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/ehteshambuildagents/jarvis) · 个人维护
+⭐ 32 · TypeScript · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/ehteshambuildagents/jarvis) · 个人维护
 
 **语音驱动的浏览器个人助理，以 Claude Code 为大脑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ehteshambuildagents/jarvis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 21 --> 28
-    line [22, 23, 24, 25, 26, 27, 27]
+    title "ehteshambuildagents/jarvis 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 33
+    line [22, 23, 24, 25, 26, 27, 25, 30, 31, 32, 32]
 ```
 
-2026-10-18 22 → 2026-11-02 27（+5）
+2026-10-18 22 → 2026-11-17 32（+10）
 
 
 ---

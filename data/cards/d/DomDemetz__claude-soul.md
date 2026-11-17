@@ -1,6 +1,6 @@
 # DomDemetz/claude-soul
 
-⭐ 92 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/DomDemetz/claude-soul) · 个人维护
+⭐ 94 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/DomDemetz/claude-soul) · 个人维护
 
 **Claude Code 的跨会话记忆与行为校正学习引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DomDemetz/claude-soul 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "DomDemetz/claude-soul 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 90 --> 95
+    line [92, 91, 92, 93, 94, 94]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 94（+2）
 
 
 ---

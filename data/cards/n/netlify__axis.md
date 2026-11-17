@@ -1,6 +1,6 @@
 # netlify/axis
 
-⭐ 67 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/netlify/axis) · [官网](https://axis.run) · 组织维护
+⭐ 69 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/netlify/axis) · [官网](https://axis.run) · 组织维护
 
 **评测 AI agent 使用服务体验的评分框架与工具**
 
@@ -44,13 +44,13 @@ Netlify 开源的 Agent 体验评测工具：给定场景、agent 与提示词�
 
 ```mermaid
 xychart-beta
-    title "netlify/axis 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 63 --> 68
-    line [64, 65, 66, 67, 67]
+    title "netlify/axis 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 63 --> 70
+    line [64, 65, 66, 67, 65, 68, 69, 69]
 ```
 
-2026-10-18 64 → 2026-11-02 67（+3）
+2026-10-18 64 → 2026-11-17 69（+5）
 
 
 ---

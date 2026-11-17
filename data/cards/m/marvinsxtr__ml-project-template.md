@@ -1,6 +1,6 @@
 # marvinsxtr/ml-project-template
 
-⭐ 11 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/marvinsxtr/ml-project-template) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/marvinsxtr/ml-project-template) · 个人维护
 
 **Slurm 集群上做 ML 实验的项目模板（wandb/hydra-zen/submitit）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "marvinsxtr/ml-project-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "marvinsxtr/ml-project-template 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # decodingai-magazine/personalized-recommender-course
 
-⭐ 655 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/decodingai-magazine/personalized-recommender-course) · 组织维护
+⭐ 657 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/decodingai-magazine/personalized-recommender-course) · 组织维护
 
 **H&M 实时个性化推荐系统的开源实战课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/personalized-recommender-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 653 --> 656
-    line [654, 655]
+    title "decodingai-magazine/personalized-recommender-course 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 653 --> 658
+    line [654, 655, 654, 656, 657, 657]
 ```
 
-2026-10-18 654 → 2026-11-02 655（+1）
+2026-10-18 654 → 2026-11-17 657（+3）
 
 
 ---

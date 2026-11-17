@@ -1,6 +1,6 @@
 # aashari/mcp-server-atlassian-jira
 
-⭐ 78 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/aashari/mcp-server-atlassian-jira) · 个人维护
+⭐ 79 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/aashari/mcp-server-atlassian-jira) · 个人维护
 
 **让 AI 助手通过 MCP 操作 Jira 的 Node.js 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aashari/mcp-server-atlassian-jira 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 76 --> 79
-    line [77, 78, 78]
+    title "aashari/mcp-server-atlassian-jira 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 79, 79]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-17 79（+2）
 
 
 ---

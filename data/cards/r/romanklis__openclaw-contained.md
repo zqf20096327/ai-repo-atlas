@@ -1,6 +1,6 @@
 # romanklis/openclaw-contained
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/romanklis/openclaw-contained) · 个人维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/romanklis/openclaw-contained) · 个人维护
 
 **在 Docker/gVisor 沙箱中运行 AI agent 的可审计编排平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "romanklis/openclaw-contained 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

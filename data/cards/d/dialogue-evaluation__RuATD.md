@@ -1,6 +1,6 @@
 # dialogue-evaluation/RuATD
 
-⭐ 20 · Jupyter Notebook · 推送 2025-11-17 · [GitHub](https://github.com/dialogue-evaluation/RuATD) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **俄语机器生成文本检测竞赛（RuATD）：提供数据集与评测任务**
 
@@ -46,12 +46,12 @@ Dialogue 2022 俄语人工文本检测共享任务仓库：任务为区分人写
 ```mermaid
 xychart-beta
     title "dialogue-evaluation/RuATD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-12 20（+0）
 
 
 ---

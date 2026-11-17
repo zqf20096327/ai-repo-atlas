@@ -1,6 +1,6 @@
 # NoobyGains/godmode
 
-⭐ 115 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/NoobyGains/godmode) · 个人维护
+⭐ 123 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NoobyGains/godmode) · 个人维护
 
 **给 AI 编程 agent 注入工程纪律的技能包（33 个 skills，多 harness 通用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoobyGains/godmode 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 113 --> 116
-    line [114, 115, 115]
+    title "NoobyGains/godmode 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 113 --> 124
+    line [114, 115, 118, 119, 120, 123, 123]
 ```
 
-2026-10-26 114 → 2026-11-02 115（+1）
+2026-10-26 114 → 2026-11-17 123（+9）
 
 
 ---

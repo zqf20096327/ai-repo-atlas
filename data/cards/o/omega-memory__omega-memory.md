@@ -1,6 +1,6 @@
 # omega-memory/omega-memory
 
-⭐ 225 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/omega-memory/omega-memory) · [官网](https://omegamax.co) · 组织维护
+⭐ 226 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/omega-memory/omega-memory) · [官网](https://omegamax.co) · 组织维护
 
 **本地优先的 AI 编程代理跨模型持久记忆 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "omega-memory/omega-memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 223 --> 226
-    line [225, 224, 225, 225]
+    title "omega-memory/omega-memory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 223 --> 227
+    line [225, 224, 225, 224, 225, 226, 226]
 ```
 
-2026-10-18 225 → 2026-11-02 225（+0）
+2026-10-18 225 → 2026-11-17 226（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Shilren/interview-doc-agent
 
-⭐ 26 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Shilren/interview-doc-agent) · 个人维护 · 中文 README
+⭐ 27 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Shilren/interview-doc-agent) · 个人维护 · 中文 README
 
 **求职文档 Agent Skill：把零散经历沉淀成经历库，生成简历与面试逐字稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shilren/interview-doc-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 26, 26]
+    title "Shilren/interview-doc-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 28
+    line [22, 23, 26, 22, 26, 27, 27]
 ```
 
-2026-10-18 22 → 2026-11-02 26（+4）
+2026-10-18 22 → 2026-11-17 27（+5）
 
 
 ---

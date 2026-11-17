@@ -1,6 +1,6 @@
 # WeBankFinTech/Prophecis
 
-⭐ 512 · Go · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/WeBankFinTech/Prophecis) · [官网](https://github.com/WeBankFinTech/Prophecis) · 组织维护 · 中文 README
+⭐ 513 · Go · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/WeBankFinTech/Prophecis) · [官网](https://github.com/WeBankFinTech/Prophecis) · 组织维护 · 中文 README
 
 **微众银行开源的一站式云原生机器学习平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WeBankFinTech/Prophecis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 511 --> 513
-    line [512, 512]
+    title "WeBankFinTech/Prophecis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 511 --> 514
+    line [512, 513, 513]
 ```
 
-2026-10-18 512 → 2026-11-02 512（+0）
+2026-10-18 512 → 2026-11-17 513（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # glama-ai/lightport
 
-⭐ 21 · TypeScript · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/glama-ai/lightport) · [官网](https://lightport.dev) · 组织维护
+⭐ 24 · TypeScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/glama-ai/lightport) · [官网](https://lightport.dev) · 组织维护
 
 **轻量 AI 网关：把各 LLM 提供商转为 OpenAI 兼容接口**
 
@@ -45,13 +45,13 @@ Lightport 是从 Portkey AI Gateway 分叉出的轻量网关，仅做一件事�
 
 ```mermaid
 xychart-beta
-    title "glama-ai/lightport 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "glama-ai/lightport 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 20, 22, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 24（+4）
 
 
 ---

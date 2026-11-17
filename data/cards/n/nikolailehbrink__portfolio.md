@@ -1,6 +1,6 @@
 # nikolailehbrink/portfolio
 
-⭐ 34 · MDX · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/nikolailehbrink/portfolio) · [官网](https://www.nikolailehbr.ink) · 个人维护
+⭐ 33 · MDX · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/nikolailehbrink/portfolio) · [官网](https://www.nikolailehbr.ink) · 个人维护
 
 **个人作品集网站：展示项目与博客，含定制 AI 聊天机器人**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nikolailehbrink/portfolio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [35, 34, 34]
+    title "nikolailehbrink/portfolio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [35, 34, 33, 33]
 ```
 
-2026-10-18 35 → 2026-11-02 34（-1）
+2026-10-18 35 → 2026-11-17 33（-2）
 
 
 ---

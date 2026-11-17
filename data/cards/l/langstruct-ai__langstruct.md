@@ -1,6 +1,6 @@
 # langstruct-ai/langstruct
 
-⭐ 130 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/langstruct-ai/langstruct) · [官网](https://langstruct.dev) · 组织维护
+⭐ 133 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/langstruct-ai/langstruct) · [官网](https://langstruct.dev) · 组织维护
 
 **面向开发者的 LLM 结构化数据抽取库，自动优化提示词**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "langstruct-ai/langstruct 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 127 --> 131
-    line [129, 128, 130, 130]
+    title "langstruct-ai/langstruct 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 127 --> 134
+    line [129, 128, 130, 131, 132, 133, 133]
 ```
 
-2026-10-18 129 → 2026-11-02 130（+1）
+2026-10-18 129 → 2026-11-17 133（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Guillain-RDCDE/FLAC_Detective
 
-⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Guillain-RDCDE/FLAC_Detective) · [官网](https://pypi.org/project/flac-detective/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Guillain-RDCDE/FLAC_Detective) · [官网](https://pypi.org/project/flac-detective/) · 个人维护
 
 **检测伪装成 FLAC 的有损压缩音乐文件的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Guillain-RDCDE/FLAC_Detective 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "Guillain-RDCDE/FLAC_Detective 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 25, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 28（+3）
 
 
 ---

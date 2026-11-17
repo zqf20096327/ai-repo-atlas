@@ -1,6 +1,6 @@
 # AbdulAhad-2005/Osprey
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/AbdulAhad-2005/Osprey) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/AbdulAhad-2005/Osprey) · 个人维护
 
 **带可选 LLM 层的 AI 渗透测试平台（侦察/漏洞/利用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdulAhad-2005/Osprey 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "AbdulAhad-2005/Osprey 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 17
-    line [11, 12, 14, 15, 16, 16]
+    line [11, 12, 14, 15, 16, 12, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 16（+5）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

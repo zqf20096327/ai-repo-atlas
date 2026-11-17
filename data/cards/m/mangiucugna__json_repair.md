@@ -1,6 +1,6 @@
 # mangiucugna/json_repair
 
-⭐ 5,129 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mangiucugna/json_repair) · [官网](https://mangiucugna.github.io/json_repair/) · 个人维护 · 中文 README
+⭐ 5,137 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/mangiucugna/json_repair) · [官网](https://mangiucugna.github.io/json_repair/) · 个人维护 · 中文 README
 
 **修复 LLM/API/日志中畸形 JSON 的 Python 库**
 
@@ -45,13 +45,13 @@ Python 解析库：修复缺失引号、逗号、括号、注释、混杂文本�
 
 ```mermaid
 xychart-beta
-    title "mangiucugna/json_repair 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 5117 --> 5130
-    line [5119, 5118, 5124, 5126, 5128, 5129, 5129]
+    title "mangiucugna/json_repair 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 5117 --> 5138
+    line [5119, 5118, 5124, 5126, 5128, 5129, 5124, 5134, 5136, 5137, 5136, 5135, 5137, 5137]
 ```
 
-2026-10-18 5,119 → 2026-11-02 5,129（+10）
+2026-10-18 5,119 → 2026-11-17 5,137（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # tathagat22/plumb-mcp
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tathagat22/plumb-mcp) · [官网](https://tathagat22.github.io/plumb-mcp/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向编码代理的 Figma/网页→代码 MCP 服务器，含验证回路**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tathagat22/plumb-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-02"]
+    title "tathagat22/plumb-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 80 --> 84
-    line [82, 83, 81, 82, 82]
+    line [82, 83, 81, 82, 81, 81]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-07 81（-1）
 
 
 ---

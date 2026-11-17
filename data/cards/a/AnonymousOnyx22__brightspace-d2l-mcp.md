@@ -1,6 +1,6 @@
 # AnonymousOnyx22/brightspace-d2l-mcp
 
-⭐ 29 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp) · [官网](https://brightspace-mcp.netlify.app) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp) · [官网](https://brightspace-mcp.netlify.app) · 个人维护
 
 **让学生通过 AI 助手查询 Brightspace 作业、成绩与课程的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnonymousOnyx22/brightspace-d2l-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 27 --> 32
-    line [31, 28, 29, 29]
+    title "AnonymousOnyx22/brightspace-d2l-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 8 --> 33
+    line [31, 28, 29, 28, 11, 10, 10]
 ```
 
-2026-10-18 31 → 2026-11-02 29（-2）
+2026-10-18 31 → 2026-11-17 10（-21）
 
 
 ---

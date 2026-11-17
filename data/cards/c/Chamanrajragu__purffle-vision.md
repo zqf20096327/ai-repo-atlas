@@ -1,6 +1,6 @@
 # Chamanrajragu/purffle-vision
 
-⭐ 13 · HTML · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Chamanrajragu/purffle-vision) · [官网](https://purffle.com/purffle-vision/) · 个人维护
+⭐ 14 · HTML · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Chamanrajragu/purffle-vision) · [官网](https://purffle.com/purffle-vision/) · 个人维护
 
 **从任意主题自动生成 YouTube 视频的 Flask 平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chamanrajragu/purffle-vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Chamanrajragu/purffle-vision 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

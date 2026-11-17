@@ -1,6 +1,6 @@
 # worldbench/3EED
 
-⭐ 212 · Python · Apache-2.0 · 推送 2025-12-26 · [GitHub](https://github.com/worldbench/3EED) · [官网](https://project-3eed.github.io) · 组织维护
+⭐ 215 · Python · Apache-2.0 · 推送 2025-12-26 · [GitHub](https://github.com/worldbench/3EED) · [官网](https://project-3eed.github.io) · 组织维护
 
 **跨车辆/无人机/四足平台的 3D 视觉定位数据集与基线**
 
@@ -44,13 +44,13 @@ NeurIPS 2025 Dataset & Benchmark Track 论文 3EED 的官方仓库：发布首�
 
 ```mermaid
 xychart-beta
-    title "worldbench/3EED 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 211 --> 213
-    line [212, 212]
+    title "worldbench/3EED 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 211 --> 216
+    line [212, 213, 214, 215, 215]
 ```
 
-2026-10-18 212 → 2026-11-02 212（+0）
+2026-10-18 212 → 2026-11-17 215（+3）
 
 
 ---

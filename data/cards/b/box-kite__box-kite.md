@@ -1,6 +1,6 @@
 # box-kite/box-kite
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/box-kite/box-kite) · [官网](https://www.box-kite.dev/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/box-kite/box-kite) · [官网](https://www.box-kite.dev/) · 组织维护
 
 **面向 AI 编写的 React 样式组件库：235 个类型化 CSS props**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "box-kite/box-kite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

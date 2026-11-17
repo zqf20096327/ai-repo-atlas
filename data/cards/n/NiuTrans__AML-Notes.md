@@ -1,6 +1,6 @@
 # NiuTrans/AML-Notes
 
-⭐ 50 · TeX · 推送 2026-10-18 · [GitHub](https://github.com/NiuTrans/AML-Notes) · 组织维护 · 中文 README
+⭐ 52 · TeX · 推送 2026-10-18 · [GitHub](https://github.com/NiuTrans/AML-Notes) · 组织维护 · 中文 README
 
 **面向生成式 AI 时代的高级机器学习教材（东北大学NLP实验室）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NiuTrans/AML-Notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "NiuTrans/AML-Notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

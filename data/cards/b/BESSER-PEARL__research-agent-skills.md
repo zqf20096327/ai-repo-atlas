@@ -1,6 +1,6 @@
 # BESSER-PEARL/research-agent-skills
 
-⭐ 18 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/BESSER-PEARL/research-agent-skills) · 组织维护
+⭐ 21 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/BESSER-PEARL/research-agent-skills) · 组织维护
 
 **研究辅助 AI agent 技能集合：含系统化论文评审技能**
 
@@ -43,13 +43,13 @@ BESSER-PEARL 团队（卢森堡科学技术研究院 LIST）维护的 AI agent �
 
 ```mermaid
 xychart-beta
-    title "BESSER-PEARL/research-agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "BESSER-PEARL/research-agent-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 21（+3）
 
 
 ---

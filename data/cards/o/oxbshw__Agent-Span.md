@@ -1,6 +1,6 @@
 # oxbshw/Agent-Span
 
-⭐ 44 · Rust · MIT · 推送 2026-09-01 · [GitHub](https://github.com/oxbshw/Agent-Span) · [官网](https://github.com/oxbshw/Agent-Span) · 个人维护 · 中文 README
+⭐ 45 · Rust · MIT · 推送 2026-09-01 · [GitHub](https://github.com/oxbshw/Agent-Span) · [官网](https://github.com/oxbshw/Agent-Span) · 个人维护 · 中文 README
 
 **面向 AI Agent 的 Web 访问网关：52 平台统一读取/搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oxbshw/Agent-Span 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "oxbshw/Agent-Span 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

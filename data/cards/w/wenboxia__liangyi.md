@@ -1,6 +1,6 @@
 # wenboxia/liangyi
 
-⭐ 57 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/wenboxia/liangyi) · [官网](https://liangyi-five.vercel.app) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/wenboxia/liangyi) · [官网](https://liangyi-five.vercel.app) · 个人维护 · 中文 README
 
 **跨厂商多 Agent 工作流：用对抗批判链把产品想法打磨成方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenboxia/liangyi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "wenboxia/liangyi 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

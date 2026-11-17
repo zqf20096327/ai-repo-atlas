@@ -1,6 +1,6 @@
 # maxvaega/skillkit
 
-⭐ 147 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/maxvaega/skillkit) · 个人维护
+⭐ 148 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/maxvaega/skillkit) · 个人维护
 
 **为 Python agent 提供 Anthropic Agent Skills 功能的技能库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maxvaega/skillkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "maxvaega/skillkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 146 --> 149
-    line [148, 147, 147]
+    line [148, 147, 148, 147, 148, 148]
 ```
 
-2026-10-18 148 → 2026-11-02 147（-1）
+2026-10-18 148 → 2026-11-17 148（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dawo4/DAWO
 
-⭐ 22 · Vue · 推送 2026-10-18 · [GitHub](https://github.com/dawo4/DAWO) · [官网](https://github.com/dawo4/DAWO/releases) · 个人维护 · 中文 README
+⭐ 25 · Vue · 推送 2026-10-18 · [GitHub](https://github.com/dawo4/DAWO) · [官网](https://github.com/dawo4/DAWO/releases) · 个人维护 · 中文 README
 
 **面向长篇网文作者的本地优先 AI 写作桌面软件**
 
@@ -45,13 +45,13 @@ Electron + Vue 3 桌面应用，供十万字以上长篇网文创作：九大结
 
 ```mermaid
 xychart-beta
-    title "dawo4/DAWO 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 22, 23, 22, 22]
+    title "dawo4/DAWO 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 26
+    line [19, 20, 22, 23, 22, 23, 24, 25, 25]
 ```
 
-2026-10-18 19 → 2026-11-02 22（+3）
+2026-10-18 19 → 2026-11-17 25（+6）
 
 
 ---

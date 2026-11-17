@@ -1,6 +1,6 @@
 # vlasenkoalexey/tpu_performance_autoresearch_wiki
 
-⭐ 57 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vlasenkoalexey/tpu_performance_autoresearch_wiki) · [官网](https://vlasenkoalexey.github.io/tags/autoresearch/) · 个人维护
+⭐ 59 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/vlasenkoalexey/tpu_performance_autoresearch_wiki) · [官网](https://vlasenkoalexey.github.io/tags/autoresearch/) · 个人维护
 
 **TPU 模型性能优化知识库 Wiki，接入 LLM 自主研究引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vlasenkoalexey/tpu_performance_autoresearch_wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [56, 57]
+    title "vlasenkoalexey/tpu_performance_autoresearch_wiki 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 56, 58, 59, 59]
 ```
 
-2026-10-18 56 → 2026-11-02 57（+1）
+2026-10-18 56 → 2026-11-17 59（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhou343-de/easyup-platform
 
-⭐ 56 · Python · 推送 2026-05-08 · [GitHub](https://github.com/zhou343-de/easyup-platform) · 个人维护 · 中文 README
+⭐ 57 · Python · 推送 2026-05-08 · [GitHub](https://github.com/zhou343-de/easyup-platform) · 个人维护 · 中文 README
 
 **A 股 AI 模拟量化交易系统：Agent 选股·风控·盯盘·数据大屏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhou343-de/easyup-platform 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02"]
+    title "zhou343-de/easyup-platform 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-11-02", "2026-11-14", "2026-11-17"]
     y-axis "stars" 53 --> 58
-    line [54, 55, 56, 57, 56]
+    line [54, 55, 56, 57, 56, 57, 57]
 ```
 
-2026-10-18 54 → 2026-11-02 56（+2）
+2026-10-18 54 → 2026-11-17 57（+3）
 
 
 ---

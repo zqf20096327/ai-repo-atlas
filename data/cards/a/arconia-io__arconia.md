@@ -1,6 +1,6 @@
 # arconia-io/arconia
 
-⭐ 198 · Java · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/arconia-io/arconia) · [官网](https://docs.arconia.io) · 组织维护
+⭐ 199 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/arconia-io/arconia) · [官网](https://docs.arconia.io) · 组织维护
 
 **给 Java 开发者的 Spring Boot 增强框架：开发服务/可观测/AI 文档处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arconia-io/arconia 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
+    title "arconia-io/arconia 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 194 --> 200
-    line [195, 197, 198, 199, 198, 198]
+    line [195, 197, 198, 199, 198, 199, 199]
 ```
 
-2026-10-18 195 → 2026-11-02 198（+3）
+2026-10-18 195 → 2026-11-17 199（+4）
 
 
 ---

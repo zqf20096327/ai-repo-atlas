@@ -1,6 +1,6 @@
 # fh2019ustc/Awesome-Document-Image-Rectification
 
-⭐ 574 · 推送 2026-10-24 · [GitHub](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) · 个人维护
+⭐ 575 · 推送 2026-10-24 · [GitHub](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) · 个人维护
 
 **文档图像矫正（去弯曲）论文/数据集/演示策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fh2019ustc/Awesome-Document-Image-Rectification 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 569 --> 575
-    line [570, 571, 572, 573, 574, 574]
+    title "fh2019ustc/Awesome-Document-Image-Rectification 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 569 --> 576
+    line [570, 571, 572, 573, 574, 571, 574, 575, 575]
 ```
 
-2026-10-18 570 → 2026-11-02 574（+4）
+2026-10-18 570 → 2026-11-17 575（+5）
 
 
 ---

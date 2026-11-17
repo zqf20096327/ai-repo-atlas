@@ -1,6 +1,6 @@
 # ashleykleynhans/stable-diffusion-docker
 
-⭐ 77 · Shell · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ashleykleynhans/stable-diffusion-docker) · 个人维护
+⭐ 76 · Shell · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/ashleykleynhans/stable-diffusion-docker) · 个人维护
 
 **打包 A1111/Kohya_ss/ComfyUI/InvokeAI 的 Stable Diffusion Docker 镜像**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashleykleynhans/stable-diffusion-docker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "ashleykleynhans/stable-diffusion-docker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 74 --> 78
-    line [75, 77, 77]
+    line [75, 77, 76, 76]
 ```
 
-2026-10-18 75 → 2026-11-02 77（+2）
+2026-10-18 75 → 2026-11-17 76（+1）
 
 
 ---

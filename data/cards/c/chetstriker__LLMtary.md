@@ -1,6 +1,6 @@
 # chetstriker/LLMtary
 
-⭐ 47 · Dart · MIT · 推送 2026-04-11 · [GitHub](https://github.com/chetstriker/LLMtary) · [官网](https://www.llmtary.com) · 个人维护
+⭐ 49 · Dart · MIT · 推送 2026-04-11 · [GitHub](https://github.com/chetstriker/LLMtary) · [官网](https://www.llmtary.com) · 个人维护
 
 **面向安全专业者的 LLM 驱动自动化渗透测试桌面平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chetstriker/LLMtary 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 40 --> 48
-    line [41, 42, 43, 45, 46, 47]
+    title "chetstriker/LLMtary 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 40 --> 50
+    line [41, 42, 43, 45, 46, 47, 45, 47, 48, 49, 49]
 ```
 
-2026-10-18 41 → 2026-11-02 47（+6）
+2026-10-18 41 → 2026-11-17 49（+8）
 
 
 ---

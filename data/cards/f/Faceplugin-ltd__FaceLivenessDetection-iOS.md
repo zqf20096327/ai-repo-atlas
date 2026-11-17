@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceLivenessDetection-iOS
 
-⭐ 19 · Swift · 推送 2026-09-30 · [GitHub](https://github.com/Faceplugin-ltd/FaceLivenessDetection-iOS) · [官网](https://faceplugin.com/face-liveness-detection/) · 组织维护
+⭐ 19 · Swift · 推送 2026-11-14 · [GitHub](https://github.com/Faceplugin-ltd/FaceLivenessDetection-iOS) · [官网](https://faceplugin.com/face-liveness-detection/) · 组织维护
 
 **iOS 人脸活体检测 SDK 演示应用：设备端反欺诈识别攻击**
 
@@ -45,12 +45,12 @@ FacePlugin 面向 iOS 的人脸活体检测 SDK 的官方演示工程：纯设�
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceLivenessDetection-iOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

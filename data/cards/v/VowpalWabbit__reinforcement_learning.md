@@ -1,6 +1,6 @@
 # VowpalWabbit/reinforcement_learning
 
-⭐ 73 · C++ · MIT · 推送 2026-03-03 · [GitHub](https://github.com/VowpalWabbit/reinforcement_learning) · 组织维护
+⭐ 74 · C++ · MIT · 推送 2026-03-03 · [GitHub](https://github.com/VowpalWabbit/reinforcement_learning) · 组织维护
 
 **强化学习交互循环的 C++ 客户端库：Predict/Log/Learn/Update**
 
@@ -44,13 +44,13 @@ Vowpal Wabbit 生态的交互侧集成库，为在线强化学习回路提供 Pr
 
 ```mermaid
 xychart-beta
-    title "VowpalWabbit/reinforcement_learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "VowpalWabbit/reinforcement_learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 74（+1）
 
 
 ---

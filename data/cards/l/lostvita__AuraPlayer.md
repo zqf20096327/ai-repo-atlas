@@ -1,6 +1,6 @@
 # lostvita/AuraPlayer
 
-⭐ 102 · TypeScript · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/lostvita/AuraPlayer) · 个人维护 · 中文 README
+⭐ 101 · TypeScript · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/lostvita/AuraPlayer) · 个人维护 · 中文 README
 
 **AI Agent 驱动的 B站音频播放器，支持云端搜索转 MP3**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lostvita/AuraPlayer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "lostvita/AuraPlayer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 100 --> 103
+    line [102, 101, 101]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 101（-1）
 
 
 ---

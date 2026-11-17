@@ -1,6 +1,6 @@
 # rullerzhou-afk/memoria-chat
 
-⭐ 46 · JavaScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/rullerzhou-afk/memoria-chat) · 个人维护 · 中文 README
+⭐ 45 · JavaScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/rullerzhou-afk/memoria-chat) · 个人维护 · 中文 README
 
 **自托管 AI 聊天客户端：跨模型持久化结构化记忆与人设定制**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rullerzhou-afk/memoria-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "rullerzhou-afk/memoria-chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    line [45, 46, 45, 45]
 ```
 
-2026-10-18 45 → 2026-11-02 46（+1）
+2026-10-18 45 → 2026-11-17 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro) · 个人维护
 
 **ComfyUI 的 NVIDIA RTX 超分 Pro 节点：16K 输出与色彩保护**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 44（-1）
 
 
 ---

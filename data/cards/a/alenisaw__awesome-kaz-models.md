@@ -1,6 +1,6 @@
 # alenisaw/awesome-kaz-models
 
-⭐ 34 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/alenisaw/awesome-kaz-models) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alenisaw/awesome-kaz-models) · 个人维护
 
 **哈萨克语 AI 模型策展清单：收录已验证的公开模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alenisaw/awesome-kaz-models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "alenisaw/awesome-kaz-models 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 31 --> 38
+    line [32, 33, 34, 33, 34, 35, 36, 37, 37]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 37（+5）
 
 
 ---

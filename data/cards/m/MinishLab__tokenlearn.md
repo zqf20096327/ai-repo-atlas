@@ -1,6 +1,6 @@
 # MinishLab/tokenlearn
 
-⭐ 111 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/MinishLab/tokenlearn) · [官网](https://minish.ai/packages/tokenlearn/usage) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/MinishLab/tokenlearn) · [官网](https://minish.ai/packages/tokenlearn/usage) · 组织维护
 
 **预训练 Model2Vec 静态词嵌入模型的训练方法库**
 
@@ -44,13 +44,13 @@ MinishLab 维护的 Python 包，用于预训练 Model2Vec 静态嵌入模型（
 
 ```mermaid
 xychart-beta
-    title "MinishLab/tokenlearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 110 --> 112
-    line [111, 111]
+    title "MinishLab/tokenlearn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 110 --> 113
+    line [111, 112, 112]
 ```
 
-2026-10-18 111 → 2026-11-02 111（+0）
+2026-10-18 111 → 2026-11-17 112（+1）
 
 
 ---

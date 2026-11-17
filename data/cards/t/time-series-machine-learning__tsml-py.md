@@ -1,6 +1,6 @@
 # time-series-machine-learning/tsml-py
 
-⭐ 11 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/time-series-machine-learning/tsml-py) · 个人维护
+⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/time-series-machine-learning/tsml-py) · 个人维护
 
 **时间序列机器学习算法的实验性 Python 工具箱**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "time-series-machine-learning/tsml-py 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

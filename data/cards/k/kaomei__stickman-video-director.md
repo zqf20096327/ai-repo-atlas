@@ -1,6 +1,6 @@
 # kaomei/stickman-video-director
 
-⭐ 3,711 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/kaomei/stickman-video-director) · 个人维护 · 中文 README
+⭐ 6,620 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kaomei/stickman-video-director) · 个人维护 · 中文 README
 
 **将脚本自动生成为多风格火柴人动画视频的 AI 技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaomei/stickman-video-director 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3194 --> 3758
-    line [3241, 3299, 3474, 3621, 3711]
+    title "kaomei/stickman-video-director 星数(近 14 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2904 --> 6957
+    line [3241, 3299, 3474, 3621, 3711, 5058, 5436, 5597, 5813, 6050, 6285, 6423, 6620, 6620]
 ```
 
-2026-10-29 3,241 → 2026-11-02 3,711（+470）
+2026-10-29 3,241 → 2026-11-17 6,620（+3,379）
 
 
 ---

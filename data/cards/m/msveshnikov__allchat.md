@@ -1,6 +1,6 @@
 # msveshnikov/allchat
 
-⭐ 255 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/msveshnikov/allchat) · [官网](https://allchat.online) · 个人维护
+⭐ 256 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/msveshnikov/allchat) · [官网](https://allchat.online) · 个人维护
 
 **聚合多家大模型的 AI 聊天客户端应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "msveshnikov/allchat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "msveshnikov/allchat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 254 --> 257
-    line [256, 255, 255]
+    line [256, 255, 256, 256]
 ```
 
-2026-10-18 256 → 2026-11-02 255（-1）
+2026-10-18 256 → 2026-11-17 256（+0）
 
 
 ---

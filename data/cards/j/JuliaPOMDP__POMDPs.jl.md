@@ -1,6 +1,6 @@
 # JuliaPOMDP/POMDPs.jl
 
-⭐ 770 · Julia · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/JuliaPOMDP/POMDPs.jl) · [官网](http://juliapomdp.github.io/POMDPs.jl/latest/) · 组织维护
+⭐ 772 · Julia · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/JuliaPOMDP/POMDPs.jl) · [官网](http://juliapomdp.github.io/POMDPs.jl/latest/) · 组织维护
 
 **Julia 的 MDP/POMDP 定义、求解与仿真接口框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaPOMDP/POMDPs.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 769 --> 771
-    line [770, 770]
+    title "JuliaPOMDP/POMDPs.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 769 --> 773
+    line [770, 771, 772, 772]
 ```
 
-2026-10-18 770 → 2026-11-02 770（+0）
+2026-10-18 770 → 2026-11-17 772（+2）
 
 
 ---

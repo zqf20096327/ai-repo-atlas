@@ -1,6 +1,6 @@
 # techgopal/ultrafast-ai-gateway
 
-⭐ 21 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/techgopal/ultrafast-ai-gateway) · 个人维护
+⭐ 21 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/techgopal/ultrafast-ai-gateway) · 个人维护
 
 **自托管 LLM API 网关：单 Rust 二进制提供路由、限额与控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "techgopal/ultrafast-ai-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

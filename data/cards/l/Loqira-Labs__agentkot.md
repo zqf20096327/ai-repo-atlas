@@ -1,6 +1,6 @@
 # Loqira-Labs/agentkot
 
-⭐ 14 · 推送 2026-10-01 · [GitHub](https://github.com/Loqira-Labs/agentkot) · [官网](https://agentkot.ai) · 组织维护 · 中文 README
+⭐ 14 · 推送 2026-11-15 · [GitHub](https://github.com/Loqira-Labs/agentkot) · [官网](https://agentkot.ai) · 组织维护 · 中文 README
 
 **自托管单文件多 provider AI agent 编排运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Loqira-Labs/agentkot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

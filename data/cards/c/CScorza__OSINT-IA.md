@@ -1,6 +1,6 @@
 # CScorza/OSINT-IA
 
-⭐ 102 · 推送 2026-09-09 · [GitHub](https://github.com/CScorza/OSINT-IA) · [官网](https://cscorza.github.io/CScorza/) · 个人维护
+⭐ 102 · 推送 2026-11-14 · [GitHub](https://github.com/CScorza/OSINT-IA) · [官网](https://cscorza.github.io/CScorza/) · 个人维护
 
 **面向 OSINT 分析师的 AI 工具策展清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "CScorza/OSINT-IA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 102（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # shawnduggan/nova
 
-⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/shawnduggan/nova) · 个人维护
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/shawnduggan/nova) · 个人维护
 
 **Obsidian 的 AI 写作编辑插件：对话式就地编辑文档**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "shawnduggan/nova 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DanBradbury/copilot-chat.vim
 
-⭐ 134 · Vim Script · MIT · 推送 2026-01-17 · [GitHub](https://github.com/DanBradbury/copilot-chat.vim) · 个人维护
+⭐ 135 · Vim Script · MIT · 推送 2026-01-17 · [GitHub](https://github.com/DanBradbury/copilot-chat.vim) · 个人维护
 
 **在 Vim 内使用 GitHub Copilot Chat 的对话插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DanBradbury/copilot-chat.vim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    title "DanBradbury/copilot-chat.vim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 133 --> 136
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-11-02 134（+0）
+2026-10-18 134 → 2026-11-17 135（+1）
 
 
 ---

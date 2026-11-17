@@ -1,6 +1,6 @@
 # jhagnberger/smart
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/jhagnberger/smart) · 组织维护
+⭐ 27 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/jhagnberger/smart) · 组织维护
 
 **ICML 2026 论文 SMART 官方实现：从原始几何做空气动力学仿真的 Transformer 代理模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jhagnberger/smart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "jhagnberger/smart 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 24, 26, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

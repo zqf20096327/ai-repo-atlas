@@ -1,6 +1,6 @@
 # intel/intel-technology-enabling-for-openshift
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/intel/intel-technology-enabling-for-openshift) · [官网](https://intel.github.io/intel-technology-enabling-for-openshift/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 OpenShift 上供给 Intel AI 加速器与 AI 软件的全栈方案**
 
@@ -11,7 +11,7 @@ Intel 维护的 OpenShift/Kubernetes 平台 AI 基础设施项目：通过多个
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Intel 维护的 OpenShift/Kubernetes 平台 AI 基础设施项目：通过多个
 
 ```mermaid
 xychart-beta
-    title "intel/intel-technology-enabling-for-openshift 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "intel/intel-technology-enabling-for-openshift 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08"]
     y-axis "stars" 20 --> 23
-    line [22, 21, 22, 22]
+    line [22, 21, 22, 21, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-08 22（+0）
 
 
 ---

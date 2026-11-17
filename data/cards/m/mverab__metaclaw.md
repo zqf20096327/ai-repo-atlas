@@ -1,6 +1,6 @@
 # mverab/metaclaw
 
-⭐ 33 · Shell · 推送 2026-04-17 · [GitHub](https://github.com/mverab/metaclaw) · [官网](https://www.clawbiz.io/) · 个人维护
+⭐ 32 · Shell · 推送 2026-04-17 · [GitHub](https://github.com/mverab/metaclaw) · [官网](https://www.clawbiz.io/) · 个人维护
 
 **从一句话生成完整 OpenClaw 多智能体配置的技能**
 
@@ -44,13 +44,13 @@ MetaClaw Setup Architect 是一个 OpenClaw 技能（skill），充当多智能�
 
 ```mermaid
 xychart-beta
-    title "mverab/metaclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "mverab/metaclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    line [32, 33, 32, 32]
 ```
 
-2026-10-18 32 → 2026-11-02 33（+1）
+2026-10-18 32 → 2026-11-17 32（+0）
 
 
 ---

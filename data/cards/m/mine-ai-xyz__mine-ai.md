@@ -1,6 +1,6 @@
 # mine-ai-xyz/mine-ai
 
-⭐ 376 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/mine-ai-xyz/mine-ai) · 组织维护
+⭐ 375 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/mine-ai-xyz/mine-ai) · 组织维护
 
 **支付安全/反欺诈/AML合规的AI参考实现工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mine-ai-xyz/mine-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 375 --> 377
-    line [376, 376]
+    title "mine-ai-xyz/mine-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 373 --> 377
+    line [376, 375, 374, 375, 375]
 ```
 
-2026-10-18 376 → 2026-11-02 376（+0）
+2026-10-18 376 → 2026-11-17 375（-1）
 
 
 ---

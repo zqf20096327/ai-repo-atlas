@@ -1,6 +1,6 @@
 # shiaho777/turn-mcp
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/shiaho777/turn-mcp) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/shiaho777/turn-mcp) · 个人维护 · 中文 README
 
 **自托管 MCP 服务器：让 agent 单次运行中实现人工介入循环**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shiaho777/turn-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 36 --> 40
-    line [39, 38, 37, 37]
+    title "shiaho777/turn-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 36 --> 41
+    line [39, 38, 37, 39, 38, 39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 37（-2）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

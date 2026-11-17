@@ -1,6 +1,6 @@
 # richawo/minimal-llm-ui
 
-⭐ 358 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/richawo/minimal-llm-ui) · 个人维护
+⭐ 359 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/richawo/minimal-llm-ui) · 个人维护
 
 **本地 LLM 聊天界面：通过网页 UI 使用 Ollama 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "richawo/minimal-llm-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
+    title "richawo/minimal-llm-ui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 357 --> 360
-    line [358, 359, 358, 358]
+    line [358, 359, 358, 359, 359]
 ```
 
-2026-10-18 358 → 2026-11-02 358（+0）
+2026-10-18 358 → 2026-11-17 359（+1）
 
 
 ---

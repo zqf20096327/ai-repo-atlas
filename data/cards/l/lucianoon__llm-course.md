@@ -1,6 +1,6 @@
 # lucianoon/llm-course
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lucianoon/llm-course) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/lucianoon/llm-course) · 个人维护
 
 **葡萄牙语 LLM 工程课程：从零到生产的可复现实验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucianoon/llm-course 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "lucianoon/llm-course 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 20
-    line [10, 16, 17, 18, 19]
+    line [10, 16, 17, 18, 19, 17, 19, 19]
 ```
 
-2026-10-18 10 → 2026-11-02 19（+9）
+2026-10-18 10 → 2026-11-17 19（+9）
 
 
 ---

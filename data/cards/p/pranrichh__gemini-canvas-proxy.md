@@ -1,6 +1,6 @@
 # pranrichh/gemini-canvas-proxy
 
-⭐ 35 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/pranrichh/gemini-canvas-proxy) · [官网](https://github.com/pranrichh/gemini-canvas-proxy) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/pranrichh/gemini-canvas-proxy) · [官网](https://github.com/pranrichh/gemini-canvas-proxy) · 个人维护
 
 **把 Gemini Canvas 会话转为本地 OpenAI 兼容 API 端点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pranrichh/gemini-canvas-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "pranrichh/gemini-canvas-proxy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 34 --> 39
+    line [35, 37, 38, 38]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 38（+3）
 
 
 ---

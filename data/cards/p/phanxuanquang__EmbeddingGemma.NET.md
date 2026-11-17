@@ -1,6 +1,6 @@
 # phanxuanquang/EmbeddingGemma.NET
 
-⭐ 15 · C# · 推送 2026-04-04 · [GitHub](https://github.com/phanxuanquang/EmbeddingGemma.NET) · [官网](https://www.nuget.org/packages/EmbeddingGemma.NET) · 个人维护
+⭐ 16 · C# · 推送 2026-04-04 · [GitHub](https://github.com/phanxuanquang/EmbeddingGemma.NET) · [官网](https://www.nuget.org/packages/EmbeddingGemma.NET) · 个人维护
 
 **.NET 库：本地离线运行 EmbeddingGemma-300m 生成文本嵌入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "phanxuanquang/EmbeddingGemma.NET 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "phanxuanquang/EmbeddingGemma.NET 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

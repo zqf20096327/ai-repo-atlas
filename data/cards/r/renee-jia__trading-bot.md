@@ -1,6 +1,6 @@
 # renee-jia/trading-bot
 
-⭐ 94 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/renee-jia/trading-bot) · 个人维护
+⭐ 93 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/renee-jia/trading-bot) · 个人维护
 
 **多因子选股与动量组合的宏观交易机器人，接入 Alpaca 实盘**
 
@@ -45,13 +45,13 @@ Python 编写的量化交易系统：多个分析模块（技术、趋势、宏�
 
 ```mermaid
 xychart-beta
-    title "renee-jia/trading-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "renee-jia/trading-bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 95
+    line [94, 93, 93]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 93（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jan-janssen/gmailsorter
 
-⭐ 20 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/jan-janssen/gmailsorter) · [官网](http://gmailsorter.readthedocs.io) · 个人维护
+⭐ 20 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/jan-janssen/gmailsorter) · [官网](http://gmailsorter.readthedocs.io) · 个人维护
 
 **基于相似度学习自动分类 Gmail 邮件的服务端工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jan-janssen/gmailsorter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jdaln/dgx-spark-inference-stack
 
-⭐ 52 · JavaScript · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/jdaln/dgx-spark-inference-stack) · 个人维护 · 中文 README
+⭐ 52 · JavaScript · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/jdaln/dgx-spark-inference-stack) · 个人维护 · 中文 README
 
 **单台 DGX Spark 上的 LLM 推理服务栈：OpenAI 兼容 API 按需启停模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jdaln/dgx-spark-inference-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 52（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # vietanhlee/Smart-Traffic-Monitoring-System
 
-⭐ 37 · TypeScript · AGPL-3.0 · 推送 2026-05-12 · [GitHub](https://github.com/vietanhlee/Smart-Traffic-Monitoring-System) · [官网](https://smart-traffic-monitoring-system.vercel.app/) · 个人维护
+⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-05-12 · [GitHub](https://github.com/vietanhlee/Smart-Traffic-Monitoring-System) · [官网](https://smart-traffic-monitoring-system.vercel.app/) · 个人维护
 
 **实时车辆检测与交通流监测系统，含可视化看板与 AI 问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vietanhlee/Smart-Traffic-Monitoring-System 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "vietanhlee/Smart-Traffic-Monitoring-System 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

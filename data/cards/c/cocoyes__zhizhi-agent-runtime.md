@@ -1,6 +1,6 @@
 # cocoyes/zhizhi-agent-runtime
 
-⭐ 181 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cocoyes/zhizhi-agent-runtime) · [官网](https://deepyou.top) · 个人维护 · 中文 README
+⭐ 185 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cocoyes/zhizhi-agent-runtime) · [官网](https://deepyou.top) · 个人维护 · 中文 README
 
 **Go 编写的模型无关 agent 执行运行时，覆盖规划、工具编排与恢复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cocoyes/zhizhi-agent-runtime 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "cocoyes/zhizhi-agent-runtime 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
     y-axis "stars" 178 --> 192
-    line [191, 180, 179, 180, 181, 181]
+    line [191, 180, 179, 180, 181, 180, 182, 185, 184, 185, 185]
 ```
 
-2026-10-24 191 → 2026-11-02 181（-10）
+2026-10-24 191 → 2026-11-17 185（-6）
 
 
 ---

@@ -1,6 +1,6 @@
 # pega2077/ai_file_manager
 
-⭐ 42 · TypeScript · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/pega2077/ai_file_manager) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/pega2077/ai_file_manager) · 个人维护 · 中文 README
 
 **AI 驱动的本地文件管理器：自动分类打标、语义检索与 RAG 问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pega2077/ai_file_manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "pega2077/ai_file_manager 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 41 --> 44
-    line [43, 42, 42]
+    line [43, 42, 43, 42, 43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 42（-1）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

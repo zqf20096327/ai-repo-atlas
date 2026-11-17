@@ -1,6 +1,6 @@
 # QuantOracledev/quantoracle
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/QuantOracledev/quantoracle) · [官网](https://quantoracle.dev) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/QuantOracledev/quantoracle) · [官网](https://quantoracle.dev) · 个人维护
 
 **面向金融 agent 的 63 个确定性量化计算 API 服务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuantOracledev/quantoracle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "QuantOracledev/quantoracle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

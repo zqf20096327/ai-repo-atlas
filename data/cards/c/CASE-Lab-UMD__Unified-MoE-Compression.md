@@ -1,6 +1,6 @@
 # CASE-Lab-UMD/Unified-MoE-Compression
 
-⭐ 92 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression) · [官网](https://openreview.net/forum?id=HTpMOl6xSI) · 组织维护
+⭐ 93 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression) · [官网](https://openreview.net/forum?id=HTpMOl6xSI) · 组织维护
 
 **MoE 大模型压缩研究框架：论文官方实现，统一剪枝/量化/结构裁剪**
 
@@ -44,13 +44,13 @@ TMLR 2025 论文的官方实现，来自马里兰大学 CASE Lab 等机构。提
 
 ```mermaid
 xychart-beta
-    title "CASE-Lab-UMD/Unified-MoE-Compression 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "CASE-Lab-UMD/Unified-MoE-Compression 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 94
+    line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 93（+1）
 
 
 ---

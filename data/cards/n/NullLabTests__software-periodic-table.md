@@ -1,6 +1,6 @@
 # NullLabTests/software-periodic-table
 
-⭐ 86 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/NullLabTests/software-periodic-table) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/NullLabTests/software-periodic-table) · 个人维护
 
 **115 个软件构件本体：供编码 agent 检索与组装的元素表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NullLabTests/software-periodic-table 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "NullLabTests/software-periodic-table 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 84 --> 87
-    line [85, 86, 86]
+    line [85, 86, 85, 86, 86]
 ```
 
-2026-10-18 85 → 2026-11-02 86（+1）
+2026-10-18 85 → 2026-11-17 86（+1）
 
 
 ---

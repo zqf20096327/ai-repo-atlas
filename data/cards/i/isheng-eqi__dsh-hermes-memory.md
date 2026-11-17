@@ -1,6 +1,6 @@
 # isheng-eqi/dsh-hermes-memory
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/isheng-eqi/dsh-hermes-memory) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/isheng-eqi/dsh-hermes-memory) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的双库持久记忆插件，附网页管理面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "isheng-eqi/dsh-hermes-memory 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "isheng-eqi/dsh-hermes-memory 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 21
+    line [10, 11, 10, 11, 14, 16, 18, 19, 20, 20]
 ```
 
-2026-10-23 10 → 2026-11-02 11（+1）
+2026-10-23 10 → 2026-11-17 20（+10）
 
 
 ---

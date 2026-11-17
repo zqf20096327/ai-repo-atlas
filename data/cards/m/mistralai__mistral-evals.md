@@ -1,6 +1,6 @@
 # mistralai/mistral-evals
 
-⭐ 93 · Python · 推送 2025-11-21 · [GitHub](https://github.com/mistralai/mistral-evals) · 组织维护
+⭐ 94 · Python · 推送 2025-11-21 · [GitHub](https://github.com/mistralai/mistral-evals) · 组织维护
 
 **Mistral AI 官方评测代码库：跑学术基准与 MM-MT-Bench 评测**
 
@@ -43,13 +43,13 @@ Mistral AI 发布的模型评测工具仓库：提供标准化提示词、解析
 
 ```mermaid
 xychart-beta
-    title "mistralai/mistral-evals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "mistralai/mistral-evals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 95
+    line [92, 93, 94, 94]
 ```
 
-2026-10-18 92 → 2026-11-02 93（+1）
+2026-10-18 92 → 2026-11-17 94（+2）
 
 
 ---

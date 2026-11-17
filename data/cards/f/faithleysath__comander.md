@@ -1,6 +1,6 @@
 # faithleysath/comander
 
-⭐ 226 · Shell · MIT · 推送 2025-12-31 · [GitHub](https://github.com/faithleysath/comander) · [官网](https://fuckit.sh) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 命令行工具：把自然语言描述转换成可执行的 Shell 命令**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "faithleysath/comander 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 225 --> 227
     line [226, 226]
 ```
 
-2026-10-18 226 → 2026-11-02 226（+0）
+2026-10-18 226 → 2026-11-07 226（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # votal-ai-hq/ai-red-teaming
 
-⭐ 38 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/votal-ai-hq/ai-red-teaming) · [官网](https://votal.ai) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/votal-ai-hq/ai-red-teaming) · [官网](https://votal.ai) · 组织维护
 
 **面向 Agent 应用的白盒 AI 红队测试框架：读源码生成定向攻击**
 
@@ -46,13 +46,13 @@ Node.js 编写的 LLM/Agent 应用安全测试框架：先对目标应用源码�
 
 ```mermaid
 xychart-beta
-    title "votal-ai-hq/ai-red-teaming 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    title "votal-ai-hq/ai-red-teaming 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 38, 37, 41, 41]
 ```
 
-2026-10-18 36 → 2026-11-02 38（+2）
+2026-10-18 36 → 2026-11-17 41（+5）
 
 
 ---

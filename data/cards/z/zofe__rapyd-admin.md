@@ -1,6 +1,6 @@
 # zofe/rapyd-admin
 
-⭐ 863 · PHP · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zofe/rapyd-admin) · 个人维护
+⭐ 864 · PHP · MIT · 推送 2026-11-06 · [GitHub](https://github.com/zofe/rapyd-admin) · 个人维护
 
 **面向 Laravel 的轻量管理面板，适配 AI agent 协作开发**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zofe/rapyd-admin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 861 --> 864
-    line [862, 863, 863]
+    title "zofe/rapyd-admin 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 861 --> 865
+    line [862, 863, 862, 863, 864, 864]
 ```
 
-2026-10-18 862 → 2026-11-02 863（+1）
+2026-10-18 862 → 2026-11-17 864（+2）
 
 
 ---

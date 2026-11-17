@@ -1,6 +1,6 @@
 # enochkan/torch-metrics
 
-⭐ 110 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/enochkan/torch-metrics) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/enochkan/torch-metrics) · 个人维护
 
 **PyTorch 模型评估指标库：提供常见 ML 度量类**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "enochkan/torch-metrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-18 110 → 2026-11-02 110（+0）
+2026-10-18 110 → 2026-11-17 110（+0）
 
 
 ---

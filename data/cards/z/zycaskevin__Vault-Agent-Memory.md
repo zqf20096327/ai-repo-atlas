@@ -1,6 +1,6 @@
 # zycaskevin/Vault-Agent-Memory
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/zycaskevin/Vault-Agent-Memory) · [官网](https://zycaskevin.github.io/Vault-Agent-Memory/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的 AI agent 记忆治理层：可共享、可审查、可审计**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zycaskevin/Vault-Agent-Memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-07 50（+0）
 
 
 ---

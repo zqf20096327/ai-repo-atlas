@@ -1,6 +1,6 @@
 # mrkhachaturov/hindclaw
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/mrkhachaturov/hindclaw) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/mrkhachaturov/hindclaw) · 个人维护
 
 **自托管 Hindsight 记忆管理平台：多租户权限与 Terraform 基础设施**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrkhachaturov/hindclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "mrkhachaturov/hindclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # System64fumo/kappai
 
-⭐ 13 · C · MIT · 推送 2026-11-01 · [GitHub](https://github.com/System64fumo/kappai) · 个人维护
+⭐ 17 · C · MIT · 推送 2026-11-15 · [GitHub](https://github.com/System64fumo/kappai) · 个人维护
 
 **面向低端硬件优化的本地 LLM 推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "System64fumo/kappai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 13]
+    title "System64fumo/kappai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 18
+    line [11, 13, 11, 16, 17, 17]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 17（+6）
 
 
 ---

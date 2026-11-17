@@ -1,6 +1,6 @@
 # GaeaRuiW/kube-llmops
 
-⭐ 103 · Go · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/GaeaRuiW/kube-llmops) · 个人维护 · 中文 README
+⭐ 102 · Go · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/GaeaRuiW/kube-llmops) · 个人维护 · 中文 README
 
 **Kubernetes 原生 LLMOps 平台：一条命令部署整套 LLM 运维栈**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "GaeaRuiW/kube-llmops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "GaeaRuiW/kube-llmops 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 101 --> 104
-    line [102, 103, 103]
+    line [102, 103, 102, 102]
 ```
 
-2026-10-18 102 → 2026-11-02 103（+1）
+2026-10-18 102 → 2026-11-17 102（+0）
 
 
 ---

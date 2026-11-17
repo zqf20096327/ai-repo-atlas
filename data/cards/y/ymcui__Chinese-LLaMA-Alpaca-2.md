@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca-2
 
-⭐ 7,099 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) · 组织维护 · 中文 README
+⭐ 7,098 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) · 组织维护 · 中文 README
 
 **基于 Llama-2 的中文扩充开源大模型系列（含 64K 长上下文与 RLHF 版）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ymcui/Chinese-LLaMA-Alpaca-2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 7098 --> 7106
-    line [7105, 7103, 7101, 7100, 7099, 7099]
+    title "ymcui/Chinese-LLaMA-Alpaca-2 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 7097 --> 7106
+    line [7105, 7103, 7101, 7100, 7099, 7100, 7098, 7099, 7098, 7098]
 ```
 
-2026-10-18 7,105 → 2026-11-02 7,099（-6）
+2026-10-18 7,105 → 2026-11-17 7,098（-7）
 
 
 ---

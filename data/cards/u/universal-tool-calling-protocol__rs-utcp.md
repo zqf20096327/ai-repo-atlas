@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/rs-utcp
 
-⭐ 59 · Rust · MPL-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/universal-tool-calling-protocol/rs-utcp) · [官网](https://universal-tool-calling-protocol.github.io/rust/) · 组织维护
+⭐ 61 · Rust · MPL-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/universal-tool-calling-protocol/rs-utcp) · [官网](https://universal-tool-calling-protocol.github.io/rust/) · 组织维护
 
 **UTCP 协议的 Rust 客户端：统一接口调用 12 种协议的工具**
 
@@ -46,13 +46,13 @@ Universal Tool Calling Protocol 的官方 Rust 实现，为开发者提供单一
 
 ```mermaid
 xychart-beta
-    title "universal-tool-calling-protocol/rs-utcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "universal-tool-calling-protocol/rs-utcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 58 --> 62
+    line [59, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 61（+2）
 
 
 ---

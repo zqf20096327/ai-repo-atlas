@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-HarmonyOS
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-HarmonyOS) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 39 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-HarmonyOS) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **面向 HarmonyOS 开发者的实时交互式视频生成 SDK**
 
@@ -44,13 +44,13 @@ XmaxSDK 是以 ArkTS 编写的鸿蒙原生 SDK，封装 Xmax 模型的实时交�
 
 ```mermaid
 xychart-beta
-    title "Xmax-AI/XmaxSDK-HarmonyOS 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
+    title "Xmax-AI/XmaxSDK-HarmonyOS 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-17"]
     y-axis "stars" 37 --> 58
-    line [54, 57, 38, 39, 39]
+    line [54, 57, 38, 39, 38, 39, 39]
 ```
 
-2026-10-19 54 → 2026-11-02 39（-15）
+2026-10-19 54 → 2026-11-17 39（-15）
 
 
 ---

@@ -1,6 +1,6 @@
 # gokhantos/opencrow
 
-⭐ 24 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/gokhantos/opencrow) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/gokhantos/opencrow) · 个人维护
 
 **自托管多 agent 平台：在 Telegram/WhatsApp/Web 运行专属 AI agent**
 
@@ -44,13 +44,13 @@ OpenCrow 是自托管的多 agent AI 平台，核心编排器以隔离子进程�
 
 ```mermaid
 xychart-beta
-    title "gokhantos/opencrow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "gokhantos/opencrow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

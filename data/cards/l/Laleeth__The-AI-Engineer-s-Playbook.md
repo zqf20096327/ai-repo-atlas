@@ -1,6 +1,6 @@
 # Laleeth/The-AI-Engineer-s-Playbook
 
-⭐ 14 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Laleeth/The-AI-Engineer-s-Playbook) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Laleeth/The-AI-Engineer-s-Playbook) · 个人维护
 
 **面向生产 AI 系统工程岗位的面试准备与实操参考手册**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Laleeth/The-AI-Engineer-s-Playbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "Laleeth/The-AI-Engineer-s-Playbook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

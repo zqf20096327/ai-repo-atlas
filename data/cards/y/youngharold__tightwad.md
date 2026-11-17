@@ -1,6 +1,6 @@
 # youngharold/tightwad
 
-⭐ 38 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/youngharold/tightwad) · [官网](https://tightwad.dev) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/youngharold/tightwad) · [官网](https://tightwad.dev) · 个人维护
 
 **混厂牌 GPU 推理集群管理器，带跨机投机解码代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "youngharold/tightwad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "youngharold/tightwad 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

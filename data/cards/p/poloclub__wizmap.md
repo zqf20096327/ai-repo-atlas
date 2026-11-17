@@ -1,6 +1,6 @@
 # poloclub/wizmap
 
-⭐ 539 · TypeScript · MIT · 推送 2026-01-22 · [GitHub](https://github.com/poloclub/wizmap) · [官网](https://poloclub.github.io/wizmap/) · 组织维护
+⭐ 540 · TypeScript · MIT · 推送 2026-01-22 · [GitHub](https://github.com/poloclub/wizmap) · [官网](https://poloclub.github.io/wizmap/) · 组织维护
 
 **在浏览器中交互探索大规模机器学习嵌入的的可视化工具**
 
@@ -45,13 +45,13 @@ Georgia Tech Polo Club 出品的嵌入可视化工具：通过多分辨率嵌入
 
 ```mermaid
 xychart-beta
-    title "poloclub/wizmap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "poloclub/wizmap 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 538 --> 541
-    line [540, 539, 539]
+    line [540, 539, 540, 539, 540, 540]
 ```
 
-2026-10-18 540 → 2026-11-02 539（-1）
+2026-10-18 540 → 2026-11-17 540（+0）
 
 
 ---

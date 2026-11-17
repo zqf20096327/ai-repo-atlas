@@ -1,6 +1,6 @@
 # arslanr-com/writehuman
 
-⭐ 12 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/arslanr-com/writehuman) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **统计式文本检测工具：标出读起来像 LLM 输出的词句并给出偏离程度**
 
@@ -11,7 +11,7 @@ writehuman 是一个 Node.js CLI，附带供编码 agent 使用的 Agent Skill�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ writehuman 是一个 Node.js CLI，附带供编码 agent 使用的 Agent Skill�
 
 ```mermaid
 xychart-beta
-    title "arslanr-com/writehuman 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
+    title "arslanr-com/writehuman 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-07"]
     y-axis "stars" 8 --> 13
-    line [9, 10, 11, 12, 12]
+    line [9, 10, 11, 12, 10, 10]
 ```
 
-2026-10-18 9 → 2026-11-02 12（+3）
+2026-10-18 9 → 2026-11-07 10（+1）
 
 
 ---

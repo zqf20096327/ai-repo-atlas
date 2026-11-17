@@ -1,6 +1,6 @@
 # haidrrrry/humanize-ai-writing
 
-⭐ 23 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/haidrrrry/humanize-ai-writing) · [官网](https://instagram.com/haidercodes) · 个人维护
+⭐ 27 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/haidrrrry/humanize-ai-writing) · [官网](https://instagram.com/haidercodes) · 个人维护
 
 **让 ChatGPT/Claude 等聊天模型写出类人文风的系统提示词与技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haidrrrry/humanize-ai-writing 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 21, 22, 23, 23]
+    title "haidrrrry/humanize-ai-writing 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 29
+    line [19, 20, 21, 22, 23, 21, 27, 26, 28, 27, 27]
 ```
 
-2026-10-18 19 → 2026-11-02 23（+4）
+2026-10-18 19 → 2026-11-17 27（+8）
 
 
 ---

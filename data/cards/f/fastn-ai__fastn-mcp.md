@@ -1,6 +1,6 @@
 # fastn-ai/fastn-mcp
 
-⭐ 23 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/fastn-ai/fastn-mcp) · [官网](https://fastn.ai) · 组织维护
+⭐ 23 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/fastn-ai/fastn-mcp) · [官网](https://fastn.ai) · 组织维护
 
 **面向 SaaS 的多租户 MCP 网关：给 AI agent 受控接入 250+ 集成**
 
@@ -45,12 +45,12 @@ Fastn 平台的 Model Context Protocol（MCP）服务器：通过单一多租户
 ```mermaid
 xychart-beta
     title "fastn-ai/fastn-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

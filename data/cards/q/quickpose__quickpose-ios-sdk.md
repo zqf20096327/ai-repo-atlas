@@ -1,6 +1,6 @@
 # quickpose/quickpose-ios-sdk
 
-⭐ 327 · Swift · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/quickpose/quickpose-ios-sdk) · [官网](https://docs.quickpose.ai/docs/MobileSDK) · 组织维护
+⭐ 328 · Swift · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/quickpose/quickpose-ios-sdk) · [官网](https://docs.quickpose.ai/docs/MobileSDK) · 组织维护
 
 **iOS 姿态估计 SDK：为 App 加入 MediaPipe 人体/手部检测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "quickpose/quickpose-ios-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 326 --> 328
-    line [327, 327]
+    title "quickpose/quickpose-ios-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 326 --> 329
+    line [327, 328, 328]
 ```
 
-2026-10-18 327 → 2026-11-02 327（+0）
+2026-10-18 327 → 2026-11-17 328（+1）
 
 
 ---

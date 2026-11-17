@@ -1,6 +1,6 @@
 # sidpalas/deputies
 
-⭐ 111 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/sidpalas/deputies) · [官网](https://deputies.dev) · 个人维护
+⭐ 113 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sidpalas/deputies) · [官网](https://deputies.dev) · 个人维护
 
 **委派工程任务给后台 Agent 的控制平面，带 Web UI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sidpalas/deputies 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    title "sidpalas/deputies 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 109 --> 114
+    line [110, 111, 112, 113, 113]
 ```
 
-2026-10-18 110 → 2026-11-02 111（+1）
+2026-10-18 110 → 2026-11-17 113（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # FareedKhan-dev/agentic-knowledge-graph
 
-⭐ 67 · Jupyter Notebook · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/FareedKhan-dev/agentic-knowledge-graph) · 个人维护
+⭐ 69 · Jupyter Notebook · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/FareedKhan-dev/agentic-knowledge-graph) · 个人维护
 
 **基于结构化元数据的知识图谱 RAG：在 PubMedQA 上做可溯源问答研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/agentic-knowledge-graph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 63 --> 68
-    line [64, 65, 66, 67, 67]
+    title "FareedKhan-dev/agentic-knowledge-graph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 63 --> 70
+    line [64, 65, 66, 67, 66, 68, 69, 69]
 ```
 
-2026-10-18 64 → 2026-11-02 67（+3）
+2026-10-18 64 → 2026-11-17 69（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # mingchen666/DocTranslator
 
-⭐ 285 · Python · 推送 2026-09-30 · [GitHub](https://github.com/mingchen666/DocTranslator) · [官网](https://www.doctranslator.cn) · 个人维护 · 中文 README
+⭐ 286 · Python · 推送 2026-09-30 · [GitHub](https://github.com/mingchen666/DocTranslator) · [官网](https://www.doctranslator.cn) · 个人维护 · 中文 README
 
 **面向个人与团队的文档 AI 翻译 Web 应用，支持批量与多线程**
 
@@ -45,13 +45,13 @@ DocTranslator 是基于 Vue 3 + Flask + MySQL/SQLite 的文档翻译 Web 应用�
 
 ```mermaid
 xychart-beta
-    title "mingchen666/DocTranslator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "mingchen666/DocTranslator 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 284 --> 290
-    line [289, 288, 287, 286, 285, 285]
+    line [289, 288, 287, 286, 285, 286, 285, 286, 286]
 ```
 
-2026-10-18 289 → 2026-11-02 285（-4）
+2026-10-18 289 → 2026-11-17 286（-3）
 
 
 ---

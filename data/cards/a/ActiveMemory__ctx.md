@@ -1,6 +1,6 @@
 # ActiveMemory/ctx
 
-⭐ 79 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ActiveMemory/ctx) · [官网](https://ctx.ist) · 组织维护
+⭐ 80 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ActiveMemory/ctx) · [官网](https://ctx.ist) · 组织维护
 
 **让 AI 编程助手跨会话持久化项目上下文的文件式系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ActiveMemory/ctx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    title "ActiveMemory/ctx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 78 --> 81
+    line [79, 80, 80]
 ```
 
-2026-10-18 79 → 2026-11-02 79（+0）
+2026-10-18 79 → 2026-11-17 80（+1）
 
 
 ---

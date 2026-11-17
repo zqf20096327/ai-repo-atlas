@@ -1,6 +1,6 @@
 # mightystudios/StrixHaloCluster
 
-⭐ 11 · Shell · 推送 2026-10-09 · [GitHub](https://github.com/mightystudios/StrixHaloCluster) · 个人维护
+⭐ 12 · Shell · 推送 2026-10-09 · [GitHub](https://github.com/mightystudios/StrixHaloCluster) · 个人维护
 
 **两台 AMD Strix Halo 迷你主机组建本地 AI 推理集群的配置脚本集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mightystudios/StrixHaloCluster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "mightystudios/StrixHaloCluster 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

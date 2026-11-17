@@ -1,6 +1,6 @@
 # johnzfitch/claude-wiki
 
-⭐ 24 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/johnzfitch/claude-wiki) · [官网](https://www.platform.claude.com) · 个人维护
+⭐ 26 · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/johnzfitch/claude-wiki) · [官网](https://www.platform.claude.com) · 个人维护
 
 **Anthropic Claude 官方文档的非官方 Markdown 镜像，供检索与模型上下文使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "johnzfitch/claude-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "johnzfitch/claude-wiki 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

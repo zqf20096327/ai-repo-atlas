@@ -1,6 +1,6 @@
 # mlwithme/MachineLearningWithMe
 
-⭐ 283 · Jupyter Notebook · 推送 2026-07-11 · [GitHub](https://github.com/mlwithme/MachineLearningWithMe) · 组织维护 · 中文 README
+⭐ 284 · Jupyter Notebook · 推送 2026-07-11 · [GitHub](https://github.com/mlwithme/MachineLearningWithMe) · 组织维护 · 中文 README
 
 **机器学习算法原理与从零实现的教程仓库（配书/视频）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlwithme/MachineLearningWithMe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 282 --> 284
-    line [283, 283]
+    title "mlwithme/MachineLearningWithMe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 282 --> 285
+    line [283, 284, 284]
 ```
 
-2026-10-18 283 → 2026-11-02 283（+0）
+2026-10-18 283 → 2026-11-17 284（+1）
 
 
 ---

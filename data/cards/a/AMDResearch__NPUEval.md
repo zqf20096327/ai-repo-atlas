@@ -1,6 +1,6 @@
 # AMDResearch/NPUEval
 
-⭐ 34 · C++ · 推送 2025-11-08 · [GitHub](https://github.com/AMDResearch/NPUEval) · [官网](https://amdresearch.github.io/NPUEval/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 RyzenAI 硬件的 AIE 内核代码生成 LLM 评测数据集**
 
@@ -45,12 +45,12 @@ AMDResearch 维护的 LLM 评测数据集，用于测试模型在 AMD RyzenAI NP
 ```mermaid
 xychart-beta
     title "AMDResearch/NPUEval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-07 34（+0）
 
 
 ---

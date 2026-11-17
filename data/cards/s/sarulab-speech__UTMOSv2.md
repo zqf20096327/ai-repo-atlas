@@ -1,6 +1,6 @@
 # sarulab-speech/UTMOSv2
 
-⭐ 377 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/sarulab-speech/UTMOSv2) · 组织维护
+⭐ 380 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/sarulab-speech/UTMOSv2) · 组织维护
 
 **预测合成语音自然度 MOS 的模型与 Python 库**
 
@@ -45,13 +45,13 @@ UTokyo-SaruLab 的 MOS（平均意见分）预测系统官方实现，VoiceMOS C
 
 ```mermaid
 xychart-beta
-    title "sarulab-speech/UTMOSv2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 373 --> 378
-    line [374, 375, 376, 377, 377]
+    title "sarulab-speech/UTMOSv2 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 373 --> 381
+    line [374, 375, 376, 377, 375, 377, 379, 380, 380]
 ```
 
-2026-10-18 374 → 2026-11-02 377（+3）
+2026-10-18 374 → 2026-11-17 380（+6）
 
 
 ---

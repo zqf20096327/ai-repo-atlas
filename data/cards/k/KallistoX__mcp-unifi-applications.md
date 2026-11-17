@@ -1,6 +1,6 @@
 # KallistoX/mcp-unifi-applications
 
-⭐ 40 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/KallistoX/mcp-unifi-applications) · [官网](https://pypi.org/project/mcp-unifi-applications/) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KallistoX/mcp-unifi-applications) · [官网](https://pypi.org/project/mcp-unifi-applications/) · 个人维护
 
 **让 AI agent 查询 UniFi 官方 API 文档的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KallistoX/mcp-unifi-applications 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

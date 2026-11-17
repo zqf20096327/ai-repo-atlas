@@ -1,6 +1,6 @@
 # AuraVixStudio/caelo
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/AuraVixStudio/caelo) · [官网](https://auravixstudio.github.io/caelo/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/AuraVixStudio/caelo) · [官网](https://auravixstudio.github.io/caelo/) · 组织维护
 
 **面向消费者的多模型桌面客户端：Grok/Gemini/GPT 聊天、图像视频、语音与编程代理**
 
@@ -44,13 +44,13 @@ Electron + Python sidecar 架构的开源桌面应用，将 xAI Grok、Google Ge
 
 ```mermaid
 xychart-beta
-    title "AuraVixStudio/caelo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "AuraVixStudio/caelo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

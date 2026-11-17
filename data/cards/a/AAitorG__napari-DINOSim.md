@@ -1,6 +1,6 @@
 # AAitorG/napari-DINOSim
 
-⭐ 21 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AAitorG/napari-DINOSim) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/AAitorG/napari-DINOSim) · 组织维护
 
 **基于 DINOv2 的零样本显微图像分割 napari 插件**
 
@@ -44,13 +44,13 @@ napari 插件，利用预训练 DINOv2 视觉变换器做零样本图像分割�
 
 ```mermaid
 xychart-beta
-    title "AAitorG/napari-DINOSim 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 13 --> 22
-    line [14, 16, 20, 21, 21]
+    title "AAitorG/napari-DINOSim 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 29
+    line [14, 16, 20, 21, 14, 27, 28, 28]
 ```
 
-2026-10-18 14 → 2026-11-02 21（+7）
+2026-10-18 14 → 2026-11-17 28（+14）
 
 
 ---

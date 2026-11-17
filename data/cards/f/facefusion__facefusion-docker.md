@@ -1,6 +1,6 @@
 # facefusion/facefusion-docker
 
-⭐ 558 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-docker) · [官网](https://facefusion.io) · 组织维护
+⭐ 560 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-docker) · [官网](https://facefusion.io) · 组织维护
 
 **FaceFusion 换脸/口型合成平台的 Docker 部署仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "facefusion/facefusion-docker 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 554 --> 559
-    line [556, 555, 556, 557, 558, 558]
+    title "facefusion/facefusion-docker 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 554 --> 561
+    line [556, 555, 556, 557, 558, 556, 557, 558, 557, 558, 560, 560]
 ```
 
-2026-10-18 556 → 2026-11-02 558（+2）
+2026-10-18 556 → 2026-11-17 560（+4）
 
 
 ---

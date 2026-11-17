@@ -1,6 +1,6 @@
 # AaronWander/EmbedMCP
 
-⭐ 34 · C · MIT · 推送 2026-02-10 · [GitHub](https://github.com/AaronWander/EmbedMCP) · 个人维护 · 中文 README
+⭐ 36 · C · MIT · 推送 2026-02-10 · [GitHub](https://github.com/AaronWander/EmbedMCP) · 个人维护 · 中文 README
 
 **轻量 C 库：把嵌入式 C 函数封装成 MCP 服务器供 AI 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AaronWander/EmbedMCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "AaronWander/EmbedMCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

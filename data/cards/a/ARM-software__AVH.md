@@ -1,6 +1,6 @@
 # ARM-software/AVH
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ARM-software/AVH) · [官网](https://arm-software.github.io/AVH) · 组织维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ARM-software/AVH) · [官网](https://arm-software.github.io/AVH) · 组织维护
 
 **Arm 固定虚拟平台（FVP）的开发者资源与示例集合**
 
@@ -44,13 +44,13 @@ Arm 官方仓库，提供 Fixed Virtual Platform（FVP）仿真的开发者资�
 
 ```mermaid
 xychart-beta
-    title "ARM-software/AVH 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    title "ARM-software/AVH 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56, 56]
 ```
 
-2026-10-18 54 → 2026-11-02 55（+1）
+2026-10-18 54 → 2026-11-17 56（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # cai11745/hybrid-cloud
 
-⭐ 44 · CSS · 推送 2026-03-20 · [GitHub](https://github.com/cai11745/hybrid-cloud) · [官网](https://misa.gitbook.io/k8s-ocp-yaml/) · 个人维护 · 中文 README
+⭐ 45 · CSS · 推送 2026-03-20 · [GitHub](https://github.com/cai11745/hybrid-cloud) · [官网](https://misa.gitbook.io/k8s-ocp-yaml/) · 个人维护 · 中文 README
 
 **个人 k8s/OpenShift/Azure/AI 运维学习笔记库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cai11745/hybrid-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "cai11745/hybrid-cloud 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 46
+    line [44, 45, 45]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 45（+1）
 
 
 ---

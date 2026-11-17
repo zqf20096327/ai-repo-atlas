@@ -1,6 +1,6 @@
 # Sinapsis-AI/sinapsis-object-detection
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-04-20 · [GitHub](https://github.com/Sinapsis-AI/sinapsis-object-detection) · [官网](https://sinapsis.tech/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向计算机视觉开发者的多模型目标检测训练与推理模板集**
 
@@ -11,7 +11,7 @@ Sinapsis 体系下的目标检测 mono repo，包含三个包：sinapsis-dfine�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ Sinapsis 体系下的目标检测 mono repo，包含三个包：sinapsis-dfine�
 ```mermaid
 xychart-beta
     title "Sinapsis-AI/sinapsis-object-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-13 20（+0）
 
 
 ---

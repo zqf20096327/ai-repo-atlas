@@ -1,6 +1,6 @@
 # usik/tamagotchi
 
-⭐ 15 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/usik/tamagotchi) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/usik/tamagotchi) · 个人维护
 
 **终端里的电子宠物鸡：完整养成玩法，并对 AI 编码代理会话做出反应**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "usik/tamagotchi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "usik/tamagotchi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

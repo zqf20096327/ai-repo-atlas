@@ -1,6 +1,6 @@
 # ather-techie/ai-system-design-interview
 
-⭐ 31 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ather-techie/ai-system-design-interview) · 个人维护
+⭐ 33 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ather-techie/ai-system-design-interview) · 个人维护
 
 **面向工程师的 AI/ML 系统设计面试准备指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ather-techie/ai-system-design-interview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31, 31]
+    title "ather-techie/ai-system-design-interview 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 30, 31, 32, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-02 31（+3）
+2026-10-18 28 → 2026-11-17 33（+5）
 
 
 ---

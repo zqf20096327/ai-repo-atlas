@@ -1,6 +1,6 @@
 # rishikksh20/voxtral-codec-pytoch
 
-⭐ 18 · Python · 推送 2026-03-27 · [GitHub](https://github.com/rishikksh20/voxtral-codec-pytoch) · 个人维护
+⭐ 19 · Python · 推送 2026-11-04 · [GitHub](https://github.com/rishikksh20/voxtral-codec-pytoch) · 个人维护
 
 **Voxtral 语音编解码器的 PyTorch 训练实现，用于 TTS**
 
@@ -45,13 +45,13 @@ Mistral AI Voxtral TTS 论文中 codec 组件的 PyTorch 实现：将 24 kHz 单
 
 ```mermaid
 xychart-beta
-    title "rishikksh20/voxtral-codec-pytoch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "rishikksh20/voxtral-codec-pytoch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

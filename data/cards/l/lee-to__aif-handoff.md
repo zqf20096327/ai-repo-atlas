@@ -1,6 +1,6 @@
 # lee-to/aif-handoff
 
-⭐ 313 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lee-to/aif-handoff) · [官网](https://aif.cutcode.dev) · 个人维护
+⭐ 312 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lee-to/aif-handoff) · [官网](https://aif.cutcode.dev) · 个人维护
 
 **AI 代理自主执行任务的看板：自动规划、实现与评审**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lee-to/aif-handoff 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 308 --> 314
-    line [309, 310, 311, 313, 313]
+    title "lee-to/aif-handoff 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 308 --> 315
+    line [309, 310, 311, 313, 311, 314, 313, 312, 312]
 ```
 
-2026-10-18 309 → 2026-11-02 313（+4）
+2026-10-18 309 → 2026-11-17 312（+3）
 
 
 ---

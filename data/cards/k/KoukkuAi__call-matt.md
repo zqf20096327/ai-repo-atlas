@@ -1,6 +1,6 @@
 # KoukkuAi/call-matt
 
-⭐ 12 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/KoukkuAi/call-matt) · [官网](https://www.johntammi.fi/en) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/KoukkuAi/call-matt) · [官网](https://www.johntammi.fi/en) · 个人维护
 
 **为 Matt Pocock 的 agent 技能提供统一路由的编排技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KoukkuAi/call-matt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "KoukkuAi/call-matt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

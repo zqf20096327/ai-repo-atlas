@@ -1,6 +1,6 @@
 # rushindrasinha/openclaw-guide
 
-⭐ 20 · CSS · 推送 2026-10-14 · [GitHub](https://github.com/rushindrasinha/openclaw-guide) · 个人维护
+⭐ 22 · CSS · 推送 2026-10-14 · [GitHub](https://github.com/rushindrasinha/openclaw-guide) · 个人维护
 
 **OpenClaw 自托管 AI agent 的实践指南与工具链手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rushindrasinha/openclaw-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    title "rushindrasinha/openclaw-guide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 20, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

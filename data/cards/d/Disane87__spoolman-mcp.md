@@ -1,6 +1,6 @@
 # Disane87/spoolman-mcp
 
-⭐ 19 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Disane87/spoolman-mcp) · [官网](https://blog.disane.dev) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Disane87/spoolman-mcp) · [官网](https://blog.disane.dev) · 个人维护
 
 **连接 AI 助手与 Spoolman 的 MCP 服务器：用自然语言管理 3D 打印耗材**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Disane87/spoolman-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 19, 19]
+    title "Disane87/spoolman-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 19, 17, 19, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

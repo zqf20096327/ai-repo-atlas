@@ -1,6 +1,6 @@
 # coinluu/xhs-topic-strategist-skill
 
-⭐ 29 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/coinluu/xhs-topic-strategist-skill) · 个人维护 · 中文 README
+⭐ 28 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/coinluu/xhs-topic-strategist-skill) · 个人维护 · 中文 README
 
 **面向 AI Agent 的小红书选题策划 Markdown 规则包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coinluu/xhs-topic-strategist-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
+    title "coinluu/xhs-topic-strategist-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    line [27, 28, 29, 28, 29, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

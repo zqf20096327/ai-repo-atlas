@@ -1,6 +1,6 @@
 # serengil/chefboost
 
-⭐ 488 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/serengil/chefboost) · [官网](https://www.youtube.com/watch?v=Z93qE5eb6eg&list=PLsS_1RYmYQQHp_xZObt76dpacY543GrJD&index=3) · 个人维护
+⭐ 489 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/serengil/chefboost) · [官网](https://www.youtube.com/watch?v=Z93qE5eb6eg&list=PLsS_1RYmYQQHp_xZObt76dpacY543GrJD&index=3) · 个人维护
 
 **轻量级 Python 决策树框架，支持 ID3/C4.5/CART/CHAID 及集成方法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serengil/chefboost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 487 --> 489
-    line [488, 488]
+    title "serengil/chefboost 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 487 --> 490
+    line [488, 489, 489]
 ```
 
-2026-10-18 488 → 2026-11-02 488（+0）
+2026-10-18 488 → 2026-11-17 489（+1）
 
 
 ---

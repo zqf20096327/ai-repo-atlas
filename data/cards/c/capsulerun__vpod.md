@@ -1,6 +1,6 @@
 # capsulerun/vpod
 
-⭐ 79 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/capsulerun/vpod) · [官网](https://docs.vpod.sh/) · 组织维护
+⭐ 78 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/capsulerun/vpod) · [官网](https://docs.vpod.sh/) · 组织维护
 
 **面向不可信代码的轻量 Linux 沙箱：浏览器与服务器均可运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "capsulerun/vpod 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02"]
+    title "capsulerun/vpod 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79, 79]
+    line [76, 77, 78, 79, 78, 78]
 ```
 
-2026-10-18 76 → 2026-11-02 79（+3）
+2026-10-18 76 → 2026-11-17 78（+2）
 
 
 ---

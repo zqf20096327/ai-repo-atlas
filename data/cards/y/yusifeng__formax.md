@@ -1,6 +1,6 @@
 # yusifeng/formax
 
-⭐ 192 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/yusifeng/formax) · [官网](https://github.com/yusifeng/formax) · 个人维护 · 中文 README
+⭐ 184 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/yusifeng/formax) · [官网](https://github.com/yusifeng/formax) · 个人维护 · 中文 README
 
 **终端优先的软件工程 AI 助手，复刻 Claude Code 工作流**
 
@@ -44,13 +44,13 @@ Formax 是开源的 Claude Code 风格 AI 编程助手，提供终端 TUI 与 We
 
 ```mermaid
 xychart-beta
-    title "yusifeng/formax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 191 --> 195
-    line [194, 192, 192]
+    title "yusifeng/formax 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 183 --> 195
+    line [194, 192, 184, 184]
 ```
 
-2026-10-18 194 → 2026-11-02 192（-2）
+2026-10-18 194 → 2026-11-17 184（-10）
 
 
 ---

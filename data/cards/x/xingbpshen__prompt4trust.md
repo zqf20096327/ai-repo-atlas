@@ -1,6 +1,6 @@
 # xingbpshen/prompt4trust
 
-⭐ 14 · Python · MIT · 推送 2025-12-11 · [GitHub](https://github.com/xingbpshen/prompt4trust) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/xingbpshen/prompt4trust) · 组织维护
 
 **论文官方实现：RL 提示增强校准 MLLM 临床置信度**
 
@@ -45,12 +45,12 @@ ICCV 2025 Workshop 论文 Prompt4Trust 的官方 PyTorch 实现：训练一个�
 ```mermaid
 xychart-beta
     title "xingbpshen/prompt4trust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

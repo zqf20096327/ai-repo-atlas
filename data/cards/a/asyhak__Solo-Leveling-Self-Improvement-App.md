@@ -1,6 +1,6 @@
 # asyhak/Solo-Leveling-Self-Improvement-App
 
-⭐ 45 · TypeScript · 推送 2026-01-11 · [GitHub](https://github.com/asyhak/Solo-Leveling-Self-Improvement-App) · [官网](https://v0-dark-fantasy-self-improvement.vercel.app) · 个人维护
+⭐ 46 · TypeScript · 推送 2026-01-11 · [GitHub](https://github.com/asyhak/Solo-Leveling-Self-Improvement-App) · [官网](https://v0-dark-fantasy-self-improvement.vercel.app) · 个人维护
 
 **游戏化自我提升应用：将个人目标转化为 RPG 任务与战斗**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "asyhak/Solo-Leveling-Self-Improvement-App 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    title "asyhak/Solo-Leveling-Self-Improvement-App 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-11-02 45（+2）
+2026-10-18 43 → 2026-11-17 46（+3）
 
 
 ---

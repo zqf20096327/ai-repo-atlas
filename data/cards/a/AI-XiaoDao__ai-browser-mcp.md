@@ -1,6 +1,6 @@
 # AI-XiaoDao/ai-browser-mcp
 
-⭐ 54 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/AI-XiaoDao/ai-browser-mcp) · [官网](https://github.com/AI-XiaoDao/ai-browser-mcp#readme) · 个人维护 · 中文 README
+⭐ 55 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/AI-XiaoDao/ai-browser-mcp) · [官网](https://github.com/AI-XiaoDao/ai-browser-mcp#readme) · 个人维护 · 中文 README
 
 **Windows 本地浏览器自动化 MCP 服务端，向 AI 助手暴露 334 个工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI-XiaoDao/ai-browser-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "AI-XiaoDao/ai-browser-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 53, 55, 55]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 55（+2）
 
 
 ---

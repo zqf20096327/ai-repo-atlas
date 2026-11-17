@@ -1,6 +1,6 @@
 # cola-runner/awesome-tui-design
 
-⭐ 44 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/cola-runner/awesome-tui-design) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/cola-runner/awesome-tui-design) · 个人维护
 
 **面向 AI 编码 agent 的终端 UI 设计系统清单（DESIGN.md 合集）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cola-runner/awesome-tui-design 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 43, 44, 44]
+    title "cola-runner/awesome-tui-design 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 48
+    line [42, 43, 44, 43, 44, 43, 47, 47]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 47（+5）
 
 
 ---

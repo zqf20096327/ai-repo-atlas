@@ -1,6 +1,6 @@
 # Lombiq/Tailwind-Agent-Skills
 
-⭐ 79 · Python · BSD-3-Clause · 推送 2026-04-09 · [GitHub](https://github.com/Lombiq/Tailwind-Agent-Skills) · 组织维护
+⭐ 80 · Python · BSD-3-Clause · 推送 2026-04-09 · [GitHub](https://github.com/Lombiq/Tailwind-Agent-Skills) · 组织维护
 
 **Tailwind CSS v4 的 agent 技能包：本地文档快照与索引**
 
@@ -44,13 +44,13 @@ Lombiq 维护的 Tailwind v4 开发 agent 技能仓库，含 tailwind-4-docs 技
 
 ```mermaid
 xychart-beta
-    title "Lombiq/Tailwind-Agent-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 76 --> 80
-    line [77, 78, 79, 79]
+    title "Lombiq/Tailwind-Agent-Skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 76 --> 81
+    line [77, 78, 79, 77, 79, 80, 80]
 ```
 
-2026-10-18 77 → 2026-11-02 79（+2）
+2026-10-18 77 → 2026-11-17 80（+3）
 
 
 ---

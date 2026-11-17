@@ -1,6 +1,6 @@
 # peterfei/ai-agent-team
 
-⭐ 448 · JavaScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/peterfei/ai-agent-team) · 个人维护 · 中文 README
+⭐ 452 · JavaScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/peterfei/ai-agent-team) · 个人维护 · 中文 README
 
 **面向 Claude Code 的多角色 AI 开发团队技能与线程记忆套件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "peterfei/ai-agent-team 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 442 --> 449
-    line [443, 444, 445, 446, 448, 448]
+    title "peterfei/ai-agent-team 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 442 --> 453
+    line [443, 444, 445, 446, 448, 446, 450, 452, 452]
 ```
 
-2026-10-18 443 → 2026-11-02 448（+5）
+2026-10-18 443 → 2026-11-17 452（+9）
 
 
 ---

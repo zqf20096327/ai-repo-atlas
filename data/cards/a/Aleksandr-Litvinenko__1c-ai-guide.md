@@ -1,6 +1,6 @@
 # Aleksandr-Litvinenko/1c-ai-guide
 
-⭐ 12 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Aleksandr-Litvinenko/1c-ai-guide) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Aleksandr-Litvinenko/1c-ai-guide) · 个人维护
 
 **俄语指南：如何安全地把 AI 代理接入 1С 与 Bitrix24**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aleksandr-Litvinenko/1c-ai-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Aleksandr-Litvinenko/1c-ai-guide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

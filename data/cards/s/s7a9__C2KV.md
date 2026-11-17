@@ -1,6 +1,6 @@
 # s7a9/C2KV
 
-⭐ 11 · Python · 推送 2026-08-17 · [GitHub](https://github.com/s7a9/C2KV) · 个人维护
+⭐ 12 · Python · 推送 2026-08-17 · [GitHub](https://github.com/s7a9/C2KV) · 个人维护
 
 **可拼接压缩 KV Cache 的 LLM 推理复用研究代码**
 
@@ -45,13 +45,13 @@ C2KV 是一种 KV Cache 压缩与复用方法的研究实现：冻结基础模�
 
 ```mermaid
 xychart-beta
-    title "s7a9/C2KV 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "s7a9/C2KV 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

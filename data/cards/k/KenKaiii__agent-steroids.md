@@ -1,6 +1,6 @@
 # KenKaiii/agent-steroids
 
-⭐ 12 · Rust · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/KenKaiii/agent-steroids) · 个人维护
+⭐ 26 · Rust · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/KenKaiii/agent-steroids) · [官网](https://www.skool.com/raid) · 个人维护
 
 **为编码 agent 提供本地开源代码语料库与正则搜索的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KenKaiii/agent-steroids 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12]
+    title "KenKaiii/agent-steroids 星数(近 8 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 10 --> 27
+    line [11, 12, 20, 22, 23, 25, 26, 26]
 ```
 
-2026-11-01 11 → 2026-11-02 12（+1）
+2026-11-01 11 → 2026-11-17 26（+15）
 
 
 ---

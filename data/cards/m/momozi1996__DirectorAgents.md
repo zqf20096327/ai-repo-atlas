@@ -1,6 +1,6 @@
 # momozi1996/DirectorAgents
 
-⭐ 62 · Shell · MIT · 推送 2026-05-11 · [GitHub](https://github.com/momozi1996/DirectorAgents) · 个人维护 · 中文 README
+⭐ 69 · Shell · MIT · 推送 2026-05-11 · [GitHub](https://github.com/momozi1996/DirectorAgents) · 个人维护 · 中文 README
 
 **31位导演风格的多Agent创意协作技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "momozi1996/DirectorAgents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 57 --> 63
-    line [58, 59, 61, 62, 62]
+    title "momozi1996/DirectorAgents 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 57 --> 70
+    line [58, 59, 61, 62, 58, 67, 68, 69, 69]
 ```
 
-2026-10-18 58 → 2026-11-02 62（+4）
+2026-10-18 58 → 2026-11-17 69（+11）
 
 
 ---

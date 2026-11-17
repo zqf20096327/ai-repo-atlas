@@ -1,6 +1,6 @@
 # yjcho9317/nworks
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/yjcho9317/nworks) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/yjcho9317/nworks) · 个人维护 · 中文 README
 
 **LINE WORKS 的 MCP 服务器与 CLI，供 AI 代理操作办公套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yjcho9317/nworks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "yjcho9317/nworks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

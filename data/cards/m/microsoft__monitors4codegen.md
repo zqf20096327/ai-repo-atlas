@@ -1,6 +1,6 @@
 # microsoft/monitors4codegen
 
-⭐ 279 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/monitors4codegen) · [官网](https://www.microsoft.com/en-us/research/publication/guiding-language-models-of-code-with-global-context-using-monitors/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **NeurIPS 2023 论文产物：静态分析引导代码 LM 解码的数据与代码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/monitors4codegen 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
+    x-axis ["2026-10-28", "2026-11-11"]
     y-axis "stars" 278 --> 280
     line [279, 279]
 ```
 
-2026-10-28 279 → 2026-11-02 279（+0）
+2026-10-28 279 → 2026-11-11 279（+0）
 
 
 ---

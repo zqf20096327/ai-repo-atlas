@@ -1,6 +1,6 @@
 # tmwclaxton/autoapplycv
 
-⭐ 60 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/tmwclaxton/autoapplycv) · [官网](https://www.autocvapply.com) · 组织维护
+⭐ 56 · JavaScript · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/tmwclaxton/autoapplycv) · [官网](https://www.autocvapply.com) · 组织维护
 
 **求职者的浏览器扩展：自动填写求职表单并起草答案与求职信**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tmwclaxton/autoapplycv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 59 --> 64
-    line [63, 60, 60]
+    title "tmwclaxton/autoapplycv 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 64
+    line [63, 60, 56, 56]
 ```
 
-2026-10-18 63 → 2026-11-02 60（-3）
+2026-10-18 63 → 2026-11-17 56（-7）
 
 
 ---

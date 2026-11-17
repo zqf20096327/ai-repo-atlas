@@ -1,6 +1,6 @@
 # microsoft/teams-agent-accelerator-libs-py
 
-⭐ 28 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/teams-agent-accelerator-libs-py) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软 Teams 个人 agent 开发库（Python，带记忆服务集成）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/teams-agent-accelerator-libs-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-07 28（+0）
 
 
 ---

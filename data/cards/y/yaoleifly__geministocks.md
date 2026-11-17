@@ -1,6 +1,6 @@
 # yaoleifly/geministocks
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/yaoleifly/geministocks) · [官网](https://mastersgo.cc) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/yaoleifly/geministocks) · [官网](https://mastersgo.cc) · 个人维护 · 中文 README
 
 **自带模型（BYOM）的 AI 投研工具：把财经新闻生成结构化分析报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaoleifly/geministocks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    title "yaoleifly/geministocks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 22, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # runzhliu/docker-antigravity
 
-⭐ 21 · Dockerfile · MIT · 推送 2026-03-11 · [GitHub](https://github.com/runzhliu/docker-antigravity) · 个人维护 · 中文 README
+⭐ 22 · Dockerfile · MIT · 推送 2026-03-11 · [GitHub](https://github.com/runzhliu/docker-antigravity) · 个人维护 · 中文 README
 
 **把 Antigravity 装进 Docker 并经浏览器访问的自托管镜像**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "runzhliu/docker-antigravity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "runzhliu/docker-antigravity 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

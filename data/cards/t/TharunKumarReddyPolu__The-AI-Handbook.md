@@ -1,6 +1,6 @@
 # TharunKumarReddyPolu/The-AI-Handbook
 
-⭐ 16 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/TharunKumarReddyPolu/The-AI-Handbook) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 工具与学习资源策展手册：320+ 工具按 18 类组织**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TharunKumarReddyPolu/The-AI-Handbook 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
+    title "TharunKumarReddyPolu/The-AI-Handbook 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 10 --> 17
-    line [11, 12, 13, 14, 15, 16]
+    line [11, 12, 13, 14, 15, 16, 11, 11]
 ```
 
-2026-10-22 11 → 2026-11-02 16（+5）
+2026-10-22 11 → 2026-11-07 11（+0）
 
 
 ---

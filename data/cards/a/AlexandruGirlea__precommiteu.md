@@ -1,6 +1,6 @@
 # AlexandruGirlea/precommiteu
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/AlexandruGirlea/precommiteu) · [官网](https://precommit.eu) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/AlexandruGirlea/precommiteu) · [官网](https://precommit.eu) · 个人维护
 
 **本地 LLM 静态扫描器：在 PR 时检测代码中的欧盟法规违规**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AlexandruGirlea/precommiteu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

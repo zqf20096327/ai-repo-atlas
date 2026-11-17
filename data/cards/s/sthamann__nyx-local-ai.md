@@ -1,6 +1,6 @@
 # sthamann/nyx-local-ai
 
-⭐ 129 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/sthamann/nyx-local-ai) · 个人维护
+⭐ 116 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/sthamann/nyx-local-ai) · 个人维护
 
 **面向本地推理的 VS Code/Cursor AI 编程代理扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sthamann/nyx-local-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 128 --> 134
-    line [133, 129, 129]
+    title "sthamann/nyx-local-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 115 --> 134
+    line [133, 129, 116, 116]
 ```
 
-2026-10-18 133 → 2026-11-02 129（-4）
+2026-10-18 133 → 2026-11-17 116（-17）
 
 
 ---

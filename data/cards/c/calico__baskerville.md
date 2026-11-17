@@ -1,6 +1,6 @@
 # calico/baskerville
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/calico/baskerville) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/calico/baskerville) · 组织维护
 
 **从 DNA 序列预测基因调控活性的预训练深度学习模型库**
 
@@ -45,13 +45,13 @@ Calico 维护的 PyTorch 模型工具库，提供 Cerberus 及其前身 Borzoi�
 
 ```mermaid
 xychart-beta
-    title "calico/baskerville 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15, 15]
+    title "calico/baskerville 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 14, 15, 12, 15, 16, 16]
 ```
 
-2026-10-18 11 → 2026-11-02 15（+4）
+2026-10-18 11 → 2026-11-17 16（+5）
 
 
 ---

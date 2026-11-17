@@ -1,6 +1,6 @@
 # dronefreak/human-action-classification
 
-⭐ 270 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/dronefreak/human-action-classification) · [官网](https://huggingface.co/dronefreak/mc3-18-ucf101) · 个人维护
+⭐ 269 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/dronefreak/human-action-classification) · [官网](https://huggingface.co/dronefreak/mc3-18-ucf101) · 个人维护
 
 **人体动作分类系统：图像姿态与视频 3D-CNN 双管线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dronefreak/human-action-classification 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 269 --> 271
-    line [270, 270]
+    title "dronefreak/human-action-classification 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 268 --> 271
+    line [270, 269, 269]
 ```
 
-2026-10-18 270 → 2026-11-02 270（+0）
+2026-10-18 270 → 2026-11-17 269（-1）
 
 
 ---

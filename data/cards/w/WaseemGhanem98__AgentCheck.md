@@ -1,6 +1,6 @@
 # WaseemGhanem98/AgentCheck
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/WaseemGhanem98/AgentCheck) · 个人维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/WaseemGhanem98/AgentCheck) · 个人维护
 
 **面向开发者的 AI agent 行为测试与 CI 门禁框架**
 
@@ -45,13 +45,13 @@ Python 测试框架：针对 AI agent 的执行行为而非最终回答质量做
 
 ```mermaid
 xychart-beta
-    title "WaseemGhanem98/AgentCheck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 71 --> 80
-    line [79, 72, 73]
+    title "WaseemGhanem98/AgentCheck 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 35 --> 83
+    line [79, 72, 73, 72, 41, 39, 39]
 ```
 
-2026-10-18 79 → 2026-11-02 73（-6）
+2026-10-18 79 → 2026-11-17 39（-40）
 
 
 ---

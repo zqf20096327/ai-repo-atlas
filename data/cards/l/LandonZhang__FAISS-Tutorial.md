@@ -1,6 +1,6 @@
 # LandonZhang/FAISS-Tutorial
 
-⭐ 37 · Jupyter Notebook · 推送 2025-11-06 · [GitHub](https://github.com/LandonZhang/FAISS-Tutorial) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **FAISS 向量数据库的中文入门教程与练习案例集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LandonZhang/FAISS-Tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-07 37（+0）
 
 
 ---

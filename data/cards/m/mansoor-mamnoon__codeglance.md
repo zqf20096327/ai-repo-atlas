@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mansoor-mamnoon/codeglance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "mansoor-mamnoon/codeglance 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 72 --> 75
+    line [73, 74, 73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # WMD-group/SMACT
 
-⭐ 148 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/WMD-group/SMACT) · [官网](https://smact.readthedocs.io) · 组织维护
+⭐ 149 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/WMD-group/SMACT) · [官网](https://smact.readthedocs.io) · 组织维护
 
 **面向材料设计的快速筛选与信息学 Python 库**
 
@@ -45,13 +45,13 @@ SMACT（Semiconducting Materials by Analogy and Chemical Theory）是基于化�
 
 ```mermaid
 xychart-beta
-    title "WMD-group/SMACT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 143 --> 149
-    line [144, 146, 148, 148]
+    title "WMD-group/SMACT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 143 --> 150
+    line [144, 146, 148, 149, 149]
 ```
 
-2026-10-18 144 → 2026-11-02 148（+4）
+2026-10-18 144 → 2026-11-17 149（+5）
 
 
 ---

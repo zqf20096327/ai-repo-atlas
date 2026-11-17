@@ -1,6 +1,6 @@
 # miyago9267/pilotfish-codex
 
-⭐ 56 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/miyago9267/pilotfish-codex) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/miyago9267/pilotfish-codex) · 个人维护 · 中文 README
 
 **Codex CLI 的多模型编排层：按意图路由请求并分配受界角色**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "miyago9267/pilotfish-codex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [57, 56, 56]
+    title "miyago9267/pilotfish-codex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 53 --> 58
+    line [57, 56, 57, 55, 54, 54]
 ```
 
-2026-10-18 57 → 2026-11-02 56（-1）
+2026-10-18 57 → 2026-11-17 54（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # hamish-mackie/sloop
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/hamish-mackie/sloop) · 个人维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/hamish-mackie/sloop) · 个人维护
 
 **Rust 编写的后台编码 agent 调度器：自动运行、审查并合并工单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hamish-mackie/sloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "hamish-mackie/sloop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

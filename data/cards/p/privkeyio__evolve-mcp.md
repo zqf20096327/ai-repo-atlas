@@ -1,6 +1,6 @@
 # privkeyio/evolve-mcp
 
-⭐ 13 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/privkeyio/evolve-mcp) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/privkeyio/evolve-mcp) · 组织维护
 
 **MCP 服务器：用遗传算法让 AI agent 自我优化提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "privkeyio/evolve-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

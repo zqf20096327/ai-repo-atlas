@@ -1,6 +1,6 @@
 # saintbrodie/Orange
 
-⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/saintbrodie/Orange) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/saintbrodie/Orange) · 个人维护
 
 **ComfyUI 工作流的简化 Web 前端：把节点图变成简单工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "saintbrodie/Orange 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "saintbrodie/Orange 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [22, 23, 22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

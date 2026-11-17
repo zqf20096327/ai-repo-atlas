@@ -1,6 +1,6 @@
 # MasuRii/FBScrapeIdeas
 
-⭐ 73 · Python · MIT · 推送 2025-12-30 · [GitHub](https://github.com/MasuRii/FBScrapeIdeas) · 个人维护
+⭐ 74 · Python · MIT · 推送 2025-12-30 · [GitHub](https://github.com/MasuRii/FBScrapeIdeas) · 个人维护
 
 **登录抓取 Facebook 群组帖子并做 AI 分类分析的 CLI 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MasuRii/FBScrapeIdeas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    title "MasuRii/FBScrapeIdeas 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 72, 73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-11-02 73（+1）
+2026-10-18 72 → 2026-11-17 74（+2）
 
 
 ---

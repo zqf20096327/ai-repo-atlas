@@ -1,6 +1,6 @@
 # Hybirdss/smartest-tv
 
-⭐ 56 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Hybirdss/smartest-tv) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Hybirdss/smartest-tv) · 个人维护 · 中文 README
 
 **用自然语言/命令行控制智能电视的 CLI 与 MCP 服务器**
 
@@ -46,13 +46,13 @@ Python 编写的电视控制 CLI（stv）：按名称在 Netflix、Apple TV+、D
 
 ```mermaid
 xychart-beta
-    title "Hybirdss/smartest-tv 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 50 --> 57
-    line [51, 52, 54, 55, 56, 56]
+    title "Hybirdss/smartest-tv 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 50 --> 60
+    line [51, 52, 54, 55, 56, 55, 58, 59, 58, 59, 59]
 ```
 
-2026-10-18 51 → 2026-11-02 56（+5）
+2026-10-18 51 → 2026-11-17 59（+8）
 
 
 ---

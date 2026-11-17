@@ -1,6 +1,6 @@
 # TheRealPSV/ha-openwebui-conversation
 
-⭐ 50 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/TheRealPSV/ha-openwebui-conversation) · 个人维护
+⭐ 51 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/TheRealPSV/ha-openwebui-conversation) · 个人维护
 
 **Home Assistant 接入 OpenWebUI 的对话代理集成，支持联网搜索**
 
@@ -44,13 +44,13 @@ Home Assistant 自定义集成（经 HACS 安装），将 OpenWebUI 实例接入
 
 ```mermaid
 xychart-beta
-    title "TheRealPSV/ha-openwebui-conversation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "TheRealPSV/ha-openwebui-conversation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

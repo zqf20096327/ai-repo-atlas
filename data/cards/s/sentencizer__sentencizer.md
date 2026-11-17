@@ -1,6 +1,6 @@
 # sentencizer/sentencizer
 
-⭐ 48 · Go · MIT · 推送 2026-09-07 · [GitHub](https://github.com/sentencizer/sentencizer) · [官网](https://gosbd.pages.dev/) · 组织维护
+⭐ 49 · Go · MIT · 推送 2026-09-07 · [GitHub](https://github.com/sentencizer/sentencizer) · [官网](https://gosbd.pages.dev/) · 组织维护
 
 **Go 语言的规则式句子切分库，服务 RAG 预处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sentencizer/sentencizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "sentencizer/sentencizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

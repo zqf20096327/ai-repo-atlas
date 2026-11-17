@@ -1,6 +1,6 @@
 # IAAR-Shanghai/xVerify
 
-⭐ 150 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/IAAR-Shanghai/xVerify) · [官网](https://arxiv.org/abs/2504.10481) · 组织维护 · 中文 README
+⭐ 152 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/IAAR-Shanghai/xVerify) · [官网](https://arxiv.org/abs/2504.10481) · 组织维护 · 中文 README
 
 **面向推理模型评测的答案判定模型：抽取最终答案并判等价**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IAAR-Shanghai/xVerify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 148 --> 151
-    line [149, 150, 150]
+    title "IAAR-Shanghai/xVerify 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 148 --> 153
+    line [149, 150, 149, 151, 152, 152]
 ```
 
-2026-10-18 149 → 2026-11-02 150（+1）
+2026-10-18 149 → 2026-11-17 152（+3）
 
 
 ---

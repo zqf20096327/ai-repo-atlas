@@ -1,6 +1,6 @@
 # DullJZ/ChannelMonitor
 
-⭐ 299 · Go · 推送 2026-10-21 · [GitHub](https://github.com/DullJZ/ChannelMonitor) · 个人维护
+⭐ 292 · Go · 推送 2026-10-21 · [GitHub](https://github.com/DullJZ/ChannelMonitor) · 个人维护
 
 **监控 OneAPI/NewAPI/OneHub 渠道模型可用性的自动化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DullJZ/ChannelMonitor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 298 --> 301
-    line [299, 300, 299, 299]
+    title "DullJZ/ChannelMonitor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 290 --> 301
+    line [299, 300, 299, 300, 291, 292, 292]
 ```
 
-2026-10-18 299 → 2026-11-02 299（+0）
+2026-10-18 299 → 2026-11-17 292（-7）
 
 
 ---

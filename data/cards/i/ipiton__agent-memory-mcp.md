@@ -1,6 +1,6 @@
 # ipiton/agent-memory-mcp
 
-⭐ 44 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ipiton/agent-memory-mcp) · 个人维护
+⭐ 46 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ipiton/agent-memory-mcp) · 个人维护
 
 **给工程 agent 的持久记忆与项目文档上下文 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ipiton/agent-memory-mcp 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    title "ipiton/agent-memory-mcp 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 43 --> 47
+    line [44, 45, 46, 46]
 ```
 
-2026-11-01 44 → 2026-11-02 44（+0）
+2026-11-01 44 → 2026-11-17 46（+2）
 
 
 ---

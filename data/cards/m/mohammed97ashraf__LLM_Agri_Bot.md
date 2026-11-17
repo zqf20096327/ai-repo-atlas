@@ -1,6 +1,6 @@
 # mohammed97ashraf/LLM_Agri_Bot
 
-⭐ 56 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/mohammed97ashraf/LLM_Agri_Bot) · [官网](https://llm-agri-bot.onrender.com/) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/mohammed97ashraf/LLM_Agri_Bot) · [官网](https://llm-agri-bot.onrender.com/) · 个人维护
 
 **面向印度农民的农业问答聊天机器人（文本/语音/图像）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohammed97ashraf/LLM_Agri_Bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "mohammed97ashraf/LLM_Agri_Bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

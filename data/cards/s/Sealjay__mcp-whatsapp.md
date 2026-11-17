@@ -1,6 +1,6 @@
 # Sealjay/mcp-whatsapp
 
-⭐ 15 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Sealjay/mcp-whatsapp) · [官网](https://sealjay.com) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Sealjay/mcp-whatsapp) · [官网](https://sealjay.com) · 个人维护
 
 **把个人 WhatsApp 账号以 42 个 MCP 工具暴露给 LLM 的 Go 单二进制服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sealjay/mcp-whatsapp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 15, 15]
+    title "Sealjay/mcp-whatsapp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 24
+    line [11, 12, 13, 15, 11, 21, 22, 23, 23]
 ```
 
-2026-10-18 11 → 2026-11-02 15（+4）
+2026-10-18 11 → 2026-11-17 23（+12）
 
 
 ---

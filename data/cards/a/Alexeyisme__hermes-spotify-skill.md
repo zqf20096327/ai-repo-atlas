@@ -1,6 +1,6 @@
 # Alexeyisme/hermes-spotify-skill
 
-⭐ 12 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/Alexeyisme/hermes-spotify-skill) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/Alexeyisme/hermes-spotify-skill) · 个人维护
 
 **Hermes Agent 的 Spotify 播放控制 MCP 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alexeyisme/hermes-spotify-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Alexeyisme/hermes-spotify-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

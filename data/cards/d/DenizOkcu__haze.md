@@ -1,6 +1,6 @@
 # DenizOkcu/haze
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DenizOkcu/haze) · [官网](https://denizokcu.github.io/haze/) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/DenizOkcu/haze) · [官网](https://denizokcu.github.io/haze/) · 个人维护
 
 **面向开发者的极简终端 LLM 编码 agent（harness）**
 
@@ -45,13 +45,13 @@ npm 全局安装的命令行 LLM agent：接入任意 OpenAI 兼容端点（Open
 
 ```mermaid
 xychart-beta
-    title "DenizOkcu/haze 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "DenizOkcu/haze 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BerriAI/litespeed
 
-⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/BerriAI/litespeed) · 组织维护
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/BerriAI/litespeed) · 组织维护
 
 **本地多模型协作编程 agent，覆盖终端、Mac 桌面与浏览器**
 
@@ -44,13 +44,13 @@ Litespeed 是运行在本地的 coding agent，提供终端 CLI、Apple silicon 
 
 ```mermaid
 xychart-beta
-    title "BerriAI/litespeed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "BerriAI/litespeed 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    line [28, 29, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

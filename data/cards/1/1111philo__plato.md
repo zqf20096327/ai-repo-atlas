@@ -1,6 +1,6 @@
 # 1111philo/plato
 
-⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/1111philo/plato) · [官网](https://philosophers.group/plato-agentic-classroom/) · 组织维护
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/1111philo/plato) · [官网](https://philosophers.group/plato-agentic-classroom/) · 组织维护
 
 **开源 AI 微学习平台：AI 教练对话式带学习者完成示范式课程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "1111philo/plato 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 21
-    line [15, 17, 18, 19, 20]
+    title "1111philo/plato 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 26
+    line [15, 17, 18, 19, 20, 18, 24, 25, 25]
 ```
 
-2026-10-18 15 → 2026-11-02 20（+5）
+2026-10-18 15 → 2026-11-17 25（+10）
 
 
 ---

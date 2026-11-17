@@ -1,6 +1,6 @@
 # Tiberriver256/mcp-server-azure-devops
 
-⭐ 398 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Tiberriver256/mcp-server-azure-devops) · 个人维护
+⭐ 401 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Tiberriver256/mcp-server-azure-devops) · 个人维护
 
 **让 AI 助手通过 MCP 协议操作 Azure DevOps 的社区服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tiberriver256/mcp-server-azure-devops 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 393 --> 399
-    line [394, 395, 396, 397, 398, 398]
+    title "Tiberriver256/mcp-server-azure-devops 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 393 --> 402
+    line [394, 395, 396, 397, 398, 397, 399, 400, 401, 401]
 ```
 
-2026-10-18 394 → 2026-11-02 398（+4）
+2026-10-18 394 → 2026-11-17 401（+7）
 
 
 ---

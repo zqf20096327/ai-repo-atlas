@@ -1,6 +1,6 @@
 # THU-BPM/RLCSD
 
-⭐ 115 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/THU-BPM/RLCSD) · [官网](https://arxiv.org/abs/2606.11709) · 组织维护
+⭐ 117 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/THU-BPM/RLCSD) · [官网](https://arxiv.org/abs/2606.11709) · 组织维护
 
 **面向 LLM 推理训练的对比式 on-policy 自蒸馏 RL 方法代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "THU-BPM/RLCSD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    title "THU-BPM/RLCSD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 114 --> 118
+    line [115, 116, 117, 117]
 ```
 
-2026-10-18 115 → 2026-11-02 115（+0）
+2026-10-18 115 → 2026-11-17 117（+2）
 
 
 ---

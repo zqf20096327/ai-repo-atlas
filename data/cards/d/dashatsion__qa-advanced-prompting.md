@@ -1,6 +1,6 @@
 # dashatsion/qa-advanced-prompting
 
-⭐ 17 · MIT · 推送 2026-01-20 · [GitHub](https://github.com/dashatsion/qa-advanced-prompting) · [官网](https://dev.to/dashatsion) · 个人维护
+⭐ 18 · MIT · 推送 2026-01-20 · [GitHub](https://github.com/dashatsion/qa-advanced-prompting) · [官网](https://dev.to/dashatsion) · 个人维护
 
 **自动化 QA 的提示词库：面向 Cypress/Playwright/API 测试**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dashatsion/qa-advanced-prompting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "dashatsion/qa-advanced-prompting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # plll4zzx/Awesome-LLM-Watermark
 
-⭐ 71 · 推送 2026-03-30 · [GitHub](https://github.com/plll4zzx/Awesome-LLM-Watermark) · 个人维护
+⭐ 72 · 推送 2026-03-30 · [GitHub](https://github.com/plll4zzx/Awesome-LLM-Watermark) · 个人维护
 
 **LLM 水印论文清单：覆盖水印、攻击与检测研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "plll4zzx/Awesome-LLM-Watermark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "plll4zzx/Awesome-LLM-Watermark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

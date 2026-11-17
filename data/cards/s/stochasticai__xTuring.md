@@ -1,6 +1,6 @@
 # stochasticai/xTuring
 
-⭐ 2,677 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/stochasticai/xTuring) · [官网](https://xturing.stochastic.ai) · 组织维护
+⭐ 2,682 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/stochasticai/xTuring) · [官网](https://xturing.stochastic.ai) · 组织维护
 
 **开源 LLM 微调/评测/推理库，本地或私有云个性化模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stochasticai/xTuring 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2673 --> 2678
-    line [2674, 2675, 2676, 2677, 2677]
+    title "stochasticai/xTuring 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2673 --> 2683
+    line [2674, 2675, 2676, 2677, 2675, 2679, 2680, 2681, 2682, 2682]
 ```
 
-2026-10-18 2,674 → 2026-11-02 2,677（+3）
+2026-10-18 2,674 → 2026-11-17 2,682（+8）
 
 
 ---

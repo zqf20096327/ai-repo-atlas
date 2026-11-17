@@ -1,6 +1,6 @@
 # alonbaron/claude-skills
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alonbaron/claude-skills) · [官网](https://github.com/alonbaron/claude-skills/releases/latest) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/alonbaron/claude-skills) · [官网](https://github.com/alonbaron/claude-skills/releases/latest) · 个人维护
 
 **六个 Claude Code 技能与无人值守构建循环的插件包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alonbaron/claude-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "alonbaron/claude-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

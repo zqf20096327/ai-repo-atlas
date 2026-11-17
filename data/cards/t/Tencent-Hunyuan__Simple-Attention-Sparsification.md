@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Simple-Attention-Sparsification
 
-⭐ 68 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Tencent-Hunyuan/Simple-Attention-Sparsification) · 组织维护 · 中文 README
+⭐ 69 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Tencent-Hunyuan/Simple-Attention-Sparsification) · 组织维护 · 中文 README
 
 **论文代码：可端到端优化上下文排序的门控稀疏注意力方法 SAS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Simple-Attention-Sparsification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 65 --> 69
-    line [66, 67, 68]
+    title "Tencent-Hunyuan/Simple-Attention-Sparsification 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 65 --> 70
+    line [66, 67, 68, 67, 68, 69, 69]
 ```
 
-2026-10-18 66 → 2026-11-02 68（+2）
+2026-10-18 66 → 2026-11-17 69（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # tddworks/openai-kotlin
 
-⭐ 57 · Kotlin · Apache-2.0 · 推送 2025-12-18 · [GitHub](https://github.com/tddworks/openai-kotlin) · 个人维护
+⭐ 58 · Kotlin · Apache-2.0 · 推送 2025-12-18 · [GitHub](https://github.com/tddworks/openai-kotlin) · 个人维护
 
 **Kotlin 多平台 LLM 客户端 SDK：统一接入多家 AI 提供商**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tddworks/openai-kotlin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "tddworks/openai-kotlin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

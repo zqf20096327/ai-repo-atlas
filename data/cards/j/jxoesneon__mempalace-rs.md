@@ -1,6 +1,6 @@
 # jxoesneon/mempalace-rs
 
-⭐ 38 · HTML · MIT · 推送 2026-10-11 · [GitHub](https://github.com/jxoesneon/mempalace-rs) · [官网](https://crates.io/crates/mempalace-rs) · 个人维护
+⭐ 39 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jxoesneon/mempalace-rs) · [官网](https://crates.io/crates/mempalace-rs) · 个人维护
 
 **Rust 编写的本地离线 AI 记忆系统，为 agent 提供长期记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jxoesneon/mempalace-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "jxoesneon/mempalace-rs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

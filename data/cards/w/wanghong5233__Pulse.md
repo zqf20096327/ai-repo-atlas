@@ -1,6 +1,6 @@
 # wanghong5233/Pulse
 
-⭐ 12 · Python · 推送 2026-04-30 · [GitHub](https://github.com/wanghong5233/Pulse) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-04-30 · [GitHub](https://github.com/wanghong5233/Pulse) · 个人维护 · 中文 README
 
 **自托管长驻个人 AI 助手：内核+技能包架构的 Agent OS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wanghong5233/Pulse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "wanghong5233/Pulse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

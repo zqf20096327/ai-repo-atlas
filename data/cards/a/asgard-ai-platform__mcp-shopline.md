@@ -1,6 +1,6 @@
 # asgard-ai-platform/mcp-shopline
 
-⭐ 20 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/asgard-ai-platform/mcp-shopline) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/asgard-ai-platform/mcp-shopline) · 组织维护 · 中文 README
 
 **将 Shopline 开放 API 封装为 143 个 AI 可调用工具的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asgard-ai-platform/mcp-shopline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "asgard-ai-platform/mcp-shopline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

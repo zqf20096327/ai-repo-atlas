@@ -1,6 +1,6 @@
 # nnaisense/evotorch
 
-⭐ 1,151 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nnaisense/evotorch) · [官网](https://evotorch.ai) · 组织维护
+⭐ 1,154 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/nnaisense/evotorch) · [官网](https://evotorch.ai) · 组织维护
 
 **给研究与开发者的 PyTorch 进化计算与神经进化库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nnaisense/evotorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1149 --> 1152
-    line [1150, 1151, 1151]
+    title "nnaisense/evotorch 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1149 --> 1155
+    line [1150, 1151, 1150, 1152, 1153, 1154, 1154]
 ```
 
-2026-10-18 1,150 → 2026-11-02 1,151（+1）
+2026-10-18 1,150 → 2026-11-17 1,154（+4）
 
 
 ---

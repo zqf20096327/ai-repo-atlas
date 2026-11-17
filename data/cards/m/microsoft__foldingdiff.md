@@ -1,6 +1,6 @@
 # microsoft/foldingdiff
 
-⭐ 568 · Jupyter Notebook · MIT · 推送 2026-09-09 · [GitHub](https://github.com/microsoft/foldingdiff) · [官网](https://www.nature.com/articles/s41467-024-45051-2) · 组织维护
+⭐ 568 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/foldingdiff) · [官网](https://www.nature.com/articles/s41467-024-45051-2) · 组织维护
 
 **科研者用的蛋白质骨架生成扩散模型（PyTorch 实现）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/foldingdiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 567 --> 569
     line [568, 568]
 ```
 
-2026-10-18 568 → 2026-11-02 568（+0）
+2026-10-18 568 → 2026-11-17 568（+0）
 
 
 ---

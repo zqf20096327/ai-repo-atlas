@@ -1,6 +1,6 @@
 # shivammehta25/Neural-HMM
 
-⭐ 164 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shivammehta25/Neural-HMM) · 组织维护
+⭐ 164 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/shivammehta25/Neural-HMM) · 组织维护
 
 **神经 HMM 文本转语音模型的论文官方实现**
 
@@ -45,12 +45,12 @@ ICASSP 2022 论文 Neural HMMs are all you need (for high-quality attention-free
 ```mermaid
 xychart-beta
     title "shivammehta25/Neural-HMM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 163 --> 165
     line [164, 164]
 ```
 
-2026-10-18 164 → 2026-11-02 164（+0）
+2026-10-18 164 → 2026-11-17 164（+0）
 
 
 ---

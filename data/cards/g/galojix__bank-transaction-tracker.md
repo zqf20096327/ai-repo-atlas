@@ -1,6 +1,6 @@
 # galojix/bank-transaction-tracker
 
-⭐ 37 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/galojix/bank-transaction-tracker) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/galojix/bank-transaction-tracker) · 个人维护
 
 **学习用户分类习惯的收支记录 Web 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "galojix/bank-transaction-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 37（+0）
 
 
 ---

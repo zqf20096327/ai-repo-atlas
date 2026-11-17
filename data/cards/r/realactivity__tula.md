@@ -1,6 +1,6 @@
 # realactivity/tula
 
-⭐ 47 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/realactivity/tula) · 组织维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/realactivity/tula) · 组织维护
 
 **自托管个人健康 AI 助手的 OpenClaw 技能层**
 
@@ -45,13 +45,13 @@ RealActivity 维护的开源（Apache-2.0）项目，基于 OpenClaw 构建：�
 
 ```mermaid
 xychart-beta
-    title "realactivity/tula 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "realactivity/tula 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 45 --> 51
+    line [46, 47, 49, 50, 50]
 ```
 
-2026-10-18 46 → 2026-11-02 47（+1）
+2026-10-18 46 → 2026-11-17 50（+4）
 
 
 ---

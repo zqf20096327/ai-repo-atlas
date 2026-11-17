@@ -1,6 +1,6 @@
 # imMatheus/spidey-sense
 
-⭐ 41 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/imMatheus/spidey-sense) · [官网](https://www.npmjs.com/package/spidey-sense) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/imMatheus/spidey-sense) · [官网](https://www.npmjs.com/package/spidey-sense) · 个人维护
 
 **给 React 开发者：在本地网页上点选元素、用自然语言驱动 AI 改源码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imMatheus/spidey-sense 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "imMatheus/spidey-sense 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [41, 40, 40]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 40（-1）
 
 
 ---

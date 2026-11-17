@@ -1,6 +1,6 @@
 # dotnet/infer
 
-⭐ 1,614 · C# · MIT · 推送 2026-07-14 · [GitHub](https://github.com/dotnet/infer) · [官网](https://dotnet.github.io/infer/) · 组织维护
+⭐ 1,613 · C# · MIT · 推送 2026-07-14 · [GitHub](https://github.com/dotnet/infer) · [官网](https://dotnet.github.io/infer/) · 组织维护
 
 **在图模型上运行贝叶斯推断的 .NET 概率编程框架**
 
@@ -44,13 +44,13 @@ Infer.NET 是用于在图模型上运行贝叶斯推断、并可做概率编程�
 
 ```mermaid
 xychart-beta
-    title "dotnet/infer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1613 --> 1617
-    line [1616, 1615, 1614, 1614]
+    title "dotnet/infer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1612 --> 1617
+    line [1616, 1615, 1614, 1615, 1614, 1613, 1613]
 ```
 
-2026-10-18 1,616 → 2026-11-02 1,614（-2）
+2026-10-18 1,616 → 2026-11-17 1,613（-3）
 
 
 ---

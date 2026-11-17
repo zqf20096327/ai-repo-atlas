@@ -1,6 +1,6 @@
 # Luxuzhou/harness-py-book
 
-⭐ 19 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Luxuzhou/harness-py-book) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Luxuzhou/harness-py-book) · 个人维护 · 中文 README
 
 **AI Agent 可靠性工程书籍的配套代码仓库（12 章双层实现）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Luxuzhou/harness-py-book 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 13 --> 20
-    line [14, 17, 18, 19]
+    title "Luxuzhou/harness-py-book 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 22
+    line [14, 17, 18, 19, 17, 19, 21, 21]
 ```
 
-2026-10-18 14 → 2026-11-02 19（+5）
+2026-10-18 14 → 2026-11-17 21（+7）
 
 
 ---

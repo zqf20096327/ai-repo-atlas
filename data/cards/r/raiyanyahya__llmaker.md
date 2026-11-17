@@ -1,6 +1,6 @@
 # raiyanyahya/llmaker
 
-⭐ 103 · Go · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/raiyanyahya/llmaker) · [官网](https://llmaker.raiyanyahya.workers.dev/) · 个人维护
+⭐ 105 · Go · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/raiyanyahya/llmaker) · [官网](https://llmaker.raiyanyahya.workers.dev/) · 个人维护
 
 **自托管完整 LLM 技术栈的 CLI 供给与运维平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "raiyanyahya/llmaker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    title "raiyanyahya/llmaker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 102 --> 106
+    line [103, 105, 105]
 ```
 
-2026-10-18 103 → 2026-11-02 103（+0）
+2026-10-18 103 → 2026-11-17 105（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # curiousily/AI-Bootcamp
 
-⭐ 955 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/curiousily/AI-Bootcamp) · [官网](https://mlexpert.io) · 个人维护
+⭐ 959 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/curiousily/AI-Bootcamp) · [官网](https://mlexpert.io) · 个人维护
 
 **生成式 AI 自学训练营：从 ML 基础到 RAG 与 Agent 的教程合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "curiousily/AI-Bootcamp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 953 --> 957
-    line [956, 955, 954, 955, 954, 955]
+    title "curiousily/AI-Bootcamp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 953 --> 960
+    line [956, 955, 954, 955, 954, 955, 956, 958, 959, 959]
 ```
 
-2026-10-18 956 → 2026-11-02 955（-1）
+2026-10-18 956 → 2026-11-17 959（+3）
 
 
 ---

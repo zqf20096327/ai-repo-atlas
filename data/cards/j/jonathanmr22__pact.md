@@ -1,6 +1,6 @@
 # jonathanmr22/pact
 
-⭐ 15 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/jonathanmr22/pact) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/jonathanmr22/pact) · 个人维护
 
 **面向 AI 编码代理的治理框架：用钩子与检查点约束代理行为**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jonathanmr22/pact 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "jonathanmr22/pact 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

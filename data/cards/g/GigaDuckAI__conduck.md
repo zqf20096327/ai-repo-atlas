@@ -1,6 +1,6 @@
 # GigaDuckAI/conduck
 
-⭐ 38 · Swift · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/GigaDuckAI/conduck) · [官网](https://conduck.com) · 组织维护
+⭐ 40 · Swift · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/GigaDuckAI/conduck) · [官网](https://conduck.com) · 组织维护
 
 **跨 Apple 设备的原生 AI 聊天客户端：自带密钥直连你选的模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GigaDuckAI/conduck 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 38, 37, 38, 38]
+    title "GigaDuckAI/conduck 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 38, 37, 38, 37, 38, 40, 40]
 ```
 
-2026-10-18 35 → 2026-11-02 38（+3）
+2026-10-18 35 → 2026-11-17 40（+5）
 
 
 ---

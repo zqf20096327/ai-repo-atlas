@@ -1,6 +1,6 @@
 # Visko-Platform/VEFX-Bench
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/Visko-Platform/VEFX-Bench) · [官网](https://xiangbogaobarry.github.io/VEFX-Bench/) · 组织维护
+⭐ 177 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/Visko-Platform/VEFX-Bench) · [官网](https://xiangbogaobarry.github.io/VEFX-Bench/) · 组织维护
 
 **视频编辑与视觉特效评测基准及 VLM 奖励模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Visko-Platform/VEFX-Bench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 176 --> 179
-    line [177, 178, 177, 178, 178]
+    title "Visko-Platform/VEFX-Bench 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 175 --> 179
+    line [177, 178, 177, 178, 176, 177, 177]
 ```
 
-2026-10-18 177 → 2026-11-02 178（+1）
+2026-10-18 177 → 2026-11-17 177（+0）
 
 
 ---

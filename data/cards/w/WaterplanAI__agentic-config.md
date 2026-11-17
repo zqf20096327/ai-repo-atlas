@@ -1,6 +1,6 @@
 # WaterplanAI/agentic-config
 
-⭐ 31 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/WaterplanAI/agentic-config) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **项目无关的组合式 AI 工作流配置：pi 包与 Claude Code 插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WaterplanAI/agentic-config 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-10 31（+0）
 
 
 ---

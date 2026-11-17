@@ -1,6 +1,6 @@
 # aaryansamanta/ai-ethos
 
-⭐ 498 · PHP · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/ai-ethos) · [官网](https://www.aiethos.org) · 组织维护
+⭐ 497 · PHP · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/ai-ethos) · [官网](https://www.aiethos.org) · 组织维护
 
 **非营利组织官网源码：面向弱势学习者的多语言 AI 辅导**
 
@@ -45,13 +45,13 @@ AI Ethos, Inc. 是 501(c)(3) 非营利组织，本仓库为其官网 aiethos.org
 
 ```mermaid
 xychart-beta
-    title "aaryansamanta/ai-ethos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 497 --> 500
-    line [499, 498, 498]
+    title "aaryansamanta/ai-ethos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 495 --> 500
+    line [499, 498, 496, 497, 497]
 ```
 
-2026-10-18 499 → 2026-11-02 498（-1）
+2026-10-18 499 → 2026-11-17 497（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DomWane/workers-personal-agent
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/DomWane/workers-personal-agent) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/DomWane/workers-personal-agent) · 个人维护
 
 **运行在 Cloudflare Workers 免费层的个人 AI 对话代理，带记忆与深度研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DomWane/workers-personal-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "DomWane/workers-personal-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

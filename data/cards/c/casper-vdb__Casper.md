@@ -1,6 +1,6 @@
 # casper-vdb/Casper
 
-⭐ 18 · 推送 2026-07-21 · [GitHub](https://github.com/casper-vdb/Casper) · [官网](https://casper-frontend.pages.dev/) · 个人维护
+⭐ 18 · 推送 2026-11-16 · [GitHub](https://github.com/casper-vdb/Casper) · [官网](https://casper-frontend.pages.dev/) · 个人维护
 
 **Rust 编写的向量搜索数据库，面向高负载检索与 RAG 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "casper-vdb/Casper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nekyialabs/resonant-mind
 
-⭐ 32 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/nekyialabs/resonant-mind) · 组织维护
+⭐ 34 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/nekyialabs/resonant-mind) · 组织维护
 
 **给 AI agent 的持久认知基础设施：MCP 记忆/身份/情感服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nekyialabs/resonant-mind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "nekyialabs/resonant-mind 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

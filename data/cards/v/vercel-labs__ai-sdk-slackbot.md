@@ -1,6 +1,6 @@
 # vercel-labs/ai-sdk-slackbot
 
-⭐ 132 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/vercel-labs/ai-sdk-slackbot) · [官网](https://ai-sdk.dev) · 组织维护
+⭐ 133 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/vercel-labs/ai-sdk-slackbot) · [官网](https://ai-sdk.dev) · 组织维护
 
 **基于 AI SDK 的 Slack AI 聊天机器人，带工具调用与策略门控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/ai-sdk-slackbot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 130 --> 133
-    line [132, 131, 132, 132]
+    title "vercel-labs/ai-sdk-slackbot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 130 --> 134
+    line [132, 131, 132, 131, 133, 133]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 133（+1）
 
 
 ---

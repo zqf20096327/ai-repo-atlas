@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/Pixel-Reasoner
 
-⭐ 310 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) · [官网](https://tiger-ai-lab.github.io/Pixel-Reasoner/) · 组织维护 · 中文 README
+⭐ 311 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) · [官网](https://tiger-ai-lab.github.io/Pixel-Reasoner/) · 组织维护 · 中文 README
 
 **像素空间推理的视觉语言模型及 RL 训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/Pixel-Reasoner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 306 --> 311
-    line [307, 308, 309, 310, 310]
+    title "TIGER-AI-Lab/Pixel-Reasoner 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 306 --> 312
+    line [307, 308, 309, 310, 308, 311, 311]
 ```
 
-2026-10-18 307 → 2026-11-02 310（+3）
+2026-10-18 307 → 2026-11-17 311（+4）
 
 
 ---

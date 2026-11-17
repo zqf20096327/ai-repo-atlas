@@ -1,6 +1,6 @@
 # OVVO-Financial/NNS
 
-⭐ 114 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/OVVO-Financial/NNS) · [官网](https://github.com/OVVO-Financial/NNS/blob/NNS-Beta-Version/examples/index.md) · 组织维护
+⭐ 115 · HTML · 推送 2026-11-14 · [GitHub](https://github.com/OVVO-Financial/NNS) · [官网](https://github.com/OVVO-Financial/NNS/blob/NNS-Beta-Version/examples/index.md) · 组织维护
 
 **基于偏矩的非线性非参数统计 R 包**
 
@@ -44,13 +44,13 @@ R 语言统计包，以偏矩（partial moments）为基础元素提供非线性
 
 ```mermaid
 xychart-beta
-    title "OVVO-Financial/NNS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    title "OVVO-Financial/NNS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 113 --> 116
+    line [114, 115, 115]
 ```
 
-2026-10-18 114 → 2026-11-02 114（+0）
+2026-10-18 114 → 2026-11-17 115（+1）
 
 
 ---

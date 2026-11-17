@@ -1,6 +1,6 @@
 # bartczernicki/MachineLearning-BaseballPrediction-BlazorApp
 
-⭐ 56 · C# · MIT · 推送 2026-10-05 · [GitHub](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) · [官网](https://baseballaiworkbench-dybyfmbvg8hdctds.b02.azurefd.net/) · 个人维护
+⭐ 56 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) · [官网](https://baseballaiworkbench-dybyfmbvg8hdctds.b02.azurefd.net/) · 个人维护
 
 **棒球名人堂分析的决策智能演示 Web 应用（Blazor+ML.NET+AI Agent）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bartczernicki/MachineLearning-BaseballPrediction-BlazorApp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "bartczernicki/MachineLearning-BaseballPrediction-BlazorApp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    line [55, 56, 55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 56（+1）
 
 
 ---

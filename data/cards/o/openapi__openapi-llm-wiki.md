@@ -1,6 +1,6 @@
 # openapi/openapi-llm-wiki
 
-⭐ 12 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openapi/openapi-llm-wiki) · [官网](https://console.openapi.com) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openapi/openapi-llm-wiki) · [官网](https://console.openapi.com) · 组织维护
 
 **面向 LLM/Agent 的 Openapi API 市场结构化知识库**
 
@@ -46,12 +46,12 @@ Openapi 团队维护的 LLM 优化知识库：以 Markdown 与原始 OpenAPI 3 �
 ```mermaid
 xychart-beta
     title "openapi/openapi-llm-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

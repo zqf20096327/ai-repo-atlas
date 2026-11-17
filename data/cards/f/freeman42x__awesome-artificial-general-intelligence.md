@@ -1,6 +1,6 @@
 # freeman42x/awesome-artificial-general-intelligence
 
-⭐ 332 · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/freeman42x/awesome-artificial-general-intelligence) · 个人维护
+⭐ 335 · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/freeman42x/awesome-artificial-general-intelligence) · 个人维护
 
 **AGI（通用人工智能）主题的资源导航清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "freeman42x/awesome-artificial-general-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 331 --> 333
-    line [332, 332]
+    title "freeman42x/awesome-artificial-general-intelligence 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 331 --> 336
+    line [332, 333, 334, 335, 335]
 ```
 
-2026-10-18 332 → 2026-11-02 332（+0）
+2026-10-18 332 → 2026-11-17 335（+3）
 
 
 ---

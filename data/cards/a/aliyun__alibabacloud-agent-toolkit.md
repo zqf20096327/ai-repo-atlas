@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-agent-toolkit
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/aliyun/alibabacloud-agent-toolkit) · 组织维护 · 中文 README
+⭐ 33 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/aliyun/alibabacloud-agent-toolkit) · 组织维护 · 中文 README
 
 **阿里云官方 AI 编码 agent 插件与 MCP 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliyun/alibabacloud-agent-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "aliyun/alibabacloud-agent-toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 32, 33, 33]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 33（+5）
 
 
 ---

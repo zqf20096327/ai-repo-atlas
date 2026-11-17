@@ -1,6 +1,6 @@
 # iamNCJ/RenderFormer-Studio
 
-⭐ 43 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/iamNCJ/RenderFormer-Studio) · [官网](https://renderformer.github.io/v2/) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/iamNCJ/RenderFormer-Studio) · [官网](https://renderformer.github.io/v2/) · 组织维护
 
 **RenderFormer/V2 神经渲染官方实现：数据生成、训练与推理一体化**
 
@@ -44,13 +44,13 @@ RenderFormer（SIGGRAPH 2025）与 RenderFormer-V2（ECCV 2026）的官方代码
 
 ```mermaid
 xychart-beta
-    title "iamNCJ/RenderFormer-Studio 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 36 --> 44
-    line [37, 38, 39, 40, 41, 42, 43, 43]
+    title "iamNCJ/RenderFormer-Studio 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 46
+    line [37, 38, 39, 40, 41, 42, 43, 39, 45, 45]
 ```
 
-2026-10-18 37 → 2026-11-02 43（+6）
+2026-10-18 37 → 2026-11-17 45（+8）
 
 
 ---

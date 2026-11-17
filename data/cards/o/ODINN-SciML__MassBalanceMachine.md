@@ -1,6 +1,6 @@
 # ODINN-SciML/MassBalanceMachine
 
-⭐ 42 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ODINN-SciML/MassBalanceMachine) · [官网](https://massbalancemachine.readthedocs.io/en/latest/) · 组织维护
+⭐ 42 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ODINN-SciML/MassBalanceMachine) · [官网](https://massbalancemachine.readthedocs.io/en/latest/) · 组织维护
 
 **机器学习冰川物质平衡建模框架，融合观测与遥感数据**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "ODINN-SciML/MassBalanceMachine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

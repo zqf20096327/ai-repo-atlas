@@ -1,6 +1,6 @@
 # RudySen/comfyui-muse
 
-⭐ 39 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/RudySen/comfyui-muse) · [官网](https://ko-fi.com/rudysen) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/RudySen/comfyui-muse) · [官网](https://ko-fi.com/rudysen) · 个人维护
 
 **嵌入 ComfyUI 的本地 LLM 多会话聊天面板节点**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点，在画布内提供持久多会话 LLM 聊天面板，�
 
 ```mermaid
 xychart-beta
-    title "RudySen/comfyui-muse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "RudySen/comfyui-muse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [39, 38, 38]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 38（-1）
 
 
 ---

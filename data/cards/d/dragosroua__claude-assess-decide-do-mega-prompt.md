@@ -1,6 +1,6 @@
 # dragosroua/claude-assess-decide-do-mega-prompt
 
-⭐ 78 · Shell · MIT · 推送 2026-02-03 · [GitHub](https://github.com/dragosroua/claude-assess-decide-do-mega-prompt) · [官网](https://dragosroua.com/supercharging-claude-with-the-assess-decide-do-framework-mega-prompt-inside/) · 个人维护
+⭐ 80 · Shell · MIT · 推送 2026-02-03 · [GitHub](https://github.com/dragosroua/claude-assess-decide-do-mega-prompt) · [官网](https://dragosroua.com/supercharging-claude-with-the-assess-decide-do-framework-mega-prompt-inside/) · 个人维护
 
 **让 Claude 识别用户认知阶段（评估/决策/执行）的提示词框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dragosroua/claude-assess-decide-do-mega-prompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 77 --> 80
-    line [79, 78, 78]
+    title "dragosroua/claude-assess-decide-do-mega-prompt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 77 --> 81
+    line [79, 78, 79, 80, 80]
 ```
 
-2026-10-18 79 → 2026-11-02 78（-1）
+2026-10-18 79 → 2026-11-17 80（+1）
 
 
 ---

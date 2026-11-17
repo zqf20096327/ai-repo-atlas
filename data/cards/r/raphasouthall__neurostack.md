@@ -1,6 +1,6 @@
 # raphasouthall/neurostack
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/raphasouthall/neurostack) · [官网](https://neurostack.sh) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地 Markdown 知识库的检索与优化层（CLI + MCP）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raphasouthall/neurostack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-15 47（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # moooff/HermitUI
 
-⭐ 13 · HTML · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/moooff/HermitUI) · 个人维护
+⭐ 16 · HTML · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/moooff/HermitUI) · 个人维护
 
 **单 HTML 文件浏览器本地 LLM 聊天与 Agent 界面，零安装零痕迹**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "moooff/HermitUI 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "moooff/HermitUI 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 11, 15, 16, 16]
 ```
 
-2026-10-22 10 → 2026-11-02 13（+3）
+2026-10-22 10 → 2026-11-17 16（+6）
 
 
 ---

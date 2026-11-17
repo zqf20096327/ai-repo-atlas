@@ -1,6 +1,6 @@
 # diohabara/pychd
 
-⭐ 56 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/diohabara/pychd) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/diohabara/pychd) · 个人维护
 
 **Python .pyc 反编译器（3.0–3.14），规则层+LLM 混合并量化记忆污染**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "diohabara/pychd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "diohabara/pychd 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    line [55, 56, 55, 55]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 55（+0）
 
 
 ---

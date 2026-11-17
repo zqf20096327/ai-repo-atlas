@@ -1,6 +1,6 @@
 # hpi-swa-lab/Squeak-SemanticText
 
-⭐ 18 · Smalltalk · 推送 2026-06-30 · [GitHub](https://github.com/hpi-swa-lab/Squeak-SemanticText) · 组织维护
+⭐ 19 · Smalltalk · 推送 2026-06-30 · [GitHub](https://github.com/hpi-swa-lab/Squeak-SemanticText) · 组织维护
 
 **为 Squeak/Smalltalk 提供 OpenAI 客户端、语义搜索与 RAG 的工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hpi-swa-lab/Squeak-SemanticText 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "hpi-swa-lab/Squeak-SemanticText 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

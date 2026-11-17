@@ -1,6 +1,6 @@
 # PoCInnovation/Workshops
 
-⭐ 390 · Jupyter Notebook · MIT · 推送 2025-12-18 · [GitHub](https://github.com/PoCInnovation/Workshops) · [官网](http://poc-innovation.fr) · 组织维护
+⭐ 391 · Jupyter Notebook · MIT · 推送 2025-12-18 · [GitHub](https://github.com/PoCInnovation/Workshops) · [官网](http://poc-innovation.fr) · 组织维护
 
 **面向开发者的技术研讨会主题与材料集合**
 
@@ -41,13 +41,13 @@ PoC Innovation 组织维护的研讨会（Workshop）主题与材料仓库，覆
 
 ```mermaid
 xychart-beta
-    title "PoCInnovation/Workshops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 389 --> 391
-    line [390, 390]
+    title "PoCInnovation/Workshops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 389 --> 392
+    line [390, 391, 391]
 ```
 
-2026-10-18 390 → 2026-11-02 390（+0）
+2026-10-18 390 → 2026-11-17 391（+1）
 
 
 ---

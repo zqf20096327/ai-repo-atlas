@@ -1,6 +1,6 @@
 # Hazrat-Ali9/PneumoScan-AI
 
-⭐ 23 · Jupyter Notebook · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Hazrat-Ali9/PneumoScan-AI) · [官网](https://github.com/Hazrat-Ali9/PneumoScan-AI) · 个人维护
+⭐ 32 · Jupyter Notebook · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Hazrat-Ali9/PneumoScan-AI) · [官网](https://github.com/Hazrat-Ali9/PneumoScan-AI) · 个人维护
 
 **胸部 X 光片肺炎检测与肺部异常分割的深度学习项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/PneumoScan-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 19 --> 24
-    line [20, 22, 23, 23]
+    title "Hazrat-Ali9/PneumoScan-AI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 33
+    line [20, 22, 23, 22, 28, 32, 32]
 ```
 
-2026-10-18 20 → 2026-11-02 23（+3）
+2026-10-18 20 → 2026-11-17 32（+12）
 
 
 ---

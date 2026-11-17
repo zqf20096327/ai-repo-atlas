@@ -1,6 +1,6 @@
 # posstos/ai-relay-welfare
 
-⭐ 29 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/posstos/ai-relay-welfare) · [官网](https://posstos.github.io/ai-relay-welfare/) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/posstos/ai-relay-welfare) · [官网](https://posstos.github.io/ai-relay-welfare/) · 个人维护 · 中文 README
 
 **36 个 AI 中转站邀请链接合集，含签到状态与实测备注**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "posstos/ai-relay-welfare 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 27, 26, 28, 29]
+    title "posstos/ai-relay-welfare 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 33
+    line [24, 25, 26, 27, 26, 28, 29, 26, 29, 30, 31, 32, 32]
 ```
 
-2026-10-18 24 → 2026-11-02 29（+5）
+2026-10-18 24 → 2026-11-17 32（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # HEGOM61ita/OffGallery
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/HEGOM61ita/OffGallery) · 个人维护 · 中文 README
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/HEGOM61ita/OffGallery) · [官网](https://offgallery.app) · 个人维护 · 中文 README
 
 **摄影师的本地 AI 照片编目工具：离线打标、元数据与语义检索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HEGOM61ita/OffGallery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

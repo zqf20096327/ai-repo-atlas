@@ -1,6 +1,6 @@
 # Otacon/olpaka
 
-⭐ 31 · Kotlin · 推送 2025-11-15 · [GitHub](https://github.com/Otacon/olpaka) · [官网](https://otacon.github.io/olpaka/blog) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Ollama 的 Kotlin 多平台前端界面**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Otacon/olpaka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-10 31（+0）
 
 
 ---

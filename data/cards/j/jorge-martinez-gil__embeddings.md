@@ -1,6 +1,6 @@
 # jorge-martinez-gil/embeddings
 
-⭐ 16 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/jorge-martinez-gil/embeddings) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/jorge-martinez-gil/embeddings) · 个人维护
 
 **嵌入向量压缩布局的可复现选型目录与预算约束顾问**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jorge-martinez-gil/embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "jorge-martinez-gil/embeddings 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

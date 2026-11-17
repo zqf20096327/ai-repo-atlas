@@ -1,6 +1,6 @@
 # krevas/local-model-provider
 
-⭐ 11 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/krevas/local-model-provider) · [官网](https://marketplace.visualstudio.com/items?itemName=krevas.local-model-provider) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/krevas/local-model-provider) · [官网](https://marketplace.visualstudio.com/items?itemName=krevas.local-model-provider) · 个人维护
 
 **把本地 LLM 推理服务器接入 VS Code 的模型提供扩展**
 
@@ -46,12 +46,12 @@ VS Code 扩展，通过 OpenAI Chat Completions 兼容端点将编辑器连接�
 ```mermaid
 xychart-beta
     title "krevas/local-model-provider 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

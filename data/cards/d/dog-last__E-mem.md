@@ -1,6 +1,6 @@
 # dog-last/E-mem
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/dog-last/E-mem) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/dog-last/E-mem) · 组织维护
 
 **面向 LLM Agent 的情景记忆重建框架（ICML 2026）**
 
@@ -45,13 +45,13 @@ E-mem 是为 LLM Agent 提供记忆管理的框架，针对 RAG 与长上下文�
 
 ```mermaid
 xychart-beta
-    title "dog-last/E-mem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "dog-last/E-mem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

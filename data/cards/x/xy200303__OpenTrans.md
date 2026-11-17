@@ -1,6 +1,6 @@
 # xy200303/OpenTrans
 
-⭐ 13 · Go · 推送 2026-06-11 · [GitHub](https://github.com/xy200303/OpenTrans) · [官网](https://opentrans.xyun.dev/) · 个人维护 · 中文 README
+⭐ 14 · Go · 推送 2026-06-11 · [GitHub](https://github.com/xy200303/OpenTrans) · [官网](https://opentrans.xyun.dev/) · 个人维护 · 中文 README
 
 **Go 多协议 LLM 请求/响应/SSE 转换 SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xy200303/OpenTrans 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "xy200303/OpenTrans 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

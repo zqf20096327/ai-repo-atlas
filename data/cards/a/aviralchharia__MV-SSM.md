@@ -1,6 +1,6 @@
 # aviralchharia/MV-SSM
 
-⭐ 17 · Apache-2.0 · 推送 2025-11-15 · [GitHub](https://github.com/aviralchharia/MV-SSM) · [官网](https://aviralchharia.github.io/MV-SSM/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **CVPR 2025 论文项目页：多视角状态空间模型做 3D 人体姿态估计**
 
@@ -11,7 +11,7 @@ CMU 与 NUS 研究团队的 CVPR 2025 论文仓库，提出 MV-SSM 框架用于�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -48,12 +48,12 @@ CMU 与 NUS 研究团队的 CVPR 2025 论文仓库，提出 MV-SSM 框架用于�
 ```mermaid
 xychart-beta
     title "aviralchharia/MV-SSM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-10 17（+0）
 
 
 ---

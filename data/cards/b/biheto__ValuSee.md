@@ -1,6 +1,6 @@
 # biheto/ValuSee
 
-⭐ 35 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/biheto/ValuSee) · [官网](https://valusee.com) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/biheto/ValuSee) · [官网](https://valusee.com) · 个人维护 · 中文 README
 
 **面向消费者的 AI 购物决策平台：核验同款、核算到手价、监控降价**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "biheto/ValuSee 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    title "biheto/ValuSee 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 32 --> 38
+    line [33, 34, 35, 34, 36, 37, 37]
 ```
 
-2026-10-18 33 → 2026-11-02 35（+2）
+2026-10-18 33 → 2026-11-17 37（+4）
 
 
 ---

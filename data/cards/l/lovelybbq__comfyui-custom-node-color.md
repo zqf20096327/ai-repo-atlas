@@ -1,6 +1,6 @@
 # lovelybbq/comfyui-custom-node-color
 
-⭐ 31 · JavaScript · MIT · 推送 2026-01-02 · [GitHub](https://github.com/lovelybbq/comfyui-custom-node-color) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-01-02 · [GitHub](https://github.com/lovelybbq/comfyui-custom-node-color) · 个人维护
 
 **ComfyUI 节点颜色自定义扩展：可视化取色器与 HEX/RGB 工具节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lovelybbq/comfyui-custom-node-color 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "lovelybbq/comfyui-custom-node-color 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

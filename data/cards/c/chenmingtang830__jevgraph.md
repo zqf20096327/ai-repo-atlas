@@ -1,6 +1,6 @@
 # chenmingtang830/jevgraph
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/chenmingtang830/jevgraph) · [官网](https://github.com/chenmingtang830/jevgraph) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/chenmingtang830/jevgraph) · [官网](https://github.com/chenmingtang830/jevgraph) · 个人维护
 
 **文档到证据可溯候选知识图谱的 schema 引导构建流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenmingtang830/jevgraph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 40 --> 47
-    line [41, 43, 45, 46, 46]
+    title "chenmingtang830/jevgraph 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 39 --> 67
+    line [41, 43, 45, 46, 45, 64, 65, 64, 65, 65]
 ```
 
-2026-10-18 41 → 2026-11-02 46（+5）
+2026-10-18 41 → 2026-11-17 65（+24）
 
 
 ---

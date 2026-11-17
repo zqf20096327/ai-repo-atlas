@@ -1,6 +1,6 @@
 # HarlonWang/TrendingAI
 
-⭐ 274 · Kotlin · MIT · 推送 2026-10-27 · [GitHub](https://github.com/HarlonWang/TrendingAI) · [官网](https://trendingai.cn/app) · 个人维护 · 中文 README
+⭐ 279 · Kotlin · MIT · 推送 2026-10-27 · [GitHub](https://github.com/HarlonWang/TrendingAI) · [官网](https://trendingai.cn/app) · 个人维护 · 中文 README
 
 **聚合 GitHub/HN/Product Hunt 热点并附 AI 摘要与精选的跨平台应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HarlonWang/TrendingAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 269 --> 275
-    line [270, 271, 273, 274]
+    title "HarlonWang/TrendingAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 269 --> 280
+    line [270, 271, 273, 274, 271, 277, 278, 279, 279]
 ```
 
-2026-10-18 270 → 2026-11-02 274（+4）
+2026-10-18 270 → 2026-11-17 279（+9）
 
 
 ---

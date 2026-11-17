@@ -1,6 +1,6 @@
 # hieuphampm/Book-Collection
 
-⭐ 24 · 推送 2026-09-02 · [GitHub](https://github.com/hieuphampm/Book-Collection) · 个人维护
+⭐ 25 · 推送 2026-09-02 · [GitHub](https://github.com/hieuphampm/Book-Collection) · 个人维护
 
 **免费编程/AI/数据科学书籍的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hieuphampm/Book-Collection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "hieuphampm/Book-Collection 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [24, 23, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # QodeXcli/QodeX
 
-⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/QodeXcli/QodeX) · [官网](https://qodexcli.github.io/QodeX/) · 组织维护
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/QodeXcli/QodeX) · [官网](https://qodexcli.github.io/QodeX/) · 组织维护
 
 **本地优先的终端 AI 编码 agent，默认跑本地模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QodeXcli/QodeX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "QodeXcli/QodeX 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

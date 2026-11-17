@@ -1,6 +1,6 @@
 # malcolm1232/WorkBoard
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/malcolm1232/WorkBoard) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/malcolm1232/WorkBoard) · 个人维护
 
 **Claude Code 的可视化看板插件：人与 agent 共用的任务/知识图谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "malcolm1232/WorkBoard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "malcolm1232/WorkBoard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

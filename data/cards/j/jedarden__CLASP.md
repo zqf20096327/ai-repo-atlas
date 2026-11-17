@@ -1,6 +1,6 @@
 # jedarden/CLASP
 
-⭐ 27 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jedarden/CLASP) · [官网](https://jedarden.com/projects/clasp/) · 个人维护
+⭐ 29 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jedarden/CLASP) · [官网](https://jedarden.com/projects/clasp/) · 个人维护
 
 **让 Claude Code 接入任意 LLM 提供商的 Go 代理**
 
@@ -45,13 +45,13 @@ Go 编写的轻量代理，部署在 Claude Code 与用户选择的 LLM 提供�
 
 ```mermaid
 xychart-beta
-    title "jedarden/CLASP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27]
+    title "jedarden/CLASP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 25, 28, 29, 29]
 ```
 
-2026-10-18 25 → 2026-11-02 27（+2）
+2026-10-18 25 → 2026-11-17 29（+4）
 
 
 ---

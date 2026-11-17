@@ -1,6 +1,6 @@
 # rubycatco/claude-agent-sdk-ruby
 
-⭐ 50 · Ruby · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rubycatco/claude-agent-sdk-ruby) · [官网](https://rubydoc.info/gems/claude-agent-sdk) · 组织维护
+⭐ 51 · Ruby · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rubycatco/claude-agent-sdk-ruby) · [官网](https://rubydoc.info/gems/claude-agent-sdk) · 组织维护
 
 **面向 Ruby/Rails 的 Claude Code agent 运行时非官方 SDK**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rubycatco/claude-agent-sdk-ruby 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "rubycatco/claude-agent-sdk-ruby 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

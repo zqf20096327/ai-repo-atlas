@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuvraj108c/ComfyUI-Depth-Anything-Tensorrt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    title "yuvraj108c/ComfyUI-Depth-Anything-Tensorrt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 134 --> 137
+    line [136, 135, 136, 136]
 ```
 
-2026-10-18 136 → 2026-11-02 136（+0）
+2026-10-18 136 → 2026-11-17 136（+0）
 
 
 ---

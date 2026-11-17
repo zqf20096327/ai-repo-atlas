@@ -1,6 +1,6 @@
 # Inferensys/ai-driver-safety
 
-⭐ 82 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/Inferensys/ai-driver-safety) · 组织维护
+⭐ 83 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Inferensys/ai-driver-safety) · 组织维护
 
 **面向辅助/自动驾驶座舱的驾驶员疲劳分心实时监测系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Inferensys/ai-driver-safety 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 78 --> 83
-    line [79, 80, 81, 82, 82]
+    title "Inferensys/ai-driver-safety 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 78 --> 84
+    line [79, 80, 81, 82, 79, 83, 83]
 ```
 
-2026-10-18 79 → 2026-11-02 82（+3）
+2026-10-18 79 → 2026-11-17 83（+4）
 
 
 ---

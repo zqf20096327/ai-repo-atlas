@@ -1,6 +1,6 @@
 # lkk688/DeepDataMiningLearning
 
-⭐ 37 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/lkk688/DeepDataMiningLearning) · [官网](https://deepdatamininglearning.readthedocs.io) · 组织维护
+⭐ 39 · Jupyter Notebook · 推送 2026-11-14 · [GitHub](https://github.com/lkk688/DeepDataMiningLearning) · [官网](https://deepdatamininglearning.readthedocs.io) · 组织维护
 
 **面向 SJSU 课程的数据挖掘/机器学习/深度学习教学代码集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lkk688/DeepDataMiningLearning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "lkk688/DeepDataMiningLearning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 39（+3）
 
 
 ---

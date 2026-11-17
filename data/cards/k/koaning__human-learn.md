@@ -1,6 +1,6 @@
 # koaning/human-learn
 
-⭐ 832 · Jupyter Notebook · MIT · 推送 2026-03-09 · [GitHub](https://github.com/koaning/human-learn) · [官网](https://koaning.github.io/human-learn/) · 个人维护
+⭐ 833 · Jupyter Notebook · MIT · 推送 2026-03-09 · [GitHub](https://github.com/koaning/human-learn) · [官网](https://koaning.github.io/human-learn/) · 个人维护
 
 **给 ML 用户的规则系统构建与基准库（scikit-learn 兼容）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "koaning/human-learn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "koaning/human-learn 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
     y-axis "stars" 831 --> 834
-    line [833, 832, 832]
+    line [833, 832, 833, 832, 833, 833]
 ```
 
-2026-10-18 833 → 2026-11-02 832（-1）
+2026-10-18 833 → 2026-11-17 833（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # arshia-pourfar/corporate-template
 
-⭐ 13 · TypeScript · 推送 2026-02-01 · [GitHub](https://github.com/arshia-pourfar/corporate-template) · [官网](https://corporate-template-arshia-pourfar.vercel.app) · 个人维护
+⭐ 16 · TypeScript · 推送 2026-02-01 · [GitHub](https://github.com/arshia-pourfar/corporate-template) · [官网](https://corporate-template-arshia-pourfar.vercel.app) · 个人维护
 
 **面向企业的 Next.js 企业官网/落地页模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arshia-pourfar/corporate-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "arshia-pourfar/corporate-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

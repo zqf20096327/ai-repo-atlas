@@ -1,6 +1,6 @@
 # lunarstack-co/aldwin
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lunarstack-co/aldwin) · [官网](https://askaldwin.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **本地终端运行的个人 AI 助手，操作文件与文档**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lunarstack-co/aldwin 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-10-30", "2026-11-02"]
+    title "lunarstack-co/aldwin 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-07"]
     y-axis "stars" 2 --> 17
-    line [3, 15, 16, 16]
+    line [3, 15, 16, 3, 3]
 ```
 
-2026-10-22 3 → 2026-11-02 16（+13）
+2026-10-22 3 → 2026-11-07 3（+0）
 
 
 ---

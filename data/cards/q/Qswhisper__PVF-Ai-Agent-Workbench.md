@@ -1,6 +1,6 @@
 # Qswhisper/PVF-Ai-Agent-Workbench
 
-⭐ 30 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Qswhisper/PVF-Ai-Agent-Workbench) · [官网](https://tieba.baidu.com/p/10812134872) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Qswhisper/PVF-Ai-Agent-Workbench) · [官网](https://tieba.baidu.com/p/10812134872) · 个人维护 · 中文 README
 
 **让桌面 AI Agent 安全查看与修改 DNF Script.pvf 的便携工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Qswhisper/PVF-Ai-Agent-Workbench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "Qswhisper/PVF-Ai-Agent-Workbench 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 35
+    line [28, 29, 30, 28, 31, 32, 33, 34, 34]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 34（+6）
 
 
 ---

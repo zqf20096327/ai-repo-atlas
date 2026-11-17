@@ -1,6 +1,6 @@
 # cyberdeliaAI/comfyui-cyberdelia-metadata
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/cyberdeliaAI/comfyui-cyberdelia-metadata) · 组织维护
+⭐ 10 · Python · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/cyberdeliaAI/comfyui-cyberdelia-metadata) · 组织维护
 
 **ComfyUI 图像保存节点：写入 Civitai 兼容的 PNG/JPG/WebP 元数据**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点扩展，替换原生 Save Image 节点后，将 seed、�
 
 ```mermaid
 xychart-beta
-    title "cyberdeliaAI/comfyui-cyberdelia-metadata 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02"]
+    title "cyberdeliaAI/comfyui-cyberdelia-metadata 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 10]
 ```
 
-2026-10-25 10 → 2026-11-02 11（+1）
+2026-10-25 10 → 2026-11-17 10（+0）
 
 
 ---

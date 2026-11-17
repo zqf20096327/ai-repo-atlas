@@ -1,6 +1,6 @@
 # Lumi-supercomputer/LUMI-AI-Guide
 
-⭐ 83 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Lumi-supercomputer/LUMI-AI-Guide) · 组织维护
+⭐ 84 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Lumi-supercomputer/LUMI-AI-Guide) · 组织维护
 
 **将机器学习应用迁移到 LUMI 超算的教程指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lumi-supercomputer/LUMI-AI-Guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    title "Lumi-supercomputer/LUMI-AI-Guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 82, 84, 84]
 ```
 
-2026-10-18 82 → 2026-11-02 83（+1）
+2026-10-18 82 → 2026-11-17 84（+2）
 
 
 ---

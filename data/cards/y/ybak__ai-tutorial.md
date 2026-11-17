@@ -1,6 +1,6 @@
 # ybak/ai-tutorial
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/ybak/ai-tutorial) · [官网](https://ybak.github.io/ai-tutorial/) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ybak/ai-tutorial) · [官网](https://ybak.github.io/ai-tutorial/) · 个人维护 · 中文 README
 
 **面向跨境电商多租户智能体平台的中文教程书架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ybak/ai-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "ybak/ai-tutorial 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 14 --> 26
+    line [15, 16, 15, 18, 21, 22, 25, 25]
 ```
 
-2026-10-25 15 → 2026-11-02 16（+1）
+2026-10-25 15 → 2026-11-17 25（+10）
 
 
 ---

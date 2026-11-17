@@ -1,6 +1,6 @@
 # NVIDIA/cuEmbed
 
-⭐ 50 · Cuda · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/cuEmbed) · 组织维护
+⭐ 50 · Cuda · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/NVIDIA/cuEmbed) · 组织维护
 
 **NVIDIA 的 header-only CUDA embedding lookup 内核库，加速嵌入查表**
 
@@ -45,12 +45,12 @@ cuEmbed 是 NVIDIA 开源的头文件式 CUDA C++ 内核库，用于加速深度
 ```mermaid
 xychart-beta
     title "NVIDIA/cuEmbed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 50（+0）
 
 
 ---

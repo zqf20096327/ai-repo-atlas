@@ -1,6 +1,6 @@
 # chaohong-ai/ai-auto-work
 
-⭐ 134 · Shell · 推送 2026-07-26 · [GitHub](https://github.com/chaohong-ai/ai-auto-work) · 个人维护 · 中文 README
+⭐ 133 · Shell · 推送 2026-07-26 · [GitHub](https://github.com/chaohong-ai/ai-auto-work) · 个人维护 · 中文 README
 
 **Claude+Codex 双模型对抗协作的自动化全周期开发工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chaohong-ai/ai-auto-work 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 132 --> 135
-    line [133, 134, 134]
+    title "chaohong-ai/ai-auto-work 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 130 --> 135
+    line [133, 134, 131, 133, 133]
 ```
 
-2026-10-18 133 → 2026-11-02 134（+1）
+2026-10-18 133 → 2026-11-17 133（+0）
 
 
 ---

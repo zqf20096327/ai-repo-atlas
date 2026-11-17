@@ -1,6 +1,6 @@
 # zjunlp/MemTrace
 
-⭐ 79 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/zjunlp/MemTrace) · 组织维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/zjunlp/MemTrace) · 组织维护 · 中文 README
 
 **LLM 记忆系统错误溯源工具：定位错误引入的操作步骤**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/MemTrace 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 76 --> 80
-    line [77, 78, 79, 79]
+    title "zjunlp/MemTrace 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 76 --> 84
+    line [77, 78, 79, 82, 83, 83]
 ```
 
-2026-10-18 77 → 2026-11-02 79（+2）
+2026-10-18 77 → 2026-11-17 83（+6）
 
 
 ---

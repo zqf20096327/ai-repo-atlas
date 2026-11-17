@@ -1,6 +1,6 @@
 # Dunni3/FlowMol
 
-⭐ 222 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Dunni3/FlowMol) · [官网](https://arxiv.org/abs/2508.12629) · 个人维护
+⭐ 227 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Dunni3/FlowMol) · [官网](https://arxiv.org/abs/2508.12629) · 个人维护
 
 **面向药物设计的 3D 全新分子生成流匹配模型官方实现**
 
@@ -44,13 +44,13 @@ FlowMol3 的官方实现：基于混合连续/分类变量的流匹配与图神�
 
 ```mermaid
 xychart-beta
-    title "Dunni3/FlowMol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    title "Dunni3/FlowMol 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 221 --> 228
+    line [222, 223, 224, 225, 226, 227, 227]
 ```
 
-2026-10-18 222 → 2026-11-02 222（+0）
+2026-10-18 222 → 2026-11-17 227（+5）
 
 
 ---

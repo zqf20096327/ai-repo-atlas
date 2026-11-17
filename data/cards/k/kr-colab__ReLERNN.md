@@ -1,6 +1,6 @@
 # kr-colab/ReLERNN
 
-⭐ 74 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/kr-colab/ReLERNN) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/kr-colab/ReLERNN) · 组织维护
 
 **用循环神经网络从测序数据推断全基因组重组率图谱的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kr-colab/ReLERNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "kr-colab/ReLERNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 73 --> 77
+    line [74, 76, 76]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 76（+2）
 
 
 ---

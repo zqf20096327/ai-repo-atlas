@@ -1,6 +1,6 @@
 # MiXaiLL76/n8n-nodes-sgr-tool-calling
 
-⭐ 25 · TypeScript · GPL-3.0 · 推送 2025-12-04 · [GitHub](https://github.com/MiXaiLL76/n8n-nodes-sgr-tool-calling) · [官网](https://www.npmjs.com/package/n8n-nodes-sgr-tool-calling) · 个人维护
+⭐ 26 · TypeScript · GPL-3.0 · 推送 2025-12-04 · [GitHub](https://github.com/MiXaiLL76/n8n-nodes-sgr-tool-calling) · [官网](https://www.npmjs.com/package/n8n-nodes-sgr-tool-calling) · 个人维护
 
 **面向 n8n 的 SGR 深度研究 Agent 节点（Python 项目移植）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiXaiLL76/n8n-nodes-sgr-tool-calling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "MiXaiLL76/n8n-nodes-sgr-tool-calling 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 24 --> 27
-    line [26, 25]
+    line [26, 25, 26, 25, 26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 25（-1）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TakatoHonda/sui-lang
 
-⭐ 371 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/TakatoHonda/sui-lang) · 个人维护
+⭐ 372 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/TakatoHonda/sui-lang) · 个人维护
 
 **面向 LLM 代码生成的结构化伪代码语言（Isu/Sui）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TakatoHonda/sui-lang 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 369 --> 372
-    line [370, 371, 371]
+    title "TakatoHonda/sui-lang 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 369 --> 373
+    line [370, 371, 370, 371, 372, 372]
 ```
 
-2026-10-18 370 → 2026-11-02 371（+1）
+2026-10-18 370 → 2026-11-17 372（+2）
 
 
 ---

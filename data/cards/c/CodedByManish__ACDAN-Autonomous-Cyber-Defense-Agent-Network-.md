@@ -1,6 +1,6 @@
 # CodedByManish/ACDAN-Autonomous-Cyber-Defense-Agent-Network-
 
-⭐ 13 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/CodedByManish/ACDAN-Autonomous-Cyber-Defense-Agent-Network-) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/CodedByManish/ACDAN-Autonomous-Cyber-Defense-Agent-Network-) · 个人维护
 
 **多智能体自主网络防御框架：检测-推理-响应一体化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CodedByManish/ACDAN-Autonomous-Cyber-Defense-Agent-Network- 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "CodedByManish/ACDAN-Autonomous-Cyber-Defense-Agent-Network- 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

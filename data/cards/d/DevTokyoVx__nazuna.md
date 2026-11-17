@@ -1,6 +1,6 @@
 # DevTokyoVx/nazuna
 
-⭐ 125 · JavaScript · 推送 2026-10-13 · [GitHub](https://github.com/DevTokyoVx/nazuna) · [官网](https://vexapi.com.br) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Baileys 的免费开源 WhatsApp 多功能聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevTokyoVx/nazuna 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
+    title "DevTokyoVx/nazuna 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08"]
     y-axis "stars" 120 --> 126
-    line [121, 122, 123, 125]
+    line [121, 122, 123, 125, 122, 125]
 ```
 
-2026-10-18 121 → 2026-11-02 125（+4）
+2026-10-18 121 → 2026-11-08 125（+4）
 
 
 ---

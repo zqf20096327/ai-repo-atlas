@@ -1,6 +1,6 @@
 # os-santiago/homedir
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/os-santiago/homedir) · [官网](https://homedir.opensourcesantiago.io/) · 组织维护
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/os-santiago/homedir) · [官网](https://homedir.opensourcesantiago.io/) · 组织维护
 
 **面向 DevRel/开源社区的 Quarkus 平台：活动、项目、CFP 与贡献者整合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "os-santiago/homedir 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

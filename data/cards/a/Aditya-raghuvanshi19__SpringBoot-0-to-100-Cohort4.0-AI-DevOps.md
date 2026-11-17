@@ -1,6 +1,6 @@
 # Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps
 
-⭐ 34 · Java · 推送 2026-01-25 · [GitHub](https://github.com/Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps) · 个人维护
+⭐ 35 · Java · 推送 2026-01-25 · [GitHub](https://github.com/Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps) · 个人维护
 
 **Spring Boot 后端学习课程仓库：从基础到微服务、DevOps 与 AI 集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

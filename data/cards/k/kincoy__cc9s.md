@@ -1,6 +1,6 @@
 # kincoy/cc9s
 
-⭐ 66 · Go · MIT · 推送 2026-04-27 · [GitHub](https://github.com/kincoy/cc9s) · 个人维护 · 中文 README
+⭐ 67 · Go · MIT · 推送 2026-04-27 · [GitHub](https://github.com/kincoy/cc9s) · 个人维护 · 中文 README
 
 **管理 Claude Code 会话的 k9s 风格终端 TUI/CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kincoy/cc9s 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "kincoy/cc9s 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 67（+2）
 
 
 ---

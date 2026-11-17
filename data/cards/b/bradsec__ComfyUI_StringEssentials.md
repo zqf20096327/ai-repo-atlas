@@ -1,6 +1,6 @@
 # bradsec/ComfyUI_StringEssentials
 
-⭐ 38 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/bradsec/ComfyUI_StringEssentials) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/bradsec/ComfyUI_StringEssentials) · 个人维护
 
 **ComfyUI 字符串处理自定义节点集，用于改写提示词与 LLM 输出文本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bradsec/ComfyUI_StringEssentials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "bradsec/ComfyUI_StringEssentials 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [38, 37, 37]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 37（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gibram-io/gibram
 
-⭐ 106 · Go · MIT · 推送 2026-06-07 · [GitHub](https://github.com/gibram-io/gibram) · [官网](https://docs.gibram.io) · 组织维护
+⭐ 107 · Go · MIT · 推送 2026-06-07 · [GitHub](https://github.com/gibram-io/gibram) · [官网](https://docs.gibram.io) · 组织维护
 
 **内存态知识图谱服务器：为 RAG/GraphRAG 提供图+向量检索**
 
@@ -44,13 +44,13 @@ GibRAM 是一个在内存中运行的知识图谱服务器，面向 RAG/GraphRAG
 
 ```mermaid
 xychart-beta
-    title "gibram-io/gibram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    title "gibram-io/gibram 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 105 --> 108
+    line [106, 107, 107]
 ```
 
-2026-10-18 106 → 2026-11-02 106（+0）
+2026-10-18 106 → 2026-11-17 107（+1）
 
 
 ---

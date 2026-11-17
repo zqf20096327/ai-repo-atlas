@@ -1,6 +1,6 @@
 # PavanMudigonda/zero-to-ai
 
-⭐ 158 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/PavanMudigonda/zero-to-ai) · [官网](https://zero-to-ai.dev) · 个人维护
+⭐ 160 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/PavanMudigonda/zero-to-ai) · [官网](https://zero-to-ai.dev) · 个人维护
 
 **免费开源 AI/ML 课程：950+ Jupyter 笔记本覆盖入门到进阶**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PavanMudigonda/zero-to-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 152 --> 159
-    line [153, 154, 155, 157, 158, 158]
+    title "PavanMudigonda/zero-to-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 152 --> 161
+    line [153, 154, 155, 157, 158, 155, 160, 160]
 ```
 
-2026-10-18 153 → 2026-11-02 158（+5）
+2026-10-18 153 → 2026-11-17 160（+7）
 
 
 ---

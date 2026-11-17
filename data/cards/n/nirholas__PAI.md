@@ -1,6 +1,6 @@
 # nirholas/PAI
 
-⭐ 115 · Shell · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/nirholas/PAI) · [官网](https://pai.direct) · 个人维护
+⭐ 125 · Shell · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/nirholas/PAI) · [官网](https://pai.direct) · 个人维护
 
 **可启动 U 盘上的隐私优先本地 AI 工作站操作系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirholas/PAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 112 --> 116
-    line [113, 114, 115, 115]
+    title "nirholas/PAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 112 --> 126
+    line [113, 114, 115, 122, 123, 124, 125, 125]
 ```
 
-2026-10-18 113 → 2026-11-02 115（+2）
+2026-10-18 113 → 2026-11-17 125（+12）
 
 
 ---

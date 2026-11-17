@@ -1,6 +1,6 @@
 # inai-sandy/inAI-wiki
 
-⭐ 51 · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/inai-sandy/inAI-wiki) · [官网](https://www.inai.wiki/) · 个人维护
+⭐ 52 · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/inai-sandy/inAI-wiki) · [官网](https://www.inai.wiki/) · 个人维护
 
 **AI 生态开放目录：2M+ 应用、agent、模型与数据集的策展索引**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inai-sandy/inAI-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "inai-sandy/inAI-wiki 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 52（+1）
 
 
 ---

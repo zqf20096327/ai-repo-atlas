@@ -1,6 +1,6 @@
 # axonn-ai/axonn
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-04-28 · [GitHub](https://github.com/axonn-ai/axonn) · [官网](https://axonn.readthedocs.io) · 组织维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-04-28 · [GitHub](https://github.com/axonn-ai/axonn) · [官网](https://axonn.readthedocs.io) · 组织维护
 
 **并行训练与微调深度神经网络的分布式框架**
 
@@ -42,13 +42,13 @@ AxoNN 是一个用于训练深度神经网络的并行框架，面向需要在�
 
 ```mermaid
 xychart-beta
-    title "axonn-ai/axonn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    title "axonn-ai/axonn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 75 --> 78
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-11-02 76（+0）
+2026-10-18 76 → 2026-11-17 77（+1）
 
 
 ---

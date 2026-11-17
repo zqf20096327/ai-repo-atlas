@@ -1,6 +1,6 @@
 # vscode-reborn-ai/vscode-reborn-ai
 
-⭐ 269 · TypeScript · ISC · 推送 2026-03-19 · [GitHub](https://github.com/vscode-reborn-ai/vscode-reborn-ai) · [官网](https://marketplace.visualstudio.com/items?itemName=chris-hayes.chatgpt-reborn) · 组织维护
+⭐ 270 · TypeScript · ISC · 推送 2026-03-19 · [GitHub](https://github.com/vscode-reborn-ai/vscode-reborn-ai) · [官网](https://marketplace.visualstudio.com/items?itemName=chris-hayes.chatgpt-reborn) · 组织维护
 
 **自带 AI 模型的 VS Code 编程助手扩展，支持本地与 API 模型**
 
@@ -44,13 +44,13 @@ VS Code 扩展，在编辑器内提供聊天界面，用于编写、重构与改
 
 ```mermaid
 xychart-beta
-    title "vscode-reborn-ai/vscode-reborn-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 268 --> 270
-    line [269, 269]
+    title "vscode-reborn-ai/vscode-reborn-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 268 --> 271
+    line [269, 270, 270]
 ```
 
-2026-10-18 269 → 2026-11-02 269（+0）
+2026-10-18 269 → 2026-11-17 270（+1）
 
 
 ---

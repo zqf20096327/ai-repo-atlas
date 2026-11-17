@@ -1,6 +1,6 @@
 # Syysean/agent-pet-hub
 
-⭐ 12 · Rust · MIT · 推送 2026-06-15 · [GitHub](https://github.com/Syysean/agent-pet-hub) · 个人维护 · 中文 README
+⭐ 13 · Rust · MIT · 推送 2026-06-15 · [GitHub](https://github.com/Syysean/agent-pet-hub) · 个人维护 · 中文 README
 
 **把 AI Agent 运行状态实时可视化为桌面宠物动画的应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Syysean/agent-pet-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Syysean/agent-pet-hub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

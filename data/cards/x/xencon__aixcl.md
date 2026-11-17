@@ -1,6 +1,6 @@
 # xencon/aixcl
 
-⭐ 19 · Shell · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xencon/aixcl) · [官网](https://www.xenithconsulting.com/) · 个人维护
+⭐ 19 · Shell · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/xencon/aixcl) · [官网](https://www.xenithconsulting.com/) · 个人维护
 
 **自托管本地 LLM 的 Agentic SDLC 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xencon/aixcl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

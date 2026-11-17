@@ -1,6 +1,6 @@
 # Leo6Leo/whispr-stream
 
-⭐ 21 · Swift · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Leo6Leo/whispr-stream) · [官网](https://leo6leo.github.io/whispr-stream/) · 个人维护
+⭐ 22 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Leo6Leo/whispr-stream) · [官网](https://leo6leo.github.io/whispr-stream/) · 个人维护
 
 **macOS 本地流式语音听写应用，基于 Qwen3-ASR/MLX**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leo6Leo/whispr-stream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Leo6Leo/whispr-stream 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

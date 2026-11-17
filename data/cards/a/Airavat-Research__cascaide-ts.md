@@ -1,6 +1,6 @@
 # Airavat-Research/cascaide-ts
 
-⭐ 18 · TypeScript · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Airavat-Research/cascaide-ts) · [官网](https://www.cascaide-ts.com) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Airavat-Research/cascaide-ts) · [官网](https://www.cascaide-ts.com) · 个人维护
 
 **TypeScript 全栈 agent 运行时与编排框架，跨 JS 运行时部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Airavat-Research/cascaide-ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Airavat-Research/cascaide-ts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

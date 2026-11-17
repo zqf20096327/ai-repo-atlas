@@ -1,6 +1,6 @@
 # moeru-ai/arpk
 
-⭐ 42 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/moeru-ai/arpk) · [官网](https://www.npmjs.com/package/arpk) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/moeru-ai/arpk) · [官网](https://www.npmjs.com/package/arpk) · 组织维护
 
 **用 LLM 做翻译的 CLI 与 DeepLX 兼容 API 服务**
 
@@ -45,13 +45,13 @@ ARPK 是基于 Node.js 的翻译工具，将 LLM 用作翻译引擎，支持大�
 
 ```mermaid
 xychart-beta
-    title "moeru-ai/arpk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "moeru-ai/arpk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 43
+    line [42, 41, 41]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 41（-1）
 
 
 ---

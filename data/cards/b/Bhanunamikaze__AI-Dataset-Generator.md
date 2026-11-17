@@ -1,6 +1,6 @@
 # Bhanunamikaze/AI-Dataset-Generator
 
-⭐ 21 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/Bhanunamikaze/AI-Dataset-Generator) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/Bhanunamikaze/AI-Dataset-Generator) · 个人维护
 
 **给 AI 编程助手的训练数据集生成技能，产出 SFT/DPO 数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bhanunamikaze/AI-Dataset-Generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Bhanunamikaze/AI-Dataset-Generator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

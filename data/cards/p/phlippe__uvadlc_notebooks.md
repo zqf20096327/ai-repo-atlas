@@ -1,6 +1,6 @@
 # phlippe/uvadlc_notebooks
 
-⭐ 3,207 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/phlippe/uvadlc_notebooks) · [官网](https://uvadlc-notebooks.readthedocs.io/en/latest/) · 组织维护
+⭐ 3,208 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/phlippe/uvadlc_notebooks) · [官网](https://uvadlc-notebooks.readthedocs.io/en/latest/) · 组织维护
 
 **阿姆斯特丹大学深度学习课程的 Jupyter 教程笔记本集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "phlippe/uvadlc_notebooks 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3198 --> 3208
-    line [3199, 3200, 3202, 3203, 3204, 3203, 3205, 3206, 3207]
+    title "phlippe/uvadlc_notebooks 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 3198 --> 3209
+    line [3199, 3200, 3202, 3203, 3204, 3203, 3205, 3206, 3207, 3203, 3208, 3208]
 ```
 
-2026-10-18 3,199 → 2026-11-02 3,207（+8）
+2026-10-18 3,199 → 2026-11-17 3,208（+9）
 
 
 ---

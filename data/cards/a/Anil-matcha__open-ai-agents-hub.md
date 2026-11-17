@@ -1,6 +1,6 @@
 # Anil-matcha/open-ai-agents-hub
 
-⭐ 33 · JavaScript · 推送 2026-08-29 · [GitHub](https://github.com/Anil-matcha/open-ai-agents-hub) · [官网](https://muapi.ai/agents) · 个人维护
+⭐ 34 · JavaScript · 推送 2026-08-29 · [GitHub](https://github.com/Anil-matcha/open-ai-agents-hub) · [官网](https://muapi.ai/agents) · 个人维护
 
 **自托管平台：单一界面构建、托管并对话各类 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/open-ai-agents-hub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    title "Anil-matcha/open-ai-agents-hub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 32, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

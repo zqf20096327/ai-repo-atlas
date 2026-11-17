@@ -1,6 +1,6 @@
 # google-deepmind/questbench
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/google-deepmind/questbench) · [官网](https://openreview.net/pdf?id=gpwA9aZLTZ) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/google-deepmind/questbench) · [官网](https://openreview.net/pdf?id=gpwA9aZLTZ) · 组织维护
 
 **LLM 欠定推理任务追问能力的基准数据集与评测代码**
 
@@ -44,13 +44,13 @@ QuestBench 将欠定任务形式化为缺失变量赋值的约束满足问题，
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/questbench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 43 --> 46
-    line [44, 45]
+    title "google-deepmind/questbench 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 43 --> 48
+    line [44, 45, 44, 46, 47, 47]
 ```
 
-2026-10-18 44 → 2026-11-02 45（+1）
+2026-10-18 44 → 2026-11-17 47（+3）
 
 
 ---

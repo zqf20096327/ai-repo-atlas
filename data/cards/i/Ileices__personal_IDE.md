@@ -1,6 +1,6 @@
 # Ileices/personal_IDE
 
-⭐ 13 · Python · 推送 2026-09-22 · [GitHub](https://github.com/Ileices/personal_IDE) · [官网](https://github.com/Ileices/personal_IDE/discussions) · 个人维护
+⭐ 12 · Python · 推送 2026-09-22 · [GitHub](https://github.com/Ileices/personal_IDE) · [官网](https://github.com/Ileices/personal_IDE/discussions) · 个人维护
 
 **开发者用的自改进 agentic IDE：agent 通过标签系统自动构建代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ileices/personal_IDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Ileices/personal_IDE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

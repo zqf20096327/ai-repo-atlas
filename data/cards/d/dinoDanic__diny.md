@@ -1,6 +1,6 @@
 # dinoDanic/diny
 
-⭐ 132 · Go · MIT · 推送 2026-05-12 · [GitHub](https://github.com/dinoDanic/diny) · [官网](https://diny.run) · 个人维护
+⭐ 133 · Go · MIT · 推送 2026-05-12 · [GitHub](https://github.com/dinoDanic/diny) · [官网](https://diny.run) · 个人维护
 
 **从暂存 diff 生成 git 提交信息的 CLI，无需 API key**
 
@@ -44,13 +44,13 @@ Go 编写的开源终端工具：读取 `git diff` 暂存变更，过滤 lockfil
 
 ```mermaid
 xychart-beta
-    title "dinoDanic/diny 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 130 --> 133
-    line [131, 132, 132]
+    title "dinoDanic/diny 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 130 --> 134
+    line [131, 132, 131, 133, 133]
 ```
 
-2026-10-18 131 → 2026-11-02 132（+1）
+2026-10-18 131 → 2026-11-17 133（+2）
 
 
 ---

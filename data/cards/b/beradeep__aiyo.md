@@ -1,6 +1,6 @@
 # beradeep/aiyo
 
-⭐ 54 · Kotlin · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/beradeep/aiyo) · 个人维护
+⭐ 55 · Kotlin · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/beradeep/aiyo) · 个人维护
 
 **安卓 BYOK AI 聊天应用：自带 OpenRouter key 对话数百模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beradeep/aiyo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 50 --> 55
-    line [51, 52, 54, 54]
+    title "beradeep/aiyo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 56
+    line [51, 52, 54, 55, 55]
 ```
 
-2026-10-18 51 → 2026-11-02 54（+3）
+2026-10-18 51 → 2026-11-17 55（+4）
 
 
 ---

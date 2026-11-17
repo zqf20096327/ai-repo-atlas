@@ -1,6 +1,6 @@
 # asyml/texar
 
-⭐ 2,393 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/asyml/texar) · [官网](https://asyml.io) · 组织维护
+⭐ 2,392 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/asyml/texar) · [官网](https://asyml.io) · 组织维护
 
 **TensorFlow 版机器学习/NLP/文本生成模块化工具库**
 
@@ -45,13 +45,13 @@ Texar 是面向研究人员与从业者的机器学习工具库，本仓库为 T
 
 ```mermaid
 xychart-beta
-    title "asyml/texar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
+    title "asyml/texar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 2390 --> 2394
-    line [2391, 2392, 2393, 2393]
+    line [2391, 2392, 2393, 2392, 2392]
 ```
 
-2026-10-18 2,391 → 2026-11-02 2,393（+2）
+2026-10-18 2,391 → 2026-11-17 2,392（+1）
 
 
 ---

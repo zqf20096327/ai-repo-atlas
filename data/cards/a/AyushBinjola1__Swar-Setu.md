@@ -1,6 +1,6 @@
 # AyushBinjola1/Swar-Setu
 
-⭐ 15 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/AyushBinjola1/Swar-Setu) · [官网](https://swar-setu-taupe.vercel.app) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/AyushBinjola1/Swar-Setu) · [官网](https://swar-setu-taupe.vercel.app) · 个人维护
 
 **面向家长与教师的学习障碍早期筛查平台（多语言+语音）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AyushBinjola1/Swar-Setu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "AyushBinjola1/Swar-Setu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

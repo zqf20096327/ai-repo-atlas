@@ -1,6 +1,6 @@
 # utensils/comfyui-nix
 
-⭐ 171 · Nix · MIT · 推送 2026-09-27 · [GitHub](https://github.com/utensils/comfyui-nix) · [官网](https://flakehub.com/flake/utensils/comfyui) · 个人维护
+⭐ 174 · Nix · MIT · 推送 2026-11-12 · [GitHub](https://github.com/utensils/comfyui-nix) · [官网](https://flakehub.com/flake/utensils/comfyui) · 个人维护
 
 **ComfyUI 的 Nix flake 打包：NixOS/macOS/Linux 可复现运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "utensils/comfyui-nix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 168 --> 172
-    line [169, 171, 171]
+    title "utensils/comfyui-nix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 168 --> 175
+    line [169, 171, 173, 174, 174]
 ```
 
-2026-10-18 169 → 2026-11-02 171（+2）
+2026-10-18 169 → 2026-11-17 174（+5）
 
 
 ---

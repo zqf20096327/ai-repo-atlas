@@ -1,6 +1,6 @@
 # HamaWhiteGG/langchain-java
 
-⭐ 565 · Java · Apache-2.0 · 推送 2025-11-20 · [GitHub](https://github.com/HamaWhiteGG/langchain-java) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **LangChain 的 Java 实现，面向大数据场景开发 LLM 应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HamaWhiteGG/langchain-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 564 --> 566
-    line [565, 565]
+    title "HamaWhiteGG/langchain-java 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-15"]
+    y-axis "stars" 564 --> 568
+    line [565, 566, 567, 567]
 ```
 
-2026-10-18 565 → 2026-11-02 565（+0）
+2026-10-18 565 → 2026-11-15 567（+2）
 
 
 ---

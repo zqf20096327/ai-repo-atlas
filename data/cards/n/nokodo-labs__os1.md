@@ -1,6 +1,6 @@
 # nokodo-labs/os1
 
-⭐ 199 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/nokodo-labs/os1) · [官网](https://nokodo.dev) · 组织维护
+⭐ 201 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/nokodo-labs/os1) · [官网](https://nokodo.dev) · 组织维护
 
 **可自托管的自主 agent 与协作 AI 平台（alpha 阶段）**
 
@@ -44,13 +44,13 @@ nokodo/OS1 是开源的可自托管 AI 工作区：自主多轮 agent（可派�
 
 ```mermaid
 xychart-beta
-    title "nokodo-labs/os1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 197 --> 200
-    line [198, 199, 199]
+    title "nokodo-labs/os1 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 197 --> 202
+    line [198, 199, 198, 199, 200, 201, 201]
 ```
 
-2026-10-18 198 → 2026-11-02 199（+1）
+2026-10-18 198 → 2026-11-17 201（+3）
 
 
 ---

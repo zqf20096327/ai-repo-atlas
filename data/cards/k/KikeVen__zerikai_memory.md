@@ -1,6 +1,6 @@
 # KikeVen/zerikai_memory
 
-⭐ 36 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/KikeVen/zerikai_memory) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/KikeVen/zerikai_memory) · 个人维护
 
 **给 IDE 的本地 MCP 记忆服务器：代码库索引与跨会话上下文注入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KikeVen/zerikai_memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
+    title "KikeVen/zerikai_memory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 35 --> 38
-    line [36, 37, 36, 36]
+    line [36, 37, 36, 37, 36, 36]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 36（+0）
 
 
 ---

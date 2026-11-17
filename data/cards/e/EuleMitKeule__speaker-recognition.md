@@ -1,6 +1,6 @@
 # EuleMitKeule/speaker-recognition
 
-⭐ 56 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/EuleMitKeule/speaker-recognition) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/EuleMitKeule/speaker-recognition) · 个人维护
 
 **为 Home Assistant 提供基于声纹的说话人识别服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EuleMitKeule/speaker-recognition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    title "EuleMitKeule/speaker-recognition 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 58, 58]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 58（+3）
 
 
 ---

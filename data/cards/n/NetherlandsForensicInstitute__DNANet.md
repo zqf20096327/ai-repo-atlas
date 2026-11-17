@@ -1,6 +1,6 @@
 # NetherlandsForensicInstitute/DNANet
 
-⭐ 13 · Python · EUPL-1.2 · 推送 2026-09-28 · [GitHub](https://github.com/NetherlandsForensicInstitute/DNANet) · [官网](https://dnanet.readthedocs.io/en/latest/)
+⭐ 13 · Python · EUPL-1.2 · 推送 2026-11-10 · [GitHub](https://github.com/NetherlandsForensicInstitute/DNANet) · [官网](https://dnanet.readthedocs.io/en/latest/)
 
 **法医 DNA 电泳图谱深度学习框架：解析 .hid 并等位基因分型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NetherlandsForensicInstitute/DNANet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

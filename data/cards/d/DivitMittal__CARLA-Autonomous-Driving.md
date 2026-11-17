@@ -1,6 +1,6 @@
 # DivitMittal/CARLA-Autonomous-Driving
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DivitMittal/CARLA-Autonomous-Driving) · [官网](https://deepwiki.com/DivitMittal/CARLA-Autonomous-Driving) · 个人维护
+⭐ 31 · Jupyter Notebook · MIT · 推送 2026-11-04 · [GitHub](https://github.com/DivitMittal/CARLA-Autonomous-Driving) · [官网](https://deepwiki.com/DivitMittal/CARLA-Autonomous-Driving) · 个人维护
 
 **CARLA 仿真中的自动驾驶系统：深度语义分割感知**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DivitMittal/CARLA-Autonomous-Driving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 31（+0）
 
 
 ---

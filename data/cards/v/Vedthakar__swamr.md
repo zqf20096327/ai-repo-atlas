@@ -1,6 +1,6 @@
 # Vedthakar/swamr
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Vedthakar/swamr) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Vedthakar/swamr) · 个人维护
 
 **用一条指令调度 150+ Cursor 专家 agent 并行构建项目的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vedthakar/swamr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "Vedthakar/swamr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 13, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

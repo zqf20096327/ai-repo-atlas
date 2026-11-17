@@ -1,6 +1,6 @@
 # theteatoast/local-vuln-research-pipeline
 
-⭐ 173 · Python · 推送 2026-09-05 · [GitHub](https://github.com/theteatoast/local-vuln-research-pipeline) · 个人维护
+⭐ 175 · Python · 推送 2026-09-05 · [GitHub](https://github.com/theteatoast/local-vuln-research-pipeline) · 个人维护
 
 **本地 LLM 驱动的白盒漏洞研究管线，穷举源到污点汇聚点路径**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "theteatoast/local-vuln-research-pipeline 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 171 --> 174
-    line [172, 173, 173]
+    title "theteatoast/local-vuln-research-pipeline 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 171 --> 176
+    line [172, 173, 172, 174, 175, 175]
 ```
 
-2026-10-18 172 → 2026-11-02 173（+1）
+2026-10-18 172 → 2026-11-17 175（+3）
 
 
 ---

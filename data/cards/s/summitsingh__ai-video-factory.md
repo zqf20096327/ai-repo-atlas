@@ -1,6 +1,6 @@
 # summitsingh/ai-video-factory
 
-⭐ 13 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/summitsingh/ai-video-factory) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/summitsingh/ai-video-factory) · 个人维护
 
 **输入主题自动生成长篇纪录片式视频的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "summitsingh/ai-video-factory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    title "summitsingh/ai-video-factory 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 9 --> 23
+    line [10, 11, 12, 13, 10, 21, 22, 22]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 22（+12）
 
 
 ---

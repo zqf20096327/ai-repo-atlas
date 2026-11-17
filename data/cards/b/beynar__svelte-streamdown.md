@@ -1,6 +1,6 @@
 # beynar/svelte-streamdown
 
-⭐ 107 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/beynar/svelte-streamdown) · [官网](https://svelte-streamdown.beynar.workers.dev/) · 个人维护
+⭐ 108 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/beynar/svelte-streamdown) · [官网](https://svelte-streamdown.beynar.workers.dev/) · 个人维护
 
 **面向 AI 流式应用的 Svelte Markdown 渲染组件库**
 
@@ -44,13 +44,13 @@ Vercel Streamdown 的 Svelte 移植，提供 Svelte 组件用于在 AI 流式应
 
 ```mermaid
 xychart-beta
-    title "beynar/svelte-streamdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 104 --> 108
-    line [105, 106, 107, 107]
+    title "beynar/svelte-streamdown 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 104 --> 109
+    line [105, 106, 107, 105, 108, 108]
 ```
 
-2026-10-18 105 → 2026-11-02 107（+2）
+2026-10-18 105 → 2026-11-17 108（+3）
 
 
 ---

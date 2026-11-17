@@ -1,6 +1,6 @@
 # srid/agency
 
-⭐ 27 · Astro · MIT · 推送 2026-08-08 · [GitHub](https://github.com/srid/agency) · [官网](https://agency.srid.ca) · 个人维护
+⭐ 28 · Astro · MIT · 推送 2026-08-08 · [GitHub](https://github.com/srid/agency) · [官网](https://agency.srid.ca) · 个人维护
 
 **面向编码 agent 的近自主工作流技能包（talk/do 双入口）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "srid/agency 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "srid/agency 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

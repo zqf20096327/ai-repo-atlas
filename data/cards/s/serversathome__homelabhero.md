@@ -1,6 +1,6 @@
 # serversathome/homelabhero
 
-⭐ 104 · Shell · 推送 2026-10-23 · [GitHub](https://github.com/serversathome/homelabhero) · 组织维护
+⭐ 105 · Shell · 推送 2026-10-23 · [GitHub](https://github.com/serversathome/homelabhero) · 组织维护
 
 **把 LXC 装成 AI 家庭实验室控制中心：装 Claude Code 并代理凭据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serversathome/homelabhero 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 92 --> 105
-    line [93, 98, 99, 101, 102, 103, 104, 104]
+    title "serversathome/homelabhero 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 92 --> 106
+    line [93, 98, 99, 101, 102, 103, 104, 102, 105, 105]
 ```
 
-2026-10-18 93 → 2026-11-02 104（+11）
+2026-10-18 93 → 2026-11-17 105（+12）
 
 
 ---

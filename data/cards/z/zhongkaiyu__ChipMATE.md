@@ -1,6 +1,6 @@
 # zhongkaiyu/ChipMATE
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/zhongkaiyu/ChipMATE) · [官网](https://chipmate.picasso-lab.com) · 组织维护
+⭐ 38 · Python · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/zhongkaiyu/ChipMATE) · [官网](https://chipmate.picasso-lab.com) · 组织维护
 
 **面向 RTL 生成的多智能体推理框架，双智能体交叉验证免测试台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhongkaiyu/ChipMATE 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    title "zhongkaiyu/ChipMATE 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 36, 34, 37, 38, 38]
 ```
 
-2026-10-18 34 → 2026-11-02 36（+2）
+2026-10-18 34 → 2026-11-17 38（+4）
 
 
 ---

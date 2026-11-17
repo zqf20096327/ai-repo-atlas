@@ -1,6 +1,6 @@
 # nschaetti/EchoTorch
 
-⭐ 502 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/nschaetti/EchoTorch) · [官网](https://nschaetti.github.io/echotorch.github.io/) · 个人维护
+⭐ 503 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/nschaetti/EchoTorch) · [官网](https://nschaetti.github.io/echotorch.github.io/) · 个人维护
 
 **基于 PyTorch 的回声状态网络（ESN）研究实验工具库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nschaetti/EchoTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 501 --> 503
-    line [502, 502]
+    title "nschaetti/EchoTorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 501 --> 504
+    line [502, 503, 503]
 ```
 
-2026-10-18 502 → 2026-11-02 502（+0）
+2026-10-18 502 → 2026-11-17 503（+1）
 
 
 ---

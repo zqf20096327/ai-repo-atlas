@@ -1,6 +1,6 @@
 # Supurr-App/Hyperliquid-Supurr-Bot
 
-⭐ 12 · Rust · 推送 2026-05-28 · [GitHub](https://github.com/Supurr-App/Hyperliquid-Supurr-Bot) · [官网](https://supurr.app) · 组织维护
+⭐ 13 · Rust · 推送 2026-05-28 · [GitHub](https://github.com/Supurr-App/Hyperliquid-Supurr-Bot) · [官网](https://supurr.app) · 组织维护
 
 **面向 Hyperliquid 的 Rust 开源交易机器人引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Supurr-App/Hyperliquid-Supurr-Bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Supurr-App/Hyperliquid-Supurr-Bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

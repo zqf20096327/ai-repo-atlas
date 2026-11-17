@@ -1,6 +1,6 @@
 # microsoft/TypeAgent
 
-⭐ 750 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/microsoft/TypeAgent) · 组织维护
+⭐ 753 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/TypeAgent) · 组织维护
 
 **微软的示例代码：用 LLM 构建统一自然语言个人 agent 架构**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/TypeAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 747 --> 751
-    line [749, 748, 749, 750, 750]
+    title "microsoft/TypeAgent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 747 --> 754
+    line [749, 748, 749, 750, 748, 752, 751, 752, 753, 753]
 ```
 
-2026-10-18 749 → 2026-11-02 750（+1）
+2026-10-18 749 → 2026-11-17 753（+4）
 
 
 ---

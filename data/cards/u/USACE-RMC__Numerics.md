@@ -1,6 +1,6 @@
 # USACE-RMC/Numerics
 
-⭐ 33 · C# · 0BSD · 推送 2026-10-24 · [GitHub](https://github.com/USACE-RMC/Numerics) · 组织维护
+⭐ 34 · C# · 0BSD · 推送 2026-11-11 · [GitHub](https://github.com/USACE-RMC/Numerics) · 组织维护
 
 **面向 .NET 的数值计算与统计分析库，侧重水文与风险评估**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "USACE-RMC/Numerics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "USACE-RMC/Numerics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

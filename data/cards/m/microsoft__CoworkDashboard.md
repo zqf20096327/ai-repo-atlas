@@ -1,6 +1,6 @@
 # microsoft/CoworkDashboard
 
-⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/CoworkDashboard) · [官网](https://aka.ms/CoworkDashboard) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/CoworkDashboard) · [官网](https://aka.ms/CoworkDashboard) · 组织维护
 
 **Copilot Cowork 技能对：把团队省时数据汇成匿名 ROI 报表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/CoworkDashboard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
+    title "microsoft/CoworkDashboard 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    line [12, 13, 14, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

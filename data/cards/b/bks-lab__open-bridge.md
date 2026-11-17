@@ -1,6 +1,6 @@
 # bks-lab/open-bridge
 
-⭐ 13 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/bks-lab/open-bridge) · [官网](https://bks-lab.github.io/open-bridge/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bks-lab/open-bridge) · [官网](https://bks-lab.github.io/open-bridge/) · 组织维护
 
 **给编码代理用的跨会话记忆与工作区：git 中的 markdown/YAML 上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bks-lab/open-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "bks-lab/open-bridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

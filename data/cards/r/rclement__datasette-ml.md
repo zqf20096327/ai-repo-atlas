@@ -1,6 +1,6 @@
 # rclement/datasette-ml
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rclement/datasette-ml) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/rclement/datasette-ml) · 个人维护
 
 **Datasette 插件：用 SQL 函数训练/评估/预测机器学习模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rclement/datasette-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

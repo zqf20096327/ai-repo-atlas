@@ -1,6 +1,6 @@
 # ModelTC/LightCompress
 
-⭐ 753 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/ModelTC/LightCompress) · 组织维护 · 中文 README
+⭐ 755 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/ModelTC/LightCompress) · 组织维护 · 中文 README
 
 **压缩 LLM/VLM/视频生成模型的工具包，含量化、剪枝与 token 缩减算法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModelTC/LightCompress 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 750 --> 754
-    line [751, 753, 753]
+    title "ModelTC/LightCompress 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 750 --> 757
+    line [751, 753, 751, 755, 756, 755, 755]
 ```
 
-2026-10-18 751 → 2026-11-02 753（+2）
+2026-10-18 751 → 2026-11-17 755（+4）
 
 
 ---

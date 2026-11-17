@@ -1,6 +1,6 @@
 # Michael-A-Kuykendall/rustchain
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Michael-A-Kuykendall/rustchain) · [官网](https://rustchain.dev) · 个人维护
+⭐ 26 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Michael-A-Kuykendall/rustchain) · [官网](https://rustchain.dev) · 个人维护
 
 **Rust 工作流转译执行框架：迁移并运行 LangChain/Airflow 等工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Michael-A-Kuykendall/rustchain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "Michael-A-Kuykendall/rustchain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

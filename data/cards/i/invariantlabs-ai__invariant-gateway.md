@@ -1,6 +1,6 @@
 # invariantlabs-ai/invariant-gateway
 
-⭐ 82 · Python · Apache-2.0 · 推送 2025-11-06 · [GitHub](https://github.com/invariantlabs-ai/invariant-gateway) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **观测与调试 AI agent 的 LLM 代理服务**
 
@@ -11,7 +11,7 @@ Invariant Gateway 是一个零配置的 LLM 代理服务，部署在 AI Agent �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Invariant Gateway 是一个零配置的 LLM 代理服务，部署在 AI Agent �
 ```mermaid
 xychart-beta
     title "invariantlabs-ai/invariant-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-07 82（+0）
 
 
 ---

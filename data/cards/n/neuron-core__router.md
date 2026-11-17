@@ -1,6 +1,6 @@
 # neuron-core/router
 
-⭐ 12 · PHP · MIT · 推送 2026-10-08 · [GitHub](https://github.com/neuron-core/router) · [官网](https://docs.neuron-ai.dev) · 组织维护
+⭐ 12 · PHP · MIT · 推送 2026-11-01 · [GitHub](https://github.com/neuron-core/router) · [官网](https://docs.neuron-ai.dev) · 组织维护
 
 **PHP 的 LLM 推理调用路由层：按规则与故障转移分发到多个提供商**
 
@@ -45,13 +45,13 @@ Neuron AI 生态的 Composer 包，提供 RouterProvider 组件：实现 AIProvi
 
 ```mermaid
 xychart-beta
-    title "neuron-core/router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "neuron-core/router 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

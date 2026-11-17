@@ -1,6 +1,6 @@
 # vaibhavpandeyvpz/hooman
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vaibhavpandeyvpz/hooman) · [官网](https://vaibhavpandey.com/hooman/) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vaibhavpandeyvpz/hooman) · [官网](https://vaibhavpandey.com/hooman/) · 个人维护
 
 **本地优先的开源 AI agent 运行时，覆盖 CLI/VS Code/多渠道**
 
@@ -45,13 +45,13 @@ MIT 许可的全栈 agent 运行时，提供 CLI（有状态 TUI、一次性 exe
 
 ```mermaid
 xychart-beta
-    title "vaibhavpandeyvpz/hooman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "vaibhavpandeyvpz/hooman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

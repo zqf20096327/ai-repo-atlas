@@ -1,6 +1,6 @@
 # webllm/renderify
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/webllm/renderify) · [官网](https://webllm.github.io/renderify) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/webllm/renderify) · [官网](https://webllm.github.io/renderify) · 组织维护
 
 **浏览器端运行时渲染 LLM 生成的 JSX/TSX，无需构建步骤**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "webllm/renderify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

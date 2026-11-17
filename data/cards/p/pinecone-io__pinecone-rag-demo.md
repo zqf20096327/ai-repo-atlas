@@ -1,6 +1,6 @@
 # pinecone-io/pinecone-rag-demo
 
-⭐ 81 · HTML · MIT · 推送 2026-11-01 · [GitHub](https://github.com/pinecone-io/pinecone-rag-demo) · 组织维护
+⭐ 82 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/pinecone-io/pinecone-rag-demo) · 组织维护
 
 **Pinecone + Vercel 全栈 RAG 聊天机器人示例教程**
 
@@ -44,13 +44,13 @@ Pinecone 官方维护的 Next.js 全栈示例：以教程形式构建基于 RAG 
 
 ```mermaid
 xychart-beta
-    title "pinecone-io/pinecone-rag-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    title "pinecone-io/pinecone-rag-demo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 80 --> 83
+    line [81, 82, 82]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 82（+1）
 
 
 ---

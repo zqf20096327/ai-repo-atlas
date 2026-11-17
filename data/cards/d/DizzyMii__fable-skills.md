@@ -1,6 +1,6 @@
 # DizzyMii/fable-skills
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/DizzyMii/fable-skills) · [官网](https://github.com/DizzyMii/fable-skills) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/DizzyMii/fable-skills) · [官网](https://github.com/DizzyMii/fable-skills) · 个人维护
 
 **约束 Claude Code 行为纪律的 6 个技能包，供 Opus 4.8 使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DizzyMii/fable-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    title "DizzyMii/fable-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 55, 56, 57, 57]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 57（+2）
 
 
 ---

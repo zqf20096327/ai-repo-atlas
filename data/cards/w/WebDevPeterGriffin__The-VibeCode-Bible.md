@@ -1,6 +1,6 @@
 # WebDevPeterGriffin/The-VibeCode-Bible
 
-⭐ 42 · TypeScript · 推送 2026-06-30 · [GitHub](https://github.com/WebDevPeterGriffin/The-VibeCode-Bible) · [官网](https://www.thegeorge.tech/) · 个人维护
+⭐ 42 · TypeScript · 推送 2026-11-04 · [GitHub](https://github.com/WebDevPeterGriffin/The-VibeCode-Bible) · [官网](https://www.thegeorge.tech/) · 个人维护
 
 **个人维护的 vibe coding 知识库：40+课程+技能包+本地AI工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WebDevPeterGriffin/The-VibeCode-Bible 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

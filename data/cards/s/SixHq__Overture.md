@@ -1,6 +1,6 @@
 # SixHq/Overture
 
-⭐ 641 · TypeScript · MIT · 推送 2026-03-08 · [GitHub](https://github.com/SixHq/Overture) · 组织维护
+⭐ 643 · TypeScript · MIT · 推送 2026-03-08 · [GitHub](https://github.com/SixHq/Overture) · 组织维护
 
 **把 AI 编程 agent 的执行计划可视化为流程图并审批执行的 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SixHq/Overture 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 640 --> 642
-    line [641, 641]
+    title "SixHq/Overture 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 639 --> 644
+    line [641, 640, 642, 643, 643]
 ```
 
-2026-10-18 641 → 2026-11-02 641（+0）
+2026-10-18 641 → 2026-11-17 643（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nsxdavid/anthropic-max-router
 
-⭐ 63 · TypeScript · MIT · 推送 2025-12-21 · [GitHub](https://github.com/nsxdavid/anthropic-max-router) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2025-12-21 · [GitHub](https://github.com/nsxdavid/anthropic-max-router) · 个人维护
 
 **把 Claude MAX 订阅转为双格式 API 代理供任意 AI 工具调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nsxdavid/anthropic-max-router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "nsxdavid/anthropic-max-router 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 62 --> 65
-    line [64, 63, 63]
+    line [64, 63, 64, 63, 64, 64]
 ```
 
-2026-10-18 64 → 2026-11-02 63（-1）
+2026-10-18 64 → 2026-11-17 64（+0）
 
 
 ---

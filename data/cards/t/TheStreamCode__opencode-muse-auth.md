@@ -1,6 +1,6 @@
 # TheStreamCode/opencode-muse-auth
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/TheStreamCode/opencode-muse-auth) · [官网](https://www.npmjs.com/package/opencode-muse-auth) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/TheStreamCode/opencode-muse-auth) · [官网](https://www.npmjs.com/package/opencode-muse-auth) · 个人维护
 
 **为 opencode 接入 Muse Code 订阅登录的认证插件**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 opencode 插件，为内置 meta provider 注册 Muse Code 
 
 ```mermaid
 xychart-beta
-    title "TheStreamCode/opencode-muse-auth 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12]
+    title "TheStreamCode/opencode-muse-auth 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 12, 13, 14, 14]
 ```
 
-2026-10-23 11 → 2026-11-02 12（+1）
+2026-10-23 11 → 2026-11-17 14（+3）
 
 
 ---

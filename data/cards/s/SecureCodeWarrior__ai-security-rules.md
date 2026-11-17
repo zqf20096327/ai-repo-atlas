@@ -1,6 +1,6 @@
 # SecureCodeWarrior/ai-security-rules
 
-⭐ 67 · 推送 2026-02-06 · [GitHub](https://github.com/SecureCodeWarrior/ai-security-rules) · [官网](https://securecodewarrior.com) · 组织维护
+⭐ 68 · 推送 2026-02-06 · [GitHub](https://github.com/SecureCodeWarrior/ai-security-rules) · [官网](https://securecodewarrior.com) · 组织维护
 
 **面向 AI 编码助手的安全规则文件集，引导安全编码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SecureCodeWarrior/ai-security-rules 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 65 --> 68
-    line [66, 67, 67]
+    title "SecureCodeWarrior/ai-security-rules 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 69
+    line [66, 67, 68, 68]
 ```
 
-2026-10-18 66 → 2026-11-02 67（+1）
+2026-10-18 66 → 2026-11-17 68（+2）
 
 
 ---

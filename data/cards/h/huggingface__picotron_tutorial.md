@@ -1,6 +1,6 @@
 # huggingface/picotron_tutorial
 
-⭐ 265 · Python · 推送 2025-11-24 · [GitHub](https://github.com/huggingface/picotron_tutorial) · 组织维护
+⭐ 266 · Python · 推送 2025-11-24 · [GitHub](https://github.com/huggingface/picotron_tutorial) · 组织维护
 
 **从零构建 Picotron 分布式训练框架的分步教程**
 
@@ -43,13 +43,13 @@ Hugging Face 出品的逐步教程仓库，配套视频系列讲解如何从零�
 
 ```mermaid
 xychart-beta
-    title "huggingface/picotron_tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 263 --> 266
-    line [264, 265, 265]
+    title "huggingface/picotron_tutorial 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 263 --> 267
+    line [264, 265, 266, 266]
 ```
 
-2026-10-18 264 → 2026-11-02 265（+1）
+2026-10-18 264 → 2026-11-17 266（+2）
 
 
 ---

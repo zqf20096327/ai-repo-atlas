@@ -1,6 +1,6 @@
 # lancedb/yoloexplorer
 
-⭐ 146 · Python · 推送 2026-10-05 · [GitHub](https://github.com/lancedb/yoloexplorer) · 组织维护
+⭐ 146 · Python · 推送 2026-11-02 · [GitHub](https://github.com/lancedb/yoloexplorer) · 组织维护
 
 **用 SQL 与向量语义搜索迭代 YOLO/CV 数据集的探索工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lancedb/yoloexplorer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "lancedb/yoloexplorer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 144 --> 147
-    line [145, 146, 146]
+    line [145, 146, 145, 146, 146]
 ```
 
-2026-10-18 145 → 2026-11-02 146（+1）
+2026-10-18 145 → 2026-11-17 146（+1）
 
 
 ---

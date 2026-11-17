@@ -1,6 +1,6 @@
 # OpenVisualCloud/Video-Super-Resolution-Library
 
-⭐ 92 · C++ · BSD-3-Clause · 推送 2026-06-09 · [GitHub](https://github.com/OpenVisualCloud/Video-Super-Resolution-Library) · [官网](https://arxiv.org/pdf/1606.01299.pdf) · 组织维护
+⭐ 93 · C++ · BSD-3-Clause · 推送 2026-06-09 · [GitHub](https://github.com/OpenVisualCloud/Video-Super-Resolution-Library) · [官网](https://arxiv.org/pdf/1606.01299.pdf) · 组织维护
 
 **Intel 的 RAISR 视频超分辨率 C/C++ 库，以 FFmpeg 插件交付**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenVisualCloud/Video-Super-Resolution-Library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    title "OpenVisualCloud/Video-Super-Resolution-Library 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 94
+    line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-11-02 92（+0）
+2026-10-18 92 → 2026-11-17 93（+1）
 
 
 ---

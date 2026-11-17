@@ -1,6 +1,6 @@
 # scasella/nanochat-mlx
 
-⭐ 77 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/scasella/nanochat-mlx) · [官网](https://casella.dev/projects.html) · 个人维护
+⭐ 78 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/scasella/nanochat-mlx) · [官网](https://casella.dev/projects.html) · 个人维护
 
 **在 Apple Silicon 上从零训练并对话自有 ChatGPT 的 MLX 工具**
 
@@ -44,13 +44,13 @@ Karpathy nanochat 的 MLX 移植：在 MacBook 上无 PyTorch 完成数据下载
 
 ```mermaid
 xychart-beta
-    title "scasella/nanochat-mlx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    title "scasella/nanochat-mlx 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 75 --> 80
+    line [76, 77, 78, 79, 78, 78]
 ```
 
-2026-10-18 76 → 2026-11-02 77（+1）
+2026-10-18 76 → 2026-11-17 78（+2）
 
 
 ---

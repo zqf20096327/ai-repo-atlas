@@ -1,6 +1,6 @@
 # Hainrixz/claude-banana
 
-⭐ 108 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-banana) · [官网](https://www.tododeia.com) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-banana) · [官网](https://www.tododeia.com) · 个人维护
 
 **Claude Code agent：把口语想法转成图像生成提示词**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/claude-banana 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 108]
+    title "Hainrixz/claude-banana 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 106 --> 113
+    line [107, 108, 107, 108, 109, 110, 111, 112, 112]
 ```
 
-2026-10-18 107 → 2026-11-02 108（+1）
+2026-10-18 107 → 2026-11-17 112（+5）
 
 
 ---

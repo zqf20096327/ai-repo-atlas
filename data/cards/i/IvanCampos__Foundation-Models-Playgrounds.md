@@ -1,6 +1,6 @@
 # IvanCampos/Foundation-Models-Playgrounds
 
-⭐ 373 · Swift · 推送 2025-12-20 · [GitHub](https://github.com/IvanCampos/Foundation-Models-Playgrounds) · [官网](https://ivancampos.com) · 个人维护
+⭐ 372 · Swift · 推送 2025-12-20 · [GitHub](https://github.com/IvanCampos/Foundation-Models-Playgrounds) · [官网](https://ivancampos.com) · 个人维护
 
 **Apple Foundation Models 框架的 Swift Playground 示例集（145 个）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanCampos/Foundation-Models-Playgrounds 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-02"]
+    title "IvanCampos/Foundation-Models-Playgrounds 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 371 --> 374
-    line [373, 372, 373, 373]
+    line [373, 372, 373, 372, 372]
 ```
 
-2026-10-18 373 → 2026-11-02 373（+0）
+2026-10-18 373 → 2026-11-17 372（-1）
 
 
 ---

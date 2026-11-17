@@ -1,6 +1,6 @@
 # hidai25/eval-view
 
-⭐ 140 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/hidai25/eval-view) · [官网](https://evalview.com) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/hidai25/eval-view) · [官网](https://evalview.com) · 个人维护
 
 **AI agent 行为快照回归测试工具，CI 中拦截行为漂移**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hidai25/eval-view 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 138 --> 142
-    line [139, 141, 140, 140]
+    title "hidai25/eval-view 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 138 --> 143
+    line [139, 141, 140, 141, 142, 142]
 ```
 
-2026-10-18 139 → 2026-11-02 140（+1）
+2026-10-18 139 → 2026-11-17 142（+3）
 
 
 ---

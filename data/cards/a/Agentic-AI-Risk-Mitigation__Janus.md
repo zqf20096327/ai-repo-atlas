@@ -1,6 +1,6 @@
 # Agentic-AI-Risk-Mitigation/Janus
 
-⭐ 19 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Agentic-AI-Risk-Mitigation/Janus) · [官网](https://agentic-ai-risk-mitigation.github.io/Janus/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Agentic-AI-Risk-Mitigation/Janus) · [官网](https://agentic-ai-risk-mitigation.github.io/Janus/) · 组织维护
 
 **LLM agent 工具调用的策略执行安全层，防御间接提示注入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agentic-AI-Risk-Mitigation/Janus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "Agentic-AI-Risk-Mitigation/Janus 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 21（+4）
 
 
 ---

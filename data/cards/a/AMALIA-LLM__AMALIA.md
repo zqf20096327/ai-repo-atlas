@@ -1,6 +1,6 @@
 # AMALIA-LLM/AMALIA
 
-⭐ 78 · 推送 2026-06-30 · [GitHub](https://github.com/AMALIA-LLM/AMALIA) · 组织维护
+⭐ 79 · 推送 2026-06-30 · [GitHub](https://github.com/AMALIA-LLM/AMALIA) · 组织维护
 
 **面向欧洲葡萄牙语的完全开源 LLM 项目（模型+数据+评测）**
 
@@ -45,13 +45,13 @@ AMALIA 是针对欧洲葡萄牙语（pt-PT）的开源大语言模型项目，�
 
 ```mermaid
 xychart-beta
-    title "AMALIA-LLM/AMALIA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 76 --> 79
-    line [77, 78]
+    title "AMALIA-LLM/AMALIA 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 76 --> 80
+    line [77, 78, 77, 78, 79, 79]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-17 79（+2）
 
 
 ---

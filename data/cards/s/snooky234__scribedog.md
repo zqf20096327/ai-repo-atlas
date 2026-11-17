@@ -1,6 +1,6 @@
 # snooky234/scribedog
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/snooky234/scribedog) · [官网](https://sourceforge.net/projects/scribedog/) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/snooky234/scribedog) · [官网](https://sourceforge.net/projects/scribedog/) · 个人维护
 
 **本地优先的私有 Markdown 笔记编辑器，AI 可选本地运行**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "snooky234/scribedog 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    title "snooky234/scribedog 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 20, 17, 20, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 20（+3）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # cloud-ru-tech/mcp-server-mattermost
 
-⭐ 49 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/cloud-ru-tech/mcp-server-mattermost) · [官网](https://mcp-server-mattermost.readthedocs.io) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cloud-ru-tech/mcp-server-mattermost) · [官网](https://mcp-server-mattermost.readthedocs.io) · 组织维护
 
 **让 AI 助手读写 Mattermost 频道/消息/文件的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloud-ru-tech/mcp-server-mattermost 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "cloud-ru-tech/mcp-server-mattermost 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 47 --> 54
+    line [48, 49, 52, 53, 53]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 53（+5）
 
 
 ---

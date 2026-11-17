@@ -1,6 +1,6 @@
 # AQ-MedAI/MedMemoryBench
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/AQ-MedAI/MedMemoryBench) · [官网](https://x.com/AQ_MedAI) · 组织维护 · 中文 README
+⭐ 89 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/AQ-MedAI/MedMemoryBench) · [官网](https://x.com/AQ_MedAI) · 组织维护 · 中文 README
 
 **医疗对话场景下评测 Agent 记忆方法的基准框架**
 
@@ -45,13 +45,13 @@ NeurIPS 2026 接收的评测框架，面向医疗个性化对话场景评估 Age
 
 ```mermaid
 xychart-beta
-    title "AQ-MedAI/MedMemoryBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 78 --> 85
-    line [79, 83, 84, 84]
+    title "AQ-MedAI/MedMemoryBench 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 78 --> 90
+    line [79, 83, 84, 83, 86, 87, 89, 88, 89, 89]
 ```
 
-2026-10-18 79 → 2026-11-02 84（+5）
+2026-10-18 79 → 2026-11-17 89（+10）
 
 
 ---

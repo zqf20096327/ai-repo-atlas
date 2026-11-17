@@ -1,6 +1,6 @@
 # kostja94/bricks
 
-⭐ 191 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/kostja94/bricks) · [官网](https://alignify.co/products/bricks) · 个人维护
+⭐ 194 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/kostja94/bricks) · [官网](https://alignify.co/products/bricks) · 个人维护
 
 **给编码 agent 的界面组件契约层：让生成组件贴合现有设计系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kostja94/bricks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
+    title "kostja94/bricks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
     y-axis "stars" 190 --> 200
-    line [198, 199, 191, 191]
+    line [198, 199, 191, 192, 193, 194, 194]
 ```
 
-2026-10-18 198 → 2026-11-02 191（-7）
+2026-10-18 198 → 2026-11-17 194（-4）
 
 
 ---

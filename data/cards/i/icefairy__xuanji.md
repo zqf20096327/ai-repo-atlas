@@ -1,6 +1,6 @@
 # icefairy/xuanji
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/icefairy/xuanji) · [官网](https://github.com/icefairy/xuanji) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/icefairy/xuanji) · [官网](https://icefairy.github.io/xuanji/) · 个人维护 · 中文 README
 
 **Go 单二进制 AI 网关：OpenAI/Anthropic 双协议上游汇聚与成本分流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "icefairy/xuanji 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
     y-axis "stars" 12 --> 15
     line [14, 13, 14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

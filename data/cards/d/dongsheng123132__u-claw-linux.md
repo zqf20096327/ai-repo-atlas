@@ -1,6 +1,6 @@
 # dongsheng123132/u-claw-linux
 
-⭐ 14 · PowerShell · MIT · 推送 2026-10-03 · [GitHub](https://github.com/dongsheng123132/u-claw-linux) · 个人维护 · 中文 README
+⭐ 14 · PowerShell · MIT · 推送 2026-11-06 · [GitHub](https://github.com/dongsheng123132/u-claw-linux) · [官网](https://www.hequbing.com) · 个人维护 · 中文 README
 
 **可启动 Linux AI 工作站 U 盘：插盘开机即用 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dongsheng123132/u-claw-linux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

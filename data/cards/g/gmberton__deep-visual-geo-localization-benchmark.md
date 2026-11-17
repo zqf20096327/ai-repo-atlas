@@ -1,6 +1,6 @@
 # gmberton/deep-visual-geo-localization-benchmark
 
-⭐ 259 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/gmberton/deep-visual-geo-localization-benchmark) · 个人维护
+⭐ 260 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/gmberton/deep-visual-geo-localization-benchmark) · 个人维护
 
 **视觉地理定位基准工具箱：训练/评测多组合的 VPR 流水线**
 
@@ -44,13 +44,13 @@ CVPR 2022 Oral 论文 Deep Visual Geo-localization Benchmark 的官方代码库�
 
 ```mermaid
 xychart-beta
-    title "gmberton/deep-visual-geo-localization-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "gmberton/deep-visual-geo-localization-benchmark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
     y-axis "stars" 258 --> 261
-    line [260, 259, 259]
+    line [260, 259, 260, 260]
 ```
 
-2026-10-18 260 → 2026-11-02 259（-1）
+2026-10-18 260 → 2026-11-17 260（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mozhaa/ComfyUI-Actual-Denoise
 
-⭐ 21 · Python · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/mozhaa/ComfyUI-Actual-Denoise) · 个人维护
+⭐ 20 · Python · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/mozhaa/ComfyUI-Actual-Denoise) · 个人维护
 
 **ComfyUI 自定义节点：img2img 中设定实际噪声量，换调度器行为一致**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozhaa/ComfyUI-Actual-Denoise 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "mozhaa/ComfyUI-Actual-Denoise 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [21, 20, 20]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 20（-1）
 
 
 ---

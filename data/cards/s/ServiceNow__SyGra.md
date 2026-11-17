@@ -1,6 +1,6 @@
 # ServiceNow/SyGra
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/ServiceNow/SyGra) · [官网](https://servicenow.github.io/SyGra/) · 组织维护
+⭐ 96 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/ServiceNow/SyGra) · [官网](https://servicenow.github.io/SyGra/) · 组织维护
 
 **面向合成数据生成的图式低代码流水线框架（含可视化 Studio）**
 
@@ -45,13 +45,13 @@ ServiceNow 维护的 Python 框架，将合成数据生成过程建模为计算�
 
 ```mermaid
 xychart-beta
-    title "ServiceNow/SyGra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "ServiceNow/SyGra 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 96, 96]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 96（+2）
 
 
 ---

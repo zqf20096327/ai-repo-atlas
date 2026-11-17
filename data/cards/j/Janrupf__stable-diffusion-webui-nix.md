@@ -1,6 +1,6 @@
 # Janrupf/stable-diffusion-webui-nix
 
-⭐ 29 · Nix · MIT · 推送 2026-06-20 · [GitHub](https://github.com/Janrupf/stable-diffusion-webui-nix) · 个人维护
+⭐ 30 · Nix · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Janrupf/stable-diffusion-webui-nix) · 个人维护
 
 **在 NixOS 上打包 Stable Diffusion Web UI 的可复现 flake**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Janrupf/stable-diffusion-webui-nix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "Janrupf/stable-diffusion-webui-nix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

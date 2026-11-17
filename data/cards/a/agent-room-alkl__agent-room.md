@@ -1,6 +1,6 @@
 # agent-room-alkl/agent-room
 
-⭐ 104 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/agent-room-alkl/agent-room) · [官网](https://agent-room.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让多个编码 agent 通过 MCP/REST 进入同一房间实时协作的协议层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "agent-room-alkl/agent-room 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 98 --> 105
-    line [99, 100, 103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08"]
+    y-axis "stars" 98 --> 106
+    line [99, 100, 103, 104, 105]
 ```
 
-2026-10-18 99 → 2026-11-02 104（+5）
+2026-10-18 99 → 2026-11-08 105（+6）
 
 
 ---

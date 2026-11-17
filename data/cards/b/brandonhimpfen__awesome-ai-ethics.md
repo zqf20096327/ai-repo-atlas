@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-ethics
 
-⭐ 17 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-ethics) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 16 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-ethics) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **AI 伦理资源策展清单：框架、工具、论文与指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-ai-ethics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "brandonhimpfen/awesome-ai-ethics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 16（-1）
 
 
 ---

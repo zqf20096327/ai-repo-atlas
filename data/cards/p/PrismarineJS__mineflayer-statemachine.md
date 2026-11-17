@@ -1,6 +1,6 @@
 # PrismarineJS/mineflayer-statemachine
 
-⭐ 140 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/PrismarineJS/mineflayer-statemachine) · [官网](https://thedudefromci.github.io/mineflayer-statemachine/) · 组织维护
+⭐ 139 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/PrismarineJS/mineflayer-statemachine) · [官网](https://thedudefromci.github.io/mineflayer-statemachine/) · 组织维护
 
 **Mineflayer 状态机插件：帮助编写可扩展的 Minecraft 机器人行为**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrismarineJS/mineflayer-statemachine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
+    title "PrismarineJS/mineflayer-statemachine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 137 --> 141
-    line [138, 139, 140, 140]
+    line [138, 139, 140, 139, 139]
 ```
 
-2026-10-18 138 → 2026-11-02 140（+2）
+2026-10-18 138 → 2026-11-17 139（+1）
 
 
 ---

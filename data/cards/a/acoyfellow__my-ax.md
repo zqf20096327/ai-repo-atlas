@@ -1,6 +1,6 @@
 # acoyfellow/my-ax
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/acoyfellow/my-ax) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/acoyfellow/my-ax) · 个人维护
 
 **自托管于 Cloudflare 的单操作者个人 AI agent 运行环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "acoyfellow/my-ax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    title "acoyfellow/my-ax 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 40
+    line [35, 36, 37, 36, 39, 39]
 ```
 
-2026-10-18 35 → 2026-11-02 37（+2）
+2026-10-18 35 → 2026-11-17 39（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # wangle201210/chat-history
 
-⭐ 20 · Go · Apache-2.0 · 推送 2025-11-12 · [GitHub](https://github.com/wangle201210/chat-history) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为 Eino 框架补齐聊天历史记录存储，支持多轮对话管理**
 
@@ -11,7 +11,7 @@ Go 语言库，为字节开源的 Eino 大模型应用框架提供聊天历史�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@ Go 语言库，为字节开源的 Eino 大模型应用框架提供聊天历史�
 ```mermaid
 xychart-beta
     title "wangle201210/chat-history 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-07 20（+0）
 
 
 ---

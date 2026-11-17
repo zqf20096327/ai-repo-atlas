@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hyra-results
 
-⭐ 164 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/Tencent-Hunyuan/Hyra-results) · [官网](https://hy.tencent.com/research/hyra) · 组织维护 · 中文 README
+⭐ 256 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Tencent-Hunyuan/Hyra-results) · [官网](https://hy.tencent.com/research/hyra) · 组织维护 · 中文 README
 
 **Hyra 研究 Agent 的成果仓库：科学/工程问题的解与复现脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hyra-results 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 161 --> 165
-    line [162, 163, 164, 164]
+    title "Tencent-Hunyuan/Hyra-results 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 153 --> 265
+    line [162, 163, 164, 163, 222, 240, 248, 250, 252, 253, 254, 256, 256]
 ```
 
-2026-10-18 162 → 2026-11-02 164（+2）
+2026-10-18 162 → 2026-11-17 256（+94）
 
 
 ---

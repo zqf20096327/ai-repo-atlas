@@ -1,6 +1,6 @@
 # Azure-Samples/sonic-brief
 
-⭐ 37 · TypeScript · 推送 2026-04-11 · [GitHub](https://github.com/Azure-Samples/sonic-brief) · 组织维护
+⭐ 38 · TypeScript · 推送 2026-04-11 · [GitHub](https://github.com/Azure-Samples/sonic-brief) · 组织维护
 
 **Azure 上的语音转写与摘要报告生成系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/sonic-brief 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "Azure-Samples/sonic-brief 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

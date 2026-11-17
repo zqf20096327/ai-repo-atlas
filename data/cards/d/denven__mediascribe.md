@@ -1,6 +1,6 @@
 # denven/mediascribe
 
-⭐ 54 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/denven/mediascribe) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/denven/mediascribe) · 个人维护 · 中文 README
 
 **音视频与文本转录+摘要的 CLI 工具，支持本地/云端后端**
 
@@ -45,13 +45,13 @@ Python CLI，提供音频转录、文本摘要与视频摘要的分阶段工作�
 
 ```mermaid
 xychart-beta
-    title "denven/mediascribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 53 --> 61
-    line [60, 54, 54]
+    title "denven/mediascribe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 61
+    line [60, 54, 42, 42]
 ```
 
-2026-10-18 60 → 2026-11-02 54（-6）
+2026-10-18 60 → 2026-11-17 42（-18）
 
 
 ---

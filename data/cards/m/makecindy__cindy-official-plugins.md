@@ -1,6 +1,6 @@
 # makecindy/cindy-official-plugins
 
-⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/makecindy/cindy-official-plugins) · 组织维护 · 中文 README
+⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/makecindy/cindy-official-plugins) · 组织维护 · 中文 README
 
 **Cindy AI 助手官方插件源码仓：插件源码、审查标准与市场上架**
 
@@ -45,13 +45,13 @@ Cindy 插件市场的官方插件（Ghost）源码仓库，收录 GitHub/GitLab/
 
 ```mermaid
 xychart-beta
-    title "makecindy/cindy-official-plugins 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 24
-    line [10, 12, 14, 16, 19, 21, 22, 23]
+    title "makecindy/cindy-official-plugins 星数(近 14 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 8 --> 35
+    line [10, 12, 14, 16, 19, 21, 22, 23, 10, 29, 31, 32, 33, 33]
 ```
 
-2026-10-25 10 → 2026-11-02 23（+13）
+2026-10-25 10 → 2026-11-17 33（+23）
 
 
 ---

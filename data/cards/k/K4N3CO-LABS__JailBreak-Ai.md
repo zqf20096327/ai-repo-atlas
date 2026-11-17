@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "K4N3CO-LABS/JailBreak-Ai 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
+    title "K4N3CO-LABS/JailBreak-Ai 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-26 11 → 2026-11-02 12（+1）
+2026-10-26 11 → 2026-11-17 12（+1）
 
 
 ---

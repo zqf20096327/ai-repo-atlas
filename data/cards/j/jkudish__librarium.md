@@ -1,6 +1,6 @@
 # jkudish/librarium
 
-⭐ 136 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/jkudish/librarium) · [官网](https://librarium.si) · 个人维护
+⭐ 138 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/jkudish/librarium) · [官网](https://librarium.si) · 个人维护
 
 **多供应商深度研究 CLI：并行调用搜索/AI API 并保留证据出处**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jkudish/librarium 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 134 --> 137
-    line [136, 135, 136, 136]
+    title "jkudish/librarium 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 134 --> 139
+    line [136, 135, 136, 135, 138, 138]
 ```
 
-2026-10-18 136 → 2026-11-02 136（+0）
+2026-10-18 136 → 2026-11-17 138（+2）
 
 
 ---

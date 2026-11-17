@@ -1,6 +1,6 @@
 # zjunlp/Mechanist
 
-⭐ 78 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/zjunlp/Mechanist) · [官网](http://mechanist.openkg.cn/) · 组织维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/zjunlp/Mechanist) · [官网](http://mechanist.openkg.cn/) · 组织维护 · 中文 README
 
 **LLM 机制可解释性自主研究 agent：从问题到证据支撑的研究结论**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/Mechanist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    title "zjunlp/Mechanist 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 77 --> 82
+    line [78, 79, 81, 81]
 ```
 
-2026-10-18 78 → 2026-11-02 78（+0）
+2026-10-18 78 → 2026-11-17 81（+3）
 
 
 ---

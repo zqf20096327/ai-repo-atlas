@@ -1,6 +1,6 @@
 # PolarBean/DeepSlice
 
-⭐ 134 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/PolarBean/DeepSlice) · [官网](https://www.deepslice.com.au) · 组织维护
+⭐ 135 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PolarBean/DeepSlice) · [官网](https://www.deepslice.com.au) · 组织维护
 
 **深度学习自动对齐小鼠/大鼠脑切片至脑图谱的 Python 库**
 
@@ -44,13 +44,13 @@ DeepSlice 是用深度学习将组织学脑切片自动对齐到 Allen 脑图谱
 
 ```mermaid
 xychart-beta
-    title "PolarBean/DeepSlice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    title "PolarBean/DeepSlice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 133 --> 136
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-11-02 134（+0）
+2026-10-18 134 → 2026-11-17 135（+1）
 
 
 ---

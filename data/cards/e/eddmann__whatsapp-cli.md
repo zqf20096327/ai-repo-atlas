@@ -1,6 +1,6 @@
 # eddmann/whatsapp-cli
 
-⭐ 27 · Go · MIT · 推送 2026-05-26 · [GitHub](https://github.com/eddmann/whatsapp-cli) · [官网](https://eddmann.com/whatsapp-cli/) · 个人维护
+⭐ 30 · Go · MIT · 推送 2026-05-26 · [GitHub](https://github.com/eddmann/whatsapp-cli) · [官网](https://eddmann.com/whatsapp-cli/) · 个人维护
 
 **终端 WhatsApp 客户端 CLI，可作 AI agent 技能使用**
 
@@ -45,13 +45,13 @@ Go 编写、基于 whatsmeow 的 WhatsApp 命令行工具：以 QR 码登录后�
 
 ```mermaid
 xychart-beta
-    title "eddmann/whatsapp-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "eddmann/whatsapp-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 29, 30, 30]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 30（+4）
 
 
 ---

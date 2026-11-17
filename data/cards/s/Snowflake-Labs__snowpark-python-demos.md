@@ -1,6 +1,6 @@
 # Snowflake-Labs/snowpark-python-demos
 
-⭐ 294 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-17 · [GitHub](https://github.com/Snowflake-Labs/snowpark-python-demos) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Snowpark Python 各类示例与演示集合，供数据开发学习**
 
@@ -11,7 +11,7 @@ Snowflake Labs 维护的 Snowpark for Python 示例仓库，按子目录组织�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@ Snowflake Labs 维护的 Snowpark for Python 示例仓库，按子目录组织�
 ```mermaid
 xychart-beta
     title "Snowflake-Labs/snowpark-python-demos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 293 --> 295
     line [294, 294]
 ```
 
-2026-10-18 294 → 2026-11-02 294（+0）
+2026-10-18 294 → 2026-11-12 294（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Avafly/optimize-gemm
 
-⭐ 17 · C++ · MIT · 推送 2026-08-07 · [GitHub](https://github.com/Avafly/optimize-gemm) · 个人维护
+⭐ 25 · C++ · MIT · 推送 2026-08-07 · [GitHub](https://github.com/Avafly/optimize-gemm) · 个人维护
 
 **树莓派4B上的CPU GEMM优化实践，达220倍加速**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Avafly/optimize-gemm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "Avafly/optimize-gemm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 16 --> 26
+    line [17, 18, 20, 24, 25, 25]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 25（+8）
 
 
 ---

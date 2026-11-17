@@ -1,6 +1,6 @@
 # iw4p/partialjson
 
-⭐ 103 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/iw4p/partialjson) · 个人维护
+⭐ 104 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/iw4p/partialjson) · 个人维护
 
 **解析 LLM 流式输出中不完整 JSON 的 Python 库**
 
@@ -44,13 +44,13 @@ Python 解析库，用于解析部分到达或不完整的 JSON 文本，常用�
 
 ```mermaid
 xychart-beta
-    title "iw4p/partialjson 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    title "iw4p/partialjson 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 102 --> 105
+    line [103, 104, 104]
 ```
 
-2026-10-18 103 → 2026-11-02 103（+0）
+2026-10-18 103 → 2026-11-17 104（+1）
 
 
 ---

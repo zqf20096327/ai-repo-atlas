@@ -1,6 +1,6 @@
 # vual/ChatGPT-Next-Web-Pro
 
-⭐ 802 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/vual/ChatGPT-Next-Web-Pro) · 个人维护 · 中文 README
+⭐ 803 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/vual/ChatGPT-Next-Web-Pro) · 个人维护 · 中文 README
 
 **面向终端用户的多模态 AI 聊天应用：绘图/音乐/视频/知识库问答及后台管理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vual/ChatGPT-Next-Web-Pro 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
+    title "vual/ChatGPT-Next-Web-Pro 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
     y-axis "stars" 800 --> 804
-    line [802, 801, 802, 803, 802, 802]
+    line [802, 801, 802, 803, 802, 803, 802, 803, 803]
 ```
 
-2026-10-18 802 → 2026-11-02 802（+0）
+2026-10-18 802 → 2026-11-17 803（+1）
 
 
 ---

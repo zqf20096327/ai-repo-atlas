@@ -1,6 +1,6 @@
 # AshwinUgale/muteval
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/AshwinUgale/muteval) · [官网](https://ashwinugale.github.io/muteval/) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/AshwinUgale/muteval) · [官网](https://ashwinugale.github.io/muteval/) · 个人维护
 
 **LLM 评测套件的变异测试工具：检验评测能否发现回归**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AshwinUgale/muteval 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "AshwinUgale/muteval 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 11, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

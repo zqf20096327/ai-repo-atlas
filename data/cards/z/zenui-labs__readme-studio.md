@@ -1,6 +1,6 @@
 # zenui-labs/readme-studio
 
-⭐ 109 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/zenui-labs/readme-studio) · [官网](https://readmestudio.zenui.net) · 组织维护
+⭐ 110 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/zenui-labs/readme-studio) · [官网](https://readmestudio.zenui.net) · 组织维护
 
 **AI 生成 README 的 Web 编辑器，面向开发者文档撰写**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenui-labs/readme-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "zenui-labs/readme-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 108 --> 111
-    line [110, 109, 109]
+    line [110, 109, 110, 110]
 ```
 
-2026-10-18 110 → 2026-11-02 109（-1）
+2026-10-18 110 → 2026-11-17 110（+0）
 
 
 ---

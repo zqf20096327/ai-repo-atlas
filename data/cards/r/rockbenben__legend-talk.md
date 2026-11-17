@@ -1,6 +1,6 @@
 # rockbenben/legend-talk
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rockbenben/legend-talk) · [官网](https://talk.newzone.top/) · 个人维护 · 中文 README
+⭐ 60 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rockbenben/legend-talk) · [官网](https://talk.newzone.top/) · 个人维护 · 中文 README
 
 **与161位思想家多轮圆桌辩论的AI对话应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockbenben/legend-talk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "rockbenben/legend-talk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 59, 60, 60]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 60（+3）
 
 
 ---

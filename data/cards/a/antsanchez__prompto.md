@@ -1,6 +1,6 @@
 # antsanchez/prompto
 
-⭐ 17 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/antsanchez/prompto) · [官网](https://prompto.asanchez.dev/) · 个人维护
+⭐ 17 · HTML · 推送 2026-11-03 · [GitHub](https://github.com/antsanchez/prompto) · [官网](https://prompto.asanchez.dev/) · 个人维护
 
 **浏览器中与多家 LLM 对话的开源 Angular 聊天界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "antsanchez/prompto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

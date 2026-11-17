@@ -1,6 +1,6 @@
 # Tylogi/TyloQuant
 
-⭐ 94 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Tylogi/TyloQuant) · 组织维护 · 中文 README
+⭐ 95 · C++ · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/Tylogi/TyloQuant) · 组织维护 · 中文 README
 
 **本地大模型混合精度量化与推理运行时（MFQ）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tylogi/TyloQuant 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 91 --> 95
-    line [92, 93, 94, 94]
+    title "Tylogi/TyloQuant 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 94, 92, 95, 95]
 ```
 
-2026-10-24 92 → 2026-11-02 94（+2）
+2026-10-24 92 → 2026-11-17 95（+3）
 
 
 ---

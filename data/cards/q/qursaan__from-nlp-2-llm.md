@@ -1,6 +1,6 @@
 # qursaan/from-nlp-2-llm
 
-⭐ 12 · 推送 2026-10-30 · [GitHub](https://github.com/qursaan/from-nlp-2-llm) · [官网](https://web.qursaan.com/#/course/nlp) · 个人维护
+⭐ 12 · 推送 2026-11-09 · [GitHub](https://github.com/qursaan/from-nlp-2-llm) · [官网](https://web.qursaan.com/#/course/nlp) · 个人维护
 
 **《From NLP to LLM》教材的学生配套资料仓库**
 
@@ -45,13 +45,13 @@ Mahmmoud A. Mahdi 所著《From NLP to LLM: The Evolution of Language Intelligen
 
 ```mermaid
 xychart-beta
-    title "qursaan/from-nlp-2-llm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "qursaan/from-nlp-2-llm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 7 --> 13
-    line [8, 9, 10, 11, 12, 12]
+    line [8, 9, 10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-18 8 → 2026-11-02 12（+4）
+2026-10-18 8 → 2026-11-17 12（+4）
 
 
 ---

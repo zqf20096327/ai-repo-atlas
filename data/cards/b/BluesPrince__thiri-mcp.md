@@ -1,6 +1,6 @@
 # BluesPrince/thiri-mcp
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/BluesPrince/thiri-mcp) · [官网](https://mcp.thiri.ai) · 组织维护
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/BluesPrince/thiri-mcp) · [官网](https://mcp.thiri.ai) · 组织维护
 
 **确定性音乐理论 MCP 服务器与 API：为 AI agent 提供和弦分析/重配**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BluesPrince/thiri-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "BluesPrince/thiri-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

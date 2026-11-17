@@ -1,6 +1,6 @@
 # cosminpm/bottle-caps-backend
 
-⭐ 12 · Python · 推送 2025-11-13 · [GitHub](https://github.com/cosminpm/bottle-caps-backend) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 OpenCV 的瓶盖检测与识别应用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "cosminpm/bottle-caps-backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-08 12（+0）
 
 
 ---

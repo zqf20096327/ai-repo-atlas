@@ -1,6 +1,6 @@
 # 21omen/ComfyUI-ModelResolver
 
-⭐ 14 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/21omen/ComfyUI-ModelResolver) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/21omen/ComfyUI-ModelResolver) · 个人维护
 
 **ComfyUI 自定义节点：检测并补齐工作流缺失模型**
 
@@ -44,13 +44,13 @@ ComfyUI 扩展，分析活动工作流图（忽略静音/旁路/未连接节点�
 
 ```mermaid
 xychart-beta
-    title "21omen/ComfyUI-ModelResolver 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "21omen/ComfyUI-ModelResolver 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

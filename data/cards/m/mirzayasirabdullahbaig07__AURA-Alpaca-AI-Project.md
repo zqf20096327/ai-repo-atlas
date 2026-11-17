@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/AURA-Alpaca-AI-Project
 
-⭐ 26 · Python · 推送 2026-08-24 · [GitHub](https://github.com/mirzayasirabdullahbaig07/AURA-Alpaca-AI-Project) · [官网](https://aura-alpaca-ai-project.streamlit.app/) · 个人维护
+⭐ 25 · Python · 推送 2026-08-24 · [GitHub](https://github.com/mirzayasirabdullahbaig07/AURA-Alpaca-AI-Project) · [官网](https://aura-alpaca-ai-project.streamlit.app/) · 个人维护
 
 **可审计的自主交易 agent：AI 提议、确定性风险引擎否决**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/AURA-Alpaca-AI-Project 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/AURA-Alpaca-AI-Project 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 22 --> 27
-    line [23, 25, 26, 26]
+    line [23, 25, 26, 23, 26, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 26（+3）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jahwag/clem
 
-⭐ 32 · Go · MIT · 推送 2026-08-08 · [GitHub](https://github.com/jahwag/clem) · [官网](https://myclementine.ai) · 个人维护
+⭐ 31 · Go · MIT · 推送 2026-08-08 · [GitHub](https://github.com/jahwag/clem) · [官网](https://myclementine.ai) · 个人维护
 
 **在自有 Linux 主机上 24/7 运行 Claude Code agent 团队的编排工具**
 
@@ -44,13 +44,13 @@ clem 以 systemd + tmux 为每个 agent 建立独立 Linux 用户并持续运行
 
 ```mermaid
 xychart-beta
-    title "jahwag/clem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "jahwag/clem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [32, 31, 31]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 31（-1）
 
 
 ---

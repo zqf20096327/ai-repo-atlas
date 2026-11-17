@@ -1,6 +1,6 @@
 # outhsics/openfang-auto-clip
 
-⭐ 39 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/outhsics/openfang-auto-clip) · [官网](https://github.com/outhsics/openfang-auto-clip#readme) · 组织维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/outhsics/openfang-auto-clip) · [官网](https://github.com/outhsics/openfang-auto-clip#readme) · 组织维护 · 中文 README
 
 **本地优先的长视频转短视频自动化流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "outhsics/openfang-auto-clip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "outhsics/openfang-auto-clip 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    line [38, 39, 38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 38（+0）
 
 
 ---

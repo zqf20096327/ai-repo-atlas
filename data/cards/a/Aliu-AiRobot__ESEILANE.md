@@ -1,6 +1,6 @@
 # Aliu-AiRobot/ESEILANE
 
-⭐ 96 · HTML · NOASSERTION · 推送 2026-06-28 · [GitHub](https://github.com/Aliu-AiRobot/ESEILANE) · [官网](https://eseilane.org) · 组织维护
+⭐ 95 · HTML · NOASSERTION · 推送 2026-06-28 · [GitHub](https://github.com/Aliu-AiRobot/ESEILANE) · [官网](https://eseilane.org) · 组织维护
 
 **面向 LLM 与 GraphRAG 的知识图谱引擎（Rust 核心）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aliu-AiRobot/ESEILANE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    title "Aliu-AiRobot/ESEILANE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 94 --> 97
+    line [96, 95, 95]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-17 95（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Coframe/coffee
 
-⭐ 1,523 · Python · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/Coframe/coffee) · [官网](https://twitter.com/coframe_ai) · 组织维护
+⭐ 1,525 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Coframe/coffee) · [官网](https://twitter.com/coframe_ai) · 组织维护
 
 **在 IDE 内用 AI 生成与迭代 React UI 组件的 Docker 工具**
 
@@ -45,13 +45,13 @@ Coframe 开源的 AI 前端生成工具：通过 Docker 容器监听 React 项�
 
 ```mermaid
 xychart-beta
-    title "Coframe/coffee 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 1522 --> 1524
-    line [1523, 1523]
+    title "Coframe/coffee 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 1522 --> 1526
+    line [1523, 1524, 1525, 1525]
 ```
 
-2026-10-18 1,523 → 2026-11-02 1,523（+0）
+2026-10-18 1,523 → 2026-11-17 1,525（+2）
 
 
 ---

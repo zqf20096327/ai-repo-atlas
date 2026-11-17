@@ -1,6 +1,6 @@
 # IBM/mcp
 
-⭐ 417 · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/IBM/mcp) · [官网](https://www.ibm.com/think/topics/model-context-protocol) · 组织维护
+⭐ 421 · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/IBM/mcp) · [官网](https://www.ibm.com/think/topics/model-context-protocol) · 组织维护
 
 **IBM 维护的 MCP 服务器与开发者工具集合，连接 IBM 产品与 AI Agent**
 
@@ -45,13 +45,13 @@ IBM 官方维护的 Model Context Protocol 资源集合，收录数十个 MCP �
 
 ```mermaid
 xychart-beta
-    title "IBM/mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 413 --> 418
-    line [414, 415, 417, 417]
+    title "IBM/mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 413 --> 422
+    line [414, 415, 417, 415, 417, 419, 420, 421, 421]
 ```
 
-2026-10-18 414 → 2026-11-02 417（+3）
+2026-10-18 414 → 2026-11-17 421（+7）
 
 
 ---

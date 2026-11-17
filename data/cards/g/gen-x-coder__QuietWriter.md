@@ -1,6 +1,6 @@
 # gen-x-coder/QuietWriter
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/gen-x-coder/QuietWriter) · [官网](https://www.dutchscrum.nl/quietwriter/) · 个人维护
+⭐ 15 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/gen-x-coder/QuietWriter) · [官网](https://www.dutchscrum.nl/quietwriter/) · 个人维护
 
 **面向小说作者的本地离线写作应用，含可选 AI 阅读反馈助手**
 
@@ -48,13 +48,13 @@ QuietWriter 是一个运行于本地、无需账号的图书与长文写作桌�
 
 ```mermaid
 xychart-beta
-    title "gen-x-coder/QuietWriter 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 7 --> 14
-    line [8, 9, 10, 12, 13, 13]
+    title "gen-x-coder/QuietWriter 星数(近 11 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 7 --> 16
+    line [8, 9, 10, 12, 13, 10, 14, 13, 14, 15, 15]
 ```
 
-2026-10-19 8 → 2026-11-02 13（+5）
+2026-10-19 8 → 2026-11-17 15（+7）
 
 
 ---

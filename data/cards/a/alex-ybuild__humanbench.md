@@ -1,6 +1,6 @@
 # alex-ybuild/humanbench
 
-⭐ 13 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/alex-ybuild/humanbench) · [官网](https://humanbench.ybuild.ai) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/alex-ybuild/humanbench) · [官网](https://humanbench.ybuild.ai) · 个人维护 · 中文 README
 
 **扮演大模型答题的整活测评：76 题后生成你的“模型发布会”**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alex-ybuild/humanbench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "alex-ybuild/humanbench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

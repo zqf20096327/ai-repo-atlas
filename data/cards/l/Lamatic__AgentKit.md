@@ -1,6 +1,6 @@
 # Lamatic/AgentKit
 
-⭐ 376 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lamatic/AgentKit) · [官网](https://git.new/agentkit) · 组织维护
+⭐ 380 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lamatic/AgentKit) · [官网](https://git.new/agentkit) · 组织维护
 
 **Lamatic 平台的 AI Agent 应用模板库：70 个可部署 Kit**
 
@@ -44,13 +44,13 @@ Lamatic.ai 维护的 Agentic 应用模板集合：kits/ 目录下共 70 个条�
 
 ```mermaid
 xychart-beta
-    title "Lamatic/AgentKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 375 --> 379
-    line [378, 376, 376]
+    title "Lamatic/AgentKit 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 375 --> 381
+    line [378, 376, 378, 377, 378, 379, 378, 379, 380, 380]
 ```
 
-2026-10-18 378 → 2026-11-02 376（-2）
+2026-10-18 378 → 2026-11-17 380（+2）
 
 
 ---

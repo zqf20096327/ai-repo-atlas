@@ -1,6 +1,6 @@
 # ueberdosis/ai-agent-custom-llm-demos
 
-⭐ 20 · JavaScript · MIT · 推送 2025-11-20 · [GitHub](https://github.com/ueberdosis/ai-agent-custom-llm-demos) · [官网](https://tiptap.dev/docs/content-ai/capabilities/agent/custom-llms/overview) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给开发者的 Tiptap AI Agent 自定义后端接入示例集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ueberdosis/ai-agent-custom-llm-demos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-15 20（+0）
 
 
 ---

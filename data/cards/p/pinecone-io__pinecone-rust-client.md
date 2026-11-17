@@ -1,6 +1,6 @@
 # pinecone-io/pinecone-rust-client
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/pinecone-io/pinecone-rust-client) · [官网](https://www.pinecone.io/) · 组织维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/pinecone-io/pinecone-rust-client) · [官网](https://www.pinecone.io/) · 组织维护
 
 **Pinecone 向量数据库的官方 Rust 客户端 SDK**
 
@@ -44,12 +44,12 @@ Pinecone 官方维护的 Rust SDK，供 Rust 开发者以代码方式访问 Pine
 ```mermaid
 xychart-beta
     title "pinecone-io/pinecone-rust-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

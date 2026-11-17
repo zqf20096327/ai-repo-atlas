@@ -1,6 +1,6 @@
 # jsxlei/SCALEX
 
-⭐ 84 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-25 · [GitHub](https://github.com/jsxlei/SCALEX) · 个人维护
+⭐ 86 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-25 · [GitHub](https://github.com/jsxlei/SCALEX) · 个人维护
 
 **将异源单细胞数据投影到共同细胞嵌入空间的在线整合工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jsxlei/SCALEX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    title "jsxlei/SCALEX 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 86（+2）
 
 
 ---

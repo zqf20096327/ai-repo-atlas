@@ -1,6 +1,6 @@
 # the3minutenode/ComfyUI-Advanced-Installer
 
-⭐ 30 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/the3minutenode/ComfyUI-Advanced-Installer) · 个人维护
+⭐ 29 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/the3minutenode/ComfyUI-Advanced-Installer) · 个人维护
 
 **Windows 一键便携版 ComfyUI 安装器（Python 3.13 + CUDA 13）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the3minutenode/ComfyUI-Advanced-Installer 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-02"]
+    title "the3minutenode/ComfyUI-Advanced-Installer 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-08", "2026-11-17"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    line [29, 30, 29, 29]
 ```
 
-2026-10-28 29 → 2026-11-02 30（+1）
+2026-10-28 29 → 2026-11-17 29（+0）
 
 
 ---

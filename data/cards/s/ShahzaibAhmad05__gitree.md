@@ -1,6 +1,6 @@
 # ShahzaibAhmad05/gitree
 
-⭐ 28 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/ShahzaibAhmad05/gitree) · [官网](https://pypi.org/project/gitree) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/ShahzaibAhmad05/gitree) · [官网](https://pypi.org/project/gitree) · 个人维护
 
 **开发者的 ls 升级版：查看目录结构并复制代码作为 LLM 上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShahzaibAhmad05/gitree 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "ShahzaibAhmad05/gitree 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 27（-1）
 
 
 ---

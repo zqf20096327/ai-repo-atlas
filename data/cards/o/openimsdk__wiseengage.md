@@ -1,6 +1,6 @@
 # openimsdk/wiseengage
 
-⭐ 158 · Go · AGPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/openimsdk/wiseengage) · [官网](https://openim.io) · 组织维护
+⭐ 157 · Go · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/openimsdk/wiseengage) · [官网](https://openim.io) · 组织维护
 
 **开源智能客服系统，自称可替代 Intercom 等产品**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "openimsdk/wiseengage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    title "openimsdk/wiseengage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 156 --> 159
+    line [158, 157, 157]
 ```
 
-2026-10-18 158 → 2026-11-02 158（+0）
+2026-10-18 158 → 2026-11-17 157（-1）
 
 
 ---

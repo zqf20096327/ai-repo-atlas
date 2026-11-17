@@ -1,6 +1,6 @@
 # nazdridoy/ngpt
 
-⭐ 48 · Python · MIT · 推送 2026-03-24 · [GitHub](https://github.com/nazdridoy/ngpt) · [官网](https://nazdridoy.github.io/ngpt/) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-03-24 · [GitHub](https://github.com/nazdridoy/ngpt) · [官网](https://nazdridoy.github.io/ngpt/) · 个人维护
 
 **终端里的多 LLM 客户端：对话、生成代码与 git 提交信息**
 
@@ -46,13 +46,13 @@ Python 编写的命令行工具，接入 OpenAI、Ollama、Groq、Claude、Gemin
 
 ```mermaid
 xychart-beta
-    title "nazdridoy/ngpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "nazdridoy/ngpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

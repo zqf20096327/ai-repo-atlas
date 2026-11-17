@@ -1,6 +1,6 @@
 # blaz-r/BTC-change-detection
 
-⭐ 42 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/blaz-r/BTC-change-detection) · 组织维护
+⭐ 43 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/blaz-r/BTC-change-detection) · 组织维护
 
 **遥感变化检测模型库：系统分析设计选择并训练检测双时相影像变化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "blaz-r/BTC-change-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "blaz-r/BTC-change-detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

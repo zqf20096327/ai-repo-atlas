@@ -1,6 +1,6 @@
 # aicubetechnology/qilbeeDB
 
-⭐ 22 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/aicubetechnology/qilbeeDB) · [官网](https://qilbeedb.io/) · 组织维护
+⭐ 22 · Rust · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/aicubetechnology/qilbeeDB) · [官网](https://qilbeedb.io/) · 组织维护
 
 **面向 AI agent 记忆的 Rust 图数据库，支持自托管**
 
@@ -45,12 +45,12 @@ QilbeeDB 是用 Rust 编写的图数据库，为 AI agent 提供持久记忆、�
 ```mermaid
 xychart-beta
     title "aicubetechnology/qilbeeDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

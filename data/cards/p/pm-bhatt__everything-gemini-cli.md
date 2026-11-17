@@ -1,6 +1,6 @@
 # pm-bhatt/everything-gemini-cli
 
-⭐ 33 · NOASSERTION · 推送 2026-01-26 · [GitHub](https://github.com/pm-bhatt/everything-gemini-cli) · 个人维护
+⭐ 35 · NOASSERTION · 推送 2026-01-26 · [GitHub](https://github.com/pm-bhatt/everything-gemini-cli) · 个人维护
 
 **面向 Gemini CLI 的开发命令/技能/规范扩展包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pm-bhatt/everything-gemini-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33, 33]
+    title "pm-bhatt/everything-gemini-cli 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 36
+    line [30, 31, 32, 33, 32, 34, 35, 35]
 ```
 
-2026-10-18 30 → 2026-11-02 33（+3）
+2026-10-18 30 → 2026-11-17 35（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # satiricalguru/RVC-Voicechanger
 
-⭐ 15 · TypeScript · 推送 2026-07-07 · [GitHub](https://github.com/satiricalguru/RVC-Voicechanger) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/satiricalguru/RVC-Voicechanger) · 个人维护 · 中文 README
 
 **基于 RVC 的实时 AI 变声桌面应用，含 DSP 效果链**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "satiricalguru/RVC-Voicechanger 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "satiricalguru/RVC-Voicechanger 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 13, 16, 17, 18, 18]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 18（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # yan5xu/codexloom
 
-⭐ 390 · Go · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/yan5xu/codexloom) · 个人维护 · 中文 README
+⭐ 393 · Go · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/yan5xu/codexloom) · 个人维护 · 中文 README
 
 **为 Codex 长期领域 Agent 提供治理与编组的工作环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yan5xu/codexloom 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 387 --> 391
-    line [388, 389, 390, 389, 390, 390]
+    title "yan5xu/codexloom 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 387 --> 394
+    line [388, 389, 390, 389, 390, 391, 393, 393]
 ```
 
-2026-10-18 388 → 2026-11-02 390（+2）
+2026-10-18 388 → 2026-11-17 393（+5）
 
 
 ---

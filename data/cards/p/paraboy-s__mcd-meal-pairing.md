@@ -1,6 +1,6 @@
 # paraboy-s/mcd-meal-pairing
 
-⭐ 126 · Python · 推送 2026-10-22 · [GitHub](https://github.com/paraboy-s/mcd-meal-pairing) · [官网](https://paraboy-s.github.io/mcd-meal-pairing/preview.html) · 个人维护 · 中文 README
+⭐ 125 · Python · 推送 2026-10-22 · [GitHub](https://github.com/paraboy-s/mcd-meal-pairing) · [官网](https://paraboy-s.github.io/mcd-meal-pairing/preview.html) · 个人维护 · 中文 README
 
 **给点麦当劳的人算最优配餐的 Agent Skill：确定性求解、可追溯**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "paraboy-s/mcd-meal-pairing 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02"]
+    title "paraboy-s/mcd-meal-pairing 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 0 --> 142
-    line [3, 25, 56, 130, 127, 126, 126]
+    line [3, 25, 56, 130, 127, 126, 56, 125, 125]
 ```
 
-2026-10-22 3 → 2026-11-02 126（+123）
+2026-10-22 3 → 2026-11-17 125（+122）
 
 
 ---

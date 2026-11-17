@@ -1,6 +1,6 @@
 # muaaz9329/cheap-ag
 
-⭐ 189 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/muaaz9329/cheap-ag) · [官网](https://cheapag.com) · 个人维护
+⭐ 332 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/muaaz9329/cheap-ag) · [官网](https://cheapag.com) · 个人维护
 
 **Claude Code 插件：让廉价模型代写代码以减少 Opus 用量**
 
@@ -40,6 +40,18 @@
 > L26: **Cheap Agent fixes the org chart.** Opus plans and decides. A model that costs half a cent per task does the typin
 > L6:  For Claude Code
 > L110: - **Every change is proven.** The cheap model must write a test that fails before its fix and passes after. Cheap 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "muaaz9329/cheap-ag 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 175 --> 347
+    line [189, 312, 324, 328, 329, 330, 331, 333, 332, 332]
+```
+
+2026-11-02 189 → 2026-11-17 332（+143）
 
 
 ---

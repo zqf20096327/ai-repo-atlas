@@ -1,6 +1,6 @@
 # Anil-matcha/gemini-omni-comfyui
 
-⭐ 24 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Anil-matcha/gemini-omni-comfyui) · [官网](https://anil-matcha.github.io/gemini-omni-comfyui/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Anil-matcha/gemini-omni-comfyui) · [官网](https://anil-matcha.github.io/gemini-omni-comfyui/) · 个人维护
 
 **在 ComfyUI 中调用 Gemini Omni API 的视频生成节点集**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点包，将 muapi.ai 上的 Google Gemini Omni API 封装�
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/gemini-omni-comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    title "Anil-matcha/gemini-omni-comfyui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [24, 23, 23]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 23（-1）
 
 
 ---

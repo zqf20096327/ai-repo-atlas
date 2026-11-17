@@ -1,6 +1,6 @@
 # sizzlecar/ferrum-infer-rs
 
-⭐ 21 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/sizzlecar/ferrum-infer-rs) · [官网](https://ferrum.pandaailabs.com/) · 组织维护 · 中文 README
+⭐ 22 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sizzlecar/ferrum-infer-rs) · [官网](https://ferrum.pandaailabs.com/) · 组织维护 · 中文 README
 
 **单二进制 Rust LLM/图像推理服务引擎，OpenAI 兼容 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sizzlecar/ferrum-infer-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "sizzlecar/ferrum-infer-rs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

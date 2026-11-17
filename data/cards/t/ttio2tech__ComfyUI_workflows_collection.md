@@ -1,6 +1,6 @@
 # ttio2tech/ComfyUI_workflows_collection
 
-⭐ 171 · 推送 2026-09-23 · [GitHub](https://github.com/ttio2tech/ComfyUI_workflows_collection) · [官网](https://agireact.com/workflow-download) · 个人维护
+⭐ 176 · 推送 2026-09-23 · [GitHub](https://github.com/ttio2tech/ComfyUI_workflows_collection) · [官网](https://agireact.com/workflow-download) · 个人维护
 
 **ComfyUI 工作流合集：文生图/图生图/文生视频的可用 workflow 文件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ttio2tech/ComfyUI_workflows_collection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 170 --> 174
-    line [173, 172, 171, 171]
+    title "ttio2tech/ComfyUI_workflows_collection 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 170 --> 177
+    line [173, 172, 171, 172, 173, 174, 175, 176, 176]
 ```
 
-2026-10-18 173 → 2026-11-02 171（-2）
+2026-10-18 173 → 2026-11-17 176（+3）
 
 
 ---

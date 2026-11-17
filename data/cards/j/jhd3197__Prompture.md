@@ -1,6 +1,6 @@
 # jhd3197/Prompture
 
-⭐ 16 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jhd3197/Prompture) · [官网](https://jhd3197.github.io/Prompture/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jhd3197/Prompture) · [官网](https://jhd3197.github.io/Prompture/) · 个人维护
 
 **Python 库：从 LLM 提取经验证的 JSON 结构化输出，统一多提供商接口**
 
@@ -46,13 +46,13 @@ Prompture 是一个 API 优先的 Python 库，核心是把 LLM 响应转为按 
 
 ```mermaid
 xychart-beta
-    title "jhd3197/Prompture 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
+    title "jhd3197/Prompture 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    line [14, 15, 16, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

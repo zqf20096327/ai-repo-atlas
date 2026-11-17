@@ -1,6 +1,6 @@
 # sanbir/move-auditor-skills
 
-⭐ 39 · MIT · 推送 2026-03-23 · [GitHub](https://github.com/sanbir/move-auditor-skills) · [官网](https://crypto.training/) · 个人维护
+⭐ 40 · MIT · 推送 2026-03-23 · [GitHub](https://github.com/sanbir/move-auditor-skills) · [官网](https://crypto.training/) · 个人维护
 
 **面向 Sui Move 包安全审计的 AI agent 技能集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanbir/move-auditor-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "sanbir/move-auditor-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

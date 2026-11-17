@@ -1,6 +1,6 @@
 # microsoft/copilot-for-eclipse
 
-⭐ 129 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/copilot-for-eclipse) · [官网](https://marketplace.eclipse.org/content/github-copilot) · 组织维护
+⭐ 128 · Java · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/copilot-for-eclipse) · [官网](https://marketplace.eclipse.org/content/github-copilot) · 组织维护
 
 **微软官方的 Eclipse IDE GitHub Copilot 插件**
 
@@ -46,13 +46,13 @@ Microsoft 维护的 Eclipse IDE 插件，将 GitHub Copilot 的 AI 辅助编码�
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-for-eclipse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    title "microsoft/copilot-for-eclipse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 127 --> 130
+    line [129, 128, 128]
 ```
 
-2026-10-18 129 → 2026-11-02 129（+0）
+2026-10-18 129 → 2026-11-17 128（-1）
 
 
 ---

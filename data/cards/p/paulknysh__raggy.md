@@ -1,6 +1,6 @@
 # paulknysh/raggy
 
-⭐ 34 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/paulknysh/raggy) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/paulknysh/raggy) · 个人维护
 
 **本地优先的 CLI RAG 工具：对本地文档问答并给出引用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paulknysh/raggy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "paulknysh/raggy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 33, 34, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 35（+3）
 
 
 ---

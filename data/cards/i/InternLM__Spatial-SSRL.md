@@ -1,6 +1,6 @@
 # InternLM/Spatial-SSRL
 
-⭐ 141 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/InternLM/Spatial-SSRL) · [官网](https://arxiv.org/abs/2510.27606) · 组织维护 · 中文 README
+⭐ 142 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/InternLM/Spatial-SSRL) · [官网](https://arxiv.org/abs/2510.27606) · 组织维护 · 中文 README
 
 **自监督强化学习框架，提升大型视觉语言模型的空间理解能力**
 
@@ -45,13 +45,13 @@ CVPR 2026 论文的官方代码发布：提出 Spatial-SSRL 训练范式，用�
 
 ```mermaid
 xychart-beta
-    title "InternLM/Spatial-SSRL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    title "InternLM/Spatial-SSRL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 140 --> 143
+    line [141, 142, 142]
 ```
 
-2026-10-18 141 → 2026-11-02 141（+0）
+2026-10-18 141 → 2026-11-17 142（+1）
 
 
 ---

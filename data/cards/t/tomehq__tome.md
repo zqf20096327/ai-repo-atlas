@@ -1,6 +1,6 @@
 # tomehq/tome
 
-⭐ 379 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/tomehq/tome) · [官网](https://tome.center) · 组织维护
+⭐ 380 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/tomehq/tome) · [官网](https://tome.center) · 组织维护
 
 **面向开发者的开源自托管文档站生成平台，写 Markdown 即得文档站点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomehq/tome 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 377 --> 380
-    line [378, 379, 378, 379, 379]
+    title "tomehq/tome 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 377 --> 381
+    line [378, 379, 378, 379, 378, 380, 380]
 ```
 
-2026-10-18 378 → 2026-11-02 379（+1）
+2026-10-18 378 → 2026-11-17 380（+2）
 
 
 ---

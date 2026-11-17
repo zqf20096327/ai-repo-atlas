@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mesutpiskin/computer-vision-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 426 --> 428
-    line [427, 427]
+    title "mesutpiskin/computer-vision-guide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 425 --> 428
+    line [427, 426, 427, 427]
 ```
 
-2026-10-18 427 → 2026-11-02 427（+0）
+2026-10-18 427 → 2026-11-17 427（+0）
 
 
 ---

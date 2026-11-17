@@ -1,6 +1,6 @@
 # izll/agent-session-manager
 
-⭐ 15 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/izll/agent-session-manager) · [官网](https://github.com/izll/agent-session-manager/releases) · 个人维护
+⭐ 16 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/izll/agent-session-manager) · [官网](https://github.com/izll/agent-session-manager/releases) · 个人维护
 
 **管理多个 AI 编程 agent CLI 会话的终端 TUI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "izll/agent-session-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "izll/agent-session-manager 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

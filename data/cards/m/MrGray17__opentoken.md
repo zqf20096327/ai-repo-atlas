@@ -1,6 +1,6 @@
 # MrGray17/opentoken
 
-⭐ 167 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/MrGray17/opentoken) · [官网](https://www.npmjs.com/package/@mrgray17/opentoken) · 个人维护
+⭐ 170 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/MrGray17/opentoken) · [官网](https://www.npmjs.com/package/@mrgray17/opentoken) · 个人维护
 
 **AI 编程 agent 的工具输出压缩引擎，降低 LLM 输入 token 消耗**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MrGray17/opentoken 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 164 --> 168
-    line [165, 166, 165, 166, 167, 167]
+    title "MrGray17/opentoken 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 164 --> 171
+    line [165, 166, 165, 166, 167, 165, 168, 170, 169, 170, 170]
 ```
 
-2026-10-18 165 → 2026-11-02 167（+2）
+2026-10-18 165 → 2026-11-17 170（+5）
 
 
 ---

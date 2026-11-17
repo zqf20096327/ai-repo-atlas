@@ -1,6 +1,6 @@
 # CCDawn/Vibelution
 
-⭐ 81 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CCDawn/Vibelution) · [官网](https://github.com/CCDawn/Vibelution#readme) · 个人维护 · 中文 README
+⭐ 79 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/CCDawn/Vibelution) · [官网](https://github.com/CCDawn/Vibelution#readme) · 个人维护 · 中文 README
 
 **本地优先的多 Agent 协作桌面工作台（Electron）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CCDawn/Vibelution 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 79 --> 88
-    line [86, 87, 80, 81, 81]
+    title "CCDawn/Vibelution 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 78 --> 88
+    line [86, 87, 80, 81, 80, 79, 79]
 ```
 
-2026-10-18 86 → 2026-11-02 81（-5）
+2026-10-18 86 → 2026-11-17 79（-7）
 
 
 ---

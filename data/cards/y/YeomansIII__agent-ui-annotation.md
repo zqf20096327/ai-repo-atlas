@@ -1,6 +1,6 @@
 # YeomansIII/agent-ui-annotation
 
-⭐ 69 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/YeomansIII/agent-ui-annotation) · [官网](https://yeomansiii.github.io/agent-ui-annotation/) · 个人维护 · 中文 README
+⭐ 70 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/YeomansIII/agent-ui-annotation) · [官网](https://yeomansiii.github.io/agent-ui-annotation/) · 个人维护 · 中文 README
 
 **网页标注工具栏：帮开发者向 AI 编码 agent 精确传达 UI 修改需求**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YeomansIII/agent-ui-annotation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    title "YeomansIII/agent-ui-annotation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 67 --> 71
+    line [69, 68, 70, 70]
 ```
 
-2026-10-18 69 → 2026-11-02 69（+0）
+2026-10-18 69 → 2026-11-17 70（+1）
 
 
 ---

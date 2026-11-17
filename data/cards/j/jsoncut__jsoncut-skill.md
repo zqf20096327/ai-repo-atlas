@@ -1,6 +1,6 @@
 # jsoncut/jsoncut-skill
 
-⭐ 63 · 推送 2026-04-10 · [GitHub](https://github.com/jsoncut/jsoncut-skill) · 组织维护
+⭐ 65 · 推送 2026-04-10 · [GitHub](https://github.com/jsoncut/jsoncut-skill) · 组织维护
 
 **教 AI agent 调用 JsonCut API 生成图片和视频的技能文档包**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "jsoncut/jsoncut-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 57 --> 64
-    line [58, 59, 60, 61, 62, 63, 63]
+    title "jsoncut/jsoncut-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 57 --> 66
+    line [58, 59, 60, 61, 62, 63, 64, 65, 65]
 ```
 
-2026-10-18 58 → 2026-11-02 63（+5）
+2026-10-18 58 → 2026-11-17 65（+7）
 
 
 ---

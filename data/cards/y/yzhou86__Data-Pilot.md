@@ -1,6 +1,6 @@
 # yzhou86/Data-Pilot
 
-⭐ 51 · Python · 推送 2026-05-11 · [GitHub](https://github.com/yzhou86/Data-Pilot) · 个人维护 · 中文 README
+⭐ 48 · Python · 推送 2026-05-11 · [GitHub](https://github.com/yzhou86/Data-Pilot) · 个人维护 · 中文 README
 
 **面向学生与科研者的数据分析 AI Agent：LLM 驱动 ML 分析**
 
@@ -44,13 +44,13 @@ AI 优先的数据与研究工作台（原名 DataPilot，README 标为 SciPilot
 
 ```mermaid
 xychart-beta
-    title "yzhou86/Data-Pilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "yzhou86/Data-Pilot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 46 --> 52
-    line [47, 48, 49, 50, 51, 51]
+    line [47, 48, 49, 50, 51, 49, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 51（+4）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

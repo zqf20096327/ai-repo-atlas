@@ -1,6 +1,6 @@
 # cpulvermacher/lgtm
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cpulvermacher/lgtm) · [官网](https://marketplace.visualstudio.com/items?itemName=cpulvermacher.lgtm) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/cpulvermacher/lgtm) · [官网](https://marketplace.visualstudio.com/items?itemName=cpulvermacher.lgtm) · 个人维护
 
 **VS Code 扩展：用 Copilot Chat 审查 PR 与 git 改动**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cpulvermacher/lgtm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "cpulvermacher/lgtm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    line [31, 32, 31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

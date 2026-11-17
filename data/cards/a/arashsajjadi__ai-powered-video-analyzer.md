@@ -1,6 +1,6 @@
 # arashsajjadi/ai-powered-video-analyzer
 
-⭐ 109 · Python · 推送 2026-06-14 · [GitHub](https://github.com/arashsajjadi/ai-powered-video-analyzer) · 个人维护
+⭐ 111 · Python · 推送 2026-06-14 · [GitHub](https://github.com/arashsajjadi/ai-powered-video-analyzer) · 个人维护
 
 **本地离线视频 AI 分析工具：检测、字幕、转录与摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arashsajjadi/ai-powered-video-analyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 107 --> 110
-    line [108, 109, 109]
+    title "arashsajjadi/ai-powered-video-analyzer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 107 --> 112
+    line [108, 109, 108, 109, 111, 111]
 ```
 
-2026-10-18 108 → 2026-11-02 109（+1）
+2026-10-18 108 → 2026-11-17 111（+3）
 
 
 ---

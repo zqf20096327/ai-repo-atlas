@@ -1,6 +1,6 @@
 # Md-Emon-Hasan/MediGenius
 
-⭐ 52 · Jupyter Notebook · MIT · 推送 2026-08-05 · [GitHub](https://github.com/Md-Emon-Hasan/MediGenius) · [官网](https://medigenius.onrender.com) · 个人维护
+⭐ 54 · Jupyter Notebook · MIT · 推送 2026-08-05 · [GitHub](https://github.com/Md-Emon-Hasan/MediGenius) · [官网](https://medigenius.onrender.com) · 个人维护
 
 **面向普通人的多智能体医疗信息问答助手，带确定性安全层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Md-Emon-Hasan/MediGenius 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "Md-Emon-Hasan/MediGenius 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54, 54]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 54（+2）
 
 
 ---

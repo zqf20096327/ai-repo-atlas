@@ -1,6 +1,6 @@
 # seehiong/hdb-price-predictor
 
-⭐ 272 · HTML · 推送 2026-09-12 · [GitHub](https://github.com/seehiong/hdb-price-predictor) · [官网](https://seehiong.github.io/hdb-price-predictor/) · 个人维护
+⭐ 271 · HTML · 推送 2026-09-12 · [GitHub](https://github.com/seehiong/hdb-price-predictor) · [官网](https://seehiong.github.io/hdb-price-predictor/) · 个人维护
 
 **浏览器内新加坡房产估价引擎：双 XGBoost 模型毫秒级本地推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seehiong/hdb-price-predictor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "seehiong/hdb-price-predictor 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
     y-axis "stars" 267 --> 273
-    line [268, 270, 271, 270, 271, 272, 272]
+    line [268, 270, 271, 270, 271, 272, 271, 270, 271, 271]
 ```
 
-2026-10-18 268 → 2026-11-02 272（+4）
+2026-10-18 268 → 2026-11-17 271（+3）
 
 
 ---

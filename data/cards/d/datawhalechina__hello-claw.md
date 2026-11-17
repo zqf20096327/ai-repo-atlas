@@ -1,6 +1,6 @@
 # datawhalechina/hello-claw
 
-⭐ 2,217 · Python · 推送 2026-10-12 · [GitHub](https://github.com/datawhalechina/hello-claw) · [官网](https://datawhalechina.github.io/hello-claw) · 组织维护 · 中文 README
+⭐ 2,218 · Python · 推送 2026-11-05 · [GitHub](https://github.com/datawhalechina/hello-claw) · [官网](https://datawhalechina.github.io/hello-claw) · 组织维护 · 中文 README
 
 **OpenClaw 命令行 AI 助理的中文系统教程（领养/大学/构建）**
 
@@ -46,13 +46,13 @@ Datawhale 维护的面向 OpenClaw 命令行 AI 助理系统的学习教程，�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/hello-claw 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2211 --> 2218
-    line [2215, 2214, 2212, 2213, 2214, 2215, 2216, 2217, 2217]
+    title "datawhalechina/hello-claw 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 2211 --> 2221
+    line [2215, 2214, 2212, 2213, 2214, 2215, 2216, 2217, 2213, 2216, 2218, 2219, 2220, 2218, 2218]
 ```
 
-2026-10-18 2,215 → 2026-11-02 2,217（+2）
+2026-10-18 2,215 → 2026-11-17 2,218（+3）
 
 
 ---

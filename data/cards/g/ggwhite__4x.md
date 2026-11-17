@@ -1,6 +1,6 @@
 # ggwhite/4x
 
-⭐ 34 · Go · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ggwhite/4x) · [官网](https://ggwhite.github.io/4x/) · 个人维护 · 中文 README
+⭐ 35 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ggwhite/4x) · [官网](https://ggwhite.github.io/4x/) · 个人维护 · 中文 README
 
 **编排 AI 编码代理的多角色开发循环 CLI（设计/编码/审查/测试）**
 
@@ -45,13 +45,13 @@ Go 编写的开源 CLI，将 AI 编码代理组织为 Design→Code→Review→T
 
 ```mermaid
 xychart-beta
-    title "ggwhite/4x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "ggwhite/4x 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

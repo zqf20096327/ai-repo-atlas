@@ -1,6 +1,6 @@
 # bhouston/mycoder
 
-⭐ 566 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/bhouston/mycoder) · [官网](https://mycoder.ai) · 组织维护
+⭐ 568 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/bhouston/mycoder) · [官网](https://mycoder.ai) · 组织维护
 
 **命令行 AI 编程代理，驱动编码任务自动化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bhouston/mycoder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 565 --> 568
-    line [567, 566, 566]
+    title "bhouston/mycoder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 565 --> 569
+    line [567, 566, 567, 568, 568]
 ```
 
-2026-10-18 567 → 2026-11-02 566（-1）
+2026-10-18 567 → 2026-11-17 568（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rvandewater/YAIB
 
-⭐ 111 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rvandewater/YAIB) · [官网](https://github.com/rvandewater/YAIB/wiki) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/rvandewater/YAIB) · [官网](http://www.rpvandewater.com/YAIB/) · 组织维护
 
 **ICU 临床预测模型的标准化实验基准框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rvandewater/YAIB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    title "rvandewater/YAIB 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 110, 112, 112]
 ```
 
-2026-10-18 110 → 2026-11-02 111（+1）
+2026-10-18 110 → 2026-11-17 112（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # LuD1161/agentjail
 
-⭐ 99 · Go · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/LuD1161/agentjail) · [官网](https://agentjail.io) · 个人维护
+⭐ 103 · Go · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/LuD1161/agentjail) · [官网](https://agentjail.io) · 个人维护
 
 **给开发者的编码 agent 策略防护与 OS 沙箱工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LuD1161/agentjail 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 96 --> 100
-    line [97, 98, 99, 99]
+    title "LuD1161/agentjail 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 96 --> 104
+    line [97, 98, 99, 102, 103, 103]
 ```
 
-2026-10-18 97 → 2026-11-02 99（+2）
+2026-10-18 97 → 2026-11-17 103（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # ajayvnkt/agent-vcr
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ajayvnkt/agent-vcr) · [官网](https://www.npmjs.com/package/agent-vcr) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ajayvnkt/agent-vcr) · [官网](https://www.npmjs.com/package/agent-vcr) · 个人维护
 
 **LLM 工具调用的快照测试库：录制一次，CI 回放零 API 成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ajayvnkt/agent-vcr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "ajayvnkt/agent-vcr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [15, 14]
+    line [15, 14, 15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 14（-1）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

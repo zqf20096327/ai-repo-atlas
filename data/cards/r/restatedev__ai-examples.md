@@ -1,6 +1,6 @@
 # restatedev/ai-examples
 
-⭐ 95 · Python · 推送 2026-10-30 · [GitHub](https://github.com/restatedev/ai-examples) · [官网](https://ai.restate.dev) · 组织维护
+⭐ 99 · Python · 推送 2026-11-05 · [GitHub](https://github.com/restatedev/ai-examples) · [官网](https://ai.restate.dev) · 组织维护
 
 **Restate 官方的 AI agent/工作流可运行示例与模板合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "restatedev/ai-examples 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 91 --> 96
-    line [92, 93, 94, 95, 95]
+    title "restatedev/ai-examples 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 91 --> 100
+    line [92, 93, 94, 95, 93, 97, 98, 99, 99]
 ```
 
-2026-10-18 92 → 2026-11-02 95（+3）
+2026-10-18 92 → 2026-11-17 99（+7）
 
 
 ---

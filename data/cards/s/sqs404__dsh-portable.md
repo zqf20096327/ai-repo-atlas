@@ -1,6 +1,6 @@
 # sqs404/dsh-portable
 
-⭐ 26 · PowerShell · MIT · 推送 2026-10-03 · [GitHub](https://github.com/sqs404/dsh-portable) · 个人维护 · 中文 README
+⭐ 30 · PowerShell · MIT · 推送 2026-10-03 · [GitHub](https://github.com/sqs404/dsh-portable) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Windows 免安装便携版构建工程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sqs404/dsh-portable 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "sqs404/dsh-portable 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 26, 24, 29, 30, 30]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 30（+6）
 
 
 ---

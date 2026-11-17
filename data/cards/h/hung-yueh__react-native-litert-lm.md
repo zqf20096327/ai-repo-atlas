@@ -1,6 +1,6 @@
 # hung-yueh/react-native-litert-lm
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hung-yueh/react-native-litert-lm) · [官网](https://litert.dev) · 个人维护
+⭐ 65 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hung-yueh/react-native-litert-lm) · [官网](https://litert.dev) · 个人维护
 
 **React Native 端侧 LLM 推理库：手机上运行 Gemma 等模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hung-yueh/react-native-litert-lm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 61 --> 65
-    line [62, 63, 64, 64]
+    title "hung-yueh/react-native-litert-lm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 64, 63, 65, 65]
 ```
 
-2026-10-18 62 → 2026-11-02 64（+2）
+2026-10-18 62 → 2026-11-17 65（+3）
 
 
 ---

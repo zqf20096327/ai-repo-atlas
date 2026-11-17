@@ -1,6 +1,6 @@
 # neurallayer/roboquant.py
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/neurallayer/roboquant.py) · [官网](https://neurallayer.github.io/roboquant.py/) · 个人维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/neurallayer/roboquant.py) · [官网](https://neurallayer.github.io/roboquant.py/) · 个人维护
 
 **Python 开源算法交易平台：回测与实盘交易策略开发**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neurallayer/roboquant.py 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "neurallayer/roboquant.py 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 25, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

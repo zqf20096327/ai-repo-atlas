@@ -1,6 +1,6 @@
 # smallnest/goclaw
 
-⭐ 600 · Go · MIT · 推送 2026-03-27 · [GitHub](https://github.com/smallnest/goclaw) · 个人维护 · 中文 README
+⭐ 601 · Go · MIT · 推送 2026-03-27 · [GitHub](https://github.com/smallnest/goclaw) · 个人维护 · 中文 README
 
 **Go 语言实现的 AI Agent 框架，含技能系统与多渠道接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smallnest/goclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 597 --> 601
-    line [599, 598, 599, 600]
+    title "smallnest/goclaw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 597 --> 602
+    line [599, 598, 599, 600, 598, 600, 601, 601]
 ```
 
-2026-10-18 599 → 2026-11-02 600（+1）
+2026-10-18 599 → 2026-11-17 601（+2）
 
 
 ---

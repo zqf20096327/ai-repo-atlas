@@ -1,6 +1,6 @@
 # Agora-Lab-AI/HydraNet
 
-⭐ 14 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Agora-Lab-AI/HydraNet) · [官网](https://agoralab.xyz) · 组织维护
+⭐ 14 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Agora-Lab-AI/HydraNet) · [官网](https://agoralab.xyz) · 组织维护
 
 **融合 MQA、MoE 与持续学习的 Transformer 架构库，面向开发者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Agora-Lab-AI/HydraNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

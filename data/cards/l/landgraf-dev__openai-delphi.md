@@ -1,6 +1,6 @@
 # landgraf-dev/openai-delphi
 
-⭐ 141 · Pascal · MIT · 推送 2026-09-21 · [GitHub](https://github.com/landgraf-dev/openai-delphi) · 个人维护
+⭐ 142 · Pascal · MIT · 推送 2026-09-21 · [GitHub](https://github.com/landgraf-dev/openai-delphi) · 个人维护
 
 **Delphi/Lazarus 的 OpenAI API 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "landgraf-dev/openai-delphi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    title "landgraf-dev/openai-delphi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 140 --> 143
+    line [141, 142, 142]
 ```
 
-2026-10-18 141 → 2026-11-02 141（+0）
+2026-10-18 141 → 2026-11-17 142（+1）
 
 
 ---

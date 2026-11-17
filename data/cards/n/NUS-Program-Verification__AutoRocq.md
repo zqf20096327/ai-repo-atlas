@@ -1,6 +1,6 @@
 # NUS-Program-Verification/AutoRocq
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/NUS-Program-Verification/AutoRocq) · 组织维护
+⭐ 40 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/NUS-Program-Verification/AutoRocq) · 组织维护
 
 **LLM 驱动的 Rocq 定理证明 agent，用于程序验证**
 
@@ -44,13 +44,13 @@ AutoRocq 是运行于 Rocq（原 Coq）9.0.0 之上的 agent 定理证明器：L
 
 ```mermaid
 xychart-beta
-    title "NUS-Program-Verification/AutoRocq 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 33 --> 38
-    line [34, 36, 37, 37]
+    title "NUS-Program-Verification/AutoRocq 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 33 --> 41
+    line [34, 36, 37, 36, 38, 39, 40, 40]
 ```
 
-2026-10-18 34 → 2026-11-02 37（+3）
+2026-10-18 34 → 2026-11-17 40（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # justjavac/glitch-token
 
-⭐ 16 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/justjavac/glitch-token) · [官网](https://glitch-token.jjc.fun) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/justjavac/glitch-token) · [官网](https://glitch-token.denohub.com) · 个人维护 · 中文 README
 
 **LLM 故障 token 资料库：103 条异常 token 考据与检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "justjavac/glitch-token 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "justjavac/glitch-token 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

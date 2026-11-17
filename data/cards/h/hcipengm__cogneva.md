@@ -1,6 +1,6 @@
 # hcipengm/cogneva
 
-⭐ 34 · Rust · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/hcipengm/cogneva) · 个人维护 · 中文 README
+⭐ 38 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hcipengm/cogneva) · 个人维护 · 中文 README
 
 **分布式 AI 多智能体自治系统：自启动、自运行、自进化的数字员工框架**
 
@@ -45,13 +45,13 @@ Rust 编写的分布式 AI 多智能体自治系统，围绕三阶段能力组�
 
 ```mermaid
 xychart-beta
-    title "hcipengm/cogneva 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "hcipengm/cogneva 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 31 --> 39
+    line [32, 33, 34, 36, 37, 38, 38]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 38（+6）
 
 
 ---

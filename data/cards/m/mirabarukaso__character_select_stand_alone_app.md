@@ -1,6 +1,6 @@
 # mirabarukaso/character_select_stand_alone_app
 
-⭐ 644 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mirabarukaso/character_select_stand_alone_app) · 个人维护
+⭐ 656 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mirabarukaso/character_select_stand_alone_app) · 个人维护
 
 **面向 ComfyUI/Forge 的角色选择与提示词构建桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirabarukaso/character_select_stand_alone_app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 636 --> 645
-    line [637, 638, 639, 640, 641, 642, 644, 644]
+    title "mirabarukaso/character_select_stand_alone_app 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 636 --> 657
+    line [637, 638, 639, 640, 641, 642, 644, 640, 651, 652, 653, 655, 656, 656]
 ```
 
-2026-10-18 637 → 2026-11-02 644（+7）
+2026-10-18 637 → 2026-11-17 656（+19）
 
 
 ---

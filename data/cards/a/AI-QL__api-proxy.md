@@ -1,6 +1,6 @@
 # AI-QL/api-proxy
 
-⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/AI-QL/api-proxy) · [官网](https://api.aiql.com/) · 组织维护
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/AI-QL/api-proxy) · [官网](https://api.aiql.com/) · 组织维护
 
 **API 网关代理：解决地域限制、CORS 与 TLS 校验下的 API 访问**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI-QL/api-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "AI-QL/api-proxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

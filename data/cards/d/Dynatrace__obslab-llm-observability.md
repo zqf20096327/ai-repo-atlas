@@ -1,6 +1,6 @@
 # Dynatrace/obslab-llm-observability
 
-⭐ 19 · HTML · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/Dynatrace/obslab-llm-observability) · [官网](https://dynatrace.github.io/obslab-llm-observability/) · 组织维护
+⭐ 19 · HTML · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Dynatrace/obslab-llm-observability) · [官网](https://dynatrace.github.io/obslab-llm-observability/) · 组织维护
 
 **Dynatrace 的旅行建议 LLM 演示应用，展示 AI 可观测性**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Dynatrace/obslab-llm-observability 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

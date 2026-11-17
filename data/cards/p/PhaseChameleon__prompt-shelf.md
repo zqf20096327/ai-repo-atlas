@@ -1,6 +1,6 @@
 # PhaseChameleon/prompt-shelf
 
-⭐ 29 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/PhaseChameleon/prompt-shelf) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 本地提示词库：标签、全文搜索、变量填写与一键复制**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PhaseChameleon/prompt-shelf 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02"]
+    title "PhaseChameleon/prompt-shelf 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 8 --> 32
-    line [10, 18, 30, 29, 29]
+    line [10, 18, 30, 29, 30, 30]
 ```
 
-2026-10-22 10 → 2026-11-02 29（+19）
+2026-10-22 10 → 2026-11-07 30（+20）
 
 
 ---

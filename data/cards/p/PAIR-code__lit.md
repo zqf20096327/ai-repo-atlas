@@ -1,6 +1,6 @@
 # PAIR-code/lit
 
-⭐ 3,671 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/PAIR-code/lit) · [官网](https://pair-code.github.io/lit) · 组织维护
+⭐ 3,672 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/PAIR-code/lit) · [官网](https://pair-code.github.io/lit) · 组织维护
 
 **可视化交互式 ML 模型理解与调试工具，支持文本/图像/表格数据**
 
@@ -46,13 +46,13 @@ LIT（Learning Interpretability Tool，前身为 Language Interpretability Tool�
 
 ```mermaid
 xychart-beta
-    title "PAIR-code/lit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 3668 --> 3672
-    line [3669, 3670, 3671, 3671]
+    title "PAIR-code/lit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 3668 --> 3674
+    line [3669, 3670, 3671, 3669, 3671, 3672, 3673, 3672, 3672]
 ```
 
-2026-10-18 3,669 → 2026-11-02 3,671（+2）
+2026-10-18 3,669 → 2026-11-17 3,672（+3）
 
 
 ---

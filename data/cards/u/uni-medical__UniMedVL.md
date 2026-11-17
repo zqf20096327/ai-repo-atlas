@@ -1,6 +1,6 @@
 # uni-medical/UniMedVL
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/uni-medical/UniMedVL) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/uni-medical/UniMedVL) · 组织维护
 
 **医学多模态基础模型：单一 14B 检查点统一理解与生成**
 
@@ -44,13 +44,13 @@ UniMedVL 是 ICML 2026 论文的官方实现，为统一医学视觉-语言基�
 
 ```mermaid
 xychart-beta
-    title "uni-medical/UniMedVL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    title "uni-medical/UniMedVL 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 113, 113]
 ```
 
-2026-10-18 111 → 2026-11-02 112（+1）
+2026-10-18 111 → 2026-11-17 113（+2）
 
 
 ---

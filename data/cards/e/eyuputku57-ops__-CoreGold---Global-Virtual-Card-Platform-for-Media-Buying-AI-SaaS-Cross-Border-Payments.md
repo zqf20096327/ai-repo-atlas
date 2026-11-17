@@ -1,6 +1,6 @@
 # eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments
 
-⭐ 36 · 推送 2026-10-28 · [GitHub](https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 115 · 推送 2026-10-28 · [GitHub](https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向出海团队的 Visa/Mastercard 虚拟卡服务：USDT 充值开卡、多卡隔离**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 38
-    line [12, 22, 32, 36, 36]
+    title "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments 星数(近 12 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2 --> 129
+    line [12, 22, 32, 36, 74, 95, 109, 114, 119, 118, 115, 115]
 ```
 
-2026-10-29 12 → 2026-11-02 36（+24）
+2026-10-29 12 → 2026-11-17 115（+103）
 
 
 ---

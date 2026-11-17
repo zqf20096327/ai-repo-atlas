@@ -1,6 +1,6 @@
 # anderson-ntlabs/cidadao.ai-backend
 
-⭐ 35 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/anderson-ntlabs/cidadao.ai-backend) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/anderson-ntlabs/cidadao.ai-backend) · [官网](https://anderson-ntlabs.github.io/cidadao.ai-technical-docs/docs/intro) · 个人维护
 
 **巴西政府透明度数据的多智能体分析后端 API**
 
@@ -46,12 +46,12 @@ Cidadão.AI 的 FastAPI 后端：以 20 个具巴西文化身份命名的 AI 智
 ```mermaid
 xychart-beta
     title "anderson-ntlabs/cidadao.ai-backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

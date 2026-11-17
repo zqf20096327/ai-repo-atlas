@@ -1,6 +1,6 @@
 # scikit-activeml/scikit-activeml
 
-⭐ 205 · Python · BSD-3-Clause · 推送 2026-11-01 · [GitHub](https://github.com/scikit-activeml/scikit-activeml) · [官网](https://scikit-activeml.github.io) · 组织维护
+⭐ 208 · Python · BSD-3-Clause · 推送 2026-11-12 · [GitHub](https://github.com/scikit-activeml/scikit-activeml) · [官网](https://scikit-activeml.github.io) · 组织维护
 
 **给研究者的 Python 主动学习库：用更少标注达到高性能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "scikit-activeml/scikit-activeml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 202 --> 206
-    line [203, 204, 205, 205]
+    title "scikit-activeml/scikit-activeml 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 202 --> 209
+    line [203, 204, 205, 206, 207, 208, 208]
 ```
 
-2026-10-18 203 → 2026-11-02 205（+2）
+2026-10-18 203 → 2026-11-17 208（+5）
 
 
 ---

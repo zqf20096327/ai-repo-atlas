@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kanitvural/aws-data-science-data-engineering-mlops-infra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "kanitvural/aws-data-science-data-engineering-mlops-infra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    line [58, 59, 58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 59（+1）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

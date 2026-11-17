@@ -1,6 +1,6 @@
 # WaveSpeedAI/wavespeed-comfyui
 
-⭐ 65 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/WaveSpeedAI/wavespeed-comfyui) · [官网](https://wavespeed.ai) · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/WaveSpeedAI/wavespeed-comfyui) · [官网](https://wavespeed.ai) · 组织维护
 
 **ComfyUI 插件：在节点工作流中调用 WaveSpeed 托管的 600+ 图像/视频模型**
 
@@ -45,13 +45,13 @@ WaveSpeed AI 官方的 ComfyUI 自定义节点插件：通过单一 Predictor �
 
 ```mermaid
 xychart-beta
-    title "WaveSpeedAI/wavespeed-comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    title "WaveSpeedAI/wavespeed-comfyui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [65, 64, 64]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 64（-1）
 
 
 ---

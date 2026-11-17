@@ -1,6 +1,6 @@
 # oren-cohen/whatsmybitrate
 
-⭐ 29 · Python · 推送 2026-07-08 · [GitHub](https://github.com/oren-cohen/whatsmybitrate) · [官网](https://whatsmybitrate.com) · 个人维护
+⭐ 32 · Python · 推送 2026-07-08 · [GitHub](https://github.com/oren-cohen/whatsmybitrate) · [官网](https://whatsmybitrate.com) · 个人维护
 
 **批量分析音频文件质量指标并生成频谱图的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oren-cohen/whatsmybitrate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 30
-    line [27, 29]
+    title "oren-cohen/whatsmybitrate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 33
+    line [27, 29, 27, 31, 32, 32]
 ```
 
-2026-10-18 27 → 2026-11-02 29（+2）
+2026-10-18 27 → 2026-11-17 32（+5）
 
 
 ---

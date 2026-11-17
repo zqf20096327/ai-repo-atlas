@@ -1,6 +1,6 @@
 # martinobettucci/NodeFlow-Ai-IDE
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-06-15 · [GitHub](https://github.com/martinobettucci/NodeFlow-Ai-IDE) · [官网](https://nodeflow-ide.netlify.app/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-06-15 · [GitHub](https://github.com/martinobettucci/NodeFlow-Ai-IDE) · [官网](https://nodeflow-ide.netlify.app/) · 个人维护 · 中文 README
 
 **可视化节点式 AI 工作流 IDE，浏览器端连接后端节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "martinobettucci/NodeFlow-Ai-IDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "martinobettucci/NodeFlow-Ai-IDE 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

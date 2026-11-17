@@ -1,6 +1,6 @@
 # ArthurBernard/Fynance
 
-⭐ 26 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/ArthurBernard/Fynance) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/ArthurBernard/Fynance) · 个人维护
 
 **面向金融回测的机器学习/计量经济学 Python 工具库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArthurBernard/Fynance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "ArthurBernard/Fynance 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

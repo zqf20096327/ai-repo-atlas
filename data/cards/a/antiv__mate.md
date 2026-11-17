@@ -1,6 +1,6 @@
 # antiv/mate
 
-⭐ 95 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/antiv/mate) · [官网](https://antonijevic.rs/mate) · 个人维护
+⭐ 112 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/antiv/mate) · [官网](https://antonijevic.rs/mate) · 个人维护
 
 **自托管多 agent 编排与治理平台：仪表盘改配置无需重部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "antiv/mate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 92 --> 96
-    line [93, 95, 95]
+    title "antiv/mate 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 92 --> 113
+    line [93, 95, 93, 110, 111, 112, 112]
 ```
 
-2026-10-18 93 → 2026-11-02 95（+2）
+2026-10-18 93 → 2026-11-17 112（+19）
 
 
 ---

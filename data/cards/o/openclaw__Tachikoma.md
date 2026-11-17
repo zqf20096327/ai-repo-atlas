@@ -1,6 +1,6 @@
 # openclaw/Tachikoma
 
-⭐ 301 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openclaw/Tachikoma) · [官网](http://tachikoma.build) · 组织维护
+⭐ 303 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openclaw/Tachikoma) · [官网](http://tachikoma.build) · 组织维护
 
 **Swift 统一 AI SDK：一套类型安全接口接入多家模型服务商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openclaw/Tachikoma 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 297 --> 302
-    line [298, 299, 300, 301, 301]
+    title "openclaw/Tachikoma 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 297 --> 304
+    line [298, 299, 300, 301, 299, 301, 302, 303, 303]
 ```
 
-2026-10-18 298 → 2026-11-02 301（+3）
+2026-10-18 298 → 2026-11-17 303（+5）
 
 
 ---

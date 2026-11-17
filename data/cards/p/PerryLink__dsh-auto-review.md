@@ -1,6 +1,6 @@
 # PerryLink/dsh-auto-review
 
-⭐ 245 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://perrylink.github.io/plugins/dsh-auto-review/) · 个人维护 · 中文 README
+⭐ 250 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://www.npmjs.com/package/dsh-auto-review) · 个人维护 · 中文 README
 
 **DeepSeek Harness 审批链插件：第二模型自动评审 allow/deny**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-auto-review 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 233 --> 246
-    line [234, 235, 236, 234, 235, 239, 240, 241, 242, 244, 245, 245]
+    title "PerryLink/dsh-auto-review 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 233 --> 251
+    line [234, 235, 236, 234, 235, 239, 240, 241, 242, 244, 245, 239, 247, 248, 249, 250, 250]
 ```
 
-2026-10-18 234 → 2026-11-02 245（+11）
+2026-10-18 234 → 2026-11-17 250（+16）
 
 
 ---

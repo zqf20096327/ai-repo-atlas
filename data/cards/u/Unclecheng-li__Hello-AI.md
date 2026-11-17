@@ -1,6 +1,6 @@
 # Unclecheng-li/Hello-AI
 
-⭐ 71 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Unclecheng-li/Hello-AI) · [官网](https://hello-ai.seekstar.ai) · 个人维护 · 中文 README
+⭐ 77 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Unclecheng-li/Hello-AI) · [官网](https://hello-ai.seekstar.ai) · 个人维护 · 中文 README
 
 **面向中文 AI 小白的 LLM 入门知识站与学习路径**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Unclecheng-li/Hello-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 69 --> 72
-    line [71, 70, 71, 71]
+    title "Unclecheng-li/Hello-AI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 69 --> 78
+    line [71, 70, 71, 70, 75, 76, 77, 77]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 77（+6）
 
 
 ---

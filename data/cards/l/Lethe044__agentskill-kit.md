@@ -1,6 +1,6 @@
 # Lethe044/agentskill-kit
 
-⭐ 48 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Lethe044/agentskill-kit) · [官网](https://lethe044.github.io/agentskill-kit/) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Lethe044/agentskill-kit) · [官网](https://lethe044.github.io/agentskill-kit/) · 个人维护
 
 **给开发者：编码代理 SKILL.md 技能的检查、生成与跨代理导出 CLI 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lethe044/agentskill-kit 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "Lethe044/agentskill-kit 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 51, 51]
 ```
 
-2026-10-26 48 → 2026-11-02 48（+0）
+2026-10-26 48 → 2026-11-17 51（+3）
 
 
 ---

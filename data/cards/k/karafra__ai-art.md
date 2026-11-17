@@ -1,6 +1,6 @@
 # karafra/ai-art
 
-⭐ 73 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/karafra/ai-art) · [官网](https://karafra.github.io/ai-art/) · 个人维护
+⭐ 71 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/karafra/ai-art) · [官网](https://karafra.github.io/ai-art/) · 个人维护
 
 **Discord 机器人：按查询生成 AI 图像拼贴**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "karafra/ai-art 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "karafra/ai-art 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 70 --> 74
+    line [73, 71, 71]
 ```
 
-2026-10-26 73 → 2026-11-02 73（+0）
+2026-10-26 73 → 2026-11-17 71（-2）
 
 
 ---

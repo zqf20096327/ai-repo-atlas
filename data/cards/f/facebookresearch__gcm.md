@@ -1,6 +1,6 @@
 # facebookresearch/gcm
 
-⭐ 243 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/facebookresearch/gcm) · [官网](https://facebookresearch.github.io/gcm/) · 组织维护
+⭐ 246 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/facebookresearch/gcm) · [官网](https://facebookresearch.github.io/gcm/) · 组织维护
 
 **面向 HPC 集群的 GPU 大规模监控工具集**
 
@@ -44,13 +44,13 @@ Meta FAIR 开源的 GPU 集群监控工具集，用于支撑数十万 GPU 规模
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/gcm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 239 --> 244
-    line [240, 241, 242, 243]
+    title "facebookresearch/gcm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 239 --> 247
+    line [240, 241, 242, 243, 242, 246, 245, 246, 246]
 ```
 
-2026-10-18 240 → 2026-11-02 243（+3）
+2026-10-18 240 → 2026-11-17 246（+6）
 
 
 ---

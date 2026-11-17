@@ -1,6 +1,6 @@
 # eugeniughelbur/doceo
 
-⭐ 16 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/eugeniughelbur/doceo) · 个人维护
+⭐ 17 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/eugeniughelbur/doceo) · 个人维护
 
 **Claude Code 个人学习技能：把任意主题变为一屏可视化课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eugeniughelbur/doceo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "eugeniughelbur/doceo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 14, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

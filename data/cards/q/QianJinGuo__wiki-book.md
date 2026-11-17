@@ -1,6 +1,6 @@
 # QianJinGuo/wiki-book
 
-⭐ 13 · Mermaid · MIT · 推送 2026-11-01 · [GitHub](https://github.com/QianJinGuo/wiki-book) · [官网](https://jinguo.tech) · 个人维护 · 中文 README
+⭐ 16 · Mermaid · MIT · 推送 2026-11-08 · [GitHub](https://github.com/QianJinGuo/wiki-book) · [官网](https://jinguo.tech) · 个人维护 · 中文 README
 
 **开源 AI 工程书籍：从 LLM 基础到生产级 Agent 的学习路径**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QianJinGuo/wiki-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "QianJinGuo/wiki-book 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # newideas99/open-dungeon
 
-⭐ 238 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/newideas99/open-dungeon) · 个人维护
+⭐ 241 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/newideas99/open-dungeon) · 个人维护
 
 **给互动小说玩家的全本地 AI 角色扮演写作应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "newideas99/open-dungeon 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 236 --> 239
-    line [238, 237, 238, 237, 238, 238]
+    title "newideas99/open-dungeon 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 236 --> 242
+    line [238, 237, 238, 237, 238, 237, 240, 241, 241]
 ```
 
-2026-10-18 238 → 2026-11-02 238（+0）
+2026-10-18 238 → 2026-11-17 241（+3）
 
 
 ---

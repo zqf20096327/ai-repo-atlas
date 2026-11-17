@@ -1,6 +1,6 @@
 # prosperitypirate/codexfi
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/prosperitypirate/codexfi) · [官网](https://codexfi.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 OpenCode AI 编程代理提供跨会话持久记忆的插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "prosperitypirate/codexfi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-12 11（+0）
 
 
 ---

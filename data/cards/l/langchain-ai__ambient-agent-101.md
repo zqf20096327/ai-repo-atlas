@@ -1,6 +1,6 @@
 # langchain-ai/ambient-agent-101
 
-⭐ 35 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/ambient-agent-101) · 组织维护
+⭐ 35 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/ambient-agent-101) · 组织维护
 
 **通过构建环境邮件助手学习 LangGraph 基础的教程仓库**
 
@@ -45,12 +45,12 @@ LangChain 官方的教学仓库，是 LangChain Academy 内容的浓缩版，面
 ```mermaid
 xychart-beta
     title "langchain-ai/ambient-agent-101 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

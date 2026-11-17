@@ -1,6 +1,6 @@
 # microsoft/AutoGenesis
 
-⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/AutoGenesis) · 组织维护 · 中文 README
+⭐ 138 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/AutoGenesis) · 组织维护 · 中文 README
 
 **微软的 MCP 自动化测试框架，覆盖桌面与移动应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AutoGenesis 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 135 --> 138
-    line [136, 137, 136, 137, 137]
+    title "microsoft/AutoGenesis 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 135 --> 139
+    line [136, 137, 136, 137, 138, 138]
 ```
 
-2026-10-18 136 → 2026-11-02 137（+1）
+2026-10-18 136 → 2026-11-17 138（+2）
 
 
 ---

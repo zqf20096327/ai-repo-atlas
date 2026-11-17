@@ -1,6 +1,6 @@
 # carldaws/hunch
 
-⭐ 20 · Ruby · MIT · 推送 2026-09-25 · [GitHub](https://github.com/carldaws/hunch) · 个人维护
+⭐ 13 · Ruby · MIT · 推送 2026-09-25 · [GitHub](https://github.com/carldaws/hunch) · 个人维护
 
 **Ruby/Rails 概率决策库：用自然语言提问获取校准概率**
 
@@ -45,13 +45,13 @@ Ruby gem，为 Ruby 与 Rails 应用提供概率式控制流：以英文问句�
 
 ```mermaid
 xychart-beta
-    title "carldaws/hunch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "carldaws/hunch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 21
+    line [19, 20, 13, 13]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 13（-6）
 
 
 ---

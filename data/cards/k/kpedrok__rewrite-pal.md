@@ -1,6 +1,6 @@
 # kpedrok/rewrite-pal
 
-⭐ 69 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/kpedrok/rewrite-pal) · [官网](https://www.rewritepal.com) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/kpedrok/rewrite-pal) · [官网](https://www.rewritepal.com) · 个人维护
 
 **AI 文本改写助手：保留原意，支持语气/角色/语言选项**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kpedrok/rewrite-pal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "kpedrok/rewrite-pal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 67 --> 70
-    line [68, 69, 69]
+    line [68, 69, 68, 68]
 ```
 
-2026-10-18 68 → 2026-11-02 69（+1）
+2026-10-18 68 → 2026-11-17 68（+0）
 
 
 ---

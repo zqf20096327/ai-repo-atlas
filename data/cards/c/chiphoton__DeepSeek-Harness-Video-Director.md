@@ -1,6 +1,6 @@
 # chiphoton/DeepSeek-Harness-Video-Director
 
-⭐ 68 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/chiphoton/DeepSeek-Harness-Video-Director) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/chiphoton/DeepSeek-Harness-Video-Director) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的可视化视频生产插件：画布式编排多源生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chiphoton/DeepSeek-Harness-Video-Director 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "chiphoton/DeepSeek-Harness-Video-Director 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
     y-axis "stars" 64 --> 77
-    line [76, 65, 66, 67, 68, 68]
+    line [76, 65, 66, 67, 68, 65, 69, 70, 71, 72, 72]
 ```
 
-2026-10-18 76 → 2026-11-02 68（-8）
+2026-10-18 76 → 2026-11-17 72（-4）
 
 
 ---

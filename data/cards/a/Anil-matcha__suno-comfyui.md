@@ -1,6 +1,6 @@
 # Anil-matcha/suno-comfyui
 
-⭐ 23 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Anil-matcha/suno-comfyui) · [官网](https://muapi.ai) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Anil-matcha/suno-comfyui) · [官网](https://muapi.ai) · 个人维护
 
 **ComfyUI 的 Suno 音乐生成自定义节点包，经 muapi.ai API 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/suno-comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "Anil-matcha/suno-comfyui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

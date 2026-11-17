@@ -1,6 +1,6 @@
 # mamei16/LLM_Web_search
 
-⭐ 284 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/mamei16/LLM_Web_search) · 个人维护
+⭐ 286 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/mamei16/LLM_Web_search) · 个人维护
 
 **为 text-generation-webui 本地 LLM 增加联网搜索能力的扩展**
 
@@ -44,13 +44,13 @@ oobabooga/text-generation-webui 的扩展：让本地 LLM 通过原生工具调�
 
 ```mermaid
 xychart-beta
-    title "mamei16/LLM_Web_search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 283 --> 285
-    line [284, 284]
+    title "mamei16/LLM_Web_search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 283 --> 287
+    line [284, 286, 286]
 ```
 
-2026-10-18 284 → 2026-11-02 284（+0）
+2026-10-18 284 → 2026-11-17 286（+2）
 
 
 ---

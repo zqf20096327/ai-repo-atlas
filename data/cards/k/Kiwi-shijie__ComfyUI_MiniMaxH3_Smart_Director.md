@@ -1,6 +1,6 @@
 # Kiwi-shijie/ComfyUI_MiniMaxH3_Smart_Director
 
-⭐ 21 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Kiwi-shijie/ComfyUI_MiniMaxH3_Smart_Director) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Kiwi-shijie/ComfyUI_MiniMaxH3_Smart_Director) · 个人维护 · 中文 README
 
 **ComfyUI 中文节点：MiniMax H3 视频分镜规划与一体化生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kiwi-shijie/ComfyUI_MiniMaxH3_Smart_Director 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "Kiwi-shijie/ComfyUI_MiniMaxH3_Smart_Director 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

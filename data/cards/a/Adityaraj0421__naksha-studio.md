@@ -1,6 +1,6 @@
 # Adityaraj0421/naksha-studio
 
-⭐ 350 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Adityaraj0421/naksha-studio) · [官网](https://github.com/Adityaraj0421/naksha-studio/releases/latest) · 个人维护
+⭐ 355 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Adityaraj0421/naksha-studio) · [官网](https://github.com/Adityaraj0421/naksha-studio/releases/latest) · 个人维护
 
 **面向 AI 编码 CLI 的虚拟设计团队插件（30 角色、70 命令）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adityaraj0421/naksha-studio 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 322 --> 352
-    line [324, 342, 344, 345, 348, 349, 350, 350]
+    title "Adityaraj0421/naksha-studio 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 321 --> 358
+    line [324, 342, 344, 345, 348, 349, 350, 348, 353, 355, 354, 355, 355]
 ```
 
-2026-10-18 324 → 2026-11-02 350（+26）
+2026-10-18 324 → 2026-11-17 355（+31）
 
 
 ---

@@ -1,6 +1,6 @@
 # Veloresearch/impulse
 
-⭐ 34 · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Veloresearch/impulse) · [官网](https://veloresearch.com/impulse) · 组织维护
+⭐ 35 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Veloresearch/impulse) · [官网](https://veloresearch.com/impulse) · 组织维护
 
 **本地运行 GGUF 模型的桌面应用：长记忆、电脑操作与 OpenAI 兼容 API**
 
@@ -46,13 +46,13 @@ Velocity 公司开发的 Windows/Linux 桌面应用，加载任意 GGUF 模型�
 
 ```mermaid
 xychart-beta
-    title "Veloresearch/impulse 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "Veloresearch/impulse 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-29 34 → 2026-11-02 34（+0）
+2026-10-29 34 → 2026-11-17 35（+1）
 
 
 ---

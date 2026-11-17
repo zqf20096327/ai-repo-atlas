@@ -1,6 +1,6 @@
 # DLS5-Omics/multimolecule
 
-⭐ 58 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DLS5-Omics/multimolecule) · [官网](https://multimolecule.danling.org/) · 组织维护
+⭐ 59 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/DLS5-Omics/multimolecule) · [官网](https://multimolecule.danling.org/) · 组织维护
 
 **分子机器学习一站式生态系统，覆盖 RNA/DNA/蛋白质任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DLS5-Omics/multimolecule 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    title "DLS5-Omics/multimolecule 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 57, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

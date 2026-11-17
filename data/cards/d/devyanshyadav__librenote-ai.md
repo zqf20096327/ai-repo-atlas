@@ -1,6 +1,6 @@
 # devyanshyadav/librenote-ai
 
-⭐ 18 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/devyanshyadav/librenote-ai) · [官网](https://librenote-ai.vercel.app) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/devyanshyadav/librenote-ai) · [官网](https://librenote-ai.vercel.app) · 个人维护
 
 **自托管的 NotebookLM 替代品：上传资料对话并生成学习产物**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devyanshyadav/librenote-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "devyanshyadav/librenote-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

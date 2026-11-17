@@ -1,6 +1,6 @@
 # agent-sh/agentsys
 
-⭐ 1,011 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/agent-sh/agentsys) · [官网](https://agent-sh.github.io/agentsys/) · 组织维护
+⭐ 1,018 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/agent-sh/agentsys) · [官网](https://agent-sh.github.io/agentsys/) · 组织维护
 
 **面向 Claude Code/Codex/Cursor 等的 agent 编排运行时与插件市场**
 
@@ -45,13 +45,13 @@ AgentSys 是一个模块化的 AI agent 编排运行时：将 25 个插件（各
 
 ```mermaid
 xychart-beta
-    title "agent-sh/agentsys 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1002 --> 1012
-    line [1003, 1004, 1005, 1007, 1009, 1010, 1011]
+    title "agent-sh/agentsys 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1002 --> 1019
+    line [1003, 1004, 1005, 1007, 1009, 1010, 1011, 1007, 1012, 1014, 1016, 1017, 1018, 1018]
 ```
 
-2026-10-18 1,003 → 2026-11-02 1,011（+8）
+2026-10-18 1,003 → 2026-11-17 1,018（+15）
 
 
 ---

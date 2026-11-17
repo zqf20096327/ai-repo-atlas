@@ -1,6 +1,6 @@
 # mukul975/mcp-windows-automation
 
-⭐ 60 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/mukul975/mcp-windows-automation) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/mukul975/mcp-windows-automation) · 个人维护
 
 **通过 MCP 让 AI 助手控制 Windows 的自动化服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mukul975/mcp-windows-automation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    title "mukul975/mcp-windows-automation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 58 --> 63
+    line [59, 60, 61, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-02 60（+1）
+2026-10-18 59 → 2026-11-17 62（+3）
 
 
 ---

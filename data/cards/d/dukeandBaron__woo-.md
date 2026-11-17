@@ -1,6 +1,6 @@
 # dukeandBaron/woo-
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/dukeandBaron/woo-) · [官网](https://dukeandbaron.github.io/woo-/) · 组织维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/dukeandBaron/woo-) · [官网](https://dukeandbaron.github.io/woo-/) · 组织维护 · 中文 README
 
 **工业视觉数据的治理与发布门禁 Agent，证据先行、失败即关闭**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dukeandBaron/woo- 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

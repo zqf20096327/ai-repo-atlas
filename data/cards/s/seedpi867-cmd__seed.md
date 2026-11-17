@@ -1,6 +1,6 @@
 # seedpi867-cmd/seed
 
-⭐ 13 · Assembly · MIT · 推送 2026-05-17 · [GitHub](https://github.com/seedpi867-cmd/seed) · [官网](https://seed-brain.vercel.app) · 个人维护
+⭐ 14 · Assembly · MIT · 推送 2026-05-17 · [GitHub](https://github.com/seedpi867-cmd/seed) · [官网](https://seed-brain.vercel.app) · 个人维护
 
 **在树莓派上 24/7 自主运行的自进化 AI Agent**
 
@@ -45,13 +45,13 @@ Seed 是一个运行在 Raspberry Pi Zero 2W 上的自主 AI Agent：bash 循环
 
 ```mermaid
 xychart-beta
-    title "seedpi867-cmd/seed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "seedpi867-cmd/seed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AprilNEA/BYOKEY
 
-⭐ 138 · Rust · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/AprilNEA/BYOKEY) · 个人维护 · 中文 README
+⭐ 141 · Rust · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/AprilNEA/BYOKEY) · 个人维护 · 中文 README
 
 **本地网关：把 AI 订阅（Copilot/Cursor/Claude 等）转为标准 API 端点**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AprilNEA/BYOKEY 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 137 --> 140
-    line [138, 139, 138, 138]
+    title "AprilNEA/BYOKEY 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 137 --> 142
+    line [138, 139, 138, 140, 141, 141]
 ```
 
-2026-10-18 138 → 2026-11-02 138（+0）
+2026-10-18 138 → 2026-11-17 141（+3）
 
 
 ---

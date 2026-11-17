@@ -1,6 +1,6 @@
 # nicglazkov/Chalkboard
 
-⭐ 15 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nicglazkov/Chalkboard) · [官网](https://chalkboard.studio/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nicglazkov/Chalkboard) · [官网](https://chalkboard.studio/) · 个人维护
 
 **自托管流水线：把一个主题生成为带旁白的 LaTeX 级数学讲解视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicglazkov/Chalkboard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 12, 14, 15, 15]
+    title "nicglazkov/Chalkboard 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 24
+    line [10, 11, 12, 14, 15, 14, 19, 20, 22, 23, 23]
 ```
 
-2026-10-18 10 → 2026-11-02 15（+5）
+2026-10-18 10 → 2026-11-17 23（+13）
 
 
 ---

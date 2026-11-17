@@ -1,6 +1,6 @@
 # majiayu000/vibeguard
 
-⭐ 44 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/majiayu000/vibeguard) · [官网](https://majiayu000.github.io/vibeguard/) · 个人维护 · 中文 README
+⭐ 43 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/majiayu000/vibeguard) · [官网](https://majiayu000.github.io/vibeguard/) · 个人维护 · 中文 README
 
 **Rust CLI：为编码 agent 提供规则库与 Bash/Git 防护钩子**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "majiayu000/vibeguard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "majiayu000/vibeguard 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43, 43]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 43（+0）
 
 
 ---

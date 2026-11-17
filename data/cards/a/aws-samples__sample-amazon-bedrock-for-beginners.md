@@ -1,6 +1,6 @@
 # aws-samples/sample-amazon-bedrock-for-beginners
 
-⭐ 59 · Python · MIT-0 · 推送 2026-07-15 · [GitHub](https://github.com/aws-samples/sample-amazon-bedrock-for-beginners) · 组织维护
+⭐ 62 · Python · MIT-0 · 推送 2026-07-15 · [GitHub](https://github.com/aws-samples/sample-amazon-bedrock-for-beginners) · 组织维护
 
 **Amazon Bedrock 入门教程代码集：从首个 API 调用到构建 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-amazon-bedrock-for-beginners 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 56 --> 60
-    line [57, 59, 59]
+    title "aws-samples/sample-amazon-bedrock-for-beginners 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 63
+    line [57, 59, 61, 62, 62]
 ```
 
-2026-10-18 57 → 2026-11-02 59（+2）
+2026-10-18 57 → 2026-11-17 62（+5）
 
 
 ---

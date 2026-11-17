@@ -1,6 +1,6 @@
 # Agent-One-Lab/AgentFly
 
-⭐ 122 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Agent-One-Lab/AgentFly) · 组织维护 · 中文 README
+⭐ 123 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/Agent-One-Lab/AgentFly) · 组织维护 · 中文 README
 
 **用强化学习训练 LLM agent 的可扩展框架（多轮、多模态）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agent-One-Lab/AgentFly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 121 --> 123
-    line [122, 122]
+    title "Agent-One-Lab/AgentFly 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 121 --> 124
+    line [122, 123, 123]
 ```
 
-2026-10-18 122 → 2026-11-02 122（+0）
+2026-10-18 122 → 2026-11-17 123（+1）
 
 
 ---

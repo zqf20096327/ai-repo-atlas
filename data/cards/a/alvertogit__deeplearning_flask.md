@@ -1,6 +1,6 @@
 # alvertogit/deeplearning_flask
 
-⭐ 21 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/alvertogit/deeplearning_flask) · 个人维护
+⭐ 21 · Jupyter Notebook · 推送 2026-11-15 · [GitHub](https://github.com/alvertogit/deeplearning_flask) · 个人维护
 
 **用 Flask 将 MNIST 深度学习模型部署为微服务的演示项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alvertogit/deeplearning_flask 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

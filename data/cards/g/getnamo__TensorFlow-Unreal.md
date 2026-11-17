@@ -1,6 +1,6 @@
 # getnamo/TensorFlow-Unreal
 
-⭐ 1,221 · C++ · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/getnamo/TensorFlow-Unreal) · 个人维护
+⭐ 1,224 · C++ · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/getnamo/TensorFlow-Unreal) · 个人维护
 
 **在 Unreal Engine 中运行/训练 TensorFlow 模型的插件（蓝图+C++）**
 
@@ -44,13 +44,13 @@ Unreal Engine 5.8 的 TensorFlow/Keras 插件：用户用 Python 编写模型脚
 
 ```mermaid
 xychart-beta
-    title "getnamo/TensorFlow-Unreal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1219 --> 1222
-    line [1220, 1221, 1221]
+    title "getnamo/TensorFlow-Unreal 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 1219 --> 1225
+    line [1220, 1221, 1220, 1223, 1224, 1224]
 ```
 
-2026-10-18 1,220 → 2026-11-02 1,221（+1）
+2026-10-18 1,220 → 2026-11-17 1,224（+4）
 
 
 ---

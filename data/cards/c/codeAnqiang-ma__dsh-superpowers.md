@@ -1,6 +1,6 @@
 # codeAnqiang-ma/dsh-superpowers
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/codeAnqiang-ma/dsh-superpowers) · 个人维护
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/codeAnqiang-ma/dsh-superpowers) · 个人维护
 
 **为 DeepSeek Harness 移植 obra/superpowers 技能集的插件**
 
@@ -45,13 +45,13 @@ DeepSeek Harness（dsh）的插件：将 obra/superpowers v6.3.0 的 14 个技�
 
 ```mermaid
 xychart-beta
-    title "codeAnqiang-ma/dsh-superpowers 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-11-02"]
+    title "codeAnqiang-ma/dsh-superpowers 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 11, 12, 12]
 ```
 
-2026-10-19 10 → 2026-11-02 12（+2）
+2026-10-19 10 → 2026-11-17 12（+2）
 
 
 ---

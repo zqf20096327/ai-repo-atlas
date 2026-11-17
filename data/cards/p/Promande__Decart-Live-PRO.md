@@ -1,6 +1,6 @@
 # Promande/Decart-Live-PRO
 
-⭐ 13 · NOASSERTION · 推送 2026-07-25 · [GitHub](https://github.com/Promande/Decart-Live-PRO) · [官网](https://sdcourse.tb.ru/lucy-edit-decart-ai) · 个人维护
+⭐ 14 · NOASSERTION · 推送 2026-07-25 · [GitHub](https://github.com/Promande/Decart-Live-PRO) · [官网](https://sdcourse.tb.ru/lucy-edit-decart-ai) · 个人维护
 
 **面向直播的实时 AI 换脸与全身变换商业软件（Decart Live PRO）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Promande/Decart-Live-PRO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Promande/Decart-Live-PRO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

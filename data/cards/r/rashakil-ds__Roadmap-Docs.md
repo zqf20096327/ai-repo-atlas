@@ -1,6 +1,6 @@
 # rashakil-ds/Roadmap-Docs
 
-⭐ 1,150 · 推送 2026-10-21 · [GitHub](https://github.com/rashakil-ds/Roadmap-Docs) · [官网](https://www.youtube.com/@StudyMart) · 个人维护
+⭐ 1,158 · 推送 2026-10-21 · [GitHub](https://github.com/rashakil-ds/Roadmap-Docs) · [官网](https://www.youtube.com/@StudyMart) · 个人维护
 
 **数据科学与 AI 职业学习路线图文档合集（11 类岗位）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rashakil-ds/Roadmap-Docs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1145 --> 1151
-    line [1146, 1147, 1148, 1149, 1150]
+    title "rashakil-ds/Roadmap-Docs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1145 --> 1159
+    line [1146, 1147, 1148, 1149, 1150, 1148, 1158, 1158]
 ```
 
-2026-10-18 1,146 → 2026-11-02 1,150（+4）
+2026-10-18 1,146 → 2026-11-17 1,158（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # lizzy-0323/oasisdb
 
-⭐ 98 · Go · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/lizzy-0323/oasisdb) · 个人维护 · 中文 README
+⭐ 99 · Go · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/lizzy-0323/oasisdb) · 个人维护 · 中文 README
 
 **轻量级独立部署向量数据库，支持多索引与 RESTful API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lizzy-0323/oasisdb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "lizzy-0323/oasisdb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

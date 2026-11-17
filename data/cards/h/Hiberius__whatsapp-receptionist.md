@@ -1,6 +1,6 @@
 # Hiberius/whatsapp-receptionist
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Hiberius/whatsapp-receptionist) · [官网](https://github.com/Hiberius/whatsapp-receptionist) · 组织维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Hiberius/whatsapp-receptionist) · [官网](https://github.com/Hiberius/whatsapp-receptionist) · 组织维护
 
 **给欧洲中小商户的开源 WhatsApp AI 前台：自动预约与转人工**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hiberius/whatsapp-receptionist 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 25 --> 31
-    line [26, 27, 28, 29, 30, 30]
+    title "Hiberius/whatsapp-receptionist 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 25 --> 35
+    line [26, 27, 28, 29, 30, 29, 32, 33, 34, 34]
 ```
 
-2026-10-18 26 → 2026-11-02 30（+4）
+2026-10-18 26 → 2026-11-17 34（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # lasermaze/Cellar
 
-⭐ 15 · Swift · MIT · 推送 2026-05-05 · [GitHub](https://github.com/lasermaze/Cellar) · 个人维护
+⭐ 14 · Swift · MIT · 推送 2026-05-05 · [GitHub](https://github.com/lasermaze/Cellar) · 个人维护
 
 **用 AI agent 自动配置 Wine、在 Mac 上运行老 Windows 游戏的工具**
 
@@ -45,13 +45,13 @@ macOS 上的免费开源工具，提供 Web UI 与 CLI，通过 AI agent 自动�
 
 ```mermaid
 xychart-beta
-    title "lasermaze/Cellar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "lasermaze/Cellar 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

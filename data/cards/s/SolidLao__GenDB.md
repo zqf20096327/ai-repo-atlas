@@ -1,6 +1,6 @@
 # SolidLao/GenDB
 
-⭐ 75 · C++ · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/SolidLao/GenDB) · [官网](https://solidlao.github.io/GenDB/) · 组织维护
+⭐ 75 · C++ · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/SolidLao/GenDB) · [官网](https://genlang-v.github.io/GenDB-V/) · 组织维护
 
 **用 LLM 多智能体生成实例优化查询执行代码的查询引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SolidLao/GenDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-11-02 75（+0）
+2026-10-18 75 → 2026-11-17 75（+0）
 
 
 ---

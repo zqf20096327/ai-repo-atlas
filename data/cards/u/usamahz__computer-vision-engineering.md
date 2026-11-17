@@ -1,6 +1,6 @@
 # usamahz/computer-vision-engineering
 
-⭐ 11 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/usamahz/computer-vision-engineering) · [官网](ai.usamah.me) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/usamahz/computer-vision-engineering) · [官网](ai.usamah.me) · 个人维护
 
 **计算机视觉工程化学习路径清单：从光学传感器到生产部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "usamahz/computer-vision-engineering 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 5 --> 12
-    line [6, 8, 10, 11, 11]
+    title "usamahz/computer-vision-engineering 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 5 --> 13
+    line [6, 8, 10, 11, 8, 12, 12]
 ```
 
-2026-10-23 6 → 2026-11-02 11（+5）
+2026-10-23 6 → 2026-11-17 12（+6）
 
 
 ---

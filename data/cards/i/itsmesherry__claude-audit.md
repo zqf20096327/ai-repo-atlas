@@ -1,6 +1,6 @@
 # itsmesherry/claude-audit
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/itsmesherry/claude-audit) · [官网](https://www.npmjs.com/package/claude-audit) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/itsmesherry/claude-audit) · [官网](https://www.npmjs.com/package/claude-audit) · 个人维护
 
 **命令行代码审计工具：静态检查为主，可选 Claude 深度审计**
 
@@ -44,13 +44,13 @@ Node.js 命令行工具，对项目按类别打分并列出带文件、行号与
 
 ```mermaid
 xychart-beta
-    title "itsmesherry/claude-audit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "itsmesherry/claude-audit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

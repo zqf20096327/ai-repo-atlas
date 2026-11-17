@@ -1,6 +1,6 @@
 # DJC-GO-SOLO/Latent-SFT
 
-⭐ 61 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/DJC-GO-SOLO/Latent-SFT) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/DJC-GO-SOLO/Latent-SFT) · 组织维护
 
 **教 LLM 在词表空间潜链中推理的两阶段训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DJC-GO-SOLO/Latent-SFT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "DJC-GO-SOLO/Latent-SFT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

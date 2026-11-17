@@ -1,6 +1,6 @@
 # EnriqueLop/quartier
 
-⭐ 26 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/EnriqueLop/quartier) · 个人维护
+⭐ 28 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/EnriqueLop/quartier) · 个人维护
 
 **把 AI 助手变成本地商家网站改版生意的工作流工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EnriqueLop/quartier 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    title "EnriqueLop/quartier 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 25, 27, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

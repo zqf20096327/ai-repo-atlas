@@ -1,6 +1,6 @@
 # Emmi-AI/noether
 
-⭐ 252 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/Emmi-AI/noether) · [官网](https://emmi.ai/noether-framework) · 组织维护
+⭐ 256 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/Emmi-AI/noether) · [官网](https://emmi.ai/noether-framework) · 组织维护
 
 **面向工程仿真的 Transformer 深度学习框架：构建、训练与运行工业仿真模型**
 
@@ -45,13 +45,13 @@ Emmi AI 开源的 PyTorch 框架，基于面向物理系统优化的 Transformer
 
 ```mermaid
 xychart-beta
-    title "Emmi-AI/noether 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 245 --> 253
-    line [246, 248, 249, 250, 252, 252]
+    title "Emmi-AI/noether 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 245 --> 257
+    line [246, 248, 249, 250, 252, 250, 255, 256, 256]
 ```
 
-2026-10-18 246 → 2026-11-02 252（+6）
+2026-10-18 246 → 2026-11-17 256（+10）
 
 
 ---

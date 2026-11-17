@@ -1,6 +1,6 @@
 # ArtificialAnalysis/StirrupJS
 
-⭐ 23 · HTML · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ArtificialAnalysis/StirrupJS) · [官网](https://stirrupjs.artificialanalysis.ai) · 组织维护
+⭐ 27 · HTML · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ArtificialAnalysis/StirrupJS) · [官网](https://stirrupjs.artificialanalysis.ai) · 组织维护
 
 **TypeScript 轻量级 agent 构建框架（Python Stirrup 的 TS 实现）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArtificialAnalysis/StirrupJS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "ArtificialAnalysis/StirrupJS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

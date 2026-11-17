@@ -1,6 +1,6 @@
 # TianhongDai/reinforcement-learning-algorithms
 
-⭐ 698 · Python · 推送 2025-12-18 · [GitHub](https://github.com/TianhongDai/reinforcement-learning-algorithms) · 个人维护
+⭐ 697 · Python · 推送 2025-12-18 · [GitHub](https://github.com/TianhongDai/reinforcement-learning-algorithms) · 个人维护
 
 **PyTorch 实现的经典深度强化学习算法集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TianhongDai/reinforcement-learning-algorithms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 697 --> 699
-    line [698, 698]
+    title "TianhongDai/reinforcement-learning-algorithms 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 696 --> 699
+    line [698, 697, 697]
 ```
 
-2026-10-18 698 → 2026-11-02 698（+0）
+2026-10-18 698 → 2026-11-17 697（-1）
 
 
 ---

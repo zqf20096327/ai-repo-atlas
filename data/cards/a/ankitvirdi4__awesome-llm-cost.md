@@ -1,6 +1,6 @@
 # ankitvirdi4/awesome-llm-cost
 
-⭐ 13 · CC0-1.0 · 推送 2026-10-04 · [GitHub](https://github.com/ankitvirdi4/awesome-llm-cost) · [官网](https://github.com/ankitvirdi4/awesome-llm-cost) · 个人维护
+⭐ 14 · CC0-1.0 · 推送 2026-10-04 · [GitHub](https://github.com/ankitvirdi4/awesome-llm-cost) · [官网](https://github.com/ankitvirdi4/awesome-llm-cost) · 个人维护
 
 **LLM 生产成本优化工具与论文的策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ankitvirdi4/awesome-llm-cost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "ankitvirdi4/awesome-llm-cost 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

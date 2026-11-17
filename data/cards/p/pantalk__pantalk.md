@@ -1,6 +1,6 @@
 # pantalk/pantalk
 
-⭐ 210 · Go · MIT · 推送 2026-08-13 · [GitHub](https://github.com/pantalk/pantalk) · [官网](https://pantalk.dev) · 组织维护
+⭐ 212 · Go · MIT · 推送 2026-08-13 · [GitHub](https://github.com/pantalk/pantalk) · [官网](https://pantalk.dev) · 组织维护
 
 **把编码 Agent 接入聊天平台的守护进程，两端均可插拔**
 
@@ -44,13 +44,13 @@ Pantalk 是一个本地守护进程 pantalkd，把用户已有的编码 Agent（
 
 ```mermaid
 xychart-beta
-    title "pantalk/pantalk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 206 --> 211
-    line [207, 208, 209, 210, 210]
+    title "pantalk/pantalk 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 206 --> 213
+    line [207, 208, 209, 210, 209, 211, 212, 212]
 ```
 
-2026-10-18 207 → 2026-11-02 210（+3）
+2026-10-18 207 → 2026-11-17 212（+5）
 
 
 ---

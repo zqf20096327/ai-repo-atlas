@@ -1,6 +1,6 @@
 # wwhenxuan/S2Generator
 
-⭐ 151 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/wwhenxuan/S2Generator) · 组织维护
+⭐ 152 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/wwhenxuan/S2Generator) · 组织维护
 
 **生成符号表达式配对时间序列的双模态合成数据工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wwhenxuan/S2Generator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 148 --> 152
-    line [149, 150, 151, 151]
+    title "wwhenxuan/S2Generator 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 148 --> 153
+    line [149, 150, 151, 149, 151, 152, 152]
 ```
 
-2026-10-18 149 → 2026-11-02 151（+2）
+2026-10-18 149 → 2026-11-17 152（+3）
 
 
 ---

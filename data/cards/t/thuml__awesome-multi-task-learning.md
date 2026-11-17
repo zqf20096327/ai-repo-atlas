@@ -1,6 +1,6 @@
 # thuml/awesome-multi-task-learning
 
-⭐ 841 · 推送 2026-03-03 · [GitHub](https://github.com/thuml/awesome-multi-task-learning) · [官网](https://github.com/thuml/awesome-multi-task-learning) · 组织维护
+⭐ 843 · 推送 2026-03-03 · [GitHub](https://github.com/thuml/awesome-multi-task-learning) · [官网](https://github.com/thuml/awesome-multi-task-learning) · 组织维护
 
 **多任务学习（MTL）数据集、代码库与论文的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "thuml/awesome-multi-task-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 840 --> 843
-    line [842, 841, 841]
+    title "thuml/awesome-multi-task-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 840 --> 844
+    line [842, 841, 843, 843]
 ```
 
-2026-10-18 842 → 2026-11-02 841（-1）
+2026-10-18 842 → 2026-11-17 843（+1）
 
 
 ---

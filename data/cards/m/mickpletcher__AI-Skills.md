@@ -1,6 +1,6 @@
 # mickpletcher/AI-Skills
 
-⭐ 20 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mickpletcher/AI-Skills) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/mickpletcher/AI-Skills) · 个人维护
 
 **多平台 AI 技能库：为 Claude/ChatGPT/Copilot 等提供可复用技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mickpletcher/AI-Skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "mickpletcher/AI-Skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

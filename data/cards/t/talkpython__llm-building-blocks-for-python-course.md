@@ -1,6 +1,6 @@
 # talkpython/llm-building-blocks-for-python-course
 
-⭐ 17 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/talkpython/llm-building-blocks-for-python-course) · [官网](https://training.talkpython.fm/courses/llm-building-blocks-for-python) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Python LLM 集成视频课程：结构化输出、异步与缓存实践**
 
@@ -11,7 +11,7 @@ Talk Python 出品的 1.2 小时付费视频课程配套仓库，面向 Python �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Talk Python 出品的 1.2 小时付费视频课程配套仓库，面向 Python �
 ```mermaid
 xychart-beta
     title "talkpython/llm-building-blocks-for-python-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-12"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-12 17（+0）
 
 
 ---

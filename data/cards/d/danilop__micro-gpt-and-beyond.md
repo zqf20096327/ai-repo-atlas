@@ -1,6 +1,6 @@
 # danilop/micro-gpt-and-beyond
 
-⭐ 46 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/danilop/micro-gpt-and-beyond) · [官网](https://karpathy.ai/microgpt.html) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/danilop/micro-gpt-and-beyond) · [官网](https://karpathy.ai/microgpt.html) · 个人维护
 
 **面向学习者的 GPT 从零构建渐进式实验课程（24 个 lab，8 章）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "danilop/micro-gpt-and-beyond 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    title "danilop/micro-gpt-and-beyond 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-11-02 46（+0）
+2026-10-18 46 → 2026-11-17 47（+1）
 
 
 ---

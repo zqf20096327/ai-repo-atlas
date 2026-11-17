@@ -1,6 +1,6 @@
 # NikolasEnt/ollama-webui-intel
 
-⭐ 52 · Python · 推送 2026-10-19 · [GitHub](https://github.com/NikolasEnt/ollama-webui-intel) · 个人维护
+⭐ 53 · Python · 推送 2026-11-14 · [GitHub](https://github.com/NikolasEnt/ollama-webui-intel) · 个人维护
 
 **在 Intel (i)GPU 上以 Docker 运行 Ollama 并附基准测试**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NikolasEnt/ollama-webui-intel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "NikolasEnt/ollama-webui-intel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

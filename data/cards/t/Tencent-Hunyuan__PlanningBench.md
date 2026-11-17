@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/PlanningBench
 
-⭐ 28 · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/Tencent-Hunyuan/PlanningBench) · 组织维护 · 中文 README
+⭐ 29 · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/Tencent-Hunyuan/PlanningBench) · 组织维护 · 中文 README
 
 **面向 LLM 的合成规划基准与数据构建框架（467 评测实例）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/PlanningBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "Tencent-Hunyuan/PlanningBench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

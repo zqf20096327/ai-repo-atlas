@@ -1,6 +1,6 @@
 # siromermer/Dynamic-Chess-Board-Piece-Extraction
 
-⭐ 64 · Jupyter Notebook · 推送 2026-05-05 · [GitHub](https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction) · [官网](https://visionbrick.com/how-to-extract-chess-positions-from-any-photo/) · 个人维护
+⭐ 65 · Jupyter Notebook · 推送 2026-05-05 · [GitHub](https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction) · [官网](https://visionbrick.com/how-to-extract-chess-positions-from-any-photo/) · 个人维护
 
 **从照片/实时视频提取棋盘局面并转为 FEN 的视觉管线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "siromermer/Dynamic-Chess-Board-Piece-Extraction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "siromermer/Dynamic-Chess-Board-Piece-Extraction 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

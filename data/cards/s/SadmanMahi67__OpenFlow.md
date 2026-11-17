@@ -1,6 +1,6 @@
 # SadmanMahi67/OpenFlow
 
-⭐ 16 · TypeScript · MIT · 推送 2026-05-28 · [GitHub](https://github.com/SadmanMahi67/OpenFlow) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-05-28 · [GitHub](https://github.com/SadmanMahi67/OpenFlow) · 个人维护
 
 **Windows 桌面听写应用：按住热键说话，离线 Whisper 转写后自动粘贴**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SadmanMahi67/OpenFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "SadmanMahi67/OpenFlow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

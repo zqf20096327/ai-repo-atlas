@@ -1,6 +1,6 @@
 # siropkin/chrome-bridge
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/siropkin/chrome-bridge) · [官网](https://chromewebstore.google.com/detail/chrome-bridge/kmhjlnokjigmnimgjjmiahlinjbcebkg) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/siropkin/chrome-bridge) · [官网](https://chromewebstore.google.com/detail/chrome-bridge/kmhjlnokjigmnimgjjmiahlinjbcebkg) · 个人维护 · 中文 README
 
 **让 AI agent 驱动用户已登录真实 Chrome 的桥接工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "siropkin/chrome-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

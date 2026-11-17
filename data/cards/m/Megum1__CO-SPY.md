@@ -1,6 +1,6 @@
 # Megum1/CO-SPY
 
-⭐ 54 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Megum1/CO-SPY) · [官网](https://www.cs.purdue.edu/homes/cheng535/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Megum1/CO-SPY) · [官网](https://www.cs.purdue.edu/homes/cheng535/) · 组织维护
 
 **CVPR'25 论文官方实现：结合语义与像素特征检测 AI 生成图像**
 
@@ -44,13 +44,13 @@ CO-SPY 是 CVPR 2025 论文的官方 PyTorch 实现，通过融合语义分支�
 
 ```mermaid
 xychart-beta
-    title "Megum1/CO-SPY 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "Megum1/CO-SPY 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 53, 56, 56]
 ```
 
-2026-10-18 53 → 2026-11-02 54（+1）
+2026-10-18 53 → 2026-11-17 56（+3）
 
 
 ---

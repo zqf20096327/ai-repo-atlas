@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy3
 
-⭐ 675 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/Tencent-Hunyuan/Hy3) · 组织维护 · 中文 README
+⭐ 676 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/Tencent-Hunyuan/Hy3) · 组织维护 · 中文 README
 
 **腾讯开源的 295B MoE 推理与 Agent 模型权重**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy3 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 669 --> 676
-    line [670, 671, 672, 674, 675, 675]
+    title "Tencent-Hunyuan/Hy3 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 669 --> 677
+    line [670, 671, 672, 674, 675, 671, 676, 676]
 ```
 
-2026-10-18 670 → 2026-11-02 675（+5）
+2026-10-18 670 → 2026-11-17 676（+6）
 
 
 ---

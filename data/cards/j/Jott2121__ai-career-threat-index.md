@@ -1,6 +1,6 @@
 # Jott2121/ai-career-threat-index
 
-⭐ 12 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Jott2121/ai-career-threat-index) · [官网](https://jott2121.github.io/ai-career-threat-index/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Jott2121/ai-career-threat-index) · [官网](https://jott2121.github.io/ai-career-threat-index/) · 组织维护
 
 **300 个美国职业的 AI 替代风险开放评分数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jott2121/ai-career-threat-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Jott2121/ai-career-threat-index 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

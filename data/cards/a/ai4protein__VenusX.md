@@ -1,6 +1,6 @@
 # ai4protein/VenusX
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-04-10 · [GitHub](https://github.com/ai4protein/VenusX) · [官网](https://ai4protein.github.io/venusx/) · 组织维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-04-10 · [GitHub](https://github.com/ai4protein/VenusX) · [官网](https://ai4protein.github.io/venusx/) · 组织维护
 
 **蛋白质功能残基/片段预测的大规模基准（ICLR 2026）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai4protein/VenusX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "ai4protein/VenusX 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

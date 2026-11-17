@@ -1,6 +1,6 @@
 # lucid-kv/lucid
 
-⭐ 391 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/lucid-kv/lucid) · [官网](https://lucid-kv.dev) · 组织维护
+⭐ 393 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/lucid-kv/lucid) · [官网](https://lucid-kv.dev) · 组织维护
 
 **带 REST API 的分布式高性能键值存储，供后端/云原生使用**
 
@@ -44,13 +44,13 @@ Lucid KV 是一个通过 HTTP/REST API 访问的分布式键值存储，采用�
 
 ```mermaid
 xychart-beta
-    title "lucid-kv/lucid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
+    title "lucid-kv/lucid 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-17"]
     y-axis "stars" 390 --> 394
-    line [392, 393, 392, 391]
+    line [392, 393, 392, 391, 392, 393, 393]
 ```
 
-2026-10-18 392 → 2026-11-02 391（-1）
+2026-10-18 392 → 2026-11-17 393（+1）
 
 
 ---

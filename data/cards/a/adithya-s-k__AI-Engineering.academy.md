@@ -1,6 +1,6 @@
 # adithya-s-k/AI-Engineering.academy
 
-⭐ 2,388 · Jupyter Notebook · MIT · 推送 2026-02-27 · [GitHub](https://github.com/adithya-s-k/AI-Engineering.academy) · [官网](https://aiengineering.academy) · 组织维护
+⭐ 2,389 · Jupyter Notebook · MIT · 推送 2026-02-27 · [GitHub](https://github.com/adithya-s-k/AI-Engineering.academy) · [官网](https://aiengineering.academy) · 组织维护
 
 **面向 AI 工程的学习路径课程库：从提示工程到 AI Agent**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "adithya-s-k/AI-Engineering.academy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 2383 --> 2389
-    line [2384, 2386, 2387, 2388, 2388]
+    title "adithya-s-k/AI-Engineering.academy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 2383 --> 2390
+    line [2384, 2386, 2387, 2388, 2386, 2387, 2389, 2389]
 ```
 
-2026-10-18 2,384 → 2026-11-02 2,388（+4）
+2026-10-18 2,384 → 2026-11-17 2,389（+5）
 
 
 ---

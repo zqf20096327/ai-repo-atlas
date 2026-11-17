@@ -1,6 +1,6 @@
 # IonDen/mlx-taef
 
-⭐ 13 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/IonDen/mlx-taef) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/IonDen/mlx-taef) · 个人维护
 
 **Apple Silicon 上的微型扩散 VAE 解码器库：毫秒级潜空间预览与低内存解码**
 
@@ -46,12 +46,12 @@ TAESD 家族的纯 MLX 移植，覆盖 TAESD/TAESDXL/TAEF1/TAEF2/Z-Image/Qwen-Im
 ```mermaid
 xychart-beta
     title "IonDen/mlx-taef 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

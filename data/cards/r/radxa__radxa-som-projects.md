@@ -1,6 +1,6 @@
 # radxa/radxa-som-projects
 
-⭐ 96 · Python · 推送 2026-09-04 · [GitHub](https://github.com/radxa/radxa-som-projects) · [官网](https://docs.radxa.com/en/som) · 组织维护
+⭐ 99 · Python · 推送 2026-09-04 · [GitHub](https://github.com/radxa/radxa-som-projects) · [官网](https://docs.radxa.com/en/som) · 组织维护
 
 **Radxa SoM 载板设计文件库+面向 LLM/Agent 的结构化硬件数据库**
 
@@ -45,13 +45,13 @@ Radxa 官方仓库，收录 CM/NX 系列计算机模组的载板设计文件（P
 
 ```mermaid
 xychart-beta
-    title "radxa/radxa-som-projects 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    title "radxa/radxa-som-projects 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 94 --> 100
+    line [95, 96, 95, 96, 98, 99, 99]
 ```
 
-2026-10-18 95 → 2026-11-02 96（+1）
+2026-10-18 95 → 2026-11-17 99（+4）
 
 
 ---

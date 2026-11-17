@@ -1,6 +1,6 @@
 # google-github-actions/run-gemini-cli
 
-⭐ 2,117 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/google-github-actions/run-gemini-cli) · [官网](https://github.com/google-gemini/gemini-cli) · 组织维护
+⭐ 2,128 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/google-github-actions/run-gemini-cli) · [官网](https://github.com/google-gemini/gemini-cli) · 组织维护
 
 **在 GitHub 仓库中调用 Gemini CLI 的 GitHub Action**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-github-actions/run-gemini-cli 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2110 --> 2118
-    line [2111, 2112, 2111, 2112, 2113, 2114, 2116, 2117]
+    title "google-github-actions/run-gemini-cli 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 2110 --> 2129
+    line [2111, 2112, 2111, 2112, 2113, 2114, 2116, 2117, 2112, 2120, 2124, 2126, 2128, 2127, 2128, 2128]
 ```
 
-2026-10-18 2,111 → 2026-11-02 2,117（+6）
+2026-10-18 2,111 → 2026-11-17 2,128（+17）
 
 
 ---

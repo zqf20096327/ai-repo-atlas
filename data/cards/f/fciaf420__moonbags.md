@@ -1,6 +1,6 @@
 # fciaf420/moonbags
 
-⭐ 41 · TypeScript · 推送 2026-07-12 · [GitHub](https://github.com/fciaf420/moonbags) · 个人维护
+⭐ 43 · TypeScript · 推送 2026-07-12 · [GitHub](https://github.com/fciaf420/moonbags) · 个人维护
 
 **Solana meme 币自动交易机器人，可选 LLM 辅助退出决策**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fciaf420/moonbags 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "fciaf420/moonbags 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 40 --> 44
+    line [41, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

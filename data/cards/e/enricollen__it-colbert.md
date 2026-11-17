@@ -1,6 +1,6 @@
 # enricollen/it-colbert
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/enricollen/it-colbert) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/enricollen/it-colbert) · 个人维护
 
 **意大利语单语 ColBERT 后期交互检索模型及训练评测代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "enricollen/it-colbert 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "enricollen/it-colbert 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

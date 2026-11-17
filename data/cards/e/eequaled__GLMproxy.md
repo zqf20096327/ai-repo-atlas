@@ -1,6 +1,6 @@
 # eequaled/GLMproxy
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/eequaled/GLMproxy) · 个人维护 · 中文 README
+⭐ 38 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/eequaled/GLMproxy) · 个人维护 · 中文 README
 
 **本地代理：把 AutoClaw 内的智谱 GLM 模型暴露为 OpenAI/Anthropic API**
 
@@ -44,13 +44,13 @@ Node.js 编写的本地 API 代理，连接 AutoClaw 后端与 OpenAI/Anthropic 
 
 ```mermaid
 xychart-beta
-    title "eequaled/GLMproxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02"]
+    title "eequaled/GLMproxy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-17"]
     y-axis "stars" 30 --> 41
-    line [31, 37, 38, 39, 40, 40]
+    line [31, 37, 38, 39, 40, 39, 38, 38]
 ```
 
-2026-10-18 31 → 2026-11-02 40（+9）
+2026-10-18 31 → 2026-11-17 38（+7）
 
 
 ---

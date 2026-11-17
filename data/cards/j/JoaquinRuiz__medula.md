@@ -1,6 +1,6 @@
 # JoaquinRuiz/medula
 
-⭐ 13 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JoaquinRuiz/medula) · [官网](https://www.youtube.com/watch?v=FIOXJXRfsZQ) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JoaquinRuiz/medula) · [官网](https://www.youtube.com/watch?v=FIOXJXRfsZQ) · 个人维护
 
 **多编码 agent 并发协作的协调内核与可复现评测实验室**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoaquinRuiz/medula 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "JoaquinRuiz/medula 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

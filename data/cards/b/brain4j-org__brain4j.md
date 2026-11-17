@@ -1,6 +1,6 @@
 # brain4j-org/brain4j
 
-⭐ 124 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/brain4j-org/brain4j) · [官网](https://brain4j.org) · 组织维护
+⭐ 125 · Java · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/brain4j-org/brain4j) · [官网](https://brain4j.org) · 组织维护
 
 **面向 Java 的轻量级开源深度学习框架**
 
@@ -45,13 +45,13 @@ Brain4J 是用纯 Java 编写的开源深度学习框架，定位为轻量、可
 
 ```mermaid
 xychart-beta
-    title "brain4j-org/brain4j 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    title "brain4j-org/brain4j 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 123 --> 126
+    line [124, 125, 125]
 ```
 
-2026-10-18 124 → 2026-11-02 124（+0）
+2026-10-18 124 → 2026-11-17 125（+1）
 
 
 ---

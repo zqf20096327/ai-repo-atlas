@@ -1,6 +1,6 @@
 # garylab/serper-mcp-server
 
-⭐ 39 · Python · 推送 2025-11-10 · [GitHub](https://github.com/garylab/serper-mcp-server) · [官网](https://pypi.org/project/serper-mcp-server/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 LLM 通过 Serper 调用 Google 搜索的 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "garylab/serper-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-07 39（+0）
 
 
 ---

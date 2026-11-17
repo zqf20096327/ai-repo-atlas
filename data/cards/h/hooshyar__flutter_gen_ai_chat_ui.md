@@ -1,6 +1,6 @@
 # hooshyar/flutter_gen_ai_chat_ui
 
-⭐ 88 · Dart · MIT · 推送 2026-10-20 · [GitHub](https://github.com/hooshyar/flutter_gen_ai_chat_ui) · [官网](https://www.dilacode.com) · 个人维护
+⭐ 88 · Dart · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hooshyar/flutter_gen_ai_chat_ui) · [官网](https://www.dilacode.com) · 个人维护
 
 **面向 AI 应用的 Flutter 聊天 UI 组件包**
 
@@ -45,12 +45,12 @@ Flutter 聊天 UI 组件库，为含 LLM 的应用设计：开发者自行提供
 ```mermaid
 xychart-beta
     title "hooshyar/flutter_gen_ai_chat_ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-11-02 88（+0）
+2026-10-18 88 → 2026-11-17 88（+0）
 
 
 ---

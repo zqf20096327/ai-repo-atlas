@@ -1,6 +1,6 @@
 # joepitt91/comfyui-docker
 
-⭐ 13 · Dockerfile · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/joepitt91/comfyui-docker) · 个人维护
+⭐ 12 · Dockerfile · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/joepitt91/comfyui-docker) · 个人维护
 
 **ComfyUI 容器镜像：以 Docker 跑 ComfyUI，支持 CPU/AMD/Intel/NVIDIA**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joepitt91/comfyui-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "joepitt91/comfyui-docker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

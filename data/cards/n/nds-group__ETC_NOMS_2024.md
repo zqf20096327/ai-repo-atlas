@@ -1,6 +1,6 @@
 # nds-group/ETC_NOMS_2024
 
-⭐ 22 · Python · 推送 2026-02-02 · [GitHub](https://github.com/nds-group/ETC_NOMS_2024) · [官网](https://ieeexplore.ieee.org/document/10575394/) · 组织维护
+⭐ 21 · Python · 推送 2026-02-02 · [GitHub](https://github.com/nds-group/ETC_NOMS_2024) · [官网](https://ieeexplore.ieee.org/document/10575394/) · 组织维护
 
 **在可编程交换机内以 P4+随机森林实现线速加密流量分类**
 
@@ -44,13 +44,13 @@ NOMS 2024 论文的配套代码：提出 ETC 框架，仅基于包长与包到�
 
 ```mermaid
 xychart-beta
-    title "nds-group/ETC_NOMS_2024 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "nds-group/ETC_NOMS_2024 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

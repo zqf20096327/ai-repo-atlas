@@ -1,6 +1,6 @@
 # iyeoh88-svg/openclaw-android
 
-⭐ 125 · Shell · MIT · 推送 2026-04-02 · [GitHub](https://github.com/iyeoh88-svg/openclaw-android) · 个人维护
+⭐ 126 · Shell · MIT · 推送 2026-04-02 · [GitHub](https://github.com/iyeoh88-svg/openclaw-android) · 个人维护
 
 **在 Android Termux 上自动安装 OpenClaw AI agent 系统的脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iyeoh88-svg/openclaw-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    title "iyeoh88-svg/openclaw-android 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 124 --> 127
+    line [125, 126, 126]
 ```
 
-2026-10-18 125 → 2026-11-02 125（+0）
+2026-10-18 125 → 2026-11-17 126（+1）
 
 
 ---

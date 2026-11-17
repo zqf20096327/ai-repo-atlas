@@ -1,6 +1,6 @@
 # grigio/llm-eval-simple
 
-⭐ 72 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/grigio/llm-eval-simple) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/grigio/llm-eval-simple) · 个人维护
 
 **通过 OpenAI 兼容接口评测多个 LLM 的轻量基准工具**
 
@@ -44,13 +44,13 @@ Python 编写的 LLM 评测框架：读取 prompts/answers 目录中的文本文
 
 ```mermaid
 xychart-beta
-    title "grigio/llm-eval-simple 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    title "grigio/llm-eval-simple 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-17 73（+1）
 
 
 ---

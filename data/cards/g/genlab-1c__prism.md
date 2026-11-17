@@ -1,6 +1,6 @@
 # genlab-1c/prism
 
-⭐ 55 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/genlab-1c/prism) · [官网](http://prism.genlab-1c.ru/) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/genlab-1c/prism) · [官网](http://prism.genlab-1c.ru/) · 组织维护
 
 **LLM 生成 1С:Предприyme (BSL) 代码的可执行基准测试与排行榜**
 
@@ -45,13 +45,13 @@ PRISM 是一个开放的可执行基准测试：让各类 LLM（Claude、GPT、G
 
 ```mermaid
 xychart-beta
-    title "genlab-1c/prism 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 50 --> 56
-    line [51, 54, 55, 55]
+    title "genlab-1c/prism 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 50 --> 59
+    line [51, 54, 55, 51, 57, 58, 58]
 ```
 
-2026-10-18 51 → 2026-11-02 55（+4）
+2026-10-18 51 → 2026-11-17 58（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning
 
-⭐ 205 · Jupyter Notebook · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning) · 组织维护
+⭐ 206 · Jupyter Notebook · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning) · 组织维护
 
 **面向车联网的 CNN+迁移学习入侵检测系统论文代码**
 
@@ -44,13 +44,13 @@ Western 大学 OC2 实验室发布的 IEEE ICC 2022 论文配套代码：用 CNN
 
 ```mermaid
 xychart-beta
-    title "Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 204 --> 206
-    line [205, 205]
+    title "Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 204 --> 207
+    line [205, 206, 206]
 ```
 
-2026-10-18 205 → 2026-11-02 205（+0）
+2026-10-18 205 → 2026-11-17 206（+1）
 
 
 ---

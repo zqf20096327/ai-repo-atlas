@@ -1,6 +1,6 @@
 # nsoybean/nira-ai
 
-⭐ 44 · TypeScript · 推送 2026-05-04 · [GitHub](https://github.com/nsoybean/nira-ai) · [官网](https://nira-ai.vercel.app) · 个人维护
+⭐ 45 · TypeScript · 推送 2026-05-04 · [GitHub](https://github.com/nsoybean/nira-ai) · [官网](https://nira-ai.vercel.app) · 个人维护
 
 **个人 Agent 式对话助手，多模型组合完成研究与创作任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nsoybean/nira-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "nsoybean/nira-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

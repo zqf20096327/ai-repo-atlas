@@ -1,6 +1,6 @@
 # Creeper5261/Rikki
 
-⭐ 22 · Java · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Creeper5261/Rikki) · 个人维护
+⭐ 21 · Java · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Creeper5261/Rikki) · 个人维护
 
 **JetBrains IDE 的 AI 编程助手插件：对话代理与行内补全**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Creeper5261/Rikki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "Creeper5261/Rikki 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

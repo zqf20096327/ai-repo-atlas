@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/SAGE-GRPO
 
-⭐ 131 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/Tencent-Hunyuan/SAGE-GRPO) · [官网](https://dungeonmassster.github.io/SAGE-GRPO-Page/) · 组织维护 · 中文 README
+⭐ 130 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/Tencent-Hunyuan/SAGE-GRPO) · [官网](https://dungeonmassster.github.io/SAGE-GRPO-Page/) · 组织维护 · 中文 README
 
 **视频生成模型的 GRPO 后训练对齐框架（基于 HunyuanVideo-1.5）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/SAGE-GRPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    title "Tencent-Hunyuan/SAGE-GRPO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 129 --> 132
+    line [131, 130, 130]
 ```
 
-2026-10-18 131 → 2026-11-02 131（+0）
+2026-10-18 131 → 2026-11-17 130（-1）
 
 
 ---

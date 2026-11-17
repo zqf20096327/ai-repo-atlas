@@ -1,6 +1,6 @@
 # google-deepmind/ithaca
 
-⭐ 578 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/ithaca) · 组织维护
+⭐ 580 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/ithaca) · 组织维护
 
 **深度神经网络修复与溯源古希腊铭文的模型库**
 
@@ -45,13 +45,13 @@ DeepMind 与多所大学合作发布的深度神经网络 Ithaca 及其训练产
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/ithaca 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
-    y-axis "stars" 577 --> 579
-    line [578, 578]
+    title "google-deepmind/ithaca 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 577 --> 581
+    line [578, 580, 580]
 ```
 
-2026-10-28 578 → 2026-11-02 578（+0）
+2026-10-28 578 → 2026-11-17 580（+2）
 
 
 ---

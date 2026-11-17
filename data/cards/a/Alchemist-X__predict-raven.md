@@ -1,6 +1,6 @@
 # Alchemist-X/predict-raven
 
-⭐ 76 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Alchemist-X/predict-raven) · [官网](https://forecasting-agent.com) · 个人维护 · 中文 README
+⭐ 77 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Alchemist-X/predict-raven) · [官网](https://forecasting-agent.com) · 个人维护 · 中文 README
 
 **面向预测市场的自主预测/交易 agent 框架，预测事件概率并交易**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alchemist-X/predict-raven 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    title "Alchemist-X/predict-raven 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 75 --> 78
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-11-02 76（+0）
+2026-10-18 76 → 2026-11-17 77（+1）
 
 
 ---

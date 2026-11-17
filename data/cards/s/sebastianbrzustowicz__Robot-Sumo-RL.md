@@ -1,6 +1,6 @@
 # sebastianbrzustowicz/Robot-Sumo-RL
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-02-21 · [GitHub](https://github.com/sebastianbrzustowicz/Robot-Sumo-RL) · 个人维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-02-21 · [GitHub](https://github.com/sebastianbrzustowicz/Robot-Sumo-RL) · 个人维护
 
 **机器人相扑自主对战智能体的强化学习训练系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sebastianbrzustowicz/Robot-Sumo-RL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "sebastianbrzustowicz/Robot-Sumo-RL 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 22, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

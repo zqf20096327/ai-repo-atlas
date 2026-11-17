@@ -1,6 +1,6 @@
 # agentodyssey/agentodyssey
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentodyssey/agentodyssey) · [官网](https://agentodyssey.github.io/) · 组织维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentodyssey/agentodyssey) · [官网](https://agentodyssey.github.io/) · 组织维护
 
 **长时程文字游戏生成引擎：评测测试时持续学习 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentodyssey/agentodyssey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "agentodyssey/agentodyssey 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

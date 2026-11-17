@@ -1,6 +1,6 @@
 # microsoft/nnscaler
 
-⭐ 136 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/nnscaler) · [官网](https://nnscaler.readthedocs.io) · 组织维护
+⭐ 137 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/nnscaler) · [官网](https://nnscaler.readthedocs.io) · 组织维护
 
 **把单 GPU 的 DNN/LLM 模型编译为多 GPU 并行训练程序**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/nnscaler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    title "microsoft/nnscaler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 135 --> 138
+    line [136, 137, 137]
 ```
 
-2026-10-18 136 → 2026-11-02 136（+0）
+2026-10-18 136 → 2026-11-17 137（+1）
 
 
 ---

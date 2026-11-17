@@ -1,6 +1,6 @@
 # LangQi99/NeoFish
 
-⭐ 31 · Python · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/LangQi99/NeoFish) · 个人维护 · 中文 README
+⭐ 32 · Python · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/LangQi99/NeoFish) · 个人维护 · 中文 README
 
 **对话式 AI Agent：用自然语言操控浏览器完成网页任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LangQi99/NeoFish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "LangQi99/NeoFish 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

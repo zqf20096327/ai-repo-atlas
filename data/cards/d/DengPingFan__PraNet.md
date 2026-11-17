@@ -1,6 +1,6 @@
 # DengPingFan/PraNet
 
-⭐ 559 · Python · 推送 2025-12-11 · [GitHub](https://github.com/DengPingFan/PraNet) · [官网](http://dpfan.net/PraNet) · 组织维护 · 中文 README
+⭐ 561 · Python · 推送 2025-12-11 · [GitHub](https://github.com/DengPingFan/PraNet) · [官网](http://dpfan.net/PraNet) · 组织维护 · 中文 README
 
 **结肠镜息肉分割模型：并行反向注意力网络（MICCAI 2020）**
 
@@ -45,13 +45,13 @@ MICCAI 2020 口头报告论文的官方代码库：PraNet 用并行部分解码�
 
 ```mermaid
 xychart-beta
-    title "DengPingFan/PraNet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 556 --> 560
-    line [558, 557, 558, 557, 559, 559]
+    title "DengPingFan/PraNet 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 556 --> 562
+    line [558, 557, 558, 557, 559, 558, 559, 561, 561]
 ```
 
-2026-10-18 558 → 2026-11-02 559（+1）
+2026-10-18 558 → 2026-11-17 561（+3）
 
 
 ---

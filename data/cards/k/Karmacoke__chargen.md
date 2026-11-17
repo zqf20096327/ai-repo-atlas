@@ -1,6 +1,6 @@
 # Karmacoke/chargen
 
-⭐ 112 · JavaScript · 推送 2026-02-13 · [GitHub](https://github.com/Karmacoke/chargen) · [官网](https://karmacoke.github.io/chargen/) · 个人维护 · 中文 README
+⭐ 111 · JavaScript · 推送 2026-02-13 · [GitHub](https://github.com/Karmacoke/chargen) · [官网](https://karmacoke.github.io/chargen/) · 个人维护 · 中文 README
 
 **面向写作者与TRPG玩家的AI角色生成器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Karmacoke/chargen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "Karmacoke/chargen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    line [111, 112, 111, 111]
 ```
 
-2026-10-18 111 → 2026-11-02 112（+1）
+2026-10-18 111 → 2026-11-17 111（+0）
 
 
 ---

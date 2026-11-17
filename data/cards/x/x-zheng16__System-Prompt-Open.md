@@ -1,6 +1,6 @@
 # x-zheng16/System-Prompt-Open
 
-⭐ 44 · HTML · 推送 2026-04-04 · [GitHub](https://github.com/x-zheng16/System-Prompt-Open) · [官网](https://x-zheng16.github.io/System-Prompt-Open/) · 组织维护
+⭐ 45 · HTML · 推送 2026-04-04 · [GitHub](https://github.com/x-zheng16/System-Prompt-Open) · [官网](https://x-zheng16.github.io/System-Prompt-Open/) · 组织维护
 
 **前沿 LLM 系统提示词提取结果开放数据库（45 条）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "x-zheng16/System-Prompt-Open 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    title "x-zheng16/System-Prompt-Open 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-11-02 44（+1）
+2026-10-18 43 → 2026-11-17 45（+2）
 
 
 ---

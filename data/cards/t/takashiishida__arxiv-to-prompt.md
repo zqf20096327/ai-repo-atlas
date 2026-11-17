@@ -1,6 +1,6 @@
 # takashiishida/arxiv-to-prompt
 
-⭐ 170 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/takashiishida/arxiv-to-prompt) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/takashiishida/arxiv-to-prompt) · 个人维护
 
 **把 arXiv 论文转成单一 LaTeX 源供向 LLM 提问的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "takashiishida/arxiv-to-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 169 --> 171
-    line [170, 170]
+    title "takashiishida/arxiv-to-prompt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 169 --> 175
+    line [170, 171, 172, 173, 174, 174]
 ```
 
-2026-10-18 170 → 2026-11-02 170（+0）
+2026-10-18 170 → 2026-11-17 174（+4）
 
 
 ---

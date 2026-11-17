@@ -1,6 +1,6 @@
 # sanhuang520-ship-it/awesome-chinese-ai-tools
 
-⭐ 11 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools) · [官网](https://sanhuang520-ship-it.github.io/awesome-chinese-ai-tools/) · 个人维护 · 中文 README
+⭐ 12 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools) · [官网](https://sanhuang520-ship-it.github.io/awesome-chinese-ai-tools/) · 个人维护 · 中文 README
 
 **中文 Agent Skills 合集：212 条目、13 个原创、带可复现实测证据**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanhuang520-ship-it/awesome-chinese-ai-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "sanhuang520-ship-it/awesome-chinese-ai-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

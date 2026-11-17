@@ -1,6 +1,6 @@
 # gopala-kr/summary
 
-⭐ 179 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/gopala-kr/summary) · 个人维护
+⭐ 182 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/gopala-kr/summary) · 个人维护
 
 **个人深度学习论文阅读摘要清单（2017-2019 按周/月组织）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "gopala-kr/summary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 177 --> 180
-    line [178, 179]
+    title "gopala-kr/summary 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 177 --> 183
+    line [178, 179, 178, 181, 182, 182]
 ```
 
-2026-10-18 178 → 2026-11-02 179（+1）
+2026-10-18 178 → 2026-11-17 182（+4）
 
 
 ---

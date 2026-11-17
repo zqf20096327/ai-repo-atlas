@@ -1,6 +1,6 @@
 # huggingface/finepdfs
 
-⭐ 191 · Python · NOASSERTION · 推送 2026-01-09 · [GitHub](https://github.com/huggingface/finepdfs) · [官网](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) · 组织维护
+⭐ 190 · Python · NOASSERTION · 推送 2026-01-09 · [GitHub](https://github.com/huggingface/finepdfs) · [官网](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) · 组织维护
 
 **FinePDFs 数据集的端到端 PDF 数据处理流水线代码**
 
@@ -44,13 +44,13 @@ HuggingFace 团队随 FinePDFs 数据集发布的代码库：对大规模 Common
 
 ```mermaid
 xychart-beta
-    title "huggingface/finepdfs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 190 --> 192
-    line [191, 191]
+    title "huggingface/finepdfs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 189 --> 192
+    line [191, 190, 190]
 ```
 
-2026-10-18 191 → 2026-11-02 191（+0）
+2026-10-18 191 → 2026-11-17 190（-1）
 
 
 ---

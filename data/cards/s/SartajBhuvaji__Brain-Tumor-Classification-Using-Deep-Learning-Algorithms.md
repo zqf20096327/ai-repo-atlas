@@ -1,6 +1,6 @@
 # SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms
 
-⭐ 97 · Jupyter Notebook · 推送 2025-11-08 · [GitHub](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms) · [官网](https://sartajbhuvaji.github.io/Brain-Tumor-Classification-Website/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 ANN/CNN/迁移学习对 MRI 脑瘤做分类的深度学习项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-11-02 97（+0）
+2026-10-18 97 → 2026-11-07 97（+0）
 
 
 ---

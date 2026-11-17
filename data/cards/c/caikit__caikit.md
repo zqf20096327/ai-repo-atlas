@@ -1,6 +1,6 @@
 # caikit/caikit
 
-⭐ 114 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/caikit/caikit) · [官网](https://caikit.github.io/website/) · 组织维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/caikit/caikit) · [官网](https://caikit.github.io/website/) · 组织维护
 
 **面向应用开发者的 AI 模型管理工具包：统一 API 训练、推理与服务**
 
@@ -45,13 +45,13 @@ Caikit 是一个 Python AI 工具包，为模型作者和模型运维者提供�
 
 ```mermaid
 xychart-beta
-    title "caikit/caikit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    title "caikit/caikit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 113 --> 116
+    line [114, 115, 115]
 ```
 
-2026-10-18 114 → 2026-11-02 114（+0）
+2026-10-18 114 → 2026-11-17 115（+1）
 
 
 ---

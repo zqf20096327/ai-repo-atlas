@@ -1,6 +1,6 @@
 # AGiXT/python-sdk
 
-⭐ 25 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/AGiXT/python-sdk) · [官网](http://agixt.com) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/AGiXT/python-sdk) · [官网](http://agixt.com) · 组织维护
 
 **AGiXT 平台的 Python SDK：通过 API 接入其 AI 自动化能力**
 
@@ -44,12 +44,12 @@ AGiXT Python SDK 仓库，封装 AGiXT AI 自动化平台的 API 接口：开发
 ```mermaid
 xychart-beta
     title "AGiXT/python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

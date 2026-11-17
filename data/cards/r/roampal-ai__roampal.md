@@ -1,6 +1,6 @@
 # roampal-ai/roampal
 
-⭐ 125 · Python · NOASSERTION · 推送 2026-05-12 · [GitHub](https://github.com/roampal-ai/roampal) · [官网](https://roampal.ai/) · 组织维护
+⭐ 126 · Python · NOASSERTION · 推送 2026-05-12 · [GitHub](https://github.com/roampal-ai/roampal) · [官网](https://roampal.ai/) · 组织维护
 
 **本地优先的带持久记忆 AI 聊天桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "roampal-ai/roampal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    title "roampal-ai/roampal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 124 --> 127
+    line [125, 126, 126]
 ```
 
-2026-10-18 125 → 2026-11-02 125（+0）
+2026-10-18 125 → 2026-11-17 126（+1）
 
 
 ---

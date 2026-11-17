@@ -1,6 +1,6 @@
 # LobsterTrap/lola
 
-⭐ 132 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/LobsterTrap/lola) · [官网](https://getlola.dev/) · 组织维护
+⭐ 133 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/LobsterTrap/lola) · [官网](https://getlola.dev/) · 组织维护
 
 **面向 AI 助手的技能/上下文包管理器，一次编写多处安装**
 
@@ -44,13 +44,13 @@ Lola 是将 Agent 技能与上下文模块打包为可移植包并安装到多�
 
 ```mermaid
 xychart-beta
-    title "LobsterTrap/lola 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 130 --> 133
-    line [132, 131, 132]
+    title "LobsterTrap/lola 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-02", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 130 --> 134
+    line [132, 131, 132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 133（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shure-dev/small-vlm-sop-check
 
-⭐ 54 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/shure-dev/small-vlm-sop-check) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/shure-dev/small-vlm-sop-check) · 个人维护
 
 **面向工厂一人称视频的小型 VLM 时间定位训练评估平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shure-dev/small-vlm-sop-check 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "shure-dev/small-vlm-sop-check 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [54, 53, 53]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 53（-1）
 
 
 ---

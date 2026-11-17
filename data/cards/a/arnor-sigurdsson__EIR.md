@@ -1,6 +1,6 @@
 # arnor-sigurdsson/EIR
 
-⭐ 47 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/arnor-sigurdsson/EIR) · [官网](https://eir.readthedocs.io/) · 个人维护
+⭐ 48 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/arnor-sigurdsson/EIR) · [官网](https://eir.readthedocs.io/) · 个人维护
 
 **多模态深度学习训练工具包，覆盖基因型到图像等多种数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arnor-sigurdsson/EIR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    title "arnor-sigurdsson/EIR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 46 --> 49
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-11-02 47（+0）
+2026-10-18 47 → 2026-11-17 48（+1）
 
 
 ---

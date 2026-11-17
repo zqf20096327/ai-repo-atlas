@@ -1,6 +1,6 @@
 # La5u/Parsimony
 
-⭐ 13 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/La5u/Parsimony) · [官网](parsimony.lasu.dev) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/La5u/Parsimony) · [官网](parsimony.lasu.dev) · 个人维护
 
 **度量 AI 编码 agent 在公开基准补丁中增删代码量的分析工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "La5u/Parsimony 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "La5u/Parsimony 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

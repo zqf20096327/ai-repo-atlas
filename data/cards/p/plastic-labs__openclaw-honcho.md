@@ -1,6 +1,6 @@
 # plastic-labs/openclaw-honcho
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/plastic-labs/openclaw-honcho) · [官网](https://honcho.dev) · 组织维护
+⭐ 95 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/plastic-labs/openclaw-honcho) · [官网](https://honcho.dev) · 组织维护
 
 **为 OpenClaw agent 接入 Honcho 对话记忆的插件**
 
@@ -44,13 +44,13 @@ OpenClaw 平台的记忆插件：将对话消息持久化到 Honcho 服务，为
 
 ```mermaid
 xychart-beta
-    title "plastic-labs/openclaw-honcho 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "plastic-labs/openclaw-honcho 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 86 --> 96
-    line [87, 90, 94, 95, 95]
+    line [87, 90, 94, 95, 87, 95, 95]
 ```
 
-2026-10-18 87 → 2026-11-02 95（+8）
+2026-10-18 87 → 2026-11-17 95（+8）
 
 
 ---

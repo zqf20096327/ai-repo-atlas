@@ -1,6 +1,6 @@
 # filipw/AgentGuard
 
-⭐ 25 · C# · MIT · 推送 2026-10-01 · [GitHub](https://github.com/filipw/AgentGuard) · [官网](https://filipw.github.io/AgentGuard/) · 个人维护
+⭐ 26 · C# · MIT · 推送 2026-11-12 · [GitHub](https://github.com/filipw/AgentGuard) · [官网](https://filipw.github.io/AgentGuard/) · 个人维护
 
 **.NET AI agent 的声明式安全护栏与防护规则库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "filipw/AgentGuard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    title "filipw/AgentGuard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-02 25（+2）
+2026-10-18 23 → 2026-11-17 26（+3）
 
 
 ---

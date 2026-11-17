@@ -1,6 +1,6 @@
 # massimodeluisa/recursive-decomposition-skill
 
-⭐ 53 · HTML · MIT · 推送 2026-09-11 · [GitHub](https://github.com/massimodeluisa/recursive-decomposition-skill) · [官网](https://arxiv.org/abs/2512.24601) · 个人维护
+⭐ 55 · HTML · MIT · 推送 2026-09-11 · [GitHub](https://github.com/massimodeluisa/recursive-decomposition-skill) · [官网](https://arxiv.org/abs/2512.24601) · 个人维护
 
 **让 Claude Code 等 agent 递归分解长上下文任务的 Agent Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "massimodeluisa/recursive-decomposition-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "massimodeluisa/recursive-decomposition-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-02 53（+1）
+2026-10-18 52 → 2026-11-17 55（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sturnus-dev/sturnus
 
-⭐ 13 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sturnus-dev/sturnus) · [官网](https://sturnus.dev) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sturnus-dev/sturnus) · [官网](https://sturnus.dev) · 组织维护
 
 **LLM 多供应商延迟感知负载均衡 sidecar，OpenAI 兼容代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sturnus-dev/sturnus 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "sturnus-dev/sturnus 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    line [11, 12, 13, 11, 13, 13]
 ```
 
-2026-10-23 11 → 2026-11-02 13（+2）
+2026-10-23 11 → 2026-11-17 13（+2）
 
 
 ---

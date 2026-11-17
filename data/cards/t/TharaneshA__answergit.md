@@ -1,6 +1,6 @@
 # TharaneshA/answergit
 
-⭐ 168 · TypeScript · 推送 2025-12-11 · [GitHub](https://github.com/TharaneshA/answergit) · [官网](https://answergit.vercel.app) · 个人维护
+⭐ 170 · TypeScript · 推送 2025-12-11 · [GitHub](https://github.com/TharaneshA/answergit) · [官网](https://answergit.vercel.app) · 个人维护
 
 **AI 驱动的 GitHub 仓库浏览器：提问获得代码解释**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TharaneshA/answergit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    title "TharaneshA/answergit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 167 --> 171
+    line [168, 169, 170, 170]
 ```
 
-2026-10-18 168 → 2026-11-02 168（+0）
+2026-10-18 168 → 2026-11-17 170（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # IgnitionAI/ignition
 
-⭐ 25 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/IgnitionAI/ignition) · [官网](https://ignitionai.dev/) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/IgnitionAI/ignition) · [官网](https://ignitionai.dev/) · 组织维护
 
 **浏览器内训练强化学习智能体的 JS/TS 框架，ONNX 部署**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IgnitionAI/ignition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

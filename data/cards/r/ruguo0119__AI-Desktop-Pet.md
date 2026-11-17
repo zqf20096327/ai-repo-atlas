@@ -1,6 +1,6 @@
 # ruguo0119/AI-Desktop-Pet
 
-⭐ 22 · JavaScript · 推送 2026-01-22 · [GitHub](https://github.com/ruguo0119/AI-Desktop-Pet) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · 推送 2026-01-22 · [GitHub](https://github.com/ruguo0119/AI-Desktop-Pet) · 个人维护 · 中文 README
 
 **带语音交互与长期记忆的 Live2D AI 桌面宠物**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruguo0119/AI-Desktop-Pet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "ruguo0119/AI-Desktop-Pet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 21（+0）
 
 
 ---

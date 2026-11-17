@@ -1,6 +1,6 @@
 # liriliri/vivy
 
-⭐ 172 · TypeScript · AGPL-3.0 · 推送 2025-11-18 · [GitHub](https://github.com/liriliri/vivy) · [官网](https://vivy.liriliri.io) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Stable Diffusion 桌面应用：重写 WebUI 界面生成图像**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liriliri/vivy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 171 --> 173
     line [172, 172]
 ```
 
-2026-10-18 172 → 2026-11-02 172（+0）
+2026-10-18 172 → 2026-11-13 172（+0）
 
 
 ---

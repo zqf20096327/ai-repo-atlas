@@ -1,6 +1,6 @@
 # Adam-Vandervorst/PyBHV
 
-⭐ 35 · Python · GPL-3.0 · 推送 2026-03-05 · [GitHub](https://github.com/Adam-Vandervorst/PyBHV) · 个人维护
+⭐ 36 · Python · GPL-3.0 · 推送 2026-03-05 · [GitHub](https://github.com/Adam-Vandervorst/PyBHV) · 个人维护
 
 **布尔超向量研究框架：面向超维度计算实验的多后端 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adam-Vandervorst/PyBHV 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "Adam-Vandervorst/PyBHV 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 37
+    line [35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 36（+1）
 
 
 ---

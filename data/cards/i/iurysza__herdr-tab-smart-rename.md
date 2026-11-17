@@ -1,6 +1,6 @@
 # iurysza/herdr-tab-smart-rename
 
-⭐ 77 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/iurysza/herdr-tab-smart-rename) · 个人维护
+⭐ 77 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/iurysza/herdr-tab-smart-rename) · 个人维护
 
 **为 Herdr 终端生成任务感知的标签页与窗格名称的插件**
 
@@ -42,13 +42,13 @@ Herdr 终端的标签页/窗格命名插件：已知命令（如测试、开发�
 
 ```mermaid
 xychart-beta
-    title "iurysza/herdr-tab-smart-rename 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "iurysza/herdr-tab-smart-rename 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 76 --> 79
-    line [78, 77, 77]
+    line [78, 77, 78, 77, 77]
 ```
 
-2026-10-18 78 → 2026-11-02 77（-1）
+2026-10-18 78 → 2026-11-17 77（-1）
 
 
 ---

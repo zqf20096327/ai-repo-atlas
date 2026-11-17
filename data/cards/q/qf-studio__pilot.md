@@ -1,6 +1,6 @@
 # qf-studio/pilot
 
-⭐ 726 · Go · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/qf-studio/pilot) · [官网](https://pilot.quantflow.studio/) · 个人维护
+⭐ 731 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/qf-studio/pilot) · [官网](https://docs.pilotcloud.dev) · 个人维护
 
 **自动领取工单并完成代码的自主开发 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qf-studio/pilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 721 --> 727
-    line [722, 723, 725, 726]
+    title "qf-studio/pilot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 721 --> 732
+    line [722, 723, 725, 726, 723, 727, 728, 731, 731]
 ```
 
-2026-10-18 722 → 2026-11-02 726（+4）
+2026-10-18 722 → 2026-11-17 731（+9）
 
 
 ---

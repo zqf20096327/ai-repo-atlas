@@ -1,6 +1,6 @@
 # jentic/standard-agent
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/jentic/standard-agent) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/jentic/standard-agent) · 组织维护
 
 **可组合 AI Agent 推理库：可替换 LLM、推理策略、记忆与工具**
 
@@ -45,13 +45,13 @@ Python 编写的模块化 Agent 构建库，提供连接 LLM 与工具的核心�
 
 ```mermaid
 xychart-beta
-    title "jentic/standard-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "jentic/standard-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-17"]
     y-axis "stars" 68 --> 71
-    line [70, 69, 69]
+    line [70, 69, 70, 70]
 ```
 
-2026-10-18 70 → 2026-11-02 69（-1）
+2026-10-18 70 → 2026-11-17 70（+0）
 
 
 ---

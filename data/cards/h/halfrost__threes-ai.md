@@ -1,6 +1,6 @@
 # halfrost/threes-ai
 
-⭐ 166 · Python · GPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/halfrost/threes-ai) · [官网](https://threes.halfrost.com) · 个人维护 · 中文 README
+⭐ 167 · Python · GPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/halfrost/threes-ai) · [官网](https://threes.halfrost.com) · 个人维护 · 中文 README
 
 **用 Go 实现的 Threes! 游戏自动对弈 AI（Expectimax 搜索）**
 
@@ -44,13 +44,13 @@ Go 编写的 Threes! 棋盘游戏 AI，采用 Expectimax 最大期望搜索树�
 
 ```mermaid
 xychart-beta
-    title "halfrost/threes-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 164 --> 167
-    line [165, 166, 166]
+    title "halfrost/threes-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 164 --> 168
+    line [165, 166, 165, 167, 167]
 ```
 
-2026-10-18 165 → 2026-11-02 166（+1）
+2026-10-18 165 → 2026-11-17 167（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # glowbom/glowbom-oss
 
-⭐ 164 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/glowbom/glowbom-oss) · [官网](https://glowbom.com) · 组织维护
+⭐ 162 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/glowbom/glowbom-oss) · [官网](https://glowbom.com) · 组织维护
 
 **本地运行编码代理的开源后端、CLI 与浏览器界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "glowbom/glowbom-oss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    title "glowbom/glowbom-oss 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 161 --> 165
+    line [164, 162, 162]
 ```
 
-2026-10-18 164 → 2026-11-02 164（+0）
+2026-10-18 164 → 2026-11-17 162（-2）
 
 
 ---

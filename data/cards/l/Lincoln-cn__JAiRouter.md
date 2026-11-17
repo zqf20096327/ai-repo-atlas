@@ -1,6 +1,6 @@
 # Lincoln-cn/JAiRouter
 
-⭐ 26 · Java · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Lincoln-cn/JAiRouter) · [官网](https://jairouter.com/) · 个人维护 · 中文 README
+⭐ 27 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Lincoln-cn/JAiRouter) · [官网](https://jairouter.com/) · 个人维护 · 中文 README
 
 **自托管 AI 模型网关：统一 OpenAI 兼容端点管理多后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lincoln-cn/JAiRouter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    title "Lincoln-cn/JAiRouter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-17 27（+2）
 
 
 ---

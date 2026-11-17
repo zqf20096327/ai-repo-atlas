@@ -1,6 +1,6 @@
 # llnl/LEAP
 
-⭐ 259 · Cuda · MIT · 推送 2026-07-25 · [GitHub](https://github.com/llnl/LEAP) · [官网](https://leapct.readthedocs.io) · 组织维护
+⭐ 261 · C++ · MIT · 推送 2026-11-07 · [GitHub](https://github.com/llnl/LEAP) · [官网](https://leapct.readthedocs.io) · 组织维护
 
 **三维 CT 投影与重建算法库（C++/CUDA，含 PyTorch 绑定）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "llnl/LEAP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 255 --> 260
-    line [256, 257, 258, 259, 259]
+    title "llnl/LEAP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 255 --> 262
+    line [256, 257, 258, 259, 257, 261, 261]
 ```
 
-2026-10-18 256 → 2026-11-02 259（+3）
+2026-10-18 256 → 2026-11-17 261（+5）
 
 
 ---

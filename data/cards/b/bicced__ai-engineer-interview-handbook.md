@@ -1,6 +1,6 @@
 # bicced/ai-engineer-interview-handbook
 
-⭐ 27 · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/bicced/ai-engineer-interview-handbook) · [官网](https://deployprep.vercel.app) · 个人维护
+⭐ 31 · CC-BY-4.0 · 推送 2026-11-03 · [GitHub](https://github.com/bicced/ai-engineer-interview-handbook) · [官网](https://deployprep.vercel.app) · 个人维护
 
 **面向 Applied AI/FDE 岗位的 AI 工程师面试题库与备考手册**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | CC-BY-4.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bicced/ai-engineer-interview-handbook 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 28
-    line [22, 23, 25, 26, 27, 27]
+    title "bicced/ai-engineer-interview-handbook 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 32
+    line [22, 23, 25, 26, 27, 23, 27, 28, 29, 31, 31]
 ```
 
-2026-10-18 22 → 2026-11-02 27（+5）
+2026-10-18 22 → 2026-11-17 31（+9）
 
 
 ---

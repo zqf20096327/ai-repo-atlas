@@ -1,6 +1,6 @@
 # arthurflor23/handwritten-text-recognition
 
-⭐ 308 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
+⭐ 307 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
 
 **基于 TensorFlow 的手写文本识别与合成工具集（pySarah）**
 
@@ -44,13 +44,13 @@ pySarah 项目提供手写文本识别（HTR）的完整工作流：数据处理
 
 ```mermaid
 xychart-beta
-    title "arthurflor23/handwritten-text-recognition 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
+    title "arthurflor23/handwritten-text-recognition 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-17"]
     y-axis "stars" 305 --> 309
-    line [306, 307, 308, 308]
+    line [306, 307, 308, 307, 307]
 ```
 
-2026-10-18 306 → 2026-11-02 308（+2）
+2026-10-18 306 → 2026-11-17 307（+1）
 
 
 ---

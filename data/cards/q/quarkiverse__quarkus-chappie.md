@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-chappie
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/quarkiverse/quarkus-chappie) · [官网](https://docs.quarkiverse.io/quarkus-chappie/dev/) · 组织维护
+⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/quarkiverse/quarkus-chappie) · [官网](https://docs.quarkiverse.io/quarkus-chappie/dev/) · 组织维护
 
 **Quarkus Dev Mode 的 AI 助手扩展，辅助开发排错**
 
@@ -45,12 +45,12 @@ Quarkus 生态的 Dev Mode 专用扩展：为开发者提供 AI 辅助，包括�
 ```mermaid
 xychart-beta
     title "quarkiverse/quarkus-chappie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

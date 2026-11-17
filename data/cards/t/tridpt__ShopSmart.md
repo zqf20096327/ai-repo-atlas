@@ -1,6 +1,6 @@
 # tridpt/ShopSmart
 
-⭐ 13 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/tridpt/ShopSmart) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/tridpt/ShopSmart) · 个人维护
 
 **面向越南电商的 AI 购物助手：对话搜索、比价与降价追踪**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tridpt/ShopSmart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

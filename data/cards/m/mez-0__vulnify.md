@@ -1,6 +1,6 @@
 # mez-0/vulnify
 
-⭐ 38 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mez-0/vulnify) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/mez-0/vulnify) · 个人维护
 
 **聚合五大 CVE 数据源并经 MCP 供 AI agent 查询的漏洞库**
 
@@ -45,12 +45,12 @@ CVE 摄取与富化流水线：从 CVEProject、NVD、CISA KEV、EPSS、OSV 及 
 ```mermaid
 xychart-beta
     title "mez-0/vulnify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 38（+0）
 
 
 ---

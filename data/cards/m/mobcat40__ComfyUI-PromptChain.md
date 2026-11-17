@@ -1,6 +1,6 @@
 # mobcat40/ComfyUI-PromptChain
 
-⭐ 37 · Python · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/mobcat40/ComfyUI-PromptChain) · 个人维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/mobcat40/ComfyUI-PromptChain) · 个人维护
 
 **ComfyUI 可视化提示词工程与图像迭代节点套件**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点包，把提示词框变为结构化工作流：节点内
 
 ```mermaid
 xychart-beta
-    title "mobcat40/ComfyUI-PromptChain 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-02"]
+    title "mobcat40/ComfyUI-PromptChain 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37, 37]
+    line [34, 35, 36, 37, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 37（+3）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

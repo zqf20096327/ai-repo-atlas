@@ -1,6 +1,6 @@
 # volnei/reviewly
 
-⭐ 20 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/volnei/reviewly) · 个人维护
+⭐ 32 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/volnei/reviewly) · 个人维护
 
 **给开发者的本地优先 GitHub PR 审查桌面应用，AI 在本机运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "volnei/reviewly 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "volnei/reviewly 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 33
+    line [19, 20, 19, 28, 30, 31, 32, 32]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 32（+13）
 
 
 ---

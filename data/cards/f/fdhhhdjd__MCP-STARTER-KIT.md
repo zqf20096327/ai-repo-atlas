@@ -1,6 +1,6 @@
 # fdhhhdjd/MCP-STARTER-KIT
 
-⭐ 17 · TypeScript · 推送 2026-09-11 · [GitHub](https://github.com/fdhhhdjd/MCP-STARTER-KIT) · [官网](https://codewebkhongkho.com) · 个人维护
+⭐ 18 · TypeScript · 推送 2026-09-11 · [GitHub](https://github.com/fdhhhdjd/MCP-STARTER-KIT) · [官网](https://codewebkhongkho.com) · 个人维护
 
 **为任意项目脚手架安全 MCP 服务器的 TypeScript 模板套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fdhhhdjd/MCP-STARTER-KIT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 18
-    line [12, 15, 16, 17, 17]
+    title "fdhhhdjd/MCP-STARTER-KIT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 19
+    line [12, 15, 16, 17, 16, 18, 18]
 ```
 
-2026-10-18 12 → 2026-11-02 17（+5）
+2026-10-18 12 → 2026-11-17 18（+6）
 
 
 ---

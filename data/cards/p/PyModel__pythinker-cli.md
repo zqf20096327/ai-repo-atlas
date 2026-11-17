@@ -1,6 +1,6 @@
 # PyModel/pythinker-cli
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/PyModel/pythinker-cli) · [官网](https://pythinker.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **终端里的审查优先 AI 编程 Agent：先评审、扫漏、诊断再写码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PyModel/pythinker-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-13"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-13 21（+0）
 
 
 ---

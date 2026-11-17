@@ -1,6 +1,6 @@
 # electron-stagewright/electron-stagewright
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/electron-stagewright/electron-stagewright) · [官网](https://electron-stagewright.github.io/electron-stagewright/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/electron-stagewright/electron-stagewright) · [官网](https://electron-stagewright.github.io/electron-stagewright/) · 组织维护
 
 **让 AI agent 通过 MCP 驱动真实 Electron 应用的测试服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "electron-stagewright/electron-stagewright 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

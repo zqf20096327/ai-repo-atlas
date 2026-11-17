@@ -1,6 +1,6 @@
 # UCSC-REAL/TokenCleaning
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/UCSC-REAL/TokenCleaning) · [官网](https://arxiv.org/pdf/2502.01968) · 组织维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/UCSC-REAL/TokenCleaning) · [官网](https://arxiv.org/pdf/2502.01968) · 组织维护
 
 **ICML 2025 论文实现：面向 LLM SFT 的 token 级数据选择方法**
 
@@ -45,13 +45,13 @@ UC Santa Cruz 团队发表的 ICML 2025 论文官方代码实现。提出从噪�
 
 ```mermaid
 xychart-beta
-    title "UCSC-REAL/TokenCleaning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    title "UCSC-REAL/TokenCleaning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57, 57]
 ```
 
-2026-10-18 55 → 2026-11-02 56（+1）
+2026-10-18 55 → 2026-11-17 57（+2）
 
 
 ---

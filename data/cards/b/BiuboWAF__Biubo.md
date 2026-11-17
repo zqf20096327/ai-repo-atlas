@@ -1,6 +1,6 @@
 # BiuboWAF/Biubo
 
-⭐ 63 · HTML · MIT · 推送 2026-04-10 · [GitHub](https://github.com/BiuboWAF/Biubo) · [官网](https://biubo.zplb.org.cn) · 组织维护
+⭐ 64 · HTML · MIT · 推送 2026-04-10 · [GitHub](https://github.com/BiuboWAF/Biubo) · [官网](https://biubo.zplb.org.cn) · 组织维护
 
 **AI 驱动的 Web 应用防火墙，支持攻击会话可视化回放**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BiuboWAF/Biubo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "BiuboWAF/Biubo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 62 --> 65
-    line [64, 63]
+    line [64, 63, 64, 63, 64, 64]
 ```
 
-2026-10-18 64 → 2026-11-02 63（-1）
+2026-10-18 64 → 2026-11-17 64（+0）
 
 
 ---

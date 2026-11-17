@@ -1,6 +1,6 @@
 # LinBlink/super-ai-goofish-monitor
 
-⭐ 26 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/LinBlink/super-ai-goofish-monitor) · 个人维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/LinBlink/super-ai-goofish-monitor) · 个人维护 · 中文 README
 
 **闲鱼商品监控与捡漏工具：爬取筛选加 AI 分析推送**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LinBlink/super-ai-goofish-monitor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 22 --> 27
-    line [23, 24, 25, 26, 26]
+    title "LinBlink/super-ai-goofish-monitor 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 47
+    line [23, 24, 25, 26, 24, 39, 41, 43, 44, 45, 45]
 ```
 
-2026-10-18 23 → 2026-11-02 26（+3）
+2026-10-18 23 → 2026-11-17 45（+22）
 
 
 ---

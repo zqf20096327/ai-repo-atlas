@@ -1,6 +1,6 @@
 # Z-Teddy/Gimbal-AI-Assistant
 
-⭐ 30 · C · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Z-Teddy/Gimbal-AI-Assistant) · 个人维护 · 中文 README
+⭐ 33 · C · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Z-Teddy/Gimbal-AI-Assistant) · 个人维护 · 中文 README
 
 **RK3588+STM32 嵌入式桌面智能体：离线视觉/语音/LLM 对话云台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Z-Teddy/Gimbal-AI-Assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 24 --> 31
-    line [25, 27, 30, 30]
+    title "Z-Teddy/Gimbal-AI-Assistant 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 34
+    line [25, 27, 30, 25, 33, 33]
 ```
 
-2026-10-18 25 → 2026-11-02 30（+5）
+2026-10-18 25 → 2026-11-17 33（+8）
 
 
 ---

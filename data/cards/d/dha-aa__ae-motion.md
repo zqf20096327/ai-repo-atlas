@@ -1,6 +1,6 @@
 # dha-aa/ae-motion
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dha-aa/ae-motion) · [官网](https://dha-aa.vercel.app/blog/building-ae-motion.html) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 Claude 在 After Effects 中制作动效的 MCP 服务器（78 个工具）**
 
@@ -11,7 +11,7 @@ MCP 服务器，分两部分：本机小程序负责与 Claude 通信，After Ef
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ MCP 服务器，分两部分：本机小程序负责与 Claude 通信，After Ef
 
 ```mermaid
 xychart-beta
-    title "dha-aa/ae-motion 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "dha-aa/ae-motion 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 2 --> 12
-    line [3, 4, 5, 6, 7, 8, 9, 10, 11]
+    line [3, 4, 5, 6, 7, 8, 9, 10, 11, 5, 5]
 ```
 
-2026-10-18 3 → 2026-11-02 11（+8）
+2026-10-18 3 → 2026-11-07 5（+2）
 
 
 ---

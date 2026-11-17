@@ -1,6 +1,6 @@
 # eabnelson/pronto
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/eabnelson/pronto) · [官网](https://studiofour.io/pronto) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/eabnelson/pronto) · [官网](https://studiofour.io/pronto) · 个人维护
 
 **从 iMessage/WhatsApp 对话触发本地 Codex/Claude Code 的 macOS 桥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eabnelson/pronto 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
+    title "eabnelson/pronto 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 55 --> 59
-    line [56, 57, 58, 58]
+    line [56, 57, 58, 57, 58, 58]
 ```
 
-2026-10-18 56 → 2026-11-02 58（+2）
+2026-10-18 56 → 2026-11-17 58（+2）
 
 
 ---

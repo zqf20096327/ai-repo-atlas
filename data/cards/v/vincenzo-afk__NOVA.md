@@ -1,6 +1,6 @@
 # vincenzo-afk/NOVA
 
-⭐ 41 · Python · 推送 2026-09-19 · [GitHub](https://github.com/vincenzo-afk/NOVA) · 个人维护
+⭐ 42 · Python · 推送 2026-09-19 · [GitHub](https://github.com/vincenzo-afk/NOVA) · 个人维护
 
 **本地优先的 Python 个人 AI 助手：推理、记忆、语音、视觉与设备控制**
 
@@ -45,13 +45,13 @@ Python 编写的桌面个人助手：以单一编排层整合 LLM 路由（云�
 
 ```mermaid
 xychart-beta
-    title "vincenzo-afk/NOVA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    title "vincenzo-afk/NOVA 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 43
+    line [39, 40, 41, 40, 42, 42]
 ```
 
-2026-10-18 39 → 2026-11-02 41（+2）
+2026-10-18 39 → 2026-11-17 42（+3）
 
 
 ---

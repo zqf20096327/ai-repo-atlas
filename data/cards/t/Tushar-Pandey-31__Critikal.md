@@ -1,6 +1,6 @@
 # Tushar-Pandey-31/Critikal
 
-⭐ 15 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/Tushar-Pandey-31/Critikal) · [官网](https://critikalai.com) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/Tushar-Pandey-31/Critikal) · [官网](https://critikalai.com) · 个人维护
 
 **自主智能合约安全审计 agent：定位漏洞并生成 Foundry PoC**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tushar-Pandey-31/Critikal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Tushar-Pandey-31/Critikal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

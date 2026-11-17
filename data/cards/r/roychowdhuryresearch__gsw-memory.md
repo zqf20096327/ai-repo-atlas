@@ -1,6 +1,6 @@
 # roychowdhuryresearch/gsw-memory
 
-⭐ 26 · Python · 推送 2026-08-01 · [GitHub](https://github.com/roychowdhuryresearch/gsw-memory) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/roychowdhuryresearch/gsw-memory) · 组织维护
 
 **LLM 结构化长期记忆框架：为 RAG 构建生成式语义工作空间**
 
@@ -11,7 +11,7 @@ AAAI-26 与 ICML 2026 两篇论文的官方代码库，以 pip 包形式提供�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ AAAI-26 与 ICML 2026 两篇论文的官方代码库，以 pip 包形式提供�
 ```mermaid
 xychart-beta
     title "roychowdhuryresearch/gsw-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 26（+0）
 
 
 ---

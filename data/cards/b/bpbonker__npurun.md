@@ -1,6 +1,6 @@
 # bpbonker/npurun
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/bpbonker/npurun) · [官网](https://github.com/bpbonker/hexrun) · 个人维护
+⭐ 35 · Rust · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/bpbonker/npurun) · [官网](https://github.com/bpbonker/hexrun) · 个人维护
 
 **面向骁龙 X 系列 Windows-on-ARM 笔记本的 NPU 本地 LLM 运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bpbonker/npurun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "bpbonker/npurun 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

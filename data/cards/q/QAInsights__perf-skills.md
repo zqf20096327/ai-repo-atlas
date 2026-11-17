@@ -1,6 +1,6 @@
 # QAInsights/perf-skills
 
-⭐ 19 · MIT · 推送 2026-08-29 · [GitHub](https://github.com/QAInsights/perf-skills) · [官网](https://jmeter.ai) · 个人维护
+⭐ 23 · MIT · 推送 2026-08-29 · [GitHub](https://github.com/QAInsights/perf-skills) · [官网](https://jmeter.ai) · 个人维护
 
 **面向 AI 编码助手的高性能/负载测试知识库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "QAInsights/perf-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19, 19]
+    title "QAInsights/perf-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 18, 19, 17, 22, 23, 23]
 ```
 
-2026-10-18 16 → 2026-11-02 19（+3）
+2026-10-18 16 → 2026-11-17 23（+7）
 
 
 ---

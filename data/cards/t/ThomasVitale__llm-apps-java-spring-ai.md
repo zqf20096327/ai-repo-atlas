@@ -1,6 +1,6 @@
 # ThomasVitale/llm-apps-java-spring-ai
 
-⭐ 788 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ThomasVitale/llm-apps-java-spring-ai) · 个人维护
+⭐ 789 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThomasVitale/llm-apps-java-spring-ai) · 个人维护
 
 **用 Spring AI 构建 Java LLM 应用的示例代码合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThomasVitale/llm-apps-java-spring-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 787 --> 790
-    line [789, 788, 789, 788, 789, 788, 788]
+    title "ThomasVitale/llm-apps-java-spring-ai 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 785 --> 790
+    line [789, 788, 789, 788, 789, 788, 789, 786, 788, 789, 789]
 ```
 
-2026-10-18 789 → 2026-11-02 788（-1）
+2026-10-18 789 → 2026-11-17 789（+0）
 
 
 ---

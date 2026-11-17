@@ -1,6 +1,6 @@
 # Encephos/markdown-link-resolver
 
-⭐ 27 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Encephos/markdown-link-resolver) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Encephos/markdown-link-resolver) · 个人维护
 
 **零依赖 Python 工具：解析 Markdown 相对链接并将图片内联为 Base64**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Encephos/markdown-link-resolver 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
+    title "Encephos/markdown-link-resolver 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 26 --> 31
-    line [29, 30, 27, 27]
+    line [29, 30, 27, 28, 29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 27（-2）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

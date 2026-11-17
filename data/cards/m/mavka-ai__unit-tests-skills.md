@@ -1,6 +1,6 @@
 # mavka-ai/unit-tests-skills
 
-⭐ 70 · Shell · MIT · 推送 2026-09-23 · [GitHub](https://github.com/mavka-ai/unit-tests-skills) · [官网](https://mavka.ai) · 组织维护
+⭐ 75 · Shell · MIT · 推送 2026-09-23 · [GitHub](https://github.com/mavka-ai/unit-tests-skills) · [官网](https://mavka.ai) · 组织维护
 
 **给 AI agent 的 Java 单元测试生成技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mavka-ai/unit-tests-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 70]
+    title "mavka-ai/unit-tests-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 67 --> 76
+    line [68, 69, 70, 68, 72, 73, 74, 75, 75]
 ```
 
-2026-10-18 68 → 2026-11-02 70（+2）
+2026-10-18 68 → 2026-11-17 75（+7）
 
 
 ---

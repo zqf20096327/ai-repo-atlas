@@ -1,6 +1,6 @@
 # superhq-ai/neko
 
-⭐ 23 · Rust · MIT · 推送 2026-02-27 · [GitHub](https://github.com/superhq-ai/neko) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向树莓派 Zero 2W 等低配设备的轻量 AI agent 运行时**
 
@@ -11,7 +11,7 @@ Rust 实现的单二进制 AI agent 运行时，目标设备为 Raspberry Pi Zer
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Rust 实现的单二进制 AI agent 运行时，目标设备为 Raspberry Pi Zer
 ```mermaid
 xychart-beta
     title "superhq-ai/neko 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 23（+1）
+2026-10-18 22 → 2026-11-12 24（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # pranavkumaarofficial/nlcli-wizard
 
-⭐ 33 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/pranavkumaarofficial/nlcli-wizard) · [官网](https://www.reddit.com/r/LocalLLaMA/comments/1or1e7p/i_finetuned_gemma_3_1b_for_cli_command/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/pranavkumaarofficial/nlcli-wizard) · [官网](https://www.reddit.com/r/LocalLLaMA/comments/1or1e7p/i_finetuned_gemma_3_1b_for_cli_command/) · 个人维护
 
 **给 Python CLI 工具加自然语言 `-w` 标志的本地 SLM 流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pranavkumaarofficial/nlcli-wizard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

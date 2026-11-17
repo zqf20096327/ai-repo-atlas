@@ -1,6 +1,6 @@
 # maelstrom-co/maelstrom
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/maelstrom-co/maelstrom) · [官网](https://maelstrom-ai.co) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/maelstrom-co/maelstrom) · [官网](https://maelstrom-ai.co) · 组织维护
 
 **AI 编排 UI 框架：让模型实时编排你预构建的组件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maelstrom-co/maelstrom 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "maelstrom-co/maelstrom 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 13, 13]
 ```
 
-2026-10-24 10 → 2026-11-02 11（+1）
+2026-10-24 10 → 2026-11-17 13（+3）
 
 
 ---

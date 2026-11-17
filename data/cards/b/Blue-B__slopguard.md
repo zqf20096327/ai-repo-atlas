@@ -1,6 +1,6 @@
 # Blue-B/slopguard
 
-⭐ 61 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Blue-B/slopguard) · 个人维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Blue-B/slopguard) · 个人维护
 
 **GitHub App：给 AI 生成的低质量 PR/issue 评分、溯源并隔离**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blue-B/slopguard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "Blue-B/slopguard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 65
+    line [61, 64, 64]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 64（+3）
 
 
 ---

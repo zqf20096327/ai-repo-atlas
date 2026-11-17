@@ -1,6 +1,6 @@
 # runpod-workers/worker-comfyui
 
-⭐ 749 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/runpod-workers/worker-comfyui) · 组织维护
+⭐ 750 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/runpod-workers/worker-comfyui) · 组织维护
 
 **把 ComfyUI 工作流封装为 RunPod Serverless API 的 worker**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "runpod-workers/worker-comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 748 --> 750
-    line [749, 749]
+    title "runpod-workers/worker-comfyui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 748 --> 751
+    line [749, 750, 749, 750, 750]
 ```
 
-2026-10-18 749 → 2026-11-02 749（+0）
+2026-10-18 749 → 2026-11-17 750（+1）
 
 
 ---

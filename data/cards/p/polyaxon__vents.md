@@ -1,6 +1,6 @@
 # polyaxon/vents
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/polyaxon/vents) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/polyaxon/vents) · 组织维护
 
 **开源的连接目录、集成与告警通知库**
 
@@ -42,12 +42,12 @@ Vents 是由 Polyaxon 维护的开源 Python 库，提供连接目录（connecti
 ```mermaid
 xychart-beta
     title "polyaxon/vents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 31（+0）
 
 
 ---

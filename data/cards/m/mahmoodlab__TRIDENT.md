@@ -1,6 +1,6 @@
 # mahmoodlab/TRIDENT
 
-⭐ 651 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mahmoodlab/TRIDENT) · [官网](https://trident-docs.readthedocs.io) · 组织维护
+⭐ 660 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mahmoodlab/TRIDENT) · [官网](https://trident-docs.readthedocs.io) · 组织维护
 
 **病理全切片图像大规模处理工具包：分割、切块与特征提取**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahmoodlab/TRIDENT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 644 --> 652
-    line [645, 646, 648, 647, 649, 651, 651]
+    title "mahmoodlab/TRIDENT 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 644 --> 661
+    line [645, 646, 648, 647, 649, 651, 648, 653, 656, 657, 658, 659, 660, 660]
 ```
 
-2026-10-18 645 → 2026-11-02 651（+6）
+2026-10-18 645 → 2026-11-17 660（+15）
 
 
 ---

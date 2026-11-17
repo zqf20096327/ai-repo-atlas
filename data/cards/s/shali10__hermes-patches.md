@@ -1,6 +1,6 @@
 # shali10/hermes-patches
 
-⭐ 32 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/shali10/hermes-patches) · [官网](https://github.com/shali10/hermes-patches) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/shali10/hermes-patches) · [官网](https://github.com/shali10/hermes-patches) · 个人维护 · 中文 README
 
 **给 Hermes Agent 用户的非侵入式体验增强补丁套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shali10/hermes-patches 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 31 --> 40
-    line [38, 39, 33, 32, 32]
+    title "shali10/hermes-patches 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 30 --> 40
+    line [38, 39, 33, 32, 31, 31]
 ```
 
-2026-10-18 38 → 2026-11-02 32（-6）
+2026-10-18 38 → 2026-11-17 31（-7）
 
 
 ---

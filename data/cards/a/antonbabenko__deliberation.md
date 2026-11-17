@@ -1,6 +1,6 @@
 # antonbabenko/deliberation
 
-⭐ 180 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/antonbabenko/deliberation) · 个人维护
+⭐ 183 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/antonbabenko/deliberation) · 个人维护
 
 **让编码代理向 GPT/Gemini/Grok 等多模型征求二次意见与共识的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "antonbabenko/deliberation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 175 --> 181
-    line [176, 177, 178, 180]
+    title "antonbabenko/deliberation 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 175 --> 184
+    line [176, 177, 178, 180, 178, 181, 182, 183, 183]
 ```
 
-2026-10-18 176 → 2026-11-02 180（+4）
+2026-10-18 176 → 2026-11-17 183（+7）
 
 
 ---

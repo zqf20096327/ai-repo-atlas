@@ -1,6 +1,6 @@
 # vercel-labs/knowledge-agent-template
 
-⭐ 1,074 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/vercel-labs/knowledge-agent-template) · [官网](https://chatsdk-knowledge-agent.vercel.app) · 组织维护
+⭐ 1,085 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/vercel-labs/knowledge-agent-template) · [官网](https://chatsdk-knowledge-agent.vercel.app) · 组织维护
 
 **文件系统检索式知识库 AI agent 模板，可部署为聊天/机器人应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/knowledge-agent-template 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1068 --> 1075
-    line [1069, 1071, 1072, 1073, 1074, 1074]
+    title "vercel-labs/knowledge-agent-template 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 1068 --> 1086
+    line [1069, 1071, 1072, 1073, 1074, 1072, 1079, 1081, 1082, 1083, 1082, 1083, 1085, 1085]
 ```
 
-2026-10-18 1,069 → 2026-11-02 1,074（+5）
+2026-10-18 1,069 → 2026-11-17 1,085（+16）
 
 
 ---

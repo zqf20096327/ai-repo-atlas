@@ -1,6 +1,6 @@
 # Hiroki-org/jules-extension
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Hiroki-org/jules-extension) · [官网](https://marketplace.visualstudio.com/items?itemName=HirokiMukai.jules-extension) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Hiroki-org/jules-extension) · [官网](https://marketplace.visualstudio.com/items?itemName=HirokiMukai.jules-extension) · 组织维护
 
 **VSCode 中操作 Google Jules AI 编程代理的扩展**
 
@@ -44,13 +44,13 @@ VSCode 扩展，通过 Jules API 连接 Google 的 AI 编程代理 Jules：设�
 
 ```mermaid
 xychart-beta
-    title "Hiroki-org/jules-extension 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "Hiroki-org/jules-extension 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

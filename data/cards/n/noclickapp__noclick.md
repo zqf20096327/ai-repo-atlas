@@ -1,6 +1,6 @@
 # noclickapp/noclick
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/noclickapp/noclick) · [官网](https://www.noclick.com) · 组织维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/noclickapp/noclick) · [官网](https://www.noclick.com) · 组织维护
 
 **开源 AI agent 工作流自动化平台，可视化画布+约160集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "noclickapp/noclick 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "noclickapp/noclick 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

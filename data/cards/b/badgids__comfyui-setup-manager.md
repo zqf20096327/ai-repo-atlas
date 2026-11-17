@@ -1,6 +1,6 @@
 # badgids/comfyui-setup-manager
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/badgids/comfyui-setup-manager) · [官网](https://github.com/badgids/comfyui-setup-manager) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/badgids/comfyui-setup-manager) · [官网](https://github.com/badgids/comfyui-setup-manager) · 个人维护
 
 **ComfyUI 安装管理器：安装、启动、更新、导出 ComfyUI 环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "badgids/comfyui-setup-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "badgids/comfyui-setup-manager 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 17（-1）
 
 
 ---

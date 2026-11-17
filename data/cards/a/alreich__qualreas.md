@@ -1,6 +1,6 @@
 # alreich/qualreas
 
-⭐ 44 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/alreich/qualreas) · [官网](https://qualreas.readthedocs.io/en/latest/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **时空定性推理库：用关系代数与约束网络做一致性推理**
 
@@ -11,7 +11,7 @@ Python 模块 qualreas 提供处理关系代数类（如 Allen 区间代数、RC
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Python 模块 qualreas 提供处理关系代数类（如 Allen 区间代数、RC
 ```mermaid
 xychart-beta
     title "alreich/qualreas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-07 44（+0）
 
 
 ---

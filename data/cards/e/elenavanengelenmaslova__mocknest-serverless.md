@@ -1,6 +1,6 @@
 # elenavanengelenmaslova/mocknest-serverless
 
-⭐ 18 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/elenavanengelenmaslova/mocknest-serverless) · 个人维护
+⭐ 19 · Kotlin · MIT · 推送 2026-11-12 · [GitHub](https://github.com/elenavanengelenmaslova/mocknest-serverless) · 个人维护
 
 **部署在自己 AWS 账号的 WireMock 兼容 serverless mock 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elenavanengelenmaslova/mocknest-serverless 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "elenavanengelenmaslova/mocknest-serverless 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

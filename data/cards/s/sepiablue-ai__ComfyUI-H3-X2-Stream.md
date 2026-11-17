@@ -1,6 +1,6 @@
 # sepiablue-ai/ComfyUI-H3-X2-Stream
 
-⭐ 37 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/sepiablue-ai/ComfyUI-H3-X2-Stream) · [官网](https://sayakabenchmark.pages.dev/) · 个人维护 · 中文 README
+⭐ 38 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/sepiablue-ai/ComfyUI-H3-X2-Stream) · [官网](https://sayakabenchmark.pages.dev/) · 个人维护 · 中文 README
 
 **加速 MiniMax H3 视频生成的 ComfyUI 自定义节点：INT8 X2 VAE + 异步 NVENC 保存**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sepiablue-ai/ComfyUI-H3-X2-Stream 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37, 37]
+    title "sepiablue-ai/ComfyUI-H3-X2-Stream 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 36, 37, 38, 38]
 ```
 
-2026-10-18 34 → 2026-11-02 37（+3）
+2026-10-18 34 → 2026-11-17 38（+4）
 
 
 ---

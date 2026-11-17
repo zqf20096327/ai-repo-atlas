@@ -1,6 +1,6 @@
 # Fangcun-AI/SkillWard
 
-⭐ 144 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/Fangcun-AI/SkillWard) · [官网](https://skillward.fangcunleap.com/) · 组织维护 · 中文 README
+⭐ 146 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/Fangcun-AI/SkillWard) · [官网](https://skillward.fangcunleap.com/) · 组织维护 · 中文 README
 
 **AI Agent Skills 安全扫描器：静态+LLM+沙箱三阶段检测风险**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fangcun-AI/SkillWard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 142 --> 145
-    line [143, 144, 144]
+    title "Fangcun-AI/SkillWard 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 142 --> 147
+    line [143, 144, 143, 145, 146, 146]
 ```
 
-2026-10-18 143 → 2026-11-02 144（+1）
+2026-10-18 143 → 2026-11-17 146（+3）
 
 
 ---

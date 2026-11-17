@@ -1,6 +1,6 @@
 # planetf1/oxllm
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/planetf1/oxllm) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/planetf1/oxllm) · 个人维护
 
 **Rust 编写的 OpenAI 兼容 LLM 路由网关，带故障转移**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "planetf1/oxllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "planetf1/oxllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

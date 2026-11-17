@@ -1,6 +1,6 @@
 # VisionForge-OU/foreman
 
-⭐ 443 · Python · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/VisionForge-OU/foreman) · 组织维护
+⭐ 439 · Python · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/VisionForge-OU/foreman) · 组织维护
 
 **监督 headless Claude Code agents 的门控交付编排 TUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VisionForge-OU/foreman 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 442 --> 446
-    line [443, 444, 445, 443, 443]
+    title "VisionForge-OU/foreman 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 437 --> 446
+    line [443, 444, 445, 443, 438, 439, 439]
 ```
 
-2026-10-18 443 → 2026-11-02 443（+0）
+2026-10-18 443 → 2026-11-17 439（-4）
 
 
 ---

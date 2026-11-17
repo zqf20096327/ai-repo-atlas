@@ -1,6 +1,6 @@
 # geerlingguy/beowulf-ai-cluster
 
-⭐ 380 · Jinja · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/geerlingguy/beowulf-ai-cluster) · 个人维护
+⭐ 382 · Jinja · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/geerlingguy/beowulf-ai-cluster) · 个人维护
 
 **用 Ansible 在异构机器上部署并基准测试分布式 AI 集群**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "geerlingguy/beowulf-ai-cluster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 379 --> 381
-    line [380, 380]
+    title "geerlingguy/beowulf-ai-cluster 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 379 --> 383
+    line [380, 381, 382, 382]
 ```
 
-2026-10-18 380 → 2026-11-02 380（+0）
+2026-10-18 380 → 2026-11-17 382（+2）
 
 
 ---

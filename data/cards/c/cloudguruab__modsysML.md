@@ -1,6 +1,6 @@
 # cloudguruab/modsysML
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/cloudguruab/modsysML) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/cloudguruab/modsysML) · 组织维护
 
 **LLM 输出评测与提示调优的 Python SDK/CLI 框架**
 
@@ -46,12 +46,12 @@ ModsysML（modsys）是开源的模型响应评测工具箱：以 Python SDK 与
 ```mermaid
 xychart-beta
     title "cloudguruab/modsysML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 35（+0）
 
 
 ---

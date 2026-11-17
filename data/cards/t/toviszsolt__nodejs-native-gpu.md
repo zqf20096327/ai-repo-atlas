@@ -1,6 +1,6 @@
 # toviszsolt/nodejs-native-gpu
 
-⭐ 14 · JavaScript · 推送 2026-02-23 · [GitHub](https://github.com/toviszsolt/nodejs-native-gpu) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Node.js 中运行 GPU 计算的原生插件（已无限期暂停）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "toviszsolt/nodejs-native-gpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-11 14（+0）
 
 
 ---

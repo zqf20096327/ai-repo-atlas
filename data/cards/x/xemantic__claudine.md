@@ -1,6 +1,6 @@
 # xemantic/claudine
 
-⭐ 179 · Kotlin · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xemantic/claudine) · 组织维护
+⭐ 180 · Kotlin · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xemantic/claudine) · 组织维护
 
 **基于 Claude API 的自主 CLI AI 代理，用于学习 harness 工程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xemantic/claudine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    title "xemantic/claudine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 178 --> 181
+    line [179, 180, 180]
 ```
 
-2026-10-18 179 → 2026-11-02 179（+0）
+2026-10-18 179 → 2026-11-17 180（+1）
 
 
 ---

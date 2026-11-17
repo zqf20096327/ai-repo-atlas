@@ -1,6 +1,6 @@
 # Devinterview-io/time-series-interview-questions
 
-⭐ 45 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/time-series-interview-questions) · 组织维护
+⭐ 46 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/time-series-interview-questions) · 组织维护
 
 **时间序列面试题与答案合集（50 题，2026 版）**
 
@@ -43,13 +43,13 @@ Devinterview.io 维护的机器学习与数据科学面试准备资料：以问�
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/time-series-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "Devinterview-io/time-series-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

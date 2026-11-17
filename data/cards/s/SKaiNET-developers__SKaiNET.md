@@ -1,6 +1,6 @@
 # SKaiNET-developers/SKaiNET
 
-⭐ 58 · Kotlin · MIT · 推送 2026-11-01 · [GitHub](https://github.com/SKaiNET-developers/SKaiNET) · [官网](https://skainet-developers.github.io/SKaiNET/) · 组织维护
+⭐ 59 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SKaiNET-developers/SKaiNET) · [官网](https://skainet-developers.github.io/SKaiNET/) · 组织维护
 
 **Kotlin 多平台深度学习框架：张量/NN DSL/编译器与本地 GGUF 运行引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SKaiNET-developers/SKaiNET 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58]
+    title "SKaiNET-developers/SKaiNET 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 58, 57, 58, 59, 59]
 ```
 
-2026-10-18 56 → 2026-11-02 58（+2）
+2026-10-18 56 → 2026-11-17 59（+3）
 
 
 ---

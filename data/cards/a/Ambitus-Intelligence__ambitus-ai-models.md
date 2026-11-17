@@ -46,12 +46,12 @@ TUI 优先的 Python 包，作为自动化市场研究平台的核心引擎：�
 ```mermaid
 xychart-beta
     title "Ambitus-Intelligence/ambitus-ai-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-01"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-01 13（+0）
+2026-10-18 13 → 2026-11-07 13（+0）
 
 
 ---

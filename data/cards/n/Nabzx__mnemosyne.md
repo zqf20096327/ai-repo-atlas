@@ -1,6 +1,6 @@
 # Nabzx/mnemosyne
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Nabzx/mnemosyne) · [官网](https://nabzx.github.io/mnemosyne/) · 个人维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Nabzx/mnemosyne) · [官网](https://nabzx.github.io/mnemosyne/) · 个人维护
 
 **AI agent 记忆的版本控制系统：commit/branch/merge/blame**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nabzx/mnemosyne 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

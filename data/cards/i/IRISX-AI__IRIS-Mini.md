@@ -1,6 +1,6 @@
 # IRISX-AI/IRIS-Mini
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/IRISX-AI/IRIS-Mini) · [官网](https://irisxai.in) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Gemini Live API 的桌面语音 AI 助手，带 CLI**
 
@@ -11,7 +11,7 @@ IRIS-MINI 是一个语音 AI 助手：调用 Google Gemini Live API 提供实时
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ IRIS-MINI 是一个语音 AI 助手：调用 Google Gemini Live API 提供实时
 
 ```mermaid
 xychart-beta
-    title "IRISX-AI/IRIS-Mini 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
+    title "IRISX-AI/IRIS-Mini 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    line [21, 22, 23, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 23（+2）
+2026-10-18 21 → 2026-11-11 23（+2）
 
 
 ---

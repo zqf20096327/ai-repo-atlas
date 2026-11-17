@@ -1,6 +1,6 @@
 # Dragkob/MCPhantom
 
-⭐ 12 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Dragkob/MCPhantom) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Dragkob/MCPhantom) · 个人维护
 
 **MCP 端点安全侦察与测试的本地 Web 控制台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dragkob/MCPhantom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Dragkob/MCPhantom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

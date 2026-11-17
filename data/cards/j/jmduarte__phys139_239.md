@@ -1,6 +1,6 @@
 # jmduarte/phys139_239
 
-⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-13 · [GitHub](https://github.com/jmduarte/phys139_239) · [官网](https://jduarte.physics.ucsd.edu/phys139_239) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **UCSD 物理系机器学习课程（PHYS 139/239）教材仓库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "jmduarte/phys139_239 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-08 19（+0）
 
 
 ---

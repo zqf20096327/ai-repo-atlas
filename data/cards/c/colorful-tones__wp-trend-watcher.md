@@ -1,6 +1,6 @@
 # colorful-tones/wp-trend-watcher
 
-⭐ 15 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/colorful-tones/wp-trend-watcher) · [官网](https://colorful-tones.github.io/wp-trend-watcher/) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/colorful-tones/wp-trend-watcher) · [官网](https://colorful-tones.github.io/wp-trend-watcher/) · 组织维护
 
 **为 WordPress 开发者生成 AI 辅助、人工审阅的周报工作流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "colorful-tones/wp-trend-watcher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "colorful-tones/wp-trend-watcher 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

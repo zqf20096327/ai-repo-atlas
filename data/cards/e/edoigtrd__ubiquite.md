@@ -1,6 +1,6 @@
 # edoigtrd/ubiquite
 
-⭐ 50 · TypeScript · AGPL-3.0 · 推送 2025-11-14 · [GitHub](https://github.com/edoigtrd/ubiquite) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开源 Perplexity 克隆：多 LLM 供应商的联网搜索问答应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edoigtrd/ubiquite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-08 50（+0）
 
 
 ---

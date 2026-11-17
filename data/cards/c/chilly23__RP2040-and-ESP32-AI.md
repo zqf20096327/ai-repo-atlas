@@ -1,6 +1,6 @@
 # chilly23/RP2040-and-ESP32-AI
 
-⭐ 54 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/chilly23/RP2040-and-ESP32-AI) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/chilly23/RP2040-and-ESP32-AI) · 个人维护
 
 **ESP32-S3 上本地运行 28.9M 参数 TinyLM 的双板嵌入式演示**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chilly23/RP2040-and-ESP32-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "chilly23/RP2040-and-ESP32-AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 52 --> 56
+    line [54, 53, 54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 55（+1）
 
 
 ---

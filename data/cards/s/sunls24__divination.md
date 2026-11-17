@@ -1,6 +1,6 @@
 # sunls24/divination
 
-⭐ 166 · TypeScript · MIT · 推送 2026-01-02 · [GitHub](https://github.com/sunls24/divination) · [官网](https://divination.sunls.de) · 个人维护 · 中文 README
+⭐ 167 · TypeScript · MIT · 推送 2026-01-02 · [GitHub](https://github.com/sunls24/divination) · [官网](https://divination.sunls.de) · 个人维护 · 中文 README
 
 **AI 解读易经卦象的网页算卦应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunls24/divination 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 163 --> 167
-    line [164, 166, 166]
+    title "sunls24/divination 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 163 --> 168
+    line [164, 166, 164, 166, 167, 167]
 ```
 
-2026-10-18 164 → 2026-11-02 166（+2）
+2026-10-18 164 → 2026-11-17 167（+3）
 
 
 ---

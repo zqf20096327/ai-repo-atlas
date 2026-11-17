@@ -1,6 +1,6 @@
 # danilop/MCP2Lambda
 
-⭐ 109 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/danilop/MCP2Lambda) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/danilop/MCP2Lambda) · 个人维护
 
 **把 AWS Lambda 函数作为 LLM 工具暴露的 MCP 服务器桥接层**
 
@@ -45,13 +45,13 @@ MCP2Lambda 是一个 MCP 服务器，作为 MCP 客户端与 AWS Lambda 之间�
 
 ```mermaid
 xychart-beta
-    title "danilop/MCP2Lambda 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    title "danilop/MCP2Lambda 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 108 --> 111
+    line [109, 110, 110]
 ```
 
-2026-10-28 109 → 2026-11-02 109（+0）
+2026-10-28 109 → 2026-11-17 110（+1）
 
 
 ---

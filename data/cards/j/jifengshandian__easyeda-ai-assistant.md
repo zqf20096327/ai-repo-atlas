@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jifengshandian/easyeda-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "jifengshandian/easyeda-ai-assistant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 97 --> 100
-    line [98, 99]
+    line [98, 99, 98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 99（+1）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

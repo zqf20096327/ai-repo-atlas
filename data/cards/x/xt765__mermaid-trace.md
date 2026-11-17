@@ -1,6 +1,6 @@
 # xt765/mermaid-trace
 
-⭐ 84 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/xt765/mermaid-trace) · 个人维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/xt765/mermaid-trace) · 个人维护 · 中文 README
 
 **将 Python 代码执行自动转为 Mermaid 时序图的日志可视化库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xt765/mermaid-trace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    title "xt765/mermaid-trace 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 79 --> 85
+    line [84, 80, 82, 81, 81]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 81（-3）
 
 
 ---

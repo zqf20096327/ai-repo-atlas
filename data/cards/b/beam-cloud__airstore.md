@@ -1,6 +1,6 @@
 # beam-cloud/airstore
 
-⭐ 187 · Go · AGPL-3.0 · 推送 2026-04-28 · [GitHub](https://github.com/beam-cloud/airstore) · [官网](https://www.airstore.ai/) · 组织维护
+⭐ 188 · Go · AGPL-3.0 · 推送 2026-04-28 · [GitHub](https://github.com/beam-cloud/airstore) · [官网](https://www.airstore.ai/) · 组织维护
 
 **把 Gmail/GitHub 等数据源挂载为虚拟文件系统供 AI agent 读取**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beam-cloud/airstore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 186 --> 188
-    line [187, 187]
+    title "beam-cloud/airstore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 186 --> 189
+    line [187, 188, 188]
 ```
 
-2026-10-18 187 → 2026-11-02 187（+0）
+2026-10-18 187 → 2026-11-17 188（+1）
 
 
 ---

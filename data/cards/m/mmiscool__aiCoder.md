@@ -1,6 +1,6 @@
 # mmiscool/aiCoder
 
-⭐ 202 · JavaScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/mmiscool/aiCoder) · [官网](https://www.npmjs.com/package/aicodertool) · 个人维护
+⭐ 201 · JavaScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/mmiscool/aiCoder) · [官网](https://www.npmjs.com/package/aicodertool) · 个人维护
 
 **面向 JavaScript 的 AI 编码助手：本地 Web UI 合并 LLM 代码片段**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mmiscool/aiCoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 201 --> 203
-    line [202, 202]
+    title "mmiscool/aiCoder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 200 --> 203
+    line [202, 201, 201]
 ```
 
-2026-10-18 202 → 2026-11-02 202（+0）
+2026-10-18 202 → 2026-11-17 201（-1）
 
 
 ---

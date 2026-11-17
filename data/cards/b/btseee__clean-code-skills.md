@@ -1,6 +1,6 @@
 # btseee/clean-code-skills
 
-⭐ 17 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/btseee/clean-code-skills) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/btseee/clean-code-skills) · 个人维护
 
 **给 AI 编码代理的整洁代码/整洁架构技能包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "btseee/clean-code-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    title "btseee/clean-code-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 26
+    line [14, 15, 16, 17, 16, 22, 24, 25, 25]
 ```
 
-2026-10-18 14 → 2026-11-02 17（+3）
+2026-10-18 14 → 2026-11-17 25（+11）
 
 
 ---

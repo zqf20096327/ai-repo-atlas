@@ -1,6 +1,6 @@
 # coreprocess/openai-relay-for-cursor
 
-⭐ 12 · TypeScript · 推送 2026-09-06 · [GitHub](https://github.com/coreprocess/openai-relay-for-cursor) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-09-06 · [GitHub](https://github.com/coreprocess/openai-relay-for-cursor) · 个人维护
 
 **本地中继：让 Cursor 用自己的 key 调用 Responses-API 专属 OpenAI 模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "coreprocess/openai-relay-for-cursor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "coreprocess/openai-relay-for-cursor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

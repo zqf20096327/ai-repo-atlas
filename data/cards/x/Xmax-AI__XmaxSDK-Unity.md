@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Unity
 
-⭐ 13 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Unity) · [官网](https://platform.xmax.ai/docs) · 组织维护
+⭐ 14 · C# · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Unity) · [官网](https://platform.xmax.ai/docs) · 组织维护
 
 **面向 Unity 开发者的 Xmax 实时交互视频生成接入 SDK**
 
@@ -44,13 +44,13 @@ Unity 包形式分发的 SDK，接入 Xmax 模型实现端到端实时交互视�
 
 ```mermaid
 xychart-beta
-    title "Xmax-AI/XmaxSDK-Unity 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Xmax-AI/XmaxSDK-Unity 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-25 13 → 2026-11-02 13（+0）
+2026-10-25 13 → 2026-11-17 14（+1）
 
 
 ---

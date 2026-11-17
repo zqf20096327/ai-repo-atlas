@@ -1,6 +1,6 @@
 # contenox/harness
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/contenox/harness) · [官网](https://contenox.com) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/contenox/harness) · [官网](https://contenox.com) · 组织维护
 
 **策略约束、厂商中立的 AI agent 编排桌面运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "contenox/harness 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "contenox/harness 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-24 11 → 2026-11-02 11（+0）
+2026-10-24 11 → 2026-11-17 12（+1）
 
 
 ---

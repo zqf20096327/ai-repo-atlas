@@ -1,6 +1,6 @@
 # Maz2580/geospark
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Maz2580/geospark) · [官网](https://geospark.terrascout.app) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Maz2580/geospark) · [官网](https://geospark.terrascout.app) · 个人维护
 
 **给 LLM 提供可验证空间计算工具的 MCP 服务器与 Python 库**
 
@@ -45,13 +45,13 @@ GeoSpark 是一套空间推理工具服务：通过几何引擎（pyproj/Shapely
 
 ```mermaid
 xychart-beta
-    title "Maz2580/geospark 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-02"]
+    title "Maz2580/geospark 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19, 20, 20]
 ```
 
-2026-10-23 19 → 2026-11-02 20（+1）
+2026-10-23 19 → 2026-11-17 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # claude-world/claude-world-studio
 
-⭐ 71 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/claude-world/claude-world-studio) · 组织维护 · 中文 README
+⭐ 72 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/claude-world/claude-world-studio) · 组织维护 · 中文 README
 
 **面向 Threads 的 AI 内容流水线：趋势发现到自动发布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "claude-world/claude-world-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "claude-world/claude-world-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

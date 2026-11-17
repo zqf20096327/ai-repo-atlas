@@ -1,6 +1,6 @@
 # bigbrozer/comfyture
 
-⭐ 18 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bigbrozer/comfyture) · [官网](https://hub.docker.com/r/bigbrozer/comfyture) · 个人维护
+⭐ 16 · Shell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/bigbrozer/comfyture) · [官网](https://hub.docker.com/r/bigbrozer/comfyture) · 个人维护
 
 **自托管 ComfyUI 的 Docker 镜像与 compose 栈**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bigbrozer/comfyture 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "bigbrozer/comfyture 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [18, 17, 16, 16]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 16（-2）
 
 
 ---

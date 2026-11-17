@@ -1,6 +1,6 @@
 # bryan31/RogueMap
 
-⭐ 101 · Java · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/bryan31/RogueMap) · [官网](https://roguemap.yomahub.com) · 个人维护 · 中文 README
+⭐ 102 · Java · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/bryan31/RogueMap) · [官网](https://roguemap.yomahub.com) · 个人维护 · 中文 README
 
 **Java 嵌入式堆外存储引擎，附向量+BM25 混合检索的 AI 记忆层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bryan31/RogueMap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 99 --> 102
-    line [100, 101, 101]
+    title "bryan31/RogueMap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 100, 102, 102]
 ```
 
-2026-10-18 100 → 2026-11-02 101（+1）
+2026-10-18 100 → 2026-11-17 102（+2）
 
 
 ---

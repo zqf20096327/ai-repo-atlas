@@ -1,6 +1,6 @@
 # yusixian/moe-copy-ai
 
-⭐ 144 · TypeScript · AGPL-3.0 · 推送 2026-04-03 · [GitHub](https://github.com/yusixian/moe-copy-ai) · [官网](https://moe.cosine.ren/docs) · 个人维护 · 中文 README
+⭐ 145 · TypeScript · AGPL-3.0 · 推送 2026-04-03 · [GitHub](https://github.com/yusixian/moe-copy-ai) · [官网](https://moe.cosine.ren/docs) · 个人维护 · 中文 README
 
 **AI 网页数据提取浏览器扩展：结构化抓取并生成 AI 摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yusixian/moe-copy-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    title "yusixian/moe-copy-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 143 --> 146
+    line [144, 145, 145]
 ```
 
-2026-10-18 144 → 2026-11-02 144（+0）
+2026-10-18 144 → 2026-11-17 145（+1）
 
 
 ---

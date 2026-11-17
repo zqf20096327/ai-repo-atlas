@@ -1,6 +1,6 @@
 # siamcafe/bomllm
 
-⭐ 43 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/siamcafe/bomllm) · [官网](https://huggingface.co/bomllm/turbo-thai-config) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/siamcafe/bomllm) · [官网](https://huggingface.co/bomllm/turbo-thai-config) · 个人维护
 
 **Apple Silicon 自托管 AI 平台：Mac Mini 跑推理/泰语优化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "siamcafe/bomllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "siamcafe/bomllm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 41 --> 49
+    line [42, 43, 42, 43, 48, 48]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 48（+6）
 
 
 ---

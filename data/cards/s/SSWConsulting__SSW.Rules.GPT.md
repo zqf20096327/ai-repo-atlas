@@ -1,6 +1,6 @@
 # SSWConsulting/SSW.Rules.GPT
 
-⭐ 24 · C# · 推送 2026-08-20 · [GitHub](https://github.com/SSWConsulting/SSW.Rules.GPT) · [官网](https://rulesgpt.ssw.com.au) · 组织维护
+⭐ 24 · C# · 推送 2026-11-12 · [GitHub](https://github.com/SSWConsulting/SSW.Rules.GPT) · [官网](https://rulesgpt.ssw.com.au) · 组织维护
 
 **基于 OpenAI API 的 SSW Rules 问答机器人（Blazor + ASP.NET Core）**
 
@@ -43,12 +43,12 @@ SSW 公司开发的 GPT 问答机器人：用 OpenAI embeddings 检索匹配的 
 ```mermaid
 xychart-beta
     title "SSWConsulting/SSW.Rules.GPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

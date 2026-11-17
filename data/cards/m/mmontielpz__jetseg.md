@@ -1,6 +1,6 @@
 # mmontielpz/jetseg
 
-⭐ 27 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-01-21 · [GitHub](https://github.com/mmontielpz/jetseg) · 个人维护
+⭐ 26 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-01-21 · [GitHub](https://github.com/mmontielpz/jetseg) · 个人维护
 
 **面向低功耗 GPU 嵌入式系统的实时语义分割模型（NeurIPS 2023）**
 
@@ -41,13 +41,13 @@ JetSeg 是一个面向低功耗 GPU 嵌入式设备（如 Jetson AGX Xavier）�
 
 ```mermaid
 xychart-beta
-    title "mmontielpz/jetseg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "mmontielpz/jetseg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [27, 26, 26]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 26（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # huguryildiz/ieee-acm-paper-writing
 
-⭐ 11 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/huguryildiz/ieee-acm-paper-writing) · [官网](https://ieee-acm-paper-writing.vercel.app) · 个人维护
+⭐ 14 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/huguryildiz/ieee-acm-paper-writing) · [官网](https://ieee-acm-paper-writing.vercel.app) · 个人维护
 
 **IEEE/ACM 工程论文写作技能包：有证据门控的起草改写与审计**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "huguryildiz/ieee-acm-paper-writing 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "huguryildiz/ieee-acm-paper-writing 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 13, 14, 14]
 ```
 
-2026-10-26 10 → 2026-11-02 11（+1）
+2026-10-26 10 → 2026-11-17 14（+4）
 
 
 ---

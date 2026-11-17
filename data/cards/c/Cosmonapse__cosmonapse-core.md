@@ -1,6 +1,6 @@
 # Cosmonapse/cosmonapse-core
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Cosmonapse/cosmonapse-core) · [官网](https://cosmonapse.com) · 组织维护
+⭐ 193 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/Cosmonapse/cosmonapse-core) · [官网](https://cosmonapse.com) · 组织维护
 
 **事件驱动的分布式 AI agent 运行时：以信号总线替代中央编排**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cosmonapse/cosmonapse-core 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 98 --> 127
-    line [100, 101, 125, 116, 117, 118, 118]
+    title "Cosmonapse/cosmonapse-core 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 91 --> 202
+    line [100, 101, 125, 116, 117, 118, 116, 156, 193, 193]
 ```
 
-2026-10-18 100 → 2026-11-02 118（+18）
+2026-10-18 100 → 2026-11-17 193（+93）
 
 
 ---

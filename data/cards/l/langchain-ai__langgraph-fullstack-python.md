@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-fullstack-python
 
-⭐ 157 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/langchain-ai/langgraph-fullstack-python) · 组织维护
+⭐ 158 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/langchain-ai/langgraph-fullstack-python) · 组织维护
 
 **LangGraph 全栈聊天机器人模板：单部署内含 agent 与 Web UI**
 
@@ -44,13 +44,13 @@ langchain-ai 维护的 Python 模板项目，演示用 LangGraph 的 HTTP 配置
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langgraph-fullstack-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 156 --> 158
-    line [157, 157]
+    title "langchain-ai/langgraph-fullstack-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 156 --> 159
+    line [157, 158, 158]
 ```
 
-2026-10-18 157 → 2026-11-02 157（+0）
+2026-10-18 157 → 2026-11-17 158（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aidget-ai/aidget
 
-⭐ 12 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/aidget-ai/aidget) · [官网](https://aidget-ai.github.io/widgets/) · 组织维护 · 中文 README
+⭐ 15 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/aidget-ai/aidget) · [官网](https://aidget-ai.github.io/widgets/) · 组织维护 · 中文 README
 
 **让 AI Agent 在桌面上创建和管理小组件的跨平台应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aidget-ai/aidget 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 5 --> 13
-    line [6, 8, 10, 11, 12]
+    title "aidget-ai/aidget 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 5 --> 16
+    line [6, 8, 10, 11, 12, 8, 12, 15, 15]
 ```
 
-2026-10-24 6 → 2026-11-02 12（+6）
+2026-10-24 6 → 2026-11-17 15（+9）
 
 
 ---

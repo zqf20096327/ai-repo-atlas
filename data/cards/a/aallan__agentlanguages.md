@@ -1,6 +1,6 @@
 # aallan/agentlanguages
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/aallan/agentlanguages) · [官网](https://agentlanguages.dev/) · 个人维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/aallan/agentlanguages) · [官网](https://agentlanguages.dev/) · 个人维护
 
 **面向 AI agent 的编程语言策展目录（三大流派分类）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aallan/agentlanguages 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "aallan/agentlanguages 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25, 25]
+    line [22, 23, 24, 25, 23, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 25（+3）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

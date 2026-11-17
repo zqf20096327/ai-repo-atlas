@@ -1,6 +1,6 @@
 # issacops/opencloser-v2
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/issacops/opencloser-v2) · [官网](https://issacops.github.io/opencloser-v2/) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/issacops/opencloser-v2) · [官网](https://issacops.github.io/opencloser-v2/) · 组织维护
 
 **本地桌面版开源 AI 销售团队：AI 冷呼、找客与教练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "issacops/opencloser-v2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    title "issacops/opencloser-v2 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 16, 18, 19, 20, 20]
 ```
 
-2026-10-18 15 → 2026-11-02 17（+2）
+2026-10-18 15 → 2026-11-17 20（+5）
 
 
 ---

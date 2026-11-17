@@ -1,6 +1,6 @@
 # joanby/python-ml-course
 
-⭐ 856 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/joanby/python-ml-course) · [官网](https://www.udemy.com/course/machinelearningpython/) · 个人维护
+⭐ 857 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/joanby/python-ml-course) · [官网](https://www.udemy.com/course/machinelearningpython/) · 个人维护
 
 **西语 Python 机器学习入门课程配套代码仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "joanby/python-ml-course 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 853 --> 857
-    line [854, 855, 856, 855, 856, 856]
+    title "joanby/python-ml-course 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 853 --> 858
+    line [854, 855, 856, 855, 856, 855, 856, 857, 857]
 ```
 
-2026-10-18 854 → 2026-11-02 856（+2）
+2026-10-18 854 → 2026-11-17 857（+3）
 
 
 ---

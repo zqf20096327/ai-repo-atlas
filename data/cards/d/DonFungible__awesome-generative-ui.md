@@ -1,6 +1,6 @@
 # DonFungible/awesome-generative-ui
 
-⭐ 19 · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/DonFungible/awesome-generative-ui) · 个人维护
+⭐ 22 · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/DonFungible/awesome-generative-ui) · 个人维护
 
 **生成式 UI 开发与学习资源清单：规范/工具/论文/视频/应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DonFungible/awesome-generative-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "DonFungible/awesome-generative-ui 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 21, 22, 22]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 22（+5）
 
 
 ---

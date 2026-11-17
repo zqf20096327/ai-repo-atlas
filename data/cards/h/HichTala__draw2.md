@@ -1,6 +1,6 @@
 # HichTala/draw2
 
-⭐ 82 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/HichTala/draw2) · 个人维护
+⭐ 84 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/HichTala/draw2) · [官网](https://hichtala.github.io/draw2/) · 个人维护
 
 **在图像/视频中检测识别 Yu-Gi-Oh! 卡牌的目标检测器**
 
@@ -43,13 +43,13 @@ DRAW 2 是一个用于检测并识别 Yu-Gi-Oh! 卡牌的目标检测模型，�
 
 ```mermaid
 xychart-beta
-    title "HichTala/draw2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 80 --> 83
-    line [81, 82, 82]
+    title "HichTala/draw2 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 80 --> 85
+    line [81, 82, 81, 83, 84, 84]
 ```
 
-2026-10-18 81 → 2026-11-02 82（+1）
+2026-10-18 81 → 2026-11-17 84（+3）
 
 
 ---

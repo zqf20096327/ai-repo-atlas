@@ -1,6 +1,6 @@
 # sachinhosmani/torchvista
 
-⭐ 768 · Python · GPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/sachinhosmani/torchvista) · [官网](https://sachinhosmani.github.io/torchvista/) · 个人维护
+⭐ 769 · Python · GPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/sachinhosmani/torchvista) · [官网](https://sachinhosmani.github.io/torchvista/) · 个人维护
 
 **给 PyTorch 开发者的 notebook 前向传播交互可视化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sachinhosmani/torchvista 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 766 --> 769
-    line [768, 767, 768, 768]
+    title "sachinhosmani/torchvista 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 766 --> 770
+    line [768, 767, 768, 767, 769, 769]
 ```
 
-2026-10-18 768 → 2026-11-02 768（+0）
+2026-10-18 768 → 2026-11-17 769（+1）
 
 
 ---

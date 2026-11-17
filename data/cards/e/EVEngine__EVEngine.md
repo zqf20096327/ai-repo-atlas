@@ -1,6 +1,6 @@
 # EVEngine/EVEngine
 
-⭐ 58 · C++ · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/EVEngine/EVEngine) · [官网](https://evengine.github.io/) · 组织维护 · 中文 README
+⭐ 65 · C++ · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/EVEngine/EVEngine) · [官网](https://evengine.github.io/) · 组织维护 · 中文 README
 
 **轻量脚本驱动游戏引擎，支持 AI（MCP）辅助开发与热重载**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EVEngine/EVEngine 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 46 --> 59
-    line [47, 49, 51, 52, 53, 56, 58, 58]
+    title "EVEngine/EVEngine 星数(近 13 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 46 --> 67
+    line [47, 49, 51, 52, 53, 56, 58, 47, 63, 65, 66, 65, 65]
 ```
 
-2026-10-25 47 → 2026-11-02 58（+11）
+2026-10-25 47 → 2026-11-17 65（+18）
 
 
 ---

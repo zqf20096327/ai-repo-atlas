@@ -1,6 +1,6 @@
 # yuntaeJ/SCIT-MCMT-Tracking
 
-⭐ 56 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/yuntaeJ/SCIT-MCMT-Tracking) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/yuntaeJ/SCIT-MCMT-Tracking) · 个人维护
 
 **CVPRW2023 多摄像头行人跟踪系统，利用未来轨迹预测**
 
@@ -43,13 +43,13 @@ NVIDIA AI City Challenge 第 7 届 Track1（多摄像头行人跟踪）的官方
 
 ```mermaid
 xychart-beta
-    title "yuntaeJ/SCIT-MCMT-Tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "yuntaeJ/SCIT-MCMT-Tracking 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 55 --> 58
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 57（+1）
 
 
 ---

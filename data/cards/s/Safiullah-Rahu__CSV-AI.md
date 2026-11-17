@@ -1,6 +1,6 @@
 # Safiullah-Rahu/CSV-AI
 
-⭐ 341 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Safiullah-Rahu/CSV-AI) · [官网](https://csv-ai.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **与 CSV 文件对话、总结与分析的 Streamlit AI 应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Safiullah-Rahu/CSV-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "Safiullah-Rahu/CSV-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 339 --> 342
-    line [340, 341, 341]
+    line [340, 341, 340, 340]
 ```
 
-2026-10-18 340 → 2026-11-02 341（+1）
+2026-10-18 340 → 2026-11-07 340（+0）
 
 
 ---

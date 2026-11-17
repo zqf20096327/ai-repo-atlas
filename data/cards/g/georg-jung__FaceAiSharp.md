@@ -1,6 +1,6 @@
 # georg-jung/FaceAiSharp
 
-⭐ 136 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/georg-jung/FaceAiSharp) · [官网](https://nuget.org/packages/FaceAiSharp/) · 个人维护
+⭐ 136 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/georg-jung/FaceAiSharp) · [官网](https://nuget.org/packages/FaceAiSharp/) · 个人维护
 
 **.NET 人脸检测/识别/关键点与眼睛状态库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "georg-jung/FaceAiSharp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "georg-jung/FaceAiSharp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 134 --> 137
-    line [135, 136, 136]
+    line [135, 136, 135, 136, 136]
 ```
 
-2026-10-18 135 → 2026-11-02 136（+1）
+2026-10-18 135 → 2026-11-17 136（+1）
 
 
 ---

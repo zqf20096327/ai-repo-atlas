@@ -1,6 +1,6 @@
 # MerlinStacks/socaliseit
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/MerlinStacks/socaliseit) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/MerlinStacks/socaliseit) · 组织维护
 
 **面向品牌与代理商的自托管社媒运营平台，带 AI 内容生成**
 
@@ -44,13 +44,13 @@ Overseek Socials 是基于 Next.js/React/Prisma/PostgreSQL 的社交媒体运营
 
 ```mermaid
 xychart-beta
-    title "MerlinStacks/socaliseit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "MerlinStacks/socaliseit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

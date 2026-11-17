@@ -1,6 +1,6 @@
 # NVIDIA/dl-lowlat-infer
 
-⭐ 17 · Cuda · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/NVIDIA/dl-lowlat-infer) · 组织维护
+⭐ 18 · Cuda · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/dl-lowlat-infer) · 组织维护
 
 **NVIDIA 的滑动窗口 LSTM 低延迟 CUDA 推理基准工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/dl-lowlat-infer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "NVIDIA/dl-lowlat-infer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

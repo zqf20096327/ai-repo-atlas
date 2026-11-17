@@ -1,6 +1,6 @@
 # xiaozhichao2025/JimengCli_api
 
-⭐ 52 · TypeScript · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/xiaozhichao2025/JimengCli_api) · 个人维护 · 中文 README
+⭐ 53 · TypeScript · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/xiaozhichao2025/JimengCli_api) · 个人维护 · 中文 README
 
 **将火山即梦 CLI 封装为 OpenAI 协议 API 的自建网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaozhichao2025/JimengCli_api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "xiaozhichao2025/JimengCli_api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 53（+1）
 
 
 ---

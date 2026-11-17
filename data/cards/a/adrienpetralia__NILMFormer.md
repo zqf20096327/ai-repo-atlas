@@ -1,6 +1,6 @@
 # adrienpetralia/NILMFormer
 
-⭐ 55 · Python · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/adrienpetralia/NILMFormer) · 组织维护
+⭐ 57 · Python · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/adrienpetralia/NILMFormer) · 组织维护
 
 **给科研者的 NILM Transformer 模型代码库：分解住户总用电为各电器功耗**
 
@@ -45,13 +45,13 @@ ACM SIGKDD 2025 论文 NILMFormer 的官方 PyTorch 代码库，提供序列到�
 
 ```mermaid
 xychart-beta
-    title "adrienpetralia/NILMFormer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    title "adrienpetralia/NILMFormer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57, 57]
 ```
 
-2026-10-18 55 → 2026-11-02 55（+0）
+2026-10-18 55 → 2026-11-17 57（+2）
 
 
 ---

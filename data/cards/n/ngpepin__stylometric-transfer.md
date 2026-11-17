@@ -1,6 +1,6 @@
 # ngpepin/stylometric-transfer
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/ngpepin/stylometric-transfer) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/ngpepin/stylometric-transfer) · 个人维护
 
 **基于作者语料指纹的文风画像与文风迁移工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ngpepin/stylometric-transfer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    title "ngpepin/stylometric-transfer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 22（+2）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

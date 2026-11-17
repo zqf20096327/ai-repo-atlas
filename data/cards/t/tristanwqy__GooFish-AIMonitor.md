@@ -1,6 +1,6 @@
 # tristanwqy/GooFish-AIMonitor
 
-⭐ 36 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/tristanwqy/GooFish-AIMonitor) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/tristanwqy/GooFish-AIMonitor) · 个人维护 · 中文 README
 
 **本地运行的闲鱼二手监控控制台：大模型选品 + 降价提醒**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tristanwqy/GooFish-AIMonitor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    title "tristanwqy/GooFish-AIMonitor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 33 --> 47
+    line [34, 35, 36, 43, 44, 45, 46, 46]
 ```
 
-2026-10-18 34 → 2026-11-02 36（+2）
+2026-10-18 34 → 2026-11-17 46（+12）
 
 
 ---

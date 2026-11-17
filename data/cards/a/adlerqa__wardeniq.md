@@ -1,6 +1,6 @@
 # adlerqa/wardeniq
 
-⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/adlerqa/wardeniq) · [官网](https://adlerqa.in/products/wardeniq) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/adlerqa/wardeniq) · [官网](https://adlerqa.in/products/wardeniq) · 组织维护
 
 **把需求文档转成测试用例并持续核验代码覆盖的 QA 平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "adlerqa/wardeniq 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "adlerqa/wardeniq 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 11, 12, 13, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # chrisrobison/textweb
 
-⭐ 103 · JavaScript · MIT · 推送 2026-03-10 · [GitHub](https://github.com/chrisrobison/textweb) · [官网](https://textweb.net) · 个人维护
+⭐ 104 · JavaScript · MIT · 推送 2026-03-10 · [GitHub](https://github.com/chrisrobison/textweb) · [官网](https://textweb.net) · 个人维护
 
 **给 AI agent 的文本网格网页渲染器：以文本代替截图看网页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisrobison/textweb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    title "chrisrobison/textweb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 102 --> 105
+    line [103, 104, 104]
 ```
 
-2026-10-18 103 → 2026-11-02 103（+0）
+2026-10-18 103 → 2026-11-17 104（+1）
 
 
 ---

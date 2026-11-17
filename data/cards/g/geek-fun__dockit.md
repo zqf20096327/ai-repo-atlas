@@ -1,6 +1,6 @@
 # geek-fun/dockit
 
-⭐ 1,141 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/geek-fun/dockit) · [官网](https://www.geekfun.club/products/dockit/) · 组织维护 · 中文 README
+⭐ 1,144 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/geek-fun/dockit) · [官网](https://www.geekfun.club/products/dockit/) · 组织维护 · 中文 README
 
 **多 NoSQL 数据库的开源桌面 GUI 客户端，附自然语言 AI 代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geek-fun/dockit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1140 --> 1144
-    line [1142, 1143, 1142, 1143, 1142, 1141, 1141]
+    title "geek-fun/dockit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1140 --> 1145
+    line [1142, 1143, 1142, 1143, 1142, 1141, 1143, 1144, 1144]
 ```
 
-2026-10-18 1,142 → 2026-11-02 1,141（-1）
+2026-10-18 1,142 → 2026-11-17 1,144（+2）
 
 
 ---

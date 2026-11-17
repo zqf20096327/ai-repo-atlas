@@ -1,6 +1,6 @@
 # LichAmnesia/openseek
 
-⭐ 209 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/LichAmnesia/openseek) · [官网](https://openseek.dev/) · 个人维护 · 中文 README
+⭐ 208 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/LichAmnesia/openseek) · [官网](https://openseek.dev/) · 个人维护 · 中文 README
 
 **开源 TUI 编程 agent：多提供商路由、MCP/LSP、三种自治模式**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LichAmnesia/openseek 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 208 --> 210
-    line [209, 209]
+    title "LichAmnesia/openseek 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 207 --> 210
+    line [209, 208, 208]
 ```
 
-2026-10-18 209 → 2026-11-02 209（+0）
+2026-10-18 209 → 2026-11-17 208（-1）
 
 
 ---

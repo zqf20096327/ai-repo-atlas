@@ -1,6 +1,6 @@
 # JupyterPS/VBAF
 
-⭐ 22 · PowerShell · MIT · 推送 2026-10-17 · [GitHub](https://github.com/JupyterPS/VBAF) · 组织维护
+⭐ 22 · PowerShell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/JupyterPS/VBAF) · 组织维护
 
 **纯 PowerShell 编写的教学用 AI 与强化学习框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JupyterPS/VBAF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 22（+0）
 
 
 ---

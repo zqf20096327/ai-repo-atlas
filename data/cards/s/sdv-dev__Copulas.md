@@ -1,6 +1,6 @@
 # sdv-dev/Copulas
 
-⭐ 658 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/sdv-dev/Copulas) · [官网](https://sdv.dev/Copulas/) · 组织维护
+⭐ 658 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/sdv-dev/Copulas) · [官网](https://sdv.dev/Copulas/) · 组织维护
 
 **用 copula 函数建模多变量分布并采样合成表格数据**
 
@@ -44,13 +44,13 @@ Python 库，读取数值表格数据，用 copula 函数（含 Gaussian、Vine�
 
 ```mermaid
 xychart-beta
-    title "sdv-dev/Copulas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 654 --> 659
-    line [655, 657, 658, 658]
+    title "sdv-dev/Copulas 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 654 --> 660
+    line [655, 657, 658, 657, 659, 658, 658]
 ```
 
-2026-10-18 655 → 2026-11-02 658（+3）
+2026-10-18 655 → 2026-11-17 658（+3）
 
 
 ---

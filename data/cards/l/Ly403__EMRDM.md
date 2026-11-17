@@ -1,6 +1,6 @@
 # Ly403/EMRDM
 
-⭐ 70 · Python · AGPL-3.0 · 推送 2026-01-10 · [GitHub](https://github.com/Ly403/EMRDM) · [官网](https://arxiv.org/abs/2503.23717) · 组织维护 · 中文 README
+⭐ 73 · Python · AGPL-3.0 · 推送 2026-01-10 · [GitHub](https://github.com/Ly403/EMRDM) · [官网](https://arxiv.org/abs/2503.23717) · 组织维护 · 中文 README
 
 **CVPR 2025 论文官方实现：遥感图像去云的扩散模型**
 
@@ -45,13 +45,13 @@ EMRDM 是 CVPR 2025 论文的官方 PyTorch 实现，用于遥感影像去云：
 
 ```mermaid
 xychart-beta
-    title "Ly403/EMRDM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70]
+    title "Ly403/EMRDM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 74
+    line [68, 69, 70, 68, 73, 73]
 ```
 
-2026-10-18 68 → 2026-11-02 70（+2）
+2026-10-18 68 → 2026-11-17 73（+5）
 
 
 ---

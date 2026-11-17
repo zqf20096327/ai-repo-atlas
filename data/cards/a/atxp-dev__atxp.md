@@ -1,6 +1,6 @@
 # atxp-dev/atxp
 
-⭐ 45 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/atxp-dev/atxp) · [官网](https://atxp.ai) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/atxp-dev/atxp) · [官网](https://atxp.ai) · 组织维护
 
 **给 AI agent 提供钱包/邮箱/电话与付费 MCP 工具的支付基础设施**
 
@@ -44,13 +44,13 @@ ATXP（Agent Transaction Protocol）以标准 MCP 服务器形式运行，让 AI
 
 ```mermaid
 xychart-beta
-    title "atxp-dev/atxp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    title "atxp-dev/atxp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-02 45（+0）
+2026-10-18 45 → 2026-11-17 46（+1）
 
 
 ---

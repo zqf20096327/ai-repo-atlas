@@ -1,6 +1,6 @@
 # every-algorithm/python
 
-⭐ 14 · Python · Apache-2.0 · 推送 2025-11-09 · [GitHub](https://github.com/every-algorithm/python) · [官网](https://every-algorithm.github.io/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 Python 实现各类算法的教育性代码合集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "every-algorithm/python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-07 14（+1）
 
 
 ---

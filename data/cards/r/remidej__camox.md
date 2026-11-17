@@ -1,6 +1,6 @@
 # remidej/camox
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/remidej/camox) · [官网](https://camox.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **供编码 agent 构建并持续管理网站的 CMS 框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "remidej/camox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-07 26（+0）
 
 
 ---

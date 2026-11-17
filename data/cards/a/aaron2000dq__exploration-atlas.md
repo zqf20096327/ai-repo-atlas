@@ -1,6 +1,6 @@
 # aaron2000dq/exploration-atlas
 
-⭐ 12 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/aaron2000dq/exploration-atlas) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/aaron2000dq/exploration-atlas) · 个人维护 · 中文 README
 
 **可离线运行的位置解锁活点地图模板：生日与城市探索路线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaron2000dq/exploration-atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "aaron2000dq/exploration-atlas 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 10, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

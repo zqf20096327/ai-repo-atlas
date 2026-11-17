@@ -1,6 +1,6 @@
 # sjmoran/deeplpf-image-enhancement
 
-⭐ 260 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sjmoran/deeplpf-image-enhancement) · 组织维护
+⭐ 261 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sjmoran/deeplpf-image-enhancement) · 组织维护
 
 **CVPR 2020 可解释图像增强模型：学习三次/渐变/椭圆三类滤镜**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjmoran/deeplpf-image-enhancement 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    title "sjmoran/deeplpf-image-enhancement 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 259 --> 262
+    line [260, 261, 261]
 ```
 
-2026-10-18 260 → 2026-11-02 260（+0）
+2026-10-18 260 → 2026-11-17 261（+1）
 
 
 ---

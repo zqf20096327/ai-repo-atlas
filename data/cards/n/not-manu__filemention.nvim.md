@@ -1,6 +1,6 @@
 # not-manu/filemention.nvim
 
-⭐ 71 · Lua · MIT · 推送 2026-05-30 · [GitHub](https://github.com/not-manu/filemention.nvim) · 个人维护
+⭐ 70 · Lua · MIT · 推送 2026-05-30 · [GitHub](https://github.com/not-manu/filemention.nvim) · 个人维护
 
 **Neovim 插件：插入模式下 @ 模糊选文件生成 @path 文件引用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "not-manu/filemention.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "not-manu/filemention.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 69 --> 72
+    line [71, 70, 70]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 70（-1）
 
 
 ---

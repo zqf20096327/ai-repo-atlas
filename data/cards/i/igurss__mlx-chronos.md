@@ -1,6 +1,6 @@
 # igurss/mlx-chronos
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/igurss/mlx-chronos) · 个人维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/igurss/mlx-chronos) · 个人维护
 
 **Apple Silicon 本地 LLM 推理引擎基准测试套件与社区排行榜**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "igurss/mlx-chronos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

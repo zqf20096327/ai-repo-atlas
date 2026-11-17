@@ -1,6 +1,6 @@
 # ShineStormEnhance/Capri-AI
 
-⭐ 609 · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ShineStormEnhance/Capri-AI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 桌面赛博朋克风 AI 代理，接入多种 AI 助手代操作电脑**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

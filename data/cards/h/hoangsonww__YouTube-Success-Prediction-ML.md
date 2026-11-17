@@ -1,6 +1,6 @@
 # hoangsonww/YouTube-Success-Prediction-ML
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/YouTube-Success-Prediction-ML) · [官网](https://hoangsonww.github.io/YouTube-Success-Prediction-ML/) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/YouTube-Success-Prediction-ML) · [官网](https://hoangsonww.github.io/YouTube-Success-Prediction-ML/) · 个人维护
 
 **面向开发者的 YouTube 频道表现预测与 MLOps 部署平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/YouTube-Success-Prediction-ML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "hoangsonww/YouTube-Success-Prediction-ML 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

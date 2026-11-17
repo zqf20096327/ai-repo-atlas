@@ -1,6 +1,6 @@
 # vikd1000/investment-council
 
-⭐ 83 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/vikd1000/investment-council) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/vikd1000/investment-council) · 个人维护
 
 **让 21 位传奇投资人风格 AI 辩论你的选股名单的 Claude Code 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vikd1000/investment-council 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 78 --> 84
-    line [79, 80, 82, 83, 83]
+    title "vikd1000/investment-council 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 78 --> 86
+    line [79, 80, 82, 83, 82, 84, 85, 85]
 ```
 
-2026-10-18 79 → 2026-11-02 83（+4）
+2026-10-18 79 → 2026-11-17 85（+6）
 
 
 ---

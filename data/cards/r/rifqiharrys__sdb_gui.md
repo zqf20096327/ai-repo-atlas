@@ -1,6 +1,6 @@
 # rifqiharrys/sdb_gui
 
-⭐ 53 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/rifqiharrys/sdb_gui) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/rifqiharrys/sdb_gui) · 个人维护
 
 **卫星测深 GUI：用卫星影像与深度样本预测水深**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rifqiharrys/sdb_gui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "rifqiharrys/sdb_gui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 52（-1）
 
 
 ---

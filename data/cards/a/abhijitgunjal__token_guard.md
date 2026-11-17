@@ -1,6 +1,6 @@
 # abhijitgunjal/token_guard
 
-⭐ 20 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/abhijitgunjal/token_guard) · [官网](https://pypi.org/project/llm-token-guard/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/abhijitgunjal/token_guard) · [官网](https://pypi.org/project/llm-token-guard/) · 个人维护
 
 **面向开发者的 LLM token 计量、限流与预算告警中间件**
 
@@ -45,13 +45,13 @@ Python 库 token_guard：记录 LLM API 调用的精确 token 用量，按策略
 
 ```mermaid
 xychart-beta
-    title "abhijitgunjal/token_guard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "abhijitgunjal/token_guard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

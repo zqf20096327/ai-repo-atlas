@@ -1,6 +1,6 @@
 # FareedKhan-dev/agentic-loop-engineering-course
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/FareedKhan-dev/agentic-loop-engineering-course) · [官网](https://medium.com/@fareedkhandev/optimizing-agentic-system-using-loop-engineering-7966adad5835) · 个人维护
+⭐ 63 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/FareedKhan-dev/agentic-loop-engineering-course) · [官网](https://medium.com/@fareedkhandev/optimizing-agentic-system-using-loop-engineering-7966adad5835) · 个人维护
 
 **18 个 notebook 的 agentic 循环工程课程：逐组件实测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/agentic-loop-engineering-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    title "FareedKhan-dev/agentic-loop-engineering-course 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 58 --> 64
+    line [59, 60, 61, 62, 63, 63]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 63（+4）
 
 
 ---

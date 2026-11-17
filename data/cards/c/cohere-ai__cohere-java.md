@@ -1,6 +1,6 @@
 # cohere-ai/cohere-java
 
-⭐ 30 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cohere-ai/cohere-java) · 组织维护
+⭐ 30 · Java · MIT · 推送 2026-11-04 · [GitHub](https://github.com/cohere-ai/cohere-java) · 组织维护
 
 **Cohere 官方 Java SDK：在 Java 应用中调用 Cohere API**
 
@@ -44,13 +44,13 @@ Cohere 官方发布的 Java SDK，提供 ChatRequest、ChatMessage 等类供 Jav
 
 ```mermaid
 xychart-beta
-    title "cohere-ai/cohere-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "cohere-ai/cohere-java 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    line [29, 30, 29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

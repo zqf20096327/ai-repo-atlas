@@ -1,6 +1,6 @@
 # albertofettucini/Osler
 
-⭐ 12 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/albertofettucini/Osler) · 个人维护
+⭐ 13 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/albertofettucini/Osler) · 个人维护
 
 **Mac 本地画布式 AI 工作流应用：节点编排、可重复运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "albertofettucini/Osler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "albertofettucini/Osler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

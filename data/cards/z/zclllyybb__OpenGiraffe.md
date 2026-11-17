@@ -1,6 +1,6 @@
 # zclllyybb/OpenGiraffe
 
-⭐ 105 · Python · 推送 2026-05-08 · [GitHub](https://github.com/zclllyybb/OpenGiraffe) · 个人维护
+⭐ 104 · Python · 推送 2026-05-08 · [GitHub](https://github.com/zclllyybb/OpenGiraffe) · 个人维护
 
 **基于 opencode 的守护进程式多 agent 自动编码任务队列**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zclllyybb/OpenGiraffe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    title "zclllyybb/OpenGiraffe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 103 --> 106
+    line [105, 104, 104]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-17 104（-1）
 
 
 ---

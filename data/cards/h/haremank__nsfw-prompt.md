@@ -1,6 +1,6 @@
 # haremank/nsfw-prompt
 
-⭐ 20 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/haremank/nsfw-prompt) · [官网](https://skills.sh/haremank/nsfw-prompt) · 个人维护 · 中文 README
+⭐ 38 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/haremank/nsfw-prompt) · [官网](https://skills.sh/haremank/nsfw-prompt) · 个人维护 · 中文 README
 
 **面向 Agent 的成人图像英文提示词编译技能（SKILL.md 格式）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "haremank/nsfw-prompt 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 12 --> 21
-    line [13, 14, 17, 16, 18, 19, 20, 20]
+    title "haremank/nsfw-prompt 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 40
+    line [13, 14, 17, 16, 18, 19, 20, 17, 29, 31, 33, 38, 38]
 ```
 
-2026-10-18 13 → 2026-11-02 20（+7）
+2026-10-18 13 → 2026-11-17 38（+25）
 
 
 ---

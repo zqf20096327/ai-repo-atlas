@@ -1,6 +1,6 @@
 # bansky-cl/graphrag-arxiv-daily-paper
 
-⭐ 45 · Python · 推送 2026-10-08 · [GitHub](https://github.com/bansky-cl/graphrag-arxiv-daily-paper) · 个人维护
+⭐ 44 · Python · 推送 2026-10-08 · [GitHub](https://github.com/bansky-cl/graphrag-arxiv-daily-paper) · 个人维护
 
 **arXiv GraphRAG 论文每日追踪清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bansky-cl/graphrag-arxiv-daily-paper 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-02"]
+    title "bansky-cl/graphrag-arxiv-daily-paper 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 42 --> 46
-    line [43, 44, 45, 44, 45, 45]
+    line [43, 44, 45, 44, 45, 44, 43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-02 45（+2）
+2026-10-18 43 → 2026-11-17 44（+1）
 
 
 ---

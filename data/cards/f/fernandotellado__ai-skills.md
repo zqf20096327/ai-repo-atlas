@@ -1,6 +1,6 @@
 # fernandotellado/ai-skills
 
-⭐ 43 · PHP · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/fernandotellado/ai-skills) · [官网](https://ayudawp.com) · 个人维护
+⭐ 44 · PHP · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/fernandotellado/ai-skills) · [官网](https://ayudawp.com) · 个人维护
 
 **面向 WordPress 开发与写作的 AI 技能（SKILL.md）文档合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fernandotellado/ai-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "fernandotellado/ai-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 44（+2）
 
 
 ---

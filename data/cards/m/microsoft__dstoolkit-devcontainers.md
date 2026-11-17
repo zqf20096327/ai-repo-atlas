@@ -1,6 +1,6 @@
 # microsoft/dstoolkit-devcontainers
 
-⭐ 50 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/dstoolkit-devcontainers) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/dstoolkit-devcontainers) · 组织维护
 
 **微软维护的 ML 项目模板：多 Docker 开发容器与 CI 流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/dstoolkit-devcontainers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "microsoft/dstoolkit-devcontainers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 49 --> 52
-    line [51, 50, 50]
+    line [51, 50, 51, 50, 50]
 ```
 
-2026-10-18 51 → 2026-11-02 50（-1）
+2026-10-18 51 → 2026-11-17 50（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # coko7/latuicon
 
-⭐ 56 · Rust · MIT · 推送 2026-09-22 · [GitHub](https://github.com/coko7/latuicon) · 个人维护
+⭐ 56 · Rust · MIT · 推送 2026-11-06 · [GitHub](https://github.com/coko7/latuicon) · 个人维护
 
 **终端里的图标选择器：emoji/颜文字/Unicode/Nerd Font**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coko7/latuicon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

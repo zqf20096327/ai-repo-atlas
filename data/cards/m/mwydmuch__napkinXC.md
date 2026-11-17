@@ -1,6 +1,6 @@
 # mwydmuch/napkinXC
 
-⭐ 70 · C++ · MIT · 推送 2025-11-10 · [GitHub](https://github.com/mwydmuch/napkinXC) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **极限多类/多标签分类库：实现概率标签树方法**
 
@@ -11,7 +11,7 @@ C++/Python 库，面向极限多类与多标签分类（XMLC），核心实现�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ C++/Python 库，面向极限多类与多标签分类（XMLC），核心实现�
 ```mermaid
 xychart-beta
     title "mwydmuch/napkinXC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-07 70（+0）
 
 
 ---

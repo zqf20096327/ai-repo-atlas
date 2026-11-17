@@ -1,6 +1,6 @@
 # angleschina/angles-cli
 
-⭐ 56 · Rust · MIT · 推送 2026-09-12 · [GitHub](https://github.com/angleschina/angles-cli) · [官网](https://angleschina.github.io/angles-cli/) · 个人维护 · 中文 README
+⭐ 59 · Rust · MIT · 推送 2026-09-12 · [GitHub](https://github.com/angleschina/angles-cli) · [官网](https://angleschina.github.io/angles-cli/) · 个人维护 · 中文 README
 
 **单文件 Rust 编写的终端 AI 编码代理（1.6MB 静态二进制）**
 
@@ -45,13 +45,13 @@ Angles Code CLI 是编译为单一静态 Rust 二进制（约 1.6 MB）的终端
 
 ```mermaid
 xychart-beta
-    title "angleschina/angles-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 55 --> 58
-    line [57, 56, 56]
+    title "angleschina/angles-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 55 --> 60
+    line [57, 56, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-02 56（-1）
+2026-10-18 57 → 2026-11-17 59（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # HoldMyBeer-gg/blenderwright
 
-⭐ 184 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
+⭐ 198 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
 
 **Blender 的 MCP server：191 个工具让 AI 助手用自然语言做 3D 建模**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HoldMyBeer-gg/blenderwright 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 172 --> 185
-    line [173, 175, 174, 175, 176, 178, 179, 182, 184, 184]
+    title "HoldMyBeer-gg/blenderwright 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 171 --> 200
+    line [173, 175, 174, 175, 176, 178, 179, 182, 184, 175, 193, 195, 196, 198, 198]
 ```
 
-2026-10-18 173 → 2026-11-02 184（+11）
+2026-10-18 173 → 2026-11-17 198（+25）
 
 
 ---

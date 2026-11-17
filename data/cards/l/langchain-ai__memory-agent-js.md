@@ -1,6 +1,6 @@
 # langchain-ai/memory-agent-js
 
-⭐ 53 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/langchain-ai/memory-agent-js) · 组织维护
+⭐ 54 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/langchain-ai/memory-agent-js) · 组织维护
 
 **LangGraph.js 记忆型 ReAct Agent 示例：跨会话保存用户偏好**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/memory-agent-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "langchain-ai/memory-agent-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

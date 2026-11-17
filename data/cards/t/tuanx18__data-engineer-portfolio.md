@@ -1,6 +1,6 @@
 # tuanx18/data-engineer-portfolio
 
-⭐ 156 · 推送 2026-04-14 · [GitHub](https://github.com/tuanx18/data-engineer-portfolio) · 个人维护
+⭐ 157 · 推送 2026-04-14 · [GitHub](https://github.com/tuanx18/data-engineer-portfolio) · 个人维护
 
 **个人数据工程作品集：展示技能、项目与职业进展**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuanx18/data-engineer-portfolio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    title "tuanx18/data-engineer-portfolio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 154 --> 158
+    line [155, 156, 157, 157]
 ```
 
-2026-10-18 155 → 2026-11-02 156（+1）
+2026-10-18 155 → 2026-11-17 157（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # preprocessy/preprocessy
 
-⭐ 44 · Jupyter Notebook · MIT · 推送 2026-10-05 · [GitHub](https://github.com/preprocessy/preprocessy) · [官网](https://preprocessy.readthedocs.io) · 组织维护
+⭐ 44 · Jupyter Notebook · MIT · 推送 2026-11-02 · [GitHub](https://github.com/preprocessy/preprocessy) · [官网](https://preprocessy.readthedocs.io) · 组织维护
 
 **Python 数据预处理流水线框架，为机器学习准备数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "preprocessy/preprocessy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-17 44（+0）
 
 
 ---

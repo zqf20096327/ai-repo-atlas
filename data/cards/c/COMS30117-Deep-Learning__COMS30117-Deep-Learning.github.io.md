@@ -1,6 +1,6 @@
 # COMS30117-Deep-Learning/COMS30117-Deep-Learning.github.io
 
-⭐ 14 · HTML · 推送 2026-10-20 · [GitHub](https://github.com/COMS30117-Deep-Learning/COMS30117-Deep-Learning.github.io) · [官网](https://coms30117-deep-learning.github.io/) · 组织维护
+⭐ 14 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/COMS30117-Deep-Learning/COMS30117-Deep-Learning.github.io) · [官网](https://coms30117-deep-learning.github.io/) · 组织维护
 
 **布里斯托大学应用深度学习课程单元网站**
 
@@ -40,12 +40,12 @@
 ```mermaid
 xychart-beta
     title "COMS30117-Deep-Learning/COMS30117-Deep-Learning.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

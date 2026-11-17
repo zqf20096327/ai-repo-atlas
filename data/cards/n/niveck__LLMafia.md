@@ -1,6 +1,6 @@
 # niveck/LLMafia
 
-⭐ 25 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/niveck/LLMafia) · [官网](https://niveck.github.io/Time-to-Talk/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **异步 LLM Agent：与真人进行线上狼人杀对局的研究代码与数据集**
 
@@ -11,7 +11,7 @@ EMNLP 2025 Findings 论文 "Time to Talk" 的开源代码与数据：构建一�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ EMNLP 2025 Findings 论文 "Time to Talk" 的开源代码与数据：构建一�
 ```mermaid
 xychart-beta
     title "niveck/LLMafia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-07 25（+0）
 
 
 ---

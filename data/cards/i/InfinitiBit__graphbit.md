@@ -1,6 +1,6 @@
 # InfinitiBit/graphbit
 
-⭐ 588 · Rust · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/InfinitiBit/graphbit) · [官网](https://graphbit.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Rust 核心、Python 接口的多智能体 LLM 编排框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InfinitiBit/graphbit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 585 --> 589
-    line [586, 587, 588, 588]
+    title "InfinitiBit/graphbit 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15"]
+    y-axis "stars" 585 --> 597
+    line [586, 587, 588, 587, 593, 595, 596, 596]
 ```
 
-2026-10-18 586 → 2026-11-02 588（+2）
+2026-10-18 586 → 2026-11-15 596（+10）
 
 
 ---

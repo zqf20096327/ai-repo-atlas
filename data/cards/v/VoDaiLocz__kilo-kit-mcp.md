@@ -1,6 +1,6 @@
 # VoDaiLocz/kilo-kit-mcp
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/VoDaiLocz/kilo-kit-mcp) · [官网](https://glama.ai/mcp/servers/VoDaiLocz/kilo-kit-mcp/) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/VoDaiLocz/kilo-kit-mcp) · [官网](https://glama.ai/mcp/servers/VoDaiLocz/kilo-kit-mcp/) · 个人维护
 
 **MCP 服务器与监督引擎：为 AI 编码 agent 加治理护栏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoDaiLocz/kilo-kit-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "VoDaiLocz/kilo-kit-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 26 --> 29
-    line [28, 27]
+    line [28, 27, 28, 27, 28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 27（-1）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

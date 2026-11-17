@@ -1,6 +1,6 @@
 # opentiny/webmcp-sdk
 
-⭐ 123 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/opentiny/webmcp-sdk) · [官网](https://docs.opentiny.design/next-sdk/guide) · 组织维护 · 中文 README
+⭐ 125 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/opentiny/webmcp-sdk) · [官网](https://docs.opentiny.design/next-sdk/guide) · 组织维护 · 中文 README
 
 **前端 WebMCP 工具包：让网页可被 AI Agent 感知与控制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "opentiny/webmcp-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 120 --> 124
-    line [121, 122, 123, 123]
+    title "opentiny/webmcp-sdk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 120 --> 126
+    line [121, 122, 123, 124, 125, 125]
 ```
 
-2026-10-18 121 → 2026-11-02 123（+2）
+2026-10-18 121 → 2026-11-17 125（+4）
 
 
 ---

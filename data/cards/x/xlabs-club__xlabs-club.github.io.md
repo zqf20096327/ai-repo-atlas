@@ -1,6 +1,6 @@
 # xlabs-club/xlabs-club.github.io
 
-⭐ 33 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/xlabs-club/xlabs-club.github.io) · [官网](https://www.xlabs.club) · 组织维护 · 中文 README
+⭐ 37 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/xlabs-club/xlabs-club.github.io) · [官网](https://www.xlabs.club) · 组织维护 · 中文 README
 
 **卫星实验室主页源码：平台工程与云原生实践博客**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "xlabs-club/xlabs-club.github.io 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 32 --> 37
-    line [34, 35, 36, 34, 33, 33]
+    title "xlabs-club/xlabs-club.github.io 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 38
+    line [34, 35, 36, 34, 33, 34, 33, 34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

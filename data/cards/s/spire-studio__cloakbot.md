@@ -1,6 +1,6 @@
 # spire-studio/cloakbot
 
-⭐ 205 · Python · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/spire-studio/cloakbot) · 组织维护 · 中文 README
+⭐ 205 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/spire-studio/cloakbot) · 组织维护 · 中文 README
 
 **本地隐私内核：用本地小模型清洗提示词后再调远程 LLM**
 
@@ -46,12 +46,12 @@ CloakBot 是运行在用户本地的隐私代理层：调用 Claude/GPT/Gemini �
 ```mermaid
 xychart-beta
     title "spire-studio/cloakbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-18 205 → 2026-11-02 205（+0）
+2026-10-18 205 → 2026-11-17 205（+0）
 
 
 ---

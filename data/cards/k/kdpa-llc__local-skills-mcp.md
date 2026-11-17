@@ -1,6 +1,6 @@
 # kdpa-llc/local-skills-mcp
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/kdpa-llc/local-skills-mcp) · 组织维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/kdpa-llc/local-skills-mcp) · 组织维护
 
 **让任意 MCP 客户端加载本地 SKILL.md 技能的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kdpa-llc/local-skills-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "kdpa-llc/local-skills-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # takara-ai/go-attention
 
-⭐ 479 · Go · MIT · 推送 2026-06-15 · [GitHub](https://github.com/takara-ai/go-attention) · 组织维护
+⭐ 480 · Go · MIT · 推送 2026-06-15 · [GitHub](https://github.com/takara-ai/go-attention) · 组织维护
 
 **纯 Go 实现的注意力机制与 Transformer 层库，面向生产与边缘部署**
 
@@ -45,13 +45,13 @@ takara.ai 前沿研究团队发布的纯 Go 注意力机制与 Transformer 库�
 
 ```mermaid
 xychart-beta
-    title "takara-ai/go-attention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 478 --> 480
-    line [479, 479]
+    title "takara-ai/go-attention 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 478 --> 481
+    line [479, 480, 480]
 ```
 
-2026-10-18 479 → 2026-11-02 479（+0）
+2026-10-18 479 → 2026-11-17 480（+1）
 
 
 ---

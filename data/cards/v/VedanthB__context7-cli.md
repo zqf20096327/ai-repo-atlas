@@ -1,6 +1,6 @@
 # VedanthB/context7-cli
 
-⭐ 21 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/VedanthB/context7-cli) · [官网](https://vedanthb.github.io/context7-cli/) · 个人维护
+⭐ 22 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/VedanthB/context7-cli) · [官网](https://vedanthb.github.io/context7-cli/) · 个人维护
 
 **在终端获取最新版库文档的 Context7 CLI，无需 MCP**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VedanthB/context7-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "VedanthB/context7-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

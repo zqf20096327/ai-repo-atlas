@@ -1,6 +1,6 @@
 # yjyddq/RiOSWorld
 
-⭐ 125 · HTML · 推送 2025-12-02 · [GitHub](https://github.com/yjyddq/RiOSWorld) · [官网](https://yjyddq.github.io/RiOSWorld.github.io/) · 组织维护
+⭐ 126 · HTML · 推送 2025-12-02 · [GitHub](https://github.com/yjyddq/RiOSWorld) · [官网](https://yjyddq.github.io/RiOSWorld.github.io/) · 组织维护
 
 **评测多模态计算机使用 agent 风险的基准（NeurIPS'25）**
 
@@ -44,13 +44,13 @@ NeurIPS 2025 论文的官方代码仓库：提供评测多模态 computer-use ag
 
 ```mermaid
 xychart-beta
-    title "yjyddq/RiOSWorld 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    title "yjyddq/RiOSWorld 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 124 --> 127
+    line [125, 126, 126]
 ```
 
-2026-10-18 125 → 2026-11-02 125（+0）
+2026-10-18 125 → 2026-11-17 126（+1）
 
 
 ---

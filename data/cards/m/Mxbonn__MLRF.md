@@ -1,6 +1,6 @@
 # Mxbonn/MLRF
 
-⭐ 93 · Python · 推送 2026-05-12 · [GitHub](https://github.com/Mxbonn/MLRF) · [官网](https://mlrf.pages.dev) · 个人维护
+⭐ 95 · Python · 推送 2026-05-12 · [GitHub](https://github.com/Mxbonn/MLRF) · [官网](https://mlrf.pages.dev) · 个人维护
 
 **机器学习论文记忆闪卡合集，配合 Anki/Obsidian 使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mxbonn/MLRF 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "Mxbonn/MLRF 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 94, 95, 95]
 ```
 
-2026-10-18 92 → 2026-11-02 93（+1）
+2026-10-18 92 → 2026-11-17 95（+3）
 
 
 ---

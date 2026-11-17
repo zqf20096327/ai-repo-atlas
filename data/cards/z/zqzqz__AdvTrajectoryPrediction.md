@@ -1,6 +1,6 @@
 # zqzqz/AdvTrajectoryPrediction
 
-⭐ 123 · Python · 推送 2026-10-08 · [GitHub](https://github.com/zqzqz/AdvTrajectoryPrediction) · 个人维护
+⭐ 122 · Python · 推送 2026-10-08 · [GitHub](https://github.com/zqzqz/AdvTrajectoryPrediction) · 个人维护
 
 **CVPR 2022 论文官方代码：自动驾驶轨迹预测的对抗鲁棒性分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zqzqz/AdvTrajectoryPrediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "zqzqz/AdvTrajectoryPrediction 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
     y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    line [122, 123, 122, 122]
 ```
 
-2026-10-18 122 → 2026-11-02 123（+1）
+2026-10-18 122 → 2026-11-17 122（+0）
 
 
 ---

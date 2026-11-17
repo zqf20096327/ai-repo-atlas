@@ -1,6 +1,6 @@
 # SoftwareLogico/sot-cli
 
-⭐ 39 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SoftwareLogico/sot-cli) · [官网](https://www.linkedin.com/in/ramsesisaid) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/SoftwareLogico/sot-cli) · [官网](https://www.linkedin.com/in/ramsesisaid) · 组织维护
 
 **面向开发者的无护栏多供给商终端 AI Agent CLI**
 
@@ -45,13 +45,13 @@ Python 终端 AI Agent 工具：围绕自述的 Source of Truth (SoT) 方法将�
 
 ```mermaid
 xychart-beta
-    title "SoftwareLogico/sot-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "SoftwareLogico/sot-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 38 --> 41
+    line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

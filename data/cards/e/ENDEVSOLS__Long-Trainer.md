@@ -1,6 +1,6 @@
 # ENDEVSOLS/Long-Trainer
 
-⭐ 30 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ENDEVSOLS/Long-Trainer) · [官网](https://endevsols.com/open-source/longtrainer) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ENDEVSOLS/Long-Trainer) · [官网](https://endevsols.com/open-source/longtrainer) · 组织维护
 
 **构建多租户 RAG 聊天机器人的 Python 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ENDEVSOLS/Long-Trainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/ml-compiler-opt
 
-⭐ 804 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/google/ml-compiler-opt) · 组织维护
+⭐ 807 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google/ml-compiler-opt) · 组织维护
 
 **面向编译器研究者的 ML 引导 LLVM 优化策略训练框架**
 
@@ -45,13 +45,13 @@ MLGO 是将机器学习系统性集成到 LLVM 的框架：用训练出的模型
 
 ```mermaid
 xychart-beta
-    title "google/ml-compiler-opt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 801 --> 805
-    line [802, 803, 804, 804]
+    title "google/ml-compiler-opt 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 801 --> 809
+    line [802, 803, 804, 807, 808, 807, 807]
 ```
 
-2026-10-18 802 → 2026-11-02 804（+2）
+2026-10-18 802 → 2026-11-17 807（+5）
 
 
 ---

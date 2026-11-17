@@ -1,6 +1,6 @@
 # sileod/llm-theory-of-mind
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/sileod/llm-theory-of-mind) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/sileod/llm-theory-of-mind) · 个人维护
 
 **用认知逻辑生成问题、评测语言模型心智理论的基准**
 
@@ -44,13 +44,13 @@ MindGames 论文（EMNLP Findings 2023）的配套代码与数据集：基于动
 
 ```mermaid
 xychart-beta
-    title "sileod/llm-theory-of-mind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "sileod/llm-theory-of-mind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

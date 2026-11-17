@@ -1,6 +1,6 @@
 # lancedb/lancedb-c
 
-⭐ 14 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lancedb/lancedb-c) · 组织维护
+⭐ 15 · C++ · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/lancedb/lancedb-c) · 组织维护
 
 **LanceDB 的 C/C++ FFI 绑定，供 C 系应用使用向量数据库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lancedb/lancedb-c 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "lancedb/lancedb-c 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

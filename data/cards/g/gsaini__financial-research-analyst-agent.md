@@ -1,6 +1,6 @@
 # gsaini/financial-research-analyst-agent
 
-⭐ 63 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/gsaini/financial-research-analyst-agent) · [官网](https://financial-agents-ai.streamlit.app) · 个人维护
+⭐ 66 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/gsaini/financial-research-analyst-agent) · [官网](https://financial-agents-ai.streamlit.app) · 个人维护
 
 **多智能体股票研究系统：11 个分析 agent 生成投资分析报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gsaini/financial-research-analyst-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 60 --> 64
-    line [61, 63, 63]
+    title "gsaini/financial-research-analyst-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 60 --> 67
+    line [61, 63, 65, 66, 66]
 ```
 
-2026-10-18 61 → 2026-11-02 63（+2）
+2026-10-18 61 → 2026-11-17 66（+5）
 
 
 ---

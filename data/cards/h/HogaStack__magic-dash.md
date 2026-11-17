@@ -1,6 +1,6 @@
 # HogaStack/magic-dash
 
-⭐ 123 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/HogaStack/magic-dash) · 个人维护 · 中文 README
+⭐ 122 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/HogaStack/magic-dash) · 个人维护 · 中文 README
 
 **面向 Dash 应用的 Python 命令行项目脚手架**
 
@@ -43,13 +43,13 @@ magic-dash 是一个 CLI 脚手架工具，通过 pip 安装后可用 magic-dash
 
 ```mermaid
 xychart-beta
-    title "HogaStack/magic-dash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    title "HogaStack/magic-dash 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 121 --> 124
+    line [123, 122, 122]
 ```
 
-2026-10-18 123 → 2026-11-02 123（+0）
+2026-10-18 123 → 2026-11-17 122（-1）
 
 
 ---

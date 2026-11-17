@@ -1,6 +1,6 @@
 # serengil/deepface-react-ui
 
-⭐ 174 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/serengil/deepface-react-ui) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E&index=1) · 个人维护
+⭐ 175 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/serengil/deepface-react-ui) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E&index=1) · 个人维护
 
 **基于 ReactJS 的人脸识别与属性分析 Web 界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serengil/deepface-react-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "serengil/deepface-react-ui 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 173 --> 176
-    line [175, 174, 174]
+    line [175, 174, 175, 174, 175, 175]
 ```
 
-2026-10-18 175 → 2026-11-02 174（-1）
+2026-10-18 175 → 2026-11-17 175（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # octanove/janlpbook-code
 
-⭐ 13 · Jupyter Notebook · 推送 2026-01-28 · [GitHub](https://github.com/octanove/janlpbook-code) · [官网](https://www.japanesenlp.com/) · 组织维护
+⭐ 14 · Jupyter Notebook · 推送 2026-01-28 · [GitHub](https://github.com/octanove/janlpbook-code) · [官网](https://www.japanesenlp.com/) · 组织维护
 
 **《日语自然语言处理导论》书籍示例代码集**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "octanove/janlpbook-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "octanove/janlpbook-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

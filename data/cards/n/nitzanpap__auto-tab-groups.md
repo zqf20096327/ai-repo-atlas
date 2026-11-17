@@ -1,6 +1,6 @@
 # nitzanpap/auto-tab-groups
 
-⭐ 57 · TypeScript · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/nitzanpap/auto-tab-groups) · [官网](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-groups/) · 个人维护
+⭐ 60 · TypeScript · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/nitzanpap/auto-tab-groups) · [官网](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-groups/) · 个人维护
 
 **按域名/规则自动分组浏览器标签页的跨浏览器扩展，含端侧 AI 建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nitzanpap/auto-tab-groups 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 52 --> 58
-    line [53, 54, 55, 57, 57]
+    title "nitzanpap/auto-tab-groups 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 52 --> 61
+    line [53, 54, 55, 57, 55, 58, 59, 60, 60]
 ```
 
-2026-10-18 53 → 2026-11-02 57（+4）
+2026-10-18 53 → 2026-11-17 60（+7）
 
 
 ---

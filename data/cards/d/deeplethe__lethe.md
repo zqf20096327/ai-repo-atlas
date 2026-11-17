@@ -1,6 +1,6 @@
 # deeplethe/lethe
 
-⭐ 19 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/deeplethe/lethe) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/deeplethe/lethe) · 个人维护
 
 **面向 AI agent 的本地优先记忆系统：以单一 depth 轴实现记忆与遗忘**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "deeplethe/lethe 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 18, 19, 19]
+    title "deeplethe/lethe 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 18, 19, 18, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 19（+2）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

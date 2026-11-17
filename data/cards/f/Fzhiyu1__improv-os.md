@@ -1,6 +1,6 @@
 # Fzhiyu1/improv-os
 
-⭐ 126 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Fzhiyu1/improv-os) · [官网](https://os.fzhiyu.dev) · 个人维护 · 中文 README
+⭐ 124 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Fzhiyu1/improv-os) · [官网](https://os.fzhiyu.dev) · 个人维护 · 中文 README
 
 **每个应用都由 AI 现场生成的 macOS 风格网页 OS**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fzhiyu1/improv-os 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "Fzhiyu1/improv-os 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
     y-axis "stars" 123 --> 127
-    line [124, 125, 126, 126]
+    line [124, 125, 126, 125, 126, 124, 124]
 ```
 
-2026-10-18 124 → 2026-11-02 126（+2）
+2026-10-18 124 → 2026-11-17 124（+0）
 
 
 ---

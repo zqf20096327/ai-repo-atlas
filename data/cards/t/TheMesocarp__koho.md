@@ -1,6 +1,6 @@
 # TheMesocarp/koho
 
-⭐ 22 · Rust · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/TheMesocarp/koho) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Rust 层论（sheaf）神经网络库：在 CW 复形上做 k 维胞腔扩散**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TheMesocarp/koho 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-10"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-10 22（+0）
 
 
 ---

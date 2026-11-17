@@ -1,6 +1,6 @@
 # TranHoaiHung/figma-ui-mcp
 
-⭐ 265 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TranHoaiHung/figma-ui-mcp) · 个人维护
+⭐ 267 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TranHoaiHung/figma-ui-mcp) · 个人维护
 
 **让 AI 客户端直接在 Figma 画布绘制 UI 的 MCP 桥**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TranHoaiHung/figma-ui-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 263 --> 267
-    line [264, 265, 264, 266, 265]
+    title "TranHoaiHung/figma-ui-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 263 --> 268
+    line [264, 265, 264, 266, 265, 264, 266, 265, 266, 267, 267]
 ```
 
-2026-10-18 264 → 2026-11-02 265（+1）
+2026-10-18 264 → 2026-11-17 267（+3）
 
 
 ---

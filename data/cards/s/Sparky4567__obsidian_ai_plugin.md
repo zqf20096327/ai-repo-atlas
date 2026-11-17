@@ -1,6 +1,6 @@
 # Sparky4567/obsidian_ai_plugin
 
-⭐ 68 · JavaScript · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Sparky4567/obsidian_ai_plugin) · [官网](https://github.com/Sparky4567/obsidian_ai_plugin) · 个人维护
+⭐ 68 · JavaScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Sparky4567/obsidian_ai_plugin) · [官网](https://github.com/Sparky4567/obsidian_ai_plugin) · 个人维护
 
 **Obsidian 本地 LLM 插件：在笔记内调用 Ollama 对话与续写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sparky4567/obsidian_ai_plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 68（+0）
 
 
 ---

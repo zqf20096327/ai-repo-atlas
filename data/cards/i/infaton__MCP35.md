@@ -1,6 +1,6 @@
 # infaton/MCP35
 
-⭐ 47 · 1C Enterprise · MIT · 推送 2026-10-16 · [GitHub](https://github.com/infaton/MCP35) · [官网](https://infaton.ru) · 组织维护 · 中文 README
+⭐ 48 · 1C Enterprise · MIT · 推送 2026-10-16 · [GitHub](https://github.com/infaton/MCP35) · [官网](https://infaton.ru) · 组织维护 · 中文 README
 
 **面向 1C:Enterprise ERP 的 MCP 服务器：94 个工具供 AI 访问数据库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "infaton/MCP35 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 45, 46, 47, 47]
+    title "infaton/MCP35 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 42 --> 49
+    line [43, 44, 45, 46, 47, 45, 47, 48, 48]
 ```
 
-2026-10-18 43 → 2026-11-02 47（+4）
+2026-10-18 43 → 2026-11-17 48（+5）
 
 
 ---

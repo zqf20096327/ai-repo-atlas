@@ -1,6 +1,6 @@
 # google/chrome-enterprise-premium-mcp
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/google/chrome-enterprise-premium-mcp) · [官网](https://chromeenterprise.google/) · 组织维护
+⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/google/chrome-enterprise-premium-mcp) · [官网](https://chromeenterprise.google/) · 组织维护
 
 **Chrome Enterprise Premium 的 MCP 服务器：让 AI agent 管理浏览器安全**
 
@@ -44,13 +44,13 @@ Google 提供的参考实现，将 Chrome Enterprise Premium (CEP) 的 DLP 规�
 
 ```mermaid
 xychart-beta
-    title "google/chrome-enterprise-premium-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "google/chrome-enterprise-premium-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

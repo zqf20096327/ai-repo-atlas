@@ -1,6 +1,6 @@
 # uncbiag/uniGradICON
 
-⭐ 239 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/uncbiag/uniGradICON) · 组织维护
+⭐ 242 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/uncbiag/uniGradICON) · 组织维护
 
 **医学图像配准基础模型：跨数据集预训练，供研究人员使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "uncbiag/uniGradICON 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 235 --> 240
-    line [236, 238, 239, 239]
+    title "uncbiag/uniGradICON 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 235 --> 243
+    line [236, 238, 239, 240, 241, 242, 242]
 ```
 
-2026-10-18 236 → 2026-11-02 239（+3）
+2026-10-18 236 → 2026-11-17 242（+6）
 
 
 ---

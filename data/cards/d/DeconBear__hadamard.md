@@ -1,6 +1,6 @@
 # DeconBear/hadamard
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/DeconBear/hadamard) · [官网](https://deconbear.github.io/hadamard/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/DeconBear/hadamard) · [官网](https://deconbear.github.io/hadamard/) · 个人维护 · 中文 README
 
 **多智能体 TypeScript SDK/运行时：多会话协作与 CLI 桥接**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeconBear/hadamard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "DeconBear/hadamard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

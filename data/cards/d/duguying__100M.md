@@ -1,6 +1,6 @@
 # duguying/100M
 
-⭐ 52 · Python · 推送 2026-05-08 · [GitHub](https://github.com/duguying/100M) · [官网](https://tinyllm.duguying.net) · 个人维护 · 中文 README
+⭐ 53 · Python · 推送 2026-05-08 · [GitHub](https://github.com/duguying/100M) · [官网](https://tinyllm.duguying.net) · 个人维护 · 中文 README
 
 **在 Mac 上从零训练 0.1B 中文大模型的 Web 工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duguying/100M 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    title "duguying/100M 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 52（+1）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

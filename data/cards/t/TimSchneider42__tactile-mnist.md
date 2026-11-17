@@ -1,6 +1,6 @@
 # TimSchneider42/tactile-mnist
 
-⭐ 17 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TimSchneider42/tactile-mnist) · [官网](https://timschneider42.github.io/tactile-mnist/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/TimSchneider42/tactile-mnist) · [官网](https://timschneider42.github.io/tactile-mnist/) · 个人维护
 
 **触觉主动感知强化学习基准：11 个仿真任务与触觉数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TimSchneider42/tactile-mnist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "TimSchneider42/tactile-mnist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 21
+    line [17, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 20（+3）
 
 
 ---

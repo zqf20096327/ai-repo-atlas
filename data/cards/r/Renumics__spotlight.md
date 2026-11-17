@@ -1,6 +1,6 @@
 # Renumics/spotlight
 
-⭐ 1,284 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Renumics/spotlight) · [官网](https://renumics.com) · 组织维护
+⭐ 1,287 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Renumics/spotlight) · [官网](https://renumics.com) · 组织维护
 
 **从 DataFrame 交互式探索非结构化数据集的浏览器可视化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Renumics/spotlight 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1280 --> 1285
-    line [1281, 1282, 1283, 1284, 1284]
+    title "Renumics/spotlight 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1280 --> 1288
+    line [1281, 1282, 1283, 1284, 1282, 1285, 1286, 1287, 1287]
 ```
 
-2026-10-18 1,281 → 2026-11-02 1,284（+3）
+2026-10-18 1,281 → 2026-11-17 1,287（+6）
 
 
 ---

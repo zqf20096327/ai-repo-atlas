@@ -1,6 +1,6 @@
 # Mereithhh/guandan-lab
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Mereithhh/guandan-lab) · [官网](https://guandan.mereith.com) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Mereithhh/guandan-lab) · [官网](https://guandan.mereith.com) · 个人维护 · 中文 README
 
 **零基础掼蛋训练器：15分钟课程+公平AI陪练+记牌复盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mereithhh/guandan-lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "Mereithhh/guandan-lab 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 13, 15, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

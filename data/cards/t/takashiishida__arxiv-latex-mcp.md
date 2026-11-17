@@ -1,6 +1,6 @@
 # takashiishida/arxiv-latex-mcp
 
-⭐ 149 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/takashiishida/arxiv-latex-mcp) · 个人维护
+⭐ 151 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/takashiishida/arxiv-latex-mcp) · 个人维护
 
 **为 MCP 客户端提供 arXiv 论文 LaTeX 源获取与处理服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "takashiishida/arxiv-latex-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 146 --> 150
-    line [147, 148, 149, 149]
+    title "takashiishida/arxiv-latex-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 146 --> 152
+    line [147, 148, 149, 148, 149, 150, 151, 151]
 ```
 
-2026-10-18 147 → 2026-11-02 149（+2）
+2026-10-18 147 → 2026-11-17 151（+4）
 
 
 ---

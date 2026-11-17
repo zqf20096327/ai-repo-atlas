@@ -1,6 +1,6 @@
 # memvid/screenshot-memory
 
-⭐ 23 · TypeScript · MIT · 推送 2026-01-23 · [GitHub](https://github.com/memvid/screenshot-memory) · [官网](https://memvid.com) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-01-23 · [GitHub](https://github.com/memvid/screenshot-memory) · [官网](https://memvid.com) · 组织维护
 
 **本地 CLI 工具：按截图内容（文本/图像）搜索截图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "memvid/screenshot-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "memvid/screenshot-memory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 25（+2）
 
 
 ---

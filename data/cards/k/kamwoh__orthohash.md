@@ -1,6 +1,6 @@
 # kamwoh/orthohash
 
-⭐ 98 · Python · BSD-3-Clause · 推送 2026-02-27 · [GitHub](https://github.com/kamwoh/orthohash) · 组织维护
+⭐ 99 · Python · BSD-3-Clause · 推送 2026-02-27 · [GitHub](https://github.com/kamwoh/orthohash) · 组织维护
 
 **NeurIPS 2021 深度哈希论文官方实现：单余弦相似度目标做图像检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kamwoh/orthohash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "kamwoh/orthohash 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

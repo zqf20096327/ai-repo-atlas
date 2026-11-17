@@ -1,6 +1,6 @@
 # edagher92-coder/arc-llm-lab
 
-⭐ 12 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/edagher92-coder/arc-llm-lab) · [官网](https://edagher92-coder.github.io/arc-llm-lab/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/edagher92-coder/arc-llm-lab) · [官网](https://edagher92-coder.github.io/arc-llm-lab/) · 个人维护
 
 **Intel Arc 显卡上跑 Qwen 27B 的调优与评测栈：基准、调参、可靠性评估**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "edagher92-coder/arc-llm-lab 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "edagher92-coder/arc-llm-lab 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
     y-axis "stars" 2 --> 13
-    line [3, 5, 6, 8, 10, 11, 12, 12]
+    line [3, 5, 6, 8, 10, 11, 12, 10, 12, 11, 12, 12]
 ```
 
-2026-10-18 3 → 2026-11-02 12（+9）
+2026-10-18 3 → 2026-11-17 12（+9）
 
 
 ---

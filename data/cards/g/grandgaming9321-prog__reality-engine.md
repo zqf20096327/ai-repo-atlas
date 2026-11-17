@@ -1,6 +1,6 @@
 # grandgaming9321-prog/reality-engine
 
-⭐ 132 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/grandgaming9321-prog/reality-engine) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 驱动的时间线模拟平台：推演架空历史与情景分支**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "grandgaming9321-prog/reality-engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-02"]
+    title "grandgaming9321-prog/reality-engine 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08"]
     y-axis "stars" 130 --> 134
-    line [131, 132, 133, 132, 132]
+    line [131, 132, 133, 132, 133, 132]
 ```
 
-2026-10-18 131 → 2026-11-02 132（+1）
+2026-10-18 131 → 2026-11-08 132（+1）
 
 
 ---

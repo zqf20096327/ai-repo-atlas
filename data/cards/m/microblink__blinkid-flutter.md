@@ -1,6 +1,6 @@
 # microblink/blinkid-flutter
 
-⭐ 84 · Dart · 推送 2026-09-09 · [GitHub](https://github.com/microblink/blinkid-flutter) · 组织维护
+⭐ 84 · Dart · 推送 2026-11-04 · [GitHub](https://github.com/microblink/blinkid-flutter) · 组织维护
 
 **面向 Flutter 应用开发者的证件扫描识别插件**
 
@@ -46,12 +46,12 @@ Microblink 商业 BlinkID SDK 的 Flutter 封装插件：通过摄像头或静�
 ```mermaid
 xychart-beta
     title "microblink/blinkid-flutter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 84（+0）
 
 
 ---

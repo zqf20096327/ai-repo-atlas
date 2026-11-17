@@ -1,6 +1,6 @@
 # vstorm-co/summarization-pydantic-ai
 
-⭐ 73 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstorm-co/summarization-pydantic-ai) · [官网](https://vstorm-co.github.io/summarization-pydantic-ai/) · 组织维护
+⭐ 72 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstorm-co/summarization-pydantic-ai) · [官网](https://vstorm-co.github.io/summarization-pydantic-ai/) · 组织维护
 
 **Pydantic AI 代理的上下文管理库：自动摘要或滑窗防溢出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vstorm-co/summarization-pydantic-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    title "vstorm-co/summarization-pydantic-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 71 --> 74
+    line [73, 72, 72]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 72（-1）
 
 
 ---

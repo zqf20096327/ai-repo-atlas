@@ -1,6 +1,6 @@
 # aitradingbotspro/ai-automated-trading-bot
 
-⭐ 75 · Python · 推送 2026-03-14 · [GitHub](https://github.com/aitradingbotspro/ai-automated-trading-bot) · 个人维护
+⭐ 73 · Python · 推送 2026-03-14 · [GitHub](https://github.com/aitradingbotspro/ai-automated-trading-bot) · 个人维护
 
 **接收 TradingView 告警并按风控在交易所下单的 webhook 机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aitradingbotspro/ai-automated-trading-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [76, 75, 75]
+    title "aitradingbotspro/ai-automated-trading-bot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 72 --> 77
+    line [76, 75, 74, 73, 73]
 ```
 
-2026-10-18 76 → 2026-11-02 75（-1）
+2026-10-18 76 → 2026-11-17 73（-3）
 
 
 ---

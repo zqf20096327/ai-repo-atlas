@@ -1,6 +1,6 @@
 # junjamrk/OpenCinema
 
-⭐ 124 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/junjamrk/OpenCinema) · [官网](https://opencinema.site/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的 AI 视频工作室：画布+3D预演+生成剪辑一体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "junjamrk/OpenCinema 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 111 --> 125
-    line [112, 124]
+    title "junjamrk/OpenCinema 星数(近 4 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10"]
+    y-axis "stars" 103 --> 213
+    line [112, 124, 194, 204]
 ```
 
-2026-11-01 112 → 2026-11-02 124（+12）
+2026-11-01 112 → 2026-11-10 204（+92）
 
 
 ---

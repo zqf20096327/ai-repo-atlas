@@ -1,6 +1,6 @@
 # griver/Q-RAG
 
-⭐ 66 · Jupyter Notebook · 推送 2026-09-04 · [GitHub](https://github.com/griver/Q-RAG) · 组织维护
+⭐ 73 · Jupyter Notebook · 推送 2026-09-04 · [GitHub](https://github.com/griver/Q-RAG) · 组织维护
 
 **ICLR 2026 论文官方库：RL 训练嵌入器实现多步检索的 RAG 方法**
 
@@ -44,13 +44,13 @@ Q-RAG 论文的训练与评测代码：在文本块嵌入的潜空间中用价�
 
 ```mermaid
 xychart-beta
-    title "griver/Q-RAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    title "griver/Q-RAG 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 65 --> 74
+    line [66, 67, 68, 70, 71, 72, 73, 73]
 ```
 
-2026-10-18 66 → 2026-11-02 66（+0）
+2026-10-18 66 → 2026-11-17 73（+7）
 
 
 ---

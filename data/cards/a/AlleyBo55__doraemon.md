@@ -1,6 +1,6 @@
 # AlleyBo55/doraemon
 
-⭐ 53 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/AlleyBo55/doraemon) · 个人维护
+⭐ 54 · TypeScript · 推送 2026-11-02 · [GitHub](https://github.com/AlleyBo55/doraemon) · 个人维护
 
 **Shimeji 风格哆啦A梦桌面宠物，接入 AI 记忆与对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlleyBo55/doraemon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 44 --> 54
-    line [46, 45, 53, 53]
+    title "AlleyBo55/doraemon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 55
+    line [46, 45, 53, 46, 54, 54]
 ```
 
-2026-10-18 46 → 2026-11-02 53（+7）
+2026-10-18 46 → 2026-11-17 54（+8）
 
 
 ---

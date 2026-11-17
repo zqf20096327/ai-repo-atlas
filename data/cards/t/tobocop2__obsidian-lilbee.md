@@ -1,6 +1,6 @@
 # tobocop2/obsidian-lilbee
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/tobocop2/obsidian-lilbee) · [官网](https://obsidian.lilbee.sh) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/tobocop2/obsidian-lilbee) · [官网](https://obsidian.lilbee.sh) · 个人维护
 
 **把 Obsidian 仓库变成可对话的本地 RAG 搜索引擎的插件**
 
@@ -45,13 +45,13 @@ Obsidian 社区插件，在 Obsidian 内运行 lilbee 本地引擎：对整个 v
 
 ```mermaid
 xychart-beta
-    title "tobocop2/obsidian-lilbee 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "tobocop2/obsidian-lilbee 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

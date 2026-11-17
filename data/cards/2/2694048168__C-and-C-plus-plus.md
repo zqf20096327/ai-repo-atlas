@@ -1,6 +1,6 @@
 # 2694048168/C-and-C-plus-plus
 
-⭐ 63 · C++ · 推送 2026-10-28 · [GitHub](https://github.com/2694048168/C-and-C-plus-plus) · [官网](https://2694048168.github.io/blog/#/) · 个人维护 · 中文 README
+⭐ 63 · C++ · 推送 2026-11-14 · [GitHub](https://github.com/2694048168/C-and-C-plus-plus) · [官网](https://2694048168.github.io/blog/#/) · 个人维护 · 中文 README
 
 **现代 C++ 学习示例与项目模板合集：覆盖 CUDA/OpenCV/CMake/OpenGL**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2694048168/C-and-C-plus-plus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-11-02 63（+0）
+2026-10-18 63 → 2026-11-17 63（+0）
 
 
 ---

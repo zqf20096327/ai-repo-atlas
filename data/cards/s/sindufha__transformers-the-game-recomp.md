@@ -1,6 +1,6 @@
 # sindufha/transformers-the-game-recomp
 
-⭐ 11 · 推送 2026-10-24 · [GitHub](https://github.com/sindufha/transformers-the-game-recomp) · [官网](https://github.com/sindufha/transformers-the-game-recomp/releases) · 个人维护
+⭐ 3 · C · 推送 2026-11-04 · [GitHub](https://github.com/sindufha/transformers-the-game-recomp) · [官网](https://github.com/sindufha/transformers-the-game-recomp/releases) · 个人维护
 
 **《变形金刚》PC 版静态重编译移植到 Android 的实验性 APK**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sindufha/transformers-the-game-recomp 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 5 --> 12
-    line [6, 8, 10, 11]
+    title "sindufha/transformers-the-game-recomp 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 2 --> 12
+    line [6, 8, 10, 11, 3, 3]
 ```
 
-2026-10-28 6 → 2026-11-02 11（+5）
+2026-10-28 6 → 2026-11-17 3（-3）
 
 
 ---

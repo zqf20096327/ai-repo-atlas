@@ -1,6 +1,6 @@
 # prayangshuuu/hummingbird
 
-⭐ 61 · C · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/prayangshuuu/hummingbird) · 个人维护
+⭐ 67 · C · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/prayangshuuu/hummingbird) · 个人维护
 
 **零依赖 C17 LLM 推理运行时：统一 SSD/RAM/VRAM 跑超大 MoE 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prayangshuuu/hummingbird 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "prayangshuuu/hummingbird 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 59 --> 68
+    line [60, 61, 63, 65, 66, 67, 67]
 ```
 
-2026-10-18 60 → 2026-11-02 61（+1）
+2026-10-18 60 → 2026-11-17 67（+7）
 
 
 ---

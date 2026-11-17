@@ -1,6 +1,6 @@
 # microsoft/copilot-sdk-samples
 
-⭐ 25 · TypeScript · 推送 2026-09-12 · [GitHub](https://github.com/microsoft/copilot-sdk-samples) · [官网](https://copilot-sdk-samples.coreai.diy) · 组织维护
+⭐ 26 · TypeScript · 推送 2026-09-12 · [GitHub](https://github.com/microsoft/copilot-sdk-samples) · [官网](https://copilot-sdk-samples.coreai.diy) · 组织维护
 
 **GitHub Copilot SDK 官方示例集：演示 agent 应用开发**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-sdk-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "microsoft/copilot-sdk-samples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PriorLabs/tabpfn-extensions
 
-⭐ 343 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/PriorLabs/tabpfn-extensions) · [官网](https://www.priorlabs.ai) · 组织维护
+⭐ 344 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/PriorLabs/tabpfn-extensions) · [官网](https://www.priorlabs.ai) · 组织维护
 
 **TabPFN 表格基础模型的社区扩展库：可解释性、贝叶斯优化等**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "PriorLabs/tabpfn-extensions 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 335 --> 344
-    line [336, 337, 338, 341, 342, 343]
+    title "PriorLabs/tabpfn-extensions 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 335 --> 345
+    line [336, 337, 338, 341, 342, 343, 338, 343, 344, 344]
 ```
 
-2026-10-18 336 → 2026-11-02 343（+7）
+2026-10-18 336 → 2026-11-17 344（+8）
 
 
 ---

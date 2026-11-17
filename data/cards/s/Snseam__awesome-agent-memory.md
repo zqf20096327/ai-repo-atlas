@@ -1,6 +1,6 @@
 # Snseam/awesome-agent-memory
 
-⭐ 20 · Ruby · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Snseam/awesome-agent-memory) · 个人维护 · 中文 README
+⭐ 22 · Ruby · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Snseam/awesome-agent-memory) · 个人维护 · 中文 README
 
 **LLM agent 长期记忆的论文/产品/基准证据库与综述清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Snseam/awesome-agent-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "Snseam/awesome-agent-memory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 22（+2）
 
 
 ---

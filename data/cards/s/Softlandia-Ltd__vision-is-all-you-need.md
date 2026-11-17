@@ -1,6 +1,6 @@
 # Softlandia-Ltd/vision-is-all-you-need
 
-⭐ 403 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Softlandia-Ltd/vision-is-all-you-need) · [官网](https://softlandia-ltd-prod--vision-is-all-you-need-web.modal.run/) · 组织维护
+⭐ 402 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Softlandia-Ltd/vision-is-all-you-need) · [官网](https://softlandia-ltd-prod--vision-is-all-you-need-web.modal.run/) · 组织维护
 
 **演示项目：用视觉模型直接嵌入 PDF 页面的 V-RAG 问答 Demo**
 
@@ -44,13 +44,13 @@ Softlandia 团队发布的 Vision RAG 架构演示：将 PDF 页面转为图像�
 
 ```mermaid
 xychart-beta
-    title "Softlandia-Ltd/vision-is-all-you-need 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 402 --> 404
-    line [403, 403]
+    title "Softlandia-Ltd/vision-is-all-you-need 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 401 --> 404
+    line [403, 402, 402]
 ```
 
-2026-10-18 403 → 2026-11-02 403（+0）
+2026-10-18 403 → 2026-11-17 402（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ivanfioravanti/llm_context_benchmarks
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/ivanfioravanti/llm_context_benchmarks) · 个人维护
+⭐ 107 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/ivanfioravanti/llm_context_benchmarks) · 个人维护
 
 **面向多种推理引擎的 LLM 长上下文吞吐基准测试工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ivanfioravanti/llm_context_benchmarks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 101 --> 106
-    line [102, 104, 105, 105]
+    title "ivanfioravanti/llm_context_benchmarks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 101 --> 108
+    line [102, 104, 105, 106, 107, 107]
 ```
 
-2026-10-18 102 → 2026-11-02 105（+3）
+2026-10-18 102 → 2026-11-17 107（+5）
 
 
 ---

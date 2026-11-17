@@ -1,6 +1,6 @@
 # SoluDevTech/mcp-raganything
 
-⭐ 15 · Python · 推送 2026-07-27 · [GitHub](https://github.com/SoluDevTech/mcp-raganything) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 RAGAnything/LightRAG 的多模态 RAG 服务，提供 REST API 与 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SoluDevTech/mcp-raganything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-11 15（+0）
 
 
 ---

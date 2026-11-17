@@ -1,6 +1,6 @@
 # huridocs/uwazi
 
-⭐ 329 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/huridocs/uwazi) · [官网](http://www.uwazi.io) · 组织维护
+⭐ 330 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/huridocs/uwazi) · [官网](http://www.uwazi.io) · 组织维护
 
 **面向人权组织的文档收藏管理与共享的 Web 数据库应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huridocs/uwazi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 325 --> 330
-    line [326, 328, 329, 329]
+    title "huridocs/uwazi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 325 --> 331
+    line [326, 328, 329, 328, 329, 330, 330]
 ```
 
-2026-10-18 326 → 2026-11-02 329（+3）
+2026-10-18 326 → 2026-11-17 330（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Khanz9664/TrustLens
 
-⭐ 16 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Khanz9664/TrustLens) · [官网](https://pypi.org/project/trustlens) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Khanz9664/TrustLens) · [官网](https://pypi.org/project/trustlens) · 个人维护
 
 **面向 ML 从业者的模型可靠性与公平性诊断评测库**
 
@@ -44,13 +44,13 @@ Python 库，用于在准确率之外审计机器学习模型：四个诊断引�
 
 ```mermaid
 xychart-beta
-    title "Khanz9664/TrustLens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Khanz9664/TrustLens 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # openziti/llm-gateway
 
-⭐ 103 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/openziti/llm-gateway) · 组织维护
+⭐ 108 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/openziti/llm-gateway) · 组织维护
 
 **零信任 LLM 网关：OpenAI 兼容代理，跨多后端语义路由与负载均衡**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openziti/llm-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 99 --> 104
-    line [100, 101, 103, 103]
+    title "openziti/llm-gateway 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 99 --> 109
+    line [100, 101, 103, 100, 105, 107, 108, 108]
 ```
 
-2026-10-18 100 → 2026-11-02 103（+3）
+2026-10-18 100 → 2026-11-17 108（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # timescale/searchgres-js
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/timescale/searchgres-js) · 组织维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/timescale/searchgres-js) · 组织维护
 
 **PostgreSQL 混合检索库：BM25+向量+RRF+结构化过滤**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "timescale/searchgres-js 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 18
-    line [12, 13, 15, 16, 17]
+    title "timescale/searchgres-js 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 15, 16, 17, 13, 18, 18]
 ```
 
-2026-10-23 12 → 2026-11-02 17（+5）
+2026-10-23 12 → 2026-11-17 18（+6）
 
 
 ---

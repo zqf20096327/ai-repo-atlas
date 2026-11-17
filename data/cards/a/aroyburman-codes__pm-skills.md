@@ -1,6 +1,6 @@
 # aroyburman-codes/pm-skills
 
-⭐ 28 · MIT · 推送 2026-02-17 · [GitHub](https://github.com/aroyburman-codes/pm-skills) · 个人维护
+⭐ 29 · MIT · 推送 2026-02-17 · [GitHub](https://github.com/aroyburman-codes/pm-skills) · 个人维护
 
 **面向 AI 产品经理的 17 个结构化工作流技能包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aroyburman-codes/pm-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "aroyburman-codes/pm-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

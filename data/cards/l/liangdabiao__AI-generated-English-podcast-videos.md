@@ -1,6 +1,6 @@
 # liangdabiao/AI-generated-English-podcast-videos
 
-⭐ 185 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/liangdabiao/AI-generated-English-podcast-videos) · [官网](https://skillhub.cn/skills/user_8bb4b4f5/story-handdrawn-remotion) · 个人维护 · 中文 README
+⭐ 189 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/liangdabiao/AI-generated-English-podcast-videos) · [官网](https://skillhub.cn/skills/user_8bb4b4f5/story-handdrawn-remotion) · 个人维护 · 中文 README
 
 **把文章一键生成英语双人播客教学短视频的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangdabiao/AI-generated-English-podcast-videos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 181 --> 186
-    line [182, 183, 184, 185, 185]
+    title "liangdabiao/AI-generated-English-podcast-videos 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 181 --> 190
+    line [182, 183, 184, 185, 182, 187, 188, 189, 189]
 ```
 
-2026-10-18 182 → 2026-11-02 185（+3）
+2026-10-18 182 → 2026-11-17 189（+7）
 
 
 ---

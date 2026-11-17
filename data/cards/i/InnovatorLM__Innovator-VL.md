@@ -1,6 +1,6 @@
 # InnovatorLM/Innovator-VL
 
-⭐ 174 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/InnovatorLM/Innovator-VL) · [官网](https://innovatorlm.github.io/Innovator-VL/) · 组织维护 · 中文 README
+⭐ 175 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/InnovatorLM/Innovator-VL) · [官网](https://innovatorlm.github.io/Innovator-VL/) · 组织维护 · 中文 README
 
 **面向科学发现的多模态大模型（8B），含全流程开源训练管线**
 
@@ -44,13 +44,13 @@ Innovator-VL 是科学领域多模态大语言模型，基于 Qwen3-8B 语言解
 
 ```mermaid
 xychart-beta
-    title "InnovatorLM/Innovator-VL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 173 --> 175
-    line [174, 174]
+    title "InnovatorLM/Innovator-VL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 173 --> 176
+    line [174, 175, 175]
 ```
 
-2026-10-18 174 → 2026-11-02 174（+0）
+2026-10-18 174 → 2026-11-17 175（+1）
 
 
 ---

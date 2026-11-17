@@ -1,6 +1,6 @@
 # NOEL-MNI/deepFCD
 
-⭐ 18 · Python · BSD-3-Clause · 推送 2025-11-16 · [GitHub](https://github.com/NOEL-MNI/deepFCD) · [官网](https://noel.bic.mni.mcgill.ca/projects/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **深度学习 MRI 检测局灶性皮质发育不良（FCD）的工具**
 
@@ -11,7 +11,7 @@ Neurology 2021 多中心验证论文的官方代码库：对多模态 MRI（T1�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Neurology 2021 多中心验证论文的官方代码库：对多模态 MRI（T1�
 
 ```mermaid
 xychart-beta
-    title "NOEL-MNI/deepFCD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "NOEL-MNI/deepFCD 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-11 19（+1）
 
 
 ---

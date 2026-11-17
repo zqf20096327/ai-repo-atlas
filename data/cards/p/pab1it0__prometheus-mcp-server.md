@@ -1,6 +1,6 @@
 # pab1it0/prometheus-mcp-server
 
-⭐ 521 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pab1it0/prometheus-mcp-server) · 个人维护
+⭐ 526 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/pab1it0/prometheus-mcp-server) · 个人维护
 
 **让 AI 助手查询分析 Prometheus 指标的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pab1it0/prometheus-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 518 --> 522
-    line [519, 520, 521, 521]
+    title "pab1it0/prometheus-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 518 --> 527
+    line [519, 520, 521, 519, 522, 523, 525, 526, 526]
 ```
 
-2026-10-18 519 → 2026-11-02 521（+2）
+2026-10-18 519 → 2026-11-17 526（+7）
 
 
 ---

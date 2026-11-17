@@ -1,6 +1,6 @@
 # dan-veltri/amp-scanner-v2
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/dan-veltri/amp-scanner-v2) · [官网](https://www.ampscanner.com) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/dan-veltri/amp-scanner-v2) · [官网](https://www.ampscanner.com) · 个人维护
 
 **抗菌肽识别工具：深度学习预测蛋白序列是否为 AMP**
 
@@ -44,13 +44,13 @@ AMP Scanner v2 是 2018 年 Bioinformatics 论文 'Deep learning improves antimi
 
 ```mermaid
 xychart-beta
-    title "dan-veltri/amp-scanner-v2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "dan-veltri/amp-scanner-v2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

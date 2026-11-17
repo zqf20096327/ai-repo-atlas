@@ -1,6 +1,6 @@
 # onexstack/onex
 
-⭐ 599 · Go · MIT · 推送 2026-09-09 · [GitHub](https://github.com/onexstack/onex) · [官网](https://konglingfei.com) · 个人维护 · 中文 README
+⭐ 602 · Go · MIT · 推送 2026-09-09 · [GitHub](https://github.com/onexstack/onex) · [官网](https://konglingfei.com) · 个人维护 · 中文 README
 
 **面向学习者的企业级 Go + 云原生开发脚手架与实战平台**
 
@@ -43,13 +43,13 @@ Go 语言编写的企业级云原生实战平台，兼作开发脚手架：覆�
 
 ```mermaid
 xychart-beta
-    title "onexstack/onex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 597 --> 600
-    line [598, 599, 599]
+    title "onexstack/onex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 597 --> 603
+    line [598, 599, 598, 600, 602, 602]
 ```
 
-2026-10-18 598 → 2026-11-02 599（+1）
+2026-10-18 598 → 2026-11-17 602（+4）
 
 
 ---

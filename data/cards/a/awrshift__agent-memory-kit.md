@@ -1,6 +1,6 @@
 # awrshift/agent-memory-kit
 
-⭐ 34 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/awrshift/agent-memory-kit) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/awrshift/agent-memory-kit) · 个人维护
 
 **给 Claude Code 加显式确认记忆的插件：代理提议、你批准、逐行带日期**
 
@@ -45,13 +45,13 @@ Claude Code 插件，为编码代理提供基于纯文本文件的记忆系统�
 
 ```mermaid
 xychart-beta
-    title "awrshift/agent-memory-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "awrshift/agent-memory-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 32 --> 35
+    line [34, 33, 33]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 33（-1）
 
 
 ---

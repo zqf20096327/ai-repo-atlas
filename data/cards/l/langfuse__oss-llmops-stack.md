@@ -1,6 +1,6 @@
 # langfuse/oss-llmops-stack
 
-⭐ 153 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/langfuse/oss-llmops-stack) · [官网](https://oss-llmops-stack.com) · 组织维护
+⭐ 155 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/langfuse/oss-llmops-stack) · [官网](https://oss-llmops-stack.com) · 组织维护
 
 **开源模块化 LLMOps 技术栈：LiteLLM 网关 + Langfuse 可观测**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "langfuse/oss-llmops-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 152 --> 154
-    line [153, 153]
+    title "langfuse/oss-llmops-stack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 152 --> 156
+    line [153, 155, 155]
 ```
 
-2026-10-18 153 → 2026-11-02 153（+0）
+2026-10-18 153 → 2026-11-17 155（+2）
 
 
 ---

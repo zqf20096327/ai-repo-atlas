@@ -1,6 +1,6 @@
 # CrestApps/CrestApps.OrchardCore
 
-⭐ 32 · C# · 推送 2026-11-01 · [GitHub](https://github.com/CrestApps/CrestApps.OrchardCore) · [官网](https://orchardcore.crestapps.com/) · 组织维护
+⭐ 32 · C# · 推送 2026-11-16 · [GitHub](https://github.com/CrestApps/CrestApps.OrchardCore) · [官网](https://orchardcore.crestapps.com/) · 组织维护
 
 **面向 Orchard Core 的企业级模块套件，含 AI、CRM、呼叫中心等**
 
@@ -44,13 +44,13 @@ CrestApps.OrchardCore 是扩展 Orchard Core CMS 框架的模块与扩展集合�
 
 ```mermaid
 xychart-beta
-    title "CrestApps/CrestApps.OrchardCore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "CrestApps/CrestApps.OrchardCore 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    line [31, 32, 31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

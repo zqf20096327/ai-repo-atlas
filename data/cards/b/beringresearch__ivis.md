@@ -1,6 +1,6 @@
 # beringresearch/ivis
 
-⭐ 345 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/beringresearch/ivis) · [官网](https://beringresearch.github.io/ivis/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用孪生网络对超大规模数据做降维可视化的 Python 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "beringresearch/ivis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 344 --> 346
     line [345, 345]
 ```
 
-2026-10-18 345 → 2026-11-02 345（+0）
+2026-10-18 345 → 2026-11-07 345（+0）
 
 
 ---

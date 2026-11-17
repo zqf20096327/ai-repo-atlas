@@ -1,6 +1,6 @@
 # AI4CharityPL/kancelaria-lex
 
-⭐ 59 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/AI4CharityPL/kancelaria-lex) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/AI4CharityPL/kancelaria-lex) · 个人维护
 
 **波兰律师的全本地法律案卷问答系统：回答逐句精确引用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI4CharityPL/kancelaria-lex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "AI4CharityPL/kancelaria-lex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leofmarciano/groot
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/leofmarciano/groot) · [官网](marcianotheory.com) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/leofmarciano/groot) · [官网](marcianotheory.com) · 个人维护
 
 **开源类型化决策模型：长上下文上一次前向给出校准概率分布**
 
@@ -45,13 +45,13 @@ Groot 1 是基于 mmBERT 编码器（small/base 各一，分别 149M/482M 参数
 
 ```mermaid
 xychart-beta
-    title "leofmarciano/groot 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 4 --> 14
-    line [5, 9, 12, 13, 13]
+    title "leofmarciano/groot 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 4 --> 15
+    line [5, 9, 12, 13, 12, 14, 14]
 ```
 
-2026-10-23 5 → 2026-11-02 13（+8）
+2026-10-23 5 → 2026-11-17 14（+9）
 
 
 ---

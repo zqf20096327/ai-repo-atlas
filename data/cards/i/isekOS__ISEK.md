@@ -1,6 +1,6 @@
 # isekOS/ISEK
 
-⭐ 570 · Python · MIT · 推送 2026-01-03 · [GitHub](https://github.com/isekOS/ISEK) · [官网](https://docs.isek.xyz/) · 组织维护 · 中文 README
+⭐ 572 · Python · MIT · 推送 2026-01-03 · [GitHub](https://github.com/isekOS/ISEK) · [官网](https://docs.isek.xyz/) · 组织维护 · 中文 README
 
 **去中心化 AI Agent 网络（A2A）构建框架：P2P 互联协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "isekOS/ISEK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 567 --> 571
-    line [568, 569, 570, 570]
+    title "isekOS/ISEK 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 567 --> 573
+    line [568, 569, 570, 569, 571, 572, 572]
 ```
 
-2026-10-18 568 → 2026-11-02 570（+2）
+2026-10-18 568 → 2026-11-17 572（+4）
 
 
 ---

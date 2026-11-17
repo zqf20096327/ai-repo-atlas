@@ -1,6 +1,6 @@
 # rockbenben/free-llm-intel
 
-⭐ 53 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rockbenben/free-llm-intel) · [官网](https://free-llm-intel.aishort.top/) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rockbenben/free-llm-intel) · [官网](https://free-llm-intel.aishort.top/) · 个人维护 · 中文 README
 
 **LLM 免费额度与厂商动态情报站：脚本每日巡检官方页生成总表与 RSS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockbenben/free-llm-intel 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 54
-    line [43, 44, 45, 47, 49, 50, 51, 52, 53]
+    title "rockbenben/free-llm-intel 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 42 --> 61
+    line [43, 44, 45, 47, 49, 50, 51, 52, 53, 49, 54, 55, 58, 59, 60, 60]
 ```
 
-2026-10-18 43 → 2026-11-02 53（+10）
+2026-10-18 43 → 2026-11-17 60（+17）
 
 
 ---

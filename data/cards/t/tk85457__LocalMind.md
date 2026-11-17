@@ -1,6 +1,6 @@
 # tk85457/LocalMind
 
-⭐ 16 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/tk85457/LocalMind) · [官网](https://github.com/tk85457/LocalMind/releases/latest) · 个人维护
+⭐ 18 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/tk85457/LocalMind) · [官网](https://github.com/tk85457/LocalMind/releases/latest) · 个人维护
 
 **Android 本地 LLM 聊天应用：离线运行 GGUF 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tk85457/LocalMind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "tk85457/LocalMind 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

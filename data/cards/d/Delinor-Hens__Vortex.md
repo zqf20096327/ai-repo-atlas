@@ -1,6 +1,6 @@
 # Delinor-Hens/Vortex
 
-⭐ 14 · C++ · GPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/Delinor-Hens/Vortex) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 桌面 AI 助手：本地离线模型与多家云端 API 聊天及代码生成**
 
@@ -11,7 +11,7 @@ C++ 后端加 Python GUI 的桌面应用。内置本地模型 qwen3.5:4b（经 O
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ C++ 后端加 Python GUI 的桌面应用。内置本地模型 qwen3.5:4b（经 O
 ```mermaid
 xychart-beta
     title "Delinor-Hens/Vortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-15 14（+0）
 
 
 ---

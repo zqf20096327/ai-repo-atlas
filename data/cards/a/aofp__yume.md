@@ -1,6 +1,6 @@
 # aofp/yume
 
-⭐ 151 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/aofp/yume) · [官网](https://aofp.github.io/yume/) · 个人维护
+⭐ 155 · HTML · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/aofp/yume) · [官网](https://aofp.github.io/yume/) · 个人维护
 
 **Claude Code 的原生桌面 GUI，含编排流程与多后端模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aofp/yume 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 149 --> 152
-    line [150, 151, 151]
+    title "aofp/yume 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 149 --> 156
+    line [150, 151, 150, 153, 154, 155, 155]
 ```
 
-2026-10-18 150 → 2026-11-02 151（+1）
+2026-10-18 150 → 2026-11-17 155（+5）
 
 
 ---

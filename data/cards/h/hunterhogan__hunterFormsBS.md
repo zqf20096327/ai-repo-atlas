@@ -1,6 +1,6 @@
 # hunterhogan/hunterFormsBS
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/hunterhogan/hunterFormsBS) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/hunterhogan/hunterFormsBS) · 个人维护
 
 **统一频带切分音乐源分离模型库：单入口表达 BS/梅尔/自定义分带**
 
@@ -45,13 +45,13 @@ PyTorch 实现的频带切分式音乐源分离模型包：以 BandSplitRotator 
 
 ```mermaid
 xychart-beta
-    title "hunterhogan/hunterFormsBS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "hunterhogan/hunterFormsBS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

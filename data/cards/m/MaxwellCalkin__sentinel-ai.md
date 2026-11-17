@@ -1,6 +1,6 @@
 # MaxwellCalkin/sentinel-ai
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/MaxwellCalkin/sentinel-ai) · [官网](https://maxwellcalkin.github.io/sentinel-ai/) · 个人维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/MaxwellCalkin/sentinel-ai) · [官网](https://maxwellcalkin.github.io/sentinel-ai/) · 个人维护
 
 **给 LLM 应用的实时安全防护层：11 类扫描器拦截注入与泄露**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxwellCalkin/sentinel-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "MaxwellCalkin/sentinel-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

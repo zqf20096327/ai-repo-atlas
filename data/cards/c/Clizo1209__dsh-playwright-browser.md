@@ -1,6 +1,6 @@
 # Clizo1209/dsh-playwright-browser
 
-⭐ 16 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Clizo1209/dsh-playwright-browser) · [官网](https://www.npmjs.com/package/dsh-playwright-browser) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Clizo1209/dsh-playwright-browser) · [官网](https://www.npmjs.com/package/dsh-playwright-browser) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供浏览器自动化的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Clizo1209/dsh-playwright-browser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 16, 16]
+    title "Clizo1209/dsh-playwright-browser 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

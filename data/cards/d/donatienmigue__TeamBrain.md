@@ -1,6 +1,6 @@
 # donatienmigue/TeamBrain
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/donatienmigue/TeamBrain) · [官网](https://donatienmigue.github.io/TeamBrain/) · 个人维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/donatienmigue/TeamBrain) · [官网](https://donatienmigue.github.io/TeamBrain/) · 个人维护
 
 **面向团队 AI 编程 agent 的 Git 原生共享记忆系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "donatienmigue/TeamBrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "donatienmigue/TeamBrain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

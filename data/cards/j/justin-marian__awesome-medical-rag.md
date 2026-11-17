@@ -1,6 +1,6 @@
 # justin-marian/awesome-medical-rag
 
-⭐ 12 · NOASSERTION · 推送 2026-06-25 · [GitHub](https://github.com/justin-marian/awesome-medical-rag) · 个人维护
+⭐ 13 · NOASSERTION · 推送 2026-06-25 · [GitHub](https://github.com/justin-marian/awesome-medical-rag) · 个人维护
 
 **医学 QA/RAG 论文与数据集策展清单（250+ 条）**
 
@@ -44,13 +44,13 @@ Markdown 编写的医学 AI 研究资源清单：收录 250+ 篇论文、数据�
 
 ```mermaid
 xychart-beta
-    title "justin-marian/awesome-medical-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12]
+    title "justin-marian/awesome-medical-rag 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

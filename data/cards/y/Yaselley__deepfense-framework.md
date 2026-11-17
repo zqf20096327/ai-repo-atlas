@@ -1,6 +1,6 @@
 # Yaselley/deepfense-framework
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Yaselley/deepfense-framework) · [官网](https://deepfense.github.io/) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Yaselley/deepfense-framework) · [官网](https://deepfense.github.io/) · 组织维护
 
 **模块化深度伪造音频检测框架：YAML 组合前端/后端/损失训练检测器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yaselley/deepfense-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "Yaselley/deepfense-framework 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    line [33, 34, 33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 34（+1）
 
 
 ---

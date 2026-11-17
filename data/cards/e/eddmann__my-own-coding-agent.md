@@ -1,6 +1,6 @@
 # eddmann/my-own-coding-agent
 
-⭐ 18 · Python · 推送 2026-04-22 · [GitHub](https://github.com/eddmann/my-own-coding-agent) · 个人维护
+⭐ 19 · Python · 推送 2026-04-22 · [GitHub](https://github.com/eddmann/my-own-coding-agent) · 个人维护
 
 **教学用可扩展 Python 编码 Agent 框架，支持多 LLM 提供方**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eddmann/my-own-coding-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "eddmann/my-own-coding-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-17"]
     y-axis "stars" 17 --> 20
-    line [19, 18]
+    line [19, 18, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 18（-1）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TheRealFREDP3D/Ollama-Colab
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-08-24 · [GitHub](https://github.com/TheRealFREDP3D/Ollama-Colab) · [官网](https://github.com/TheRealFREDP3D/Ollama-Colab) · 个人维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/TheRealFREDP3D/Ollama-Colab) · [官网](https://github.com/TheRealFREDP3D/Ollama-Colab) · 个人维护
 
 **在 Google Colab 免费 GPU 上运行 Ollama 并暴露公网 HTTPS 端点的笔记本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheRealFREDP3D/Ollama-Colab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "TheRealFREDP3D/Ollama-Colab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-17"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 13]
+    line [13, 14, 13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

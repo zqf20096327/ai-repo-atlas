@@ -1,6 +1,6 @@
 # izll/agent-session-manager-desktop
 
-⭐ 29 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/izll/agent-session-manager-desktop) · [官网](https://github.com/izll/agent-session-manager-desktop/releases) · 个人维护
+⭐ 30 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/izll/agent-session-manager-desktop) · [官网](https://github.com/izll/agent-session-manager-desktop/releases) · 个人维护
 
 **AI 编码 agent 多会话桌面管理器：一个窗口跑 Claude/Codex/Gemini 等多个 agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "izll/agent-session-manager-desktop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 24 --> 30
-    line [25, 26, 27, 29, 29]
+    title "izll/agent-session-manager-desktop 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 29, 27, 30, 30]
 ```
 
-2026-10-18 25 → 2026-11-02 29（+4）
+2026-10-18 25 → 2026-11-17 30（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # adipandas/multi-object-tracker
 
-⭐ 696 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/adipandas/multi-object-tracker) · [官网](https://adipandas.github.io/multi-object-tracker/) · 个人维护
+⭐ 698 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/adipandas/multi-object-tracker) · [官网](https://adipandas.github.io/multi-object-tracker/) · 个人维护
 
 **Python 多目标跟踪库：提供多种跟踪器与检测器接口**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "adipandas/multi-object-tracker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 695 --> 698
-    line [697, 696, 696]
+    title "adipandas/multi-object-tracker 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 695 --> 699
+    line [697, 696, 697, 698, 698]
 ```
 
-2026-10-18 697 → 2026-11-02 696（-1）
+2026-10-18 697 → 2026-11-17 698（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BoxcarsAI/boxcars
 
-⭐ 463 · Ruby · MIT · 推送 2026-10-13 · [GitHub](https://github.com/BoxcarsAI/boxcars) · 组织维护
+⭐ 462 · Ruby · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BoxcarsAI/boxcars) · 组织维护
 
 **Ruby/Rails 团队构建 LLM 应用的组合式框架**
 
@@ -45,13 +45,13 @@ Boxcars 是一个 Ruby gem，为 Ruby 和 Rails 开发者提供构建 LLM 驱动
 
 ```mermaid
 xychart-beta
-    title "BoxcarsAI/boxcars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 462 --> 464
-    line [463, 463]
+    title "BoxcarsAI/boxcars 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 461 --> 464
+    line [463, 462, 462]
 ```
 
-2026-10-18 463 → 2026-11-02 463（+0）
+2026-10-18 463 → 2026-11-17 462（-1）
 
 
 ---

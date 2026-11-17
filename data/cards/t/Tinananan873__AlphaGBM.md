@@ -1,6 +1,6 @@
 # Tinananan873/AlphaGBM
 
-⭐ 80 · 推送 2026-02-26 · [GitHub](https://github.com/Tinananan873/AlphaGBM) · 组织维护 · 中文 README
+⭐ 81 · 推送 2026-02-26 · [GitHub](https://github.com/Tinananan873/AlphaGBM) · 组织维护 · 中文 README
 
 **面向期权交易者的 AI 期权分析与量化软件，实时 Greeks 与 IV 曲面拟合**
 
@@ -44,13 +44,13 @@ README 以第三方测评文章格式介绍 AlphaGBM：面向专业期权交易�
 
 ```mermaid
 xychart-beta
-    title "Tinananan873/AlphaGBM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    title "Tinananan873/AlphaGBM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 79 --> 82
+    line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-11-02 80（+0）
+2026-10-18 80 → 2026-11-17 81（+1）
 
 
 ---

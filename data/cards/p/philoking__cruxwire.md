@@ -1,6 +1,6 @@
 # philoking/cruxwire
 
-⭐ 14 · HTML · MIT · 推送 2026-06-28 · [GitHub](https://github.com/philoking/cruxwire) · [官网](https://cruxwire.app) · 个人维护
+⭐ 16 · HTML · MIT · 推送 2026-06-28 · [GitHub](https://github.com/philoking/cruxwire) · [官网](https://cruxwire.app) · 个人维护
 
 **自托管本地 LLM 新闻阅读器：对 RSS 源打分、去重、摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "philoking/cruxwire 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "philoking/cruxwire 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 13, 14, 16, 17, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

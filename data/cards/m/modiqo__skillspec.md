@@ -1,6 +1,6 @@
 # modiqo/skillspec
 
-⭐ 699 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/modiqo/skillspec) · [官网](https://skillspec.sh) · 组织维护
+⭐ 668 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/modiqo/skillspec) · [官网](https://skillspec.sh) · 组织维护
 
 **Agent 技能的结构化契约与风险审计 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "modiqo/skillspec 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 698 --> 709
-    line [707, 708, 700, 699, 699]
+    title "modiqo/skillspec 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 664 --> 712
+    line [707, 708, 700, 699, 674, 668, 668]
 ```
 
-2026-10-18 707 → 2026-11-02 699（-8）
+2026-10-18 707 → 2026-11-17 668（-39）
 
 
 ---

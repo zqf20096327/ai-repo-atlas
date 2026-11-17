@@ -1,6 +1,6 @@
 # zep-us/claude-system-prompt
 
-⭐ 18 · HTML · 推送 2026-02-15 · [GitHub](https://github.com/zep-us/claude-system-prompt) · 组织维护
+⭐ 19 · HTML · 推送 2026-02-15 · [GitHub](https://github.com/zep-us/claude-system-prompt) · 组织维护
 
 **逆向提取的 Claude 全量系统提示词资料库，供安全研究参考**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zep-us/claude-system-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "zep-us/claude-system-prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

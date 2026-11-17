@@ -1,6 +1,6 @@
 # jmschrei/apricot
 
-⭐ 537 · Jupyter Notebook · MIT · 推送 2025-11-17 · [GitHub](https://github.com/jmschrei/apricot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **子模优化数据集摘要库：从海量数据选出代表性子集**
 
@@ -11,7 +11,7 @@ Python 库，实现子模优化以从大规模数据集中选取低冗余、有�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Python 库，实现子模优化以从大规模数据集中选取低冗余、有�
 
 ```mermaid
 xychart-beta
-    title "jmschrei/apricot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 536 --> 538
-    line [537, 537]
+    title "jmschrei/apricot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12"]
+    y-axis "stars" 536 --> 539
+    line [537, 538, 538]
 ```
 
-2026-10-18 537 → 2026-11-02 537（+0）
+2026-10-18 537 → 2026-11-12 538（+1）
 
 
 ---

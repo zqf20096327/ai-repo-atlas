@@ -1,6 +1,6 @@
 # its-ahoh/codey
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/its-ahoh/codey) · [官网](https://its-ahoh.github.io/codey/) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/its-ahoh/codey) · [官网](https://its-ahoh.github.io/codey/) · 个人维护 · 中文 README
 
 **给开发者的多编码 agent 编排工作台，统一管理 Claude Code/Codex 等**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "its-ahoh/codey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "its-ahoh/codey 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

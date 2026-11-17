@@ -1,6 +1,6 @@
 # milvus-io/milvus-storage
 
-⭐ 55 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/milvus-io/milvus-storage) · 组织维护
+⭐ 56 · C++ · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/milvus-io/milvus-storage) · 组织维护
 
 **面向向量数据库的列式存储引擎，基于 Apache Arrow**
 
@@ -45,13 +45,13 @@ Milvus 生态的 C++ 列式存储引擎，服务于向量数据库与分析型�
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-storage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "milvus-io/milvus-storage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 54 --> 57
-    line [56, 55, 55]
+    line [56, 55, 56, 56]
 ```
 
-2026-10-18 56 → 2026-11-02 55（-1）
+2026-10-18 56 → 2026-11-17 56（+0）
 
 
 ---

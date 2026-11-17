@@ -1,6 +1,6 @@
 # ElliotXie/CASSIA
 
-⭐ 109 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/ElliotXie/CASSIA) · [官网](https://elliotxie.github.io/CASSIA/) · 组织维护 · 中文 README
+⭐ 111 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ElliotXie/CASSIA) · [官网](https://elliotxie.github.io/CASSIA/) · 组织维护 · 中文 README
 
 **多智能体 LLM 单细胞细胞类型注释框架，供生信研究者使用**
 
@@ -45,13 +45,13 @@ CASSIA 用多智能体大语言模型对单细胞 RNA 测序数据做细胞类�
 
 ```mermaid
 xychart-beta
-    title "ElliotXie/CASSIA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    title "ElliotXie/CASSIA 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 111, 111]
 ```
 
-2026-10-18 109 → 2026-11-02 109（+0）
+2026-10-18 109 → 2026-11-17 111（+2）
 
 
 ---

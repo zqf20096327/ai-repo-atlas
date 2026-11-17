@@ -1,6 +1,6 @@
 # raphaelvallat/antropy
 
-⭐ 381 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/raphaelvallat/antropy) · [官网](https://raphaelvallat.com/antropy/) · 个人维护
+⭐ 386 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/raphaelvallat/antropy) · [官网](https://raphaelvallat.com/antropy/) · 个人维护
 
 **计算时间序列熵与分形维度的 Python 特征提取库**
 
@@ -44,13 +44,13 @@ AntroPy 是面向时间序列的熵与复杂度度量 Python 库：提供排列�
 
 ```mermaid
 xychart-beta
-    title "raphaelvallat/antropy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 378 --> 382
-    line [379, 381, 381]
+    title "raphaelvallat/antropy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 378 --> 387
+    line [379, 381, 383, 385, 386, 386]
 ```
 
-2026-10-18 379 → 2026-11-02 381（+2）
+2026-10-18 379 → 2026-11-17 386（+7）
 
 
 ---

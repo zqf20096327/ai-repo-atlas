@@ -1,6 +1,6 @@
 # tarunlnmiit/autopilot-jobhunt
 
-⭐ 218 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/tarunlnmiit/autopilot-jobhunt) · [官网](https://pypi.org/project/autopilot-jobhunt/) · 个人维护
+⭐ 219 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/tarunlnmiit/autopilot-jobhunt) · [官网](https://pypi.org/project/autopilot-jobhunt/) · 个人维护
 
 **自动扫描招聘页并按简历打分的求职代理，Telegram 推送**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tarunlnmiit/autopilot-jobhunt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-02"]
+    title "tarunlnmiit/autopilot-jobhunt 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
     y-axis "stars" 215 --> 220
-    line [216, 217, 218, 219, 218]
+    line [216, 217, 218, 219, 218, 217, 219, 218, 219, 218, 219, 219]
 ```
 
-2026-10-18 216 → 2026-11-02 218（+2）
+2026-10-18 216 → 2026-11-17 219（+3）
 
 
 ---

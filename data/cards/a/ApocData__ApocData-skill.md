@@ -1,6 +1,6 @@
 # ApocData/ApocData-skill
 
-⭐ 102 · Shell · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/ApocData/ApocData-skill) · [官网](http://www.apocdata.com) · 组织维护 · 中文 README
+⭐ 105 · Shell · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/ApocData/ApocData-skill) · [官网](http://www.apocdata.com) · 组织维护 · 中文 README
 
 **A股金融数据服务：供 AI agent 调用的公告解析与行情 API Skill/MCP**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ApocData/ApocData-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 100 --> 103
-    line [102, 101, 102, 102]
+    title "ApocData/ApocData-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 100 --> 106
+    line [102, 101, 102, 101, 104, 105, 105]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 105（+3）
 
 
 ---

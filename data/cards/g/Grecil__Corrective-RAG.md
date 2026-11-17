@@ -1,6 +1,6 @@
 # Grecil/Corrective-RAG
 
-⭐ 30 · Python · 推送 2026-05-13 · [GitHub](https://github.com/Grecil/Corrective-RAG) · [官网](https://crag.grecil.in) · 个人维护
+⭐ 30 · Python · 推送 2026-11-02 · [GitHub](https://github.com/Grecil/Corrective-RAG) · [官网](https://crag.grecil.in) · 个人维护
 
 **基于 LangChain/LangGraph 的 Corrective RAG 论文实现，Streamlit 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Grecil/Corrective-RAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rohansx/nullbox
 
-⭐ 12 · Rust · 推送 2026-04-05 · [GitHub](https://github.com/rohansx/nullbox) · [官网](https://nullbox.sh) · 个人维护
+⭐ 11 · Rust · 推送 2026-04-05 · [GitHub](https://github.com/rohansx/nullbox) · [官网](https://nullbox.sh) · 个人维护
 
 **专用于运行自主 AI agent 的不可变极简 Linux 发行版**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohansx/nullbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "rohansx/nullbox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

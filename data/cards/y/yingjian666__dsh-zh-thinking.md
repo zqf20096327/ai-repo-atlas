@@ -1,6 +1,6 @@
 # yingjian666/dsh-zh-thinking
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yingjian666/dsh-zh-thinking) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yingjian666/dsh-zh-thinking) · 个人维护 · 中文 README
 
 **DeepSeek Harness 宿主插件：强制 Agent 思维链全程使用简体中文**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yingjian666/dsh-zh-thinking 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 11 --> 21
-    line [12, 15, 16, 17, 18, 19, 20, 19]
+    title "yingjian666/dsh-zh-thinking 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 23
+    line [12, 15, 16, 17, 18, 19, 20, 19, 17, 21, 22, 22]
 ```
 
-2026-10-18 12 → 2026-11-02 19（+7）
+2026-10-18 12 → 2026-11-17 22（+10）
 
 
 ---

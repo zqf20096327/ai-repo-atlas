@@ -1,6 +1,6 @@
 # kleer001/Text_Loom
 
-⭐ 23 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kleer001/Text_Loom) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kleer001/Text_Loom) · 个人维护
 
 **面向文本处理的节点式可视化编程工具，LLM 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kleer001/Text_Loom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Schr0d/Archon
 
-⭐ 21 · Java · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Schr0d/Archon) · 个人维护 · 中文 README
+⭐ 20 · Java · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Schr0d/Archon) · 个人维护 · 中文 README
 
 **供 AI 编码工具调用的本地依赖影响分析工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Schr0d/Archon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Schr0d/Archon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [21, 20, 20]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 20（-1）
 
 
 ---

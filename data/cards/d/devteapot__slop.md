@@ -1,6 +1,6 @@
 # devteapot/slop
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/devteapot/slop) · [官网](https://slopai.dev) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/devteapot/slop) · [官网](https://slopai.dev) · 组织维护
 
 **让 AI 直接观察与操作应用状态的协议与 SDK 集合**
 
@@ -46,12 +46,12 @@ SLOP 定义了一个应用与 AI 之间的状态感知协议：应用发布语�
 ```mermaid
 xychart-beta
     title "devteapot/slop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

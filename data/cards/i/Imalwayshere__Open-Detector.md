@@ -1,6 +1,6 @@
 # Imalwayshere/Open-Detector
 
-⭐ 252 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/Imalwayshere/Open-Detector) · [官网](https://www.xyzscience.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向学术文本的 BERT AI 生成检测模型，供个人与本地部署**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Imalwayshere/Open-Detector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 248 --> 253
-    line [249, 250, 252]
+    title "Imalwayshere/Open-Detector 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11"]
+    y-axis "stars" 248 --> 255
+    line [249, 250, 252, 249, 253, 254, 254]
 ```
 
-2026-10-18 249 → 2026-11-02 252（+3）
+2026-10-18 249 → 2026-11-11 254（+5）
 
 
 ---

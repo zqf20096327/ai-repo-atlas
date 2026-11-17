@@ -1,6 +1,6 @@
 # vbario/sleeping-llm
 
-⭐ 81 · Python · 推送 2026-10-11 · [GitHub](https://github.com/vbario/sleeping-llm) · 个人维护
+⭐ 85 · Python · 推送 2026-10-11 · [GitHub](https://github.com/vbario/sleeping-llm) · 个人维护
 
 **通过睡眠周期将对话事实固化为持久权重记忆的语言模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vbario/sleeping-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 78 --> 82
-    line [79, 81, 81]
+    title "vbario/sleeping-llm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 78 --> 86
+    line [79, 81, 79, 82, 84, 85, 85]
 ```
 
-2026-10-18 79 → 2026-11-02 81（+2）
+2026-10-18 79 → 2026-11-17 85（+6）
 
 
 ---

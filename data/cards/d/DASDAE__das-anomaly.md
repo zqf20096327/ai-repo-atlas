@@ -1,6 +1,6 @@
 # DASDAE/das-anomaly
 
-⭐ 31 · Python · NOASSERTION · 推送 2025-12-10 · [GitHub](https://github.com/DASDAE/das-anomaly) · 组织维护
+⭐ 32 · Python · NOASSERTION · 推送 2025-12-10 · [GitHub](https://github.com/DASDAE/das-anomaly) · 组织维护
 
 **分布式声波传感（DAS）数据的无监督异常检测 Python 包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DASDAE/das-anomaly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "DASDAE/das-anomaly 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

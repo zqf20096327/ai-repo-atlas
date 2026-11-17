@@ -1,6 +1,6 @@
 # TechImmigrants/cv-builder
 
-⭐ 17 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/TechImmigrants/cv-builder) · [官网](https://ci-cloudflare-pages-preview.cv-builder-cf-web.pages.dev/) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/TechImmigrants/cv-builder) · [官网](https://ci-cloudflare-pages-preview.cv-builder-cf-web.pages.dev/) · 组织维护
 
 **给科技从业者与移民求职者的开源简历评估工具：打分并给出修改清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TechImmigrants/cv-builder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "TechImmigrants/cv-builder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

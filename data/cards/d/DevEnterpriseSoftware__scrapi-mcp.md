@@ -1,6 +1,6 @@
 # DevEnterpriseSoftware/scrapi-mcp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DevEnterpriseSoftware/scrapi-mcp) · [官网](https://scrapi.tech) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DevEnterpriseSoftware/scrapi-mcp) · [官网](https://scrapi.tech) · 组织维护
 
 **MCP 服务器：让 MCP 客户端通过 ScrAPI 抓取网页**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevEnterpriseSoftware/scrapi-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "DevEnterpriseSoftware/scrapi-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

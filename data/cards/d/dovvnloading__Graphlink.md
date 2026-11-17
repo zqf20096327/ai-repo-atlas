@@ -1,6 +1,6 @@
 # dovvnloading/Graphlink
 
-⭐ 33 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dovvnloading/Graphlink) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dovvnloading/Graphlink) · 个人维护
 
 **本地优先的图结构 AI 工作台：画布上分支对话并运行多步任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dovvnloading/Graphlink 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 34, 33, 33]
+    title "dovvnloading/Graphlink 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [34, 33, 34, 33, 34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

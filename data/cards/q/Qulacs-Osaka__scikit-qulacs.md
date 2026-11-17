@@ -1,6 +1,6 @@
 # Qulacs-Osaka/scikit-qulacs
 
-⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Qulacs-Osaka/scikit-qulacs) · [官网](https://qulacs-osaka.github.io/scikit-qulacs/index.html) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Qulacs-Osaka/scikit-qulacs) · [官网](https://qulacs-osaka.github.io/scikit-qulacs/index.html) · 组织维护
 
 **基于 qulacs 的量子神经网络 Python 库**
 
@@ -45,12 +45,12 @@ scikit-qulacs 是用于量子神经网络的 Python 库，基于量子电路模�
 ```mermaid
 xychart-beta
     title "Qulacs-Osaka/scikit-qulacs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 25（+0）
 
 
 ---

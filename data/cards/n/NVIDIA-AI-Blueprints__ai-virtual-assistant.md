@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/ai-virtual-assistant
 
-⭐ 282 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) · [官网](https://build.nvidia.com/nvidia/ai-virtual-assistant-for-customer-service) · 组织维护
+⭐ 284 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) · [官网](https://build.nvidia.com/nvidia/ai-virtual-assistant-for-customer-service) · 组织维护
 
 **面向客服的 AI 虚拟助手参考蓝图（NVIDIA NIM + RAG）**
 
@@ -45,13 +45,13 @@ NVIDIA AI Blueprint 系列的客服虚拟助手参考方案：基于 NIM 微服�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/ai-virtual-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 279 --> 283
-    line [280, 281, 282, 282]
+    title "NVIDIA-AI-Blueprints/ai-virtual-assistant 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 279 --> 285
+    line [280, 281, 282, 280, 283, 284, 284]
 ```
 
-2026-10-18 280 → 2026-11-02 282（+2）
+2026-10-18 280 → 2026-11-17 284（+4）
 
 
 ---

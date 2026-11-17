@@ -1,6 +1,6 @@
 # IGNF/myria3d
 
-⭐ 297 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/IGNF/myria3d) · [官网](https://ignf.github.io/myria3d/) · 组织维护
+⭐ 299 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/IGNF/myria3d) · [官网](https://ignf.github.io/myria3d/) · 组织维护
 
 **机载激光雷达点云多类语义分割的深度学习库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IGNF/myria3d 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 294 --> 298
-    line [295, 296, 297, 297]
+    title "IGNF/myria3d 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 294 --> 300
+    line [295, 296, 297, 299, 299]
 ```
 
-2026-10-18 295 → 2026-11-02 297（+2）
+2026-10-18 295 → 2026-11-17 299（+4）
 
 
 ---

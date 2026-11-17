@@ -1,6 +1,6 @@
 # openeverest/openeverest.github.io
 
-⭐ 11 · HTML · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openeverest/openeverest.github.io) · [官网](https://openeverest.io/) · 组织维护
+⭐ 11 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/openeverest/openeverest.github.io) · [官网](https://openeverest.io/) · 组织维护
 
 **OpenEverest 项目官方网站（Hugo 静态站点）源码仓库**
 
@@ -45,12 +45,12 @@ openereverest.io 官网的源码仓库：OpenEverest 自称首个开源的数据
 ```mermaid
 xychart-beta
     title "openeverest/openeverest.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # eyecan-ai/pipelime-python
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/eyecan-ai/pipelime-python) · [官网](https://pipelime-python.readthedocs.io/) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/eyecan-ai/pipelime-python) · [官网](https://pipelime-python.readthedocs.io/) · 组织维护
 
 **数据处理与数据流构建的 Python 框架，面向数据科学**
 
@@ -46,12 +46,12 @@ pipelime 是一个模块化的数据科学框架：通过 SamplesSequence 读取
 ```mermaid
 xychart-beta
     title "eyecan-ai/pipelime-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

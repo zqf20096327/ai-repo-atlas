@@ -1,6 +1,6 @@
 # kunwar-shah/claudex
 
-⭐ 97 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/kunwar-shah/claudex) · [官网](https://kunwar-shah.github.io/claudex/) · 个人维护
+⭐ 98 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/kunwar-shah/claudex) · [官网](https://kunwar-shah.github.io/claudex/) · 个人维护
 
 **Claude Code 对话历史查看器与持久记忆 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kunwar-shah/claudex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    title "kunwar-shah/claudex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 96 --> 99
+    line [97, 98, 98]
 ```
 
-2026-10-18 97 → 2026-11-02 97（+0）
+2026-10-18 97 → 2026-11-17 98（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/nano-kpu
 
-⭐ 142 · Verilog · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/MoonshotAI/nano-kpu) · 组织维护 · 中文 README
+⭐ 144 · Verilog · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/MoonshotAI/nano-kpu) · 组织维护 · 中文 README
 
 **由 Kimi-K3 设计的纳米级混合架构推理芯片 RTL 及仿真测试流程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/nano-kpu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 139 --> 143
-    line [140, 141, 142, 142]
+    title "MoonshotAI/nano-kpu 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 139 --> 146
+    line [140, 141, 142, 140, 145, 144, 144]
 ```
 
-2026-10-18 140 → 2026-11-02 142（+2）
+2026-10-18 140 → 2026-11-17 144（+4）
 
 
 ---

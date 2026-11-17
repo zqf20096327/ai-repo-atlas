@@ -1,6 +1,6 @@
 # Flux159/mcp-chat
 
-⭐ 137 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Flux159/mcp-chat) · [官网](https://www.npmjs.com/package/mcp-chat) · 个人维护 · 中文 README
+⭐ 139 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Flux159/mcp-chat) · [官网](https://www.npmjs.com/package/mcp-chat) · 个人维护 · 中文 README
 
 **通用 MCP 客户端：测试与评估 MCP 服务器和 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Flux159/mcp-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    title "Flux159/mcp-chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 136 --> 140
+    line [137, 139, 139]
 ```
 
-2026-10-18 137 → 2026-11-02 137（+0）
+2026-10-18 137 → 2026-11-17 139（+2）
 
 
 ---

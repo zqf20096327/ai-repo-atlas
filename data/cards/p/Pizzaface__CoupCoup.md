@@ -1,6 +1,6 @@
 # Pizzaface/CoupCoup
 
-⭐ 17 · Python · 推送 2025-11-23 · [GitHub](https://github.com/Pizzaface/CoupCoup) · 个人维护
+⭐ 18 · Python · 推送 2025-11-23 · [GitHub](https://github.com/Pizzaface/CoupCoup) · 个人维护
 
 **AI 驱动的超市优惠券自动匹配与购物路线规划工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pizzaface/CoupCoup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "Pizzaface/CoupCoup 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

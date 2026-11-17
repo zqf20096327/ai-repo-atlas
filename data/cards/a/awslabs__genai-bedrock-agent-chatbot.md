@@ -1,6 +1,6 @@
 # awslabs/genai-bedrock-agent-chatbot
 
-⭐ 132 · Python · MIT-0 · 推送 2026-09-28 · [GitHub](https://github.com/awslabs/genai-bedrock-agent-chatbot) · [官网](https://aws.amazon.com/blogs/machine-learning/automate-chatbot-for-document-and-data-retrieval-using-agents-and-knowledge-bases-for-amazon-bedrock/) · 组织维护
+⭐ 132 · Python · MIT-0 · 推送 2026-11-09 · [GitHub](https://github.com/awslabs/genai-bedrock-agent-chatbot) · [官网](https://aws.amazon.com/blogs/machine-learning/automate-chatbot-for-document-and-data-retrieval-using-agents-and-knowledge-bases-for-amazon-bedrock/) · 组织维护
 
 **基于 Amazon Bedrock 的 AWS 架构演示聊天机器人（RAG+text-to-SQL）**
 
@@ -46,12 +46,12 @@ AWS Labs 出品的 GenAI 聊天机器人演示应用：用 Amazon Bedrock Agent 
 ```mermaid
 xychart-beta
     title "awslabs/genai-bedrock-agent-chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 131 --> 133
     line [132, 132]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 132（+0）
 
 
 ---

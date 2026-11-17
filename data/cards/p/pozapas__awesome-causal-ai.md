@@ -1,6 +1,6 @@
 # pozapas/awesome-causal-ai
 
-⭐ 18 · 推送 2026-05-13 · [GitHub](https://github.com/pozapas/awesome-causal-ai) · [官网](https://zenodo.org/records/20044980) · 个人维护
+⭐ 19 · 推送 2026-05-13 · [GitHub](https://github.com/pozapas/awesome-causal-ai) · [官网](https://zenodo.org/records/20044980) · 个人维护
 
 **因果 AI 研究资源策展清单：论文、库、数据集与课程索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pozapas/awesome-causal-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "pozapas/awesome-causal-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # yongmeiwang/AI_BigData_CancerBiology
 
-⭐ 11 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/yongmeiwang/AI_BigData_CancerBiology) · 组织维护
+⭐ 12 · Jupyter Notebook · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/yongmeiwang/AI_BigData_CancerBiology) · 组织维护
 
 **面向本科与高中生的癌症生物学 AI 与大数据课程材料**
 
@@ -44,13 +44,13 @@ University of Memphis 的教学课程仓库，讲授癌症生物学中的大数�
 
 ```mermaid
 xychart-beta
-    title "yongmeiwang/AI_BigData_CancerBiology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "yongmeiwang/AI_BigData_CancerBiology 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

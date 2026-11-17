@@ -1,6 +1,6 @@
 # brandokoch/attention-is-all-you-need-paper
 
-⭐ 253 · Jupyter Notebook · MIT · 推送 2026-08-05 · [GitHub](https://github.com/brandokoch/attention-is-all-you-need-paper) · 个人维护
+⭐ 255 · Jupyter Notebook · MIT · 推送 2026-08-05 · [GitHub](https://github.com/brandokoch/attention-is-all-you-need-paper) · 个人维护
 
 **Transformer 原论文的 PyTorch 从零实现，供学习机器翻译**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandokoch/attention-is-all-you-need-paper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 252 --> 255
-    line [254, 253, 253]
+    title "brandokoch/attention-is-all-you-need-paper 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 252 --> 256
+    line [254, 253, 254, 255, 255]
 ```
 
-2026-10-18 254 → 2026-11-02 253（-1）
+2026-10-18 254 → 2026-11-17 255（+1）
 
 
 ---

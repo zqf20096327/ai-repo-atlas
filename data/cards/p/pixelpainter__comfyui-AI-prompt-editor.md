@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixelpainter/comfyui-AI-prompt-editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "pixelpainter/comfyui-AI-prompt-editor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [29, 28, 29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

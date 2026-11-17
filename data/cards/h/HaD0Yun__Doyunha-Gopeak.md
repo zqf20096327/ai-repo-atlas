@@ -1,6 +1,6 @@
 # HaD0Yun/Doyunha-Gopeak
 
-⭐ 269 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/HaD0Yun/Doyunha-Gopeak) · [官网](https://had0yun.github.io/Doyunha-Gopeak/) · 个人维护 · 中文 README
+⭐ 274 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/HaD0Yun/Doyunha-Gopeak) · [官网](https://had0yun.github.io/Doyunha-Gopeak/) · 个人维护 · 中文 README
 
 **面向 Godot 引擎的 MCP 服务器，供 AI 助手运行与调试项目**
 
@@ -45,13 +45,13 @@ GoPeak 是一个 MCP server，让 Claude Desktop、Cursor、Cline 等 MCP 客户
 
 ```mermaid
 xychart-beta
-    title "HaD0Yun/Doyunha-Gopeak 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 266 --> 271
-    line [268, 267, 269, 270, 269, 269]
+    title "HaD0Yun/Doyunha-Gopeak 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 266 --> 275
+    line [268, 267, 269, 270, 269, 272, 273, 274, 274]
 ```
 
-2026-10-18 268 → 2026-11-02 269（+1）
+2026-10-18 268 → 2026-11-17 274（+6）
 
 
 ---

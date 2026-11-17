@@ -1,6 +1,6 @@
 # BlackLotus0930/Lemona_Studio
 
-⭐ 84 · TypeScript · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/BlackLotus0930/Lemona_Studio) · [官网](https://lemona.studio) · 个人维护
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/BlackLotus0930/Lemona_Studio) · [官网](https://lemona.studio) · 个人维护
 
 **面向长篇创作的集成 AI 写作编辑器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlackLotus0930/Lemona_Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    title "BlackLotus0930/Lemona_Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 83 --> 86
+    line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-11-02 84（+0）
+2026-10-18 84 → 2026-11-17 85（+1）
 
 
 ---

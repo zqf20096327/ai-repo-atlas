@@ -1,6 +1,6 @@
 # HuanPP/TeXDeck
 
-⭐ 12 · TeX · MIT · 推送 2026-07-26 · [GitHub](https://github.com/HuanPP/TeXDeck) · 个人维护 · 中文 README
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/HuanPP/TeXDeck) · 个人维护 · 中文 README
 
 **把 PDF 论文自动生成 LaTeX Beamer 幻灯片的应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HuanPP/TeXDeck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "HuanPP/TeXDeck 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

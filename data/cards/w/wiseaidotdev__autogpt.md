@@ -1,6 +1,6 @@
 # wiseaidotdev/autogpt
 
-⭐ 117 · Rust · MIT · 推送 2026-06-20 · [GitHub](https://github.com/wiseaidotdev/autogpt) · [官网](https://autogpt.wiseai.dev) · 个人维护
+⭐ 117 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/wiseaidotdev/autogpt) · [官网](https://autogpt.wiseai.dev) · 个人维护
 
 **纯 Rust 的 AI agent 构建框架，含 9 个内置 agent 与编排模式**
 
@@ -44,13 +44,13 @@ AutoGPT 是一个用 Rust 编写的 AI agent 创建与管理框架，面向希�
 
 ```mermaid
 xychart-beta
-    title "wiseaidotdev/autogpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "wiseaidotdev/autogpt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 115 --> 118
-    line [116, 117, 117]
+    line [116, 117, 116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-11-02 117（+1）
+2026-10-18 116 → 2026-11-17 117（+1）
 
 
 ---

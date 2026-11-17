@@ -1,6 +1,6 @@
 # mutablelogic/go-llm
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mutablelogic/go-llm) · [官网](https://pkg.go.dev/github.com/mutablelogic/go-llm) · 个人维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/mutablelogic/go-llm) · [官网](https://djthorpe.gitbook.io/go-llm) · 个人维护
 
 **Go 语言多供应商 LLM 工具与 SDK，统一 CLI/API/SDK 访问大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mutablelogic/go-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "mutablelogic/go-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

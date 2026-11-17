@@ -1,6 +1,6 @@
 # Sajadapp/Youtube-Trend-Analyzer
 
-⭐ 41 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Sajadapp/Youtube-Trend-Analyzer) · 个人维护
+⭐ 42 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Sajadapp/Youtube-Trend-Analyzer) · 个人维护
 
 **监控 YouTube 趋势并用 LLM 分析、推送 Telegram 的异步机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sajadapp/Youtube-Trend-Analyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "Sajadapp/Youtube-Trend-Analyzer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
     y-axis "stars" 40 --> 43
-    line [42, 41, 41]
+    line [42, 41, 42, 41, 42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 41（-1）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

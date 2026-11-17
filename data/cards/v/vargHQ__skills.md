@@ -1,6 +1,6 @@
 # vargHQ/skills
 
-⭐ 21 · HTML · MIT · 推送 2026-10-31 · [GitHub](https://github.com/vargHQ/skills) · [官网](https://varg.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 AI agent 的视频/图像/语音/音乐生成技能集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vargHQ/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-07"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-07 21（+1）
 
 
 ---

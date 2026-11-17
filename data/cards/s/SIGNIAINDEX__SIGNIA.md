@@ -1,6 +1,6 @@
 # SIGNIAINDEX/SIGNIA
 
-⭐ 128 · Rust · NOASSERTION · 推送 2026-03-29 · [GitHub](https://github.com/SIGNIAINDEX/SIGNIA) · [官网](https://signialab.org/) · 组织维护
+⭐ 127 · Rust · NOASSERTION · 推送 2026-03-29 · [GitHub](https://github.com/SIGNIAINDEX/SIGNIA) · [官网](https://signialab.org/) · 组织维护
 
 **将真实世界结构编译为可验证链上制品的结构编译器**
 
@@ -44,13 +44,13 @@ SIGNIA 是面向 Solana 的结构编译器：读取 Git 仓库、数据集、规
 
 ```mermaid
 xychart-beta
-    title "SIGNIAINDEX/SIGNIA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    title "SIGNIAINDEX/SIGNIA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 126 --> 129
+    line [128, 127, 127]
 ```
 
-2026-10-18 128 → 2026-11-02 128（+0）
+2026-10-18 128 → 2026-11-17 127（-1）
 
 
 ---

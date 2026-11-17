@@ -1,6 +1,6 @@
 # roots/acorn-ai
 
-⭐ 25 · PHP · MIT · 推送 2026-06-03 · [GitHub](https://github.com/roots/acorn-ai) · [官网](https://roots.io/announcing-acorn-ai/) · 组织维护
+⭐ 26 · PHP · MIT · 推送 2026-06-03 · [GitHub](https://github.com/roots/acorn-ai) · [官网](https://roots.io/announcing-acorn-ai/) · 组织维护
 
 **为 WordPress/Acorn 提供 laravel/ai 封装与 Abilities API 集成的 PHP 包**
 
@@ -43,13 +43,13 @@ Roots 维护的 Acorn 扩展包：在 WordPress 环境中引入 laravel/ai 的�
 
 ```mermaid
 xychart-beta
-    title "roots/acorn-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "roots/acorn-ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

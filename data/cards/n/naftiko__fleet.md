@@ -1,6 +1,6 @@
 # naftiko/fleet
 
-⭐ 14 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/naftiko/fleet) · [官网](https://shipyard.naftiko.io/fleet/) · 组织维护
+⭐ 14 · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/naftiko/fleet) · [官网](https://shipyard.naftiko.io/fleet/) · 组织维护
 
 **面向开发团队的 Spec 驱动 API 集成平台（三组件）**
 
@@ -46,12 +46,12 @@ Naftiko Fleet 是面向开发者、团队和企业的 Spec-Driven Integration �
 ```mermaid
 xychart-beta
     title "naftiko/fleet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

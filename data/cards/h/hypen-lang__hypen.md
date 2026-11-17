@@ -1,6 +1,6 @@
 # hypen-lang/hypen
 
-⭐ 59 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hypen-lang/hypen) · [官网](https://hypen.space) · 组织维护
+⭐ 60 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hypen-lang/hypen) · [官网](https://hypen.space) · 组织维护
 
 **声明式跨平台 UI 语言与引擎，一套 UI 流式渲染到各端**
 
@@ -44,13 +44,13 @@ Hypen 是开源的声明式 UI 语言（DSL）与引擎：用 Rust 编写的解�
 
 ```mermaid
 xychart-beta
-    title "hypen-lang/hypen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    title "hypen-lang/hypen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-11-02 59（+0）
+2026-10-18 59 → 2026-11-17 60（+1）
 
 
 ---

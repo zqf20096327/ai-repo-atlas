@@ -1,6 +1,6 @@
 # invergent-ai/surogate
 
-⭐ 873 · C++ · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/invergent-ai/surogate) · [官网](https://surogate.ai) · 组织维护
+⭐ 888 · C++ · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/invergent-ai/surogate) · [官网](https://surogate.ai) · 组织维护
 
 **面向开发者的 C++/CUDA LLM 训练与推理一体化引擎**
 
@@ -45,13 +45,13 @@ Surogate Engine 是用原生 C++/CUDA 编写的 LLM 训练与推理工具包，�
 
 ```mermaid
 xychart-beta
-    title "invergent-ai/surogate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 854 --> 874
-    line [855, 856, 859, 863, 873]
+    title "invergent-ai/surogate 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 852 --> 891
+    line [855, 856, 859, 863, 873, 856, 885, 886, 887, 888, 888]
 ```
 
-2026-10-18 855 → 2026-11-02 873（+18）
+2026-10-18 855 → 2026-11-17 888（+33）
 
 
 ---

@@ -1,6 +1,6 @@
 # whyashthakker/agent-skills-marketing
 
-⭐ 19 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/whyashthakker/agent-skills-marketing) · [官网](https://www.explainx.ai) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/whyashthakker/agent-skills-marketing) · [官网](https://www.explainx.ai) · 组织维护
 
 **营销领域 agent 技能库：50+ 可复用 SKILL.md 技能源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "whyashthakker/agent-skills-marketing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    title "whyashthakker/agent-skills-marketing 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 19（+1）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

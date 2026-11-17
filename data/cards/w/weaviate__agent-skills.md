@@ -1,6 +1,6 @@
 # weaviate/agent-skills
 
-⭐ 104 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/weaviate/agent-skills) · 组织维护
+⭐ 104 · Python · BSD-3-Clause · 推送 2026-11-09 · [GitHub](https://github.com/weaviate/agent-skills) · 组织维护
 
 **Weaviate 官方 Agent Skills 集合：供 AI 代理操作 Weaviate 数据库**
 
@@ -45,12 +45,12 @@ Weaviate 维护的 Agent Skills 仓库：每个技能是包含指令、脚本与
 ```mermaid
 xychart-beta
     title "weaviate/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-18 104 → 2026-11-02 104（+0）
+2026-10-18 104 → 2026-11-17 104（+0）
 
 
 ---

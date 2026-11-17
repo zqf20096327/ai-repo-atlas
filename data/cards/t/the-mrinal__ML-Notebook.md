@@ -1,6 +1,6 @@
 # the-mrinal/ML-Notebook
 
-⭐ 27 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/the-mrinal/ML-Notebook) · 个人维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/the-mrinal/ML-Notebook) · 个人维护
 
 **机器学习课程笔记本集：从 NumPy 到神经网络的动手实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-mrinal/ML-Notebook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "the-mrinal/ML-Notebook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

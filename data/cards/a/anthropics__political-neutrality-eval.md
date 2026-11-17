@@ -1,6 +1,6 @@
 # anthropics/political-neutrality-eval
 
-⭐ 143 · Python · CC-BY-4.0 · 推送 2025-11-13 · [GitHub](https://github.com/anthropics/political-neutrality-eval) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Anthropic 政治中立性评测：配对提示词方法与数据集**
 
@@ -11,7 +11,7 @@ Anthropic 发布的政治偏见评测方法与数据集：评测集按任务（�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC-BY-4.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Anthropic 发布的政治偏见评测方法与数据集：评测集按任务（�
 
 ```mermaid
 xychart-beta
-    title "anthropics/political-neutrality-eval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 138 --> 144
-    line [139, 140, 141, 142, 143]
+    title "anthropics/political-neutrality-eval 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08"]
+    y-axis "stars" 138 --> 147
+    line [139, 140, 141, 142, 143, 142, 146]
 ```
 
-2026-10-18 139 → 2026-11-02 143（+4）
+2026-10-18 139 → 2026-11-08 146（+7）
 
 
 ---

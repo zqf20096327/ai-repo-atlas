@@ -1,6 +1,6 @@
 # WriterGao/linkfox-ai-design
 
-⭐ 33 · Vue · 推送 2025-11-11 · [GitHub](https://github.com/WriterGao/linkfox-ai-design) · [官网](http://localhost:3001) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向电商设计的 AI 图像生成全栈平台（Spring Boot + Vue3）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WriterGao/linkfox-ai-design 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-07 33（+0）
 
 
 ---

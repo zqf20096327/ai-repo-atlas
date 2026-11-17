@@ -1,6 +1,6 @@
 # apache/singa
 
-⭐ 3,603 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/apache/singa) · 组织维护
+⭐ 3,603 · C++ · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/apache/singa) · 组织维护
 
 **Apache 基金会的分布式深度学习系统**
 
@@ -43,13 +43,13 @@ Apache SINGA 是 Apache 软件基金会旗下的分布式深度学习系统，�
 
 ```mermaid
 xychart-beta
-    title "apache/singa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "apache/singa 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-17"]
     y-axis "stars" 3602 --> 3605
-    line [3604, 3603, 3603]
+    line [3604, 3603, 3604, 3603, 3603]
 ```
 
-2026-10-18 3,604 → 2026-11-02 3,603（-1）
+2026-10-18 3,604 → 2026-11-17 3,603（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kaleidophon/deep-significance
 
-⭐ 342 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/Kaleidophon/deep-significance) · [官网](https://deep-significance.rtfd.io/en/latest/) · 个人维护
+⭐ 343 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/Kaleidophon/deep-significance) · [官网](https://deep-significance.rtfd.io/en/latest/) · 个人维护
 
 **深度学习模型对比的统计显著性检验库**
 
@@ -44,13 +44,13 @@ Python 库 deepsig，提供面向深度神经网络的统计显著性检验：�
 
 ```mermaid
 xychart-beta
-    title "Kaleidophon/deep-significance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 341 --> 343
-    line [342, 342]
+    title "Kaleidophon/deep-significance 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 341 --> 344
+    line [342, 343, 343]
 ```
 
-2026-10-18 342 → 2026-11-02 342（+0）
+2026-10-18 342 → 2026-11-17 343（+1）
 
 
 ---

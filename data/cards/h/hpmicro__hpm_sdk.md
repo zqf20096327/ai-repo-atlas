@@ -1,6 +1,6 @@
 # hpmicro/hpm_sdk
 
-⭐ 248 · C · BSD-3-Clause · 推送 2026-09-29 · [GitHub](https://github.com/hpmicro/hpm_sdk) · [官网](https://hpm-sdk.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 253 · C · BSD-3-Clause · 推送 2026-09-29 · [GitHub](https://github.com/hpmicro/hpm_sdk) · [官网](https://hpm-sdk.readthedocs.io/) · 组织维护 · 中文 README
 
 **HPMicro MCU 的嵌入式软件开发套件（驱动/中间件/RTOS）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "hpmicro/hpm_sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 243 --> 249
-    line [244, 245, 248, 248]
+    title "hpmicro/hpm_sdk 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 243 --> 254
+    line [244, 245, 248, 245, 251, 252, 253, 253]
 ```
 
-2026-10-18 244 → 2026-11-02 248（+4）
+2026-10-18 244 → 2026-11-17 253（+9）
 
 
 ---

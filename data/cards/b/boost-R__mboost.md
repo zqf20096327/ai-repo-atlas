@@ -1,6 +1,6 @@
 # boost-R/mboost
 
-⭐ 77 · HTML · 推送 2026-09-22 · [GitHub](https://github.com/boost-R/mboost) · 组织维护
+⭐ 77 · HTML · 推送 2026-11-13 · [GitHub](https://github.com/boost-R/mboost) · 组织维护
 
 **R 包：用 boosting 拟合广义线性/可加/交互模型**
 
@@ -45,12 +45,12 @@ mboost 是一个 R 语言包，实现 boosting 算法，用于拟合广义线性
 ```mermaid
 xychart-beta
     title "boost-R/mboost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-11-02 77（+0）
+2026-10-18 77 → 2026-11-17 77（+0）
 
 
 ---

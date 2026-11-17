@@ -1,6 +1,6 @@
 # agentbay-ai/wuying-agentbay-sdk
 
-⭐ 1,146 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentbay-ai/wuying-agentbay-sdk) · [官网](https://www.aliyun.com/product/agentbay) · 组织维护 · 中文 README
+⭐ 1,148 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/agentbay-ai/wuying-agentbay-sdk) · [官网](https://www.aliyun.com/product/agentbay) · 组织维护 · 中文 README
 
 **面向 AI agent 的按需云沙箱 SDK：秒级创建隔离环境**
 
@@ -44,13 +44,13 @@ AgentBay 提供按需创建的云端沙箱，内含浏览器、桌面、移动�
 
 ```mermaid
 xychart-beta
-    title "agentbay-ai/wuying-agentbay-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 1144 --> 1147
-    line [1146, 1145, 1146, 1146]
+    title "agentbay-ai/wuying-agentbay-sdk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1144 --> 1149
+    line [1146, 1145, 1146, 1147, 1148, 1148]
 ```
 
-2026-10-18 1,146 → 2026-11-02 1,146（+0）
+2026-10-18 1,146 → 2026-11-17 1,148（+2）
 
 
 ---

@@ -45,13 +45,13 @@ Rust 实现的沙箱运行时：以 TOML manifest 定义胶囊（名称、模块
 
 ```mermaid
 xychart-beta
-    title "fundamental-research-labs/cpsl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
+    title "fundamental-research-labs/cpsl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    line [12, 13, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

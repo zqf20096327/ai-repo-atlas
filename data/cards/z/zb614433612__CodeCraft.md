@@ -1,6 +1,6 @@
 # zb614433612/CodeCraft
 
-⭐ 11 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zb614433612/CodeCraft) · 个人维护 · 中文 README
+⭐ 12 · Java · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zb614433612/CodeCraft) · 个人维护 · 中文 README
 
 **多 LLM 驱动的桌面/终端 AI 编程 Agent，自然语言完成开发任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zb614433612/CodeCraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "zb614433612/CodeCraft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

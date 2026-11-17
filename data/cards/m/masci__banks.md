@@ -1,6 +1,6 @@
 # masci/banks
 
-⭐ 129 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/masci/banks) · [官网](https://masci.github.io/banks/) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/masci/banks) · [官网](https://masci.github.io/banks/) · 个人维护
 
 **基于 Jinja 的 LLM 提示词模板语言与提示管理库**
 
@@ -44,13 +44,13 @@ Python 库，提供基于 Jinja 的模板语言来构建提示词文本与聊天
 
 ```mermaid
 xychart-beta
-    title "masci/banks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    title "masci/banks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-17"]
     y-axis "stars" 128 --> 131
-    line [130, 129, 129]
+    line [130, 129, 130, 130]
 ```
 
-2026-10-18 130 → 2026-11-02 129（-1）
+2026-10-18 130 → 2026-11-17 130（+0）
 
 
 ---

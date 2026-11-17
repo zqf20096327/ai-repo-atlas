@@ -1,6 +1,6 @@
 # judahpaul16/gpt-home
 
-⭐ 652 · Python · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/judahpaul16/gpt-home) · [官网](https://hub.docker.com/r/judahpaul/gpt-home) · 个人维护
+⭐ 655 · Python · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/judahpaul16/gpt-home) · [官网](https://hub.docker.com/r/judahpaul/gpt-home) · 个人维护
 
 **树莓派自制 AI 语音家庭助手，替代商业智能音箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "judahpaul16/gpt-home 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 651 --> 654
-    line [653, 652, 652]
+    title "judahpaul16/gpt-home 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 651 --> 656
+    line [653, 652, 653, 654, 655, 655]
 ```
 
-2026-10-18 653 → 2026-11-02 652（-1）
+2026-10-18 653 → 2026-11-17 655（+2）
 
 
 ---

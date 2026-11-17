@@ -1,6 +1,6 @@
 # BattlesnakeOfficial/docs
 
-⭐ 15 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/BattlesnakeOfficial/docs) · [官网](https://docs.battlesnake.com) · 组织维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/BattlesnakeOfficial/docs) · [官网](https://docs.battlesnake.com) · 组织维护
 
 **Battlesnake 编程游戏的官方文档仓库（社区共建重写版）**
 
@@ -44,12 +44,12 @@ Battlesnake 官方文档的重写版本仓库，内容由社区维护，目标�
 ```mermaid
 xychart-beta
     title "BattlesnakeOfficial/docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

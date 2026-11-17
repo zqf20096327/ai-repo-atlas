@@ -1,6 +1,6 @@
 # VultureProject/vulture-base
 
-⭐ 40 · Shell · LGPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/VultureProject/vulture-base) · 组织维护
+⭐ 40 · Shell · LGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/VultureProject/vulture-base) · 组织维护
 
 **Vulture 4 操作系统的基础包与引导脚本**
 
@@ -46,12 +46,12 @@ Vulture4 项目的根软件包：用于加固操作系统、安装 Vulture 所�
 ```mermaid
 xychart-beta
     title "VultureProject/vulture-base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

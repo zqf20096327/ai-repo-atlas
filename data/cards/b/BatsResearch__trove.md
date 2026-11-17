@@ -1,6 +1,6 @@
 # BatsResearch/trove
 
-⭐ 49 · Python · Apache-2.0 · 推送 2025-11-12 · [GitHub](https://github.com/BatsResearch/trove) · [官网](https://ir-trove.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **训练与评测 transformer 稠密检索器的工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BatsResearch/trove 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-07 49（+0）
 
 
 ---

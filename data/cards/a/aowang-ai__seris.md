@@ -1,6 +1,6 @@
 # aowang-ai/seris
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/aowang-ai/seris) · [官网](https://seris.im) · 组织维护 · 中文 README
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/aowang-ai/seris) · [官网](https://seris.im) · 组织维护 · 中文 README
 
 **桌面端 AI 交易研究助手：图表旁对话、回测与自选模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aowang-ai/seris 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "aowang-ai/seris 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-11-02 27（+1）
+2026-10-18 26 → 2026-11-17 28（+2）
 
 
 ---

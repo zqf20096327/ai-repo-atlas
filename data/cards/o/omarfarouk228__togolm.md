@@ -1,6 +1,6 @@
 # omarfarouk228/togolm
 
-⭐ 40 · Python · 推送 2026-10-25 · [GitHub](https://github.com/omarfarouk228/togolm) · [官网](https://togolm.com) · 个人维护
+⭐ 41 · Python · 推送 2026-11-03 · [GitHub](https://github.com/omarfarouk228/togolm) · [官网](https://togolm.com) · 个人维护
 
 **面向多哥的开源 AI 知识层：6.2万文档语料+RAG API+微调模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "omarfarouk228/togolm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "omarfarouk228/togolm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 39, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 40（+1）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

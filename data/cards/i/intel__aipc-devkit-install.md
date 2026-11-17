@@ -1,6 +1,6 @@
 # intel/aipc-devkit-install
 
-⭐ 48 · PowerShell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/intel/aipc-devkit-install) · [官网](https://www.intel.com/content/www/us/en/ai-pc/overview.html) · 组织维护
+⭐ 48 · PowerShell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/intel/aipc-devkit-install) · [官网](https://www.intel.com/content/www/us/en/ai-pc/overview.html) · 组织维护
 
 **统一安装 Intel AI PC 开发环境的一体化安装器**
 
@@ -45,12 +45,12 @@ Intel 维护的 AI PC 应用安装器（v3.0），用于在研讨会、活动与
 ```mermaid
 xychart-beta
     title "intel/aipc-devkit-install 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
     y-axis "stars" 45 --> 49
     line [46, 47, 48, 48]
 ```
 
-2026-10-18 46 → 2026-11-02 48（+2）
+2026-10-18 46 → 2026-11-17 48（+2）
 
 
 ---

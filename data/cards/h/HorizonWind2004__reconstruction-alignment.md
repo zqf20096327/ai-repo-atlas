@@ -1,6 +1,6 @@
 # HorizonWind2004/reconstruction-alignment
 
-⭐ 420 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/HorizonWind2004/reconstruction-alignment) · [官网](https://reconstruction-alignment.github.io/) · 组织维护 · 中文 README
+⭐ 419 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/HorizonWind2004/reconstruction-alignment) · [官网](https://reconstruction-alignment.github.io/) · 组织维护 · 中文 README
 
 **自监督后训练方法：提升统一多模态模型的生成与编辑能力**
 
@@ -45,13 +45,13 @@ ICLR 2026 论文 RecA 的官方开源实现。核心机制是让预训练统一�
 
 ```mermaid
 xychart-beta
-    title "HorizonWind2004/reconstruction-alignment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "HorizonWind2004/reconstruction-alignment 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 418 --> 421
-    line [419, 420, 420]
+    line [419, 420, 419, 419]
 ```
 
-2026-10-18 419 → 2026-11-02 420（+1）
+2026-10-18 419 → 2026-11-17 419（+0）
 
 
 ---

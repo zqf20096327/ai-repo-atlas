@@ -1,6 +1,6 @@
 # TsLu1s/tsforecasting
 
-⭐ 30 · Python · MIT · 推送 2026-02-10 · [GitHub](https://github.com/TsLu1s/tsforecasting) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/TsLu1s/tsforecasting) · 个人维护
 
 **面向数据科学家的自动化时间序列预测框架**
 
@@ -44,13 +44,13 @@ Python 库形式的自动化时间序列预测流水线，整合 SKLearn、AutoG
 
 ```mermaid
 xychart-beta
-    title "TsLu1s/tsforecasting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "TsLu1s/tsforecasting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

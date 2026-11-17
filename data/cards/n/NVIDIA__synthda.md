@@ -1,6 +1,6 @@
 # NVIDIA/synthda
 
-⭐ 48 · Jupyter Notebook · 推送 2026-02-25 · [GitHub](https://github.com/NVIDIA/synthda) · 组织维护
+⭐ 49 · Jupyter Notebook · 推送 2026-02-25 · [GitHub](https://github.com/NVIDIA/synthda) · 组织维护
 
 **姿态级合成数据增强框架：为动作识别生成少数类训练视频**
 
@@ -44,13 +44,13 @@ SynthDa 是 NVIDIA 与新加坡理工学院合作的合成数据增强工具包�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/synthda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    title "NVIDIA/synthda 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 48（+0）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

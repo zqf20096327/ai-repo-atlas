@@ -1,6 +1,6 @@
 # tenurehq/tenure
 
-⭐ 48 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/tenurehq/tenure) · [官网](https://tenureai.dev) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/tenurehq/tenure) · [官网](https://tenureai.dev) · 组织维护
 
 **为 AI 客户端与 agent 提供本地共享记忆与治理代理层**
 
@@ -44,13 +44,13 @@ Tenure 以本地代理形式运行在 AI 客户端与上游模型之间：观察
 
 ```mermaid
 xychart-beta
-    title "tenurehq/tenure 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 46 --> 53
-    line [52, 47, 48, 48]
+    title "tenurehq/tenure 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 30 --> 54
+    line [52, 47, 48, 33, 32, 32]
 ```
 
-2026-10-18 52 → 2026-11-02 48（-4）
+2026-10-18 52 → 2026-11-17 32（-20）
 
 
 ---

@@ -1,6 +1,6 @@
 # dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows
 
-⭐ 89 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows) · 个人维护
+⭐ 88 · JavaScript · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows) · 个人维护
 
 **自动生成 SaaS RFP/RFI/RFQ 应答的单文件 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 88 --> 94
-    line [93, 89, 89]
+    title "dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 86 --> 94
+    line [93, 89, 87, 88, 88]
 ```
 
-2026-10-19 93 → 2026-11-02 89（-4）
+2026-10-19 93 → 2026-11-17 88（-5）
 
 
 ---

@@ -1,6 +1,6 @@
 # andrijdavid/voxtral.cpp
 
-⭐ 37 · C++ · MIT · 推送 2026-06-19 · [GitHub](https://github.com/andrijdavid/voxtral.cpp) · 个人维护
+⭐ 39 · C++ · MIT · 推送 2026-06-19 · [GitHub](https://github.com/andrijdavid/voxtral.cpp) · 个人维护
 
 **Mistral Voxtral 语音转录模型的 C/C++ (ggml) 实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrijdavid/voxtral.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "andrijdavid/voxtral.cpp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 39（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jobo16/ielts-buddy
 
-⭐ 26 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Jobo16/ielts-buddy) · [官网](https://ieltsbuddy.igopx.cn/skills) · 组织维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Jobo16/ielts-buddy) · [官网](https://ieltsbuddy.igopx.cn/skills) · 组织维护 · 中文 README
 
 **面向本地 Agent 的雅思学习 Agent Skills 集合（脚本/技能/工作流）**
 
@@ -46,13 +46,13 @@ IELTS Buddy 面向 Codex、Claude Code、Cursor、WorkBuddy 等本地 Agent 分�
 
 ```mermaid
 xychart-beta
-    title "Jobo16/ielts-buddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    title "Jobo16/ielts-buddy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 25, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-02 26（+2）
+2026-10-18 24 → 2026-11-17 27（+3）
 
 
 ---

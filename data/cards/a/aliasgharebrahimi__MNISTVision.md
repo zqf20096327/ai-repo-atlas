@@ -1,6 +1,6 @@
 # aliasgharebrahimi/MNISTVision
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/aliasgharebrahimi/MNISTVision) · 个人维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/aliasgharebrahimi/MNISTVision) · 个人维护
 
 **研究者用的 MNIST 手写数字识别 PyTorch 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliasgharebrahimi/MNISTVision 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 13 --> 97
-    line [20, 84, 87, 89, 90, 90]
+    title "aliasgharebrahimi/MNISTVision 星数(近 9 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 102
+    line [20, 84, 87, 89, 90, 92, 94, 95, 95]
 ```
 
-2026-10-28 20 → 2026-11-02 90（+70）
+2026-10-28 20 → 2026-11-17 95（+75）
 
 
 ---

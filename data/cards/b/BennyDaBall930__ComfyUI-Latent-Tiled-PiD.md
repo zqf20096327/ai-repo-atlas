@@ -1,6 +1,6 @@
 # BennyDaBall930/ComfyUI-Latent-Tiled-PiD
 
-⭐ 17 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/BennyDaBall930/ComfyUI-Latent-Tiled-PiD) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/BennyDaBall930/ComfyUI-Latent-Tiled-PiD) · 个人维护
 
 **ComfyUI 原生节点包：对生成潜空间切片做 NVIDIA PiD 平铺解码至最高 244MP**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BennyDaBall930/ComfyUI-Latent-Tiled-PiD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "BennyDaBall930/ComfyUI-Latent-Tiled-PiD 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 19
-    line [18, 17]
+    line [18, 17, 18, 17, 17]
 ```
 
-2026-10-18 18 → 2026-11-02 17（-1）
+2026-10-18 18 → 2026-11-17 17（-1）
 
 
 ---

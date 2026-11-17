@@ -1,6 +1,6 @@
 # Staks-sor/qwen_free_api
 
-⭐ 20 · Python · 推送 2026-07-19 · [GitHub](https://github.com/Staks-sor/qwen_free_api) · 个人维护
+⭐ 21 · Python · 推送 2026-07-19 · [GitHub](https://github.com/Staks-sor/qwen_free_api) · 个人维护
 
 **通过代理访问 Qwen API 的 Python 客户端与终端聊天工具**
 
@@ -43,13 +43,13 @@ Python 模块，通过代理 aikit.club 以 OpenAI 兼容方式访问 Qwen API�
 
 ```mermaid
 xychart-beta
-    title "Staks-sor/qwen_free_api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [20, 19, 20, 20]
+    title "Staks-sor/qwen_free_api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [20, 19, 20, 19, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

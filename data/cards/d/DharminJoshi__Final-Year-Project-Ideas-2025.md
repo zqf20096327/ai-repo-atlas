@@ -1,6 +1,6 @@
 # DharminJoshi/Final-Year-Project-Ideas-2025
 
-⭐ 377 · NOASSERTION · 推送 2026-01-17 · [GitHub](https://github.com/DharminJoshi/Final-Year-Project-Ideas-2025) · 个人维护
+⭐ 380 · NOASSERTION · 推送 2026-01-17 · [GitHub](https://github.com/DharminJoshi/Final-Year-Project-Ideas-2025) · 个人维护
 
 **面向毕业生的 100 个毕业设计项目创意清单**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "DharminJoshi/Final-Year-Project-Ideas-2025 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 369 --> 378
-    line [370, 371, 372, 374, 376, 377, 377]
+    title "DharminJoshi/Final-Year-Project-Ideas-2025 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 369 --> 381
+    line [370, 371, 372, 374, 376, 377, 374, 378, 379, 380, 380]
 ```
 
-2026-10-18 370 → 2026-11-02 377（+7）
+2026-10-18 370 → 2026-11-17 380（+10）
 
 
 ---

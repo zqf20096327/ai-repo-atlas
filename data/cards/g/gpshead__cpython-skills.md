@@ -1,6 +1,6 @@
 # gpshead/cpython-skills
 
-⭐ 18 · Shell · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/gpshead/cpython-skills) · 个人维护
+⭐ 19 · Shell · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/gpshead/cpython-skills) · 个人维护
 
 **面向 CPython 仓库开发的 Claude Code 技能市场插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gpshead/cpython-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "gpshead/cpython-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hainrixz/agente-pagokit
 
-⭐ 68 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/agente-pagokit) · [官网](https://tododeia.com) · 个人维护
+⭐ 71 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/agente-pagokit) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 支付集成插件：选型并生成支付代码，带安全校验器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/agente-pagokit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 63 --> 69
-    line [64, 65, 67, 68, 68]
+    title "Hainrixz/agente-pagokit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 63 --> 72
+    line [64, 65, 67, 68, 67, 69, 70, 71, 71]
 ```
 
-2026-10-18 64 → 2026-11-02 68（+4）
+2026-10-18 64 → 2026-11-17 71（+7）
 
 
 ---

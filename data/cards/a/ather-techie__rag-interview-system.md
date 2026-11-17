@@ -1,6 +1,6 @@
 # ather-techie/rag-interview-system
 
-⭐ 182 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ather-techie/rag-interview-system) · [官网](https://ather-techie.github.io/rag-interview-system/) · 个人维护
+⭐ 184 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ather-techie/rag-interview-system) · [官网](https://ather-techie.github.io/rag-interview-system/) · 个人维护
 
 **1509 道 RAG 面试问答合集，覆盖 52 种架构与生产故障**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ather-techie/rag-interview-system 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 165 --> 183
-    line [166, 167, 169, 170, 174, 177, 182, 182]
+    title "ather-techie/rag-interview-system 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 165 --> 185
+    line [166, 167, 169, 170, 174, 177, 182, 170, 184, 184]
 ```
 
-2026-10-18 166 → 2026-11-02 182（+16）
+2026-10-18 166 → 2026-11-17 184（+18）
 
 
 ---

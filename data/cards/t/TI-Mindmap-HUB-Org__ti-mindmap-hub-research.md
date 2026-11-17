@@ -1,6 +1,6 @@
 # TI-Mindmap-HUB-Org/ti-mindmap-hub-research
 
-⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/TI-Mindmap-HUB-Org/ti-mindmap-hub-research) · [官网](https://ti-mindmap-hub.com/landingpage) · 个人维护
+⭐ 21 · JavaScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/TI-Mindmap-HUB-Org/ti-mindmap-hub-research) · [官网](https://ti-mindmap-hub.com/landingpage) · 个人维护
 
 **威胁情报 AI 平台的公开研究文档：方法、STIX 示例与集成指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TI-Mindmap-HUB-Org/ti-mindmap-hub-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "TI-Mindmap-HUB-Org/ti-mindmap-hub-research 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

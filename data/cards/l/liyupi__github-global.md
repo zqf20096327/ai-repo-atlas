@@ -1,6 +1,6 @@
 # liyupi/github-global
 
-⭐ 130 · TypeScript · 推送 2026-03-03 · [GitHub](https://github.com/liyupi/github-global) · [官网](https://www.codefather.cn/course/2014303010343092226) · 个人维护 · 中文 README
+⭐ 131 · TypeScript · 推送 2026-03-03 · [GitHub](https://github.com/liyupi/github-global) · [官网](https://www.codefather.cn/course/2014303010343092226) · 个人维护 · 中文 README
 
 **教学项目：GitHub 仓库文档 AI 多语言翻译 SaaS 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/github-global 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 128 --> 131
-    line [130, 129, 130, 129, 130, 130]
+    title "liyupi/github-global 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 128 --> 132
+    line [130, 129, 130, 129, 130, 131, 131]
 ```
 
-2026-10-18 130 → 2026-11-02 130（+0）
+2026-10-18 130 → 2026-11-17 131（+1）
 
 
 ---

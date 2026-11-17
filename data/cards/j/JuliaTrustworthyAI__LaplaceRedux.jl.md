@@ -1,6 +1,6 @@
 # JuliaTrustworthyAI/LaplaceRedux.jl
 
-⭐ 49 · Julia · MIT · 推送 2026-02-05 · [GitHub](https://github.com/JuliaTrustworthyAI/LaplaceRedux.jl) · [官网](https://www.taija.org/LaplaceRedux.jl/) · 组织维护
+⭐ 50 · Julia · MIT · 推送 2026-02-05 · [GitHub](https://github.com/JuliaTrustworthyAI/LaplaceRedux.jl) · [官网](https://www.taija.org/LaplaceRedux.jl/) · 组织维护
 
 **Julia 库：对 Flux.jl 神经网络做拉普拉斯近似贝叶斯深度学习**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaTrustworthyAI/LaplaceRedux.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "JuliaTrustworthyAI/LaplaceRedux.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 48 --> 51
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 50（+1）
 
 
 ---

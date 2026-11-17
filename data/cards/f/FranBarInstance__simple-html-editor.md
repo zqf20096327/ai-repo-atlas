@@ -1,6 +1,6 @@
 # FranBarInstance/simple-html-editor
 
-⭐ 27 · JavaScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/FranBarInstance/simple-html-editor) · [官网](https://franbarinstance.github.io/simple-html-editor/demo/grayscale/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **无依赖的 WYSIWYG HTML 编辑器，含 AI Agent 编辑辅助**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FranBarInstance/simple-html-editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-07 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # INESCTEC/yake
 
-⭐ 1,894 · Jupyter Notebook · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/INESCTEC/yake) · [官网](https://inesctec.github.io/yake) · 组织维护
+⭐ 1,896 · Jupyter Notebook · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/INESCTEC/yake) · [官网](https://inesctec.github.io/yake) · 组织维护
 
 **无监督单文档关键词抽取库，免训练免语料**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "INESCTEC/yake 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1886 --> 1895
-    line [1887, 1889, 1890, 1891, 1892, 1894, 1894]
+    title "INESCTEC/yake 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 1886 --> 1897
+    line [1887, 1889, 1890, 1891, 1892, 1894, 1891, 1894, 1895, 1896, 1896]
 ```
 
-2026-10-18 1,887 → 2026-11-02 1,894（+7）
+2026-10-18 1,887 → 2026-11-17 1,896（+9）
 
 
 ---

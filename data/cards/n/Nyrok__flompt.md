@@ -1,6 +1,6 @@
 # Nyrok/flompt
 
-⭐ 153 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/Nyrok/flompt) · [官网](https://flompt.dev) · 个人维护
+⭐ 156 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/Nyrok/flompt) · [官网](https://flompt.dev) · 个人维护
 
 **可视化 AI 提示词构建器：拆解提示词为流程图并编译为 XML**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nyrok/flompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 151 --> 154
-    line [152, 153, 153]
+    title "Nyrok/flompt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 151 --> 157
+    line [152, 153, 155, 156, 156]
 ```
 
-2026-10-18 152 → 2026-11-02 153（+1）
+2026-10-18 152 → 2026-11-17 156（+4）
 
 
 ---

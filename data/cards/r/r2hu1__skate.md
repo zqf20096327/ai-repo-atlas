@@ -1,6 +1,6 @@
 # r2hu1/skate
 
-⭐ 23 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/r2hu1/skate) · 个人维护
+⭐ 22 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/r2hu1/skate) · 个人维护
 
 **本地化 CLI：把长视频自动切成竖屏爆款短视频，全程离线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "r2hu1/skate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "r2hu1/skate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 22（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/competitions
 
-⭐ 126 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/competitions) · [官网](https://huggingface.co/docs/competitions) · 组织维护
+⭐ 126 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/competitions) · [官网](https://huggingface.co/docs/competitions) · 组织维护
 
 **面向组织/公众创建机器学习竞赛的平台文档仓库**
 
@@ -44,12 +44,12 @@ Hugging Face 维护的竞赛服务说明仓库：介绍两种竞赛类型——g
 ```mermaid
 xychart-beta
     title "huggingface/competitions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-11-02 126（+0）
+2026-10-18 126 → 2026-11-17 126（+0）
 
 
 ---

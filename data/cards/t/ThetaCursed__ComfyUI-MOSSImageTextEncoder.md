@@ -1,6 +1,6 @@
 # ThetaCursed/ComfyUI-MOSSImageTextEncoder
 
-⭐ 46 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ThetaCursed/ComfyUI-MOSSImageTextEncoder) · [官网](https://workflow.thetacursed.com) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ThetaCursed/ComfyUI-MOSSImageTextEncoder) · [官网](https://workflow.thetacursed.com) · 个人维护
 
 **ComfyUI 节点：将参考图经 Qwen3.5-9B 视觉塔注入文本提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThetaCursed/ComfyUI-MOSSImageTextEncoder 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 0 --> 50
-    line [3, 36, 40, 42, 43, 46, 46]
+    title "ThetaCursed/ComfyUI-MOSSImageTextEncoder 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 0 --> 54
+    line [3, 36, 40, 42, 43, 46, 42, 50, 50]
 ```
 
-2026-10-22 3 → 2026-11-02 46（+43）
+2026-10-22 3 → 2026-11-17 50（+47）
 
 
 ---

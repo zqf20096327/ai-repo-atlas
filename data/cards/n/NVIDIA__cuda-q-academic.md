@@ -1,6 +1,6 @@
 # NVIDIA/cuda-q-academic
 
-⭐ 406 · Jupyter Notebook · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/cuda-q-academic) · 组织维护
+⭐ 415 · Jupyter Notebook · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/NVIDIA/cuda-q-academic) · 组织维护
 
 **面向高校量子计算课程的 CUDA-Q 交互式教学模块合集**
 
@@ -44,13 +44,13 @@ NVIDIA 与高校合作开发的开源教学资源库，基于 CUDA-Q 混合经�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cuda-q-academic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 401 --> 407
-    line [402, 403, 405, 406, 406]
+    title "NVIDIA/cuda-q-academic 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 401 --> 416
+    line [402, 403, 405, 406, 403, 408, 410, 411, 412, 413, 415, 415]
 ```
 
-2026-10-18 402 → 2026-11-02 406（+4）
+2026-10-18 402 → 2026-11-17 415（+13）
 
 
 ---

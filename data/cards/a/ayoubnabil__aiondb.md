@@ -1,6 +1,6 @@
 # ayoubnabil/aiondb
 
-⭐ 50 · Rust · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/ayoubnabil/aiondb) · [官网](https://aiondb.xyz/) · 个人维护
+⭐ 51 · Rust · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/ayoubnabil/aiondb) · [官网](https://aiondb.xyz/) · 个人维护
 
 **Rust 编写的 PostgreSQL 兼容 SQL/向量/图数据库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayoubnabil/aiondb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "ayoubnabil/aiondb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

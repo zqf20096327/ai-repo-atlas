@@ -1,6 +1,6 @@
 # Defend-AI-Tech-Inc/agent-discover-scanner
 
-⭐ 22 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Defend-AI-Tech-Inc/agent-discover-scanner) · [官网](https://defendai.ai/scanner) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Defend-AI-Tech-Inc/agent-discover-scanner) · [官网](https://defendai.ai/scanner) · 组织维护
 
 **企业 AI Agent 资产清点与 GHOST 检测扫描器**
 
@@ -45,13 +45,13 @@ DefendAI 平台的开源组件，用于自动发现与清点企业内运行的�
 
 ```mermaid
 xychart-beta
-    title "Defend-AI-Tech-Inc/agent-discover-scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "Defend-AI-Tech-Inc/agent-discover-scanner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

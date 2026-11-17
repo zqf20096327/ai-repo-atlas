@@ -1,6 +1,6 @@
 # stepfun-ai/Step3-VL-10B
 
-⭐ 413 · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/stepfun-ai/Step3-VL-10B) · 组织维护 · 中文 README
+⭐ 414 · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/stepfun-ai/Step3-VL-10B) · 组织维护 · 中文 README
 
 **10B 参数开源多模态基础模型，视觉感知与推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step3-VL-10B 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 412 --> 414
-    line [413, 413]
+    title "stepfun-ai/Step3-VL-10B 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 412 --> 415
+    line [413, 414, 414]
 ```
 
-2026-10-18 413 → 2026-11-02 413（+0）
+2026-10-18 413 → 2026-11-17 414（+1）
 
 
 ---

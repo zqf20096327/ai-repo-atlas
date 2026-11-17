@@ -1,6 +1,6 @@
 # bytedance/web-bench
 
-⭐ 297 · JavaScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/bytedance/web-bench) · [官网](https://huggingface.co/spaces/bytedance-research/Web-Bench-Leaderboard) · 组织维护 · 中文 README
+⭐ 299 · JavaScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/bytedance/web-bench) · [官网](https://huggingface.co/spaces/bytedance-research/Web-Bench-Leaderboard) · 组织维护 · 中文 README
 
 **评测 LLM 真实 Web 开发能力的基准：50 项目×20 顺序任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/web-bench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 293 --> 298
-    line [294, 295, 296, 297, 297]
+    title "bytedance/web-bench 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 293 --> 300
+    line [294, 295, 296, 297, 294, 298, 299, 299]
 ```
 
-2026-10-18 294 → 2026-11-02 297（+3）
+2026-10-18 294 → 2026-11-17 299（+5）
 
 
 ---

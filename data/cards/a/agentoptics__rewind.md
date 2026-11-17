@@ -1,6 +1,6 @@
 # agentoptics/rewind
 
-⭐ 13 · Rust · MIT · 推送 2026-05-25 · [GitHub](https://github.com/agentoptics/rewind) · [官网](https://agentoptics.dev/) · 组织维护
+⭐ 14 · Rust · MIT · 推送 2026-05-25 · [GitHub](https://github.com/agentoptics/rewind) · [官网](https://agentoptics.dev/) · 组织维护
 
 **AI agent 时间旅行调试器：任意步分叉重放验证修复**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentoptics/rewind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "agentoptics/rewind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

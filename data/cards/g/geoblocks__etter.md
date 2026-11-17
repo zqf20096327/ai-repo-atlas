@@ -1,6 +1,6 @@
 # geoblocks/etter
 
-⭐ 18 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/geoblocks/etter) · [官网](https://geoblocks.github.io/etter/) · 组织维护
+⭐ 19 · Python · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/geoblocks/etter) · [官网](https://geoblocks.github.io/etter/) · 组织维护
 
 **用 LLM 把自然语言位置查询解析为结构化地理过滤器**
 
@@ -45,13 +45,13 @@ Python 库 etter（geoblocks 维护，Camptocamp 赞助）：借助 LLM 解析�
 
 ```mermaid
 xychart-beta
-    title "geoblocks/etter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "geoblocks/etter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

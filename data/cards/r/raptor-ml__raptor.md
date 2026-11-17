@@ -1,6 +1,6 @@
 # raptor-ml/raptor
 
-⭐ 164 · Go · Apache-2.0 · 推送 2026-01-31 · [GitHub](https://github.com/raptor-ml/raptor) · [官网](https://raptor.ml) · 组织维护
+⭐ 163 · Go · Apache-2.0 · 推送 2026-01-31 · [GitHub](https://github.com/raptor-ml/raptor) · [官网](https://raptor.ml) · 组织维护
 
 **给数据科学家的特征工程平台：Python 研究代码编译为生产制品**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raptor-ml/raptor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    title "raptor-ml/raptor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 162 --> 165
+    line [164, 163, 163]
 ```
 
-2026-10-18 164 → 2026-11-02 164（+0）
+2026-10-18 164 → 2026-11-17 163（-1）
 
 
 ---

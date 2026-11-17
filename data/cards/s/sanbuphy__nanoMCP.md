@@ -1,6 +1,6 @@
 # sanbuphy/nanoMCP
 
-⭐ 77 · Python · 推送 2026-03-12 · [GitHub](https://github.com/sanbuphy/nanoMCP) · 个人维护 · 中文 README
+⭐ 79 · Python · 推送 2026-03-12 · [GitHub](https://github.com/sanbuphy/nanoMCP) · 个人维护 · 中文 README
 
 **给开发者的 MCP 协议最小可读示例集（约 200 行 Python）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanbuphy/nanoMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    title "sanbuphy/nanoMCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 75 --> 80
+    line [76, 77, 78, 79, 79]
 ```
 
-2026-10-18 76 → 2026-11-02 77（+1）
+2026-10-18 76 → 2026-11-17 79（+3）
 
 
 ---

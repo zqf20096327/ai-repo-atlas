@@ -1,6 +1,6 @@
 # Blackdesk-ai/blackdesk
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-04-28 · [GitHub](https://github.com/Blackdesk-ai/blackdesk) · [官网](https://blackdesk.ai/) · 组织维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-04-28 · [GitHub](https://github.com/Blackdesk-ai/blackdesk) · [官网](https://blackdesk.ai/) · 组织维护
 
 **开源终端行情研究台：行情/新闻/筛选器与本地 AI 连接器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blackdesk-ai/blackdesk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Blackdesk-ai/blackdesk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

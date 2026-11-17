@@ -1,6 +1,6 @@
 # robertsLando/upscaler
 
-⭐ 12 · Python · 推送 2026-02-16 · [GitHub](https://github.com/robertsLando/upscaler) · 个人维护
+⭐ 13 · Python · 推送 2026-02-16 · [GitHub](https://github.com/robertsLando/upscaler) · 个人维护
 
 **基于 Real-ESRGAN 的图像放大工具，提供 Web API 与 UI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "robertsLando/upscaler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "robertsLando/upscaler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

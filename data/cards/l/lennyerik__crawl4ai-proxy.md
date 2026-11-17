@@ -1,6 +1,6 @@
 # lennyerik/crawl4ai-proxy
 
-⭐ 34 · Go · 推送 2025-11-20 · [GitHub](https://github.com/lennyerik/crawl4ai-proxy) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 OpenWebUI 对接 crawl4ai 的 Docker 代理服务**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lennyerik/crawl4ai-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "lennyerik/crawl4ai-proxy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-15"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-15 35（+2）
 
 
 ---

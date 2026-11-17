@@ -1,6 +1,6 @@
 # cauliyang/DeepBioP
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cauliyang/DeepBioP) · [官网](http://yangyangli.top/DeepBioP/) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cauliyang/DeepBioP) · [官网](http://yangyangli.top/DeepBioP/) · 个人维护
 
 **面向生物数据的深度学习预处理库（Rust/Python/CLI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cauliyang/DeepBioP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

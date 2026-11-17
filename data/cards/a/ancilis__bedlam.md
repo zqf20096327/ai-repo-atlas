@@ -1,6 +1,6 @@
 # ancilis/bedlam
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/ancilis/bedlam) · [官网](https://ancilis.ai) · 组织维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/ancilis/bedlam) · [官网](https://ancilis.ai) · 组织维护
 
 **本地优先的 AI agent 团队编排控制平台（Paperclip fork）**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "ancilis/bedlam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "ancilis/bedlam 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

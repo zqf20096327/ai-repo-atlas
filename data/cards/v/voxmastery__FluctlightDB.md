@@ -1,6 +1,6 @@
 # voxmastery/FluctlightDB
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-10-05 · [GitHub](https://github.com/voxmastery/FluctlightDB) · [官网](https://github.com/voxmastery/FluctlightDB) · 组织维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-03 · [GitHub](https://github.com/voxmastery/FluctlightDB) · [官网](https://github.com/voxmastery/FluctlightDB) · 组织维护
 
 **面向 AI agent 的嵌入式记忆数据库引擎：写入、按线索回忆、溯源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "voxmastery/FluctlightDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

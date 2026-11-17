@@ -1,6 +1,6 @@
 # HPMLL/BurstGPT
 
-⭐ 292 · Python · CC-BY-4.0 · 推送 2026-06-30 · [GitHub](https://github.com/HPMLL/BurstGPT) · 组织维护
+⭐ 296 · Python · CC-BY-4.0 · 推送 2026-06-30 · [GitHub](https://github.com/HPMLL/BurstGPT) · 组织维护
 
 **真实 ChatGPT/GPT-4 请求负载追踪数据集，用于 LLM serving 研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HPMLL/BurstGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 291 --> 294
-    line [293, 292, 292]
+    title "HPMLL/BurstGPT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 291 --> 297
+    line [293, 292, 293, 294, 295, 296, 296]
 ```
 
-2026-10-18 293 → 2026-11-02 292（-1）
+2026-10-18 293 → 2026-11-17 296（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # weimingwill/awesome-federated-learning
 
-⭐ 737 · Shell · MIT · 推送 2025-11-16 · [GitHub](https://github.com/weimingwill/awesome-federated-learning) · [官网](https://github.com/EasyFL-AI/EasyFL) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **联邦学习资料策展清单：论文、综述、框架与公司**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weimingwill/awesome-federated-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11"]
     y-axis "stars" 736 --> 739
-    line [738, 737, 737]
+    line [738, 737, 738]
 ```
 
-2026-10-18 738 → 2026-11-02 737（-1）
+2026-10-18 738 → 2026-11-11 738（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings
 
-⭐ 156 · 推送 2025-11-07 · [GitHub](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **视频帧插值与去模糊模型评测榜单，面向研究者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 155 --> 157
     line [156, 156]
 ```
 
-2026-10-18 156 → 2026-11-02 156（+0）
+2026-10-18 156 → 2026-11-07 156（+0）
 
 
 ---

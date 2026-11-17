@@ -1,6 +1,6 @@
 # hireshBrem/cad-ai
 
-⭐ 32 · TypeScript · 推送 2025-12-15 · [GitHub](https://github.com/hireshBrem/cad-ai) · 个人维护
+⭐ 33 · TypeScript · 推送 2025-12-15 · [GitHub](https://github.com/hireshBrem/cad-ai) · 个人维护
 
 **用自然语言生成 CAD 模型的 AI 设计助手（'Cursor for CAD'）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "hireshBrem/cad-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "hireshBrem/cad-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

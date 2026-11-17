@@ -1,6 +1,6 @@
 # anugrhaswi/Coc-Auto-Farm
 
-⭐ 25 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/anugrhaswi/Coc-Auto-Farm) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/anugrhaswi/Coc-Auto-Farm) · 个人维护
 
 **部落冲突自动刷资源机器人：YOLO+OCR 识别，ADB 后台挂机**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anugrhaswi/Coc-Auto-Farm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "anugrhaswi/Coc-Auto-Farm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 23 --> 40
+    line [24, 25, 24, 33, 37, 38, 39, 39]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 39（+15）
 
 
 ---

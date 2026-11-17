@@ -1,6 +1,6 @@
 # OxWearables/stepcount
 
-⭐ 57 · Jupyter Notebook · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/OxWearables/stepcount) · 组织维护
+⭐ 57 · Jupyter Notebook · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/OxWearables/stepcount) · 组织维护
 
 **基于基础模型的手腕加速度计计步命令行工具**
 
@@ -46,12 +46,12 @@ OxWearables 出品的计步 CLI 工具：使用在英国生物银行大规模加
 ```mermaid
 xychart-beta
     title "OxWearables/stepcount 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 57（+0）
 
 
 ---

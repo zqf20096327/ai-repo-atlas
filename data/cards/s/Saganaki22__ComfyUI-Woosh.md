@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Woosh
 
-⭐ 135 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Saganaki22/ComfyUI-Woosh) · [官网](https://huggingface.co/drbaph/Woosh) · 个人维护 · 中文 README
+⭐ 137 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Saganaki22/ComfyUI-Woosh) · [官网](https://huggingface.co/drbaph/Woosh) · 个人维护 · 中文 README
 
 **ComfyUI 音效生成节点：用 Woosh 模型做文本/视频转音频**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点集，封装 Sony AI 的 Woosh 音效基础模型，提�
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-Woosh 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 132 --> 136
-    line [133, 134, 133, 134, 135, 135]
+    title "Saganaki22/ComfyUI-Woosh 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 132 --> 138
+    line [133, 134, 133, 134, 135, 133, 136, 137, 137]
 ```
 
-2026-10-18 133 → 2026-11-02 135（+2）
+2026-10-18 133 → 2026-11-17 137（+4）
 
 
 ---

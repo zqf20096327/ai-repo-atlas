@@ -1,6 +1,6 @@
 # R44VC0RP/opencode.cafe
 
-⭐ 202 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/R44VC0RP/opencode.cafe) · [官网](https://opencode.cafe) · 个人维护
+⭐ 205 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/R44VC0RP/opencode.cafe) · [官网](https://opencode.cafe) · 个人维护
 
 **OpenCode 扩展与插件的社区市集网站**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "R44VC0RP/opencode.cafe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 198 --> 203
-    line [199, 200, 201, 202, 202]
+    title "R44VC0RP/opencode.cafe 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 198 --> 206
+    line [199, 200, 201, 202, 200, 204, 205, 205]
 ```
 
-2026-10-18 199 → 2026-11-02 202（+3）
+2026-10-18 199 → 2026-11-17 205（+6）
 
 
 ---

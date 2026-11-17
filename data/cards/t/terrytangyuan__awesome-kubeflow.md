@@ -1,6 +1,6 @@
 # terrytangyuan/awesome-kubeflow
 
-⭐ 231 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/terrytangyuan/awesome-kubeflow) · [官网](https://terrytangyuan.github.io/awesome-kubeflow/) · 个人维护
+⭐ 232 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/terrytangyuan/awesome-kubeflow) · [官网](https://terrytangyuan.github.io/awesome-kubeflow/) · 个人维护
 
 **Kubeflow 相关项目与资源策展清单：面向 ML/MLOps 从业者**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "terrytangyuan/awesome-kubeflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 229 --> 232
-    line [230, 231, 231]
+    title "terrytangyuan/awesome-kubeflow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 229 --> 233
+    line [230, 231, 232, 232]
 ```
 
-2026-10-18 230 → 2026-11-02 231（+1）
+2026-10-18 230 → 2026-11-17 232（+2）
 
 
 ---

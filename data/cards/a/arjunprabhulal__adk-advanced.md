@@ -1,6 +1,6 @@
 # arjunprabhulal/adk-advanced
 
-⭐ 28 · Jupyter Notebook · 推送 2025-11-10 · [GitHub](https://github.com/arjunprabhulal/adk-advanced) · [官网](https://arjunprabhulal.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Google ADK 高级用法的实现示例与部署模板合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arjunprabhulal/adk-advanced 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-07 28（+0）
 
 
 ---

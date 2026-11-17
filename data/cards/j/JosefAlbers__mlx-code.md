@@ -1,6 +1,6 @@
 # JosefAlbers/mlx-code
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/JosefAlbers/mlx-code) · [官网](https://mlx-code.com) · 个人维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/JosefAlbers/mlx-code) · [官网](https://mlx-code.com) · 个人维护
 
 **面向 Mac 的本地 MLX 编码 Agent，以 Git 为状态存储**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JosefAlbers/mlx-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "JosefAlbers/mlx-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

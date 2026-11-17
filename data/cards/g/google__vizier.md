@@ -1,6 +1,6 @@
 # google/vizier
 
-⭐ 1,681 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/vizier) · [官网](https://oss-vizier.readthedocs.io) · 组织维护
+⭐ 1,681 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google/vizier) · [官网](https://oss-vizier.readthedocs.io) · 组织维护
 
 **黑盒优化与超参调优的 Python 服务，源自 Google Vizier**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/vizier 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 1678 --> 1682
-    line [1680, 1679, 1681]
+    title "google/vizier 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 1678 --> 1683
+    line [1680, 1679, 1681, 1680, 1681, 1682, 1681, 1681]
 ```
 
-2026-10-18 1,680 → 2026-11-02 1,681（+1）
+2026-10-18 1,680 → 2026-11-17 1,681（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # liyupi/github-claw
 
-⭐ 68 · Python · 推送 2026-04-21 · [GitHub](https://github.com/liyupi/github-claw) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
+⭐ 69 · Python · 推送 2026-04-21 · [GitHub](https://github.com/liyupi/github-claw) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
 
 **以 GitHub 仓库为载体的 AI Agent 工作空间模板：长期记忆+技能包+自动化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/github-claw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "liyupi/github-claw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 67 --> 70
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 69（+1）
 
 
 ---

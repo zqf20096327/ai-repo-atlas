@@ -1,6 +1,6 @@
 # SimonWaldherr/AI-Book-Generator
 
-⭐ 64 · JavaScript · GPL-3.0 · 推送 2026-03-16 · [GitHub](https://github.com/SimonWaldherr/AI-Book-Generator) · [官网](https://simonwaldherr.github.io/AI-Book-Generator/) · 个人维护
+⭐ 65 · JavaScript · GPL-3.0 · 推送 2026-03-16 · [GitHub](https://github.com/SimonWaldherr/AI-Book-Generator) · [官网](https://simonwaldherr.github.io/AI-Book-Generator/) · 个人维护
 
 **浏览器端 AI 图书生成器：多模型自动写整本书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SimonWaldherr/AI-Book-Generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "SimonWaldherr/AI-Book-Generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeekeScript/ad-voice
 
-⭐ 13 · 推送 2026-07-17 · [GitHub](https://github.com/DeekeScript/ad-voice) · [官网](https://aiutter.cn) · 组织维护 · 中文 README
+⭐ 14 · 推送 2026-07-17 · [GitHub](https://github.com/DeekeScript/ad-voice) · [官网](https://aiutter.cn) · 组织维护 · 中文 README
 
 **面向私域销售的 AI 语音获客系统，覆盖微信/QQ/抖音/TikTok 等平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeekeScript/ad-voice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "DeekeScript/ad-voice 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 12, 14, 14]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 14（+3）
 
 
 ---

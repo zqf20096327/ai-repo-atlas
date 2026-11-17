@@ -1,6 +1,6 @@
 # pavansai20052004-hue/rocmporter-agent
 
-⭐ 22 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/pavansai20052004-hue/rocmporter-agent) · [官网](https://rocmporter-agent.vercel.app) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/pavansai20052004-hue/rocmporter-agent) · [官网](https://rocmporter-agent.vercel.app) · 个人维护
 
 **扫描 GitHub 仓库 CUDA 依赖并自动生成 ROCm 迁移 PR 的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "pavansai20052004-hue/rocmporter-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 15 --> 23
-    line [16, 19, 22, 22]
+    title "pavansai20052004-hue/rocmporter-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 34
+    line [16, 19, 22, 16, 28, 30, 32, 33, 33]
 ```
 
-2026-10-18 16 → 2026-11-02 22（+6）
+2026-10-18 16 → 2026-11-17 33（+17）
 
 
 ---

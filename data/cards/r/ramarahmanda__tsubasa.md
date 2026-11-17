@@ -1,6 +1,6 @@
 # ramarahmanda/tsubasa
 
-⭐ 11 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/ramarahmanda/tsubasa) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ramarahmanda/tsubasa) · 个人维护
 
 **给工程团队的仓库内 AI 记忆：用 git 中的知识图谱让 agent 引用而非猜测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ramarahmanda/tsubasa 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-02"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-17"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-26 10 → 2026-11-02 11（+1）
+2026-10-26 10 → 2026-11-17 11（+1）
 
 
 ---

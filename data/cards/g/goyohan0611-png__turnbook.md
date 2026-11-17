@@ -1,6 +1,6 @@
 # goyohan0611-png/turnbook
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/goyohan0611-png/turnbook) · 个人维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/goyohan0611-png/turnbook) · 个人维护 · 中文 README
 
 **本地长期记忆层：让多个 AI 编码代理共享逐字对话记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "goyohan0611-png/turnbook 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 7 --> 14
-    line [8, 9, 10, 13, 13]
+    title "goyohan0611-png/turnbook 星数(近 7 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 7 --> 16
+    line [8, 9, 10, 13, 14, 15, 15]
 ```
 
-2026-10-28 8 → 2026-11-02 13（+5）
+2026-10-28 8 → 2026-11-17 15（+7）
 
 
 ---

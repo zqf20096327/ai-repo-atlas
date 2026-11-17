@@ -1,6 +1,6 @@
 # intrig-unicamp/UNetyEmu
 
-⭐ 13 · C# · 推送 2026-05-11 · [GitHub](https://github.com/intrig-unicamp/UNetyEmu) · [官网](https://github.com/intrig-unicamp/UNetyEmu/wiki) · 组织维护
+⭐ 14 · C# · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/intrig-unicamp/UNetyEmu) · [官网](https://github.com/intrig-unicamp/UNetyEmu/wiki) · 组织维护
 
 **城市环境中多飞行器/地面车辆 Unity 仿真器，集成 ROS2 传感器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "intrig-unicamp/UNetyEmu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "intrig-unicamp/UNetyEmu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

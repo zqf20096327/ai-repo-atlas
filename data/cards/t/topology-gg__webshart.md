@@ -1,6 +1,6 @@
 # topology-gg/webshart
 
-⭐ 16 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/topology-gg/webshart) · 组织维护
+⭐ 12 · Rust · MIT · 推送 2026-11-03 · [GitHub](https://github.com/topology-gg/webshart) · 组织维护
 
 **面向 webdataset tar 分片的快速读取器与数据加载器**
 
@@ -46,13 +46,13 @@ Rust 核心加 Python 绑定的 webdataset tar 分片读取库：通过为每个
 
 ```mermaid
 xychart-beta
-    title "topology-gg/webshart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 15 --> 21
-    line [20, 16, 16]
+    title "topology-gg/webshart 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 21
+    line [20, 16, 13, 12, 12]
 ```
 
-2026-10-18 20 → 2026-11-02 16（-4）
+2026-10-18 20 → 2026-11-17 12（-8）
 
 
 ---

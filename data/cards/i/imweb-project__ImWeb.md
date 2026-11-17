@@ -1,6 +1,6 @@
 # imweb-project/ImWeb
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/imweb-project/ImWeb) · [官网](https://imweb.image-ine.org) · 个人维护
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/imweb-project/ImWeb) · [官网](https://imweb.image-ine.org) · 个人维护
 
 **浏览器端实时视频合成乐器，Image/ine 的现代化重制版**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "imweb-project/ImWeb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

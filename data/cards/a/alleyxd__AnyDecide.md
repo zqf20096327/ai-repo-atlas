@@ -1,6 +1,6 @@
 # alleyxd/AnyDecide
 
-⭐ 41 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/alleyxd/AnyDecide) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/alleyxd/AnyDecide) · 个人维护
 
 **把本地语言模型变成返回类型化概率答案的决策 API 库**
 
@@ -45,13 +45,13 @@ Python 库，基于本地 Hugging Face 对话模型提供决策接口：以选�
 
 ```mermaid
 xychart-beta
-    title "alleyxd/AnyDecide 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    title "alleyxd/AnyDecide 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 15 --> 43
+    line [41, 18, 17, 17]
 ```
 
-2026-10-24 41 → 2026-11-02 41（+0）
+2026-10-24 41 → 2026-11-17 17（-24）
 
 
 ---

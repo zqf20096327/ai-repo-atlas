@@ -1,6 +1,6 @@
 # baidubce/app-builder
 
-⭐ 587 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/baidubce/app-builder) · [官网](https://appbuilder.cloud.baidu.com/) · 组织维护 · 中文 README
+⭐ 588 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/baidubce/app-builder) · [官网](https://appbuilder.cloud.baidu.com/) · 组织维护 · 中文 README
 
 **百度千帆AppBuilder客户端SDK，助开发者搭建AI原生应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "baidubce/app-builder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 586 --> 588
-    line [587, 587]
+    title "baidubce/app-builder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 586 --> 589
+    line [587, 588, 588]
 ```
 
-2026-10-18 587 → 2026-11-02 587（+0）
+2026-10-18 587 → 2026-11-17 588（+1）
 
 
 ---

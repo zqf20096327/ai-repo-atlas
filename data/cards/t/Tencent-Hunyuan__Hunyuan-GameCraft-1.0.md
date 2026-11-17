@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan-GameCraft-1.0
 
-⭐ 764 · Python · NOASSERTION · 推送 2025-11-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) · [官网](https://hunyuan-gamecraft.github.io/) · 组织维护 · 中文 README
+⭐ 765 · Python · NOASSERTION · 推送 2025-11-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) · [官网](https://hunyuan-gamecraft.github.io/) · 组织维护 · 中文 README
 
 **腾讯混元游戏视频生成模型：键盘鼠标交互式生成游戏画面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hunyuan-GameCraft-1.0 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 758 --> 765
-    line [759, 760, 761, 762, 764, 764]
+    title "Tencent-Hunyuan/Hunyuan-GameCraft-1.0 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 758 --> 767
+    line [759, 760, 761, 762, 764, 761, 766, 765, 765]
 ```
 
-2026-10-18 759 → 2026-11-02 764（+5）
+2026-10-18 759 → 2026-11-17 765（+6）
 
 
 ---

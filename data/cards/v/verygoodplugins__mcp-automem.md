@@ -1,6 +1,6 @@
 # verygoodplugins/mcp-automem
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/verygoodplugins/mcp-automem) · [官网](https://automem.ai/) · 组织维护
+⭐ 66 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/verygoodplugins/mcp-automem) · [官网](https://automem.ai/) · 组织维护
 
 **为 Claude/Cursor 等 AI 工具接入持久图+向量记忆的 MCP 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "verygoodplugins/mcp-automem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 64 --> 67
     line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-11-02 66（+1）
+2026-10-18 65 → 2026-11-17 66（+1）
 
 
 ---

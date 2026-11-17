@@ -1,6 +1,6 @@
 # Kingler16/Velora
 
-⭐ 48 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Kingler16/Velora) · [官网](https://kingler16.github.io/Velora/) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Kingler16/Velora) · [官网](https://kingler16.github.io/Velora/) · 个人维护
 
 **个人财富顾问应用：AI 投资简报与组合监控，经 Telegram/Web 交付**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kingler16/Velora 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 44 --> 49
-    line [45, 46, 47, 48, 48]
+    title "Kingler16/Velora 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 44 --> 52
+    line [45, 46, 47, 48, 47, 49, 50, 51, 51]
 ```
 
-2026-10-18 45 → 2026-11-02 48（+3）
+2026-10-18 45 → 2026-11-17 51（+6）
 
 
 ---

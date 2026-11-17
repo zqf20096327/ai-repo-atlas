@@ -1,6 +1,6 @@
 # srinivasans13/burpai
 
-⭐ 12 · Java · MIT · 推送 2026-07-17 · [GitHub](https://github.com/srinivasans13/burpai) · 个人维护 · 中文 README
+⭐ 13 · Java · MIT · 推送 2026-07-17 · [GitHub](https://github.com/srinivasans13/burpai) · 个人维护 · 中文 README
 
 **Burp Suite 扩展：嵌入自主 AI 渗透测试 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "srinivasans13/burpai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "srinivasans13/burpai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

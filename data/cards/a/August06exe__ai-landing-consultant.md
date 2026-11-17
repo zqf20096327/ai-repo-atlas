@@ -1,6 +1,6 @@
 # August06exe/ai-landing-consultant
 
-⭐ 58 · Shell · MIT · 推送 2026-09-18 · [GitHub](https://github.com/August06exe/ai-landing-consultant) · 个人维护 · 中文 README
+⭐ 59 · Shell · MIT · 推送 2026-09-18 · [GitHub](https://github.com/August06exe/ai-landing-consultant) · 个人维护 · 中文 README
 
 **给非技术用户交付专属自托管 AI agent 的顾问方法库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "August06exe/ai-landing-consultant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "August06exe/ai-landing-consultant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 57 --> 60
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

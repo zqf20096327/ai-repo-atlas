@@ -1,6 +1,6 @@
 # terranandes/marffet-showcase
 
-⭐ 19 · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/terranandes/marffet-showcase) · [官网](https://marffet.zeabur.app) · 个人维护 · 中文 README
+⭐ 19 · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/terranandes/marffet-showcase) · [官网](https://35-236-152-123.sslip.io) · 个人维护 · 中文 README
 
 **台湾股票 ETF 投资模拟与持仓管理 Web 应用，含 AI 助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "terranandes/marffet-showcase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 19（+0）
 
 
 ---

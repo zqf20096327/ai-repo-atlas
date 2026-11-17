@@ -1,6 +1,6 @@
 # openvort/openvort
 
-⭐ 391 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/openvort/openvort) · [官网](https://openvort.com) · 组织维护 · 中文 README
+⭐ 393 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/openvort/openvort) · [官网](https://openvort.com) · 组织维护 · 中文 README
 
 **企业部署 AI 员工的开源平台，接入企微/钉钉/飞书协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openvort/openvort 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 384 --> 392
-    line [385, 388, 389, 390, 391, 391]
+    title "openvort/openvort 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 384 --> 395
+    line [385, 388, 389, 390, 391, 390, 393, 394, 393, 393]
 ```
 
-2026-10-18 385 → 2026-11-02 391（+6）
+2026-10-18 385 → 2026-11-17 393（+8）
 
 
 ---

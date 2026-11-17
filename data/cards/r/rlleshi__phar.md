@@ -1,6 +1,6 @@
 # rlleshi/phar
 
-⭐ 318 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/rlleshi/phar) · 个人维护
+⭐ 320 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/rlleshi/phar) · 个人维护
 
 **面向成人视频的行为/体位深度学习分类器（多模态视频识别）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rlleshi/phar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 316 --> 319
-    line [317, 318, 318]
+    title "rlleshi/phar 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 316 --> 323
+    line [317, 318, 317, 322, 320, 320]
 ```
 
-2026-10-18 317 → 2026-11-02 318（+1）
+2026-10-18 317 → 2026-11-17 320（+3）
 
 
 ---

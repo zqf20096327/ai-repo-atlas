@@ -1,6 +1,6 @@
 # gauravs19/archpilot
 
-⭐ 11 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/gauravs19/archpilot) · [官网](https://gauravs19.github.io/archpilot/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/gauravs19/archpilot) · [官网](https://gauravs19.github.io/archpilot/) · 个人维护
 
 **企业架构标准库+智能体流水线：把高层需求转为全套架构文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gauravs19/archpilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "gauravs19/archpilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

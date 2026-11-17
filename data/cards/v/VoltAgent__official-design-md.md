@@ -1,6 +1,6 @@
 # VoltAgent/official-design-md
 
-⭐ 528 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/VoltAgent/official-design-md) · [官网](https://getdesign.md/) · 组织维护
+⭐ 533 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/VoltAgent/official-design-md) · [官网](https://getdesign.md/) · 组织维护
 
 **官方 DESIGN.md 收录清单：追踪公司自行发布的设计系统文档**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoltAgent/official-design-md 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 523 --> 529
-    line [524, 526, 527, 528, 528]
+    title "VoltAgent/official-design-md 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 523 --> 534
+    line [524, 526, 527, 528, 527, 530, 531, 532, 533, 533]
 ```
 
-2026-10-18 524 → 2026-11-02 528（+4）
+2026-10-18 524 → 2026-11-17 533（+9）
 
 
 ---

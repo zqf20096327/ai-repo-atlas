@@ -1,6 +1,6 @@
 # AishwaryShrivastav/vibe-testing
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/AishwaryShrivastav/vibe-testing) · [官网](https://testing.tfgstudio.com/) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/AishwaryShrivastav/vibe-testing) · [官网](https://testing.tfgstudio.com/) · 个人维护
 
 **给 AI 编程代理的代码感知浏览器测试 MCP 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AishwaryShrivastav/vibe-testing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "AishwaryShrivastav/vibe-testing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

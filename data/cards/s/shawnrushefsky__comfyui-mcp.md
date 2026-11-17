@@ -1,6 +1,6 @@
 # shawnrushefsky/comfyui-mcp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-01-28 · [GitHub](https://github.com/shawnrushefsky/comfyui-mcp) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-01-28 · [GitHub](https://github.com/shawnrushefsky/comfyui-mcp) · 个人维护
 
 **让 Claude 等 AI 助手通过 MCP 操控 ComfyUI 生成图像/视频/音频**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shawnrushefsky/comfyui-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "shawnrushefsky/comfyui-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

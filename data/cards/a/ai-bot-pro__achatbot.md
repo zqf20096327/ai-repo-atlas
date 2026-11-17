@@ -1,6 +1,6 @@
 # ai-bot-pro/achatbot
 
-⭐ 90 · Python · BSD-3-Clause · 推送 2025-12-28 · [GitHub](https://github.com/ai-bot-pro/achatbot) · 组织维护 · 中文 README
+⭐ 91 · Python · BSD-3-Clause · 推送 2025-12-28 · [GitHub](https://github.com/ai-bot-pro/achatbot) · 组织维护 · 中文 README
 
 **构建语音/视觉多模态聊天机器人的开源框架**
 
@@ -45,13 +45,13 @@ Python 编写的聊天机器人架构库，以 pipeline 设计组织 VAD、ASR�
 
 ```mermaid
 xychart-beta
-    title "ai-bot-pro/achatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "ai-bot-pro/achatbot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 89 --> 92
+    line [90, 91, 91]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 91（+1）
 
 
 ---

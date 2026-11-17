@@ -1,6 +1,6 @@
 # cai4cai/torchsparsegradutils
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cai4cai/torchsparsegradutils) · [官网](https://torchsparsegradutils.readthedocs.io/en/latest/) · 组织维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/cai4cai/torchsparsegradutils) · [官网](https://torchsparsegradutils.readthedocs.io/en/latest/) · 组织维护
 
 **PyTorch 稀疏张量工具库：保持稀疏性的梯度运算与稀疏求解器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cai4cai/torchsparsegradutils 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 41（+0）
 
 
 ---

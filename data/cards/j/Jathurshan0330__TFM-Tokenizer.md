@@ -1,6 +1,6 @@
 # Jathurshan0330/TFM-Tokenizer
 
-⭐ 38 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/Jathurshan0330/TFM-Tokenizer) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/Jathurshan0330/TFM-Tokenizer) · 个人维护
 
 **科研用：单通道 EEG 时频 motif 离散化 tokenization 框架**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文 "Tokenizing Single-Channel EEG with Time-Frequency Motif Learni
 
 ```mermaid
 xychart-beta
-    title "Jathurshan0330/TFM-Tokenizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    title "Jathurshan0330/TFM-Tokenizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 38（+0）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

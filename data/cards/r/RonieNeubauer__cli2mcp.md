@@ -1,6 +1,6 @@
 # RonieNeubauer/cli2mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-04-29 · [GitHub](https://github.com/RonieNeubauer/cli2mcp) · [官网](https://www.npmjs.com/package/cli2mcp) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-04-29 · [GitHub](https://github.com/RonieNeubauer/cli2mcp) · [官网](https://www.npmjs.com/package/cli2mcp) · 个人维护
 
 **把任意 CLI 一键封装为 MCP 服务器的 Node 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RonieNeubauer/cli2mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "RonieNeubauer/cli2mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

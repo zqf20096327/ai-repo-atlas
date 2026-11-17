@@ -1,6 +1,6 @@
 # heizaheiza/Charles-mcp
 
-⭐ 332 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/heizaheiza/Charles-mcp) · [官网](https://pypi.org/project/charles-mcp/) · 个人维护 · 中文 README
+⭐ 333 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/heizaheiza/Charles-mcp) · [官网](https://pypi.org/project/charles-mcp/) · 个人维护 · 中文 README
 
 **把 Charles Proxy 抓包接入 MCP 客户端的流量分析服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "heizaheiza/Charles-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 324 --> 333
-    line [325, 326, 327, 329, 330, 329, 330, 331, 332, 332]
+    title "heizaheiza/Charles-mcp 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 324 --> 334
+    line [325, 326, 327, 329, 330, 329, 330, 331, 332, 329, 330, 332, 333, 333]
 ```
 
-2026-10-18 325 → 2026-11-02 332（+7）
+2026-10-18 325 → 2026-11-17 333（+8）
 
 
 ---

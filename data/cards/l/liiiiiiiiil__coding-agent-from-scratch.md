@@ -1,6 +1,6 @@
 # liiiiiiiiil/coding-agent-from-scratch
 
-⭐ 98 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/liiiiiiiiil/coding-agent-from-scratch) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/liiiiiiiiil/coding-agent-from-scratch) · 个人维护 · 中文 README
 
 **教程：用纯 Python 从零逐步搭建 AI 编程 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liiiiiiiiil/coding-agent-from-scratch 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 84 --> 99
-    line [94, 95, 96, 85, 86, 88, 91, 94, 97, 98, 98]
+    title "liiiiiiiiil/coding-agent-from-scratch 星数(近 15 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 84 --> 103
+    line [94, 95, 96, 85, 86, 88, 91, 94, 97, 98, 86, 100, 101, 102, 102]
 ```
 
-2026-10-18 94 → 2026-11-02 98（+4）
+2026-10-18 94 → 2026-11-17 102（+8）
 
 
 ---

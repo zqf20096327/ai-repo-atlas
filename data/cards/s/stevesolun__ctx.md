@@ -1,6 +1,6 @@
 # stevesolun/ctx
 
-⭐ 589 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/stevesolun/ctx) · [官网](https://stevesolun.github.io/ctx/) · 个人维护
+⭐ 593 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/stevesolun/ctx) · [官网](https://stevesolun.github.io/ctx/) · 个人维护
 
 **为仓库筛选最便宜且可靠的 AI 编码配置的 CLI 工具**
 
@@ -44,13 +44,13 @@ CTX Fit 分析仓库，从 git 历史导出代表性任务，在真实评测中�
 
 ```mermaid
 xychart-beta
-    title "stevesolun/ctx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 587 --> 590
-    line [588, 589, 589]
+    title "stevesolun/ctx 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 587 --> 594
+    line [588, 589, 590, 592, 593, 593]
 ```
 
-2026-10-18 588 → 2026-11-02 589（+1）
+2026-10-18 588 → 2026-11-17 593（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # mozex/anthropic-laravel
 
-⭐ 74 · PHP · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mozex/anthropic-laravel) · [官网](https://mozex.dev/docs/anthropic-laravel) · 个人维护
+⭐ 75 · PHP · MIT · 推送 2026-11-13 · [GitHub](https://github.com/mozex/anthropic-laravel) · [官网](https://mozex.dev/docs/anthropic-laravel) · 个人维护
 
 **Laravel 的 Anthropic API 集成包：Facade、配置发布与测试假件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozex/anthropic-laravel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    title "mozex/anthropic-laravel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 73 --> 76
+    line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 75（+1）
 
 
 ---

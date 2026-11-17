@@ -1,6 +1,6 @@
 # voxel51/eta
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/voxel51/eta) · [官网](https://voxel51.com) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/voxel51/eta) · [官网](https://voxel51.com) · 组织维护
 
 **面向计算机视觉与视频分析的开源工具库与流水线基础设施**
 
@@ -46,12 +46,12 @@ ETA 是一个可扩展的计算机视觉、机器学习与视频分析工具库�
 ```mermaid
 xychart-beta
     title "voxel51/eta 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 39（+1）
 
 
 ---

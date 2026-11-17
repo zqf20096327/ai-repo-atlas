@@ -1,6 +1,6 @@
 # modelscope/AgentEvolver
 
-⭐ 1,588 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/modelscope/AgentEvolver) · [官网](https://modelscope.github.io/AgentEvolver/) · 组织维护
+⭐ 1,594 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/modelscope/AgentEvolver) · [官网](https://modelscope.github.io/AgentEvolver/) · 组织维护
 
 **自进化 LLM Agent 的端到端强化学习训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/AgentEvolver 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 1577 --> 1589
-    line [1578, 1580, 1584, 1585, 1587, 1588]
+    title "modelscope/AgentEvolver 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1577 --> 1595
+    line [1578, 1580, 1584, 1585, 1587, 1588, 1584, 1590, 1589, 1591, 1592, 1593, 1594, 1594]
 ```
 
-2026-10-18 1,578 → 2026-11-02 1,588（+10）
+2026-10-18 1,578 → 2026-11-17 1,594（+16）
 
 
 ---

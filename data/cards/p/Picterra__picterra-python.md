@@ -1,6 +1,6 @@
 # Picterra/picterra-python
 
-⭐ 18 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Picterra/picterra-python) · [官网](https://picterra.ch) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Picterra/picterra-python) · [官网](https://picterra.ch) · 组织维护
 
 **Picterra 地理空间 ML 平台的 Python API 客户端**
 
@@ -45,13 +45,13 @@ Picterra 官方维护的 Python 客户端库：通过 APIClient 封装对 Picter
 
 ```mermaid
 xychart-beta
-    title "Picterra/picterra-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "Picterra/picterra-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

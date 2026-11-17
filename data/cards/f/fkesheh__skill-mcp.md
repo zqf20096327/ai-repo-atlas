@@ -1,6 +1,6 @@
 # fkesheh/skill-mcp
 
-⭐ 31 · Python · MIT · 推送 2025-11-14 · [GitHub](https://github.com/fkesheh/skill-mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 LLM 通过 MCP 编程管理技能的 Python 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fkesheh/skill-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-08 31（+0）
 
 
 ---

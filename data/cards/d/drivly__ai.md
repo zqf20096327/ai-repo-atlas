@@ -1,6 +1,6 @@
 # drivly/ai
 
-⭐ 41 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/drivly/ai) · [官网](https://workflows.do) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/drivly/ai) · [官网](https://workflows.do) · 组织维护
 
 **AI 原生工作流平台：函数、Agent、评测、数据库一体化 SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "drivly/ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "drivly/ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    line [40, 41, 40, 40]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 40（+0）
 
 
 ---

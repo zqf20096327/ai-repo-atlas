@@ -1,6 +1,6 @@
 # HLT-ISTI/QuaPy
 
-⭐ 73 · Python · BSD-3-Clause · 推送 2026-10-06 · [GitHub](https://github.com/HLT-ISTI/QuaPy) · 组织维护
+⭐ 73 · Python · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/HLT-ISTI/QuaPy) · 组织维护
 
 **Python 量化学习框架：估计样本中的类别占比**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HLT-ISTI/QuaPy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

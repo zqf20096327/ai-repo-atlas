@@ -1,6 +1,6 @@
 # xmindflow/cenet
 
-⭐ 40 · Python · 推送 2026-10-22 · [GitHub](https://github.com/xmindflow/cenet) · 组织维护
+⭐ 41 · Python · 推送 2026-11-11 · [GitHub](https://github.com/xmindflow/cenet) · 组织维护
 
 **医学图像多域分割网络（MICCAI 2025）的 PyTorch 实现**
 
@@ -44,13 +44,13 @@ MICCAI 2025 论文 CENet 的官方 PyTorch 实现，面向医学图像分割研�
 
 ```mermaid
 xychart-beta
-    title "xmindflow/cenet 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    title "xmindflow/cenet 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 38, 41, 41]
 ```
 
-2026-10-23 38 → 2026-11-02 40（+2）
+2026-10-23 38 → 2026-11-17 41（+3）
 
 
 ---

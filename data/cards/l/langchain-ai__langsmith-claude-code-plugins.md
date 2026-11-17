@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-claude-code-plugins
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/langchain-ai/langsmith-claude-code-plugins) · [官网](https://langchain.com) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langchain-ai/langsmith-claude-code-plugins) · [官网](https://langchain.com) · 组织维护
 
 **将 Claude Code 会话追踪上报 LangSmith 的插件**
 
@@ -44,13 +44,13 @@ LangChain 官方维护的 Claude Code 插件：把每轮对话、工具调用输
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-claude-code-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02"]
+    title "langchain-ai/langsmith-claude-code-plugins 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
     y-axis "stars" 71 --> 74
-    line [73, 72, 73, 73]
+    line [73, 72, 73, 72, 73, 72, 73, 73]
 ```
 
-2026-10-18 73 → 2026-11-02 73（+0）
+2026-10-18 73 → 2026-11-17 73（+0）
 
 
 ---

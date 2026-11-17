@@ -1,6 +1,6 @@
 # davidcjones79/shelley-cli
 
-⭐ 12 · Go · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/davidcjones79/shelley-cli) · 个人维护
+⭐ 12 · Go · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/davidcjones79/shelley-cli) · 个人维护
 
 **Shelley 编码 agent 的终端界面 fork，含分布式任务与文件传输**
 
@@ -46,12 +46,12 @@ boldsoftware/shelley 的 fork，为其编码 agent 增加终端 CLI（流式输�
 ```mermaid
 xychart-beta
     title "davidcjones79/shelley-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

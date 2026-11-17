@@ -1,6 +1,6 @@
 # amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging
 
-⭐ 2,115 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) · [官网](https://www.sciencedirect.com/science/article/pii/S1361841523001068) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **医学影像扩散模型论文清单：配套 MedIA 综述的持续整理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2110 --> 2116
-    line [2112, 2111, 2112, 2113, 2112, 2111, 2112, 2113, 2115, 2115]
+    title "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 2110 --> 2117
+    line [2112, 2111, 2112, 2113, 2112, 2111, 2112, 2113, 2115, 2113, 2116, 2116]
 ```
 
-2026-10-18 2,112 → 2026-11-02 2,115（+3）
+2026-10-18 2,112 → 2026-11-12 2,116（+4）
 
 
 ---

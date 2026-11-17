@@ -1,6 +1,6 @@
 # taishikato/chatsage
 
-⭐ 240 · TypeScript · Apache-2.0 · 推送 2025-12-14 · [GitHub](https://github.com/taishikato/chatsage) · [官网](https://chatsage.co) · 个人维护
+⭐ 239 · TypeScript · Apache-2.0 · 推送 2025-12-14 · [GitHub](https://github.com/taishikato/chatsage) · [官网](https://chatsage.co) · 个人维护
 
 **面向网站的开源 AI 客服聊天机器人，Chatbase 替代**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "taishikato/chatsage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 239 --> 241
-    line [240, 240]
+    title "taishikato/chatsage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 238 --> 241
+    line [240, 239, 239]
 ```
 
-2026-10-18 240 → 2026-11-02 240（+0）
+2026-10-18 240 → 2026-11-17 239（-1）
 
 
 ---

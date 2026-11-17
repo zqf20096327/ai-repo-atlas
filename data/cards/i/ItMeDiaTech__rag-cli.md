@@ -1,6 +1,6 @@
 # ItMeDiaTech/rag-cli
 
-⭐ 53 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/ItMeDiaTech/rag-cli) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-03-22 · [GitHub](https://github.com/ItMeDiaTech/rag-cli) · 个人维护
 
 **给开发者的 Claude Code 本地 RAG 插件：文档向量化检索注入上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ItMeDiaTech/rag-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "ItMeDiaTech/rag-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 51 --> 54
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 52（-1）
 
 
 ---

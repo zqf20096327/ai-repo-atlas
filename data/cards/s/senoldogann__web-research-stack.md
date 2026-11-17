@@ -1,6 +1,6 @@
 # senoldogann/web-research-stack
 
-⭐ 12 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/senoldogann/web-research-stack) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/senoldogann/web-research-stack) · 个人维护
 
 **面向 AI agent 的网页搜索/抓取 MCP 服务器与 CLI/REST 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "senoldogann/web-research-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tusKANNy/seismic
 
-⭐ 140 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tusKANNy/seismic) · 组织维护
+⭐ 142 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tusKANNy/seismic) · 组织维护
 
 **面向学习型稀疏嵌入的近似稀疏向量检索库（Rust + Python）**
 
@@ -44,13 +44,13 @@ Seismic 是用 Rust 编写、提供 Python 绑定的搜索引擎，针对学习�
 
 ```mermaid
 xychart-beta
-    title "tusKANNy/seismic 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 138 --> 141
-    line [139, 140, 140]
+    title "tusKANNy/seismic 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 138 --> 143
+    line [139, 140, 139, 141, 142, 142]
 ```
 
-2026-10-19 139 → 2026-11-02 140（+1）
+2026-10-19 139 → 2026-11-17 142（+3）
 
 
 ---

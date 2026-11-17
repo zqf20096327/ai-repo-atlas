@@ -1,6 +1,6 @@
 # prfagit/sam-framework
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/prfagit/sam-framework) · [官网](https://prfa.me) · 个人维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/prfagit/sam-framework) · [官网](https://prfa.me) · 个人维护
 
 **构建可操作 Solana 链上工作流 AI agent 的 Python 中间件框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prfagit/sam-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "prfagit/sam-framework 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

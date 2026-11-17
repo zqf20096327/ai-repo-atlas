@@ -1,6 +1,6 @@
 # ashpeterson/AgentBlazor
 
-⭐ 16 · C# · 推送 2026-06-18 · [GitHub](https://github.com/ashpeterson/AgentBlazor) · [官网](https://demo.agentblazor.com/demo/workflows/support-inbox) · 个人维护
+⭐ 15 · C# · 推送 2026-06-18 · [GitHub](https://github.com/ashpeterson/AgentBlazor) · [官网](https://demo.agentblazor.com/demo/workflows/support-inbox) · 个人维护
 
 **给 .NET/Blazor 应用的 AI agent 聊天组件与工作流库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashpeterson/AgentBlazor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "ashpeterson/AgentBlazor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 15（-1）
 
 
 ---

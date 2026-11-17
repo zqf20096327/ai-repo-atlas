@@ -1,6 +1,6 @@
 # never13254/GhostType
 
-⭐ 40 · Swift · MIT · 推送 2026-04-15 · [GitHub](https://github.com/never13254/GhostType) · 个人维护 · 中文 README
+⭐ 41 · Swift · MIT · 推送 2026-04-15 · [GitHub](https://github.com/never13254/GhostType) · 个人维护 · 中文 README
 
 **macOS 语音效率工具：本地 Whisper 听写 + LLM 改写/翻译，插入光标处**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "never13254/GhostType 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "never13254/GhostType 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 41（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # modal-labs/turbo-art
 
-⭐ 240 · Svelte · 推送 2025-11-19 · [GitHub](https://github.com/modal-labs/turbo-art) · [官网](https://turbo.art/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 SDXL Turbo 的实时图像编辑创意实验场**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "modal-labs/turbo-art 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 239 --> 241
     line [240, 240]
 ```
 
-2026-10-18 240 → 2026-11-02 240（+0）
+2026-10-18 240 → 2026-11-14 240（+0）
 
 
 ---

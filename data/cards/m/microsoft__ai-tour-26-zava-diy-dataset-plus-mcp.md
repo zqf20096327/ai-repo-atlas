@@ -1,6 +1,6 @@
 # microsoft/ai-tour-26-zava-diy-dataset-plus-mcp
 
-⭐ 71 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/microsoft/ai-tour-26-zava-diy-dataset-plus-mcp) · 组织维护
+⭐ 72 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/microsoft/ai-tour-26-zava-diy-dataset-plus-mcp) · 组织维护
 
 **虚构零售公司数据集加三个 MCP 服务器的演示项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ai-tour-26-zava-diy-dataset-plus-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    title "microsoft/ai-tour-26-zava-diy-dataset-plus-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-18 71 → 2026-11-02 71（+0）
+2026-10-18 71 → 2026-11-17 72（+1）
 
 
 ---

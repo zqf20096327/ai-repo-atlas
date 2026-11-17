@@ -1,6 +1,6 @@
 # gittensor-ai-lab/sparkinfer
 
-⭐ 91 · C++ · MIT · 推送 2026-10-11 · [GitHub](https://github.com/gittensor-ai-lab/sparkinfer) · [官网](https://sparkinfer.com/) · 组织维护
+⭐ 93 · C++ · MIT · 推送 2026-10-11 · [GitHub](https://github.com/gittensor-ai-lab/sparkinfer) · [官网](https://sparkinfer.com/) · 组织维护
 
 **面向消费级/边缘 Blackwell GPU 的 C++/CUDA MoE/LLM 推理运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gittensor-ai-lab/sparkinfer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 87 --> 92
-    line [89, 88, 90, 91, 91]
+    title "gittensor-ai-lab/sparkinfer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 87 --> 95
+    line [89, 88, 90, 91, 88, 93, 94, 93, 93]
 ```
 
-2026-10-18 89 → 2026-11-02 91（+2）
+2026-10-18 89 → 2026-11-17 93（+4）
 
 
 ---

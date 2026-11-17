@@ -1,6 +1,6 @@
 # convex/shop-talk
 
-⭐ 11 · TypeScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/convex/shop-talk) · [官网](https://convex-shop-talk.vercel.app) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-02-05 · [GitHub](https://github.com/convex/shop-talk) · [官网](https://convex-shop-talk.vercel.app) · 组织维护
 
 **实时协作购物清单演示应用：展示 daily-bots 语音与 Convex 后端集成**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "convex/shop-talk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    title "convex/shop-talk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 12（+1）
 
 
 ---

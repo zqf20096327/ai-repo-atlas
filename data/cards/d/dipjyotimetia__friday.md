@@ -1,6 +1,6 @@
 # dipjyotimetia/friday
 
-⭐ 11 · Python · MIT · 推送 2025-11-10 · [GitHub](https://github.com/dipjyotimetia/friday) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向测试人员：从 Jira/GitHub issue 自动生成测试用例并执行 API 测试**
 
@@ -11,7 +11,7 @@ FRIDAY 是一个 AI 驱动的测试代理，使用 Google Gemini、OpenAI 或 Mi
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ FRIDAY 是一个 AI 驱动的测试代理，使用 Google Gemini、OpenAI 或 Mi
 ```mermaid
 xychart-beta
     title "dipjyotimetia/friday 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

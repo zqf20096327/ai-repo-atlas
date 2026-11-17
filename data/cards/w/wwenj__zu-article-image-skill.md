@@ -1,6 +1,6 @@
 # wwenj/zu-article-image-skill
 
-⭐ 57 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/wwenj/zu-article-image-skill) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/wwenj/zu-article-image-skill) · 个人维护 · 中文 README
 
 **给 Markdown 文章自动配图的 Agent Skill：两步生成插图并回写正文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wwenj/zu-article-image-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 56 --> 59
-    line [58, 57, 57]
+    title "wwenj/zu-article-image-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 56 --> 60
+    line [58, 57, 58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-11-02 57（-1）
+2026-10-18 58 → 2026-11-17 59（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # baicaigpt/OPENAI_APIKEY
 
-⭐ 16 · Python · 推送 2026-07-29 · [GitHub](https://github.com/baicaigpt/OPENAI_APIKEY) · [官网](https://BaiCaiGPT.com) · 组织维护 · 中文 README
+⭐ 17 · Python · 推送 2026-07-29 · [GitHub](https://github.com/baicaigpt/OPENAI_APIKEY) · [官网](https://BaiCaiGPT.com) · 组织维护 · 中文 README
 
 **面向国内用户的 OpenAI 中转 API KEY 售卖服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baicaigpt/OPENAI_APIKEY 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "baicaigpt/OPENAI_APIKEY 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

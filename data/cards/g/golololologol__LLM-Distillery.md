@@ -1,6 +1,6 @@
 # golololologol/LLM-Distillery
 
-⭐ 119 · Python · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/golololologol/LLM-Distillery) · 个人维护
+⭐ 120 · Python · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/golololologol/LLM-Distillery) · 个人维护
 
 **LLM 知识蒸馏流水线：把教师模型蒸馏给学生模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "golololologol/LLM-Distillery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    title "golololologol/LLM-Distillery 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 118 --> 121
+    line [119, 120, 120]
 ```
 
-2026-10-18 119 → 2026-11-02 119（+0）
+2026-10-18 119 → 2026-11-17 120（+1）
 
 
 ---

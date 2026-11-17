@@ -1,6 +1,6 @@
 # aurorallm/aurora
 
-⭐ 41 · Go · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/aurorallm/aurora) · [官网](http://aurorallm.online) · 组织维护
+⭐ 43 · Go · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/aurorallm/aurora) · [官网](http://aurorallm.online) · 组织维护
 
 **自托管企业 AI 网关：单一 API 路由多家 LLM 提供商流量**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aurorallm/aurora 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [41, 40, 41, 41]
+    title "aurorallm/aurora 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 39 --> 44
+    line [41, 40, 41, 40, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-11-02 41（+0）
+2026-10-18 41 → 2026-11-17 43（+2）
 
 
 ---

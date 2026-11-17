@@ -1,6 +1,6 @@
 # petuum/autodist
 
-⭐ 136 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/petuum/autodist) · [官网](https://petuum.github.io/autodist) · 组织维护
+⭐ 137 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/petuum/autodist) · [官网](https://petuum.github.io/autodist) · 组织维护
 
 **TensorFlow 分布式深度学习训练引擎：多 GPU 训练加速**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "petuum/autodist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    title "petuum/autodist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 135 --> 138
+    line [136, 137, 137]
 ```
 
-2026-10-18 136 → 2026-11-02 136（+0）
+2026-10-18 136 → 2026-11-17 137（+1）
 
 
 ---

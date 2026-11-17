@@ -1,6 +1,6 @@
 # TheDeepOpc/deepsec
 
-⭐ 32 · Python · 推送 2026-02-24 · [GitHub](https://github.com/TheDeepOpc/deepsec) · 个人维护
+⭐ 33 · Python · 推送 2026-02-24 · [GitHub](https://github.com/TheDeepOpc/deepsec) · 个人维护
 
 **结合 SAST 规则与 Llama 3.3 推理的代码安全审计工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheDeepOpc/deepsec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "TheDeepOpc/deepsec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 31 --> 34
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-11-02 32（+0）
+2026-10-18 32 → 2026-11-17 33（+1）
 
 
 ---

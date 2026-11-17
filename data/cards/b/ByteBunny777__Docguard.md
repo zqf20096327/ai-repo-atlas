@@ -1,6 +1,6 @@
 # ByteBunny777/Docguard
 
-⭐ 34 · Go · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ByteBunny777/Docguard) · 个人维护
+⭐ 35 · Go · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ByteBunny777/Docguard) · 个人维护
 
 **扫描文档中隐藏提示注入内容的 Go CLI，供 RAG 索引前把关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ByteBunny777/Docguard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "ByteBunny777/Docguard 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-11-02 34（+1）
+2026-10-18 33 → 2026-11-17 35（+2）
 
 
 ---

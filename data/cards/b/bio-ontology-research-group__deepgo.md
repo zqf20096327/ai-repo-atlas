@@ -1,6 +1,6 @@
 # bio-ontology-research-group/deepgo
 
-⭐ 88 · Python · 推送 2026-10-01 · [GitHub](https://github.com/bio-ontology-research-group/deepgo) · [官网](http://deepgo.bio2vec.net) · 组织维护
+⭐ 89 · Python · 推送 2026-10-01 · [GitHub](https://github.com/bio-ontology-research-group/deepgo) · [官网](http://deepgo.bio2vec.net) · 组织维护
 
 **蛋白质功能预测模型：从序列与 PPI 网络预测 GO 功能**
 
@@ -44,13 +44,13 @@ DeepGO 通过深度神经网络从蛋白质序列和蛋白质-蛋白质交互（
 
 ```mermaid
 xychart-beta
-    title "bio-ontology-research-group/deepgo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    title "bio-ontology-research-group/deepgo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 87 --> 90
+    line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-11-02 88（+0）
+2026-10-18 88 → 2026-11-17 89（+1）
 
 
 ---

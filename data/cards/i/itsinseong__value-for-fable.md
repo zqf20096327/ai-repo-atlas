@@ -1,6 +1,6 @@
 # itsinseong/value-for-fable
 
-⭐ 236 · Python · AGPL-3.0 · 推送 2026-06-21 · [GitHub](https://github.com/itsinseong/value-for-fable) · 个人维护
+⭐ 239 · Python · AGPL-3.0 · 推送 2026-06-21 · [GitHub](https://github.com/itsinseong/value-for-fable) · 个人维护
 
 **Claude Code 插件：给 Sonnet 注入结构化行为规范的 output-style 配置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "itsinseong/value-for-fable 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 235 --> 237
-    line [236, 236]
+    title "itsinseong/value-for-fable 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 235 --> 240
+    line [236, 237, 238, 239, 239]
 ```
 
-2026-10-18 236 → 2026-11-02 236（+0）
+2026-10-18 236 → 2026-11-17 239（+3）
 
 
 ---

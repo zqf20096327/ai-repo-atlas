@@ -1,6 +1,6 @@
 # anupamkliv/FedERA
 
-⭐ 138 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/anupamkliv/FedERA) · [官网](https://federa.readthedocs.io) · 组织维护
+⭐ 137 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/anupamkliv/FedERA) · [官网](https://federa.readthedocs.io) · 组织维护
 
 **面向边缘设备的联邦学习框架：支持异构设备训练与碳排放追踪**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anupamkliv/FedERA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 137 --> 139
-    line [138, 138]
+    title "anupamkliv/FedERA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 136 --> 139
+    line [138, 137, 137]
 ```
 
-2026-10-18 138 → 2026-11-02 138（+0）
+2026-10-18 138 → 2026-11-17 137（-1）
 
 
 ---

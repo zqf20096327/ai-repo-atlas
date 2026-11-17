@@ -1,6 +1,6 @@
 # GrecAndrei/ida-pro-mcp
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/GrecAndrei/ida-pro-mcp) · [官网](https://glama.ai/mcp/servers/GrecAndrei/ida-pro-mcp) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/GrecAndrei/ida-pro-mcp) · [官网](https://glama.ai/mcp/servers/GrecAndrei/ida-pro-mcp) · 个人维护
 
 **已归档的 IDA Pro MCP 服务器：让 AI agent 做确定性二进制逆向分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GrecAndrei/ida-pro-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

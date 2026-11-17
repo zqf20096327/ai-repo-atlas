@@ -1,6 +1,6 @@
 # TristanBilot/mlx-benchmark
 
-⭐ 240 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/TristanBilot/mlx-benchmark) · 个人维护
+⭐ 241 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/TristanBilot/mlx-benchmark) · 个人维护
 
 **Apple MLX 算子性能基准测试集合：覆盖全系 Apple Silicon**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TristanBilot/mlx-benchmark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-02"]
+    title "TristanBilot/mlx-benchmark 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-17"]
     y-axis "stars" 239 --> 242
-    line [240, 241, 240, 240]
+    line [240, 241, 240, 241, 241]
 ```
 
-2026-10-18 240 → 2026-11-02 240（+0）
+2026-10-18 240 → 2026-11-17 241（+1）
 
 
 ---

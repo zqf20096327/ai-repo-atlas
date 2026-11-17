@@ -1,6 +1,6 @@
 # hengruiyun/AI-Stock-Master
 
-⭐ 394 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/hengruiyun/AI-Stock-Master) · [官网](https://ttfox.com) · 组织维护 · 中文 README
+⭐ 397 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/hengruiyun/AI-Stock-Master) · [官网](https://ttfox.com) · 组织维护 · 中文 README
 
 **面向投资者的 AI 股票趋势分析平台，解读中美港三地市场**
 
@@ -44,13 +44,13 @@ AI 驱动的股票趋势分析系统，整合 LLM 解读与三个自研算法：
 
 ```mermaid
 xychart-beta
-    title "hengruiyun/AI-Stock-Master 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 390 --> 395
-    line [391, 393, 394, 394]
+    title "hengruiyun/AI-Stock-Master 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 390 --> 398
+    line [391, 393, 394, 393, 395, 396, 397, 397]
 ```
 
-2026-10-18 391 → 2026-11-02 394（+3）
+2026-10-18 391 → 2026-11-17 397（+6）
 
 
 ---

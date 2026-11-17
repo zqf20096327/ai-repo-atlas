@@ -1,6 +1,6 @@
 # skttr87/getsu
 
-⭐ 19 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/skttr87/getsu) · [官网](https://skttr87.github.io/getsu/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/skttr87/getsu) · [官网](https://skttr87.github.io/getsu/) · 个人维护
 
 **Windows 实时 AI 降噪工具：CPU 上过滤麦克风噪声**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skttr87/getsu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 18, 19, 19]
+    title "skttr87/getsu 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 14 --> 27
+    line [15, 16, 18, 19, 18, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 15 → 2026-11-02 19（+4）
+2026-10-18 15 → 2026-11-17 26（+11）
 
 
 ---

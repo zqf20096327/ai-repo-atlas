@@ -1,6 +1,6 @@
 # rouralberto/zim-llm
 
-⭐ 35 · Python · 推送 2026-10-16 · [GitHub](https://github.com/rouralberto/zim-llm) · [官网](https://albertoroura.com/building-an-offline-knowledge-base-with-zim-and-docker-model-runner/) · 个人维护
+⭐ 37 · Python · 推送 2026-10-16 · [GitHub](https://github.com/rouralberto/zim-llm) · [官网](https://albertoroura.com/building-an-offline-knowledge-base-with-zim-and-docker-model-runner/) · 个人维护
 
 **将 Kiwix ZIM 离线档案转为向量库并做 RAG 问答的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rouralberto/zim-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "rouralberto/zim-llm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

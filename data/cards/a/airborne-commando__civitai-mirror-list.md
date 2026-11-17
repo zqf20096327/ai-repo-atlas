@@ -1,6 +1,6 @@
 # airborne-commando/civitai-mirror-list
 
-⭐ 57 · Unlicense · 推送 2026-01-27 · [GitHub](https://github.com/airborne-commando/civitai-mirror-list) · 个人维护 · 中文 README
+⭐ 58 · Unlicense · 推送 2026-01-27 · [GitHub](https://github.com/airborne-commando/civitai-mirror-list) · 个人维护 · 中文 README
 
 **Civitai 替代站与被删模型镜像/归档资源清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "airborne-commando/civitai-mirror-list 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "airborne-commando/civitai-mirror-list 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 56 --> 59
-    line [58, 57, 57]
+    line [58, 57, 58, 58]
 ```
 
-2026-10-18 58 → 2026-11-02 57（-1）
+2026-10-18 58 → 2026-11-17 58（+0）
 
 
 ---

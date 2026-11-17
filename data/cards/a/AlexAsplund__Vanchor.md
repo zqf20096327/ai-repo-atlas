@@ -1,6 +1,6 @@
 # AlexAsplund/Vanchor
 
-⭐ 123 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/AlexAsplund/Vanchor) · [官网](https://vanchor.org) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/AlexAsplund/Vanchor) · [官网](https://vanchor.org) · 个人维护
 
 **把低价拖曳电机改造成 GPS 自动驾驶仪的船用导航系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlexAsplund/Vanchor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    title "AlexAsplund/Vanchor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 122 --> 127
+    line [123, 125, 126, 126]
 ```
 
-2026-10-18 123 → 2026-11-02 123（+0）
+2026-10-18 123 → 2026-11-17 126（+3）
 
 
 ---

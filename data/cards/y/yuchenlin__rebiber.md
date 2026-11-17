@@ -1,6 +1,6 @@
 # yuchenlin/rebiber
 
-⭐ 3,044 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yuchenlin/rebiber) · [官网](https://yuchenlin.xyz/) · 个人维护
+⭐ 3,044 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yuchenlin/rebiber) · [官网](https://yuchenlin.xyz/) · 个人维护
 
 **将非正式 arXiv BibTeX 条目替换为官方 DBLP/ACL 记录的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuchenlin/rebiber 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02"]
+    title "yuchenlin/rebiber 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 3042 --> 3046
-    line [3045, 3044, 3043, 3044, 3044]
+    line [3045, 3044, 3043, 3044, 3045, 3044, 3044]
 ```
 
-2026-10-18 3,045 → 2026-11-02 3,044（-1）
+2026-10-18 3,045 → 2026-11-17 3,044（-1）
 
 
 ---

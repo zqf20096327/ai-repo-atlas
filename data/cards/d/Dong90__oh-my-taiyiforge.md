@@ -1,6 +1,6 @@
 # Dong90/oh-my-taiyiforge
 
-⭐ 858 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Dong90/oh-my-taiyiforge) · 组织维护 · 中文 README
+⭐ 855 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Dong90/oh-my-taiyiforge) · 组织维护 · 中文 README
 
 **给 AI 编码终端的九阶段工程化流水线插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dong90/oh-my-taiyiforge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 857 --> 866
-    line [865, 859, 858, 858]
+    title "Dong90/oh-my-taiyiforge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 852 --> 866
+    line [865, 859, 858, 859, 853, 855, 855]
 ```
 
-2026-10-18 865 → 2026-11-02 858（-7）
+2026-10-18 865 → 2026-11-17 855（-10）
 
 
 ---

@@ -1,6 +1,6 @@
 # joe223/AriaType
 
-⭐ 96 · Rust · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/joe223/AriaType) · [官网](https://ariatype.com) · 个人维护 · 中文 README
+⭐ 95 · Rust · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/joe223/AriaType) · [官网](https://ariatype.com) · 个人维护 · 中文 README
 
 **桌面端语音输入与写作工具：说话即成文，落在光标处**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "joe223/AriaType 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
+    title "joe223/AriaType 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-17"]
     y-axis "stars" 93 --> 97
-    line [94, 95, 96, 96]
+    line [94, 95, 96, 95, 95]
 ```
 
-2026-10-18 94 → 2026-11-02 96（+2）
+2026-10-18 94 → 2026-11-17 95（+1）
 
 
 ---

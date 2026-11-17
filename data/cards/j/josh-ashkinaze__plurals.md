@@ -1,6 +1,6 @@
 # josh-ashkinaze/plurals
 
-⭐ 43 · Python · 推送 2026-09-11 · [GitHub](https://github.com/josh-ashkinaze/plurals) · [官网](https://josh-ashkinaze.github.io/plurals/) · 组织维护
+⭐ 42 · Python · 推送 2026-09-11 · [GitHub](https://github.com/josh-ashkinaze/plurals) · [官网](https://josh-ashkinaze.github.io/plurals/) · 组织维护
 
 **模拟社会群体的多智能体 LLM 实验框架，面向计算社会科学研究**
 
@@ -46,13 +46,13 @@ Python 库，用于构建由 LLM Agent 组成的模拟社会群体（ensemble）
 
 ```mermaid
 xychart-beta
-    title "josh-ashkinaze/plurals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    title "josh-ashkinaze/plurals 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [43, 42, 42]
 ```
 
-2026-10-18 43 → 2026-11-02 43（+0）
+2026-10-18 43 → 2026-11-17 42（-1）
 
 
 ---

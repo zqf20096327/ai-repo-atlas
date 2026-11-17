@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hnaymyh123-henry/skills-compat-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "hnaymyh123-henry/skills-compat-manager 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 82 --> 85
-    line [83, 84, 84]
+    line [83, 84, 83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-02 84（+1）
+2026-10-18 83 → 2026-11-17 84（+1）
 
 
 ---

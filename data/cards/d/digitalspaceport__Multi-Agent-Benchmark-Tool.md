@@ -1,6 +1,6 @@
 # digitalspaceport/Multi-Agent-Benchmark-Tool
 
-⭐ 17 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/digitalspaceport/Multi-Agent-Benchmark-Tool) · [官网](https://digitalspaceport.com) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/digitalspaceport/Multi-Agent-Benchmark-Tool) · [官网](https://digitalspaceport.com) · 个人维护
 
 **本地推理栈的多 agent 并发负载基准工具：测 TTFT/吞吐/工具调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "digitalspaceport/Multi-Agent-Benchmark-Tool 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [17, 16, 17, 17]
+    title "digitalspaceport/Multi-Agent-Benchmark-Tool 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [17, 16, 17, 16, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 19（+2）
 
 
 ---

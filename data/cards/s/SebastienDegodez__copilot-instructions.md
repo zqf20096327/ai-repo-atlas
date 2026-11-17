@@ -1,6 +1,6 @@
 # SebastienDegodez/copilot-instructions
 
-⭐ 199 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/SebastienDegodez/copilot-instructions) · [官网](https://sebastiendegodez.github.io/copilot-instructions/) · 个人维护
+⭐ 199 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/SebastienDegodez/copilot-instructions) · [官网](https://sebastiendegodez.github.io/copilot-instructions/) · 个人维护
 
 **面向 GitHub Copilot 等 AI 助手的编码规则与技能文件合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SebastienDegodez/copilot-instructions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
     y-axis "stars" 197 --> 200
     line [198, 199, 199]
 ```
 
-2026-10-18 198 → 2026-11-02 199（+1）
+2026-10-18 198 → 2026-11-17 199（+1）
 
 
 ---

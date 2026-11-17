@@ -1,6 +1,6 @@
 # Dest1ny-Sec/Desinter_scan
 
-⭐ 61 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Dest1ny-Sec/Desinter_scan) · 个人维护 · 中文 README
+⭐ 62 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Dest1ny-Sec/Desinter_scan) · 个人维护 · 中文 README
 
 **面向授权渗透测试的多 Agent 侦察扫描与 AI 评分系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dest1ny-Sec/Desinter_scan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    title "Dest1ny-Sec/Desinter_scan 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 58 --> 64
+    line [59, 60, 61, 60, 62, 63, 62, 62]
 ```
 
-2026-10-18 59 → 2026-11-02 61（+2）
+2026-10-18 59 → 2026-11-17 62（+3）
 
 
 ---

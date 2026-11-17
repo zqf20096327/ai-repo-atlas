@@ -1,6 +1,6 @@
 # granth-agarwal/codectx
 
-⭐ 28 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/granth-agarwal/codectx) · [官网](https://codectx.granth.tech) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/granth-agarwal/codectx) · [官网](https://codectx.granth.tech) · 个人维护
 
 **为 AI agent 编译代码库上下文的 CLI：图排序+分层压缩输出**
 
@@ -44,13 +44,13 @@ Python 编写的 CLI 工具，将仓库编译为单个 CONTEXT.md 供 LLM 推理
 
 ```mermaid
 xychart-beta
-    title "granth-agarwal/codectx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "granth-agarwal/codectx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

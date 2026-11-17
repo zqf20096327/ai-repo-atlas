@@ -1,6 +1,6 @@
 # ollama-admin/ollama-admin
 
-⭐ 30 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/ollama-admin/ollama-admin) · 组织维护
+⭐ 31 · TypeScript · 推送 2026-08-06 · [GitHub](https://github.com/ollama-admin/ollama-admin) · 组织维护
 
 **Ollama 服务器的 GPU 监控、代理网关与多服务器管理面板**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ollama-admin/ollama-admin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "ollama-admin/ollama-admin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

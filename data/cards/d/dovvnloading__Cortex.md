@@ -1,6 +1,6 @@
 # dovvnloading/Cortex
 
-⭐ 37 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/dovvnloading/Cortex) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dovvnloading/Cortex) · 个人维护
 
 **Windows 本地优先 AI 聊天工作区，本地跑模型不外发数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dovvnloading/Cortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 37（+0）
 
 
 ---

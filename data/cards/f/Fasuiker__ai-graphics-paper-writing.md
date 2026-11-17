@@ -1,6 +1,6 @@
 # Fasuiker/ai-graphics-paper-writing
 
-⭐ 12 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Fasuiker/ai-graphics-paper-writing) · 个人维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Fasuiker/ai-graphics-paper-writing) · 个人维护 · 中文 README
 
 **面向 AI/图形学论文写作的可填写模板与论证链 Skill**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fasuiker/ai-graphics-paper-writing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "Fasuiker/ai-graphics-paper-writing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Anionex/treeAI
 
-⭐ 50 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Anionex/treeAI) · 个人维护 · 中文 README
+⭐ 49 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Anionex/treeAI) · 个人维护 · 中文 README
 
 **本地优先的树状 LLM 对话可视化工作区，支持分支探索与导出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anionex/treeAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-02"]
+    title "Anionex/treeAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 47 --> 51
-    line [48, 49, 50, 50]
+    line [48, 49, 50, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 50（+2）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

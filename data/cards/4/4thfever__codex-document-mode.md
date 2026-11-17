@@ -1,6 +1,6 @@
 # 4thfever/codex-document-mode
 
-⭐ 127 · JavaScript · MIT · 推送 2026-07-30 · [GitHub](https://github.com/4thfever/codex-document-mode) · 个人维护 · 中文 README
+⭐ 129 · JavaScript · MIT · 推送 2026-07-30 · [GitHub](https://github.com/4thfever/codex-document-mode) · 个人维护 · 中文 README
 
 **给 Codex 桌面端用户的公文式回复与圈阅反馈注入工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "4thfever/codex-document-mode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 126 --> 129
-    line [127, 128, 127, 127]
+    title "4thfever/codex-document-mode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 126 --> 130
+    line [127, 128, 127, 129, 129]
 ```
 
-2026-10-18 127 → 2026-11-02 127（+0）
+2026-10-18 127 → 2026-11-17 129（+2）
 
 
 ---

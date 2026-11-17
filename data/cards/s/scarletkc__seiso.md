@@ -1,6 +1,6 @@
 # scarletkc/seiso
 
-⭐ 195 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/scarletkc/seiso) · [官网](https://seiso.fog.moe) · 个人维护
+⭐ 196 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/scarletkc/seiso) · [官网](https://seiso.fog.moe) · 个人维护
 
 **面向 AI 编写文档的 Markdown 规范与 linter，供人与 agent 阅读**
 
@@ -45,13 +45,13 @@ seiso 定义一套仓库 Markdown 组织规范（每篇文档声明一种 kind�
 
 ```mermaid
 xychart-beta
-    title "scarletkc/seiso 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 183 --> 196
-    line [185, 184, 188, 195, 195]
+    title "scarletkc/seiso 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 183 --> 197
+    line [185, 184, 188, 195, 184, 195, 196, 196]
 ```
 
-2026-10-18 185 → 2026-11-02 195（+10）
+2026-10-18 185 → 2026-11-17 196（+11）
 
 
 ---

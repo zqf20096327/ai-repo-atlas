@@ -1,6 +1,6 @@
 # boykopovar/Grok3API
 
-⭐ 62 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/boykopovar/Grok3API) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/boykopovar/Grok3API) · 个人维护
 
 **逆向工程的 Grok 移动端 gRPC 异步 Python 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "boykopovar/Grok3API 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    title "boykopovar/Grok3API 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
     y-axis "stars" 59 --> 63
-    line [60, 62, 62]
+    line [60, 62, 61, 61]
 ```
 
-2026-10-18 60 → 2026-11-02 62（+2）
+2026-10-18 60 → 2026-11-17 61（+1）
 
 
 ---

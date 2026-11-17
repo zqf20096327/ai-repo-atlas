@@ -1,6 +1,6 @@
 # Arvincreator/project-golem
 
-⭐ 641 · JavaScript · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/Arvincreator/project-golem) · 个人维护 · 中文 README
+⭐ 643 · JavaScript · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/Arvincreator/project-golem) · 个人维护 · 中文 README
 
 **面向个人的 OS 级自主 AI 代理系统：可对话、行动、长期记忆**
 
@@ -46,13 +46,13 @@ Node.js 实现的 AI 工作系统，将语言模型与操作能力整合在同�
 
 ```mermaid
 xychart-beta
-    title "Arvincreator/project-golem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 640 --> 643
-    line [641, 642, 641, 641]
+    title "Arvincreator/project-golem 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 640 --> 644
+    line [641, 642, 641, 642, 641, 642, 643, 643]
 ```
 
-2026-10-18 641 → 2026-11-02 641（+0）
+2026-10-18 641 → 2026-11-17 643（+2）
 
 
 ---

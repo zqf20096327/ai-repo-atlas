@@ -1,6 +1,6 @@
 # TDahlmann/canpp
 
-⭐ 94 · C · MIT · 推送 2026-09-18 · [GitHub](https://github.com/TDahlmann/canpp) · 个人维护
+⭐ 95 · C · MIT · 推送 2026-09-18 · [GitHub](https://github.com/TDahlmann/canpp) · 个人维护
 
 **Windows 下的 CAN 总线分析、收发与仿真 GUI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TDahlmann/canpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    title "TDahlmann/canpp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 93 --> 96
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-11-02 94（+0）
+2026-10-18 94 → 2026-11-17 95（+1）
 
 
 ---

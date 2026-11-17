@@ -1,6 +1,6 @@
 # SAP/ai-sdk
 
-⭐ 15 · HTML · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/SAP/ai-sdk) · 组织维护
+⭐ 16 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/SAP/ai-sdk) · 组织维护
 
 **SAP Cloud SDK for AI 文档门户的源码仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SAP/ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "SAP/ai-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

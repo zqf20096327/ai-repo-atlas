@@ -1,6 +1,6 @@
 # thisisharsh7/seeva-ai-assistant
 
-⭐ 30 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/thisisharsh7/seeva-ai-assistant) · [官网](https://thisisharsh7.github.io/seeva-ai-assistant/) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/thisisharsh7/seeva-ai-assistant) · [官网](https://thisisharsh7.github.io/seeva-ai-assistant/) · 个人维护
 
 **快捷键呼出的桌面 AI 问答悬浮层，支持多模型与屏幕识别**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thisisharsh7/seeva-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "thisisharsh7/seeva-ai-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

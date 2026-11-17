@@ -1,6 +1,6 @@
 # ndcorder/outputguard
 
-⭐ 49 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/ndcorder/outputguard) · [官网](https://github.com/ndcorder/outputguard) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/ndcorder/outputguard) · [官网](https://github.com/ndcorder/outputguard) · 个人维护
 
 **校验、修复并重试 LLM 结构化输出的 Python 库与 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ndcorder/outputguard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    title "ndcorder/outputguard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 50
+    line [49, 48, 48]
 ```
 
-2026-10-18 49 → 2026-11-02 49（+0）
+2026-10-18 49 → 2026-11-17 48（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # bharat2808/codex-universal-proxy
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bharat2808/codex-universal-proxy) · [官网](https://www.npmjs.com/package/codex-ollama-proxy) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bharat2808/codex-universal-proxy) · [官网](https://www.npmjs.com/package/codex-ollama-proxy) · 个人维护
 
 **让 Codex 使用任意 OpenAI 兼容模型的本地代理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bharat2808/codex-universal-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "bharat2808/codex-universal-proxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

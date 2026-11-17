@@ -1,6 +1,6 @@
 # Programmergyt/ai-career-copilot
 
-⭐ 27 · Python · 推送 2026-05-03 · [GitHub](https://github.com/Programmergyt/ai-career-copilot) · [官网](http://8.153.79.69:3001) · 个人维护 · 中文 README
+⭐ 28 · Python · 推送 2026-05-03 · [GitHub](https://github.com/Programmergyt/ai-career-copilot) · [官网](http://8.153.79.69:3001) · 个人维护 · 中文 README
 
 **面向求职者的多 Agent 求职辅助系统：JD 分析、简历生成、模拟面试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Programmergyt/ai-career-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "Programmergyt/ai-career-copilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 28（+1）
 
 
 ---

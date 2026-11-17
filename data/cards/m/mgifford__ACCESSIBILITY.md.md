@@ -1,6 +1,6 @@
 # mgifford/ACCESSIBILITY.md
 
-⭐ 80 · CSS · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mgifford/ACCESSIBILITY.md) · [官网](https://mgifford.github.io/ACCESSIBILITY.md) · 个人维护
+⭐ 84 · CSS · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mgifford/ACCESSIBILITY.md) · [官网](https://mgifford.github.io/ACCESSIBILITY.md) · 个人维护
 
 **声明项目无障碍状态的开放格式，为人类与 AI agent 提供统一规范**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mgifford/ACCESSIBILITY.md 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 78 --> 81
-    line [79, 80, 79, 80, 80]
+    title "mgifford/ACCESSIBILITY.md 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 78 --> 85
+    line [79, 80, 79, 80, 82, 83, 84, 84]
 ```
 
-2026-10-18 79 → 2026-11-02 80（+1）
+2026-10-18 79 → 2026-11-17 84（+5）
 
 
 ---

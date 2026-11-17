@@ -1,6 +1,6 @@
 # autogluon/autogluon-assistant
 
-⭐ 310 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/autogluon/autogluon-assistant) · 组织维护
+⭐ 313 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/autogluon/autogluon-assistant) · 组织维护
 
 **多智能体自动完成端到端多模态机器学习工作流的系统**
 
@@ -44,13 +44,13 @@ AutoGluon Assistant（又名 MLZero）是由多智能体驱动的自动化机器
 
 ```mermaid
 xychart-beta
-    title "autogluon/autogluon-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 308 --> 311
-    line [309, 310, 310]
+    title "autogluon/autogluon-assistant 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 308 --> 314
+    line [309, 310, 311, 312, 313, 313]
 ```
 
-2026-10-18 309 → 2026-11-02 310（+1）
+2026-10-18 309 → 2026-11-17 313（+4）
 
 
 ---

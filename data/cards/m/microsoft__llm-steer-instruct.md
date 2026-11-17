@@ -1,6 +1,6 @@
 # microsoft/llm-steer-instruct
 
-⭐ 99 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/microsoft/llm-steer-instruct) · 组织维护
+⭐ 100 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/microsoft/llm-steer-instruct) · 组织维护
 
 **ICLR 2025 论文代码：用激活转向提升 LLM 指令遵循**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/llm-steer-instruct 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    title "microsoft/llm-steer-instruct 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 98 --> 101
+    line [99, 100, 100]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 100（+1）
 
 
 ---

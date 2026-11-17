@@ -1,6 +1,6 @@
 # hailo-ai/hailo_model_zoo
 
-⭐ 722 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hailo-ai/hailo_model_zoo) · 组织维护
+⭐ 724 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hailo-ai/hailo_model_zoo) · 组织维护
 
 **面向 Hailo 边缘芯片的预训练模型库与编译评测环境**
 
@@ -44,13 +44,13 @@ Hailo 公司维护的模型库：提供 ONNX/TF 格式预训练模型与预编�
 
 ```mermaid
 xychart-beta
-    title "hailo-ai/hailo_model_zoo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 720 --> 723
-    line [721, 722, 721, 722, 722]
+    title "hailo-ai/hailo_model_zoo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 720 --> 725
+    line [721, 722, 721, 722, 721, 723, 724, 724]
 ```
 
-2026-10-18 721 → 2026-11-02 722（+1）
+2026-10-18 721 → 2026-11-17 724（+3）
 
 
 ---

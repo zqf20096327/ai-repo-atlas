@@ -1,6 +1,6 @@
 # TheSeamau5/envoi
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/TheSeamau5/envoi) · [官网](https://thesyntheticdatacompany.com) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/TheSeamau5/envoi) · [官网](https://thesyntheticdatacompany.com) · 个人维护
 
 **构建 AI 代码评测环境 HTTP 服务的 Python SDK**
 
@@ -45,13 +45,13 @@ Envoi 是一个 Python SDK，用于将装饰器标注的异步测试函数（@en
 
 ```mermaid
 xychart-beta
-    title "TheSeamau5/envoi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "TheSeamau5/envoi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

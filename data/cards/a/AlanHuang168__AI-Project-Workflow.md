@@ -1,6 +1,6 @@
 # AlanHuang168/AI-Project-Workflow
 
-⭐ 29 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/AlanHuang168/AI-Project-Workflow) · [官网](https://www.npmjs.com/package/@dayahs/ai-project-workflow) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/AlanHuang168/AI-Project-Workflow) · [官网](https://www.npmjs.com/package/@dayahs/ai-project-workflow) · 个人维护 · 中文 README
 
 **面向多款 AI 编码助手的分阶段软件交付工作流框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlanHuang168/AI-Project-Workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "AlanHuang168/AI-Project-Workflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

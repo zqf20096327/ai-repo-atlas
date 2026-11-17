@@ -1,6 +1,6 @@
 # NRCan/geo-deep-learning
 
-⭐ 206 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/NRCan/geo-deep-learning) · [官网](https://github.com/NRCan/geo-deep-learning/tree/main?tab=readme-ov-file#readme) · 组织维护
+⭐ 208 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/NRCan/geo-deep-learning) · [官网](https://github.com/NRCan/geo-deep-learning/tree/main?tab=readme-ov-file#readme) · 组织维护
 
 **面向遥感地学数据的 PyTorch Lightning 深度学习训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NRCan/geo-deep-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 203 --> 207
-    line [204, 205, 206, 206]
+    title "NRCan/geo-deep-learning 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 203 --> 209
+    line [204, 205, 206, 204, 206, 208, 208]
 ```
 
-2026-10-18 204 → 2026-11-02 206（+2）
+2026-10-18 204 → 2026-11-17 208（+4）
 
 
 ---

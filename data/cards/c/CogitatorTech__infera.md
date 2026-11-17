@@ -1,6 +1,6 @@
 # CogitatorTech/infera
 
-⭐ 137 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CogitatorTech/infera) · 组织维护
+⭐ 138 · Rust · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/CogitatorTech/infera) · 组织维护
 
 **DuckDB 扩展：在 SQL 查询内直接运行 ONNX 模型推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CogitatorTech/infera 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    title "CogitatorTech/infera 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 136 --> 139
+    line [137, 138, 138]
 ```
 
-2026-10-18 137 → 2026-11-02 137（+0）
+2026-10-18 137 → 2026-11-17 138（+1）
 
 
 ---

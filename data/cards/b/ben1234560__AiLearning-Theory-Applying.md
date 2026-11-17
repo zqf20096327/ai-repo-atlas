@@ -1,6 +1,6 @@
 # ben1234560/AiLearning-Theory-Applying
 
-⭐ 3,586 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ben1234560/AiLearning-Theory-Applying) · 个人维护 · 中文 README
+⭐ 3,591 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ben1234560/AiLearning-Theory-Applying) · 个人维护 · 中文 README
 
 **AI 理论与应用实战教程库：数学基础到 Transformer/BERT 与竞赛**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ben1234560/AiLearning-Theory-Applying 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3584 --> 3588
-    line [3585, 3587, 3586, 3587, 3586, 3586]
+    title "ben1234560/AiLearning-Theory-Applying 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 3584 --> 3592
+    line [3585, 3587, 3586, 3587, 3586, 3587, 3586, 3588, 3590, 3591, 3591]
 ```
 
-2026-10-18 3,585 → 2026-11-02 3,586（+1）
+2026-10-18 3,585 → 2026-11-17 3,591（+6）
 
 
 ---

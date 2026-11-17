@@ -1,6 +1,6 @@
 # TrustifAI/typed_evals
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TrustifAI/typed_evals) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TrustifAI/typed_evals) · 个人维护
 
 **面向 LLM/RAG/Agent 的类型化评测与工具调用防护框架**
 
@@ -45,13 +45,13 @@ Python 评测工具包：输入请求、回答与证据，通过指标面板输�
 
 ```mermaid
 xychart-beta
-    title "TrustifAI/typed_evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "TrustifAI/typed_evals 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19, 19]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 19（+3）
 
 
 ---

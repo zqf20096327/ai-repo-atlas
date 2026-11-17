@@ -1,6 +1,6 @@
 # Anjos2/recursive-research
 
-⭐ 52 · MIT · 推送 2026-04-22 · [GitHub](https://github.com/Anjos2/recursive-research) · 个人维护 · 中文 README
+⭐ 55 · MIT · 推送 2026-04-22 · [GitHub](https://github.com/Anjos2/recursive-research) · 个人维护 · 中文 README
 
 **Claude Code 插件：跨领域递归式深度研究技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anjos2/recursive-research 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 47 --> 53
-    line [48, 49, 51, 52, 52]
+    title "Anjos2/recursive-research 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 47 --> 56
+    line [48, 49, 51, 52, 54, 55, 55]
 ```
 
-2026-10-18 48 → 2026-11-02 52（+4）
+2026-10-18 48 → 2026-11-17 55（+7）
 
 
 ---

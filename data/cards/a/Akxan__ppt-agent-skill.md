@@ -1,6 +1,6 @@
 # Akxan/ppt-agent-skill
 
-⭐ 172 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Akxan/ppt-agent-skill) · [官网](https://github.com/Akxan/ppt-agent-skill) · 个人维护 · 中文 README
+⭐ 184 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Akxan/ppt-agent-skill) · [官网](https://github.com/Akxan/ppt-agent-skill) · 个人维护 · 中文 README
 
 **Claude Code 技能：把一句话生成专业级演示文稿（HTML+可编辑 PPTX）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Akxan/ppt-agent-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 161 --> 173
-    line [162, 163, 165, 166, 169, 170, 172]
+    title "Akxan/ppt-agent-skill 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 160 --> 186
+    line [162, 163, 165, 166, 169, 170, 172, 165, 181, 182, 184, 184]
 ```
 
-2026-10-18 162 → 2026-11-02 172（+10）
+2026-10-18 162 → 2026-11-17 184（+22）
 
 
 ---

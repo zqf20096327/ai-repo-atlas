@@ -1,6 +1,6 @@
 # BovmantH/cn-company-research-agent
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/BovmantH/cn-company-research-agent) · [官网](https://cn-company-research-agent.onrender.com/) · 个人维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/BovmantH/cn-company-research-agent) · [官网](https://cn-company-research-agent.onrender.com/) · 个人维护 · 中文 README
 
 **多 Agent 中文公司调研 Web 服务：输入公司名产出调研报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BovmantH/cn-company-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

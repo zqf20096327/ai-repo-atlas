@@ -1,6 +1,6 @@
 # blackhaiyu-sudo/spec2case
 
-⭐ 67 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/blackhaiyu-sudo/spec2case) · [官网](https://github.com/blackhaiyu-sudo/spec2case) · 个人维护 · 中文 README
+⭐ 68 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/blackhaiyu-sudo/spec2case) · [官网](https://github.com/blackhaiyu-sudo/spec2case) · 个人维护 · 中文 README
 
 **把 PRD/原型图转为结构化测试用例的 AI 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "blackhaiyu-sudo/spec2case 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
+    title "blackhaiyu-sudo/spec2case 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
     y-axis "stars" 66 --> 73
-    line [71, 72, 67, 67]
+    line [71, 72, 67, 68, 68]
 ```
 
-2026-10-18 71 → 2026-11-02 67（-4）
+2026-10-18 71 → 2026-11-17 68（-3）
 
 
 ---

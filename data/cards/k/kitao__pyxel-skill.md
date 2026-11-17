@@ -1,6 +1,6 @@
 # kitao/pyxel-skill
 
-⭐ 14 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kitao/pyxel-skill) · [官网](https://github.com/kitao/pyxel-mcp) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kitao/pyxel-skill) · [官网](https://github.com/kitao/pyxel-mcp) · 个人维护
 
 **指导 agent 开发与验证 Pyxel 复古游戏的 Claude 技能插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kitao/pyxel-skill 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02"]
+    title "kitao/pyxel-skill 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-26", "2026-11-01", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 14, 14]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-22 14 → 2026-11-02 14（+0）
+2026-10-22 14 → 2026-11-17 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aikeyaorg/aikeya
 
-⭐ 24 · Svelte · MIT · 推送 2026-02-14 · [GitHub](https://github.com/aikeyaorg/aikeya) · [官网](https://aikeya.org) · 组织维护
+⭐ 27 · Svelte · MIT · 推送 2026-02-14 · [GitHub](https://github.com/aikeyaorg/aikeya) · [官网](https://aikeya.org) · 组织维护
 
 **开源 AI 虚拟伴侣平台：VRM 形象+记忆成长+恋爱模拟机制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aikeyaorg/aikeya 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "aikeyaorg/aikeya 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 25, 27, 27]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 27（+4）
 
 
 ---

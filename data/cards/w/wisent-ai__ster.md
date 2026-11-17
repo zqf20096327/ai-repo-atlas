@@ -1,6 +1,6 @@
 # wisent-ai/ster
 
-⭐ 345 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wisent-ai/ster) · [官网](https://ster.wisent.com) · 组织维护
+⭐ 346 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/wisent-ai/ster) · [官网](https://ster.wisent.com) · 组织维护
 
 **开源权重 LLM 的表示读取与激活引导 Rust 工具包**
 
@@ -45,13 +45,13 @@ Wisent 公司开发的原生 Rust 二进制与库 crate：基于 Candle 运行�
 
 ```mermaid
 xychart-beta
-    title "wisent-ai/ster 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 341 --> 346
-    line [342, 343, 344, 345, 345]
+    title "wisent-ai/ster 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 341 --> 347
+    line [342, 343, 344, 345, 343, 345, 346, 346]
 ```
 
-2026-10-18 342 → 2026-11-02 345（+3）
+2026-10-18 342 → 2026-11-17 346（+4）
 
 
 ---

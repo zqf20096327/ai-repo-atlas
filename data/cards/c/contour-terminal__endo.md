@@ -1,6 +1,6 @@
 # contour-terminal/endo
 
-⭐ 32 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/contour-terminal/endo) · [官网](https://contour-terminal.github.io/endo/) · 组织维护
+⭐ 34 · C++ · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/contour-terminal/endo) · [官网](https://contour-terminal.github.io/endo/) · 组织维护
 
 **跨平台 F# 风格函数式编程 shell 与脚本语言**
 
@@ -45,13 +45,13 @@ Endo 是运行于 Linux/macOS/Windows 的交互式 shell 与脚本语言，将 F
 
 ```mermaid
 xychart-beta
-    title "contour-terminal/endo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "contour-terminal/endo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 31, 32, 34, 34]
 ```
 
-2026-10-18 31 → 2026-11-02 32（+1）
+2026-10-18 31 → 2026-11-17 34（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Codeturion/unity-api-mcp
 
-⭐ 67 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Codeturion/unity-api-mcp) · [官网](https://www.fuatcankoseoglu.com/) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Codeturion/unity-api-mcp) · [官网](https://www.fuatcankoseoglu.com/) · 个人维护
 
 **为 AI agent 提供 Unity API 文档查询的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Codeturion/unity-api-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "Codeturion/unity-api-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 64 --> 68
+    line [67, 66, 65, 65]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 65（-2）
 
 
 ---

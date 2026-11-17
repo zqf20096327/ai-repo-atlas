@@ -1,6 +1,6 @@
 # Shaurya-Sethi/circuitron
 
-⭐ 129 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/Shaurya-Sethi/circuitron) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/Shaurya-Sethi/circuitron) · 个人维护
 
 **多 agent 把自然语言电路需求转成 KiCad 原理图与 PCB**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shaurya-Sethi/circuitron 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 127 --> 130
-    line [128, 129, 129]
+    title "Shaurya-Sethi/circuitron 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 127 --> 132
+    line [128, 129, 130, 131, 131]
 ```
 
-2026-10-18 128 → 2026-11-02 129（+1）
+2026-10-18 128 → 2026-11-17 131（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sodam-ai/GitHub-Explorer
 
-⭐ 15 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/sodam-ai/GitHub-Explorer) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/sodam-ai/GitHub-Explorer) · 个人维护 · 中文 README
 
 **自然语言搜索 GitHub 仓库/代码/Issue 的桌面应用，AI 为可选功能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sodam-ai/GitHub-Explorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "sodam-ai/GitHub-Explorer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

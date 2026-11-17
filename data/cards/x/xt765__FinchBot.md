@@ -1,6 +1,6 @@
 # xt765/FinchBot
 
-⭐ 68 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/xt765/FinchBot) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/xt765/FinchBot) · 个人维护 · 中文 README
 
 **面向开发者的自主 AI Agent 框架，支持自我扩展与任务自调度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xt765/FinchBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    title "xt765/FinchBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 65 --> 69
+    line [68, 66, 66]
 ```
 
-2026-10-18 68 → 2026-11-02 68（+0）
+2026-10-18 68 → 2026-11-17 66（-2）
 
 
 ---

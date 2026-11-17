@@ -1,6 +1,6 @@
 # Morrowmake/glm53-flash-cmp170hx-recipe
 
-⭐ 87 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe) · 个人维护
 
 **在 4× CMP 170HX 上以 vLLM fork 运行 GLM-5.3-Flash 的部署方案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Morrowmake/glm53-flash-cmp170hx-recipe 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 75 --> 88
-    line [76, 81, 83, 84, 85, 87, 87]
+    title "Morrowmake/glm53-flash-cmp170hx-recipe 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 75 --> 92
+    line [76, 81, 83, 84, 85, 87, 85, 89, 90, 91, 91]
 ```
 
-2026-10-18 76 → 2026-11-02 87（+11）
+2026-10-18 76 → 2026-11-17 91（+15）
 
 
 ---

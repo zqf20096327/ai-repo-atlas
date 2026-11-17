@@ -1,6 +1,6 @@
 # sssstwee/switch-plus-plus
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/sssstwee/switch-plus-plus) · [官网](https://sssstwee.github.io/switch-plus-plus/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/sssstwee/switch-plus-plus) · [官网](https://sssstwee.github.io/switch-plus-plus/) · 个人维护 · 中文 README
 
 **给开发者：Claude Code/Codex 第三方模型配置切换与本地兼容网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sssstwee/switch-plus-plus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

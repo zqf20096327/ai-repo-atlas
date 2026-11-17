@@ -1,6 +1,6 @@
 # PandoroML/LOAF
 
-⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/PandoroML/LOAF) · [官网](https://pandoroml.github.io/LOAF/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PandoroML/LOAF) · [官网](https://pandoroml.github.io/LOAF/) · 组织维护
 
 **给 DIY 硬件爱好者与科研用户：开源超本地天气预测工具**
 
@@ -45,13 +45,13 @@ LOAF 将 NOAA GFS/HRRR/ERA5 等区域格点预报与本地气象站观测融合�
 
 ```mermaid
 xychart-beta
-    title "PandoroML/LOAF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "PandoroML/LOAF 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

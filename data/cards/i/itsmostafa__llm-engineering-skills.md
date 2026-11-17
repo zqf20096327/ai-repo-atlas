@@ -1,6 +1,6 @@
 # itsmostafa/llm-engineering-skills
 
-⭐ 24 · MIT · 推送 2026-05-06 · [GitHub](https://github.com/itsmostafa/llm-engineering-skills) · 个人维护
+⭐ 25 · MIT · 推送 2026-05-06 · [GitHub](https://github.com/itsmostafa/llm-engineering-skills) · 个人维护
 
 **面向 AI agent 的 LLM 工程技能集合，增强 Claude Code/Codex**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "itsmostafa/llm-engineering-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 24, 24]
+    title "itsmostafa/llm-engineering-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 21 --> 26
+    line [22, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 25（+3）
 
 
 ---

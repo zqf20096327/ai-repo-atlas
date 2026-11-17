@@ -1,6 +1,6 @@
 # masadcv/FastGeodis
 
-⭐ 108 · C++ · BSD-3-Clause · 推送 2026-03-12 · [GitHub](https://github.com/masadcv/FastGeodis) · [官网](https://fastgeodis.readthedocs.io) · 个人维护
+⭐ 110 · C++ · BSD-3-Clause · 推送 2026-03-12 · [GitHub](https://github.com/masadcv/FastGeodis) · [官网](https://fastgeodis.readthedocs.io) · 个人维护
 
 **面向开发者的通用测地距离变换 PyTorch 库（CPU/GPU）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "masadcv/FastGeodis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    title "masadcv/FastGeodis 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 107 --> 111
+    line [108, 109, 110, 110]
 ```
 
-2026-10-18 108 → 2026-11-02 108（+0）
+2026-10-18 108 → 2026-11-17 110（+2）
 
 
 ---

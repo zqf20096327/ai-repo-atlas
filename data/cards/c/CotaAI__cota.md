@@ -1,6 +1,6 @@
 # CotaAI/cota
 
-⭐ 31 · Python · MIT · 推送 2026-01-07 · [GitHub](https://github.com/CotaAI/cota) · [官网](https://cotaai.github.io/cota/) · 组织维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/CotaAI/cota) · [官网](https://cotaai.github.io/cota/) · 组织维护 · 中文 README
 
 **通过标注思维链对话示例构建领域对话智能体的平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CotaAI/cota 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    title "CotaAI/cota 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 30 --> 33
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-11-02 31（+0）
+2026-10-18 31 → 2026-11-17 32（+1）
 
 
 ---

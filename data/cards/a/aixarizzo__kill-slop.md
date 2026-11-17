@@ -1,6 +1,6 @@
 # aixarizzo/kill-slop
 
-⭐ 20 · MIT · 推送 2026-08-06 · [GitHub](https://github.com/aixarizzo/kill-slop) · [官网](https://aixarizzo.com) · 个人维护
+⭐ 21 · MIT · 推送 2026-08-06 · [GitHub](https://github.com/aixarizzo/kill-slop) · [官网](https://aixarizzo.com) · 个人维护
 
 **两个 Claude Code 技能：按作者本人声音审计并修复 AI 腔文本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aixarizzo/kill-slop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "aixarizzo/kill-slop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

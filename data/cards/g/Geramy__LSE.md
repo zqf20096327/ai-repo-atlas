@@ -1,6 +1,6 @@
 # Geramy/LSE
 
-⭐ 33 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Geramy/LSE) · 个人维护
+⭐ 36 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Geramy/LSE) · 个人维护
 
 **面向 AMD GPU 的 LLM 推理引擎，自优化生成 GPU 内核**
 
@@ -44,13 +44,13 @@ LSE 是在 Linux、macOS 和 iPadOS 上为 AMD GPU 运行 LLM 推理的引擎：
 
 ```mermaid
 xychart-beta
-    title "Geramy/LSE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    title "Geramy/LSE 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 32 --> 37
+    line [33, 35, 36, 36]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 36（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # SilentFleetKK/riskguard
 
-⭐ 67 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/SilentFleetKK/riskguard) · 个人维护 · 中文 README
+⭐ 68 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/SilentFleetKK/riskguard) · 个人维护 · 中文 README
 
 **量化交易的开源风控中间件：仓位上限、回撤熔断与审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SilentFleetKK/riskguard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "SilentFleetKK/riskguard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 68（+1）
 
 
 ---

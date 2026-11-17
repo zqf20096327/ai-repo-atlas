@@ -1,6 +1,6 @@
 # GMS64260/mcp-glpi
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/GMS64260/mcp-glpi) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/GMS64260/mcp-glpi) · 个人维护
 
 **连接 GLPI ITSM 的 MCP 服务器：给 AI 助手 46 个运维工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GMS64260/mcp-glpi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    title "GMS64260/mcp-glpi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 33, 34, 35, 35]
 ```
 
-2026-10-18 31 → 2026-11-02 33（+2）
+2026-10-18 31 → 2026-11-17 35（+4）
 
 
 ---

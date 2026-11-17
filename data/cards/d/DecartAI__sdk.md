@@ -1,6 +1,6 @@
 # DecartAI/sdk
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DecartAI/sdk) · [官网](https://docs.platform.decart.ai/sdks/javascript) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/DecartAI/sdk) · [官网](https://docs.platform.decart.ai/sdks/javascript) · 组织维护
 
 **接入 Decart 实时视频生成模型的 JavaScript SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DecartAI/sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "DecartAI/sdk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 19, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # arjunprabhulal/google-adk-masterclass
 
-⭐ 48 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/arjunprabhulal/google-adk-masterclass) · [官网](https://arjunprabhulal.com/courses/adk-masterclass-hands-on-series/) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/arjunprabhulal/google-adk-masterclass) · [官网](https://arjunprabhulal.com/courses/adk-masterclass-hands-on-series/) · 个人维护
 
 **Google ADK 教学：20 个模块带你上手构建 AI agent**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "arjunprabhulal/google-adk-masterclass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 46 --> 49
-    line [47, 48]
+    title "arjunprabhulal/google-adk-masterclass 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 47, 49, 49]
 ```
 
-2026-10-18 47 → 2026-11-02 48（+1）
+2026-10-18 47 → 2026-11-17 49（+2）
 
 
 ---

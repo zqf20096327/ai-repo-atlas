@@ -1,6 +1,6 @@
 # jjiantong/Awesome-KV-Cache-Optimization
 
-⭐ 423 · Python · 推送 2026-10-23 · [GitHub](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) · [官网](https://jjiantong.github.io/Awesome-KV-Cache-Optimization/) · 组织维护 · 中文 README
+⭐ 427 · Python · 推送 2026-10-23 · [GitHub](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) · [官网](https://jjiantong.github.io/Awesome-KV-Cache-Optimization/) · 组织维护 · 中文 README
 
 **LLM 服务中 KV 缓存优化论文综述清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jjiantong/Awesome-KV-Cache-Optimization 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 420 --> 424
-    line [421, 422, 423, 422, 423, 423]
+    title "jjiantong/Awesome-KV-Cache-Optimization 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 420 --> 428
+    line [421, 422, 423, 422, 423, 425, 427, 426, 427, 427]
 ```
 
-2026-10-18 421 → 2026-11-02 423（+2）
+2026-10-18 421 → 2026-11-17 427（+6）
 
 
 ---

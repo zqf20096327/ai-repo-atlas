@@ -1,6 +1,6 @@
 # al-nafisah/fpga-project-analyzer
 
-⭐ 25 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/al-nafisah/fpga-project-analyzer) · [官网](https://al-nafisah.github.io/fpga-project-analyzer/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/al-nafisah/fpga-project-analyzer) · [官网](https://al-nafisah.github.io/fpga-project-analyzer/) · 个人维护
 
 **供 AI 编程代理解析与审查 Vivado/Zynq/PYNQ 工程的技能工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "al-nafisah/fpga-project-analyzer 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 18 --> 26
-    line [19, 22, 25, 25]
+    title "al-nafisah/fpga-project-analyzer 星数(近 6 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 29
+    line [19, 22, 25, 27, 28, 28]
 ```
 
-2026-10-30 19 → 2026-11-02 25（+6）
+2026-10-30 19 → 2026-11-17 28（+9）
 
 
 ---

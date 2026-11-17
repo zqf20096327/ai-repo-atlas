@@ -1,6 +1,6 @@
 # Brhiza/sydf
 
-⭐ 12 · TypeScript · 推送 2026-09-10 · [GitHub](https://github.com/Brhiza/sydf) · [官网](https://sydf.cc) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · 推送 2026-09-10 · [GitHub](https://github.com/Brhiza/sydf) · [官网](https://sydf.cc) · 个人维护 · 中文 README
 
 **面向普通用户的东方术数与西方占卜 Web 应用，带 AI 解读**
 
@@ -45,13 +45,13 @@ Vue 3 + TypeScript 构建的 PWA，功能覆盖梅花易数、六爻、奇门遁
 
 ```mermaid
 xychart-beta
-    title "Brhiza/sydf 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "Brhiza/sydf 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 9 --> 18
+    line [10, 11, 12, 11, 14, 15, 17, 17]
 ```
 
-2026-10-22 10 → 2026-11-02 12（+2）
+2026-10-22 10 → 2026-11-17 17（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # redhat-na-ssa/demo-ai-gitops-catalog
 
-⭐ 18 · HTML · MIT · 推送 2026-09-03 · [GitHub](https://github.com/redhat-na-ssa/demo-ai-gitops-catalog) · [官网](https://redhat-na-ssa.github.io/demo-ai-gitops-catalog/) · 组织维护
+⭐ 18 · HTML · MIT · 推送 2026-11-09 · [GitHub](https://github.com/redhat-na-ssa/demo-ai-gitops-catalog) · [官网](https://redhat-na-ssa.github.io/demo-ai-gitops-catalog/) · 组织维护
 
 **OpenShift 上供给 AI/ML 工作负载的 GitOps 配置与演示目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "redhat-na-ssa/demo-ai-gitops-catalog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 18（+0）
 
 
 ---

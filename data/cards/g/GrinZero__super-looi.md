@@ -1,6 +1,6 @@
 # GrinZero/super-looi
 
-⭐ 15 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/GrinZero/super-looi) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/GrinZero/super-looi) · 个人维护 · 中文 README
 
 **面向 LOOI 机器人的本地优先 BLE 控制 SDK 及配套 Expo 应用**
 
@@ -11,7 +11,7 @@ monorepo 包含三部分：`@sourcebug/looi-sdk`（早期 alpha 的 TypeScript S
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@ monorepo 包含三部分：`@sourcebug/looi-sdk`（早期 alpha 的 TypeScript S
 
 ```mermaid
 xychart-beta
-    title "GrinZero/super-looi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    title "GrinZero/super-looi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 18（+5）
 
 
 ---

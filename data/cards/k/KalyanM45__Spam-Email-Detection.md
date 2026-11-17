@@ -1,6 +1,6 @@
 # KalyanM45/Spam-Email-Detection
 
-⭐ 37 · Jupyter Notebook · 推送 2025-12-25 · [GitHub](https://github.com/KalyanM45/Spam-Email-Detection) · 个人维护
+⭐ 38 · Jupyter Notebook · 推送 2025-12-25 · [GitHub](https://github.com/KalyanM45/Spam-Email-Detection) · 个人维护
 
 **垃圾邮件分类系统：多模型训练与 Streamlit 交互界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KalyanM45/Spam-Email-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    title "KalyanM45/Spam-Email-Detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 36 --> 39
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 37（+0）
+2026-10-18 37 → 2026-11-17 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shuyu-labs/AntSK
 
-⭐ 1,329 · CSS · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/shuyu-labs/AntSK) · [官网](https://antsk.cn) · 组织维护 · 中文 README
+⭐ 1,331 · CSS · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/shuyu-labs/AntSK) · [官网](https://antsk.cn) · 组织维护 · 中文 README
 
 **面向企业的 .NET 9 AI 知识库/智能体平台，支持全链路离线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuyu-labs/AntSK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 1326 --> 1330
-    line [1327, 1328, 1329, 1329]
+    title "shuyu-labs/AntSK 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1326 --> 1332
+    line [1327, 1328, 1329, 1327, 1330, 1331, 1331]
 ```
 
-2026-10-18 1,327 → 2026-11-02 1,329（+2）
+2026-10-18 1,327 → 2026-11-17 1,331（+4）
 
 
 ---

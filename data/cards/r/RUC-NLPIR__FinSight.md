@@ -1,6 +1,6 @@
 # RUC-NLPIR/FinSight
 
-⭐ 278 · Jupyter Notebook · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/RUC-NLPIR/FinSight) · 组织维护 · 中文 README
+⭐ 280 · Jupyter Notebook · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/RUC-NLPIR/FinSight) · 组织维护 · 中文 README
 
 **输入股票代码即自动产出金融深度研究报告的多智能体系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RUC-NLPIR/FinSight 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 274 --> 279
-    line [275, 276, 277, 278, 278]
+    title "RUC-NLPIR/FinSight 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 274 --> 281
+    line [275, 276, 277, 278, 276, 278, 279, 280, 280]
 ```
 
-2026-10-18 275 → 2026-11-02 278（+3）
+2026-10-18 275 → 2026-11-17 280（+5）
 
 
 ---

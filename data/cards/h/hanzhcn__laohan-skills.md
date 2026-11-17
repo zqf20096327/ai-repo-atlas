@@ -1,6 +1,6 @@
 # hanzhcn/laohan-skills
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hanzhcn/laohan-skills) · [官网](https://github.com/hanzhcn/laohan-skills/releases) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hanzhcn/laohan-skills) · [官网](https://github.com/hanzhcn/laohan-skills/releases) · 个人维护 · 中文 README
 
 **内容创作者的 Agent 技能包：22+ 技能覆盖选题到发布全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanzhcn/laohan-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 12 --> 16
-    line [13, 15, 15]
+    title "hanzhcn/laohan-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 12 --> 18
+    line [13, 15, 16, 17, 17]
 ```
 
-2026-10-18 13 → 2026-11-02 15（+2）
+2026-10-18 13 → 2026-11-17 17（+4）
 
 
 ---

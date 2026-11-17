@@ -1,6 +1,6 @@
 # mankidev/codixel
 
-⭐ 35 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mankidev/codixel) · 个人维护
+⭐ 199 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mankidev/codixel) · 个人维护
 
 **Claude Code 像素画技能包：教 AI 从参考图生成游戏精灵动画**
 
@@ -39,6 +39,18 @@
 
 > L5: Codixel is a Claude Code skill for making pixel art with AI: game sprites, characters, animations and effects like f
 > L87: git clone https://github.com/mankidev/codixel ~/.claude/skills/codixel
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mankidev/codixel 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 215
+    line [35, 145, 158, 161, 164, 170, 182, 189, 199, 199]
+```
+
+2026-11-02 35 → 2026-11-17 199（+164）
 
 
 ---

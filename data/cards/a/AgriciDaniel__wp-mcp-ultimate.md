@@ -1,6 +1,6 @@
 # AgriciDaniel/wp-mcp-ultimate
 
-⭐ 169 · PHP · GPL-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/AgriciDaniel/wp-mcp-ultimate) · [官网](https://agricidaniel.com/blog/wp-mcp-ultimate-wordpress-ai-plugin) · 个人维护
+⭐ 172 · PHP · GPL-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/AgriciDaniel/wp-mcp-ultimate) · [官网](https://agricidaniel.com/blog/wp-mcp-ultimate-wordpress-ai-plugin) · 个人维护
 
 **WordPress 的 MCP 服务器插件：让 AI 客户端直接管理站点内容**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/wp-mcp-ultimate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 166 --> 170
-    line [167, 168, 169, 169]
+    title "AgriciDaniel/wp-mcp-ultimate 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 166 --> 173
+    line [167, 168, 169, 168, 170, 171, 172, 172]
 ```
 
-2026-10-18 167 → 2026-11-02 169（+2）
+2026-10-18 167 → 2026-11-17 172（+5）
 
 
 ---

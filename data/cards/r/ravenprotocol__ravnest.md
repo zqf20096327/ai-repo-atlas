@@ -1,6 +1,6 @@
 # ravenprotocol/ravnest
 
-⭐ 11 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ravenprotocol/ravnest) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ravenprotocol/ravnest) · 组织维护
 
 **面向研究者的去中心化异步分布式深度学习训练框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ravenprotocol/ravnest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

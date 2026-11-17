@@ -1,6 +1,6 @@
 # ZhijieXiong/pyedmine
 
-⭐ 82 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZhijieXiong/pyedmine) · [官网](https://zhijiexiong.github.io/sub-page/pyedmine/document/site/index.html) · 个人维护 · 中文 README
+⭐ 85 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZhijieXiong/pyedmine) · [官网](https://zhijiexiong.github.io/sub-page/pyedmine/document/site/index.html) · 个人维护 · 中文 README
 
 **教育数据挖掘代码库：知识追踪等四类模型的复现与评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhijieXiong/pyedmine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    title "ZhijieXiong/pyedmine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 81 --> 86
+    line [82, 84, 85, 85]
 ```
 
-2026-10-18 82 → 2026-11-02 82（+0）
+2026-10-18 82 → 2026-11-17 85（+3）
 
 
 ---

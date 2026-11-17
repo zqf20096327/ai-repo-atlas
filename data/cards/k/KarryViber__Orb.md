@@ -1,6 +1,6 @@
 # KarryViber/Orb
 
-⭐ 65 · JavaScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/KarryViber/Orb) · 个人维护
+⭐ 66 · JavaScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/KarryViber/Orb) · 个人维护
 
 **包裹 Claude Code CLI 的多配置消息外壳：路由、记忆与 Slack 集成**
 
@@ -45,13 +45,13 @@ Orb 是围绕 Claude Code CLI 的消息路由层：从平台适配器（当前�
 
 ```mermaid
 xychart-beta
-    title "KarryViber/Orb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    title "KarryViber/Orb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 64 --> 67
+    line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-11-02 65（+0）
+2026-10-18 65 → 2026-11-17 66（+1）
 
 
 ---

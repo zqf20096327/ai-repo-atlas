@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/AI-Automation
 
-⭐ 43 · 推送 2026-04-22 · [GitHub](https://github.com/mirzayasirabdullahbaig07/AI-Automation) · 个人维护
+⭐ 42 · 推送 2026-04-22 · [GitHub](https://github.com/mirzayasirabdullahbaig07/AI-Automation) · 个人维护
 
 **面向开发者的 n8n AI 自动化工作流教程仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/AI-Automation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "mirzayasirabdullahbaig07/AI-Automation 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
     y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    line [42, 43, 42, 43, 42, 42]
 ```
 
-2026-10-18 42 → 2026-11-02 43（+1）
+2026-10-18 42 → 2026-11-17 42（+0）
 
 
 ---

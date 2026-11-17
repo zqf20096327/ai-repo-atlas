@@ -1,6 +1,6 @@
 # Yosef-Ali/ERPNext-AI-Agent-Project
 
-⭐ 21 · Python · 推送 2026-05-05 · [GitHub](https://github.com/Yosef-Ali/ERPNext-AI-Agent-Project) · 个人维护
+⭐ 22 · Python · 推送 2026-05-05 · [GitHub](https://github.com/Yosef-Ali/ERPNext-AI-Agent-Project) · 个人维护
 
 **面向 ERPNext 的多智能体 AI 助手：语义检索与文档处理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yosef-Ali/ERPNext-AI-Agent-Project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Yosef-Ali/ERPNext-AI-Agent-Project 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheFutureGadgetsLab/WaifuXL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 183 --> 185
-    line [184, 184]
+    title "TheFutureGadgetsLab/WaifuXL 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 183 --> 186
+    line [184, 185, 184, 184]
 ```
 
-2026-10-18 184 → 2026-11-02 184（+0）
+2026-10-18 184 → 2026-11-17 184（+0）
 
 
 ---

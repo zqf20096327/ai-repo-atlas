@@ -1,6 +1,6 @@
 # trustabl/trustabl-vscode
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/trustabl/trustabl-vscode) · 组织维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/trustabl/trustabl-vscode) · 组织维护
 
 **VS Code/Cursor 扩展：保存时扫描 AI agent 代码的可靠性问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trustabl/trustabl-vscode 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 19 --> 26
-    line [20, 25, 25]
+    title "trustabl/trustabl-vscode 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 28
+    line [20, 25, 20, 26, 27, 27]
 ```
 
-2026-10-23 20 → 2026-11-02 25（+5）
+2026-10-23 20 → 2026-11-17 27（+7）
 
 
 ---

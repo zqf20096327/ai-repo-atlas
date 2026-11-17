@@ -1,6 +1,6 @@
 # IgorAherne/StableProjectorz
 
-⭐ 130 · C# · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/IgorAherne/StableProjectorz) · [官网](https://stableprojectorz.com) · 个人维护
+⭐ 136 · C# · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/IgorAherne/StableProjectorz) · [官网](https://stableprojectorz.com) · 个人维护
 
 **基于 Unity 的工具：用 Stable Diffusion 为 3D 模型生成贴图与模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "IgorAherne/StableProjectorz 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 123 --> 131
-    line [124, 125, 127, 128, 129, 130, 130]
+    title "IgorAherne/StableProjectorz 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 123 --> 137
+    line [124, 125, 127, 128, 129, 130, 128, 131, 135, 136, 136]
 ```
 
-2026-10-18 124 → 2026-11-02 130（+6）
+2026-10-18 124 → 2026-11-17 136（+12）
 
 
 ---

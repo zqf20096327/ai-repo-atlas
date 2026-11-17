@@ -1,6 +1,6 @@
 # zendev-sh/zenflow
 
-⭐ 56 · Go · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/zendev-sh/zenflow) · [官网](https://zenflow.sh) · 组织维护
+⭐ 59 · Go · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/zendev-sh/zenflow) · [官网](https://zenflow.sh) · 组织维护
 
 **多 agent 编排与工作流引擎：YAML 声明式 DAG + LLM 协调者**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zendev-sh/zenflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    title "zendev-sh/zenflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 55 --> 60
+    line [56, 59, 59]
 ```
 
-2026-10-18 56 → 2026-11-02 56（+0）
+2026-10-18 56 → 2026-11-17 59（+3）
 
 
 ---

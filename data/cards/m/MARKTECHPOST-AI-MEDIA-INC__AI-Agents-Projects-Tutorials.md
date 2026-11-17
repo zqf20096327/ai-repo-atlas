@@ -1,6 +1,6 @@
 # MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
 
-⭐ 2,943 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) · [官网](https://marktechpost.com/) · 组织维护
+⭐ 2,950 · Jupyter Notebook · 推送 2026-11-06 · [GitHub](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) · [官网](https://marktechpost.com/) · 组织维护
 
 **Agentic AI 与 AI Agent 教程及代码实现的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2926 --> 2944
-    line [2927, 2930, 2929, 2930, 2933, 2937, 2939, 2940, 2941, 2943]
+    title "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 2925 --> 2952
+    line [2927, 2930, 2929, 2930, 2933, 2937, 2939, 2940, 2941, 2943, 2933, 2947, 2948, 2949, 2950, 2950]
 ```
 
-2026-10-18 2,927 → 2026-11-02 2,943（+16）
+2026-10-18 2,927 → 2026-11-17 2,950（+23）
 
 
 ---

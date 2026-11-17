@@ -1,6 +1,6 @@
 # omnichar/ComfyUI-Omnichar
 
-⭐ 98 · Python · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/omnichar/ComfyUI-Omnichar) · [官网](https://omnichar.org) · 组织维护
+⭐ 139 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/omnichar/ComfyUI-Omnichar) · [官网](https://omnichar.org) · 组织维护
 
 **ComfyUI 节点包：用 .char 格式跨模型保持角色一致性**
 
@@ -45,13 +45,13 @@ Omnichar 官方的 ComfyUI 自定义节点集，读取与生成 .char 角色文�
 
 ```mermaid
 xychart-beta
-    title "omnichar/ComfyUI-Omnichar 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 86 --> 99
-    line [87, 89, 92, 93, 95, 96, 98, 98]
+    title "omnichar/ComfyUI-Omnichar 星数(近 14 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 82 --> 144
+    line [87, 89, 92, 93, 95, 96, 98, 96, 132, 136, 137, 138, 139, 139]
 ```
 
-2026-10-18 87 → 2026-11-02 98（+11）
+2026-10-18 87 → 2026-11-17 139（+52）
 
 
 ---

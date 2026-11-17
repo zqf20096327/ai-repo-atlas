@@ -1,6 +1,6 @@
 # e0ipso/strikethroo
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/e0ipso/strikethroo) · [官网](https://strikethroo.canpicasoft.com) · 个人维护
+⭐ 61 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/e0ipso/strikethroo) · [官网](https://strikethroo.canpicasoft.com) · 个人维护
 
 **AI 编程助手的规格驱动任务管理框架：计划审批+原子任务+复核门**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "e0ipso/strikethroo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    title "e0ipso/strikethroo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 61, 61]
 ```
 
-2026-10-18 58 → 2026-11-02 58（+0）
+2026-10-18 58 → 2026-11-17 61（+3）
 
 
 ---

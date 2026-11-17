@@ -1,6 +1,6 @@
 # Tuntii/RustAPI
 
-⭐ 63 · Rust · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Tuntii/RustAPI) · [官网](https://rustapi.cloud) · 组织维护
+⭐ 65 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/Tuntii/RustAPI) · [官网](https://rustapi.cloud) · 组织维护
 
 **Rust Web 框架：编译期路由、自动 OpenAPI、内建 MCP/LLM 支持**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tuntii/RustAPI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 62 --> 65
-    line [64, 63, 63]
+    title "Tuntii/RustAPI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 62 --> 66
+    line [64, 63, 64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 63（-1）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

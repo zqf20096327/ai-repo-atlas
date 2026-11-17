@@ -1,6 +1,6 @@
 # savantskie/persistent-ai-memory
 
-⭐ 236 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/savantskie/persistent-ai-memory) · 个人维护
+⭐ 237 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/savantskie/persistent-ai-memory) · 个人维护
 
 **给 AI 助手的本地持久记忆系统：SQLite 存储与语义检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "savantskie/persistent-ai-memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 234 --> 237
-    line [236, 235, 236, 236]
+    title "savantskie/persistent-ai-memory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 234 --> 238
+    line [236, 235, 236, 235, 236, 237, 237]
 ```
 
-2026-10-18 236 → 2026-11-02 236（+0）
+2026-10-18 236 → 2026-11-17 237（+1）
 
 
 ---

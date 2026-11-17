@@ -1,6 +1,6 @@
 # zhiweio/EagleRAG
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/zhiweio/EagleRAG) · [官网](https://zhiweio.github.io/EagleRAG/) · 组织维护 · 中文 README
+⭐ 31 · Python · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/zhiweio/EagleRAG) · [官网](https://zhiweio.github.io/EagleRAG/) · 组织维护 · 中文 README
 
 **给企业的多租户多模态 RAG 平台：语义+视觉双路检索并带引用生成**
 
@@ -45,13 +45,13 @@ Eagle-RAG 是面向企业场景的 RAG 平台：接入 PDF、Office、扫描件�
 
 ```mermaid
 xychart-beta
-    title "zhiweio/EagleRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "zhiweio/EagleRAG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 32
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 31（+1）
 
 
 ---

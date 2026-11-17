@@ -1,6 +1,6 @@
 # rryam/VecturaKit
 
-⭐ 326 · Swift · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rryam/VecturaKit) · 个人维护
+⭐ 329 · Swift · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rryam/VecturaKit) · 个人维护
 
 **Swift 设备端向量数据库，支持本地存储检索与混合搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rryam/VecturaKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 324 --> 327
-    line [325, 326, 326]
+    title "rryam/VecturaKit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 324 --> 330
+    line [325, 326, 325, 327, 328, 329, 329]
 ```
 
-2026-10-18 325 → 2026-11-02 326（+1）
+2026-10-18 325 → 2026-11-17 329（+4）
 
 
 ---

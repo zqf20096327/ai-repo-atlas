@@ -1,6 +1,6 @@
 # loayabdalslam/NeuroOS
 
-⭐ 70 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/loayabdalslam/NeuroOS) · 个人维护
+⭐ 74 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/loayabdalslam/NeuroOS) · 个人维护
 
 **AI 驱动的桌面环境：Electron 桌面系统内置 AI 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "loayabdalslam/NeuroOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    title "loayabdalslam/NeuroOS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 69 --> 75
+    line [70, 73, 74, 74]
 ```
 
-2026-10-18 70 → 2026-11-02 70（+0）
+2026-10-18 70 → 2026-11-17 74（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mateusz-Dera/ROCm-AI-Installer
 
-⭐ 52 · Shell · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Mateusz-Dera/ROCm-AI-Installer) · 个人维护
+⭐ 51 · Shell · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Mateusz-Dera/ROCm-AI-Installer) · 个人维护
 
 **AMD GPU (ROCm) 上安装各类 AI 应用的 Linux 一键安装脚本集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mateusz-Dera/ROCm-AI-Installer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "Mateusz-Dera/ROCm-AI-Installer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 50 --> 53
+    line [52, 51, 51]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 51（-1）
 
 
 ---

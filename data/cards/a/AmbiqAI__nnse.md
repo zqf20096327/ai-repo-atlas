@@ -1,6 +1,6 @@
 # AmbiqAI/nnse
 
-⭐ 44 · C · BSD-3-Clause · 推送 2025-11-13 · [GitHub](https://github.com/AmbiqAI/nnse) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Ambiq 低功耗平台的神经网络语音降噪模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmbiqAI/nnse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-11-02 44（+0）
+2026-10-18 44 → 2026-11-08 44（+0）
 
 
 ---

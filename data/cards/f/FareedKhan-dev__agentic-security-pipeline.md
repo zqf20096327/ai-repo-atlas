@@ -1,6 +1,6 @@
 # FareedKhan-dev/agentic-security-pipeline
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2026-06-16 · [GitHub](https://github.com/FareedKhan-dev/agentic-security-pipeline) · [官网](https://medium.com/@fareedkhandev/building-an-agentic-security-pipeline-that-finds-proves-and-patches-vulnerabilities-6156aeb4b46f) · 个人维护
+⭐ 19 · Jupyter Notebook · MIT · 推送 2026-06-16 · [GitHub](https://github.com/FareedKhan-dev/agentic-security-pipeline) · [官网](https://medium.com/@fareedkhandev/building-an-agentic-security-pipeline-that-finds-proves-and-patches-vulnerabilities-6156aeb4b46f) · 个人维护
 
 **用 7B 开源模型端到端发现、证明并修补 C 内存安全漏洞的流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/agentic-security-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "FareedKhan-dev/agentic-security-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

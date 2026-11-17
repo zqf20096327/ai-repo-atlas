@@ -1,6 +1,6 @@
 # jsksxs360/How-to-use-Transformers
 
-⭐ 1,896 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/jsksxs360/How-to-use-Transformers) · [官网](https://transformers.run/) · 个人维护 · 中文 README
+⭐ 1,894 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/jsksxs360/How-to-use-Transformers) · [官网](https://transformers.run/) · 个人维护 · 中文 README
 
 **《Transformers 库快速入门》教程配套代码仓库**
 
@@ -43,13 +43,13 @@ Hugging Face Transformers 库的中文入门教程代码仓库，按 data 与 sr
 
 ```mermaid
 xychart-beta
-    title "jsksxs360/How-to-use-Transformers 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 1894 --> 1897
-    line [1895, 1896, 1895, 1896, 1895, 1896, 1896]
+    title "jsksxs360/How-to-use-Transformers 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 1891 --> 1897
+    line [1895, 1896, 1895, 1896, 1895, 1896, 1892, 1893, 1894, 1894]
 ```
 
-2026-10-18 1,895 → 2026-11-02 1,896（+1）
+2026-10-18 1,895 → 2026-11-17 1,894（-1）
 
 
 ---

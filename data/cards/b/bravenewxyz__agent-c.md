@@ -1,6 +1,6 @@
 # bravenewxyz/agent-c
 
-⭐ 443 · C · 推送 2026-03-05 · [GitHub](https://github.com/bravenewxyz/agent-c) · [官网](https://bravenew.xyz) · 个人维护
+⭐ 444 · C · 推送 2026-03-05 · [GitHub](https://github.com/bravenewxyz/agent-c) · [官网](https://bravenew.xyz) · 个人维护
 
 **C 语言编写的超轻量 AI Agent，接入 OpenRouter 执行 shell 命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bravenewxyz/agent-c 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 441 --> 444
-    line [442, 443, 443]
+    title "bravenewxyz/agent-c 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 441 --> 445
+    line [442, 443, 444, 444]
 ```
 
-2026-10-18 442 → 2026-11-02 443（+1）
+2026-10-18 442 → 2026-11-17 444（+2）
 
 
 ---

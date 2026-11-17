@@ -1,6 +1,6 @@
 # chsiang426/ML-2021-notes
 
-⭐ 609 · 推送 2026-08-16 · [GitHub](https://github.com/chsiang426/ML-2021-notes) · [官网](https://chsiang426.github.io/ML-2021-notes/) · 个人维护 · 中文 README
+⭐ 610 · 推送 2026-08-16 · [GitHub](https://github.com/chsiang426/ML-2021-notes) · [官网](https://chsiang426.github.io/ML-2021-notes/) · 个人维护 · 中文 README
 
 **李宏毅机器学习 2021 春季课程中文笔记合集（15 章）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chsiang426/ML-2021-notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
+    title "chsiang426/ML-2021-notes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 606 --> 611
-    line [607, 610, 609, 609]
+    line [607, 610, 609, 610, 609, 610, 610]
 ```
 
-2026-10-18 607 → 2026-11-02 609（+2）
+2026-10-18 607 → 2026-11-17 610（+3）
 
 
 ---

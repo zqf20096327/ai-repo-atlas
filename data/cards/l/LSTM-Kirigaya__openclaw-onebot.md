@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/openclaw-onebot
 
-⭐ 143 · TypeScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/LSTM-Kirigaya/openclaw-onebot) · 个人维护 · 中文 README
+⭐ 144 · TypeScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/LSTM-Kirigaya/openclaw-onebot) · 个人维护 · 中文 README
 
 **OpenClaw 的 OneBot v11 渠道插件，用于 QQ 接入 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LSTM-Kirigaya/openclaw-onebot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "LSTM-Kirigaya/openclaw-onebot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-17"]
     y-axis "stars" 142 --> 145
-    line [144, 143, 143]
+    line [144, 143, 144, 144]
 ```
 
-2026-10-18 144 → 2026-11-02 143（-1）
+2026-10-18 144 → 2026-11-17 144（+0）
 
 
 ---

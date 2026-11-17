@@ -1,6 +1,6 @@
 # krasserm/bayesian-machine-learning
 
-⭐ 1,920 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/krasserm/bayesian-machine-learning) · 个人维护
+⭐ 1,921 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/krasserm/bayesian-machine-learning) · 个人维护
 
 **贝叶斯机器学习方法的教学笔记本合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "krasserm/bayesian-machine-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 1918 --> 1921
-    line [1919, 1920, 1920]
+    title "krasserm/bayesian-machine-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1918 --> 1922
+    line [1919, 1920, 1919, 1920, 1921, 1921]
 ```
 
-2026-10-18 1,919 → 2026-11-02 1,920（+1）
+2026-10-18 1,919 → 2026-11-17 1,921（+2）
 
 
 ---

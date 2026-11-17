@@ -1,6 +1,6 @@
 # vibheksoni/UniClaudeProxy
 
-⭐ 62 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/vibheksoni/UniClaudeProxy) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/vibheksoni/UniClaudeProxy) · 个人维护
 
 **让 Claude Code 接入任意 LLM 后端的 Anthropic API 代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vibheksoni/UniClaudeProxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "vibheksoni/UniClaudeProxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 61 --> 64
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 63（+1）
 
 
 ---

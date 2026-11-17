@@ -1,6 +1,6 @@
 # cyberdaddyleo/AItoubiao
 
-⭐ 15 · Python · 推送 2026-10-17 · [GitHub](https://github.com/cyberdaddyleo/AItoubiao) · 个人维护 · 中文 README
+⭐ 24 · Python · 推送 2026-10-17 · [GitHub](https://github.com/cyberdaddyleo/AItoubiao) · 个人维护 · 中文 README
 
 **面向企业的政府采购投标全流程管理系统，AI 起草标书技术方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyberdaddyleo/AItoubiao 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2 --> 16
-    line [3, 6, 8, 11, 14, 15]
+    title "cyberdaddyleo/AItoubiao 星数(近 11 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 1 --> 26
+    line [3, 6, 8, 11, 14, 15, 6, 22, 23, 24, 24]
 ```
 
-2026-10-23 3 → 2026-11-02 15（+12）
+2026-10-23 3 → 2026-11-17 24（+21）
 
 
 ---

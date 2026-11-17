@@ -1,6 +1,6 @@
 # Renumics/mesh2vec
 
-⭐ 17 · KFramework · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Renumics/mesh2vec) · 组织维护
+⭐ 17 · KFramework · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Renumics/mesh2vec) · 组织维护
 
 **将 LS-DYNA CAE 网格数据转为等长单元特征向量供机器学习使用**
 
@@ -42,12 +42,12 @@ Python 库，读取 LS-DYNA 的 CAE 网格数据（经由 ANSA 接口），计�
 ```mermaid
 xychart-beta
     title "Renumics/mesh2vec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

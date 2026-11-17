@@ -1,6 +1,6 @@
 # allannuwamanya/open-data-uganda
 
-⭐ 14 · JavaScript · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/allannuwamanya/open-data-uganda) · [官网](https://opendata-ug.pages.dev) · 组织维护
+⭐ 18 · JavaScript · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/allannuwamanya/open-data-uganda) · [官网](https://opendata-ug.pages.dev) · 组织维护
 
 **乌干达公开数据集中心：14 个领域 15,806 条机器可读数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "allannuwamanya/open-data-uganda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "allannuwamanya/open-data-uganda 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 19
+    line [14, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 18（+4）
 
 
 ---

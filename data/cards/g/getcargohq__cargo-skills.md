@@ -1,6 +1,6 @@
 # getcargohq/cargo-skills
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/getcargohq/cargo-skills) · [官网](https://getcargo.ai) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/getcargohq/cargo-skills) · [官网](https://getcargo.ai) · 组织维护
 
 **给 AI 编码代理的 19 个 GTM 工程技能包：拓客与销售数据工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "getcargohq/cargo-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    title "getcargohq/cargo-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 20, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-02 21（+2）
+2026-10-18 19 → 2026-11-17 22（+3）
 
 
 ---

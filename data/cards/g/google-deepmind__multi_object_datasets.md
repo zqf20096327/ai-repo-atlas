@@ -1,6 +1,6 @@
 # google-deepmind/multi_object_datasets
 
-⭐ 290 · Python · Apache-2.0 · 推送 2026-03-03 · [GitHub](https://github.com/google-deepmind/multi_object_datasets) · 组织维护
+⭐ 289 · Python · Apache-2.0 · 推送 2026-03-03 · [GitHub](https://github.com/google-deepmind/multi_object_datasets) · 组织维护
 
 **多物体场景表示学习数据集：带真值分割掩码与生成因子**
 
@@ -44,13 +44,13 @@ DeepMind 发布的多物体表示学习数据集合集，含 Multi-dSprites、Ob
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/multi_object_datasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 289 --> 291
-    line [290, 290]
+    title "google-deepmind/multi_object_datasets 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 288 --> 291
+    line [290, 289, 289]
 ```
 
-2026-10-18 290 → 2026-11-02 290（+0）
+2026-10-18 290 → 2026-11-17 289（-1）
 
 
 ---

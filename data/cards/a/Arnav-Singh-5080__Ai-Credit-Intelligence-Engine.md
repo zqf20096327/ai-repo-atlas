@@ -1,6 +1,6 @@
 # Arnav-Singh-5080/Ai-Credit-Intelligence-Engine
 
-⭐ 15 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine) · [官网](https://credit-intelligence-ai.streamlit.app/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine) · [官网](https://credit-intelligence-ai.streamlit.app/) · 个人维护
 
 **面向贷款申请的信用风险评估与准入预测平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arnav-Singh-5080/Ai-Credit-Intelligence-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "Arnav-Singh-5080/Ai-Credit-Intelligence-Engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 14（-1）
 
 
 ---

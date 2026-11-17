@@ -1,6 +1,6 @@
 # fintechees/Expert-Advisor-Studio
 
-⭐ 364 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/fintechees/Expert-Advisor-Studio) · [官网](https://www.fintechee.com/web-trader/) · 组织维护 · 中文 README
+⭐ 367 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/fintechees/Expert-Advisor-Studio) · [官网](https://www.fintechee.com/web-trader/) · 组织维护 · 中文 README
 
 **浏览器端外汇/加密 EA（交易机器人）开发与自动交易平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fintechees/Expert-Advisor-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 363 --> 365
-    line [364, 364]
+    title "fintechees/Expert-Advisor-Studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 363 --> 368
+    line [364, 365, 366, 367, 367]
 ```
 
-2026-10-18 364 → 2026-11-02 364（+0）
+2026-10-18 364 → 2026-11-17 367（+3）
 
 
 ---

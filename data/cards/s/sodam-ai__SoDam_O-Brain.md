@@ -1,6 +1,6 @@
 # sodam-ai/SoDam_O-Brain
 
-⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/sodam-ai/SoDam_O-Brain) · 组织维护
+⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/sodam-ai/SoDam_O-Brain) · 组织维护
 
 **给 Claude Code 用户的本地记忆工具：自动存决策、图谱可视化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sodam-ai/SoDam_O-Brain 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-02"]
+    title "sodam-ai/SoDam_O-Brain 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 21
-    line [15, 16, 18, 20, 19, 19]
+    line [15, 16, 18, 20, 19, 18, 19, 19]
 ```
 
-2026-10-18 15 → 2026-11-02 19（+4）
+2026-10-18 15 → 2026-11-17 19（+4）
 
 
 ---

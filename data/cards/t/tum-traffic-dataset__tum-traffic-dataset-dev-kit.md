@@ -1,6 +1,6 @@
 # tum-traffic-dataset/tum-traffic-dataset-dev-kit
 
-⭐ 102 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) · [官网](https://innovation-mobility.com/tumtraf-dataset) · 组织维护
+⭐ 104 · Python · MIT · 推送 2026-04-24 · [GitHub](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) · [官网](https://innovation-mobility.com/tumtraf-dataset) · 组织维护
 
 **TUM 交通数据集官方开发工具：数据加载、可视化与评测脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tum-traffic-dataset/tum-traffic-dataset-dev-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "tum-traffic-dataset/tum-traffic-dataset-dev-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 101 --> 105
+    line [102, 103, 104, 104]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 104（+2）
 
 
 ---

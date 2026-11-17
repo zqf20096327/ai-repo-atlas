@@ -1,6 +1,6 @@
 # inboxpraveen/Context-Search-Engine
 
-⭐ 14 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/Context-Search-Engine) · [官网](https://inboxpraveen.github.io/projects/project-1.html) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/Context-Search-Engine) · [官网](https://inboxpraveen.github.io/projects/project-1.html) · 个人维护
 
 **自托管文档混合搜索引擎：BM25+向量检索，结果带出处与排名理由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inboxpraveen/Context-Search-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "inboxpraveen/Context-Search-Engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 17
+    line [14, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 16（+2）
 
 
 ---

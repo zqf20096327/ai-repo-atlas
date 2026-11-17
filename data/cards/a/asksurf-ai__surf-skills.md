@@ -1,6 +1,6 @@
 # asksurf-ai/surf-skills
 
-⭐ 77 · 推送 2026-07-27 · [GitHub](https://github.com/asksurf-ai/surf-skills) · [官网](https://skills.sh/asksurf-ai/surf-skills/surf) · 组织维护
+⭐ 77 · 推送 2026-11-02 · [GitHub](https://github.com/asksurf-ai/surf-skills) · [官网](https://skills.sh/asksurf-ai/surf-skills/surf) · 组织维护
 
 **让 AI agent 查询加密市场与链上数据的技能包（83+ 端点）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asksurf-ai/surf-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 72 --> 78
-    line [74, 73, 74, 75, 76, 77, 77]
+    title "asksurf-ai/surf-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 72 --> 79
+    line [74, 73, 74, 75, 76, 77, 73, 77, 78, 77, 77]
 ```
 
-2026-10-18 74 → 2026-11-02 77（+3）
+2026-10-18 74 → 2026-11-17 77（+3）
 
 
 ---

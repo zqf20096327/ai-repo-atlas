@@ -1,6 +1,6 @@
 # ErikBjare/thesis
 
-⭐ 89 · Python · 推送 2026-09-16 · [GitHub](https://github.com/ErikBjare/thesis) · [官网](https://erik.bjareholt.com/thesis/) · 个人维护
+⭐ 90 · Python · 推送 2026-11-13 · [GitHub](https://github.com/ErikBjare/thesis) · [官网](https://erik.bjareholt.com/thesis/) · 个人维护
 
 **硕士论文代码：用 EEG 与自动时间追踪区分用户电脑活动**
 
@@ -44,13 +44,13 @@ MSc 论文配套研究代码库：研究用脑电（EEG）区分用户在设备�
 
 ```mermaid
 xychart-beta
-    title "ErikBjare/thesis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    title "ErikBjare/thesis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 88 --> 91
+    line [89, 90, 90]
 ```
 
-2026-10-18 89 → 2026-11-02 89（+0）
+2026-10-18 89 → 2026-11-17 90（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile
 
-⭐ 49 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile) · [官网](https://hermesagenttools.com/) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile) · [官网](https://hermesagenttools.com/) · 个人维护
 
 **Hermes Agent 的诊断型配置档：诊断并安全修复 Agent 故障**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile 星数(近 7 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 46 --> 54
+    line [47, 48, 49, 51, 52, 53, 53]
 ```
 
-2026-10-28 47 → 2026-11-02 49（+2）
+2026-10-28 47 → 2026-11-17 53（+6）
 
 
 ---

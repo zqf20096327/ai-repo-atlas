@@ -1,6 +1,6 @@
 # Onion99/Agro
 
-⭐ 16 · Kotlin · GPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/Onion99/Agro) · [官网](https://github.com/Onion99/Agro/releases) · 个人维护 · 中文 README
+⭐ 16 · Kotlin · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Onion99/Agro) · [官网](https://github.com/Onion99/Agro/releases) · 个人维护 · 中文 README
 
 **跨平台本地 LLM 与 Agent 聊天客户端，数据全程在设备上**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Onion99/Agro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "Onion99/Agro 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [16, 15, 16, 17, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

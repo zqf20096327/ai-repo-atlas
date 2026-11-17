@@ -1,6 +1,6 @@
 # khelverskovp/atom-jepa
 
-⭐ 12 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/khelverskovp/atom-jepa) · [官网](https://arxiv.org/abs/2610.08400) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/khelverskovp/atom-jepa) · [官网](https://arxiv.org/abs/2610.08400) · 组织维护
 
 **3D 原子体系的自监督预训练模型：分子与晶体嵌入及性质预测**
 
@@ -44,13 +44,13 @@ Atom-JEPA 是面向 3D 原子体系（分子与无机晶体）的自监督预训
 
 ```mermaid
 xychart-beta
-    title "khelverskovp/atom-jepa 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 7 --> 13
-    line [8, 10, 12, 12]
+    title "khelverskovp/atom-jepa 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 7 --> 16
+    line [8, 10, 12, 14, 15, 15]
 ```
 
-2026-10-18 8 → 2026-11-02 12（+4）
+2026-10-18 8 → 2026-11-17 15（+7）
 
 
 ---

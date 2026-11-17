@@ -1,6 +1,6 @@
 # exileum/meta-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/exileum/meta-mcp) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/exileum/meta-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 管理 Instagram/Threads 账号的服务器**
 
@@ -46,13 +46,13 @@ MCP 服务器，向 Claude Desktop、Claude Code 等 AI 客户端暴露 58 个�
 
 ```mermaid
 xychart-beta
-    title "exileum/meta-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "exileum/meta-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

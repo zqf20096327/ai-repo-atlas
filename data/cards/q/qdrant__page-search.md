@@ -1,6 +1,6 @@
 # qdrant/page-search
 
-⭐ 159 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/page-search) · 组织维护
+⭐ 160 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/qdrant/page-search) · 组织维护
 
 **为网站/文档提供毫秒级语义搜索的服务（Python 与 Rust 双实现）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/page-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "qdrant/page-search 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 158 --> 161
-    line [160, 159, 159]
+    line [160, 159, 160, 159, 160, 160]
 ```
 
-2026-10-18 160 → 2026-11-02 159（-1）
+2026-10-18 160 → 2026-11-17 160（+0）
 
 
 ---

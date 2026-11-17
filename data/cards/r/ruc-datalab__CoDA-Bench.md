@@ -1,6 +1,6 @@
 # ruc-datalab/CoDA-Bench
 
-⭐ 46 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ruc-datalab/CoDA-Bench) · [官网](https://coda-bench.github.io/) · 组织维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ruc-datalab/CoDA-Bench) · [官网](https://coda-bench.github.io/) · 组织维护 · 中文 README
 
 **评测代码智能体数据密集任务能力的基准（1,009 任务）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruc-datalab/CoDA-Bench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 45 --> 49
-    line [48, 47, 46, 46]
+    title "ruc-datalab/CoDA-Bench 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 43 --> 49
+    line [48, 47, 46, 44, 45, 45]
 ```
 
-2026-10-18 48 → 2026-11-02 46（-2）
+2026-10-18 48 → 2026-11-17 45（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # stubbi/hermes-operator
 
-⭐ 40 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/stubbi/hermes-operator) · [官网](https://paperclip.inc/hermes-agent) · 组织维护
+⭐ 43 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/stubbi/hermes-operator) · [官网](https://paperclip.inc/hermes-agent) · 组织维护
 
 **在 Kubernetes 上部署管理 hermes-agent AI 代理的 Operator**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stubbi/hermes-operator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    title "stubbi/hermes-operator 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 44
+    line [38, 39, 40, 39, 42, 43, 43]
 ```
 
-2026-10-18 38 → 2026-11-02 40（+2）
+2026-10-18 38 → 2026-11-17 43（+5）
 
 
 ---

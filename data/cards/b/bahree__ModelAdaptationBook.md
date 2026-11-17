@@ -1,6 +1,6 @@
 # bahree/ModelAdaptationBook
 
-⭐ 18 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bahree/ModelAdaptationBook) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bahree/ModelAdaptationBook) · 个人维护
 
 **《LLM Customization and Fine-Tuning》一书配套代码：开源权重 LLM 端到端适配**
 
@@ -45,13 +45,13 @@ Manning 出版社图书《LLM Customization and Fine-Tuning: Adaptation, Distill
 
 ```mermaid
 xychart-beta
-    title "bahree/ModelAdaptationBook 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 17, 18, 18]
+    title "bahree/ModelAdaptationBook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 17, 18, 16, 19, 19]
 ```
 
-2026-10-18 14 → 2026-11-02 18（+4）
+2026-10-18 14 → 2026-11-17 19（+5）
 
 
 ---

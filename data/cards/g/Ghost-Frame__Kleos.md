@@ -1,6 +1,6 @@
 # Ghost-Frame/Kleos
 
-⭐ 16 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Ghost-Frame/Kleos) · [官网](https://kleos.syntheos.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 认知基础设施：记忆、图谱、协调与安全的单体服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ghost-Frame/Kleos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-07 16（+0）
 
 
 ---

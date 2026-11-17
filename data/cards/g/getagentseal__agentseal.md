@@ -1,6 +1,6 @@
 # getagentseal/agentseal
 
-⭐ 380 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/getagentseal/agentseal) · [官网](https://agentseal.org) · 组织维护
+⭐ 384 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/getagentseal/agentseal) · [官网](https://agentseal.org) · 组织维护
 
 **AI agent 安全工具箱：扫描技能文件与 MCP 配置、测试提示注入抵抗力**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "getagentseal/agentseal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 376 --> 381
-    line [377, 379, 380, 379, 380, 380]
+    title "getagentseal/agentseal 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 376 --> 386
+    line [377, 379, 380, 379, 380, 382, 383, 384, 385, 384, 384]
 ```
 
-2026-10-18 377 → 2026-11-02 380（+3）
+2026-10-18 377 → 2026-11-17 384（+7）
 
 
 ---

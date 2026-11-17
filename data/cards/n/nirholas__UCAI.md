@@ -1,6 +1,6 @@
 # nirholas/UCAI
 
-⭐ 38 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/nirholas/UCAI) · [官网](https://ucai.tech) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把智能合约 ABI 一键生成为 MCP 服务器的 CLI 工具**
 
@@ -11,7 +11,7 @@ abi-to-mcp 是 UCAI（Universal Contract AI Interface）标准的参考实现：
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ abi-to-mcp 是 UCAI（Universal Contract AI Interface）标准的参考实现：
 ```mermaid
 xychart-beta
     title "nirholas/UCAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-10 38（+1）
 
 
 ---

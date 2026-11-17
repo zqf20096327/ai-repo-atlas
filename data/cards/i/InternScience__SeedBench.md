@@ -1,6 +1,6 @@
 # InternScience/SeedBench
 
-⭐ 25 · Python · GPL-3.0 · 推送 2025-12-19 · [GitHub](https://github.com/InternScience/SeedBench) · 组织维护 · 中文 README
+⭐ 26 · Python · GPL-3.0 · 推送 2025-12-19 · [GitHub](https://github.com/InternScience/SeedBench) · 组织维护 · 中文 README
 
 **种子科学（水稻育种）多任务 LLM 评测基准数据集与评测代码**
 
@@ -45,13 +45,13 @@ ACL 2025 论文配套的多任务基准，用于评测大语言模型在种子�
 
 ```mermaid
 xychart-beta
-    title "InternScience/SeedBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "InternScience/SeedBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

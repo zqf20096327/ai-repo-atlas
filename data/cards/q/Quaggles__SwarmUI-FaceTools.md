@@ -1,6 +1,6 @@
 # Quaggles/SwarmUI-FaceTools
 
-⭐ 28 · C# · MIT · 推送 2026-05-09 · [GitHub](https://github.com/Quaggles/SwarmUI-FaceTools) · 个人维护
+⭐ 29 · C# · MIT · 推送 2026-05-09 · [GitHub](https://github.com/Quaggles/SwarmUI-FaceTools) · 个人维护
 
 **SwarmUI 扩展：在生成页加入 ReActor 换脸参数**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Quaggles/SwarmUI-FaceTools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "Quaggles/SwarmUI-FaceTools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

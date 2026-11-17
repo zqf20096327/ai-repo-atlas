@@ -1,6 +1,6 @@
 # Aegis-plus/SillyTavern-Android
 
-⭐ 56 · Java · ISC · 推送 2026-02-03 · [GitHub](https://github.com/Aegis-plus/SillyTavern-Android) · 个人维护
+⭐ 57 · Java · ISC · 推送 2026-02-03 · [GitHub](https://github.com/Aegis-plus/SillyTavern-Android) · 个人维护
 
 **自托管 SillyTavern 的 Android WebView 启动器**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aegis-plus/SillyTavern-Android 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 52 --> 57
-    line [53, 54, 55, 56, 56]
+    title "Aegis-plus/SillyTavern-Android 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 52 --> 59
+    line [53, 54, 55, 56, 54, 57, 58, 57, 57]
 ```
 
-2026-10-18 53 → 2026-11-02 56（+3）
+2026-10-18 53 → 2026-11-17 57（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ravitemer/codecompanion-history.nvim
 
-⭐ 194 · Lua · MIT · 推送 2026-01-22 · [GitHub](https://github.com/ravitemer/codecompanion-history.nvim) · 个人维护
+⭐ 195 · Lua · MIT · 推送 2026-01-22 · [GitHub](https://github.com/ravitemer/codecompanion-history.nvim) · 个人维护
 
 **codecompanion.nvim 的会话历史管理扩展：保存、浏览、恢复 AI 聊天**
 
@@ -45,13 +45,13 @@ Neovim Lua 插件，作为 codecompanion.nvim 的扩展运行：自动或手动�
 
 ```mermaid
 xychart-beta
-    title "ravitemer/codecompanion-history.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 193 --> 195
-    line [194, 194]
+    title "ravitemer/codecompanion-history.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 193 --> 196
+    line [194, 195, 195]
 ```
 
-2026-10-18 194 → 2026-11-02 194（+0）
+2026-10-18 194 → 2026-11-17 195（+1）
 
 
 ---

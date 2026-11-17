@@ -1,6 +1,6 @@
 # huggingface/VLAb
 
-⭐ 206 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/huggingface/VLAb) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向研究者的 VLA 模型预训练库，SmolVLA 官方复现套件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/VLAb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 203 --> 207
-    line [204, 206, 206]
+    title "huggingface/VLAb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14"]
+    y-axis "stars" 203 --> 208
+    line [204, 206, 204, 207, 207]
 ```
 
-2026-10-18 204 → 2026-11-02 206（+2）
+2026-10-18 204 → 2026-11-14 207（+3）
 
 
 ---

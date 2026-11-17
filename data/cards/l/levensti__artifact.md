@@ -1,6 +1,6 @@
 # levensti/artifact
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/levensti/artifact) · [官网](https://withartifact.com) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/levensti/artifact) · [官网](https://withartifact.com) · 个人维护
 
 **面向研究者的 AI 论文发现与精读工作台**
 
@@ -44,13 +44,13 @@ MIT 许可的开放源码研究工作区：支持 ArXiv 论文、上传文档与
 
 ```mermaid
 xychart-beta
-    title "levensti/artifact 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "levensti/artifact 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

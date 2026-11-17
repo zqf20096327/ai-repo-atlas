@@ -1,6 +1,6 @@
 # chr5tphr/zennit
 
-⭐ 248 · Python · LGPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/chr5tphr/zennit) · 组织维护
+⭐ 249 · Python · LGPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/chr5tphr/zennit) · 组织维护
 
 **基于 PyTorch 的神经网络归因解释框架，聚焦 LRP**
 
@@ -45,13 +45,13 @@ Python 高层框架，通过在 PyTorch Module 层注册 hook 修改反向传播
 
 ```mermaid
 xychart-beta
-    title "chr5tphr/zennit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "chr5tphr/zennit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31", "2026-11-12", "2026-11-17"]
     y-axis "stars" 247 --> 250
-    line [248, 249, 248, 248]
+    line [248, 249, 248, 249, 249]
 ```
 
-2026-10-18 248 → 2026-11-02 248（+0）
+2026-10-18 248 → 2026-11-17 249（+1）
 
 
 ---

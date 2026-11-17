@@ -1,6 +1,6 @@
 # BryanBradfo/ai-residency-programs
 
-⭐ 34 · 推送 2026-01-20 · [GitHub](https://github.com/BryanBradfo/ai-residency-programs) · 个人维护
+⭐ 35 · 推送 2026-01-20 · [GitHub](https://github.com/BryanBradfo/ai-residency-programs) · 个人维护
 
 **AI 研究驻留/实习/奖学金项目清单，供求职者按年份查机会**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BryanBradfo/ai-residency-programs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    title "BryanBradfo/ai-residency-programs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 33, 35, 35]
 ```
 
-2026-10-18 32 → 2026-11-02 34（+2）
+2026-10-18 32 → 2026-11-17 35（+3）
 
 
 ---

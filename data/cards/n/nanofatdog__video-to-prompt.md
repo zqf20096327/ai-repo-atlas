@@ -1,6 +1,6 @@
 # nanofatdog/video-to-prompt
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/nanofatdog/video-to-prompt) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/nanofatdog/video-to-prompt) · 个人维护
 
 **从视频抽取帧并生成 AI 绘图提示词的 WebUI/CLI 工具**
 
@@ -46,13 +46,13 @@ Gradio Web 应用 + CLI：从上传视频中抽帧，发送到 llama.cpp 视觉�
 
 ```mermaid
 xychart-beta
-    title "nanofatdog/video-to-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "nanofatdog/video-to-prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

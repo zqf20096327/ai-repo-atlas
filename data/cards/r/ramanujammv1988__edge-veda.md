@@ -1,6 +1,6 @@
 # ramanujammv1988/edge-veda
 
-⭐ 87 · Dart · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/ramanujammv1988/edge-veda) · [官网](https://pub.dev/packages/edge_veda) · 个人维护
+⭐ 88 · Dart · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/ramanujammv1988/edge-veda) · [官网](https://pub.dev/packages/edge_veda) · 个人维护
 
 **面向 Flutter 的 iOS 端侧 AI 运行时 SDK：推理/语音/图像/RAG 全离线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ramanujammv1988/edge-veda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    title "ramanujammv1988/edge-veda 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 86 --> 89
+    line [87, 88, 88]
 ```
 
-2026-10-18 87 → 2026-11-02 87（+0）
+2026-10-18 87 → 2026-11-17 88（+1）
 
 
 ---

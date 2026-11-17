@@ -1,6 +1,6 @@
 # cu-sanjay/ai-fiesta-unlimited
 
-⭐ 39 · JavaScript · 推送 2026-02-02 · [GitHub](https://github.com/cu-sanjay/ai-fiesta-unlimited) · [官网](https://aifiesta.ai/) · 个人维护
+⭐ 41 · JavaScript · 推送 2026-02-02 · [GitHub](https://github.com/cu-sanjay/ai-fiesta-unlimited) · [官网](https://aifiesta.ai/) · 个人维护
 
 **绕过 AI Fiesta.ai 免费用量限制的浏览器扩展**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "cu-sanjay/ai-fiesta-unlimited 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    title "cu-sanjay/ai-fiesta-unlimited 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 41（+2）
 
 
 ---

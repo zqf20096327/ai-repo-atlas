@@ -1,6 +1,6 @@
 # TorchIO-project/torchio
 
-⭐ 2,452 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/TorchIO-project/torchio) · [官网](https://docs.torchio.org/) · 组织维护
+⭐ 2,456 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/TorchIO-project/torchio) · [官网](https://docs.torchio.org/) · 组织维护
 
 **面向 PyTorch 的 3D 医学图像读取/预处理/增强 Python 库**
 
@@ -43,13 +43,13 @@ TorchIO 是基于 PyTorch 的 Python 库，为深度学习应用提供 3D 医学
 
 ```mermaid
 xychart-beta
-    title "TorchIO-project/torchio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 2449 --> 2453
-    line [2451, 2450, 2451, 2452, 2452]
+    title "TorchIO-project/torchio 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 2449 --> 2457
+    line [2451, 2450, 2451, 2452, 2450, 2451, 2454, 2455, 2456, 2456]
 ```
 
-2026-10-18 2,451 → 2026-11-02 2,452（+1）
+2026-10-18 2,451 → 2026-11-17 2,456（+5）
 
 
 ---

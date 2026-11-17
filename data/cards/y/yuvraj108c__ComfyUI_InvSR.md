@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI_InvSR
 
-⭐ 263 · Python · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/yuvraj108c/ComfyUI_InvSR) · 个人维护
+⭐ 264 · Python · NOASSERTION · 推送 2026-06-05 · [GitHub](https://github.com/yuvraj108c/ComfyUI_InvSR) · 个人维护
 
 **ComfyUI 图像超分节点：封装 InvSR 扩散反演超分模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuvraj108c/ComfyUI_InvSR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 261 --> 264
-    line [262, 263, 263]
+    title "yuvraj108c/ComfyUI_InvSR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 261 --> 265
+    line [262, 263, 264, 264]
 ```
 
-2026-10-18 262 → 2026-11-02 263（+1）
+2026-10-18 262 → 2026-11-17 264（+2）
 
 
 ---

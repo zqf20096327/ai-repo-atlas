@@ -1,6 +1,6 @@
 # glmn-ai/vibereceipt
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/glmn-ai/vibereceipt) · [官网](https://neurosquad.ai/en/vibe-receipt/) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/glmn-ai/vibereceipt) · [官网](https://neurosquad.ai/en/vibe-receipt/) · 组织维护
 
 **把 AI 编程工具的本地日志打印成消费小票：token 与 API 价成本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "glmn-ai/vibereceipt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "glmn-ai/vibereceipt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-17 21（+2）
 
 
 ---

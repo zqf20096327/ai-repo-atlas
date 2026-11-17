@@ -1,6 +1,6 @@
 # Elian-dan/AI-Portfolio-Compass-public
 
-⭐ 35 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Elian-dan/AI-Portfolio-Compass-public) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Elian-dan/AI-Portfolio-Compass-public) · 个人维护 · 中文 README
 
 **面向多账户个人投资者的本地优先投资组合分析与 AI 诊断工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Elian-dan/AI-Portfolio-Compass-public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "Elian-dan/AI-Portfolio-Compass-public 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 34 --> 38
+    line [35, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 37（+2）
 
 
 ---

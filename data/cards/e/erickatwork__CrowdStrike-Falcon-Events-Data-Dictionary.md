@@ -1,6 +1,6 @@
 # erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary) · [官网](https://docs.crowdstrike.com/r/en-US/sensormap.ftmap) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary) · [官网](https://docs.crowdstrike.com/r/en-US/sensormap.ftmap) · 个人维护
 
 **Falcon 传感器事件数据字典：CSV/Markdown 机器可读版（998 事件）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "erickatwork/CrowdStrike-Falcon-Events-Data-Dictionary 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-18 10 → 2026-11-02 12（+2）
+2026-10-18 10 → 2026-11-17 13（+3）
 
 
 ---

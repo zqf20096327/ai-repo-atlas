@@ -1,6 +1,6 @@
 # PillCrew/PillCrew
 
-⭐ 37 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PillCrew/PillCrew) · [官网](https://pillcrew.fun) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Solana memecoin 交易 AI 副驾：桌面宠物 Pilly 与 AI 分析团队**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "PillCrew/PillCrew 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08"]
     y-axis "stars" 34 --> 38
     line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-02 37（+2）
+2026-10-18 35 → 2026-11-08 37（+2）
 
 
 ---

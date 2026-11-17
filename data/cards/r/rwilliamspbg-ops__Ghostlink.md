@@ -1,6 +1,6 @@
 # rwilliamspbg-ops/Ghostlink
 
-⭐ 84 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rwilliamspbg-ops/Ghostlink) · [官网](https://rwilliamspbg-ops.github.io/Ghostlink/) · 个人维护
+⭐ 85 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rwilliamspbg-ops/Ghostlink) · [官网](https://rwilliamspbg-ops.github.io/Ghostlink/) · 个人维护
 
 **面向本地异构集群的分布式 LLM 推理架构，提供 OpenAI 兼容 API**
 
@@ -44,13 +44,13 @@ Rust 编写的自托管分布式推理架构：在局域网内自动发现节点
 
 ```mermaid
 xychart-beta
-    title "rwilliamspbg-ops/Ghostlink 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 70 --> 85
-    line [71, 83, 84, 84]
+    title "rwilliamspbg-ops/Ghostlink 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 70 --> 86
+    line [71, 83, 84, 85, 85]
 ```
 
-2026-10-18 71 → 2026-11-02 84（+13）
+2026-10-18 71 → 2026-11-17 85（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # DuckTapeKiller/horme
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/DuckTapeKiller/horme) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DuckTapeKiller/horme) · 个人维护
 
 **面向 Obsidian 的本地优先 AI 助手插件，带 RAG 笔记记忆**
 
@@ -44,13 +44,13 @@ Obsidian 社区插件，通过本地 LLM（默认 Ollama 或 LM Studio，无需 
 
 ```mermaid
 xychart-beta
-    title "DuckTapeKiller/horme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "DuckTapeKiller/horme 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 24（+2）
 
 
 ---

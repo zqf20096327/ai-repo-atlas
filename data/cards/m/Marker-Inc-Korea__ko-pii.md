@@ -1,6 +1,6 @@
 # Marker-Inc-Korea/ko-pii
 
-⭐ 104 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Marker-Inc-Korea/ko-pii) · 组织维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Marker-Inc-Korea/ko-pii) · 组织维护 · 中文 README
 
 **韩语 PII 检测与可逆假名化 Python 库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Marker-Inc-Korea/ko-pii 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 99 --> 105
-    line [100, 101, 102, 103, 104, 104]
+    title "Marker-Inc-Korea/ko-pii 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 99 --> 107
+    line [100, 101, 102, 103, 104, 103, 106, 106]
 ```
 
-2026-10-18 100 → 2026-11-02 104（+4）
+2026-10-18 100 → 2026-11-17 106（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # BarsatKhadka/Vinaya-Journal
 
-⭐ 171 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/BarsatKhadka/Vinaya-Journal) · [官网](https://vinaya-journal.vercel.app) · 个人维护
+⭐ 173 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/BarsatKhadka/Vinaya-Journal) · [官网](https://vinaya-journal.vercel.app) · 个人维护
 
 **本地离线优先的 AI 日记桌面应用，带 RAG 语义搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BarsatKhadka/Vinaya-Journal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 170 --> 172
-    line [171, 171]
+    title "BarsatKhadka/Vinaya-Journal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 170 --> 174
+    line [171, 172, 173, 173]
 ```
 
-2026-10-18 171 → 2026-11-02 171（+0）
+2026-10-18 171 → 2026-11-17 173（+2）
 
 
 ---

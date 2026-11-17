@@ -1,6 +1,6 @@
 # krxi/asmsense
 
-⭐ 17 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/krxi/asmsense) · [官网](https://huggingface.co/datasets/krxi123/asmsense) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/krxi/asmsense) · [官网](https://huggingface.co/datasets/krxi123/asmsense) · 个人维护
 
 **为剥离符号的 x86-64 二进制函数自动命名与描述的小模型研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "krxi/asmsense 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "krxi/asmsense 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 20（+4）
 
 
 ---

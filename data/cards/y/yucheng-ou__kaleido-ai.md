@@ -1,6 +1,6 @@
 # yucheng-ou/kaleido-ai
 
-⭐ 64 · Java · MIT · 推送 2026-03-02 · [GitHub](https://github.com/yucheng-ou/kaleido-ai) · 个人维护 · 中文 README
+⭐ 65 · Java · MIT · 推送 2026-03-02 · [GitHub](https://github.com/yucheng-ou/kaleido-ai) · 个人维护 · 中文 README
 
 **微服务架构的 AI 智能衣柜：衣物管理与 AI 穿搭推荐系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yucheng-ou/kaleido-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    title "yucheng-ou/kaleido-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-11-02 64（+0）
+2026-10-18 64 → 2026-11-17 65（+1）
 
 
 ---

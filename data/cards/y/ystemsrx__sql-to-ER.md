@@ -1,6 +1,6 @@
 # ystemsrx/sql-to-ER
 
-⭐ 192 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ystemsrx/sql-to-ER) · [官网](https://ystemsrx.github.io/sql-to-ER/) · 个人维护 · 中文 README
+⭐ 195 · JavaScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/ystemsrx/sql-to-ER) · [官网](https://ystemsrx.github.io/sql-to-ER/) · 个人维护 · 中文 README
 
 **在线 SQL/DBML 转 Chen 模型 ER 图的纯前端工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ystemsrx/sql-to-ER 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 191 --> 194
-    line [193, 192, 192]
+    title "ystemsrx/sql-to-ER 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 191 --> 196
+    line [193, 192, 193, 194, 195, 195]
 ```
 
-2026-10-22 193 → 2026-11-02 192（-1）
+2026-10-22 193 → 2026-11-17 195（+2）
 
 
 ---

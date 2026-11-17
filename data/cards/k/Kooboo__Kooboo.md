@@ -1,6 +1,6 @@
 # Kooboo/Kooboo
 
-⭐ 345 · JavaScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Kooboo/Kooboo) · [官网](http://www.kooboo.com) · 组织维护 · 中文 README
+⭐ 346 · JavaScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Kooboo/Kooboo) · [官网](http://www.kooboo.com) · 组织维护 · 中文 README
 
 **一体化建站与电商应用平台，含 AI 建站与可视化编辑**
 
@@ -45,13 +45,13 @@ Kooboo 是一个将网站创建、可视化编辑、内容管理、数据库、�
 
 ```mermaid
 xychart-beta
-    title "Kooboo/Kooboo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 343 --> 346
-    line [344, 345, 345]
+    title "Kooboo/Kooboo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 343 --> 347
+    line [344, 345, 346, 346]
 ```
 
-2026-10-18 344 → 2026-11-02 345（+1）
+2026-10-18 344 → 2026-11-17 346（+2）
 
 
 ---

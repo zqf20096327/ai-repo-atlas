@@ -1,6 +1,6 @@
 # doocs/anything-md
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/doocs/anything-md) · 组织维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/doocs/anything-md) · 组织维护 · 中文 README
 
 **部署在 Cloudflare Workers 上的 URL/文档转 Markdown API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "doocs/anything-md 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
+    title "doocs/anything-md 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [12, 11, 12, 12]
+    line [12, 11, 12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

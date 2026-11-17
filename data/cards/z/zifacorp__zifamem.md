@@ -1,6 +1,6 @@
 # zifacorp/zifamem
 
-⭐ 16 · Python · 推送 2026-07-21 · [GitHub](https://github.com/zifacorp/zifamem) · 组织维护
+⭐ 17 · Python · 推送 2026-07-21 · [GitHub](https://github.com/zifacorp/zifamem) · 组织维护
 
 **AI 伴侣的情感长期记忆框架：记忆可强化、衰减与遗忘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zifacorp/zifamem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "zifacorp/zifamem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 17, 17]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 17（+2）
 
 
 ---

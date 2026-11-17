@@ -1,6 +1,6 @@
 # LiteObject/Local-AI
 
-⭐ 67 · 推送 2026-08-01 · [GitHub](https://github.com/LiteObject/Local-AI) · 个人维护
+⭐ 68 · 推送 2026-08-01 · [GitHub](https://github.com/LiteObject/Local-AI) · 个人维护
 
 **本地运行 LLM 的入门教程：选工具、查硬件、装模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiteObject/Local-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    title "LiteObject/Local-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 66 --> 69
+    line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-11-02 67（+0）
+2026-10-18 67 → 2026-11-17 68（+1）
 
 
 ---

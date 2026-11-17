@@ -1,6 +1,6 @@
 # zjunlp/predict-before-execute
 
-⭐ 25 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zjunlp/predict-before-execute) · 组织维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zjunlp/predict-before-execute) · 组织维护 · 中文 README
 
 **论文官方实现：用 LLM 预测 ML 代理方案性能，免物理执行**
 
@@ -45,13 +45,13 @@ ACL 2026 论文的官方代码与数据仓库：提出 Data-centric Solution Pre
 
 ```mermaid
 xychart-beta
-    title "zjunlp/predict-before-execute 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "zjunlp/predict-before-execute 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 26（+2）
 
 
 ---

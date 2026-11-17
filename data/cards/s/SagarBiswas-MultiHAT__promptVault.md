@@ -1,6 +1,6 @@
 # SagarBiswas-MultiHAT/promptVault
 
-⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/SagarBiswas-MultiHAT/promptVault) · [官网](https://promptvault.multihat.dev/) · 个人维护
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/SagarBiswas-MultiHAT/promptVault) · [官网](https://promptvault.multihat.dev/) · 个人维护
 
 **离线优先的加密 AI 提示词个人库，带 AI 助手评分改写**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SagarBiswas-MultiHAT/promptVault 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
+    title "SagarBiswas-MultiHAT/promptVault 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 30 --> 36
-    line [31, 32, 34, 35, 35]
+    line [31, 32, 34, 35, 31, 35, 35]
 ```
 
-2026-10-18 31 → 2026-11-02 35（+4）
+2026-10-18 31 → 2026-11-17 35（+4）
 
 
 ---

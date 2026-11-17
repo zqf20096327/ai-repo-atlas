@@ -1,6 +1,6 @@
 # Cross2pro/DeepSeek-OCR-Dashboard
 
-⭐ 120 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/Cross2pro/DeepSeek-OCR-Dashboard) · 个人维护 · 中文 README
+⭐ 110 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/Cross2pro/DeepSeek-OCR-Dashboard) · 个人维护 · 中文 README
 
 **DeepSeek-OCR 模型的本地 Web UI：上传 PDF/图像并可视化识别结果**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cross2pro/DeepSeek-OCR-Dashboard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 119 --> 123
-    line [121, 122, 120, 120]
+    title "Cross2pro/DeepSeek-OCR-Dashboard 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 109 --> 123
+    line [121, 122, 120, 110, 110]
 ```
 
-2026-10-18 121 → 2026-11-02 120（-1）
+2026-10-18 121 → 2026-11-17 110（-11）
 
 
 ---

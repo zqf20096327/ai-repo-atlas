@@ -1,6 +1,6 @@
 # dexmac221/C64AIToolChain
 
-⭐ 29 · C · MIT · 推送 2026-09-05 · [GitHub](https://github.com/dexmac221/C64AIToolChain) · 个人维护
+⭐ 29 · C · MIT · 推送 2026-11-10 · [GitHub](https://github.com/dexmac221/C64AIToolChain) · 个人维护
 
 **用 AI agent 开发 Commodore 64 汇编游戏的工具链与基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dexmac221/C64AIToolChain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

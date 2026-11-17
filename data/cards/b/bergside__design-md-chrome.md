@@ -1,6 +1,6 @@
 # bergside/design-md-chrome
 
-⭐ 3,109 · JavaScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/bergside/design-md-chrome) · [官网](https://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma) · 个人维护
+⭐ 3,188 · JavaScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/bergside/design-md-chrome) · [官网](https://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma) · 个人维护
 
 **从任意网站提取设计风格并生成 DESIGN.md/SKILL.md 的 Chrome 扩展**
 
@@ -44,13 +44,13 @@ Chrome 扩展：读取当前标签页的排版、颜色、间距、圆角、阴�
 
 ```mermaid
 xychart-beta
-    title "bergside/design-md-chrome 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 3017 --> 3117
-    line [3025, 3039, 3043, 3053, 3060, 3064, 3071, 3077, 3085, 3093, 3100, 3102, 3106, 3109]
+    title "bergside/design-md-chrome 星数(近 24 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 3009 --> 3204
+    line [3025, 3039, 3043, 3053, 3060, 3064, 3071, 3077, 3085, 3093, 3100, 3102, 3106, 3109, 3064, 3154, 3166, 3170, 3176, 3179, 3180, 3185, 3188, 3188]
 ```
 
-2026-10-18 3,025 → 2026-11-02 3,109（+84）
+2026-10-18 3,025 → 2026-11-17 3,188（+163）
 
 
 ---

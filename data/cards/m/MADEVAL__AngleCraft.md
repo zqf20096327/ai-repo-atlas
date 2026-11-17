@@ -1,6 +1,6 @@
 # MADEVAL/AngleCraft
 
-⭐ 39 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MADEVAL/AngleCraft) · [官网](https://github.com/MADEVAL/AngleCraft) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/MADEVAL/AngleCraft) · [官网](https://www.skills.sh/madeval/anglecraft) · 个人维护
 
 **将枯燥专业话题转化为高吸引力内容的 AI 技能（7+2 新闻视角）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MADEVAL/AngleCraft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 30 --> 40
-    line [31, 32, 33, 39]
+    title "MADEVAL/AngleCraft 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 65
+    line [31, 32, 33, 39, 32, 46, 50, 53, 61, 62, 62]
 ```
 
-2026-10-18 31 → 2026-11-02 39（+8）
+2026-10-18 31 → 2026-11-17 62（+31）
 
 
 ---

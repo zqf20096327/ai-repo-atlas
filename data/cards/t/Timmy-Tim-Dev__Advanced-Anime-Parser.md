@@ -1,6 +1,6 @@
 # Timmy-Tim-Dev/Advanced-Anime-Parser
 
-⭐ 13 · PHP · 推送 2026-10-07 · [GitHub](https://github.com/Timmy-Tim-Dev/Advanced-Anime-Parser) · [官网](https://bd.kodikres.com/modules/dle/advanced-anime-parser) · 个人维护
+⭐ 13 · PHP · 推送 2026-11-12 · [GitHub](https://github.com/Timmy-Tim-Dev/Advanced-Anime-Parser) · [官网](https://bd.kodikres.com/modules/dle/advanced-anime-parser) · 个人维护
 
 **DLE CMS 的动漫/剧集抓取解析模块（Kodik 数据源）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Timmy-Tim-Dev/Advanced-Anime-Parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

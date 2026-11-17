@@ -1,6 +1,6 @@
 # ray-project/Ray-Forward
 
-⭐ 36 · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/ray-project/Ray-Forward) · 组织维护 · 中文 README
+⭐ 37 · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/ray-project/Ray-Forward) · 组织维护 · 中文 README
 
 **Ray Forward 年度社区活动资源汇总页**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "ray-project/Ray-Forward 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    title "ray-project/Ray-Forward 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

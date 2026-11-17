@@ -1,6 +1,6 @@
 # google-deepmind/geeflow
 
-⭐ 136 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/geeflow) · [官网](https://google-deepmind.github.io/geeflow/) · 组织维护
+⭐ 138 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/geeflow) · [官网](https://google-deepmind.github.io/geeflow/) · 组织维护
 
 **面向地理空间 AI 研究的大规模数据集生成库（基于 Google Earth Engine）**
 
@@ -45,13 +45,13 @@ GeeFlow 是 Python 库，使用 Google Earth Engine 读取卫星与遥感数据�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/geeflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 131 --> 137
-    line [132, 135, 136, 136]
+    title "google-deepmind/geeflow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 131 --> 139
+    line [132, 135, 136, 135, 137, 138, 138]
 ```
 
-2026-10-18 132 → 2026-11-02 136（+4）
+2026-10-18 132 → 2026-11-17 138（+6）
 
 
 ---

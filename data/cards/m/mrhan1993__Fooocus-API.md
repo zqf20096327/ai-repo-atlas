@@ -1,6 +1,6 @@
 # mrhan1993/Fooocus-API
 
-⭐ 680 · Python · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/mrhan1993/Fooocus-API) · 个人维护 · 中文 README
+⭐ 679 · Python · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/mrhan1993/Fooocus-API) · 个人维护 · 中文 README
 
 **为 Fooocus 图像生成软件提供 REST API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrhan1993/Fooocus-API 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02"]
+    title "mrhan1993/Fooocus-API 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-13", "2026-11-17"]
     y-axis "stars" 676 --> 681
-    line [677, 678, 679, 680, 680]
+    line [677, 678, 679, 680, 678, 679, 679]
 ```
 
-2026-10-18 677 → 2026-11-02 680（+3）
+2026-10-18 677 → 2026-11-17 679（+2）
 
 
 ---

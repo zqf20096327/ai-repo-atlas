@@ -1,6 +1,6 @@
 # actionow-ai/x2t
 
-⭐ 22 · TypeScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/actionow-ai/x2t) · [官网](https://x2t.actionow.ai) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/actionow-ai/x2t) · [官网](https://x2t.actionow.ai) · 组织维护 · 中文 README
 
 **自托管应用：AI 读取财经博主帖子并按战绩回测追踪其立场**
 
@@ -44,13 +44,13 @@ X2T 监听 X（Twitter）、Reddit 与新闻源上的财经博主帖子，用 LL
 
 ```mermaid
 xychart-beta
-    title "actionow-ai/x2t 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "actionow-ai/x2t 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

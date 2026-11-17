@@ -1,6 +1,6 @@
 # JacksonBurns/fastprop
 
-⭐ 62 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/JacksonBurns/fastprop) · [官网](https://jacksonburns.github.io/fastprop/) · 个人维护
+⭐ 61 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/JacksonBurns/fastprop) · [官网](https://jacksonburns.github.io/fastprop/) · 个人维护
 
 **给化学研究者的分子性质预测库：SMILES 输入，FNN 训练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JacksonBurns/fastprop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    title "JacksonBurns/fastprop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 59 --> 63
+    line [62, 60, 61, 61]
 ```
 
-2026-10-18 62 → 2026-11-02 62（+0）
+2026-10-18 62 → 2026-11-17 61（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbhaySingh71/AI-Powered-Healthcare-Intelligence-Network
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-06-10 · [GitHub](https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-Network) · 个人维护
+⭐ 29 · Jupyter Notebook · MIT · 推送 2026-06-10 · [GitHub](https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-Network) · 个人维护
 
 **面向患者与医生的医疗 AI 平台：疾病预测、用药推荐与问诊机器人**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbhaySingh71/AI-Powered-Healthcare-Intelligence-Network 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "AbhaySingh71/AI-Powered-Healthcare-Intelligence-Network 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

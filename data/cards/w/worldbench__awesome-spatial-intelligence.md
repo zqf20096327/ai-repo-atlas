@@ -1,6 +1,6 @@
 # worldbench/awesome-spatial-intelligence
 
-⭐ 156 · HTML · MIT · 推送 2026-07-12 · [GitHub](https://github.com/worldbench/awesome-spatial-intelligence) · [官网](https://worldbench.github.io/awesome-spatial-intelligence) · 组织维护
+⭐ 157 · HTML · MIT · 推送 2026-07-12 · [GitHub](https://github.com/worldbench/awesome-spatial-intelligence) · [官网](https://worldbench.github.io/awesome-spatial-intelligence) · 组织维护
 
 **自动驾驶多模态预训练论文路线图与数据集清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-spatial-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    title "worldbench/awesome-spatial-intelligence 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 154 --> 158
+    line [155, 156, 157, 157]
 ```
 
-2026-10-18 155 → 2026-11-02 156（+1）
+2026-10-18 155 → 2026-11-17 157（+2）
 
 
 ---

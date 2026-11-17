@@ -1,6 +1,6 @@
 # hekmon/comfyui-openai-api
 
-⭐ 55 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/hekmon/comfyui-openai-api) · [官网](https://registry.comfy.org/nodes/openai-api) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hekmon/comfyui-openai-api) · [官网](https://registry.comfy.org/nodes/openai-api) · 个人维护
 
 **ComfyUI 节点：通过 OpenAI API 标准调用 LLM 与 VLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hekmon/comfyui-openai-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "hekmon/comfyui-openai-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 50 --> 56
-    line [51, 52, 54, 55]
+    line [51, 52, 54, 55, 52, 55, 55]
 ```
 
-2026-10-18 51 → 2026-11-02 55（+4）
+2026-10-18 51 → 2026-11-17 55（+4）
 
 
 ---

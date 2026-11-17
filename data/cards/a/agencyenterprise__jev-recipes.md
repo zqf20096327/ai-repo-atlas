@@ -1,6 +1,6 @@
 # agencyenterprise/jev-recipes
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agencyenterprise/jev-recipes) · [官网](https://jev-recipes.com) · 组织维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/agencyenterprise/jev-recipes) · [官网](https://jev-recipes.com) · 组织维护
 
 **JS/TS 的类型化 LLM 决策函数库：路由、重排、门控等 248 个配方**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agencyenterprise/jev-recipes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "agencyenterprise/jev-recipes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 22 --> 38
+    line [23, 24, 27, 37, 37]
 ```
 
-2026-10-18 23 → 2026-11-02 24（+1）
+2026-10-18 23 → 2026-11-17 37（+14）
 
 
 ---

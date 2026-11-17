@@ -1,6 +1,6 @@
 # Gavri-dev/kAIhoot
 
-⭐ 13 · JavaScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Gavri-dev/kAIhoot) · [官网](https://github.com/Gavri-dev/kaBot/releases) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Gavri-dev/kAIhoot) · [官网](https://github.com/Gavri-dev/kaBot/releases) · 个人维护
 
 **Kahoot 实时答题的 AI Chrome 扩展，自动作答全题型**
 
@@ -44,13 +44,13 @@ Chrome MV3 浏览器扩展：加入 Kahoot 游戏后拦截浏览器与服务器�
 
 ```mermaid
 xychart-beta
-    title "Gavri-dev/kAIhoot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "Gavri-dev/kAIhoot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 12, 14, 14]
 ```
 
-2026-10-18 10 → 2026-11-02 13（+3）
+2026-10-18 10 → 2026-11-17 14（+4）
 
 
 ---

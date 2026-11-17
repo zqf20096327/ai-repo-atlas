@@ -1,6 +1,6 @@
 # ultralytics/wave
 
-⭐ 86 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/wave) · [官网](https://ultralytics.com) · 组织维护
+⭐ 90 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/wave) · [官网](https://ultralytics.com) · 组织维护
 
 **用深度学习读出全波形 ToF 粒子探测器信号的代码库**
 
@@ -44,13 +44,13 @@ Ultralytics WAVE（WAveform Vector Exploitation）提供用深度学习对全波
 
 ```mermaid
 xychart-beta
-    title "ultralytics/wave 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 84 --> 87
-    line [85, 86, 86]
+    title "ultralytics/wave 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 84 --> 91
+    line [85, 86, 85, 88, 90, 90]
 ```
 
-2026-10-18 85 → 2026-11-02 86（+1）
+2026-10-18 85 → 2026-11-17 90（+5）
 
 
 ---

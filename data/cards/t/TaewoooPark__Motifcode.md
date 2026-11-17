@@ -1,6 +1,6 @@
 # TaewoooPark/Motifcode
 
-⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/TaewoooPark/Motifcode) · 个人维护 · 中文 README
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/TaewoooPark/Motifcode) · 个人维护 · 中文 README
 
 **专为 Motif-3 模型构建的终端编码 agent**
 
@@ -45,13 +45,13 @@ Motifcode 是一个单文件、零运行时依赖的终端编码 agent 客户端
 
 ```mermaid
 xychart-beta
-    title "TaewoooPark/Motifcode 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02"]
+    title "TaewoooPark/Motifcode 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-17"]
     y-axis "stars" 75 --> 80
-    line [76, 77, 78, 77, 78, 79, 79]
+    line [76, 77, 78, 77, 78, 79, 77, 79, 78, 77, 77]
 ```
 
-2026-10-18 76 → 2026-11-02 79（+3）
+2026-10-18 76 → 2026-11-17 77（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # geeklee/whiteboard-mask-animation
 
-⭐ 19 · HTML · MIT · 推送 2026-07-26 · [GitHub](https://github.com/geeklee/whiteboard-mask-animation) · 个人维护 · 中文 README
+⭐ 20 · HTML · MIT · 推送 2026-07-26 · [GitHub](https://github.com/geeklee/whiteboard-mask-animation) · 个人维护 · 中文 README
 
 **把静态线稿做成白板手绘遮罩动画的 Agent Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geeklee/whiteboard-mask-animation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "geeklee/whiteboard-mask-animation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

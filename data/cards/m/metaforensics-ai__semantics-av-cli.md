@@ -1,6 +1,6 @@
 # metaforensics-ai/semantics-av-cli
 
-⭐ 20 · C++ · NOASSERTION · 推送 2026-05-10 · [GitHub](https://github.com/metaforensics-ai/semantics-av-cli) · [官网](http://semanticsav.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Linux 的离线 AI 恶意软件扫描 CLI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metaforensics-ai/semantics-av-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 20（+1）
+2026-10-18 19 → 2026-11-08 20（+1）
 
 
 ---

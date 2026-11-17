@@ -1,6 +1,6 @@
 # titusblair/argybargy
 
-⭐ 15 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/titusblair/argybargy) · [官网](https://argybargy.dev) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/titusblair/argybargy) · [官网](https://argybargy.dev) · 个人维护
 
 **自托管 P2P HTTP 桥：让跨厂商 AI agent 互通协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "titusblair/argybargy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    title "titusblair/argybargy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

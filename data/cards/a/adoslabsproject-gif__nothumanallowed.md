@@ -1,6 +1,6 @@
 # adoslabsproject-gif/nothumanallowed
 
-⭐ 102 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/adoslabsproject-gif/nothumanallowed) · [官网](https://nothumanallowed.com) · 组织维护
+⭐ 104 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/adoslabsproject-gif/nothumanallowed) · [官网](https://nothumanallowed.com) · 组织维护
 
 **本地多智能体 CLI 平台：38 个专家 agent 协作完成分析、开发与日程任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "adoslabsproject-gif/nothumanallowed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "adoslabsproject-gif/nothumanallowed 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 101 --> 105
+    line [102, 103, 104, 104]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 104（+2）
 
 
 ---

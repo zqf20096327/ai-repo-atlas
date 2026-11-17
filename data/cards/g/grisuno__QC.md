@@ -1,6 +1,6 @@
 # grisuno/QC
 
-⭐ 13 · HTML · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/grisuno/QC) · [官网](https://doi.org/10.5281/zenodo.18407920) · 个人维护
+⭐ 14 · HTML · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/grisuno/QC) · [官网](https://doi.org/10.5281/zenodo.18407920) · 个人维护
 
 **经典硬件上的量子计算模拟器，含教育 TUI 与 GPU 可视化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "grisuno/QC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "grisuno/QC 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

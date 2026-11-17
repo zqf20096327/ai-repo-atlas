@@ -1,6 +1,6 @@
 # M-Taghizadeh/Python-full-course
 
-⭐ 40 · Python · 推送 2025-12-16 · [GitHub](https://github.com/M-Taghizadeh/Python-full-course) · [官网](https://daneshjooyar.com/python) · 个人维护 · 中文 README
+⭐ 42 · Python · 推送 2025-12-16 · [GitHub](https://github.com/M-Taghizadeh/Python-full-course) · [官网](https://daneshjooyar.com/python) · 个人维护 · 中文 README
 
 **面向 AI 工程方向的 Python 全程视频教程仓库（72 集/约22小时）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "M-Taghizadeh/Python-full-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    title "M-Taghizadeh/Python-full-course 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

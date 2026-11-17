@@ -1,6 +1,6 @@
 # google-marketing-solutions/vigenair
 
-⭐ 242 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-marketing-solutions/vigenair) · 组织维护
+⭐ 243 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-marketing-solutions/vigenair) · 组织维护
 
 **用 Google Cloud 生成式 AI 将长视频广告改造为多格式短视频变体的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-marketing-solutions/vigenair 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 240 --> 243
-    line [241, 242, 242]
+    title "google-marketing-solutions/vigenair 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 240 --> 244
+    line [241, 242, 241, 243, 243]
 ```
 
-2026-10-18 241 → 2026-11-02 242（+1）
+2026-10-18 241 → 2026-11-17 243（+2）
 
 
 ---

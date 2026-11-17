@@ -1,6 +1,6 @@
 # Srameo/LED
 
-⭐ 412 · Python · NOASSERTION · 推送 2025-12-17 · [GitHub](https://github.com/Srameo/LED) · [官网](https://srameo.github.io/projects/led-iccv23/) · 组织维护 · 中文 README
+⭐ 415 · Python · NOASSERTION · 推送 2025-12-17 · [GitHub](https://github.com/Srameo/LED) · [官网](https://srameo.github.io/projects/led-iccv23/) · 组织维护 · 中文 README
 
 **免标定的 RAW 图像去噪管线，面向极低光照成像研究**
 
@@ -44,13 +44,13 @@ ICCV 2023 / NeurIPS 2025 论文的官方实现：LED 是 Calibration-Free（隐�
 
 ```mermaid
 xychart-beta
-    title "Srameo/LED 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 410 --> 413
-    line [411, 412, 412]
+    title "Srameo/LED 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 410 --> 416
+    line [411, 412, 411, 412, 415, 415]
 ```
 
-2026-10-18 411 → 2026-11-02 412（+1）
+2026-10-18 411 → 2026-11-17 415（+4）
 
 
 ---

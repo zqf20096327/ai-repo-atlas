@@ -1,6 +1,6 @@
 # Vvkmnn/claude-historian-mcp
 
-⭐ 179 · TypeScript · MIT · 推送 2026-06-15 · [GitHub](https://github.com/Vvkmnn/claude-historian-mcp) · [官网](https://www.npmjs.com/package/claude-historian-mcp) · 个人维护
+⭐ 180 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Vvkmnn/claude-historian-mcp) · [官网](https://www.npmjs.com/package/claude-historian-mcp) · 个人维护
 
 **搜索 Claude Code 对话历史的 MCP 服务器，本地零依赖**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vvkmnn/claude-historian-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    title "Vvkmnn/claude-historian-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 178 --> 181
+    line [179, 180, 180]
 ```
 
-2026-10-18 179 → 2026-11-02 179（+0）
+2026-10-18 179 → 2026-11-17 180（+1）
 
 
 ---

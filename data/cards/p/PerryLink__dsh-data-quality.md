@@ -1,6 +1,6 @@
 # PerryLink/dsh-data-quality
 
-⭐ 54 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/PerryLink/dsh-data-quality) · [官网](https://perrylink.github.io/plugins/dsh-data-quality/) · 个人维护 · 中文 README
+⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-data-quality) · [官网](https://www.npmjs.com/package/dsh-data-quality) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：数据集剖析、清洗与校验的确定性工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-data-quality 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "PerryLink/dsh-data-quality 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [54, 53, 53]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 53（-1）
 
 
 ---

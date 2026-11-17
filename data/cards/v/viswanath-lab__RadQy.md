@@ -1,6 +1,6 @@
 # viswanath-lab/RadQy
 
-⭐ 126 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/viswanath-lab/RadQy) · [官网](https://viswanath-lab.github.io/RadQy/) · 组织维护
+⭐ 126 · JavaScript · 推送 2026-11-10 · [GitHub](https://github.com/viswanath-lab/RadQy) · [官网](https://viswanath-lab.github.io/RadQy/) · 组织维护
 
 **MRI/CT 影像数据质量评估与可视化审查平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "viswanath-lab/RadQy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-11-02 126（+0）
+2026-10-18 126 → 2026-11-17 126（+0）
 
 
 ---

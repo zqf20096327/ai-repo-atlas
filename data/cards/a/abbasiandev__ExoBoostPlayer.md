@@ -1,6 +1,6 @@
 # abbasiandev/ExoBoostPlayer
 
-⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-02-09 · [GitHub](https://github.com/abbasiandev/ExoBoostPlayer) · [官网](https://medium.com/stackademic/the-rise-of-exoboost-building-an-intelligent-media-player-that-never-gives-up-cb25e6c5295b) · 个人维护
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-02-09 · [GitHub](https://github.com/abbasiandev/ExoBoostPlayer) · [官网](https://medium.com/stackademic/the-rise-of-exoboost-building-an-intelligent-media-player-that-never-gives-up-cb25e6c5295b) · 个人维护
 
 **Android 开发者的增强 ExoPlayer 封装库，含 AI 视频分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abbasiandev/ExoBoostPlayer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "abbasiandev/ExoBoostPlayer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

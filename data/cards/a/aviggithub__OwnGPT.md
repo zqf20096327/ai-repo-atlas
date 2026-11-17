@@ -1,6 +1,6 @@
 # aviggithub/OwnGPT
 
-⭐ 93 · Python · 推送 2025-11-12 · [GitHub](https://github.com/aviggithub/OwnGPT) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地私有文档问答应用：用本地 LLM 与向量库在自有设备上问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aviggithub/OwnGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-11-02 93（+0）
+2026-10-18 93 → 2026-11-07 93（+0）
 
 
 ---

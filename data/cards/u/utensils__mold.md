@@ -1,6 +1,6 @@
 # utensils/mold
 
-⭐ 54 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/utensils/mold) · [官网](https://utensils.io/mold/) · 组织维护
+⭐ 58 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/utensils/mold) · [官网](https://utensils.io/mold/) · 组织维护
 
 **本地 AI 图像/视频生成引擎：CLI、桌面、移动端与 API 一体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "utensils/mold 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "utensils/mold 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 53 --> 59
+    line [54, 57, 58, 58]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-17 58（+4）
 
 
 ---

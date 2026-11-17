@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/flex-block-attn
 
-⭐ 132 · Jupyter Notebook · NOASSERTION · 推送 2025-12-26 · [GitHub](https://github.com/Tencent-Hunyuan/flex-block-attn) · 组织维护 · 中文 README
+⭐ 133 · Jupyter Notebook · NOASSERTION · 推送 2025-12-26 · [GitHub](https://github.com/Tencent-Hunyuan/flex-block-attn) · 组织维护 · 中文 README
 
 **面向 Hunyuan Video 的块稀疏注意力 GPU 计算库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/flex-block-attn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 131 --> 133
-    line [132, 132]
+    title "Tencent-Hunyuan/flex-block-attn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 131 --> 134
+    line [132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-11-02 132（+0）
+2026-10-18 132 → 2026-11-17 133（+1）
 
 
 ---

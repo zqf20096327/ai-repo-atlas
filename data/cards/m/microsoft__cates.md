@@ -1,6 +1,6 @@
 # microsoft/cates
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/cates) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/microsoft/cates) · 组织维护
 
 **编码智能体配置的静态评分器：检测 token 效率与安全合规**
 
@@ -44,13 +44,13 @@ Coding Agent Token Economics Standard (CATES) 的参考实现，来自 Microsoft
 
 ```mermaid
 xychart-beta
-    title "microsoft/cates 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "microsoft/cates 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 15（+1）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

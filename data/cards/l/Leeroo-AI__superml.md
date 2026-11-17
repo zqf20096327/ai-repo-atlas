@@ -1,6 +1,6 @@
 # Leeroo-AI/superml
 
-⭐ 196 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/Leeroo-AI/superml) · [官网](https://leeroo.com/) · 组织维护
+⭐ 199 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/Leeroo-AI/superml) · [官网](https://leeroo.com/) · 组织维护
 
 **给 AI 编程 agent 加持 ML 工程技能与知识库的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leeroo-AI/superml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 194 --> 197
-    line [195, 196, 196]
+    title "Leeroo-AI/superml 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 194 --> 200
+    line [195, 196, 197, 198, 199, 199]
 ```
 
-2026-10-18 195 → 2026-11-02 196（+1）
+2026-10-18 195 → 2026-11-17 199（+4）
 
 
 ---

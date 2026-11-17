@@ -1,6 +1,6 @@
 # rollinsio/beyond-test-coverage
 
-⭐ 52 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/rollinsio/beyond-test-coverage) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/rollinsio/beyond-test-coverage) · 个人维护
 
 **测试质量评分基准与 Claude Code 技能：按多维准则生成/加固测试套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rollinsio/beyond-test-coverage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    title "rollinsio/beyond-test-coverage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54, 54]
 ```
 
-2026-10-18 52 → 2026-11-02 52（+0）
+2026-10-18 52 → 2026-11-17 54（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kaouthia/ComfyUI-Docker
 
-⭐ 130 · Shell · 推送 2026-05-17 · [GitHub](https://github.com/Kaouthia/ComfyUI-Docker) · [官网](https://www.johnaldred.com/running-comfyui-in-docker-on-windows-or-linux/) · 个人维护
+⭐ 131 · Shell · 推送 2026-05-17 · [GitHub](https://github.com/Kaouthia/ComfyUI-Docker) · [官网](https://www.johnaldred.com/running-comfyui-in-docker-on-windows-or-linux/) · 个人维护
 
 **用 Docker Compose 运行 ComfyUI 的自托管部署配置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kaouthia/ComfyUI-Docker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 128 --> 131
-    line [129, 130, 130]
+    title "Kaouthia/ComfyUI-Docker 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 128 --> 132
+    line [129, 130, 129, 131, 131]
 ```
 
-2026-10-18 129 → 2026-11-02 130（+1）
+2026-10-18 129 → 2026-11-17 131（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # amorehead/awesome-generative-flows
 
-⭐ 51 · 推送 2026-10-20 · [GitHub](https://github.com/amorehead/awesome-generative-flows) · [官网](https://rdcu.be/ffgfF) · 个人维护
+⭐ 53 · 推送 2026-10-20 · [GitHub](https://github.com/amorehead/awesome-generative-flows) · [官网](https://rdcu.be/ffgfF) · 个人维护
 
 **生成式流匹配（flow matching）论文清单：方法与生物信息学应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "amorehead/awesome-generative-flows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    title "amorehead/awesome-generative-flows 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 50 --> 54
+    line [51, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-02 51（+0）
+2026-10-18 51 → 2026-11-17 53（+2）
 
 
 ---

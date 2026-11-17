@@ -1,6 +1,6 @@
 # openai/sites
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openai/sites) · 组织维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openai/sites) · 组织维护
 
 **构建与打包 ChatGPT Sites 的 TypeScript 工具集**
 
@@ -42,13 +42,13 @@ OpenAI 官方仓库，提供两个 npm 包：@openai/create-sites 是创建 Chat
 
 ```mermaid
 xychart-beta
-    title "openai/sites 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 31 --> 38
-    line [32, 33, 35, 36, 37, 37]
+    title "openai/sites 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 31 --> 39
+    line [32, 33, 35, 36, 37, 35, 37, 38, 38]
 ```
 
-2026-10-18 32 → 2026-11-02 37（+5）
+2026-10-18 32 → 2026-11-17 38（+6）
 
 
 ---

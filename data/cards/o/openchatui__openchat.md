@@ -1,6 +1,6 @@
 # openchatui/openchat
 
-⭐ 61 · TypeScript · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/openchatui/openchat) · [官网](https://openchatui.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管的开源 AI 聊天用户界面（Web 应用）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openchatui/openchat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-08 61（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # gergchen/astock-market-engine
 
-⭐ 22 · Python · MIT · 推送 2026-05-31 · [GitHub](https://github.com/gergchen/astock-market-engine) · [官网](https://github.com/gergchen/astock-market-engine) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-05-31 · [GitHub](https://github.com/gergchen/astock-market-engine) · [官网](https://github.com/gergchen/astock-market-engine) · 个人维护 · 中文 README
 
 **面向个人用户的 A 股市场分析 AI 助手（非自动交易）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gergchen/astock-market-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "gergchen/astock-market-engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 24（+3）
 
 
 ---

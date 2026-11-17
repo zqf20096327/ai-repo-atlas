@@ -1,6 +1,6 @@
 # namkoong-lab/dro
 
-⭐ 163 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/namkoong-lab/dro) · [官网](https://python-dro.org/) · 组织维护
+⭐ 165 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/namkoong-lab/dro) · [官网](https://python-dro.org/) · 组织维护
 
 **分布鲁棒优化（DRO）机器学习方法的 Python 库，供研究者与开发者使用**
 
@@ -45,13 +45,13 @@ dro 是实现分布鲁棒优化（DRO）方法的 Python 包，面向监督学�
 
 ```mermaid
 xychart-beta
-    title "namkoong-lab/dro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 162 --> 164
-    line [163, 163]
+    title "namkoong-lab/dro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 162 --> 166
+    line [163, 165, 165]
 ```
 
-2026-10-18 163 → 2026-11-02 163（+0）
+2026-10-18 163 → 2026-11-17 165（+2）
 
 
 ---

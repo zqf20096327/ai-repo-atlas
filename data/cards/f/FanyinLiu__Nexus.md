@@ -1,6 +1,6 @@
 # FanyinLiu/Nexus
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/FanyinLiu/Nexus) · [官网](https://github.com/FanyinLiu/Nexus/releases/latest) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/FanyinLiu/Nexus) · [官网](https://github.com/FanyinLiu/Nexus/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的 Live2D 桌面 AI 伙伴：常驻桌面、记忆、文字/语音对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FanyinLiu/Nexus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "FanyinLiu/Nexus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

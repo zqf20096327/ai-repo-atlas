@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-JoyCaption
 
-⭐ 332 · Python · GPL-3.0 · 推送 2025-12-24 · [GitHub](https://github.com/1038lab/ComfyUI-JoyCaption) · 个人维护 · 中文 README
+⭐ 336 · Python · GPL-3.0 · 推送 2025-12-24 · [GitHub](https://github.com/1038lab/ComfyUI-JoyCaption) · 个人维护 · 中文 README
 
 **ComfyUI 图像描述生成节点：LLaVA 模型产出风格化 caption**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1038lab/ComfyUI-JoyCaption 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 326 --> 333
-    line [327, 329, 331, 332, 332]
+    title "1038lab/ComfyUI-JoyCaption 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 326 --> 338
+    line [327, 329, 331, 332, 329, 334, 335, 336, 337, 336, 336]
 ```
 
-2026-10-18 327 → 2026-11-02 332（+5）
+2026-10-18 327 → 2026-11-17 336（+9）
 
 
 ---

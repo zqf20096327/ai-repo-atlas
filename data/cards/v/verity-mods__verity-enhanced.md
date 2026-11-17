@@ -1,6 +1,6 @@
 # verity-mods/verity-enhanced
 
-⭐ 177 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/verity-mods/verity-enhanced) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Minecraft 恐怖模组 Verity 的非官方社区重制版**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "verity-mods/verity-enhanced 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-02"]
+    title "verity-mods/verity-enhanced 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-07"]
     y-axis "stars" 93 --> 184
-    line [100, 177]
+    line [100, 177, 100, 100]
 ```
 
-2026-10-24 100 → 2026-11-02 177（+77）
+2026-10-24 100 → 2026-11-07 100（+0）
 
 
 ---

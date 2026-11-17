@@ -1,6 +1,6 @@
 # dabirdwell/structured-emergence
 
-⭐ 17 · Python · 推送 2026-10-11 · [GitHub](https://github.com/dabirdwell/structured-emergence) · [官网](http://www.structuredemergence.com) · 个人维护
+⭐ 17 · Python · 推送 2026-11-02 · [GitHub](https://github.com/dabirdwell/structured-emergence) · [官网](http://www.structuredemergence.com) · 个人维护
 
 **面向研究者的意识涌现研究框架：理论、工具与实验文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dabirdwell/structured-emergence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 17（+0）
 
 
 ---

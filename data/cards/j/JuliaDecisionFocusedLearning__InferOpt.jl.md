@@ -1,6 +1,6 @@
 # JuliaDecisionFocusedLearning/InferOpt.jl
 
-⭐ 134 · Julia · MIT · 推送 2026-08-20 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/InferOpt.jl) · [官网](https://juliadecisionfocusedlearning.github.io/InferOpt.jl/) · 组织维护
+⭐ 136 · Julia · MIT · 推送 2026-11-16 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/InferOpt.jl) · [官网](https://juliadecisionfocusedlearning.github.io/InferOpt.jl/) · 组织维护
 
 **Julia 工具箱：将组合优化算法封装为可微分层接入 ML 流水线**
 
@@ -43,13 +43,13 @@ InferOpt.jl 是 Julia 语言工具箱，用于在机器学习流水线中使用�
 
 ```mermaid
 xychart-beta
-    title "JuliaDecisionFocusedLearning/InferOpt.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 132 --> 135
-    line [133, 134, 134]
+    title "JuliaDecisionFocusedLearning/InferOpt.jl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 132 --> 137
+    line [133, 134, 133, 135, 136, 136]
 ```
 
-2026-10-18 133 → 2026-11-02 134（+1）
+2026-10-18 133 → 2026-11-17 136（+3）
 
 
 ---

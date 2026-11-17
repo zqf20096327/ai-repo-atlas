@@ -1,6 +1,6 @@
 # Sema4AI/gallery
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Sema4AI/gallery) · [官网](https://sema4.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Sema4.ai 官方预构建 AI Actions 与 Agents 集合**
 
@@ -11,7 +11,7 @@ Sema4.ai 维护的官方仓库，汇集预构建的 AI Actions 与 Agents。READ
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -41,12 +41,12 @@ Sema4.ai 维护的官方仓库，汇集预构建的 AI Actions 与 Agents。READ
 ```mermaid
 xychart-beta
     title "Sema4AI/gallery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-07 18（+0）
 
 
 ---

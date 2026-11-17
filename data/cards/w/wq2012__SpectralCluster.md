@@ -1,6 +1,6 @@
 # wq2012/SpectralCluster
 
-⭐ 558 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wq2012/SpectralCluster) · [官网](https://google.github.io/speaker-id/publications/LstmDiarization/) · 个人维护
+⭐ 559 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wq2012/SpectralCluster) · [官网](https://google.github.io/speaker-id/publications/LstmDiarization/) · 个人维护
 
 **说话人日志论文中谱聚类算法的 Python 复现库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wq2012/SpectralCluster 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-02"]
-    y-axis "stars" 557 --> 559
-    line [558, 558]
+    title "wq2012/SpectralCluster 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 557 --> 560
+    line [558, 559, 559]
 ```
 
-2026-10-29 558 → 2026-11-02 558（+0）
+2026-10-29 558 → 2026-11-17 559（+1）
 
 
 ---

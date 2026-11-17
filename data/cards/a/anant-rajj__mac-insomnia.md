@@ -1,6 +1,6 @@
 # anant-rajj/mac-insomnia
 
-⭐ 12 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/anant-rajj/mac-insomnia) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/anant-rajj/mac-insomnia) · 个人维护
 
 **macOS 合盖保持唤醒的轻量 CLI 工具，供本机跑 LLM 与后台任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anant-rajj/mac-insomnia 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02"]
+    title "anant-rajj/mac-insomnia 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11, 12, 12]
 ```
 
-2026-10-24 11 → 2026-11-02 12（+1）
+2026-10-24 11 → 2026-11-17 12（+1）
 
 
 ---

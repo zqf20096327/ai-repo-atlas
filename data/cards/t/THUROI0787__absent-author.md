@@ -1,6 +1,6 @@
 # THUROI0787/absent-author
 
-⭐ 146 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/THUROI0787/absent-author) · [官网](https://thuroi0787.github.io/absent-author/) · 组织维护 · 中文 README
+⭐ 149 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/THUROI0787/absent-author) · [官网](https://thuroi0787.github.io/absent-author/) · 组织维护 · 中文 README
 
 **论文作者缺席检测工具集：证据清单+两个 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "THUROI0787/absent-author 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02"]
+    title "THUROI0787/absent-author 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
     y-axis "stars" 140 --> 155
-    line [141, 154, 153, 145, 146, 146]
+    line [141, 154, 153, 145, 146, 145, 147, 148, 149, 149]
 ```
 
-2026-10-18 141 → 2026-11-02 146（+5）
+2026-10-18 141 → 2026-11-17 149（+8）
 
 
 ---

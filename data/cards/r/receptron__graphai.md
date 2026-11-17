@@ -1,6 +1,6 @@
 # receptron/graphai
 
-⭐ 374 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/receptron/graphai) · [官网](https://graphai.info) · 组织维护
+⭐ 375 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/receptron/graphai) · [官网](https://graphai.info) · 组织维护
 
 **异步数据流执行引擎：用 YAML/JSON 声明式构建 agent 应用**
 
@@ -44,13 +44,13 @@ GraphAI 是一个 TypeScript/Node.js 的异步数据流执行引擎，开发者�
 
 ```mermaid
 xychart-beta
-    title "receptron/graphai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 370 --> 375
-    line [371, 372, 373, 374, 374]
+    title "receptron/graphai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 370 --> 376
+    line [371, 372, 373, 374, 373, 374, 375, 375]
 ```
 
-2026-10-18 371 → 2026-11-02 374（+3）
+2026-10-18 371 → 2026-11-17 375（+4）
 
 
 ---

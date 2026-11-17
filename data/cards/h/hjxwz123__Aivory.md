@@ -1,6 +1,6 @@
 # hjxwz123/Aivory
 
-⭐ 117 · Go · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/hjxwz123/Aivory) · [官网](https://docs.aivorygo.com) · 个人维护 · 中文 README
+⭐ 119 · Go · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/hjxwz123/Aivory) · [官网](https://docs.aivorygo.com) · 个人维护 · 中文 README
 
 **自托管多模型 AI 对话工作台：工具链调用、Python 沙箱与 RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hjxwz123/Aivory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 113 --> 118
-    line [114, 115, 116, 117, 117]
+    title "hjxwz123/Aivory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 113 --> 120
+    line [114, 115, 116, 117, 115, 119, 119]
 ```
 
-2026-10-18 114 → 2026-11-02 117（+3）
+2026-10-18 114 → 2026-11-17 119（+5）
 
 
 ---

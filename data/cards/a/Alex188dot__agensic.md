@@ -1,6 +1,6 @@
 # Alex188dot/agensic
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/Alex188dot/agensic) · [官网](https://alex188dot.github.io/agensic/) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/Alex188dot/agensic) · [官网](https://alex188dot.github.io/agensic/) · 个人维护
 
 **面向 AI 终端工作流的命令观测与溯源层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alex188dot/agensic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    title "Alex188dot/agensic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 27 --> 30
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

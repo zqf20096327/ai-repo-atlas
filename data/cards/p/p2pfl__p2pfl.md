@@ -1,6 +1,6 @@
 # p2pfl/p2pfl
 
-⭐ 155 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/p2pfl/p2pfl) · [官网](https://p2pfl.com) · 组织维护
+⭐ 156 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/p2pfl/p2pfl) · [官网](https://p2pfl.com) · 组织维护
 
 **去中心化联邦学习库：在 P2P 网络上协同训练模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "p2pfl/p2pfl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 154 --> 156
-    line [155, 155]
+    title "p2pfl/p2pfl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 154 --> 157
+    line [155, 156, 156]
 ```
 
-2026-10-18 155 → 2026-11-02 155（+0）
+2026-10-18 155 → 2026-11-17 156（+1）
 
 
 ---

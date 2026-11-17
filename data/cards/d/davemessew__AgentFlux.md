@@ -1,6 +1,6 @@
 # davemessew/AgentFlux
 
-⭐ 236 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/davemessew/AgentFlux) · [官网](https://agentflux.cloud) · 个人维护
+⭐ 182 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/davemessew/AgentFlux) · [官网](https://agentflux.cloud) · 个人维护
 
 **自托管的可视化工作流与自主 agent 平台，本地运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "davemessew/AgentFlux 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-02"]
+    title "davemessew/AgentFlux 星数(近 9 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-17"]
     y-axis "stars" 104 --> 248
-    line [116, 235, 236]
+    line [116, 235, 236, 202, 177, 180, 181, 182, 182]
 ```
 
-2026-10-29 116 → 2026-11-02 236（+120）
+2026-10-29 116 → 2026-11-17 182（+66）
 
 
 ---

@@ -1,6 +1,6 @@
 # fancyyan/xiaohongshu-content-collector
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/fancyyan/xiaohongshu-content-collector) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/fancyyan/xiaohongshu-content-collector) · 个人维护 · 中文 README
 
 **小红书笔记被动采集与多模态 AI 分析的 Chrome 扩展 + MCP 工具箱**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "fancyyan/xiaohongshu-content-collector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "fancyyan/xiaohongshu-content-collector 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 29, 31, 32, 33, 33]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 33（+4）
 
 
 ---

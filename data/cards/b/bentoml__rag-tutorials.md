@@ -1,6 +1,6 @@
 # bentoml/rag-tutorials
 
-⭐ 52 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/rag-tutorials) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 BentoML 与 LlamaIndex 分步构建自托管 RAG 服务的教程集**
 
@@ -44,12 +44,12 @@ BentoML 官方示例项目，含五篇递进式教程：先用 LlamaIndex 搭建
 ```mermaid
 xychart-beta
     title "bentoml/rag-tutorials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08"]
     y-axis "stars" 50 --> 53
     line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-11-02 52（+1）
+2026-10-18 51 → 2026-11-08 52（+1）
 
 
 ---

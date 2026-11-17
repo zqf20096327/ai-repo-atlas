@@ -1,6 +1,6 @@
 # machinelearnjs/machinelearnjs
 
-⭐ 540 · TypeScript · MIT · 推送 2026-02-07 · [GitHub](https://github.com/machinelearnjs/machinelearnjs) · [官网](https://machinelearnjs.github.io/) · 组织维护
+⭐ 541 · TypeScript · MIT · 推送 2026-02-07 · [GitHub](https://github.com/machinelearnjs/machinelearnjs) · [官网](https://machinelearnjs.github.io/) · 组织维护
 
 **面向浏览器与 Node.js 的 TypeScript 机器学习库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "machinelearnjs/machinelearnjs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 539 --> 541
-    line [540, 540]
+    title "machinelearnjs/machinelearnjs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 539 --> 542
+    line [540, 541, 541]
 ```
 
-2026-10-18 540 → 2026-11-02 540（+0）
+2026-10-18 540 → 2026-11-17 541（+1）
 
 
 ---

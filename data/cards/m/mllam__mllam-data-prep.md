@@ -1,6 +1,6 @@
 # mllam/mllam-data-prep
 
-⭐ 18 · Python · 推送 2026-10-25 · [GitHub](https://github.com/mllam/mllam-data-prep) · [官网](https://kutt.to/mllam) · 组织维护
+⭐ 18 · Python · 推送 2026-11-16 · [GitHub](https://github.com/mllam/mllam-data-prep) · [官网](https://kutt.to/mllam) · 组织维护
 
 **用声明式 YAML 配置生成 ML 天气预报模型训练数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mllam/mllam-data-prep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "mllam/mllam-data-prep 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    line [17, 18, 17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 18（+1）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

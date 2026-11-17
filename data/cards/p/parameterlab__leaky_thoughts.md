@@ -1,6 +1,6 @@
 # parameterlab/leaky_thoughts
 
-⭐ 18 · Python · MIT · 推送 2026-01-12 · [GitHub](https://github.com/parameterlab/leaky_thoughts) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-01-12 · [GitHub](https://github.com/parameterlab/leaky_thoughts) · 组织维护
 
 **论文代码：研究大型推理模型思维链中的隐私泄露**
 
@@ -44,13 +44,13 @@ EMNLP 2025 论文 Leaky Thoughts 的官方代码库，研究大型推理模型�
 
 ```mermaid
 xychart-beta
-    title "parameterlab/leaky_thoughts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    title "parameterlab/leaky_thoughts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 19（+1）
 
 
 ---

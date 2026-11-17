@@ -1,6 +1,6 @@
 # jasonacox/TinyLLM
 
-⭐ 354 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jasonacox/TinyLLM) · 个人维护
+⭐ 357 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jasonacox/TinyLLM) · 个人维护
 
 **在消费级硬件上搭建本地 LLM 与类 ChatGPT 聊天界面的指南项目**
 
@@ -46,13 +46,13 @@ TinyLLM 是一个帮助用户在消费级硬件上运行本地 LLM 的项目：�
 
 ```mermaid
 xychart-beta
-    title "jasonacox/TinyLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 351 --> 355
-    line [352, 353, 354, 354]
+    title "jasonacox/TinyLLM 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 351 --> 358
+    line [352, 353, 354, 352, 354, 356, 357, 357]
 ```
 
-2026-10-18 352 → 2026-11-02 354（+2）
+2026-10-18 352 → 2026-11-17 357（+5）
 
 
 ---

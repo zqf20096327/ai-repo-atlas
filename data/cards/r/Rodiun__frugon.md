@@ -1,6 +1,6 @@
 # Rodiun/frugon
 
-⭐ 217 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Rodiun/frugon) · [官网](https://frugon.rodiun.io) · 组织维护
+⭐ 218 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Rodiun/frugon) · [官网](https://frugon.rodiun.io) · 组织维护
 
 **本地运行的 LLM 账单分析器：定位成本泄漏并给出路由建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rodiun/frugon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 215 --> 218
-    line [216, 217, 217]
+    title "Rodiun/frugon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 215 --> 220
+    line [216, 217, 216, 218, 219, 218, 218]
 ```
 
-2026-10-18 216 → 2026-11-02 217（+1）
+2026-10-18 216 → 2026-11-17 218（+2）
 
 
 ---

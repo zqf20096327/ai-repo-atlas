@@ -1,6 +1,6 @@
 # strands-labs/ai-functions
 
-⭐ 341 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/strands-labs/ai-functions) · [官网](https://strandsagents.com) · 组织维护
+⭐ 349 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/strands-labs/ai-functions) · [官网](https://strandsagents.com) · 组织维护
 
 **Python 库：用 AI agent 执行的函数与自校验工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "strands-labs/ai-functions 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 332 --> 342
-    line [333, 335, 340, 341, 341]
+    title "strands-labs/ai-functions 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 332 --> 350
+    line [333, 335, 340, 341, 343, 346, 347, 348, 349, 349]
 ```
 
-2026-10-18 333 → 2026-11-02 341（+8）
+2026-10-18 333 → 2026-11-17 349（+16）
 
 
 ---

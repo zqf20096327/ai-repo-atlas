@@ -1,6 +1,6 @@
 # luuisotorres/polymarket-intelligence
 
-⭐ 39 · Python · 推送 2026-02-10 · [GitHub](https://github.com/luuisotorres/polymarket-intelligence) · 个人维护
+⭐ 40 · Python · 推送 2026-02-10 · [GitHub](https://github.com/luuisotorres/polymarket-intelligence) · 个人维护
 
 **Polymarket 实时追踪面板：行情、新闻、鲸鱼订单与多智能体辩论分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luuisotorres/polymarket-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "luuisotorres/polymarket-intelligence 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # snowmays/style-alchemy
 
-⭐ 47 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/snowmays/style-alchemy) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/snowmays/style-alchemy) · 个人维护 · 中文 README
 
 **把文章样本炼成风格档案并生成专属写作 skill 的 Claude Code 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snowmays/style-alchemy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 42 --> 48
-    line [43, 45, 46, 47, 47]
+    title "snowmays/style-alchemy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 42 --> 50
+    line [43, 45, 46, 47, 46, 47, 49, 49]
 ```
 
-2026-10-18 43 → 2026-11-02 47（+4）
+2026-10-18 43 → 2026-11-17 49（+6）
 
 
 ---

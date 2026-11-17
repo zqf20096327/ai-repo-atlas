@@ -1,6 +1,6 @@
 # okisdev/ChatChat
 
-⭐ 1,267 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/okisdev/ChatChat) · [官网](https://chat.okisdev.com) · 个人维护
+⭐ 1,268 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/okisdev/ChatChat) · [官网](https://chat.okisdev.com) · 个人维护
 
 **自托管的统一 AI 聊天与搜索平台**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "okisdev/ChatChat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02"]
+    title "okisdev/ChatChat 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
     y-axis "stars" 1266 --> 1271
-    line [1269, 1270, 1269, 1268, 1267, 1267]
+    line [1269, 1270, 1269, 1268, 1267, 1269, 1267, 1268, 1268]
 ```
 
-2026-10-18 1,269 → 2026-11-02 1,267（-2）
+2026-10-18 1,269 → 2026-11-17 1,268（-1）
 
 
 ---

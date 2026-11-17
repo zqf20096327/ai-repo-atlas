@@ -1,6 +1,6 @@
 # cognesy/instructor-php
 
-⭐ 328 · PHP · MIT · 推送 2026-10-14 · [GitHub](https://github.com/cognesy/instructor-php) · [官网](https://instructorphp.com) · 组织维护
+⭐ 329 · PHP · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cognesy/instructor-php) · [官网](https://instructorphp.com) · 组织维护
 
 **PHP 的 LLM 结构化输出、统一推理 API 与 Agent SDK 组件库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cognesy/instructor-php 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 327 --> 329
-    line [328, 328]
+    title "cognesy/instructor-php 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 327 --> 330
+    line [328, 329, 329]
 ```
 
-2026-10-18 328 → 2026-11-02 328（+0）
+2026-10-18 328 → 2026-11-17 329（+1）
 
 
 ---

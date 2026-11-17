@@ -1,6 +1,6 @@
 # Lokesh-Chimakurthi/rosetta-llm
 
-⭐ 13 · Python · 推送 2026-09-26 · [GitHub](https://github.com/Lokesh-Chimakurthi/rosetta-llm) · [官网](https://pypi.org/project/rosetta-llm/) · 个人维护
+⭐ 13 · Python · 推送 2026-11-16 · [GitHub](https://github.com/Lokesh-Chimakurthi/rosetta-llm) · [官网](https://pypi.org/project/rosetta-llm/) · 个人维护
 
 **多格式 LLM API 翻译代理网关，兼容 Claude Code**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lokesh-Chimakurthi/rosetta-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

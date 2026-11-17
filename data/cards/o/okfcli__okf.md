@@ -1,6 +1,6 @@
 # okfcli/okf
 
-⭐ 29 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/okfcli/okf) · [官网](https://useokf.com) · 组织维护
+⭐ 31 · Go · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/okfcli/okf) · [官网](https://useokf.com) · 组织维护
 
 **OKF 知识目录格式的厂商中立 Go CLI：创建/校验/索引/搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "okfcli/okf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "okfcli/okf 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

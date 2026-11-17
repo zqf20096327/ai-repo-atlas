@@ -1,6 +1,6 @@
 # jwadow/agentic-prompts
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-02-28 · [GitHub](https://github.com/jwadow/agentic-prompts) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-02-28 · [GitHub](https://github.com/jwadow/agentic-prompts) · 个人维护
 
 **AI 编程助手的提示词/模式/命令策展集：可复用配置模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jwadow/agentic-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "jwadow/agentic-prompts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

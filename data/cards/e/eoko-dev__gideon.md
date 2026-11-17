@@ -1,6 +1,6 @@
 # eoko-dev/gideon
 
-⭐ 29 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/eoko-dev/gideon) · [官网](https://eoko-dev.github.io/gideon/) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/eoko-dev/gideon) · [官网](https://eoko-dev.github.io/gideon/) · 组织维护
 
 **面向 Discord 服务器的 AI 助手机器人，提供对话/绘图/记忆/提醒**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eoko-dev/gideon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rlaope/ultraprompt
 
-⭐ 35 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rlaope/ultraprompt) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rlaope/ultraprompt) · 个人维护
 
 **面向编码 agent 的可移植策略提示词技能库（12 个技能轴）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rlaope/ultraprompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    title "rlaope/ultraprompt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-11-02 35（+1）
+2026-10-18 34 → 2026-11-17 36（+2）
 
 
 ---

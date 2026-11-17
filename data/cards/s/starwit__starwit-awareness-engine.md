@@ -1,6 +1,6 @@
 # starwit/starwit-awareness-engine
 
-⭐ 12 · Jupyter Notebook · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/starwit/starwit-awareness-engine) · 组织维护
+⭐ 12 · Jupyter Notebook · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/starwit/starwit-awareness-engine) · 组织维护
 
 **计算机视觉管道编排仓库：视频目标检测、跟踪与地理映射**
 
@@ -45,12 +45,12 @@ Starwit Awareness Engine 的伞形仓库，汇集文档与编排代码，链接�
 ```mermaid
 xychart-beta
     title "starwit/starwit-awareness-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 12（+0）
 
 
 ---

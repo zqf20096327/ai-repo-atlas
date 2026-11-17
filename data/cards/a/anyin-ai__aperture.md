@@ -1,6 +1,6 @@
 # anyin-ai/aperture
 
-⭐ 29 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/anyin-ai/aperture) · 组织维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/anyin-ai/aperture) · 组织维护 · 中文 README
 
 **自托管的品牌 AI 搜索可见度监测与分析工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anyin-ai/aperture 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "anyin-ai/aperture 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

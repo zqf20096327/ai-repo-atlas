@@ -1,6 +1,6 @@
 # qforge-dev/qspeak
 
-⭐ 61 · TypeScript · MIT · 推送 2025-11-21 · [GitHub](https://github.com/qforge-dev/qspeak) · [官网](https://qspeak.app) · 组织维护
+⭐ 60 · TypeScript · MIT · 推送 2025-11-21 · [GitHub](https://github.com/qforge-dev/qspeak) · [官网](https://qspeak.app) · 组织维护
 
 **本地离线的语音转文字与 AI 助手桌面工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qforge-dev/qspeak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "qforge-dev/qspeak 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 59 --> 62
+    line [61, 60, 60]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 60（-1）
 
 
 ---

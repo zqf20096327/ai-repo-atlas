@@ -1,6 +1,6 @@
 # lovstudio/Ataru
 
-⭐ 361 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/lovstudio/Ataru) · [官网](https://lovstudio.ai/app/ataru) · 组织维护 · 中文 README
+⭐ 362 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/lovstudio/Ataru) · [官网](https://lovstudio.ai/app/ataru) · 组织维护 · 中文 README
 
 **本地 AI 会话记忆检索工具：Rust 搜索内核加桌面 GUI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lovstudio/Ataru 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 360 --> 362
-    line [361, 361]
+    title "lovstudio/Ataru 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 360 --> 363
+    line [361, 362, 362]
 ```
 
-2026-10-18 361 → 2026-11-02 361（+0）
+2026-10-18 361 → 2026-11-17 362（+1）
 
 
 ---

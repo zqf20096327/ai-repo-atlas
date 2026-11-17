@@ -1,6 +1,6 @@
 # ShowayLiao/OtakuNeko
 
-⭐ 30 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ShowayLiao/OtakuNeko) · 个人维护 · 中文 README
+⭐ 31 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ShowayLiao/OtakuNeko) · 个人维护 · 中文 README
 
 **给二次元爱好者的 LLM 番剧管理与分析私人助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShowayLiao/OtakuNeko 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    title "ShowayLiao/OtakuNeko 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-02 30（+1）
+2026-10-18 29 → 2026-11-17 31（+2）
 
 
 ---

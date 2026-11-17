@@ -1,6 +1,6 @@
 # huawei-csl/AC-LoRA
 
-⭐ 21 · Jupyter Notebook · CC0-1.0 · 推送 2025-11-14 · [GitHub](https://github.com/huawei-csl/AC-LoRA) · [官网](https://arxiv.org/abs/2505.11557) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **免训练的 LLM 访问控制方法：按权限检索并合并敏感 LoRA**
 
@@ -11,7 +11,7 @@ NeurIPS 2025 论文的官方代码库。AC-LoRA 将敏感数据分散到互不�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-24g` | |
@@ -46,12 +46,12 @@ NeurIPS 2025 论文的官方代码库。AC-LoRA 将敏感数据分散到互不�
 ```mermaid
 xychart-beta
     title "huawei-csl/AC-LoRA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-08 21（+0）
 
 
 ---

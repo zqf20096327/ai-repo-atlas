@@ -1,6 +1,6 @@
 # 1nn0k3sh4/Whisperer-on-Wirst
 
-⭐ 50 · C++ · MIT · 推送 2026-01-14 · [GitHub](https://github.com/1nn0k3sh4/Whisperer-on-Wirst) · 个人维护
+⭐ 52 · C++ · MIT · 推送 2026-01-14 · [GitHub](https://github.com/1nn0k3sh4/Whisperer-on-Wirst) · 个人维护
 
 **戴在手腕上的本地 AI 伴侣：M5 设备经 WiFi 连本地 LLM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1nn0k3sh4/Whisperer-on-Wirst 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50, 50]
+    title "1nn0k3sh4/Whisperer-on-Wirst 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 46 --> 53
+    line [47, 48, 49, 50, 49, 52, 52]
 ```
 
-2026-10-18 47 → 2026-11-02 50（+3）
+2026-10-18 47 → 2026-11-17 52（+5）
 
 
 ---

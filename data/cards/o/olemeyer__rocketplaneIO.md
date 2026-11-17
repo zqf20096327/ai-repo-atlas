@@ -1,6 +1,6 @@
 # olemeyer/rocketplaneIO
 
-⭐ 120 · Go · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/olemeyer/rocketplaneIO) · 个人维护
+⭐ 113 · Go · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/olemeyer/rocketplaneIO) · 个人维护
 
 **自托管的 Kubernetes 全栈可观测平台，为 AI agent 提供带防护的 MCP 操作接口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "olemeyer/rocketplaneIO 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 119 --> 128
-    line [127, 126, 121, 120, 120]
+    title "olemeyer/rocketplaneIO 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 112 --> 128
+    line [127, 126, 121, 120, 114, 113, 113]
 ```
 
-2026-10-18 127 → 2026-11-02 120（-7）
+2026-10-18 127 → 2026-11-17 113（-14）
 
 
 ---

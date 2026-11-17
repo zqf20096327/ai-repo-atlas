@@ -1,6 +1,6 @@
 # flamingrickpat/private-machine
 
-⭐ 38 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/flamingrickpat/private-machine) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/flamingrickpat/private-machine) · 个人维护
 
 **可本地运行、带持久记忆与内心活动的 AI 伴侣框架**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "flamingrickpat/private-machine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "flamingrickpat/private-machine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39, 39]
 ```
 
-2026-10-18 37 → 2026-11-02 38（+1）
+2026-10-18 37 → 2026-11-17 39（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # wilsonrljr/sysidentpy
 
-⭐ 525 · Python · BSD-3-Clause · 推送 2026-09-13 · [GitHub](https://github.com/wilsonrljr/sysidentpy) · [官网](https://sysidentpy.org) · 个人维护
+⭐ 526 · Python · BSD-3-Clause · 推送 2026-09-13 · [GitHub](https://github.com/wilsonrljr/sysidentpy) · [官网](https://sysidentpy.org) · 个人维护
 
 **基于 NARMAX 的系统辨识与时间序列预测 Python 库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wilsonrljr/sysidentpy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 522 --> 526
-    line [523, 524, 525, 525]
+    title "wilsonrljr/sysidentpy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 522 --> 527
+    line [523, 524, 525, 526, 526]
 ```
 
-2026-10-18 523 → 2026-11-02 525（+2）
+2026-10-18 523 → 2026-11-17 526（+3）
 
 
 ---

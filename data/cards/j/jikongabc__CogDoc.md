@@ -1,6 +1,6 @@
 # jikongabc/CogDoc
 
-⭐ 18 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/jikongabc/CogDoc) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/jikongabc/CogDoc) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识与研究工作台：多源 RAG 与可验证引用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jikongabc/CogDoc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 18]
+    title "jikongabc/CogDoc 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 18, 19, 18, 20, 22, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 18（+0）
+2026-10-18 18 → 2026-11-17 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # BioTender-max/awesome-bio-agent-skills
 
-⭐ 212 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/BioTender-max/awesome-bio-agent-skills) · [官网](https://biotender-max.github.io/awesome-bio-agent-skills/) · 组织维护 · 中文 README
+⭐ 221 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/BioTender-max/awesome-bio-agent-skills) · [官网](https://biotender-max.github.io/awesome-bio-agent-skills/) · 组织维护 · 中文 README
 
 **生物医学 AI agent 技能策展清单（1,722 条，16 类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BioTender-max/awesome-bio-agent-skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 201 --> 213
-    line [202, 203, 204, 206, 208, 209, 210, 211, 212, 212]
+    title "BioTender-max/awesome-bio-agent-skills 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 201 --> 222
+    line [202, 203, 204, 206, 208, 209, 210, 211, 212, 206, 217, 218, 219, 220, 221, 221]
 ```
 
-2026-10-18 202 → 2026-11-02 212（+10）
+2026-10-18 202 → 2026-11-17 221（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # EvoMap/awesome-agent-evolution
 
-⭐ 237 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/EvoMap/awesome-agent-evolution) · 组织维护
+⭐ 241 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/EvoMap/awesome-agent-evolution) · 组织维护
 
 **AI Agent 自我进化、记忆系统与多智能体架构的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvoMap/awesome-agent-evolution 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 234 --> 238
-    line [235, 236, 237, 237]
+    title "EvoMap/awesome-agent-evolution 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 234 --> 242
+    line [235, 236, 237, 235, 237, 238, 239, 240, 241, 241]
 ```
 
-2026-10-18 235 → 2026-11-02 237（+2）
+2026-10-18 235 → 2026-11-17 241（+6）
 
 
 ---

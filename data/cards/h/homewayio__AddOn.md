@@ -1,6 +1,6 @@
 # homewayio/AddOn
 
-⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/homewayio/AddOn) · [官网](https://homeway.io) · 组织维护
+⭐ 49 · Python · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/homewayio/AddOn) · [官网](https://homeway.io) · 组织维护
 
 **面向 Home Assistant 的免费远程访问云服务，附 AI 语音助手与 MCP**
 
@@ -45,13 +45,13 @@ Home Assistant 社区云项目，提供远程访问、官方 iOS/Android 应用�
 
 ```mermaid
 xychart-beta
-    title "homewayio/AddOn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "homewayio/AddOn 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    line [48, 49, 48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-11-02 49（+1）
+2026-10-18 48 → 2026-11-17 49（+1）
 
 
 ---

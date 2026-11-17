@@ -1,6 +1,6 @@
 # oficcejo/okx-2pa-agent-web
 
-⭐ 26 · Python · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/oficcejo/okx-2pa-agent-web) · [官网](https://2pa.zhongdu.net) · 个人维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/oficcejo/okx-2pa-agent-web) · [官网](https://2pa.zhongdu.net) · 个人维护 · 中文 README
 
 **面向 OKX 的 AI 两阶段价格行为自动交易 Web 程序**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oficcejo/okx-2pa-agent-web 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 22, 23, 24, 25, 26, 26]
+    title "oficcejo/okx-2pa-agent-web 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 21 --> 29
+    line [22, 23, 22, 23, 24, 25, 26, 23, 26, 27, 28, 28]
 ```
 
-2026-10-18 22 → 2026-11-02 26（+4）
+2026-10-18 22 → 2026-11-17 28（+6）
 
 
 ---

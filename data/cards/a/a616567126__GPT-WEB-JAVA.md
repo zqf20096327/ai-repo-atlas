@@ -1,6 +1,6 @@
 # a616567126/GPT-WEB-JAVA
 
-⭐ 777 · Java · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/a616567126/GPT-WEB-JAVA) · 个人维护 · 中文 README
+⭐ 776 · Java · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/a616567126/GPT-WEB-JAVA) · 个人维护 · 中文 README
 
 **Java 商用 AI 聊天机器人系统：GPT 对话与多引擎画图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "a616567126/GPT-WEB-JAVA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 776 --> 778
-    line [777, 777]
+    title "a616567126/GPT-WEB-JAVA 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 774 --> 778
+    line [777, 775, 776, 776]
 ```
 
-2026-10-18 777 → 2026-11-02 777（+0）
+2026-10-18 777 → 2026-11-17 776（-1）
 
 
 ---

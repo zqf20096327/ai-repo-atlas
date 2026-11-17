@@ -1,6 +1,6 @@
 # JunsW/feature-track
 
-⭐ 107 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/JunsW/feature-track) · 个人维护
+⭐ 106 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/JunsW/feature-track) · 个人维护
 
 **给 AI 编程 agent 的仓库内共享记忆层：Markdown 特性索引与轨道文件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JunsW/feature-track 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 106 --> 110
-    line [108, 109, 107, 107]
+    title "JunsW/feature-track 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 105 --> 110
+    line [108, 109, 107, 106, 106]
 ```
 
-2026-10-18 108 → 2026-11-02 107（-1）
+2026-10-18 108 → 2026-11-17 106（-2）
 
 
 ---

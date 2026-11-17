@@ -1,6 +1,6 @@
 # elias-soykat/interview-copilot
 
-⭐ 29 · TypeScript · 推送 2026-09-12 · [GitHub](https://github.com/elias-soykat/interview-copilot) · [官网](https://interview-copilot.app) · 个人维护
+⭐ 32 · TypeScript · 推送 2026-09-12 · [GitHub](https://github.com/elias-soykat/interview-copilot) · [官网](https://interview-copilot.app) · 个人维护
 
 **面试实时助手桌面应用：听题、转写并生成答案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elias-soykat/interview-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "elias-soykat/interview-copilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 33
+    line [29, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 32（+3）
 
 
 ---

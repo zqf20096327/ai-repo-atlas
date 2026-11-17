@@ -1,6 +1,6 @@
 # Myzel394/zsh-copilot
 
-⭐ 179 · Shell · 推送 2026-01-22 · [GitHub](https://github.com/Myzel394/zsh-copilot) · [官网](https://git.myzel394.app/Myzel394/zsh-copilot) · 个人维护
+⭐ 178 · Shell · 推送 2026-01-22 · [GitHub](https://github.com/Myzel394/zsh-copilot) · [官网](https://git.myzel394.app/Myzel394/zsh-copilot) · 个人维护
 
 **Zsh 插件：按快捷键将输入交给 LLM 生成命令建议**
 
@@ -45,13 +45,13 @@ Zsh 插件，用户在命令行输入想法或不完整命令后按 CTRL+Z，由
 
 ```mermaid
 xychart-beta
-    title "Myzel394/zsh-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
+    title "Myzel394/zsh-copilot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 176 --> 180
-    line [177, 178, 179]
+    line [177, 178, 179, 178, 179, 178, 178]
 ```
 
-2026-10-18 177 → 2026-11-02 179（+2）
+2026-10-18 177 → 2026-11-17 178（+1）
 
 
 ---

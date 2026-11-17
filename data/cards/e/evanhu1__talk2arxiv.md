@@ -1,6 +1,6 @@
 # evanhu1/talk2arxiv
 
-⭐ 531 · TypeScript · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/evanhu1/talk2arxiv) · [官网](https://talk2arxiv.org) · 个人维护
+⭐ 532 · TypeScript · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/evanhu1/talk2arxiv) · [官网](https://talk2arxiv.org) · 个人维护
 
 **把 arXiv/bioRxiv 论文链接变成可对话阅读器的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "evanhu1/talk2arxiv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 529 --> 532
-    line [530, 531, 531]
+    title "evanhu1/talk2arxiv 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 529 --> 533
+    line [530, 531, 532, 532]
 ```
 
-2026-10-18 530 → 2026-11-02 531（+1）
+2026-10-18 530 → 2026-11-17 532（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # V1ki/zero
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/V1ki/zero) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/V1ki/zero) · 个人维护 · 中文 README
 
 **本地优先的持久化 AI Agent 运行时操作系统，含 Web 控制台**
 
@@ -45,12 +45,12 @@ Bun + TypeScript monorepo，提供持久化 agent 运行时：跨模型提供商
 ```mermaid
 xychart-beta
     title "V1ki/zero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hoangsonww/StudySync-Study-Buddy-App
 
-⭐ 29 · Vue · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/StudySync-Study-Buddy-App) · [官网](https://study-sync-app.vercel.app) · 个人维护
+⭐ 30 · Vue · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/StudySync-Study-Buddy-App) · [官网](https://study-sync-app.vercel.app) · 个人维护
 
 **面向学生的全栈生产力应用：番茄钟、闪卡、待办与 AI 学习助手**
 
@@ -44,13 +44,13 @@ Vue+Vuetify 前端与 Node/Express 后端构成的学习生产力 Web 应用，�
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/StudySync-Study-Buddy-App 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "hoangsonww/StudySync-Study-Buddy-App 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 30（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVlabs/DLER
 
-⭐ 21 · Python · NOASSERTION · 推送 2025-11-11 · [GitHub](https://github.com/NVlabs/DLER) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **RL 训练方法：压缩推理链长度且保持准确率**
 
@@ -11,7 +11,7 @@ NVIDIA 研究团队提出的强化学习训练方法 DLER，通过长度惩罚�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ NVIDIA 研究团队提出的强化学习训练方法 DLER，通过长度惩罚�
 ```mermaid
 xychart-beta
     title "NVlabs/DLER 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-07 21（+0）
 
 
 ---

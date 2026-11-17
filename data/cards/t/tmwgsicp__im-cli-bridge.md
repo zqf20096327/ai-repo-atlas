@@ -1,6 +1,6 @@
 # tmwgsicp/im-cli-bridge
 
-⭐ 23 · JavaScript · 推送 2026-07-07 · [GitHub](https://github.com/tmwgsicp/im-cli-bridge) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · 推送 2026-11-03 · [GitHub](https://github.com/tmwgsicp/im-cli-bridge) · 个人维护 · 中文 README
 
 **把 IM 平台桥接到 AI 编程 CLI 的手机远程编程工具**
 
@@ -46,12 +46,12 @@ Node.js 桥接器：连接微信、Telegram、Discord、飞书、Slack、企业�
 ```mermaid
 xychart-beta
     title "tmwgsicp/im-cli-bridge 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-17"]
     y-axis "stars" 18 --> 24
     line [19, 21, 22, 23, 23]
 ```
 
-2026-10-18 19 → 2026-11-02 23（+4）
+2026-10-18 19 → 2026-11-17 23（+4）
 
 
 ---

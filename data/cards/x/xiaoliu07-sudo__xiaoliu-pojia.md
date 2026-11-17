@@ -1,6 +1,6 @@
 # xiaoliu07-sudo/xiaoliu-pojia
 
-⭐ 64 · Python · 推送 2026-08-04 · [GitHub](https://github.com/xiaoliu07-sudo/xiaoliu-pojia) · 个人维护 · 中文 README
+⭐ 67 · Python · 推送 2026-08-04 · [GitHub](https://github.com/xiaoliu07-sudo/xiaoliu-pojia) · 个人维护 · 中文 README
 
 **Codex CLI 破甲提示词与一键部署工具，解除安全拒绝**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoliu07-sudo/xiaoliu-pojia 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 54 --> 65
-    line [55, 56, 59, 60, 61, 63, 64]
+    title "xiaoliu07-sudo/xiaoliu-pojia 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 54 --> 68
+    line [55, 56, 59, 60, 61, 63, 64, 60, 65, 66, 67, 67]
 ```
 
-2026-10-18 55 → 2026-11-02 64（+9）
+2026-10-18 55 → 2026-11-17 67（+12）
 
 
 ---

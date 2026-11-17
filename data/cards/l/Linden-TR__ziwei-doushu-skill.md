@@ -1,6 +1,6 @@
 # Linden-TR/ziwei-doushu-skill
 
-⭐ 14 · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Linden-TR/ziwei-doushu-skill) · 个人维护 · 中文 README
+⭐ 17 · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Linden-TR/ziwei-doushu-skill) · 个人维护 · 中文 README
 
 **面向 Claude Code 的紫微斗数排盘与命理分析技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Linden-TR/ziwei-doushu-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14, 14]
+    title "Linden-TR/ziwei-doushu-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 9 --> 18
+    line [10, 11, 12, 13, 14, 11, 16, 17, 17]
 ```
 
-2026-10-18 10 → 2026-11-02 14（+4）
+2026-10-18 10 → 2026-11-17 17（+7）
 
 
 ---

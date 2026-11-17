@@ -1,6 +1,6 @@
 # reunios2024/cortex-sentinel-trading-nexus
 
-⭐ 123 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/reunios2024/cortex-sentinel-trading-nexus) · 组织维护
+⭐ 125 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/reunios2024/cortex-sentinel-trading-nexus) · 组织维护
 
 **多源舆情融合引擎：六渠道信号聚合产出信念加权共识分**
 
@@ -45,13 +45,13 @@ SolaraX 从六个渠道（Polymarket、Kalshi、社交、链上治理投票、�
 
 ```mermaid
 xychart-beta
-    title "reunios2024/cortex-sentinel-trading-nexus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 122 --> 125
-    line [124, 123, 123]
+    title "reunios2024/cortex-sentinel-trading-nexus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 122 --> 126
+    line [124, 123, 124, 125, 125]
 ```
 
-2026-10-18 124 → 2026-11-02 123（-1）
+2026-10-18 124 → 2026-11-17 125（+1）
 
 
 ---

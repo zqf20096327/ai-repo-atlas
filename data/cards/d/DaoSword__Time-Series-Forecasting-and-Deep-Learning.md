@@ -1,6 +1,6 @@
 # DaoSword/Time-Series-Forecasting-and-Deep-Learning
 
-⭐ 809 · Python · 推送 2026-10-19 · [GitHub](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) · 个人维护
+⭐ 812 · Python · 推送 2026-10-19 · [GitHub](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) · 个人维护
 
 **时间序列预测与深度学习研究论文及资源清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DaoSword/Time-Series-Forecasting-and-Deep-Learning 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 806 --> 810
-    line [807, 808, 807, 808, 809, 809]
+    title "DaoSword/Time-Series-Forecasting-and-Deep-Learning 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 806 --> 813
+    line [807, 808, 807, 808, 809, 808, 810, 811, 812, 812]
 ```
 
-2026-10-18 807 → 2026-11-02 809（+2）
+2026-10-18 807 → 2026-11-17 812（+5）
 
 
 ---

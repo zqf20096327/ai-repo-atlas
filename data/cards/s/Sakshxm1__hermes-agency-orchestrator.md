@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sakshxm1/hermes-agency-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Sakshxm1/hermes-agency-orchestrator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-07"]
     y-axis "stars" 146 --> 150
-    line [149, 147]
+    line [149, 147, 149, 149]
 ```
 
-2026-10-18 149 → 2026-10-28 147（-2）
+2026-10-18 149 → 2026-11-07 149（+0）
 
 
 ---

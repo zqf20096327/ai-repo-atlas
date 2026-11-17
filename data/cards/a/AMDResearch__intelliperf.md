@@ -1,6 +1,6 @@
 # AMDResearch/intelliperf
 
-⭐ 23 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/AMDResearch/intelliperf) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/AMDResearch/intelliperf) · 组织维护
 
 **AMD 出品的 LLM 驱动 GPU 内核性能自动优化框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AMDResearch/intelliperf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "AMDResearch/intelliperf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

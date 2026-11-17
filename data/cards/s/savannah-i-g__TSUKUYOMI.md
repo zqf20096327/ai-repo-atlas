@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "savannah-i-g/TSUKUYOMI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    title "savannah-i-g/TSUKUYOMI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 93 --> 96
+    line [95, 94, 95, 95]
 ```
 
-2026-10-18 95 → 2026-11-02 95（+0）
+2026-10-18 95 → 2026-11-17 95（+0）
 
 
 ---

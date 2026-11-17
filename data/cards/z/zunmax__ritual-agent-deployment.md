@@ -1,6 +1,6 @@
 # zunmax/ritual-agent-deployment
 
-⭐ 74 · PowerShell · MIT · 推送 2026-06-29 · [GitHub](https://github.com/zunmax/ritual-agent-deployment) · 个人维护
+⭐ 73 · PowerShell · MIT · 推送 2026-06-29 · [GitHub](https://github.com/zunmax/ritual-agent-deployment) · 个人维护
 
 **一条命令在 Ritual 测试网部署自资助的链上 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zunmax/ritual-agent-deployment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 73 --> 76
-    line [75, 74, 74]
+    title "zunmax/ritual-agent-deployment 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 72 --> 76
+    line [75, 74, 73, 73]
 ```
 
-2026-10-18 75 → 2026-11-02 74（-1）
+2026-10-18 75 → 2026-11-17 73（-2）
 
 
 ---

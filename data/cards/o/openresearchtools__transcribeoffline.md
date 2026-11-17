@@ -1,6 +1,6 @@
 # openresearchtools/transcribeoffline
 
-⭐ 20 · Rust · MIT · 推送 2026-09-22 · [GitHub](https://github.com/openresearchtools/transcribeoffline) · [官网](https://transcribeoffline.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **完全离线的本地音频/视频转写桌面应用，支持说话人分离**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "openresearchtools/transcribeoffline 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "openresearchtools/transcribeoffline 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 19, 22]
 ```
 
-2026-10-18 18 → 2026-11-02 20（+2）
+2026-10-18 18 → 2026-11-08 22（+4）
 
 
 ---

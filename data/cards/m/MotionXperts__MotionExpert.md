@@ -1,6 +1,6 @@
 # MotionXperts/MotionExpert
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/MotionXperts/MotionExpert) · [官网](https://motionxperts.github.io/) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/MotionXperts/MotionExpert) · [官网](https://motionxperts.github.io/) · 组织维护
 
 **基于运动分析生成体育教练指导语的生成式指令模型（ACL 2025）**
 
@@ -44,13 +44,13 @@ CoachMe 是 ACL 2025 论文的官方实现：基于 3D 骨骼坐标序列（22 �
 
 ```mermaid
 xychart-beta
-    title "MotionXperts/MotionExpert 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 30, 30]
+    title "MotionXperts/MotionExpert 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

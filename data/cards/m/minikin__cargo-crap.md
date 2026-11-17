@@ -1,6 +1,6 @@
 # minikin/cargo-crap
 
-⭐ 431 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/minikin/cargo-crap) · [官网](https://crates.io/crates/cargo-crap) · 个人维护
+⭐ 435 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/minikin/cargo-crap) · [官网](https://crates.io/crates/cargo-crap) · 个人维护
 
 **Rust 项目的 CRAP 变更风险度量 cargo 插件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "minikin/cargo-crap 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 422 --> 432
-    line [423, 426, 428, 429, 430, 431, 431]
+    title "minikin/cargo-crap 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 422 --> 436
+    line [423, 426, 428, 429, 430, 431, 429, 432, 433, 434, 435, 435]
 ```
 
-2026-10-18 423 → 2026-11-02 431（+8）
+2026-10-18 423 → 2026-11-17 435（+12）
 
 
 ---

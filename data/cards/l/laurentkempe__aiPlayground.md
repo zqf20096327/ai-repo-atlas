@@ -1,6 +1,6 @@
 # laurentkempe/aiPlayground
 
-⭐ 83 · C# · 推送 2026-04-30 · [GitHub](https://github.com/laurentkempe/aiPlayground) · [官网](https://laurentkempe.com/) · 个人维护
+⭐ 84 · C# · 推送 2026-04-30 · [GitHub](https://github.com/laurentkempe/aiPlayground) · [官网](https://laurentkempe.com/) · 个人维护
 
 **.NET/C# AI 实验项目集合：MCP 服务端与本地 LLM 工具调用示例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "laurentkempe/aiPlayground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    title "laurentkempe/aiPlayground 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 82 --> 85
+    line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 84（+1）
 
 
 ---

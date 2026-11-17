@@ -1,6 +1,6 @@
 # Lesur-ai/hivemind
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lesur-ai/hivemind) · [官网](https://lesur.ai/hivemind) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Lesur-ai/hivemind) · [官网](https://lesur.ai/hivemind) · 组织维护
 
 **面向多 Agent 共享记忆的 MCP 记忆层服务（短/中/长三层）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lesur-ai/hivemind 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 12 --> 23
-    line [13, 16, 19, 20, 22, 22]
+    title "Lesur-ai/hivemind 星数(近 11 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 12 --> 26
+    line [13, 16, 19, 20, 22, 16, 22, 23, 24, 25, 25]
 ```
 
-2026-10-23 13 → 2026-11-02 22（+9）
+2026-10-23 13 → 2026-11-17 25（+12）
 
 
 ---

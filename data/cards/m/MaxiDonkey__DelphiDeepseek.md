@@ -1,6 +1,6 @@
 # MaxiDonkey/DelphiDeepseek
 
-⭐ 99 · Pascal · MIT · 推送 2025-11-30 · [GitHub](https://github.com/MaxiDonkey/DelphiDeepseek) · 个人维护
+⭐ 101 · Pascal · MIT · 推送 2025-11-30 · [GitHub](https://github.com/MaxiDonkey/DelphiDeepseek) · 个人维护
 
 **Delphi 的 DeepSeek API 封装库，含 LM Studio 本地模型支持**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxiDonkey/DelphiDeepseek 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    title "MaxiDonkey/DelphiDeepseek 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 98 --> 102
+    line [99, 100, 101, 101]
 ```
 
-2026-10-18 99 → 2026-11-02 99（+0）
+2026-10-18 99 → 2026-11-17 101（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # j1s4nn/duomind
 
-⭐ 15 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/j1s4nn/duomind) · [官网](https://j1s4nn.github.io/duomind) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **双系统本地 LLM 服务器：Jev 分类 API 引导小模型推理**
 
@@ -11,7 +11,7 @@ DuoMind 是一个 OpenAI 兼容的本地 LLM 服务器：System 2 为经 llama.c
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ DuoMind 是一个 OpenAI 兼容的本地 LLM 服务器：System 2 为经 llama.c
 
 ```mermaid
 xychart-beta
-    title "j1s4nn/duomind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 14 --> 18
-    line [16, 17, 15, 15]
+    title "j1s4nn/duomind 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 8 --> 18
+    line [16, 17, 15, 9, 9]
 ```
 
-2026-10-18 16 → 2026-11-02 15（-1）
+2026-10-18 16 → 2026-11-12 9（-7）
 
 
 ---

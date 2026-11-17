@@ -1,6 +1,6 @@
 # maneja81/OpenOrbit
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/maneja81/OpenOrbit) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/maneja81/OpenOrbit) · 个人维护
 
 **本地优先的桌面 AI 多智能体编排应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maneja81/OpenOrbit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
+    title "maneja81/OpenOrbit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

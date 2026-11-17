@@ -1,6 +1,6 @@
 # dingodb/dingo
 
-⭐ 1,705 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dingodb/dingo) · [官网](https://www.dingodb.com) · 组织维护 · 中文 README
+⭐ 1,706 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dingodb/dingo) · [官网](https://www.dingodb.com) · 组织维护 · 中文 README
 
 **DataCanvas 开源的分布式多模态向量数据库，SQL 与向量统一检索**
 
@@ -44,13 +44,13 @@ DingoDB 是 DataCanvas 自研的开源分布式多模态向量数据库，把关
 
 ```mermaid
 xychart-beta
-    title "dingodb/dingo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 1703 --> 1706
-    line [1705, 1704, 1705, 1705]
+    title "dingodb/dingo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 1703 --> 1707
+    line [1705, 1704, 1705, 1704, 1706, 1706]
 ```
 
-2026-10-18 1,705 → 2026-11-02 1,705（+0）
+2026-10-18 1,705 → 2026-11-17 1,706（+1）
 
 
 ---

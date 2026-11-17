@@ -1,6 +1,6 @@
 # maruf009sultan/AIELTS-WRITING
 
-⭐ 23 · TypeScript · MIT · 推送 2026-01-10 · [GitHub](https://github.com/maruf009sultan/AIELTS-WRITING) · [官网](https://ielts-writing-orcin.vercel.app/) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-01-10 · [GitHub](https://github.com/maruf009sultan/AIELTS-WRITING) · [官网](https://ielts-writing-orcin.vercel.app/) · 个人维护
 
 **面向雅思考生与英语学习者的 AI 写作评分与反馈 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maruf009sultan/AIELTS-WRITING 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "maruf009sultan/AIELTS-WRITING 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

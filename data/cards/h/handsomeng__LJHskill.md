@@ -1,6 +1,6 @@
 # handsomeng/LJHskill
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/handsomeng/LJHskill) · 组织维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/handsomeng/LJHskill) · 组织维护 · 中文 README
 
 **内容电商增长 AI 工具箱：25 个业务 skill 帮电商团队诊断经营问题**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "handsomeng/LJHskill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    title "handsomeng/LJHskill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 13 --> 18
+    line [14, 16, 14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-02 16（+2）
+2026-10-18 14 → 2026-11-17 17（+3）
 
 
 ---

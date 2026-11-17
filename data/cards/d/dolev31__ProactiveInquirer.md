@@ -1,6 +1,6 @@
 # dolev31/ProactiveInquirer
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/dolev31/ProactiveInquirer) · [官网](https://dolev31.github.io/ProactiveInquirer/) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/dolev31/ProactiveInquirer) · [官网](https://dolev31.github.io/ProactiveInquirer/) · 组织维护
 
 **研究代码库：用需求图评测 agent 主动性并以 Q&D 训练提问器**
 
@@ -45,13 +45,13 @@ IBM 与魏茨曼科学研究所研究团队的论文配套代码：研究工具�
 
 ```mermaid
 xychart-beta
-    title "dolev31/ProactiveInquirer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 14, 15, 18]
+    title "dolev31/ProactiveInquirer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 23
+    line [12, 13, 14, 15, 18, 14, 21, 22, 22]
 ```
 
-2026-10-18 12 → 2026-11-02 18（+6）
+2026-10-18 12 → 2026-11-17 22（+10）
 
 
 ---

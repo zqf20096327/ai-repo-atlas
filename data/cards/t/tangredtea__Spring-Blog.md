@@ -1,6 +1,6 @@
 # tangredtea/Spring-Blog
 
-⭐ 247 · Java · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/tangredtea/Spring-Blog) · 个人维护 · 中文 README
+⭐ 248 · Java · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/tangredtea/Spring-Blog) · 个人维护 · 中文 README
 
 **Spring Boot 个人博客系统，可选接入 AI 做摘要与标签**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tangredtea/Spring-Blog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 245 --> 248
-    line [246, 247, 247]
+    title "tangredtea/Spring-Blog 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 245 --> 249
+    line [246, 247, 246, 247, 248, 248]
 ```
 
-2026-10-18 246 → 2026-11-02 247（+1）
+2026-10-18 246 → 2026-11-17 248（+2）
 
 
 ---

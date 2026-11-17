@@ -1,6 +1,6 @@
 # itzzritik/OrderWorder
 
-⭐ 139 · Python · 推送 2026-09-29 · [GitHub](https://github.com/itzzritik/OrderWorder) · [官网](https://orderworder.ritik.me) · 个人维护
+⭐ 142 · Python · 推送 2026-09-29 · [GitHub](https://github.com/itzzritik/OrderWorder) · [官网](https://orderworder.ritik.me) · 个人维护
 
 **AI 餐厅助手赋能的无接触扫码点餐全栈 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itzzritik/OrderWorder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    title "itzzritik/OrderWorder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 138 --> 143
+    line [139, 142, 142]
 ```
 
-2026-10-18 139 → 2026-11-02 139（+0）
+2026-10-18 139 → 2026-11-17 142（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # instadeepai/flashbax
 
-⭐ 282 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/instadeepai/flashbax) · [官网](https://instadeepai.github.io/flashbax/) · 组织维护
+⭐ 281 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/instadeepai/flashbax) · [官网](https://instadeepai.github.io/flashbax/) · 组织维护
 
 **面向 JAX 强化学习的加速经验回放缓冲区库**
 
@@ -44,13 +44,13 @@ InstaDeep 维护的 Python 库，为强化学习提供可在 jax.jit/jax.pmap �
 
 ```mermaid
 xychart-beta
-    title "instadeepai/flashbax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "instadeepai/flashbax 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 280 --> 283
-    line [281, 282, 282]
+    line [281, 282, 281, 282, 281, 281]
 ```
 
-2026-10-18 281 → 2026-11-02 282（+1）
+2026-10-18 281 → 2026-11-17 281（+0）
 
 
 ---

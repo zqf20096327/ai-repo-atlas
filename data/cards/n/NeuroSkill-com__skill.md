@@ -1,6 +1,6 @@
 # NeuroSkill-com/skill
 
-⭐ 105 · Rust · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/NeuroSkill-com/skill) · [官网](https://neuroskill.com) · 组织维护
+⭐ 106 · Rust · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/NeuroSkill-com/skill) · [官网](https://neuroskill.com) · 组织维护
 
 **本地优先的桌面神经反馈与 BCI 研究工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeuroSkill-com/skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    title "NeuroSkill-com/skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 104 --> 107
+    line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-11-02 105（+0）
+2026-10-18 105 → 2026-11-17 106（+1）
 
 
 ---

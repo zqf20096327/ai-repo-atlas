@@ -1,6 +1,6 @@
 # umfieldrobotics/SurfSLAM_Stereo
 
-⭐ 14 · Python · 推送 2026-09-18 · [GitHub](https://github.com/umfieldrobotics/SurfSLAM_Stereo) · [官网](https://umfieldrobotics.github.io/SurfSLAM/) · 组织维护
+⭐ 16 · Python · 推送 2026-09-18 · [GitHub](https://github.com/umfieldrobotics/SurfSLAM_Stereo) · [官网](https://umfieldrobotics.github.io/SurfSLAM/) · 组织维护
 
 **水下双目深度估计与实时 SLAM 的训练推理代码（科研论文配套）**
 
@@ -45,13 +45,13 @@ SurfSLAM 论文的立体视觉训练与推理代码：用仿真数据加自监�
 
 ```mermaid
 xychart-beta
-    title "umfieldrobotics/SurfSLAM_Stereo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "umfieldrobotics/SurfSLAM_Stereo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 16（+3）
 
 
 ---

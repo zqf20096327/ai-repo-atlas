@@ -1,6 +1,6 @@
 # nguyennguyenit/Sapo-MCP
 
-⭐ 12 · TypeScript · MIT · 推送 2026-04-30 · [GitHub](https://github.com/nguyennguyenit/Sapo-MCP) · [官网](https://sapo-mcp-overview.pages.dev) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-04-30 · [GitHub](https://github.com/nguyennguyenit/Sapo-MCP) · [官网](https://sapo-mcp-overview.pages.dev) · 个人维护 · 中文 README
 
 **Sapo.vn POS/电商平台的 MCP 服务器：105 工具接入 AI 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nguyennguyenit/Sapo-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "nguyennguyenit/Sapo-MCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SiliconLabsSoftware/arduino 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-31"]
+    title "SiliconLabsSoftware/arduino 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-31", "2026-11-06", "2026-11-07"]
     y-axis "stars" 165 --> 168
-    line [167, 166]
+    line [167, 166, 167, 167]
 ```
 
-2026-10-22 167 → 2026-10-31 166（-1）
+2026-10-22 167 → 2026-11-07 167（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Echoshard/Gemini_Discordbot
 
-⭐ 100 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/Echoshard/Gemini_Discordbot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **接入 Gemini API 的 Discord 对话机器人，支持图文与记忆**
 
@@ -11,7 +11,7 @@ Python 编写的 Discord 机器人，调用 Google Gemini API（现使用 Gemini
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Python 编写的 Discord 机器人，调用 Google Gemini API（现使用 Gemini
 
 ```mermaid
 xychart-beta
-    title "Echoshard/Gemini_Discordbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    title "Echoshard/Gemini_Discordbot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12"]
+    y-axis "stars" 99 --> 102
+    line [100, 101, 101]
 ```
 
-2026-10-18 100 → 2026-11-02 100（+0）
+2026-10-18 100 → 2026-11-12 101（+1）
 
 
 ---

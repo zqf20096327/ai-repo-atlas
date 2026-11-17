@@ -1,6 +1,6 @@
 # shengjidaguai-china/xiaoguan
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/shengjidaguai-china/xiaoguan) · 个人维护 · 中文 README
+⭐ 47 · Python · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/shengjidaguai-china/xiaoguan) · 个人维护 · 中文 README
 
 **面向 B 端销售的 Codex Skill：客户心理判断与成交策略助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shengjidaguai-china/xiaoguan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 41 --> 45
-    line [42, 44, 44]
+    title "shengjidaguai-china/xiaoguan 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 41 --> 48
+    line [42, 44, 42, 46, 47, 47]
 ```
 
-2026-10-18 42 → 2026-11-02 44（+2）
+2026-10-18 42 → 2026-11-17 47（+5）
 
 
 ---

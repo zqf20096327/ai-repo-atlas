@@ -1,6 +1,6 @@
 # Sega757/Adaptive-AtomRAG
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/Sega757/Adaptive-AtomRAG) · 个人维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/Sega757/Adaptive-AtomRAG) · 个人维护
 
 **GraphRAG 的查询路由网关：按查询复杂度分流降本提速**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sega757/Adaptive-AtomRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    title "Sega757/Adaptive-AtomRAG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 84 --> 87
+    line [85, 86, 86]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 86（+1）
 
 
 ---

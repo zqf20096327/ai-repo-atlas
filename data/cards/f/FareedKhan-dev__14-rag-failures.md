@@ -1,6 +1,6 @@
 # FareedKhan-dev/14-rag-failures
 
-⭐ 34 · Jupyter Notebook · MIT · 推送 2025-12-04 · [GitHub](https://github.com/FareedKhan-dev/14-rag-failures) · [官网](https://medium.com/@fareedkhandev/solving-14-common-rag-failures-through-knowledge-graphs-7125a8837a17) · 个人维护
+⭐ 35 · Jupyter Notebook · MIT · 推送 2025-12-04 · [GitHub](https://github.com/FareedKhan-dev/14-rag-failures) · [官网](https://medium.com/@fareedkhandev/solving-14-common-rag-failures-through-knowledge-graphs-7125a8837a17) · 个人维护
 
 **14 个 Notebook 演示朴素 RAG 失败场景及知识图谱解法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/14-rag-failures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "FareedKhan-dev/14-rag-failures 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 35（+1）
 
 
 ---

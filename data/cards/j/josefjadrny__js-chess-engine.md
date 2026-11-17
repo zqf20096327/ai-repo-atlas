@@ -1,6 +1,6 @@
 # josefjadrny/js-chess-engine
 
-⭐ 168 · TypeScript · MIT · 推送 2026-02-22 · [GitHub](https://github.com/josefjadrny/js-chess-engine) · [官网](http://chess.josefjadrny.info/) · 个人维护
+⭐ 169 · TypeScript · MIT · 推送 2026-02-22 · [GitHub](https://github.com/josefjadrny/js-chess-engine) · [官网](http://chess.josefjadrny.info/) · 个人维护
 
 **零依赖的 TypeScript 国际象棋引擎，供 Node.js 与浏览器使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "josefjadrny/js-chess-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    title "josefjadrny/js-chess-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 167 --> 170
+    line [168, 169, 169]
 ```
 
-2026-10-18 168 → 2026-11-02 168（+0）
+2026-10-18 168 → 2026-11-17 169（+1）
 
 
 ---

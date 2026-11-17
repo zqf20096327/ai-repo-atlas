@@ -1,6 +1,6 @@
 # mikecovlee/qwen3.8-27b-24gb-recipe
 
-⭐ 12 · PowerShell · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mikecovlee/qwen3.8-27b-24gb-recipe) · 个人维护 · 中文 README
+⭐ 13 · PowerShell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/mikecovlee/qwen3.8-27b-24gb-recipe) · 个人维护 · 中文 README
 
 **单张 24GB GPU 上本地运行 Qwen3.8-27B 的 llama.cpp 配置方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikecovlee/qwen3.8-27b-24gb-recipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "mikecovlee/qwen3.8-27b-24gb-recipe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 12（+1）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

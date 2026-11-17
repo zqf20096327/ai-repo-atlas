@@ -1,6 +1,6 @@
 # georgeblck/art-datasets
 
-⭐ 34 · 推送 2026-06-23 · [GitHub](https://github.com/georgeblck/art-datasets) · 个人维护
+⭐ 36 · 推送 2026-06-23 · [GitHub](https://github.com/georgeblck/art-datasets) · 个人维护
 
 **机器学习艺术数据集策展清单：90+ 研究数据集与博物馆馆藏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgeblck/art-datasets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 28 --> 35
-    line [29, 31, 33, 34, 34]
+    title "georgeblck/art-datasets 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 28 --> 37
+    line [29, 31, 33, 34, 33, 35, 36, 36]
 ```
 
-2026-10-18 29 → 2026-11-02 34（+5）
+2026-10-18 29 → 2026-11-17 36（+7）
 
 
 ---

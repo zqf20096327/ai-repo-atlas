@@ -44,13 +44,13 @@ Aaryan Samanta 的个人课程与顶点项目作品集，汇集五个荣誉项�
 
 ```mermaid
 xychart-beta
-    title "aaryansamanta/advanced-ai-curriculum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 330 --> 334
-    line [333, 331, 331]
+    title "aaryansamanta/advanced-ai-curriculum 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 329 --> 334
+    line [333, 331, 330, 331, 331]
 ```
 
-2026-10-18 333 → 2026-11-02 331（-2）
+2026-10-18 333 → 2026-11-17 331（-2）
 
 
 ---

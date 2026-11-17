@@ -1,6 +1,6 @@
 # cybozu/prompt-hardener
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/cybozu/prompt-hardener) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 LLM 应用的提示注入风险静态分析与加固 CLI 工具**
 
@@ -11,7 +11,7 @@ Prompt Hardener 是 cybozu 开发的安全工具，用于分析 LLM agent 与应
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,13 +47,13 @@ Prompt Hardener 是 cybozu 开发的安全工具，用于分析 LLM agent 与应
 
 ```mermaid
 xychart-beta
-    title "cybozu/prompt-hardener 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    title "cybozu/prompt-hardener 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12"]
+    y-axis "stars" 53 --> 56
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-02 54（+0）
+2026-10-18 54 → 2026-11-12 55（+1）
 
 
 ---

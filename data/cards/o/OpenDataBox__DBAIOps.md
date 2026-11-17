@@ -1,6 +1,6 @@
 # OpenDataBox/DBAIOps
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/OpenDataBox/DBAIOps) · [官网](https://www.vldb.org/pvldb/vol19/p1319-zhou.pdf) · 组织维护 · 中文 README
+⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/OpenDataBox/DBAIOps) · [官网](https://www.vldb.org/pvldb/vol19/p1319-zhou.pdf) · 组织维护 · 中文 README
 
 **面向 DBA 的浏览器扩展：LLM 增强的数据库问答与运维分析**
 
@@ -46,13 +46,13 @@ VLDB 2026 论文配套的浏览器扩展（Chromium MV3），面向数据库工�
 
 ```mermaid
 xychart-beta
-    title "OpenDataBox/DBAIOps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "OpenDataBox/DBAIOps 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

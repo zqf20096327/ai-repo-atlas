@@ -1,6 +1,6 @@
 # gambletan/cortex
 
-⭐ 35 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gambletan/cortex) · [官网](https://gambletan.github.io/cortex/) · 个人维护 · 中文 README
+⭐ 38 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gambletan/cortex) · [官网](https://gambletan.github.io/cortex/) · 个人维护 · 中文 README
 
 **给个人 AI agent 的本地优先端到端加密记忆引擎（Rust，MCP）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gambletan/cortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "gambletan/cortex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 34 --> 39
+    line [35, 37, 36, 38, 38]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 38（+3）
 
 
 ---

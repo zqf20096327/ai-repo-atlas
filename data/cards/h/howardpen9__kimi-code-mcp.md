@@ -1,6 +1,6 @@
 # howardpen9/kimi-code-mcp
 
-⭐ 62 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/howardpen9/kimi-code-mcp) · [官网](https://github.com/howardpen9/kimi-code-mcp#readme) · 个人维护 · 中文 README
+⭐ 63 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/howardpen9/kimi-code-mcp) · [官网](https://github.com/howardpen9/kimi-code-mcp#readme) · 个人维护 · 中文 README
 
 **让 Claude Code 把大批代码库分析委托给 Kimi 的 MCP server**
 
@@ -45,13 +45,13 @@ TypeScript 实现的 MCP server，将 Claude Code 与 Kimi Code（k3/kimi-for-co
 
 ```mermaid
 xychart-beta
-    title "howardpen9/kimi-code-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "howardpen9/kimi-code-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 61, 63, 63]
 ```
 
-2026-10-18 61 → 2026-11-02 62（+1）
+2026-10-18 61 → 2026-11-17 63（+2）
 
 
 ---

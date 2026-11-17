@@ -1,6 +1,6 @@
 # agamm/batchata
 
-⭐ 86 · Python · 推送 2026-04-28 · [GitHub](https://github.com/agamm/batchata) · [官网](https://agamm.github.io/batchata/) · 个人维护
+⭐ 87 · Python · 推送 2026-04-28 · [GitHub](https://github.com/agamm/batchata) · [官网](https://agamm.github.io/batchata/) · 个人维护
 
 **统一 Python API 库：跨厂商提交 AI 批量请求并跟踪成本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agamm/batchata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    title "agamm/batchata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 85 --> 88
+    line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-11-02 86（+0）
+2026-10-18 86 → 2026-11-17 87（+1）
 
 
 ---

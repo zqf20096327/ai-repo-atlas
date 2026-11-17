@@ -1,6 +1,6 @@
 # chase-manning/ai-hedge-fund
 
-⭐ 97 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/chase-manning/ai-hedge-fund) · 个人维护
+⭐ 98 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/chase-manning/ai-hedge-fund) · 个人维护
 
 **每4小时由Claude提案、确定性代码执行的多资产AI交易基金**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chase-manning/ai-hedge-fund 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    title "chase-manning/ai-hedge-fund 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 96 --> 99
+    line [97, 98, 98]
 ```
 
-2026-10-23 97 → 2026-11-02 97（+0）
+2026-10-23 97 → 2026-11-17 98（+1）
 
 
 ---

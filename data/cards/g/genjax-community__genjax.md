@@ -1,6 +1,6 @@
 # genjax-community/genjax
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/genjax-community/genjax) · [官网](http://genjax.gen.dev/) · 组织维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/genjax-community/genjax) · [官网](http://genjax.gen.dev/) · 组织维护
 
 **面向科研开发者的 JAX 概率编程库，可编程推断、GPU 并行**
 
@@ -44,13 +44,13 @@ MIT 概率计算项目 Gen 语言在 JAX 上的实现（社区版）：以生成
 
 ```mermaid
 xychart-beta
-    title "genjax-community/genjax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    title "genjax-community/genjax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 56 --> 59
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leetanshaj/openai-sentinel
 
-⭐ 78 · Python · 推送 2025-11-13 · [GitHub](https://github.com/leetanshaj/openai-sentinel) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为开发者生成 ChatGPT/Sora 私有 API 的 PoW 与 Sentinel 令牌**
 
@@ -44,12 +44,12 @@ Python 实现，通过逆向浏览器令牌生成流程，为 OpenAI 的 ChatGPT
 ```mermaid
 xychart-beta
     title "leetanshaj/openai-sentinel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08"]
     y-axis "stars" 76 --> 79
     line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-11-02 78（+1）
+2026-10-18 77 → 2026-11-08 78（+1）
 
 
 ---

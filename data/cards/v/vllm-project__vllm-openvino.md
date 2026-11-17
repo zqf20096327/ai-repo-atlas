@@ -1,6 +1,6 @@
 # vllm-project/vllm-openvino
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/vllm-project/vllm-openvino) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/vllm-project/vllm-openvino) · 组织维护
 
 **为 vLLM 提供 OpenVINO 后端的推理插件，支持 Intel CPU/GPU**
 
@@ -44,13 +44,13 @@ vLLM 的 OpenVINO 后端插件，在支持 AVX2 的 x86-64 CPU 以及 Intel 集�
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-openvino 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    title "vllm-project/vllm-openvino 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 60 --> 63
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-11-02 61（+0）
+2026-10-18 61 → 2026-11-17 62（+1）
 
 
 ---

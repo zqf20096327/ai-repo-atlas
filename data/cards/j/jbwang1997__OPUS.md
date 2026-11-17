@@ -1,6 +1,6 @@
 # jbwang1997/OPUS
 
-⭐ 186 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/jbwang1997/OPUS) · 组织维护 · 中文 README
+⭐ 187 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/jbwang1997/OPUS) · 组织维护 · 中文 README
 
 **自动驾驶 3D 占用预测框架：稀疏点集直接预测占用状态与语义**
 
@@ -44,13 +44,13 @@ NeurIPS 2024 论文 OPUS 及其后续 OPUS-V2 的官方实现，面向自动驾�
 
 ```mermaid
 xychart-beta
-    title "jbwang1997/OPUS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 185 --> 187
-    line [186, 186]
+    title "jbwang1997/OPUS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 185 --> 188
+    line [186, 187, 187]
 ```
 
-2026-10-18 186 → 2026-11-02 186（+0）
+2026-10-18 186 → 2026-11-17 187（+1）
 
 
 ---

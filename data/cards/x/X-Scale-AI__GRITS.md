@@ -1,6 +1,6 @@
 # X-Scale-AI/GRITS
 
-⭐ 13 · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/X-Scale-AI/GRITS) · 组织维护
+⭐ 14 · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/X-Scale-AI/GRITS) · 组织维护
 
 **AI agent 安全治理框架：21 项控制、评分与合规映射**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "X-Scale-AI/GRITS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "X-Scale-AI/GRITS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 14（+1）
 
 
 ---

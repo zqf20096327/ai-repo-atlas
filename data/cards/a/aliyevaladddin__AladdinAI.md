@@ -1,6 +1,6 @@
 # aliyevaladddin/AladdinAI
 
-⭐ 21 · Python · 推送 2026-10-31 · [GitHub](https://github.com/aliyevaladddin/AladdinAI) · [官网](https://aladdinai.cc) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aliyevaladddin/AladdinAI) · [官网](https://aladdinai.cc) · 个人维护
 
 **自托管 BYOI AI Agent 平台：接入自有基础设施构建管理智能体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliyevaladddin/AladdinAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "aliyevaladddin/AladdinAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-11-02 21（+1）
+2026-10-18 20 → 2026-11-17 23（+3）
 
 
 ---

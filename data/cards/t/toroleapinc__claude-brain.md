@@ -1,6 +1,6 @@
 # toroleapinc/claude-brain
 
-⭐ 92 · Shell · MIT · 推送 2026-06-09 · [GitHub](https://github.com/toroleapinc/claude-brain) · [官网](https://toroleapinc.github.io/claude-brain/) · 组织维护 · 中文 README
+⭐ 95 · Shell · MIT · 推送 2026-06-09 · [GitHub](https://github.com/toroleapinc/claude-brain) · [官网](https://toroleapinc.github.io/claude-brain/) · 组织维护 · 中文 README
 
 **跨机器同步 Claude Code 记忆/技能/规则等配置的插件，带语义合并**
 
@@ -44,13 +44,13 @@ Claude Code 插件，通过 Git 远端仓库在多台机器间同步 CLAUDE.md�
 
 ```mermaid
 xychart-beta
-    title "toroleapinc/claude-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    title "toroleapinc/claude-brain 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 90 --> 96
+    line [91, 92, 91, 92, 94, 95, 95]
 ```
 
-2026-10-18 91 → 2026-11-02 92（+1）
+2026-10-18 91 → 2026-11-17 95（+4）
 
 
 ---

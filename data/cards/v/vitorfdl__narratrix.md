@@ -1,6 +1,6 @@
 # vitorfdl/narratrix
 
-⭐ 91 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/vitorfdl/narratrix) · [官网](https://narratrixai.com) · 个人维护
+⭐ 94 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/vitorfdl/narratrix) · [官网](https://narratrixai.com) · 个人维护
 
 **桌面端 AI 辅助跑团与角色扮演应用：角色卡、设定集与可定制提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vitorfdl/narratrix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 90 --> 92
-    line [91, 91]
+    title "vitorfdl/narratrix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 90 --> 95
+    line [91, 92, 93, 94, 94]
 ```
 
-2026-10-18 91 → 2026-11-02 91（+0）
+2026-10-18 91 → 2026-11-17 94（+3）
 
 
 ---

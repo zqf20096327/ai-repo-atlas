@@ -1,6 +1,6 @@
 # angristan/ollama-chat-go-htmx-ws
 
-⭐ 15 · Go · 推送 2025-11-20 · [GitHub](https://github.com/angristan/ollama-chat-go-htmx-ws) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Ollama 本地 LLM 的网页聊天 PoC（Go+htmx+WebSocket）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "angristan/ollama-chat-go-htmx-ws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-15 15（+0）
 
 
 ---

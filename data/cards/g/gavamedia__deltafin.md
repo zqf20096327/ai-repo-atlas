@@ -1,6 +1,6 @@
 # gavamedia/deltafin
 
-⭐ 856 · Rust · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/gavamedia/deltafin) · 个人维护
+⭐ 860 · Rust · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/gavamedia/deltafin) · 个人维护
 
 **单机运行完整 2.8T 参数 Kimi K3 的原生二进制与 OpenAI 兼容服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gavamedia/deltafin 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 849 --> 857
-    line [850, 851, 852, 855, 856, 856]
+    title "gavamedia/deltafin 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 849 --> 861
+    line [850, 851, 852, 855, 856, 851, 858, 859, 860, 860]
 ```
 
-2026-10-18 850 → 2026-11-02 856（+6）
+2026-10-18 850 → 2026-11-17 860（+10）
 
 
 ---

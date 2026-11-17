@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "StalinDev54/MyLifeTracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "StalinDev54/MyLifeTracker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 58 --> 61
+    line [60, 59, 60, 60]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 60（+0）
 
 
 ---

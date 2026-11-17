@@ -1,6 +1,6 @@
 # ajzhai/NeRF2Physics
 
-⭐ 96 · Python · MIT · 推送 2025-11-16 · [GitHub](https://github.com/ajzhai/NeRF2Physics) · [官网](https://ajzhai.github.io/NeRF2Physics/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **从语言嵌入特征场推断 3D 物体物理属性的 CVPR 2024 研究代码**
 
@@ -11,7 +11,7 @@ UIUC 团队 CVPR 2024 论文官方实现：对多视角图像先做 NeRF 重建�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ UIUC 团队 CVPR 2024 论文官方实现：对多视角图像先做 NeRF 重建�
 ```mermaid
 xychart-beta
     title "ajzhai/NeRF2Physics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-11"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-11-02 96（+0）
+2026-10-18 96 → 2026-11-11 96（+0）
 
 
 ---

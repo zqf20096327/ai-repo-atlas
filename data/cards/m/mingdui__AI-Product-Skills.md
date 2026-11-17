@@ -1,6 +1,6 @@
 # mingdui/AI-Product-Skills
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/mingdui/AI-Product-Skills) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/mingdui/AI-Product-Skills) · 个人维护 · 中文 README
 
 **面向产品经理的 11 个 agent skill：需求→PRD→可交互原型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mingdui/AI-Product-Skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 8 --> 12
-    line [9, 11, 11]
+    title "mingdui/AI-Product-Skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 8 --> 14
+    line [9, 11, 12, 13, 13]
 ```
 
-2026-10-18 9 → 2026-11-02 11（+2）
+2026-10-18 9 → 2026-11-17 13（+4）
 
 
 ---

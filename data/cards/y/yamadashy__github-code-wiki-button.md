@@ -1,6 +1,6 @@
 # yamadashy/github-code-wiki-button
 
-⭐ 14 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/yamadashy/github-code-wiki-button) · [官网](https://chromewebstore.google.com/detail/eamgaijkcackfmgpnddepjindfhmobnl) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yamadashy/github-code-wiki-button) · [官网](https://chromewebstore.google.com/detail/eamgaijkcackfmgpnddepjindfhmobnl) · 个人维护
 
 **为 GitHub 仓库添加 Code Wiki 按钮的浏览器扩展**
 
@@ -44,12 +44,12 @@ Chrome/Firefox/Edge 浏览器扩展，在 GitHub 仓库页面上添加跳转 Cod
 ```mermaid
 xychart-beta
     title "yamadashy/github-code-wiki-button 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 14（+0）
 
 
 ---

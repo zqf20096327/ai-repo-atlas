@@ -1,6 +1,6 @@
 # microsoft/vattention
 
-⭐ 526 · C · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/vattention) · 组织维护
+⭐ 528 · C · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/vattention) · 组织维护
 
 **LLM 推理服务的 KV-cache 动态内存管理器，替代 PagedAttention**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/vattention 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 524 --> 527
-    line [525, 526, 526]
+    title "microsoft/vattention 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 524 --> 530
+    line [525, 526, 527, 528, 529, 528, 528]
 ```
 
-2026-10-18 525 → 2026-11-02 526（+1）
+2026-10-18 525 → 2026-11-17 528（+3）
 
 
 ---

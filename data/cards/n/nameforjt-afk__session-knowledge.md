@@ -1,6 +1,6 @@
 # nameforjt-afk/session-knowledge
 
-⭐ 306 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nameforjt-afk/session-knowledge) · 个人维护 · 中文 README
+⭐ 307 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nameforjt-afk/session-knowledge) · 个人维护 · 中文 README
 
 **把 Claude Code 会话历史索引成本地可搜索知识库的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nameforjt-afk/session-knowledge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 304 --> 307
-    line [305, 306, 306]
+    title "nameforjt-afk/session-knowledge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 304 --> 308
+    line [305, 306, 305, 306, 307, 307]
 ```
 
-2026-10-18 305 → 2026-11-02 306（+1）
+2026-10-18 305 → 2026-11-17 307（+2）
 
 
 ---

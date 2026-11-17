@@ -1,6 +1,6 @@
 # rbidou/pyrasp
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/rbidou/pyrasp) · [官网](https://pyrasp.paracyberbellum.io) · 个人维护
+⭐ 40 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/rbidou/pyrasp) · [官网](https://pyrasp.paracyberbellum.io) · 个人维护
 
 **Python Web 与 MCP 服务器的运行时自防护（RASP）安全包**
 
@@ -44,13 +44,13 @@ PyRASP 是面向 Python Web 框架（Flask、FastAPI、Django）、Serverless �
 
 ```mermaid
 xychart-beta
-    title "rbidou/pyrasp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [39, 38, 39, 39]
+    title "rbidou/pyrasp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [39, 38, 39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-02 39（+0）
+2026-10-18 39 → 2026-11-17 40（+1）
 
 
 ---

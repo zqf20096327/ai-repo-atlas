@@ -1,6 +1,6 @@
 # evalkit/evalkit
 
-⭐ 163 · TypeScript · 推送 2025-11-11 · [GitHub](https://github.com/evalkit/evalkit) · [官网](https://evalkit.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **TypeScript 开发者的 LLM 评测库：多项指标评估模型表现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "evalkit/evalkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
     y-axis "stars" 161 --> 164
     line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-11-02 163（+1）
+2026-10-18 162 → 2026-11-07 163（+1）
 
 
 ---

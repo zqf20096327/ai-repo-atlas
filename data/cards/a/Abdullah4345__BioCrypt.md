@@ -1,6 +1,6 @@
 # Abdullah4345/BioCrypt
 
-⭐ 76 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/Abdullah4345/BioCrypt) · [官网](https://youtu.be/QyMXk6T6Zio) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **指纹认证驱动的文件加密系统，含本地/云/IPFS 区块链存储**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abdullah4345/BioCrypt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "Abdullah4345/BioCrypt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-07"]
     y-axis "stars" 75 --> 78
-    line [77, 76, 76]
+    line [77, 76, 77, 77]
 ```
 
-2026-10-18 77 → 2026-11-02 76（-1）
+2026-10-18 77 → 2026-11-07 77（+0）
 
 
 ---

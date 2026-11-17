@@ -1,6 +1,6 @@
 # huggingface/nfsserve
 
-⭐ 771 · Rust · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/nfsserve) · 组织维护
+⭐ 774 · Rust · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/nfsserve) · 组织维护
 
 **给开发者：Rust 用户态 NFSv3 服务器库，实现跨平台挂载**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/nfsserve 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 767 --> 772
-    line [768, 769, 770, 771, 771]
+    title "huggingface/nfsserve 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 767 --> 775
+    line [768, 769, 770, 771, 769, 772, 773, 774, 774]
 ```
 
-2026-10-18 768 → 2026-11-02 771（+3）
+2026-10-18 768 → 2026-11-17 774（+6）
 
 
 ---

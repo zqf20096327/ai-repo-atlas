@@ -1,6 +1,6 @@
 # kamjin3086/comfy-swap
 
-⭐ 40 · Go · MIT · 推送 2026-03-30 · [GitHub](https://github.com/kamjin3086/comfy-swap) · 个人维护 · 中文 README
+⭐ 39 · Go · MIT · 推送 2026-03-30 · [GitHub](https://github.com/kamjin3086/comfy-swap) · 个人维护 · 中文 README
 
 **把 ComfyUI 工作流暴露为 REST API 与 CLI 的桥接工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kamjin3086/comfy-swap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-02"]
+    title "kamjin3086/comfy-swap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-17"]
     y-axis "stars" 38 --> 41
-    line [40, 39, 40, 40]
+    line [40, 39, 40, 39, 39]
 ```
 
-2026-10-18 40 → 2026-11-02 40（+0）
+2026-10-18 40 → 2026-11-17 39（-1）
 
 
 ---

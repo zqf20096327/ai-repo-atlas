@@ -1,6 +1,6 @@
 # khoruzhii/cayleypy-cube
 
-⭐ 72 · Python · MIT · 推送 2025-11-09 · [GitHub](https://github.com/khoruzhii/cayleypy-cube) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **科研：训练神经网络在大型 Cayley 图上找短路径**
 
@@ -11,7 +11,7 @@ NeurIPS 2025 Spotlight 论文的 PyTorch 实现仓库：端到端流水线覆盖
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ NeurIPS 2025 Spotlight 论文的 PyTorch 实现仓库：端到端流水线覆盖
 ```mermaid
 xychart-beta
     title "khoruzhii/cayleypy-cube 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-07 72（+0）
 
 
 ---

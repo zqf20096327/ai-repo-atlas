@@ -1,6 +1,6 @@
 # AEON-7/matrix-voip-agent
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/matrix-voip-agent) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/matrix-voip-agent) · 组织维护
 
 **Matrix 语音/视频通话 AI 代理：自动接听并桥接 STT/LLM/TTS 对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AEON-7/matrix-voip-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 20（+0）
 
 
 ---

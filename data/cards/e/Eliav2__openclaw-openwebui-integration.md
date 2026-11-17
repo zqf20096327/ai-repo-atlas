@@ -1,6 +1,6 @@
 # Eliav2/openclaw-openwebui-integration
 
-⭐ 14 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Eliav2/openclaw-openwebui-integration) · [官网](https://eliav2.github.io/openclaw-openwebui-integration/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Eliav2/openclaw-openwebui-integration) · [官网](https://eliav2.github.io/openclaw-openwebui-integration/) · 个人维护
 
 **将 OpenClaw agent 接入 Open WebUI 的对话集成组件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eliav2/openclaw-openwebui-integration 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 14]
+    title "Eliav2/openclaw-openwebui-integration 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 14, 15, 16, 16]
 ```
 
-2026-10-31 11 → 2026-11-02 14（+3）
+2026-10-31 11 → 2026-11-17 16（+5）
 
 
 ---

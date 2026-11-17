@@ -1,6 +1,6 @@
 # jianminggan/wechat-video-subtitle
 
-⭐ 11 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/jianminggan/wechat-video-subtitle) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/jianminggan/wechat-video-subtitle) · 个人维护 · 中文 README
 
 **下载微信视频号视频与直播回放并转写逐字稿的 Agent Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jianminggan/wechat-video-subtitle 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "jianminggan/wechat-video-subtitle 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-29 10 → 2026-11-02 11（+1）
+2026-10-29 10 → 2026-11-17 13（+3）
 
 
 ---

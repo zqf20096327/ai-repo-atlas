@@ -1,6 +1,6 @@
 # 1fairyfox/random-ai-prompt
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/1fairyfox/random-ai-prompt) · [官网](https://prompt.fairyfox.io) · 个人维护
+⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/1fairyfox/random-ai-prompt) · [官网](https://prompt.fairyfox.io) · 个人维护
 
 **AI 图像/文本提示词生成器：积木式组合扩展成完整提示词**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "1fairyfox/random-ai-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "1fairyfox/random-ai-prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 10 --> 13
+    line [12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

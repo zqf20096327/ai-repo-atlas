@@ -1,6 +1,6 @@
 # Codeturion/unreal-api-mcp
 
-⭐ 98 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Codeturion/unreal-api-mcp) · [官网](https://www.fuatcankoseoglu.com/) · 个人维护
+⭐ 100 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Codeturion/unreal-api-mcp) · [官网](https://www.fuatcankoseoglu.com/) · 个人维护
 
 **给 AI agent 提供 Unreal Engine C++ API 文档查询的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Codeturion/unreal-api-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 95 --> 99
-    line [96, 97, 98, 98]
+    title "Codeturion/unreal-api-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 95 --> 101
+    line [96, 97, 98, 97, 99, 100, 100]
 ```
 
-2026-10-18 96 → 2026-11-02 98（+2）
+2026-10-18 96 → 2026-11-17 100（+4）
 
 
 ---

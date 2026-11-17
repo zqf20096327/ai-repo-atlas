@@ -1,6 +1,6 @@
 # NVIDIA/ai-cloud-validation
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/ai-cloud-validation) · [官网](https://www.nvidia.com/en-us/data-center/isv-validation-program/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 NVIDIA 硬件云环境的 AI 负载验证测试框架**
 
@@ -11,7 +11,7 @@ NVIDIA 维护的 ISV Lab 环境验证与管理工具集：以一组可扩展测�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ NVIDIA 维护的 ISV Lab 环境验证与管理工具集：以一组可扩展测�
 ```mermaid
 xychart-beta
     title "NVIDIA/ai-cloud-validation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-07 34（+0）
 
 
 ---

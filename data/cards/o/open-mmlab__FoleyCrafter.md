@@ -45,13 +45,13 @@ FoleyCrafter 是视频转音频生成框架，基于扩散模型的文本到音�
 
 ```mermaid
 xychart-beta
-    title "open-mmlab/FoleyCrafter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 664 --> 666
-    line [665, 665]
+    title "open-mmlab/FoleyCrafter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 664 --> 667
+    line [665, 666, 665, 665]
 ```
 
-2026-10-18 665 → 2026-11-02 665（+0）
+2026-10-18 665 → 2026-11-17 665（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # psweens/ml-forecast-lab
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/psweens/ml-forecast-lab) · [官网](https://www.buymeacoffee.com/psweens) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/psweens/ml-forecast-lab) · [官网](https://www.buymeacoffee.com/psweens) · 个人维护
 
 **Home Assistant 多模型时序预测应用：训练、评测并发布校准预测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "psweens/ml-forecast-lab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "psweens/ml-forecast-lab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-02 16（+1）
+2026-10-18 15 → 2026-11-17 16（+1）
 
 
 ---

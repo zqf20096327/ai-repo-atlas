@@ -1,6 +1,6 @@
 # ChristianInterno/GeoPhys
 
-⭐ 34 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ChristianInterno/GeoPhys) · [官网](https://christianinterno.github.io/GeoPhys/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ChristianInterno/GeoPhys) · [官网](https://christianinterno.github.io/GeoPhys/) · 个人维护
 
 **免训练的视频物理合理性评分与检测库（NeurIPS 论文）**
 
@@ -45,13 +45,13 @@ GeoPhys 用冻结图像编码器（DINOv2/DINOv3/CORnet-S/VOneNet）把视频帧
 
 ```mermaid
 xychart-beta
-    title "ChristianInterno/GeoPhys 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    title "ChristianInterno/GeoPhys 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 33 --> 38
+    line [34, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-11-02 34（+0）
+2026-10-18 34 → 2026-11-17 37（+3）
 
 
 ---

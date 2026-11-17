@@ -1,6 +1,6 @@
 # Bhavik-Jikadara/ai-ml-roadmap
 
-⭐ 90 · JavaScript · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/Bhavik-Jikadara/ai-ml-roadmap) · [官网](https://ai-ml-roadmap.vercel.app/) · 个人维护
+⭐ 88 · JavaScript · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/Bhavik-Jikadara/ai-ml-roadmap) · [官网](https://ai-ml-roadmap.vercel.app/) · 个人维护
 
 **面向初学者的 AI/ML 学习路线图：13 个阶段的入门指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bhavik-Jikadara/ai-ml-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    title "Bhavik-Jikadara/ai-ml-roadmap 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 87 --> 91
+    line [90, 89, 88, 88]
 ```
 
-2026-10-18 90 → 2026-11-02 90（+0）
+2026-10-18 90 → 2026-11-17 88（-2）
 
 
 ---

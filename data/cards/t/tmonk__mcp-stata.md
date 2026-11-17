@@ -1,6 +1,6 @@
 # tmonk/mcp-stata
 
-⭐ 91 · Python · AGPL-3.0 · 推送 2026-05-12 · [GitHub](https://github.com/tmonk/mcp-stata) · [官网](https://tdmonk.com) · 个人维护
+⭐ 92 · Python · AGPL-3.0 · 推送 2026-05-12 · [GitHub](https://github.com/tmonk/mcp-stata) · [官网](https://tdmonk.com) · 个人维护
 
 **让 AI agent 操作本地 Stata 的 MCP 服务器，面向实证经济学研究**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tmonk/mcp-stata 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 85 --> 92
-    line [86, 87, 88, 90, 91, 91]
+    title "tmonk/mcp-stata 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 85 --> 93
+    line [86, 87, 88, 90, 91, 90, 92, 92]
 ```
 
-2026-10-18 86 → 2026-11-02 91（+5）
+2026-10-18 86 → 2026-11-17 92（+6）
 
 
 ---

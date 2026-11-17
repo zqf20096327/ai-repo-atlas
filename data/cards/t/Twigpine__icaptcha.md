@@ -1,6 +1,6 @@
 # Twigpine/icaptcha
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Twigpine/icaptcha) · [官网](https://icaptcha.gitlawb.com) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Twigpine/icaptcha) · [官网](https://icaptcha.gitlawb.com) · 组织维护
 
 **给服务端开发者的反机器人门：验证请求者是智能体而非脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Twigpine/icaptcha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "Twigpine/icaptcha 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 18 --> 22
+    line [21, 20, 19, 20, 20]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 20（-1）
 
 
 ---

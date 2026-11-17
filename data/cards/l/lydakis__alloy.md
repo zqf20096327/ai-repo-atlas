@@ -1,6 +1,6 @@
 # lydakis/alloy
 
-⭐ 19 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/lydakis/alloy) · [官网](https://alloy.fyi) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lydakis/alloy) · [官网](https://alloy.fyi) · 个人维护
 
 **以普通 Python 函数形式编写类型化 LLM 函数的库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lydakis/alloy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "lydakis/alloy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

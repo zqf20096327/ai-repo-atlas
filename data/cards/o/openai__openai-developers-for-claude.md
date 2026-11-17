@@ -1,6 +1,6 @@
 # openai/openai-developers-for-claude
 
-⭐ 38 · JavaScript · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/openai/openai-developers-for-claude) · 组织维护
+⭐ 44 · JavaScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/openai/openai-developers-for-claude) · 组织维护
 
 **面向 Claude Code 的 OpenAI 开发者工作流插件包**
 
@@ -46,13 +46,13 @@ OpenAI 官方发布的 Claude Code 插件：捆绑公开的 OpenAI Docs MCP 服�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-developers-for-claude 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 31 --> 39
-    line [32, 33, 34, 35, 36, 38, 38]
+    title "openai/openai-developers-for-claude 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 31 --> 45
+    line [32, 33, 34, 35, 36, 38, 34, 41, 43, 44, 44]
 ```
 
-2026-10-18 32 → 2026-11-02 38（+6）
+2026-10-18 32 → 2026-11-17 44（+12）
 
 
 ---

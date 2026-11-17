@@ -1,6 +1,6 @@
 # Enderfga/claw-orchestrator
 
-⭐ 604 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
+⭐ 611 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
 
 **多引擎编码代理运行时：统一运行并验证 Claude/Codex 等代理的产出**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Enderfga/claw-orchestrator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 594 --> 605
-    line [595, 597, 599, 598, 600, 601, 602, 604]
+    title "Enderfga/claw-orchestrator 星数(近 16 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 594 --> 612
+    line [595, 597, 599, 598, 600, 601, 602, 604, 599, 603, 604, 603, 606, 607, 611, 611]
 ```
 
-2026-10-18 595 → 2026-11-02 604（+9）
+2026-10-18 595 → 2026-11-17 611（+16）
 
 
 ---

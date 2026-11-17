@@ -1,6 +1,6 @@
 # gokayfem/ComfyUI-Depth-Visualization
 
-⭐ 75 · Python · GPL-3.0 · 推送 2026-08-01 · [GitHub](https://github.com/gokayfem/ComfyUI-Depth-Visualization) · 个人维护
+⭐ 74 · Python · GPL-3.0 · 推送 2026-08-01 · [GitHub](https://github.com/gokayfem/ComfyUI-Depth-Visualization) · 个人维护
 
 **ComfyUI 深度图处理/诊断/3D 导出与可视化节点套件**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点集合：对任意深度图做归一化、修复、着色
 
 ```mermaid
 xychart-beta
-    title "gokayfem/ComfyUI-Depth-Visualization 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "gokayfem/ComfyUI-Depth-Visualization 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 73 --> 76
-    line [74, 75, 75]
+    line [74, 75, 74, 74]
 ```
 
-2026-10-18 74 → 2026-11-02 75（+1）
+2026-10-18 74 → 2026-11-17 74（+0）
 
 
 ---

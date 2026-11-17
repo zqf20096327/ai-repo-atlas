@@ -1,6 +1,6 @@
 # tghamm/Anthropic.SDK
 
-⭐ 221 · C# · MIT · 推送 2026-02-21 · [GitHub](https://github.com/tghamm/Anthropic.SDK) · [官网](https://www.nuget.org/packages/Anthropic.SDK) · 个人维护
+⭐ 222 · C# · MIT · 推送 2026-02-21 · [GitHub](https://github.com/tghamm/Anthropic.SDK) · [官网](https://www.nuget.org/packages/Anthropic.SDK) · 个人维护
 
 **非官方 C#/.NET 客户端 SDK：在 .NET 应用中调用 Claude API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tghamm/Anthropic.SDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "tghamm/Anthropic.SDK 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
     y-axis "stars" 220 --> 223
-    line [222, 221]
+    line [222, 221, 222, 221, 222, 222]
 ```
 
-2026-10-18 222 → 2026-11-02 221（-1）
+2026-10-18 222 → 2026-11-17 222（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Vexp-ai/horizon
 
-⭐ 13 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Vexp-ai/horizon) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Vexp-ai/horizon) · 组织维护
 
 **让 16GB 本地小模型做可验证代码/数学的验证层研究项目**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vexp-ai/horizon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    title "Vexp-ai/horizon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [13, 12, 12]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 12（-1）
 
 
 ---

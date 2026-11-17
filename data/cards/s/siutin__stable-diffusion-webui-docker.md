@@ -1,6 +1,6 @@
 # siutin/stable-diffusion-webui-docker
 
-⭐ 123 · 推送 2026-10-18 · [GitHub](https://github.com/siutin/stable-diffusion-webui-docker) · [官网](https://hub.docker.com/r/siutin/stable-diffusion-webui-docker) · 个人维护
+⭐ 122 · 推送 2026-10-18 · [GitHub](https://github.com/siutin/stable-diffusion-webui-docker) · [官网](https://hub.docker.com/r/siutin/stable-diffusion-webui-docker) · 个人维护
 
 **将 AUTOMATIC1111 stable-diffusion-webui 打包为 Docker 镜像的运行方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "siutin/stable-diffusion-webui-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    title "siutin/stable-diffusion-webui-docker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 121 --> 124
+    line [123, 122, 122]
 ```
 
-2026-10-18 123 → 2026-11-02 123（+0）
+2026-10-18 123 → 2026-11-17 122（-1）
 
 
 ---

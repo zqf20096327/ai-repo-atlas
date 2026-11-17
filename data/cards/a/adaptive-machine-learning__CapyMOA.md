@@ -1,6 +1,6 @@
 # adaptive-machine-learning/CapyMOA
 
-⭐ 152 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/adaptive-machine-learning/CapyMOA) · [官网](https://capymoa.org/) · 组织维护
+⭐ 153 · Python · BSD-3-Clause · 推送 2026-11-15 · [GitHub](https://github.com/adaptive-machine-learning/CapyMOA) · [官网](https://capymoa.org/) · 组织维护
 
 **Python 数据流机器学习工具箱：分类/聚类/异常检测/漂移检测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adaptive-machine-learning/CapyMOA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 151 --> 153
-    line [152, 152]
+    title "adaptive-machine-learning/CapyMOA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 151 --> 154
+    line [152, 153, 153]
 ```
 
-2026-10-18 152 → 2026-11-02 152（+0）
+2026-10-18 152 → 2026-11-17 153（+1）
 
 
 ---

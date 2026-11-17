@@ -1,6 +1,6 @@
 # Gitmaxd/field-theory-ui
 
-⭐ 24 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Gitmaxd/field-theory-ui) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/Gitmaxd/field-theory-ui) · 个人维护
 
 **本地优先的 X/Twitter 书签浏览 Web UI，含自然语言问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gitmaxd/field-theory-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    title "Gitmaxd/field-theory-ui 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 23, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 26（+4）
 
 
 ---

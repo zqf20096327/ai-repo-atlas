@@ -1,6 +1,6 @@
 # smaharx/cinema-sense
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/smaharx/cinema-sense) · 个人维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/smaharx/cinema-sense) · 个人维护
 
 **语义电影搜索引擎：按含义而非关键词检索影片**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smaharx/cinema-sense 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-02"]
+    title "smaharx/cinema-sense 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 17 --> 22
-    line [18, 19, 21, 21]
+    line [18, 19, 21, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-02 21（+3）
+2026-10-18 18 → 2026-11-17 20（+2）
 
 
 ---

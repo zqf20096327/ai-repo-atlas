@@ -1,6 +1,6 @@
 # rafaeltuelho/construction-spec-assistant
 
-⭐ 17 · Jupyter Notebook · 推送 2025-11-11 · [GitHub](https://github.com/rafaeltuelho/construction-spec-assistant) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **帮建筑架构师审查施工文档与承包商送审件不一致的智能体系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rafaeltuelho/construction-spec-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-07 17（+0）
 
 
 ---

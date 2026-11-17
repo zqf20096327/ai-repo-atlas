@@ -1,6 +1,6 @@
 # PathGao/MoonDigest
 
-⭐ 99 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/PathGao/MoonDigest) · [官网](https://chromewebstore.google.com/detail/bnjihpbocpimaipifanfkjjpfdbigggd) · 个人维护 · 中文 README
+⭐ 108 · JavaScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/PathGao/MoonDigest) · [官网](https://chromewebstore.google.com/detail/bnjihpbocpimaipifanfkjjpfdbigggd) · 个人维护 · 中文 README
 
 **用 AI 读字幕、总结问答并分拣 B站/YouTube 收藏夹的 Chrome 扩展**
 
@@ -45,13 +45,13 @@ Chrome MV3 扩展，面向视频收藏夹囤积用户，做三件事：读——
 
 ```mermaid
 xychart-beta
-    title "PathGao/MoonDigest 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 64 --> 102
-    line [67, 71, 75, 76, 77, 81, 85, 90, 93, 95, 98, 99]
+    title "PathGao/MoonDigest 星数(近 19 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 63 --> 112
+    line [67, 71, 75, 76, 77, 81, 85, 90, 93, 95, 98, 99, 77, 106, 107, 108, 107, 108, 108]
 ```
 
-2026-10-18 67 → 2026-11-02 99（+32）
+2026-10-18 67 → 2026-11-17 108（+41）
 
 
 ---

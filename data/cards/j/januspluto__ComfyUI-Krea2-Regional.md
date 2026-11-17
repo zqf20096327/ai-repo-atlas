@@ -1,6 +1,6 @@
 # januspluto/ComfyUI-Krea2-Regional
 
-⭐ 16 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/januspluto/ComfyUI-Krea2-Regional) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/januspluto/ComfyUI-Krea2-Regional) · 个人维护
 
 **ComfyUI 的 Krea 2 区域提示与区域 LoRA 自定义节点包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "januspluto/ComfyUI-Krea2-Regional 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "januspluto/ComfyUI-Krea2-Regional 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 14 --> 18
+    line [16, 15, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

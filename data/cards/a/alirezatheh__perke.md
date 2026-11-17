@@ -1,6 +1,6 @@
 # alirezatheh/perke
 
-⭐ 74 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/alirezatheh/perke) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alirezatheh/perke) · 个人维护
 
 **波斯语文本关键短语抽取的 Python 库**
 
@@ -46,12 +46,12 @@ Perke 是面向波斯语的 Python 关键短语抽取包，提供端到端抽取
 ```mermaid
 xychart-beta
     title "alirezatheh/perke 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-11-02 74（+0）
+2026-10-18 74 → 2026-11-17 74（+0）
 
 
 ---

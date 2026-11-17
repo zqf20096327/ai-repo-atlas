@@ -1,6 +1,6 @@
 # neverbiasu/ComfyUI-BAGEL
 
-⭐ 188 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/neverbiasu/ComfyUI-BAGEL) · 个人维护
+⭐ 187 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/neverbiasu/ComfyUI-BAGEL) · 个人维护
 
 **在 ComfyUI 中原生加载运行 BAGEL 多模态模型的自定义节点包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neverbiasu/ComfyUI-BAGEL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 187 --> 189
-    line [188, 188]
+    title "neverbiasu/ComfyUI-BAGEL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 186 --> 189
+    line [188, 187, 187]
 ```
 
-2026-10-18 188 → 2026-11-02 188（+0）
+2026-10-18 188 → 2026-11-17 187（-1）
 
 
 ---

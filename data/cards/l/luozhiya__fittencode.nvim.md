@@ -1,6 +1,6 @@
 # luozhiya/fittencode.nvim
 
-⭐ 137 · Lua · 推送 2026-10-20 · [GitHub](https://github.com/luozhiya/fittencode.nvim) · 个人维护 · 中文 README
+⭐ 138 · Lua · 推送 2026-10-20 · [GitHub](https://github.com/luozhiya/fittencode.nvim) · 个人维护 · 中文 README
 
 **Neovim 的 Fitten Code AI 代码补全插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luozhiya/fittencode.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    title "luozhiya/fittencode.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 136 --> 139
+    line [137, 138, 138]
 ```
 
-2026-10-18 137 → 2026-11-02 137（+0）
+2026-10-18 137 → 2026-11-17 138（+1）
 
 
 ---

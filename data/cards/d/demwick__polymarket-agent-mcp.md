@@ -1,6 +1,6 @@
 # demwick/polymarket-agent-mcp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/demwick/polymarket-agent-mcp) · [官网](https://www.npmjs.com/package/polymarket-agent-mcp) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/demwick/polymarket-agent-mcp) · [官网](https://www.npmjs.com/package/polymarket-agent-mcp) · 个人维护
 
 **面向 AI 客户端的 Polymarket 预测市场交易 MCP 服务器（48 工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "demwick/polymarket-agent-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 15 --> 19
-    line [16, 18, 18]
+    title "demwick/polymarket-agent-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 15 --> 21
+    line [16, 18, 16, 19, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-02 18（+2）
+2026-10-18 16 → 2026-11-17 20（+4）
 
 
 ---

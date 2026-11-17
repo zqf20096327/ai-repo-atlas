@@ -1,6 +1,6 @@
 # kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent) · 个人维护
+⭐ 51 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent) · 个人维护
 
 **输入美股代码自动生成带引用的研究备忘录的开源 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

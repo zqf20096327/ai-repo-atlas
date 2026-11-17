@@ -1,6 +1,6 @@
 # microsoft/working-with-ai
 
-⭐ 45 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/working-with-ai) · [官网](https://arxiv.org/abs/2507.07935) · 组织维护
+⭐ 46 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/working-with-ai) · [官网](https://arxiv.org/abs/2507.07935) · 组织维护
 
 **NeurIPS 论文数据：生成式 AI 对各职业适用度的度量结果**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/working-with-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    title "microsoft/working-with-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 43 --> 47
+    line [44, 45, 46, 46]
 ```
 
-2026-10-18 44 → 2026-11-02 45（+1）
+2026-10-18 44 → 2026-11-17 46（+2）
 
 
 ---

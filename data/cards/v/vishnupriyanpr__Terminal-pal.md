@@ -1,6 +1,6 @@
 # vishnupriyanpr/Terminal-pal
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/vishnupriyanpr/Terminal-pal) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/vishnupriyanpr/Terminal-pal) · 个人维护
 
 **终端多 AI 助手：开发者在命令行提问、生成与分析代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vishnupriyanpr/Terminal-pal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "vishnupriyanpr/Terminal-pal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [21, 20, 20]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 20（-1）
 
 
 ---

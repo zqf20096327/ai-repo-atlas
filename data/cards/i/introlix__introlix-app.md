@@ -1,6 +1,6 @@
 # introlix/introlix-app
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/introlix/introlix-app) · [官网](https://introlix-app.vercel.app) · 组织维护
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/introlix/introlix-app) · [官网](https://introlix-app.vercel.app) · 组织维护
 
 **面向研究者的多 Agent AI 研究平台：规划、检索与写作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "introlix/introlix-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    title "introlix/introlix-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-02 42（+0）
+2026-10-18 42 → 2026-11-17 43（+1）
 
 
 ---

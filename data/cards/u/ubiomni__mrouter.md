@@ -1,6 +1,6 @@
 # ubiomni/mrouter
 
-⭐ 85 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ubiomni/mrouter) · 组织维护 · 中文 README
+⭐ 86 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ubiomni/mrouter) · 组织维护 · 中文 README
 
 **终端原生的 LLM 网关：统一端点多提供商路由、故障转移与监控**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "ubiomni/mrouter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    title "ubiomni/mrouter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 84 --> 87
+    line [85, 86, 86]
 ```
 
-2026-10-18 85 → 2026-11-02 85（+0）
+2026-10-18 85 → 2026-11-17 86（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # reallygood83/hermes-for-web
 
-⭐ 83 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/reallygood83/hermes-for-web) · [官网](https://www.youtube.com/@%EB%B0%B0%EC%9B%80%EC%9D%98%EB%8B%AC%EC%9D%B8-p5v) · 个人维护 · 中文 README
+⭐ 82 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/reallygood83/hermes-for-web) · [官网](https://www.youtube.com/@%EB%B0%B0%EC%9B%80%EC%9D%98%EB%8B%AC%EC%9D%B8-p5v) · 个人维护 · 中文 README
 
 **Hermes Agent 的网页工作台：个性化界面、工作流与本地+远程模型**
 
@@ -45,13 +45,13 @@ Hermes WebUI 的 workflow 方向 fork，面向已使用 Hermes CLI 的个人用�
 
 ```mermaid
 xychart-beta
-    title "reallygood83/hermes-for-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    title "reallygood83/hermes-for-web 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 81 --> 84
+    line [83, 82, 82]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 82（-1）
 
 
 ---

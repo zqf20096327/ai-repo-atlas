@@ -1,6 +1,6 @@
 # WayneChou-bot/WareTwin
 
-⭐ 158 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/WayneChou-bot/WareTwin) · [官网](https://ware-twin.vercel.app) · 个人维护 · 中文 README
+⭐ 164 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/WayneChou-bot/WareTwin) · [官网](https://ware-twin.vercel.app) · 个人维护 · 中文 README
 
 **面向仓库机器人车队的浏览器端 3D 数字孪生仿真平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WayneChou-bot/WareTwin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 151 --> 159
-    line [152, 153, 155, 156, 157, 158, 158]
+    title "WayneChou-bot/WareTwin 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 151 --> 165
+    line [152, 153, 155, 156, 157, 158, 155, 158, 161, 162, 164, 164]
 ```
 
-2026-10-18 152 → 2026-11-02 158（+6）
+2026-10-18 152 → 2026-11-17 164（+12）
 
 
 ---

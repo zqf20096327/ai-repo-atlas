@@ -1,6 +1,6 @@
 # Ebimsv/Facial_Age_estimation_PyTorch
 
-⭐ 89 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Ebimsv/Facial_Age_estimation_PyTorch) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Ebimsv/Facial_Age_estimation_PyTorch) · 个人维护
 
 **基于 PyTorch 的人脸年龄估计训练与推理管线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ebimsv/Facial_Age_estimation_PyTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    title "Ebimsv/Facial_Age_estimation_PyTorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-17"]
     y-axis "stars" 87 --> 90
-    line [88, 89]
+    line [88, 89, 88, 88]
 ```
 
-2026-10-18 88 → 2026-11-02 89（+1）
+2026-10-18 88 → 2026-11-17 88（+0）
 
 
 ---

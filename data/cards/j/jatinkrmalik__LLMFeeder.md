@@ -1,6 +1,6 @@
 # jatinkrmalik/LLMFeeder
 
-⭐ 485 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
+⭐ 489 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
 
 **一键把网页转成 Markdown 供 LLM 使用的浏览器扩展**
 
@@ -45,13 +45,13 @@ Chrome/Firefox 浏览器扩展，用 Readability 抽取网页主内容、Turndow
 
 ```mermaid
 xychart-beta
-    title "jatinkrmalik/LLMFeeder 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 477 --> 486
-    line [478, 479, 482, 484, 485, 485]
+    title "jatinkrmalik/LLMFeeder 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 477 --> 490
+    line [478, 479, 482, 484, 485, 486, 487, 488, 489, 489]
 ```
 
-2026-10-18 478 → 2026-11-02 485（+7）
+2026-10-18 478 → 2026-11-17 489（+11）
 
 
 ---

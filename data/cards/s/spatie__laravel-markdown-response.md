@@ -1,6 +1,6 @@
 # spatie/laravel-markdown-response
 
-⭐ 83 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/spatie/laravel-markdown-response) · [官网](https://spatie.be/docs/laravel-markdown-response) · 组织维护
+⭐ 85 · PHP · MIT · 推送 2026-11-13 · [GitHub](https://github.com/spatie/laravel-markdown-response) · [官网](https://spatie.be/docs/laravel-markdown-response) · 组织维护
 
 **Laravel 包：向 AI 代理与爬虫输出页面的 Markdown 版本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spatie/laravel-markdown-response 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    title "spatie/laravel-markdown-response 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 82 --> 86
+    line [83, 84, 85, 85]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 85（+2）
 
 
 ---

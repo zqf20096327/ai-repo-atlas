@@ -1,6 +1,6 @@
 # 10/chatgpt-codex-proxy
 
-⭐ 17 · Go · MIT · 推送 2026-10-31 · [GitHub](https://github.com/10/chatgpt-codex-proxy) · 个人维护
+⭐ 18 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/10/chatgpt-codex-proxy) · 个人维护
 
 **把 ChatGPT Codex 私有接口包装成 OpenAI/Anthropic 兼容 API 的代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "10/chatgpt-codex-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    title "10/chatgpt-codex-proxy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-17 18（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vanities/swiftbible
 
-⭐ 13 · Swift · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/vanities/swiftbible) · [官网](https://apps.apple.com/us/app/swiftbible/id6670373108) · 个人维护
+⭐ 13 · Swift · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/vanities/swiftbible) · [官网](https://apps.apple.com/us/app/swiftbible/id6670373108) · 个人维护
 
 **iOS/Android 开源圣经阅读应用，附 AI 注释功能**
 
@@ -46,12 +46,12 @@ SwiftUI（iOS）与 Jetpack Compose（Android）构建的开源圣经应用，�
 ```mermaid
 xychart-beta
     title "vanities/swiftbible 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

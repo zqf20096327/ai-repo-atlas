@@ -1,6 +1,6 @@
 # dweekly/ai-content-disclosure
 
-⭐ 23 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/dweekly/ai-content-disclosure) · 个人维护
+⭐ 24 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/dweekly/ai-content-disclosure) · 个人维护
 
 **面向网页作者与标准参与者的 HTML AI 内容披露规范提案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dweekly/ai-content-disclosure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "dweekly/ai-content-disclosure 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

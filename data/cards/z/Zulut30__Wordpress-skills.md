@@ -1,6 +1,6 @@
 # Zulut30/Wordpress-skills
 
-⭐ 27 · JavaScript · MIT · 推送 2026-06-07 · [GitHub](https://github.com/Zulut30/Wordpress-skills) · [官网](https://github.com/Zulut30/Wordpress-skills/blob/main/docs/demo.md) · 个人维护
+⭐ 24 · JavaScript · MIT · 推送 2026-06-07 · [GitHub](https://github.com/Zulut30/Wordpress-skills) · [官网](https://github.com/Zulut30/Wordpress-skills/blob/main/docs/demo.md) · 个人维护
 
 **面向 AI 编程 agent 的 WordPress 插件开发技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zulut30/Wordpress-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 27]
+    title "Zulut30/Wordpress-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [28, 27, 24, 24]
 ```
 
-2026-10-18 28 → 2026-11-02 27（-1）
+2026-10-18 28 → 2026-11-17 24（-4）
 
 
 ---

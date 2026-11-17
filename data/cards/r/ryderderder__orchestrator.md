@@ -1,6 +1,6 @@
 # ryderderder/orchestrator
 
-⭐ 11 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/ryderderder/orchestrator) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/ryderderder/orchestrator) · 个人维护
 
 **把多个 AI 订阅 CLI 编成 tmux 团队并按配额路由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryderderder/orchestrator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "ryderderder/orchestrator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 12（+2）
 
 
 ---

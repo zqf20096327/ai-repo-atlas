@@ -1,6 +1,6 @@
 # wish44165/UAVDB
 
-⭐ 24 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/wish44165/UAVDB) · [官网](https://icpr2026.org/acceptedPapersTrack.html) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/wish44165/UAVDB) · [官网](https://icpr2026.org/acceptedPapersTrack.html) · 个人维护
 
 **UAV 检测与分割基准数据集（含 PIC 标注生成方法）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wish44165/UAVDB 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 24, 24]
+    title "wish44165/UAVDB 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 23, 24, 22, 25, 25]
 ```
 
-2026-10-18 21 → 2026-11-02 24（+3）
+2026-10-18 21 → 2026-11-17 25（+4）
 
 
 ---

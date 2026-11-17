@@ -1,6 +1,6 @@
 # AgentSwarms-fyi/agentswarms
 
-⭐ 290 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/AgentSwarms-fyi/agentswarms) · [官网](https://agentswarms.fyi) · 组织维护
+⭐ 302 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/AgentSwarms-fyi/agentswarms) · [官网](https://agentswarms.fyi) · 组织维护
 
 **自托管的 Agentic AI 与数据一体化平台（代理+湖仓+BI+ML）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentSwarms-fyi/agentswarms 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 274 --> 291
-    line [275, 278, 280, 282, 283, 285, 286, 288, 290]
+    title "AgentSwarms-fyi/agentswarms 星数(近 17 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 273 --> 304
+    line [275, 278, 280, 282, 283, 285, 286, 288, 290, 280, 295, 297, 298, 300, 301, 302, 302]
 ```
 
-2026-10-18 275 → 2026-11-02 290（+15）
+2026-10-18 275 → 2026-11-17 302（+27）
 
 
 ---

@@ -1,6 +1,6 @@
 # redhat-community-ai-tools/code-to-docs
 
-⭐ 23 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/redhat-community-ai-tools/code-to-docs) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/redhat-community-ai-tools/code-to-docs) · 组织维护
 
 **用 AI 让文档与代码保持同步的 GitHub Action**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "redhat-community-ai-tools/code-to-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "redhat-community-ai-tools/code-to-docs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

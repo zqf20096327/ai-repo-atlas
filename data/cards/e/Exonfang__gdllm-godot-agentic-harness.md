@@ -1,6 +1,6 @@
 # Exonfang/gdllm-godot-agentic-harness
 
-⭐ 39 · GDScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Exonfang/gdllm-godot-agentic-harness) · 个人维护
+⭐ 40 · GDScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Exonfang/gdllm-godot-agentic-harness) · 个人维护
 
 **Godot 编辑器内的 LLM agentic harness：连接任意模型驱动编辑器内 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Exonfang/gdllm-godot-agentic-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "Exonfang/gdllm-godot-agentic-harness 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-11-02 39（+1）
+2026-10-18 38 → 2026-11-17 40（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Shikigami-Lab/Shikigami-Protocol
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Shikigami-Lab/Shikigami-Protocol) · 组织维护 · 中文 README
+⭐ 19 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Shikigami-Lab/Shikigami-Protocol) · 组织维护 · 中文 README
 
 **本地优先的有状态 AI 角色陪伴框架，带长期记忆与主动发言**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shikigami-Lab/Shikigami-Protocol 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 15, 16]
+    title "Shikigami-Lab/Shikigami-Protocol 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 11 --> 20
+    line [12, 13, 15, 16, 12, 18, 19, 19]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 19（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # LISTENAI/linger
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/LISTENAI/linger) · 组织维护 · 中文 README
+⭐ 33 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/LISTENAI/linger) · 组织维护 · 中文 README
 
 **基于 PyTorch 的聆思 IoT 芯片 8bit 量化训练工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LISTENAI/linger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-02 33（+0）
+2026-10-18 33 → 2026-11-17 33（+0）
 
 
 ---

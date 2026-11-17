@@ -1,6 +1,6 @@
 # microsoft/mcp-interactiveUI-samples
 
-⭐ 85 · HTML · MIT · 推送 2026-09-02 · [GitHub](https://github.com/microsoft/mcp-interactiveUI-samples) · 组织维护
+⭐ 86 · HTML · MIT · 推送 2026-09-02 · [GitHub](https://github.com/microsoft/mcp-interactiveUI-samples) · 组织维护
 
 **面向 Microsoft 365 Copilot 的 MCP 交互式 UI 示例集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/mcp-interactiveUI-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 85, 85]
+    title "microsoft/mcp-interactiveUI-samples 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 82 --> 87
+    line [83, 84, 85, 83, 86, 86]
 ```
 
-2026-10-18 83 → 2026-11-02 85（+2）
+2026-10-18 83 → 2026-11-17 86（+3）
 
 
 ---

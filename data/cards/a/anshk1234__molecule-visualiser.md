@@ -1,6 +1,6 @@
 # anshk1234/molecule-visualiser
 
-⭐ 24 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/anshk1234/molecule-visualiser) · [官网](https://atoms-molecule-visualiser.streamlit.app/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/anshk1234/molecule-visualiser) · [官网](https://atoms-molecule-visualiser.streamlit.app/) · 个人维护
 
 **从 SMILES 生成分子 2D/3D 图标与可视化图标的工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anshk1234/molecule-visualiser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-02"]
+    title "anshk1234/molecule-visualiser 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    line [22, 23, 24, 23, 24, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 24（+2）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

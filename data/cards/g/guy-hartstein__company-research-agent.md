@@ -1,6 +1,6 @@
 # guy-hartstein/company-research-agent
 
-⭐ 2,311 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/guy-hartstein/company-research-agent) · [官网](https://companyresearcher.tavily.com) · 个人维护
+⭐ 2,320 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/guy-hartstein/company-research-agent) · [官网](https://companyresearcher.tavily.com) · 个人维护
 
 **输入公司名生成有出处尽调简报的多 agent 研究工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guy-hartstein/company-research-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 2301 --> 2312
-    line [2302, 2303, 2305, 2307, 2310, 2311, 2311]
+    title "guy-hartstein/company-research-agent 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2301 --> 2321
+    line [2302, 2303, 2305, 2307, 2310, 2311, 2303, 2315, 2316, 2317, 2318, 2320, 2320]
 ```
 
-2026-10-18 2,302 → 2026-11-02 2,311（+9）
+2026-10-18 2,302 → 2026-11-17 2,320（+18）
 
 
 ---

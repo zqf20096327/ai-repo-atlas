@@ -1,6 +1,6 @@
 # jakublibik/readfine
 
-⭐ 22 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/jakublibik/readfine) · [官网](https://readfine.app) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/jakublibik/readfine) · [官网](https://readfine.app) · 个人维护
 
 **自托管 RSS 阅读器，带过滤、相关性评分与可选 AI 摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jakublibik/readfine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "jakublibik/readfine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-11-02 22（+1）
+2026-10-18 21 → 2026-11-17 23（+2）
 
 
 ---

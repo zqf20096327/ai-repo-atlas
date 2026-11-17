@@ -1,6 +1,6 @@
 # imagewize/ollama-opencode-setup
 
-⭐ 13 · Shell · MIT · 推送 2026-11-01 · [GitHub](https://github.com/imagewize/ollama-opencode-setup) · 个人维护
+⭐ 13 · Shell · MIT · 推送 2026-11-06 · [GitHub](https://github.com/imagewize/ollama-opencode-setup) · 个人维护
 
 **Apple Silicon 上用本地 Ollama 模型运行 OpenCode CLI 的配置与文档集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "imagewize/ollama-opencode-setup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
+    title "imagewize/ollama-opencode-setup 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    line [12, 13, 12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

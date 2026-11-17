@@ -1,6 +1,6 @@
 # AkagawaTsurunaki/zerolan-core
 
-⭐ 121 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/AkagawaTsurunaki/zerolan-core) · [官网](https://github.com/AkagawaTsurunaki/zerolan-core) · 个人维护 · 中文 README
+⭐ 122 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/AkagawaTsurunaki/zerolan-core) · [官网](https://github.com/AkagawaTsurunaki/zerolan-core) · 个人维护 · 中文 README
 
 **本地 AI 模型统一部署与推理服务封装层，供配套机器人等项目调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkagawaTsurunaki/zerolan-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    title "AkagawaTsurunaki/zerolan-core 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 119 --> 123
+    line [120, 121, 120, 122, 122]
 ```
 
-2026-10-18 120 → 2026-11-02 121（+1）
+2026-10-18 120 → 2026-11-17 122（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vbcherepanov/total-agent-memory
 
-⭐ 74 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vbcherepanov/total-agent-memory) · [官网](https://totalmemory.dev) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vbcherepanov/total-agent-memory) · [官网](https://totalmemory.dev) · 个人维护
 
 **面向 AI 编程代理的本地持久记忆 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vbcherepanov/total-agent-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    title "vbcherepanov/total-agent-memory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 72 --> 78
+    line [73, 74, 73, 75, 76, 77, 77]
 ```
 
-2026-10-18 73 → 2026-11-02 74（+1）
+2026-10-18 73 → 2026-11-17 77（+4）
 
 
 ---

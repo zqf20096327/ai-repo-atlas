@@ -1,6 +1,6 @@
 # elastic/mcp-server-elasticsearch
 
-⭐ 728 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/elastic/mcp-server-elasticsearch) · [官网](https://www.elastic.co/elasticsearch) · 组织维护
+⭐ 734 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/elastic/mcp-server-elasticsearch) · [官网](https://www.elastic.co/elasticsearch) · 组织维护
 
 **连接 AI 代理与 Elasticsearch 数据的 MCP 服务器**
 
@@ -45,13 +45,13 @@ Elastic 官方维护的 Model Context Protocol 服务器，以 Docker 容器形�
 
 ```mermaid
 xychart-beta
-    title "elastic/mcp-server-elasticsearch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 718 --> 729
-    line [719, 723, 725, 726, 728, 728]
+    title "elastic/mcp-server-elasticsearch 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 718 --> 735
+    line [719, 723, 725, 726, 728, 725, 728, 729, 732, 733, 734, 734]
 ```
 
-2026-10-18 719 → 2026-11-02 728（+9）
+2026-10-18 719 → 2026-11-17 734（+15）
 
 
 ---

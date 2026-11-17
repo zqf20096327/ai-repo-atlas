@@ -1,6 +1,6 @@
 # hoangsonww/AI-RAG-Assistant-Chatbot
 
-⭐ 50 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot) · [官网](https://lumina-david.vercel.app) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot) · [官网](https://lumina-david.vercel.app) · 个人维护
 
 **个人 AI 助手全栈应用：混合 RAG 问答与聊天**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/AI-RAG-Assistant-Chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "hoangsonww/AI-RAG-Assistant-Chatbot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 52（+2）
 
 
 ---

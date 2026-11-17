@@ -1,6 +1,6 @@
 # qf-studio/navigator
 
-⭐ 355 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/qf-studio/navigator) · [官网](https://quantflow.studio) · 组织维护
+⭐ 356 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/qf-studio/navigator) · [官网](https://quantflow.studio) · 组织维护
 
 **给 Claude Code 用户的上下文工程插件：按需加载文档延长会话**
 
@@ -44,13 +44,13 @@ Claude Code 插件，实现上下文工程：按需加载所需文档而非一�
 
 ```mermaid
 xychart-beta
-    title "qf-studio/navigator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 352 --> 356
-    line [354, 353, 354, 355, 355]
+    title "qf-studio/navigator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 352 --> 357
+    line [354, 353, 354, 355, 356, 356]
 ```
 
-2026-10-18 354 → 2026-11-02 355（+1）
+2026-10-18 354 → 2026-11-17 356（+2）
 
 
 ---

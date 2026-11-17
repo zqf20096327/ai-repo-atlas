@@ -1,6 +1,6 @@
 # stufently/gpt-web-gateway
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/stufently/gpt-web-gateway) · [官网](https://stufently.github.io/gpt-web-gateway/) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/stufently/gpt-web-gateway) · [官网](https://stufently.github.io/gpt-web-gateway/) · 个人维护
 
 **把 ChatGPT 网页会话封装成 OpenAI 兼容 API 的自托管网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stufently/gpt-web-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
+    title "stufently/gpt-web-gateway 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 11 --> 17
-    line [12, 13, 15, 16]
+    line [12, 13, 15, 16, 13, 16, 16]
 ```
 
-2026-10-18 12 → 2026-11-02 16（+4）
+2026-10-18 12 → 2026-11-17 16（+4）
 
 
 ---

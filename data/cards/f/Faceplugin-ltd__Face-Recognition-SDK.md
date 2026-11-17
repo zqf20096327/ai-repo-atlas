@@ -1,6 +1,6 @@
 # Faceplugin-ltd/Face-Recognition-SDK
 
-⭐ 58 · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/Face-Recognition-SDK) · [官网](https://faceplugin.com/face-recognition/) · 组织维护
+⭐ 59 · 推送 2026-11-14 · [GitHub](https://github.com/Faceplugin-ltd/Face-Recognition-SDK) · [官网](https://faceplugin.com/face-recognition/) · 组织维护
 
 **本地化人脸识别与活体检测 SDK 产品集线器，面向 KYC/门禁**
 
@@ -45,13 +45,13 @@ FacePlugin 维护的商用 SDK 产品仓库（product hub）：提供人脸检�
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/Face-Recognition-SDK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58, 58]
+    title "Faceplugin-ltd/Face-Recognition-SDK 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 58, 57, 58, 59, 59]
 ```
 
-2026-10-18 56 → 2026-11-02 58（+2）
+2026-10-18 56 → 2026-11-17 59（+3）
 
 
 ---

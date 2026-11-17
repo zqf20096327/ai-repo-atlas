@@ -1,6 +1,6 @@
 # lbl-camera/fvGP
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/lbl-camera/fvGP) · [官网](https://fvgp.readthedocs.io/) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/lbl-camera/fvGP) · [官网](https://fvgp.readthedocs.io/) · 组织维护
 
 **面向 HPC 的函数值高斯过程（GP）Python 库**
 
@@ -45,12 +45,12 @@ Python 包 fvGP，提供高度灵活的函数值高斯过程实现，专长包�
 ```mermaid
 xychart-beta
     title "lbl-camera/fvGP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

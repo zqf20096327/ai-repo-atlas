@@ -1,6 +1,6 @@
 # Shatlyk1011/my-best-resources
 
-⭐ 225 · 推送 2026-10-24 · [GitHub](https://github.com/Shatlyk1011/my-best-resources) · 个人维护
+⭐ 226 · 推送 2026-11-03 · [GitHub](https://github.com/Shatlyk1011/my-best-resources) · 个人维护
 
 **面向前端开发者与设计师的资源清单（设计/组件/图库/AI 工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shatlyk1011/my-best-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 223 --> 226
-    line [224, 225, 225]
+    title "Shatlyk1011/my-best-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 223 --> 227
+    line [224, 225, 226, 226]
 ```
 
-2026-10-18 224 → 2026-11-02 225（+1）
+2026-10-18 224 → 2026-11-17 226（+2）
 
 
 ---

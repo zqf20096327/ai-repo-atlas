@@ -1,6 +1,6 @@
 # comfy-addons/comfyui-sdk
 
-⭐ 267 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/comfy-addons/comfyui-sdk) · 个人维护
+⭐ 268 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/comfy-addons/comfyui-sdk) · 个人维护
 
 **面向开发者的 ComfyUI API TypeScript SDK 与工作流 CLI**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 ComfyUI API 交互 SDK：提供 ComfyApi 客户端、流式
 
 ```mermaid
 xychart-beta
-    title "comfy-addons/comfyui-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 266 --> 268
-    line [267, 267]
+    title "comfy-addons/comfyui-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 266 --> 269
+    line [267, 268, 268]
 ```
 
-2026-10-18 267 → 2026-11-02 267（+0）
+2026-10-18 267 → 2026-11-17 268（+1）
 
 
 ---

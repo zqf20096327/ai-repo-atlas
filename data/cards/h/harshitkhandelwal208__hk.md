@@ -1,6 +1,6 @@
 # harshitkhandelwal208/hk
 
-⭐ 24 · Zig · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/harshitkhandelwal208/hk) · 个人维护
+⭐ 24 · Zig · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/harshitkhandelwal208/hk) · 个人维护
 
 **Zig 编写的本地 LLM 运行时与模型格式，含 OpenAI 兼容服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harshitkhandelwal208/hk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 23 --> 26
     line [25, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-02 24（-1）
+2026-10-18 25 → 2026-11-17 24（-1）
 
 
 ---

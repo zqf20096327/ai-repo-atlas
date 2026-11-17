@@ -1,6 +1,6 @@
 # ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
-⭐ 37,586 · 推送 2026-09-26 · [GitHub](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) · 个人维护
+⭐ 37,775 · 推送 2026-09-26 · [GitHub](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) · 个人维护
 
 **为 AI/ML 学习者提供 500+ 带代码项目的清单**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 37275 --> 37614
-    line [37303, 37323, 37350, 37365, 37405, 37445, 37474, 37496, 37505, 37522, 37544, 37564, 37571, 37586]
+    title "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 星数(近 24 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 37256 --> 37822
+    line [37303, 37323, 37350, 37365, 37405, 37445, 37474, 37496, 37505, 37522, 37544, 37564, 37571, 37586, 37445, 37685, 37709, 37719, 37739, 37745, 37758, 37762, 37775, 37775]
 ```
 
-2026-10-18 37,303 → 2026-11-02 37,586（+283）
+2026-10-18 37,303 → 2026-11-17 37,775（+472）
 
 
 ---

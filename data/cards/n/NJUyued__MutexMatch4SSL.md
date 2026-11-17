@@ -1,6 +1,6 @@
 # NJUyued/MutexMatch4SSL
 
-⭐ 72 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/NJUyued/MutexMatch4SSL) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **半监督学习论文官方 PyTorch 实现，低置信样本互斥一致性训练**
 
@@ -11,7 +11,7 @@ TNNLS 2024 论文 MutexMatch 的官方 PyTorch 代码：通过基于互斥的一
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ TNNLS 2024 论文 MutexMatch 的官方 PyTorch 代码：通过基于互斥的一
 ```mermaid
 xychart-beta
     title "NJUyued/MutexMatch4SSL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-02 72（+0）
+2026-10-18 72 → 2026-11-15 72（+0）
 
 
 ---

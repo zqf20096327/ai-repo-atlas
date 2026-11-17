@@ -1,6 +1,6 @@
 # mozihe/moxin
 
-⭐ 14 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/mozihe/moxin) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/mozihe/moxin) · 个人维护 · 中文 README
 
 **从零实现的中文 LLM/VLM/VLA 模型项目，含完整训练流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozihe/moxin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    title "mozihe/moxin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-17 15（+1）
 
 
 ---

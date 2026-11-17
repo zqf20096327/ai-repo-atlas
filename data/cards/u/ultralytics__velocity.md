@@ -1,6 +1,6 @@
 # ultralytics/velocity
 
-⭐ 142 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/velocity) · [官网](https://www.ultralytics.com) · 组织维护
+⭐ 147 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/velocity) · [官网](https://www.ultralytics.com) · 组织维护
 
 **基于 ML 与运动恢复结构的车辆测速研究工具库**
 
@@ -43,13 +43,13 @@ Ultralytics 维护的研究代码库，结合机器学习与 Structure-from-Moti
 
 ```mermaid
 xychart-beta
-    title "ultralytics/velocity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    title "ultralytics/velocity 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 141 --> 148
+    line [142, 144, 145, 147, 147]
 ```
 
-2026-10-18 142 → 2026-11-02 142（+0）
+2026-10-18 142 → 2026-11-17 147（+5）
 
 
 ---

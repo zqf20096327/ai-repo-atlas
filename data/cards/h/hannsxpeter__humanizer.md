@@ -1,6 +1,6 @@
 # hannsxpeter/humanizer
 
-⭐ 15 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/hannsxpeter/humanizer) · 个人维护
+⭐ 18 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/hannsxpeter/humanizer) · 个人维护
 
 **给 AI 编码工具的纯提示技能：改写 AI 腔文本并做保守文本清洁**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hannsxpeter/humanizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "hannsxpeter/humanizer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 19
+    line [12, 13, 14, 15, 13, 16, 17, 18, 18]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 18（+6）
 
 
 ---

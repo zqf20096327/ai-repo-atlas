@@ -1,6 +1,6 @@
 # PanosAntoniadis/platito
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/PanosAntoniadis/platito) · [官网](https://panosantoniadis.github.io/platito/) · 个人维护
+⭐ 29 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/PanosAntoniadis/platito) · [官网](https://panosantoniadis.github.io/platito/) · 个人维护
 
 **蛋白质生成式分子动力学模型：用 pLM 嵌入提升泛化的转移算子**
 
@@ -44,13 +44,13 @@ PLaTITO 是蛋白质生成式分子动力学（GenMD）开源模型：以可迁�
 
 ```mermaid
 xychart-beta
-    title "PanosAntoniadis/platito 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "PanosAntoniadis/platito 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

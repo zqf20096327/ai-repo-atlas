@@ -1,6 +1,6 @@
 # Tavris1/AI-Toolkit-Easy-Install
 
-⭐ 538 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Tavris1/AI-Toolkit-Easy-Install) · 个人维护
+⭐ 544 · Batchfile · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Tavris1/AI-Toolkit-Easy-Install) · 个人维护
 
 **Windows 上一键便携安装 AI-Toolkit 训练套件的安装器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tavris1/AI-Toolkit-Easy-Install 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 531 --> 539
-    line [532, 533, 534, 535, 536, 537, 538]
+    title "Tavris1/AI-Toolkit-Easy-Install 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 531 --> 545
+    line [532, 533, 534, 535, 536, 537, 538, 534, 541, 542, 543, 544, 544]
 ```
 
-2026-10-18 532 → 2026-11-02 538（+6）
+2026-10-18 532 → 2026-11-17 544（+12）
 
 
 ---

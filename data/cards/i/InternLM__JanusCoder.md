@@ -43,13 +43,13 @@ ICLR 2026 论文的公开实现，包含 JanusCoder（文本侧，基于 Qwen3-8
 
 ```mermaid
 xychart-beta
-    title "InternLM/JanusCoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    title "InternLM/JanusCoder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 80 --> 83
+    line [81, 82, 81, 81]
 ```
 
-2026-10-18 81 → 2026-11-02 81（+0）
+2026-10-18 81 → 2026-11-17 81（+0）
 
 
 ---

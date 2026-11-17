@@ -1,6 +1,6 @@
 # NosytLabs/skillstate-proxy
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/NosytLabs/skillstate-proxy) · [官网](https://www.npmjs.com/package/skillstate-proxy) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NosytLabs/skillstate-proxy) · [官网](https://www.npmjs.com/package/skillstate-proxy) · 组织维护
 
 **本地 LLM 代理：用结构化会话状态替代重放历史上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NosytLabs/skillstate-proxy 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "NosytLabs/skillstate-proxy 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 8 --> 32
+    line [30, 10, 10]
 ```
 
-2026-10-28 30 → 2026-11-02 30（+0）
+2026-10-28 30 → 2026-11-17 10（-20）
 
 
 ---

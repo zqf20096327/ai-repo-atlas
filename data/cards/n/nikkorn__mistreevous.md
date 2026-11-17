@@ -1,6 +1,6 @@
 # nikkorn/mistreevous
 
-⭐ 145 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nikkorn/mistreevous) · 个人维护
+⭐ 147 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nikkorn/mistreevous) · 个人维护
 
 **JavaScript/TypeScript 行为树构建与执行库，面向游戏 AI 开发者**
 
@@ -44,13 +44,13 @@ TypeScript 编写的行为树库，可在 Node 与浏览器中运行。支持用
 
 ```mermaid
 xychart-beta
-    title "nikkorn/mistreevous 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 143 --> 146
-    line [144, 145, 145]
+    title "nikkorn/mistreevous 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 143 --> 148
+    line [144, 145, 146, 147, 147]
 ```
 
-2026-10-18 144 → 2026-11-02 145（+1）
+2026-10-18 144 → 2026-11-17 147（+3）
 
 
 ---

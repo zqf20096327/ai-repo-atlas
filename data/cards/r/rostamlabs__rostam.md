@@ -1,6 +1,6 @@
 # rostamlabs/rostam
 
-⭐ 36 · Go · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/rostamlabs/rostam) · [官网](https://docs.rostamlabs.com/) · 组织维护
+⭐ 37 · Go · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/rostamlabs/rostam) · [官网](https://docs.rostamlabs.com/) · 组织维护
 
 **Go 实现的向量数据库+键值存储引擎，含 MCP/RAG/LLM 缓存代理**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "rostamlabs/rostam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02"]
+    title "rostamlabs/rostam 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-17"]
     y-axis "stars" 35 --> 38
-    line [36, 37, 36, 36]
+    line [36, 37, 36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-11-02 36（+0）
+2026-10-18 36 → 2026-11-17 37（+1）
 
 
 ---

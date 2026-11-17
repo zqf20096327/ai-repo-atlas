@@ -1,6 +1,6 @@
 # yanstd888/node2mint
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yanstd888/node2mint) · 个人维护
+⭐ 67 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/yanstd888/node2mint) · 个人维护
 
 **自托管 AI 市场与 OpenAI 兼容 API 网关：令牌计费+托管交易**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yanstd888/node2mint 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-02"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    title "yanstd888/node2mint 星数(近 7 点)"
+    x-axis ["2026-10-30", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 29 --> 72
+    line [32, 37, 59, 69, 68, 67, 67]
 ```
 
-2026-10-30 32 → 2026-11-02 32（+0）
+2026-10-30 32 → 2026-11-17 67（+35）
 
 
 ---

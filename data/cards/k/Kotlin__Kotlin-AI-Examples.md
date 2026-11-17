@@ -1,6 +1,6 @@
 # Kotlin/Kotlin-AI-Examples
 
-⭐ 271 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/Kotlin/Kotlin-AI-Examples) · 组织维护
+⭐ 272 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/Kotlin/Kotlin-AI-Examples) · 组织维护
 
 **Kotlin 集成 AI 框架的示例与交互式笔记本集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kotlin/Kotlin-AI-Examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 270 --> 272
-    line [271, 271]
+    title "Kotlin/Kotlin-AI-Examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 270 --> 273
+    line [271, 272, 272]
 ```
 
-2026-10-18 271 → 2026-11-02 271（+0）
+2026-10-18 271 → 2026-11-17 272（+1）
 
 
 ---

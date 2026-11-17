@@ -1,6 +1,6 @@
 # danieltamas/run.dev
 
-⭐ 11 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/danieltamas/run.dev) · [官网](https://getrun.dev) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/danieltamas/run.dev) · [官网](https://getrun.dev) · 个人维护
 
 **Rust 单二进制本地开发环境：TUI 管理服务+本地域名HTTPS+AI诊断**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danieltamas/run.dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dada-x/pixelda
 
-⭐ 17 · SCSS · 推送 2025-11-12 · [GitHub](https://github.com/dada-x/pixelda) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 生成像素风游戏素材（图片/动画/音乐）的 Web 平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dada-x/pixelda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
+    title "dada-x/pixelda 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-07"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 17（+1）
+2026-10-18 16 → 2026-11-07 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nolabs-ai/agent-sign
 
-⭐ 27 · Shell · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/nolabs-ai/agent-sign) · [官网](https://nono.sh) · 组织维护
+⭐ 29 · Shell · Apache-2.0 · 推送 2026-06-28 · [GitHub](https://github.com/nolabs-ai/agent-sign) · [官网](https://nono.sh) · 组织维护
 
 **给 CI 工程师：用 Sigstore 密钥签名 AI agent 指令文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nolabs-ai/agent-sign 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    title "nolabs-ai/agent-sign 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

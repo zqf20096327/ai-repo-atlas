@@ -1,6 +1,6 @@
 # markusbegerow/local-llm-chat-vs
 
-⭐ 33 · C# · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/local-llm-chat-vs) · [官网](https://marketplace.visualstudio.com/items?itemName=MarkusBegerow.local-llm-chat-vs) · 个人维护
+⭐ 34 · C# · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/local-llm-chat-vs) · [官网](https://marketplace.visualstudio.com/items?itemName=MarkusBegerow.local-llm-chat-vs) · 个人维护
 
 **Visual Studio 扩展：IDE 内与本地 LLM 私密聊天与编码辅助**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "markusbegerow/local-llm-chat-vs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02"]
+    title "markusbegerow/local-llm-chat-vs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
     y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    line [34, 33, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-02 33（-1）
+2026-10-18 34 → 2026-11-17 34（+0）
 
 
 ---

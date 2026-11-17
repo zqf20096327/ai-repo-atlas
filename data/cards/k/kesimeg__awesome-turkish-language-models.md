@@ -1,6 +1,6 @@
 # kesimeg/awesome-turkish-language-models
 
-⭐ 102 · 推送 2026-08-29 · [GitHub](https://github.com/kesimeg/awesome-turkish-language-models) · 个人维护
+⭐ 103 · 推送 2026-11-15 · [GitHub](https://github.com/kesimeg/awesome-turkish-language-models) · 个人维护
 
 **土耳其语 AI 模型/数据集/论文的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kesimeg/awesome-turkish-language-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    title "kesimeg/awesome-turkish-language-models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 101 --> 104
+    line [102, 103, 103]
 ```
 
-2026-10-18 102 → 2026-11-02 102（+0）
+2026-10-18 102 → 2026-11-17 103（+1）
 
 
 ---

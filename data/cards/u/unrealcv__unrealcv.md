@@ -1,6 +1,6 @@
 # unrealcv/unrealcv
 
-⭐ 2,224 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/unrealcv/unrealcv) · [官网](https://unrealcv.org) · 组织维护
+⭐ 2,227 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/unrealcv/unrealcv) · [官网](https://unrealcv.org) · 组织维护
 
 **给计算机视觉研究者的 Unreal Engine 插件：构建虚拟世界生成合成数据**
 
@@ -45,13 +45,13 @@ UnrealCV 是一个将虚幻引擎（UE）扩展为计算机视觉研究平台的
 
 ```mermaid
 xychart-beta
-    title "unrealcv/unrealcv 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 2223 --> 2227
-    line [2226, 2225, 2224, 2224]
+    title "unrealcv/unrealcv 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 2223 --> 2229
+    line [2226, 2225, 2224, 2225, 2227, 2228, 2227, 2227]
 ```
 
-2026-10-18 2,226 → 2026-11-02 2,224（-2）
+2026-10-18 2,226 → 2026-11-17 2,227（+1）
 
 
 ---

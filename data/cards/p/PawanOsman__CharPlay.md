@@ -1,6 +1,6 @@
 # PawanOsman/CharPlay
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/PawanOsman/CharPlay) · [官网](https://play.pawan.krd) · 个人维护
+⭐ 21 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/PawanOsman/CharPlay) · [官网](https://play.pawan.krd) · 个人维护
 
 **AI 角色聊天 Playground：本地存储、Socket.IO 在线状态、可插拔模型后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PawanOsman/CharPlay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    title "PawanOsman/CharPlay 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-02 20（+0）
+2026-10-18 20 → 2026-11-17 21（+1）
 
 
 ---

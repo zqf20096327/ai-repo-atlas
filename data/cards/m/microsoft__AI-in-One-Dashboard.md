@@ -1,6 +1,6 @@
 # microsoft/AI-in-One-Dashboard
 
-⭐ 102 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/AI-in-One-Dashboard) · [官网](https://aka.ms/Analytics-Hub) · 组织维护
+⭐ 109 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/AI-in-One-Dashboard) · [官网](https://aka.ms/Analytics-Hub) · 组织维护
 
 **面向企业 AI 决策者的 M365 Copilot/Agent 采用度 Power BI 看板**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AI-in-One-Dashboard 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 90 --> 103
-    line [91, 92, 93, 94, 95, 96, 97, 101, 102]
+    title "microsoft/AI-in-One-Dashboard 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 90 --> 110
+    line [91, 92, 93, 94, 95, 96, 97, 101, 102, 95, 109, 109]
 ```
 
-2026-10-18 91 → 2026-11-02 102（+11）
+2026-10-18 91 → 2026-11-17 109（+18）
 
 
 ---

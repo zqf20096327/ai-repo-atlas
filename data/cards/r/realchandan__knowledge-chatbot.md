@@ -1,6 +1,6 @@
 # realchandan/knowledge-chatbot
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-08-29 · [GitHub](https://github.com/realchandan/knowledge-chatbot) · 个人维护
+⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-08-29 · [GitHub](https://github.com/realchandan/knowledge-chatbot) · 个人维护
 
 **部署在 Cloudflare 上的可嵌入网站问答聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "realchandan/knowledge-chatbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "realchandan/knowledge-chatbot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

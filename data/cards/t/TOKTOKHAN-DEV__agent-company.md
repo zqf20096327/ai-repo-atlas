@@ -1,6 +1,6 @@
 # TOKTOKHAN-DEV/agent-company
 
-⭐ 87 · HTML · MIT · 推送 2026-08-27 · [GitHub](https://github.com/TOKTOKHAN-DEV/agent-company) · [官网](https://www.agent-company.site) · 组织维护
+⭐ 88 · HTML · MIT · 推送 2026-08-27 · [GitHub](https://github.com/TOKTOKHAN-DEV/agent-company) · [官网](https://www.agent-company.site) · 组织维护
 
 **让 AI 编码代理团队像公司一样协作的 monorepo 模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TOKTOKHAN-DEV/agent-company 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 84 --> 88
-    line [85, 87, 87]
+    title "TOKTOKHAN-DEV/agent-company 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 84 --> 89
+    line [85, 87, 85, 87, 88, 88]
 ```
 
-2026-10-18 85 → 2026-11-02 87（+2）
+2026-10-18 85 → 2026-11-17 88（+3）
 
 
 ---

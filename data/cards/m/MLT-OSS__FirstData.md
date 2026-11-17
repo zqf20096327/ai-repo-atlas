@@ -1,6 +1,6 @@
 # MLT-OSS/FirstData
 
-⭐ 186 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/MLT-OSS/FirstData) · [官网](https://firstdata.deepminer.com.cn) · 组织维护 · 中文 README
+⭐ 187 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/MLT-OSS/FirstData) · [官网](https://firstdata.deepminer.com.cn) · 组织维护 · 中文 README
 
 **面向 AI Agent 的权威数据源知识库与 MCP 检索服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MLT-OSS/FirstData 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 183 --> 187
-    line [184, 185, 186, 186]
+    title "MLT-OSS/FirstData 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 183 --> 188
+    line [184, 185, 186, 185, 186, 187, 187]
 ```
 
-2026-10-18 184 → 2026-11-02 186（+2）
+2026-10-18 184 → 2026-11-17 187（+3）
 
 
 ---

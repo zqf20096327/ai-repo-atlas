@@ -1,6 +1,6 @@
 # ShuaiKeAng/OpenSuperCV
 
-⭐ 51 · C# · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ShuaiKeAng/OpenSuperCV) · 个人维护 · 中文 README
+⭐ 52 · C# · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ShuaiKeAng/OpenSuperCV) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 剪贴板：自动收集、检索并在旁处理复制内容**
 
@@ -45,13 +45,13 @@ WPF 桌面剪贴板工具，面向 Windows 10/11 用户：自动收集任意应�
 
 ```mermaid
 xychart-beta
-    title "ShuaiKeAng/OpenSuperCV 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    title "ShuaiKeAng/OpenSuperCV 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-17"]
     y-axis "stars" 50 --> 56
-    line [55, 51, 51]
+    line [55, 51, 52, 52]
 ```
 
-2026-10-18 55 → 2026-11-02 51（-4）
+2026-10-18 55 → 2026-11-17 52（-3）
 
 
 ---

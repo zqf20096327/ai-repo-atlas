@@ -1,6 +1,6 @@
 # masterofobzene/UserScriptRepo
 
-⭐ 11 · JavaScript · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/masterofobzene/UserScriptRepo) · 个人维护
+⭐ 11 · JavaScript · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/masterofobzene/UserScriptRepo) · 个人维护
 
 **个人油猴脚合集：为 GOG/Steam/DDG/DeepSeek 等站点加过滤与便利功能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "masterofobzene/UserScriptRepo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
+    title "masterofobzene/UserScriptRepo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-02 11（+1）
+2026-10-18 10 → 2026-11-17 11（+1）
 
 
 ---

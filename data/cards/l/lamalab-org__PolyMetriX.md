@@ -1,6 +1,6 @@
 # lamalab-org/PolyMetriX
 
-⭐ 50 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/lamalab-org/PolyMetriX) · [官网](https://lamalab-org.github.io/PolyMetriX/) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/lamalab-org/PolyMetriX) · [官网](https://lamalab-org.github.io/PolyMetriX/) · 组织维护
 
 **聚合物信息学的机器学习全流程 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lamalab-org/PolyMetriX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    title "lamalab-org/PolyMetriX 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-02 50（+0）
+2026-10-18 50 → 2026-11-17 51（+1）
 
 
 ---

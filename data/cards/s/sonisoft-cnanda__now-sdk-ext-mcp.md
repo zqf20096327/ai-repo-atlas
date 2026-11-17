@@ -1,6 +1,6 @@
 # sonisoft-cnanda/now-sdk-ext-mcp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/sonisoft-cnanda/now-sdk-ext-mcp) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/sonisoft-cnanda/now-sdk-ext-mcp) · 组织维护
 
 **让 AI 助手直接操作 ServiceNow 实例的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sonisoft-cnanda/now-sdk-ext-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 16（+0）
 
 
 ---

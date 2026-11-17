@@ -1,6 +1,6 @@
 # chrismattmann/MLwithTensorFlow2ed
 
-⭐ 137 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/chrismattmann/MLwithTensorFlow2ed) · [官网](http://github.com/chrismattmann/MLwithTensorFlow2ed) · 个人维护
+⭐ 138 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/chrismattmann/MLwithTensorFlow2ed) · [官网](http://github.com/chrismattmann/MLwithTensorFlow2ed) · 个人维护
 
 **《Machine Learning with TensorFlow》第二版随书代码仓库**
 
@@ -48,13 +48,13 @@ Manning 出版图书的配套代码库，主体为与各章节编号清单对应
 
 ```mermaid
 xychart-beta
-    title "chrismattmann/MLwithTensorFlow2ed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    title "chrismattmann/MLwithTensorFlow2ed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 136 --> 139
+    line [137, 138, 138]
 ```
 
-2026-10-18 137 → 2026-11-02 137（+0）
+2026-10-18 137 → 2026-11-17 138（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SomeStay07/code-review-agent
 
-⭐ 29 · MIT · 推送 2026-02-12 · [GitHub](https://github.com/SomeStay07/code-review-agent) · [官网](https://t.me/codeonvibes) · 个人维护
+⭐ 30 · MIT · 推送 2026-02-12 · [GitHub](https://github.com/SomeStay07/code-review-agent) · [官网](https://t.me/codeonvibes) · 个人维护
 
 **给 Claude Code 用的代码审查 agent：单 .md 文件，输出具体修复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SomeStay07/code-review-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "SomeStay07/code-review-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # g4sk0/mergen-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/g4sk0/mergen-mcp) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/g4sk0/mergen-mcp) · 个人维护
 
 **面向渗透测试人员的 MCP 服务器：让 AI 代理调度 44+ 安全工具**
 
@@ -44,13 +44,13 @@ Mergen 是一个基于 FastAPI 与 MCP 协议的渗透测试服务器：Claude�
 
 ```mermaid
 xychart-beta
-    title "g4sk0/mergen-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    title "g4sk0/mergen-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-11-02 16（+0）
+2026-10-18 16 → 2026-11-17 17（+1）
 
 
 ---

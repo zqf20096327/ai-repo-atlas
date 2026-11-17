@@ -1,6 +1,6 @@
 # EasyRoc/edu-rag
 
-⭐ 60 · Python · 推送 2026-10-18 · [GitHub](https://github.com/EasyRoc/edu-rag) · [官网](https://github.com/EasyRoc/edu-rag) · 组织维护 · 中文 README
+⭐ 65 · Python · 推送 2026-10-18 · [GitHub](https://github.com/EasyRoc/edu-rag) · [官网](https://github.com/EasyRoc/edu-rag) · 组织维护 · 中文 README
 
 **面向 K12 教育的本地 RAG 知识库问答系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EasyRoc/edu-rag 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 52 --> 61
-    line [53, 54, 56, 57, 58, 59, 60]
+    title "EasyRoc/edu-rag 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 52 --> 66
+    line [53, 54, 56, 57, 58, 59, 60, 57, 64, 65, 65]
 ```
 
-2026-10-18 53 → 2026-11-02 60（+7）
+2026-10-18 53 → 2026-11-17 65（+12）
 
 
 ---

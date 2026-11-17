@@ -1,6 +1,6 @@
 # neogate-io/NeoGate
 
-⭐ 14 · Rust · AGPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/neogate-io/NeoGate) · [官网](https://github.com/neogate-io/NeoGate) · 组织维护 · 中文 README
+⭐ 15 · Rust · AGPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/neogate-io/NeoGate) · [官网](https://github.com/neogate-io/NeoGate) · 组织维护 · 中文 README
 
 **企业私有化部署的 Rust LLM API 网关：统一入口、路由与计费**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neogate-io/NeoGate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "neogate-io/NeoGate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # seehiong/eduvis
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/seehiong/eduvis) · [官网](https://seehiong.github.io/eduvis/showcase/) · 个人维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/seehiong/eduvis) · [官网](https://seehiong.github.io/eduvis/showcase/) · 个人维护
 
 **课程感知的教育内容规范：教学中间表示、编译校验与 SVG 渲染**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "seehiong/eduvis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "seehiong/eduvis 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-14", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-11-02 28（+1）
+2026-10-18 27 → 2026-11-17 29（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbdirahmanNomad/IqraAI
 
-⭐ 13 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/AbdirahmanNomad/IqraAI) · [官网](https://abdirahman.net) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/AbdirahmanNomad/IqraAI) · [官网](https://abdirahman.net) · 个人维护
 
 **古兰经语音识别应用：背诵转写、对经纠错与多语翻译**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdirahmanNomad/IqraAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "AbdirahmanNomad/IqraAI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 14（+2）
 
 
 ---

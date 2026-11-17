@@ -1,6 +1,6 @@
 # byte271/Openlive
 
-⭐ 37 · Rust · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/byte271/Openlive) · 个人维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/byte271/Openlive) · 个人维护
 
 **给开发者的自托管实时语音 agent 运行时，模型中立**
 
@@ -45,13 +45,13 @@ OpenLive 是用 Rust 实现的开源自托管实时语音 agent 运行时，将�
 
 ```mermaid
 xychart-beta
-    title "byte271/Openlive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "byte271/Openlive 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-02 37（+1）
+2026-10-18 36 → 2026-11-17 38（+2）
 
 
 ---

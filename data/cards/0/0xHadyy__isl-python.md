@@ -1,6 +1,6 @@
 # 0xHadyy/isl-python
 
-⭐ 474 · Jupyter Notebook · 推送 2026-02-14 · [GitHub](https://github.com/0xHadyy/isl-python) · 个人维护
+⭐ 480 · Jupyter Notebook · 推送 2026-02-14 · [GitHub](https://github.com/0xHadyy/isl-python) · 个人维护
 
 **个人学习笔记库：《统计学习导论》Python 实现与进度记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xHadyy/isl-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 472 --> 475
-    line [473, 474, 474]
+    title "0xHadyy/isl-python 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 472 --> 481
+    line [473, 474, 479, 480, 480]
 ```
 
-2026-10-18 473 → 2026-11-02 474（+1）
+2026-10-18 473 → 2026-11-17 480（+7）
 
 
 ---

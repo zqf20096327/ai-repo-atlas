@@ -1,6 +1,6 @@
 # probelabs/visor
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/probelabs/visor) · [官网](https://probelabs.com/visor) · 组织维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/probelabs/visor) · [官网](https://probelabs.com/visor) · 组织维护
 
 **YAML 驱动的 AI 工作流引擎：编排检查、MCP 工具与 AI 供应商**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "probelabs/visor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "probelabs/visor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 24, 25, 27, 28, 28]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 28（+4）
 
 
 ---

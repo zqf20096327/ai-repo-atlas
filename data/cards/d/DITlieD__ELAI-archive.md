@@ -1,6 +1,6 @@
 # DITlieD/ELAI-archive
 
-⭐ 24 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DITlieD/ELAI-archive) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **已暂停的本地优先 LLM agent 框架研究代码档案**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DITlieD/ELAI-archive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-08 24（+0）
 
 
 ---

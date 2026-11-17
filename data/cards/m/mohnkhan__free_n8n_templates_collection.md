@@ -1,6 +1,6 @@
 # mohnkhan/free_n8n_templates_collection
 
-⭐ 11 · MIT · 推送 2025-11-06 · [GitHub](https://github.com/mohnkhan/free_n8n_templates_collection) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **互联网来源的 n8n 自动化模板聚合清单，覆盖邮件/Telegram/表格等**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mohnkhan/free_n8n_templates_collection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-07 11（+0）
 
 
 ---

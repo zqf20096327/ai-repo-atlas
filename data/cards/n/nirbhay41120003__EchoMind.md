@@ -1,6 +1,6 @@
 # nirbhay41120003/EchoMind
 
-⭐ 29 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/nirbhay41120003/EchoMind) · [官网](https://echomemory-ui-demo.vercel.app/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/nirbhay41120003/EchoMind) · [官网](https://echomemory-ui-demo.vercel.app/) · 个人维护
 
 **本地优先的语音记忆助手：转写语音并可检索对话问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirbhay41120003/EchoMind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 27 --> 34
-    line [33, 28, 29, 29]
+    title "nirbhay41120003/EchoMind 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 25 --> 34
+    line [33, 28, 29, 28, 26, 27, 28, 29, 31, 31]
 ```
 
-2026-10-18 33 → 2026-11-02 29（-4）
+2026-10-18 33 → 2026-11-17 31（-2）
 
 
 ---

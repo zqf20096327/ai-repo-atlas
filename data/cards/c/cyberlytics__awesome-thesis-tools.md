@@ -1,6 +1,6 @@
 # cyberlytics/awesome-thesis-tools
 
-⭐ 11 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/cyberlytics/awesome-thesis-tools) · 个人维护
+⭐ 11 · CC-BY-4.0 · 推送 2026-11-12 · [GitHub](https://github.com/cyberlytics/awesome-thesis-tools) · 个人维护
 
 **面向计算机/AI专业学生的毕业论文资源与工具清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyberlytics/awesome-thesis-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-02 11（+0）
+2026-10-18 11 → 2026-11-17 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ratna-Babu/Ai-Website-Builder
 
-⭐ 218 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/Ratna-Babu/Ai-Website-Builder) · [官网](https://ai-website-builder-mu.vercel.app) · 个人维护
+⭐ 223 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/Ratna-Babu/Ai-Website-Builder) · [官网](https://ai-website-builder-mu.vercel.app) · 个人维护
 
 **面向无编程经验用户的自然语言生成网站工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ratna-Babu/Ai-Website-Builder 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 207 --> 219
-    line [208, 210, 213, 214, 215, 216, 217, 218, 218]
+    title "Ratna-Babu/Ai-Website-Builder 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 207 --> 224
+    line [208, 210, 213, 214, 215, 216, 217, 218, 214, 219, 221, 223, 223]
 ```
 
-2026-10-18 208 → 2026-11-02 218（+10）
+2026-10-18 208 → 2026-11-17 223（+15）
 
 
 ---

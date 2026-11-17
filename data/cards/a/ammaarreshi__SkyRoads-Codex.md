@@ -1,6 +1,6 @@
 # ammaarreshi/SkyRoads-Codex
 
-⭐ 195 · Rust · 推送 2026-03-08 · [GitHub](https://github.com/ammaarreshi/SkyRoads-Codex) · 个人维护
+⭐ 196 · Rust · 推送 2026-03-08 · [GitHub](https://github.com/ammaarreshi/SkyRoads-Codex) · 个人维护
 
 **用 Codex 辅助逆向 DOS 游戏 SkyRoads 并用 Rust 原生重制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ammaarreshi/SkyRoads-Codex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 191 --> 196
-    line [192, 195, 195]
+    title "ammaarreshi/SkyRoads-Codex 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 191 --> 197
+    line [192, 195, 196, 196]
 ```
 
-2026-10-18 192 → 2026-11-02 195（+3）
+2026-10-18 192 → 2026-11-17 196（+4）
 
 
 ---

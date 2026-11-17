@@ -1,6 +1,6 @@
 # Anroshka/snake-ai
 
-⭐ 14 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/Anroshka/snake-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用深度 Q-Learning 自学贪吃蛇的强化学习实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anroshka/snake-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-15"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-02 14（+0）
+2026-10-18 14 → 2026-11-15 14（+0）
 
 
 ---

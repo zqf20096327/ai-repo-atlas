@@ -1,6 +1,6 @@
 # orhun/ratcode
 
-⭐ 25 · Rust · MIT · 推送 2026-09-04 · [GitHub](https://github.com/orhun/ratcode) · [官网](https://www.youtube.com/live/hhw741JrQeQ&t=1611) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-09-04 · [GitHub](https://github.com/orhun/ratcode) · [官网](https://www.youtube.com/live/hhw741JrQeQ&t=1611) · 个人维护
 
 **极简终端编码 agent：400 行 Rust 实现 Codex 风格编码助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "orhun/ratcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "orhun/ratcode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 23 --> 26
+    line [25, 24, 24]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 24（-1）
 
 
 ---

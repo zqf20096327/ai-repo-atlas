@@ -1,6 +1,6 @@
 # vevenom/pytorchgeonodes
 
-⭐ 53 · Python · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/vevenom/pytorchgeonodes) · [官网](https://vevenom.github.io/pytorchgeonodes/) · 组织维护
+⭐ 54 · Python · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/vevenom/pytorchgeonodes) · [官网](https://vevenom.github.io/pytorchgeonodes/) · 组织维护
 
 **将 Blender 几何节点模型转为可微分 PyTorch 代码的 3D 重建库**
 
@@ -45,13 +45,13 @@ PyTorch 库，把 Blender Geometry Nodes 设计的程序化形状模型转译为
 
 ```mermaid
 xychart-beta
-    title "vevenom/pytorchgeonodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "vevenom/pytorchgeonodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

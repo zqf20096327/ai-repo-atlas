@@ -1,6 +1,6 @@
 # RobinOscillate/tensor-inspect
 
-⭐ 19 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/RobinOscillate/tensor-inspect) · 个人维护
+⭐ 5 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/RobinOscillate/tensor-inspect) · 个人维护
 
 **Windows 桌面工具：浏览与 diff GGUF/safetensors 模型的张量结构**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobinOscillate/tensor-inspect 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 8 --> 20
-    line [9, 13, 18, 19, 19]
+    title "RobinOscillate/tensor-inspect 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 4 --> 20
+    line [9, 13, 18, 19, 5, 5]
 ```
 
-2026-10-22 9 → 2026-11-02 19（+10）
+2026-10-22 9 → 2026-11-17 5（-4）
 
 
 ---

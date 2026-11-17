@@ -1,6 +1,6 @@
 # pepicrft/plasma
 
-⭐ 22 · TypeScript · MPL-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/pepicrft/plasma) · [官网](https://plasma.dev) · 个人维护
+⭐ 23 · TypeScript · MPL-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/pepicrft/plasma) · [官网](https://plasma.dev) · 个人维护
 
 **AI 驱动的本地优先 iOS/Android 应用构建工具**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "pepicrft/plasma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "pepicrft/plasma 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 23（+1）
 
 
 ---

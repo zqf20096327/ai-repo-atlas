@@ -1,6 +1,6 @@
 # OpenRaiser/awesome-world-model-evolution
 
-⭐ 136 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/OpenRaiser/awesome-world-model-evolution) · 个人维护 · 中文 README
+⭐ 138 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/OpenRaiser/awesome-world-model-evolution) · 个人维护 · 中文 README
 
 **世界模型研究演进论文清单：从专用模型到统一多模态模型**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenRaiser/awesome-world-model-evolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    title "OpenRaiser/awesome-world-model-evolution 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 135 --> 139
+    line [136, 138, 138]
 ```
 
-2026-10-18 136 → 2026-11-02 136（+0）
+2026-10-18 136 → 2026-11-17 138（+2）
 
 
 ---

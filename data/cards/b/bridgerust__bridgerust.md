@@ -1,6 +1,6 @@
 # bridgerust/bridgerust
 
-⭐ 27 · Rust · 推送 2026-03-03 · [GitHub](https://github.com/bridgerust/bridgerust) · [官网](https://bridgerust.dev) · 组织维护
+⭐ 27 · Rust · 推送 2026-11-13 · [GitHub](https://github.com/bridgerust/bridgerust) · [官网](https://bridgerust.dev) · 组织维护
 
 **Rust 跨语言绑定框架与通用向量数据库客户端 Embex 的单仓库**
 
@@ -46,12 +46,12 @@ monorepo 内含三个部分：Embex 是统一 API 的向量数据库客户端，
 ```mermaid
 xychart-beta
     title "bridgerust/bridgerust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-11-02 27（+0）
+2026-10-18 27 → 2026-11-17 27（+0）
 
 
 ---

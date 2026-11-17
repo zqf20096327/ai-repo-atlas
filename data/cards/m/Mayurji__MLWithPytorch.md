@@ -1,6 +1,6 @@
 # Mayurji/MLWithPytorch
 
-⭐ 133 · Python · 推送 2025-11-19 · [GitHub](https://github.com/Mayurji/MLWithPytorch) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **30 天用 PyTorch 学习实现经典机器学习算法的教程仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Mayurji/MLWithPytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-14"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-11-02 133（+0）
+2026-10-18 133 → 2026-11-14 133（+0）
 
 
 ---

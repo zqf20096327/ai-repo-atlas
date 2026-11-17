@@ -1,6 +1,6 @@
 # jtCodes/lyrictor
 
-⭐ 58 · TypeScript · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/jtCodes/lyrictor) · [官网](https://lyrictor.com) · 个人维护
+⭐ 57 · TypeScript · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/jtCodes/lyrictor) · [官网](https://lyrictor.com) · 个人维护
 
 **把歌曲个人诠释做成可视化作品的创作工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtCodes/lyrictor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    title "jtCodes/lyrictor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
     y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    line [57, 58, 57, 57]
 ```
 
-2026-10-18 57 → 2026-11-02 58（+1）
+2026-10-18 57 → 2026-11-17 57（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nialljmiller/SED_Tools
 
-⭐ 29 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nialljmiller/SED_Tools) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/nialljmiller/SED_Tools) · 个人维护
 
 **天文学工具包：获取/标准化恒星光谱网格并合成测光数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nialljmiller/SED_Tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-11-02 29（+1）
+2026-10-18 28 → 2026-11-17 29（+1）
 
 
 ---

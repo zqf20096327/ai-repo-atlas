@@ -1,6 +1,6 @@
 # kikoncuo/jevfire
 
-⭐ 76 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/kikoncuo/jevfire) · [官网](https://kikoncuo.github.io/jevfire/learn.html) · 个人维护
+⭐ 77 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/kikoncuo/jevfire) · [官网](https://kikoncuo.github.io/jevfire/learn.html) · 个人维护
 
 **为开发者提供基于 vLLM 的并行字段决策打分层**
 
@@ -45,13 +45,13 @@ JEVfire 是一个面向 LLM 推理的 HTTP 侧车组件：把多个独立的布�
 
 ```mermaid
 xychart-beta
-    title "kikoncuo/jevfire 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    title "kikoncuo/jevfire 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-11-02 76（+1）
+2026-10-18 75 → 2026-11-17 77（+2）
 
 
 ---

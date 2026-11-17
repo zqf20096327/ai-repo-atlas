@@ -1,6 +1,6 @@
 # synchopate/nemotron-30b-cpu-256k
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/synchopate/nemotron-30b-cpu-256k) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在纯 CPU 上以 30-50+ tok/s 运行 30B MoE 模型、256K 上下文的技术方案与 llama.cpp 补丁集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | Apache-2.0 |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

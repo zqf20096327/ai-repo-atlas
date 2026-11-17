@@ -1,6 +1,6 @@
 # Stigern/VibeBasic
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Stigern/VibeBasic) · [官网](https://stigern.net/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Stigern/VibeBasic) · [官网](https://stigern.net/) · 个人维护
 
 **面向复古开发者的跨平台 Visual Basic 6 克隆 IDE，内置 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stigern/VibeBasic 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-02"]
-    y-axis "stars" 8 --> 13
-    line [9, 12]
+    title "Stigern/VibeBasic 星数(近 5 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 8 --> 18
+    line [9, 12, 15, 17, 17]
 ```
 
-2026-11-01 9 → 2026-11-02 12（+3）
+2026-11-01 9 → 2026-11-17 17（+8）
 
 
 ---

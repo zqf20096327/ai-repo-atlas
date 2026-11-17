@@ -1,6 +1,6 @@
 # sedum-dev/sedum
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sedum-dev/sedum) · [官网](https://sedum.dev) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/sedum-dev/sedum) · [官网](https://sedum.dev) · 组织维护
 
 **面向开发者的英文自然语言浏览器 e2e 测试 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sedum-dev/sedum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "sedum-dev/sedum 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-02 14（+1）
+2026-10-18 13 → 2026-11-17 15（+2）
 
 
 ---

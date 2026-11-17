@@ -1,6 +1,6 @@
 # mgifford/accessibility-skills
 
-⭐ 57 · JavaScript · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/mgifford/accessibility-skills) · 个人维护
+⭐ 61 · JavaScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/mgifford/accessibility-skills) · 个人维护
 
 **面向 AI agent 的无障碍（a11y）技能集合，覆盖约 30 个主题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mgifford/accessibility-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    title "mgifford/accessibility-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 54 --> 62
+    line [55, 56, 57, 58, 59, 60, 61, 61]
 ```
 
-2026-10-18 55 → 2026-11-02 57（+2）
+2026-10-18 55 → 2026-11-17 61（+6）
 
 
 ---

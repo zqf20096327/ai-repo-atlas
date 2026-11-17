@@ -1,6 +1,6 @@
 # shuxiachai/academic-commercialization-agent
 
-⭐ 805 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/shuxiachai/academic-commercialization-agent) · [官网](https://academic-commercialization-agent.up.railway.app) · 个人维护 · 中文 README
+⭐ 813 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/shuxiachai/academic-commercialization-agent) · [官网](https://academic-agent.cc) · 个人维护 · 中文 README
 
 **把论文/课题转化为带引用的成果转化评估报告的多智能体应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuxiachai/academic-commercialization-agent 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 581 --> 825
-    line [601, 631, 687, 732, 773, 774, 772, 795, 800, 802, 805]
+    title "shuxiachai/academic-commercialization-agent 星数(近 18 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 580 --> 834
+    line [601, 631, 687, 732, 773, 774, 772, 795, 800, 802, 805, 773, 809, 811, 812, 811, 813, 813]
 ```
 
-2026-10-18 601 → 2026-11-02 805（+204）
+2026-10-18 601 → 2026-11-17 813（+212）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/synthidbio
 
-⭐ 27 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google-deepmind/synthidbio) · 组织维护
+⭐ 28 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google-deepmind/synthidbio) · 组织维护
 
 **DeepMind 的 AI 生成生物序列/结构水印方法套件**
 
@@ -45,13 +45,13 @@ Google DeepMind 开发的生物序列与结构水印方法族：SynthID Bio-stru
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/synthidbio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 21 --> 28
-    line [22, 23, 24, 25, 26, 27, 27]
+    title "google-deepmind/synthidbio 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 21 --> 29
+    line [22, 23, 24, 25, 26, 27, 24, 27, 28, 28]
 ```
 
-2026-10-18 22 → 2026-11-02 27（+5）
+2026-10-18 22 → 2026-11-17 28（+6）
 
 
 ---

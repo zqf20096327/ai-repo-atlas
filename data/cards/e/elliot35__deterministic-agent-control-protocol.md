@@ -1,6 +1,6 @@
 # elliot35/deterministic-agent-control-protocol
 
-⭐ 83 · TypeScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/elliot35/deterministic-agent-control-protocol) · [官网](https://www.npmjs.com/package/@det-acp/core) · 个人维护
+⭐ 82 · TypeScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/elliot35/deterministic-agent-control-protocol) · [官网](https://www.npmjs.com/package/@det-acp/core) · 个人维护
 
 **AI agent 治理网关：策略化管控与审计 agent 的每个动作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elliot35/deterministic-agent-control-protocol 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
+    title "elliot35/deterministic-agent-control-protocol 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
     y-axis "stars" 81 --> 84
-    line [83, 82, 83, 83]
+    line [83, 82, 83, 82, 83, 82, 82]
 ```
 
-2026-10-18 83 → 2026-11-02 83（+0）
+2026-10-18 83 → 2026-11-17 82（-1）
 
 
 ---

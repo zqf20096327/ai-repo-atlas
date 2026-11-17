@@ -1,6 +1,6 @@
 # Clivern/wit-java
 
-⭐ 15 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Clivern/wit-java) · [官网](https://wit.ai) · 个人维护
+⭐ 15 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Clivern/wit-java) · [官网](https://wit.ai) · 个人维护
 
 **Wit.ai NLP 平台的 Java 客户端 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Clivern/wit-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-17 15（+0）
 
 
 ---

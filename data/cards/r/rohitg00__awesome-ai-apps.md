@@ -1,6 +1,6 @@
 # rohitg00/awesome-ai-apps
 
-⭐ 847 · HTML · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/rohitg00/awesome-ai-apps) · [官网](https://aiengineeringfromscratch.com) · 个人维护
+⭐ 851 · HTML · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/rohitg00/awesome-ai-apps) · [官网](https://aiengineeringfromscratch.com) · 个人维护
 
 **实用 AI agent 与 LLM 应用集合（5 类完整示例）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohitg00/awesome-ai-apps 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 839 --> 848
-    line [840, 841, 843, 844, 845, 846, 847, 847]
+    title "rohitg00/awesome-ai-apps 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 839 --> 852
+    line [840, 841, 843, 844, 845, 846, 847, 844, 848, 851, 851]
 ```
 
-2026-10-18 840 → 2026-11-02 847（+7）
+2026-10-18 840 → 2026-11-17 851（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # eddyhkchiu/V2V-LLM
 
-⭐ 17 · 推送 2026-03-03 · [GitHub](https://github.com/eddyhkchiu/V2V-LLM) · [官网](https://arxiv.org/abs/2502.09980) · 组织维护
+⭐ 18 · 推送 2026-03-03 · [GitHub](https://github.com/eddyhkchiu/V2V-LLM) · [官网](https://arxiv.org/abs/2502.09980) · 组织维护
 
 **面向车联网协同驾驶的多模态大语言模型基线与问答数据集**
 
@@ -43,13 +43,13 @@ ICRA2026 论文官方代码：提出将 LLM 融入多车协同自动驾驶的问
 
 ```mermaid
 xychart-beta
-    title "eddyhkchiu/V2V-LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    title "eddyhkchiu/V2V-LLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-02 17（+0）
+2026-10-18 17 → 2026-11-17 18（+1）
 
 
 ---

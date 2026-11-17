@@ -1,6 +1,6 @@
 # datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT
 
-⭐ 49 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT) · [官网](https://datadrivenconstruction.io/) · 组织维护
+⭐ 53 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT) · [官网](https://datadrivenconstruction.io/) · 组织维护
 
 **n8n 工作流：将 Revit/IFC/DWG 文件转 Excel 并用 LLM 生成 Python 分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 47 --> 54
+    line [48, 49, 48, 53, 53]
 ```
 
-2026-10-19 48 → 2026-11-02 49（+1）
+2026-10-19 48 → 2026-11-17 53（+5）
 
 
 ---

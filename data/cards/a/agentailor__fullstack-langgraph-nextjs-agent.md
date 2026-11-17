@@ -1,6 +1,6 @@
 # agentailor/fullstack-langgraph-nextjs-agent
 
-⭐ 134 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) · 个人维护
+⭐ 135 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) · 个人维护
 
 **基于 Next.js 与 LangGraph.js 的全栈 AI Agent 开发模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentailor/fullstack-langgraph-nextjs-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    title "agentailor/fullstack-langgraph-nextjs-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 133 --> 136
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-11-02 134（+0）
+2026-10-18 134 → 2026-11-17 135（+1）
 
 
 ---

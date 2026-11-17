@@ -1,6 +1,6 @@
 # Indie-Kit/nextjs-saas-starter
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Indie-Kit/nextjs-saas-starter) · [官网](https://indiekit.pro/) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Indie-Kit/nextjs-saas-starter) · [官网](https://indiekit.pro/) · 个人维护
 
 **AI 友好的 Next.js SaaS 启动模板（Indie Kit Pro 开源版）**
 
@@ -45,12 +45,12 @@ Indie Kit Pro 的开源/Lite 版本：基于 Next.js 16 (App Router)、TypeScrip
 ```mermaid
 xychart-beta
     title "Indie-Kit/nextjs-saas-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-02 28（+0）
+2026-10-18 28 → 2026-11-17 28（+0）
 
 
 ---

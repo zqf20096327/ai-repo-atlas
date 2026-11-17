@@ -1,6 +1,6 @@
 # tkalevra/SuperPowersWUI
 
-⭐ 63 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/tkalevra/SuperPowersWUI) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/tkalevra/SuperPowersWUI) · 个人维护
 
 **Open WebUI 工具：将 Superpowers 开发工作流移植到本地/远程 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tkalevra/SuperPowersWUI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-02"]
+    title "tkalevra/SuperPowersWUI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 62 --> 66
-    line [64, 65, 64, 63, 63]
+    line [64, 65, 64, 63, 65, 64, 64]
 ```
 
-2026-10-18 64 → 2026-11-02 63（-1）
+2026-10-18 64 → 2026-11-17 64（+0）
 
 
 ---

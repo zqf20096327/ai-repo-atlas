@@ -1,6 +1,6 @@
 # Mingbird/Mingbird-agent
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Mingbird/Mingbird-agent) · 个人维护 · 中文 README
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Mingbird/Mingbird-agent) · 个人维护 · 中文 README
 
 **本地优先的桌面 agent 执行器：让 2–9B 小模型在核显笔记本上完成实际任务**
 
@@ -44,13 +44,13 @@ Windows（Linux/macOS 实验性）桌面客户端，围绕本地小模型做 age
 
 ```mermaid
 xychart-beta
-    title "Mingbird/Mingbird-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 24, 24]
+    title "Mingbird/Mingbird-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 20 --> 31
+    line [21, 22, 23, 24, 22, 26, 27, 28, 30, 30]
 ```
 
-2026-10-18 21 → 2026-11-02 24（+3）
+2026-10-18 21 → 2026-11-17 30（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # aigurutinix/r2ai-stage-1
 
-⭐ 41 · HTML · 推送 2026-07-14 · [GitHub](https://github.com/aigurutinix/r2ai-stage-1) · [官网](https://r2ai.aiguru.com.vn/) · 组织维护
+⭐ 42 · HTML · 推送 2026-07-14 · [GitHub](https://github.com/aigurutinix/r2ai-stage-1) · [官网](https://r2ai.aiguru.com.vn/) · 组织维护
 
 **越南法律 AI 助手竞赛（R2AI Stage 1）赛题与获奖代码合集**
 
@@ -44,13 +44,13 @@ AI Guru 主办的 Road to AI Stage 1 竞赛仓库：任务是构建越南语法�
 
 ```mermaid
 xychart-beta
-    title "aigurutinix/r2ai-stage-1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "aigurutinix/r2ai-stage-1 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-11-02 41（+1）
+2026-10-18 40 → 2026-11-17 42（+2）
 
 
 ---

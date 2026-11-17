@@ -1,6 +1,6 @@
 # JuliaGaussianProcesses/KernelFunctions.jl
 
-⭐ 276 · Julia · MIT · 推送 2026-10-11 · [GitHub](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) · [官网](https://juliagaussianprocesses.github.io/KernelFunctions.jl/stable/) · 组织维护
+⭐ 276 · Julia · MIT · 推送 2026-11-09 · [GitHub](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) · [官网](https://juliagaussianprocesses.github.io/KernelFunctions.jl/stable/) · 组织维护
 
 **Julia 机器学习核函数库：灵活构建与组合各类核函数**
 
@@ -45,12 +45,12 @@ Julia 生态的通用核函数包，提供创建与操作核函数的框架及�
 ```mermaid
 xychart-beta
     title "JuliaGaussianProcesses/KernelFunctions.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 275 --> 277
     line [276, 276]
 ```
 
-2026-10-18 276 → 2026-11-02 276（+0）
+2026-10-18 276 → 2026-11-17 276（+0）
 
 
 ---

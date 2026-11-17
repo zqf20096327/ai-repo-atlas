@@ -1,6 +1,6 @@
 # Frostbite1536/Safe-Vibe-Coding
 
-⭐ 13 · Ruby · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/Frostbite1536/Safe-Vibe-Coding) · [官网](https://frostbite1536.github.io/Safe-Vibe-Coding/) · 个人维护
+⭐ 15 · Ruby · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/Frostbite1536/Safe-Vibe-Coding) · [官网](https://frostbite1536.github.io/Safe-Vibe-Coding/) · 个人维护
 
 **面向开发者的 LLM 编码实战指南：流程、原则与提示词模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Frostbite1536/Safe-Vibe-Coding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "Frostbite1536/Safe-Vibe-Coding 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 12 → 2026-11-02 13（+1）
+2026-10-18 12 → 2026-11-17 15（+3）
 
 
 ---

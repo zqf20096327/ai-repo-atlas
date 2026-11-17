@@ -1,6 +1,6 @@
 # vouchagent/Emboss
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/vouchagent/Emboss) · [官网](https://vouchagent.github.io/Emboss/) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/vouchagent/Emboss) · [官网](https://vouchagent.github.io/Emboss/) · 组织维护
 
 **面向开发者的声明式 PDF 生成引擎：结构化内容转可访问、可验证 PDF**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vouchagent/Emboss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

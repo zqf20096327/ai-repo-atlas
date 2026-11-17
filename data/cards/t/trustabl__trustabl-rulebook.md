@@ -1,6 +1,6 @@
 # trustabl/trustabl-rulebook
 
-⭐ 51 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/trustabl/trustabl-rulebook) · 组织维护
+⭐ 64 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/trustabl/trustabl-rulebook) · 组织维护
 
 **Agent 可靠性静态分析规则的索引与威胁模型说明文档库**
 
@@ -44,13 +44,13 @@ trustabl Agent Reliability Analyzer 的规则说明书仓库：本身不含规�
 
 ```mermaid
 xychart-beta
-    title "trustabl/trustabl-rulebook 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02"]
-    y-axis "stars" 37 --> 52
-    line [38, 40, 41, 43, 46, 47, 51, 51]
+    title "trustabl/trustabl-rulebook 星数(近 12 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 36 --> 66
+    line [38, 40, 41, 43, 46, 47, 51, 41, 62, 63, 64, 64]
 ```
 
-2026-10-23 38 → 2026-11-02 51（+13）
+2026-10-23 38 → 2026-11-17 64（+26）
 
 
 ---

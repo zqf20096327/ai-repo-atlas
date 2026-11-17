@@ -1,6 +1,6 @@
 # okdalto/siljangnim
 
-⭐ 32 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/okdalto/siljangnim) · [官网](https://siljangnim.vercel.app) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/okdalto/siljangnim) · [官网](https://siljangnim.vercel.app) · 个人维护 · 中文 README
 
 **由 AI agent 驱动的创意编程工作室：对话生成实时视觉**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "okdalto/siljangnim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    title "okdalto/siljangnim 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-11-02 32（+2）
+2026-10-18 30 → 2026-11-17 33（+3）
 
 
 ---

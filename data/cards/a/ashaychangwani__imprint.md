@@ -1,6 +1,6 @@
 # ashaychangwani/imprint
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ashaychangwani/imprint) · [官网](https://github.com/ashaychangwani/imprint) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ashaychangwani/imprint) · [官网](https://github.com/ashaychangwani/imprint) · 个人维护
 
 **录制浏览器操作一次，编译成 AI agent 可调用的确定性 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashaychangwani/imprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-02 24（+0）
+2026-10-18 24 → 2026-11-17 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pixelsmasher13/platypus
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/pixelsmasher13/platypus) · [官网](https://platypusnotes.com/) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/pixelsmasher13/platypus) · [官网](https://platypusnotes.com/) · 组织维护
 
 **本地优先的桌面笔记与会议记录应用：录音转写、笔记、文档对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixelsmasher13/platypus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    title "pixelsmasher13/platypus 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 42, 40, 41, 42, 43, 43]
 ```
 
-2026-10-18 39 → 2026-11-02 42（+3）
+2026-10-18 39 → 2026-11-17 43（+4）
 
 
 ---

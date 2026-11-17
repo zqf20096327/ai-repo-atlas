@@ -1,6 +1,6 @@
 # cytodata/awesome-cytodata
 
-⭐ 98 · TypeScript · CC0-1.0 · 推送 2026-10-09 · [GitHub](https://github.com/cytodata/awesome-cytodata) · 组织维护
+⭐ 99 · TypeScript · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/cytodata/awesome-cytodata) · 组织维护
 
 **图像分析表型（cytodata）领域的论文/软件/数据集策展网站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cytodata/awesome-cytodata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    title "cytodata/awesome-cytodata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 97 --> 100
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-02 98（+0）
+2026-10-18 98 → 2026-11-17 99（+1）
 
 
 ---

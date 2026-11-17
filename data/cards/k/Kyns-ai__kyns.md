@@ -1,6 +1,6 @@
 # Kyns-ai/kyns
 
-⭐ 30 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Kyns-ai/kyns) · [官网](https://kyns.ai) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Kyns-ai/kyns) · [官网](https://kyns.ai) · 组织维护
 
 **无审查自托管 AI 聊天平台：对话、角色扮演与图像生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kyns-ai/kyns 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "Kyns-ai/kyns 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 29, 30, 31, 31]
 ```
 
-2026-10-18 28 → 2026-11-02 30（+2）
+2026-10-18 28 → 2026-11-17 31（+3）
 
 
 ---

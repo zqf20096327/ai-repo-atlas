@@ -1,6 +1,6 @@
 # ShenzheZhu/JailDAM
 
-⭐ 26 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/ShenzheZhu/JailDAM) · [官网](https://arxiv.org/abs/2504.03770) · 组织维护
+⭐ 27 · Python · MIT · 推送 2025-11-25 · [GitHub](https://github.com/ShenzheZhu/JailDAM) · [官网](https://arxiv.org/abs/2504.03770) · 组织维护
 
 **视觉语言模型越狱攻击检测方法（COLM 2025 论文代码）**
 
@@ -43,13 +43,13 @@ COLM 2025 论文 JailDAM 的官方代码仓库，提出基于自适应记忆（A
 
 ```mermaid
 xychart-beta
-    title "ShenzheZhu/JailDAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    title "ShenzheZhu/JailDAM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-11-02 26（+0）
+2026-10-18 26 → 2026-11-17 27（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mouna23/OSINT-with-LLM
 
-⭐ 85 · Python · 推送 2025-11-20 · [GitHub](https://github.com/mouna23/OSINT-with-LLM) · [官网](https://mouna23.github.io/OSINT-with-LLM/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地 LLM 驱动的 OSINT 侦察 POC：输入邮箱/域名/IP 自动产出报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mouna23/OSINT-with-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "mouna23/OSINT-with-LLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15"]
+    y-axis "stars" 83 --> 88
+    line [84, 85, 86, 87, 87]
 ```
 
-2026-10-18 84 → 2026-11-02 85（+1）
+2026-10-18 84 → 2026-11-15 87（+3）
 
 
 ---

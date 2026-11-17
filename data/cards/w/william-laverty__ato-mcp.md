@@ -1,6 +1,6 @@
 # william-laverty/ato-mcp
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/william-laverty/ato-mcp) · [官网](https://ato-mcp.com.au) · 个人维护
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/william-laverty/ato-mcp) · [官网](https://ato-mcp.com.au) · 个人维护
 
 **连接 AI agent 与澳大利亚税务知识库的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "william-laverty/ato-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15, 15]
+    title "william-laverty/ato-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    y-axis "stars" 10 --> 20
+    line [11, 12, 13, 14, 15, 12, 16, 17, 18, 19, 19]
 ```
 
-2026-10-18 11 → 2026-11-02 15（+4）
+2026-10-18 11 → 2026-11-17 19（+8）
 
 
 ---

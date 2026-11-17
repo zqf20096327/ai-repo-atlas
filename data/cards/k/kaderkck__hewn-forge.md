@@ -1,6 +1,6 @@
 # kaderkck/hewn-forge
 
-⭐ 116 · HTML · 推送 2026-11-01 · [GitHub](https://github.com/kaderkck/hewn-forge) · 个人维护
+⭐ 116 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/kaderkck/hewn-forge) · 个人维护
 
 **对话输出塑形工具：按五种答案形态路由并纠正每轮漂移**
 
@@ -44,13 +44,13 @@ HEWN 定位为对话回答形态塑形系统：预定义 IR 检索、Prose+Code�
 
 ```mermaid
 xychart-beta
-    title "kaderkck/hewn-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02"]
+    title "kaderkck/hewn-forge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 115 --> 118
-    line [117, 116, 116]
+    line [117, 116, 117, 116, 116]
 ```
 
-2026-10-18 117 → 2026-11-02 116（-1）
+2026-10-18 117 → 2026-11-17 116（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # elliotwutingfeng/SpamdexingSites
 
-⭐ 29 · BSD-3-Clause · 推送 2026-01-29 · [GitHub](https://github.com/elliotwutingfeng/SpamdexingSites) · 个人维护
+⭐ 30 · BSD-3-Clause · 推送 2026-01-29 · [GitHub](https://github.com/elliotwutingfeng/SpamdexingSites) · 个人维护
 
 **阻断搜索引擎垃圾优化网站（spamdexing）的 URL 屏蔽列表源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elliotwutingfeng/SpamdexingSites 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    title "elliotwutingfeng/SpamdexingSites 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-02 29（+0）
+2026-10-18 29 → 2026-11-17 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hraness/algal
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hraness/algal) · [官网](https://algal.computer) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向长期运行 agent 的编程语言：可审批暂停、断点续跑、离线重放**
 
@@ -11,7 +11,7 @@ ALGAL 是一种以数据形式表达 agent 程序的编程语言：程序为带�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ ALGAL 是一种以数据形式表达 agent 程序的编程语言：程序为带�
 ```mermaid
 xychart-beta
     title "hraness/algal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-07"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-07 21（+0）
 
 
 ---

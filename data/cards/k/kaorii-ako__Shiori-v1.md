@@ -1,6 +1,6 @@
 # kaorii-ako/Shiori-v1
 
-⭐ 47 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/kaorii-ako/Shiori-v1) · [官网](https://shiori-v1.vercel.app) · 个人维护
+⭐ 48 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/kaorii-ako/Shiori-v1) · [官网](https://shiori-v1.vercel.app) · 个人维护
 
 **面向学生的学习伴侣应用：测验、闪卡、成绩追踪与 AI 学习规划**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaorii-ako/Shiori-v1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    title "kaorii-ako/Shiori-v1 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 47, 46, 48, 48]
 ```
 
-2026-10-18 45 → 2026-11-02 47（+2）
+2026-10-18 45 → 2026-11-17 48（+3）
 
 
 ---

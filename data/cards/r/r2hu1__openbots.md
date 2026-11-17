@@ -1,6 +1,6 @@
 # r2hu1/openbots
 
-⭐ 12 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/r2hu1/openbots) · [官网](https://openbotss.vercel.app) · 组织维护
+⭐ 16 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/r2hu1/openbots) · [官网](https://openbotss.vercel.app) · 组织维护
 
 **开源可自托管的自主 AI Agent 团队工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "r2hu1/openbots 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 6 --> 13
-    line [7, 8, 9, 11, 12]
+    title "r2hu1/openbots 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 6 --> 17
+    line [7, 8, 9, 11, 12, 8, 12, 13, 15, 16, 16]
 ```
 
-2026-10-18 7 → 2026-11-02 12（+5）
+2026-10-18 7 → 2026-11-17 16（+9）
 
 
 ---

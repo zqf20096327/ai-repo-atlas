@@ -1,6 +1,6 @@
 # mindspore-ai/serving
 
-⭐ 41 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mindspore-ai/serving) · [官网](https://gitee.com/mindspore/serving) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **帮助 MindSpore 开发者部署在线推理服务的服务模块**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mindspore-ai/serving 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-23", "2026-11-10"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-23 41 → 2026-11-02 41（+0）
+2026-10-23 41 → 2026-11-10 41（+0）
 
 
 ---

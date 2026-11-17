@@ -1,6 +1,6 @@
 # fugazi/test-automation-skills-agents
 
-⭐ 256 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fugazi/test-automation-skills-agents) · 个人维护
+⭐ 267 · Java · MIT · 推送 2026-11-09 · [GitHub](https://github.com/fugazi/test-automation-skills-agents) · 个人维护
 
 **面向 QA 自动化工程师的工具无关 AI agents/技能/规范库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fugazi/test-automation-skills-agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02"]
-    y-axis "stars" 251 --> 257
-    line [252, 253, 252, 253, 255, 256, 256]
+    title "fugazi/test-automation-skills-agents 星数(近 13 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 251 --> 268
+    line [252, 253, 252, 253, 255, 256, 253, 262, 263, 264, 265, 267, 267]
 ```
 
-2026-10-18 252 → 2026-11-02 256（+4）
+2026-10-18 252 → 2026-11-17 267（+15）
 
 
 ---

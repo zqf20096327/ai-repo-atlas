@@ -1,6 +1,6 @@
 # YunyueLi/LoreGraph
 
-⭐ 12 · HTML · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/YunyueLi/LoreGraph) · [官网](https://loregraph.ungetsu.net) · 个人维护 · 中文 README
+⭐ 13 · HTML · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/YunyueLi/LoreGraph) · [官网](https://loregraph.ungetsu.net) · 个人维护 · 中文 README
 
 **从虚构文本生成可溯源知识图谱的工具，供文学研究者与开发者使用**
 
@@ -44,13 +44,13 @@ LoreGraph 将小说、剧本、歌剧脚本等虚构文本转换为可查询的�
 
 ```mermaid
 xychart-beta
-    title "YunyueLi/LoreGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    title "YunyueLi/LoreGraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 13（+1）
 
 
 ---

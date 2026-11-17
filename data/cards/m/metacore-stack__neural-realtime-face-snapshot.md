@@ -1,6 +1,6 @@
 # metacore-stack/neural-realtime-face-snapshot
 
-⭐ 15 · Python · 推送 2025-11-13 · [GitHub](https://github.com/metacore-stack/neural-realtime-face-snapshot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **实时人脸检测与识别桌面程序：MTCNN 检测 + FaceNet 嵌入 + KNN 比对**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "metacore-stack/neural-realtime-face-snapshot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-08"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-02 15（+0）
+2026-10-18 15 → 2026-11-08 15（+0）
 
 
 ---

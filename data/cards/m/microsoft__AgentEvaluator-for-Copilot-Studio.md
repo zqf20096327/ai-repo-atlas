@@ -1,6 +1,6 @@
 # microsoft/AgentEvaluator-for-Copilot-Studio
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/AgentEvaluator-for-Copilot-Studio) · 组织维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-02 · [GitHub](https://github.com/microsoft/AgentEvaluator-for-Copilot-Studio) · 组织维护
 
 **分析 Copilot Studio 代理性能与成本的 Power BI 模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AgentEvaluator-for-Copilot-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-02"]
+    title "microsoft/AgentEvaluator-for-Copilot-Studio 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    line [11, 12, 13, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-02 13（+2）
+2026-10-18 11 → 2026-11-17 13（+2）
 
 
 ---

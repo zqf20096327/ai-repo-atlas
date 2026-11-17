@@ -1,6 +1,6 @@
 # kermitt2/delft
 
-⭐ 418 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kermitt2/delft) · 个人维护
+⭐ 419 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/kermitt2/delft) · 个人维护
 
 **面向文本的深度学习框架：序列标注与文本分类**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kermitt2/delft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-02"]
-    y-axis "stars" 415 --> 419
-    line [416, 417, 418, 418]
+    title "kermitt2/delft 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 415 --> 420
+    line [416, 417, 418, 417, 419, 419]
 ```
 
-2026-10-18 416 → 2026-11-02 418（+2）
+2026-10-18 416 → 2026-11-17 419（+3）
 
 
 ---

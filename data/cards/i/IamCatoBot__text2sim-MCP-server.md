@@ -1,6 +1,6 @@
 # IamCatoBot/text2sim-MCP-server
 
-⭐ 25 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/IamCatoBot/text2sim-MCP-server) · [官网](https://text2sim.com) · 组织维护
+⭐ 26 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/IamCatoBot/text2sim-MCP-server) · [官网](https://text2sim.com) · 组织维护
 
 **让 LLM 通过 MCP 创建并运行仿真模型的工具服务器**
 
@@ -44,13 +44,13 @@ The Cato Bot Company 开发的 Model Context Protocol 服务器，使大语言�
 
 ```mermaid
 xychart-beta
-    title "IamCatoBot/text2sim-MCP-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    title "IamCatoBot/text2sim-MCP-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 24 --> 27
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 25（+0）
+2026-10-18 25 → 2026-11-17 26（+1）
 
 
 ---

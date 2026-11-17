@@ -1,6 +1,6 @@
 # mbzuai-oryx/Video-LLaVA
 
-⭐ 263 · Python · 推送 2026-09-05 · [GitHub](https://github.com/mbzuai-oryx/Video-LLaVA) · [官网](https://mbzuai-oryx.github.io/Video-LLaVA) · 组织维护
+⭐ 264 · Python · 推送 2026-09-05 · [GitHub](https://github.com/mbzuai-oryx/Video-LLaVA) · [官网](https://mbzuai-oryx.github.io/Video-LLaVA) · 组织维护
 
 **带像素级定位能力的视频多模态大模型（研究代码与模型）**
 
@@ -44,13 +44,13 @@ MBZUAI 团队发布的视频大型多模态模型（LMM），在对话式视频�
 
 ```mermaid
 xychart-beta
-    title "mbzuai-oryx/Video-LLaVA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    title "mbzuai-oryx/Video-LLaVA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 262 --> 265
+    line [263, 264, 264]
 ```
 
-2026-10-18 263 → 2026-11-02 263（+0）
+2026-10-18 263 → 2026-11-17 264（+1）
 
 
 ---

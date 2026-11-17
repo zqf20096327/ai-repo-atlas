@@ -1,6 +1,6 @@
 # NasAndNora/obsidian-http-mcp
 
-⭐ 26 · TypeScript · MIT · 推送 2025-11-19 · [GitHub](https://github.com/NasAndNora/obsidian-http-mcp) · [官网](https://www.npmjs.com/package/obsidian-http-mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AI 客户端经 HTTP 管理 Obsidian 笔记的 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NasAndNora/obsidian-http-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-14"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-02 26（+1）
+2026-10-18 25 → 2026-11-14 26（+1）
 
 
 ---

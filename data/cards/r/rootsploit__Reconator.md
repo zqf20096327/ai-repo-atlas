@@ -1,6 +1,6 @@
 # rootsploit/Reconator
 
-⭐ 23 · Go · NOASSERTION · 推送 2026-05-04 · [GitHub](https://github.com/rootsploit/Reconator) · 组织维护
+⭐ 24 · Go · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/rootsploit/Reconator) · 组织维护
 
 **面向赏金与安全测试的 AI 辅助侦察框架（Go 单二进制）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rootsploit/Reconator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    title "rootsploit/Reconator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-02 23（+0）
+2026-10-18 23 → 2026-11-17 24（+1）
 
 
 ---

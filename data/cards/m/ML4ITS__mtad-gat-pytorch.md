@@ -1,6 +1,6 @@
 # ML4ITS/mtad-gat-pytorch
 
-⭐ 398 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/ML4ITS/mtad-gat-pytorch) · 组织维护
+⭐ 400 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/ML4ITS/mtad-gat-pytorch) · 组织维护
 
 **图注意力网络做多变量时间序列异常检测的 PyTorch 实现**
 
@@ -44,13 +44,13 @@ MTAD-GAT（Zhao et al. 2020）的 PyTorch 实现，构建完整的多变量时�
 
 ```mermaid
 xychart-beta
-    title "ML4ITS/mtad-gat-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 397 --> 399
-    line [398, 398]
+    title "ML4ITS/mtad-gat-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 397 --> 401
+    line [398, 399, 400, 400]
 ```
 
-2026-10-18 398 → 2026-11-02 398（+0）
+2026-10-18 398 → 2026-11-17 400（+2）
 
 
 ---

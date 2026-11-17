@@ -1,6 +1,6 @@
 # baiyuscc13724-max/deepseek-harness-desktop
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/baiyuscc13724-max/deepseek-harness-desktop) · [官网](https://github.com/baiyuscc13724-max/deepseek-harness-desktop/releases/latest) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/baiyuscc13724-max/deepseek-harness-desktop) · [官网](https://github.com/baiyuscc13724-max/deepseek-harness-desktop/releases/latest) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的中文 Windows/macOS 桌面客户端，含桌宠与插件市场**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baiyuscc13724-max/deepseek-harness-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-02"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 12]
+    title "baiyuscc13724-max/deepseek-harness-desktop 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 10 --> 14
+    line [12, 13, 12, 13, 12, 11, 11]
 ```
 
-2026-10-18 12 → 2026-11-02 12（+0）
+2026-10-18 12 → 2026-11-17 11（-1）
 
 
 ---

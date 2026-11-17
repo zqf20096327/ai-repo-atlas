@@ -1,6 +1,6 @@
 # SquidSec/SquidC5
 
-⭐ 57 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SquidSec/SquidC5) · [官网](https://squidoffense.com/) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/SquidSec/SquidC5) · [官网](https://squidoffense.com/) · 组织维护
 
 **给红队/渗透测试者的带 AI 操作员的 C5 团队服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SquidSec/SquidC5 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 54 --> 58
-    line [57, 56, 55, 57, 57]
+    title "SquidSec/SquidC5 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 54 --> 59
+    line [57, 56, 55, 57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-11-02 57（+0）
+2026-10-18 57 → 2026-11-17 58（+1）
 
 
 ---

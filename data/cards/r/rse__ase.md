@@ -1,6 +1,6 @@
 # rse/ase
 
-⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rse/ase) · [官网](https://ase.tools) · 个人维护
+⭐ 76 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rse/ase) · [官网](https://ase.tools) · 个人维护
 
 **面向开发者的 Agentic AI 编码工具箱：57 个技能扩展 Claude Code**
 
@@ -46,13 +46,13 @@ Agentic Software Engineering（ASE）是为软件开发者与架构师提供的 
 
 ```mermaid
 xychart-beta
-    title "rse/ase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    title "rse/ase 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 59 --> 77
+    line [60, 66, 75, 76, 76]
 ```
 
-2026-10-18 60 → 2026-11-02 60（+0）
+2026-10-18 60 → 2026-11-17 76（+16）
 
 
 ---

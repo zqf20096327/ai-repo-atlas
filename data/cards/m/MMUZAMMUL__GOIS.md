@@ -1,6 +1,6 @@
 # MMUZAMMUL/GOIS
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/MMUZAMMUL/GOIS) · 个人维护 · 中文 README
+⭐ 22 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/MMUZAMMUL/GOIS) · 个人维护 · 中文 README
 
 **微小目标检测增强框架：动态自适应切片推理**
 
@@ -44,13 +44,13 @@ Guided Object Inference Slicing（GOIS）研究代码，发表于 Neurocomputing
 
 ```mermaid
 xychart-beta
-    title "MMUZAMMUL/GOIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    title "MMUZAMMUL/GOIS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-02 21（+0）
+2026-10-18 21 → 2026-11-17 22（+1）
 
 
 ---

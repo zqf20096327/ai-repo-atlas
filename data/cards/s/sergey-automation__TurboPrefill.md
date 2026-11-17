@@ -1,6 +1,6 @@
 # sergey-automation/TurboPrefill
 
-⭐ 15 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sergey-automation/TurboPrefill) · 个人维护
+⭐ 17 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sergey-automation/TurboPrefill) · 个人维护
 
 **llama.cpp 多 GPU 长上下文 prefill 调度加速补丁**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sergey-automation/TurboPrefill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "sergey-automation/TurboPrefill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 15（+3）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

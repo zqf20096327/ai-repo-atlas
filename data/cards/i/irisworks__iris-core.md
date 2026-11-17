@@ -1,6 +1,6 @@
 # irisworks/iris-core
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/irisworks/iris-core) · [官网](https://irisflow.dev) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/irisworks/iris-core) · [官网](https://irisflow.dev) · 组织维护
 
 **自托管 Slack/Telegram AI agent：运行时自我扩展技能与子agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "irisworks/iris-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
+    x-axis ["2026-10-18", "2026-11-17"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-02 13（+0）
+2026-10-18 13 → 2026-11-17 13（+0）
 
 
 ---

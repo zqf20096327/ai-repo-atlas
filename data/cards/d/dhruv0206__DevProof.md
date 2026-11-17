@@ -1,6 +1,6 @@
 # dhruv0206/DevProof
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-05-19 · [GitHub](https://github.com/dhruv0206/DevProof) · 个人维护
+⭐ 20 · TypeScript · NOASSERTION · 推送 2026-05-19 · [GitHub](https://github.com/dhruv0206/DevProof) · 个人维护
 
 **面向开发者的 GitHub 仓库 AI 评分与开源议题搜索平台**
 
@@ -45,13 +45,13 @@ DevProof 是一个 Web 平台（Next.js 前端 + FastAPI 后端）：粘贴 GitH
 
 ```mermaid
 xychart-beta
-    title "dhruv0206/DevProof 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    title "dhruv0206/DevProof 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-02 19（+0）
+2026-10-18 19 → 2026-11-17 20（+1）
 
 
 ---

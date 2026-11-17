@@ -1,6 +1,6 @@
 # useburner/burner
 
-⭐ 14 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/useburner/burner) · [官网](https://useburner.si) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/useburner/burner) · [官网](https://useburner.si) · 个人维护
 
 **让 AI 助手通过闲置安卓手机操作真实应用的命令行工具**
 
@@ -44,13 +44,13 @@ burner 是一个由 AI 助手运行的命令行工具：通过 Android 无线调
 
 ```mermaid
 xychart-beta
-    title "useburner/burner 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 14, 14]
+    title "useburner/burner 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 15, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 12 → 2026-11-02 14（+2）
+2026-10-18 12 → 2026-11-17 17（+5）
 
 
 ---

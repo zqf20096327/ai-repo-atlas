@@ -1,6 +1,6 @@
 # paralleldrive/aidd
 
-⭐ 389 · JavaScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/paralleldrive/aidd) · 组织维护
+⭐ 390 · JavaScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/paralleldrive/aidd) · 组织维护
 
 **AI 驱动开发框架：让 AI agent 写出的代码可维护、安全**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paralleldrive/aidd 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-02"]
-    y-axis "stars" 385 --> 390
-    line [386, 387, 388, 389, 389]
+    title "paralleldrive/aidd 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 385 --> 391
+    line [386, 387, 388, 389, 387, 389, 390, 390]
 ```
 
-2026-10-18 386 → 2026-11-02 389（+3）
+2026-10-18 386 → 2026-11-17 390（+4）
 
 
 ---

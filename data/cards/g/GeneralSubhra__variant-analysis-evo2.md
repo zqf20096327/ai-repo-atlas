@@ -1,6 +1,6 @@
 # GeneralSubhra/variant-analysis-evo2
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/GeneralSubhra/variant-analysis-evo2) · 个人维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/GeneralSubhra/variant-analysis-evo2) · 个人维护
 
 **用 Evo2 基因组大模型预测 DNA 变异致病性的全栈 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeneralSubhra/variant-analysis-evo2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    title "GeneralSubhra/variant-analysis-evo2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    y-axis "stars" 20 --> 23
+    line [22, 21, 21]
 ```
 
-2026-10-18 22 → 2026-11-02 22（+0）
+2026-10-18 22 → 2026-11-17 21（-1）
 
 
 ---

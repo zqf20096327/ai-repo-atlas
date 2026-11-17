@@ -1,6 +1,6 @@
 # itzik123/ClashRoyaleAi
 
-⭐ 25 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/itzik123/ClashRoyaleAi) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/itzik123/ClashRoyaleAi) · 个人维护
 
 **皇室战争确定性对战模拟器与强化学习训练环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itzik123/ClashRoyaleAi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-02"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "itzik123/ClashRoyaleAi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 26, 27, 28, 30, 30]
 ```
 
-2026-10-18 24 → 2026-11-02 25（+1）
+2026-10-18 24 → 2026-11-17 30（+6）
 
 
 ---

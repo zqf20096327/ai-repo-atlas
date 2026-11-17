@@ -1,6 +1,6 @@
 # 0x11c11e/awesome-ai-research-tools
 
-⭐ 87 · CC0-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/0x11c11e/awesome-ai-research-tools) · 个人维护
+⭐ 91 · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/0x11c11e/awesome-ai-research-tools) · 个人维护
 
 **面向科研全流程的 AI 工具策展清单（文献、引用、写作等）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "0x11c11e/awesome-ai-research-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-02"]
-    y-axis "stars" 81 --> 88
-    line [82, 83, 85, 87, 87]
+    title "0x11c11e/awesome-ai-research-tools 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 81 --> 92
+    line [82, 83, 85, 87, 83, 90, 91, 91]
 ```
 
-2026-10-18 82 → 2026-11-02 87（+5）
+2026-10-18 82 → 2026-11-17 91（+9）
 
 
 ---

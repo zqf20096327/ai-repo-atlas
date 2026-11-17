@@ -1,6 +1,6 @@
 # r-muresan/screen.vision
 
-⭐ 309 · TypeScript · MIT · 推送 2026-02-20 · [GitHub](https://github.com/r-muresan/screen.vision) · [官网](https://screen.vision) · 个人维护
+⭐ 308 · TypeScript · MIT · 推送 2026-02-20 · [GitHub](https://github.com/r-muresan/screen.vision) · [官网](https://screen.vision) · 个人维护
 
 **屏幕实时指导应用：描述目标后逐步获得 AI 操作指引**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "r-muresan/screen.vision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02"]
-    y-axis "stars" 308 --> 311
-    line [310, 309, 309]
+    title "r-muresan/screen.vision 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-12", "2026-11-17"]
+    y-axis "stars" 307 --> 311
+    line [310, 309, 308, 308]
 ```
 
-2026-10-18 310 → 2026-11-02 309（-1）
+2026-10-18 310 → 2026-11-17 308（-2）
 
 
 ---

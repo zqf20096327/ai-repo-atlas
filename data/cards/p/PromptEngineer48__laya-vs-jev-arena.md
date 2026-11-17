@@ -1,6 +1,6 @@
 # PromptEngineer48/laya-vs-jev-arena
 
-⭐ 30 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/PromptEngineer48/laya-vs-jev-arena) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/PromptEngineer48/laya-vs-jev-arena) · 个人维护
 
 **让两个 AI 模型在游戏竞技场实时对战的评测基准**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PromptEngineer48/laya-vs-jev-arena 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    title "PromptEngineer48/laya-vs-jev-arena 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-02 30（+0）
+2026-10-18 30 → 2026-11-17 32（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # pyresearch/notebooks
 
-⭐ 53 · Jupyter Notebook · MIT · 推送 2026-01-15 · [GitHub](https://github.com/pyresearch/notebooks) · [官网](https://pyresearch.org/) · 组织维护
+⭐ 54 · Jupyter Notebook · MIT · 推送 2026-01-15 · [GitHub](https://github.com/pyresearch/notebooks) · [官网](https://pyresearch.org/) · 组织维护
 
 **计算机视觉模型训练教程与 Colab 笔记本合集**
 
@@ -44,13 +44,13 @@ PyResearch 维护的计算机视觉教程仓库：以表格形式列出 14 个 J
 
 ```mermaid
 xychart-beta
-    title "pyresearch/notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    title "pyresearch/notebooks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-11-02 53（+0）
+2026-10-18 53 → 2026-11-17 54（+1）
 
 
 ---

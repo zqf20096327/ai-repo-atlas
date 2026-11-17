@@ -1,6 +1,6 @@
 # nipponjo/tts-arabic-pytorch
 
-⭐ 145 · Jupyter Notebook · 推送 2025-12-13 · [GitHub](https://github.com/nipponjo/tts-arabic-pytorch) · 个人维护
+⭐ 147 · Jupyter Notebook · 推送 2025-12-13 · [GitHub](https://github.com/nipponjo/tts-arabic-pytorch) · 个人维护
 
 **阿拉伯语 TTS 模型库：Tacotron2/FastPitch 文本转语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nipponjo/tts-arabic-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 144 --> 146
-    line [145, 145]
+    title "nipponjo/tts-arabic-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    y-axis "stars" 144 --> 148
+    line [145, 146, 147, 147]
 ```
 
-2026-10-18 145 → 2026-11-02 145（+0）
+2026-10-18 145 → 2026-11-17 147（+2）
 
 
 ---

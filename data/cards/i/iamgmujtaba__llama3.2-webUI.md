@@ -1,6 +1,6 @@
 # iamgmujtaba/llama3.2-webUI
 
-⭐ 35 · PHP · MIT · 推送 2026-10-05 · [GitHub](https://github.com/iamgmujtaba/llama3.2-webUI) · [官网](https://gmujtaba.com/) · 个人维护
+⭐ 34 · PHP · MIT · 推送 2026-10-05 · [GitHub](https://github.com/iamgmujtaba/llama3.2-webUI) · [官网](https://gmujtaba.com/) · 个人维护
 
 **面向 Ollama 的 Llama 3.2 多模态网页对话界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamgmujtaba/llama3.2-webUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-02"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    title "iamgmujtaba/llama3.2-webUI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
+    y-axis "stars" 33 --> 36
+    line [35, 34, 34]
 ```
 
-2026-10-18 35 → 2026-11-02 35（+0）
+2026-10-18 35 → 2026-11-17 34（-1）
 
 
 ---
