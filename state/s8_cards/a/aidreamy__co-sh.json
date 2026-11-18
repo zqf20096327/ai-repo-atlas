@@ -1,1 +1,82 @@
-{"fn": "aidreamy/co-sh", "sha": "64e1690d579e", "source": "readme", "identity": {"one_liner": "终端多 agent 编排器：在 Rust TUI 中协调多个编程 agent", "review": "用 Rust 编写的终端通用编程 agent 与多 agent 编排层：在同一 TUI 的分屏面板中并行运行外部 agent（Claude、Gemini、Codex、Cline 等），每个 agent 保持独立会话、模型与可选 git worktree，由主 agent 分发任务并收集报告；通过可访问性树读取与操作图形界面，仅在需要时回退到截图；支持在界面内配置 provider、模型与运行模式。模块化拆分为工具、TUI、SDK、记忆召回等独立 crate。提供 Linux/macOS/Windows 安装脚本，Linux 与 Windows 经过测试。", "highlights": ["同一 TUI 分屏并行运行多个外部 agent，主 agent 协调任务分发与报告收集", "通过 accessibility tree 操作图形界面，仅在需要时回退截图以减少 token 消耗", "Rust/Ratatui 构建的 TUI，界面内配置 provider 与模型", "模块化 crate：cosh-tools、cosh-tui、cosh-sdk、cosh-recall、cosh-onnx"], "use_cases": ["在多任务并行时用 manager 模式协调多个编程 agent", "在统一界面里试验与组合不同 agent 的能力", "让 agent 通过结构化界面表示操作图形应用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多agent编排", "编程agent", "TUI", "computer-use"], "domain": "开发工具/agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文等多语言版本"]}, "trust": {"confidence": "high", "evidence": ["L8: Cosh is a general-purpose coding agent for the terminal, with software engineering tools and *computer tools* that let i", "L12: co-sh isn't meant to replace established coding agents — it's designed to work alongside them as an orchestration layer.", "L14: - **Multi-agent collaboration** — Run different state-of-the-art agents (Claude, Gemini, Codex, Cline, etc.) directly wi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-18", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "aidreamy/co-sh",
+ "sha": "64e1690d579e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端多 agent 编排器：在 Rust TUI 中协调多个编程 agent",
+  "review": "用 Rust 编写的终端通用编程 agent 与多 agent 编排层：在同一 TUI 的分屏面板中并行运行外部 agent（Claude、Gemini、Codex、Cline 等），每个 agent 保持独立会话、模型与可选 git worktree，由主 agent 分发任务并收集报告；通过可访问性树读取与操作图形界面，仅在需要时回退到截图；支持在界面内配置 provider、模型与运行模式。模块化拆分为工具、TUI、SDK、记忆召回等独立 crate。提供 Linux/macOS/Windows 安装脚本，Linux 与 Windows 经过测试。",
+  "highlights": [
+   "同一 TUI 分屏并行运行多个外部 agent，主 agent 协调任务分发与报告收集",
+   "通过 accessibility tree 操作图形界面，仅在需要时回退截图以减少 token 消耗",
+   "Rust/Ratatui 构建的 TUI，界面内配置 provider 与模型",
+   "模块化 crate：cosh-tools、cosh-tui、cosh-sdk、cosh-recall、cosh-onnx"
+  ],
+  "use_cases": [
+   "在多任务并行时用 manager 模式协调多个编程 agent",
+   "在统一界面里试验与组合不同 agent 的能力",
+   "让 agent 通过结构化界面表示操作图形应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "编程agent",
+   "TUI",
+   "computer-use"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文等多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Cosh is a general-purpose coding agent for the terminal, with software engineering tools and *computer tools* that let i",
+   "L12: co-sh isn't meant to replace established coding agents — it's designed to work alongside them as an orchestration layer.",
+   "L14: - **Multi-agent collaboration** — Run different state-of-the-art agents (Claude, Gemini, Codex, Cline, etc.) directly wi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-18",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
