@@ -1,6 +1,6 @@
 # OvOhao/auto-paper-collecter
 
-⭐ 65 · Python · MIT · 推送 2026-06-28 · [GitHub](https://github.com/OvOhao/auto-paper-collecter) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-06-28 · [GitHub](https://github.com/OvOhao/auto-paper-collecter) · 个人维护 · 中文 README
 
 **自托管的 LLM 文献聚合工具：按关键词每日自动追踪新论文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OvOhao/auto-paper-collecter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 62 --> 66
-    line [63, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 62 --> 67
+    line [63, 64, 65, 66]
 ```
 
-2026-10-18 63 → 2026-11-17 65（+2）
+2026-10-18 63 → 2026-11-18 66（+3）
 
 
 ---

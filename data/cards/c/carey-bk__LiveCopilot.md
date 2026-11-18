@@ -1,6 +1,6 @@
 # carey-bk/LiveCopilot
 
-⭐ 86 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/carey-bk/LiveCopilot) · [官网](https://carey-bk.github.io/LiveCopilot/) · 个人维护 · 中文 README
+⭐ 87 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/carey-bk/LiveCopilot) · [官网](https://carey-bk.github.io/LiveCopilot/) · 个人维护 · 中文 README
 
 **macOS 原生实时转录与知识检索问答助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "carey-bk/LiveCopilot 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 83 --> 87
-    line [84, 86, 86]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 83 --> 88
+    line [84, 86, 87]
 ```
 
-2026-11-08 84 → 2026-11-17 86（+2）
+2026-11-08 84 → 2026-11-18 87（+3）
 
 
 ---

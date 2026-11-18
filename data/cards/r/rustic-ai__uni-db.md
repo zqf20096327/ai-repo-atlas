@@ -1,6 +1,6 @@
 # rustic-ai/uni-db
 
-⭐ 59 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rustic-ai/uni-db) · [官网](https://rustic-ai.github.io/uni-db/) · 组织维护
+⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rustic-ai/uni-db) · [官网](https://rustic-ai.github.io/uni-db/) · 组织维护
 
 **嵌入式图+向量+列存一体化数据库，面向本地多模态数据访问**
 
@@ -45,12 +45,12 @@ Uni 是一个嵌入式数据库，将属性图（OpenCypher 查询）、向量�
 ```mermaid
 xychart-beta
     title "rustic-ai/uni-db 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 55 --> 60
-    line [56, 57, 58, 57, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 55 --> 62
+    line [56, 57, 58, 57, 58, 59, 61]
 ```
 
-2026-10-18 56 → 2026-11-17 59（+3）
+2026-10-18 56 → 2026-11-18 61（+5）
 
 
 ---

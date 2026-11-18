@@ -1,6 +1,6 @@
 # Caprista/KarvyLoop
 
-⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Caprista/KarvyLoop) · 组织维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Caprista/KarvyLoop) · 组织维护 · 中文 README
 
 **本地优先的多 agent 循环运行时：AI 提案、用户决策、技能沉淀**
 
@@ -46,12 +46,12 @@ KarvyLoop 是在本机运行 AI agent 团队的运行时：用户以域（公司
 ```mermaid
 xychart-beta
     title "Caprista/KarvyLoop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-11-17 18（+1）
+2026-10-18 17 → 2026-11-18 18（+1）
 
 
 ---

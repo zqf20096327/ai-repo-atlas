@@ -1,6 +1,6 @@
 # yakupbulbul/scenarix
 
-⭐ 19 · JavaScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/yakupbulbul/scenarix) · [官网](https://scenarix.online) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/yakupbulbul/scenarix) · [官网](https://scenarix.online) · 个人维护
 
 **端到端生成短剧系列的工作室：剧本/图像/配音/字幕/配乐导出竖屏视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yakupbulbul/scenarix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 15 --> 20
-    line [16, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 15 --> 21
+    line [16, 18, 19, 20]
 ```
 
-2026-10-18 16 → 2026-11-17 19（+3）
+2026-10-18 16 → 2026-11-18 20（+4）
 
 
 ---

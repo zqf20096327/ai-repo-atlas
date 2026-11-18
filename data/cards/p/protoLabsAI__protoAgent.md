@@ -1,6 +1,6 @@
 # protoLabsAI/protoAgent
 
-⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/protoLabsAI/protoAgent) · [官网](https://agent.protolabs.studio) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/protoLabsAI/protoAgent) · [官网](https://agent.protolabs.studio) · 组织维护
 
 **本地优先的桌面 agent，经 ACP 驱动 Claude Code/Codex 做编码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "protoLabsAI/protoAgent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
     y-axis "stars" 13 --> 19
     line [14, 16, 17, 14, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-17 18（+4）
+2026-10-18 14 → 2026-11-18 18（+4）
 
 
 ---

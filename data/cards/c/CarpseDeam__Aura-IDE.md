@@ -1,6 +1,6 @@
 # CarpseDeam/Aura-IDE
 
-⭐ 57 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/CarpseDeam/Aura-IDE) · [官网](https://carpsedeam.github.io/Aura-IDE/) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/CarpseDeam/Aura-IDE) · [官网](https://carpsedeam.github.io/Aura-IDE/) · 个人维护
 
 **面向开发者的 AI 编程桌面 IDE：多模型、Agent 团队与变更审批**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CarpseDeam/Aura-IDE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-18 57 → 2026-11-17 57（+0）
+2026-10-18 57 → 2026-11-18 58（+1）
 
 
 ---

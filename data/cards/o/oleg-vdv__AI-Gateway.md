@@ -1,6 +1,6 @@
 # oleg-vdv/AI-Gateway
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/oleg-vdv/AI-Gateway) · 个人维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/oleg-vdv/AI-Gateway) · 个人维护
 
 **私有部署的 LLM 合规网关：出网前可逆脱敏 PII 与密钥**
 
@@ -45,12 +45,12 @@ AI-Gate 是部署在用户与外部 LLM（ChatGPT/Claude/Gemini 及任意 OpenAI
 ```mermaid
 xychart-beta
     title "oleg-vdv/AI-Gateway 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-17 11（+1）
+2026-10-18 10 → 2026-11-18 11（+1）
 
 
 ---

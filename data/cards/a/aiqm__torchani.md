@@ -1,6 +1,6 @@
 # aiqm/torchani
 
-⭐ 568 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aiqm/torchani) · [官网](https://aiqm.github.io/torchani/) · 组织维护
+⭐ 569 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/aiqm/torchani) · [官网](https://aiqm.github.io/torchani/) · 组织维护
 
 **面向计算化学研究者的 ANI 神经网络势训练与开发库**
 
@@ -45,12 +45,12 @@ TorchANI 2.0 是基于 PyTorch 的开源库，支持 ANI 类神经网络原子�
 ```mermaid
 xychart-beta
     title "aiqm/torchani 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 564 --> 569
-    line [565, 566, 565, 567, 568, 568]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 564 --> 570
+    line [565, 566, 565, 567, 568, 569]
 ```
 
-2026-10-18 565 → 2026-11-17 568（+3）
+2026-10-18 565 → 2026-11-18 569（+4）
 
 
 ---

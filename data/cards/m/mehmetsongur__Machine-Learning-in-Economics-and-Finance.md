@@ -1,6 +1,6 @@
 # mehmetsongur/Machine-Learning-in-Economics-and-Finance
 
-⭐ 31 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance) · [官网](https://www.songurmehmet.com/dersler/ekonomi-ve-finansta-makine-ogrenmesi.html) · 组织维护
+⭐ 31 · Jupyter Notebook · 推送 2026-11-17 · [GitHub](https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance) · [官网](https://www.songurmehmet.com/dersler/ekonomi-ve-finansta-makine-ogrenmesi.html) · 组织维护
 
 **大学课程资料库：经济学与金融中的机器学习（14 周）**
 
@@ -45,12 +45,12 @@ Dicle 大学 'Machine Learning in Economics and Finance' 课程的每周资料�
 ```mermaid
 xychart-beta
     title "mehmetsongur/Machine-Learning-in-Economics-and-Finance 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-18"]
     y-axis "stars" 14 --> 32
     line [15, 28, 31, 31]
 ```
 
-2026-11-01 15 → 2026-11-17 31（+16）
+2026-11-01 15 → 2026-11-18 31（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # TseringYuu/anyviz
 
-⭐ 61 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/TseringYuu/anyviz) · [官网](https://anyviz.aiware.store) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TseringYuu/anyviz) · [官网](https://anyviz.aiware.store) · 个人维护 · 中文 README
 
 **给 AI 编程工具的数据可视化规范与工作流库（34 种模板）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TseringYuu/anyviz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-18"]
     y-axis "stars" 58 --> 62
     line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-17 61（+2）
+2026-10-18 59 → 2026-11-18 61（+2）
 
 
 ---

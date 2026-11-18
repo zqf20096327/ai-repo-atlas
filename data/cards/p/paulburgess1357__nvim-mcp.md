@@ -1,6 +1,6 @@
 # paulburgess1357/nvim-mcp
 
-⭐ 67 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/paulburgess1357/nvim-mcp) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/paulburgess1357/nvim-mcp) · 个人维护
 
 **连接 AI agent 与运行中 Neovim 会话的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paulburgess1357/nvim-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 64 --> 68
-    line [65, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 67, 68]
 ```
 
-2026-10-18 65 → 2026-11-17 67（+2）
+2026-10-18 65 → 2026-11-18 68（+3）
 
 
 ---

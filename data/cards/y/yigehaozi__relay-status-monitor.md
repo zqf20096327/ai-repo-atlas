@@ -1,6 +1,6 @@
 # yigehaozi/relay-status-monitor
 
-⭐ 23 · TypeScript · MIT · 推送 2026-07-12 · [GitHub](https://github.com/yigehaozi/relay-status-monitor) · [官网](https://ssss.ss) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-07-12 · [GitHub](https://github.com/yigehaozi/relay-status-monitor) · [官网](https://ssss.ss) · 个人维护 · 中文 README
 
 **自托管的 AI API 中转站状态监控面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yigehaozi/relay-status-monitor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 23, 23]
+    line [23, 24, 23, 24]
 ```
 
-2026-10-18 23 → 2026-11-17 23（+0）
+2026-10-18 23 → 2026-11-18 24（+1）
 
 
 ---

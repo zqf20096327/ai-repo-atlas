@@ -46,12 +46,12 @@ PyTorch 实现的频带切分式音乐源分离模型包：以 BandSplitRotator 
 ```mermaid
 xychart-beta
     title "hunterhogan/hunterFormsBS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 14（+1）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

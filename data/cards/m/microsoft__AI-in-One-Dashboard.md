@@ -1,6 +1,6 @@
 # microsoft/AI-in-One-Dashboard
 
-⭐ 109 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/AI-in-One-Dashboard) · [官网](https://aka.ms/Analytics-Hub) · 组织维护
+⭐ 110 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/AI-in-One-Dashboard) · [官网](https://aka.ms/Analytics-Hub) · 组织维护
 
 **面向企业 AI 决策者的 M365 Copilot/Agent 采用度 Power BI 看板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AI-in-One-Dashboard 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 90 --> 110
-    line [91, 92, 93, 94, 95, 96, 97, 101, 102, 95, 109, 109]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 90 --> 111
+    line [91, 92, 93, 94, 95, 96, 97, 101, 102, 95, 109, 110]
 ```
 
-2026-10-18 91 → 2026-11-17 109（+18）
+2026-10-18 91 → 2026-11-18 110（+19）
 
 
 ---

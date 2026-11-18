@@ -1,6 +1,6 @@
 # tachella/unsure
 
-⭐ 14 · Python · BSD-3-Clause · 推送 2025-11-21 · [GitHub](https://github.com/tachella/unsure) · [官网](https://tachella.github.io/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ICLR'25 论文 UNSURE 代码：无需噪声水平的自监督重建损失**
 
@@ -11,7 +11,7 @@ Tachella、Davies 与 Jacques 的 ICLR 2025 论文 UNSURE 的官方代码库。�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

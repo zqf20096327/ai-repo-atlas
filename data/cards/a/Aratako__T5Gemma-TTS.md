@@ -1,6 +1,6 @@
 # Aratako/T5Gemma-TTS
 
-⭐ 315 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Aratako/T5Gemma-TTS) · [官网](https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b) · 个人维护 · 中文 README
+⭐ 316 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Aratako/T5Gemma-TTS) · [官网](https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b) · 个人维护 · 中文 README
 
 **基于编码器-解码器 LLM 的多语言 TTS 模型，支持音色克隆与时长控制**
 
@@ -46,12 +46,12 @@ T5Gemma-TTS 是基于 Encoder-Decoder LLM 架构的英文/中文/日文文本转
 ```mermaid
 xychart-beta
     title "Aratako/T5Gemma-TTS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 312 --> 316
-    line [313, 314, 315, 315]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 312 --> 317
+    line [313, 314, 315, 316]
 ```
 
-2026-10-18 313 → 2026-11-17 315（+2）
+2026-10-18 313 → 2026-11-18 316（+3）
 
 
 ---

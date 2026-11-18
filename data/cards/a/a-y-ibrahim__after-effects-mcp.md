@@ -1,6 +1,6 @@
 # a-y-ibrahim/after-effects-mcp
 
-⭐ 30 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/a-y-ibrahim/after-effects-mcp) · 个人维护
+⭐ 31 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/a-y-ibrahim/after-effects-mcp) · 个人维护
 
 **让 AI 客户端用自然语言控制 After Effects 的 MCP 服务器（57 工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a-y-ibrahim/after-effects-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 21 --> 31
-    line [22, 24, 25, 26, 27, 22, 29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 21 --> 32
+    line [22, 24, 25, 26, 27, 22, 29, 30, 31]
 ```
 
-2026-10-18 22 → 2026-11-17 30（+8）
+2026-10-18 22 → 2026-11-18 31（+9）
 
 
 ---

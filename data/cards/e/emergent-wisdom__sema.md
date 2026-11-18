@@ -1,6 +1,6 @@
 # emergent-wisdom/sema
 
-⭐ 14 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/emergent-wisdom/sema) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/emergent-wisdom/sema) · 组织维护
 
 **面向 AI agent 的内容寻址语义词汇表与 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "emergent-wisdom/sema 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

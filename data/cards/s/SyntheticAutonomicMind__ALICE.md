@@ -46,12 +46,12 @@ Python 编写的本地生成服务，运行 Stable Diffusion（SD1.5/2.x/SDXL/FL
 ```mermaid
 xychart-beta
     title "SyntheticAutonomicMind/ALICE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-11-17 19（+1）
+2026-10-18 18 → 2026-11-18 19（+1）
 
 
 ---

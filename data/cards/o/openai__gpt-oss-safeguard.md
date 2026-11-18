@@ -1,6 +1,6 @@
 # openai/gpt-oss-safeguard
 
-⭐ 65 · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/openai/gpt-oss-safeguard) · 组织维护
+⭐ 66 · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/openai/gpt-oss-safeguard) · 组织维护
 
 **基于 gpt-oss 的安全分类与安全推理开源模型（120B/20B）**
 
@@ -45,12 +45,12 @@ OpenAI 发布的两个安全推理模型 gpt-oss-safeguard-120b 与 gpt-oss-safe
 ```mermaid
 xychart-beta
     title "openai/gpt-oss-safeguard 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 60 --> 66
-    line [61, 62, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-10", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 60 --> 67
+    line [61, 62, 64, 65, 66]
 ```
 
-2026-10-18 61 → 2026-11-17 65（+4）
+2026-10-18 61 → 2026-11-18 66（+5）
 
 
 ---

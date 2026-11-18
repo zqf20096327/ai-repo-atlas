@@ -1,6 +1,6 @@
 # ZSeven-W/dsh-game-studio
 
-⭐ 569 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ZSeven-W/dsh-game-studio) · [官网](https://finiking.github.io/dsh-games/wall/) · 个人维护 · 中文 README
+⭐ 575 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ZSeven-W/dsh-game-studio) · [官网](https://finiking.github.io/dsh-games/wall/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：一句话生成可玩小游戏并导出发布**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZSeven-W/dsh-game-studio 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 455 --> 579
-    line [465, 488, 529, 546, 553, 561, 569, 569]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 454 --> 586
+    line [465, 488, 529, 546, 553, 561, 569, 575]
 ```
 
-2026-11-10 465 → 2026-11-17 569（+104）
+2026-11-10 465 → 2026-11-18 575（+110）
 
 
 ---

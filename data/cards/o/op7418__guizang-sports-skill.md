@@ -1,6 +1,6 @@
 # op7418/guizang-sports-skill
 
-⭐ 155 · JavaScript · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/op7418/guizang-sports-skill) · [官网](https://github.com/op7418/guizang-sports-skill) · 个人维护 · 中文 README
+⭐ 156 · JavaScript · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/op7418/guizang-sports-skill) · [官网](https://github.com/op7418/guizang-sports-skill) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex 的运动轨迹分析技能：解析 FIT/KML 生成报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "op7418/guizang-sports-skill 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 148 --> 156
-    line [149, 150, 149, 150, 151, 152, 153, 154, 155, 155]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 148 --> 157
+    line [149, 150, 149, 150, 151, 152, 153, 154, 155, 156]
 ```
 
-2026-10-18 149 → 2026-11-17 155（+6）
+2026-10-18 149 → 2026-11-18 156（+7）
 
 
 ---

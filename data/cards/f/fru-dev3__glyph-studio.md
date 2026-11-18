@@ -1,6 +1,6 @@
 # fru-dev3/glyph-studio
 
-⭐ 38 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/fru-dev3/glyph-studio) · [官网](https://glyph.fru.dev/studio) · 个人维护
+⭐ 39 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/fru-dev3/glyph-studio) · [官网](https://glyph.fru.dev/studio) · 个人维护
 
 **本地优先的 macOS 个人 AI 助手，按人生领域管理记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fru-dev3/glyph-studio 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39]
 ```
 
-2026-10-26 37 → 2026-11-17 38（+1）
+2026-10-26 37 → 2026-11-18 39（+2）
 
 
 ---

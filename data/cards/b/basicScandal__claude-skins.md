@@ -1,6 +1,6 @@
 # basicScandal/claude-skins
 
-⭐ 20 · Shell · MIT · 推送 2026-05-11 · [GitHub](https://github.com/basicScandal/claude-skins) · [官网](https://basicscandal.github.io/claude-skins/) · 个人维护
+⭐ 19 · Shell · MIT · 推送 2026-05-11 · [GitHub](https://github.com/basicScandal/claude-skins) · [官网](https://basicscandal.github.io/claude-skins/) · 个人维护
 
 **给 Claude Code CLI 用户：终端视觉主题皮肤合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "basicScandal/claude-skins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19]
 ```
 
-2026-10-18 19 → 2026-11-17 20（+1）
+2026-10-18 19 → 2026-11-18 19（+0）
 
 
 ---

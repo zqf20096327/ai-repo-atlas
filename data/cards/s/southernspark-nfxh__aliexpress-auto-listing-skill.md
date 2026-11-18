@@ -1,6 +1,6 @@
 # southernspark-nfxh/aliexpress-auto-listing-skill
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-08-07 · [GitHub](https://github.com/southernspark-nfxh/aliexpress-auto-listing-skill) · 个人维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-08-07 · [GitHub](https://github.com/southernspark-nfxh/aliexpress-auto-listing-skill) · 个人维护 · 中文 README
 
 **速卖通自动上架 AI 技能包：1688采集→店小秘→一键上架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "southernspark-nfxh/aliexpress-auto-listing-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 28, 29, 30]
 ```
 
-2026-10-18 24 → 2026-11-17 29（+5）
+2026-10-18 24 → 2026-11-18 30（+6）
 
 
 ---

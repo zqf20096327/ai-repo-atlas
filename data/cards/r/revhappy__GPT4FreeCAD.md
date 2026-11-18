@@ -1,6 +1,6 @@
 # revhappy/GPT4FreeCAD
 
-⭐ 70 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/revhappy/GPT4FreeCAD) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/revhappy/GPT4FreeCAD) · 个人维护
 
 **FreeCAD 工作台：用自然语言生成可编辑的参数化 CAD 几何**
 
@@ -47,12 +47,12 @@ FreeCAD 插件，把英文描述经 LLM（Gemini/OpenAI/Claude/Grok/OpenRouter �
 ```mermaid
 xychart-beta
     title "revhappy/GPT4FreeCAD 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 66 --> 71
-    line [67, 68, 69, 70, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 66 --> 72
+    line [67, 68, 69, 70, 69, 70, 71]
 ```
 
-2026-10-18 67 → 2026-11-17 70（+3）
+2026-10-18 67 → 2026-11-18 71（+4）
 
 
 ---

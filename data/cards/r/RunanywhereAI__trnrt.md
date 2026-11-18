@@ -1,6 +1,6 @@
 # RunanywhereAI/trnrt
 
-⭐ 1,586 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/RunanywhereAI/trnrt) · [官网](https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels) · 组织维护
+⭐ 1,609 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/RunanywhereAI/trnrt) · [官网](https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels) · 组织维护
 
 **AWS Trainium 上的开源 LLM 推理引擎，OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@ TrnRT 是面向 AWS Trainium2（trn2.48xlarge）的开源大模型推理引擎�
 ```mermaid
 xychart-beta
     title "RunanywhereAI/trnrt 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 0 --> 1743
-    line [12, 1015, 1319, 1565, 1584, 1585, 1583, 1586, 1586]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 0 --> 1768
+    line [12, 1015, 1319, 1565, 1584, 1585, 1583, 1586, 1609]
 ```
 
-2026-11-08 12 → 2026-11-17 1,586（+1,574）
+2026-11-08 12 → 2026-11-18 1,609（+1,597）
 
 
 ---

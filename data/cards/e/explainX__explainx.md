@@ -1,6 +1,6 @@
 # explainX/explainx
 
-⭐ 456 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/explainX/explainx) · 组织维护
+⭐ 457 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/explainX/explainx) · 组织维护
 
 **黑盒 ML 模型的解释与调试 Python 库，可经 MCP 供 LLM agent 调用**
 
@@ -47,12 +47,12 @@ explainX 3.0 是可解释性（XAI）引擎：对已训练的任意框架模型�
 ```mermaid
 xychart-beta
     title "explainX/explainx 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 452 --> 457
-    line [453, 454, 453, 455, 456, 456]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 452 --> 458
+    line [453, 454, 453, 455, 456, 457]
 ```
 
-2026-10-18 453 → 2026-11-17 456（+3）
+2026-10-18 453 → 2026-11-18 457（+4）
 
 
 ---

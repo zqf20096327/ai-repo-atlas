@@ -1,6 +1,6 @@
 # healthonrails/annolid
 
-⭐ 59 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/healthonrails/annolid) · 组织维护
+⭐ 59 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/healthonrails/annolid) · 组织维护
 
 **科研动物视频的标注、分割、多目标追踪与行为分析桌面工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "healthonrails/annolid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-11-17 59（+0）
+2026-10-18 59 → 2026-11-18 59（+0）
 
 
 ---

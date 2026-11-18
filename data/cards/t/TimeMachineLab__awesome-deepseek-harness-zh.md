@@ -1,6 +1,6 @@
 # TimeMachineLab/awesome-deepseek-harness-zh
 
-⭐ 22 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/TimeMachineLab/awesome-deepseek-harness-zh) · [官网](https://orbiorbi.com) · 组织维护 · 中文 README
+⭐ 23 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/TimeMachineLab/awesome-deepseek-harness-zh) · [官网](https://orbiorbi.com) · 组织维护 · 中文 README
 
 **DeepSeek Harness（dsh）中文使用指南与资源清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TimeMachineLab/awesome-deepseek-harness-zh 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 2 --> 23
-    line [3, 5, 6, 8, 9, 14, 16, 18, 5, 20, 21, 22, 22]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 1 --> 25
+    line [3, 5, 6, 8, 9, 14, 16, 18, 5, 20, 21, 22, 23]
 ```
 
-2026-10-24 3 → 2026-11-17 22（+19）
+2026-10-24 3 → 2026-11-18 23（+20）
 
 
 ---

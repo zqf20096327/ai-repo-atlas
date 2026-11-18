@@ -1,6 +1,6 @@
 # neveevol7/career-ops-cn
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/neveevol7/career-ops-cn) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/neveevol7/career-ops-cn) · 个人维护
 
 **把 AI 编程 CLI 变成求职命令中心：评分、定制简历、扫描职位**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neveevol7/career-ops-cn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-17 23（+0）
+2026-10-18 23 → 2026-11-18 23（+0）
 
 
 ---

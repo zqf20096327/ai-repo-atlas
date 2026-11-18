@@ -1,6 +1,6 @@
 # auditmos/skills
 
-⭐ 16 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/auditmos/skills) · [官网](https://auditmos.com) · 组织维护
+⭐ 17 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/auditmos/skills) · [官网](https://auditmos.com) · 组织维护
 
 **面向 Claude 的 14 个智能合约安全审计技能集合**
 
@@ -45,12 +45,12 @@ Auditmos 维护的开源（MIT）技能仓库，为 Claude 提供 14 个智能�
 ```mermaid
 xychart-beta
     title "auditmos/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

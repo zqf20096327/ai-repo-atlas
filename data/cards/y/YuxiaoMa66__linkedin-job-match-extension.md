@@ -46,12 +46,12 @@ Chrome Manifest V3 扩展（Vite 构建，MIT 许可），面向在 LinkedIn 与
 ```mermaid
 xychart-beta
     title "YuxiaoMa66/linkedin-job-match-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

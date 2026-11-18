@@ -1,6 +1,6 @@
 # XiaoConstantine/dspy-go
 
-⭐ 204 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/XiaoConstantine/dspy-go) · [官网](https://xiaoconstantine.github.io/dspy-go/) · 个人维护
+⭐ 204 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/XiaoConstantine/dspy-go) · [官网](https://xiaoconstantine.github.io/dspy-go/) · 个人维护
 
 **DSPy 框架的 Go 原生实现：模块化构建 LLM 应用**
 
@@ -45,12 +45,12 @@ DSPy 框架的 Go 语言实现，提供系统化提示工程能力：以 Signatu
 ```mermaid
 xychart-beta
     title "XiaoConstantine/dspy-go 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
     y-axis "stars" 198 --> 205
     line [199, 200, 199, 203, 204, 204]
 ```
 
-2026-10-18 199 → 2026-11-17 204（+5）
+2026-10-18 199 → 2026-11-18 204（+5）
 
 
 ---

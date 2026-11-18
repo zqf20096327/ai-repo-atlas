@@ -1,6 +1,6 @@
 # sshnaidm/notebooklm
 
-⭐ 26 · Shell · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/sshnaidm/notebooklm) · 个人维护
+⭐ 27 · Shell · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/sshnaidm/notebooklm) · 个人维护
 
 **为 NotebookLM 准备文档的转换/OCR/分块脚本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sshnaidm/notebooklm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-11-17 26（+0）
+2026-10-18 26 → 2026-11-18 27（+1）
 
 
 ---

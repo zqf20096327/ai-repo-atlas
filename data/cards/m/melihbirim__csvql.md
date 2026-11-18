@@ -1,6 +1,6 @@
 # melihbirim/csvql
 
-⭐ 31 · Zig · MIT · 推送 2026-11-16 · [GitHub](https://github.com/melihbirim/csvql) · [官网](https://melihbirim.github.io/csvql/) · 个人维护
+⭐ 31 · Zig · MIT · 推送 2026-11-17 · [GitHub](https://github.com/melihbirim/csvql) · [官网](https://melihbirim.github.io/csvql/) · 个人维护
 
 **面向 AI agent 的本地 CSV 只读 SQL 查询引擎与 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "melihbirim/csvql 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-17 31（+1）
+2026-10-18 30 → 2026-11-18 31（+1）
 
 
 ---

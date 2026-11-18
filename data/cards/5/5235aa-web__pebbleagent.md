@@ -1,6 +1,6 @@
 # 5235aa-web/pebbleagent
 
-⭐ 112 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/5235aa-web/pebbleagent) · 个人维护 · 中文 README
+⭐ 119 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/5235aa-web/pebbleagent) · 个人维护 · 中文 README
 
 **带工具与 MCP 的轻量桌面 AI 编程代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "5235aa-web/pebbleagent 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 11 --> 121
-    line [20, 58, 112, 112]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 11 --> 128
+    line [20, 58, 112, 119]
 ```
 
-2026-11-14 20 → 2026-11-17 112（+92）
+2026-11-14 20 → 2026-11-18 119（+99）
 
 
 ---

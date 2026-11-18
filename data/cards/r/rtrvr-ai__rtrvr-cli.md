@@ -1,6 +1,6 @@
 # rtrvr-ai/rtrvr-cli
 
-⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtrvr-ai/rtrvr-cli) · [官网](https://www.rtrvr.ai/) · 组织维护
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtrvr-ai/rtrvr-cli) · [官网](https://www.rtrvr.ai/) · 组织维护
 
 **网页自动化与抓取的 CLI/SDK，供 AI agent 与人类调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rtrvr-ai/rtrvr-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 30, 32, 32]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 30, 32, 33]
 ```
 
-2026-10-18 30 → 2026-11-17 32（+2）
+2026-10-18 30 → 2026-11-18 33（+3）
 
 
 ---

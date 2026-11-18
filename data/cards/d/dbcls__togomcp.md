@@ -1,6 +1,6 @@
 # dbcls/togomcp
 
-⭐ 21 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dbcls/togomcp) · [官网](http://togomcp.rdfportal.org/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dbcls/togomcp) · [官网](http://togomcp.rdfportal.org/) · 组织维护
 
 **让 AI 助手用自然语言查询生命科学知识图谱的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dbcls/togomcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 18 --> 22
     line [19, 20, 19, 21, 21]
 ```
 
-2026-10-18 19 → 2026-11-17 21（+2）
+2026-10-18 19 → 2026-11-18 21（+2）
 
 
 ---

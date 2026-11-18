@@ -1,6 +1,6 @@
 # Azure-Samples/Legacy-Modernization-Agents
 
-⭐ 232 · C# · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Azure-Samples/Legacy-Modernization-Agents) · 组织维护
+⭐ 232 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Azure-Samples/Legacy-Modernization-Agents) · 组织维护
 
 **AI agent 框架：将 COBOL 大机代码自动迁移到 Java Quarkus 或 C#**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/Legacy-Modernization-Agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
     y-axis "stars" 225 --> 233
     line [226, 227, 229, 227, 230, 231, 232, 232]
 ```
 
-2026-10-18 226 → 2026-11-17 232（+6）
+2026-10-18 226 → 2026-11-18 232（+6）
 
 
 ---

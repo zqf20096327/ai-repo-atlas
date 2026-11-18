@@ -1,6 +1,6 @@
 # the-thinker0/math-skill
 
-⭐ 13 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/the-thinker0/math-skill) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/the-thinker0/math-skill) · 个人维护 · 中文 README
 
 **面向 AI 编程助手的数学研究技能包：透镜/锚点/设计模式知识库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "the-thinker0/math-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-17 13（+1）
+2026-10-18 12 → 2026-11-18 14（+2）
 
 
 ---

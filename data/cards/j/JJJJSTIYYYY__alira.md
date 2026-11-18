@@ -1,6 +1,6 @@
 # JJJJSTIYYYY/alira
 
-⭐ 310 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/JJJJSTIYYYY/alira) · 个人维护 · 中文 README
+⭐ 311 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/JJJJSTIYYYY/alira) · 个人维护 · 中文 README
 
 **构建 AI Agent 应用的模块化运行时框架**
 
@@ -45,12 +45,12 @@ Alira 是面向 AI Agent 应用开发的 Python 运行时：提供模型调用�
 ```mermaid
 xychart-beta
     title "JJJJSTIYYYY/alira 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 308 --> 311
-    line [309, 310, 310]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 308 --> 312
+    line [309, 310, 311]
 ```
 
-2026-10-31 309 → 2026-11-17 310（+1）
+2026-10-31 309 → 2026-11-18 311（+2）
 
 
 ---

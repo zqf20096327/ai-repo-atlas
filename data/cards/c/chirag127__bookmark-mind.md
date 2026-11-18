@@ -1,6 +1,6 @@
 # chirag127/bookmark-mind
 
-⭐ 12 · JavaScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/chirag127/bookmark-mind) · [官网](https://bookmark-mind.oriz.in) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/chirag127/bookmark-mind) · [官网](https://bookmark-mind.oriz.in) · 个人维护
 
 **用自带 LLM key 自动整理浏览器书签的 MV3 扩展**
 
@@ -45,12 +45,12 @@ Manifest V3 Chrome 扩展，读取 chrome.bookmarks 树，经批处理管线调�
 ```mermaid
 xychart-beta
     title "chirag127/bookmark-mind 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 10, 12, 12]
+    line [10, 11, 12, 10, 12, 11]
 ```
 
-2026-10-18 10 → 2026-11-17 12（+2）
+2026-10-18 10 → 2026-11-18 11（+1）
 
 
 ---

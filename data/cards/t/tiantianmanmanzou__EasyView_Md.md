@@ -1,6 +1,6 @@
 # tiantianmanmanzou/EasyView_Md
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tiantianmanmanzou/EasyView_Md) · [官网](https://easyview.wonderxy.art) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tiantianmanmanzou/EasyView_Md) · [官网](https://easyview.wonderxy.art) · 个人维护 · 中文 README
 
 **面向 VS Code/Cursor 与桌面的可视化 Markdown 编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tiantianmanmanzou/EasyView_Md 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 9 --> 16
-    line [10, 14, 15, 15]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 9 --> 17
+    line [10, 14, 15, 16]
 ```
 
-2026-10-26 10 → 2026-11-17 15（+5）
+2026-10-26 10 → 2026-11-18 16（+6）
 
 
 ---

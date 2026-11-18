@@ -46,12 +46,12 @@ dbMAP 是一个机器学习框架，通过快速近似 Laplace-Beltrami 算子�
 ```mermaid
 xychart-beta
     title "davisidarta/dbMAP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-11-17 48（+0）
+2026-10-18 48 → 2026-11-18 48（+0）
 
 
 ---

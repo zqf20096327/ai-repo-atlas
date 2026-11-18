@@ -1,6 +1,6 @@
 # siweina/dsh-novel-writer
 
-⭐ 31 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/siweina/dsh-novel-writer) · [官网](https://siweina.github.io/dsh-novel-writer/) · 个人维护 · 中文 README
+⭐ 32 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/siweina/dsh-novel-writer) · [官网](https://siweina.github.io/dsh-novel-writer/) · 个人维护 · 中文 README
 
 **中文网文作者的本地写作工作台：21 个工具，零 API 花费**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "siweina/dsh-novel-writer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 22 --> 32
-    line [23, 24, 27, 28, 29, 31, 31]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 22 --> 33
+    line [23, 24, 27, 28, 29, 31, 32]
 ```
 
-2026-10-18 23 → 2026-11-17 31（+8）
+2026-10-18 23 → 2026-11-18 32（+9）
 
 
 ---

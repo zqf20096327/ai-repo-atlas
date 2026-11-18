@@ -1,6 +1,6 @@
 # licht1stein/brepl
 
-⭐ 70 · Clojure · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/licht1stein/brepl) · 个人维护
+⭐ 70 · Clojure · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/licht1stein/brepl) · 个人维护
 
 **面向 AI 编码代理的括号修复型 Clojure nREPL 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "licht1stein/brepl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-16", "2026-11-18"]
     y-axis "stars" 68 --> 72
     line [71, 70, 69, 70, 70]
 ```
 
-2026-10-18 71 → 2026-11-17 70（-1）
+2026-10-18 71 → 2026-11-18 70（-1）
 
 
 ---

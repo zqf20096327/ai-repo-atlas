@@ -1,6 +1,6 @@
 # meitarbe/cognetivy
 
-⭐ 787 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/meitarbe/cognetivy) · [官网](https://cognetivy.com) · 个人维护
+⭐ 788 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/meitarbe/cognetivy) · [官网](https://cognetivy.com) · 个人维护
 
 **给 AI 编程 agent 的本地状态层：把会话变成可追踪工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meitarbe/cognetivy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 783 --> 788
-    line [785, 784, 785, 786, 784, 787, 787]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 783 --> 789
+    line [785, 784, 785, 786, 784, 787, 788]
 ```
 
-2026-10-18 785 → 2026-11-17 787（+2）
+2026-10-18 785 → 2026-11-18 788（+3）
 
 
 ---

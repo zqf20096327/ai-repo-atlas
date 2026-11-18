@@ -1,6 +1,6 @@
 # intel/university-curriculum-enabling-tool
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/intel/university-curriculum-enabling-tool) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/intel/university-curriculum-enabling-tool) · 组织维护
 
 **面向高校师生的课程建设与个性化学习 LLM+RAG 应用**
 
@@ -44,12 +44,12 @@ Intel 开发的本地单用户应用，结合微调语言模型与检索增强�
 ```mermaid
 xychart-beta
     title "intel/university-curriculum-enabling-tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

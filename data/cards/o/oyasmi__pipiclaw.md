@@ -1,6 +1,6 @@
 # oyasmi/pipiclaw
 
-⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/oyasmi/pipiclaw) · [官网](https://www.npmjs.com/package/@oyasmi/pipiclaw) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/oyasmi/pipiclaw) · [官网](https://www.npmjs.com/package/@oyasmi/pipiclaw) · 个人维护 · 中文 README
 
 **钉钉里的 AI coding 助手运行时：多智能体协作与长期任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oyasmi/pipiclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 19（+1）
 
 
 ---

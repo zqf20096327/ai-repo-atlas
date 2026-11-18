@@ -1,6 +1,6 @@
 # HamaWhiteGG/autogen4j
 
-⭐ 52 · Java · 推送 2025-11-21 · [GitHub](https://github.com/HamaWhiteGG/autogen4j) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **微软 AutoGen 多智能体框架的 Java 实现，供 Java 开发者构建 LLM 应用**
 

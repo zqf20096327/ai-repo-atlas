@@ -1,6 +1,6 @@
 # purahan/ros2_lingua
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/purahan/ros2_lingua) · [官网](https://purahan.github.io/ros2_lingua/) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/purahan/ros2_lingua) · [官网](https://purahan.github.io/ros2_lingua/) · 个人维护
 
 **把自然语言指令接地为 ROS 2 机器人执行计划的 LLM 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "purahan/ros2_lingua 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

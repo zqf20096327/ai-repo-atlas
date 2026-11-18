@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gustavomoers/E2E-CARLA-ReinforcementLearning-PPO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-11-17 46（+1）
+2026-10-18 45 → 2026-11-18 46（+1）
 
 
 ---

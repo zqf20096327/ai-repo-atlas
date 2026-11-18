@@ -1,6 +1,6 @@
 # midudev/isbetter.ai
 
-⭐ 61 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/midudev/isbetter.ai) · [官网](https://isbetter.ai) · 个人维护
+⭐ 62 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/midudev/isbetter.ai) · [官网](https://isbetter.ai) · 个人维护
 
 **浏览器内并排对比 AI 模型输出的对战工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "midudev/isbetter.ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 62]
 ```
 
-2026-10-18 60 → 2026-11-17 61（+1）
+2026-10-18 60 → 2026-11-18 62（+2）
 
 
 ---

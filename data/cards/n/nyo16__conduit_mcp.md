@@ -45,12 +45,12 @@ Model Context Protocol 的 Elixir 实现，同一服务端同时支持现代 202
 ```mermaid
 xychart-beta
     title "nyo16/conduit_mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

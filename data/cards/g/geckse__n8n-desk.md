@@ -1,6 +1,6 @@
 # geckse/n8n-desk
 
-⭐ 82 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/geckse/n8n-desk) · [官网](https://n8n-desk.app) · 个人维护
+⭐ 83 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/geckse/n8n-desk) · [官网](https://n8n-desk.app) · 个人维护
 
 **n8n 的桌面/移动伴侣应用：对话式触发与编排 n8n 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "geckse/n8n-desk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 80 --> 83
-    line [82, 81, 82, 82]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 80 --> 84
+    line [82, 81, 82, 83]
 ```
 
-2026-10-18 82 → 2026-11-17 82（+0）
+2026-10-18 82 → 2026-11-18 83（+1）
 
 
 ---

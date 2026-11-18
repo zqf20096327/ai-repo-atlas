@@ -1,6 +1,6 @@
 # sandpies/ComfyUI-Hand-Tie-Clips
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sandpies/ComfyUI-Hand-Tie-Clips) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sandpies/ComfyUI-Hand-Tie-Clips) · 个人维护
 
 **ComfyUI 节点包：将 MiniMax H3 生成串成保持角色一致的多镜头连续视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sandpies/ComfyUI-Hand-Tie-Clips 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-17"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-18"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-26 11 → 2026-11-17 12（+1）
+2026-10-26 11 → 2026-11-18 12（+1）
 
 
 ---

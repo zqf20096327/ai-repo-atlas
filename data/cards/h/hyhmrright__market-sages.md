@@ -1,6 +1,6 @@
 # hyhmrright/market-sages
 
-⭐ 12 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/hyhmrright/market-sages) · [官网](https://github.com/hyhmrright/market-sages/blob/main/README.md) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/hyhmrright/market-sages) · [官网](https://github.com/hyhmrright/market-sages/blob/main/README.md) · 个人维护 · 中文 README
 
 **13 位传奇投资人格式的股票分析提示词技能，供 CLI 工具调用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hyhmrright/market-sages 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

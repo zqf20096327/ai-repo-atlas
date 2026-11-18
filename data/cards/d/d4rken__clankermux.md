@@ -1,6 +1,6 @@
 # d4rken/clankermux
 
-⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/d4rken/clankermux) · 个人维护
+⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/d4rken/clankermux) · 个人维护
 
 **自托管编码代理网关：把多个模型账号聚合到一个 API 后**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "d4rken/clankermux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-17 11（+1）
+2026-10-18 10 → 2026-11-18 11（+1）
 
 
 ---

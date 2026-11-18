@@ -1,6 +1,6 @@
 # datawhalechina/llm-algo-leetcode
 
-⭐ 797 · Jupyter Notebook · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/datawhalechina/llm-algo-leetcode) · [官网](https://datawhalechina.github.io/llm-algo-leetcode/) · 组织维护 · 中文 README
+⭐ 803 · Jupyter Notebook · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/datawhalechina/llm-algo-leetcode) · [官网](https://datawhalechina.github.io/llm-algo-leetcode/) · 组织维护 · 中文 README
 
 **面向学习者的 LLM 算法与系统 Notebook 教程（PyTorch→Triton→CUDA）**
 
@@ -46,12 +46,12 @@ Datawhale 维护的以 Notebook 为载体的大模型算法与系统教程：从
 ```mermaid
 xychart-beta
     title "datawhalechina/llm-algo-leetcode 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 783 --> 798
-    line [784, 797, 797]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 783 --> 804
+    line [784, 797, 803]
 ```
 
-2026-11-15 784 → 2026-11-17 797（+13）
+2026-11-15 784 → 2026-11-18 803（+19）
 
 
 ---

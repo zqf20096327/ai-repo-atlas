@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-community-detection
 
-⭐ 2,453 · Python · CC0-1.0 · 推送 2025-12-20 · [GitHub](https://github.com/benedekrozemberczki/awesome-community-detection) · 个人维护
+⭐ 2,454 · Python · CC0-1.0 · 推送 2025-12-20 · [GitHub](https://github.com/benedekrozemberczki/awesome-community-detection) · 个人维护
 
 **社区发现研究论文及实现的策展清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/awesome-community-detection 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-18"]
     y-axis "stars" 2452 --> 2456
-    line [2454, 2455, 2454, 2453, 2453]
+    line [2454, 2455, 2454, 2453, 2454]
 ```
 
-2026-10-18 2,454 → 2026-11-17 2,453（-1）
+2026-10-18 2,454 → 2026-11-18 2,454（+0）
 
 
 ---

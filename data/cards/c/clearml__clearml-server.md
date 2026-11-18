@@ -1,6 +1,6 @@
 # clearml/clearml-server
 
-⭐ 472 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/clearml/clearml-server) · [官网](https://clear.ml/docs) · 组织维护
+⭐ 472 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/clearml/clearml-server) · [官网](https://clear.ml/docs) · 组织维护
 
 **ClearML 自托管后端服务器：实验管理与协作的基础设施**
 
@@ -45,12 +45,12 @@ ClearML 实验管理套件的自托管后端服务，包含 Web 应用（实验�
 ```mermaid
 xychart-beta
     title "clearml/clearml-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
     y-axis "stars" 469 --> 474
     line [470, 471, 470, 471, 472, 473, 472, 472]
 ```
 
-2026-10-18 470 → 2026-11-17 472（+2）
+2026-10-18 470 → 2026-11-18 472（+2）
 
 
 ---

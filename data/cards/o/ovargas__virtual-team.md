@@ -1,6 +1,6 @@
 # ovargas/virtual-team
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/ovargas/virtual-team) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ovargas/virtual-team) · 个人维护
 
 **把 Claude Code/Codex 变成虚拟开发团队的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ovargas/virtual-team 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 14（+1）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

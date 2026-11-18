@@ -1,6 +1,6 @@
 # mahmoudparsian/data-algorithms-with-spark
 
-⭐ 230 · Python · 推送 2026-09-12 · [GitHub](https://github.com/mahmoudparsian/data-algorithms-with-spark) · 个人维护
+⭐ 229 · Python · 推送 2026-09-12 · [GitHub](https://github.com/mahmoudparsian/data-algorithms-with-spark) · 个人维护
 
 **《Data Algorithms with Spark》书籍配套代码库**
 
@@ -46,12 +46,12 @@ O'Reilly 出版图书 Data Algorithms with Spark（Mahmoud Parsian 著，2022 �
 ```mermaid
 xychart-beta
     title "mahmoudparsian/data-algorithms-with-spark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 228 --> 231
-    line [229, 230, 230]
+    line [229, 230, 229]
 ```
 
-2026-10-18 229 → 2026-11-17 230（+1）
+2026-10-18 229 → 2026-11-18 229（+0）
 
 
 ---

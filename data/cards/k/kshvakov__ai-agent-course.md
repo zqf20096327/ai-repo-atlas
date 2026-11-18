@@ -1,6 +1,6 @@
 # kshvakov/ai-agent-course
 
-⭐ 17 · Go · 推送 2026-10-16 · [GitHub](https://github.com/kshvakov/ai-agent-course) · [官网](https://kshvakov.github.io/ai-agent-course/) · 个人维护
+⭐ 18 · Go · 推送 2026-10-16 · [GitHub](https://github.com/kshvakov/ai-agent-course) · [官网](https://kshvakov.github.io/ai-agent-course/) · 个人维护
 
 **Go 语言自主 AI agent 实战课程：手册加 13 个实验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kshvakov/ai-agent-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 18（+1）
 
 
 ---

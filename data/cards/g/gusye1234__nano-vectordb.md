@@ -1,6 +1,6 @@
 # gusye1234/nano-vectordb
 
-⭐ 210 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/gusye1234/nano-vectordb) · 个人维护
+⭐ 211 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/gusye1234/nano-vectordb) · 个人维护
 
 **单依赖 numpy 的轻量向量数据库，供原型与 RAG 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gusye1234/nano-vectordb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 208 --> 211
-    line [209, 210, 210]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 208 --> 212
+    line [209, 210, 211]
 ```
 
-2026-10-18 209 → 2026-11-17 210（+1）
+2026-10-18 209 → 2026-11-18 211（+2）
 
 
 ---

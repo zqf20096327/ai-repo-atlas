@@ -1,6 +1,6 @@
 # secfoo-com/secfoo
 
-⭐ 312 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/secfoo-com/secfoo) · [官网](https://secfoo.com) · 组织维护
+⭐ 320 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/secfoo-com/secfoo) · [官网](https://secfoo.com) · 组织维护
 
 **把编程 Agent 变成安全审查 CLI：SAST、密钥扫描与威胁建模**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "secfoo-com/secfoo 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 264 --> 316
-    line [268, 304, 312, 312]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 263 --> 325
+    line [268, 304, 312, 320]
 ```
 
-2026-11-14 268 → 2026-11-17 312（+44）
+2026-11-14 268 → 2026-11-18 320（+52）
 
 
 ---

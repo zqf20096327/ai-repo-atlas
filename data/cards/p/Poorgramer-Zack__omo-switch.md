@@ -1,6 +1,6 @@
 # Poorgramer-Zack/omo-switch
 
-⭐ 29 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/Poorgramer-Zack/omo-switch) · [官网](https://www.npmjs.com/package/omo-switch-cli) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/Poorgramer-Zack/omo-switch) · [官网](https://www.npmjs.com/package/omo-switch-cli) · 个人维护
 
 **oh-my-opencode 配置档案切换 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Poorgramer-Zack/omo-switch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-18 28 → 2026-11-17 29（+1）
+2026-10-18 28 → 2026-11-18 30（+2）
 
 
 ---

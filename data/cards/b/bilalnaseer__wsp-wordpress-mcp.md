@@ -1,6 +1,6 @@
 # bilalnaseer/wsp-wordpress-mcp
 
-⭐ 71 · PHP · GPL-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bilalnaseer/wsp-wordpress-mcp) · [官网](https://wspmcp.com) · 组织维护
+⭐ 73 · PHP · GPL-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bilalnaseer/wsp-wordpress-mcp) · [官网](https://wspmcp.com) · 组织维护
 
 **让 AI 编码助手通过 MCP 直接读写 WordPress 站点的插件**
 
@@ -45,12 +45,12 @@ WordPress 的 MCP 服务端插件：安装启用后，Claude、ChatGPT、Cursor 
 ```mermaid
 xychart-beta
     title "bilalnaseer/wsp-wordpress-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 63 --> 72
-    line [64, 66, 67, 68, 69, 70, 69, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 63 --> 74
+    line [64, 66, 67, 68, 69, 70, 69, 71, 73]
 ```
 
-2026-10-18 64 → 2026-11-17 71（+7）
+2026-10-18 64 → 2026-11-18 73（+9）
 
 
 ---

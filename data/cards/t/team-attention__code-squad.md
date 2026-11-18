@@ -1,6 +1,6 @@
 # team-attention/code-squad
 
-⭐ 61 · TypeScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/team-attention/code-squad) · [官网](https://marketplace.visualstudio.com/items?itemName=JakePark.code-squad) · 组织维护
+⭐ 62 · TypeScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/team-attention/code-squad) · [官网](https://marketplace.visualstudio.com/items?itemName=JakePark.code-squad) · 组织维护
 
 **基于 tmux 与 VSCode 的多 worktree 开发管理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "team-attention/code-squad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
 ```
 
-2026-10-18 61 → 2026-11-17 61（+0）
+2026-10-18 61 → 2026-11-18 62（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DevRico003/youtube_summarizer
 
-⭐ 217 · TypeScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/DevRico003/youtube_summarizer) · [官网](https://www.atmos-code.io) · 个人维护
+⭐ 216 · TypeScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/DevRico003/youtube_summarizer) · [官网](https://www.atmos-code.io) · 个人维护
 
 **自托管的 YouTube 视频 AI 摘要 Web 应用（章节检测+多语言）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DevRico003/youtube_summarizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 216 --> 219
-    line [218, 217, 218, 217, 217]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 215 --> 219
+    line [218, 217, 218, 217, 216]
 ```
 
-2026-10-18 218 → 2026-11-17 217（-1）
+2026-10-18 218 → 2026-11-18 216（-2）
 
 
 ---

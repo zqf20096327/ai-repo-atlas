@@ -1,6 +1,6 @@
 # Jordan-Jarvis/jenkins-mcp-enterprise
 
-⭐ 30 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/Jordan-Jarvis/jenkins-mcp-enterprise) · 个人维护
+⭐ 31 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/Jordan-Jarvis/jenkins-mcp-enterprise) · 个人维护
 
 **面向 Jenkins 的 MCP 服务器：构建管理、日志诊断与多实例路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jordan-Jarvis/jenkins-mcp-enterprise 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-11-17 30（+0）
+2026-10-18 30 → 2026-11-18 31（+1）
 
 
 ---

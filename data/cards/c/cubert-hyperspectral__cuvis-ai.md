@@ -1,6 +1,6 @@
 # cubert-hyperspectral/cuvis-ai
 
-⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cubert-hyperspectral/cuvis-ai) · [官网](https://docs.cuvis.ai/) · 组织维护
+⭐ 20 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cubert-hyperspectral/cuvis-ai) · [官网](https://docs.cuvis.ai/) · 组织维护
 
 **构建高光谱视频 AI 处理管线的模块化节点框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cubert-hyperspectral/cuvis-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 17, 19, 19]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 17, 19, 20]
 ```
 
-2026-10-18 15 → 2026-11-17 19（+4）
+2026-10-18 15 → 2026-11-18 20（+5）
 
 
 ---

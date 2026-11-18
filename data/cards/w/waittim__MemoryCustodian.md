@@ -1,6 +1,6 @@
 # waittim/MemoryCustodian
 
-⭐ 25 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/waittim/MemoryCustodian) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/waittim/MemoryCustodian) · 个人维护
 
 **给编码 agent 的项目记忆工具：仓库内 Markdown 持久记忆**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "waittim/MemoryCustodian 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-18"]
     y-axis "stars" 21 --> 26
     line [22, 23, 25, 25]
 ```
 
-2026-10-18 22 → 2026-11-17 25（+3）
+2026-10-18 22 → 2026-11-18 25（+3）
 
 
 ---

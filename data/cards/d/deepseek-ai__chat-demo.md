@@ -1,6 +1,6 @@
 # deepseek-ai/chat-demo
 
-⭐ 4,052 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/deepseek-ai/chat-demo) · [官网](https://deepseek-ai.github.io/chat-demo/) · 组织维护 · 中文 README
+⭐ 4,511 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/deepseek-ai/chat-demo) · [官网](https://deepseek-ai.github.io/chat-demo/) · 组织维护 · 中文 README
 
 **基于 DeepSeek API 的静态网页聊天演示应用**
 
@@ -45,12 +45,12 @@ DeepSeek 官方推出的纯前端聊天 Demo：浏览器直连配置的 API 服�
 ```mermaid
 xychart-beta
     title "deepseek-ai/chat-demo 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 251 --> 4397
-    line [596, 1692, 2806, 4052, 4052]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 205 --> 4902
+    line [596, 1692, 2806, 4052, 4511]
 ```
 
-2026-11-13 596 → 2026-11-17 4,052（+3,456）
+2026-11-13 596 → 2026-11-18 4,511（+3,915）
 
 
 ---

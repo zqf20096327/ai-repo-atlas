@@ -1,6 +1,6 @@
 # OneYoungMean/KimodoUnityBridge
 
-⭐ 115 · C# · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/OneYoungMean/KimodoUnityBridge) · 个人维护 · 中文 README
+⭐ 115 · C# · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/OneYoungMean/KimodoUnityBridge) · 个人维护 · 中文 README
 
 **给 Unity 开发者：本地 AI 生成人形动画并烘焙到工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OneYoungMean/KimodoUnityBridge 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 109 --> 116
     line [110, 111, 112, 113, 110, 114, 115, 115]
 ```
 
-2026-10-18 110 → 2026-11-17 115（+5）
+2026-10-18 110 → 2026-11-18 115（+5）
 
 
 ---

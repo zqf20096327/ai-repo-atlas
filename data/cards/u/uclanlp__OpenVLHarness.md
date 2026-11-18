@@ -1,6 +1,6 @@
 # uclanlp/OpenVLHarness
 
-⭐ 524 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/uclanlp/OpenVLHarness) · [官网](https://openvlharness.github.io/) · 组织维护
+⭐ 536 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/uclanlp/OpenVLHarness) · [官网](https://openvlharness.github.io/) · 组织维护
 
 **给 MLLM 加视觉工具与多模态记忆的免训练 agent 框架**
 
@@ -46,12 +46,12 @@ UCLA NLP 发布的视觉 agent 工具层：让任意多模态大模型通过原�
 ```mermaid
 xychart-beta
     title "uclanlp/OpenVLHarness 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 416 --> 533
-    line [425, 448, 455, 473, 483, 498, 512, 524, 524]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 414 --> 547
+    line [425, 448, 455, 473, 483, 498, 512, 524, 536]
 ```
 
-2026-11-08 425 → 2026-11-17 524（+99）
+2026-11-08 425 → 2026-11-18 536（+111）
 
 
 ---

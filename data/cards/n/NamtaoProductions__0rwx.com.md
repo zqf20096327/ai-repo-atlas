@@ -1,6 +1,6 @@
 # NamtaoProductions/0rwx.com
 
-⭐ 114 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/NamtaoProductions/0rwx.com) · [官网](https://namtaoproductions.github.io/0rwx.com/) · 个人维护
+⭐ 118 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/NamtaoProductions/0rwx.com) · [官网](https://namtaoproductions.github.io/0rwx.com/) · 个人维护
 
 **声明 PR/代码中 LLM 使用程度的 AI 徽章规范网站**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "NamtaoProductions/0rwx.com 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 26 --> 122
-    line [34, 89, 98, 104, 108, 110, 111, 114, 114]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 26 --> 126
+    line [34, 89, 98, 104, 108, 110, 111, 114, 118]
 ```
 
-2026-11-08 34 → 2026-11-17 114（+80）
+2026-11-08 34 → 2026-11-18 118（+84）
 
 
 ---

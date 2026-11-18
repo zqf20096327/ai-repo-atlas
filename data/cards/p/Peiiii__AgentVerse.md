@@ -1,6 +1,6 @@
 # Peiiii/AgentVerse
 
-⭐ 318 · TypeScript · MIT · 推送 2026-01-27 · [GitHub](https://github.com/Peiiii/AgentVerse) · [官网](https://agent.dimstack.com) · 个人维护 · 中文 README
+⭐ 317 · TypeScript · MIT · 推送 2026-01-27 · [GitHub](https://github.com/Peiiii/AgentVerse) · [官网](https://agent.dimstack.com) · 个人维护 · 中文 README
 
 **多 AI 专家协作对话的开源平台：多角色自主讨论解决问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Peiiii/AgentVerse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 317 --> 319
-    line [318, 318]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 316 --> 319
+    line [318, 317]
 ```
 
-2026-10-18 318 → 2026-11-17 318（+0）
+2026-10-18 318 → 2026-11-18 317（-1）
 
 
 ---

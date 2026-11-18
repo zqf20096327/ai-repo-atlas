@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "soulblademask/local-ai-model-cache-storage-cleaner 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-17"]
+    x-axis ["2026-10-19", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-11-17 20（+0）
+2026-10-19 20 → 2026-11-18 20（+0）
 
 
 ---

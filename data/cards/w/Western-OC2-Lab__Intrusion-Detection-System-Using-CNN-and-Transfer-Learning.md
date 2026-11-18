@@ -45,12 +45,12 @@ Western 大学 OC2 实验室发布的 IEEE ICC 2022 论文配套代码：用 CNN
 ```mermaid
 xychart-beta
     title "Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
     y-axis "stars" 204 --> 207
     line [205, 206, 206]
 ```
 
-2026-10-18 205 → 2026-11-17 206（+1）
+2026-10-18 205 → 2026-11-18 206（+1）
 
 
 ---

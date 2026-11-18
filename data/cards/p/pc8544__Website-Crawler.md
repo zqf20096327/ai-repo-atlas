@@ -45,12 +45,12 @@ websitecrawler.org 提供的网站爬取 REST API 及多语言 SDK：通过六�
 ```mermaid
 xychart-beta
     title "pc8544/Website-Crawler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-11-17 76（+0）
+2026-10-18 76 → 2026-11-18 76（+0）
 
 
 ---

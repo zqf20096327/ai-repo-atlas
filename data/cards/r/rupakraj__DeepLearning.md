@@ -1,6 +1,6 @@
 # rupakraj/DeepLearning
 
-⭐ 18 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/rupakraj/DeepLearning) · 个人维护
+⭐ 19 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/rupakraj/DeepLearning) · 个人维护
 
 **课堂教学用深度学习 Jupyter notebook 集合（12 个主题）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rupakraj/DeepLearning 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 10 --> 19
-    line [11, 12, 18, 18]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 10 --> 20
+    line [11, 12, 18, 19]
 ```
 
-2026-10-30 11 → 2026-11-17 18（+7）
+2026-10-30 11 → 2026-11-18 19（+8）
 
 
 ---

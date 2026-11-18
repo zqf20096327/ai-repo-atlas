@@ -1,6 +1,6 @@
 # Talus-Network/nexus-sdk
 
-⭐ 179 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Talus-Network/nexus-sdk) · [官网](https://docs.talus.network) · 组织维护
+⭐ 177 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Talus-Network/nexus-sdk) · [官网](https://docs.talus.network) · 组织维护
 
 **构建 Talus 链上 agent 的 SDK/CLI 工具集**
 
@@ -45,12 +45,12 @@ Talus Network 维护的 Nexus SDK 开源工具集，简化开发者基于 Nexus�
 ```mermaid
 xychart-beta
     title "Talus-Network/nexus-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 176 --> 180
+    line [179, 177]
 ```
 
-2026-10-18 179 → 2026-11-17 179（+0）
+2026-10-18 179 → 2026-11-18 177（-2）
 
 
 ---

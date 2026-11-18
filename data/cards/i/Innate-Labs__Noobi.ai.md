@@ -1,6 +1,6 @@
 # Innate-Labs/Noobi.ai
 
-⭐ 257 · TypeScript · 推送 2026-09-26 · [GitHub](https://github.com/Innate-Labs/Noobi.ai) · 组织维护 · 中文 README
+⭐ 256 · TypeScript · 推送 2026-09-26 · [GitHub](https://github.com/Innate-Labs/Noobi.ai) · 组织维护 · 中文 README
 
 **macOS 桌面 agent：用 Codex 从一句话生成可玩的网页/Godot 游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Innate-Labs/Noobi.ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 250 --> 258
-    line [251, 257, 257]
+    line [251, 257, 256]
 ```
 
-2026-10-18 251 → 2026-11-17 257（+6）
+2026-10-18 251 → 2026-11-18 256（+5）
 
 
 ---

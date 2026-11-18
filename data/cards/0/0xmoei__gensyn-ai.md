@@ -1,6 +1,6 @@
 # 0xmoei/gensyn-ai
 
-⭐ 185 · MIT · 推送 2025-11-21 · [GitHub](https://github.com/0xmoei/gensyn-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Gensyn RL-Swarm 测试网节点搭建教程**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

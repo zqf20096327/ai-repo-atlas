@@ -1,6 +1,6 @@
 # ZYHUO/nyat-bot
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ZYHUO/nyat-bot) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ZYHUO/nyat-bot) · 个人维护 · 中文 README
 
 **Telegram 群聊自主参与型 agent 机器人（TypeScript）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZYHUO/nyat-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 12（+1）
 
 
 ---

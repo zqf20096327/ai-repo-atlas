@@ -1,6 +1,6 @@
 # ait-testbed/attackbed
 
-⭐ 20 · Jinja · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ait-testbed/attackbed) · 组织维护
+⭐ 20 · Jinja · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ait-testbed/attackbed) · 组织维护
 
 **自动化攻击靶场：生成带标签的入侵检测评估数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ait-testbed/attackbed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
     y-axis "stars" 17 --> 21
     line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-17 20（+2）
+2026-10-18 18 → 2026-11-18 20（+2）
 
 
 ---

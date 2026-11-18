@@ -1,6 +1,6 @@
 # MindAgency/mind-agency
 
-⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/MindAgency/mind-agency) · [官网](https://mindagency.cn/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **本地优先的多智能体协作平台：组队、分派任务、跑工作流**
 
@@ -11,7 +11,7 @@ Mind Agency 是一个本地优先的多智能体协作平台：创建带角色�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

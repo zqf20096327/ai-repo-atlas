@@ -1,6 +1,6 @@
 # rendeirolab/wsidata
 
-⭐ 35 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/rendeirolab/wsidata) · [官网](https://wsidata.rtfd.io/) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/rendeirolab/wsidata) · [官网](https://wsidata.rtfd.io/) · 组织维护
 
 **全切片病理图像分析的高效数据结构与 IO 库**
 
@@ -43,12 +43,12 @@ wsidata 为全切片图像（WSI）分析提供高效数据结构与输入输出
 ```mermaid
 xychart-beta
     title "rendeirolab/wsidata 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-11-17 35（+1）
+2026-10-18 34 → 2026-11-18 36（+2）
 
 
 ---

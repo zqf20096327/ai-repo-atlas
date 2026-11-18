@@ -1,6 +1,6 @@
 # RouteInferno/shamus-osint-ai-agent
 
-⭐ 183 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/RouteInferno/shamus-osint-ai-agent) · [官网](https://awesomeosint.tools/shamus/) · 个人维护
+⭐ 285 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/RouteInferno/shamus-osint-ai-agent) · [官网](https://awesomeosint.tools/shamus/) · 个人维护
 
 **终端内的 OSINT AI agent：自动选工具执行并撰写调查档案**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "RouteInferno/shamus-osint-ai-agent 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 50 --> 195
-    line [62, 157, 183, 183]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 40 --> 307
+    line [62, 157, 183, 285]
 ```
 
-2026-11-13 62 → 2026-11-17 183（+121）
+2026-11-13 62 → 2026-11-18 285（+223）
 
 
 ---

@@ -1,6 +1,6 @@
 # kevinelliott/ideate
 
-⭐ 11 · TypeScript · 推送 2026-09-10 · [GitHub](https://github.com/kevinelliott/ideate) · [官网](https://ideate.sh) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-09-10 · [GitHub](https://github.com/kevinelliott/ideate) · [官网](https://ideate.sh) · 个人维护
 
 **管理 AI 编程 agent 工作流的桌面应用：从想法到应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kevinelliott/ideate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 12（+1）
 
 
 ---

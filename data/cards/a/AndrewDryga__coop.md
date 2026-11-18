@@ -1,6 +1,6 @@
 # AndrewDryga/coop
 
-⭐ 54 · Go · MIT · 推送 2026-11-10 · [GitHub](https://github.com/AndrewDryga/coop) · [官网](http://coop.dryga.com/) · 个人维护
+⭐ 109 · Go · MIT · 推送 2026-11-10 · [GitHub](https://github.com/AndrewDryga/coop) · [官网](http://coop.dryga.com/) · 个人维护
 
 **面向开发者的编码 agent 沙箱运行器：隔离权限、任务队列与无人值守循环**
 
@@ -47,12 +47,12 @@ co:op 是一个 Go 编写的 CLI 工具，将 Claude Code、Codex、Gemini CLI�
 ```mermaid
 xychart-beta
     title "AndrewDryga/coop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 26 --> 63
-    line [29, 60, 54, 54]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 21 --> 117
+    line [29, 60, 54, 109]
 ```
 
-2026-10-18 29 → 2026-11-17 54（+25）
+2026-10-18 29 → 2026-11-18 109（+80）
 
 
 ---

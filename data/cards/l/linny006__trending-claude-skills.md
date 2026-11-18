@@ -1,6 +1,6 @@
 # linny006/trending-claude-skills
 
-⭐ 136 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/trending-claude-skills) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=trending-claude-skills) · 个人维护 · 中文 README
+⭐ 137 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/trending-claude-skills) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=trending-claude-skills) · 个人维护 · 中文 README
 
 **自动更新的 Claude 技能与 AI agent 仓库趋势排行榜**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linny006/trending-claude-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 126 --> 137
-    line [127, 129, 132, 133, 134, 133, 136, 136]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 126 --> 138
+    line [127, 129, 132, 133, 134, 133, 136, 137]
 ```
 
-2026-10-18 127 → 2026-11-17 136（+9）
+2026-10-18 127 → 2026-11-18 137（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kibertum/tausik-core
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Kibertum/tausik-core) · [官网](https://tausik.tech) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Kibertum/tausik-core) · [官网](https://tausik.tech) · 个人维护 · 中文 README
 
 **AI 编码代理的验证与控制层：无证据不得关闭任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kibertum/tausik-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-17 19（+0）
+2026-10-18 19 → 2026-11-18 19（+0）
 
 
 ---

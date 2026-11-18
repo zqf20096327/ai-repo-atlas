@@ -1,6 +1,6 @@
 # cohexa-ai/agent-coherence
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/cohexa-ai/agent-coherence) · [官网](https://agent-coherence.dev/) · 组织维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/cohexa-ai/agent-coherence) · [官网](https://agent-coherence.dev/) · 组织维护
 
 **多智能体共享状态的缓存一致性协调库，防止静默覆盖**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cohexa-ai/agent-coherence 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 11, 12, 13, 14, 15]
 ```
 
-2026-10-18 11 → 2026-11-17 14（+3）
+2026-10-18 11 → 2026-11-18 15（+4）
 
 
 ---

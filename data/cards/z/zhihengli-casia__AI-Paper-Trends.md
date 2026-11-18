@@ -1,6 +1,6 @@
 # zhihengli-casia/AI-Paper-Trends
 
-⭐ 221 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zhihengli-casia/AI-Paper-Trends) · [官网](https://github.com/zhihengli-casia/AI-Paper-Trends/blob/main/docs/topic-atlas/README.md) · 个人维护 · 中文 README
+⭐ 223 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zhihengli-casia/AI-Paper-Trends) · [官网](https://github.com/zhihengli-casia/AI-Paper-Trends/blob/main/docs/topic-atlas/README.md) · 个人维护 · 中文 README
 
 **AI 论文索引与细粒度主题图谱：按年份/会议/主题浏览论文**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhihengli-casia/AI-Paper-Trends 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 207 --> 222
-    line [208, 209, 210, 211, 212, 213, 214, 210, 217, 218, 219, 220, 221, 221]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 207 --> 224
+    line [208, 209, 210, 211, 212, 213, 214, 210, 217, 218, 219, 220, 221, 223]
 ```
 
-2026-10-18 208 → 2026-11-17 221（+13）
+2026-10-18 208 → 2026-11-18 223（+15）
 
 
 ---

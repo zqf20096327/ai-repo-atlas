@@ -45,12 +45,12 @@ Punch Out Model Synthesis 是一种基于约束的贴图生成（CBTG）算法�
 ```mermaid
 xychart-beta
     title "zzyzek/PunchOutModelSynthesis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-17 21（+1）
+2026-10-18 20 → 2026-11-18 21（+1）
 
 
 ---

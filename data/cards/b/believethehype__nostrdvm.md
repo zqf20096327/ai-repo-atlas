@@ -1,6 +1,6 @@
 # believethehype/nostrdvm
 
-⭐ 56 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/believethehype/nostrdvm) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/believethehype/nostrdvm) · 个人维护
 
 **构建与运行 Nostr NIP90 数据售货机（DVM）的 Python 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "believethehype/nostrdvm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-11-17 56（+0）
+2026-10-18 56 → 2026-11-18 56（+0）
 
 
 ---

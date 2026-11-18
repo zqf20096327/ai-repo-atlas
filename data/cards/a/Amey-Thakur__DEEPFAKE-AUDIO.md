@@ -1,6 +1,6 @@
 # Amey-Thakur/DEEPFAKE-AUDIO
 
-⭐ 76 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) · [官网](https://huggingface.co/spaces/ameythakur/Deepfake-Audio) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) · [官网](https://huggingface.co/spaces/ameythakur/Deepfake-Audio) · 个人维护
 
 **基于 SV2TTS 的零样本人声克隆语音合成工作室**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Amey-Thakur/DEEPFAKE-AUDIO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-18 76 → 2026-11-17 76（+0）
+2026-10-18 76 → 2026-11-18 77（+1）
 
 
 ---

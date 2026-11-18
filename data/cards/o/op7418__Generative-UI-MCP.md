@@ -1,6 +1,6 @@
 # op7418/Generative-UI-MCP
 
-⭐ 62 · TypeScript · 推送 2026-03-16 · [GitHub](https://github.com/op7418/Generative-UI-MCP) · 个人维护
+⭐ 63 · TypeScript · 推送 2026-03-16 · [GitHub](https://github.com/op7418/Generative-UI-MCP) · 个人维护
 
 **为 AI 模型按需提供生成式 UI 设计规范的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "op7418/Generative-UI-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-17"]
-    y-axis "stars" 59 --> 63
-    line [60, 61, 62, 62]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-18"]
+    y-axis "stars" 59 --> 64
+    line [60, 61, 62, 63]
 ```
 
-2026-10-18 60 → 2026-11-17 62（+2）
+2026-10-18 60 → 2026-11-18 63（+3）
 
 
 ---

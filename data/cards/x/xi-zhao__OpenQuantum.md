@@ -1,6 +1,6 @@
 # xi-zhao/OpenQuantum
 
-⭐ 72 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/xi-zhao/OpenQuantum) · [官网](https://xi-zhao.github.io/OpenQuantum/) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/xi-zhao/OpenQuantum) · [官网](https://xi-zhao.github.io/OpenQuantum/) · 个人维护 · 中文 README
 
 **面向量子科研的开源 AI Agent 平台：桌面端+Codex 插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xi-zhao/OpenQuantum 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-18"]
     y-axis "stars" 70 --> 76
     line [75, 71, 72, 72]
 ```
 
-2026-10-18 75 → 2026-11-17 72（-3）
+2026-10-18 75 → 2026-11-18 72（-3）
 
 
 ---

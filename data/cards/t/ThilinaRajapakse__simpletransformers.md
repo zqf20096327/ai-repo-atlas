@@ -1,6 +1,6 @@
 # ThilinaRajapakse/simpletransformers
 
-⭐ 4,259 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/ThilinaRajapakse/simpletransformers) · [官网](https://simpletransformers.ai/) · 个人维护
+⭐ 4,260 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/ThilinaRajapakse/simpletransformers) · [官网](https://simpletransformers.ai/) · 个人维护
 
 **简化 Transformer 模型训练评估的 Python 库，3 行代码完成训练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThilinaRajapakse/simpletransformers 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 4253 --> 4260
-    line [4255, 4254, 4255, 4256, 4254, 4258, 4259, 4259]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 4253 --> 4261
+    line [4255, 4254, 4255, 4256, 4254, 4258, 4259, 4260]
 ```
 
-2026-10-18 4,255 → 2026-11-17 4,259（+4）
+2026-10-18 4,255 → 2026-11-18 4,260（+5）
 
 
 ---

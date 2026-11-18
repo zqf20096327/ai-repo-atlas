@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-node
 
-⭐ 198 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/milvus-io/milvus-sdk-node) · [官网](https://milvus-io.github.io/milvus-sdk-node/) · 组织维护
+⭐ 198 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/milvus-io/milvus-sdk-node) · [官网](https://milvus-io.github.io/milvus-sdk-node/) · 组织维护
 
 **Milvus 向量数据库的官方 Node.js SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-sdk-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 197 --> 199
     line [198, 198]
 ```
 
-2026-10-18 198 → 2026-11-17 198（+0）
+2026-10-18 198 → 2026-11-18 198（+0）
 
 
 ---

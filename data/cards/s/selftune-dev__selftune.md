@@ -1,6 +1,6 @@
 # selftune-dev/selftune
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/selftune-dev/selftune) · [官网](https://selftune.dev) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/selftune-dev/selftune) · [官网](https://selftune.dev) · 组织维护
 
 **AI agent 技能的观测与自动改进工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "selftune-dev/selftune 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 19（+1）
 
 
 ---

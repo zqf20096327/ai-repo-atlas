@@ -1,6 +1,6 @@
 # theislab/scarches
 
-⭐ 414 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-26 · [GitHub](https://github.com/theislab/scarches) · [官网](https://docs.scarches.org/en/latest/) · 组织维护
+⭐ 415 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-26 · [GitHub](https://github.com/theislab/scarches) · [官网](https://docs.scarches.org/en/latest/) · 组织维护
 
 **将单细胞查询数据映射整合到参考图谱的迁移学习分析包**
 
@@ -45,12 +45,12 @@ scArches 是面向单细胞基因组学研究的 Python 包，提供基于参考
 ```mermaid
 xychart-beta
     title "theislab/scarches 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
-    y-axis "stars" 412 --> 415
-    line [413, 414, 414]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
+    y-axis "stars" 412 --> 416
+    line [413, 414, 415]
 ```
 
-2026-10-18 413 → 2026-11-17 414（+1）
+2026-10-18 413 → 2026-11-18 415（+2）
 
 
 ---

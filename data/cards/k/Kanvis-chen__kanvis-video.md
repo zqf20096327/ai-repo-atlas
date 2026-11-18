@@ -1,6 +1,6 @@
 # Kanvis-chen/kanvis-video
 
-⭐ 54 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/Kanvis-chen/kanvis-video) · [官网](https://kanvis-chen.github.io/kanvis-homepage/open/?tab=workbench) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/Kanvis-chen/kanvis-video) · [官网](https://kanvis-chen.github.io/kanvis-homepage/open/?tab=workbench) · 个人维护 · 中文 README
 
 **把中文长文重新导演成可发布视频的 Codex Skill 流水线**
 
@@ -46,12 +46,12 @@ MIT 开源的 Codex 编排 Skill 与本地 Kanvis Studio 基础工作台：首�
 ```mermaid
 xychart-beta
     title "Kanvis-chen/kanvis-video 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 50 --> 55
-    line [51, 52, 51, 52, 54, 54]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 50 --> 56
+    line [51, 52, 51, 52, 54, 55]
 ```
 
-2026-10-18 51 → 2026-11-17 54（+3）
+2026-10-18 51 → 2026-11-18 55（+4）
 
 
 ---

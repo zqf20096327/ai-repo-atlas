@@ -1,6 +1,6 @@
 # initial-d/ml-quant-trading
 
-⭐ 108 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/initial-d/ml-quant-trading) · [官网](https://initial-d.github.io/ml-quant-trading/) · 个人维护 · 中文 README
+⭐ 109 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/initial-d/ml-quant-trading) · [官网](https://initial-d.github.io/ml-quant-trading/) · 个人维护 · 中文 README
 
 **PyTorch 横截面多因子量化研究库：213 因子到成本感知回测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "initial-d/ml-quant-trading 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 90 --> 109
-    line [91, 94, 96, 97, 99, 101, 97, 106, 107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 90 --> 110
+    line [91, 94, 96, 97, 99, 101, 97, 106, 107, 108, 109]
 ```
 
-2026-10-18 91 → 2026-11-17 108（+17）
+2026-10-18 91 → 2026-11-18 109（+18）
 
 
 ---

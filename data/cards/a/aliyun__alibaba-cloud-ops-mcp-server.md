@@ -1,6 +1,6 @@
 # aliyun/alibaba-cloud-ops-mcp-server
 
-⭐ 137 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) · 组织维护 · 中文 README
+⭐ 137 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) · 组织维护 · 中文 README
 
 **让 AI 助手操作阿里云资源的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aliyun/alibaba-cloud-ops-mcp-server 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 131 --> 138
     line [132, 133, 134, 135, 136, 137, 133, 137, 137]
 ```
 
-2026-10-18 132 → 2026-11-17 137（+5）
+2026-10-18 132 → 2026-11-18 137（+5）
 
 
 ---

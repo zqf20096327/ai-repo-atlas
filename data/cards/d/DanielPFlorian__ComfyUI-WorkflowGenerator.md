@@ -46,12 +46,12 @@ ComfyUI 自定义节点，基于 ComfyGPT 研究的独立实现：用户以自�
 ```mermaid
 xychart-beta
     title "DanielPFlorian/ComfyUI-WorkflowGenerator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
     y-axis "stars" 41 --> 44
     line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-17 43（+1）
+2026-10-18 42 → 2026-11-18 43（+1）
 
 
 ---

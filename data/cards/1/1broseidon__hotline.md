@@ -1,6 +1,6 @@
 # 1broseidon/hotline
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/1broseidon/hotline) · [官网](https://hotline.dev) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/1broseidon/hotline) · [官网](https://hotline.dev) · 个人维护
 
 **自托管的多 AI agent 协作房间，桌面端+手机端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1broseidon/hotline 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 10 --> 17
     line [11, 12, 13, 14, 11, 15, 16, 16]
 ```
 
-2026-10-23 11 → 2026-11-17 16（+5）
+2026-10-23 11 → 2026-11-18 16（+5）
 
 
 ---

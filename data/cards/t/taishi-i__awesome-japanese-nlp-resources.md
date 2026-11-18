@@ -1,6 +1,6 @@
 # taishi-i/awesome-japanese-nlp-resources
 
-⭐ 1,031 · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/taishi-i/awesome-japanese-nlp-resources) · [官网](https://taishi-i.github.io/awesome-japanese-nlp-resources/) · 个人维护 · 中文 README
+⭐ 1,031 · CC0-1.0 · 推送 2026-11-17 · [GitHub](https://github.com/taishi-i/awesome-japanese-nlp-resources) · [官网](https://taishi-i.github.io/awesome-japanese-nlp-resources/) · 个人维护 · 中文 README
 
 **日语 NLP 资源策展清单（898 GitHub + 454 Hugging Face 仓库）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "taishi-i/awesome-japanese-nlp-resources 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
     y-axis "stars" 1022 --> 1032
     line [1023, 1024, 1023, 1025, 1023, 1028, 1029, 1031, 1031]
 ```
 
-2026-10-18 1,023 → 2026-11-17 1,031（+8）
+2026-10-18 1,023 → 2026-11-18 1,031（+8）
 
 
 ---

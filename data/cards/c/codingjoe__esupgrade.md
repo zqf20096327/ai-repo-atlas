@@ -1,6 +1,6 @@
 # codingjoe/esupgrade
 
-⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/codingjoe/esupgrade) · 个人维护
+⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/codingjoe/esupgrade) · 个人维护
 
 **面向 JavaScript/TypeScript 开发者的语法自动升级工具**
 
@@ -45,12 +45,12 @@ esupgrade 是一个自动重写 JavaScript/TypeScript 语法的 CLI 工具：基
 ```mermaid
 xychart-beta
     title "codingjoe/esupgrade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 15（+0）
 
 
 ---

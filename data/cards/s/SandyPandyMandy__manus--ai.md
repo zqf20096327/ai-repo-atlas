@@ -1,10 +1,10 @@
 # SandyPandyMandy/manus--ai
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/SandyPandyMandy/manus--ai) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SandyPandyMandy/manus--ai) · 个人维护
 
-**自主执行代码与浏览器操作的通用 AI Agent 助手**
+**自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 
-面向家庭、学习与轻量办公场景的自主 AI Agent：用户用自然语言下达指令，Agent 自行编写并执行脚本、打开网页、填写表单、完成多步骤任务，可在后台待命并跨会话复用工作流模式。README 提供最低 4GB 内存、双核 CPU 的兼容性表与上手步骤，但未给出任何安装命令、代码仓库内容或模型接入方式；主题标签提及 OpenAI/Anthropic/Gemini 等仅作为标签出现，正文未说明具体接入机制。
+README 以宣传口吻描述的自主 AI Agent：用户以自然语言下达指令，Agent 自行编写并执行脚本、打开网页、与页面元素交互、完成多步骤任务，代码执行与浏览器控制可在同一流程内衔接。定位为面向家庭、学习与轻量办公场景的个人助手，面向无需编程背景的用户。README 含系统兼容性表（最低双核 CPU、4 GB 内存），但未提供任何安装命令、源码结构、模型接入方式或许可证信息，实现细节不可验证。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 自主编写并执行代码完成任务
-- 浏览器控制：导航网页、填写表单、采集信息
-- 代码与浏览器动作可在同一工作流中衔接
-- 面向非开发者，无需编程基础即可使用
+- 自主执行代码与控制浏览器，衔接脚本与网页操作
+- 支持多步骤任务与跨会话的模式记忆
+- 面向非开发者的家庭、学习与轻量办公场景
 
 ## 适用场景
 
-- 让学生整理研究资料、运行小脚本
-- 远程工作者从多个网页收集数据并汇总
-- 把重复性的小任务委托给后台 Agent 处理
-- 开发时快速跑小实验而无需搭建完整环境
+- 让 Agent 代为执行重复性的网页操作与脚本任务
+- 整理研究资料、运行小脚本、汇总多页面信息
+- 远程支持场景中重排诊断步骤、检查系统页面
 
 ## 场景标签
 
-`编码 Agent` `浏览器自动化` `AI 助手` · 领域:效率与自动化
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
+> L22: Manus is not a heavy studio suite or a complex enterprise platform. It is a focused helper built for home, study, a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "SandyPandyMandy/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-17 202（+56）
+2026-11-13 146 → 2026-11-18 202（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 low · 依据 README sha `0f78ee3a5dd2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 low · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*

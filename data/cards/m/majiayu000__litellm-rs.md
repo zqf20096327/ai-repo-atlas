@@ -1,6 +1,6 @@
 # majiayu000/litellm-rs
 
-⭐ 124 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/majiayu000/litellm-rs) · [官网](https://docs.rs/litellm-rs) · 个人维护
+⭐ 124 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/majiayu000/litellm-rs) · [官网](https://docs.rs/litellm-rs) · 个人维护
 
 **Rust 自托管 LLM 网关：OpenAI 兼容 API、负载均衡与故障转移**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "majiayu000/litellm-rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-18"]
     y-axis "stars" 120 --> 125
     line [121, 123, 124, 124]
 ```
 
-2026-10-18 121 → 2026-11-17 124（+3）
+2026-10-18 121 → 2026-11-18 124（+3）
 
 
 ---

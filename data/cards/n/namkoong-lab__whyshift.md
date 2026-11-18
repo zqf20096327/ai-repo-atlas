@@ -46,12 +46,12 @@ Python 包 WhyShift，基于真实表格数据（ACS Income/PubCov/Mobility、Ta
 ```mermaid
 xychart-beta
     title "namkoong-lab/whyshift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-11-17 62（+0）
+2026-10-18 62 → 2026-11-18 62（+0）
 
 
 ---

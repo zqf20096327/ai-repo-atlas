@@ -46,12 +46,12 @@ name-ethnicity 研究项目提供的 Python 包 n2e，通过分析姓名的语�
 ```mermaid
 xychart-beta
     title "name-ethnicity-classifier/name-ethnicity-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-17 33（+0）
+2026-10-18 33 → 2026-11-18 33（+0）
 
 
 ---

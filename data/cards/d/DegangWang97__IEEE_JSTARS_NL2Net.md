@@ -43,12 +43,12 @@ IEEE JSTARS 论文 "Non-Local and Local Feature-Coupled Self-Supervised Network 
 ```mermaid
 xychart-beta
     title "DegangWang97/IEEE_JSTARS_NL2Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

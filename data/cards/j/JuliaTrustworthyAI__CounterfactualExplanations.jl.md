@@ -1,6 +1,6 @@
 # JuliaTrustworthyAI/CounterfactualExplanations.jl
 
-⭐ 130 · Julia · MIT · 推送 2026-08-12 · [GitHub](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl) · [官网](https://www.taija.org/CounterfactualExplanations.jl/) · 组织维护
+⭐ 131 · Julia · MIT · 推送 2026-08-12 · [GitHub](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl) · [官网](https://www.taija.org/CounterfactualExplanations.jl/) · 组织维护
 
 **Julia 反事实解释与算法追索库：解释黑盒模型决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JuliaTrustworthyAI/CounterfactualExplanations.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 128 --> 131
-    line [129, 130, 130]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 128 --> 132
+    line [129, 130, 131]
 ```
 
-2026-10-18 129 → 2026-11-17 130（+1）
+2026-10-18 129 → 2026-11-18 131（+2）
 
 
 ---

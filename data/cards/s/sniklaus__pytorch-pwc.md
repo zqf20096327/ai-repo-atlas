@@ -45,12 +45,12 @@ Simon Niklaus 个人维护的 PWC-Net（CVPR 2018 光流网络）PyTorch 复现�
 ```mermaid
 xychart-beta
     title "sniklaus/pytorch-pwc 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-17"]
+    x-axis ["2026-11-16", "2026-11-18"]
     y-axis "stars" 660 --> 662
     line [661, 661]
 ```
 
-2026-11-16 661 → 2026-11-17 661（+0）
+2026-11-16 661 → 2026-11-18 661（+0）
 
 
 ---

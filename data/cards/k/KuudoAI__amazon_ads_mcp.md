@@ -1,6 +1,6 @@
 # KuudoAI/amazon_ads_mcp
 
-⭐ 73 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/KuudoAI/amazon_ads_mcp) · [官网](https://www.kuudo.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Amazon 广告 API 的 MCP 服务器：让 AI agent 安全调用广告接口**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # wretcher207/reaper-daemon
 
-⭐ 33 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/wretcher207/reaper-daemon) · [官网](https://www.deadpixeldesign.com/workflows/reaper-daemon/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/wretcher207/reaper-daemon) · [官网](https://www.deadpixeldesign.com/workflows/reaper-daemon/) · 个人维护
 
 **让 AI agent 驱动 REAPER 的 MCP 服务器与文件桥**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wretcher207/reaper-daemon 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 17 --> 34
-    line [18, 19, 20, 21, 22, 23, 24, 19, 29, 31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 17 --> 35
+    line [18, 19, 20, 21, 22, 23, 24, 19, 29, 31, 32, 33, 34]
 ```
 
-2026-10-18 18 → 2026-11-17 33（+15）
+2026-10-18 18 → 2026-11-18 34（+16）
 
 
 ---

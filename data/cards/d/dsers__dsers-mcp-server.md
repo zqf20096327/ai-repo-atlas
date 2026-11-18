@@ -1,6 +1,6 @@
 # dsers/dsers-mcp-server
 
-⭐ 20 · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/dsers/dsers-mcp-server) · [官网](https://smithery.ai/servers/dsers/mcp-server) · 组织维护 · 中文 README
+⭐ 20 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/dsers/dsers-mcp-server) · [官网](https://smithery.ai/servers/dsers/mcp-server) · 组织维护 · 中文 README
 
 **DSers 官方托管的 MCP 服务器：让 AI 客户端操作代发货工作流**
 
@@ -46,12 +46,12 @@ DSers 官方托管的远程 MCP 服务，本仓库仅含连接信息、用户文
 ```mermaid
 xychart-beta
     title "dsers/dsers-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
     y-axis "stars" 15 --> 21
     line [16, 17, 18, 16, 19, 20, 20]
 ```
 
-2026-10-18 16 → 2026-11-17 20（+4）
+2026-10-18 16 → 2026-11-18 20（+4）
 
 
 ---

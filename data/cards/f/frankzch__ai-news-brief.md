@@ -1,6 +1,6 @@
 # frankzch/ai-news-brief
 
-⭐ 24 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/frankzch/ai-news-brief) · [官网](https://inbrief.info) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/frankzch/ai-news-brief) · [官网](https://inbrief.info) · 个人维护 · 中文 README
 
 **自托管的 AI 新闻聚合引擎：370+ 来源生成中英双语日报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frankzch/ai-news-brief 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 13 --> 25
-    line [14, 17, 19, 21, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 13 --> 26
+    line [14, 17, 19, 21, 23, 24, 25]
 ```
 
-2026-10-18 14 → 2026-11-17 24（+10）
+2026-10-18 14 → 2026-11-18 25（+11）
 
 
 ---

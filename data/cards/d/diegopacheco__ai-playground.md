@@ -1,6 +1,6 @@
 # diegopacheco/ai-playground
 
-⭐ 21 · HTML · Unlicense · 推送 2026-11-14 · [GitHub](https://github.com/diegopacheco/ai-playground) · 个人维护
+⭐ 21 · HTML · Unlicense · 推送 2026-11-17 · [GitHub](https://github.com/diegopacheco/ai-playground) · 个人维护
 
 **个人 AI 概念验证集合：500+ POC 与 100+ Agent 实验目录**
 
@@ -46,12 +46,12 @@ Diego Pacheco 维护的个人 AI 实验仓库，覆盖 ML、NLP、LLM、视觉�
 ```mermaid
 xychart-beta
     title "diegopacheco/ai-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-17 21（+0）
+2026-10-18 21 → 2026-11-18 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # canonical/inference-snaps
 
-⭐ 55 · Go · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/canonical/inference-snaps) · [官网](https://documentation.ubuntu.com/inference-snaps) · 组织维护
+⭐ 55 · Go · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/canonical/inference-snaps) · [官网](https://documentation.ubuntu.com/inference-snaps) · 组织维护
 
 **Canonical 出品的 snap 打包本地模型推理与 API 服务方案**
 
@@ -45,12 +45,12 @@ Canonical 维护的 Inference Snaps 项目：将生成式模型及其运行时�
 ```mermaid
 xychart-beta
     title "canonical/inference-snaps 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-13", "2026-11-18"]
     y-axis "stars" 51 --> 56
     line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-11-17 55（+3）
+2026-10-18 52 → 2026-11-18 55（+3）
 
 
 ---

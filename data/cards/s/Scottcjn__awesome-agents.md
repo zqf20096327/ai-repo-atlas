@@ -1,6 +1,6 @@
 # Scottcjn/awesome-agents
 
-⭐ 108 · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Scottcjn/awesome-agents) · [官网](https://rustchain.org) · 个人维护
+⭐ 106 · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Scottcjn/awesome-agents) · [官网](https://rustchain.org) · 个人维护
 
 **AI agent 平台/框架/协议/工具的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/awesome-agents 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-02", "2026-11-10", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-02", "2026-11-10", "2026-11-11", "2026-11-18"]
     y-axis "stars" 103 --> 109
-    line [104, 105, 106, 107, 108, 108]
+    line [104, 105, 106, 107, 108, 106]
 ```
 
-2026-10-29 104 → 2026-11-17 108（+4）
+2026-10-29 104 → 2026-11-18 106（+2）
 
 
 ---

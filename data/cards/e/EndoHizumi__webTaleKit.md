@@ -1,6 +1,6 @@
 # EndoHizumi/webTaleKit
 
-⭐ 60 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/EndoHizumi/webTaleKit) · [官网](https://endohizumi.github.io/webTaleKit/) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EndoHizumi/webTaleKit) · [官网](https://endohizumi.github.io/webTaleKit/) · 个人维护
 
 **TypeScript 视觉小说游戏引擎：HTML/CSS 自定义 UI，可接 LLM 对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EndoHizumi/webTaleKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-11-17 60（+0）
+2026-10-18 60 → 2026-11-18 60（+0）
 
 
 ---

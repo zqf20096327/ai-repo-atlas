@@ -1,6 +1,6 @@
 # whitecircle/circle-guard-bench
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-03-07 · [GitHub](https://github.com/whitecircle/circle-guard-bench) · [官网](https://whitecircle.ai) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-03-07 · [GitHub](https://github.com/whitecircle/circle-guard-bench) · [官网](https://whitecircle.com/research/circleguardbench) · 组织维护
 
 **评估 LLM 护栏模型防护能力的基准测试框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whitecircle/circle-guard-bench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 80 --> 83
     line [82, 81, 82, 81, 81]
 ```
 
-2026-10-18 82 → 2026-11-17 81（-1）
+2026-10-18 82 → 2026-11-18 81（-1）
 
 
 ---

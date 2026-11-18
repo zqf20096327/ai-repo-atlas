@@ -1,6 +1,6 @@
 # demo112/yunqu-ai-skills
 
-⭐ 53 · HTML · MIT · 推送 2026-05-13 · [GitHub](https://github.com/demo112/yunqu-ai-skills) · [官网](https://demo112.github.io/yunqu-ai-skills/) · 个人维护 · 中文 README
+⭐ 54 · HTML · MIT · 推送 2026-05-13 · [GitHub](https://github.com/demo112/yunqu-ai-skills) · [官网](https://demo112.github.io/yunqu-ai-skills/) · 个人维护 · 中文 README
 
 **付费的 15 个 Claude 技能包，覆盖开发与中文营销**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "demo112/yunqu-ai-skills 星数(近 8 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 22 --> 55
-    line [24, 37, 41, 46, 47, 52, 53, 53]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 21 --> 57
+    line [24, 37, 41, 46, 47, 52, 53, 54]
 ```
 
-2026-10-31 24 → 2026-11-17 53（+29）
+2026-10-31 24 → 2026-11-18 54（+30）
 
 
 ---

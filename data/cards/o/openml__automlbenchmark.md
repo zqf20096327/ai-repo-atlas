@@ -1,6 +1,6 @@
 # openml/automlbenchmark
 
-⭐ 474 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openml/automlbenchmark) · [官网](https://openml.github.io/automlbenchmark) · 组织维护
+⭐ 473 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openml/automlbenchmark) · [官网](https://openml.github.io/automlbenchmark) · 组织维护
 
 **评估与对比开源 AutoML 系统的基准测试框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openml/automlbenchmark 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 470 --> 475
-    line [471, 472, 473, 471, 474, 474]
+    line [471, 472, 473, 471, 474, 473]
 ```
 
-2026-10-18 471 → 2026-11-17 474（+3）
+2026-10-18 471 → 2026-11-18 473（+2）
 
 
 ---

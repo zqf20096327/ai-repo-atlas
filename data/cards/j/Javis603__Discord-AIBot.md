@@ -1,6 +1,6 @@
 # Javis603/Discord-AIBot
 
-⭐ 206 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Javis603/Discord-AIBot) · [官网](https://discord.gg/HmdNVVvw5P) · 个人维护 · 中文 README
+⭐ 205 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Javis603/Discord-AIBot) · [官网](https://discord.gg/HmdNVVvw5P) · 个人维护 · 中文 README
 
 **Discord 多模型 AI 助手机器人：对话、画图、搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Javis603/Discord-AIBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 205 --> 208
-    line [207, 206, 206]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 204 --> 208
+    line [207, 206, 205]
 ```
 
-2026-10-18 207 → 2026-11-17 206（-1）
+2026-10-18 207 → 2026-11-18 205（-2）
 
 
 ---

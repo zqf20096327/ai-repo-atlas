@@ -1,6 +1,6 @@
 # tubeagentkit/youtube-mcp
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tubeagentkit/youtube-mcp) · [官网](https://getyoutubetranscript.com) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tubeagentkit/youtube-mcp) · [官网](https://getyoutubetranscript.com) · 组织维护
 
 **远程 YouTube MCP 服务器：供 AI 客户端取转录、搜索视频与频道**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tubeagentkit/youtube-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 9 --> 28
-    line [27, 22, 23, 24, 22, 12, 10, 10]
+    line [27, 22, 23, 24, 22, 12, 10, 11]
 ```
 
-2026-10-18 27 → 2026-11-17 10（-17）
+2026-10-18 27 → 2026-11-18 11（-16）
 
 
 ---

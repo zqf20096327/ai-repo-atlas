@@ -1,6 +1,6 @@
 # EricSun0218/OpenGameAgent
 
-⭐ 61 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/EricSun0218/OpenGameAgent) · [官网](https://opengameagent.com) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EricSun0218/OpenGameAgent) · [官网](https://opengameagent.com) · 个人维护 · 中文 README
 
 **面向 AI 原生游戏角色的 TypeScript Agent 运行时**
 
@@ -46,12 +46,12 @@ MIT 许可的 TypeScript 运行时，为游戏提供消息-或-工具的单一 A
 ```mermaid
 xychart-beta
     title "EricSun0218/OpenGameAgent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18"]
     y-axis "stars" 53 --> 62
     line [54, 55, 56, 57, 58, 56, 59, 60, 61, 61]
 ```
 
-2026-10-18 54 → 2026-11-17 61（+7）
+2026-10-18 54 → 2026-11-18 61（+7）
 
 
 ---

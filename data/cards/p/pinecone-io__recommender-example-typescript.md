@@ -44,12 +44,12 @@ Pinecone 官方维护的 TypeScript 教程工程，演示用向量相似度检�
 ```mermaid
 xychart-beta
     title "pinecone-io/recommender-example-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-11-17 57（+0）
+2026-10-18 57 → 2026-11-18 57（+0）
 
 
 ---

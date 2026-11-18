@@ -1,6 +1,6 @@
 # focuxdot/wokey-provider-node
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/focuxdot/wokey-provider-node) · [官网](https://wokey.ai/r/NODE) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/focuxdot/wokey-provider-node) · [官网](https://wokey.ai/r/NODE) · 组织维护 · 中文 README
 
 **供 Wokey 平台的共享闲置 AI 订阅流量出口节点**
 
@@ -46,12 +46,12 @@ Wokey 平台的提供方节点软件：用户在本机运行节点，将 Claude/
 ```mermaid
 xychart-beta
     title "focuxdot/wokey-provider-node 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-18"]
     y-axis "stars" 9 --> 16
     line [10, 11, 13, 14, 15, 15]
 ```
 
-2026-10-18 10 → 2026-11-17 15（+5）
+2026-10-18 10 → 2026-11-18 15（+5）
 
 
 ---

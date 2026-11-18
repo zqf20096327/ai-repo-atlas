@@ -1,6 +1,6 @@
 # pssah4/vault-operator
 
-⭐ 264 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/pssah4/vault-operator) · [官网](https://pssah4.github.io/vault-operator/) · 个人维护 · 中文 README
+⭐ 266 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/pssah4/vault-operator) · [官网](https://pssah4.github.io/vault-operator/) · 个人维护 · 中文 README
 
 **Obsidian 知识库的智能体 AI 操作层插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pssah4/vault-operator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 261 --> 265
-    line [262, 263, 264, 263, 264, 264]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 261 --> 267
+    line [262, 263, 264, 263, 264, 266]
 ```
 
-2026-10-18 262 → 2026-11-17 264（+2）
+2026-10-18 262 → 2026-11-18 266（+4）
 
 
 ---

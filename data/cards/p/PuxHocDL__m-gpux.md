@@ -1,6 +1,6 @@
 # PuxHocDL/m-gpux
 
-⭐ 18 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/PuxHocDL/m-gpux) · [官网](https://puxhocdl.github.io/m-gpux/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/PuxHocDL/m-gpux) · [官网](https://puxhocdl.github.io/m-gpux/) · 个人维护
 
 **Modal GPU 云的 CLI 工作台：开发盒/Jupyter/托管/LLM 服务/计费管理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PuxHocDL/m-gpux 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 15, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 14 --> 20
+    line [15, 16, 15, 17, 18, 19]
 ```
 
-2026-10-18 15 → 2026-11-17 18（+3）
+2026-10-18 15 → 2026-11-18 19（+4）
 
 
 ---

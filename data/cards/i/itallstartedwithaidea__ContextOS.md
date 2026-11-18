@@ -1,6 +1,6 @@
 # itallstartedwithaidea/ContextOS
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/itallstartedwithaidea/ContextOS) · [官网](https://itallstartedwithaidea.com/work/contextos/) · 个人维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/itallstartedwithaidea/ContextOS) · [官网](https://itallstartedwithaidea.com/work/contextos/) · 个人维护 · 中文 README
 
 **面向 AI agent 的统一 MCP 上下文管理与编排平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "itallstartedwithaidea/ContextOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 27 --> 31
     line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-17 30（+2）
+2026-10-18 28 → 2026-11-18 30（+2）
 
 
 ---

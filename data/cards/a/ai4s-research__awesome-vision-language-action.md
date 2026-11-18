@@ -1,6 +1,6 @@
 # ai4s-research/awesome-vision-language-action
 
-⭐ 22 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ai4s-research/awesome-vision-language-action) · 组织维护
+⭐ 23 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ai4s-research/awesome-vision-language-action) · 组织维护
 
 **机器人 VLA 模型论文与模型策展清单（2025–2026）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ai4s-research/awesome-vision-language-action 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 20, 21, 20, 22, 22]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 21, 20, 22, 23]
 ```
 
-2026-10-18 18 → 2026-11-17 22（+4）
+2026-10-18 18 → 2026-11-18 23（+5）
 
 
 ---

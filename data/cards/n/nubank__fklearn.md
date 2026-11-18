@@ -1,6 +1,6 @@
 # nubank/fklearn
 
-⭐ 1,552 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/nubank/fklearn) · 组织维护
+⭐ 1,550 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/nubank/fklearn) · 组织维护
 
 **函数式机器学习 Python 库，供构建可复现、生产就绪的模型**
 
@@ -45,12 +45,12 @@ Nubank 开源的函数式机器学习库，名称致敬 scikit-learn。以函数
 ```mermaid
 xychart-beta
     title "nubank/fklearn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 1551 --> 1554
-    line [1553, 1552, 1552]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 1549 --> 1554
+    line [1553, 1552, 1550]
 ```
 
-2026-10-18 1,553 → 2026-11-17 1,552（-1）
+2026-10-18 1,553 → 2026-11-18 1,550（-3）
 
 
 ---

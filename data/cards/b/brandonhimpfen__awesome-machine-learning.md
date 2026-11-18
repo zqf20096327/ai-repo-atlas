@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-machine-learning
 
-⭐ 20 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-machine-learning) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **机器学习框架/工具/数据集/论文的策展清单**
 

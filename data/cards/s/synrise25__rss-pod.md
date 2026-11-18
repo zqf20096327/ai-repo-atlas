@@ -1,6 +1,6 @@
 # synrise25/rss-pod
 
-⭐ 61 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/synrise25/rss-pod) · [官网](https://rss-pod.ssyserver.com) · 个人维护 · 中文 README
+⭐ 62 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/synrise25/rss-pod) · [官网](https://rss-pod.ssyserver.com) · 个人维护 · 中文 README
 
 **自托管应用：把 RSS 订阅转成对话式播客供通勤收听**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "synrise25/rss-pod 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 31 --> 63
-    line [33, 44, 59, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 31 --> 64
+    line [33, 44, 59, 60, 61, 62]
 ```
 
-2026-10-18 33 → 2026-11-17 61（+28）
+2026-10-18 33 → 2026-11-18 62（+29）
 
 
 ---

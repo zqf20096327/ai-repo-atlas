@@ -1,6 +1,6 @@
 # google/filonov
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google/filonov) · [官网](https://google.github.io/filonov/) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google/filonov) · [官网](https://google.github.io/filonov/) · 组织维护
 
 **创意素材相似性聚类分析工具：给广告/媒体团队找出素材共性**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "google/filonov 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-17 31（+1）
+2026-10-18 30 → 2026-11-18 31（+1）
 
 
 ---

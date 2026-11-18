@@ -45,12 +45,12 @@ audeering 维护的 Python 音频增强库，提供 transforms 对音频信号�
 ```mermaid
 xychart-beta
     title "audeering/auglib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

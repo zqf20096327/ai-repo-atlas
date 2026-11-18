@@ -1,6 +1,6 @@
 # timbal-ai/timbal
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/timbal-ai/timbal) · [官网](https://timbal.ai) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/timbal-ai/timbal) · [官网](https://timbal.ai) · 组织维护
 
 **构建可靠 AI 应用的 Python Agent/Workflow 框架**
 
@@ -45,12 +45,12 @@ Timbal 是一个构建 AI 应用的 Python 框架，提供 Agents（自主推理
 ```mermaid
 xychart-beta
     title "timbal-ai/timbal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-18"]
     y-axis "stars" 45 --> 50
     line [46, 48, 49, 49]
 ```
 
-2026-10-18 46 → 2026-11-17 49（+3）
+2026-10-18 46 → 2026-11-18 49（+3）
 
 
 ---

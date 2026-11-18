@@ -1,6 +1,6 @@
 # openai/openai-support-agent-demo
 
-⭐ 207 · TypeScript · NOASSERTION · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-support-agent-demo) · 组织维护
+⭐ 208 · TypeScript · NOASSERTION · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-support-agent-demo) · 组织维护
 
 **OpenAI 官方演示：NextJS 客服 Agent，人工在环控制敏感操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/openai-support-agent-demo 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 202 --> 208
-    line [203, 204, 205, 206, 205, 206, 207, 207]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 202 --> 209
+    line [203, 204, 205, 206, 205, 206, 207, 208]
 ```
 
-2026-10-18 203 → 2026-11-17 207（+4）
+2026-10-18 203 → 2026-11-18 208（+5）
 
 
 ---

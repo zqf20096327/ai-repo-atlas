@@ -1,6 +1,6 @@
 # voiio/Sam
 
-⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/voiio/Sam) · [官网](https://code.voiio.de/Sam/) · 组织维护
+⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/voiio/Sam) · [官网](https://code.voiio.de/Sam/) · 组织维护
 
 **部署在 Slack 的 AI 同事机器人，代查资料、发邮件、建 Issue**
 
@@ -46,12 +46,12 @@ Sam 是运行在公司 Slack 工作区内的 AI 机器人：通过网页搜索�
 ```mermaid
 xychart-beta
     title "voiio/Sam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

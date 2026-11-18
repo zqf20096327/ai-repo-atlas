@@ -1,6 +1,6 @@
 # imoling/iml-markdown-editor
 
-⭐ 59 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/imoling/iml-markdown-editor) · [官网](https://github.com/imoling/iml-markdown-editor/releases/latest) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/imoling/iml-markdown-editor) · [官网](https://github.com/imoling/iml-markdown-editor/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 笔记编辑器：AI 写作/转写/生图全在本机跑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "imoling/iml-markdown-editor 星数(近 16 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 42 --> 60
-    line [43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 47, 55, 56, 57, 59, 59]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 42 --> 62
+    line [43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 47, 55, 56, 57, 59, 61]
 ```
 
-2026-10-18 43 → 2026-11-17 59（+16）
+2026-10-18 43 → 2026-11-18 61（+18）
 
 
 ---

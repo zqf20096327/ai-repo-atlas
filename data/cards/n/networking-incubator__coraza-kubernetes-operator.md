@@ -45,12 +45,12 @@ Coraza Kubernetes Operator（CKO）在 Kubernetes 集群上以声明式方式管
 ```mermaid
 xychart-beta
     title "networking-incubator/coraza-kubernetes-operator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
     y-axis "stars" 18 --> 23
     line [19, 20, 21, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-17 22（+3）
+2026-10-18 19 → 2026-11-18 22（+3）
 
 
 ---

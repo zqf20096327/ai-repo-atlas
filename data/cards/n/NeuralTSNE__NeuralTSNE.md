@@ -45,12 +45,12 @@ NeuralTSNE 提供基于神经网络的参数化 t-SNE 实现：用 PyTorch 学�
 ```mermaid
 xychart-beta
     title "NeuralTSNE/NeuralTSNE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

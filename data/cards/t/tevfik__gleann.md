@@ -1,6 +1,6 @@
 # tevfik/gleann
 
-⭐ 42 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tevfik/gleann) · 个人维护
+⭐ 43 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tevfik/gleann) · 个人维护
 
 **Go 编写的本地代码智能与 RAG 工作区，供 AI 编码代理接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tevfik/gleann 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-11-17 42（+1）
+2026-10-18 41 → 2026-11-18 43（+2）
 
 
 ---

@@ -46,12 +46,12 @@ mAItion 是由 WikiTeq 维护的一体化 AI 知识工具：通过 Connectors �
 ```mermaid
 xychart-beta
     title "WikiTeq/mAItion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

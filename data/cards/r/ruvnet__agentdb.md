@@ -1,6 +1,6 @@
 # ruvnet/agentdb
 
-⭐ 102 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/agentdb) · [官网](https://ruv.io) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/agentdb) · [官网](https://ruv.io) · 个人维护
 
 **面向 agent 的自学习向量记忆库：单文件存储+HNSW+MCP**
 
@@ -46,12 +46,12 @@ AgentDB 是一个面向 AI agent 的向量记忆与检索库，将向量、索�
 ```mermaid
 xychart-beta
     title "ruvnet/agentdb 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 96 --> 103
-    line [97, 98, 99, 102, 102]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 96 --> 108
+    line [97, 98, 99, 102, 107]
 ```
 
-2026-11-10 97 → 2026-11-17 102（+5）
+2026-11-10 97 → 2026-11-18 107（+10）
 
 
 ---

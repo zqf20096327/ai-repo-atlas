@@ -1,6 +1,6 @@
 # edgerunners2/capri-ai-desktop
 
-⭐ 213 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/edgerunners2/capri-ai-desktop) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Windows 赛博朋克风格 AI 桌宠与语音助手应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

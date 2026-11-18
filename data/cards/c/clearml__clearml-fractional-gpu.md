@@ -1,6 +1,6 @@
 # clearml/clearml-fractional-gpu
 
-⭐ 97 · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/clearml/clearml-fractional-gpu) · [官网](https://clear.ml) · 组织维护
+⭐ 97 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/clearml/clearml-fractional-gpu) · [官网](https://clear.ml) · 组织维护
 
 **单 GPU 上多容器共存的驱动级显存限制容器集**
 
@@ -46,12 +46,12 @@ ClearML 提供的预打包 Docker 容器系列，内置 CUDA 11.x/12.x/13.x 与 
 ```mermaid
 xychart-beta
     title "clearml/clearml-fractional-gpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-11-17 97（+0）
+2026-10-18 97 → 2026-11-18 97（+0）
 
 
 ---

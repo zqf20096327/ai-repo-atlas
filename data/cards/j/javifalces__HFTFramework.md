@@ -1,6 +1,6 @@
 # javifalces/HFTFramework
 
-⭐ 311 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/javifalces/HFTFramework) · 个人维护
+⭐ 312 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/javifalces/HFTFramework) · 个人维护
 
 **Java+Python 高频交易研究框架：L2级回测与实盘接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "javifalces/HFTFramework 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 307 --> 312
-    line [308, 309, 311, 311]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 307 --> 313
+    line [308, 309, 311, 312]
 ```
 
-2026-10-18 308 → 2026-11-17 311（+3）
+2026-10-18 308 → 2026-11-18 312（+4）
 
 
 ---

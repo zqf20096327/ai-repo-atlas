@@ -1,6 +1,6 @@
 # heripo-lab/heripo-engine
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/heripo-lab/heripo-engine) · [官网](https://engine-demo.heripo.org) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/heripo-lab/heripo-engine) · [官网](https://engine-demo.heripo.org) · 组织维护
 
 **从考古发掘报告 PDF 抽取结构化数据的 TypeScript 库**
 
@@ -45,12 +45,12 @@ pnpm monorepo 形式的库集合：pdf-parser 用 Docling SDK 在本地做 OCR�
 ```mermaid
 xychart-beta
     title "heripo-lab/heripo-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

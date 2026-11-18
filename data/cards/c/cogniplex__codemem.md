@@ -1,6 +1,6 @@
 # cogniplex/codemem
 
-⭐ 18 · Rust · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/cogniplex/codemem) · 组织维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/cogniplex/codemem) · 组织维护
 
 **给 AI 编程助手的代码库记忆引擎，跨会话保留探索结果**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cogniplex/codemem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 19（+1）
 
 
 ---

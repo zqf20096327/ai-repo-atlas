@@ -1,6 +1,6 @@
 # explosion/spacy-llm
 
-⭐ 1,399 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/explosion/spacy-llm) · [官网](https://spacy.io/usage/large-language-models) · 组织维护
+⭐ 1,400 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/explosion/spacy-llm) · [官网](https://spacy.io/usage/large-language-models) · 组织维护
 
 **spaCy 集成 LLM 的结构化 NLP 管道库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "explosion/spacy-llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
-    y-axis "stars" 1396 --> 1400
-    line [1397, 1398, 1399, 1399]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-18"]
+    y-axis "stars" 1396 --> 1401
+    line [1397, 1398, 1399, 1400]
 ```
 
-2026-10-18 1,397 → 2026-11-17 1,399（+2）
+2026-10-18 1,397 → 2026-11-18 1,400（+3）
 
 
 ---

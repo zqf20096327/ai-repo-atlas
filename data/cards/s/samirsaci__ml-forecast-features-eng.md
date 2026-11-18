@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "samirsaci/ml-forecast-features-eng 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-11-17 74（+0）
+2026-10-18 74 → 2026-11-18 74（+0）
 
 
 ---

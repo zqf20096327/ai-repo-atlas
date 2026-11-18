@@ -1,6 +1,6 @@
 # SirAllap/agentglass
 
-⭐ 348 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SirAllap/agentglass) · [官网](https://sirallap.github.io/agentglass/) · 个人维护
+⭐ 348 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SirAllap/agentglass) · [官网](https://sirallap.github.io/agentglass/) · 个人维护
 
 **本地桌面工作台：集中查看与审批多个 AI 编码 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SirAllap/agentglass 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 334 --> 349
     line [335, 336, 337, 340, 344, 345, 340, 347, 348, 348]
 ```
 
-2026-10-18 335 → 2026-11-17 348（+13）
+2026-10-18 335 → 2026-11-18 348（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # erayendes/app-store-connect-mcp
 
-⭐ 66 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/erayendes/app-store-connect-mcp) · [官网](https://npmjs.com/package/@erayendes/asc-mcp) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/erayendes/app-store-connect-mcp) · [官网](https://npmjs.com/package/@erayendes/asc-mcp) · 个人维护
 
 **为 AI 客户端提供 App Store Connect 全量 API 的本地 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "erayendes/app-store-connect-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 52 --> 67
-    line [53, 54, 53, 56, 57, 58, 61, 62, 66, 66]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 52 --> 73
+    line [53, 54, 53, 56, 57, 58, 61, 62, 66, 72]
 ```
 
-2026-10-18 53 → 2026-11-17 66（+13）
+2026-10-18 53 → 2026-11-18 72（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-Hy-Nomas
 
-⭐ 25 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Hy-Nomas) · [官网](https://huggingface.co/PedroMarinhoDev/Hy-Nomas-ComfyUI) · 个人维护
+⭐ 26 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Hy-Nomas) · [官网](https://huggingface.co/PedroMarinhoDev/Hy-Nomas-ComfyUI) · 个人维护
 
 **在 ComfyUI 中原生运行腾讯 Hy-Nomas 视频世界模型的节点集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PedroMarinhoDev/ComfyUI-Hy-Nomas 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 5 --> 26
-    line [6, 9, 10, 14, 15, 16, 18, 6, 24, 25, 25]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 4 --> 28
+    line [6, 9, 10, 14, 15, 16, 18, 6, 24, 25, 26]
 ```
 
-2026-10-25 6 → 2026-11-17 25（+19）
+2026-10-25 6 → 2026-11-18 26（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # lottev1991/Project-AIdol-Public-English-Dataset
 
-⭐ 17 · CC-BY-SA-4.0 · 推送 2025-12-28 · [GitHub](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset) · [官网](https://lottev.moe) · 个人维护
+⭐ 18 · CC-BY-SA-4.0 · 推送 2025-12-28 · [GitHub](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset) · [官网](https://lottev.moe) · 个人维护
 
 **女性英语歌声合成（SVS）公开语料库，时长1小时45分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lottev1991/Project-AIdol-Public-English-Dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 18（+1）
 
 
 ---

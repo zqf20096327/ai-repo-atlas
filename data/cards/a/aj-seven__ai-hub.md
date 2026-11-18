@@ -1,6 +1,6 @@
 # aj-seven/ai-hub
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aj-seven/ai-hub) · [官网](https://ai-hubx.vercel.app) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aj-seven/ai-hub) · [官网](https://ai-hubx.vercel.app) · 个人维护
 
 **面向用户的多模型聊天与内容生成 Web/桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aj-seven/ai-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
     y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    line [11, 13, 12]
 ```
 
-2026-10-18 11 → 2026-11-17 13（+2）
+2026-10-18 11 → 2026-11-18 12（+1）
 
 
 ---

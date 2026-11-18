@@ -43,12 +43,12 @@ lucidrains 对 DeepMind 论文《Efficiently Reconstructing Dynamic Scenes One D
 ```mermaid
 xychart-beta
     title "lucidrains/d4rt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18"]
     y-axis "stars" 73 --> 77
     line [74, 75, 76, 76]
 ```
 
-2026-10-18 74 → 2026-11-17 76（+2）
+2026-10-18 74 → 2026-11-18 76（+2）
 
 
 ---

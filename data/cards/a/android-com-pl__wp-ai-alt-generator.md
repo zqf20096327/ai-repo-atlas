@@ -1,6 +1,6 @@
 # android-com-pl/wp-ai-alt-generator
 
-⭐ 20 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/android-com-pl/wp-ai-alt-generator) · [官网](https://wp.org/plugins/alt-text-generator-gpt-vision/) · 组织维护
+⭐ 20 · TypeScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/android-com-pl/wp-ai-alt-generator) · [官网](https://wp.org/plugins/alt-text-generator-gpt-vision/) · 组织维护
 
 **WordPress 插件：按需或批量生成图片替代文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "android-com-pl/wp-ai-alt-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

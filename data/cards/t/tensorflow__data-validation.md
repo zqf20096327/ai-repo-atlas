@@ -46,12 +46,12 @@ TensorFlow Data Validation (TFDV) 是面向机器学习数据管线的探索与�
 ```mermaid
 xychart-beta
     title "tensorflow/data-validation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
     y-axis "stars" 785 --> 788
     line [786, 787, 787]
 ```
 
-2026-10-18 786 → 2026-11-17 787（+1）
+2026-10-18 786 → 2026-11-18 787（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Picovoice 维护的 LLM 压缩（量化）算法基准评测框架：对 GPTQ �
 ```mermaid
 xychart-beta
     title "Picovoice/llm-compression-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-17 22（+0）
+2026-10-18 22 → 2026-11-18 22（+0）
 
 
 ---

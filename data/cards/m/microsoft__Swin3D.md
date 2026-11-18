@@ -1,6 +1,6 @@
 # microsoft/Swin3D
 
-⭐ 299 · Cuda · MIT · 推送 2026-08-25 · [GitHub](https://github.com/microsoft/Swin3D) · 组织维护
+⭐ 298 · Cuda · MIT · 推送 2026-08-25 · [GitHub](https://github.com/microsoft/Swin3D) · 组织维护
 
 **3D 室内场景理解的预训练 Transformer 骨干网络**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Swin3D 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 298 --> 300
-    line [299, 299]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 297 --> 300
+    line [299, 298]
 ```
 
-2026-10-18 299 → 2026-11-17 299（+0）
+2026-10-18 299 → 2026-11-18 298（-1）
 
 
 ---

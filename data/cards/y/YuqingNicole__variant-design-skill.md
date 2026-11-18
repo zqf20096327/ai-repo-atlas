@@ -1,6 +1,6 @@
 # YuqingNicole/variant-design-skill
 
-⭐ 47 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YuqingNicole/variant-design-skill) · [官网](https://variantdesign.xyz) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/YuqingNicole/variant-design-skill) · [官网](https://variantdesign.xyz) · 个人维护 · 中文 README
 
 **为 Claude Code 等 agent 提供的设计技能：一条提示生成三个可迭代的设计方向**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YuqingNicole/variant-design-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-11-17 47（+0）
+2026-10-18 47 → 2026-11-18 48（+1）
 
 
 ---

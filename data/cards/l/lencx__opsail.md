@@ -1,6 +1,6 @@
 # lencx/opsail
 
-⭐ 65 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/lencx/opsail) · 个人维护 · 中文 README
+⭐ 66 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/lencx/opsail) · 个人维护 · 中文 README
 
 **给软件 agent 用的 Rust 原生工具集：网页读取与 Codex 界面改造**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lencx/opsail 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 62 --> 66
-    line [63, 64, 65, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 62 --> 67
+    line [63, 64, 65, 64, 65, 66]
 ```
 
-2026-10-18 63 → 2026-11-17 65（+2）
+2026-10-18 63 → 2026-11-18 66（+3）
 
 
 ---

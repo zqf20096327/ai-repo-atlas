@@ -43,12 +43,12 @@ MoonshotAI 开发的 PyKAOS：为 AI agent 提供轻量级的操作系统抽象�
 ```mermaid
 xychart-beta
     title "MoonshotAI/pykaos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

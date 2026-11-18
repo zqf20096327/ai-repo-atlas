@@ -1,6 +1,6 @@
 # rishikksh20/mamba3-pytorch
 
-⭐ 41 · Python · 推送 2026-08-22 · [GitHub](https://github.com/rishikksh20/mamba3-pytorch) · 个人维护
+⭐ 43 · Python · 推送 2026-08-22 · [GitHub](https://github.com/rishikksh20/mamba3-pytorch) · 个人维护
 
 **Mamba-3 选择性状态空间模型的 PyTorch 可读参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rishikksh20/mamba3-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 39 --> 44
+    line [40, 41, 43]
 ```
 
-2026-10-18 40 → 2026-11-17 41（+1）
+2026-10-18 40 → 2026-11-18 43（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # maragudk/gai
 
-⭐ 55 · Go · MIT · 推送 2026-11-10 · [GitHub](https://github.com/maragudk/gai) · [官网](https://gai.maragu.dev) · 个人维护
+⭐ 55 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/maragudk/gai) · [官网](https://gai.maragu.dev) · 个人维护
 
 **Go 语言 AI 库：统一接口调用各家 LLM 并做模型评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maragudk/gai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 53 --> 56
     line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-11-17 55（+1）
+2026-10-18 54 → 2026-11-18 55（+1）
 
 
 ---

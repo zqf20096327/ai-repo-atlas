@@ -1,6 +1,6 @@
 # german-krasnikov/unity-biome-mcp
 
-⭐ 32 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/german-krasnikov/unity-biome-mcp) · [官网](https://german-krasnikov.github.io/unity-biome-mcp/) · 个人维护
+⭐ 32 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/german-krasnikov/unity-biome-mcp) · [官网](https://german-krasnikov.github.io/unity-biome-mcp/) · 个人维护
 
 **面向 Unity 编辑器的 MCP server，160 个工具控制场景与资产**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "german-krasnikov/unity-biome-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-18"]
     y-axis "stars" 29 --> 33
     line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-11-17 32（+2）
+2026-10-18 30 → 2026-11-18 32（+2）
 
 
 ---

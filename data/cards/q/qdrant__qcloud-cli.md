@@ -1,6 +1,6 @@
 # qdrant/qcloud-cli
 
-⭐ 22 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/qdrant/qcloud-cli) · 组织维护
+⭐ 22 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/qdrant/qcloud-cli) · 组织维护
 
 **Qdrant Cloud 官方命令行管理工具**
 
@@ -45,12 +45,12 @@ Qdrant 官方维护的 CLI，用于在终端中管理 Qdrant Cloud 的集群、�
 ```mermaid
 xychart-beta
     title "qdrant/qcloud-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 18 --> 23
     line [19, 20, 21, 20, 22, 22]
 ```
 
-2026-10-18 19 → 2026-11-17 22（+3）
+2026-10-18 19 → 2026-11-18 22（+3）
 
 
 ---

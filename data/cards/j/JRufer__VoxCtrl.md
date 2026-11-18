@@ -1,6 +1,6 @@
 # JRufer/VoxCtrl
 
-⭐ 31 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/JRufer/VoxCtrl) · [官网](https://jrufer.com/voxctrl/) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JRufer/VoxCtrl) · [官网](https://jrufer.com/voxctrl/) · 个人维护
 
 **本地离线语音转文字听写应用，可将语音路由到任意应用或服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JRufer/VoxCtrl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-11", "2026-11-18"]
     y-axis "stars" 28 --> 32
     line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-11-17 31（+2）
+2026-10-18 29 → 2026-11-18 31（+2）
 
 
 ---

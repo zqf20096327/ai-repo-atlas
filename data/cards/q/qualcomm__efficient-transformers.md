@@ -1,6 +1,6 @@
 # qualcomm/efficient-transformers
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/qualcomm/efficient-transformers) · [官网](https://qualcomm.github.io/efficient-transformers/) · 组织维护
+⭐ 103 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/qualcomm/efficient-transformers) · [官网](https://qualcomm.github.io/efficient-transformers/) · 组织维护
 
 **把 HuggingFace 模型移植到高通 Cloud AI 加速卡的推理库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qualcomm/efficient-transformers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-16", "2026-11-18"]
     y-axis "stars" 100 --> 104
     line [101, 102, 103, 103]
 ```
 
-2026-10-18 101 → 2026-11-17 103（+2）
+2026-10-18 101 → 2026-11-18 103（+2）
 
 
 ---

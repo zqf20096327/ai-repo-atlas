@@ -44,12 +44,12 @@ OptunaHub Registry 的前端仓库：提供 OptunaHub 网站的 Web 界面，Opt
 ```mermaid
 xychart-beta
     title "optuna/optunahub-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

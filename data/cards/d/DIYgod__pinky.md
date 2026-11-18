@@ -1,6 +1,6 @@
 # DIYgod/pinky
 
-⭐ 2,287 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/DIYgod/pinky) · 个人维护 · 中文 README
+⭐ 2,373 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/DIYgod/pinky) · 个人维护 · 中文 README
 
 **让 AI agent 经人审批操控真机 iPhone/Android 的 MCP 网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DIYgod/pinky 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 2058 --> 2307
-    line [2078, 2139, 2208, 2287, 2287]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 2049 --> 2402
+    line [2078, 2139, 2208, 2287, 2373]
 ```
 
-2026-11-13 2,078 → 2026-11-17 2,287（+209）
+2026-11-13 2,078 → 2026-11-18 2,373（+295）
 
 
 ---

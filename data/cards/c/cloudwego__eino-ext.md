@@ -1,6 +1,6 @@
 # cloudwego/eino-ext
 
-⭐ 837 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cloudwego/eino-ext) · [官网](https://www.cloudwego.io/zh/docs/eino/core_modules/components/) · 组织维护 · 中文 README
+⭐ 838 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cloudwego/eino-ext) · [官网](https://www.cloudwego.io/zh/docs/eino/core_modules/components/) · 组织维护 · 中文 README
 
 **Eino LLM 框架的官方扩展集合：组件实现、回调、DevOps 工具**
 
@@ -46,12 +46,12 @@ CloudWeGo（字节跳动）维护的 Eino 框架扩展仓库，收录 Eino 各�
 ```mermaid
 xychart-beta
     title "cloudwego/eino-ext 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 823 --> 838
-    line [824, 825, 827, 826, 827, 828, 830, 827, 835, 836, 837, 837]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 823 --> 839
+    line [824, 825, 827, 826, 827, 828, 830, 827, 835, 836, 837, 838]
 ```
 
-2026-10-18 824 → 2026-11-17 837（+13）
+2026-10-18 824 → 2026-11-18 838（+14）
 
 
 ---

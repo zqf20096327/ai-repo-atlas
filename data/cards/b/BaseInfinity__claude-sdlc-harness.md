@@ -1,6 +1,6 @@
 # BaseInfinity/claude-sdlc-harness
 
-⭐ 53 · Shell · 推送 2026-11-16 · [GitHub](https://github.com/BaseInfinity/claude-sdlc-harness) · [官网](https://www.npmjs.com/package/agentic-sdlc-wizard) · 个人维护
+⭐ 53 · Shell · 推送 2026-11-17 · [GitHub](https://github.com/BaseInfinity/claude-sdlc-harness) · [官网](https://www.npmjs.com/package/agentic-sdlc-wizard) · 个人维护
 
 **给 Claude Code 用户的 SDLC 强制执行系统：让 AI 编码前先规划、先测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BaseInfinity/claude-sdlc-harness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 50 --> 54
     line [51, 52, 53, 51, 53, 53]
 ```
 
-2026-10-18 51 → 2026-11-17 53（+2）
+2026-10-18 51 → 2026-11-18 53（+2）
 
 
 ---

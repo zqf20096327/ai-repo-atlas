@@ -1,6 +1,6 @@
 # huggingface/gym-hil
 
-⭐ 237 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gym-hil) · 组织维护
+⭐ 239 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gym-hil) · 组织维护
 
 **人在回路强化学习的 gymnasium 环境套件，兼容 LeRobot**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/gym-hil 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-17"]
-    y-axis "stars" 233 --> 239
-    line [234, 236, 237, 238, 237, 237]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-18"]
+    y-axis "stars" 233 --> 240
+    line [234, 236, 237, 238, 237, 239]
 ```
 
-2026-10-18 234 → 2026-11-17 237（+3）
+2026-10-18 234 → 2026-11-18 239（+5）
 
 
 ---

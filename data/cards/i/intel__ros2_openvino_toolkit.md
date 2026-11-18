@@ -1,6 +1,6 @@
 # intel/ros2_openvino_toolkit
 
-⭐ 189 · C++ · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/intel/ros2_openvino_toolkit) · 组织维护
+⭐ 189 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/intel/ros2_openvino_toolkit) · 组织维护
 
 **将 Intel OpenVINO 集成到 ROS 2 的深度学习视觉推理运行时框架**
 
@@ -45,12 +45,12 @@ Intel 维护的 ROS 2 工具与库集合，把 Intel OpenVINO 工具包封装为
 ```mermaid
 xychart-beta
     title "intel/ros2_openvino_toolkit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 186 --> 190
     line [187, 188, 187, 188, 189, 189]
 ```
 
-2026-10-18 187 → 2026-11-17 189（+2）
+2026-10-18 187 → 2026-11-18 189（+2）
 
 
 ---

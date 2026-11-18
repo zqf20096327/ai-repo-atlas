@@ -1,6 +1,6 @@
 # StormBrawlerSack/legwork-osint-ai-investigator
 
-⭐ 355 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) · [官网](https://awesomeosint.tools/legwork/) · 个人维护
+⭐ 452 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) · [官网](https://awesomeosint.tools/legwork/) · 个人维护
 
 **Windows 版 AI 开源情报调查员：逐句带出处的问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "StormBrawlerSack/legwork-osint-ai-investigator 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 54 --> 382
-    line [81, 205, 334, 355, 355]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 44 --> 489
+    line [81, 205, 334, 355, 452]
 ```
 
-2026-11-13 81 → 2026-11-17 355（+274）
+2026-11-13 81 → 2026-11-18 452（+371）
 
 
 ---

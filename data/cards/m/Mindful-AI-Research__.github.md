@@ -1,6 +1,6 @@
 # Mindful-AI-Research/.github
 
-⭐ 14 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mindful-AI-Research/.github) · [官网](https://mindful-ai-research.github.io/.github/) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mindful-AI-Research/.github) · [官网](https://mindful-ai-research.github.io/.github/) · 组织维护
 
 **Mindful AI 组织简介：面向企业的 AI 助手/Agent 与治理知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mindful-AI-Research/.github 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 14（+1）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

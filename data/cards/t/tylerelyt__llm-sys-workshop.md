@@ -1,6 +1,6 @@
 # tylerelyt/llm-sys-workshop
 
-⭐ 97 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tylerelyt/llm-sys-workshop) · 个人维护 · 中文 README
+⭐ 98 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tylerelyt/llm-sys-workshop) · 个人维护 · 中文 README
 
 **动手学习大模型系统的中文教程与实践仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tylerelyt/llm-sys-workshop 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-17"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-11-11", "2026-11-18"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-11-11 97 → 2026-11-17 97（+0）
+2026-11-11 97 → 2026-11-18 98（+1）
 
 
 ---

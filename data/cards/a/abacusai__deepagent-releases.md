@@ -1,6 +1,6 @@
 # abacusai/deepagent-releases
 
-⭐ 88 · 推送 2026-11-13 · [GitHub](https://github.com/abacusai/deepagent-releases) · [官网](https://desktop.abacus.ai) · 组织维护
+⭐ 88 · 推送 2026-11-17 · [GitHub](https://github.com/abacusai/deepagent-releases) · [官网](https://desktop.abacus.ai) · 组织维护
 
 **桌面 AI 助手：集成浏览、语音、编码 CLI 与编辑器**
 
@@ -44,12 +44,12 @@ Abacus AI 发布的桌面 AI 助手产品页，描述其具备 agentic 浏览、
 ```mermaid
 xychart-beta
     title "abacusai/deepagent-releases 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
     y-axis "stars" 86 --> 89
     line [87, 88, 88]
 ```
 
-2026-10-18 87 → 2026-11-17 88（+1）
+2026-10-18 87 → 2026-11-18 88（+1）
 
 
 ---

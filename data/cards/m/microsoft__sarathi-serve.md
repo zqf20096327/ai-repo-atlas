@@ -1,6 +1,6 @@
 # microsoft/sarathi-serve
 
-⭐ 537 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/microsoft/sarathi-serve) · 组织维护
+⭐ 538 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/sarathi-serve) · 组织维护
 
 **面向低延迟高吞吐的 LLM 推理服务引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/sarathi-serve 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 533 --> 538
-    line [534, 535, 536, 537, 537]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 533 --> 539
+    line [534, 535, 536, 537, 538]
 ```
 
-2026-10-18 534 → 2026-11-17 537（+3）
+2026-10-18 534 → 2026-11-18 538（+4）
 
 
 ---

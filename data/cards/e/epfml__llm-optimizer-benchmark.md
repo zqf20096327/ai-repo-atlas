@@ -1,6 +1,6 @@
 # epfml/llm-optimizer-benchmark
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/epfml/llm-optimizer-benchmark) · [官网](https://arxiv.org/abs/2509.01440) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/epfml/llm-optimizer-benchmark) · [官网](https://arxiv.org/abs/2509.01440) · 组织维护
 
 **LLM 预训练优化器基准评测代码库（附论文）**
 
@@ -46,12 +46,12 @@ EPFL 团队发布的 LLM 预训练优化器评测代码库，基于 nanoGPT 扩�
 ```mermaid
 xychart-beta
     title "epfml/llm-optimizer-benchmark 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 60, 61, 62]
 ```
 
-2026-10-18 60 → 2026-11-17 61（+1）
+2026-10-18 60 → 2026-11-18 62（+2）
 
 
 ---

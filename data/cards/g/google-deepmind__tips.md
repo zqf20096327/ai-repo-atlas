@@ -1,6 +1,6 @@
 # google-deepmind/tips
 
-⭐ 644 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/google-deepmind/tips) · [官网](https://gdm-tipsv2.github.io/) · 组织维护
+⭐ 645 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/google-deepmind/tips) · [官网](https://gdm-tipsv2.github.io/) · 组织维护
 
 **带空间感知的图文预训练视觉编码器模型实现与权重**
 
@@ -45,12 +45,12 @@ DeepMind 发布的 TIPS/TIPSv2 图文预训练模型代码库：提供 PyTorch �
 ```mermaid
 xychart-beta
     title "google-deepmind/tips 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 638 --> 645
-    line [639, 640, 641, 639, 642, 643, 644, 644]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 638 --> 646
+    line [639, 640, 641, 639, 642, 643, 644, 645]
 ```
 
-2026-10-18 639 → 2026-11-17 644（+5）
+2026-10-18 639 → 2026-11-18 645（+6）
 
 
 ---

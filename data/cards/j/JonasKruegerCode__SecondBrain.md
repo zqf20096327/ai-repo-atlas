@@ -1,6 +1,6 @@
 # JonasKruegerCode/SecondBrain
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/JonasKruegerCode/SecondBrain) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JonasKruegerCode/SecondBrain) · 个人维护
 
 **面向 MCP 智能体的持久记忆服务器：跨会话存取知识**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JonasKruegerCode/SecondBrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 11 --> 15
     line [12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-17 14（+2）
+2026-10-18 12 → 2026-11-18 14（+2）
 
 
 ---

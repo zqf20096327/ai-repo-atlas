@@ -1,6 +1,6 @@
 # BrowserOperator/browser-operator-core
 
-⭐ 515 · TypeScript · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/BrowserOperator/browser-operator-core) · [官网](https://browseroperator.io/) · 组织维护
+⭐ 515 · TypeScript · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/BrowserOperator/browser-operator-core) · [官网](https://browseroperator.io/) · 组织维护
 
 **开源 AI 浏览器：内置多 Agent 平台做网页研究与自动化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BrowserOperator/browser-operator-core 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 512 --> 517
     line [514, 515, 516, 515, 516, 515, 514, 513, 514, 515, 515]
 ```
 
-2026-10-18 514 → 2026-11-17 515（+1）
+2026-10-18 514 → 2026-11-18 515（+1）
 
 
 ---

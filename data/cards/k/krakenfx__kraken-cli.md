@@ -1,6 +1,6 @@
 # krakenfx/kraken-cli
 
-⭐ 812 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/krakenfx/kraken-cli) · [官网](https://kraken.com/kraken-cli) · 组织维护
+⭐ 813 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/krakenfx/kraken-cli) · [官网](https://kraken.com/kraken-cli) · 组织维护
 
 **Kraken 官方加密货币/股票/外汇/期货交易 CLI，内置 MCP 服务器**
 
@@ -46,12 +46,12 @@ Kraken 官方发布的终端交易工具：一个安装包含 kraken、kraken-mc
 ```mermaid
 xychart-beta
     title "krakenfx/kraken-cli 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 806 --> 813
-    line [807, 809, 812, 812]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 806 --> 814
+    line [807, 809, 812, 813]
 ```
 
-2026-11-10 807 → 2026-11-17 812（+5）
+2026-11-10 807 → 2026-11-18 813（+6）
 
 
 ---

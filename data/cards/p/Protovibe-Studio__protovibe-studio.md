@@ -1,6 +1,6 @@
 # Protovibe-Studio/protovibe-studio
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Protovibe-Studio/protovibe-studio) · [官网](https://protovibe-studio.github.io/) · 组织维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Protovibe-Studio/protovibe-studio) · [官网](https://protovibe-studio.github.io/) · 组织维护
 
 **面向 React+Tailwind 的可视化 Web 构建器，可搭配自有 AI agent**
 
@@ -45,12 +45,12 @@ Protovibe Studio 是一个可视化编辑的 Web 构建工具，用于快速创�
 ```mermaid
 xychart-beta
     title "Protovibe-Studio/protovibe-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 13（+1）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

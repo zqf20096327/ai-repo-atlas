@@ -1,6 +1,6 @@
 # mcsee/Software-Design-Articles
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/mcsee/Software-Design-Articles) · [官网](https://maximilianocontieri.com/) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mcsee/Software-Design-Articles) · [官网](https://maximilianocontieri.com/) · 个人维护
 
 **软件设计文章目录：代码坏味道、重构、TDD 等主题文章链接合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mcsee/Software-Design-Articles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-17 23（+1）
+2026-10-18 22 → 2026-11-18 23（+1）
 
 
 ---

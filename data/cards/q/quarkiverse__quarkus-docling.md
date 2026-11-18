@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-docling
 
-⭐ 22 · Java · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/quarkiverse/quarkus-docling) · [官网](https://docs.quarkiverse.io/quarkus-docling/dev) · 组织维护
+⭐ 22 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/quarkiverse/quarkus-docling) · [官网](https://docs.quarkiverse.io/quarkus-docling/dev) · 组织维护
 
 **Quarkus 的 Docling 文档解析扩展，接入 RAG 数据摄取**
 
@@ -43,12 +43,12 @@ Quarkiverse 维护的 Quarkus 扩展，封装 Docling Java 项目，通过 REST 
 ```mermaid
 xychart-beta
     title "quarkiverse/quarkus-docling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-11-17 22（+0）
+2026-10-18 22 → 2026-11-18 22（+0）
 
 
 ---

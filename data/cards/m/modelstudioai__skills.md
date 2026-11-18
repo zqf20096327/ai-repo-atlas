@@ -1,6 +1,6 @@
 # modelstudioai/skills
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelstudioai/skills) · [官网](https://modelstudioai.github.io/skills/) · 组织维护 · 中文 README
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/modelstudioai/skills) · [官网](https://modelstudioai.github.io/skills/) · 组织维护 · 中文 README
 
 **阿里云百炼官方 Agent Skills 技能仓库与策展索引**
 
@@ -46,12 +46,12 @@ ModelStudio 团队维护的 Agent Skills 集合，分两类：一方技能（本
 ```mermaid
 xychart-beta
     title "modelstudioai/skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 56 --> 60
     line [57, 58, 57, 59, 59]
 ```
 
-2026-10-18 57 → 2026-11-17 59（+2）
+2026-10-18 57 → 2026-11-18 59（+2）
 
 
 ---

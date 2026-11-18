@@ -1,6 +1,6 @@
 # 0x-elfateh1/claude-code-deepseek
 
-⭐ 28 · Vim Snippet · MIT · 推送 2026-06-05 · [GitHub](https://github.com/0x-elfateh1/claude-code-deepseek) · 个人维护
+⭐ 29 · Vim Snippet · MIT · 推送 2026-06-05 · [GitHub](https://github.com/0x-elfateh1/claude-code-deepseek) · 个人维护
 
 **用 DeepSeek 的 Anthropic 兼容 API 运行 Claude Code 的配置指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0x-elfateh1/claude-code-deepseek 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-11-17 28（+1）
+2026-10-18 27 → 2026-11-18 29（+2）
 
 
 ---

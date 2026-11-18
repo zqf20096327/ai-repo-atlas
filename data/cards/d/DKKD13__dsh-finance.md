@@ -1,6 +1,6 @@
 # DKKD13/dsh-finance
 
-⭐ 161 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/DKKD13/dsh-finance) · 个人维护 · 中文 README
+⭐ 167 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/DKKD13/dsh-finance) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的金融研究插件：Skills、资料库与模拟基金**
 
@@ -46,12 +46,12 @@ DKKD13 个人开发的第三方 DeepSeek Harness 插件，与 DeepSeek 官方无
 ```mermaid
 xychart-beta
     title "DKKD13/dsh-finance 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 0 --> 176
-    line [3, 124, 126, 127, 145, 151, 161, 161]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 0 --> 183
+    line [3, 124, 126, 127, 145, 151, 161, 167]
 ```
 
-2026-11-02 3 → 2026-11-17 161（+158）
+2026-11-02 3 → 2026-11-18 167（+164）
 
 
 ---

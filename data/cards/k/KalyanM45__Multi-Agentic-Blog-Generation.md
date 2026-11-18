@@ -1,6 +1,6 @@
 # KalyanM45/Multi-Agentic-Blog-Generation
 
-⭐ 35 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/KalyanM45/Multi-Agentic-Blog-Generation) · [官网](https://kalyanm45.github.io/BlogBoard-AI-Blog-Generator/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/KalyanM45/Multi-Agentic-Blog-Generation) · [官网](https://kalyanm45.github.io/BlogBoard-AI-Blog-Generator/) · 个人维护
 
 **自动生成并发布技术博客文章的 AI 写作平台**
 
@@ -45,12 +45,12 @@ BlogBoard 是端到端自动化博客平台：通过 LangGraph 执行有状态�
 ```mermaid
 xychart-beta
     title "KalyanM45/Multi-Agentic-Blog-Generation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-11-17 35（+1）
+2026-10-18 34 → 2026-11-18 36（+2）
 
 
 ---

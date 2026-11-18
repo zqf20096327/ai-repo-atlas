@@ -1,6 +1,6 @@
 # MOSSLab-MIT/FSNet
 
-⭐ 48 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/MOSSLab-MIT/FSNet) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/MOSSLab-MIT/FSNet) · 个人维护
 
 **将可行性搜索步嵌入求解过程的带约束优化神经网络**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "MOSSLab-MIT/FSNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 49]
 ```
 
-2026-10-18 47 → 2026-11-17 48（+1）
+2026-10-18 47 → 2026-11-18 49（+2）
 
 
 ---

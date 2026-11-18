@@ -1,6 +1,6 @@
 # elevanaltd/octave-mcp
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/elevanaltd/octave-mcp) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/elevanaltd/octave-mcp) · 组织维护
 
 **LLM 结构化文档基础设施：OCTAVE 格式 MCP 服务器与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elevanaltd/octave-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-10", "2026-11-12", "2026-11-18"]
     y-axis "stars" 51 --> 56
     line [55, 54, 53, 52, 52]
 ```
 
-2026-10-18 55 → 2026-11-17 52（-3）
+2026-10-18 55 → 2026-11-18 52（-3）
 
 
 ---

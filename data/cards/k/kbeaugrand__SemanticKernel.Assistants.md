@@ -1,6 +1,6 @@
 # kbeaugrand/SemanticKernel.Assistants
 
-⭐ 114 · C# · MIT · 推送 2025-11-21 · [GitHub](https://github.com/kbeaugrand/SemanticKernel.Assistants) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Semantic Kernel 的 Assistants 框架：本地运行助手，不依赖 OpenAI Assistant API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

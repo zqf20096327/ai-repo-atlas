@@ -1,6 +1,6 @@
 # bitkaio/migratowl
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bitkaio/migratowl) · [官网](https://migratowl.bitkaio.com) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/bitkaio/migratowl) · [官网](https://migratowl.bitkaio.com) · 组织维护
 
 **AI 依赖升级分析器：沙箱实测并解释依赖升级是否会破坏项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bitkaio/migratowl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

@@ -46,12 +46,12 @@ SAP 官方 samples 账号下的 CodeJam 培训内容仓库：通过 10 个顺序
 ```mermaid
 xychart-beta
     title "SAP-samples/codejam-cap-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-17 33（+0）
+2026-10-18 33 → 2026-11-18 33（+0）
 
 
 ---

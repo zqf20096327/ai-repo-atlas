@@ -1,6 +1,6 @@
 # x1xhlol/better-clawd
 
-⭐ 437 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/x1xhlol/better-clawd) · [官网](https://better-clawd.dev) · 个人维护
+⭐ 438 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/x1xhlol/better-clawd) · [官网](https://better-clawd.dev) · 个人维护
 
 **Claude Code 的社区分支：多提供商接入、去遥测的编码 CLI**
 
@@ -44,12 +44,12 @@ Claude Code 的独立非官方 fork，保留原有 CLI 交互体验，移除遥�
 ```mermaid
 xychart-beta
     title "x1xhlol/better-clawd 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 432 --> 438
-    line [434, 433, 435, 433, 436, 437, 437]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 432 --> 439
+    line [434, 433, 435, 433, 436, 437, 438]
 ```
 
-2026-10-18 434 → 2026-11-17 437（+3）
+2026-10-18 434 → 2026-11-18 438（+4）
 
 
 ---

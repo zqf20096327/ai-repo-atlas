@@ -1,6 +1,6 @@
 # sspaeti/obsidian-note-taking-assistant
 
-⭐ 68 · Python · 推送 2026-08-02 · [GitHub](https://github.com/sspaeti/obsidian-note-taking-assistant) · [官网](https://explore.ssp.sh) · 个人维护
+⭐ 69 · Python · 推送 2026-08-02 · [GitHub](https://github.com/sspaeti/obsidian-note-taking-assistant) · [官网](https://explore.ssp.sh) · 个人维护
 
 **本地优先的 Obsidian 笔记 RAG 检索系统：语义+图谱查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sspaeti/obsidian-note-taking-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69]
 ```
 
-2026-10-18 67 → 2026-11-17 68（+1）
+2026-10-18 67 → 2026-11-18 69（+2）
 
 
 ---

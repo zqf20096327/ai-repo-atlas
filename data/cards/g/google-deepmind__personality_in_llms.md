@@ -45,12 +45,12 @@ DeepMind 论文《Personality Traits in Large Language Models》的官方复现�
 ```mermaid
 xychart-beta
     title "google-deepmind/personality_in_llms 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 49 --> 52
     line [50, 51, 50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-11-17 51（+1）
+2026-10-18 50 → 2026-11-18 51（+1）
 
 
 ---

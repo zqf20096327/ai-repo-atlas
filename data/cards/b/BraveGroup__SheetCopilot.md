@@ -1,6 +1,6 @@
 # BraveGroup/SheetCopilot
 
-⭐ 166 · Python · GPL-3.0 · 推送 2026-06-25 · [GitHub](https://github.com/BraveGroup/SheetCopilot) · [官网](https://sheetcopilot.github.io/) · 组织维护
+⭐ 165 · Python · GPL-3.0 · 推送 2026-06-25 · [GitHub](https://github.com/BraveGroup/SheetCopilot) · [官网](https://sheetcopilot.github.io/) · 组织维护
 
 **用 LLM 按自然语言指令操控 Excel/Google Sheets 的闭环 agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BraveGroup/SheetCopilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 164 --> 167
-    line [165, 166, 166]
+    line [165, 166, 165]
 ```
 
-2026-10-18 165 → 2026-11-17 166（+1）
+2026-10-18 165 → 2026-11-18 165（+0）
 
 
 ---

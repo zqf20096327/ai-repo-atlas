@@ -1,6 +1,6 @@
 # ochornenko/virtual-background-android
 
-⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/ochornenko/virtual-background-android) · 个人维护
+⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ochornenko/virtual-background-android) · 个人维护
 
 **Android 实时虚拟背景示例应用：人像分割后替换背景**
 
@@ -45,12 +45,12 @@ Android 示例应用，用 TensorFlow Lite 的 selfie_segmenter.tflite 模型做
 ```mermaid
 xychart-beta
     title "ochornenko/virtual-background-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

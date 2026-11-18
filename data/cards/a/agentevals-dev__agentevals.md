@@ -1,6 +1,6 @@
 # agentevals-dev/agentevals
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/agentevals-dev/agentevals) · [官网](https://aevals.ai/) · 组织维护
+⭐ 170 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/agentevals-dev/agentevals) · [官网](https://aevals.ai/) · 组织维护
 
 **基于 OpenTelemetry 追踪的 AI agent 评测工具，无需重跑或专用 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentevals-dev/agentevals 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 163 --> 170
-    line [164, 166, 167, 166, 169, 169]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 163 --> 171
+    line [164, 166, 167, 166, 169, 170]
 ```
 
-2026-10-18 164 → 2026-11-17 169（+5）
+2026-10-18 164 → 2026-11-18 170（+6）
 
 
 ---

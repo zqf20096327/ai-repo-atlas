@@ -1,6 +1,6 @@
 # doublewordai/control-layer
 
-⭐ 96 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/doublewordai/control-layer) · [官网](https://doublewordai.github.io/control-layer/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 模型网关：统一路由、鉴权与管理多端点模型访问**
 
@@ -11,7 +11,7 @@ Doubleword 维护的开源 AI 模型网关（dwctl），为跨模型提供商（
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

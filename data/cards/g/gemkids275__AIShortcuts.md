@@ -1,6 +1,6 @@
 # gemkids275/AIShortcuts
 
-⭐ 13 · Swift · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/gemkids275/AIShortcuts) · [官网](https://aishortcuts.github.io/) · 个人维护
+⭐ 14 · Swift · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/gemkids275/AIShortcuts) · [官网](https://aishortcuts.github.io/) · 个人维护
 
 **系统级 AI 写作助手：任意应用选中文字按热键就地润色/改写/摘要**
 
@@ -46,12 +46,12 @@ WritingTools 的 fork，由个人维护。在 macOS/Windows/Linux 上运行：�
 ```mermaid
 xychart-beta
     title "gemkids275/AIShortcuts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 13, 13]
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14]
 ```
 
-2026-10-18 11 → 2026-11-17 13（+2）
+2026-10-18 11 → 2026-11-18 14（+3）
 
 
 ---

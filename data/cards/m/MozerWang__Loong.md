@@ -1,6 +1,6 @@
 # MozerWang/Loong
 
-⭐ 154 · Python · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/MozerWang/Loong) · 组织维护 · 中文 README
+⭐ 155 · Python · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/MozerWang/Loong) · 组织维护 · 中文 README
 
 **长上下文 LLM 评测基准：扩展多文档问答（中英文）**
 
@@ -45,12 +45,12 @@ EMNLP 2024 论文的配套代码与数据集：Loong 基准面向扩展多文档
 ```mermaid
 xychart-beta
     title "MozerWang/Loong 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 153 --> 155
-    line [154, 154]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 153 --> 156
+    line [154, 155]
 ```
 
-2026-10-18 154 → 2026-11-17 154（+0）
+2026-10-18 154 → 2026-11-18 155（+1）
 
 
 ---

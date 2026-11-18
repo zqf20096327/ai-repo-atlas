@@ -1,6 +1,6 @@
 # weitse-hsu/MDArena
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/weitse-hsu/MDArena) · [官网](https://github.com/weitse-hsu/MDArena) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/weitse-hsu/MDArena) · [官网](https://github.com/weitse-hsu/MDArena) · 组织维护
 
 **评估 AI agent 在分子动力学工作流上表现的基准（50 任务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weitse-hsu/MDArena 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 11, 15, 15]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 11, 15, 16]
 ```
 
-2026-10-18 11 → 2026-11-17 15（+4）
+2026-10-18 11 → 2026-11-18 16（+5）
 
 
 ---

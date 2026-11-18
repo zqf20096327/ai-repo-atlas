@@ -1,6 +1,6 @@
 # Juneo-Lab/decision-forge
 
-⭐ 387 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Juneo-Lab/decision-forge) · [官网](https://juneo-lab.github.io/decision-forge/) · 组织维护 · 中文 README
+⭐ 388 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Juneo-Lab/decision-forge) · [官网](https://juneo-lab.github.io/decision-forge/) · 组织维护 · 中文 README
 
 **把组织政策文档编译为可验证的决策训练数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Juneo-Lab/decision-forge 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 0 --> 422
-    line [29, 145, 212, 260, 327, 387, 387]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 0 --> 423
+    line [29, 145, 212, 260, 327, 387, 388]
 ```
 
-2026-11-02 29 → 2026-11-17 387（+358）
+2026-11-02 29 → 2026-11-18 388（+359）
 
 
 ---

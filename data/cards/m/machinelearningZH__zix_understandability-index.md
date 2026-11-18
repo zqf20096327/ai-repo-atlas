@@ -1,6 +1,6 @@
 # machinelearningZH/zix_understandability-index
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/machinelearningZH/zix_understandability-index) · 组织维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/machinelearningZH/zix_understandability-index) · 组织维护
 
 **测德语文本可理解度的 ZIX 指数包，输出难度分数与 CEFR 级别**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "machinelearningZH/zix_understandability-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

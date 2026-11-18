@@ -45,12 +45,12 @@ Adsum Networks 开发的 VS Code 扩展：在 Espressif ESP-IDF 与 Nordic nRF C
 ```mermaid
 xychart-beta
     title "adsumnetworks/Adsum-IoT-Coder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-11-17 28（+1）
+2026-10-18 27 → 2026-11-18 28（+1）
 
 
 ---

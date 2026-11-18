@@ -1,6 +1,6 @@
 # kawayiYokami/P-ai
 
-⭐ 108 · Rust · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/kawayiYokami/P-ai) · [官网](https://github.com/kawayiYokami/P-ai) · 个人维护 · 中文 README
+⭐ 108 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kawayiYokami/P-ai) · [官网](https://github.com/kawayiYokami/P-ai) · 个人维护 · 中文 README
 
 **开箱即用的桌面 AI 助理：长期任务、记忆与高并发工作区自动化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kawayiYokami/P-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 104 --> 110
     line [105, 107, 109, 108, 108]
 ```
 
-2026-10-18 105 → 2026-11-17 108（+3）
+2026-10-18 105 → 2026-11-18 108（+3）
 
 
 ---

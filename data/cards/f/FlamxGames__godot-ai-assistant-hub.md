@@ -1,6 +1,6 @@
 # FlamxGames/godot-ai-assistant-hub
 
-⭐ 322 · GDScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/FlamxGames/godot-ai-assistant-hub) · 个人维护
+⭐ 323 · GDScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/FlamxGames/godot-ai-assistant-hub) · 个人维护
 
 **在 Godot 编辑器内嵌入 AI 编程助手的插件**
 
@@ -45,12 +45,12 @@ Godot 编辑器插件，作为 Godot 与 LLM 提供方（Ollama、llama.cpp、Ge
 ```mermaid
 xychart-beta
     title "FlamxGames/godot-ai-assistant-hub 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 317 --> 323
-    line [318, 319, 320, 319, 318, 319, 321, 322, 322]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 317 --> 324
+    line [318, 319, 320, 319, 318, 319, 321, 322, 323]
 ```
 
-2026-10-18 318 → 2026-11-17 322（+4）
+2026-10-18 318 → 2026-11-18 323（+5）
 
 
 ---

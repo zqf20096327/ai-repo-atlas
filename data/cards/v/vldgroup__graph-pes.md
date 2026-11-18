@@ -1,6 +1,6 @@
 # vldgroup/graph-pes
 
-⭐ 131 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/vldgroup/graph-pes) · [官网](https://vldgroup.github.io/graph-pes/) · 组织维护
+⭐ 132 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/vldgroup/graph-pes) · [官网](https://vldgroup.github.io/graph-pes/) · 组织维护
 
 **构建、训练与部署机器学习势能面模型的框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vldgroup/graph-pes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-18 131 → 2026-11-17 131（+0）
+2026-10-18 131 → 2026-11-18 132（+1）
 
 
 ---

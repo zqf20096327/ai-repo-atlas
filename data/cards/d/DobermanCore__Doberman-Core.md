@@ -1,6 +1,6 @@
 # DobermanCore/Doberman-Core
 
-⭐ 244 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/DobermanCore/Doberman-Core) · [官网](https://pypi.org/project/doberman-core/) · 组织维护
+⭐ 245 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/DobermanCore/Doberman-Core) · [官网](https://pypi.org/project/doberman-core/) · 组织维护
 
 **AI 编程 agent 的运行时授权与防护代理：拦截危险工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DobermanCore/Doberman-Core 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18"]
     y-axis "stars" 240 --> 285
-    line [282, 275, 276, 277, 275, 247, 243, 244, 244]
+    line [282, 275, 276, 277, 275, 247, 243, 244, 245]
 ```
 
-2026-10-18 282 → 2026-11-17 244（-38）
+2026-10-18 282 → 2026-11-18 245（-37）
 
 
 ---

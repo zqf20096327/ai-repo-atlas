@@ -1,6 +1,6 @@
 # microsoft/onnxconverter-common
 
-⭐ 308 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/onnxconverter-common) · [官网](https://pypi.org/project/onnxconverter-common) · 组织维护
+⭐ 309 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/onnxconverter-common) · [官网](https://pypi.org/project/onnxconverter-common) · 组织维护
 
 **AI 框架转 ONNX 模型转换器的通用工具库**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/onnxconverter-common 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 307 --> 309
-    line [308, 308]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 307 --> 310
+    line [308, 309]
 ```
 
-2026-10-18 308 → 2026-11-17 308（+0）
+2026-10-18 308 → 2026-11-18 309（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Blazor Web App 与 Minimal API 示例：加载 PDF/DOCX/TXT/MD 文档，生成�
 ```mermaid
 xychart-beta
     title "marcominerva/SqlDatabaseVectorSearch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-18"]
     y-axis "stars" 143 --> 147
     line [144, 145, 146, 146]
 ```
 
-2026-10-18 144 → 2026-11-17 146（+2）
+2026-10-18 144 → 2026-11-18 146（+2）
 
 
 ---

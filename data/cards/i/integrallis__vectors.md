@@ -1,6 +1,6 @@
 # integrallis/vectors
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/integrallis/vectors) · [官网](https://integrallis.github.io/vectors/) · 组织维护
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/integrallis/vectors) · [官网](https://integrallis.github.io/vectors/) · 组织维护
 
 **面向 JVM 的嵌入式向量搜索与持久化库（Java 25）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "integrallis/vectors 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 18（+0）
 
 
 ---

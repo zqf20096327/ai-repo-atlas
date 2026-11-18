@@ -1,6 +1,6 @@
 # Avazbek22/DevProjex
 
-⭐ 41 · C# · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Avazbek22/DevProjex) · [官网](https://apps.microsoft.com/detail/9ndq3nq5m354) · 个人维护
+⭐ 41 · C# · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Avazbek22/DevProjex) · [官网](https://apps.microsoft.com/detail/9ndq3nq5m354) · 个人维护
 
 **把文件夹/Git 仓库变成脱敏、省 token 的 AI 上下文的桌面/TUI/CLI/MCP 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Avazbek22/DevProjex 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 35 --> 42
     line [36, 37, 38, 39, 37, 40, 41, 41]
 ```
 
-2026-10-18 36 → 2026-11-17 41（+5）
+2026-10-18 36 → 2026-11-18 41（+5）
 
 
 ---

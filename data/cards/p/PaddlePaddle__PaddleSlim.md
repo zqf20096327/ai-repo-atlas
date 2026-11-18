@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSlim
 
-⭐ 1,612 · Python · Apache-2.0 · 推送 2026-01-04 · [GitHub](https://github.com/PaddlePaddle/PaddleSlim) · [官网](https://paddleslim.readthedocs.io/zh_CN/latest/) · 组织维护 · 中文 README
+⭐ 1,613 · Python · Apache-2.0 · 推送 2026-01-04 · [GitHub](https://github.com/PaddlePaddle/PaddleSlim) · [官网](https://paddleslim.readthedocs.io/zh_CN/latest/) · 组织维护 · 中文 README
 
 **面向开发者的深度学习模型压缩工具库（量化/蒸馏/剪枝/NAS）**
 
@@ -46,12 +46,12 @@ PaddlePaddle 生态下的模型压缩库，提供低比特量化（QAT/PTQ/Embed
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleSlim 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-18"]
     y-axis "stars" 1610 --> 1615
-    line [1611, 1612, 1611, 1614, 1613, 1612, 1612]
+    line [1611, 1612, 1611, 1614, 1613, 1612, 1613]
 ```
 
-2026-10-18 1,611 → 2026-11-17 1,612（+1）
+2026-10-18 1,611 → 2026-11-18 1,613（+2）
 
 
 ---

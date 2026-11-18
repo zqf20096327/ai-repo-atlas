@@ -1,6 +1,6 @@
 # microsoft/copilot-brag-sheet
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/copilot-brag-sheet) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/copilot-brag-sheet) · 组织维护
 
 **自动记录 Copilot CLI 编码会话为结构化工作成果日志的扩展**
 
@@ -46,12 +46,12 @@ GitHub Copilot CLI 扩展（joinSession 扩展，非插件），在会话中后�
 ```mermaid
 xychart-beta
     title "microsoft/copilot-brag-sheet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 12（+1）
 
 
 ---

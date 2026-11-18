@@ -1,6 +1,6 @@
 # Python-IDE/PythonIDE-iOS
 
-⭐ 92 · 推送 2026-11-13 · [GitHub](https://github.com/Python-IDE/PythonIDE-iOS) · [官网](https://pythonide.xin/) · 组织维护 · 中文 README
+⭐ 92 · 推送 2026-11-17 · [GitHub](https://github.com/Python-IDE/PythonIDE-iOS) · [官网](https://pythonide.xin/) · 组织维护 · 中文 README
 
 **在 iPhone/iPad 上本地开发 Python 与 Web 的 IDE 应用，含 AI Agent**
 
@@ -46,12 +46,12 @@ App Store 发行的 iOS/iPadOS 开发工作台：内置 Python 3.14.6 运行时�
 ```mermaid
 xychart-beta
     title "Python-IDE/PythonIDE-iOS 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-11", "2026-11-18"]
     y-axis "stars" 89 --> 93
     line [91, 90, 91, 92, 91, 92, 92]
 ```
 
-2026-10-18 91 → 2026-11-17 92（+1）
+2026-10-18 91 → 2026-11-18 92（+1）
 
 
 ---

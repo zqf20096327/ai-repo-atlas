@@ -1,6 +1,6 @@
 # ToseaAI/llm-fingerprint-detector
 
-⭐ 46 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/ToseaAI/llm-fingerprint-detector) · [官网](https://tosea.ai/free-tools/llm-api-fingerprint-checker) · 组织维护
+⭐ 47 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/ToseaAI/llm-fingerprint-detector) · [官网](https://tosea.ai/free-tools/llm-api-fingerprint-checker) · 组织维护
 
 **核验 OpenAI 兼容 API 实际服务哪个 LLM 的指纹检测库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ToseaAI/llm-fingerprint-detector 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 36 --> 47
-    line [37, 39, 40, 41, 42, 40, 44, 45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 36 --> 48
+    line [37, 39, 40, 41, 42, 40, 44, 45, 46, 47]
 ```
 
-2026-10-18 37 → 2026-11-17 46（+9）
+2026-10-18 37 → 2026-11-18 47（+10）
 
 
 ---

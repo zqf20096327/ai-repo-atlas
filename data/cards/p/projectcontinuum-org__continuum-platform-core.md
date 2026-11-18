@@ -1,6 +1,6 @@
 # projectcontinuum-org/continuum-platform-core
 
-⭐ 12 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/projectcontinuum-org/continuum-platform-core) · [官网](https://projectcontinuum.org) · 组织维护
+⭐ 12 · Kotlin · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/projectcontinuum-org/continuum-platform-core) · [官网](https://projectcontinuum.org) · 组织维护
 
 **云端可视化工作流引擎核心后端：跑 ML/化学/ETL 流程，崩溃可恢复**
 
@@ -46,12 +46,12 @@ Project Continuum 的核心后端 monorepo，提供 API 服务器（管理工作
 ```mermaid
 xychart-beta
     title "projectcontinuum-org/continuum-platform-core 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 9 --> 13
     line [10, 12, 10, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-17 12（+2）
+2026-10-18 10 → 2026-11-18 12（+2）
 
 
 ---

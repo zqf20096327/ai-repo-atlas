@@ -1,6 +1,6 @@
 # SupraSummus/prompt-wars
 
-⭐ 12 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SupraSummus/prompt-wars) · [官网](https://promptwars.io) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SupraSummus/prompt-wars) · [官网](https://promptwars.io) · 个人维护
 
 **受 Core War 启发的 LLM 提示词对战游戏**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SupraSummus/prompt-wars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

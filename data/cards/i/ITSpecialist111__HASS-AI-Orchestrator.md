@@ -1,6 +1,6 @@
 # ITSpecialist111/HASS-AI-Orchestrator
 
-⭐ 58 · Python · 推送 2026-07-11 · [GitHub](https://github.com/ITSpecialist111/HASS-AI-Orchestrator) · [官网](https://github.com/ITSpecialist111/HASS-AI-Orchestrator) · 个人维护
+⭐ 59 · Python · 推送 2026-07-11 · [GitHub](https://github.com/ITSpecialist111/HASS-AI-Orchestrator) · [官网](https://github.com/ITSpecialist111/HASS-AI-Orchestrator) · 个人维护
 
 **Home Assistant 的多 agent 推理与策略编排层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ITSpecialist111/HASS-AI-Orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-11-17 58（+0）
+2026-10-18 58 → 2026-11-18 59（+1）
 
 
 ---

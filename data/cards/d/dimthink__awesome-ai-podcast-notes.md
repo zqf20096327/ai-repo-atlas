@@ -1,6 +1,6 @@
 # dimthink/awesome-ai-podcast-notes
 
-⭐ 12 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/dimthink/awesome-ai-podcast-notes) · 个人维护 · 中文 README
+⭐ 12 · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/dimthink/awesome-ai-podcast-notes) · 个人维护 · 中文 README
 
 **AI 长播客/YouTube 深度笔记开放资料库（983 篇）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dimthink/awesome-ai-podcast-notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-18 10 → 2026-11-17 12（+2）
+2026-10-18 10 → 2026-11-18 12（+2）
 
 
 ---

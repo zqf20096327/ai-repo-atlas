@@ -1,6 +1,6 @@
 # unitagain/WenShape
 
-⭐ 420 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/unitagain/WenShape) · [官网](https://wenshape.cn) · 个人维护 · 中文 README
+⭐ 419 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/unitagain/WenShape) · [官网](https://wenshape.cn) · 个人维护 · 中文 README
 
 **面向中长篇小说创作的智能体写作系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "unitagain/WenShape 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-18"]
     y-axis "stars" 416 --> 421
-    line [417, 418, 419, 420, 419, 420, 420]
+    line [417, 418, 419, 420, 419, 420, 419]
 ```
 
-2026-10-18 417 → 2026-11-17 420（+3）
+2026-10-18 417 → 2026-11-18 419（+2）
 
 
 ---

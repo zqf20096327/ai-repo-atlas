@@ -1,6 +1,6 @@
 # gxCaesar/open-research-skills
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/gxCaesar/open-research-skills) · [官网](https://github.com/gxCaesar/open-research-skills#tasks) · 个人维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/gxCaesar/open-research-skills) · [官网](https://github.com/gxCaesar/open-research-skills#tasks) · 个人维护 · 中文 README
 
 **科研全流程的十个可独立安装 agent skill 工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gxCaesar/open-research-skills 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 54 --> 68
-    line [55, 56, 57, 58, 59, 61, 62, 63, 58, 63, 64, 65, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 54 --> 69
+    line [55, 56, 57, 58, 59, 61, 62, 63, 58, 63, 64, 65, 66, 67, 68]
 ```
 
-2026-10-18 55 → 2026-11-17 67（+12）
+2026-10-18 55 → 2026-11-18 68（+13）
 
 
 ---

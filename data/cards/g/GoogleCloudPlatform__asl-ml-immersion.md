@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/asl-ml-immersion
 
-⭐ 2,618 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/GoogleCloudPlatform/asl-ml-immersion) · 组织维护
+⭐ 2,617 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/GoogleCloudPlatform/asl-ml-immersion) · 组织维护
 
 **Google Cloud 上的 AI/ML 与生成式 AI 培训课程代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/asl-ml-immersion 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-12", "2026-11-15", "2026-11-18"]
     y-axis "stars" 2612 --> 2619
-    line [2613, 2614, 2615, 2616, 2615, 2616, 2617, 2616, 2617, 2618, 2618]
+    line [2613, 2614, 2615, 2616, 2615, 2616, 2617, 2616, 2617, 2618, 2617]
 ```
 
-2026-10-18 2,613 → 2026-11-17 2,618（+5）
+2026-10-18 2,613 → 2026-11-18 2,617（+4）
 
 
 ---

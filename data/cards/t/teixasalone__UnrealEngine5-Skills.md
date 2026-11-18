@@ -1,6 +1,6 @@
 # teixasalone/UnrealEngine5-Skills
 
-⭐ 20 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/teixasalone/UnrealEngine5-Skills) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/teixasalone/UnrealEngine5-Skills) · 个人维护
 
 **面向 UE 5.6/5.7 的可复用开发工作流技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "teixasalone/UnrealEngine5-Skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 19, 20, 22]
 ```
 
-2026-10-18 19 → 2026-11-17 20（+1）
+2026-10-18 19 → 2026-11-18 22（+3）
 
 
 ---

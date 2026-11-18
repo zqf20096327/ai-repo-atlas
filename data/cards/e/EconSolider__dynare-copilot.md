@@ -1,6 +1,6 @@
 # EconSolider/dynare-copilot
 
-⭐ 25 · AMPL · MIT · 推送 2026-07-16 · [GitHub](https://github.com/EconSolider/dynare-copilot) · 个人维护 · 中文 README
+⭐ 26 · AMPL · MIT · 推送 2026-07-16 · [GitHub](https://github.com/EconSolider/dynare-copilot) · 个人维护 · 中文 README
 
 **面向 DSGE 建模者的 Claude Code/Codex 技能：把宏观直觉转为经验证的 Dynare .mod 文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EconSolider/dynare-copilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 26]
 ```
 
-2026-10-18 23 → 2026-11-17 25（+2）
+2026-10-18 23 → 2026-11-18 26（+3）
 
 
 ---

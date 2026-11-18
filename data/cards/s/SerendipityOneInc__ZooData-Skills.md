@@ -1,6 +1,6 @@
 # SerendipityOneInc/ZooData-Skills
 
-⭐ 80 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SerendipityOneInc/ZooData-Skills) · [官网](https://zoodata.ai/) · 组织维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SerendipityOneInc/ZooData-Skills) · [官网](https://zoodata.ai/) · 组织维护 · 中文 README
 
 **面向 AI agent 的亚马逊电商数据技能集：10 个技能接入商业数据 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SerendipityOneInc/ZooData-Skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 75 --> 81
-    line [76, 77, 78, 79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 78, 79, 80, 81]
 ```
 
-2026-10-18 76 → 2026-11-17 80（+4）
+2026-10-18 76 → 2026-11-18 81（+5）
 
 
 ---

@@ -46,12 +46,12 @@ Rust 编写的 Claude Code 沙箱运行时，替代 --dangerously-skip-permissio
 ```mermaid
 xychart-beta
     title "railyard-dev/railguard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-11-17 39（+0）
+2026-10-18 39 → 2026-11-18 39（+0）
 
 
 ---

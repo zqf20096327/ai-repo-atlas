@@ -1,6 +1,6 @@
 # microsoft/TestExplora
 
-⭐ 16 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/microsoft/TestExplora) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/TestExplora) · 组织维护
 
 **仓库级测试生成基准：评测 LLM 主动发现软件缺陷能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/TestExplora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 16（+0）
 
 
 ---

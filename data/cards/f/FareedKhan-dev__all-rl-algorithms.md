@@ -1,6 +1,6 @@
 # FareedKhan-dev/all-rl-algorithms
 
-⭐ 2,003 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/all-rl-algorithms) · 个人维护
+⭐ 2,004 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/all-rl-algorithms) · 个人维护
 
 **强化学习算法的教学性 Notebook 实现集合（19 个算法）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/all-rl-algorithms 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-17"]
-    y-axis "stars" 2002 --> 2004
-    line [2003, 2003]
+    x-axis ["2026-11-16", "2026-11-18"]
+    y-axis "stars" 2002 --> 2005
+    line [2003, 2004]
 ```
 
-2026-11-16 2,003 → 2026-11-17 2,003（+0）
+2026-11-16 2,003 → 2026-11-18 2,004（+1）
 
 
 ---

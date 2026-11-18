@@ -1,6 +1,6 @@
 # EU-ECDC/episomer
 
-⭐ 72 · R · EUPL-1.2 · 推送 2026-05-08 · [GitHub](https://github.com/EU-ECDC/episomer) · 组织维护
+⭐ 73 · R · EUPL-1.2 · 推送 2026-05-08 · [GitHub](https://github.com/EU-ECDC/episomer) · 组织维护
 
 **ECDC 社媒疫情早期预警工具：监测贴文趋势并检测异常信号**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EU-ECDC/episomer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 70 --> 74
+    line [71, 72, 73]
 ```
 
-2026-10-18 71 → 2026-11-17 72（+1）
+2026-10-18 71 → 2026-11-18 73（+2）
 
 
 ---

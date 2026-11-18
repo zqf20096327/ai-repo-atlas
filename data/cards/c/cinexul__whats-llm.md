@@ -1,6 +1,6 @@
 # cinexul/whats-llm
 
-⭐ 16 · Svelte · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cinexul/whats-llm) · 个人维护 · 中文 README
+⭐ 17 · Svelte · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cinexul/whats-llm) · 个人维护 · 中文 README
 
 **面向零基础读者的 LLM 三语入门书，附离线阅读应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cinexul/whats-llm 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 13, 16, 16]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 13, 16, 17]
 ```
 
-2026-10-30 11 → 2026-11-17 16（+5）
+2026-10-30 11 → 2026-11-18 17（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # ShiftHackZ/SDAI-KMP
 
-⭐ 1,294 · Kotlin · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ShiftHackZ/SDAI-KMP) · [官网](https://sdai.moroz.cc) · 个人维护 · 中文 README
+⭐ 1,294 · Kotlin · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ShiftHackZ/SDAI-KMP) · [官网](https://sdai.moroz.cc) · 个人维护 · 中文 README
 
 **Android/iOS 上的 Stable Diffusion 图像生成客户端，聚合多种后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ShiftHackZ/SDAI-KMP 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 1285 --> 1295
     line [1286, 1287, 1288, 1289, 1291, 1294, 1294]
 ```
 
-2026-11-08 1,286 → 2026-11-17 1,294（+8）
+2026-11-08 1,286 → 2026-11-18 1,294（+8）
 
 
 ---

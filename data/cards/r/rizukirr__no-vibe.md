@@ -1,6 +1,6 @@
 # rizukirr/no-vibe
 
-⭐ 48 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/rizukirr/no-vibe) · 个人维护
+⭐ 49 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/rizukirr/no-vibe) · 个人维护
 
 **把 AI 编程助手变成导师的插件：只教不代写，用户自己敲代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rizukirr/no-vibe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 42 --> 49
-    line [43, 44, 46, 48, 48]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 42 --> 50
+    line [43, 44, 46, 48, 49]
 ```
 
-2026-10-18 43 → 2026-11-17 48（+5）
+2026-10-18 43 → 2026-11-18 49（+6）
 
 
 ---

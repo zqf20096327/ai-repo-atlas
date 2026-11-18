@@ -1,6 +1,6 @@
 # jaineet17/causal-agent-replay
 
-⭐ 14 · Python · 推送 2026-07-09 · [GitHub](https://github.com/jaineet17/causal-agent-replay) · 个人维护
+⭐ 16 · Python · 推送 2026-07-09 · [GitHub](https://github.com/jaineet17/causal-agent-replay) · 个人维护
 
 **LLM agent 轨迹的反事实重放与因果归因调试库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jaineet17/causal-agent-replay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 13 --> 17
+    line [14, 16]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 16（+2）
 
 
 ---

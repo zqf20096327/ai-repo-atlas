@@ -1,6 +1,6 @@
 # transkatgirl/Tapestry-Loom
 
-⭐ 92 · Rust · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/transkatgirl/Tapestry-Loom) · 个人维护
+⭐ 92 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/transkatgirl/Tapestry-Loom) · 个人维护
 
 **面向高级用户的 LLM 基础模型 Loom 界面：树状分支生成与 token 概率分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "transkatgirl/Tapestry-Loom 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 89 --> 93
     line [90, 91, 90, 91, 92, 92]
 ```
 
-2026-10-18 90 → 2026-11-17 92（+2）
+2026-10-18 90 → 2026-11-18 92（+2）
 
 
 ---

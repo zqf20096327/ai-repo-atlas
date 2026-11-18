@@ -1,6 +1,6 @@
 # saksham10arora-dotcom/everything-claude-codex
 
-⭐ 96 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/saksham10arora-dotcom/everything-claude-codex) · 个人维护
+⭐ 97 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/saksham10arora-dotcom/everything-claude-codex) · 个人维护
 
 **面向 Claude Code 与 Codex 的完整 AI 开发环境配置套件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "saksham10arora-dotcom/everything-claude-codex 星数(近 12 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 0 --> 105
-    line [5, 7, 24, 26, 76, 80, 83, 89, 90, 92, 96, 96]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 0 --> 106
+    line [5, 7, 24, 26, 76, 80, 83, 89, 90, 92, 96, 97]
 ```
 
-2026-10-30 5 → 2026-11-17 96（+91）
+2026-10-30 5 → 2026-11-18 97（+92）
 
 
 ---

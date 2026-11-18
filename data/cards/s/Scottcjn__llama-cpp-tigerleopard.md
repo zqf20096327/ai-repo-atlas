@@ -1,6 +1,6 @@
 # Scottcjn/llama-cpp-tigerleopard
 
-⭐ 70 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/llama-cpp-tigerleopard) · [官网](https://rustchain.org) · 个人维护
+⭐ 68 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/llama-cpp-tigerleopard) · [官网](https://rustchain.org) · 个人维护
 
 **在 Mac OS X Tiger/Leopard 的 PowerPC G4/G5 上运行 llama.cpp 推理的移植**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/llama-cpp-tigerleopard 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-17"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-29", "2026-11-18"]
+    y-axis "stars" 67 --> 71
+    line [70, 68]
 ```
 
-2026-10-29 70 → 2026-11-17 70（+0）
+2026-10-29 70 → 2026-11-18 68（-2）
 
 
 ---

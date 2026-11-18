@@ -1,6 +1,6 @@
 # Angel2mp3/Grok-Enhancer
 
-⭐ 32 · JavaScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/Angel2mp3/Grok-Enhancer) · 个人维护
+⭐ 33 · JavaScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/Angel2mp3/Grok-Enhancer) · 个人维护
 
 **增强 Grok 网页客户端的用户脚本：隐私隐藏、下载、界面定制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Angel2mp3/Grok-Enhancer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-17 32（+0）
+2026-10-18 32 → 2026-11-18 33（+1）
 
 
 ---

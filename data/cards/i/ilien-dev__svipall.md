@@ -1,6 +1,6 @@
 # ilien-dev/svipall
 
-⭐ 21 · Rust · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/ilien-dev/svipall) · [官网](https://svipall.ilien.dev) · 个人维护
+⭐ 22 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ilien-dev/svipall) · [官网](https://svipall.ilien.dev) · 个人维护
 
 **本地优先的 Rust 网页抓取 MCP 服务器与 CLI，供 AI agent 阅读 Web**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ilien-dev/svipall 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-11-17 21（+2）
+2026-10-18 19 → 2026-11-18 22（+3）
 
 
 ---

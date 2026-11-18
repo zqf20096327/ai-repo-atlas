@@ -1,6 +1,6 @@
 # hanyeol/model-compose
 
-⭐ 119 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hanyeol/model-compose) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hanyeol/model-compose) · 个人维护 · 中文 README
 
 **用单个 YAML 声明式编排 AI 管线与应用的开源框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hanyeol/model-compose 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 118 --> 121
     line [119, 120, 119, 120, 119, 119]
 ```
 
-2026-10-18 119 → 2026-11-17 119（+0）
+2026-10-18 119 → 2026-11-18 119（+0）
 
 
 ---

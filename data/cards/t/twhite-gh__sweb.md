@@ -1,6 +1,6 @@
 # twhite-gh/sweb
 
-⭐ 102 · Go · 推送 2025-12-10 · [GitHub](https://github.com/twhite-gh/sweb) · [官网](https://vps.loc.cc) · 个人维护 · 中文 README
+⭐ 103 · Go · 推送 2025-12-10 · [GitHub](https://github.com/twhite-gh/sweb) · [官网](https://vps.loc.cc) · 个人维护 · 中文 README
 
 **Go 单文件 Web 服务器：静态文件/上传/WebDAV/多协议代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "twhite-gh/sweb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 101 --> 104
-    line [103, 102, 102]
+    line [103, 102, 103]
 ```
 
-2026-10-18 103 → 2026-11-17 102（-1）
+2026-10-18 103 → 2026-11-18 103（+0）
 
 
 ---

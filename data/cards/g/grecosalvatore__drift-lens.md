@@ -1,6 +1,6 @@
 # grecosalvatore/drift-lens
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/grecosalvatore/drift-lens) · [官网](https://driftlens.readthedocs.io/) · 组织维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/grecosalvatore/drift-lens) · [官网](https://driftlens.readthedocs.io/) · 组织维护
 
 **深度学习分类器的实时无监督概念漂移检测框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "grecosalvatore/drift-lens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Davidcreador/claude-code-branch-memory-manager
 
-⭐ 23 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/Davidcreador/claude-code-branch-memory-manager) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/Davidcreador/claude-code-branch-memory-manager) · 个人维护
 
 **按 git 分支自动切换 CLAUDE.md 上下文的 Claude Code 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Davidcreador/claude-code-branch-memory-manager 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-11-17 23（+2）
+2026-10-18 21 → 2026-11-18 24（+3）
 
 
 ---

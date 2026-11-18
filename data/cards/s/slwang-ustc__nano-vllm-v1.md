@@ -1,6 +1,6 @@
 # slwang-ustc/nano-vllm-v1
 
-⭐ 104 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/slwang-ustc/nano-vllm-v1) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/slwang-ustc/nano-vllm-v1) · 个人维护
 
 **从零实现的轻量 vLLM 复刻，复现 v1 调度与 Chunked Prefill**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "slwang-ustc/nano-vllm-v1 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 100 --> 105
-    line [101, 102, 103, 104, 102, 104, 104]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 100 --> 106
+    line [101, 102, 103, 104, 102, 104, 105]
 ```
 
-2026-10-18 101 → 2026-11-17 104（+3）
+2026-10-18 101 → 2026-11-18 105（+4）
 
 
 ---

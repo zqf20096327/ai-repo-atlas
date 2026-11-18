@@ -1,6 +1,6 @@
 # abdo-Mansour/axetract
 
-⭐ 22 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/abdo-Mansour/axetract) · [官网](https://abdo-mansour.github.io/axetract/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/abdo-Mansour/axetract) · [官网](https://abdo-mansour.github.io/axetract/) · 个人维护
 
 **低成本跨领域网页结构化信息抽取框架（LoRA 适配器）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abdo-Mansour/axetract 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-17 22（+0）
+2026-10-18 22 → 2026-11-18 23（+1）
 
 
 ---

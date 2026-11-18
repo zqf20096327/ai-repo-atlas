@@ -1,6 +1,6 @@
 # npapatheodorou/personal-trainer-skill
 
-⭐ 19 · 推送 2026-06-22 · [GitHub](https://github.com/npapatheodorou/personal-trainer-skill) · 个人维护
+⭐ 20 · 推送 2026-06-22 · [GitHub](https://github.com/npapatheodorou/personal-trainer-skill) · 个人维护
 
 **把任意文件型 AI agent 变成健身教练兼营养师的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "npapatheodorou/personal-trainer-skill 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 11 --> 20
-    line [12, 13, 15, 13, 17, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 11 --> 21
+    line [12, 13, 15, 13, 17, 18, 19, 20]
 ```
 
-2026-10-18 12 → 2026-11-17 19（+7）
+2026-10-18 12 → 2026-11-18 20（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # timescale/memory-engine
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/timescale/memory-engine) · [官网](https://memory.build) · 组织维护
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/timescale/memory-engine) · [官网](https://memory.build) · 组织维护
 
 **给 AI 编程代理的持久记忆层：基于 Postgres 与 MCP**
 
@@ -44,12 +44,12 @@ Memory Engine 为 AI 编程代理提供跨会话的持久记忆：以 MCP server
 ```mermaid
 xychart-beta
     title "timescale/memory-engine 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18"]
     y-axis "stars" 33 --> 43
     line [34, 35, 37, 38, 37, 39, 41, 42, 42]
 ```
 
-2026-10-18 34 → 2026-11-17 42（+8）
+2026-10-18 34 → 2026-11-18 42（+8）
 
 
 ---

@@ -45,12 +45,12 @@ AI21 Labs 官方的 TypeScript/JavaScript 库，封装 AI21 API 请求：Chat �
 ```mermaid
 xychart-beta
     title "AI21Labs/ai21-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # iLearn-Lab/NovelClaw
 
-⭐ 375 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/iLearn-Lab/NovelClaw) · [官网](https://hitsz-ds.github.io/CoLong-Idea-Studio/) · 组织维护 · 中文 README
+⭐ 374 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/iLearn-Lab/NovelClaw) · [官网](https://hitsz-ds.github.io/CoLong-Idea-Studio/) · 组织维护 · 中文 README
 
 **面向长篇小说写作的 FastAPI 工作区：会话、章节与记忆管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iLearn-Lab/NovelClaw 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 372 --> 381
-    line [378, 380, 378, 379, 380, 378, 373, 375, 375]
+    line [378, 380, 378, 379, 380, 378, 373, 375, 374]
 ```
 
-2026-10-18 378 → 2026-11-17 375（-3）
+2026-10-18 378 → 2026-11-18 374（-4）
 
 
 ---

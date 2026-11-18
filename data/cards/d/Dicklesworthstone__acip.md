@@ -1,6 +1,6 @@
 # Dicklesworthstone/acip
 
-⭐ 332 · Shell · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/acip) · 个人维护
+⭐ 333 · Shell · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/acip) · 个人维护
 
 **给 LLM 部署者的提示注入防御提示框架（可直接加入系统提示）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/acip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 330 --> 333
-    line [332, 331, 332, 332]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 330 --> 334
+    line [332, 331, 332, 333]
 ```
 
-2026-10-18 332 → 2026-11-17 332（+0）
+2026-10-18 332 → 2026-11-18 333（+1）
 
 
 ---

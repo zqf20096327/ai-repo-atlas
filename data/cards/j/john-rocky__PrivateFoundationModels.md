@@ -46,12 +46,12 @@ Swift 软件包，镜像 Apple FoundationModels API（LanguageModelSession、@Ge
 ```mermaid
 xychart-beta
     title "john-rocky/PrivateFoundationModels 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 10 --> 14
     line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-17 13（+2）
+2026-10-18 11 → 2026-11-18 13（+2）
 
 
 ---

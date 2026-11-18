@@ -1,6 +1,6 @@
 # shepsci/kaggle-skill
 
-⭐ 113 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/shepsci/kaggle-skill) · [官网](https://github.com/shepsci/kaggle-skill) · 个人维护
+⭐ 114 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/shepsci/kaggle-skill) · [官网](https://github.com/shepsci/kaggle-skill) · 个人维护
 
 **给 AI 编程 agent 用的 Kaggle 集成技能/插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "shepsci/kaggle-skill 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 102 --> 114
-    line [103, 104, 105, 106, 110, 112, 113, 113]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 102 --> 115
+    line [103, 104, 105, 106, 110, 112, 113, 114]
 ```
 
-2026-10-18 103 → 2026-11-17 113（+10）
+2026-10-18 103 → 2026-11-18 114（+11）
 
 
 ---

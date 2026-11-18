@@ -1,6 +1,6 @@
 # matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub
 
-⭐ 564 · MATLAB · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub) · [官网](https://www.mathworks.com/solutions/deep-learning.html) · 组织维护
+⭐ 565 · MATLAB · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub) · [官网](https://www.mathworks.com/solutions/deep-learning.html) · 组织维护
 
 **MATLAB 预训练深度学习模型目录：按任务分类的模型清单**
 
@@ -45,12 +45,12 @@ MathWorks 维护的 MATLAB 预训练模型索引（Model Hub）：按计算机�
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 560 --> 565
-    line [561, 562, 563, 562, 563, 564, 564]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 560 --> 566
+    line [561, 562, 563, 562, 563, 564, 565]
 ```
 
-2026-10-18 561 → 2026-11-17 564（+3）
+2026-10-18 561 → 2026-11-18 565（+4）
 
 
 ---

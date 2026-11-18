@@ -1,6 +1,6 @@
 # wisflux/docmost-local-mcp
 
-⭐ 15 · Rust · MIT · 推送 2026-07-12 · [GitHub](https://github.com/wisflux/docmost-local-mcp) · [官网](https://www.npmjs.com/package/@wisflux/docmost-local-mcp) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-07-12 · [GitHub](https://github.com/wisflux/docmost-local-mcp) · [官网](https://www.npmjs.com/package/@wisflux/docmost-local-mcp) · 个人维护
 
 **自托管 Docmost 的 MCP server：让 AI 客户端读写 wiki**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wisflux/docmost-local-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 12 --> 16
-    line [13, 14, 15, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 12 --> 17
+    line [13, 14, 15, 14, 15, 16]
 ```
 
-2026-10-18 13 → 2026-11-17 15（+2）
+2026-10-18 13 → 2026-11-18 16（+3）
 
 
 ---

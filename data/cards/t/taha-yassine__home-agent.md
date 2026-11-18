@@ -1,6 +1,6 @@
 # taha-yassine/home-agent
 
-⭐ 15 · Python · 推送 2025-11-21 · [GitHub](https://github.com/taha-yassine/home-agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Home Assistant 增加本地对话与自动化 Agent 的集成模块**
 

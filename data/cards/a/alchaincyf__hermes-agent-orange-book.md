@@ -1,6 +1,6 @@
 # alchaincyf/hermes-agent-orange-book
 
-⭐ 5,079 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/alchaincyf/hermes-agent-orange-book) · 个人维护 · 中文 README
+⭐ 5,080 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/alchaincyf/hermes-agent-orange-book) · 个人维护 · 中文 README
 
 **Hermes Agent 开源框架的实战教程电子书（橙皮书系列）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alchaincyf/hermes-agent-orange-book 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 5055 --> 5081
-    line [5057, 5065, 5066, 5071, 5075, 5074, 5076, 5079, 5079]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 5055 --> 5082
+    line [5057, 5065, 5066, 5071, 5075, 5074, 5076, 5079, 5080]
 ```
 
-2026-11-08 5,057 → 2026-11-17 5,079（+22）
+2026-11-08 5,057 → 2026-11-18 5,080（+23）
 
 
 ---

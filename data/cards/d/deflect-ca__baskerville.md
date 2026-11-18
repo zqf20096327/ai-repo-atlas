@@ -1,6 +1,6 @@
 # deflect-ca/baskerville
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/deflect-ca/baskerville) · 组织维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/deflect-ca/baskerville) · 组织维护
 
 **应用层 DDoS 攻击检测引擎：用 ML 区分正常与异常 Web 流量**
 
@@ -46,12 +46,12 @@ Deflect 生态的分析引擎组件，针对 Layer 7 DDoS 攻击：将进入的 
 ```mermaid
 xychart-beta
     title "deflect-ca/baskerville 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-11-17 31（+0）
+2026-10-18 31 → 2026-11-18 31（+0）
 
 
 ---

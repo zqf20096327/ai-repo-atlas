@@ -1,6 +1,6 @@
 # cth9191/whisperflow-local
 
-⭐ 13 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/cth9191/whisperflow-local) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/cth9191/whisperflow-local) · 个人维护
 
 **Windows 本地语音听写工具：热键说话，AI 修整后贴入焦点输入框**
 
@@ -46,12 +46,12 @@ Windows 全局热key听写工具：Ctrl+Win 切换录音，麦克风采集后用
 ```mermaid
 xychart-beta
     title "cth9191/whisperflow-local 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

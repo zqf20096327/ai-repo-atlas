@@ -1,6 +1,6 @@
 # AtongWang/world-model-simulators
 
-⭐ 23 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/AtongWang/world-model-simulators) · [官网](https://arxiv.org/abs/2608.23070) · 个人维护
+⭐ 24 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/AtongWang/world-model-simulators) · [官网](https://arxiv.org/abs/2608.23070) · 个人维护
 
 **生成式世界模型论文清单：200 篇按 8 类模拟能力组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AtongWang/world-model-simulators 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
     y-axis "stars" 16 --> 25
-    line [17, 18, 19, 17, 22, 23, 24, 23, 23]
+    line [17, 18, 19, 17, 22, 23, 24, 23, 24]
 ```
 
-2026-10-18 17 → 2026-11-17 23（+6）
+2026-10-18 17 → 2026-11-18 24（+7）
 
 
 ---

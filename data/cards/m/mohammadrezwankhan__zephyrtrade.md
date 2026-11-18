@@ -1,6 +1,6 @@
 # mohammadrezwankhan/zephyrtrade
 
-⭐ 11 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mohammadrezwankhan/zephyrtrade) · [官网](https://mktrade.co.business/) · 个人维护
+⭐ 11 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mohammadrezwankhan/zephyrtrade) · [官网](https://mktrade.co.business/) · 个人维护
 
 **风电市场研究的本地交互实验台：合成预测、报价优化与收益回测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mohammadrezwankhan/zephyrtrade 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-01", "2026-11-18"]
     y-axis "stars" 6 --> 12
     line [7, 10, 11, 10, 11, 11]
 ```
 
-2026-10-18 7 → 2026-11-17 11（+4）
+2026-10-18 7 → 2026-11-18 11（+4）
 
 
 ---

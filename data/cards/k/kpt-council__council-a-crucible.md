@@ -1,6 +1,6 @@
 # kpt-council/council-a-crucible
 
-⭐ 15 · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/kpt-council/council-a-crucible) · 个人维护
+⭐ 16 · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/kpt-council/council-a-crucible) · 个人维护
 
 **在 Claude 会话内运行的结构化对话提示框架（四模式）**
 
@@ -45,12 +45,12 @@ Council — A Crucible 是一套结构化提示/对话框架，以文档（Runti
 ```mermaid
 xychart-beta
     title "kpt-council/council-a-crucible 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 16（+1）
 
 
 ---

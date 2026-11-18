@@ -1,6 +1,6 @@
 # eeljoe/quota-viewer
 
-⭐ 11 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/eeljoe/quota-viewer) · 个人维护 · 中文 README
+⭐ 10 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/eeljoe/quota-viewer) · 个人维护 · 中文 README
 
 **桌面悬浮球：实时监控 11 个 AI 平台的配额与余额**
 
@@ -46,12 +46,12 @@ Go + Wails 编写的 Windows 桌面工具（约 11.1 MB 单文件、约 66 MB �
 ```mermaid
 xychart-beta
     title "eeljoe/quota-viewer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 9 --> 12
+    line [11, 10]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 10（-1）
 
 
 ---

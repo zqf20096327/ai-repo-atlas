@@ -46,12 +46,12 @@ Agent Client Protocol (ACP) 的开源多平台实现，为 vscode-acp 的 fork �
 ```mermaid
 xychart-beta
     title "xfbaby/acp-agent-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-17 26（+0）
+2026-10-18 26 → 2026-11-18 26（+0）
 
 
 ---

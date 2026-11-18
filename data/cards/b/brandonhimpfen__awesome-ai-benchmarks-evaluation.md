@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-benchmarks-evaluation
 
-⭐ 14 · Python · 推送 2026-10-07 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-benchmarks-evaluation) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 评测与基准数据集的策展清单（awesome list）**
 

@@ -1,6 +1,6 @@
 # D3-vin/Qoder2Api
 
-⭐ 25 · Go · MIT · 推送 2026-08-19 · [GitHub](https://github.com/D3-vin/Qoder2Api) · [官网](https://t.me/D3_vin) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-08-19 · [GitHub](https://github.com/D3-vin/Qoder2Api) · [官网](https://t.me/D3_vin) · 个人维护
 
 **将 Qoder IDE 账号转为 OpenAI/Anthropic 兼容 API 的 Go 网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "D3-vin/Qoder2Api 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-17"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-23", "2026-11-18"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-23 25 → 2026-11-17 25（+0）
+2026-10-23 25 → 2026-11-18 26（+1）
 
 
 ---

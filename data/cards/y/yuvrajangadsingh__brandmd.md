@@ -1,6 +1,6 @@
 # yuvrajangadsingh/brandmd
 
-⭐ 72 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/yuvrajangadsingh/brandmd) · [官网](https://www.npmjs.com/package/brandmd) · 个人维护
+⭐ 73 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/yuvrajangadsingh/brandmd) · [官网](https://www.npmjs.com/package/brandmd) · 个人维护
 
 **从任意网站提取设计系统生成 DESIGN.md 供 AI 编码代理使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuvrajangadsingh/brandmd 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18"]
     y-axis "stars" 67 --> 74
-    line [68, 69, 70, 71, 70, 71, 72, 73, 72, 72]
+    line [68, 69, 70, 71, 70, 71, 72, 73, 72, 73]
 ```
 
-2026-10-18 68 → 2026-11-17 72（+4）
+2026-10-18 68 → 2026-11-18 73（+5）
 
 
 ---

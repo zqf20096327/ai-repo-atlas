@@ -1,6 +1,6 @@
 # epam/ai-dial-sdk
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/epam/ai-dial-sdk) · [官网](https://dialx.ai) · 组织维护
+⭐ 203 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/epam/ai-dial-sdk) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 的 Python SDK：构建应用与模型适配器**
 
@@ -45,12 +45,12 @@ EPAM AI DIAL 平台的 Python 框架，用于创建应用与模型适配器，�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-18"]
     y-axis "stars" 201 --> 204
     line [202, 203, 203]
 ```
 
-2026-10-18 202 → 2026-11-17 203（+1）
+2026-10-18 202 → 2026-11-18 203（+1）
 
 
 ---

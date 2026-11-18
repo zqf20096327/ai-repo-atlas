@@ -1,6 +1,6 @@
 # Helicone/ai-gateway
 
-⭐ 646 · Rust · GPL-3.0 · 推送 2025-11-21 · [GitHub](https://github.com/Helicone/ai-gateway) · [官网](https://docs.helicone.ai/ai-gateway) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源 LLM 网关：统一 API 接入 100+ 模型并路由**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

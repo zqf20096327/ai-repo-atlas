@@ -1,6 +1,6 @@
 # langfuse/langfuse-workshop
 
-⭐ 63 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/langfuse/langfuse-workshop) · [官网](https://langfuse.com/workshop) · 组织维护
+⭐ 65 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/langfuse/langfuse-workshop) · [官网](https://langfuse.com/workshop) · 组织维护
 
 **端到端 Langfuse 工作坊：用 TypeScript 示例应用讲授 AI 工程闭环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-workshop 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 54 --> 64
-    line [55, 56, 57, 59, 57, 59, 60, 61, 63, 63]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 54 --> 66
+    line [55, 56, 57, 59, 57, 59, 60, 61, 63, 65]
 ```
 
-2026-10-18 55 → 2026-11-17 63（+8）
+2026-10-18 55 → 2026-11-18 65（+10）
 
 
 ---

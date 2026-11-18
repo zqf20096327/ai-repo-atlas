@@ -1,6 +1,6 @@
 # ThierryN/fire-flow
 
-⭐ 78 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ThierryN/fire-flow) · 个人维护
+⭐ 78 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ThierryN/fire-flow) · 个人维护
 
 **Claude Code 的项目编排插件：结构化流程+会话记忆+质量门**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThierryN/fire-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-11-17 78（+0）
+2026-10-18 78 → 2026-11-18 78（+0）
 
 
 ---

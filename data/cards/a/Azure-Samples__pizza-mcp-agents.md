@@ -1,6 +1,6 @@
 # Azure-Samples/pizza-mcp-agents
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Azure-Samples/pizza-mcp-agents) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Azure-Samples/pizza-mcp-agents) · 组织维护
 
 **披萨订餐 MCP 服务器示例：教 AI agent 调用真实 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/pizza-mcp-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-11-17 33（+0）
+2026-10-18 33 → 2026-11-18 33（+0）
 
 
 ---

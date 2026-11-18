@@ -1,6 +1,6 @@
 # Swival/calibra
 
-⭐ 17 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Swival/calibra) · [官网](https://calibra.swival.dev) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Swival/calibra) · [官网](https://calibra.swival.dev) · 组织维护
 
 **面向编码 agent 的评测基准工具：矩阵化测模型与配置**
 
@@ -45,12 +45,12 @@ Calibra 是一个开源的编码 agent 基准测试 harness：用户定义模型
 ```mermaid
 xychart-beta
     title "Swival/calibra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 17（+0）
 
 
 ---

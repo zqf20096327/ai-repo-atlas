@@ -1,6 +1,6 @@
 # 1runeberg/confichat
 
-⭐ 164 · Dart · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/1runeberg/confichat) · [官网](https://codersfollies.com/app/confichat) · 个人维护
+⭐ 165 · Dart · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/1runeberg/confichat) · [官网](https://codersfollies.com/app/confichat) · 个人维护
 
 **隐私优先的多平台本地 LLM 聊天界面，支持聊天记录加密**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "1runeberg/confichat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 163 --> 166
-    line [164, 165, 164, 164]
+    line [164, 165, 164, 165]
 ```
 
-2026-10-18 164 → 2026-11-17 164（+0）
+2026-10-18 164 → 2026-11-18 165（+1）
 
 
 ---

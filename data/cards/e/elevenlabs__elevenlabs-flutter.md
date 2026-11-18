@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-flutter
 
-⭐ 42 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/elevenlabs/elevenlabs-flutter) · [官网](https://elevenlabs.io) · 组织维护
+⭐ 42 · Dart · MIT · 推送 2026-11-17 · [GitHub](https://github.com/elevenlabs/elevenlabs-flutter) · [官网](https://elevenlabs.io) · 组织维护
 
 **ElevenLabs 官方 Flutter SDK：构建实时语音对话应用**
 
@@ -45,12 +45,12 @@ ElevenLabs 官方发布的 Flutter/Dart SDK（elevenlabs_agents），用于接�
 ```mermaid
 xychart-beta
     title "elevenlabs/elevenlabs-flutter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
     y-axis "stars" 38 --> 43
     line [39, 40, 41, 42, 42]
 ```
 
-2026-10-18 39 → 2026-11-17 42（+3）
+2026-10-18 39 → 2026-11-18 42（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # BingoWon/apple-rag-mcp
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 117 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BingoWon/apple-rag-mcp) · [官网](https://apple-rag.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的 Apple 文档/WWDC 检索 MCP 服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BingoWon/apple-rag-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-07"]
-    y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 116 --> 122
+    line [120, 121, 117]
 ```
 
-2026-10-18 120 → 2026-11-07 121（+1）
+2026-10-18 120 → 2026-11-18 117（-3）
 
 
 ---

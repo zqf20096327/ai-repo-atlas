@@ -1,6 +1,6 @@
 # pluja/sasayaki
 
-⭐ 13 · Kotlin · 推送 2026-11-05 · [GitHub](https://github.com/pluja/sasayaki) · [官网](https://pluja.github.io/sasayaki/) · 个人维护
+⭐ 13 · Kotlin · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/pluja/sasayaki) · [官网](https://pluja.github.io/sasayaki/) · 个人维护
 
 **安卓语音听写应用：连接自选后端把语音转成文字**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pluja/sasayaki 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 10 --> 14
     line [11, 12, 11, 13, 13]
 ```
 
-2026-10-18 11 → 2026-11-17 13（+2）
+2026-10-18 11 → 2026-11-18 13（+2）
 
 
 ---

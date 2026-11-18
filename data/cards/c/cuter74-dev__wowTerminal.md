@@ -1,6 +1,6 @@
 # cuter74-dev/wowTerminal
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cuter74-dev/wowTerminal) · [官网](https://wowterminal.oopnwow.com/) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cuter74-dev/wowTerminal) · [官网](https://wowterminal.oopnwow.com/) · 个人维护
 
 **带 AI 助手的 SSH/SFTP 终端桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cuter74-dev/wowTerminal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
     y-axis "stars" 12 --> 15
-    line [14, 13, 13]
+    line [14, 13, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 13（-1）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

@@ -44,12 +44,12 @@ MissAlpha™ AI Labs 维护的免费 AI 学习资源仓库：提供 AI Mastercla
 ```mermaid
 xychart-beta
     title "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-11-02", "2026-11-12", "2026-11-18"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-11-17 16（+2）
+2026-10-18 14 → 2026-11-18 16（+2）
 
 
 ---

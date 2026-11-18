@@ -1,6 +1,6 @@
 # bhouston/three-llm
 
-⭐ 28 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/bhouston/three-llm) · [官网](https://three-llm.ben3d.ca) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/bhouston/three-llm) · [官网](https://three-llm.ben3d.ca) · 个人维护
 
 **浏览器内基于 Three.js/WebGPU 运行 LLM 推理的开源引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bhouston/three-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 30]
 ```
 
-2026-10-18 27 → 2026-11-17 28（+1）
+2026-10-18 27 → 2026-11-18 30（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # nwtgck/naidan
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nwtgck/naidan) · [官网](https://naidan.pages.dev/) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nwtgck/naidan) · [官网](https://naidan.pages.dev/) · 个人维护
 
 **浏览器内本地优先 AI 应用：隐私对话与端上模型运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nwtgck/naidan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 41 --> 44
     line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-11-17 43（+1）
+2026-10-18 42 → 2026-11-18 43（+1）
 
 
 ---

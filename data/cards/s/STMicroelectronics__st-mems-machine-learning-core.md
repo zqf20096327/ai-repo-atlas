@@ -1,6 +1,6 @@
 # STMicroelectronics/st-mems-machine-learning-core
 
-⭐ 30 · MATLAB · BSD-3-Clause · 推送 2026-11-11 · [GitHub](https://github.com/STMicroelectronics/st-mems-machine-learning-core) · 组织维护
+⭐ 31 · MATLAB · BSD-3-Clause · 推送 2026-11-11 · [GitHub](https://github.com/STMicroelectronics/st-mems-machine-learning-core) · 组织维护
 
 **ST 传感器内嵌机器学习核心 MLC 的示例、教程与工具集**
 
@@ -44,12 +44,12 @@ STMicroelectronics 维护的仓库，为 MEMS 传感器内置的机器学习核�
 ```mermaid
 xychart-beta
     title "STMicroelectronics/st-mems-machine-learning-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-11-17 30（+0）
+2026-10-18 30 → 2026-11-18 31（+1）
 
 
 ---

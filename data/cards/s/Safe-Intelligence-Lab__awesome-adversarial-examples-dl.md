@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Safe-Intelligence-Lab/awesome-adversarial-examples-dl 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-17"]
+    x-axis ["2026-10-31", "2026-11-18"]
     y-axis "stars" 267 --> 269
     line [268, 268]
 ```
 
-2026-10-31 268 → 2026-11-17 268（+0）
+2026-10-31 268 → 2026-11-18 268（+0）
 
 
 ---

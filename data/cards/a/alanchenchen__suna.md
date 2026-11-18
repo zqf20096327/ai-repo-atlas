@@ -1,6 +1,6 @@
 # alanchenchen/suna
 
-⭐ 20 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/alanchenchen/suna) · 个人维护 · 中文 README
+⭐ 20 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/alanchenchen/suna) · 个人维护 · 中文 README
 
 **本地优先的终端 AI Agent 运行时，支持任务委派与安全审查**
 
@@ -46,12 +46,12 @@ Go 编写的本地 Agent Runtime，在用户机器上运行会话、工具、Gua
 ```mermaid
 xychart-beta
     title "alanchenchen/suna 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-17 20（+1）
+2026-10-18 19 → 2026-11-18 20（+1）
 
 
 ---

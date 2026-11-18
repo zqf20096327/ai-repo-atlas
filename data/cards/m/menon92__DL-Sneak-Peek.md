@@ -1,6 +1,6 @@
 # menon92/DL-Sneak-Peek
 
-⭐ 187 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/menon92/DL-Sneak-Peek) · 个人维护
+⭐ 188 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/menon92/DL-Sneak-Peek) · 个人维护
 
 **孟加拉语深度学习/机器学习教程与资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "menon92/DL-Sneak-Peek 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 185 --> 188
-    line [186, 187, 186, 187, 187]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 185 --> 189
+    line [186, 187, 186, 187, 188]
 ```
 
-2026-10-18 186 → 2026-11-17 187（+1）
+2026-10-18 186 → 2026-11-18 188（+2）
 
 
 ---

@@ -1,10 +1,10 @@
 # kamesha12/ai--manus
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/kamesha12/ai--manus) · 个人维护
+⭐ 179 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kamesha12/ai--manus) · 个人维护
 
-**面向个人用户自主执行代码与浏览器操作的 AI Agent**
+**面向个人用户的自主 AI 代理：代跑代码与控制浏览器**
 
-Manus 是一个自主 AI Agent 系统，在沙箱环境中运行代码并控制浏览器：可编写与执行脚本、打开网页、与页面元素交互、执行多步骤任务。README 面向学生、远程工作者等非开发者用户，定位为家庭、学习与轻量办公场景的后台个人助手。兼容性表列出最低双核 CPU、4GB 内存等要求。README 未提供具体安装命令、技术栈或代码入口，仅给出准备、配置、测试等使用步骤描述，且带有促销码与搜索词堆砌内容。
+自述为通用自主 AI Agent 系统，在沙箱环境中运行各类工具与操作：可自行编写并执行脚本、控制浏览器（导航网页、填表、采集信息）、执行多步骤任务，面向家庭、学习与轻量办公场景的学生、远程工作者等非开发者用户。README 提供最低/推荐硬件配置表（双核 CPU、4GB RAM 起）与上手步骤说明，但未给出任何具体安装命令、代码链接或模型接入方式。内容以功能描述和搜索关键词为主。
 
 ## 筛选速览
 
@@ -20,39 +20,37 @@ Manus 是一个自主 AI Agent 系统，在沙箱环境中运行代码并控制�
 
 ## 能力要点
 
-- 自主执行代码完成脚本编写与运行
-- 浏览器控制：导航网页、填写表单、收集信息
-- 代码与浏览器操作可在一个工作流中衔接
-- 多步骤任务可在最少监督下执行
+- 自主编写并执行代码完成任务的 Agent
+- 浏览器控制：导航、填表、采集信息
+- 代码与浏览器操作在同一任务流中衔接
 
 ## 适用场景
 
-- 让代理代为收集网页资料并整理研究笔记
-- 自动填写重复性表单与执行小型脚本
-- 日常小任务的后台委托执行
+- 让 Agent 代跑脚本和处理重复性浏览器操作
+- 学习研究中收集资料、整理笔记
+- 小型项目里委派耗时的例行任务
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `编码 Agent` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
-> L22: Manus is not a heavy studio suite or a complex enterprise platform. It is a focused helper built for home, study, a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "kamesha12/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 106 --> 264
     line [119, 251, 179, 179]
 ```
 
-2026-11-13 119 → 2026-11-17 179（+60）
+2026-11-13 119 → 2026-11-18 179（+60）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `0f78ee3a5dd2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `c06e59c45084` · [字段定义](../../DATASET.md)*

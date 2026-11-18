@@ -1,6 +1,6 @@
 # kubeflow/sdk
 
-⭐ 162 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/kubeflow/sdk) · [官网](https://sdk.kubeflow.org/en/latest/) · 组织维护
+⭐ 162 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kubeflow/sdk) · [官网](https://sdk.kubeflow.org/en/latest/) · 组织维护
 
 **在 Kubernetes 上运行 AI 工作负载的统一 Python SDK**
 
@@ -46,12 +46,12 @@ Kubeflow 生态的统一 Python API 集合，用一致的 Pythonic 接口覆盖�
 ```mermaid
 xychart-beta
     title "kubeflow/sdk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18"]
     y-axis "stars" 154 --> 163
     line [155, 156, 159, 160, 162, 162]
 ```
 
-2026-10-18 155 → 2026-11-17 162（+7）
+2026-10-18 155 → 2026-11-18 162（+7）
 
 
 ---

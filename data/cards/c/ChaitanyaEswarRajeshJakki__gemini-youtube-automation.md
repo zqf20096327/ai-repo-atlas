@@ -1,6 +1,6 @@
 # ChaitanyaEswarRajeshJakki/gemini-youtube-automation
 
-⭐ 383 · Python · 推送 2026-11-16 · [GitHub](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · [官网](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · 个人维护
+⭐ 384 · Python · 推送 2026-11-17 · [GitHub](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · [官网](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · 个人维护
 
 **全自动 Python 流水线：用 Gemini 生成教学内容视频并上传 YouTube**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChaitanyaEswarRajeshJakki/gemini-youtube-automation 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 364 --> 384
-    line [365, 368, 367, 369, 371, 372, 367, 377, 381, 382, 383, 383]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 364 --> 385
+    line [365, 368, 367, 369, 371, 372, 367, 377, 381, 382, 383, 384]
 ```
 
-2026-10-18 365 → 2026-11-17 383（+18）
+2026-10-18 365 → 2026-11-18 384（+19）
 
 
 ---

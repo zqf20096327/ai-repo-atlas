@@ -1,6 +1,6 @@
 # CNSeniorious000/oai2ollama
 
-⭐ 78 · Python · 推送 2026-10-14 · [GitHub](https://github.com/CNSeniorious000/oai2ollama) · [官网](https://oai2ollama.vercel.app) · 个人维护
+⭐ 79 · Python · 推送 2026-10-14 · [GitHub](https://github.com/CNSeniorious000/oai2ollama) · [官网](https://oai2ollama.vercel.app) · 个人维护
 
 **把 OpenAI 兼容 API 包装成 Ollama 兼容 API 的 CLI 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CNSeniorious000/oai2ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-11-17 78（+0）
+2026-10-18 78 → 2026-11-18 79（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AshishKumar4/FlaxDiff
 
-⭐ 40 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/AshishKumar4/FlaxDiff) · 个人维护
+⭐ 41 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/AshishKumar4/FlaxDiff) · 个人维护
 
 **面向学习与实验的 Flax/Jax 扩散模型库，附从零教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AshishKumar4/FlaxDiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-11-17 40（+0）
+2026-10-18 40 → 2026-11-18 41（+1）
 
 
 ---

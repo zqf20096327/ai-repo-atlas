@@ -1,6 +1,6 @@
 # fkxianzhou/ComfyUI-Jimeng-API
 
-⭐ 89 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/fkxianzhou/ComfyUI-Jimeng-API) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/fkxianzhou/ComfyUI-Jimeng-API) · 个人维护 · 中文 README
 
 **ComfyUI 插件：通过火山方舟 API 调用即梦/豆包 Seedream、Seedance 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fkxianzhou/ComfyUI-Jimeng-API 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-18"]
     y-axis "stars" 88 --> 92
-    line [90, 91, 90, 91, 89, 89]
+    line [90, 91, 90, 91, 89, 90]
 ```
 
-2026-10-18 90 → 2026-11-17 89（-1）
+2026-10-18 90 → 2026-11-18 90（+0）
 
 
 ---

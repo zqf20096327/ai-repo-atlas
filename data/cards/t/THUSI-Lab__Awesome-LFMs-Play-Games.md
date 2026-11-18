@@ -1,6 +1,6 @@
 # THUSI-Lab/Awesome-LFMs-Play-Games
 
-⭐ 57 · Python · 推送 2026-11-09 · [GitHub](https://github.com/THUSI-Lab/Awesome-LFMs-Play-Games) · [官网](https://thusi-lab.github.io/Awesome-LFMs-Play-Games/) · 组织维护 · 中文 README
+⭐ 58 · Python · 推送 2026-11-09 · [GitHub](https://github.com/THUSI-Lab/Awesome-LFMs-Play-Games) · [官网](https://thusi-lab.github.io/Awesome-LFMs-Play-Games/) · 组织维护 · 中文 README
 
 **基础模型玩游戏综述的论文清单：数据集/模型/框架/基准四类资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "THUSI-Lab/Awesome-LFMs-Play-Games 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 44 --> 58
-    line [45, 46, 47, 48, 49, 46, 52, 53, 55, 56, 57, 57]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 44 --> 59
+    line [45, 46, 47, 48, 49, 46, 52, 53, 55, 56, 57, 58]
 ```
 
-2026-10-24 45 → 2026-11-17 57（+12）
+2026-10-24 45 → 2026-11-18 58（+13）
 
 
 ---

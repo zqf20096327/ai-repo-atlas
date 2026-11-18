@@ -1,6 +1,6 @@
 # NEETnina/dsh-model-master
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/NEETnina/dsh-model-master) · [官网](https://neetnina.github.io/dsh-model-master/) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/NEETnina/dsh-model-master) · [官网](https://neetnina.github.io/dsh-model-master/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的模型选择插件：搜索、真实测速与全球榜单**
 
@@ -46,12 +46,12 @@ DSH（DeepSeek Harness）的组合包插件，把原生模型下拉列表接管�
 ```mermaid
 xychart-beta
     title "NEETnina/dsh-model-master 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 9 --> 21
-    line [10, 12, 19, 18, 19, 20, 20]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 9 --> 22
+    line [10, 12, 19, 18, 19, 20, 21]
 ```
 
-2026-11-01 10 → 2026-11-17 20（+10）
+2026-11-01 10 → 2026-11-18 21（+11）
 
 
 ---

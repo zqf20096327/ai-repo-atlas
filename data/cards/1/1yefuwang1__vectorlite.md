@@ -1,6 +1,6 @@
 # 1yefuwang1/vectorlite
 
-⭐ 361 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/1yefuwang1/vectorlite) · [官网](https://1yefuwang1.github.io/vectorlite/) · 个人维护
+⭐ 361 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/1yefuwang1/vectorlite) · [官网](https://1yefuwang1.github.io/vectorlite/) · 个人维护
 
 **SQLite 向量搜索扩展：通过 SQL 接口提供基于 HNSW 的 ANN 检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1yefuwang1/vectorlite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 359 --> 362
     line [361, 360, 361, 360, 361, 361]
 ```
 
-2026-10-18 361 → 2026-11-17 361（+0）
+2026-10-18 361 → 2026-11-18 361（+0）
 
 
 ---

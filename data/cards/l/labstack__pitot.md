@@ -1,6 +1,6 @@
 # labstack/pitot
 
-⭐ 137 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/labstack/pitot) · [官网](https://pitot.dev) · 组织维护
+⭐ 137 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/labstack/pitot) · [官网](https://pitot.dev) · 组织维护
 
 **单二进制可观测性平台：接收 OTLP，内置 AI 调查代理**
 
@@ -46,12 +46,12 @@ Pitot 将 OpenTelemetry 的 traces、日志与指标接入一个二进制与一�
 ```mermaid
 xychart-beta
     title "labstack/pitot 星数(近 7 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
     y-axis "stars" 40 --> 145
     line [48, 103, 117, 127, 131, 137, 137]
 ```
 
-2026-11-11 48 → 2026-11-17 137（+89）
+2026-11-11 48 → 2026-11-18 137（+89）
 
 
 ---

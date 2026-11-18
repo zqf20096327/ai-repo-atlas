@@ -1,6 +1,6 @@
 # cheshire-cat-ai/plugin_template
 
-⭐ 26 · Python · 推送 2025-11-21 · [GitHub](https://github.com/cheshire-cat-ai/plugin_template) · [官网](https://cheshire-cat-ai.github.io/docs/plugins-registry/plugin-from-template/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Cheshire Cat AI 官方插件的开发模板仓库**
 

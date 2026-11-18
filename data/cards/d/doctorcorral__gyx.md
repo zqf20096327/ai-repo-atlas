@@ -1,6 +1,6 @@
 # doctorcorral/gyx
 
-⭐ 36 · Elixir · BSD-2-Clause · 推送 2026-09-19 · [GitHub](https://github.com/doctorcorral/gyx) · [官网](https://gyx.ai) · 个人维护
+⭐ 37 · Elixir · BSD-2-Clause · 推送 2026-09-19 · [GitHub](https://github.com/doctorcorral/gyx) · [官网](https://gyx.ai) · 个人维护
 
 **Elixir 原生强化学习环境与训练库，兼容 Gymnasium 接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "doctorcorral/gyx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-11-17 36（+0）
+2026-10-18 36 → 2026-11-18 37（+1）
 
 
 ---

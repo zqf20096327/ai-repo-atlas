@@ -1,6 +1,6 @@
 # johnmarktaylor91/torchlens
 
-⭐ 714 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/johnmarktaylor91/torchlens) · 个人维护
+⭐ 714 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/johnmarktaylor91/torchlens) · 个人维护
 
 **神经网络内部观测库：捕获任意模型的激活、梯度与计算图**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "johnmarktaylor91/torchlens 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 665 --> 718
     line [669, 714, 714]
 ```
 
-2026-11-08 669 → 2026-11-17 714（+45）
+2026-11-08 669 → 2026-11-18 714（+45）
 
 
 ---

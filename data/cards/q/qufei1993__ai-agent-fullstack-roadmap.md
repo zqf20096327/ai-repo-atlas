@@ -1,6 +1,6 @@
 # qufei1993/ai-agent-fullstack-roadmap
 
-⭐ 21 · CC-BY-4.0 · 推送 2026-06-19 · [GitHub](https://github.com/qufei1993/ai-agent-fullstack-roadmap) · 个人维护 · 中文 README
+⭐ 22 · CC-BY-4.0 · 推送 2026-06-19 · [GitHub](https://github.com/qufei1993/ai-agent-fullstack-roadmap) · 个人维护 · 中文 README
 
 **面向 Node.js 前端开发者的 AI Agent 全栈学习路线图**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "qufei1993/ai-agent-fullstack-roadmap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 21, 22]
 ```
 
-2026-10-18 19 → 2026-11-17 21（+2）
+2026-10-18 19 → 2026-11-18 22（+3）
 
 
 ---

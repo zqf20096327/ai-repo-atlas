@@ -1,6 +1,6 @@
 # SENATOROVAI/Normal-equations-scalar-form-solver-simple-linear-regression-course
 
-⭐ 35 · Jupyter Notebook · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/Normal-equations-scalar-form-solver-simple-linear-regression-course) · [官网](https://SenatorovAI.com) · 个人维护
+⭐ 36 · Jupyter Notebook · MIT · 推送 2026-03-17 · [GitHub](https://github.com/SENATOROVAI/Normal-equations-scalar-form-solver-simple-linear-regression-course) · [官网](https://SenatorovAI.com) · 个人维护
 
 **教学用：一元线性回归正规方程闭式解的 NumPy 求解器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/Normal-equations-scalar-form-solver-simple-linear-regression-course 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 34 --> 37
-    line [36, 35, 36, 35, 35]
+    line [36, 35, 36, 35, 36]
 ```
 
-2026-10-18 36 → 2026-11-17 35（-1）
+2026-10-18 36 → 2026-11-18 36（+0）
 
 
 ---

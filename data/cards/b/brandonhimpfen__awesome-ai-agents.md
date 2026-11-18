@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-agents
 
-⭐ 17 · Python · 推送 2026-09-07 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-agents) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **构建 AI agent 的框架与工具策展清单**
 

@@ -1,6 +1,6 @@
 # hiddenstateresearch/visualtorch
 
-⭐ 351 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hiddenstateresearch/visualtorch) · [官网](https://visualtorch.readthedocs.io/en) · 组织维护
+⭐ 351 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hiddenstateresearch/visualtorch) · [官网](https://visualtorch.readthedocs.io/en) · 组织维护
 
 **PyTorch 神经网络架构可视化库：生成 flow/graph/lenet 风格图**
 
@@ -45,12 +45,12 @@ Python 库，面向使用 PyTorch 的开发者和科研人员，用于将 Torch 
 ```mermaid
 xychart-beta
     title "hiddenstateresearch/visualtorch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
     y-axis "stars" 339 --> 352
     line [340, 341, 342, 341, 349, 350, 351, 351]
 ```
 
-2026-10-18 340 → 2026-11-17 351（+11）
+2026-10-18 340 → 2026-11-18 351（+11）
 
 
 ---

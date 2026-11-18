@@ -1,6 +1,6 @@
 # majkamichal/naivebayes
 
-⭐ 37 · R · GPL-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/majkamichal/naivebayes) · [官网](https://majkamichal.github.io/naivebayes/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **R 语言朴素贝叶斯分类器包，仅依赖 Base R**
 
@@ -11,7 +11,7 @@ R 包 naivebayes，提供朴素贝叶斯分类的通用实现 naive_bayes() 与�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-2.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

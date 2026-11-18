@@ -1,6 +1,6 @@
 # amitshekhariitbhu/machine-learning-interview-questions
 
-⭐ 459 · Markdown · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 460 · Markdown · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **机器学习面试题与答案的备考清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amitshekhariitbhu/machine-learning-interview-questions 星数(近 15 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 436 --> 461
-    line [438, 440, 443, 446, 448, 449, 450, 452, 446, 454, 455, 456, 458, 459, 459]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 436 --> 462
+    line [438, 440, 443, 446, 448, 449, 450, 452, 446, 454, 455, 456, 458, 459, 460]
 ```
 
-2026-10-18 438 → 2026-11-17 459（+21）
+2026-10-18 438 → 2026-11-18 460（+22）
 
 
 ---

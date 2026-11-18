@@ -1,6 +1,6 @@
 # ATOMScience-org/AMPL
 
-⭐ 150 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ATOMScience-org/AMPL) · 组织维护
+⭐ 150 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ATOMScience-org/AMPL) · 组织维护
 
 **面向药物发现的端到端分子性质建模流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ATOMScience-org/AMPL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
     y-axis "stars" 148 --> 151
     line [149, 150, 150]
 ```
 
-2026-10-18 149 → 2026-11-17 150（+1）
+2026-10-18 149 → 2026-11-18 150（+1）
 
 
 ---

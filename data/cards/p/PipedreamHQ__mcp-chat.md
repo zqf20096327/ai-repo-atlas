@@ -1,6 +1,6 @@
 # PipedreamHQ/mcp-chat
 
-⭐ 193 · TypeScript · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/PipedreamHQ/mcp-chat) · [官网](https://pipedream.com/docs/connect/mcp/developers) · 组织维护
+⭐ 194 · TypeScript · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/PipedreamHQ/mcp-chat) · [官网](https://pipedream.com/docs/connect/mcp/developers) · 组织维护
 
 **基于 Pipedream MCP 的开源 AI 聊天参考应用**
 
@@ -46,12 +46,12 @@ Pipedream 构建的开源聊天应用示例，基于 Vercel AI SDK 与 Pipedream
 ```mermaid
 xychart-beta
     title "PipedreamHQ/mcp-chat 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 191 --> 194
-    line [192, 193, 192, 193, 192, 193, 193]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 191 --> 195
+    line [192, 193, 192, 193, 192, 193, 194]
 ```
 
-2026-10-18 192 → 2026-11-17 193（+1）
+2026-10-18 192 → 2026-11-18 194（+2）
 
 
 ---

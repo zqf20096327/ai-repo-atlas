@@ -1,6 +1,6 @@
 # huggingface/ml-for-3d-course
 
-⭐ 186 · MDX · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/ml-for-3d-course) · 组织维护
+⭐ 186 · MDX · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/ml-for-3d-course) · 组织维护
 
 **Hugging Face 官方 3D 机器学习课程文件仓库**
 
@@ -43,12 +43,12 @@ Hugging Face 维护的 Machine Learning for 3D Course 课程文件仓库，作�
 ```mermaid
 xychart-beta
     title "huggingface/ml-for-3d-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
     y-axis "stars" 184 --> 187
     line [185, 186, 186]
 ```
 
-2026-10-18 185 → 2026-11-17 186（+1）
+2026-10-18 185 → 2026-11-18 186（+1）
 
 
 ---

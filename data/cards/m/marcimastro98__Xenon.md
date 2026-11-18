@@ -1,6 +1,6 @@
 # marcimastro98/Xenon
 
-⭐ 123 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/marcimastro98/Xenon) · [官网](https://xenon-app.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地全功能第二屏仪表盘：系统监控、媒体、AI 助手与外设控制**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

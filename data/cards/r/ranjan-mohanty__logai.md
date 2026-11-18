@@ -1,6 +1,6 @@
 # ranjan-mohanty/logai
 
-⭐ 14 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ranjan-mohanty/logai) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ranjan-mohanty/logai) · 个人维护
 
 **AI 驱动的日志分析 CLI：解析、聚类错误并给出修复建议**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行日志分析工具：自动检测 JSON、纯文本、Apac
 ```mermaid
 xychart-beta
     title "ranjan-mohanty/logai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

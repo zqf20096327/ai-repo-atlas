@@ -1,6 +1,6 @@
 # hitb1099/outreach-os
 
-⭐ 12 · JavaScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hitb1099/outreach-os) · [官网](https://github.com/hitb1099/outreach-os) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hitb1099/outreach-os) · [官网](https://github.com/hitb1099/outreach-os) · 个人维护
 
 **自托管 B2B 获客外联系统：AI 评分、写冷邮件并自动跟进**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hitb1099/outreach-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

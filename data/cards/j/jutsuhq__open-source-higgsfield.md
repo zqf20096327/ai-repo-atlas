@@ -1,6 +1,6 @@
 # jutsuhq/open-source-higgsfield
 
-⭐ 123 · JavaScript · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
+⭐ 126 · JavaScript · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
 
 **开源 Higgsfield 替代品清单：收录 96 个挑战项目与 6 个既有方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jutsuhq/open-source-higgsfield 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 21 --> 132
-    line [30, 64, 88, 93, 105, 106, 109, 114, 118, 123, 123]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 21 --> 135
+    line [30, 64, 88, 93, 105, 106, 109, 114, 118, 123, 126]
 ```
 
-2026-10-31 30 → 2026-11-17 123（+93）
+2026-10-31 30 → 2026-11-18 126（+96）
 
 
 ---

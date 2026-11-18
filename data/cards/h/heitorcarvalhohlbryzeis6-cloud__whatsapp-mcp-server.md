@@ -1,6 +1,6 @@
 # heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server
 
-⭐ 65 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 WhatsApp 接入 MCP 的服务器：让 AI agent 操作 WhatsApp**
 

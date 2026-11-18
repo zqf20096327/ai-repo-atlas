@@ -1,6 +1,6 @@
 # LunarWerxs/FastColabCopy
 
-⭐ 34 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/LunarWerxs/FastColabCopy) · [官网](https://lunarwerx.com) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/LunarWerxs/FastColabCopy) · [官网](https://lunarwerx.com) · 个人维护
 
 **给 Colab 用户的 Google Drive 多线程文件复制脚本**
 
@@ -43,12 +43,12 @@ Python3 脚本 fastcopy.py，通过多线程并行复制在 Google Colab 中实�
 ```mermaid
 xychart-beta
     title "LunarWerxs/FastColabCopy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 32 --> 35
     line [34, 33, 34, 34]
 ```
 
-2026-10-18 34 → 2026-11-17 34（+0）
+2026-10-18 34 → 2026-11-18 34（+0）
 
 
 ---

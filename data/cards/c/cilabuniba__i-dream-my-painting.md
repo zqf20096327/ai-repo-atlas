@@ -1,6 +1,6 @@
 # cilabuniba/i-dream-my-painting
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2025-12-29 · [GitHub](https://github.com/cilabuniba/i-dream-my-painting) · [官网](https://cilabuniba.github.io/i-dream-my-painting/) · 组织维护
+⭐ 19 · Jupyter Notebook · MIT · 推送 2025-12-29 · [GitHub](https://github.com/cilabuniba/i-dream-my-painting) · [官网](https://cilabuniba.github.io/i-dream-my-painting/) · 组织维护
 
 **文本引导多掩码图像修复：MLLM 生成提示词驱动扩散模型**
 
@@ -45,12 +45,12 @@ WACV 2025 论文的参考实现：用 LLaVA 系列多模态模型（LLaVA-MultiM
 ```mermaid
 xychart-beta
     title "cilabuniba/i-dream-my-painting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 19（+1）
 
 
 ---

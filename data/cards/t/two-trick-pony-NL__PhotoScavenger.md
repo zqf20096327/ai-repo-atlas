@@ -43,12 +43,12 @@ React Native 编写的多人拍照寻宝游戏：系统给出拍摄任务（如�
 ```mermaid
 xychart-beta
     title "two-trick-pony-NL/PhotoScavenger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 15（+0）
 
 
 ---

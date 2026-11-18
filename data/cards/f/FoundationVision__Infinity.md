@@ -1,6 +1,6 @@
 # FoundationVision/Infinity
 
-⭐ 1,594 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/FoundationVision/Infinity) · 组织维护
+⭐ 1,595 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/FoundationVision/Infinity) · 组织维护
 
 **逐位自回归文生图模型，生成高分辨率图像**
 
@@ -45,12 +45,12 @@ CVPR 2025 Oral 论文的官方实现：Infinity 以逐位 token 预测框架做�
 ```mermaid
 xychart-beta
     title "FoundationVision/Infinity 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 1591 --> 1595
-    line [1592, 1593, 1592, 1593, 1594, 1594]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 1591 --> 1596
+    line [1592, 1593, 1592, 1593, 1594, 1595]
 ```
 
-2026-10-18 1,592 → 2026-11-17 1,594（+2）
+2026-10-18 1,592 → 2026-11-18 1,595（+3）
 
 
 ---

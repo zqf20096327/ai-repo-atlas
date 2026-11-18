@@ -1,6 +1,6 @@
 # janosh/ffonons
 
-⭐ 24 · Python · 推送 2026-03-22 · [GitHub](https://github.com/janosh/ffonons) · [官网](https://janosh.github.io/ffonons/) · 个人维护
+⭐ 23 · Python · 推送 2026-03-22 · [GitHub](https://github.com/janosh/ffonons) · [官网](https://janosh.github.io/ffonons/) · 个人维护
 
 **用机器学习力场基础模型预测材料谐振声子的分析工具**
 
@@ -44,12 +44,12 @@ FFonons 是一个分析机器学习力场基础模型（如 CHGNet、MACE-MP）�
 ```mermaid
 xychart-beta
     title "janosh/ffonons 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 22 --> 25
+    line [24, 23]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 23（-1）
 
 
 ---

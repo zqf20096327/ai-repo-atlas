@@ -1,6 +1,6 @@
 # plynx-team/plynx
 
-⭐ 315 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/plynx-team/plynx) · [官网](https://plynx.com) · 组织维护
+⭐ 315 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/plynx-team/plynx) · [官网](https://plynx.com) · 组织维护
 
 **领域无关的可复现实验与数据工作流管理平台**
 
@@ -45,12 +45,12 @@ PLynx 是一个领域无关的实验管理与数据工作流平台：提供交�
 ```mermaid
 xychart-beta
     title "plynx-team/plynx 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-17"]
+    x-axis ["2026-11-13", "2026-11-18"]
     y-axis "stars" 314 --> 316
     line [315, 315]
 ```
 
-2026-11-13 315 → 2026-11-17 315（+0）
+2026-11-13 315 → 2026-11-18 315（+0）
 
 
 ---

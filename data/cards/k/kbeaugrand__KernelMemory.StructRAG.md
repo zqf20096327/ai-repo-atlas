@@ -1,6 +1,6 @@
 # kbeaugrand/KernelMemory.StructRAG
 
-⭐ 75 · C# · MIT · 推送 2025-11-21 · [GitHub](https://github.com/kbeaugrand/KernelMemory.StructRAG) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Kernel Memory 提供 StructRAG 检索的自定义搜索客户端库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

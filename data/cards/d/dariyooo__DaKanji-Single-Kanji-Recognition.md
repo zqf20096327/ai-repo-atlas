@@ -1,6 +1,6 @@
 # dariyooo/DaKanji-Single-Kanji-Recognition
 
-⭐ 67 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dariyooo/DaKanji-Single-Kanji-Recognition) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/dariyooo/DaKanji-Single-Kanji-Recognition) · 个人维护
 
 **识别单个日语汉字/假名的轻量 CNN 模型（<3MB，亚毫秒延迟）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dariyooo/DaKanji-Single-Kanji-Recognition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 63 --> 68
-    line [64, 67, 67]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 63 --> 69
+    line [64, 67, 68]
 ```
 
-2026-10-18 64 → 2026-11-17 67（+3）
+2026-10-18 64 → 2026-11-18 68（+4）
 
 
 ---

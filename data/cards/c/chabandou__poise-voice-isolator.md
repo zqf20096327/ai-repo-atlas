@@ -1,6 +1,6 @@
 # chabandou/poise-voice-isolator
 
-⭐ 25 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chabandou/poise-voice-isolator) · [官网](https://chabandou.github.io/poise-voice-isolator/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chabandou/poise-voice-isolator) · [官网](https://chabandou.github.io/poise-voice-isolator/) · 个人维护
 
 **实时分离系统音频中人声、去除音乐与噪音的本地桌面应用**
 
@@ -45,12 +45,12 @@ Poise 在系统音频输出与扬声器之间插入处理层：捕获系统混�
 ```mermaid
 xychart-beta
     title "chabandou/poise-voice-isolator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 19 --> 26
-    line [20, 21, 22, 23, 21, 25, 25]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 19 --> 27
+    line [20, 21, 22, 23, 21, 25, 26]
 ```
 
-2026-10-18 20 → 2026-11-17 25（+5）
+2026-10-18 20 → 2026-11-18 26（+6）
 
 
 ---

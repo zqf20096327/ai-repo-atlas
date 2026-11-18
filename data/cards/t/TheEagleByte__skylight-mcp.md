@@ -1,6 +1,6 @@
 # TheEagleByte/skylight-mcp
 
-⭐ 44 · TypeScript · MIT · 推送 2025-12-30 · [GitHub](https://github.com/TheEagleByte/skylight-mcp) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2025-12-30 · [GitHub](https://github.com/TheEagleByte/skylight-mcp) · 个人维护
 
 **让 AI 助手管理 Skylight 家庭日历的 MCP 服务器**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "TheEagleByte/skylight-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 39 --> 45
-    line [40, 41, 42, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 39 --> 47
+    line [40, 41, 42, 43, 44, 46]
 ```
 
-2026-10-18 40 → 2026-11-17 44（+4）
+2026-10-18 40 → 2026-11-18 46（+6）
 
 
 ---

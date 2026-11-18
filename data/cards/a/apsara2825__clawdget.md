@@ -1,6 +1,6 @@
 # apsara2825/clawdget
 
-⭐ 13 · C · MIT · 推送 2026-09-23 · [GitHub](https://github.com/apsara2825/clawdget) · 个人维护 · 中文 README
+⭐ 14 · C · MIT · 推送 2026-09-23 · [GitHub](https://github.com/apsara2825/clawdget) · 个人维护 · 中文 README
 
 **纯 C 编写的嵌入式 Linux 端 AI agent，550KB 二进制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "apsara2825/clawdget 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-17 13（+1）
+2026-10-18 12 → 2026-11-18 14（+2）
 
 
 ---

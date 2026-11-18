@@ -1,6 +1,6 @@
 # benthamite/codex
 
-⭐ 14 · Emacs Lisp · 推送 2026-11-10 · [GitHub](https://github.com/benthamite/codex) · [官网](https://stafforini.com/notes/codex/) · 个人维护
+⭐ 15 · Emacs Lisp · 推送 2026-11-10 · [GitHub](https://github.com/benthamite/codex) · [官网](https://stafforini.com/notes/codex/) · 个人维护
 
 **在 Emacs 内运行 OpenAI Codex CLI 的集成包**
 
@@ -45,12 +45,12 @@ Emacs Lisp 包，封装 OpenAI Codex CLI 的编辑器内界面：通过 eat 终�
 ```mermaid
 xychart-beta
     title "benthamite/codex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 10 --> 15
-    line [11, 13, 11, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 10 --> 16
+    line [11, 13, 11, 13, 14, 15]
 ```
 
-2026-10-18 11 → 2026-11-17 14（+3）
+2026-10-18 11 → 2026-11-18 15（+4）
 
 
 ---

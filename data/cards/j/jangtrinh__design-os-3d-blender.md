@@ -1,6 +1,6 @@
 # jangtrinh/design-os-3d-blender
 
-⭐ 118 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jangtrinh/design-os-3d-blender) · [官网](https://jangtrinh.github.io/design-os-3d-blender/) · 个人维护
+⭐ 120 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jangtrinh/design-os-3d-blender) · [官网](https://jangtrinh.github.io/design-os-3d-blender/) · 个人维护
 
 **供 AI 编码代理调用的 Blender 参数化 3D 机械零件生成技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jangtrinh/design-os-3d-blender 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 94 --> 120
-    line [96, 102, 104, 106, 107, 102, 112, 113, 115, 116, 117, 118, 118]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 94 --> 122
+    line [96, 102, 104, 106, 107, 102, 112, 113, 115, 116, 117, 118, 120]
 ```
 
-2026-10-18 96 → 2026-11-17 118（+22）
+2026-10-18 96 → 2026-11-18 120（+24）
 
 
 ---

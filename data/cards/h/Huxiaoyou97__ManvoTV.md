@@ -1,6 +1,6 @@
 # Huxiaoyou97/ManvoTV
 
-⭐ 42 · 推送 2026-06-21 · [GitHub](https://github.com/Huxiaoyou97/ManvoTV) · [官网](https://manvo.tv) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **AI 短剧/漫剧创作平台：无限画布+剧本工厂一站式生成**
 

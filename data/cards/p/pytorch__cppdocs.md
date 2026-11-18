@@ -1,6 +1,6 @@
 # pytorch/cppdocs
 
-⭐ 261 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/pytorch/cppdocs) · [官网](https://pytorch.org/cppdocs) · 组织维护
+⭐ 261 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/pytorch/cppdocs) · [官网](https://pytorch.org/cppdocs) · 组织维护
 
 **PyTorch C++ API 文档网站的自动生成源码仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/cppdocs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18"]
     y-axis "stars" 256 --> 262
     line [257, 258, 259, 261, 261]
 ```
 
-2026-10-18 257 → 2026-11-17 261（+4）
+2026-10-18 257 → 2026-11-18 261（+4）
 
 
 ---

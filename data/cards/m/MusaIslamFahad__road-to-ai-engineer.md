@@ -1,6 +1,6 @@
 # MusaIslamFahad/road-to-ai-engineer
 
-⭐ 20 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/MusaIslamFahad/road-to-ai-engineer) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MusaIslamFahad/road-to-ai-engineer) · 个人维护
 
 **通才 AI 工程师学习路线图：23 模块覆盖 ML 到生产部署**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MusaIslamFahad/road-to-ai-engineer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

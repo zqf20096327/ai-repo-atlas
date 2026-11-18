@@ -43,12 +43,12 @@ Python 脚本，监控 Microsoft Outlook 收件箱，对每封新邮件调用 Op
 ```mermaid
 xychart-beta
     title "jasminefederer/ai_detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

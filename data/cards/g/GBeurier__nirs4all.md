@@ -1,6 +1,6 @@
 # GBeurier/nirs4all
 
-⭐ 42 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/GBeurier/nirs4all) · 组织维护
+⭐ 42 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/GBeurier/nirs4all) · 组织维护
 
 **近红外光谱机器学习分析库：数据加载到建模部署一站式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GBeurier/nirs4all 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
     y-axis "stars" 40 --> 43
     line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-11-17 42（+1）
+2026-10-18 41 → 2026-11-18 42（+1）
 
 
 ---

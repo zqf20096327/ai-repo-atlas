@@ -1,6 +1,6 @@
 # yuanshengbo8-sketch/douyin-fav-study
 
-⭐ 135 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/yuanshengbo8-sketch/douyin-fav-study) · [官网](https://github.com/yuanshengbo8-sketch/douyin-fav-study/releases/latest) · 个人维护 · 中文 README
+⭐ 137 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/yuanshengbo8-sketch/douyin-fav-study) · [官网](https://github.com/yuanshengbo8-sketch/douyin-fav-study/releases/latest) · 个人维护 · 中文 README
 
 **把抖音收藏视频/图文转为本地 AI 学习笔记的桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuanshengbo8-sketch/douyin-fav-study 星数(近 11 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 0 --> 147
-    line [6, 9, 83, 105, 112, 120, 125, 129, 132, 135, 135]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 0 --> 150
+    line [6, 9, 83, 105, 112, 120, 125, 129, 132, 135, 137]
 ```
 
-2026-11-01 6 → 2026-11-17 135（+129）
+2026-11-01 6 → 2026-11-18 137（+131）
 
 
 ---

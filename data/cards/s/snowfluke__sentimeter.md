@@ -1,6 +1,6 @@
 # snowfluke/sentimeter
 
-⭐ 23 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/snowfluke/sentimeter) · [官网](https://sentimeter.my.id) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/snowfluke/sentimeter) · [官网](https://sentimeter.my.id) · 个人维护
 
 **印尼股市情绪选股机器人：AI 分析新闻生成每日买入建议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "snowfluke/sentimeter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-11-17 23（+0）
+2026-10-18 23 → 2026-11-18 24（+1）
 
 
 ---

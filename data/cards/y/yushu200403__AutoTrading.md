@@ -1,6 +1,6 @@
 # yushu200403/AutoTrading
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/yushu200403/AutoTrading) · [官网](https://nof1.im33.xyz) · 个人维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/yushu200403/AutoTrading) · [官网](https://nof1.im33.xyz) · 个人维护 · 中文 README
 
 **AI 驱动的币安 USDT-M 合约自动交易机器人（默认模拟盘）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yushu200403/AutoTrading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 13（+2）
 
 
 ---

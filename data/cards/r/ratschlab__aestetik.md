@@ -1,6 +1,6 @@
 # ratschlab/aestetik
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ratschlab/aestetik) · [官网](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) · 组织维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ratschlab/aestetik) · [官网](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) · 组织维护
 
 **从空间转录组与形态学图像学习点级表示的卷积自编码器**
 
@@ -46,12 +46,12 @@ AESTETIK 是论文 “Representation learning for multi-modal spatially resolved
 ```mermaid
 xychart-beta
     title "ratschlab/aestetik 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-17 28（+0）
+2026-10-18 28 → 2026-11-18 28（+0）
 
 
 ---

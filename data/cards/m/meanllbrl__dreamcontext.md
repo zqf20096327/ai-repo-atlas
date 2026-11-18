@@ -1,6 +1,6 @@
 # meanllbrl/dreamcontext
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/meanllbrl/dreamcontext) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/meanllbrl/dreamcontext) · 个人维护
 
 **让 Claude/agent 以文件为“大脑”运行整个项目的 CLI 记忆层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meanllbrl/dreamcontext 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-18"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-11-17 15（+2）
+2026-10-18 13 → 2026-11-18 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # toxy4ny/nikki-ai-cli-assistent
 
-⭐ 32 · Shell · MIT · 推送 2025-12-13 · [GitHub](https://github.com/toxy4ny/nikki-ai-cli-assistent) · 个人维护
+⭐ 33 · Shell · MIT · 推送 2025-12-13 · [GitHub](https://github.com/toxy4ny/nikki-ai-cli-assistent) · 个人维护
 
 **红队/DevOps 用本地离线 AI 终端助手（fish shell）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "toxy4ny/nikki-ai-cli-assistent 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-11-18"]
     y-axis "stars" 31 --> 34
-    line [32, 33, 32, 32]
+    line [32, 33, 32, 33]
 ```
 
-2026-10-19 32 → 2026-11-17 32（+0）
+2026-10-19 32 → 2026-11-18 33（+1）
 
 
 ---

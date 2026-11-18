@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "greenzorro/comfyui-workflow-upscaler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-11-17 72（+0）
+2026-10-18 72 → 2026-11-18 72（+0）
 
 
 ---

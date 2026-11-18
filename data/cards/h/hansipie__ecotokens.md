@@ -1,6 +1,6 @@
 # hansipie/ecotokens
 
-⭐ 21 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/hansipie/ecotokens) · 个人维护
+⭐ 21 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hansipie/ecotokens) · 个人维护
 
 **AI 编码代理的 token 压缩工具：拦截并精简工具输出，TUI 展示节省额**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hansipie/ecotokens 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 19 --> 22
     line [20, 21, 20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-17 21（+1）
+2026-10-18 20 → 2026-11-18 21（+1）
 
 
 ---

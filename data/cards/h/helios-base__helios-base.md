@@ -1,6 +1,6 @@
 # helios-base/helios-base
 
-⭐ 49 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/helios-base/helios-base) · 组织维护 · 中文 README
+⭐ 50 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/helios-base/helios-base) · 组织维护 · 中文 README
 
 **RoboCup 2D 足球仿真联赛的示例智能体球队代码包**
 
@@ -45,12 +45,12 @@ HELIOS Base 是面向 RoboCup Soccer 2D Simulator（兼容 rcssserver-16）的�
 ```mermaid
 xychart-beta
     title "helios-base/helios-base 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 46 --> 50
-    line [48, 47, 48, 49, 49]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 46 --> 51
+    line [48, 47, 48, 49, 50]
 ```
 
-2026-10-18 48 → 2026-11-17 49（+1）
+2026-10-18 48 → 2026-11-18 50（+2）
 
 
 ---

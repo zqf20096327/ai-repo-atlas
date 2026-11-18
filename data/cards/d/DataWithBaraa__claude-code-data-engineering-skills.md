@@ -1,6 +1,6 @@
 # DataWithBaraa/claude-code-data-engineering-skills
 
-⭐ 102 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/DataWithBaraa/claude-code-data-engineering-skills) · [官网](https://youtu.be/F5lZj1bQyUw) · 个人维护
+⭐ 104 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/DataWithBaraa/claude-code-data-engineering-skills) · [官网](https://youtu.be/F5lZj1bQyUw) · 个人维护
 
 **面向数据工程师的 16 个 Claude Code 技能包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "DataWithBaraa/claude-code-data-engineering-skills 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 83 --> 103
-    line [84, 93, 95, 98, 99, 102, 102]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 82 --> 106
+    line [84, 93, 95, 98, 99, 102, 104]
 ```
 
-2026-11-08 84 → 2026-11-17 102（+18）
+2026-11-08 84 → 2026-11-18 104（+20）
 
 
 ---

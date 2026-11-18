@@ -1,6 +1,6 @@
 # bxmaximum/bitrix-framework-skills
 
-⭐ 62 · PHP · MIT · 推送 2026-11-04 · [GitHub](https://github.com/bxmaximum/bitrix-framework-skills) · [官网](https://bxmax.ru) · 组织维护
+⭐ 64 · PHP · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bxmaximum/bitrix-framework-skills) · [官网](https://t.me/bxmaximum) · 组织维护
 
 **1С-Битрикс D7 开发的 AI agent 技能库（50 个 SKILL.md）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bxmaximum/bitrix-framework-skills 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 44 --> 63
-    line [45, 46, 47, 48, 46, 54, 56, 57, 59, 62, 62]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 44 --> 65
+    line [45, 46, 47, 48, 46, 54, 56, 57, 59, 62, 64]
 ```
 
-2026-10-18 45 → 2026-11-17 62（+17）
+2026-10-18 45 → 2026-11-18 64（+19）
 
 
 ---

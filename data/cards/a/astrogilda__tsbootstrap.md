@@ -1,6 +1,6 @@
 # astrogilda/tsbootstrap
 
-⭐ 97 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/astrogilda/tsbootstrap) · [官网](https://tsbootstrap.readthedocs.io/en/latest/) · 组织维护
+⭐ 97 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/astrogilda/tsbootstrap) · [官网](https://tsbootstrap.readthedocs.io/en/latest/) · 组织维护
 
 **时间序列与参差面板的块自助重采样与不确定性量化库**
 
@@ -47,12 +47,12 @@ Python 统计库，提供单一类型化入口 bootstrap()，覆盖 IID、移动
 ```mermaid
 xychart-beta
     title "astrogilda/tsbootstrap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
     y-axis "stars" 94 --> 98
     line [95, 96, 97, 97]
 ```
 
-2026-10-18 95 → 2026-11-17 97（+2）
+2026-10-18 95 → 2026-11-18 97（+2）
 
 
 ---

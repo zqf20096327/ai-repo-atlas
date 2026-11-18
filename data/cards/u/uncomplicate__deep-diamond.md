@@ -1,6 +1,6 @@
 # uncomplicate/deep-diamond
 
-⭐ 468 · Clojure · EPL-1.0 · 推送 2026-08-19 · [GitHub](https://github.com/uncomplicate/deep-diamond) · [官网](https://aiprobook.com) · 个人维护
+⭐ 469 · Clojure · EPL-1.0 · 推送 2026-08-19 · [GitHub](https://github.com/uncomplicate/deep-diamond) · [官网](https://aiprobook.com) · 个人维护
 
 **Clojure 张量与神经网络计算库，支持 CPU/GPU**
 
@@ -42,12 +42,12 @@ Deep Diamond 是基于 Clojure 的张量与神经网络计算库，底层调用�
 ```mermaid
 xychart-beta
     title "uncomplicate/deep-diamond 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 466 --> 469
-    line [468, 467, 468, 468]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 466 --> 470
+    line [468, 467, 468, 469]
 ```
 
-2026-10-18 468 → 2026-11-17 468（+0）
+2026-10-18 468 → 2026-11-18 469（+1）
 
 
 ---

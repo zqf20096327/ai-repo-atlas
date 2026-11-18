@@ -45,12 +45,12 @@ ICLR 2025 DATA-FM Workshop 论文的官方仓库，提出 Template-based Data Ge
 ```mermaid
 xychart-beta
     title "iiis-ai/TemplateMath 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

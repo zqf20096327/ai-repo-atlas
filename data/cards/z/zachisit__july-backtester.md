@@ -1,6 +1,6 @@
 # zachisit/july-backtester
 
-⭐ 12 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/zachisit/july-backtester) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/zachisit/july-backtester) · 个人维护
 
 **美股策略回测引擎：蒙特卡洛与前向分析压力测试**
 
@@ -45,12 +45,12 @@ Python 编写的美股股票策略回测引擎（Python 3.10+，MIT 许可）。
 ```mermaid
 xychart-beta
     title "zachisit/july-backtester 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 14]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 14（+3）
 
 
 ---

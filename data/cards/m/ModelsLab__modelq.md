@@ -45,12 +45,12 @@ ModelQ 是由 ModelsLab 团队维护的 Python 库，用 Redis 与线程实现�
 ```mermaid
 xychart-beta
     title "ModelsLab/modelq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-11-17 21（+0）
+2026-10-18 21 → 2026-11-18 21（+0）
 
 
 ---

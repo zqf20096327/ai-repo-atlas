@@ -1,6 +1,6 @@
 # AnkleBreaker-Studio/unity-mcp-plugin
 
-⭐ 257 · C# · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-plugin) · [官网](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · 组织维护
+⭐ 258 · C# · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-plugin) · [官网](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · 组织维护
 
 **Unity 编辑器 MCP 桥接插件：让 AI agent 直接操作 Unity Editor**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AnkleBreaker-Studio/unity-mcp-plugin 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 254 --> 260
-    line [255, 256, 257, 258, 259, 258, 257, 258, 257, 256, 257, 257]
+    line [255, 256, 257, 258, 259, 258, 257, 258, 257, 256, 257, 258]
 ```
 
-2026-10-18 255 → 2026-11-17 257（+2）
+2026-10-18 255 → 2026-11-18 258（+3）
 
 
 ---

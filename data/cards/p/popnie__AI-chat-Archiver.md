@@ -1,6 +1,6 @@
 # popnie/AI-chat-Archiver
 
-⭐ 36 · JavaScript · 推送 2026-03-16 · [GitHub](https://github.com/popnie/AI-chat-Archiver) · [官网](https://shiny.zhihuishuju.com/) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · 推送 2026-03-16 · [GitHub](https://github.com/popnie/AI-chat-Archiver) · [官网](https://shiny.zhihuishuju.com/) · 个人维护 · 中文 README
 
 **归档 6 大 AI 平台聊天记录的浏览器扩展**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "popnie/AI-chat-Archiver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-11-17 36（+0）
+2026-10-18 36 → 2026-11-18 37（+1）
 
 
 ---

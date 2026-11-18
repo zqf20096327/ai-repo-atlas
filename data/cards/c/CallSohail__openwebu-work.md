@@ -1,6 +1,6 @@
 # CallSohail/openwebu-work
 
-⭐ 37 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/CallSohail/openwebu-work) · [官网](https://openwebui.com/u/callsohail_) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/CallSohail/openwebu-work) · [官网](https://openwebui.com/u/callsohail_) · 个人维护
 
 **面向 Open WebUI 的可复用扩展集合：工具、过滤器、管道、动作与事件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CallSohail/openwebu-work 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
     y-axis "stars" 33 --> 38
     line [35, 34, 35, 34, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-17 37（+2）
+2026-10-18 35 → 2026-11-18 37（+2）
 
 
 ---

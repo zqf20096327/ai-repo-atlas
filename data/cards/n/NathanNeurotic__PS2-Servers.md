@@ -1,6 +1,6 @@
 # NathanNeurotic/PS2-Servers
 
-⭐ 39 · Python · AFL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/NathanNeurotic/PS2-Servers) · [官网](https://nathanneurotic.github.io/PS2-Servers/) · 个人维护
+⭐ 39 · Python · AFL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/NathanNeurotic/PS2-Servers) · [官网](https://nathanneurotic.github.io/PS2-Servers/) · 个人维护
 
 **为 PS2 自制软件提供 SMB/HTTP/UDPBD/UDPFS 局域网游戏服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NathanNeurotic/PS2-Servers 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18"]
     y-axis "stars" 26 --> 40
     line [27, 28, 29, 30, 28, 34, 36, 37, 38, 39, 39]
 ```
 
-2026-10-18 27 → 2026-11-17 39（+12）
+2026-10-18 27 → 2026-11-18 39（+12）
 
 
 ---

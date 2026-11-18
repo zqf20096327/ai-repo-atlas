@@ -1,6 +1,6 @@
 # mguozhen/social-bot
 
-⭐ 112 · Python · 推送 2026-04-13 · [GitHub](https://github.com/mguozhen/social-bot) · 个人维护
+⭐ 113 · Python · 推送 2026-04-13 · [GitHub](https://github.com/mguozhen/social-bot) · 个人维护
 
 **Reddit/X 自动回复机器人：用 Claude 生成获客评论**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mguozhen/social-bot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-18"]
     y-axis "stars" 111 --> 115
-    line [114, 113, 112, 112]
+    line [114, 113, 112, 113]
 ```
 
-2026-10-18 114 → 2026-11-17 112（-2）
+2026-10-18 114 → 2026-11-18 113（-1）
 
 
 ---

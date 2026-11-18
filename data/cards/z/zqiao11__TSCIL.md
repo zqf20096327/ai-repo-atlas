@@ -1,6 +1,6 @@
 # zqiao11/TSCIL
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-04-16 · [GitHub](https://github.com/zqiao11/TSCIL) · 组织维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-04-16 · [GitHub](https://github.com/zqiao11/TSCIL) · 组织维护
 
 **时间序列类增量学习的基准与评测框架（KDD 2024）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zqiao11/TSCIL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 74]
 ```
 
-2026-10-18 72 → 2026-11-17 73（+1）
+2026-10-18 72 → 2026-11-18 74（+2）
 
 
 ---

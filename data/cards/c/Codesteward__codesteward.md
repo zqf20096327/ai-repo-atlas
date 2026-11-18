@@ -1,6 +1,6 @@
 # Codesteward/codesteward
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Codesteward/codesteward) · [官网](https://docs.codesteward.ai/) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Codesteward/codesteward) · [官网](https://docs.codesteward.ai/) · 组织维护
 
 **自托管的 AI 代码评审平台：PR 门禁 + 分支治理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Codesteward/codesteward 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-18"]
     y-axis "stars" 16 --> 22
     line [21, 20, 19, 17, 17]
 ```
 
-2026-10-18 21 → 2026-11-17 17（-4）
+2026-10-18 21 → 2026-11-18 17（-4）
 
 
 ---

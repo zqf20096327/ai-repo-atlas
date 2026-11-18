@@ -1,6 +1,6 @@
 # nabeelxy/syara
 
-⭐ 20 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/nabeelxy/syara) · [官网](https://superyara.org) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/nabeelxy/syara) · [官网](https://superyara.org) · 个人维护
 
 **面向安全检测的 YARA 兼容语义规则引擎库**
 
@@ -45,12 +45,12 @@ Python 库，扩展 YARA 规则语法以支持语义匹配：在传统字符串/
 ```mermaid
 xychart-beta
     title "nabeelxy/syara 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 21（+1）
 
 
 ---

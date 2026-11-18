@@ -1,6 +1,6 @@
 # TencentCloudADP/youtu-graphrag
 
-⭐ 1,276 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/TencentCloudADP/youtu-graphrag) · [官网](https://arxiv.org/abs/2508.19855) · 组织维护 · 中文 README
+⭐ 1,278 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/TencentCloudADP/youtu-graphrag) · [官网](https://arxiv.org/abs/2508.19855) · 组织维护 · 中文 README
 
 **腾讯优图的 GraphRAG 框架：图谱构建+多智能体检索的复杂推理问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TencentCloudADP/youtu-graphrag 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 1268 --> 1277
-    line [1269, 1270, 1271, 1272, 1270, 1275, 1274, 1276, 1276]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 1268 --> 1279
+    line [1269, 1270, 1271, 1272, 1270, 1275, 1274, 1276, 1278]
 ```
 
-2026-10-18 1,269 → 2026-11-17 1,276（+7）
+2026-10-18 1,269 → 2026-11-18 1,278（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # epicsagas/alcove
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/epicsagas/alcove) · [官网](https://epicsagas.github.io/alcove/) · 个人维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/epicsagas/alcove) · [官网](https://epicsagas.github.io/alcove/) · 个人维护
 
 **让 AI 编程代理按需检索私有项目文档的 MCP/HTTP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "epicsagas/alcove 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-18"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 16, 16]
+    line [16, 17, 16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

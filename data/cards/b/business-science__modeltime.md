@@ -1,6 +1,6 @@
 # business-science/modeltime
 
-⭐ 585 · R · NOASSERTION · 推送 2026-01-30 · [GitHub](https://github.com/business-science/modeltime) · [官网](https://business-science.github.io/modeltime/) · 组织维护
+⭐ 586 · R · NOASSERTION · 推送 2026-01-30 · [GitHub](https://github.com/business-science/modeltime) · [官网](https://business-science.github.io/modeltime/) · 组织维护
 
 **R 语言时间序列预测统一框架：机器学习与经典模型并用**
 
@@ -46,12 +46,12 @@ R 包，为时间序列建模与预测提供统一基础设施：在 tidymodels 
 ```mermaid
 xychart-beta
     title "business-science/modeltime 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 583 --> 586
-    line [584, 585, 585]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 583 --> 587
+    line [584, 585, 586]
 ```
 
-2026-10-18 584 → 2026-11-17 585（+1）
+2026-10-18 584 → 2026-11-18 586（+2）
 
 
 ---

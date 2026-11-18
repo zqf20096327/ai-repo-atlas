@@ -1,6 +1,6 @@
 # LiBinZyu/VAI
 
-⭐ 25 · C# · 推送 2026-01-29 · [GitHub](https://github.com/LiBinZyu/VAI) · 个人维护 · 中文 README
+⭐ 26 · C# · 推送 2026-01-29 · [GitHub](https://github.com/LiBinZyu/VAI) · 个人维护 · 中文 README
 
 **给 Unity 开发者：在项目中实现唤醒词→语音识别→意图匹配→工具调用的语音控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LiBinZyu/VAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-11-17 25（+0）
+2026-10-18 25 → 2026-11-18 26（+1）
 
 
 ---

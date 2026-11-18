@@ -45,12 +45,12 @@ TypeScript 实现的 Model Context Protocol 服务器，通过官方 CKAN API �
 ```mermaid
 xychart-beta
     title "DavidOsherdiagnostica/data-gov-il-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 109 --> 112
     line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-11-17 111（+1）
+2026-10-18 110 → 2026-11-18 111（+1）
 
 
 ---

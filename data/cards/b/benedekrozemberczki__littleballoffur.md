@@ -45,12 +45,12 @@ Python 图采样扩展库，为 NetworkX/NetworKit 等图数据提供顶点、�
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/littleballoffur 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
     y-axis "stars" 712 --> 715
     line [713, 714, 714]
 ```
 
-2026-10-18 713 → 2026-11-17 714（+1）
+2026-10-18 713 → 2026-11-18 714（+1）
 
 
 ---

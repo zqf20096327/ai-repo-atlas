@@ -1,6 +1,6 @@
 # AgentAnycast/agentanycast
 
-⭐ 79 · Shell · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/AgentAnycast/agentanycast) · 组织维护
+⭐ 80 · Shell · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/AgentAnycast/agentanycast) · 组织维护
 
 **让 AI agent 跨任意网络互通的 P2P 运行时，免公网 IP**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgentAnycast/agentanycast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 78 --> 81
+    line [79, 80]
 ```
 
-2026-10-18 79 → 2026-11-17 79（+0）
+2026-10-18 79 → 2026-11-18 80（+1）
 
 
 ---

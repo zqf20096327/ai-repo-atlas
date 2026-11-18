@@ -1,6 +1,6 @@
 # ananthanarayanan431/Langchain-Projects-LLM
 
-⭐ 123 · Jupyter Notebook · Unlicense · 推送 2026-10-25 · [GitHub](https://github.com/ananthanarayanan431/Langchain-Projects-LLM) · 个人维护
+⭐ 124 · Jupyter Notebook · Unlicense · 推送 2026-10-25 · [GitHub](https://github.com/ananthanarayanan431/Langchain-Projects-LLM) · 个人维护
 
 **基于 LangChain 的 LLM 示例项目集合（GPT/LLAMA/HuggingFace）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ananthanarayanan431/Langchain-Projects-LLM 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 118 --> 124
-    line [119, 120, 119, 120, 122, 123, 123]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 118 --> 125
+    line [119, 120, 119, 120, 122, 123, 124]
 ```
 
-2026-10-18 119 → 2026-11-17 123（+4）
+2026-10-18 119 → 2026-11-18 124（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # dodo-labs-ai/mem-forge
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/dodo-labs-ai/mem-forge) · 组织维护
+⭐ 103 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/dodo-labs-ai/mem-forge) · 组织维护
 
 **给 AI agent 的团队记忆层：把文档/工单/聊天变成可溯源记忆**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dodo-labs-ai/mem-forge 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18"]
     y-axis "stars" 3 --> 113
     line [12, 17, 26, 89, 104, 103, 103]
 ```
 
-2026-10-31 12 → 2026-11-17 103（+91）
+2026-10-31 12 → 2026-11-18 103（+91）
 
 
 ---

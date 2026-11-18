@@ -1,6 +1,6 @@
 # niuwoai/willdeep-cli
 
-⭐ 201 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/niuwoai/willdeep-cli) · [官网](https://willdeep.com) · 个人维护 · 中文 README
+⭐ 201 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/niuwoai/willdeep-cli) · [官网](https://willdeep.com) · 个人维护 · 中文 README
 
 **自托管可审计 AI Coding Agent，改动可追溯、子 Agent 退出码裁决**
 
@@ -46,12 +46,12 @@ Rust 实现的自托管 AI 编程 Agent：单个二进制内含常驻 Runtime Da
 ```mermaid
 xychart-beta
     title "niuwoai/willdeep-cli 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18"]
     y-axis "stars" 0 --> 219
     line [17, 107, 118, 180, 181, 201, 201]
 ```
 
-2026-11-01 17 → 2026-11-17 201（+184）
+2026-11-01 17 → 2026-11-18 201（+184）
 
 
 ---

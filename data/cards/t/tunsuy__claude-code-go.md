@@ -1,6 +1,6 @@
 # tunsuy/claude-code-go
 
-⭐ 39 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/tunsuy/claude-code-go) · 个人维护 · 中文 README
+⭐ 40 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/tunsuy/claude-code-go) · 个人维护 · 中文 README
 
 **Go 重写的 Claude Code：终端 AI 编程助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tunsuy/claude-code-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-11-17 39（+1）
+2026-10-18 38 → 2026-11-18 40（+2）
 
 
 ---

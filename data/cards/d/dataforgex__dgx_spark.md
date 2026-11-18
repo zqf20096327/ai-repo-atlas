@@ -1,6 +1,6 @@
 # dataforgex/dgx_spark
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-01-24 · [GitHub](https://github.com/dataforgex/dgx_spark) · [官网](https://www.acloudpartner.dk) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-01-24 · [GitHub](https://github.com/dataforgex/dgx_spark) · [官网](https://www.acloudpartner.dk) · 个人维护
 
 **面向 DGX Spark 的多模型 LLM 服务套件：vLLM 部署+Web 面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dataforgex/dgx_spark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

@@ -46,12 +46,12 @@ FuelLabs 维护的 alpha 阶段 npm 库，提供 FuelAgent 类与 transferTool �
 ```mermaid
 xychart-beta
     title "FuelLabs/fuel-agent-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-17 36（+0）
+2026-10-18 36 → 2026-11-18 36（+0）
 
 
 ---

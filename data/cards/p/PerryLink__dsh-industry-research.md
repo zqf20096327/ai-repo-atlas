@@ -1,6 +1,6 @@
 # PerryLink/dsh-industry-research
 
-⭐ 219 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://www.npmjs.com/package/dsh-industry-research) · 个人维护 · 中文 README
+⭐ 224 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://www.npmjs.com/package/dsh-industry-research) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的行业/公司研究插件：带溯源的可审计研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-industry-research 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 212 --> 221
-    line [213, 215, 216, 213, 214, 215, 216, 213, 217, 218, 219, 220, 219, 219]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 212 --> 225
+    line [213, 215, 216, 213, 214, 215, 216, 213, 217, 218, 219, 220, 219, 224]
 ```
 
-2026-10-18 213 → 2026-11-17 219（+6）
+2026-10-18 213 → 2026-11-18 224（+11）
 
 
 ---

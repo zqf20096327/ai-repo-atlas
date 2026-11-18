@@ -1,6 +1,6 @@
 # dipankardas011/infai
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/dipankardas011/infai) · [官网](https://infai.dipankar-das.com/) · 个人维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/dipankardas011/infai) · [官网](https://infai.dipankar-das.com/) · 个人维护
 
 **本地 AI 终端工具集：TUI 管理 llama.cpp/vLLM 推理与后台 agent 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dipankardas011/infai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

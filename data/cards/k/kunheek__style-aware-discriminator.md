@@ -45,12 +45,12 @@ POSTECH 团队发布的 CVPR 2022 论文 "A Style-Aware Discriminator for Contro
 ```mermaid
 xychart-beta
     title "kunheek/style-aware-discriminator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-11-17 115（+0）
+2026-10-18 115 → 2026-11-18 115（+0）
 
 
 ---

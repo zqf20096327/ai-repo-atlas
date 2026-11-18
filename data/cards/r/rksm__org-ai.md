@@ -1,6 +1,6 @@
 # rksm/org-ai
 
-⭐ 822 · Emacs Lisp · GPL-3.0 · 推送 2026-01-07 · [GitHub](https://github.com/rksm/org-ai) · 个人维护
+⭐ 823 · Emacs Lisp · GPL-3.0 · 推送 2026-01-07 · [GitHub](https://github.com/rksm/org-ai) · 个人维护
 
 **Emacs org-mode 的生成式 AI 副模式：文本/图像生成与语音输入输出**
 
@@ -47,12 +47,12 @@ org-mode 的 Emacs minor mode，通过 #+begin_ai 代码块调用生成式 AI：
 ```mermaid
 xychart-beta
     title "rksm/org-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 821 --> 823
-    line [822, 822]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 821 --> 824
+    line [822, 823]
 ```
 
-2026-10-18 822 → 2026-11-17 822（+0）
+2026-10-18 822 → 2026-11-18 823（+1）
 
 
 ---

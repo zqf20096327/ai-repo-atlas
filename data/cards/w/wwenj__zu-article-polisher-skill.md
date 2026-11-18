@@ -1,6 +1,6 @@
 # wwenj/zu-article-polisher-skill
 
-⭐ 19 · Python · 推送 2026-06-23 · [GitHub](https://github.com/wwenj/zu-article-polisher-skill) · 个人维护 · 中文 README
+⭐ 20 · Python · 推送 2026-06-23 · [GitHub](https://github.com/wwenj/zu-article-polisher-skill) · 个人维护 · 中文 README
 
 **去除中文文章 AI 味的 agent skill，保留作者判断与技术边界**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wwenj/zu-article-polisher-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-11-17 19（+1）
+2026-10-18 18 → 2026-11-18 20（+2）
 
 
 ---

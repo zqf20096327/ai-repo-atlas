@@ -1,6 +1,6 @@
 # codeworksh/codework
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/codeworksh/codework) · [官网](https://www.codework.sh) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/codeworksh/codework) · [官网](https://www.codework.sh) · 组织维护
 
 **开源编码 agent CLI：任意模型驱动的代码任务执行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codeworksh/codework 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 22 --> 27
     line [23, 24, 25, 26, 26]
 ```
 
-2026-10-18 23 → 2026-11-17 26（+3）
+2026-10-18 23 → 2026-11-18 26（+3）
 
 
 ---

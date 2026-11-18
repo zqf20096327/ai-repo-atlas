@@ -45,12 +45,12 @@ Chrome 扩展，在浏览器侧边栏中聚合打开 Gemini、ChatGPT、Claude�
 ```mermaid
 xychart-beta
     title "creosB/AI-Side-Panel-Extension 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 79 --> 82
     line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-11-17 81（+1）
+2026-10-18 80 → 2026-11-18 81（+1）
 
 
 ---

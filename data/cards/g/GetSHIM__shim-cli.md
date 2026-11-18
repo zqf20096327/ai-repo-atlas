@@ -1,6 +1,6 @@
 # GetSHIM/shim-cli
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/GetSHIM/shim-cli) · [官网](https://getshim.tech/products/shim-cli) · 组织维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/GetSHIM/shim-cli) · [官网](https://getshim.tech/products/shim-cli) · 组织维护
 
 **给编码代理的本地流量审计与隐私脱敏工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GetSHIM/shim-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 20 --> 41
-    line [21, 37, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 19 --> 43
+    line [21, 37, 39, 40, 41]
 ```
 
-2026-10-18 21 → 2026-11-17 40（+19）
+2026-10-18 21 → 2026-11-18 41（+20）
 
 
 ---

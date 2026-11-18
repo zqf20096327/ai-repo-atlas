@@ -1,6 +1,6 @@
 # segments-ai/segments-ai
 
-⭐ 29 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/segments-ai/segments-ai) · [官网](http://segments.ai) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/segments-ai/segments-ai) · [官网](http://segments.ai) · 组织维护
 
 **计算机视觉训练数据平台 Segments.ai 的 Python SDK**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "segments-ai/segments-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-11-17 29（+0）
+2026-10-18 29 → 2026-11-18 29（+0）
 
 
 ---

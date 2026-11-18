@@ -1,6 +1,6 @@
 # tedhappy/ragflow-admin
 
-⭐ 270 · TypeScript · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/tedhappy/ragflow-admin) · 个人维护 · 中文 README
+⭐ 271 · TypeScript · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/tedhappy/ragflow-admin) · 个人维护 · 中文 README
 
 **RAGFlow 的独立后台管理控制台，批量管理知识库与用户**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tedhappy/ragflow-admin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 267 --> 271
-    line [268, 269, 270, 270]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 267 --> 272
+    line [268, 269, 270, 271]
 ```
 
-2026-10-18 268 → 2026-11-17 270（+2）
+2026-10-18 268 → 2026-11-18 271（+3）
 
 
 ---

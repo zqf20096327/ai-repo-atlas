@@ -1,6 +1,6 @@
 # feiskyer/kube-copilot
 
-⭐ 235 · Go · Apache-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/feiskyer/kube-copilot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向运维的 Kubernetes AI 助手 CLI：诊断、审计与生成清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

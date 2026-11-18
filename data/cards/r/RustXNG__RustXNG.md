@@ -1,6 +1,6 @@
 # RustXNG/RustXNG
 
-⭐ 978 · Rust · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/RustXNG/RustXNG) · 个人维护 · 中文 README
+⭐ 982 · Rust · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/RustXNG/RustXNG) · 个人维护 · 中文 README
 
 **面向 AI agent 的自托管元搜索与 grounding 引擎（基于 SearXNG）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RustXNG/RustXNG 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-17"]
-    y-axis "stars" 977 --> 979
-    line [978, 978]
+    x-axis ["2026-11-16", "2026-11-18"]
+    y-axis "stars" 977 --> 983
+    line [978, 982]
 ```
 
-2026-11-16 978 → 2026-11-17 978（+0）
+2026-11-16 978 → 2026-11-18 982（+4）
 
 
 ---

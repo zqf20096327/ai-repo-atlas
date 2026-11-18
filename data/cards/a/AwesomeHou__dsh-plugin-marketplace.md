@@ -1,6 +1,6 @@
 # AwesomeHou/dsh-plugin-marketplace
 
-⭐ 33 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/AwesomeHou/dsh-plugin-marketplace) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/AwesomeHou/dsh-plugin-marketplace) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：把 GitHub dsh-plugin 话题变成插件市场**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AwesomeHou/dsh-plugin-marketplace 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-08", "2026-11-14", "2026-11-18"]
     y-axis "stars" 31 --> 35
-    line [32, 33, 34, 33, 33]
+    line [32, 33, 34, 33, 34]
 ```
 
-2026-10-18 32 → 2026-11-17 33（+1）
+2026-10-18 32 → 2026-11-18 34（+2）
 
 
 ---

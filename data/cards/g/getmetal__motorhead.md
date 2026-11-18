@@ -1,6 +1,6 @@
 # getmetal/motorhead
 
-⭐ 917 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/getmetal/motorhead) · [官网](https://getmetal.io) · 组织维护
+⭐ 916 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/getmetal/motorhead) · [官网](https://getmetal.io) · 组织维护
 
 **为 LLM 应用提供记忆与检索的服务端（已停止维护）**
 
@@ -45,12 +45,12 @@ Rust 编写的 LLM 记忆与信息检索服务器：提供 3 个 API 管理会�
 ```mermaid
 xychart-beta
     title "getmetal/motorhead 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-17"]
-    y-axis "stars" 916 --> 918
-    line [917, 917]
+    x-axis ["2026-11-16", "2026-11-18"]
+    y-axis "stars" 915 --> 918
+    line [917, 916]
 ```
 
-2026-11-16 917 → 2026-11-17 917（+0）
+2026-11-16 917 → 2026-11-18 916（-1）
 
 
 ---

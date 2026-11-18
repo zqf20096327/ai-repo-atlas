@@ -1,6 +1,6 @@
 # divnogorsky/hdr-converter
 
-⭐ 23 · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/divnogorsky/hdr-converter) · 个人维护
+⭐ 24 · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/divnogorsky/hdr-converter) · 个人维护
 
 **本地将 SDR 视频转换为 HDR EXR 的桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "divnogorsky/hdr-converter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 8 --> 24
-    line [9, 14, 17, 19, 21, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 8 --> 25
+    line [9, 14, 17, 19, 21, 23, 24]
 ```
 
-2026-10-18 9 → 2026-11-17 23（+14）
+2026-10-18 9 → 2026-11-18 24（+15）
 
 
 ---

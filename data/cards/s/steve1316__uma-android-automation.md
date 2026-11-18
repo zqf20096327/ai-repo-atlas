@@ -46,12 +46,12 @@ Kotlin 编写、React Native (Expo) 作前端的 Android 应用，通过 MediaPr
 ```mermaid
 xychart-beta
     title "steve1316/uma-android-automation 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-17"]
+    x-axis ["2026-11-14", "2026-11-18"]
     y-axis "stars" 141 --> 143
     line [142, 142]
 ```
 
-2026-11-14 142 → 2026-11-17 142（+0）
+2026-11-14 142 → 2026-11-18 142（+0）
 
 
 ---

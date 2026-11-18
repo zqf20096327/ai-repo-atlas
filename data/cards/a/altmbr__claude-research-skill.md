@@ -1,6 +1,6 @@
 # altmbr/claude-research-skill
 
-⭐ 21 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/altmbr/claude-research-skill) · 个人维护
+⭐ 22 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/altmbr/claude-research-skill) · 个人维护
 
 **Claude Code 技能：把研究问题分解为并行 agent 并综合成文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "altmbr/claude-research-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-17 21（+0）
+2026-10-18 21 → 2026-11-18 22（+1）
 
 
 ---

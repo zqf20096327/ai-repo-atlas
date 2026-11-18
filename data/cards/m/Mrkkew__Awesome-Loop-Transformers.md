@@ -1,6 +1,6 @@
 # Mrkkew/Awesome-Loop-Transformers
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Mrkkew/Awesome-Loop-Transformers) · [官网](https://awesome-loop-transformers.bright-haven-2369.chatgpt.site) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Mrkkew/Awesome-Loop-Transformers) · [官网](https://awesome-loop-transformers.bright-haven-2369.chatgpt.site) · 个人维护 · 中文 README
 
 **循环 Transformer 论文研究图谱：247 篇论文的双语阅读指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mrkkew/Awesome-Loop-Transformers 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18"]
     y-axis "stars" 8 --> 19
     line [9, 10, 11, 13, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 9 → 2026-11-17 18（+9）
+2026-10-18 9 → 2026-11-18 18（+9）
 
 
 ---

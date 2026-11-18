@@ -1,6 +1,6 @@
 # YashBhadange2006/TinyAI
 
-⭐ 50 · Kotlin · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/YashBhadange2006/TinyAI) · 个人维护
+⭐ 51 · Kotlin · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/YashBhadange2006/TinyAI) · 个人维护
 
 **Android 端本地 LLM 聊天应用，完全离线推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YashBhadange2006/TinyAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 44 --> 51
-    line [45, 46, 47, 46, 50, 50]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 44 --> 52
+    line [45, 46, 47, 46, 50, 51]
 ```
 
-2026-10-18 45 → 2026-11-17 50（+5）
+2026-10-18 45 → 2026-11-18 51（+6）
 
 
 ---

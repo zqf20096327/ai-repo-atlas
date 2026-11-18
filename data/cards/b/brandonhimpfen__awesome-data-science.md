@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-data-science
 
-⭐ 17 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-data-science) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **数据科学工具、数据集与学习资源的策展清单**
 

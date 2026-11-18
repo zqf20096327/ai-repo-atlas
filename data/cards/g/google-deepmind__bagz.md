@@ -1,6 +1,6 @@
 # google-deepmind/bagz
 
-⭐ 70 · C++ · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-deepmind/bagz) · 组织维护
+⭐ 71 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google-deepmind/bagz) · 组织维护
 
 **面向开发者：存储序列化记录序列的 Bagz 文件格式与 Python 读写库**
 
@@ -45,12 +45,12 @@ Bagz 是一种存储字节记录（通常为序列化 protocol buffer）序列�
 ```mermaid
 xychart-beta
     title "google-deepmind/bagz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-18 70 → 2026-11-17 70（+0）
+2026-10-18 70 → 2026-11-18 71（+1）
 
 
 ---

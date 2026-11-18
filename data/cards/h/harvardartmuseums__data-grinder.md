@@ -1,6 +1,6 @@
 # harvardartmuseums/data-grinder
 
-⭐ 17 · Python · 推送 2026-10-27 · [GitHub](https://github.com/harvardartmuseums/data-grinder) · 组织维护
+⭐ 17 · Python · 推送 2026-11-17 · [GitHub](https://github.com/harvardartmuseums/data-grinder) · 组织维护
 
 **将图像并行送入多个第三方视觉/LLM 服务提取元数据的脚本与 API 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harvardartmuseums/data-grinder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # singgel/AI_LINE
 
-⭐ 176 · 推送 2026-04-07 · [GitHub](https://github.com/singgel/AI_LINE) · 个人维护 · 中文 README
+⭐ 177 · 推送 2026-04-07 · [GitHub](https://github.com/singgel/AI_LINE) · 个人维护 · 中文 README
 
 **机器学习与深度学习书籍资料链接的个人收藏清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "singgel/AI_LINE 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 174 --> 177
-    line [175, 176, 176]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 174 --> 178
+    line [175, 176, 177]
 ```
 
-2026-11-08 175 → 2026-11-17 176（+1）
+2026-11-08 175 → 2026-11-18 177（+2）
 
 
 ---

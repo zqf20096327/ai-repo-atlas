@@ -1,6 +1,6 @@
 # akhayam99/goodboy
 
-⭐ 119 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/akhayam99/goodboy) · [官网](https://goodboy-ai.dev/) · 个人维护
+⭐ 120 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/akhayam99/goodboy) · [官网](https://goodboy-ai.dev/) · 个人维护
 
 **管理编码代理会话的 macOS/Linux 桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akhayam99/goodboy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 109 --> 120
-    line [110, 117, 118, 119, 118, 119, 119]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 109 --> 121
+    line [110, 117, 118, 119, 118, 119, 120]
 ```
 
-2026-10-18 110 → 2026-11-17 119（+9）
+2026-10-18 110 → 2026-11-18 120（+10）
 
 
 ---

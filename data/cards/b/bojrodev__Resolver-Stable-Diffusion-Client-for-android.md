@@ -1,6 +1,6 @@
 # bojrodev/Resolver-Stable-Diffusion-Client-for-android
 
-⭐ 16 · JavaScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/bojrodev/Resolver-Stable-Diffusion-Client-for-android) · 个人维护
+⭐ 16 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/bojrodev/Resolver-Stable-Diffusion-Client-for-android) · 个人维护
 
 **安卓端 Stable Diffusion 生成客户端，连接 Forge/ComfyUI 后台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bojrodev/Resolver-Stable-Diffusion-Client-for-android 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-18"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 16, 16]
 ```
 
-2026-10-18 15 → 2026-11-17 16（+1）
+2026-10-18 15 → 2026-11-18 16（+1）
 
 
 ---

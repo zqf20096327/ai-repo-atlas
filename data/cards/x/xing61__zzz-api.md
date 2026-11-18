@@ -1,6 +1,6 @@
 # xing61/zzz-api
 
-⭐ 991 · 推送 2026-09-13 · [GitHub](https://github.com/xing61/zzz-api) · [官网](https://platform.zhizengzeng.com/#/login?aff=github) · 组织维护 · 中文 README
+⭐ 991 · 推送 2026-11-17 · [GitHub](https://github.com/xing61/zzz-api) · [官网](https://platform.zhizengzeng.com/#/login?aff=github) · 组织维护 · 中文 README
 
 **智增增：多模型 LLM API 中转代理服务（OpenAI 兼容）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xing61/zzz-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-18"]
     y-axis "stars" 989 --> 992
     line [990, 991, 991]
 ```
 
-2026-10-18 990 → 2026-11-17 991（+1）
+2026-10-18 990 → 2026-11-18 991（+1）
 
 
 ---

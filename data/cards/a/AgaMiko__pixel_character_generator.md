@@ -1,6 +1,6 @@
 # AgaMiko/pixel_character_generator
 
-⭐ 151 · Jupyter Notebook · 推送 2026-11-03 · [GitHub](https://github.com/AgaMiko/pixel_character_generator) · 个人维护
+⭐ 152 · Jupyter Notebook · 推送 2026-11-03 · [GitHub](https://github.com/AgaMiko/pixel_character_generator) · 个人维护
 
 **用 GAN 与自编码器生成 64×64 复古像素游戏角色，含 TinyHero 数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgaMiko/pixel_character_generator 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 139 --> 152
-    line [140, 141, 151, 151]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 139 --> 153
+    line [140, 141, 151, 152]
 ```
 
-2026-11-08 140 → 2026-11-17 151（+11）
+2026-11-08 140 → 2026-11-18 152（+12）
 
 
 ---

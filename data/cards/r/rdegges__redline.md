@@ -1,6 +1,6 @@
 # rdegges/redline
 
-⭐ 15 · Go · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rdegges/redline) · 个人维护
+⭐ 16 · Go · MIT · 推送 2026-08-31 · [GitHub](https://github.com/rdegges/redline) · 个人维护
 
 **本地 LLM 驱动的网站品牌信息一致性审计 CLI**
 
@@ -45,12 +45,12 @@ Go 编写的单二进制命令行工具：爬取站点页面，用本地 Ollama 
 ```mermaid
 xychart-beta
     title "rdegges/redline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 16（+1）
 
 
 ---

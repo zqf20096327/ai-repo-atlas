@@ -1,6 +1,6 @@
 # jianshuo/ccline
 
-⭐ 30 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/jianshuo/ccline) · [官网](https://ccline.jianshuo.dev) · 个人维护
+⭐ 30 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jianshuo/ccline) · [官网](https://ccline.jianshuo.dev) · 个人维护
 
 **在 zsh 提示符直接输入想法、获得回答并执行命令的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jianshuo/ccline 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 27 --> 31
     line [28, 29, 28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-11-17 30（+2）
+2026-10-18 28 → 2026-11-18 30（+2）
 
 
 ---

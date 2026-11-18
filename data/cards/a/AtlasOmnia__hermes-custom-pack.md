@@ -1,6 +1,6 @@
 # AtlasOmnia/hermes-custom-pack
 
-⭐ 79 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AtlasOmnia/hermes-custom-pack) · [官网](https://hermesagenttools.com/) · 组织维护
+⭐ 83 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AtlasOmnia/hermes-custom-pack) · [官网](https://hermesagenttools.com/) · 组织维护
 
 **Hermes Agent 第三方技能/插件集合，覆盖自动化与工作流**
 
@@ -45,12 +45,12 @@ AtlasOmnia 维护的独立技能包，为 Nous Research 的 Hermes Agent 提供�
 ```mermaid
 xychart-beta
     title "AtlasOmnia/hermes-custom-pack 星数(近 7 点)"
-    x-axis ["2026-10-28", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 72 --> 80
-    line [73, 75, 76, 77, 78, 79, 79]
+    x-axis ["2026-10-28", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 72 --> 84
+    line [73, 75, 76, 77, 78, 79, 83]
 ```
 
-2026-10-28 73 → 2026-11-17 79（+6）
+2026-10-28 73 → 2026-11-18 83（+10）
 
 
 ---

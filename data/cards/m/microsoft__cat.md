@@ -1,6 +1,6 @@
 # microsoft/cat
 
-⭐ 13 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/cat) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/cat) · 组织维护
 
 **微软 Copilot 采纳指南与研讨会资源的静态网站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/cat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

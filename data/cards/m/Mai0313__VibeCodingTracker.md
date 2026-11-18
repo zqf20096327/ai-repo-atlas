@@ -1,6 +1,6 @@
 # Mai0313/VibeCodingTracker
 
-⭐ 14 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mai0313/VibeCodingTracker) · [官网](https://mai0313.github.io/VibeCodingTracker/) · 个人维护 · 中文 README
+⭐ 14 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mai0313/VibeCodingTracker) · [官网](https://mai0313.github.io/VibeCodingTracker/) · 个人维护 · 中文 README
 
 **追踪 Claude Code/Codex 等 AI 编程助手用量与成本的 Rust CLI/TUI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mai0313/VibeCodingTracker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
     y-axis "stars" 13 --> 16
     line [15, 14, 14]
 ```
 
-2026-10-18 15 → 2026-11-17 14（-1）
+2026-10-18 15 → 2026-11-18 14（-1）
 
 
 ---

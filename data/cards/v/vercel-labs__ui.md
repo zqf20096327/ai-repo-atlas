@@ -1,6 +1,6 @@
 # vercel-labs/ui
 
-⭐ 5,283 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/vercel-labs/ui) · [官网](https://ui-sdk.dev) · 组织维护
+⭐ 5,530 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/vercel-labs/ui) · [官网](https://ui-sdk.dev) · 组织维护
 
 **面向 agent 的无头 UI 行为库，覆盖五大前端框架**
 
@@ -46,12 +46,12 @@ UI SDK 提供键盘导航、焦点、选择、弹层、拖放及对应 ARIA 行�
 ```mermaid
 xychart-beta
     title "vercel-labs/ui 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-17"]
-    y-axis "stars" 5282 --> 5284
-    line [5283, 5283]
+    x-axis ["2026-11-16", "2026-11-18"]
+    y-axis "stars" 5259 --> 5554
+    line [5283, 5530]
 ```
 
-2026-11-16 5,283 → 2026-11-17 5,283（+0）
+2026-11-16 5,283 → 2026-11-18 5,530（+247）
 
 
 ---

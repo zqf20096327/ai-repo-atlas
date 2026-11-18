@@ -1,6 +1,6 @@
 # PacktPublishing/Building-Natural-Language-and-LLM-Pipelines
 
-⭐ 70 · Jupyter Notebook · MIT · 推送 2026-01-01 · [GitHub](https://github.com/PacktPublishing/Building-Natural-Language-and-LLM-Pipelines) · 组织维护
+⭐ 71 · Jupyter Notebook · MIT · 推送 2026-01-01 · [GitHub](https://github.com/PacktPublishing/Building-Natural-Language-and-LLM-Pipelines) · 组织维护
 
 **Packt 图书配套代码：用 Haystack/LangGraph 构建 RAG 与 agent 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PacktPublishing/Building-Natural-Language-and-LLM-Pipelines 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 67 --> 72
+    line [68, 69, 70, 69, 70, 71]
 ```
 
-2026-10-18 68 → 2026-11-17 70（+2）
+2026-10-18 68 → 2026-11-18 71（+3）
 
 
 ---

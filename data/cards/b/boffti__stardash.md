@@ -1,6 +1,6 @@
 # boffti/stardash
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/boffti/stardash) · [官网](https://stardash.dev) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/boffti/stardash) · [官网](https://stardash.dev) · 个人维护
 
 **把 GitHub stars 变成 AI 辅助的发现、整理与贡献工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "boffti/stardash 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-18"]
     y-axis "stars" 10 --> 36
     line [12, 33, 34, 34]
 ```
 
-2026-10-18 12 → 2026-11-17 34（+22）
+2026-10-18 12 → 2026-11-18 34（+22）
 
 
 ---

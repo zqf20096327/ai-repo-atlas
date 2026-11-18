@@ -1,6 +1,6 @@
 # deathlegionteamlk/leorch
 
-⭐ 22 · Rust · MIT · 推送 2026-07-14 · [GitHub](https://github.com/deathlegionteamlk/leorch) · 组织维护
+⭐ 23 · Rust · MIT · 推送 2026-07-14 · [GitHub](https://github.com/deathlegionteamlk/leorch) · 组织维护
 
 **用 Rust 从零实现的深度学习框架，供学习底层原理**
 
@@ -45,12 +45,12 @@ Leorch 是用 Rust 从零编写的深度学习框架，不依赖 PyTorch 或 lib
 ```mermaid
 xychart-beta
     title "deathlegionteamlk/leorch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 16 --> 23
-    line [17, 18, 17, 18, 20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 17, 18, 20, 21, 22, 23]
 ```
 
-2026-10-18 17 → 2026-11-17 22（+5）
+2026-10-18 17 → 2026-11-18 23（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # deariary/github-weekly-reporter
 
-⭐ 28 · TypeScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/deariary/github-weekly-reporter) · [官网](https://deariary.github.io/github-weekly-reporter/) · 个人维护
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/deariary/github-weekly-reporter) · [官网](https://deariary.github.io/github-weekly-reporter/) · 个人维护
 
 **把 GitHub 活动自动生成 AI 摘要周报页面的 Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deariary/github-weekly-reporter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-11-17 28（+0）
+2026-10-18 28 → 2026-11-18 29（+1）
 
 
 ---

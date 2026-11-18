@@ -44,12 +44,12 @@ Devinterview.io 维护的 Random Forest 主题面试题问答集合，覆盖 202
 ```mermaid
 xychart-beta
     title "Devinterview-io/random-forest-interview-questions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-18"]
     y-axis "stars" 19 --> 23
     line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-11-17 22（+2）
+2026-10-18 20 → 2026-11-18 22（+2）
 
 
 ---

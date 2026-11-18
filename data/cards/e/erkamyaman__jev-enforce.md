@@ -1,6 +1,6 @@
 # erkamyaman/jev-enforce
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/erkamyaman/jev-enforce) · [官网](https://www.npmjs.com/package/jev-enforce) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/erkamyaman/jev-enforce) · [官网](https://www.npmjs.com/package/jev-enforce) · 个人维护
 
 **校验 Claude Code 回复与编辑是否遵守 CLAUDE.md 规则的插件**
 
@@ -45,12 +45,12 @@ Claude Code 插件，通过 TypeSafe 的 Jev API 以类型化是非题方式逐�
 ```mermaid
 xychart-beta
     title "erkamyaman/jev-enforce 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 11, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 11, 12, 13, 15]
 ```
 
-2026-10-18 10 → 2026-11-17 13（+3）
+2026-10-18 10 → 2026-11-18 15（+5）
 
 
 ---

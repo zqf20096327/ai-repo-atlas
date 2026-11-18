@@ -1,6 +1,6 @@
 # 0xMerl99/Agent-World-Protocol
 
-⭐ 49 · JavaScript · 推送 2026-06-16 · [GitHub](https://github.com/0xMerl99/Agent-World-Protocol) · [官网](https://agentworld.pro/) · 个人维护
+⭐ 51 · JavaScript · 推送 2026-06-16 · [GitHub](https://github.com/0xMerl99/Agent-World-Protocol) · [官网](https://agentworld.pro/) · 个人维护
 
 **供人与 AI agent 共同接入的链上像素多人世界服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "0xMerl99/Agent-World-Protocol 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 43 --> 50
-    line [44, 46, 47, 48, 49, 49]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 43 --> 52
+    line [44, 46, 47, 48, 49, 51]
 ```
 
-2026-10-18 44 → 2026-11-17 49（+5）
+2026-10-18 44 → 2026-11-18 51（+7）
 
 
 ---

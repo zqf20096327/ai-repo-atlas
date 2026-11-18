@@ -1,6 +1,6 @@
 # build-on-aws/langchain-embeddings
 
-⭐ 58 · Jupyter Notebook · MIT-0 · 推送 2026-04-14 · [GitHub](https://github.com/build-on-aws/langchain-embeddings) · 组织维护
+⭐ 59 · Jupyter Notebook · MIT-0 · 推送 2026-04-14 · [GitHub](https://github.com/build-on-aws/langchain-embeddings) · 组织维护
 
 **面向开发者的 AWS 多模态搜索与 RAG 教学仓库：Bedrock 嵌入+向量库**
 
@@ -46,12 +46,12 @@ AWS build-on-aws 维护的学习型仓库，用 Python 演示基于 Amazon Bedro
 ```mermaid
 xychart-beta
     title "build-on-aws/langchain-embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-11-17 58（+0）
+2026-10-18 58 → 2026-11-18 59（+1）
 
 
 ---

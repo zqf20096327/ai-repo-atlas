@@ -1,6 +1,6 @@
 # Mattbusel/llm-cpp
 
-⭐ 14 · C++ · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Mattbusel/llm-cpp) · [官网](https://mattbusel.github.io/llm-cpp/) · 个人维护 · 中文 README
+⭐ 14 · C++ · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mattbusel/llm-cpp) · [官网](https://mattbusel.github.io/llm-cpp/) · 个人维护 · 中文 README
 
 **单头文件 C++17 库集：在 C++ 应用中接入 OpenAI/Anthropic LLM 功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattbusel/llm-cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

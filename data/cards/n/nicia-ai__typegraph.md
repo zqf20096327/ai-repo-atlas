@@ -1,6 +1,6 @@
 # nicia-ai/typegraph
 
-⭐ 90 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nicia-ai/typegraph) · [官网](https://typegraph.dev) · 组织维护
+⭐ 91 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nicia-ai/typegraph) · [官网](https://typegraph.dev) · 组织维护
 
 **嵌入 SQLite/PostgreSQL 的 TypeScript 知识图谱库，供 Agent 记忆与 RAG 建模**
 
@@ -45,12 +45,12 @@ TypeScript 嵌入式属性图谱库：在现有 SQLite 或 PostgreSQL 数据库�
 ```mermaid
 xychart-beta
     title "nicia-ai/typegraph 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-17"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-11-14", "2026-11-18"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-11-14 90 → 2026-11-17 90（+0）
+2026-11-14 90 → 2026-11-18 91（+1）
 
 
 ---

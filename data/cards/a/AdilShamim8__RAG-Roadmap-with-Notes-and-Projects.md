@@ -1,6 +1,6 @@
 # AdilShamim8/RAG-Roadmap-with-Notes-and-Projects
 
-⭐ 12 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/AdilShamim8/RAG-Roadmap-with-Notes-and-Projects) · 个人维护
+⭐ 13 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/AdilShamim8/RAG-Roadmap-with-Notes-and-Projects) · 个人维护
 
 **面向工程师的 RAG 端到端学习路线：从文档处理到 Agentic RAG 与生产部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AdilShamim8/RAG-Roadmap-with-Notes-and-Projects 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 10, 12, 12]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 10, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-17 12（+2）
+2026-10-18 10 → 2026-11-18 13（+3）
 
 
 ---

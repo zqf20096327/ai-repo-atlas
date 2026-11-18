@@ -1,6 +1,6 @@
 # lab-cosmo/upet
 
-⭐ 250 · Python · BSD-3-Clause · 推送 2026-11-15 · [GitHub](https://github.com/lab-cosmo/upet) · [官网](https://lab-cosmo.github.io/upet/latest) · 组织维护
+⭐ 251 · Python · BSD-3-Clause · 推送 2026-11-15 · [GitHub](https://github.com/lab-cosmo/upet) · [官网](https://lab-cosmo.github.io/upet/latest) · 组织维护
 
 **覆盖全元素周期表的通用原子间势模型包，用于材料/分子模拟**
 
@@ -46,12 +46,12 @@ UPET 提供基于 Point Edge Transformer (PET) 架构的通用机器学习原子
 ```mermaid
 xychart-beta
     title "lab-cosmo/upet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 242 --> 251
-    line [243, 244, 247, 250, 244, 250, 250]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 242 --> 252
+    line [243, 244, 247, 250, 244, 250, 251]
 ```
 
-2026-10-18 243 → 2026-11-17 250（+7）
+2026-10-18 243 → 2026-11-18 251（+8）
 
 
 ---

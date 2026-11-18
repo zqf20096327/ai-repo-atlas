@@ -1,6 +1,6 @@
 # mauripsale/doc-adk-training
 
-⭐ 85 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/mauripsale/doc-adk-training) · 个人维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/mauripsale/doc-adk-training) · 个人维护
 
 **Google ADK 从入门到生产的 40 模块 AI agent 训练课程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mauripsale/doc-adk-training 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 75 --> 86
-    line [76, 78, 83, 84, 78, 84, 85, 85]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 75 --> 87
+    line [76, 78, 83, 84, 78, 84, 85, 86]
 ```
 
-2026-10-18 76 → 2026-11-17 85（+9）
+2026-10-18 76 → 2026-11-18 86（+10）
 
 
 ---

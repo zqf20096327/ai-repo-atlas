@@ -1,6 +1,6 @@
 # xg-gh-25/SwarmAI
 
-⭐ 60 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xg-gh-25/SwarmAI) · [官网](https://github.com/xg-gh-25) · 个人维护 · 中文 README
+⭐ 62 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xg-gh-25/SwarmAI) · [官网](https://github.com/xg-gh-25) · 个人维护 · 中文 README
 
 **自进化的 brain-first Agent OS：认知跨会话持久累积**
 
@@ -45,12 +45,12 @@ SwarmAI 是一个自我进化的 Agent 操作系统，围绕四个理念构建�
 ```mermaid
 xychart-beta
     title "xg-gh-25/SwarmAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 53 --> 61
-    line [54, 55, 54, 55, 60, 60]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 53 --> 63
+    line [54, 55, 54, 55, 60, 62]
 ```
 
-2026-10-18 54 → 2026-11-17 60（+6）
+2026-10-18 54 → 2026-11-18 62（+8）
 
 
 ---

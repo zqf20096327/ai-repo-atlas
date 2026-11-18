@@ -1,6 +1,6 @@
 # kyegomez/SwitchTransformers
 
-⭐ 149 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/SwitchTransformers) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 150 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/SwitchTransformers) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **PyTorch 实现的 Switch Transformers（MoE 稀疏模型）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/SwitchTransformers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 147 --> 150
-    line [149, 148, 149, 149]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 147 --> 151
+    line [149, 148, 149, 150]
 ```
 
-2026-10-18 149 → 2026-11-17 149（+0）
+2026-10-18 149 → 2026-11-18 150（+1）
 
 
 ---

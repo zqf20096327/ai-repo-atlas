@@ -1,6 +1,6 @@
 # Sterll/claude-terminal
 
-⭐ 81 · JavaScript · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Sterll/claude-terminal) · [官网](https://claudeterminal.dev) · 个人维护
+⭐ 81 · JavaScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sterll/claude-terminal) · [官网](https://claudeterminal.dev) · 个人维护
 
 **管理 Claude Code 项目的跨平台桌面应用，集成终端与聊天界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sterll/claude-terminal 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 75 --> 82
     line [76, 77, 78, 80, 81, 78, 81, 81]
 ```
 
-2026-10-18 76 → 2026-11-17 81（+5）
+2026-10-18 76 → 2026-11-18 81（+5）
 
 
 ---

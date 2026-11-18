@@ -1,6 +1,6 @@
 # PennyLaneAI/pennylane-cirq
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/PennyLaneAI/pennylane-cirq) · [官网](https://docs.pennylane.ai/projects/cirq) · 组织维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/PennyLaneAI/pennylane-cirq) · [官网](https://docs.pennylane.ai/projects/cirq) · 组织维护
 
 **将 Google Cirq 量子框架接入 PennyLane 的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PennyLaneAI/pennylane-cirq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-11-17 65（+0）
+2026-10-18 65 → 2026-11-18 65（+0）
 
 
 ---

@@ -44,12 +44,12 @@ Yuan Tang 的个人网站源码仓库，基于 Jekyll 4.3.4+ 的静态站点，�
 ```mermaid
 xychart-beta
     title "terrytangyuan/terrytangyuan.github.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Magnussmari/chronograph
 
-⭐ 12 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Magnussmari/chronograph) · [官网](https://timeline.sumarhus.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Magnussmari/chronograph) · [官网](https://timeline.sumarhus.com) · 个人维护
 
 **AI 生成的 5,226 年人类历史逐年 JSON 语料库与阅读前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Magnussmari/chronograph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

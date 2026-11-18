@@ -1,6 +1,6 @@
 # Nigel1992/AutoSort-Plus
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Nigel1992/AutoSort-Plus) · [官网](https://nigel1992.github.io/AutoSort-Plus/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Nigel1992/AutoSort-Plus) · [官网](https://nigel1992.github.io/AutoSort-Plus/) · 个人维护
 
 **AI 自动邮件分类的 Thunderbird 扩展**
 
@@ -45,12 +45,12 @@ Thunderbird 邮件客户端扩展：用户右键选择多封邮件后调用 AI �
 ```mermaid
 xychart-beta
     title "Nigel1992/AutoSort-Plus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-17 15（+1）
+2026-10-18 14 → 2026-11-18 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-agent-rs
 
-⭐ 76 · Rust · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/MoonshotAI/kimi-agent-rs) · 组织维护
+⭐ 77 · Rust · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/MoonshotAI/kimi-agent-rs) · 组织维护
 
 **Kimi Code CLI 的 Rust 实现：基于 JSON-RPC 的 wire-only agent 服务器**
 
@@ -46,12 +46,12 @@ MoonshotAI 维护的 Rust 工作区，实现 Kimi Code CLI 的 Wire 模式兼容
 ```mermaid
 xychart-beta
     title "MoonshotAI/kimi-agent-rs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 72 --> 77
-    line [73, 74, 75, 74, 76, 76]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 72 --> 78
+    line [73, 74, 75, 74, 76, 77]
 ```
 
-2026-10-18 73 → 2026-11-17 76（+3）
+2026-10-18 73 → 2026-11-18 77（+4）
 
 
 ---

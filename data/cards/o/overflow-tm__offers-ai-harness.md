@@ -1,6 +1,6 @@
 # overflow-tm/offers-ai-harness
 
-⭐ 18 · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/overflow-tm/offers-ai-harness) · [官网](https://service.offers.jp/worker/ai-harness/) · 组织维护
+⭐ 18 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/overflow-tm/offers-ai-harness) · [官网](https://service.offers.jp/worker/ai-harness/) · 组织维护
 
 **让 AI 编码代理直接使用 Offers 转职平台的技能集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "overflow-tm/offers-ai-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 18（+0）
 
 
 ---

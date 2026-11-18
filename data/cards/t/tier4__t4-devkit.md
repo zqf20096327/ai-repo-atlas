@@ -1,6 +1,6 @@
 # tier4/t4-devkit
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/tier4/t4-devkit) · [官网](https://tier4.github.io/t4-devkit/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/tier4/t4-devkit) · [官网](https://tier4.github.io/t4-devkit/) · 组织维护
 
 **自动驾驶 T4 数据集的加载与操作工具包**
 
@@ -45,12 +45,12 @@ TIER4 维护的 Python 工具包，用于加载和操作 T4 自动驾驶数据�
 ```mermaid
 xychart-beta
     title "tier4/t4-devkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 18（+1）
 
 
 ---

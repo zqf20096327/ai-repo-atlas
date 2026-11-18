@@ -1,6 +1,6 @@
 # jiunianyyds/traework2api-android
 
-⭐ 14 · Kotlin · MIT · 推送 2026-11-09 · [GitHub](https://github.com/jiunianyyds/traework2api-android) · 个人维护 · 中文 README
+⭐ 15 · Kotlin · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jiunianyyds/traework2api-android) · 个人维护 · 中文 README
 
 **Android 本地 API 网关：把 Trae 账号额度转为 OpenAI 兼容 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jiunianyyds/traework2api-android 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 6 --> 15
-    line [7, 8, 9, 11, 12, 13, 9, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 6 --> 16
+    line [7, 8, 9, 11, 12, 13, 9, 13, 14, 15]
 ```
 
-2026-10-18 7 → 2026-11-17 14（+7）
+2026-10-18 7 → 2026-11-18 15（+8）
 
 
 ---

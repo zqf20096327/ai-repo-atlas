@@ -45,12 +45,12 @@ DeepInfra 官方维护的 TypeScript/JavaScript SDK，封装 DeepInfra Inference
 ```mermaid
 xychart-beta
     title "deepinfra/deepinfra-node 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-18"]
     y-axis "stars" 20 --> 23
     line [21, 22, 21, 21]
 ```
 
-2026-10-18 21 → 2026-11-17 21（+0）
+2026-10-18 21 → 2026-11-18 21（+0）
 
 
 ---

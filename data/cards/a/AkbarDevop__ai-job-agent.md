@@ -1,6 +1,6 @@
 # AkbarDevop/ai-job-agent
 
-⭐ 69 · JavaScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/AkbarDevop/ai-job-agent) · 个人维护
+⭐ 70 · JavaScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/AkbarDevop/ai-job-agent) · 个人维护
 
 **运行在 Claude Code 内的求职申请自动化 agent 技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AkbarDevop/ai-job-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 69, 69]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 66 --> 71
+    line [67, 68, 69, 70]
 ```
 
-2026-10-18 67 → 2026-11-17 69（+2）
+2026-10-18 67 → 2026-11-18 70（+3）
 
 
 ---

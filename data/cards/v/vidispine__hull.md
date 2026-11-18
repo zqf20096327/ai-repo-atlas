@@ -46,12 +46,12 @@ HULL 是一个 Helm library chart，用于简化基于 Helm chart 的工作流�
 ```mermaid
 xychart-beta
     title "vidispine/hull 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-17"]
+    x-axis ["2026-10-23", "2026-11-18"]
     y-axis "stars" 294 --> 296
     line [295, 295]
 ```
 
-2026-10-23 295 → 2026-11-17 295（+0）
+2026-10-23 295 → 2026-11-18 295（+0）
 
 
 ---

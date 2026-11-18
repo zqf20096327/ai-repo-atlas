@@ -1,6 +1,6 @@
 # foxminchan/BookWorm
 
-⭐ 508 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/foxminchan/BookWorm) · [官网](https://foxminchan.github.io/BookWorm/) · 个人维护
+⭐ 508 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/foxminchan/BookWorm) · [官网](https://foxminchan.github.io/BookWorm/) · 个人维护
 
 **展示 Aspire 云原生微服务与多 Agent AI 集成的参考架构项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "foxminchan/BookWorm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18"]
     y-axis "stars" 506 --> 509
     line [507, 508, 507, 508, 507, 508, 508]
 ```
 
-2026-10-18 507 → 2026-11-17 508（+1）
+2026-10-18 507 → 2026-11-18 508（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/seeing_without_pixels
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/google-deepmind/seeing_without_pixels) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/google-deepmind/seeing_without_pixels) · 组织维护
 
 **仅凭相机轨迹（无像素）做视频文本检索的模型代码**
 
@@ -45,12 +45,12 @@ CVPR 2026 论文 Seeing without Pixels 的官方代码：CamFormer 是作用于�
 ```mermaid
 xychart-beta
     title "google-deepmind/seeing_without_pixels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

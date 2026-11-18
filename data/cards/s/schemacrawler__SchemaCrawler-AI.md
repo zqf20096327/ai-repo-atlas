@@ -1,6 +1,6 @@
 # schemacrawler/SchemaCrawler-AI
 
-⭐ 14 · Java · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/schemacrawler/SchemaCrawler-AI) · 组织维护
+⭐ 14 · Java · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/schemacrawler/SchemaCrawler-AI) · 组织维护
 
 **让 AI agent 通过 MCP 交互查询数据库 schema 元数据的 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "schemacrawler/SchemaCrawler-AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 11 --> 15
     line [12, 13, 12, 14, 14]
 ```
 
-2026-10-18 12 → 2026-11-17 14（+2）
+2026-10-18 12 → 2026-11-18 14（+2）
 
 
 ---

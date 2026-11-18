@@ -45,12 +45,12 @@ TorrentClaw 官方维护的 Model Context Protocol 服务器，把 TorrentClaw A
 ```mermaid
 xychart-beta
     title "torrentclaw/torrentclaw-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-16", "2026-11-18"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-17 18（+2）
+2026-10-18 16 → 2026-11-18 18（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Apageoflove/VLM-Driving-Scene-Understanding
 
-⭐ 14 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Apageoflove/VLM-Driving-Scene-Understanding) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Apageoflove/VLM-Driving-Scene-Understanding) · 个人维护 · 中文 README
 
 **VLM 驾驶场景结构化理解：图片输入输出四类分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Apageoflove/VLM-Driving-Scene-Understanding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 15（+1）
 
 
 ---

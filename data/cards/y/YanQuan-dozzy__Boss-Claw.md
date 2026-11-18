@@ -1,6 +1,6 @@
 # YanQuan-dozzy/Boss-Claw
 
-⭐ 86 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/YanQuan-dozzy/Boss-Claw) · [官网](https://github.com/YanQuan-dozzy/Boss-Claw/releases/latest) · 个人维护 · 中文 README
+⭐ 88 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/YanQuan-dozzy/Boss-Claw) · [官网](https://github.com/YanQuan-dozzy/Boss-Claw/releases/latest) · 个人维护 · 中文 README
 
 **本地 AI 求职助手：四平台岗位采集、AI 匹配排序与投递管理**
 
@@ -47,12 +47,12 @@ Electron 桌面应用，面向在 BOSS直聘/猎聘/智联/前程无忧投递的
 ```mermaid
 xychart-beta
     title "YanQuan-dozzy/Boss-Claw 星数(近 9 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 59 --> 88
-    line [61, 64, 65, 68, 75, 82, 83, 86, 86]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 59 --> 90
+    line [61, 64, 65, 68, 75, 82, 83, 86, 88]
 ```
 
-2026-10-26 61 → 2026-11-17 86（+25）
+2026-10-26 61 → 2026-11-18 88（+27）
 
 
 ---

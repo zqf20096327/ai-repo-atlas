@@ -1,6 +1,6 @@
 # kbeaugrand/SemanticKernel.Agents.DatabaseAgent
 
-⭐ 44 · C# · MIT · 推送 2025-11-21 · [GitHub](https://github.com/kbeaugrand/SemanticKernel.Agents.DatabaseAgent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Semantic Kernel 的 NL2SQL 数据库代理，自然语言生成并执行 SQL**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # yinwenyuan28-afk/pi-memory-system
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yinwenyuan28-afk/pi-memory-system) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/yinwenyuan28-afk/pi-memory-system) · 个人维护 · 中文 README
 
 **为 Pi 编码代理提供持久记忆的扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yinwenyuan28-afk/pi-memory-system 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-17"]
+    x-axis ["2026-10-23", "2026-11-18"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-17 21（+0）
+2026-10-23 21 → 2026-11-18 21（+0）
 
 
 ---

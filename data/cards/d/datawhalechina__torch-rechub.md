@@ -1,6 +1,6 @@
 # datawhalechina/torch-rechub
 
-⭐ 1,243 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/datawhalechina/torch-rechub) · [官网](https://datawhalechina.github.io/torch-rechub/) · 组织维护 · 中文 README
+⭐ 1,244 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/datawhalechina/torch-rechub) · [官网](https://datawhalechina.github.io/torch-rechub/) · 组织维护 · 中文 README
 
 **PyTorch 推荐系统框架：30+ 主流模型开箱即用并支持 ONNX 部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/torch-rechub 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 1231 --> 1244
-    line [1232, 1233, 1234, 1235, 1234, 1235, 1238, 1234, 1240, 1241, 1242, 1243, 1243]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 1231 --> 1245
+    line [1232, 1233, 1234, 1235, 1234, 1235, 1238, 1234, 1240, 1241, 1242, 1243, 1244]
 ```
 
-2026-10-18 1,232 → 2026-11-17 1,243（+11）
+2026-10-18 1,232 → 2026-11-18 1,244（+12）
 
 
 ---

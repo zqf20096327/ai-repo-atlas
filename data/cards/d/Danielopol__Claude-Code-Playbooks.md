@@ -1,6 +1,6 @@
 # Danielopol/Claude-Code-Playbooks
 
-⭐ 69 · MDX · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Danielopol/Claude-Code-Playbooks) · [官网](https://www.claudecodehq.com) · 个人维护
+⭐ 69 · MDX · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Danielopol/Claude-Code-Playbooks) · [官网](https://www.claudecodehq.com) · 个人维护
 
 **1,179+ 个 CLAUDE.md 模板库：即复制即用配置 Claude Code**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Danielopol/Claude-Code-Playbooks 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-18"]
     y-axis "stars" 62 --> 70
     line [63, 64, 65, 66, 68, 69, 69]
 ```
 
-2026-10-18 63 → 2026-11-17 69（+6）
+2026-10-18 63 → 2026-11-18 69（+6）
 
 
 ---

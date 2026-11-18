@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-research-papers
 
-⭐ 79 · Python · 推送 2026-09-13 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-research-papers) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 领域重要研究论文的策展清单**
 

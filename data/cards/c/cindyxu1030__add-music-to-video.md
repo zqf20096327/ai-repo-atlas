@@ -1,6 +1,6 @@
 # cindyxu1030/add-music-to-video
 
-⭐ 12 · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/cindyxu1030/add-music-to-video) · 组织维护
+⭐ 13 · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/cindyxu1030/add-music-to-video) · 组织维护
 
 **AI 视频配乐集成手册：把 Sonilo 音乐/SFX 生成接入视频流水线**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cindyxu1030/add-music-to-video 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 11, 12, 13]
 ```
 
-2026-10-18 10 → 2026-11-17 12（+2）
+2026-10-18 10 → 2026-11-18 13（+3）
 
 
 ---

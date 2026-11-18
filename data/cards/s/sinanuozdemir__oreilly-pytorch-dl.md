@@ -45,12 +45,12 @@ Sinan Ozdemir 的 O'Reilly Live Online Training《Deep Learning for Modern AI》
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-pytorch-dl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-17 52（+0）
+2026-10-18 52 → 2026-11-18 52（+0）
 
 
 ---

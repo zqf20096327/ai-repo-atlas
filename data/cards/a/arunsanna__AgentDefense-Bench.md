@@ -1,6 +1,6 @@
 # arunsanna/AgentDefense-Bench
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/arunsanna/AgentDefense-Bench) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/arunsanna/AgentDefense-Bench) · 个人维护
 
 **评估 MCP AI agent 基础设施层防御的安全基准数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arunsanna/AgentDefense-Bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 16（+1）
 
 
 ---

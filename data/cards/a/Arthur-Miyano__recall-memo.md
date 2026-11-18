@@ -1,6 +1,6 @@
 # Arthur-Miyano/recall-memo
 
-⭐ 16 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/Arthur-Miyano/recall-memo) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/Arthur-Miyano/recall-memo) · 个人维护 · 中文 README
 
 **本地运行的八股背诵训练工具：AI 出题、判分、面试模拟与复盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Arthur-Miyano/recall-memo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

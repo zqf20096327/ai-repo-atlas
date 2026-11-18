@@ -1,6 +1,6 @@
 # fchavelli/tsseg
 
-⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/fchavelli/tsseg) · [官网](https://fchavelli.github.io/tsseg) · 组织维护
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/fchavelli/tsseg) · [官网](https://fchavelli.github.io/tsseg) · 组织维护
 
 **Python 时间序列分割库：30+ 变点/状态检测算法统一 API**
 
@@ -45,12 +45,12 @@ tsseg 将变点检测（22 个检测器）与状态检测（9 个检测器）的
 ```mermaid
 xychart-beta
     title "fchavelli/tsseg 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 14 --> 19
     line [15, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-11-17 18（+3）
+2026-10-18 15 → 2026-11-18 18（+3）
 
 
 ---

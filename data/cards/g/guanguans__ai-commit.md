@@ -1,6 +1,6 @@
 # guanguans/ai-commit
 
-⭐ 393 · PHP · MIT · 推送 2026-11-03 · [GitHub](https://github.com/guanguans/ai-commit) · 个人维护 · 中文 README
+⭐ 391 · PHP · MIT · 推送 2026-11-03 · [GitHub](https://github.com/guanguans/ai-commit) · 个人维护 · 中文 README
 
 **用 AI 生成约定式 git 提交信息的命令行工具**
 
@@ -43,12 +43,12 @@ PHP 编写的命令行工具，读取暂存的 git 变更，调用 AI 生成器�
 ```mermaid
 xychart-beta
     title "guanguans/ai-commit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 392 --> 395
-    line [394, 393, 393]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 390 --> 395
+    line [394, 393, 391]
 ```
 
-2026-10-18 394 → 2026-11-17 393（-1）
+2026-10-18 394 → 2026-11-18 391（-3）
 
 
 ---

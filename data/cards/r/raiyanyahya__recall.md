@@ -1,6 +1,6 @@
 # raiyanyahya/recall
 
-⭐ 769 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/raiyanyahya/recall) · [官网](https://recallplugin.dev) · 个人维护
+⭐ 770 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/raiyanyahya/recall) · [官网](https://recallplugin.dev) · 个人维护
 
 **给 Claude Code/OpenCode 的本地会话记忆插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raiyanyahya/recall 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 758 --> 770
-    line [759, 761, 762, 764, 766, 769, 768, 769, 769]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 758 --> 771
+    line [759, 761, 762, 764, 766, 769, 768, 769, 770]
 ```
 
-2026-10-18 759 → 2026-11-17 769（+10）
+2026-10-18 759 → 2026-11-18 770（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # virtualsteve-star/chat-playground
 
-⭐ 41 · JavaScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/virtualsteve-star/chat-playground) · [官网](https://virtualsteve-star.github.io/chat-playground/) · 个人维护
+⭐ 42 · JavaScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/virtualsteve-star/chat-playground) · [官网](https://virtualsteve-star.github.io/chat-playground/) · 个人维护
 
 **浏览器端 LLM 安全实验场：本地试聊天模型与 guardrails**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "virtualsteve-star/chat-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-11-17 41（+0）
+2026-10-18 41 → 2026-11-18 42（+1）
 
 
 ---

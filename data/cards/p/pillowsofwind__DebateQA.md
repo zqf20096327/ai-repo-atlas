@@ -46,12 +46,12 @@ EACL 2026 论文 "DebateQA: Evaluating Question Answering on Debatable Knowledge
 ```mermaid
 xychart-beta
     title "pillowsofwind/DebateQA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

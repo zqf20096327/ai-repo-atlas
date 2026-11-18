@@ -1,6 +1,6 @@
 # jina-ai/cli
 
-⭐ 182 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/jina-ai/cli) · [官网](https://jina.ai) · 组织维护
+⭐ 181 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/jina-ai/cli) · [官网](https://jina.ai) · 组织维护
 
 **把 Jina AI 各 API 封装成 Unix 管道命令的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jina-ai/cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 180 --> 183
-    line [181, 182, 181, 182, 182]
+    line [181, 182, 181, 182, 181]
 ```
 
-2026-10-18 181 → 2026-11-17 182（+1）
+2026-10-18 181 → 2026-11-18 181（+0）
 
 
 ---

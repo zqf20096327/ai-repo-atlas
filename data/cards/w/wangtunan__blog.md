@@ -1,6 +1,6 @@
 # wangtunan/blog
 
-⭐ 391 · Shell · 推送 2026-03-13 · [GitHub](https://github.com/wangtunan/blog) · 个人维护 · 中文 README
+⭐ 390 · Shell · 推送 2026-03-13 · [GitHub](https://github.com/wangtunan/blog) · 个人维护 · 中文 README
 
 **个人技术博客：前端、算法与 LLM 学习笔记**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wangtunan/blog 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 389 --> 392
-    line [391, 390, 391, 391]
+    line [391, 390, 391, 390]
 ```
 
-2026-10-18 391 → 2026-11-17 391（+0）
+2026-10-18 391 → 2026-11-18 390（-1）
 
 
 ---

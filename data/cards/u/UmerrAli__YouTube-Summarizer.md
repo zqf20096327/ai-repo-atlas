@@ -1,6 +1,6 @@
 # UmerrAli/YouTube-Summarizer
 
-⭐ 16 · JavaScript · MIT · 推送 2025-12-23 · [GitHub](https://github.com/UmerrAli/YouTube-Summarizer) · [官网](https://summarizeyoutube.netlify.app/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2025-12-23 · [GitHub](https://github.com/UmerrAli/YouTube-Summarizer) · [官网](https://summarizeyoutube.netlify.app/) · 个人维护
 
 **用 GPT-3.5 生成 YouTube 视频摘要的网页应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "UmerrAli/YouTube-Summarizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 15（-1）
 
 
 ---

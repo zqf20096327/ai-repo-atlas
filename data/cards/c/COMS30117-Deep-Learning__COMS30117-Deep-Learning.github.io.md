@@ -40,12 +40,12 @@
 ```mermaid
 xychart-beta
     title "COMS30117-Deep-Learning/COMS30117-Deep-Learning.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 14（+0）
 
 
 ---

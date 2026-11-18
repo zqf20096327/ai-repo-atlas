@@ -1,6 +1,6 @@
 # ml4t/models
 
-⭐ 20 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ml4t/models) · [官网](https://www.ml4trading.io/docs/models/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ml4t/models) · [官网](https://www.ml4trading.io/docs/models/) · 组织维护
 
 **面向实证资产定价与组合学习的金融专用模型库**
 
@@ -45,12 +45,12 @@ Python 库，为量化金融研究提供论文复现级模型族：潜在因子�
 ```mermaid
 xychart-beta
     title "ml4t/models 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 15 --> 21
-    line [16, 18, 19, 18, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 15 --> 22
+    line [16, 18, 19, 18, 20, 21]
 ```
 
-2026-10-18 16 → 2026-11-17 20（+4）
+2026-10-18 16 → 2026-11-18 21（+5）
 
 
 ---

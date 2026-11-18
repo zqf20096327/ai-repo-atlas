@@ -1,6 +1,6 @@
 # iamzifei/wechat-article-publisher-skill
 
-⭐ 158 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/wechat-article-publisher-skill) · 个人维护 · 中文 README
+⭐ 159 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/wechat-article-publisher-skill) · 个人维护 · 中文 README
 
 **把 Markdown/HTML 文章一键发布到微信公众号草稿箱的 Claude Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamzifei/wechat-article-publisher-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 156 --> 159
-    line [157, 158, 158]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 156 --> 160
+    line [157, 158, 159]
 ```
 
-2026-10-18 157 → 2026-11-17 158（+1）
+2026-10-18 157 → 2026-11-18 159（+2）
 
 
 ---

@@ -45,12 +45,12 @@ dzetsaka 是 QGIS 的栅格分类插件，提供 GMM、随机森林、SVM、KNN 
 ```mermaid
 xychart-beta
     title "nkarasiak/dzetsaka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-11-17 99（+0）
+2026-10-18 99 → 2026-11-18 99（+0）
 
 
 ---

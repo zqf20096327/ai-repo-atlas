@@ -1,6 +1,6 @@
 # db-agent/db-agent
 
-⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/db-agent/db-agent) · [官网](https://db-agent.com) · 组织维护
+⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/db-agent/db-agent) · [官网](https://db-agent.com) · 组织维护
 
 **面向 Databricks/Postgres/Snowflake 的生产级 text-to-SQL 智能体**
 
@@ -45,12 +45,12 @@ Node.js/React 实现的自然语言转 SQL 系统：检索相关 schema 上下�
 ```mermaid
 xychart-beta
     title "db-agent/db-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-11-17 31（+1）
+2026-10-18 30 → 2026-11-18 31（+1）
 
 
 ---

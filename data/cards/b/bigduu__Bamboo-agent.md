@@ -1,6 +1,6 @@
 # bigduu/Bamboo-agent
 
-⭐ 24 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bigduu/Bamboo-agent) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
+⭐ 24 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bigduu/Bamboo-agent) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
 
 **本地优先的 Rust agent 运行时：终端/浏览器/SDK 里跑 AI 代理**
 
@@ -46,12 +46,12 @@ Bamboo 是 Zenith 体系中的本地 agent harness/runtime：给定工作区与�
 ```mermaid
 xychart-beta
     title "bigduu/Bamboo-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-11", "2026-11-18"]
     y-axis "stars" 20 --> 25
     line [21, 22, 24, 24]
 ```
 
-2026-10-18 21 → 2026-11-17 24（+3）
+2026-10-18 21 → 2026-11-18 24（+3）
 
 
 ---

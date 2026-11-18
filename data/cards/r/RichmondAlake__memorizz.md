@@ -1,6 +1,6 @@
 # RichmondAlake/memorizz
 
-⭐ 791 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/RichmondAlake/memorizz) · [官网](https://github.com/RichmondAlake/memorizz) · 个人维护
+⭐ 792 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/RichmondAlake/memorizz) · [官网](https://github.com/RichmondAlake/memorizz) · 个人维护
 
 **为 AI agent 提供持久记忆层的 Python 框架**
 
@@ -47,12 +47,12 @@ Python 框架，为 agent 提供记忆管理与构建能力：支持情景/语�
 ```mermaid
 xychart-beta
     title "RichmondAlake/memorizz 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 773 --> 792
-    line [774, 776, 777, 779, 776, 782, 787, 788, 789, 790, 791, 791]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 773 --> 793
+    line [774, 776, 777, 779, 776, 782, 787, 788, 789, 790, 791, 792]
 ```
 
-2026-10-18 774 → 2026-11-17 791（+17）
+2026-10-18 774 → 2026-11-18 792（+18）
 
 
 ---

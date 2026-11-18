@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-31", "2026-11-14", "2026-11-18"]
     y-axis "stars" 235 --> 238
     line [236, 237, 237]
 ```
 
-2026-10-31 236 → 2026-11-17 237（+1）
+2026-10-31 236 → 2026-11-18 237（+1）
 
 
 ---

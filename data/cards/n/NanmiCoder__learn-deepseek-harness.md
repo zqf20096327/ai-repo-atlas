@@ -1,6 +1,6 @@
 # NanmiCoder/learn-deepseek-harness
 
-⭐ 16 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/NanmiCoder/learn-deepseek-harness) · [官网](https://learn-dsh.vercel.app) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/NanmiCoder/learn-deepseek-harness) · [官网](https://learn-dsh.vercel.app) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件开发交互式教程：20 节课带可跑 demo**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NanmiCoder/learn-deepseek-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-17 16（+2）
+2026-10-18 14 → 2026-11-18 17（+3）
 
 
 ---

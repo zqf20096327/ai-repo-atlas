@@ -1,6 +1,6 @@
 # aiamblichus/haevn
 
-⭐ 17 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/aiamblichus/haevn) · [官网](https://haevn.pages.dev/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/aiamblichus/haevn) · [官网](https://haevn.pages.dev/) · 个人维护
 
 **Chrome 扩展：多平台 AI 对话的本地归档、搜索与导出**
 
@@ -46,12 +46,12 @@ Chrome Manifest V3 扩展，将 ChatGPT、Claude、Gemini、Poe、DeepSeek、Qwe
 ```mermaid
 xychart-beta
     title "aiamblichus/haevn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 17（+0）
 
 
 ---

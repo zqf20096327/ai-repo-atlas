@@ -1,6 +1,6 @@
 # SimonMedy/DSH-Mobile
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/SimonMedy/DSH-Mobile) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SimonMedy/DSH-Mobile) · 个人维护
 
 **DeepSeek Harness Web UI 的非官方移动端 WebView 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SimonMedy/DSH-Mobile 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
     y-axis "stars" 16 --> 21
     line [17, 19, 17, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-11-17 20（+3）
+2026-10-18 17 → 2026-11-18 20（+3）
 
 
 ---

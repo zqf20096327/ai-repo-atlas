@@ -1,6 +1,6 @@
 # ghost-in-the-droid/android-agent
 
-⭐ 425 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ghost-in-the-droid/android-agent) · [官网](https://ghostinthedroid.com) · 组织维护
+⭐ 427 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ghost-in-the-droid/android-agent) · [官网](https://ghostinthedroid.com) · 组织维护
 
 **给 AI agent 提供真实手机操控身体的移动设备自动化框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ghost-in-the-droid/android-agent 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 421 --> 426
-    line [422, 425, 425]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 421 --> 428
+    line [422, 425, 427]
 ```
 
-2026-11-15 422 → 2026-11-17 425（+3）
+2026-11-15 422 → 2026-11-18 427（+5）
 
 
 ---

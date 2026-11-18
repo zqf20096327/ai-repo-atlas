@@ -1,6 +1,6 @@
 # onnx/turnkeyml
 
-⭐ 247 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/onnx/turnkeyml) · 组织维护
+⭐ 248 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/onnx/turnkeyml) · 组织维护
 
 **ONNX 工作流的无代码 CLI 工具链（导出/优化模型）**
 
@@ -44,12 +44,12 @@ ONNX 生态工具集项目：turnkey 提供面向通用 ONNX 工作流（如 CNN
 ```mermaid
 xychart-beta
     title "onnx/turnkeyml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 246 --> 248
-    line [247, 247]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 246 --> 249
+    line [247, 248]
 ```
 
-2026-10-18 247 → 2026-11-17 247（+0）
+2026-10-18 247 → 2026-11-18 248（+1）
 
 
 ---

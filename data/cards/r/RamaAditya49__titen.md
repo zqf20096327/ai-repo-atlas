@@ -1,6 +1,6 @@
 # RamaAditya49/titen
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/RamaAditya49/titen) · [官网](https://titen.dev) · 个人维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/RamaAditya49/titen) · [官网](https://titen.dev) · 个人维护
 
 **自托管 agent 记忆库：无 API key、无 LLM，MCP/SQLite 本地运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RamaAditya49/titen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

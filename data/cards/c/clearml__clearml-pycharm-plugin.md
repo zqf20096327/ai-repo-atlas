@@ -1,6 +1,6 @@
 # clearml/clearml-pycharm-plugin
 
-⭐ 36 · Java · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/clearml/clearml-pycharm-plugin) · [官网](https://clear.ml/docs/latest/docs/guides/ide/integration_pycharm) · 组织维护
+⭐ 36 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/clearml/clearml-pycharm-plugin) · [官网](https://clear.ml/docs/latest/docs/guides/ide/integration_pycharm) · 组织维护
 
 **将本地执行配置同步到远程调试机的 PyCharm 插件**
 
@@ -45,12 +45,12 @@ ClearML 出品的 PyCharm 插件：把本地仓库信息同步到远程执行/�
 ```mermaid
 xychart-beta
     title "clearml/clearml-pycharm-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-17 36（+0）
+2026-10-18 36 → 2026-11-18 36（+0）
 
 
 ---

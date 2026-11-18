@@ -1,6 +1,6 @@
 # shrec/AIWorkHub
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/shrec/AIWorkHub) · [官网](https://shrec.github.io/AIWorkHub/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/shrec/AIWorkHub) · [官网](https://shrec.github.io/AIWorkHub/) · 组织维护
 
 **本地优先的多模型 AI 编码 agent 控制平面（VS Code/MCP）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shrec/AIWorkHub 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-17"]
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-18"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-29 11 → 2026-11-17 12（+1）
+2026-10-29 11 → 2026-11-18 12（+1）
 
 
 ---

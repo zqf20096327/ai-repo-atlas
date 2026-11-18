@@ -1,6 +1,6 @@
 # posva/medula
 
-⭐ 127 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/posva/medula) · 个人维护
+⭐ 128 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/posva/medula) · 个人维护
 
 **让编码 agent 通过 MCP 检查和修改运行中 Web 应用状态的 devtools**
 
@@ -46,12 +46,12 @@ Medula 是一套 headless 开发者工具，通过 devframe hub 与 MCP 协议�
 ```mermaid
 xychart-beta
     title "posva/medula 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 123 --> 128
-    line [124, 125, 126, 125, 126, 127, 127]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 123 --> 129
+    line [124, 125, 126, 125, 126, 127, 128]
 ```
 
-2026-10-18 124 → 2026-11-17 127（+3）
+2026-10-18 124 → 2026-11-18 128（+4）
 
 
 ---

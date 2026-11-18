@@ -1,6 +1,6 @@
 # KirtiRamchandani/memory.cpp
 
-⭐ 728 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/KirtiRamchandani/memory.cpp) · [官网](https://github.com/KirtiRamchandani/memory.cpp) · 个人维护
+⭐ 729 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/KirtiRamchandani/memory.cpp) · [官网](https://github.com/KirtiRamchandani/memory.cpp) · 个人维护
 
 **给编码代理的本地优先上下文编译器：生成可缓存的提示包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KirtiRamchandani/memory.cpp 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 165 --> 779
-    line [216, 561, 648, 725, 727, 728, 728]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 165 --> 780
+    line [216, 561, 648, 725, 727, 728, 729]
 ```
 
-2026-11-08 216 → 2026-11-17 728（+512）
+2026-11-08 216 → 2026-11-18 729（+513）
 
 
 ---

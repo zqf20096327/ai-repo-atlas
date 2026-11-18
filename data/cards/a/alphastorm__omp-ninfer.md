@@ -1,6 +1,6 @@
 # alphastorm/omp-ninfer
 
-⭐ 51 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alphastorm/omp-ninfer) · [官网](https://alphastorm.github.io/omp-ninfer/) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/alphastorm/omp-ninfer) · [官网](https://alphastorm.github.io/omp-ninfer/) · 个人维护
 
 **把 Oh My Pi 编码代理接入本地 Qwen3.8 27B 的可复现推理套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alphastorm/omp-ninfer 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18"]
     y-axis "stars" 44 --> 52
     line [45, 46, 47, 46, 48, 49, 50, 51, 51]
 ```
 
-2026-10-18 45 → 2026-11-17 51（+6）
+2026-10-18 45 → 2026-11-18 51（+6）
 
 
 ---

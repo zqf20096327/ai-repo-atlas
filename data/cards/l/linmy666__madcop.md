@@ -1,6 +1,6 @@
 # linmy666/madcop
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/linmy666/madcop) · 个人维护 · 中文 README
+⭐ 26 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/linmy666/madcop) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent 工作站，数据留在本机**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "linmy666/madcop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
     y-axis "stars" 24 --> 31
-    line [30, 25, 25]
+    line [30, 25, 26]
 ```
 
-2026-10-18 30 → 2026-11-17 25（-5）
+2026-10-18 30 → 2026-11-18 26（-4）
 
 
 ---

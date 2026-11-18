@@ -45,12 +45,12 @@ OntoMem 是面向 AI agent 开发者的 Python 记忆库：以 Pydantic schema �
 ```mermaid
 xychart-beta
     title "yifanfeng97/ontomem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 24（+0）
 
 
 ---

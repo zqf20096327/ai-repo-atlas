@@ -1,6 +1,6 @@
 # A3Boy/dsh-web-tools
 
-⭐ 41 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/A3Boy/dsh-web-tools) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/A3Boy/dsh-web-tools) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的多源网页搜索与抓取插件（8 搜索源+小红书/X）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "A3Boy/dsh-web-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-17"]
-    y-axis "stars" 34 --> 42
-    line [35, 36, 40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-18"]
+    y-axis "stars" 34 --> 44
+    line [35, 36, 40, 41, 43]
 ```
 
-2026-10-18 35 → 2026-11-17 41（+6）
+2026-10-18 35 → 2026-11-18 43（+8）
 
 
 ---

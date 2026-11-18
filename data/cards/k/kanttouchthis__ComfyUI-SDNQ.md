@@ -44,12 +44,12 @@ ComfyUI 的自定义节点扩展，将 SDNQ 量化能力接入 ComfyUI 工作流
 ```mermaid
 xychart-beta
     title "kanttouchthis/ComfyUI-SDNQ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

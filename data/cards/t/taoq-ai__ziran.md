@@ -1,6 +1,6 @@
 # taoq-ai/ziran
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/taoq-ai/ziran) · [官网](https://taoq-ai.github.io/ziran/) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/taoq-ai/ziran) · [官网](https://taoq-ai.github.io/ziran/) · 组织维护
 
 **AI agent 安全测试工具：图式工具链漏洞发现与多阶段攻击验证**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "taoq-ai/ziran 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 12（+1）
 
 
 ---

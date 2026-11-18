@@ -1,6 +1,6 @@
 # huggingface/search-and-learn
 
-⭐ 1,133 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/search-and-learn) · 组织维护
+⭐ 1,134 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/search-and-learn) · 组织维护
 
 **开源 LLM 推理时算力扩展（test-time compute）方法配方集**
 
@@ -44,12 +44,12 @@ Hugging Face 团队维护的推理时算力扩展工具库：提供脚本与 YAM
 ```mermaid
 xychart-beta
     title "huggingface/search-and-learn 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 1132 --> 1135
-    line [1134, 1133, 1134, 1133, 1134, 1133, 1133]
+    line [1134, 1133, 1134, 1133, 1134, 1133, 1134]
 ```
 
-2026-10-18 1,134 → 2026-11-17 1,133（-1）
+2026-10-18 1,134 → 2026-11-18 1,134（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # architects-toolkit/SmartHopper
 
-⭐ 34 · C# · LGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/architects-toolkit/SmartHopper) · [官网](https://smarthopper.xyz) · 组织维护
+⭐ 34 · C# · LGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/architects-toolkit/SmartHopper) · [官网](https://smarthopper.xyz) · 组织维护
 
 **给 Grasshopper3D 设计师的 AI 组件与助手插件（100+ 工具，8 家模型商）**
 
@@ -45,12 +45,12 @@ Rhino/Grasshopper 的 AI 插件：提供上下文感知的对话助手（可读�
 ```mermaid
 xychart-beta
     title "architects-toolkit/SmartHopper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 32 --> 35
     line [33, 34, 33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-11-17 34（+1）
+2026-10-18 33 → 2026-11-18 34（+1）
 
 
 ---

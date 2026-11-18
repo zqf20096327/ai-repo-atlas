@@ -1,6 +1,6 @@
 # ericmil87/hnbcrm
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ericmil87/hnbcrm) · [官网](https://hnbcrm.com) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ericmil87/hnbcrm) · [官网](https://hnbcrm.com) · 个人维护
 
 **人机共用 CRM：人类与 AI 机器人同管道协作管客户**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ericmil87/hnbcrm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

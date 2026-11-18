@@ -1,6 +1,6 @@
 # AbhinavPabbaraju/nexus-deep-research-agent
 
-⭐ 37 · TypeScript · 推送 2026-04-30 · [GitHub](https://github.com/AbhinavPabbaraju/nexus-deep-research-agent) · [官网](https://nexus-deep-research-agent.vercel.app) · 个人维护
+⭐ 38 · TypeScript · 推送 2026-04-30 · [GitHub](https://github.com/AbhinavPabbaraju/nexus-deep-research-agent) · [官网](https://nexus-deep-research-agent.vercel.app) · 个人维护
 
 **多阶段深度研究 agent：规划-执行-评估循环产出研究报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AbhinavPabbaraju/nexus-deep-research-agent 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 24 --> 38
-    line [25, 26, 28, 25, 31, 33, 35, 34, 35, 37, 37]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 24 --> 39
+    line [25, 26, 28, 25, 31, 33, 35, 34, 35, 37, 38]
 ```
 
-2026-10-18 25 → 2026-11-17 37（+12）
+2026-10-18 25 → 2026-11-18 38（+13）
 
 
 ---

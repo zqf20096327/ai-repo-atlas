@@ -1,6 +1,6 @@
 # doodersrage/castcut
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/doodersrage/castcut) · [官网](https://doodersrage.github.io/castcut/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/doodersrage/castcut) · [官网](https://doodersrage.github.io/castcut/) · 个人维护
 
 **本地 AI 角色短片创作工具：用 ComfyUI 生成一致角色的图像与影片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "doodersrage/castcut 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 15, 16, 13, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 15, 16, 13, 15, 16, 17]
 ```
 
-2026-10-18 12 → 2026-11-17 16（+4）
+2026-10-18 12 → 2026-11-18 17（+5）
 
 
 ---

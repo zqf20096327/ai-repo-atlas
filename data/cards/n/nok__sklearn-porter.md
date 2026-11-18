@@ -1,6 +1,6 @@
 # nok/sklearn-porter
 
-⭐ 1,304 · Python · BSD-3-Clause · 推送 2026-11-14 · [GitHub](https://github.com/nok/sklearn-porter) · 个人维护
+⭐ 1,304 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/nok/sklearn-porter) · 个人维护
 
 **将训练好的 scikit-learn 模型转译为 C/Java/JS 等语言代码**
 
@@ -45,12 +45,12 @@ Python 转译工具：读取已训练的 scikit-learn 估计器（含 50+ 分类
 ```mermaid
 xychart-beta
     title "nok/sklearn-porter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 1302 --> 1305
     line [1303, 1304, 1304]
 ```
 
-2026-10-18 1,303 → 2026-11-17 1,304（+1）
+2026-10-18 1,303 → 2026-11-18 1,304（+1）
 
 
 ---

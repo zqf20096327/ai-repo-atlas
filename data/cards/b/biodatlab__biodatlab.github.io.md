@@ -1,6 +1,6 @@
 # biodatlab/biodatlab.github.io
 
-⭐ 20 · JavaScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/biodatlab/biodatlab.github.io) · [官网](https://biodatlab.github.io) · 组织维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/biodatlab/biodatlab.github.io) · [官网](https://biodatlab.github.io) · 组织维护
 
 **泰国玛希隆大学 Bio-Dat 实验室官网（Gatsby 构建）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "biodatlab/biodatlab.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

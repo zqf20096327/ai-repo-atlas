@@ -1,6 +1,6 @@
 # meawoppl/agent-portal
 
-⭐ 19 · Rust · 推送 2026-11-16 · [GitHub](https://github.com/meawoppl/agent-portal) · [官网](https://txcl.io) · 个人维护
+⭐ 19 · Rust · 推送 2026-11-17 · [GitHub](https://github.com/meawoppl/agent-portal) · [官网](https://txcl.io) · 个人维护
 
 **在自有机器上运行编程 agent 并从浏览器远程操控的门户**
 
@@ -45,12 +45,12 @@ Rust 实现的 agent 会话门户：在每台机器部署常驻 launcher 守护�
 ```mermaid
 xychart-beta
     title "meawoppl/agent-portal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
     y-axis "stars" 17 --> 20
     line [19, 18, 19, 18, 19, 19]
 ```
 
-2026-10-18 19 → 2026-11-17 19（+0）
+2026-10-18 19 → 2026-11-18 19（+0）
 
 
 ---

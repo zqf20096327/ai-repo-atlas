@@ -1,6 +1,6 @@
 # Mattbusel/Every-Other-Token
 
-⭐ 27 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Mattbusel/Every-Other-Token) · [官网](https://mattbusel.github.io/Every-Other-Token/) · 个人维护
+⭐ 29 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Mattbusel/Every-Other-Token) · [官网](https://mattbusel.github.io/Every-Other-Token/) · 个人维护
 
 **LLM token 流拦截查看器：逐 token 置信度与在线改写**
 
@@ -46,12 +46,12 @@ Rust 编写、CLI 与 Web UI 双形态的 LLM token 流查看/拦截工具：自
 ```mermaid
 xychart-beta
     title "Mattbusel/Every-Other-Token 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 26, 27, 29]
 ```
 
-2026-10-18 26 → 2026-11-17 27（+1）
+2026-10-18 26 → 2026-11-18 29（+3）
 
 
 ---

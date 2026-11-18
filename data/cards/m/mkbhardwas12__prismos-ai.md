@@ -1,6 +1,6 @@
 # mkbhardwas12/prismos-ai
 
-⭐ 382 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mkbhardwas12/prismos-ai) · [官网](https://github.com/mkbhardwas12/prismos-ai) · 个人维护
+⭐ 381 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mkbhardwas12/prismos-ai) · [官网](https://github.com/mkbhardwas12/prismos-ai) · 个人维护
 
 **本地优先的桌面 AI：离线聊天读文件、生成 3D 场景、查日志加固配置**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mkbhardwas12/prismos-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 372 --> 383
-    line [378, 379, 378, 377, 373, 382, 382]
+    line [378, 379, 378, 377, 373, 382, 381]
 ```
 
-2026-10-18 378 → 2026-11-17 382（+4）
+2026-10-18 378 → 2026-11-18 381（+3）
 
 
 ---

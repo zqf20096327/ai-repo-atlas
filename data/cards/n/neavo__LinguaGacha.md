@@ -1,6 +1,6 @@
 # neavo/LinguaGacha
 
-⭐ 2,711 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/neavo/LinguaGacha) · [官网](https://github.com/neavo/LinguaGacha/wiki) · 个人维护 · 中文 README
+⭐ 2,718 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/neavo/LinguaGacha) · [官网](https://github.com/neavo/LinguaGacha/wiki) · 个人维护 · 中文 README
 
 **面向普通用户的音视频/游戏/电子书一键 AI 翻译工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neavo/LinguaGacha 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 2671 --> 2714
-    line [2674, 2681, 2685, 2688, 2700, 2701, 2711, 2711]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 2670 --> 2722
+    line [2674, 2681, 2685, 2688, 2700, 2701, 2711, 2718]
 ```
 
-2026-11-10 2,674 → 2026-11-17 2,711（+37）
+2026-11-10 2,674 → 2026-11-18 2,718（+44）
 
 
 ---

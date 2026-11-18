@@ -45,12 +45,12 @@ Chrome/Edge 浏览器扩展，在 ChatGPT、DeepSeek Chat、Google AI Studio、G
 ```mermaid
 xychart-beta
     title "MaxITService/OneClickPrompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-11-17 24（+1）
+2026-10-18 23 → 2026-11-18 24（+1）
 
 
 ---

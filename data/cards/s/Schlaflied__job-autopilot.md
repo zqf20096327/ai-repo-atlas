@@ -1,6 +1,6 @@
 # Schlaflied/job-autopilot
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/Schlaflied/job-autopilot) · 个人维护
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/Schlaflied/job-autopilot) · 个人维护
 
 **求职者用的 AI 求职自动化系统：抓岗、改简历、LinkedIn 外联**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Schlaflied/job-autopilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

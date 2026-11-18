@@ -1,6 +1,6 @@
 # apple-aiml-research/ml-space-benchmark
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-space-benchmark) · [官网](https://machinelearning.apple.com/research/cognition-emerge-frontier-models) · 组织维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-space-benchmark) · [官网](https://machinelearning.apple.com/research/cognition-emerge-frontier-models) · 组织维护
 
 **评测前沿模型空间认知能力的 SPACE 基准：代码与数据集**
 
@@ -45,12 +45,12 @@ ICLR 2025 论文 "Does Spatial Cognition Emerge in Frontier Models?" 的配套�
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-space-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-11-17 29（+0）
+2026-10-18 29 → 2026-11-18 30（+1）
 
 
 ---

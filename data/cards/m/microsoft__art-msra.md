@@ -43,12 +43,12 @@ CVPR 2025 论文 ART（Anonymous Region Transformer）官方仓库：基于全�
 ```mermaid
 xychart-beta
     title "microsoft/art-msra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 379 --> 381
     line [380, 380]
 ```
 
-2026-10-18 380 → 2026-11-17 380（+0）
+2026-10-18 380 → 2026-11-18 380（+0）
 
 
 ---

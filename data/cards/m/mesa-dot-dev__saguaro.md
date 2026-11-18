@@ -1,6 +1,6 @@
 # mesa-dot-dev/saguaro
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/mesa-dot-dev/saguaro) · [官网](https://www.mesa.dev/review-cli) · 组织维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/mesa-dot-dev/saguaro) · [官网](https://www.mesa.dev/review-cli) · 组织维护
 
 **面向编码 agent 的本地 AI 代码审查规则引擎**
 
@@ -48,12 +48,12 @@ Saguaro 是本地运行的代码审查工具：以 markdown+YAML frontmatter 形
 ```mermaid
 xychart-beta
     title "mesa-dot-dev/saguaro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-11-17 26（+0）
+2026-10-18 26 → 2026-11-18 27（+1）
 
 
 ---

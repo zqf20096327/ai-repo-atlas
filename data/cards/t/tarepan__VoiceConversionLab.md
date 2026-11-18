@@ -1,6 +1,6 @@
 # tarepan/VoiceConversionLab
 
-⭐ 99 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/tarepan/VoiceConversionLab) · [官网](https://twitter.com/VoiceConversion) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tarepan/VoiceConversionLab) · [官网](https://twitter.com/VoiceConversion) · 个人维护
 
 **语音转换研究论文的自动收集与社区确认清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "tarepan/VoiceConversionLab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 97 --> 100
     line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-11-17 99（+1）
+2026-10-18 98 → 2026-11-18 99（+1）
 
 
 ---

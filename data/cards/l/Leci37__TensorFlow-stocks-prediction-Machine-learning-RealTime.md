@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
     y-axis "stars" 313 --> 316
     line [314, 315, 315]
 ```
 
-2026-10-18 314 → 2026-11-17 315（+1）
+2026-10-18 314 → 2026-11-18 315（+1）
 
 
 ---

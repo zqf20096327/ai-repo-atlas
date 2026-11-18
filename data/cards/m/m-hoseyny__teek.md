@@ -1,6 +1,6 @@
 # m-hoseyny/teek
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-03-13 · [GitHub](https://github.com/m-hoseyny/teek) · [官网](https://teek.studio) · 个人维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-03-13 · [GitHub](https://github.com/m-hoseyny/teek) · [官网](https://teek.studio) · 个人维护
 
 **自托管的 AI 视频剪辑工具：生成分段短视频与字幕**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "m-hoseyny/teek 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 13（+2）
 
 
 ---

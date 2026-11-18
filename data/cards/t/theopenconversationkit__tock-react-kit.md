@@ -1,6 +1,6 @@
 # theopenconversationkit/tock-react-kit
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/theopenconversationkit/tock-react-kit) · [官网](https://doc.tock.ai) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/theopenconversationkit/tock-react-kit) · [官网](https://doc.tock.ai) · 组织维护
 
 **将 Tock 对话机器人嵌入网页的 React 组件工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "theopenconversationkit/tock-react-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-17 23（+0）
+2026-10-18 23 → 2026-11-18 23（+0）
 
 
 ---

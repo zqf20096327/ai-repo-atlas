@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "davanstrien/awesome-synthetic-datasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 342 --> 344
     line [343, 343]
 ```
 
-2026-10-18 343 → 2026-11-17 343（+0）
+2026-10-18 343 → 2026-11-18 343（+0）
 
 
 ---

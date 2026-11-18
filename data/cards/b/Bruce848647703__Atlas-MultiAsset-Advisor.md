@@ -1,6 +1,6 @@
 # Bruce848647703/Atlas-MultiAsset-Advisor
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Bruce848647703/Atlas-MultiAsset-Advisor) · 个人维护 · 中文 README
+⭐ 91 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Bruce848647703/Atlas-MultiAsset-Advisor) · 个人维护 · 中文 README
 
 **DeepSeek 驱动的多资产投资顾问 agent：画像、配置与因子进化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bruce848647703/Atlas-MultiAsset-Advisor 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18"]
     y-axis "stars" 36 --> 96
     line [41, 69, 81, 91, 91]
 ```
 
-2026-11-08 41 → 2026-11-17 91（+50）
+2026-11-08 41 → 2026-11-18 91（+50）
 
 
 ---

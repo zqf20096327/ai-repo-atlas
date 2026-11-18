@@ -1,6 +1,6 @@
 # Ceyron/machine-learning-and-simulation
 
-⭐ 1,212 · Jupyter Notebook · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Ceyron/machine-learning-and-simulation) · 个人维护
+⭐ 1,213 · Jupyter Notebook · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Ceyron/machine-learning-and-simulation) · 个人维护
 
 **面向 ML 与仿真的 YouTube 教学笔记与源码合集（英/德）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ceyron/machine-learning-and-simulation 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 1207 --> 1213
-    line [1209, 1208, 1209, 1210, 1209, 1210, 1211, 1212, 1212]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 1207 --> 1214
+    line [1209, 1208, 1209, 1210, 1209, 1210, 1211, 1212, 1213]
 ```
 
-2026-10-18 1,209 → 2026-11-17 1,212（+3）
+2026-10-18 1,209 → 2026-11-18 1,213（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # madsjulia/Mads.jl
 
-⭐ 104 · HTML · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/madsjulia/Mads.jl) · [官网](https://madsjulia.github.io/Mads.jl/stable/) · 组织维护
+⭐ 105 · HTML · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/madsjulia/Mads.jl) · [官网](https://madsjulia.github.io/Mads.jl/stable/) · 组织维护
 
 **Julia 编写的模型分析与决策支持计算框架，面向数据/模型/决策分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madsjulia/Mads.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 103 --> 106
+    line [104, 105]
 ```
 
-2026-10-18 104 → 2026-11-17 104（+0）
+2026-10-18 104 → 2026-11-18 105（+1）
 
 
 ---

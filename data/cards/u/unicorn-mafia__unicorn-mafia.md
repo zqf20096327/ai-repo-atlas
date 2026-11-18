@@ -44,12 +44,12 @@ Unicorn Mafia 社区的官方网站，基于 Next.js 15（App Router）、TypeSc
 ```mermaid
 xychart-beta
     title "unicorn-mafia/unicorn-mafia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
     y-axis "stars" 42 --> 45
     line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-11-17 44（+1）
+2026-10-18 43 → 2026-11-18 44（+1）
 
 
 ---

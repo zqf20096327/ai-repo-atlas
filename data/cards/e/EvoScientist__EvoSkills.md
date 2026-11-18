@@ -1,6 +1,6 @@
 # EvoScientist/EvoSkills
 
-⭐ 486 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/EvoScientist/EvoSkills) · [官网](https://evoscientist.ai/#evoskills) · 组织维护 · 中文 README
+⭐ 487 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/EvoScientist/EvoSkills) · [官网](https://evoscientist.ai/#evoskills) · 组织维护 · 中文 README
 
 **EvoScientist 科研 agent 的可安装技能与知识包集合（16+ 个）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EvoScientist/EvoSkills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18"]
     y-axis "stars" 479 --> 489
-    line [480, 481, 482, 481, 488, 486, 486]
+    line [480, 481, 482, 481, 488, 486, 487]
 ```
 
-2026-10-18 480 → 2026-11-17 486（+6）
+2026-10-18 480 → 2026-11-18 487（+7）
 
 
 ---

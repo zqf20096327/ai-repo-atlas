@@ -1,6 +1,6 @@
 # tigu77/tiguclaw
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/tigu77/tiguclaw) · 个人维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/tigu77/tiguclaw) · 个人维护
 
 **自托管常驻个人 AI 助手：一个入口按目标自动组建 agent 组织**
 
@@ -46,12 +46,12 @@ TypeScript 实现的自托管多 LLM agent 运行时：用户只面对一个主�
 ```mermaid
 xychart-beta
     title "tigu77/tiguclaw 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-17"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-18"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-30 10 → 2026-11-17 11（+1）
+2026-10-30 10 → 2026-11-18 11（+1）
 
 
 ---

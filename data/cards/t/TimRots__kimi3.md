@@ -1,6 +1,6 @@
 # TimRots/kimi3
 
-⭐ 43 · Python · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/TimRots/kimi3) · 个人维护
+⭐ 44 · Python · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/TimRots/kimi3) · 个人维护
 
 **Kimi K3 架构的从零 PyTorch 复现实现，CPU 可运行验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TimRots/kimi3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44]
 ```
 
-2026-10-18 42 → 2026-11-17 43（+1）
+2026-10-18 42 → 2026-11-18 44（+2）
 
 
 ---

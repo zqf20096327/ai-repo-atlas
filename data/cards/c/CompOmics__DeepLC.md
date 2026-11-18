@@ -1,6 +1,6 @@
 # CompOmics/DeepLC
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/CompOmics/DeepLC) · [官网](https://iomics.ugent.be/deeplc) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/CompOmics/DeepLC) · [官网](https://iomics.ugent.be/deeplc) · 组织维护
 
 **蛋白质组学工具：预测携带任意修饰肽段的液相保留时间**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CompOmics/DeepLC 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 79 --> 82
     line [80, 81, 80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-11-17 81（+1）
+2026-10-18 80 → 2026-11-18 81（+1）
 
 
 ---

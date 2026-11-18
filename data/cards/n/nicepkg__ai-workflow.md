@@ -1,6 +1,6 @@
 # nicepkg/ai-workflow
 
-⭐ 292 · HTML · MIT · 推送 2026-01-20 · [GitHub](https://github.com/nicepkg/ai-workflow) · [官网](https://ai-workflow.xiaominglab.com/) · 组织维护 · 中文 README
+⭐ 294 · HTML · MIT · 推送 2026-01-20 · [GitHub](https://github.com/nicepkg/ai-workflow) · [官网](https://ai-workflow.xiaominglab.com/) · 组织维护 · 中文 README
 
 **面向 14+ AI 编码工具的 170+ 预置技能合集，一条命令加载领域专长**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nicepkg/ai-workflow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 285 --> 293
-    line [286, 288, 291, 292, 292]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 285 --> 295
+    line [286, 288, 291, 292, 294]
 ```
 
-2026-10-18 286 → 2026-11-17 292（+6）
+2026-10-18 286 → 2026-11-18 294（+8）
 
 
 ---

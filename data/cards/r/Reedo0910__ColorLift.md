@@ -1,6 +1,6 @@
 # Reedo0910/ColorLift
 
-⭐ 36 · JavaScript · GPL-3.0 · 推送 2025-11-21 · [GitHub](https://github.com/Reedo0910/ColorLift) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 生成无障碍颜色描述的跨平台取色工具，面向色觉障碍用户**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

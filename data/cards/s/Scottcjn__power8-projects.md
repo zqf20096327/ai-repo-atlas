@@ -1,6 +1,6 @@
 # Scottcjn/power8-projects
 
-⭐ 59 · Shell · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/power8-projects) · [官网](https://rustchain.org) · 个人维护
+⭐ 57 · Shell · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/power8-projects) · [官网](https://rustchain.org) · 个人维护
 
 **面向 POWER8 等 CPU 的多架构 Linux 发行版，预装 AI 推理工具**
 
@@ -45,12 +45,12 @@ PowerElyan Linux 是一个多架构 Linux 发行版，声称针对 AI 推理、�
 ```mermaid
 xychart-beta
     title "Scottcjn/power8-projects 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-17"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-29", "2026-11-18"]
+    y-axis "stars" 56 --> 60
+    line [59, 57]
 ```
 
-2026-10-29 59 → 2026-11-17 59（+0）
+2026-10-29 59 → 2026-11-18 57（-2）
 
 
 ---

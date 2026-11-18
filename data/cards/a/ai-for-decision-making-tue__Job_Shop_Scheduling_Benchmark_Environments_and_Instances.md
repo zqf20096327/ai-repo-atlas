@@ -1,6 +1,6 @@
 # ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances
 
-⭐ 220 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) · 组织维护
+⭐ 221 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) · 组织维护
 
 **面向研究者的多种机器调度问题基准环境与算例集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 212 --> 221
-    line [213, 214, 216, 217, 214, 218, 219, 220, 220]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 212 --> 222
+    line [213, 214, 216, 217, 214, 218, 219, 220, 221]
 ```
 
-2026-10-18 213 → 2026-11-17 220（+7）
+2026-10-18 213 → 2026-11-18 221（+8）
 
 
 ---

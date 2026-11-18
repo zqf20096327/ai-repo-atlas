@@ -1,6 +1,6 @@
 # taf-society/Durbyn.jl
 
-⭐ 99 · Julia · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/taf-society/Durbyn.jl) · [官网](https://taf-society.github.io/Durbyn.jl/dev) · 组织维护
+⭐ 100 · Julia · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/taf-society/Durbyn.jl) · [官网](https://taf-society.github.io/Durbyn.jl/dev) · 组织维护
 
 **Julia 时间序列预测包：公式接口声明式拟合多类预测模型**
 
@@ -46,12 +46,12 @@ TAFS（维也纳注册非营利协会）维护的开源 Julia 包，提供指数
 ```mermaid
 xychart-beta
     title "taf-society/Durbyn.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-18 99 → 2026-11-17 99（+0）
+2026-10-18 99 → 2026-11-18 100（+1）
 
 
 ---

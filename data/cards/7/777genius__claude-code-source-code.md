@@ -1,6 +1,6 @@
 # 777genius/claude-code-source-code
 
-⭐ 939 · 推送 2026-10-08 · [GitHub](https://github.com/777genius/claude-code-source-code) · 个人维护
+⭐ 940 · 推送 2026-10-08 · [GitHub](https://github.com/777genius/claude-code-source-code) · 个人维护
 
 **Claude Code 源码镜像的指针仓库：代码已迁移**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "777genius/claude-code-source-code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 935 --> 940
-    line [936, 937, 936, 937, 939, 939]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 935 --> 941
+    line [936, 937, 936, 937, 939, 940]
 ```
 
-2026-10-18 936 → 2026-11-17 939（+3）
+2026-10-18 936 → 2026-11-18 940（+4）
 
 
 ---

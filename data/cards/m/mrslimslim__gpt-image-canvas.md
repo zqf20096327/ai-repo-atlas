@@ -1,6 +1,6 @@
 # mrslimslim/gpt-image-canvas
 
-⭐ 741 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/mrslimslim/gpt-image-canvas) · [官网](https://github.com/mrslimslim/gpt-image-canvas) · 个人维护 · 中文 README
+⭐ 742 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/mrslimslim/gpt-image-canvas) · [官网](https://github.com/mrslimslim/gpt-image-canvas) · 个人维护 · 中文 README
 
 **本地优先的 AI 图像画布：tldraw 画布上提示词生图与 Agent 规划**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrslimslim/gpt-image-canvas 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 734 --> 742
-    line [735, 737, 736, 737, 738, 739, 737, 740, 741, 741]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 734 --> 743
+    line [735, 737, 736, 737, 738, 739, 737, 740, 741, 742]
 ```
 
-2026-10-18 735 → 2026-11-17 741（+6）
+2026-10-18 735 → 2026-11-18 742（+7）
 
 
 ---

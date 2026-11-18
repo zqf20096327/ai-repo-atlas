@@ -1,6 +1,6 @@
 # hebulin/mcp-read-file-server
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hebulin/mcp-read-file-server) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hebulin/mcp-read-file-server) · 个人维护 · 中文 README
 
 **加密环境下供 AI Agent 明文读写文件的 MCP 工具服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hebulin/mcp-read-file-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-17 15（+1）
+2026-10-18 14 → 2026-11-18 16（+2）
 
 
 ---

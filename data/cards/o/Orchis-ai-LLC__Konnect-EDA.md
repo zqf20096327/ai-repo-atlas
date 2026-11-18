@@ -1,6 +1,6 @@
 # Orchis-ai-LLC/Konnect-EDA
 
-⭐ 172 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Orchis-ai-LLC/Konnect-EDA) · [官网](https://konnect-eda.orchis.ai) · 组织维护
+⭐ 179 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Orchis-ai-LLC/Konnect-EDA) · [官网](https://konnect-eda.orchis.ai) · 组织维护
 
 **面向 KiCad 10 的 AI 辅助 PCB 设计 MCP 插件**
 
@@ -46,12 +46,12 @@ Orchis.ai LLC 开发的闭源商业 KiCad 10 原生插件，以单个 Rust 二�
 ```mermaid
 xychart-beta
     title "Orchis-ai-LLC/Konnect-EDA 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 154 --> 173
-    line [155, 160, 165, 172, 172]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 153 --> 181
+    line [155, 160, 165, 172, 179]
 ```
 
-2026-11-13 155 → 2026-11-17 172（+17）
+2026-11-13 155 → 2026-11-18 179（+24）
 
 
 ---

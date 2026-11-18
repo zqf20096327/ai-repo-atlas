@@ -1,6 +1,6 @@
 # tinqiao-oss/clawtouch-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tinqiao-oss/clawtouch-mcp) · [官网](https://clawtouch.cn) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tinqiao-oss/clawtouch-mcp) · [官网](https://clawtouch.cn) · 组织维护 · 中文 README
 
 **把 USB HID 键鼠开发板暴露为 MCP 工具的 Python 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tinqiao-oss/clawtouch-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-13", "2026-11-18"]
     y-axis "stars" 12 --> 17
     line [13, 14, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-17 16（+3）
+2026-10-18 13 → 2026-11-18 16（+3）
 
 
 ---

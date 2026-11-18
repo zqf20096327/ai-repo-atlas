@@ -1,6 +1,6 @@
 # P0lar1zzZ/Ombre-Brain
 
-⭐ 157 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/P0lar1zzZ/Ombre-Brain) · 个人维护 · 中文 README
+⭐ 158 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/P0lar1zzZ/Ombre-Brain) · 个人维护 · 中文 README
 
 **给 Claude 用的长期情绪记忆 MCP 服务器，基于 Obsidian 存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "P0lar1zzZ/Ombre-Brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 155 --> 158
-    line [156, 157, 157]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 155 --> 159
+    line [156, 157, 158]
 ```
 
-2026-10-18 156 → 2026-11-17 157（+1）
+2026-10-18 156 → 2026-11-18 158（+2）
 
 
 ---

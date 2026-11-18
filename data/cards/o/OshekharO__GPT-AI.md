@@ -1,6 +1,6 @@
 # OshekharO/GPT-AI
 
-⭐ 42 · JavaScript · GPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/OshekharO/GPT-AI) · [官网](https://gpt-ai-olive.vercel.app/) · 个人维护
+⭐ 43 · JavaScript · GPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/OshekharO/GPT-AI) · [官网](https://gpt-ai-olive.vercel.app/) · 个人维护
 
 **聚合 15 个免费聊天 API 的 Node.js 统一网关服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OshekharO/GPT-AI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 34 --> 43
-    line [35, 36, 37, 38, 39, 37, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 34 --> 44
+    line [35, 36, 37, 38, 39, 37, 42, 43]
 ```
 
-2026-10-18 35 → 2026-11-17 42（+7）
+2026-10-18 35 → 2026-11-18 43（+8）
 
 
 ---

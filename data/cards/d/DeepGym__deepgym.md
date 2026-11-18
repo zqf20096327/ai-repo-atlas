@@ -1,6 +1,6 @@
 # DeepGym/deepgym
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/DeepGym/deepgym) · [官网](https://deepgym.io) · 组织维护
+⭐ 25 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/DeepGym/deepgym) · [官网](https://deepgym.io) · 组织维护
 
 **可验证奖励的 RL 环境库：沙箱运行答案并隔离校验**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DeepGym/deepgym 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 24 --> 44
     line [42, 43, 38, 26, 25, 25]
 ```
 
-2026-10-18 42 → 2026-11-17 25（-17）
+2026-10-18 42 → 2026-11-18 25（-17）
 
 
 ---

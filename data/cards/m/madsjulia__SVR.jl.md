@@ -1,6 +1,6 @@
 # madsjulia/SVR.jl
 
-⭐ 19 · C++ · GPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/madsjulia/SVR.jl) · [官网](http://mads.gitlab.io) · 组织维护
+⭐ 20 · C++ · GPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/madsjulia/SVR.jl) · [官网](http://mads.gitlab.io) · 组织维护
 
 **Julia 支持向量回归库，封装 libSVM 做回归预测**
 
@@ -45,12 +45,12 @@ Julia 语言的 SVR.jl 包，调用 libSVM 库实现支持向量回归分析与�
 ```mermaid
 xychart-beta
     title "madsjulia/SVR.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
     y-axis "stars" 18 --> 21
-    line [20, 19, 19]
+    line [20, 19, 20]
 ```
 
-2026-10-18 20 → 2026-11-17 19（-1）
+2026-10-18 20 → 2026-11-18 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # benttega/ovo-local-llm
 
-⭐ 106 · TypeScript · MIT · 推送 2026-04-22 · [GitHub](https://github.com/benttega/ovo-local-llm) · [官网](https://ovoment.com) · 个人维护 · 中文 README
+⭐ 105 · TypeScript · MIT · 推送 2026-04-22 · [GitHub](https://github.com/benttega/ovo-local-llm) · [官网](https://ovoment.com) · 个人维护 · 中文 README
 
 **Apple Silicon 本地 LLM 桌面应用：聊天/编码 Agent/图像生成**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "benttega/ovo-local-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 104 --> 107
+    line [106, 105]
 ```
 
-2026-10-18 106 → 2026-11-17 106（+0）
+2026-10-18 106 → 2026-11-18 105（-1）
 
 
 ---

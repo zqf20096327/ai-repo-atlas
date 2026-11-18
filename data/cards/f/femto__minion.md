@@ -1,6 +1,6 @@
 # femto/minion
 
-⭐ 151 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/femto/minion) · 组织维护 · 中文 README
+⭐ 151 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/femto/minion) · 组织维护 · 中文 README
 
 **Python agent 框架：通过代码执行与多模型接入处理各类查询**
 
@@ -46,12 +46,12 @@ Minion 是一个 Python agent 框架，核心组件包括 CodeAgent（支持工�
 ```mermaid
 xychart-beta
     title "femto/minion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-18"]
     y-axis "stars" 150 --> 153
     line [151, 152, 151, 151]
 ```
 
-2026-10-18 151 → 2026-11-17 151（+0）
+2026-10-18 151 → 2026-11-18 151（+0）
 
 
 ---

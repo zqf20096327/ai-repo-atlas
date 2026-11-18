@@ -47,12 +47,12 @@ Cecilia 2B v0.1 是基于 Salamandra 2B 架构、在约 10 亿 token 古巴书�
 ```mermaid
 xychart-beta
     title "gia-uh/cecilia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-11-17 30（+0）
+2026-10-18 30 → 2026-11-18 30（+0）
 
 
 ---

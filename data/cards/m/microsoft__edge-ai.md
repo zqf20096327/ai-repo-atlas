@@ -1,6 +1,6 @@
 # microsoft/edge-ai
 
-⭐ 108 · HCL · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/edge-ai) · 组织维护
+⭐ 108 · HCL · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/edge-ai) · 组织维护
 
 **面向团队的边缘 AI 基础设施即代码与应用组件集（Azure）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/edge-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
     y-axis "stars" 106 --> 109
     line [107, 108, 108]
 ```
 
-2026-10-18 107 → 2026-11-17 108（+1）
+2026-10-18 107 → 2026-11-18 108（+1）
 
 
 ---

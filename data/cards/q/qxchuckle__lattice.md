@@ -1,6 +1,6 @@
 # qxchuckle/lattice
 
-⭐ 11 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/qxchuckle/lattice) · [官网](https://lattice.qcqx.cn/) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/qxchuckle/lattice) · [官网](https://lattice.qcqx.cn/) · 个人维护 · 中文 README
 
 **本地优先的研发记忆与工作流层，供 AI 辅助开发复用**
 
@@ -46,12 +46,12 @@ Lattice 是本地优先的工程记忆与工作流层，把规格、任务、决
 ```mermaid
 xychart-beta
     title "qxchuckle/lattice 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-17"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-18"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-29 10 → 2026-11-17 11（+1）
+2026-10-29 10 → 2026-11-18 12（+2）
 
 
 ---

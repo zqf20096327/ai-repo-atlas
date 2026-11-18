@@ -1,6 +1,6 @@
 # polyaxon/sdks
 
-⭐ 15 · Java · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/polyaxon/sdks) · [官网](https://polyaxon.com) · 组织维护
+⭐ 15 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/polyaxon/sdks) · [官网](https://polyaxon.com) · 组织维护
 
 **Polyaxon 多语言客户端 SDK 集合，接入其 ML 平台 API**
 
@@ -43,12 +43,12 @@ Polyaxon 官方的语言 SDK 仓库，提供 Python、GoLang、TypeScript、Node
 ```mermaid
 xychart-beta
     title "polyaxon/sdks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 15（+0）
 
 
 ---

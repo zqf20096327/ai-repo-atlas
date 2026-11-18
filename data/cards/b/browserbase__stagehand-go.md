@@ -45,12 +45,12 @@ Browserbase 官方维护的 Go 语言 API 库，封装 Stagehand 托管 API：St
 ```mermaid
 xychart-beta
     title "browserbase/stagehand-go 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-25", "2026-11-18"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-25 23 → 2026-11-17 23（+0）
+2026-10-25 23 → 2026-11-18 23（+0）
 
 
 ---

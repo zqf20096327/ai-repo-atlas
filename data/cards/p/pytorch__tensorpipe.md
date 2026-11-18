@@ -1,6 +1,6 @@
 # pytorch/tensorpipe
 
-⭐ 288 · C++ · NOASSERTION · 推送 2025-12-17 · [GitHub](https://github.com/pytorch/tensorpipe) · 组织维护
+⭐ 289 · C++ · NOASSERTION · 推送 2025-12-17 · [GitHub](https://github.com/pytorch/tensorpipe) · 组织维护
 
 **面向张量的进程间点对点通信库，为机器学习传输富对象**
 
@@ -46,12 +46,12 @@ PyTorch 组织下的 C++ 库，提供进程间传输包含张量的结构化消�
 ```mermaid
 xychart-beta
     title "pytorch/tensorpipe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 285 --> 289
-    line [286, 287, 288, 288]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 285 --> 290
+    line [286, 287, 288, 289]
 ```
 
-2026-10-18 286 → 2026-11-17 288（+2）
+2026-10-18 286 → 2026-11-18 289（+3）
 
 
 ---

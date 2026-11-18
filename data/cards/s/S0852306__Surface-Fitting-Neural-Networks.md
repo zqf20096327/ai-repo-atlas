@@ -1,6 +1,6 @@
 # S0852306/Surface-Fitting-Neural-Networks
 
-⭐ 12 · MATLAB · MIT · 推送 2026-05-20 · [GitHub](https://github.com/S0852306/Surface-Fitting-Neural-Networks) · 个人维护
+⭐ 13 · MATLAB · MIT · 推送 2026-05-20 · [GitHub](https://github.com/S0852306/Surface-Fitting-Neural-Networks) · 个人维护
 
 **纯 MATLAB 实现的 N 维曲面拟合与非线性回归神经网络工具箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "S0852306/Surface-Fitting-Neural-Networks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

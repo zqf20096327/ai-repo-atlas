@@ -1,6 +1,6 @@
 # mashijie1028/Happy-CGCD
 
-⭐ 49 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/mashijie1028/Happy-CGCD) · [官网](https://arxiv.org/abs/2410.06535) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/mashijie1028/Happy-CGCD) · [官网](https://arxiv.org/abs/2410.06535) · 个人维护
 
 **NeurIPS 2024 论文 Happy 的 C-GCD 官方 PyTorch 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mashijie1028/Happy-CGCD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50]
 ```
 
-2026-10-18 48 → 2026-11-17 49（+1）
+2026-10-18 48 → 2026-11-18 50（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Robinson-AI-Lab/FridayOS1.0
 
-⭐ 899 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Robinson-AI-Lab/FridayOS1.0) · [官网](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.md) · 组织维护 · 中文 README
+⭐ 899 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Robinson-AI-Lab/FridayOS1.0) · [官网](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.md) · 组织维护 · 中文 README
 
 **AI 第二大脑实践项目：用 Obsidian+Claude Code 管理个人知识**
 
@@ -46,12 +46,12 @@ Robinson AI Lab 的开源实践项目（前名 FridayOS-Lite），以 Obsidian�
 ```mermaid
 xychart-beta
     title "Robinson-AI-Lab/FridayOS1.0 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18"]
     y-axis "stars" 874 --> 906
     line [903, 904, 876, 877, 878, 879, 880, 878, 876, 897, 898, 899, 899]
 ```
 
-2026-10-18 903 → 2026-11-17 899（-4）
+2026-10-18 903 → 2026-11-18 899（-4）
 
 
 ---

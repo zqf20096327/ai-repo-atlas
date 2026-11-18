@@ -46,12 +46,12 @@ Microsoft Frontier Tour 2027 的 ILL224 课程配套仓库，面向课程学员�
 ```mermaid
 xychart-beta
     title "microsoft/frontiertour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-17 11（+1）
+2026-10-25 10 → 2026-11-18 11（+1）
 
 
 ---

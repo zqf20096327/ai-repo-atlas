@@ -1,6 +1,6 @@
 # paladini/voice-separator-demucs
 
-⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/paladini/voice-separator-demucs) · [官网](https://hub.docker.com/r/paladini/voice-separator) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/paladini/voice-separator-demucs) · [官网](https://hub.docker.com/r/paladini/voice-separator) · 个人维护
 
 **自托管 Web 应用：用 AI 从音乐中分离人声与乐器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paladini/voice-separator-demucs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-18"]
     y-axis "stars" 38 --> 42
     line [39, 40, 41, 41]
 ```
 
-2026-10-18 39 → 2026-11-17 41（+2）
+2026-10-18 39 → 2026-11-18 41（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/leaderboards
 
-⭐ 26 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/leaderboards) · 组织维护
+⭐ 26 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/leaderboards) · 组织维护
 
 **Hugging Face leaderboards 文档仓库：构建与预览文档**
 
@@ -43,12 +43,12 @@ huggingface 组织下的 leaderboards 仓库，README 仅包含文档构建说�
 ```mermaid
 xychart-beta
     title "huggingface/leaderboards 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-10", "2026-11-18"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-11-17 26（+2）
+2026-10-18 24 → 2026-11-18 26（+2）
 
 
 ---

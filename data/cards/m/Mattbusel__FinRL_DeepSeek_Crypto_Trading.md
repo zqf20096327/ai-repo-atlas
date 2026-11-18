@@ -1,6 +1,6 @@
 # Mattbusel/FinRL_DeepSeek_Crypto_Trading
 
-⭐ 18 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Mattbusel/FinRL_DeepSeek_Crypto_Trading) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Mattbusel/FinRL_DeepSeek_Crypto_Trading) · 个人维护 · 中文 README
 
 **FinRL竞赛参赛研究代码：DQN集成+DeepSeek新闻信号的BTC交易agent**
 
@@ -45,12 +45,12 @@ FinRL竞赛Task 1的研究代码：D3QN、DoubleDQN、TwinD3QN三个DQN agent在
 ```mermaid
 xychart-beta
     title "Mattbusel/FinRL_DeepSeek_Crypto_Trading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-11-17 18（+1）
+2026-10-18 17 → 2026-11-18 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/finnts
 
-⭐ 283 · R · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/finnts) · [官网](https://microsoft.github.io/finnts) · 组织维护
+⭐ 283 · R · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/finnts) · [官网](https://microsoft.github.io/finnts) · 组织维护
 
 **微软开源的 R 自动化金融时间序列预测框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/finnts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 276 --> 284
     line [277, 278, 279, 280, 278, 283, 283]
 ```
 
-2026-10-18 277 → 2026-11-17 283（+6）
+2026-10-18 277 → 2026-11-18 283（+6）
 
 
 ---

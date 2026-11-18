@@ -1,6 +1,6 @@
 # photon-hq/buildspace
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/photon-hq/buildspace) · [官网](https://photon.codes) · 组织维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/photon-hq/buildspace) · [官网](https://photon.codes) · 组织维护
 
 **可复用 GitHub Actions 发布流水线与组件库，供研发团队直接接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "photon-hq/buildspace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-uav-drone-ai
 
-⭐ 43 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-uav-drone-ai) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **无人机与空中机器人 AI 资源策展清单**
 

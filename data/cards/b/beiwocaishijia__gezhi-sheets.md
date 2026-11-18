@@ -1,6 +1,6 @@
 # beiwocaishijia/gezhi-sheets
 
-⭐ 269 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/beiwocaishijia/gezhi-sheets) · 个人维护 · 中文 README
+⭐ 335 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/beiwocaishijia/gezhi-sheets) · 个人维护 · 中文 README
 
 **接入国产大模型的本地 AI 表格助手，用自然语言整理表格**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "beiwocaishijia/gezhi-sheets 星数(近 7 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 11 --> 292
-    line [34, 80, 140, 153, 193, 269, 269]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 4 --> 365
+    line [34, 80, 140, 153, 193, 269, 335]
 ```
 
-2026-11-11 34 → 2026-11-17 269（+235）
+2026-11-11 34 → 2026-11-18 335（+301）
 
 
 ---

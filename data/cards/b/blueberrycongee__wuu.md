@@ -1,6 +1,6 @@
 # blueberrycongee/wuu
 
-⭐ 63 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/blueberrycongee/wuu) · 组织维护 · 中文 README
+⭐ 64 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/blueberrycongee/wuu) · 组织维护 · 中文 README
 
 **BYOK AI 编码 agent：桌面应用+可脚本化 CLI，Agent 直接读写本地项目代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "blueberrycongee/wuu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 55 --> 64
-    line [56, 59, 60, 61, 63, 63]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 55 --> 65
+    line [56, 59, 60, 61, 63, 64]
 ```
 
-2026-10-18 56 → 2026-11-17 63（+7）
+2026-10-18 56 → 2026-11-18 64（+8）
 
 
 ---

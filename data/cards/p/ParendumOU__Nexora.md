@@ -1,6 +1,6 @@
 # ParendumOU/Nexora
 
-⭐ 26 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ParendumOU/Nexora) · [官网](https://nexora.parendum.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管多租户 AI agent 编排平台，支持约 46 家 LLM 提供商**
 
@@ -11,7 +11,7 @@ MIT 许可的开源 AI-agent 编排平台核心：用户以人设+技能+工具�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

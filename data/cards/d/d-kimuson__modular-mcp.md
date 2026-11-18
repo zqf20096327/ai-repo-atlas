@@ -1,6 +1,6 @@
 # d-kimuson/modular-mcp
 
-⭐ 51 · TypeScript · MIT · 推送 2025-11-21 · [GitHub](https://github.com/d-kimuson/modular-mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MCP 代理服务器：按需加载多服务器工具 schema，节省 LLM 上下文**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

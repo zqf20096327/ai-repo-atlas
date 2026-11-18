@@ -1,6 +1,6 @@
 # devmode-id/belajarpython.com
 
-⭐ 420 · Nunjucks · MIT · 推送 2026-05-21 · [GitHub](https://github.com/devmode-id/belajarpython.com) · [官网](https://belajarpython.com) · 组织维护
+⭐ 421 · Nunjucks · MIT · 推送 2026-05-21 · [GitHub](https://github.com/devmode-id/belajarpython.com) · [官网](https://belajarpython.com) · 组织维护
 
 **印尼语 Python 编程教程协作社区站点**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "devmode-id/belajarpython.com 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 415 --> 421
-    line [416, 417, 416, 418, 419, 420, 420]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 415 --> 422
+    line [416, 417, 416, 418, 419, 420, 421]
 ```
 
-2026-10-18 416 → 2026-11-17 420（+4）
+2026-10-18 416 → 2026-11-18 421（+5）
 
 
 ---

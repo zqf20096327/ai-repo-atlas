@@ -1,6 +1,6 @@
 # PerryLink/dsh-mcp-panel
 
-⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-mcp-panel) · [官网](https://www.npmjs.com/package/dsh-mcp-panel) · 个人维护 · 中文 README
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PerryLink/dsh-mcp-panel) · [官网](https://www.npmjs.com/package/dsh-mcp-panel) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方 MCP 客户端的管理控制台插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-mcp-panel 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 75 --> 95
-    line [76, 79, 83, 84, 86, 89, 91, 89, 93, 94, 94]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 75 --> 96
+    line [76, 79, 83, 84, 86, 89, 91, 89, 93, 94, 95]
 ```
 
-2026-10-18 76 → 2026-11-17 94（+18）
+2026-10-18 76 → 2026-11-18 95（+19）
 
 
 ---

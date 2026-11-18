@@ -1,6 +1,6 @@
 # lucialuka/OpenAssembler
 
-⭐ 221 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/lucialuka/OpenAssembler) · 个人维护
+⭐ 221 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/lucialuka/OpenAssembler) · 个人维护
 
 **将 Python 模型与 GPU 内核编译为 NVIDIA SASS/cubin 的开源编译器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lucialuka/OpenAssembler 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-17"]
+    x-axis ["2026-11-14", "2026-11-18"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-11-14 221 → 2026-11-17 221（+0）
+2026-11-14 221 → 2026-11-18 221（+0）
 
 
 ---

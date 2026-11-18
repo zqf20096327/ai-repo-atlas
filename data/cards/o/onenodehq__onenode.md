@@ -46,12 +46,12 @@ OneNode Community Edition（MIT，公测阶段）是语义搜索框架，作为�
 ```mermaid
 xychart-beta
     title "onenodehq/onenode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 17（+0）
 
 
 ---

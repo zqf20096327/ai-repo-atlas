@@ -1,6 +1,6 @@
 # mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers
 
-⭐ 86 · 推送 2026-10-30 · [GitHub](https://github.com/mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 87 · 推送 2026-10-30 · [GitHub](https://github.com/mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向海外广告投手的虚拟发卡服务推广页，非软件项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers 星数(近 9 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18"]
     y-axis "stars" 0 --> 97
-    line [7, 11, 47, 67, 79, 83, 89, 86, 86]
+    line [7, 11, 47, 67, 79, 83, 89, 86, 87]
 ```
 
-2026-10-31 7 → 2026-11-17 86（+79）
+2026-10-31 7 → 2026-11-18 87（+80）
 
 
 ---

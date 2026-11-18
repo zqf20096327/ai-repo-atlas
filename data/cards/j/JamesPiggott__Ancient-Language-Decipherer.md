@@ -1,6 +1,6 @@
 # JamesPiggott/Ancient-Language-Decipherer
 
-⭐ 27 · Python · 推送 2025-11-30 · [GitHub](https://github.com/JamesPiggott/Ancient-Language-Decipherer) · 个人维护
+⭐ 28 · Python · 推送 2025-11-30 · [GitHub](https://github.com/JamesPiggott/Ancient-Language-Decipherer) · 个人维护
 
 **深度学习识别古埃及圣书体等古文字的研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JamesPiggott/Ancient-Language-Decipherer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-11-17 27（+0）
+2026-10-18 27 → 2026-11-18 28（+1）
 
 
 ---

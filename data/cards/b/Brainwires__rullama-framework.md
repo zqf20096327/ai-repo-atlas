@@ -1,6 +1,6 @@
 # Brainwires/rullama-framework
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Brainwires/rullama-framework) · [官网](https://brainwires.dev/) · 组织维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Brainwires/rullama-framework) · [官网](https://brainwires.dev/) · 组织维护
 
 **Rust AI agent 框架：多提供商、工具编排、MCP 与 RAG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Brainwires/rullama-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-18"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-11-17 21（+1）
+2026-10-18 20 → 2026-11-18 21（+1）
 
 
 ---

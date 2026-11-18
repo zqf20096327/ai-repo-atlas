@@ -46,12 +46,12 @@ Python 库，检测 LLM agent 轨迹中的奖励作弊行为（如调用 sys.exi
 ```mermaid
 xychart-beta
     title "aerosta/rewardhackwatch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

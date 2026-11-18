@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-ethics
 
-⭐ 16 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-ethics) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 伦理资源策展清单：框架、工具、论文与指南**
 

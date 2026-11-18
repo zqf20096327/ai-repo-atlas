@@ -1,6 +1,6 @@
 # provos/planai
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/provos/planai) · 个人维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/provos/planai) · 个人维护
 
 **面向开发者的图结构 LLM 工作流编排框架**
 
@@ -46,12 +46,12 @@ PlanAI 是一个基于图的 Python 任务自动化框架：开发者以 TaskWor
 ```mermaid
 xychart-beta
     title "provos/planai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-18 52 → 2026-11-17 53（+1）
+2026-10-18 52 → 2026-11-18 54（+2）
 
 
 ---

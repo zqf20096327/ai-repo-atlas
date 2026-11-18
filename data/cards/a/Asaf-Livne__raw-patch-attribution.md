@@ -1,6 +1,6 @@
 # Asaf-Livne/raw-patch-attribution
 
-⭐ 35 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Asaf-Livne/raw-patch-attribution) · [官网](https://asaf-livne.github.io/RPA/) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Asaf-Livne/raw-patch-attribution) · [官网](https://asaf-livne.github.io/RPA/) · 组织维护
 
 **黑盒图像溯源 CNN：仅凭像素判定生成图像的来源模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Asaf-Livne/raw-patch-attribution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-15", "2026-11-18"]
     y-axis "stars" 34 --> 37
     line [36, 35, 35]
 ```
 
-2026-10-18 36 → 2026-11-17 35（-1）
+2026-10-18 36 → 2026-11-18 35（-1）
 
 
 ---

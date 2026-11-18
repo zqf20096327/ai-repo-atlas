@@ -1,6 +1,6 @@
 # Xnhyacinth/Awesome-LLM-Long-Context-Modeling
 
-⭐ 2,192 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) · [官网](https://arxiv.org/abs/2503.17407) · 个人维护
+⭐ 2,193 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) · [官网](https://arxiv.org/abs/2503.17407) · 个人维护
 
 **LLM 长上下文建模论文与博客的策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xnhyacinth/Awesome-LLM-Long-Context-Modeling 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 2183 --> 2193
-    line [2184, 2186, 2187, 2186, 2191, 2192, 2192]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 2183 --> 2194
+    line [2184, 2186, 2187, 2186, 2191, 2192, 2193]
 ```
 
-2026-10-18 2,184 → 2026-11-17 2,192（+8）
+2026-10-18 2,184 → 2026-11-18 2,193（+9）
 
 
 ---

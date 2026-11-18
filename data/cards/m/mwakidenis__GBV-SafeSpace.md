@@ -1,6 +1,6 @@
 # mwakidenis/GBV-SafeSpace
 
-⭐ 17 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/mwakidenis/GBV-SafeSpace) · [官网](https://hera-safehaven.vercel.app/) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/mwakidenis/GBV-SafeSpace) · [官网](https://hera-safehaven.vercel.app/) · 个人维护
 
 **面向非洲女性与女孩的性别暴力防护数字平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mwakidenis/GBV-SafeSpace 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-13", "2026-11-18"]
     y-axis "stars" 13 --> 18
     line [14, 16, 17, 17]
 ```
 
-2026-10-18 14 → 2026-11-17 17（+3）
+2026-10-18 14 → 2026-11-18 17（+3）
 
 
 ---

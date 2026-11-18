@@ -1,6 +1,6 @@
 # citoverse/cito
 
-⭐ 55 · HTML · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/citoverse/cito) · [官网](https://citoverse.github.io/cito/) · 组织维护
+⭐ 55 · HTML · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/citoverse/cito) · [官网](https://citoverse.github.io/cito/) · 组织维护
 
 **R 语言的深度神经网络训练与解释框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "citoverse/cito 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-11-17 55（+0）
+2026-10-18 55 → 2026-11-18 55（+0）
 
 
 ---

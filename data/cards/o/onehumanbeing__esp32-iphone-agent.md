@@ -1,6 +1,6 @@
 # onehumanbeing/esp32-iphone-agent
 
-⭐ 5,027 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://handsy.tech?ref=github) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **用 ESP32-S3 让视觉模型操控真实 iPhone 的 agent 套件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

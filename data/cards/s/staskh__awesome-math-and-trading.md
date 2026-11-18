@@ -1,6 +1,6 @@
 # staskh/awesome-math-and-trading
 
-⭐ 21 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/staskh/awesome-math-and-trading) · 个人维护
+⭐ 22 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/staskh/awesome-math-and-trading) · 个人维护
 
 **面向量化交易者的数学、概率与 ML 资源策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "staskh/awesome-math-and-trading 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-11-17 21（+0）
+2026-10-18 21 → 2026-11-18 22（+1）
 
 
 ---

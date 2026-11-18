@@ -1,6 +1,6 @@
 # ductho-le/WaveDL
 
-⭐ 50 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ductho-le/WaveDL) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ductho-le/WaveDL) · 个人维护
 
 **面向波动反演问题的可扩展深度学习训练框架，供科研与工程使用者**
 
@@ -45,12 +45,12 @@ WaveDL 是用于波动类反问题（超声无损检测、地球物理、生物�
 ```mermaid
 xychart-beta
     title "ductho-le/WaveDL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-16", "2026-11-18"]
     y-axis "stars" 48 --> 51
-    line [50, 49, 50, 50]
+    line [50, 49, 50, 49]
 ```
 
-2026-10-18 50 → 2026-11-17 50（+0）
+2026-10-18 50 → 2026-11-18 49（-1）
 
 
 ---

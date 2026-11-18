@@ -1,6 +1,6 @@
 # rubenmarcus/aeo.js
 
-⭐ 147 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/rubenmarcus/aeo.js) · [官网](https://aeojs.org) · 个人维护
+⭐ 148 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/rubenmarcus/aeo.js) · [官网](https://aeojs.org) · 个人维护
 
 **面向 AI 搜索引擎的站点优化工具：生成 llms.txt 等发现性文件**
 
@@ -46,12 +46,12 @@ npm 包 aeo.js，为网站生成供 AI 爬虫与回答引擎读取的 robots.txt
 ```mermaid
 xychart-beta
     title "rubenmarcus/aeo.js 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 142 --> 148
-    line [143, 144, 145, 144, 146, 147, 147]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 142 --> 149
+    line [143, 144, 145, 144, 146, 147, 148]
 ```
 
-2026-10-18 143 → 2026-11-17 147（+4）
+2026-10-18 143 → 2026-11-18 148（+5）
 
 
 ---

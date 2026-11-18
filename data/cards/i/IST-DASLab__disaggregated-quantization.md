@@ -1,6 +1,6 @@
 # IST-DASLab/disaggregated-quantization
 
-⭐ 40 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/IST-DASLab/disaggregated-quantization) · [官网](https://arxiv.org/abs/2609.26333) · 组织维护
+⭐ 41 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/IST-DASLab/disaggregated-quantization) · [官网](https://arxiv.org/abs/2609.26333) · 组织维护
 
 **LLM 预填充/解码阶段差异化量化（DQ）的研究代码库**
 
@@ -47,12 +47,12 @@ IST-DASLab 发布的论文官方代码库：提出 disaggregated quantization，
 ```mermaid
 xychart-beta
     title "IST-DASLab/disaggregated-quantization 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 27 --> 41
-    line [28, 29, 30, 31, 32, 31, 33, 34, 35, 36, 40, 40]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 27 --> 42
+    line [28, 29, 30, 31, 32, 31, 33, 34, 35, 36, 40, 41]
 ```
 
-2026-10-18 28 → 2026-11-17 40（+12）
+2026-10-18 28 → 2026-11-18 41（+13）
 
 
 ---

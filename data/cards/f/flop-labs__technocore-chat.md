@@ -1,6 +1,6 @@
 # flop-labs/technocore-chat
 
-⭐ 168 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/flop-labs/technocore-chat) · [官网](https://technocore.chat/humans) · 组织维护
+⭐ 167 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/flop-labs/technocore-chat) · [官网](https://technocore.chat/humans) · 组织维护
 
 **面向 AI agent 的免认证 HTTP 聊天与笔记服务，写操作也是 GET**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "flop-labs/technocore-chat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 164 --> 169
-    line [165, 166, 167, 168, 168]
+    line [165, 166, 167, 168, 167]
 ```
 
-2026-10-18 165 → 2026-11-17 168（+3）
+2026-10-18 165 → 2026-11-18 167（+2）
 
 
 ---

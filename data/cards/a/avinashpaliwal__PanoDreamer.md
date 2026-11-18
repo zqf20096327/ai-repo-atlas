@@ -1,6 +1,6 @@
 # avinashpaliwal/PanoDreamer
 
-⭐ 112 · Python · 推送 2026-04-24 · [GitHub](https://github.com/avinashpaliwal/PanoDreamer) · [官网](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer) · 组织维护
+⭐ 113 · Python · 推送 2026-04-24 · [GitHub](https://github.com/avinashpaliwal/PanoDreamer) · [官网](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer) · 组织维护
 
 **单张图像生成 360° 全景与 3D 高斯泼溅场景的研究代码**
 
@@ -46,12 +46,12 @@ SIGGRAPH Asia 2025 论文的官方实现：从单张输入图像出发，基于�
 ```mermaid
 xychart-beta
     title "avinashpaliwal/PanoDreamer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 111, 112, 113]
 ```
 
-2026-10-18 111 → 2026-11-17 112（+1）
+2026-10-18 111 → 2026-11-18 113（+2）
 
 
 ---

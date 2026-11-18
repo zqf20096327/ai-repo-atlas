@@ -1,6 +1,6 @@
 # cheenulabs/pi-agent-python-sdk
 
-⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cheenulabs/pi-agent-python-sdk) · [官网](https://pypi.org/project/pi-agent-python-sdk/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/cheenulabs/pi-agent-python-sdk) · [官网](https://pypi.org/project/pi-agent-python-sdk/) · 组织维护
 
 **把终端编码 agent Pi 封装为 Python API 的社区 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cheenulabs/pi-agent-python-sdk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 12 --> 19
-    line [13, 14, 15, 16, 18, 18]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 15, 16, 18, 20]
 ```
 
-2026-10-18 13 → 2026-11-17 18（+5）
+2026-10-18 13 → 2026-11-18 20（+7）
 
 
 ---

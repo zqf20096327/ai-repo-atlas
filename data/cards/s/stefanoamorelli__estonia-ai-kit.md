@@ -1,6 +1,6 @@
 # stefanoamorelli/estonia-ai-kit
 
-⭐ 81 · TypeScript · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/stefanoamorelli/estonia-ai-kit) · [官网](https://github.com/stefanoamorelli/estonia-ai-kit) · 个人维护
+⭐ 82 · TypeScript · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/stefanoamorelli/estonia-ai-kit) · [官网](https://github.com/stefanoamorelli/estonia-ai-kit) · 个人维护
 
 **连接 AI 应用与爱沙尼亚政务/银行服务的 MCP 与 CLI 工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stefanoamorelli/estonia-ai-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-18 81 → 2026-11-17 81（+0）
+2026-10-18 81 → 2026-11-18 82（+1）
 
 
 ---

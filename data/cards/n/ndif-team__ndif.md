@@ -1,6 +1,6 @@
 # ndif-team/ndif
 
-⭐ 51 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ndif-team/ndif) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ndif-team/ndif) · 组织维护
 
 **面向可解释性研究的远程模型推理服务端，运行 nnsight 干预实验**
 
@@ -46,12 +46,12 @@ NDIF（National Deep Inference Fabric）是 nnsight 客户端的服务器后端�
 ```mermaid
 xychart-beta
     title "ndif-team/ndif 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-11-17 51（+0）
+2026-10-18 51 → 2026-11-18 51（+0）
 
 
 ---

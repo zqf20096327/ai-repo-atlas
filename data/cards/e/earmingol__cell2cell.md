@@ -1,6 +1,6 @@
 # earmingol/cell2cell
 
-⭐ 80 · Python · BSD-3-Clause · 推送 2026-09-20 · [GitHub](https://github.com/earmingol/cell2cell) · 组织维护
+⭐ 81 · Python · BSD-3-Clause · 推送 2026-09-20 · [GitHub](https://github.com/earmingol/cell2cell) · 组织维护
 
 **从基因表达推断细胞间通讯的分析工具**
 
@@ -45,12 +45,12 @@ Python 工具，读取相互作用蛋白的基因表达数据（bulk 或单细�
 ```mermaid
 xychart-beta
     title "earmingol/cell2cell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 79 --> 82
+    line [80, 81]
 ```
 
-2026-10-18 80 → 2026-11-17 80（+0）
+2026-10-18 80 → 2026-11-18 81（+1）
 
 
 ---

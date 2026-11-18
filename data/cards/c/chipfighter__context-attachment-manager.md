@@ -1,6 +1,6 @@
 # chipfighter/context-attachment-manager
 
-⭐ 805 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/chipfighter/context-attachment-manager) · 组织维护 · 中文 README
+⭐ 805 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/chipfighter/context-attachment-manager) · 组织维护 · 中文 README
 
 **本地插件：让编码 agent 旧图变占位符、按 ID 取回原图并保住缓存**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chipfighter/context-attachment-manager 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
     y-axis "stars" 802 --> 806
     line [803, 804, 805, 805]
 ```
 
-2026-11-14 803 → 2026-11-17 805（+2）
+2026-11-14 803 → 2026-11-18 805（+2）
 
 
 ---

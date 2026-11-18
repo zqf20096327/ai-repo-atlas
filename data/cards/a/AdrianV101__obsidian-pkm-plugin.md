@@ -1,6 +1,6 @@
 # AdrianV101/obsidian-pkm-plugin
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AdrianV101/obsidian-pkm-plugin) · [官网](https://www.npmjs.com/package/obsidian-pkm) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AdrianV101/obsidian-pkm-plugin) · [官网](https://www.npmjs.com/package/obsidian-pkm) · 个人维护
 
 **把 Obsidian 库变成 Claude Code 持久知识库的 MCP 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AdrianV101/obsidian-pkm-plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-11-17 15（+1）
+2026-10-18 14 → 2026-11-18 16（+2）
 
 
 ---

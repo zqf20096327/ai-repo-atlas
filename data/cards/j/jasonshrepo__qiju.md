@@ -1,6 +1,6 @@
 # jasonshrepo/qiju
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/jasonshrepo/qiju) · [官网](https://qiju.pages.dev/) · 个人维护 · 中文 README
+⭐ 27 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/jasonshrepo/qiju) · [官网](https://qiju.pages.dev/) · 个人维护 · 中文 README
 
 **本地优先的结构化会话记录，供多款 AI 编码代理延续开发历史**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jasonshrepo/qiju 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 24, 26, 26]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 24, 26, 27]
 ```
 
-2026-10-18 24 → 2026-11-17 26（+2）
+2026-10-18 24 → 2026-11-18 27（+3）
 
 
 ---

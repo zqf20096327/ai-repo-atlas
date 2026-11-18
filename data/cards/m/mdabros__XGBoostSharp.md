@@ -1,6 +1,6 @@
 # mdabros/XGBoostSharp
 
-⭐ 22 · C# · MIT · 推送 2026-07-13 · [GitHub](https://github.com/mdabros/XGBoostSharp) · 个人维护
+⭐ 23 · C# · MIT · 推送 2026-07-13 · [GitHub](https://github.com/mdabros/XGBoostSharp) · 个人维护
 
 **.NET 版 XGBoost 封装库，让 C# 训练与预测梯度提升模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mdabros/XGBoostSharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-11-17 22（+0）
+2026-10-18 22 → 2026-11-18 23（+1）
 
 
 ---

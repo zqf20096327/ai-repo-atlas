@@ -46,12 +46,12 @@ Astarte 生态的流处理组件：用户将算法封装为容器 Block，组合
 ```mermaid
 xychart-beta
     title "astarte-platform/astarte_flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 18（+0）
 
 
 ---

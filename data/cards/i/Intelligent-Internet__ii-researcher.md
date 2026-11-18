@@ -1,6 +1,6 @@
 # Intelligent-Internet/ii-researcher
 
-⭐ 506 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/Intelligent-Internet/ii-researcher) · [官网](https://www.ii.inc/web/blog/post/ii-researcher) · 组织维护
+⭐ 505 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/Intelligent-Internet/ii-researcher) · [官网](https://www.ii.inc/web/blog/post/ii-researcher) · 组织维护
 
 **给研究者的深度搜索 agent：自动检索网页并产出带引用的报告**
 
@@ -46,12 +46,12 @@ Intelligent Internet 开发的开源深度搜索 agent：给定问题后自主�
 ```mermaid
 xychart-beta
     title "Intelligent-Internet/ii-researcher 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18"]
     y-axis "stars" 502 --> 507
-    line [503, 504, 505, 504, 505, 506, 506]
+    line [503, 504, 505, 504, 505, 506, 505]
 ```
 
-2026-10-18 503 → 2026-11-17 506（+3）
+2026-10-18 503 → 2026-11-18 505（+2）
 
 
 ---

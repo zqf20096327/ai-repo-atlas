@@ -1,6 +1,6 @@
 # WillDreamer/T2PO
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/WillDreamer/T2PO) · 个人维护 · 中文 README
+⭐ 60 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/WillDreamer/T2PO) · 个人维护 · 中文 README
 
 **多轮 LLM Agent 强化学习训练框架，用不确定性信号控制探索**
 
@@ -47,12 +47,12 @@ ICML 2026 Spotlight 论文 T2PO 的开源实现：在 token 级跟踪边际不�
 ```mermaid
 xychart-beta
     title "WillDreamer/T2PO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-11-17 59（+0）
+2026-10-18 59 → 2026-11-18 60（+1）
 
 
 ---

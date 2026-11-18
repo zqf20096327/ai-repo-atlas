@@ -1,6 +1,6 @@
 # Mazees/mark-agent
 
-⭐ 44 · JavaScript · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Mazees/mark-agent) · 个人维护
+⭐ 45 · JavaScript · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Mazees/mark-agent) · 个人维护
 
 **Windows 本地运行的个人 AI 助理，带长期记忆与多 Agent 系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mazees/mark-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 45]
 ```
 
-2026-10-18 42 → 2026-11-17 44（+2）
+2026-10-18 42 → 2026-11-18 45（+3）
 
 
 ---

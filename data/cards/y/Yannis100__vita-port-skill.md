@@ -1,6 +1,6 @@
 # Yannis100/vita-port-skill
 
-⭐ 23 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Yannis100/vita-port-skill) · [官网](https://skills.sh/Yannis100/vita-port-skill) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Yannis100/vita-port-skill) · [官网](https://skills.sh/Yannis100/vita-port-skill) · 个人维护
 
 **将游戏与应用移植到 PS Vita 的 agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yannis100/vita-port-skill 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18"]
     y-axis "stars" 9 --> 24
     line [10, 12, 15, 16, 17, 16, 18, 21, 22, 23, 23]
 ```
 
-2026-10-18 10 → 2026-11-17 23（+13）
+2026-10-18 10 → 2026-11-18 23（+13）
 
 
 ---

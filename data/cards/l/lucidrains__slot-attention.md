@@ -45,12 +45,12 @@ GoogleAI 论文《Object-Centric Learning with Slot Attention》的 PyTorch 实�
 ```mermaid
 xychart-beta
     title "lucidrains/slot-attention 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-18"]
     y-axis "stars" 499 --> 503
     line [500, 501, 502, 502]
 ```
 
-2026-10-18 500 → 2026-11-17 502（+2）
+2026-10-18 500 → 2026-11-18 502（+2）
 
 
 ---

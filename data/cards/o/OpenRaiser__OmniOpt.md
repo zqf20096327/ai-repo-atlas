@@ -1,6 +1,6 @@
 # OpenRaiser/OmniOpt
 
-⭐ 38 · Python · 推送 2026-07-07 · [GitHub](https://github.com/OpenRaiser/OmniOpt) · [官网](https://openraiser.github.io/OmniOpt/) · 组织维护 · 中文 README
+⭐ 39 · Python · 推送 2026-07-07 · [GitHub](https://github.com/OpenRaiser/OmniOpt) · [官网](https://openraiser.github.io/OmniOpt/) · 组织维护 · 中文 README
 
 **面向 LLM 预训练的现代优化器两阶段评测基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenRaiser/OmniOpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-11-17 38（+0）
+2026-10-18 38 → 2026-11-18 39（+1）
 
 
 ---

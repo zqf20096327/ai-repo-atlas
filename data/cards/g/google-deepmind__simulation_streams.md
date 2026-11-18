@@ -1,6 +1,6 @@
 # google-deepmind/simulation_streams
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/google-deepmind/simulation_streams) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/google-deepmind/simulation_streams) · 组织维护
 
 **用 LLM 构建复杂模拟的开发平台（ECS + 图形编辑器）**
 
@@ -45,12 +45,12 @@ DeepMind 发布的基于 LLM 的模拟开发平台：采用 Entity-Component-Sys
 ```mermaid
 xychart-beta
     title "google-deepmind/simulation_streams 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 27 --> 31
+    line [28, 30]
 ```
 
-2026-10-18 28 → 2026-11-17 28（+0）
+2026-10-18 28 → 2026-11-18 30（+2）
 
 
 ---

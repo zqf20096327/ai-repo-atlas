@@ -1,6 +1,6 @@
 # SwiftedMind/SwiftAgent
 
-⭐ 232 · Swift · MIT · 推送 2026-01-23 · [GitHub](https://github.com/SwiftedMind/SwiftAgent) · 个人维护
+⭐ 233 · Swift · MIT · 推送 2026-01-23 · [GitHub](https://github.com/SwiftedMind/SwiftAgent) · 个人维护
 
 **Swift 原生 SDK：帮开发者构建自主 AI Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SwiftedMind/SwiftAgent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 227 --> 233
-    line [228, 229, 230, 229, 231, 232, 232]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 227 --> 234
+    line [228, 229, 230, 229, 231, 232, 233]
 ```
 
-2026-10-18 228 → 2026-11-17 232（+4）
+2026-10-18 228 → 2026-11-18 233（+5）
 
 
 ---

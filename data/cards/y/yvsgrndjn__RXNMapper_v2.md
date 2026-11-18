@@ -1,6 +1,6 @@
 # yvsgrndjn/RXNMapper_v2
 
-⭐ 21 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/yvsgrndjn/RXNMapper_v2) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/yvsgrndjn/RXNMapper_v2) · 个人维护
 
 **化学反应原子映射工具：从反应 SMILES 生成原子映射并可自训模型**
 
@@ -45,12 +45,12 @@ RXNMapper v2 基于 ALBERT 模型，通过掩码语言建模从无监督的反�
 ```mermaid
 xychart-beta
     title "yvsgrndjn/RXNMapper_v2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-17"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-18"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 23]
 ```
 
-2026-10-18 20 → 2026-11-17 21（+1）
+2026-10-18 20 → 2026-11-18 23（+3）
 
 
 ---

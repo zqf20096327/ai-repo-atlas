@@ -43,12 +43,12 @@ Devinterview.io 维护的 Pandas 面试问答集合，收录 45 道基础问题�
 ```mermaid
 xychart-beta
     title "Devinterview-io/pandas-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
     y-axis "stars" 73 --> 76
     line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-11-17 75（+1）
+2026-10-18 74 → 2026-11-18 75（+1）
 
 
 ---

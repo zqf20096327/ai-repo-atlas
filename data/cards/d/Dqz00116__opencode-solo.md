@@ -1,6 +1,6 @@
 # Dqz00116/opencode-solo
 
-⭐ 32 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Dqz00116/opencode-solo) · 个人维护 · 中文 README
+⭐ 32 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Dqz00116/opencode-solo) · 个人维护 · 中文 README
 
 **opencode 的多子代理编排配置：专家模型规划、快速模型执行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Dqz00116/opencode-solo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-17 32（+0）
+2026-10-18 32 → 2026-11-18 32（+0）
 
 
 ---

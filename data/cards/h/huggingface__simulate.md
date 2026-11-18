@@ -1,6 +1,6 @@
 # huggingface/simulate
 
-⭐ 197 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/simulate) · [官网](https://huggingface.co/docs/simulate) · 组织维护
+⭐ 197 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/simulate) · [官网](https://huggingface.co/docs/simulate) · 组织维护
 
 **创建与共享智能体仿真环境的 Python 库**
 
@@ -44,12 +44,12 @@ Hugging Face 维护的 Python 库，用于创建、保存和共享面向智能�
 ```mermaid
 xychart-beta
     title "huggingface/simulate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 195 --> 198
     line [196, 197, 196, 197, 197]
 ```
 
-2026-10-18 196 → 2026-11-17 197（+1）
+2026-10-18 196 → 2026-11-18 197（+1）
 
 
 ---

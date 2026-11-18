@@ -43,12 +43,12 @@ SSW 公司开发的 GPT 问答机器人：用 OpenAI embeddings 检索匹配的 
 ```mermaid
 xychart-beta
     title "SSWConsulting/SSW.Rules.GPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ebiose-ai/ebiose
 
-⭐ 107 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ebiose-ai/ebiose) · [官网](https://www.ebiose.com/) · 组织维护
+⭐ 108 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ebiose-ai/ebiose) · [官网](https://www.ebiose.com/) · 组织维护
 
 **创建与进化 AI agent 的开源框架（Inria 孵化）**
 
@@ -46,12 +46,12 @@ Inria（法国国家研究机构，scikit-learn 出品方）孵化公司 Ebiose 
 ```mermaid
 xychart-beta
     title "ebiose-ai/ebiose 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 104 --> 108
-    line [105, 106, 107, 105, 107, 107]
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 104 --> 109
+    line [105, 106, 107, 105, 107, 108]
 ```
 
-2026-10-18 105 → 2026-11-17 107（+2）
+2026-10-18 105 → 2026-11-18 108（+3）
 
 
 ---

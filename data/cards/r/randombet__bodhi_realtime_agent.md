@@ -1,6 +1,6 @@
 # randombet/bodhi_realtime_agent
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/randombet/bodhi_realtime_agent) · [官网](https://randombet.github.io/bodhi_realtime_agent/) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/randombet/bodhi_realtime_agent) · [官网](https://randombet.github.io/bodhi_realtime_agent/) · 个人维护
 
 **基于 Gemini Live API 构建实时语音 agent 应用的 TypeScript 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "randombet/bodhi_realtime_agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 16（+0）
 
 
 ---

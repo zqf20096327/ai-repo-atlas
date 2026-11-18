@@ -1,6 +1,6 @@
 # mistralai/mistral-evals
 
-⭐ 94 · Python · 推送 2025-11-21 · [GitHub](https://github.com/mistralai/mistral-evals) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Mistral AI 官方评测代码库：跑学术基准与 MM-MT-Bench 评测**
 

@@ -1,6 +1,6 @@
 # Maki-Grz/geniex-rs
 
-⭐ 13 · Rust · BSD-3-Clause · 推送 2026-10-10 · [GitHub](https://github.com/Maki-Grz/geniex-rs) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 个人维护
+⭐ 14 · Rust · BSD-3-Clause · 推送 2026-10-10 · [GitHub](https://github.com/Maki-Grz/geniex-rs) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 个人维护
 
 **Qualcomm GenieX SDK 的 Rust 绑定：在骁龙设备本地跑 LLM/VLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Maki-Grz/geniex-rs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-17 13（+1）
+2026-10-18 12 → 2026-11-18 14（+2）
 
 
 ---

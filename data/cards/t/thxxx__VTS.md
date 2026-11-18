@@ -1,6 +1,6 @@
 # thxxx/VTS
 
-⭐ 144 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/thxxx/VTS) · [官网](https://spicy-pufferfish-699.notion.site/VTS-347cf95761f480f19dc0eb790e1467af?source=copy_link) · 个人维护
+⭐ 145 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/thxxx/VTS) · [官网](https://spicy-pufferfish-699.notion.site/VTS-347cf95761f480f19dc0eb790e1467af?source=copy_link) · 个人维护
 
 **用口述拟声草稿加文本提示生成音效的推理包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thxxx/VTS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
     y-axis "stars" 143 --> 146
-    line [144, 145, 144, 144]
+    line [144, 145, 144, 145]
 ```
 
-2026-10-18 144 → 2026-11-17 144（+0）
+2026-10-18 144 → 2026-11-18 145（+1）
 
 
 ---

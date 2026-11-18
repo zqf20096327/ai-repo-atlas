@@ -1,6 +1,6 @@
 # clearml/clearml-serving
 
-⭐ 170 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/clearml/clearml-serving) · [官网](https://clear.ml) · 组织维护
+⭐ 170 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/clearml/clearml-serving) · [官网](https://clear.ml) · 组织维护
 
 **面向运维开发者的 ML/DL 模型部署与推理服务编排工具**
 
@@ -48,12 +48,12 @@ clearml-serving 是 ClearML 提供的命令行模型部署与编排工具，将�
 ```mermaid
 xychart-beta
     title "clearml/clearml-serving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-11-17 170（+0）
+2026-10-18 170 → 2026-11-18 170（+0）
 
 
 ---

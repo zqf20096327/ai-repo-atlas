@@ -1,6 +1,6 @@
 # jwadow/mcp-excel
 
-⭐ 46 · Python · AGPL-3.0 · 推送 2026-02-28 · [GitHub](https://github.com/jwadow/mcp-excel) · 个人维护 · 中文 README
+⭐ 47 · Python · AGPL-3.0 · 推送 2026-02-28 · [GitHub](https://github.com/jwadow/mcp-excel) · 个人维护 · 中文 README
 
 **供 AI agent 分析 Excel 的 MCP 服务器，以原子操作代替灌入上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jwadow/mcp-excel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 45 --> 48
-    line [47, 46, 47, 46, 46]
+    line [47, 46, 47, 46, 47]
 ```
 
-2026-10-18 47 → 2026-11-17 46（-1）
+2026-10-18 47 → 2026-11-18 47（+0）
 
 
 ---

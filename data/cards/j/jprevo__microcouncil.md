@@ -1,6 +1,6 @@
 # jprevo/microcouncil
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/jprevo/microcouncil) · [官网](https://microcouncil.me) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/jprevo/microcouncil) · [官网](https://microcouncil.me) · 个人维护
 
 **生成“专家委员会”讨论提示词的浏览器网页应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jprevo/microcouncil 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-18 14 → 2026-11-17 14（+0）
+2026-10-18 14 → 2026-11-18 15（+1）
 
 
 ---

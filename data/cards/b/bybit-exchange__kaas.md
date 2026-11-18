@@ -1,6 +1,6 @@
 # bybit-exchange/kaas
 
-⭐ 153 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/bybit-exchange/kaas) · [官网](https://bybit-exchange.github.io/kaas-doc/) · 组织维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/bybit-exchange/kaas) · [官网](https://bybit-exchange.github.io/kaas-doc/) · 组织维护 · 中文 README
 
 **自托管个人知识库编译器：把散落笔记文档编译成可问答的 Markdown wiki**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bybit-exchange/kaas 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 149 --> 154
-    line [150, 151, 152, 153, 151, 153, 153]
+    line [150, 151, 152, 153, 151, 153, 152]
 ```
 
-2026-10-18 150 → 2026-11-17 153（+3）
+2026-10-18 150 → 2026-11-18 152（+2）
 
 
 ---

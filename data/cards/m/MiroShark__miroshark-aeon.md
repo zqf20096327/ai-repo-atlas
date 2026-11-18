@@ -1,6 +1,6 @@
 # MiroShark/miroshark-aeon
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/MiroShark/miroshark-aeon) · [官网](https://t.me/miroshark_aeon) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MiroShark/miroshark-aeon) · [官网](https://t.me/miroshark_aeon) · 个人维护
 
 **MiroShark 的 Aeon 无人值守 agent 实例：在 GitHub Actions 上定时跑技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MiroShark/miroshark-aeon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 17 --> 21
     line [18, 19, 18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-17 20（+2）
+2026-10-18 18 → 2026-11-18 20（+2）
 
 
 ---

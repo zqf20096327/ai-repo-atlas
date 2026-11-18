@@ -1,6 +1,6 @@
 # mosaicml/streaming
 
-⭐ 1,573 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/mosaicml/streaming) · [官网](https://streaming.docs.mosaicml.com) · 组织维护
+⭐ 1,574 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/mosaicml/streaming) · [官网](https://streaming.docs.mosaicml.com) · 组织维护
 
 **面向分布式神经网络训练的云存储数据流式读取库**
 
@@ -46,12 +46,12 @@ MosaicML（Databricks）维护的 Python 数据流库：将数据集转换为 MD
 ```mermaid
 xychart-beta
     title "mosaicml/streaming 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 1569 --> 1574
-    line [1570, 1571, 1570, 1573, 1571, 1572, 1573, 1573]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 1569 --> 1575
+    line [1570, 1571, 1570, 1573, 1571, 1572, 1573, 1574]
 ```
 
-2026-10-18 1,570 → 2026-11-17 1,573（+3）
+2026-10-18 1,570 → 2026-11-18 1,574（+4）
 
 
 ---

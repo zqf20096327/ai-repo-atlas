@@ -1,6 +1,6 @@
 # elixir-nx/scholar
 
-⭐ 498 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/elixir-nx/scholar) · 组织维护
+⭐ 499 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/elixir-nx/scholar) · 组织维护
 
 **Elixir 传统机器学习库：基于 Nx 的分类/回归/聚类算法**
 
@@ -44,12 +44,12 @@ Erlang 生态基金会机器学习工作组维护的 Elixir 传统机器学习�
 ```mermaid
 xychart-beta
     title "elixir-nx/scholar 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 496 --> 499
-    line [497, 498, 497, 498, 498]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 496 --> 500
+    line [497, 498, 497, 498, 499]
 ```
 
-2026-10-18 497 → 2026-11-17 498（+1）
+2026-10-18 497 → 2026-11-18 499（+2）
 
 
 ---

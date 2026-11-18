@@ -1,6 +1,6 @@
 # ai-ng/magic-spell
 
-⭐ 247 · TypeScript · 推送 2026-06-12 · [GitHub](https://github.com/ai-ng/magic-spell) · [官网](https://magic-spell.vercel.app) · 组织维护
+⭐ 246 · TypeScript · 推送 2026-06-12 · [GitHub](https://github.com/ai-ng/magic-spell) · [官网](https://magic-spell.vercel.app) · 组织维护
 
 **嵌入 textarea 的 AI 文本编辑器，基于 Next.js 与 Groq**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "ai-ng/magic-spell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 246 --> 248
-    line [247, 247]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 245 --> 248
+    line [247, 246]
 ```
 
-2026-10-18 247 → 2026-11-17 247（+0）
+2026-10-18 247 → 2026-11-18 246（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Stability-AI/ReLi3D
 
-⭐ 76 · Python · NOASSERTION · 推送 2026-07-02 · [GitHub](https://github.com/Stability-AI/ReLi3D) · 组织维护
+⭐ 77 · Python · NOASSERTION · 推送 2026-07-02 · [GitHub](https://github.com/Stability-AI/ReLi3D) · 组织维护
 
 **从多视角图像重建可重光照 3D 资产的推理库**
 
@@ -45,12 +45,12 @@ Stability AI 发布的仅推理代码库：输入物体多视角图像（RGBA �
 ```mermaid
 xychart-beta
     title "Stability-AI/ReLi3D 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 75, 76, 77]
 ```
 
-2026-10-18 75 → 2026-11-17 76（+1）
+2026-10-18 75 → 2026-11-18 77（+2）
 
 
 ---

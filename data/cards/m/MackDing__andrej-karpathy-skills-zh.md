@@ -1,6 +1,6 @@
 # MackDing/andrej-karpathy-skills-zh
 
-⭐ 32 · 推送 2026-05-21 · [GitHub](https://github.com/MackDing/andrej-karpathy-skills-zh) · 个人维护 · 中文 README
+⭐ 33 · 推送 2026-05-21 · [GitHub](https://github.com/MackDing/andrej-karpathy-skills-zh) · 个人维护 · 中文 README
 
 **Karpathy 编码准则中文版：AI 编程助手的规则模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MackDing/andrej-karpathy-skills-zh 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 25 --> 33
-    line [26, 28, 29, 30, 28, 32, 32]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 25 --> 34
+    line [26, 28, 29, 30, 28, 32, 33]
 ```
 
-2026-10-18 26 → 2026-11-17 32（+6）
+2026-10-18 26 → 2026-11-18 33（+7）
 
 
 ---

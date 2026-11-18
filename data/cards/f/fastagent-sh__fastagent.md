@@ -1,6 +1,6 @@
 # fastagent-sh/fastagent
 
-⭐ 67 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fastagent-sh/fastagent) · [官网](https://fastagent.sh) · 组织维护 · 中文 README
+⭐ 67 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fastagent-sh/fastagent) · [官网](https://fastagent.sh) · 组织维护 · 中文 README
 
 **把本地 agent 目录变成线上服务的 TypeScript 运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fastagent-sh/fastagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-14", "2026-11-18"]
     y-axis "stars" 64 --> 68
     line [65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-11-17 67（+2）
+2026-10-18 65 → 2026-11-18 67（+2）
 
 
 ---

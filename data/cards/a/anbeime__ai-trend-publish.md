@@ -1,6 +1,6 @@
 # anbeime/ai-trend-publish
 
-⭐ 26 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/anbeime/ai-trend-publish) · [官网](https://ai-trend-publish.vercel.app) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/anbeime/ai-trend-publish) · [官网](https://ai-trend-publish.vercel.app) · 个人维护 · 中文 README
 
 **AI 内容创作全栈平台：热点采集、AI 生成、多平台自动发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anbeime/ai-trend-publish 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 24 --> 27
     line [25, 26, 25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-11-17 26（+1）
+2026-10-18 25 → 2026-11-18 26（+1）
 
 
 ---

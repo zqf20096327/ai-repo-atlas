@@ -1,6 +1,6 @@
 # ocedev112/Neural_Network_from_scratch_numpy
 
-⭐ 24 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ocedev112/Neural_Network_from_scratch_numpy) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ocedev112/Neural_Network_from_scratch_numpy) · 个人维护
 
 **纯 NumPy 实现的轻量级神经网络构建与训练库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ocedev112/Neural_Network_from_scratch_numpy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
     y-axis "stars" 19 --> 26
-    line [20, 21, 20, 22, 25, 24, 24]
+    line [20, 21, 20, 22, 25, 24, 25]
 ```
 
-2026-10-18 20 → 2026-11-17 24（+4）
+2026-10-18 20 → 2026-11-18 25（+5）
 
 
 ---

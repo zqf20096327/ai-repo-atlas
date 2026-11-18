@@ -45,12 +45,12 @@ Streamlit 网页应用：粘贴 YouTube 链接后抓取视频字幕（含自动�
 ```mermaid
 xychart-beta
     title "AbdulRehman393/youtube-qa-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-11-17 19（+0）
+2026-10-18 19 → 2026-11-18 19（+0）
 
 
 ---

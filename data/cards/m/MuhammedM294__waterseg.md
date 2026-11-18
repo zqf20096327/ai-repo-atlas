@@ -1,6 +1,6 @@
 # MuhammedM294/waterseg
 
-⭐ 13 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/MuhammedM294/waterseg) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MuhammedM294/waterseg) · 个人维护
 
 **用 U-Net 从 Sentinel-1 SAR 影像分割埃及 Toushka 湖水体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MuhammedM294/waterseg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

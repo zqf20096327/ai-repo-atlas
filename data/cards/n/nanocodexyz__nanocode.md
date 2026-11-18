@@ -1,6 +1,6 @@
 # nanocodexyz/nanocode
 
-⭐ 727 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/nanocodexyz/nanocode) · [官网](https://nanocode.xyz) · 组织维护
+⭐ 728 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nanocodexyz/nanocode) · [官网](https://nanocode.xyz) · 组织维护
 
 **Rust 编写的嵌入式 agent SDK，统一运行 Codex 与 Claude 工具链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nanocodexyz/nanocode 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 690 --> 730
-    line [693, 710, 716, 717, 719, 723, 727, 727]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 690 --> 731
+    line [693, 710, 716, 717, 719, 723, 727, 728]
 ```
 
-2026-11-10 693 → 2026-11-17 727（+34）
+2026-11-10 693 → 2026-11-18 728（+35）
 
 
 ---

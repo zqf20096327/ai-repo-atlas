@@ -1,6 +1,6 @@
 # prooflinedev/yek
 
-⭐ 2,477 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/prooflinedev/yek) · 组织维护
+⭐ 2,478 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/yek) · 组织维护
 
 **把仓库文本文件序列化为单文件供 LLM 使用的 CLI 工具**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行工具，将目录或仓库中的文本文件合并序列
 ```mermaid
 xychart-beta
     title "prooflinedev/yek 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 2475 --> 2478
-    line [2476, 2477, 2477]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 2475 --> 2479
+    line [2476, 2477, 2478]
 ```
 
-2026-11-15 2,476 → 2026-11-17 2,477（+1）
+2026-11-15 2,476 → 2026-11-18 2,478（+2）
 
 
 ---

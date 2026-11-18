@@ -1,6 +1,6 @@
 # senjinthedragon/Smart-Memory
 
-⭐ 76 · JavaScript · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/senjinthedragon/Smart-Memory) · [官网](https://smartmemory.hatchling.org/) · 个人维护
+⭐ 77 · JavaScript · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/senjinthedragon/Smart-Memory) · [官网](https://smartmemory.hatchling.org/) · 个人维护
 
 **给 SillyTavern AI 角色扮演提供多层记忆与叙事上下文的扩展**
 
@@ -46,12 +46,12 @@ SillyTavern 扩展，在聊天后台自动运行，维护多层记忆体系：�
 ```mermaid
 xychart-beta
     title "senjinthedragon/Smart-Memory 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 64 --> 77
-    line [65, 67, 68, 70, 69, 70, 71, 68, 73, 74, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 64 --> 78
+    line [65, 67, 68, 70, 69, 70, 71, 68, 73, 74, 75, 76, 77]
 ```
 
-2026-10-18 65 → 2026-11-17 76（+11）
+2026-10-18 65 → 2026-11-18 77（+12）
 
 
 ---

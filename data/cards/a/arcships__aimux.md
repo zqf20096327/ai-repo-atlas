@@ -1,6 +1,6 @@
 # arcships/aimux
 
-⭐ 243 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/arcships/aimux) · 组织维护 · 中文 README
+⭐ 243 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/arcships/aimux) · 组织维护 · 中文 README
 
 **Rust 统一 LLM 接入层：一套 API 访问 327 家服务商**
 
@@ -45,12 +45,12 @@ Rust 实现的统一 LLM 服务商接入层：将各家 HTTP API 归并为单一
 ```mermaid
 xychart-beta
     title "arcships/aimux 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 199 --> 247
     line [203, 204, 205, 204, 243, 243]
 ```
 
-2026-10-18 203 → 2026-11-17 243（+40）
+2026-10-18 203 → 2026-11-18 243（+40）
 
 
 ---

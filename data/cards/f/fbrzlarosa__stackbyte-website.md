@@ -1,6 +1,6 @@
 # fbrzlarosa/stackbyte-website
 
-⭐ 11 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/fbrzlarosa/stackbyte-website) · [官网](https://stackbyte.dev) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/fbrzlarosa/stackbyte-website) · [官网](https://stackbyte.dev) · 个人维护
 
 **个人作品集网站：Next.js+GSAP，全流程 AI 辅助开发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fbrzlarosa/stackbyte-website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

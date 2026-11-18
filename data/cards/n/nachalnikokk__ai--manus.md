@@ -1,10 +1,10 @@
 # nachalnikokk/ai--manus
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nachalnikokk/ai--manus) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nachalnikokk/ai--manus) · 个人维护
 
-**面向个人用户的自主 AI Agent：代跑代码与操控浏览器**
+**面向个人日常任务的自主 AI Agent，可执行代码并控制浏览器**
 
-README 描述的 Manus 是自主执行型 AI 助手：接收自然语言指令后代写并执行脚本、操控浏览器（导航网页、填表、采集信息），可跨会话复用任务模式，定位为家庭、学习与轻量办公场景的后台助手，面向非开发者。README 给出兼容性表（4GB 内存起步、推荐 8GB）与上手步骤，但未提供任何安装命令、下载链接有效性或代码结构说明，仓库实际实现情况无法从 README 验证。
+README 以营销文案形式描述一款名为 Manus 的自主 AI Agent：按用户指令自行编写并执行脚本、控制浏览器（导航网页、填写表单、抓取信息）、完成多步任务，定位为家庭、学习与轻度办公场景的后台个人助手，非企业级平台。给出系统兼容性表（最低 4GB 内存、双核 CPU）与六步上手流程。但 README 未提供任何安装命令、源码结构或技术实现细节，仅以『Download Manus』指下载，可验证事实有限。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@ README 描述的 Manus 是自主执行型 AI 助手：接收自然语言指令�
 
 ## 能力要点
 
-- 自主执行代码与脚本运行
-- 浏览器控制：导航、填表、信息采集
-- 跨会话记忆并复用任务工作流
-- 代码与浏览器动作可在同一任务流中衔接
+- 自主执行代码与控制浏览器（导航、填表、信息采集）
+- 支持脚本与浏览器操作衔接的多步任务
+- 声明跨会话记住并复用工作流模式
+- 给出最低/推荐硬件配置表
 
 ## 适用场景
 
-- 让 AI 代为完成重复性的网页查资料与填表工作
-- 学习或家庭项目中自动整理资料、跑小脚本
-- 多步骤日常小任务的后台委派
+- 让学生整理研究笔记、运行小脚本
+- 让远程工作者从多个网页汇总信息
+- 把重复性的小型日常任务交给后台助手处理
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` · 领域:效率与自动化
+`AI 助手` `浏览器自动化` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
-> L22: Manus is not a heavy studio suite or a complex enterprise platform. It is a focused helper built for home, study, a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "nachalnikokk/ai--manus 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-17 202（+56）
+2026-11-13 146 → 2026-11-18 202（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 low · 依据 README sha `fbfd5e977bf4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 low · 依据 README sha `32e48e22fb91` · [字段定义](../../DATASET.md)*

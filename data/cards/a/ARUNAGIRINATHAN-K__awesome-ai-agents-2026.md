@@ -1,6 +1,6 @@
 # ARUNAGIRINATHAN-K/awesome-ai-agents-2026
 
-⭐ 358 · TypeScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 框架与工具的策展清单，附带可搜索 Web 注册表**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # geovanneb/get-things-done
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/geovanneb/get-things-done) · [官网](https://www.npmjs.com/package/@bertonha/getthingsdone) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/geovanneb/get-things-done) · [官网](https://www.npmjs.com/package/@bertonha/getthingsdone) · 个人维护
 
 **面向高管的本地 GTD 工作区：Markdown 文件加看板供 AI 代理读写**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geovanneb/get-things-done 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 2 --> 17
-    line [3, 7, 8, 11, 12, 15, 16, 16]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 2 --> 20
+    line [3, 7, 8, 11, 12, 15, 16, 19]
 ```
 
-2026-10-22 3 → 2026-11-17 16（+13）
+2026-10-22 3 → 2026-11-18 19（+16）
 
 
 ---

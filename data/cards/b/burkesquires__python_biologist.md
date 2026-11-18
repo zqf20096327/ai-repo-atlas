@@ -1,6 +1,6 @@
 # burkesquires/python_biologist
 
-⭐ 157 · Gnuplot · 推送 2026-02-05 · [GitHub](https://github.com/burkesquires/python_biologist) · 个人维护
+⭐ 158 · Gnuplot · 推送 2026-02-05 · [GitHub](https://github.com/burkesquires/python_biologist) · 个人维护
 
 **面向生物学家的 Python 教学材料集：Jupyter 笔记本与讲义**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "burkesquires/python_biologist 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-12", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 155 --> 158
-    line [156, 157, 156, 157, 157]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-12", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 155 --> 159
+    line [156, 157, 156, 157, 158]
 ```
 
-2026-10-18 156 → 2026-11-17 157（+1）
+2026-10-18 156 → 2026-11-18 158（+2）
 
 
 ---

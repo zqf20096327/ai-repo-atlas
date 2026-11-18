@@ -1,6 +1,6 @@
 # Pedal-Intelligence/saypi-userscript
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/Pedal-Intelligence/saypi-userscript) · [官网](https://www.saypi.ai/) · 组织维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/Pedal-Intelligence/saypi-userscript) · [官网](https://www.saypi.ai/) · 组织维护
 
 **为 Pi/Claude/ChatGPT 添加多语言语音交互的浏览器扩展**
 
@@ -45,12 +45,12 @@ Say, Pi 是一款面向最终用户的浏览器扩展，为 Pi.ai、Claude.ai �
 ```mermaid
 xychart-beta
     title "Pedal-Intelligence/saypi-userscript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ascend/pytorch
 
-⭐ 608 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Ascend/pytorch) · [官网](https://www.hiascend.com/eng/developer/software/ai-frameworks/pytorch) · 组织维护 · 中文 README
+⭐ 608 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Ascend/pytorch) · [官网](https://www.hiascend.com/eng/developer/software/ai-frameworks/pytorch) · 组织维护 · 中文 README
 
 **让 PyTorch 直接调用昇腾 NPU 的适配插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ascend/pytorch 星数(近 13 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18"]
     y-axis "stars" 585 --> 610
     line [587, 589, 591, 592, 593, 594, 597, 598, 591, 604, 607, 608, 608]
 ```
 
-2026-10-18 587 → 2026-11-17 608（+21）
+2026-10-18 587 → 2026-11-18 608（+21）
 
 
 ---

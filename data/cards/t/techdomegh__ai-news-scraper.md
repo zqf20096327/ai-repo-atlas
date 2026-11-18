@@ -46,12 +46,12 @@ Python 应用：用 Beautiful Soup 与 Requests 抓取新闻文章的标题、�
 ```mermaid
 xychart-beta
     title "techdomegh/ai-news-scraper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-12", "2026-11-18"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-17 15（+1）
+2026-10-18 14 → 2026-11-18 15（+1）
 
 
 ---

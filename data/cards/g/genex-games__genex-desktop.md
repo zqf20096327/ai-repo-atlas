@@ -1,6 +1,6 @@
 # genex-games/genex-desktop
 
-⭐ 876 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/genex-games/genex-desktop) · [官网](https://genex.games/desktop) · 组织维护
+⭐ 878 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/genex-games/genex-desktop) · [官网](https://genex.games/desktop) · 组织维护
 
 **AI 游戏开发桌面应用：用 agent 搭建引擎、构建并试玩游戏**
 
@@ -45,12 +45,12 @@ Genex 是面向游戏开发者的桌面应用：用户通过对话让 agent 在 
 ```mermaid
 xychart-beta
     title "genex-games/genex-desktop 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 805 --> 882
-    line [811, 832, 837, 842, 861, 872, 874, 876, 876]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 805 --> 884
+    line [811, 832, 837, 842, 861, 872, 874, 876, 878]
 ```
 
-2026-11-08 811 → 2026-11-17 876（+65）
+2026-11-08 811 → 2026-11-18 878（+67）
 
 
 ---

@@ -1,6 +1,6 @@
 # Shangjin-Xiao/ThoughtEcho
 
-⭐ 51 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Shangjin-Xiao/ThoughtEcho) · [官网](https://note.shangjinyun.cn) · 个人维护 · 中文 README
+⭐ 51 · Dart · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Shangjin-Xiao/ThoughtEcho) · [官网](https://note.shangjinyun.cn) · 个人维护 · 中文 README
 
 **本地优先的跨平台 AI 灵感笔记与摘录应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Shangjin-Xiao/ThoughtEcho 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
     y-axis "stars" 47 --> 52
     line [48, 49, 51, 51]
 ```
 
-2026-10-18 48 → 2026-11-17 51（+3）
+2026-10-18 48 → 2026-11-18 51（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeVenLucaz/llamdrop
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/DeVenLucaz/llamdrop) · [官网](https://devenlucaz.github.io/DevLuz/llamdrop/) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/DeVenLucaz/llamdrop) · [官网](https://devenlucaz.github.io/DevLuz/llamdrop/) · 个人维护
 
 **让低端 Android/Linux 设备一键运行本地 LLM 的工具**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "DeVenLucaz/llamdrop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-18 12 → 2026-11-17 13（+1）
+2026-10-18 12 → 2026-11-18 14（+2）
 
 
 ---

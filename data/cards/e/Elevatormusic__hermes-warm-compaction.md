@@ -1,6 +1,6 @@
 # Elevatormusic/hermes-warm-compaction
 
-⭐ 75 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Elevatormusic/hermes-warm-compaction) · 个人维护
+⭐ 75 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Elevatormusic/hermes-warm-compaction) · 个人维护
 
 **Hermes Agent 的上下文压缩插件：利用前缀缓存加速压缩**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Elevatormusic/hermes-warm-compaction 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18"]
     y-axis "stars" 45 --> 77
     line [47, 50, 63, 65, 67, 68, 69, 65, 73, 74, 75, 75]
 ```
 
-2026-10-18 47 → 2026-11-17 75（+28）
+2026-10-18 47 → 2026-11-18 75（+28）
 
 
 ---

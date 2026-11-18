@@ -1,6 +1,6 @@
 # fadersketch/Promaid-mod
 
-⭐ 32 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fadersketch/Promaid-mod) · 个人维护 · 中文 README
+⭐ 33 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fadersketch/Promaid-mod) · 个人维护 · 中文 README
 
 **车万女仆扩展模组：战斗/生产调度加可选 LLM 对话与记忆**
 
@@ -46,12 +46,12 @@ Minecraft 1.20.1 Forge / 1.21.1 NeoForge 模组，为《车万女仆》TLM 增�
 ```mermaid
 xychart-beta
     title "fadersketch/Promaid-mod 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 30, 32, 32]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 30, 32, 33]
 ```
 
-2026-10-18 30 → 2026-11-17 32（+2）
+2026-10-18 30 → 2026-11-18 33（+3）
 
 
 ---

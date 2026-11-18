@@ -1,6 +1,6 @@
 # OpenDataBox/awesome-data-llm
 
-⭐ 834 · 推送 2026-10-25 · [GitHub](https://github.com/OpenDataBox/awesome-data-llm) · [官网](https://arxiv.org/pdf/2505.18458) · 组织维护 · 中文 README
+⭐ 835 · 推送 2026-10-25 · [GitHub](https://github.com/OpenDataBox/awesome-data-llm) · [官网](https://arxiv.org/pdf/2505.18458) · 组织维护 · 中文 README
 
 **LLM × DATA 综述论文的论文与项目收录清单**
 
@@ -46,12 +46,12 @@ survey 论文 "A Survey of LLM × DATA" 的官方仓库，按论文结构收录�
 ```mermaid
 xychart-beta
     title "OpenDataBox/awesome-data-llm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 832 --> 836
-    line [833, 835, 833, 834, 834]
+    line [833, 835, 833, 834, 835]
 ```
 
-2026-10-18 833 → 2026-11-17 834（+1）
+2026-10-18 833 → 2026-11-18 835（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # e2b-dev/code-interpreter
 
-⭐ 2,428 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
+⭐ 2,429 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
 
 **在云端安全沙箱中运行 AI 生成代码的 Python/JS SDK**
 
@@ -45,12 +45,12 @@ E2B 提供的开源基础设施 SDK：通过 JavaScript/TypeScript 与 Python �
 ```mermaid
 xychart-beta
     title "e2b-dev/code-interpreter 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 2418 --> 2429
-    line [2419, 2420, 2421, 2420, 2421, 2420, 2421, 2422, 2423, 2420, 2428, 2427, 2428, 2428]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 2418 --> 2430
+    line [2419, 2420, 2421, 2420, 2421, 2420, 2421, 2422, 2423, 2420, 2428, 2427, 2428, 2429]
 ```
 
-2026-10-18 2,419 → 2026-11-17 2,428（+9）
+2026-10-18 2,419 → 2026-11-18 2,429（+10）
 
 
 ---

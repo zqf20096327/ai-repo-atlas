@@ -1,6 +1,6 @@
 # zebbern/knowledge-assistant
 
-⭐ 12 · TypeScript · 推送 2026-01-20 · [GitHub](https://github.com/zebbern/knowledge-assistant) · [官网](https://tryassistant.vercel.app/) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-01-20 · [GitHub](https://github.com/zebbern/knowledge-assistant) · [官网](https://tryassistant.vercel.app/) · 个人维护
 
 **基于本地 Markdown 文件问答的轻量聊天 agent，无需向量库**
 
@@ -46,12 +46,12 @@ Next.js 实现的文件知识库聊天应用：将 .md/.txt 文件放入 content
 ```mermaid
 xychart-beta
     title "zebbern/knowledge-assistant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 13（+2）
 
 
 ---

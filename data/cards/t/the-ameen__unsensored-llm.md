@@ -1,6 +1,6 @@
 # the-ameen/unsensored-llm
 
-⭐ 15 · HTML · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/the-ameen/unsensored-llm) · 个人维护
+⭐ 16 · HTML · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/the-ameen/unsensored-llm) · 个人维护
 
 **便携式本地 LLM 聊天环境：免安装、离线运行于硬盘或 U 盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "the-ameen/unsensored-llm 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 9 --> 16
-    line [10, 12, 10, 14, 15, 15]
+    x-axis ["2026-10-19", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 9 --> 17
+    line [10, 12, 10, 14, 15, 16]
 ```
 
-2026-10-19 10 → 2026-11-17 15（+5）
+2026-10-19 10 → 2026-11-18 16（+6）
 
 
 ---

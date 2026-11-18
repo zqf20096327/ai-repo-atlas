@@ -1,6 +1,6 @@
 # Daniele-Cangi/Derivative
 
-⭐ 17 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Daniele-Cangi/Derivative) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Daniele-Cangi/Derivative) · 个人维护
 
 **从自然语言需求生成 Python 软件并独立验证后打包的工具**
 
@@ -46,12 +46,12 @@ Derivative（底层推理基座）与 Forge（软件构建流水线）两层组�
 ```mermaid
 xychart-beta
     title "Daniele-Cangi/Derivative 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 12 --> 18
-    line [13, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 12 --> 19
+    line [13, 16, 17, 18]
 ```
 
-2026-10-18 13 → 2026-11-17 17（+4）
+2026-10-18 13 → 2026-11-18 18（+5）
 
 
 ---

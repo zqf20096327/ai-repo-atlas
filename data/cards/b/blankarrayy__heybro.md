@@ -46,12 +46,12 @@ Flutter + Kotlin 构建的 Android 应用：在设备端通过 Google Gemini 理
 ```mermaid
 xychart-beta
     title "blankarrayy/heybro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-11-17 36（+0）
+2026-10-18 36 → 2026-11-18 36（+0）
 
 
 ---

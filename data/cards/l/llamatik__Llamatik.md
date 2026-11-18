@@ -1,6 +1,6 @@
 # llamatik/Llamatik
 
-⭐ 220 · Kotlin · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/llamatik/Llamatik) · [官网](https://www.llamatik.com) · 组织维护
+⭐ 221 · Kotlin · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/llamatik/Llamatik) · [官网](https://www.llamatik.com) · 组织维护
 
 **Kotlin 跨平台端侧 AI SDK：LLM/语音/图像生成与 Agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "llamatik/Llamatik 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 206 --> 221
-    line [207, 208, 207, 216, 218, 220, 219, 220, 220]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 206 --> 222
+    line [207, 208, 207, 216, 218, 220, 219, 220, 221]
 ```
 
-2026-10-24 207 → 2026-11-17 220（+13）
+2026-10-24 207 → 2026-11-18 221（+14）
 
 
 ---

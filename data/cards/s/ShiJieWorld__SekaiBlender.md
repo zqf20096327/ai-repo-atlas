@@ -1,6 +1,6 @@
 # ShiJieWorld/SekaiBlender
 
-⭐ 21 · C++ · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ShiJieWorld/SekaiBlender) · [官网](https://space.bilibili.com/3707009566247512) · 个人维护 · 中文 README
+⭐ 23 · C++ · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ShiJieWorld/SekaiBlender) · [官网](https://space.bilibili.com/3707009566247512) · 个人维护 · 中文 README
 
 **面向 MMD 创作者的 Blender 源码级分支，原生 PMX/VMD 导入导出**
 
@@ -45,12 +45,12 @@ SekaiBlender 是 Blender 的 GPL-2.0+ 源码分支，以独立 Windows x64 应�
 ```mermaid
 xychart-beta
     title "ShiJieWorld/SekaiBlender 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 16 --> 22
-    line [17, 18, 19, 21, 18, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 19, 21, 18, 21, 23]
 ```
 
-2026-10-18 17 → 2026-11-17 21（+4）
+2026-10-18 17 → 2026-11-18 23（+6）
 
 
 ---

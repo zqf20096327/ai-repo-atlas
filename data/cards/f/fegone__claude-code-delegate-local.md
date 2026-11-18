@@ -1,6 +1,6 @@
 # fegone/claude-code-delegate-local
 
-⭐ 19 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/fegone/claude-code-delegate-local) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fegone/claude-code-delegate-local) · 个人维护
 
 **将 Claude Code 子代理委派给本地/第三方模型后端的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fegone/claude-code-delegate-local 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 14 --> 20
     line [15, 16, 17, 18, 17, 19, 19]
 ```
 
-2026-10-18 15 → 2026-11-17 19（+4）
+2026-10-18 15 → 2026-11-18 19（+4）
 
 
 ---

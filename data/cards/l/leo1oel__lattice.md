@@ -1,6 +1,6 @@
 # leo1oel/lattice
 
-⭐ 533 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/leo1oel/lattice) · [官网](https://leo1oel.github.io/lattice/) · 个人维护 · 中文 README
+⭐ 539 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/leo1oel/lattice) · [官网](https://leo1oel.github.io/lattice/) · 个人维护 · 中文 README
 
 **macOS 本地优先的 LaTeX 写作应用，集成 AI agent 与 Overleaf 同步**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leo1oel/lattice 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 332 --> 551
-    line [350, 420, 462, 485, 499, 511, 517, 533, 533]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 332 --> 557
+    line [350, 420, 462, 485, 499, 511, 517, 533, 539]
 ```
 
-2026-11-08 350 → 2026-11-17 533（+183）
+2026-11-08 350 → 2026-11-18 539（+189）
 
 
 ---

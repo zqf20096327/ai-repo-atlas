@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-playground
 
-⭐ 146 · Java · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/spring-ai-community/spring-ai-playground) · [官网](https://spring-ai-community.github.io/spring-ai-playground/) · 组织维护
+⭐ 147 · Java · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/spring-ai-community/spring-ai-playground) · [官网](https://spring-ai-community.github.io/spring-ai-playground/) · 组织维护
 
 **跨平台桌面应用：构建、验证并安全运行 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spring-ai-community/spring-ai-playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 144 --> 147
-    line [145, 146, 146]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 144 --> 148
+    line [145, 146, 147]
 ```
 
-2026-10-18 145 → 2026-11-17 146（+1）
+2026-10-18 145 → 2026-11-18 147（+2）
 
 
 ---

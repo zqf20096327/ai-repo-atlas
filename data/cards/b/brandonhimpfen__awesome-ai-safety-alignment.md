@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-safety-alignment
 
-⭐ 16 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-safety-alignment) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 安全与对齐研究资源的策展清单，面向研究者与从业者**
 

@@ -1,6 +1,6 @@
 # ThalesGroup/scio
 
-⭐ 25 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ThalesGroup/scio) · [官网](https://scio-docs.readthedocs.io) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ThalesGroup/scio) · [官网](https://scio-docs.readthedocs.io) · 组织维护
 
 **为神经网络提供置信度评估的 Python 库**
 
@@ -45,12 +45,12 @@ Thales 维护的 Python 库，面向需要为神经网络输出置信度分数�
 ```mermaid
 xychart-beta
     title "ThalesGroup/scio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-17 25（+0）
+2026-10-18 25 → 2026-11-18 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kronotop/kronotop
 
-⭐ 314 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/kronotop/kronotop) · [官网](https://kronotop.com) · 组织维护
+⭐ 314 · Java · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kronotop/kronotop) · [官网](https://kronotop.com) · 组织维护
 
 **基于 FoundationDB 的分布式事务文档数据库，支持向量检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kronotop/kronotop 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-17"]
+    x-axis ["2026-11-12", "2026-11-18"]
     y-axis "stars" 313 --> 315
     line [314, 314]
 ```
 
-2026-11-12 314 → 2026-11-17 314（+0）
+2026-11-12 314 → 2026-11-18 314（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # scicloj/metamorph.ml
 
-⭐ 32 · Clojure · EPL-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/scicloj/metamorph.ml) · 组织维护
+⭐ 33 · Clojure · EPL-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/scicloj/metamorph.ml) · 组织维护
 
 **Clojure 机器学习库：统一数据预处理与模型超参调优**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "scicloj/metamorph.ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-11-17 32（+0）
+2026-10-18 32 → 2026-11-18 33（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Python 库与 CLI，将 PDF、Word、PowerPoint 文档经 Bronze→Silver→Gold
 ```mermaid
 xychart-beta
     title "agentii-ai/DocMeld 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 100 --> 103
     line [102, 101, 101]
 ```
 
-2026-10-18 102 → 2026-11-17 101（-1）
+2026-10-18 102 → 2026-11-18 101（-1）
 
 
 ---

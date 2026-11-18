@@ -1,6 +1,6 @@
 # theagentplane/tokenops
 
-⭐ 84 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/theagentplane/tokenops) · [官网](https://theagentplane.github.io) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/theagentplane/tokenops) · [官网](https://theagentplane.github.io) · 组织维护
 
 **面向多 agent 系统的运行级 token 预算治理库**
 
@@ -45,12 +45,12 @@ Python 库（PyPI 名 agent-tokenops）：为整个 agent 工作流设置单一�
 ```mermaid
 xychart-beta
     title "theagentplane/tokenops 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 82 --> 86
     line [83, 84, 85, 83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-11-17 84（+1）
+2026-10-18 83 → 2026-11-18 84（+1）
 
 
 ---

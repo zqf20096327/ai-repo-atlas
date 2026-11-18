@@ -1,6 +1,6 @@
 # MinLL/SkyrimNet-GamePlugin
 
-⭐ 382 · Papyrus · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/MinLL/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
+⭐ 382 · Papyrus · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/MinLL/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
 
 **为 Skyrim 全体 NPC 提供 AI 对话、记忆与实时语音的游戏模组**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MinLL/SkyrimNet-GamePlugin 星数(近 8 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18"]
     y-axis "stars" 363 --> 383
     line [364, 365, 374, 377, 378, 380, 382, 382]
 ```
 
-2026-11-01 364 → 2026-11-17 382（+18）
+2026-11-01 364 → 2026-11-18 382（+18）
 
 
 ---

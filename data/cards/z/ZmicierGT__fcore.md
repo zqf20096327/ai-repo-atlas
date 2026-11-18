@@ -1,6 +1,6 @@
 # ZmicierGT/fcore
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ZmicierGT/fcore) · 个人维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ZmicierGT/fcore) · 个人维护
 
 **面向金融市场的分析框架：数据获取、AI 策略、回测与选股**
 
@@ -46,12 +46,12 @@ Python 金融分析框架，提供数据获取与数据库缓存（Yahoo Finance
 ```mermaid
 xychart-beta
     title "ZmicierGT/fcore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-11-17 27（+1）
+2026-10-18 26 → 2026-11-18 28（+2）
 
 
 ---

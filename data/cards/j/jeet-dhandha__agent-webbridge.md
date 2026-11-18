@@ -1,6 +1,6 @@
 # jeet-dhandha/agent-webbridge
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jeet-dhandha/agent-webbridge) · [官网](https://jeet-dhandha.github.io/agent-webbridge/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jeet-dhandha/agent-webbridge) · [官网](https://jeet-dhandha.github.io/agent-webbridge/) · 个人维护
 
 **让 AI agent 驱动本机已登录 Chrome 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeet-dhandha/agent-webbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

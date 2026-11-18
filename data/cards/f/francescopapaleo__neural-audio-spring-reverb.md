@@ -1,6 +1,6 @@
 # francescopapaleo/neural-audio-spring-reverb
 
-⭐ 66 · Python · AGPL-3.0 · 推送 2026-06-12 · [GitHub](https://github.com/francescopapaleo/neural-audio-spring-reverb) · [官网](https://francescopapaleo.github.io/neural-audio-spring-reverb/) · 个人维护
+⭐ 67 · Python · AGPL-3.0 · 推送 2026-06-12 · [GitHub](https://github.com/francescopapaleo/neural-audio-spring-reverb) · [官网](https://francescopapaleo.github.io/neural-audio-spring-reverb/) · 个人维护
 
 **用深度神经网络建模弹簧混响的音频效果研究代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "francescopapaleo/neural-audio-spring-reverb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-18", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67]
 ```
 
-2026-10-18 65 → 2026-11-17 66（+1）
+2026-10-18 65 → 2026-11-18 67（+2）
 
 
 ---

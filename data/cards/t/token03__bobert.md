@@ -1,6 +1,6 @@
 # token03/bobert
 
-⭐ 15 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/token03/bobert) · [官网](https://bobert-web.pages.dev/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/token03/bobert) · [官网](https://bobert-web.pages.dev/) · 个人维护
 
 **将 osu! 谱面编码为向量的 Transformer 模型，用于相似检索与推荐**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "token03/bobert 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 12, 15, 15]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 12, 15, 16]
 ```
 
-2026-10-18 12 → 2026-11-17 15（+3）
+2026-10-18 12 → 2026-11-18 16（+4）
 
 
 ---

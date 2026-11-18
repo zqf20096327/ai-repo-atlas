@@ -1,6 +1,6 @@
 # ysskrishna/ai-ppt-slide-generator
 
-⭐ 20 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/ysskrishna/ai-ppt-slide-generator) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ysskrishna/ai-ppt-slide-generator) · 个人维护
 
 **用 Google Gemini 生成 PPTX 演示文稿的 FastAPI 后端服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ysskrishna/ai-ppt-slide-generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-18"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-11-17 20（+1）
+2026-10-18 19 → 2026-11-18 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # daniel-c-silva/Clanka
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/daniel-c-silva/Clanka) · [官网](https://clanka-eight.vercel.app) · 个人维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/daniel-c-silva/Clanka) · [官网](https://clanka-eight.vercel.app) · 个人维护
 
 **语音控制的桌面 AI 机器人（Mistral 驱动，含情感表达）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daniel-c-silva/Clanka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

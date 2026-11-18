@@ -1,6 +1,6 @@
 # langfuse/langfuse-terraform-azure
 
-⭐ 38 · HCL · MIT · 推送 2026-11-16 · [GitHub](https://github.com/langfuse/langfuse-terraform-azure) · 组织维护
+⭐ 38 · HCL · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langfuse/langfuse-terraform-azure) · 组织维护
 
 **在 Azure 上部署 Langfuse 的 Terraform 模块**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-terraform-azure 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 35 --> 39
     line [36, 37, 36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-11-17 38（+2）
+2026-10-18 36 → 2026-11-18 38（+2）
 
 
 ---

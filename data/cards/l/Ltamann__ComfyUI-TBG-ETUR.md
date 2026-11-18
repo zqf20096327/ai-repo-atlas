@@ -1,6 +1,6 @@
 # Ltamann/ComfyUI-TBG-ETUR
 
-⭐ 161 · Python · 推送 2026-09-11 · [GitHub](https://github.com/Ltamann/ComfyUI-TBG-ETUR) · [官网](https://www.patreon.com/c/TB_LAAR) · 组织维护
+⭐ 162 · Python · 推送 2026-09-11 · [GitHub](https://github.com/Ltamann/ComfyUI-TBG-ETUR) · [官网](https://www.patreon.com/c/TB_LAAR) · 组织维护
 
 **ComfyUI 平铺放大与精修节点集：面向 100MP+ 高分辨率生成**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点套件，提供平铺式图像放大与精修管线：双
 ```mermaid
 xychart-beta
     title "Ltamann/ComfyUI-TBG-ETUR 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 157 --> 162
-    line [158, 159, 160, 161, 161]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 157 --> 163
+    line [158, 159, 160, 161, 162]
 ```
 
-2026-10-18 158 → 2026-11-17 161（+3）
+2026-10-18 158 → 2026-11-18 162（+4）
 
 
 ---

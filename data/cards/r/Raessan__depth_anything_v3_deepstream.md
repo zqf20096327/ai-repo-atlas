@@ -1,6 +1,6 @@
 # Raessan/depth_anything_v3_deepstream
 
-⭐ 23 · C++ · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/Raessan/depth_anything_v3_deepstream) · 个人维护
+⭐ 24 · C++ · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/Raessan/depth_anything_v3_deepstream) · 个人维护
 
 **Depth Anything V3 单目深度估计的 DeepStream/TensorRT 实时推理管线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Raessan/depth_anything_v3_deepstream 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-11-17 23（+1）
+2026-10-18 22 → 2026-11-18 24（+2）
 
 
 ---

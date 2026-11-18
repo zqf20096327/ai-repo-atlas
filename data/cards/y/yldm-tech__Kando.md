@@ -1,6 +1,6 @@
 # yldm-tech/Kando
 
-⭐ 118 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yldm-tech/Kando) · [官网](https://kando.yldm.ai) · 个人维护 · 中文 README
+⭐ 120 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/yldm-tech/Kando) · [官网](https://kando.yldm.ai) · 个人维护 · 中文 README
 
 **用视频学外语的桌面应用：本地转录+逐句翻译双语字幕**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yldm-tech/Kando 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 116 --> 121
+    line [117, 118, 120]
 ```
 
-2026-11-10 117 → 2026-11-17 118（+1）
+2026-11-10 117 → 2026-11-18 120（+3）
 
 
 ---

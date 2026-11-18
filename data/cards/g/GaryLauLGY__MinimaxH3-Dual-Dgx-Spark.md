@@ -1,6 +1,6 @@
 # GaryLauLGY/MinimaxH3-Dual-Dgx-Spark
 
-⭐ 15 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/GaryLauLGY/MinimaxH3-Dual-Dgx-Spark) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/GaryLauLGY/MinimaxH3-Dual-Dgx-Spark) · 个人维护 · 中文 README
 
 **双 DGX Spark 分布式推理 H3 视频的实验运行器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GaryLauLGY/MinimaxH3-Dual-Dgx-Spark 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-17"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-11-18"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 15, 16]
 ```
 
-2026-10-18 12 → 2026-11-17 15（+3）
+2026-10-18 12 → 2026-11-18 16（+4）
 
 
 ---

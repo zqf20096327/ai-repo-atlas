@@ -46,12 +46,12 @@ DeepXube（Deep Cube）结合深度强化学习与启发式搜索求解寻路问
 ```mermaid
 xychart-beta
     title "forestagostinelli/deepxube 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-11-17 18（+0）
+2026-10-18 18 → 2026-11-18 18（+0）
 
 
 ---

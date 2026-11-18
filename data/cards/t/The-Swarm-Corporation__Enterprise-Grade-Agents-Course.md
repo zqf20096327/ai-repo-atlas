@@ -45,12 +45,12 @@ The-Swarm-Corporation 发布的 8 周（24 学时）课程，教授使用 Swarms
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/Enterprise-Grade-Agents-Course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-11-17 23（+1）
+2026-10-18 22 → 2026-11-18 23（+1）
 
 
 ---

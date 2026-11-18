@@ -1,6 +1,6 @@
 # Quantco/spox
 
-⭐ 101 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/Quantco/spox) · [官网](https://spox.readthedocs.io/en/latest/) · 组织维护
+⭐ 101 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/Quantco/spox) · [官网](https://spox.readthedocs.io/en/latest/) · 组织维护
 
 **用 Python 代码构建 ONNX 模型图的库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Quantco/spox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
     y-axis "stars" 100 --> 103
     line [101, 102, 101, 101]
 ```
 
-2026-10-18 101 → 2026-11-17 101（+0）
+2026-10-18 101 → 2026-11-18 101（+0）
 
 
 ---

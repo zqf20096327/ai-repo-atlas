@@ -1,6 +1,6 @@
 # JerryLiu369/agent-web-search
 
-⭐ 16 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/JerryLiu369/agent-web-search) · [官网](https://pypi.org/project/agent-web-search-mcp/) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/JerryLiu369/agent-web-search) · [官网](https://pypi.org/project/agent-web-search-mcp/) · 个人维护 · 中文 README
 
 **给 AI agent 的多源网页搜索工具：MCP/CLI/插件统一接入**
 
@@ -45,12 +45,12 @@ MIT 许可的网页搜索 MCP 服务器、CLI 与 Python 库（PyPI: agent-web-s
 ```mermaid
 xychart-beta
     title "JerryLiu369/agent-web-search 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 13, 11, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 13, 11, 15, 16, 17]
 ```
 
-2026-10-18 11 → 2026-11-17 16（+5）
+2026-10-18 11 → 2026-11-18 17（+6）
 
 
 ---

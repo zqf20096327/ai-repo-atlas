@@ -1,6 +1,6 @@
 # mitulgarg/env-doctor
 
-⭐ 173 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mitulgarg/env-doctor) · [官网](https://mitulgarg.github.io/env-doctor/) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mitulgarg/env-doctor) · [官网](https://mitulgarg.github.io/env-doctor/) · 个人维护
 
 **诊断并修复 CUDA/GPU 环境兼容性问题的 CLI 与 MCP 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mitulgarg/env-doctor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 171 --> 174
-    line [172, 173, 172, 173, 173]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 171 --> 175
+    line [172, 173, 172, 173, 174]
 ```
 
-2026-10-18 172 → 2026-11-17 173（+1）
+2026-10-18 172 → 2026-11-18 174（+2）
 
 
 ---

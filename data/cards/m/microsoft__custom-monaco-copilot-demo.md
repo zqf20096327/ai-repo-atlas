@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/custom-monaco-copilot-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-11-17 52（+0）
+2026-10-18 52 → 2026-11-18 52（+0）
 
 
 ---

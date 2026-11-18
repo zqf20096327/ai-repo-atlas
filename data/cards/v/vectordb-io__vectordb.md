@@ -1,6 +1,6 @@
 # vectordb-io/vectordb
 
-⭐ 48 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vectordb-io/vectordb) · [官网](https://vectordb.io/) · 组织维护
+⭐ 48 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vectordb-io/vectordb) · [官网](https://vectordb.io/) · 组织维护
 
 **Rust 编写的独立向量数据库，支持语义搜索与 RAG 存储**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vectordb-io/vectordb 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-17"]
+    x-axis ["2026-10-28", "2026-11-18"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-28 48 → 2026-11-17 48（+0）
+2026-10-28 48 → 2026-11-18 48（+0）
 
 
 ---

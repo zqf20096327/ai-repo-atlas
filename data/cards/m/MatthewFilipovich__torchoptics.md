@@ -1,6 +1,6 @@
 # MatthewFilipovich/torchoptics
 
-⭐ 181 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/MatthewFilipovich/torchoptics) · [官网](https://torchoptics.readthedocs.io) · 个人维护
+⭐ 182 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/MatthewFilipovich/torchoptics) · [官网](https://torchoptics.readthedocs.io) · 个人维护
 
 **基于 PyTorch 的可微傅里叶光学仿真库，供光学系统建模与优化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MatthewFilipovich/torchoptics 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 174 --> 182
-    line [175, 176, 179, 180, 181, 181]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 174 --> 183
+    line [175, 176, 179, 180, 181, 182]
 ```
 
-2026-10-18 175 → 2026-11-17 181（+6）
+2026-10-18 175 → 2026-11-18 182（+7）
 
 
 ---

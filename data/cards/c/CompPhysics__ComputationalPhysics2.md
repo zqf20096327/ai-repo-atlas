@@ -1,6 +1,6 @@
 # CompPhysics/ComputationalPhysics2
 
-⭐ 230 · CC0-1.0 · 推送 2026-05-07 · [GitHub](https://github.com/CompPhysics/ComputationalPhysics2) · [官网](http://compphysics.github.io/ComputationalPhysics2/doc/web/course) · 组织维护
+⭐ 231 · CC0-1.0 · 推送 2026-05-07 · [GitHub](https://github.com/CompPhysics/ComputationalPhysics2) · [官网](http://compphysics.github.io/ComputationalPhysics2/doc/web/course) · 组织维护
 
 **奥斯陆大学计算物理 II 课程资料库：多体量子力学讲义与项目**
 
@@ -44,12 +44,12 @@ University of Oslo 的 FYS4411/FYS9411 计算物理研究生课程仓库，收�
 ```mermaid
 xychart-beta
     title "CompPhysics/ComputationalPhysics2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 227 --> 231
-    line [228, 229, 230, 228, 230, 230]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 227 --> 232
+    line [228, 229, 230, 228, 230, 231]
 ```
 
-2026-10-18 228 → 2026-11-17 230（+2）
+2026-10-18 228 → 2026-11-18 231（+3）
 
 
 ---

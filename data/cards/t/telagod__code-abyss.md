@@ -1,6 +1,6 @@
 # telagod/code-abyss
 
-⭐ 244 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/telagod/code-abyss) · [官网](https://www.npmjs.com/package/code-abyss) · 个人维护 · 中文 README
+⭐ 243 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/telagod/code-abyss) · [官网](https://www.npmjs.com/package/code-abyss) · 个人维护 · 中文 README
 
 **给 AI 编程 agent 安装可组合人设、工程判断内核与技能的配置框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "telagod/code-abyss 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18"]
     y-axis "stars" 241 --> 246
-    line [244, 242, 244, 242, 245, 244, 244]
+    line [244, 242, 244, 242, 245, 244, 243]
 ```
 
-2026-10-18 244 → 2026-11-17 244（+0）
+2026-10-18 244 → 2026-11-18 243（-1）
 
 
 ---

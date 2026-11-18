@@ -1,6 +1,6 @@
 # OlimpiadaAI/II-OlimpiadaAI
 
-⭐ 61 · Jupyter Notebook · 推送 2026-02-18 · [GitHub](https://github.com/OlimpiadaAI/II-OlimpiadaAI) · [官网](https://oai.cs.uni.wroc.pl/edycje/ii-oai) · 组织维护
+⭐ 61 · Jupyter Notebook · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/OlimpiadaAI/II-OlimpiadaAI) · [官网](https://oai.cs.uni.wroc.pl/edycje/ii-oai) · 组织维护
 
 **波兰第二届 AI 奥林匹克竞赛官方题库仓库（面向中小学生）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "OlimpiadaAI/II-OlimpiadaAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-11-17 61（+0）
+2026-10-18 61 → 2026-11-18 61（+0）
 
 
 ---

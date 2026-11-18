@@ -1,6 +1,6 @@
 # bartczernicki/ArtificialIntelligence-Presentations
 
-⭐ 24 · MIT · 推送 2026-06-12 · [GitHub](https://github.com/bartczernicki/ArtificialIntelligence-Presentations) · 个人维护
+⭐ 24 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bartczernicki/ArtificialIntelligence-Presentations) · 个人维护
 
 **AI 与机器智能主题演讲幻灯片公开存档仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bartczernicki/ArtificialIntelligence-Presentations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 24（+0）
 
 
 ---

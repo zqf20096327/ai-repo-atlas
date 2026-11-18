@@ -1,6 +1,6 @@
 # zaina-ml/ml_forge
 
-⭐ 428 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zaina-ml/ml_forge) · 个人维护
+⭐ 429 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zaina-ml/ml_forge) · 个人维护
 
 **可视化节点编辑器：拖拽搭建并训练 PyTorch 图像分类模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zaina-ml/ml_forge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 425 --> 429
-    line [426, 427, 428, 428]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 425 --> 430
+    line [426, 427, 428, 429]
 ```
 
-2026-10-18 426 → 2026-11-17 428（+2）
+2026-10-18 426 → 2026-11-18 429（+3）
 
 
 ---

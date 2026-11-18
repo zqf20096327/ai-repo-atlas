@@ -1,6 +1,6 @@
 # shipfastlabs/bashbox
 
-⭐ 48 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shipfastlabs/bashbox) · 组织维护
+⭐ 49 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shipfastlabs/bashbox) · 组织维护
 
 **给 AI agent 用的沙箱化 bash 解释器（纯 PHP 实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shipfastlabs/bashbox 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 38 --> 49
-    line [39, 44, 45, 46, 45, 48, 48]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 38 --> 50
+    line [39, 44, 45, 46, 45, 48, 49]
 ```
 
-2026-10-18 39 → 2026-11-17 48（+9）
+2026-10-18 39 → 2026-11-18 49（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # Classevelabs/rai
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Classevelabs/rai) · [官网](https://classeve.com/public/rai) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Classevelabs/rai) · [官网](https://classeve.com/public/rai) · 组织维护
 
 **纯 Rust 的 CPU-only LLM 推理引擎，4-bit 量化，自带 HTTP/MCP 服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Classevelabs/rai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-18"]
     y-axis "stars" 12 --> 17
     line [13, 14, 16, 16]
 ```
 
-2026-10-18 13 → 2026-11-17 16（+3）
+2026-10-18 13 → 2026-11-18 16（+3）
 
 
 ---

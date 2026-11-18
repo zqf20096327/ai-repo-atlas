@@ -1,6 +1,6 @@
 # Zwony/ecotrace
 
-⭐ 38 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Zwony/ecotrace) · [官网](https://ecotracelibrary.com) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Zwony/ecotrace) · [官网](https://ecotracelibrary.com) · 个人维护
 
 **Python 应用与 AI/LLM 流水线的进程级能耗与碳排放测量库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Zwony/ecotrace 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 34 --> 39
-    line [35, 37, 38, 38]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 34 --> 41
+    line [35, 37, 38, 40]
 ```
 
-2026-10-28 35 → 2026-11-17 38（+3）
+2026-10-28 35 → 2026-11-18 40（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # kishormorol/ResearchScope
 
-⭐ 112 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kishormorol/ResearchScope) · [官网](https://kishormorol.github.io/ResearchScope/) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kishormorol/ResearchScope) · [官网](https://kishormorol.github.io/ResearchScope/) · 个人维护
 
 **CS/AI 论文研究情报平台：25万+论文评分排序与研究缺口发现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kishormorol/ResearchScope 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-11-13", "2026-11-18"]
     y-axis "stars" 110 --> 114
     line [112, 113, 112, 111, 112, 112]
 ```
 
-2026-10-18 112 → 2026-11-17 112（+0）
+2026-10-18 112 → 2026-11-18 112（+0）
 
 
 ---

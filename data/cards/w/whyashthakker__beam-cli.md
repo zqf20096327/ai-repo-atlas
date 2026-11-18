@@ -1,6 +1,6 @@
 # whyashthakker/beam-cli
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/whyashthakker/beam-cli) · [官网](https://www.agentbeam.com) · 组织维护
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/whyashthakker/beam-cli) · [官网](https://www.agentbeam.com) · 组织维护
 
 **本地 AI agent 安全与监控层：安装钩子捕获活动并执行策略**
 
@@ -47,12 +47,12 @@ AgentBeam 是面向 AI coding agent 的本地安全层 CLI（beam）。beam setu
 ```mermaid
 xychart-beta
     title "whyashthakker/beam-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-11-17 15（+1）
+2026-10-18 14 → 2026-11-18 15（+1）
 
 
 ---

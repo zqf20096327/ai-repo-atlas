@@ -1,6 +1,6 @@
 # Tom-Ryder/AgentRunKit
 
-⭐ 37 · Swift · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Tom-Ryder/AgentRunKit) · 个人维护
+⭐ 38 · Swift · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Tom-Ryder/AgentRunKit) · 个人维护
 
 **给 Swift 开发者的类型安全 LLM agent 构建 SDK**
 
@@ -45,12 +45,12 @@ Swift 6 SDK，用于构建带类型安全工具调用的 LLM agent：提供可�
 ```mermaid
 xychart-beta
     title "Tom-Ryder/AgentRunKit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 37, 36, 37, 38]
 ```
 
-2026-10-18 35 → 2026-11-17 37（+2）
+2026-10-18 35 → 2026-11-18 38（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # BooBSD/Tsetlin.jl
 
-⭐ 87 · Julia · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BooBSD/Tsetlin.jl) · [官网](https://arxiv.org/pdf/2508.08350) · 个人维护
+⭐ 88 · Julia · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BooBSD/Tsetlin.jl) · [官网](https://arxiv.org/pdf/2508.08350) · 个人维护
 
 **Julia 实现的 Fuzzy-Pattern Tsetlin Machine 机器学习库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BooBSD/Tsetlin.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 86 --> 89
+    line [87, 88]
 ```
 
-2026-10-18 87 → 2026-11-17 87（+0）
+2026-10-18 87 → 2026-11-18 88（+1）
 
 
 ---

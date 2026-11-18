@@ -1,6 +1,6 @@
 # microsoft/InfoAgent
 
-⭐ 84 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/microsoft/InfoAgent) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/microsoft/InfoAgent) · 组织维护
 
 **微软发布的自主信息检索/深度搜索 Agent 模型系列**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/InfoAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 82 --> 85
-    line [83, 84, 83, 84, 84]
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 82 --> 86
+    line [83, 84, 83, 84, 85]
 ```
 
-2026-10-18 83 → 2026-11-17 84（+1）
+2026-10-18 83 → 2026-11-18 85（+2）
 
 
 ---

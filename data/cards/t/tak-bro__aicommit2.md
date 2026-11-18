@@ -1,6 +1,6 @@
 # tak-bro/aicommit2
 
-⭐ 533 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tak-bro/aicommit2) · [官网](https://www.npmjs.com/package/aicommit2) · 个人维护
+⭐ 532 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tak-bro/aicommit2) · [官网](https://www.npmjs.com/package/aicommit2) · 个人维护
 
 **CLI 工具：用多种 AI 生成 Git/YADM/Jujutsu 提交信息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tak-bro/aicommit2 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-15", "2026-11-18"]
     y-axis "stars" 529 --> 534
-    line [530, 531, 532, 533, 532, 531, 532, 533, 533]
+    line [530, 531, 532, 533, 532, 531, 532, 533, 532]
 ```
 
-2026-10-18 530 → 2026-11-17 533（+3）
+2026-10-18 530 → 2026-11-18 532（+2）
 
 
 ---

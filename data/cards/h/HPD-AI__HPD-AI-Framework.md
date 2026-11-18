@@ -1,6 +1,6 @@
 # HPD-AI/HPD-AI-Framework
 
-⭐ 18 · C# · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/HPD-AI/HPD-AI-Framework) · 组织维护
+⭐ 18 · C# · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/HPD-AI/HPD-AI-Framework) · 组织维护
 
 **面向 .NET 的生产级 AI 应用构建框架族（agent/RAG/工作流等 12 个包）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HPD-AI/HPD-AI-Framework 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
     y-axis "stars" 13 --> 19
     line [14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-17 18（+4）
+2026-10-18 14 → 2026-11-18 18（+4）
 
 
 ---

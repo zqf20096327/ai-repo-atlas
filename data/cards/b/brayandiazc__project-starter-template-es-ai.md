@@ -1,6 +1,6 @@
 # brayandiazc/project-starter-template-es-ai
 
-⭐ 15 · Shell · MIT · 推送 2026-09-22 · [GitHub](https://github.com/brayandiazc/project-starter-template-es-ai) · 个人维护
+⭐ 17 · Shell · MIT · 推送 2026-09-22 · [GitHub](https://github.com/brayandiazc/project-starter-template-es-ai) · 个人维护
 
 **西班牙语项目启动模板：含 AI 代理文档规范与 Claude Code 配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brayandiazc/project-starter-template-es-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 14 --> 18
+    line [15, 17]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/Google-Cloud-Containers
 
-⭐ 188 · Dockerfile · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/Google-Cloud-Containers) · [官网](https://hf.co/docs/google-cloud) · 组织维护
+⭐ 188 · Dockerfile · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/Google-Cloud-Containers) · [官网](https://hf.co/docs/google-cloud) · 组织维护
 
 **面向 Google Cloud 的 Hugging Face 深度学习容器（训练/推理 Docker 镜像）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/Google-Cloud-Containers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-18"]
     y-axis "stars" 186 --> 190
     line [187, 189, 188, 188]
 ```
 
-2026-10-18 187 → 2026-11-17 188（+1）
+2026-10-18 187 → 2026-11-18 188（+1）
 
 
 ---

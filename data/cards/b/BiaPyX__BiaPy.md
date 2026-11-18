@@ -1,6 +1,6 @@
 # BiaPyX/BiaPy
 
-⭐ 219 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BiaPyX/BiaPy) · [官网](https://BiaPyX.github.io) · 组织维护
+⭐ 220 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BiaPyX/BiaPy) · [官网](https://BiaPyX.github.io) · 组织维护
 
 **生物图像深度学习工作流库：覆盖分割/检测/去噪等任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BiaPyX/BiaPy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 214 --> 220
-    line [215, 217, 218, 219, 219]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 214 --> 221
+    line [215, 217, 218, 219, 220]
 ```
 
-2026-10-18 215 → 2026-11-17 219（+4）
+2026-10-18 215 → 2026-11-18 220（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/responses.js
 
-⭐ 240 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/huggingface/responses.js) · 组织维护
+⭐ 240 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/responses.js) · 组织维护
 
 **Express.js 服务器：把 OpenAI Responses API 翻译到 Chat Completions API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/responses.js 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-11-08", "2026-11-18"]
     y-axis "stars" 236 --> 241
     line [237, 238, 239, 240, 240]
 ```
 
-2026-10-18 237 → 2026-11-17 240（+3）
+2026-10-18 237 → 2026-11-18 240（+3）
 
 
 ---

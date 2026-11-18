@@ -1,6 +1,6 @@
 # AlbertTan404/AI-PhD.SKILL
 
-⭐ 33 · 推送 2026-10-28 · [GitHub](https://github.com/AlbertTan404/AI-PhD.SKILL) · [官网](https://www.xiaohongshu.com/user/profile/673b4c44000000001d02d37e) · 个人维护 · 中文 README
+⭐ 34 · 推送 2026-10-28 · [GitHub](https://github.com/AlbertTan404/AI-PhD.SKILL) · [官网](https://www.xiaohongshu.com/user/profile/673b4c44000000001d02d37e) · 个人维护 · 中文 README
 
 **面向 AI 博士生的科研经验与技术开放笔记集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AlbertTan404/AI-PhD.SKILL 星数(近 7 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 25 --> 34
-    line [26, 29, 30, 31, 32, 33, 33]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 25 --> 35
+    line [26, 29, 30, 31, 32, 33, 34]
 ```
 
-2026-10-30 26 → 2026-11-17 33（+7）
+2026-10-30 26 → 2026-11-18 34（+8）
 
 
 ---

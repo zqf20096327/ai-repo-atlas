@@ -1,6 +1,6 @@
 # gamal1osama/Hands-on-ML-Book---notes-and-summarization
 
-⭐ 18 · 推送 2026-04-28 · [GitHub](https://github.com/gamal1osama/Hands-on-ML-Book---notes-and-summarization) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **《Hands-On ML》第三版逐章学习笔记与摘要仓库**
 

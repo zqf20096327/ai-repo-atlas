@@ -1,6 +1,6 @@
 # google/CausalImpact
 
-⭐ 1,865 · R · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/google/CausalImpact) · 组织维护
+⭐ 1,866 · R · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/google/CausalImpact) · 组织维护
 
 **用贝叶斯结构时序模型估计干预因果效应的 R 包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "google/CausalImpact 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 1863 --> 1866
-    line [1864, 1865, 1865]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 1863 --> 1867
+    line [1864, 1865, 1866]
 ```
 
-2026-10-18 1,864 → 2026-11-17 1,865（+1）
+2026-10-18 1,864 → 2026-11-18 1,866（+2）
 
 
 ---

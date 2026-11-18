@@ -1,6 +1,6 @@
 # ultralytics/skills
 
-⭐ 40 · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/ultralytics/skills) · [官网](https://www.ultralytics.com) · 组织维护 · 中文 README
+⭐ 40 · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ultralytics/skills) · [官网](https://www.ultralytics.com) · 组织维护 · 中文 README
 
 **教 AI 编程代理使用 Ultralytics YOLO 的技能文件集**
 
@@ -45,12 +45,12 @@ Ultralytics 官方维护的 Agent Skills 仓库：以 8 个 SKILL.md（yolo、mo
 ```mermaid
 xychart-beta
     title "ultralytics/skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
     y-axis "stars" 29 --> 41
     line [30, 31, 32, 33, 32, 38, 40, 40]
 ```
 
-2026-10-18 30 → 2026-11-17 40（+10）
+2026-10-18 30 → 2026-11-18 40（+10）
 
 
 ---

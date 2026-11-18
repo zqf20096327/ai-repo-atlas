@@ -1,6 +1,6 @@
 # superglue-ai/superglue
 
-⭐ 2,069 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/superglue-ai/superglue) · [官网](https://superglue.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用自然语言构建企业系统集成与工具的 AI agent 平台**
 
@@ -11,7 +11,7 @@ superglue 是面向企业系统集成的 AI agent 平台：通过自然语言描
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

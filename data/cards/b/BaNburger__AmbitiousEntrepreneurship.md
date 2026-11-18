@@ -1,6 +1,6 @@
 # BaNburger/AmbitiousEntrepreneurship
 
-⭐ 23 · HTML · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/BaNburger/AmbitiousEntrepreneurship) · 个人维护
+⭐ 23 · HTML · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/BaNburger/AmbitiousEntrepreneurship) · 个人维护
 
 **面向创始人的 AI 时代创业验证开源课程（12 模块）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BaNburger/AmbitiousEntrepreneurship 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 10 --> 24
     line [11, 12, 17, 19, 20, 17, 23, 23]
 ```
 
-2026-10-22 11 → 2026-11-17 23（+12）
+2026-10-22 11 → 2026-11-18 23（+12）
 
 
 ---

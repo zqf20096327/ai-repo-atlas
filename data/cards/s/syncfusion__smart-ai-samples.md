@@ -46,12 +46,12 @@ Syncfusion 维护的智能组件与示例仓库：Smart Paste Button 从剪贴�
 ```mermaid
 xychart-beta
     title "syncfusion/smart-ai-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-11-17 25（+0）
+2026-10-18 25 → 2026-11-18 25（+0）
 
 
 ---

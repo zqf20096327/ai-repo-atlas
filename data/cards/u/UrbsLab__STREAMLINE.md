@@ -1,6 +1,6 @@
 # UrbsLab/STREAMLINE
 
-⭐ 82 · Jupyter Notebook · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/UrbsLab/STREAMLINE) · [官网](https://urbslab.github.io/STREAMLINE/) · 组织维护
+⭐ 83 · Jupyter Notebook · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/UrbsLab/STREAMLINE) · [官网](https://urbslab.github.io/STREAMLINE/) · 组织维护
 
 **结构化表格数据的端到端自动机器学习流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UrbsLab/STREAMLINE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-11-17 82（+0）
+2026-10-18 82 → 2026-11-18 83（+1）
 
 
 ---

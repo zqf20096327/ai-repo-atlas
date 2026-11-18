@@ -1,6 +1,6 @@
 # bcefghj/JobOS
 
-⭐ 36 · Python · 推送 2026-04-05 · [GitHub](https://github.com/bcefghj/JobOS) · 个人维护 · 中文 README
+⭐ 37 · Python · 推送 2026-04-05 · [GitHub](https://github.com/bcefghj/JobOS) · 个人维护 · 中文 README
 
 **面向求职者的 AI 求职操作系统：采集岗位、评分、生成简历与面试资料**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bcefghj/JobOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 35 --> 38
-    line [37, 36, 36]
+    line [37, 36, 37]
 ```
 
-2026-10-18 37 → 2026-11-17 36（-1）
+2026-10-18 37 → 2026-11-18 37（+0）
 
 
 ---

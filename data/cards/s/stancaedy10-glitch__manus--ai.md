@@ -1,6 +1,6 @@
 # stancaedy10-glitch/manus--ai
 
-⭐ 202 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/stancaedy10-glitch/manus--ai) · 个人维护
+⭐ 202 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/stancaedy10-glitch/manus--ai) · 个人维护
 
 **面向日常任务的自主 AI Agent：代用户执行代码与操控浏览器**
 
@@ -44,12 +44,12 @@ README 描述 Manus 为自主 AI agent，可在用户指令下编写并执行脚
 ```mermaid
 xychart-beta
     title "stancaedy10-glitch/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 134 --> 286
     line [146, 274, 202, 202]
 ```
 
-2026-11-13 146 → 2026-11-17 202（+56）
+2026-11-13 146 → 2026-11-18 202（+56）
 
 
 ---

@@ -45,12 +45,12 @@ amazon-science 发布的 DeTiME（Accepted by EMNLP 2023 Findings）官方代码
 ```mermaid
 xychart-beta
     title "amazon-science/text_generation_diffusion_llm_topic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 15（+0）
 
 
 ---

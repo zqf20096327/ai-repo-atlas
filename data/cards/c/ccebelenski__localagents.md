@@ -1,6 +1,6 @@
 # ccebelenski/localagents
 
-⭐ 19 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ccebelenski/localagents) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ccebelenski/localagents) · 个人维护
 
 **把 Claude Code 的代理任务转给本地模型执行的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ccebelenski/localagents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 12 --> 20
-    line [13, 19, 19]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 12 --> 23
+    line [13, 19, 22]
 ```
 
-2026-10-18 13 → 2026-11-17 19（+6）
+2026-10-18 13 → 2026-11-18 22（+9）
 
 
 ---

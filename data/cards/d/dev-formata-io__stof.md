@@ -1,6 +1,6 @@
 # dev-formata-io/stof
 
-⭐ 64 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/dev-formata-io/stof) · [官网](https://stof.dev) · 组织维护
+⭐ 64 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/dev-formata-io/stof) · [官网](https://stof.dev) · 组织维护
 
 **在应用内沙箱运行 AI 生成逻辑的文档格式与运行时库**
 
@@ -46,12 +46,12 @@ Stof 是一种把数据与函数放在同一文档的格式（JSON 超集），�
 ```mermaid
 xychart-beta
     title "dev-formata-io/stof 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 61 --> 65
     line [62, 63, 64, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-11-17 64（+2）
+2026-10-18 62 → 2026-11-18 64（+2）
 
 
 ---

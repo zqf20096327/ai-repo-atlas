@@ -1,6 +1,6 @@
 # fisher-admin/stock-report
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fisher-admin/stock-report) · [官网](https://fisher-admin.github.io/stock-report/) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fisher-admin/stock-report) · [官网](https://fisher-admin.github.io/stock-report/) · 个人维护 · 中文 README
 
 **A股量化研究 AI 流水线的公开展示层与结果发布仓库**
 
@@ -45,12 +45,12 @@ FisherQuant 是一条自主 AI agent 选股流水线的公开代码与结果仓�
 ```mermaid
 xychart-beta
     title "fisher-admin/stock-report 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # amitshekhariitbhu/100-days-of-ai
 
-⭐ 75 · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/amitshekhariitbhu/100-days-of-ai) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 76 · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/amitshekhariitbhu/100-days-of-ai) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **面向 AI 工程学习者的 100 天 AI 概念学习计划**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "amitshekhariitbhu/100-days-of-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 69 --> 76
-    line [70, 71, 70, 73, 74, 75, 75]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 69 --> 77
+    line [70, 71, 70, 73, 74, 75, 76]
 ```
 
-2026-10-18 70 → 2026-11-17 75（+5）
+2026-10-18 70 → 2026-11-18 76（+6）
 
 
 ---

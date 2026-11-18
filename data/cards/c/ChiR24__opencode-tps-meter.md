@@ -1,6 +1,6 @@
 # ChiR24/opencode-tps-meter
 
-⭐ 38 · TypeScript · 推送 2026-11-05 · [GitHub](https://github.com/ChiR24/opencode-tps-meter) · 个人维护
+⭐ 39 · TypeScript · 推送 2026-11-05 · [GitHub](https://github.com/ChiR24/opencode-tps-meter) · 个人维护
 
 **OpenCode 插件：实时显示 AI token 吞吐率（TPS）仪表**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChiR24/opencode-tps-meter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 33 --> 39
-    line [34, 35, 36, 35, 36, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 33 --> 40
+    line [34, 35, 36, 35, 36, 38, 39]
 ```
 
-2026-10-18 34 → 2026-11-17 38（+4）
+2026-10-18 34 → 2026-11-18 39（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # runpod-workers/worker-a1111
 
-⭐ 100 · Python · MIT · 推送 2025-11-21 · [GitHub](https://github.com/runpod-workers/worker-a1111) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 RunPod Serverless 上运行 A1111 的 Stable Diffusion 推理 worker**
 
@@ -11,7 +11,7 @@ RunPod 官方维护的 serverless worker 项目：以容器形式运行 Automati
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

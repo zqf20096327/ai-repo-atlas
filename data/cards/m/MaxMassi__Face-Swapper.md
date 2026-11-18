@@ -1,6 +1,6 @@
 # MaxMassi/Face-Swapper
 
-⭐ 20 · Python · 推送 2026-10-12 · [GitHub](https://github.com/MaxMassi/Face-Swapper) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自动生成换脸图像数据集，用于训练换脸检测模型**
 

@@ -1,6 +1,6 @@
 # jinzcdev/markmap-mcp-server
 
-⭐ 289 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/jinzcdev/markmap-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/markmap-mcp-server) · 个人维护 · 中文 README
+⭐ 290 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/jinzcdev/markmap-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/markmap-mcp-server) · 个人维护 · 中文 README
 
 **MCP 服务器：把 Markdown 转成可交互思维导图并导出图片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jinzcdev/markmap-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-18"]
     y-axis "stars" 288 --> 291
-    line [289, 290, 289, 289]
+    line [289, 290, 289, 290]
 ```
 
-2026-10-18 289 → 2026-11-17 289（+0）
+2026-10-18 289 → 2026-11-18 290（+1）
 
 
 ---

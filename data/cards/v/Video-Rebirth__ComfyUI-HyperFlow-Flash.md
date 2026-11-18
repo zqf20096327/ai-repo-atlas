@@ -1,6 +1,6 @@
 # Video-Rebirth/ComfyUI-HyperFlow-Flash
 
-⭐ 93 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash) · [官网](https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash) · 组织维护
+⭐ 97 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash) · [官网](https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash) · 组织维护
 
 **在 ComfyUI 中加载运行 HyperFlow H3 Flash 视频模型的自定义节点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Video-Rebirth/ComfyUI-HyperFlow-Flash 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 7 --> 100
-    line [14, 45, 59, 68, 75, 85, 91, 93, 93]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 6 --> 105
+    line [14, 45, 59, 68, 75, 85, 91, 93, 97]
 ```
 
-2026-11-08 14 → 2026-11-17 93（+79）
+2026-11-08 14 → 2026-11-18 97（+83）
 
 
 ---

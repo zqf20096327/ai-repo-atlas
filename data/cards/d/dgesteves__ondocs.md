@@ -1,6 +1,6 @@
 # dgesteves/ondocs
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dgesteves/ondocs) · [官网](https://ondocs.vercel.app) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dgesteves/ondocs) · [官网](https://ondocs.vercel.app) · 个人维护
 
 **给自有文档站加带引用的 Ask AI 与 MCP 服务，自托管**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dgesteves/ondocs 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-18"]
     y-axis "stars" 9 --> 41
     line [14, 38, 39, 14, 11, 11]
 ```
 
-2026-10-25 14 → 2026-11-17 11（-3）
+2026-10-25 14 → 2026-11-18 11（-3）
 
 
 ---

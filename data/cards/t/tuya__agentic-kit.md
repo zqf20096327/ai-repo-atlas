@@ -1,6 +1,6 @@
 # tuya/agentic-kit
 
-⭐ 55 · C · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/tuya/agentic-kit) · [官网](https://agentic-kit.tuya.com) · 组织维护 · 中文 README
+⭐ 56 · C · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/tuya/agentic-kit) · [官网](https://agentic-kit.tuya.com) · 组织维护 · 中文 README
 
 **智能硬件接入 Tuya AI 平台的端侧多模态 C SDK**
 
@@ -45,12 +45,12 @@ Tuya 官方提供的物联网设备端 SDK，使嵌入式设备接入 Tuya AI �
 ```mermaid
 xychart-beta
     title "tuya/agentic-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 53, 55, 55]
+    x-axis ["2026-10-18", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 53, 55, 56]
 ```
 
-2026-10-18 53 → 2026-11-17 55（+2）
+2026-10-18 53 → 2026-11-18 56（+3）
 
 
 ---

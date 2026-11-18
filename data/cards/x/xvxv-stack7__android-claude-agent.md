@@ -1,6 +1,6 @@
 # xvxv-stack7/android-claude-agent
 
-⭐ 11 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/xvxv-stack7/android-claude-agent) · 个人维护 · 中文 README
+⭐ 12 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/xvxv-stack7/android-claude-agent) · 个人维护 · 中文 README
 
 **免 Root 免电脑让 Claude Code 在手机上感知并操控 Android**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xvxv-stack7/android-claude-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 10, 12, 11, 11]
+    line [10, 11, 10, 12, 11, 12]
 ```
 
-2026-10-18 10 → 2026-11-17 11（+1）
+2026-10-18 10 → 2026-11-18 12（+2）
 
 
 ---

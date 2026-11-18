@@ -1,6 +1,6 @@
 # mitmath/JuliaComputation
 
-⭐ 112 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/mitmath/JuliaComputation) · [官网](https://computationalthinking.mit.edu) · 组织维护
+⭐ 113 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/mitmath/JuliaComputation) · [官网](https://computationalthinking.mit.edu) · 组织维护
 
 **MIT 计算课程仓库：Julia 交互笔记与作业讲义集合**
 
@@ -46,12 +46,12 @@ MIT 数学系 2026 秋季课程（1.C25/6.C25 等）的材料仓库，由 Alan E
 ```mermaid
 xychart-beta
     title "mitmath/JuliaComputation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 109 --> 113
-    line [110, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 109 --> 114
+    line [110, 111, 112, 113]
 ```
 
-2026-10-18 110 → 2026-11-17 112（+2）
+2026-10-18 110 → 2026-11-18 113（+3）
 
 
 ---

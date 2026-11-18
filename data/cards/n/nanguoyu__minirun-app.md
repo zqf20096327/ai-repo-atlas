@@ -1,6 +1,6 @@
 # nanguoyu/minirun-app
 
-⭐ 70 · Swift · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/nanguoyu/minirun-app) · [官网](https://minirun.dev/) · 个人维护 · 中文 README
+⭐ 71 · Swift · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/nanguoyu/minirun-app) · [官网](https://minirun.dev/) · 个人维护 · 中文 README
 
 **在 Mac/iPhone 上运行超过内存大小的本地大模型的原生应用**
 
@@ -46,12 +46,12 @@ Swift 编写的 macOS 与 iOS 原生应用，运行权重体积远超设备内�
 ```mermaid
 xychart-beta
     title "nanguoyu/minirun-app 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 63 --> 71
-    line [64, 66, 67, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 63 --> 72
+    line [64, 66, 67, 69, 70, 71]
 ```
 
-2026-10-18 64 → 2026-11-17 70（+6）
+2026-10-18 64 → 2026-11-18 71（+7）
 
 
 ---

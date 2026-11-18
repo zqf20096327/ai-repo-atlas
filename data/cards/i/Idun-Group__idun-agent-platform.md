@@ -1,6 +1,6 @@
 # Idun-Group/idun-agent-platform
 
-⭐ 205 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Idun-Group/idun-agent-platform) · [官网](https://idun-group.com/engine) · 组织维护 · 中文 README
+⭐ 207 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Idun-Group/idun-agent-platform) · [官网](https://idun-group.com/engine) · 组织维护 · 中文 README
 
 **自托管开源运行时：把 LangGraph/ADK agent 一键部署为生产级 FastAPI 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Idun-Group/idun-agent-platform 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 203 --> 206
-    line [204, 205, 204, 205, 205]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 203 --> 208
+    line [204, 205, 204, 205, 207]
 ```
 
-2026-10-18 204 → 2026-11-17 205（+1）
+2026-10-18 204 → 2026-11-18 207（+3）
 
 
 ---

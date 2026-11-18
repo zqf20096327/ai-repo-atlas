@@ -1,6 +1,6 @@
 # haoyu-zhao/Continual-Learning-Exam
 
-⭐ 14 · TeX · 推送 2026-10-27 · [GitHub](https://github.com/haoyu-zhao/Continual-Learning-Exam) · [官网](https://haoyu-zhao.github.io/CLE/) · 组织维护
+⭐ 15 · TeX · 推送 2026-10-27 · [GitHub](https://github.com/haoyu-zhao/Continual-Learning-Exam) · [官网](https://haoyu-zhao.github.io/CLE/) · 组织维护
 
 **评测 AI agent 持续学习能力的基准：120 任务·600 关卡**
 
@@ -45,12 +45,12 @@ Continual Learning Exam（CLE）是评测 agent 能否习得、保留并复用�
 ```mermaid
 xychart-beta
     title "haoyu-zhao/Continual-Learning-Exam 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-02", "2026-11-10", "2026-11-13", "2026-11-17"]
-    y-axis "stars" 8 --> 15
-    line [9, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-02", "2026-11-10", "2026-11-13", "2026-11-18"]
+    y-axis "stars" 8 --> 16
+    line [9, 11, 12, 13, 14, 15]
 ```
 
-2026-10-28 9 → 2026-11-17 14（+5）
+2026-10-28 9 → 2026-11-18 15（+6）
 
 
 ---

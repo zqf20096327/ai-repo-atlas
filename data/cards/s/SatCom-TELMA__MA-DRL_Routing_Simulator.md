@@ -1,6 +1,6 @@
 # SatCom-TELMA/MA-DRL_Routing_Simulator
 
-⭐ 162 · Jupyter Notebook · 推送 2026-05-31 · [GitHub](https://github.com/SatCom-TELMA/MA-DRL_Routing_Simulator) · 组织维护
+⭐ 163 · Jupyter Notebook · 推送 2026-05-31 · [GitHub](https://github.com/SatCom-TELMA/MA-DRL_Routing_Simulator) · 组织维护
 
 **卫星星座路由仿真器：用多智能体深度强化学习评估路由时延**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SatCom-TELMA/MA-DRL_Routing_Simulator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-17"]
-    y-axis "stars" 158 --> 163
-    line [159, 160, 162, 162]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-18"]
+    y-axis "stars" 158 --> 164
+    line [159, 160, 162, 163]
 ```
 
-2026-10-18 159 → 2026-11-17 162（+3）
+2026-10-18 159 → 2026-11-18 163（+4）
 
 
 ---

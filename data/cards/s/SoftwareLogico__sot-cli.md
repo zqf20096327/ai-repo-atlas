@@ -46,12 +46,12 @@ Python 终端 AI Agent 工具：围绕自述的 Source of Truth (SoT) 方法将�
 ```mermaid
 xychart-beta
     title "SoftwareLogico/sot-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-11-17 40（+1）
+2026-10-18 39 → 2026-11-18 40（+1）
 
 
 ---

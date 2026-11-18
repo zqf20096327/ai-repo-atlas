@@ -1,6 +1,6 @@
 # datasciencecampus/classifai
 
-⭐ 22 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/datasciencecampus/classifai) · [官网](https://datasciencecampus.github.io/classifai/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/datasciencecampus/classifai) · [官网](https://datasciencecampus.github.io/classifai/) · 组织维护
 
 **官方统计文本分类 Python 包：用语义搜索与 RAG 标注文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datasciencecampus/classifai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-11-17 22（+1）
+2026-10-18 21 → 2026-11-18 22（+1）
 
 
 ---

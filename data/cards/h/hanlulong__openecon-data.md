@@ -1,6 +1,6 @@
 # hanlulong/openecon-data
 
-⭐ 92 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/hanlulong/openecon-data) · [官网](https://openecon.ai) · 个人维护 · 中文 README
+⭐ 93 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/hanlulong/openecon-data) · [官网](https://openecon.ai) · 个人维护 · 中文 README
 
 **给 AI agent 提供权威经济数据的 MCP 服务器与 Web 应用**
 
@@ -47,12 +47,12 @@ OpenEcon Data 是一个面向 AI agent 与终端用户的经济数据服务：�
 ```mermaid
 xychart-beta
     title "hanlulong/openecon-data 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 85 --> 93
-    line [86, 87, 90, 91, 92, 92]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 85 --> 94
+    line [86, 87, 90, 91, 92, 93]
 ```
 
-2026-10-18 86 → 2026-11-17 92（+6）
+2026-10-18 86 → 2026-11-18 93（+7）
 
 
 ---

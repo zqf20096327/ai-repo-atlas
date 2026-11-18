@@ -1,6 +1,6 @@
 # anfoss/PCprophet
 
-⭐ 14 · Python · MIT · 推送 2025-11-21 · [GitHub](https://github.com/anfoss/PCprophet) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **蛋白质复合物预测与共分级质谱数据差异分析工具包**
 
@@ -11,7 +11,7 @@ PCprophet 是面向蛋白质组学研究的 Python 软件工具包，用于从�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # TencentEdgeOne/awesome-website-prompts-and-skills
 
-⭐ 204 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) · [官网](https://edgeone.ai/awesome-website-prompts-and-skills?from=github) · 组织维护 · 中文 README
+⭐ 205 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) · [官网](https://edgeone.ai/awesome-website-prompts-and-skills?from=github) · 组织维护 · 中文 README
 
 **腾讯 EdgeOne 维护的 AI 建站 Prompt 与 Skill 作品合集**
 
@@ -46,12 +46,12 @@ Tencent EdgeOne 维护的网站资源合集，同时作为「WorkBuddy × Tencen
 ```mermaid
 xychart-beta
     title "TencentEdgeOne/awesome-website-prompts-and-skills 星数(近 12 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 189 --> 205
-    line [190, 191, 190, 191, 194, 195, 191, 199, 201, 203, 204, 204]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 189 --> 206
+    line [190, 191, 190, 191, 194, 195, 191, 199, 201, 203, 204, 205]
 ```
 
-2026-10-18 190 → 2026-11-17 204（+14）
+2026-10-18 190 → 2026-11-18 205（+15）
 
 
 ---

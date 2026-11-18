@@ -1,6 +1,6 @@
 # drpedapati/sciclaw
 
-⭐ 90 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/drpedapati/sciclaw) · [官网](https://sciclaw.dev) · 个人维护
+⭐ 90 · Go · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/drpedapati/sciclaw) · [官网](https://sciclaw.dev) · 个人维护
 
 **面向科研人员的配对科学家 AI 助手，可复现研究工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "drpedapati/sciclaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-11-08", "2026-11-18"]
     y-axis "stars" 88 --> 91
     line [89, 90, 89, 90, 90]
 ```
 
-2026-10-18 89 → 2026-11-17 90（+1）
+2026-10-18 89 → 2026-11-18 90（+1）
 
 
 ---

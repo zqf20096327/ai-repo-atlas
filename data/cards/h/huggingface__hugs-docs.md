@@ -1,6 +1,6 @@
 # huggingface/hugs-docs
 
-⭐ 15 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/hugs-docs) · [官网](https://huggingface.co/docs/hugs) · 组织维护
+⭐ 15 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/hugs-docs) · [官网](https://huggingface.co/docs/hugs) · 组织维护
 
 **HUGS（Hugging Face 生成式 AI 服务）官方文档仓库，已弃用**
 
@@ -41,12 +41,12 @@ Hugging Face Generative AI Services（HUGS）的官方文档仓库。README 声�
 ```mermaid
 xychart-beta
     title "huggingface/hugs-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-11-17 15（+0）
+2026-10-18 15 → 2026-11-18 15（+0）
 
 
 ---

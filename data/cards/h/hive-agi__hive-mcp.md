@@ -1,6 +1,6 @@
 # hive-agi/hive-mcp
 
-⭐ 30 · Clojure · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hive-agi/hive-mcp) · [官网](https://hive-mcp.com) · 组织维护
+⭐ 30 · Clojure · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/hive-agi/hive-mcp) · [官网](https://hive-mcp.com) · 组织维护
 
 **带持久记忆与多 Agent 协调的 Clojure MCP server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hive-agi/hive-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-11-17 30（+1）
+2026-10-18 29 → 2026-11-18 30（+1）
 
 
 ---

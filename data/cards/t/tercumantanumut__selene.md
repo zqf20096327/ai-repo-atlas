@@ -1,6 +1,6 @@
 # tercumantanumut/selene
 
-⭐ 174 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/tercumantanumut/selene) · [官网](https://selene.engineer) · 个人维护
+⭐ 174 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tercumantanumut/selene) · [官网](https://selene.engineer) · 个人维护
 
 **本地优先的 AI agent 桌面应用：聊天写码生图，接入聊天平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tercumantanumut/selene 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-11", "2026-11-18"]
     y-axis "stars" 170 --> 175
     line [171, 172, 173, 174, 174]
 ```
 
-2026-10-18 171 → 2026-11-17 174（+3）
+2026-10-18 171 → 2026-11-18 174（+3）
 
 
 ---

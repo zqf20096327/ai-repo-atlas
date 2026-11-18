@@ -1,6 +1,6 @@
 # fastly/fastly-agent-toolkit
 
-⭐ 37 · Shell · MIT · 推送 2026-11-14 · [GitHub](https://github.com/fastly/fastly-agent-toolkit) · 组织维护
+⭐ 37 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fastly/fastly-agent-toolkit) · 组织维护
 
 **给 AI 编码 agent 的 Fastly 平台技能集（12 个技能）**
 
@@ -47,12 +47,12 @@ Fastly 官方维护的 Agent Plugin：以 SKILL.md 加 references 目录的形�
 ```mermaid
 xychart-beta
     title "fastly/fastly-agent-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-18"]
     y-axis "stars" 34 --> 38
     line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-11-17 37（+2）
+2026-10-18 35 → 2026-11-18 37（+2）
 
 
 ---

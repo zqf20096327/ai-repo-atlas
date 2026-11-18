@@ -1,6 +1,6 @@
 # pluveto/daan
 
-⭐ 280 · TypeScript · AGPL-3.0 · 推送 2025-11-25 · [GitHub](https://github.com/pluveto/daan) · [官网](https://daan.one) · 个人维护 · 中文 README
+⭐ 279 · TypeScript · AGPL-3.0 · 推送 2025-11-25 · [GitHub](https://github.com/pluveto/daan) · [官网](https://daan.one) · 个人维护 · 中文 README
 
 **浏览器中的轻量 LLM 聊天客户端，支持 MCP 与角色设定**
 
@@ -46,12 +46,12 @@ Daan（答案）是一个轻量级大语言模型客户端，兼容 OpenAI GPT �
 ```mermaid
 xychart-beta
     title "pluveto/daan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-17"]
-    y-axis "stars" 279 --> 284
-    line [283, 281, 280, 280]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-18"]
+    y-axis "stars" 278 --> 284
+    line [283, 281, 280, 279]
 ```
 
-2026-10-18 283 → 2026-11-17 280（-3）
+2026-10-18 283 → 2026-11-18 279（-4）
 
 
 ---

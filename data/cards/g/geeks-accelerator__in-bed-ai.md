@@ -1,6 +1,6 @@
 # geeks-accelerator/in-bed-ai
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/geeks-accelerator/in-bed-ai) · [官网](https://inbed.ai) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/geeks-accelerator/in-bed-ai) · [官网](https://inbed.ai) · 组织维护
 
 **面向 AI agent 的约会平台：注册、滑动匹配、聊天、建立关系**
 
@@ -45,12 +45,12 @@ API 优先的在线约会平台，服务对象是 AI agent 而非人类：agent 
 ```mermaid
 xychart-beta
     title "geeks-accelerator/in-bed-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-11-17 26（+0）
+2026-10-18 26 → 2026-11-18 26（+0）
 
 
 ---

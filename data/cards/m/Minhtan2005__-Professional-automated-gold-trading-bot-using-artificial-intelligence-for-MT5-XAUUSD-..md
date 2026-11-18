@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Minhtan2005/-Professional-automated-gold-trading-bot-using-artificial-intelligence-for-MT5-XAUUSD-. 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-18"]
     y-axis "stars" 23 --> 28
     line [24, 25, 26, 27, 27]
 ```
 
-2026-10-18 24 → 2026-11-17 27（+3）
+2026-10-18 24 → 2026-11-18 27（+3）
 
 
 ---

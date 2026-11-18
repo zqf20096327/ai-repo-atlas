@@ -1,6 +1,6 @@
 # rcsoccersim/rcssserver
 
-⭐ 168 · C++ · LGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/rcsoccersim/rcssserver) · 组织维护
+⭐ 168 · C++ · LGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/rcsoccersim/rcssserver) · 组织维护
 
 **多智能体与 AI 研究用的机器人足球仿真服务器**
 
@@ -45,12 +45,12 @@ RoboCup 足球仿真服务器：用 C++14 实现，模拟 11 名自主机器人�
 ```mermaid
 xychart-beta
     title "rcsoccersim/rcssserver 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-08", "2026-11-10", "2026-11-18"]
     y-axis "stars" 163 --> 169
     line [164, 165, 167, 168, 168]
 ```
 
-2026-10-18 164 → 2026-11-17 168（+4）
+2026-10-18 164 → 2026-11-18 168（+4）
 
 
 ---

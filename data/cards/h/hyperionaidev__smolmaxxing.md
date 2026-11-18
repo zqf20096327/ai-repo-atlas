@@ -1,6 +1,6 @@
 # hyperionaidev/smolmaxxing
 
-⭐ 875 · C · MIT · 推送 2026-11-13 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 个人维护
+⭐ 963 · C · MIT · 推送 2026-11-13 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 个人维护
 
 **让旧手机、电视盒等低配设备跑大模型的 llama.cpp 补丁集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyperionaidev/smolmaxxing 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 603 --> 899
-    line [627, 688, 740, 875, 875]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 594 --> 996
+    line [627, 688, 740, 875, 963]
 ```
 
-2026-11-13 627 → 2026-11-17 875（+248）
+2026-11-13 627 → 2026-11-18 963（+336）
 
 
 ---

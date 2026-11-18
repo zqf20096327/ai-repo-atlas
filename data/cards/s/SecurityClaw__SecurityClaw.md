@@ -1,6 +1,6 @@
 # SecurityClaw/SecurityClaw
 
-⭐ 280 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SecurityClaw/SecurityClaw) · 组织维护
+⭐ 279 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SecurityClaw/SecurityClaw) · 组织维护
 
 **自主 SOC Agent：监控 OpenSearch/ES 日志并用 LLM 验证异常**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SecurityClaw/SecurityClaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 276 --> 281
-    line [277, 278, 277, 280, 280]
+    line [277, 278, 277, 280, 279]
 ```
 
-2026-10-18 277 → 2026-11-17 280（+3）
+2026-10-18 277 → 2026-11-18 279（+2）
 
 
 ---

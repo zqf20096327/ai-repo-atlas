@@ -1,6 +1,6 @@
 # apissaj/humanizer-id
 
-⭐ 225 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/apissaj/humanizer-id) · 个人维护
+⭐ 230 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/apissaj/humanizer-id) · 个人维护
 
 **供 AI 代理使用的印尼语学术写作编辑规则库与审计 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "apissaj/humanizer-id 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-17"]
-    y-axis "stars" 224 --> 226
-    line [225, 225]
+    x-axis ["2026-11-16", "2026-11-18"]
+    y-axis "stars" 224 --> 231
+    line [225, 230]
 ```
 
-2026-11-16 225 → 2026-11-17 225（+0）
+2026-11-16 225 → 2026-11-18 230（+5）
 
 
 ---

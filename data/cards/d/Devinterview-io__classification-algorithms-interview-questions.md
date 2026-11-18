@@ -43,12 +43,12 @@ Devinterview-io 维护的分类算法面试问答集：以 52 个问题的形式
 ```mermaid
 xychart-beta
     title "Devinterview-io/classification-algorithms-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tim-mccrimmon/structured-context-spec
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/tim-mccrimmon/structured-context-spec) · [官网](https://structuredcontext.dev) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/tim-mccrimmon/structured-context-spec) · [官网](https://structuredcontext.dev) · 个人维护
 
 **AI 系统结构化上下文的开放规范：创建、校验、版本化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tim-mccrimmon/structured-context-spec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-11", "2026-11-18"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-11-17 20（+2）
+2026-10-18 18 → 2026-11-18 20（+2）
 
 
 ---

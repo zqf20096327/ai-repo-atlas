@@ -46,12 +46,12 @@ WSDM 2026 论文 LookAhead Tuning 的官方代码库，提供两种数据中心�
 ```mermaid
 xychart-beta
     title "zjunlp/LookAheadTuning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 17（+0）
 
 
 ---

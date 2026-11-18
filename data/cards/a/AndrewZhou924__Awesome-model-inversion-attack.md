@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AndrewZhou924/Awesome-model-inversion-attack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 224 --> 226
     line [225, 225]
 ```
 
-2026-10-18 225 → 2026-11-17 225（+0）
+2026-10-18 225 → 2026-11-18 225（+0）
 
 
 ---

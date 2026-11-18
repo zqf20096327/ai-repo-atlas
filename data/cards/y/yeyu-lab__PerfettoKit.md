@@ -1,6 +1,6 @@
 # yeyu-lab/PerfettoKit
 
-⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/yeyu-lab/PerfettoKit) · [官网](https://github.com/yeyu-lab/PerfettoKit#readme) · 个人维护 · 中文 README
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/yeyu-lab/PerfettoKit) · [官网](https://github.com/yeyu-lab/PerfettoKit#readme) · 个人维护 · 中文 README
 
 **Android 性能检测 SDK：多维采集定位卡顿并生成 AI 修复建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yeyu-lab/PerfettoKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 14（+1）
 
 
 ---

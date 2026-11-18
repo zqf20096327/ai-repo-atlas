@@ -1,6 +1,6 @@
 # IliasHad/edit-mind
 
-⭐ 1,836 · TypeScript · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/IliasHad/edit-mind) · [官网](https://orcah.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地自托管视频知识库：索引视频并用自然语言检索**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | AGPL-3.0 |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

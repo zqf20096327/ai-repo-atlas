@@ -1,6 +1,6 @@
 # jamesward/ai4jvm
 
-⭐ 42 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jamesward/ai4jvm) · [官网](https://ai4jvm.com/) · 个人维护
+⭐ 42 · HTML · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/jamesward/ai4jvm) · [官网](https://ai4jvm.com/) · 个人维护
 
 **Java/Kotlin AI 生态资源策展指南**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "jamesward/ai4jvm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-11-17 42（+0）
+2026-10-18 42 → 2026-11-18 42（+0）
 
 
 ---

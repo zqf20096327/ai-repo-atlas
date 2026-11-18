@@ -1,6 +1,6 @@
 # huy555huy/suan
 
-⭐ 12 · Python · 推送 2026-08-05 · [GitHub](https://github.com/huy555huy/suan) · 个人维护 · 中文 README
+⭐ 13 · Python · 推送 2026-08-05 · [GitHub](https://github.com/huy555huy/suan) · 个人维护 · 中文 README
 
 **中西命理 AI Agent：单 Agent ReAct 循环合参八字/紫微/占星/塔罗等七体系**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huy555huy/suan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-18 11 → 2026-11-17 12（+1）
+2026-10-18 11 → 2026-11-18 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zero-one-group/geni
 
-⭐ 297 · Clojure · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/zero-one-group/geni) · 组织维护
+⭐ 298 · Clojure · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/zero-one-group/geni) · 组织维护
 
 **Clojure 数据帧库：在 Apache Spark 上做数据处理与 ML**
 
@@ -46,12 +46,12 @@ Geni 是运行于 Apache Spark 之上的 Clojure 数据帧库，用 Clojure 的 
 ```mermaid
 xychart-beta
     title "zero-one-group/geni 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-17"]
-    y-axis "stars" 295 --> 298
-    line [296, 297, 297]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-18"]
+    y-axis "stars" 295 --> 299
+    line [296, 297, 298]
 ```
 
-2026-10-18 296 → 2026-11-17 297（+1）
+2026-10-18 296 → 2026-11-18 298（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # patrick-toulme/harnessgym
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/patrick-toulme/harnessgym) · [官网](https://harnessgym.com) · 个人维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/patrick-toulme/harnessgym) · [官网](https://harnessgym.com) · 个人维护
 
 **迭代改进编码 agent 工具链的开源框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "patrick-toulme/harnessgym 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 43 --> 54
-    line [44, 46, 48, 49, 50, 51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 43 --> 55
+    line [44, 46, 48, 49, 50, 51, 52, 53, 54]
 ```
 
-2026-10-18 44 → 2026-11-17 53（+9）
+2026-10-18 44 → 2026-11-18 54（+10）
 
 
 ---

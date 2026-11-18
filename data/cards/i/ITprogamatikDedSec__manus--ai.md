@@ -1,6 +1,6 @@
 # ITprogamatikDedSec/manus--ai
 
-⭐ 201 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ITprogamatikDedSec/manus--ai) · 个人维护
+⭐ 201 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ITprogamatikDedSec/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI 代理：代为写代码、控制浏览器、执行多步任务**
 
@@ -45,12 +45,12 @@ Manus 是一个自主 AI agent 应用，用户描述需求后由 agent 规划并
 ```mermaid
 xychart-beta
     title "ITprogamatikDedSec/manus--ai 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18"]
     y-axis "stars" 133 --> 285
     line [145, 273, 201, 201]
 ```
 
-2026-11-13 145 → 2026-11-17 201（+56）
+2026-11-13 145 → 2026-11-18 201（+56）
 
 
 ---

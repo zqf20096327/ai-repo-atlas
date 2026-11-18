@@ -1,6 +1,6 @@
 # heznpc/AirMCP
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/heznpc/AirMCP) · [官网](https://heznpc.github.io/AirMCP/) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/heznpc/AirMCP) · [官网](https://heznpc.github.io/AirMCP/) · 个人维护
 
 **面向 Apple 生态的受治理 MCP 运行时：让 AI 助手操作本机真实应用**
 
@@ -45,12 +45,12 @@ AirMCP 是连接与控制层，而非独立 agent：把 Notes、Mail、Calendar�
 ```mermaid
 xychart-beta
     title "heznpc/AirMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 16 --> 19
-    line [18, 17, 17]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 15 --> 19
+    line [18, 17, 16]
 ```
 
-2026-10-18 18 → 2026-11-17 17（-1）
+2026-10-18 18 → 2026-11-18 16（-2）
 
 
 ---

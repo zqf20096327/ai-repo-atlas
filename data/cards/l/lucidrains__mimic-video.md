@@ -45,12 +45,12 @@ Mimic-Video 论文（Video-Action Models for Generalizable Robot Control Beyond 
 ```mermaid
 xychart-beta
     title "lucidrains/mimic-video 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-18 125 → 2026-11-17 125（+0）
+2026-10-18 125 → 2026-11-18 125（+0）
 
 
 ---

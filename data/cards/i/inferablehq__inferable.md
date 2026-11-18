@@ -1,6 +1,6 @@
 # inferablehq/inferable
 
-⭐ 451 · TypeScript · MIT · 推送 2025-11-24 · [GitHub](https://github.com/inferablehq/inferable) · [官网](https://www.inferable.ai) · 组织维护
+⭐ 450 · TypeScript · MIT · 推送 2025-11-24 · [GitHub](https://github.com/inferablehq/inferable) · [官网](https://www.inferable.ai) · 组织维护
 
 **托管持久执行运行时：构建带人工审批的 AI 工作流**
 
@@ -45,12 +45,12 @@ Inferable 是面向开发者的持久执行运行时，用于创建带人工介�
 ```mermaid
 xychart-beta
     title "inferablehq/inferable 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18"]
     y-axis "stars" 446 --> 452
-    line [447, 448, 449, 450, 451, 451]
+    line [447, 448, 449, 450, 451, 450]
 ```
 
-2026-10-18 447 → 2026-11-17 451（+4）
+2026-10-18 447 → 2026-11-18 450（+3）
 
 
 ---

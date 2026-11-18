@@ -1,6 +1,6 @@
 # Popschlock/Claude-Harness-Generator
 
-⭐ 14 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Popschlock/Claude-Harness-Generator) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Code 生成/校验/升级项目 harness 配置的生成器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

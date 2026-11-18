@@ -1,6 +1,6 @@
 # Dongbumlee/ontosmith
 
-⭐ 285 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Dongbumlee/ontosmith) · [官网](https://dongbumlee.github.io/ontosmith/) · 个人维护
+⭐ 290 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Dongbumlee/ontosmith) · [官网](https://dongbumlee.github.io/ontosmith/) · 个人维护
 
 **本体驱动的知识图谱构建器：从文档产出带证据溯源的受治理图谱**
 
@@ -46,12 +46,12 @@ OntoSmith 是一个从文档语料构建知识图谱的流水线工具：先人�
 ```mermaid
 xychart-beta
     title "Dongbumlee/ontosmith 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 192 --> 293
-    line [200, 265, 270, 276, 278, 279, 284, 285, 285]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 191 --> 299
+    line [200, 265, 270, 276, 278, 279, 284, 285, 290]
 ```
 
-2026-11-08 200 → 2026-11-17 285（+85）
+2026-11-08 200 → 2026-11-18 290（+90）
 
 
 ---

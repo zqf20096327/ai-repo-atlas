@@ -1,6 +1,6 @@
 # TokenScanAI/tokenapi-scan
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/TokenScanAI/tokenapi-scan) · [官网](https://tokenscanai.com) · 组织维护 · 中文 README
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/TokenScanAI/tokenapi-scan) · [官网](https://tokenscanai.com) · 组织维护 · 中文 README
 
 **AI API 中转站真伪与质量检测平台（文档+数据仓库）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TokenScanAI/tokenapi-scan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

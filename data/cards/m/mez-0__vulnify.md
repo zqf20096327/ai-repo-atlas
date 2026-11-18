@@ -45,12 +45,12 @@ CVE 摄取与富化流水线：从 CVEProject、NVD、CISA KEV、EPSS、OSV 及 
 ```mermaid
 xychart-beta
     title "mez-0/vulnify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-11-17 38（+0）
+2026-10-18 38 → 2026-11-18 38（+0）
 
 
 ---

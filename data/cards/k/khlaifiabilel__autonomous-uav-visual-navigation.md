@@ -46,12 +46,12 @@ NVIDIA Redtail 研究项目的历史快照与策展仓库：TrailNet Caffe S-Res
 ```mermaid
 xychart-beta
     title "khlaifiabilel/autonomous-uav-visual-navigation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-11-17 23（+0）
+2026-10-18 23 → 2026-11-18 23（+0）
 
 
 ---

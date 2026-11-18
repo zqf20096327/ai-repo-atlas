@@ -1,6 +1,6 @@
 # daytona/clients
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/daytona/clients) · [官网](https://daytona.io) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/daytona/clients) · [官网](https://daytona.io) · 组织维护
 
 **Daytona 平台的官方 SDK、API 客户端与 CLI/MCP 工具集**
 
@@ -45,12 +45,12 @@ Daytona（面向运行 AI 生成代码的安全弹性基础设施）的客户端
 ```mermaid
 xychart-beta
     title "daytona/clients 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-11-17 16（+1）
+2026-10-18 15 → 2026-11-18 17（+2）
 
 
 ---

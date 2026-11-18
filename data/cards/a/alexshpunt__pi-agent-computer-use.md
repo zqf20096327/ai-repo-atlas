@@ -1,6 +1,6 @@
 # alexshpunt/pi-agent-computer-use
 
-⭐ 90 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alexshpunt/pi-agent-computer-use) · [官网](https://pi.dev/packages/pi-agent-computer-use) · 个人维护
+⭐ 94 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/alexshpunt/pi-agent-computer-use) · [官网](https://pi.dev/packages/pi-agent-computer-use) · 个人维护
 
 **让 Pi 编码 agent 操作 Windows 应用与浏览器的扩展包**
 
@@ -46,12 +46,12 @@ Pi Agent IDE 的扩展包，为 Pi 编码 agent 提供统一计算机操作接�
 ```mermaid
 xychart-beta
     title "alexshpunt/pi-agent-computer-use 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 0 --> 98
-    line [6, 57, 61, 62, 64, 70, 85, 90, 90]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 0 --> 102
+    line [6, 57, 61, 62, 64, 70, 85, 90, 94]
 ```
 
-2026-11-02 6 → 2026-11-17 90（+84）
+2026-11-02 6 → 2026-11-18 94（+88）
 
 
 ---

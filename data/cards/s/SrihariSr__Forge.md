@@ -1,6 +1,6 @@
 # SrihariSr/Forge
 
-⭐ 22 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/SrihariSr/Forge) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/SrihariSr/Forge) · 个人维护
 
 **从零实现的 Python 可微机器学习框架，含生成 C 的深度学习编译器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SrihariSr/Forge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-17"]
-    y-axis "stars" 16 --> 23
-    line [17, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-18"]
+    y-axis "stars" 16 --> 24
+    line [17, 21, 22, 23]
 ```
 
-2026-10-18 17 → 2026-11-17 22（+5）
+2026-10-18 17 → 2026-11-18 23（+6）
 
 
 ---

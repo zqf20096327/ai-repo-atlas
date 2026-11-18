@@ -1,6 +1,6 @@
 # Poetrynan/ZettleAgent
 
-⭐ 90 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Poetrynan/ZettleAgent) · [官网](https://poetrynan.github.io/zettelagent.org/) · 个人维护 · 中文 README
+⭐ 91 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Poetrynan/ZettleAgent) · [官网](https://poetrynan.github.io/zettelagent.org/) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 知识库桌面应用：自主 Agent 管理笔记与知识图谱**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Poetrynan/ZettleAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 88 --> 91
-    line [90, 89, 90, 90]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 88 --> 92
+    line [90, 89, 90, 91]
 ```
 
-2026-10-18 90 → 2026-11-17 90（+0）
+2026-10-18 90 → 2026-11-18 91（+1）
 
 
 ---

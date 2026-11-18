@@ -1,6 +1,6 @@
 # jvogan/a-fable-of-codexes
 
-⭐ 56 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/jvogan/a-fable-of-codexes) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jvogan/a-fable-of-codexes) · 个人维护
 
 **Claude Code 技能：让 Claude 指挥多路 Codex/Opus 工作者舰队并行开发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jvogan/a-fable-of-codexes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18"]
     y-axis "stars" 54 --> 57
     line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-11-17 56（+1）
+2026-10-18 55 → 2026-11-18 56（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # seehiong/md-editor-pro
 
-⭐ 173 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/seehiong/md-editor-pro) · [官网](https://seehiong.github.io/md-editor-pro/) · 个人维护
+⭐ 174 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/seehiong/md-editor-pro) · [官网](https://seehiong.github.io/md-editor-pro/) · 个人维护
 
 **React Markdown 编辑器组件：分屏预览、LaTeX、可选 AI 辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/md-editor-pro 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 171 --> 174
-    line [173, 172, 173, 172, 173, 173]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 171 --> 175
+    line [173, 172, 173, 172, 173, 174]
 ```
 
-2026-10-18 173 → 2026-11-17 173（+0）
+2026-10-18 173 → 2026-11-18 174（+1）
 
 
 ---

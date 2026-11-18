@@ -1,6 +1,6 @@
 # misko/spf
 
-⭐ 12 · Python · 推送 2026-11-09 · [GitHub](https://github.com/misko/spf) · 个人维护
+⭐ 13 · Python · 推送 2026-11-09 · [GitHub](https://github.com/misko/spf) · 个人维护
 
 **移动无线电接收机定位射频发射源（如无人机）的算法系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "misko/spf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 13（+1）
 
 
 ---

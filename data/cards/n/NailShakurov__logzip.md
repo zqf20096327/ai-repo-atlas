@@ -45,12 +45,12 @@ logzip 是用 Rust 编写、通过 PyO3 提供 Python API 的日志压缩工具�
 ```mermaid
 xychart-beta
     title "NailShakurov/logzip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

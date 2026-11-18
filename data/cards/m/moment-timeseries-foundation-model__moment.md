@@ -1,6 +1,6 @@
 # moment-timeseries-foundation-model/moment
 
-⭐ 874 · TypeScript · MIT · 推送 2026-02-10 · [GitHub](https://github.com/moment-timeseries-foundation-model/moment) · [官网](https://moment-timeseries-foundation-model.github.io/) · 组织维护
+⭐ 875 · TypeScript · MIT · 推送 2026-02-10 · [GitHub](https://github.com/moment-timeseries-foundation-model/moment) · [官网](https://moment-timeseries-foundation-model.github.io/) · 组织维护
 
 **开源时间序列基础模型：一个模型处理预测、分类、异常检测与补全**
 
@@ -46,12 +46,12 @@ CMU Auton Lab 发布的通用时间序列基础模型家族（ICML 2024 论文�
 ```mermaid
 xychart-beta
     title "moment-timeseries-foundation-model/moment 星数(近 14 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-17"]
-    y-axis "stars" 856 --> 875
-    line [857, 859, 862, 864, 865, 866, 865, 864, 869, 870, 871, 873, 874, 874]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18"]
+    y-axis "stars" 856 --> 876
+    line [857, 859, 862, 864, 865, 866, 865, 864, 869, 870, 871, 873, 874, 875]
 ```
 
-2026-10-18 857 → 2026-11-17 874（+17）
+2026-10-18 857 → 2026-11-18 875（+18）
 
 
 ---

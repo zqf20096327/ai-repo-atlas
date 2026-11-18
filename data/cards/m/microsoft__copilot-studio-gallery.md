@@ -1,6 +1,6 @@
 # microsoft/copilot-studio-gallery
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/copilot-studio-gallery) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/copilot-studio-gallery) · 组织维护
 
 **Copilot Studio 智能体与工作流方案的社区画廊站点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/copilot-studio-gallery 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-17"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 14, 16, 16]
+    x-axis ["2026-10-29", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-18"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 14, 16, 17]
 ```
 
-2026-10-29 11 → 2026-11-17 16（+5）
+2026-10-29 11 → 2026-11-18 17（+6）
 
 
 ---

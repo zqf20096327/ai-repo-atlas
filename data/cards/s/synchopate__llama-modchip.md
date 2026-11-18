@@ -1,6 +1,6 @@
 # synchopate/llama-modchip
 
-⭐ 1,320 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/synchopate/llama-modchip) · [官网](https://github.com/synchopate/llama-modchip#readme) · 组织维护
+⭐ 1,342 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/synchopate/llama-modchip) · [官网](https://github.com/synchopate/llama-modchip#readme) · 组织维护
 
 **面向 16/32/64GB 内存的 CPU 优先 llama.cpp 推理引擎与压缩模型分发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "synchopate/llama-modchip 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 0 --> 1444
-    line [71, 375, 882, 938, 1095, 1187, 1231, 1263, 1320, 1320]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 0 --> 1469
+    line [71, 375, 882, 938, 1095, 1187, 1231, 1263, 1320, 1342]
 ```
 
-2026-11-02 71 → 2026-11-17 1,320（+1,249）
+2026-11-02 71 → 2026-11-18 1,342（+1,271）
 
 
 ---

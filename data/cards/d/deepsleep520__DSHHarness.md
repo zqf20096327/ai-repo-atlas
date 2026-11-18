@@ -1,6 +1,6 @@
 # deepsleep520/DSHHarness
 
-⭐ 19 · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/deepsleep520/DSHHarness) · [官网](https://github.com/deepsleep520/DSHHarness/releases/latest) · 个人维护 · 中文 README
+⭐ 20 · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/deepsleep520/DSHHarness) · [官网](https://github.com/deepsleep520/DSHHarness/releases/latest) · 个人维护 · 中文 README
 
 **安卓 App：PRoot 沙箱内跑 Alpine Linux 与 AI 编程助手 dsh**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deepsleep520/DSHHarness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 12 --> 20
-    line [13, 15, 16, 18, 16, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 12 --> 21
+    line [13, 15, 16, 18, 16, 19, 20]
 ```
 
-2026-10-18 13 → 2026-11-17 19（+6）
+2026-10-18 13 → 2026-11-18 20（+7）
 
 
 ---

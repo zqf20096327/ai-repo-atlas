@@ -1,6 +1,6 @@
 # kafein-technology/KAI-Flow
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/kafein-technology/KAI-Flow) · [官网](https://kaiflow.io) · 组织维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/kafein-technology/KAI-Flow) · [官网](https://kaiflow.io) · 组织维护
 
 **节点式可视化 AI 工作流编排平台，用于搭建 LLM/Agent/RAG 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kafein-technology/KAI-Flow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 54 --> 59
     line [55, 56, 57, 55, 58, 58]
 ```
 
-2026-10-18 55 → 2026-11-17 58（+3）
+2026-10-18 55 → 2026-11-18 58（+3）
 
 
 ---

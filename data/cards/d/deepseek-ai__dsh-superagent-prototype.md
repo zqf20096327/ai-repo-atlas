@@ -1,6 +1,6 @@
 # deepseek-ai/dsh-superagent-prototype
 
-⭐ 23,491 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) · 组织维护
+⭐ 23,667 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) · 组织维护
 
 **面向单仓库的主动编码 agent 原型，打包为 DeepSeek Harness bundle**
 
@@ -45,12 +45,12 @@ DeepSeek 团队发布的研究原型：dsh-superagent 是针对单个 GitHub 仓
 ```mermaid
 xychart-beta
     title "deepseek-ai/dsh-superagent-prototype 星数(近 11 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 0 --> 25666
-    line [1741, 6775, 21155, 22158, 22479, 22731, 23015, 23134, 23280, 23491, 23491]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 0 --> 25859
+    line [1741, 6775, 21155, 22158, 22479, 22731, 23015, 23134, 23280, 23491, 23667]
 ```
 
-2026-11-01 1,741 → 2026-11-17 23,491（+21,750）
+2026-11-01 1,741 → 2026-11-18 23,667（+21,926）
 
 
 ---

@@ -1,6 +1,6 @@
 # sambuild04/screen-voice-agent
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sambuild04/screen-voice-agent) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sambuild04/screen-voice-agent) · 个人维护
 
 **macOS 语音优先 AI 桌面助手：看屏幕听音频并实时对话操控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sambuild04/screen-voice-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-17"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-18"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 39, 40, 41]
 ```
 
-2026-10-18 38 → 2026-11-17 40（+2）
+2026-10-18 38 → 2026-11-18 41（+3）
 
 
 ---

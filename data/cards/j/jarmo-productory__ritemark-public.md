@@ -1,6 +1,6 @@
 # jarmo-productory/ritemark-public
 
-⭐ 16 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/jarmo-productory/ritemark-public) · 组织维护
+⭐ 17 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/jarmo-productory/ritemark-public) · 组织维护
 
 **面向非程序员的本地优先 AI agent Markdown 编辑器**
 
@@ -46,12 +46,12 @@ Ritemark 是 macOS/Windows 桌面 Markdown 编辑器，三窗格布局：中央�
 ```mermaid
 xychart-beta
     title "jarmo-productory/ritemark-public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

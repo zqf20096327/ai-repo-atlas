@@ -1,6 +1,6 @@
 # google/jaxopt
 
-⭐ 1,070 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/jaxopt) · [官网](https://jaxopt.github.io) · 组织维护
+⭐ 1,071 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/jaxopt) · [官网](https://jaxopt.github.io) · 组织维护
 
 **JAX 生态的硬件加速、可批处理、可微分优化器库（已停维）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google/jaxopt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 1066 --> 1071
-    line [1067, 1068, 1067, 1070, 1070]
+    x-axis ["2026-10-18", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 1066 --> 1072
+    line [1067, 1068, 1067, 1070, 1071]
 ```
 
-2026-10-18 1,067 → 2026-11-17 1,070（+3）
+2026-10-18 1,067 → 2026-11-18 1,071（+4）
 
 
 ---

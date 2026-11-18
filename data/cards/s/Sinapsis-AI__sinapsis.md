@@ -1,6 +1,6 @@
 # Sinapsis-AI/sinapsis
 
-⭐ 41 · Python · AGPL-3.0 · 推送 2026-03-30 · [GitHub](https://github.com/Sinapsis-AI/sinapsis) · [官网](https://sinapsis.tech/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 AI 工作流的模块化 Agent 构建与管理平台**
 
@@ -11,7 +11,7 @@ Sinapsis 是一个 Python 编写的 AI 工作流框架：以可组合、可复�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # hongyuan007/tapword-translator
 
-⭐ 269 · TypeScript · AGPL-3.0 · 推送 2026-07-26 · [GitHub](https://github.com/hongyuan007/tapword-translator) · [官网](http://www.tapword.cn) · 个人维护 · 中文 README
+⭐ 270 · TypeScript · AGPL-3.0 · 推送 2026-07-26 · [GitHub](https://github.com/hongyuan007/tapword-translator) · [官网](http://www.tapword.cn) · 个人维护 · 中文 README
 
 **在原文下方显示字幕式 AI 翻译的 Chrome 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hongyuan007/tapword-translator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18"]
     y-axis "stars" 268 --> 273
-    line [271, 272, 271, 270, 269, 269]
+    line [271, 272, 271, 270, 269, 270]
 ```
 
-2026-10-18 271 → 2026-11-17 269（-2）
+2026-10-18 271 → 2026-11-18 270（-1）
 
 
 ---

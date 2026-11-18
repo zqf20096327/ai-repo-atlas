@@ -1,6 +1,6 @@
 # The-Sentience-Company/easel
 
-⭐ 61 · JavaScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/The-Sentience-Company/easel) · [官网](https://github.com/The-Sentience-Company/easel#readme) · 组织维护
+⭐ 61 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/The-Sentience-Company/easel) · [官网](https://github.com/The-Sentience-Company/easel#readme) · 组织维护
 
 **本地人机审核看板：agent 发布工作，人批注，反馈以 JSON 回流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "The-Sentience-Company/easel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-13", "2026-11-18"]
     y-axis "stars" 58 --> 62
     line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-11-17 61（+2）
+2026-10-18 59 → 2026-11-18 61（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # HorseSword/joplin-plugin-notellm
 
-⭐ 46 · TypeScript · AGPL-3.0 · 推送 2026-07-12 · [GitHub](https://github.com/HorseSword/joplin-plugin-notellm) · 个人维护 · 中文 README
+⭐ 45 · TypeScript · AGPL-3.0 · 推送 2026-07-12 · [GitHub](https://github.com/HorseSword/joplin-plugin-notellm) · 个人维护 · 中文 README
 
 **Joplin 笔记的 AI 插件：聊天、摘要、改写、问答与 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HorseSword/joplin-plugin-notellm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 44 --> 47
+    line [46, 45]
 ```
 
-2026-10-18 46 → 2026-11-17 46（+0）
+2026-10-18 46 → 2026-11-18 45（-1）
 
 
 ---

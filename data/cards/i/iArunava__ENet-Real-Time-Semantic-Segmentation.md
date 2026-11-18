@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iArunava/ENet-Real-Time-Semantic-Segmentation 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-17"]
+    x-axis ["2026-11-15", "2026-11-18"]
     y-axis "stars" 284 --> 286
     line [285, 285]
 ```
 
-2026-11-15 285 → 2026-11-17 285（+0）
+2026-11-15 285 → 2026-11-18 285（+0）
 
 
 ---

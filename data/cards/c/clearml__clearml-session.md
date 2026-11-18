@@ -1,6 +1,6 @@
 # clearml/clearml-session
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/clearml/clearml-session) · [官网](https://clear.ml) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/clearml/clearml-session) · [官网](https://clear.ml) · 组织维护
 
 **在远程机器上启动 JupyterLab/VSCode/SSH 开发会话的 CLI**
 
@@ -47,12 +47,12 @@ ClearML 生态的远程交互式开发会话工具：在本地运行 clearml-ses
 ```mermaid
 xychart-beta
     title "clearml/clearml-session 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-11-17 32（+0）
+2026-10-18 32 → 2026-11-18 32（+0）
 
 
 ---

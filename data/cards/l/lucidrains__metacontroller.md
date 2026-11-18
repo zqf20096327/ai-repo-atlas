@@ -46,12 +46,12 @@ Google Paradigms of Intelligence 团队论文 "Emergent temporal abstractions in
 ```mermaid
 xychart-beta
     title "lucidrains/metacontroller 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-18 107 → 2026-11-17 107（+0）
+2026-10-18 107 → 2026-11-18 107（+0）
 
 
 ---

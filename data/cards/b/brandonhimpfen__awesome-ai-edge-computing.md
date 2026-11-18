@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-edge-computing
 
-⭐ 35 · Python · 推送 2026-09-06 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-edge-computing) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **边缘计算 AI 工具与资源策展清单：框架、硬件、平台、教程**
 

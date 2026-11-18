@@ -1,6 +1,6 @@
 # icodesign/remote-installer
 
-⭐ 147 · Rust · MIT · 推送 2026-09-30 · [GitHub](https://github.com/icodesign/remote-installer) · 个人维护
+⭐ 148 · Rust · MIT · 推送 2026-09-30 · [GitHub](https://github.com/icodesign/remote-installer) · 个人维护
 
 **通过临时 HTTPS 链接把已签名 iOS/Android 包安装到真机的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "icodesign/remote-installer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 106 --> 150
-    line [109, 110, 139, 144, 147, 147]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 106 --> 151
+    line [109, 110, 139, 144, 147, 148]
 ```
 
-2026-10-18 109 → 2026-11-17 147（+38）
+2026-10-18 109 → 2026-11-18 148（+39）
 
 
 ---

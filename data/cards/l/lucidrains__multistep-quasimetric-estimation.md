@@ -44,12 +44,12 @@ lucidrains 维护的 PyTorch 库，对 Berkeley 的 Zheng 等人提出的目标�
 ```mermaid
 xychart-beta
     title "lucidrains/multistep-quasimetric-estimation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-18 11 → 2026-11-17 11（+0）
+2026-10-18 11 → 2026-11-18 11（+0）
 
 
 ---

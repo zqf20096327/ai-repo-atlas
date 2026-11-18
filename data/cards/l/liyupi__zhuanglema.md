@@ -1,6 +1,6 @@
 # liyupi/zhuanglema
 
-⭐ 116 · JavaScript · 推送 2026-06-11 · [GitHub](https://github.com/liyupi/zhuanglema) · [官网](https://ai.codefather.cn/vibe) · 个人维护 · 中文 README
+⭐ 117 · JavaScript · 推送 2026-06-11 · [GitHub](https://github.com/liyupi/zhuanglema) · [官网](https://ai.codefather.cn/vibe) · 个人维护 · 中文 README
 
 **AI 驱动的软件安装助手：一句话生成并执行安装脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/zhuanglema 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 114 --> 117
-    line [115, 116, 116]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 114 --> 118
+    line [115, 116, 117]
 ```
 
-2026-10-18 115 → 2026-11-17 116（+1）
+2026-10-18 115 → 2026-11-18 117（+2）
 
 
 ---

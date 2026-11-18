@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-ack-mcp-server
 
-⭐ 121 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/aliyun/alibabacloud-ack-mcp-server) · 组织维护 · 中文 README
+⭐ 121 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/aliyun/alibabacloud-ack-mcp-server) · 组织维护 · 中文 README
 
 **面向 AI Agent 的阿里云 ACK/K8s 容器运维 MCP 工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aliyun/alibabacloud-ack-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 118 --> 122
     line [119, 120, 121, 120, 121, 121]
 ```
 
-2026-10-18 119 → 2026-11-17 121（+2）
+2026-10-18 119 → 2026-11-18 121（+2）
 
 
 ---

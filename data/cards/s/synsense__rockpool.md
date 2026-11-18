@@ -1,6 +1,6 @@
 # synsense/rockpool
 
-⭐ 93 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/synsense/rockpool) · [官网](https://rockpool.ai) · 组织维护
+⭐ 93 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/synsense/rockpool) · [官网](https://rockpool.ai) · 组织维护
 
 **面向脉冲神经网络的机器学习库：构建/训练/部署**
 
@@ -43,12 +43,12 @@ Rockpool 是一个用于开发脉冲神经网络（SNN）信号处理应用的 P
 ```mermaid
 xychart-beta
     title "synsense/rockpool 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18"]
     y-axis "stars" 91 --> 94
     line [92, 93, 92, 93, 92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-11-17 93（+1）
+2026-10-18 92 → 2026-11-18 93（+1）
 
 
 ---

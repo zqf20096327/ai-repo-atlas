@@ -1,6 +1,6 @@
 # kingcharleslzy-ai/DSH-Spicy
 
-⭐ 236 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/kingcharleslzy-ai/DSH-Spicy) · [官网](https://kingcharleslzy-ai.github.io/DSH-Spicy/) · 个人维护 · 中文 README
+⭐ 295 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/kingcharleslzy-ai/DSH-Spicy) · [官网](https://kingcharleslzy-ai.github.io/DSH-Spicy/) · 个人维护 · 中文 README
 
 **DSH 平台的 NSFW 图像/视频创作插件，用自托管模型生成成人内容**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kingcharleslzy-ai/DSH-Spicy 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 78 --> 250
-    line [92, 130, 180, 236, 236]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 72 --> 315
+    line [92, 130, 180, 236, 295]
 ```
 
-2026-11-13 92 → 2026-11-17 236（+144）
+2026-11-13 92 → 2026-11-18 295（+203）
 
 
 ---

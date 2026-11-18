@@ -1,6 +1,6 @@
 # ml-tooling/opyrator
 
-⭐ 3,136 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ml-tooling/opyrator) · [官网](https://opyrator-playground.mltooling.org) · 组织维护
+⭐ 3,136 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ml-tooling/opyrator) · [官网](https://opyrator-playground.mltooling.org) · 组织维护
 
 **把 Python 函数一键变成带 Web API 与 GUI 的微服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ml-tooling/opyrator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18"]
     y-axis "stars" 3134 --> 3139
     line [3135, 3136, 3137, 3138, 3137, 3138, 3136, 3136]
 ```
 
-2026-10-18 3,135 → 2026-11-17 3,136（+1）
+2026-10-18 3,135 → 2026-11-18 3,136（+1）
 
 
 ---

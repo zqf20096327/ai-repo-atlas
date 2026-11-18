@@ -45,12 +45,12 @@ DeployHQ 官方生态的 MCP 服务器：向 Claude Desktop、Claude Code 等 MC
 ```mermaid
 xychart-beta
     title "deployhq/deployhq-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

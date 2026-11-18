@@ -1,6 +1,6 @@
 # abhiram-ar/aicademy-fontend
 
-⭐ 19 · TypeScript · 推送 2026-09-07 · [GitHub](https://github.com/abhiram-ar/aicademy-fontend) · [官网](https://aicademy.abhiram-ar.com/) · 个人维护
+⭐ 18 · TypeScript · 推送 2026-09-07 · [GitHub](https://github.com/abhiram-ar/aicademy-fontend) · [官网](https://aicademy.abhiram-ar.com/) · 个人维护
 
 **面向师生的在线课程平台前端，含 RAG 答疑**
 
@@ -45,12 +45,12 @@ AIcademy 是一个类似 Udemy 的 LMS 平台的前端仓库：学生可购买�
 ```mermaid
 xychart-beta
     title "abhiram-ar/aicademy-fontend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 17 --> 20
+    line [19, 18]
 ```
 
-2026-10-18 19 → 2026-11-17 19（+0）
+2026-10-18 19 → 2026-11-18 18（-1）
 
 
 ---

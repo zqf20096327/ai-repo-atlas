@@ -1,6 +1,6 @@
 # liekzejaws/rushlight
 
-⭐ 81 · Java · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/liekzejaws/rushlight) · 个人维护
+⭐ 82 · Java · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/liekzejaws/rushlight) · 个人维护
 
 **离线生存手机应用：本地 LLM+地图+P2P 共享，断网可用**
 
@@ -46,12 +46,12 @@ OsmAnd 的 Android fork，面向记者、活动人士与人道工作者等高威
 ```mermaid
 xychart-beta
     title "liekzejaws/rushlight 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 76 --> 82
-    line [77, 78, 79, 77, 79, 80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 76 --> 83
+    line [77, 78, 79, 77, 79, 80, 81, 82]
 ```
 
-2026-10-18 77 → 2026-11-17 81（+4）
+2026-10-18 77 → 2026-11-18 82（+5）
 
 
 ---

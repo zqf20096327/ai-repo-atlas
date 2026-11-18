@@ -1,6 +1,6 @@
 # ahpxex/open-dictionary
 
-⭐ 142 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/ahpxex/open-dictionary) · [官网](https://ahpxex.github.io/open-english-dictionary/) · 个人维护 · 中文 README
+⭐ 141 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/ahpxex/open-dictionary) · [官网](https://ahpxex.github.io/open-english-dictionary/) · 个人维护 · 中文 README
 
 **面向语言学习者的开放英语词典及可复现数据管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ahpxex/open-dictionary 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 141 --> 144
-    line [143, 142, 143, 142, 143, 142, 142]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 140 --> 144
+    line [143, 142, 143, 142, 143, 142, 141]
 ```
 
-2026-10-18 143 → 2026-11-17 142（-1）
+2026-10-18 143 → 2026-11-18 141（-2）
 
 
 ---

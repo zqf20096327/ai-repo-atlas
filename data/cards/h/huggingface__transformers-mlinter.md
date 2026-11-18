@@ -1,6 +1,6 @@
 # huggingface/transformers-mlinter
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/huggingface/transformers-mlinter) · [官网](https://huggingface.github.io/transformers-mlinter/) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/transformers-mlinter) · [官网](https://huggingface.github.io/transformers-mlinter/) · 组织维护
 
 **给 Transformers 贡献者：静态检查模型集成文件的结构约定**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/transformers-mlinter 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-17"]
+    x-axis ["2026-10-23", "2026-11-12", "2026-11-18"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-23 11 → 2026-11-17 12（+1）
+2026-10-23 11 → 2026-11-18 12（+1）
 
 
 ---

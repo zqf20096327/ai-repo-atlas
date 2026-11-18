@@ -1,6 +1,6 @@
 # deepnoodle-ai/dive
 
-⭐ 133 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/deepnoodle-ai/dive) · [官网](https://deepnoodle.ai) · 组织维护
+⭐ 133 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/deepnoodle-ai/dive) · [官网](https://deepnoodle.ai) · 组织维护
 
 **Go 语言的 AI agent 构建库：统一 LLM 接入与工具调用循环**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "deepnoodle-ai/dive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-18"]
     y-axis "stars" 131 --> 134
     line [132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-11-17 133（+1）
+2026-10-18 132 → 2026-11-18 133（+1）
 
 
 ---

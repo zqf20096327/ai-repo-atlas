@@ -1,6 +1,6 @@
 # vuepont/elevenlabs-ui-vue
 
-⭐ 202 · Vue · MIT · 推送 2026-10-11 · [GitHub](https://github.com/vuepont/elevenlabs-ui-vue) · [官网](http://elevenlabs-ui-vue.com) · 个人维护
+⭐ 203 · Vue · MIT · 推送 2026-10-11 · [GitHub](https://github.com/vuepont/elevenlabs-ui-vue) · [官网](http://elevenlabs-ui-vue.com) · 个人维护
 
 **构建多模态语音 agent 的 Vue UI 组件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vuepont/elevenlabs-ui-vue 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 198 --> 203
-    line [199, 200, 201, 202, 202]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 198 --> 204
+    line [199, 200, 201, 202, 203]
 ```
 
-2026-10-18 199 → 2026-11-17 202（+3）
+2026-10-18 199 → 2026-11-18 203（+4）
 
 
 ---

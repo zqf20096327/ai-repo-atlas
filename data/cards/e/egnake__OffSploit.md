@@ -1,6 +1,6 @@
 # egnake/OffSploit
 
-⭐ 14 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/egnake/OffSploit) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/egnake/OffSploit) · 个人维护
 
 **本地 LLM 驱动的自主红队渗透框架：检索改写 Exploit 并编译**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "egnake/OffSploit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-18", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-18 13 → 2026-11-17 14（+1）
+2026-10-18 13 → 2026-11-18 15（+2）
 
 
 ---

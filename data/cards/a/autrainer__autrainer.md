@@ -1,6 +1,6 @@
 # autrainer/autrainer
 
-⭐ 24 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/autrainer/autrainer) · [官网](https://autrainer.github.io/autrainer/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/autrainer/autrainer) · [官网](https://autrainer.github.io/autrainer/) · 组织维护
 
 **面向计算机听觉任务的模块化深度学习训练工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "autrainer/autrainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-11-17 24（+0）
+2026-10-18 24 → 2026-11-18 25（+1）
 
 
 ---

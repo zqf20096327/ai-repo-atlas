@@ -1,6 +1,6 @@
 # obeskay/lottie-animator-skill
 
-⭐ 24 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/obeskay/lottie-animator-skill) · [官网](https://obeskay.github.io/lottie-animator-skill/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/obeskay/lottie-animator-skill) · [官网](https://obeskay.github.io/lottie-animator-skill/) · 个人维护
 
 **Claude Code 技能：从配方或 SVG 生成 Lottie 动画并自检渲染**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "obeskay/lottie-animator-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-11-17 24（+2）
+2026-10-18 22 → 2026-11-18 25（+3）
 
 
 ---

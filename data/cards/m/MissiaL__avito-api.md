@@ -1,6 +1,6 @@
 # MissiaL/avito-api
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/MissiaL/avito-api) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/MissiaL/avito-api) · 个人维护 · 中文 README
 
 **让 AI agent 操作 Avito Business API 的技能包（SKILL.md+OpenAPI 快照）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MissiaL/avito-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-17"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-11-17 16（+2）
+2026-10-18 14 → 2026-11-18 17（+3）
 
 
 ---

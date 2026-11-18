@@ -1,6 +1,6 @@
 # charlesericwilson-portfolio/Echo_Adapt_v5
 
-⭐ 12 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/charlesericwilson-portfolio/Echo_Adapt_v5) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/charlesericwilson-portfolio/Echo_Adapt_v5) · 个人维护
 
 **Rust 编写的本地优先 LLM agent 运行时，提供工具执行与持久会话**
 
@@ -46,12 +46,12 @@ Adapt 是用 Rust 实现的 agent 执行运行时：让语言模型通过小型 
 ```mermaid
 xychart-beta
     title "charlesericwilson-portfolio/Echo_Adapt_v5 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-18 12 → 2026-11-17 12（+0）
+2026-10-18 12 → 2026-11-18 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # REIL-UConn/modular-ml
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/REIL-UConn/modular-ml) · [官网](https://modular-ml.readthedocs.io) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/REIL-UConn/modular-ml) · [官网](https://modular-ml.readthedocs.io) · 组织维护
 
 **面向科研的模块化可复现 ML 实验框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "REIL-UConn/modular-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-11-17 13（+0）
+2026-10-18 13 → 2026-11-18 13（+0）
 
 
 ---

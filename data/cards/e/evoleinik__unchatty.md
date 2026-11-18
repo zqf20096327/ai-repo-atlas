@@ -1,6 +1,6 @@
 # evoleinik/unchatty
 
-⭐ 17 · Shell · MIT · 推送 2026-08-14 · [GitHub](https://github.com/evoleinik/unchatty) · 个人维护
+⭐ 18 · Shell · MIT · 推送 2026-08-14 · [GitHub](https://github.com/evoleinik/unchatty) · 个人维护
 
 **压缩 Claude Code 回复长度与文风的 CLAUDE.md 规则块及 A/B 验证脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "evoleinik/unchatty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-11-17 17（+0）
+2026-10-18 17 → 2026-11-18 18（+1）
 
 
 ---

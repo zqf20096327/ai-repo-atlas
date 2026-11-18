@@ -46,12 +46,12 @@ BetterDiscord 平台的 Discord 翻译插件，需搭配 BDFDB Library 运行，
 ```mermaid
 xychart-beta
     title "ROOT94-MAX/DiscordAITranslator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-11-17 28（+0）
+2026-10-18 28 → 2026-11-18 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kazuyaseki/code-transformer-for-Figma
 
-⭐ 71 · TypeScript · 推送 2026-11-11 · [GitHub](https://github.com/kazuyaseki/code-transformer-for-Figma) · 个人维护
+⭐ 71 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/kazuyaseki/code-transformer-for-Figma) · 个人维护
 
 **Figma 插件：用 OpenAI API 从设计稿生成代码**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "kazuyaseki/code-transformer-for-Figma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-11-17 71（+0）
+2026-10-18 71 → 2026-11-18 71（+0）
 
 
 ---

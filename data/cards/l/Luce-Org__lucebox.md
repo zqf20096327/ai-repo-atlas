@@ -1,6 +1,6 @@
 # Luce-Org/lucebox
 
-⭐ 3,011 · C++ · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Luce-Org/lucebox) · [官网](https://www.lucebox.com) · 组织维护
+⭐ 3,015 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Luce-Org/lucebox) · [官网](https://www.lucebox.com) · 组织维护
 
 **面向 AMD 消费级异构硬件的本地 LLM 推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Luce-Org/lucebox 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"]
-    y-axis "stars" 3002 --> 3012
-    line [3003, 3004, 3007, 3011, 3011]
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18"]
+    y-axis "stars" 3002 --> 3016
+    line [3003, 3004, 3007, 3011, 3015]
 ```
 
-2026-11-12 3,003 → 2026-11-17 3,011（+8）
+2026-11-12 3,003 → 2026-11-18 3,015（+12）
 
 
 ---

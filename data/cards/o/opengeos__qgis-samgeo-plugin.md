@@ -1,6 +1,6 @@
 # opengeos/qgis-samgeo-plugin
 
-⭐ 130 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/opengeos/qgis-samgeo-plugin) · [官网](https://samgeo.gishub.org) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/opengeos/qgis-samgeo-plugin) · [官网](https://samgeo.gishub.org) · 个人维护
 
 **QGIS 插件：在 GIS 中用 SAM 做遥感图像分割**
 
@@ -46,12 +46,12 @@ QGIS 插件，封装 SamGeo Python 包，基于 Meta Segment Anything Model 对�
 ```mermaid
 xychart-beta
     title "opengeos/qgis-samgeo-plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-11", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-11", "2026-11-18"]
     y-axis "stars" 128 --> 131
     line [129, 130, 129, 130, 130]
 ```
 
-2026-10-18 129 → 2026-11-17 130（+1）
+2026-10-18 129 → 2026-11-18 130（+1）
 
 
 ---

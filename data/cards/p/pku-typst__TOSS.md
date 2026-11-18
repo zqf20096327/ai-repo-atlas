@@ -1,6 +1,6 @@
 # pku-typst/TOSS
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/pku-typst/TOSS) · [官网](https://pku-typst.github.io/TOSS/) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/pku-typst/TOSS) · [官网](https://pku-typst.github.io/TOSS/) · 组织维护 · 中文 README
 
 **自托管的 Typst/LaTeX 协作排版服务器，含实时编辑与 Git 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pku-typst/TOSS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-17"]
-    y-axis "stars" 14 --> 17
-    line [16, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-18"]
+    y-axis "stars" 14 --> 18
+    line [16, 15, 16, 17]
 ```
 
-2026-10-18 16 → 2026-11-17 16（+0）
+2026-10-18 16 → 2026-11-18 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # IntptrMax/YoloSharp
 
-⭐ 266 · C# · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/IntptrMax/YoloSharp) · 个人维护
+⭐ 266 · C# · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/IntptrMax/YoloSharp) · 个人维护
 
 **纯 C# 训练与运行 YOLO 模型的 .NET 库，无需 Python**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IntptrMax/YoloSharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
+    x-axis ["2026-10-18", "2026-11-18"]
     y-axis "stars" 265 --> 267
     line [266, 266]
 ```
 
-2026-10-18 266 → 2026-11-17 266（+0）
+2026-10-18 266 → 2026-11-18 266（+0）
 
 
 ---

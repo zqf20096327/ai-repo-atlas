@@ -1,6 +1,6 @@
 # FluxML/fluxml.github.io
 
-⭐ 20 · HTML · MIT · 推送 2026-03-26 · [GitHub](https://github.com/FluxML/fluxml.github.io) · [官网](https://fluxml.ai) · 组织维护
+⭐ 21 · HTML · MIT · 推送 2026-03-26 · [GitHub](https://github.com/FluxML/fluxml.github.io) · [官网](https://fluxml.ai) · 组织维护
 
 **FluxML 官网的网站源码仓库（基于 Franklin.jl）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "FluxML/fluxml.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-17"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-11-18"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-11-17 20（+0）
+2026-10-18 20 → 2026-11-18 21（+1）
 
 
 ---
